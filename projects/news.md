@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 PM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/14/1064221041/deported-activists-allowed-back-into-the-u-s-saying-ice-retaliated-against-them">Deported activists allowed back into the U.S., saying ICE retaliated against them</a> NPR: A few months ago, Claudio Rojas was allowed back into the U.S. He's one of several activists deported but then allowed to return after arguing that immigration authorities retaliated against them. 
+ <p class="updated_time"> 03:55 PM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/14/1064221027/covid-can-cause-long-term-injuries-to-the-brain-heres-what-scientists-have-learn">COVID can cause long-term injuries to the brain. Here's what scientists have learned</a> NPR: Scientists are beginning to understand how COVID can cause brain injuries. The virus can lead to a stroke, starve the brain of oxygen, cause inflammation brain and might infect and kill brain cells. 
  <p class="updated_time"> 03:30 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/climate/arctic-report-card-climate-change.html">Trends in Arctic Report Card: ‘Consistent, Alarming and Undeniable’</a> NYT: The changes happening at the top of the planet could unfold elsewhere in the years to come, scientists report. 
  <p class="updated_time"> 03:24 PM CT, Dec. 14 </p> 
@@ -73,6 +77,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/asia/blinken-indonesia-china.html">Blinken, in Indonesia, Stresses Soft Power to Counter China</a> NYT: The U.S. secretary of state seeks to make the case that the United States is a better bet as a partner than China, even if it’s not spending so lavishly in the region. 
  <p class="updated_time"> 09:51 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/asia/duterte-philippines-senate.html">Philippines President Rodrigo Duterte Won't Run for Senate</a> NYT: The populist president also promised a peaceful transition of power when his term ends next year. 
+ <p class="updated_time"> 09:47 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/asia/india-omicron-fake-test-arrest.html">Four people are arrested in India after a man leaves the country using a fake virus test result.</a> NYT: The man, a 66-year-old South African pharmaceutical executive, fled his quarantine hotel and was later confirmed to have the Omicron variant. 
  <p class="updated_time"> 09:07 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/gas-truck-blast-in-haiti-kills-some-40-in-latest-disaster-for-nation-11639490464">Haiti Gas-Truck Blast Kills at Least 62 People</a> WSJ: The explosion hit the hemisphere’s poorest nation, which is already contending with the recent assassination of its president, a devastating earthquake and the kidnapping of a group of mostly American missionaries. 
  <p class="updated_time"> 09:05 AM CT, Dec. 14 </p> 
@@ -85,6 +91,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064018450/tensions-over-ukraine-come-as-relations-between-russia-and-nato-are-at-an-all-ti">Tensions over Ukraine come as relations between Russia and NATO are at an all-time low</a> NPR: Russian President Vladimir Putin once floated the prospect of his country joining NATO. 
  <p class="updated_time"> 06:21 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/famed-russian-rights-group-that-investigated-soviet-era-crimes-faces-closure-under-putin-11639502515">Famed Russian Rights Group That Investigated Soviet-Era Crimes Faces Closure Under Putin</a> WSJ: Government prosecutors are pushing for Memorial’s umbrella organization and its human-rights wing to be dissolved in what many people here view as one of the most shocking examples yet of how the Kremlin is squeezing space for dissent. 
+ <p class="updated_time"> 04:45 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/a-second-omicron-case-in-china-raises-the-prospect-of-stricter-controls.html">A second Omicron case in China raises the prospect of stricter controls.</a> NYT: Though both Omicron cases were quarantined upon arrival, a small outbreak in a building where one man was quarantining highlights how difficult it may be to control the new variant. 
  <p class="updated_time"> 04:00 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/insider/dive-bars.html">Why a Times Reporter Keeps Writing About Dive Bars</a> NYT: Attracted to the grit, equality and community of those modest watering holes, a Times reporter has worked them into his coverage. 
  <p class="updated_time"> 03:48 AM CT, Dec. 14 </p> 
@@ -179,10 +187,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59631837?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: 100-year-old church destroyed in seconds</a> BBC: The BBC's Nomia Iqbal shows us the ruins of the Mayfield First United Methodist Church in Kentucky. 
  <p class="updated_time"> 12:42 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
- <p class="updated_time"> 09:30 AM CT, Dec. 12 </p> 
- <a href="https://www.npr.org/2021/12/12/1063497595/vicente-fernandez-obituary">Vicente 'Chente' Fernández, 'El Rey' of ranchera music, has died at 81</a> NPR: The singer had been in critical condition recently after being hospitalized due to a fall at his Guadalajara ranch in August, and being diagnosed with Guillain–Barré syndrome afterwards. 
- <p class="updated_time"> 07:22 AM CT, Dec. 12 </p> 
- <a href="https://www.npr.org/2021/12/12/1063483633/thousands-of-russian-troops-have-massed-on-the-border-of-ukraine">Thousands of Russian troops have massed on the border of Ukraine</a> NPR: Don Gonyea speaks with Angela Stent of the Brookings Institution about how the crisis on the Ukraine-Russia border can be resolved. 
  <p class="updated_time"> 06:12 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 03:10 PM CT, Dec. 11 </p> 
@@ -197,8 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/europe/ukraine-russia-war-naval-vessel.html">Russia-Ukraine Sea Encounter Highlights Jittery Nerves in the Region</a> NYT: The Russians intercepted a half-century-old Ukrainian naval vessel, then portrayed its actions as a provocative prelude to war. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/australia/flooding-fire-climate-australia.html">First Fires, Then Floods: Climate Extremes Batter Australia</a> NYT: Many of the same areas that suffered through horrific bush fires in 2019 and 2020 are now dealing with prodigious rainfall that could leave some people stranded for weeks. 
- <p class="updated_time"> 03:09 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/canada/british-columbia-opioid-overdoses.html">The Other, Seemingly Endless, State of Emergency in British Columbia</a> NYT: The province announced annual and monthly record numbers of opioid-related overdose deaths, further prompting calls for changes to laws. 
 
 
 </details>
@@ -208,6 +210,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:32 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megabill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
+ <p class="updated_time"> 04:08 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/senate-votes-debt-limit-congress-deadline/index.html">Senate votes to increase debt limit by $2.5 trillion extending into 2023</a> CNN: The Senate is on track to vote on Tuesday to raise the national debt limit as lawmakers race to avert a catastrophic default ahead of a critical mid-week deadline. 
+ <p class="updated_time"> 03:59 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Senate Passes $2.5 Trillion Debt Limit Increase, Sending It to the House</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
+ <p class="updated_time"> 03:55 PM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/14/1064221034/house-recommends-criminal-contempt-of-congress-charges-against-mark-meadows">House recommends criminal contempt of Congress charges against Mark Meadows</a> NPR: The House voted to refer former White House chief of staff Mark Meadows on criminal contempt of Congress charges. The Justice Department will now decide whether he could face criminal charges. 
+ <p class="updated_time"> 03:51 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/maryland-health-department-hack-covid-19-data/index.html">Cybersecurity incident prevents Maryland Health Department from publishing Covid-19 case data</a> CNN: The Maryland Health Department has not published data on coronavirus case rates for nine days as it recovers from a "network security incident," the department said Tuesday. 
  <p class="updated_time"> 03:29 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/student-loans-biden-february/index.html">Biden still plans to restart federal student loan payments in February</a> CNN: President Joe Biden still plans to restart federal student loan payments in February, resisting pressure from some fellow Democrats who continue to call for an extension of coronavirus pandemic relief benefits. 
  <p class="updated_time"> 03:27 PM CT, Dec. 14 </p> 
@@ -232,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064144431/d-c-attorney-general-karl-racine-sue-proud-boys-oath-keepers-jan-6-capitol">D.C.'s attorney general is suing the Proud Boys and Oath Keepers over Capitol attack</a> NPR: The District of Columbia is seeking damages from the two far-right groups for allegedly conspiring to terrorize the city with the violent attack on Jan. 6. 
  <p class="updated_time"> 01:48 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/fdic-chair-democrats-524212">Trump-appointed FDIC chair blocks Democratic bid to undercut her</a> Politico: A disagreement over who controls the FDIC’s agenda flared after the Democrats who make up the majority of the board voted to solicit public feedback on potential changes to the agency’s bank merger approval process. 
- <p class="updated_time"> 01:01 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Senate Votes to Take Up $2.5 Trillion Debt Limit Increase</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
  <p class="updated_time"> 12:57 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/business/toyota-electric-vehicles.html">Toyota Outlines Electric Vehicle Expansion Plan</a> NYT: The company’s Lexus brand will only sell electric cars by 2030 in China, Europe and the United States. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
@@ -245,9 +253,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
  <a href="https://subscriber.politicopro.com/states/new-york/city-hall/whiteboard/2021/12/14/legal-aid-sues-to-compel-state-to-reopen-rent-relief-program-9428027">Legal Aid sues to compel state to reopen rent relief program</a> Politico: The Legal Aid Society is suing to force the state to resume accepting applications to its emergency rental assistance program. Details: The organization charges in a new class-action lawsuit that the closure of the program in mid-November was unlawful and has put “pote… 
  <p class="updated_time"> 11:53 AM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/democrats-raise-debt-ceiling-524204">Senate moves forward on raising debt ceiling by $2.5T</a> Politico: The amount is expected to carry spending until after the 2022 midterms, preventing another standoff over the debt limit until after elections. 
- <p class="updated_time"> 11:43 AM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/joe-manchin-2024-reelection-plans/index.html">Manchin reelection plans loom as Democrats court his critical vote </a> CNN: Sen. Joe Manchin has a big choice to make -- and it's not just whether to give President Joe Biden's sweeping agenda a decisive vote of approval. 
+ <a href="https://www.politico.com/news/2021/12/14/democrats-raise-debt-ceiling-524204">Senate passes $2.5T debt limit increase, sending to House</a> Politico: The new ceiling is expected to carry spending until after the 2022 midterms, preventing another standoff over the debt limit until after elections. 
  <p class="updated_time"> 11:43 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064047804/where-things-stand-with-the-monthly-expanded-child-tax-credit-payments">Where things stand with the monthly expanded child tax credit payments</a> NPR: Because an extension of the child tax credit is tied in with President Biden's Build Back Better social spending plan, it remains unclear whether the monthly payments will continue beyond this year. 
  <p class="updated_time"> 11:37 AM CT, Dec. 14 </p> 
@@ -280,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/14/what-the-left-doesnt-get-about-the-media-495453">POLITICO Playbook: What the left doesn’t get about the media</a> Politico: And the Jan. 6 committee releases some of Mark Meadows' text messages. 
  <p class="updated_time"> 05:31 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/sections/money/2021/12/14/1063703904/the-best-and-worst-places-to-live-if-you-care-only-about-money">The best and worst places to live if you only care about money</a> NPR: A new study looks at the finances of 3 million households over the course of a year. It finds significant differences in the standard of living across America. 
- <p class="updated_time"> 05:09 AM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/senate-votes-debt-limit-congress-deadline/index.html">Senate advances bill to increase debt limit by $2.5 trillion extending into 2023 in key vote</a> CNN: The Senate is on track to vote on Tuesday to raise the national debt limit as lawmakers race to avert a catastrophic default ahead of a critical mid-week deadline. 
  <p class="updated_time"> 04:31 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/rural-america-biden-investments-524170">Biden’s rural investments run up against the culture wars in Wisconsin</a> Politico: Even as President Joe Biden’s agenda has promised billions to rural communities this year, Democrats are in danger of losing their last foothold in rural Wisconsin. 
  <p class="updated_time"> 04:30 AM CT, Dec. 14 </p> 
@@ -324,12 +328,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/us/politics/manchin-social-policy-bill.html">Manchin Casts Doubt on Quick Vote on Biden’s Social Policy Bill</a> NYT: The West Virginia Democrat said he still harbored serious concerns about the $2.2 trillion measure, potentially frustrating his party’s push to win Senate approval before Christmas. 
  <p class="updated_time"> 05:48 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063903536/survivors-of-gun-violence-are-running-for-office-saying-they-bring-a-new-perspec">Survivors of gun violence are running for office, saying they bring a new perspective</a> NPR: Gun control groups are recruiting candidates to run for office whose lives have been affected by gun violence. The candidates say they'll bring a new perspective to understanding issues around guns. 
- <p class="updated_time"> 05:45 PM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/air-force-discharged-vaccine-524167">Air Force discharges 27 for refusal to get Covid vaccine</a> Politico: The Air Force gave its forces until Nov. 2 to get the vaccine. 
  <p class="updated_time"> 05:26 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-vaccine-mandate-new-york-healthcare.html">Supreme Court Allows Vaccine Mandate for New York Health Care Workers</a> NYT: Doctors and nurses challenged a state coronavirus vaccine requirement that had medical but not religious exemptions, saying it violated their right to free exercise of their faiths. 
- <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/millions-gymnastics-sexual-abuse-524165">$380M settlement reached with victims of U.S. gymnastics scandal</a> Politico: A federal bankruptcy court in Indianapolis confirmed the settlement involving USA Gymnastics and the U.S. Olympic and Paralympic Committee. 
  <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/defense-claims-politics-fortenberry-indictment-524164">Defense claims politics behind indictment of Rep. Jeff Fortenberry</a> Politico: A federal judge in Los Angeles heard arguments on the Nebraska Republican’s bid to toss out the criminal false-statement case. 
  <p class="updated_time"> 04:56 PM CT, Dec. 13 </p> 
@@ -346,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/manchin-fiscal-concerns-524158">Manchin keeps Dems guessing on their megabill</a> Politico: The Democratic senator still isn't committing to back President Joe Biden's social safety net legislation, citing fears about inflation and debt. 
- <p class="updated_time"> 01:28 PM CT, Dec. 13 </p> 
- <a href="https://www.npr.org/2021/12/13/1063652510/mark-meadows-contempt-vote-jan-6-committee-house">Jan. 6 panel votes to hold Meadows in contempt, sending a criminal referral to House</a> NPR: Ahead of the vote, Republican Rep. Liz Cheney of Wyoming read a litany of text messages she said Mark Meadows received during the Jan. 6 siege, including from Donald Trump Jr. 
  <p class="updated_time"> 12:35 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-kentucky-visit-tornado-damage/index.html">Biden to travel to Kentucky to survey storm damage on Wednesday</a> CNN: President Joe Biden on Monday announced he will travel to Kentucky later on this week to survey damage from tornadoes and severe storms. 
  <p class="updated_time"> 09:56 AM CT, Dec. 13 </p> 
@@ -410,6 +408,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/10/trumps-terrible-thursday-followed-by-bidens-bad-friday-495415">POLITICO Playbook: Trump’s terrible Thursday, followed by Biden’s bad Friday?</a> Politico: And the U.S. clears a hurdle in its pursuit of the extradition of Julian Assange. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy’s proxy voting opposition could reshape the House</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/17-ways-covid-hit-fast-forward-on-the-future-523845">17 pandemic innovations that are here to stay</a> Politico: During the pandemic, necessity became a mother of invention. Here are some innovations that are like to stick. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen to lawmakers: Ignore the GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
  <p class="updated_time"> 06:41 PM CT, Dec. 09 </p> 
