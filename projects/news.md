@@ -36,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:52 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/tunisia-saied-constitution-election.html">Tunisia’s President Promises Vote on Constitution and Sets Election Date</a> NYT: President Kais Saied’s announcement dispelled some of the uncertainty Tunisians have endured for months since he shunted aside Parliament in what critics called a soft coup. 
  <p class="updated_time"> 06:48 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59634192?at_medium=RSS&at_campaign=KARANGA">Nagaland killings: Anger grows after Indian army’s botched ambush</a> BBC: Locals in Nagaland state demand government action after troops shot dead 14 civilians. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59634192?at_medium=RSS&at_campaign=KARANGA">Nagaland killings: Anger grows after Indian army’s botched ambush</a> BBC: Locals in Nagaland state demand punishment for troops who shot dead civilians, repeal of AFSPA law. 
  <p class="updated_time"> 06:42 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59646803?at_medium=RSS&at_campaign=KARANGA">Apology to US teachers over 'dash for cash' charity stunt</a> BBC: The US bank that donated the cash said they will give more after the "degrading and insulting" event. 
  <p class="updated_time"> 06:37 PM CT, Dec. 13 </p> 
@@ -45,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59602955?at_medium=RSS&at_campaign=KARANGA">Canada offers up to $40bn to compensate indigenous children</a> BBC: It comes after a lengthy legal battle over the abuse of native children held in government care. 
  <p class="updated_time"> 06:06 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59645557?at_medium=RSS&at_campaign=KARANGA">Tom Holland: 'There are kids who look up to Spider-Man'</a> BBC: Spider-Man: No Way Home is Tom Holland's third solo film and his sixth as part of the Avengers. 
- <p class="updated_time"> 06:05 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59645657?at_medium=RSS&at_campaign=KARANGA">Hong Kong elections: How China reshaped the city</a> BBC: The city's Legco polls look different this year thanks to new electoral and national security laws. 
  <p class="updated_time"> 05:57 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/boris-johnson-uk-coronavirus.html">Boris Johnson Is in Trouble. The Question Is, How Much?</a> NYT: The British prime minister is facing a new virus variant, a rebellious Conservative Party, collapsing poll ratings and questions about whether he or his staff flouted the lockdown rules. 
  <p class="updated_time"> 05:37 PM CT, Dec. 13 </p> 
@@ -123,6 +121,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S. and other ex-foes, Afghan foreign minister says </a> NPR: Afghan Foreign Minister Amir Khan Muttaqi, in an interview with The Associated Press, said the Taliban have changed since they last ruled. He says they have no issue with the United States. 
  <p class="updated_time"> 02:00 AM CT, Dec. 13 </p> 
  <a href="https://www.wsj.com/articles/after-two-decades-abuse-crisis-has-humbled-the-catholic-church-11639400404">After Two Decades, Abuse Crisis Has Humbled the Catholic Church</a> WSJ: The Catholic hierarchy has transformed its response to abuse scandals, which have left the church poorer and less influential. 
+ <p class="updated_time"> 11:38 PM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59632356?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Rebuilding lives from 'hell on Earth'</a> BBC: Residents in the US state are sifting through the rubble that was once a town. 
  <p class="updated_time"> 11:21 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/13/technology/instagram-handle-metaverse.html">Her Instagram Handle Was ‘Metaverse.’ Last Month, It Vanished.</a> NYT: Five days after Facebook changed its name to Meta, an Australian artist found herself blocked, with seemingly no recourse, from an account documenting nearly a decade of her life and work. 
  <p class="updated_time"> 06:01 PM CT, Dec. 12 </p> 
