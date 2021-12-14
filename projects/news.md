@@ -181,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/arts/design/notre-dame-contemporary-art.html">Modernization of Notre-Dame Interior Gets Green Light</a> NYT: A commission of heritage experts approved proposals to bring in contemporary art and move some furniture to make more space for visitors. Critics say it will debase the centuries-old church. 
  <p class="updated_time"> 11:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/vaccine-mandates-civil-liberties.html">Vaccine Mandates Rekindle Fierce Debate Over Civil Liberties</a> NYT: Tougher requirements in some European nations have inspired pushback from angry citizens as leaders grapple with how far to go in the name of public health. 
- <p class="updated_time"> 07:43 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/europe/tour-de-france-crash.html">Tour de France Fan Is Fined for Causing Huge Crash in June</a> NYT: The fan’s cardboard sign, held up for television cameras with a message for her grandparents, sent dozens of cyclists tumbling to the ground. 
 
 
 </details>
