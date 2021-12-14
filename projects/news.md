@@ -200,6 +200,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/joe-biden-news-journal-ad-targeting-524196">Want to influence Joe Biden? Run ads in a 100-year-old newspaper.</a> Politico: In the Biden era, the pages of The News Journal have become a way to reach a new audience of one. 
  <p class="updated_time"> 10:01 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/latino-voters-2020-election-524190">Report: Socialism attacks hurt Dems with Latino voters</a> Politico: The attacks resonated beyond Florida, according to a new post-mortem on the 2020 election. 
+ <p class="updated_time"> 09:52 AM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/fact-check-meadows-trump-church-photo-op/index.html">Fact check: Several news outlets inaccurately reported key detail of Meadows story about Trump and protesters</a> CNN: Several news outlets inaccurately reported a key detail of a story told by former White House chief of staff Mark Meadows in the book he released last week, "The Chief's Chief." 
  <p class="updated_time"> 09:00 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/transportation-doe-team-up-electric-vehicles/index.html">Energy and Transportation departments team up to help states develop electric vehicle charging infrastructure</a> CNN: Two key federal agencies are joining forces to speed things along as billions in federal funding for a national network of electric vehicle charging stations goes out to states. 
  <p class="updated_time"> 08:51 AM CT, Dec. 14 </p> 
@@ -256,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/hes-got-to-condemn-this-shit-panel-releases-urgent-jan-6-texts-from-trump-jr-lawmakers-524188">‘He’s got to condemn this …’: Panel releases urgent Jan. 6 texts from Donald Trump Jr., lawmakers and Fox hosts</a> Politico: House investigators held Mark Meadows in criminal contempt after releasing a trove of messages aimed at getting President Trump to take stronger action amid the Capitol riot. 
  <p class="updated_time"> 07:17 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/us-warning-software-vulnerability/index.html">US warns hundreds of millions of devices at risk from newly revealed software vulnerability</a> CNN: Hundreds of millions of devices around the world could be exposed to a newly revealed software vulnerability, as a senior Biden administration cyber official warned executives from major US industries Monday that they need to take action to address "one of the most serious" flaws she has seen in her career. 
- <p class="updated_time"> 07:03 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/fact-check-meadows-trump-church-photo-op/index.html">Fact check: Several news outlets inaccurately reported key detail of Meadows story about Trump and protesters</a> CNN: Several news outlets inaccurately reported a key detail of a story told by former White House chief of staff Mark Meadows in the book he released last week, "The Chief's Chief." 
  <p class="updated_time"> 06:17 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/air-force-troops-discharged-covid-19-vaccine/index.html">Air Force discharges 27 troops for refusing Covid-19 vaccine</a> CNN: The Air Force has discharged 27 service members for refusing to get the Covid-19 vaccine, spokeswoman Ann Stefanek told CNN on Monday, making these likely the first troops to be removed from the military for failure to obey the vaccine mandate. 
  <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
@@ -304,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/manchin-fiscal-concerns-524158">Manchin keeps Dems guessing on their megabill</a> Politico: The Democratic senator still isn't committing to back President Joe Biden's social safety net legislation, citing fears about inflation and debt. 
  <p class="updated_time"> 01:28 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063652510/mark-meadows-contempt-vote-jan-6-committee-house">Jan. 6 panel votes to hold Meadows in contempt, sending a criminal referral to House</a> NPR: Ahead of the vote, Republican Rep. Liz Cheney of Wyoming read a litany of text messages she said Mark Meadows received during the Jan. 6 siege, including from Donald Trump Jr. 
- <p class="updated_time"> 12:43 PM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/dr-oz-show-end-2022-524157">'Dr. Oz Show' will end in 2022 amid host's Senate bid</a> Politico: The long-running daytime TV show will end in its 13th season as Mehmet Oz makes a run for the U.S. Senate. 
  <p class="updated_time"> 12:35 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-kentucky-visit-tornado-damage/index.html">Biden to travel to Kentucky to survey storm damage on Wednesday</a> CNN: President Joe Biden on Monday announced he will travel to Kentucky later on this week to survey damage from tornadoes and severe storms. 
  <p class="updated_time"> 09:56 AM CT, Dec. 13 </p> 
@@ -392,6 +390,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/10/trumps-terrible-thursday-followed-by-bidens-bad-friday-495415">POLITICO Playbook: Trump’s terrible Thursday, followed by Biden’s bad Friday?</a> Politico: And the U.S. clears a hurdle in its pursuit of the extradition of Julian Assange. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy’s proxy voting opposition could reshape the House</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/17-ways-covid-hit-fast-forward-on-the-future-523845">17 pandemic innovations that are here to stay</a> Politico: During the pandemic, necessity became a mother of invention. Here are some innovations that are like to stick. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen to lawmakers: Ignore the GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
  <p class="updated_time"> 06:41 PM CT, Dec. 09 </p> 
