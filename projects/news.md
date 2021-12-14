@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:30 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/climate/arctic-report-card-climate-change.html">Trends in Arctic Report Card: ‘Consistent, Alarming and Undeniable’</a> NYT: The changes happening at the top of the planet could unfold elsewhere in the years to come, scientists report. 
  <p class="updated_time"> 03:24 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/italy-bishop-santa-claus.html">Italian Bishop Gives Children Harsh News: There Is No Santa Claus</a> NYT: You’ve been lied to, children heard from a bishop, the latest Catholic clergyman to try to take down Santa Claus and consumerism. Many Italians were not pleased. 
+ <p class="updated_time"> 03:23 PM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/14/1064220992/a-gloomy-report-card-from-the-arctic">A gloomy report card from the Arctic</a> NPR: NPR's Ari Shapiro talks with Twila Moon, co-editor of the National Oceanic and Atmospheric Administration's 2021 Arctic Report Card, which shows oceans warming and sea ice disappearing. 
+ <p class="updated_time"> 03:23 PM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/14/1061302961/most-nations-are-promising-to-end-deforestation-but-skeptics-want-proof">Most nations are promising to end deforestation, but skeptics want proof</a> NPR: More than a hundred countries just promised to protect and restore forests. Similar pledges in the past have not succeeded, but forest advocates hope that this effort can learn from past mistakes. 
  <p class="updated_time"> 03:16 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/business/economy/turkey-inflation-economy-lira.html">How Inflation Affects Turkey's Struggling Economy</a> NYT: Even before the pandemic, Turkey was trying to ward off financial meltdown. The crisis has accelerated as President Recep Tayyip Erdogan has doubled down on his unorthodox policies. 
  <p class="updated_time"> 03:14 PM CT, Dec. 14 </p> 
@@ -177,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/12/1063497595/vicente-fernandez-obituary">Vicente 'Chente' Fernández, 'El Rey' of ranchera music, has died at 81</a> NPR: The singer had been in critical condition recently after being hospitalized due to a fall at his Guadalajara ranch in August, and being diagnosed with Guillain–Barré syndrome afterwards. 
  <p class="updated_time"> 07:22 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063483633/thousands-of-russian-troops-have-massed-on-the-border-of-ukraine">Thousands of Russian troops have massed on the border of Ukraine</a> NPR: Don Gonyea speaks with Angela Stent of the Brookings Institution about how the crisis on the Ukraine-Russia border can be resolved. 
- <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
- <a href="https://www.npr.org/2021/12/12/1059976638/india-china-conflict-chinatown-chinese-indians">Tensions with China revive old fears for Indians of Chinese descent</a> NPR: In 1962, thousands of Indians of Chinese descent were sent to prison camps during a brief war with Beijing. Recent clashes on the India-China border have revived Chinese Indians' fears of persecution. 
  <p class="updated_time"> 06:12 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 03:10 PM CT, Dec. 11 </p> 
@@ -193,14 +197,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/11/world/europe/silent-film-ireland-discovery.html">Silent Films Offer Rare Glimpses of Life in 1920s Ireland</a> NYT: Shot by an American ornithologist in the early years of Irish independence, the footage turned up in the archives of the Chicago Academy of Sciences and is being restored. 
  <p class="updated_time"> 08:18 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/ukraine-russia-war-naval-vessel.html">Russia-Ukraine Sea Encounter Highlights Jittery Nerves in the Region</a> NYT: The Russians intercepted a half-century-old Ukrainian naval vessel, then portrayed its actions as a provocative prelude to war. 
- <p class="updated_time"> 07:39 AM CT, Dec. 11 </p> 
- <a href="https://www.npr.org/2021/12/11/1062516219/british-columbia-canada-climate-change-wildfire-floods-shelter">A church retreat came to the aid of Canada's latest disaster survivors</a> NPR: British Columbia experienced major disasters this year that scientists say show the intensifying effects of climate change. Many of those affected by fires and floods took shelter at Camp Hope. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/australia/flooding-fire-climate-australia.html">First Fires, Then Floods: Climate Extremes Batter Australia</a> NYT: Many of the same areas that suffered through horrific bush fires in 2019 and 2020 are now dealing with prodigious rainfall that could leave some people stranded for weeks. 
  <p class="updated_time"> 03:09 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/canada/british-columbia-opioid-overdoses.html">The Other, Seemingly Endless, State of Emergency in British Columbia</a> NYT: The province announced annual and monthly record numbers of opioid-related overdose deaths, further prompting calls for changes to laws. 
- <p class="updated_time"> 12:01 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/arts/design/notre-dame-contemporary-art.html">Modernization of Notre-Dame Interior Gets Green Light</a> NYT: A commission of heritage experts approved proposals to bring in contemporary art and move some furniture to make more space for visitors. Critics say it will debase the centuries-old church. 
 
 
 </details>
@@ -208,12 +208,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:32 PM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megbill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
+ <p class="updated_time"> 03:29 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/student-loans-biden-february/index.html">Biden still plans to restart federal student loan payments in February</a> CNN: President Joe Biden still plans to restart federal student loan payments in February, resisting pressure from some fellow Democrats who continue to call for an extension of coronavirus pandemic relief benefits. 
+ <p class="updated_time"> 03:27 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/omicron-federal-funds.html">Biden’s administration may need more funds to fight Omicron.</a> NYT: With the pandemic heading into its third year, much of the money that Congress has allocated for coronavirus response has been spent. 
+ <p class="updated_time"> 03:24 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/house-lawmakers-ukraine-russia/index.html">House lawmakers push Biden administration to do more to deter Russian aggression against Ukraine</a> CNN: US lawmakers who have just returned from a trip to Ukraine are urging the Biden administration to take proactive steps to prevent further Russian aggression toward the country and to be prepared to place "extreme sanctions" on Moscow if it moves militarily against its neighbor. 
+ <p class="updated_time"> 03:17 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/biden-pfizer-covid-antiviral-pill/index.html">Biden says he's 'encouraged by the promising data' on Pfizer's Covid-19 antiviral pill</a> CNN: President Joe Biden on Tuesday praised Pfizer's report that its experimental treatment for Covid-19 cut the risk of hospitalization or death by 89% if given to high-risk adults within a few days of their first symptoms. 
  <p class="updated_time"> 03:15 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/health/hospitals-vaccine-mandate.html">Big Hospital Chains Drop Vaccine Mandates for Health Workers</a> NYT: With the federal requirement in limbo because of legal challenges, some major multistate hospital systems have stopped enforcing their own policies. 
  <p class="updated_time"> 02:53 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/kristi-noem-south-dakota-daughter-real-estate-license/index.html">Gov. Kristi Noem's daughter given extra chance to obtain real estate license, former state employee testifies</a> CNN: The former state employee who is at the center of the controversy over whether South Dakota Gov. Kristi Noem intervened to help her daughter obtain a real estate appraiser license testified before state lawmakers on Tuesday that Noem's daughter was given an extra chance to correct her work so that her application would not be denied and that the state's process for handling her application was unusual. 
- <p class="updated_time"> 02:48 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/omicron-federal-funds.html">Biden’s administration may need more funds to fight Omicron.</a> NYT: With the pandemic heading into its third year, much of the money that Congress has allocated for coronavirus response has been spent. 
  <p class="updated_time"> 02:23 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/fbi-soliciting-prostitution/index.html">Six FBI agents investigated for allegedly soliciting prostitution while on assignment overseas</a> CNN: Six FBI agents were investigated for allegedly soliciting prostitution, trafficking drugs and failing to report unofficial interactions for foreign nationals while on assignment overseas, a Justice Department watchdog says. 
  <p class="updated_time"> 02:17 PM CT, Dec. 14 </p> 
@@ -226,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064144431/d-c-attorney-general-karl-racine-sue-proud-boys-oath-keepers-jan-6-capitol">D.C.'s attorney general is suing the Proud Boys and Oath Keepers over Capitol attack</a> NPR: The District of Columbia is seeking damages from the two far-right groups for allegedly conspiring to terrorize the city with the violent attack on Jan. 6. 
  <p class="updated_time"> 01:48 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/fdic-chair-democrats-524212">Trump-appointed FDIC chair blocks Democratic bid to undercut her</a> Politico: A disagreement over who controls the FDIC’s agenda flared after the Democrats who make up the majority of the board voted to solicit public feedback on potential changes to the agency’s bank merger approval process. 
- <p class="updated_time"> 01:33 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/student-loans-biden-february/index.html">Biden still plans to restart federal student loan payments in February</a> CNN: President Joe Biden still plans to restart federal student loan payments in February, resisting pressure from some fellow Democrats who continue to call for an extension of coronavirus pandemic relief benefits. 
  <p class="updated_time"> 01:01 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Senate Votes to Take Up $2.5 Trillion Debt Limit Increase</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
  <p class="updated_time"> 12:57 PM CT, Dec. 14 </p> 
@@ -298,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/sentencing-arbery-killing-524191">Jan. 7 sentencing set for men convicted in Arbery killing</a> Politico: Prosecutors chose not to seek the death penalty in the case of Ahmaud Arbery’s slaying. 
  <p class="updated_time"> 10:25 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/remain-in-mexico-appeals-court/index.html">Appeals court rules against Biden admin's termination of 'remain in Mexico' policy</a> CNN: The 5th US Circuit Court of Appeals on Monday night ruled against the Biden administration's bid to terminate the Trump-era "remain in Mexico" policy, which requires non-Mexican migrants to stay in Mexico until their US immigration court dates. 
- <p class="updated_time"> 10:11 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html">January 6 panel unveils texts to Meadows from Don Jr., Fox hosts as contempt charge advances</a> CNN: The House select committee investigating the January 6 riot at the US Capitol is prepared to vote Monday on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal contempt of Congress charges. 
  <p class="updated_time"> 09:21 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/jan-6-rally-organizers-sue-verizon-524189">Jan. 6 rally organizers sue Verizon to block release of cell phone data to congressional committee</a> Politico: The lawsuit said the plaintiffs have personally complied with the committee’s investigation. 
  <p class="updated_time"> 09:17 PM CT, Dec. 13 </p> 
@@ -308,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063955835/rep-liz-cheney-read-text-messages-she-said-mark-meadows-got-during-the-jan-6-sie">Rep. Liz Cheney read text messages she said Mark Meadows got during the Jan. 6 siege</a> NPR: In the messages, Donald Trump Jr. and Fox News hosts Laura Ingraham and Sean Hannity urge Meadows to get then-President Donald Trump to tell his supporters to leave the Capitol. 
  <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/hes-got-to-condemn-this-shit-panel-releases-urgent-jan-6-texts-from-trump-jr-lawmakers-524188">‘He’s got to condemn this …’: Panel releases urgent Jan. 6 texts from Donald Trump Jr., lawmakers and Fox hosts</a> Politico: House investigators held Mark Meadows in criminal contempt after releasing a trove of messages aimed at getting President Trump to take stronger action amid the Capitol riot. 
- <p class="updated_time"> 06:17 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/air-force-troops-discharged-covid-19-vaccine/index.html">Air Force discharges 27 troops for refusing Covid-19 vaccine</a> CNN: The Air Force has discharged 27 service members for refusing to get the Covid-19 vaccine, spokeswoman Ann Stefanek told CNN on Monday, making these likely the first troops to be removed from the military for failure to obey the vaccine mandate. 
  <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/trump-subpoena-financial-records.html">Lawyers Clash Again Over Subpoena for Trump’s Financial Records</a> NYT: The long-running case dates back to an early 2019 House Oversight Committee demand to see years of the then-president’s financial data. 
  <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
@@ -396,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/us/politics/newsom-texas-abortion-law-guns.html">Newsom Calls for Gun Legislation Modeled on the Texas Abortion Law</a> NYT: Gov. Gavin Newsom of California accused Texas of insulating its abortion law from the courts, and then called on lawmakers to use a similar strategy to go after the gun industry. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
- <p class="updated_time"> 12:56 PM CT, Dec. 11 </p> 
- <a href="https://www.cnn.com/2021/12/11/politics/iran-nuclear-weapon-us-military-options/index.html">Biden administration has reviewed military options as part of effort to keep Iran from obtaining a nuclear weapon</a> CNN: The Biden administration has reviewed military options that could be part of an effort to prevent Iran from obtaining a nuclear weapon, if a multilateral deal between the United States, Iran and other nations on Tehran's nuclear program is not salvaged, according to administration officials. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/11/middle-class-joe-visits-late-night-jimmy-495429">POLITICO Playbook: ‘Middle-class Joe’ visits late-night Jimmy</a> Politico: And what the Supreme Court's Texas ruling means for Roe v. Wade. 
  <p class="updated_time"> 07:01 AM CT, Dec. 11 </p> 
@@ -442,10 +442,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/08/congress-waves-its-procedural-magic-wand-495371">Congress waves its procedural magic wand</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:20 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/08/the-least-bad-deal-495366">POLITICO Playbook: ‘The least bad deal’</a> Politico: And a judge in Georgia blocks Biden's federal worker vaccine mandate. 
- <p class="updated_time"> 04:31 AM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/biden-filibuster-voting-rights-senate-523917">Senate Dems launch last-ditch effort to change the rules of the chamber</a> Politico: The hope is to pave the way for nominees and, potentially, election reform. It’s not clear how it will work and stakeholders are being hush hush. 
- <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/house-debt-ceiling-senate-523919">House passes workaround to move forward on raising the debt ceiling</a> Politico: The vote creates a path for Congress to prevent the government from defaulting on more than $29 trillion in debt. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting: Town halls with the VP that would focus on her areas of interest. 
 
