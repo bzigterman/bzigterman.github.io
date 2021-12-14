@@ -7,6 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:22 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Fuel Tanker Explodes in Haiti, Killing Dozens</a> NYT: Around 40 people died in the blast, according to initial reports. It was the latest tragedy to hit the country, which has been rocked by political violence, natural disasters, poverty and hunger. 
+ <p class="updated_time"> 07:17 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/europe/belarus-opposition-sergei-tikhanovsky.html">Belarus Opposition Leader Is Sentenced to 18 Years in Prison</a> NYT: The activist Sergei Tikhanovsky planned to challenge the country’s authoritarian leader, Aleksandr G. Lukashenko, in a presidential election last year. But he was arrested before the vote. 
+ <p class="updated_time"> 07:07 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/health/coronavirus-omicron-next-pandemic.html">Omicron Is a Dress Rehearsal for the Next Pandemic</a> NYT: America’s response to the variant highlights both how much progress we have made over the past two years — and how much work remains 
+ <p class="updated_time"> 07:03 AM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59648442?at_medium=RSS&at_campaign=KARANGA">Hungary migrant deaths: Car crashes avoiding police</a> BBC: Hungarian police said the driver was arrested after his vehicle rammed into a flower shop. 
+ <p class="updated_time"> 06:58 AM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59650800?at_medium=RSS&at_campaign=KARANGA">Trump's son urged father to intervene in 6 January Capitol riot</a> BBC: Donald Trump Jr urged his father's aides to get the ex-president to stop the mob, text messages show. 
+ <p class="updated_time"> 06:55 AM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59649075?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Two-month-old girl is youngest victim</a> BBC: The parents of Oaklynn Charleigh Koon say their hearts are "shattered" over their daughter's death. 
  <p class="updated_time"> 06:53 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/14/1063947940/vaccine-protection-vs-omicron-infection-may-drop-to-30-but-does-cut-severe-disea">Vaccine protection vs. omicron infection may drop to 30% but does cut severe disease</a> NPR: Data from 78,000 South Africans with COVID show the Pfizer vaccine is far less effective in preventing infection by the omicron variant. But there is still significant protection from severe illness. 
  <p class="updated_time"> 06:24 AM CT, Dec. 14 </p> 
@@ -23,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/europe/boris-johnson-uk-coronavirus.html">Boris Johnson Is in Trouble. The Question Is, How Much?</a> NYT: The British prime minister is facing a new virus variant, a rebellious Conservative Party, collapsing poll ratings and questions about whether he or his staff flouted the lockdown rules. 
  <p class="updated_time"> 02:27 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59647425?at_medium=RSS&at_campaign=KARANGA">Srinagar: Three dead, 11 injured in militant attack on police bus</a> BBC: Three militants fired at a bus carrying policemen in capital Srinagar on Monday, officials said. 
- <p class="updated_time"> 01:59 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/health/coronavirus-omicron-next-pandemic.html">Omicron Is a Dress Rehearsal for the Next Pandemic</a> NYT: America’s response to the variant highlights both how much progress we have made over the past two years — and how much work remains 
  <p class="updated_time"> 01:58 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Cementing an alliance built on mutual fear of Iran, Prime Minister Naftali Bennett met Prince Mohammed bin Zayed of the United Arab Emirates on the first official visit by an Israeli leader to the Gulf state. 
  <p class="updated_time"> 12:42 AM CT, Dec. 14 </p> 
@@ -89,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/europe/switzerland-money-laundering-case-juan-carlos.html">Swiss Prosecutors Drop Money-Laundering Case Against Former Spanish King</a> NYT: A criminal inquiry into allegations that Spain’s former king laundered illegal commission payments from Saudi Arabia related to a high-speed rail deal was closed because of insufficient evidence. 
  <p class="updated_time"> 01:57 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/denmark-immigration-minister-migrants-prison.html">Former Immigration Minister in Denmark Sentenced to Prison for Separating Couples</a> NYT: Inger Stojberg was sentenced to two months’ incarceration after being found by a court to have illegally ordered the separations of married migrant couples in which at least one person was underage. 
- <p class="updated_time"> 01:05 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59642262?at_medium=RSS&at_campaign=KARANGA">Kim Kardashian passes California 'baby bar' law exam</a> BBC: The reality TV star and businesswoman says "don't ever give up" after passing on her fourth attempt. 
  <p class="updated_time"> 01:01 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063510196/in-times-of-crisis-or-to-create-one-russias-putin-turns-to-his-military">In times of crisis — or to create one — Russia's Putin turns to his military</a> NPR: When Vladimir Putin assumed power in 1999, he immediately sent the Russian military into Chechnya. For more than 20 years, Putin has repeatedly looked to the military to strengthen his rule. 
  <p class="updated_time"> 12:17 PM CT, Dec. 13 </p> 
@@ -101,12 +109,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 09:27 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/merck-covid-pill-pregnancy-risk.html">Merck’s Covid Pill Might Pose Risks for Pregnant Women</a> NYT: Some laboratory studies suggest that molnupiravir can insert errors in DNA, which could in theory harm a developing fetus, sperm cells or children. 
+ <p class="updated_time"> 09:02 AM CT, Dec. 13 </p> 
+ <a href="https://www.wsj.com/articles/israeli-u-a-e-leaders-meet-amid-flurry-of-middle-east-diplomacy-11639413346">Fear of Iran, Shrinking U.S. Role in Middle East Push Rivals Together</a> WSJ: The first-ever official meeting Monday between Israel’s prime minister and the United Arab Emirates’ de facto leader were driven in part by Iran nuclear talks and worries over a shrinking U.S. regional role. 
  <p class="updated_time"> 08:16 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.html">South Korean City to Test Facial Recognition to Track the Coronavirus</a> NYT: Officials hope the system can help reveal the movements of people who test positive and their interactions with others, making contact tracing easier. 
  <p class="updated_time"> 08:01 AM CT, Dec. 13 </p> 
  <a href="https://www.wsj.com/articles/as-turkeys-currency-collapses-erdogans-support-sinks-even-in-his-hometown-11639403803">As Turkey's Currency Collapses, Erdogan's Support Sinks Even in His Hometown</a> WSJ: In President Recep Tayyip Erdogan’s hometown on Turkey’s Black Sea coast, residents are questioning the leadership of their city’s favorite son amid an economic crisis that is driving up the cost of food, gasoline and medicine. 
- <p class="updated_time"> 07:37 AM CT, Dec. 13 </p> 
- <a href="https://www.wsj.com/articles/china-reports-first-omicron-covid-19-case-in-the-mainland-11639418519">China Reports First Omicron Case in the Mainland</a> WSJ: The infection was discovered in a traveler who arrived in the northern port city of Tianjin from overseas on Thursday, putting what China has called its “zero tolerance” Covid-19 strategy to a further test. 
  <p class="updated_time"> 05:12 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/africa/cyril-ramaphosa-covid.html">South Africa’s president tests positive for the coronavirus.</a> NYT: The 69-year-old leader was displaying mild Covid-19 symptoms. New cases in the country are rising quickly. 
  <p class="updated_time"> 05:00 AM CT, Dec. 13 </p> 
