@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:48 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/israel-tankers-iran.html">U.S. Unlikely to Deliver Aircraft to Israel Before 2024, Officials Say</a> NYT: The Israeli request to speed up delivery of the KC-46 refueling tankers came amid new tensions between Washington and Jerusalem over how to deal with Iran’s nuclear program. 
+ <p class="updated_time"> 09:17 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/israel-tankers-iran.html">Israel Finds Planes That Could Be Key to a Strike on Iran Badly Back-Ordered</a> NYT: The United States told Israel it was unlikely to deliver refueling tankers before 2024, amid tensions between the two nations over how to deal with Iran’s nuclear program. 
  <p class="updated_time"> 08:25 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle Into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
  <p class="updated_time"> 08:14 PM CT, Dec. 13 </p> 
@@ -200,10 +200,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:21 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/jan-6-rally-organizers-sue-verizon-524189">Jan. 6 rally organizers sue Verizon to block release of cell phone data to congressional committee</a> Politico: The lawsuit said the plaintiffs have personally complied with the committee’s investigation. 
+ <p class="updated_time"> 09:07 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/mark-meadows-contempt.html">Jan. 6 Committee Recommends Contempt Charge for Mark Meadows</a> NYT: The panel sent a criminal contempt of Congress referral to the full House, as the extent of Mark Meadows’s role in President Donald J. Trump’s efforts to overturn the election became clearer. 
  <p class="updated_time"> 08:48 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/israel-tankers-iran.html">U.S. Unlikely to Deliver Aircraft to Israel Before 2024, Officials Say</a> NYT: The Israeli request to speed up delivery of the KC-46 refueling tankers came amid new tensions between Washington and Jerusalem over how to deal with Iran’s nuclear program. 
- <p class="updated_time"> 08:47 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/mark-meadows-contempt.html">Jan. 6 Committee Recommends Contempt Charge for Mark Meadows</a> NYT: The panel sent a criminal contempt of Congress referral to the full House, as the extent of Mark Meadows’s role in President Donald J. Trump’s efforts to overturn the election became clearer. 
  <p class="updated_time"> 08:34 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html">January 6 panel unveils text messages to Meadows from Don Jr. and Fox hosts as contempt charge advances</a> CNN: The House select committee investigating the January 6 riot at the US Capitol is prepared to vote Monday on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal contempt of Congress charges. 
  <p class="updated_time"> 08:19 PM CT, Dec. 13 </p> 
