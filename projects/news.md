@@ -187,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/europe/vaccine-mandates-civil-liberties.html">Vaccine Mandates Rekindle Fierce Debate Over Civil Liberties</a> NYT: Tougher requirements in some European nations have inspired pushback from angry citizens as leaders grapple with how far to go in the name of public health. 
  <p class="updated_time"> 07:43 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/tour-de-france-crash.html">Tour de France Fan Is Fined for Causing Huge Crash in June</a> NYT: The fan’s cardboard sign, held up for television cameras with a message for her grandparents, sent dozens of cyclists tumbling to the ground. 
- <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
 
@@ -198,8 +196,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:44 PM CT, Dec. 13 </p> 
+ <p class="updated_time"> 10:11 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html">January 6 panel unveils text messages to Meadows from Don Jr. and Fox hosts as contempt charge advances</a> CNN: The House select committee investigating the January 6 riot at the US Capitol is prepared to vote Monday on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal contempt of Congress charges. 
+ <p class="updated_time"> 10:08 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/william-walker-dc-national-guard-january-6-committee/index.html">Former DC National Guard commander meets with January 6 committee</a> CNN: William Walker, who was the top commander for Washington, DC's National Guard and responsible for troop deployment in support of law enforcement overwhelmed on January 6, met Monday with the House select committee investigating the attack on the US Capitol, a source familiar with his appearance has confirmed to CNN. 
+ <p class="updated_time"> 10:01 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/trump-jr-text-mark-meadows-january-6/index.html">Donald Trump Jr. said his father needed to 'condemn' Capitol violence as it unfolded, Meadows texts reveal</a> CNN: Donald Trump Jr. said in a series of text messages to then-White House chief of staff Mark Meadows that his father needed to "condemn" the US Capitol insurrection as it unfolded. 
  <p class="updated_time"> 09:43 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/mark-meadows-contempt.html">Jan. 6 Committee Recommends Contempt Charge for Meadows</a> NYT: The panel sent a criminal contempt of Congress referral to the full House, as the extent of Mark Meadows’s role in President Donald J. Trump’s efforts to overturn the election became clearer. 
  <p class="updated_time"> 09:39 PM CT, Dec. 13 </p> 
@@ -236,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-vaccine-mandate-new-york-healthcare.html">Supreme Court Allows Vaccine Mandate for New York Health Care Workers</a> NYT: Doctors and nurses challenged a state coronavirus vaccine requirement that had medical but not religious exemptions, saying it violated their right to free exercise of their faiths. 
  <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/millions-gymnastics-sexual-abuse-524165">$380M settlement reached with victims of U.S. gymnastics scandal</a> Politico: A federal bankruptcy court in Indianapolis confirmed the settlement involving USA Gymnastics and the U.S. Olympic and Paralympic Committee. 
- <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/william-walker-dc-national-guard-january-6-committee/index.html">Former DC National Guard commander meeting with January 6 committee</a> CNN: William Walker, who was the top commander for Washington, DC's National Guard and responsible for troop deployment in support of law enforcement overwhelmed on January 6, met Monday with the House select committee investigating the attack on the US Capitol, a source familiar with his appearance has confirmed to CNN. 
  <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/defense-claims-politics-fortenberry-indictment-524164">Defense claims politics behind indictment of Rep. Jeff Fortenberry</a> Politico: A federal judge in Los Angeles heard arguments on the Nebraska Republican’s bid to toss out the criminal false-statement case. 
  <p class="updated_time"> 04:57 PM CT, Dec. 13 </p> 
@@ -304,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-tornadoes-climate-politics/index.html">Analysis: An existential threat runs into political realities of US democracy</a> CNN: The devastation from this weekend's tornadoes was a stark reminder of the future that awaits humans on this planet, when weird weather is increasingly unpredictable and severe. 
  <p class="updated_time"> 10:54 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/arts/television/sesame-street.html">‘Sesame Street’ Was Always Political</a> NYT: The beloved children’s show has been a recurrent culture-war target, but a documentary on HBO shows how social purpose was built into it. 
- <p class="updated_time"> 08:57 PM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/nancy-pelosi-house-democrats-leadership-2022/index.html">Pelosi will stay around to lead House Democrats through the next election -- and perhaps beyond</a> CNN: Speaker Nancy Pelosi will stay until at least after the midterm elections, extending her nearly 20-year run as the House's top Democrat after she turns 82 and, perhaps, beyond. 
  <p class="updated_time"> 08:24 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/mark-meadows-capitol-attack.html">Mark Meadows Sought to Fight Election Outcome, Jan. 6 Panel Says</a> NYT: The House committee laid out its case for a contempt of Congress charge against Mark Meadows, the chief of staff to former President Donald J. Trump. 
  <p class="updated_time"> 06:35 PM CT, Dec. 12 </p> 
