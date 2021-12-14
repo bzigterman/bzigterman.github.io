@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:10 PM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
  <p class="updated_time"> 12:08 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-covid-restrictions.html">Even as Omicron Cases Rise in U.K., Johnson Faces Mutiny Over New Rules</a> NYT: The British prime minister, under fire for his government’s handling of the coronavirus, is facing deep opposition within his party over new rules aimed at quelling a surge of the variant. 
  <p class="updated_time"> 12:00 PM CT, Dec. 14 </p> 
@@ -39,8 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/asia/duterte-philippines-senate.html">Philippines President Rodrigo Duterte Won't Run for Senate</a> NYT: The populist president also promised a peaceful transition of power when his term ends next year. 
  <p class="updated_time"> 09:05 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59649066?at_medium=RSS&at_campaign=KARANGA">Arctic heat record is like Mediterranean, says UN</a> BBC: The highest temperature recorded in the region last year - 38C (100F) - is officially confirmed. 
- <p class="updated_time"> 08:14 AM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
+ <p class="updated_time"> 07:10 AM CT, Dec. 14 </p> 
+ <a href="https://www.wsj.com/articles/united-arab-emirates-threatens-to-pull-out-of-23-billion-f-35-drone-deal-with-u-s-11639491997">U.A.E. Threatens to Pull Out of $23 Billion F-35, Drone Deal With U.S.</a> WSJ: The Emirati government told U.S. officials that it intended to halt the deal because Abu Dhabi thought security requirements the U.S. had laid out to safeguard the high-tech weaponry from Chinese espionage were too onerous, and the country’s national sovereignty was in jeopardy. 
  <p class="updated_time"> 07:07 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/health/coronavirus-omicron-next-pandemic.html">Omicron Is a Dress Rehearsal for the Next Pandemic</a> NYT: America’s response to the variant highlights both how much progress we have made over the past two years — and how much work remains. 
  <p class="updated_time"> 07:03 AM CT, Dec. 14 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064018450/tensions-over-ukraine-come-as-relations-between-russia-and-nato-are-at-an-all-ti">Tensions over Ukraine come as relations between Russia and NATO are at an all-time low</a> NPR: Russian President Vladimir Putin once floated the prospect of his country joining NATO. 
  <p class="updated_time"> 06:23 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/gas-truck-blast-in-haiti-kills-some-40-in-latest-disaster-for-nation-11639490464">Haiti Gas-Truck Blast Kills at Least 60 People</a> WSJ: The explosion hit the hemisphere’s poorest nation, which is already contending with the recent assassination of its president, a devastating earthquake and the kidnapping of a group of mostly American missionaries. 
- <p class="updated_time"> 05:34 AM CT, Dec. 14 </p> 
- <a href="https://www.wsj.com/articles/united-arab-emirates-threatens-to-pull-out-of-23-billion-f-35-drone-deal-with-u-s-11639491997">U.A.E. Threatens to Pull Out of $23 Billion F-35, Drone Deal With U.S.</a> WSJ: The Emirati government told U.S. officials that it intended to halt the deal because Abu Dhabi thought security requirements the U.S. had laid out to safeguard the high-tech weaponry from Chinese espionage were too onerous, and the country’s national sovereignty was in jeopardy. 
  <p class="updated_time"> 04:23 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/first-big-omicron-study-finds-two-doses-of-pfizers-vaccine-cuts-hospitalization-risk-by-70-11639495432">Omicron Study Finds Two Doses of Pfizer Vaccine Cuts Hospitalization Risk</a> WSJ: The first large real-world study, by South Africa’s biggest private health insurer, found that two shots of the vaccine lowered the risk of hospital admission by 70% for patients infected with the highly mutated variant. 
  <p class="updated_time"> 04:00 AM CT, Dec. 14 </p> 
@@ -210,6 +210,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
+ <p class="updated_time"> 12:28 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/capitol-pelosi-threat/index.html">Man who threatened to shoot Pelosi sentenced to more than two years in prison</a> CNN: A Georgia man who drove cross-country with an assault rifle and threatened to kill House Speaker Nancy Pelosi was sentenced to 28 months behind bars during in an emotional hearing on Tuesday. 
+ <p class="updated_time"> 12:25 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/trump-pence-comments-2020-certification/index.html">Trump says Pence is 'mortally wounded' inside the GOP for his role in certifying 2020 election results</a> CNN: As former Vice President Mike Pence weighs his future in politics -- laying the groundwork for a possible presidential campaign in 2024 and supporting Republican candidates who face reelection next fall -- former President Donald Trump said Pence is "mortally wounded" inside the GOP. 
+ <p class="updated_time"> 12:10 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Senate Votes to Take Up $2.5 Trillion Debt Limit Increase</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
  <p class="updated_time"> 12:07 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/dc-proud-boys-oath-keepers-lawsuit/index.html">DC AG sues Proud Boys, Oath Keepers members to recoup costs related to January 6</a> CNN: More than two dozen members of the Proud Boys and Oath Keepers are being sued by District of Columbia Attorney General Karl Racine in an effort to recover the millions of dollars the city spent to defend the US Capitol during the January 6 attack. 
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
@@ -217,15 +223,13 @@ permalink: /projects/news/
  <p class="updated_time"> 12:00 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/dc-jan-6-oath-keepers-proud-boys-524200">D.C. suing the Oath Keepers, Proud Boys for damage caused on Jan. 6</a> Politico: It's the first government-backed legal action against the groups whose members allegedly stormed the Capitol. 
  <p class="updated_time"> 11:53 AM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/democrats-raise-debt-ceiling-524204">Democrats to raise debt ceiling by $2.5T</a> Politico: The amount is expected to carry spending until after the 2022 midterms, preventing another standoff over the debt limit until after elections. 
+ <a href="https://www.politico.com/news/2021/12/14/democrats-raise-debt-ceiling-524204">Senate moves forward on raising debt ceiling by $2.5T</a> Politico: The amount is expected to carry spending until after the 2022 midterms, preventing another standoff over the debt limit until after elections. 
  <p class="updated_time"> 11:43 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/joe-manchin-2024-reelection-plans/index.html">Manchin reelection plans loom as Democrats court his critical vote </a> CNN: Sen. Joe Manchin has a big choice to make -- and it's not just whether to give President Joe Biden's sweeping agenda a decisive vote of approval. 
  <p class="updated_time"> 11:43 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064047804/where-things-stand-with-the-monthly-expanded-child-tax-credit-payments">Where things stand with the monthly expanded child tax credit payments</a> NPR: Because an extension of the child tax credit is tied in with President Biden's Build Back Better social spending plan, it remains unclear whether the monthly payments will continue beyond this year. 
  <p class="updated_time"> 11:37 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/meadows-congress-justice-department-referral/index.html">House to vote to refer Mark Meadows to DOJ for contempt of Congress</a> CNN: The House is set to vote on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal charges for failing to appear for a deposition with the select committee investigating the January 6 attack. 
- <p class="updated_time"> 11:35 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Democrats Set Debt Limit Increase at $2.5 Trillion Ahead of Senate Vote</a> NYT: The figure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
  <p class="updated_time"> 11:32 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/biden-sandy-hook/index.html">Biden marks 9 years since Sandy Hook shooting with renewed call for tougher gun laws</a> CNN: President Joe Biden on Tuesday marked nine years since the mass shooting at Sandy Hook Elementary School by pointing to his administration's efforts to combat gun violence as Democratic-led efforts to pass tougher gun laws have repeatedly failed in Congress. 
  <p class="updated_time"> 11:22 AM CT, Dec. 14 </p> 
@@ -234,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/biden-sandra-thompson-housing-regulator-524197">Biden taps Thompson for full term as top housing regulator</a> Politico: The move comes after Thompson allies on the Hill urged Biden to keep her at the helm amid reports he planned to replace Thompson this fall. 
  <p class="updated_time"> 10:55 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/ilhan-omar-boebert-muslim-islamophobia/index.html">House expected to pass Ilhan Omar's legislation to combat Islamophobia after clash with Boebert</a> CNN: The House will vote Tuesday on Democratic Rep. Ilhan Omar's legislation to create a special envoy to combat Islamophobia, a week after progressives introduced a separate resolution to strip Republican Rep. Lauren Boebert of her committee assignments following her anti-Muslim comments calling the Minnesota Democrat a terrorist. 
- <p class="updated_time"> 10:33 AM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/trump-pence-comments-2020-certification/index.html">Trump says Pence is 'mortally wounded' inside the GOP for his role in certifying 2020 election results</a> CNN: As former Vice President Mike Pence weighs his future in politics -- laying the groundwork for a possible presidential campaign in 2024 and supporting Republican candidates who face reelection next fall -- former President Donald Trump said Pence is "mortally wounded" inside the GOP. 
  <p class="updated_time"> 10:31 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/mark-meadows-text-messages/index.html">Analysis: The worst thing about Meadows' texts</a> CNN: They knew. They all knew. 
  <p class="updated_time"> 10:01 AM CT, Dec. 14 </p> 
@@ -263,7 +265,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:31 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/sections/money/2021/12/14/1063703904/the-best-and-worst-places-to-live-if-you-care-only-about-money">The best and worst places to live if you only care about money</a> NPR: A new study looks at the finances of three million households over the course of a year. It finds significant differences in the standard of living across America. 
  <p class="updated_time"> 05:09 AM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/senate-votes-debt-limit-congress-deadline/index.html">Senate Democrats will increase debt limit by $2.5 trillion extending into 2023</a> CNN: The Senate is on track to vote on Tuesday to raise the national debt limit as lawmakers race to avert a catastrophic default ahead of a critical mid-week deadline. 
+ <a href="https://www.cnn.com/2021/12/14/politics/senate-votes-debt-limit-congress-deadline/index.html">Senate advances bill to increase debt limit by $2.5 trillion extending into 2023 in key vote</a> CNN: The Senate is on track to vote on Tuesday to raise the national debt limit as lawmakers race to avert a catastrophic default ahead of a critical mid-week deadline. 
  <p class="updated_time"> 04:31 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/rural-america-biden-investments-524170">Biden’s rural investments run up against the culture wars in Wisconsin</a> Politico: Even as President Joe Biden’s agenda has promised billions to rural communities this year, Democrats are in danger of losing their last foothold in rural Wisconsin. 
  <p class="updated_time"> 04:30 AM CT, Dec. 14 </p> 
@@ -372,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/us/politics/teachers-union-becky-pringle.html">New Leader Pushes Teachers’ Union to Take On Social Justice Role</a> NYT: Becky Pringle, the country’s top Black labor leader, has plunged the National Education Association into the reckoning unfolding in public schools. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
- <p class="updated_time"> 11:37 AM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/europe/russia-putin-biden-intl/index.html">Putin told Biden he would 'really like' to meet</a> CNN: Russian President Vladimir Putin told his US counterpart Joe Biden he would "really like" to meet for more talks, according to a video clip released by Russian state TV on Sunday from the leaders' virtual call on Tuesday. 
  <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
  <p class="updated_time"> 10:26 AM CT, Dec. 12 </p> 
