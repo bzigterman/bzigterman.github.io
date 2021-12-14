@@ -75,6 +75,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59602955?at_medium=RSS&at_campaign=KARANGA">Canada offers up to $40bn to compensate indigenous children</a> BBC: It comes after a lengthy legal battle over the abuse of native children held in government care. 
  <p class="updated_time"> 06:06 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59645557?at_medium=RSS&at_campaign=KARANGA">Tom Holland: 'There are kids who look up to Spider-Man'</a> BBC: Spider-Man: No Way Home is Tom Holland's third solo film and his sixth as part of the Avengers. 
+ <p class="updated_time"> 06:05 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59645657?at_medium=RSS&at_campaign=KARANGA">Hong Kong elections: How China reshaped the city</a> BBC: The city's Legislative Council polls look different this year, thanks to new electoral and national security laws. 
  <p class="updated_time"> 05:37 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-59645658?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the Lewis Hamilton and Max Verstappen F1 title drama</a> BBC: Max Verstappen was crowned F1 world champion, after winning the Abu Dhabi Grand Prix. 
  <p class="updated_time"> 05:34 PM CT, Dec. 13 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/crisis-looms-for-taliban-afghanistan-and-rest-of-world-11639104243">For a Taliban-Ruled Afghanistan, and the Rest of the World, a Crisis Looms</a> WSJ: The new Taliban administration is struggling with a devastated economy. The fallout likely will extend well beyond the country’s borders. 
  <p class="updated_time"> 02:30 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S. and other ex-foes, Afghan foreign minister says </a> NPR: Afghan Foreign Minister Amir Khan Muttaqi, in an interview with The Associated Press, said the Taliban have changed since they last ruled. He says they have no issue with the United States. 
- <p class="updated_time"> 11:38 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59632356?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Rebuilding lives from 'hell on Earth'</a> BBC: Residents in the US state are sifting through the rubble that was once a town. 
  <p class="updated_time"> 06:01 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59614595?at_medium=RSS&at_campaign=KARANGA">The ultra-violent cult that became a global mafia</a> BBC: A BBC investigation into Black Axe has unearthed new evidence of political infiltration, and a scamming and killing operation spanning the globe. 
  <p class="updated_time"> 06:01 PM CT, Dec. 12 </p> 
