@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 04:16 AM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59649066?at_medium=RSS&at_campaign=KARANGA">Arctic Circle's record high temperature sounds 'alarm bells'</a> BBC: The highest temperature recorded in the region last year - 38C (100F) - is officially confirmed. 
+ <a href="https://www.bbc.co.uk/news/science-environment-59649066?at_medium=RSS&at_campaign=KARANGA">Arctic heat record is like Mediterranean, says UN</a> BBC: The highest temperature recorded in the region last year - 38C (100F) - is officially confirmed. 
  <p class="updated_time"> 04:00 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/insider/why-i-keep-writing-about-dive-bars.html">Why a Times Reporter Keeps Writing About Dive Bars</a> NYT: Attracted to the grit, equality and community of those modest watering holes, a Times reporter has worked them into his coverage. 
  <p class="updated_time"> 03:50 AM CT, Dec. 14 </p> 
@@ -225,7 +225,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:43 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/mark-meadows-contempt.html">Jan. 6 Committee Recommends Contempt Charge for Meadows</a> NYT: The panel sent a criminal contempt of Congress referral to the full House, as the extent of Mark Meadows’s role in President Donald J. Trump’s efforts to overturn the election became clearer. 
  <p class="updated_time"> 09:39 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/business/media/fox-news-trump-jan-6-meadows.html">Fox News Hosts Sent Texts to Mark Meadows During Jan. 6 Attack</a> NYT: Afterward, on their shows, Laura Ingraham spread the false claim of antifa involvement, and Sean Hannity referred to the 2020 election as a “train wreck.” 
+ <a href="https://www.nytimes.com/2021/12/13/business/media/fox-news-trump-jan-6-meadows.html">Fox News Hosts Sent Texts to Meadows Urging Trump to Act as Jan. 6 Attack Unfolded</a> NYT: Afterward, on their shows, Laura Ingraham spread the false claim of antifa involvement, and Sean Hannity referred to the 2020 election as a “train wreck.” 
  <p class="updated_time"> 09:21 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/jan-6-rally-organizers-sue-verizon-524189">Jan. 6 rally organizers sue Verizon to block release of cell phone data to congressional committee</a> Politico: The lawsuit said the plaintiffs have personally complied with the committee’s investigation. 
  <p class="updated_time"> 09:17 PM CT, Dec. 13 </p> 
