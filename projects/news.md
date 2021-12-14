@@ -209,7 +209,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:32 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megbill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
+ <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megabill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
  <p class="updated_time"> 03:29 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/student-loans-biden-february/index.html">Biden still plans to restart federal student loan payments in February</a> CNN: President Joe Biden still plans to restart federal student loan payments in February, resisting pressure from some fellow Democrats who continue to call for an extension of coronavirus pandemic relief benefits. 
  <p class="updated_time"> 03:27 PM CT, Dec. 14 </p> 
