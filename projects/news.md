@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:41 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-covid-restrictions.html">Conservatives Abandon Johnson Over New Covid Rules</a> NYT: A record number of Prime Minister Boris Johnson’s fellow party members voted against his plan for Covid certificates. But the plan passed with the help of the opposition. 
  <p class="updated_time"> 02:36 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/arts/music/vicente-fernandez-influence.html">Vicente Fernández, the King of Machos and Heartbreak</a> NYT: The singer’s brand of machismo may have frayed, but for many, he was the ideal of what it means to be hard-working, hard-loving Mexican man. 
  <p class="updated_time"> 02:34 PM CT, Dec. 14 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59658661?at_medium=RSS&at_campaign=KARANGA">Phillip Adams: Ex-NFL player who shot six dead had CTE brain disease</a> BBC: US footballer Phillip Adams' brain showed evidence of damage linked to repeated head trauma. 
  <p class="updated_time"> 12:10 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
- <p class="updated_time"> 12:08 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-covid-restrictions.html">Even as Omicron Cases Rise in U.K., Johnson Faces Mutiny Over New Rules</a> NYT: The British prime minister, under fire for his government’s handling of the coronavirus, is facing deep opposition within his party over new rules aimed at quelling a surge of the variant. 
  <p class="updated_time"> 12:00 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59650239?at_medium=RSS&at_campaign=KARANGA">Channel tragedy: French authorities identify 26 victims</a> BBC: Sixteen Kurdish people, including two friends from Iraq, were among those who perished last month. 
  <p class="updated_time"> 11:52 AM CT, Dec. 14 </p> 
