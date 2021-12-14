@@ -45,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/asia/duterte-philippines-senate.html">Philippines President Rodrigo Duterte Won't Run for Senate</a> NYT: The populist president also promised a peaceful transition of power when his term ends next year. 
  <p class="updated_time"> 09:05 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59649066?at_medium=RSS&at_campaign=KARANGA">Arctic heat record is like Mediterranean, says UN</a> BBC: The highest temperature recorded in the region last year - 38C (100F) - is officially confirmed. 
+ <p class="updated_time"> 08:15 AM CT, Dec. 14 </p> 
+ <a href="https://www.wsj.com/articles/first-big-omicron-study-finds-two-doses-of-pfizers-vaccine-cuts-hospitalization-risk-by-70-11639495432">Study Finds Two Pfizer Vaccine Doses Offer Less Protection Against Omicron Than Against Delta</a> WSJ: The first large real-world study found that while Omicron reduced vaccine effectiveness against infection to 33% from 80% for Delta, its effect on protection against hospitalization was less marked, falling to 70% from 93%. 
  <p class="updated_time"> 07:10 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/united-arab-emirates-threatens-to-pull-out-of-23-billion-f-35-drone-deal-with-u-s-11639491997">U.A.E. Threatens to Pull Out of $23 Billion F-35, Drone Deal With U.S.</a> WSJ: The Emirati government told U.S. officials that it intended to halt the deal because Abu Dhabi thought security requirements the U.S. had laid out to safeguard the high-tech weaponry from Chinese espionage were too onerous, and the country’s national sovereignty was in jeopardy. 
  <p class="updated_time"> 07:07 AM CT, Dec. 14 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/gas-truck-blast-in-haiti-kills-some-40-in-latest-disaster-for-nation-11639490464">Haiti Gas-Truck Blast Kills at Least 60 People</a> WSJ: The explosion hit the hemisphere’s poorest nation, which is already contending with the recent assassination of its president, a devastating earthquake and the kidnapping of a group of mostly American missionaries. 
  <p class="updated_time"> 06:21 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/famed-russian-rights-group-that-investigated-soviet-era-crimes-faces-closure-under-putin-11639502515">Famed Russian Rights Group That Investigated Soviet-Era Crimes Faces Closure Under Putin</a> WSJ: Government prosecutors are pushing for Memorial’s umbrella organization and its human-rights wing to be dissolved in what many people here view as one of the most shocking examples yet of how the Kremlin is squeezing space for dissent. 
- <p class="updated_time"> 04:23 AM CT, Dec. 14 </p> 
- <a href="https://www.wsj.com/articles/first-big-omicron-study-finds-two-doses-of-pfizers-vaccine-cuts-hospitalization-risk-by-70-11639495432">Omicron Study Finds Two Doses of Pfizer Vaccine Cuts Hospitalization Risk</a> WSJ: The first large real-world study, by South Africa’s biggest private health insurer, found that two shots of the vaccine lowered the risk of hospital admission by 70% for patients infected with the highly mutated variant. 
  <p class="updated_time"> 04:00 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/insider/dive-bars.html">Why a Times Reporter Keeps Writing About Dive Bars</a> NYT: Attracted to the grit, equality and community of those modest watering holes, a Times reporter has worked them into his coverage. 
  <p class="updated_time"> 03:48 AM CT, Dec. 14 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:48 PM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/fdic-chair-democrats-524212">Trump-appointed FDIC chair blocks Democratic bid to undercut her</a> Politico: A disagreement over who controls the FDIC’s agenda flared after the Democrats who make up the majority of the board voted to solicit public feedback on potential changes to the agency’s bank merger approval process. 
  <p class="updated_time"> 01:01 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Senate Votes to Take Up $2.5 Trillion Debt Limit Increase</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
  <p class="updated_time"> 12:57 PM CT, Dec. 14 </p> 
@@ -226,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/14/politics/dc-proud-boys-oath-keepers-lawsuit/index.html">DC AG sues Proud Boys, Oath Keepers members to recoup costs related to January 6</a> CNN: More than two dozen members of the Proud Boys and Oath Keepers are being sued by District of Columbia Attorney General Karl Racine in an effort to recover the millions of dollars the city spent to defend the US Capitol during the January 6 attack. 
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
  <a href="https://subscriber.politicopro.com/states/new-york/city-hall/whiteboard/2021/12/14/legal-aid-sues-to-compel-state-to-reopen-rent-relief-program-9428027">Legal Aid sues to compel state to reopen rent relief program</a> Politico: The Legal Aid Society is suing to force the state to resume accepting applications to its emergency rental assistance program. Details: The organization charges in a new class-action lawsuit that the closure of the program in mid-November was unlawful and has put “pote… 
- <p class="updated_time"> 12:00 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/dc-jan-6-oath-keepers-proud-boys-524200">D.C. suing the Oath Keepers, Proud Boys for damage caused on Jan. 6</a> Politico: It's the first government-backed legal action against the groups whose members allegedly stormed the Capitol. 
  <p class="updated_time"> 11:53 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/democrats-raise-debt-ceiling-524204">Senate moves forward on raising debt ceiling by $2.5T</a> Politico: The amount is expected to carry spending until after the 2022 midterms, preventing another standoff over the debt limit until after elections. 
  <p class="updated_time"> 11:43 AM CT, Dec. 14 </p> 
@@ -362,6 +362,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/kamala-harris-private-sector-investments-north-triangle/index.html">Harris to announce new private sector investments in Northern Triangle</a> CNN: Vice President Kamala Harris on Monday will announce a new slate of commitments from the private sector to invest in the Northern Triangle, senior White House officials say, marking the administration's latest attempt to address the root causes of migration from the region by promoting economic opportunity. 
  <p class="updated_time"> 04:31 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/jeffries-mccarthy-house-election-524100">‘Who is he?’ The X-factor relationship that could soon rule the House</a> Politico: Hakeem Jeffries and Kevin McCarthy may well lead their parties in the lower chamber come 2023. But their relationship is a black box. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/news/2021/12/13/political-maps-redistricting-state-supreme-courts-524150">States’ high courts poised to draw new congressional maps</a> Politico: State supreme courts are increasingly being charged with drawing new map lines in gridlocked states and policing partisan gerrymandering. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/schumer-pressure-holiday-delivery-524093">Old St. Chuck? Schumer under pressure to deliver by Christmas</a> Politico: The Senate Democratic leader wants to wrap up the $1.7 trillion social spending bill for the holiday — which may well prove impossible. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
