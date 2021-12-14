@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:08 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-covid-restrictions.html">Even as Omicron Cases Rise in U.K., Johnson Faces Mutiny Over New Rules</a> NYT: The British prime minister, under fire for his government’s handling of the coronavirus, is facing deep opposition within his party over new rules aimed at quelling a surge of the variant. 
+ <p class="updated_time"> 12:00 PM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59650239?at_medium=RSS&at_campaign=KARANGA">Channel tragedy: French authorities identify 26 victims</a> BBC: Sixteen Kurdish people, including two friends from Iraq, were among those who perished last month. 
+ <p class="updated_time"> 11:56 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/business/economy/turkey-inflation-economy-lira.html">How Inflation Affects Turkey's Struggling Economy</a> NYT: Even before the pandemic, Turkey was trying to ward off financial meltdown. The crisis has accelerated as President Recep Tayyip Erdogan has doubled down on his unorthodox policies. 
+ <p class="updated_time"> 11:52 AM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59657761?at_medium=RSS&at_campaign=KARANGA">Toronto police release video of 'suspect' in billionaires' 2017 murders</a> BBC: Barry and Honey Sherman were found dead at home four years ago, but police have made no arrests. 
  <p class="updated_time"> 11:26 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/africa/omicron-south-africa-study.html">Omicron May Cause Fewer Hospitalizations Than Previous Variants, Early Study Shows</a> NYT: The findings, which also show that the new variant decreases the efficacy of the Pfizer vaccine, are based on only three weeks of data, and epidemiologists have cautioned that more data is needed. 
  <p class="updated_time"> 11:18 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
- <p class="updated_time"> 11:09 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-omicron-covid-restrictions-boris-johnson.html">Even as Omicron Cases Rise in U.K., Johnson Faces Mutiny Over New Rules</a> NYT: The British prime minister, under fire for his government’s handling of the coronavirus, is facing deep opposition within his party over new rules aimed at quelling a surge of the variant. 
  <p class="updated_time"> 11:04 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59645087?at_medium=RSS&at_campaign=KARANGA">Congolese rumba wins Unesco protected status</a> BBC: The music and dance style from the two Congos is a fundamental part of the countries' identities. 
  <p class="updated_time"> 10:37 AM CT, Dec. 14 </p> 
@@ -31,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Gasoline Truck in Haiti Explodes, Killing More Than 60</a> NYT: Scores more were injured in the blast. It was the latest tragedy to hit the country, which has been rocked by political violence, natural disasters, poverty and hunger. 
  <p class="updated_time"> 09:51 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/asia/duterte-philippines-senate.html">Philippines President Rodrigo Duterte Won't Run for Senate</a> NYT: The populist president also promised a peaceful transition of power when his term ends next year. 
- <p class="updated_time"> 09:12 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/business/economy/turkey-inflation-economy-lira.html">How Inflation Affects Turkey's Struggling Economy</a> NYT: Even before the pandemic, Turkey was trying to ward off financial meltdown. The crisis has accelerated as President Recep Tayyip Erdogan has doubled down on his unorthodox policies. 
  <p class="updated_time"> 09:05 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59649066?at_medium=RSS&at_campaign=KARANGA">Arctic heat record is like Mediterranean, says UN</a> BBC: The highest temperature recorded in the region last year - 38C (100F) - is officially confirmed. 
  <p class="updated_time"> 08:14 AM CT, Dec. 14 </p> 
@@ -75,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/us/politics/israel-tankers-iran.html">Israel Finds Planes That Could Be Key to a Strike on Iran Badly Back-Ordered</a> NYT: The United States told Israel it was unlikely to deliver refueling tankers before 2024, amid tensions between the two nations over how to deal with Iran’s nuclear program. 
  <p class="updated_time"> 08:25 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle Into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
- <p class="updated_time"> 08:14 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59647065?at_medium=RSS&at_campaign=KARANGA">Pentagon: No US troops to be punished for Afghan drone strike</a> BBC: It follows a Pentagon review of the attack that killed an aid worker and nine of his family members. 
  <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/omicron-travel-setbacks.html">How Conflicting Guidance on Travel During the Pandemic Shows Little Progress</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
  <p class="updated_time"> 07:25 PM CT, Dec. 13 </p> 
@@ -85,14 +87,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59612806?at_medium=RSS&at_campaign=KARANGA">Record numbers of young Guatemalans migrate north, leaving families in limbo</a> BBC: Chasing economic opportunity, record numbers of young Central Americans are braving the journey north. 
  <p class="updated_time"> 07:20 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-59522532?at_medium=RSS&at_campaign=KARANGA">Miami is banking on cryptocurrency and New York wants in</a> BBC: MiamiCoin and NYCCoin are experiments designed to put these cities on the cryptocurrency map. 
+ <p class="updated_time"> 07:19 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/newsbeat-59461807?at_medium=RSS&at_campaign=KARANGA">Sex and cancer: 'I was ashamed to ask for help'</a> BBC: Cait didn't know why it hurt to masturbate after her treatment - and didn't know who to ask. 
  <p class="updated_time"> 06:48 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59634192?at_medium=RSS&at_campaign=KARANGA">Nagaland killings: Anger grows after Indian army’s botched ambush</a> BBC: Locals in Nagaland state demand punishment for troops who shot dead civilians, repeal of AFSPA law. 
  <p class="updated_time"> 06:42 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59646803?at_medium=RSS&at_campaign=KARANGA">Apology to US teachers over 'dash for cash' charity stunt</a> BBC: The US bank that donated the cash said they will give more after the "degrading and insulting" event. 
  <p class="updated_time"> 06:37 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/arts/music/vicente-fernandez-influence.html">Vicente Fernández, the King of Machos and Heartbreak</a> NYT: The singer’s brand of machismo may have frayed, but for many, he was the ideal of what it means to be hard-working, hard-loving Mexican man. 
- <p class="updated_time"> 06:29 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59602955?at_medium=RSS&at_campaign=KARANGA">Canada offers up to $40bn to compensate indigenous children</a> BBC: It comes after a lengthy legal battle over the abuse of native children held in government care. 
  <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Drone Strike</a> NYT: The military initially defended the strike, which killed 10 civilians including seven children, but ultimately called it a tragic mistake. 
  <p class="updated_time"> 06:06 PM CT, Dec. 13 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59645657?at_medium=RSS&at_campaign=KARANGA">Hong Kong elections: How China reshaped the city</a> BBC: The city's Legislative Council polls look different this year, thanks to new electoral and national security laws. 
  <p class="updated_time"> 05:37 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-59645658?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the Lewis Hamilton and Max Verstappen F1 title drama</a> BBC: Max Verstappen was crowned F1 world champion, after winning the Abu Dhabi Grand Prix. 
- <p class="updated_time"> 05:34 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/business-59641784?at_medium=RSS&at_campaign=KARANGA">Amazon criticised over safety at tornado-hit warehouse</a> BBC: The firm said events happened quickly at the Illinois site and it was "deeply saddened" by the deaths. 
  <p class="updated_time"> 05:32 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Two detained after UK boat's fatal collision off Sweden</a> BBC: One person is dead and one missing after a Danish ship collides with a UK vessel in the Baltic Sea. 
  <p class="updated_time"> 04:21 PM CT, Dec. 13 </p> 
@@ -210,12 +210,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
+ <p class="updated_time"> 12:07 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/dc-proud-boys-oath-keepers-lawsuit/index.html">DC AG sues Proud Boys, Oath Keepers members to recoup costs related to January 6</a> CNN: More than two dozen members of the Proud Boys and Oath Keepers are being sued by District of Columbia Attorney General Karl Racine in an effort to recover the millions of dollars the city spent to defend the US Capitol during the January 6 attack. 
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
  <a href="https://subscriber.politicopro.com/states/new-york/city-hall/whiteboard/2021/12/14/legal-aid-sues-to-compel-state-to-reopen-rent-relief-program-9428027">Legal Aid sues to compel state to reopen rent relief program</a> Politico: The Legal Aid Society is suing to force the state to resume accepting applications to its emergency rental assistance program. Details: The organization charges in a new class-action lawsuit that the closure of the program in mid-November was unlawful and has put “pote… 
  <p class="updated_time"> 12:00 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/dc-jan-6-oath-keepers-proud-boys-524200">D.C. suing the Oath Keepers, Proud Boys for damage caused on Jan. 6</a> Politico: It's the first government-backed legal action against the groups whose members allegedly stormed the Capitol. 
  <p class="updated_time"> 11:53 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/democrats-raise-debt-ceiling-524204">Democrats to raise debt ceiling by $2.5T</a> Politico: The amount is expected to carry spending until after the 2022 midterms, preventing another standoff over the debt limit until after elections. 
+ <p class="updated_time"> 11:43 AM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/joe-manchin-2024-reelection-plans/index.html">Manchin reelection plans loom as Democrats court his critical vote </a> CNN: Sen. Joe Manchin has a big choice to make -- and it's not just whether to give President Joe Biden's sweeping agenda a decisive vote of approval. 
+ <p class="updated_time"> 11:43 AM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/14/1064047804/where-things-stand-with-the-monthly-expanded-child-tax-credit-payments">Where things stand with the monthly expanded child tax credit payments</a> NPR: Because an extension of the child tax credit is tied in with President Biden's Build Back Better social spending plan, it remains unclear whether the monthly payments will continue beyond this year. 
  <p class="updated_time"> 11:37 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/meadows-congress-justice-department-referral/index.html">House to vote to refer Mark Meadows to DOJ for contempt of Congress</a> CNN: The House is set to vote on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal charges for failing to appear for a deposition with the select committee investigating the January 6 attack. 
  <p class="updated_time"> 11:35 AM CT, Dec. 14 </p> 
@@ -226,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/14/politics/kristi-noem-south-dakota-daughter-real-estate-license/index.html">Gov. Kristi Noem's daughter given extra chance to obtain real estate license, former state employee testifies</a> CNN: The former state employee who is at the center of the controversy over whether South Dakota Gov. Kristi Noem intervened to help her daughter obtain a real estate appraiser license testified before state lawmakers on Tuesday that Noem's daughter was given an extra chance to correct her work so that her application would not be denied and that the state's process for handling her application was unusual. 
  <p class="updated_time"> 11:03 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandra-thompson-housing-regulator-524197">Biden taps Thompson for full term as top housing regulator</a> Politico: The move comes after Thompson allies on the Hill urged Biden to keep her at the helm amid reports he planned to replace Thompson this fall. 
- <p class="updated_time"> 11:00 AM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/dc-proud-boys-oath-keepers-lawsuit/index.html">DC attorney general sues Proud Boys, Oath Keepers members to recoup costs related to January 6</a> CNN: More than two dozen members of the Proud Boys and Oath Keepers are being sued by District of Columbia Attorney General Karl Racine in an effort to recover the millions of dollars the city spent to defend the US Capitol during the January 6 attack. 
  <p class="updated_time"> 10:55 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/ilhan-omar-boebert-muslim-islamophobia/index.html">House expected to pass Ilhan Omar's legislation to combat Islamophobia after clash with Boebert</a> CNN: The House will vote Tuesday on Democratic Rep. Ilhan Omar's legislation to create a special envoy to combat Islamophobia, a week after progressives introduced a separate resolution to strip Republican Rep. Lauren Boebert of her committee assignments following her anti-Muslim comments calling the Minnesota Democrat a terrorist. 
  <p class="updated_time"> 10:33 AM CT, Dec. 14 </p> 
@@ -354,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/schumer-pressure-holiday-delivery-524093">Old St. Chuck? Schumer under pressure to deliver by Christmas</a> Politico: The Senate Democratic leader wants to wrap up the $1.7 trillion social spending bill for the holiday — which may well prove impossible. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/dems-child-tax-credit-expire-social-bill-524084">As Dems sprint against the clock, child tax credit might slip away</a> Politico: “It’s as important a thing as there is” in the party's social spending bill, as one senator put it. And it's expiring any day now. 
- <p class="updated_time"> 04:26 AM CT, Dec. 13 </p> 
- <a href="https://www.npr.org/2021/12/13/1062794948/authoritarians-migrants-weapons-white-house-worries">Authoritarians are using migrants as weapons. The White House frets it's on the rise</a> NPR: The White House is concerned migrants will be increasingly used as a geopolitical tool as migration increases because of instability and climate change. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-roe-v-wade-precedent.html">With Roe at Risk, Justices Explore a New Way to Question Precedents</a> NYT: A new study traces a trend at the Supreme Court: looking to what the lawyers had argued in assessing whether to follow a precedent. 
  <p class="updated_time"> 10:54 PM CT, Dec. 12 </p> 
@@ -394,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/11/politics/iran-nuclear-weapon-us-military-options/index.html">Biden administration has reviewed military options as part of effort to keep Iran from obtaining a nuclear weapon</a> CNN: The Biden administration has reviewed military options that could be part of an effort to prevent Iran from obtaining a nuclear weapon, if a multilateral deal between the United States, Iran and other nations on Tehran's nuclear program is not salvaged, according to administration officials. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/11/middle-class-joe-visits-late-night-jimmy-495429">POLITICO Playbook: ‘Middle-class Joe’ visits late-night Jimmy</a> Politico: And what the Supreme Court's Texas ruling means for Roe v. Wade. 
- <p class="updated_time"> 09:19 AM CT, Dec. 11 </p> 
- <a href="https://www.cnn.com/2021/12/11/politics/joe-biden-tonight-show-jimmy-fallon/index.html">Biden talks Washington partisanship in first late-night interview as president</a> CNN: President Joe Biden lamented hyper-partisanship in Washington in his first late-night interview since taking office, saying that while he used to have a cordial relationship with Republicans, "the Big Lie ... makes it awful hard." 
  <p class="updated_time"> 07:01 AM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/soaring-inflation-wealth-racial-disparities-524111">Soaring inflation could hamper Biden’s effort to narrow wealth, racial disparities</a> Politico: Biden campaigned on addressing structural inequities. Rising prices could jeopardize that. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
