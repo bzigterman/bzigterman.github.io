@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:45 AM CT, Dec. 14 </p> 
+ <p class="updated_time"> 06:11 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
  <p class="updated_time"> 04:16 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59649066?at_medium=RSS&at_campaign=KARANGA">Arctic heat record is like Mediterranean, says UN</a> BBC: The highest temperature recorded in the region last year - 38C (100F) - is officially confirmed. 
@@ -188,8 +188,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:25 AM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2021/12/14/senate-moves-on-debt-defense-house-on-meadows-495455">Senate moves on debt, defense, House on Meadows</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/14/what-the-left-doesnt-get-about-the-media-495453">POLITICO Playbook: What the left doesn’t get about the media</a> Politico: And the Jan. 6 committee releases some of Mark Meadows' text messages. 
+ <p class="updated_time"> 06:03 AM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-mark-meadows/index.html">Newly revealed text messages to Meadows undercut GOP whitewashing of insurrection</a> CNN: Donald Trump Jr. was frantic. Fox News personalities who now dismiss the violence at the US Capitol were begging the White House to do something. On January 6, then-President Donald Trump wasn't listening to his kids or his media enablers. 
+ <p class="updated_time"> 05:53 AM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/blinken-indo-pacific/index.html">Blinken says the Indo-Pacific will shape the trajectory of the 21st century as counterweight to China's aggressive actions </a> CNN: Secretary of State Antony Blinken committed to bolstering US partnerships in the Indo-Pacific as a counterweight to China's aggressive actions during a speech in Indonesia on Tuesday, coming as the Biden administration has been largely focused on foreign policy challenges in other areas of the world. 
  <p class="updated_time"> 05:31 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/sections/money/2021/12/14/1063703904/the-best-and-worst-places-to-live-if-you-care-only-about-money">The Best And Worst Places To Live If You Care Only About Money</a> NPR: A new study looks at the finances of three million households over the course of a year. It finds significant differences in the standard of living across America. 
  <p class="updated_time"> 05:22 AM CT, Dec. 14 </p> 
@@ -210,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1063766485/their-lives-were-changed-by-gun-violence-and-now-theyre-running-for-office">Their lives were changed by gun violence, and now they're running for office</a> NPR: One of the country's top gun control groups is now actively recruiting candidates who have experienced the effects of gun violence to run for local, state and national offices. 
  <p class="updated_time"> 04:01 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1055186046/census-bureau-leadership-racial-diversity-staff-senior-executive-service-ses">The federal agency that measures racial diversity is led mostly by white people</a> NPR: While the Census Bureau's set to have its first director who's Latinx, an NPR analysis finds people of color are underrepresented in the top rank of civil servants at the country's main data producer. 
- <p class="updated_time"> 03:32 AM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-mark-meadows/index.html">Newly revealed text messages to Meadows undercut GOP whitewashing of the insurrection</a> CNN: Donald Trump Jr. was frantic. Fox News personalities who now dismiss the violence at the US Capitol were begging the White House to do something. On January 6, then-President Donald Trump wasn't listening to his kids or his media enablers. 
  <p class="updated_time"> 12:24 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/trump-jr-text-mark-meadows-january-6/index.html">Donald Trump Jr. said his father needed to 'condemn' Capitol violence as it unfolded, Meadows texts reveal</a> CNN: Donald Trump Jr. said in a series of text messages to then-White House chief of staff Mark Meadows that his father needed to "condemn" the US Capitol insurrection as it unfolded. 
  <p class="updated_time"> 12:12 AM CT, Dec. 14 </p> 
@@ -278,16 +282,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063740685/biden-executive-order-government-more-consumer-friendly-irs">Frustrated that you can't schedule an IRS callback? Biden signed an order to do that</a> NPR: The provision is part of an order Biden signed to make the government more consumer friendly. It also makes it simpler for disaster survivors to apply for help. The order covers 17 federal agencies. 
  <p class="updated_time"> 03:06 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/supreme-court-new-york-vaccine-mandate/index.html">Supreme Court declines to block New York vaccine mandate</a> CNN: The Supreme Court turned away two emergency requests Monday from health care workers, doctors and nurses in New York to block the state's vaccine mandate. 
- <p class="updated_time"> 02:29 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/insurrection-sedition-coup-january-6/index.html">Here's what 'insurrection,' 'coup' and 'sedition' mean</a> CNN: As the House January 6 committee continues its probe into the US Capitol riot and issues subpoenas, there are questions surrounding the role allies of former President Donald Trump may have played. 
  <p class="updated_time"> 01:48 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/manchin-fiscal-concerns-524158">Manchin keeps Dems guessing on their megabill</a> Politico: The Democratic senator still isn't committing to back President Joe Biden's social safety net legislation, citing fears about inflation and debt. 
  <p class="updated_time"> 01:28 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063652510/mark-meadows-contempt-vote-jan-6-committee-house">Jan. 6 panel votes to hold Meadows in contempt, sending a criminal referral to House</a> NPR: Ahead of the vote, Republican Rep. Liz Cheney of Wyoming read a litany of text messages she said Mark Meadows received during the Jan. 6 siege, including from Donald Trump Jr. 
- <p class="updated_time"> 12:53 PM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/biden-kentucky-deadly-tornados-524155">Biden to survey Kentucky tornado damage Wednesday</a> Politico: A severe storm across several states has left dozens dead and tens of thousands without power. 
  <p class="updated_time"> 12:43 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/dr-oz-show-end-2022-524157">'Dr. Oz Show' will end in 2022 amid host's Senate bid</a> Politico: The long-running daytime TV show will end in its 13th season as Mehmet Oz makes a run for the U.S. Senate. 
  <p class="updated_time"> 12:35 PM CT, Dec. 13 </p> 
@@ -308,6 +308,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/kamala-harris-private-sector-investments-north-triangle/index.html">Harris to announce new private sector investments in Northern Triangle</a> CNN: Vice President Kamala Harris on Monday will announce a new slate of commitments from the private sector to invest in the Northern Triangle, senior White House officials say, marking the administration's latest attempt to address the root causes of migration from the region by promoting economic opportunity. 
  <p class="updated_time"> 04:31 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/jeffries-mccarthy-house-election-524100">‘Who is he?’ The X-factor relationship that could soon rule the House</a> Politico: Hakeem Jeffries and Kevin McCarthy may well lead their parties in the lower chamber come 2023. But their relationship is a black box. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/news/2021/12/13/political-maps-redistricting-state-supreme-courts-524150">States’ high courts poised to draw new congressional maps</a> Politico: State supreme courts are increasingly being charged with drawing new map lines in gridlocked states and policing partisan gerrymandering. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/schumer-pressure-holiday-delivery-524093">Old St. Chuck? Schumer under pressure to deliver by Christmas</a> Politico: The Senate Democratic leader wants to wrap up the $1.7 trillion social spending bill for the holiday — which may well prove impossible. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
@@ -430,8 +432,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting: Town halls with the VP that would focus on her areas of interest. 
  <p class="updated_time"> 07:33 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/07/legislative-mix-and-match-combo-meal-495353">Legislative mix-and-match combo meal</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:21 AM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/07/bidens-whac-a-mole-covid-problem-495350">POLITICO Playbook: Biden’s Whac-A-Mole Covid problem</a> Politico: And President Joe Biden prepares for his call with Vladimir Putin. 
 
 
 </details>
