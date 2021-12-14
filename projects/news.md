@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:24 AM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/trump-jr-text-mark-meadows-january-6/index.html">Donald Trump Jr. said his father needed to 'condemn' Capitol violence as it unfolded, Meadows texts reveal</a> CNN: Donald Trump Jr. said in a series of text messages to then-White House chief of staff Mark Meadows that his father needed to "condemn" the US Capitol insurrection as it unfolded. 
  <p class="updated_time"> 12:12 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/sentencing-arbery-killing-524191">Jan. 7 sentencing set for men convicted in Arbery killing</a> Politico: Prosecutors chose not to seek the death penalty in the case of Ahmaud Arbery’s slaying. 
  <p class="updated_time"> 10:25 PM CT, Dec. 13 </p> 
@@ -204,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html">January 6 panel unveils text messages to Meadows from Don Jr. and Fox hosts as contempt charge advances</a> CNN: The House select committee investigating the January 6 riot at the US Capitol is prepared to vote Monday on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal contempt of Congress charges. 
  <p class="updated_time"> 10:08 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/william-walker-dc-national-guard-january-6-committee/index.html">Former DC National Guard commander meets with January 6 committee</a> CNN: William Walker, who was the top commander for Washington, DC's National Guard and responsible for troop deployment in support of law enforcement overwhelmed on January 6, met Monday with the House select committee investigating the attack on the US Capitol, a source familiar with his appearance has confirmed to CNN. 
- <p class="updated_time"> 10:01 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/trump-jr-text-mark-meadows-january-6/index.html">Donald Trump Jr. said his father needed to 'condemn' Capitol violence as it unfolded, Meadows texts reveal</a> CNN: Donald Trump Jr. said in a series of text messages to then-White House chief of staff Mark Meadows that his father needed to "condemn" the US Capitol insurrection as it unfolded. 
  <p class="updated_time"> 09:43 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/mark-meadows-contempt.html">Jan. 6 Committee Recommends Contempt Charge for Meadows</a> NYT: The panel sent a criminal contempt of Congress referral to the full House, as the extent of Mark Meadows’s role in President Donald J. Trump’s efforts to overturn the election became clearer. 
  <p class="updated_time"> 09:39 PM CT, Dec. 13 </p> 
