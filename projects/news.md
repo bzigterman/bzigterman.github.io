@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:16 AM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59649066?at_medium=RSS&at_campaign=KARANGA">Arctic Circle's record high temperature sounds 'alarm bells'</a> BBC: The highest temperature recorded in the region last year - 38C (100F) - is officially confirmed. 
  <p class="updated_time"> 04:00 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/insider/why-i-keep-writing-about-dive-bars.html">Why a Times Reporter Keeps Writing About Dive Bars</a> NYT: Attracted to the grit, equality and community of those modest watering holes, a Times reporter has worked them into his coverage. 
  <p class="updated_time"> 03:50 AM CT, Dec. 14 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-k-reports-first-omicron-death-as-government-warns-of-a-tidal-wave-of-cases-11639406945">U.K. Sees First Death of a Person With Omicron</a> WSJ: Prime Minister Boris Johnson said the death was a reminder of the risks the country faces as Britain races to offer its adult population a third Covid-19 vaccination dose by the end of the year. 
  <p class="updated_time"> 11:04 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Travels to U.A.E., Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett traveled to Abu Dhabi on Sunday, the first such visit by an Israeli leader, with plans to meet with the Emirati prince. 
- <p class="updated_time"> 10:25 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59635607?at_medium=RSS&at_campaign=KARANGA">Golden Globes: Belfast and The Power of the Dog lead field for troubled awards</a> BBC: The Power of the Dog, starring Benedict Cumberbatch, and Sir Kenneth Branagh's Belfast lead the race. 
  <p class="updated_time"> 09:51 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 09:27 AM CT, Dec. 13 </p> 
@@ -198,12 +198,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/business/birth-control-pill-over-counter.html">Firms Push for Over-the-Counter Access to Birth-Control Pills</a> NYT: Two drugmakers have been mired for years in the pre-application phase of getting F.D.A. approval for over-the-counter use. 
+ <p class="updated_time"> 04:10 AM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/14/1064018682/meadows-held-in-contempt-jan-6-panel-sends-a-criminal-referral-to-the-house">Meadows held in contempt, Jan. 6 panel sends a criminal referral to the House</a> NPR: A House panel investigating the Jan. 6 attack on the U.S. Capitol has voted to hold former Trump White House Chief of Staff Mark Meadows in contempt, revealing new details in his text messages. 
+ <p class="updated_time"> 04:10 AM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/14/1064011237/fossil-fuel-subsidies-are-proving-harder-to-end-than-first-thought">Fossil fuel subsidies are proving harder to end than first thought</a> NPR: President Biden campaigned on ending oil and gas industry subsidies. But getting rid of them requires passing legislation. A bill eliminating the overseas drilling subsidy is stalled in Congress. 
  <p class="updated_time"> 04:01 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1063766485/their-lives-were-changed-by-gun-violence-and-now-theyre-running-for-office">Their lives were changed by gun violence, and now they're running for office</a> NPR: One of the country's top gun control groups is now actively recruiting candidates who have experienced the effects of gun violence to run for local, state and national offices. 
  <p class="updated_time"> 04:01 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1055186046/census-bureau-leadership-racial-diversity-staff-senior-executive-service-ses">The federal agency that measures racial diversity is led mostly by white people</a> NPR: While the Census Bureau's set to have its first director who's Latinx, an NPR analysis finds people of color are underrepresented in the top rank of civil servants at the country's main data producer. 
- <p class="updated_time"> 04:00 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/business/birth-control-pill-over-counter.html">Firms Push for Over-the-Counter Access to Birth-Control Pills</a> NYT: Two drug makers have been mired for years in the pre-application phase of getting F.D.A. approval for over-the-counter use. 
  <p class="updated_time"> 12:24 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/trump-jr-text-mark-meadows-january-6/index.html">Donald Trump Jr. said his father needed to 'condemn' Capitol violence as it unfolded, Meadows texts reveal</a> CNN: Donald Trump Jr. said in a series of text messages to then-White House chief of staff Mark Meadows that his father needed to "condemn" the US Capitol insurrection as it unfolded. 
  <p class="updated_time"> 12:12 AM CT, Dec. 14 </p> 
@@ -326,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/12/1063539443/nyc-granted-noncitizens-the-right-to-vote-in-local-elections-the-idea-isnt-so-ne">NYC granted noncitizens the right to vote in local elections. The idea isn't so new</a> NPR: Following New York City's move to allow noncitizens to vote in local elections, NPR's Adrian Florido speaks with professor Hiroshi Motomura about the history of immigrant voting rights in the U.S. 
  <p class="updated_time"> 03:48 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/teachers-union-becky-pringle.html">New Leader Pushes Teachers’ Union to Take On Social Justice Role</a> NYT: Becky Pringle, the country’s top Black labor leader, has plunged the National Education Association into the reckoning unfolding in public schools. 
- <p class="updated_time"> 02:41 PM CT, Dec. 12 </p> 
- <a href="https://www.npr.org/2021/12/12/1063521670/chris-wallace-announces-abrupt-departure-from-fox-news-to-join-cnn-streaming-ser">Chris Wallace announces abrupt departure from Fox News to join CNN streaming service</a> NPR: The respected journalist, who kept the news of his exit secret from colleagues, will head to CNN's new streaming service. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
  <p class="updated_time"> 11:37 AM CT, Dec. 12 </p> 
@@ -340,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/us/politics/g7-russia-ukraine.html">Diplomats Warn Russia of ‘Massive Consequences’ if It Invades Ukraine</a> NYT: The foreign ministers for the Group of 7 urged Russia to pull back from the tense border standoff. Moscow has massed as many as 100,000 troops on Ukraine’s eastern, northern and southern frontiers. 
  <p class="updated_time"> 09:57 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/biden-democrats-2024.html">Democrats Back Biden, But No Consensus About Plan B for 2024</a> NYT: Leaders with White House aspirations all say they’ll support the president for another term. But there is no shortage of chatter about the options if he continues to falter. 
- <p class="updated_time"> 08:49 AM CT, Dec. 12 </p> 
- <a href="https://www.npr.org/2021/12/12/1063483626/democrats-need-a-boost-could-they-find-it-in-rural-america">Democrats need a boost. Could they find it in rural America?</a> NPR: Don Gonyea speaks with former Montana Governor Steve Bullock about the state of the Democratic party ahead of the 2022 midterm elections. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/child-tax-credit-lowest-income-parents/index.html">Getting child tax credit to lowest-income parents proves challenging</a> CNN: When President Joe Biden and congressional Democrats temporarily expanded the child tax credit this spring, they repeatedly touted that it would help cut child poverty nearly in half. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
