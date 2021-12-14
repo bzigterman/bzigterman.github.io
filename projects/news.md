@@ -198,12 +198,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/rural-america-biden-investments-524170">Biden’s rural investments run up against the culture wars in Wisconsin</a> Politico: Even as President Joe Biden’s agenda has promised billions to rural communities this year, Democrats are in danger of losing their last foothold in rural Wisconsin. 
  <p class="updated_time"> 04:30 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/business/birth-control-pill-over-counter.html">Firms Push for Over-the-Counter Access to Birth-Control Pills</a> NYT: Two drugmakers have been mired for years in the pre-application phase of getting F.D.A. approval for over-the-counter use. 
  <p class="updated_time"> 04:10 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064018682/meadows-held-in-contempt-jan-6-panel-sends-a-criminal-referral-to-the-house">Meadows held in contempt, Jan. 6 panel sends a criminal referral to the House</a> NPR: A House panel investigating the Jan. 6 attack on the U.S. Capitol has voted to hold former Trump White House Chief of Staff Mark Meadows in contempt, revealing new details in his text messages. 
  <p class="updated_time"> 04:10 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064011237/fossil-fuel-subsidies-are-proving-harder-to-end-than-first-thought">Fossil fuel subsidies are proving harder to end than first thought</a> NPR: President Biden campaigned on ending oil and gas industry subsidies. But getting rid of them requires passing legislation. A bill eliminating the overseas drilling subsidy is stalled in Congress. 
+ <p class="updated_time"> 04:10 AM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/14/1064011209/morning-news-brief">News brief: Mark Meadows, tornadoes' aftermath, gymnastics abuse settlement</a> NPR: House panel votes to hold Mark Meadows in contempt. Searches continue for the missing after Kentucky's tornadoes. Abuse survivors reach a settlement with USA Gymnastics and Olympic committee. 
  <p class="updated_time"> 04:01 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1063766485/their-lives-were-changed-by-gun-violence-and-now-theyre-running-for-office">Their lives were changed by gun violence, and now they're running for office</a> NPR: One of the country's top gun control groups is now actively recruiting candidates who have experienced the effects of gun violence to run for local, state and national offices. 
  <p class="updated_time"> 04:01 AM CT, Dec. 14 </p> 
@@ -305,8 +309,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/jeffries-mccarthy-house-election-524100">‘Who is he?’ The X-factor relationship that could soon rule the House</a> Politico: Hakeem Jeffries and Kevin McCarthy may well lead their parties in the lower chamber come 2023. But their relationship is a black box. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/political-maps-redistricting-state-supreme-courts-524150">The judges drawing America's political maps</a> Politico: State supreme courts are increasingly being charged with drawing new map lines in gridlocked states and policing partisan gerrymandering. 
- <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/schumer-pressure-holiday-delivery-524093">Old St. Chuck? Schumer under pressure to deliver by Christmas</a> Politico: The Senate Democratic leader wants to wrap up the $1.7 trillion social spending bill for the holiday — which may well prove impossible. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/dems-child-tax-credit-expire-social-bill-524084">As Dems sprint against the clock, child tax credit might slip away</a> Politico: “It’s as important a thing as there is” in the party's social spending bill, as one senator put it. And it's expiring any day now. 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/12/meadows-jan-6-national-guard-trump-524133">Meadows Jan. 5 email indicated Guard on standby to ‘protect pro Trump people,’ investigators say</a> Politico: The context for the message is unclear, but it comes amid scrutiny of the Guard’s slow response to the Jan. 6 violence at the Capitol. 
  <p class="updated_time"> 05:39 PM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/kamala-harris-negative-headlines-media-coverage/index.html">Harris calls out 'ridiculous' press coverage of Paris trip but avoids questions on staff exits</a> CNN: Vice President Kamala Harris blasted press coverage of a personal shopping trip she took during an official visit to France last month as "ridiculous" but avoided questions about recent high-profile staff departures from her office, the San Francisco Chronicle reported Sunday. 
- <p class="updated_time"> 04:04 PM CT, Dec. 12 </p> 
- <a href="https://www.npr.org/2021/12/12/1063539443/nyc-granted-noncitizens-the-right-to-vote-in-local-elections-the-idea-isnt-so-ne">NYC granted noncitizens the right to vote in local elections. The idea isn't so new</a> NPR: Following New York City's move to allow noncitizens to vote in local elections, NPR's Adrian Florido speaks with professor Hiroshi Motomura about the history of immigrant voting rights in the U.S. 
  <p class="updated_time"> 03:48 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/teachers-union-becky-pringle.html">New Leader Pushes Teachers’ Union to Take On Social Justice Role</a> NYT: Becky Pringle, the country’s top Black labor leader, has plunged the National Education Association into the reckoning unfolding in public schools. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
