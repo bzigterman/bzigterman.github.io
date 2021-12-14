@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:17 PM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/qanon-follower-sentence-pelosi-death-threats-524209">QAnon follower gets 28-month sentence for death threats to Pelosi</a> Politico: Judge says continuing election-fraud rhetoric from Republican politicians makes defendant an ongoing threat. 
  <p class="updated_time"> 01:48 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/fdic-chair-democrats-524212">Trump-appointed FDIC chair blocks Democratic bid to undercut her</a> Politico: A disagreement over who controls the FDIC’s agenda flared after the Democrats who make up the majority of the board voted to solicit public feedback on potential changes to the agency’s bank merger approval process. 
  <p class="updated_time"> 01:16 PM CT, Dec. 14 </p> 
