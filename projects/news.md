@@ -7,8 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:52 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/middleeast/tunisia-saied-constitution-election.html">Tunisia’s President Promises Vote on Constitution and Sets Election Date</a> NYT: President Kais Saied’s announcement dispelled some of the uncertainty Tunisians have endured for months since he shunted aside Parliament in what critics called a soft coup. 
+ <p class="updated_time"> 06:42 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59646803?at_medium=RSS&at_campaign=KARANGA">Apology to US teachers over 'dash for cash' charity stunt</a> BBC: The US bank that donated the cash said they will give more after the "degrading and insulting" event. 
+ <p class="updated_time"> 06:37 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/arts/music/vicente-fernandez-influence.html">Vicente Fernández, the King of Machos and Heartbreak</a> NYT: The singer’s brand of machismo may have frayed, but for many, he was the ideal of what it means to be hard-working, hard-loving Mexican man. 
+ <p class="updated_time"> 06:29 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59602955?at_medium=RSS&at_campaign=KARANGA">Canada offers up to $40bn to compensate indigenous children</a> BBC: It comes after a lengthy legal battle over the abuse of native children held in government care. 
+ <p class="updated_time"> 06:06 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59645557?at_medium=RSS&at_campaign=KARANGA">Tom Holland: 'There are kids who look up to Spider-Man'</a> BBC: Spider-Man: No Way Home is Tom Holland's third solo film and his sixth as part of the Avengers. 
+ <p class="updated_time"> 06:05 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59645657?at_medium=RSS&at_campaign=KARANGA">Hong Kong elections: How China reshaped the city</a> BBC: The city's Legco polls look different this year thanks to new electoral and national security laws. 
+ <p class="updated_time"> 05:57 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/europe/boris-johnson-uk-coronavirus.html">Boris Johnson Is in Trouble. The Question Is, How Much?</a> NYT: The British prime minister is facing a new virus variant, a rebellious Conservative Party, collapsing poll ratings and questions about whether he or his staff flouted the lockdown rules. 
  <p class="updated_time"> 05:37 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-59645658?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the Lewis Hamilton and Max Verstappen F1 title drama</a> BBC: Max Verstappen was crowned F1 world champion, after winning the Abu Dhabi Grand Prix. 
+ <p class="updated_time"> 05:34 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59641784?at_medium=RSS&at_campaign=KARANGA">Amazon criticised over safety at tornado-hit warehouse</a> BBC: The firm said events happened quickly at the Illinois site and it was "deeply saddened" by the deaths. 
  <p class="updated_time"> 05:32 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Two detained after UK boat's fatal collision off Sweden</a> BBC: One person is dead and one missing after a Danish ship collides with a UK vessel in the Baltic Sea. 
  <p class="updated_time"> 04:25 PM CT, Dec. 13 </p> 
@@ -21,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59646231?at_medium=RSS&at_campaign=KARANGA">How much does the diplomatic boycott of Beijing 2022 matter?</a> BBC: The Winter Olympics have been hit by a flurry of protests from governments in the West. 
  <p class="updated_time"> 04:10 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063824393/the-legacy-of-vicente-fernandez-king-of-ranchera-music-who-died-on-sunday">The legacy of Vicente Fernandez, king of ranchera music, who died on Sunday</a> NPR: The King of ranchera music, Vicente Fernandez, died Sunday. He leaves tens of millions of devoted fans throughout the Latino world. 
- <p class="updated_time"> 03:58 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: A baby is among 74 now confirmed dead, with more than 100 still missing, Governor Andy Beshear said. 
  <p class="updated_time"> 03:51 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/americas/un-climate-change-russia.html">Russia Blocks U.N. Move to Treat Climate as Security Threat</a> NYT: The Russian veto of a widely supported Security Council resolution pointed to the difficulty of achieving a unified response to global warming. 
  <p class="updated_time"> 03:28 PM CT, Dec. 13 </p> 
@@ -33,22 +47,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/covid-anxiety-depression-omicron.html">Across the World, Covid Anxiety and Depression Take Hold</a> NYT: It is still unclear how much of a threat the fast-spreading Omicron variant poses, but fear and a sudden revival of restrictions have added to an epidemic of loneliness. 
  <p class="updated_time"> 02:36 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/50-million-covid-cases.html">At Least 50 Million Total Coronavirus Cases Have Been Found in the U.S.</a> NYT: It is almost certainly a substantial undercount, since many infected people have no symptoms or mistake them for those of another illness, and not everyone gets tested. 
- <p class="updated_time"> 02:32 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59632657?at_medium=RSS&at_campaign=KARANGA">Canada apologises for 'scourge' of military sexual misconduct</a> BBC: Eleven of Canada's top brass have been removed from their posts in connection with sexual misconduct. 
  <p class="updated_time"> 02:26 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/switzerland-money-laundering-case-juan-carlos.html">Swiss Prosecutors Drop Money-Laundering Case Against Juan Carlos</a> NYT: A criminal inquiry into allegations that Spain’s former king laundered illegal commission payments from Saudi Arabia related to a high-speed rail deal was closed because of insufficient evidence. 
- <p class="updated_time"> 02:17 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/boris-johnson-uk-coronavirus.html">Boris Johnson Is in Trouble. The Question Is, How Much?</a> NYT: The British prime minister is facing a new virus variant, a rebellious Conservative Party, collapsing poll ratings and questions about whether he or his staff flouted the lockdown rules. 
  <p class="updated_time"> 02:13 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Prime Minister Naftali Bennett and Prince Mohammed bin Zayed of the United Arab Emirates met for four hours on the first official visit by an Israeli leader to the Gulf state. 
  <p class="updated_time"> 02:05 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
  <p class="updated_time"> 01:57 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/denmark-immigration-minister-migrants-prison.html">Former Immigration Minister in Denmark Sentenced to Prison for Separating Couples</a> NYT: Inger Stojberg was sentenced to two months’ incarceration after being found by a court to have illegally ordered the separations of married migrant couples in which at least one person was underage. 
- <p class="updated_time"> 01:33 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/arts/music/vicente-fernandez-influence.html">Vicente Fernández, the King of Machos and Heartbreak</a> NYT: The singer’s brand of machismo may have frayed, but for many, he was the ideal of what it means to be hard-working, hard-loving Mexican man. 
- <p class="updated_time"> 01:27 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59645081?at_medium=RSS&at_campaign=KARANGA">Koffi Olomidé cleared of rape but convicted of holding dancers</a> BBC: A French court clears Koffi Olomidé of rape but convicts him of holding four dancers against their will. 
  <p class="updated_time"> 01:05 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59642262?at_medium=RSS&at_campaign=KARANGA">Kim Kardashian passes California 'baby bar' law exam</a> BBC: The reality TV star and businesswoman says "don't ever give up" after passing on her fourth attempt. 
  <p class="updated_time"> 01:01 PM CT, Dec. 13 </p> 
@@ -141,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 06:02 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59620096?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: 'I woke up 50 metres from the truck'</a> BBC: A survivor of a crash that killed 54 speaks to the BBC about the people who did not survive. 
- <p class="updated_time"> 04:55 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59623946?at_medium=RSS&at_campaign=KARANGA">Aerials show aftermath of deadly Kentucky tornadoes</a> BBC: More than 70 people died in Kentucky in Friday night's storms, including dozens in a candle factory. 
  <p class="updated_time"> 04:29 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
  <p class="updated_time"> 03:10 PM CT, Dec. 11 </p> 
@@ -151,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/11/world/europe/rome-christmas-tree.html">Less Mange, More Frills: Rome’s New Mayor Bets on His Christmas Tree</a> NYT: The annual Christmas tree in the Italian capital has come under scrutiny ever since a 2017 debacle. Will this year’s pass social media muster? 
  <p class="updated_time"> 12:12 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/europe/eric-zemmour-rally-france.html">Echoes of Trump at Zemmour’s Rally in France </a> NYT: Éric Zemmour, the polarizing far-right polemicist, launched his presidential campaign last week with a frenzied rally that was disrupted by a violent brawl. 
- <p class="updated_time"> 11:15 AM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/59623945?at_medium=RSS&at_campaign=KARANGA">Kentucky weatherman films tornado 'ground zero'</a> BBC: Meteorologist Noah Bergren shows the BBC the "utter devastation" of the tornadoes in the town of Mayfield. 
  <p class="updated_time"> 08:49 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/mexico-truck-crash.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
  <p class="updated_time"> 08:42 AM CT, Dec. 11 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
- <p class="updated_time"> 07:55 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/australia/rain-soaked-rural-australia-asks-when-will-it-end.html">Rain-Soaked Rural Australia Asks: When Will It End?</a> NYT: After years of climate extremes, even the toughest, most community-minded Australians are desperate for a break from the deluge of disaster. 
 
 
 </details>
@@ -206,6 +206,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:50 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html">January 6 committee to vote Monday on holding Meadows in contempt of Congress</a> CNN: The House select committee investigating the January 6 riot at the US Capitol is prepared to vote Monday on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal contempt of Congress charges. 
+ <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/trump-subpoena-financial-records.html">Lawyers Clash Again Over Subpoena for Trump’s Financial Records</a> NYT: The long-running case dates back to an early 2019 House Oversight Committee demand to see years of the then-president’s financial data. 
+ <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Strike, Pentagon Chief Decides</a> NYT: The military initially defended the strike, which killed 10 civilians including seven children, but ultimately called it a tragic mistake. 
+ <p class="updated_time"> 05:59 PM CT, Dec. 13 </p> 
+ <a href="https://www.npr.org/2021/12/13/1063767973/saule-omarova-gets-candid-banks-sank-her-nomination-to-head-occ">Saule Omarova gets candid: Banks sank her nomination to become a key regulator</a> NPR: Days after withdrawing her nomination to become a key banking regulator, Omarova blames banks for distorting her research and creating an ugly environment. 
+ <p class="updated_time"> 05:54 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/biden-manchin-build-back-better/index.html">Biden and Manchin spoke last week as he tries to secure senator's vote on Build Back Better bill</a> CNN: President Joe Biden spoke with Sen. Joe Manchin late last week, according to a source familiar with the conversation, as the President works to secure the West Virginia Democrat's vote for his expansive economic and climate bill he wants passed by the end of the year.  
  <p class="updated_time"> 05:49 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/manchin-social-policy-bill.html">Manchin Casts Doubt on Quick Vote on Biden’s Social Policy Bill</a> NYT: The West Virginia Democrat said he still harbored serious concerns about the $2.2 trillion measure, potentially frustrating his party’s push to win Senate approval before Christmas. 
  <p class="updated_time"> 05:48 PM CT, Dec. 13 </p> 
@@ -226,18 +236,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/no-troops-punished-kabul-strike/index.html">Pentagon decides no US troops will be punished over botched Kabul drone strike that killed 10 civilians</a> CNN: Defense Secretary Lloyd Austin has decided that no US military personnel will be punished over the August drone strike in Kabul that killed 10 civilians, including seven children. 
  <p class="updated_time"> 04:56 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/joe-manchin-congress-social-safety-net-bill/index.html">Manchin signals major changes needed to win his support on Biden's safety net plan</a> CNN: Sen. Joe Manchin, the most pivotal swing vote in the Senate, indicated on Monday that a significant amount of work remains to be done to earn his support for President Joe Biden's sweeping social safety net expansion, potentially delivering a fatal blow to Democratic leaders' hopes of getting the bill passed in the Senate before Christmas. 
- <p class="updated_time"> 04:54 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Strike, Pentagon Chief Decides</a> NYT: The military initially defended the strike, which killed 10 civilians including seven children, but ultimately called it a tragic mistake. 
  <p class="updated_time"> 04:45 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/us-warning-software-vulnerability/index.html">US warns hundreds of millions of devices at risk from newly revealed software vulnerability</a> CNN: Hundreds of millions of devices around the world could be exposed to a newly revealed software vulnerability, as a senior Biden administration cyber official warned executives from major US industries Monday that they need to take action to address "one of the most serious" flaws she has seen in her career. 
  <p class="updated_time"> 04:35 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/afghanistan-drone-strike-troops-524162">No troops disciplined in U.S. strike killing Afghan civilians</a> Politico: A review found there were breakdowns in communication and in the process of identifying and confirming the target of the bombing, which killed 10 civilians. 
- <p class="updated_time"> 04:26 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/ransomware-attack-virginia-legislature/index.html">Ransomware attack hits Virginia Legislature </a> CNN: A ransomware attack has hit the Virginia state Legislature's IT branch and state agencies are helping with the recovery, a spokesperson for Gov. Ralph Northam said Monday. 
  <p class="updated_time"> 04:25 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/chauvin-expected-plead-floyd-civil-rights-case-524161">Chauvin expected to plead guilty in Floyd civil rights case</a> Politico: A federal docket entry shows a hearing has been scheduled for former Minneapolis Police Officer Derek Chauvin to change his current not guilty plea in the case. 
- <p class="updated_time"> 04:21 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html">January 6 committee to vote Monday on holding Meadows in contempt of Congress</a> CNN: The House select committee investigating the January 6 riot at the US Capitol is prepared to vote Monday on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal contempt of Congress charges. 
  <p class="updated_time"> 03:28 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063824307/cop26-president-alok-sharma-on-the-road-ahead-after-glasgow">COP26 president Alok Sharma on the road ahead after Glasgow</a> NPR: NPR's Ari Shapiro speaks with COP26 president Alok Sharma about promises and agreements made at the recent climate summit in Glasgow and what more needs to be done. 
  <p class="updated_time"> 03:27 PM CT, Dec. 13 </p> 
@@ -253,23 +257,21 @@ permalink: /projects/news/
  <p class="updated_time"> 01:48 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/manchin-fiscal-concerns-524158">Manchin raises red flags over Dems' agenda ahead of Biden talk</a> Politico: “Everyone has to choose basically what we can sustain,” the Democratic senator said Monday. 
+ <a href="https://www.politico.com/news/2021/12/13/manchin-fiscal-concerns-524158">Manchin keeps Dems guessing on their megabill</a> Politico: The Democratic senator still isn't committing to back President Joe Biden's social safety net legislation, citing fears about inflation and debt. 
  <p class="updated_time"> 01:28 PM CT, Dec. 13 </p> 
- <a href="https://www.npr.org/2021/12/13/1063652510/mark-meadows-contempt-vote-jan-6-committee-house">Ahead of panel vote, Meadows' attorney says contempt referral runs contrary to law</a> NPR: The former Trump White House chief of staff said through his attorney that the effort to refer him for contempt was unwise, unfair and contrary to law. The panel will vote on that referral on Monday. 
+ <a href="https://www.npr.org/2021/12/13/1063652510/mark-meadows-contempt-vote-jan-6-committee-house">Jan. 6 panel votes to hold Meadows in contempt, sending a criminal referral to House</a> NPR: The former Trump White House chief of staff has said through his attorney that the effort to refer him for contempt of Congress was unwise, unfair and contrary to law. 
  <p class="updated_time"> 12:53 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/biden-kentucky-deadly-tornados-524155">Biden to survey Kentucky tornado damage Wednesday</a> Politico: A severe storm across several states has left dozens dead and tens of thousands without power. 
  <p class="updated_time"> 12:43 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/dr-oz-show-end-2022-524157">'Dr. Oz Show' will end in 2022 amid host's Senate bid</a> Politico: The long-running daytime TV show will end in its 13th season as Mehmet Oz makes a run for the U.S. Senate. 
+ <p class="updated_time"> 12:38 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/democrats-ukraine-budget-letter/index.html">Democrats say Biden's 'hands partly tied' on Ukraine assistance by budget gridlock </a> CNN: Democratic lawmakers say President Joe Biden's "hands are partly tied" when it comes to sending new military equipment to Ukraine to fend off a potential Russian invasion because Congress has still not passed a budget for 2022 that would unlock "vital additional assistance" to the country. 
  <p class="updated_time"> 12:35 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-kentucky-visit-tornado-damage/index.html">Biden to travel to Kentucky to survey storm damage on Wednesday</a> CNN: President Joe Biden on Monday announced he will travel to Kentucky later on this week to survey damage from tornadoes and severe storms. 
- <p class="updated_time"> 11:52 AM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/democratic-governors-2022-messaging/index.html">Democratic governors worry about threat to democracy but don't see it as a winning message for 2022 </a> CNN: Democratic governors are facing a messaging conundrum: they say American democracy may hinge on their elections in 2022, but they're not sure they can get most voters to care. 
  <p class="updated_time"> 09:56 AM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/december-child-tax-credit-payment/index.html">December's child tax credit payment will be the last one unless Congress acts</a> CNN: Parents are set to get their last monthly infusion of the expanded child tax credit starting Wednesday -- unless Congress acts to extend it for another year. 
  <p class="updated_time"> 08:38 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063654263/congress-considers-contempt-of-congress-charge-for-mark-meadows-in-relation-to-j">Congress considers contempt of Congress charge for Mark Meadows in relation to Jan. 6</a> NPR: The congressional committee investigating the Jan. 6 attack on the U.S. Capitol will vote to recommend a contempt of Congress charge against former White House Chief of Staff Mark Meadows. 
- <p class="updated_time"> 08:31 AM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/biden-manchin-build-back-better/index.html">Biden and Manchin spoke last week as he tries to secure senator's vote on Build Back Better bill</a> CNN: President Joe Biden spoke with Sen. Joe Manchin late last week, according to a source familiar with the conversation, as the President works to secure the West Virginia Democrat's vote for his expansive economic and climate bill he wants passed by the end of the year.  
  <p class="updated_time"> 07:34 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/email-political-misinformation.html">Now in Your Inbox: Political Misinformation</a> NYT: One of the most powerful communication tools available to politicians teems with unfounded claims and largely escapes notice. 
  <p class="updated_time"> 07:06 AM CT, Dec. 13 </p> 
@@ -298,6 +300,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-tornadoes-climate-politics/index.html">Analysis: An existential threat runs into political realities of US democracy</a> CNN: The devastation from this weekend's tornadoes was a stark reminder of the future that awaits humans on this planet, when weird weather is increasingly unpredictable and severe. 
  <p class="updated_time"> 10:54 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/arts/television/sesame-street.html">‘Sesame Street’ Was Always Political</a> NYT: The beloved children’s show has been a recurrent culture-war target, but a documentary on HBO shows how social purpose was built into it. 
+ <p class="updated_time"> 08:57 PM CT, Dec. 12 </p> 
+ <a href="https://www.cnn.com/2021/12/12/politics/nancy-pelosi-house-democrats-leadership-2022/index.html">Pelosi will stay around to lead House Democrats through the next election -- and perhaps beyond</a> CNN: Speaker Nancy Pelosi will stay until at least after the midterm elections, extending her nearly 20-year run as the House's top Democrat after she turns 82 and, perhaps, beyond. 
  <p class="updated_time"> 08:24 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/mark-meadows-capitol-attack.html">Meadows Was Deeply Involved in Fighting Election Outcome, Jan. 6 Panel Says</a> NYT: The House committee laid out its case for a contempt of Congress charge against Mark Meadows, the chief of staff to former President Donald J. Trump. 
  <p class="updated_time"> 06:35 PM CT, Dec. 12 </p> 
@@ -320,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/12/de-blasio-vaccine-mandates-new-york-524126">De Blasio defends vaccine mandates, points to effectiveness in NYC</a> Politico: New York’s mayor said business owners in the city would prefer a mandate over shutdowns. 
  <p class="updated_time"> 10:09 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/g7-russia-ukraine.html">Diplomats Warn Russia of ‘Massive Consequences’ if It Invades Ukraine</a> NYT: The foreign ministers for the Group of 7 urged Russia to pull back from the tense border standoff. Moscow has massed as many as 100,000 troops on Ukraine’s eastern, northern and southern frontiers. 
- <p class="updated_time"> 10:02 AM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/voting-rights-what-matters/index.html">Analysis: Let the people vote. But which people?</a> CNN: While numerous US states are doing everything they can to make voting more difficult and shrink the number of people taking part in elections, New York City has gone the opposite direction and opened the polls to noncitizen legal immigrants. 
  <p class="updated_time"> 09:57 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/biden-democrats-2024.html">Democrats Back Biden, But No Consensus About Plan B for 2024</a> NYT: Leaders with White House aspirations all say they’ll support the president for another term. But there is no shortage of chatter about the options if he continues to falter. 
  <p class="updated_time"> 08:49 AM CT, Dec. 12 </p> 
@@ -342,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
  <p class="updated_time"> 06:12 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
- <p class="updated_time"> 04:45 PM CT, Dec. 11 </p> 
- <a href="https://www.cnn.com/2021/12/11/politics/russia-costs-of-invading-ukraine-us-state-department/index.html">'More and more convergence' with allies on costs to Russia if they invade Ukraine, says State Department official</a> CNN: Each day there has been "more and more convergence" between the US and European allies about the costs that would be inflicted on Russia if they invade Ukraine, a senior State Department official said in a briefing with reporters after Secretary of State Tony Blinken met with G7 allies. 
  <p class="updated_time"> 02:08 PM CT, Dec. 11 </p> 
  <a href="https://www.cnn.com/2021/12/11/politics/mark-meadows-documents-2020-election/index.html">Lawyer says Meadows received, but did nothing, with document that detailed ways to undermine the 2020 election, per New York Times</a> CNN: A lawyer for Mark Meadows says the former Trump White House chief of staff was the recipient of a PowerPoint document detailing ways to undermine the count of the 2020 election but did nothing with it, according to the New York Times. 
  <p class="updated_time"> 01:58 PM CT, Dec. 11 </p> 
@@ -372,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/us/politics/capitol-attack-meadows-powerpoint.html">PowerPoint Sent to Mark Meadows Is Examined by Jan. 6 Panel</a> NYT: Mark Meadows’s lawyer said the former White House chief of staff did not act on the document, which recommended that President Donald J. Trump declare a national emergency to keep himself in power. 
  <p class="updated_time"> 06:10 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/science/astronaut-wings-faa-bezos-musk.html">Jeff Bezos Is Getting Astronaut Wings. But Soon, the F.A.A. Won’t Award Them.</a> NYT: Starting in January, space tourists will not receive a participation trophy for flying to space. But everyone will be on the honor roll. 
- <p class="updated_time"> 04:45 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/david-perdue-georgia-election.html">Echoing Trump, David Perdue Sues Over Baseless Election Claims</a> NYT: The legal action by Mr. Perdue, a Republican candidate for governor of Georgia, was the latest sign that 2020 election falsehoods will be a main focus of his bid. 
  <p class="updated_time"> 02:36 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/jan-6-committee-issues-six-new-subpoenas-524095">New Jan. 6 subpoenas target Trump associates, rally planners</a> Politico: Congressional investigators are focused on who coordinated Jan. 6 rally with Trump. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
@@ -410,6 +408,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/09/senate-starts-debt-action-dole-honored-at-capitol-495406">Dems enjoy a moment of GOP cooperation</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/09/why-tongues-are-wagging-inside-the-house-gop-495402">POLITICO Playbook: Why tongues are wagging inside the House GOP</a> Politico: And Biden kicks off his Summit for Democracy. 
+ <p class="updated_time"> 05:02 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/fema-strategic-plan-climate/index.html">New FEMA plan puts climate crisis front and center after Trump administration erased it</a> CNN: President Joe Biden's Federal Emergency Management Agency is putting climate front and center in its new four-year strategic planning document, after the Trump administration erased all mention of climate from its previous plan. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
@@ -424,6 +424,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/white-house-new-infrastructure-brand/index.html">White House launches new branding for infrastructure law: 'Building a Better America'</a> CNN: The White House on Wednesday launched a new website and an accompanying brand to promote the bipartisan infrastructure law, a White House official told CNN.  
  <p class="updated_time"> 03:23 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
+ <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/biden-executive-order-net-zero-government-2050-climate/index.html">Biden will sign executive order setting 2050 net-zero emissions target for federal government</a> CNN: President Joe Biden will sign an executive order Wednesday directing the federal government to get to net-zero emissions by 2050, using the power of the federal purse to buy clean energy, purchase electric vehicles and make federal buildings more energy efficient. 
  <p class="updated_time"> 11:40 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/biden-putin-us-troops/index.html">Biden says US troops in Ukraine off the table but promises withering sanctions if Russia invades</a> CNN: President Joe Biden on Wednesday ruled out sending US troops to Ukraine to defend the country from a Russian invasion a day after laying out the consequences for such an incursion in a tense phone call with President Vladimir Putin. 
  <p class="updated_time"> 07:32 AM CT, Dec. 08 </p> 
