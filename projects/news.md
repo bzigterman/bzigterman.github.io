@@ -210,7 +210,9 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:38 PM CT, Dec. 14 </p> 
+ <p class="updated_time"> 05:45 PM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/trump-tax-returns-legal-524235">Judge scraps Trump lawsuit to shield tax returns from Congress</a> Politico: But the judge stayed the impact of his ruling for 14 days. 
+ <p class="updated_time"> 04:47 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/meadows-congress-justice-department-referral/index.html">House to vote to refer Mark Meadows to DOJ for contempt of Congress</a> CNN: The House is set to vote on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal charges for failing to appear for a deposition with the select committee investigating the January 6 attack. 
  <p class="updated_time"> 04:32 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megabill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
@@ -412,8 +414,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/10/trumps-terrible-thursday-followed-by-bidens-bad-friday-495415">POLITICO Playbook: Trump’s terrible Thursday, followed by Biden’s bad Friday?</a> Politico: And the U.S. clears a hurdle in its pursuit of the extradition of Julian Assange. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy’s proxy voting opposition could reshape the House</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
- <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/17-ways-covid-hit-fast-forward-on-the-future-523845">17 pandemic innovations that are here to stay</a> Politico: During the pandemic, necessity became a mother of invention. Here are some innovations that are like to stick. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen to lawmakers: Ignore the GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
  <p class="updated_time"> 06:41 PM CT, Dec. 09 </p> 
