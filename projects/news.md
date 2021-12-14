@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:32 AM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
  <p class="updated_time"> 04:16 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59649066?at_medium=RSS&at_campaign=KARANGA">Arctic heat record is like Mediterranean, says UN</a> BBC: The highest temperature recorded in the region last year - 38C (100F) - is officially confirmed. 
  <p class="updated_time"> 04:00 AM CT, Dec. 14 </p> 
@@ -26,7 +28,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:31 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-59646699?at_medium=RSS&at_campaign=KARANGA">Global supply chain: Toyota extends Japan production stoppages</a> BBC: The carmaker said components plants in South East Asia had faced disruptions due to the pandemic. 
  <p class="updated_time"> 10:00 PM CT, Dec. 13 </p> 
- <a href="https://www.wsj.com/articles/omicron-will-slow-oil-demand-recovery-but-not-destroy-it-iea-says-11639472417">Omicron Will Slow Oil Demand Recovery but Not Destroy It, IEA Says</a> WSJ: The new variant’s emergence will allow the supply of oil to overtake the rate at which the world is consuming it, easing the supply tightness of recent months, the International Energy Agency said Tuesday. 
+ <a href="https://www.wsj.com/articles/omicron-will-slow-oil-demand-recovery-but-not-destroy-it-iea-says-11639472417">Omicron Will Slow Oil Demand Recovery but Not Destroy It, IEA Says</a> WSJ: The new variant’s emergence will allow the supply of oil to overtake the rate at which the world is consuming it, easing the supply tightness of recent months, the International Energy Agency said. 
  <p class="updated_time"> 09:29 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/covid-anxiety-depression-omicron.html">Across the World, Covid Anxiety and Depression Take Hold</a> NYT: It is still unclear how much of a threat the fast-spreading Omicron variant poses, but fear and a sudden revival of restrictions have added to an epidemic of loneliness. 
  <p class="updated_time"> 09:17 PM CT, Dec. 13 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59612806?at_medium=RSS&at_campaign=KARANGA">Record numbers of young Guatemalans migrate north, leaving families in limbo</a> BBC: Chasing economic opportunity, record numbers of young Central Americans are braving the journey north. 
  <p class="updated_time"> 07:20 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-59522532?at_medium=RSS&at_campaign=KARANGA">Miami is banking on cryptocurrency and New York wants in</a> BBC: MiamiCoin and NYCCoin are experiments designed to put these cities on the cryptocurrency map. 
- <p class="updated_time"> 07:14 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/stories-59635134?at_medium=RSS&at_campaign=KARANGA">How to make electricity for your neighbours</a> BBC: Sick of waiting for electricity to reach his home, a Kenyan man built his own power plant 
  <p class="updated_time"> 06:48 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59634192?at_medium=RSS&at_campaign=KARANGA">Nagaland killings: Anger grows after Indian army’s botched ambush</a> BBC: Locals in Nagaland state demand punishment for troops who shot dead civilians, repeal of AFSPA law. 
  <p class="updated_time"> 06:42 PM CT, Dec. 13 </p> 
@@ -192,6 +192,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:18 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/14/what-the-left-doesnt-get-about-the-media-495453">POLITICO Playbook: What the left doesn’t get about the media</a> Politico: And the Jan. 6 committee releases some of Mark Meadows' text messages. 
+ <p class="updated_time"> 05:31 AM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/sections/money/2021/12/14/1063703904/the-best-and-worst-places-to-live-if-you-care-only-about-money">The Best And Worst Places To Live If You Care Only About Money</a> NPR: A new study looks at the finances of three million households over the course of a year. It finds significant differences in the standard of living across America. 
  <p class="updated_time"> 05:22 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/mark-meadows-contempt.html">Jan. 6 Committee Recommends Contempt Charge for Meadows</a> NYT: The panel sent a criminal contempt of Congress referral to the full House, as the extent of Mark Meadows’s role in President Donald J. Trump’s efforts to overturn the election became clearer. 
  <p class="updated_time"> 05:09 AM CT, Dec. 14 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/dems-child-tax-credit-expire-social-bill-524084">As Dems sprint against the clock, child tax credit might slip away</a> Politico: “It’s as important a thing as there is” in the party's social spending bill, as one senator put it. And it's expiring any day now. 
  <p class="updated_time"> 04:26 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1062794948/authoritarians-migrants-weapons-white-house-worries">Authoritarians are using migrants as weapons. The White House frets it's on the rise</a> NPR: The White House is concerned migrants will be increasingly used as a geopolitical tool as migration increases because of instability and climate change. 
- <p class="updated_time"> 04:03 AM CT, Dec. 13 </p> 
- <a href="https://www.npr.org/2021/12/13/1063593984/some-countries-which-identify-as-democracies-werent-invited-to-the-democracy-sum">Some countries which identify as democracies, weren't invited to the democracy summit</a> NPR: After President Biden's democracy summit, what does it mean when countries say they are a democracy? NPR's Steve Inskeep talks to Seema Shah, co-author of the Global State of Democracy report. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-roe-v-wade-precedent.html">With Roe at Risk, Justices Explore a New Way to Question Precedents</a> NYT: A new study traces a trend at the Supreme Court: looking to what the lawyers had argued in assessing whether to follow a precedent. 
  <p class="updated_time"> 10:54 PM CT, Dec. 12 </p> 
