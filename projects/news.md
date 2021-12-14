@@ -7,20 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:21 AM CT, Dec. 14 </p> 
+ <p class="updated_time"> 10:06 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/asia/blinken-indonesia-china.html">Blinken, in Indonesia, Stresses Soft Power to Counter China</a> NYT: The U.S. secretary of state seeks to make the case that the United States is a better bet as a partner than China, even if it’s not spending so lavishly in the region. 
+ <p class="updated_time"> 09:59 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Gasoline Truck in Haiti Explodes, Killing Dozens</a> NYT: Scores more were injured in the blast. It was the latest tragedy to hit the country, which has been rocked by political violence, natural disasters, poverty and hunger. 
+ <p class="updated_time"> 09:51 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/asia/duterte-philippines-senate.html">Philippines President Rodrigo Duterte Won't Run for Senate</a> NYT: The populist president also promised a peaceful transition of power when his term ends next year. 
  <p class="updated_time"> 09:05 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59649066?at_medium=RSS&at_campaign=KARANGA">Arctic heat record is like Mediterranean, says UN</a> BBC: The highest temperature recorded in the region last year - 38C (100F) - is officially confirmed. 
  <p class="updated_time"> 08:59 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59650802?at_medium=RSS&at_campaign=KARANGA">Haiti fuel tanker blast kills dozens in Cap-Haïtien</a> BBC: The victims had been gathering leaking fuel from a vehicle involved in an accident, reports say. 
  <p class="updated_time"> 08:54 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/omicron-south-africa-study.html">Omicron May Cause Fewer Hospitalizations Than Previous Variants, Early Study Shows</a> NYT: The findings, which also show that the new variant decreases the efficacy of the Pfizer vaccine, are based on only three weeks of data, and epidemiologists have cautioned that more data is needed. 
- <p class="updated_time"> 08:38 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/asia/duterte-philippines-senate.html">Rodrigo Duterte of the Philippines Won't Run for Senate</a> NYT: The populist president also promised a peaceful transition of power when his term ends next year. 
  <p class="updated_time"> 08:14 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
- <p class="updated_time"> 08:05 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/asia/blinken-indonesia-china.html">Blinken, in Indonesia, Stresses Soft Power to Counter China</a> NYT: The U.S. secretary of state seeks to make the case that the United States is a better bet as a partner than China, even if it’s not spending so lavishly in the region. 
  <p class="updated_time"> 07:17 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/belarus-opposition-sergei-tikhanovsky.html">Belarus Opposition Leader Is Sentenced to 18 Years in Prison</a> NYT: The activist Sergei Tikhanovsky planned to challenge the country’s authoritarian leader, Aleksandr G. Lukashenko, in a presidential election last year. But he was arrested before the vote. 
  <p class="updated_time"> 07:07 AM CT, Dec. 14 </p> 
@@ -196,11 +196,13 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:04 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Democrats Set Debt Limit Increase at $2.5 Trillion Ahead of Senate Vote</a> NYT: The figure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
  <p class="updated_time"> 10:01 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/joe-biden-news-journal-ad-targeting-524196">Want to influence Joe Biden? Run ads in a 100-year-old newspaper.</a> Politico: In the Biden era, the pages of The News Journal have become a way to reach a new audience of one. 
  <p class="updated_time"> 10:01 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/latino-voters-2020-election-524190">Report: Socialism attacks hurt Dems with Latino voters</a> Politico: The attacks resonated beyond Florida, according to a new post-mortem on the 2020 election. 
- <p class="updated_time"> 09:52 AM CT, Dec. 14 </p> 
+ <p class="updated_time"> 09:59 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/fact-check-meadows-trump-church-photo-op/index.html">Fact check: Several news outlets inaccurately reported key detail of Meadows story about Trump and protesters</a> CNN: Several news outlets inaccurately reported a key detail of a story told by former White House chief of staff Mark Meadows in the book he released last week, "The Chief's Chief." 
  <p class="updated_time"> 09:00 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/transportation-doe-team-up-electric-vehicles/index.html">Energy and Transportation departments team up to help states develop electric vehicle charging infrastructure</a> CNN: Two key federal agencies are joining forces to speed things along as billions in federal funding for a national network of electric vehicle charging stations goes out to states. 
@@ -372,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/11/soaring-inflation-wealth-racial-disparities-524111">Soaring inflation could hamper Biden’s effort to narrow wealth, racial disparities</a> Politico: Biden campaigned on addressing structural inequities. Rising prices could jeopardize that. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/business/congress-tech-regulation.html">Congress, Far From ‘a Series of Tubes,’ Is Still Nowhere Near Reining In Tech</a> NYT: Holding a hearing that humbles the most powerful business executives in the world is much easier than legislating. 
- <p class="updated_time"> 07:53 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/republicans-amarillo-potter-county-primary.html">Republicans in Texas County, in Unusual Move, Upend Primary System</a> NYT: The G.O.P. in Potter County is planning to break away from a nonpartisan election board and hold its own primary next year, in a move criticized by election experts. 
  <p class="updated_time"> 02:36 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/jan-6-committee-issues-six-new-subpoenas-524095">New Jan. 6 subpoenas target Trump associates, rally planners</a> Politico: Congressional investigators are focused on who coordinated Jan. 6 rally with Trump. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
