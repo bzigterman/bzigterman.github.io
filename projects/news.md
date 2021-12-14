@@ -7,8 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/health/omicron-travel-setbacks.html">How Conflicting Guidance on Travel During the Pandemic Shows Little Progress</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
+ <p class="updated_time"> 07:25 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59609233?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia allows free thinkers to talk to students</a> BBC: Young men and women meet leading philosophers in a country criticised for intolerance of dissent. 
+ <p class="updated_time"> 07:21 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59612806?at_medium=RSS&at_campaign=KARANGA">Record numbers of young Guatemalans migrate north, leaving families in limbo</a> BBC: Chasing economic opportunity, record numbers of young Central Americans are braving the journey north. 
+ <p class="updated_time"> 07:20 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59522532?at_medium=RSS&at_campaign=KARANGA">Miami is banking on cryptocurrency and New York wants in</a> BBC: MiamiCoin and NYCCoin are experiments designed to put these cities on the cryptocurrency map. 
+ <p class="updated_time"> 07:14 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-59635134?at_medium=RSS&at_campaign=KARANGA">How to make electricity for your neighbours</a> BBC: Sick of waiting for electricity to reach his home, a Kenyan man built his own power plant 
  <p class="updated_time"> 06:52 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/tunisia-saied-constitution-election.html">Tunisia’s President Promises Vote on Constitution and Sets Election Date</a> NYT: President Kais Saied’s announcement dispelled some of the uncertainty Tunisians have endured for months since he shunted aside Parliament in what critics called a soft coup. 
+ <p class="updated_time"> 06:48 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59634192?at_medium=RSS&at_campaign=KARANGA">Nagaland killings: Anger grows after Indian army’s botched ambush</a> BBC: Locals in Nagaland state demand government action after troops shot dead 14 civilians. 
  <p class="updated_time"> 06:42 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59646803?at_medium=RSS&at_campaign=KARANGA">Apology to US teachers over 'dash for cash' charity stunt</a> BBC: The US bank that donated the cash said they will give more after the "degrading and insulting" event. 
  <p class="updated_time"> 06:37 PM CT, Dec. 13 </p> 
@@ -61,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063510196/in-times-of-crisis-or-to-create-one-russias-putin-turns-to-his-military">In times of crisis — or to create one — Russia's Putin turns to his military</a> NPR: When Vladimir Putin assumed power in 1999, he immediately sent the Russian military into Chechnya. For more than 20 years, Putin has repeatedly looked to the military to strengthen his rule. 
  <p class="updated_time"> 12:17 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">In Response to Omicron, U.K. Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
- <p class="updated_time"> 11:33 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/health/omicron-travel-setbacks.html">How Conflicting Guidance on Travel During the Pandemic Shows Little Progress</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
  <p class="updated_time"> 11:31 AM CT, Dec. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-reports-first-omicron-death-as-government-warns-of-a-tidal-wave-of-cases-11639406945">U.K. Sees First Death of a Person With Omicron</a> WSJ: Prime Minister Boris Johnson said the death was a reminder of the risks the country faces as Britain races to offer its adult population a third Covid-19 vaccination dose by the end of the year. 
  <p class="updated_time"> 11:04 AM CT, Dec. 13 </p> 
@@ -75,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/health/merck-covid-pill-pregnancy-risk.html">Merck’s Covid Pill Might Pose Risks for Pregnant Women</a> NYT: Some laboratory studies suggest that molnupiravir can insert errors in DNA, which could in theory harm a developing fetus, sperm cells or children. 
  <p class="updated_time"> 09:02 AM CT, Dec. 13 </p> 
  <a href="https://www.wsj.com/articles/israeli-u-a-e-leaders-meet-amid-flurry-of-middle-east-diplomacy-11639413346">Fear of Iran, Shrinking U.S. Role in Middle East Push Rivals Together</a> WSJ: The first-ever official meeting Monday between Israel’s prime minister and the United Arab Emirates’ de facto leader were driven in part by Iran nuclear talks and worries over a shrinking U.S. regional role. 
- <p class="updated_time"> 08:44 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59636124?at_medium=RSS&at_campaign=KARANGA">Inger Stoejberg: Jail for Danish ex-minister for asylum separations</a> BBC: Inger Stoejberg faces 60 days in prison for separating young asylum-seeking couples in 2016. 
  <p class="updated_time"> 08:43 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59636123?at_medium=RSS&at_campaign=KARANGA">Russia explosion: Teen detonates device at Orthodox convent school</a> BBC: A number of people were injured after the blast at an Orthodox school near a nunnery outside Moscow. 
  <p class="updated_time"> 08:16 AM CT, Dec. 13 </p> 
@@ -112,19 +120,13 @@ permalink: /projects/news/
  <p class="updated_time"> 02:00 AM CT, Dec. 13 </p> 
  <a href="https://www.wsj.com/articles/after-two-decades-abuse-crisis-has-humbled-the-catholic-church-11639400404">After Two Decades, Abuse Crisis Has Humbled the Catholic Church</a> WSJ: The Catholic hierarchy has transformed its response to abuse scandals, which have left the church poorer and less influential. 
  <p class="updated_time"> 11:38 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59632356?at_medium=RSS&at_campaign=KARANGA">'It's the definition of hell on Earth'</a> BBC: Residents in the US state are sifting through the rubble that was once a town. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59632356?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Rebuilding lives from 'hell on Earth'</a> BBC: Residents in the US state are sifting through the rubble that was once a town. 
  <p class="updated_time"> 11:21 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/13/technology/instagram-handle-metaverse.html">Her Instagram Handle Was ‘Metaverse.’ Last Month, It Vanished.</a> NYT: Five days after Facebook changed its name to Meta, an Australian artist found herself blocked, with seemingly no recourse, from an account documenting nearly a decade of her life and work. 
- <p class="updated_time"> 08:13 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59632355?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Man returns to destroyed home</a> BBC: This survivor shows us what's left of his house - and what he was able to retrieve from the rubble. 
- <p class="updated_time"> 06:20 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59584125?at_medium=RSS&at_campaign=KARANGA">France resists US challenge to its values</a> BBC: The government is fighting back at what it sees as imported cultural ideas from the UK and US. 
  <p class="updated_time"> 06:01 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59614595?at_medium=RSS&at_campaign=KARANGA">The ultra-violent cult that became a global mafia</a> BBC: A BBC investigation into Black Axe has unearthed new evidence of political infiltration, and a scamming and killing operation spanning the globe. 
  <p class="updated_time"> 06:01 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59613217?at_medium=RSS&at_campaign=KARANGA">Howard University: Why these students slept out in tents on campus for weeks</a> BBC: After reports of mould and rodents in dorms, protesters at Howard University took over a campus building. 
- <p class="updated_time"> 05:41 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59612846?at_medium=RSS&at_campaign=KARANGA">Omicron: India aims to avoid 'pandemic roulette'</a> BBC: A virology institute boss says India will see a third wave "depending on how warmly we invite it". 
  <p class="updated_time"> 04:25 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59631837?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: 100-year-old church destroyed in seconds</a> BBC: The BBC's Nomia Iqbal shows us the ruins of the Mayfield First United Methodist Church in Kentucky. 
  <p class="updated_time"> 12:42 PM CT, Dec. 12 </p> 
@@ -135,18 +137,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/12/1063483633/thousands-of-russian-troops-have-massed-on-the-border-of-ukraine">Thousands of Russian troops have massed on the border of Ukraine</a> NPR: Don Gonyea speaks with Angela Stent of the Brookings Institution about how the crisis on the Ukraine-Russia border can be resolved. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1059976638/india-china-conflict-chinatown-chinese-indians">Tensions with China revive old fears for Indians of Chinese descent</a> NPR: In 1962, thousands of Indians of Chinese descent were sent to prison camps during a brief war with Beijing. Recent clashes on the India-China border have revived Chinese Indians' fears of persecution. 
- <p class="updated_time"> 06:35 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59578223?at_medium=RSS&at_campaign=KARANGA">The Nigerian woman whose life changed when she visited a leprosy colony</a> BBC: A Nigerian woman living in the US never imagined that leprosy still existed in her home country. 
- <p class="updated_time"> 06:31 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59506656?at_medium=RSS&at_campaign=KARANGA">The priests navigating Colombia's conflict zones</a> BBC: Catholic clergy are sometimes the only ones who can access areas where armed groups are active. 
- <p class="updated_time"> 06:18 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59608474?at_medium=RSS&at_campaign=KARANGA">Meth and heroin fuel Afghanistan drugs boom</a> BBC: With a collapsing economy and severe drought, Afghanistan’s drug trade is on the rise. 
- <p class="updated_time"> 06:13 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-59577949?at_medium=RSS&at_campaign=KARANGA">Your pictures on the theme of 'misty mornings'</a> BBC: A selection of striking images from our readers around the world. 
  <p class="updated_time"> 06:12 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
- <p class="updated_time"> 06:02 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59620096?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: 'I woke up 50 metres from the truck'</a> BBC: A survivor of a crash that killed 54 speaks to the BBC about the people who did not survive. 
  <p class="updated_time"> 04:29 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
  <p class="updated_time"> 03:10 PM CT, Dec. 11 </p> 
@@ -206,8 +198,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:50 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html">January 6 committee to vote Monday on holding Meadows in contempt of Congress</a> CNN: The House select committee investigating the January 6 riot at the US Capitol is prepared to vote Monday on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal contempt of Congress charges. 
+ <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/news/2021/12/13/hes-got-to-condemn-this-shit-panel-releases-urgent-jan-6-texts-from-trump-jr-lawmakers-524188">‘He’s got to condemn this …’: Panel releases urgent Jan. 6 texts from Donald Trump Jr., lawmakers and Fox hosts</a> Politico: House investigators held Mark Meadows in criminal contempt after releasing a trove of messages aimed at getting President Donald Trump to take stronger action amid the Capitol riot. 
+ <p class="updated_time"> 08:02 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html">January 6 panel unveils text messages to Meadows from Don Jr. and Fox hosts as contempt charge advances</a> CNN: The House select committee investigating the January 6 riot at the US Capitol is prepared to vote Monday on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal contempt of Congress charges. 
+ <p class="updated_time"> 07:56 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/mark-meadows-contempt.html">Jan. 6 Committee Recommends Contempt Charge for Mark Meadows</a> NYT: The panel sent a criminal contempt of Congress referral to the full House, as the extent of Mark Meadows’s role in President Donald J. Trump’s efforts to overturn the election became clearer. 
+ <p class="updated_time"> 07:17 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/us-warning-software-vulnerability/index.html">US warns hundreds of millions of devices at risk from newly revealed software vulnerability</a> CNN: Hundreds of millions of devices around the world could be exposed to a newly revealed software vulnerability, as a senior Biden administration cyber official warned executives from major US industries Monday that they need to take action to address "one of the most serious" flaws she has seen in her career. 
+ <p class="updated_time"> 07:03 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/fact-check-meadows-trump-church-photo-op/index.html">Fact check: Several news outlets inaccurately reported key detail of Meadows story about Trump and protesters</a> CNN: Several news outlets inaccurately reported a key detail of a story told by former White House chief of staff Mark Meadows in the book he released last week, "The Chief's Chief." 
+ <p class="updated_time"> 06:17 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/air-force-troops-discharged-covid-19-vaccine/index.html">Air Force discharges 27 troops for refusing Covid-19 vaccine</a> CNN: The Air Force has discharged 27 service members for refusing to get the Covid-19 vaccine, spokeswoman Ann Stefanek told CNN on Monday, making these likely the first troops to be removed from the military for failure to obey the vaccine mandate. 
  <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/trump-subpoena-financial-records.html">Lawyers Clash Again Over Subpoena for Trump’s Financial Records</a> NYT: The long-running case dates back to an early 2019 House Oversight Committee demand to see years of the then-president’s financial data. 
  <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
@@ -230,14 +232,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/william-walker-dc-national-guard-january-6-committee/index.html">Former DC National Guard commander meeting with January 6 committee</a> CNN: William Walker, who was the top commander for Washington, DC's National Guard and responsible for troop deployment in support of law enforcement overwhelmed on January 6, met Monday with the House select committee investigating the attack on the US Capitol, a source familiar with his appearance has confirmed to CNN. 
  <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/defense-claims-politics-fortenberry-indictment-524164">Defense claims politics behind indictment of Rep. Jeff Fortenberry</a> Politico: A federal judge in Los Angeles heard arguments on the Nebraska Republican’s bid to toss out the criminal false-statement case. 
- <p class="updated_time"> 05:02 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/fact-check-meadows-trump-church-photo-op/index.html">Fact check: Several news outlets inaccurately reported key detail of Meadows story about Trump and protesters</a> CNN: Several news outlets inaccurately reported a key detail of a story told by former White House chief of staff Mark Meadows in the book he released last week, "The Chief's Chief." 
  <p class="updated_time"> 04:57 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/no-troops-punished-kabul-strike/index.html">Pentagon decides no US troops will be punished over botched Kabul drone strike that killed 10 civilians</a> CNN: Defense Secretary Lloyd Austin has decided that no US military personnel will be punished over the August drone strike in Kabul that killed 10 civilians, including seven children. 
  <p class="updated_time"> 04:56 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/joe-manchin-congress-social-safety-net-bill/index.html">Manchin signals major changes needed to win his support on Biden's safety net plan</a> CNN: Sen. Joe Manchin, the most pivotal swing vote in the Senate, indicated on Monday that a significant amount of work remains to be done to earn his support for President Joe Biden's sweeping social safety net expansion, potentially delivering a fatal blow to Democratic leaders' hopes of getting the bill passed in the Senate before Christmas. 
- <p class="updated_time"> 04:45 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/us-warning-software-vulnerability/index.html">US warns hundreds of millions of devices at risk from newly revealed software vulnerability</a> CNN: Hundreds of millions of devices around the world could be exposed to a newly revealed software vulnerability, as a senior Biden administration cyber official warned executives from major US industries Monday that they need to take action to address "one of the most serious" flaws she has seen in her career. 
  <p class="updated_time"> 04:35 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/afghanistan-drone-strike-troops-524162">No troops disciplined in U.S. strike killing Afghan civilians</a> Politico: A review found there were breakdowns in communication and in the process of identifying and confirming the target of the bombing, which killed 10 civilians. 
  <p class="updated_time"> 04:25 PM CT, Dec. 13 </p> 
@@ -259,13 +257,11 @@ permalink: /projects/news/
  <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/manchin-fiscal-concerns-524158">Manchin keeps Dems guessing on their megabill</a> Politico: The Democratic senator still isn't committing to back President Joe Biden's social safety net legislation, citing fears about inflation and debt. 
  <p class="updated_time"> 01:28 PM CT, Dec. 13 </p> 
- <a href="https://www.npr.org/2021/12/13/1063652510/mark-meadows-contempt-vote-jan-6-committee-house">Jan. 6 panel votes to hold Meadows in contempt, sending a criminal referral to House</a> NPR: The former Trump White House chief of staff has said through his attorney that the effort to refer him for contempt of Congress was unwise, unfair and contrary to law. 
+ <a href="https://www.npr.org/2021/12/13/1063652510/mark-meadows-contempt-vote-jan-6-committee-house">Jan. 6 panel votes to hold Meadows in contempt, sending a criminal referral to House</a> NPR: Ahead of the vote, Republican Rep. Liz Cheney of Wyoming read a litany of text messages she said Mark Meadows received during the Jan. 6 siege, including from Donald Trump Jr. 
  <p class="updated_time"> 12:53 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/biden-kentucky-deadly-tornados-524155">Biden to survey Kentucky tornado damage Wednesday</a> Politico: A severe storm across several states has left dozens dead and tens of thousands without power. 
  <p class="updated_time"> 12:43 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/dr-oz-show-end-2022-524157">'Dr. Oz Show' will end in 2022 amid host's Senate bid</a> Politico: The long-running daytime TV show will end in its 13th season as Mehmet Oz makes a run for the U.S. Senate. 
- <p class="updated_time"> 12:38 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/democrats-ukraine-budget-letter/index.html">Democrats say Biden's 'hands partly tied' on Ukraine assistance by budget gridlock </a> CNN: Democratic lawmakers say President Joe Biden's "hands are partly tied" when it comes to sending new military equipment to Ukraine to fend off a potential Russian invasion because Congress has still not passed a budget for 2022 that would unlock "vital additional assistance" to the country. 
  <p class="updated_time"> 12:35 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-kentucky-visit-tornado-damage/index.html">Biden to travel to Kentucky to survey storm damage on Wednesday</a> CNN: President Joe Biden on Monday announced he will travel to Kentucky later on this week to survey damage from tornadoes and severe storms. 
  <p class="updated_time"> 09:56 AM CT, Dec. 13 </p> 
@@ -370,14 +366,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/us/politics/republicans-amarillo-potter-county-primary.html">Republicans in Texas County, in Unusual Move, Upend Primary System</a> NYT: The G.O.P. in Potter County is planning to break away from a nonpartisan election board and hold its own primary next year, in a move criticized by election experts. 
  <p class="updated_time"> 06:59 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/capitol-attack-meadows-powerpoint.html">PowerPoint Sent to Mark Meadows Is Examined by Jan. 6 Panel</a> NYT: Mark Meadows’s lawyer said the former White House chief of staff did not act on the document, which recommended that President Donald J. Trump declare a national emergency to keep himself in power. 
- <p class="updated_time"> 06:10 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/science/astronaut-wings-faa-bezos-musk.html">Jeff Bezos Is Getting Astronaut Wings. But Soon, the F.A.A. Won’t Award Them.</a> NYT: Starting in January, space tourists will not receive a participation trophy for flying to space. But everyone will be on the honor roll. 
  <p class="updated_time"> 02:36 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/jan-6-committee-issues-six-new-subpoenas-524095">New Jan. 6 subpoenas target Trump associates, rally planners</a> Politico: Congressional investigators are focused on who coordinated Jan. 6 rally with Trump. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
- <p class="updated_time"> 12:52 PM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/trump-lawyer-pence-biden-524088">Trump campaign lawyer authored 2 memos claiming Pence could halt Biden’s victory</a> Politico: In one previously unreported memo, Jenna Ellis delivered a technical — and far-fetched — legal argument to another of the former president's outside lawyers. 
  <p class="updated_time"> 10:28 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/supreme-court-allows-clinics-challenge-to-texas-abortion-ban-to-proceed-rebuffs-biden-admin-524083">SCOTUS allows clinics’ challenge to Texas abortion ban to proceed</a> Politico: The court's ruling allows for some cases brought by opponents of the law to proceed but closed major avenues for legal challenges, including one sought by the Biden administration. 
  <p class="updated_time"> 10:12 AM CT, Dec. 10 </p> 
@@ -446,8 +438,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/congress-russia-ukraine-523914">Congress frets over ‘missed opportunity’ on Russia’s Ukraine aggression</a> Politico: Differences over the annual defense bill emerged as President Joe Biden was meeting virtually with President Vladimir Putin of Russia. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting: Town halls with the VP that would focus on her areas of interest. 
- <p class="updated_time"> 12:08 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/mcconnell-gop-raise-debt-limit-523878">McConnell secures GOP support for new debt strategy</a> Politico: Senate leaders seem to have found a path forward to avoid a debt cliff without Republican votes. 
  <p class="updated_time"> 07:33 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/07/legislative-mix-and-match-combo-meal-495353">Legislative mix-and-match combo meal</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:21 AM CT, Dec. 07 </p> 
