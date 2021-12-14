@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:58 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/africa/omicron-south-africa-study.html">Omicron May Cause Fewer Hospitalizations Than Previous Variants, Early Study Shows</a> NYT: The findings, which also show that the new variant partly dodges the Pfizer-BioNTech vaccine, are based on only three weeks of data. Epidemiologists cautioned that the full picture is still emerging. 
  <p class="updated_time"> 12:49 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Gasoline Truck in Haiti Explodes, Killing More Than 60</a> NYT: Scores more were injured in the blast. It was the latest tragedy to hit the country, which has been rocked by political violence, natural disasters, poverty and hunger. 
  <p class="updated_time"> 12:44 PM CT, Dec. 14 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/business/economy/turkey-inflation-economy-lira.html">How Inflation Affects Turkey's Struggling Economy</a> NYT: Even before the pandemic, Turkey was trying to ward off financial meltdown. The crisis has accelerated as President Recep Tayyip Erdogan has doubled down on his unorthodox policies. 
  <p class="updated_time"> 11:52 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59657761?at_medium=RSS&at_campaign=KARANGA">Toronto police release video of 'suspect' in billionaires' 2017 murders</a> BBC: Barry and Honey Sherman were found dead at home four years ago, but police have made no arrests. 
- <p class="updated_time"> 11:26 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/africa/omicron-south-africa-study.html">Omicron May Cause Fewer Hospitalizations Than Previous Variants, Early Study Shows</a> NYT: The findings, which also show that the new variant decreases the efficacy of the Pfizer vaccine, are based on only three weeks of data, and epidemiologists have cautioned that more data is needed. 
  <p class="updated_time"> 11:18 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
  <p class="updated_time"> 11:04 AM CT, Dec. 14 </p> 
@@ -210,16 +210,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:35 PM CT, Dec. 14 </p> 
+ <p class="updated_time"> 01:01 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Senate Votes to Take Up $2.5 Trillion Debt Limit Increase</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
+ <p class="updated_time"> 12:57 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/business/toyota-electric-vehicles.html">Toyota Outlines Electric Vehicle Expansion Plan</a> NYT: The company’s Lexus brand will only sell electric cars by 2030 in China, Europe and the United States. 
+ <p class="updated_time"> 12:56 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/health/hospitals-vaccine-mandate.html">Big Hospital Chains Drop Vaccine Mandates for Health Workers</a> NYT: With the federal requirement in limbo because of legal challenges, some major multistate hospital systems have stopped enforcing their own policies. 
+ <p class="updated_time"> 12:54 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/capitol-pelosi-threat/index.html">Man who threatened to shoot Pelosi sentenced to more than two years in prison</a> CNN: A Georgia man who drove cross-country with an assault rifle and threatened to kill House Speaker Nancy Pelosi was sentenced to 28 months behind bars during in an emotional hearing on Tuesday. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
- <p class="updated_time"> 12:28 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/capitol-pelosi-threat/index.html">Man who threatened to shoot Pelosi sentenced to more than two years in prison</a> CNN: A Georgia man who drove cross-country with an assault rifle and threatened to kill House Speaker Nancy Pelosi was sentenced to 28 months behind bars during in an emotional hearing on Tuesday. 
  <p class="updated_time"> 12:25 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/trump-pence-comments-2020-certification/index.html">Trump says Pence is 'mortally wounded' inside the GOP for his role in certifying 2020 election results</a> CNN: As former Vice President Mike Pence weighs his future in politics -- laying the groundwork for a possible presidential campaign in 2024 and supporting Republican candidates who face reelection next fall -- former President Donald Trump said Pence is "mortally wounded" inside the GOP. 
- <p class="updated_time"> 12:10 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Senate Votes to Take Up $2.5 Trillion Debt Limit Increase</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
  <p class="updated_time"> 12:07 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/dc-proud-boys-oath-keepers-lawsuit/index.html">DC AG sues Proud Boys, Oath Keepers members to recoup costs related to January 6</a> CNN: More than two dozen members of the Proud Boys and Oath Keepers are being sued by District of Columbia Attorney General Karl Racine in an effort to recover the millions of dollars the city spent to defend the US Capitol during the January 6 attack. 
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
@@ -392,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/us/politics/newsom-texas-abortion-law-guns.html">Newsom Calls for Gun Legislation Modeled on the Texas Abortion Law</a> NYT: Gov. Gavin Newsom of California accused Texas of insulating its abortion law from the courts, and then called on lawmakers to use a similar strategy to go after the gun industry. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
- <p class="updated_time"> 01:58 PM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/11/us/politics/trust-in-elections-trump-democracy.html">In Bid for Control of Elections, Trump Loyalists Face Few Obstacles</a> NYT: A movement animated by Donald J. Trump’s 2020 election lies is turning its attention to 2022 and beyond. 
  <p class="updated_time"> 12:56 PM CT, Dec. 11 </p> 
  <a href="https://www.cnn.com/2021/12/11/politics/iran-nuclear-weapon-us-military-options/index.html">Biden administration has reviewed military options as part of effort to keep Iran from obtaining a nuclear weapon</a> CNN: The Biden administration has reviewed military options that could be part of an effort to prevent Iran from obtaining a nuclear weapon, if a multilateral deal between the United States, Iran and other nations on Tehran's nuclear program is not salvaged, according to administration officials. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
