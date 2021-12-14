@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:59 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/health/coronavirus-omicron-next-pandemic.html">Omicron Is a Dress Rehearsal for the Next Pandemic</a> NYT: America’s response to the variant highlights both how much progress we have made over the past two years — and how much work remains 
+ <p class="updated_time"> 01:58 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Cementing an alliance built on mutual fear of Iran, Prime Minister Naftali Bennett met Prince Mohammed bin Zayed of the United Arab Emirates on the first official visit by an Israeli leader to the Gulf state. 
  <p class="updated_time"> 11:02 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-nuclear-submarines.html">South Korea Has Long Wanted Nuclear Subs. A New Reactor Could Open a Door.</a> NYT: The country plans to build a small modular reactor for marine propulsion, raising questions of whether it eventually intends to develop a nuclear submarine despite a U.S. treaty. 
- <p class="updated_time"> 11:01 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Prime Minister Naftali Bennett and Prince Mohammed bin Zayed of the United Arab Emirates met for four hours on the first official visit by an Israeli leader to the Gulf state. 
  <p class="updated_time"> 10:31 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-59646699?at_medium=RSS&at_campaign=KARANGA">Global supply chain: Toyota extends Japan production stoppages</a> BBC: The carmaker said components plants in South East Asia had faced disruptions due to the pandemic. 
  <p class="updated_time"> 09:54 PM CT, Dec. 13 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/europe/vaccine-mandates-civil-liberties.html">Vaccine Mandates Rekindle Fierce Debate Over Civil Liberties</a> NYT: Tougher requirements in some European nations have inspired pushback from angry citizens as leaders grapple with how far to go in the name of public health. 
  <p class="updated_time"> 07:43 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/tour-de-france-crash.html">Tour de France Fan Is Fined for Causing Huge Crash in June</a> NYT: The fan’s cardboard sign, held up for television cameras with a message for her grandparents, sent dozens of cyclists tumbling to the ground. 
- <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
 
 
 </details>
