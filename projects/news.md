@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:49 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Gasoline Truck in Haiti Explodes, Killing More Than 60</a> NYT: Scores more were injured in the blast. It was the latest tragedy to hit the country, which has been rocked by political violence, natural disasters, poverty and hunger. 
+ <p class="updated_time"> 12:44 PM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59650800?at_medium=RSS&at_campaign=KARANGA">Trump's son urged father to intervene in 6 January Capitol riot</a> BBC: Donald Trump Jr urged his father's aides to get the ex-president to stop the mob, text messages show. 
+ <p class="updated_time"> 12:40 PM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59658661?at_medium=RSS&at_campaign=KARANGA">Phillip Adams: Ex-NFL player who shot six dead had CTE brain disease</a> BBC: US footballer Phillip Adams' brain showed evidence of damage linked to repeated head trauma. 
+ <p class="updated_time"> 12:37 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/europe/belarus-opposition-sergei-tikhanovsky.html">Belarus Opposition Leader Is Sentenced to 18 Years in Prison</a> NYT: The activist Sergei Tikhanovsky planned to challenge the country’s authoritarian leader, Aleksandr G. Lukashenko, in a presidential election last year. He was arrested before the vote and his wife had to step in. 
  <p class="updated_time"> 12:10 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
  <p class="updated_time"> 12:08 PM CT, Dec. 14 </p> 
@@ -29,14 +37,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59650802?at_medium=RSS&at_campaign=KARANGA">Haiti fuel tanker blast kills dozens in Cap-Haïtien</a> BBC: The victims had been gathering leaking fuel from a vehicle involved in an accident, reports say. 
  <p class="updated_time"> 10:18 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064081667/canada-pledges-40-billion-abuses-indigenous-children">Canada pledges $40 billion in talks over rampant abuses of Indigenous children</a> NPR: From 1831 to 1998, the government separated some 150,000 Indigenous children from their families and sent them to residential schools where they routinely faced physical and sexual abuse. 
- <p class="updated_time"> 10:13 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/europe/belarus-opposition-sergei-tikhanovsky.html">Belarus Opposition Leader Is Sentenced to 18 Years in Prison</a> NYT: The activist Sergei Tikhanovsky planned to challenge the country’s authoritarian leader, Aleksandr G. Lukashenko, in a presidential election last year. He was arrested before the vote and his wife had to step in. 
  <p class="updated_time"> 10:12 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064073682/a-gasoline-truck-explodes-in-haiti-killing-more-than-50-people">A gasoline truck explodes in Haiti, killing more than 50 people</a> NPR: The truck overturned and exploded in a fireball in the coastal city of Cap-Haitien, engulfing cars and homes in flames as it killed more than 50 people and injured dozens of others. 
  <p class="updated_time"> 10:06 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/asia/blinken-indonesia-china.html">Blinken, in Indonesia, Stresses Soft Power to Counter China</a> NYT: The U.S. secretary of state seeks to make the case that the United States is a better bet as a partner than China, even if it’s not spending so lavishly in the region. 
- <p class="updated_time"> 09:59 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Gasoline Truck in Haiti Explodes, Killing More Than 60</a> NYT: Scores more were injured in the blast. It was the latest tragedy to hit the country, which has been rocked by political violence, natural disasters, poverty and hunger. 
  <p class="updated_time"> 09:51 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/asia/duterte-philippines-senate.html">Philippines President Rodrigo Duterte Won't Run for Senate</a> NYT: The populist president also promised a peaceful transition of power when his term ends next year. 
  <p class="updated_time"> 09:05 AM CT, Dec. 14 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/health/coronavirus-omicron-next-pandemic.html">Omicron Is a Dress Rehearsal for the Next Pandemic</a> NYT: America’s response to the variant highlights both how much progress we have made over the past two years — and how much work remains. 
  <p class="updated_time"> 07:03 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59648442?at_medium=RSS&at_campaign=KARANGA">Hungary migrant deaths: Car crashes avoiding police</a> BBC: Hungarian police said the driver was arrested after his vehicle rammed into a flower shop. 
- <p class="updated_time"> 06:58 AM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59650800?at_medium=RSS&at_campaign=KARANGA">Trump's son urged father to intervene in 6 January Capitol riot</a> BBC: Donald Trump Jr urged his father's aides to get the ex-president to stop the mob, text messages show. 
  <p class="updated_time"> 06:55 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59649075?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Two-month-old girl is youngest victim</a> BBC: The parents of Oaklynn Charleigh Koon say their hearts are "shattered" over their daughter's death. 
  <p class="updated_time"> 06:53 AM CT, Dec. 14 </p> 
@@ -57,6 +59,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064018450/tensions-over-ukraine-come-as-relations-between-russia-and-nato-are-at-an-all-ti">Tensions over Ukraine come as relations between Russia and NATO are at an all-time low</a> NPR: Russian President Vladimir Putin once floated the prospect of his country joining NATO. 
  <p class="updated_time"> 06:23 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/gas-truck-blast-in-haiti-kills-some-40-in-latest-disaster-for-nation-11639490464">Haiti Gas-Truck Blast Kills at Least 60 People</a> WSJ: The explosion hit the hemisphere’s poorest nation, which is already contending with the recent assassination of its president, a devastating earthquake and the kidnapping of a group of mostly American missionaries. 
+ <p class="updated_time"> 06:21 AM CT, Dec. 14 </p> 
+ <a href="https://www.wsj.com/articles/famed-russian-rights-group-that-investigated-soviet-era-crimes-faces-closure-under-putin-11639502515">Famed Russian Rights Group That Investigated Soviet-Era Crimes Faces Closure Under Putin</a> WSJ: Government prosecutors are pushing for Memorial’s umbrella organization and its human-rights wing to be dissolved in what many people here view as one of the most shocking examples yet of how the Kremlin is squeezing space for dissent. 
  <p class="updated_time"> 04:23 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/first-big-omicron-study-finds-two-doses-of-pfizers-vaccine-cuts-hospitalization-risk-by-70-11639495432">Omicron Study Finds Two Doses of Pfizer Vaccine Cuts Hospitalization Risk</a> WSJ: The first large real-world study, by South Africa’s biggest private health insurer, found that two shots of the vaccine lowered the risk of hospital admission by 70% for patients infected with the highly mutated variant. 
  <p class="updated_time"> 04:00 AM CT, Dec. 14 </p> 
@@ -69,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59647425?at_medium=RSS&at_campaign=KARANGA">Srinagar: Three dead, 11 injured in militant attack on police bus</a> BBC: Three militants fired at a bus carrying policemen in capital Srinagar on Monday, officials said. 
  <p class="updated_time"> 01:58 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Cementing an alliance built on mutual fear of Iran, Prime Minister Naftali Bennett met Prince Mohammed bin Zayed of the United Arab Emirates on the first official visit by an Israeli leader to the Gulf state. 
- <p class="updated_time"> 12:34 AM CT, Dec. 14 </p> 
- <a href="https://www.wsj.com/articles/companies-are-hesitant-to-invest-even-if-demand-is-soaring-11639481681">Why Companies Are Hesitant to Invest, Even if Demand Is Soaring</a> WSJ: Investment spending in the world’s largest economies has stalled, as supply-chain disruptions and uncertainty over the durability of the current economic boom hold back spending, a trend that could further exacerbate already high inflation. 
  <p class="updated_time"> 11:02 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-nuclear-submarines.html">South Korea Has Long Wanted Nuclear Subs. A New Reactor Could Open a Door.</a> NYT: The country plans to build a small modular reactor for marine propulsion, raising questions of whether it eventually intends to develop a nuclear submarine despite a U.S. treaty. 
  <p class="updated_time"> 09:29 PM CT, Dec. 13 </p> 
@@ -208,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:35 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/business/toyota-electric-vehicles.html">Toyota Outlines Electric Vehicle Expansion Plan</a> NYT: The company’s Lexus brand will only sell electric cars by 2030 in China, Europe and the United States. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
  <p class="updated_time"> 12:28 PM CT, Dec. 14 </p> 
@@ -263,7 +267,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:53 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/blinken-indo-pacific/index.html">Blinken says the Indo-Pacific will shape the trajectory of the 21st century as counterweight to China's aggressive actions </a> CNN: Secretary of State Antony Blinken committed to bolstering US partnerships in the Indo-Pacific as a counterweight to China's aggressive actions during a speech in Indonesia on Tuesday, coming as the Biden administration has been largely focused on foreign policy challenges in other areas of the world. 
  <p class="updated_time"> 05:31 AM CT, Dec. 14 </p> 
- <a href="https://www.npr.org/sections/money/2021/12/14/1063703904/the-best-and-worst-places-to-live-if-you-care-only-about-money">The best and worst places to live if you only care about money</a> NPR: A new study looks at the finances of three million households over the course of a year. It finds significant differences in the standard of living across America. 
+ <a href="https://www.npr.org/sections/money/2021/12/14/1063703904/the-best-and-worst-places-to-live-if-you-care-only-about-money">The best and worst places to live if you only care about money</a> NPR: A new study looks at the finances of 3 million households over the course of a year. It finds significant differences in the standard of living across America. 
  <p class="updated_time"> 05:09 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/senate-votes-debt-limit-congress-deadline/index.html">Senate advances bill to increase debt limit by $2.5 trillion extending into 2023 in key vote</a> CNN: The Senate is on track to vote on Tuesday to raise the national debt limit as lawmakers race to avert a catastrophic default ahead of a critical mid-week deadline. 
  <p class="updated_time"> 04:31 AM CT, Dec. 14 </p> 
@@ -390,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
  <p class="updated_time"> 01:58 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/us/politics/trust-in-elections-trump-democracy.html">In Bid for Control of Elections, Trump Loyalists Face Few Obstacles</a> NYT: A movement animated by Donald J. Trump’s 2020 election lies is turning its attention to 2022 and beyond. 
- <p class="updated_time"> 01:56 PM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/11/us/politics/biden-jimmy-fallon-vaccines.html">Biden Talks Vaccines and Bob Dole in Interview With Jimmy Fallon</a> NYT: It was the president’s third interview with the comedian Jimmy Fallon, but his first visit to a late-night show since his inauguration. 
  <p class="updated_time"> 12:56 PM CT, Dec. 11 </p> 
  <a href="https://www.cnn.com/2021/12/11/politics/iran-nuclear-weapon-us-military-options/index.html">Biden administration has reviewed military options as part of effort to keep Iran from obtaining a nuclear weapon</a> CNN: The Biden administration has reviewed military options that could be part of an effort to prevent Iran from obtaining a nuclear weapon, if a multilateral deal between the United States, Iran and other nations on Tehran's nuclear program is not salvaged, according to administration officials. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
