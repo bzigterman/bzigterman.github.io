@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:48 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Gasoline Truck in Haiti Explodes, Killing More Than 60</a> NYT: Scores more were injured in the blast, the latest tragedy to hit a country that has been rocked by political violence, natural disasters, poverty and hunger. 
  <p class="updated_time"> 05:30 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-covid-restrictions.html">Conservatives Abandon Johnson Over New Covid Rules</a> NYT: A record number of Prime Minister Boris Johnson’s fellow party members voted against his plan for Covid certificates. But the plan passed with the help of the opposition. 
  <p class="updated_time"> 05:15 PM CT, Dec. 14 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59659543?at_medium=RSS&at_campaign=KARANGA">Russia told to pay compensation to woman whose hands were cut off</a> BBC: Europe's top human rights court says authorities failed to protect her against domestic violence. 
  <p class="updated_time"> 12:58 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/africa/omicron-south-africa-study.html">Illnesses Tied to Omicron May Be Milder, Preliminary Study Suggests</a> NYT: The findings, which also show that the new variant partly dodges the Pfizer-BioNTech vaccine, are based on only three weeks of data. Epidemiologists cautioned that the full picture is still emerging. 
- <p class="updated_time"> 12:49 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Gasoline Truck in Haiti Explodes, Killing More Than 60</a> NYT: Scores more were injured in the blast. It was the latest tragedy to hit the country, which has been rocked by political violence, natural disasters, poverty and hunger. 
  <p class="updated_time"> 12:44 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59650800?at_medium=RSS&at_campaign=KARANGA">Trump's son urged father to intervene in 6 January Capitol riot</a> BBC: Donald Trump Jr urged his father's aides to get the ex-president to stop the mob, text messages show. 
  <p class="updated_time"> 12:40 PM CT, Dec. 14 </p> 
@@ -210,12 +210,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:40 PM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/garcetti-new-delhi-524273">Eric Garcetti skips past scandal on a glidepath to New Delhi</a> Politico: The Los Angeles mayor had his confirmation hearing on Tuesday. Only one member asked him about the misconduct allegations his top aide is facing. 
  <p class="updated_time"> 06:31 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/iran-nuclear-united-nations-524274">U.N. nuclear chief says view of Iran ‘blurred’</a> Politico: Rafael Mariano Grossi said Iran must work with international inspectors. 
  <p class="updated_time"> 06:02 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/democrats-cruz-hawley-biden-ambassadors-524220">Dems launch talks to break Cruz-Hawley blockade of Biden ambassadors</a> Politico: But while the price for one GOP 2024 contender's help is clear, another is less open about what it'll take to ease his holds. 
  <p class="updated_time"> 05:45 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/trump-tax-returns-legal-524235">Judge scraps Trump lawsuit to shield tax returns from Congress</a> Politico: But the judge stayed the impact of his ruling for 14 days. 
+ <p class="updated_time"> 05:43 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/health/fda-commissioner-califf-senate.html">Senators Question Califf, the F.D.A. Nominee, on Opioid Crisis and Pandemic Response</a> NYT: A Senate panel hearing on Tuesday signaled that Dr. Robert Califf, who briefly led the agency during the Obama administration, had some bipartisan support. 
+ <p class="updated_time"> 05:41 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/kristi-noem-south-dakota-daughter-real-estate-license/index.html">Gov. Kristi Noem's daughter given extra chance to obtain real estate license, former state employee testifies</a> CNN: The former state employee who is at the center of the controversy over whether South Dakota Gov. Kristi Noem intervened to help her daughter obtain a real estate appraiser license testified before state lawmakers on Tuesday that Noem's daughter was given an extra chance to correct her work so that her application would not be denied and that the state's process for handling her application was unusual. 
  <p class="updated_time"> 05:40 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/califf-fda-gop-524226">Biden’s FDA pick on track for confirmation with GOP help</a> Politico: A confirmation vote in January would give the agency a permanent political leader for the first time during the Biden presidency. 
  <p class="updated_time"> 05:34 PM CT, Dec. 14 </p> 
@@ -236,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/health/hospitals-vaccine-mandate.html">Big Hospital Chains Drop Vaccine Mandates for Health Workers</a> NYT: With the federal requirement in limbo because of legal challenges, some major multistate hospital systems have stopped enforcing their own policies. 
  <p class="updated_time"> 05:09 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/business/media/new-york-times-project-veritas.html">Judge Clarifies Order on New York Times Coverage of Project Veritas</a> NYT: The decision allows some latitude for reporting until a final ruling is reached. The Times said the order remained “an unconstitutional prior restraint that should be dissolved.” 
- <p class="updated_time"> 05:07 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/health/fda-commissioner-califf-senate.html">Senators Question Califf, the F.D.A. Nominee, on Opioid Crisis and Pandemic Response</a> NYT: A Senate panel hearing on Tuesday signaled that Dr. Robert Califf, who briefly led the agency during the Obama administration, had some bipartisan support. 
  <p class="updated_time"> 04:47 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/meadows-congress-justice-department-referral/index.html">House to vote to refer Mark Meadows to DOJ for contempt of Congress</a> CNN: The House is set to vote on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal charges for failing to appear for a deposition with the select committee investigating the January 6 attack. 
  <p class="updated_time"> 04:32 PM CT, Dec. 14 </p> 
@@ -262,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/14/politics/house-lawmakers-ukraine-russia/index.html">House lawmakers push Biden administration to do more to deter Russian aggression against Ukraine</a> CNN: US lawmakers who have just returned from a trip to Ukraine are urging the Biden administration to take proactive steps to prevent further Russian aggression toward the country and to be prepared to place "extreme sanctions" on Moscow if it moves militarily against its neighbor. 
  <p class="updated_time"> 03:17 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/biden-pfizer-covid-antiviral-pill/index.html">Biden says he's 'encouraged by the promising data' on Pfizer's Covid-19 antiviral pill</a> CNN: President Joe Biden on Tuesday praised Pfizer's report that its experimental treatment for Covid-19 cut the risk of hospitalization or death by 89% if given to high-risk adults within a few days of their first symptoms. 
- <p class="updated_time"> 02:53 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/kristi-noem-south-dakota-daughter-real-estate-license/index.html">Gov. Kristi Noem's daughter given extra chance to obtain real estate license, former state employee testifies</a> CNN: The former state employee who is at the center of the controversy over whether South Dakota Gov. Kristi Noem intervened to help her daughter obtain a real estate appraiser license testified before state lawmakers on Tuesday that Noem's daughter was given an extra chance to correct her work so that her application would not be denied and that the state's process for handling her application was unusual. 
  <p class="updated_time"> 02:23 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/fbi-soliciting-prostitution/index.html">Six FBI agents investigated for allegedly soliciting prostitution while on assignment overseas</a> CNN: Six FBI agents were investigated for allegedly soliciting prostitution, trafficking drugs and failing to report unofficial interactions for foreign nationals while on assignment overseas, a Justice Department watchdog says. 
  <p class="updated_time"> 02:17 PM CT, Dec. 14 </p> 
@@ -287,7 +289,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
  <a href="https://subscriber.politicopro.com/states/new-york/city-hall/whiteboard/2021/12/14/legal-aid-sues-to-compel-state-to-reopen-rent-relief-program-9428027">Legal Aid sues to compel state to reopen rent relief program</a> Politico: The Legal Aid Society is suing to force the state to resume accepting applications to its emergency rental assistance program. Details: The organization charges in a new class-action lawsuit that the closure of the program in mid-November was unlawful and has put “pote… 
  <p class="updated_time"> 11:53 AM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/democrats-raise-debt-ceiling-524204">Senate passes $2.5T debt limit increase, sending to House</a> Politico: The new ceiling is expected to carry spending until after the 2022 midterms, preventing another standoff over the debt limit until after elections. 
+ <a href="https://www.politico.com/news/2021/12/14/democrats-raise-debt-ceiling-524204">Senate passes $2.5T debt limit increase, sending to House</a> Politico: The new ceiling is expected to carry spending until after the 2022 midterms. 
  <p class="updated_time"> 11:43 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064047804/where-things-stand-with-the-monthly-expanded-child-tax-credit-payments">Where things stand with the monthly expanded child tax credit payments</a> NPR: Because an extension of the child tax credit is tied in with President Biden's Build Back Better social spending plan, it remains unclear whether the monthly payments will continue beyond this year. 
  <p class="updated_time"> 11:32 AM CT, Dec. 14 </p> 
