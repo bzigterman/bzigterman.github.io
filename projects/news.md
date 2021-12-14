@@ -63,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59641784?at_medium=RSS&at_campaign=KARANGA">Amazon criticised over safety at tornado-hit warehouse</a> BBC: The firm said events happened quickly at the Illinois site and it was "deeply saddened" by the deaths. 
  <p class="updated_time"> 05:32 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Two detained after UK boat's fatal collision off Sweden</a> BBC: One person is dead and one missing after a Danish ship collides with a UK vessel in the Baltic Sea. 
- <p class="updated_time"> 04:25 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/business/workers-pay-europe-inflation.html">Workers in Europe Are Demanding Higher Pay as Inflation Soars</a> NYT: Prices are rising at the fastest rate on record, and unions want to keep up. Policymakers worry that might make inflation worse. 
  <p class="updated_time"> 04:21 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/india-kashmir-policemen-killed.html">Militants Kill 2 Policemen in Kashmir as Violence Escalates</a> NYT: The clash on Monday came three days after a similar attack on a squad of police officers patrolling streets in northern Kashmir left two of its men dead. 
  <p class="updated_time"> 04:16 PM CT, Dec. 13 </p> 
@@ -127,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S. and other ex-foes, Afghan foreign minister says </a> NPR: Afghan Foreign Minister Amir Khan Muttaqi, in an interview with The Associated Press, said the Taliban have changed since they last ruled. He says they have no issue with the United States. 
  <p class="updated_time"> 11:38 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59632356?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Rebuilding lives from 'hell on Earth'</a> BBC: Residents in the US state are sifting through the rubble that was once a town. 
- <p class="updated_time"> 11:21 PM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/13/technology/instagram-handle-metaverse.html">Her Instagram Handle Was ‘Metaverse.’ Last Month, It Vanished.</a> NYT: Five days after Facebook changed its name to Meta, an Australian artist found herself blocked, with seemingly no recourse, from an account documenting nearly a decade of her life and work. 
  <p class="updated_time"> 06:01 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59614595?at_medium=RSS&at_campaign=KARANGA">The ultra-violent cult that became a global mafia</a> BBC: A BBC investigation into Black Axe has unearthed new evidence of political infiltration, and a scamming and killing operation spanning the globe. 
  <p class="updated_time"> 06:01 PM CT, Dec. 12 </p> 
@@ -175,10 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/europe/nobel-prize-journalism-ceremony.html">Nobel-Winning Journalists Denounce War Talk and Online ‘Toxic Sludge’</a> NYT: At an awards ceremony in Oslo, Maria Ressa of the Philippines and Dmitri A. Muratov of Russia called for peace, democratic renewal and support for a free press. 
  <p class="updated_time"> 06:02 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/oscar-murillo-colombian-artist.html">‘Social Detonator’: In Artist’s Work, and Life, Different Classes Collide</a> NYT: Oscar Murillo, a Colombian-born painter raised in London, considers it an “infiltration” when his class-conscious canvases wind up on the walls of collectors. 
- <p class="updated_time"> 04:23 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/sports/autoracing/al-unser-dead.html">Al Unser, Four-Time Winner of the Indy 500, Dies at 82</a> NYT: He was part of one of auto racing’s most celebrated families, whose members won the Indianapolis 500 a combined nine times. 
- <p class="updated_time"> 04:05 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder will seek to appeal. But if the extradition goes ahead, he would face espionage charges that could put him in prison for decades. 
  <p class="updated_time"> 03:09 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/canada/british-columbia-opioid-overdoses.html">The Other, Seemingly Endless, State of Emergency in British Columbia</a> NYT: The province announced annual and monthly record numbers of opioid-related overdose deaths, further prompting calls for changes to laws. 
  <p class="updated_time"> 01:56 PM CT, Dec. 10 </p> 
@@ -198,6 +190,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:18 AM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/14/what-the-left-doesnt-get-about-the-media-495453">POLITICO Playbook: What the left doesn’t get about the media</a> Politico: And the Jan. 6 committee releases some of Mark Meadows' text messages. 
+ <p class="updated_time"> 05:22 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/mark-meadows-contempt.html">Jan. 6 Committee Recommends Contempt Charge for Meadows</a> NYT: The panel sent a criminal contempt of Congress referral to the full House, as the extent of Mark Meadows’s role in President Donald J. Trump’s efforts to overturn the election became clearer. 
+ <p class="updated_time"> 05:09 AM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/senate-votes-debt-limit-congress-deadline/index.html">Senate to act on debt limit ahead of December 15 deadline</a> CNN: The Senate is on track to vote on Tuesday to raise the national debt limit as lawmakers race to avert a catastrophic default ahead of a critical mid-week deadline. 
  <p class="updated_time"> 04:31 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/rural-america-biden-investments-524170">Biden’s rural investments run up against the culture wars in Wisconsin</a> Politico: Even as President Joe Biden’s agenda has promised billions to rural communities this year, Democrats are in danger of losing their last foothold in rural Wisconsin. 
  <p class="updated_time"> 04:30 AM CT, Dec. 14 </p> 
@@ -212,18 +210,20 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1063766485/their-lives-were-changed-by-gun-violence-and-now-theyre-running-for-office">Their lives were changed by gun violence, and now they're running for office</a> NPR: One of the country's top gun control groups is now actively recruiting candidates who have experienced the effects of gun violence to run for local, state and national offices. 
  <p class="updated_time"> 04:01 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1055186046/census-bureau-leadership-racial-diversity-staff-senior-executive-service-ses">The federal agency that measures racial diversity is led mostly by white people</a> NPR: While the Census Bureau's set to have its first director who's Latinx, an NPR analysis finds people of color are underrepresented in the top rank of civil servants at the country's main data producer. 
+ <p class="updated_time"> 03:32 AM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-mark-meadows/index.html">Newly revealed text messages to Meadows undercut GOP whitewashing of the insurrection</a> CNN: Donald Trump Jr. was frantic. Fox News personalities who now dismiss the violence at the US Capitol were begging the White House to do something. On January 6, then-President Donald Trump wasn't listening to his kids or his media enablers. 
  <p class="updated_time"> 12:24 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/trump-jr-text-mark-meadows-january-6/index.html">Donald Trump Jr. said his father needed to 'condemn' Capitol violence as it unfolded, Meadows texts reveal</a> CNN: Donald Trump Jr. said in a series of text messages to then-White House chief of staff Mark Meadows that his father needed to "condemn" the US Capitol insurrection as it unfolded. 
  <p class="updated_time"> 12:12 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/sentencing-arbery-killing-524191">Jan. 7 sentencing set for men convicted in Arbery killing</a> Politico: Prosecutors chose not to seek the death penalty in the case of Ahmaud Arbery’s slaying. 
+ <p class="updated_time"> 11:03 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/abortion-rights-states-children-health-poverty/index.html">Why anti-abortion states have many of the worst outcomes for kids</a> CNN: Almost all of the states that produce the most unfavorable economic and health care outcomes for children are among those poised to ban or severely restrict access to abortion if the Supreme Court overturns the nearly 50-year-old Roe v. Wade decision. 
  <p class="updated_time"> 10:25 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/remain-in-mexico-appeals-court/index.html">Appeals court rules against Biden administration's termination of 'remain in Mexico' policy</a> CNN: The 5th US Circuit Court of Appeals on Monday night ruled against the Biden administration's bid to terminate the Trump-era "remain in Mexico" policy, which requires non-Mexican migrants to stay in Mexico until their US immigration court dates. 
  <p class="updated_time"> 10:11 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html">January 6 panel unveils text messages to Meadows from Don Jr. and Fox hosts as contempt charge advances</a> CNN: The House select committee investigating the January 6 riot at the US Capitol is prepared to vote Monday on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal contempt of Congress charges. 
+ <a href="https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html">January 6 panel unveils texts to Meadows from Don Jr., Fox hosts as contempt charge advances</a> CNN: The House select committee investigating the January 6 riot at the US Capitol is prepared to vote Monday on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal contempt of Congress charges. 
  <p class="updated_time"> 10:08 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/william-walker-dc-national-guard-january-6-committee/index.html">Former DC National Guard commander meets with January 6 committee</a> CNN: William Walker, who was the top commander for Washington, DC's National Guard and responsible for troop deployment in support of law enforcement overwhelmed on January 6, met Monday with the House select committee investigating the attack on the US Capitol, a source familiar with his appearance has confirmed to CNN. 
- <p class="updated_time"> 09:43 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/mark-meadows-contempt.html">Jan. 6 Committee Recommends Contempt Charge for Meadows</a> NYT: The panel sent a criminal contempt of Congress referral to the full House, as the extent of Mark Meadows’s role in President Donald J. Trump’s efforts to overturn the election became clearer. 
  <p class="updated_time"> 09:39 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/business/media/fox-news-trump-jan-6-meadows.html">Fox News Hosts Sent Texts to Meadows Urging Trump to Act as Jan. 6 Attack Unfolded</a> NYT: Afterward, on their shows, Laura Ingraham spread the false claim of antifa involvement, and Sean Hannity referred to the 2020 election as a “train wreck.” 
  <p class="updated_time"> 09:21 PM CT, Dec. 13 </p> 
@@ -271,7 +271,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:28 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063824307/cop26-president-alok-sharma-on-the-road-ahead-after-glasgow">COP26 president Alok Sharma on the road ahead after Glasgow</a> NPR: NPR's Ari Shapiro speaks with COP26 president Alok Sharma about promises and agreements made at the recent climate summit in Glasgow and what more needs to be done. 
  <p class="updated_time"> 03:27 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/trump-tax-returns-dc-circuit/index.html">Appeals court wary of Trump's arguments for throwing out House subpoena of his financial docs</a> CNN: A federal appeals court sounded dubious Monday of arguments put forward by former President Donald Trump for why a House subpoena for his financial records should be wholly invalidated. 
+ <a href="https://www.cnn.com/2021/12/13/politics/trump-tax-returns-dc-circuit/index.html">Appeals court wary of Trump arguments for throwing out House subpoena of financial docs</a> CNN: A federal appeals court sounded dubious Monday of arguments put forward by former President Donald Trump for why a House subpoena for his financial records should be wholly invalidated. 
  <p class="updated_time"> 03:17 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063824286/jan-6-panel-report-shows-mark-meadows-role-in-trying-to-overturn-election">Jan. 6 panel report shows Mark Meadows' role in trying to overturn election</a> NPR: The House committee investigating the Jan. 6 insurrection is moving forward to hold former Trump White House chief of staff Mark Meadows in contempt of Congress after he stopped cooperating with them. 
  <p class="updated_time"> 03:08 PM CT, Dec. 13 </p> 
@@ -301,7 +301,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:06 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/13/debt-limit-byrd-bath-and-manchin-meetings-495441">Debt limit, Byrd bath and Manchin meetings</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/tornadoes-and-climate-change-what-matters/index.html">Why extreme weather might be our new normal</a> CNN: A level of devastation "unlike anything I have ever seen." 
+ <a href="https://www.cnn.com/2021/12/13/politics/tornadoes-and-climate-change-what-matters/index.html">Analysis: Why extreme weather might be our new normal</a> CNN: A level of devastation "unlike anything I have ever seen." 
  <p class="updated_time"> 06:08 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/13/all-eyes-on-the-joes-495439">POLITICO Playbook: All eyes on the Joes</a> Politico: And Nancy Pelosi plays down retirement rumors. 
  <p class="updated_time"> 05:13 AM CT, Dec. 13 </p> 
@@ -318,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063593984/some-countries-which-identify-as-democracies-werent-invited-to-the-democracy-sum">Some countries which identify as democracies, weren't invited to the democracy summit</a> NPR: After President Biden's democracy summit, what does it mean when countries say they are a democracy? NPR's Steve Inskeep talks to Seema Shah, co-author of the Global State of Democracy report. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-roe-v-wade-precedent.html">With Roe at Risk, Justices Explore a New Way to Question Precedents</a> NYT: A new study traces a trend at the Supreme Court: looking to what the lawyers had argued in assessing whether to follow a precedent. 
- <p class="updated_time"> 11:54 PM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-tornadoes-climate-politics/index.html">Analysis: An existential threat runs into political realities of US democracy</a> CNN: The devastation from this weekend's tornadoes was a stark reminder of the future that awaits humans on this planet, when weird weather is increasingly unpredictable and severe. 
  <p class="updated_time"> 10:54 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/arts/television/sesame-street.html">‘Sesame Street’ Was Always Political</a> NYT: The beloved children’s show has been a recurrent culture-war target, but a documentary on HBO shows how social purpose was built into it. 
  <p class="updated_time"> 08:24 PM CT, Dec. 12 </p> 
@@ -374,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
  <p class="updated_time"> 10:28 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/supreme-court-allows-clinics-challenge-to-texas-abortion-ban-to-proceed-rebuffs-biden-admin-524083">SCOTUS allows clinics’ challenge to Texas abortion ban to proceed</a> Politico: The court's ruling allows for some cases brought by opponents of the law to proceed but closed major avenues for legal challenges, including one sought by the Biden administration. 
- <p class="updated_time"> 10:12 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/white-house-red-line-policy-cyberattacks/index.html">New White House policy gives agencies 24 hours to assess cyberattacks of potential national security concern</a> CNN: The White House has enacted a new policy requiring the FBI and other agencies to help US officials quickly assess whether a cyberattack "rises to the level of a national security concern" that could hamper the provision of key services such as fuel or food, according to a National Security Council memo obtained by CNN and two US officials. 
  <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/consumer-prices-surge-biden-setback-524075">Inflation accelerates at lightning pace in new setback for Biden</a> Politico: Costs for key goods and services soared 0.8 percent for the month and 6.8 percent for the year, the highest since 1982, the Labor Department reported Friday. 
  <p class="updated_time"> 07:29 AM CT, Dec. 10 </p> 
@@ -400,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/09/senate-starts-debt-action-dole-honored-at-capitol-495406">Dems enjoy a moment of GOP cooperation</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/09/why-tongues-are-wagging-inside-the-house-gop-495402">POLITICO Playbook: Why tongues are wagging inside the House GOP</a> Politico: And Biden kicks off his Summit for Democracy. 
- <p class="updated_time"> 05:02 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/fema-strategic-plan-climate/index.html">New FEMA plan puts climate crisis front and center after Trump administration erased it</a> CNN: President Joe Biden's Federal Emergency Management Agency is putting climate front and center in its new four-year strategic planning document, after the Trump administration erased all mention of climate from its previous plan. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
