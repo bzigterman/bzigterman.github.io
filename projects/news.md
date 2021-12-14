@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:37 PM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59658663?at_medium=RSS&at_campaign=KARANGA">Billie Eilish says porn exposure while young caused nightmares</a> BBC: The singer-songwriter spoke about how "abusive" pornography skewed her early sexual experiences. 
  <p class="updated_time"> 04:28 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/belarus-opposition-sergei-tikhanovsky.html">Belarus Opposition Leader Is Sentenced to 18 Years in Prison</a> NYT: The activist Sergei Tikhanovsky planned to challenge the country’s authoritarian leader, Aleksandr G. Lukashenko, in a presidential election last year. He was arrested before the vote and his wife stepped in. 
  <p class="updated_time"> 04:27 PM CT, Dec. 14 </p> 
@@ -208,10 +210,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:38 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/meadows-congress-justice-department-referral/index.html">House to vote to refer Mark Meadows to DOJ for contempt of Congress</a> CNN: The House is set to vote on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal charges for failing to appear for a deposition with the select committee investigating the January 6 attack. 
  <p class="updated_time"> 04:32 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megabill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
+ <p class="updated_time"> 04:29 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/white-house-scaled-back-holiday-parties/index.html">White House scales back holiday parties due to Covid concerns</a> CNN: The White House will dramatically scale back holiday party festivities this year, due to ongoing Covid-19 concerns, opting instead for smaller open house-style events. 
  <p class="updated_time"> 04:27 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/amtrak-temporarily-drops-its-vaccine-mandate-avoiding-cuts-to-service.html">Amtrak temporarily drops its vaccine mandate, avoiding cuts to service.</a> NYT: The shift in policy means that Amtrak officials no longer anticipate cuts to service next month. 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/amtrak-vaccine-mandate.html">Amtrak Drops Its Vaccine Mandate, Avoiding Cuts to Service</a> NYT: The shift in policy means that Amtrak officials no longer anticipate cuts to service next month. 
  <p class="updated_time"> 04:24 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/texas-clinics-paperwork-supreme-court/index.html">Texas abortion clinics ask Supreme Court to speed up paperwork so appeals process can continue</a> CNN: In the latest attempt to move forward with a lawsuit to block enforcement of Texas' six-week abortion ban, lawyers for abortion providers asked the Supreme Court on Tuesday to immediately transfer a certified copy of its decision from last week back to a district court judge in order to restart proceedings in short order. 
  <p class="updated_time"> 04:13 PM CT, Dec. 14 </p> 
@@ -262,8 +268,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/democrats-raise-debt-ceiling-524204">Senate passes $2.5T debt limit increase, sending to House</a> Politico: The new ceiling is expected to carry spending until after the 2022 midterms, preventing another standoff over the debt limit until after elections. 
  <p class="updated_time"> 11:43 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064047804/where-things-stand-with-the-monthly-expanded-child-tax-credit-payments">Where things stand with the monthly expanded child tax credit payments</a> NPR: Because an extension of the child tax credit is tied in with President Biden's Build Back Better social spending plan, it remains unclear whether the monthly payments will continue beyond this year. 
- <p class="updated_time"> 11:37 AM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/meadows-congress-justice-department-referral/index.html">House to vote to refer Mark Meadows to DOJ for contempt of Congress</a> CNN: The House is set to vote on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal charges for failing to appear for a deposition with the select committee investigating the January 6 attack. 
  <p class="updated_time"> 11:32 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/biden-sandy-hook/index.html">Biden marks 9 years since Sandy Hook shooting with renewed call for tougher gun laws</a> CNN: President Joe Biden on Tuesday marked nine years since the mass shooting at Sandy Hook Elementary School by pointing to his administration's efforts to combat gun violence as Democratic-led efforts to pass tougher gun laws have repeatedly failed in Congress. 
  <p class="updated_time"> 11:03 AM CT, Dec. 14 </p> 
@@ -422,8 +426,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/09/senate-starts-debt-action-dole-honored-at-capitol-495406">Dems enjoy a moment of GOP cooperation</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/09/why-tongues-are-wagging-inside-the-house-gop-495402">POLITICO Playbook: Why tongues are wagging inside the House GOP</a> Politico: And Biden kicks off his Summit for Democracy. 
- <p class="updated_time"> 05:02 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/fema-strategic-plan-climate/index.html">New FEMA plan puts climate crisis front and center after Trump administration erased it</a> CNN: President Joe Biden's Federal Emergency Management Agency is putting climate front and center in its new four-year strategic planning document, after the Trump administration erased all mention of climate from its previous plan. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
