@@ -7,6 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:43 AM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59645087?at_medium=RSS&at_campaign=KARANGA">Congolese rumba wins Unesco world heritage status</a> BBC: The music and dance style from the two Congos is a fundamental part of the countries' identities. 
+ <p class="updated_time"> 10:37 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/middleeast/tunisia-saied-constitution-election.html">Tunisia’s President Promises Vote on Constitution and Sets Election Date</a> NYT: President Kais Saied’s announcement dispelled some of the uncertainty Tunisians have endured for months since he shunted aside Parliament in what critics called a soft coup. 
+ <p class="updated_time"> 10:32 AM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59650802?at_medium=RSS&at_campaign=KARANGA">Haiti fuel tanker blast kills dozens in Cap-Haïtien</a> BBC: The victims had been gathering leaking fuel from a vehicle involved in an accident, reports say. 
+ <p class="updated_time"> 10:18 AM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/14/1064081667/canada-pledges-40-billion-abuses-indigenous-children">Canada pledges $40 billion in talks over rampant abuses of Indigenous children</a> NPR: From 1831 to 1998, the government separated some 150,000 Indigenous children from their families and sent them to residential schools where they routinely faced physical and sexual abuse. 
+ <p class="updated_time"> 10:13 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/europe/belarus-opposition-sergei-tikhanovsky.html">Belarus Opposition Leader Is Sentenced to 18 Years in Prison</a> NYT: The activist Sergei Tikhanovsky planned to challenge the country’s authoritarian leader, Aleksandr G. Lukashenko, in a presidential election last year. He was arrested before the vote and his wife had to step in. 
+ <p class="updated_time"> 10:12 AM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/14/1064073682/a-gasoline-truck-explodes-in-haiti-killing-more-than-50-people">A gasoline truck explodes in Haiti, killing more than 50 people</a> NPR: The truck overturned and exploded in a fireball in the coastal city of Cap-Haitien, engulfing cars and homes in flames as it killed more than 50 people and injured dozens of others. 
  <p class="updated_time"> 10:06 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/asia/blinken-indonesia-china.html">Blinken, in Indonesia, Stresses Soft Power to Counter China</a> NYT: The U.S. secretary of state seeks to make the case that the United States is a better bet as a partner than China, even if it’s not spending so lavishly in the region. 
  <p class="updated_time"> 09:59 AM CT, Dec. 14 </p> 
@@ -15,14 +27,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/asia/duterte-philippines-senate.html">Philippines President Rodrigo Duterte Won't Run for Senate</a> NYT: The populist president also promised a peaceful transition of power when his term ends next year. 
  <p class="updated_time"> 09:05 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59649066?at_medium=RSS&at_campaign=KARANGA">Arctic heat record is like Mediterranean, says UN</a> BBC: The highest temperature recorded in the region last year - 38C (100F) - is officially confirmed. 
- <p class="updated_time"> 08:59 AM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59650802?at_medium=RSS&at_campaign=KARANGA">Haiti fuel tanker blast kills dozens in Cap-Haïtien</a> BBC: The victims had been gathering leaking fuel from a vehicle involved in an accident, reports say. 
  <p class="updated_time"> 08:54 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/omicron-south-africa-study.html">Omicron May Cause Fewer Hospitalizations Than Previous Variants, Early Study Shows</a> NYT: The findings, which also show that the new variant decreases the efficacy of the Pfizer vaccine, are based on only three weeks of data, and epidemiologists have cautioned that more data is needed. 
  <p class="updated_time"> 08:14 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
- <p class="updated_time"> 07:17 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/europe/belarus-opposition-sergei-tikhanovsky.html">Belarus Opposition Leader Is Sentenced to 18 Years in Prison</a> NYT: The activist Sergei Tikhanovsky planned to challenge the country’s authoritarian leader, Aleksandr G. Lukashenko, in a presidential election last year. But he was arrested before the vote. 
  <p class="updated_time"> 07:07 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/health/coronavirus-omicron-next-pandemic.html">Omicron Is a Dress Rehearsal for the Next Pandemic</a> NYT: America’s response to the variant highlights both how much progress we have made over the past two years — and how much work remains. 
  <p class="updated_time"> 07:03 AM CT, Dec. 14 </p> 
@@ -35,22 +43,22 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/14/1063947940/vaccine-protection-vs-omicron-infection-may-drop-to-30-but-does-cut-severe-disea">Vaccine protection vs. omicron infection may drop to 30% but does cut severe disease</a> NPR: Data from 78,000 South Africans with COVID show the Pfizer vaccine is far less effective in preventing infection by the omicron variant. But there is still significant protection from severe illness. 
  <p class="updated_time"> 06:24 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064018450/tensions-over-ukraine-come-as-relations-between-russia-and-nato-are-at-an-all-ti">Tensions over Ukraine come as relations between Russia and NATO are at an all-time low</a> NPR: Russian President Vladimir Putin once floated the prospect of his country joining NATO. 
- <p class="updated_time"> 04:13 AM CT, Dec. 14 </p> 
- <a href="https://www.wsj.com/articles/gas-truck-blast-in-haiti-kills-some-40-in-latest-disaster-for-nation-11639490464">Gas Truck Blast in Haiti Kills at Least 60 People</a> WSJ: The hemisphere’s poorest country has recently endured the assassination of its president, a devastating earthquake and the kidnapping of a group of mostly American missionaries. 
- <p class="updated_time"> 04:05 AM CT, Dec. 14 </p> 
- <a href="https://www.wsj.com/articles/united-arab-emirates-threatens-to-pull-out-of-23-billion-f-35-drone-deal-with-u-s-11639491997">U.A.E. Threatens to Pull Out of $23 Billion F-35, Drone Deal With U.S.</a> WSJ: The Emirati government told U.S. officials that it intended to kill the deal because Abu Dhabi thought security requirements the U.S. had laid out to safeguard the high-tech weaponry from Chinese espionage were too onerous, officials said. 
+ <p class="updated_time"> 05:34 AM CT, Dec. 14 </p> 
+ <a href="https://www.wsj.com/articles/united-arab-emirates-threatens-to-pull-out-of-23-billion-f-35-drone-deal-with-u-s-11639491997">U.A.E. Threatens to Pull Out of $23 Billion F-35, Drone Deal With U.S.</a> WSJ: The Emirati government told U.S. officials that it intended to halt the deal because Abu Dhabi thought security requirements the U.S. had laid out to safeguard the high-tech weaponry from Chinese espionage were too onerous, and the country’s national sovereignty was in jeopardy. 
+ <p class="updated_time"> 05:33 AM CT, Dec. 14 </p> 
+ <a href="https://www.wsj.com/articles/gas-truck-blast-in-haiti-kills-some-40-in-latest-disaster-for-nation-11639490464">Haiti Gas-Truck Blast Kills at Least 60 People</a> WSJ: The explosion hit the hemisphere’s poorest nation, which is already contending with the recent assassination of its president, a devastating earthquake and the kidnapping of a group of mostly American missionaries. 
+ <p class="updated_time"> 04:23 AM CT, Dec. 14 </p> 
+ <a href="https://www.wsj.com/articles/first-big-omicron-study-finds-two-doses-of-pfizers-vaccine-cuts-hospitalization-risk-by-70-11639495432">Omicron Study Finds Two Doses of Pfizer Vaccine Cuts Hospitalization Risk</a> WSJ: The first large real-world study, by South Africa’s biggest private health insurer, found that two shots of the vaccine lowered the risk of hospital admission by 70% for patients infected with the highly mutated variant. 
  <p class="updated_time"> 04:00 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/insider/dive-bars.html">Why a Times Reporter Keeps Writing About Dive Bars</a> NYT: Attracted to the grit, equality and community of those modest watering holes, a Times reporter has worked them into his coverage. 
- <p class="updated_time"> 03:50 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/middleeast/tunisia-saied-constitution-election.html">Tunisia’s President Promises Vote on Constitution and Sets Election Date</a> NYT: President Kais Saied’s announcement dispelled some of the uncertainty Tunisians have endured for months since he shunted aside Parliament in what critics called a soft coup. 
  <p class="updated_time"> 03:48 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/boris-johnson-uk-coronavirus.html">Boris Johnson Is in Trouble. The Question Is, How Much?</a> NYT: The British prime minister is facing a new virus variant, a rebellious Conservative Party, collapsing poll ratings and questions about whether he or his staff flouted the lockdown rules. 
+ <p class="updated_time"> 03:45 AM CT, Dec. 14 </p> 
+ <a href="https://www.wsj.com/articles/omicron-response-tests-boris-johnsons-pledge-to-keep-u-k-open-11639493134">Omicron Response Tests Boris Johnson's Pledge to Keep U.K. Open</a> WSJ: Since the summer, the British prime minister has pledged that England would stay largely free of Covid-19 restrictions, arguing that the U.K.’s successful vaccination campaign should permit British society to remain the most open in Europe. That pledge is starting to look like a political gamble. 
  <p class="updated_time"> 02:27 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59647425?at_medium=RSS&at_campaign=KARANGA">Srinagar: Three dead, 11 injured in militant attack on police bus</a> BBC: Three militants fired at a bus carrying policemen in capital Srinagar on Monday, officials said. 
  <p class="updated_time"> 01:58 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Cementing an alliance built on mutual fear of Iran, Prime Minister Naftali Bennett met Prince Mohammed bin Zayed of the United Arab Emirates on the first official visit by an Israeli leader to the Gulf state. 
- <p class="updated_time"> 12:42 AM CT, Dec. 14 </p> 
- <a href="https://www.wsj.com/articles/china-fines-weibo-for-spreading-illegal-information-11639482120">China Fines Weibo for Spreading 'Illegal Information'</a> WSJ: The popular Twitter-like site is the second Chinese social-media giant to be punished in two weeks as internet controls tighten. 
  <p class="updated_time"> 12:34 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/companies-are-hesitant-to-invest-even-if-demand-is-soaring-11639481681">Why Companies Are Hesitant to Invest, Even if Demand Is Soaring</a> WSJ: Investment spending in the world’s largest economies has stalled, as supply-chain disruptions and uncertainty over the durability of the current economic boom hold back spending, a trend that could further exacerbate already high inflation. 
  <p class="updated_time"> 11:02 PM CT, Dec. 13 </p> 
@@ -59,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/europe/covid-anxiety-depression-omicron.html">Across the World, Covid Anxiety and Depression Take Hold</a> NYT: It is still unclear how much of a threat the fast-spreading Omicron variant poses, but fear and a sudden revival of restrictions have added to an epidemic of loneliness. 
  <p class="updated_time"> 09:17 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/israel-tankers-iran.html">Israel Finds Planes That Could Be Key to a Strike on Iran Badly Back-Ordered</a> NYT: The United States told Israel it was unlikely to deliver refueling tankers before 2024, amid tensions between the two nations over how to deal with Iran’s nuclear program. 
- <p class="updated_time"> 08:30 PM CT, Dec. 13 </p> 
- <a href="https://www.wsj.com/articles/australia-eases-covid-19-travel-rules-as-others-bolster-omicron-defenses-11639467056">Australia Eases Covid-19 Travel Rules as Others Bolster Omicron Defenses</a> WSJ: Australia said it would move ahead with the next stage of its border reopening, allowing in vaccinated international students, skilled migrants and people who hold working-holiday visas. 
  <p class="updated_time"> 08:25 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle Into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
  <p class="updated_time"> 08:14 PM CT, Dec. 13 </p> 
@@ -81,6 +87,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/arts/music/vicente-fernandez-influence.html">Vicente Fernández, the King of Machos and Heartbreak</a> NYT: The singer’s brand of machismo may have frayed, but for many, he was the ideal of what it means to be hard-working, hard-loving Mexican man. 
  <p class="updated_time"> 06:29 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59602955?at_medium=RSS&at_campaign=KARANGA">Canada offers up to $40bn to compensate indigenous children</a> BBC: It comes after a lengthy legal battle over the abuse of native children held in government care. 
+ <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Drone Strike</a> NYT: The military initially defended the strike, which killed 10 civilians including seven children, but ultimately called it a tragic mistake. 
  <p class="updated_time"> 06:06 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59645557?at_medium=RSS&at_campaign=KARANGA">Tom Holland: 'There are kids who look up to Spider-Man'</a> BBC: Spider-Man: No Way Home is Tom Holland's third solo film and his sixth as part of the Avengers. 
  <p class="updated_time"> 06:05 PM CT, Dec. 13 </p> 
@@ -93,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Two detained after UK boat's fatal collision off Sweden</a> BBC: One person is dead and one missing after a Danish ship collides with a UK vessel in the Baltic Sea. 
  <p class="updated_time"> 04:21 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/india-kashmir-policemen-killed.html">Militants Kill 2 Policemen in Kashmir as Violence Escalates</a> NYT: The clash on Monday came three days after a similar attack on a squad of police officers patrolling streets in northern Kashmir left two of its men dead. 
- <p class="updated_time"> 04:16 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59645647?at_medium=RSS&at_campaign=KARANGA">Larry Nassar abuse survivors to receive $380m settlement</a> BBC: Hundreds of women abused by the ex-US gymnastics team doctor reach a settlement with USA Gymnastics. 
  <p class="updated_time"> 04:11 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-59646231?at_medium=RSS&at_campaign=KARANGA">How much does the diplomatic boycott of Beijing 2022 matter?</a> BBC: The Winter Olympics have been hit by a flurry of protests from governments in the West. 
  <p class="updated_time"> 04:10 PM CT, Dec. 13 </p> 
@@ -117,6 +123,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">In Response to Omicron, U.K. Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
  <p class="updated_time"> 11:04 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Travels to U.A.E., Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett traveled to Abu Dhabi on Sunday, the first such visit by an Israeli leader, with plans to meet with the Emirati prince. 
+ <p class="updated_time"> 10:02 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/business/inflation-turkey-brazil-hungary.html">Inflationary Wave Changes Political Terrain for Right-Wing Populists</a> NYT: The leaders of Turkey, Hungary and Brazil are all grappling with problems posed by the global rise in prices ahead of national elections. 
  <p class="updated_time"> 09:51 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 09:27 AM CT, Dec. 13 </p> 
@@ -175,10 +183,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/europe/ukraine-russia-war-naval-vessel.html">Russia-Ukraine Sea Encounter Highlights Jittery Nerves in the Region</a> NYT: The Russians intercepted a half-century-old Ukrainian naval vessel, then portrayed its actions as a provocative prelude to war. 
  <p class="updated_time"> 07:39 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1062516219/british-columbia-canada-climate-change-wildfire-floods-shelter">A church retreat came to the aid of Canada's latest disaster survivors</a> NPR: British Columbia experienced major disasters this year that scientists say show the intensifying effects of climate change. Many of those affected by fires and floods took shelter at Camp Hope. 
- <p class="updated_time"> 07:10 AM CT, Dec. 11 </p> 
- <a href="https://www.npr.org/2021/12/11/1063337634/two-investigative-journalists-were-awarded-this-years-nobel-peace-prize">Two investigative journalists were awarded this year's Nobel Peace Prize</a> NPR: Maria Ressa of the Philippines is one of two journalists to have received the Nobel Peace Prize this week, highlighting a message about the need for press freedom. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/australia/flooding-fire-climate-australia.html">First Fires, Then Floods: Climate Extremes Batter Australia</a> NYT: Many of the same areas that suffered through horrific bush fires in 2019 and 2020 are now dealing with prodigious rainfall that could leave some people stranded for weeks. 
+ <p class="updated_time"> 01:57 AM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/europe/macron-scholz-france-germany-meeting.html">Macron and Scholz Meet and Call for More ‘European Sovereignty’ </a> NYT: The new German chancellor made his first foreign stop in Paris, where the two leaders discussed a more independent, bolder Europe. 
+ <p class="updated_time"> 07:59 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/europe/nobel-prize-journalism-ceremony.html">Nobel-Winning Journalists Denounce War Talk and Online ‘Toxic Sludge’</a> NYT: At an awards ceremony in Oslo, Maria Ressa of the Philippines and Dmitri A. Muratov of Russia called for peace, democratic renewal and support for a free press. 
+ <p class="updated_time"> 06:02 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/americas/oscar-murillo-colombian-artist.html">‘Social Detonator’: In Artist’s Work, and Life, Different Classes Collide</a> NYT: Oscar Murillo, a Colombian-born painter raised in London, considers it an “infiltration” when his class-conscious canvases wind up on the walls of collectors. 
  <p class="updated_time"> 03:09 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/canada/british-columbia-opioid-overdoses.html">The Other, Seemingly Endless, State of Emergency in British Columbia</a> NYT: The province announced annual and monthly record numbers of opioid-related overdose deaths, further prompting calls for changes to laws. 
  <p class="updated_time"> 01:56 PM CT, Dec. 10 </p> 
@@ -196,10 +208,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:04 AM CT, Dec. 14 </p> 
+ <p class="updated_time"> 11:53 AM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/democrats-raise-debt-ceiling-524204">Democrats to raise debt ceiling by $2.5T</a> Politico: The amount is expected to carry spending until after the 2022 midterms, preventing another standoff over the debt limit until after elections. 
+ <p class="updated_time"> 11:03 AM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/biden-sandra-thompson-housing-regulator-524197">Biden taps Thompson for full term as top housing regulator</a> Politico: The move comes after Thompson allies on the Hill urged Biden to keep her at the helm amid reports he planned to replace Thompson this fall. 
+ <p class="updated_time"> 10:48 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Democrats Set Debt Limit Increase at $2.5 Trillion Ahead of Senate Vote</a> NYT: The figure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
+ <p class="updated_time"> 10:33 AM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/trump-pence-comments-2020-certification/index.html">Trump says Pence is 'mortally wounded' inside the GOP for his role in certifying 2020 election results</a> CNN: As former Vice President Mike Pence weighs his future in politics -- laying the groundwork for a possible presidential campaign in 2024 and supporting Republican candidates who face reelection next fall -- former President Donald Trump said Pence is "mortally wounded" inside the GOP. 
  <p class="updated_time"> 10:01 AM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/joe-biden-news-journal-ad-targeting-524196">Want to influence Joe Biden? Run ads in a 100-year-old newspaper.</a> Politico: In the Biden era, the pages of The News Journal have become a way to reach a new audience of one. 
+ <a href="https://www.politico.com/news/2021/12/14/joe-biden-news-journal-ad-targeting-524196">How a 100-year-old newspaper became the go-to way to influence Biden</a> Politico: In the Biden era, the pages of The News Journal have become a way to reach a new audience of one. 
  <p class="updated_time"> 10:01 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/latino-voters-2020-election-524190">Report: Socialism attacks hurt Dems with Latino voters</a> Politico: The attacks resonated beyond Florida, according to a new post-mortem on the 2020 election. 
  <p class="updated_time"> 09:59 AM CT, Dec. 14 </p> 
@@ -225,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:31 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/sections/money/2021/12/14/1063703904/the-best-and-worst-places-to-live-if-you-care-only-about-money">The best and worst places to live if you only care about money</a> NPR: A new study looks at the finances of three million households over the course of a year. It finds significant differences in the standard of living across America. 
  <p class="updated_time"> 05:09 AM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/senate-votes-debt-limit-congress-deadline/index.html">Senate to act on debt limit ahead of December 15 deadline</a> CNN: The Senate is on track to vote on Tuesday to raise the national debt limit as lawmakers race to avert a catastrophic default ahead of a critical mid-week deadline. 
+ <a href="https://www.cnn.com/2021/12/14/politics/senate-votes-debt-limit-congress-deadline/index.html">Senate to act on debt limit ahead of tomorrow's deadline</a> CNN: The Senate is on track to vote on Tuesday to raise the national debt limit as lawmakers race to avert a catastrophic default ahead of a critical mid-week deadline. 
  <p class="updated_time"> 04:31 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/rural-america-biden-investments-524170">Biden’s rural investments run up against the culture wars in Wisconsin</a> Politico: Even as President Joe Biden’s agenda has promised billions to rural communities this year, Democrats are in danger of losing their last foothold in rural Wisconsin. 
  <p class="updated_time"> 04:30 AM CT, Dec. 14 </p> 
@@ -265,7 +283,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/trump-subpoena-financial-records.html">Lawyers Clash Again Over Subpoena for Trump’s Financial Records</a> NYT: The long-running case dates back to an early 2019 House Oversight Committee demand to see years of the then-president’s financial data. 
  <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Drone Strike</a> NYT: The military initially defended the strike, which killed 10 civilians including seven children, but ultimately called it a tragic mistake. 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Strike, Pentagon Chief Decides</a> NYT: The military initially defended the strike, which killed 10 civilians including seven children, but ultimately called it a tragic mistake. 
  <p class="updated_time"> 05:59 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063767973/saule-omarova-gets-candid-banks-sank-her-nomination-to-head-occ">Saule Omarova gets candid: Banks sank her nomination to become a key regulator</a> NPR: Days after withdrawing her nomination to become a key banking regulator, Omarova blames banks for distorting her research and creating an ugly environment. 
  <p class="updated_time"> 05:54 PM CT, Dec. 13 </p> 
@@ -288,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/joe-manchin-congress-social-safety-net-bill/index.html">Manchin signals major changes needed to win his support on Biden's safety net plan</a> CNN: Sen. Joe Manchin, the most pivotal swing vote in the Senate, indicated on Monday that a significant amount of work remains to be done to earn his support for President Joe Biden's sweeping social safety net expansion, potentially delivering a fatal blow to Democratic leaders' hopes of getting the bill passed in the Senate before Christmas. 
  <p class="updated_time"> 04:35 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/afghanistan-drone-strike-troops-524162">No troops disciplined in U.S. strike killing Afghan civilians</a> Politico: A review found there were breakdowns in communication and in the process of identifying and confirming the target of the bombing, which killed 10 civilians. 
- <p class="updated_time"> 04:25 PM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/chauvin-expected-plead-floyd-civil-rights-case-524161">Chauvin expected to plead guilty in Floyd civil rights case</a> Politico: A federal docket entry shows a hearing has been scheduled for former Minneapolis Police Officer Derek Chauvin to change his current not guilty plea in the case. 
  <p class="updated_time"> 03:28 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063824307/cop26-president-alok-sharma-on-the-road-ahead-after-glasgow">COP26 president Alok Sharma on the road ahead after Glasgow</a> NPR: NPR's Ari Shapiro speaks with COP26 president Alok Sharma about promises and agreements made at the recent climate summit in Glasgow and what more needs to be done. 
  <p class="updated_time"> 03:27 PM CT, Dec. 13 </p> 
@@ -358,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/us/politics/newsom-texas-abortion-law-guns.html">Newsom Calls for Gun Legislation Modeled on the Texas Abortion Law</a> NYT: Gov. Gavin Newsom of California accused Texas of insulating its abortion law from the courts, and then called on lawmakers to use a similar strategy to go after the gun industry. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
- <p class="updated_time"> 02:08 PM CT, Dec. 11 </p> 
- <a href="https://www.cnn.com/2021/12/11/politics/mark-meadows-documents-2020-election/index.html">Lawyer says Meadows received, but did nothing, with document that detailed ways to undermine the 2020 election, per New York Times</a> CNN: A lawyer for Mark Meadows says the former Trump White House chief of staff was the recipient of a PowerPoint document detailing ways to undermine the count of the 2020 election but did nothing with it, according to the New York Times. 
  <p class="updated_time"> 01:58 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/us/politics/trust-in-elections-trump-democracy.html">In Bid for Control of Elections, Trump Loyalists Face Few Obstacles</a> NYT: A movement animated by Donald J. Trump’s 2020 election lies is turning its attention to 2022 and beyond. 
  <p class="updated_time"> 01:56 PM CT, Dec. 11 </p> 
@@ -432,10 +446,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/senate-biden-saudi-arabia-523915">Senate backs Biden admin weapons sale to Saudi Arabia</a> Politico: At issue was whether to punish the kingdom for its human rights abuses and its involvement in Yemen’s civil war. 
  <p class="updated_time"> 07:07 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/house-senate-gops-debt-deal-523912">House Republicans seethe over Senate GOP's debt deal</a> Politico: Mitch McConnell's deal on the debt ceiling is just the latest example of the Senate GOP working with Democrats, to the scorn of House Republicans. 
- <p class="updated_time"> 07:04 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/manchin-warning-inflation-social-spending-523913">Manchin issues warning about rising inflation, as clock ticks on social spending bill</a> Politico: “We’ve got to make sure we get this right,” the West Virginia Democrat said. 
- <p class="updated_time"> 06:57 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/congress-russia-ukraine-523914">Congress frets over ‘missed opportunity’ on Russia’s Ukraine aggression</a> Politico: Differences over the annual defense bill emerged as President Joe Biden was meeting virtually with President Vladimir Putin of Russia. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting: Town halls with the VP that would focus on her areas of interest. 
 
