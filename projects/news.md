@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:31 PM CT, Dec. 14 </p> 
+ <p class="updated_time"> 01:52 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/italy-bishop-santa-claus.html">Italian Bishop Gives Children Harsh News: There Is No Santa Claus</a> NYT: You’ve been lied to, children heard from a bishop, the latest Catholic clergyman to try to take down Santa Claus and consumerism. Many Italians were not pleased. 
  <p class="updated_time"> 01:18 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/belarus-opposition-sergei-tikhanovsky.html">Belarus Opposition Leader Is Sentenced to 18 Years in Prison</a> NYT: The activist Sergei Tikhanovsky planned to challenge the country’s authoritarian leader, Aleksandr G. Lukashenko, in a presidential election last year. He was arrested before the vote and his wife stepped in. 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:17 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/qanon-follower-sentence-pelosi-death-threats-524209">QAnon follower gets 28-month sentence for death threats to Pelosi</a> Politico: Judge says continuing election-fraud rhetoric from Republican politicians makes defendant an ongoing threat. 
+ <p class="updated_time"> 01:50 PM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/14/1064144431/d-c-attorney-general-karl-racine-sue-proud-boys-oath-keepers-jan-6-capitol">D.C.'s attorney general is suing the Proud Boys and Oath Keepers over Capitol attack</a> NPR: The District of Columbia is seeking damages from the two far-right groups for allegedly conspiring to terrorize the city with the violent attack on Jan. 6. 
  <p class="updated_time"> 01:48 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/fdic-chair-democrats-524212">Trump-appointed FDIC chair blocks Democratic bid to undercut her</a> Politico: A disagreement over who controls the FDIC’s agenda flared after the Democrats who make up the majority of the board voted to solicit public feedback on potential changes to the agency’s bank merger approval process. 
  <p class="updated_time"> 01:16 PM CT, Dec. 14 </p> 
@@ -352,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-kentucky-visit-tornado-damage/index.html">Biden to travel to Kentucky to survey storm damage on Wednesday</a> CNN: President Joe Biden on Monday announced he will travel to Kentucky later on this week to survey damage from tornadoes and severe storms. 
  <p class="updated_time"> 09:56 AM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/december-child-tax-credit-payment/index.html">December's child tax credit payment will be the last one unless Congress acts</a> CNN: Parents are set to get their last monthly infusion of the expanded child tax credit starting Wednesday -- unless Congress acts to extend it for another year. 
- <p class="updated_time"> 08:38 AM CT, Dec. 13 </p> 
- <a href="https://www.npr.org/2021/12/13/1063654263/congress-considers-contempt-of-congress-charge-for-mark-meadows-in-relation-to-j">Congress considers contempt of Congress charge for Mark Meadows in relation to Jan. 6</a> NPR: The congressional committee investigating the Jan. 6 attack on the U.S. Capitol will vote to recommend a contempt of Congress charge against former White House Chief of Staff Mark Meadows. 
  <p class="updated_time"> 07:34 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/email-political-misinformation.html">Now in Your Inbox: Political Misinformation</a> NYT: One of the most powerful communication tools available to politicians teems with unfounded claims and largely escapes notice. 
  <p class="updated_time"> 07:06 AM CT, Dec. 13 </p> 
