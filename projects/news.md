@@ -57,6 +57,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
  <p class="updated_time"> 11:04 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59645087?at_medium=RSS&at_campaign=KARANGA">Congolese rumba wins Unesco protected status</a> BBC: The music and dance style from the two Congos is a fundamental part of the countries' identities. 
+ <p class="updated_time"> 10:50 AM CT, Dec. 14 </p> 
+ <a href="https://www.wsj.com/articles/first-big-omicron-study-finds-two-doses-of-pfizers-vaccine-cuts-hospitalization-risk-by-70-11639495432">Study Finds Two Pfizer Vaccine Doses Offer Less Protection Against Omicron Than Against Delta</a> WSJ: The first large real-world study found that while Omicron reduced vaccine effectiveness against infection to 33% from 80% for Delta, its effect on protection against hospitalization was less marked, falling to 70% from 93%. 
+ <p class="updated_time"> 10:49 AM CT, Dec. 14 </p> 
+ <a href="https://www.wsj.com/articles/omicron-response-tests-boris-johnsons-pledge-to-keep-u-k-open-11639493134">Vaccine Rules Stir Political Resistance for U.K.'s Johnson</a> WSJ: British Prime Minister Boris Johnson faced pushback over plans to require vaccinations in certain venues to combat the Covid-19 Omicron variant, as dozens of lawmakers from his own Conservative Party voted against the measure. 
  <p class="updated_time"> 10:37 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/tunisia-saied-constitution-election.html">Tunisia’s President Promises Vote on Constitution and Sets Election Date</a> NYT: President Kais Saied’s announcement dispelled some of the uncertainty Tunisians have endured for months since he shunted aside Parliament in what critics called a soft coup. 
  <p class="updated_time"> 10:32 AM CT, Dec. 14 </p> 
@@ -73,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/gas-truck-blast-in-haiti-kills-some-40-in-latest-disaster-for-nation-11639490464">Haiti Gas-Truck Blast Kills at Least 62 People</a> WSJ: The explosion hit the hemisphere’s poorest nation, which is already contending with the recent assassination of its president, a devastating earthquake and the kidnapping of a group of mostly American missionaries. 
  <p class="updated_time"> 09:05 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59649066?at_medium=RSS&at_campaign=KARANGA">Arctic heat record is like Mediterranean, says UN</a> BBC: The highest temperature recorded in the region last year - 38C (100F) - is officially confirmed. 
- <p class="updated_time"> 08:15 AM CT, Dec. 14 </p> 
- <a href="https://www.wsj.com/articles/first-big-omicron-study-finds-two-doses-of-pfizers-vaccine-cuts-hospitalization-risk-by-70-11639495432">Study Finds Two Pfizer Vaccine Doses Offer Less Protection Against Omicron Than Against Delta</a> WSJ: The first large real-world study found that while Omicron reduced vaccine effectiveness against infection to 33% from 80% for Delta, its effect on protection against hospitalization was less marked, falling to 70% from 93%. 
  <p class="updated_time"> 07:10 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/united-arab-emirates-threatens-to-pull-out-of-23-billion-f-35-drone-deal-with-u-s-11639491997">U.A.E. Threatens to Pull Out of $23 Billion F-35, Drone Deal With U.S.</a> WSJ: The Emirati government told U.S. officials that it intended to halt the deal because Abu Dhabi thought security requirements the U.S. had laid out to safeguard the high-tech weaponry from Chinese espionage were too onerous, and the country’s national sovereignty was in jeopardy. 
  <p class="updated_time"> 06:53 AM CT, Dec. 14 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/insider/dive-bars.html">Why a Times Reporter Keeps Writing About Dive Bars</a> NYT: Attracted to the grit, equality and community of those modest watering holes, a Times reporter has worked them into his coverage. 
  <p class="updated_time"> 03:48 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/boris-johnson-uk-coronavirus.html">Boris Johnson Is in Trouble. The Question Is, How Much?</a> NYT: The British prime minister is facing a new virus variant, a rebellious Conservative Party, collapsing poll ratings and questions about whether he or his staff flouted the lockdown rules. 
- <p class="updated_time"> 03:45 AM CT, Dec. 14 </p> 
- <a href="https://www.wsj.com/articles/omicron-response-tests-boris-johnsons-pledge-to-keep-u-k-open-11639493134">Omicron Response Tests Boris Johnson's Pledge to Keep U.K. Open</a> WSJ: Since the summer, the British prime minister has pledged that England would stay largely free of Covid-19 restrictions, arguing that the U.K.’s successful vaccination campaign should permit British society to remain the most open in Europe. That pledge is starting to look like a political gamble. 
  <p class="updated_time"> 01:58 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Cementing an alliance built on mutual fear of Iran, Prime Minister Naftali Bennett met Prince Mohammed bin Zayed of the United Arab Emirates on the first official visit by an Israeli leader to the Gulf state. 
  <p class="updated_time"> 11:02 PM CT, Dec. 13 </p> 
@@ -191,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/11/world/europe/rome-christmas-tree.html">Less Mange, More Frills: Rome’s New Mayor Bets on His Christmas Tree</a> NYT: The annual Christmas tree in the Italian capital has come under scrutiny ever since a 2017 debacle. Will this year’s pass social media muster? 
  <p class="updated_time"> 12:12 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/europe/eric-zemmour-rally-france.html">Echoes of Trump at Zemmour’s Rally in France </a> NYT: Éric Zemmour, the polarizing far-right polemicist, launched his presidential campaign last week with a frenzied rally that was disrupted by a violent brawl. 
- <p class="updated_time"> 08:49 AM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/americas/mexico-truck-crash.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
  <p class="updated_time"> 08:42 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/europe/silent-film-ireland-discovery.html">Silent Films Offer Rare Glimpses of Life in 1920s Ireland</a> NYT: Shot by an American ornithologist in the early years of Irish independence, the footage turned up in the archives of the Chicago Academy of Sciences and is being restored. 
  <p class="updated_time"> 08:18 AM CT, Dec. 11 </p> 
@@ -412,8 +410,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/10/trumps-terrible-thursday-followed-by-bidens-bad-friday-495415">POLITICO Playbook: Trump’s terrible Thursday, followed by Biden’s bad Friday?</a> Politico: And the U.S. clears a hurdle in its pursuit of the extradition of Julian Assange. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy’s proxy voting opposition could reshape the House</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
- <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/17-ways-covid-hit-fast-forward-on-the-future-523845">17 pandemic innovations that are here to stay</a> Politico: During the pandemic, necessity became a mother of invention. Here are some innovations that are like to stick. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen to lawmakers: Ignore the GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
  <p class="updated_time"> 06:41 PM CT, Dec. 09 </p> 
