@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:25 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle Into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
+ <p class="updated_time"> 08:14 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59647065?at_medium=RSS&at_campaign=KARANGA">Pentagon: No US troops to be punished for Afghan drone strike</a> BBC: It follows a Pentagon review of the attack that killed an aid worker and nine of his family members. 
  <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/omicron-travel-setbacks.html">How Conflicting Guidance on Travel During the Pandemic Shows Little Progress</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
  <p class="updated_time"> 07:25 PM CT, Dec. 13 </p> 
@@ -63,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/europe/switzerland-money-laundering-case-juan-carlos.html">Swiss Prosecutors Drop Money-Laundering Case Against Juan Carlos</a> NYT: A criminal inquiry into allegations that Spain’s former king laundered illegal commission payments from Saudi Arabia related to a high-speed rail deal was closed because of insufficient evidence. 
  <p class="updated_time"> 02:13 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Prime Minister Naftali Bennett and Prince Mohammed bin Zayed of the United Arab Emirates met for four hours on the first official visit by an Israeli leader to the Gulf state. 
- <p class="updated_time"> 02:05 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
  <p class="updated_time"> 01:57 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/denmark-immigration-minister-migrants-prison.html">Former Immigration Minister in Denmark Sentenced to Prison for Separating Couples</a> NYT: Inger Stojberg was sentenced to two months’ incarceration after being found by a court to have illegally ordered the separations of married migrant couples in which at least one person was underage. 
  <p class="updated_time"> 01:05 PM CT, Dec. 13 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/health/merck-covid-pill-pregnancy-risk.html">Merck’s Covid Pill Might Pose Risks for Pregnant Women</a> NYT: Some laboratory studies suggest that molnupiravir can insert errors in DNA, which could in theory harm a developing fetus, sperm cells or children. 
  <p class="updated_time"> 09:02 AM CT, Dec. 13 </p> 
  <a href="https://www.wsj.com/articles/israeli-u-a-e-leaders-meet-amid-flurry-of-middle-east-diplomacy-11639413346">Fear of Iran, Shrinking U.S. Role in Middle East Push Rivals Together</a> WSJ: The first-ever official meeting Monday between Israel’s prime minister and the United Arab Emirates’ de facto leader were driven in part by Iran nuclear talks and worries over a shrinking U.S. regional role. 
- <p class="updated_time"> 08:43 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59636123?at_medium=RSS&at_campaign=KARANGA">Russia explosion: Teen detonates device at Orthodox convent school</a> BBC: A number of people were injured after the blast at an Orthodox school near a nunnery outside Moscow. 
  <p class="updated_time"> 08:16 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.html">South Korean City to Test Facial Recognition to Track the Coronavirus</a> NYT: Officials hope the system can help reveal the movements of people who test positive and their interactions with others, making contact tracing easier. 
  <p class="updated_time"> 08:01 AM CT, Dec. 13 </p> 
@@ -198,10 +198,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:21 PM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/news/2021/12/13/jan-6-rally-organizers-sue-verizon-524189">Jan. 6 rally organizers sue Verizon to block release of cell phone data to congressional committee</a> Politico: The lawsuit said the plaintiffs have personally complied with the committee’s investigation. 
+ <p class="updated_time"> 08:34 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html">January 6 panel unveils text messages to Meadows from Don Jr. and Fox hosts as contempt charge advances</a> CNN: The House select committee investigating the January 6 riot at the US Capitol is prepared to vote Monday on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal contempt of Congress charges. 
+ <p class="updated_time"> 08:19 PM CT, Dec. 13 </p> 
+ <a href="https://www.npr.org/2021/12/13/1063955835/rep-liz-cheney-read-text-messages-she-said-mark-meadows-got-during-the-jan-6-sie">Rep. Liz Cheney read text messages she said Mark Meadows got during the Jan. 6 siege</a> NPR: In the messages, Donald Trump Jr. and Fox News hosts Laura Ingraham and Sean Hannity urge Meadows to get then-President Donald Trump to tell his supporters to leave the Capitol. 
  <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/hes-got-to-condemn-this-shit-panel-releases-urgent-jan-6-texts-from-trump-jr-lawmakers-524188">‘He’s got to condemn this …’: Panel releases urgent Jan. 6 texts from Donald Trump Jr., lawmakers and Fox hosts</a> Politico: House investigators held Mark Meadows in criminal contempt after releasing a trove of messages aimed at getting President Donald Trump to take stronger action amid the Capitol riot. 
- <p class="updated_time"> 08:02 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html">January 6 panel unveils text messages to Meadows from Don Jr. and Fox hosts as contempt charge advances</a> CNN: The House select committee investigating the January 6 riot at the US Capitol is prepared to vote Monday on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal contempt of Congress charges. 
  <p class="updated_time"> 07:56 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/mark-meadows-contempt.html">Jan. 6 Committee Recommends Contempt Charge for Mark Meadows</a> NYT: The panel sent a criminal contempt of Congress referral to the full House, as the extent of Mark Meadows’s role in President Donald J. Trump’s efforts to overturn the election became clearer. 
  <p class="updated_time"> 07:17 PM CT, Dec. 13 </p> 
@@ -354,10 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/11/middle-class-joe-visits-late-night-jimmy-495429">POLITICO Playbook: ‘Middle-class Joe’ visits late-night Jimmy</a> Politico: And what the Supreme Court's Texas ruling means for Roe v. Wade. 
  <p class="updated_time"> 09:19 AM CT, Dec. 11 </p> 
  <a href="https://www.cnn.com/2021/12/11/politics/joe-biden-tonight-show-jimmy-fallon/index.html">Biden talks Washington partisanship in first late-night interview as president</a> CNN: President Joe Biden lamented hyper-partisanship in Washington in his first late-night interview since taking office, saying that while he used to have a cordial relationship with Republicans, "the Big Lie ... makes it awful hard." 
- <p class="updated_time"> 07:04 AM CT, Dec. 11 </p> 
- <a href="https://www.npr.org/2021/12/11/1063337627/what-russell-kansas-meant-to-late-senator-bob-dole">What Russell, Kansas, meant to late Senator Bob Dole</a> NPR: Senator Bob Dole's remains lie in repose in his hometown of Russell, Kansas, where residents once raised funds for his recovery from war wounds, and later, helped launch his long political career. 
- <p class="updated_time"> 07:01 AM CT, Dec. 11 </p> 
- <a href="https://www.politico.com/news/2021/12/11/malinowski-suporters-redistricting-524098">Malinowski supporters flood the zone, fearing he’ll be ‘sacrificed’ in redistricting</a> Politico: It’s an aggressive approach that’s alienated some in his party. But Malinowski, one of the nation’s most endangered incumbents, doesn’t have much choice. 
  <p class="updated_time"> 07:01 AM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/soaring-inflation-wealth-racial-disparities-524111">Soaring inflation could hamper Biden’s effort to narrow wealth, racial disparities</a> Politico: Biden campaigned on addressing structural inequities. Rising prices could jeopardize that. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
