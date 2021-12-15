@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:14 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/europe/malta-eu-marijuana-legalize.html">Malta Becomes First E.U. Country to Legalize Marijuana</a> NYT: The government said that the new law was aimed at ending the criminalization of people for smoking the drug and at reducing criminal trafficking. 
  <p class="updated_time"> 08:51 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/15/1064432010/omicron-spread-variant-coronavirus">Omicron spreads faster than any other variant, WHO says. It's now in 77 countries</a> NPR: "Omicron is spreading at a rate we have not seen with any previous variant," says WHO director-general Tedros Adhanom Ghebreyesus. 
  <p class="updated_time"> 08:51 AM CT, Dec. 15 </p> 
@@ -16,7 +18,11 @@ permalink: /projects/news/
  <p class="updated_time"> 08:15 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/africa/ethiopia-abiy-ahmed-nobel-war.html">The Nobel Peace Prize That Paved the Way for War in Ethiopia</a> NYT: This is the story behind how Ethiopia’s prime minister, Abiy Ahmed, won a Nobel Prize for making peace with his country’s longtime enemy — and then used the alliance to plan a war. 
  <p class="updated_time"> 07:54 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59637586?at_medium=RSS&at_campaign=KARANGA">On the front line as Afghan children battle malnutrition and measles</a> BBC: The BBC reports from a hospital in remote Ghor province which is struggling to cope. 
+ <p class="updated_time"> 07:54 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/omicron-hong-kong-study.html">Two Doses of China's Sinovac Inadequate Against Omicron, Hong Kong Study Suggests</a> NYT: Laboratory experiments suggest that the Chinese vaccine provides little protection against an Omicron infection. 
+ <p class="updated_time"> 07:42 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/sport/av/formula1/59671505?at_medium=RSS&at_campaign=KARANGA">Hamilton gets knighthood for services to motorsport</a> BBC: Seven-time Formula 1 world champion Lewis Hamilton receives his knighthood for services to motorsport from Prince Charles during a ceremony at Windsor Castle. 
  <p class="updated_time"> 07:33 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/gop-governors-vaccine-pentagon.html">5 Republican Governors Seek Vaccine Exemptions for National Guard Troops</a> NYT: The move comes as the Pentagon released a new order this week saying that National Guard members who do not get vaccinated would receive a general order of reprimand, essentially ending their careers. 
  <p class="updated_time"> 07:31 AM CT, Dec. 15 </p> 
@@ -83,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59576108?at_medium=RSS&at_campaign=KARANGA">China: The death of a man bullied for being 'effeminate'</a> BBC: A young man's death sparks discussions on gender norms, even as the state targets "sissy men". 
  <p class="updated_time"> 06:12 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59646562?at_medium=RSS&at_campaign=KARANGA">Southern right whales: Tracking unexpected Southern Ocean migrations</a> BBC: New Zealand scientists have used satellite tags to follow whales around the Southern Ocean. 
- <p class="updated_time"> 06:07 PM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59645307?at_medium=RSS&at_campaign=KARANGA">Covid-19: US surpasses 800,000 pandemic deaths</a> BBC: More than a quarter of lives lost in the pandemic came after all US adults were eligible for a vaccine. 
  <p class="updated_time"> 06:07 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Gasoline Truck in Haiti Explodes, Killing More Than 60</a> NYT: Scores more were injured in the blast, the latest tragedy to hit a country that has been rocked by political violence, natural disasters, poverty and hunger. 
  <p class="updated_time"> 05:50 PM CT, Dec. 14 </p> 
@@ -185,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/africa/cyril-ramaphosa-covid.html">South Africa’s president tests positive for the coronavirus.</a> NYT: The 69-year-old leader was displaying mild Covid-19 symptoms. New cases in the country are rising quickly. 
  <p class="updated_time"> 05:00 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1062498943/latin-grammy-winner-to-cuban-leaders-were-done-with-your-lies-and-indoctrination">Latin Grammy winner to Cuban leaders: 'We're done with your lies and indoctrination'</a> NPR: Afro-Cuban rapper Yotuel Romero discusses the song that  won Song of the Year and inspired protesters in one of the biggest waves of demonstrations in Cuba in decades. 
- <p class="updated_time"> 04:39 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president has prioritized shoring up the country’s international profile, seeing its military  as a bulwark against China. 
  <p class="updated_time"> 04:04 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/hongkong-jimmy-lai-tiananmen.html">Hong Kong Court Sentences Jimmy Lai to Prison Over Tiananmen Vigil</a> NYT: The former media mogul and other prominent pro-democracy activists were previously convicted of inciting others to take part in an unauthorized assembly. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
@@ -204,7 +206,9 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:21 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/blinken-trip-cut-short-covid-524622">Blinken cuts foreign trip short over Covid concerns</a> Politico: In a call with Thai Deputy Prime Minister and Foreign Minister Don Pramudwinai, Blinken “expressed his deep regret” that he would not be traveling on to Bangkok. 
- <p class="updated_time"> 08:52 AM CT, Dec. 15 </p> 
+ <p class="updated_time"> 09:16 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/ilhan-omar-house-debate-islamophobia.html">Republican Rebuked for Anti-Muslim Remarks in ‘Islamophobia’ Debate</a> NYT: A conservative Republican accused Ilhan Omar, the sponsor of a House bill to combat anti-Muslim bias, of terrorist sympathies. 
+ <p class="updated_time"> 08:58 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/joe-biden-mark-meadows-contempt/index.html">Biden says Meadows seems 'worthy of being held in contempt' for failing to appear for interview with Jan. 6 committee</a> CNN: President Joe Biden on Wednesday suggested Mark Meadows was "worthy" of being in held in contempt of Congress after the Democratic-controlled House referred the ex-White House chief of staff to the Department of Justice for failing to appear for a deposition with the committee investigating the January 6 attack on the US Capitol. 
  <p class="updated_time"> 08:20 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/biden-judicial-nominations-trump/index.html">Biden to surpass Trump in first-year judicial nominees; a window into a major Dem push </a> CNN: President Joe Biden will soon announce his latest wave of nine judicial nominees, according to a White House official, capping a year where the selections -- and an effort to establish an imprint on the federal courts -- served as a focal point for his administration. 
@@ -256,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/15/1064114046/congress-votes-to-raise-the-debt-ceiling-punting-the-next-fight-to-2023">Congress votes to raise the debt ceiling, punting the next fight to 2023</a> NPR: Congress approved a measure to increase the debt limit by $2.5 trillion, shifting the deadline for default until after the 2022 midterm elections. 
  <p class="updated_time"> 11:21 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/mark-meadows-january-6-committee-donald-trump/index.html">Meadows contempt vote shows growing power of January 6 committee </a> CNN: The House of Representatives staked out a dramatic new defense of democracy by citing Mark Meadows for criminal contempt over his refusal to testify about Donald Trump's coup attempt on January 6. 
- <p class="updated_time"> 10:41 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/ilhan-omar-house-debate-islamophobia.html">Muslim Lawmaker Comes Under Fire in House Debate on ‘Islamophobia’</a> NYT: A conservative Republican accused Ilhan Omar, the sponsor of a House bill to combat anti-Muslim bias, of terrorist sympathies. 
  <p class="updated_time"> 10:40 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/meadows-congress-justice-department-referral/index.html">House votes to refer Mark Meadows to Justice Department for contempt of Congress</a> CNN: The House is set to vote on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal charges for failing to appear for a deposition with the select committee investigating the January 6 attack. 
  <p class="updated_time"> 10:07 PM CT, Dec. 14 </p> 
