@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:53 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html">Putin and Xi Hold Video Summit</a> NYT: President Vladimir V. Putin and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West but have not yet declared a formal alliance. 
+ <p class="updated_time"> 05:51 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-russia-berlin-murder.html">Russian Is Convicted in Murder of Chechen Man in a Berlin Park</a> NYT: The head judge in the case said the 2019 killing in broad daylight had been “meticulously prepared.” 
  <p class="updated_time"> 05:06 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59664076?at_medium=RSS&at_campaign=KARANGA">German raids on Covid extremists over Saxony leader death plot</a> BBC: Far-right anti-vaccination activists are suspected of plotting to kill Saxony leader Michael Kretschmer. 
  <p class="updated_time"> 05:05 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/north-korea-kpop-executions.html">North Korea Executes People for Watching K-Pop, Rights Group Says</a> NYT: At least seven people have been put to death in the past decade for watching or distributing K-pop videos, as the North cracks down on what its leader calls a “vicious cancer.” 
- <p class="updated_time"> 04:20 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html">Putin and Xi Hold Video Summit</a> NYT: President Vladimir V. Putin and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West over Ukraine, Taiwan and other issues. 
  <p class="updated_time"> 04:09 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59665825?at_medium=RSS&at_campaign=KARANGA">Jacob Zuma: South African court orders ex-president back to jail</a> BBC: Jacob Zuma was granted medical parole after being sentenced to serve 15 months in jail. 
  <p class="updated_time"> 04:06 AM CT, Dec. 15 </p> 
@@ -22,7 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1063830104/portugal-covid-vaccines-omicron-variant">Portugal has a high vaccination rate but it isn't taking chances with omicron</a> NPR: Scientists are watching how Portugal and other highly vaccinated countries are faring against the coronavirus' new omicron variant. 
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/africa/ethiopia-abiy-ahmed-nobel-war.html">The Nobel Peace Prize That Paved the Way for War</a> NYT: This is the story behind how Ethiopia’s prime minister, Abiy Ahmed, won a Nobel Prize for making peace with his country’s longtime enemy — and then used the alliance to plan a war. 
+ <a href="https://www.nytimes.com/2021/12/15/world/africa/ethiopia-abiy-ahmed-nobel-war.html">The Nobel Peace Prize That Paved the Way for War in Ethiopia</a> NYT: This is the story behind how Ethiopia’s prime minister, Abiy Ahmed, won a Nobel Prize for making peace with his country’s longtime enemy — and then used the alliance to plan a war. 
  <p class="updated_time"> 03:51 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59663826?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Fire at World Trade Centre leaves more than 100 trapped on roof</a> BBC: The fire broke out in a machine room which eventually led to the scaffolding catching fire. 
  <p class="updated_time"> 03:36 AM CT, Dec. 15 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59659543?at_medium=RSS&at_campaign=KARANGA">Russia told to pay compensation to woman whose hands were cut off</a> BBC: Europe's top human rights court says authorities failed to protect her against domestic violence. 
  <p class="updated_time"> 12:10 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
- <p class="updated_time"> 11:18 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
  <p class="updated_time"> 10:50 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/first-big-omicron-study-finds-two-doses-of-pfizers-vaccine-cuts-hospitalization-risk-by-70-11639495432">Study Finds Two Pfizer Vaccine Doses Offer Less Protection Against Omicron Than Against Delta</a> WSJ: The first large real-world study found that while Omicron reduced vaccine effectiveness against infection to 33% from 80% for Delta, its effect on protection against hospitalization was less marked, falling to 70% from 93%. 
  <p class="updated_time"> 10:37 AM CT, Dec. 14 </p> 
