@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:40 AM CT, Dec. 15 </p> 
+ <p class="updated_time"> 03:06 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59665825?at_medium=RSS&at_campaign=KARANGA">Jacob Zuma: South African court orders ex-president back to jail</a> BBC: Jacob Zuma was granted medical parole after being sentenced to serve 15 months in jail. 
+ <p class="updated_time"> 02:57 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat Carrying Indonesian Migrants Sinks Near Malaysia, Killing at Least 10</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving 29 others missing, officials said. 
  <p class="updated_time"> 02:39 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59665125?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Dozens stranded on roof after World Trade Centre fire</a> BBC: Footage obtained by the BBC shows people crowded amongst the roof's scaffolding awaiting rescue. 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/europe/greece-covid-school-abduction.html">Three Jailed in Greece After a Principal was Handcuffed Over Virus Measures</a> NYT: Police said a group of people handcuffed the principal on Friday and drove him to a local precinct, suggesting that officers arrest him for enforcing Covid measures. 
  <p class="updated_time"> 01:55 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59663826?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Fire at World Trade Centre leaves more than 100 trapped on roof</a> BBC: The fire broke out in a machine room which eventually led to the scaffolding catching fire. 
- <p class="updated_time"> 11:39 PM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59661857?at_medium=RSS&at_campaign=KARANGA">US Congress narrowly votes to raise debt limit</a> BBC: The measure, which raises the limit by $2.5tr (£1.9tr), comes days before a potential US default. 
  <p class="updated_time"> 11:36 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-59662421?at_medium=RSS&at_campaign=KARANGA">South Korean dairy giant apologises for controversial advert</a> BBC: The company also faced a backlash over the advert's similarity to "molka", or secret filming. 
  <p class="updated_time"> 10:56 PM CT, Dec. 14 </p> 
