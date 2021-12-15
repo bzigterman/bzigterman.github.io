@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:21 PM CT, Dec. 15 </p> 
+ <p class="updated_time"> 02:32 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-omicron-surge.html">Why Britain Thinks Omicron Infected 200,000 People on Monday</a> NYT: Experts called it ‘a back-of-the-envelope calculation’ that showed how quickly the variant spreads, but also how little is known about it. 
+ <p class="updated_time"> 02:27 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-covid-restrictions.html">Conservatives Abandon Johnson Over New Covid Rules</a> NYT: A record number of Prime Minister Boris Johnson’s fellow party members voted against his plan for Covid certificates. But the plan passed with the help of the opposition. 
  <p class="updated_time"> 01:50 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-covid-record-cases.html">Britain Breaks Daily Record for New Virus Cases</a> NYT: Officials didn’t specify what share of the new cases might be Omicron, though they said a majority in London were from the variant. 
  <p class="updated_time"> 01:24 PM CT, Dec. 15 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Gasoline Truck in Haiti Explodes, Killing More Than 60</a> NYT: Scores more were injured in the blast, the latest tragedy to hit a country that has been rocked by political violence, natural disasters, poverty and hunger. 
  <p class="updated_time"> 05:50 PM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/house-tackles-ban-on-imports-from-chinas-xinjiang-region-11639524574">House Votes to Ban Imports From China's Xinjiang on Labor Concern</a> WSJ: A bipartisan agreement was reached with the Senate on the language of the Uyghur Forced Labor Prevention Act. 
- <p class="updated_time"> 05:30 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-covid-restrictions.html">Conservatives Abandon Johnson Over New Covid Rules</a> NYT: A record number of Prime Minister Boris Johnson’s fellow party members voted against his plan for Covid certificates. But the plan passed with the help of the opposition. 
  <p class="updated_time"> 04:37 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59658663?at_medium=RSS&at_campaign=KARANGA">Billie Eilish says porn exposure while young caused nightmares</a> BBC: The singer-songwriter spoke about how "abusive" pornography skewed her early sexual experiences. 
  <p class="updated_time"> 04:28 PM CT, Dec. 14 </p> 
@@ -202,16 +202,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:36 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/business/economy/inflation-fed-fomc-meeting-december-2021.html">Fed Could Raise Rates 3 Times in 2022, Speeds End of Bond-Buying</a> NYT: Federal Reserve officials suggested as many as three interest rate increases in 2022 as the economy heals and inflation persists. 
+ <p class="updated_time"> 02:28 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/senate-vote-ndaa/index.html">Senate passes annual defense bill authorizing $770 billion in Pentagon funding</a> CNN: The National Defense Authorization Act, the annual must-pass defense bill that authorizes $770 billion in funding for the Defense Department, is set to pass the Senate on Wednesday with a bipartisan vote. 
+ <p class="updated_time"> 02:27 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
  <p class="updated_time"> 02:21 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/federal-reserve-rate-hikes-economy-524774">Fed clears path for multiple rate hikes for next year</a> Politico: The Fed plans to cease its bond buys entirely by March, rather than its earlier target of June to give itself room to begin raising interest rates as early as the second quarter of next year. 
  <p class="updated_time"> 02:02 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/elizabeth-warren-expand-supreme-court/index.html">Elizabeth Warren calls for expansion of Supreme Court, saying current court is a threat to democracy</a> CNN: Massachusetts Sen. Elizabeth Warren on Wednesday called for the US Supreme Court to be expanded with more justices and said that the current court "threatens the democratic foundations of our nation." 
  <p class="updated_time"> 02:01 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/manchin-child-tax-credit-biden-build-back-better/index.html">Talks between Manchin and Biden at standstill as Build Back Better likely stalled until next year</a> CNN: Senate Democrats are expected to punt consideration of the cornerstone element of President Joe Biden's agenda into next year after private conversations between Biden and the key Democratic holdout made clear the bill would not have the votes to pass this month. 
- <p class="updated_time"> 01:49 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/business/economy/inflation-fed-fomc-meeting-december-2021.html">Fed Could Raise Rates 3 Times in 2022, Speeds End of Bond-Buying</a> NYT: Federal Reserve officials suggested as many as three interest rate increases in 2022 as the economy heals and inflation persists. 
- <p class="updated_time"> 01:31 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
  <p class="updated_time"> 01:08 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064478567/inflation-hot-federal-reserve-interest-rates-bond-taper">Inflation is still red hot, and it's forcing the Federal Reserve into a new game plan</a> NPR: The Federal Reserve is opening the door to possible interest rate hikes earlier next year than had been expected, as it wrestles with the highest inflation in nearly four decades. 
  <p class="updated_time"> 01:04 PM CT, Dec. 15 </p> 
@@ -234,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-kentucky-tornado.html">Biden Visits Kentucky to See Storm Damage</a> NYT: President Biden is visiting the state in an effort to offer comfort to victims and highlight the federal government’s response to devastating tornadoes. 
  <p class="updated_time"> 11:39 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/navy-kicks-out-sailors-vaccine-524693">Navy starts kicking out sailors for refusing Covid vaccine as Republicans rage over mandate</a> Politico: The move comes as the Air Force begins discharging service members for not taking the shot. 
- <p class="updated_time"> 11:25 AM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/senate-vote-ndaa/index.html">Senate passes annual defense bill authorizing $770 billion in Pentagon funding</a> CNN: The National Defense Authorization Act, the annual must-pass defense bill that authorizes $770 billion in funding for the Defense Department, is set to pass the Senate on Wednesday with a bipartisan vote. 
  <p class="updated_time"> 11:10 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/cnn-poll-economy/index.html">CNN Poll: Most say government is doing too little to fix inflation and the supply chain</a> CNN: Americans' impressions of the nation's economy remain gloomy and broad majorities think the federal government has done too little to try to solve problems with the nation's supply chain and rising inflation, according to a new CNN Poll conducted by SSRS. 
  <p class="updated_time"> 11:07 AM CT, Dec. 15 </p> 
