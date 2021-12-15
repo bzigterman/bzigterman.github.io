@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:39 PM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59661857?at_medium=RSS&at_campaign=KARANGA">US Congress narrowly votes to raise debt limit</a> BBC: The measure, which raises the limit by $2.5tr (£1.9tr), comes days before a potential US default. 
  <p class="updated_time"> 10:56 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59661306?at_medium=RSS&at_campaign=KARANGA">Mark Meadows: Trump ex-chief of staff in contempt of Congress</a> BBC: The Democrat-led House of Representatives rebuked Mark Meadows for defying a congressional panel. 
  <p class="updated_time"> 10:50 PM CT, Dec. 14 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59659543?at_medium=RSS&at_campaign=KARANGA">Russia told to pay compensation to woman whose hands were cut off</a> BBC: Europe's top human rights court says authorities failed to protect her against domestic violence. 
  <p class="updated_time"> 12:10 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
- <p class="updated_time"> 11:52 AM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59657761?at_medium=RSS&at_campaign=KARANGA">Toronto police release video of 'suspect' in billionaires' 2017 murders</a> BBC: Barry and Honey Sherman were found dead at home four years ago, but police have made no arrests. 
  <p class="updated_time"> 11:18 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
  <p class="updated_time"> 10:50 AM CT, Dec. 14 </p> 
@@ -206,9 +206,11 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:41 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/house-islam-omar-perry-boebert-524536">Amid caustic rhetoric, House votes to combat Islamophobia</a> Politico: Rep. Scott Perry accused Rep. Ilhan Omar of connections to terrorism. 
- <p class="updated_time"> 11:25 PM CT, Dec. 14 </p> 
+ <p class="updated_time"> 11:40 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Congress Approves $2.5 Trillion Debt Limit Increase, Sending It to Biden</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
- <p class="updated_time"> 11:24 PM CT, Dec. 14 </p> 
+ <p class="updated_time"> 11:35 PM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/15/1064114046/congress-votes-to-raise-the-debt-ceiling-punting-the-next-fight-to-2023">Congress votes to raise the debt ceiling, punting the next fight to 2023</a> NPR: Congress approved a measure to increase the debt limit by $2.5 trillion, shifting the deadline for default until after the 2022 midterm elections. 
+ <p class="updated_time"> 11:29 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/senate-votes-debt-limit-congress-deadline/index.html">Congress votes to increase debt limit by $2.5 trillion extending into 2023</a> CNN: The Senate is on track to vote on Tuesday to raise the national debt limit as lawmakers race to avert a catastrophic default ahead of a critical mid-week deadline. 
  <p class="updated_time"> 11:05 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/trump-organization-investigation-grand-jury-donald-bender/index.html">Trump accountant has testified before NY grand jury in criminal investigation, sources say</a> CNN: A key accountant to Donald Trump appeared before a Manhattan grand jury investigating the former President's business practices earlier this year, two people familiar with the matter confirmed to CNN on Tuesday. 
@@ -311,7 +313,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
  <a href="https://subscriber.politicopro.com/states/new-york/city-hall/whiteboard/2021/12/14/legal-aid-sues-to-compel-state-to-reopen-rent-relief-program-9428027">Legal Aid sues to compel state to reopen rent relief program</a> Politico: The Legal Aid Society is suing to force the state to resume accepting applications to its emergency rental assistance program. Details: The organization charges in a new class-action lawsuit that the closure of the program in mid-November was unlawful and has put “pote… 
  <p class="updated_time"> 11:53 AM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/democrats-raise-debt-ceiling-524204">Senate passes $2.5T debt limit increase, sends to House</a> Politico: The new ceiling is expected to carry spending until after the 2022 midterms. 
+ <a href="https://www.politico.com/news/2021/12/14/democrats-raise-debt-ceiling-524204">Congress clears $2.5T debt limit increase, forestalling economic fallout</a> Politico: The new ceiling is expected to carry spending until after the 2022 midterms. 
  <p class="updated_time"> 11:43 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064047804/where-things-stand-with-the-monthly-expanded-child-tax-credit-payments">Where things stand with the monthly expanded child tax credit payments</a> NPR: Because an extension of the child tax credit is tied in with President Biden's Build Back Better social spending plan, it remains unclear whether the monthly payments will continue beyond this year. 
  <p class="updated_time"> 11:32 AM CT, Dec. 14 </p> 
@@ -376,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-vaccine-mandate-new-york-healthcare.html">Supreme Court Allows Vaccine Mandate for New York Health Care Workers</a> NYT: Doctors and nurses challenged a state coronavirus vaccine requirement that had medical but not religious exemptions, saying it violated their right to free exercise of their faiths. 
  <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/defense-claims-politics-fortenberry-indictment-524164">Defense claims politics behind indictment of Rep. Jeff Fortenberry</a> Politico: A federal judge in Los Angeles heard arguments on the Nebraska Republican’s bid to toss out the criminal false-statement case. 
- <p class="updated_time"> 03:28 PM CT, Dec. 13 </p> 
- <a href="https://www.npr.org/2021/12/13/1063824307/cop26-president-alok-sharma-on-the-road-ahead-after-glasgow">COP26 president Alok Sharma on the road ahead after Glasgow</a> NPR: NPR's Ari Shapiro speaks with COP26 president Alok Sharma about promises and agreements made at the recent climate summit in Glasgow and what more needs to be done. 
  <p class="updated_time"> 01:48 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
