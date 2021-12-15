@@ -206,6 +206,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:41 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/house-islam-omar-perry-boebert-524536">Amid caustic rhetoric, House votes to combat Islamophobia</a> Politico: Rep. Scott Perry accused Rep. Ilhan Omar of connections to terrorism. 
+ <p class="updated_time"> 11:25 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Congress Approves $2.5 Trillion Debt Limit Increase, Sending It to Biden</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
+ <p class="updated_time"> 11:24 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/senate-votes-debt-limit-congress-deadline/index.html">Congress votes to increase debt limit by $2.5 trillion extending into 2023</a> CNN: The Senate is on track to vote on Tuesday to raise the national debt limit as lawmakers race to avert a catastrophic default ahead of a critical mid-week deadline. 
  <p class="updated_time"> 11:05 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/trump-organization-investigation-grand-jury-donald-bender/index.html">Trump accountant has testified before NY grand jury in criminal investigation, sources say</a> CNN: A key accountant to Donald Trump appeared before a Manhattan grand jury investigating the former President's business practices earlier this year, two people familiar with the matter confirmed to CNN on Tuesday. 
  <p class="updated_time"> 10:48 PM CT, Dec. 14 </p> 
@@ -238,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/garcetti-new-delhi-524273">Senate toasts Eric Garcetti nomination, despite the red flags back home</a> Politico: The L.A. mayor had his confirmation hearing Tuesday. Only one member asked him about the misconduct allegations his top aide is facing. 
  <p class="updated_time"> 06:31 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/iran-nuclear-united-nations-524274">U.N. nuclear chief says view of Iran ‘blurred’</a> Politico: Rafael Mariano Grossi said Iran must work with international inspectors. 
- <p class="updated_time"> 06:31 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Senate Passes $2.5 Trillion Debt Limit Increase, Sending It to the House</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
  <p class="updated_time"> 06:02 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/democrats-cruz-hawley-biden-ambassadors-524220">Dems launch talks to break Cruz-Hawley blockade of Biden ambassadors</a> Politico: But while the price for one GOP 2024 contender's help is clear, another is less open about what it'll take to ease his holds. 
  <p class="updated_time"> 05:59 PM CT, Dec. 14 </p> 
@@ -262,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/us/politics/amtrak-vaccine-mandate.html">Amtrak Drops Its Vaccine Mandate, Avoiding Cuts to Service</a> NYT: The shift in policy means that Amtrak officials no longer anticipate cuts to service next month. 
  <p class="updated_time"> 05:33 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064266940/ethics-panel-andrew-cuomos-book-deal-money-more-than-5-million">New York ethics panel wants former Gov. Cuomo to turn in the cash from his book deal</a> NPR: The Joint Commission on Public Ethics says the disgraced former governor violated the terms of its conditional approval to write the book and it wants him give to the state the money. 
- <p class="updated_time"> 05:23 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/senate-votes-debt-limit-congress-deadline/index.html">Senate votes to increase debt limit by $2.5 trillion extending into 2023</a> CNN: The Senate is on track to vote on Tuesday to raise the national debt limit as lawmakers race to avert a catastrophic default ahead of a critical mid-week deadline. 
  <p class="updated_time"> 05:20 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/liz-cheney-trump-republicans/index.html">Liz Cheney's latest move against Trump highlights her distinct path among Republicans </a> CNN: Televisions and phone screens lit up Monday night with the face of Rep. Liz Cheney as she slowly read text messages sent on January 6 to former President Donald Trump's chief of staff. 
  <p class="updated_time"> 05:17 PM CT, Dec. 14 </p> 
