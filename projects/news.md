@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:50 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/omicron-hong-kong-study.html">Two Doses of China's Sinovac Inadequate Against Omicron, Hong Kong Study Suggests</a> NYT: The research suggests that the Chinese vaccine had little effect against Omicron and that the efficacy of the Pfizer-BioNTech vaccine seemed to wane. 
+ <p class="updated_time"> 06:40 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/africa/jacob-zuma-prison-south-africa.html">Jacob Zuma Must Return to Prison, South Africa Judge Rules</a> NYT: The former president had been granted medical parole two months into a 15-month prison sentence on contempt charges linked to a corruption inquiry. 
+ <p class="updated_time"> 06:39 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59667937?at_medium=RSS&at_campaign=KARANGA">German court jails hitman for Berlin murder on Russia's orders</a> BBC: A court finds Vadim Krasikov guilty of an ex-Chechen rebel's murder, which it says Russia ordered. 
  <p class="updated_time"> 06:17 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59665825?at_medium=RSS&at_campaign=KARANGA">Jacob Zuma: South African court orders ex-president back to jail</a> BBC: Jacob Zuma was granted medical parole after being sentenced to serve 15 months in jail. 
- <p class="updated_time"> 06:16 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59667937?at_medium=RSS&at_campaign=KARANGA">German court jails hitman for Berlin murder on Russia's orders</a> BBC: A court finds Vadim Krasikov guilty of an ex-Chechen rebel's murder, which it says Russia ordered. 
- <p class="updated_time"> 06:01 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/africa/jacob-zuma-prison-south-africa.html">Jacob Zuma Must Return to Prison, South Africa Judge Rules</a> NYT: The former president had been granted medical parole two months into a 15-month prison sentence on contempt charges linked to a corruption inquiry. 
  <p class="updated_time"> 05:59 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat Carrying Indonesian Migrants Sinks Near Malaysia, Killing at Least 11</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving 25 others missing, officials said. 
  <p class="updated_time"> 05:53 AM CT, Dec. 15 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/travel/mount-etna-olive-oil.html">Cultivating Olives on the Slopes of Mount Etna</a> NYT: For millenniums, farmers and vintners in northeastern Sicily have benefited from the area’s mineral-rich soil, a result of volcanic eruptions. 
  <p class="updated_time"> 12:42 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
- <p class="updated_time"> 12:32 PM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/11/world/europe/rome-christmas-tree.html">Less Mange, More Frills: Rome’s New Mayor Bets on His Christmas Tree</a> NYT: The annual Christmas tree in the Italian capital has come under scrutiny ever since a 2017 debacle. Will this year’s pass social media muster? 
 
 
 </details>
@@ -202,8 +202,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:24 AM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/trump-irs-disclosure-tax/index.html">Trump suffers big court loss in his bid to keep his tax records secret</a> CNN: A federal judge on Tuesday dismissed former President Donald Trump's bid in court to stop the Treasury Department from turning over his tax returns to the House. 
+ <p class="updated_time"> 07:35 AM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2021/12/15/house-is-home-for-the-holidays-senate-sticks-around-495473">House is home for the holidays, Senate sticks around</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:29 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/trump-irs-disclosure-tax/index.html">Trump tells court he'll appeal ruling that would allow House to obtain his tax returns</a> CNN: A federal judge on Tuesday dealt a blow to former President Donald Trump's bid to keep his tax returns from Congress, ruling that the Treasury Department could disclose them to the House committee that requested them more than two years ago. 
  <p class="updated_time"> 06:19 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/15/a-junkies-guide-to-the-2022-midterms-495470">POLITICO Playbook: A junkie’s guide to the 2022 midterms</a> Politico: And the House votes to hold Mark Meadows in contempt of Congress. 
  <p class="updated_time"> 06:09 AM CT, Dec. 15 </p> 
