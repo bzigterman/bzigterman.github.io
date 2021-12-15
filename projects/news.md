@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:52 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/business/economy/turkey-inflation-economy-lira.html">How Inflation Affects Turkey's Struggling Economy</a> NYT: Even before the pandemic, Turkey was trying to ward off financial meltdown. The crisis has accelerated as President Recep Tayyip Erdogan has doubled down on his unorthodox policies. 
  <p class="updated_time"> 09:25 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 08:25 PM CT, Dec. 14 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064220992/a-gloomy-report-card-from-the-arctic">A gloomy report card from the Arctic</a> NPR: NPR's Ari Shapiro talks with Twila Moon, co-editor of the National Oceanic and Atmospheric Administration's 2021 Arctic Report Card, which shows oceans warming and sea ice disappearing. 
  <p class="updated_time"> 03:23 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1061302961/most-nations-are-promising-to-end-deforestation-but-skeptics-want-proof">Most nations are promising to end deforestation, but skeptics want proof</a> NPR: More than a hundred countries just promised to protect and restore forests. Similar pledges in the past have not succeeded, but forest advocates hope that this effort can learn from past mistakes. 
- <p class="updated_time"> 03:16 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/business/economy/turkey-inflation-economy-lira.html">How Inflation Affects Turkey's Struggling Economy</a> NYT: Even before the pandemic, Turkey was trying to ward off financial meltdown. The crisis has accelerated as President Recep Tayyip Erdogan has doubled down on his unorthodox policies. 
  <p class="updated_time"> 03:14 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59660856?at_medium=RSS&at_campaign=KARANGA">Malta becomes first EU nation to legalise cannabis</a> BBC: The landmark move is expected to be followed by more European countries. 
  <p class="updated_time"> 02:41 PM CT, Dec. 14 </p> 
@@ -273,7 +273,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:13 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/omicron-federal-funds.html">Biden’s administration may need more funds to fight Omicron.</a> NYT: With the pandemic heading into its third year, much of the money that Congress has allocated for coronavirus response has been spent. 
  <p class="updated_time"> 04:02 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/business/how-fdic-board-members-are-trying-to-oust-the-chairwoman-a-trump-holdover.html">F.D.I.C. Meeting Is Followed by Scathing Statements</a> NYT: A dispute believed by some experts to be part of an effort by Democrats to unseat the chairwoman of the Federal Deposit Insurance Corporation board, a Trump appointee, spilled into public view last week. 
+ <a href="https://www.nytimes.com/2021/12/14/business/fdic-board-meeting-chopra-mcwilliams.html">F.D.I.C. Meeting Is Followed by Scathing Statements</a> NYT: A dispute believed by some experts to be part of an effort by Democrats to unseat the chairwoman of the Federal Deposit Insurance Corporation board, a Trump appointee, spilled into public view last week. 
  <p class="updated_time"> 03:55 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064221034/house-recommends-criminal-contempt-of-congress-charges-against-mark-meadows">House recommends criminal contempt of Congress charges against Mark Meadows</a> NPR: The House voted to refer former White House chief of staff Mark Meadows on criminal contempt of Congress charges. The Justice Department will now decide whether he could face criminal charges. 
  <p class="updated_time"> 03:51 PM CT, Dec. 14 </p> 
@@ -402,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
  <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
- <p class="updated_time"> 10:26 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/de-blasio-vaccine-mandates-new-york-524126">De Blasio defends vaccine mandates, points to effectiveness in NYC</a> Politico: New York’s mayor said business owners in the city would prefer a mandate over shutdowns. 
  <p class="updated_time"> 09:57 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/biden-democrats-2024.html">Democrats Are Solidly Behind Biden. There’s No Consensus About a Plan B.</a> NYT: Leaders with White House aspirations all say they’ll support the president for another term. But there is no shortage of chatter about the options if he continues to falter. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
