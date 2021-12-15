@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:21 AM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/news/2021/12/15/blinken-trip-cut-short-covid-524622">Blinken cuts foreign trip short over Covid concerns</a> Politico: In a call with Thai Deputy Prime Minister and Foreign Minister Don Pramudwinai, Blinken “expressed his deep regret” that he would not be traveling on to Bangkok. 
  <p class="updated_time"> 08:20 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/biden-judicial-nominations-trump/index.html">Biden to surpass Trump in first-year judicial nominees; a window into a major Dem push </a> CNN: President Joe Biden will soon announce his latest wave of nine judicial nominees, according to a White House official, capping a year where the selections -- and an effort to establish an imprint on the federal courts -- served as a focal point for his administration. 
  <p class="updated_time"> 08:09 AM CT, Dec. 15 </p> 
@@ -340,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064047804/where-things-stand-with-the-monthly-expanded-child-tax-credit-payments">Where things stand with the monthly expanded child tax credit payments</a> NPR: Because an extension of the child tax credit is tied in with President Biden's Build Back Better social spending plan, it remains unclear whether the monthly payments will continue beyond this year. 
  <p class="updated_time"> 11:32 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/biden-sandy-hook/index.html">Biden marks 9 years since Sandy Hook shooting with renewed call for tougher gun laws</a> CNN: President Joe Biden on Tuesday marked nine years since the mass shooting at Sandy Hook Elementary School by pointing to his administration's efforts to combat gun violence as Democratic-led efforts to pass tougher gun laws have repeatedly failed in Congress. 
- <p class="updated_time"> 11:03 AM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/biden-sandra-thompson-housing-regulator-524197">Biden taps Thompson for full term as top housing regulator</a> Politico: The move comes after Thompson allies on the Hill urged Biden to keep her at the helm amid reports he planned to replace Thompson this fall. 
  <p class="updated_time"> 10:01 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/joe-biden-news-journal-ad-targeting-524196">How a 100-year-old newspaper became the go-to way to influence Biden</a> Politico: In the Biden era, the pages of The News Journal have become a way to reach a new audience of one. 
  <p class="updated_time"> 09:00 AM CT, Dec. 14 </p> 
@@ -442,8 +442,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/biden-workplace-vaccine-mandate-senate-523990">Senate issues rebuke of Biden's workplace vaccine mandate</a> Politico: Most Democrats blasted the repeal effort as “ridiculous” and “anti-science,” and warned it would prolong the pandemic and facilitate the emergence of new Covid variants. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: His departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where “anybody who says they’re not interested is lying.” 
- <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/schumer-mcconnell-debt-deal-523963">How Schumer and McConnell got the debt deal done</a> Politico: The agreement to raise the debt ceiling between the two Senate leaders might mark a high point for their relationship. Don't expect it to last. 
 
 
 </details>
