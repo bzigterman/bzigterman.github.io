@@ -7,20 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:57 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-covid-record-cases.html">Britain Breaks Daily Record for New Virus Cases</a> NYT: Officials didn’t specify what share of the new cases might be Omicron, though they said a majority in London were from the variant. 
+ <p class="updated_time"> 02:54 PM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59672683?at_medium=RSS&at_campaign=KARANGA">bell hooks: Author and feminist dies aged 69</a> BBC: The acclaimed US writer was considered a trailblazer in the feminist movement. 
  <p class="updated_time"> 02:32 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-omicron-surge.html">Why Britain Thinks Omicron Infected 200,000 People on Monday</a> NYT: Experts called it ‘a back-of-the-envelope calculation’ that showed how quickly the variant spreads, but also how little is known about it. 
  <p class="updated_time"> 02:27 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-covid-restrictions.html">Conservatives Abandon Johnson Over New Covid Rules</a> NYT: A record number of Prime Minister Boris Johnson’s fellow party members voted against his plan for Covid certificates. But the plan passed with the help of the opposition. 
- <p class="updated_time"> 01:50 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-covid-record-cases.html">Britain Breaks Daily Record for New Virus Cases</a> NYT: Officials didn’t specify what share of the new cases might be Omicron, though they said a majority in London were from the variant. 
  <p class="updated_time"> 01:24 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/netherlands-dutch-coalition.html">After Months, a ‘New’ Dutch Coalition With the Same Leader and Parties</a> NYT: Mark Rutte, who has weathered a scandal and criticism for overstaying his welcome, will be prime minister for a fourth term. 
  <p class="updated_time"> 01:12 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59674306?at_medium=RSS&at_campaign=KARANGA">Logic's 1-800-273-8255 led to call surge to suicide line, study suggests</a> BBC: Researchers found that the rapper's 1-800-273-8255 increased calls to the helpline it was named after. 
  <p class="updated_time"> 12:53 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-baker-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
- <p class="updated_time"> 12:42 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59672683?at_medium=RSS&at_campaign=KARANGA">bell hooks: Author and feminist dies aged 69</a> BBC: Her niece confirmed the writer died on Wednesday "surrounded by her family and friends". 
  <p class="updated_time"> 12:06 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/africa/jacob-zuma-prison-south-africa.html">Jacob Zuma Must Return to Prison, South Africa Judge Rules</a> NYT: The former president had been granted medical parole two months into a 15-month prison sentence on contempt charges linked to a corruption inquiry. 
  <p class="updated_time"> 12:06 PM CT, Dec. 15 </p> 
@@ -81,6 +81,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/15/1064386048/the-irc-says-afghanistan-is-in-dire-need-of-humanitarian-aid">The IRC says Afghanistan is in dire need of humanitarian aid</a> NPR: The International Rescue Committee, an aid group, says Afghanistan tops the countries of concern list for the next year. And the global picture for humanitarian workers is getting more challenging. 
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1063830104/portugal-covid-vaccines-omicron-variant">Portugal has one of the top vaccination rates but isn't taking chances with omicron</a> NPR: Scientists are watching how Portugal and other highly vaccinated countries are faring against the coronavirus' new omicron variant. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/africa/a-times-correspondent-returning-from-south-africa-got-caught-up-in-the-chaotic-response-to-omicron.html">A Times correspondent returning from South Africa got caught up in the chaotic response to Omicron.</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
  <p class="updated_time"> 02:39 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59665125?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Dozens stranded on roof after World Trade Centre fire</a> BBC: Footage obtained by the BBC shows people crowded amongst the roof's scaffolding awaiting rescue. 
  <p class="updated_time"> 02:21 AM CT, Dec. 15 </p> 
@@ -202,12 +204,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:33 PM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/news/2021/12/15/biden-manchin-megabill-524776">'Going very poorly': Biden can't nail Manchin down on Dems' bill</a> Politico: President Joe Biden is running out of patience as Sen. Joe Manchin continues to drag his feet on supporting the party's domestic spending legislation. 
+ <p class="updated_time"> 02:49 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
  <p class="updated_time"> 02:38 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/business/economy/inflation-fed-fomc-meeting-december-2021.html">Fed Could Raise Rates 3 Times in 2022, Speeds End of Bond-Buying</a> NYT: Federal Reserve officials suggested as many as three interest rate increases in 2022 as the economy heals and inflation persists. 
+ <p class="updated_time"> 02:32 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/us-define-statelessness/index.html">US promises to define 'statelessness,' a first for the federal government </a> CNN: The United States is committing for the first time to defining "statelessness" and increasing protections for stateless people in the US, the Department of Homeland Security announced Wednesday. 
  <p class="updated_time"> 02:28 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/senate-vote-ndaa/index.html">Senate passes annual defense bill authorizing $770 billion in Pentagon funding</a> CNN: The National Defense Authorization Act, the annual must-pass defense bill that authorizes $770 billion in funding for the Defense Department, is set to pass the Senate on Wednesday with a bipartisan vote. 
- <p class="updated_time"> 02:27 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
  <p class="updated_time"> 02:21 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/federal-reserve-rate-hikes-economy-524774">Fed clears path for multiple rate hikes for next year</a> Politico: The Fed plans to cease its bond buys entirely by March, rather than its earlier target of June to give itself room to begin raising interest rates as early as the second quarter of next year. 
  <p class="updated_time"> 02:02 PM CT, Dec. 15 </p> 
@@ -272,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/15/politics/elissa-slotkin-gun-legislation-oxford-school-shooting/index.html">Michigan Democrat introduces legislation requiring gun owners safely store firearms in wake of Oxford school shooting</a> CNN: Michigan Democratic Rep. Elissa Slotkin is introducing legislation on Wednesday that would require the safe storage of firearms in the wake of the Oxford school shooting in her district that left four students dead last month. 
  <p class="updated_time"> 06:00 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/the-mission-to-save-truth-524218">The mission to save truth</a> Politico: A new fund wants to raise one billion dollars to save independent journalism around the world. 
- <p class="updated_time"> 05:02 AM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/independent-redistricting-commissions-2022-elections/index.html">Independent redistricting panels aim to draw fairer maps but still invite controversy</a> CNN: As the 14 commissioners of the California Citizens Redistricting Commission drew the state's new congressional districts over the past week, they pored over maps on Zoom sessions that often stretched late into the night, scooping up census tracts as building blocks to create districts of roughly equal size with a keen eye toward keeping communities with shared interests together, while protecting majority-minority districts as required under the law. 
  <p class="updated_time"> 04:59 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/main-recoverylab-capstone-data-methodology-524101">Why — and how — we created the State Pandemic Scorecard</a> Politico: The data is coming in, but it’s not perfect. Here’s what to keep in mind. 
  <p class="updated_time"> 04:31 AM CT, Dec. 15 </p> 
@@ -408,8 +412,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/dems-child-tax-credit-expire-social-bill-524084">As Dems sprint against the clock, child tax credit might slip away</a> Politico: “It’s as important a thing as there is” in the party's social spending bill, as one senator put it. And it's expiring any day now. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430"> Harris trashes her media coverage</a> Politico Playbook: And Chris Wallace leaves Fox News. 
- <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
