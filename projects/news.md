@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:40 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59667937?at_medium=RSS&at_campaign=KARANGA">Germany expels Russian diplomats after hitman sentenced in Berlin</a> BBC: Germany throws out two diplomats after Vadim Krasikov is jailed for murdering an ex-Chechen rebel. 
+ <p class="updated_time"> 11:35 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/travel/cruise-ships-coronavirus.html">On Cruise Ships, Omicron Puts Safety Protocols to the Test</a> NYT: Many lines are adjusting their masking, testing and vaccine rules, while criticism is mounting about the lack of transparency in reporting positive cases to passengers and crew members. 
  <p class="updated_time"> 11:25 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-michael-kretschmer-plot-saxony-vaccines.html">Vaccine Opponents in Germany Investigated Over Plot to Kill State Governor</a> NYT: The authorities in Dresden raided the homes of a group of people who they said were targeting the leader of the state of Saxony. A number of weapons were seized. 
- <p class="updated_time"> 11:18 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/travel/cruise-ships-coronavirus.html">On Cruise Ships, Omicron Puts Safety Protocols to the Test</a> NYT: Many lines are adjusting their masking, testing and vaccine rules, while criticism is mounting about the lack of transparency in reporting positive cases to passengers and crew members. 
  <p class="updated_time"> 11:08 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html">Putin and Xi Hold Video Summit</a> NYT: President Vladimir V. Putin of Russia and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West but have not yet declared a formal alliance. 
  <p class="updated_time"> 10:51 AM CT, Dec. 15 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59671567?at_medium=RSS&at_campaign=KARANGA">Derek Chauvin pleads guilty in George Floyd civil rights case</a> BBC: The former police officer is already serving a 22 year prison sentence for the murder of Mr Floyd. 
  <p class="updated_time"> 09:57 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064212737/new-zealands-cigarette-ban-model">New Zealand's unique cigarette ban may be a model for other countries</a> NPR: The proposed law would effectively impose a lifetime cigarette ban for people aged 14 and younger. Researchers applauded it but said similar bans elsewhere could be more challenging. 
- <p class="updated_time"> 09:56 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59667937?at_medium=RSS&at_campaign=KARANGA">German court jails hitman for Berlin murder on Russia's orders</a> BBC: A court finds Vadim Krasikov guilty of an ex-Chechen rebel's murder, which it says Russia ordered. 
  <p class="updated_time"> 09:50 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59669307?at_medium=RSS&at_campaign=KARANGA">2022 World Cup: Ex-media officer loses Qatar corruption appeal</a> BBC: Abdullah Ibhais claims he was prosecuted for corruption after raising concerns about migrant workers. 
  <p class="updated_time"> 09:37 AM CT, Dec. 15 </p> 
@@ -206,10 +206,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
+ <p class="updated_time"> 11:46 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-kentucky-tornado.html">Biden Visits Kentucky to See Storm Damage</a> NYT: President Biden is visiting the state in an effort to offer comfort to victims and highlight the federal government’s response to devastating tornadoes. 
  <p class="updated_time"> 11:39 AM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/navy-kicks-out-sailors-vaccine-524693">Navy starts kicking out sailors for refusing the Covid vaccine</a> Politico: The move comes as the Air Force begins discharging service members for not taking the shot. 
- <p class="updated_time"> 11:26 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-kentucky-tornado.html">Biden Will Tour Kentucky Storm Damage</a> NYT: President Biden will visit another disaster area in an effort to offer comfort to victims and highlight the federal government’s response. 
+ <a href="https://www.politico.com/news/2021/12/15/navy-kicks-out-sailors-vaccine-524693">Navy starts kicking out sailors for refusing Covid vaccine as Republicans rage over mandate</a> Politico: The move comes as the Air Force begins discharging service members for not taking the shot. 
  <p class="updated_time"> 11:25 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/senate-vote-ndaa/index.html">Senate passes annual defense bill authorizing $770 billion in Pentagon funding</a> CNN: The National Defense Authorization Act, the annual must-pass defense bill that authorizes $770 billion in funding for the Defense Department, is set to pass the Senate on Wednesday with a bipartisan vote. 
  <p class="updated_time"> 11:19 AM CT, Dec. 15 </p> 
@@ -412,8 +414,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430"> Harris trashes her media coverage</a> Politico Playbook: And Chris Wallace leaves Fox News. 
  <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
- <p class="updated_time"> 10:26 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/de-blasio-vaccine-mandates-new-york-524126">De Blasio defends vaccine mandates, points to effectiveness in NYC</a> Politico: New York’s mayor said business owners in the city would prefer a mandate over shutdowns. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
