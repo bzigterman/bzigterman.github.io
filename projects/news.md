@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:14 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/europe/italy-bishop-santa-claus.html">Italian Bishop Gives Children Harsh News: There Is No Santa Claus</a> NYT: You’ve been lied to, children heard from a bishop, the latest Catholic clergyman to try to take down Santa Claus and consumerism. Many Italians were not pleased. 
+ <p class="updated_time"> 07:56 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/asia/blinken-indonesia-china.html">Blinken, in Indonesia, Stresses Soft Power to Counter China</a> NYT: The U.S. secretary of state seeks to make the case that the United States is a better bet as a partner than China, even if it’s not spending so lavishly in the region. 
  <p class="updated_time"> 07:20 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/greece-covid-school-abduction.html">Three Jailed in Greece After a Principal was Handcuffed Over Virus Measures</a> NYT: Police said a group of people handcuffed the principal on Friday and drove him to a local precinct, suggesting that officers arrest him for enforcing Covid measures. 
  <p class="updated_time"> 07:16 PM CT, Dec. 14 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064221027/covid-can-cause-long-term-injuries-to-the-brain-heres-what-scientists-have-learn">COVID can cause long-term injuries to the brain. Here's what scientists have learned</a> NPR: Scientists are beginning to understand how COVID can cause brain injuries. The virus can lead to a stroke, starve the brain of oxygen, cause inflammation brain and might infect and kill brain cells. 
  <p class="updated_time"> 03:30 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/climate/arctic-report-card-climate-change.html">Trends in Arctic Report Card: ‘Consistent, Alarming and Undeniable’</a> NYT: The changes happening at the top of the planet could unfold elsewhere in the years to come, scientists report. 
- <p class="updated_time"> 03:24 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/europe/italy-bishop-santa-claus.html">Italian Bishop Gives Children Harsh News: There Is No Santa Claus</a> NYT: You’ve been lied to, children heard from a bishop, the latest Catholic clergyman to try to take down Santa Claus and consumerism. Many Italians were not pleased. 
  <p class="updated_time"> 03:23 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064220992/a-gloomy-report-card-from-the-arctic">A gloomy report card from the Arctic</a> NPR: NPR's Ari Shapiro talks with Twila Moon, co-editor of the National Oceanic and Atmospheric Administration's 2021 Arctic Report Card, which shows oceans warming and sea ice disappearing. 
  <p class="updated_time"> 03:23 PM CT, Dec. 14 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064081667/canada-pledges-40-billion-abuses-indigenous-children">Canada pledges $40 billion in talks over rampant abuses of Indigenous children</a> NPR: From 1831 to 1998, the government separated some 150,000 Indigenous children from their families and sent them to residential schools where they routinely faced physical and sexual abuse. 
  <p class="updated_time"> 10:12 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064073682/a-gasoline-truck-explodes-in-haiti-killing-more-than-50-people">A gasoline truck explodes in Haiti, killing more than 50 people</a> NPR: The truck overturned and exploded in a fireball in the coastal city of Cap-Haitien, engulfing cars and homes in flames as it killed more than 50 people and injured dozens of others. 
- <p class="updated_time"> 10:06 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/asia/blinken-indonesia-china.html">Blinken, in Indonesia, Stresses Soft Power to Counter China</a> NYT: The U.S. secretary of state seeks to make the case that the United States is a better bet as a partner than China, even if it’s not spending so lavishly in the region. 
  <p class="updated_time"> 09:51 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/asia/duterte-philippines-senate.html">Philippines President Rodrigo Duterte Won't Run for Senate</a> NYT: The populist president also promised a peaceful transition of power when his term ends next year. 
  <p class="updated_time"> 09:47 AM CT, Dec. 14 </p> 
@@ -206,8 +206,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:47 PM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/silicon-valleys-voice-in-washington-to-dissolve-524486">Silicon Valley’s voice in Washington to dissolve</a> Politico: The Internet Association plans to announce it is dissolving as soon as tomorrow. 
+ <p class="updated_time"> 08:31 PM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/eastman-sues-jan6-records-524441">Eastman sues Jan. 6 committee and Verizon to prevent release of phone records</a> Politico: A similar lawsuit was filed Monday by four organizers of the Jan. 6 rally, 
+ <p class="updated_time"> 07:53 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/guantanamo-bay-abd-al-rahim-al-nashiri.html">Waterboarded Prisoner Has Drowning Nightmares Two Decades Later, Doctor Testifies</a> NYT: Lawyers called a torture expert in a bid to spare a defendant a nauseating commute from prison to court by having him spend nights at Guantánamo Bay’s court compound. 
  <p class="updated_time"> 07:37 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/cisa-cyber-no-sign-vulnerability-524429">No sign that new vulnerability compromised U.S. agencies or infrastructure, CISA says</a> Politico: The Biden administration remains “deeply concerned” about what an official called “an extremely widespread, easy to exploit, and potentially highly damaging vulnerability.” 
+ <a href="https://www.politico.com/news/2021/12/14/cisa-cyber-no-sign-vulnerability-524429">Feds scramble to assess security flaw that threatens 'hundreds of millions' of devices</a> Politico: The government’s cyber defenders have no indication that hackers have breached any federal agency using a recently disclosed vulnerability in Apache logging software, a Biden administration official said. 
  <p class="updated_time"> 07:32 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/liz-cheney-capitol-attack.html">Liz Cheney Takes Center Stage in Jan. 6 Inquiry</a> NYT: Representative Liz Cheney has embraced a prominent role in the House investigation of the Jan. 6 attack, using her perch to hold up an unsparing mirror to the Republican Party. 
  <p class="updated_time"> 07:22 PM CT, Dec. 14 </p> 
@@ -224,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/iran-nuclear-united-nations-524274">U.N. nuclear chief says view of Iran ‘blurred’</a> Politico: Rafael Mariano Grossi said Iran must work with international inspectors. 
  <p class="updated_time"> 06:30 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Senate Passes $2.5 Trillion Debt Limit Increase, Sending It to the House</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
- <p class="updated_time"> 06:21 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/guantanamo-bay-abd-al-rahim-al-nashiri.html">Waterboarded Prisoner Has Drowning Nightmares Two Decades Later, Doctor Testifies</a> NYT: Lawyers called a torture expert in a bid to spare a defendant a nauseating commute from prison to court by having him spend nights at Guantánamo Bay’s court compound. 
  <p class="updated_time"> 06:02 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/democrats-cruz-hawley-biden-ambassadors-524220">Dems launch talks to break Cruz-Hawley blockade of Biden ambassadors</a> Politico: But while the price for one GOP 2024 contender's help is clear, another is less open about what it'll take to ease his holds. 
  <p class="updated_time"> 05:57 PM CT, Dec. 14 </p> 
@@ -299,7 +303,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
  <a href="https://subscriber.politicopro.com/states/new-york/city-hall/whiteboard/2021/12/14/legal-aid-sues-to-compel-state-to-reopen-rent-relief-program-9428027">Legal Aid sues to compel state to reopen rent relief program</a> Politico: The Legal Aid Society is suing to force the state to resume accepting applications to its emergency rental assistance program. Details: The organization charges in a new class-action lawsuit that the closure of the program in mid-November was unlawful and has put “pote… 
  <p class="updated_time"> 11:53 AM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/democrats-raise-debt-ceiling-524204">Senate passes $2.5T debt limit increase, sending to House</a> Politico: The new ceiling is expected to carry spending until after the 2022 midterms. 
+ <a href="https://www.politico.com/news/2021/12/14/democrats-raise-debt-ceiling-524204">Senate passes $2.5T debt limit increase, sends to House</a> Politico: The new ceiling is expected to carry spending until after the 2022 midterms. 
  <p class="updated_time"> 11:43 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064047804/where-things-stand-with-the-monthly-expanded-child-tax-credit-payments">Where things stand with the monthly expanded child tax credit payments</a> NPR: Because an extension of the child tax credit is tied in with President Biden's Build Back Better social spending plan, it remains unclear whether the monthly payments will continue beyond this year. 
  <p class="updated_time"> 11:32 AM CT, Dec. 14 </p> 
@@ -387,8 +391,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/jeffries-mccarthy-house-election-524100">‘Who is he?’ The X-factor relationship that could soon rule the House</a> Politico: Hakeem Jeffries and Kevin McCarthy may well lead their parties in the lower chamber come 2023. But their relationship is a black box. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/political-maps-redistricting-state-supreme-courts-524150">States’ high courts poised to draw new congressional maps</a> Politico: State supreme courts are increasingly being charged with drawing new map lines in gridlocked states and policing partisan gerrymandering. 
- <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/schumer-pressure-holiday-delivery-524093">Old St. Chuck? Schumer under pressure to deliver by Christmas</a> Politico: The Senate Democratic leader wants to wrap up the $1.7 trillion social spending bill for the holiday — which may well prove impossible. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/dems-child-tax-credit-expire-social-bill-524084">As Dems sprint against the clock, child tax credit might slip away</a> Politico: “It’s as important a thing as there is” in the party's social spending bill, as one senator put it. And it's expiring any day now. 
@@ -418,8 +420,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/10/trumps-terrible-thursday-followed-by-bidens-bad-friday-495415">POLITICO Playbook: Trump’s terrible Thursday, followed by Biden’s bad Friday?</a> Politico: And the U.S. clears a hurdle in its pursuit of the extradition of Julian Assange. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy’s proxy voting opposition could reshape the House</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
- <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/17-ways-covid-hit-fast-forward-on-the-future-523845">17 pandemic innovations that are here to stay</a> Politico: During the pandemic, necessity became a mother of invention. Here are some innovations that are like to stick. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen to lawmakers: Ignore the GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
  <p class="updated_time"> 06:41 PM CT, Dec. 09 </p> 
