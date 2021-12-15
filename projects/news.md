@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:21 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/europe/greece-covid-school-abduction.html">Three Jailed in Greece After a Principal was Handcuffed Over Virus Measures</a> NYT: Police said a group of people handcuffed the principal on Friday and drove him to a local precinct, suggesting that officers arrest him for enforcing Covid measures. 
  <p class="updated_time"> 01:55 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59663826?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Fire at World Trade Centre leaves more than 100 trapped on roof</a> BBC: The fire broke out in a machine room which eventually led to the scaffolding catching fire. 
  <p class="updated_time"> 01:39 AM CT, Dec. 15 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/europe/italy-bishop-santa-claus.html">Italian Bishop Gives Children Harsh News: There Is No Santa Claus</a> NYT: You’ve been lied to, children heard from a bishop, the latest Catholic clergyman to try to take down Santa Claus and consumerism. Many Italians were not pleased. 
  <p class="updated_time"> 07:56 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/asia/blinken-indonesia-china.html">Blinken, in Indonesia, Stresses Soft Power to Counter China</a> NYT: The U.S. secretary of state seeks to make the case that the United States is a better bet as a partner than China, even if it’s not spending so lavishly in the region. 
- <p class="updated_time"> 07:20 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/europe/greece-covid-school-abduction.html">Three Jailed in Greece After a Principal was Handcuffed Over Virus Measures</a> NYT: Police said a group of people handcuffed the principal on Friday and drove him to a local precinct, suggesting that officers arrest him for enforcing Covid measures. 
  <p class="updated_time"> 07:16 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-59656385?at_medium=RSS&at_campaign=KARANGA">Covid: Omicron spreading at unprecedented rate, WHO says</a> BBC: The WHO's head warns that the Covid variant is being underestimated, despite its potential impact. 
  <p class="updated_time"> 07:02 PM CT, Dec. 14 </p> 
