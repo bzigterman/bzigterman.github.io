@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:59 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59663826?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Fire at World Trade Centre leaves more than 100 trapped on roof</a> BBC: Shoppers and restaurant-goers are said to be among those still in the building. 
  <p class="updated_time"> 12:43 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat Carrying Migrants Sinks Near Malaysia, Killing at Least 10</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving 29 others missing, officials said. The victims’ nationalities were not disclosed. 
  <p class="updated_time"> 11:39 PM CT, Dec. 14 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/crisis-looms-for-taliban-afghanistan-and-rest-of-world-11639104243">For a Taliban-Ruled Afghanistan, and the Rest of the World, a Crisis Looms</a> WSJ: The new Taliban administration is struggling with a devastated economy. The fallout likely will extend well beyond the country’s borders. 
  <p class="updated_time"> 02:30 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S. and other ex-foes, Afghan foreign minister says </a> NPR: Afghan Foreign Minister Amir Khan Muttaqi, in an interview with The Associated Press, said the Taliban have changed since they last ruled. He says they have no issue with the United States. 
- <p class="updated_time"> 06:01 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59613217?at_medium=RSS&at_campaign=KARANGA">Howard University: Why these students slept out in tents on campus for weeks</a> BBC: After reports of mould and rodents in dorms, protesters at Howard University took over a campus building. 
  <p class="updated_time"> 04:25 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59631837?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: 100-year-old church destroyed in seconds</a> BBC: The BBC's Nomia Iqbal shows us the ruins of the Mayfield First United Methodist Church in Kentucky. 
  <p class="updated_time"> 12:42 PM CT, Dec. 12 </p> 
