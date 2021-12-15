@@ -206,18 +206,26 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:15 PM CT, Dec. 14 </p> 
+ <p class="updated_time"> 11:41 PM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/house-islam-omar-perry-boebert-524536">Amid caustic rhetoric, House votes to combat Islamophobia</a> Politico: Rep. Scott Perry accused Rep. Ilhan Omar of connections to terrorism. 
+ <p class="updated_time"> 10:43 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/ilhan-omar-boebert-muslim-islamophobia/index.html">House expected to pass Ilhan Omar's legislation to combat Islamophobia after clash with Boebert</a> CNN: The House will vote Tuesday on Democratic Rep. Ilhan Omar's legislation to create a special envoy to combat Islamophobia, a week after progressives introduced a separate resolution to strip Republican Rep. Lauren Boebert of her committee assignments following her anti-Muslim comments calling the Minnesota Democrat a terrorist. 
+ <p class="updated_time"> 10:41 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/ilhan-omar-house-debate-islamophobia.html">Muslim Lawmaker Comes Under Fire in House Debate on ‘Islamophobia’</a> NYT: A conservative Republican accused Ilhan Omar, the sponsor of a House bill to combat anti-Muslim bias, of terrorist sympathies. 
+ <p class="updated_time"> 10:40 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/meadows-congress-justice-department-referral/index.html">House votes to refer Mark Meadows to Justice Department for contempt of Congress</a> CNN: The House is set to vote on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal charges for failing to appear for a deposition with the select committee investigating the January 6 attack. 
  <p class="updated_time"> 10:07 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064068696/the-house-votes-to-hold-mark-meadows-in-contempt-sending-a-criminal-referral-to-">The House votes to hold Mark Meadows in contempt, sending a criminal referral to DOJ</a> NPR: The vote now leaves it up to the Justice Department to decide whether it will pursue criminal charges against the former White House chief of staff. 
- <p class="updated_time"> 09:34 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/ilhan-omar-house-debate-islamophobia.html">Muslim Lawmaker Comes Under Fire in House Debate on ‘Islamophobia’</a> NYT: A conservative Republican accused Ilhan Omar, the sponsor of a House bill to combat anti-Muslim bias, of terrorist sympathies. 
+ <p class="updated_time"> 09:52 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/trump-organization-investigation-grand-jury-donald-bender/index.html">Trump accountant has testified before NY grand jury in criminal investigation, sources say</a> CNN: A key accountant to Donald Trump appeared before a Manhattan grand jury investigating the former President's business practices earlier this year, two people familiar with the matter confirmed to CNN on Tuesday. 
  <p class="updated_time"> 09:12 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-text-messages/index.html">'Need to end this call': Jan. 6 committee reveals new text message to Meadows</a> CNN: The House select committee investigating the January 6 attack on the US Capitol released new text messages obtained from former Trump White House chief of staff Mark Meadows that were sent to him in the days leading up to the insurrection and while the Capitol was under siege. 
  <p class="updated_time"> 08:47 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/silicon-valleys-voice-in-washington-to-dissolve-524486">Silicon Valley’s voice in Washington to dissolve</a> Politico: The Internet Association plans to announce it is dissolving as soon as tomorrow. 
  <p class="updated_time"> 08:31 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/eastman-sues-jan6-records-524441">Eastman sues Jan. 6 committee and Verizon to prevent release of phone records</a> Politico: A similar lawsuit was filed Monday by four organizers of the Jan. 6 rally, 
+ <p class="updated_time"> 08:11 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/john-eastman-suing-verizon-january-6-committee/index.html">John Eastman suing Verizon and January 6 committee over subpoena</a> CNN: Conservative lawyer John Eastman is suing Verizon and the House select committee investigating the January 6 attack on the US Capitol over a subpoena issued by the panel for his phone records, according to court documents. 
  <p class="updated_time"> 07:53 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/guantanamo-bay-abd-al-rahim-al-nashiri.html">Waterboarded Prisoner Has Drowning Nightmares Two Decades Later, Doctor Testifies</a> NYT: Lawyers called a torture expert in a bid to spare a defendant a nauseating commute from prison to court by having him spend nights at Guantánamo Bay’s court compound. 
  <p class="updated_time"> 07:37 PM CT, Dec. 14 </p> 
@@ -226,18 +234,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/us/politics/liz-cheney-capitol-attack.html">Marginalized by Her Party, Cheney Takes Center Stage in Jan. 6 Inquiry</a> NYT: Representative Liz Cheney has embraced a prominent role in the House investigation of the Jan. 6 attack, using her perch to hold up an unsparing mirror to the Republican Party. 
  <p class="updated_time"> 07:22 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/covid-death-toll-800000-524333">U.S. Covid death toll hits 800,000, a year into vaccine drive</a> Politico: The total is about equal to the population of Atlanta and St. Louis combined. 
- <p class="updated_time"> 07:18 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/ilhan-omar-boebert-muslim-islamophobia/index.html">House expected to pass Ilhan Omar's legislation to combat Islamophobia after clash with Boebert</a> CNN: The House will vote Tuesday on Democratic Rep. Ilhan Omar's legislation to create a special envoy to combat Islamophobia, a week after progressives introduced a separate resolution to strip Republican Rep. Lauren Boebert of her committee assignments following her anti-Muslim comments calling the Minnesota Democrat a terrorist. 
  <p class="updated_time"> 06:53 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/trump-irs-disclosure-tax/index.html">Judge throws out Trump bid to block IRS disclosure of his tax returns to House</a> CNN: A federal judge on Tuesday dismissed former President Donald Trump's bid in court to stop the Treasury Department from turning over his tax returns to the House. 
+ <a href="https://www.cnn.com/2021/12/14/politics/trump-irs-disclosure-tax/index.html">Trump suffers big court loss in his bid to keep his tax records secret</a> CNN: A federal judge on Tuesday dismissed former President Donald Trump's bid in court to stop the Treasury Department from turning over his tax returns to the House. 
  <p class="updated_time"> 06:40 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/garcetti-new-delhi-524273">Senate toasts Eric Garcetti nomination, despite the red flags back home</a> Politico: The L.A. mayor had his confirmation hearing Tuesday. Only one member asked him about the misconduct allegations his top aide is facing. 
  <p class="updated_time"> 06:31 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/iran-nuclear-united-nations-524274">U.N. nuclear chief says view of Iran ‘blurred’</a> Politico: Rafael Mariano Grossi said Iran must work with international inspectors. 
- <p class="updated_time"> 06:30 PM CT, Dec. 14 </p> 
+ <p class="updated_time"> 06:31 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Senate Passes $2.5 Trillion Debt Limit Increase, Sending It to the House</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
  <p class="updated_time"> 06:02 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/democrats-cruz-hawley-biden-ambassadors-524220">Dems launch talks to break Cruz-Hawley blockade of Biden ambassadors</a> Politico: But while the price for one GOP 2024 contender's help is clear, another is less open about what it'll take to ease his holds. 
+ <p class="updated_time"> 05:59 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/build-back-better-problems/index.html">Democrats face mounting obstacles to finishing social safety net bill before Christmas -- and it's not just Manchin</a> CNN: As Democrats race to finish the President's Build Back Better legislation before the Christmas recess and convince a skeptical West Virginia Sen. Joe Manchin, there are other obstacles piling up that could prevent them from meeting their self-imposed deadline. 
  <p class="updated_time"> 05:57 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/cuomo-book-return-money/index.html">Ethics commission orders former NY Gov. Andrew Cuomo to give state back earnings from $5.1M pandemic book deal</a> CNN: A New York State public ethics commission has voted to order former Gov. Andrew Cuomo to pay back earnings from the $5.1 million deal he received to write a book about leading the state during the coronavirus pandemic, after the commission previously found that state resources were used in connection with the book's creation. 
  <p class="updated_time"> 05:47 PM CT, Dec. 14 </p> 
@@ -246,7 +254,7 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/trump-tax-returns-legal-524235">Judge scraps Trump lawsuit to shield tax returns from Congress</a> Politico: But the judge stayed the impact of his ruling for 14 days. 
  <p class="updated_time"> 05:44 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/january-6-trump-charges-what-matters/index.html">Analysis: January 6 committee seeks accountability for 2020. Trump backers seek control of 2024</a> CNN: Fox News personalities and Donald Trump Jr. may downplay the January 6 insurrection now, but as it was happening, they were frantically sending text messages to former White House chief of staff Mark Meadows. 
- <p class="updated_time"> 05:43 PM CT, Dec. 14 </p> 
+ <p class="updated_time"> 05:44 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/health/fda-commissioner-califf-senate.html">Senators Question Califf, the F.D.A. Nominee, on Opioid Crisis and Pandemic Response</a> NYT: A Senate panel hearing on Tuesday signaled that Dr. Robert Califf, who briefly led the agency during the Obama administration, had some bipartisan support. 
  <p class="updated_time"> 05:41 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/kristi-noem-south-dakota-daughter-real-estate-license/index.html">Gov. Kristi Noem's daughter given extra chance to obtain real estate license, former state employee testifies</a> CNN: The former state employee who is at the center of the controversy over whether South Dakota Gov. Kristi Noem intervened to help her daughter obtain a real estate appraiser license testified before state lawmakers on Tuesday that Noem's daughter was given an extra chance to correct her work so that her application would not be denied and that the state's process for handling her application was unusual. 
@@ -280,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064221034/house-recommends-criminal-contempt-of-congress-charges-against-mark-meadows">House recommends criminal contempt of Congress charges against Mark Meadows</a> NPR: The House voted to refer former White House chief of staff Mark Meadows on criminal contempt of Congress charges. The Justice Department will now decide whether he could face criminal charges. 
  <p class="updated_time"> 03:51 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/maryland-health-department-hack-covid-19-data/index.html">Cybersecurity incident prevents Maryland Health Department from publishing Covid-19 case data</a> CNN: The Maryland Health Department has not published data on coronavirus case rates for nine days as it recovers from a "network security incident," the department said Tuesday. 
- <p class="updated_time"> 03:29 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/student-loans-biden-february/index.html">Biden still plans to restart federal student loan payments in February</a> CNN: President Joe Biden still plans to restart federal student loan payments in February, resisting pressure from some fellow Democrats who continue to call for an extension of coronavirus pandemic relief benefits. 
  <p class="updated_time"> 03:24 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/house-lawmakers-ukraine-russia/index.html">House lawmakers push Biden administration to do more to deter Russian aggression against Ukraine</a> CNN: US lawmakers who have just returned from a trip to Ukraine are urging the Biden administration to take proactive steps to prevent further Russian aggression toward the country and to be prepared to place "extreme sanctions" on Moscow if it moves militarily against its neighbor. 
  <p class="updated_time"> 03:17 PM CT, Dec. 14 </p> 
@@ -346,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1063766485/their-lives-were-changed-by-gun-violence-and-now-theyre-running-for-office">Their lives were changed by gun violence, and now they're running for office</a> NPR: One of the country's top gun control groups is now actively recruiting candidates who have experienced the effects of gun violence to run for local, state and national offices. 
  <p class="updated_time"> 04:01 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1055186046/census-bureau-leadership-racial-diversity-staff-senior-executive-service-ses">The federal agency that measures racial diversity is led mostly by white people</a> NPR: While the Census Bureau's set to have its first director who's Latinx, an NPR analysis finds people of color are underrepresented in the top rank of civil servants at the country's main data producer. 
- <p class="updated_time"> 12:24 AM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/trump-jr-text-mark-meadows-january-6/index.html">This is what Donald Trump Jr. texted Mark Meadows as violence unfolded on January 6</a> CNN: Donald Trump Jr. said in a series of text messages to then-White House chief of staff Mark Meadows that his father needed to "condemn" the US Capitol insurrection as it unfolded. 
  <p class="updated_time"> 10:25 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/remain-in-mexico-appeals-court/index.html">Appeals court rules against Biden admin's termination of 'remain in Mexico' policy</a> CNN: The 5th US Circuit Court of Appeals on Monday night ruled against the Biden administration's bid to terminate the Trump-era "remain in Mexico" policy, which requires non-Mexican migrants to stay in Mexico until their US immigration court dates. 
  <p class="updated_time"> 09:21 PM CT, Dec. 13 </p> 
@@ -380,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/manchin-fiscal-concerns-524158">Manchin keeps Dems guessing on their megabill</a> Politico: The Democratic senator still isn't committing to back President Joe Biden's social safety net legislation, citing fears about inflation and debt. 
- <p class="updated_time"> 12:35 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-kentucky-visit-tornado-damage/index.html">Biden to travel to Kentucky to survey storm damage on Wednesday</a> CNN: President Joe Biden on Monday announced he will travel to Kentucky later on this week to survey damage from tornadoes and severe storms. 
  <p class="updated_time"> 09:56 AM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/december-child-tax-credit-payment/index.html">December's child tax credit payment will be the last one unless Congress acts</a> CNN: Parents are set to get their last monthly infusion of the expanded child tax credit starting Wednesday -- unless Congress acts to extend it for another year. 
  <p class="updated_time"> 07:06 AM CT, Dec. 13 </p> 
@@ -402,8 +404,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/12/politics/kamala-harris-negative-headlines-media-coverage/index.html">Harris calls out 'ridiculous' press coverage of Paris trip but avoids questions on staff exits</a> CNN: Vice President Kamala Harris blasted press coverage of a personal shopping trip she took during an official visit to France last month as "ridiculous" but avoided questions about recent high-profile staff departures from her office, the San Francisco Chronicle reported Sunday. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
- <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
  <p class="updated_time"> 09:57 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/biden-democrats-2024.html">Democrats Are Solidly Behind Biden. There’s No Consensus About a Plan B.</a> NYT: Leaders with White House aspirations all say they’ll support the president for another term. But there is no shortage of chatter about the options if he continues to falter. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
