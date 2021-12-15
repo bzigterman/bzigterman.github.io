@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:06 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/africa/jacob-zuma-prison-south-africa.html">Jacob Zuma Must Return to Prison, South Africa Judge Rules</a> NYT: The former president had been granted medical parole two months into a 15-month prison sentence on contempt charges linked to a corruption inquiry. 
+ <p class="updated_time"> 12:06 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/africa/ethiopia-abiy-ahmed-nobel-war.html">The Nobel Peace Prize That Paved the Way for War in Ethiopia</a> NYT: This is the story behind how Ethiopia’s prime minister, Abiy Ahmed, won a Nobel Prize for making peace with his country’s longtime enemy — and then used the alliance to plan a war. 
+ <p class="updated_time"> 11:57 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html">Putin and Xi Hold Video Summit</a> NYT: President Vladimir V. Putin of Russia and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West but have not yet declared a formal alliance. 
  <p class="updated_time"> 11:47 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/iran-nuclear-cameras-iaea.html">Iran Agrees to Replace Cameras at Nuclear Site but Blocks Images</a> NYT: Iran’s failure to allow the U.N. nuclear agency to fully monitor its nuclear program is hindering talks in Vienna on restoring the 2015 nuclear deal. 
  <p class="updated_time"> 11:40 AM CT, Dec. 15 </p> 
@@ -15,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/travel/cruise-ships-coronavirus.html">On Cruise Ships, Omicron Puts Safety Protocols to the Test</a> NYT: Many lines are adjusting their masking, testing and vaccine rules, while criticism is mounting about the lack of transparency in reporting positive cases to passengers and crew members. 
  <p class="updated_time"> 11:25 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-michael-kretschmer-plot-saxony-vaccines.html">Vaccine Opponents in Germany Investigated Over Plot to Kill State Governor</a> NYT: The authorities in Dresden raided the homes of a group of people who they said were targeting the leader of the state of Saxony. A number of weapons were seized. 
- <p class="updated_time"> 11:08 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html">Putin and Xi Hold Video Summit</a> NYT: President Vladimir V. Putin of Russia and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West but have not yet declared a formal alliance. 
  <p class="updated_time"> 10:51 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/15/1064463596/german-police-anti-vax-assassination-plot">German police move against an alleged murder plot by anti-vaccination extremists </a> NPR: The police conducted raids in the city of Dresden and the nearby town of Heidenau come after a group allegedly organized online to kill Saxony's state premier, Michael Kretschmer. 
  <p class="updated_time"> 10:50 AM CT, Dec. 15 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/15/1064212737/new-zealands-cigarette-ban-model">New Zealand's unique cigarette ban may be a model for other countries</a> NPR: The proposed law would effectively impose a lifetime cigarette ban for people aged 14 and younger. Researchers applauded it but said similar bans elsewhere could be more challenging. 
  <p class="updated_time"> 09:50 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59669307?at_medium=RSS&at_campaign=KARANGA">2022 World Cup: Ex-media officer loses Qatar corruption appeal</a> BBC: Abdullah Ibhais claims he was prosecuted for corruption after raising concerns about migrant workers. 
- <p class="updated_time"> 09:37 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/africa/jacob-zuma-prison-south-africa.html">Jacob Zuma Must Return to Prison, South Africa Judge Rules</a> NYT: The former president had been granted medical parole two months into a 15-month prison sentence on contempt charges linked to a corruption inquiry. 
  <p class="updated_time"> 09:26 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59672998?at_medium=RSS&at_campaign=KARANGA">New York City names first female police chief</a> BBC: Keechant Sewell, 49, will be the first woman to lead the US's largest police force in its 176 years. 
  <p class="updated_time"> 09:18 AM CT, Dec. 15 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/15/1064432010/omicron-spread-variant-coronavirus">Omicron spreads faster than any other variant, WHO says. It's now in 77 countries</a> NPR: "Omicron is spreading at a rate we have not seen with any previous variant," says WHO Director-General Tedros Adhanom Ghebreyesus. 
  <p class="updated_time"> 08:21 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/india-sex-workers-benefits.html">India's Supreme Court Mandates Benefits for Sex Workers</a> NYT: Officials must enter them into databases for voting and benefits, the judges said, after they suffered from the effects of Covid-19 lockdowns. 
- <p class="updated_time"> 08:15 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/africa/ethiopia-abiy-ahmed-nobel-war.html">The Nobel Peace Prize That Paved the Way for War in Ethiopia</a> NYT: This is the story behind how Ethiopia’s prime minister, Abiy Ahmed, won a Nobel Prize for making peace with his country’s longtime enemy — and then used the alliance to plan a war. 
  <p class="updated_time"> 07:54 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59637586?at_medium=RSS&at_campaign=KARANGA">On the front line as Afghan children battle malnutrition and measles</a> BBC: The BBC reports from a hospital in remote Ghor province which is struggling to cope. 
  <p class="updated_time"> 07:54 AM CT, Dec. 15 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
+ <p class="updated_time"> 11:56 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/5th-circuit-biden-health-care-worker-mandate/index.html">Health care worker vaccine mandate can be enforced in half the country, appeals court says</a> CNN: A federal appeals court gave the Biden administration a partial win in the federal government's efforts to require Covid-19 vaccines for certain health care workers. 
  <p class="updated_time"> 11:46 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-kentucky-tornado.html">Biden Visits Kentucky to See Storm Damage</a> NYT: President Biden is visiting the state in an effort to offer comfort to victims and highlight the federal government’s response to devastating tornadoes. 
  <p class="updated_time"> 11:39 AM CT, Dec. 15 </p> 
@@ -334,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/business/fdic-board-meeting-chopra-mcwilliams.html">F.D.I.C. Meeting Is Followed by Scathing Statements</a> NYT: A dispute believed by some experts to be part of an effort by Democrats to unseat the chairwoman of the Federal Deposit Insurance Corporation board, a Trump appointee, spilled into public view last week. 
  <p class="updated_time"> 03:55 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064221034/house-recommends-criminal-contempt-of-congress-charges-against-mark-meadows">House recommends criminal contempt of Congress charges against Mark Meadows</a> NPR: The House voted to refer former White House chief of staff Mark Meadows on criminal contempt of Congress charges. The Justice Department will now decide whether he could face criminal charges. 
- <p class="updated_time"> 03:29 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/student-loans-biden-february/index.html">Biden still plans to restart federal student loan payments in February</a> CNN: President Joe Biden still plans to restart federal student loan payments in February, resisting pressure from some fellow Democrats who continue to call for an extension of coronavirus pandemic relief benefits. 
  <p class="updated_time"> 03:17 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/biden-pfizer-covid-antiviral-pill/index.html">Biden says he's 'encouraged by the promising data' on Pfizer's Covid-19 antiviral pill</a> CNN: President Joe Biden on Tuesday praised Pfizer's report that its experimental treatment for Covid-19 cut the risk of hospitalization or death by 89% if given to high-risk adults within a few days of their first symptoms. 
  <p class="updated_time"> 02:17 PM CT, Dec. 14 </p> 
