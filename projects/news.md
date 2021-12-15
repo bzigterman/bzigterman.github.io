@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:44 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/india-sex-workers-benefits.html">India's Supreme Court Mandates Benefits for Sex Workers</a> NYT: Officials must enter them into databases for voting and benefits, the judges said, after they suffered from the effects of Covid-19 lockdowns. 
  <p class="updated_time"> 07:33 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/gop-governors-vaccine-pentagon.html">5 Republican Governors Seek Vaccine Exemptions for National Guard Troops</a> NYT: The move comes as the Pentagon released a new order this week saying that National Guard members who do not get vaccinated would receive a general order of reprimand, essentially ending their careers. 
  <p class="updated_time"> 07:31 AM CT, Dec. 15 </p> 
@@ -15,8 +17,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html">Putin and Xi Hold Video Summit</a> NYT: President Vladimir V. Putin and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West but have not yet declared a formal alliance. 
  <p class="updated_time"> 07:13 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59665825?at_medium=RSS&at_campaign=KARANGA">Jacob Zuma: South African court orders ex-president back to jail</a> BBC: Jacob Zuma was granted medical parole after being sentenced to serve 15 months in jail. 
- <p class="updated_time"> 07:03 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/india-sex-workers-benefits.html">India's Supreme Court Mandates Benefits for Sex Workers</a> NYT: Officials must enter them into databases for voting and benefits, the judges said, after they suffered from the effects of Covid-19 lockdowns. 
+ <p class="updated_time"> 06:58 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59664077?at_medium=RSS&at_campaign=KARANGA">Riccardo Ehrman: Journalist who prompted Berlin Wall to fall dies</a> BBC: Riccardo Ehrman asked the historic question that led to East Germans tearing down the wall in 1989. 
  <p class="updated_time"> 06:50 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/omicron-hong-kong-study.html">Two Doses of China's Sinovac Inadequate Against Omicron, Hong Kong Study Suggests</a> NYT: The research suggests that the Chinese vaccine had little effect against Omicron and that the efficacy of the Pfizer-BioNTech vaccine seemed to wane. 
  <p class="updated_time"> 06:40 AM CT, Dec. 15 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59659513?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: A miraculous escape after a candle factory's collapse</a> BBC: Colleagues sang Happy Birthday to Kyanna Parsons-Perez after a tornado buried them all in rubble. 
  <p class="updated_time"> 01:16 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59659543?at_medium=RSS&at_campaign=KARANGA">Russia told to pay compensation to woman whose hands were cut off</a> BBC: Europe's top human rights court says authorities failed to protect her against domestic violence. 
- <p class="updated_time"> 12:10 PM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
  <p class="updated_time"> 10:50 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/first-big-omicron-study-finds-two-doses-of-pfizers-vaccine-cuts-hospitalization-risk-by-70-11639495432">Study Finds Two Pfizer Vaccine Doses Offer Less Protection Against Omicron Than Against Delta</a> WSJ: The first large real-world study found that while Omicron reduced vaccine effectiveness against infection to 33% from 80% for Delta, its effect on protection against hospitalization was less marked, falling to 70% from 93%. 
  <p class="updated_time"> 10:37 AM CT, Dec. 14 </p> 
