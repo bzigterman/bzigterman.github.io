@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:13 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/africa/ethiopia-abiy-ahmed-nobel-war.html">The Nobel Peace Prize That Paved the Way for War in Ethiopia</a> NYT: This is the story behind how Ethiopia’s prime minister, Abiy Ahmed, won a Nobel Prize for making peace with his country’s longtime enemy — and then used the alliance to plan a war. 
+ <p class="updated_time"> 05:12 PM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59676772?at_medium=RSS&at_campaign=KARANGA">Bird songs bump stars off Australian music chart</a> BBC: Debuting in the top 5, the album featuring endangered birds is above Justin Bieber and Abba. 
  <p class="updated_time"> 04:49 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/coronavirus-omicron-vaccines-wave.html">Coronavirus Briefing: Omicron vs. vaccines</a> NYT: And the coming Omicron wave. 
  <p class="updated_time"> 04:17 PM CT, Dec. 15 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
  <p class="updated_time"> 12:06 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/africa/jacob-zuma-prison-south-africa.html">Jacob Zuma Must Return to Prison, South Africa Judge Rules</a> NYT: The former president had been granted medical parole two months into a 15-month prison sentence on contempt charges linked to a corruption inquiry. 
- <p class="updated_time"> 12:06 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/africa/ethiopia-abiy-ahmed-nobel-war.html">The Nobel Peace Prize That Paved the Way for War in Ethiopia</a> NYT: This is the story behind how Ethiopia’s prime minister, Abiy Ahmed, won a Nobel Prize for making peace with his country’s longtime enemy — and then used the alliance to plan a war. 
  <p class="updated_time"> 11:47 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/iran-nuclear-cameras-iaea.html">Iran Agrees to Replace Cameras at Nuclear Site but Blocks Images</a> NYT: Iran’s failure to allow the U.N. nuclear agency to fully monitor its nuclear program is hindering talks in Vienna on restoring the 2015 nuclear deal. 
  <p class="updated_time"> 11:40 AM CT, Dec. 15 </p> 
@@ -131,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59646562?at_medium=RSS&at_campaign=KARANGA">Southern right whales: Tracking unexpected Southern Ocean migrations</a> BBC: New Zealand scientists have used satellite tags to follow whales around the Southern Ocean. 
  <p class="updated_time"> 06:07 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Gasoline Truck in Haiti Explodes, Killing More Than 60</a> NYT: Scores more were injured in the blast, the latest tragedy to hit a country that has been rocked by political violence, natural disasters, poverty and hunger. 
- <p class="updated_time"> 04:37 PM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59658663?at_medium=RSS&at_campaign=KARANGA">Billie Eilish says porn exposure while young caused nightmares</a> BBC: The singer-songwriter spoke about how "abusive" pornography skewed her early sexual experiences. 
  <p class="updated_time"> 04:28 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/belarus-opposition-sergei-tikhanovsky.html">Belarus Opposition Leader Is Sentenced to 18 Years in Prison</a> NYT: The activist Sergei Tikhanovsky planned to challenge the country’s authoritarian leader, Aleksandr G. Lukashenko, in a presidential election last year. He was arrested before the vote and his wife stepped in. 
  <p class="updated_time"> 04:20 PM CT, Dec. 14 </p> 
@@ -204,6 +204,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/trump-january-6-obstruction-law-524806">Jan. 6 investigators mull whether Trump violated obstruction law</a> Politico: Rep. Liz Cheney (R-Wyo.) raised the question using precise terminology from the criminal statute that some view as possibly applicable to the former president's actions. 
  <p class="updated_time"> 05:04 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/omicron-covid-testing-524820">HHS forecast shows Omicron stretching U.S. Covid testing supply</a> Politico: The nation's supply could be stretched by the need to conduct 3 to 5 million tests per day by late January or early February. 
+ <p class="updated_time"> 05:02 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/democrat-covid-package-push/index.html">House Democrat calls for Congress to pass another Covid relief package </a> CNN: Rep. Jamaal Bowman, a progressive freshman Democrat from New York, is calling on Congress to pass another Covid-19 relief package as the country marks 800,000 deaths from the virus and the threat of the Omicron variant only grows. 
+ <p class="updated_time"> 05:00 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/jim-jordan-mark-meadows-text/index.html">Jim Jordan sent one of the texts revealed by January 6 committee</a> CNN: Rep. Jim Jordan forwarded a text message to then-White House chief of staff Mark Meadows on January 5, outlining a legal theory that then-Vice President Mike Pence had the authority to stand in the way of the certification of the 2020 election. 
+ <p class="updated_time"> 04:55 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/lawmakers-cyber-surveillance-sanction-letter/index.html">Lawmakers urge Biden administration to sanction NSO Group and other cyber surveillance firms</a> CNN: More than a dozen Democratic lawmakers have called on the Biden administration to sanction four cyber surveillance firms for "enabling human rights abuses" by "selling powerful surveillance technology to authoritarian governments." 
+ <p class="updated_time"> 04:50 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/yuma-arizona-migrants/index.html">A dramatic increase in number of migrants seeking asylum in Arizona overwhelms Border Patrol</a> CNN: Under the shadow of the border wall, dozens of migrants raced to get in line as they spotted the glimmer of vehicle lights down the road. US Border Patrol agents were on the way. 
  <p class="updated_time"> 04:33 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/biden-kentucky-visit/index.html">Biden says feds will cover 100% of the cost to clean up from Kentucky tornado for the first 30 days of recovery</a> CNN: President Joe Biden will travel to Kentucky on Wednesday in the wake of deadly tornadoes and severe storms that devastated the area, where he'll survey storm damage, meet with victims and deliver remarks. 
  <p class="updated_time"> 04:25 PM CT, Dec. 15 </p> 
@@ -214,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/15/politics/biden-administration-jfk-documents/index.html">JFK researchers underwhelmed by latest release of assassination documents</a> CNN: The Biden administration faces a Wednesday deadline to publicly release a tranche of secret documents that some historians -- and conspiracy theorists -- hope might shed light on the 1963 assassination of President John F. Kennedy. 
  <p class="updated_time"> 04:08 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/voting-rights-king-family.html">King Family, Activists Plan Marches to Pressure Democrats on Voting Rights</a> NYT: Prominent backers of stalled voting rights legislation plan a blitz emphasizing the urgent need to counter new state restrictions. 
- <p class="updated_time"> 04:02 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/jim-jordan-mark-meadows-text/index.html">Jim Jordan sent one of the texts revealed by January 6 committee</a> CNN: Rep. Jim Jordan forwarded a text message to then-White House chief of staff Mark Meadows on January 5, outlining a legal theory that then-Vice President Mike Pence had the authority to stand in the way of the certification of the 2020 election. 
  <p class="updated_time"> 04:02 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064614645/the-texts-fox-hosts-sent-during-the-jan-6-riot-dont-match-how-fox-covered-it-on-">The texts Fox hosts sent during the Jan. 6 riot don't match how Fox covered it on air</a> NPR: Fox hosts sent desperate messages during the Capitol riot, urging Trump to act. The messages are a stark contrast to the way Fox has covered the insurrection on air. 
  <p class="updated_time"> 04:01 PM CT, Dec. 15 </p> 
@@ -300,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/15/politics/black-farmers-debt-relief-disparities/index.html">In a cash flow business, White farmers have the upper hand</a> CNN: Texas cattle rancher Deydra Steans quit her teaching job three years ago to help save her family's farming operations. 
  <p class="updated_time"> 06:19 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/15/a-junkies-guide-to-the-2022-midterms-495470"> A junkie’s guide to the 2022 midterms</a> Politico Playbook: And the House votes to hold Mark Meadows in contempt of Congress. 
- <p class="updated_time"> 06:09 AM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/elissa-slotkin-gun-legislation-oxford-school-shooting/index.html">Michigan Democrat introduces legislation requiring gun owners safely store firearms in wake of Oxford school shooting</a> CNN: Michigan Democratic Rep. Elissa Slotkin is introducing legislation on Wednesday that would require the safe storage of firearms in the wake of the Oxford school shooting in her district that left four students dead last month. 
  <p class="updated_time"> 06:00 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/the-mission-to-save-truth-524218">The mission to save truth</a> Politico: A new fund wants to raise one billion dollars to save independent journalism around the world. 
  <p class="updated_time"> 04:31 AM CT, Dec. 15 </p> 
@@ -320,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/15/1064114046/congress-votes-to-raise-the-debt-ceiling-punting-the-next-fight-to-2023">Congress votes to raise the debt ceiling, punting the next fight to 2023</a> NPR: Congress approved a measure to increase the debt limit by $2.5 trillion, shifting the deadline for default until after the 2022 midterm elections. 
  <p class="updated_time"> 10:07 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064068696/the-house-votes-to-hold-mark-meadows-in-contempt-sending-a-criminal-referral-to-">The House votes to hold Mark Meadows in contempt, sending a criminal referral to DOJ</a> NPR: The vote now leaves it up to the Justice Department to decide whether it will pursue criminal charges against the former White House chief of staff. 
- <p class="updated_time"> 09:12 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-text-messages/index.html">'Need to end this call': January 6 committee reveals new text message to Meadows</a> CNN: The House select committee investigating the January 6 attack on the US Capitol released new text messages obtained from former Trump White House chief of staff Mark Meadows that were sent to him in the days leading up to the insurrection and while the Capitol was under siege. 
  <p class="updated_time"> 08:31 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/eastman-sues-jan6-records-524441">Eastman sues Jan. 6 committee and Verizon to prevent release of phone records</a> Politico: A similar lawsuit was filed Monday by four organizers of the Jan. 6 rally, 
  <p class="updated_time"> 07:53 PM CT, Dec. 14 </p> 
@@ -338,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/us/politics/senate-races-2022.html">10 Senate Races to Watch in 2022</a> NYT: Democrats have a razor-thin margin that could be upended with the loss of a single seat. 
  <p class="updated_time"> 05:45 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/trump-tax-returns-legal-524235">Judge scraps Trump lawsuit to shield tax returns from Congress</a> Politico: But the judge stayed the impact of his ruling for 14 days. 
- <p class="updated_time"> 05:44 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/january-6-trump-charges-what-matters/index.html">January 6 committee seeks accountability for 2020. Trump backers seek control of 2024</a> CNN: Fox News personalities and Donald Trump Jr. may downplay the January 6 insurrection now, but as it was happening, they were frantically sending text messages to former White House chief of staff Mark Meadows. 
  <p class="updated_time"> 05:44 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/health/fda-commissioner-califf-senate.html">Senators Question Califf, the F.D.A. Nominee, on Opioid Crisis and Pandemic Response</a> NYT: A Senate panel hearing on Tuesday signaled that Dr. Robert Califf, who briefly led the agency during the Obama administration, had some bipartisan support. 
  <p class="updated_time"> 05:40 PM CT, Dec. 14 </p> 
