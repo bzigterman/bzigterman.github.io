@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:40 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat Carrying Indonesian Migrants Sinks Near Malaysia, Killing at Least 10</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving 29 others missing, officials said. 
  <p class="updated_time"> 02:21 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/greece-covid-school-abduction.html">Three Jailed in Greece After a Principal was Handcuffed Over Virus Measures</a> NYT: Police said a group of people handcuffed the principal on Friday and drove him to a local precinct, suggesting that officers arrest him for enforcing Covid measures. 
  <p class="updated_time"> 01:55 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59663826?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Fire at World Trade Centre leaves more than 100 trapped on roof</a> BBC: The fire broke out in a machine room which eventually led to the scaffolding catching fire. 
- <p class="updated_time"> 01:39 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat Carrying Indonesian Migrants Sinks Near Malaysia, Killing at Least 10</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving 29 others missing, officials said. 
  <p class="updated_time"> 11:39 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59661857?at_medium=RSS&at_campaign=KARANGA">US Congress narrowly votes to raise debt limit</a> BBC: The measure, which raises the limit by $2.5tr (£1.9tr), comes days before a potential US default. 
  <p class="updated_time"> 11:36 PM CT, Dec. 14 </p> 
@@ -109,6 +109,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064018450/tensions-over-ukraine-come-as-relations-between-russia-and-nato-are-at-an-all-ti">Tensions over Ukraine come as relations between Russia and NATO are at an all-time low</a> NPR: Russian President Vladimir Putin once floated the prospect of his country joining NATO. 
  <p class="updated_time"> 06:21 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/famed-russian-rights-group-that-investigated-soviet-era-crimes-faces-closure-under-putin-11639502515">Famed Russian Rights Group That Investigated Soviet-Era Crimes Faces Closure Under Putin</a> WSJ: Government prosecutors are pushing for Memorial’s umbrella organization and its human-rights wing to be dissolved in what many people here view as one of the most shocking examples yet of how the Kremlin is squeezing space for dissent. 
+ <p class="updated_time"> 05:15 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/business/china-olympics-peng-shuai-samaranch.html">China Turns to I.O.C. as Peng Shuai Scandal Lingers</a> NYT: The International Olympic Committee’s professed neutrality has provided coverage for Beijing, which delivers big audiences and funding in exchange. 
  <p class="updated_time"> 04:45 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/a-second-omicron-case-in-china-raises-the-prospect-of-stricter-controls.html">A second Omicron case in China raises the prospect of stricter controls.</a> NYT: Though both Omicron cases were quarantined upon arrival, a small outbreak in a building where one man was quarantining highlights how difficult it may be to control the new variant. 
  <p class="updated_time"> 04:00 AM CT, Dec. 14 </p> 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/health/omicron-travel-setbacks.html">How Conflicting Guidance on Travel During the Pandemic Shows Little Progress</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
  <p class="updated_time"> 07:19 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59461807?at_medium=RSS&at_campaign=KARANGA">Sex and cancer: 'I was ashamed to ask for help'</a> BBC: Cait didn't know why it hurt to masturbate after her treatment - and didn't know who to ask. 
- <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Drone Strike</a> NYT: The military initially defended the strike, which killed 10 civilians including seven children, but ultimately called it a tragic mistake. 
  <p class="updated_time"> 06:06 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59645557?at_medium=RSS&at_campaign=KARANGA">Tom Holland: 'There are kids who look up to Spider-Man'</a> BBC: Spider-Man: No Way Home is Tom Holland's third solo film and his sixth as part of the Avengers. 
  <p class="updated_time"> 06:05 PM CT, Dec. 13 </p> 
