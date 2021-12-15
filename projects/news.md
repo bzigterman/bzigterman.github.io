@@ -206,8 +206,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:15 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/meadows-congress-justice-department-referral/index.html">House votes to refer Mark Meadows to Justice Department for contempt of Congress</a> CNN: The House is set to vote on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal charges for failing to appear for a deposition with the select committee investigating the January 6 attack. 
+ <p class="updated_time"> 10:07 PM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/14/1064068696/the-house-votes-to-hold-mark-meadows-in-contempt-sending-a-criminal-referral-to-">The House votes to hold Mark Meadows in contempt, sending a criminal referral to DOJ</a> NPR: The vote now leaves it up to the Justice Department to decide whether it will pursue criminal charges against the former White House chief of staff. 
  <p class="updated_time"> 09:34 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/house-debate-islamophobia.html">Muslim Lawmaker Comes Under Fire in House Debate on ‘Islamophobia’</a> NYT: A conservative Republican accused Ilhan Omar, the sponsor of a House bill to combat anti-Muslim bias, of terrorist sympathies. 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/ilhan-omar-house-debate-islamophobia.html">Muslim Lawmaker Comes Under Fire in House Debate on ‘Islamophobia’</a> NYT: A conservative Republican accused Ilhan Omar, the sponsor of a House bill to combat anti-Muslim bias, of terrorist sympathies. 
  <p class="updated_time"> 09:12 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-text-messages/index.html">'Need to end this call': Jan. 6 committee reveals new text message to Meadows</a> CNN: The House select committee investigating the January 6 attack on the US Capitol released new text messages obtained from former Trump White House chief of staff Mark Meadows that were sent to him in the days leading up to the insurrection and while the Capitol was under siege. 
  <p class="updated_time"> 08:47 PM CT, Dec. 14 </p> 
@@ -262,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/health/hospitals-vaccine-mandate.html">Big Hospital Chains Drop Vaccine Mandates for Health Workers</a> NYT: With the federal requirement in limbo because of legal challenges, some major multistate hospital systems have stopped enforcing their own policies. 
  <p class="updated_time"> 05:09 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/business/media/new-york-times-project-veritas.html">Judge Clarifies Order on New York Times Coverage of Project Veritas</a> NYT: The decision allows some latitude for reporting until a final ruling is reached. The Times said the order remained “an unconstitutional prior restraint that should be dissolved.” 
- <p class="updated_time"> 04:47 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/meadows-congress-justice-department-referral/index.html">House to vote to refer Mark Meadows to DOJ for contempt of Congress</a> CNN: The House is set to vote on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal charges for failing to appear for a deposition with the select committee investigating the January 6 attack. 
  <p class="updated_time"> 04:32 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megabill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
  <p class="updated_time"> 04:29 PM CT, Dec. 14 </p> 
@@ -374,12 +376,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/defense-claims-politics-fortenberry-indictment-524164">Defense claims politics behind indictment of Rep. Jeff Fortenberry</a> Politico: A federal judge in Los Angeles heard arguments on the Nebraska Republican’s bid to toss out the criminal false-statement case. 
  <p class="updated_time"> 03:28 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063824307/cop26-president-alok-sharma-on-the-road-ahead-after-glasgow">COP26 president Alok Sharma on the road ahead after Glasgow</a> NPR: NPR's Ari Shapiro speaks with COP26 president Alok Sharma about promises and agreements made at the recent climate summit in Glasgow and what more needs to be done. 
- <p class="updated_time"> 03:17 PM CT, Dec. 13 </p> 
- <a href="https://www.npr.org/2021/12/13/1063824286/jan-6-panel-report-shows-mark-meadows-role-in-trying-to-overturn-election">Jan. 6 panel report shows Mark Meadows' role in trying to overturn election</a> NPR: The House committee investigating the Jan. 6 insurrection is moving forward to hold former Trump White House chief of staff Mark Meadows in contempt of Congress after he stopped cooperating with them. 
  <p class="updated_time"> 01:48 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/manchin-fiscal-concerns-524158">Manchin keeps Dems guessing on their megabill</a> Politico: The Democratic senator still isn't committing to back President Joe Biden's social safety net legislation, citing fears about inflation and debt. 
+ <p class="updated_time"> 12:35 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-kentucky-visit-tornado-damage/index.html">Biden to travel to Kentucky to survey storm damage on Wednesday</a> CNN: President Joe Biden on Monday announced he will travel to Kentucky later on this week to survey damage from tornadoes and severe storms. 
  <p class="updated_time"> 09:56 AM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/december-child-tax-credit-payment/index.html">December's child tax credit payment will be the last one unless Congress acts</a> CNN: Parents are set to get their last monthly infusion of the expanded child tax credit starting Wednesday -- unless Congress acts to extend it for another year. 
  <p class="updated_time"> 07:06 AM CT, Dec. 13 </p> 
