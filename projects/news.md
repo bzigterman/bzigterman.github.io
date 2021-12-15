@@ -38,7 +38,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:36 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-59662421?at_medium=RSS&at_campaign=KARANGA">South Korean dairy giant apologises for controversial advert</a> BBC: The company also faced a backlash over the advert's similarity to "molka", or secret filming. 
  <p class="updated_time"> 11:30 PM CT, Dec. 14 </p> 
- <a href="https://www.wsj.com/articles/after-taliban-return-afghan-women-face-old-pressures-from-fathers-brothers-11639564204">Afghan Women Face Old Pressures From Fathers, Brothers</a> WSJ: With the return to Taliban rule, family dynamics are changing as some men forcefully assert their power over wives, daughters and sisters. “Nothing scares me more than my father. Not even the Taliban,” says one activist. 
+ <a href="https://www.wsj.com/articles/after-taliban-return-afghan-women-face-old-pressures-from-fathers-brothers-11639564204">Afghan Women Face Old Family Pressures</a> WSJ: With the return to Taliban rule, family dynamics are changing as some men forcefully assert their power over wives, daughters and sisters. “Nothing scares me more than my father. Not even the Taliban,” says one activist. 
  <p class="updated_time"> 10:56 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59661306?at_medium=RSS&at_campaign=KARANGA">Mark Meadows: Trump ex-chief of staff in contempt of Congress</a> BBC: The Democrat-led House of Representatives rebuked Mark Meadows for defying a congressional panel. 
  <p class="updated_time"> 10:28 PM CT, Dec. 14 </p> 
@@ -202,12 +202,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:19 AM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/15/a-junkies-guide-to-the-2022-midterms-495470">POLITICO Playbook: A junkie’s guide to the 2022 midterms</a> Politico: And the House votes to hold Mark Meadows in contempt of Congress. 
+ <p class="updated_time"> 05:02 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/independent-redistricting-commissions-2022-elections/index.html">Independent redistricting panels aim to draw fairer maps but still invite controversy</a> CNN: As the 14 commissioners of the California Citizens Redistricting Commission drew the state's new congressional districts over the past week, they pored over maps on Zoom sessions that often stretched late into the night, scooping up census tracts as building blocks to create districts of roughly equal size with a keen eye toward keeping communities with shared interests together, while protecting majority-minority districts as required under the law. 
  <p class="updated_time"> 04:59 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/main-recoverylab-capstone-data-methodology-524101">Why — and how — we created the State Pandemic Scorecard</a> Politico: The data is coming in, but it’s not perfect. Here’s what to keep in mind. 
  <p class="updated_time"> 04:31 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/democratic-governors-covid-fatigue-524425">‘They’re sick of masks’: Democratic governors fight Covid fatigue</a> Politico: The party’s defeat last month in Virginia — and closer-than-expected victory in New Jersey — has many Democrats searching for an off-ramp to the pandemic that allows them to sell a brighter future to voters next November. 
  <p class="updated_time"> 04:06 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064385999/new-york-city-will-allow-legal-non-citizens-to-vote-in-local-elections">New York City will allow 800,000 noncitizens to vote in local elections</a> NPR: NPR's Rachel Martin talks to Ron Hayduk, a professor of political science at San Francisco State University, about New York City allowing noncitizen immigrants to vote in local elections. 
+ <p class="updated_time"> 04:05 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/biden-judicial-nominations-trump/index.html">Biden to surpass Trump in first-year judicial nominees; a window into a major Democratic push </a> CNN: President Joe Biden will soon announce his latest wave of nine judicial nominees, according to a White House official, capping a year where the selections -- and an effort to establish an imprint on the federal courts -- served as a focal point for his administration. 
+ <p class="updated_time"> 04:05 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/biden-administration-jfk-documents/index.html">Biden admin expected to release some previously classified JFK assassination documents</a> CNN: The Biden administration faces a Wednesday deadline to publicly release a tranche of secret documents that some historians -- and conspiracy theorists -- hope might shed light on the 1963 assassination of President John F. Kennedy. 
+ <p class="updated_time"> 04:04 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/biden-kentucky-visit/index.html">Biden is set to visit Kentucky following deadly tornadoes and storms</a> CNN: President Joe Biden will travel to Kentucky on Wednesday in the wake of deadly tornadoes and severe storms that devastated the area, where he'll survey storm damage, meet with victims and deliver remarks. 
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-stimulus-bill-republicans.html">Republicans Who Assailed Biden’s Stimulus Bill Are Embracing the Money</a> NYT: Republican governors who criticized the $1.9 trillion Covid relief bill as wasteful are championing state projects funded by the money. 
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
@@ -222,6 +232,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/15/1064114046/congress-votes-to-raise-the-debt-ceiling-punting-the-next-fight-to-2023">Congress votes to raise the debt ceiling, punting the next fight to 2023</a> NPR: Congress approved a measure to increase the debt limit by $2.5 trillion, shifting the deadline for default until after the 2022 midterm elections. 
  <p class="updated_time"> 11:29 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/senate-votes-debt-limit-congress-deadline/index.html">Congress votes to increase debt limit by $2.5 trillion extending into 2023</a> CNN: The Senate is on track to vote on Tuesday to raise the national debt limit as lawmakers race to avert a catastrophic default ahead of a critical mid-week deadline. 
+ <p class="updated_time"> 11:21 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/mark-meadows-january-6-committee-donald-trump/index.html">Meadows contempt vote shows growing power of January 6 committee </a> CNN: The House of Representatives staked out a dramatic new defense of democracy by citing Mark Meadows for criminal contempt over his refusal to testify about Donald Trump's coup attempt on January 6. 
  <p class="updated_time"> 11:05 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/trump-organization-investigation-grand-jury-donald-bender/index.html">Trump accountant has testified before NY grand jury in criminal investigation, sources say</a> CNN: A key accountant to Donald Trump appeared before a Manhattan grand jury investigating the former President's business practices earlier this year, two people familiar with the matter confirmed to CNN on Tuesday. 
  <p class="updated_time"> 10:48 PM CT, Dec. 14 </p> 
@@ -256,18 +268,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/democrats-cruz-hawley-biden-ambassadors-524220">Dems launch talks to break Cruz-Hawley blockade of Biden ambassadors</a> Politico: But while the price for one GOP 2024 contender's help is clear, another is less open about what it'll take to ease his holds. 
  <p class="updated_time"> 05:59 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/build-back-better-problems/index.html">Democrats face mounting obstacles to finishing social safety net bill before Christmas -- and it's not just Manchin</a> CNN: As Democrats race to finish the President's Build Back Better legislation before the Christmas recess and convince a skeptical West Virginia Sen. Joe Manchin, there are other obstacles piling up that could prevent them from meeting their self-imposed deadline. 
- <p class="updated_time"> 05:57 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/cuomo-book-return-money/index.html">Ethics commission orders former NY Gov. Andrew Cuomo to give state back earnings from $5.1M pandemic book deal</a> CNN: A New York State public ethics commission has voted to order former Gov. Andrew Cuomo to pay back earnings from the $5.1 million deal he received to write a book about leading the state during the coronavirus pandemic, after the commission previously found that state resources were used in connection with the book's creation. 
  <p class="updated_time"> 05:47 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/senate-races-2022.html">10 Senate Races to Watch in 2022</a> NYT: Democrats have a razor-thin margin that could be upended with the loss of a single seat. 
  <p class="updated_time"> 05:45 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/trump-tax-returns-legal-524235">Judge scraps Trump lawsuit to shield tax returns from Congress</a> Politico: But the judge stayed the impact of his ruling for 14 days. 
  <p class="updated_time"> 05:44 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/january-6-trump-charges-what-matters/index.html">Analysis: January 6 committee seeks accountability for 2020. Trump backers seek control of 2024</a> CNN: Fox News personalities and Donald Trump Jr. may downplay the January 6 insurrection now, but as it was happening, they were frantically sending text messages to former White House chief of staff Mark Meadows. 
+ <a href="https://www.cnn.com/2021/12/14/politics/january-6-trump-charges-what-matters/index.html">January 6 committee seeks accountability for 2020. Trump backers seek control of 2024</a> CNN: Fox News personalities and Donald Trump Jr. may downplay the January 6 insurrection now, but as it was happening, they were frantically sending text messages to former White House chief of staff Mark Meadows. 
  <p class="updated_time"> 05:44 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/health/fda-commissioner-califf-senate.html">Senators Question Califf, the F.D.A. Nominee, on Opioid Crisis and Pandemic Response</a> NYT: A Senate panel hearing on Tuesday signaled that Dr. Robert Califf, who briefly led the agency during the Obama administration, had some bipartisan support. 
- <p class="updated_time"> 05:41 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/kristi-noem-south-dakota-daughter-real-estate-license/index.html">Gov. Kristi Noem's daughter given extra chance to obtain real estate license, former state employee testifies</a> CNN: The former state employee who is at the center of the controversy over whether South Dakota Gov. Kristi Noem intervened to help her daughter obtain a real estate appraiser license testified before state lawmakers on Tuesday that Noem's daughter was given an extra chance to correct her work so that her application would not be denied and that the state's process for handling her application was unusual. 
  <p class="updated_time"> 05:40 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/califf-fda-gop-524226">Biden’s FDA pick on track for confirmation with GOP help</a> Politico: A confirmation vote in January would give the agency a permanent political leader for the first time during the Biden presidency. 
  <p class="updated_time"> 05:33 PM CT, Dec. 14 </p> 
@@ -292,10 +300,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/business/fdic-board-meeting-chopra-mcwilliams.html">F.D.I.C. Meeting Is Followed by Scathing Statements</a> NYT: A dispute believed by some experts to be part of an effort by Democrats to unseat the chairwoman of the Federal Deposit Insurance Corporation board, a Trump appointee, spilled into public view last week. 
  <p class="updated_time"> 03:55 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064221034/house-recommends-criminal-contempt-of-congress-charges-against-mark-meadows">House recommends criminal contempt of Congress charges against Mark Meadows</a> NPR: The House voted to refer former White House chief of staff Mark Meadows on criminal contempt of Congress charges. The Justice Department will now decide whether he could face criminal charges. 
- <p class="updated_time"> 03:51 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/maryland-health-department-hack-covid-19-data/index.html">Cybersecurity incident prevents Maryland Health Department from publishing Covid-19 case data</a> CNN: The Maryland Health Department has not published data on coronavirus case rates for nine days as it recovers from a "network security incident," the department said Tuesday. 
- <p class="updated_time"> 03:24 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/house-lawmakers-ukraine-russia/index.html">House lawmakers push Biden administration to do more to deter Russian aggression against Ukraine</a> CNN: US lawmakers who have just returned from a trip to Ukraine are urging the Biden administration to take proactive steps to prevent further Russian aggression toward the country and to be prepared to place "extreme sanctions" on Moscow if it moves militarily against its neighbor. 
+ <p class="updated_time"> 03:29 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/student-loans-biden-february/index.html">Biden still plans to restart federal student loan payments in February</a> CNN: President Joe Biden still plans to restart federal student loan payments in February, resisting pressure from some fellow Democrats who continue to call for an extension of coronavirus pandemic relief benefits. 
  <p class="updated_time"> 03:17 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/biden-pfizer-covid-antiviral-pill/index.html">Biden says he's 'encouraged by the promising data' on Pfizer's Covid-19 antiviral pill</a> CNN: President Joe Biden on Tuesday praised Pfizer's report that its experimental treatment for Covid-19 cut the risk of hospitalization or death by 89% if given to high-risk adults within a few days of their first symptoms. 
  <p class="updated_time"> 02:23 PM CT, Dec. 14 </p> 
@@ -313,7 +319,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
  <p class="updated_time"> 12:25 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/trump-pence-comments-2020-certification/index.html">Trump says Pence is 'mortally wounded' inside the GOP for his role in certifying 2020 election results</a> CNN: As former Vice President Mike Pence weighs his future in politics -- laying the groundwork for a possible presidential campaign in 2024 and supporting Republican candidates who face reelection next fall -- former President Donald Trump said Pence is "mortally wounded" inside the GOP. 
+ <a href="https://www.cnn.com/2021/12/14/politics/trump-pence-comments-2020-certification/index.html">Trump says Pence is 'mortally wounded' inside GOP for his role in certifying 2020 election results</a> CNN: As former Vice President Mike Pence weighs his future in politics -- laying the groundwork for a possible presidential campaign in 2024 and supporting Republican candidates who face reelection next fall -- former President Donald Trump said Pence is "mortally wounded" inside the GOP. 
  <p class="updated_time"> 12:07 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/dc-proud-boys-oath-keepers-lawsuit/index.html">DC AG sues Proud Boys, Oath Keepers members to recoup costs related to January 6</a> CNN: More than two dozen members of the Proud Boys and Oath Keepers are being sued by District of Columbia Attorney General Karl Racine in an effort to recover the millions of dollars the city spent to defend the US Capitol during the January 6 attack. 
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
@@ -372,8 +378,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/us/politics/trump-subpoena-financial-records.html">Lawyers Clash Again Over Subpoena for Trump’s Financial Records</a> NYT: The long-running case dates back to an early 2019 House Oversight Committee demand to see years of the then-president’s financial data. 
  <p class="updated_time"> 05:59 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063767973/saule-omarova-gets-candid-banks-sank-her-nomination-to-head-occ">Saule Omarova gets candid: Banks sank her nomination to become a key regulator</a> NPR: Days after withdrawing her nomination to become a key banking regulator, Omarova blames banks for distorting her research and creating an ugly environment. 
- <p class="updated_time"> 05:52 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/nashville-murder-for-hire-plot/index.html">4 men indicted in $750,000 murder-for-hire kidnapping plot to keep an affair secret</a> CNN: A Texas businessman and three others accused of conspiring in a murder-for-hire kidnapping plot were arrested last week, the Justice Department said. 
+ <p class="updated_time"> 05:54 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/biden-manchin-build-back-better/index.html">Biden and Manchin spoke last week as he tries to secure senator's vote on Build Back Better bill</a> CNN: President Joe Biden spoke with Sen. Joe Manchin late last week, according to a source familiar with the conversation, as the President works to secure the West Virginia Democrat's vote for his expansive economic and climate bill he wants passed by the end of the year.  
  <p class="updated_time"> 05:49 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/manchin-social-policy-bill.html">Manchin Casts Doubt on Quick Vote on Biden’s Social Policy Bill</a> NYT: The West Virginia Democrat said he still harbored serious concerns about the $2.2 trillion measure, potentially frustrating his party’s push to win Senate approval before Christmas. 
  <p class="updated_time"> 05:26 PM CT, Dec. 13 </p> 
@@ -384,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/manchin-fiscal-concerns-524158">Manchin keeps Dems guessing on their megabill</a> Politico: The Democratic senator still isn't committing to back President Joe Biden's social safety net legislation, citing fears about inflation and debt. 
- <p class="updated_time"> 09:56 AM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/december-child-tax-credit-payment/index.html">December's child tax credit payment will be the last one unless Congress acts</a> CNN: Parents are set to get their last monthly infusion of the expanded child tax credit starting Wednesday -- unless Congress acts to extend it for another year. 
  <p class="updated_time"> 07:06 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/13/debt-limit-byrd-bath-and-manchin-meetings-495441">Debt limit, Byrd bath and Manchin meetings</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:08 AM CT, Dec. 13 </p> 
@@ -398,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/schumer-pressure-holiday-delivery-524093">Old St. Chuck? Schumer under pressure to deliver by Christmas</a> Politico: The Senate Democratic leader wants to wrap up the $1.7 trillion social spending bill for the holiday — which may well prove impossible. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/dems-child-tax-credit-expire-social-bill-524084">As Dems sprint against the clock, child tax credit might slip away</a> Politico: “It’s as important a thing as there is” in the party's social spending bill, as one senator put it. And it's expiring any day now. 
- <p class="updated_time"> 05:39 PM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/kamala-harris-negative-headlines-media-coverage/index.html">Harris calls out 'ridiculous' press coverage of Paris trip but avoids questions on staff exits</a> CNN: Vice President Kamala Harris blasted press coverage of a personal shopping trip she took during an official visit to France last month as "ridiculous" but avoided questions about recent high-profile staff departures from her office, the San Francisco Chronicle reported Sunday. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
  <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
