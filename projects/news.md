@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:57 AM CT, Dec. 15 </p> 
+ <a href="https://www.npr.org/2021/12/15/1064212737/new-zealands-cigarette-ban-model">New Zealand's unique cigarette ban may be a model for other countries</a> NPR: The proposed law would effectively impose a lifetime cigarette ban for people aged 14 and younger. Researchers applauded it but said similar bans elsewhere could be more challenging. 
+ <p class="updated_time"> 09:56 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59667937?at_medium=RSS&at_campaign=KARANGA">German court jails hitman for Berlin murder on Russia's orders</a> BBC: A court finds Vadim Krasikov guilty of an ex-Chechen rebel's murder, which it says Russia ordered. 
+ <p class="updated_time"> 09:50 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59669307?at_medium=RSS&at_campaign=KARANGA">2022 World Cup: Ex-media officer loses Qatar corruption appeal</a> BBC: Abdullah Ibhais claims he was prosecuted for corruption after raising concerns about migrant workers. 
  <p class="updated_time"> 09:37 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/africa/jacob-zuma-prison-south-africa.html">Jacob Zuma Must Return to Prison, South Africa Judge Rules</a> NYT: The former president had been granted medical parole two months into a 15-month prison sentence on contempt charges linked to a corruption inquiry. 
  <p class="updated_time"> 09:26 AM CT, Dec. 15 </p> 
@@ -39,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59665825?at_medium=RSS&at_campaign=KARANGA">Jacob Zuma: South African court orders ex-president back to jail</a> BBC: Jacob Zuma was granted medical parole after being sentenced to serve 15 months in jail. 
  <p class="updated_time"> 06:58 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59664077?at_medium=RSS&at_campaign=KARANGA">Riccardo Ehrman: Journalist who prompted Berlin Wall to fall dies</a> BBC: Riccardo Ehrman asked the historic question that led to East Germans tearing down the wall in 1989. 
- <p class="updated_time"> 06:39 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59667937?at_medium=RSS&at_campaign=KARANGA">German court jails hitman for Berlin murder on Russia's orders</a> BBC: A court finds Vadim Krasikov guilty of an ex-Chechen rebel's murder, which it says Russia ordered. 
  <p class="updated_time"> 05:59 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat Carrying Indonesian Migrants Sinks Near Malaysia, Killing at Least 11</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving 25 others missing, officials said. 
  <p class="updated_time"> 05:51 AM CT, Dec. 15 </p> 
@@ -63,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59665125?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Dozens stranded on roof after World Trade Centre fire</a> BBC: Footage obtained by the BBC shows people crowded amongst the roof's scaffolding awaiting rescue. 
  <p class="updated_time"> 02:21 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/greece-covid-school-abduction.html">Three Jailed in Greece After a Principal was Handcuffed Over Virus Measures</a> NYT: Police said a group of people handcuffed the principal on Friday and drove him to a local precinct, suggesting that officers arrest him for enforcing Covid measures. 
- <p class="updated_time"> 01:50 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59651703?at_medium=RSS&at_campaign=KARANGA">Grindr fined £5.5m for sharing users' data</a> BBC: The dating app sold a host of data without seeking consent from users, the Norwegian regulator found. 
  <p class="updated_time"> 01:00 AM CT, Dec. 15 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-lockdowns-starting-to-sting-11639569604">China's Covid-19 Lockdowns Starting to Sting</a> WSJ: China’s lockdown of many factories in the Yangtze River Delta last week has underlined the economic costs of its stringent pandemic-control measures. 
  <p class="updated_time"> 11:30 PM CT, Dec. 14 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.html">South Korean City to Test Facial Recognition to Track the Coronavirus</a> NYT: Officials hope the system can help reveal the movements of people who test positive and their interactions with others, making contact tracing easier. 
  <p class="updated_time"> 05:12 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/africa/cyril-ramaphosa-covid.html">South Africa’s president tests positive for the coronavirus.</a> NYT: The 69-year-old leader was displaying mild Covid-19 symptoms. New cases in the country are rising quickly. 
- <p class="updated_time"> 05:00 AM CT, Dec. 13 </p> 
- <a href="https://www.npr.org/2021/12/13/1062498943/latin-grammy-winner-to-cuban-leaders-were-done-with-your-lies-and-indoctrination">Latin Grammy winner to Cuban leaders: 'We're done with your lies and indoctrination'</a> NPR: Afro-Cuban rapper Yotuel Romero discusses the song that  won Song of the Year and inspired protesters in one of the biggest waves of demonstrations in Cuba in decades. 
  <p class="updated_time"> 04:04 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/hongkong-jimmy-lai-tiananmen.html">Hong Kong Court Sentences Jimmy Lai to Prison Over Tiananmen Vigil</a> NYT: The former media mogul and other prominent pro-democracy activists were previously convicted of inciting others to take part in an unauthorized assembly. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
