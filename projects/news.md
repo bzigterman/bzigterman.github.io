@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:51 AM CT, Dec. 15 </p> 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/15/1064432010/omicron-spread-variant-coronavirus">Omicron spreads faster than any other variant, WHO says. It's now in 77 countries</a> NPR: "Omicron is spreading at a rate we have not seen with any previous variant," says WHO director-general Tedros Adhanom Ghebreyesus. 
+ <p class="updated_time"> 08:51 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-michael-kretschmer-plot-saxony-vaccines.html">Vaccine Opponents in Germany Investigated Over Plot to Kill State Governor</a> NYT: The authorities in Dresden raided the homes of a group of people who they said were targeting the leader of the state of Saxony. A number of weapons were seized. 
  <p class="updated_time"> 08:21 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/india-sex-workers-benefits.html">India's Supreme Court Mandates Benefits for Sex Workers</a> NYT: Officials must enter them into databases for voting and benefits, the judges said, after they suffered from the effects of Covid-19 lockdowns. 
- <p class="updated_time"> 08:17 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-plot-to-kill-saxony-governor-vaccines.html">Vaccine Opponents in Germany Investigated Over Plot to Kill State Governor</a> NYT: The authorities in Dresden raided the homes of a group of people who they said were targeting the leader of the state of Saxony. A number of weapons were seized. 
  <p class="updated_time"> 08:15 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/africa/ethiopia-abiy-ahmed-nobel-war.html">The Nobel Peace Prize That Paved the Way for War in Ethiopia</a> NYT: This is the story behind how Ethiopia’s prime minister, Abiy Ahmed, won a Nobel Prize for making peace with his country’s longtime enemy — and then used the alliance to plan a war. 
  <p class="updated_time"> 07:54 AM CT, Dec. 15 </p> 
@@ -53,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59665125?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Dozens stranded on roof after World Trade Centre fire</a> BBC: Footage obtained by the BBC shows people crowded amongst the roof's scaffolding awaiting rescue. 
  <p class="updated_time"> 02:21 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/greece-covid-school-abduction.html">Three Jailed in Greece After a Principal was Handcuffed Over Virus Measures</a> NYT: Police said a group of people handcuffed the principal on Friday and drove him to a local precinct, suggesting that officers arrest him for enforcing Covid measures. 
+ <p class="updated_time"> 01:50 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59651703?at_medium=RSS&at_campaign=KARANGA">Grindr fined £5.5m for sharing users' data</a> BBC: The dating app sold a host of data without seeking consent from users, the Norwegian regulator found. 
  <p class="updated_time"> 01:00 AM CT, Dec. 15 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-lockdowns-starting-to-sting-11639569604">China's Covid-19 Lockdowns Starting to Sting</a> WSJ: China’s lockdown of many factories in the Yangtze River Delta last week has underlined the economic costs of its stringent pandemic-control measures. 
  <p class="updated_time"> 11:30 PM CT, Dec. 14 </p> 
@@ -87,10 +91,10 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/house-tackles-ban-on-imports-from-chinas-xinjiang-region-11639524574">House Votes to Ban Imports From China's Xinjiang on Labor Concern</a> WSJ: A bipartisan agreement was reached with the Senate on the language of the Uyghur Forced Labor Prevention Act. 
  <p class="updated_time"> 05:30 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-covid-restrictions.html">Conservatives Abandon Johnson Over New Covid Rules</a> NYT: A record number of Prime Minister Boris Johnson’s fellow party members voted against his plan for Covid certificates. But the plan passed with the help of the opposition. 
+ <p class="updated_time"> 04:37 PM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59658663?at_medium=RSS&at_campaign=KARANGA">Billie Eilish says porn exposure while young caused nightmares</a> BBC: The singer-songwriter spoke about how "abusive" pornography skewed her early sexual experiences. 
  <p class="updated_time"> 04:28 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/belarus-opposition-sergei-tikhanovsky.html">Belarus Opposition Leader Is Sentenced to 18 Years in Prison</a> NYT: The activist Sergei Tikhanovsky planned to challenge the country’s authoritarian leader, Aleksandr G. Lukashenko, in a presidential election last year. He was arrested before the vote and his wife stepped in. 
- <p class="updated_time"> 04:27 PM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59650802?at_medium=RSS&at_campaign=KARANGA">Haiti fuel tanker blast kills dozens in Cap-Haïtien</a> BBC: The victims had been gathering leaking fuel from a vehicle involved in an accident, reports say. 
  <p class="updated_time"> 04:20 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/india-kashmir-policemen-killed.html">Militants Kill 2 Policemen in Kashmir as Violence Escalates</a> NYT: The clash on Monday came three days after a similar attack on a squad of police officers patrolling streets in northern Kashmir left two of its men dead. 
  <p class="updated_time"> 04:00 PM CT, Dec. 14 </p> 
@@ -103,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064220992/a-gloomy-report-card-from-the-arctic">A gloomy report card from the Arctic</a> NPR: NPR's Ari Shapiro talks with Twila Moon, co-editor of the National Oceanic and Atmospheric Administration's 2021 Arctic Report Card, which shows oceans warming and sea ice disappearing. 
  <p class="updated_time"> 03:23 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1061302961/most-nations-are-promising-to-end-deforestation-but-skeptics-want-proof">Most nations are promising to end deforestation, but skeptics want proof</a> NPR: More than a hundred countries just promised to protect and restore forests. Similar pledges in the past have not succeeded, but forest advocates hope that this effort can learn from past mistakes. 
- <p class="updated_time"> 03:14 PM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59660856?at_medium=RSS&at_campaign=KARANGA">Malta becomes first EU nation to legalise cannabis</a> BBC: The landmark move is expected to be followed by more European countries. 
  <p class="updated_time"> 02:41 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/uk-south-africa-travel-ban.html">Britain lifts ban on travelers arriving from southern Africa</a> NYT: With the Omicron variant already spreading, officials conclude they’ve lost the battle to prevent its entering Britain. 
  <p class="updated_time"> 02:36 PM CT, Dec. 14 </p> 
@@ -115,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/health/coronavirus-omicron-next-pandemic.html">Omicron Is a Dress Rehearsal for the Next Pandemic</a> NYT: America’s response to the variant highlights both how much progress we have made over the past two years — and how much work remains. 
  <p class="updated_time"> 01:57 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59659513?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: A miraculous escape after a candle factory's collapse</a> BBC: Colleagues sang Happy Birthday to Kyanna Parsons-Perez after a tornado buried them all in rubble. 
- <p class="updated_time"> 01:16 PM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59659543?at_medium=RSS&at_campaign=KARANGA">Russia told to pay compensation to woman whose hands were cut off</a> BBC: Europe's top human rights court says authorities failed to protect her against domestic violence. 
  <p class="updated_time"> 10:50 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/first-big-omicron-study-finds-two-doses-of-pfizers-vaccine-cuts-hospitalization-risk-by-70-11639495432">Study Finds Two Pfizer Vaccine Doses Offer Less Protection Against Omicron Than Against Delta</a> WSJ: The first large real-world study found that while Omicron reduced vaccine effectiveness against infection to 33% from 80% for Delta, its effect on protection against hospitalization was less marked, falling to 70% from 93%. 
  <p class="updated_time"> 10:37 AM CT, Dec. 14 </p> 
@@ -187,14 +187,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1062498943/latin-grammy-winner-to-cuban-leaders-were-done-with-your-lies-and-indoctrination">Latin Grammy winner to Cuban leaders: 'We're done with your lies and indoctrination'</a> NPR: Afro-Cuban rapper Yotuel Romero discusses the song that  won Song of the Year and inspired protesters in one of the biggest waves of demonstrations in Cuba in decades. 
  <p class="updated_time"> 04:39 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president has prioritized shoring up the country’s international profile, seeing its military  as a bulwark against China. 
- <p class="updated_time"> 04:26 AM CT, Dec. 13 </p> 
- <a href="https://www.npr.org/2021/12/13/1062794948/authoritarians-migrants-weapons-white-house-worries">Authoritarians are using migrants as weapons. The White House frets it's on the rise</a> NPR: The White House is concerned migrants will be increasingly used as a geopolitical tool as migration increases because of instability and climate change. 
  <p class="updated_time"> 04:04 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/hongkong-jimmy-lai-tiananmen.html">Hong Kong Court Sentences Jimmy Lai to Prison Over Tiananmen Vigil</a> NYT: The former media mogul and other prominent pro-democracy activists were previously convicted of inciting others to take part in an unauthorized assembly. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/india-eggs-hindu-nationalism.html">India Cities Ban Eggs, Drawing a Backlash</a> NYT: Food-cart rules spurred by conservative beliefs draw a backlash, showcasing the tensions around the country’s rising Hindu nationalist movement. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/travel/mount-etna-olive-oil.html">Cultivating Olives on the Slopes of Mount Etna</a> NYT: For millenniums, farmers and vintners in northeastern Sicily have benefited from the area’s mineral-rich soil, a result of volcanic eruptions. 
+ <p class="updated_time"> 04:25 PM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59631837?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: 100-year-old church destroyed in seconds</a> BBC: The BBC's Nomia Iqbal shows us the ruins of the Mayfield First United Methodist Church in Kentucky. 
 
 
 </details>
@@ -204,6 +204,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:21 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/blinken-trip-cut-short-covid-524622">Blinken cuts foreign trip short over Covid concerns</a> Politico: In a call with Thai Deputy Prime Minister and Foreign Minister Don Pramudwinai, Blinken “expressed his deep regret” that he would not be traveling on to Bangkok. 
+ <p class="updated_time"> 08:52 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/joe-biden-mark-meadows-contempt/index.html">Biden says Meadows seems 'worthy of being held in contempt' for failing to appear for interview with Jan. 6 committee</a> CNN: President Joe Biden on Wednesday suggested Mark Meadows was "worthy" of being in held in contempt of Congress after the Democratic-controlled House referred the ex-White House chief of staff to the Department of Justice for failing to appear for a deposition with the committee investigating the January 6 attack on the US Capitol. 
  <p class="updated_time"> 08:20 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/biden-judicial-nominations-trump/index.html">Biden to surpass Trump in first-year judicial nominees; a window into a major Dem push </a> CNN: President Joe Biden will soon announce his latest wave of nine judicial nominees, according to a White House official, capping a year where the selections -- and an effort to establish an imprint on the federal courts -- served as a focal point for his administration. 
  <p class="updated_time"> 08:09 AM CT, Dec. 15 </p> 
@@ -254,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/15/1064114046/congress-votes-to-raise-the-debt-ceiling-punting-the-next-fight-to-2023">Congress votes to raise the debt ceiling, punting the next fight to 2023</a> NPR: Congress approved a measure to increase the debt limit by $2.5 trillion, shifting the deadline for default until after the 2022 midterm elections. 
  <p class="updated_time"> 11:21 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/mark-meadows-january-6-committee-donald-trump/index.html">Meadows contempt vote shows growing power of January 6 committee </a> CNN: The House of Representatives staked out a dramatic new defense of democracy by citing Mark Meadows for criminal contempt over his refusal to testify about Donald Trump's coup attempt on January 6. 
- <p class="updated_time"> 11:05 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/trump-organization-investigation-grand-jury-donald-bender/index.html">Trump accountant has testified before NY grand jury in criminal investigation, sources say</a> CNN: A key accountant to Donald Trump appeared before a Manhattan grand jury investigating the former President's business practices earlier this year, two people familiar with the matter confirmed to CNN on Tuesday. 
  <p class="updated_time"> 10:41 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/ilhan-omar-house-debate-islamophobia.html">Muslim Lawmaker Comes Under Fire in House Debate on ‘Islamophobia’</a> NYT: A conservative Republican accused Ilhan Omar, the sponsor of a House bill to combat anti-Muslim bias, of terrorist sympathies. 
  <p class="updated_time"> 10:40 PM CT, Dec. 14 </p> 
@@ -266,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-text-messages/index.html">'Need to end this call': January 6 committee reveals new text message to Meadows</a> CNN: The House select committee investigating the January 6 attack on the US Capitol released new text messages obtained from former Trump White House chief of staff Mark Meadows that were sent to him in the days leading up to the insurrection and while the Capitol was under siege. 
  <p class="updated_time"> 08:31 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/eastman-sues-jan6-records-524441">Eastman sues Jan. 6 committee and Verizon to prevent release of phone records</a> Politico: A similar lawsuit was filed Monday by four organizers of the Jan. 6 rally, 
- <p class="updated_time"> 08:11 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/john-eastman-suing-verizon-january-6-committee/index.html">John Eastman suing Verizon and January 6 committee over subpoena</a> CNN: Conservative lawyer John Eastman is suing Verizon and the House select committee investigating the January 6 attack on the US Capitol over a subpoena issued by the panel for his phone records, according to court documents. 
  <p class="updated_time"> 07:53 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/guantanamo-bay-abd-al-rahim-al-nashiri.html">Waterboarded Prisoner Has Drowning Nightmares Two Decades Later, Doctor Testifies</a> NYT: Lawyers called a torture expert in a bid to spare a defendant a nauseating commute from prison to court by having him spend nights at Guantánamo Bay’s court compound. 
  <p class="updated_time"> 07:37 PM CT, Dec. 14 </p> 
@@ -390,12 +388,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/manchin-fiscal-concerns-524158">Manchin keeps Dems guessing on their megabill</a> Politico: The Democratic senator still isn't committing to back President Joe Biden's social safety net legislation, citing fears about inflation and debt. 
+ <p class="updated_time"> 09:56 AM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/december-child-tax-credit-payment/index.html">December's child tax credit payment will be the last one unless Congress acts</a> CNN: Parents are set to get their last monthly infusion of the expanded child tax credit starting Wednesday -- unless Congress acts to extend it for another year. 
  <p class="updated_time"> 07:06 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/13/debt-limit-byrd-bath-and-manchin-meetings-495441">Debt limit, Byrd bath and Manchin meetings</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:08 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/13/all-eyes-on-the-joes-495439">POLITICO Playbook: All eyes on the Joes</a> Politico: And Nancy Pelosi plays down retirement rumors. 
- <p class="updated_time"> 05:13 AM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/kamala-harris-private-sector-investments-north-triangle/index.html">Harris to announce new private sector investments in Northern Triangle</a> CNN: Vice President Kamala Harris on Monday will announce a new slate of commitments from the private sector to invest in the Northern Triangle, senior White House officials say, marking the administration's latest attempt to address the root causes of migration from the region by promoting economic opportunity. 
  <p class="updated_time"> 04:31 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/jeffries-mccarthy-house-election-524100">‘Who is he?’ The X-factor relationship that could soon rule the House</a> Politico: Hakeem Jeffries and Kevin McCarthy may well lead their parties in the lower chamber come 2023. But their relationship is a black box. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
@@ -406,8 +404,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
  <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
- <p class="updated_time"> 10:26 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/de-blasio-vaccine-mandates-new-york-524126">De Blasio defends vaccine mandates, points to effectiveness in NYC</a> Politico: New York’s mayor said business owners in the city would prefer a mandate over shutdowns. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
+ <a href="https://www.cnn.com/2021/12/12/politics/child-tax-credit-lowest-income-parents/index.html">Getting child tax credit to lowest-income parents proves challenging</a> CNN: When President Joe Biden and congressional Democrats temporarily expanded the child tax credit this spring, they repeatedly touted that it would help cut child poverty nearly in half. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
