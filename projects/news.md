@@ -206,8 +206,6 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:47 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/silicon-valleys-voice-in-washington-to-dissolve-524486">Silicon Valley’s voice in Washington to dissolve</a> Politico: The Internet Association plans to announce it is dissolving as soon as tomorrow. 
  <p class="updated_time"> 08:31 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/eastman-sues-jan6-records-524441">Eastman sues Jan. 6 committee and Verizon to prevent release of phone records</a> Politico: A similar lawsuit was filed Monday by four organizers of the Jan. 6 rally, 
  <p class="updated_time"> 07:53 PM CT, Dec. 14 </p> 
@@ -422,6 +420,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/10/trumps-terrible-thursday-followed-by-bidens-bad-friday-495415">POLITICO Playbook: Trump’s terrible Thursday, followed by Biden’s bad Friday?</a> Politico: And the U.S. clears a hurdle in its pursuit of the extradition of Julian Assange. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy’s proxy voting opposition could reshape the House</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/17-ways-covid-hit-fast-forward-on-the-future-523845">17 pandemic innovations that are here to stay</a> Politico: During the pandemic, necessity became a mother of invention. Here are some innovations that are like to stick. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen to lawmakers: Ignore the GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
  <p class="updated_time"> 06:41 PM CT, Dec. 09 </p> 
