@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:21 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-omicron-surge.html">Why Britain Thinks Omicron Infected 200,000 People on Monday</a> NYT: Experts called it ‘a back-of-the-envelope calculation’ that showed how quickly the variant spreads, but also how little is known about it. 
  <p class="updated_time"> 01:50 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-covid-record-cases.html">Britain Breaks Daily Record for New Virus Cases</a> NYT: Officials didn’t specify what share of the new cases might be Omicron, though they said a majority in London were from the variant. 
- <p class="updated_time"> 01:27 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59673150?at_medium=RSS&at_campaign=KARANGA">New UK cases record as experts warn worse to come</a> BBC: Prof Chris Whitty says Omicron is moving at a phenomenal pace, after 78,610 people test positive in a day. 
  <p class="updated_time"> 01:24 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/netherlands-dutch-coalition.html">After Months, a ‘New’ Dutch Coalition With the Same Leader and Parties</a> NYT: Mark Rutte, who has weathered a scandal and criticism for overstaying his welcome, will be prime minister for a fourth term. 
  <p class="updated_time"> 01:12 PM CT, Dec. 15 </p> 
@@ -53,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59672998?at_medium=RSS&at_campaign=KARANGA">New York City names first female police chief</a> BBC: Keechant Sewell, 49, will be the first woman to lead the US's largest police force in its 176 years. 
  <p class="updated_time"> 09:18 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/gop-governors-vaccine-pentagon.html">5 Republican Governors Seek Vaccine Exemptions for National Guard Troops</a> NYT: The move comes as the Pentagon released a new order this week saying that National Guard members who do not get vaccinated would receive a general order of reprimand, essentially ending their careers. 
- <p class="updated_time"> 09:18 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59663826?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Fire at World Trade Centre leaves hundreds trapped on roof</a> BBC: The fire broke out in a machine room which eventually led to the scaffolding catching fire. 
  <p class="updated_time"> 09:14 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/malta-eu-marijuana-legalize.html">Malta Becomes First E.U. Country to Legalize Marijuana</a> NYT: The government said that the new law was aimed at ending the criminalization of people for smoking the drug and at reducing criminal trafficking. 
  <p class="updated_time"> 08:51 AM CT, Dec. 15 </p> 
@@ -62,13 +60,15 @@ permalink: /projects/news/
  <p class="updated_time"> 08:21 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/india-sex-workers-benefits.html">India's Supreme Court Mandates Benefits for Sex Workers</a> NYT: Officials must enter them into databases for voting and benefits, the judges said, after they suffered from the effects of Covid-19 lockdowns. 
  <p class="updated_time"> 07:54 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59637586?at_medium=RSS&at_campaign=KARANGA">On the front line as Afghan children battle malnutrition and measles</a> BBC: The BBC reports from a hospital in remote Ghor province which is struggling to cope. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59637586?at_medium=RSS&at_campaign=KARANGA">Inside an Afghan hospital on the brink</a> BBC: The BBC reports from a hospital in remote Ghor province which is struggling to cope. 
  <p class="updated_time"> 07:54 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/omicron-hong-kong-study.html">Two Doses of China's Sinovac Inadequate Against Omicron, Hong Kong Study Suggests</a> NYT: Laboratory experiments suggest that the Chinese vaccine provides little protection against an Omicron infection. 
  <p class="updated_time"> 07:42 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/av/formula1/59671505?at_medium=RSS&at_campaign=KARANGA">Hamilton gets knighthood for services to motorsport</a> BBC: Seven-time Formula 1 world champion Lewis Hamilton receives his knighthood for services to motorsport from Prince Charles during a ceremony at Windsor Castle. 
  <p class="updated_time"> 07:31 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Halts Asia Trip After Journalist Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the United States earlier than planned. 
+ <p class="updated_time"> 06:58 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59664077?at_medium=RSS&at_campaign=KARANGA">Riccardo Ehrman: Journalist who prompted Berlin Wall to fall dies</a> BBC: Riccardo Ehrman asked the historic question that led to East Germans tearing down the wall in 1989. 
  <p class="updated_time"> 05:59 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat Carrying Indonesian Migrants Sinks Near Malaysia, Killing at Least 11</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving 25 others missing, officials said. 
  <p class="updated_time"> 05:06 AM CT, Dec. 15 </p> 
@@ -195,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/health/merck-covid-pill-pregnancy-risk.html">Merck’s Covid Pill Might Pose Risks for Pregnant Women</a> NYT: Some laboratory studies suggest that molnupiravir can insert errors in DNA, which could in theory harm a developing fetus, sperm cells or children. 
  <p class="updated_time"> 08:16 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.html">South Korean City to Test Facial Recognition to Track the Coronavirus</a> NYT: Officials hope the system can help reveal the movements of people who test positive and their interactions with others, making contact tracing easier. 
- <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/asia/india-eggs-hindu-nationalism.html">India Cities Ban Eggs, Drawing a Backlash</a> NYT: Food-cart rules spurred by conservative beliefs draw a backlash, showcasing the tensions around the country’s rising Hindu nationalist movement. 
 
 
 </details>
@@ -206,6 +204,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:21 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/federal-reserve-rate-hikes-economy-524774">Fed clears path for multiple rate hikes for next year</a> Politico: The Fed plans to cease its bond buys entirely by March, rather than its earlier target of June to give itself room to begin raising interest rates as early as the second quarter of next year. 
+ <p class="updated_time"> 02:02 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/elizabeth-warren-expand-supreme-court/index.html">Elizabeth Warren calls for expansion of Supreme Court, saying current court is a threat to democracy</a> CNN: Massachusetts Sen. Elizabeth Warren on Wednesday called for the US Supreme Court to be expanded with more justices and said that the current court "threatens the democratic foundations of our nation." 
+ <p class="updated_time"> 02:01 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/manchin-child-tax-credit-biden-build-back-better/index.html">Talks between Manchin and Biden at standstill as Build Back Better likely stalled until next year</a> CNN: Senate Democrats are expected to punt consideration of the cornerstone element of President Joe Biden's agenda into next year after private conversations between Biden and the key Democratic holdout made clear the bill would not have the votes to pass this month. 
  <p class="updated_time"> 01:49 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/business/economy/inflation-fed-fomc-meeting-december-2021.html">Fed Could Raise Rates 3 Times in 2022, Speeds End of Bond-Buying</a> NYT: Federal Reserve officials suggested as many as three interest rate increases in 2022 as the economy heals and inflation persists. 
  <p class="updated_time"> 01:31 PM CT, Dec. 15 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/iran-nuclear-united-nations-524274">U.N. nuclear chief says view of Iran ‘blurred’</a> Politico: Rafael Mariano Grossi said Iran must work with international inspectors. 
  <p class="updated_time"> 06:02 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/democrats-cruz-hawley-biden-ambassadors-524220">Dems launch talks to break Cruz-Hawley blockade of Biden ambassadors</a> Politico: But while the price for one GOP 2024 contender's help is clear, another is less open about what it'll take to ease his holds. 
- <p class="updated_time"> 05:59 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/build-back-better-problems/index.html">Democrats face mounting obstacles to finishing social safety net bill before Christmas -- and it's not just Manchin</a> CNN: As Democrats race to finish the President's Build Back Better legislation before the Christmas recess and convince a skeptical West Virginia Sen. Joe Manchin, there are other obstacles piling up that could prevent them from meeting their self-imposed deadline. 
  <p class="updated_time"> 05:47 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/senate-races-2022.html">10 Senate Races to Watch in 2022</a> NYT: Democrats have a razor-thin margin that could be upended with the loss of a single seat. 
  <p class="updated_time"> 05:45 PM CT, Dec. 14 </p> 
@@ -342,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megabill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
  <p class="updated_time"> 04:29 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/white-house-scaled-back-holiday-parties/index.html">White House scales back holiday parties due to Covid concerns</a> CNN: The White House will dramatically scale back holiday party festivities this year, due to ongoing Covid-19 concerns, opting instead for smaller open house-style events. 
- <p class="updated_time"> 04:24 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/texas-clinics-paperwork-supreme-court/index.html">Texas abortion clinics ask Supreme Court to speed up paperwork so appeals process can continue</a> CNN: In the latest attempt to move forward with a lawsuit to block enforcement of Texas' six-week abortion ban, lawyers for abortion providers asked the Supreme Court on Tuesday to immediately transfer a certified copy of its decision from last week back to a district court judge in order to restart proceedings in short order. 
  <p class="updated_time"> 03:55 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064221034/house-recommends-criminal-contempt-of-congress-charges-against-mark-meadows">House recommends criminal contempt of Congress charges against Mark Meadows</a> NPR: The House voted to refer former White House chief of staff Mark Meadows on criminal contempt of Congress charges. The Justice Department will now decide whether he could face criminal charges. 
  <p class="updated_time"> 03:29 PM CT, Dec. 14 </p> 
