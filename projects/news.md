@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:30 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/hong-kong-fire.html">Hundreds Trapped by Fire at World Trade Center in Hong Kong</a> NYT: The blaze at the World Trade Center in Causeway Bay injured at least 13 people, including one who was semiconscious, the police said. 
+ <p class="updated_time"> 10:14 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59671567?at_medium=RSS&at_campaign=KARANGA">Derek Chauvin pleads guilty in George Floyd civil rights case</a> BBC: The former police officer is already serving a 22 year prison sentence for the murder of Mr Floyd. 
  <p class="updated_time"> 09:57 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064212737/new-zealands-cigarette-ban-model">New Zealand's unique cigarette ban may be a model for other countries</a> NPR: The proposed law would effectively impose a lifetime cigarette ban for people aged 14 and younger. Researchers applauded it but said similar bans elsewhere could be more challenging. 
  <p class="updated_time"> 09:56 AM CT, Dec. 15 </p> 
@@ -24,7 +28,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:14 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/malta-eu-marijuana-legalize.html">Malta Becomes First E.U. Country to Legalize Marijuana</a> NYT: The government said that the new law was aimed at ending the criminalization of people for smoking the drug and at reducing criminal trafficking. 
  <p class="updated_time"> 08:51 AM CT, Dec. 15 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/15/1064432010/omicron-spread-variant-coronavirus">Omicron spreads faster than any other variant, WHO says. It's now in 77 countries</a> NPR: "Omicron is spreading at a rate we have not seen with any previous variant," says WHO director-general Tedros Adhanom Ghebreyesus. 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/15/1064432010/omicron-spread-variant-coronavirus">Omicron spreads faster than any other variant, WHO says. It's now in 77 countries</a> NPR: "Omicron is spreading at a rate we have not seen with any previous variant," says WHO Director-General Tedros Adhanom Ghebreyesus. 
  <p class="updated_time"> 08:51 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-michael-kretschmer-plot-saxony-vaccines.html">Vaccine Opponents in Germany Investigated Over Plot to Kill State Governor</a> NYT: The authorities in Dresden raided the homes of a group of people who they said were targeting the leader of the state of Saxony. A number of weapons were seized. 
  <p class="updated_time"> 08:21 AM CT, Dec. 15 </p> 
@@ -59,10 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59656385?at_medium=RSS&at_campaign=KARANGA">Covid: Omicron spreading at unprecedented rate, WHO says</a> BBC: The WHO's head warns that the Covid variant is being underestimated, despite its potential impact. 
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1063830104/portugal-covid-vaccines-omicron-variant">Portugal has one of the top vaccination rates but isn't taking chances with omicron</a> NPR: Scientists are watching how Portugal and other highly vaccinated countries are faring against the coronavirus' new omicron variant. 
- <p class="updated_time"> 03:36 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/hong-kong-fire.html">Hundreds Trapped by Fire at World Trade Center in Hong Kong</a> NYT: The blaze at the World Trade Center in Causeway Bay injured at least 13 people, including one who was semiconscious, the police said. 
- <p class="updated_time"> 03:34 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59647069?at_medium=RSS&at_campaign=KARANGA">Tesla Model 3: Paris' largest taxi firm suspends cars after fatal crash</a> BBC: One person died and 20 were hurt after a cabbie lost control of their Tesla Model 3 last weekend. 
  <p class="updated_time"> 02:39 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59665125?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Dozens stranded on roof after World Trade Centre fire</a> BBC: Footage obtained by the BBC shows people crowded amongst the roof's scaffolding awaiting rescue. 
  <p class="updated_time"> 02:21 AM CT, Dec. 15 </p> 
@@ -204,6 +204,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:16 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/mitch-mcconnell-january-6-participants/index.html">McConnell on January 6 probe: 'It will be interesting to reveal all the participants that were involved'</a> CNN: Senate Minority Leader Mitch McConnell said Tuesday that he did not speak to then-White House chief of staff Mark Meadows on January 6 about then-President Donald Trump's inaction as a crowd stormed the US Capitol. 
+ <p class="updated_time"> 10:13 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/biden-administration-jfk-documents/index.html">Biden admin expected to release some previously classified JFK assassination docs</a> CNN: The Biden administration faces a Wednesday deadline to publicly release a tranche of secret documents that some historians -- and conspiracy theorists -- hope might shed light on the 1963 assassination of President John F. Kennedy. 
+ <p class="updated_time"> 10:09 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-kentucky-tornado.html">Biden Will Tour Kentucky Storm Damage</a> NYT: President Biden will visit another disaster area in an effort to offer comfort to victims and highlight the federal government’s response. 
+ <p class="updated_time"> 10:07 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/mlk-day-voting-rights-legislation/index.html">Martin Luther King Jr.'s family calls for 'no celebration' of MLK Day without action on voting rights legislation</a> CNN: The family of Martin Luther King Jr. is calling for "no celebration" of MLK Day without the passage of voting rights legislation, putting pressure on President Joe Biden and lawmakers to act on federal voting rights bills that have stalled in Congress. 
  <p class="updated_time"> 09:21 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/blinken-trip-cut-short-covid-524622">Blinken cuts foreign trip short over Covid concerns</a> Politico: In a call with Thai Deputy Prime Minister and Foreign Minister Don Pramudwinai, Blinken “expressed his deep regret” that he would not be traveling on to Bangkok. 
  <p class="updated_time"> 09:18 AM CT, Dec. 15 </p> 
@@ -242,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/democratic-governors-covid-fatigue-524425">‘They’re sick of masks’: Democratic governors fight Covid fatigue</a> Politico: The party’s defeat last month in Virginia — and closer-than-expected victory in New Jersey — has many Democrats searching for an off-ramp to the pandemic that allows them to sell a brighter future to voters next November. 
  <p class="updated_time"> 04:06 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064385999/new-york-city-will-allow-legal-non-citizens-to-vote-in-local-elections">New York City will allow 800,000 noncitizens to vote in local elections</a> NPR: NPR's Rachel Martin talks to Ron Hayduk, a professor of political science at San Francisco State University, about New York City allowing noncitizen immigrants to vote in local elections. 
- <p class="updated_time"> 04:05 AM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/biden-administration-jfk-documents/index.html">Biden admin expected to release some previously classified JFK assassination docs</a> CNN: The Biden administration faces a Wednesday deadline to publicly release a tranche of secret documents that some historians -- and conspiracy theorists -- hope might shed light on the 1963 assassination of President John F. Kennedy. 
  <p class="updated_time"> 04:04 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/biden-kentucky-visit/index.html">Biden is set to visit Kentucky following deadly tornadoes and storms</a> CNN: President Joe Biden will travel to Kentucky on Wednesday in the wake of deadly tornadoes and severe storms that devastated the area, where he'll survey storm damage, meet with victims and deliver remarks. 
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
@@ -322,16 +328,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/14/politics/biden-pfizer-covid-antiviral-pill/index.html">Biden says he's 'encouraged by the promising data' on Pfizer's Covid-19 antiviral pill</a> CNN: President Joe Biden on Tuesday praised Pfizer's report that its experimental treatment for Covid-19 cut the risk of hospitalization or death by 89% if given to high-risk adults within a few days of their first symptoms. 
  <p class="updated_time"> 02:17 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/qanon-follower-sentence-pelosi-death-threats-524209">QAnon follower gets 28-month sentence for death threats to Pelosi</a> Politico: Judge says continuing election-fraud rhetoric from Republican politicians makes defendant an ongoing threat. 
- <p class="updated_time"> 02:04 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/capitol-pelosi-threat/index.html">Man who threatened to shoot Pelosi sentenced to more than two years in prison</a> CNN: A Georgia man who drove cross-country with an assault rifle and threatened to kill House Speaker Nancy Pelosi was sentenced to 28 months behind bars during in an emotional hearing on Tuesday. 
  <p class="updated_time"> 01:50 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064144431/d-c-attorney-general-karl-racine-sue-proud-boys-oath-keepers-jan-6-capitol">D.C.'s attorney general is suing the Proud Boys and Oath Keepers over Capitol attack</a> NPR: The District of Columbia is seeking damages from the two far-right groups for allegedly conspiring to terrorize the city with the violent attack on Jan. 6. 
  <p class="updated_time"> 01:48 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/fdic-chair-democrats-524212">Trump-appointed FDIC chair blocks Democratic bid to undercut her</a> Politico: At issue is whether a majority of the board at the agency can put items up for a vote without the consent of the chair. 
- <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
- <p class="updated_time"> 12:25 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/trump-pence-comments-2020-certification/index.html">Trump says Pence is 'mortally wounded' in GOP for his role in certifying 2020 election results</a> CNN: As former Vice President Mike Pence weighs his future in politics -- laying the groundwork for a possible presidential campaign in 2024 and supporting Republican candidates who face reelection next fall -- former President Donald Trump said Pence is "mortally wounded" inside the GOP. 
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
  <a href="https://subscriber.politicopro.com/states/new-york/city-hall/whiteboard/2021/12/14/legal-aid-sues-to-compel-state-to-reopen-rent-relief-program-9428027">Legal Aid sues to compel state to reopen rent relief program</a> Politico: The Legal Aid Society is suing to force the state to resume accepting applications to its emergency rental assistance program. Details: The organization charges in a new class-action lawsuit that the closure of the program in mid-November was unlawful and has put “pote… 
  <p class="updated_time"> 11:53 AM CT, Dec. 14 </p> 
@@ -346,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/14/politics/transportation-doe-team-up-electric-vehicles/index.html">Energy, Transportation departments team up to help states develop electric vehicle charging infrastructure</a> CNN: Two key federal agencies are joining forces to speed things along as billions in federal funding for a national network of electric vehicle charging stations goes out to states. 
  <p class="updated_time"> 08:39 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/business/media/fox-news-trump-jan-6-meadows.html">Fox News Hosts Sent Texts to Meadows Urging Trump to Act as Jan. 6 Attack Unfolded</a> NYT: Afterward, on their shows, Laura Ingraham spread the false claim of antifa involvement, and Sean Hannity referred to the 2020 election as a “train wreck.” 
- <p class="updated_time"> 08:36 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/mark-meadows-contempt.html">Jan. 6 Committee Recommends Contempt Charge for Mark Meadows</a> NYT: The panel sent a criminal contempt of Congress referral to the full House, as the extent of Mark Meadows’s role in President Donald J. Trump’s efforts to overturn the election became clearer. 
  <p class="updated_time"> 08:22 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/pfizer-covid-pill-524194">Pfizer's Covid-19 pill cut risk of hospitalization and death by 89 percent, final results show</a> Politico: The results tracked with interim findings the company reported last month. 
  <p class="updated_time"> 07:25 AM CT, Dec. 14 </p> 
@@ -404,8 +402,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430"> Harris trashes her media coverage</a> Politico Playbook: And Chris Wallace leaves Fox News. 
  <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
- <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/child-tax-credit-lowest-income-parents/index.html">Getting child tax credit to lowest-income parents proves challenging</a> CNN: When President Joe Biden and congressional Democrats temporarily expanded the child tax credit this spring, they repeatedly touted that it would help cut child poverty nearly in half. 
+ <p class="updated_time"> 10:26 AM CT, Dec. 12 </p> 
+ <a href="https://www.politico.com/news/2021/12/12/de-blasio-vaccine-mandates-new-york-524126">De Blasio defends vaccine mandates, points to effectiveness in NYC</a> Politico: New York’s mayor said business owners in the city would prefer a mandate over shutdowns. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
@@ -414,6 +412,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/11/soaring-inflation-wealth-racial-disparities-524111">Soaring inflation could hamper Biden’s effort to narrow wealth, racial disparities</a> Politico: Biden campaigned on addressing structural inequities. Rising prices could jeopardize that. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
+ <p class="updated_time"> 10:12 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/white-house-red-line-policy-cyberattacks/index.html">New White House policy gives agencies 24 hours to assess cyberattacks of potential national security concern</a> CNN: The White House has enacted a new policy requiring the FBI and other agencies to help US officials quickly assess whether a cyberattack "rises to the level of a national security concern" that could hamper the provision of key services such as fuel or food, according to a National Security Council memo obtained by CNN and two US officials. 
  <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/consumer-prices-surge-biden-setback-524075">Inflation accelerates at lightning pace in new setback for Biden</a> Politico: Costs for key goods and services soared 0.8 percent for the month and 6.8 percent for the year, the highest since 1982, the Labor Department reported Friday. 
  <p class="updated_time"> 07:29 AM CT, Dec. 10 </p> 
