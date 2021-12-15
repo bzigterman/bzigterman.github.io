@@ -247,7 +247,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:28 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/senate-vote-ndaa/index.html">Senate passes annual defense bill authorizing $770 billion in Pentagon funding</a> CNN: The National Defense Authorization Act, the annual must-pass defense bill that authorizes $770 billion in funding for the Defense Department, is set to pass the Senate on Wednesday with a bipartisan vote. 
  <p class="updated_time"> 02:21 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/federal-reserve-rate-hikes-economy-524774">Fed clears path for multiple rate hikes for next year</a> Politico: The Fed plans to cease its bond buys entirely by March, rather than its earlier target of June to give itself room to begin raising interest rates as early as the second quarter of next year. 
+ <a href="https://www.politico.com/news/2021/12/15/federal-reserve-rate-hikes-economy-524774">Fed clears path for multiple rate hikes during election year as prices surge</a> Politico: The Fed plans to cease its bond buys entirely by March, rather than its earlier target of June to give itself room to begin raising interest rates as early as the second quarter of next year. 
  <p class="updated_time"> 02:02 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/elizabeth-warren-expand-supreme-court/index.html">Elizabeth Warren calls for expansion of Supreme Court, saying current court is a threat to democracy</a> CNN: Massachusetts Sen. Elizabeth Warren on Wednesday called for the US Supreme Court to be expanded with more justices and said that the current court "threatens the democratic foundations of our nation." 
  <p class="updated_time"> 02:01 PM CT, Dec. 15 </p> 
