@@ -236,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064068696/the-house-votes-to-hold-mark-meadows-in-contempt-sending-a-criminal-referral-to-">The House votes to hold Mark Meadows in contempt, sending a criminal referral to DOJ</a> NPR: The vote now leaves it up to the Justice Department to decide whether it will pursue criminal charges against the former White House chief of staff. 
  <p class="updated_time"> 09:12 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-text-messages/index.html">'Need to end this call': Jan. 6 committee reveals new text message to Meadows</a> CNN: The House select committee investigating the January 6 attack on the US Capitol released new text messages obtained from former Trump White House chief of staff Mark Meadows that were sent to him in the days leading up to the insurrection and while the Capitol was under siege. 
- <p class="updated_time"> 08:47 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/silicon-valleys-voice-in-washington-to-dissolve-524486">Silicon Valley’s voice in Washington to dissolve</a> Politico: The Internet Association plans to announce it is dissolving as soon as tomorrow. 
  <p class="updated_time"> 08:31 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/eastman-sues-jan6-records-524441">Eastman sues Jan. 6 committee and Verizon to prevent release of phone records</a> Politico: A similar lawsuit was filed Monday by four organizers of the Jan. 6 rally, 
  <p class="updated_time"> 08:11 PM CT, Dec. 14 </p> 
@@ -252,6 +250,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/covid-death-toll-800000-524333">U.S. Covid death toll hits 800,000, a year into vaccine drive</a> Politico: The total is about equal to the population of Atlanta and St. Louis combined. 
  <p class="updated_time"> 06:53 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/trump-irs-disclosure-tax/index.html">Trump suffers big court loss in his bid to keep his tax records secret</a> CNN: A federal judge on Tuesday dismissed former President Donald Trump's bid in court to stop the Treasury Department from turning over his tax returns to the House. 
+ <p class="updated_time"> 06:40 PM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/garcetti-new-delhi-524273">Senate toasts Eric Garcetti nomination, despite the red flags back home</a> Politico: The L.A. mayor had his confirmation hearing Tuesday. Only one member asked him about the misconduct allegations his top aide is facing. 
  <p class="updated_time"> 06:31 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/iran-nuclear-united-nations-524274">U.N. nuclear chief says view of Iran ‘blurred’</a> Politico: Rafael Mariano Grossi said Iran must work with international inspectors. 
  <p class="updated_time"> 06:02 PM CT, Dec. 14 </p> 
@@ -300,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/14/politics/biden-pfizer-covid-antiviral-pill/index.html">Biden says he's 'encouraged by the promising data' on Pfizer's Covid-19 antiviral pill</a> CNN: President Joe Biden on Tuesday praised Pfizer's report that its experimental treatment for Covid-19 cut the risk of hospitalization or death by 89% if given to high-risk adults within a few days of their first symptoms. 
  <p class="updated_time"> 02:23 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/fbi-soliciting-prostitution/index.html">Six FBI agents investigated for allegedly soliciting prostitution while on assignment overseas</a> CNN: Six FBI agents were investigated for allegedly soliciting prostitution, trafficking drugs and failing to report unofficial interactions for foreign nationals while on assignment overseas, a Justice Department watchdog says. 
- <p class="updated_time"> 02:17 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/qanon-follower-sentence-pelosi-death-threats-524209">QAnon follower gets 28-month sentence for death threats to Pelosi</a> Politico: Judge says continuing election-fraud rhetoric from Republican politicians makes defendant an ongoing threat. 
  <p class="updated_time"> 02:04 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/capitol-pelosi-threat/index.html">Man who threatened to shoot Pelosi sentenced to more than two years in prison</a> CNN: A Georgia man who drove cross-country with an assault rifle and threatened to kill House Speaker Nancy Pelosi was sentenced to 28 months behind bars during in an emotional hearing on Tuesday. 
  <p class="updated_time"> 01:50 PM CT, Dec. 14 </p> 
@@ -344,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/14/what-the-left-doesnt-get-about-the-media-495453">POLITICO Playbook: What the left doesn’t get about the media</a> Politico: And the Jan. 6 committee releases some of Mark Meadows' text messages. 
  <p class="updated_time"> 05:31 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/sections/money/2021/12/14/1063703904/the-best-and-worst-places-to-live-if-you-care-only-about-money">The best and worst places to live if you only care about money</a> NPR: A new study looks at the finances of 3 million households over the course of a year. It finds significant differences in the standard of living across America. 
- <p class="updated_time"> 04:31 AM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/rural-america-biden-investments-524170">Biden’s rural investments run up against the culture wars in Wisconsin</a> Politico: Even as President Joe Biden’s agenda has promised billions to rural communities this year, Democrats are in danger of losing their last foothold in rural Wisconsin. 
  <p class="updated_time"> 04:30 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/business/birth-control-pill-over-counter.html">Firms Push for Over-the-Counter Access to Birth-Control Pills</a> NYT: Two drugmakers have been mired for years in the pre-application phase of getting F.D.A. approval for over-the-counter use. 
  <p class="updated_time"> 04:10 AM CT, Dec. 14 </p> 
@@ -408,8 +404,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
  <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
- <p class="updated_time"> 10:26 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/de-blasio-vaccine-mandates-new-york-524126">De Blasio defends vaccine mandates, points to effectiveness in NYC</a> Politico: New York’s mayor said business owners in the city would prefer a mandate over shutdowns. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
