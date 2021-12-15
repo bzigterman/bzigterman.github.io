@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:28 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Cuts Short Asia Trip After Journalist on His Plane Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the U. S. earlier than planned. 
- <p class="updated_time"> 07:25 AM CT, Dec. 15 </p> 
+ <p class="updated_time"> 07:33 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/gop-governors-vaccine-pentagon.html">5 Republican Governors Seek Vaccine Exemptions for National Guard Troops</a> NYT: The move comes as the Pentagon released a new order this week saying that National Guard members who do not get vaccinated would receive a general order of reprimand, essentially ending their careers. 
+ <p class="updated_time"> 07:31 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Halts Asia Trip After Journalist Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the United States earlier than planned. 
  <p class="updated_time"> 07:24 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html">Putin and Xi Hold Video Summit</a> NYT: President Vladimir V. Putin and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West but have not yet declared a formal alliance. 
  <p class="updated_time"> 07:13 AM CT, Dec. 15 </p> 
@@ -204,10 +204,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:35 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/15/house-is-home-for-the-holidays-senate-sticks-around-495473">House is home for the holidays, Senate sticks around</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:28 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Cuts Short Asia Trip After Journalist on His Plane Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the U. S. earlier than planned. 
- <p class="updated_time"> 07:25 AM CT, Dec. 15 </p> 
+ <p class="updated_time"> 07:33 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/gop-governors-vaccine-pentagon.html">5 Republican Governors Seek Vaccine Exemptions for National Guard Troops</a> NYT: The move comes as the Pentagon released a new order this week saying that National Guard members who do not get vaccinated would receive a general order of reprimand, essentially ending their careers. 
+ <p class="updated_time"> 07:31 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Halts Asia Trip After Journalist Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the United States earlier than planned. 
  <p class="updated_time"> 07:22 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/black-farmers-debt-relief-disparities/index.html">In a cash flow business, White farmers have the upper hand</a> CNN: Texas cattle rancher Deydra Steans quit her teaching job three years ago to help save her family's farming operations. 
  <p class="updated_time"> 07:14 AM CT, Dec. 15 </p> 
@@ -257,7 +257,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:07 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064068696/the-house-votes-to-hold-mark-meadows-in-contempt-sending-a-criminal-referral-to-">The House votes to hold Mark Meadows in contempt, sending a criminal referral to DOJ</a> NPR: The vote now leaves it up to the Justice Department to decide whether it will pursue criminal charges against the former White House chief of staff. 
  <p class="updated_time"> 09:12 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-text-messages/index.html">'Need to end this call': Jan. 6 committee reveals new text message to Meadows</a> CNN: The House select committee investigating the January 6 attack on the US Capitol released new text messages obtained from former Trump White House chief of staff Mark Meadows that were sent to him in the days leading up to the insurrection and while the Capitol was under siege. 
+ <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-text-messages/index.html">'Need to end this call': January 6 committee reveals new text message to Meadows</a> CNN: The House select committee investigating the January 6 attack on the US Capitol released new text messages obtained from former Trump White House chief of staff Mark Meadows that were sent to him in the days leading up to the insurrection and while the Capitol was under siege. 
  <p class="updated_time"> 08:31 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/eastman-sues-jan6-records-524441">Eastman sues Jan. 6 committee and Verizon to prevent release of phone records</a> Politico: A similar lawsuit was filed Monday by four organizers of the Jan. 6 rally, 
  <p class="updated_time"> 08:11 PM CT, Dec. 14 </p> 
@@ -327,7 +327,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
  <p class="updated_time"> 12:25 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/trump-pence-comments-2020-certification/index.html">Trump says Pence is 'mortally wounded' inside GOP for his role in certifying 2020 election results</a> CNN: As former Vice President Mike Pence weighs his future in politics -- laying the groundwork for a possible presidential campaign in 2024 and supporting Republican candidates who face reelection next fall -- former President Donald Trump said Pence is "mortally wounded" inside the GOP. 
+ <a href="https://www.cnn.com/2021/12/14/politics/trump-pence-comments-2020-certification/index.html">Trump says Pence is 'mortally wounded' in GOP for his role in certifying 2020 election results</a> CNN: As former Vice President Mike Pence weighs his future in politics -- laying the groundwork for a possible presidential campaign in 2024 and supporting Republican candidates who face reelection next fall -- former President Donald Trump said Pence is "mortally wounded" inside the GOP. 
  <p class="updated_time"> 12:07 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/dc-proud-boys-oath-keepers-lawsuit/index.html">DC AG sues Proud Boys, Oath Keepers members to recoup costs related to January 6</a> CNN: More than two dozen members of the Proud Boys and Oath Keepers are being sued by District of Columbia Attorney General Karl Racine in an effort to recover the millions of dollars the city spent to defend the US Capitol during the January 6 attack. 
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
@@ -406,6 +406,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/dems-child-tax-credit-expire-social-bill-524084">As Dems sprint against the clock, child tax credit might slip away</a> Politico: “It’s as important a thing as there is” in the party's social spending bill, as one senator put it. And it's expiring any day now. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
+ <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
+ <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
@@ -422,8 +424,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/10/trumps-terrible-thursday-followed-by-bidens-bad-friday-495415">POLITICO Playbook: Trump’s terrible Thursday, followed by Biden’s bad Friday?</a> Politico: And the U.S. clears a hurdle in its pursuit of the extradition of Julian Assange. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy’s proxy voting opposition could reshape the House</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
- <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/recovery-lab-capstone-editors-note-523957">Welcome to Recovery Lab: The Capstone Issue</a> Politico: We’ve spent a year reporting on how America is recovering from the Covid-19 pandemic. Here’s what we’ve learned. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen to lawmakers: Ignore the GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
  <p class="updated_time"> 06:41 PM CT, Dec. 09 </p> 
@@ -444,8 +444,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: His departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where “anybody who says they’re not interested is lying.” 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/schumer-mcconnell-debt-deal-523963">How Schumer and McConnell got the debt deal done</a> Politico: The agreement to raise the debt ceiling between the two Senate leaders might mark a high point for their relationship. Don't expect it to last. 
- <p class="updated_time"> 07:32 AM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/12/08/congress-waves-its-procedural-magic-wand-495371">Congress waves its procedural magic wand</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
