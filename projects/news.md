@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:40 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat Carrying Indonesian Migrants Sinks Near Malaysia, Killing at Least 10</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving 29 others missing, officials said. 
+ <p class="updated_time"> 02:39 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59665125?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Dozens stranded on roof after World Trade Centre fire</a> BBC: Footage obtained by the BBC shows people crowded amongst the roof's scaffolding awaiting rescue. 
  <p class="updated_time"> 02:21 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/greece-covid-school-abduction.html">Three Jailed in Greece After a Principal was Handcuffed Over Virus Measures</a> NYT: Police said a group of people handcuffed the principal on Friday and drove him to a local precinct, suggesting that officers arrest him for enforcing Covid measures. 
  <p class="updated_time"> 01:55 AM CT, Dec. 15 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/crisis-looms-for-taliban-afghanistan-and-rest-of-world-11639104243">For a Taliban-Ruled Afghanistan, and the Rest of the World, a Crisis Looms</a> WSJ: The new Taliban administration is struggling with a devastated economy. The fallout likely will extend well beyond the country’s borders. 
  <p class="updated_time"> 02:30 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S. and other ex-foes, Afghan foreign minister says </a> NPR: Afghan Foreign Minister Amir Khan Muttaqi, in an interview with The Associated Press, said the Taliban have changed since they last ruled. He says they have no issue with the United States. 
- <p class="updated_time"> 04:25 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59631837?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: 100-year-old church destroyed in seconds</a> BBC: The BBC's Nomia Iqbal shows us the ruins of the Mayfield First United Methodist Church in Kentucky. 
  <p class="updated_time"> 12:42 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
  <p class="updated_time"> 03:10 PM CT, Dec. 11 </p> 
