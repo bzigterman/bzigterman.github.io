@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:12 PM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59674306?at_medium=RSS&at_campaign=KARANGA">Logic's 1-800-273-8255 led to call surge to suicide line, study suggests</a> BBC: Researchers found that the rapper's 1-800-273-8255 increased calls to the helpline it was named after. 
  <p class="updated_time"> 12:53 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-baker-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
  <p class="updated_time"> 12:42 PM CT, Dec. 15 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/asia/north-korea-kpop-executions.html">North Korea Executes People for Watching K-Pop, Rights Group Says</a> NYT: At least seven people have been put to death in the past decade for watching or distributing K-pop videos, as the North cracks down on what its leader calls a “vicious cancer.” 
  <p class="updated_time"> 04:06 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064386048/the-irc-says-afghanistan-is-in-dire-need-of-humanitarian-aid">The IRC says Afghanistan is in dire need of humanitarian aid</a> NPR: The International Rescue Committee, an aid group, says Afghanistan tops the countries of concern list for the next year. And the global picture for humanitarian workers is getting more challenging. 
- <p class="updated_time"> 04:02 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-59656385?at_medium=RSS&at_campaign=KARANGA">Covid: Omicron spreading at unprecedented rate, WHO says</a> BBC: The WHO's head warns that the Covid variant is being underestimated, despite its potential impact. 
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1063830104/portugal-covid-vaccines-omicron-variant">Portugal has one of the top vaccination rates but isn't taking chances with omicron</a> NPR: Scientists are watching how Portugal and other highly vaccinated countries are faring against the coronavirus' new omicron variant. 
  <p class="updated_time"> 02:39 AM CT, Dec. 15 </p> 
@@ -203,7 +203,9 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 01:08 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/business/economy/inflation-fed-fomc-meeting-december-2021.html">FOMC Meeting: Fed Will End Bond-Buying in March</a> NYT: Federal Reserve officials suggested as many as three interest rate increases in 2022 as the economy heals and inflation persists. 
+ <a href="https://www.npr.org/2021/12/15/1064478567/inflation-hot-federal-reserve-interest-rates-bond-taper">Inflation is still red hot, and it's forcing the Federal Reserve into a new game plan</a> NPR: The Federal Reserve is opening the door to possible interest rate hikes earlier next year than had been expected, as it wrestles with the highest inflation in nearly four decades. 
+ <p class="updated_time"> 01:08 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/business/economy/inflation-fed-fomc-meeting-december-2021.html">Fed Could Raise Rates 3 Times in 2022, Speeds End of Bond-Buying</a> NYT: Federal Reserve officials suggested as many as three interest rate increases in 2022 as the economy heals and inflation persists. 
  <p class="updated_time"> 01:04 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/biden-administration-jfk-documents/index.html">Biden admin releases previously classified JFK assassination documents</a> CNN: The Biden administration faces a Wednesday deadline to publicly release a tranche of secret documents that some historians -- and conspiracy theorists -- hope might shed light on the 1963 assassination of President John F. Kennedy. 
  <p class="updated_time"> 12:59 PM CT, Dec. 15 </p> 
@@ -218,6 +220,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/december-child-tax-credit-payment/index.html">December's child tax credit payment will be the last one unless Congress acts</a> CNN: Parents are set to get their last monthly infusion of the expanded child tax credit starting Wednesday -- unless Congress acts to extend it for another year. 
  <p class="updated_time"> 12:21 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
+ <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
  <p class="updated_time"> 12:13 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/abortion-pill-rules-reproductive-rights-524680">Looming abortion pill rules could recast reproductive rights battle</a> Politico: Regulators are due to decide Thursday whether to uphold, revise or scrap longstanding restrictions on the abortion drug mifepristone 
  <p class="updated_time"> 11:46 AM CT, Dec. 15 </p> 
@@ -384,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/remain-in-mexico-appeals-court/index.html">Appeals court rules against Biden admin's termination of 'remain in Mexico' policy</a> CNN: The 5th US Circuit Court of Appeals on Monday night ruled against the Biden administration's bid to terminate the Trump-era "remain in Mexico" policy, which requires non-Mexican migrants to stay in Mexico until their US immigration court dates. 
  <p class="updated_time"> 09:21 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/jan-6-rally-organizers-sue-verizon-524189">Jan. 6 rally organizers sue Verizon to block release of cell phone data to congressional committee</a> Politico: The lawsuit said the plaintiffs have personally complied with the committee’s investigation. 
- <p class="updated_time"> 08:19 PM CT, Dec. 13 </p> 
- <a href="https://www.npr.org/2021/12/13/1063955835/rep-liz-cheney-read-text-messages-she-said-mark-meadows-got-during-the-jan-6-sie">Rep. Liz Cheney read text messages she said Mark Meadows got during the Jan. 6 siege</a> NPR: In the messages, Donald Trump Jr. and Fox News hosts Laura Ingraham and Sean Hannity urge Meadows to get then-President Donald Trump to tell his supporters to leave the Capitol. 
  <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/hes-got-to-condemn-this-shit-panel-releases-urgent-jan-6-texts-from-trump-jr-lawmakers-524188">‘He’s got to condemn this …’: Panel releases urgent Jan. 6 texts from Donald Trump Jr., lawmakers and Fox hosts</a> Politico: House investigators held Mark Meadows in criminal contempt after releasing a trove of messages aimed at getting President Trump to take stronger action amid the Capitol riot. 
  <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
