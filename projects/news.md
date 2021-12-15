@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:34 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/hong-kong-fire.html">Hundreds Trapped by Fire at World Trade Center in Hong Kong</a> NYT: The blaze at the World Trade Center in Causeway Bay injured at least 13 people, including one who was semiconscious, the police said. 
+ <p class="updated_time"> 03:26 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59664076?at_medium=RSS&at_campaign=KARANGA">German raids on Covid extremists over Saxony leader death plot</a> BBC: Far-right anti-vaccination activists are suspected of plotting to kill Saxony leader Michael Kretschmer. 
  <p class="updated_time"> 03:06 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59665825?at_medium=RSS&at_campaign=KARANGA">Jacob Zuma: South African court orders ex-president back to jail</a> BBC: Jacob Zuma was granted medical parole after being sentenced to serve 15 months in jail. 
  <p class="updated_time"> 02:57 AM CT, Dec. 15 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59662421?at_medium=RSS&at_campaign=KARANGA">South Korean dairy giant apologises for controversial advert</a> BBC: The company also faced a backlash over the advert's similarity to "molka", or secret filming. 
  <p class="updated_time"> 10:56 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59661306?at_medium=RSS&at_campaign=KARANGA">Mark Meadows: Trump ex-chief of staff in contempt of Congress</a> BBC: The Democrat-led House of Representatives rebuked Mark Meadows for defying a congressional panel. 
- <p class="updated_time"> 10:50 PM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59662322?at_medium=RSS&at_campaign=KARANGA">Two zebras returned to US farm after months on the lam</a> BBC: Officials had been tracking the pair since they first escaped from a Maryland farm in August. 
  <p class="updated_time"> 09:52 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/business/economy/turkey-inflation-economy-lira.html">How Inflation Affects Turkey's Struggling Economy</a> NYT: Even before the pandemic, Turkey was trying to ward off financial meltdown. The crisis has accelerated as President Recep Tayyip Erdogan has doubled down on his unorthodox policies. 
  <p class="updated_time"> 08:25 PM CT, Dec. 14 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S. and other ex-foes, Afghan foreign minister says </a> NPR: Afghan Foreign Minister Amir Khan Muttaqi, in an interview with The Associated Press, said the Taliban have changed since they last ruled. He says they have no issue with the United States. 
  <p class="updated_time"> 12:42 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
- <p class="updated_time"> 03:10 PM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/11/nyregion/panama-president-sons-charges.html">Ex-Panama President’s Sons Are Extradited to U.S. After Multicountry Chase</a> NYT: Two sons of the former president Ricardo Martinelli fled the United States by Uber, private jet and an “unknown vessel,” prosecutors said. The second has now been extradited, weeks after his brother. 
  <p class="updated_time"> 12:32 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/europe/rome-christmas-tree.html">Less Mange, More Frills: Rome’s New Mayor Bets on His Christmas Tree</a> NYT: The annual Christmas tree in the Italian capital has come under scrutiny ever since a 2017 debacle. Will this year’s pass social media muster? 
  <p class="updated_time"> 12:12 PM CT, Dec. 11 </p> 
@@ -331,7 +331,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:39 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/business/media/fox-news-trump-jan-6-meadows.html">Fox News Hosts Sent Texts to Meadows Urging Trump to Act as Jan. 6 Attack Unfolded</a> NYT: Afterward, on their shows, Laura Ingraham spread the false claim of antifa involvement, and Sean Hannity referred to the 2020 election as a “train wreck.” 
  <p class="updated_time"> 08:36 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/mark-meadows-contempt.html">Jan. 6 Committee Recommends Contempt Charge for Meadows</a> NYT: The panel sent a criminal contempt of Congress referral to the full House, as the extent of Mark Meadows’s role in President Donald J. Trump’s efforts to overturn the election became clearer. 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/mark-meadows-contempt.html">Jan. 6 Committee Recommends Contempt Charge for Mark Meadows</a> NYT: The panel sent a criminal contempt of Congress referral to the full House, as the extent of Mark Meadows’s role in President Donald J. Trump’s efforts to overturn the election became clearer. 
  <p class="updated_time"> 08:22 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/pfizer-covid-pill-524194">Pfizer's Covid-19 pill cut risk of hospitalization and death by 89 percent, final results show</a> Politico: The results tracked with interim findings the company reported last month. 
  <p class="updated_time"> 07:25 AM CT, Dec. 14 </p> 
