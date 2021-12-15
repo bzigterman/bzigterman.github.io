@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:25 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/africa/omicron-south-africa-study.html">Illnesses Tied to Omicron May Be Milder, Preliminary Study Suggests</a> NYT: The findings, which also show that the new variant partly dodges the Pfizer-BioNTech vaccine, are based on only three weeks of data. Epidemiologists cautioned that the full picture is still emerging. 
  <p class="updated_time"> 08:14 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/italy-bishop-santa-claus.html">Italian Bishop Gives Children Harsh News: There Is No Santa Claus</a> NYT: You’ve been lied to, children heard from a bishop, the latest Catholic clergyman to try to take down Santa Claus and consumerism. Many Italians were not pleased. 
  <p class="updated_time"> 07:56 PM CT, Dec. 14 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59659513?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: I spent my 40th birthday trapped under rubble</a> BBC: Kyanna Parsons-Perez never imagined that her 40th birthday would be spent pinned to the floor of the Mayfield candle factory. 
  <p class="updated_time"> 01:16 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59659543?at_medium=RSS&at_campaign=KARANGA">Russia told to pay compensation to woman whose hands were cut off</a> BBC: Europe's top human rights court says authorities failed to protect her against domestic violence. 
- <p class="updated_time"> 12:58 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/africa/omicron-south-africa-study.html">Illnesses Tied to Omicron May Be Milder, Preliminary Study Suggests</a> NYT: The findings, which also show that the new variant partly dodges the Pfizer-BioNTech vaccine, are based on only three weeks of data. Epidemiologists cautioned that the full picture is still emerging. 
  <p class="updated_time"> 12:10 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
  <p class="updated_time"> 12:00 PM CT, Dec. 14 </p> 
@@ -215,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:37 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/cisa-cyber-no-sign-vulnerability-524429">Feds scramble to assess security flaw that threatens 'hundreds of millions' of devices</a> Politico: The government’s cyber defenders have no indication that hackers have breached any federal agency using a recently disclosed vulnerability in Apache logging software, a Biden administration official said. 
  <p class="updated_time"> 07:32 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/liz-cheney-capitol-attack.html">Liz Cheney Takes Center Stage in Jan. 6 Inquiry</a> NYT: Representative Liz Cheney has embraced a prominent role in the House investigation of the Jan. 6 attack, using her perch to hold up an unsparing mirror to the Republican Party. 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/liz-cheney-capitol-attack.html">Marginalized by Her Party, Cheney Takes Center Stage in Jan. 6 Inquiry</a> NYT: Representative Liz Cheney has embraced a prominent role in the House investigation of the Jan. 6 attack, using her perch to hold up an unsparing mirror to the Republican Party. 
  <p class="updated_time"> 07:22 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/covid-death-toll-800000-524333">U.S. Covid death toll hits 800,000, a year into vaccine drive</a> Politico: The total is about equal to the population of Atlanta and St. Louis combined. 
  <p class="updated_time"> 07:18 PM CT, Dec. 14 </p> 
@@ -319,7 +319,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:39 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/business/media/fox-news-trump-jan-6-meadows.html">Fox News Hosts Sent Texts to Meadows Urging Trump to Act as Jan. 6 Attack Unfolded</a> NYT: Afterward, on their shows, Laura Ingraham spread the false claim of antifa involvement, and Sean Hannity referred to the 2020 election as a “train wreck.” 
  <p class="updated_time"> 08:36 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/mark-meadows-contempt.html">Jan. 6 Committee Recommends Contempt Charge for Meadows</a> NYT: The panel sent a criminal contempt of Congress referral to the full House, as the extent of Mark Meadows’s role in President Donald J. Trump’s efforts to overturn the election became clearer. 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/mark-meadows-contempt.html">Jan. 6 Committee Recommends Contempt Charge for Mark Meadows</a> NYT: The panel sent a criminal contempt of Congress referral to the full House, as the extent of Mark Meadows’s role in President Donald J. Trump’s efforts to overturn the election became clearer. 
  <p class="updated_time"> 08:22 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/pfizer-covid-pill-524194">Pfizer's Covid-19 pill cut risk of hospitalization and death by 89 percent, final results show</a> Politico: The results tracked with interim findings the company reported last month. 
  <p class="updated_time"> 07:25 AM CT, Dec. 14 </p> 
@@ -357,7 +357,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/trump-subpoena-financial-records.html">Lawyers Clash Again Over Subpoena for Trump’s Financial Records</a> NYT: The long-running case dates back to an early 2019 House Oversight Committee demand to see years of the then-president’s financial data. 
  <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Strike, Pentagon Chief Decides</a> NYT: The military initially defended the strike, which killed 10 civilians including seven children, but ultimately called it a tragic mistake. 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Drone Strike</a> NYT: The military initially defended the strike, which killed 10 civilians including seven children, but ultimately called it a tragic mistake. 
  <p class="updated_time"> 05:59 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063767973/saule-omarova-gets-candid-banks-sank-her-nomination-to-head-occ">Saule Omarova gets candid: Banks sank her nomination to become a key regulator</a> NPR: Days after withdrawing her nomination to become a key banking regulator, Omarova blames banks for distorting her research and creating an ugly environment. 
  <p class="updated_time"> 05:52 PM CT, Dec. 13 </p> 
@@ -404,6 +404,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
  <p class="updated_time"> 10:26 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/de-blasio-vaccine-mandates-new-york-524126">De Blasio defends vaccine mandates, points to effectiveness in NYC</a> Politico: New York’s mayor said business owners in the city would prefer a mandate over shutdowns. 
+ <p class="updated_time"> 09:57 AM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/us/politics/biden-democrats-2024.html">Democrats Are Solidly Behind Biden. There’s No Consensus About a Plan B.</a> NYT: Leaders with White House aspirations all say they’ll support the president for another term. But there is no shortage of chatter about the options if he continues to falter. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
