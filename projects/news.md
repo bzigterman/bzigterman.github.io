@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:53 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-baker-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
  <p class="updated_time"> 12:42 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59672683?at_medium=RSS&at_campaign=KARANGA">bell hooks; Author and feminist dies aged 69</a> BBC: Her niece confirmed the writer died on Wednesday "surrounded by her family and friends". 
  <p class="updated_time"> 12:06 PM CT, Dec. 15 </p> 
@@ -157,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Cementing an alliance built on mutual fear of Iran, Prime Minister Naftali Bennett met Prince Mohammed bin Zayed of the United Arab Emirates on the first official visit by an Israeli leader to the Gulf state. 
  <p class="updated_time"> 11:02 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-nuclear-submarines.html">South Korea Has Long Wanted Nuclear Subs. A New Reactor Could Open a Door.</a> NYT: The country plans to build a small modular reactor for marine propulsion, raising questions of whether it eventually intends to develop a nuclear submarine despite a U.S. treaty. 
- <p class="updated_time"> 09:29 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/europe/covid-anxiety-depression-omicron.html">Across the World, Covid Anxiety and Depression Take Hold</a> NYT: It is still unclear how much of a threat the fast-spreading Omicron variant poses, but fear and a sudden revival of restrictions have added to an epidemic of loneliness. 
  <p class="updated_time"> 09:17 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/israel-tankers-iran.html">Israel Finds Planes That Could Be Key to a Strike on Iran Badly Back-Ordered</a> NYT: The United States told Israel it was unlikely to deliver refueling tankers before 2024, amid tensions between the two nations over how to deal with Iran’s nuclear program. 
  <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
@@ -202,20 +202,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:08 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/business/economy/inflation-fed-fomc-meeting-december-2021.html">FOMC Meeting: Fed Will End Bond-Buying in March</a> NYT: Federal Reserve officials suggested as many as three interest rate increases in 2022 as the economy heals and inflation persists. 
+ <p class="updated_time"> 01:04 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/biden-administration-jfk-documents/index.html">Biden admin releases previously classified JFK assassination documents</a> CNN: The Biden administration faces a Wednesday deadline to publicly release a tranche of secret documents that some historians -- and conspiracy theorists -- hope might shed light on the 1963 assassination of President John F. Kennedy. 
+ <p class="updated_time"> 12:59 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/guantanamo-bay-cia-prisoners.html">U.S. Waited Months to Book C.I.A. Prisoners at Guantánamo Bay</a> NYT: Defense lawyers said the delay cast into doubt whether samples taken from the captives could be considered valid evidence. 
  <p class="updated_time"> 12:44 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/5th-circuit-biden-health-care-worker-mandate/index.html">Health care worker vaccine mandate can be enforced in half the country, appeals court says</a> CNN: A federal appeals court gave the Biden administration a partial win in the federal government's efforts to require Covid-19 vaccines for certain health care workers. 
  <p class="updated_time"> 12:43 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/mlk-day-voting-rights-legislation/index.html">Martin Luther King Jr.'s family calls for 'no celebration' of MLK Day without action on voting rights legislation</a> CNN: The family of Martin Luther King Jr. is calling for "no celebration" of MLK Day without the passage of voting rights legislation, putting pressure on President Joe Biden and lawmakers to act on federal voting rights bills that have stalled in Congress. 
- <p class="updated_time"> 12:26 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/biden-administration-jfk-documents/index.html">Biden admin releases previously classified JFK assassination documents</a> CNN: The Biden administration faces a Wednesday deadline to publicly release a tranche of secret documents that some historians -- and conspiracy theorists -- hope might shed light on the 1963 assassination of President John F. Kennedy. 
  <p class="updated_time"> 12:24 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/biden-kentucky-visit/index.html">Biden gets on-the-ground look at devastation from Kentucky tornado</a> CNN: President Joe Biden will travel to Kentucky on Wednesday in the wake of deadly tornadoes and severe storms that devastated the area, where he'll survey storm damage, meet with victims and deliver remarks. 
  <p class="updated_time"> 12:23 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/december-child-tax-credit-payment/index.html">December's child tax credit payment will be the last one unless Congress acts</a> CNN: Parents are set to get their last monthly infusion of the expanded child tax credit starting Wednesday -- unless Congress acts to extend it for another year. 
  <p class="updated_time"> 12:21 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
- <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
  <p class="updated_time"> 12:13 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/abortion-pill-rules-reproductive-rights-524680">Looming abortion pill rules could recast reproductive rights battle</a> Politico: Regulators are due to decide Thursday whether to uphold, revise or scrap longstanding restrictions on the abortion drug mifepristone 
  <p class="updated_time"> 11:46 AM CT, Dec. 15 </p> 
@@ -358,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/joe-biden-news-journal-ad-targeting-524196">How a 100-year-old newspaper became the go-to way to influence Biden</a> Politico: In the Biden era, the pages of The News Journal have become a way to reach a new audience of one. 
  <p class="updated_time"> 09:00 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/transportation-doe-team-up-electric-vehicles/index.html">Energy, Transportation departments team up to help states develop electric vehicle charging infrastructure</a> CNN: Two key federal agencies are joining forces to speed things along as billions in federal funding for a national network of electric vehicle charging stations goes out to states. 
- <p class="updated_time"> 08:39 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/13/business/media/fox-news-trump-jan-6-meadows.html">Fox News Hosts Sent Texts to Meadows Urging Trump to Act as Jan. 6 Attack Unfolded</a> NYT: Afterward, on their shows, Laura Ingraham spread the false claim of antifa involvement, and Sean Hannity referred to the 2020 election as a “train wreck.” 
  <p class="updated_time"> 08:22 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/pfizer-covid-pill-524194">Pfizer's Covid-19 pill cut risk of hospitalization and death by 89 percent, final results show</a> Politico: The results tracked with interim findings the company reported last month. 
  <p class="updated_time"> 07:25 AM CT, Dec. 14 </p> 
@@ -370,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/money/2021/12/14/1063703904/the-best-and-worst-places-to-live-if-you-care-only-about-money">The best and worst places to live if you only care about money</a> NPR: A new study looks at the finances of 3 million households over the course of a year. It finds significant differences in the standard of living across America. 
  <p class="updated_time"> 04:31 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/rural-america-biden-investments-524170">Biden’s rural investments run up against the culture wars in Wisconsin</a> Politico: Even as President Joe Biden’s agenda has promised billions to rural communities this year, Democrats are in danger of losing their last foothold in rural Wisconsin. 
- <p class="updated_time"> 04:30 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/business/birth-control-pill-over-counter.html">Firms Push for Over-the-Counter Access to Birth-Control Pills</a> NYT: Two drugmakers have been mired for years in the pre-application phase of getting F.D.A. approval for over-the-counter use. 
  <p class="updated_time"> 04:10 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064018682/meadows-held-in-contempt-jan-6-panel-sends-a-criminal-referral-to-the-house">Meadows held in contempt, Jan. 6 panel sends a criminal referral to the House</a> NPR: A House panel investigating the Jan. 6 attack on the U.S. Capitol has voted to hold former Trump White House Chief of Staff Mark Meadows in contempt, revealing new details in his text messages. 
  <p class="updated_time"> 04:10 AM CT, Dec. 14 </p> 
