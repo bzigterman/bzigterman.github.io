@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:34 AM CT, Dec. 15 </p> 
+ <p class="updated_time"> 03:36 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/hong-kong-fire.html">Hundreds Trapped by Fire at World Trade Center in Hong Kong</a> NYT: The blaze at the World Trade Center in Causeway Bay injured at least 13 people, including one who was semiconscious, the police said. 
+ <p class="updated_time"> 03:34 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59647069?at_medium=RSS&at_campaign=KARANGA">Tesla Model 3: Paris' largest taxi firm suspends cars after fatal crash</a> BBC: One person died and 20 were hurt after a cabbie lost control of their Tesla Model 3 last weekend. 
  <p class="updated_time"> 03:26 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59664076?at_medium=RSS&at_campaign=KARANGA">German raids on Covid extremists over Saxony leader death plot</a> BBC: Far-right anti-vaccination activists are suspected of plotting to kill Saxony leader Michael Kretschmer. 
  <p class="updated_time"> 03:06 AM CT, Dec. 15 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59476869?at_medium=RSS&at_campaign=KARANGA">James Webb: A $10bn machine in search of the end of darkness</a> BBC: The biggest space telescope ever built is ready to show us the first stars to light up the cosmos. 
  <p class="updated_time"> 06:35 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59576108?at_medium=RSS&at_campaign=KARANGA">China: The death of a man bullied for being 'effeminate'</a> BBC: A young man's death sparks discussions on gender norms, even as the state targets "sissy men". 
- <p class="updated_time"> 06:33 PM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59647069?at_medium=RSS&at_campaign=KARANGA">Paris' largest taxi firm suspends Tesla Model 3 cars after fatal crash</a> BBC: One person died and 20 were injured after a cab driver lost control of their car over the weekend. 
  <p class="updated_time"> 06:12 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59646562?at_medium=RSS&at_campaign=KARANGA">Southern right whales: Tracking unexpected Southern Ocean migrations</a> BBC: New Zealand scientists have used satellite tags to follow whales around the Southern Ocean. 
  <p class="updated_time"> 06:07 PM CT, Dec. 14 </p> 
