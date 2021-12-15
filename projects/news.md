@@ -7,18 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:28 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Cuts Short Asia Trip After Journalist on His Plane Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the U. S. earlier than planned. 
+ <p class="updated_time"> 07:25 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/gop-governors-vaccine-pentagon.html">5 Republican Governors Seek Vaccine Exemptions for National Guard Troops</a> NYT: The move comes as the Pentagon released a new order this week saying that National Guard members who do not get vaccinated would receive a general order of reprimand, essentially ending their careers. 
+ <p class="updated_time"> 07:24 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html">Putin and Xi Hold Video Summit</a> NYT: President Vladimir V. Putin and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West but have not yet declared a formal alliance. 
+ <p class="updated_time"> 07:13 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59665825?at_medium=RSS&at_campaign=KARANGA">Jacob Zuma: South African court orders ex-president back to jail</a> BBC: Jacob Zuma was granted medical parole after being sentenced to serve 15 months in jail. 
+ <p class="updated_time"> 07:03 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/india-sex-workers-benefits.html">India's Supreme Court Mandates Benefits for Sex Workers</a> NYT: Officials must enter them into databases for voting and benefits, the judges said, after they suffered from the effects of Covid-19 lockdowns. 
  <p class="updated_time"> 06:50 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/omicron-hong-kong-study.html">Two Doses of China's Sinovac Inadequate Against Omicron, Hong Kong Study Suggests</a> NYT: The research suggests that the Chinese vaccine had little effect against Omicron and that the efficacy of the Pfizer-BioNTech vaccine seemed to wane. 
  <p class="updated_time"> 06:40 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/africa/jacob-zuma-prison-south-africa.html">Jacob Zuma Must Return to Prison, South Africa Judge Rules</a> NYT: The former president had been granted medical parole two months into a 15-month prison sentence on contempt charges linked to a corruption inquiry. 
  <p class="updated_time"> 06:39 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59667937?at_medium=RSS&at_campaign=KARANGA">German court jails hitman for Berlin murder on Russia's orders</a> BBC: A court finds Vadim Krasikov guilty of an ex-Chechen rebel's murder, which it says Russia ordered. 
- <p class="updated_time"> 06:17 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59665825?at_medium=RSS&at_campaign=KARANGA">Jacob Zuma: South African court orders ex-president back to jail</a> BBC: Jacob Zuma was granted medical parole after being sentenced to serve 15 months in jail. 
  <p class="updated_time"> 05:59 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat Carrying Indonesian Migrants Sinks Near Malaysia, Killing at Least 11</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving 25 others missing, officials said. 
- <p class="updated_time"> 05:53 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html">Putin and Xi Hold Video Summit</a> NYT: President Vladimir V. Putin and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West but have not yet declared a formal alliance. 
  <p class="updated_time"> 05:51 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-russia-berlin-murder.html">Russian Is Convicted in Murder of Chechen Man in a Berlin Park</a> NYT: The head judge in the case said the 2019 killing in broad daylight had been “meticulously prepared.” 
  <p class="updated_time"> 05:06 AM CT, Dec. 15 </p> 
@@ -101,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/arts/music/vicente-fernandez-influence.html">Vicente Fernández, the King of Machos and Heartbreak</a> NYT: The singer’s brand of machismo may have frayed, but for many, he was the ideal of what it means to be hard-working, hard-loving Mexican man. 
  <p class="updated_time"> 02:34 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/european-union-schengen-migrants-borders.html">E.U. Proposes Changes That Would Chip Away at Borderless Model</a> NYT: The plan would institutionalize internal border controls to respond to emergencies, suspending some protections for asylum seekers. 
- <p class="updated_time"> 02:19 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 02:11 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/health/coronavirus-omicron-next-pandemic.html">Omicron Is a Dress Rehearsal for the Next Pandemic</a> NYT: America’s response to the variant highlights both how much progress we have made over the past two years — and how much work remains. 
  <p class="updated_time"> 01:57 PM CT, Dec. 14 </p> 
@@ -127,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/14/1063947940/vaccine-protection-vs-omicron-infection-may-drop-to-30-but-does-cut-severe-disea">Vaccine protection vs. omicron infection may drop to 30% but does cut severe disease</a> NPR: Data from 78,000 South Africans with COVID show the Pfizer vaccine is far less effective in preventing infection by the omicron variant. But there is still significant protection from severe illness. 
  <p class="updated_time"> 06:24 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064018450/tensions-over-ukraine-come-as-relations-between-russia-and-nato-are-at-an-all-ti">Tensions over Ukraine come as relations between Russia and NATO are at an all-time low</a> NPR: Russian President Vladimir Putin once floated the prospect of his country joining NATO. 
- <p class="updated_time"> 05:15 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/business/china-olympics-peng-shuai-samaranch.html">China Turns to I.O.C. as Peng Shuai Scandal Lingers</a> NYT: The International Olympic Committee’s professed neutrality has provided coverage for Beijing, which delivers big audiences and funding in exchange. 
  <p class="updated_time"> 04:45 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/a-second-omicron-case-in-china-raises-the-prospect-of-stricter-controls.html">A second Omicron case in China raises the prospect of stricter controls.</a> NYT: Though both Omicron cases were quarantined upon arrival, a small outbreak in a building where one man was quarantining highlights how difficult it may be to control the new variant. 
  <p class="updated_time"> 04:00 AM CT, Dec. 14 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/asia/india-eggs-hindu-nationalism.html">India Cities Ban Eggs, Drawing a Backlash</a> NYT: Food-cart rules spurred by conservative beliefs draw a backlash, showcasing the tensions around the country’s rising Hindu nationalist movement. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/travel/mount-etna-olive-oil.html">Cultivating Olives on the Slopes of Mount Etna</a> NYT: For millenniums, farmers and vintners in northeastern Sicily have benefited from the area’s mineral-rich soil, a result of volcanic eruptions. 
- <p class="updated_time"> 12:42 PM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
 
 
 </details>
@@ -204,6 +204,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:35 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/15/house-is-home-for-the-holidays-senate-sticks-around-495473">House is home for the holidays, Senate sticks around</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:28 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Cuts Short Asia Trip After Journalist on His Plane Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the U. S. earlier than planned. 
+ <p class="updated_time"> 07:25 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/gop-governors-vaccine-pentagon.html">5 Republican Governors Seek Vaccine Exemptions for National Guard Troops</a> NYT: The move comes as the Pentagon released a new order this week saying that National Guard members who do not get vaccinated would receive a general order of reprimand, essentially ending their careers. 
+ <p class="updated_time"> 07:22 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/black-farmers-debt-relief-disparities/index.html">In a cash flow business, White farmers have the upper hand</a> CNN: Texas cattle rancher Deydra Steans quit her teaching job three years ago to help save her family's farming operations. 
+ <p class="updated_time"> 07:14 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/blinken-asia-trip-covid/index.html">Blinken cuts overseas trip short due to reporter testing positive for Covid-19</a> CNN: Secretary of State Antony Blinken is cutting his overseas trip to Southeast Asia short after a member of the press traveling with the top US diplomat tested positive for Covid-19 Wednesday, according to the US State Department. 
  <p class="updated_time"> 06:29 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/trump-irs-disclosure-tax/index.html">Trump tells court he'll appeal ruling that would allow House to obtain his tax returns</a> CNN: A federal judge on Tuesday dealt a blow to former President Donald Trump's bid to keep his tax returns from Congress, ruling that the Treasury Department could disclose them to the House committee that requested them more than two years ago. 
  <p class="updated_time"> 06:19 AM CT, Dec. 15 </p> 
@@ -238,14 +246,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/house-islam-omar-perry-boebert-524536">Amid caustic rhetoric, House votes to combat Islamophobia</a> Politico: Rep. Scott Perry accused Rep. Ilhan Omar of connections to terrorism. 
  <p class="updated_time"> 11:35 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/15/1064114046/congress-votes-to-raise-the-debt-ceiling-punting-the-next-fight-to-2023">Congress votes to raise the debt ceiling, punting the next fight to 2023</a> NPR: Congress approved a measure to increase the debt limit by $2.5 trillion, shifting the deadline for default until after the 2022 midterm elections. 
- <p class="updated_time"> 11:29 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/senate-votes-debt-limit-congress-deadline/index.html">Congress votes to increase debt limit by $2.5 trillion extending into 2023</a> CNN: The Senate is on track to vote on Tuesday to raise the national debt limit as lawmakers race to avert a catastrophic default ahead of a critical mid-week deadline. 
  <p class="updated_time"> 11:21 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/mark-meadows-january-6-committee-donald-trump/index.html">Meadows contempt vote shows growing power of January 6 committee </a> CNN: The House of Representatives staked out a dramatic new defense of democracy by citing Mark Meadows for criminal contempt over his refusal to testify about Donald Trump's coup attempt on January 6. 
  <p class="updated_time"> 11:05 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/trump-organization-investigation-grand-jury-donald-bender/index.html">Trump accountant has testified before NY grand jury in criminal investigation, sources say</a> CNN: A key accountant to Donald Trump appeared before a Manhattan grand jury investigating the former President's business practices earlier this year, two people familiar with the matter confirmed to CNN on Tuesday. 
- <p class="updated_time"> 10:48 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/ilhan-omar-boebert-muslim-islamophobia/index.html">House passes Ilhan Omar's legislation to combat Islamophobia</a> CNN: The House will vote Tuesday on Democratic Rep. Ilhan Omar's legislation to create a special envoy to combat Islamophobia, a week after progressives introduced a separate resolution to strip Republican Rep. Lauren Boebert of her committee assignments following her anti-Muslim comments calling the Minnesota Democrat a terrorist. 
  <p class="updated_time"> 10:41 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/ilhan-omar-house-debate-islamophobia.html">Muslim Lawmaker Comes Under Fire in House Debate on ‘Islamophobia’</a> NYT: A conservative Republican accused Ilhan Omar, the sponsor of a House bill to combat anti-Muslim bias, of terrorist sympathies. 
  <p class="updated_time"> 10:40 PM CT, Dec. 14 </p> 
@@ -378,14 +382,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063955835/rep-liz-cheney-read-text-messages-she-said-mark-meadows-got-during-the-jan-6-sie">Rep. Liz Cheney read text messages she said Mark Meadows got during the Jan. 6 siege</a> NPR: In the messages, Donald Trump Jr. and Fox News hosts Laura Ingraham and Sean Hannity urge Meadows to get then-President Donald Trump to tell his supporters to leave the Capitol. 
  <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/hes-got-to-condemn-this-shit-panel-releases-urgent-jan-6-texts-from-trump-jr-lawmakers-524188">‘He’s got to condemn this …’: Panel releases urgent Jan. 6 texts from Donald Trump Jr., lawmakers and Fox hosts</a> Politico: House investigators held Mark Meadows in criminal contempt after releasing a trove of messages aimed at getting President Trump to take stronger action amid the Capitol riot. 
- <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/trump-subpoena-financial-records.html">Lawyers Clash Again Over Subpoena for Trump’s Financial Records</a> NYT: The long-running case dates back to an early 2019 House Oversight Committee demand to see years of the then-president’s financial data. 
  <p class="updated_time"> 05:59 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063767973/saule-omarova-gets-candid-banks-sank-her-nomination-to-head-occ">Saule Omarova gets candid: Banks sank her nomination to become a key regulator</a> NPR: Days after withdrawing her nomination to become a key banking regulator, Omarova blames banks for distorting her research and creating an ugly environment. 
  <p class="updated_time"> 05:54 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/biden-manchin-build-back-better/index.html">Biden and Manchin spoke last week as he tries to secure senator's vote on Build Back Better bill</a> CNN: President Joe Biden spoke with Sen. Joe Manchin late last week, according to a source familiar with the conversation, as the President works to secure the West Virginia Democrat's vote for his expansive economic and climate bill he wants passed by the end of the year.  
- <p class="updated_time"> 05:49 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/manchin-social-policy-bill.html">Manchin Casts Doubt on Quick Vote on Biden’s Social Policy Bill</a> NYT: The West Virginia Democrat said he still harbored serious concerns about the $2.2 trillion measure, potentially frustrating his party’s push to win Senate approval before Christmas. 
  <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/defense-claims-politics-fortenberry-indictment-524164">Defense claims politics behind indictment of Rep. Jeff Fortenberry</a> Politico: A federal judge in Los Angeles heard arguments on the Nebraska Republican’s bid to toss out the criminal false-statement case. 
  <p class="updated_time"> 01:48 PM CT, Dec. 13 </p> 
@@ -444,8 +444,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: His departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where “anybody who says they’re not interested is lying.” 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/schumer-mcconnell-debt-deal-523963">How Schumer and McConnell got the debt deal done</a> Politico: The agreement to raise the debt ceiling between the two Senate leaders might mark a high point for their relationship. Don't expect it to last. 
- <p class="updated_time"> 03:23 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
  <p class="updated_time"> 07:32 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/08/congress-waves-its-procedural-magic-wand-495371">Congress waves its procedural magic wand</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
