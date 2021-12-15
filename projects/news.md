@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:44 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/travel/cruise-ships-coronavirus.html">On Cruise Ships, Omicron Puts Safety Protocols to the Test</a> NYT: Many lines are adjusting their masking, testing and vaccine rules, while criticism is mounting about the lack of transparency in reporting positive cases to passengers and crew members. 
+ <p class="updated_time"> 03:41 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/americas/canada-travel-warning.html">The Canadian government warns residents to avoid nonessential travel outside the country.</a> NYT: In response to the spread of Omicron, Canada is also ramping up distribution of booster doses and rapid antigen tests. 
  <p class="updated_time"> 03:41 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064614638/could-a-salary-cap-help-european-soccer-become-less-predictable">Could a salary cap help European soccer become less predictable?</a> NPR: After analyzing 26 years worth of European soccer matches, scientists have determined that the games have become more predictable over time — and the home field advantage has vanished. 
  <p class="updated_time"> 03:32 PM CT, Dec. 15 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/iran-nuclear-cameras-iaea.html">Iran Agrees to Replace Cameras at Nuclear Site but Blocks Images</a> NYT: Iran’s failure to allow the U.N. nuclear agency to fully monitor its nuclear program is hindering talks in Vienna on restoring the 2015 nuclear deal. 
  <p class="updated_time"> 11:40 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59667937?at_medium=RSS&at_campaign=KARANGA">Germany expels Russian diplomats after hitman sentenced in Berlin</a> BBC: Germany throws out two diplomats after Vadim Krasikov is jailed for murdering an ex-Chechen rebel. 
- <p class="updated_time"> 11:35 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/travel/cruise-ships-coronavirus.html">On Cruise Ships, Omicron Puts Safety Protocols to the Test</a> NYT: Many lines are adjusting their masking, testing and vaccine rules, while criticism is mounting about the lack of transparency in reporting positive cases to passengers and crew members. 
  <p class="updated_time"> 11:25 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-michael-kretschmer-plot-saxony-vaccines.html">Vaccine Opponents in Germany Investigated Over Plot to Kill State Governor</a> NYT: The authorities in Dresden raided the homes of a group of people who they said were targeting the leader of the state of Saxony. A number of weapons were seized. 
  <p class="updated_time"> 10:51 AM CT, Dec. 15 </p> 
@@ -49,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-russia-berlin-murder.html">Russian Is Convicted in Murder of Chechen Man in a Berlin Park</a> NYT: A German court ruled that the Russian state had orchestrated the attack, which strained ties between Berlin and Moscow. 
  <p class="updated_time"> 10:44 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/frenchwoman-dead-syria-detention-camp.html">France Refused to Repatriate a Sick Woman Who Joined the Islamic State. She Died.</a> NYT: A Frenchwoman died of health complications in a detention camp in Syria on Tuesday, her lawyer said. She had repeatedly asked to be repatriated to treat severe diabetes. 
+ <p class="updated_time"> 10:42 AM CT, Dec. 15 </p> 
+ <a href="https://www.wsj.com/articles/omicron-drives-record-daily-covid-19-case-count-in-u-k-11639595473">Omicron Drives Record Daily Covid-19 Case Count in U.K.</a> WSJ: The Omicron variant’s rapid growth in the U.K. suggests it can outcompete the Delta variant, currently dominant in the U.S. and much of Europe. 
  <p class="updated_time"> 10:30 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/hong-kong-fire.html">Hundreds Trapped by Fire at World Trade Center in Hong Kong</a> NYT: The blaze at the World Trade Center in Causeway Bay injured at least 13 people, including one who was semiconscious, the police said. 
  <p class="updated_time"> 10:17 AM CT, Dec. 15 </p> 
@@ -69,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/15/1064432010/omicron-spread-variant-coronavirus">Omicron spreads faster than any other variant, WHO says. It's now in 77 countries</a> NPR: "Omicron is spreading at a rate we have not seen with any previous variant," says WHO Director-General Tedros Adhanom Ghebreyesus. 
  <p class="updated_time"> 08:21 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/india-sex-workers-benefits.html">India's Supreme Court Mandates Benefits for Sex Workers</a> NYT: Officials must enter them into databases for voting and benefits, the judges said, after they suffered from the effects of Covid-19 lockdowns. 
- <p class="updated_time"> 08:11 AM CT, Dec. 15 </p> 
- <a href="https://www.wsj.com/articles/omicron-drives-record-daily-covid-19-case-count-in-u-k-11639595473">Omicron Drives Record Daily Covid-19 Case Count in U.K.</a> WSJ: The Omicron variant’s rapid growth in the U.K. suggests it can outcompete the Delta variant, currently dominant in the U.S. and much of Europe. 
  <p class="updated_time"> 07:54 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59637586?at_medium=RSS&at_campaign=KARANGA">Inside an Afghan hospital on the brink</a> BBC: The BBC reports from a hospital in remote Ghor province which is struggling to cope. 
  <p class="updated_time"> 07:54 AM CT, Dec. 15 </p> 
@@ -198,6 +200,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:01 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/health-care-spending-increase-pandemic-524793">Health spending growth more than doubled in first year of pandemic</a> Politico: Nearly the entire increase came from the burst of federal spending as the government mobilized to contain the spread of the virus. 
+ <p class="updated_time"> 03:41 PM CT, Dec. 15 </p> 
+ <a href="https://www.npr.org/2021/12/15/1064614631/biden-promised-government-support-after-visiting-areas-hit-by-tornadoes-in-kentu">Biden promised government support after visiting areas hit by tornadoes in Kentucky</a> NPR: President Biden toured areas of western Kentucky damaged by a series of powerful tornadoes on Dec. 10 and 11. The president promised the federal government would be there to help people. 
+ <p class="updated_time"> 03:40 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/build-back-better-bill-inflation/index.html">What Biden's Build Back Better bill could mean for inflation</a> CNN: Soaring inflation has become a political problem for President Joe Biden's Build Back Better bill, with critics pointing to the rise in prices as a reason why it's the wrong time for Congress to authorize some $1.75 trillion in new spending. 
  <p class="updated_time"> 03:36 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-kentucky-tornado.html">Biden Visits Kentucky to See Storm Damage</a> NYT: President Biden is visiting the state in an effort to offer comfort to victims and highlight the federal government’s response to devastating tornadoes. 
  <p class="updated_time"> 03:33 PM CT, Dec. 15 </p> 
@@ -323,8 +329,6 @@ permalink: /projects/news/
  <p class="updated_time"> 05:45 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/trump-tax-returns-legal-524235">Judge scraps Trump lawsuit to shield tax returns from Congress</a> Politico: But the judge stayed the impact of his ruling for 14 days. 
  <p class="updated_time"> 05:44 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/january-6-trump-charges-what-matters/index.html">January 6 committee seeks accountability for 2020. Trump backers seek control of 2024</a> CNN: Fox News personalities and Donald Trump Jr. may downplay the January 6 insurrection now, but as it was happening, they were frantically sending text messages to former White House chief of staff Mark Meadows. 
- <p class="updated_time"> 05:44 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/health/fda-commissioner-califf-senate.html">Senators Question Califf, the F.D.A. Nominee, on Opioid Crisis and Pandemic Response</a> NYT: A Senate panel hearing on Tuesday signaled that Dr. Robert Califf, who briefly led the agency during the Obama administration, had some bipartisan support. 
  <p class="updated_time"> 05:40 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/califf-fda-gop-524226">Biden’s FDA pick on track for confirmation with GOP help</a> Politico: A confirmation vote in January would give the agency a permanent political leader for the first time during the Biden presidency. 
@@ -380,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064018682/meadows-held-in-contempt-jan-6-panel-sends-a-criminal-referral-to-the-house">Meadows held in contempt, Jan. 6 panel sends a criminal referral to the House</a> NPR: A House panel investigating the Jan. 6 attack on the U.S. Capitol has voted to hold former Trump White House Chief of Staff Mark Meadows in contempt, revealing new details in his text messages. 
  <p class="updated_time"> 04:10 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064011237/fossil-fuel-subsidies-are-proving-harder-to-end-than-first-thought">Fossil fuel subsidies are proving harder to end than first thought</a> NPR: President Biden campaigned on ending oil and gas industry subsidies. But getting rid of them requires passing legislation. A bill eliminating the overseas drilling subsidy is stalled in Congress. 
- <p class="updated_time"> 04:10 AM CT, Dec. 14 </p> 
- <a href="https://www.npr.org/2021/12/14/1064011209/morning-news-brief">News brief: Mark Meadows, tornadoes' aftermath, gymnastics abuse settlement</a> NPR: House panel votes to hold Mark Meadows in contempt. Searches continue for the missing after Kentucky's tornadoes. Abuse survivors reach a settlement with USA Gymnastics and Olympic committee. 
  <p class="updated_time"> 10:25 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/remain-in-mexico-appeals-court/index.html">Appeals court rules against Biden admin's termination of 'remain in Mexico' policy</a> CNN: The 5th US Circuit Court of Appeals on Monday night ruled against the Biden administration's bid to terminate the Trump-era "remain in Mexico" policy, which requires non-Mexican migrants to stay in Mexico until their US immigration court dates. 
  <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
