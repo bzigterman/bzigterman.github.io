@@ -191,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/health/merck-covid-pill-pregnancy-risk.html">Merck’s Covid Pill Might Pose Risks for Pregnant Women</a> NYT: Some laboratory studies suggest that molnupiravir can insert errors in DNA, which could in theory harm a developing fetus, sperm cells or children. 
  <p class="updated_time"> 08:16 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.html">South Korean City to Test Facial Recognition to Track the Coronavirus</a> NYT: Officials hope the system can help reveal the movements of people who test positive and their interactions with others, making contact tracing easier. 
- <p class="updated_time"> 04:04 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/asia/hongkong-jimmy-lai-tiananmen.html">Hong Kong Court Sentences Jimmy Lai to Prison Over Tiananmen Vigil</a> NYT: The former media mogul and other prominent pro-democracy activists were previously convicted of inciting others to take part in an unauthorized assembly. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/india-eggs-hindu-nationalism.html">India Cities Ban Eggs, Drawing a Backlash</a> NYT: Food-cart rules spurred by conservative beliefs draw a backlash, showcasing the tensions around the country’s rising Hindu nationalist movement. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
@@ -204,8 +202,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:26 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/biden-administration-jfk-documents/index.html">Biden admin releases previously classified JFK assassination documents</a> CNN: The Biden administration faces a Wednesday deadline to publicly release a tranche of secret documents that some historians -- and conspiracy theorists -- hope might shed light on the 1963 assassination of President John F. Kennedy. 
+ <p class="updated_time"> 12:24 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/biden-kentucky-visit/index.html">Biden gets on-the-ground look at devastation from Kentucky tornado</a> CNN: President Joe Biden will travel to Kentucky on Wednesday in the wake of deadly tornadoes and severe storms that devastated the area, where he'll survey storm damage, meet with victims and deliver remarks. 
+ <p class="updated_time"> 12:21 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
  <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
+ <p class="updated_time"> 12:13 PM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/news/2021/12/15/abortion-pill-rules-reproductive-rights-524680">Looming abortion pill rules could recast reproductive rights battle</a> Politico: Regulators are due to decide Thursday whether to uphold, revise or scrap longstanding restrictions on the abortion drug mifepristone 
  <p class="updated_time"> 11:56 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/5th-circuit-biden-health-care-worker-mandate/index.html">Health care worker vaccine mandate can be enforced in half the country, appeals court says</a> CNN: A federal appeals court gave the Biden administration a partial win in the federal government's efforts to require Covid-19 vaccines for certain health care workers. 
  <p class="updated_time"> 11:46 AM CT, Dec. 15 </p> 
@@ -214,16 +220,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/navy-kicks-out-sailors-vaccine-524693">Navy starts kicking out sailors for refusing Covid vaccine as Republicans rage over mandate</a> Politico: The move comes as the Air Force begins discharging service members for not taking the shot. 
  <p class="updated_time"> 11:25 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/senate-vote-ndaa/index.html">Senate passes annual defense bill authorizing $770 billion in Pentagon funding</a> CNN: The National Defense Authorization Act, the annual must-pass defense bill that authorizes $770 billion in funding for the Defense Department, is set to pass the Senate on Wednesday with a bipartisan vote. 
- <p class="updated_time"> 11:19 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
- <p class="updated_time"> 11:18 AM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/biden-administration-jfk-documents/index.html">Biden admin releases previously classified JFK assassination documents</a> CNN: The Biden administration faces a Wednesday deadline to publicly release a tranche of secret documents that some historians -- and conspiracy theorists -- hope might shed light on the 1963 assassination of President John F. Kennedy. 
  <p class="updated_time"> 11:10 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/cnn-poll-economy/index.html">CNN Poll: Most say government is doing too little to fix inflation and the supply chain</a> CNN: Americans' impressions of the nation's economy remain gloomy and broad majorities think the federal government has done too little to try to solve problems with the nation's supply chain and rising inflation, according to a new CNN Poll conducted by SSRS. 
  <p class="updated_time"> 11:07 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/jill-biden-waukesha/index.html">Jill Biden to visit victims of Waukesha Christmas parade tragedy and push Covid-19 vaccinations</a> CNN: First lady Jill Biden is traveling to Wisconsin on Wednesday in part to comfort victims and families of the November Christmas parade tragedy in Waukesha. 
- <p class="updated_time"> 11:05 AM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/biden-kentucky-visit/index.html">Biden is set to visit Kentucky following deadly tornadoes and storms</a> CNN: President Joe Biden will travel to Kentucky on Wednesday in the wake of deadly tornadoes and severe storms that devastated the area, where he'll survey storm damage, meet with victims and deliver remarks. 
  <p class="updated_time"> 10:43 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-stimulus-bill-republicans.html">Republicans Who Assailed Biden’s Stimulus Bill Are Embracing the Money</a> NYT: Republican governors who criticized the $1.9 trillion Covid relief bill as wasteful are championing state projects funded by the money. 
  <p class="updated_time"> 10:38 AM CT, Dec. 15 </p> 
@@ -269,7 +269,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/placebo-effect-clinical-care.html">Placebos Are Often Prescribed By Doctors. Are The Actually Effective?</a> NYT: An Australian researcher argues that the medical community has enshrined placebos as “mysterious and highly effective” in clinical care on the basis of flawed research. 
  <p class="updated_time"> 11:47 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Congress Approves $2.5 Trillion Debt Limit Increase, Sending It to Biden</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Congress Passes $2.5 Trillion Debt Ceiling Increase</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
  <p class="updated_time"> 11:43 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/omicron-federal-funds.html">Biden’s administration may need more funds to fight Omicron.</a> NYT: With the pandemic heading into its third year, much of the money that Congress has allocated for coronavirus response has been spent. 
  <p class="updated_time"> 11:41 PM CT, Dec. 14 </p> 
@@ -342,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/qanon-follower-sentence-pelosi-death-threats-524209">QAnon follower gets 28-month sentence for death threats to Pelosi</a> Politico: Judge says continuing election-fraud rhetoric from Republican politicians makes defendant an ongoing threat. 
  <p class="updated_time"> 01:50 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064144431/d-c-attorney-general-karl-racine-sue-proud-boys-oath-keepers-jan-6-capitol">D.C.'s attorney general is suing the Proud Boys and Oath Keepers over Capitol attack</a> NPR: The District of Columbia is seeking damages from the two far-right groups for allegedly conspiring to terrorize the city with the violent attack on Jan. 6. 
- <p class="updated_time"> 01:48 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/fdic-chair-democrats-524212">Trump-appointed FDIC chair blocks Democratic bid to undercut her</a> Politico: At issue is whether a majority of the board at the agency can put items up for a vote without the consent of the chair. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
