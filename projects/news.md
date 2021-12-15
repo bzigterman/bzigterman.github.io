@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:06 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59664076?at_medium=RSS&at_campaign=KARANGA">German raids on Covid extremists over Saxony leader death plot</a> BBC: Far-right anti-vaccination activists are suspected of plotting to kill Saxony leader Michael Kretschmer. 
+ <p class="updated_time"> 05:05 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/north-korea-kpop-executions.html">North Korea Executes People for Watching K-Pop, Rights Group Says</a> NYT: At least seven people have been put to death in the past decade for watching or distributing K-pop videos, as the North cracks down on what its leader calls a “vicious cancer.” 
  <p class="updated_time"> 04:20 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html">Putin and Xi Hold Video Summit</a> NYT: President Vladimir V. Putin and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West over Ukraine, Taiwan and other issues. 
  <p class="updated_time"> 04:09 AM CT, Dec. 15 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/asia/hong-kong-fire.html">Hundreds Trapped by Fire at World Trade Center in Hong Kong</a> NYT: The blaze at the World Trade Center in Causeway Bay injured at least 13 people, including one who was semiconscious, the police said. 
  <p class="updated_time"> 03:34 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59647069?at_medium=RSS&at_campaign=KARANGA">Tesla Model 3: Paris' largest taxi firm suspends cars after fatal crash</a> BBC: One person died and 20 were hurt after a cabbie lost control of their Tesla Model 3 last weekend. 
- <p class="updated_time"> 03:26 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59664076?at_medium=RSS&at_campaign=KARANGA">German raids on Covid extremists over Saxony leader death plot</a> BBC: Far-right anti-vaccination activists are suspected of plotting to kill Saxony leader Michael Kretschmer. 
  <p class="updated_time"> 02:57 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat Carrying Indonesian Migrants Sinks Near Malaysia, Killing at Least 10</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving 29 others missing, officials said. 
  <p class="updated_time"> 02:39 AM CT, Dec. 15 </p> 
@@ -35,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/europe/greece-covid-school-abduction.html">Three Jailed in Greece After a Principal was Handcuffed Over Virus Measures</a> NYT: Police said a group of people handcuffed the principal on Friday and drove him to a local precinct, suggesting that officers arrest him for enforcing Covid measures. 
  <p class="updated_time"> 11:36 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-59662421?at_medium=RSS&at_campaign=KARANGA">South Korean dairy giant apologises for controversial advert</a> BBC: The company also faced a backlash over the advert's similarity to "molka", or secret filming. 
+ <p class="updated_time"> 11:30 PM CT, Dec. 14 </p> 
+ <a href="https://www.wsj.com/articles/after-taliban-return-afghan-women-face-old-pressures-from-fathers-brothers-11639564204">Afghan Women Face Old Pressures From Fathers, Brothers</a> WSJ: With the return to Taliban rule, family dynamics are changing as some men forcefully assert their power over wives, daughters and sisters. “Nothing scares me more than my father. Not even the Taliban,” says one activist. 
  <p class="updated_time"> 10:56 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59661306?at_medium=RSS&at_campaign=KARANGA">Mark Meadows: Trump ex-chief of staff in contempt of Congress</a> BBC: The Democrat-led House of Representatives rebuked Mark Meadows for defying a congressional panel. 
  <p class="updated_time"> 10:28 PM CT, Dec. 14 </p> 
@@ -63,12 +67,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59645307?at_medium=RSS&at_campaign=KARANGA">Covid-19: US surpasses 800,000 pandemic deaths</a> BBC: More than a quarter of lives lost in the pandemic came after all US adults were eligible for a vaccine. 
  <p class="updated_time"> 06:07 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Gasoline Truck in Haiti Explodes, Killing More Than 60</a> NYT: Scores more were injured in the blast, the latest tragedy to hit a country that has been rocked by political violence, natural disasters, poverty and hunger. 
+ <p class="updated_time"> 05:50 PM CT, Dec. 14 </p> 
+ <a href="https://www.wsj.com/articles/house-tackles-ban-on-imports-from-chinas-xinjiang-region-11639524574">House Votes to Ban Imports From China's Xinjiang on Labor Concern</a> WSJ: A bipartisan agreement was reached with the Senate on the language of the Uyghur Forced Labor Prevention Act. 
  <p class="updated_time"> 05:30 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-covid-restrictions.html">Conservatives Abandon Johnson Over New Covid Rules</a> NYT: A record number of Prime Minister Boris Johnson’s fellow party members voted against his plan for Covid certificates. But the plan passed with the help of the opposition. 
  <p class="updated_time"> 04:28 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/belarus-opposition-sergei-tikhanovsky.html">Belarus Opposition Leader Is Sentenced to 18 Years in Prison</a> NYT: The activist Sergei Tikhanovsky planned to challenge the country’s authoritarian leader, Aleksandr G. Lukashenko, in a presidential election last year. He was arrested before the vote and his wife stepped in. 
- <p class="updated_time"> 04:28 PM CT, Dec. 14 </p> 
- <a href="https://www.wsj.com/articles/gas-truck-blast-in-haiti-kills-some-40-in-latest-disaster-for-nation-11639490464">Haiti Gas-Truck Blast Kills at Least 62 People</a> WSJ: The explosion hit the hemisphere’s poorest nation, which is already contending with the recent assassination of its president, a devastating earthquake and the kidnapping of a group of mostly American missionaries. 
  <p class="updated_time"> 04:27 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59650802?at_medium=RSS&at_campaign=KARANGA">Haiti fuel tanker blast kills dozens in Cap-Haïtien</a> BBC: The victims had been gathering leaking fuel from a vehicle involved in an accident, reports say. 
  <p class="updated_time"> 04:20 PM CT, Dec. 14 </p> 
@@ -101,12 +105,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59659543?at_medium=RSS&at_campaign=KARANGA">Russia told to pay compensation to woman whose hands were cut off</a> BBC: Europe's top human rights court says authorities failed to protect her against domestic violence. 
  <p class="updated_time"> 12:10 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
- <p class="updated_time"> 11:18 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
  <p class="updated_time"> 10:50 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/first-big-omicron-study-finds-two-doses-of-pfizers-vaccine-cuts-hospitalization-risk-by-70-11639495432">Study Finds Two Pfizer Vaccine Doses Offer Less Protection Against Omicron Than Against Delta</a> WSJ: The first large real-world study found that while Omicron reduced vaccine effectiveness against infection to 33% from 80% for Delta, its effect on protection against hospitalization was less marked, falling to 70% from 93%. 
- <p class="updated_time"> 10:49 AM CT, Dec. 14 </p> 
- <a href="https://www.wsj.com/articles/omicron-response-tests-boris-johnsons-pledge-to-keep-u-k-open-11639493134">Vaccine Rules Stir Political Resistance for U.K.'s Johnson</a> WSJ: British Prime Minister Boris Johnson faced pushback over plans to require vaccinations in certain venues to combat the Covid-19 Omicron variant, as dozens of lawmakers from his own Conservative Party voted against the measure. 
  <p class="updated_time"> 10:37 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/tunisia-saied-constitution-election.html">Tunisia’s President Promises Vote on Constitution and Sets Election Date</a> NYT: President Kais Saied’s announcement dispelled some of the uncertainty Tunisians have endured for months since he shunted aside Parliament in what critics called a soft coup. 
  <p class="updated_time"> 10:18 AM CT, Dec. 14 </p> 
@@ -117,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/asia/duterte-philippines-senate.html">Philippines President Rodrigo Duterte Won't Run for Senate</a> NYT: The populist president also promised a peaceful transition of power when his term ends next year. 
  <p class="updated_time"> 09:47 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/asia/india-omicron-fake-test-arrest.html">Four people are arrested in India after a man leaves the country using a fake virus test result.</a> NYT: The man, a 66-year-old South African pharmaceutical executive, fled his quarantine hotel and was later confirmed to have the Omicron variant. 
- <p class="updated_time"> 07:10 AM CT, Dec. 14 </p> 
- <a href="https://www.wsj.com/articles/united-arab-emirates-threatens-to-pull-out-of-23-billion-f-35-drone-deal-with-u-s-11639491997">U.A.E. Threatens to Pull Out of $23 Billion F-35, Drone Deal With U.S.</a> WSJ: The Emirati government told U.S. officials that it intended to halt the deal because Abu Dhabi thought security requirements the U.S. had laid out to safeguard the high-tech weaponry from Chinese espionage were too onerous, and the country’s national sovereignty was in jeopardy. 
  <p class="updated_time"> 06:53 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/14/1063947940/vaccine-protection-vs-omicron-infection-may-drop-to-30-but-does-cut-severe-disea">Vaccine protection vs. omicron infection may drop to 30% but does cut severe disease</a> NPR: Data from 78,000 South Africans with COVID show the Pfizer vaccine is far less effective in preventing infection by the omicron variant. But there is still significant protection from severe illness. 
  <p class="updated_time"> 06:24 AM CT, Dec. 14 </p> 
@@ -197,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/11/world/europe/rome-christmas-tree.html">Less Mange, More Frills: Rome’s New Mayor Bets on His Christmas Tree</a> NYT: The annual Christmas tree in the Italian capital has come under scrutiny ever since a 2017 debacle. Will this year’s pass social media muster? 
  <p class="updated_time"> 12:12 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/europe/eric-zemmour-rally-france.html">Echoes of Trump at Zemmour’s Rally in France </a> NYT: Éric Zemmour, the polarizing far-right polemicist, launched his presidential campaign last week with a frenzied rally that was disrupted by a violent brawl. 
- <p class="updated_time"> 08:42 AM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/11/world/europe/silent-film-ireland-discovery.html">Silent Films Offer Rare Glimpses of Life in 1920s Ireland</a> NYT: Shot by an American ornithologist in the early years of Irish independence, the footage turned up in the archives of the Chicago Academy of Sciences and is being restored. 
 
 
 </details>
