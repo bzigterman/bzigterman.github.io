@@ -16,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:53 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-baker-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
  <p class="updated_time"> 12:42 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59672683?at_medium=RSS&at_campaign=KARANGA">bell hooks; Author and feminist dies aged 69</a> BBC: Her niece confirmed the writer died on Wednesday "surrounded by her family and friends". 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59672683?at_medium=RSS&at_campaign=KARANGA">bell hooks: Author and feminist dies aged 69</a> BBC: Her niece confirmed the writer died on Wednesday "surrounded by her family and friends". 
  <p class="updated_time"> 12:06 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/africa/jacob-zuma-prison-south-africa.html">Jacob Zuma Must Return to Prison, South Africa Judge Rules</a> NYT: The former president had been granted medical parole two months into a 15-month prison sentence on contempt charges linked to a corruption inquiry. 
  <p class="updated_time"> 12:06 PM CT, Dec. 15 </p> 
@@ -202,8 +202,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:25 PM CT, Dec. 15 </p> 
+ <p class="updated_time"> 02:21 PM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/news/2021/12/15/federal-reserve-rate-hikes-economy-524774">Fed clears path for multiple rate hikes for next year</a> Politico: The Fed plans to cease its bond buys entirely by March, rather than its earlier target of June to give itself room to begin raising interest rates as early as the second quarter of next year. 
+ <p class="updated_time"> 01:39 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/business/economy/inflation-fed-fomc-meeting-december-2021.html">Fed Could Raise Rates 3 Times in 2022, Speeds End of Bond-Buying</a> NYT: Federal Reserve officials suggested as many as three interest rate increases in 2022 as the economy heals and inflation persists. 
+ <p class="updated_time"> 01:31 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
  <p class="updated_time"> 01:08 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064478567/inflation-hot-federal-reserve-interest-rates-bond-taper">Inflation is still red hot, and it's forcing the Federal Reserve into a new game plan</a> NPR: The Federal Reserve is opening the door to possible interest rate hikes earlier next year than had been expected, as it wrestles with the highest inflation in nearly four decades. 
  <p class="updated_time"> 01:04 PM CT, Dec. 15 </p> 
@@ -218,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/15/politics/biden-kentucky-visit/index.html">Biden gets on-the-ground look at devastation from Kentucky tornado</a> CNN: President Joe Biden will travel to Kentucky on Wednesday in the wake of deadly tornadoes and severe storms that devastated the area, where he'll survey storm damage, meet with victims and deliver remarks. 
  <p class="updated_time"> 12:23 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/december-child-tax-credit-payment/index.html">December's child tax credit payment will be the last one unless Congress acts</a> CNN: Parents are set to get their last monthly infusion of the expanded child tax credit starting Wednesday -- unless Congress acts to extend it for another year. 
- <p class="updated_time"> 12:21 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
  <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
  <p class="updated_time"> 12:13 PM CT, Dec. 15 </p> 
@@ -312,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/14/politics/build-back-better-problems/index.html">Democrats face mounting obstacles to finishing social safety net bill before Christmas -- and it's not just Manchin</a> CNN: As Democrats race to finish the President's Build Back Better legislation before the Christmas recess and convince a skeptical West Virginia Sen. Joe Manchin, there are other obstacles piling up that could prevent them from meeting their self-imposed deadline. 
  <p class="updated_time"> 05:47 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/senate-races-2022.html">10 Senate Races to Watch in 2022</a> NYT: Democrats have a razor-thin margin that could be upended with the loss of a single seat. 
- <p class="updated_time"> 05:45 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/trump-tax-returns-legal-524235">Judge scraps Trump lawsuit to shield tax returns from Congress</a> Politico: But the judge stayed the impact of his ruling for 14 days. 
  <p class="updated_time"> 05:44 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/january-6-trump-charges-what-matters/index.html">January 6 committee seeks accountability for 2020. Trump backers seek control of 2024</a> CNN: Fox News personalities and Donald Trump Jr. may downplay the January 6 insurrection now, but as it was happening, they were frantically sending text messages to former White House chief of staff Mark Meadows. 
  <p class="updated_time"> 05:44 PM CT, Dec. 14 </p> 
