@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:56 PM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59661306?at_medium=RSS&at_campaign=KARANGA">Mark Meadows: Trump ex-chief of staff in contempt of Congress</a> BBC: The Democrat-led House of Representatives rebuked Mark Meadows for defying a congressional panel. 
+ <p class="updated_time"> 10:50 PM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59662322?at_medium=RSS&at_campaign=KARANGA">Two zebras returned to US farm after months on the lam</a> BBC: Officials had been tracking the pair since they first escaped from a Maryland farm in August. 
  <p class="updated_time"> 09:52 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/business/economy/turkey-inflation-economy-lira.html">How Inflation Affects Turkey's Struggling Economy</a> NYT: Even before the pandemic, Turkey was trying to ward off financial meltdown. The crisis has accelerated as President Recep Tayyip Erdogan has doubled down on his unorthodox policies. 
  <p class="updated_time"> 09:25 PM CT, Dec. 14 </p> 
@@ -31,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59647069?at_medium=RSS&at_campaign=KARANGA">Paris' largest taxi firm suspends Tesla Model 3 cars after fatal crash</a> BBC: One person died and 20 were injured after a cab driver lost control of their car over the weekend. 
  <p class="updated_time"> 06:12 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59646562?at_medium=RSS&at_campaign=KARANGA">Southern right whales: Tracking unexpected Southern Ocean migrations</a> BBC: New Zealand scientists have used satellite tags to follow whales around the Southern Ocean. 
+ <p class="updated_time"> 06:07 PM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59645307?at_medium=RSS&at_campaign=KARANGA">Covid-19: US surpasses 800,000 pandemic deaths</a> BBC: More than a quarter of lives lost in the pandemic came after all US adults were eligible for a vaccine. 
  <p class="updated_time"> 06:07 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Gasoline Truck in Haiti Explodes, Killing More Than 60</a> NYT: Scores more were injured in the blast, the latest tragedy to hit a country that has been rocked by political violence, natural disasters, poverty and hunger. 
  <p class="updated_time"> 05:30 PM CT, Dec. 14 </p> 
@@ -73,14 +79,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59659543?at_medium=RSS&at_campaign=KARANGA">Russia told to pay compensation to woman whose hands were cut off</a> BBC: Europe's top human rights court says authorities failed to protect her against domestic violence. 
  <p class="updated_time"> 12:10 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
- <p class="updated_time"> 12:00 PM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59650239?at_medium=RSS&at_campaign=KARANGA">Channel tragedy: French authorities identify 26 victims</a> BBC: Sixteen Kurdish people, including two friends from Iraq, were among those who perished last month. 
  <p class="updated_time"> 11:52 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59657761?at_medium=RSS&at_campaign=KARANGA">Toronto police release video of 'suspect' in billionaires' 2017 murders</a> BBC: Barry and Honey Sherman were found dead at home four years ago, but police have made no arrests. 
  <p class="updated_time"> 11:18 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
- <p class="updated_time"> 11:04 AM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59645087?at_medium=RSS&at_campaign=KARANGA">Congolese rumba wins Unesco protected status</a> BBC: The music and dance style from the two Congos is a fundamental part of the countries' identities. 
  <p class="updated_time"> 10:50 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/first-big-omicron-study-finds-two-doses-of-pfizers-vaccine-cuts-hospitalization-risk-by-70-11639495432">Study Finds Two Pfizer Vaccine Doses Offer Less Protection Against Omicron Than Against Delta</a> WSJ: The first large real-world study found that while Omicron reduced vaccine effectiveness against infection to 33% from 80% for Delta, its effect on protection against hospitalization was less marked, falling to 70% from 93%. 
  <p class="updated_time"> 10:49 AM CT, Dec. 14 </p> 
@@ -123,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle Into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
  <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/omicron-travel-setbacks.html">How Conflicting Guidance on Travel During the Pandemic Shows Little Progress</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
- <p class="updated_time"> 07:20 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/business-59522532?at_medium=RSS&at_campaign=KARANGA">Miami is banking on cryptocurrency and New York wants in</a> BBC: MiamiCoin and NYCCoin are experiments designed to put these cities on the cryptocurrency map. 
  <p class="updated_time"> 07:19 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59461807?at_medium=RSS&at_campaign=KARANGA">Sex and cancer: 'I was ashamed to ask for help'</a> BBC: Cait didn't know why it hurt to masturbate after her treatment - and didn't know who to ask. 
  <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
@@ -208,8 +208,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:41 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/house-islam-omar-perry-boebert-524536">Amid caustic rhetoric, House votes to combat Islamophobia</a> Politico: Rep. Scott Perry accused Rep. Ilhan Omar of connections to terrorism. 
- <p class="updated_time"> 10:43 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/ilhan-omar-boebert-muslim-islamophobia/index.html">House expected to pass Ilhan Omar's legislation to combat Islamophobia after clash with Boebert</a> CNN: The House will vote Tuesday on Democratic Rep. Ilhan Omar's legislation to create a special envoy to combat Islamophobia, a week after progressives introduced a separate resolution to strip Republican Rep. Lauren Boebert of her committee assignments following her anti-Muslim comments calling the Minnesota Democrat a terrorist. 
+ <p class="updated_time"> 10:48 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/ilhan-omar-boebert-muslim-islamophobia/index.html">House passes Ilhan Omar's legislation to combat Islamophobia</a> CNN: The House will vote Tuesday on Democratic Rep. Ilhan Omar's legislation to create a special envoy to combat Islamophobia, a week after progressives introduced a separate resolution to strip Republican Rep. Lauren Boebert of her committee assignments following her anti-Muslim comments calling the Minnesota Democrat a terrorist. 
  <p class="updated_time"> 10:41 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/ilhan-omar-house-debate-islamophobia.html">Muslim Lawmaker Comes Under Fire in House Debate on ‘Islamophobia’</a> NYT: A conservative Republican accused Ilhan Omar, the sponsor of a House bill to combat anti-Muslim bias, of terrorist sympathies. 
  <p class="updated_time"> 10:40 PM CT, Dec. 14 </p> 
