@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:48 PM CT, Dec. 14 </p> 
+ <p class="updated_time"> 06:07 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Gasoline Truck in Haiti Explodes, Killing More Than 60</a> NYT: Scores more were injured in the blast, the latest tragedy to hit a country that has been rocked by political violence, natural disasters, poverty and hunger. 
  <p class="updated_time"> 05:30 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-covid-restrictions.html">Conservatives Abandon Johnson Over New Covid Rules</a> NYT: A record number of Prime Minister Boris Johnson’s fellow party members voted against his plan for Covid certificates. But the plan passed with the help of the opposition. 
@@ -89,6 +89,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/gas-truck-blast-in-haiti-kills-some-40-in-latest-disaster-for-nation-11639490464">Haiti Gas-Truck Blast Kills at Least 62 People</a> WSJ: The explosion hit the hemisphere’s poorest nation, which is already contending with the recent assassination of its president, a devastating earthquake and the kidnapping of a group of mostly American missionaries. 
  <p class="updated_time"> 09:05 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59649066?at_medium=RSS&at_campaign=KARANGA">Arctic heat record is like Mediterranean, says UN</a> BBC: The highest temperature recorded in the region last year - 38C (100F) - is officially confirmed. 
+ <p class="updated_time"> 07:41 AM CT, Dec. 14 </p> 
+ <a href="https://www.wsj.com/articles/belarus-sentences-husband-of-opposition-leader-to-18-years-in-prison-11639507300">Belarus Sentences Husband of Opposition Leader to 18 Years in Prison</a> WSJ: Sergei Tikhanovsky was arrested before last year’s disputed presidential election, in which he had hoped to compete, and his wife, Svetlana Tikhanovskaya, ran in his place. 
  <p class="updated_time"> 07:10 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/united-arab-emirates-threatens-to-pull-out-of-23-billion-f-35-drone-deal-with-u-s-11639491997">U.A.E. Threatens to Pull Out of $23 Billion F-35, Drone Deal With U.S.</a> WSJ: The Emirati government told U.S. officials that it intended to halt the deal because Abu Dhabi thought security requirements the U.S. had laid out to safeguard the high-tech weaponry from Chinese espionage were too onerous, and the country’s national sovereignty was in jeopardy. 
  <p class="updated_time"> 06:53 AM CT, Dec. 14 </p> 
@@ -211,11 +213,21 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:40 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/garcetti-new-delhi-524273">Eric Garcetti skips past scandal on a glidepath to New Delhi</a> Politico: The Los Angeles mayor had his confirmation hearing on Tuesday. Only one member asked him about the misconduct allegations his top aide is facing. 
+ <a href="https://www.politico.com/news/2021/12/14/garcetti-new-delhi-524273">Eric Garcetti skips past scandal on a glidepath to New Delhi</a> Politico: The Los Angeles mayor had his confirmation hearing Tuesday. Only one member asked him about the misconduct allegations his top aide is facing. 
  <p class="updated_time"> 06:31 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/iran-nuclear-united-nations-524274">U.N. nuclear chief says view of Iran ‘blurred’</a> Politico: Rafael Mariano Grossi said Iran must work with international inspectors. 
+ <p class="updated_time"> 06:09 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/guantanamo-bay-abd-al-rahim-al-nashiri.html">Waterboarded Prisoner Has Drowning Nightmares Two Decades Later, Doctor Testifies</a> NYT: Lawyers called a torture expert in a bid to spare a defendant a nauseating commute from prison to court by having him spend nights at Guantánamo Bay’s court compound. 
+ <p class="updated_time"> 06:04 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-text-messages/index.html">'Need to end this call': Jan. 6 committee reveals new text message to Meadows</a> CNN: The House select committee investigating the January 6 attack on the US Capitol released new text messages obtained from former Trump White House chief of staff Mark Meadows that were sent to him in the days leading up to the insurrection and while the Capitol was under siege. 
  <p class="updated_time"> 06:02 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/democrats-cruz-hawley-biden-ambassadors-524220">Dems launch talks to break Cruz-Hawley blockade of Biden ambassadors</a> Politico: But while the price for one GOP 2024 contender's help is clear, another is less open about what it'll take to ease his holds. 
+ <p class="updated_time"> 06:02 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Senate Passes $2.5 Trillion Debt Limit Increase, Sending It to the House</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
+ <p class="updated_time"> 05:57 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/cuomo-book-return-money/index.html">Ethics commission orders former NY Gov. Andrew Cuomo to give state back earnings from $5.1M pandemic book deal</a> CNN: A New York State public ethics commission has voted to order former Gov. Andrew Cuomo to pay back earnings from the $5.1 million deal he received to write a book about leading the state during the coronavirus pandemic, after the commission previously found that state resources were used in connection with the book's creation. 
+ <p class="updated_time"> 05:47 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/senate-races-2022.html">10 Senate Races to Watch in 2022</a> NYT: Democrats have a razor-thin margin that could be upended with the loss of a single seat. 
  <p class="updated_time"> 05:45 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/trump-tax-returns-legal-524235">Judge scraps Trump lawsuit to shield tax returns from Congress</a> Politico: But the judge stayed the impact of his ruling for 14 days. 
  <p class="updated_time"> 05:43 PM CT, Dec. 14 </p> 
@@ -224,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/14/politics/kristi-noem-south-dakota-daughter-real-estate-license/index.html">Gov. Kristi Noem's daughter given extra chance to obtain real estate license, former state employee testifies</a> CNN: The former state employee who is at the center of the controversy over whether South Dakota Gov. Kristi Noem intervened to help her daughter obtain a real estate appraiser license testified before state lawmakers on Tuesday that Noem's daughter was given an extra chance to correct her work so that her application would not be denied and that the state's process for handling her application was unusual. 
  <p class="updated_time"> 05:40 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/califf-fda-gop-524226">Biden’s FDA pick on track for confirmation with GOP help</a> Politico: A confirmation vote in January would give the agency a permanent political leader for the first time during the Biden presidency. 
- <p class="updated_time"> 05:34 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-text-messages/index.html">'Need to end this call': Jan. 6 committee reveals new text message to Meadows</a> CNN: The House select committee investigating the January 6 attack on the US Capitol released new text messages obtained from former Trump White House chief of staff Mark Meadows that were sent to him in the days leading up to the insurrection and while the Capitol was under siege. 
  <p class="updated_time"> 05:33 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/amtrak-vaccine-mandate.html">Amtrak Drops Its Vaccine Mandate, Avoiding Cuts to Service</a> NYT: The shift in policy means that Amtrak officials no longer anticipate cuts to service next month. 
  <p class="updated_time"> 05:33 PM CT, Dec. 14 </p> 
@@ -254,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/us/politics/omicron-federal-funds.html">Biden’s administration may need more funds to fight Omicron.</a> NYT: With the pandemic heading into its third year, much of the money that Congress has allocated for coronavirus response has been spent. 
  <p class="updated_time"> 04:02 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/business/how-fdic-board-members-are-trying-to-oust-the-chairwoman-a-trump-holdover.html">F.D.I.C. Meeting Is Followed by Scathing Statements</a> NYT: A dispute believed by some experts to be part of an effort by Democrats to unseat the chairwoman of the Federal Deposit Insurance Corporation board, a Trump appointee, spilled into public view last week. 
- <p class="updated_time"> 03:59 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Senate Passes $2.5 Trillion Debt Limit Increase, Sending It to the House</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
  <p class="updated_time"> 03:55 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064221034/house-recommends-criminal-contempt-of-congress-charges-against-mark-meadows">House recommends criminal contempt of Congress charges against Mark Meadows</a> NPR: The House voted to refer former White House chief of staff Mark Meadows on criminal contempt of Congress charges. The Justice Department will now decide whether he could face criminal charges. 
  <p class="updated_time"> 03:51 PM CT, Dec. 14 </p> 
@@ -272,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/qanon-follower-sentence-pelosi-death-threats-524209">QAnon follower gets 28-month sentence for death threats to Pelosi</a> Politico: Judge says continuing election-fraud rhetoric from Republican politicians makes defendant an ongoing threat. 
  <p class="updated_time"> 02:04 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/capitol-pelosi-threat/index.html">Man who threatened to shoot Pelosi sentenced to more than two years in prison</a> CNN: A Georgia man who drove cross-country with an assault rifle and threatened to kill House Speaker Nancy Pelosi was sentenced to 28 months behind bars during in an emotional hearing on Tuesday. 
- <p class="updated_time"> 01:59 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/cuomo-book-return-money/index.html">Ethics commission orders former NY Gov. Andrew Cuomo to give state back earnings from $5.1M pandemic book deal</a> CNN: A New York State public ethics commission has voted to order former Gov. Andrew Cuomo to pay back earnings from the $5.1 million deal he received to write a book about leading the state during the coronavirus pandemic, after the commission previously found that state resources were used in connection with the book's creation. 
  <p class="updated_time"> 01:50 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064144431/d-c-attorney-general-karl-racine-sue-proud-boys-oath-keepers-jan-6-capitol">D.C.'s attorney general is suing the Proud Boys and Oath Keepers over Capitol attack</a> NPR: The District of Columbia is seeking damages from the two far-right groups for allegedly conspiring to terrorize the city with the violent attack on Jan. 6. 
  <p class="updated_time"> 01:48 PM CT, Dec. 14 </p> 
@@ -390,22 +396,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/dems-child-tax-credit-expire-social-bill-524084">As Dems sprint against the clock, child tax credit might slip away</a> Politico: “It’s as important a thing as there is” in the party's social spending bill, as one senator put it. And it's expiring any day now. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-roe-v-wade-precedent.html">With Roe at Risk, Justices Explore a New Way to Question Precedents</a> NYT: A new study traces a trend at the Supreme Court: looking to what the lawyers had argued in assessing whether to follow a precedent. 
- <p class="updated_time"> 08:24 PM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/us/politics/mark-meadows-capitol-attack.html">Mark Meadows Sought to Fight Election Outcome, Jan. 6 Panel Says</a> NYT: The House committee laid out its case for a contempt of Congress charge against Mark Meadows, the chief of staff to former President Donald J. Trump. 
  <p class="updated_time"> 06:35 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/meadows-jan-6-national-guard-trump-524133">Meadows Jan. 5 email indicated Guard on standby to ‘protect pro Trump people,’ investigators say</a> Politico: The context for the message is unclear, but it comes amid scrutiny of the Guard’s slow response to the Jan. 6 violence at the Capitol. 
  <p class="updated_time"> 05:39 PM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/kamala-harris-negative-headlines-media-coverage/index.html">Harris calls out 'ridiculous' press coverage of Paris trip but avoids questions on staff exits</a> CNN: Vice President Kamala Harris blasted press coverage of a personal shopping trip she took during an official visit to France last month as "ridiculous" but avoided questions about recent high-profile staff departures from her office, the San Francisco Chronicle reported Sunday. 
- <p class="updated_time"> 03:48 PM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/us/politics/teachers-union-becky-pringle.html">New Leader Pushes Teachers’ Union to Take On Social Justice Role</a> NYT: Becky Pringle, the country’s top Black labor leader, has plunged the National Education Association into the reckoning unfolding in public schools. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
  <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
  <p class="updated_time"> 10:26 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/de-blasio-vaccine-mandates-new-york-524126">De Blasio defends vaccine mandates, points to effectiveness in NYC</a> Politico: New York’s mayor said business owners in the city would prefer a mandate over shutdowns. 
- <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/fortenberry-indictment-524107">Fortenberry indictment raises questions about the FBI’s tactics</a> Politico: The GOP lawmaker was secretly recorded during a probe of illegal donations from abroad. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
