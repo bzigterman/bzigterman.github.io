@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:50 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-covid-record-cases.html">Britain Breaks Daily Record for New Virus Cases</a> NYT: Officials didn’t specify what share of the new cases might be Omicron, though they said a majority in London were from the variant. 
+ <p class="updated_time"> 01:27 PM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59673150?at_medium=RSS&at_campaign=KARANGA">New UK cases record as experts warn worse to come</a> BBC: Prof Chris Whitty says Omicron is moving at a phenomenal pace, after 78,610 people test positive in a day. 
  <p class="updated_time"> 01:24 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/netherlands-dutch-coalition.html">After Months, a ‘New’ Dutch Coalition With the Same Leader and Parties</a> NYT: Mark Rutte, who has weathered a scandal and criticism for overstaying his welcome, will be prime minister for a fourth term. 
- <p class="updated_time"> 01:16 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-covid-record-cases.html">Britain Breaks Daily Record for New Virus Cases</a> NYT: While the effect on hospitalizations and deaths remains unclear, a health official warned that the explosive growth of cases could deluge the National Health Service. 
  <p class="updated_time"> 01:12 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59674306?at_medium=RSS&at_campaign=KARANGA">Logic's 1-800-273-8255 led to call surge to suicide line, study suggests</a> BBC: Researchers found that the rapper's 1-800-273-8255 increased calls to the helpline it was named after. 
  <p class="updated_time"> 12:53 PM CT, Dec. 15 </p> 
@@ -204,7 +206,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:21 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/federal-reserve-rate-hikes-economy-524774">Fed clears path for multiple rate hikes for next year</a> Politico: The Fed plans to cease its bond buys entirely by March, rather than its earlier target of June to give itself room to begin raising interest rates as early as the second quarter of next year. 
- <p class="updated_time"> 01:39 PM CT, Dec. 15 </p> 
+ <p class="updated_time"> 01:49 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/business/economy/inflation-fed-fomc-meeting-december-2021.html">Fed Could Raise Rates 3 Times in 2022, Speeds End of Bond-Buying</a> NYT: Federal Reserve officials suggested as many as three interest rate increases in 2022 as the economy heals and inflation persists. 
  <p class="updated_time"> 01:31 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
@@ -277,6 +279,8 @@ permalink: /projects/news/
  <p class="updated_time"> 04:06 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064385999/new-york-city-will-allow-legal-non-citizens-to-vote-in-local-elections">New York City will allow 800,000 noncitizens to vote in local elections</a> NPR: NPR's Rachel Martin talks to Ron Hayduk, a professor of political science at San Francisco State University, about New York City allowing noncitizen immigrants to vote in local elections. 
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/voting-rights-king-family.html">King Family and Activists Plan Marches to Spur Action on Voting Rights</a> NYT: Prominent backers of stalled voting rights legislation plan a blitz emphasizing the urgent need to counter new state restrictions. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/placebo-effect-clinical-care.html">Placebos Are Often Prescribed By Doctors. Are The Actually Effective?</a> NYT: An Australian researcher argues that the medical community has enshrined placebos as “mysterious and highly effective” in clinical care on the basis of flawed research. 
  <p class="updated_time"> 11:47 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Congress Passes $2.5 Trillion Debt Ceiling Increase</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
@@ -340,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/14/politics/white-house-scaled-back-holiday-parties/index.html">White House scales back holiday parties due to Covid concerns</a> CNN: The White House will dramatically scale back holiday party festivities this year, due to ongoing Covid-19 concerns, opting instead for smaller open house-style events. 
  <p class="updated_time"> 04:24 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/texas-clinics-paperwork-supreme-court/index.html">Texas abortion clinics ask Supreme Court to speed up paperwork so appeals process can continue</a> CNN: In the latest attempt to move forward with a lawsuit to block enforcement of Texas' six-week abortion ban, lawyers for abortion providers asked the Supreme Court on Tuesday to immediately transfer a certified copy of its decision from last week back to a district court judge in order to restart proceedings in short order. 
- <p class="updated_time"> 04:02 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/business/fdic-board-meeting-chopra-mcwilliams.html">F.D.I.C. Meeting Is Followed by Scathing Statements</a> NYT: A dispute believed by some experts to be part of an effort by Democrats to unseat the chairwoman of the Federal Deposit Insurance Corporation board, a Trump appointee, spilled into public view last week. 
  <p class="updated_time"> 03:55 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064221034/house-recommends-criminal-contempt-of-congress-charges-against-mark-meadows">House recommends criminal contempt of Congress charges against Mark Meadows</a> NPR: The House voted to refer former White House chief of staff Mark Meadows on criminal contempt of Congress charges. The Justice Department will now decide whether he could face criminal charges. 
  <p class="updated_time"> 03:29 PM CT, Dec. 14 </p> 
