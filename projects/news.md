@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:55 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59663826?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Fire at World Trade Centre leaves more than 100 trapped on roof</a> BBC: The fire broke out in a machine room which eventually led to the scaffolding catching fire. 
  <p class="updated_time"> 01:39 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat Carrying Indonesian Migrants Sinks Near Malaysia, Killing at Least 10</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving 29 others missing, officials said. 
- <p class="updated_time"> 01:32 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59663826?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Fire at World Trade Centre leaves more than 100 trapped on roof</a> BBC: The fire broke out in a machine room which eventually led to the scaffolding catching fire. 
  <p class="updated_time"> 11:39 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59661857?at_medium=RSS&at_campaign=KARANGA">US Congress narrowly votes to raise debt limit</a> BBC: The measure, which raises the limit by $2.5tr (£1.9tr), comes days before a potential US default. 
  <p class="updated_time"> 11:36 PM CT, Dec. 14 </p> 
@@ -78,7 +78,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:11 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/health/coronavirus-omicron-next-pandemic.html">Omicron Is a Dress Rehearsal for the Next Pandemic</a> NYT: America’s response to the variant highlights both how much progress we have made over the past two years — and how much work remains. 
  <p class="updated_time"> 01:57 PM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59659513?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: I spent my 40th birthday trapped under rubble</a> BBC: Kyanna Parsons-Perez never imagined that her 40th birthday would be spent pinned to the floor of the Mayfield candle factory. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59659513?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: A miraculous escape after a candle factory's collapse</a> BBC: Colleagues sang Happy Birthday to Kyanna Parsons-Perez after a tornado buried them all in rubble. 
  <p class="updated_time"> 01:16 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59659543?at_medium=RSS&at_campaign=KARANGA">Russia told to pay compensation to woman whose hands were cut off</a> BBC: Europe's top human rights court says authorities failed to protect her against domestic violence. 
  <p class="updated_time"> 12:10 PM CT, Dec. 14 </p> 
