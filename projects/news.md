@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:17 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59665825?at_medium=RSS&at_campaign=KARANGA">Jacob Zuma: South African court orders ex-president back to jail</a> BBC: Jacob Zuma was granted medical parole after being sentenced to serve 15 months in jail. 
+ <p class="updated_time"> 06:16 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59667937?at_medium=RSS&at_campaign=KARANGA">German court jails hitman for Berlin murder on Russia's orders</a> BBC: A court finds Vadim Krasikov guilty of an ex-Chechen rebel's murder, which it says Russia ordered. 
+ <p class="updated_time"> 06:01 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/africa/jacob-zuma-prison-south-africa.html">Jacob Zuma Must Return to Prison, South Africa Judge Rules</a> NYT: The former president had been granted medical parole two months into a 15-month prison sentence on contempt charges linked to a corruption inquiry. 
+ <p class="updated_time"> 05:59 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat Carrying Indonesian Migrants Sinks Near Malaysia, Killing at Least 11</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving 25 others missing, officials said. 
  <p class="updated_time"> 05:53 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html">Putin and Xi Hold Video Summit</a> NYT: President Vladimir V. Putin and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West but have not yet declared a formal alliance. 
  <p class="updated_time"> 05:51 AM CT, Dec. 15 </p> 
@@ -15,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59664076?at_medium=RSS&at_campaign=KARANGA">German raids on Covid extremists over Saxony leader death plot</a> BBC: Far-right anti-vaccination activists are suspected of plotting to kill Saxony leader Michael Kretschmer. 
  <p class="updated_time"> 05:05 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/north-korea-kpop-executions.html">North Korea Executes People for Watching K-Pop, Rights Group Says</a> NYT: At least seven people have been put to death in the past decade for watching or distributing K-pop videos, as the North cracks down on what its leader calls a “vicious cancer.” 
- <p class="updated_time"> 04:09 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59665825?at_medium=RSS&at_campaign=KARANGA">Jacob Zuma: South African court orders ex-president back to jail</a> BBC: Jacob Zuma was granted medical parole after being sentenced to serve 15 months in jail. 
  <p class="updated_time"> 04:06 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064386048/the-irc-says-afghanistan-is-in-dire-need-of-humanitarian-aid">The IRC says Afghanistan is in dire need of humanitarian aid</a> NPR: The International Rescue Committee, an aid group, says Afghanistan tops the countries of concern list for the next year. And the global picture for humanitarian workers is getting more challenging. 
  <p class="updated_time"> 04:02 AM CT, Dec. 15 </p> 
@@ -31,14 +37,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/asia/hong-kong-fire.html">Hundreds Trapped by Fire at World Trade Center in Hong Kong</a> NYT: The blaze at the World Trade Center in Causeway Bay injured at least 13 people, including one who was semiconscious, the police said. 
  <p class="updated_time"> 03:34 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59647069?at_medium=RSS&at_campaign=KARANGA">Tesla Model 3: Paris' largest taxi firm suspends cars after fatal crash</a> BBC: One person died and 20 were hurt after a cabbie lost control of their Tesla Model 3 last weekend. 
- <p class="updated_time"> 02:57 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat Carrying Indonesian Migrants Sinks Near Malaysia, Killing at Least 10</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving 29 others missing, officials said. 
  <p class="updated_time"> 02:39 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59665125?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Dozens stranded on roof after World Trade Centre fire</a> BBC: Footage obtained by the BBC shows people crowded amongst the roof's scaffolding awaiting rescue. 
  <p class="updated_time"> 02:21 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/greece-covid-school-abduction.html">Three Jailed in Greece After a Principal was Handcuffed Over Virus Measures</a> NYT: Police said a group of people handcuffed the principal on Friday and drove him to a local precinct, suggesting that officers arrest him for enforcing Covid measures. 
- <p class="updated_time"> 11:36 PM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/business-59662421?at_medium=RSS&at_campaign=KARANGA">South Korean dairy giant apologises for controversial advert</a> BBC: The company also faced a backlash over the advert's similarity to "molka", or secret filming. 
+ <p class="updated_time"> 01:00 AM CT, Dec. 15 </p> 
+ <a href="https://www.wsj.com/articles/chinas-covid-19-lockdowns-starting-to-sting-11639569604">China's Covid-19 Lockdowns Starting to Sting</a> WSJ: China’s lockdown of many factories in the Yangtze River Delta last week has underlined the economic costs of its stringent pandemic-control measures. 
  <p class="updated_time"> 11:30 PM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/after-taliban-return-afghan-women-face-old-pressures-from-fathers-brothers-11639564204">Afghan Women Face Old Family Pressures</a> WSJ: With the return to Taliban rule, family dynamics are changing as some men forcefully assert their power over wives, daughters and sisters. “Nothing scares me more than my father. Not even the Taliban,” says one activist. 
  <p class="updated_time"> 10:56 PM CT, Dec. 14 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/africa/omicron-south-africa-study.html">Illnesses Tied to Omicron May Be Milder, Preliminary Study Suggests</a> NYT: The findings, which also show that the new variant partly dodges the Pfizer-BioNTech vaccine, are based on only three weeks of data. Epidemiologists cautioned that the full picture is still emerging. 
  <p class="updated_time"> 08:14 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/italy-bishop-santa-claus.html">Italian Bishop Gives Children Harsh News: There Is No Santa Claus</a> NYT: You’ve been lied to, children heard from a bishop, the latest Catholic clergyman to try to take down Santa Claus and consumerism. Many Italians were not pleased. 
- <p class="updated_time"> 07:58 PM CT, Dec. 14 </p> 
- <a href="https://www.wsj.com/articles/chinas-economic-activity-slowed-in-november-on-property-slump-weak-consumption-11639551530">China's Economic Activity Slows on Property Slump, Weak Consumption</a> WSJ: The latest economic data point to a further slowdown in China’s economy that began to sputter in the third quarter on the back of a power crunch that curbed factory output, and sporadic Covid-19 outbreaks that hit consumption. 
  <p class="updated_time"> 07:56 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/asia/blinken-indonesia-china.html">Blinken, in Indonesia, Stresses Soft Power to Counter China</a> NYT: The U.S. secretary of state seeks to make the case that the United States is a better bet as a partner than China, even if it’s not spending so lavishly in the region. 
  <p class="updated_time"> 07:02 PM CT, Dec. 14 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
  <p class="updated_time"> 12:32 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/europe/rome-christmas-tree.html">Less Mange, More Frills: Rome’s New Mayor Bets on His Christmas Tree</a> NYT: The annual Christmas tree in the Italian capital has come under scrutiny ever since a 2017 debacle. Will this year’s pass social media muster? 
- <p class="updated_time"> 12:12 PM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/11/world/europe/eric-zemmour-rally-france.html">Echoes of Trump at Zemmour’s Rally in France </a> NYT: Éric Zemmour, the polarizing far-right polemicist, launched his presidential campaign last week with a frenzied rally that was disrupted by a violent brawl. 
 
 
 </details>
@@ -202,8 +202,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:24 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/trump-irs-disclosure-tax/index.html">Trump suffers big court loss in his bid to keep his tax records secret</a> CNN: A federal judge on Tuesday dismissed former President Donald Trump's bid in court to stop the Treasury Department from turning over his tax returns to the House. 
  <p class="updated_time"> 06:19 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/15/a-junkies-guide-to-the-2022-midterms-495470">POLITICO Playbook: A junkie’s guide to the 2022 midterms</a> Politico: And the House votes to hold Mark Meadows in contempt of Congress. 
+ <p class="updated_time"> 06:09 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/elissa-slotkin-gun-legislation-oxford-school-shooting/index.html">Michigan Democrat introduces legislation requiring gun owners safely store firearms in wake of Oxford school shooting</a> CNN: Michigan Democratic Rep. Elissa Slotkin is introducing legislation on Wednesday that would require the safe storage of firearms in the wake of the Oxford school shooting in her district that left four students dead last month. 
+ <p class="updated_time"> 06:00 AM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/news/2021/12/15/the-mission-to-save-truth-524218">The mission to save truth</a> Politico: A new fund wants to raise one billion dollars to save independent journalism around the world. 
  <p class="updated_time"> 05:02 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/independent-redistricting-commissions-2022-elections/index.html">Independent redistricting panels aim to draw fairer maps but still invite controversy</a> CNN: As the 14 commissioners of the California Citizens Redistricting Commission drew the state's new congressional districts over the past week, they pored over maps on Zoom sessions that often stretched late into the night, scooping up census tracts as building blocks to create districts of roughly equal size with a keen eye toward keeping communities with shared interests together, while protecting majority-minority districts as required under the law. 
  <p class="updated_time"> 04:59 AM CT, Dec. 15 </p> 
@@ -221,7 +227,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-stimulus-bill-republicans.html">Republicans Who Assailed Biden’s Stimulus Bill Are Embracing the Money</a> NYT: Republican governors who criticized the $1.9 trillion Covid relief bill as wasteful are championing state projects funded by the money. 
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/placebo-effect-clinical-care.html">Doctors Often Prescribe Placebos. But How Well Do They Work?</a> NYT: An Australian researcher argues that the medical community has enshrined placebos as “mysterious and highly effective” in clinical care on the basis of flawed research. 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/placebo-effect-clinical-care.html">Placebos Are Often Prescribed By Doctors. Are The Actually Effective?</a> NYT: An Australian researcher argues that the medical community has enshrined placebos as “mysterious and highly effective” in clinical care on the basis of flawed research. 
  <p class="updated_time"> 11:47 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Congress Approves $2.5 Trillion Debt Limit Increase, Sending It to Biden</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
  <p class="updated_time"> 11:43 PM CT, Dec. 14 </p> 
@@ -258,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/us/politics/liz-cheney-capitol-attack.html">Marginalized by Her Party, Cheney Takes Center Stage in Jan. 6 Inquiry</a> NYT: Representative Liz Cheney has embraced a prominent role in the House investigation of the Jan. 6 attack, using her perch to hold up an unsparing mirror to the Republican Party. 
  <p class="updated_time"> 07:22 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/covid-death-toll-800000-524333">U.S. Covid death toll hits 800,000, a year into vaccine drive</a> Politico: The total is about equal to the population of Atlanta and St. Louis combined. 
- <p class="updated_time"> 06:53 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/trump-irs-disclosure-tax/index.html">Trump suffers big court loss in his bid to keep his tax records secret</a> CNN: A federal judge on Tuesday dismissed former President Donald Trump's bid in court to stop the Treasury Department from turning over his tax returns to the House. 
  <p class="updated_time"> 06:40 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/garcetti-new-delhi-524273">Senate toasts Eric Garcetti nomination, despite the red flags back home</a> Politico: The L.A. mayor had his confirmation hearing Tuesday. Only one member asked him about the misconduct allegations his top aide is facing. 
  <p class="updated_time"> 06:31 PM CT, Dec. 14 </p> 
@@ -304,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/14/politics/student-loans-biden-february/index.html">Biden still plans to restart federal student loan payments in February</a> CNN: President Joe Biden still plans to restart federal student loan payments in February, resisting pressure from some fellow Democrats who continue to call for an extension of coronavirus pandemic relief benefits. 
  <p class="updated_time"> 03:17 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/biden-pfizer-covid-antiviral-pill/index.html">Biden says he's 'encouraged by the promising data' on Pfizer's Covid-19 antiviral pill</a> CNN: President Joe Biden on Tuesday praised Pfizer's report that its experimental treatment for Covid-19 cut the risk of hospitalization or death by 89% if given to high-risk adults within a few days of their first symptoms. 
- <p class="updated_time"> 02:23 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/fbi-soliciting-prostitution/index.html">Six FBI agents investigated for allegedly soliciting prostitution while on assignment overseas</a> CNN: Six FBI agents were investigated for allegedly soliciting prostitution, trafficking drugs and failing to report unofficial interactions for foreign nationals while on assignment overseas, a Justice Department watchdog says. 
  <p class="updated_time"> 02:17 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/qanon-follower-sentence-pelosi-death-threats-524209">QAnon follower gets 28-month sentence for death threats to Pelosi</a> Politico: Judge says continuing election-fraud rhetoric from Republican politicians makes defendant an ongoing threat. 
  <p class="updated_time"> 02:04 PM CT, Dec. 14 </p> 
@@ -382,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/biden-manchin-build-back-better/index.html">Biden and Manchin spoke last week as he tries to secure senator's vote on Build Back Better bill</a> CNN: President Joe Biden spoke with Sen. Joe Manchin late last week, according to a source familiar with the conversation, as the President works to secure the West Virginia Democrat's vote for his expansive economic and climate bill he wants passed by the end of the year.  
  <p class="updated_time"> 05:49 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/manchin-social-policy-bill.html">Manchin Casts Doubt on Quick Vote on Biden’s Social Policy Bill</a> NYT: The West Virginia Democrat said he still harbored serious concerns about the $2.2 trillion measure, potentially frustrating his party’s push to win Senate approval before Christmas. 
- <p class="updated_time"> 05:26 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-vaccine-mandate-new-york-healthcare.html">Supreme Court Allows Vaccine Mandate for New York Health Care Workers</a> NYT: Doctors and nurses challenged a state coronavirus vaccine requirement that had medical but not religious exemptions, saying it violated their right to free exercise of their faiths. 
  <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/defense-claims-politics-fortenberry-indictment-524164">Defense claims politics behind indictment of Rep. Jeff Fortenberry</a> Politico: A federal judge in Los Angeles heard arguments on the Nebraska Republican’s bid to toss out the criminal false-statement case. 
  <p class="updated_time"> 01:48 PM CT, Dec. 13 </p> 
@@ -404,8 +404,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/dems-child-tax-credit-expire-social-bill-524084">As Dems sprint against the clock, child tax credit might slip away</a> Politico: “It’s as important a thing as there is” in the party's social spending bill, as one senator put it. And it's expiring any day now. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
- <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
@@ -422,6 +420,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/10/trumps-terrible-thursday-followed-by-bidens-bad-friday-495415">POLITICO Playbook: Trump’s terrible Thursday, followed by Biden’s bad Friday?</a> Politico: And the U.S. clears a hurdle in its pursuit of the extradition of Julian Assange. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy’s proxy voting opposition could reshape the House</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/recovery-lab-capstone-editors-note-523957">Welcome to Recovery Lab: The Capstone Issue</a> Politico: We’ve spent a year reporting on how America is recovering from the Covid-19 pandemic. Here’s what we’ve learned. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen to lawmakers: Ignore the GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
  <p class="updated_time"> 06:41 PM CT, Dec. 09 </p> 
@@ -446,8 +446,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
  <p class="updated_time"> 07:32 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/08/congress-waves-its-procedural-magic-wand-495371">Congress waves its procedural magic wand</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:20 AM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/08/the-least-bad-deal-495366">POLITICO Playbook: ‘The least bad deal’</a> Politico: And a judge in Georgia blocks Biden's federal worker vaccine mandate. 
 
 
 </details>
