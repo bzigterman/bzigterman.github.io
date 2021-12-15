@@ -10,7 +10,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:44 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/travel/cruise-ships-coronavirus.html">On Cruise Ships, Omicron Puts Safety Protocols to the Test</a> NYT: Many lines are adjusting their masking, testing and vaccine rules, while criticism is mounting about the lack of transparency in reporting positive cases to passengers and crew members. 
  <p class="updated_time"> 03:41 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/americas/canada-travel-warning.html">The Canadian government warns residents to avoid nonessential travel outside the country.</a> NYT: In response to the spread of Omicron, Canada is also ramping up distribution of booster doses and rapid antigen tests. 
+ <a href="https://www.nytimes.com/2021/12/15/world/americas/canada-travel-warning.html">Canadian Government Warns Residents to Avoid Nonessential Travel</a> NYT: In response to the spread of Omicron, Canada is also ramping up distribution of booster doses and rapid antigen tests. 
  <p class="updated_time"> 03:41 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064614638/could-a-salary-cap-help-european-soccer-become-less-predictable">Could a salary cap help European soccer become less predictable?</a> NPR: After analyzing 26 years worth of European soccer matches, scientists have determined that the games have become more predictable over time — and the home field advantage has vanished. 
  <p class="updated_time"> 03:32 PM CT, Dec. 15 </p> 
@@ -200,6 +200,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:01 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/health-care-spending-increase-pandemic-524793">Health spending growth more than doubled in first year of pandemic</a> Politico: Nearly the entire increase came from the burst of federal spending as the government mobilized to contain the spread of the virus. 
+ <p class="updated_time"> 03:57 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/michelle-kwan-caroline-kennedy-ambassador/index.html">Biden picks Michelle Kwan to be ambassador to Belize and Caroline Kennedy to be ambassador to Australia</a> CNN: President Joe Biden on Wednesday announced his intention to nominate Michelle Kwan, a former Olympic figure skater and longtime Democratic activist, to serve as ambassador to Belize. 
+ <p class="updated_time"> 03:55 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/us-define-statelessness/index.html">US promises to define 'statelessness,' a first for the federal government </a> CNN: The United States is committing for the first time to defining "statelessness" and increasing protections for stateless people in the US, the Department of Homeland Security announced Wednesday. 
+ <p class="updated_time"> 03:55 PM CT, Dec. 15 </p> 
+ <a href="https://www.npr.org/2021/12/15/1064579018/jfk-assassination-archives-documents">The Archives has released nearly 1,500 new documents on JFK's assassination</a> NPR: They contain memos from meetings with informants, mostly of interest to historians and researchers. No evidence is expected that would put in doubt that Lee Harvey Oswald was the lone gunman. 
+ <p class="updated_time"> 03:54 PM CT, Dec. 15 </p> 
+ <a href="https://www.npr.org/2021/12/15/1064598531/the-fda-could-permanently-lift-some-restrictions-on-abortion-pills">The FDA could permanently lift some restrictions on abortion pills</a> NPR: The abortion pill mifepristone was approved in 2000 but still faces layers of restrictions. Advocates want the FDA to permanently allow patients to receive the pill by mail instead of in person. 
+ <p class="updated_time"> 03:52 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/january-6-militia-capitol-police-assault/index.html">January 6 rioter charged with assaulting Capitol police in fight that left officer unconscious</a> CNN: Two Texas men, Lucas Denney and Donald Hazard, who prosecutors say formed their own militia group called the "Patriot Boys of North Texas," were arrested Monday for allegedly assaulting police officers during the January 6 riot at the US Capitol. 
  <p class="updated_time"> 03:41 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064614631/biden-promised-government-support-after-visiting-areas-hit-by-tornadoes-in-kentu">Biden promised government support after visiting areas hit by tornadoes in Kentucky</a> NPR: President Biden toured areas of western Kentucky damaged by a series of powerful tornadoes on Dec. 10 and 11. The president promised the federal government would be there to help people. 
  <p class="updated_time"> 03:40 PM CT, Dec. 15 </p> 
@@ -212,16 +222,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/15/1064614591/bipartisan-congress-group-calls-to-ship-more-weapons-to-the-ukraine-to-deter-rus">Bipartisan Congress group calls to ship more weapons to the Ukraine to deter Russia</a> NPR: A bipartisan group from the United States Congress, just returned from Ukraine, are calling for the Biden administration to step up weapons shipments to Kyiv to deter a Russian invasion. 
  <p class="updated_time"> 03:28 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064614584/tensions-with-china-has-u-s-working-to-strengthen-ties-with-southeast-asia">Tensions with China has U.S. working to strengthen ties with Southeast Asia</a> NPR: In Indonesia, Secretary of State Antony Blinken outlined how the U.S. plans to deepen its economic engagement in Southeast Asia. The U.S. has focused more on security in the region up to this point. 
- <p class="updated_time"> 03:11 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/michelle-kwan-caroline-kennedy-ambassador/index.html">Biden picks Michelle Kwan to be ambassador to Belize and Caroline Kennedy to be ambassador to Australia</a> CNN: President Joe Biden on Wednesday announced his intention to nominate Michelle Kwan, a former Olympic figure skater and longtime Democratic activist, to serve as ambassador to Belize. 
  <p class="updated_time"> 03:09 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/biden-kentucky-visit/index.html">Biden gets on-the-ground look at devastation from Kentucky tornado</a> CNN: President Joe Biden will travel to Kentucky on Wednesday in the wake of deadly tornadoes and severe storms that devastated the area, where he'll survey storm damage, meet with victims and deliver remarks. 
  <p class="updated_time"> 02:49 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
  <p class="updated_time"> 02:38 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/business/economy/inflation-fed-fomc-meeting-december-2021.html">Fed Could Raise Rates 3 Times in 2022, Speeds End of Bond-Buying</a> NYT: Federal Reserve officials suggested as many as three interest rate increases in 2022 as the economy heals and inflation persists. 
- <p class="updated_time"> 02:32 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/us-define-statelessness/index.html">US promises to define 'statelessness,' a first for the federal government </a> CNN: The United States is committing for the first time to defining "statelessness" and increasing protections for stateless people in the US, the Department of Homeland Security announced Wednesday. 
  <p class="updated_time"> 02:28 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/senate-vote-ndaa/index.html">Senate passes annual defense bill authorizing $770 billion in Pentagon funding</a> CNN: The National Defense Authorization Act, the annual must-pass defense bill that authorizes $770 billion in funding for the Defense Department, is set to pass the Senate on Wednesday with a bipartisan vote. 
  <p class="updated_time"> 02:21 PM CT, Dec. 15 </p> 
@@ -240,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/15/politics/5th-circuit-biden-health-care-worker-mandate/index.html">Health care worker vaccine mandate can be enforced in half the country, appeals court says</a> CNN: A federal appeals court gave the Biden administration a partial win in the federal government's efforts to require Covid-19 vaccines for certain health care workers. 
  <p class="updated_time"> 12:43 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/mlk-day-voting-rights-legislation/index.html">Martin Luther King Jr.'s family calls for 'no celebration' of MLK Day without action on voting rights legislation</a> CNN: The family of Martin Luther King Jr. is calling for "no celebration" of MLK Day without the passage of voting rights legislation, putting pressure on President Joe Biden and lawmakers to act on federal voting rights bills that have stalled in Congress. 
- <p class="updated_time"> 12:23 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/december-child-tax-credit-payment/index.html">December's child tax credit payment will be the last one unless Congress acts</a> CNN: Parents are set to get their last monthly infusion of the expanded child tax credit starting Wednesday -- unless Congress acts to extend it for another year. 
  <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
  <p class="updated_time"> 12:13 PM CT, Dec. 15 </p> 
@@ -284,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/15/politics/elissa-slotkin-gun-legislation-oxford-school-shooting/index.html">Michigan Democrat introduces legislation requiring gun owners safely store firearms in wake of Oxford school shooting</a> CNN: Michigan Democratic Rep. Elissa Slotkin is introducing legislation on Wednesday that would require the safe storage of firearms in the wake of the Oxford school shooting in her district that left four students dead last month. 
  <p class="updated_time"> 06:00 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/the-mission-to-save-truth-524218">The mission to save truth</a> Politico: A new fund wants to raise one billion dollars to save independent journalism around the world. 
- <p class="updated_time"> 04:59 AM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/main-recoverylab-capstone-data-methodology-524101">Why — and how — we created the State Pandemic Scorecard</a> Politico: The data is coming in, but it’s not perfect. Here’s what to keep in mind. 
  <p class="updated_time"> 04:31 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/democratic-governors-covid-fatigue-524425">‘They’re sick of masks’: Democratic governors fight Covid fatigue</a> Politico: The party’s defeat last month in Virginia — and closer-than-expected victory in New Jersey — has many Democrats searching for an off-ramp to the pandemic that allows them to sell a brighter future to voters next November. 
  <p class="updated_time"> 04:06 AM CT, Dec. 15 </p> 
@@ -308,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064068696/the-house-votes-to-hold-mark-meadows-in-contempt-sending-a-criminal-referral-to-">The House votes to hold Mark Meadows in contempt, sending a criminal referral to DOJ</a> NPR: The vote now leaves it up to the Justice Department to decide whether it will pursue criminal charges against the former White House chief of staff. 
  <p class="updated_time"> 09:12 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-text-messages/index.html">'Need to end this call': January 6 committee reveals new text message to Meadows</a> CNN: The House select committee investigating the January 6 attack on the US Capitol released new text messages obtained from former Trump White House chief of staff Mark Meadows that were sent to him in the days leading up to the insurrection and while the Capitol was under siege. 
- <p class="updated_time"> 08:47 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/silicon-valleys-voice-in-washington-to-dissolve-524486">Silicon Valley’s voice in Washington dissolves</a> Politico: The once-dominant Internet Association "has made the difficult decision to close the organization at the end of this year," its board announced Wednesday. 
  <p class="updated_time"> 08:31 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/eastman-sues-jan6-records-524441">Eastman sues Jan. 6 committee and Verizon to prevent release of phone records</a> Politico: A similar lawsuit was filed Monday by four organizers of the Jan. 6 rally, 
  <p class="updated_time"> 07:53 PM CT, Dec. 14 </p> 
@@ -380,10 +380,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/money/2021/12/14/1063703904/the-best-and-worst-places-to-live-if-you-care-only-about-money">The best and worst places to live if you only care about money</a> NPR: A new study looks at the finances of 3 million households over the course of a year. It finds significant differences in the standard of living across America. 
  <p class="updated_time"> 04:31 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/rural-america-biden-investments-524170">Biden’s rural investments run up against the culture wars in Wisconsin</a> Politico: Even as President Joe Biden’s agenda has promised billions to rural communities this year, Democrats are in danger of losing their last foothold in rural Wisconsin. 
- <p class="updated_time"> 04:10 AM CT, Dec. 14 </p> 
- <a href="https://www.npr.org/2021/12/14/1064018682/meadows-held-in-contempt-jan-6-panel-sends-a-criminal-referral-to-the-house">Meadows held in contempt, Jan. 6 panel sends a criminal referral to the House</a> NPR: A House panel investigating the Jan. 6 attack on the U.S. Capitol has voted to hold former Trump White House Chief of Staff Mark Meadows in contempt, revealing new details in his text messages. 
- <p class="updated_time"> 04:10 AM CT, Dec. 14 </p> 
- <a href="https://www.npr.org/2021/12/14/1064011237/fossil-fuel-subsidies-are-proving-harder-to-end-than-first-thought">Fossil fuel subsidies are proving harder to end than first thought</a> NPR: President Biden campaigned on ending oil and gas industry subsidies. But getting rid of them requires passing legislation. A bill eliminating the overseas drilling subsidy is stalled in Congress. 
  <p class="updated_time"> 10:25 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/remain-in-mexico-appeals-court/index.html">Appeals court rules against Biden admin's termination of 'remain in Mexico' policy</a> CNN: The 5th US Circuit Court of Appeals on Monday night ruled against the Biden administration's bid to terminate the Trump-era "remain in Mexico" policy, which requires non-Mexican migrants to stay in Mexico until their US immigration court dates. 
  <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
@@ -406,6 +402,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/dems-child-tax-credit-expire-social-bill-524084">As Dems sprint against the clock, child tax credit might slip away</a> Politico: “It’s as important a thing as there is” in the party's social spending bill, as one senator put it. And it's expiring any day now. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430"> Harris trashes her media coverage</a> Politico Playbook: And Chris Wallace leaves Fox News. 
+ <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
+ <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
+ <p class="updated_time"> 10:26 AM CT, Dec. 12 </p> 
+ <a href="https://www.politico.com/news/2021/12/12/de-blasio-vaccine-mandates-new-york-524126">De Blasio defends vaccine mandates, points to effectiveness in NYC</a> Politico: New York’s mayor said business owners in the city would prefer a mandate over shutdowns. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
