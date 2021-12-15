@@ -202,14 +202,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:30 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/democrats-urge-biden-to-avert-student-loan-cliff-next-year-524889">Democrats urge Biden to avert student loan cliff next year</a> Politico: Monthly student loan payments and interest are set to resume on Feb. 1 for the first time since the beginning of the pandemic. 
+ <p class="updated_time"> 06:40 PM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/news/2021/12/15/bipartisan-deal-to-crack-down-on-chinas-treatment-of-muslims-stalls-in-senate-524868">Bipartisan deal to crack down on China's treatment of Muslims stalls in Senate</a> Politico: The House-passed bill on forced labor among the Uyghur minority, and a deal on foreign-policy confirmations, is getting bogged down in domestic drama. 
  <p class="updated_time"> 06:23 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/derek-chauvin-george-floyd-524867">Chauvin pleads guilty to federal charge in Floyd’s death</a> Politico: It was the first time he admitted wrongdoing. 
- <p class="updated_time"> 06:23 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/title-ix-proposals-april-524871">Biden administration expects to unveil Title IX proposals in April</a> Politico: The new timeline for releasing the proposed Title IX rules comes amid complaints by some advocacy groups that the Biden administration is taking too long to reverse the previous administration’s policies. 
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats' filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
+ <p class="updated_time"> 05:46 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
  <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/trump-january-6-obstruction-law-524806">Jan. 6 investigators mull whether Trump violated obstruction law</a> Politico: Rep. Liz Cheney (R-Wyo.) raised the question using precise terminology from the criminal statute that some view as possibly applicable to the former president's actions. 
  <p class="updated_time"> 05:04 PM CT, Dec. 15 </p> 
@@ -258,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/15/1064614591/bipartisan-congress-group-calls-to-ship-more-weapons-to-the-ukraine-to-deter-rus">Bipartisan Congress group calls to ship more weapons to the Ukraine to deter Russia</a> NPR: A bipartisan group from the United States Congress, just returned from Ukraine, are calling for the Biden administration to step up weapons shipments to Kyiv to deter a Russian invasion. 
  <p class="updated_time"> 03:28 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064614584/tensions-with-china-has-u-s-working-to-strengthen-ties-with-southeast-asia">Tensions with China has U.S. working to strengthen ties with Southeast Asia</a> NPR: In Indonesia, Secretary of State Antony Blinken outlined how the U.S. plans to deepen its economic engagement in Southeast Asia. The U.S. has focused more on security in the region up to this point. 
- <p class="updated_time"> 02:49 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
  <p class="updated_time"> 02:38 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/business/economy/inflation-fed-fomc-meeting-december-2021.html">Fed Could Raise Rates 3 Times in 2022 and Speeds End of Bond-Buying</a> NYT: Federal Reserve officials suggested as many as three interest rate increases in 2022 as the economy heals and inflation persists. 
  <p class="updated_time"> 02:28 PM CT, Dec. 15 </p> 
@@ -386,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/joe-biden-news-journal-ad-targeting-524196">How a 100-year-old newspaper became the go-to way to influence Biden</a> Politico: In the Biden era, the pages of The News Journal have become a way to reach a new audience of one. 
  <p class="updated_time"> 09:00 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/transportation-doe-team-up-electric-vehicles/index.html">Energy, Transportation departments team up to help states develop electric vehicle charging infrastructure</a> CNN: Two key federal agencies are joining forces to speed things along as billions in federal funding for a national network of electric vehicle charging stations goes out to states. 
- <p class="updated_time"> 08:22 AM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/pfizer-covid-pill-524194">Pfizer's Covid-19 pill cut risk of hospitalization and death by 89 percent, final results show</a> Politico: The results tracked with interim findings the company reported last month. 
  <p class="updated_time"> 07:25 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/14/senate-moves-on-debt-defense-house-on-meadows-495455">Senate moves on debt, defense, House on Meadows</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Dec. 14 </p> 
@@ -410,6 +406,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/13/all-eyes-on-the-joes-495439"> All eyes on the Joes</a> Politico Playbook: And Nancy Pelosi plays down retirement rumors. 
  <p class="updated_time"> 04:31 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/jeffries-mccarthy-house-election-524100">‘Who is he?’ The X-factor relationship that could soon rule the House</a> Politico: Hakeem Jeffries and Kevin McCarthy may well lead their parties in the lower chamber come 2023. But their relationship is a black box. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/news/2021/12/13/political-maps-redistricting-state-supreme-courts-524150">States’ high courts poised to draw new congressional maps</a> Politico: State supreme courts are increasingly being charged with drawing new map lines in gridlocked states and policing partisan gerrymandering. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/schumer-pressure-holiday-delivery-524093">Old St. Chuck? Schumer under pressure to deliver by Christmas</a> Politico: The Senate Democratic leader wants to wrap up the $1.7 trillion social spending bill for the holiday — which may well prove impossible. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
