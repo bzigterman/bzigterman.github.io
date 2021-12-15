@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:25 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-michael-kretschmer-plot-saxony-vaccines.html">Vaccine Opponents in Germany Investigated Over Plot to Kill State Governor</a> NYT: The authorities in Dresden raided the homes of a group of people who they said were targeting the leader of the state of Saxony. A number of weapons were seized. 
+ <p class="updated_time"> 11:18 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/travel/cruise-ships-coronavirus.html">On Cruise Ships, Omicron Puts Safety Protocols to the Test</a> NYT: Many lines are adjusting their masking, testing and vaccine rules, while criticism is mounting about the lack of transparency in reporting positive cases to passengers and crew members. 
+ <p class="updated_time"> 11:08 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html">Putin and Xi Hold Video Summit</a> NYT: President Vladimir V. Putin of Russia and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West but have not yet declared a formal alliance. 
  <p class="updated_time"> 10:51 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/15/1064463596/german-police-anti-vax-assassination-plot">German police move against an alleged murder plot by anti-vaccination extremists </a> NPR: The police conducted raids in the city of Dresden and the nearby town of Heidenau come after a group allegedly organized online to kill Saxony's state premier, Michael Kretschmer. 
  <p class="updated_time"> 10:50 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-russia-berlin-murder.html">Russian Is Convicted in Murder of Chechen Man in a Berlin Park</a> NYT: A German court ruled that the Russian state had orchestrated the attack, which strained ties between Berlin and Moscow. 
  <p class="updated_time"> 10:44 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/europe/frenchwoman-dies-in-syrian-detention-camp.html">France Refused to Repatriate a Sick Woman Who Joined the Islamic State. She Died.</a> NYT: A Frenchwoman died of health complications in a detention camp in Syria on Tuesday, her lawyer said. She had repeatedly asked to be repatriated to treat severe diabetes. 
+ <a href="https://www.nytimes.com/2021/12/15/world/europe/frenchwoman-dead-syria-detention-camp.html">France Refused to Repatriate a Sick Woman Who Joined the Islamic State. She Died.</a> NYT: A Frenchwoman died of health complications in a detention camp in Syria on Tuesday, her lawyer said. She had repeatedly asked to be repatriated to treat severe diabetes. 
  <p class="updated_time"> 10:30 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/hong-kong-fire.html">Hundreds Trapped by Fire at World Trade Center in Hong Kong</a> NYT: The blaze at the World Trade Center in Causeway Bay injured at least 13 people, including one who was semiconscious, the police said. 
  <p class="updated_time"> 10:17 AM CT, Dec. 15 </p> 
@@ -37,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/malta-eu-marijuana-legalize.html">Malta Becomes First E.U. Country to Legalize Marijuana</a> NYT: The government said that the new law was aimed at ending the criminalization of people for smoking the drug and at reducing criminal trafficking. 
  <p class="updated_time"> 08:51 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/15/1064432010/omicron-spread-variant-coronavirus">Omicron spreads faster than any other variant, WHO says. It's now in 77 countries</a> NPR: "Omicron is spreading at a rate we have not seen with any previous variant," says WHO Director-General Tedros Adhanom Ghebreyesus. 
- <p class="updated_time"> 08:51 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-michael-kretschmer-plot-saxony-vaccines.html">Vaccine Opponents in Germany Investigated Over Plot to Kill State Governor</a> NYT: The authorities in Dresden raided the homes of a group of people who they said were targeting the leader of the state of Saxony. A number of weapons were seized. 
  <p class="updated_time"> 08:21 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/india-sex-workers-benefits.html">India's Supreme Court Mandates Benefits for Sex Workers</a> NYT: Officials must enter them into databases for voting and benefits, the judges said, after they suffered from the effects of Covid-19 lockdowns. 
  <p class="updated_time"> 08:15 AM CT, Dec. 15 </p> 
@@ -51,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/av/formula1/59671505?at_medium=RSS&at_campaign=KARANGA">Hamilton gets knighthood for services to motorsport</a> BBC: Seven-time Formula 1 world champion Lewis Hamilton receives his knighthood for services to motorsport from Prince Charles during a ceremony at Windsor Castle. 
  <p class="updated_time"> 07:31 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Halts Asia Trip After Journalist Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the United States earlier than planned. 
- <p class="updated_time"> 07:24 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html">Putin and Xi Hold Video Summit</a> NYT: President Vladimir V. Putin and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West but have not yet declared a formal alliance. 
  <p class="updated_time"> 06:58 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59664077?at_medium=RSS&at_campaign=KARANGA">Riccardo Ehrman: Journalist who prompted Berlin Wall to fall dies</a> BBC: Riccardo Ehrman asked the historic question that led to East Germans tearing down the wall in 1989. 
  <p class="updated_time"> 05:59 AM CT, Dec. 15 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/europe/switzerland-money-laundering-case-juan-carlos.html">Swiss Prosecutors Drop Money-Laundering Case Against Former Spanish King</a> NYT: A criminal inquiry into allegations that Spain’s former king laundered illegal commission payments from Saudi Arabia related to a high-speed rail deal was closed because of insufficient evidence. 
  <p class="updated_time"> 01:57 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/denmark-immigration-minister-migrants-prison.html">Former Immigration Minister in Denmark Sentenced to Prison for Separating Couples</a> NYT: Inger Stojberg was sentenced to two months’ incarceration after being found by a court to have illegally ordered the separations of married migrant couples in which at least one person was underage. 
- <p class="updated_time"> 12:17 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">In Response to Omicron, U.K. Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
  <p class="updated_time"> 09:27 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/merck-covid-pill-pregnancy-risk.html">Merck’s Covid Pill Might Pose Risks for Pregnant Women</a> NYT: Some laboratory studies suggest that molnupiravir can insert errors in DNA, which could in theory harm a developing fetus, sperm cells or children. 
  <p class="updated_time"> 08:16 AM CT, Dec. 13 </p> 
@@ -208,16 +208,24 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:39 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/navy-kicks-out-sailors-vaccine-524693">Navy starts kicking out sailors for refusing the Covid vaccine</a> Politico: The move comes as the Air Force begins discharging service members for not taking the shot. 
- <p class="updated_time"> 11:00 AM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/biden-administration-jfk-documents/index.html">Biden admin expected to release some previously classified JFK assassination docs</a> CNN: The Biden administration faces a Wednesday deadline to publicly release a tranche of secret documents that some historians -- and conspiracy theorists -- hope might shed light on the 1963 assassination of President John F. Kennedy. 
+ <p class="updated_time"> 11:26 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-kentucky-tornado.html">Biden Will Tour Kentucky Storm Damage</a> NYT: President Biden will visit another disaster area in an effort to offer comfort to victims and highlight the federal government’s response. 
+ <p class="updated_time"> 11:25 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/senate-vote-ndaa/index.html">Senate passes annual defense bill authorizing $770 billion in Pentagon funding</a> CNN: The National Defense Authorization Act, the annual must-pass defense bill that authorizes $770 billion in funding for the Defense Department, is set to pass the Senate on Wednesday with a bipartisan vote. 
+ <p class="updated_time"> 11:19 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
+ <p class="updated_time"> 11:18 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/biden-administration-jfk-documents/index.html">Biden admin releases previously classified JFK assassination documents</a> CNN: The Biden administration faces a Wednesday deadline to publicly release a tranche of secret documents that some historians -- and conspiracy theorists -- hope might shed light on the 1963 assassination of President John F. Kennedy. 
+ <p class="updated_time"> 11:10 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/cnn-poll-economy/index.html">CNN Poll: Most say government is doing too little to fix inflation and the supply chain</a> CNN: Americans' impressions of the nation's economy remain gloomy and broad majorities think the federal government has done too little to try to solve problems with the nation's supply chain and rising inflation, according to a new CNN Poll conducted by SSRS. 
+ <p class="updated_time"> 11:07 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/jill-biden-waukesha/index.html">Jill Biden to visit victims of Waukesha Christmas parade tragedy and push Covid-19 vaccinations</a> CNN: First lady Jill Biden is traveling to Wisconsin on Wednesday in part to comfort victims and families of the November Christmas parade tragedy in Waukesha. 
+ <p class="updated_time"> 11:05 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/biden-kentucky-visit/index.html">Biden is set to visit Kentucky following deadly tornadoes and storms</a> CNN: President Joe Biden will travel to Kentucky on Wednesday in the wake of deadly tornadoes and severe storms that devastated the area, where he'll survey storm damage, meet with victims and deliver remarks. 
  <p class="updated_time"> 10:43 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-stimulus-bill-republicans.html">Republicans Who Assailed Biden’s Stimulus Bill Are Embracing the Money</a> NYT: Republican governors who criticized the $1.9 trillion Covid relief bill as wasteful are championing state projects funded by the money. 
  <p class="updated_time"> 10:38 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/mitch-mcconnell-january-6-participants/index.html">McConnell on January 6 probe: 'It will be interesting to reveal all the participants that were involved'</a> CNN: Senate Minority Leader Mitch McConnell said Tuesday that he did not speak to then-White House chief of staff Mark Meadows on January 6 about then-President Donald Trump's inaction as a crowd stormed the US Capitol. 
- <p class="updated_time"> 10:36 AM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/biden-kentucky-visit/index.html">Biden is set to visit Kentucky following deadly tornadoes and storms</a> CNN: President Joe Biden will travel to Kentucky on Wednesday in the wake of deadly tornadoes and severe storms that devastated the area, where he'll survey storm damage, meet with victims and deliver remarks. 
- <p class="updated_time"> 10:09 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-kentucky-tornado.html">Biden Will Tour Kentucky Storm Damage</a> NYT: President Biden will visit another disaster area in an effort to offer comfort to victims and highlight the federal government’s response. 
  <p class="updated_time"> 10:07 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/mlk-day-voting-rights-legislation/index.html">Martin Luther King Jr.'s family calls for 'no celebration' of MLK Day without action on voting rights legislation</a> CNN: The family of Martin Luther King Jr. is calling for "no celebration" of MLK Day without the passage of voting rights legislation, putting pressure on President Joe Biden and lawmakers to act on federal voting rights bills that have stalled in Congress. 
  <p class="updated_time"> 09:21 AM CT, Dec. 15 </p> 
@@ -236,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/business/toyota-electric-vehicles.html">Toyota Outlines Electric Vehicle Expansion Plan</a> NYT: The company’s Lexus brand will only sell electric cars by 2030 in China, Europe and the United States. 
  <p class="updated_time"> 07:59 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064394533/cair-ohio-fired-hate-group-romin-iqbal-emerson">A leader of an Ohio Muslim organization was fired for spying for a hate group</a> NPR: The Columbus chapter of the Council on American-Islamic Relations fired its Executive and Legal Director Romin Iqbal after it discovered he was passing information to a "known anti-Muslim hate group." 
- <p class="updated_time"> 07:51 AM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/blinken-asia-trip-covid/index.html">Blinken cuts overseas trip short due to reporter testing positive for Covid-19</a> CNN: Secretary of State Antony Blinken is cutting his overseas trip to Southeast Asia short after a member of the press traveling with the top US diplomat tested positive for Covid-19 Wednesday, according to the US State Department. 
  <p class="updated_time"> 07:35 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/15/house-is-home-for-the-holidays-senate-sticks-around-495473">House is home for the holidays, Senate sticks around</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:31 AM CT, Dec. 15 </p> 
@@ -276,6 +282,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064068696/the-house-votes-to-hold-mark-meadows-in-contempt-sending-a-criminal-referral-to-">The House votes to hold Mark Meadows in contempt, sending a criminal referral to DOJ</a> NPR: The vote now leaves it up to the Justice Department to decide whether it will pursue criminal charges against the former White House chief of staff. 
  <p class="updated_time"> 09:12 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-text-messages/index.html">'Need to end this call': January 6 committee reveals new text message to Meadows</a> CNN: The House select committee investigating the January 6 attack on the US Capitol released new text messages obtained from former Trump White House chief of staff Mark Meadows that were sent to him in the days leading up to the insurrection and while the Capitol was under siege. 
+ <p class="updated_time"> 08:47 PM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/silicon-valleys-voice-in-washington-to-dissolve-524486">Silicon Valley’s voice in Washington dissolves</a> Politico: The once-dominant Internet Association "has made the difficult decision to close the organization at the end of this year," its board announced Wednesday. 
  <p class="updated_time"> 08:31 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/eastman-sues-jan6-records-524441">Eastman sues Jan. 6 committee and Verizon to prevent release of phone records</a> Politico: A similar lawsuit was filed Monday by four organizers of the Jan. 6 rally, 
  <p class="updated_time"> 07:53 PM CT, Dec. 14 </p> 
@@ -378,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/remain-in-mexico-appeals-court/index.html">Appeals court rules against Biden admin's termination of 'remain in Mexico' policy</a> CNN: The 5th US Circuit Court of Appeals on Monday night ruled against the Biden administration's bid to terminate the Trump-era "remain in Mexico" policy, which requires non-Mexican migrants to stay in Mexico until their US immigration court dates. 
  <p class="updated_time"> 09:21 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/jan-6-rally-organizers-sue-verizon-524189">Jan. 6 rally organizers sue Verizon to block release of cell phone data to congressional committee</a> Politico: The lawsuit said the plaintiffs have personally complied with the committee’s investigation. 
- <p class="updated_time"> 09:17 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/israel-tankers-iran.html">Israel Finds Planes That Could Be Key to a Strike on Iran Badly Back-Ordered</a> NYT: The United States told Israel it was unlikely to deliver refueling tankers before 2024, amid tensions between the two nations over how to deal with Iran’s nuclear program. 
  <p class="updated_time"> 08:19 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063955835/rep-liz-cheney-read-text-messages-she-said-mark-meadows-got-during-the-jan-6-sie">Rep. Liz Cheney read text messages she said Mark Meadows got during the Jan. 6 siege</a> NPR: In the messages, Donald Trump Jr. and Fox News hosts Laura Ingraham and Sean Hannity urge Meadows to get then-President Donald Trump to tell his supporters to leave the Capitol. 
  <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
@@ -392,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/manchin-fiscal-concerns-524158">Manchin keeps Dems guessing on their megabill</a> Politico: The Democratic senator still isn't committing to back President Joe Biden's social safety net legislation, citing fears about inflation and debt. 
- <p class="updated_time"> 09:56 AM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/december-child-tax-credit-payment/index.html">December's child tax credit payment will be the last one unless Congress acts</a> CNN: Parents are set to get their last monthly infusion of the expanded child tax credit starting Wednesday -- unless Congress acts to extend it for another year. 
  <p class="updated_time"> 07:06 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/13/debt-limit-byrd-bath-and-manchin-meetings-495441">Debt limit, Byrd bath and Manchin meetings</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:08 AM CT, Dec. 13 </p> 
@@ -418,8 +422,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/11/soaring-inflation-wealth-racial-disparities-524111">Soaring inflation could hamper Biden’s effort to narrow wealth, racial disparities</a> Politico: Biden campaigned on addressing structural inequities. Rising prices could jeopardize that. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
- <p class="updated_time"> 10:12 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/white-house-red-line-policy-cyberattacks/index.html">New White House policy gives agencies 24 hours to assess cyberattacks of potential national security concern</a> CNN: The White House has enacted a new policy requiring the FBI and other agencies to help US officials quickly assess whether a cyberattack "rises to the level of a national security concern" that could hamper the provision of key services such as fuel or food, according to a National Security Council memo obtained by CNN and two US officials. 
  <p class="updated_time"> 07:29 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/10/debt-limit-vote-kicked-to-next-week-495417">Debt limit vote kicked to next week</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:09 AM CT, Dec. 10 </p> 
