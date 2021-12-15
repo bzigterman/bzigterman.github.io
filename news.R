@@ -39,7 +39,9 @@ politico_politics <- tidyfeed("https://www.politico.com/rss/politicopicks.xml") 
 
 politico_playbook <- tidyfeed("http://rss.politico.com/playbook.xml") %>%
   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-  mutate(feed = "Politico") %>%
+  mutate(item_title = gsub("POLITICO Playbook:","",item_title,
+                            ignore.case = FALSE)) %>%
+  mutate(feed = "Politico Playbook") %>%
   mutate(utc_time = force_tz(item_pub_date, tz = "US/Central")) %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
   mutate(clean_time = strftime(x = central_time, 
@@ -50,7 +52,7 @@ politico_playbook <- tidyfeed("http://rss.politico.com/playbook.xml") %>%
 politico_huddle <- tidyfeed("http://rss.politico.com/huddle.xml") %>%
   mutate(item_description = feed_description) %>%
   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-  mutate(feed = "Politico") %>%
+  mutate(feed = "Politico Huddle") %>%
   mutate(utc_time = force_tz(item_pub_date, tz = "US/Central")) %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
   mutate(clean_time = strftime(x = central_time, 
