@@ -163,12 +163,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/insider/dive-bars.html">Why a Times Reporter Keeps Writing About Dive Bars</a> NYT: Attracted to the grit, equality and community of those modest watering holes, a Times reporter has worked them into his coverage. 
  <p class="updated_time"> 03:48 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/boris-johnson-uk-coronavirus.html">Boris Johnson Is in Trouble. The Question Is, How Much?</a> NYT: The British prime minister is facing a new virus variant, a rebellious Conservative Party, collapsing poll ratings and questions about whether he or his staff flouted the lockdown rules. 
- <p class="updated_time"> 01:58 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Cementing an alliance built on mutual fear of Iran, Prime Minister Naftali Bennett met Prince Mohammed bin Zayed of the United Arab Emirates on the first official visit by an Israeli leader to the Gulf state. 
  <p class="updated_time"> 09:17 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/israel-tankers-iran.html">Israel Finds Planes That Could Be Key to a Strike on Iran Badly Back-Ordered</a> NYT: The United States told Israel it was unlikely to deliver refueling tankers before 2024, amid tensions between the two nations over how to deal with Iran’s nuclear program. 
- <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/health/omicron-travel-setbacks.html">How Conflicting Guidance on Travel During the Pandemic Shows Little Progress</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
  <p class="updated_time"> 07:19 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59461807?at_medium=RSS&at_campaign=KARANGA">Sex and cancer: 'I was ashamed to ask for help'</a> BBC: Cait didn't know why it hurt to masturbate after her treatment - and didn't know who to ask. 
  <p class="updated_time"> 06:06 PM CT, Dec. 13 </p> 
@@ -195,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/europe/denmark-immigration-minister-migrants-prison.html">Former Immigration Minister in Denmark Sentenced to Prison for Separating Couples</a> NYT: Inger Stojberg was sentenced to two months’ incarceration after being found by a court to have illegally ordered the separations of married migrant couples in which at least one person was underage. 
  <p class="updated_time"> 09:27 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/merck-covid-pill-pregnancy-risk.html">Merck’s Covid Pill Might Pose Risks for Pregnant Women</a> NYT: Some laboratory studies suggest that molnupiravir can insert errors in DNA, which could in theory harm a developing fetus, sperm cells or children. 
- <p class="updated_time"> 08:16 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.html">South Korean City to Test Facial Recognition to Track the Coronavirus</a> NYT: Officials hope the system can help reveal the movements of people who test positive and their interactions with others, making contact tracing easier. 
 
 
 </details>
@@ -204,8 +198,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 PM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/news/2021/12/15/health-care-spending-increase-pandemic-524793">Health spending growth more than doubled in first year of pandemic</a> Politico: Nearly the entire increase came from the burst of federal spending as the government mobilized to contain the spread of the virus. 
  <p class="updated_time"> 03:33 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/biden-manchin-megabill-524776">'Going very poorly': Biden can't nail Manchin down on Dems' bill</a> Politico: President Joe Biden is running out of patience as Sen. Joe Manchin continues to drag his feet on supporting the party's domestic spending legislation. 
+ <p class="updated_time"> 03:09 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/biden-kentucky-visit/index.html">Biden gets on-the-ground look at devastation from Kentucky tornado</a> CNN: President Joe Biden will travel to Kentucky on Wednesday in the wake of deadly tornadoes and severe storms that devastated the area, where he'll survey storm damage, meet with victims and deliver remarks. 
+ <p class="updated_time"> 03:03 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-kentucky-tornado.html">Biden Visits Kentucky to See Storm Damage</a> NYT: President Biden is visiting the state in an effort to offer comfort to victims and highlight the federal government’s response to devastating tornadoes. 
  <p class="updated_time"> 02:49 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
  <p class="updated_time"> 02:38 PM CT, Dec. 15 </p> 
@@ -230,16 +230,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/15/politics/5th-circuit-biden-health-care-worker-mandate/index.html">Health care worker vaccine mandate can be enforced in half the country, appeals court says</a> CNN: A federal appeals court gave the Biden administration a partial win in the federal government's efforts to require Covid-19 vaccines for certain health care workers. 
  <p class="updated_time"> 12:43 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/mlk-day-voting-rights-legislation/index.html">Martin Luther King Jr.'s family calls for 'no celebration' of MLK Day without action on voting rights legislation</a> CNN: The family of Martin Luther King Jr. is calling for "no celebration" of MLK Day without the passage of voting rights legislation, putting pressure on President Joe Biden and lawmakers to act on federal voting rights bills that have stalled in Congress. 
- <p class="updated_time"> 12:24 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/biden-kentucky-visit/index.html">Biden gets on-the-ground look at devastation from Kentucky tornado</a> CNN: President Joe Biden will travel to Kentucky on Wednesday in the wake of deadly tornadoes and severe storms that devastated the area, where he'll survey storm damage, meet with victims and deliver remarks. 
  <p class="updated_time"> 12:23 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/december-child-tax-credit-payment/index.html">December's child tax credit payment will be the last one unless Congress acts</a> CNN: Parents are set to get their last monthly infusion of the expanded child tax credit starting Wednesday -- unless Congress acts to extend it for another year. 
  <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
  <p class="updated_time"> 12:13 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/abortion-pill-rules-reproductive-rights-524680">'Quite hopeful': Abortion pill decision could reshape reproductive health war</a> Politico: Regulators are due to decide Thursday whether to uphold, revise or scrap longstanding restrictions on the abortion drug mifepristone. 
- <p class="updated_time"> 11:46 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-kentucky-tornado.html">Biden Visits Kentucky to See Storm Damage</a> NYT: President Biden is visiting the state in an effort to offer comfort to victims and highlight the federal government’s response to devastating tornadoes. 
  <p class="updated_time"> 11:39 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/navy-kicks-out-sailors-vaccine-524693">Navy starts kicking out sailors for refusing Covid vaccine as Republicans rage over mandate</a> Politico: The move comes as the Air Force begins discharging service members for not taking the shot. 
  <p class="updated_time"> 11:10 AM CT, Dec. 15 </p> 
@@ -316,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/covid-death-toll-800000-524333">U.S. Covid death toll hits 800,000, a year into vaccine drive</a> Politico: The total is about equal to the population of Atlanta and St. Louis combined. 
  <p class="updated_time"> 06:40 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/garcetti-new-delhi-524273">Senate toasts Eric Garcetti nomination, despite the red flags back home</a> Politico: The L.A. mayor had his confirmation hearing Tuesday. Only one member asked him about the misconduct allegations his top aide is facing. 
- <p class="updated_time"> 06:31 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/iran-nuclear-united-nations-524274">U.N. nuclear chief says view of Iran ‘blurred’</a> Politico: Rafael Mariano Grossi said Iran must work with international inspectors. 
  <p class="updated_time"> 06:02 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/democrats-cruz-hawley-biden-ambassadors-524220">Dems launch talks to break Cruz-Hawley blockade of Biden ambassadors</a> Politico: But while the price for one GOP 2024 contender's help is clear, another is less open about what it'll take to ease his holds. 
  <p class="updated_time"> 05:47 PM CT, Dec. 14 </p> 
