@@ -225,7 +225,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
  <p class="updated_time"> 12:13 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/abortion-pill-rules-reproductive-rights-524680">Looming abortion pill rules could recast reproductive rights battle</a> Politico: Regulators are due to decide Thursday whether to uphold, revise or scrap longstanding restrictions on the abortion drug mifepristone 
+ <a href="https://www.politico.com/news/2021/12/15/abortion-pill-rules-reproductive-rights-524680">'Quite hopeful': Abortion pill decision could reshape reproductive health war</a> Politico: Regulators are due to decide Thursday whether to uphold, revise or scrap longstanding restrictions on the abortion drug mifepristone. 
  <p class="updated_time"> 11:46 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-kentucky-tornado.html">Biden Visits Kentucky to See Storm Damage</a> NYT: President Biden is visiting the state in an effort to offer comfort to victims and highlight the federal government’s response to devastating tornadoes. 
  <p class="updated_time"> 11:39 AM CT, Dec. 15 </p> 
@@ -314,6 +314,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/14/politics/build-back-better-problems/index.html">Democrats face mounting obstacles to finishing social safety net bill before Christmas -- and it's not just Manchin</a> CNN: As Democrats race to finish the President's Build Back Better legislation before the Christmas recess and convince a skeptical West Virginia Sen. Joe Manchin, there are other obstacles piling up that could prevent them from meeting their self-imposed deadline. 
  <p class="updated_time"> 05:47 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/senate-races-2022.html">10 Senate Races to Watch in 2022</a> NYT: Democrats have a razor-thin margin that could be upended with the loss of a single seat. 
+ <p class="updated_time"> 05:45 PM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/trump-tax-returns-legal-524235">Judge scraps Trump lawsuit to shield tax returns from Congress</a> Politico: But the judge stayed the impact of his ruling for 14 days. 
  <p class="updated_time"> 05:44 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/january-6-trump-charges-what-matters/index.html">January 6 committee seeks accountability for 2020. Trump backers seek control of 2024</a> CNN: Fox News personalities and Donald Trump Jr. may downplay the January 6 insurrection now, but as it was happening, they were frantically sending text messages to former White House chief of staff Mark Meadows. 
  <p class="updated_time"> 05:44 PM CT, Dec. 14 </p> 
@@ -386,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1055186046/census-bureau-leadership-racial-diversity-staff-senior-executive-service-ses">The federal agency that measures racial diversity is led mostly by white people</a> NPR: While the Census Bureau's set to have its first director who's Latinx, an NPR analysis finds people of color are underrepresented in the top rank of civil servants at the country's main data producer. 
  <p class="updated_time"> 10:25 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/remain-in-mexico-appeals-court/index.html">Appeals court rules against Biden admin's termination of 'remain in Mexico' policy</a> CNN: The 5th US Circuit Court of Appeals on Monday night ruled against the Biden administration's bid to terminate the Trump-era "remain in Mexico" policy, which requires non-Mexican migrants to stay in Mexico until their US immigration court dates. 
- <p class="updated_time"> 09:21 PM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/jan-6-rally-organizers-sue-verizon-524189">Jan. 6 rally organizers sue Verizon to block release of cell phone data to congressional committee</a> Politico: The lawsuit said the plaintiffs have personally complied with the committee’s investigation. 
  <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/hes-got-to-condemn-this-shit-panel-releases-urgent-jan-6-texts-from-trump-jr-lawmakers-524188">‘He’s got to condemn this …’: Panel releases urgent Jan. 6 texts from Donald Trump Jr., lawmakers and Fox hosts</a> Politico: House investigators held Mark Meadows in criminal contempt after releasing a trove of messages aimed at getting President Trump to take stronger action amid the Capitol riot. 
  <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
