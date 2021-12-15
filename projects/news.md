@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:49 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/coronavirus-omicron-vaccines-wave.html">Coronavirus Briefing: Omicron vs. vaccines</a> NYT: And the coming Omicron wave. 
  <p class="updated_time"> 04:17 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064639376/biden-will-nominate-michelle-kwan-and-caroline-kennedy-for-ambassador-posts">Biden will nominate Michelle Kwan and Caroline Kennedy for ambassador posts</a> NPR: The president will nominate Kwan, a two-time Olympic medalist figure skater, to serve as U.S. ambassador to Belize. He's tapping Kennedy to be ambassador to Australia. 
  <p class="updated_time"> 03:44 PM CT, Dec. 15 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/us/50-million-covid-cases.html">At Least 50 Million Total Coronavirus Cases Have Been Found in the U.S.</a> NYT: It is almost certainly a substantial undercount, since many infected people have no symptoms or mistake them for those of another illness, and not everyone gets tested. 
  <p class="updated_time"> 02:26 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/switzerland-money-laundering-case-juan-carlos.html">Swiss Prosecutors Drop Money-Laundering Case Against Former Spanish King</a> NYT: A criminal inquiry into allegations that Spain’s former king laundered illegal commission payments from Saudi Arabia related to a high-speed rail deal was closed because of insufficient evidence. 
- <p class="updated_time"> 01:57 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/europe/denmark-immigration-minister-migrants-prison.html">Former Immigration Minister in Denmark Sentenced to Prison for Separating Couples</a> NYT: Inger Stojberg was sentenced to two months’ incarceration after being found by a court to have illegally ordered the separations of married migrant couples in which at least one person was underage. 
 
 
 </details>
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats' filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
  <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/trump-january-6-obstruction-law-524806">Jan. 6 investigators mull whether Trump violated obstruction law</a> Politico: Rep. Liz Cheney (R-Wyo.) raised the question using precise terminology from the criminal statute that some view as possibly applicable to the former president's actions. 
  <p class="updated_time"> 05:04 PM CT, Dec. 15 </p> 
@@ -438,8 +440,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/09/why-tongues-are-wagging-inside-the-house-gop-495402"> Why tongues are wagging inside the House GOP</a> Politico Playbook: And Biden kicks off his Summit for Democracy. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators’ new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
- <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/biden-workplace-vaccine-mandate-senate-523990">Senate issues rebuke of Biden's workplace vaccine mandate</a> Politico: Most Democrats blasted the repeal effort as “ridiculous” and “anti-science,” and warned it would prolong the pandemic and facilitate the emergence of new Covid variants. 
 
 
 </details>
