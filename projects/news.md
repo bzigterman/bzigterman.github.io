@@ -202,7 +202,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:36 PM CT, Dec. 15 </p> 
+ <p class="updated_time"> 02:38 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/business/economy/inflation-fed-fomc-meeting-december-2021.html">Fed Could Raise Rates 3 Times in 2022, Speeds End of Bond-Buying</a> NYT: Federal Reserve officials suggested as many as three interest rate increases in 2022 as the economy heals and inflation persists. 
  <p class="updated_time"> 02:28 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/senate-vote-ndaa/index.html">Senate passes annual defense bill authorizing $770 billion in Pentagon funding</a> CNN: The National Defense Authorization Act, the annual must-pass defense bill that authorizes $770 billion in funding for the Defense Department, is set to pass the Senate on Wednesday with a bipartisan vote. 
