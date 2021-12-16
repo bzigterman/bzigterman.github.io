@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:37 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Panel Recommends Other Covid Vaccines Over J.&J.’s Shots</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
  <p class="updated_time"> 05:29 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/coronavirus-omicron-variant.html">As Omicron Surges, a Race to Gauge the Threat</a> NYT: The variant will spread quickly through the United States, experts say. What happens after that is less certain. 
  <p class="updated_time"> 05:26 PM CT, Dec. 16 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59692776?at_medium=RSS&at_campaign=KARANGA">US panel recommends J&J shots be sidelined after clot deaths</a> BBC: Nine people have died from extremely rare side effects linked to Johnson & Johnson's jab. 
  <p class="updated_time"> 05:04 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59692022?at_medium=RSS&at_campaign=KARANGA">Philippines typhoon Rai: Month-old baby rescued in a tub</a> BBC: Thousands have been evacuated as the storm brought 165km/h (103 mph) winds and heavy rain. 
- <p class="updated_time"> 05:00 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Panel Recommends Other Covid Vaccines Over J.&J.’s Shots</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
  <p class="updated_time"> 04:44 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
  <p class="updated_time"> 04:30 PM CT, Dec. 16 </p> 
@@ -45,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59687427?at_medium=RSS&at_campaign=KARANGA">Millipede with more legs than any known animal discovered in Australia</a> BBC: The millipede, discovered in Australia, has more than 1,300 legs and is believed to live on fungi. 
  <p class="updated_time"> 12:55 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">Bouncy Castle in Tasmania Is Swept by Wind, Killing 5 Children</a> NYT: A gust of wind swept up the inflatable on the last day of school, and the students fell more than 30 feet. Several others were critically injured. 
+ <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
+ <a href="https://www.wsj.com/articles/haitian-kidnappers-release-remaining-12-missionary-hostages-11639672433">Haitian Kidnappers Release Remaining 12 Missionary Hostages</a> WSJ: Missionary group and Haitian police say that the hostages were released on Thursday and are safe. Five others were freed in recent weeks. 
  <p class="updated_time"> 11:33 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/omar-raddad-cote-dazur-dna-france.html">Judges in France Order the Reopening of an Enduring Murder Mystery</a> NYT: The conviction of Omar Raddad in the killing of a socialite in the French Riviera three decades ago will be re-examined after his lawyers presented new DNA evidence they say exonerates him. 
  <p class="updated_time"> 11:31 AM CT, Dec. 16 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: The Office of Civil Defense said that nearly 100,000 people in several regions had been evacuated. There was no immediate word on casualties. 
  <p class="updated_time"> 09:18 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html">‘They Were Just Gone’: Two Baby Boys Survive Tornado in Kentucky</a> NYT: Without a basement, Clara Lutz of Barnsley, Ky., sheltered her infant grandsons in the bathtub for safety. A powerful tornado pulled the tub from her grip and sent the babies flying. 
- <p class="updated_time"> 09:07 AM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/haitian-kidnappers-release-remaining-12-missionary-hostages-11639672433">Haitian Kidnappers Release Remaining 12 Missionary Hostages</a> WSJ: Missionary group and Haitian police say that the hostages were released on Thursday and are safe. Five others were freed in recent weeks. 
  <p class="updated_time"> 08:32 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/ishigaki-japan-missiles-taiwan.html">The Island Paradise Near the Front Line of Tensions Over Taiwan</a> NYT: New missile batteries planned for the Japanese island of Ishigaki reflect a drastic shift in Japan’s views on China. 
  <p class="updated_time"> 08:30 AM CT, Dec. 16 </p> 
@@ -81,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/ecb-boosts-bond-purchases-as-it-phases-out-pandemic-stimulus-11639659416">Europe's Top Central Banks Take Different Tacks on Inflation</a> WSJ: The Bank of England became the first major central bank to raise its benchmark interest rate since the pandemic began, while the ECB said it would phase out an emergency bond-buying program while ramping up other stimulus measures. 
  <p class="updated_time"> 06:55 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/queen-elizabeth-christmas-lunch-canceled-covid.html">Queen Elizabeth cancels traditional pre-Christmas lunch as cases surge in England.</a> NYT: Palace officials said it was a precautionary measure to avoid putting royal family members at risk by bringing a large group together at Windsor Castle. 
- <p class="updated_time"> 06:20 AM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59683904?at_medium=RSS&at_campaign=KARANGA">Super typhoon Rai: Thousands flee as storm lashes southern Philippines</a> BBC: People take shelter amid warnings the storm will cause widespread flooding and destruction. 
  <p class="updated_time"> 06:03 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59683538?at_medium=RSS&at_campaign=KARANGA">Santa Claus delivers presents to children in Peru... via a fire ladder</a> BBC: This Santa Claus in Lima, Peru, uses a special way to deliver presents to children with Covid. 
  <p class="updated_time"> 05:57 AM CT, Dec. 16 </p> 
@@ -187,6 +185,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59665125?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Dozens stranded on roof after World Trade Centre fire</a> BBC: Footage obtained by the BBC shows people crowded amongst the roof's scaffolding awaiting rescue. 
  <p class="updated_time"> 08:14 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/italy-bishop-santa-claus.html">Italian Bishop Gives Children Harsh News: There Is No Santa Claus</a> NYT: You’ve been lied to, children heard from a bishop, the latest Catholic clergyman to try to take down Santa Claus and consumerism. Many Italians were not pleased. 
+ <p class="updated_time"> 06:12 PM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59646562?at_medium=RSS&at_campaign=KARANGA">Southern right whales: Tracking unexpected Southern Ocean migrations</a> BBC: New Zealand scientists have used satellite tags to follow whales around the Southern Ocean. 
  <p class="updated_time"> 03:30 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/climate/arctic-report-card-climate-change.html">Trends in Arctic Report Card: ‘Consistent, Alarming and Undeniable’</a> NYT: The changes happening at the top of the planet could unfold elsewhere in the years to come, scientists report. 
  <p class="updated_time"> 02:41 PM CT, Dec. 14 </p> 
