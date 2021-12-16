@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:45 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html">NATO Signals Support for Ukraine Amid Russia Threat</a> NYT: The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion. 
  <p class="updated_time"> 07:04 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: The Office of Civil Defense said that nearly 100,000 people in several regions had been evacuated. There was no immediate word on casualties. 
  <p class="updated_time"> 07:02 AM CT, Dec. 16 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59683538?at_medium=RSS&at_campaign=KARANGA">Santa Claus delivers presents to children in Peru... via a fire ladder</a> BBC: This Santa Claus in Lima, Peru, uses a special way to deliver presents to children with Covid. 
  <p class="updated_time"> 05:57 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59681409?at_medium=RSS&at_campaign=KARANGA">Dutch royals regret holding party amid surge in Covid cases</a> BBC: The party was held to celebrate the 18th birthday of the country's heir apparent, Princess Amalia. 
- <p class="updated_time"> 05:50 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html">NATO Signals Support for Ukraine Amid Russia Threat</a> NYT: The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion. 
  <p class="updated_time"> 05:48 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html">Hu Xijin, Chief of China's Global Times, Will Retire</a> NYT: Hu Xijin, editor of the Communist Party tabloid Global Times and pioneer of the country’s fiery online posturing, is retiring from his role. 
  <p class="updated_time"> 05:34 AM CT, Dec. 16 </p> 
@@ -269,7 +269,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats' filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
  <p class="updated_time"> 05:31 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/omicron-delta-covid-19-what-matters/index.html">Analysis: Delta plus Omicron spells trouble</a> CNN: Colleges sending students home. Sports leagues canceling games and scrambling to deal with Covid-19 outbreaks. States returning to mask requirements. 
+ <a href="https://www.cnn.com/2021/12/15/politics/omicron-delta-covid-19-what-matters/index.html">Delta plus Omicron spells trouble</a> CNN: Colleges sending students home. Sports leagues canceling games and scrambling to deal with Covid-19 outbreaks. States returning to mask requirements. 
  <p class="updated_time"> 05:30 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/navy-covid-vaccine-sailors-discharging/index.html">Navy to begin discharging sailors who refuse Covid-19 vaccine</a> CNN: The US Navy will begin discharging sailors who refuse to get vaccinated against Covid-19, just as the Air Force announced earlier this week that they had discharged service members for failing to get vaccinated. 
  <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
