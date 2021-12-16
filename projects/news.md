@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:44 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
  <p class="updated_time"> 04:30 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59688787?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: 'False memory' expert testifies for defence</a> BBC: Defence attorneys say Ms Maxwell's accusers fell prey to money, manipulation and lapses in memory. 
  <p class="updated_time"> 04:28 PM CT, Dec. 16 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
  <p class="updated_time"> 03:45 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html">NATO Signals Support for Ukraine Amid Russia Threat</a> NYT: The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion. 
- <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
  <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064951653/all-17-missionaries-kidnapped-by-a-gang-in-haiti-have-been-released">All 17 missionaries kidnapped by a gang in Haiti have been released</a> NPR: All 17 of the missionaries kidnapped in Haiti two months ago have now been freed. Violence and kidnapping have spiked in Haiti following the assassination of its president in July. 
  <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:44 PM CT, Dec. 16 </p> 
+ <a href="https://www.politico.com/news/2021/12/16/jan-6-meadows-525172">Jan. 6 committee subpoenas author of debunked election-fraud PowerPoint sent to Meadows</a> Politico: James P. “Phil” Waldron, a retired Army colonel, is asked to provide documents by Jan. 10 and sit for a deposition. 
  <p class="updated_time"> 05:16 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/fda-abortion-pill-loosen-rules-525164">FDA loosens rules for distributing abortion pills, opening new battle fronts</a> Politico: Heightening the stakes is the Supreme Court’s pending decision on Mississippi’s 15-week abortion ban. 
  <p class="updated_time"> 04:34 PM CT, Dec. 16 </p> 
@@ -208,10 +210,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/cdc-covid-vaccine-johnson-525153">CDC advisers recommend mRNA Covid vaccines over J&J shot amid blood clot risks</a> Politico: CDC Director Rochelle Walensky must now decide whether to accept the panel's recommendation. 
  <p class="updated_time"> 04:33 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/phil-waldron-jan-6.html">Jan. 6 Panel Subpoenas Retired Colonel Who Shared Plan to Overturn Election</a> NYT: Phil Waldron has been under scrutiny since a 38-page PowerPoint he circulated was turned over to the panel by former President Donald J. Trump’s last chief of staff. 
+ <p class="updated_time"> 04:33 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/joe-biden-warning-winter/index.html">Biden warns of winter of 'severe illness and death' for unvaccinated due to Omicron </a> CNN: President Joe Biden said on Thursday warned people who are not vaccinated against Covid-19 are looking at a very bleak and dangerous winter if they do not get their shots soon. 
  <p class="updated_time"> 04:23 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/medication-abortion-fda-supreme-court/index.html">FDA says abortion pills can be sent by mail</a> CNN: With the Supreme Court poised to undo its abortion rights precedent, the Biden administration is considering a move that could mitigate the fallout from a Roe v. Wade reversal. And red states are already on the march to counteract whatever the federal government opts to do. 
  <p class="updated_time"> 04:13 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/abortion-pills-fda.html">F.D.A. Will Permanently Allow Abortion Pills by Mail</a> NYT: The decision will broaden access to medication abortion, an increasingly common method, but many conservative states are already mobilizing against it. 
+ <p class="updated_time"> 04:08 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/joe-manchin-offshore-drilling/index.html">Manchin moves to strike offshore drilling ban from Senate bill</a> CNN: The Senate Energy and Natural Resources committee -- chaired by Sen. Joe Manchin of West Virginia -- has struck a House-passed provision in the Build Back Better Act to ban all future off-shore drilling off the Atlantic, Pacific and Gulf Coasts, a source close to Manchin confirmed to CNN. 
  <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
  <p class="updated_time"> 03:53 PM CT, Dec. 16 </p> 
@@ -314,12 +320,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/business/economy/inflation-fed-fomc-meeting-december-2021.html">Fed Could Raise Rates 3 Times in 2022 and Speeds End of Bond-Buying</a> NYT: With the economy healing, but price gains pinching consumers, officials are dialing back bond purchases and getting in position to raise interest rates (three are possible next year). 
  <p class="updated_time"> 08:55 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/trump-meadows-republicans-congress-jan-6.html">Meadows and the Band of Loyalists: How They Fought to Keep Trump in Power</a> NYT: A small circle of Republican lawmakers, working closely with President Donald J. Trump’s chief of staff, took on an outsize role in pressuring the Justice Department, amplifying conspiracy theories and flooding the courts in an attempt to overturn the 2020 election. 
- <p class="updated_time"> 08:24 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/jeff-jackson-north-carolina-senate-race-524970">Jeff Jackson drops out of North Carolina Senate race</a> Politico: Jackson, who faced a difficult primary against former state Supreme Court Justice Cheri Beasley, called donors to inform them of his decision on Wednesday before ending his campaign on Thursday. 
- <p class="updated_time"> 07:50 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/yuma-arizona-migrants/index.html">A dramatic increase in number of migrants seeking asylum in Arizona overwhelms Border Patrol</a> CNN: Under the shadow of the border wall, dozens of migrants raced to get in line as they spotted the glimmer of vehicle lights down the road. US Border Patrol agents were on the way. 
- <p class="updated_time"> 07:30 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/photographer-sues-jan-6-committee-524922">Photographer sues House Jan. 6 committee over subpoena</a> Politico: Freelancer Amy Harris seeks to block panel from obtaining metadata on her cell phone calls and texts. 
  <p class="updated_time"> 06:44 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/democrats-social-policy-bill-2022.html">Manchin Balks on Social Policy Bill; Democrats May Punt to 2022</a> NYT: A self-imposed Christmas deadline for action on the $2.2 trillion social safety net, climate and tax package appeared likely to slip as negotiations with the West Virginia Democrat faltered. 
  <p class="updated_time"> 06:40 PM CT, Dec. 15 </p> 
@@ -344,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/15/1064614645/the-texts-fox-hosts-sent-during-the-jan-6-riot-dont-match-how-fox-covered-it-on-">The texts Fox hosts sent during the Jan. 6 riot don't match how Fox covered it on air</a> NPR: Fox hosts sent desperate messages during the Capitol riot, urging Trump to act. The messages are a stark contrast to the way Fox has covered the insurrection on air. 
  <p class="updated_time"> 04:01 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/health-care-spending-increase-pandemic-524793">Health spending growth more than doubled in first year of pandemic</a> Politico: Nearly the entire increase came from the burst of federal spending as the government mobilized to contain the spread of the virus. 
- <p class="updated_time"> 03:55 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/us-define-statelessness/index.html">US promises to define 'statelessness,' a first for the federal government </a> CNN: The United States is committing for the first time to defining "statelessness" and increasing protections for stateless people in the US, the Department of Homeland Security announced Wednesday. 
  <p class="updated_time"> 03:55 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064579018/jfk-assassination-archives-documents">The Archives has released nearly 1,500 new documents on JFK's assassination</a> NPR: They contain memos from meetings with informants, mostly of interest to historians and researchers. No evidence is expected that would put in doubt that Lee Harvey Oswald was the lone gunman. 
  <p class="updated_time"> 03:54 PM CT, Dec. 15 </p> 
