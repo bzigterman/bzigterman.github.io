@@ -206,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/chamber-ad-manchin-build-back-better-525129">Chamber launches ads targeting Manchin, hoping to kill Build Back Better</a> Politico: The group got a huge win with the infrastructure bill. Now, they want the legislative spigot to go dry. 
+ <p class="updated_time"> 01:14 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
  <p class="updated_time"> 01:11 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/crackdown-on-chinas-treatment-of-muslim-minority-headed-to-bidens-desk-525094">Crackdown on China's treatment of Muslim minority headed to Biden's desk</a> Politico: The legislation, which faced a bumpy road to passage, effectively bans all imports from China’s Xinjiang region. 
  <p class="updated_time"> 12:57 PM CT, Dec. 16 </p> 
@@ -230,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/16/politics/biden-signs-debt-limit-increase/index.html">Biden signs debt limit increase</a> CNN: President Joe Biden on Thursday signed the bill raising the debt limit ceiling that passed Congress earlier this week, according to a press release from the White House. 
  <p class="updated_time"> 12:12 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/donald-trump-january-6-committee-republicans-fox-news/index.html">Analysis: How the January 6 committee finally exposed Trump's empire of lies</a> CNN: If politics still turned on truth and facts, this would be the week when the lie-filled foundations of Donald Trump's movement imploded, destroying his apparent dream of a return to power after the 2024 election. 
- <p class="updated_time"> 12:12 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/patent-office-software-vulnerability/index.html">US Patent office took its systems offline for 12 hours due to newly revealed software vulnerability</a> CNN: The US Patent and Trademark Office on Wednesday night shut down external access to its computer systems for 12 hours in response to a critical software vulnerability that is roiling the internet, the office said Thursday. 
  <p class="updated_time"> 12:09 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/rep-jim-jordan-january-6-text/index.html">The Point: Jim Jordan helped plot the coup. Now he's in line to be one of the most powerful members of Congress.</a> CNN: If Republicans win the House majority next November -- and they are currently favored to do so -- then Ohio Rep. Jim Jordan will almost certainly rise to one of the most prominent positions in the chamber: Chairman of the Judiciary Committee. 
  <p class="updated_time"> 12:09 PM CT, Dec. 16 </p> 
@@ -281,7 +281,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:09 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064751751/examining-the-impact-from-this-weeks-capitol-attack-revelations">Examining the impact from this week's revelations from the Capitol attack</a> NPR: NPR's Steve Inskeep talks to Jonah Goldberg of the conservative news site The Dispatch, about revelations from the House panels' investigation into the Jan. 6 attack on the U.S. Capitol. 
  <p class="updated_time"> 04:07 AM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/supreme-court-political-moment/index.html">Analysis: The current Supreme Court's partisan moment rivals Bush v. Gore</a> CNN: The country is not ready for what's coming next from the Supreme Court. 
+ <a href="https://www.cnn.com/2021/12/16/politics/supreme-court-political-moment/index.html">The current Supreme Court's partisan moment rivals Bush v. Gore</a> CNN: The country is not ready for what's coming next from the Supreme Court. 
  <p class="updated_time"> 04:01 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064697725/the-white-house-aims-to-boost-the-ranks-of-the-pandemic-strained-trucking-indust">The White House aims to boost the ranks of the pandemic-strained trucking industry</a> NPR: The plan is part of the Biden administration's efforts to improve the nation's ongoing supply chain problems. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
@@ -300,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/15/politics/yuma-arizona-migrants/index.html">A dramatic increase in number of migrants seeking asylum in Arizona overwhelms Border Patrol</a> CNN: Under the shadow of the border wall, dozens of migrants raced to get in line as they spotted the glimmer of vehicle lights down the road. US Border Patrol agents were on the way. 
  <p class="updated_time"> 07:30 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/photographer-sues-jan-6-committee-524922">Photographer sues House Jan. 6 committee over subpoena</a> Politico: Freelancer Amy Harris seeks to block panel from obtaining metadata on her cell phone calls and texts. 
- <p class="updated_time"> 07:21 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/new-jfk-files-bring-more-frustration-than-enlightenment-524838">New JFK files bring more frustration than enlightenment</a> Politico: The disclosure of the 1,491 documents by the National Archives about the assassination follows an executive order from President Joe Biden. 
  <p class="updated_time"> 06:44 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/democrats-social-policy-bill-2022.html">Democrats Ready to Punt Social Policy Bill to 2022 as Manchin Balks</a> NYT: A self-imposed Christmas deadline for action on the $2.2 trillion social safety net, climate and tax package appeared likely to slip as negotiations with the West Virginia Democrat faltered. 
  <p class="updated_time"> 06:40 PM CT, Dec. 15 </p> 
@@ -315,13 +313,11 @@ permalink: /projects/news/
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats’ filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
  <p class="updated_time"> 05:31 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/omicron-delta-covid-19-what-matters/index.html">Analysis: Preparing for a Delta/Omicron double surge</a> CNN: Colleges sending students home. Sports leagues canceling games and scrambling to deal with Covid-19 outbreaks. States returning to mask requirements. 
+ <a href="https://www.cnn.com/2021/12/15/politics/omicron-delta-covid-19-what-matters/index.html">Preparing for a Delta/Omicron double surge</a> CNN: Colleges sending students home. Sports leagues canceling games and scrambling to deal with Covid-19 outbreaks. States returning to mask requirements. 
  <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/trump-january-6-obstruction-law-524806">Jan. 6 investigators mull whether Trump violated obstruction law</a> Politico: Rep. Liz Cheney (R-Wyo.) raised the question using precise terminology from the criminal statute that some view as possibly applicable to the former president's actions. 
  <p class="updated_time"> 05:04 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/omicron-covid-testing-524820">HHS forecast shows Omicron stretching U.S. Covid testing supply</a> Politico: The nation's supply could be stretched by the need to conduct 3 to 5 million tests per day by late January or early February. 
- <p class="updated_time"> 04:45 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/eric-adams-mayor-health-new-york-524802">New York’s next mayor wants to save the city from the evils of olive oil</a> Politico: “We can save more lives with plant-based diet if people would only realize they are enslaved to fats, oil, sugar and things that are killing their body,” Adams said in a short 2018 film. 
  <p class="updated_time"> 04:25 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064614659/house-members-want-lauren-boebert-removed-from-assignments-over-islamophobic-com">House members want Lauren Boebert removed from assignments over Islamophobic comments</a> NPR: House Democratic leaders may bring up a resolution to remove Colorado Republican Representative Lauren Boebert from her committee assignments over her Islamophobic comments. 
  <p class="updated_time"> 04:17 PM CT, Dec. 15 </p> 
@@ -331,15 +327,13 @@ permalink: /projects/news/
  <p class="updated_time"> 04:01 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/health-care-spending-increase-pandemic-524793">Health spending growth more than doubled in first year of pandemic</a> Politico: Nearly the entire increase came from the burst of federal spending as the government mobilized to contain the spread of the virus. 
  <p class="updated_time"> 03:55 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/us-define-statelessness/index.html">US promises to define 'statelessness,' a first for the federal government </a> CNN: The United States is committing for the first time to defining "statelessness" and increasing protections for stateless people in the US, the Department of Homeland Security announced Wednesday. 
+ <p class="updated_time"> 03:55 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064579018/jfk-assassination-archives-documents">The Archives has released nearly 1,500 new documents on JFK's assassination</a> NPR: They contain memos from meetings with informants, mostly of interest to historians and researchers. No evidence is expected that would put in doubt that Lee Harvey Oswald was the lone gunman. 
  <p class="updated_time"> 03:54 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064598531/the-fda-could-permanently-lift-some-restrictions-on-abortion-pills">The FDA could permanently lift some restrictions on abortion pills</a> NPR: The abortion pill mifepristone was approved in 2000 but still faces layers of restrictions. Advocates want the FDA to permanently allow patients to receive the pill by mail instead of in person. 
- <p class="updated_time"> 03:52 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/january-6-militia-capitol-police-assault/index.html">January 6 rioter charged with assaulting Capitol police in fight that left officer unconscious</a> CNN: Two Texas men, Lucas Denney and Donald Hazard, who prosecutors say formed their own militia group called the "Patriot Boys of North Texas," were arrested Monday for allegedly assaulting police officers during the January 6 riot at the US Capitol. 
  <p class="updated_time"> 03:41 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064614631/biden-promised-government-support-after-visiting-areas-hit-by-tornadoes-in-kentu">Biden promised government support after visiting areas hit by tornadoes in Kentucky</a> NPR: President Biden toured areas of western Kentucky damaged by a series of powerful tornadoes on Dec. 10 and 11. The president promised the federal government would be there to help people. 
- <p class="updated_time"> 03:40 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/build-back-better-bill-inflation/index.html">What Biden's Build Back Better bill could mean for inflation</a> CNN: Soaring inflation has become a political problem for President Joe Biden's Build Back Better bill, with critics pointing to the rise in prices as a reason why it's the wrong time for Congress to authorize some $1.75 trillion in new spending. 
  <p class="updated_time"> 03:33 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/biden-manchin-megabill-524776">‘Going very poorly’: Biden can't nail Manchin down on Dems’ bill</a> Politico: President Joe Biden is running out of patience as Sen. Joe Manchin continues to drag his feet on supporting the party's domestic spending legislation. 
  <p class="updated_time"> 03:28 PM CT, Dec. 15 </p> 
@@ -352,6 +346,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/us/politics/guantanamo-bay-cia-prisoners.html">U.S. Waited Months to Book C.I.A. Prisoners at Guantánamo Bay</a> NYT: Defense lawyers said the delay cast into doubt whether samples taken from the captives could be considered valid evidence. 
  <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
+ <p class="updated_time"> 11:10 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/cnn-poll-economy/index.html">CNN Poll: Most say government is doing too little to fix inflation and the supply chain</a> CNN: Americans' impressions of the nation's economy remain gloomy and broad majorities think the federal government has done too little to try to solve problems with the nation's supply chain and rising inflation, according to a new CNN Poll conducted by SSRS. 
  <p class="updated_time"> 11:07 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/jill-biden-waukesha/index.html">Jill Biden to visit victims of Waukesha Christmas parade tragedy and push Covid-19 vaccinations</a> CNN: First lady Jill Biden is traveling to Wisconsin on Wednesday in part to comfort victims and families of the November Christmas parade tragedy in Waukesha. 
  <p class="updated_time"> 10:43 AM CT, Dec. 15 </p> 
