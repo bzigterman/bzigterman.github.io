@@ -16,9 +16,9 @@ permalink: /projects/news/
  <p class="updated_time"> 09:53 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">2 Children Die in Inflatable Castle Accident in Tasmania</a> NYT: The students fell 33 feet from a jumping castle that was lifted into the air by a gust of wind, the authorities said. Several others were critically injured. 
  <p class="updated_time"> 09:41 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59663827?at_medium=RSS&at_campaign=KARANGA">Beijing 2022: Putin tells Xi he will attend Winter Olympics</a> BBC: The Russian president is the first major western leader to indicate his attendance at the Games. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59663827?at_medium=RSS&at_campaign=KARANGA">Beijing 2022: Putin tells Xi he will attend Winter Olympics</a> BBC: The Russian president is one of the first major world leaders to indicate his attendance at the Games. 
  <p class="updated_time"> 09:34 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Tasmania bouncy castle fall: Two children killed and several others injured</a> BBC: Other children are badly injured after wind blew the castle into the air, causing them to fall 10m. 
+ <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Tasmania bouncy castle fall: Four children killed and several others injured</a> BBC: Other children are injured after wind blew the castle into the air, causing them to fall 10m. 
  <p class="updated_time"> 07:00 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59677675?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: EU to warn Moscow against action</a> BBC: European leaders meeting in Brussels are expected to say hostile action could come at a "high price". 
  <p class="updated_time"> 06:44 PM CT, Dec. 15 </p> 
