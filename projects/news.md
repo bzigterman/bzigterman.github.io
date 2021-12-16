@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:56 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
  <p class="updated_time"> 03:45 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html">NATO Signals Support for Ukraine Amid Russia Threat</a> NYT: The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion. 
  <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/middleeast/turkish-lira-currency-erdogan-turkey.html">Turkish Currency Hits a New Low, Again</a> NYT: The Central Bank has cut interest rates, even as inflation continues to soar, deepening President Erdogan’s disputed economic plan and setting off a new plunge in the lira. 
  <p class="updated_time"> 10:54 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064842364/haiti-kidnapped-missionaries-released-free">All of the kidnapped missionaries in Haiti have now been released</a> NPR: The remaining 12 of the 17 people who had been held hostage in Haiti are free, exactly two months after they were kidnapped by a Haitian gang. 
- <p class="updated_time"> 10:32 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
  <p class="updated_time"> 10:05 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59688404?at_medium=RSS&at_campaign=KARANGA">Claudette Colvin: Civil rights pioneer has record cleared</a> BBC: Claudette Colvin was the first person to be arrested for challenging Montgomery's bus segregation policy 
  <p class="updated_time"> 09:59 AM CT, Dec. 16 </p> 
@@ -204,8 +204,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:34 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/cdc-covid-vaccine-johnson-525153">CDC advisers recommend mRNA Covid vaccines over J&J shot amid blood clot risks</a> Politico: CDC Director Rochelle Walensky must now decide whether to accept the panel's recommendation. 
+ <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
  <p class="updated_time"> 03:50 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/business/economy/omicron-inflation-monetary-policy.html">Omicron Is an Economic Threat, but Inflation Is Worse, Central Bankers Say</a> NYT: Within 24 hours, the Federal Reserve, Bank of England and European Central Bank all stepped forward to deal with price increases. 
+ <a href="https://www.nytimes.com/2021/12/16/business/economy/omicron-inflation.html">Omicron Is an Economic Threat, but Inflation Is Worse, Central Bankers Say</a> NYT: Within 24 hours, the Federal Reserve, Bank of England and European Central Bank all stepped forward to deal with price increases. 
  <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064951646/why-the-cost-of-carbon-is-increasing-and-how-that-affects-climate-policy">Why the cost of carbon is increasing — and how that affects climate policy</a> NPR: NPR's Mary Louise Kelly speaks with Michael Greenstone, professor and director of the Energy Policy Institute at the University of Chicago the impact of the rising cost of carbon on climate policy. 
  <p class="updated_time"> 03:29 PM CT, Dec. 16 </p> 
@@ -232,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/16/1064817505/medal-of-honor-iraq-afghanistan-cashe-celiz-plumlee-biden">Biden awards Medals of Honor to 3 soldiers who served in Iraq and Afghanistan</a> NPR: The medals were given for acts of "gallantry and intrepidity above and beyond the call of duty." Two were awarded posthumously, including one to the first Black recipient since the Vietnam War. 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/chamber-ad-manchin-build-back-better-525129">Chamber launches ads targeting Manchin, hoping to kill Build Back Better</a> Politico: The group got a huge win with the infrastructure bill. Now, they want the legislative spigot to go dry. 
- <p class="updated_time"> 01:14 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
  <p class="updated_time"> 01:11 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/crackdown-on-chinas-treatment-of-muslim-minority-headed-to-bidens-desk-525094">Crackdown on China's treatment of Muslim minority headed to Biden's desk</a> Politico: The legislation, which faced a bumpy road to passage, effectively bans all imports from China’s Xinjiang region. 
  <p class="updated_time"> 12:57 PM CT, Dec. 16 </p> 
