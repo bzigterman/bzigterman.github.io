@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:55 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">Bouncy Castle in Tasmania Is Swept by Wind, Killing 5 Children</a> NYT: A gust of wind swept up the inflatable on the last day of school, and the students fell more than 30 feet. Several others were critically injured. 
+ <p class="updated_time"> 12:46 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
  <p class="updated_time"> 12:27 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59688787?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Defence attorneys begin arguments</a> BBC: A spokesperson for Ms Maxwell said on Wednesday she is "too fragile" to testify in her own defence. 
- <p class="updated_time"> 12:00 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
  <p class="updated_time"> 11:33 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/omar-raddad-cote-dazur-dna-france.html">Judges in France Order the Reopening of an Enduring Murder Mystery</a> NYT: The conviction of Omar Raddad in the killing of a socialite in the French Riviera three decades ago will be re-examined after his lawyers presented new DNA evidence they say exonerates him. 
  <p class="updated_time"> 11:31 AM CT, Dec. 16 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59681409?at_medium=RSS&at_campaign=KARANGA">Dutch royals regret holding party amid surge in Covid cases</a> BBC: The party was held to celebrate the 18th birthday of the country's heir apparent, Princess Amalia. 
  <p class="updated_time"> 05:48 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html">Hu Xijin, Chief of China's Global Times, Will Retire</a> NYT: Hu Xijin, editor of the Communist Party tabloid Global Times and pioneer of the country’s fiery online posturing, is retiring from his role. 
- <p class="updated_time"> 05:32 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">Bouncy Castle in Tasmania Is Swept by Wind, Killing 5 Children</a> NYT: A gust of wind swept up the inflatable on the last day of school, and the students fell more than 30 feet. Several others were critically injured. 
  <p class="updated_time"> 05:17 AM CT, Dec. 16 </p> 
  <a href="https://www.wsj.com/articles/covid-19-surge-slows-european-recovery-but-supply-problems-ease-11639651970">Covid-19 Surge Slows U.S., European Recovery, but Supply Problems Ease</a> WSJ: U.S. business activity continued to expand but at the slowest pace in three months despite strong demand from customers. 
  <p class="updated_time"> 04:48 AM CT, Dec. 16 </p> 
@@ -183,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/africa/omicron-south-africa-study.html">Illnesses Tied to Omicron May Be Milder, Preliminary Study Suggests</a> NYT: The findings, which also show that the new variant partly dodges the Pfizer-BioNTech vaccine, are based on only three weeks of data. Epidemiologists cautioned that the full picture is still emerging. 
  <p class="updated_time"> 08:14 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/italy-bishop-santa-claus.html">Italian Bishop Gives Children Harsh News: There Is No Santa Claus</a> NYT: You’ve been lied to, children heard from a bishop, the latest Catholic clergyman to try to take down Santa Claus and consumerism. Many Italians were not pleased. 
- <p class="updated_time"> 07:56 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/asia/blinken-indonesia-china.html">Blinken, in Indonesia, Stresses Soft Power to Counter China</a> NYT: The U.S. secretary of state seeks to make the case that the United States is a better bet as a partner than China, even if it’s not spending so lavishly in the region. 
  <p class="updated_time"> 06:12 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59646562?at_medium=RSS&at_campaign=KARANGA">Southern right whales: Tracking unexpected Southern Ocean migrations</a> BBC: New Zealand scientists have used satellite tags to follow whales around the Southern Ocean. 
  <p class="updated_time"> 03:30 PM CT, Dec. 14 </p> 
