@@ -63,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/covid-19-surge-slows-european-recovery-but-supply-problems-ease-11639651970">Covid-19 Surge Slows U.S., European Recovery, but Supply Problems Ease</a> WSJ: U.S. business activity continued to expand but at the slowest pace in three months despite strong demand from customers. 
  <p class="updated_time"> 04:48 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064760503/vaccine-skeptics-in-eastern-europe-are-having-a-change-of-heart">Vaccine skeptics in Eastern Europe are having a change of heart</a> NPR: With surging coronavirus infections and countries making it more difficult for the unvacccinated to travel, some vaccine skeptics are now coming around. 
- <p class="updated_time"> 04:42 AM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/eu-leaders-to-warn-russia-to-stay-out-of-ukraine-11639669335">EU Leaders to Warn Russia to Stay Out of Ukraine</a> WSJ: The bloc’s leaders are set to tell Russia it would pay a high cost for carrying out a fresh military intervention, but they will likely sidestep a call from Ukraine’s president to detail the actions they would take to deter the Kremlin. 
  <p class="updated_time"> 04:26 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064743864/in-kashmir-closed-mosque-raises-questions-about-indias-religious-freedom">In Kashmir, closed mosque raises questions about India's religious freedom</a> NPR: For Kashmiri Muslims the Jamia Masjid is a sacred venue, but it's been closed most Fridays for the past two years. The government has said those who manage it couldn't stop anti-India protests there. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
@@ -77,6 +75,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59680797?at_medium=RSS&at_campaign=KARANGA">Bruce Springsteen sells his entire music catalogue for $500m</a> BBC: The star follows in the footsteps of Bob Dylan, Stevie Nicks and Blondie by cashing in on his songs. 
  <p class="updated_time"> 02:30 AM CT, Dec. 16 </p> 
  <a href="https://www.wsj.com/articles/u-s-faces-pressure-to-sanction-myanmars-lucrative-energy-industry-11639661401">U.S. Faces Pressure to Sanction Myanmar's Lucrative Energy Industry</a> WSJ: The oil-and-gas industry is the main source of revenue for the Myanmar’s military, which seized power in a coup earlier this year. 
+ <p class="updated_time"> 02:16 AM CT, Dec. 16 </p> 
+ <a href="https://www.wsj.com/articles/turkeys-currency-crisis-escalates-ahead-of-possible-rate-cut-11639646334">Turkey's Currency Crisis Escalates After Central Bank Cuts Rates</a> WSJ: Turkey’s central bank bowed to political pressure to slash interest rates, defying soaring inflation and deepening a currency crisis that has dogged the economy. 
  <p class="updated_time"> 02:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
  <p class="updated_time"> 12:15 AM CT, Dec. 16 </p> 
@@ -204,14 +204,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">Schumer faces restive Dems as agenda hits brick wall</a> Politico: Democrats doubt they can finish anything on their sweeping spending bill, elections reform and expanding the child tax credit before year's end. 
  <p class="updated_time"> 12:09 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/marines-army-kicked-out-covid-vaccine-525101">More than 100 Marines kicked out of the service for refusing Covid vaccine</a> Politico: The Army also announced Thursday it has fired two battalion commanders over the order. 
+ <p class="updated_time"> 11:47 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/business/trump-spac-lawsuit.html">A former insider at the company merging with Trump Media sues over ‘brazen’ fraud.</a> NYT: A prospective investor in Digital World Acquisition Corp., a special purpose acquisition company that is merging with President Donald J. Trump’s social media start-up, says he was removed from a slate of board nominees without warning and deprived of shares he was owed. 
  <p class="updated_time"> 11:38 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/rep-jim-jordan-january-6-text/index.html">The Point: Jim Jordan helped plot the coup. Now he's in line to be one of the most powerful members of Congress.</a> CNN: If Republicans win the House majority next November -- and they are currently favored to do so -- then Ohio Rep. Jim Jordan will almost certainly rise to one of the most prominent positions in the chamber: Chairman of the Judiciary Committee. 
- <p class="updated_time"> 11:35 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/business/trump-spac-lawsuit.html">A former insider at the company merging with Trump Media sues over ‘brazen’ fraud.</a> NYT: A prospective investor in Digital World Acquisition Corp., a special purpose acquisition company that is merging with President Donald J. Trump’s social media start-up, says he was removed from a slate of board nominees without warning and deprived of shares he was owed. 
  <p class="updated_time"> 11:33 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/trump-lawsuits-january-hearings/index.html">Judge sets January arguments for lawsuits seeking to hold Trump accountable for US Capitol riot</a> CNN: Three lawsuits that seek to hold Donald Trump and his closest advisers accountable for the US Capitol riot are moving forward after months of inaction. 
  <p class="updated_time"> 11:29 AM CT, Dec. 16 </p> 
