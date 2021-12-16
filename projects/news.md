@@ -199,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/health/omicron-cases-denmark-norway.html">Denmark and Norway Predict Drastic Spike in Omicron Cases</a> NYT: Health authorities in Europe are warning of a sharp increase in Omicron cases, adding to an existing surge from the Delta variant. 
  <p class="updated_time"> 02:36 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/50-million-covid-cases.html">At Least 50 Million Total Coronavirus Cases Have Been Found in the U.S.</a> NYT: It is almost certainly a substantial undercount, since many infected people have no symptoms or mistake them for those of another illness, and not everyone gets tested. 
- <p class="updated_time"> 02:26 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/europe/switzerland-money-laundering-case-juan-carlos.html">Swiss Prosecutors Drop Money-Laundering Case Against Former Spanish King</a> NYT: A criminal inquiry into allegations that Spain’s former king laundered illegal commission payments from Saudi Arabia related to a high-speed rail deal was closed because of insufficient evidence. 
 
 
 </details>
