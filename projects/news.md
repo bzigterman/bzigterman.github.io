@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:59 AM CT, Dec. 16 </p> 
+ <a href="https://www.npr.org/2021/12/16/1064793380/passport-renewal-online-president-biden-executive-order">You may soon be able to renew your passport online, instead of sending in documents</a> NPR: A new executive order from President Biden is designed to streamline the process for things like contacting the IRS, enrolling in Social Security online and, yes, renewing your passport. 
+ <p class="updated_time"> 09:56 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/europe/italy-alps-bolzano-covid-vaccination.html">In Italy’s Alps, Traditional Medicine Flourishes, as Does Covid</a> NYT: The province of Bolzano has the country’s highest level of coronavirus infection and lowest vaccination rate, as many people there prefer to rely on the pure air and herbal remedies. 
+ <p class="updated_time"> 09:54 AM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Australia bouncy castle fall: Five children killed and four others injured</a> BBC: Four others are badly injured after wind blew the castle into the air, causing them to fall 10m. 
  <p class="updated_time"> 09:39 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
  <p class="updated_time"> 09:30 AM CT, Dec. 16 </p> 
@@ -37,10 +43,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">Bouncy Castle in Tasmania Is Swept by Wind, Killing 5 Children</a> NYT: A gust of wind swept up the inflatable on the last day of school, and the students fell more than 30 feet. Several others were critically injured. 
  <p class="updated_time"> 04:48 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064760503/vaccine-skeptics-in-eastern-europe-are-having-a-change-of-heart">Vaccine skeptics in Eastern Europe are having a change of heart</a> NPR: With surging coronavirus infections and countries making it more difficult for the unvacccinated to travel, some vaccine skeptics are now coming around. 
+ <p class="updated_time"> 04:47 AM CT, Dec. 16 </p> 
+ <a href="https://www.wsj.com/articles/a-wayward-band-of-otters-wreaks-havoc-in-singapore-11639669661">A Wayward Band of Otters Wreaks Havoc in Singapore</a> WSJ: The recent case of a man who says he was attacked by the smooth-coated animals has divided the city-state over its otter denizens; ‘like piranhas’ 
  <p class="updated_time"> 04:42 AM CT, Dec. 16 </p> 
  <a href="https://www.wsj.com/articles/eu-leaders-to-warn-russia-to-stay-out-of-ukraine-11639669335">EU Leaders to Warn Russia to Stay Out of Ukraine</a> WSJ: The bloc’s leaders are set to tell Russia it would pay a high cost for carrying out a fresh military intervention, but they will likely sidestep a call from Ukraine’s president to detail the actions they would take to deter the Kremlin. 
- <p class="updated_time"> 04:35 AM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Australia bouncy castle fall: Five children killed and four others injured</a> BBC: Four others are badly injured after wind blew the castle into the air, causing them to fall 10m. 
  <p class="updated_time"> 04:26 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064743864/in-kashmir-closed-mosque-raises-questions-about-indias-religious-freedom">In Kashmir, closed mosque raises questions about India's religious freedom</a> NPR: For Kashmiri Muslims the Jamia Masjid is a sacred venue, but it's been closed most Fridays for the past two years. The government has said those who manage it couldn't stop anti-India protests there. 
  <p class="updated_time"> 04:25 AM CT, Dec. 16 </p> 
@@ -159,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/asia/north-korea-kpop-executions.html">North Korea Executes People for Watching K-Pop, Rights Group Says</a> NYT: At least seven people have been put to death in the past decade for watching or distributing K-pop videos, as the North cracks down on what its leader calls a “vicious cancer.” 
  <p class="updated_time"> 04:06 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064386048/the-irc-says-afghanistan-is-in-dire-need-of-humanitarian-aid">The IRC says Afghanistan is in dire need of humanitarian aid</a> NPR: The International Rescue Committee, an aid group, says Afghanistan tops the countries of concern list for the next year. And the global picture for humanitarian workers is getting more challenging. 
- <p class="updated_time"> 04:06 AM CT, Dec. 15 </p> 
- <a href="https://www.npr.org/2021/12/15/1064386020/bangladesh-is-marking-5-decades-since-the-end-of-the-war-that-created-the-countr">Bangladesh is marking 5 decades since the end of the war that created the country</a> NPR: Fifty years since its birth, Bangladesh has gone from what U.S. diplomats famously called a "basket case," to a rising economy in Asia. The IMF says its GDP may soon exceed Denmark's. 
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/africa/a-times-correspondent-returning-from-south-africa-got-caught-up-in-the-chaotic-response-to-omicron.html">A Times correspondent returning from South Africa got caught up in the chaotic response to Omicron.</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
  <p class="updated_time"> 02:39 AM CT, Dec. 15 </p> 
@@ -198,6 +202,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:59 AM CT, Dec. 16 </p> 
+ <a href="https://www.npr.org/2021/12/16/1064793380/passport-renewal-online-president-biden-executive-order">You may soon be able to renew your passport online, instead of sending in documents</a> NPR: A new executive order from President Biden is designed to streamline the process for things like contacting the IRS, enrolling in Social Security online and, yes, renewing your passport. 
+ <p class="updated_time"> 09:52 AM CT, Dec. 16 </p> 
+ <a href="https://www.npr.org/sections/codeswitch/2021/12/16/1052868316/the-code-switch-team-picks-our-favorite-episodes-from-2021">The Code Switch team picks our favorite episodes from 2021</a> NPR: As we look back at the year, we wanted to share some of our favorite episodes of the pod. This list showcases the episodes that stayed with members of the Code Switch team, even amidst all the churn. 
  <p class="updated_time"> 09:41 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/donald-trump-january-6-committee-republicans-fox-news/index.html">How the January 6 committee finally exposed Trump's empire of lies</a> CNN: If politics still turned on truth and facts, this would be the week when the lie-filled foundations of Donald Trump's movement imploded, destroying his apparent dream of a return to power after the 2024 election. 
  <p class="updated_time"> 09:38 AM CT, Dec. 16 </p> 
@@ -350,14 +358,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/15/politics/black-farmers-debt-relief-disparities/index.html">In a cash flow business, White farmers have the upper hand</a> CNN: Texas cattle rancher Deydra Steans quit her teaching job three years ago to help save her family's farming operations. 
  <p class="updated_time"> 06:19 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/15/a-junkies-guide-to-the-2022-midterms-495470"> A junkie’s guide to the 2022 midterms</a> Politico Playbook: And the House votes to hold Mark Meadows in contempt of Congress. 
- <p class="updated_time"> 04:06 AM CT, Dec. 15 </p> 
- <a href="https://www.npr.org/2021/12/15/1064385999/new-york-city-will-allow-legal-non-citizens-to-vote-in-local-elections">New York City will allow 800,000 noncitizens to vote in local elections</a> NPR: NPR's Rachel Martin talks to Ron Hayduk, a professor of political science at San Francisco State University, about New York City allowing noncitizen immigrants to vote in local elections. 
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/placebo-effect-clinical-care.html">Placebos Are Often Prescribed By Doctors. Are The Actually Effective?</a> NYT: An Australian researcher argues that the medical community has enshrined placebos as “mysterious and highly effective” in clinical care on the basis of flawed research. 
  <p class="updated_time"> 11:41 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/house-islam-omar-perry-boebert-524536">Amid caustic rhetoric, House votes to combat Islamophobia</a> Politico: Rep. Scott Perry accused Rep. Ilhan Omar of connections to terrorism. 
- <p class="updated_time"> 11:35 PM CT, Dec. 14 </p> 
- <a href="https://www.npr.org/2021/12/15/1064114046/congress-votes-to-raise-the-debt-ceiling-punting-the-next-fight-to-2023">Congress votes to raise the debt ceiling, punting the next fight to 2023</a> NPR: Congress approved a measure to increase the debt limit by $2.5 trillion, shifting the deadline for default until after the 2022 midterm elections. 
  <p class="updated_time"> 08:31 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/eastman-sues-jan6-records-524441">Eastman sues Jan. 6 committee and Verizon to prevent release of phone records</a> Politico: A similar lawsuit was filed Monday by four organizers of the Jan. 6 rally, 
  <p class="updated_time"> 07:53 PM CT, Dec. 14 </p> 
