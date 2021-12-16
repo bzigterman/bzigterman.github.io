@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 07:26 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Tasmania jumping castle fall: Child killed and several others injured</a> BBC: Several other children are injured after they fell 10m during a "wind event" in Tasmania, police say. 
+ <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Tasmania bouncy castle fall: Child killed and several others injured</a> BBC: Several other children are injured after they fell 10m during a "wind event" in Tasmania, police say. 
  <p class="updated_time"> 07:00 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59677675?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: EU to warn Moscow against action</a> BBC: European leaders meeting in Brussels are expected to say hostile action could come at a "high price". 
  <p class="updated_time"> 06:44 PM CT, Dec. 15 </p> 
@@ -20,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:13 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-59624540?at_medium=RSS&at_campaign=KARANGA">'If you eat here, you're dining with rats'</a> BBC: Some New Yorkers are cooling on the craze for street-side restaurant sheds, due to noise and vermin. 
  <p class="updated_time"> 06:06 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59672999?at_medium=RSS&at_campaign=KARANGA">Kentucky tornado killed dad moments after phone call</a> BBC: Katie Fields lost her dad in the Kentucky twisters - just after urging him on a call to flee. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59672999?at_medium=RSS&at_campaign=KARANGA">Kentucky tornado killed dad moments after phone call</a> BBC: Katie Fields lost her father in the Kentucky twisters - just after urging him on a call to flee. 
  <p class="updated_time"> 06:05 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59634393?at_medium=RSS&at_campaign=KARANGA">What's behind suicides by thousands of Indian housewives?</a> BBC: Indian women make up 36% of all global suicides in the 15 to 39 years age group. 
  <p class="updated_time"> 06:01 PM CT, Dec. 15 </p> 
@@ -208,6 +208,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:24 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/jeff-jackson-north-carolina-senate-race-524970">Jeff Jackson expected to drop out of North Carolina Senate race</a> Politico: Jackson, who faced a difficult primary against former state Supreme Court Justice Cheri Beasley, called donors to inform them of his decision on Wednesday. 
+ <p class="updated_time"> 08:03 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/biden-kentucky-visit/index.html">Biden says feds will cover 100% of the cost to clean up from Kentucky tornado for the first 30 days of recovery</a> CNN: President Joe Biden will travel to Kentucky on Wednesday in the wake of deadly tornadoes and severe storms that devastated the area, where he'll survey storm damage, meet with victims and deliver remarks. 
+ <p class="updated_time"> 08:01 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/elon-musk-decency-warren-sanders/index.html">Analysis: Elon Musk reveals how decency is dying</a> CNN: Just days removed from being named Time's "Person of the Year," Elon Musk took to Twitter to unleash a litany of personal attacks against Sen. Elizabeth Warren for her call that he should "actually pay taxes." 
+ <p class="updated_time"> 07:56 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/biden-james-comer-kentucky/index.html">A single Kentucky Republican travels with Biden to survey tornado and storm damage</a> CNN: On nearly any other day in Washington, Republican Congressman James Comer would likely be calling for oversight investigations into the Biden administration. 
+ <p class="updated_time"> 07:50 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/yuma-arizona-migrants/index.html">A dramatic increase in number of migrants seeking asylum in Arizona overwhelms Border Patrol</a> CNN: Under the shadow of the border wall, dozens of migrants raced to get in line as they spotted the glimmer of vehicle lights down the road. US Border Patrol agents were on the way. 
  <p class="updated_time"> 07:40 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/business/media/fox-news-trump-january-6.html">Fox News Hosts Take the Offensive About Texts to Meadows</a> NYT: Stars of the most-watched cable channel continued to downplay the Jan. 6 attack and back Donald J. Trump while criticizing the investigation of the Capitol siege. 
  <p class="updated_time"> 07:38 PM CT, Dec. 15 </p> 
@@ -244,22 +252,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
  <p class="updated_time"> 05:31 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/omicron-delta-covid-19-what-matters/index.html">Analysis: Delta plus Omicron spells trouble</a> CNN: Colleges sending students home. Sports leagues canceling games and scrambling to deal with Covid-19 outbreaks. States returning to mask requirements. 
- <p class="updated_time"> 05:30 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/elon-musk-decency-warren-sanders/index.html">Analysis: Elon Musk reveals how decency is dying</a> CNN: Just days removed from being named Time's "Person of the Year," Elon Musk took to Twitter to unleash a litany of personal attacks against Sen. Elizabeth Warren for her call that he should "actually pay taxes." 
  <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/trump-january-6-obstruction-law-524806">Jan. 6 investigators mull whether Trump violated obstruction law</a> Politico: Rep. Liz Cheney (R-Wyo.) raised the question using precise terminology from the criminal statute that some view as possibly applicable to the former president's actions. 
- <p class="updated_time"> 05:15 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/biden-james-comer-kentucky/index.html">A single Kentucky Republican travels with Biden to survey tornado and storm damage</a> CNN: On nearly any other day in Washington, Republican Congressman James Comer would likely be calling for oversight investigations into the Biden administration. 
  <p class="updated_time"> 05:04 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/omicron-covid-testing-524820">HHS forecast shows Omicron stretching U.S. Covid testing supply</a> Politico: The nation's supply could be stretched by the need to conduct 3 to 5 million tests per day by late January or early February. 
  <p class="updated_time"> 05:02 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/democrat-covid-package-push/index.html">House Democrat calls for Congress to pass another Covid relief package </a> CNN: Rep. Jamaal Bowman, a progressive freshman Democrat from New York, is calling on Congress to pass another Covid-19 relief package as the country marks 800,000 deaths from the virus and the threat of the Omicron variant only grows. 
  <p class="updated_time"> 05:00 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/jim-jordan-mark-meadows-text/index.html">Jim Jordan sent one of the texts revealed by January 6 committee</a> CNN: Rep. Jim Jordan forwarded a text message to then-White House chief of staff Mark Meadows on January 5, outlining a legal theory that then-Vice President Mike Pence had the authority to stand in the way of the certification of the 2020 election. 
- <p class="updated_time"> 04:50 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/yuma-arizona-migrants/index.html">A dramatic increase in number of migrants seeking asylum in Arizona overwhelms Border Patrol</a> CNN: Under the shadow of the border wall, dozens of migrants raced to get in line as they spotted the glimmer of vehicle lights down the road. US Border Patrol agents were on the way. 
- <p class="updated_time"> 04:33 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/biden-kentucky-visit/index.html">Biden says feds will cover 100% of the cost to clean up from Kentucky tornado for the first 30 days of recovery</a> CNN: President Joe Biden will travel to Kentucky on Wednesday in the wake of deadly tornadoes and severe storms that devastated the area, where he'll survey storm damage, meet with victims and deliver remarks. 
  <p class="updated_time"> 04:25 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064614659/house-members-want-lauren-boebert-removed-from-assignments-over-islamophobic-com">House members want Lauren Boebert removed from assignments over Islamophobic comments</a> NPR: House Democratic leaders may bring up a resolution to remove Colorado Republican Representative Lauren Boebert from her committee assignments over her Islamophobic comments. 
  <p class="updated_time"> 04:17 PM CT, Dec. 15 </p> 
