@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:45 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html">NATO Signals Support for Ukraine Amid Russia Threat</a> NYT: The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion. 
  <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
  <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/middleeast/turkish-lira-currency-erdogan-turkey.html">Turkish Currency Hits a New Low, Again</a> NYT: The Central Bank has cut interest rates, even as inflation continues to soar, deepening President Erdogan’s disputed economic plan and setting off a new plunge in the lira. 
  <p class="updated_time"> 10:54 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064842364/haiti-kidnapped-missionaries-released-free">All of the kidnapped missionaries in Haiti have now been released</a> NPR: The remaining 12 of the 17 people who had been held hostage in Haiti are free, exactly two months after they were kidnapped by a Haitian gang. 
- <p class="updated_time"> 10:41 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html">NATO Signals Support for Ukraine Amid Russia Threat</a> NYT: The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion. 
  <p class="updated_time"> 10:32 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
  <p class="updated_time"> 10:05 AM CT, Dec. 16 </p> 
@@ -202,6 +202,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:34 PM CT, Dec. 16 </p> 
+ <a href="https://www.politico.com/news/2021/12/16/cdc-covid-vaccine-johnson-525153">CDC advisers recommend mRNA Covid vaccines over J&J shot amid blood clot risks</a> Politico: CDC Director Rochelle Walensky must now decide whether to accept the panel's recommendation. 
+ <p class="updated_time"> 03:50 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/business/economy/omicron-inflation-monetary-policy.html">Omicron Is an Economic Threat, but Inflation Is Worse, Central Bankers Say</a> NYT: Within 24 hours, the Federal Reserve, Bank of England and European Central Bank all stepped forward to deal with price increases. 
  <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064951646/why-the-cost-of-carbon-is-increasing-and-how-that-affects-climate-policy">Why the cost of carbon is increasing — and how that affects climate policy</a> NPR: NPR's Mary Louise Kelly speaks with Michael Greenstone, professor and director of the Energy Policy Institute at the University of Chicago the impact of the rising cost of carbon on climate policy. 
  <p class="updated_time"> 03:29 PM CT, Dec. 16 </p> 
@@ -213,7 +217,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:20 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064951583/rep-kinzinger-discusses-the-events-of-jan-6-as-congressional-inquiries-heat-up">Rep. Kinzinger discusses the events of Jan. 6 as congressional inquiries heat up</a> NPR: NPR's Audie Cornish speaks with Rep. Adam Kinzinger, R-Ill., about his role on the House committee investigating the Jan. 6 insurrection. 
  <p class="updated_time"> 03:07 PM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064927774/democrats-forced-to-regroup-as-bidens-signature-spending-bill-stalls">Democrats forced to regroup as Biden's signature spending bill stalls</a> NPR: For weeks, Senate Majority Leader Chuck Schumer had promised a vote on Biden's social and climate agenda before Christmas. But all 50 Senators in caucus have not been able to unify behind the plan. 
+ <a href="https://www.npr.org/2021/12/16/1064927774/democrats-forced-to-regroup-as-bidens-signature-spending-bill-stalls">Democrats are forced to regroup as Biden's signature spending bill stalls</a> NPR: For weeks, Senate Majority Leader Chuck Schumer had promised a vote on Biden's social and climate agenda before Christmas. But all 50 senators in caucus have not been able to unify behind the plan. 
  <p class="updated_time"> 02:55 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/military-vaccine-mandate.html">Vaccine Holdouts in Army and Navy Will Be Dismissed, Military Says</a> NYT: Governors of five states are seeking exemptions for their National Guard troops. 
  <p class="updated_time"> 02:52 PM CT, Dec. 16 </p> 
@@ -322,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/democrats-urge-biden-to-avert-student-loan-cliff-next-year-524889">Democrats urge Biden to avert student loan cliff next year</a> Politico: Monthly student loan payments and interest are set to resume on Feb. 1 for the first time since the beginning of the pandemic. 
  <p class="updated_time"> 06:28 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/michelle-kwan-caroline-kennedy-ambassador.html">Biden Taps Michelle Kwan and Caroline Kennedy for Ambassador Posts</a> NYT: Ms. Kennedy, nominated to be ambassador to Australia, and Ms. Kwan, nominated to be the envoy to Belize, were prominent Biden supporters during the 2020 campaign season. 
- <p class="updated_time"> 06:23 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/derek-chauvin-george-floyd-524867">Chauvin pleads guilty to federal charge in Floyd’s death</a> Politico: It was the first time he admitted wrongdoing. 
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats’ filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
  <p class="updated_time"> 05:31 PM CT, Dec. 15 </p> 
@@ -374,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Halts Asia Trip After Journalist Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the United States earlier than planned. 
  <p class="updated_time"> 06:19 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/15/a-junkies-guide-to-the-2022-midterms-495470"> A junkie’s guide to the 2022 midterms</a> Politico Playbook: And the House votes to hold Mark Meadows in contempt of Congress. 
- <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/placebo-effect-clinical-care.html">Placebos Are Often Prescribed By Doctors. Are The Actually Effective?</a> NYT: An Australian researcher argues that the medical community has enshrined placebos as “mysterious and highly effective” in clinical care on the basis of flawed research. 
  <p class="updated_time"> 11:41 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/house-islam-omar-perry-boebert-524536">Amid caustic rhetoric, House votes to combat Islamophobia</a> Politico: Rep. Scott Perry accused Rep. Ilhan Omar of connections to terrorism. 
  <p class="updated_time"> 08:31 PM CT, Dec. 14 </p> 
