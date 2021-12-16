@@ -211,7 +211,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:43 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/separated-families-negotiations/index.html">DOJ breaks off settlement talks with families separated at US-Mexico border</a> CNN: The Justice Department has informed attorneys representing separated migrant families that it will cease settlement negotiations and are ready to go back to court, according to an attorney representing families. 
  <p class="updated_time"> 02:40 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/congress-xinjiang-uyghurs-forced-labor.html">Congress Passes Ban on Goods From China's Xinjiang Region</a> NYT: President Biden is expected to sign the bill, which drew a fierce corporate lobbying campaign against it. 
+ <a href="https://www.nytimes.com/2021/12/16/us/politics/congress-uyghur-forced-labor.html">Congress Passes Ban on Goods From China's Xinjiang Region</a> NYT: President Biden is expected to sign the bill, which drew a fierce corporate lobbying campaign against it. 
  <p class="updated_time"> 02:28 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/trump-lawsuits-january-hearings/index.html">Judge sets January arguments for lawsuits seeking to hold Trump accountable for US Capitol riot</a> CNN: Three lawsuits that seek to hold Donald Trump and his closest advisers accountable for the US Capitol riot are moving forward after months of inaction. 
  <p class="updated_time"> 02:27 PM CT, Dec. 16 </p> 
@@ -344,6 +344,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/15/1064598531/the-fda-could-permanently-lift-some-restrictions-on-abortion-pills">The FDA could permanently lift some restrictions on abortion pills</a> NPR: The abortion pill mifepristone was approved in 2000 but still faces layers of restrictions. Advocates want the FDA to permanently allow patients to receive the pill by mail instead of in person. 
  <p class="updated_time"> 03:41 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064614631/biden-promised-government-support-after-visiting-areas-hit-by-tornadoes-in-kentu">Biden promised government support after visiting areas hit by tornadoes in Kentucky</a> NPR: President Biden toured areas of western Kentucky damaged by a series of powerful tornadoes on Dec. 10 and 11. The president promised the federal government would be there to help people. 
+ <p class="updated_time"> 03:33 PM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/news/2021/12/15/biden-manchin-megabill-524776">‘Going very poorly’: Biden can't nail Manchin down on Dems’ bill</a> Politico: President Joe Biden is running out of patience as Sen. Joe Manchin continues to drag his feet on supporting the party's domestic spending legislation. 
  <p class="updated_time"> 03:28 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064614591/bipartisan-congress-group-calls-to-ship-more-weapons-to-the-ukraine-to-deter-rus">Bipartisan Congress group calls to ship more weapons to the Ukraine to deter Russia</a> NPR: A bipartisan group from the United States Congress, just returned from Ukraine, are calling for the Biden administration to step up weapons shipments to Kyiv to deter a Russian invasion. 
  <p class="updated_time"> 03:28 PM CT, Dec. 15 </p> 
@@ -436,8 +438,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/11/middle-class-joe-visits-late-night-jimmy-495429"> ‘Middle-class Joe’ visits late-night Jimmy</a> Politico Playbook: And what the Supreme Court's Texas ruling means for Roe v. Wade. 
- <p class="updated_time"> 07:01 AM CT, Dec. 11 </p> 
- <a href="https://www.politico.com/news/2021/12/11/soaring-inflation-wealth-racial-disparities-524111">Soaring inflation could hamper Biden’s effort to narrow wealth, racial disparities</a> Politico: Biden campaigned on addressing structural inequities. Rising prices could jeopardize that. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
  <p class="updated_time"> 07:29 AM CT, Dec. 10 </p> 
