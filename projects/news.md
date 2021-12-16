@@ -43,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html">‘They Were Just Gone’: Two Baby Boys Survive Tornado in Kentucky</a> NYT: Without a basement, Clara Lutz of Barnsley, Ky., sheltered her infant grandsons in the bathtub for safety. A powerful tornado pulled the tub from her grip and sent the babies flying. 
  <p class="updated_time"> 08:32 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/ishigaki-japan-missiles-taiwan.html">The Island Paradise Near the Front Line of Tensions Over Taiwan</a> NYT: New missile batteries planned for the Japanese island of Ishigaki reflect a drastic shift in Japan’s views on China. 
+ <p class="updated_time"> 08:30 AM CT, Dec. 16 </p> 
+ <a href="https://www.wsj.com/articles/mexico-says-planned-u-s-tax-breaks-for-electric-vehicles-risk-fueling-migration-11639683022">Mexico Says Planned U.S. Tax Breaks for EVs Risk Fueling Migration</a> WSJ: A U.S. proposal to give tax credits to Americans who buy U.S.-built electric vehicles threatens to hurt Mexico’s industry and spur illegal migration to the U.S., Mexican Economy Minister Tatiana Clouthier said. 
  <p class="updated_time"> 08:28 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
  <p class="updated_time"> 08:22 AM CT, Dec. 16 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/americas/santo-domingo-plane-crash.html">Santo Domingo Plane Crash Kills All 9 Aboard</a> NYT: A prominent Puerto Rican music producer known as Flow La Movie was reported to be among the dead. 
  <p class="updated_time"> 03:45 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59680797?at_medium=RSS&at_campaign=KARANGA">Bruce Springsteen sells his entire music catalogue for $500m</a> BBC: The star follows in the footsteps of Bob Dylan, Stevie Nicks and Blondie by cashing in on his songs. 
- <p class="updated_time"> 02:30 AM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/u-s-faces-pressure-to-sanction-myanmars-lucrative-energy-industry-11639661401">U.S. Faces Pressure to Sanction Myanmar's Lucrative Energy Industry</a> WSJ: The oil-and-gas industry is the main source of revenue for the Myanmar’s military, which seized power in a coup earlier this year. 
  <p class="updated_time"> 02:16 AM CT, Dec. 16 </p> 
  <a href="https://www.wsj.com/articles/turkeys-currency-crisis-escalates-ahead-of-possible-rate-cut-11639646334">Turkey's Currency Crisis Escalates After Central Bank Cuts Rates</a> WSJ: Turkey’s central bank bowed to political pressure to slash interest rates, defying soaring inflation and deepening a currency crisis that has dogged the economy. 
  <p class="updated_time"> 02:09 AM CT, Dec. 16 </p> 
