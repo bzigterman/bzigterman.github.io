@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:27 PM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59688787?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Defence attorneys begin arguments</a> BBC: A spokesperson for Ms Maxwell said on Wednesday she is "too fragile" to testify in her own defence. 
  <p class="updated_time"> 12:00 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
  <p class="updated_time"> 11:33 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/omar-raddad-cote-dazur-dna-france.html">Judges in France Order the Reopening of an Enduring Murder Mystery</a> NYT: The conviction of Omar Raddad in the killing of a socialite in the French Riviera three decades ago will be re-examined after his lawyers presented new DNA evidence they say exonerates him. 
  <p class="updated_time"> 11:31 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/suicide-pods-switzerland.html">A 3-D Printed Pod Inflames the Assisted Suicide Debate</a> NYT: The pod, known as Sarco, was conceived as a way for people to end their lives without involving a doctor. A plan to introduce it in Switzerland has raised alarm even among right-to-die advocates. 
+ <p class="updated_time"> 11:22 AM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59689060?at_medium=RSS&at_campaign=KARANGA">Haiti kidnappers release remaining missionaries</a> BBC: The missionaries from the US and Canada were abducted in mid-October by a powerful crime gang. 
  <p class="updated_time"> 11:18 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064847616/tasmania-bouncy-castle-accident">A wind gust swept a bouncy castle in Tasmania 30 feet in the air, killing 5 children</a> NPR: Authorities say Hillcrest Primary School's end-of-year celebration turned tragic when a strong gust of wind lifted a bouncy castle into the air, killing five students and injuring four others. 
  <p class="updated_time"> 11:06 AM CT, Dec. 16 </p> 
@@ -35,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: The Office of Civil Defense said that nearly 100,000 people in several regions had been evacuated. There was no immediate word on casualties. 
  <p class="updated_time"> 09:18 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html">‘They Were Just Gone’: Two Baby Boys Survive Tornado in Kentucky</a> NYT: Without a basement, Clara Lutz of Barnsley, Ky., sheltered her infant grandsons in the bathtub for safety. A powerful tornado pulled the tub from her grip and sent the babies flying. 
- <p class="updated_time"> 08:45 AM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59679861?at_medium=RSS&at_campaign=KARANGA">Covid: France to drastically restrict travel from UK</a> BBC: Non-residents will need compelling reasons to travel, as France tries to slow the spread of Omicron. 
  <p class="updated_time"> 08:32 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/ishigaki-japan-missiles-taiwan.html">The Island Paradise Near the Front Line of Tensions Over Taiwan</a> NYT: New missile batteries planned for the Japanese island of Ishigaki reflect a drastic shift in Japan’s views on China. 
  <p class="updated_time"> 08:28 AM CT, Dec. 16 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html">Hu Xijin, Chief of China's Global Times, Will Retire</a> NYT: Hu Xijin, editor of the Communist Party tabloid Global Times and pioneer of the country’s fiery online posturing, is retiring from his role. 
  <p class="updated_time"> 05:32 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">Bouncy Castle in Tasmania Is Swept by Wind, Killing 5 Children</a> NYT: A gust of wind swept up the inflatable on the last day of school, and the students fell more than 30 feet. Several others were critically injured. 
- <p class="updated_time"> 05:19 AM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/omicron-spread-prompts-france-to-ban-most-travel-from-u-k-11639671576">Omicron Spread Prompts France to Ban Most Travel From U.K</a> WSJ: France said it would ban most travel from the U.K. starting Saturday, in response to soaring coronavirus infections in Britain fueled by the highly contagious Omicron variant. 
  <p class="updated_time"> 05:17 AM CT, Dec. 16 </p> 
  <a href="https://www.wsj.com/articles/covid-19-surge-slows-european-recovery-but-supply-problems-ease-11639651970">Covid-19 Surge Slows U.S., European Recovery, but Supply Problems Ease</a> WSJ: U.S. business activity continued to expand but at the slowest pace in three months despite strong demand from customers. 
  <p class="updated_time"> 04:48 AM CT, Dec. 16 </p> 
@@ -77,6 +77,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-faces-pressure-to-sanction-myanmars-lucrative-energy-industry-11639661401">U.S. Faces Pressure to Sanction Myanmar's Lucrative Energy Industry</a> WSJ: The oil-and-gas industry is the main source of revenue for the Myanmar’s military, which seized power in a coup earlier this year. 
  <p class="updated_time"> 02:16 AM CT, Dec. 16 </p> 
  <a href="https://www.wsj.com/articles/turkeys-currency-crisis-escalates-ahead-of-possible-rate-cut-11639646334">Turkey's Currency Crisis Escalates After Central Bank Cuts Rates</a> WSJ: Turkey’s central bank bowed to political pressure to slash interest rates, defying soaring inflation and deepening a currency crisis that has dogged the economy. 
+ <p class="updated_time"> 02:09 AM CT, Dec. 16 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-cancels-christmas-around-europeagain-11639660145">Covid-19 Cancels Christmas Around Europe…Again</a> WSJ: From Spanish holidays to Greek celebrations to German circus performances, the Covid-19 pandemic has derailed plans and upended Christmas traditions across Europe for a second year in a row. 
  <p class="updated_time"> 02:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
  <p class="updated_time"> 12:15 AM CT, Dec. 16 </p> 
@@ -207,13 +209,23 @@ permalink: /projects/news/
  <p class="updated_time"> 01:11 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/crackdown-on-chinas-treatment-of-muslim-minority-headed-to-bidens-desk-525094">Crackdown on China's treatment of Muslim minority headed to Biden's desk</a> Politico: The legislation, which faced a bumpy road to passage, effectively bans all imports from China’s Xinjiang region. 
  <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden to award Medal of Honor to 3 Army soldiers</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
+ <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">Dems fume as agenda hits brick wall in Senate that 'sucks'</a> Politico: The party doubts it can accomplish anything on its sweeping spending bill, elections reform or expanding the child tax credit before year's end. 
+ <p class="updated_time"> 12:35 PM CT, Dec. 16 </p> 
+ <a href="https://www.npr.org/2021/12/16/1064661358/republicans-aim-to-stop-sniping-at-each-other-focus-on-economic-message-for-2022">Republicans aim to stop sniping at each other, focus on economic message for 2022 </a> NPR: House Minority Leader Kevin McCarthy is working to tamp down internal feuds and shift members to talking about inflation and other issues that he believes will help his party return to the majority. 
+ <p class="updated_time"> 12:28 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/military-vaccine-numbers/index.html">US military has vaccinated more than 97% of service members</a> CNN: The US military has vaccinated more than 97% for its active-duty force against Covid-19 as the Army, which had the latest vaccination deadline amongst the services, released its latest numbers. 
+ <p class="updated_time"> 12:26 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/separated-families-negotiations/index.html">DOJ breaks off settlement talks with families separated at US-Mexico border</a> CNN: The Justice Department has informed attorneys representing separated migrant families that it will cease settlement negotiations and are ready to go back to court, according to an attorney representing families. 
+ <p class="updated_time"> 12:20 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/congressional-gold-medal-us-troops-kabul-attack/index.html">Biden signs bill to award Congressional Gold Medal to US service members killed in Kabul airport bombing</a> CNN: President Joe Biden on Thursday signed a bill that posthumously awards a Congressional Gold Medal to the 13 US service members killed in a terrorist attack outside Kabul's airport in August. 
  <p class="updated_time"> 12:19 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-kentucky-tornado.html">Touring Kentucky, Biden Vows ‘Whatever It Takes’ to Recover From Storms</a> NYT: The president promised the federal government would cover the full cost of the emergency response for 30 days as he comforted victims of the devastating tornadoes. 
+ <p class="updated_time"> 12:19 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/jackson-beasley-north-carolina-senate-race/index.html">Jackson bows out of Democratic Senate primary in North Carolina, largely clearing field for Beasley</a> CNN: North Carolina state Sen. Jeff Jackson on Thursday bowed out of the race to be the Tar Heel state's next US senator, largely clearing the Democratic primary field for former state Supreme Court chief justice Cheri Beasley. 
  <p class="updated_time"> 12:16 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-signs-debt-limit-increase/index.html">Biden signs debt limit increase</a> CNN: President Joe Biden on Thursday signed the bill raising the debt limit ceiling that passed Congress earlier this week, according to a press release from the White House. 
- <p class="updated_time"> 12:16 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden to award Medal of Honor to 3 Army soldiers</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
  <p class="updated_time"> 12:12 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/donald-trump-january-6-committee-republicans-fox-news/index.html">Analysis: How the January 6 committee finally exposed Trump's empire of lies</a> CNN: If politics still turned on truth and facts, this would be the week when the lie-filled foundations of Donald Trump's movement imploded, destroying his apparent dream of a return to power after the 2024 election. 
  <p class="updated_time"> 12:12 PM CT, Dec. 16 </p> 
@@ -222,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/16/politics/rep-jim-jordan-january-6-text/index.html">The Point: Jim Jordan helped plot the coup. Now he's in line to be one of the most powerful members of Congress.</a> CNN: If Republicans win the House majority next November -- and they are currently favored to do so -- then Ohio Rep. Jim Jordan will almost certainly rise to one of the most prominent positions in the chamber: Chairman of the Judiciary Committee. 
  <p class="updated_time"> 12:09 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/marines-army-kicked-out-covid-vaccine-525101">More than 100 Marines kicked out of the service for refusing Covid vaccine</a> Politico: The Army also announced Thursday it has fired two battalion commanders over the order. 
- <p class="updated_time"> 11:57 AM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/separated-families-negotiations/index.html">DOJ breaks off settlement talks with families separated at US-Mexico border</a> CNN: The Justice Department has informed attorneys representing separated migrant families that it will cease settlement negotiations and are ready to go back to court, according to an attorney representing families. 
  <p class="updated_time"> 11:47 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/trump-spac-lawsuit.html">Former Insider at the Company Merging With Trump Media Sues Over 'Brazen' Fraud</a> NYT: A prospective investor in Digital World Acquisition Corp., a special purpose acquisition company that is merging with President Donald J. Trump’s social media start-up, says he was removed from a slate of board nominees without warning and deprived of shares he was owed. 
  <p class="updated_time"> 11:33 AM CT, Dec. 16 </p> 
@@ -286,10 +296,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/15/politics/biden-james-comer-kentucky/index.html">A single Kentucky Republican travels with Biden to survey tornado and storm damage</a> CNN: On nearly any other day in Washington, Republican Congressman James Comer would likely be calling for oversight investigations into the Biden administration. 
  <p class="updated_time"> 08:24 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/jeff-jackson-north-carolina-senate-race-524970">Jeff Jackson drops out of North Carolina Senate race</a> Politico: Jackson, who faced a difficult primary against former state Supreme Court Justice Cheri Beasley, called donors to inform them of his decision on Wednesday before ending his campaign on Thursday. 
+ <p class="updated_time"> 07:50 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/yuma-arizona-migrants/index.html">A dramatic increase in number of migrants seeking asylum in Arizona overwhelms Border Patrol</a> CNN: Under the shadow of the border wall, dozens of migrants raced to get in line as they spotted the glimmer of vehicle lights down the road. US Border Patrol agents were on the way. 
  <p class="updated_time"> 07:30 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/photographer-sues-jan-6-committee-524922">Photographer sues House Jan. 6 committee over subpoena</a> Politico: Freelancer Amy Harris seeks to block panel from obtaining metadata on her cell phone calls and texts. 
- <p class="updated_time"> 07:23 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/manchin-child-tax-credit-biden-build-back-better/index.html">Talks between Manchin and Biden at standstill as Build Back Better likely stalled until next year</a> CNN: Senate Democrats are expected to punt consideration of the cornerstone element of President Joe Biden's agenda into next year after private conversations between Biden and the key Democratic holdout made clear the bill would not have the votes to pass this month. 
  <p class="updated_time"> 07:21 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/new-jfk-files-bring-more-frustration-than-enlightenment-524838">New JFK files bring more frustration than enlightenment</a> Politico: The disclosure of the 1,491 documents by the National Archives about the assassination follows an executive order from President Joe Biden. 
  <p class="updated_time"> 06:44 PM CT, Dec. 15 </p> 
@@ -356,14 +366,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/business/economy/china-trump-trade-deal-biden.html">Biden’s China Dilemma: How to Enforce Trump’s Trade Deal</a> NYT: The Biden administration must decide whether to enforce a Trump-era trade deal that has not fulfilled its promise. 
  <p class="updated_time"> 08:20 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/biden-judicial-nominations-trump/index.html">Biden to surpass Trump in first-year judicial nominees; a window into a major Dem push </a> CNN: President Joe Biden will soon announce his latest wave of nine judicial nominees, according to a White House official, capping a year where the selections -- and an effort to establish an imprint on the federal courts -- served as a focal point for his administration. 
- <p class="updated_time"> 07:59 AM CT, Dec. 15 </p> 
- <a href="https://www.npr.org/2021/12/15/1064394533/cair-ohio-fired-hate-group-romin-iqbal-emerson">A leader of an Ohio Muslim organization was fired for spying for a hate group</a> NPR: The Columbus chapter of the Council on American-Islamic Relations fired its Executive and Legal Director Romin Iqbal after it discovered he was passing information to a "known anti-Muslim hate group." 
  <p class="updated_time"> 07:35 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/15/house-is-home-for-the-holidays-senate-sticks-around-495473">House is home for the holidays, Senate sticks around</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:31 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Halts Asia Trip After Journalist Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the United States earlier than planned. 
- <p class="updated_time"> 07:22 AM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/black-farmers-debt-relief-disparities/index.html">In a cash flow business, White farmers have the upper hand</a> CNN: Texas cattle rancher Deydra Steans quit her teaching job three years ago to help save her family's farming operations. 
  <p class="updated_time"> 06:19 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/15/a-junkies-guide-to-the-2022-midterms-495470"> A junkie’s guide to the 2022 midterms</a> Politico Playbook: And the House votes to hold Mark Meadows in contempt of Congress. 
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
@@ -386,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megabill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
  <p class="updated_time"> 04:29 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/white-house-scaled-back-holiday-parties/index.html">White House scales back holiday parties due to Covid concerns</a> CNN: The White House will dramatically scale back holiday party festivities this year, due to ongoing Covid-19 concerns, opting instead for smaller open house-style events. 
- <p class="updated_time"> 03:17 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/biden-pfizer-covid-antiviral-pill/index.html">Biden says he's 'encouraged by the promising data' on Pfizer's Covid-19 antiviral pill</a> CNN: President Joe Biden on Tuesday praised Pfizer's report that its experimental treatment for Covid-19 cut the risk of hospitalization or death by 89% if given to high-risk adults within a few days of their first symptoms. 
  <p class="updated_time"> 02:17 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/qanon-follower-sentence-pelosi-death-threats-524209">QAnon follower gets 28-month sentence for death threats to Pelosi</a> Politico: Judge says continuing election-fraud rhetoric from Republican politicians makes defendant an ongoing threat. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
@@ -414,8 +418,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/hes-got-to-condemn-this-shit-panel-releases-urgent-jan-6-texts-from-trump-jr-lawmakers-524188">‘He’s got to condemn this …’: Panel releases urgent Jan. 6 texts from Donald Trump Jr., lawmakers and Fox hosts</a> Politico: House investigators held Mark Meadows in criminal contempt after releasing a trove of messages aimed at getting President Trump to take stronger action amid the Capitol riot. 
  <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/defense-claims-politics-fortenberry-indictment-524164">Defense claims politics behind indictment of Rep. Jeff Fortenberry</a> Politico: A federal judge in Los Angeles heard arguments on the Nebraska Republican’s bid to toss out the criminal false-statement case. 
- <p class="updated_time"> 01:48 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/manchin-fiscal-concerns-524158">Manchin keeps Dems guessing on their megabill</a> Politico: The Democratic senator still isn't committing to back President Joe Biden's social safety net legislation, citing fears about inflation and debt. 
  <p class="updated_time"> 07:06 AM CT, Dec. 13 </p> 
