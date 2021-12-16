@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:34 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
+ <p class="updated_time"> 05:32 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">Bouncy Castle in Tasmania Is Swept by Wind, Killing 5 Children</a> NYT: A gust of wind swept up the inflatable on the last day of school, and the students fell more than 30 feet. Several others were critically injured. 
+ <p class="updated_time"> 05:28 AM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59681409?at_medium=RSS&at_campaign=KARANGA">Dutch royals regret holding party amid surge in Covid cases</a> BBC: The party was held to celebrate the 18th birthday of the country's heir apparent, Princess Amalia. 
  <p class="updated_time"> 05:25 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59679861?at_medium=RSS&at_campaign=KARANGA">Covid: France to drastically restrict travel from UK</a> BBC: Non-residents will need compelling reasons to travel, as France tries to slow the spread of Omicron. 
  <p class="updated_time"> 04:55 AM CT, Dec. 16 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Australia bouncy castle fall: Five children killed and four others injured</a> BBC: Four others are badly injured after wind blew the castle into the air, causing them to fall 10m. 
  <p class="updated_time"> 04:26 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064743864/in-kashmir-closed-mosque-raises-questions-about-indias-religious-freedom">In Kashmir, closed mosque raises questions about India's religious freedom</a> NPR: For Kashmiri Muslims the Jamia Masjid is a sacred venue, but it's been closed most Fridays for the past two years. The government has said those who manage it couldn't stop anti-India protests there. 
- <p class="updated_time"> 04:23 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">Bouncy Castle in Australia Is Swept by Wind, Killing 5 Children</a> NYT: The students fell more than 30 feet on the last day of school in Tasmania, Australia. Several others were critically injured. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/ishigaki-japan-missiles-taiwan.html">The Island Paradise Near the Front Line of Tensions Over Taiwan</a> NYT: New missile batteries planned for the Japanese island of Ishigaki reflect a drastic shift in Japan’s views on China. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59672999?at_medium=RSS&at_campaign=KARANGA">Kentucky tornado killed dad moments after phone call</a> BBC: Katie Fields lost her father in the Kentucky twisters - just after urging him on a call to flee. 
  <p class="updated_time"> 06:05 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59634393?at_medium=RSS&at_campaign=KARANGA">What's behind suicides by thousands of Indian housewives?</a> BBC: Indian women make up 36% of all global suicides in the 15 to 39 years age group. 
- <p class="updated_time"> 05:49 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59677593?at_medium=RSS&at_campaign=KARANGA">Dutch MP ordered to delete Covid Holocaust social media posts</a> BBC: Thierry Baudet is ordered by a court to delete social media posts comparing the unvaccinated to Jews. 
  <p class="updated_time"> 05:30 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59518628?at_medium=RSS&at_campaign=KARANGA">Afghanistan: What humanitarian aid is getting in?</a> BBC: Millions of people are at risk of starvation as a result of harsh winter conditions and economic collapse. 
  <p class="updated_time"> 05:20 PM CT, Dec. 15 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59645657?at_medium=RSS&at_campaign=KARANGA">Hong Kong elections: How China reshaped the city</a> BBC: The city's Legislative Council polls look different this year, thanks to new electoral and national security laws. 
  <p class="updated_time"> 05:37 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-59645658?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the Lewis Hamilton and Max Verstappen F1 title drama</a> BBC: Max Verstappen was crowned F1 world champion, after winning the Abu Dhabi Grand Prix. 
- <p class="updated_time"> 03:51 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/americas/un-climate-change-russia.html">Russia Blocks U.N. Move to Treat Climate as Security Threat</a> NYT: The Russian veto of a widely supported Security Council resolution pointed to the difficulty of achieving a unified response to global warming. 
 
 
 </details>
