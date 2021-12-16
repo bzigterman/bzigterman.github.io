@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
  <p class="updated_time"> 01:18 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">4 Children Die in Inflatable Castle Accident in Tasmania</a> NYT: The students fell 33 feet on the last day of school in Tasmania, Australia. Several others were critically injured. 
  <p class="updated_time"> 01:02 AM CT, Dec. 16 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Gasoline Truck in Haiti Explodes, Killing More Than 60</a> NYT: Scores more were injured in the blast, the latest tragedy to hit a country that has been rocked by political violence, natural disasters, poverty and hunger. 
  <p class="updated_time"> 04:28 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/belarus-opposition-sergei-tikhanovsky.html">Belarus Opposition Leader Is Sentenced to 18 Years in Prison</a> NYT: The activist Sergei Tikhanovsky planned to challenge the country’s authoritarian leader, Aleksandr G. Lukashenko, in a presidential election last year. He was arrested before the vote and his wife stepped in. 
- <p class="updated_time"> 04:20 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/asia/india-kashmir-policemen-killed.html">Militants Kill 2 Policemen in Kashmir as Violence Escalates</a> NYT: The clash on Monday came three days after a similar attack on a squad of police officers patrolling streets in northern Kashmir left two of its men dead. 
  <p class="updated_time"> 04:00 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064221041/deported-activists-allowed-back-into-the-u-s-saying-ice-retaliated-against-them">Deported activists allowed back into the U.S., saying ICE retaliated against them</a> NPR: A few months ago, Claudio Rojas was allowed back into the U.S. He's one of several activists deported but then allowed to return after arguing that immigration authorities retaliated against them. 
  <p class="updated_time"> 03:55 PM CT, Dec. 14 </p> 
