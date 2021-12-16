@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:20 AM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59683904?at_medium=RSS&at_campaign=KARANGA">Super typhoon Rai: Thousands flee as storm lashes southern Philippines</a> BBC: People take shelter amid warnings the storm will cause widespread flooding and destruction. 
  <p class="updated_time"> 06:13 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59679861?at_medium=RSS&at_campaign=KARANGA">Covid: France to drastically restrict travel from UK</a> BBC: Non-residents will need compelling reasons to travel, as France tries to slow the spread of Omicron. 
  <p class="updated_time"> 06:03 AM CT, Dec. 16 </p> 
@@ -43,6 +45,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
  <p class="updated_time"> 02:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
+ <p class="updated_time"> 01:29 AM CT, Dec. 16 </p> 
+ <a href="https://www.wsj.com/articles/bank-of-england-raises-interest-rates-11639656570">Bank of England Raises Interest Rates to Battle Inflation</a> WSJ: The BOE raised its benchmark interest rate to 0.25%, making it the first major central bank to lift borrowing costs since the pandemic began. 
+ <p class="updated_time"> 12:03 AM CT, Dec. 16 </p> 
+ <a href="https://www.wsj.com/articles/highly-vaccinated-south-korea-cant-slow-down-covid-19-11639652626">Highly Vaccinated South Korea Can't Slow Down Covid-19</a> WSJ: Historic levels of infections, hospitalizations and deaths are prompting the country to reverse plans to reopen and instead take some of the most aggressive measures against the virus of any country in the world. 
  <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064740067/lithuania-closes-embassy-in-china-after-last-diplomats-leave-amid-taiwan-spat">Lithuania closes embassy in China after last diplomats leave amid Taiwan spat</a> NPR: Lithuania says it's closed its embassy in Beijing and pulled its last diplomat out amid a spat over the European Union nation allowing Taiwan to open a representative office in the capital, Vilnius. 
  <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
@@ -61,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59630164?at_medium=RSS&at_campaign=KARANGA">Kenyans find rural lifeline after Covid city exodus</a> BBC: The coronavirus pandemic has forced some city dwellers to move back to the countryside to survive. 
  <p class="updated_time"> 06:26 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59661758?at_medium=RSS&at_campaign=KARANGA">Inside the fight for Bangladesh's independence</a> BBC: The author of the Bangladesh constitution on working with Sheikh Mujibur Rahman 
- <p class="updated_time"> 06:19 PM CT, Dec. 15 </p> 
- <a href="https://www.wsj.com/articles/dominican-republic-plane-crash-kills-nine-11639631943">Dominican Republic Plane Crash Kills Nine</a> WSJ: A small plane beginning a flight to Florida crashed, killing all nine people aboard, including Puerto Rican music producer José Ángel Hernández. 
  <p class="updated_time"> 06:13 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html">Putin and Xi Hold Video Summit</a> NYT: President Vladimir V. Putin of Russia and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West but have not yet declared a formal alliance. 
  <p class="updated_time"> 06:13 PM CT, Dec. 15 </p> 
@@ -95,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/15/1064001076/taliban-afghanistan-girls-education-womens-rights">What the Taliban really want from the world, in their own words</a> NPR: "We want to prove to everyone forever that we respect humanity," Taliban spokesman Muhammad Naeem Wardak told NPR in Doha, Qatar. He also said women "must have the right to education and to work." 
  <p class="updated_time"> 02:57 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-covid-record-cases.html">Britain Breaks Daily Record for New Virus Cases</a> NYT: Officials didn’t specify what share of the new cases might be Omicron, though they said a majority in London were from the variant. 
- <p class="updated_time"> 02:54 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59672683?at_medium=RSS&at_campaign=KARANGA">bell hooks: Author and feminist dies aged 69</a> BBC: The acclaimed US writer was considered a trailblazer in the feminist movement. 
  <p class="updated_time"> 02:32 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-omicron-surge.html">Why Britain Thinks Omicron Infected 200,000 People on Monday</a> NYT: Experts called it ‘a back-of-the-envelope calculation’ that showed how quickly the variant spreads, but also how little is known about it. 
  <p class="updated_time"> 02:27 PM CT, Dec. 15 </p> 
@@ -123,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/omicron-drives-record-daily-covid-19-case-count-in-u-k-11639595473">Omicron Drives Record Daily Covid-19 Case Count in U.K.</a> WSJ: The Omicron variant’s rapid growth in the U.K. suggests it can outcompete the Delta variant, currently dominant in the U.S. and much of Europe. 
  <p class="updated_time"> 10:30 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/hong-kong-fire.html">Hundreds Trapped by Fire at World Trade Center in Hong Kong</a> NYT: The blaze at the World Trade Center in Causeway Bay injured at least 13 people, including one who was semiconscious, the police said. 
- <p class="updated_time"> 10:09 AM CT, Dec. 15 </p> 
- <a href="https://www.wsj.com/articles/putin-xi-affirm-russian-chinese-cooperation-to-counter-western-pressure-11639596457">Putin, Xi Affirm Cooperative Effort to Counter Western Pressure</a> WSJ: In a virtual meeting, the Russian and Chinese leaders agreed to rebuff foreign intrusion into their countries’ internal affairs and boost efforts to defend their nations’ security interests. 
  <p class="updated_time"> 09:57 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064212737/new-zealands-cigarette-ban-model">New Zealand's unique cigarette ban may be a model for other countries</a> NPR: The proposed law would effectively impose a lifetime cigarette ban for people aged 14 and younger. Researchers applauded it but said similar bans elsewhere could be more challenging. 
  <p class="updated_time"> 09:18 AM CT, Dec. 15 </p> 
@@ -137,14 +137,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/business/economy/china-trump-trade-deal-biden.html">Biden’s China Dilemma: How to Enforce Trump’s Trade Deal</a> NYT: The Biden administration must decide whether to enforce a Trump-era trade deal that has not fulfilled its promise. 
  <p class="updated_time"> 08:21 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/india-sex-workers-benefits.html">India's Supreme Court Mandates Benefits for Sex Workers</a> NYT: Officials must enter them into databases for voting and benefits, the judges said, after they suffered from the effects of Covid-19 lockdowns. 
+ <p class="updated_time"> 08:14 AM CT, Dec. 15 </p> 
+ <a href="https://www.wsj.com/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940">U.S. Set to Ban American Investment in Some Chinese Companies</a> WSJ: A draft Treasury Department announcement says the companies, including a major drone maker, participate in China’s mass surveillance of Muslim ethnic groups. 
  <p class="updated_time"> 07:54 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/omicron-hong-kong-study.html">Two Doses of China's Sinovac Inadequate Against Omicron, Hong Kong Study Suggests</a> NYT: Laboratory experiments suggest that the Chinese vaccine provides little protection against an Omicron infection. 
  <p class="updated_time"> 07:31 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Halts Asia Trip After Journalist Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the United States earlier than planned. 
- <p class="updated_time"> 05:36 AM CT, Dec. 15 </p> 
- <a href="https://www.wsj.com/articles/russian-gets-life-sentence-for-what-court-says-was-moscow-ordered-murder-in-berlin-11639574716">Russian Given Life Sentence for Killing of Chechen Rebel in Berlin</a> WSJ: A German court sentenced a Russian man to life in prison for shooting dead a former Chechen rebel leader in Berlin at the behest of Moscow, in a case that has further frayed already tense relations between Germany and Russia. 
- <p class="updated_time"> 05:31 AM CT, Dec. 15 </p> 
- <a href="https://www.wsj.com/articles/iran-agrees-to-allow-u-n-atomic-agency-to-reinstall-cameras-at-karaj-centrifuge-production-site-11639573758">Iran Agrees to Allow Cameras Back at Karaj Centrifuge Production Site</a> WSJ: The move will avert a fresh clash between the U.S. and Iran over Tehran’s nuclear activities but comes as negotiations on restoring the 2015 nuclear deal are deadlocked. 
  <p class="updated_time"> 05:05 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/north-korea-kpop-executions.html">North Korea Executes People for Watching K-Pop, Rights Group Says</a> NYT: At least seven people have been put to death in the past decade for watching or distributing K-pop videos, as the North cracks down on what its leader calls a “vicious cancer.” 
  <p class="updated_time"> 04:33 AM CT, Dec. 15 </p> 
@@ -159,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59665125?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Dozens stranded on roof after World Trade Centre fire</a> BBC: Footage obtained by the BBC shows people crowded amongst the roof's scaffolding awaiting rescue. 
  <p class="updated_time"> 02:21 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/greece-covid-school-abduction.html">Three Jailed in Greece After a Principal was Handcuffed Over Virus Measures</a> NYT: Police said a group of people handcuffed the principal on Friday and drove him to a local precinct, suggesting that officers arrest him for enforcing Covid measures. 
- <p class="updated_time"> 02:20 AM CT, Dec. 15 </p> 
- <a href="https://www.wsj.com/articles/german-police-raids-antivaccine-extremists-suspected-of-plot-to-kill-politician-11639574430">German Police Raid Antivaccine Extremists Suspected of Plot to Kill Politician</a> WSJ: Officials are growing increasingly concerned about the radicalization of Covid-19 skeptics as the country considers a general vaccine mandate. 
  <p class="updated_time"> 11:30 PM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/after-taliban-return-afghan-women-face-old-pressures-from-fathers-brothers-11639564204">Afghan Women Face Old Family Pressures</a> WSJ: With the return to Taliban rule, family dynamics are changing as some men forcefully assert their power over wives, daughters and sisters. “Nothing scares me more than my father. Not even the Taliban,” says one activist. 
  <p class="updated_time"> 08:25 PM CT, Dec. 14 </p> 
@@ -202,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:22 AM CT, Dec. 16 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2021/12/16/will-democrats-get-coal-instead-of-passed-bills-in-their-stockings-495491">Will Democrats get coal instead of passed bills in their stockings?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/16/manchinemas-christmas-present-to-dems-a-blunt-reality-check-495489"> Manchinema’s Christmas present to Dems: A blunt reality check</a> Politico Playbook: And Kevin McCarthy faces pressure to punish Liz Cheney and Adam Kinzinger. 
  <p class="updated_time"> 06:13 AM CT, Dec. 16 </p> 
