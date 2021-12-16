@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:30 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">5 Children Die in Fall From Bouncy Castle in Tasmania, Australia</a> NYT: The students fell more than 30 feet on the last day of school in Tasmania, Australia. Several others were critically injured. 
  <p class="updated_time"> 03:16 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
- <p class="updated_time"> 03:05 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">4 Children Die in Fall From Bouncy Castle in Tasmania, Australia</a> NYT: The students fell more than 30 feet on the last day of school in Tasmania, Australia. Several others were critically injured. 
  <p class="updated_time"> 02:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
  <p class="updated_time"> 01:02 AM CT, Dec. 16 </p> 
@@ -35,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59630164?at_medium=RSS&at_campaign=KARANGA">Kenyans find rural lifeline after Covid city exodus</a> BBC: The coronavirus pandemic has forced some city dwellers to move back to the countryside to survive. 
  <p class="updated_time"> 06:26 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59661758?at_medium=RSS&at_campaign=KARANGA">Inside the fight for Bangladesh's independence</a> BBC: The author of the Bangladesh constitution on working with Sheikh Mujibur Rahman 
+ <p class="updated_time"> 06:19 PM CT, Dec. 15 </p> 
+ <a href="https://www.wsj.com/articles/dominican-republic-plane-crash-kills-nine-11639631943">Dominican Republic Plane Crash Kills Nine</a> WSJ: A small plane beginning a flight to Florida crashed, killing all nine people aboard, including Puerto Rican music producer José Ángel Hernández. 
  <p class="updated_time"> 06:13 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html">Putin and Xi Hold Video Summit</a> NYT: President Vladimir V. Putin of Russia and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West but have not yet declared a formal alliance. 
  <p class="updated_time"> 06:13 PM CT, Dec. 15 </p> 
@@ -101,6 +103,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/asia/hong-kong-fire.html">Hundreds Trapped by Fire at World Trade Center in Hong Kong</a> NYT: The blaze at the World Trade Center in Causeway Bay injured at least 13 people, including one who was semiconscious, the police said. 
  <p class="updated_time"> 10:17 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59666623?at_medium=RSS&at_campaign=KARANGA">Megan Thee Stallion 'told to dance' by Tory Lanez before alleged shooting</a> BBC: Rapper Tory Lanez is accused of hurting the songwriter after a party in Hollywood in July 2020. 
+ <p class="updated_time"> 10:09 AM CT, Dec. 15 </p> 
+ <a href="https://www.wsj.com/articles/putin-xi-affirm-russian-chinese-cooperation-to-counter-western-pressure-11639596457">Putin, Xi Affirm Cooperative Effort to Counter Western Pressure</a> WSJ: In a virtual meeting, the Russian and Chinese leaders agreed to rebuff foreign intrusion into their countries’ internal affairs and boost efforts to defend their nations’ security interests. 
  <p class="updated_time"> 09:57 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064212737/new-zealands-cigarette-ban-model">New Zealand's unique cigarette ban may be a model for other countries</a> NPR: The proposed law would effectively impose a lifetime cigarette ban for people aged 14 and younger. Researchers applauded it but said similar bans elsewhere could be more challenging. 
  <p class="updated_time"> 09:18 AM CT, Dec. 15 </p> 
@@ -198,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
+ <a href="https://www.politico.com/news/2021/12/16/build-back-better-progressives-power-524783">'Know when to hold and know when to fold': Progressives accept limits of their power</a> Politico: House liberals dug in hard this year on social spending. Whatever Sen. Joe Manchin (D-W.Va.) does, they're ready to declare a win. 
  <p class="updated_time"> 10:23 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/elon-musk-decency-warren-sanders/index.html">Analysis: Elon Musk reveals how decency is dying</a> CNN: Just days removed from being named Time's "Person of the Year," Elon Musk took to Twitter to unleash a litany of personal attacks against Sen. Elizabeth Warren for her call that he should "actually pay taxes." 
  <p class="updated_time"> 10:07 PM CT, Dec. 15 </p> 
@@ -332,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/15/1064385999/new-york-city-will-allow-legal-non-citizens-to-vote-in-local-elections">New York City will allow 800,000 noncitizens to vote in local elections</a> NPR: NPR's Rachel Martin talks to Ron Hayduk, a professor of political science at San Francisco State University, about New York City allowing noncitizen immigrants to vote in local elections. 
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/placebo-effect-clinical-care.html">Placebos Are Often Prescribed By Doctors. Are The Actually Effective?</a> NYT: An Australian researcher argues that the medical community has enshrined placebos as “mysterious and highly effective” in clinical care on the basis of flawed research. 
- <p class="updated_time"> 11:47 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Congress Approves $2.5 Trillion Debt Limit Increase, Sending It to Biden</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
  <p class="updated_time"> 11:41 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/house-islam-omar-perry-boebert-524536">Amid caustic rhetoric, House votes to combat Islamophobia</a> Politico: Rep. Scott Perry accused Rep. Ilhan Omar of connections to terrorism. 
  <p class="updated_time"> 11:35 PM CT, Dec. 14 </p> 
@@ -345,7 +349,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:53 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/guantanamo-bay-abd-al-rahim-al-nashiri.html">Waterboarded Prisoner Has Drowning Nightmares Two Decades Later, Doctor Testifies</a> NYT: Lawyers called a torture expert in a bid to spare a defendant a nauseating commute from prison to court by having him spend nights at Guantánamo Bay’s court compound. 
  <p class="updated_time"> 07:32 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/liz-cheney-capitol-attack.html">Marginalized by Her Party, Cheney Takes Center Stage in Jan. 6 Inquiry</a> NYT: Representative Liz Cheney has embraced a prominent role in the House investigation of the Jan. 6 attack, using her perch to hold up an unsparing mirror to the Republican Party. 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/liz-cheney-capitol-attack.html">Liz Cheney Takes Center Stage in Jan. 6 Inquiry</a> NYT: Representative Liz Cheney has embraced a prominent role in the House investigation of the Jan. 6 attack, using her perch to hold up an unsparing mirror to the Republican Party. 
  <p class="updated_time"> 06:40 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/garcetti-new-delhi-524273">Senate toasts Eric Garcetti nomination, despite the red flags back home</a> Politico: The L.A. mayor had his confirmation hearing Tuesday. Only one member asked him about the misconduct allegations his top aide is facing. 
  <p class="updated_time"> 06:02 PM CT, Dec. 14 </p> 
@@ -444,8 +448,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/09/senate-starts-debt-action-dole-honored-at-capitol-495406">Dems enjoy a moment of GOP cooperation</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/09/why-tongues-are-wagging-inside-the-house-gop-495402"> Why tongues are wagging inside the House GOP</a> Politico Playbook: And Biden kicks off his Summit for Democracy. 
- <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators’ new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
 
 
 </details>
