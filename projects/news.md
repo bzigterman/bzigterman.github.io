@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat With Migrants Sinks Near Malaysia, Killing at Least 16</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving several others missing, officials said. 
  <p class="updated_time"> 11:44 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Tasmania bouncy castle fall: Four children killed and five others injured</a> BBC: Five others are badly injured after wind blew the castle into the air, causing them to fall 10m. 
  <p class="updated_time"> 11:42 PM CT, Dec. 15 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/americas/santo-domingo-plane-crash.html">Santo Domingo Plane Crash Kills All 9 Aboard</a> NYT: A prominent Puerto Rican music producer known as Flow La Movie was reported to be among the dead. 
  <p class="updated_time"> 10:46 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59678367?at_medium=RSS&at_campaign=KARANGA">Michelle Odinet: Louisiana judge faces calls to quit over home video slurs</a> BBC: Judge Michelle Odinet says she took a sedative and has "zero recollection" of the incident. 
- <p class="updated_time"> 10:03 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat With Migrants Sinks Near Malaysia, Killing at Least 16</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving several others missing, officials said. 
  <p class="updated_time"> 09:53 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">2 Children Die in Inflatable Castle Accident in Tasmania</a> NYT: The students fell 33 feet from a jumping castle that was lifted into the air by a gust of wind, the authorities said. Several others were critically injured. 
  <p class="updated_time"> 09:41 PM CT, Dec. 15 </p> 
