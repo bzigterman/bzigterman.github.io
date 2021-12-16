@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:25 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">4 Children Die in Fall From Bouncy Castle in Tasmania, Australia</a> NYT: The students fell more than 30 feet on the last day of school in Tasmania, Australia. Several others were critically injured. 
  <p class="updated_time"> 02:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
- <p class="updated_time"> 01:18 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">4 Children Die in Inflatable Castle Accident in Tasmania</a> NYT: The students fell 33 feet on the last day of school in Tasmania, Australia. Several others were critically injured. 
  <p class="updated_time"> 01:02 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Tasmania bouncy castle fall: Four children killed and five others injured</a> BBC: Five others are badly injured after wind blew the castle into the air, causing them to fall 10m. 
  <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
@@ -27,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59663827?at_medium=RSS&at_campaign=KARANGA">Beijing 2022: Putin tells Xi he will attend Winter Olympics</a> BBC: The Russian president is one of the first major world leaders to indicate his attendance at the Games. 
  <p class="updated_time"> 07:00 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59677675?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: EU to warn Moscow against action</a> BBC: European leaders meeting in Brussels are expected to say hostile action could come at a "high price". 
+ <p class="updated_time"> 06:49 PM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/59667268?at_medium=RSS&at_campaign=KARANGA">Omicron: What can we learn from South Africa's experience so far?</a> BBC: We can learn some things from what's happening in South Africa, but there are also uncertainties. 
  <p class="updated_time"> 06:44 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59630164?at_medium=RSS&at_campaign=KARANGA">Kenyans find rural lifeline after Covid city exodus</a> BBC: The coronavirus pandemic has forced some city dwellers to move back to the countryside to survive. 
  <p class="updated_time"> 06:26 PM CT, Dec. 15 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59672999?at_medium=RSS&at_campaign=KARANGA">Kentucky tornado killed dad moments after phone call</a> BBC: Katie Fields lost her father in the Kentucky twisters - just after urging him on a call to flee. 
  <p class="updated_time"> 06:05 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59634393?at_medium=RSS&at_campaign=KARANGA">What's behind suicides by thousands of Indian housewives?</a> BBC: Indian women make up 36% of all global suicides in the 15 to 39 years age group. 
- <p class="updated_time"> 06:01 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59669585?at_medium=RSS&at_campaign=KARANGA">Usain Bolt: Mario Kart helped me become Olympic champion</a> BBC: Usain Bolt's been talking to BBC Sounds podcast Press X to Continue 
  <p class="updated_time"> 05:49 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59677593?at_medium=RSS&at_campaign=KARANGA">Dutch MP ordered to delete Covid Holocaust social media posts</a> BBC: Thierry Baudet is ordered by a court to delete social media posts comparing the unvaccinated to Jews. 
  <p class="updated_time"> 05:30 PM CT, Dec. 15 </p> 
@@ -89,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59667937?at_medium=RSS&at_campaign=KARANGA">Germany expels Russian diplomats after hitman sentenced in Berlin</a> BBC: Germany throws out two diplomats after Vadim Krasikov is jailed for murdering an ex-Chechen rebel. 
  <p class="updated_time"> 11:25 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-michael-kretschmer-plot-saxony-vaccines.html">Vaccine Opponents in Germany Investigated Over Plot to Kill State Governor</a> NYT: The authorities in Dresden raided the homes of a group of people who they said were targeting the leader of the state of Saxony. A number of weapons were seized. 
- <p class="updated_time"> 10:58 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59390798?at_medium=RSS&at_campaign=KARANGA">The teenagers and the nun trying to stop an Australian coal mine</a> BBC: Eight teenagers won a milestone environmental court case in Australia, but the result was appealed. 
  <p class="updated_time"> 10:51 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/15/1064463596/german-police-anti-vax-assassination-plot">German police move against an alleged murder plot by anti-vaccination extremists </a> NPR: The police conducted raids in the city of Dresden and the nearby town of Heidenau come after a group allegedly organized online to kill Saxony's state premier, Michael Kretschmer. 
  <p class="updated_time"> 10:50 AM CT, Dec. 15 </p> 
@@ -116,13 +114,9 @@ permalink: /projects/news/
  <p class="updated_time"> 08:21 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/india-sex-workers-benefits.html">India's Supreme Court Mandates Benefits for Sex Workers</a> NYT: Officials must enter them into databases for voting and benefits, the judges said, after they suffered from the effects of Covid-19 lockdowns. 
  <p class="updated_time"> 07:54 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59637586?at_medium=RSS&at_campaign=KARANGA">Inside an Afghan hospital on the brink</a> BBC: The BBC reports from a hospital in remote Ghor province which is struggling to cope. 
- <p class="updated_time"> 07:54 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/omicron-hong-kong-study.html">Two Doses of China's Sinovac Inadequate Against Omicron, Hong Kong Study Suggests</a> NYT: Laboratory experiments suggest that the Chinese vaccine provides little protection against an Omicron infection. 
  <p class="updated_time"> 07:31 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Halts Asia Trip After Journalist Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the United States earlier than planned. 
- <p class="updated_time"> 06:58 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59664077?at_medium=RSS&at_campaign=KARANGA">Riccardo Ehrman: Journalist who prompted Berlin Wall to fall dies</a> BBC: Riccardo Ehrman asked the historic question that led to East Germans tearing down the wall in 1989. 
  <p class="updated_time"> 05:36 AM CT, Dec. 15 </p> 
  <a href="https://www.wsj.com/articles/russian-gets-life-sentence-for-what-court-says-was-moscow-ordered-murder-in-berlin-11639574716">Russian Given Life Sentence for Killing of Chechen Rebel in Berlin</a> WSJ: A German court sentenced a Russian man to life in prison for shooting dead a former Chechen rebel leader in Berlin at the behest of Moscow, in a case that has further frayed already tense relations between Germany and Russia. 
  <p class="updated_time"> 05:31 AM CT, Dec. 15 </p> 
@@ -151,10 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/europe/italy-bishop-santa-claus.html">Italian Bishop Gives Children Harsh News: There Is No Santa Claus</a> NYT: You’ve been lied to, children heard from a bishop, the latest Catholic clergyman to try to take down Santa Claus and consumerism. Many Italians were not pleased. 
  <p class="updated_time"> 07:56 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/asia/blinken-indonesia-china.html">Blinken, in Indonesia, Stresses Soft Power to Counter China</a> NYT: The U.S. secretary of state seeks to make the case that the United States is a better bet as a partner than China, even if it’s not spending so lavishly in the region. 
- <p class="updated_time"> 07:02 PM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59552888?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: How PM Abiy led fight-back against rebel advance</a> BBC: Abiy Ahmed has thwarted a rebel advance on the capital a year into a brutal civil war. 
- <p class="updated_time"> 06:35 PM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59576108?at_medium=RSS&at_campaign=KARANGA">China: The death of a man bullied for being 'effeminate'</a> BBC: A young man's death sparks discussions on gender norms, even as the state targets "sissy men". 
  <p class="updated_time"> 06:12 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59646562?at_medium=RSS&at_campaign=KARANGA">Southern right whales: Tracking unexpected Southern Ocean migrations</a> BBC: New Zealand scientists have used satellite tags to follow whales around the Southern Ocean. 
  <p class="updated_time"> 06:07 PM CT, Dec. 14 </p> 
@@ -342,6 +332,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/15/1064385999/new-york-city-will-allow-legal-non-citizens-to-vote-in-local-elections">New York City will allow 800,000 noncitizens to vote in local elections</a> NPR: NPR's Rachel Martin talks to Ron Hayduk, a professor of political science at San Francisco State University, about New York City allowing noncitizen immigrants to vote in local elections. 
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/placebo-effect-clinical-care.html">Placebos Are Often Prescribed By Doctors. Are The Actually Effective?</a> NYT: An Australian researcher argues that the medical community has enshrined placebos as “mysterious and highly effective” in clinical care on the basis of flawed research. 
+ <p class="updated_time"> 11:47 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Congress Approves $2.5 Trillion Debt Limit Increase, Sending It to Biden</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
  <p class="updated_time"> 11:41 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/house-islam-omar-perry-boebert-524536">Amid caustic rhetoric, House votes to combat Islamophobia</a> Politico: Rep. Scott Perry accused Rep. Ilhan Omar of connections to terrorism. 
  <p class="updated_time"> 11:35 PM CT, Dec. 14 </p> 
@@ -353,7 +345,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:53 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/guantanamo-bay-abd-al-rahim-al-nashiri.html">Waterboarded Prisoner Has Drowning Nightmares Two Decades Later, Doctor Testifies</a> NYT: Lawyers called a torture expert in a bid to spare a defendant a nauseating commute from prison to court by having him spend nights at Guantánamo Bay’s court compound. 
  <p class="updated_time"> 07:32 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/liz-cheney-capitol-attack.html">Liz Cheney Takes Center Stage in Jan. 6 Inquiry</a> NYT: Representative Liz Cheney has embraced a prominent role in the House investigation of the Jan. 6 attack, using her perch to hold up an unsparing mirror to the Republican Party. 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/liz-cheney-capitol-attack.html">Marginalized by Her Party, Cheney Takes Center Stage in Jan. 6 Inquiry</a> NYT: Representative Liz Cheney has embraced a prominent role in the House investigation of the Jan. 6 attack, using her perch to hold up an unsparing mirror to the Republican Party. 
  <p class="updated_time"> 06:40 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/garcetti-new-delhi-524273">Senate toasts Eric Garcetti nomination, despite the red flags back home</a> Politico: The L.A. mayor had his confirmation hearing Tuesday. Only one member asked him about the misconduct allegations his top aide is facing. 
  <p class="updated_time"> 06:02 PM CT, Dec. 14 </p> 
