@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:46 PM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59678367?at_medium=RSS&at_campaign=KARANGA">Michelle Odinet: Louisiana judge faces calls to quit over home video slurs</a> BBC: Judge Michelle Odinet says she took a sedative and has "zero recollection" of the incident. 
  <p class="updated_time"> 10:03 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat With Migrants Sinks Near Malaysia, Killing at Least 16</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving several others missing, officials said. 
  <p class="updated_time"> 09:53 PM CT, Dec. 15 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/asia/hong-kong-fire.html">Hundreds Trapped by Fire at World Trade Center in Hong Kong</a> NYT: The blaze at the World Trade Center in Causeway Bay injured at least 13 people, including one who was semiconscious, the police said. 
  <p class="updated_time"> 10:17 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59666623?at_medium=RSS&at_campaign=KARANGA">Megan Thee Stallion 'told to dance' by Tory Lanez before alleged shooting</a> BBC: Rapper Tory Lanez is accused of hurting the songwriter after a party in Hollywood in July 2020. 
- <p class="updated_time"> 10:14 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59671567?at_medium=RSS&at_campaign=KARANGA">Derek Chauvin pleads guilty in George Floyd civil rights case</a> BBC: The former police officer is already serving a 22 year prison sentence for the murder of Mr Floyd. 
  <p class="updated_time"> 09:57 AM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064212737/new-zealands-cigarette-ban-model">New Zealand's unique cigarette ban may be a model for other countries</a> NPR: The proposed law would effectively impose a lifetime cigarette ban for people aged 14 and younger. Researchers applauded it but said similar bans elsewhere could be more challenging. 
  <p class="updated_time"> 09:18 AM CT, Dec. 15 </p> 
