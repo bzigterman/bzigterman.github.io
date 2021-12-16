@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:29 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/health/coronavirus-omicron-variant.html">As Omicron Surges, a Race to Gauge the Threat</a> NYT: The variant will spread quickly through the United States, experts say. What happens after that is less certain. 
+ <p class="updated_time"> 05:26 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html">Oriol Bohigas, Groundbreaking Spanish Architect, Dies at 95</a> NYT: He was a mastermind of the overhaul of Barcelona in preparation for the 1992 Summer Olympics, which helped transform much of the city. 
+ <p class="updated_time"> 05:25 PM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59692502?at_medium=RSS&at_campaign=KARANGA">Tania Mendoza: Mexican actress shot dead while waiting for son</a> BBC: Tania Mendoza was outside a football academy when a gunman shot her multiple times before escaping. 
+ <p class="updated_time"> 05:20 PM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59692776?at_medium=RSS&at_campaign=KARANGA">US panel recommends J&J shots be sidelined after clot deaths</a> BBC: Nine people have died from extremely rare side effects linked to Johnson & Johnson's jab. 
  <p class="updated_time"> 05:04 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59692022?at_medium=RSS&at_campaign=KARANGA">Philippines typhoon Rai: Month-old baby rescued in a tub</a> BBC: Thousands have been evacuated as the storm brought 165km/h (103 mph) winds and heavy rain. 
  <p class="updated_time"> 05:00 PM CT, Dec. 16 </p> 
@@ -93,16 +101,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/16/1064756063/powerful-typhoon-hits-philippines-nearly-100-000-evacuated">Powerful typhoon hits Philippines, nearly 100,000 evacuated</a> NPR: A powerful typhoon slammed into the southeastern Philippines on Thursday, prompting the evacuation of nearly 100,000 people. Officials say 10,000 villages lie in the projected path of the typhoon. 
  <p class="updated_time"> 03:56 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/americas/santo-domingo-plane-crash.html">Santo Domingo Plane Crash Kills All 9 Aboard</a> NYT: A prominent Puerto Rican music producer known as Flow La Movie was reported to be among the dead. 
- <p class="updated_time"> 03:45 AM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59680797?at_medium=RSS&at_campaign=KARANGA">Bruce Springsteen sells his entire music catalogue for $500m</a> BBC: The star follows in the footsteps of Bob Dylan, Stevie Nicks and Blondie by cashing in on his songs. 
  <p class="updated_time"> 02:16 AM CT, Dec. 16 </p> 
  <a href="https://www.wsj.com/articles/turkeys-currency-crisis-escalates-ahead-of-possible-rate-cut-11639646334">Turkey's Currency Crisis Escalates After Central Bank Cuts Rates</a> WSJ: Turkey’s central bank bowed to political pressure to slash interest rates, defying soaring inflation and deepening a currency crisis that has dogged the economy. 
  <p class="updated_time"> 02:09 AM CT, Dec. 16 </p> 
  <a href="https://www.wsj.com/articles/covid-19-cancels-christmas-around-europeagain-11639660145">Covid-19 Cancels Christmas Around Europe…Again</a> WSJ: From Spanish holidays to Greek celebrations to German circus performances, the Covid-19 pandemic has derailed plans and upended Christmas traditions across Europe for a second year in a row. 
  <p class="updated_time"> 02:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
- <p class="updated_time"> 12:15 AM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-59678451?at_medium=RSS&at_campaign=KARANGA">Reddit: Social media platform files to go public</a> BBC: Reddit was at the centre of the so-called "meme stock" phenomenon earlier this year. 
  <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064740067/lithuania-closes-embassy-in-china-after-last-diplomats-leave-amid-taiwan-spat">Lithuania closes embassy in China after last diplomats leave amid Taiwan spat</a> NPR: Lithuania says it's closed its embassy in Beijing and pulled its last diplomat out amid a spat over the European Union nation allowing Taiwan to open a representative office in the capital, Vilnius. 
  <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
@@ -149,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-covid-record-cases.html">Britain Breaks Daily Record for New Virus Cases</a> NYT: Officials didn’t specify what share of the new cases might be Omicron, though they said a majority in London were from the variant. 
  <p class="updated_time"> 02:32 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-omicron-surge.html">Why Britain Thinks Omicron Infected 200,000 People on Monday</a> NYT: Experts called it ‘a back-of-the-envelope calculation’ that showed how quickly the variant spreads, but also how little is known about it. 
- <p class="updated_time"> 02:27 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-covid-restrictions.html">Conservatives Abandon Johnson Over New Covid Rules</a> NYT: A record number of Prime Minister Boris Johnson’s fellow party members voted against his plan for Covid certificates. But the plan passed with the help of the opposition. 
  <p class="updated_time"> 01:24 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/netherlands-dutch-coalition.html">After Months, a ‘New’ Dutch Coalition With the Same Leader and Parties</a> NYT: Mark Rutte, who has weathered a scandal and criticism for overstaying his welcome, will be prime minister for a fourth term. 
  <p class="updated_time"> 12:06 PM CT, Dec. 15 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/africa/a-times-correspondent-returning-from-south-africa-got-caught-up-in-the-chaotic-response-to-omicron.html">A Times correspondent returning from South Africa got caught up in the chaotic response to Omicron.</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
  <p class="updated_time"> 02:39 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59665125?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Dozens stranded on roof after World Trade Centre fire</a> BBC: Footage obtained by the BBC shows people crowded amongst the roof's scaffolding awaiting rescue. 
- <p class="updated_time"> 02:21 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/europe/greece-covid-school-abduction.html">Three Jailed in Greece After a Principal was Handcuffed Over Virus Measures</a> NYT: Police said a group of people handcuffed the principal on Friday and drove him to a local precinct, suggesting that officers arrest him for enforcing Covid measures. 
  <p class="updated_time"> 08:14 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/italy-bishop-santa-claus.html">Italian Bishop Gives Children Harsh News: There Is No Santa Claus</a> NYT: You’ve been lied to, children heard from a bishop, the latest Catholic clergyman to try to take down Santa Claus and consumerism. Many Italians were not pleased. 
  <p class="updated_time"> 03:30 PM CT, Dec. 14 </p> 
@@ -204,18 +204,20 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/trudeau-us-protectionism-525177">Trudeau directs senior ministers to combat U.S. protectionism</a> Politico: In new marching orders to his Cabinet, the prime minister tasked his team with engaging the United States on ‘bilateral trade issues and protectionist measures.’ 
  <p class="updated_time"> 05:44 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-meadows-525172">Jan. 6 committee subpoenas author of debunked election-fraud PowerPoint sent to Meadows</a> Politico: James P. “Phil” Waldron, a retired Army colonel, is asked to provide documents by Jan. 10 and sit for a deposition. 
+ <p class="updated_time"> 05:30 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/us/politics/democrats-latinos.html">Democrats Find Urgent New Reasons to Worry About Latino Voters</a> NYT: Two reports shed light on the issues driving Hispanic voters and why their support of the Democratic Party is eroding. 
+ <p class="updated_time"> 05:30 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/joe-biden-warning-winter/index.html">Biden warns of winter of 'severe illness and death' for unvaccinated due to Omicron </a> CNN: President Joe Biden said on Thursday warned people who are not vaccinated against Covid-19 are looking at a very bleak and dangerous winter if they do not get their shots soon. 
+ <p class="updated_time"> 05:25 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/medication-abortion-fda-supreme-court/index.html">FDA says abortion pills can be sent by mail</a> CNN: With the Supreme Court poised to undo its abortion rights precedent, the Biden administration is considering a move that could mitigate the fallout from a Roe v. Wade reversal. And red states are already on the march to counteract whatever the federal government opts to do. 
+ <p class="updated_time"> 05:21 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/january-6-committee-subpoena-retired-colonel-power-point/index.html">January 6 committee subpoenas retired colonel who shared election fraud PowerPoint presentation</a> CNN: The House select committee investigating the January 6 attack on the US Capitol announced Thursday that it subpoenaed James P. "Phil" Waldron, a retired Army colonel who spread misinformation about election fraud and circulated a PowerPoint document detailing ways to undermine the 2020 presidential election outcome. 
  <p class="updated_time"> 05:19 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/phil-waldron-jan-6.html">Jan. 6 Panel Subpoenas Retired Colonel Who Shared Plan to Overturn Election</a> NYT: Phil Waldron has been under scrutiny since a 38-page PowerPoint he circulated was turned over to the panel by former President Donald J. Trump’s last chief of staff. 
  <p class="updated_time"> 05:16 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/fda-abortion-pill-loosen-rules-525164">FDA loosens rules for distributing abortion pills, opening new battle fronts</a> Politico: Heightening the stakes is the Supreme Court’s pending decision on Mississippi’s 15-week abortion ban. 
- <p class="updated_time"> 05:10 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/medication-abortion-fda-supreme-court/index.html">FDA says abortion pills can be sent by mail</a> CNN: With the Supreme Court poised to undo its abortion rights precedent, the Biden administration is considering a move that could mitigate the fallout from a Roe v. Wade reversal. And red states are already on the march to counteract whatever the federal government opts to do. 
- <p class="updated_time"> 05:05 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/joe-biden-warning-winter/index.html">Biden warns of winter of 'severe illness and death' for unvaccinated due to Omicron </a> CNN: President Joe Biden said on Thursday warned people who are not vaccinated against Covid-19 are looking at a very bleak and dangerous winter if they do not get their shots soon. 
  <p class="updated_time"> 05:03 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden awards Medal of Honor to 3 soldiers, including the first African American since the Vietnam War</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
- <p class="updated_time"> 05:00 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/january-6-committee-subpoena-retired-colonel-power-point/index.html">January 6 committee subpoenas retired colonel who shared election fraud PowerPoint presentation</a> CNN: The House select committee investigating the January 6 attack on the US Capitol announced Thursday that it subpoenaed James P. "Phil" Waldron, a retired Army colonel who spread misinformation about election fraud and circulated a PowerPoint document detailing ways to undermine the 2020 presidential election outcome. 
  <p class="updated_time"> 04:53 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/military-vaccine-mandate.html">Vaccine Holdouts in Army and Navy Will Be Dismissed, Military Says</a> NYT: Several governors are seeking exemptions for their National Guard troops. 
  <p class="updated_time"> 04:53 PM CT, Dec. 16 </p> 
@@ -370,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/15/politics/biden-judicial-nominations-trump/index.html">Biden to surpass Trump in first-year judicial nominees; a window into a major Dem push </a> CNN: President Joe Biden will soon announce his latest wave of nine judicial nominees, according to a White House official, capping a year where the selections -- and an effort to establish an imprint on the federal courts -- served as a focal point for his administration. 
  <p class="updated_time"> 07:35 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/15/house-is-home-for-the-holidays-senate-sticks-around-495473">House is home for the holidays, Senate sticks around</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:31 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Halts Asia Trip After Journalist Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the United States earlier than planned. 
  <p class="updated_time"> 06:19 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/15/a-junkies-guide-to-the-2022-midterms-495470"> A junkie’s guide to the 2022 midterms</a> Politico Playbook: And the House votes to hold Mark Meadows in contempt of Congress. 
  <p class="updated_time"> 11:41 PM CT, Dec. 14 </p> 
