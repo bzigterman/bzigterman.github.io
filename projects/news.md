@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:48 AM CT, Dec. 16 </p> 
+ <a href="https://www.npr.org/2021/12/16/1064760503/vaccine-skeptics-in-eastern-europe-are-having-a-change-of-heart">Vaccine skeptics in Eastern Europe are having a change of heart</a> NPR: With surging coronavirus infections and countries making it more difficult for the unvacccinated to travel, some vaccine skeptics are now coming around. 
  <p class="updated_time"> 04:35 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Australia bouncy castle fall: Five children killed and four others injured</a> BBC: Four others are badly injured after wind blew the castle into the air, causing them to fall 10m. 
  <p class="updated_time"> 04:34 AM CT, Dec. 16 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/europe/belarus-opposition-sergei-tikhanovsky.html">Belarus Opposition Leader Is Sentenced to 18 Years in Prison</a> NYT: The activist Sergei Tikhanovsky planned to challenge the country’s authoritarian leader, Aleksandr G. Lukashenko, in a presidential election last year. He was arrested before the vote and his wife stepped in. 
  <p class="updated_time"> 04:00 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064221041/deported-activists-allowed-back-into-the-u-s-saying-ice-retaliated-against-them">Deported activists allowed back into the U.S., saying ICE retaliated against them</a> NPR: A few months ago, Claudio Rojas was allowed back into the U.S. He's one of several activists deported but then allowed to return after arguing that immigration authorities retaliated against them. 
- <p class="updated_time"> 03:55 PM CT, Dec. 14 </p> 
- <a href="https://www.npr.org/2021/12/14/1064221027/covid-can-cause-long-term-injuries-to-the-brain-heres-what-scientists-have-learn">COVID can cause long-term injuries to the brain. Here's what scientists have learned</a> NPR: Scientists are beginning to understand how COVID can cause brain injuries. The virus can lead to a stroke, starve the brain of oxygen, cause inflammation brain and might infect and kill brain cells. 
  <p class="updated_time"> 03:30 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/climate/arctic-report-card-climate-change.html">Trends in Arctic Report Card: ‘Consistent, Alarming and Undeniable’</a> NYT: The changes happening at the top of the planet could unfold elsewhere in the years to come, scientists report. 
  <p class="updated_time"> 02:41 PM CT, Dec. 14 </p> 
