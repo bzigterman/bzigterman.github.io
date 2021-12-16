@@ -8,6 +8,8 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
+ <a href="https://www.npr.org/2021/12/16/1064740067/lithuania-closes-embassy-in-china-after-last-diplomats-leave-amid-taiwan-spat">Lithuania closes embassy in China after last diplomats leave amid Taiwan spat</a> NPR: Lithuania says it's closed its embassy in Beijing and pulled its last diplomat out amid a spat over the European Union nation allowing Taiwan to open a representative office in the capital, Vilnius. 
+ <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat With Migrants Sinks Near Malaysia, Killing at Least 16</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving several others missing, officials said. 
  <p class="updated_time"> 11:44 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Tasmania bouncy castle fall: Four children killed and five others injured</a> BBC: Five others are badly injured after wind blew the castle into the air, causing them to fall 10m. 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/health/coronavirus-omicron-next-pandemic.html">Omicron Is a Dress Rehearsal for the Next Pandemic</a> NYT: America’s response to the variant highlights both how much progress we have made over the past two years — and how much work remains. 
  <p class="updated_time"> 10:37 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/tunisia-saied-constitution-election.html">Tunisia’s President Promises Vote on Constitution and Sets Election Date</a> NYT: President Kais Saied’s announcement dispelled some of the uncertainty Tunisians have endured for months since he shunted aside Parliament in what critics called a soft coup. 
- <p class="updated_time"> 10:18 AM CT, Dec. 14 </p> 
- <a href="https://www.npr.org/2021/12/14/1064081667/canada-pledges-40-billion-abuses-indigenous-children">Canada pledges $40 billion in talks over rampant abuses of Indigenous children</a> NPR: From 1831 to 1998, the government separated some 150,000 Indigenous children from their families and sent them to residential schools where they routinely faced physical and sexual abuse. 
  <p class="updated_time"> 09:51 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/asia/duterte-philippines-senate.html">Philippines President Rodrigo Duterte Won't Run for Senate</a> NYT: The populist president also promised a peaceful transition of power when his term ends next year. 
  <p class="updated_time"> 09:47 AM CT, Dec. 14 </p> 
