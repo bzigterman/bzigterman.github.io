@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:31 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
  <p class="updated_time"> 03:20 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064951597/haitian-migrants-say-mexican-authorities-are-keeping-them-from-traveling-to-the-">Haitian migrants say Mexican authorities are keeping them from traveling to the U.S.</a> NPR: Haitian migrants who crossed into Mexico from Guatemala are being prevented by Mexican authorities from traveling north to the U.S. The migrants say they are treated much worse than Latino migrants. 
  <p class="updated_time"> 02:16 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/covid-pandemic-story.html">In 50 Words, Tell Us Your Best Pandemic Story</a> NYT: We want to hear about your Covid memories. 
- <p class="updated_time"> 01:58 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
  <p class="updated_time"> 01:16 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59615769?at_medium=RSS&at_campaign=KARANGA">RAF Typhoon jet shoots down 'small hostile drone' in Syria</a> BBC: It is the first time the RAF has shot down enemy aircraft since the Falklands nearly 40 years ago. 
  <p class="updated_time"> 12:55 PM CT, Dec. 16 </p> 
@@ -204,8 +204,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:17 PM CT, Dec. 16 </p> 
+ <p class="updated_time"> 03:29 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/health/abortion-pills-fda.html">F.D.A. Will Permanently Allow Abortion Pills by Mail</a> NYT: The decision will broaden access to medication abortion, an increasingly common method, but many conservative states are already mobilizing against it. 
+ <p class="updated_time"> 03:22 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden awards Medal of Honor to 3 soldiers, including the first African American since the Vietnam War</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
+ <p class="updated_time"> 03:20 PM CT, Dec. 16 </p> 
+ <a href="https://www.npr.org/2021/12/16/1064951583/rep-kinzinger-discusses-the-events-of-jan-6-as-congressional-inquiries-heat-up">Rep. Kinzinger discusses the events of Jan. 6 as congressional inquiries heat up</a> NPR: NPR's Audie Cornish speaks with Rep. Adam Kinzinger, R-Ill., about his role on the House committee investigating the Jan. 6 insurrection. 
  <p class="updated_time"> 03:07 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064927774/democrats-forced-to-regroup-as-bidens-signature-spending-bill-stalls">Democrats forced to regroup as Biden's signature spending bill stalls</a> NPR: For weeks, Senate Majority Leader Chuck Schumer had promised a vote on Biden's social and climate agenda before Christmas. But all 50 Senators in caucus have not been able to unify behind the plan. 
  <p class="updated_time"> 02:55 PM CT, Dec. 16 </p> 
@@ -348,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/15/1064614631/biden-promised-government-support-after-visiting-areas-hit-by-tornadoes-in-kentu">Biden promised government support after visiting areas hit by tornadoes in Kentucky</a> NPR: President Biden toured areas of western Kentucky damaged by a series of powerful tornadoes on Dec. 10 and 11. The president promised the federal government would be there to help people. 
  <p class="updated_time"> 03:33 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/biden-manchin-megabill-524776">‘Going very poorly’: Biden can't nail Manchin down on Dems’ bill</a> Politico: President Joe Biden is running out of patience as Sen. Joe Manchin continues to drag his feet on supporting the party's domestic spending legislation. 
- <p class="updated_time"> 03:28 PM CT, Dec. 15 </p> 
- <a href="https://www.npr.org/2021/12/15/1064614591/bipartisan-congress-group-calls-to-ship-more-weapons-to-the-ukraine-to-deter-rus">Bipartisan Congress group calls to ship more weapons to the Ukraine to deter Russia</a> NPR: A bipartisan group from the United States Congress, just returned from Ukraine, are calling for the Biden administration to step up weapons shipments to Kyiv to deter a Russian invasion. 
  <p class="updated_time"> 12:59 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/guantanamo-bay-cia-prisoners.html">U.S. Waited Months to Book C.I.A. Prisoners at Guantánamo Bay</a> NYT: Defense lawyers said the delay cast into doubt whether samples taken from the captives could be considered valid evidence. 
  <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-stimulus-bill-republicans.html">Republicans Who Assailed Biden’s Stimulus Bill Are Embracing the Money</a> NYT: Republican governors who criticized the $1.9 trillion Covid relief bill as wasteful are championing state projects funded by the money. 
  <p class="updated_time"> 09:18 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/gop-governors-vaccine-pentagon.html">5 Republican Governors Seek Vaccine Exemptions for National Guard Troops</a> NYT: The move comes as the Pentagon released a new order this week saying that National Guard members who do not get vaccinated would receive a general order of reprimand, essentially ending their careers. 
- <p class="updated_time"> 09:16 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/ilhan-omar-house-debate-islamophobia.html">Republican Rebuked for Anti-Muslim Remarks in ‘Islamophobia’ Debate</a> NYT: A conservative Republican accused Ilhan Omar, the sponsor of a House bill to combat anti-Muslim bias, of terrorist sympathies. 
  <p class="updated_time"> 08:58 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/joe-biden-mark-meadows-contempt/index.html">Biden says Meadows seems 'worthy of being held in contempt' for failing to appear for interview with Jan. 6 committee</a> CNN: President Joe Biden on Wednesday suggested Mark Meadows was "worthy" of being in held in contempt of Congress after the Democratic-controlled House referred the ex-White House chief of staff to the Department of Justice for failing to appear for a deposition with the committee investigating the January 6 attack on the US Capitol. 
  <p class="updated_time"> 08:49 AM CT, Dec. 15 </p> 
