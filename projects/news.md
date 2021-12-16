@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:26 AM CT, Dec. 16 </p> 
+ <a href="https://www.npr.org/2021/12/16/1064743864/in-kashmir-closed-mosque-raises-questions-about-indias-religious-freedom">In Kashmir, closed mosque raises questions about India's religious freedom</a> NPR: For Kashmiri Muslims the Jamia Masjid is a sacred venue, but it's been closed most Fridays for the past two years. The government has said those who manage it couldn't stop anti-India protests there. 
+ <p class="updated_time"> 04:23 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">5 Schoolchildren Die in Fall From Bouncy Castle in  Australia</a> NYT: The students fell more than 30 feet on the last day of school in Tasmania, Australia. Several others were critically injured. 
  <p class="updated_time"> 04:05 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59679861?at_medium=RSS&at_campaign=KARANGA">Covid: France to drastically restrict travel from UK</a> BBC: Non-residents will need compelling reasons to travel, as France tries to slow the spread of Omicron. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/16/1064756063/powerful-typhoon-hits-philippines-nearly-100-000-evacuated">Powerful typhoon hits Philippines, nearly 100,000 evacuated</a> NPR: A powerful typhoon slammed into the southeastern Philippines on Thursday, prompting the evacuation of nearly 100,000 people. Officials say 10,000 villages lie in the projected path of the typhoon. 
  <p class="updated_time"> 03:56 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/americas/santo-domingo-plane-crash.html">Santo Domingo Plane Crash Kills All 9 Aboard</a> NYT: A prominent Puerto Rican music producer known as Flow La Movie was reported to be among the dead. 
- <p class="updated_time"> 03:30 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">5 Children Die in Fall From Bouncy Castle in Tasmania, Australia</a> NYT: The students fell more than 30 feet on the last day of school in Tasmania, Australia. Several others were critically injured. 
  <p class="updated_time"> 03:16 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
  <p class="updated_time"> 02:00 AM CT, Dec. 16 </p> 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064221027/covid-can-cause-long-term-injuries-to-the-brain-heres-what-scientists-have-learn">COVID can cause long-term injuries to the brain. Here's what scientists have learned</a> NPR: Scientists are beginning to understand how COVID can cause brain injuries. The virus can lead to a stroke, starve the brain of oxygen, cause inflammation brain and might infect and kill brain cells. 
  <p class="updated_time"> 03:30 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/climate/arctic-report-card-climate-change.html">Trends in Arctic Report Card: ‘Consistent, Alarming and Undeniable’</a> NYT: The changes happening at the top of the planet could unfold elsewhere in the years to come, scientists report. 
- <p class="updated_time"> 03:23 PM CT, Dec. 14 </p> 
- <a href="https://www.npr.org/2021/12/14/1064220992/a-gloomy-report-card-from-the-arctic">A gloomy report card from the Arctic</a> NPR: NPR's Ari Shapiro talks with Twila Moon, co-editor of the National Oceanic and Atmospheric Administration's 2021 Arctic Report Card, which shows oceans warming and sea ice disappearing. 
  <p class="updated_time"> 02:41 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/uk-south-africa-travel-ban.html">Britain lifts ban on travelers arriving from southern Africa</a> NYT: With the Omicron variant already spreading, officials conclude they’ve lost the battle to prevent its entering Britain. 
  <p class="updated_time"> 02:34 PM CT, Dec. 14 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
+ <a href="https://www.politico.com/news/2021/12/16/jan-6-gohmert-lawsuit-pence-524839">The Jan. 6 puzzle piece that's going largely ignored</a> Politico: Rep. Louie Gohmert  sued then-Vice President Mike Pence on Dec. 27. Donald Trump’s involvement in the case remains unclear. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/build-back-better-progressives-power-524783">'Know when to hold and know when to fold': Progressives accept limits of their power</a> Politico: House liberals dug in hard this year on social spending. Whatever Sen. Joe Manchin (D-W.Va.) does, they're ready to declare a win. 
  <p class="updated_time"> 04:16 AM CT, Dec. 16 </p> 
@@ -264,6 +266,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/15/politics/democrat-covid-package-push/index.html">House Democrat calls for Congress to pass another Covid relief package </a> CNN: Rep. Jamaal Bowman, a progressive freshman Democrat from New York, is calling on Congress to pass another Covid-19 relief package as the country marks 800,000 deaths from the virus and the threat of the Omicron variant only grows. 
  <p class="updated_time"> 05:00 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/jim-jordan-mark-meadows-text/index.html">Jim Jordan sent one of the texts revealed by January 6 committee</a> CNN: Rep. Jim Jordan forwarded a text message to then-White House chief of staff Mark Meadows on January 5, outlining a legal theory that then-Vice President Mike Pence had the authority to stand in the way of the certification of the 2020 election. 
+ <p class="updated_time"> 04:45 PM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/news/2021/12/15/eric-adams-mayor-health-new-york-524802">New York’s next mayor wants to save the city from the evils of olive oil</a> Politico: “We can save more lives with plant-based diet if people would only realize they are enslaved to fats, oil, sugar and things that are killing their body,” Adams said in a short 2018 film. 
  <p class="updated_time"> 04:25 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064614659/house-members-want-lauren-boebert-removed-from-assignments-over-islamophobic-com">House members want Lauren Boebert removed from assignments over Islamophobic comments</a> NPR: House Democratic leaders may bring up a resolution to remove Colorado Republican Representative Lauren Boebert from her committee assignments over her Islamophobic comments. 
  <p class="updated_time"> 04:17 PM CT, Dec. 15 </p> 
@@ -302,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/15/politics/5th-circuit-biden-health-care-worker-mandate/index.html">Health care worker vaccine mandate can be enforced in half the country, appeals court says</a> CNN: A federal appeals court gave the Biden administration a partial win in the federal government's efforts to require Covid-19 vaccines for certain health care workers. 
  <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
- <p class="updated_time"> 12:13 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/abortion-pill-rules-reproductive-rights-524680">'Quite hopeful': Abortion pill decision could reshape reproductive health war</a> Politico: Regulators are due to decide Thursday whether to uphold, revise or scrap longstanding restrictions on the abortion drug mifepristone. 
  <p class="updated_time"> 11:39 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/navy-kicks-out-sailors-vaccine-524693">Navy starts kicking out sailors for refusing Covid vaccine as Republicans rage over mandate</a> Politico: The move comes as the Air Force begins discharging service members for not taking the shot. 
  <p class="updated_time"> 11:10 AM CT, Dec. 15 </p> 
