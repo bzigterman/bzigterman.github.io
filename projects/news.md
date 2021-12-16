@@ -20,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:22 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59689060?at_medium=RSS&at_campaign=KARANGA">Haiti kidnappers release remaining missionaries</a> BBC: The missionaries from the US and Canada were abducted in mid-October by a powerful crime gang. 
  <p class="updated_time"> 11:18 AM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064847616/tasmania-bouncy-castle-accident">A wind gust swept a bouncy castle in Tasmania 30 feet in the air, killing 5 children</a> NPR: Authorities say Hillcrest Primary School's end-of-year celebration turned tragic when a strong gust of wind lifted a bouncy castle into the air, killing five students and injuring four others. 
+ <a href="https://www.npr.org/2021/12/16/1064847616/tasmania-bouncy-castle-accident">A wind gust swept a bouncy castle in Tasmania 30 feet in the air, killing 5 children</a> NPR: Authorities say an end-of-year celebration at Hillcrest Primary School in the Australian state turned tragic when nine students fell from a height of about 32 feet. 
  <p class="updated_time"> 11:06 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/middleeast/turkish-lira-currency-erdogan-turkey.html">Turkish Currency Hits a New Low, Again</a> NYT: The Central Bank has cut interest rates, even as inflation continues to soar, deepening President Erdogan’s disputed economic plan and setting off a new plunge in the lira. 
  <p class="updated_time"> 10:54 AM CT, Dec. 16 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/chamber-ad-manchin-build-back-better-525129">Chamber launches ads targeting Manchin, hoping to kill Build Back Better</a> Politico: The group got a huge win with the infrastructure bill. Now, they want the legislative spigot to go dry. 
+ <p class="updated_time"> 01:52 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden to award Medal of Honor to 3 Army soldiers</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
  <p class="updated_time"> 01:14 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
  <p class="updated_time"> 01:11 PM CT, Dec. 16 </p> 
@@ -214,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/16/politics/jackson-beasley-north-carolina-senate-race/index.html">Jackson bows out of Democratic Senate primary in North Carolina, largely clearing field for Beasley</a> CNN: North Carolina state Sen. Jeff Jackson on Thursday bowed out of the race to be the Tar Heel state's next US senator, largely clearing the Democratic primary field for former state Supreme Court chief justice Cheri Beasley. 
  <p class="updated_time"> 12:48 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/alan-lowenthal-retiring/index.html">Democratic Rep. Alan Lowenthal announces he will not seek reelection in 2022</a> CNN: Democratic Rep. Alan Lowenthal of California announced Thursday that he will not seek reelection in 2022, joining a number of high-profile and long-serving lawmakers who plan to leave Capitol Hill after this term. 
- <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden to award Medal of Honor to 3 Army soldiers</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
  <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">Dems fume as agenda hits brick wall in Senate that 'sucks'</a> Politico: The party doubts it can accomplish anything on its sweeping spending bill, elections reform or expanding the child tax credit before year's end. 
  <p class="updated_time"> 12:35 PM CT, Dec. 16 </p> 
@@ -368,6 +368,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Halts Asia Trip After Journalist Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the United States earlier than planned. 
  <p class="updated_time"> 06:19 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/15/a-junkies-guide-to-the-2022-midterms-495470"> A junkie’s guide to the 2022 midterms</a> Politico Playbook: And the House votes to hold Mark Meadows in contempt of Congress. 
+ <p class="updated_time"> 04:31 AM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/news/2021/12/15/democratic-governors-covid-fatigue-524425">‘They’re sick of masks’: Democratic governors fight Covid fatigue</a> Politico: The party’s defeat last month in Virginia — and closer-than-expected victory in New Jersey — has many Democrats searching for an off-ramp to the pandemic that allows them to sell a brighter future to voters next November. 
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/placebo-effect-clinical-care.html">Placebos Are Often Prescribed By Doctors. Are The Actually Effective?</a> NYT: An Australian researcher argues that the medical community has enshrined placebos as “mysterious and highly effective” in clinical care on the basis of flawed research. 
  <p class="updated_time"> 11:41 PM CT, Dec. 14 </p> 
