@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:04 PM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59692022?at_medium=RSS&at_campaign=KARANGA">Philippines typhoon Rai: Month-old baby rescued in a tub</a> BBC: Thousands have been evacuated as the storm brought 165km/h (103 mph) winds and heavy rain. 
  <p class="updated_time"> 05:00 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Panel Recommends Other Covid Vaccines Over J.&J.’s Shots</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
  <p class="updated_time"> 04:44 PM CT, Dec. 16 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/europe/greece-covid-school-abduction.html">Three Jailed in Greece After a Principal was Handcuffed Over Virus Measures</a> NYT: Police said a group of people handcuffed the principal on Friday and drove him to a local precinct, suggesting that officers arrest him for enforcing Covid measures. 
  <p class="updated_time"> 08:14 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/italy-bishop-santa-claus.html">Italian Bishop Gives Children Harsh News: There Is No Santa Claus</a> NYT: You’ve been lied to, children heard from a bishop, the latest Catholic clergyman to try to take down Santa Claus and consumerism. Many Italians were not pleased. 
- <p class="updated_time"> 06:12 PM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59646562?at_medium=RSS&at_campaign=KARANGA">Southern right whales: Tracking unexpected Southern Ocean migrations</a> BBC: New Zealand scientists have used satellite tags to follow whales around the Southern Ocean. 
  <p class="updated_time"> 03:30 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/climate/arctic-report-card-climate-change.html">Trends in Arctic Report Card: ‘Consistent, Alarming and Undeniable’</a> NYT: The changes happening at the top of the planet could unfold elsewhere in the years to come, scientists report. 
  <p class="updated_time"> 02:41 PM CT, Dec. 14 </p> 
@@ -204,9 +204,15 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/trudeau-us-protectionism-525177">Trudeau directs senior ministers to combat U.S. protectionism</a> Politico: In new marching orders to his Cabinet, the prime minister tasked his team with engaging the United States on ‘bilateral trade issues and protectionist measures.’ 
  <p class="updated_time"> 05:44 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-meadows-525172">Jan. 6 committee subpoenas author of debunked election-fraud PowerPoint sent to Meadows</a> Politico: James P. “Phil” Waldron, a retired Army colonel, is asked to provide documents by Jan. 10 and sit for a deposition. 
+ <p class="updated_time"> 05:19 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/us/politics/phil-waldron-jan-6.html">Jan. 6 Panel Subpoenas Retired Colonel Who Shared Plan to Overturn Election</a> NYT: Phil Waldron has been under scrutiny since a 38-page PowerPoint he circulated was turned over to the panel by former President Donald J. Trump’s last chief of staff. 
  <p class="updated_time"> 05:16 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/fda-abortion-pill-loosen-rules-525164">FDA loosens rules for distributing abortion pills, opening new battle fronts</a> Politico: Heightening the stakes is the Supreme Court’s pending decision on Mississippi’s 15-week abortion ban. 
- <p class="updated_time"> 05:02 PM CT, Dec. 16 </p> 
+ <p class="updated_time"> 05:10 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/medication-abortion-fda-supreme-court/index.html">FDA says abortion pills can be sent by mail</a> CNN: With the Supreme Court poised to undo its abortion rights precedent, the Biden administration is considering a move that could mitigate the fallout from a Roe v. Wade reversal. And red states are already on the march to counteract whatever the federal government opts to do. 
+ <p class="updated_time"> 05:05 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/joe-biden-warning-winter/index.html">Biden warns of winter of 'severe illness and death' for unvaccinated due to Omicron </a> CNN: President Joe Biden said on Thursday warned people who are not vaccinated against Covid-19 are looking at a very bleak and dangerous winter if they do not get their shots soon. 
+ <p class="updated_time"> 05:03 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden awards Medal of Honor to 3 soldiers, including the first African American since the Vietnam War</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
  <p class="updated_time"> 05:00 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/january-6-committee-subpoena-retired-colonel-power-point/index.html">January 6 committee subpoenas retired colonel who shared election fraud PowerPoint presentation</a> CNN: The House select committee investigating the January 6 attack on the US Capitol announced Thursday that it subpoenaed James P. "Phil" Waldron, a retired Army colonel who spread misinformation about election fraud and circulated a PowerPoint document detailing ways to undermine the 2020 presidential election outcome. 
@@ -218,12 +224,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/business/economy/omicron-inflation.html">Omicron Is an Economic Threat, but Inflation Is Worse, Central Bankers Say</a> NYT: Within 24 hours, the Federal Reserve, Bank of England and European Central Bank all stepped forward to deal with price increases. 
  <p class="updated_time"> 04:34 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/cdc-covid-vaccine-johnson-525153">CDC advisers recommend mRNA Covid vaccines over J&J shot amid blood clot risks</a> Politico: CDC Director Rochelle Walensky must now decide whether to accept the panel's recommendation. 
- <p class="updated_time"> 04:33 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/phil-waldron-jan-6.html">Jan. 6 Panel Subpoenas Retired Colonel Who Shared Plan to Overturn Election</a> NYT: Phil Waldron has been under scrutiny since a 38-page PowerPoint he circulated was turned over to the panel by former President Donald J. Trump’s last chief of staff. 
- <p class="updated_time"> 04:33 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/joe-biden-warning-winter/index.html">Biden warns of winter of 'severe illness and death' for unvaccinated due to Omicron </a> CNN: President Joe Biden said on Thursday warned people who are not vaccinated against Covid-19 are looking at a very bleak and dangerous winter if they do not get their shots soon. 
- <p class="updated_time"> 04:23 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/medication-abortion-fda-supreme-court/index.html">FDA says abortion pills can be sent by mail</a> CNN: With the Supreme Court poised to undo its abortion rights precedent, the Biden administration is considering a move that could mitigate the fallout from a Roe v. Wade reversal. And red states are already on the march to counteract whatever the federal government opts to do. 
  <p class="updated_time"> 04:13 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/abortion-pills-fda.html">F.D.A. Will Permanently Allow Abortion Pills by Mail</a> NYT: The decision will broaden access to medication abortion, an increasingly common method, but many conservative states are already mobilizing against it. 
  <p class="updated_time"> 04:08 PM CT, Dec. 16 </p> 
@@ -266,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-kentucky-tornado.html">Touring Kentucky, Biden Vows ‘Whatever It Takes’ to Recover From Storms</a> NYT: The president promised the federal government would cover the full cost of the emergency response for 30 days as he comforted victims of the devastating tornadoes. 
  <p class="updated_time"> 12:16 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-signs-debt-limit-increase/index.html">Biden signs debt limit increase</a> CNN: President Joe Biden on Thursday signed the bill raising the debt limit ceiling that passed Congress earlier this week, according to a press release from the White House. 
- <p class="updated_time"> 12:09 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/rep-jim-jordan-january-6-text/index.html">The Point: Jim Jordan helped plot the coup. Now he's in line to be one of the most powerful members of Congress.</a> CNN: If Republicans win the House majority next November -- and they are currently favored to do so -- then Ohio Rep. Jim Jordan will almost certainly rise to one of the most prominent positions in the chamber: Chairman of the Judiciary Committee. 
  <p class="updated_time"> 12:09 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/marines-army-kicked-out-covid-vaccine-525101">More than 100 Marines kicked out of the service for refusing Covid vaccine</a> Politico: The Army also announced Thursday it has fired two battalion commanders over the order. 
  <p class="updated_time"> 11:47 AM CT, Dec. 16 </p> 
@@ -360,6 +358,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/us/politics/guantanamo-bay-cia-prisoners.html">U.S. Waited Months to Book C.I.A. Prisoners at Guantánamo Bay</a> NYT: Defense lawyers said the delay cast into doubt whether samples taken from the captives could be considered valid evidence. 
  <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
+ <p class="updated_time"> 11:10 AM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/cnn-poll-economy/index.html">CNN Poll: Most say government is doing too little to fix inflation and the supply chain</a> CNN: Americans' impressions of the nation's economy remain gloomy and broad majorities think the federal government has done too little to try to solve problems with the nation's supply chain and rising inflation, according to a new CNN Poll conducted by SSRS. 
  <p class="updated_time"> 09:18 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/gop-governors-vaccine-pentagon.html">5 Republican Governors Seek Vaccine Exemptions for National Guard Troops</a> NYT: The move comes as the Pentagon released a new order this week saying that National Guard members who do not get vaccinated would receive a general order of reprimand, essentially ending their careers. 
  <p class="updated_time"> 08:58 AM CT, Dec. 15 </p> 
