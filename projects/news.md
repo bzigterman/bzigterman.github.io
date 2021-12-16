@@ -7,9 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:46 AM CT, Dec. 16 </p> 
+ <p class="updated_time"> 01:18 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">4 Children Die in Inflatable Castle Accident in Tasmania</a> NYT: The students fell 33 feet on the last day of school in Tasmania, Australia. Several others were critically injured. 
- <p class="updated_time"> 12:25 AM CT, Dec. 16 </p> 
+ <p class="updated_time"> 01:02 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Tasmania bouncy castle fall: Four children killed and five others injured</a> BBC: Five others are badly injured after wind blew the castle into the air, causing them to fall 10m. 
  <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064740067/lithuania-closes-embassy-in-china-after-last-diplomats-leave-amid-taiwan-spat">Lithuania closes embassy in China after last diplomats leave amid Taiwan spat</a> NPR: Lithuania says it's closed its embassy in Beijing and pulled its last diplomat out amid a spat over the European Union nation allowing Taiwan to open a representative office in the capital, Vilnius. 
