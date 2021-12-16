@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:20 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html">NATO Signals Support for Ukraine Amid Russia Threat</a> NYT: The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion. 
  <p class="updated_time"> 08:09 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/ishigaki-japan-missiles-taiwan.html">The Island Paradise Near the Front Line of Tensions Over Taiwan</a> NYT: New missile batteries planned for the Japanese island of Ishigaki reflect a drastic shift in Japan’s views on China. 
  <p class="updated_time"> 08:04 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/middleeast/turkish-lira-currency-erdogan-turkey.html">Turkish Currency Hits a New Low, Again</a> NYT: The Central Bank has cut interest rates, even as inflation continues to soar, deepening President Erdogan’s disputed economic plan and setting off a new plunge in the lira. 
  <p class="updated_time"> 07:51 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59679861?at_medium=RSS&at_campaign=KARANGA">Covid: France to drastically restrict travel from UK</a> BBC: Non-residents will need compelling reasons to travel, as France tries to slow the spread of Omicron. 
- <p class="updated_time"> 07:45 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html">NATO Signals Support for Ukraine Amid Russia Threat</a> NYT: The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion. 
  <p class="updated_time"> 07:04 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: The Office of Civil Defense said that nearly 100,000 people in several regions had been evacuated. There was no immediate word on casualties. 
  <p class="updated_time"> 06:55 AM CT, Dec. 16 </p> 
@@ -49,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
  <p class="updated_time"> 02:35 AM CT, Dec. 16 </p> 
  <a href="https://www.wsj.com/articles/ecb-boosts-bond-purchases-as-it-phases-out-pandemic-stimulus-11639659416">ECB Extends Bond Purchases as It Phases Out Pandemic Stimulus</a> WSJ: The European Central Bank said it would phase out an emergency bond-buying program while ramping up other stimulus measures, diverging from the Federal Reserve and underscoring the challenge facing policy makers. 
+ <p class="updated_time"> 02:30 AM CT, Dec. 16 </p> 
+ <a href="https://www.wsj.com/articles/u-s-faces-pressure-to-sanction-myanmars-lucrative-energy-industry-11639661401">U.S. Faces Pressure to Sanction Myanmar's Lucrative Energy Industry</a> WSJ: The oil-and-gas industry is the main source of revenue for the Myanmar’s military, which seized power in a coup earlier this year. 
  <p class="updated_time"> 02:09 AM CT, Dec. 16 </p> 
  <a href="https://www.wsj.com/articles/covid-19-cancels-christmas-around-europeagain-11639660145">Covid-19 Cancels Christmas Around Europe…Again</a> WSJ: From Spanish holidays to Greek celebrations to German circus performances, the Covid-19 pandemic has derailed plans and upended Christmas traditions across Europe for a second year in a row. 
  <p class="updated_time"> 02:00 AM CT, Dec. 16 </p> 
@@ -61,6 +63,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/16/1064740067/lithuania-closes-embassy-in-china-after-last-diplomats-leave-amid-taiwan-spat">Lithuania closes embassy in China after last diplomats leave amid Taiwan spat</a> NPR: Lithuania says it's closed its embassy in Beijing and pulled its last diplomat out amid a spat over the European Union nation allowing Taiwan to open a representative office in the capital, Vilnius. 
  <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat With Migrants Sinks Near Malaysia, Killing at Least 16</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving several others missing, officials said. 
+ <p class="updated_time"> 11:52 PM CT, Dec. 15 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-surge-slows-european-recovery-but-supply-problems-ease-11639651970">Covid-19 Surge Slows European Recovery, but Supply Problems Ease</a> WSJ: The rapid spread of Omicron has weakened Europe’s economic recovery, but there are signs that the supply blockages that have hobbled factories over recent months are easing. 
  <p class="updated_time"> 11:42 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59667108?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Lost photos found 140 miles away</a> BBC: How a photo found on a Kentucky farm is being returned to its owner thanks to social media sleuths. 
  <p class="updated_time"> 10:46 PM CT, Dec. 15 </p> 
@@ -145,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/business/economy/china-trump-trade-deal-biden.html">Biden’s China Dilemma: How to Enforce Trump’s Trade Deal</a> NYT: The Biden administration must decide whether to enforce a Trump-era trade deal that has not fulfilled its promise. 
  <p class="updated_time"> 08:21 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/india-sex-workers-benefits.html">India's Supreme Court Mandates Benefits for Sex Workers</a> NYT: Officials must enter them into databases for voting and benefits, the judges said, after they suffered from the effects of Covid-19 lockdowns. 
- <p class="updated_time"> 08:14 AM CT, Dec. 15 </p> 
- <a href="https://www.wsj.com/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940">U.S. Set to Ban American Investment in Some Chinese Companies</a> WSJ: A draft Treasury Department announcement says the companies, including a major drone maker, participate in China’s mass surveillance of Muslim ethnic groups. 
  <p class="updated_time"> 07:54 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/omicron-hong-kong-study.html">Two Doses of China's Sinovac Inadequate Against Omicron, Hong Kong Study Suggests</a> NYT: Laboratory experiments suggest that the Chinese vaccine provides little protection against an Omicron infection. 
  <p class="updated_time"> 07:31 AM CT, Dec. 15 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59665125?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Dozens stranded on roof after World Trade Centre fire</a> BBC: Footage obtained by the BBC shows people crowded amongst the roof's scaffolding awaiting rescue. 
  <p class="updated_time"> 02:21 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/greece-covid-school-abduction.html">Three Jailed in Greece After a Principal was Handcuffed Over Virus Measures</a> NYT: Police said a group of people handcuffed the principal on Friday and drove him to a local precinct, suggesting that officers arrest him for enforcing Covid measures. 
- <p class="updated_time"> 11:30 PM CT, Dec. 14 </p> 
- <a href="https://www.wsj.com/articles/after-taliban-return-afghan-women-face-old-pressures-from-fathers-brothers-11639564204">Afghan Women Face Old Family Pressures</a> WSJ: With the return to Taliban rule, family dynamics are changing as some men forcefully assert their power over wives, daughters and sisters. “Nothing scares me more than my father. Not even the Taliban,” says one activist. 
  <p class="updated_time"> 08:25 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/africa/omicron-south-africa-study.html">Illnesses Tied to Omicron May Be Milder, Preliminary Study Suggests</a> NYT: The findings, which also show that the new variant partly dodges the Pfizer-BioNTech vaccine, are based on only three weeks of data. Epidemiologists cautioned that the full picture is still emerging. 
  <p class="updated_time"> 08:14 PM CT, Dec. 14 </p> 
@@ -200,6 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:18 AM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/melania-trump-nft/index.html">Melania Trump announces launch of an NFT</a> CNN: Melania Trump is getting in on the latest crypto craze -- NFTs. 
+ <p class="updated_time"> 08:03 AM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/trucking-action-plan/index.html">Biden administration to unveil Trucking Action Plan Thursday amidst labor shortages</a> CNN: The Biden administration will unveil its "Trucking Action Plan" on Thursday in an effort to address supply chain challenges that have plagued the White House for months. 
  <p class="updated_time"> 07:22 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/16/will-democrats-get-coal-instead-of-passed-bills-in-their-stockings-495491">Will Democrats get coal instead of passed bills in their stockings?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:17 AM CT, Dec. 16 </p> 
@@ -250,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/15/politics/manchin-child-tax-credit-biden-build-back-better/index.html">Talks between Manchin and Biden at standstill as Build Back Better likely stalled until next year</a> CNN: Senate Democrats are expected to punt consideration of the cornerstone element of President Joe Biden's agenda into next year after private conversations between Biden and the key Democratic holdout made clear the bill would not have the votes to pass this month. 
  <p class="updated_time"> 07:21 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/new-jfk-files-bring-more-frustration-than-enlightenment-524838">New JFK files bring more frustration than enlightenment</a> Politico: The disclosure of the 1,491 documents by the National Archives about the assassination follows an executive order from President Joe Biden. 
- <p class="updated_time"> 07:18 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/biden-administration-jfk-documents/index.html">JFK researchers underwhelmed by latest release of assassination documents</a> CNN: The Biden administration faces a Wednesday deadline to publicly release a tranche of secret documents that some historians -- and conspiracy theorists -- hope might shed light on the 1963 assassination of President John F. Kennedy. 
  <p class="updated_time"> 07:05 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-kentucky-tornado.html">Touring Kentucky, Biden Vows ‘Whatever It Takes’ to Recover From Storms</a> NYT: The president promised the federal government would cover the full cost of the emergency response for 30 days as he comforted victims of the devastating tornadoes. 
  <p class="updated_time"> 06:44 PM CT, Dec. 15 </p> 
@@ -378,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megabill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
  <p class="updated_time"> 04:29 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/white-house-scaled-back-holiday-parties/index.html">White House scales back holiday parties due to Covid concerns</a> CNN: The White House will dramatically scale back holiday party festivities this year, due to ongoing Covid-19 concerns, opting instead for smaller open house-style events. 
- <p class="updated_time"> 03:17 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/biden-pfizer-covid-antiviral-pill/index.html">Biden says he's 'encouraged by the promising data' on Pfizer's Covid-19 antiviral pill</a> CNN: President Joe Biden on Tuesday praised Pfizer's report that its experimental treatment for Covid-19 cut the risk of hospitalization or death by 89% if given to high-risk adults within a few days of their first symptoms. 
  <p class="updated_time"> 02:17 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/qanon-follower-sentence-pelosi-death-threats-524209">QAnon follower gets 28-month sentence for death threats to Pelosi</a> Politico: Judge says continuing election-fraud rhetoric from Republican politicians makes defendant an ongoing threat. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
