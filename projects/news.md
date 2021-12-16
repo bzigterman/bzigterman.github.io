@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:03 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat With Migrants Sinks Near Malaysia, Killing at Least 16</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving several others missing, officials said. 
+ <p class="updated_time"> 09:53 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">2 Children Die in Inflatable Castle Accident in Tasmania</a> NYT: The students fell 33 feet from a jumping castle that was lifted into the air by a gust of wind, the authorities said. Several others were critically injured. 
+ <p class="updated_time"> 09:41 PM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59663827?at_medium=RSS&at_campaign=KARANGA">Beijing 2022: Putin tells Xi he will attend Winter Olympics</a> BBC: The Russian president is the first major western leader to indicate his attendance at the Games. 
  <p class="updated_time"> 09:34 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Tasmania bouncy castle fall: Two children killed and several others injured</a> BBC: Several other children are injured after they fell 10m during a "wind event" in Tasmania, police say. 
+ <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Tasmania bouncy castle fall: Two children killed and several others injured</a> BBC: Other children are badly injured after wind blew the castle into the air, causing them to fall 10m. 
  <p class="updated_time"> 09:04 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/americas/santo-domingo-plane-crash.html">Santo Domingo Plane Crash Kills 9</a> NYT: A prominent Latin music producer, known as Flow La Movie, was reported to be among the dead. 
  <p class="updated_time"> 07:00 PM CT, Dec. 15 </p> 
@@ -111,14 +117,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Halts Asia Trip After Journalist Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the United States earlier than planned. 
  <p class="updated_time"> 06:58 AM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59664077?at_medium=RSS&at_campaign=KARANGA">Riccardo Ehrman: Journalist who prompted Berlin Wall to fall dies</a> BBC: Riccardo Ehrman asked the historic question that led to East Germans tearing down the wall in 1989. 
- <p class="updated_time"> 05:59 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat Carrying Indonesian Migrants Sinks Near Malaysia, Killing at Least 11</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving 25 others missing, officials said. 
  <p class="updated_time"> 05:36 AM CT, Dec. 15 </p> 
  <a href="https://www.wsj.com/articles/russian-gets-life-sentence-for-what-court-says-was-moscow-ordered-murder-in-berlin-11639574716">Russian Given Life Sentence for Killing of Chechen Rebel in Berlin</a> WSJ: A German court sentenced a Russian man to life in prison for shooting dead a former Chechen rebel leader in Berlin at the behest of Moscow, in a case that has further frayed already tense relations between Germany and Russia. 
  <p class="updated_time"> 05:31 AM CT, Dec. 15 </p> 
  <a href="https://www.wsj.com/articles/iran-agrees-to-allow-u-n-atomic-agency-to-reinstall-cameras-at-karaj-centrifuge-production-site-11639573758">Iran Agrees to Allow Cameras Back at Karaj Centrifuge Production Site</a> WSJ: The move will avert a fresh clash between the U.S. and Iran over Tehran’s nuclear activities but comes as negotiations on restoring the 2015 nuclear deal are deadlocked. 
- <p class="updated_time"> 05:06 AM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59664076?at_medium=RSS&at_campaign=KARANGA">German raids on Covid extremists over Saxony leader death plot</a> BBC: Far-right anti-vaccination activists are suspected of plotting to kill Saxony leader Michael Kretschmer. 
  <p class="updated_time"> 05:05 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/north-korea-kpop-executions.html">North Korea Executes People for Watching K-Pop, Rights Group Says</a> NYT: At least seven people have been put to death in the past decade for watching or distributing K-pop videos, as the North cracks down on what its leader calls a “vicious cancer.” 
  <p class="updated_time"> 04:33 AM CT, Dec. 15 </p> 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1061302961/most-nations-are-promising-to-end-deforestation-but-skeptics-want-proof">Most nations are promising to end deforestation, but skeptics want proof</a> NPR: More than a hundred countries just promised to protect and restore forests. Similar pledges in the past have not succeeded, but forest advocates hope that this effort can learn from past mistakes. 
  <p class="updated_time"> 02:41 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/uk-south-africa-travel-ban.html">Britain lifts ban on travelers arriving from southern Africa</a> NYT: With the Omicron variant already spreading, officials conclude they’ve lost the battle to prevent its entering Britain. 
- <p class="updated_time"> 02:36 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/13/arts/music/vicente-fernandez-influence.html">Vicente Fernández, the King of Machos and Heartbreak</a> NYT: The singer’s brand of machismo may have frayed, but for many, he was the ideal of what it means to be hard-working, hard-loving Mexican man. 
  <p class="updated_time"> 02:34 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/european-union-schengen-migrants-borders.html">E.U. Proposes Changes That Would Chip Away at Borderless Model</a> NYT: The plan would institutionalize internal border controls to respond to emergencies, suspending some protections for asylum seekers. 
  <p class="updated_time"> 02:11 PM CT, Dec. 14 </p> 
@@ -208,6 +208,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:23 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/elon-musk-decency-warren-sanders/index.html">Analysis: Elon Musk reveals how decency is dying</a> CNN: Just days removed from being named Time's "Person of the Year," Elon Musk took to Twitter to unleash a litany of personal attacks against Sen. Elizabeth Warren for her call that he should "actually pay taxes." 
+ <p class="updated_time"> 10:07 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
+ <p class="updated_time"> 09:58 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/voting-rights-king-family.html">King Family and Activists Plan Marches to Pressure Democrats on Voting Rights</a> NYT: Prominent backers of stalled voting rights legislation plan a blitz emphasizing the urgent need to counter new state restrictions. 
  <p class="updated_time"> 09:32 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/business/economy/inflation-fed-fomc-meeting-december-2021.html">Fed Could Raise Rates 3 Times in 2022 and Speeds End of Bond-Buying</a> NYT: With the economy healing, but price gains pinching consumers, officials are dialing back bond purchases and getting in position to raise interest rates (three are possible next year). 
  <p class="updated_time"> 08:55 PM CT, Dec. 15 </p> 
@@ -218,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/jeff-jackson-north-carolina-senate-race-524970">Jeff Jackson expected to drop out of North Carolina Senate race</a> Politico: Jackson, who faced a difficult primary against former state Supreme Court Justice Cheri Beasley, called donors to inform them of his decision on Wednesday. 
  <p class="updated_time"> 08:03 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/biden-kentucky-visit/index.html">Biden says feds will cover 100% of the cost to clean up from Kentucky tornado for the first 30 days of recovery</a> CNN: President Joe Biden will travel to Kentucky on Wednesday in the wake of deadly tornadoes and severe storms that devastated the area, where he'll survey storm damage, meet with victims and deliver remarks. 
- <p class="updated_time"> 08:01 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/elon-musk-decency-warren-sanders/index.html">Analysis: Elon Musk reveals how decency is dying</a> CNN: Just days removed from being named Time's "Person of the Year," Elon Musk took to Twitter to unleash a litany of personal attacks against Sen. Elizabeth Warren for her call that he should "actually pay taxes." 
  <p class="updated_time"> 07:50 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/yuma-arizona-migrants/index.html">A dramatic increase in number of migrants seeking asylum in Arizona overwhelms Border Patrol</a> CNN: Under the shadow of the border wall, dozens of migrants raced to get in line as they spotted the glimmer of vehicle lights down the road. US Border Patrol agents were on the way. 
  <p class="updated_time"> 07:40 PM CT, Dec. 15 </p> 
@@ -244,14 +248,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/democrats-urge-biden-to-avert-student-loan-cliff-next-year-524889">Democrats urge Biden to avert student loan cliff next year</a> Politico: Monthly student loan payments and interest are set to resume on Feb. 1 for the first time since the beginning of the pandemic. 
  <p class="updated_time"> 06:28 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/michelle-kwan-caroline-kennedy-ambassador.html">Biden Taps Michelle Kwan and Caroline Kennedy for Ambassador Posts</a> NYT: Ms. Kennedy, nominated to be ambassador to Australia, and Ms. Kwan, nominated to be the envoy to Belize, were prominent Biden supporters during the 2020 campaign season. 
- <p class="updated_time"> 06:27 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/voting-rights-king-family.html">King Family, Activists Plan Marches to Pressure Democrats on Voting Rights</a> NYT: Prominent backers of stalled voting rights legislation plan a blitz emphasizing the urgent need to counter new state restrictions. 
  <p class="updated_time"> 06:23 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/derek-chauvin-george-floyd-524867">Chauvin pleads guilty to federal charge in Floyd’s death</a> Politico: It was the first time he admitted wrongdoing. 
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats' filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
- <p class="updated_time"> 05:46 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
  <p class="updated_time"> 05:31 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/omicron-delta-covid-19-what-matters/index.html">Analysis: Delta plus Omicron spells trouble</a> CNN: Colleges sending students home. Sports leagues canceling games and scrambling to deal with Covid-19 outbreaks. States returning to mask requirements. 
  <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
@@ -322,6 +322,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/us/politics/ilhan-omar-house-debate-islamophobia.html">Republican Rebuked for Anti-Muslim Remarks in ‘Islamophobia’ Debate</a> NYT: A conservative Republican accused Ilhan Omar, the sponsor of a House bill to combat anti-Muslim bias, of terrorist sympathies. 
  <p class="updated_time"> 08:58 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/joe-biden-mark-meadows-contempt/index.html">Biden says Meadows seems 'worthy of being held in contempt' for failing to appear for interview with Jan. 6 committee</a> CNN: President Joe Biden on Wednesday suggested Mark Meadows was "worthy" of being in held in contempt of Congress after the Democratic-controlled House referred the ex-White House chief of staff to the Department of Justice for failing to appear for a deposition with the committee investigating the January 6 attack on the US Capitol. 
+ <p class="updated_time"> 08:49 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/business/economy/china-trump-trade-deal-biden.html">Biden’s China Dilemma: How to Enforce Trump’s Trade Deal</a> NYT: The Biden administration must decide whether to enforce a Trump-era trade deal that has not fulfilled its promise. 
  <p class="updated_time"> 08:20 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/biden-judicial-nominations-trump/index.html">Biden to surpass Trump in first-year judicial nominees; a window into a major Dem push </a> CNN: President Joe Biden will soon announce his latest wave of nine judicial nominees, according to a White House official, capping a year where the selections -- and an effort to establish an imprint on the federal courts -- served as a focal point for his administration. 
  <p class="updated_time"> 07:59 AM CT, Dec. 15 </p> 
@@ -365,8 +367,6 @@ permalink: /projects/news/
  <p class="updated_time"> 05:40 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/califf-fda-gop-524226">Biden’s FDA pick on track for confirmation with GOP help</a> Politico: A confirmation vote in January would give the agency a permanent political leader for the first time during the Biden presidency. 
  <p class="updated_time"> 05:33 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/amtrak-vaccine-mandate.html">Amtrak Drops Its Vaccine Mandate, Avoiding Cuts to Service</a> NYT: The shift in policy means that Amtrak officials no longer anticipate cuts to service next month. 
- <p class="updated_time"> 05:33 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064266940/ethics-panel-andrew-cuomos-book-deal-money-more-than-5-million">New York ethics panel wants former Gov. Cuomo to turn in the cash from his book deal</a> NPR: The Joint Commission on Public Ethics says the disgraced former governor violated the terms of its conditional approval to write the book and it wants him give to the state the money. 
  <p class="updated_time"> 05:17 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/trump-hotel-dc-sale-gsa-review/index.html">Trump Organization formally notifies GSA of proposed sale of DC hotel</a> CNN: The Trump Organization has formally notified the General Service Administration about its proposed sale of the lease for its hotel in Washington, DC, moving a step closer to offloading the property. 
@@ -380,6 +380,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/14/1064221034/house-recommends-criminal-contempt-of-congress-charges-against-mark-meadows">House recommends criminal contempt of Congress charges against Mark Meadows</a> NPR: The House voted to refer former White House chief of staff Mark Meadows on criminal contempt of Congress charges. The Justice Department will now decide whether he could face criminal charges. 
  <p class="updated_time"> 03:17 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/biden-pfizer-covid-antiviral-pill/index.html">Biden says he's 'encouraged by the promising data' on Pfizer's Covid-19 antiviral pill</a> CNN: President Joe Biden on Tuesday praised Pfizer's report that its experimental treatment for Covid-19 cut the risk of hospitalization or death by 89% if given to high-risk adults within a few days of their first symptoms. 
+ <p class="updated_time"> 02:17 PM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/qanon-follower-sentence-pelosi-death-threats-524209">QAnon follower gets 28-month sentence for death threats to Pelosi</a> Politico: Judge says continuing election-fraud rhetoric from Republican politicians makes defendant an ongoing threat. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
@@ -404,6 +406,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/remain-in-mexico-appeals-court/index.html">Appeals court rules against Biden admin's termination of 'remain in Mexico' policy</a> CNN: The 5th US Circuit Court of Appeals on Monday night ruled against the Biden administration's bid to terminate the Trump-era "remain in Mexico" policy, which requires non-Mexican migrants to stay in Mexico until their US immigration court dates. 
  <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/hes-got-to-condemn-this-shit-panel-releases-urgent-jan-6-texts-from-trump-jr-lawmakers-524188">‘He’s got to condemn this …’: Panel releases urgent Jan. 6 texts from Donald Trump Jr., lawmakers and Fox hosts</a> Politico: House investigators held Mark Meadows in criminal contempt after releasing a trove of messages aimed at getting President Trump to take stronger action amid the Capitol riot. 
+ <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/news/2021/12/13/defense-claims-politics-fortenberry-indictment-524164">Defense claims politics behind indictment of Rep. Jeff Fortenberry</a> Politico: A federal judge in Los Angeles heard arguments on the Nebraska Republican’s bid to toss out the criminal false-statement case. 
  <p class="updated_time"> 01:48 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
