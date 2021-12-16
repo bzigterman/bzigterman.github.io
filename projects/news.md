@@ -45,7 +45,7 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59680797?at_medium=RSS&at_campaign=KARANGA">Bruce Springsteen sells his entire music catalogue for $500m</a> BBC: The star follows in the footsteps of Bob Dylan, Stevie Nicks and Blondie by cashing in on his songs. 
  <p class="updated_time"> 03:16 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
- <p class="updated_time"> 02:16 AM CT, Dec. 16 </p> 
+ <p class="updated_time"> 02:35 AM CT, Dec. 16 </p> 
  <a href="https://www.wsj.com/articles/ecb-boosts-bond-purchases-as-it-phases-out-pandemic-stimulus-11639659416">ECB Extends Bond Purchases as It Phases Out Pandemic Stimulus</a> WSJ: The European Central Bank said it would phase out an emergency bond-buying program while ramping up other stimulus measures, diverging from the Federal Reserve and underscoring the challenge facing policy makers. 
  <p class="updated_time"> 02:09 AM CT, Dec. 16 </p> 
  <a href="https://www.wsj.com/articles/covid-19-cancels-christmas-around-europeagain-11639660145">Covid-19 Cancels Christmas Around Europe…Again</a> WSJ: From Spanish holidays to Greek celebrations to German circus performances, the Covid-19 pandemic has derailed plans and upended Christmas traditions across Europe for a second year in a row. 
