@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:33 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/europe/omar-raddad-cote-dazur-dna-france.html">Judges in France Order the Reopening of an Enduring Murder Mystery</a> NYT: The conviction of Omar Raddad in the killing of a socialite in the French Riviera three decades ago will be re-examined after his lawyers presented new DNA evidence they say exonerates him. 
+ <p class="updated_time"> 11:31 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/europe/suicide-pods-switzerland.html">A 3-D Printed Pod Inflames the Assisted Suicide Debate</a> NYT: The pod, known as Sarco, was conceived as a way for people to end their lives without involving a doctor. A plan to introduce it in Switzerland has raised alarm even among right-to-die advocates. 
+ <p class="updated_time"> 11:18 AM CT, Dec. 16 </p> 
+ <a href="https://www.npr.org/2021/12/16/1064847616/tasmania-bouncy-castle-accident">A wind gust swept a bouncy castle in Tasmania 30 feet in the air, killing 5 children</a> NPR: Authorities say Hillcrest Primary School's end-of-year celebration turned tragic when a strong gust of wind lifted a bouncy castle into the air, killing five students and injuring four others. 
  <p class="updated_time"> 11:06 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/middleeast/turkish-lira-currency-erdogan-turkey.html">Turkish Currency Hits a New Low, Again</a> NYT: The Central Bank has cut interest rates, even as inflation continues to soar, deepening President Erdogan’s disputed economic plan and setting off a new plunge in the lira. 
  <p class="updated_time"> 11:03 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
- <p class="updated_time"> 11:00 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/europe/omar-raddad-cote-dazur-dna-france.html">Judges in France Order the Reopening of an Enduring Murder Mystery</a> NYT: The conviction of Omar Raddad in the killing of a socialite in the French Riviera three decades ago will be re-examined after his lawyers presented new DNA evidence they say exonerates him. 
  <p class="updated_time"> 10:54 AM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064842364/haiti-kidnapped-missionaries-released-free">All of the kidnapped missionaries in Haiti have now been released</a> NPR: The remaining 12 of 17 members of a missionary group who had been held hostage in Haiti are free, exactly two months after they were kidnapped by a Haitian gang. 
+ <a href="https://www.npr.org/2021/12/16/1064842364/haiti-kidnapped-missionaries-released-free">All of the kidnapped missionaries in Haiti have now been released</a> NPR: The remaining 12 of the 17 people who had been held hostage in Haiti are free, exactly two months after they were kidnapped by a Haitian gang. 
  <p class="updated_time"> 10:41 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html">NATO Signals Support for Ukraine Amid Russia Threat</a> NYT: The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion. 
  <p class="updated_time"> 10:32 AM CT, Dec. 16 </p> 
@@ -39,6 +43,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
  <p class="updated_time"> 06:55 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/queen-elizabeth-christmas-lunch-canceled-covid.html">Queen Elizabeth cancels traditional pre-Christmas lunch as cases surge in England.</a> NYT: Palace officials said it was a precautionary measure to avoid putting royal family members at risk by bringing a large group together at Windsor Castle. 
+ <p class="updated_time"> 06:25 AM CT, Dec. 16 </p> 
+ <a href="https://www.wsj.com/articles/ecb-boosts-bond-purchases-as-it-phases-out-pandemic-stimulus-11639659416">Europe's Top Central Banks Take Different Tacks on Inflation</a> WSJ: The Bank of England became the first major central bank to raise its benchmark interest rate since the pandemic began, while the ECB said it would phase out an emergency bond-buying program while ramping up other stimulus measures. 
+ <p class="updated_time"> 06:23 AM CT, Dec. 16 </p> 
+ <a href="https://www.wsj.com/articles/haitian-kidnappers-release-remaining-12-missionary-hostages-11639672433">Haitian Kidnappers Release Remaining 12 Missionary Hostages</a> WSJ: Missionary group and Haitian police say that the hostages were released on Thursday and are safe. Five others were freed in recent weeks. 
  <p class="updated_time"> 06:20 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59683904?at_medium=RSS&at_campaign=KARANGA">Super typhoon Rai: Thousands flee as storm lashes southern Philippines</a> BBC: People take shelter amid warnings the storm will cause widespread flooding and destruction. 
  <p class="updated_time"> 06:03 AM CT, Dec. 16 </p> 
@@ -47,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59681409?at_medium=RSS&at_campaign=KARANGA">Dutch royals regret holding party amid surge in Covid cases</a> BBC: The party was held to celebrate the 18th birthday of the country's heir apparent, Princess Amalia. 
  <p class="updated_time"> 05:48 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html">Hu Xijin, Chief of China's Global Times, Will Retire</a> NYT: Hu Xijin, editor of the Communist Party tabloid Global Times and pioneer of the country’s fiery online posturing, is retiring from his role. 
- <p class="updated_time"> 05:33 AM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/haitian-kidnappers-release-remaining-12-missionary-hostages-11639672433">Haitian Kidnappers Release Remaining 12 Missionary Hostages</a> WSJ: Missionary group and Haitian police say that the hostages were released on Thursday and are safe. Five others were freed in recent weeks. 
  <p class="updated_time"> 05:32 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">Bouncy Castle in Tasmania Is Swept by Wind, Killing 5 Children</a> NYT: A gust of wind swept up the inflatable on the last day of school, and the students fell more than 30 feet. Several others were critically injured. 
  <p class="updated_time"> 05:19 AM CT, Dec. 16 </p> 
@@ -61,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/eu-leaders-to-warn-russia-to-stay-out-of-ukraine-11639669335">EU Leaders to Warn Russia to Stay Out of Ukraine</a> WSJ: The bloc’s leaders are set to tell Russia it would pay a high cost for carrying out a fresh military intervention, but they will likely sidestep a call from Ukraine’s president to detail the actions they would take to deter the Kremlin. 
  <p class="updated_time"> 04:26 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064743864/in-kashmir-closed-mosque-raises-questions-about-indias-religious-freedom">In Kashmir, closed mosque raises questions about India's religious freedom</a> NPR: For Kashmiri Muslims the Jamia Masjid is a sacred venue, but it's been closed most Fridays for the past two years. The government has said those who manage it couldn't stop anti-India protests there. 
- <p class="updated_time"> 04:25 AM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/ecb-boosts-bond-purchases-as-it-phases-out-pandemic-stimulus-11639659416">Europe's Top Central Banks Take Different Tacks on Inflation</a> WSJ: The Bank of England became the first major central bank to raise its benchmark interest rate since the pandemic began, while the ECB said it would phase out an emergency bond-buying program while ramping up other stimulus measures. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/travel/testing-positive-for-covid-overseas.html">What Happens If You Test Positive for Covid While Traveling?</a> NYT: In the midst of the holiday season, the Omicron variant has many considering the prospects of getting stuck while traveling. Here’s what you need to know. 
  <p class="updated_time"> 03:56 AM CT, Dec. 16 </p> 
@@ -157,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/us/politics/gop-governors-vaccine-pentagon.html">5 Republican Governors Seek Vaccine Exemptions for National Guard Troops</a> NYT: The move comes as the Pentagon released a new order this week saying that National Guard members who do not get vaccinated would receive a general order of reprimand, essentially ending their careers. 
  <p class="updated_time"> 09:14 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/malta-eu-marijuana-legalize.html">Malta Becomes First E.U. Country to Legalize Marijuana</a> NYT: The government said that the new law was aimed at ending the criminalization of people for smoking the drug and at reducing criminal trafficking. 
- <p class="updated_time"> 08:51 AM CT, Dec. 15 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/15/1064432010/omicron-spread-variant-coronavirus">Omicron spreads faster than any other variant, WHO says. It's now in 77 countries</a> NPR: "Omicron is spreading at a rate we have not seen with any previous variant," says WHO Director-General Tedros Adhanom Ghebreyesus. 
  <p class="updated_time"> 08:49 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/business/economy/china-trump-trade-deal-biden.html">Biden’s China Dilemma: How to Enforce Trump’s Trade Deal</a> NYT: The Biden administration must decide whether to enforce a Trump-era trade deal that has not fulfilled its promise. 
  <p class="updated_time"> 08:21 AM CT, Dec. 15 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/asia/blinken-indonesia-china.html">Blinken, in Indonesia, Stresses Soft Power to Counter China</a> NYT: The U.S. secretary of state seeks to make the case that the United States is a better bet as a partner than China, even if it’s not spending so lavishly in the region. 
  <p class="updated_time"> 06:12 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59646562?at_medium=RSS&at_campaign=KARANGA">Southern right whales: Tracking unexpected Southern Ocean migrations</a> BBC: New Zealand scientists have used satellite tags to follow whales around the Southern Ocean. 
- <p class="updated_time"> 06:07 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Gasoline Truck in Haiti Explodes, Killing More Than 60</a> NYT: Scores more were injured in the blast, the latest tragedy to hit a country that has been rocked by political violence, natural disasters, poverty and hunger. 
  <p class="updated_time"> 03:30 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/climate/arctic-report-card-climate-change.html">Trends in Arctic Report Card: ‘Consistent, Alarming and Undeniable’</a> NYT: The changes happening at the top of the planet could unfold elsewhere in the years to come, scientists report. 
  <p class="updated_time"> 02:41 PM CT, Dec. 14 </p> 
@@ -204,14 +204,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:09 PM CT, Dec. 16 </p> 
+ <a href="https://www.politico.com/news/2021/12/16/marines-army-kicked-out-covid-vaccine-525101">More than 100 Marines kicked out of the service for refusing Covid vaccine</a> Politico: The Army also announced Thursday it has fired two battalion commanders over the order. 
+ <p class="updated_time"> 11:33 AM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/trump-lawsuits-january-hearings/index.html">Judge sets January arguments for lawsuits seeking to hold Trump accountable for US Capitol riot</a> CNN: Three lawsuits that seek to hold Donald Trump and his closest advisers accountable for the US Capitol riot are moving forward after months of inaction. 
+ <p class="updated_time"> 11:29 AM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/biden-signs-debt-limit-increase/index.html">Biden signs debt limit increase</a> CNN: President Joe Biden on Thursday signed the bill raising the debt limit ceiling that passed Congress earlier this week, according to a press release from the White House. 
+ <p class="updated_time"> 11:27 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/us/politics/ashley-biden-project-veritas-diary.html">How Ashley Biden’s Diary Made Its Way to Project Veritas</a> NYT: New details shed light on the federal investigation into the conservative group’s acquisition last year of a journal kept by the president’s daughter. 
+ <p class="updated_time"> 11:18 AM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/child-care-hiring-crisis/index.html">Child care hiring crisis is closing programs and keeping parents out of workforce</a> CNN: A hiring crisis is closing classrooms at Nurtury Early Education in Boston. 
  <p class="updated_time"> 11:15 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/aipac-launches-super-pac-525092">AIPAC launches super PAC</a> Politico: The Israel-focused public affairs group is getting into direct spending on elections. 
- <p class="updated_time"> 11:03 AM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/biden-signs-debt-limit-increase/index.html">Biden signs debt limit increase</a> CNN: President Joe Biden on Thursday signed the bill raising the debt limit ceiling that passed Congress earlier this week, according to a press release from the White House. 
  <p class="updated_time"> 11:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/senate-races-2022.html">10 Senate Races to Watch in 2022</a> NYT: Democrats have a razor-thin margin that could be upended with the loss of a single seat. 
- <p class="updated_time"> 10:58 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/ashley-biden-project-veritas-diary.html">How Ashley Biden’s Diary Made Its Way to Project Veritas</a> NYT: New details shed light on the federal investigation into the conservative group’s acquisition last year of a journal kept by the president’s daughter. 
  <p class="updated_time"> 10:39 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/gorsuch-texas-sb8/index.html">Gorsuch deals abortion providers another setback by sending Texas SB8 lawsuit to a conservative appeals court</a> CNN: In the latest setback for abortion clinics in Texas, Justice Neil Gorsuch said Thursday that a conservative federal appeals court should handle the next steps of litigation concerning the state's six-week ban, a move that will likely leave women seeking abortions in the state in legal limbo for weeks if not months. 
  <p class="updated_time"> 10:36 AM CT, Dec. 16 </p> 
@@ -221,7 +227,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:52 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2021/12/16/1052868316/the-code-switch-team-picks-our-favorite-episodes-from-2021">The Code Switch team picks our favorite episodes from 2021</a> NPR: As we look back at the year, we wanted to share some of our favorite episodes of the pod. This list showcases the episodes that stayed with members of the Code Switch team, even amidst all the churn. 
  <p class="updated_time"> 09:41 AM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/donald-trump-january-6-committee-republicans-fox-news/index.html">How the January 6 committee finally exposed Trump's empire of lies</a> CNN: If politics still turned on truth and facts, this would be the week when the lie-filled foundations of Donald Trump's movement imploded, destroying his apparent dream of a return to power after the 2024 election. 
+ <a href="https://www.cnn.com/2021/12/16/politics/donald-trump-january-6-committee-republicans-fox-news/index.html">Analysis: How the January 6 committee finally exposed Trump's empire of lies</a> CNN: If politics still turned on truth and facts, this would be the week when the lie-filled foundations of Donald Trump's movement imploded, destroying his apparent dream of a return to power after the 2024 election. 
  <p class="updated_time"> 09:35 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/jim-jordan-mark-meadows-text/index.html">Jim Jordan sent one of the texts revealed by January 6 committee</a> CNN: Rep. Jim Jordan forwarded a text message to then-White House chief of staff Mark Meadows on January 5, outlining a legal theory that then-Vice President Mike Pence had the authority to stand in the way of the certification of the 2020 election. 
  <p class="updated_time"> 09:32 AM CT, Dec. 16 </p> 
@@ -242,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/16/1064751681/ahead-of-midterms-the-gops-extreme-wing-in-the-house-worries-republicans">Ahead of midterms, the GOP's extreme wing in the House worries Republicans</a> NPR: House Republicans are in a strong position to win back control of the chamber but divisions threaten to throw the party off message. 
  <p class="updated_time"> 06:04 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/medication-abortion-fda-supreme-court/index.html">Battle over medication abortion is warm-up fight as SCOTUS weighs gutting Roe</a> CNN: With the Supreme Court poised to undo its abortion rights precedent, the Biden administration is considering a move that could mitigate the fallout from a Roe v. Wade reversal. And red states are already on the march to counteract whatever the federal government opts to do. 
- <p class="updated_time"> 05:06 AM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/child-care-hiring-crisis/index.html">Child care hiring crisis is closing programs and keeping parents out of workforce</a> CNN: A hiring crisis is closing classrooms at Nurtury Early Education in Boston. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-gohmert-lawsuit-pence-524839">The Jan. 6 puzzle piece that's going largely ignored</a> Politico: Rep. Louie Gohmert  sued then-Vice President Mike Pence on Dec. 27. Donald Trump’s involvement in the case remains unclear. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
@@ -293,7 +297,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats’ filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
  <p class="updated_time"> 05:31 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/omicron-delta-covid-19-what-matters/index.html">Omicron proves what we already know</a> CNN: Colleges sending students home. Sports leagues canceling games and scrambling to deal with Covid-19 outbreaks. States returning to mask requirements. 
+ <a href="https://www.cnn.com/2021/12/15/politics/omicron-delta-covid-19-what-matters/index.html">Preparing for a Delta/Omicron double surge</a> CNN: Colleges sending students home. Sports leagues canceling games and scrambling to deal with Covid-19 outbreaks. States returning to mask requirements. 
  <p class="updated_time"> 05:30 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/navy-covid-vaccine-sailors-discharging/index.html">Navy to begin discharging sailors who refuse Covid-19 vaccine</a> CNN: The US Navy will begin discharging sailors who refuse to get vaccinated against Covid-19, just as the Air Force announced earlier this week that they had discharged service members for failing to get vaccinated. 
  <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
@@ -344,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-stimulus-bill-republicans.html">Republicans Who Assailed Biden’s Stimulus Bill Are Embracing the Money</a> NYT: Republican governors who criticized the $1.9 trillion Covid relief bill as wasteful are championing state projects funded by the money. 
  <p class="updated_time"> 10:38 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/mitch-mcconnell-january-6-participants/index.html">McConnell on January 6 probe: 'It will be interesting to reveal all the participants that were involved'</a> CNN: Senate Minority Leader Mitch McConnell said Tuesday that he did not speak to then-White House chief of staff Mark Meadows on January 6 about then-President Donald Trump's inaction as a crowd stormed the US Capitol. 
- <p class="updated_time"> 09:21 AM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/blinken-trip-cut-short-covid-524622">Blinken cuts foreign trip short over Covid concerns</a> Politico: In a call with Thai Deputy Prime Minister and Foreign Minister Don Pramudwinai, Blinken “expressed his deep regret” that he would not be traveling on to Bangkok. 
  <p class="updated_time"> 09:18 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/gop-governors-vaccine-pentagon.html">5 Republican Governors Seek Vaccine Exemptions for National Guard Troops</a> NYT: The move comes as the Pentagon released a new order this week saying that National Guard members who do not get vaccinated would receive a general order of reprimand, essentially ending their careers. 
  <p class="updated_time"> 09:16 AM CT, Dec. 15 </p> 
@@ -396,8 +398,6 @@ permalink: /projects/news/
  <a href="https://subscriber.politicopro.com/states/new-york/city-hall/whiteboard/2021/12/14/legal-aid-sues-to-compel-state-to-reopen-rent-relief-program-9428027">Legal Aid sues to compel state to reopen rent relief program</a> Politico: The Legal Aid Society is suing to force the state to resume accepting applications to its emergency rental assistance program. Details: The organization charges in a new class-action lawsuit that the closure of the program in mid-November was unlawful and has put “pote… 
  <p class="updated_time"> 11:53 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/democrats-raise-debt-ceiling-524204">Congress clears $2.5T debt limit increase, forestalling economic fallout</a> Politico: The new ceiling is expected to carry spending until after the 2022 midterms. 
- <p class="updated_time"> 11:32 AM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/biden-sandy-hook/index.html">Biden marks 9 years since Sandy Hook shooting with renewed call for tougher gun laws</a> CNN: President Joe Biden on Tuesday marked nine years since the mass shooting at Sandy Hook Elementary School by pointing to his administration's efforts to combat gun violence as Democratic-led efforts to pass tougher gun laws have repeatedly failed in Congress. 
  <p class="updated_time"> 10:01 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/joe-biden-news-journal-ad-targeting-524196">How a 100-year-old newspaper became the go-to way to influence Biden</a> Politico: In the Biden era, the pages of The News Journal have become a way to reach a new audience of one. 
  <p class="updated_time"> 08:22 AM CT, Dec. 14 </p> 
