@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:26 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Tasmania bouncy castle fall: Child killed and several others injured</a> BBC: Several other children are injured after they fell 10m during a "wind event" in Tasmania, police say. 
+ <p class="updated_time"> 08:44 PM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Tasmania bouncy castle fall: Two children killed and several others injured</a> BBC: Several other children are injured after they fell 10m during a "wind event" in Tasmania, police say. 
  <p class="updated_time"> 07:00 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59677675?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: EU to warn Moscow against action</a> BBC: European leaders meeting in Brussels are expected to say hostile action could come at a "high price". 
  <p class="updated_time"> 06:44 PM CT, Dec. 15 </p> 
@@ -115,6 +115,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/russian-gets-life-sentence-for-what-court-says-was-moscow-ordered-murder-in-berlin-11639574716">Russian Given Life Sentence for Killing of Chechen Rebel in Berlin</a> WSJ: A German court sentenced a Russian man to life in prison for shooting dead a former Chechen rebel leader in Berlin at the behest of Moscow, in a case that has further frayed already tense relations between Germany and Russia. 
  <p class="updated_time"> 05:31 AM CT, Dec. 15 </p> 
  <a href="https://www.wsj.com/articles/iran-agrees-to-allow-u-n-atomic-agency-to-reinstall-cameras-at-karaj-centrifuge-production-site-11639573758">Iran Agrees to Allow Cameras Back at Karaj Centrifuge Production Site</a> WSJ: The move will avert a fresh clash between the U.S. and Iran over Tehran’s nuclear activities but comes as negotiations on restoring the 2015 nuclear deal are deadlocked. 
+ <p class="updated_time"> 05:06 AM CT, Dec. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59664076?at_medium=RSS&at_campaign=KARANGA">German raids on Covid extremists over Saxony leader death plot</a> BBC: Far-right anti-vaccination activists are suspected of plotting to kill Saxony leader Michael Kretschmer. 
  <p class="updated_time"> 05:05 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/north-korea-kpop-executions.html">North Korea Executes People for Watching K-Pop, Rights Group Says</a> NYT: At least seven people have been put to death in the past decade for watching or distributing K-pop videos, as the North cracks down on what its leader calls a “vicious cancer.” 
  <p class="updated_time"> 04:33 AM CT, Dec. 15 </p> 
@@ -206,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:27 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/trump-meadows-republicans-congress-jan-6.html">Meadows and the Band of Loyalists: How They Fought to Keep Trump in Power</a> NYT: A small circle of Republican lawmakers, working closely with President Donald J. Trump’s chief of staff, took on an outsize role in pressuring the Justice Department, amplifying conspiracy theories and flooding the courts in an attempt to overturn the 2020 election. 
  <p class="updated_time"> 08:24 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/jeff-jackson-north-carolina-senate-race-524970">Jeff Jackson expected to drop out of North Carolina Senate race</a> Politico: Jackson, who faced a difficult primary against former state Supreme Court Justice Cheri Beasley, called donors to inform them of his decision on Wednesday. 
  <p class="updated_time"> 08:03 PM CT, Dec. 15 </p> 
@@ -218,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/15/politics/yuma-arizona-migrants/index.html">A dramatic increase in number of migrants seeking asylum in Arizona overwhelms Border Patrol</a> CNN: Under the shadow of the border wall, dozens of migrants raced to get in line as they spotted the glimmer of vehicle lights down the road. US Border Patrol agents were on the way. 
  <p class="updated_time"> 07:40 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/business/media/fox-news-trump-january-6.html">Fox News Hosts Take the Offensive About Texts to Meadows</a> NYT: Stars of the most-watched cable channel continued to downplay the Jan. 6 attack and back Donald J. Trump while criticizing the investigation of the Capitol siege. 
- <p class="updated_time"> 07:38 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/trump-meadows-republicans-congress-jan-6.html">Trump Found Crucial Support in Congress as He Fought to Stay in Power</a> NYT: A small circle of Republican lawmakers, working closely with President Donald J. Trump’s chief of staff, took on an outsize role in pressuring the Justice Department, amplifying conspiracy theories and flooding the courts in an attempt to overturn the 2020 election. 
  <p class="updated_time"> 07:30 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/photographer-sues-jan-6-committee-524922">Photographer sues House Jan. 6 committee over subpoena</a> Politico: Freelancer Amy Harris seeks to block panel from obtaining metadata on her cell phone calls and texts. 
  <p class="updated_time"> 07:23 PM CT, Dec. 15 </p> 
@@ -233,7 +235,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:44 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/mlk-day-voting-rights-legislation/index.html">Martin Luther King Jr.'s family calls for 'no celebration' of MLK Day without action on voting rights legislation</a> CNN: The family of Martin Luther King Jr. is calling for "no celebration" of MLK Day without the passage of voting rights legislation, putting pressure on President Joe Biden and lawmakers to act on federal voting rights bills that have stalled in Congress. 
  <p class="updated_time"> 06:44 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/democrats-social-policy-bill-2022.html">Manchin Balks on Social Policy Bill; Democrats May Punt to 2022</a> NYT: A self-imposed Christmas deadline for action on the $2.2 trillion social safety net, climate and tax package appeared likely to slip as negotiations with the West Virginia Democrat faltered. 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/democrats-social-policy-bill-2022.html">Democrats Ready to Punt Social Policy Bill to 2022 as Manchin Balks</a> NYT: A self-imposed Christmas deadline for action on the $2.2 trillion social safety net, climate and tax package appeared likely to slip as negotiations with the West Virginia Democrat faltered. 
  <p class="updated_time"> 06:40 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/bipartisan-deal-to-crack-down-on-chinas-treatment-of-muslims-stalls-in-senate-524868">Bipartisan deal to crack down on China's treatment of Muslims stalls in Senate</a> Politico: The House-passed bill on forced labor among the Uyghur minority, and a deal on foreign-policy confirmations, is getting bogged down in domestic drama. 
  <p class="updated_time"> 06:30 PM CT, Dec. 15 </p> 
