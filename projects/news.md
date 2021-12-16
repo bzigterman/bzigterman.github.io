@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:30 PM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59688787?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: 'False memory' expert testifies for defence</a> BBC: Defence attorneys say Ms Maxwell's accusers fell prey to money, manipulation and lapses in memory. 
+ <p class="updated_time"> 04:28 PM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59692240?at_medium=RSS&at_campaign=KARANGA">Meta bans surveillance-for-hire firms for targeting users</a> BBC: Facebook's owner is to alert about 50,000 people in more than 100 countries about "malicious" actions. 
+ <p class="updated_time"> 04:27 PM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59689064?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Two women accuse Sex And The City actor of sexual assault</a> BBC: The Sex And The City actor denies assaulting the women in 2004 and 2015. 
  <p class="updated_time"> 03:56 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
  <p class="updated_time"> 03:45 PM CT, Dec. 16 </p> 
@@ -23,10 +29,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/health/covid-pandemic-story.html">In 50 Words, Tell Us Your Best Pandemic Story</a> NYT: We want to hear about your Covid memories. 
  <p class="updated_time"> 01:16 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59615769?at_medium=RSS&at_campaign=KARANGA">RAF Typhoon jet shoots down 'small hostile drone' in Syria</a> BBC: It is the first time the RAF has shot down enemy aircraft since the Falklands nearly 40 years ago. 
+ <p class="updated_time"> 01:00 PM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59687427?at_medium=RSS&at_campaign=KARANGA">Millipede with more legs than any known animal discovered in Australia</a> BBC: The millipede, discovered in Australia, has more than 1,300 legs and is believed to live on fungi. 
  <p class="updated_time"> 12:55 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">Bouncy Castle in Tasmania Is Swept by Wind, Killing 5 Children</a> NYT: A gust of wind swept up the inflatable on the last day of school, and the students fell more than 30 feet. Several others were critically injured. 
- <p class="updated_time"> 12:27 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59688787?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Defence attorneys begin arguments</a> BBC: A spokesperson for Ms Maxwell said on Wednesday she is "too fragile" to testify in her own defence. 
  <p class="updated_time"> 11:33 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/omar-raddad-cote-dazur-dna-france.html">Judges in France Order the Reopening of an Enduring Murder Mystery</a> NYT: The conviction of Omar Raddad in the killing of a socialite in the French Riviera three decades ago will be re-examined after his lawyers presented new DNA evidence they say exonerates him. 
  <p class="updated_time"> 11:31 AM CT, Dec. 16 </p> 
@@ -99,14 +105,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat With Migrants Sinks Near Malaysia, Killing at Least 16</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving several others missing, officials said. 
  <p class="updated_time"> 11:42 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59667108?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Lost photos found 140 miles away</a> BBC: How a photo found on a Kentucky farm is being returned to its owner thanks to social media sleuths. 
- <p class="updated_time"> 10:46 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59678367?at_medium=RSS&at_campaign=KARANGA">Michelle Odinet: Louisiana judge faces calls to quit over home video slurs</a> BBC: Judge Michelle Odinet says she took a sedative and has "zero recollection" of the incident. 
- <p class="updated_time"> 09:41 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59663827?at_medium=RSS&at_campaign=KARANGA">Beijing 2022: Putin tells Xi he will attend Winter Olympics</a> BBC: The Russian president is one of the first major world leaders to indicate his attendance at the Games. 
  <p class="updated_time"> 08:15 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2021/12/15/1064574315/photos-remembering-the-king-of-rancheras-life-and-legacy">Photos: Remembering the life and legacy of Mexico's King of Rancheras</a> NPR: Iconic and beloved singer Vicente Fernández died on Sunday at 81. He sold more than 50 million albums, starred in dozens of films, won three Grammys, eight Latin Grammys, and left a musical legacy. 
- <p class="updated_time"> 07:00 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59677675?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: EU to warn Moscow against action</a> BBC: European leaders meeting in Brussels are expected to say hostile action could come at a "high price". 
  <p class="updated_time"> 06:49 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/59667268?at_medium=RSS&at_campaign=KARANGA">Omicron: What can we learn from South Africa's experience so far?</a> BBC: We can learn some things from what's happening in South Africa, but there are also uncertainties. 
  <p class="updated_time"> 06:44 PM CT, Dec. 15 </p> 
@@ -193,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/europe/european-union-schengen-migrants-borders.html">E.U. Proposes Changes That Would Chip Away at Borderless Model</a> NYT: The plan would institutionalize internal border controls to respond to emergencies, suspending some protections for asylum seekers. 
  <p class="updated_time"> 09:47 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/asia/india-omicron-fake-test-arrest.html">Four people are arrested in India after a man leaves the country using a fake virus test result.</a> NYT: The man, a 66-year-old South African pharmaceutical executive, fled his quarantine hotel and was later confirmed to have the Omicron variant. 
- <p class="updated_time"> 06:05 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59645657?at_medium=RSS&at_campaign=KARANGA">Hong Kong elections: How China reshaped the city</a> BBC: The city's Legislative Council polls look different this year, thanks to new electoral and national security laws. 
 
 
 </details>
@@ -202,16 +200,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:16 PM CT, Dec. 16 </p> 
+ <a href="https://www.politico.com/news/2021/12/16/fda-abortion-pill-loosen-rules-525164">FDA loosens rules for distributing abortion pills, opening new battle fronts</a> Politico: Heightening the stakes is the Supreme Court’s pending decision on Mississippi’s 15-week abortion ban. 
+ <p class="updated_time"> 04:34 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/business/economy/omicron-inflation.html">Omicron Is an Economic Threat, but Inflation Is Worse, Central Bankers Say</a> NYT: Within 24 hours, the Federal Reserve, Bank of England and European Central Bank all stepped forward to deal with price increases. 
  <p class="updated_time"> 04:34 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/cdc-covid-vaccine-johnson-525153">CDC advisers recommend mRNA Covid vaccines over J&J shot amid blood clot risks</a> Politico: CDC Director Rochelle Walensky must now decide whether to accept the panel's recommendation. 
+ <p class="updated_time"> 04:33 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/us/politics/phil-waldron-jan-6.html">Jan. 6 Panel Subpoenas Retired Colonel Who Shared Plan to Overturn Election</a> NYT: Phil Waldron has been under scrutiny since a 38-page PowerPoint he circulated was turned over to the panel by former President Donald J. Trump’s last chief of staff. 
  <p class="updated_time"> 04:23 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/medication-abortion-fda-supreme-court/index.html">Battle over medication abortion is warm-up fight as SCOTUS weighs gutting Roe</a> CNN: With the Supreme Court poised to undo its abortion rights precedent, the Biden administration is considering a move that could mitigate the fallout from a Roe v. Wade reversal. And red states are already on the march to counteract whatever the federal government opts to do. 
+ <a href="https://www.cnn.com/2021/12/16/politics/medication-abortion-fda-supreme-court/index.html">FDA says abortion pills can be sent by mail</a> CNN: With the Supreme Court poised to undo its abortion rights precedent, the Biden administration is considering a move that could mitigate the fallout from a Roe v. Wade reversal. And red states are already on the march to counteract whatever the federal government opts to do. 
  <p class="updated_time"> 04:13 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/abortion-pills-fda.html">F.D.A. Will Permanently Allow Abortion Pills by Mail</a> NYT: The decision will broaden access to medication abortion, an increasingly common method, but many conservative states are already mobilizing against it. 
  <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
- <p class="updated_time"> 03:50 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/business/economy/omicron-inflation.html">Omicron Is an Economic Threat, but Inflation Is Worse, Central Bankers Say</a> NYT: Within 24 hours, the Federal Reserve, Bank of England and European Central Bank all stepped forward to deal with price increases. 
+ <p class="updated_time"> 03:53 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/eduard-florea-new-york-man-sentenced-threats-congress-warnock/index.html">New York man sentenced to more than two years in prison for posting threats against Warnock and Congress</a> CNN: A New York man was sentenced Thursday to 33 months in prison for posting online violent threats against Congress and a then-newly elected Democratic senator ahead of and during the January 6 Capitol insurrection, according to the Brooklyn US attorney's office. 
  <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064951646/why-the-cost-of-carbon-is-increasing-and-how-that-affects-climate-policy">Why the cost of carbon is increasing — and how that affects climate policy</a> NPR: NPR's Mary Louise Kelly speaks with Michael Greenstone, professor and director of the Energy Policy Institute at the University of Chicago the impact of the rising cost of carbon on climate policy. 
  <p class="updated_time"> 03:23 PM CT, Dec. 16 </p> 
@@ -306,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/us/politics/trump-subpoenas.html">Facing Subpoenas, Trump Allies Try to Run Out the Clock on Democrats</a> NYT: Democrats hope a Biden Justice Department can speed up legal action, but Donald J. Trump and his allies are proving adept at using judicial delay to withhold information from Congress. 
  <p class="updated_time"> 10:07 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
- <p class="updated_time"> 09:58 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/voting-rights-king-family.html">King Family and Activists Plan Marches to Pressure Democrats on Voting Rights</a> NYT: Prominent backers of stalled voting rights legislation plan a blitz emphasizing the urgent need to counter new state restrictions. 
  <p class="updated_time"> 09:32 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/business/economy/inflation-fed-fomc-meeting-december-2021.html">Fed Could Raise Rates 3 Times in 2022 and Speeds End of Bond-Buying</a> NYT: With the economy healing, but price gains pinching consumers, officials are dialing back bond purchases and getting in position to raise interest rates (three are possible next year). 
  <p class="updated_time"> 08:55 PM CT, Dec. 15 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/us/politics/democrats-social-policy-bill-2022.html">Manchin Balks on Social Policy Bill; Democrats May Punt to 2022</a> NYT: A self-imposed Christmas deadline for action on the $2.2 trillion social safety net, climate and tax package appeared likely to slip as negotiations with the West Virginia Democrat faltered. 
  <p class="updated_time"> 06:40 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/bipartisan-deal-to-crack-down-on-chinas-treatment-of-muslims-stalls-in-senate-524868">Bipartisan deal to crack down on China's treatment of Muslims stalls in Senate</a> Politico: The House-passed bill on forced labor among the Uyghur minority, and a deal on foreign-policy confirmations, is getting bogged down in domestic drama. 
- <p class="updated_time"> 06:30 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/democrats-urge-biden-to-avert-student-loan-cliff-next-year-524889">Democrats urge Biden to avert student loan cliff next year</a> Politico: Monthly student loan payments and interest are set to resume on Feb. 1 for the first time since the beginning of the pandemic. 
  <p class="updated_time"> 06:28 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/michelle-kwan-caroline-kennedy-ambassador.html">Biden Taps Michelle Kwan and Caroline Kennedy for Ambassador Posts</a> NYT: Ms. Kennedy, nominated to be ambassador to Australia, and Ms. Kwan, nominated to be the envoy to Belize, were prominent Biden supporters during the 2020 campaign season. 
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
@@ -356,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/us/politics/guantanamo-bay-cia-prisoners.html">U.S. Waited Months to Book C.I.A. Prisoners at Guantánamo Bay</a> NYT: Defense lawyers said the delay cast into doubt whether samples taken from the captives could be considered valid evidence. 
  <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
- <p class="updated_time"> 11:10 AM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/cnn-poll-economy/index.html">CNN Poll: Most say government is doing too little to fix inflation and the supply chain</a> CNN: Americans' impressions of the nation's economy remain gloomy and broad majorities think the federal government has done too little to try to solve problems with the nation's supply chain and rising inflation, according to a new CNN Poll conducted by SSRS. 
  <p class="updated_time"> 11:07 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/jill-biden-waukesha/index.html">Jill Biden to visit victims of Waukesha Christmas parade tragedy and push Covid-19 vaccinations</a> CNN: First lady Jill Biden is traveling to Wisconsin on Wednesday in part to comfort victims and families of the November Christmas parade tragedy in Waukesha. 
  <p class="updated_time"> 10:43 AM CT, Dec. 15 </p> 
