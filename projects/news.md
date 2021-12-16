@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:39 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
  <p class="updated_time"> 09:30 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: The Office of Civil Defense said that nearly 100,000 people in several regions had been evacuated. There was no immediate word on casualties. 
- <p class="updated_time"> 09:23 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
  <p class="updated_time"> 09:18 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html">‘They Were Just Gone’: Two Baby Boys Survive Tornado in Kentucky</a> NYT: Without a basement, Clara Lutz of Barnsley, Ky., sheltered her infant grandsons in the bathtub for safety. A powerful tornado pulled the tub from her grip and sent the babies flying. 
  <p class="updated_time"> 08:45 AM CT, Dec. 16 </p> 
@@ -37,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">Bouncy Castle in Tasmania Is Swept by Wind, Killing 5 Children</a> NYT: A gust of wind swept up the inflatable on the last day of school, and the students fell more than 30 feet. Several others were critically injured. 
  <p class="updated_time"> 04:48 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064760503/vaccine-skeptics-in-eastern-europe-are-having-a-change-of-heart">Vaccine skeptics in Eastern Europe are having a change of heart</a> NPR: With surging coronavirus infections and countries making it more difficult for the unvacccinated to travel, some vaccine skeptics are now coming around. 
+ <p class="updated_time"> 04:42 AM CT, Dec. 16 </p> 
+ <a href="https://www.wsj.com/articles/eu-leaders-to-warn-russia-to-stay-out-of-ukraine-11639669335">EU Leaders to Warn Russia to Stay Out of Ukraine</a> WSJ: The bloc’s leaders are set to tell Russia it would pay a high cost for carrying out a fresh military intervention, but they will likely sidestep a call from Ukraine’s president to detail the actions they would take to deter the Kremlin. 
  <p class="updated_time"> 04:35 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Australia bouncy castle fall: Five children killed and four others injured</a> BBC: Four others are badly injured after wind blew the castle into the air, causing them to fall 10m. 
  <p class="updated_time"> 04:26 AM CT, Dec. 16 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/covid-19-cancels-christmas-around-europeagain-11639660145">Covid-19 Cancels Christmas Around Europe…Again</a> WSJ: From Spanish holidays to Greek celebrations to German circus performances, the Covid-19 pandemic has derailed plans and upended Christmas traditions across Europe for a second year in a row. 
  <p class="updated_time"> 02:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
- <p class="updated_time"> 01:54 AM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/bank-of-england-raises-interest-rates-11639656570">Bank of England Raises Interest Rates to Battle Inflation</a> WSJ: The BOE raised its benchmark interest rate to 0.25%, making it the first major central bank to lift borrowing costs since the pandemic began. 
  <p class="updated_time"> 12:03 AM CT, Dec. 16 </p> 
  <a href="https://www.wsj.com/articles/highly-vaccinated-south-korea-cant-slow-down-covid-19-11639652626">Highly Vaccinated South Korea Can't Slow Down Covid-19</a> WSJ: Historic levels of infections, hospitalizations and deaths are prompting the country to reverse plans to reopen and instead take some of the most aggressive measures against the virus of any country in the world. 
  <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
@@ -198,16 +198,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:41 AM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/donald-trump-january-6-committee-republicans-fox-news/index.html">How the January 6 committee finally exposed Trump's empire of lies</a> CNN: If politics still turned on truth and facts, this would be the week when the lie-filled foundations of Donald Trump's movement imploded, destroying his apparent dream of a return to power after the 2024 election. 
  <p class="updated_time"> 09:38 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/senate-races-2022.html">10 Senate Races to Watch in 2022</a> NYT: Democrats have a razor-thin margin that could be upended with the loss of a single seat. 
+ <p class="updated_time"> 09:35 AM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/jim-jordan-mark-meadows-text/index.html">Jim Jordan sent one of the texts revealed by January 6 committee</a> CNN: Rep. Jim Jordan forwarded a text message to then-White House chief of staff Mark Meadows on January 5, outlining a legal theory that then-Vice President Mike Pence had the authority to stand in the way of the certification of the 2020 election. 
  <p class="updated_time"> 09:32 AM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/white-house-lead-pipe-removal-effort/index.html">White House to announce new lead pipe and paint removal effort</a> CNN: Vice President Kamala Harris plans to announce a new administration push to eliminate lead from water pipes and homes during remarks Thursday in Washington, according to senior administration officials. 
+ <a href="https://www.cnn.com/2021/12/16/politics/white-house-lead-pipe-removal-effort/index.html">Harris announces administration's new lead pipe and paint removal effort</a> CNN: Vice President Kamala Harris plans to announce a new administration push to eliminate lead from water pipes and homes during remarks Thursday in Washington, according to senior administration officials. 
  <p class="updated_time"> 09:31 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/jill-biden-showing-up/index.html">Jill Biden says the administration will keep 'showing up' to help communities heal from tragedies</a> CNN: First lady Jill Biden wants the American people to know that the first family is there for them. 
  <p class="updated_time"> 09:23 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/biden-voting-rights-push-525061">Biden plans forceful push for voting rights. Aides are bearish on success.</a> Politico: A year of fits and starts has left the advocacy community bewildered. They say the window is closing and Biden needs to act. 
- <p class="updated_time"> 09:23 AM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/jim-jordan-mark-meadows-text/index.html">Jim Jordan sent one of the texts revealed by January 6 committee</a> CNN: Rep. Jim Jordan forwarded a text message to then-White House chief of staff Mark Meadows on January 5, outlining a legal theory that then-Vice President Mike Pence had the authority to stand in the way of the certification of the 2020 election. 
  <p class="updated_time"> 09:15 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/business/media/fox-news-trump-january-6.html">Fox News Hosts Take the Offensive About Texts to Meadows</a> NYT: Stars of the most-watched cable channel continued to downplay the Jan. 6 attack and back Donald J. Trump while criticizing the investigation of the Capitol siege. 
  <p class="updated_time"> 08:25 AM CT, Dec. 16 </p> 
@@ -238,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/16/1064697725/the-white-house-aims-to-boost-the-ranks-of-the-pandemic-strained-trucking-indust">The White House aims to boost the ranks of the pandemic-strained trucking industry</a> NPR: The plan is part of the Biden administration's efforts to improve the nation's ongoing supply chain problems. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/trump-subpoenas.html">Facing Subpoenas, Trump Allies Try to Run Out the Clock on Democrats</a> NYT: Democrats hope a Biden Justice Department can speed up legal action, but Donald J. Trump and his allies are proving adept at using judicial delay to withhold information from Congress. 
- <p class="updated_time"> 11:15 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/donald-trump-january-6-committee-republicans-fox-news/index.html">How the January 6 committee finally exposed Trump's empire of lies</a> CNN: If politics still turned on truth and facts, this would be the week when the lie-filled foundations of Donald Trump's movement imploded, destroying his apparent dream of a return to power after the 2024 election. 
  <p class="updated_time"> 10:07 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/defense-spending-bill.html">Senate Passes $768 Billion Defense Bill, Sending It to Biden</a> NYT: Lawmakers in both parties linked arms in an overwhelming vote authorizing an increase in the Pentagon’s budget of roughly $24 billion more than President Biden requested. 
  <p class="updated_time"> 09:58 PM CT, Dec. 15 </p> 
