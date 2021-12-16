@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:19 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
+ <p class="updated_time"> 09:30 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: The Office of Civil Defense said that nearly 100,000 people in several regions had been evacuated. There was no immediate word on casualties. 
+ <p class="updated_time"> 09:23 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
  <p class="updated_time"> 09:18 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html">‘They Were Just Gone’: Two Baby Boys Survive Tornado in Kentucky</a> NYT: Without a basement, Clara Lutz of Barnsley, Ky., sheltered her infant grandsons in the bathtub for safety. A powerful tornado pulled the tub from her grip and sent the babies flying. 
  <p class="updated_time"> 08:45 AM CT, Dec. 16 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
  <p class="updated_time"> 08:20 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html">NATO Signals Support for Ukraine Amid Russia Threat</a> NYT: The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion. 
- <p class="updated_time"> 07:04 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: The Office of Civil Defense said that nearly 100,000 people in several regions had been evacuated. There was no immediate word on casualties. 
  <p class="updated_time"> 06:55 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/queen-elizabeth-christmas-lunch-canceled-covid.html">Queen Elizabeth cancels traditional pre-Christmas lunch as cases surge in England.</a> NYT: Palace officials said it was a precautionary measure to avoid putting royal family members at risk by bringing a large group together at Windsor Castle. 
  <p class="updated_time"> 06:20 AM CT, Dec. 16 </p> 
@@ -41,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Australia bouncy castle fall: Five children killed and four others injured</a> BBC: Four others are badly injured after wind blew the castle into the air, causing them to fall 10m. 
  <p class="updated_time"> 04:26 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064743864/in-kashmir-closed-mosque-raises-questions-about-indias-religious-freedom">In Kashmir, closed mosque raises questions about India's religious freedom</a> NPR: For Kashmiri Muslims the Jamia Masjid is a sacred venue, but it's been closed most Fridays for the past two years. The government has said those who manage it couldn't stop anti-India protests there. 
+ <p class="updated_time"> 04:25 AM CT, Dec. 16 </p> 
+ <a href="https://www.wsj.com/articles/ecb-boosts-bond-purchases-as-it-phases-out-pandemic-stimulus-11639659416">Europe's Top Central Banks Take Different Tacks on Inflation</a> WSJ: The Bank of England became the first major central bank to raise its benchmark interest rate since the pandemic began, while the ECB said it would phase out an emergency bond-buying program while ramping up other stimulus measures. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/travel/testing-positive-for-covid-overseas.html">What Happens If You Test Positive for Covid While Traveling?</a> NYT: In the midst of the holiday season, the Omicron variant has many considering the prospects of getting stuck while traveling. Here’s what you need to know. 
  <p class="updated_time"> 03:56 AM CT, Dec. 16 </p> 
@@ -49,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/americas/santo-domingo-plane-crash.html">Santo Domingo Plane Crash Kills All 9 Aboard</a> NYT: A prominent Puerto Rican music producer known as Flow La Movie was reported to be among the dead. 
  <p class="updated_time"> 03:45 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59680797?at_medium=RSS&at_campaign=KARANGA">Bruce Springsteen sells his entire music catalogue for $500m</a> BBC: The star follows in the footsteps of Bob Dylan, Stevie Nicks and Blondie by cashing in on his songs. 
- <p class="updated_time"> 02:35 AM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/ecb-boosts-bond-purchases-as-it-phases-out-pandemic-stimulus-11639659416">ECB Extends Bond Purchases as It Phases Out Pandemic Stimulus</a> WSJ: The European Central Bank said it would phase out an emergency bond-buying program while ramping up other stimulus measures, diverging from the Federal Reserve and underscoring the challenge facing policy makers. 
  <p class="updated_time"> 02:30 AM CT, Dec. 16 </p> 
  <a href="https://www.wsj.com/articles/u-s-faces-pressure-to-sanction-myanmars-lucrative-energy-industry-11639661401">U.S. Faces Pressure to Sanction Myanmar's Lucrative Energy Industry</a> WSJ: The oil-and-gas industry is the main source of revenue for the Myanmar’s military, which seized power in a coup earlier this year. 
  <p class="updated_time"> 02:09 AM CT, Dec. 16 </p> 
@@ -189,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/asia/duterte-philippines-senate.html">Philippines President Rodrigo Duterte Won't Run for Senate</a> NYT: The populist president also promised a peaceful transition of power when his term ends next year. 
  <p class="updated_time"> 09:47 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/asia/india-omicron-fake-test-arrest.html">Four people are arrested in India after a man leaves the country using a fake virus test result.</a> NYT: The man, a 66-year-old South African pharmaceutical executive, fled his quarantine hotel and was later confirmed to have the Omicron variant. 
- <p class="updated_time"> 04:45 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/a-second-omicron-case-in-china-raises-the-prospect-of-stricter-controls.html">A second Omicron case in China raises the prospect of stricter controls.</a> NYT: Though both Omicron cases were quarantined upon arrival, a small outbreak in a building where one man was quarantining highlights how difficult it may be to control the new variant. 
  <p class="updated_time"> 06:05 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59645657?at_medium=RSS&at_campaign=KARANGA">Hong Kong elections: How China reshaped the city</a> BBC: The city's Legislative Council polls look different this year, thanks to new electoral and national security laws. 
 
@@ -200,14 +198,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:38 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/senate-races-2022.html">10 Senate Races to Watch in 2022</a> NYT: Democrats have a razor-thin margin that could be upended with the loss of a single seat. 
+ <p class="updated_time"> 09:32 AM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/white-house-lead-pipe-removal-effort/index.html">White House to announce new lead pipe and paint removal effort</a> CNN: Vice President Kamala Harris plans to announce a new administration push to eliminate lead from water pipes and homes during remarks Thursday in Washington, according to senior administration officials. 
+ <p class="updated_time"> 09:31 AM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/jill-biden-showing-up/index.html">Jill Biden says the administration will keep 'showing up' to help communities heal from tragedies</a> CNN: First lady Jill Biden wants the American people to know that the first family is there for them. 
  <p class="updated_time"> 09:23 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/biden-voting-rights-push-525061">Biden plans forceful push for voting rights. Aides are bearish on success.</a> Politico: A year of fits and starts has left the advocacy community bewildered. They say the window is closing and Biden needs to act. 
+ <p class="updated_time"> 09:23 AM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/jim-jordan-mark-meadows-text/index.html">Jim Jordan sent one of the texts revealed by January 6 committee</a> CNN: Rep. Jim Jordan forwarded a text message to then-White House chief of staff Mark Meadows on January 5, outlining a legal theory that then-Vice President Mike Pence had the authority to stand in the way of the certification of the 2020 election. 
  <p class="updated_time"> 09:15 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/business/media/fox-news-trump-january-6.html">Fox News Hosts Take the Offensive About Texts to Meadows</a> NYT: Stars of the most-watched cable channel continued to downplay the Jan. 6 attack and back Donald J. Trump while criticizing the investigation of the Capitol siege. 
- <p class="updated_time"> 09:10 AM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/white-house-lead-pipe-removal-effort/index.html">White House to announce new lead pipe and paint removal effort</a> CNN: Vice President Kamala Harris plans to announce a new administration push to eliminate lead from water pipes and homes during remarks Thursday in Washington, according to senior administration officials. 
- <p class="updated_time"> 08:52 AM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/jill-biden-showing-up/index.html">Jill Biden says the administration will keep 'showing up' to help communities heal from tragedies</a> CNN: First lady Jill Biden wants the American people to know that the first family is there for them. 
  <p class="updated_time"> 08:25 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/melania-trump-nft/index.html">Melania Trump announces launch of an NFT</a> CNN: Melania Trump is getting in on the latest crypto craze -- NFTs. 
  <p class="updated_time"> 08:03 AM CT, Dec. 16 </p> 
@@ -282,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/omicron-covid-testing-524820">HHS forecast shows Omicron stretching U.S. Covid testing supply</a> Politico: The nation's supply could be stretched by the need to conduct 3 to 5 million tests per day by late January or early February. 
  <p class="updated_time"> 05:02 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/democrat-covid-package-push/index.html">House Democrat calls for Congress to pass another Covid relief package </a> CNN: Rep. Jamaal Bowman, a progressive freshman Democrat from New York, is calling on Congress to pass another Covid-19 relief package as the country marks 800,000 deaths from the virus and the threat of the Omicron variant only grows. 
- <p class="updated_time"> 05:00 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/jim-jordan-mark-meadows-text/index.html">Jim Jordan sent one of the texts revealed by January 6 committee</a> CNN: Rep. Jim Jordan forwarded a text message to then-White House chief of staff Mark Meadows on January 5, outlining a legal theory that then-Vice President Mike Pence had the authority to stand in the way of the certification of the 2020 election. 
  <p class="updated_time"> 04:45 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/eric-adams-mayor-health-new-york-524802">New York’s next mayor wants to save the city from the evils of olive oil</a> Politico: “We can save more lives with plant-based diet if people would only realize they are enslaved to fats, oil, sugar and things that are killing their body,” Adams said in a short 2018 film. 
  <p class="updated_time"> 04:25 PM CT, Dec. 15 </p> 
@@ -368,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/garcetti-new-delhi-524273">Senate toasts Eric Garcetti nomination, despite the red flags back home</a> Politico: The L.A. mayor had his confirmation hearing Tuesday. Only one member asked him about the misconduct allegations his top aide is facing. 
  <p class="updated_time"> 06:02 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/democrats-cruz-hawley-biden-ambassadors-524220">Dems launch talks to break Cruz-Hawley blockade of Biden ambassadors</a> Politico: But while the price for one GOP 2024 contender's help is clear, another is less open about what it'll take to ease his holds. 
- <p class="updated_time"> 05:47 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/senate-races-2022.html">10 Senate Races to Watch in 2022</a> NYT: Democrats have a razor-thin margin that could be upended with the loss of a single seat. 
  <p class="updated_time"> 05:45 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/trump-tax-returns-legal-524235">Judge scraps Trump lawsuit to shield tax returns from Congress</a> Politico: But the judge stayed the impact of his ruling for 14 days. 
  <p class="updated_time"> 05:40 PM CT, Dec. 14 </p> 
