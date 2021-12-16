@@ -204,8 +204,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
+ <a href="https://www.politico.com/news/2021/12/16/chamber-ad-manchin-build-back-better-525129">Chamber launches ads targeting Manchin, hoping to kill Build Back Better</a> Politico: The group got a huge win with the infrastructure bill. Now, they want the legislative spigot to go dry. 
  <p class="updated_time"> 01:11 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/crackdown-on-chinas-treatment-of-muslim-minority-headed-to-bidens-desk-525094">Crackdown on China's treatment of Muslim minority headed to Biden's desk</a> Politico: The legislation, which faced a bumpy road to passage, effectively bans all imports from China’s Xinjiang region. 
+ <p class="updated_time"> 12:57 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/jackson-beasley-north-carolina-senate-race/index.html">Jackson bows out of Democratic Senate primary in North Carolina, largely clearing field for Beasley</a> CNN: North Carolina state Sen. Jeff Jackson on Thursday bowed out of the race to be the Tar Heel state's next US senator, largely clearing the Democratic primary field for former state Supreme Court chief justice Cheri Beasley. 
+ <p class="updated_time"> 12:48 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/alan-lowenthal-retiring/index.html">Democratic Rep. Alan Lowenthal announces he will not seek reelection in 2022</a> CNN: Democratic Rep. Alan Lowenthal of California announced Thursday that he will not seek reelection in 2022, joining a number of high-profile and long-serving lawmakers who plan to leave Capitol Hill after this term. 
  <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden to award Medal of Honor to 3 Army soldiers</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
  <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
@@ -220,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/16/politics/congressional-gold-medal-us-troops-kabul-attack/index.html">Biden signs bill to award Congressional Gold Medal to US service members killed in Kabul airport bombing</a> CNN: President Joe Biden on Thursday signed a bill that posthumously awards a Congressional Gold Medal to the 13 US service members killed in a terrorist attack outside Kabul's airport in August. 
  <p class="updated_time"> 12:19 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-kentucky-tornado.html">Touring Kentucky, Biden Vows ‘Whatever It Takes’ to Recover From Storms</a> NYT: The president promised the federal government would cover the full cost of the emergency response for 30 days as he comforted victims of the devastating tornadoes. 
- <p class="updated_time"> 12:19 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/jackson-beasley-north-carolina-senate-race/index.html">Jackson bows out of Democratic Senate primary in North Carolina, largely clearing field for Beasley</a> CNN: North Carolina state Sen. Jeff Jackson on Thursday bowed out of the race to be the Tar Heel state's next US senator, largely clearing the Democratic primary field for former state Supreme Court chief justice Cheri Beasley. 
  <p class="updated_time"> 12:16 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-signs-debt-limit-increase/index.html">Biden signs debt limit increase</a> CNN: President Joe Biden on Thursday signed the bill raising the debt limit ceiling that passed Congress earlier this week, according to a press release from the White House. 
  <p class="updated_time"> 12:12 PM CT, Dec. 16 </p> 
@@ -290,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/business/economy/inflation-fed-fomc-meeting-december-2021.html">Fed Could Raise Rates 3 Times in 2022 and Speeds End of Bond-Buying</a> NYT: With the economy healing, but price gains pinching consumers, officials are dialing back bond purchases and getting in position to raise interest rates (three are possible next year). 
  <p class="updated_time"> 08:55 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/trump-meadows-republicans-congress-jan-6.html">Meadows and the Band of Loyalists: How They Fought to Keep Trump in Power</a> NYT: A small circle of Republican lawmakers, working closely with President Donald J. Trump’s chief of staff, took on an outsize role in pressuring the Justice Department, amplifying conspiracy theories and flooding the courts in an attempt to overturn the 2020 election. 
- <p class="updated_time"> 08:48 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/biden-james-comer-kentucky/index.html">A single Kentucky Republican travels with Biden to survey tornado and storm damage</a> CNN: On nearly any other day in Washington, Republican Congressman James Comer would likely be calling for oversight investigations into the Biden administration. 
  <p class="updated_time"> 08:24 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/jeff-jackson-north-carolina-senate-race-524970">Jeff Jackson drops out of North Carolina Senate race</a> Politico: Jackson, who faced a difficult primary against former state Supreme Court Justice Cheri Beasley, called donors to inform them of his decision on Wednesday before ending his campaign on Thursday. 
  <p class="updated_time"> 07:50 PM CT, Dec. 15 </p> 
