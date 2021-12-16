@@ -202,6 +202,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:23 AM CT, Dec. 16 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/16/manchinemas-christmas-present-to-dems-a-blunt-reality-check-495489">Manchinema’s Christmas present to Dems: A blunt reality check</a> Politico Playbook: And Kevin McCarthy faces pressure to punish Liz Cheney and Adam Kinzinger. 
+ <p class="updated_time"> 05:06 AM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/child-care-hiring-crisis/index.html">Child care hiring crisis is closing programs and keeping parents out of workforce</a> CNN: A hiring crisis is closing classrooms at Nurtury Early Education in Boston. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-gohmert-lawsuit-pence-524839">The Jan. 6 puzzle piece that's going largely ignored</a> Politico: Rep. Louie Gohmert  sued then-Vice President Mike Pence on Dec. 27. Donald Trump’s involvement in the case remains unclear. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
@@ -230,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/15/politics/biden-james-comer-kentucky/index.html">A single Kentucky Republican travels with Biden to survey tornado and storm damage</a> CNN: On nearly any other day in Washington, Republican Congressman James Comer would likely be calling for oversight investigations into the Biden administration. 
  <p class="updated_time"> 08:24 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/jeff-jackson-north-carolina-senate-race-524970">Jeff Jackson expected to drop out of North Carolina Senate race</a> Politico: Jackson, who faced a difficult primary against former state Supreme Court Justice Cheri Beasley, called donors to inform them of his decision on Wednesday. 
- <p class="updated_time"> 08:03 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/biden-kentucky-visit/index.html">Biden says feds will cover 100% of the cost to clean up from Kentucky tornado for the first 30 days of recovery</a> CNN: President Joe Biden will travel to Kentucky on Wednesday in the wake of deadly tornadoes and severe storms that devastated the area, where he'll survey storm damage, meet with victims and deliver remarks. 
  <p class="updated_time"> 07:50 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/yuma-arizona-migrants/index.html">A dramatic increase in number of migrants seeking asylum in Arizona overwhelms Border Patrol</a> CNN: Under the shadow of the border wall, dozens of migrants raced to get in line as they spotted the glimmer of vehicle lights down the road. US Border Patrol agents were on the way. 
  <p class="updated_time"> 07:40 PM CT, Dec. 15 </p> 
@@ -262,6 +264,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats' filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
  <p class="updated_time"> 05:31 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/omicron-delta-covid-19-what-matters/index.html">Analysis: Delta plus Omicron spells trouble</a> CNN: Colleges sending students home. Sports leagues canceling games and scrambling to deal with Covid-19 outbreaks. States returning to mask requirements. 
+ <p class="updated_time"> 05:30 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/navy-covid-vaccine-sailors-discharging/index.html">Navy to begin discharging sailors who refuse Covid-19 vaccine</a> CNN: The US Navy will begin discharging sailors who refuse to get vaccinated against Covid-19, just as the Air Force announced earlier this week that they had discharged service members for failing to get vaccinated. 
  <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/trump-january-6-obstruction-law-524806">Jan. 6 investigators mull whether Trump violated obstruction law</a> Politico: Rep. Liz Cheney (R-Wyo.) raised the question using precise terminology from the criminal statute that some view as possibly applicable to the former president's actions. 
  <p class="updated_time"> 05:04 PM CT, Dec. 15 </p> 
@@ -312,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
  <p class="updated_time"> 11:39 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/navy-kicks-out-sailors-vaccine-524693">Navy starts kicking out sailors for refusing Covid vaccine as Republicans rage over mandate</a> Politico: The move comes as the Air Force begins discharging service members for not taking the shot. 
- <p class="updated_time"> 11:10 AM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/cnn-poll-economy/index.html">CNN Poll: Most say government is doing too little to fix inflation and the supply chain</a> CNN: Americans' impressions of the nation's economy remain gloomy and broad majorities think the federal government has done too little to try to solve problems with the nation's supply chain and rising inflation, according to a new CNN Poll conducted by SSRS. 
  <p class="updated_time"> 11:07 AM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/jill-biden-waukesha/index.html">Jill Biden to visit victims of Waukesha Christmas parade tragedy and push Covid-19 vaccinations</a> CNN: First lady Jill Biden is traveling to Wisconsin on Wednesday in part to comfort victims and families of the November Christmas parade tragedy in Waukesha. 
  <p class="updated_time"> 10:43 AM CT, Dec. 15 </p> 
