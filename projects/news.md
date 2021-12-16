@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:31 PM CT, Dec. 16 </p> 
+ <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
+ <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
+ <a href="https://www.npr.org/2021/12/16/1064951653/all-17-missionaries-kidnapped-by-a-gang-in-haiti-have-been-released">All 17 missionaries kidnapped by a gang in Haiti have been released</a> NPR: All 17 of the missionaries kidnapped in Haiti two months ago have now been freed. Violence and kidnapping have spiked in Haiti following the assassination of its president in July. 
+ <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
+ <a href="https://www.npr.org/2021/12/16/1064951646/why-the-cost-of-carbon-is-increasing-and-how-that-affects-climate-policy">Why the cost of carbon is increasing — and how that affects climate policy</a> NPR: NPR's Mary Louise Kelly speaks with Michael Greenstone, professor and director of the Energy Policy Institute at the University of Chicago the impact of the rising cost of carbon on climate policy. 
  <p class="updated_time"> 03:20 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064951597/haitian-migrants-say-mexican-authorities-are-keeping-them-from-traveling-to-the-">Haitian migrants say Mexican authorities are keeping them from traveling to the U.S.</a> NPR: Haitian migrants who crossed into Mexico from Guatemala are being prevented by Mexican authorities from traveling north to the U.S. The migrants say they are treated much worse than Latino migrants. 
  <p class="updated_time"> 02:16 PM CT, Dec. 16 </p> 
@@ -137,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/15/1064614591/bipartisan-congress-group-calls-to-ship-more-weapons-to-the-ukraine-to-deter-rus">Bipartisan Congress group calls to ship more weapons to the Ukraine to deter Russia</a> NPR: A bipartisan group from the United States Congress, just returned from Ukraine, are calling for the Biden administration to step up weapons shipments to Kyiv to deter a Russian invasion. 
  <p class="updated_time"> 03:28 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064614584/tensions-with-china-has-u-s-working-to-strengthen-ties-with-southeast-asia">Tensions with China has U.S. working to strengthen ties with Southeast Asia</a> NPR: In Indonesia, Secretary of State Antony Blinken outlined how the U.S. plans to deepen its economic engagement in Southeast Asia. The U.S. has focused more on security in the region up to this point. 
- <p class="updated_time"> 03:28 PM CT, Dec. 15 </p> 
- <a href="https://www.npr.org/2021/12/15/1064001076/taliban-afghanistan-girls-education-womens-rights">What the Taliban really want from the world, in their own words</a> NPR: "We want to prove to everyone forever that we respect humanity," Taliban spokesman Muhammad Naeem Wardak told NPR in Doha, Qatar. He also said women "must have the right to education and to work." 
  <p class="updated_time"> 02:57 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-covid-record-cases.html">Britain Breaks Daily Record for New Virus Cases</a> NYT: Officials didn’t specify what share of the new cases might be Omicron, though they said a majority in London were from the variant. 
  <p class="updated_time"> 02:32 PM CT, Dec. 15 </p> 
@@ -147,16 +149,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-covid-restrictions.html">Conservatives Abandon Johnson Over New Covid Rules</a> NYT: A record number of Prime Minister Boris Johnson’s fellow party members voted against his plan for Covid certificates. But the plan passed with the help of the opposition. 
  <p class="updated_time"> 01:24 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/netherlands-dutch-coalition.html">After Months, a ‘New’ Dutch Coalition With the Same Leader and Parties</a> NYT: Mark Rutte, who has weathered a scandal and criticism for overstaying his welcome, will be prime minister for a fourth term. 
- <p class="updated_time"> 01:12 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59674306?at_medium=RSS&at_campaign=KARANGA">Logic's 1-800-273-8255 led to call surge to suicide line, study suggests</a> BBC: Researchers found that the rapper's 1-800-273-8255 increased calls to the helpline it was named after. 
  <p class="updated_time"> 12:06 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/africa/jacob-zuma-prison-south-africa.html">Jacob Zuma Must Return to Prison, South Africa Judge Rules</a> NYT: The former president had been granted medical parole two months into a 15-month prison sentence on contempt charges linked to a corruption inquiry. 
  <p class="updated_time"> 11:47 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/iran-nuclear-cameras-iaea.html">Iran Agrees to Replace Cameras at Nuclear Site but Blocks Images</a> NYT: Iran’s failure to allow the U.N. nuclear agency to fully monitor its nuclear program is hindering talks in Vienna on restoring the 2015 nuclear deal. 
  <p class="updated_time"> 11:25 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-michael-kretschmer-plot-saxony-vaccines.html">Vaccine Opponents in Germany Investigated Over Plot to Kill State Governor</a> NYT: The authorities in Dresden raided the homes of a group of people who they said were targeting the leader of the state of Saxony. A number of weapons were seized. 
- <p class="updated_time"> 10:51 AM CT, Dec. 15 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/15/1064463596/german-police-anti-vax-assassination-plot">German police move against an alleged murder plot by anti-vaccination extremists </a> NPR: The police conducted raids in the city of Dresden and the nearby town of Heidenau come after a group allegedly organized online to kill Saxony's state premier, Michael Kretschmer. 
  <p class="updated_time"> 10:50 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-russia-berlin-murder.html">Russian Is Convicted in Murder of Chechen Man in a Berlin Park</a> NYT: A German court ruled that the Russian state had orchestrated the attack, which strained ties between Berlin and Moscow. 
  <p class="updated_time"> 10:44 AM CT, Dec. 15 </p> 
@@ -204,8 +202,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
+ <a href="https://www.npr.org/2021/12/16/1064951646/why-the-cost-of-carbon-is-increasing-and-how-that-affects-climate-policy">Why the cost of carbon is increasing — and how that affects climate policy</a> NPR: NPR's Mary Louise Kelly speaks with Michael Greenstone, professor and director of the Energy Policy Institute at the University of Chicago the impact of the rising cost of carbon on climate policy. 
  <p class="updated_time"> 03:29 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/abortion-pills-fda.html">F.D.A. Will Permanently Allow Abortion Pills by Mail</a> NYT: The decision will broaden access to medication abortion, an increasingly common method, but many conservative states are already mobilizing against it. 
+ <p class="updated_time"> 03:23 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/ken-cuccinelli-january-6/index.html">Former Homeland Security official Cuccinelli talks to January 6 committee</a> CNN: The House select committee investigating the January 6 riot interviewed former Department of Homeland Security official Ken Cuccinelli last week, he told CNN on Thursday. 
  <p class="updated_time"> 03:22 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden awards Medal of Honor to 3 soldiers, including the first African American since the Vietnam War</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
  <p class="updated_time"> 03:20 PM CT, Dec. 16 </p> 
@@ -246,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/us/politics/biden-kentucky-tornado.html">Touring Kentucky, Biden Vows ‘Whatever It Takes’ to Recover From Storms</a> NYT: The president promised the federal government would cover the full cost of the emergency response for 30 days as he comforted victims of the devastating tornadoes. 
  <p class="updated_time"> 12:16 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-signs-debt-limit-increase/index.html">Biden signs debt limit increase</a> CNN: President Joe Biden on Thursday signed the bill raising the debt limit ceiling that passed Congress earlier this week, according to a press release from the White House. 
- <p class="updated_time"> 12:12 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/donald-trump-january-6-committee-republicans-fox-news/index.html">Analysis: How the January 6 committee finally exposed Trump's empire of lies</a> CNN: If politics still turned on truth and facts, this would be the week when the lie-filled foundations of Donald Trump's movement imploded, destroying his apparent dream of a return to power after the 2024 election. 
  <p class="updated_time"> 12:09 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/rep-jim-jordan-january-6-text/index.html">The Point: Jim Jordan helped plot the coup. Now he's in line to be one of the most powerful members of Congress.</a> CNN: If Republicans win the House majority next November -- and they are currently favored to do so -- then Ohio Rep. Jim Jordan will almost certainly rise to one of the most prominent positions in the chamber: Chairman of the Judiciary Committee. 
  <p class="updated_time"> 12:09 PM CT, Dec. 16 </p> 
@@ -348,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/15/1064579018/jfk-assassination-archives-documents">The Archives has released nearly 1,500 new documents on JFK's assassination</a> NPR: They contain memos from meetings with informants, mostly of interest to historians and researchers. No evidence is expected that would put in doubt that Lee Harvey Oswald was the lone gunman. 
  <p class="updated_time"> 03:54 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064598531/the-fda-could-permanently-lift-some-restrictions-on-abortion-pills">The FDA could permanently lift some restrictions on abortion pills</a> NPR: The abortion pill mifepristone was approved in 2000 but still faces layers of restrictions. Advocates want the FDA to permanently allow patients to receive the pill by mail instead of in person. 
- <p class="updated_time"> 03:41 PM CT, Dec. 15 </p> 
- <a href="https://www.npr.org/2021/12/15/1064614631/biden-promised-government-support-after-visiting-areas-hit-by-tornadoes-in-kentu">Biden promised government support after visiting areas hit by tornadoes in Kentucky</a> NPR: President Biden toured areas of western Kentucky damaged by a series of powerful tornadoes on Dec. 10 and 11. The president promised the federal government would be there to help people. 
  <p class="updated_time"> 03:33 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/biden-manchin-megabill-524776">‘Going very poorly’: Biden can't nail Manchin down on Dems’ bill</a> Politico: President Joe Biden is running out of patience as Sen. Joe Manchin continues to drag his feet on supporting the party's domestic spending legislation. 
  <p class="updated_time"> 12:59 PM CT, Dec. 15 </p> 
