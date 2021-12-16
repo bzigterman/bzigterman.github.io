@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:16 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/americas/santo-domingo-plane-crash.html">Santo Domingo Plane Crash Kills All 9 Aboard</a> NYT: A prominent Puerto Rican music producer known as Flow La Movie was reported to be among the dead. 
  <p class="updated_time"> 10:46 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59678367?at_medium=RSS&at_campaign=KARANGA">Michelle Odinet: Louisiana judge faces calls to quit over home video slurs</a> BBC: Judge Michelle Odinet says she took a sedative and has "zero recollection" of the incident. 
  <p class="updated_time"> 10:03 PM CT, Dec. 15 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59663827?at_medium=RSS&at_campaign=KARANGA">Beijing 2022: Putin tells Xi he will attend Winter Olympics</a> BBC: The Russian president is the first major western leader to indicate his attendance at the Games. 
  <p class="updated_time"> 09:34 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Tasmania bouncy castle fall: Two children killed and several others injured</a> BBC: Other children are badly injured after wind blew the castle into the air, causing them to fall 10m. 
- <p class="updated_time"> 09:04 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/americas/santo-domingo-plane-crash.html">Santo Domingo Plane Crash Kills 9</a> NYT: A prominent Latin music producer, known as Flow La Movie, was reported to be among the dead. 
  <p class="updated_time"> 07:00 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59677675?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: EU to warn Moscow against action</a> BBC: European leaders meeting in Brussels are expected to say hostile action could come at a "high price". 
  <p class="updated_time"> 06:44 PM CT, Dec. 15 </p> 
