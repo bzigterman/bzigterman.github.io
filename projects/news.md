@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:58 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
  <p class="updated_time"> 12:55 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">Bouncy Castle in Tasmania Is Swept by Wind, Killing 5 Children</a> NYT: A gust of wind swept up the inflatable on the last day of school, and the students fell more than 30 feet. Several others were critically injured. 
- <p class="updated_time"> 12:46 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
  <p class="updated_time"> 12:27 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59688787?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Defence attorneys begin arguments</a> BBC: A spokesperson for Ms Maxwell said on Wednesday she is "too fragile" to testify in her own defence. 
  <p class="updated_time"> 11:33 AM CT, Dec. 16 </p> 
@@ -20,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:22 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59689060?at_medium=RSS&at_campaign=KARANGA">Haiti kidnappers release remaining missionaries</a> BBC: The missionaries from the US and Canada were abducted in mid-October by a powerful crime gang. 
  <p class="updated_time"> 11:18 AM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064847616/tasmania-bouncy-castle-accident">A wind gust swept a bouncy castle in Tasmania 30 feet in the air, killing 5 children</a> NPR: Authorities say an end-of-year celebration at Hillcrest Primary School in the Australian state turned tragic when nine students fell from a height of about 32 feet. 
+ <a href="https://www.npr.org/2021/12/16/1064847616/tasmania-bouncy-castle-accident">A wind gust swept a bouncy castle in Tasmania 30 feet in the air, killing 5 children</a> NPR: Four children remain hospitalized, with three in critical condition and one in serious condition, at an end-of-year celebration at Hillcrest Primary School in the Australian state, authorities say. 
  <p class="updated_time"> 11:06 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/middleeast/turkish-lira-currency-erdogan-turkey.html">Turkish Currency Hits a New Low, Again</a> NYT: The Central Bank has cut interest rates, even as inflation continues to soar, deepening President Erdogan’s disputed economic plan and setting off a new plunge in the lira. 
  <p class="updated_time"> 10:54 AM CT, Dec. 16 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:47 PM CT, Dec. 16 </p> 
+ <a href="https://www.politico.com/news/2021/12/16/swedish-commander-us-troops-russia-ukraine-crisis-525135">Swedish commander: U.S. should add troops in Europe if Russia-Ukraine crisis deepens</a> Politico: Biden has all but ruled out sending American forces directly to fight. 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/chamber-ad-manchin-build-back-better-525129">Chamber launches ads targeting Manchin, hoping to kill Build Back Better</a> Politico: The group got a huge win with the infrastructure bill. Now, they want the legislative spigot to go dry. 
  <p class="updated_time"> 01:52 PM CT, Dec. 16 </p> 
@@ -368,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Halts Asia Trip After Journalist Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the United States earlier than planned. 
  <p class="updated_time"> 06:19 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/15/a-junkies-guide-to-the-2022-midterms-495470"> A junkie’s guide to the 2022 midterms</a> Politico Playbook: And the House votes to hold Mark Meadows in contempt of Congress. 
- <p class="updated_time"> 04:31 AM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/democratic-governors-covid-fatigue-524425">‘They’re sick of masks’: Democratic governors fight Covid fatigue</a> Politico: The party’s defeat last month in Virginia — and closer-than-expected victory in New Jersey — has many Democrats searching for an off-ramp to the pandemic that allows them to sell a brighter future to voters next November. 
  <p class="updated_time"> 04:00 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/placebo-effect-clinical-care.html">Placebos Are Often Prescribed By Doctors. Are The Actually Effective?</a> NYT: An Australian researcher argues that the medical community has enshrined placebos as “mysterious and highly effective” in clinical care on the basis of flawed research. 
  <p class="updated_time"> 11:41 PM CT, Dec. 14 </p> 
