@@ -204,14 +204,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:34 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/cdc-covid-vaccine-johnson-525153">CDC advisers recommend mRNA Covid vaccines over J&J shot amid blood clot risks</a> Politico: CDC Director Rochelle Walensky must now decide whether to accept the panel's recommendation. 
+ <p class="updated_time"> 04:23 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/medication-abortion-fda-supreme-court/index.html">Battle over medication abortion is warm-up fight as SCOTUS weighs gutting Roe</a> CNN: With the Supreme Court poised to undo its abortion rights precedent, the Biden administration is considering a move that could mitigate the fallout from a Roe v. Wade reversal. And red states are already on the march to counteract whatever the federal government opts to do. 
+ <p class="updated_time"> 04:13 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/health/abortion-pills-fda.html">F.D.A. Will Permanently Allow Abortion Pills by Mail</a> NYT: The decision will broaden access to medication abortion, an increasingly common method, but many conservative states are already mobilizing against it. 
  <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
  <p class="updated_time"> 03:50 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/economy/omicron-inflation.html">Omicron Is an Economic Threat, but Inflation Is Worse, Central Bankers Say</a> NYT: Within 24 hours, the Federal Reserve, Bank of England and European Central Bank all stepped forward to deal with price increases. 
  <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064951646/why-the-cost-of-carbon-is-increasing-and-how-that-affects-climate-policy">Why the cost of carbon is increasing — and how that affects climate policy</a> NPR: NPR's Mary Louise Kelly speaks with Michael Greenstone, professor and director of the Energy Policy Institute at the University of Chicago the impact of the rising cost of carbon on climate policy. 
- <p class="updated_time"> 03:29 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/health/abortion-pills-fda.html">F.D.A. Will Permanently Allow Abortion Pills by Mail</a> NYT: The decision will broaden access to medication abortion, an increasingly common method, but many conservative states are already mobilizing against it. 
  <p class="updated_time"> 03:23 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/ken-cuccinelli-january-6/index.html">Former Homeland Security official Cuccinelli talks to January 6 committee</a> CNN: The House select committee investigating the January 6 riot interviewed former Department of Homeland Security official Ken Cuccinelli last week, he told CNN on Thursday. 
  <p class="updated_time"> 03:22 PM CT, Dec. 16 </p> 
@@ -288,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/16/manchinemas-christmas-present-to-dems-a-blunt-reality-check-495489"> Manchinema’s Christmas present to Dems: A blunt reality check</a> Politico Playbook: And Kevin McCarthy faces pressure to punish Liz Cheney and Adam Kinzinger. 
  <p class="updated_time"> 06:13 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064751681/ahead-of-midterms-the-gops-extreme-wing-in-the-house-worries-republicans">Ahead of midterms, the GOP's extreme wing in the House worries Republicans</a> NPR: House Republicans are in a strong position to win back control of the chamber but divisions threaten to throw the party off message. 
- <p class="updated_time"> 06:04 AM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/medication-abortion-fda-supreme-court/index.html">Battle over medication abortion is warm-up fight as SCOTUS weighs gutting Roe</a> CNN: With the Supreme Court poised to undo its abortion rights precedent, the Biden administration is considering a move that could mitigate the fallout from a Roe v. Wade reversal. And red states are already on the march to counteract whatever the federal government opts to do. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-gohmert-lawsuit-pence-524839">The Jan. 6 puzzle piece that's going largely ignored</a> Politico: Rep. Louie Gohmert  sued then-Vice President Mike Pence on Dec. 27. Donald Trump’s involvement in the case remains unclear. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
@@ -319,7 +319,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:30 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/photographer-sues-jan-6-committee-524922">Photographer sues House Jan. 6 committee over subpoena</a> Politico: Freelancer Amy Harris seeks to block panel from obtaining metadata on her cell phone calls and texts. 
  <p class="updated_time"> 06:44 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/democrats-social-policy-bill-2022.html">Democrats Ready to Punt Social Policy Bill to 2022 as Manchin Balks</a> NYT: A self-imposed Christmas deadline for action on the $2.2 trillion social safety net, climate and tax package appeared likely to slip as negotiations with the West Virginia Democrat faltered. 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/democrats-social-policy-bill-2022.html">Manchin Balks on Social Policy Bill; Democrats May Punt to 2022</a> NYT: A self-imposed Christmas deadline for action on the $2.2 trillion social safety net, climate and tax package appeared likely to slip as negotiations with the West Virginia Democrat faltered. 
  <p class="updated_time"> 06:40 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/bipartisan-deal-to-crack-down-on-chinas-treatment-of-muslims-stalls-in-senate-524868">Bipartisan deal to crack down on China's treatment of Muslims stalls in Senate</a> Politico: The House-passed bill on forced labor among the Uyghur minority, and a deal on foreign-policy confirmations, is getting bogged down in domestic drama. 
  <p class="updated_time"> 06:30 PM CT, Dec. 15 </p> 
@@ -349,7 +349,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:55 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064579018/jfk-assassination-archives-documents">The Archives has released nearly 1,500 new documents on JFK's assassination</a> NPR: They contain memos from meetings with informants, mostly of interest to historians and researchers. No evidence is expected that would put in doubt that Lee Harvey Oswald was the lone gunman. 
  <p class="updated_time"> 03:54 PM CT, Dec. 15 </p> 
- <a href="https://www.npr.org/2021/12/15/1064598531/the-fda-could-permanently-lift-some-restrictions-on-abortion-pills">The FDA could permanently lift some restrictions on abortion pills</a> NPR: The abortion pill mifepristone was approved in 2000 but still faces layers of restrictions. Advocates want the FDA to permanently allow patients to receive the pill by mail instead of in person. 
+ <a href="https://www.npr.org/2021/12/15/1064598531/the-fda-could-permanently-lift-some-restrictions-on-abortion-pills">FDA relaxes controversial restrictions on access to abortion pill by mail</a> NPR: The agency's decision to ease access to the drug mifepristone comes at a time when abortion rights are being increasingly restricted nationwide. 
  <p class="updated_time"> 03:33 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/biden-manchin-megabill-524776">‘Going very poorly’: Biden can't nail Manchin down on Dems’ bill</a> Politico: President Joe Biden is running out of patience as Sen. Joe Manchin continues to drag his feet on supporting the party's domestic spending legislation. 
  <p class="updated_time"> 12:59 PM CT, Dec. 15 </p> 
