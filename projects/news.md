@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:35 AM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Australia bouncy castle fall: Five children killed and four others injured</a> BBC: Four others are badly injured after wind blew the castle into the air, causing them to fall 10m. 
+ <p class="updated_time"> 04:34 AM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59679861?at_medium=RSS&at_campaign=KARANGA">Covid: France to drastically restrict travel from UK</a> BBC: Non-residents will need compelling reasons to travel, as France tries to slow the spread of Omicron. 
  <p class="updated_time"> 04:26 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064743864/in-kashmir-closed-mosque-raises-questions-about-indias-religious-freedom">In Kashmir, closed mosque raises questions about India's religious freedom</a> NPR: For Kashmiri Muslims the Jamia Masjid is a sacred venue, but it's been closed most Fridays for the past two years. The government has said those who manage it couldn't stop anti-India protests there. 
  <p class="updated_time"> 04:23 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">5 Schoolchildren Die in Fall From Bouncy Castle in  Australia</a> NYT: The students fell more than 30 feet on the last day of school in Tasmania, Australia. Several others were critically injured. 
- <p class="updated_time"> 04:05 AM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59679861?at_medium=RSS&at_campaign=KARANGA">Covid: France to drastically restrict travel from UK</a> BBC: Non-residents will need compelling reasons to travel, as France tries to slow the spread of Omicron. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/ishigaki-japan-missiles-taiwan.html">The Island Paradise Near the Front Line of Tensions Over Taiwan</a> NYT: New missile batteries planned for the Japanese island of Ishigaki reflect a drastic shift in Japan’s views on China. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
  <p class="updated_time"> 02:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
- <p class="updated_time"> 01:02 AM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Australia bouncy castle fall: Four children killed and five others injured</a> BBC: Five others are badly injured after wind blew the castle into the air, causing them to fall 10m. 
  <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064740067/lithuania-closes-embassy-in-china-after-last-diplomats-leave-amid-taiwan-spat">Lithuania closes embassy in China after last diplomats leave amid Taiwan spat</a> NPR: Lithuania says it's closed its embassy in Beijing and pulled its last diplomat out amid a spat over the European Union nation allowing Taiwan to open a representative office in the capital, Vilnius. 
  <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/build-back-better-progressives-power-524783">'Know when to hold and know when to fold': Progressives accept limits of their power</a> Politico: House liberals dug in hard this year on social spending. Whatever Sen. Joe Manchin (D-W.Va.) does, they're ready to declare a win. 
  <p class="updated_time"> 04:16 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/michelle-kwan-caroline-kennedy-ambassador/index.html">Biden picks Michelle Kwan to be ambassador to Belize and Caroline Kennedy to be ambassador to Australia</a> CNN: President Joe Biden on Wednesday announced his intention to nominate Michelle Kwan, a former Olympic figure skater and longtime Democratic activist, to serve as ambassador to Belize. 
+ <p class="updated_time"> 04:09 AM CT, Dec. 16 </p> 
+ <a href="https://www.npr.org/2021/12/16/1064751751/examining-the-impact-from-this-weeks-capitol-attack-revelations">Examining the impact from this week's revelations from the Capitol attack</a> NPR: NPR's Steve Inskeep talks to Jonah Goldberg of the conservative news site The Dispatch, about revelations from the House panels' investigation into the Jan. 6 attack on the U.S. Capitol. 
  <p class="updated_time"> 04:01 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064697725/the-white-house-aims-to-boost-the-ranks-of-the-pandemic-strained-trucking-indust">The White House aims to boost the ranks of the pandemic-strained trucking industry</a> NPR: The plan is part of the Biden administration's efforts to improve the nation's ongoing supply chain issues. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/trump-tax-returns-legal-524235">Judge scraps Trump lawsuit to shield tax returns from Congress</a> Politico: But the judge stayed the impact of his ruling for 14 days. 
  <p class="updated_time"> 05:40 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/califf-fda-gop-524226">Biden’s FDA pick on track for confirmation with GOP help</a> Politico: A confirmation vote in January would give the agency a permanent political leader for the first time during the Biden presidency. 
- <p class="updated_time"> 05:33 PM CT, Dec. 14 </p> 
- <a href="https://www.npr.org/2021/12/14/1064266940/ethics-panel-andrew-cuomos-book-deal-money-more-than-5-million">New York ethics panel wants former Gov. Cuomo to turn in the cash from his book deal</a> NPR: The Joint Commission on Public Ethics says the disgraced former governor violated the terms of its conditional approval to write the book and it wants him give to the state the money. 
  <p class="updated_time"> 05:17 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/trump-hotel-dc-sale-gsa-review/index.html">Trump Organization formally notifies GSA of proposed sale of DC hotel</a> CNN: The Trump Organization has formally notified the General Service Administration about its proposed sale of the lease for its hotel in Washington, DC, moving a step closer to offloading the property. 
  <p class="updated_time"> 05:09 PM CT, Dec. 14 </p> 
