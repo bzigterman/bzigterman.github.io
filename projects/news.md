@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:57 AM CT, Dec. 16 </p> 
+ <p class="updated_time"> 03:16 AM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
+ <p class="updated_time"> 03:05 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">4 Children Die in Fall From Bouncy Castle in Tasmania, Australia</a> NYT: The students fell more than 30 feet on the last day of school in Tasmania, Australia. Several others were critically injured. 
  <p class="updated_time"> 02:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
  <p class="updated_time"> 01:02 AM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Tasmania bouncy castle fall: Four children killed and five others injured</a> BBC: Five others are badly injured after wind blew the castle into the air, causing them to fall 10m. 
+ <a href="https://www.bbc.co.uk/news/world-australia-59677855?at_medium=RSS&at_campaign=KARANGA">Australia bouncy castle fall: Four children killed and five others injured</a> BBC: Five others are badly injured after wind blew the castle into the air, causing them to fall 10m. 
  <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064740067/lithuania-closes-embassy-in-china-after-last-diplomats-leave-amid-taiwan-spat">Lithuania closes embassy in China after last diplomats leave amid Taiwan spat</a> NPR: Lithuania says it's closed its embassy in Beijing and pulled its last diplomat out amid a spat over the European Union nation allowing Taiwan to open a representative office in the capital, Vilnius. 
  <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/netherlands-dutch-coalition.html">After Months, a ‘New’ Dutch Coalition With the Same Leader and Parties</a> NYT: Mark Rutte, who has weathered a scandal and criticism for overstaying his welcome, will be prime minister for a fourth term. 
  <p class="updated_time"> 01:12 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59674306?at_medium=RSS&at_campaign=KARANGA">Logic's 1-800-273-8255 led to call surge to suicide line, study suggests</a> BBC: Researchers found that the rapper's 1-800-273-8255 increased calls to the helpline it was named after. 
- <p class="updated_time"> 12:53 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
  <p class="updated_time"> 12:06 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/africa/jacob-zuma-prison-south-africa.html">Jacob Zuma Must Return to Prison, South Africa Judge Rules</a> NYT: The former president had been granted medical parole two months into a 15-month prison sentence on contempt charges linked to a corruption inquiry. 
  <p class="updated_time"> 11:47 AM CT, Dec. 15 </p> 
