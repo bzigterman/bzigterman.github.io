@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:20 PM CT, Dec. 16 </p> 
+ <a href="https://www.npr.org/2021/12/16/1064951597/haitian-migrants-say-mexican-authorities-are-keeping-them-from-traveling-to-the-">Haitian migrants say Mexican authorities are keeping them from traveling to the U.S.</a> NPR: Haitian migrants who crossed into Mexico from Guatemala are being prevented by Mexican authorities from traveling north to the U.S. The migrants say they are treated much worse than Latino migrants. 
  <p class="updated_time"> 02:16 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/covid-pandemic-story.html">In 50 Words, Tell Us Your Best Pandemic Story</a> NYT: We want to hear about your Covid memories. 
  <p class="updated_time"> 01:58 PM CT, Dec. 16 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/frenchwoman-dead-syria-detention-camp.html">France Refused to Repatriate a Sick Woman Who Joined the Islamic State. She Died.</a> NYT: A Frenchwoman died of health complications in a detention camp in Syria on Tuesday, her lawyer said. She had repeatedly asked to be repatriated to treat severe diabetes. 
  <p class="updated_time"> 10:30 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/hong-kong-fire.html">Hundreds Trapped by Fire at World Trade Center in Hong Kong</a> NYT: The blaze at the World Trade Center in Causeway Bay injured at least 13 people, including one who was semiconscious, the police said. 
- <p class="updated_time"> 09:57 AM CT, Dec. 15 </p> 
- <a href="https://www.npr.org/2021/12/15/1064212737/new-zealands-cigarette-ban-model">New Zealand's unique cigarette ban may be a model for other countries</a> NPR: The proposed law would effectively impose a lifetime cigarette ban for people aged 14 and younger. Researchers applauded it but said similar bans elsewhere could be more challenging. 
  <p class="updated_time"> 09:18 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/gop-governors-vaccine-pentagon.html">5 Republican Governors Seek Vaccine Exemptions for National Guard Troops</a> NYT: The move comes as the Pentagon released a new order this week saying that National Guard members who do not get vaccinated would receive a general order of reprimand, essentially ending their careers. 
  <p class="updated_time"> 09:14 AM CT, Dec. 15 </p> 
@@ -204,8 +204,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:02 PM CT, Dec. 16 </p> 
+ <p class="updated_time"> 03:17 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden awards Medal of Honor to 3 soldiers, including the first African American since the Vietnam War</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
+ <p class="updated_time"> 03:07 PM CT, Dec. 16 </p> 
+ <a href="https://www.npr.org/2021/12/16/1064927774/democrats-forced-to-regroup-as-bidens-signature-spending-bill-stalls">Democrats forced to regroup as Biden's signature spending bill stalls</a> NPR: For weeks, Senate Majority Leader Chuck Schumer had promised a vote on Biden's social and climate agenda before Christmas. But all 50 Senators in caucus have not been able to unify behind the plan. 
  <p class="updated_time"> 02:55 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/military-vaccine-mandate.html">Vaccine Holdouts in Army and Navy Will Be Dismissed, Military Says</a> NYT: Governors of five states are seeking exemptions for their National Guard troops. 
  <p class="updated_time"> 02:52 PM CT, Dec. 16 </p> 
@@ -229,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:48 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/alan-lowenthal-retiring/index.html">Democratic Rep. Alan Lowenthal announces he will not seek reelection in 2022</a> CNN: Democratic Rep. Alan Lowenthal of California announced Thursday that he will not seek reelection in 2022, joining a number of high-profile and long-serving lawmakers who plan to leave Capitol Hill after this term. 
  <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">In Senate that ‘sucks,’ Dems wait for Biden's word</a> Politico: Democrats want to hear from the president on how to move forward on their sweeping spending bill, elections reform and expanding the child tax credit. 
+ <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">In Senate that ‘sucks,’ Dems wait for Biden’s word</a> Politico: Democrats want to hear from the president on how to move forward on their sweeping spending bill, elections reform and expanding the child tax credit. 
  <p class="updated_time"> 12:35 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064661358/republicans-aim-to-stop-sniping-at-each-other-focus-on-economic-message-for-2022">Republicans aim to stop sniping at each other, focus on economic message for 2022 </a> NPR: House Minority Leader Kevin McCarthy is working to tamp down internal feuds and shift members to talking about inflation and other issues that he believes will help his party return to the majority. 
  <p class="updated_time"> 12:28 PM CT, Dec. 16 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/biden-manchin-megabill-524776">‘Going very poorly’: Biden can't nail Manchin down on Dems’ bill</a> Politico: President Joe Biden is running out of patience as Sen. Joe Manchin continues to drag his feet on supporting the party's domestic spending legislation. 
  <p class="updated_time"> 03:28 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064614591/bipartisan-congress-group-calls-to-ship-more-weapons-to-the-ukraine-to-deter-rus">Bipartisan Congress group calls to ship more weapons to the Ukraine to deter Russia</a> NPR: A bipartisan group from the United States Congress, just returned from Ukraine, are calling for the Biden administration to step up weapons shipments to Kyiv to deter a Russian invasion. 
- <p class="updated_time"> 03:28 PM CT, Dec. 15 </p> 
- <a href="https://www.npr.org/2021/12/15/1064614584/tensions-with-china-has-u-s-working-to-strengthen-ties-with-southeast-asia">Tensions with China has U.S. working to strengthen ties with Southeast Asia</a> NPR: In Indonesia, Secretary of State Antony Blinken outlined how the U.S. plans to deepen its economic engagement in Southeast Asia. The U.S. has focused more on security in the region up to this point. 
  <p class="updated_time"> 12:59 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/guantanamo-bay-cia-prisoners.html">U.S. Waited Months to Book C.I.A. Prisoners at Guantánamo Bay</a> NYT: Defense lawyers said the delay cast into doubt whether samples taken from the captives could be considered valid evidence. 
  <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
