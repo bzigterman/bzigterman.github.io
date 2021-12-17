@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:45 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing Blow to Boris Johnson</a> NYT: The governing party lost a district it had represented for more than a century. 
+ <p class="updated_time"> 10:41 PM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59692506?at_medium=RSS&at_campaign=KARANGA">In pictures: Crowds celebrate death of Pinochet's widow in Chile</a> BBC: Lucia Hiriart, the widow of the former dictator and a divisive figure in the country, has died at 99. 
+ <p class="updated_time"> 10:40 PM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59692552?at_medium=RSS&at_campaign=KARANGA">Bouncy castle fall: Australia mourns 'terrible tragedy' after children killed</a> BBC: Five children died and four others were injured when a wind gust blew away the castle at a school fair. 
+ <p class="updated_time"> 10:25 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/asia/japan-fire-osaka.html">Japan Fire May Have Killed Dozens, With Arson Suspected</a> NYT: The fire consumed the fourth floor of the building in Osaka, which housed a medical office. 
  <p class="updated_time"> 10:11 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated. One person died in Iloilo after being struck by a falling tree. 
  <p class="updated_time"> 10:04 PM CT, Dec. 16 </p> 
@@ -21,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59692846?at_medium=RSS&at_campaign=KARANGA">Rust: Police obtain search warrant for Alec Baldwin's phone</a> BBC: Police investigating the fatal shooting on the Rust film set obtain a warrant for the actor's phone. 
  <p class="updated_time"> 08:10 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59692830?at_medium=RSS&at_campaign=KARANGA">US FDA permanently allows mail-order abortion pills</a> BBC: But the federal move will be overridden by 19 states that already have bans in place. 
- <p class="updated_time"> 08:06 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59692552?at_medium=RSS&at_campaign=KARANGA">Bouncy castle fall: Australia mourns 'terrible tragedy' after children killed</a> BBC: Five children died and four others were injured when a wind gust blew away the castle at a school fair. 
  <p class="updated_time"> 08:02 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Recommends Pfizer or Moderna Vaccines Over J.&J</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
  <p class="updated_time"> 08:01 PM CT, Dec. 16 </p> 
@@ -189,10 +195,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59665125?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Dozens stranded on roof after World Trade Centre fire</a> BBC: Footage obtained by the BBC shows people crowded amongst the roof's scaffolding awaiting rescue. 
  <p class="updated_time"> 03:30 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/climate/arctic-report-card-climate-change.html">Trends in Arctic Report Card: ‘Consistent, Alarming and Undeniable’</a> NYT: The changes happening at the top of the planet could unfold elsewhere in the years to come, scientists report. 
- <p class="updated_time"> 02:41 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/europe/uk-south-africa-travel-ban.html">Britain lifts ban on travelers arriving from southern Africa</a> NYT: With the Omicron variant already spreading, officials conclude they’ve lost the battle to prevent its entering Britain. 
- <p class="updated_time"> 02:34 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/europe/european-union-schengen-migrants-borders.html">E.U. Proposes Changes That Would Chip Away at Borderless Model</a> NYT: The plan would institutionalize internal border controls to respond to emergencies, suspending some protections for asylum seekers. 
 
 
 </details>
