@@ -14,7 +14,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:53 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing Blow to Boris Johnson</a> NYT: The governing party lost to the Liberal Democrats a district it had represented for more than a century. 
  <p class="updated_time"> 02:17 AM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065081902/uk-conservatives-suffer-shock-by-election-loss-in-another-setback-for-boris-john">UK Conservatives suffer shock by-election loss in another setback for Boris Johnson</a> NPR: U.K. Prime Minister Boris Johnson's Conservative Party has suffered a stunning defeat in a parliamentary by-election  amid weeks of scandal and soaring COVID-19 infections. 
+ <a href="https://www.npr.org/2021/12/17/1065081902/uk-conservatives-suffer-shock-by-election-loss-in-another-setback-for-boris-john">U.K. Conservatives suffer shock by-election loss in another setback for Boris Johnson</a> NPR: U.K. Prime Minister Boris Johnson's Conservative Party has suffered a stunning defeat in a parliamentary by-election amid weeks of scandal and soaring COVID-19 infections. 
  <p class="updated_time"> 02:07 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59663831?at_medium=RSS&at_campaign=KARANGA">Japan: At least 27 feared dead in Osaka building fire</a> BBC: Police are looking into the possibility that the blaze was deliberately started, local media report. 
  <p class="updated_time"> 01:22 AM CT, Dec. 17 </p> 
@@ -32,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:41 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59692506?at_medium=RSS&at_campaign=KARANGA">In pictures: Crowds celebrate death of Pinochet's widow in Chile</a> BBC: Lucia Hiriart, the widow of the former dictator and a divisive figure in the country, has died at 99. 
  <p class="updated_time"> 10:30 PM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/japan-fire-leaves-27-feared-dead-in-osaka-11639712535">Japan Fire at Osaka Mental-Health Clinic Leaves 27 Feared Dead</a> WSJ: Twenty-seven people are feared dead after a fire raced through a mental-health clinic on the fourth floor of an office building in Osaka, Japan, in a case of suspected arson. 
+ <a href="https://www.wsj.com/articles/japan-fire-leaves-27-feared-dead-in-osaka-11639712535">Japan Fire at Osaka Mental-Health Clinic Leaves 27 Feared Dead</a> WSJ: The fire raced through a mental-health clinic on the fourth floor of an office building in Osaka, Japan, in a case of suspected arson. 
  <p class="updated_time"> 10:04 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">Bouncy Castle in Tasmania Is Swept by Wind, Killing 5 Children</a> NYT: A gust of wind swept up the inflatable on the last day of school, and the students fell more than 30 feet. Several others were critically injured. 
  <p class="updated_time"> 08:59 PM CT, Dec. 16 </p> 
@@ -195,7 +195,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:36 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/ashley-biden-project-veritas-diary.html">How Ashley Biden’s Diary Made Its Way to Project Veritas</a> NYT: New details shed light on the federal investigation into the conservative group’s acquisition last year of a journal kept by the president’s daughter. 
  <p class="updated_time"> 02:17 AM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065081902/uk-conservatives-suffer-shock-by-election-loss-in-another-setback-for-boris-john">UK Conservatives suffer shock by-election loss in another setback for Boris Johnson</a> NPR: U.K. Prime Minister Boris Johnson's Conservative Party has suffered a stunning defeat in a parliamentary by-election  amid weeks of scandal and soaring COVID-19 infections. 
+ <a href="https://www.npr.org/2021/12/17/1065081902/uk-conservatives-suffer-shock-by-election-loss-in-another-setback-for-boris-john">U.K. Conservatives suffer shock by-election loss in another setback for Boris Johnson</a> NPR: U.K. Prime Minister Boris Johnson's Conservative Party has suffered a stunning defeat in a parliamentary by-election amid weeks of scandal and soaring COVID-19 infections. 
  <p class="updated_time"> 10:56 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/senate-democrats-biden-agenda-2022/index.html">'A 50-50 Senate sucks': Dejected Democrats fret over agenda failure amid grim 2022 outlook </a> CNN: Anger is growing in Democratic ranks over the failure to get President Joe Biden's sweeping agenda through this year despite unified control of Congress, with their party already bracing for what could be a brutal Election Day in next November's midterms. 
  <p class="updated_time"> 10:56 PM CT, Dec. 16 </p> 
