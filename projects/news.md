@@ -212,10 +212,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:45 PM CT, Dec. 17 </p> 
+ <a href="https://www.politico.com/news/2021/12/17/southwest-airlines-ceo-positive-covid-test-525280">Southwest CEO tests positive for Covid-19</a> Politico: Southwest CEO Gary Kelly has tested positive for Covid-19 days after he testified before the Senate Commerce Committee. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
  <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
+ <p class="updated_time"> 02:52 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/trump-anti-semitic-comments/index.html">Trump uses anti-Semitic tropes to again criticize Jewish Americans</a> CNN: Former President Donald Trump, in a newly released interview, claimed that Jewish Americans "either don't like Israel or don't care about Israel," while also suggesting that evangelical Christians "love Israel more than the Jews in this country." 
+ <p class="updated_time"> 02:46 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/build-back-better-democrats-senate/index.html">Democrats hope to make progress on Build Back Better in new year as action stalls for now</a> CNN: With a number of sticking points still unresolved, Democrats are hoping for a breakthrough that will allow them to pass President Joe Biden's sweeping social safety net expansion in the new year. 
  <p class="updated_time"> 02:39 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/lithium-mining-energy-climate/index.html">A rush to mine lithium in Nevada is pitting climate advocates and environmental groups against each other</a> CNN: In an ancient and now extinct supervolcano sitting in northern Nevada lies a treasure that its seekers call "white gold." 
  <p class="updated_time"> 02:38 PM CT, Dec. 17 </p> 
@@ -224,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/17/politics/robert-scott-palmer-capitol/index.html">US Capitol rioter gets 5 years in jail after throwing fire extinguisher at police</a> CNN: A Florida man who enthusiastically attacked police at the US Capitol on January 6 with a fire extinguisher, a wooden plank and a pole was sentenced to more than five years in prison on Friday, the longest sentence for a Capitol rioter thus far. 
  <p class="updated_time"> 01:55 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/roger-stone-january-6-committee/index.html">Trump ally Roger Stone pleads the Fifth in deposition with January 6 committee</a> CNN: Roger Stone, a staunch ally of former President Donald Trump, met briefly Friday with the House select committee investigating the January 6 riot and asserted his Fifth Amendment rights to every question asked, he said. 
- <p class="updated_time"> 12:54 PM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/herschel-walker-campaign-deletes-false-claim-college-graduate/index.html">Herschel Walker campaign deletes a false claim saying the Republican candidate for Senate graduated from college</a> CNN: Herschel Walker's campaign for Senate removed a false claim -- which inaccurately said the Republican candidate graduated from the University of Georgia -- from a website for his Senate bid, the Atlanta Journal Constitution reported. 
  <p class="updated_time"> 12:45 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065136822/biden-clyburn-south-carolina-state-graduation">Biden joins an HBCU in celebrating its graduates — including an old congressional ally</a> NPR: In the commencement speech at South Carolina State University, President Biden credited Rep. Jim Clyburn's public endorsement in 2020 as a pivotal moment in reviving his sluggish campaign. 
  <p class="updated_time"> 12:34 PM CT, Dec. 17 </p> 
@@ -300,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/16/1065044185/justice-department-breaks-off-talks-on-compensation-for-separated-families">Justice Department breaks off talks on compensation for separated families </a> NPR: The U.S. has left negotiations about paying monetary damages to families who were forcibly separated while seeking to enter at the southern border during the Trump administration. 
  <p class="updated_time"> 08:13 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/rnc-trump-investigations.html">R.N.C. Is Said to Agree to Pay Up to $1.6 Million of Trump’s Personal Legal Bills</a> NYT: Under the unusual arrangement, the Republican Party is paying to defend the former president as he faces investigations into his private business practices. 
- <p class="updated_time"> 08:02 PM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/biden-scotus-health-vax-mandate-525216">Biden admin asks Supreme Court to allow nationwide health worker vax mandate</a> Politico: Thursday's move is expected to prompt justices to issue a final decision on whether the mandate can take effect. 
  <p class="updated_time"> 07:43 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-build-back-better-miss-deadline-senate/index.html">Biden officially acknowledges Build Back Better will miss deadline but says he's 'determined' to see bill on Senate floor 'as early as possible'</a> CNN: President Joe Biden, in a lengthy statement, implicitly acknowledged ongoing negotiations with Sen. Joe Manchin and procedural steps will cause Democrats to miss the Christmas deadline for Senate passage of his $1.75 trillion economic and climate package, noting that Democrats will continue to work together "over the days and weeks ahead" to get the proposal to the Senate floor. 
  <p class="updated_time"> 07:23 PM CT, Dec. 16 </p> 
@@ -342,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
  <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064951646/why-the-cost-of-carbon-is-increasing-and-how-that-affects-climate-policy">Why the cost of carbon is increasing — and how that affects climate policy</a> NPR: NPR's Mary Louise Kelly speaks with Michael Greenstone, professor and director of the Energy Policy Institute at the University of Chicago the impact of the rising cost of carbon on climate policy. 
- <p class="updated_time"> 03:23 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/ken-cuccinelli-january-6/index.html">Former Homeland Security official Cuccinelli talks to January 6 committee</a> CNN: The House select committee investigating the January 6 riot interviewed former Department of Homeland Security official Ken Cuccinelli last week, he told CNN on Thursday. 
  <p class="updated_time"> 03:20 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064951583/rep-kinzinger-discusses-the-events-of-jan-6-as-congressional-inquiries-heat-up">Rep. Kinzinger discusses the events of Jan. 6 as congressional inquiries heat up</a> NPR: NPR's Audie Cornish speaks with Rep. Adam Kinzinger, R-Ill., about his role on the House committee investigating the Jan. 6 insurrection. 
  <p class="updated_time"> 03:07 PM CT, Dec. 16 </p> 
@@ -380,12 +380,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/jan-6-gohmert-lawsuit-pence-524839">The Jan. 6 puzzle piece that's going largely ignored</a> Politico: Rep. Louie Gohmert  sued then-Vice President Mike Pence on Dec. 27. Donald Trump’s involvement in the case remains unclear. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/build-back-better-progressives-power-524783">‘Know when to hold and know when to fold’: Progressives accept limits of their power</a> Politico: House liberals dug in hard this year on social spending. Whatever Sen. Joe Manchin (D-W.Va.) does, they're ready to declare a win. 
- <p class="updated_time"> 04:16 AM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/michelle-kwan-caroline-kennedy-ambassador/index.html">Biden picks Michelle Kwan to be ambassador to Belize and Caroline Kennedy to be ambassador to Australia</a> CNN: President Joe Biden on Wednesday announced his intention to nominate Michelle Kwan, a former Olympic figure skater and longtime Democratic activist, to serve as ambassador to Belize. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/trump-subpoenas.html">Facing Subpoenas, Trump Allies Try to Run Out the Clock on Democrats</a> NYT: Democrats hope a Biden Justice Department can speed up legal action, but Donald J. Trump and his allies are proving adept at using judicial delay to withhold information from Congress. 
  <p class="updated_time"> 08:55 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/trump-meadows-republicans-congress-jan-6.html">Meadows and the Band of Loyalists: How They Fought to Keep Trump in Power</a> NYT: A small circle of Republican lawmakers, working closely with President Donald J. Trump’s chief of staff, took on an outsize role in pressuring the Justice Department, amplifying conspiracy theories and flooding the courts in an attempt to overturn the 2020 election. 
+ <p class="updated_time"> 07:50 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/yuma-arizona-migrants/index.html">A dramatic increase in number of migrants seeking asylum in Arizona overwhelms Border Patrol</a> CNN: Under the shadow of the border wall, dozens of migrants raced to get in line as they spotted the glimmer of vehicle lights down the road. US Border Patrol agents were on the way. 
  <p class="updated_time"> 06:44 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/democrats-social-policy-bill-2022.html">Manchin Balks on Social Policy Bill; Democrats May Punt to 2022</a> NYT: A self-imposed Christmas deadline for action on the $2.2 trillion social safety net, climate and tax package appeared likely to slip as negotiations with the West Virginia Democrat faltered. 
  <p class="updated_time"> 06:28 PM CT, Dec. 15 </p> 
