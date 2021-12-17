@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:48 AM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/south-africa-omicron-hospitalizations.html">South Africa Hospitalizations Lower in Omicron Wave, but Caveats Apply</a> NYT: Researchers warned that the epicenter of the country’s outbreak is more highly vaccinated than others, and that natural immunity is also high. 
  <p class="updated_time"> 11:38 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59703523?at_medium=RSS&at_campaign=KARANGA">Anti-5G necklaces found to be radioactive</a> BBC: Conspiracy theories about 5G have fuelled a market for "anti-5G" accessories. 
- <p class="updated_time"> 11:27 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/south-africa-omicron-hospitalizations.html">South Africa Hospitalizations Lower in Omicron Wave, but Caveats Apply</a> NYT: Researchers warned that the epicenter of the country’s outbreak is more highly vaccinated than others, and that natural immunity is also high. 
  <p class="updated_time"> 10:32 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Moscow masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected. 
  <p class="updated_time"> 10:27 AM CT, Dec. 17 </p> 
@@ -32,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:07 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59689793?at_medium=RSS&at_campaign=KARANGA">Israeli PM vows to catch W Bank ambush killers</a> BBC: Troops search for suspected Palestinian gunmen after an Israeli is shot dead and two others wounded. 
  <p class="updated_time"> 06:41 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/omicron-seen-doubling-every-1-days-in-parts-of-u-k-11639747057">Omicron Variant's Rapid Spread Triggers New Precautions</a> WSJ: The Omicron variant continued its rapid spread in the U.K., while South Africa reported significantly lower Covid-19 hospital admission rates than earlier in the pandemic despite a surge of infections. 
+ <a href="https://www.wsj.com/articles/omicron-seen-doubling-every-1-days-in-parts-of-u-k-11639747057">Omicron Variant's Rapid Spread Triggers New Precautions</a> WSJ: Officials worked to expand access to Covid-19 tests and urged people to take precautions as the Omicron variant spread rapidly in the U.S., Europe and beyond. 
  <p class="updated_time"> 06:36 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59697805?at_medium=RSS&at_campaign=KARANGA">Andry Rajoelina: French nationals sentenced for Madagascar coup plot</a> BBC: The two men are accused of planning to assassinate President Andry Rajoelina. 
  <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
@@ -83,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Recommends Pfizer or Moderna Vaccines Over J.&J</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
  <p class="updated_time"> 08:01 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59680921?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 10 - 16 December 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
- <p class="updated_time"> 07:59 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59692502?at_medium=RSS&at_campaign=KARANGA">Tania Mendoza: Mexican actress shot dead while waiting for son</a> BBC: Tania Mendoza was outside a football academy when a gunman opened fire before escaping. 
  <p class="updated_time"> 07:38 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59693271?at_medium=RSS&at_campaign=KARANGA">Huntsman spider interrupts Australian Covid press briefing</a> BBC: Queensland's health minister remained calm after a journalist said a spider was crawling on her. 
  <p class="updated_time"> 07:36 PM CT, Dec. 16 </p> 
@@ -206,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:34 PM CT, Dec. 17 </p> 
+ <a href="https://www.politico.com/news/2021/12/17/trump-israel-support-anti-semitic-525269">Trump invokes antisemitic tropes while discussing his support for Israel</a> Politico: “They’re Jewish people that run The New York Times,” the former president said, alleging that the paper "hates Israel." 
  <p class="updated_time"> 12:26 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/trump-ally-brandon-straka-information-525272">Trump ally Straka has provided potentially significant information</a> Politico: Prosecutors have asked for a 30-day sentencing delay so that his new evidence "can be properly evaluated." 
  <p class="updated_time"> 11:38 AM CT, Dec. 17 </p> 
@@ -298,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-russia-ukraine.html">Biden’s Stand on Ukraine Is a Wider Test of U.S. Credibility Abroad</a> NYT: President Barack Obama also warned of severe consequences if Russia took action against its neighbor. Vladimir Putin annexed Crimea anyway. 
  <p class="updated_time"> 06:37 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/abortion-pills-fda.html">F.D.A. Will Permanently Allow Abortion Pills by Mail</a> NYT: The decision will broaden access to medication abortion, an increasingly common method, but many conservative states are already mobilizing against it. 
- <p class="updated_time"> 06:01 PM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/trudeau-us-protectionism-525177">Trudeau directs senior ministers to combat U.S. protectionism</a> Politico: In new marching orders to his Cabinet, the prime minister tasked his team with engaging the United States on ‘bilateral trade issues and protectionist measures.’ 
  <p class="updated_time"> 06:00 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/jobs-resignation-inflation-what-matters/index.html">Analysis: Why we had to reconsider jobs, inflation and politics this week</a> CNN: It's been a week of revisions and recalculations. We've had to change our understanding of why people are quitting their jobs and how long this stretch of everything getting more expensive will last. 
  <p class="updated_time"> 05:59 PM CT, Dec. 16 </p> 
