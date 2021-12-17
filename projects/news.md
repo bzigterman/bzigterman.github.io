@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:23 PM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Recommends Pfizer or Moderna Vaccines Over J.&J</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
+ <p class="updated_time"> 03:23 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59696450?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Moscow lists demands for defusing Ukraine tensions</a> BBC: Moscow says Nato should abandon hopes of Ukraine joining and Nato states should get rid of weapons. 
+ <p class="updated_time"> 03:21 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59703611?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Maxwell won't testify as defence rests case</a> BBC: The defence struggled to produce witnesses on Friday and only nine out of a proposed 35 testified. 
+ <p class="updated_time"> 03:20 PM CT, Dec. 17 </p> 
+ <a href="https://www.npr.org/2021/12/17/1065311963/analyzing-the-biden-administrations-year-in-foreign-policy-toward-china-and-russ">Analyzing the Biden administration's year in foreign policy toward China and Russia</a> NPR: As the year comes to a close, here's where U.S. foreign policy toward Russia and China stands — and what we might expect in 2022. 
  <p class="updated_time"> 03:04 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Moscow masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected. 
- <p class="updated_time"> 02:40 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59703611?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Epstein's ex testifies for the defence</a> BBC: Eva Andersson-Dubin has defended her sex offender ex in the past and denies knowledge of his crimes. 
  <p class="updated_time"> 02:37 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59691902?at_medium=RSS&at_campaign=KARANGA">Kim Potter: 'Taser mix-up' ex-officer weeps in manslaughter testimony</a> BBC: Kim Potter testified at her manslaughter trial about the "chaotic" fatal shooting of Daunte Wright. 
  <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
@@ -35,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/asia/myanmar-journalist-kyaw-torture.html">‘I Didn’t Look Like a Human’: Journalist Tells of Myanmar Torture</a> NYT: When Ko Aung Kyaw erased his cellphone contacts to protect his sources, he knew his interrogators would make him pay a horrific price. He did it anyway. 
  <p class="updated_time"> 10:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/japan-fire-osaka.html">Japan Fire May Have Killed Dozens, With Arson Suspected</a> NYT: The fire consumed the fourth floor of the building in Osaka, which housed a medical office. 
- <p class="updated_time"> 09:29 AM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59696450?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Moscow lists demands for defusing Ukraine tensions</a> BBC: Moscow says Nato should abandon hopes of Ukraine joining and Nato states should get rid of weapons. 
  <p class="updated_time"> 09:18 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html">‘They Were Just Gone’: Two Baby Boys Survive Tornado in Kentucky</a> NYT: Without a basement, Clara Lutz of Barnsley, Ky., sheltered her infant grandsons in the bathtub for safety. A powerful tornado pulled the tub from her grip and sent the babies flying. 
  <p class="updated_time"> 09:14 AM CT, Dec. 17 </p> 
@@ -93,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/health/coronavirus-omicron-variant.html">Scientists Are Racing to Gauge the Threat of Omicron</a> NYT: The variant will spread quickly through the United States, experts say. What happens after that is less certain. 
  <p class="updated_time"> 08:51 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html">Hu Xijin, Chief of China's Global Times, Will Retire</a> NYT: Mr. Hu, editor of the Communist Party tabloid Global Times, set the tone for a new generation of Chinese pundits with his flair for verbal combat. 
- <p class="updated_time"> 08:02 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Recommends Pfizer or Moderna Vaccines Over J.&J</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
  <p class="updated_time"> 08:01 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59680921?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 10 - 16 December 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 07:38 PM CT, Dec. 16 </p> 
@@ -156,8 +158,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/travel/testing-positive-for-covid-overseas.html">What Happens If You Test Positive for Covid While Traveling?</a> NYT: In the midst of the holiday season, the Omicron variant has many considering the prospects of getting stuck while traveling. Here’s what you need to know. 
  <p class="updated_time"> 03:56 AM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064756063/powerful-typhoon-hits-philippines-nearly-100-000-evacuated">Powerful typhoon hits Philippines, nearly 100,000 evacuated</a> NPR: A powerful typhoon slammed into the southeastern Philippines on Thursday, prompting the evacuation of nearly 100,000 people. Officials say 10,000 villages lie in the projected path of the typhoon. 
- <p class="updated_time"> 03:56 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/americas/santo-domingo-plane-crash.html">Santo Domingo Plane Crash Kills All 9 Aboard</a> NYT: A prominent Puerto Rican music producer known as Flow La Movie was reported to be among the dead. 
  <p class="updated_time"> 02:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
@@ -210,6 +210,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:45 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/southwest-airlines-ceo-positive-covid-test-525280">Southwest CEO tests positive for Covid-19</a> Politico: Southwest CEO Gary Kelly has tested positive for Covid-19 days after he testified before the Senate Commerce Committee. 
+ <p class="updated_time"> 03:29 PM CT, Dec. 17 </p> 
+ <a href="https://www.npr.org/2021/12/17/1065304172/robert-palmer-capitol-riot-jan-6-sentence">Capitol rioter who attacked police is sentenced to more than 5 years in prison</a> NPR: The judge said she wanted to make clear with the sentence that "trying to stop the peaceful transition of power and assaulting law enforcement officers is going to be met with certain punishment." 
+ <p class="updated_time"> 03:20 PM CT, Dec. 17 </p> 
+ <a href="https://www.npr.org/2021/12/17/1065311977/biden-and-democrats-admit-they-wont-be-passing-build-back-better-before-christma">Biden and Democrats admit they won't be passing Build Back Better before Christmas</a> NPR: After a flurry of last-ditch meetings and negotiations, President Biden and Senate Democrats are admitting they don't have the votes to pass Biden's social and climate spending package by Christmas. 
+ <p class="updated_time"> 03:20 PM CT, Dec. 17 </p> 
+ <a href="https://www.npr.org/2021/12/17/1065311963/analyzing-the-biden-administrations-year-in-foreign-policy-toward-china-and-russ">Analyzing the Biden administration's year in foreign policy toward China and Russia</a> NPR: As the year comes to a close, here's where U.S. foreign policy toward Russia and China stands — and what we might expect in 2022. 
  <p class="updated_time"> 03:09 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/january-6-committee-alex-jones-deposition-postponed/index.html">House January 6 committee postpones deposition for conspiracy theorist Alex Jones</a> CNN: The House select committee investigating the January 6 riot has postponed its scheduled deposition of noted conspiracy theorist and right-wing internet personality Alex Jones, according to an aide for the panel. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
@@ -344,24 +350,18 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/16/1064927774/democrats-forced-to-regroup-as-bidens-signature-spending-bill-stalls">Democrats are forced to regroup as Biden's signature spending bill stalls</a> NPR: For weeks, Senate Majority Leader Chuck Schumer had promised a vote on Biden's social and climate agenda before Christmas. But all 50 senators in caucus have not been able to unify behind the plan. 
  <p class="updated_time"> 02:52 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/congress-uyghur-forced-labor.html">Congress Passes Ban on Goods From China's Xinjiang Region</a> NYT: President Biden is expected to sign the bill, which drew a fierce corporate lobbying campaign against it. 
- <p class="updated_time"> 02:27 PM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064817505/medal-of-honor-iraq-afghanistan-cashe-celiz-plumlee-biden">Biden awards Medals of Honor to 3 soldiers who served in Iraq and Afghanistan</a> NPR: The medals were given for acts of "gallantry and intrepidity above and beyond the call of duty." Two were awarded posthumously, including one to the first Black recipient since the Vietnam War. 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/chamber-ad-manchin-build-back-better-525129">Chamber launches ads targeting Manchin, hoping to kill Build Back Better</a> Politico: The group got a huge win with the infrastructure bill. Now, they want the legislative spigot to go dry. 
  <p class="updated_time"> 01:11 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/crackdown-on-chinas-treatment-of-muslim-minority-headed-to-bidens-desk-525094">Crackdown on China's treatment of Muslim minority headed to Biden's desk</a> Politico: The legislation, which faced a bumpy road to passage, effectively bans all imports from China’s Xinjiang region. 
  <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">Senate that ‘sucks’ gets a dose of reality from Biden</a> Politico: Democrats wanted to hear from the president on how to move forward. He acknowledged on Thursday that his domestic spending vision has to wait. 
- <p class="updated_time"> 12:35 PM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064661358/republicans-aim-to-stop-sniping-at-each-other-focus-on-economic-message-for-2022">Republicans aim to stop sniping at each other, focus on economic message for 2022 </a> NPR: House Minority Leader Kevin McCarthy is working to tamp down internal feuds and shift members to talking about inflation and other issues that he believes will help his party return to the majority. 
  <p class="updated_time"> 12:20 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/congressional-gold-medal-us-troops-kabul-attack/index.html">Biden signs bill to award Congressional Gold Medal to US service members killed in Kabul airport bombing</a> CNN: President Joe Biden on Thursday signed a bill that posthumously awards a Congressional Gold Medal to the 13 US service members killed in a terrorist attack outside Kabul's airport in August. 
  <p class="updated_time"> 12:16 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-signs-debt-limit-increase/index.html">Biden signs debt limit increase</a> CNN: President Joe Biden on Thursday signed the bill raising the debt limit ceiling that passed Congress earlier this week, according to a press release from the White House. 
  <p class="updated_time"> 11:47 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/trump-spac-lawsuit.html">Former Insider at the Company Merging With Trump Media Sues Over 'Brazen' Fraud</a> NYT: A prospective investor in Digital World Acquisition Corp., a special purpose acquisition company that is merging with President Donald J. Trump’s social media start-up, says he was removed from a slate of board nominees without warning and deprived of shares he was owed. 
- <p class="updated_time"> 09:59 AM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064793380/passport-renewal-online-president-biden-executive-order">You may soon be able to renew your passport online, instead of sending in documents</a> NPR: A new executive order from President Biden is designed to streamline the process for things like contacting the IRS, enrolling in Social Security online and, yes, renewing your passport. 
  <p class="updated_time"> 09:32 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/white-house-lead-pipe-removal-effort/index.html">Harris announces administration's new lead pipe and paint removal effort</a> CNN: Vice President Kamala Harris plans to announce a new administration push to eliminate lead from water pipes and homes during remarks Thursday in Washington, according to senior administration officials. 
  <p class="updated_time"> 09:31 AM CT, Dec. 16 </p> 
