@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:17 AM CT, Dec. 17 </p> 
+ <a href="https://www.npr.org/2021/12/17/1065081902/uk-conservatives-suffer-shock-by-election-loss-in-another-setback-for-boris-john">UK Conservatives suffer shock by-election loss in another setback for Boris Johnson</a> NPR: U.K. Prime Minister Boris Johnson's Conservative Party has suffered a stunning defeat in a parliamentary by-election  amid weeks of scandal and soaring COVID-19 infections. 
+ <p class="updated_time"> 02:07 AM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59663831?at_medium=RSS&at_campaign=KARANGA">Japan: At least 27 feared dead in Osaka building fire</a> BBC: Police are looking into the possibility that the blaze was deliberately started, local media report. 
  <p class="updated_time"> 01:22 AM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065078192/afghan-currency-slides-and-prices-surge-as-already-battered-economy-worsens">Afghan currency slides and prices surge as already battered economy worsens</a> NPR: The value of Afghanistan's currency is tumbling, exacerbating a severe economic crisis and deepening poverty in a country where more than half the population already doesn't have enough to eat. 
  <p class="updated_time"> 01:20 AM CT, Dec. 17 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/australia/the-giant-who-lives-in-the-melbourne-museum.html">The Giant Who Lives in the Melbourne Museum</a> NYT: The world’s most complete triceratops skeleton ever found will go on display next year, displacing a beloved, if quirky, exhibit of taxidermy. 
  <p class="updated_time"> 11:25 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing Blow to Boris Johnson</a> NYT: The governing party lost to the Liberal Democrats a district it had represented for more than a century. 
- <p class="updated_time"> 11:13 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59663831?at_medium=RSS&at_campaign=KARANGA">Japan: At least 27 feared dead in Osaka building fire</a> BBC: Police are looking into the possibility that the blaze was deliberately started, say local media. 
  <p class="updated_time"> 10:41 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59692506?at_medium=RSS&at_campaign=KARANGA">In pictures: Crowds celebrate death of Pinochet's widow in Chile</a> BBC: Lucia Hiriart, the widow of the former dictator and a divisive figure in the country, has died at 99. 
  <p class="updated_time"> 10:04 PM CT, Dec. 16 </p> 
@@ -157,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/americas/canada-travel-warning-omicron.html">Canadian Government Warns Residents to Avoid Nonessential Travel</a> NYT: In response to the spread of Omicron, Canada is also ramping up distribution of booster doses and rapid antigen tests. 
  <p class="updated_time"> 03:41 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/2021/12/15/1064614638/could-a-salary-cap-help-european-soccer-become-less-predictable">Could a salary cap help European soccer become less predictable?</a> NPR: After analyzing 26 years worth of European soccer matches, scientists have determined that the games have become more predictable over time — and the home field advantage has vanished. 
- <p class="updated_time"> 03:28 PM CT, Dec. 15 </p> 
- <a href="https://www.npr.org/2021/12/15/1064614591/bipartisan-congress-group-calls-to-ship-more-weapons-to-the-ukraine-to-deter-rus">Bipartisan Congress group calls to ship more weapons to the Ukraine to deter Russia</a> NPR: A bipartisan group from the United States Congress, just returned from Ukraine, are calling for the Biden administration to step up weapons shipments to Kyiv to deter a Russian invasion. 
  <p class="updated_time"> 02:57 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-covid-record-cases.html">Britain Breaks Daily Record for New Virus Cases</a> NYT: Officials didn’t specify what share of the new cases might be Omicron, though they said a majority in London were from the variant. 
  <p class="updated_time"> 02:32 PM CT, Dec. 15 </p> 
