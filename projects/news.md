@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:24 AM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Russia masses troops on the border with Ukraine, was directed at the United States and Ukraine’s other Western allies. 
+ <p class="updated_time"> 08:17 AM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59663831?at_medium=RSS&at_campaign=KARANGA">Japan: At least 27 feared dead in Osaka building fire</a> BBC: Police are looking into the possibility that the blaze was deliberately started, local media report. 
  <p class="updated_time"> 08:11 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing a Blow to Boris Johnson</a> NYT: The governing party lost to the Liberal Democrats a district that it had represented for more than a century. 
- <p class="updated_time"> 08:04 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Russia masses troops on the border with Ukraine, was directed at the United States and Ukraine’s other Western allies. 
  <p class="updated_time"> 07:47 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59696503?at_medium=RSS&at_campaign=KARANGA">Two teens slide to safety from fourth floor New York apartment fire</a> BBC: Watch this dramatic video of them escaping through a window and sliding down a pole to the ground. 
  <p class="updated_time"> 07:07 AM CT, Dec. 17 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/17/1065085132/more-than-20-feared-dead-in-building-fire-in-osaka-japan">More than 20 feared dead in building fire in Osaka, Japan</a> NPR: The fire started on the fourth floor of an eight-story building in the major business and entertainment area of Kitashinchi, fire officials say. Police are investigation arson as a possible cause. 
  <p class="updated_time"> 02:17 AM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065081902/uk-conservatives-suffer-shock-by-election-loss-in-another-setback-for-boris-john">U.K. Conservatives suffer shock by-election loss in another setback for Boris Johnson</a> NPR: U.K. Prime Minister Boris Johnson's Conservative Party has suffered a stunning defeat in a parliamentary by-election amid weeks of scandal and soaring COVID-19 infections. 
- <p class="updated_time"> 02:07 AM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59663831?at_medium=RSS&at_campaign=KARANGA">Japan: At least 27 feared dead in Osaka building fire</a> BBC: Police are looking into the possibility that the blaze was deliberately started, local media report. 
  <p class="updated_time"> 01:22 AM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065078192/afghan-currency-slides-and-prices-surge-as-already-battered-economy-worsens">Afghan currency slides and prices surge as already battered economy worsens</a> NPR: The value of Afghanistan's currency is tumbling, exacerbating a severe economic crisis and deepening poverty in a country where more than half the population already doesn't have enough to eat. 
  <p class="updated_time"> 01:16 AM CT, Dec. 17 </p> 
@@ -204,10 +204,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:20 AM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/russia-troops-ukraine-border-biden/index.html">Russia continues to amass new troops near Ukraine's border despite Biden urging Putin to de-escalate tensions </a> CNN: Russia has continued to amass new troops near Ukraine's border in recent days, despite President Joe Biden urging Russian President Vladimir Putin to de-escalate tensions during a virtual meeting last week. 
  <p class="updated_time"> 08:10 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/pfizer-vaccine-approval-kids-525254">Pfizer and BioNTech ask FDA to approve their Covid-19 vaccine for kids as young as 12</a> Politico: The companies submitted Phase III clinical trial data to FDA as a supplemental application for their vaccine, which is already approved for adults and children as young as 16. 
  <p class="updated_time"> 07:53 AM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/house-committee-trump-covid-19/index.html">House oversight committee releases report detailing efforts of Trump administration officials to "undermine" Covid-19 efforts in US</a> CNN: Trump administration officials made "deliberate efforts to undermine the nation's coronavirus response for political purposes," a House oversight committee led by Democrats said in a report released Friday. 
+ <a href="https://www.cnn.com/2021/12/17/politics/house-committee-trump-covid-19/index.html">House oversight committee releases report detailing efforts of Trump administration officials to 'undermine' Covid-19 efforts in US</a> CNN: Trump administration officials made "deliberate efforts to undermine the nation's coronavirus response for political purposes," a House oversight committee led by Democrats said in a report released Friday. 
  <p class="updated_time"> 07:42 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/17/immigration-axed-and-bidens-big-bill-pushed-to-2022-495512">Immigration axed and Biden’s big bill pushed to 2022</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:38 AM CT, Dec. 17 </p> 
@@ -278,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-russia-ukraine.html">Biden’s Stand on Ukraine Is a Wider Test of U.S. Credibility Abroad</a> NYT: President Barack Obama also warned of severe consequences if Russia took action against its neighbor. Vladimir Putin annexed Crimea anyway. 
  <p class="updated_time"> 06:37 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/abortion-pills-fda.html">F.D.A. Will Permanently Allow Abortion Pills by Mail</a> NYT: The decision will broaden access to medication abortion, an increasingly common method, but many conservative states are already mobilizing against it. 
- <p class="updated_time"> 06:31 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/house-lawmakers-afghanistan-letter/index.html">House lawmakers call on Biden administration to take steps to avert economic disaster in Afghanistan</a> CNN: A group of mostly Democratic House members is urging the Biden administration to take steps to avert a looming economic catastrophe in Afghanistan. 
  <p class="updated_time"> 06:01 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/trudeau-us-protectionism-525177">Trudeau directs senior ministers to combat U.S. protectionism</a> Politico: In new marching orders to his Cabinet, the prime minister tasked his team with engaging the United States on ‘bilateral trade issues and protectionist measures.’ 
  <p class="updated_time"> 06:00 PM CT, Dec. 16 </p> 
@@ -335,7 +335,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:11 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/crackdown-on-chinas-treatment-of-muslim-minority-headed-to-bidens-desk-525094">Crackdown on China's treatment of Muslim minority headed to Biden's desk</a> Politico: The legislation, which faced a bumpy road to passage, effectively bans all imports from China’s Xinjiang region. 
  <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">Senate that 'sucks' gets a dose of reality from Biden</a> Politico: Democrats wanted to hear from the president on how to move forward. He acknowledged on Thursday that his domestic spending vision has to wait. 
+ <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">Senate that ‘sucks’ gets a dose of reality from Biden</a> Politico: Democrats wanted to hear from the president on how to move forward. He acknowledged on Thursday that his domestic spending vision has to wait. 
  <p class="updated_time"> 12:35 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064661358/republicans-aim-to-stop-sniping-at-each-other-focus-on-economic-message-for-2022">Republicans aim to stop sniping at each other, focus on economic message for 2022 </a> NPR: House Minority Leader Kevin McCarthy is working to tamp down internal feuds and shift members to talking about inflation and other issues that he believes will help his party return to the majority. 
  <p class="updated_time"> 12:20 PM CT, Dec. 16 </p> 
