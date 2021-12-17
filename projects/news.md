@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:39 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: The Office of Civil Defense said that nearly 100,000 people in several regions had been evacuated. There was no immediate word on casualties. 
- <p class="updated_time"> 09:08 PM CT, Dec. 16 </p> 
+ <p class="updated_time"> 10:11 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated. One person died in Iloilo after being struck by a falling tree. 
+ <p class="updated_time"> 10:04 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">Bouncy Castle in Tasmania Is Swept by Wind, Killing 5 Children</a> NYT: A gust of wind swept up the inflatable on the last day of school, and the students fell more than 30 feet. Several others were critically injured. 
+ <p class="updated_time"> 10:04 PM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59663831?at_medium=RSS&at_campaign=KARANGA">Japan: 27 feared dead in Osaka building fire</a> BBC: Police are looking into the possibility that the blaze was deliberately started, say local media. 
  <p class="updated_time"> 08:59 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/coronavirus-omicron-variant.html">Scientists Are Racing to Gauge the Threat of Omicron</a> NYT: The variant will spread quickly through the United States, experts say. What happens after that is less certain. 
  <p class="updated_time"> 08:51 PM CT, Dec. 16 </p> 
@@ -200,10 +202,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:27 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/senate-confirms-bidens-joint-chiefs-pick-525239">Senate confirms Biden's Joint Chiefs pick</a> Politico: Adm. Christopher Grady most recently led the Navy's Fleet Forces Command, which is tasked with ensuring the fleet is manned, trained and equipped before deploying. 
+ <p class="updated_time"> 10:21 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-immigration-build-back-better.html">Biden Says Build Back Better Bill Will Take More Time</a> NYT: A top Senate official ruled that a measure to grant legal status to millions of undocumented immigrants must come out of the plan, as President Biden said a final deal would take more time. 
+ <p class="updated_time"> 10:17 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/business/economy/omicron-inflation.html">Omicron Is an Economic Threat, but Inflation Is Worse, Central Bankers Say</a> NYT: Within 24 hours, the Federal Reserve, Bank of England and European Central Bank all stepped forward to deal with price increases. 
  <p class="updated_time"> 08:17 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/judge-rejects-purdue-pharmas-sweeping-opioid-settlement-525222">Judge rejects Purdue Pharma’s sweeping opioid settlement</a> Politico: The ruling Thursday from U.S. District Judge Colleen McMahon in New York is likely to be appealed by the company, family members and the thousands of government entities that support the plan. 
- <p class="updated_time"> 08:14 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-immigration-build-back-better.html">Biden Says Build Back Better Bill Will Take More Time</a> NYT: A top Senate official ruled that a measure to grant legal status to millions of undocumented immigrants must come out of the plan, as President Biden said a final deal would take more time. 
  <p class="updated_time"> 08:13 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1065044185/justice-department-breaks-off-talks-on-compensation-for-separated-families">Justice Department breaks off talks on compensation for separated families </a> NPR: The U.S. has left negotiations about paying monetary damages to families who were forcibly separated while seeking to enter at the southern border during the Trump administration. 
  <p class="updated_time"> 08:13 PM CT, Dec. 16 </p> 
@@ -264,8 +268,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/us/politics/military-vaccine-mandate.html">Vaccine Holdouts in Army and Navy Will Be Dismissed, Military Says</a> NYT: Several governors are seeking exemptions for their National Guard troops. 
  <p class="updated_time"> 04:53 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/us-china-biotech-muslim-minorities.html">U.S. Cracks Down on Firms Said to Aid China’s Repression of Minorities</a> NYT: The Commerce and Treasury Departments put new restrictions on an array of companies and institutions that they said were misusing biotechnology. 
- <p class="updated_time"> 04:34 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/business/economy/omicron-inflation.html">Omicron Is an Economic Threat, but Inflation Is Worse, Central Bankers Say</a> NYT: Within 24 hours, the Federal Reserve, Bank of England and European Central Bank all stepped forward to deal with price increases. 
  <p class="updated_time"> 04:34 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/cdc-covid-vaccine-johnson-525153">CDC recommends mRNA Covid vaccines over J&J shot amid blood clot risks</a> Politico: CDC Director Rochelle Walensky's decision came hours after the agency’s vaccine advisory committee voted unanimously to update the recommendation. 
  <p class="updated_time"> 04:08 PM CT, Dec. 16 </p> 
