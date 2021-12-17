@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated, and at least 17 people died. 
+ <p class="updated_time"> 06:06 AM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Russia masses troops on the border with Ukraine, was directed at the United States and Ukraine’s other Western allies. 
  <p class="updated_time"> 04:28 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59696442?at_medium=RSS&at_campaign=KARANGA">Sweden's Gavle Christmas goat torched... again</a> BBC: A giant straw goat that is an annual highlight in the city of Gavle is burned down by an arsonist. 
  <p class="updated_time"> 04:28 AM CT, Dec. 17 </p> 
@@ -31,8 +35,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/17/1065078192/afghan-currency-slides-and-prices-surge-as-already-battered-economy-worsens">Afghan currency slides and prices surge as already battered economy worsens</a> NPR: The value of Afghanistan's currency is tumbling, exacerbating a severe economic crisis and deepening poverty in a country where more than half the population already doesn't have enough to eat. 
  <p class="updated_time"> 01:16 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/japan-fire-osaka.html">Japan Fire May Have Killed Dozens, With Arson Suspected</a> NYT: The fire consumed the fourth floor of the building in Osaka, which housed a medical office. 
- <p class="updated_time"> 12:37 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated, and at least three people died. 
+ <p class="updated_time"> 01:02 AM CT, Dec. 17 </p> 
+ <a href="https://www.wsj.com/articles/as-covid-19-cases-multiply-australia-tries-to-change-public-perception-of-the-virus-11639742544">As Covid-19 Cases Multiply, Australia Tries to Change Public Perception of the Virus</a> WSJ: How Australians respond could inform other countries, including many in Asia that also contained the virus during the pandemic by imposing restrictions such as lockdowns and travel bans but worry about the economic damage from those policies. 
  <p class="updated_time"> 12:11 AM CT, Dec. 17 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-holds-first-election-without-opposition-but-will-people-vote-11639739483">Hong Kong Holds First Election Without Opposition. But Will People Vote?</a> WSJ: Sunday’s election will feature only Beijing-approved candidates, after an overhaul of voting rules and a crackdown on the city’s opposition. 
  <p class="updated_time"> 12:11 AM CT, Dec. 17 </p> 
@@ -44,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:30 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/australia/the-giant-who-lives-in-the-melbourne-museum.html">The Giant Who Lives in the Melbourne Museum</a> NYT: The world’s most complete triceratops skeleton ever found will go on display next year, displacing a beloved, if quirky, exhibit of taxidermy. 
  <p class="updated_time"> 11:30 PM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/guam-americas-forgotten-territory-is-new-front-line-against-china-11639737005">Guam, America's Forgotten Territory, Is New Front Line Against China</a> WSJ: The remote Pacific island, better known for beaches, is seen as a potential staging ground in any future Asian conflicts. It’s also becoming more vulnerable, U.S. officials say, as China expands its military capabilities. 
+ <a href="https://www.wsj.com/articles/guam-americas-forgotten-territory-is-new-front-line-against-china-11639737005">Guam Is America's New Front Line Against China</a> WSJ: The remote Pacific island, better known for beaches, is seen as a potential staging ground in any future Asian conflicts. It’s also becoming more vulnerable, U.S. officials say, as China expands its military capabilities. 
  <p class="updated_time"> 10:41 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59692506?at_medium=RSS&at_campaign=KARANGA">In pictures: Crowds celebrate death of Pinochet's widow in Chile</a> BBC: Lucia Hiriart, the widow of the former dictator and a divisive figure in the country, has died at 99. 
  <p class="updated_time"> 10:32 PM CT, Dec. 16 </p> 
@@ -91,16 +95,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/16/1064951646/why-the-cost-of-carbon-is-increasing-and-how-that-affects-climate-policy">Why the cost of carbon is increasing — and how that affects climate policy</a> NPR: NPR's Mary Louise Kelly speaks with Michael Greenstone, professor and director of the Energy Policy Institute at the University of Chicago the impact of the rising cost of carbon on climate policy. 
  <p class="updated_time"> 03:20 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064951597/haitian-migrants-say-mexican-authorities-are-keeping-them-from-traveling-to-the-">Haitian migrants say Mexican authorities are keeping them from traveling to the U.S.</a> NPR: Haitian migrants who crossed into Mexico from Guatemala are being prevented by Mexican authorities from traveling north to the U.S. The migrants say they are treated much worse than Latino migrants. 
- <p class="updated_time"> 03:13 PM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/more-than-60-000-interpreters-visa-applicants-remain-in-afghanistan-11639689706">More Than 60,000 Interpreters and Other Visa Applicants Remain in Afghanistan</a> WSJ: The tally of Afghan interpreters and others who have applied for asylum in the U.S. after working alongside American forces is the first provided by the U.S. State Department since the Kabul government collapsed in the summer. 
  <p class="updated_time"> 02:19 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59680957?at_medium=RSS&at_campaign=KARANGA">Kim Jong-un: N Korean defectors reflect on last decade</a> BBC: It's a decade since an untested 27-year-old took power. But how has it been to live under Kim Jong-un? 
  <p class="updated_time"> 02:16 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/covid-pandemic-story.html">In 50 Words, Tell Us Your Best Pandemic Story</a> NYT: We want to hear about your Covid memories. 
  <p class="updated_time"> 01:43 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59691900?at_medium=RSS&at_campaign=KARANGA">Dust storms and tornadoes hit the US Midwest</a> BBC: Days after deadly tornadoes ripped through four states, more severe weather has hit parts of the US. 
- <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/haitian-kidnappers-release-remaining-12-missionary-hostages-11639672433">Haitian Kidnappers Release Remaining 12 Missionary Hostages</a> WSJ: Missionary group and Haitian police say that the hostages were released on Thursday and are safe. Five others were freed in recent weeks. 
  <p class="updated_time"> 11:33 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/omar-raddad-cote-dazur-dna-france.html">Judges in France Order the Reopening of an Enduring Murder Mystery</a> NYT: The conviction of Omar Raddad in the killing of a socialite in the French Riviera three decades ago will be re-examined after his lawyers presented new DNA evidence they say exonerates him. 
  <p class="updated_time"> 11:31 AM CT, Dec. 16 </p> 
@@ -196,8 +196,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:04 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/17/this-is-a-real-f-ing-problem-495509"> ‘This is a real f---ing problem’</a> Politico Playbook: And President Joe Biden concedes that the BBB will be delayed. 
+ <p class="updated_time"> 06:04 AM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/brooks-trump-alabama-senate-race/index.html">In Alabama, Brooks looks to redeem himself with Trump amid campaign struggles </a> CNN: Just before Donald Trump took the stage at an August rally in Alabama that was meant to boost GOP Rep. Mo Brooks' US Senate bid, the former President ran into one of Brooks' primary opponents offstage. 
  <p class="updated_time"> 05:12 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/omicron-biden-covid-politics/index.html">Omicron battle brings delicate questions for a weary nation</a> CNN: The Omicron winter is coming. 
+ <p class="updated_time"> 05:01 AM CT, Dec. 17 </p> 
+ <a href="https://www.politico.com/news/2021/12/17/bidenomics-jared-bernstein-525150">The man behind Bidenomics</a> Politico: On this episode of Playbook Deep Dive, Playbook co-author Ryan Lizza talks to the president’s longtime economic adviser about what the administration is doing to fight inflation. 
  <p class="updated_time"> 04:31 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/gop-trump-oust-mcconnell-525207">GOP blows off Trump’s bid to oust McConnell</a> Politico: Just two Senate candidates — and no senators — have publicly called for replacing the Republican leader. 
  <p class="updated_time"> 04:30 AM CT, Dec. 17 </p> 
@@ -308,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/us/politics/congress-uyghur-forced-labor.html">Congress Passes Ban on Goods From China's Xinjiang Region</a> NYT: President Biden is expected to sign the bill, which drew a fierce corporate lobbying campaign against it. 
  <p class="updated_time"> 02:47 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/swedish-commander-us-troops-russia-ukraine-crisis-525135">Swedish commander: U.S. should add troops in Europe if Russia-Ukraine crisis deepens</a> Politico: Biden has all but ruled out sending American forces directly to fight. 
- <p class="updated_time"> 02:43 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/separated-families-negotiations/index.html">DOJ breaks off settlement talks with families separated at US-Mexico border</a> CNN: The Justice Department has informed attorneys representing separated migrant families that it will cease settlement negotiations and are ready to go back to court, according to an attorney representing families. 
  <p class="updated_time"> 02:28 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/trump-lawsuits-january-hearings/index.html">Judge sets January arguments for lawsuits seeking to hold Trump accountable for US Capitol riot</a> CNN: Three lawsuits that seek to hold Donald Trump and his closest advisers accountable for the US Capitol riot are moving forward after months of inaction. 
  <p class="updated_time"> 02:27 PM CT, Dec. 16 </p> 
@@ -432,8 +434,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
  <p class="updated_time"> 07:29 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/10/debt-limit-vote-kicked-to-next-week-495417">Debt limit vote kicked to next week</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:09 AM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/10/trumps-terrible-thursday-followed-by-bidens-bad-friday-495415"> Trump’s terrible Thursday, followed by Biden’s bad Friday?</a> Politico Playbook: And the U.S. clears a hurdle in its pursuit of the extradition of Julian Assange. 
 
 
 </details>
