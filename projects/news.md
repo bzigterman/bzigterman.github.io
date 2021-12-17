@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:33 PM CT, Dec. 17 </p> 
+ <a href="https://www.npr.org/2021/12/17/1065312039/hell-on-earth-afghans-have-to-choose-between-feeding-or-heating-according-to-wfp">'Hell on Earth': Afghans have to choose between feeding or heating, according to WFP</a> NPR: NPR's Mary Louise Kelly speaks with David Beasley, executive director of the World Food Program (WFP), about hunger in Afghanistan. 
  <p class="updated_time"> 03:23 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Recommends Pfizer or Moderna Vaccines Over J.&J</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
  <p class="updated_time"> 03:23 PM CT, Dec. 17 </p> 
@@ -35,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/17/1065200225/pfizer-third-dose-covid-vaccine-infants-young-children">Pfizer plans to test a third dose of its COVID vaccine on infants and young children</a> NPR: Pfizer and BioNTech, which produced the first COVID-19 vaccine authorized in the U.S., say they will expand ongoing trials to include a third dose for children as young as 6 months old. 
  <p class="updated_time"> 11:38 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59703523?at_medium=RSS&at_campaign=KARANGA">Anti-5G necklaces found to be radioactive</a> BBC: Conspiracy theories about 5G have fuelled a market for "anti-5G" accessories. 
+ <p class="updated_time"> 10:37 AM CT, Dec. 17 </p> 
+ <a href="https://www.wsj.com/articles/omicron-seen-doubling-every-1-days-in-parts-of-u-k-11639747057">New York Hits Covid-19 Case Record as Omicron Looms</a> WSJ: Officials worked to shore up testing and healthcare capacity, as new Covid-19 infections hit a daily record in New York state and the Omicron variant added new risks to the pandemic response across the U.S. 
  <p class="updated_time"> 10:27 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/middleeast/iran-covid-trial-khamenei.html">‘Health Defenders’ Jailed in Iran Wanted to Sue Supreme Leader Over Covid</a> NYT: Two lawyers and a civil rights activist who were outspoken about Iran’s chaotic response to the pandemic and delays in its vaccine rollout are on trial now, charged with threatening national security. 
  <p class="updated_time"> 10:24 AM CT, Dec. 17 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/asia/japan-fire-osaka.html">Japan Fire May Have Killed Dozens, With Arson Suspected</a> NYT: The fire consumed the fourth floor of the building in Osaka, which housed a medical office. 
  <p class="updated_time"> 09:18 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html">‘They Were Just Gone’: Two Baby Boys Survive Tornado in Kentucky</a> NYT: Without a basement, Clara Lutz of Barnsley, Ky., sheltered her infant grandsons in the bathtub for safety. A powerful tornado pulled the tub from her grip and sent the babies flying. 
- <p class="updated_time"> 09:14 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/omicron-seen-doubling-every-1-days-in-parts-of-u-k-11639747057">Omicron Variant's Rapid Spread Triggers New U.S. Precautions</a> WSJ: Officials worked to expand access to Covid-19 tests and urged people to take precautions as the Omicron variant spread rapidly in the U.S., Europe and beyond. 
  <p class="updated_time"> 08:17 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59663831?at_medium=RSS&at_campaign=KARANGA">Japan: At least 27 feared dead in Osaka building fire</a> BBC: Police are looking into the possibility that the blaze was deliberately started, local media report. 
  <p class="updated_time"> 08:11 AM CT, Dec. 17 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59683538?at_medium=RSS&at_campaign=KARANGA">Santa Claus delivers presents to children in Peru... via a fire ladder</a> BBC: This Santa Claus in Lima, Peru, uses a special way to deliver presents to children with Covid. 
  <p class="updated_time"> 04:48 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064760503/vaccine-skeptics-in-eastern-europe-are-having-a-change-of-heart">Vaccine skeptics in Eastern Europe are having a change of heart</a> NPR: With surging coronavirus infections and countries making it more difficult for the unvacccinated to travel, some vaccine skeptics are now coming around. 
- <p class="updated_time"> 04:26 AM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064743864/in-kashmir-closed-mosque-raises-questions-about-indias-religious-freedom">In Kashmir, closed mosque raises questions about India's religious freedom</a> NPR: For Kashmiri Muslims the Jamia Masjid is a sacred venue, but it's been closed most Fridays for the past two years. The government has said those who manage it couldn't stop anti-India protests there. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/travel/testing-positive-for-covid-overseas.html">What Happens If You Test Positive for Covid While Traveling?</a> NYT: In the midst of the holiday season, the Omicron variant has many considering the prospects of getting stuck while traveling. Here’s what you need to know. 
  <p class="updated_time"> 03:56 AM CT, Dec. 16 </p> 
@@ -210,6 +210,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:45 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/southwest-airlines-ceo-positive-covid-test-525280">Southwest CEO tests positive for Covid-19</a> Politico: Southwest CEO Gary Kelly has tested positive for Covid-19 days after he testified before the Senate Commerce Committee. 
+ <p class="updated_time"> 03:33 PM CT, Dec. 17 </p> 
+ <a href="https://www.npr.org/2021/12/17/1065311956/a-conversation-with-the-countrys-1st-somali-american-mayor">A conversation with the country's 1st Somali-American mayor</a> NPR: NPR's Ari Shapiro speaks with Deqa Dhalac, who recently became the first Somali-American mayor in the United States. 
+ <p class="updated_time"> 03:29 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/rick-perry-jan-6-text-mark-meadows-nov-4/index.html">Jan 6 investigators believe Nov. 4 text pushing 'strategy' to undermine election came from Rick Perry  </a> CNN: Members of the House Select Committee investigating the January 6 attack on the US Capitol believe that former Texas Governor and Trump Energy Secretary Rick Perry was the author of a text message sent to then-White House chief of staff Mark Meadows the day after the 2020 election pushing an "AGRESSIVE (sic) STRATEGY" for three state legislatures to ignore the will of their voters and deliver their states' electors to Donald Trump, three sources familiar with the House Committee investigation tell CNN. 
  <p class="updated_time"> 03:29 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065304172/robert-palmer-capitol-riot-jan-6-sentence">Capitol rioter who attacked police is sentenced to more than 5 years in prison</a> NPR: The judge said she wanted to make clear with the sentence that "trying to stop the peaceful transition of power and assaulting law enforcement officers is going to be met with certain punishment." 
  <p class="updated_time"> 03:20 PM CT, Dec. 17 </p> 
@@ -220,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/17/politics/january-6-committee-alex-jones-deposition-postponed/index.html">House January 6 committee postpones deposition for conspiracy theorist Alex Jones</a> CNN: The House select committee investigating the January 6 riot has postponed its scheduled deposition of noted conspiracy theorist and right-wing internet personality Alex Jones, according to an aide for the panel. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
- <p class="updated_time"> 02:58 PM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/rick-perry-jan-6-text-mark-meadows-nov-4/index.html">Jan 6 investigators believe Nov. 4 text pushing 'strategy' to undermine election came from Rick Perry  </a> CNN: Members of the House Select Committee investigating the January 6 attack on the US Capitol believe that former Texas Governor and Trump Energy Secretary Rick Perry was the author of a text message sent to then-White House chief of staff Mark Meadows the day after the 2020 election pushing an "AGRESSIVE (sic) STRATEGY" for three state legislatures to ignore the will of their voters and deliver their states' electors to Donald Trump, three sources familiar with the House Committee investigation tell CNN. 
  <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
  <p class="updated_time"> 02:52 PM CT, Dec. 17 </p> 
@@ -346,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/16/1064951646/why-the-cost-of-carbon-is-increasing-and-how-that-affects-climate-policy">Why the cost of carbon is increasing — and how that affects climate policy</a> NPR: NPR's Mary Louise Kelly speaks with Michael Greenstone, professor and director of the Energy Policy Institute at the University of Chicago the impact of the rising cost of carbon on climate policy. 
  <p class="updated_time"> 03:20 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064951583/rep-kinzinger-discusses-the-events-of-jan-6-as-congressional-inquiries-heat-up">Rep. Kinzinger discusses the events of Jan. 6 as congressional inquiries heat up</a> NPR: NPR's Audie Cornish speaks with Rep. Adam Kinzinger, R-Ill., about his role on the House committee investigating the Jan. 6 insurrection. 
- <p class="updated_time"> 03:07 PM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064927774/democrats-forced-to-regroup-as-bidens-signature-spending-bill-stalls">Democrats are forced to regroup as Biden's signature spending bill stalls</a> NPR: For weeks, Senate Majority Leader Chuck Schumer had promised a vote on Biden's social and climate agenda before Christmas. But all 50 senators in caucus have not been able to unify behind the plan. 
  <p class="updated_time"> 02:52 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/congress-uyghur-forced-labor.html">Congress Passes Ban on Goods From China's Xinjiang Region</a> NYT: President Biden is expected to sign the bill, which drew a fierce corporate lobbying campaign against it. 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
