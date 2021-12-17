@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:26 PM CT, Dec. 17 </p> 
+ <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
+ <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/12/17/1064946655/coronavirus-faq-is-it-ok-for-the-kids-to-take-a-pic-with-santa">Coronavirus FAQ: Is it OK for the kids to take a pic with Santa? </a> NPR: Plus: Is it safe to go to a holiday party if not everyone is vaccinated? And are people getting different side effects from the COVID booster? 
  <p class="updated_time"> 02:19 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59703611?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Epstein's ex testifies for the defence</a> BBC: Eva Andersson-Dubin has defended her sex offender ex in the past and denies knowledge of his crimes. 
  <p class="updated_time"> 01:19 PM CT, Dec. 17 </p> 
@@ -157,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/americas/santo-domingo-plane-crash.html">Santo Domingo Plane Crash Kills All 9 Aboard</a> NYT: A prominent Puerto Rican music producer known as Flow La Movie was reported to be among the dead. 
  <p class="updated_time"> 02:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
- <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064740067/lithuania-closes-embassy-in-china-after-last-diplomats-leave-amid-taiwan-spat">Lithuania closes embassy in China after last diplomats leave amid Taiwan spat</a> NPR: Lithuania says it's closed its embassy in Beijing and pulled its last diplomat out amid a spat over the European Union nation allowing Taiwan to open a representative office in the capital, Vilnius. 
  <p class="updated_time"> 11:42 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59667108?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Lost photos found 140 miles away</a> BBC: How a photo found on a Kentucky farm is being returned to its owner thanks to social media sleuths. 
  <p class="updated_time"> 06:13 PM CT, Dec. 15 </p> 
@@ -216,10 +216,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
  <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
+ <p class="updated_time"> 02:36 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/robert-scott-palmer-capitol/index.html">US Capitol rioter gets 5 years in jail after throwing fire extinguisher at police</a> CNN: A Florida man who enthusiastically attacked police at the US Capitol on January 6 with a fire extinguisher, a wooden plank and a pole was sentenced to more than five years in prison on Friday, the longest sentence for a Capitol rioter thus far. 
  <p class="updated_time"> 01:55 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/roger-stone-january-6-committee/index.html">Trump ally Roger Stone pleads the Fifth in deposition with January 6 committee</a> CNN: Roger Stone, a staunch ally of former President Donald Trump, met briefly Friday with the House select committee investigating the January 6 riot and asserted his Fifth Amendment rights to every question asked, he said. 
- <p class="updated_time"> 01:42 PM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/robert-scott-palmer-capitol/index.html">US Capitol rioter gets 5 years in jail after throwing fire extinguisher at police</a> CNN: A Florida man who enthusiastically attacked police at the US Capitol on January 6 with a fire extinguisher, a wooden plank and a pole was sentenced to more than five years in prison on Friday, the longest sentence for a Capitol rioter thus far. 
  <p class="updated_time"> 12:54 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/herschel-walker-campaign-deletes-false-claim-college-graduate/index.html">Herschel Walker campaign deletes a false claim saying the Republican candidate for Senate graduated from college</a> CNN: Herschel Walker's campaign for Senate removed a false claim -- which inaccurately said the Republican candidate graduated from the University of Georgia -- from a website for his Senate bid, the Atlanta Journal Constitution reported. 
  <p class="updated_time"> 12:45 PM CT, Dec. 17 </p> 
