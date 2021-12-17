@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:36 AM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59697805?at_medium=RSS&at_campaign=KARANGA">Andry Rajoelina: French nationals sentenced for Madagascar coup plot</a> BBC: The two men are accused of planning to assassinate President Andry Rajoelina. 
  <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated, and at least 17 people died. 
  <p class="updated_time"> 06:06 AM CT, Dec. 17 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html">Oriol Bohigas, Groundbreaking Spanish Architect, Dies at 95</a> NYT: He was a mastermind of the overhaul of Barcelona in preparation for the 1992 Summer Olympics, which helped transform much of the city. 
  <p class="updated_time"> 06:12 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59691747?at_medium=RSS&at_campaign=KARANGA">Biden grants Medal of Honor to first black soldier since Vietnam</a> BBC: Sgt Alwyn Cashe was among three US veterans to receive the highest US military award. 
- <p class="updated_time"> 05:20 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59692776?at_medium=RSS&at_campaign=KARANGA">US panel recommends J&J shots be sidelined after clot deaths</a> BBC: Nine people have died from extremely rare side effects linked to Johnson & Johnson's jab. 
  <p class="updated_time"> 05:04 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59692022?at_medium=RSS&at_campaign=KARANGA">Philippines typhoon Rai: Month-old baby rescued in a tub</a> BBC: Thousands have been evacuated as the storm brought 165km/h (103 mph) winds and heavy rain. 
  <p class="updated_time"> 04:44 PM CT, Dec. 16 </p> 
@@ -194,6 +194,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:42 AM CT, Dec. 17 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2021/12/17/immigration-axed-and-bidens-big-bill-pushed-to-2022-495512">Immigration axed and Biden’s big bill pushed to 2022</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:38 AM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/cnn-poll-covid-pandemic/index.html">Nearly 4 in 10 Americans think Covid-19 precautions are here to stay, but others have already returned to their pre-pandemic normal</a> CNN: Most of the public continues to take precautions to guard against the risks of Covid-19 and nearly 4 in 10 Americans think they'll continue doing so for the foreseeable future, according to a new CNN Poll conducted by SSRS. 
  <p class="updated_time"> 06:04 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/17/this-is-a-real-f-ing-problem-495509"> ‘This is a real f---ing problem’</a> Politico Playbook: And President Joe Biden concedes that the BBB will be delayed. 
  <p class="updated_time"> 06:04 AM CT, Dec. 17 </p> 
@@ -242,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/us/politics/rnc-trump-investigations.html">R.N.C. Is Said to Agree to Pay Up to $1.6 Million of Trump’s Personal Legal Bills</a> NYT: Under the unusual arrangement, the Republican Party is paying to defend the former president as he faces investigations into his private business practices. 
  <p class="updated_time"> 08:02 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/biden-scotus-health-vax-mandate-525216">Biden admin asks Supreme Court to allow nationwide health worker vax mandate</a> Politico: Thursday's move is expected to prompt justices to issue a final decision on whether the mandate can take effect. 
- <p class="updated_time"> 07:52 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/abbott-texas-republican-governors-pentagon-unvaccinated-national-guard/index.html">Abbott joins 6 other GOP governors in asserting Pentagon has no authority to punish unvaccinated National Guardsmen</a> CNN: Texas Republican Gov. Greg Abbott asserted the Pentagon has no authority to punish unvaccinated members of the state National Guard, joining other Republican governors who have called on Defense Secretary Lloyd Austin to withdraw or otherwise nullify the military's Covid-19 vaccine mandate. 
  <p class="updated_time"> 07:47 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/michael-flynn-relatives-cnn-lawsuit-525200">Judge allows Michael Flynn relatives to proceed with suit against CNN</a> Politico: The ruling will permit the former Trump national security adviser’s brother and sister-in-law to pursue a “false light” claim over news reports linking them to QAnon. 
  <p class="updated_time"> 07:43 PM CT, Dec. 16 </p> 
