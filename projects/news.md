@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:51 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html">Hu Xijin, Chief of China's Global Times, Will Retire</a> NYT: Mr. Hu, editor of the Communist Party tabloid Global Times, set the tone for a new generation of Chinese pundits with his flair for verbal combat. 
  <p class="updated_time"> 08:25 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59692846?at_medium=RSS&at_campaign=KARANGA">Rust: Police obtain search warrant for Alec Baldwin's phone</a> BBC: Police investigating the fatal shooting on the Rust film set obtain a warrant for the actor's phone. 
  <p class="updated_time"> 08:10 PM CT, Dec. 16 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/queen-elizabeth-christmas-lunch-canceled-covid.html">Queen Elizabeth cancels traditional pre-Christmas lunch as cases surge in England.</a> NYT: Palace officials said it was a precautionary measure to avoid putting royal family members at risk by bringing a large group together at Windsor Castle. 
  <p class="updated_time"> 06:03 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59683538?at_medium=RSS&at_campaign=KARANGA">Santa Claus delivers presents to children in Peru... via a fire ladder</a> BBC: This Santa Claus in Lima, Peru, uses a special way to deliver presents to children with Covid. 
- <p class="updated_time"> 05:48 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html">Hu Xijin, Chief of China's Global Times, Will Retire</a> NYT: Hu Xijin, editor of the Communist Party tabloid Global Times and pioneer of the country’s fiery online posturing, is retiring from his role. 
  <p class="updated_time"> 05:17 AM CT, Dec. 16 </p> 
  <a href="https://www.wsj.com/articles/covid-19-surge-slows-european-recovery-but-supply-problems-ease-11639651970">Covid-19 Surge Slows U.S., European Recovery, but Supply Problems Ease</a> WSJ: U.S. business activity continued to expand but at the slowest pace in three months despite strong demand from customers. 
  <p class="updated_time"> 04:48 AM CT, Dec. 16 </p> 
@@ -201,7 +201,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:17 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/judge-rejects-purdue-pharmas-sweeping-opioid-settlement-525222">Judge rejects Purdue Pharma’s sweeping opioid settlement</a> Politico: The ruling Thursday from U.S. District Judge Colleen McMahon in New York is likely to be appealed by the company, family members and the thousands of government entities that support the plan. 
  <p class="updated_time"> 08:14 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-immigration-build-back-better.html">Biden Concedes Social Policy Bill Is Stalled as Immigration Plan Falters</a> NYT: A top Senate official ruled that a measure to grant legal status to millions of undocumented immigrants must come out of the plan, as President Biden said a final deal would take more time. 
+ <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-immigration-build-back-better.html">Biden Says Build Back Better Bill Will Take More Time</a> NYT: A top Senate official ruled that a measure to grant legal status to millions of undocumented immigrants must come out of the plan, as President Biden said a final deal would take more time. 
  <p class="updated_time"> 08:13 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1065044185/justice-department-breaks-off-talks-on-compensation-for-separated-families">Justice Department Breaks Off Talks On Compensation For Separated Families </a> NPR: The U.S. has left negotiations about paying monetary damages to families who were forcibly separated while seeking to enter at the southern border during the Trump administration. 
  <p class="updated_time"> 08:13 PM CT, Dec. 16 </p> 
@@ -261,11 +261,11 @@ permalink: /projects/news/
  <p class="updated_time"> 04:53 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/military-vaccine-mandate.html">Vaccine Holdouts in Army and Navy Will Be Dismissed, Military Says</a> NYT: Several governors are seeking exemptions for their National Guard troops. 
  <p class="updated_time"> 04:53 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/us-china-technology-repression.html">U.S. Cracks Down on Firms Said to Aid China’s Repression of Minorities</a> NYT: The Commerce and Treasury Departments put new restrictions on an array of companies and institutions that they said were misusing biotechnology. 
+ <a href="https://www.nytimes.com/2021/12/16/us/politics/us-china-biotech-muslim-minorities.html">U.S. Cracks Down on Firms Said to Aid China’s Repression of Minorities</a> NYT: The Commerce and Treasury Departments put new restrictions on an array of companies and institutions that they said were misusing biotechnology. 
  <p class="updated_time"> 04:34 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/economy/omicron-inflation.html">Omicron Is an Economic Threat, but Inflation Is Worse, Central Bankers Say</a> NYT: Within 24 hours, the Federal Reserve, Bank of England and European Central Bank all stepped forward to deal with price increases. 
  <p class="updated_time"> 04:34 PM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/cdc-covid-vaccine-johnson-525153">CDC advisers recommend mRNA Covid vaccines over J&J shot amid blood clot risks</a> Politico: CDC Director Rochelle Walensky must now decide whether to accept the panel's recommendation. 
+ <a href="https://www.politico.com/news/2021/12/16/cdc-covid-vaccine-johnson-525153">CDC recommends mRNA Covid vaccines over J&J shot amid blood clot risks</a> Politico: CDC Director Rochelle Walensky's decision came hours after the agency’s vaccine advisory committee voted unanimously to update the recommendation. 
  <p class="updated_time"> 04:08 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/joe-manchin-offshore-drilling/index.html">Manchin moves to strike offshore drilling ban from Senate bill</a> CNN: The Senate Energy and Natural Resources committee -- chaired by Sen. Joe Manchin of West Virginia -- has struck a House-passed provision in the Build Back Better Act to ban all future off-shore drilling off the Atlantic, Pacific and Gulf Coasts, a source close to Manchin confirmed to CNN. 
  <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
