@@ -212,6 +212,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
+ <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
+ <p class="updated_time"> 01:55 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/roger-stone-january-6-committee/index.html">Trump ally Roger Stone pleads the Fifth in deposition with January 6 committee</a> CNN: Roger Stone, a staunch ally of former President Donald Trump, met briefly Friday with the House select committee investigating the January 6 riot and asserted his Fifth Amendment rights to every question asked, he said. 
+ <p class="updated_time"> 01:42 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/robert-scott-palmer-capitol/index.html">US Capitol rioter gets 5 years in jail after throwing fire extinguisher at police</a> CNN: A Florida man who enthusiastically attacked police at the US Capitol on January 6 with a fire extinguisher, a wooden plank and a pole was sentenced to more than five years in prison on Friday, the longest sentence for a Capitol rioter thus far. 
  <p class="updated_time"> 12:54 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/herschel-walker-campaign-deletes-false-claim-college-graduate/index.html">Herschel Walker campaign deletes a false claim saying the Republican candidate for Senate graduated from college</a> CNN: Herschel Walker's campaign for Senate removed a false claim -- which inaccurately said the Republican candidate graduated from the University of Georgia -- from a website for his Senate bid, the Atlanta Journal Constitution reported. 
  <p class="updated_time"> 12:45 PM CT, Dec. 17 </p> 
@@ -222,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/17/trump-ally-brandon-straka-information-525272">Trump ally Straka has provided potentially significant information</a> Politico: Prosecutors have asked for a 30-day sentencing delay so that his new evidence "can be properly evaluated." 
  <p class="updated_time"> 11:59 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/biden-south-carolina-commencement-address/index.html">Biden to make 'passionate case' for voting rights during commencement address in South Carolina, Psaki says</a> CNN: President Joe Biden on Friday will make a "passionate case" for voting rights legislation that remains stalled in Congress due to Republican opposition when he delivers the commencement address at a historically Black university in South Carolina, White House press secretary Jen Psaki said. 
- <p class="updated_time"> 11:38 AM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/roger-stone-january-6-committee/index.html">Trump ally Roger Stone pleads the Fifth in deposition with January 6 committee</a> CNN: Roger Stone, a staunch ally of former President Donald Trump, met briefly Friday with the House select committee investigating the January 6 riot and asserted his Fifth Amendment rights to every question asked, he said. 
  <p class="updated_time"> 11:22 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/bill-clinton-masterclass/index.html">Bill Clinton hosts MasterClass in leadership based on decades in public service</a> CNN: Former President Bill Clinton is teaching a MasterClass on "inclusive leadership," drawing on his long career in politics and eight years in the White House to teach participants how to negotiate, mediate and work with people they don't agree with. 
  <p class="updated_time"> 11:00 AM CT, Dec. 17 </p> 
@@ -298,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/michael-flynn-relatives-cnn-lawsuit-525200">Judge allows Michael Flynn relatives to proceed with suit against CNN</a> Politico: The ruling will permit the former Trump national security adviser’s brother and sister-in-law to pursue a “false light” claim over news reports linking them to QAnon. 
  <p class="updated_time"> 07:43 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-build-back-better-miss-deadline-senate/index.html">Biden officially acknowledges Build Back Better will miss deadline but says he's 'determined' to see bill on Senate floor 'as early as possible'</a> CNN: President Joe Biden, in a lengthy statement, implicitly acknowledged ongoing negotiations with Sen. Joe Manchin and procedural steps will cause Democrats to miss the Christmas deadline for Senate passage of his $1.75 trillion economic and climate package, noting that Democrats will continue to work together "over the days and weeks ahead" to get the proposal to the Senate floor. 
- <p class="updated_time"> 07:25 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/supreme-court-political-moment/index.html">The current Supreme Court's partisan moment rivals Bush v. Gore</a> CNN: The country is not ready for what's coming next from the Supreme Court. 
  <p class="updated_time"> 07:23 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1065043555/biden-lacks-the-votes-to-advance-the-2nd-part-of-build-back-better-by-the-end-of">Biden lacks the votes to advance the 2nd part of Build Back Better by the end of 2021</a> NPR: President Biden acknowledged that his Build Back Better spending bill is going to need "days and weeks" to complete, even though Democrats wanted to vote on it by Christmas. 
  <p class="updated_time"> 07:20 PM CT, Dec. 16 </p> 
@@ -360,6 +362,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/16/1064661358/republicans-aim-to-stop-sniping-at-each-other-focus-on-economic-message-for-2022">Republicans aim to stop sniping at each other, focus on economic message for 2022 </a> NPR: House Minority Leader Kevin McCarthy is working to tamp down internal feuds and shift members to talking about inflation and other issues that he believes will help his party return to the majority. 
  <p class="updated_time"> 12:20 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/congressional-gold-medal-us-troops-kabul-attack/index.html">Biden signs bill to award Congressional Gold Medal to US service members killed in Kabul airport bombing</a> CNN: President Joe Biden on Thursday signed a bill that posthumously awards a Congressional Gold Medal to the 13 US service members killed in a terrorist attack outside Kabul's airport in August. 
+ <p class="updated_time"> 12:16 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/biden-signs-debt-limit-increase/index.html">Biden signs debt limit increase</a> CNN: President Joe Biden on Thursday signed the bill raising the debt limit ceiling that passed Congress earlier this week, according to a press release from the White House. 
  <p class="updated_time"> 11:47 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/trump-spac-lawsuit.html">Former Insider at the Company Merging With Trump Media Sues Over 'Brazen' Fraud</a> NYT: A prospective investor in Digital World Acquisition Corp., a special purpose acquisition company that is merging with President Donald J. Trump’s social media start-up, says he was removed from a slate of board nominees without warning and deprived of shares he was owed. 
  <p class="updated_time"> 09:59 AM CT, Dec. 16 </p> 
@@ -400,8 +404,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/health-care-spending-increase-pandemic-524793">Health spending growth more than doubled in first year of pandemic</a> Politico: Nearly the entire increase came from the burst of federal spending as the government mobilized to contain the spread of the virus. 
  <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
- <p class="updated_time"> 08:20 AM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/biden-judicial-nominations-trump/index.html">Biden to surpass Trump in first-year judicial nominees; a window into a major Dem push </a> CNN: President Joe Biden will soon announce his latest wave of nine judicial nominees, according to a White House official, capping a year where the selections -- and an effort to establish an imprint on the federal courts -- served as a focal point for his administration. 
  <p class="updated_time"> 07:35 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/15/house-is-home-for-the-holidays-senate-sticks-around-495473">House is home for the holidays, Senate sticks around</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Dec. 15 </p> 
