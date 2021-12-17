@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:27 AM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/biden-south-carolina-commencement-address/index.html">Biden to make 'passionate case' for voting rights during commencement address in South Carolina, Psaki says</a> CNN: President Joe Biden on Friday will make a "passionate case" for voting rights legislation that remains stalled in Congress due to Republican opposition when he delivers the commencement address at a historically Black university in South Carolina, White House press secretary Jen Psaki said. 
  <p class="updated_time"> 08:20 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/russia-troops-ukraine-border-biden/index.html">Russia continues to amass new troops near Ukraine's border despite Biden urging Putin to de-escalate tensions </a> CNN: Russia has continued to amass new troops near Ukraine's border in recent days, despite President Joe Biden urging Russian President Vladimir Putin to de-escalate tensions during a virtual meeting last week. 
  <p class="updated_time"> 08:10 AM CT, Dec. 17 </p> 
@@ -310,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/us/politics/us-china-biotech-muslim-minorities.html">U.S. Cracks Down on Firms Said to Aid China’s Repression of Minorities</a> NYT: The Commerce and Treasury Departments put new restrictions on an array of companies and institutions that they said were misusing biotechnology. 
  <p class="updated_time"> 04:34 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/cdc-covid-vaccine-johnson-525153">CDC recommends mRNA Covid vaccines over J&J shot amid blood clot risks</a> Politico: CDC Director Rochelle Walensky's decision came hours after the agency’s vaccine advisory committee voted unanimously to update the recommendation. 
- <p class="updated_time"> 04:08 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/joe-manchin-offshore-drilling/index.html">Manchin moves to strike offshore drilling ban from Senate bill</a> CNN: The Senate Energy and Natural Resources committee -- chaired by Sen. Joe Manchin of West Virginia -- has struck a House-passed provision in the Build Back Better Act to ban all future off-shore drilling off the Atlantic, Pacific and Gulf Coasts, a source close to Manchin confirmed to CNN. 
  <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
  <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
