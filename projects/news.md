@@ -11,6 +11,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59696442?at_medium=RSS&at_campaign=KARANGA">Sweden's Gavle Christmas goat torched... again</a> BBC: A giant straw goat that is an annual highlight in the city of Gavle is burned down by an arsonist. 
  <p class="updated_time"> 04:28 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing a Blow to Boris Johnson</a> NYT: The governing party lost to the Liberal Democrats a district that it had represented for more than a century. 
+ <p class="updated_time"> 04:07 AM CT, Dec. 17 </p> 
+ <a href="https://www.npr.org/2021/12/17/1065083119/after-escaping-the-taliban-afghan-music-students-and-teachers-begin-their-new-li">After escaping the Taliban, Afghan music students and teachers begin their new lives</a> NPR: This week, members of the Afghanistan National Institute of Music flew from Doha to Portugal, where they'll rebuild their school — and lives. They describe their escape from Kabul and future hopes. 
  <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/americas/chile-adoption-pinochet.html">Stolen at Birth, Chilean Adoptees Uncover Their Past</a> NYT: Hundreds of Chileans adopted abroad have learned that they were trafficked. Investigators believe thousands of children may have been taken from their parents during Chile’s dictatorship. 
  <p class="updated_time"> 03:55 AM CT, Dec. 17 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/africa/ethiopia-abiy-ahmed-nobel-war.html">The Nobel Peace Prize That Paved the Way for War in Ethiopia</a> NYT: This is the story behind how Ethiopia’s prime minister, Abiy Ahmed, won a Nobel Prize for making peace with his country’s longtime enemy — and then used the alliance to plan a war. 
  <p class="updated_time"> 04:49 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/coronavirus-omicron-vaccines-wave.html">Coronavirus Briefing: Omicron vs. vaccines</a> NYT: And the coming Omicron wave. 
- <p class="updated_time"> 04:17 PM CT, Dec. 15 </p> 
- <a href="https://www.npr.org/2021/12/15/1064639376/biden-will-nominate-michelle-kwan-and-caroline-kennedy-for-ambassador-posts">Biden will nominate Michelle Kwan and Caroline Kennedy for ambassador posts</a> NPR: The president will nominate Kwan, a two-time Olympic medalist figure skater, to serve as U.S. ambassador to Belize. He's tapping Kennedy to be ambassador to Australia. 
  <p class="updated_time"> 03:44 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/travel/cruise-ships-coronavirus.html">On Cruise Ships, Omicron Puts Safety Protocols to the Test</a> NYT: Many lines are adjusting their masking, testing and vaccine rules, while criticism is mounting about the lack of transparency in reporting positive cases to passengers and crew members. 
  <p class="updated_time"> 03:41 PM CT, Dec. 15 </p> 
