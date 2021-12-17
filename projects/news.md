@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 01:35 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-political-rebuke.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
+ <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
  <p class="updated_time"> 01:19 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/south-africa-omicron-hospitalizations.html">South Africa Hospitalizations Lower in Omicron Wave, but Caveats Apply</a> NYT: Researchers warned that the epicenter of the country’s outbreak is more highly vaccinated than others, and that natural immunity is also high. 
  <p class="updated_time"> 01:13 PM CT, Dec. 17 </p> 
@@ -42,7 +42,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:07 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59689793?at_medium=RSS&at_campaign=KARANGA">Israeli PM vows to catch W Bank ambush killers</a> BBC: Troops search for suspected Palestinian gunmen after an Israeli is shot dead and two others wounded. 
  <p class="updated_time"> 06:41 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/omicron-seen-doubling-every-1-days-in-parts-of-u-k-11639747057">Omicron Variant's Rapid Spread Triggers New Precautions</a> WSJ: Officials worked to expand access to Covid-19 tests and urged people to take precautions as the Omicron variant spread rapidly in the U.S., Europe and beyond. 
+ <a href="https://www.wsj.com/articles/omicron-seen-doubling-every-1-days-in-parts-of-u-k-11639747057">Omicron Variant's Rapid Spread Triggers New U.S. Precautions</a> WSJ: Officials worked to expand access to Covid-19 tests and urged people to take precautions as the Omicron variant spread rapidly in the U.S., Europe and beyond. 
  <p class="updated_time"> 06:36 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59697805?at_medium=RSS&at_campaign=KARANGA">Andry Rajoelina: French nationals sentenced for Madagascar coup plot</a> BBC: The two men are accused of planning to assassinate President Andry Rajoelina. 
  <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
