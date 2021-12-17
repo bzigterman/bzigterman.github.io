@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:35 PM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59692552?at_medium=RSS&at_campaign=KARANGA">Bouncy castle fall: Australia mourns 'terrible tragedy' after children killed</a> BBC: Five children died and four others were injured when a wind gust blew away the castle at a school fair. 
+ <p class="updated_time"> 11:30 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/australia/the-giant-who-lives-in-the-melbourne-museum.html">The Giant Who Lives in the Melbourne Museum</a> NYT: The world’s most complete triceratops skeleton ever found will go on display next year, displacing a beloved, if quirky, exhibit of taxidermy. 
  <p class="updated_time"> 11:25 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing Blow to Boris Johnson</a> NYT: The governing party lost to the Liberal Democrats a district it had represented for more than a century. 
  <p class="updated_time"> 11:13 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59663831?at_medium=RSS&at_campaign=KARANGA">Japan: At least 27 feared dead in Osaka building fire</a> BBC: Police are looking into the possibility that the blaze was deliberately started, say local media. 
- <p class="updated_time"> 10:54 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59692552?at_medium=RSS&at_campaign=KARANGA">Bouncy castle fall: Australia mourns 'terrible tragedy' after children killed</a> BBC: Five children died and four others were injured when a wind gust blew away the castle at a school fair. 
  <p class="updated_time"> 10:41 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59692506?at_medium=RSS&at_campaign=KARANGA">In pictures: Crowds celebrate death of Pinochet's widow in Chile</a> BBC: Lucia Hiriart, the widow of the former dictator and a divisive figure in the country, has died at 99. 
  <p class="updated_time"> 10:25 PM CT, Dec. 16 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
  <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064740067/lithuania-closes-embassy-in-china-after-last-diplomats-leave-amid-taiwan-spat">Lithuania closes embassy in China after last diplomats leave amid Taiwan spat</a> NPR: Lithuania says it's closed its embassy in Beijing and pulled its last diplomat out amid a spat over the European Union nation allowing Taiwan to open a representative office in the capital, Vilnius. 
- <p class="updated_time"> 12:01 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/malaysia-boat-migrants.html">Boat With Migrants Sinks Near Malaysia, Killing at Least 16</a> NYT: The vessel capsized near a beach town in the South China Sea, leaving several others missing, officials said. 
  <p class="updated_time"> 11:42 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59667108?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Lost photos found 140 miles away</a> BBC: How a photo found on a Kentucky farm is being returned to its owner thanks to social media sleuths. 
  <p class="updated_time"> 08:15 PM CT, Dec. 15 </p> 
@@ -173,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-russia-berlin-murder.html">Russian Is Convicted in Murder of Chechen Man in a Berlin Park</a> NYT: A German court ruled that the Russian state had orchestrated the attack, which strained ties between Berlin and Moscow. 
  <p class="updated_time"> 10:44 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/frenchwoman-dead-syria-detention-camp.html">France Refused to Repatriate a Sick Woman Who Joined the Islamic State. She Died.</a> NYT: A Frenchwoman died of health complications in a detention camp in Syria on Tuesday, her lawyer said. She had repeatedly asked to be repatriated to treat severe diabetes. 
- <p class="updated_time"> 10:30 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/hong-kong-fire.html">Hundreds Trapped by Fire at World Trade Center in Hong Kong</a> NYT: The blaze at the World Trade Center in Causeway Bay injured at least 13 people, including one who was semiconscious, the police said. 
  <p class="updated_time"> 09:18 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/politics/gop-governors-vaccine-pentagon.html">5 Republican Governors Seek Vaccine Exemptions for National Guard Troops</a> NYT: The move comes as the Pentagon released a new order this week saying that National Guard members who do not get vaccinated would receive a general order of reprimand, essentially ending their careers. 
  <p class="updated_time"> 09:14 AM CT, Dec. 15 </p> 
