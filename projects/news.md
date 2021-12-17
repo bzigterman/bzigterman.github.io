@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:19 AM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Russia masses troops on the border with Ukraine, was directed at the United States and Ukraine’s other Western allies. 
+ <p class="updated_time"> 07:07 AM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59689793?at_medium=RSS&at_campaign=KARANGA">Israeli PM vows to catch W Bank ambush killers</a> BBC: Troops search for suspected Palestinian gunmen after an Israeli is shot dead and two others wounded. 
  <p class="updated_time"> 06:36 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59697805?at_medium=RSS&at_campaign=KARANGA">Andry Rajoelina: French nationals sentenced for Madagascar coup plot</a> BBC: The two men are accused of planning to assassinate President Andry Rajoelina. 
  <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated, and at least 17 people died. 
- <p class="updated_time"> 06:06 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Russia masses troops on the border with Ukraine, was directed at the United States and Ukraine’s other Western allies. 
  <p class="updated_time"> 04:28 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59696442?at_medium=RSS&at_campaign=KARANGA">Sweden's Gavle Christmas goat torched... again</a> BBC: A giant straw goat that is an annual highlight in the city of Gavle is burned down by an arsonist. 
  <p class="updated_time"> 04:28 AM CT, Dec. 17 </p> 
@@ -40,9 +42,9 @@ permalink: /projects/news/
  <p class="updated_time"> 01:02 AM CT, Dec. 17 </p> 
  <a href="https://www.wsj.com/articles/as-covid-19-cases-multiply-australia-tries-to-change-public-perception-of-the-virus-11639742544">As Covid-19 Cases Multiply, Australia Tries to Change Public Perception of the Virus</a> WSJ: How Australians respond could inform other countries, including many in Asia that also contained the virus during the pandemic by imposing restrictions such as lockdowns and travel bans but worry about the economic damage from those policies. 
  <p class="updated_time"> 12:11 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-holds-first-election-without-opposition-but-will-people-vote-11639739483">Hong Kong Holds First Election Without Opposition. But Will People Vote?</a> WSJ: Sunday’s election will feature only Beijing-approved candidates, after an overhaul of voting rules and a crackdown on the city’s opposition. 
+ <a href="https://www.wsj.com/articles/japan-fire-leaves-27-feared-dead-in-osaka-11639712535">Fire at Osaka Mental-Health Clinic Kills 24</a> WSJ: Twenty-four people were killed after a fire raced through a mental-health clinic on the fourth floor of an office building in Osaka, Japan, and police said they suspected arson. 
  <p class="updated_time"> 12:11 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/japan-fire-leaves-27-feared-dead-in-osaka-11639712535">Japan Fire at Osaka Mental-Health Clinic Kills 24</a> WSJ: Twenty-four people were killed after a fire raced through a mental-health clinic on the fourth floor of an office building in Osaka, Japan, and police said they suspected arson. 
+ <a href="https://www.wsj.com/articles/hong-kong-holds-first-election-without-opposition-but-will-people-vote-11639739483">Hong Kong Holds First Election Without Opposition. But Will People Vote?</a> WSJ: Sunday’s election will feature only Beijing-approved candidates, after an overhaul of voting rules and a crackdown on the city’s opposition. 
  <p class="updated_time"> 11:35 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59692552?at_medium=RSS&at_campaign=KARANGA">Bouncy castle fall: Australia mourns 'terrible tragedy' after children killed</a> BBC: Five children died and four others were injured when a wind gust blew away the castle at a school fair. 
  <p class="updated_time"> 11:35 PM CT, Dec. 16 </p> 
@@ -79,10 +81,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/blogs-trending-59687496?at_medium=RSS&at_campaign=KARANGA">How Russia tries to censor Western social media</a> BBC: Western social media companies face huge fines as Russia pressures them to remove content it objects to. 
  <p class="updated_time"> 06:15 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html">Oriol Bohigas, Groundbreaking Spanish Architect, Dies at 95</a> NYT: He was a mastermind of the overhaul of Barcelona in preparation for the 1992 Summer Olympics, which helped transform much of the city. 
- <p class="updated_time"> 06:12 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59691747?at_medium=RSS&at_campaign=KARANGA">Biden grants Medal of Honor to first black soldier since Vietnam</a> BBC: Sgt Alwyn Cashe was among three US veterans to receive the highest US military award. 
  <p class="updated_time"> 05:04 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59692022?at_medium=RSS&at_campaign=KARANGA">Philippines typhoon Rai: Month-old baby rescued in a tub</a> BBC: Thousands have been evacuated as the storm brought 165km/h (103 mph) winds and heavy rain. 
+ <p class="updated_time"> 04:53 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/us/politics/us-china-biotech-muslim-minorities.html">U.S. Cracks Down on Firms Said to Aid China’s Repression of Minorities</a> NYT: The Commerce and Treasury Departments put new restrictions on an array of companies and institutions that they said were misusing biotechnology. 
  <p class="updated_time"> 04:44 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
  <p class="updated_time"> 03:56 PM CT, Dec. 16 </p> 
@@ -93,8 +95,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/16/1064951653/all-17-missionaries-kidnapped-by-a-gang-in-haiti-have-been-released">All 17 missionaries kidnapped by a gang in Haiti have been released</a> NPR: All 17 of the missionaries kidnapped in Haiti two months ago have now been freed. Violence and kidnapping have spiked in Haiti following the assassination of its president in July. 
  <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064951646/why-the-cost-of-carbon-is-increasing-and-how-that-affects-climate-policy">Why the cost of carbon is increasing — and how that affects climate policy</a> NPR: NPR's Mary Louise Kelly speaks with Michael Greenstone, professor and director of the Energy Policy Institute at the University of Chicago the impact of the rising cost of carbon on climate policy. 
+ <p class="updated_time"> 03:21 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/arts/design/latino-art-exhibitions-new-york.html">Expanding the Scope of ‘Latin American Art’</a> NYT: Eight not-to-be-missed shows offer scores of creators and local art traditions from New York, Puerto Rico and the Caribbean, Mexico and South America. 
  <p class="updated_time"> 03:20 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064951597/haitian-migrants-say-mexican-authorities-are-keeping-them-from-traveling-to-the-">Haitian migrants say Mexican authorities are keeping them from traveling to the U.S.</a> NPR: Haitian migrants who crossed into Mexico from Guatemala are being prevented by Mexican authorities from traveling north to the U.S. The migrants say they are treated much worse than Latino migrants. 
+ <p class="updated_time"> 02:52 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/us/politics/congress-uyghur-forced-labor.html">Congress Passes Ban on Goods From China's Xinjiang Region</a> NYT: President Biden is expected to sign the bill, which drew a fierce corporate lobbying campaign against it. 
  <p class="updated_time"> 02:19 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59680957?at_medium=RSS&at_campaign=KARANGA">Kim Jong-un: N Korean defectors reflect on last decade</a> BBC: It's a decade since an untested 27-year-old took power. But how has it been to live under Kim Jong-un? 
  <p class="updated_time"> 02:16 PM CT, Dec. 16 </p> 
@@ -141,6 +147,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59667108?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Lost photos found 140 miles away</a> BBC: How a photo found on a Kentucky farm is being returned to its owner thanks to social media sleuths. 
  <p class="updated_time"> 08:15 PM CT, Dec. 15 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2021/12/15/1064574315/photos-remembering-the-king-of-rancheras-life-and-legacy">Photos: Remembering the life and legacy of Mexico's King of Rancheras</a> NPR: Iconic and beloved singer Vicente Fernández died on Sunday at 81. He sold more than 50 million albums, starred in dozens of films, won three Grammys, eight Latin Grammys, and left a musical legacy. 
+ <p class="updated_time"> 06:13 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html">Putin and Xi Hold Video Summit</a> NYT: President Vladimir V. Putin of Russia and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West but have not yet declared a formal alliance. 
  <p class="updated_time"> 06:13 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-59624540?at_medium=RSS&at_campaign=KARANGA">'If you eat here, you're dining with rats'</a> BBC: Some New Yorkers are cooling on the craze for street-side restaurant sheds, due to noise and vermin. 
  <p class="updated_time"> 06:05 PM CT, Dec. 15 </p> 
@@ -194,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:10 AM CT, Dec. 17 </p> 
+ <a href="https://www.politico.com/news/2021/12/17/pfizer-vaccine-approval-kids-525254">Pfizer and BioNTech ask FDA to approve their Covid-19 vaccine for kids as young as 12</a> Politico: The companies submitted Phase III clinical trial data to FDA as a supplemental application for their vaccine, which is already approved for adults and children as young as 16. 
  <p class="updated_time"> 07:42 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/17/immigration-axed-and-bidens-big-bill-pushed-to-2022-495512">Immigration axed and Biden’s big bill pushed to 2022</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:38 AM CT, Dec. 17 </p> 
@@ -328,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/16/1064661358/republicans-aim-to-stop-sniping-at-each-other-focus-on-economic-message-for-2022">Republicans aim to stop sniping at each other, focus on economic message for 2022 </a> NPR: House Minority Leader Kevin McCarthy is working to tamp down internal feuds and shift members to talking about inflation and other issues that he believes will help his party return to the majority. 
  <p class="updated_time"> 12:20 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/congressional-gold-medal-us-troops-kabul-attack/index.html">Biden signs bill to award Congressional Gold Medal to US service members killed in Kabul airport bombing</a> CNN: President Joe Biden on Thursday signed a bill that posthumously awards a Congressional Gold Medal to the 13 US service members killed in a terrorist attack outside Kabul's airport in August. 
- <p class="updated_time"> 12:09 PM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/marines-army-kicked-out-covid-vaccine-525101">More than 100 Marines kicked out of the service for refusing Covid vaccine</a> Politico: The Army also announced Thursday it has fired two battalion commanders over the order. 
  <p class="updated_time"> 11:47 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/trump-spac-lawsuit.html">Former Insider at the Company Merging With Trump Media Sues Over 'Brazen' Fraud</a> NYT: A prospective investor in Digital World Acquisition Corp., a special purpose acquisition company that is merging with President Donald J. Trump’s social media start-up, says he was removed from a slate of board nominees without warning and deprived of shares he was owed. 
  <p class="updated_time"> 09:59 AM CT, Dec. 16 </p> 
