@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:25 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing Blow to Boris Johnson</a> NYT: The governing party lost to the Liberal Democrats a district it had represented for more than a century. 
  <p class="updated_time"> 11:13 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59663831?at_medium=RSS&at_campaign=KARANGA">Japan: At least 27 feared dead in Osaka building fire</a> BBC: Police are looking into the possibility that the blaze was deliberately started, say local media. 
- <p class="updated_time"> 11:09 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing Blow to Boris Johnson</a> NYT: The governing party lost a district it had represented for more than a century. 
  <p class="updated_time"> 10:54 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59692552?at_medium=RSS&at_campaign=KARANGA">Bouncy castle fall: Australia mourns 'terrible tragedy' after children killed</a> BBC: Five children died and four others were injured when a wind gust blew away the castle at a school fair. 
  <p class="updated_time"> 10:41 PM CT, Dec. 16 </p> 
