@@ -37,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59680921?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 10 - 16 December 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 07:59 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59692502?at_medium=RSS&at_campaign=KARANGA">Tania Mendoza: Mexican actress shot dead while waiting for son</a> BBC: Tania Mendoza was outside a football academy when a gunman opened fire before escaping. 
+ <p class="updated_time"> 07:47 PM CT, Dec. 16 </p> 
+ <a href="https://www.wsj.com/articles/ecb-boosts-bond-purchases-as-it-phases-out-pandemic-stimulus-11639659416">Europe's Top Central Banks Take Different Tacks on Inflation</a> WSJ: The Bank of England became the first major central bank to raise its benchmark interest rate since the pandemic began, while the ECB said it would phase out an emergency bond-buying program while ramping up other stimulus measures. 
  <p class="updated_time"> 07:38 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59693271?at_medium=RSS&at_campaign=KARANGA">Huntsman spider interrupts Australian Covid press briefing</a> BBC: Queensland's health minister remained calm after a journalist said a spider was crawling on her. 
  <p class="updated_time"> 07:36 PM CT, Dec. 16 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/mexico-says-planned-u-s-tax-breaks-for-electric-vehicles-risk-fueling-migration-11639683022">Mexico Says Planned U.S. Tax Breaks for EVs Risk Fueling Migration</a> WSJ: A U.S. proposal to give tax credits to Americans who buy U.S.-built electric vehicles threatens to hurt Mexico’s industry and spur illegal migration to the U.S., Mexican Economy Minister Tatiana Clouthier said. 
  <p class="updated_time"> 08:28 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
- <p class="updated_time"> 08:22 AM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/ecb-boosts-bond-purchases-as-it-phases-out-pandemic-stimulus-11639659416">Europe's Top Central Banks Take Different Tacks on Inflation</a> WSJ: The Bank of England became the first major central bank to raise its benchmark interest rate since the pandemic began, while the ECB said it would phase out an emergency bond-buying program while ramping up other stimulus measures. 
  <p class="updated_time"> 06:55 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/queen-elizabeth-christmas-lunch-canceled-covid.html">Queen Elizabeth cancels traditional pre-Christmas lunch as cases surge in England.</a> NYT: Palace officials said it was a precautionary measure to avoid putting royal family members at risk by bringing a large group together at Windsor Castle. 
  <p class="updated_time"> 06:03 AM CT, Dec. 16 </p> 
