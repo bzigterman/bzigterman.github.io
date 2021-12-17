@@ -53,10 +53,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/middleeast/iran-covid-trial-khamenei.html">‘Health Defenders’ Jailed in Iran Wanted to Sue Supreme Leader Over Covid</a> NYT: Two lawyers and a civil rights activist who were outspoken about Iran’s chaotic response to the pandemic and delays in its vaccine rollout are on trial now, charged with threatening national security. 
  <p class="updated_time"> 10:24 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/asia/myanmar-journalist-kyaw-torture.html">‘I Didn’t Look Like a Human’: Journalist Tells of Myanmar Torture</a> NYT: When Ko Aung Kyaw erased his cellphone contacts to protect his sources, he knew his interrogators would make him pay a horrific price. He did it anyway. 
+ <p class="updated_time"> 10:18 AM CT, Dec. 17 </p> 
+ <a href="https://www.wsj.com/articles/white-house-considers-sending-ukraine-military-equipment-once-bound-for-afghanistan-11639757332">Biden Administration Considers Sending Ukraine Military Equipment Once Bound for Afghanistan</a> WSJ: The White House is considering a plan to redirect helicopters and other military equipment to help quickly reinforce its defenses amid a buildup of Russian troops near its border, U.S. and Ukrainian officials said. 
  <p class="updated_time"> 10:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/japan-fire-osaka.html">Japan Fire Kills 24, With Arson Suspected</a> NYT: The fire consumed the fourth floor of the building in Osaka, which housed a medical office. 
  <p class="updated_time"> 09:18 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html">‘They Were Just Gone’: Two Baby Boys Survive Tornado in Kentucky</a> NYT: Without a basement, Clara Lutz of Barnsley, Ky., sheltered her infant grandsons in the bathtub for safety. A powerful tornado pulled the tub from her grip and sent the babies flying. 
+ <p class="updated_time"> 08:28 AM CT, Dec. 17 </p> 
+ <a href="https://www.wsj.com/articles/omicron-variant-now-dominates-in-england-and-scotland-health-data-show-11639769289">Omicron Variant Now Dominates in England and Scotland, Health Data Show</a> WSJ: The U.K. reported a record number of new daily cases, and infections of the Covid-19 variant are estimated to be doubling in less than two days across much of England. 
  <p class="updated_time"> 08:17 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59663831?at_medium=RSS&at_campaign=KARANGA">Japan: At least 27 feared dead in Osaka building fire</a> BBC: Police are looking into the possibility that the blaze was deliberately started, local media report. 
  <p class="updated_time"> 08:11 AM CT, Dec. 17 </p> 
