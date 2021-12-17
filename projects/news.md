@@ -204,14 +204,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:54 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/herschel-walker-campaign-deletes-false-claim-college-graduate/index.html">Herschel Walker campaign deletes a false claim saying the Republican candidate for Senate graduated from college</a> CNN: Herschel Walker's campaign for Senate removed a false claim -- which inaccurately said the Republican candidate graduated from the University of Georgia -- from a website for his Senate bid, the Atlanta Journal Constitution reported. 
  <p class="updated_time"> 12:45 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065136822/biden-clyburn-south-carolina-state-graduation">Biden joins an HBCU in celebrating its graduates — including an old congressional ally</a> NPR: In the commencement speech at South Carolina State University, President Biden credited Rep. Jim Clyburn's public endorsement in 2020 as a pivotal moment in reviving his sluggish campaign. 
  <p class="updated_time"> 12:34 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/trump-israel-support-anti-semitic-525269">Trump invokes antisemitic tropes while discussing his support for Israel</a> Politico: “They’re Jewish people that run The New York Times,” the former president said, alleging that the paper "hates Israel." 
  <p class="updated_time"> 12:26 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/trump-ally-brandon-straka-information-525272">Trump ally Straka has provided potentially significant information</a> Politico: Prosecutors have asked for a 30-day sentencing delay so that his new evidence "can be properly evaluated." 
- <p class="updated_time"> 12:11 PM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/herschel-walker-campaign-deletes-false-claim-college-graduate/index.html">Herschel Walker campaign deletes a false claim saying the Republican candidate for Senate graduated from college</a> CNN: Herschel Walker's campaign for Senate removed a false claim -- which inaccurately said the Republican candidate graduated from the University of Georgia -- from a website for his Senate bid, the Atlanta Journal Constitution reported. 
  <p class="updated_time"> 11:59 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/biden-south-carolina-commencement-address/index.html">Biden to make 'passionate case' for voting rights during commencement address in South Carolina, Psaki says</a> CNN: President Joe Biden on Friday will make a "passionate case" for voting rights legislation that remains stalled in Congress due to Republican opposition when he delivers the commencement address at a historically Black university in South Carolina, White House press secretary Jen Psaki said. 
  <p class="updated_time"> 11:38 AM CT, Dec. 17 </p> 
