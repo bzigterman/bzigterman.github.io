@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:57 PM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/killer-drone-ban-robot.html">Killer Robots Aren’t Science Fiction. A Push to Ban Them Is Growing.</a> NYT: A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty. 
  <p class="updated_time"> 04:44 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Moscow masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected. 
  <p class="updated_time"> 04:09 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html">Oriol Bohigas, Groundbreaking Spanish Architect, Dies at 95</a> NYT: He was a mastermind of the overhaul of Barcelona in preparation for the 1992 Summer Olympics, which helped transform much of the city. 
- <p class="updated_time"> 04:07 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/killer-drone-ban-robot.html">Killer Robots Aren’t Science Fiction. A Push to Ban Them is Growing.</a> NYT: A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty. 
  <p class="updated_time"> 04:06 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065312088/pinatas-a-staple-in-christmas-traditions">Piñatas: A staple in Christmas traditions</a> NPR: Piñatas are a common element in parties across different countries and especially in Mexico around Christmas time. The story of their origin combines cultures, traditions and religions. 
  <p class="updated_time"> 04:06 PM CT, Dec. 17 </p> 
@@ -214,6 +214,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:17 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/canada-retighten-border-omicron-525286">Canada to re-tighten border measures as it braces for Omicron</a> Politico: 'We've come this far, now is not the time to give up,' Canada's health minister said Friday. 
+ <p class="updated_time"> 04:48 PM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/business/southwest-ceo-postive-coronavirus.html">Southwest C.E.O. Tests Positive for Coronavirus After Senate Hearing</a> NYT: Gary Kelly appeared at the committee hearing with other airline officials on Wednesday. Each was unmasked for at least part of the hearing, as were many senators. 
  <p class="updated_time"> 04:07 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/robert-palmer-capitol-riot-sentence.html">Man Gets 5 Years on Capitol Riot Charges, Longest Sentence So Far</a> NYT: Robert Palmer hurled a fire extinguisher at police officers during some of the fiercest fighting on Jan. 6. 
  <p class="updated_time"> 03:49 PM CT, Dec. 17 </p> 
@@ -386,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/us/politics/trump-meadows-republicans-congress-jan-6.html">Meadows and the Band of Loyalists: How They Fought to Keep Trump in Power</a> NYT: A small circle of Republican lawmakers, working closely with President Donald J. Trump’s chief of staff, took on an outsize role in pressuring the Justice Department, amplifying conspiracy theories and flooding the courts in an attempt to overturn the 2020 election. 
  <p class="updated_time"> 07:50 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/yuma-arizona-migrants/index.html">A dramatic increase in number of migrants seeking asylum in Arizona overwhelms Border Patrol</a> CNN: Under the shadow of the border wall, dozens of migrants raced to get in line as they spotted the glimmer of vehicle lights down the road. US Border Patrol agents were on the way. 
- <p class="updated_time"> 06:44 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/democrats-social-policy-bill-2022.html">Manchin Balks on Social Policy Bill; Democrats May Punt to 2022</a> NYT: A self-imposed Christmas deadline for action on the $2.2 trillion social safety net, climate and tax package appeared likely to slip as negotiations with the West Virginia Democrat faltered. 
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats’ filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
  <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
