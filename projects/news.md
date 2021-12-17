@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:19 PM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/south-africa-omicron-hospitalizations.html">South Africa Hospitalizations Lower in Omicron Wave, but Caveats Apply</a> NYT: Researchers warned that the epicenter of the country’s outbreak is more highly vaccinated than others, and that natural immunity is also high. 
+ <p class="updated_time"> 01:13 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59702456?at_medium=RSS&at_campaign=KARANGA">Son's tribute to 'bawdy, fertile matriarch' goes viral</a> BBC: A son's colourful tribute to his mother, Renay Mandel Corren, has been shared widely on social media. 
+ <p class="updated_time"> 01:01 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59703227?at_medium=RSS&at_campaign=KARANGA">TikTok says US school shooting threats not credible</a> BBC: Security around some US schools is stepped up in response to supposed violent threats going viral. 
+ <p class="updated_time"> 01:00 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59703611?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Epstein's ex testifies for the defence</a> BBC: Eva Andersson-Dubin has defended her sex offender ex in the past and denies knowledge of his crimes. 
  <p class="updated_time"> 12:32 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Moscow masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected. 
  <p class="updated_time"> 12:32 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/17/1065200225/pfizer-third-dose-covid-vaccine-infants-young-children">Pfizer plans to test a third dose of its COVID vaccine on infants and young children</a> NPR: Pfizer and BioNTech, which produced the first COVID-19 vaccine authorized in the U.S., say they will expand ongoing trials to include a third dose for children as young as 6 months old. 
- <p class="updated_time"> 11:48 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/south-africa-omicron-hospitalizations.html">South Africa Hospitalizations Lower in Omicron Wave, but Caveats Apply</a> NYT: Researchers warned that the epicenter of the country’s outbreak is more highly vaccinated than others, and that natural immunity is also high. 
  <p class="updated_time"> 11:38 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59703523?at_medium=RSS&at_campaign=KARANGA">Anti-5G necklaces found to be radioactive</a> BBC: Conspiracy theories about 5G have fuelled a market for "anti-5G" accessories. 
  <p class="updated_time"> 10:27 AM CT, Dec. 17 </p> 
