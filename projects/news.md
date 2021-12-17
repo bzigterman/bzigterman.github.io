@@ -7,20 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:45 PM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Moscow masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected. 
+ <p class="updated_time"> 02:40 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59703611?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Epstein's ex testifies for the defence</a> BBC: Eva Andersson-Dubin has defended her sex offender ex in the past and denies knowledge of his crimes. 
  <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
  <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/17/1064946655/coronavirus-faq-is-it-ok-for-the-kids-to-take-a-pic-with-santa">Coronavirus FAQ: Is it OK for the kids to take a pic with Santa? </a> NPR: Plus: Is it safe to go to a holiday party if not everyone is vaccinated? And are people getting different side effects from the COVID booster? 
- <p class="updated_time"> 02:19 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59703611?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Epstein's ex testifies for the defence</a> BBC: Eva Andersson-Dubin has defended her sex offender ex in the past and denies knowledge of his crimes. 
  <p class="updated_time"> 01:19 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/south-africa-omicron-hospitalizations.html">South Africa Hospitalizations Lower in Omicron Wave, but Caveats Apply</a> NYT: Researchers warned that the epicenter of the country’s outbreak is more highly vaccinated than others, and that natural immunity is also high. 
  <p class="updated_time"> 01:13 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59702456?at_medium=RSS&at_campaign=KARANGA">Son's tribute to 'bawdy, fertile matriarch' goes viral</a> BBC: A son's colourful tribute to his mother, Renay Mandel Corren, has been shared widely on social media. 
  <p class="updated_time"> 01:01 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-59703227?at_medium=RSS&at_campaign=KARANGA">TikTok says US school shooting threats not credible</a> BBC: Security around some US schools is stepped up in response to supposed violent threats going viral. 
- <p class="updated_time"> 12:32 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Moscow masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected. 
  <p class="updated_time"> 12:32 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/17/1065200225/pfizer-third-dose-covid-vaccine-infants-young-children">Pfizer plans to test a third dose of its COVID vaccine on infants and young children</a> NPR: Pfizer and BioNTech, which produced the first COVID-19 vaccine authorized in the U.S., say they will expand ongoing trials to include a third dose for children as young as 6 months old. 
  <p class="updated_time"> 11:38 AM CT, Dec. 17 </p> 
@@ -216,6 +216,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
  <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
+ <p class="updated_time"> 02:39 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/lithium-mining-energy-climate/index.html">A rush to mine lithium in Nevada is pitting climate advocates and environmental groups against each other</a> CNN: In an ancient and now extinct supervolcano sitting in northern Nevada lies a treasure that its seekers call "white gold." 
+ <p class="updated_time"> 02:38 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/us-mexico-border/index.html">November border arrests up 5% after trending downward in recent months</a> CNN: US Customs and Border Protection made 173,620 arrests in November, a 5% jump from the previous month and the first increase since the summer, when apprehensions began to drop, according to newly released data. 
  <p class="updated_time"> 02:36 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/robert-scott-palmer-capitol/index.html">US Capitol rioter gets 5 years in jail after throwing fire extinguisher at police</a> CNN: A Florida man who enthusiastically attacked police at the US Capitol on January 6 with a fire extinguisher, a wooden plank and a pole was sentenced to more than five years in prison on Friday, the longest sentence for a Capitol rioter thus far. 
  <p class="updated_time"> 01:55 PM CT, Dec. 17 </p> 
@@ -229,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:26 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/trump-ally-brandon-straka-information-525272">Trump ally Straka has provided potentially significant information</a> Politico: Prosecutors have asked for a 30-day sentencing delay so that his new evidence "can be properly evaluated." 
  <p class="updated_time"> 11:59 AM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/biden-south-carolina-commencement-address/index.html">Biden to make 'passionate case' for voting rights during commencement address in South Carolina, Psaki says</a> CNN: President Joe Biden on Friday will make a "passionate case" for voting rights legislation that remains stalled in Congress due to Republican opposition when he delivers the commencement address at a historically Black university in South Carolina, White House press secretary Jen Psaki said. 
+ <a href="https://www.cnn.com/2021/12/17/politics/biden-south-carolina-commencement-address/index.html">'This battle is not over:' Biden pledges to 'keep up the fight' on voting rights as Republicans block legislation</a> CNN: President Joe Biden on Friday will make a "passionate case" for voting rights legislation that remains stalled in Congress due to Republican opposition when he delivers the commencement address at a historically Black university in South Carolina, White House press secretary Jen Psaki said. 
  <p class="updated_time"> 11:22 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/bill-clinton-masterclass/index.html">Bill Clinton hosts MasterClass in leadership based on decades in public service</a> CNN: Former President Bill Clinton is teaching a MasterClass on "inclusive leadership," drawing on his long career in politics and eight years in the White House to teach participants how to negotiate, mediate and work with people they don't agree with. 
  <p class="updated_time"> 11:00 AM CT, Dec. 17 </p> 
@@ -266,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/17/gop-trump-oust-mcconnell-525207">GOP blows off Trump’s bid to oust McConnell</a> Politico: Just two Senate candidates — and no senators — have publicly called for replacing the Republican leader. 
  <p class="updated_time"> 04:30 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/cartoons/2021/12/17/the-nations-cartoonists-on-the-week-in-politics-000272">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 04:08 AM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/lithium-mining-energy-climate/index.html">A rush to mine lithium in Nevada is pitting climate advocates and environmental groups against each other</a> CNN: In an ancient and now extinct supervolcano sitting in northern Nevada lies a treasure that its seekers call "white gold." 
  <p class="updated_time"> 04:07 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/senate-race-rankings-december/index.html">The 10 Senate seats most likely to flip in 2022</a> CNN: As the calendar turns to 2022, Senate races are about to kick into much higher gear, with ad spending increasing ahead of the first primaries in May and just a few more fundraising quarters for candidates to prove they're serious 
  <p class="updated_time"> 04:07 AM CT, Dec. 17 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/16/politics/voting-rights-senate-sinema-manchin/index.html">Analysis: Here's why voting rights legislation isn't going anywhere this year</a> CNN: With chances for passage of the Build Back Better Act dimming by the day, the Biden administration and prominent Democrats have made a quick pivot -- insisting that now is the moment to pass voting rights protection through Congress.   
  <p class="updated_time"> 05:30 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/joe-biden-warning-winter/index.html">Biden warns of winter of 'severe illness and death' for unvaccinated due to Omicron </a> CNN: President Joe Biden said on Thursday warned people who are not vaccinated against Covid-19 are looking at a very bleak and dangerous winter if they do not get their shots soon. 
- <p class="updated_time"> 05:25 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/medication-abortion-fda-supreme-court/index.html">FDA says abortion pills can be sent by mail</a> CNN: With the Supreme Court poised to undo its abortion rights precedent, the Biden administration is considering a move that could mitigate the fallout from a Roe v. Wade reversal. And red states are already on the march to counteract whatever the federal government opts to do. 
  <p class="updated_time"> 05:03 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden awards Medal of Honor to 3 soldiers, including the first African American since the Vietnam War</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
  <p class="updated_time"> 04:53 PM CT, Dec. 16 </p> 
@@ -368,6 +368,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/business/trump-spac-lawsuit.html">Former Insider at the Company Merging With Trump Media Sues Over 'Brazen' Fraud</a> NYT: A prospective investor in Digital World Acquisition Corp., a special purpose acquisition company that is merging with President Donald J. Trump’s social media start-up, says he was removed from a slate of board nominees without warning and deprived of shares he was owed. 
  <p class="updated_time"> 09:59 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064793380/passport-renewal-online-president-biden-executive-order">You may soon be able to renew your passport online, instead of sending in documents</a> NPR: A new executive order from President Biden is designed to streamline the process for things like contacting the IRS, enrolling in Social Security online and, yes, renewing your passport. 
+ <p class="updated_time"> 09:32 AM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/white-house-lead-pipe-removal-effort/index.html">Harris announces administration's new lead pipe and paint removal effort</a> CNN: Vice President Kamala Harris plans to announce a new administration push to eliminate lead from water pipes and homes during remarks Thursday in Washington, according to senior administration officials. 
  <p class="updated_time"> 09:31 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/jill-biden-showing-up/index.html">Jill Biden says administration will keep 'showing up' to help communities heal from tragedies</a> CNN: First lady Jill Biden wants the American people to know that the first family is there for them. 
  <p class="updated_time"> 07:22 AM CT, Dec. 16 </p> 
@@ -390,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/us/politics/michelle-kwan-caroline-kennedy-ambassador.html">Biden Taps Michelle Kwan and Caroline Kennedy for Ambassador Posts</a> NYT: Ms. Kennedy, nominated to be ambassador to Australia, and Ms. Kwan, nominated to be the envoy to Belize, were prominent Biden supporters during the 2020 campaign season. 
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats’ filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
- <p class="updated_time"> 05:31 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/omicron-delta-covid-19-what-matters/index.html">Preparing for a Delta/Omicron double surge</a> CNN: Colleges sending students home. Sports leagues canceling games and scrambling to deal with Covid-19 outbreaks. States returning to mask requirements. 
  <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/trump-january-6-obstruction-law-524806">Jan. 6 investigators mull whether Trump violated obstruction law</a> Politico: Rep. Liz Cheney (R-Wyo.) raised the question using precise terminology from the criminal statute that some view as possibly applicable to the former president's actions. 
  <p class="updated_time"> 05:04 PM CT, Dec. 15 </p> 
