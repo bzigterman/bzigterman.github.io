@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:45 PM CT, Dec. 17 </p> 
+ <p class="updated_time"> 03:04 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Moscow masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected. 
  <p class="updated_time"> 02:40 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59703611?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Epstein's ex testifies for the defence</a> BBC: Eva Andersson-Dubin has defended her sex offender ex in the past and denies knowledge of his crimes. 
+ <p class="updated_time"> 02:37 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59691902?at_medium=RSS&at_campaign=KARANGA">Kim Potter: 'Taser mix-up' ex-officer weeps in manslaughter testimony</a> BBC: Kim Potter testified at her manslaughter trial about the "chaotic" fatal shooting of Daunte Wright. 
  <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
  <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/17/1064946655/coronavirus-faq-is-it-ok-for-the-kids-to-take-a-pic-with-santa">Coronavirus FAQ: Is it OK for the kids to take a pic with Santa? </a> NPR: Plus: Is it safe to go to a holiday party if not everyone is vaccinated? And are people getting different side effects from the COVID booster? 
+ <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59692855?at_medium=RSS&at_campaign=KARANGA">Gardener Omar Raddad wins fight to re-open notorious murder case</a> BBC: A Moroccan gardener convicted of the notorious killing of a French heiress is fighting to clear his name. 
  <p class="updated_time"> 01:19 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/south-africa-omicron-hospitalizations.html">South Africa Hospitalizations Lower in Omicron Wave, but Caveats Apply</a> NYT: Researchers warned that the epicenter of the country’s outbreak is more highly vaccinated than others, and that natural immunity is also high. 
  <p class="updated_time"> 01:13 PM CT, Dec. 17 </p> 
@@ -89,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/health/coronavirus-omicron-variant.html">Scientists Are Racing to Gauge the Threat of Omicron</a> NYT: The variant will spread quickly through the United States, experts say. What happens after that is less certain. 
  <p class="updated_time"> 08:51 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html">Hu Xijin, Chief of China's Global Times, Will Retire</a> NYT: Mr. Hu, editor of the Communist Party tabloid Global Times, set the tone for a new generation of Chinese pundits with his flair for verbal combat. 
- <p class="updated_time"> 08:25 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59692846?at_medium=RSS&at_campaign=KARANGA">Rust: Police obtain search warrant for Alec Baldwin's phone</a> BBC: Police investigating the fatal shooting on the Rust film set obtain a warrant for the actor's phone. 
  <p class="updated_time"> 08:02 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Recommends Pfizer or Moderna Vaccines Over J.&J</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
  <p class="updated_time"> 08:01 PM CT, Dec. 16 </p> 
@@ -161,12 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
  <p class="updated_time"> 11:42 PM CT, Dec. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59667108?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Lost photos found 140 miles away</a> BBC: How a photo found on a Kentucky farm is being returned to its owner thanks to social media sleuths. 
- <p class="updated_time"> 06:13 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/business-59624540?at_medium=RSS&at_campaign=KARANGA">'If you eat here, you're dining with rats'</a> BBC: Some New Yorkers are cooling on the craze for street-side restaurant sheds, due to noise and vermin. 
- <p class="updated_time"> 06:05 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59634393?at_medium=RSS&at_campaign=KARANGA">What's behind suicides by thousands of Indian housewives?</a> BBC: Indian women make up 36% of all global suicides in the 15 to 39 years age group. 
- <p class="updated_time"> 05:30 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59518628?at_medium=RSS&at_campaign=KARANGA">Afghanistan: What humanitarian aid is getting in?</a> BBC: Millions of people are at risk of starvation as a result of harsh winter conditions and economic collapse. 
  <p class="updated_time"> 05:20 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/theater/selling-kabul-afghanistan-sylvia-khoury.html">‘Selling Kabul’ Holds Up a New Mirror After the Taliban Takeover</a> NYT: Sylvia Khoury’s play, which takes place over one night in Afghanistan in 2013, has only deepened after a pandemic postponement. 
  <p class="updated_time"> 04:49 PM CT, Dec. 15 </p> 
@@ -214,8 +210,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:45 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/southwest-airlines-ceo-positive-covid-test-525280">Southwest CEO tests positive for Covid-19</a> Politico: Southwest CEO Gary Kelly has tested positive for Covid-19 days after he testified before the Senate Commerce Committee. 
+ <p class="updated_time"> 03:09 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/january-6-committee-alex-jones-deposition-postponed/index.html">House January 6 committee postpones deposition for conspiracy theorist Alex Jones</a> CNN: The House select committee investigating the January 6 riot has postponed its scheduled deposition of noted conspiracy theorist and right-wing internet personality Alex Jones, according to an aide for the panel. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
+ <p class="updated_time"> 02:58 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/rick-perry-jan-6-text-mark-meadows-nov-4/index.html">Jan 6 investigators believe Nov. 4 text pushing 'strategy' to undermine election came from Rick Perry  </a> CNN: Members of the House Select Committee investigating the January 6 attack on the US Capitol believe that former Texas Governor and Trump Energy Secretary Rick Perry was the author of a text message sent to then-White House chief of staff Mark Meadows the day after the 2020 election pushing an "AGRESSIVE (sic) STRATEGY" for three state legislatures to ignore the will of their voters and deliver their states' electors to Donald Trump, three sources familiar with the House Committee investigation tell CNN. 
  <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
  <p class="updated_time"> 02:52 PM CT, Dec. 17 </p> 
@@ -250,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/17/1065134885/roger-stone-appears-before-jan-6-panel-and-pleads-the-fifth">Roger Stone appears before Jan. 6 panel and pleads the Fifth</a> NPR: The panel said Stone participated in "Stop the Steal" efforts related to the 2020 election. The political operative said he knows "nothing whatsoever about the illegal events that day." 
  <p class="updated_time"> 09:48 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/virginia-democrats-abortion.html">Protect Abortion Rights? Virginia Democrats’ Vacation Plans Get in the Way.</a> NYT: Some Virginia Democrats want to codify abortion rights into state law in their final weeks in power. But several state senators do not want to upend their travel to Hawaii, Europe and Africa. 
- <p class="updated_time"> 09:44 AM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/us-emergency-directive-software-flaw/index.html">US issues 'emergency directive' ordering government agencies to address critical software flaw</a> CNN: US cybersecurity officials on Friday issued an "emergency directive" ordering all federal civilian agencies to quickly address a critical software flaw that is impacting big tech firms around the world. 
  <p class="updated_time"> 09:00 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/house-committee-trump-covid-19/index.html">House oversight committee releases report detailing efforts of Trump administration officials to 'undermine' Covid-19 efforts in US</a> CNN: Trump administration officials made "deliberate efforts to undermine the nation's coronavirus response for political purposes," a House oversight committee led by Democrats said in a report released Friday. 
  <p class="updated_time"> 08:59 AM CT, Dec. 17 </p> 
@@ -264,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/17/politics/cnn-poll-covid-pandemic/index.html">Nearly 4 in 10 Americans think Covid-19 precautions are here to stay, but others have already returned to their pre-pandemic normal</a> CNN: Most of the public continues to take precautions to guard against the risks of Covid-19 and nearly 4 in 10 Americans think they'll continue doing so for the foreseeable future, according to a new CNN Poll conducted by SSRS. 
  <p class="updated_time"> 06:04 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/17/this-is-a-real-f-ing-problem-495509"> ‘This is a real f---ing problem’</a> Politico Playbook: And President Joe Biden concedes that the BBB will be delayed. 
- <p class="updated_time"> 06:04 AM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/brooks-trump-alabama-senate-race/index.html">In Alabama, Brooks looks to redeem himself with Trump amid campaign struggles </a> CNN: Just before Donald Trump took the stage at an August rally in Alabama that was meant to boost GOP Rep. Mo Brooks' US Senate bid, the former President ran into one of Brooks' primary opponents offstage. 
  <p class="updated_time"> 05:12 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/omicron-biden-covid-politics/index.html">Omicron battle brings delicate questions for a weary nation</a> CNN: The Omicron winter is coming. 
  <p class="updated_time"> 05:01 AM CT, Dec. 17 </p> 
@@ -328,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/jan-6-meadows-525172">Jan. 6 committee subpoenas author of debunked election-fraud PowerPoint sent to Meadows</a> Politico: James P. “Phil” Waldron, a retired Army colonel, is asked to provide documents by Jan. 10 and sit for a deposition. 
  <p class="updated_time"> 05:30 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/democrats-latinos.html">Democrats Find Urgent New Reasons to Worry About Latino Voters</a> NYT: Two reports shed light on the issues driving Hispanic voters and why their support of the Democratic Party is eroding. 
- <p class="updated_time"> 05:30 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/voting-rights-senate-sinema-manchin/index.html">Analysis: Here's why voting rights legislation isn't going anywhere this year</a> CNN: With chances for passage of the Build Back Better Act dimming by the day, the Biden administration and prominent Democrats have made a quick pivot -- insisting that now is the moment to pass voting rights protection through Congress.   
  <p class="updated_time"> 05:30 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/joe-biden-warning-winter/index.html">Biden warns of winter of 'severe illness and death' for unvaccinated due to Omicron </a> CNN: President Joe Biden said on Thursday warned people who are not vaccinated against Covid-19 are looking at a very bleak and dangerous winter if they do not get their shots soon. 
  <p class="updated_time"> 05:03 PM CT, Dec. 16 </p> 
@@ -400,6 +394,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/eric-adams-mayor-health-new-york-524802">Meatless Mondays and the evils of olive oil: Eric Adams wants to put New York on a diet</a> Politico: “We can save more lives with plant-based diet if people would only realize they are enslaved to fats, oil, sugar and things that are killing their body,” Adams said in a short 2018 film. 
  <p class="updated_time"> 04:01 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/health-care-spending-increase-pandemic-524793">Health spending growth more than doubled in first year of pandemic</a> Politico: Nearly the entire increase came from the burst of federal spending as the government mobilized to contain the spread of the virus. 
+ <p class="updated_time"> 03:55 PM CT, Dec. 15 </p> 
+ <a href="https://www.cnn.com/2021/12/15/politics/us-define-statelessness/index.html">US promises to define 'statelessness,' a first for the federal government </a> CNN: The United States is committing for the first time to defining "statelessness" and increasing protections for stateless people in the US, the Department of Homeland Security announced Wednesday. 
  <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
  <p class="updated_time"> 07:35 AM CT, Dec. 15 </p> 
