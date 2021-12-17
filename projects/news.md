@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:24 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Russia masses troops on the border with Ukraine, was directed at the United States and Ukraine’s other Western allies. 
+ <p class="updated_time"> 09:18 AM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html">‘They Were Just Gone’: Two Baby Boys Survive Tornado in Kentucky</a> NYT: Without a basement, Clara Lutz of Barnsley, Ky., sheltered her infant grandsons in the bathtub for safety. A powerful tornado pulled the tub from her grip and sent the babies flying. 
+ <p class="updated_time"> 09:07 AM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Russia masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected. 
+ <p class="updated_time"> 08:32 AM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59696450?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Moscow lists demands for defusing Ukraine tensions</a> BBC: Moscow says Nato should abandon hopes of Ukraine joining and Nato states should get rid of weapons. 
  <p class="updated_time"> 08:17 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59663831?at_medium=RSS&at_campaign=KARANGA">Japan: At least 27 feared dead in Osaka building fire</a> BBC: Police are looking into the possibility that the blaze was deliberately started, local media report. 
  <p class="updated_time"> 08:11 AM CT, Dec. 17 </p> 
@@ -123,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/16/1064793380/passport-renewal-online-president-biden-executive-order">You may soon be able to renew your passport online, instead of sending in documents</a> NPR: A new executive order from President Biden is designed to streamline the process for things like contacting the IRS, enrolling in Social Security online and, yes, renewing your passport. 
  <p class="updated_time"> 09:56 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/italy-alps-bolzano-covid-vaccination.html">In Italy’s Alps, Traditional Medicine Flourishes, as Does Covid</a> NYT: The province of Bolzano has the country’s highest level of coronavirus infection and lowest vaccination rate, as many people there prefer to rely on the pure air and herbal remedies. 
- <p class="updated_time"> 09:18 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html">‘They Were Just Gone’: Two Baby Boys Survive Tornado in Kentucky</a> NYT: Without a basement, Clara Lutz of Barnsley, Ky., sheltered her infant grandsons in the bathtub for safety. A powerful tornado pulled the tub from her grip and sent the babies flying. 
  <p class="updated_time"> 08:28 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
  <p class="updated_time"> 06:55 AM CT, Dec. 16 </p> 
@@ -204,14 +206,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:00 AM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/house-committee-trump-covid-19/index.html">House oversight committee releases report detailing efforts of Trump administration officials to 'undermine' Covid-19 efforts in US</a> CNN: Trump administration officials made "deliberate efforts to undermine the nation's coronavirus response for political purposes," a House oversight committee led by Democrats said in a report released Friday. 
+ <p class="updated_time"> 08:59 AM CT, Dec. 17 </p> 
+ <a href="https://www.npr.org/2021/12/17/1064931612/biden-harris-lead-pipes-paint-replacement-plan">Lead pipes have contaminated water for decades. Biden's new plan will replace them</a> NPR: The White House released an action plan to replace lead pipes and lead paint in the U.S. within the next decade. Lead contamination is known to have detrimental effects on the brain and kidneys. 
  <p class="updated_time"> 08:27 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/biden-south-carolina-commencement-address/index.html">Biden to make 'passionate case' for voting rights during commencement address in South Carolina, Psaki says</a> CNN: President Joe Biden on Friday will make a "passionate case" for voting rights legislation that remains stalled in Congress due to Republican opposition when he delivers the commencement address at a historically Black university in South Carolina, White House press secretary Jen Psaki said. 
  <p class="updated_time"> 08:20 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/russia-troops-ukraine-border-biden/index.html">Russia continues to amass new troops near Ukraine's border despite Biden urging Putin to de-escalate tensions </a> CNN: Russia has continued to amass new troops near Ukraine's border in recent days, despite President Joe Biden urging Russian President Vladimir Putin to de-escalate tensions during a virtual meeting last week. 
  <p class="updated_time"> 08:10 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/pfizer-vaccine-approval-kids-525254">Pfizer and BioNTech ask FDA to approve their Covid-19 vaccine for kids as young as 12</a> Politico: The companies submitted Phase III clinical trial data to FDA as a supplemental application for their vaccine, which is already approved for adults and children as young as 16. 
- <p class="updated_time"> 07:53 AM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/house-committee-trump-covid-19/index.html">House oversight committee releases report detailing efforts of Trump administration officials to 'undermine' Covid-19 efforts in US</a> CNN: Trump administration officials made "deliberate efforts to undermine the nation's coronavirus response for political purposes," a House oversight committee led by Democrats said in a report released Friday. 
  <p class="updated_time"> 07:42 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/17/immigration-axed-and-bidens-big-bill-pushed-to-2022-495512">Immigration axed and Biden’s big bill pushed to 2022</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:38 AM CT, Dec. 17 </p> 
@@ -324,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/16/1064927774/democrats-forced-to-regroup-as-bidens-signature-spending-bill-stalls">Democrats are forced to regroup as Biden's signature spending bill stalls</a> NPR: For weeks, Senate Majority Leader Chuck Schumer had promised a vote on Biden's social and climate agenda before Christmas. But all 50 senators in caucus have not been able to unify behind the plan. 
  <p class="updated_time"> 02:52 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/congress-uyghur-forced-labor.html">Congress Passes Ban on Goods From China's Xinjiang Region</a> NYT: President Biden is expected to sign the bill, which drew a fierce corporate lobbying campaign against it. 
- <p class="updated_time"> 02:47 PM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/swedish-commander-us-troops-russia-ukraine-crisis-525135">Swedish commander: U.S. should add troops in Europe if Russia-Ukraine crisis deepens</a> Politico: Biden has all but ruled out sending American forces directly to fight. 
  <p class="updated_time"> 02:28 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/trump-lawsuits-january-hearings/index.html">Judge sets January arguments for lawsuits seeking to hold Trump accountable for US Capitol riot</a> CNN: Three lawsuits that seek to hold Donald Trump and his closest advisers accountable for the US Capitol riot are moving forward after months of inaction. 
  <p class="updated_time"> 02:27 PM CT, Dec. 16 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/build-back-better-progressives-power-524783">‘Know when to hold and know when to fold’: Progressives accept limits of their power</a> Politico: House liberals dug in hard this year on social spending. Whatever Sen. Joe Manchin (D-W.Va.) does, they're ready to declare a win. 
  <p class="updated_time"> 04:16 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/michelle-kwan-caroline-kennedy-ambassador/index.html">Biden picks Michelle Kwan to be ambassador to Belize and Caroline Kennedy to be ambassador to Australia</a> CNN: President Joe Biden on Wednesday announced his intention to nominate Michelle Kwan, a former Olympic figure skater and longtime Democratic activist, to serve as ambassador to Belize. 
- <p class="updated_time"> 04:09 AM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064751751/examining-the-impact-from-this-weeks-capitol-attack-revelations">Examining the impact from this week's revelations from the Capitol attack</a> NPR: NPR's Steve Inskeep talks to Jonah Goldberg of the conservative news site The Dispatch, about revelations from the House panels' investigation into the Jan. 6 attack on the U.S. Capitol. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/trump-subpoenas.html">Facing Subpoenas, Trump Allies Try to Run Out the Clock on Democrats</a> NYT: Democrats hope a Biden Justice Department can speed up legal action, but Donald J. Trump and his allies are proving adept at using judicial delay to withhold information from Congress. 
  <p class="updated_time"> 08:55 PM CT, Dec. 15 </p> 
@@ -384,6 +384,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/trump-january-6-obstruction-law-524806">Jan. 6 investigators mull whether Trump violated obstruction law</a> Politico: Rep. Liz Cheney (R-Wyo.) raised the question using precise terminology from the criminal statute that some view as possibly applicable to the former president's actions. 
  <p class="updated_time"> 05:04 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/omicron-covid-testing-524820">HHS forecast shows Omicron stretching U.S. Covid testing supply</a> Politico: The nation's supply could be stretched by the need to conduct 3 to 5 million tests per day by late January or early February. 
+ <p class="updated_time"> 04:45 PM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/news/2021/12/15/eric-adams-mayor-health-new-york-524802">Meatless Mondays and the evils of olive oil: Eric Adams wants to put New York on a diet</a> Politico: “We can save more lives with plant-based diet if people would only realize they are enslaved to fats, oil, sugar and things that are killing their body,” Adams said in a short 2018 film. 
  <p class="updated_time"> 04:01 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/health-care-spending-increase-pandemic-524793">Health spending growth more than doubled in first year of pandemic</a> Politico: Nearly the entire increase came from the burst of federal spending as the government mobilized to contain the spread of the virus. 
  <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
