@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:47 AM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59696503?at_medium=RSS&at_campaign=KARANGA">Two teens slide to safety from fourth floor New York apartment fire</a> BBC: Watch this dramatic video of them escaping through a window and sliding down a pole to the ground. 
  <p class="updated_time"> 07:19 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Russia masses troops on the border with Ukraine, was directed at the United States and Ukraine’s other Western allies. 
  <p class="updated_time"> 07:07 AM CT, Dec. 17 </p> 
@@ -112,7 +114,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:31 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/suicide-pods-switzerland.html">A 3-D Printed Pod Inflames the Assisted Suicide Debate</a> NYT: The pod, known as Sarco, was conceived as a way for people to end their lives without involving a doctor. A plan to introduce it in Switzerland has raised alarm even among right-to-die advocates. 
  <p class="updated_time"> 11:18 AM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064847616/tasmania-bouncy-castle-accident">A wind gust swept a bouncy castle in Tasmania 30 feet in the air, killing 5 children</a> NPR: Four children remain hospitalized, with three in critical condition and one in serious condition, at an end-of-year celebration at Hillcrest Primary School in the Australian state, authorities say. 
+ <a href="https://www.npr.org/2021/12/16/1064847616/tasmania-bouncy-castle-accident">A wind gust swept a bouncy castle in Tasmania 30 feet in the air, killing 5 children</a> NPR: Authorities say three children remain hospitalized in critical condition after the incident, which happened at an end-of-year celebration at Hillcrest Primary School in the Australian state. 
  <p class="updated_time"> 11:06 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/middleeast/turkish-lira-currency-erdogan-turkey.html">Turkish Currency Hits a New Low, Again</a> NYT: The Central Bank has cut interest rates, even as inflation continues to soar, deepening President Erdogan’s disputed economic plan and setting off a new plunge in the lira. 
  <p class="updated_time"> 10:54 AM CT, Dec. 16 </p> 
@@ -127,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
  <p class="updated_time"> 06:55 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/queen-elizabeth-christmas-lunch-canceled-covid.html">Queen Elizabeth cancels traditional pre-Christmas lunch as cases surge in England.</a> NYT: Palace officials said it was a precautionary measure to avoid putting royal family members at risk by bringing a large group together at Windsor Castle. 
- <p class="updated_time"> 06:03 AM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59683538?at_medium=RSS&at_campaign=KARANGA">Santa Claus delivers presents to children in Peru... via a fire ladder</a> BBC: This Santa Claus in Lima, Peru, uses a special way to deliver presents to children with Covid. 
  <p class="updated_time"> 04:48 AM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064760503/vaccine-skeptics-in-eastern-europe-are-having-a-change-of-heart">Vaccine skeptics in Eastern Europe are having a change of heart</a> NPR: With surging coronavirus infections and countries making it more difficult for the unvacccinated to travel, some vaccine skeptics are now coming around. 
  <p class="updated_time"> 04:26 AM CT, Dec. 16 </p> 
