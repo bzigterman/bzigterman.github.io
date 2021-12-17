@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:09 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/16/arts/design/latino-art-exhibitions-new-york.html">Expanding the Scope of ‘Latin American Art’</a> NYT: Eight not-to-be-missed shows offer scores of creators and local art traditions from New York, Puerto Rico and the Caribbean, Mexico and South America. 
- <p class="updated_time"> 10:04 AM CT, Dec. 17 </p> 
+ <p class="updated_time"> 10:32 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Moscow masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected. 
+ <p class="updated_time"> 10:27 AM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/middleeast/iran-covid-trial-khamenei.html">‘Health Defenders’ Jailed in Iran Wanted to Sue Supreme Leader Over Covid</a> NYT: Two lawyers and a civil rights activist who were outspoken about Iran’s chaotic response to the pandemic and delays in its vaccine rollout are on trial now, charged with threatening national security. 
+ <p class="updated_time"> 10:24 AM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/asia/myanmar-journalist-kyaw-torture.html">‘I Didn’t Look Like a Human’: Journalist Tells of Myanmar Torture</a> NYT: When Ko Aung Kyaw erased his cellphone contacts to protect his sources, he knew his interrogators would make him pay a horrific price. He did it anyway. 
  <p class="updated_time"> 10:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/japan-fire-osaka.html">Japan Fire May Have Killed Dozens, With Arson Suspected</a> NYT: The fire consumed the fourth floor of the building in Osaka, which housed a medical office. 
  <p class="updated_time"> 09:29 AM CT, Dec. 17 </p> 
@@ -29,8 +31,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59697805?at_medium=RSS&at_campaign=KARANGA">Andry Rajoelina: French nationals sentenced for Madagascar coup plot</a> BBC: The two men are accused of planning to assassinate President Andry Rajoelina. 
  <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated, and at least 17 people died. 
- <p class="updated_time"> 05:01 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/omicron-seen-doubling-every-1-days-in-parts-of-u-k-11639747057">Omicron Seen Doubling Every 1½ Days in Parts of U.K.</a> WSJ: The Omicron variant continued its rapid spread in the U.K., while South Africa reported significantly lower Covid-19 hospital admission rates than earlier in the pandemic despite a surge of infections. 
+ <p class="updated_time"> 05:20 AM CT, Dec. 17 </p> 
+ <a href="https://www.wsj.com/articles/omicron-seen-doubling-every-1-days-in-parts-of-u-k-11639747057">Omicron Variant's Rapid Spread Triggers New Precautions</a> WSJ: The Omicron variant continued its rapid spread in the U.K., while South Africa reported significantly lower Covid-19 hospital admission rates than earlier in the pandemic despite a surge of infections. 
  <p class="updated_time"> 04:28 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59696442?at_medium=RSS&at_campaign=KARANGA">Sweden's Gavle Christmas goat torched... again</a> BBC: A giant straw goat that is an annual highlight in the city of Gavle is burned down by an arsonist. 
  <p class="updated_time"> 04:07 AM CT, Dec. 17 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59518628?at_medium=RSS&at_campaign=KARANGA">Afghanistan: What humanitarian aid is getting in?</a> BBC: Millions of people are at risk of starvation as a result of harsh winter conditions and economic collapse. 
  <p class="updated_time"> 05:20 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/theater/selling-kabul-afghanistan-sylvia-khoury.html">‘Selling Kabul’ Holds Up a New Mirror After the Taliban Takeover</a> NYT: Sylvia Khoury’s play, which takes place over one night in Afghanistan in 2013, has only deepened after a pandemic postponement. 
- <p class="updated_time"> 05:13 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/africa/ethiopia-abiy-ahmed-nobel-war.html">The Nobel Peace Prize That Paved the Way for War in Ethiopia</a> NYT: This is the story behind how Ethiopia’s prime minister, Abiy Ahmed, won a Nobel Prize for making peace with his country’s longtime enemy — and then used the alliance to plan a war. 
  <p class="updated_time"> 04:49 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/coronavirus-omicron-vaccines-wave.html">Coronavirus Briefing: Omicron vs. vaccines</a> NYT: And the coming Omicron wave. 
  <p class="updated_time"> 03:44 PM CT, Dec. 15 </p> 
@@ -206,6 +206,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:44 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/house-democrats-elections-dccc-525258">‘This is a real f---ing problem’: Vulnerable House Dems tee off on DCCC</a> Politico: Multiple at-risk Democrats tell POLITICO that the campaign committee has adopted a midterms strategy that is hurting, not helping, their reelections. 
+ <p class="updated_time"> 10:43 AM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/russia-troops-ukraine-border-biden/index.html">Russia continues to amass new troops near Ukraine's border despite Biden urging Putin to de-escalate tensions </a> CNN: Russia has continued to amass new troops near Ukraine's border in recent days, despite President Joe Biden urging Russian President Vladimir Putin to de-escalate tensions during a virtual meeting last week. 
+ <p class="updated_time"> 10:32 AM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/roger-stone-january-6-committee/index.html">Trump ally Roger Stone pleads the Fifth in deposition with January 6 committee</a> CNN: Roger Stone, a staunch ally of former President Donald Trump, met briefly Friday with the House select committee investigating the January 6 riot and asserted his Fifth Amendment rights to every question asked, he said. 
+ <p class="updated_time"> 10:19 AM CT, Dec. 17 </p> 
+ <a href="https://www.npr.org/2021/12/17/1065134885/roger-stone-appears-before-jan-6-panel-and-pleads-the-fifth">Roger Stone appears before Jan. 6 panel and pleads the Fifth</a> NPR: The panel said Stone participated in "Stop the Steal" efforts related to the 2020 election. The political operative said he knows "nothing whatsoever about the illegal events that day." 
+ <p class="updated_time"> 10:17 AM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/biden-south-carolina-commencement-address/index.html">Biden to make 'passionate case' for voting rights during commencement address in South Carolina, Psaki says</a> CNN: President Joe Biden on Friday will make a "passionate case" for voting rights legislation that remains stalled in Congress due to Republican opposition when he delivers the commencement address at a historically Black university in South Carolina, White House press secretary Jen Psaki said. 
  <p class="updated_time"> 09:48 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/virginia-democrats-abortion.html">Protect Abortion Rights? Virginia Democrats’ Vacation Plans Get in the Way.</a> NYT: Some Virginia Democrats want to codify abortion rights into state law in their final weeks in power. But several state senators do not want to upend their travel to Hawaii, Europe and Africa. 
  <p class="updated_time"> 09:44 AM CT, Dec. 17 </p> 
@@ -214,10 +222,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/17/politics/house-committee-trump-covid-19/index.html">House oversight committee releases report detailing efforts of Trump administration officials to 'undermine' Covid-19 efforts in US</a> CNN: Trump administration officials made "deliberate efforts to undermine the nation's coronavirus response for political purposes," a House oversight committee led by Democrats said in a report released Friday. 
  <p class="updated_time"> 08:59 AM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1064931612/biden-harris-lead-pipes-paint-replacement-plan">Lead pipes have contaminated water for decades. Biden's new plan will replace them</a> NPR: The White House released an action plan to replace lead pipes and lead paint in the U.S. within the next decade. Lead contamination is known to have detrimental effects on the brain and kidneys. 
- <p class="updated_time"> 08:27 AM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/biden-south-carolina-commencement-address/index.html">Biden to make 'passionate case' for voting rights during commencement address in South Carolina, Psaki says</a> CNN: President Joe Biden on Friday will make a "passionate case" for voting rights legislation that remains stalled in Congress due to Republican opposition when he delivers the commencement address at a historically Black university in South Carolina, White House press secretary Jen Psaki said. 
- <p class="updated_time"> 08:20 AM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/russia-troops-ukraine-border-biden/index.html">Russia continues to amass new troops near Ukraine's border despite Biden urging Putin to de-escalate tensions </a> CNN: Russia has continued to amass new troops near Ukraine's border in recent days, despite President Joe Biden urging Russian President Vladimir Putin to de-escalate tensions during a virtual meeting last week. 
  <p class="updated_time"> 08:10 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/pfizer-vaccine-approval-kids-525254">Pfizer and BioNTech ask FDA to approve their Covid-19 vaccine for kids as young as 12</a> Politico: The companies submitted Phase III clinical trial data to FDA as a supplemental application for their vaccine, which is already approved for adults and children as young as 16. 
  <p class="updated_time"> 07:42 AM CT, Dec. 17 </p> 
@@ -257,7 +261,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:56 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/phil-waldron-jan-6.html">Jan. 6 Panel Subpoenas Retired Colonel Who Shared Plan to Overturn Election</a> NYT: Phil Waldron has been under scrutiny since a 38-page PowerPoint he circulated was turned over to the panel by former President Donald J. Trump’s last chief of staff. 
  <p class="updated_time"> 10:53 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-immigration-build-back-better.html">Biden Concedes Social Policy Bill Is Stalled as Immigration Plan Falters</a> NYT: A top Senate official ruled that a measure to grant legal status to millions of undocumented immigrants must come out of the plan, as President Biden said a final deal would take more time. 
+ <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-immigration-build-back-better.html">Biden Says Build Back Better Bill Will Take More Time</a> NYT: A top Senate official ruled that a measure to grant legal status to millions of undocumented immigrants must come out of the plan, as President Biden said a final deal would take more time. 
  <p class="updated_time"> 10:27 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/senate-confirms-bidens-joint-chiefs-pick-525239">Senate confirms Biden's Joint Chiefs pick</a> Politico: Adm. Christopher Grady most recently led the Navy's Fleet Forces Command, which is tasked with ensuring the fleet is manned, trained and equipped before deploying. 
  <p class="updated_time"> 10:17 PM CT, Dec. 16 </p> 
@@ -330,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/16/1064927774/democrats-forced-to-regroup-as-bidens-signature-spending-bill-stalls">Democrats are forced to regroup as Biden's signature spending bill stalls</a> NPR: For weeks, Senate Majority Leader Chuck Schumer had promised a vote on Biden's social and climate agenda before Christmas. But all 50 senators in caucus have not been able to unify behind the plan. 
  <p class="updated_time"> 02:52 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/congress-uyghur-forced-labor.html">Congress Passes Ban on Goods From China's Xinjiang Region</a> NYT: President Biden is expected to sign the bill, which drew a fierce corporate lobbying campaign against it. 
- <p class="updated_time"> 02:28 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/trump-lawsuits-january-hearings/index.html">Judge sets January arguments for lawsuits seeking to hold Trump accountable for US Capitol riot</a> CNN: Three lawsuits that seek to hold Donald Trump and his closest advisers accountable for the US Capitol riot are moving forward after months of inaction. 
  <p class="updated_time"> 02:27 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064817505/medal-of-honor-iraq-afghanistan-cashe-celiz-plumlee-biden">Biden awards Medals of Honor to 3 soldiers who served in Iraq and Afghanistan</a> NPR: The medals were given for acts of "gallantry and intrepidity above and beyond the call of duty." Two were awarded posthumously, including one to the first Black recipient since the Vietnam War. 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
@@ -358,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/16/will-democrats-get-coal-instead-of-passed-bills-in-their-stockings-495491">Will Democrats get coal instead of passed bills in their stockings?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/16/manchinemas-christmas-present-to-dems-a-blunt-reality-check-495489"> Manchinema’s Christmas present to Dems: A blunt reality check</a> Politico Playbook: And Kevin McCarthy faces pressure to punish Liz Cheney and Adam Kinzinger. 
- <p class="updated_time"> 06:13 AM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064751681/ahead-of-midterms-the-gops-extreme-wing-in-the-house-worries-republicans">Ahead of midterms, the GOP's extreme wing in the House worries Republicans</a> NPR: House Republicans are in a strong position to win back control of the chamber but divisions threaten to throw the party off message. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-gohmert-lawsuit-pence-524839">The Jan. 6 puzzle piece that's going largely ignored</a> Politico: Rep. Louie Gohmert  sued then-Vice President Mike Pence on Dec. 27. Donald Trump’s involvement in the case remains unclear. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
