@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:29 AM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59696450?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Moscow lists demands for defusing Ukraine tensions</a> BBC: Moscow says Nato should abandon hopes of Ukraine joining and Nato states should get rid of weapons. 
  <p class="updated_time"> 09:18 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html">‘They Were Just Gone’: Two Baby Boys Survive Tornado in Kentucky</a> NYT: Without a basement, Clara Lutz of Barnsley, Ky., sheltered her infant grandsons in the bathtub for safety. A powerful tornado pulled the tub from her grip and sent the babies flying. 
  <p class="updated_time"> 09:07 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Russia masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected. 
- <p class="updated_time"> 08:32 AM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59696450?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Moscow lists demands for defusing Ukraine tensions</a> BBC: Moscow says Nato should abandon hopes of Ukraine joining and Nato states should get rid of weapons. 
  <p class="updated_time"> 08:17 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59663831?at_medium=RSS&at_campaign=KARANGA">Japan: At least 27 feared dead in Osaka building fire</a> BBC: Police are looking into the possibility that the blaze was deliberately started, local media report. 
  <p class="updated_time"> 08:11 AM CT, Dec. 17 </p> 
@@ -25,44 +25,44 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59697805?at_medium=RSS&at_campaign=KARANGA">Andry Rajoelina: French nationals sentenced for Madagascar coup plot</a> BBC: The two men are accused of planning to assassinate President Andry Rajoelina. 
  <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated, and at least 17 people died. 
+ <p class="updated_time"> 04:34 AM CT, Dec. 17 </p> 
+ <a href="https://www.wsj.com/articles/omicron-seen-doubling-every-1-days-in-parts-of-u-k-11639747057">Omicron Seen Doubling Every 1½ Days in Parts of U.K.</a> WSJ: The Omicron variant continued its rapid spread in the U.K., while South Africa reported significantly lower Covid-19 hospital admission rates than earlier in the pandemic despite a surge of infections. 
  <p class="updated_time"> 04:28 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59696442?at_medium=RSS&at_campaign=KARANGA">Sweden's Gavle Christmas goat torched... again</a> BBC: A giant straw goat that is an annual highlight in the city of Gavle is burned down by an arsonist. 
  <p class="updated_time"> 04:07 AM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065083119/after-escaping-the-taliban-afghan-music-students-and-teachers-begin-their-new-li">After escaping the Taliban, Afghan music students and teachers begin their new lives</a> NPR: This week, members of the Afghanistan National Institute of Music flew from Doha to Portugal, where they'll rebuild their school — and lives. They describe their escape from Kabul and future hopes. 
  <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/americas/chile-adoption-pinochet.html">Stolen at Birth, Chilean Adoptees Uncover Their Past</a> NYT: Hundreds of Chileans adopted abroad have learned that they were trafficked. Investigators believe thousands of children may have been taken from their parents during Chile’s dictatorship. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
+ <a href="https://www.wsj.com/articles/haitians-hoping-to-reach-u-s-stranded-in-chile-across-americas-11639753203">Haitians Hoping to Reach U.S. Stranded in Chile, Across Americas</a> WSJ: Chile’s presidential vote will decide the fate of the tens of thousands of Haitian migrants living there. If hard-line immigration policies are adopted, many of them might head to the U.S. border. 
+ <p class="updated_time"> 03:59 AM CT, Dec. 17 </p> 
+ <a href="https://www.wsj.com/articles/arson-murder-probe-begins-in-japan-after-fire-kills-24-11639753167">Arson, Murder Probe Begins in Japan After Fire Kills 24</a> WSJ: A man who walked into a busy Japanese mental-health clinic with a paper bag carrying flammable liquid is under investigation for murder and arson. 
+ <p class="updated_time"> 03:56 AM CT, Dec. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-lays-out-security-guarantees-it-wants-from-u-s-europe-11639753002">Russia Lays Out Security Guarantees It Wants from the West</a> WSJ: Russia handed the proposals to the U.S. this week, as the country rebuffed warnings from the U.S. and Europe over what they believe are Moscow’s intentions to invade Ukraine. 
  <p class="updated_time"> 03:55 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59663829?at_medium=RSS&at_campaign=KARANGA">Super typhoon Rai: Philippine tourist island Siargao among areas hit</a> BBC: Power and communications are down on the popular island of Siargao after strong winds and heavy rain. 
  <p class="updated_time"> 03:54 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/ishigaki-japan-missiles-taiwan.html">The Island Paradise Near the Front Line of Tensions Over Taiwan</a> NYT: New missile batteries planned for the Japanese island of Ishigaki reflect a drastic shift in Japan’s views on China. 
+ <p class="updated_time"> 03:46 AM CT, Dec. 17 </p> 
+ <a href="https://www.wsj.com/articles/yemens-houthis-seek-departure-of-top-iranian-diplomat-11639752398">Yemen's Houthis Seek Departure of Top Iranian Diplomat</a> WSJ: A member of Iran’s Revolutionary Guards was smuggled into Yemen last year and named ambassador to Houthi-rebel-controlled areas. Now, the Houthis want to send him back, officials said. 
  <p class="updated_time"> 03:25 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59694671?at_medium=RSS&at_campaign=KARANGA">Karnataka: India lawmaker sorry for 'lie down and enjoy rape' remark</a> BBC: The opposition lawmaker said he didn't intend to insult women after his comment drew outrage. 
  <p class="updated_time"> 03:02 AM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065085132/more-than-20-feared-dead-in-building-fire-in-osaka-japan">More than 20 feared dead in building fire in Osaka, Japan</a> NPR: The fire started on the fourth floor of an eight-story building in the major business and entertainment area of Kitashinchi, fire officials say. Police are investigation arson as a possible cause. 
+ <p class="updated_time"> 02:47 AM CT, Dec. 17 </p> 
+ <a href="https://www.wsj.com/articles/japanese-worker-at-u-s-base-in-japan-diagnosed-with-omicron-after-military-outbreak-11639748240">Japanese Worker at U.S. Base Diagnosed With Omicron</a> WSJ: The variant’s presence raised concerns that Omicron may have gained a footing in Japan. 
  <p class="updated_time"> 02:17 AM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065081902/uk-conservatives-suffer-shock-by-election-loss-in-another-setback-for-boris-john">U.K. Conservatives suffer shock by-election loss in another setback for Boris Johnson</a> NPR: U.K. Prime Minister Boris Johnson's Conservative Party has suffered a stunning defeat in a parliamentary by-election amid weeks of scandal and soaring COVID-19 infections. 
  <p class="updated_time"> 01:22 AM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065078192/afghan-currency-slides-and-prices-surge-as-already-battered-economy-worsens">Afghan currency slides and prices surge as already battered economy worsens</a> NPR: The value of Afghanistan's currency is tumbling, exacerbating a severe economic crisis and deepening poverty in a country where more than half the population already doesn't have enough to eat. 
  <p class="updated_time"> 01:16 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/japan-fire-osaka.html">Japan Fire May Have Killed Dozens, With Arson Suspected</a> NYT: The fire consumed the fourth floor of the building in Osaka, which housed a medical office. 
- <p class="updated_time"> 01:02 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/as-covid-19-cases-multiply-australia-tries-to-change-public-perception-of-the-virus-11639742544">As Covid-19 Cases Multiply, Australia Tries to Change Public Perception of the Virus</a> WSJ: How Australians respond could inform other countries, including many in Asia that also contained the virus during the pandemic by imposing restrictions such as lockdowns and travel bans but worry about the economic damage from those policies. 
- <p class="updated_time"> 12:11 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/japan-fire-leaves-27-feared-dead-in-osaka-11639712535">Fire at Osaka Mental-Health Clinic Kills 24</a> WSJ: Twenty-four people were killed after a fire raced through a mental-health clinic on the fourth floor of an office building in Osaka, Japan, and police said they suspected arson. 
  <p class="updated_time"> 12:11 AM CT, Dec. 17 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-holds-first-election-without-opposition-but-will-people-vote-11639739483">Hong Kong Holds First Election Without Opposition. But Will People Vote?</a> WSJ: Sunday’s election will feature only Beijing-approved candidates, after an overhaul of voting rules and a crackdown on the city’s opposition. 
  <p class="updated_time"> 11:35 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59692552?at_medium=RSS&at_campaign=KARANGA">Bouncy castle fall: Australia mourns 'terrible tragedy' after children killed</a> BBC: Five children died and four others were injured when a wind gust blew away the castle at a school fair. 
- <p class="updated_time"> 11:35 PM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/global-coal-power-expected-to-hit-record-despite-climate-fight-11639737307">Global Coal Power Expected to Hit Record Despite Climate Fight</a> WSJ: Global coal-fired power generation is expected to rise 9% and hit a record by the end of 2021 as electricity demand from the economic recovery outstrips a shift to cleaner energy sources. 
  <p class="updated_time"> 11:30 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/australia/the-giant-who-lives-in-the-melbourne-museum.html">The Giant Who Lives in the Melbourne Museum</a> NYT: The world’s most complete triceratops skeleton ever found will go on display next year, displacing a beloved, if quirky, exhibit of taxidermy. 
- <p class="updated_time"> 11:30 PM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/guam-americas-forgotten-territory-is-new-front-line-against-china-11639737005">Guam Is America's New Front Line Against China</a> WSJ: The remote Pacific island, better known for beaches, is seen as a potential staging ground in any future Asian conflicts. It’s also becoming more vulnerable, U.S. officials say, as China expands its military capabilities. 
- <p class="updated_time"> 10:41 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59692506?at_medium=RSS&at_campaign=KARANGA">In pictures: Crowds celebrate death of Pinochet's widow in Chile</a> BBC: Lucia Hiriart, the widow of the former dictator and a divisive figure in the country, has died at 99. 
- <p class="updated_time"> 10:32 PM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/japans-central-bank-shuns-tightening-trend-citing-lack-of-inflation-11639733579">Japan's Central Bank Shuns Tightening Trend, Citing Lack of Inflation</a> WSJ: Japanese consumers have seen little of the price pressures hitting Americans, with overall consumer prices rising just 0.1% in October compared with the same month a year earlier. 
  <p class="updated_time"> 10:04 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">Bouncy Castle in Tasmania Is Swept by Wind, Killing 5 Children</a> NYT: A gust of wind swept up the inflatable on the last day of school, and the students fell more than 30 feet. Several others were critically injured. 
  <p class="updated_time"> 08:59 PM CT, Dec. 16 </p> 
@@ -71,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html">Hu Xijin, Chief of China's Global Times, Will Retire</a> NYT: Mr. Hu, editor of the Communist Party tabloid Global Times, set the tone for a new generation of Chinese pundits with his flair for verbal combat. 
  <p class="updated_time"> 08:25 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59692846?at_medium=RSS&at_campaign=KARANGA">Rust: Police obtain search warrant for Alec Baldwin's phone</a> BBC: Police investigating the fatal shooting on the Rust film set obtain a warrant for the actor's phone. 
- <p class="updated_time"> 08:10 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59692830?at_medium=RSS&at_campaign=KARANGA">US FDA permanently allows mail-order abortion pills</a> BBC: But the federal move will be overridden by 19 states that already have bans in place. 
  <p class="updated_time"> 08:02 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Recommends Pfizer or Moderna Vaccines Over J.&J</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
  <p class="updated_time"> 08:01 PM CT, Dec. 16 </p> 
@@ -206,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:35 AM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/us/politics/virginia-democrats-abortion.html">Protect Abortion Rights? Virginia Democrats’ Vacation Plans Get in the Way.</a> NYT: Some Virginia Democrats want to codify abortion rights into state law in their final weeks in power. But several state senators do not want to upend their travel to Hawaii, Europe and Africa. 
  <p class="updated_time"> 09:00 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/house-committee-trump-covid-19/index.html">House oversight committee releases report detailing efforts of Trump administration officials to 'undermine' Covid-19 efforts in US</a> CNN: Trump administration officials made "deliberate efforts to undermine the nation's coronavirus response for political purposes," a House oversight committee led by Democrats said in a report released Friday. 
  <p class="updated_time"> 08:59 AM CT, Dec. 17 </p> 
@@ -242,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/17/1065083098/morning-news-brief">News brief: omicron variant, spending bill stalls, abortion pill decision</a> NPR: How bad could the pandemic get this winter because of the omicron variant? One of President Biden's key agenda items is stalled. The FDA relaxes restrictions on access to abortion pill by mail. 
  <p class="updated_time"> 04:02 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/black-history-2021.html">The Biggest Black History Events in 2021</a> NYT: After the tumult and triumphs of 2020, here are the achievements that shaped the first year following the country’s racial reckoning. 
- <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/us/politics/virginia-democrats-abortion.html">Protect Abortion Rights? Virginia Democrats’ Vacation Plans Get in the Way.</a> NYT: Some Virginia Democrats want to codify abortion rights into state law in their final weeks in power. But several state senators do not want to upend their travel to Hawaii, Europe and Africa. 
  <p class="updated_time"> 02:36 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/ashley-biden-project-veritas-diary.html">How Ashley Biden’s Diary Made Its Way to Project Veritas</a> NYT: New details shed light on the federal investigation into the conservative group’s acquisition last year of a journal kept by the president’s daughter. 
  <p class="updated_time"> 02:17 AM CT, Dec. 17 </p> 
