@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:54 AM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/asia/ishigaki-japan-missiles-taiwan.html">The Island Paradise Near the Front Line of Tensions Over Taiwan</a> NYT: New missile batteries planned for the Japanese island of Ishigaki reflect a drastic shift in Japan’s views on China. 
  <p class="updated_time"> 03:25 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59694671?at_medium=RSS&at_campaign=KARANGA">Karnataka: India lawmaker sorry for 'lie down and enjoy rape' remark</a> BBC: The opposition lawmaker said he didn't intend to insult women after his comment drew outrage. 
  <p class="updated_time"> 03:02 AM CT, Dec. 17 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59663831?at_medium=RSS&at_campaign=KARANGA">Japan: At least 27 feared dead in Osaka building fire</a> BBC: Police are looking into the possibility that the blaze was deliberately started, local media report. 
  <p class="updated_time"> 01:22 AM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065078192/afghan-currency-slides-and-prices-surge-as-already-battered-economy-worsens">Afghan currency slides and prices surge as already battered economy worsens</a> NPR: The value of Afghanistan's currency is tumbling, exacerbating a severe economic crisis and deepening poverty in a country where more than half the population already doesn't have enough to eat. 
- <p class="updated_time"> 01:20 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/asia/ishigaki-japan-missiles-taiwan.html">The Island Paradise Near the Front Line of Tensions Over Taiwan</a> NYT: New missile batteries planned for the Japanese island of Ishigaki reflect a drastic shift in Japan’s views on China. 
  <p class="updated_time"> 01:16 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/japan-fire-osaka.html">Japan Fire May Have Killed Dozens, With Arson Suspected</a> NYT: The fire consumed the fourth floor of the building in Osaka, which housed a medical office. 
  <p class="updated_time"> 12:37 AM CT, Dec. 17 </p> 
