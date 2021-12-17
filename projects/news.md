@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:45 PM CT, Dec. 16 </p> 
+ <p class="updated_time"> 10:54 PM CT, Dec. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59692552?at_medium=RSS&at_campaign=KARANGA">Bouncy castle fall: Australia mourns 'terrible tragedy' after children killed</a> BBC: Five children died and four others were injured when a wind gust blew away the castle at a school fair. 
+ <p class="updated_time"> 10:49 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing Blow to Boris Johnson</a> NYT: The governing party lost a district it had represented for more than a century. 
  <p class="updated_time"> 10:41 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59692506?at_medium=RSS&at_campaign=KARANGA">In pictures: Crowds celebrate death of Pinochet's widow in Chile</a> BBC: Lucia Hiriart, the widow of the former dictator and a divisive figure in the country, has died at 99. 
- <p class="updated_time"> 10:40 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59692552?at_medium=RSS&at_campaign=KARANGA">Bouncy castle fall: Australia mourns 'terrible tragedy' after children killed</a> BBC: Five children died and four others were injured when a wind gust blew away the castle at a school fair. 
  <p class="updated_time"> 10:25 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/japan-fire-osaka.html">Japan Fire May Have Killed Dozens, With Arson Suspected</a> NYT: The fire consumed the fourth floor of the building in Osaka, which housed a medical office. 
  <p class="updated_time"> 10:11 PM CT, Dec. 16 </p> 
@@ -202,10 +202,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:56 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/us/politics/phil-waldron-jan-6.html">Jan. 6 Panel Subpoenas Retired Colonel Who Shared Plan to Overturn Election</a> NYT: Phil Waldron has been under scrutiny since a 38-page PowerPoint he circulated was turned over to the panel by former President Donald J. Trump’s last chief of staff. 
+ <p class="updated_time"> 10:53 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-immigration-build-back-better.html">Biden Says Build Back Better Bill Will Take More Time</a> NYT: A top Senate official ruled that a measure to grant legal status to millions of undocumented immigrants must come out of the plan, as President Biden said a final deal would take more time. 
  <p class="updated_time"> 10:27 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/senate-confirms-bidens-joint-chiefs-pick-525239">Senate confirms Biden's Joint Chiefs pick</a> Politico: Adm. Christopher Grady most recently led the Navy's Fleet Forces Command, which is tasked with ensuring the fleet is manned, trained and equipped before deploying. 
- <p class="updated_time"> 10:21 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-immigration-build-back-better.html">Biden Says Build Back Better Bill Will Take More Time</a> NYT: A top Senate official ruled that a measure to grant legal status to millions of undocumented immigrants must come out of the plan, as President Biden said a final deal would take more time. 
  <p class="updated_time"> 10:17 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/economy/omicron-inflation.html">Omicron Is an Economic Threat, but Inflation Is Worse, Central Bankers Say</a> NYT: Within 24 hours, the Federal Reserve, Bank of England and European Central Bank all stepped forward to deal with price increases. 
  <p class="updated_time"> 08:17 PM CT, Dec. 16 </p> 
@@ -260,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/16/politics/senate-democrats-biden-agenda-2022/index.html">'A 50-50 Senate sucks': Dejected Democrats fret over agenda failure amid grim 2022 outlook </a> CNN: Anger is growing in Democratic ranks over the failure to get President Joe Biden's sweeping agenda through this year despite unified control of Congress, with their party already bracing for what could be a brutal Election Day in next November's midterms. 
  <p class="updated_time"> 05:21 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/january-6-committee-subpoena-retired-colonel-power-point/index.html">January 6 committee subpoenas retired colonel who shared election fraud PowerPoint presentation</a> CNN: The House select committee investigating the January 6 attack on the US Capitol announced Thursday that it subpoenaed James P. "Phil" Waldron, a retired Army colonel who spread misinformation about election fraud and circulated a PowerPoint document detailing ways to undermine the 2020 presidential election outcome. 
- <p class="updated_time"> 05:19 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/phil-waldron-jan-6.html">Jan. 6 Panel Subpoenas Retired Colonel Who Shared Plan to Overturn Election</a> NYT: Phil Waldron has been under scrutiny since a 38-page PowerPoint he circulated was turned over to the panel by former President Donald J. Trump’s last chief of staff. 
  <p class="updated_time"> 05:16 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/fda-abortion-pill-loosen-rules-525164">FDA loosens rules for distributing abortion pills, opening new battle fronts</a> Politico: Heightening the stakes is the Supreme Court’s pending decision on Mississippi’s 15-week abortion ban. 
  <p class="updated_time"> 05:03 PM CT, Dec. 16 </p> 
