@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:49 PM CT, Dec. 17 </p> 
+ <a href="https://www.npr.org/2021/12/17/1065312053/typhoon-has-killed-at-least-12-and-displaced-330-000-people-in-the-philippines">Typhoon has killed at least 12 and displaced 330,000 people in the Philippines</a> NPR: At least 12 people are dead and 300,000 were forced to evacuate because of Super Typhoon Rai, the most powerful typhoon to hit the Philippines this year. 
  <p class="updated_time"> 03:33 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065312039/hell-on-earth-afghans-have-to-choose-between-feeding-or-heating-according-to-wfp">'Hell on Earth': Afghans have to choose between feeding or heating, according to WFP</a> NPR: NPR's Mary Louise Kelly speaks with David Beasley, executive director of the World Food Program (WFP), about hunger in Afghanistan. 
  <p class="updated_time"> 03:23 PM CT, Dec. 17 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/queen-elizabeth-christmas-lunch-canceled-covid.html">Queen Elizabeth cancels traditional pre-Christmas lunch as cases surge in England.</a> NYT: Palace officials said it was a precautionary measure to avoid putting royal family members at risk by bringing a large group together at Windsor Castle. 
  <p class="updated_time"> 06:03 AM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59683538?at_medium=RSS&at_campaign=KARANGA">Santa Claus delivers presents to children in Peru... via a fire ladder</a> BBC: This Santa Claus in Lima, Peru, uses a special way to deliver presents to children with Covid. 
- <p class="updated_time"> 04:48 AM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064760503/vaccine-skeptics-in-eastern-europe-are-having-a-change-of-heart">Vaccine skeptics in Eastern Europe are having a change of heart</a> NPR: With surging coronavirus infections and countries making it more difficult for the unvacccinated to travel, some vaccine skeptics are now coming around. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/travel/testing-positive-for-covid-overseas.html">What Happens If You Test Positive for Covid While Traveling?</a> NYT: In the midst of the holiday season, the Omicron variant has many considering the prospects of getting stuck while traveling. Here’s what you need to know. 
  <p class="updated_time"> 03:56 AM CT, Dec. 16 </p> 
@@ -208,6 +208,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:49 PM CT, Dec. 17 </p> 
+ <a href="https://www.npr.org/2021/12/17/1065312060/white-house-issues-a-warning-to-unvaccinated-americans-as-concerns-about-omicron">White House issues a warning to unvaccinated Americans as concerns about omicron grow</a> NPR: The White House continues the same COVID-19 messages and strategies even as models suggest an omicron surge is coming. 
+ <p class="updated_time"> 03:49 PM CT, Dec. 17 </p> 
+ <a href="https://www.npr.org/2021/12/17/1065312046/possible-charges-are-the-latest-chapter-in-mark-meadows-career-defined-by-confli">Possible charges are the latest chapter in Mark Meadows' career defined by conflict</a> NPR: Former chief of staff Mark Meadows was at the center of power under Trump after a decade of waging conflict in the House. He now faces possible prosecution for contempt of Congress. 
  <p class="updated_time"> 03:45 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/southwest-airlines-ceo-positive-covid-test-525280">Southwest CEO tests positive for Covid-19</a> Politico: Southwest CEO Gary Kelly has tested positive for Covid-19 days after he testified before the Senate Commerce Committee. 
  <p class="updated_time"> 03:33 PM CT, Dec. 17 </p> 
@@ -344,10 +348,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/cdc-covid-vaccine-johnson-525153">CDC recommends mRNA Covid vaccines over J&J shot amid blood clot risks</a> Politico: CDC Director Rochelle Walensky's decision came hours after the agency’s vaccine advisory committee voted unanimously to update the recommendation. 
  <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
- <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064951646/why-the-cost-of-carbon-is-increasing-and-how-that-affects-climate-policy">Why the cost of carbon is increasing — and how that affects climate policy</a> NPR: NPR's Mary Louise Kelly speaks with Michael Greenstone, professor and director of the Energy Policy Institute at the University of Chicago the impact of the rising cost of carbon on climate policy. 
- <p class="updated_time"> 03:20 PM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064951583/rep-kinzinger-discusses-the-events-of-jan-6-as-congressional-inquiries-heat-up">Rep. Kinzinger discusses the events of Jan. 6 as congressional inquiries heat up</a> NPR: NPR's Audie Cornish speaks with Rep. Adam Kinzinger, R-Ill., about his role on the House committee investigating the Jan. 6 insurrection. 
  <p class="updated_time"> 02:52 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/congress-uyghur-forced-labor.html">Congress Passes Ban on Goods From China's Xinjiang Region</a> NYT: President Biden is expected to sign the bill, which drew a fierce corporate lobbying campaign against it. 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
