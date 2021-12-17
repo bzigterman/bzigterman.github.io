@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:38 AM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59703523?at_medium=RSS&at_campaign=KARANGA">Anti-5G necklaces found to be radioactive</a> BBC: Conspiracy theories about 5G have fuelled a market for "anti-5G" accessories. 
  <p class="updated_time"> 11:27 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/south-africa-omicron-hospitalizations.html">South Africa Hospitalizations Lower in Omicron Wave, but Caveats Apply</a> NYT: Researchers warned that the epicenter of the country’s outbreak is more highly vaccinated than others, and that natural immunity is also high. 
  <p class="updated_time"> 10:32 AM CT, Dec. 17 </p> 
@@ -29,12 +31,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59696503?at_medium=RSS&at_campaign=KARANGA">Two teens slide to safety from fourth floor New York apartment fire</a> BBC: Watch this dramatic video of them escaping through a window and sliding down a pole to the ground. 
  <p class="updated_time"> 07:07 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59689793?at_medium=RSS&at_campaign=KARANGA">Israeli PM vows to catch W Bank ambush killers</a> BBC: Troops search for suspected Palestinian gunmen after an Israeli is shot dead and two others wounded. 
+ <p class="updated_time"> 06:41 AM CT, Dec. 17 </p> 
+ <a href="https://www.wsj.com/articles/omicron-seen-doubling-every-1-days-in-parts-of-u-k-11639747057">Omicron Variant's Rapid Spread Triggers New Precautions</a> WSJ: The Omicron variant continued its rapid spread in the U.K., while South Africa reported significantly lower Covid-19 hospital admission rates than earlier in the pandemic despite a surge of infections. 
  <p class="updated_time"> 06:36 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59697805?at_medium=RSS&at_campaign=KARANGA">Andry Rajoelina: French nationals sentenced for Madagascar coup plot</a> BBC: The two men are accused of planning to assassinate President Andry Rajoelina. 
  <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated, and at least 17 people died. 
- <p class="updated_time"> 05:20 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/omicron-seen-doubling-every-1-days-in-parts-of-u-k-11639747057">Omicron Variant's Rapid Spread Triggers New Precautions</a> WSJ: The Omicron variant continued its rapid spread in the U.K., while South Africa reported significantly lower Covid-19 hospital admission rates than earlier in the pandemic despite a surge of infections. 
  <p class="updated_time"> 04:28 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59696442?at_medium=RSS&at_campaign=KARANGA">Sweden's Gavle Christmas goat torched... again</a> BBC: A giant straw goat that is an annual highlight in the city of Gavle is burned down by an arsonist. 
  <p class="updated_time"> 04:07 AM CT, Dec. 17 </p> 
@@ -56,7 +58,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:25 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59694671?at_medium=RSS&at_campaign=KARANGA">Karnataka: India lawmaker sorry for 'lie down and enjoy rape' remark</a> BBC: The opposition lawmaker said he didn't intend to insult women after his comment drew outrage. 
  <p class="updated_time"> 03:02 AM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065085132/more-than-20-feared-dead-in-building-fire-in-osaka-japan">More than 20 feared dead in building fire in Osaka, Japan</a> NPR: The fire started on the fourth floor of an eight-story building in the major business and entertainment area of Kitashinchi, fire officials say. Police are investigation arson as a possible cause. 
+ <a href="https://www.npr.org/2021/12/17/1065085132/more-than-20-feared-dead-in-building-fire-in-osaka-japan">24 people died in a building fire in Osaka, Japan, and arson is suspected</a> NPR: A fire that spread from a fourth-floor mental clinic in an eight-story building in what police were investigating as a possible case of arson and murder. Police were searching for a possible suspect. 
  <p class="updated_time"> 02:47 AM CT, Dec. 17 </p> 
  <a href="https://www.wsj.com/articles/japanese-worker-at-u-s-base-in-japan-diagnosed-with-omicron-after-military-outbreak-11639748240">Japanese Worker at U.S. Base Diagnosed With Omicron</a> WSJ: The variant’s presence raised concerns that Omicron may have gained a footing in Japan. 
  <p class="updated_time"> 02:17 AM CT, Dec. 17 </p> 
@@ -204,14 +206,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:26 PM CT, Dec. 17 </p> 
+ <a href="https://www.politico.com/news/2021/12/17/trump-ally-brandon-straka-information-525272">Trump ally Straka has provided potentially significant information</a> Politico: Prosecutors have asked for a 30-day sentencing delay so that his new evidence "can be properly evaluated." 
+ <p class="updated_time"> 11:38 AM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/roger-stone-january-6-committee/index.html">Trump ally Roger Stone pleads the Fifth in deposition with January 6 committee</a> CNN: Roger Stone, a staunch ally of former President Donald Trump, met briefly Friday with the House select committee investigating the January 6 riot and asserted his Fifth Amendment rights to every question asked, he said. 
  <p class="updated_time"> 11:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/climate-change-us-financial-threat.html">Climate Change an ‘Emerging Threat’ to U.S. Financial Stability, Regulators Say</a> NYT: The Financial Stability Oversight Council issued a formal warning on the economic damage that global warming could inflict. 
  <p class="updated_time"> 10:44 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/house-democrats-elections-dccc-525258">Vulnerable House Dems tee off on DCCC</a> Politico: Multiple at-risk Democrats tell POLITICO that the campaign committee has adopted a midterms strategy that is hurting, not helping, their reelections. 
  <p class="updated_time"> 10:43 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/russia-troops-ukraine-border-biden/index.html">Russia continues to amass new troops near Ukraine's border despite Biden urging Putin to de-escalate tensions </a> CNN: Russia has continued to amass new troops near Ukraine's border in recent days, despite President Joe Biden urging Russian President Vladimir Putin to de-escalate tensions during a virtual meeting last week. 
- <p class="updated_time"> 10:32 AM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/roger-stone-january-6-committee/index.html">Trump ally Roger Stone pleads the Fifth in deposition with January 6 committee</a> CNN: Roger Stone, a staunch ally of former President Donald Trump, met briefly Friday with the House select committee investigating the January 6 riot and asserted his Fifth Amendment rights to every question asked, he said. 
  <p class="updated_time"> 10:19 AM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065134885/roger-stone-appears-before-jan-6-panel-and-pleads-the-fifth">Roger Stone appears before Jan. 6 panel and pleads the Fifth</a> NPR: The panel said Stone participated in "Stop the Steal" efforts related to the 2020 election. The political operative said he knows "nothing whatsoever about the illegal events that day." 
  <p class="updated_time"> 10:17 AM CT, Dec. 17 </p> 
@@ -314,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/16/politics/medication-abortion-fda-supreme-court/index.html">FDA says abortion pills can be sent by mail</a> CNN: With the Supreme Court poised to undo its abortion rights precedent, the Biden administration is considering a move that could mitigate the fallout from a Roe v. Wade reversal. And red states are already on the march to counteract whatever the federal government opts to do. 
  <p class="updated_time"> 05:21 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/january-6-committee-subpoena-retired-colonel-power-point/index.html">January 6 panel subpoenas retired colonel who shared election fraud PowerPoint presentation</a> CNN: The House select committee investigating the January 6 attack on the US Capitol announced Thursday that it subpoenaed James P. "Phil" Waldron, a retired Army colonel who spread misinformation about election fraud and circulated a PowerPoint document detailing ways to undermine the 2020 presidential election outcome. 
- <p class="updated_time"> 05:16 PM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/fda-abortion-pill-loosen-rules-525164">FDA loosens rules for distributing abortion pills, opening new battle fronts</a> Politico: Heightening the stakes is the Supreme Court’s pending decision on Mississippi’s 15-week abortion ban. 
  <p class="updated_time"> 05:03 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden awards Medal of Honor to 3 soldiers, including the first African American since the Vietnam War</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
  <p class="updated_time"> 04:53 PM CT, Dec. 16 </p> 
@@ -446,8 +448,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/11/middle-class-joe-visits-late-night-jimmy-495429"> ‘Middle-class Joe’ visits late-night Jimmy</a> Politico Playbook: And what the Supreme Court's Texas ruling means for Roe v. Wade. 
- <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
 
 
 </details>
