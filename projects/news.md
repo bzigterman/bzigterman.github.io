@@ -214,10 +214,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:29 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/trump-anti-semitic-comments/index.html">Trump uses anti-Semitic tropes to again criticize Jewish Americans</a> CNN: Former President Donald Trump, in a newly released interview, claimed that Jewish Americans "either don't like Israel or don't care about Israel," while also suggesting that evangelical Christians "love Israel more than the Jews in this country." 
+ <p class="updated_time"> 05:28 PM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/us/politics/january-6-committee-capitol-riot.html">Jan. 6 Committee May Add New Expertise for Investigation</a> NYT: As the panel continues to take testimony, it is looking to do more analysis of social media and possible foreign efforts to sow discord in the U.S. before the Capitol riot. 
  <p class="updated_time"> 05:17 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/canada-retighten-border-omicron-525286">Canada to re-tighten border measures as it braces for Omicron</a> Politico: 'We've come this far, now is not the time to give up,' Canada's health minister said Friday. 
- <p class="updated_time"> 05:06 PM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/trump-anti-semitic-comments/index.html">Trump uses anti-Semitic tropes to again criticize Jewish Americans</a> CNN: Former President Donald Trump, in a newly released interview, claimed that Jewish Americans "either don't like Israel or don't care about Israel," while also suggesting that evangelical Christians "love Israel more than the Jews in this country." 
  <p class="updated_time"> 04:48 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/business/southwest-ceo-postive-coronavirus.html">Southwest C.E.O. Tests Positive for Coronavirus After Senate Hearing</a> NYT: Gary Kelly appeared at the committee hearing with other airline officials on Wednesday. Each was unmasked for at least part of the hearing, as were many senators. 
  <p class="updated_time"> 04:07 PM CT, Dec. 17 </p> 
