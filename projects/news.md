@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:25 AM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59694671?at_medium=RSS&at_campaign=KARANGA">Karnataka: India lawmaker sorry for 'lie down and enjoy rape' remark</a> BBC: The opposition lawmaker said he didn't intend to insult women after his comment drew outrage. 
  <p class="updated_time"> 03:02 AM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065085132/more-than-20-feared-dead-in-building-fire-in-osaka-japan">More than 20 feared dead in building fire in Osaka, Japan</a> NPR: The fire started on the fourth floor of an eight-story building in the major business and entertainment area of Kitashinchi, fire officials say. Police are investigation arson as a possible cause. 
  <p class="updated_time"> 02:53 AM CT, Dec. 17 </p> 
@@ -29,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/australia/the-giant-who-lives-in-the-melbourne-museum.html">The Giant Who Lives in the Melbourne Museum</a> NYT: The world’s most complete triceratops skeleton ever found will go on display next year, displacing a beloved, if quirky, exhibit of taxidermy. 
  <p class="updated_time"> 10:41 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59692506?at_medium=RSS&at_campaign=KARANGA">In pictures: Crowds celebrate death of Pinochet's widow in Chile</a> BBC: Lucia Hiriart, the widow of the former dictator and a divisive figure in the country, has died at 99. 
+ <p class="updated_time"> 10:30 PM CT, Dec. 16 </p> 
+ <a href="https://www.wsj.com/articles/japan-fire-leaves-27-feared-dead-in-osaka-11639712535">Japan Fire at Osaka Mental-Health Clinic Leaves 27 Feared Dead</a> WSJ: Twenty-seven people are feared dead after a fire raced through a mental-health clinic on the fourth floor of an office building in Osaka, Japan, in a case of suspected arson. 
  <p class="updated_time"> 10:04 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">Bouncy Castle in Tasmania Is Swept by Wind, Killing 5 Children</a> NYT: A gust of wind swept up the inflatable on the last day of school, and the students fell more than 30 feet. Several others were critically injured. 
  <p class="updated_time"> 08:59 PM CT, Dec. 16 </p> 
@@ -45,20 +49,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59680921?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 10 - 16 December 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 07:59 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59692502?at_medium=RSS&at_campaign=KARANGA">Tania Mendoza: Mexican actress shot dead while waiting for son</a> BBC: Tania Mendoza was outside a football academy when a gunman opened fire before escaping. 
- <p class="updated_time"> 07:47 PM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/ecb-boosts-bond-purchases-as-it-phases-out-pandemic-stimulus-11639659416">Europe's Top Central Banks Take Different Tacks on Inflation</a> WSJ: The Bank of England became the first major central bank to raise its benchmark interest rate since the pandemic began, while the ECB said it would phase out an emergency bond-buying program while ramping up other stimulus measures. 
  <p class="updated_time"> 07:38 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59693271?at_medium=RSS&at_campaign=KARANGA">Huntsman spider interrupts Australian Covid press briefing</a> BBC: Queensland's health minister remained calm after a journalist said a spider was crawling on her. 
  <p class="updated_time"> 07:36 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59687946?at_medium=RSS&at_campaign=KARANGA">How billionaires pay less tax than you</a> BBC: Corporate giants use a mantra known as Buy Borrow Die to avoid paying income tax, say analysts. 
  <p class="updated_time"> 07:13 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/blogs-trending-59687496?at_medium=RSS&at_campaign=KARANGA">How Russia tries to censor Western social media</a> BBC: Western social media companies face huge fines as Russia pressures them to remove content it objects to. 
- <p class="updated_time"> 07:03 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59692826?at_medium=RSS&at_campaign=KARANGA">US Congress passes import ban on Chinese Uyghur region</a> BBC: The bill overcame opposition from Coca-Cola, Nike and Apple and an initial lack of White House support. 
- <p class="updated_time"> 07:01 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59677675?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: EU warns Moscow of 'severe cost' of aggression</a> BBC: Leaders say aggression will result in "massive consequences" including new economic sanctions. 
- <p class="updated_time"> 06:31 PM CT, Dec. 16 </p> 
- <a href="https://www.wsj.com/articles/japan-fire-leaves-27-feared-dead-in-osaka-11639712535">Japan Fire at Osaka Mental-Health Clinic Leaves 27 Feared Dead</a> WSJ: Twenty-seven people are feared dead after a fire broke out at a mental-health clinic in Osaka, Japan, shortly after the facility opened for business on Friday morning. 
  <p class="updated_time"> 06:15 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html">Oriol Bohigas, Groundbreaking Spanish Architect, Dies at 95</a> NYT: He was a mastermind of the overhaul of Barcelona in preparation for the 1992 Summer Olympics, which helped transform much of the city. 
  <p class="updated_time"> 06:12 PM CT, Dec. 16 </p> 
@@ -69,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59692022?at_medium=RSS&at_campaign=KARANGA">Philippines typhoon Rai: Month-old baby rescued in a tub</a> BBC: Thousands have been evacuated as the storm brought 165km/h (103 mph) winds and heavy rain. 
  <p class="updated_time"> 04:44 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
- <p class="updated_time"> 04:28 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59692240?at_medium=RSS&at_campaign=KARANGA">Meta bans surveillance-for-hire firms for targeting users</a> BBC: Facebook's owner is to alert about 50,000 people in more than 100 countries about "malicious" actions. 
  <p class="updated_time"> 04:27 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59689064?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Two women accuse Sex And The City actor of sexual assault</a> BBC: The Sex And The City actor denies assaulting the women in 2004 and 2015. 
  <p class="updated_time"> 03:56 PM CT, Dec. 16 </p> 
