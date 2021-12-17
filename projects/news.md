@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:12 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59703611?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell defence rests as she calls case 'unproven'</a> BBC: The defence struggled to produce witnesses on Friday and only nine out of a proposed 35 testified. 
  <p class="updated_time"> 04:57 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/killer-drone-ban-robot.html">Killer Robots Aren’t Science Fiction. A Push to Ban Them Is Growing.</a> NYT: A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty. 
  <p class="updated_time"> 04:44 PM CT, Dec. 17 </p> 
@@ -14,9 +16,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:09 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html">Oriol Bohigas, Groundbreaking Spanish Architect, Dies at 95</a> NYT: He was a mastermind of the overhaul of Barcelona in preparation for the 1992 Summer Olympics, which helped transform much of the city. 
  <p class="updated_time"> 04:06 PM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065312088/pinatas-a-staple-in-christmas-traditions">Piñatas: A staple in Christmas traditions</a> NPR: Piñatas are a common element in parties across different countries and especially in Mexico around Christmas time. The story of their origin combines cultures, traditions and religions. 
- <p class="updated_time"> 04:06 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065246985/brazil-wildfires-17-million-animals-killed">Nearly 17 million animals died in wildfires in Brazil's wetlands last year</a> NPR: The estimate comes from scientists who examined the number of carcasses they found up to 48 hours after a fire event. The rate of climate change makes such wildfires inevitable, they say. 
+ <p class="updated_time"> 04:06 PM CT, Dec. 17 </p> 
+ <a href="https://www.npr.org/2021/12/17/1065312088/pinatas-a-staple-in-christmas-traditions">Piñatas: A staple in Christmas traditions</a> NPR: Piñatas are a common element in parties across different countries and especially in Mexico around Christmas time. The story of their origin combines cultures, traditions and religions. 
  <p class="updated_time"> 03:49 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065312053/typhoon-has-killed-at-least-12-and-displaced-330-000-people-in-the-philippines">Typhoon has killed at least 12 and displaced 330,000 people in the Philippines</a> NPR: At least 12 people are dead and 300,000 were forced to evacuate because of Super Typhoon Rai, the most powerful typhoon to hit the Philippines this year. 
  <p class="updated_time"> 03:33 PM CT, Dec. 17 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Recommends Pfizer or Moderna Vaccines Over J.&J</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
  <p class="updated_time"> 03:23 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59696450?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Moscow lists demands for defusing Ukraine tensions</a> BBC: Moscow says Nato should abandon hopes of Ukraine joining and Nato states should get rid of weapons. 
- <p class="updated_time"> 03:21 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59703611?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Maxwell won't testify as defence rests case</a> BBC: The defence struggled to produce witnesses on Friday and only nine out of a proposed 35 testified. 
  <p class="updated_time"> 03:20 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065311963/analyzing-the-biden-administrations-year-in-foreign-policy-toward-china-and-russ">Analyzing the Biden administration's year in foreign policy toward China and Russia</a> NPR: As the year comes to a close, here's where U.S. foreign policy toward Russia and China stands — and what we might expect in 2022. 
  <p class="updated_time"> 02:37 PM CT, Dec. 17 </p> 
@@ -55,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/asia/myanmar-journalist-kyaw-torture.html">‘I Didn’t Look Like a Human’: Journalist Tells of Myanmar Torture</a> NYT: When Ko Aung Kyaw erased his cellphone contacts to protect his sources, he knew his interrogators would make him pay a horrific price. He did it anyway. 
  <p class="updated_time"> 10:18 AM CT, Dec. 17 </p> 
  <a href="https://www.wsj.com/articles/white-house-considers-sending-ukraine-military-equipment-once-bound-for-afghanistan-11639757332">Biden Administration Considers Sending Ukraine Military Equipment Once Bound for Afghanistan</a> WSJ: The White House is considering a plan to redirect helicopters and other military equipment to help quickly reinforce its defenses amid a buildup of Russian troops near its border, U.S. and Ukrainian officials said. 
+ <p class="updated_time"> 10:12 AM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/britain-records-more-than-93000-daily-infections-a-new-high.html">Britain records more than 93,000 daily infections, a new high.</a> NYT: Friday was the third consecutive day that the country’s case count set a record. 
  <p class="updated_time"> 10:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/japan-fire-osaka.html">Japan Fire Kills 24, With Arson Suspected</a> NYT: The fire consumed the fourth floor of the building in Osaka, which housed a medical office. 
  <p class="updated_time"> 09:18 AM CT, Dec. 17 </p> 
@@ -214,6 +216,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:17 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/canada-retighten-border-omicron-525286">Canada to re-tighten border measures as it braces for Omicron</a> Politico: 'We've come this far, now is not the time to give up,' Canada's health minister said Friday. 
+ <p class="updated_time"> 05:06 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/trump-anti-semitic-comments/index.html">Trump uses anti-Semitic tropes to again criticize Jewish Americans</a> CNN: Former President Donald Trump, in a newly released interview, claimed that Jewish Americans "either don't like Israel or don't care about Israel," while also suggesting that evangelical Christians "love Israel more than the Jews in this country." 
  <p class="updated_time"> 04:48 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/business/southwest-ceo-postive-coronavirus.html">Southwest C.E.O. Tests Positive for Coronavirus After Senate Hearing</a> NYT: Gary Kelly appeared at the committee hearing with other airline officials on Wednesday. Each was unmasked for at least part of the hearing, as were many senators. 
  <p class="updated_time"> 04:07 PM CT, Dec. 17 </p> 
@@ -240,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
  <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
- <p class="updated_time"> 02:52 PM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/trump-anti-semitic-comments/index.html">Trump uses anti-Semitic tropes to again criticize Jewish Americans</a> CNN: Former President Donald Trump, in a newly released interview, claimed that Jewish Americans "either don't like Israel or don't care about Israel," while also suggesting that evangelical Christians "love Israel more than the Jews in this country." 
  <p class="updated_time"> 02:46 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/build-back-better-democrats-senate/index.html">Democrats hope to make progress on Build Back Better in new year as action stalls for now</a> CNN: With a number of sticking points still unresolved, Democrats are hoping for a breakthrough that will allow them to pass President Joe Biden's sweeping social safety net expansion in the new year. 
  <p class="updated_time"> 02:39 PM CT, Dec. 17 </p> 
