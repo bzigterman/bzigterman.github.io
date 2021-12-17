@@ -16,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:25 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59692846?at_medium=RSS&at_campaign=KARANGA">Rust: Police obtain search warrant for Alec Baldwin's phone</a> BBC: Police investigating the fatal shooting on the Rust film set obtain a warrant for the actor's phone. 
  <p class="updated_time"> 08:10 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59692830?at_medium=RSS&at_campaign=KARANGA">US FDA permanently allows mail-order abortion pills</a> BBC: The Food and Drug Administration made permanent a temporary pandemic-related measure. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59692830?at_medium=RSS&at_campaign=KARANGA">US FDA permanently allows mail-order abortion pills</a> BBC: But the federal move will be overridden by 19 states that already have bans in place. 
  <p class="updated_time"> 08:06 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59692552?at_medium=RSS&at_campaign=KARANGA">Bouncy castle fall: Australia mourns 'terrible tragedy' after children killed</a> BBC: Five children died and four others were injured when a wind gust blew away the castle at a school fair. 
  <p class="updated_time"> 08:02 PM CT, Dec. 16 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:27 PM CT, Dec. 16 </p> 
+ <a href="https://www.politico.com/news/2021/12/16/senate-confirms-bidens-joint-chiefs-pick-525239">Senate confirms Biden's Joint Chiefs pick</a> Politico: Adm. Christopher Grady most recently led the Navy's Fleet Forces Command, which is tasked with ensuring the fleet is manned, trained and equipped before deploying. 
  <p class="updated_time"> 08:17 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/judge-rejects-purdue-pharmas-sweeping-opioid-settlement-525222">Judge rejects Purdue Pharma’s sweeping opioid settlement</a> Politico: The ruling Thursday from U.S. District Judge Colleen McMahon in New York is likely to be appealed by the company, family members and the thousands of government entities that support the plan. 
  <p class="updated_time"> 08:14 PM CT, Dec. 16 </p> 
@@ -310,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/us/politics/ashley-biden-project-veritas-diary.html">How Ashley Biden’s Diary Made Its Way to Project Veritas</a> NYT: New details shed light on the federal investigation into the conservative group’s acquisition last year of a journal kept by the president’s daughter. 
  <p class="updated_time"> 11:18 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/child-care-hiring-crisis/index.html">Child care hiring crisis is closing programs and keeping parents out of workforce</a> CNN: A hiring crisis is closing classrooms at Nurtury Early Education in Boston. 
- <p class="updated_time"> 11:15 AM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/aipac-launches-super-pac-525092">AIPAC launches super PAC</a> Politico: The Israel-focused public affairs group is getting into direct spending on elections. 
  <p class="updated_time"> 10:39 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/gorsuch-texas-sb8/index.html">Gorsuch deals abortion providers another setback by sending Texas SB8 lawsuit to a conservative appeals court</a> CNN: In the latest setback for abortion clinics in Texas, Justice Neil Gorsuch said Thursday that a conservative federal appeals court should handle the next steps of litigation concerning the state's six-week ban, a move that will likely leave women seeking abortions in the state in legal limbo for weeks if not months. 
  <p class="updated_time"> 10:36 AM CT, Dec. 16 </p> 
