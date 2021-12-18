@@ -206,6 +206,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:01 AM CT, Dec. 18 </p> 
+ <a href="https://www.politico.com/news/2021/12/18/democrats-2022-hurricane-525283">‘Let’s get a drink’: Dems confront prospect of a 2022 hurricane</a> Politico: Staring at the possibility of major midterm losses, Democratic leaders are just hoping to limit the damage. 
+ <p class="updated_time"> 07:01 AM CT, Dec. 18 </p> 
+ <a href="https://www.politico.com/news/2021/12/18/covid-omicron-booster-vaccines-525308">Bad Covid winter brings questions about what's 'fully vaccinated'</a> Politico: Discussions within the administration are focused on whether a third shot should be considered part of the original Covid-19 vaccine regimen. 
+ <p class="updated_time"> 06:01 AM CT, Dec. 18 </p> 
+ <a href="https://www.npr.org/2021/12/18/1065293261/after-years-at-the-center-of-political-power-mark-meadows-now-faces-legal-jeopar">After years at the center of political power, Mark Meadows now faces legal jeopardy</a> NPR: It's the latest chapter in Mark Meadows' political career, which has been defined by conflict in Washington. 
  <p class="updated_time"> 04:26 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065470550/russia-envoy-says-moscow-might-up-the-ante-if-the-west-ignores-its-demands">Russia envoy says Moscow might up the ante if the West ignores its demands</a> NPR: Deputy Foreign Minister Sergei Ryabkov accused Western allies of continuously pushing the envelope in relations with Russia. 
  <p class="updated_time"> 04:00 AM CT, Dec. 18 </p> 
@@ -336,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/us/politics/rnc-trump-investigations.html">R.N.C. Is Said to Agree to Pay Up to $1.6 Million of Trump’s Personal Legal Bills</a> NYT: Under the unusual arrangement, the Republican Party is paying to defend the former president as he faces investigations into his private business practices. 
  <p class="updated_time"> 07:43 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-build-back-better-miss-deadline-senate/index.html">Biden officially acknowledges Build Back Better will miss deadline but says he's 'determined' to see bill on Senate floor 'as early as possible'</a> CNN: President Joe Biden, in a lengthy statement, implicitly acknowledged ongoing negotiations with Sen. Joe Manchin and procedural steps will cause Democrats to miss the Christmas deadline for Senate passage of his $1.75 trillion economic and climate package, noting that Democrats will continue to work together "over the days and weeks ahead" to get the proposal to the Senate floor. 
- <p class="updated_time"> 07:23 PM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1065043555/biden-lacks-the-votes-to-advance-the-2nd-part-of-build-back-better-by-the-end-of">Biden lacks the votes to advance the 2nd part of Build Back Better by the end of 2021</a> NPR: President Biden acknowledged that his Build Back Better spending bill is going to need "days and weeks" to complete, even though Democrats wanted to vote on it by Christmas. 
  <p class="updated_time"> 07:20 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/scientists-letter-nuclear-arsenal.html">Scientists Ask Biden to Cut U.S. Nuclear Arsenal</a> NYT: In a letter, the scientists also urged President Biden to declare that the United States would never be the first to use nuclear weapons in a conflict. 
  <p class="updated_time"> 06:57 PM CT, Dec. 16 </p> 
