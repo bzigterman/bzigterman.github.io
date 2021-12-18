@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:10 AM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
+ <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59709246?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: Walking through the storm's trail of destruction</a> BBC: Watch this video that shows the extent of the devastation in Cebu City in the Philippines. 
+ <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
+ <a href="https://www.npr.org/2021/12/18/1065477225/activists-in-hong-kong-plan-not-to-vote-or-to-cast-blank-ballots-in-upcoming-ele">Activists in Hong Kong plan not to vote or to cast blank ballots in upcoming election</a> NPR: Hong Kong has legislative elections on Sunday, but new rules favor candidates friendly towards the Beijing government. Activists say people can protest by not voting or by casting blank ballots. 
+ <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
+ <a href="https://www.npr.org/2021/12/18/1065477169/haitian-soup-joumou-awarded-protected-cultural-heritage-status-by-unesco">Haitian soup joumou awarded protected cultural heritage status by UNESCO</a> NPR: A famed Haitian soup has been awarded "protected cultural heritage status" by UNESCO. Scott Simon talks to Dominique Dupuy, Haitian ambassador to UNESCO about joumou. 
  <p class="updated_time"> 05:37 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065475041/indonesia-raises-volcano-warning-to-second-highest-level">Indonesia raises volcano warning to second-highest level</a> NPR: Indonesia's geological agency said it sees increasing activity that could trigger an avalanche of lava and searing gas, similar to the Dec. 4 eruption, 
  <p class="updated_time"> 05:04 AM CT, Dec. 18 </p> 
@@ -33,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065458877/the-events-that-led-to-hong-kongs-pivotal-elections">The events that led to Hong Kong's pivotal elections</a> NPR: Demands for expanded democracy in the semi-autonomous territory inspired protest movements that were largely ignored by Beijing and crushed by security forces. 
  <p class="updated_time"> 10:32 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59708304?at_medium=RSS&at_campaign=KARANGA">US court reinstates Covid vaccine mandate for large US businesses</a> BBC: The national mandate, blocked last month, will cover more than two-thirds of the country's workers. 
- <p class="updated_time"> 10:24 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
  <p class="updated_time"> 08:23 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/novavax-vaccine-approval-who.html">Novavax Vaccine Wins Emergency Approval from the W.H.O.</a> NYT: The authorization could drastically increase the vaccine supply for low- and middle-income countries. 
  <p class="updated_time"> 08:13 PM CT, Dec. 17 </p> 
@@ -117,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59696503?at_medium=RSS&at_campaign=KARANGA">Two teens slide to safety from fourth floor New York apartment fire</a> BBC: Watch this dramatic video of them escaping through a window and sliding down a pole to the ground. 
  <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated, and at least 17 people died. 
- <p class="updated_time"> 04:07 AM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065083119/after-escaping-the-taliban-afghan-music-students-and-teachers-begin-their-new-li">After escaping the Taliban, Afghan music students and teachers begin their new lives</a> NPR: This week, members of the Afghanistan National Institute of Music flew from Doha to Portugal, where they'll rebuild their school — and lives. They describe their escape from Kabul and future hopes. 
  <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/americas/chile-adoption-pinochet.html">Stolen at Birth, Chilean Adoptees Uncover Their Past</a> NYT: Hundreds of Chileans adopted abroad have learned that they were trafficked. Investigators believe thousands of children may have been taken from their parents during Chile’s dictatorship. 
  <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
@@ -131,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/asia/ishigaki-japan-missiles-taiwan.html">The Island Paradise Near the Front Line of Tensions Over Taiwan</a> NYT: New missile batteries planned for the Japanese island of Ishigaki reflect a drastic shift in Japan’s views on China. 
  <p class="updated_time"> 03:46 AM CT, Dec. 17 </p> 
  <a href="https://www.wsj.com/articles/yemens-houthis-seek-departure-of-top-iranian-diplomat-11639752398">Yemen's Houthis Seek Departure of Top Iranian Diplomat</a> WSJ: A member of Iran’s Revolutionary Guards was smuggled into Yemen last year and named ambassador to Houthi-rebel-controlled areas. Now, the Houthis want to send him back, officials said. 
- <p class="updated_time"> 03:02 AM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065085132/more-than-20-feared-dead-in-building-fire-in-osaka-japan">24 people died in a building fire in Osaka, Japan, and arson is suspected</a> NPR: A fire that spread from a fourth-floor mental clinic in an eight-story building in what police were investigating as a possible case of arson and murder. Police were searching for a possible suspect. 
  <p class="updated_time"> 02:47 AM CT, Dec. 17 </p> 
  <a href="https://www.wsj.com/articles/japanese-worker-at-u-s-base-in-japan-diagnosed-with-omicron-after-military-outbreak-11639748240">Japanese Worker at U.S. Base Diagnosed With Omicron</a> WSJ: The variant’s presence raised concerns that Omicron may have gained a footing in Japan. 
  <p class="updated_time"> 12:11 AM CT, Dec. 17 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/health/coronavirus-omicron-variant.html">Scientists Are Racing to Gauge the Threat of Omicron</a> NYT: The variant will spread quickly through the United States, experts say. What happens after that is less certain. 
  <p class="updated_time"> 08:51 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html">Hu Xijin, Chief of China's Global Times, Will Retire</a> NYT: Mr. Hu, editor of the Communist Party tabloid Global Times, set the tone for a new generation of Chinese pundits with his flair for verbal combat. 
- <p class="updated_time"> 05:04 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59692022?at_medium=RSS&at_campaign=KARANGA">Philippines typhoon Rai: Month-old baby rescued in a tub</a> BBC: Thousands have been evacuated as the storm brought 165km/h (103 mph) winds and heavy rain. 
  <p class="updated_time"> 04:53 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/us-china-biotech-muslim-minorities.html">U.S. Cracks Down on Firms Said to Aid China’s Repression of Minorities</a> NYT: The Commerce and Treasury Departments put new restrictions on an array of companies and institutions that they said were misusing biotechnology. 
  <p class="updated_time"> 04:44 PM CT, Dec. 16 </p> 
@@ -206,6 +206,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:52 AM CT, Dec. 18 </p> 
+ <a href="https://www.politico.com/news/2021/12/18/stop-the-steal-founder-jan-6-committee-gop-lawmakers-525345">‘Stop the Steal’ founder told Jan. 6 committee about contacts with GOP lawmakers</a> Politico: The description of the testimony comes in a lawsuit Ali Alexander filed to block the committee from obtaining his phone records. 
+ <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
+ <a href="https://www.npr.org/2021/12/18/1065477218/capitol-police-officer-reacts-to-the-new-findings-about-jan-6">Capitol police officer reacts to the new findings about Jan. 6</a> NPR: Scott Simon talks with Capitol police officer Harry Dunn about some of the revelations coming out of the Congressional committee investigating the Jan. 6 attack. 
+ <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
+ <a href="https://www.npr.org/2021/12/18/1065477183/congress-fiercely-debates-which-lawmakers-office-has-the-best-holiday-decoration">Congress fiercely debates which lawmaker's office has the best holiday decorations</a> NPR: Forget the Build Back Better bill or the Jan. 6 investigation. Right now, some members of Congress seem to be more focused on the holiday decorations outside their Capitol Hill offices. 
+ <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
+ <a href="https://www.npr.org/2021/12/18/1065477148/week-in-politics-new-information-from-jan-6-committee-build-back-better-stalled">Week in politics: New information from Jan. 6 committee; Build Back Better stalled</a> NPR: Revelations from the Congressional committee investigating the Jan. 6 insurrection, plus why the Build Back Better bill is not going to a vote in the Senate by Christmas. 
  <p class="updated_time"> 07:01 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/democrats-2022-hurricane-525283">‘Let’s get a drink’: Dems confront prospect of a 2022 hurricane</a> Politico: Staring at the possibility of major midterm losses, Democratic leaders are just hoping to limit the damage. 
  <p class="updated_time"> 07:01 AM CT, Dec. 18 </p> 
@@ -318,12 +326,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/17/politics/senate-race-rankings-december/index.html">The 10 Senate seats most likely to flip in 2022</a> CNN: As the calendar turns to 2022, Senate races are about to kick into much higher gear, with ad spending increasing ahead of the first primaries in May and just a few more fundraising quarters for candidates to prove they're serious 
  <p class="updated_time"> 04:07 AM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065083126/house-panel-wraps-up-an-important-week-in-the-probe-into-the-capitol-attack">House panel wraps up an important week in the probe into the Capitol attack</a> NPR: It's been a busy time for the House panel investigating the Jan. 6 attack on the U.S. Capitol, as the investigation moves closer to former President Donald Trump's inner circle. 
- <p class="updated_time"> 04:07 AM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065083098/morning-news-brief">News brief: omicron variant, spending bill stalls, abortion pill decision</a> NPR: How bad could the pandemic get this winter because of the omicron variant? One of President Biden's key agenda items is stalled. The FDA relaxes restrictions on access to abortion pill by mail. 
  <p class="updated_time"> 04:02 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/black-history-2021.html">The Biggest Black History Events in 2021</a> NYT: After the tumult and triumphs of 2020, here are the achievements that shaped the first year following the country’s racial reckoning. 
- <p class="updated_time"> 02:17 AM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065081902/uk-conservatives-suffer-shock-by-election-loss-in-another-setback-for-boris-john">U.K. Conservatives suffer shock by-election loss in another setback for Boris Johnson</a> NPR: U.K. Prime Minister Boris Johnson's Conservative Party has suffered a stunning defeat in a parliamentary by-election amid weeks of scandal and soaring COVID-19 infections. 
  <p class="updated_time"> 11:25 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/florida-parent-power-elections-moms-for-liberty/index.html">How two Florida moms spearheaded a parent movement aiming to impact the 2022 elections</a> CNN: Tucked away in the back of an office in a Florida strip mall is a tidy storage room filled with hundreds of navy blue t-shirts, hats, flags and even Christmas decor.   
  <p class="updated_time"> 10:56 PM CT, Dec. 16 </p> 
@@ -336,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/senate-confirms-bidens-joint-chiefs-pick-525239">Senate confirms Biden's Joint Chiefs pick</a> Politico: Adm. Christopher Grady most recently led the Navy's Fleet Forces Command, which is tasked with ensuring the fleet is manned, trained and equipped before deploying. 
  <p class="updated_time"> 10:17 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/economy/omicron-inflation.html">Omicron Is an Economic Threat, but Inflation Is Worse, Central Bankers Say</a> NYT: Within 24 hours, the Federal Reserve, Bank of England and European Central Bank all stepped forward to deal with price increases. 
- <p class="updated_time"> 08:13 PM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1065044185/justice-department-breaks-off-talks-on-compensation-for-separated-families">Justice Department breaks off talks on compensation for separated families </a> NPR: The U.S. has left negotiations about paying monetary damages to families who were forcibly separated while seeking to enter at the southern border during the Trump administration. 
  <p class="updated_time"> 08:13 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/rnc-trump-investigations.html">R.N.C. Is Said to Agree to Pay Up to $1.6 Million of Trump’s Personal Legal Bills</a> NYT: Under the unusual arrangement, the Republican Party is paying to defend the former president as he faces investigations into his private business practices. 
  <p class="updated_time"> 07:43 PM CT, Dec. 16 </p> 
@@ -400,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/eric-adams-mayor-health-new-york-524802">Meatless Mondays and the evils of olive oil: Eric Adams wants to put New York on a diet</a> Politico: “We can save more lives with plant-based diet if people would only realize they are enslaved to fats, oil, sugar and things that are killing their body,” Adams said in a short 2018 film. 
  <p class="updated_time"> 04:01 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/health-care-spending-increase-pandemic-524793">Health spending growth more than doubled in first year of pandemic</a> Politico: Nearly the entire increase came from the burst of federal spending as the government mobilized to contain the spread of the virus. 
- <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
  <p class="updated_time"> 07:35 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/15/house-is-home-for-the-holidays-senate-sticks-around-495473">House is home for the holidays, Senate sticks around</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Dec. 15 </p> 
