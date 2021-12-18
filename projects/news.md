@@ -184,7 +184,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:25 PM CT, Dec. 18 </p> 
+ <p class="updated_time"> 03:30 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/harris-charlamagne-tha-god-interview-defends-biden/index.html">Harris defends Biden when questioned whether he or Manchin is President</a> CNN: Vice President Kamala Harris forcefully defended President Joe Biden when recently asked whether he or Sen. Joe Manchin is the president of the United States, as Biden's agenda remains stalled in part because of the West Virginia Democrat. 
  <p class="updated_time"> 03:14 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/18/politics/us-post-office-naacp-2020-election-settlement/index.html">USPS reaches settlement with NAACP over 2020 mail-in voting</a> CNN: The United States Postal Service announced an agreement Friday with the NAACP on a lawsuit the civil rights organization filed prior to the 2020 election that had challenged USPS delivery delays. 
