@@ -199,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/malta-eu-marijuana-legalize.html">Malta Becomes First E.U. Country to Legalize Marijuana</a> NYT: The government said that the new law was aimed at ending the criminalization of people for smoking the drug and at reducing criminal trafficking. 
  <p class="updated_time"> 08:49 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/business/economy/china-trump-trade-deal-biden.html">Biden’s China Dilemma: How to Enforce Trump’s Trade Deal</a> NYT: The Biden administration must decide whether to enforce a Trump-era trade deal that has not fulfilled its promise. 
- <p class="updated_time"> 07:31 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Halts Asia Trip After Journalist Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the United States earlier than planned. 
 
 
 </details>
