@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:00 AM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kongs-patriots-elections.html">How Hong Kong’s ‘Patriots Only’ Elections Bolster Beijing’s Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials are urging the public to vote, but turnout is expected to be low. 
+ <p class="updated_time"> 02:30 AM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">How Hong Kong’s ‘Patriots Only’ Elections Bolster Beijing’s Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials are urging the public to vote, but turnout is expected to be low. 
+ <p class="updated_time"> 02:12 AM CT, Dec. 18 </p> 
+ <a href="https://www.npr.org/2021/12/18/1065463755/police-search-house-of-man-linked-to-deadly-osaka-fire">Police search house of man linked to deadly Osaka fire</a> NPR: The possible suspect is believed to be among the three people who survived the fire and were in severe condition, police said. 
  <p class="updated_time"> 01:33 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065458877/the-events-that-led-to-hong-kongs-pivotal-elections">The events that led to Hong Kong's pivotal elections</a> NPR: Demands for expanded democracy in the semi-autonomous territory inspired protest movements that were largely ignored by Beijing and crushed by security forces. 
  <p class="updated_time"> 11:33 PM CT, Dec. 17 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html">NATO Signals Support for Ukraine Amid Russia Threat</a> NYT: The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion. 
  <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
  <a href="https://www.npr.org/2021/12/16/1064951653/all-17-missionaries-kidnapped-by-a-gang-in-haiti-have-been-released">All 17 missionaries kidnapped by a gang in Haiti have been released</a> NPR: All 17 of the missionaries kidnapped in Haiti two months ago have now been freed. Violence and kidnapping have spiked in Haiti following the assassination of its president in July. 
- <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064951646/why-the-cost-of-carbon-is-increasing-and-how-that-affects-climate-policy">Why the cost of carbon is increasing — and how that affects climate policy</a> NPR: NPR's Mary Louise Kelly speaks with Michael Greenstone, professor and director of the Energy Policy Institute at the University of Chicago the impact of the rising cost of carbon on climate policy. 
  <p class="updated_time"> 02:52 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/congress-uyghur-forced-labor.html">Congress Passes Ban on Goods From China's Xinjiang Region</a> NYT: President Biden is expected to sign the bill, which drew a fierce corporate lobbying campaign against it. 
  <p class="updated_time"> 02:19 PM CT, Dec. 16 </p> 
