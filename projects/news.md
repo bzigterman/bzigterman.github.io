@@ -190,6 +190,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:48 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/white-house-not-budging-student-loans-525357">White House not budging on Feb. 1 end to student loans forgiveness</a> Politico: At a meeting with Biden officials Wednesday, advocates tried to "sound the alarm to them about what we believe to be a very serious political mistake that they’re about to be making." 
+ <p class="updated_time"> 11:01 AM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/us/politics/congress-gridlock-democracy.html">Congress Ends ‘Horrible Year’ With Divisions as Bitter as Ever</a> NYT: Democrats’ achievements were overshadowed by legislative setbacks, fallout from the Jan. 6 attack and a sense that Congress was not rising to meet a perilous moment in history. 
  <p class="updated_time"> 10:16 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/gop-gerrymandering-black-democrats.html">Map by Map, G.O.P. Chips Away at Black Democrats’ Power</a> NYT: Black elected officials in several states, from Congress down to the counties, have been drawn out of their districts this year or face headwinds to hold onto their seats. 
  <p class="updated_time"> 09:57 AM CT, Dec. 18 </p> 
@@ -340,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/biden-concedes-bbb-bill-wont-get-passed-this-year-525194">Biden concedes Build Back Better bill won’t get passed this year</a> Politico: “It takes time to finalize these agreements, prepare the legislative changes, and finish all the parliamentary and procedural steps needed to enable a Senate vote,” the president said. 
  <p class="updated_time"> 06:41 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-russia-ukraine.html">Biden’s Stand on Ukraine Is a Wider Test of U.S. Credibility Abroad</a> NYT: President Barack Obama also warned of severe consequences if Russia took action against its neighbor. Vladimir Putin annexed Crimea anyway. 
- <p class="updated_time"> 06:37 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/health/abortion-pills-fda.html">F.D.A. Will Permanently Allow Abortion Pills by Mail</a> NYT: The decision will broaden access to medication abortion, an increasingly common method, but many conservative states are already mobilizing against it. 
  <p class="updated_time"> 06:00 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/jobs-resignation-inflation-what-matters/index.html">Analysis: Why we had to reconsider jobs, inflation and politics this week</a> CNN: It's been a week of revisions and recalculations. We've had to change our understanding of why people are quitting their jobs and how long this stretch of everything getting more expensive will last. 
  <p class="updated_time"> 05:57 PM CT, Dec. 16 </p> 
