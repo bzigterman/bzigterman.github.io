@@ -184,10 +184,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:49 PM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/us/politics/biden-judges-reagan-record.html">Senate Confirms Biden’s 40th Judge, Tying a Reagan-Era Record</a> NYT: President Biden saw more of his judicial nominees confirmed in his first year than any president since Ronald Reagan. The Senate confirmed 18 federal judges in Donald Trump’s first year. 
+ <p class="updated_time"> 05:48 PM CT, Dec. 18 </p> 
+ <a href="https://www.cnn.com/2021/12/18/politics/white-house-omicron-warning-joe-biden/index.html">Biden admin eyes a potentially stark shift in messaging around ending the pandemic</a> CNN: President Joe Biden's top health officials came to an afternoon briefing at the White House Thursday with a warning -- and a request. 
  <p class="updated_time"> 05:16 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/18/politics/trump-supporters-knock-on-doors-in-search-for-2020-fraud/index.html">Trump loyalists are knocking on voters' doors in the latest quest to find fraud in the 2020 election</a> CNN: A few months ago, two women showed up at Steve Snell's home in southern Pennsylvania with questions for his 89-year-old mother-in-law. 
- <p class="updated_time"> 04:35 PM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/us/politics/biden-judges-reagan-record.html">Senate Confirms Biden’s 40th Judge, Tying a Reagan-Era Record</a> NYT: President Biden saw more of his judicial nominees confirmed in his first year than any president since Ronald Reagan. The Senate confirmed 18 federal judges in Donald Trump’s first year. 
  <p class="updated_time"> 04:14 PM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065547250/raising-debt-ceiling-wasnt-always-a-heated-source-of-debate">Raising debt ceiling wasn't always a heated source of debate</a> NPR: This week, Democrats pushed through a measure to raise the debt ceiling, to avoid a default on the nation's debt. But how did the debt ceiling become such a hot-button issue on Capitol Hill? 
  <p class="updated_time"> 03:30 PM CT, Dec. 18 </p> 
@@ -218,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/18/cruz-vote-russian-pipeline-sanctions-schumer-525334">Cruz secures vote on Russian pipeline sanctions in deal with Schumer</a> Politico: Cruz agreed to lift his holds on 32 nominees in exchange for the Senate voting in early January on his legislation to sanction the pipeline. 
  <p class="updated_time"> 09:02 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/middleeast/israel-iran-nuclear-attack.html">Israeli Defense Officials Cast Doubt on Threat to Attack Iran</a> NYT: Israel has threatened military action to destroy Iran’s nuclear program if need be. But defense officials say Israel does not have the ability, at least not anytime soon. 
- <p class="updated_time"> 08:47 AM CT, Dec. 18 </p> 
- <a href="https://www.cnn.com/2021/12/18/politics/white-house-omicron-warning-joe-biden/index.html">Biden admin eyes a potentially stark shift in messaging around ending the pandemic</a> CNN: President Joe Biden's top health officials came to an afternoon briefing at the White House Thursday with a warning -- and a request. 
  <p class="updated_time"> 08:46 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/us-covid-tests-omicron.html">With Omicron, U.S. Testing Capacity Faces Intense Pressure</a> NYT: President Biden came into office vowing to make testing cheap and accessible, but matching supply with demand has been a persistent problem. 
  <p class="updated_time"> 08:43 AM CT, Dec. 18 </p> 
