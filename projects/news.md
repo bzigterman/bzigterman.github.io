@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:23 PM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/novavax-vaccine-approval-who.html">Novavax Vaccine Wins Emergency Approval from the W.H.O.</a> NYT: The authorization could drastically increase the vaccine supply for low- and middle-income countries. 
+ <p class="updated_time"> 08:13 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59688405?at_medium=RSS&at_campaign=KARANGA">Theranos trial: Jury to decide fate of Elizabeth Holmes</a> BBC: The prosecution says she ran a "house of cards"; the defence liken her to a brave captain of a sinking ship. 
  <p class="updated_time"> 07:42 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59705709?at_medium=RSS&at_campaign=KARANGA">Covid-19: Omicron spreading at lightning speed - French PM</a> BBC: Restrictions are being tightened across Europe as countries battle a new wave of Covid-19 infections. 
  <p class="updated_time"> 07:05 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59691902?at_medium=RSS&at_campaign=KARANGA">Kim Potter: 'Taser mix-up' ex-officer weeps in manslaughter testimony</a> BBC: Kim Potter testified at her manslaughter trial about the "chaotic" fatal shooting of Daunte Wright. 
- <p class="updated_time"> 06:59 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59688405?at_medium=RSS&at_campaign=KARANGA">Theranos trial of Elizabeth Holmes hears closing arguments</a> BBC: The prosecution says Elizabeth Holmes ran a "house of cards"; the defence liken her to a brave captain of a sinking ship. 
  <p class="updated_time"> 06:41 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/17/1065315661/omicron-may-be-less-severe-in-south-africa-that-may-not-be-the-case-for-the-u-s">Omicron may be less severe in South Africa. That may not be the case for the U.S.</a> NPR: Researchers in South Africa have found that people infected with omicron, on average, are less likely to end up in the hospital. But the variant may act differently here in the U.S. 
  <p class="updated_time"> 06:25 PM CT, Dec. 17 </p> 
@@ -185,14 +187,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-omicron-surge.html">Why Britain Thinks Omicron Infected 200,000 People on Monday</a> NYT: Experts called it ‘a back-of-the-envelope calculation’ that showed how quickly the variant spreads, but also how little is known about it. 
  <p class="updated_time"> 01:24 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/netherlands-dutch-coalition.html">After Months, a ‘New’ Dutch Coalition With the Same Leader and Parties</a> NYT: Mark Rutte, who has weathered a scandal and criticism for overstaying his welcome, will be prime minister for a fourth term. 
- <p class="updated_time"> 12:06 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/africa/jacob-zuma-prison-south-africa.html">Jacob Zuma Must Return to Prison, South Africa Judge Rules</a> NYT: The former president had been granted medical parole two months into a 15-month prison sentence on contempt charges linked to a corruption inquiry. 
  <p class="updated_time"> 11:47 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/iran-nuclear-cameras-iaea.html">Iran Agrees to Replace Cameras at Nuclear Site but Blocks Images</a> NYT: Iran’s failure to allow the U.N. nuclear agency to fully monitor its nuclear program is hindering talks in Vienna on restoring the 2015 nuclear deal. 
  <p class="updated_time"> 11:25 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-michael-kretschmer-plot-saxony-vaccines.html">Vaccine Opponents in Germany Investigated Over Plot to Kill State Governor</a> NYT: The authorities in Dresden raided the homes of a group of people who they said were targeting the leader of the state of Saxony. A number of weapons were seized. 
- <p class="updated_time"> 10:50 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-russia-berlin-murder.html">Russian Is Convicted in Murder of Chechen Man in a Berlin Park</a> NYT: A German court ruled that the Russian state had orchestrated the attack, which strained ties between Berlin and Moscow. 
  <p class="updated_time"> 10:44 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/frenchwoman-dead-syria-detention-camp.html">France Refused to Repatriate a Sick Woman Who Joined the Islamic State. She Died.</a> NYT: A Frenchwoman died of health complications in a detention camp in Syria on Tuesday, her lawyer said. She had repeatedly asked to be repatriated to treat severe diabetes. 
  <p class="updated_time"> 09:18 AM CT, Dec. 15 </p> 
@@ -201,10 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/malta-eu-marijuana-legalize.html">Malta Becomes First E.U. Country to Legalize Marijuana</a> NYT: The government said that the new law was aimed at ending the criminalization of people for smoking the drug and at reducing criminal trafficking. 
  <p class="updated_time"> 08:49 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/business/economy/china-trump-trade-deal-biden.html">Biden’s China Dilemma: How to Enforce Trump’s Trade Deal</a> NYT: The Biden administration must decide whether to enforce a Trump-era trade deal that has not fulfilled its promise. 
- <p class="updated_time"> 08:21 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/india-sex-workers-benefits.html">India's Supreme Court Mandates Benefits for Sex Workers</a> NYT: Officials must enter them into databases for voting and benefits, the judges said, after they suffered from the effects of Covid-19 lockdowns. 
- <p class="updated_time"> 07:54 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/asia/omicron-hong-kong-study.html">Two Doses of China's Sinovac Inadequate Against Omicron, Hong Kong Study Suggests</a> NYT: Laboratory experiments suggest that the Chinese vaccine provides little protection against an Omicron infection. 
  <p class="updated_time"> 07:31 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html">Blinken Halts Asia Trip After Journalist Tests Positive for Covid</a> NYT: Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the United States earlier than planned. 
 
@@ -214,16 +208,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:39 PM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/us/politics/us-covid-tests-omicron.html">With Omicron, U.S. Testing Capacity Faces Intense Pressure</a> NYT: President Biden came into office vowing to make testing cheap and accessible, but matching supply with demand has been a persistent problem. 
+ <p class="updated_time"> 08:36 PM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/us/politics/biden-coronavirus-omicron-winter.html">Biden Struggles to Beat Back a Resurgent Virus Once Again</a> NYT: A new variant and vaccine resistance have upended the president’s plans for a hopeful holiday season. 
  <p class="updated_time"> 08:22 PM CT, Dec. 17 </p> 
- <a href="https://www.politico.com/news/2021/12/17/appeals-court-lifts-stay-vaccine-or-test-525313">Appeals court lifts stay on administration's vaccine-or-test mandate for large businesses</a> Politico: The latest ruling is likely to be appealed to the Supreme Court. 
- <p class="updated_time"> 08:09 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/us/politics/covid-tests-omicron.html">With Omicron, U.S. Testing Capacity Faces Intense Pressure</a> NYT: President Biden came into office vowing to make testing cheap and accessible, but matching supply with demand has been a persistent problem. 
+ <a href="https://www.politico.com/news/2021/12/17/appeals-court-lifts-stay-vaccine-or-test-525313">Appeals court lifts stay on administration's vaccine-or-test mandate for large businesses</a> Politico: Business groups quickly filed an appeal to the Supreme Court. 
  <p class="updated_time"> 07:41 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/appeals-court-vaccine-mandate-osha-large-employers-federal-contractors/index.html">Appeals court lets Biden administration enforce vaccine rules for large employers</a> CNN: The Biden administration scored a significant victory Friday in its court battles to enforce various federal vaccine mandates, with an appeals court ruling that the government can enforce a vaccine-or-testing rule for companies with more than 100 employees. 
  <p class="updated_time"> 07:37 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/harris-charlamagne-tha-god-interview-defends-biden/index.html">Harris defends Biden when questioned whether he or Manchin is President</a> CNN: Vice President Kamala Harris forcefully defended President Joe Biden when recently asked whether he or Sen. Joe Manchin is the president of the United States, as Biden's agenda remains stalled in part because of the West Virginia Democrat. 
- <p class="updated_time"> 06:48 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/us/politics/biden-coronavirus-omicron-winter.html">Biden Struggles to Beat Back a Resurgent Virus Once Again</a> NYT: A new variant and vaccine resistance have upended the president’s plans for a hopeful holiday season. 
  <p class="updated_time"> 06:40 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/marine-corps-discharges-103-members-covid-19-vaccine/index.html">Marine Corps discharges 103 service members for refusing Covid-19 vaccine</a> CNN: The Marine Corps has discharged 103 service members for refusing to take the Covid-19 vaccine, as the military begins carrying out enforcement actions for its vaccine mandate. 
  <p class="updated_time"> 05:30 PM CT, Dec. 17 </p> 
@@ -318,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/17/1065083098/morning-news-brief">News brief: omicron variant, spending bill stalls, abortion pill decision</a> NPR: How bad could the pandemic get this winter because of the omicron variant? One of President Biden's key agenda items is stalled. The FDA relaxes restrictions on access to abortion pill by mail. 
  <p class="updated_time"> 04:02 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/black-history-2021.html">The Biggest Black History Events in 2021</a> NYT: After the tumult and triumphs of 2020, here are the achievements that shaped the first year following the country’s racial reckoning. 
- <p class="updated_time"> 02:36 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/ashley-biden-project-veritas-diary.html">How Ashley Biden’s Diary Made Its Way to Project Veritas</a> NYT: New details shed light on the federal investigation into the conservative group’s acquisition last year of a journal kept by the president’s daughter. 
  <p class="updated_time"> 02:17 AM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065081902/uk-conservatives-suffer-shock-by-election-loss-in-another-setback-for-boris-john">U.K. Conservatives suffer shock by-election loss in another setback for Boris Johnson</a> NPR: U.K. Prime Minister Boris Johnson's Conservative Party has suffered a stunning defeat in a parliamentary by-election amid weeks of scandal and soaring COVID-19 infections. 
  <p class="updated_time"> 11:25 PM CT, Dec. 16 </p> 
@@ -396,6 +388,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/jan-6-gohmert-lawsuit-pence-524839">The Jan. 6 puzzle piece that's going largely ignored</a> Politico: Rep. Louie Gohmert  sued then-Vice President Mike Pence on Dec. 27. Donald Trump’s involvement in the case remains unclear. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/build-back-better-progressives-power-524783">‘Know when to hold and know when to fold’: Progressives accept limits of their power</a> Politico: House liberals dug in hard this year on social spending. Whatever Sen. Joe Manchin (D-W.Va.) does, they're ready to declare a win. 
+ <p class="updated_time"> 08:55 PM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/us/politics/trump-meadows-republicans-congress-jan-6.html">Meadows and the Band of Loyalists: How They Fought to Keep Trump in Power</a> NYT: A small circle of Republican lawmakers, working closely with President Donald J. Trump’s chief of staff, took on an outsize role in pressuring the Justice Department, amplifying conspiracy theories and flooding the courts in an attempt to overturn the 2020 election. 
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats’ filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
  <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
