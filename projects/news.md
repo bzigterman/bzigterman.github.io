@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:32 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59708304?at_medium=RSS&at_campaign=KARANGA">US court reinstates Covid vaccine mandate for large US businesses</a> BBC: The national mandate, blocked last month, will cover more than two-thirds of the country's workers. 
+ <p class="updated_time"> 10:24 PM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
  <p class="updated_time"> 08:23 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/novavax-vaccine-approval-who.html">Novavax Vaccine Wins Emergency Approval from the W.H.O.</a> NYT: The authorization could drastically increase the vaccine supply for low- and middle-income countries. 
  <p class="updated_time"> 08:13 PM CT, Dec. 17 </p> 
@@ -56,8 +60,6 @@ permalink: /projects/news/
  <p class="updated_time"> 03:20 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065311963/analyzing-the-biden-administrations-year-in-foreign-policy-toward-china-and-russ">Analyzing the Biden administration's year in foreign policy toward China and Russia</a> NPR: As the year comes to a close, here's where U.S. foreign policy toward Russia and China stands — and what we might expect in 2022. 
  <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
- <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/17/1064946655/coronavirus-faq-is-it-ok-for-the-kids-to-take-a-pic-with-santa">Coronavirus FAQ: Is it OK for the kids to take a pic with Santa? </a> NPR: Plus: Is it safe to go to a holiday party if not everyone is vaccinated? And are people getting different side effects from the COVID booster? 
  <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59692855?at_medium=RSS&at_campaign=KARANGA">Gardener Omar Raddad wins fight to re-open notorious murder case</a> BBC: A Moroccan gardener convicted of the notorious killing of a French heiress is fighting to clear his name. 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing a Blow to Boris Johnson</a> NYT: The governing party lost to the Liberal Democrats a district that it had represented for more than a century. 
  <p class="updated_time"> 07:47 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59696503?at_medium=RSS&at_campaign=KARANGA">Two teens slide to safety from fourth floor New York apartment fire</a> BBC: Watch this dramatic video of them escaping through a window and sliding down a pole to the ground. 
- <p class="updated_time"> 07:07 AM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59689793?at_medium=RSS&at_campaign=KARANGA">Israeli PM vows to catch W Bank ambush killers</a> BBC: Troops search for suspected Palestinian gunmen after an Israeli is shot dead and two others wounded. 
  <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated, and at least 17 people died. 
  <p class="updated_time"> 04:07 AM CT, Dec. 17 </p> 
@@ -208,8 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:10 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/business/osha-vaccine-mandate.html">Biden's Covid Vaccine Mandate Reinstated for Large Businesses</a> NYT: The decision, by a split three-judge panel, overturned an earlier ruling that had blocked a Biden administration rule requiring companies with more than 100 employees mandate vaccinations or testing for workers. 
+ <p class="updated_time"> 10:36 PM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/business/osha-vaccine-mandate.html">Biden's Covid Vaccine Mandate Reinstated for Large Businesses</a> NYT: The decision, by a split three-judge panel, overturned a ruling that had blocked a Biden administration rule requiring companies with 100 or more employees to mandate vaccinations or testing for workers. 
  <p class="updated_time"> 08:39 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/us-covid-tests-omicron.html">With Omicron, U.S. Testing Capacity Faces Intense Pressure</a> NYT: President Biden came into office vowing to make testing cheap and accessible, but matching supply with demand has been a persistent problem. 
  <p class="updated_time"> 08:36 PM CT, Dec. 17 </p> 
