@@ -396,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megabill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
  <p class="updated_time"> 04:29 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/white-house-scaled-back-holiday-parties/index.html">White House scales back holiday parties due to Covid concerns</a> CNN: The White House will dramatically scale back holiday party festivities this year, due to ongoing Covid-19 concerns, opting instead for smaller open house-style events. 
- <p class="updated_time"> 02:17 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/qanon-follower-sentence-pelosi-death-threats-524209">QAnon follower gets 28-month sentence for death threats to Pelosi</a> Politico: Judge says continuing election-fraud rhetoric from Republican politicians makes defendant an ongoing threat. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
