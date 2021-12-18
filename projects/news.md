@@ -41,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59688405?at_medium=RSS&at_campaign=KARANGA">Theranos trial: Jury to decide fate of Elizabeth Holmes</a> BBC: The prosecution says she ran a "house of cards"; the defence liken her to a brave captain of a sinking ship. 
  <p class="updated_time"> 07:05 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59691902?at_medium=RSS&at_campaign=KARANGA">Kim Potter: 'Taser mix-up' ex-officer weeps in manslaughter testimony</a> BBC: Kim Potter testified at her manslaughter trial about the "chaotic" fatal shooting of Daunte Wright. 
+ <p class="updated_time"> 07:04 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59707799?at_medium=RSS&at_campaign=KARANGA">Officer who shot Daunte Wright: 'I'm sorry it happened'</a> BBC: Former Minnesota police officer Kimberly Potter sobs in court as she apologises for shooting Daunte Wright. 
  <p class="updated_time"> 06:41 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/17/1065315661/omicron-may-be-less-severe-in-south-africa-that-may-not-be-the-case-for-the-u-s">Omicron may be less severe in South Africa. That may not be the case for the U.S.</a> NPR: Researchers in South Africa have found that people infected with omicron, on average, are less likely to end up in the hospital. But the variant may act differently here in the U.S. 
  <p class="updated_time"> 06:25 PM CT, Dec. 17 </p> 
@@ -143,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/health/coronavirus-omicron-variant.html">Scientists Are Racing to Gauge the Threat of Omicron</a> NYT: The variant will spread quickly through the United States, experts say. What happens after that is less certain. 
  <p class="updated_time"> 08:51 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html">Hu Xijin, Chief of China's Global Times, Will Retire</a> NYT: Mr. Hu, editor of the Communist Party tabloid Global Times, set the tone for a new generation of Chinese pundits with his flair for verbal combat. 
- <p class="updated_time"> 07:36 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59687946?at_medium=RSS&at_campaign=KARANGA">How billionaires pay less tax than you</a> BBC: Corporate giants use a mantra known as Buy Borrow Die to avoid paying income tax, say analysts. 
  <p class="updated_time"> 05:04 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59692022?at_medium=RSS&at_campaign=KARANGA">Philippines typhoon Rai: Month-old baby rescued in a tub</a> BBC: Thousands have been evacuated as the storm brought 165km/h (103 mph) winds and heavy rain. 
  <p class="updated_time"> 04:53 PM CT, Dec. 16 </p> 
