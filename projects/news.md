@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:42 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59705709?at_medium=RSS&at_campaign=KARANGA">Covid-19: Omicron spreading at lightning speed - French PM</a> BBC: Restrictions are being tightened across Europe as countries battle a new wave of Covid-19 infections. 
  <p class="updated_time"> 07:05 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59691902?at_medium=RSS&at_campaign=KARANGA">Kim Potter: 'Taser mix-up' ex-officer weeps in manslaughter testimony</a> BBC: Kim Potter testified at her manslaughter trial about the "chaotic" fatal shooting of Daunte Wright. 
  <p class="updated_time"> 06:59 PM CT, Dec. 17 </p> 
@@ -32,7 +34,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:12 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59703611?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell defence rests as she calls case 'unproven'</a> BBC: The defence struggled to produce witnesses on Friday and only nine out of a proposed 35 testified. 
  <p class="updated_time"> 04:57 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/killer-drone-ban-robot.html">Killer Robots Aren’t Science Fiction. A Push to Ban Them Is Growing.</a> NYT: A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty. 
+ <a href="https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html">Why There's a Growing Push to Ban Killer Robots</a> NYT: A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty. 
  <p class="updated_time"> 04:44 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Moscow masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected. 
  <p class="updated_time"> 04:09 PM CT, Dec. 17 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59696503?at_medium=RSS&at_campaign=KARANGA">Two teens slide to safety from fourth floor New York apartment fire</a> BBC: Watch this dramatic video of them escaping through a window and sliding down a pole to the ground. 
  <p class="updated_time"> 07:07 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59689793?at_medium=RSS&at_campaign=KARANGA">Israeli PM vows to catch W Bank ambush killers</a> BBC: Troops search for suspected Palestinian gunmen after an Israeli is shot dead and two others wounded. 
- <p class="updated_time"> 06:36 AM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59697805?at_medium=RSS&at_campaign=KARANGA">Andry Rajoelina: French nationals sentenced for Madagascar coup plot</a> BBC: The two men are accused of planning to assassinate President Andry Rajoelina. 
  <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated, and at least 17 people died. 
  <p class="updated_time"> 04:07 AM CT, Dec. 17 </p> 
@@ -214,8 +214,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:22 PM CT, Dec. 17 </p> 
+ <a href="https://www.politico.com/news/2021/12/17/appeals-court-lifts-stay-vaccine-or-test-525313">Appeals court lifts stay on administration's vaccine-or-test mandate for large businesses</a> Politico: The latest ruling is likely to be appealed to the Supreme Court. 
+ <p class="updated_time"> 08:09 PM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/us/politics/covid-tests-omicron.html">With Omicron, U.S. Testing Capacity Faces Intense Pressure</a> NYT: President Biden came into office vowing to make testing cheap and accessible, but matching supply with demand has been a persistent problem. 
+ <p class="updated_time"> 07:41 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/appeals-court-vaccine-mandate-osha-large-employers-federal-contractors/index.html">Appeals court lets Biden administration enforce vaccine rules for large employers</a> CNN: The Biden administration scored a significant victory Friday in its court battles to enforce various federal vaccine mandates, with an appeals court ruling that the government can enforce a vaccine-or-testing rule for companies with more than 100 employees. 
+ <p class="updated_time"> 07:37 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/harris-charlamagne-tha-god-interview-defends-biden/index.html">Harris defends Biden when questioned whether he or Manchin is President</a> CNN: Vice President Kamala Harris forcefully defended President Joe Biden when recently asked whether he or Sen. Joe Manchin is the president of the United States, as Biden's agenda remains stalled in part because of the West Virginia Democrat. 
  <p class="updated_time"> 06:48 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/us/politics/biden-virus-omicron-winter.html">Biden Struggles to Beat Back a Resurgent Virus Once Again</a> NYT: A new variant and vaccine resistance have upended the president’s plans for a hopeful holiday season. 
+ <a href="https://www.nytimes.com/2021/12/17/us/politics/biden-coronavirus-omicron-winter.html">Biden Struggles to Beat Back a Resurgent Virus Once Again</a> NYT: A new variant and vaccine resistance have upended the president’s plans for a hopeful holiday season. 
+ <p class="updated_time"> 06:40 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/marine-corps-discharges-103-members-covid-19-vaccine/index.html">Marine Corps discharges 103 service members for refusing Covid-19 vaccine</a> CNN: The Marine Corps has discharged 103 service members for refusing to take the Covid-19 vaccine, as the military begins carrying out enforcement actions for its vaccine mandate. 
+ <p class="updated_time"> 05:30 PM CT, Dec. 17 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/vaccine-mandate-generation-gap-poll/index.html">Analysis: Vaccine mandate divisions aren't just partisan</a> CNN: With age comes more support for vaccine mandates, polling shows. 
  <p class="updated_time"> 05:29 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/trump-anti-semitic-comments/index.html">Trump uses anti-Semitic tropes to again criticize Jewish Americans</a> CNN: Former President Donald Trump, in a newly released interview, claimed that Jewish Americans "either don't like Israel or don't care about Israel," while also suggesting that evangelical Christians "love Israel more than the Jews in this country." 
  <p class="updated_time"> 05:28 PM CT, Dec. 17 </p> 
@@ -372,12 +384,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">Senate that ‘sucks’ gets a dose of reality from Biden</a> Politico: Democrats wanted to hear from the president on how to move forward. He acknowledged on Thursday that his domestic spending vision has to wait. 
  <p class="updated_time"> 12:20 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/congressional-gold-medal-us-troops-kabul-attack/index.html">Biden signs bill to award Congressional Gold Medal to US service members killed in Kabul airport bombing</a> CNN: President Joe Biden on Thursday signed a bill that posthumously awards a Congressional Gold Medal to the 13 US service members killed in a terrorist attack outside Kabul's airport in August. 
- <p class="updated_time"> 12:16 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/biden-signs-debt-limit-increase/index.html">Biden signs debt limit increase</a> CNN: President Joe Biden on Thursday signed the bill raising the debt limit ceiling that passed Congress earlier this week, according to a press release from the White House. 
  <p class="updated_time"> 11:47 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/trump-spac-lawsuit.html">Former Insider at the Company Merging With Trump Media Sues Over 'Brazen' Fraud</a> NYT: A prospective investor in Digital World Acquisition Corp., a special purpose acquisition company that is merging with President Donald J. Trump’s social media start-up, says he was removed from a slate of board nominees without warning and deprived of shares he was owed. 
- <p class="updated_time"> 09:32 AM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/white-house-lead-pipe-removal-effort/index.html">Harris announces administration's new lead pipe and paint removal effort</a> CNN: Vice President Kamala Harris plans to announce a new administration push to eliminate lead from water pipes and homes during remarks Thursday in Washington, according to senior administration officials. 
  <p class="updated_time"> 09:31 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/jill-biden-showing-up/index.html">Jill Biden says administration will keep 'showing up' to help communities heal from tragedies</a> CNN: First lady Jill Biden wants the American people to know that the first family is there for them. 
  <p class="updated_time"> 07:22 AM CT, Dec. 16 </p> 
@@ -388,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/jan-6-gohmert-lawsuit-pence-524839">The Jan. 6 puzzle piece that's going largely ignored</a> Politico: Rep. Louie Gohmert  sued then-Vice President Mike Pence on Dec. 27. Donald Trump’s involvement in the case remains unclear. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/build-back-better-progressives-power-524783">‘Know when to hold and know when to fold’: Progressives accept limits of their power</a> Politico: House liberals dug in hard this year on social spending. Whatever Sen. Joe Manchin (D-W.Va.) does, they're ready to declare a win. 
- <p class="updated_time"> 07:50 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/yuma-arizona-migrants/index.html">A dramatic increase in number of migrants seeking asylum in Arizona overwhelms Border Patrol</a> CNN: Under the shadow of the border wall, dozens of migrants raced to get in line as they spotted the glimmer of vehicle lights down the road. US Border Patrol agents were on the way. 
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats’ filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
  <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
@@ -400,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/eric-adams-mayor-health-new-york-524802">Meatless Mondays and the evils of olive oil: Eric Adams wants to put New York on a diet</a> Politico: “We can save more lives with plant-based diet if people would only realize they are enslaved to fats, oil, sugar and things that are killing their body,” Adams said in a short 2018 film. 
  <p class="updated_time"> 04:01 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/health-care-spending-increase-pandemic-524793">Health spending growth more than doubled in first year of pandemic</a> Politico: Nearly the entire increase came from the burst of federal spending as the government mobilized to contain the spread of the virus. 
- <p class="updated_time"> 03:55 PM CT, Dec. 15 </p> 
- <a href="https://www.cnn.com/2021/12/15/politics/us-define-statelessness/index.html">US promises to define 'statelessness,' a first for the federal government </a> CNN: The United States is committing for the first time to defining "statelessness" and increasing protections for stateless people in the US, the Department of Homeland Security announced Wednesday. 
  <p class="updated_time"> 12:20 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/senate-sends-768b-defense-policy-bill-to-biden-524734">Senate sends $768B defense policy bill to Biden</a> Politico: The upper chamber voted 89-10 to pass the National Defense Authorization Act. 
  <p class="updated_time"> 07:35 AM CT, Dec. 15 </p> 
