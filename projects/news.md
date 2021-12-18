@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:50 AM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59709452?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: Dozens feared dead in Philippines</a> BBC: Some three million people are without power after a devastating typhoon swept over the Philippines. 
  <p class="updated_time"> 04:26 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065470550/russia-envoy-says-moscow-might-up-the-ante-if-the-west-ignores-its-demands">Russia envoy says Moscow might up the ante if the West ignores its demands</a> NPR: Deputy Foreign Minister Sergei Ryabkov accused Western allies of continuously pushing the envelope in relations with Russia. 
  <p class="updated_time"> 04:00 AM CT, Dec. 18 </p> 
@@ -17,7 +19,7 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065468764/pakistan-is-trying-to-rally-muslim-countries-to-help-afghanistan">Pakistan is trying to rally Muslim countries to help Afghanistan</a> NPR: Pakistan's foreign minister said his message to Sunday meeting is "Please do not abandon Afghanistan. Please engage. We are speaking for the people of Afghanistan." 
  <p class="updated_time"> 03:53 AM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59705709?at_medium=RSS&at_campaign=KARANGA">Covid-19: Omicron spreading at lightning speed - French PM</a> BBC: Restrictions are tightening across Europe as countries battle a new wave of Covid-19 infections. 
- <p class="updated_time"> 02:30 AM CT, Dec. 18 </p> 
+ <p class="updated_time"> 02:31 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">How Hong Kong’s ‘Patriots Only’ Elections Bolster Beijing’s Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials are urging the public to vote, but turnout is expected to be low. 
  <p class="updated_time"> 02:12 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065463755/police-search-house-of-man-linked-to-deadly-osaka-fire">Police search house of man linked to deadly Osaka fire</a> NPR: The possible suspect is believed to be among the three people who survived the fire and were in severe condition, police said. 
