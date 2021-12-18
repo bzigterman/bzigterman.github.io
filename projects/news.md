@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:33 PM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59713503?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch go into Christmas lockdown over Omicron wave</a> BBC: Non-essential shops, schools, bars, restaurants and other public venues will be closed until at least mid-January. 
- <p class="updated_time"> 11:00 AM CT, Dec. 18 </p> 
+ <p class="updated_time"> 12:43 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/middleeast/baghdad-book-fair-iraq.html">Reveling in the Joys of Books, and Reading, at a Baghdad Book Fair</a> NYT: Iraq is home to literary traditions ancient and modern, and to legions of avid readers who find a new book more meaningful to them than a new government. 
+ <p class="updated_time"> 12:37 PM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59713503?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch go into Christmas lockdown over Omicron wave</a> BBC: Non-essential shops, schools, bars, restaurants and other public venues will be closed until at least mid-January. 
+ <p class="updated_time"> 12:00 PM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/sport/sports-personality/59700067?at_medium=RSS&at_campaign=KARANGA">Sports Personality 2021: Simone Biles honoured with Lifetime Achievement award</a> BBC: American gymnast Simone Biles has been honoured with BBC Sports Personality of the Year's Lifetime Achievement award. 
  <p class="updated_time"> 11:00 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/europe/france-valerie-pecresse-republicans.html">In a France Fearful of Immigrants, Another Candidate Tacks Hard Right</a> NYT: Valérie Pécresse, the center-right candidate in April’s presidential election, has adopted the vocabulary of the far right when discussing immigration. 
  <p class="updated_time"> 10:07 AM CT, Dec. 18 </p> 
@@ -67,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59707799?at_medium=RSS&at_campaign=KARANGA">Officer who shot Daunte Wright: 'I'm sorry it happened'</a> BBC: Former Minnesota police officer Kimberly Potter sobs in court as she apologises for shooting Daunte Wright. 
  <p class="updated_time"> 06:41 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/17/1065315661/omicron-may-be-less-severe-in-south-africa-that-may-not-be-the-case-for-the-u-s">Omicron may be less severe in South Africa. That may not be the case for the U.S.</a> NPR: Researchers in South Africa have found that people infected with omicron, on average, are less likely to end up in the hospital. But the variant may act differently here in the U.S. 
- <p class="updated_time"> 06:25 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59707192?at_medium=RSS&at_campaign=KARANGA">Sir Rod Stewart pleads guilty to battery over Florida hotel 'punch'</a> BBC: The singer and his son clashed with a Florida hotel guard who refused them entry to a party. 
  <p class="updated_time"> 06:17 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59691176?at_medium=RSS&at_campaign=KARANGA">Afghanistan to Wisconsin: Refugees dream of home</a> BBC: Some of the 13,000 Afghan refugees living at a US military base in Wisconsin reflect on new lives. 
  <p class="updated_time"> 06:16 PM CT, Dec. 17 </p> 
