@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:00 AM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/middleeast/baghdad-book-fair-iraq.html">Reveling in the Joys of Books, and Reading, at a Baghdad Book Fair</a> NYT: Iraq is home to literary traditions ancient and modern, and to legions of avid readers who find a new book more meaningful to them than a new government. 
+ <p class="updated_time"> 11:00 AM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/europe/france-valerie-pecresse-republicans.html">In a France Fearful of Immigrants, Another Candidate Tacks Hard Right</a> NYT: Valérie Pécresse, the center-right candidate in April’s presidential election, has adopted the vocabulary of the far right when discussing immigration. 
  <p class="updated_time"> 10:07 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065135970/on-mexicos-southern-border-the-latest-migration-surge-is-haitian">On Mexico's southern border, the latest migration surge is Haitian</a> NPR: Thousands of Haitian migrants who had lived in South America for years are crossing into Mexico, overwhelming that country's capacity to process them. Many say their ultimate destination is the U.S. 
+ <p class="updated_time"> 10:04 AM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59712276?at_medium=RSS&at_campaign=KARANGA">Explosion at Pakistan bank kills at least 14</a> BBC: Officials say the blast in the southern city of Karachi may have been caused by a gas leak. 
  <p class="updated_time"> 09:47 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/afghanistan-marja-economy-taliban.html">Once a Symbol of U.S. Strength, an Afghan District Now Faces Dire Times</a> NYT: At the war’s end, residents of Marja are growing increasingly desperate for any kind of help, a frustration that has turned to anger that the international community has seemingly abandoned them. 
  <p class="updated_time"> 09:46 AM CT, Dec. 18 </p> 
@@ -25,6 +31,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065477225/activists-in-hong-kong-plan-not-to-vote-or-to-cast-blank-ballots-in-upcoming-ele">Activists in Hong Kong plan not to vote or to cast blank ballots in upcoming election</a> NPR: Hong Kong has legislative elections on Sunday, but new rules favor candidates friendly towards the Beijing government. Activists say people can protest by not voting or by casting blank ballots. 
  <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065477169/haitian-soup-joumou-awarded-protected-cultural-heritage-status-by-unesco">Haitian soup joumou awarded protected cultural heritage status by UNESCO</a> NPR: A famed Haitian soup has been awarded "protected cultural heritage status" by UNESCO. Scott Simon talks to Dominique Dupuy, Haitian ambassador to UNESCO about joumou. 
+ <p class="updated_time"> 06:12 AM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/sport/cricket/59708346?at_medium=RSS&at_campaign=KARANGA">The Ashes: England collapse again as Australia take total control of second Test</a> BBC: England's Ashes hopes are in a sorry mess after another dismal batting collapse on day three of the second Test against Australia. 
+ <p class="updated_time"> 05:41 AM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59527051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Key moments in the trial so far</a> BBC: Ghislaine Maxwell is accused of grooming girls for abuse by late paedophile Jeffrey Epstein. 
  <p class="updated_time"> 05:37 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065475041/indonesia-raises-volcano-warning-to-second-highest-level">Indonesia raises volcano warning to second-highest level</a> NPR: Indonesia's geological agency said it sees increasing activity that could trigger an avalanche of lava and searing gas, similar to the Dec. 4 eruption, 
  <p class="updated_time"> 05:04 AM CT, Dec. 18 </p> 
@@ -53,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59708304?at_medium=RSS&at_campaign=KARANGA">US court reinstates Covid vaccine mandate for large US businesses</a> BBC: The national mandate, blocked last month, will cover more than two-thirds of the country's workers. 
  <p class="updated_time"> 08:13 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59688405?at_medium=RSS&at_campaign=KARANGA">Theranos trial: Jury to decide fate of Elizabeth Holmes</a> BBC: The prosecution says she ran a "house of cards"; the defence liken her to a brave captain of a sinking ship. 
- <p class="updated_time"> 07:05 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59691902?at_medium=RSS&at_campaign=KARANGA">Kim Potter: 'Taser mix-up' ex-officer weeps in manslaughter testimony</a> BBC: Kim Potter testified at her manslaughter trial about the "chaotic" fatal shooting of Daunte Wright. 
  <p class="updated_time"> 07:04 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59707799?at_medium=RSS&at_campaign=KARANGA">Officer who shot Daunte Wright: 'I'm sorry it happened'</a> BBC: Former Minnesota police officer Kimberly Potter sobs in court as she apologises for shooting Daunte Wright. 
  <p class="updated_time"> 06:41 PM CT, Dec. 17 </p> 
@@ -77,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/in-pictures-59697047?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 11-17 December 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:06 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59702427?at_medium=RSS&at_campaign=KARANGA">India and Pakistan: The students in jail for praising the wrong cricket team</a> BBC: An Indian student's family calls for his release after he was arrested for celebrating Pakistan's victory. 
- <p class="updated_time"> 05:12 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59703611?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell defence rests as she calls case 'unproven'</a> BBC: The defence struggled to produce witnesses on Friday and only nine out of a proposed 35 testified. 
  <p class="updated_time"> 04:57 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html">Why There's a Growing Push to Ban Killer Robots</a> NYT: A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty. 
  <p class="updated_time"> 04:44 PM CT, Dec. 17 </p> 
@@ -103,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/17/1064946655/coronavirus-faq-is-it-ok-for-the-kids-to-take-a-pic-with-santa">Coronavirus FAQ: Is it OK for the kids to take a pic with Santa? </a> NPR: Plus: Is it safe to go to a holiday party if not everyone is vaccinated? And are people getting different side effects from the COVID booster? 
  <p class="updated_time"> 01:19 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/south-africa-omicron-hospitalizations.html">South Africa Hospitalizations Lower in Omicron Wave, but Caveats Apply</a> NYT: Researchers warned that the epicenter of the country’s outbreak is more highly vaccinated than others, and that natural immunity is also high. 
- <p class="updated_time"> 11:38 AM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59703523?at_medium=RSS&at_campaign=KARANGA">Anti-5G necklaces found to be radioactive</a> BBC: Conspiracy theories about 5G have fuelled a market for "anti-5G" accessories. 
  <p class="updated_time"> 10:27 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/middleeast/iran-covid-trial-khamenei.html">‘Health Defenders’ Jailed in Iran Wanted to Sue Supreme Leader Over Covid</a> NYT: Two lawyers and a civil rights activist who were outspoken about Iran’s chaotic response to the pandemic and delays in its vaccine rollout are on trial now, charged with threatening national security. 
  <p class="updated_time"> 10:24 AM CT, Dec. 17 </p> 
@@ -157,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/middleeast/turkish-lira-currency-erdogan-turkey.html">Turkish Currency Hits a New Low, Again</a> NYT: The Central Bank has cut interest rates, even as inflation continues to soar, deepening President Erdogan’s disputed economic plan and setting off a new plunge in the lira. 
  <p class="updated_time"> 09:56 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/italy-alps-bolzano-covid-vaccination.html">In Italy’s Alps, Traditional Medicine Flourishes, as Does Covid</a> NYT: The province of Bolzano has the country’s highest level of coronavirus infection and lowest vaccination rate, as many people there prefer to rely on the pure air and herbal remedies. 
- <p class="updated_time"> 08:28 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
  <p class="updated_time"> 06:55 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/queen-elizabeth-christmas-lunch-canceled-covid.html">Queen Elizabeth cancels traditional pre-Christmas lunch as cases surge in England.</a> NYT: Palace officials said it was a precautionary measure to avoid putting royal family members at risk by bringing a large group together at Windsor Castle. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
@@ -186,6 +188,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:48 AM CT, Dec. 18 </p> 
+ <a href="https://www.politico.com/news/2021/12/18/white-house-not-budging-student-loans-525357">White House not budging on Feb. 1 end to student loans forgiveness</a> Politico: At a meeting with Biden officials Wednesday, advocates tried to "sound the alarm to them about what we believe to be a very serious political mistake that they’re about to be making." 
  <p class="updated_time"> 10:16 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/gop-gerrymandering-black-democrats.html">Map by Map, G.O.P. Chips Away at Black Democrats’ Power</a> NYT: Black elected officials in several states, from Congress down to the counties, have been drawn out of their districts this year or face headwinds to hold onto their seats. 
  <p class="updated_time"> 09:57 AM CT, Dec. 18 </p> 
@@ -380,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/trump-january-6-obstruction-law-524806">Jan. 6 investigators mull whether Trump violated obstruction law</a> Politico: Rep. Liz Cheney (R-Wyo.) raised the question using precise terminology from the criminal statute that some view as possibly applicable to the former president's actions. 
  <p class="updated_time"> 05:04 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/omicron-covid-testing-524820">HHS forecast shows Omicron stretching U.S. Covid testing supply</a> Politico: The nation's supply could be stretched by the need to conduct 3 to 5 million tests per day by late January or early February. 
- <p class="updated_time"> 04:45 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/eric-adams-mayor-health-new-york-524802">Meatless Mondays and the evils of olive oil: Eric Adams wants to put New York on a diet</a> Politico: “We can save more lives with plant-based diet if people would only realize they are enslaved to fats, oil, sugar and things that are killing their body,” Adams said in a short 2018 film. 
  <p class="updated_time"> 04:01 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/health-care-spending-increase-pandemic-524793">Health spending growth more than doubled in first year of pandemic</a> Politico: Nearly the entire increase came from the burst of federal spending as the government mobilized to contain the spread of the virus. 
  <p class="updated_time"> 07:35 AM CT, Dec. 15 </p> 
