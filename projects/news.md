@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:04 AM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59710482?at_medium=RSS&at_campaign=KARANGA">France red list: Queues in St Pancras ahead of travel ban</a> BBC: Travellers in St Pancras station, London, queue to try and get to France before the imposition of restrictions. 
+ <p class="updated_time"> 05:00 AM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/canada/newfoundland-atlantic-pandemic.html">Why Are So Many Canadians Moving to the Atlantic Provinces?</a> NYT: A Times reporter fulfills his lifelong dream of visiting Newfoundland and explores why so many Canadians are moving to the country’s Atlantic provinces. 
  <p class="updated_time"> 04:50 AM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59709452?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: Dozens feared dead in Philippines</a> BBC: Some three million people are without power after a devastating typhoon swept over the Philippines. 
  <p class="updated_time"> 04:26 AM CT, Dec. 18 </p> 
@@ -143,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/health/coronavirus-omicron-variant.html">Scientists Are Racing to Gauge the Threat of Omicron</a> NYT: The variant will spread quickly through the United States, experts say. What happens after that is less certain. 
  <p class="updated_time"> 08:51 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html">Hu Xijin, Chief of China's Global Times, Will Retire</a> NYT: Mr. Hu, editor of the Communist Party tabloid Global Times, set the tone for a new generation of Chinese pundits with his flair for verbal combat. 
- <p class="updated_time"> 07:38 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59693271?at_medium=RSS&at_campaign=KARANGA">Huntsman spider interrupts Australian Covid press briefing</a> BBC: Queensland's health minister remained calm after a journalist said a spider was crawling on her. 
  <p class="updated_time"> 07:36 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59687946?at_medium=RSS&at_campaign=KARANGA">How billionaires pay less tax than you</a> BBC: Corporate giants use a mantra known as Buy Borrow Die to avoid paying income tax, say analysts. 
  <p class="updated_time"> 05:04 PM CT, Dec. 16 </p> 
@@ -201,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/frenchwoman-dead-syria-detention-camp.html">France Refused to Repatriate a Sick Woman Who Joined the Islamic State. She Died.</a> NYT: A Frenchwoman died of health complications in a detention camp in Syria on Tuesday, her lawyer said. She had repeatedly asked to be repatriated to treat severe diabetes. 
  <p class="updated_time"> 09:14 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/malta-eu-marijuana-legalize.html">Malta Becomes First E.U. Country to Legalize Marijuana</a> NYT: The government said that the new law was aimed at ending the criminalization of people for smoking the drug and at reducing criminal trafficking. 
- <p class="updated_time"> 08:49 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/business/economy/china-trump-trade-deal-biden.html">Biden’s China Dilemma: How to Enforce Trump’s Trade Deal</a> NYT: The Biden administration must decide whether to enforce a Trump-era trade deal that has not fulfilled its promise. 
 
 
 </details>
