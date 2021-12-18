@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:47 AM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/asia/carrie-lam-hong-kong.html">Can a ‘Very Confident’ Carrie Lam Salvage Her Legacy in Hong Kong?</a> NYT: Mrs. Lam is Hong Kong’s most unpopular leader ever, blamed for mass protests and a political crackdown. Yet she now appears reinvigorated, perhaps even ready for a second term. 
  <p class="updated_time"> 07:10 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
  <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59709452?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: Dozens feared dead in Philippines</a> BBC: Some three million people are without power after a devastating typhoon swept over the Philippines. 
  <p class="updated_time"> 04:26 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065470550/russia-envoy-says-moscow-might-up-the-ante-if-the-west-ignores-its-demands">Russia envoy says Moscow might up the ante if the West ignores its demands</a> NPR: Deputy Foreign Minister Sergei Ryabkov accused Western allies of continuously pushing the envelope in relations with Russia. 
- <p class="updated_time"> 04:00 AM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/asia/carrie-lam-hong-kong.html">Can a ‘Very Confident’ Carrie Lam Salvage Her Legacy in Hong Kong?</a> NYT: Mrs. Lam is Hong Kong’s most unpopular leader ever, blamed for mass protests and a political crackdown. Yet she now appears reinvigorated, perhaps even ready for a second term. 
  <p class="updated_time"> 04:00 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/afghanistan-marja-economy-taliban.html">Once a Symbol of U.S. Strength, an Afghan District Now Faces Dire Times</a> NYT: At the war’s end, residents of Marja are growing increasingly desperate for any kind of help, a frustration that has turned to anger that the international community has seemingly abandoned them. 
  <p class="updated_time"> 03:53 AM CT, Dec. 18 </p> 
@@ -336,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/us/politics/phil-waldron-jan-6.html">Jan. 6 Panel Subpoenas Retired Colonel Who Shared Plan to Overturn Election</a> NYT: Phil Waldron has been under scrutiny since a 38-page PowerPoint he circulated was turned over to the panel by former President Donald J. Trump’s last chief of staff. 
  <p class="updated_time"> 10:53 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-immigration-build-back-better.html">Biden Says Build Back Better Bill Will Take More Time</a> NYT: A top Senate official ruled that a measure to grant legal status to millions of undocumented immigrants must come out of the plan, as President Biden said a final deal would take more time. 
- <p class="updated_time"> 10:27 PM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/senate-confirms-bidens-joint-chiefs-pick-525239">Senate confirms Biden's Joint Chiefs pick</a> Politico: Adm. Christopher Grady most recently led the Navy's Fleet Forces Command, which is tasked with ensuring the fleet is manned, trained and equipped before deploying. 
  <p class="updated_time"> 10:17 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/economy/omicron-inflation.html">Omicron Is an Economic Threat, but Inflation Is Worse, Central Bankers Say</a> NYT: Within 24 hours, the Federal Reserve, Bank of England and European Central Bank all stepped forward to deal with price increases. 
  <p class="updated_time"> 08:13 PM CT, Dec. 16 </p> 
