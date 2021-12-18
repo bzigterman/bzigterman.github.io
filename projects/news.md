@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:29 PM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/london-major-incident.html">With Omicron Surging, London Declares a ‘Major Incident'</a> NYT: The Greater London area has seen cases rise by nearly 200 percent over the last two weeks, making it the hardest hit area of Britain. 
  <p class="updated_time"> 01:29 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html">Oriol Bohigas, Architect Who Helped Transform Barcelona, Dies at 95</a> NYT: He was a mastermind of the city’s overhaul in preparation for the 1992 Summer Olympics, which helped turn it into a major tourist destination. 
  <p class="updated_time"> 01:00 PM CT, Dec. 18 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
  <p class="updated_time"> 05:20 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/theater/selling-kabul-afghanistan-sylvia-khoury.html">‘Selling Kabul’ Holds Up a New Mirror After the Taliban Takeover</a> NYT: Sylvia Khoury’s play, which takes place over one night in Afghanistan in 2013, has only deepened after a pandemic postponement. 
- <p class="updated_time"> 04:49 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/coronavirus-omicron-vaccines-wave.html">Coronavirus Briefing: Omicron vs. vaccines</a> NYT: And the coming Omicron wave. 
 
 
 </details>
