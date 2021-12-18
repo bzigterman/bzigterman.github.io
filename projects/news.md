@@ -21,6 +21,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/middleeast/baghdad-book-fair-iraq.html">Reveling in the Joys of Books, and Reading, at a Baghdad Book Fair</a> NYT: Iraq is home to literary traditions ancient and modern, and to legions of avid readers who find a new book more meaningful to them than a new government. 
  <p class="updated_time"> 12:00 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/sports-personality/59700067?at_medium=RSS&at_campaign=KARANGA">Sports Personality 2021: Simone Biles honoured with Lifetime Achievement award</a> BBC: American gymnast Simone Biles has been honoured with BBC Sports Personality of the Year's Lifetime Achievement award. 
+ <p class="updated_time"> 11:28 AM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-kent-59710100?at_medium=RSS&at_campaign=KARANGA">Migrant crossings: More than 900 cross Channel in two days</a> BBC: Nearly 28,000 people have now crossed from France to England in small boats this year. 
  <p class="updated_time"> 11:00 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/europe/france-valerie-pecresse-republicans.html">In a France Fearful of Immigrants, Another Candidate Tacks Hard Right</a> NYT: Valérie Pécresse, the center-right candidate in April’s presidential election, has adopted the vocabulary of the far right when discussing immigration. 
  <p class="updated_time"> 10:07 AM CT, Dec. 18 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/the-worldwantsgreen-hydrogen-namibiasays-it-can-deliver-11639823404">The WorldWantsGreen Hydrogen. NamibiaSays It Can Deliver.</a> WSJ: The southern African nation of sun-laden deserts and wind-swept coastline is aiming to develop a hydrogen industry from renewable sources to meet growing global demand. 
  <p class="updated_time"> 10:32 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59708304?at_medium=RSS&at_campaign=KARANGA">US court reinstates Covid vaccine mandate for large US businesses</a> BBC: The national mandate, blocked last month, will cover more than two-thirds of the country's workers. 
- <p class="updated_time"> 08:13 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59688405?at_medium=RSS&at_campaign=KARANGA">Theranos trial: Jury to decide fate of Elizabeth Holmes</a> BBC: The prosecution says she ran a "house of cards"; the defence liken her to a brave captain of a sinking ship. 
  <p class="updated_time"> 07:04 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59707799?at_medium=RSS&at_campaign=KARANGA">Officer who shot Daunte Wright: 'I'm sorry it happened'</a> BBC: Former Minnesota police officer Kimberly Potter sobs in court as she apologises for shooting Daunte Wright. 
  <p class="updated_time"> 06:41 PM CT, Dec. 17 </p> 
