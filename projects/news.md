@@ -208,7 +208,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:16 PM CT, Dec. 17 </p> 
+ <p class="updated_time"> 10:10 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/business/osha-vaccine-mandate.html">Biden's Covid Vaccine Mandate Reinstated for Large Businesses</a> NYT: The decision, by a split three-judge panel, overturned an earlier ruling that had blocked a Biden administration rule requiring companies with more than 100 employees mandate vaccinations or testing for workers. 
  <p class="updated_time"> 08:39 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/us-covid-tests-omicron.html">With Omicron, U.S. Testing Capacity Faces Intense Pressure</a> NYT: President Biden came into office vowing to make testing cheap and accessible, but matching supply with demand has been a persistent problem. 
