@@ -184,6 +184,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:35 PM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/us/politics/biden-judges-reagan-record.html">Senate Confirms Biden’s 40th Judge, Tying a Reagan-Era Record</a> NYT: President Biden saw more of his judicial nominees confirmed in his first year than any president since Ronald Reagan. The Senate confirmed 18 federal judges in Donald Trump’s first year. 
  <p class="updated_time"> 04:14 PM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065547250/raising-debt-ceiling-wasnt-always-a-heated-source-of-debate">Raising debt ceiling wasn't always a heated source of debate</a> NPR: This week, Democrats pushed through a measure to raise the debt ceiling, to avoid a default on the nation's debt. But how did the debt ceiling become such a hot-button issue on Capitol Hill? 
  <p class="updated_time"> 03:30 PM CT, Dec. 18 </p> 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/us/politics/phil-waldron-jan-6.html">Jan. 6 Panel Subpoenas Retired Colonel Who Shared Plan to Overturn Election</a> NYT: Phil Waldron has been under scrutiny since a 38-page PowerPoint he circulated was turned over to the panel by former President Donald J. Trump’s last chief of staff. 
  <p class="updated_time"> 10:53 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-immigration-build-back-better.html">Biden Says Build Back Better Bill Will Take More Time</a> NYT: A top Senate official ruled that a measure to grant legal status to millions of undocumented immigrants must come out of the plan, as President Biden said a final deal would take more time. 
- <p class="updated_time"> 10:17 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/business/economy/omicron-inflation.html">Omicron Is an Economic Threat, but Inflation Is Worse, Central Bankers Say</a> NYT: Within 24 hours, the Federal Reserve, Bank of England and European Central Bank all stepped forward to deal with price increases. 
  <p class="updated_time"> 08:13 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/rnc-trump-investigations.html">R.N.C. Is Said to Agree to Pay Up to $1.6 Million of Trump’s Personal Legal Bills</a> NYT: Under the unusual arrangement, the Republican Party is paying to defend the former president as he faces investigations into his private business practices. 
  <p class="updated_time"> 07:43 PM CT, Dec. 16 </p> 
