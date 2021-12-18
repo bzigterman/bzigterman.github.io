@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:47 AM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/asia/afghanistan-marja-economy-taliban.html">Once a Symbol of U.S. Strength, an Afghan District Now Faces Dire Times</a> NYT: At the war’s end, residents of Marja are growing increasingly desperate for any kind of help, a frustration that has turned to anger that the international community has seemingly abandoned them. 
  <p class="updated_time"> 09:28 AM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59705709?at_medium=RSS&at_campaign=KARANGA">Covid-19: Omicron spreading at lightning speed - French PM</a> BBC: Restrictions are tightening across Europe as countries battle a new wave of Covid-19 infections. 
  <p class="updated_time"> 09:02 AM CT, Dec. 18 </p> 
@@ -32,15 +34,19 @@ permalink: /projects/news/
  <p class="updated_time"> 04:26 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065470550/russia-envoy-says-moscow-might-up-the-ante-if-the-west-ignores-its-demands">Russia envoy says Moscow might up the ante if the West ignores its demands</a> NPR: Deputy Foreign Minister Sergei Ryabkov accused Western allies of continuously pushing the envelope in relations with Russia. 
  <p class="updated_time"> 04:00 AM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/asia/afghanistan-marja-economy-taliban.html">Once a Symbol of U.S. Strength, an Afghan District Now Faces Dire Times</a> NYT: At the war’s end, residents of Marja are growing increasingly desperate for any kind of help, a frustration that has turned to anger that the international community has seemingly abandoned them. 
+ <a href="https://www.wsj.com/articles/some-cities-turn-to-decriminalizing-drugs-as-overdoses-climb-11639839602">Some Cities Turn to Decriminalizing Drugs as Overdoses Climb</a> WSJ: Officials say they are seeking ways of handling an overdose epidemic that has swept across North America, fueled by an increasingly toxic drug supply that has overwhelmed the black market. 
  <p class="updated_time"> 03:53 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065468764/pakistan-is-trying-to-rally-muslim-countries-to-help-afghanistan">Pakistan is trying to rally Muslim countries to help Afghanistan</a> NPR: Pakistan's foreign minister said his message to Sunday meeting is "Please do not abandon Afghanistan. Please engage. We are speaking for the people of Afghanistan." 
+ <p class="updated_time"> 03:00 AM CT, Dec. 18 </p> 
+ <a href="https://www.wsj.com/articles/europes-ski-slopes-are-open-despite-omicron-at-least-for-now-11639836003">Europe Keeps Its Ski Slopes Open Despite Omicron</a> WSJ: Wide use of the European Union’s digital Covid-19 pass has encouraged skiers to take to the slopes in a boost to ski-lift operators and other local businesses. 
  <p class="updated_time"> 02:31 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">How Hong Kong’s ‘Patriots Only’ Elections Bolster Beijing’s Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials are urging the public to vote, but turnout is expected to be low. 
  <p class="updated_time"> 02:12 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065463755/police-search-house-of-man-linked-to-deadly-osaka-fire">Police search house of man linked to deadly Osaka fire</a> NPR: The possible suspect is believed to be among the three people who survived the fire and were in severe condition, police said. 
  <p class="updated_time"> 01:33 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065458877/the-events-that-led-to-hong-kongs-pivotal-elections">The events that led to Hong Kong's pivotal elections</a> NPR: Demands for expanded democracy in the semi-autonomous territory inspired protest movements that were largely ignored by Beijing and crushed by security forces. 
+ <p class="updated_time"> 11:30 PM CT, Dec. 17 </p> 
+ <a href="https://www.wsj.com/articles/the-worldwantsgreen-hydrogen-namibiasays-it-can-deliver-11639823404">The WorldWantsGreen Hydrogen. NamibiaSays It Can Deliver.</a> WSJ: The southern African nation of sun-laden deserts and wind-swept coastline is aiming to develop a hydrogen industry from renewable sources to meet growing global demand. 
  <p class="updated_time"> 10:32 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59708304?at_medium=RSS&at_campaign=KARANGA">US court reinstates Covid vaccine mandate for large US businesses</a> BBC: The national mandate, blocked last month, will cover more than two-thirds of the country's workers. 
  <p class="updated_time"> 08:13 PM CT, Dec. 17 </p> 
@@ -99,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/17/1065200225/pfizer-third-dose-covid-vaccine-infants-young-children">Pfizer plans to test a third dose of its COVID vaccine on infants and young children</a> NPR: Pfizer and BioNTech, which produced the first COVID-19 vaccine authorized in the U.S., say they will expand ongoing trials to include a third dose for children as young as 6 months old. 
  <p class="updated_time"> 11:38 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59703523?at_medium=RSS&at_campaign=KARANGA">Anti-5G necklaces found to be radioactive</a> BBC: Conspiracy theories about 5G have fuelled a market for "anti-5G" accessories. 
- <p class="updated_time"> 10:49 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/omicron-seen-doubling-every-1-days-in-parts-of-u-k-11639747057">New York Hits Covid-19 Case Record as Omicron Looms</a> WSJ: Officials worked to shore up testing and healthcare capacity, as new Covid-19 infections hit a daily record in New York state and the Omicron variant added new risks to the pandemic response across the U.S. 
  <p class="updated_time"> 10:27 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/middleeast/iran-covid-trial-khamenei.html">‘Health Defenders’ Jailed in Iran Wanted to Sue Supreme Leader Over Covid</a> NYT: Two lawyers and a civil rights activist who were outspoken about Iran’s chaotic response to the pandemic and delays in its vaccine rollout are on trial now, charged with threatening national security. 
  <p class="updated_time"> 10:24 AM CT, Dec. 17 </p> 
@@ -125,18 +129,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/americas/chile-adoption-pinochet.html">Stolen at Birth, Chilean Adoptees Uncover Their Past</a> NYT: Hundreds of Chileans adopted abroad have learned that they were trafficked. Investigators believe thousands of children may have been taken from their parents during Chile’s dictatorship. 
  <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
  <a href="https://www.wsj.com/articles/haitians-hoping-to-reach-u-s-stranded-in-chile-across-americas-11639753203">Haitians Hoping to Reach U.S. Stranded in Chile, Across Americas</a> WSJ: Chile’s presidential vote will decide the fate of the tens of thousands of Haitian migrants living there. If hard-line immigration policies are adopted, many of them might head to the U.S. border. 
- <p class="updated_time"> 03:59 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/arson-murder-probe-begins-in-japan-after-fire-kills-24-11639753167">Arson, Murder Probe Begins in Japan After Fire Kills 24</a> WSJ: A man who walked into a busy Japanese mental-health clinic with a paper bag carrying flammable liquid is under investigation for murder and arson. 
- <p class="updated_time"> 03:56 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-lays-out-security-guarantees-it-wants-from-u-s-europe-11639753002">Russia Lays Out Security Guarantees It Wants from the West</a> WSJ: Russia handed the proposals to the U.S. this week, as the country rebuffed warnings from the U.S. and Europe over what they believe are Moscow’s intentions to invade Ukraine. 
  <p class="updated_time"> 03:54 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/ishigaki-japan-missiles-taiwan.html">The Island Paradise Near the Front Line of Tensions Over Taiwan</a> NYT: New missile batteries planned for the Japanese island of Ishigaki reflect a drastic shift in Japan’s views on China. 
- <p class="updated_time"> 03:46 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/yemens-houthis-seek-departure-of-top-iranian-diplomat-11639752398">Yemen's Houthis Seek Departure of Top Iranian Diplomat</a> WSJ: A member of Iran’s Revolutionary Guards was smuggled into Yemen last year and named ambassador to Houthi-rebel-controlled areas. Now, the Houthis want to send him back, officials said. 
- <p class="updated_time"> 02:47 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/japanese-worker-at-u-s-base-in-japan-diagnosed-with-omicron-after-military-outbreak-11639748240">Japanese Worker at U.S. Base Diagnosed With Omicron</a> WSJ: The variant’s presence raised concerns that Omicron may have gained a footing in Japan. 
- <p class="updated_time"> 12:11 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-holds-first-election-without-opposition-but-will-people-vote-11639739483">Hong Kong Holds First Election Without Opposition. But Will People Vote?</a> WSJ: Sunday’s election will feature only Beijing-approved candidates, after an overhaul of voting rules and a crackdown on the city’s opposition. 
  <p class="updated_time"> 11:30 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/australia/the-giant-who-lives-in-the-melbourne-museum.html">The Giant Who Lives in the Melbourne Museum</a> NYT: The world’s most complete triceratops skeleton ever found will go on display next year, displacing a beloved, if quirky, exhibit of taxidermy. 
  <p class="updated_time"> 10:04 PM CT, Dec. 16 </p> 
@@ -434,8 +428,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/jeffries-mccarthy-house-election-524100">‘Who is he?’ The X-factor relationship that could soon rule the House</a> Politico: Hakeem Jeffries and Kevin McCarthy may well lead their parties in the lower chamber come 2023. But their relationship is a black box. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430"> Harris trashes her media coverage</a> Politico Playbook: And Chris Wallace leaves Fox News. 
- <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/11/middle-class-joe-visits-late-night-jimmy-495429"> ‘Middle-class Joe’ visits late-night Jimmy</a> Politico Playbook: And what the Supreme Court's Texas ruling means for Roe v. Wade. 
 
 
 </details>
