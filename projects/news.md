@@ -175,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/us/coronavirus-omicron-vaccines-wave.html">Coronavirus Briefing: Omicron vs. vaccines</a> NYT: And the coming Omicron wave. 
  <p class="updated_time"> 03:41 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/americas/canada-travel-warning-omicron.html">Canadian Government Warns Residents to Avoid Nonessential Travel</a> NYT: In response to the spread of Omicron, Canada is also ramping up distribution of booster doses and rapid antigen tests. 
- <p class="updated_time"> 02:57 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-covid-record-cases.html">Britain Breaks Daily Record for New Virus Cases</a> NYT: Officials didn’t specify what share of the new cases might be Omicron, though they said a majority in London were from the variant. 
  <p class="updated_time"> 02:32 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-omicron-surge.html">Why Britain Thinks Omicron Infected 200,000 People on Monday</a> NYT: Experts called it ‘a back-of-the-envelope calculation’ that showed how quickly the variant spreads, but also how little is known about it. 
  <p class="updated_time"> 01:24 PM CT, Dec. 15 </p> 
@@ -190,8 +188,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:48 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/white-house-not-budging-student-loans-525357">White House not budging on Feb. 1 end to student loans forgiveness</a> Politico: At a meeting with Biden officials Wednesday, advocates tried to "sound the alarm to them about what we believe to be a very serious political mistake that they’re about to be making." 
- <p class="updated_time"> 11:01 AM CT, Dec. 18 </p> 
+ <p class="updated_time"> 11:44 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/congress-gridlock-democracy.html">Congress Ends ‘Horrible Year’ With Divisions as Bitter as Ever</a> NYT: Democrats’ achievements were overshadowed by legislative setbacks, fallout from the Jan. 6 attack and a sense that Congress was not rising to meet a perilous moment in history. 
+ <p class="updated_time"> 11:43 AM CT, Dec. 18 </p> 
+ <a href="https://www.npr.org/2021/12/18/1065331379/electric-cars-charging-network-white-house-harris">The White House wants a robust electric vehicle charging network. Here's the plan</a> NPR: The White House this week outlined a plan to install electric vehicle charger nationwide, a step it says is vital to improving the accessibility and practicality of nontraditional vehicles. 
  <p class="updated_time"> 10:16 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/gop-gerrymandering-black-democrats.html">Map by Map, G.O.P. Chips Away at Black Democrats’ Power</a> NYT: Black elected officials in several states, from Congress down to the counties, have been drawn out of their districts this year or face headwinds to hold onto their seats. 
  <p class="updated_time"> 09:57 AM CT, Dec. 18 </p> 
@@ -316,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/cartoons/2021/12/17/the-nations-cartoonists-on-the-week-in-politics-000272">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:07 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/senate-race-rankings-december/index.html">The 10 Senate seats most likely to flip in 2022</a> CNN: As the calendar turns to 2022, Senate races are about to kick into much higher gear, with ad spending increasing ahead of the first primaries in May and just a few more fundraising quarters for candidates to prove they're serious 
- <p class="updated_time"> 04:07 AM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065083126/house-panel-wraps-up-an-important-week-in-the-probe-into-the-capitol-attack">House panel wraps up an important week in the probe into the Capitol attack</a> NPR: It's been a busy time for the House panel investigating the Jan. 6 attack on the U.S. Capitol, as the investigation moves closer to former President Donald Trump's inner circle. 
  <p class="updated_time"> 04:02 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/black-history-2021.html">The Biggest Black History Events in 2021</a> NYT: After the tumult and triumphs of 2020, here are the achievements that shaped the first year following the country’s racial reckoning. 
  <p class="updated_time"> 11:25 PM CT, Dec. 16 </p> 
