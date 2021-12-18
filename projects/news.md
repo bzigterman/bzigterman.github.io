@@ -7,6 +7,28 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:05 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59691902?at_medium=RSS&at_campaign=KARANGA">Kim Potter: 'Taser mix-up' ex-officer weeps in manslaughter testimony</a> BBC: Kim Potter testified at her manslaughter trial about the "chaotic" fatal shooting of Daunte Wright. 
+ <p class="updated_time"> 06:59 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59688405?at_medium=RSS&at_campaign=KARANGA">Theranos trial of Elizabeth Holmes hears closing arguments</a> BBC: The prosecution says Elizabeth Holmes ran a "house of cards"; the defence liken her to a brave captain of a sinking ship. 
+ <p class="updated_time"> 06:41 PM CT, Dec. 17 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/12/17/1065315661/omicron-may-be-less-severe-in-south-africa-that-may-not-be-the-case-for-the-u-s">Omicron may be less severe in South Africa. That may not be the case for the U.S.</a> NPR: Researchers in South Africa have found that people infected with omicron, on average, are less likely to end up in the hospital. But the variant may act differently here in the U.S. 
+ <p class="updated_time"> 06:25 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59707192?at_medium=RSS&at_campaign=KARANGA">Sir Rod Stewart pleads guilty to battery over Florida hotel 'punch'</a> BBC: The singer and his son clashed with a Florida hotel guard who refused them entry to a party. 
+ <p class="updated_time"> 06:17 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59691176?at_medium=RSS&at_campaign=KARANGA">Afghanistan to Wisconsin: Refugees dream of home</a> BBC: Some of the 13,000 Afghan refugees living at a US military base in Wisconsin reflect on new lives. 
+ <p class="updated_time"> 06:12 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59689177?at_medium=RSS&at_campaign=KARANGA">Lagos party plans threatened by Nigeria Covid passports</a> BBC: Nigeria was briefly put on the UK's travel red list but most people are indifferent to coronavirus. 
+ <p class="updated_time"> 06:11 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59674377?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine: Can a solution be found for war in Ukraine's east?</a> BBC: The West fears a Russian invasion so hopes of a peaceful solution to the conflict look slim. 
+ <p class="updated_time"> 06:10 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59644739?at_medium=RSS&at_campaign=KARANGA">Caroline and Martine: Picture book heroines who fought for French hearts</a> BBC: For nearly 70 years, Caroline and Martine have been rivals for the hearts of French schoolchildren. 
+ <p class="updated_time"> 06:07 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59685203?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… What 2021 taught us about Covid</a> BBC: A look back at how the pandemic evolved throughout 2021, and what we've learned from it. 
+ <p class="updated_time"> 06:06 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-59697047?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 11-17 December 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
+ <p class="updated_time"> 06:06 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59702427?at_medium=RSS&at_campaign=KARANGA">India and Pakistan: The students in jail for praising the wrong cricket team</a> BBC: An Indian student's family calls for his release after he was arrested for celebrating Pakistan's victory. 
  <p class="updated_time"> 05:12 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59703611?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell defence rests as she calls case 'unproven'</a> BBC: The defence struggled to produce witnesses on Friday and only nine out of a proposed 35 testified. 
  <p class="updated_time"> 04:57 PM CT, Dec. 17 </p> 
@@ -29,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59696450?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Moscow lists demands for defusing Ukraine tensions</a> BBC: Moscow says Nato should abandon hopes of Ukraine joining and Nato states should get rid of weapons. 
  <p class="updated_time"> 03:20 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065311963/analyzing-the-biden-administrations-year-in-foreign-policy-toward-china-and-russ">Analyzing the Biden administration's year in foreign policy toward China and Russia</a> NPR: As the year comes to a close, here's where U.S. foreign policy toward Russia and China stands — and what we might expect in 2022. 
- <p class="updated_time"> 02:37 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59691902?at_medium=RSS&at_campaign=KARANGA">Kim Potter: 'Taser mix-up' ex-officer weeps in manslaughter testimony</a> BBC: Kim Potter testified at her manslaughter trial about the "chaotic" fatal shooting of Daunte Wright. 
  <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
  <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
@@ -75,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59697805?at_medium=RSS&at_campaign=KARANGA">Andry Rajoelina: French nationals sentenced for Madagascar coup plot</a> BBC: The two men are accused of planning to assassinate President Andry Rajoelina. 
  <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated, and at least 17 people died. 
- <p class="updated_time"> 04:28 AM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59696442?at_medium=RSS&at_campaign=KARANGA">Sweden's Gavle Christmas goat torched... again</a> BBC: A giant straw goat that is an annual highlight in the city of Gavle is burned down by an arsonist. 
  <p class="updated_time"> 04:07 AM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065083119/after-escaping-the-taliban-afghan-music-students-and-teachers-begin-their-new-li">After escaping the Taliban, Afghan music students and teachers begin their new lives</a> NPR: This week, members of the Afghanistan National Institute of Music flew from Doha to Portugal, where they'll rebuild their school — and lives. They describe their escape from Kabul and future hopes. 
  <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
@@ -87,14 +105,10 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/arson-murder-probe-begins-in-japan-after-fire-kills-24-11639753167">Arson, Murder Probe Begins in Japan After Fire Kills 24</a> WSJ: A man who walked into a busy Japanese mental-health clinic with a paper bag carrying flammable liquid is under investigation for murder and arson. 
  <p class="updated_time"> 03:56 AM CT, Dec. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-lays-out-security-guarantees-it-wants-from-u-s-europe-11639753002">Russia Lays Out Security Guarantees It Wants from the West</a> WSJ: Russia handed the proposals to the U.S. this week, as the country rebuffed warnings from the U.S. and Europe over what they believe are Moscow’s intentions to invade Ukraine. 
- <p class="updated_time"> 03:55 AM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59663829?at_medium=RSS&at_campaign=KARANGA">Super typhoon Rai: Philippine tourist island Siargao among areas hit</a> BBC: Power and communications are down on the popular island of Siargao after strong winds and heavy rain. 
  <p class="updated_time"> 03:54 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/ishigaki-japan-missiles-taiwan.html">The Island Paradise Near the Front Line of Tensions Over Taiwan</a> NYT: New missile batteries planned for the Japanese island of Ishigaki reflect a drastic shift in Japan’s views on China. 
  <p class="updated_time"> 03:46 AM CT, Dec. 17 </p> 
  <a href="https://www.wsj.com/articles/yemens-houthis-seek-departure-of-top-iranian-diplomat-11639752398">Yemen's Houthis Seek Departure of Top Iranian Diplomat</a> WSJ: A member of Iran’s Revolutionary Guards was smuggled into Yemen last year and named ambassador to Houthi-rebel-controlled areas. Now, the Houthis want to send him back, officials said. 
- <p class="updated_time"> 03:25 AM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59694671?at_medium=RSS&at_campaign=KARANGA">Karnataka: India lawmaker sorry for 'lie down and enjoy rape' remark</a> BBC: The opposition lawmaker said he didn't intend to insult women after his comment drew outrage. 
  <p class="updated_time"> 03:02 AM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065085132/more-than-20-feared-dead-in-building-fire-in-osaka-japan">24 people died in a building fire in Osaka, Japan, and arson is suspected</a> NPR: A fire that spread from a fourth-floor mental clinic in an eight-story building in what police were investigating as a possible case of arson and murder. Police were searching for a possible suspect. 
  <p class="updated_time"> 02:47 AM CT, Dec. 17 </p> 
@@ -105,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/17/1065078192/afghan-currency-slides-and-prices-surge-as-already-battered-economy-worsens">Afghan currency slides and prices surge as already battered economy worsens</a> NPR: The value of Afghanistan's currency is tumbling, exacerbating a severe economic crisis and deepening poverty in a country where more than half the population already doesn't have enough to eat. 
  <p class="updated_time"> 12:11 AM CT, Dec. 17 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-holds-first-election-without-opposition-but-will-people-vote-11639739483">Hong Kong Holds First Election Without Opposition. But Will People Vote?</a> WSJ: Sunday’s election will feature only Beijing-approved candidates, after an overhaul of voting rules and a crackdown on the city’s opposition. 
- <p class="updated_time"> 11:35 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59692552?at_medium=RSS&at_campaign=KARANGA">Bouncy castle fall: Australia mourns 'terrible tragedy' after children killed</a> BBC: Five children died and four others were injured when a wind gust blew away the castle at a school fair. 
  <p class="updated_time"> 11:30 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/australia/the-giant-who-lives-in-the-melbourne-museum.html">The Giant Who Lives in the Melbourne Museum</a> NYT: The world’s most complete triceratops skeleton ever found will go on display next year, displacing a beloved, if quirky, exhibit of taxidermy. 
  <p class="updated_time"> 10:04 PM CT, Dec. 16 </p> 
@@ -115,14 +127,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/health/coronavirus-omicron-variant.html">Scientists Are Racing to Gauge the Threat of Omicron</a> NYT: The variant will spread quickly through the United States, experts say. What happens after that is less certain. 
  <p class="updated_time"> 08:51 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html">Hu Xijin, Chief of China's Global Times, Will Retire</a> NYT: Mr. Hu, editor of the Communist Party tabloid Global Times, set the tone for a new generation of Chinese pundits with his flair for verbal combat. 
- <p class="updated_time"> 08:01 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59680921?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 10 - 16 December 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 07:38 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59693271?at_medium=RSS&at_campaign=KARANGA">Huntsman spider interrupts Australian Covid press briefing</a> BBC: Queensland's health minister remained calm after a journalist said a spider was crawling on her. 
  <p class="updated_time"> 07:36 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59687946?at_medium=RSS&at_campaign=KARANGA">How billionaires pay less tax than you</a> BBC: Corporate giants use a mantra known as Buy Borrow Die to avoid paying income tax, say analysts. 
- <p class="updated_time"> 07:13 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/blogs-trending-59687496?at_medium=RSS&at_campaign=KARANGA">How Russia tries to censor Western social media</a> BBC: Western social media companies face huge fines as Russia pressures them to remove content it objects to. 
  <p class="updated_time"> 05:04 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59692022?at_medium=RSS&at_campaign=KARANGA">Philippines typhoon Rai: Month-old baby rescued in a tub</a> BBC: Thousands have been evacuated as the storm brought 165km/h (103 mph) winds and heavy rain. 
  <p class="updated_time"> 04:53 PM CT, Dec. 16 </p> 
@@ -145,14 +153,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59680957?at_medium=RSS&at_campaign=KARANGA">Kim Jong-un: N Korean defectors reflect on last decade</a> BBC: It's a decade since an untested 27-year-old took power. But how has it been to live under Kim Jong-un? 
  <p class="updated_time"> 02:16 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/covid-pandemic-story.html">In 50 Words, Tell Us Your Best Pandemic Story</a> NYT: We want to hear about your Covid memories. 
- <p class="updated_time"> 01:43 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59691900?at_medium=RSS&at_campaign=KARANGA">Dust storms and tornadoes hit the US Midwest</a> BBC: Days after deadly tornadoes ripped through four states, more severe weather has hit parts of the US. 
  <p class="updated_time"> 11:33 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/omar-raddad-cote-dazur-dna-france.html">Judges in France Order the Reopening of an Enduring Murder Mystery</a> NYT: The conviction of Omar Raddad in the killing of a socialite in the French Riviera three decades ago will be re-examined after his lawyers presented new DNA evidence they say exonerates him. 
  <p class="updated_time"> 11:31 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/suicide-pods-switzerland.html">A 3-D Printed Pod Inflames the Assisted Suicide Debate</a> NYT: The pod, known as Sarco, was conceived as a way for people to end their lives without involving a doctor. A plan to introduce it in Switzerland has raised alarm even among right-to-die advocates. 
- <p class="updated_time"> 11:18 AM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064847616/tasmania-bouncy-castle-accident">A wind gust swept a bouncy castle in Tasmania 30 feet in the air, killing 5 children</a> NPR: Authorities say three children remain hospitalized in critical condition after the incident, which happened at an end-of-year celebration at Hillcrest Primary School in the Australian state. 
  <p class="updated_time"> 11:06 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/middleeast/turkish-lira-currency-erdogan-turkey.html">Turkish Currency Hits a New Low, Again</a> NYT: The Central Bank has cut interest rates, even as inflation continues to soar, deepening President Erdogan’s disputed economic plan and setting off a new plunge in the lira. 
  <p class="updated_time"> 09:56 AM CT, Dec. 16 </p> 
@@ -161,16 +165,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html">Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</a> NYT: Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves. 
  <p class="updated_time"> 06:55 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/queen-elizabeth-christmas-lunch-canceled-covid.html">Queen Elizabeth cancels traditional pre-Christmas lunch as cases surge in England.</a> NYT: Palace officials said it was a precautionary measure to avoid putting royal family members at risk by bringing a large group together at Windsor Castle. 
- <p class="updated_time"> 06:03 AM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59683538?at_medium=RSS&at_campaign=KARANGA">Santa Claus delivers presents to children in Peru... via a fire ladder</a> BBC: This Santa Claus in Lima, Peru, uses a special way to deliver presents to children with Covid. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/travel/testing-positive-for-covid-overseas.html">What Happens If You Test Positive for Covid While Traveling?</a> NYT: In the midst of the holiday season, the Omicron variant has many considering the prospects of getting stuck while traveling. Here’s what you need to know. 
  <p class="updated_time"> 03:56 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/americas/santo-domingo-plane-crash.html">Santo Domingo Plane Crash Kills All 9 Aboard</a> NYT: A prominent Puerto Rican music producer known as Flow La Movie was reported to be among the dead. 
  <p class="updated_time"> 02:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
- <p class="updated_time"> 11:42 PM CT, Dec. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59667108?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Lost photos found 140 miles away</a> BBC: How a photo found on a Kentucky farm is being returned to its owner thanks to social media sleuths. 
  <p class="updated_time"> 05:20 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/theater/selling-kabul-afghanistan-sylvia-khoury.html">‘Selling Kabul’ Holds Up a New Mirror After the Taliban Takeover</a> NYT: Sylvia Khoury’s play, which takes place over one night in Afghanistan in 2013, has only deepened after a pandemic postponement. 
  <p class="updated_time"> 04:49 PM CT, Dec. 15 </p> 
@@ -214,6 +214,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:48 PM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/us/politics/biden-virus-omicron-winter.html">Biden Struggles to Beat Back a Resurgent Virus Once Again</a> NYT: A new variant and vaccine resistance have upended the president’s plans for a hopeful holiday season. 
  <p class="updated_time"> 05:29 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/trump-anti-semitic-comments/index.html">Trump uses anti-Semitic tropes to again criticize Jewish Americans</a> CNN: Former President Donald Trump, in a newly released interview, claimed that Jewish Americans "either don't like Israel or don't care about Israel," while also suggesting that evangelical Christians "love Israel more than the Jews in this country." 
  <p class="updated_time"> 05:28 PM CT, Dec. 17 </p> 
@@ -386,10 +388,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/jan-6-gohmert-lawsuit-pence-524839">The Jan. 6 puzzle piece that's going largely ignored</a> Politico: Rep. Louie Gohmert  sued then-Vice President Mike Pence on Dec. 27. Donald Trump’s involvement in the case remains unclear. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/build-back-better-progressives-power-524783">‘Know when to hold and know when to fold’: Progressives accept limits of their power</a> Politico: House liberals dug in hard this year on social spending. Whatever Sen. Joe Manchin (D-W.Va.) does, they're ready to declare a win. 
- <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/trump-subpoenas.html">Facing Subpoenas, Trump Allies Try to Run Out the Clock on Democrats</a> NYT: Democrats hope a Biden Justice Department can speed up legal action, but Donald J. Trump and his allies are proving adept at using judicial delay to withhold information from Congress. 
- <p class="updated_time"> 08:55 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/us/politics/trump-meadows-republicans-congress-jan-6.html">Meadows and the Band of Loyalists: How They Fought to Keep Trump in Power</a> NYT: A small circle of Republican lawmakers, working closely with President Donald J. Trump’s chief of staff, took on an outsize role in pressuring the Justice Department, amplifying conspiracy theories and flooding the courts in an attempt to overturn the 2020 election. 
  <p class="updated_time"> 07:50 PM CT, Dec. 15 </p> 
  <a href="https://www.cnn.com/2021/12/15/politics/yuma-arizona-migrants/index.html">A dramatic increase in number of migrants seeking asylum in Arizona overwhelms Border Patrol</a> CNN: Under the shadow of the border wall, dozens of migrants raced to get in line as they spotted the glimmer of vehicle lights down the road. US Border Patrol agents were on the way. 
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
