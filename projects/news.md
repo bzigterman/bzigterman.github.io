@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:00 PM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/london-major-incident.html">With Omicron Surging, London Declares a ‘Major Incident'</a> NYT: The Greater London area has seen cases rise by nearly 200 percent over the last two weeks, making it the hardest hit area of Britain. 
- <p class="updated_time"> 02:59 PM CT, Dec. 18 </p> 
+ <p class="updated_time"> 04:25 PM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/snl-no-live-audience-covid.html">‘S.N.L.’ Cancels Live Audience Over Covid Concerns</a> NYT: The show was responding to concerns about Covid as the Omicron variant surges in New York. 
+ <p class="updated_time"> 04:08 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59713503?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch go into Christmas lockdown over Omicron wave</a> BBC: Non-essential shops, schools, bars, restaurants and other public venues will be closed until at least mid-January. 
+ <p class="updated_time"> 04:04 PM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/london-major-incident.html">With Omicron Surging, London Declares a ‘Major Incident'</a> NYT: The Greater London area has seen cases rise by nearly 200 percent over the last two weeks, making it the hardest hit area of Britain. 
+ <p class="updated_time"> 04:03 PM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59712020?at_medium=RSS&at_campaign=KARANGA">UK troops will not be deployed to Ukraine to defend against Russia</a> BBC: Britain's defence secretary says this is because Ukraine is not a member of the Nato military alliance. 
  <p class="updated_time"> 01:29 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html">Oriol Bohigas, Architect Who Helped Transform Barcelona, Dies at 95</a> NYT: He was a mastermind of the city’s overhaul in preparation for the 1992 Summer Olympics, which helped turn it into a major tourist destination. 
  <p class="updated_time"> 12:43 PM CT, Dec. 18 </p> 
@@ -107,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/17/1065312039/hell-on-earth-afghans-have-to-choose-between-feeding-or-heating-according-to-wfp">'Hell on Earth': Afghans have to choose between feeding or heating, according to WFP</a> NPR: NPR's Mary Louise Kelly speaks with David Beasley, executive director of the World Food Program (WFP), about hunger in Afghanistan. 
  <p class="updated_time"> 03:23 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Recommends Pfizer or Moderna Vaccines Over J.&J</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
- <p class="updated_time"> 03:23 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59696450?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Moscow lists demands for defusing Ukraine tensions</a> BBC: Moscow says Nato should abandon hopes of Ukraine joining and Nato states should get rid of weapons. 
  <p class="updated_time"> 03:20 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065311963/analyzing-the-biden-administrations-year-in-foreign-policy-toward-china-and-russ">Analyzing the Biden administration's year in foreign policy toward China and Russia</a> NPR: As the year comes to a close, here's where U.S. foreign policy toward Russia and China stands — and what we might expect in 2022. 
  <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
@@ -182,6 +184,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:14 PM CT, Dec. 18 </p> 
+ <a href="https://www.npr.org/2021/12/18/1065547250/raising-debt-ceiling-wasnt-always-a-heated-source-of-debate">Raising debt ceiling wasn't always a heated source of debate</a> NPR: This week, Democrats pushed through a measure to raise the debt ceiling, to avoid a default on the nation's debt. But how did the debt ceiling become such a hot-button issue on Capitol Hill? 
  <p class="updated_time"> 03:30 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/harris-charlamagne-tha-god-interview-defends-biden/index.html">Harris defends Biden when questioned whether he or Manchin is President</a> CNN: Vice President Kamala Harris forcefully defended President Joe Biden when recently asked whether he or Sen. Joe Manchin is the president of the United States, as Biden's agenda remains stalled in part because of the West Virginia Democrat. 
  <p class="updated_time"> 03:14 PM CT, Dec. 18 </p> 
@@ -292,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/17/house-democrats-elections-dccc-525258">Vulnerable House Dems to DCCC: You're jeopardizing our reelection</a> Politico: Multiple at-risk Democrats tell POLITICO that the campaign committee has adopted a midterms strategy that is hurting, not helping, their reelections. 
  <p class="updated_time"> 10:43 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/russia-troops-ukraine-border-biden/index.html">Russia continues to amass new troops near Ukraine's border despite Biden urging Putin to de-escalate tensions </a> CNN: Russia has continued to amass new troops near Ukraine's border in recent days, despite President Joe Biden urging Russian President Vladimir Putin to de-escalate tensions during a virtual meeting last week. 
- <p class="updated_time"> 10:19 AM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065134885/roger-stone-appears-before-jan-6-panel-and-pleads-the-fifth">Roger Stone appears before Jan. 6 panel and pleads the Fifth</a> NPR: The panel said Stone participated in "Stop the Steal" efforts related to the 2020 election. The political operative said he knows "nothing whatsoever about the illegal events that day." 
  <p class="updated_time"> 09:48 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/virginia-democrats-abortion.html">Protect Abortion Rights? Virginia Democrats’ Vacation Plans Get in the Way.</a> NYT: Some Virginia Democrats want to codify abortion rights into state law in their final weeks in power. But several state senators do not want to upend their travel to Hawaii, Europe and Africa. 
  <p class="updated_time"> 09:00 AM CT, Dec. 17 </p> 
