@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:07 AM CT, Dec. 18 </p> 
+ <a href="https://www.npr.org/2021/12/18/1065135970/on-mexicos-southern-border-the-latest-migration-surge-is-haitian">On Mexico's southern border, the latest migration surge is Haitian</a> NPR: Thousands of Haitian migrants who had lived in South America for years are crossing into Mexico, overwhelming that country's capacity to process them. Many say their ultimate destination is the U.S. 
  <p class="updated_time"> 09:47 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/afghanistan-marja-economy-taliban.html">Once a Symbol of U.S. Strength, an Afghan District Now Faces Dire Times</a> NYT: At the war’s end, residents of Marja are growing increasingly desperate for any kind of help, a frustration that has turned to anger that the international community has seemingly abandoned them. 
  <p class="updated_time"> 09:46 AM CT, Dec. 18 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/17/1064946655/coronavirus-faq-is-it-ok-for-the-kids-to-take-a-pic-with-santa">Coronavirus FAQ: Is it OK for the kids to take a pic with Santa? </a> NPR: Plus: Is it safe to go to a holiday party if not everyone is vaccinated? And are people getting different side effects from the COVID booster? 
  <p class="updated_time"> 01:19 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/south-africa-omicron-hospitalizations.html">South Africa Hospitalizations Lower in Omicron Wave, but Caveats Apply</a> NYT: Researchers warned that the epicenter of the country’s outbreak is more highly vaccinated than others, and that natural immunity is also high. 
- <p class="updated_time"> 12:32 PM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/17/1065200225/pfizer-third-dose-covid-vaccine-infants-young-children">Pfizer plans to test a third dose of its COVID vaccine on infants and young children</a> NPR: Pfizer and BioNTech, which produced the first COVID-19 vaccine authorized in the U.S., say they will expand ongoing trials to include a third dose for children as young as 6 months old. 
  <p class="updated_time"> 11:38 AM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59703523?at_medium=RSS&at_campaign=KARANGA">Anti-5G necklaces found to be radioactive</a> BBC: Conspiracy theories about 5G have fuelled a market for "anti-5G" accessories. 
  <p class="updated_time"> 10:27 AM CT, Dec. 17 </p> 
@@ -186,10 +186,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:16 AM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/us/politics/gop-gerrymandering-black-democrats.html">Map by Map, G.O.P. Chips Away at Black Democrats’ Power</a> NYT: Black elected officials in several states, from Congress down to the counties, have been drawn out of their districts this year or face headwinds to hold onto their seats. 
  <p class="updated_time"> 09:57 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/18/its-just-completely-delusional-495520"> ‘It’s just completely delusional’</a> Politico Playbook: And the Senate adjourns for the year. 
- <p class="updated_time"> 09:13 AM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/us/politics/gop-gerrymandering-black-democrats.html">Map by Map, G.O.P. Chips Away at Black Democrats’ Power</a> NYT: Black elected officials in several states, from Congress down to the counties, have been drawn out of their districts this year or face headwinds to hold onto their seats. 
  <p class="updated_time"> 09:11 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/cruz-vote-russian-pipeline-sanctions-schumer-525334">Cruz secures vote on Russian pipeline sanctions in deal with Schumer</a> Politico: Cruz agreed to lift his holds on 32 nominees in exchange for the Senate voting in early January on his legislation to sanction the pipeline. 
  <p class="updated_time"> 09:02 AM CT, Dec. 18 </p> 
