@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:26 AM CT, Dec. 18 </p> 
+ <a href="https://www.npr.org/2021/12/18/1065470550/russia-envoy-says-moscow-might-up-the-ante-if-the-west-ignores-its-demands">Russia envoy says Moscow might up the ante if the West ignores its demands</a> NPR: Deputy Foreign Minister Sergei Ryabkov accused Western allies of continuously pushing the envelope in relations with Russia. 
  <p class="updated_time"> 04:00 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/carrie-lam-hong-kong.html">Can a ‘Very Confident’ Carrie Lam Salvage Her Legacy in Hong Kong?</a> NYT: Mrs. Lam is Hong Kong’s most unpopular leader ever, blamed for mass protests and a political crackdown. Yet she now appears reinvigorated, perhaps even ready for a second term. 
  <p class="updated_time"> 04:00 AM CT, Dec. 18 </p> 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/japanese-worker-at-u-s-base-in-japan-diagnosed-with-omicron-after-military-outbreak-11639748240">Japanese Worker at U.S. Base Diagnosed With Omicron</a> WSJ: The variant’s presence raised concerns that Omicron may have gained a footing in Japan. 
  <p class="updated_time"> 02:17 AM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065081902/uk-conservatives-suffer-shock-by-election-loss-in-another-setback-for-boris-john">U.K. Conservatives suffer shock by-election loss in another setback for Boris Johnson</a> NPR: U.K. Prime Minister Boris Johnson's Conservative Party has suffered a stunning defeat in a parliamentary by-election amid weeks of scandal and soaring COVID-19 infections. 
- <p class="updated_time"> 01:22 AM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065078192/afghan-currency-slides-and-prices-surge-as-already-battered-economy-worsens">Afghan currency slides and prices surge as already battered economy worsens</a> NPR: The value of Afghanistan's currency is tumbling, exacerbating a severe economic crisis and deepening poverty in a country where more than half the population already doesn't have enough to eat. 
  <p class="updated_time"> 12:11 AM CT, Dec. 17 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-holds-first-election-without-opposition-but-will-people-vote-11639739483">Hong Kong Holds First Election Without Opposition. But Will People Vote?</a> WSJ: Sunday’s election will feature only Beijing-approved candidates, after an overhaul of voting rules and a crackdown on the city’s opposition. 
  <p class="updated_time"> 11:30 PM CT, Dec. 16 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:26 AM CT, Dec. 18 </p> 
+ <a href="https://www.npr.org/2021/12/18/1065470550/russia-envoy-says-moscow-might-up-the-ante-if-the-west-ignores-its-demands">Russia envoy says Moscow might up the ante if the West ignores its demands</a> NPR: Deputy Foreign Minister Sergei Ryabkov accused Western allies of continuously pushing the envelope in relations with Russia. 
  <p class="updated_time"> 04:00 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/gop-gerrymandering-black-democrats.html">Map by Map, G.O.P. Chips Away at Black Democrats’ Power</a> NYT: Black elected officials in several states, from Congress down to the counties, have been drawn out of their districts this year or face headwinds to hold onto their seats. 
  <p class="updated_time"> 10:36 PM CT, Dec. 17 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/health/abortion-pills-fda.html">F.D.A. Will Permanently Allow Abortion Pills by Mail</a> NYT: The decision will broaden access to medication abortion, an increasingly common method, but many conservative states are already mobilizing against it. 
  <p class="updated_time"> 06:00 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/jobs-resignation-inflation-what-matters/index.html">Analysis: Why we had to reconsider jobs, inflation and politics this week</a> CNN: It's been a week of revisions and recalculations. We've had to change our understanding of why people are quitting their jobs and how long this stretch of everything getting more expensive will last. 
- <p class="updated_time"> 05:59 PM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1061030363/senate-parliamentarian-rejects-immigration-reform-in-democrats-spending-bill">Senate parliamentarian rejects immigration reform in Democrats' spending bill</a> NPR: The ruling is a major setback for Democrats who have been trying to move immigration reform forward. 
  <p class="updated_time"> 05:57 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/justice-department-federal-vaccine-mandate-supreme-court/index.html">DOJ asks Supreme Court to reinstate federal vaccine mandate for certain health care workers nationwide</a> CNN: The Department of Justice asked the Supreme Court on Thursday to allow a vaccine mandate aimed at federal health care workers to go into effect nationwide, marking the first time the justices have been asked to weigh in on a federal mandate the Biden administration put in place in order to get more Americans vaccinated amid a surge of the Delta and Omicron coronavirus variants. 
  <p class="updated_time"> 05:44 PM CT, Dec. 16 </p> 
