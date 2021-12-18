@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/asia/carrie-lam-hong-kong.html">Can a ‘Very Confident’ Carrie Lam Salvage Her Legacy in Hong Kong?</a> NYT: Mrs. Lam is Hong Kong’s most unpopular leader ever, blamed for mass protests and a political crackdown. Yet she now appears reinvigorated, perhaps even ready for a second term. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/asia/afghanistan-marja-economy-taliban.html">Once a Symbol of U.S. Strength, an Afghan District Now Faces Dire Times</a> NYT: At the war’s end, residents of Marja are growing increasingly desperate for any kind of help, a frustration that has turned to anger that the international community has seemingly abandoned them. 
+ <p class="updated_time"> 03:53 AM CT, Dec. 18 </p> 
+ <a href="https://www.npr.org/2021/12/18/1065468764/pakistan-is-trying-to-rally-muslim-countries-to-help-afghanistan">Pakistan is trying to rally Muslim countries to help Afghanistan</a> NPR: Pakistan's foreign minister said his message to Sunday meeting is "Please do not abandon Afghanistan. Please engage. We are speaking for the people of Afghanistan." 
+ <p class="updated_time"> 03:53 AM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59705709?at_medium=RSS&at_campaign=KARANGA">Covid-19: Omicron spreading at lightning speed - French PM</a> BBC: Restrictions are tightening across Europe as countries battle a new wave of Covid-19 infections. 
  <p class="updated_time"> 02:30 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">How Hong Kong’s ‘Patriots Only’ Elections Bolster Beijing’s Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials are urging the public to vote, but turnout is expected to be low. 
  <p class="updated_time"> 02:12 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065463755/police-search-house-of-man-linked-to-deadly-osaka-fire">Police search house of man linked to deadly Osaka fire</a> NPR: The possible suspect is believed to be among the three people who survived the fire and were in severe condition, police said. 
  <p class="updated_time"> 01:33 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065458877/the-events-that-led-to-hong-kongs-pivotal-elections">The events that led to Hong Kong's pivotal elections</a> NPR: Demands for expanded democracy in the semi-autonomous territory inspired protest movements that were largely ignored by Beijing and crushed by security forces. 
- <p class="updated_time"> 11:33 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59705709?at_medium=RSS&at_campaign=KARANGA">Covid-19: Omicron spreading at lightning speed - French PM</a> BBC: Restrictions are tightening across Europe as countries battle a new wave of Covid-19 infections. 
  <p class="updated_time"> 10:32 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59708304?at_medium=RSS&at_campaign=KARANGA">US court reinstates Covid vaccine mandate for large US businesses</a> BBC: The national mandate, blocked last month, will cover more than two-thirds of the country's workers. 
  <p class="updated_time"> 10:24 PM CT, Dec. 17 </p> 
@@ -149,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
  <p class="updated_time"> 03:45 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html">NATO Signals Support for Ukraine Amid Russia Threat</a> NYT: The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion. 
- <p class="updated_time"> 03:38 PM CT, Dec. 16 </p> 
- <a href="https://www.npr.org/2021/12/16/1064951653/all-17-missionaries-kidnapped-by-a-gang-in-haiti-have-been-released">All 17 missionaries kidnapped by a gang in Haiti have been released</a> NPR: All 17 of the missionaries kidnapped in Haiti two months ago have now been freed. Violence and kidnapping have spiked in Haiti following the assassination of its president in July. 
  <p class="updated_time"> 02:52 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/congress-uyghur-forced-labor.html">Congress Passes Ban on Goods From China's Xinjiang Region</a> NYT: President Biden is expected to sign the bill, which drew a fierce corporate lobbying campaign against it. 
  <p class="updated_time"> 02:19 PM CT, Dec. 16 </p> 
@@ -191,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/netherlands-dutch-coalition.html">After Months, a ‘New’ Dutch Coalition With the Same Leader and Parties</a> NYT: Mark Rutte, who has weathered a scandal and criticism for overstaying his welcome, will be prime minister for a fourth term. 
  <p class="updated_time"> 11:47 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/iran-nuclear-cameras-iaea.html">Iran Agrees to Replace Cameras at Nuclear Site but Blocks Images</a> NYT: Iran’s failure to allow the U.N. nuclear agency to fully monitor its nuclear program is hindering talks in Vienna on restoring the 2015 nuclear deal. 
- <p class="updated_time"> 11:25 AM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/europe/germany-michael-kretschmer-plot-saxony-vaccines.html">Vaccine Opponents in Germany Investigated Over Plot to Kill State Governor</a> NYT: The authorities in Dresden raided the homes of a group of people who they said were targeting the leader of the state of Saxony. A number of weapons were seized. 
  <p class="updated_time"> 10:44 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/frenchwoman-dead-syria-detention-camp.html">France Refused to Repatriate a Sick Woman Who Joined the Islamic State. She Died.</a> NYT: A Frenchwoman died of health complications in a detention camp in Syria on Tuesday, her lawyer said. She had repeatedly asked to be repatriated to treat severe diabetes. 
  <p class="updated_time"> 09:14 AM CT, Dec. 15 </p> 
@@ -206,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/us/politics/gop-gerrymandering-black-democrats.html">Map by Map, G.O.P. Chips Away at Black Democrats’ Power</a> NYT: Black elected officials in several states, from Congress down to the counties, have been drawn out of their districts this year or face headwinds to hold onto their seats. 
  <p class="updated_time"> 10:36 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/business/osha-vaccine-mandate.html">Biden's Covid Vaccine Mandate Reinstated for Large Businesses</a> NYT: The decision, by a split three-judge panel, overturned a ruling that had blocked a Biden administration rule requiring companies with 100 or more employees to mandate vaccinations or testing for workers. 
  <p class="updated_time"> 08:39 PM CT, Dec. 17 </p> 
@@ -366,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/cdc-covid-vaccine-johnson-525153">CDC recommends mRNA Covid vaccines over J&J shot amid blood clot risks</a> Politico: CDC Director Rochelle Walensky's decision came hours after the agency’s vaccine advisory committee voted unanimously to update the recommendation. 
  <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
- <p class="updated_time"> 02:52 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/congress-uyghur-forced-labor.html">Congress Passes Ban on Goods From China's Xinjiang Region</a> NYT: President Biden is expected to sign the bill, which drew a fierce corporate lobbying campaign against it. 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/chamber-ad-manchin-build-back-better-525129">Chamber launches ads targeting Manchin, hoping to kill Build Back Better</a> Politico: The group got a huge win with the infrastructure bill. Now, they want the legislative spigot to go dry. 
  <p class="updated_time"> 01:11 PM CT, Dec. 16 </p> 
