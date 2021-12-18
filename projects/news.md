@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:51 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59705709?at_medium=RSS&at_campaign=KARANGA">Covid-19: Omicron spreading at lightning speed - French PM</a> BBC: Restrictions are being tightened across Europe as countries battle a new wave of Covid-19 infections. 
  <p class="updated_time"> 10:32 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59708304?at_medium=RSS&at_campaign=KARANGA">US court reinstates Covid vaccine mandate for large US businesses</a> BBC: The national mandate, blocked last month, will cover more than two-thirds of the country's workers. 
  <p class="updated_time"> 10:24 PM CT, Dec. 17 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/novavax-vaccine-approval-who.html">Novavax Vaccine Wins Emergency Approval from the W.H.O.</a> NYT: The authorization could drastically increase the vaccine supply for low- and middle-income countries. 
  <p class="updated_time"> 08:13 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59688405?at_medium=RSS&at_campaign=KARANGA">Theranos trial: Jury to decide fate of Elizabeth Holmes</a> BBC: The prosecution says she ran a "house of cards"; the defence liken her to a brave captain of a sinking ship. 
- <p class="updated_time"> 07:42 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59705709?at_medium=RSS&at_campaign=KARANGA">Covid-19: Omicron spreading at lightning speed - French PM</a> BBC: Restrictions are being tightened across Europe as countries battle a new wave of Covid-19 infections. 
  <p class="updated_time"> 07:05 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59691902?at_medium=RSS&at_campaign=KARANGA">Kim Potter: 'Taser mix-up' ex-officer weeps in manslaughter testimony</a> BBC: Kim Potter testified at her manslaughter trial about the "chaotic" fatal shooting of Daunte Wright. 
  <p class="updated_time"> 06:41 PM CT, Dec. 17 </p> 
