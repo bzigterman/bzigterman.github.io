@@ -10,7 +10,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:37 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065475041/indonesia-raises-volcano-warning-to-second-highest-level">Indonesia raises volcano warning to second-highest level</a> NPR: Indonesia's geological agency said it sees increasing activity that could trigger an avalanche of lava and searing gas, similar to the Dec. 4 eruption, 
  <p class="updated_time"> 05:04 AM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59710482?at_medium=RSS&at_campaign=KARANGA">France red list: Queues in St Pancras ahead of travel ban</a> BBC: Travellers in St Pancras station, London, queue to try and get to France before the imposition of restrictions. 
+ <a href="https://www.bbc.co.uk/news/uk-59710482?at_medium=RSS&at_campaign=KARANGA">France travel ban: Time-lapse shows long Eurostar queue at St Pancras</a> BBC: Travellers in St Pancras station, London, line up to get to France before it closes its borders to the UK. 
  <p class="updated_time"> 05:00 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/canada/newfoundland-atlantic-pandemic.html">Why Are So Many Canadians Moving to the Atlantic Provinces?</a> NYT: A Times reporter fulfills his lifelong dream of visiting Newfoundland and explores why so many Canadians are moving to the country’s Atlantic provinces. 
  <p class="updated_time"> 04:50 AM CT, Dec. 18 </p> 
@@ -155,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
  <p class="updated_time"> 03:45 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html">NATO Signals Support for Ukraine Amid Russia Threat</a> NYT: The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion. 
- <p class="updated_time"> 02:52 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/congress-uyghur-forced-labor.html">Congress Passes Ban on Goods From China's Xinjiang Region</a> NYT: President Biden is expected to sign the bill, which drew a fierce corporate lobbying campaign against it. 
  <p class="updated_time"> 02:19 PM CT, Dec. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59680957?at_medium=RSS&at_campaign=KARANGA">Kim Jong-un: N Korean defectors reflect on last decade</a> BBC: It's a decade since an untested 27-year-old took power. But how has it been to live under Kim Jong-un? 
  <p class="updated_time"> 02:16 PM CT, Dec. 16 </p> 
@@ -199,6 +197,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/frenchwoman-dead-syria-detention-camp.html">France Refused to Repatriate a Sick Woman Who Joined the Islamic State. She Died.</a> NYT: A Frenchwoman died of health complications in a detention camp in Syria on Tuesday, her lawyer said. She had repeatedly asked to be repatriated to treat severe diabetes. 
  <p class="updated_time"> 09:14 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/malta-eu-marijuana-legalize.html">Malta Becomes First E.U. Country to Legalize Marijuana</a> NYT: The government said that the new law was aimed at ending the criminalization of people for smoking the drug and at reducing criminal trafficking. 
+ <p class="updated_time"> 08:49 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/business/economy/china-trump-trade-deal-biden.html">Biden’s China Dilemma: How to Enforce Trump’s Trade Deal</a> NYT: The Biden administration must decide whether to enforce a Trump-era trade deal that has not fulfilled its promise. 
 
 
 </details>
