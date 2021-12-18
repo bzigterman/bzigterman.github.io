@@ -184,10 +184,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:25 PM CT, Dec. 18 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/harris-charlamagne-tha-god-interview-defends-biden/index.html">Harris defends Biden when questioned whether he or Manchin is President</a> CNN: Vice President Kamala Harris forcefully defended President Joe Biden when recently asked whether he or Sen. Joe Manchin is the president of the United States, as Biden's agenda remains stalled in part because of the West Virginia Democrat. 
+ <p class="updated_time"> 03:14 PM CT, Dec. 18 </p> 
+ <a href="https://www.cnn.com/2021/12/18/politics/us-post-office-naacp-2020-election-settlement/index.html">USPS reaches settlement with NAACP over 2020 mail-in voting</a> CNN: The United States Postal Service announced an agreement Friday with the NAACP on a lawsuit the civil rights organization filed prior to the 2020 election that had challenged USPS delivery delays. 
  <p class="updated_time"> 02:56 PM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065519715/rahm-emanuel-among-dozens-of-late-night-diplomatic-post-confirmations-by-the-sen">Rahm Emanuel among dozens of late-night diplomatic post confirmations by the Senate</a> NPR: The votes had been delayed by political maneuvering by Sen. Ted Cruz over a controversial pipeline in Europe. Emanuel's nomination as ambassador to Japan was among 41 nominations approved overnight. 
- <p class="updated_time"> 02:39 PM CT, Dec. 18 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/harris-charlamagne-tha-god-interview-defends-biden/index.html">Harris defends Biden when questioned whether he or Manchin is President</a> CNN: Vice President Kamala Harris forcefully defended President Joe Biden when recently asked whether he or Sen. Joe Manchin is the president of the United States, as Biden's agenda remains stalled in part because of the West Virginia Democrat. 
+ <p class="updated_time"> 02:18 PM CT, Dec. 18 </p> 
+ <a href="https://www.cnn.com/2021/12/18/politics/joe-biden-omicron-tuesday-speech/index.html">Biden to give Omicron-focused speech on Tuesday</a> CNN: President Joe Biden will give an Omicron variant-focused speech on Tuesday, according to a White House official, as the nation contends with higher case numbers, deaths and hospitalizations from the coronavirus heading into the holidays. 
  <p class="updated_time"> 02:18 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/congress-gridlock-democracy.html">Congress Ends ‘Horrible Year’ With Divisions as Bitter as Ever</a> NYT: Democrats’ achievements were overshadowed by legislative setbacks, fallout from the Jan. 6 attack and a sense that Congress was not rising to meet a perilous moment in history. 
  <p class="updated_time"> 02:14 PM CT, Dec. 18 </p> 
@@ -360,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/crackdown-on-chinas-treatment-of-muslim-minority-headed-to-bidens-desk-525094">Crackdown on China's treatment of Muslim minority headed to Biden's desk</a> Politico: The legislation, which faced a bumpy road to passage, effectively bans all imports from China’s Xinjiang region. 
  <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">Senate that ‘sucks’ gets a dose of reality from Biden</a> Politico: Democrats wanted to hear from the president on how to move forward. He acknowledged on Thursday that his domestic spending vision has to wait. 
- <p class="updated_time"> 12:20 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/congressional-gold-medal-us-troops-kabul-attack/index.html">Biden signs bill to award Congressional Gold Medal to US service members killed in Kabul airport bombing</a> CNN: President Joe Biden on Thursday signed a bill that posthumously awards a Congressional Gold Medal to the 13 US service members killed in a terrorist attack outside Kabul's airport in August. 
  <p class="updated_time"> 09:31 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/jill-biden-showing-up/index.html">Jill Biden says administration will keep 'showing up' to help communities heal from tragedies</a> CNN: First lady Jill Biden wants the American people to know that the first family is there for them. 
  <p class="updated_time"> 07:22 AM CT, Dec. 16 </p> 
@@ -394,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/trump-tax-returns-legal-524235">Judge scraps Trump lawsuit to shield tax returns from Congress</a> Politico: But the judge stayed the impact of his ruling for 14 days. 
  <p class="updated_time"> 04:32 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megabill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
- <p class="updated_time"> 04:29 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/white-house-scaled-back-holiday-parties/index.html">White House scales back holiday parties due to Covid concerns</a> CNN: The White House will dramatically scale back holiday party festivities this year, due to ongoing Covid-19 concerns, opting instead for smaller open house-style events. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
