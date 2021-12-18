@@ -25,6 +25,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/asia/afghanistan-marja-economy-taliban.html">Once a Symbol of U.S. Strength, an Afghan District Now Faces Dire Times</a> NYT: At the war’s end, residents of Marja are growing increasingly desperate for any kind of help, a frustration that has turned to anger that the international community has seemingly abandoned them. 
  <p class="updated_time"> 09:02 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/middleeast/israel-iran-nuclear-attack.html">Israeli Defense Officials Cast Doubt on Threat to Attack Iran</a> NYT: Israel has threatened military action to destroy Iran’s nuclear program if need be. But defense officials say Israel does not have the ability, at least not anytime soon. 
+ <p class="updated_time"> 08:31 AM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/novavax-vaccine-approval-who.html">Novavax Vaccine Wins Emergency Approval from the W.H.O.</a> NYT: The authorization could drastically increase the vaccine supply for low- and middle-income countries. 
  <p class="updated_time"> 08:16 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/carrie-lam-hong-kong.html">Can a ‘Very Confident’ Carrie Lam Salvage Her Legacy in Hong Kong?</a> NYT: Mrs. Lam is Hong Kong’s most unpopular leader ever, blamed for mass protests and a political crackdown. Yet she now appears reinvigorated, perhaps even ready for a second term. 
  <p class="updated_time"> 07:10 AM CT, Dec. 18 </p> 
@@ -37,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065477169/haitian-soup-joumou-awarded-protected-cultural-heritage-status-by-unesco">Haitian soup joumou awarded protected cultural heritage status by UNESCO</a> NPR: A famed Haitian soup has been awarded "protected cultural heritage status" by UNESCO. Scott Simon talks to Dominique Dupuy, Haitian ambassador to UNESCO about joumou. 
  <p class="updated_time"> 06:12 AM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/59708346?at_medium=RSS&at_campaign=KARANGA">The Ashes: England collapse again as Australia take total control of second Test</a> BBC: England's Ashes hopes are in a sorry mess after another dismal batting collapse on day three of the second Test against Australia. 
+ <p class="updated_time"> 06:05 AM CT, Dec. 18 </p> 
+ <a href="https://www.wsj.com/articles/taiwan-voters-back-ruling-party-in-referendum-removing-obstacle-to-u-s-trade-deal-11639844622">Taiwan Voters Back Ruling Party in Referendum</a> WSJ: The vote is a setback for Beijing that removes a key obstacle to a U.S. trade deal. 
  <p class="updated_time"> 05:41 AM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59527051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Key moments in the trial so far</a> BBC: Ghislaine Maxwell is accused of grooming girls for abuse by late paedophile Jeffrey Epstein. 
  <p class="updated_time"> 05:37 AM CT, Dec. 18 </p> 
@@ -173,10 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/theater/selling-kabul-afghanistan-sylvia-khoury.html">‘Selling Kabul’ Holds Up a New Mirror After the Taliban Takeover</a> NYT: Sylvia Khoury’s play, which takes place over one night in Afghanistan in 2013, has only deepened after a pandemic postponement. 
  <p class="updated_time"> 04:49 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/us/coronavirus-omicron-vaccines-wave.html">Coronavirus Briefing: Omicron vs. vaccines</a> NYT: And the coming Omicron wave. 
- <p class="updated_time"> 03:41 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/americas/canada-travel-warning-omicron.html">Canadian Government Warns Residents to Avoid Nonessential Travel</a> NYT: In response to the spread of Omicron, Canada is also ramping up distribution of booster doses and rapid antigen tests. 
- <p class="updated_time"> 02:32 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-omicron-surge.html">Why Britain Thinks Omicron Infected 200,000 People on Monday</a> NYT: Experts called it ‘a back-of-the-envelope calculation’ that showed how quickly the variant spreads, but also how little is known about it. 
 
 
 </details>
@@ -184,10 +184,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:18 PM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/us/politics/congress-gridlock-democracy.html">Congress Ends ‘Horrible Year’ With Divisions as Bitter as Ever</a> NYT: Democrats’ achievements were overshadowed by legislative setbacks, fallout from the Jan. 6 attack and a sense that Congress was not rising to meet a perilous moment in history. 
+ <p class="updated_time"> 02:14 PM CT, Dec. 18 </p> 
+ <a href="https://www.cnn.com/2021/12/18/politics/holiday-covid-tiktok-threat-what-matters/index.html">The reality of the pandemic is settling in. So is America's anxiety</a> CNN: It's supposed to be the "most wonderful time of the year," but there's a whole heck of a lot to make people anxious and afraid as we barrel into the holiday season. 
  <p class="updated_time"> 01:00 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/18/politics/trump-supporters-knock-on-doors-in-search-for-2020-fraud/index.html">Trump loyalists are knocking on voters' doors in the latest quest to find fraud in the 2020 election</a> CNN: A few months ago, two women showed up at Steve Snell's home in southern Pennsylvania with questions for his 89-year-old mother-in-law. 
- <p class="updated_time"> 12:31 PM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/us/politics/congress-gridlock-democracy.html">Congress Ends ‘Horrible Year’ With Divisions as Bitter as Ever</a> NYT: Democrats’ achievements were overshadowed by legislative setbacks, fallout from the Jan. 6 attack and a sense that Congress was not rising to meet a perilous moment in history. 
  <p class="updated_time"> 12:27 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/18/politics/senate-confirms-ambassador-rahm-emanuel/index.html">Dozens confirmed to ambassador posts, after Ted Cruz refused for months to consider them</a> CNN: The US Senate overnight confirmed more than three dozen of President Joe Biden's nominees to ambassador posts, ending a months-long Republican-led blockade on quick consideration of the diplomatic nominations. 
  <p class="updated_time"> 11:48 AM CT, Dec. 18 </p> 
@@ -212,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/business/osha-vaccine-mandate.html">Biden's Covid Vaccine Mandate Reinstated for Large Businesses</a> NYT: The decision, by a split three-judge panel, overturned a ruling that had blocked a Biden administration rule requiring companies with 100 or more employees to mandate vaccinations or testing for workers. 
  <p class="updated_time"> 08:35 AM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/appeals-court-vaccine-mandate-osha-large-employers-federal-contractors/index.html">Appeals court lets Biden administration enforce vaccine rules for large employers</a> CNN: The Biden administration scored a significant victory Friday in its court battles to enforce various federal vaccine mandates, with an appeals court ruling that the government can enforce a vaccine-or-testing rule for companies with more than 100 employees. 
- <p class="updated_time"> 08:02 AM CT, Dec. 18 </p> 
- <a href="https://www.cnn.com/2021/12/18/politics/holiday-covid-tiktok-threat-what-matters/index.html">The reality of the pandemic is settling in. So is America's anxiety</a> CNN: It's supposed to be the "most wonderful time of the year," but there's a whole heck of a lot to make people anxious and afraid as we barrel into the holiday season. 
  <p class="updated_time"> 07:52 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/stop-the-steal-founder-jan-6-committee-gop-lawmakers-525345">‘Stop the Steal’ founder told Jan. 6 committee about contacts with GOP lawmakers</a> Politico: The description of the testimony comes in a lawsuit Ali Alexander filed to block the committee from obtaining his phone records. 
  <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
