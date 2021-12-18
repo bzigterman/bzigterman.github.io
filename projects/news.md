@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:00 PM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59713503?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch go into Christmas lockdown over Omicron wave</a> BBC: Non-essential shops, schools, bars, restaurants and other public venues will be closed until at least mid-January. 
  <p class="updated_time"> 12:43 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/middleeast/baghdad-book-fair-iraq.html">Reveling in the Joys of Books, and Reading, at a Baghdad Book Fair</a> NYT: Iraq is home to literary traditions ancient and modern, and to legions of avid readers who find a new book more meaningful to them than a new government. 
- <p class="updated_time"> 12:37 PM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59713503?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch go into Christmas lockdown over Omicron wave</a> BBC: Non-essential shops, schools, bars, restaurants and other public venues will be closed until at least mid-January. 
  <p class="updated_time"> 12:00 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/sports-personality/59700067?at_medium=RSS&at_campaign=KARANGA">Sports Personality 2021: Simone Biles honoured with Lifetime Achievement award</a> BBC: American gymnast Simone Biles has been honoured with BBC Sports Personality of the Year's Lifetime Achievement award. 
  <p class="updated_time"> 11:00 AM CT, Dec. 18 </p> 
@@ -177,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/americas/canada-travel-warning-omicron.html">Canadian Government Warns Residents to Avoid Nonessential Travel</a> NYT: In response to the spread of Omicron, Canada is also ramping up distribution of booster doses and rapid antigen tests. 
  <p class="updated_time"> 02:32 PM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/uk-omicron-surge.html">Why Britain Thinks Omicron Infected 200,000 People on Monday</a> NYT: Experts called it ‘a back-of-the-envelope calculation’ that showed how quickly the variant spreads, but also how little is known about it. 
- <p class="updated_time"> 01:24 PM CT, Dec. 15 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/europe/netherlands-dutch-coalition.html">After Months, a ‘New’ Dutch Coalition With the Same Leader and Parties</a> NYT: Mark Rutte, who has weathered a scandal and criticism for overstaying his welcome, will be prime minister for a fourth term. 
 
 
 </details>
