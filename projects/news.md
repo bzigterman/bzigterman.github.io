@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:37 AM CT, Dec. 18 </p> 
+ <a href="https://www.npr.org/2021/12/18/1065475041/indonesia-raises-volcano-warning-to-second-highest-level">Indonesia raises volcano warning to second-highest level</a> NPR: Indonesia's geological agency said it sees increasing activity that could trigger an avalanche of lava and searing gas, similar to the Dec. 4 eruption, 
  <p class="updated_time"> 05:04 AM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59710482?at_medium=RSS&at_campaign=KARANGA">France red list: Queues in St Pancras ahead of travel ban</a> BBC: Travellers in St Pancras station, London, queue to try and get to France before the imposition of restrictions. 
  <p class="updated_time"> 05:00 AM CT, Dec. 18 </p> 
@@ -131,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/17/1065085132/more-than-20-feared-dead-in-building-fire-in-osaka-japan">24 people died in a building fire in Osaka, Japan, and arson is suspected</a> NPR: A fire that spread from a fourth-floor mental clinic in an eight-story building in what police were investigating as a possible case of arson and murder. Police were searching for a possible suspect. 
  <p class="updated_time"> 02:47 AM CT, Dec. 17 </p> 
  <a href="https://www.wsj.com/articles/japanese-worker-at-u-s-base-in-japan-diagnosed-with-omicron-after-military-outbreak-11639748240">Japanese Worker at U.S. Base Diagnosed With Omicron</a> WSJ: The variant’s presence raised concerns that Omicron may have gained a footing in Japan. 
- <p class="updated_time"> 02:17 AM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065081902/uk-conservatives-suffer-shock-by-election-loss-in-another-setback-for-boris-john">U.K. Conservatives suffer shock by-election loss in another setback for Boris Johnson</a> NPR: U.K. Prime Minister Boris Johnson's Conservative Party has suffered a stunning defeat in a parliamentary by-election amid weeks of scandal and soaring COVID-19 infections. 
  <p class="updated_time"> 12:11 AM CT, Dec. 17 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-holds-first-election-without-opposition-but-will-people-vote-11639739483">Hong Kong Holds First Election Without Opposition. But Will People Vote?</a> WSJ: Sunday’s election will feature only Beijing-approved candidates, after an overhaul of voting rules and a crackdown on the city’s opposition. 
  <p class="updated_time"> 11:30 PM CT, Dec. 16 </p> 
