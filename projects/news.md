@@ -91,12 +91,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/17/1065311963/analyzing-the-biden-administrations-year-in-foreign-policy-toward-china-and-russ">Analyzing the Biden administration's year in foreign policy toward China and Russia</a> NPR: As the year comes to a close, here's where U.S. foreign policy toward Russia and China stands — and what we might expect in 2022. 
  <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/17/1064946655/coronavirus-faq-is-it-ok-for-the-kids-to-take-a-pic-with-santa">Coronavirus FAQ: Is it OK for the kids to take a pic with Santa? </a> NPR: Plus: Is it safe to go to a holiday party if not everyone is vaccinated? And are people getting different side effects from the COVID booster? 
- <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59692855?at_medium=RSS&at_campaign=KARANGA">Gardener Omar Raddad wins fight to re-open notorious murder case</a> BBC: A Moroccan gardener convicted of the notorious killing of a French heiress is fighting to clear his name. 
  <p class="updated_time"> 01:19 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/south-africa-omicron-hospitalizations.html">South Africa Hospitalizations Lower in Omicron Wave, but Caveats Apply</a> NYT: Researchers warned that the epicenter of the country’s outbreak is more highly vaccinated than others, and that natural immunity is also high. 
- <p class="updated_time"> 01:13 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59702456?at_medium=RSS&at_campaign=KARANGA">Son's tribute to 'bawdy, fertile matriarch' goes viral</a> BBC: A son's colourful tribute to his mother, Renay Mandel Corren, has been shared widely on social media. 
  <p class="updated_time"> 12:32 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/17/1065200225/pfizer-third-dose-covid-vaccine-infants-young-children">Pfizer plans to test a third dose of its COVID vaccine on infants and young children</a> NPR: Pfizer and BioNTech, which produced the first COVID-19 vaccine authorized in the U.S., say they will expand ongoing trials to include a third dose for children as young as 6 months old. 
  <p class="updated_time"> 11:38 AM CT, Dec. 17 </p> 
@@ -119,6 +115,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/omicron-variant-now-dominates-in-england-and-scotland-health-data-show-11639769289">Omicron Variant Now Dominates in England and Scotland, Health Data Show</a> WSJ: The U.K. reported a record number of new daily cases, and infections of the Covid-19 variant are estimated to be doubling in less than two days across much of England. 
  <p class="updated_time"> 08:11 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing a Blow to Boris Johnson</a> NYT: The governing party lost to the Liberal Democrats a district that it had represented for more than a century. 
+ <p class="updated_time"> 07:47 AM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59696503?at_medium=RSS&at_campaign=KARANGA">Two teens slide to safety from fourth floor New York apartment fire</a> BBC: Watch this dramatic video of them escaping through a window and sliding down a pole to the ground. 
  <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated, and at least 17 people died. 
  <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
@@ -202,12 +200,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:57 AM CT, Dec. 18 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/18/its-just-completely-delusional-495520">‘It’s just completely delusional’</a> Politico Playbook: And the Senate adjourns for the year. 
  <p class="updated_time"> 09:11 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/cruz-vote-russian-pipeline-sanctions-schumer-525334">Cruz secures vote on Russian pipeline sanctions in deal with Schumer</a> Politico: Cruz agreed to lift his holds on 32 nominees in exchange for the Senate voting in early January on his legislation to sanction the pipeline. 
+ <p class="updated_time"> 08:47 AM CT, Dec. 18 </p> 
+ <a href="https://www.cnn.com/2021/12/18/politics/white-house-omicron-warning-joe-biden/index.html">Biden admin eyes a potentially stark shift in messaging around ending the pandemic</a> CNN: President Joe Biden's top health officials came to an afternoon briefing at the White House Thursday with a warning -- and a request. 
+ <p class="updated_time"> 08:46 AM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/us/politics/us-covid-tests-omicron.html">With Omicron, U.S. Testing Capacity Faces Intense Pressure</a> NYT: President Biden came into office vowing to make testing cheap and accessible, but matching supply with demand has been a persistent problem. 
  <p class="updated_time"> 08:43 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/17/business/osha-vaccine-mandate.html">Biden's Covid Vaccine Mandate Reinstated for Large Businesses</a> NYT: The decision, by a split three-judge panel, overturned a ruling that had blocked a Biden administration rule requiring companies with 100 or more employees to mandate vaccinations or testing for workers. 
- <p class="updated_time"> 08:36 AM CT, Dec. 18 </p> 
- <a href="https://www.cnn.com/2021/12/18/politics/white-house-omicron-warning-joe-biden/index.html">Inside the meeting that led to Biden's stark warning about the Omicron winter</a> CNN: President Joe Biden's top health officials came to an afternoon briefing at the White House Thursday with a warning -- and a request. 
  <p class="updated_time"> 08:35 AM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/appeals-court-vaccine-mandate-osha-large-employers-federal-contractors/index.html">Appeals court lets Biden administration enforce vaccine rules for large employers</a> CNN: The Biden administration scored a significant victory Friday in its court battles to enforce various federal vaccine mandates, with an appeals court ruling that the government can enforce a vaccine-or-testing rule for companies with more than 100 employees. 
  <p class="updated_time"> 08:02 AM CT, Dec. 18 </p> 
@@ -230,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065470550/russia-envoy-says-moscow-might-up-the-ante-if-the-west-ignores-its-demands">Russia envoy says Moscow might up the ante if the West ignores its demands</a> NPR: Deputy Foreign Minister Sergei Ryabkov accused Western allies of continuously pushing the envelope in relations with Russia. 
  <p class="updated_time"> 04:00 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/gop-gerrymandering-black-democrats.html">Map by Map, G.O.P. Chips Away at Black Democrats’ Power</a> NYT: Black elected officials in several states, from Congress down to the counties, have been drawn out of their districts this year or face headwinds to hold onto their seats. 
- <p class="updated_time"> 08:39 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/us/politics/us-covid-tests-omicron.html">With Omicron, U.S. Testing Capacity Faces Intense Pressure</a> NYT: President Biden came into office vowing to make testing cheap and accessible, but matching supply with demand has been a persistent problem. 
  <p class="updated_time"> 08:36 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/biden-coronavirus-omicron-winter.html">Biden Struggles to Beat Back a Resurgent Virus Once Again</a> NYT: A new variant and vaccine resistance have upended the president’s plans for a hopeful holiday season. 
  <p class="updated_time"> 08:22 PM CT, Dec. 17 </p> 
