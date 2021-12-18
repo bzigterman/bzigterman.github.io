@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:29 PM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html">Oriol Bohigas, Architect Who Helped Transform Barcelona, Dies at 95</a> NYT: He was a mastermind of the city’s overhaul in preparation for the 1992 Summer Olympics, which helped turn it into a major tourist destination. 
  <p class="updated_time"> 01:00 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59713503?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch go into Christmas lockdown over Omicron wave</a> BBC: Non-essential shops, schools, bars, restaurants and other public venues will be closed until at least mid-January. 
  <p class="updated_time"> 12:43 PM CT, Dec. 18 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html">Why There's a Growing Push to Ban Killer Robots</a> NYT: A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty. 
  <p class="updated_time"> 04:44 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Moscow masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected. 
- <p class="updated_time"> 04:09 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html">Oriol Bohigas, Groundbreaking Spanish Architect, Dies at 95</a> NYT: He was a mastermind of the overhaul of Barcelona in preparation for the 1992 Summer Olympics, which helped transform much of the city. 
  <p class="updated_time"> 04:06 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065246985/brazil-wildfires-17-million-animals-killed">Nearly 17 million animals died in wildfires in Brazil's wetlands last year</a> NPR: The estimate comes from scientists who examined the number of carcasses they found up to 48 hours after a fire event. The rate of climate change makes such wildfires inevitable, they say. 
  <p class="updated_time"> 04:06 PM CT, Dec. 17 </p> 
