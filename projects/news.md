@@ -41,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065458877/the-events-that-led-to-hong-kongs-pivotal-elections">The events that led to Hong Kong's pivotal elections</a> NPR: Demands for expanded democracy in the semi-autonomous territory inspired protest movements that were largely ignored by Beijing and crushed by security forces. 
  <p class="updated_time"> 10:32 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59708304?at_medium=RSS&at_campaign=KARANGA">US court reinstates Covid vaccine mandate for large US businesses</a> BBC: The national mandate, blocked last month, will cover more than two-thirds of the country's workers. 
- <p class="updated_time"> 08:23 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/novavax-vaccine-approval-who.html">Novavax Vaccine Wins Emergency Approval from the W.H.O.</a> NYT: The authorization could drastically increase the vaccine supply for low- and middle-income countries. 
  <p class="updated_time"> 08:13 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59688405?at_medium=RSS&at_campaign=KARANGA">Theranos trial: Jury to decide fate of Elizabeth Holmes</a> BBC: The prosecution says she ran a "house of cards"; the defence liken her to a brave captain of a sinking ship. 
  <p class="updated_time"> 07:05 PM CT, Dec. 17 </p> 
@@ -55,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59707192?at_medium=RSS&at_campaign=KARANGA">Sir Rod Stewart pleads guilty to battery over Florida hotel 'punch'</a> BBC: The singer and his son clashed with a Florida hotel guard who refused them entry to a party. 
  <p class="updated_time"> 06:17 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59691176?at_medium=RSS&at_campaign=KARANGA">Afghanistan to Wisconsin: Refugees dream of home</a> BBC: Some of the 13,000 Afghan refugees living at a US military base in Wisconsin reflect on new lives. 
+ <p class="updated_time"> 06:16 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59702496?at_medium=RSS&at_campaign=KARANGA">Ethiopian civil war divides diaspora in the US</a> BBC: The conflict has deeply divided the Ethiopian community in Washington DC - the largest in the US. 
  <p class="updated_time"> 06:12 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59689177?at_medium=RSS&at_campaign=KARANGA">Lagos party plans threatened by Nigeria Covid passports</a> BBC: Nigeria was briefly put on the UK's travel red list but most people are indifferent to coronavirus. 
  <p class="updated_time"> 06:11 PM CT, Dec. 17 </p> 
@@ -119,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/omicron-variant-now-dominates-in-england-and-scotland-health-data-show-11639769289">Omicron Variant Now Dominates in England and Scotland, Health Data Show</a> WSJ: The U.K. reported a record number of new daily cases, and infections of the Covid-19 variant are estimated to be doubling in less than two days across much of England. 
  <p class="updated_time"> 08:11 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing a Blow to Boris Johnson</a> NYT: The governing party lost to the Liberal Democrats a district that it had represented for more than a century. 
- <p class="updated_time"> 07:47 AM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59696503?at_medium=RSS&at_campaign=KARANGA">Two teens slide to safety from fourth floor New York apartment fire</a> BBC: Watch this dramatic video of them escaping through a window and sliding down a pole to the ground. 
  <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated, and at least 17 people died. 
  <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
@@ -193,6 +191,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/15/world/europe/netherlands-dutch-coalition.html">After Months, a ‘New’ Dutch Coalition With the Same Leader and Parties</a> NYT: Mark Rutte, who has weathered a scandal and criticism for overstaying his welcome, will be prime minister for a fourth term. 
  <p class="updated_time"> 11:47 AM CT, Dec. 15 </p> 
  <a href="https://www.nytimes.com/2021/12/15/world/europe/iran-nuclear-cameras-iaea.html">Iran Agrees to Replace Cameras at Nuclear Site but Blocks Images</a> NYT: Iran’s failure to allow the U.N. nuclear agency to fully monitor its nuclear program is hindering talks in Vienna on restoring the 2015 nuclear deal. 
+ <p class="updated_time"> 10:44 AM CT, Dec. 15 </p> 
+ <a href="https://www.nytimes.com/2021/12/15/world/europe/frenchwoman-dead-syria-detention-camp.html">France Refused to Repatriate a Sick Woman Who Joined the Islamic State. She Died.</a> NYT: A Frenchwoman died of health complications in a detention camp in Syria on Tuesday, her lawyer said. She had repeatedly asked to be repatriated to treat severe diabetes. 
 
 
 </details>
