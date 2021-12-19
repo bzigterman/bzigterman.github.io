@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:35 AM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll passes 80</a> BBC: More than 80 people are thought to have died, as the Red Cross issues an emergency appeal for aid. 
  <p class="updated_time"> 01:07 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/snl-no-live-audience-covid.html">‘S.N.L.’ Cancels Live Audience Over Covid Concerns</a> NYT: But the show did go on, with sketches that were taped earlier in the week and repeats from previous episodes. 
  <p class="updated_time"> 11:22 PM CT, Dec. 18 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59715940?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch go into Christmas lockdown over Omicron wave</a> BBC: Non-essential shops, schools, bars and other public venues have been closed until at least 14 January. 
  <p class="updated_time"> 10:44 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/europe/brexit-david-frost-resigns.html">David Frost, Brexit Negotiator, Resigns in Another Blow to Boris Johnson</a> NYT: The move puts new pressure on the prime minister, whose leadership has been called into question by a series of setbacks, including a new wave of Covid infections. 
- <p class="updated_time"> 10:34 PM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai: Death toll reaches 75</a> BBC: With communications systems down, authorities say the scale of the storm's destruction is unclear. 
  <p class="updated_time"> 09:34 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
  <p class="updated_time"> 09:26 PM CT, Dec. 18 </p> 
