@@ -7,8 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:25 PM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/snl-no-live-audience-covid.html">‘S.N.L.’ Cancels Live Audience Over Covid Concerns</a> NYT: The show was responding to concerns about Covid as the Omicron variant surges in New York. 
+ <p class="updated_time"> 06:29 PM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59712015?at_medium=RSS&at_campaign=KARANGA">Covid: French ski season in disarray as UK tourists banned</a> BBC: Snow on the slopes of Mont Blanc is the best Chamonix has seen in years - but few Brits will enjoy it. 
+ <p class="updated_time"> 06:08 PM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59699350?at_medium=RSS&at_campaign=KARANGA">Wagner Group: Why the EU is alarmed by Russian mercenaries in Central Africa</a> BBC: The shadowy Russian mercenary group, allegedly linked to the Kremlin, has been accused of rights abuses. 
+ <p class="updated_time"> 06:05 PM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59689731?at_medium=RSS&at_campaign=KARANGA">Chileans divided ahead of presidential run-off</a> BBC: The election, set to be the most polarised in decades, pits a far-right candidate against a leftist. 
+ <p class="updated_time"> 06:05 PM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59632733?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Why the Legco elections are so controversial</a> BBC: Sweeping changes put in place by China altered the way the city chooses its lawmakers this year. 
+ <p class="updated_time"> 06:04 PM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59659881?at_medium=RSS&at_campaign=KARANGA">BBC Bitcoin mining report used in crypto-scam</a> BBC: The BBC’s Silicon Valley correspondent investigates how his report was used to steal life savings. 
+ <p class="updated_time"> 06:03 PM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/europe/brexit-david-frost-resigns.html">David Frost, Brexit Negotiator, Resigns in Another Blow to Boris Johnson</a> NYT: The move puts new pressure on the prime minister, whose leadership has been called into question by a series of setbacks, including a new wave of Covid infections. 
+ <p class="updated_time"> 06:00 PM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/snl-no-live-audience-covid.html">‘S.N.L.’ Cancels Live Audience Over Covid Concerns</a> NYT: The show’s plan to use a ‘limited cast and crew’ made it impossible for the artist Charli XCX to go on. 
  <p class="updated_time"> 04:08 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59713503?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch go into Christmas lockdown over Omicron wave</a> BBC: Non-essential shops, schools, bars, restaurants and other public venues will be closed until at least mid-January. 
  <p class="updated_time"> 04:04 PM CT, Dec. 18 </p> 
@@ -89,12 +101,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59689177?at_medium=RSS&at_campaign=KARANGA">Lagos party plans threatened by Nigeria Covid passports</a> BBC: Nigeria was briefly put on the UK's travel red list but most people are indifferent to coronavirus. 
  <p class="updated_time"> 06:11 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59674377?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine: Can a solution be found for war in Ukraine's east?</a> BBC: The West fears a Russian invasion so hopes of a peaceful solution to the conflict look slim. 
- <p class="updated_time"> 06:10 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59644739?at_medium=RSS&at_campaign=KARANGA">Caroline and Martine: Picture book heroines who fought for French hearts</a> BBC: For nearly 70 years, Caroline and Martine have been rivals for the hearts of French schoolchildren. 
  <p class="updated_time"> 06:07 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-59685203?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… What 2021 taught us about Covid</a> BBC: A look back at how the pandemic evolved throughout 2021, and what we've learned from it. 
- <p class="updated_time"> 06:06 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-59697047?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 11-17 December 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:06 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59702427?at_medium=RSS&at_campaign=KARANGA">India and Pakistan: The students in jail for praising the wrong cricket team</a> BBC: An Indian student's family calls for his release after he was arrested for celebrating Pakistan's victory. 
  <p class="updated_time"> 04:57 PM CT, Dec. 17 </p> 
@@ -145,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/asia/ishigaki-japan-missiles-taiwan.html">The Island Paradise Near the Front Line of Tensions Over Taiwan</a> NYT: New missile batteries planned for the Japanese island of Ishigaki reflect a drastic shift in Japan’s views on China. 
  <p class="updated_time"> 11:30 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/australia/the-giant-who-lives-in-the-melbourne-museum.html">The Giant Who Lives in the Melbourne Museum</a> NYT: The world’s most complete triceratops skeleton ever found will go on display next year, displacing a beloved, if quirky, exhibit of taxidermy. 
- <p class="updated_time"> 10:04 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html">Bouncy Castle in Tasmania Is Swept by Wind, Killing 5 Children</a> NYT: A gust of wind swept up the inflatable on the last day of school, and the students fell more than 30 feet. Several others were critically injured. 
  <p class="updated_time"> 08:59 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/coronavirus-omicron-variant.html">Scientists Are Racing to Gauge the Threat of Omicron</a> NYT: The variant will spread quickly through the United States, experts say. What happens after that is less certain. 
  <p class="updated_time"> 08:51 PM CT, Dec. 16 </p> 
@@ -157,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
  <p class="updated_time"> 03:45 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html">NATO Signals Support for Ukraine Amid Russia Threat</a> NYT: The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion. 
- <p class="updated_time"> 02:19 PM CT, Dec. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59680957?at_medium=RSS&at_campaign=KARANGA">Kim Jong-un: N Korean defectors reflect on last decade</a> BBC: It's a decade since an untested 27-year-old took power. But how has it been to live under Kim Jong-un? 
  <p class="updated_time"> 02:16 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/covid-pandemic-story.html">In 50 Words, Tell Us Your Best Pandemic Story</a> NYT: We want to hear about your Covid memories. 
  <p class="updated_time"> 11:33 AM CT, Dec. 16 </p> 
@@ -173,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/queen-elizabeth-christmas-lunch-canceled-covid.html">Queen Elizabeth cancels traditional pre-Christmas lunch as cases surge in England.</a> NYT: Palace officials said it was a precautionary measure to avoid putting royal family members at risk by bringing a large group together at Windsor Castle. 
  <p class="updated_time"> 04:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/travel/testing-positive-for-covid-overseas.html">What Happens If You Test Positive for Covid While Traveling?</a> NYT: In the midst of the holiday season, the Omicron variant has many considering the prospects of getting stuck while traveling. Here’s what you need to know. 
- <p class="updated_time"> 03:56 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/15/world/americas/santo-domingo-plane-crash.html">Santo Domingo Plane Crash Kills All 9 Aboard</a> NYT: A prominent Puerto Rican music producer known as Flow La Movie was reported to be among the dead. 
  <p class="updated_time"> 02:00 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html">Battling for Bolivia’s Lithium That's Vital to Electric Cars</a> NYT: Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game. 
 
@@ -396,6 +398,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/trump-tax-returns-legal-524235">Judge scraps Trump lawsuit to shield tax returns from Congress</a> Politico: But the judge stayed the impact of his ruling for 14 days. 
  <p class="updated_time"> 04:32 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megabill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
+ <p class="updated_time"> 02:17 PM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/qanon-follower-sentence-pelosi-death-threats-524209">QAnon follower gets 28-month sentence for death threats to Pelosi</a> Politico: Judge says continuing election-fraud rhetoric from Republican politicians makes defendant an ongoing threat. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
