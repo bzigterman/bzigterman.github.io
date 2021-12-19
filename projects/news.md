@@ -190,14 +190,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:07 PM CT, Dec. 19 </p> 
+ <a href="https://www.politico.com/news/2021/12/19/afghanistan-collapse-trust-biden-trump-525640">‘Trust was gone’: Former Afghan official recounts his government’s collapse</a> Politico: Hamdullah Mohib described what he perceives to be betrayal. 
+ <p class="updated_time"> 04:05 PM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">Sen. Warren tests positive for Covid-19</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
  <p class="updated_time"> 03:58 PM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065676445/chileans-choose-next-president-in-divisive-election">Chileans choose next president in divisive election</a> NPR: The runoff in Chile's presidential election pits a far-right candidate against a young far-left candidate. 
  <p class="updated_time"> 03:58 PM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065676438/joe-manchin-may-have-just-killed-bidens-build-back-better-plan">Joe Manchin may have just killed Biden's Build Back Better plan</a> NPR: Democratic West Virginia Senator Joe Manchin went on Fox News this morning and delivered what sounded like a fatal blow to Joe Biden's Build Back Better agenda. 
  <p class="updated_time"> 03:52 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/manchin-biden-agenda-competence-campaign-promise-525623">Biden promised competence and order. Chaos and uncertainty are winning.</a> Politico: The president has had successes. But a year in, his time in office has been defined by the disruptions, including on Sunday. 
- <p class="updated_time"> 03:48 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">Sen. Warren tests positive for Covid-19</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
  <p class="updated_time"> 03:05 PM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065665886/manchin-says-build-back-betters-climate-measures-are-risky-thats-not-true">Manchin says Build Back Better's climate measures are risky. That's not true</a> NPR: West Virginia Sen. Joe Manchin had spent months watering down Biden's ambitious climate plans. His final objections to the bill's climate measures are misleading. 
  <p class="updated_time"> 02:32 PM CT, Dec. 19 </p> 
