@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:52 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-59721801?at_medium=RSS&at_campaign=KARANGA">Liz Truss replaces Lord Frost in post-Brexit talks</a> BBC: The foreign secretary will become the UK's lead negotiator with the EU over the Northern Ireland Protocol. 
  <p class="updated_time"> 12:51 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59714272?at_medium=RSS&at_campaign=KARANGA">Covid: Christmas travel will fuel spread of Omicron, US expert warns</a> BBC: The US infectious disease expert says the Covid-19 variant will spread - even among the vaccinated. 
  <p class="updated_time"> 12:37 PM CT, Dec. 19 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59715820?at_medium=RSS&at_campaign=KARANGA">Covid: Germany tightens restrictions on UK travellers</a> BBC: Germany follows France in banning British tourists and business travellers over Omicron concerns. 
  <p class="updated_time"> 06:29 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59712015?at_medium=RSS&at_campaign=KARANGA">Covid: French ski season in disarray as UK tourists banned</a> BBC: Snow on the slopes of Mont Blanc is the best Chamonix has seen in years - but few Brits will enjoy it. 
- <p class="updated_time"> 06:08 PM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59699350?at_medium=RSS&at_campaign=KARANGA">Wagner Group: Why the EU is alarmed by Russian mercenaries in Central Africa</a> BBC: The shadowy Russian mercenary group, allegedly linked to the Kremlin, has been accused of rights abuses. 
  <p class="updated_time"> 06:05 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59689731?at_medium=RSS&at_campaign=KARANGA">Chile's dark past hangs over presidential run-off</a> BBC: The election, set to be the most polarised in decades, pits a far-right candidate against a leftist. 
  <p class="updated_time"> 06:05 PM CT, Dec. 18 </p> 
