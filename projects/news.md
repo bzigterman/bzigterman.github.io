@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:05 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59720745?at_medium=RSS&at_campaign=KARANGA">Senator Joe Manchin threatens to sink signature Biden bill</a> BBC: Democrat Joe Manchin throws the Build Back Better Act into jeopardy, saying he will not vote for it. 
+ <p class="updated_time"> 02:53 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-59721801?at_medium=RSS&at_campaign=KARANGA">Liz Truss replaces Lord Frost in post-Brexit talks</a> BBC: The foreign secretary will become the UK's lead negotiator with the EU over the Northern Ireland Protocol. 
  <p class="updated_time"> 02:36 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59722285?at_medium=RSS&at_campaign=KARANGA">Il Divo singer Carlos Marin dies aged 53</a> BBC: The Spanish singer is remembered by other members of the group for his unique voice and spirit. 
- <p class="updated_time"> 02:10 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-59721801?at_medium=RSS&at_campaign=KARANGA">Liz Truss replaces Lord Frost in post-Brexit talks</a> BBC: The foreign secretary will become the UK's lead negotiator with the EU over the Northern Ireland Protocol. 
  <p class="updated_time"> 02:05 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/europe/uk-lockdown-omicron-covid-boris-johnson.html">U.K. Weighing Lockdown Amid an Omicron Wave and Political Turmoil</a> NYT: Britain’s health secretary said on Sunday he wouldn’t rule out more restrictions before Christmas, but the prime minister would most likely face sharp pushback from his own party. 
  <p class="updated_time"> 01:59 PM CT, Dec. 19 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/europe/brexit-david-frost-resigns.html">David Frost, Brexit Negotiator, Resigns in Another Blow to Boris Johnson</a> NYT: The move puts new pressure on the prime minister, whose leadership has been called into question by a series of setbacks, including a new wave of Covid infections. 
  <p class="updated_time"> 09:34 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
- <p class="updated_time"> 07:36 PM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59715820?at_medium=RSS&at_campaign=KARANGA">Covid: Germany tightens restrictions on UK travellers</a> BBC: Germany follows France in banning British tourists and business travellers over Omicron concerns. 
  <p class="updated_time"> 06:29 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59712015?at_medium=RSS&at_campaign=KARANGA">Covid: French ski season in disarray as UK tourists banned</a> BBC: Snow on the slopes of Mont Blanc is the best Chamonix has seen in years - but few Brits will enjoy it. 
  <p class="updated_time"> 06:05 PM CT, Dec. 18 </p> 
@@ -194,8 +194,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:52 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/manchin-biden-agenda-competence-campaign-promise-525623">Manchin didn’t just shiv Biden’s agenda, he whacked his central campaign promise too</a> Politico: The president has had successes. But a year in, his time in office has been defined by the disruptions, including on Sunday. 
+ <p class="updated_time"> 03:05 PM CT, Dec. 19 </p> 
+ <a href="https://www.npr.org/2021/12/19/1065665886/manchin-says-build-back-betters-climate-measures-are-risky-thats-not-true">Manchin says Build Back Better's climate measures are risky. That's not true</a> NPR: West Virginia Senator Joe Manchin had spent months watering down Biden's ambitious climate plans. His final objections to the bill's climate measures are misleading. 
  <p class="updated_time"> 02:32 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Manchin Pulls Support From Biden’s Social Policy Bill, Imperiling Its Passage</a> NYT: “I cannot vote to continue with this piece of legislation,” the centrist West Virginia senator said on “Fox News Sunday,” citing concerns about adding to the national debt. 
+ <p class="updated_time"> 02:29 PM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/francis-collins-trump-political-pressure-republicans/index.html">Outgoing NIH director says Trump and other Republicans pressured him to endorse unproven Covid-19 remedies and to fire Fauci</a> CNN: The outgoing director of the National Institutes of Health said Sunday that he faced political pressure from then-President Donald Trump and other Republicans to endorse unproven Covid-19 remedies such as hydroxychloroquine and to fire Dr. Anthony Fauci, the head of NIH's National Institute of Allergy and Infectious Diseases. 
  <p class="updated_time"> 01:52 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/afghan-war-refugees.html">At Every Step, Afghans Coming to America Encounter Stumbling Blocks</a> NYT: U.S. officials concede that the system was unprepared. 
  <p class="updated_time"> 01:51 PM CT, Dec. 19 </p> 
@@ -204,6 +208,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">White House issues damning statement against Manchin after saying he won't vote for Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 01:30 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/trump-china-olympics-xi-525566">Trump calls China’s leader ‘a killer’ but rejects Olympics boycott</a> Politico: “He is a killer but I had a great relationship with him,” the former president said. 
+ <p class="updated_time"> 01:07 PM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/florida-politics-2022/index.html">Florida was once the perennial swing state. 2022 may prove how red it has become</a> CNN: Four years ago, Republicans and Democrats in Florida were similarly optimistic about their chances of winning the governor's mansion and a toss-up race for a US Senate seat during the 2018 midterms. The results of those races -- razor-thin victories for Republicans in both contests -- devastated Democrats but nevertheless seemed to reenforce Florida's status as a purple state. 
  <p class="updated_time"> 12:49 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/19/scoop-manchin-refused-a-call-from-wh-before-killing-bbb-495521"> SCOOP: Manchin ‘refused’ a call from W.H. before killing BBB</a> Politico Playbook: And the latest coronavirus variant raises the alarm across the world. 
  <p class="updated_time"> 12:35 PM CT, Dec. 19 </p> 
@@ -314,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/17/1065312046/possible-charges-are-the-latest-chapter-in-mark-meadows-career-defined-by-confli">Possible charges are the latest chapter in Mark Meadows' career defined by conflict</a> NPR: Former chief of staff Mark Meadows was at the center of power under Trump after a decade of waging conflict in the House. He now faces possible prosecution for contempt of Congress. 
  <p class="updated_time"> 03:33 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065311956/a-conversation-with-the-countrys-1st-somali-american-mayor">A conversation with the country's 1st Somali-American mayor</a> NPR: NPR's Ari Shapiro speaks with Deqa Dhalac, who recently became the first Somali-American mayor in the United States. 
- <p class="updated_time"> 03:29 PM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065304172/robert-palmer-capitol-riot-jan-6-sentence">Capitol rioter who attacked police is sentenced to more than 5 years in prison</a> NPR: The judge said she wanted to make clear with the sentence that "trying to stop the peaceful transition of power and assaulting law enforcement officers is going to be met with certain punishment." 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
  <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
@@ -384,10 +388,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">Senate that ‘sucks’ gets a dose of reality from Biden</a> Politico: Democrats wanted to hear from the president on how to move forward. He acknowledged on Thursday that his domestic spending vision has to wait. 
  <p class="updated_time"> 12:20 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/congressional-gold-medal-us-troops-kabul-attack/index.html">Biden signs bill to award Congressional Gold Medal to US service members killed in Kabul airport bombing</a> CNN: President Joe Biden on Thursday signed a bill that posthumously awards a Congressional Gold Medal to the 13 US service members killed in a terrorist attack outside Kabul's airport in August. 
- <p class="updated_time"> 12:16 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/biden-signs-debt-limit-increase/index.html">Biden signs debt limit increase</a> CNN: President Joe Biden on Thursday signed the bill raising the debt limit ceiling that passed Congress earlier this week, according to a press release from the White House. 
- <p class="updated_time"> 09:32 AM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/white-house-lead-pipe-removal-effort/index.html">Harris announces administration's new lead pipe and paint removal effort</a> CNN: Vice President Kamala Harris plans to announce a new administration push to eliminate lead from water pipes and homes during remarks Thursday in Washington, according to senior administration officials. 
  <p class="updated_time"> 09:31 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/jill-biden-showing-up/index.html">Jill Biden says administration will keep 'showing up' to help communities heal from tragedies</a> CNN: First lady Jill Biden wants the American people to know that the first family is there for them. 
  <p class="updated_time"> 07:22 AM CT, Dec. 16 </p> 
