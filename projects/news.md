@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:52 PM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/us/politics/afghan-war-refugees.html">At Every Step, Afghans Coming to America Encounter Stumbling Blocks</a> NYT: U.S. officials concede that the system was unprepared. 
  <p class="updated_time"> 01:51 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/johnny-isakson-dies-at-76/index.html">Former Sen. Johnny Isakson dies at the age of 76</a> CNN: Former Georgia Sen. Johnny Isakson, a Republican who held a long career in politics, has died at the age of 76. 
  <p class="updated_time"> 01:39 PM CT, Dec. 19 </p> 
@@ -228,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">White House lights up Manchin after he crushes Biden's megabill</a> Politico: The West Wing accused Manchin of "a breach of his commitments to the president and the senator’s colleagues in the House and Senate," in a blistering statement Sunday. 
  <p class="updated_time"> 08:51 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065636709/joe-manchin-says-he-cannot-support-bidens-build-back-better-plan">Joe Manchin says he won't support President Biden's Build Back Better plan </a> NPR: The announcement by the West Virginia Democrat dooms the $2 trillion social spending and climate legislation, which needs support from every Senate Democrat in order to pass through the 50-50 chamber. 
- <p class="updated_time"> 08:20 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/us/politics/afghan-war-refugees.html">At Every Step, Afghans Coming to America Encounter Stumbling Blocks</a> NYT: U.S. officials concede that the system was unprepared. 
  <p class="updated_time"> 07:30 AM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/paul-whelan-three-years-detained-russia/index.html">Paul Whelan's family stays focused on his release as he nears 3 years in Russian detention</a> CNN: Nearly three years after her brother was detained in Moscow, Elizabeth Whelan is keeping her eye on the goal: bringing him home. 
  <p class="updated_time"> 07:24 AM CT, Dec. 19 </p> 
