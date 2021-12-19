@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:33 PM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Was Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
  <p class="updated_time"> 03:30 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: LegCo vote after electoral overhaul sees record low turnout</a> BBC: Only 30.2% took part in the vote - the lowest turnout in Hong Kong's election history. 
  <p class="updated_time"> 03:05 PM CT, Dec. 19 </p> 
@@ -25,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59720744?at_medium=RSS&at_campaign=KARANGA">Drakeo the Ruler dies after stabbing at LA music festival</a> BBC: The 28-year-old was stabbed during an altercation backstage at a Los Angeles music festival. 
  <p class="updated_time"> 11:59 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/sikh-temples-lynching.html">2 Lynchings Reported at Sikh Temples in India</a> NYT: Enraged mobs attacked men they linked to acts of sacrilege, one at the Golden Temple, the holiest shrine for Sikhs. 
+ <p class="updated_time"> 11:35 AM CT, Dec. 19 </p> 
+ <a href="https://www.wsj.com/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003">Former Student Protest Leader Wins Presidency in Chile at Age 35</a> WSJ: Gabriel Boric pledges to hike taxes and dismantle a private pension system, threatening a market economy in Latin America’s richest country. 
  <p class="updated_time"> 11:25 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">Hong Kong Elections: How 'Patriots Only' Bolsters Beijing's Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials have urged the public to vote, but turnout Sunday was on track to hit a record low. 
  <p class="updated_time"> 11:10 AM CT, Dec. 19 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/omicron-prompts-new-covid-19-restrictions-in-europe-11639921351">Omicron Prompts New Covid-19 Restrictions</a> WSJ: A lockdown in the Netherlands went into effect, while Germany said it would curb travel from the U.K. and Ireland imposed a curfew. 
  <p class="updated_time"> 09:11 AM CT, Dec. 19 </p> 
  <a href="https://www.wsj.com/articles/central-banks-worry-omicron-could-sustain-inflation-11639909805">Central Banks Worry Omicron Could Sustain Inflation</a> WSJ: Instead of loosening monetary policy to prop up their economies as they did at the start of the Covid-19 pandemic, central banks are moving to unwind stimulus and raise interest rates. 
- <p class="updated_time"> 09:09 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Voting for President, Chile Faces Stark Choice, With Constitution at Stake</a> NYT: The presidential race is being contested by a millennial leftist who would be the nation’s youngest leader and a far-right politician who has promised to restore order and security. 
  <p class="updated_time"> 09:03 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: More than 140 people are now believed to have been killed by the storm, and rescuers are still trying to reach some devastated areas. 
  <p class="updated_time"> 09:00 AM CT, Dec. 19 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/world/asia/japan-rakugo.html">She Broke Japan’s Comedic Barrier Playing Drunks and Fools (Yep, Men)</a> NYT: Niyo Katsura has won acclaim in rakugo, a classical form of Japanese storytelling, by doing anything onstage that a man can do. 
  <p class="updated_time"> 01:00 AM CT, Dec. 19 </p> 
  <a href="https://www.wsj.com/articles/in-china-job-cuts-mount-in-sectors-hit-by-tighter-regulations-11639915203">China Job Cuts Mount in Sectors Hit by Tighter Rules</a> WSJ: Technology, education and property companies are shedding employees, dimming the job prospects for college graduates. 
- <p class="updated_time"> 11:00 PM CT, Dec. 18 </p> 
- <a href="https://www.wsj.com/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003">Chile's Presidential Election Pits Young Versus Old in Key Vote for Economy</a> WSJ: Voters are casting ballots following a campaign that has highlighted a generational divide pitting the young, who support presidential candidate Gabriel Boric, against the old, who are backing José Antonio Kast. 
  <p class="updated_time"> 10:44 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/europe/brexit-david-frost-resigns.html">David Frost, Brexit Negotiator, Resigns in Another Blow to Boris Johnson</a> NYT: The move puts new pressure on the prime minister, whose leadership has been called into question by a series of setbacks, including a new wave of Covid infections. 
  <p class="updated_time"> 09:34 PM CT, Dec. 18 </p> 
@@ -192,7 +192,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:07 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/afghanistan-collapse-trust-biden-trump-525640">‘Trust was gone’: Former Afghan official recounts his government’s collapse</a> Politico: Hamdullah Mohib described what he perceives to be betrayal. 
- <p class="updated_time"> 04:05 PM CT, Dec. 19 </p> 
+ <p class="updated_time"> 04:22 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">Sen. Warren tests positive for Covid-19</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
  <p class="updated_time"> 03:58 PM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065676445/chileans-choose-next-president-in-divisive-election">Chileans choose next president in divisive election</a> NPR: The runoff in Chile's presidential election pits a far-right candidate against a young far-left candidate. 
