@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:52 PM CT, Dec. 19 </p> 
+ <a href="https://www.politico.com/news/2021/12/19/manchin-biden-agenda-competence-campaign-promise-525623">Manchin didn’t just shiv Biden’s agenda, he whacked his central campaign promise too</a> Politico: The president has had successes. But a year in, his time in office has been defined by the disruptions, including on Sunday. 
  <p class="updated_time"> 02:32 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Manchin Pulls Support From Biden’s Social Policy Bill, Imperiling Its Passage</a> NYT: “I cannot vote to continue with this piece of legislation,” the centrist West Virginia senator said on “Fox News Sunday,” citing concerns about adding to the national debt. 
  <p class="updated_time"> 01:52 PM CT, Dec. 19 </p> 
@@ -320,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
  <p class="updated_time"> 02:39 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/lithium-mining-energy-climate/index.html">A rush to mine lithium in Nevada is pitting climate advocates and environmental groups against each other</a> CNN: In an ancient and now extinct supervolcano sitting in northern Nevada lies a treasure that its seekers call "white gold." 
- <p class="updated_time"> 12:26 PM CT, Dec. 17 </p> 
- <a href="https://www.politico.com/news/2021/12/17/trump-ally-brandon-straka-information-525272">Trump ally Straka has provided potentially significant information</a> Politico: Prosecutors have asked for a 30-day sentencing delay so that his new evidence "can be properly evaluated." 
  <p class="updated_time"> 11:22 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/bill-clinton-masterclass/index.html">Bill Clinton hosts MasterClass in leadership based on decades in public service</a> CNN: Former President Bill Clinton is teaching a MasterClass on "inclusive leadership," drawing on his long career in politics and eight years in the White House to teach participants how to negotiate, mediate and work with people they don't agree with. 
  <p class="updated_time"> 11:00 AM CT, Dec. 17 </p> 
