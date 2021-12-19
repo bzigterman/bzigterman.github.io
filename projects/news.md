@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:21 AM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59715937?at_medium=RSS&at_campaign=KARANGA">Man beaten to death for 'sacrilege' attempt at Sikh Golden Temple in India</a> BBC: Eyewitnesses allege the man had tried to commit a sacrilegious act at the Golden Temple in India. 
  <p class="updated_time"> 07:59 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/health/omicron-vaccines-efficacy.html">Most of the World’s Vaccines Likely Won’t Prevent Infection From Omicron</a> NYT: They do seem to offer significant protection against severe illness, but the consequences of rapidly spreading infection worry many public health experts. 
  <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/19/1062091832/flying-tigers-americans-china-world-war-ii-history-japan">The Flying Tigers: How a group of Americans ended up fighting for China in WW II</a> NPR: In 1941, Japan was on the offensive against China. So China hired a group of Americans to fight back in the skies. Eighty years ago this week, they fought in their first battle. 
  <p class="updated_time"> 06:00 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/19/1062792638/our-11-most-read-global-pandemic-stories-of-2021">Our 11 most-read global pandemic stories of 2021</a> NPR: From India to Israel to white-tailed deer in Iowa harboring the coronavirus, our top COVID stories of the year reveal the ever-changing nature of the world's health crisis. 
- <p class="updated_time"> 05:17 AM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59715937?at_medium=RSS&at_campaign=KARANGA">Man beaten to death for 'sacrilege' attempt at Sikh Golden Temple in India</a> BBC: Eyewitnesses allege the man had tried to commit a sacrilegious act at the Golden Temple in India. 
  <p class="updated_time"> 05:15 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59717345?at_medium=RSS&at_campaign=KARANGA">West Bank ambush suspects captured, Israel says</a> BBC: The army says it has caught Palestinians suspected of a deadly attack in the occupied West Bank. 
  <p class="updated_time"> 04:10 AM CT, Dec. 19 </p> 
@@ -196,6 +196,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:17 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">Manchin says he won’t support Biden’s social spending bill</a> Politico: “I can’t get there,” he said. 
+ <p class="updated_time"> 08:24 AM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">Manchin says he won't vote for Build Back Better Act</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
+ <p class="updated_time"> 08:20 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/us/politics/afghan-war-refugees.html">At Every Step, Afghans Coming to America Encounter Stumbling Blocks</a> NYT: U.S. officials concede that the system was unprepared. 
+ <p class="updated_time"> 07:30 AM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/paul-whelan-three-years-detained-russia/index.html">Paul Whelan's family stays focused on his release as he nears 3 years in Russian detention</a> CNN: Nearly three years after her brother was detained in Moscow, Elizabeth Whelan is keeping her eye on the goal: bringing him home. 
  <p class="updated_time"> 07:24 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/islam-afghanistan-desperately-poor-525420">Islamic world unites to aid desperately poor Afghanistan</a> Politico: The hastily called meeting of the Organization of Islamic Cooperation in Pakistan brought together dozens of foreign ministers. 
  <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
@@ -203,13 +209,17 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/black-lawmakers-diversity-lobbying-firms-525362">Black lawmakers threaten to cut off K St unless it diversifies</a> Politico: Years of frustration with the racial composition of the political influence industry have begun to boil over. 
  <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/debt-ceiling-chuck-schumer-mitch-mcconnell-joe-biden-nancy-pelosi/index.html">The economic catastrophe that wasn't: How Washington found a way to quietly raise the debt ceiling </a> CNN: Even as the partisan battle lines for the next epic political clash were being drawn, President Joe Biden had no desire to engage. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/surprise-medical-bills-insurance-525304">'A lot of money on the table': Fight brews over surprise medical bills</a> Politico: The outcome could swing billions of dollars in payments,  influence how doctors and hospitals negotiate prices with insurers and possibly affect premiums for millions of Americans. 
  <p class="updated_time"> 06:56 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/iraq-military-2-rockets-strike-inside-green-zone-525389">Iraq military: 2 rockets strike inside Green Zone</a> Politico: The area is home to the U.S, embassy 
  <p class="updated_time"> 02:00 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/us-haiti-intervention.html">As U.S. Navigates Crisis in Haiti, a Bloody History Looms Large</a> NYT: American policy decisions are vital to understanding Haiti’s political instability, and why it remains the poorest country in the Western Hemisphere. 
- <p class="updated_time"> 02:00 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/us/politics/afghan-war-refugees.html">At Every Step, Afghans Coming to America Encounter Stumbling Blocks</a> NYT: U.S. officials concede that the system was unprepared. 
+ <p class="updated_time"> 11:24 PM CT, Dec. 18 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/joe-biden-russia-ukraine-obama-2014/index.html">'A four-week window': Biden aims to learn from Obama's mistakes with quick moves to deter Putin from invading Ukraine</a> CNN: When the US intelligence community first picked up signs in the fall that Russia could be preparing a new attack on Ukraine, President Joe Biden directed his administration to act -- and fast. 
+ <p class="updated_time"> 09:54 PM CT, Dec. 18 </p> 
+ <a href="https://www.cnn.com/2021/12/18/politics/washington-state-senator/index.html">State senator dies a month after telling a local radio station he was sick with Covid-19 while in El Salvador</a> CNN: A Washington state senator has died a month after confirming with a local radio station he was in El Salvador and sick with Covid-19. 
  <p class="updated_time"> 05:49 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/biden-judges-reagan-record.html">Senate Confirms Biden’s 40th Judge, Tying a Reagan-Era Record</a> NYT: President Biden saw more of his judicial nominees confirmed in his first year than any president since Ronald Reagan. The Senate confirmed 18 federal judges in Donald Trump’s first year. 
  <p class="updated_time"> 05:48 PM CT, Dec. 18 </p> 
@@ -240,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/us/politics/gop-gerrymandering-black-democrats.html">Map by Map, G.O.P. Chips Away at Black Democrats’ Power</a> NYT: Black elected officials in several states, from Congress down to the counties, have been drawn out of their districts this year or face headwinds to hold onto their seats. 
  <p class="updated_time"> 09:57 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/18/its-just-completely-delusional-495520"> ‘It’s just completely delusional’</a> Politico Playbook: And the Senate adjourns for the year. 
- <p class="updated_time"> 09:53 AM CT, Dec. 18 </p> 
- <a href="https://www.cnn.com/2021/12/18/politics/kamala-harris-biden-administraton-delta-omicron-variant/index.html">Harris says Biden administration 'didn't see' Delta or Omicron coming</a> CNN: Vice President Kamala Harris said the Biden administration "didn't see," either Delta or Omicron coronavirus variants coming, appearing to reinforce the perception that the federal response was caught flat-footed by the more severe Delta variant that swept over the country in the summertime. 
  <p class="updated_time"> 09:11 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/cruz-vote-russian-pipeline-sanctions-schumer-525334">Cruz secures vote on Russian pipeline sanctions in deal with Schumer</a> Politico: Cruz agreed to lift his holds on 32 nominees in exchange for the Senate voting in early January on his legislation to sanction the pipeline. 
  <p class="updated_time"> 09:02 AM CT, Dec. 18 </p> 
@@ -250,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/us/politics/us-covid-tests-omicron.html">With Omicron, U.S. Testing Capacity Faces Intense Pressure</a> NYT: President Biden came into office vowing to make testing cheap and accessible, but matching supply with demand has been a persistent problem. 
  <p class="updated_time"> 08:43 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/17/business/osha-vaccine-mandate.html">Biden's Covid Vaccine Mandate Reinstated for Large Businesses</a> NYT: The decision, by a split three-judge panel, overturned a ruling that had blocked a Biden administration rule requiring companies with 100 or more employees to mandate vaccinations or testing for workers. 
- <p class="updated_time"> 08:35 AM CT, Dec. 18 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/appeals-court-vaccine-mandate-osha-large-employers-federal-contractors/index.html">Appeals court lets Biden administration enforce vaccine rules for large employers</a> CNN: The Biden administration scored a significant victory Friday in its court battles to enforce various federal vaccine mandates, with an appeals court ruling that the government can enforce a vaccine-or-testing rule for companies with more than 100 employees. 
  <p class="updated_time"> 07:52 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/stop-the-steal-founder-jan-6-committee-gop-lawmakers-525345">‘Stop the Steal’ founder told Jan. 6 committee about contacts with GOP lawmakers</a> Politico: The description of the testimony comes in a lawsuit Ali Alexander filed to block the committee from obtaining his phone records. 
  <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
@@ -272,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/us/politics/biden-coronavirus-omicron-winter.html">Biden Struggles to Beat Back a Resurgent Virus Once Again</a> NYT: A new variant and vaccine resistance have upended the president’s plans for a hopeful holiday season. 
  <p class="updated_time"> 08:22 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/appeals-court-lifts-stay-vaccine-or-test-525313">Appeals court lifts stay on administration's vaccine-or-test mandate for large businesses</a> Politico: Business groups quickly filed an appeal to the Supreme Court. 
- <p class="updated_time"> 05:29 PM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/trump-anti-semitic-comments/index.html">Trump uses anti-Semitic tropes to again criticize Jewish Americans</a> CNN: Former President Donald Trump, in a newly released interview, claimed that Jewish Americans "either don't like Israel or don't care about Israel," while also suggesting that evangelical Christians "love Israel more than the Jews in this country." 
  <p class="updated_time"> 05:28 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/january-6-committee-capitol-riot.html">Jan. 6 Committee May Add New Expertise for Investigation</a> NYT: As the panel continues to take testimony, it is looking to do more analysis of social media and possible foreign efforts to sow discord in the U.S. before the Capitol riot. 
  <p class="updated_time"> 05:17 PM CT, Dec. 17 </p> 
@@ -291,25 +295,17 @@ permalink: /projects/news/
  <p class="updated_time"> 03:33 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065311956/a-conversation-with-the-countrys-1st-somali-american-mayor">A conversation with the country's 1st Somali-American mayor</a> NPR: NPR's Ari Shapiro speaks with Deqa Dhalac, who recently became the first Somali-American mayor in the United States. 
  <p class="updated_time"> 03:29 PM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/rick-perry-jan-6-text-mark-meadows-nov-4/index.html">Jan 6 investigators believe Nov. 4 text pushing 'strategy' to undermine election came from Rick Perry  </a> CNN: Members of the House Select Committee investigating the January 6 attack on the US Capitol believe that former Texas Governor and Trump Energy Secretary Rick Perry was the author of a text message sent to then-White House chief of staff Mark Meadows the day after the 2020 election pushing an "AGRESSIVE (sic) STRATEGY" for three state legislatures to ignore the will of their voters and deliver their states' electors to Donald Trump, three sources familiar with the House Committee investigation tell CNN. 
- <p class="updated_time"> 03:29 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065304172/robert-palmer-capitol-riot-jan-6-sentence">Capitol rioter who attacked police is sentenced to more than 5 years in prison</a> NPR: The judge said she wanted to make clear with the sentence that "trying to stop the peaceful transition of power and assaulting law enforcement officers is going to be met with certain punishment." 
  <p class="updated_time"> 03:20 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065311977/biden-and-democrats-admit-they-wont-be-passing-build-back-better-before-christma">Biden and Democrats admit they won't be passing Build Back Better before Christmas</a> NPR: After a flurry of last-ditch meetings and negotiations, President Biden and Senate Democrats are admitting they don't have the votes to pass Biden's social and climate spending package by Christmas. 
  <p class="updated_time"> 03:20 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065311963/analyzing-the-biden-administrations-year-in-foreign-policy-toward-china-and-russ">Analyzing the Biden administration's year in foreign policy toward China and Russia</a> NPR: As the year comes to a close, here's where U.S. foreign policy toward Russia and China stands — and what we might expect in 2022. 
- <p class="updated_time"> 03:09 PM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/january-6-committee-alex-jones-deposition-postponed/index.html">House January 6 committee postpones deposition for conspiracy theorist Alex Jones</a> CNN: The House select committee investigating the January 6 riot has postponed its scheduled deposition of noted conspiracy theorist and right-wing internet personality Alex Jones, according to an aide for the panel. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
  <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
- <p class="updated_time"> 02:46 PM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/build-back-better-democrats-senate/index.html">Democrats hope to make progress on Build Back Better in new year as action stalls for now</a> CNN: With a number of sticking points still unresolved, Democrats are hoping for a breakthrough that will allow them to pass President Joe Biden's sweeping social safety net expansion in the new year. 
  <p class="updated_time"> 02:39 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/lithium-mining-energy-climate/index.html">A rush to mine lithium in Nevada is pitting climate advocates and environmental groups against each other</a> CNN: In an ancient and now extinct supervolcano sitting in northern Nevada lies a treasure that its seekers call "white gold." 
- <p class="updated_time"> 02:36 PM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/robert-scott-palmer-capitol/index.html">US Capitol rioter gets 5 years in jail after throwing fire extinguisher at police</a> CNN: A Florida man who enthusiastically attacked police at the US Capitol on January 6 with a fire extinguisher, a wooden plank and a pole was sentenced to more than five years in prison on Friday, the longest sentence for a Capitol rioter thus far. 
  <p class="updated_time"> 12:34 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/trump-israel-support-anti-semitic-525269">Trump invokes antisemitic tropes while discussing his support for Israel</a> Politico: “They’re Jewish people that run The New York Times,” the former president said, alleging that the paper "hates Israel." 
  <p class="updated_time"> 12:26 PM CT, Dec. 17 </p> 
@@ -338,14 +334,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/17/politics/omicron-biden-covid-politics/index.html">Omicron battle brings delicate questions for a weary nation</a> CNN: The Omicron winter is coming. 
  <p class="updated_time"> 04:31 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/gop-trump-oust-mcconnell-525207">GOP blows off Trump’s bid to oust McConnell</a> Politico: Just two Senate candidates — and no senators — have publicly called for replacing the Republican leader. 
- <p class="updated_time"> 04:07 AM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/senate-race-rankings-december/index.html">The 10 Senate seats most likely to flip in 2022</a> CNN: As the calendar turns to 2022, Senate races are about to kick into much higher gear, with ad spending increasing ahead of the first primaries in May and just a few more fundraising quarters for candidates to prove they're serious 
  <p class="updated_time"> 04:02 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/black-history-2021.html">The Biggest Black History Events in 2021</a> NYT: After the tumult and triumphs of 2020, here are the achievements that shaped the first year following the country’s racial reckoning. 
  <p class="updated_time"> 11:25 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/florida-parent-power-elections-moms-for-liberty/index.html">How two Florida moms spearheaded a parent movement aiming to impact the 2022 elections</a> CNN: Tucked away in the back of an office in a Florida strip mall is a tidy storage room filled with hundreds of navy blue t-shirts, hats, flags and even Christmas decor.   
- <p class="updated_time"> 10:56 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/senate-democrats-biden-agenda-2022/index.html">'A 50-50 Senate sucks': Dejected Democrats fret over agenda failure amid grim 2022 outlook </a> CNN: Anger is growing in Democratic ranks over the failure to get President Joe Biden's sweeping agenda through this year despite unified control of Congress, with their party already bracing for what could be a brutal Election Day in next November's midterms. 
  <p class="updated_time"> 10:53 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-immigration-build-back-better.html">Biden Says Build Back Better Bill Will Take More Time</a> NYT: A top Senate official ruled that a measure to grant legal status to millions of undocumented immigrants must come out of the plan, as President Biden said a final deal would take more time. 
  <p class="updated_time"> 08:13 PM CT, Dec. 16 </p> 
@@ -384,6 +376,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/crackdown-on-chinas-treatment-of-muslim-minority-headed-to-bidens-desk-525094">Crackdown on China's treatment of Muslim minority headed to Biden's desk</a> Politico: The legislation, which faced a bumpy road to passage, effectively bans all imports from China’s Xinjiang region. 
  <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">Senate that ‘sucks’ gets a dose of reality from Biden</a> Politico: Democrats wanted to hear from the president on how to move forward. He acknowledged on Thursday that his domestic spending vision has to wait. 
+ <p class="updated_time"> 12:20 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/congressional-gold-medal-us-troops-kabul-attack/index.html">Biden signs bill to award Congressional Gold Medal to US service members killed in Kabul airport bombing</a> CNN: President Joe Biden on Thursday signed a bill that posthumously awards a Congressional Gold Medal to the 13 US service members killed in a terrorist attack outside Kabul's airport in August. 
+ <p class="updated_time"> 12:16 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/biden-signs-debt-limit-increase/index.html">Biden signs debt limit increase</a> CNN: President Joe Biden on Thursday signed the bill raising the debt limit ceiling that passed Congress earlier this week, according to a press release from the White House. 
+ <p class="updated_time"> 09:32 AM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/white-house-lead-pipe-removal-effort/index.html">Harris announces administration's new lead pipe and paint removal effort</a> CNN: Vice President Kamala Harris plans to announce a new administration push to eliminate lead from water pipes and homes during remarks Thursday in Washington, according to senior administration officials. 
  <p class="updated_time"> 09:31 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/jill-biden-showing-up/index.html">Jill Biden says administration will keep 'showing up' to help communities heal from tragedies</a> CNN: First lady Jill Biden wants the American people to know that the first family is there for them. 
  <p class="updated_time"> 07:22 AM CT, Dec. 16 </p> 
@@ -410,10 +408,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/house-islam-omar-perry-boebert-524536">Amid caustic rhetoric, House votes to combat Islamophobia</a> Politico: Rep. Scott Perry accused Rep. Ilhan Omar of connections to terrorism. 
  <p class="updated_time"> 06:02 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/democrats-cruz-hawley-biden-ambassadors-524220">Dems launch talks to break Cruz-Hawley blockade of Biden ambassadors</a> Politico: But while the price for one GOP 2024 contender's help is clear, another is less open about what it'll take to ease his holds. 
- <p class="updated_time"> 05:45 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/trump-tax-returns-legal-524235">Judge scraps Trump lawsuit to shield tax returns from Congress</a> Politico: But the judge stayed the impact of his ruling for 14 days. 
  <p class="updated_time"> 04:32 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megabill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
+ <p class="updated_time"> 04:29 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/white-house-scaled-back-holiday-parties/index.html">White House scales back holiday parties due to Covid concerns</a> CNN: The White House will dramatically scale back holiday party festivities this year, due to ongoing Covid-19 concerns, opting instead for smaller open house-style events. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
