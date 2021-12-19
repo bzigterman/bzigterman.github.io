@@ -190,8 +190,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:58 PM CT, Dec. 19 </p> 
+ <a href="https://www.npr.org/2021/12/19/1065676445/chileans-choose-next-president-in-divisive-election">Chileans choose next president in divisive election</a> NPR: The runoff in Chile's presidential election pits a far-right candidate against a young far-left candidate. 
+ <p class="updated_time"> 03:58 PM CT, Dec. 19 </p> 
+ <a href="https://www.npr.org/2021/12/19/1065676438/joe-manchin-may-have-just-killed-bidens-build-back-better-plan">Joe Manchin may have just killed Biden's Build Back Better plan</a> NPR: Democratic West Virginia Senator Joe Manchin went on Fox News this morning and delivered what sounded like a fatal blow to Joe Biden's Build Back Better agenda. 
  <p class="updated_time"> 03:52 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/manchin-biden-agenda-competence-campaign-promise-525623">Biden promised competence and order. Chaos and uncertainty are winning.</a> Politico: The president has had successes. But a year in, his time in office has been defined by the disruptions, including on Sunday. 
+ <p class="updated_time"> 03:48 PM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">Sen. Warren tests positive for Covid-19</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
  <p class="updated_time"> 03:05 PM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065665886/manchin-says-build-back-betters-climate-measures-are-risky-thats-not-true">Manchin says Build Back Better's climate measures are risky. That's not true</a> NPR: West Virginia Sen. Joe Manchin had spent months watering down Biden's ambitious climate plans. His final objections to the bill's climate measures are misleading. 
  <p class="updated_time"> 02:32 PM CT, Dec. 19 </p> 
@@ -314,10 +320,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/us/politics/robert-palmer-capitol-riot-sentence.html">Man Gets 5 Years on Capitol Riot Charges, Longest Sentence So Far</a> NYT: Robert Palmer hurled a fire extinguisher at police officers during some of the fiercest fighting on Jan. 6. 
  <p class="updated_time"> 03:49 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065312060/white-house-issues-a-warning-to-unvaccinated-americans-as-concerns-about-omicron">White House issues a warning to unvaccinated Americans as concerns about omicron grow</a> NPR: The White House continues the same COVID-19 messages and strategies even as models suggest an omicron surge is coming. 
- <p class="updated_time"> 03:49 PM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065312046/possible-charges-are-the-latest-chapter-in-mark-meadows-career-defined-by-confli">Possible charges are the latest chapter in Mark Meadows' career defined by conflict</a> NPR: Former chief of staff Mark Meadows was at the center of power under Trump after a decade of waging conflict in the House. He now faces possible prosecution for contempt of Congress. 
- <p class="updated_time"> 03:33 PM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065311956/a-conversation-with-the-countrys-1st-somali-american-mayor">A conversation with the country's 1st Somali-American mayor</a> NPR: NPR's Ari Shapiro speaks with Deqa Dhalac, who recently became the first Somali-American mayor in the United States. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
  <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
@@ -384,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/crackdown-on-chinas-treatment-of-muslim-minority-headed-to-bidens-desk-525094">Crackdown on China's treatment of Muslim minority headed to Biden's desk</a> Politico: The legislation, which faced a bumpy road to passage, effectively bans all imports from China’s Xinjiang region. 
  <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">Senate that ‘sucks’ gets a dose of reality from Biden</a> Politico: Democrats wanted to hear from the president on how to move forward. He acknowledged on Thursday that his domestic spending vision has to wait. 
- <p class="updated_time"> 12:20 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/congressional-gold-medal-us-troops-kabul-attack/index.html">Biden signs bill to award Congressional Gold Medal to US service members killed in Kabul airport bombing</a> CNN: President Joe Biden on Thursday signed a bill that posthumously awards a Congressional Gold Medal to the 13 US service members killed in a terrorist attack outside Kabul's airport in August. 
  <p class="updated_time"> 09:31 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/jill-biden-showing-up/index.html">Jill Biden says administration will keep 'showing up' to help communities heal from tragedies</a> CNN: First lady Jill Biden wants the American people to know that the first family is there for them. 
  <p class="updated_time"> 07:22 AM CT, Dec. 16 </p> 
