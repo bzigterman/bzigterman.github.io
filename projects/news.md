@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:30 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: LegCo vote after electoral overhaul sees record low turnout</a> BBC: Only 30.2% took part in the vote - the lowest turnout in Hong Kong's election history. 
  <p class="updated_time"> 03:05 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59720745?at_medium=RSS&at_campaign=KARANGA">Senator Joe Manchin threatens to sink signature Biden bill</a> BBC: Democrat Joe Manchin throws the Build Back Better Act into jeopardy, saying he will not vote for it. 
  <p class="updated_time"> 02:53 PM CT, Dec. 19 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59722285?at_medium=RSS&at_campaign=KARANGA">Il Divo singer Carlos Marin dies aged 53</a> BBC: The Spanish singer is remembered by other members of the group for his unique voice and spirit. 
  <p class="updated_time"> 02:05 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/europe/uk-lockdown-omicron-covid-boris-johnson.html">U.K. Weighing Lockdown Amid an Omicron Wave and Political Turmoil</a> NYT: Britain’s health secretary said on Sunday he wouldn’t rule out more restrictions before Christmas, but the prime minister would most likely face sharp pushback from his own party. 
- <p class="updated_time"> 01:59 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: LegCo vote after electoral overhaul sees record low turnout</a> BBC: Only 30.2% took part in the vote - the lowest turnout in Hong Kong's election history. 
  <p class="updated_time"> 12:51 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59714272?at_medium=RSS&at_campaign=KARANGA">Covid: Christmas travel will fuel spread of Omicron, US expert warns</a> BBC: The US infectious disease expert says the Covid-19 variant will spread - even among the vaccinated. 
  <p class="updated_time"> 12:37 PM CT, Dec. 19 </p> 
@@ -193,7 +193,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:52 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/manchin-biden-agenda-competence-campaign-promise-525623">Manchin didn’t just shiv Biden’s agenda, he whacked his central campaign promise too</a> Politico: The president has had successes. But a year in, his time in office has been defined by the disruptions, including on Sunday. 
  <p class="updated_time"> 03:05 PM CT, Dec. 19 </p> 
- <a href="https://www.npr.org/2021/12/19/1065665886/manchin-says-build-back-betters-climate-measures-are-risky-thats-not-true">Manchin says Build Back Better's climate measures are risky. That's not true</a> NPR: West Virginia Senator Joe Manchin had spent months watering down Biden's ambitious climate plans. His final objections to the bill's climate measures are misleading. 
+ <a href="https://www.npr.org/2021/12/19/1065665886/manchin-says-build-back-betters-climate-measures-are-risky-thats-not-true">Manchin says Build Back Better's climate measures are risky. That's not true</a> NPR: West Virginia Sen. Joe Manchin had spent months watering down Biden's ambitious climate plans. His final objections to the bill's climate measures are misleading. 
  <p class="updated_time"> 02:32 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Manchin Pulls Support From Biden’s Social Policy Bill, Imperiling Its Passage</a> NYT: “I cannot vote to continue with this piece of legislation,” the centrist West Virginia senator said on “Fox News Sunday,” citing concerns about adding to the national debt. 
  <p class="updated_time"> 02:29 PM CT, Dec. 19 </p> 
