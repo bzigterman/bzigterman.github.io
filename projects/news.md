@@ -10,7 +10,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:17 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59715937?at_medium=RSS&at_campaign=KARANGA">Man beaten to death for 'sacrilege' attempt at Sikh Golden Temple in India</a> BBC: Eyewitnesses allege the man had tried to commit a sacrilegious act at the Golden Temple in India. 
  <p class="updated_time"> 05:15 AM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59717345?at_medium=RSS&at_campaign=KARANGA">West Bank ambush suspects captured, Israel says</a> BBC: The Israeli army says it has caught men suspected of a car attack in the occupied West Bank. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59717345?at_medium=RSS&at_campaign=KARANGA">West Bank ambush suspects captured, Israel says</a> BBC: The army says it has caught Palestinians suspected of a deadly attack in the occupied West Bank. 
  <p class="updated_time"> 04:46 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: Nearly 100 people are now believed to have been killed by the storm, and rescuers are still trying to reach some devastated areas. 
  <p class="updated_time"> 04:10 AM CT, Dec. 19 </p> 
@@ -400,8 +400,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/trump-tax-returns-legal-524235">Judge scraps Trump lawsuit to shield tax returns from Congress</a> Politico: But the judge stayed the impact of his ruling for 14 days. 
  <p class="updated_time"> 04:32 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megabill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
- <p class="updated_time"> 02:17 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/qanon-follower-sentence-pelosi-death-threats-524209">QAnon follower gets 28-month sentence for death threats to Pelosi</a> Politico: Judge says continuing election-fraud rhetoric from Republican politicians makes defendant an ongoing threat. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
