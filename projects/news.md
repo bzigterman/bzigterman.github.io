@@ -51,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/europe/france-valerie-pecresse-republicans.html">In a France Fearful of Immigrants, Another Candidate Tacks Hard Right</a> NYT: Valérie Pécresse, the center-right candidate in April’s presidential election, has adopted the vocabulary of the far right when discussing immigration. 
  <p class="updated_time"> 10:07 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065135970/on-mexicos-southern-border-the-latest-migration-surge-is-haitian">On Mexico's southern border, the latest migration surge is Haitian</a> NPR: Thousands of Haitian migrants who had lived in South America for years are crossing into Mexico, overwhelming that country's capacity to process them. Many say their ultimate destination is the U.S. 
- <p class="updated_time"> 10:04 AM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59712276?at_medium=RSS&at_campaign=KARANGA">Explosion at Pakistan bank kills at least 14</a> BBC: Officials say the blast in the southern city of Karachi may have been caused by a gas leak. 
  <p class="updated_time"> 09:47 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/afghanistan-marja-economy-taliban.html">Once a Symbol of U.S. Strength, an Afghan District Now Faces Dire Times</a> NYT: At the war’s end, residents of Marja are growing increasingly desperate for any kind of help, a frustration that has turned to anger that the international community has seemingly abandoned them. 
  <p class="updated_time"> 09:02 AM CT, Dec. 18 </p> 
@@ -186,6 +184,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/us/politics/us-haiti-intervention.html">As U.S. Navigates Crisis in Haiti, a Bloody History Looms Large</a> NYT: American policy decisions are vital to understanding Haiti’s political instability, and why it remains the poorest country in the Western Hemisphere. 
+ <p class="updated_time"> 02:00 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/us/politics/afghan-war-refugees.html">At Every Step, Afghans Coming to America Encounter Stumbling Blocks</a> NYT: U.S. officials concede that the system was unprepared. 
  <p class="updated_time"> 05:49 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/biden-judges-reagan-record.html">Senate Confirms Biden’s 40th Judge, Tying a Reagan-Era Record</a> NYT: President Biden saw more of his judicial nominees confirmed in his first year than any president since Ronald Reagan. The Senate confirmed 18 federal judges in Donald Trump’s first year. 
  <p class="updated_time"> 05:48 PM CT, Dec. 18 </p> 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/16/politics/florida-parent-power-elections-moms-for-liberty/index.html">How two Florida moms spearheaded a parent movement aiming to impact the 2022 elections</a> CNN: Tucked away in the back of an office in a Florida strip mall is a tidy storage room filled with hundreds of navy blue t-shirts, hats, flags and even Christmas decor.   
  <p class="updated_time"> 10:56 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/senate-democrats-biden-agenda-2022/index.html">'A 50-50 Senate sucks': Dejected Democrats fret over agenda failure amid grim 2022 outlook </a> CNN: Anger is growing in Democratic ranks over the failure to get President Joe Biden's sweeping agenda through this year despite unified control of Congress, with their party already bracing for what could be a brutal Election Day in next November's midterms. 
- <p class="updated_time"> 10:56 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/phil-waldron-jan-6.html">Jan. 6 Panel Subpoenas Retired Colonel Who Shared Plan to Overturn Election</a> NYT: Phil Waldron has been under scrutiny since a 38-page PowerPoint he circulated was turned over to the panel by former President Donald J. Trump’s last chief of staff. 
  <p class="updated_time"> 10:53 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-immigration-build-back-better.html">Biden Says Build Back Better Bill Will Take More Time</a> NYT: A top Senate official ruled that a measure to grant legal status to millions of undocumented immigrants must come out of the plan, as President Biden said a final deal would take more time. 
  <p class="updated_time"> 08:13 PM CT, Dec. 16 </p> 
@@ -354,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/16/politics/joe-biden-warning-winter/index.html">Biden warns of winter of 'severe illness and death' for unvaccinated due to Omicron </a> CNN: President Joe Biden said on Thursday warned people who are not vaccinated against Covid-19 are looking at a very bleak and dangerous winter if they do not get their shots soon. 
  <p class="updated_time"> 05:03 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden awards Medal of Honor to 3 soldiers, including the first African American since the Vietnam War</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
- <p class="updated_time"> 04:53 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/us-china-biotech-muslim-minorities.html">U.S. Cracks Down on Firms Said to Aid China’s Repression of Minorities</a> NYT: The Commerce and Treasury Departments put new restrictions on an array of companies and institutions that they said were misusing biotechnology. 
  <p class="updated_time"> 04:34 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/cdc-covid-vaccine-johnson-525153">CDC recommends mRNA Covid vaccines over J&J shot amid blood clot risks</a> Politico: CDC Director Rochelle Walensky's decision came hours after the agency’s vaccine advisory committee voted unanimously to update the recommendation. 
  <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
