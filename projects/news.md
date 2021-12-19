@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
+ <a href="https://www.npr.org/2021/12/19/1065626402/chileans-vote-in-runoff-election-for-new-president">Chileans vote in runoff election for new president</a> NPR: Chileans choose a president today in a runoff election. People in a small coastal fishing village are unhappy the choice is between one candidate on the far right and another on the far left. 
+ <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
+ <a href="https://www.npr.org/2021/12/19/1065626388/revival-of-the-iran-nuclear-deal-appears-far-off">Revival of the Iran nuclear deal appears far-off</a> NPR: Scott Detrow gets an update on the ongoing Iran-U.S. nuclear deal talks in Vienna from journalist Negar Mortazavi. 
  <p class="updated_time"> 06:59 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">Hong Kong Elections: How 'Patriots Only' Bolsters Beijing's Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials have urged the public to vote, but turnout Sunday was expected to be low. 
  <p class="updated_time"> 06:53 AM CT, Dec. 19 </p> 
@@ -133,10 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/17/1065246985/brazil-wildfires-17-million-animals-killed">Nearly 17 million animals died in wildfires in Brazil's wetlands last year</a> NPR: The estimate comes from scientists who examined the number of carcasses they found up to 48 hours after a fire event. The rate of climate change makes such wildfires inevitable, they say. 
  <p class="updated_time"> 04:06 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065312088/pinatas-a-staple-in-christmas-traditions">Piñatas: A staple in Christmas traditions</a> NPR: Piñatas are a common element in parties across different countries and especially in Mexico around Christmas time. The story of their origin combines cultures, traditions and religions. 
- <p class="updated_time"> 03:49 PM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065312053/typhoon-has-killed-at-least-12-and-displaced-330-000-people-in-the-philippines">Typhoon has killed at least 12 and displaced 330,000 people in the Philippines</a> NPR: At least 12 people are dead and 300,000 were forced to evacuate because of Super Typhoon Rai, the most powerful typhoon to hit the Philippines this year. 
- <p class="updated_time"> 03:33 PM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065312039/hell-on-earth-afghans-have-to-choose-between-feeding-or-heating-according-to-wfp">'Hell on Earth': Afghans have to choose between feeding or heating, according to WFP</a> NPR: NPR's Mary Louise Kelly speaks with David Beasley, executive director of the World Food Program (WFP), about hunger in Afghanistan. 
  <p class="updated_time"> 03:23 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Recommends Pfizer or Moderna Vaccines Over J.&J</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
  <p class="updated_time"> 01:19 PM CT, Dec. 17 </p> 
@@ -195,7 +195,9 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 07:24 AM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/news/2021/12/19/islam-afghanistan-desperately-poor-525420">Islamic world unites to aid desperately poor Afghanistan</a> Politico: The hastily called meeting of the Organization of Islamic Cooperation in Islamabad brought together dozens of foreign ministers. 
+ <a href="https://www.politico.com/news/2021/12/19/islam-afghanistan-desperately-poor-525420">Islamic world unites to aid desperately poor Afghanistan</a> Politico: The hastily called meeting of the Organization of Islamic Cooperation in Pakistan brought together dozens of foreign ministers. 
+ <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
+ <a href="https://www.npr.org/2021/12/19/1065626381/covid-19-resurgence-trips-up-bidens-agenda">COVID-19 resurgence trips up Biden's agenda</a> NPR: President Biden, who campaigned on taming the pandemic, is struggling to deliver as COVID-19 mutates and parts of the American public refuse to cooperate. 
  <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/black-lawmakers-diversity-lobbying-firms-525362">Black lawmakers threaten to cut off K St unless it diversifies</a> Politico: Years of frustration with the racial composition of the political influence industry have begun to boil over. 
  <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
@@ -306,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/17/politics/lithium-mining-energy-climate/index.html">A rush to mine lithium in Nevada is pitting climate advocates and environmental groups against each other</a> CNN: In an ancient and now extinct supervolcano sitting in northern Nevada lies a treasure that its seekers call "white gold." 
  <p class="updated_time"> 02:36 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/robert-scott-palmer-capitol/index.html">US Capitol rioter gets 5 years in jail after throwing fire extinguisher at police</a> CNN: A Florida man who enthusiastically attacked police at the US Capitol on January 6 with a fire extinguisher, a wooden plank and a pole was sentenced to more than five years in prison on Friday, the longest sentence for a Capitol rioter thus far. 
- <p class="updated_time"> 12:45 PM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065136822/biden-clyburn-south-carolina-state-graduation">Biden joins an HBCU in celebrating its graduates — including an old congressional ally</a> NPR: In the commencement speech at South Carolina State University, President Biden credited Rep. Jim Clyburn's public endorsement in 2020 as a pivotal moment in reviving his sluggish campaign. 
  <p class="updated_time"> 12:34 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/trump-israel-support-anti-semitic-525269">Trump invokes antisemitic tropes while discussing his support for Israel</a> Politico: “They’re Jewish people that run The New York Times,” the former president said, alleging that the paper "hates Israel." 
  <p class="updated_time"> 12:26 PM CT, Dec. 17 </p> 
