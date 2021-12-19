@@ -16,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Voting for President, Chile Faces Stark Choice, With Constitution at Stake</a> NYT: The presidential race is being contested by a millennial leftist who would be the nation’s youngest leader and a far-right politician who has promised to restore order and security. 
  <p class="updated_time"> 02:35 AM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll passes 90</a> BBC: More than 90 people are thought to have died, as the Red Cross issues an emergency appeal for aid. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll passes 100</a> BBC: More than 100 people are thought to have died, as the Red Cross issues an emergency appeal for aid. 
  <p class="updated_time"> 01:07 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/snl-no-live-audience-covid.html">‘S.N.L.’ Cancels Live Audience Over Covid Concerns</a> NYT: But the show did go on, with sketches that were taped earlier in the week and repeats from previous episodes. 
  <p class="updated_time"> 11:22 PM CT, Dec. 18 </p> 
@@ -40,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:08 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59699350?at_medium=RSS&at_campaign=KARANGA">Wagner Group: Why the EU is alarmed by Russian mercenaries in Central Africa</a> BBC: The shadowy Russian mercenary group, allegedly linked to the Kremlin, has been accused of rights abuses. 
  <p class="updated_time"> 06:05 PM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59689731?at_medium=RSS&at_campaign=KARANGA">Chileans divided ahead of presidential run-off</a> BBC: The election, set to be the most polarised in decades, pits a far-right candidate against a leftist. 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59689731?at_medium=RSS&at_campaign=KARANGA">Chile's dark past hangs over presidential run-off</a> BBC: The election, set to be the most polarised in decades, pits a far-right candidate against a leftist. 
  <p class="updated_time"> 06:05 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59632733?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Why the Legco elections are so controversial</a> BBC: Sweeping changes put in place by China altered the way the city chooses its lawmakers this year. 
  <p class="updated_time"> 06:04 PM CT, Dec. 18 </p> 
