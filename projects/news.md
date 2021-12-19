@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:57 AM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59719765?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Thousands protest on uprising anniversary</a> BBC: Demonstrations around the country demand an end to military rule, following a coup in October. 
  <p class="updated_time"> 09:50 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/southeast-asian-tourism-covid.html">Southeast Asia's Tourist Spots Are Open, but Visitors Are Scarce</a> NYT: Hopes for a revival of international tourism have fizzled amid restrictions, paperwork, a lack of flights and uncertainty around the Omicron variant. 
  <p class="updated_time"> 09:48 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/health/omicron-vaccines-efficacy.html">Most of the World’s Vaccines Likely Won’t Prevent Infection From Omicron</a> NYT: They do seem to offer significant protection against severe illness, but the consequences of rapidly spreading infection worry many public health experts. 
  <p class="updated_time"> 09:32 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/japan-fire-osaka-arson.html">Japan Fire: Osaka Police Identify a Suspect, 61</a> NYT: A 61-year-old man, hospitalized after the fire at an Osaka psychiatric clinic, is being investigated on suspicion of arson and murder, the police said. 
- <p class="updated_time"> 09:28 AM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59719765?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Thousands protest on uprising anniversary</a> BBC: Demonstrations around the country demand an end to military rule, following a coup in October. 
  <p class="updated_time"> 09:09 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Voting for President, Chile Faces Stark Choice, With Constitution at Stake</a> NYT: The presidential race is being contested by a millennial leftist who would be the nation’s youngest leader and a far-right politician who has promised to restore order and security. 
  <p class="updated_time"> 09:03 AM CT, Dec. 19 </p> 
@@ -171,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html">Hu Xijin, Chief of China's Global Times, Will Retire</a> NYT: Mr. Hu, editor of the Communist Party tabloid Global Times, set the tone for a new generation of Chinese pundits with his flair for verbal combat. 
  <p class="updated_time"> 04:44 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
- <p class="updated_time"> 03:56 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
  <p class="updated_time"> 02:16 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/covid-pandemic-story.html">In 50 Words, Tell Us Your Best Pandemic Story</a> NYT: We want to hear about your Covid memories. 
  <p class="updated_time"> 11:33 AM CT, Dec. 16 </p> 
@@ -196,6 +194,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/johnny-isakson-dies-georgia-senator-525501">Former Sen. Johnny Isakson dies at 76</a> Politico: The Georgia Republican was a millionaire businessman who was known as a consensus builder. 
  <p class="updated_time"> 10:33 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/fauci-safe-travel-covid-prudent-525485">Fauci: Safe holiday travel is possible if people are ‘prudent’</a> Politico: He reiterated that those who are vaccinated and boosted are apt to be safest. 
+ <p class="updated_time"> 10:06 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Joe Manchin Says He Can't Support Build Back Better Act</a> NYT: “I cannot vote to continue with this piece of legislation,” Mr. Manchin said on “Fox News Sunday,” citing concerns about adding to the national debt. 
  <p class="updated_time"> 09:45 AM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-biden-russia-ukraine-obama-2014/index.html">'A four-week window': Biden aims to learn from Obama's mistakes with quick moves to deter Putin from invading Ukraine</a> CNN: When the US intelligence community first picked up signs in the fall that Russia could be preparing a new attack on Ukraine, President Joe Biden directed his administration to act -- and fast. 
  <p class="updated_time"> 09:43 AM CT, Dec. 19 </p> 
@@ -203,11 +203,9 @@ permalink: /projects/news/
  <p class="updated_time"> 09:21 AM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">Manchin says he won't vote for Build Back Better Act</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 09:17 AM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">Manchin says he won’t support Biden’s social spending bill</a> Politico: “I can’t get there,” he said in an interview on "Fox News Sunday." 
+ <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">Manchin crushes Biden’s megabill</a> Politico: “This is a no on this piece of legislation. I have tried everything I know to do,” he said in an interview on "Fox News Sunday." 
  <p class="updated_time"> 09:15 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/us-haiti-intervention.html">As U.S. Navigates Crisis in Haiti, a Bloody History Looms Large</a> NYT: American policy decisions are vital to understanding Haiti’s political instability, and why it remains the poorest country in the Western Hemisphere. 
- <p class="updated_time"> 09:11 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Joe Manchin Says He Can't Support Build Back Better Act</a> NYT: “I cannot vote to continue with this piece of legislation,” Mr. Manchin said on ‘Fox News Sunday,’ citing concerns about adding to the national debt. 
  <p class="updated_time"> 08:51 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065636709/joe-manchin-says-he-cannot-support-bidens-build-back-better-plan">Joe Manchin says he is unable to support President Biden's Build Back Better plan </a> NPR: The announcement by the West Virginia Democrat dooms the $2 trillion social spending and climate legislation, which needs support from every Senate Democrat in order to pass through the 50-50 chamber. 
  <p class="updated_time"> 08:20 AM CT, Dec. 19 </p> 
