@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:32 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/asia/japan-fire-osaka-arson.html">Japan Fire: Osaka Police Identify a Suspect, 61</a> NYT: A 61-year-old man, hospitalized after the fire at an Osaka psychiatric clinic, is being investigated on suspicion of arson and murder, the police said. 
+ <p class="updated_time"> 09:28 AM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59719765?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Thousands protest on uprising anniversary</a> BBC: Demonstrations around the country demand an end to military rule, following a coup in October. 
  <p class="updated_time"> 09:09 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Voting for President, Chile Faces Stark Choice, With Constitution at Stake</a> NYT: The presidential race is being contested by a millennial leftist who would be the nation’s youngest leader and a far-right politician who has promised to restore order and security. 
  <p class="updated_time"> 09:03 AM CT, Dec. 19 </p> 
@@ -57,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/europe/brexit-david-frost-resigns.html">David Frost, Brexit Negotiator, Resigns in Another Blow to Boris Johnson</a> NYT: The move puts new pressure on the prime minister, whose leadership has been called into question by a series of setbacks, including a new wave of Covid infections. 
  <p class="updated_time"> 09:34 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
- <p class="updated_time"> 08:28 PM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/asia/japan-fire-osaka-arson.html">Japan Fire: Osaka Police Identify a Suspect, 61</a> NYT: A 61-year-old man, hospitalized after the fire at an Osaka psychiatric clinic, is being investigated on suspicion of arson and murder, the police said. 
  <p class="updated_time"> 07:36 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59715820?at_medium=RSS&at_campaign=KARANGA">Covid: Germany tightens restrictions on UK travellers</a> BBC: Germany follows France in banning British tourists and business travellers over Omicron concerns. 
  <p class="updated_time"> 06:29 PM CT, Dec. 18 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/middleeast/baghdad-book-fair-iraq.html">Reveling in the Joys of Books, and Reading, at a Baghdad Book Fair</a> NYT: Iraq is home to literary traditions ancient and modern, and to legions of avid readers who find a new book more meaningful to them than a new government. 
  <p class="updated_time"> 11:57 AM CT, Dec. 18 </p> 
  <a href="https://www.wsj.com/articles/irans-top-diplomat-in-yemen-leaves-the-country-11639868219">Iran's Top Diplomat in Yemen Leaves the Country</a> WSJ: Hassan Irloo flew out of the country in an agreement between Houthi militants controlling the capital and Saudi Arabia, according to regional officials. 
- <p class="updated_time"> 11:28 AM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-kent-59710100?at_medium=RSS&at_campaign=KARANGA">Migrant crossings: More than 900 cross Channel in two days</a> BBC: Nearly 28,000 people have now crossed from France to England in small boats this year. 
  <p class="updated_time"> 11:00 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/europe/france-valerie-pecresse-republicans.html">In a France Fearful of Immigrants, Another Candidate Tacks Hard Right</a> NYT: Valérie Pécresse, the center-right candidate in April’s presidential election, has adopted the vocabulary of the far right when discussing immigration. 
  <p class="updated_time"> 10:07 AM CT, Dec. 18 </p> 
@@ -192,12 +192,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:33 AM CT, Dec. 19 </p> 
+ <a href="https://www.politico.com/news/2021/12/19/fauci-safe-travel-covid-prudent-525485">Fauci: Safe holiday travel is possible if people are ‘prudent’</a> Politico: He reiterated that those who are vaccinated and boosted are apt to be safest. 
+ <p class="updated_time"> 09:21 AM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">Manchin says he won't vote for Build Back Better Act</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 09:17 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">Manchin says he won’t support Biden’s social spending bill</a> Politico: “I can’t get there,” he said in an interview on "Fox News Sunday." 
  <p class="updated_time"> 09:15 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/us-haiti-intervention.html">As U.S. Navigates Crisis in Haiti, a Bloody History Looms Large</a> NYT: American policy decisions are vital to understanding Haiti’s political instability, and why it remains the poorest country in the Western Hemisphere. 
- <p class="updated_time"> 09:14 AM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">Manchin says he won't vote for Build Back Better Act</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 09:11 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Joe Manchin Says He Can't Support Build Back Better Act</a> NYT: “I cannot vote to continue with this piece of legislation,” Mr. Manchin said on ‘Fox News Sunday,’ citing concerns about adding to the national debt. 
  <p class="updated_time"> 08:51 AM CT, Dec. 19 </p> 
