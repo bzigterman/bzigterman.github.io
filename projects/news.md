@@ -190,18 +190,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:20 AM CT, Dec. 19 </p> 
+ <a href="https://www.politico.com/news/2021/12/19/fauci-hospitals-schools-covid-525510">Fauci worried about increased hospitalizations but hopeful about schools</a> Politico: “I don’t foresee the kind of lockdowns that we’ve seen before,” he also said. 
+ <p class="updated_time"> 10:44 AM CT, Dec. 19 </p> 
+ <a href="https://www.npr.org/2021/12/19/1065645938/johnny-isakson-former-georgia-senator-dies-at-76">Johnny Isakson, former GOP senator known for building consensus, dies at age 76</a> NPR: The former Georgia lawmaker rose from the ranks of the state Legislature to become a U.S. senator known as an effective, behind-the-scenes force for compromise. 
  <p class="updated_time"> 10:44 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/johnny-isakson-dies-georgia-senator-525501">Former Sen. Johnny Isakson dies at 76</a> Politico: The Georgia Republican was a millionaire businessman who was known as a consensus builder. 
  <p class="updated_time"> 10:33 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/fauci-safe-travel-covid-prudent-525485">Fauci: Safe holiday travel is possible if people are ‘prudent’</a> Politico: He reiterated that those who are vaccinated and boosted are apt to be safest. 
- <p class="updated_time"> 10:06 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Joe Manchin Says He Can't Support Build Back Better Act</a> NYT: “I cannot vote to continue with this piece of legislation,” Mr. Manchin said on “Fox News Sunday,” citing concerns about adding to the national debt. 
+ <p class="updated_time"> 10:14 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Manchin Pulls Support From Biden’s Social Policy Bill, Imperiling Its Passage</a> NYT: “I cannot vote to continue with this piece of legislation,” Mr. Manchin said on “Fox News Sunday,” citing concerns about adding to the national debt. 
+ <p class="updated_time"> 10:11 AM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">Manchin says he won't vote for Build Back Better Act</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 09:45 AM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-biden-russia-ukraine-obama-2014/index.html">'A four-week window': Biden aims to learn from Obama's mistakes with quick moves to deter Putin from invading Ukraine</a> CNN: When the US intelligence community first picked up signs in the fall that Russia could be preparing a new attack on Ukraine, President Joe Biden directed his administration to act -- and fast. 
  <p class="updated_time"> 09:43 AM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/18/politics/washington-state-senator/index.html">State senator dies a month after telling a local radio station he was sick with Covid-19 while in El Salvador</a> CNN: A Washington state senator has died a month after confirming with a local radio station he was in El Salvador and sick with Covid-19. 
- <p class="updated_time"> 09:21 AM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">Manchin says he won't vote for Build Back Better Act</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 09:17 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">Manchin crushes Biden’s megabill</a> Politico: “This is a no on this piece of legislation. I have tried everything I know to do,” he said in an interview on "Fox News Sunday." 
  <p class="updated_time"> 09:15 AM CT, Dec. 19 </p> 
@@ -300,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/17/1065311956/a-conversation-with-the-countrys-1st-somali-american-mayor">A conversation with the country's 1st Somali-American mayor</a> NPR: NPR's Ari Shapiro speaks with Deqa Dhalac, who recently became the first Somali-American mayor in the United States. 
  <p class="updated_time"> 03:29 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065304172/robert-palmer-capitol-riot-jan-6-sentence">Capitol rioter who attacked police is sentenced to more than 5 years in prison</a> NPR: The judge said she wanted to make clear with the sentence that "trying to stop the peaceful transition of power and assaulting law enforcement officers is going to be met with certain punishment." 
- <p class="updated_time"> 03:20 PM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065311977/biden-and-democrats-admit-they-wont-be-passing-build-back-better-before-christma">Biden and Democrats admit they won't be passing Build Back Better before Christmas</a> NPR: After a flurry of last-ditch meetings and negotiations, President Biden and Senate Democrats are admitting they don't have the votes to pass Biden's social and climate spending package by Christmas. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
  <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
@@ -342,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-immigration-build-back-better.html">Biden Says Build Back Better Bill Will Take More Time</a> NYT: A top Senate official ruled that a measure to grant legal status to millions of undocumented immigrants must come out of the plan, as President Biden said a final deal would take more time. 
  <p class="updated_time"> 08:13 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/rnc-trump-investigations.html">R.N.C. Is Said to Agree to Pay Up to $1.6 Million of Trump’s Personal Legal Bills</a> NYT: Under the unusual arrangement, the Republican Party is paying to defend the former president as he faces investigations into his private business practices. 
- <p class="updated_time"> 07:47 PM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/michael-flynn-relatives-cnn-lawsuit-525200">Judge allows Michael Flynn relatives to proceed with suit against CNN</a> Politico: The ruling will permit the former Trump national security adviser’s brother and sister-in-law to pursue a “false light” claim over news reports linking them to QAnon. 
  <p class="updated_time"> 07:43 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-build-back-better-miss-deadline-senate/index.html">Biden officially acknowledges Build Back Better will miss deadline but says he's 'determined' to see bill on Senate floor 'as early as possible'</a> CNN: President Joe Biden, in a lengthy statement, implicitly acknowledged ongoing negotiations with Sen. Joe Manchin and procedural steps will cause Democrats to miss the Christmas deadline for Senate passage of his $1.75 trillion economic and climate package, noting that Democrats will continue to work together "over the days and weeks ahead" to get the proposal to the Senate floor. 
  <p class="updated_time"> 07:20 PM CT, Dec. 16 </p> 
