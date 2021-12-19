@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:44 PM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/europe/brexit-david-frost-resigns.html">David Frost, Brexit Negotiator, Resigns in Another Blow to Boris Johnson</a> NYT: The move puts new pressure on the prime minister, whose leadership has been called into question by a series of setbacks, including a new wave of Covid infections. 
+ <p class="updated_time"> 10:34 PM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai: Death toll reaches 75</a> BBC: With communications systems down, authorities say the scale of the storm's destruction is unclear. 
  <p class="updated_time"> 09:34 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
  <p class="updated_time"> 09:26 PM CT, Dec. 18 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59632733?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Why the Legco elections are so controversial</a> BBC: Sweeping changes put in place by China altered the way the city chooses its lawmakers this year. 
  <p class="updated_time"> 06:04 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59659881?at_medium=RSS&at_campaign=KARANGA">BBC Bitcoin mining report used in crypto-scam</a> BBC: The BBC’s Silicon Valley correspondent investigates how his report was used to steal life savings. 
- <p class="updated_time"> 06:03 PM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/europe/brexit-david-frost-resigns.html">David Frost, Brexit Negotiator, Resigns in Another Blow to Boris Johnson</a> NYT: The move puts new pressure on the prime minister, whose leadership has been called into question by a series of setbacks, including a new wave of Covid infections. 
  <p class="updated_time"> 04:08 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59713503?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch go into Christmas lockdown over Omicron wave</a> BBC: Non-essential shops, schools, bars, restaurants and other public venues will be closed until at least mid-January. 
  <p class="updated_time"> 04:04 PM CT, Dec. 18 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59710482?at_medium=RSS&at_campaign=KARANGA">France travel ban: Time-lapse shows long Eurostar queue at St Pancras</a> BBC: Travellers in St Pancras station, London, line up to get to France before it closes its borders to the UK. 
  <p class="updated_time"> 05:00 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/canada/newfoundland-atlantic-pandemic.html">Why Are So Many Canadians Moving to the Atlantic Provinces?</a> NYT: A Times reporter fulfills his lifelong dream of visiting Newfoundland and explores why so many Canadians are moving to the country’s Atlantic provinces. 
- <p class="updated_time"> 04:50 AM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59709452?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: Dozens feared dead in Philippines</a> BBC: Some three million people are without power after a devastating typhoon swept over the Philippines. 
  <p class="updated_time"> 04:26 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065470550/russia-envoy-says-moscow-might-up-the-ante-if-the-west-ignores-its-demands">Russia envoy says Moscow might up the ante if the West ignores its demands</a> NPR: Deputy Foreign Minister Sergei Ryabkov accused Western allies of continuously pushing the envelope in relations with Russia. 
  <p class="updated_time"> 04:00 AM CT, Dec. 18 </p> 
