@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:10 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/world/middleeast/hamas-israel-gaza-war.html">Hamas, Claiming Victory Over Israel, Is Stuck in Same Old Cycle</a> NYT: Seven months after a war with Israel, hundreds are dead but otherwise little has changed. It’s a familiar pattern. 
+ <p class="updated_time"> 10:47 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/health/omicron-vaccines-efficacy.html">Most of the World’s Vaccines Likely Won’t Prevent Infection From Omicron</a> NYT: They do seem to offer significant protection against severe illness, but the consequences of rapidly spreading infection worry many public health experts. 
  <p class="updated_time"> 09:57 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59719765?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Thousands protest on uprising anniversary</a> BBC: Demonstrations around the country demand an end to military rule, following a coup in October. 
  <p class="updated_time"> 09:50 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/southeast-asian-tourism-covid.html">Southeast Asia's Tourist Spots Are Open, but Visitors Are Scarce</a> NYT: Hopes for a revival of international tourism have fizzled amid restrictions, paperwork, a lack of flights and uncertainty around the Omicron variant. 
- <p class="updated_time"> 09:48 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/health/omicron-vaccines-efficacy.html">Most of the World’s Vaccines Likely Won’t Prevent Infection From Omicron</a> NYT: They do seem to offer significant protection against severe illness, but the consequences of rapidly spreading infection worry many public health experts. 
  <p class="updated_time"> 09:32 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/japan-fire-osaka-arson.html">Japan Fire: Osaka Police Identify a Suspect, 61</a> NYT: A 61-year-old man, hospitalized after the fire at an Osaka psychiatric clinic, is being investigated on suspicion of arson and murder, the police said. 
  <p class="updated_time"> 09:09 AM CT, Dec. 19 </p> 
@@ -49,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/world/asia/japan-rakugo.html">She Broke Japan’s Comedic Barrier Playing Drunks and Fools (Yep, Men)</a> NYT: Niyo Katsura has won acclaim in rakugo, a classical form of Japanese storytelling, by doing anything onstage that a man can do. 
  <p class="updated_time"> 02:42 AM CT, Dec. 19 </p> 
  <a href="https://www.wsj.com/articles/omicron-prompts-new-covid-19-restrictions-in-europe-11639921351">Omicron Prompts New Covid-19 Restrictions</a> WSJ: A lockdown in the Netherlands went into effect, while Germany said it would curb travel from the U.K. and Ireland imposed a curfew. 
+ <p class="updated_time"> 01:06 AM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/sport/boxing/59716989?at_medium=RSS&at_campaign=KARANGA">Jake Paul: YouTube star knocks out Tyron Woodley in Florida for fifth win</a> BBC: Jake Paul calls his sixth-round knockout of Tyron Woodley "the moment of my life" after he extends his perfect record to five wins. 
  <p class="updated_time"> 01:00 AM CT, Dec. 19 </p> 
  <a href="https://www.wsj.com/articles/in-china-job-cuts-mount-in-sectors-hit-by-tighter-regulations-11639915203">China Job Cuts Mount in Sectors Hit by Tighter Rules</a> WSJ: Technology, education and property companies are shedding employees, dimming the job prospects for college graduates. 
  <p class="updated_time"> 11:33 PM CT, Dec. 18 </p> 
@@ -65,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59715820?at_medium=RSS&at_campaign=KARANGA">Covid: Germany tightens restrictions on UK travellers</a> BBC: Germany follows France in banning British tourists and business travellers over Omicron concerns. 
  <p class="updated_time"> 06:29 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59712015?at_medium=RSS&at_campaign=KARANGA">Covid: French ski season in disarray as UK tourists banned</a> BBC: Snow on the slopes of Mont Blanc is the best Chamonix has seen in years - but few Brits will enjoy it. 
- <p class="updated_time"> 06:13 PM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/sport/boxing/59692720?at_medium=RSS&at_campaign=KARANGA">Derek Chisora v Joseph Parker II: New Zealander beats Briton on points in Manchester</a> BBC: New Zealand heavyweight Joseph Parker secures a brilliant points win over Britain's Derek Chisora in a thrilling fight at the AO Arena in Manchester. 
  <p class="updated_time"> 06:08 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59699350?at_medium=RSS&at_campaign=KARANGA">Wagner Group: Why the EU is alarmed by Russian mercenaries in Central Africa</a> BBC: The shadowy Russian mercenary group, allegedly linked to the Kremlin, has been accused of rights abuses. 
  <p class="updated_time"> 06:05 PM CT, Dec. 18 </p> 
@@ -190,8 +192,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:55 AM CT, Dec. 19 </p> 
+ <a href="https://www.politico.com/news/2021/12/19/kinzinger-mccarthy-mcconnell-trump-525531">Kinzinger on McCarthy: ‘I don’t think history books are going to be kind to him’</a> Politico: The Illinois Republican contrasted Kevin McCarthy with Mitch McConnell. 
  <p class="updated_time"> 11:20 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/fauci-hospitals-schools-covid-525510">Fauci worried about increased hospitalizations but hopeful about schools</a> Politico: “I don’t foresee the kind of lockdowns that we’ve seen before,” he also said. 
+ <p class="updated_time"> 11:00 AM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">Manchin says he won't vote for Build Back Better Act</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 10:44 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065645938/johnny-isakson-former-georgia-senator-dies-at-76">Johnny Isakson, former GOP senator known for building consensus, dies at age 76</a> NPR: The former Georgia lawmaker rose from the ranks of the state Legislature to become a U.S. senator known as an effective, behind-the-scenes force for compromise. 
  <p class="updated_time"> 10:44 AM CT, Dec. 19 </p> 
@@ -200,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/fauci-safe-travel-covid-prudent-525485">Fauci: Safe holiday travel is possible if people are ‘prudent’</a> Politico: He reiterated that those who are vaccinated and boosted are apt to be safest. 
  <p class="updated_time"> 10:14 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Manchin Pulls Support From Biden’s Social Policy Bill, Imperiling Its Passage</a> NYT: “I cannot vote to continue with this piece of legislation,” Mr. Manchin said on “Fox News Sunday,” citing concerns about adding to the national debt. 
- <p class="updated_time"> 10:11 AM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">Manchin says he won't vote for Build Back Better Act</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 09:45 AM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-biden-russia-ukraine-obama-2014/index.html">'A four-week window': Biden aims to learn from Obama's mistakes with quick moves to deter Putin from invading Ukraine</a> CNN: When the US intelligence community first picked up signs in the fall that Russia could be preparing a new attack on Ukraine, President Joe Biden directed his administration to act -- and fast. 
  <p class="updated_time"> 09:43 AM CT, Dec. 19 </p> 
@@ -298,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/17/1065312060/white-house-issues-a-warning-to-unvaccinated-americans-as-concerns-about-omicron">White House issues a warning to unvaccinated Americans as concerns about omicron grow</a> NPR: The White House continues the same COVID-19 messages and strategies even as models suggest an omicron surge is coming. 
  <p class="updated_time"> 03:49 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065312046/possible-charges-are-the-latest-chapter-in-mark-meadows-career-defined-by-confli">Possible charges are the latest chapter in Mark Meadows' career defined by conflict</a> NPR: Former chief of staff Mark Meadows was at the center of power under Trump after a decade of waging conflict in the House. He now faces possible prosecution for contempt of Congress. 
- <p class="updated_time"> 03:45 PM CT, Dec. 17 </p> 
- <a href="https://www.politico.com/news/2021/12/17/southwest-airlines-ceo-positive-covid-test-525280">Southwest CEO tests positive for Covid-19</a> Politico: Southwest CEO Gary Kelly has tested positive for Covid-19 days after he testified before the Senate Commerce Committee. 
  <p class="updated_time"> 03:33 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065311956/a-conversation-with-the-countrys-1st-somali-american-mayor">A conversation with the country's 1st Somali-American mayor</a> NPR: NPR's Ari Shapiro speaks with Deqa Dhalac, who recently became the first Somali-American mayor in the United States. 
  <p class="updated_time"> 03:29 PM CT, Dec. 17 </p> 
@@ -422,8 +424,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/14/what-the-left-doesnt-get-about-the-media-495453"> What the left doesn’t get about the media</a> Politico Playbook: And the Jan. 6 committee releases some of Mark Meadows' text messages. 
  <p class="updated_time"> 04:31 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/rural-america-biden-investments-524170">Biden’s rural investments run up against the culture wars in Wisconsin</a> Politico: Even as President Joe Biden’s agenda has promised billions to rural communities this year, Democrats are in danger of losing their last foothold in rural Wisconsin. 
- <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/hes-got-to-condemn-this-shit-panel-releases-urgent-jan-6-texts-from-trump-jr-lawmakers-524188">‘He’s got to condemn this …’: Panel releases urgent Jan. 6 texts from Donald Trump Jr., lawmakers and Fox hosts</a> Politico: House investigators held Mark Meadows in criminal contempt after releasing a trove of messages aimed at getting President Trump to take stronger action amid the Capitol riot. 
  <p class="updated_time"> 07:06 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/13/debt-limit-byrd-bath-and-manchin-meetings-495441">Debt limit, Byrd bath and Manchin meetings</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:08 AM CT, Dec. 13 </p> 
