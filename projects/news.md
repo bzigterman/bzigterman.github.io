@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:25 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">Hong Kong Elections: How 'Patriots Only' Bolsters Beijing's Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials have urged the public to vote, but turnout Sunday was on track to hit a record low. 
  <p class="updated_time"> 11:10 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/middleeast/hamas-israel-gaza-war.html">Hamas, Claiming Victory Over Israel, Is Stuck in Same Old Cycle</a> NYT: Seven months after a war with Israel, hundreds are dead but otherwise little has changed. It’s a familiar pattern. 
  <p class="updated_time"> 10:47 AM CT, Dec. 19 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/19/1065626402/chileans-vote-in-runoff-election-for-new-president">Chileans vote in runoff election for new president</a> NPR: Chileans choose a president today in a runoff election. People in a small coastal fishing village are unhappy the choice is between one candidate on the far right and another on the far left. 
  <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065626388/revival-of-the-iran-nuclear-deal-appears-far-off">Revival of the Iran nuclear deal appears far-off</a> NPR: Scott Detrow gets an update on the ongoing Iran-U.S. nuclear deal talks in Vienna from journalist Negar Mortazavi. 
- <p class="updated_time"> 06:59 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">Hong Kong Elections: How 'Patriots Only' Bolsters Beijing's Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials have urged the public to vote, but turnout Sunday was expected to be low. 
  <p class="updated_time"> 06:26 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59717076?at_medium=RSS&at_campaign=KARANGA">Highlights from the career of architect Richard Rogers</a> BBC: Lord Rogers, who has died aged 88, designed the Millennium Dome and the Pompidou Centre. 
  <p class="updated_time"> 06:01 AM CT, Dec. 19 </p> 
@@ -47,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/19/1062792638/our-11-most-read-global-pandemic-stories-of-2021">Our 11 most-read global pandemic stories of 2021</a> NPR: From India to Israel to white-tailed deer in Iowa harboring the coronavirus, our top COVID stories of the year reveal the ever-changing nature of the world's health crisis. 
  <p class="updated_time"> 05:15 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59717345?at_medium=RSS&at_campaign=KARANGA">West Bank ambush suspects captured, Israel says</a> BBC: The army says it has caught Palestinians suspected of a deadly attack in the occupied West Bank. 
+ <p class="updated_time"> 04:27 AM CT, Dec. 19 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-voters-widely-shun-election-for-beijing-approved-legislators-11639927626">Hong Kong Voters Widely Shun Election for Beijing-Approved Candidates</a> WSJ: Turnout at Sunday’s poll was on course to be a record low for legislative elections since the city returned to Chinese rule in 1997. 
  <p class="updated_time"> 04:00 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/japan-rakugo.html">She Broke Japan’s Comedic Barrier Playing Drunks and Fools (Yep, Men)</a> NYT: Niyo Katsura has won acclaim in rakugo, a classical form of Japanese storytelling, by doing anything onstage that a man can do. 
  <p class="updated_time"> 02:42 AM CT, Dec. 19 </p> 
@@ -58,7 +60,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:33 PM CT, Dec. 18 </p> 
  <a href="https://www.wsj.com/articles/central-banks-worry-omicron-could-sustain-inflation-11639909805">Central Banks Worry Omicron Could Sustain Inflation</a> WSJ: Instead of loosening monetary policy to prop up their economies as they did at the start of the Covid-19 pandemic, central banks are moving to unwind stimulus and raise interest rates. 
  <p class="updated_time"> 11:00 PM CT, Dec. 18 </p> 
- <a href="https://www.wsj.com/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003">Chile's Presidential Election Pits Young Versus Old in Key Vote for Economy</a> WSJ: Voters in Latin America’s most affluent country are casting ballots following a campaign that has highlighted a generational divide pitting the young, who support presidential candidate Gabriel Boric, against the old, who are backing José Antonio Kast. 
+ <a href="https://www.wsj.com/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003">Chile's Presidential Election Pits Young Versus Old in Key Vote for Economy</a> WSJ: Voters are casting ballots following a campaign that has highlighted a generational divide pitting the young, who support presidential candidate Gabriel Boric, against the old, who are backing José Antonio Kast. 
  <p class="updated_time"> 10:55 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59715940?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch go into Christmas lockdown over Omicron wave</a> BBC: Non-essential shops, schools, bars and other public venues have been closed until at least 14 January. 
  <p class="updated_time"> 10:44 PM CT, Dec. 18 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065463755/police-search-house-of-man-linked-to-deadly-osaka-fire">Police search house of man linked to deadly Osaka fire</a> NPR: The possible suspect is believed to be among the three people who survived the fire and were in severe condition, police said. 
  <p class="updated_time"> 01:33 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065458877/the-events-that-led-to-hong-kongs-pivotal-elections">The events that led to Hong Kong's pivotal elections</a> NPR: Demands for expanded democracy in the semi-autonomous territory inspired protest movements that were largely ignored by Beijing and crushed by security forces. 
- <p class="updated_time"> 11:30 PM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/the-worldwantsgreen-hydrogen-namibiasays-it-can-deliver-11639823404">The WorldWantsGreen Hydrogen. NamibiaSays It Can Deliver.</a> WSJ: The southern African nation of sun-laden deserts and wind-swept coastline is aiming to develop a hydrogen industry from renewable sources to meet growing global demand. 
  <p class="updated_time"> 07:04 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59707799?at_medium=RSS&at_campaign=KARANGA">Officer who shot Daunte Wright: 'I'm sorry it happened'</a> BBC: Former Minnesota police officer Kimberly Potter sobs in court as she apologises for shooting Daunte Wright. 
  <p class="updated_time"> 06:41 PM CT, Dec. 17 </p> 
@@ -192,10 +192,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:26 PM CT, Dec. 19 </p> 
+ <a href="https://www.politico.com/news/2021/12/19/jared-polis-three-dose-vaccine-525532">Colorado governor supports redefining what it means to be fully vaccinated</a> Politico: Jared Polis also said the unvaccinated are “often victims of misinformation.” 
  <p class="updated_time"> 11:55 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/kinzinger-mccarthy-mcconnell-trump-525531">Kinzinger on McCarthy: ‘I don’t think history books are going to be kind to him’</a> Politico: The Illinois Republican contrasted Kevin McCarthy with Mitch McConnell. 
+ <p class="updated_time"> 11:32 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/us/politics/us-haiti-intervention.html">As U.S. Navigates Crisis in Haiti, a Bloody History Looms Large</a> NYT: American policy decisions are vital to understanding Haiti’s political instability, and why it remains the poorest country in the Western Hemisphere. 
  <p class="updated_time"> 11:20 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/fauci-hospitals-schools-covid-525510">Fauci worried about increased hospitalizations but hopeful about schools</a> Politico: “I don’t foresee the kind of lockdowns that we’ve seen before,” he also said. 
+ <p class="updated_time"> 11:10 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/us/politics/johnny-isakson-dead.html">Johnny Isakson, Longtime Senator From Georgia, Is Dead at 76</a> NYT: He succeeded Newt Gingrich in the House. As a U.S. senator for 15 years, he was known for championing bipartisan cooperation. 
  <p class="updated_time"> 11:00 AM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">Manchin says he won't vote for Build Back Better Act</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 10:44 AM CT, Dec. 19 </p> 
@@ -211,9 +217,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:43 AM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/18/politics/washington-state-senator/index.html">State senator dies a month after telling a local radio station he was sick with Covid-19 while in El Salvador</a> CNN: A Washington state senator has died a month after confirming with a local radio station he was in El Salvador and sick with Covid-19. 
  <p class="updated_time"> 09:17 AM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">Manchin crushes Biden’s megabill</a> Politico: “This is a no on this piece of legislation. I have tried everything I know to do,” he said in an interview on "Fox News Sunday." 
- <p class="updated_time"> 09:15 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/us/politics/us-haiti-intervention.html">As U.S. Navigates Crisis in Haiti, a Bloody History Looms Large</a> NYT: American policy decisions are vital to understanding Haiti’s political instability, and why it remains the poorest country in the Western Hemisphere. 
+ <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">White House lights up Manchin after he crushes Biden's megabill</a> Politico: The West Wing accused Manchin of "a breach of his commitments to the president and the senator’s colleagues in the House and Senate," in a blistering statement Sunday. 
  <p class="updated_time"> 08:51 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065636709/joe-manchin-says-he-cannot-support-bidens-build-back-better-plan">Joe Manchin says he is unable to support President Biden's Build Back Better plan </a> NPR: The announcement by the West Virginia Democrat dooms the $2 trillion social spending and climate legislation, which needs support from every Senate Democrat in order to pass through the 50-50 chamber. 
  <p class="updated_time"> 08:20 AM CT, Dec. 19 </p> 
@@ -348,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/us/politics/rnc-trump-investigations.html">R.N.C. Is Said to Agree to Pay Up to $1.6 Million of Trump’s Personal Legal Bills</a> NYT: Under the unusual arrangement, the Republican Party is paying to defend the former president as he faces investigations into his private business practices. 
  <p class="updated_time"> 07:43 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-build-back-better-miss-deadline-senate/index.html">Biden officially acknowledges Build Back Better will miss deadline but says he's 'determined' to see bill on Senate floor 'as early as possible'</a> CNN: President Joe Biden, in a lengthy statement, implicitly acknowledged ongoing negotiations with Sen. Joe Manchin and procedural steps will cause Democrats to miss the Christmas deadline for Senate passage of his $1.75 trillion economic and climate package, noting that Democrats will continue to work together "over the days and weeks ahead" to get the proposal to the Senate floor. 
- <p class="updated_time"> 07:20 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/scientists-letter-nuclear-arsenal.html">Scientists Ask Biden to Cut U.S. Nuclear Arsenal</a> NYT: In a letter, the scientists also urged President Biden to declare that the United States would never be the first to use nuclear weapons in a conflict. 
  <p class="updated_time"> 06:57 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/senate-parliamentarian-rejects-latest-dem-proposal-on-immigration-525195">Senate parliamentarian rejects latest Dem proposal on immigration</a> Politico: With bipartisan immigration reform talks stalled, Democrats widely viewed the social spending bill as their best chance to enact some type of immigration reform. 
  <p class="updated_time"> 06:41 PM CT, Dec. 16 </p> 
@@ -396,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats’ filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
  <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/trump-january-6-obstruction-law-524806">Jan. 6 investigators mull whether Trump violated obstruction law</a> Politico: Rep. Liz Cheney (R-Wyo.) raised the question using precise terminology from the criminal statute that some view as possibly applicable to the former president's actions. 
- <p class="updated_time"> 04:01 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/health-care-spending-increase-pandemic-524793">Health spending growth more than doubled in first year of pandemic</a> Politico: Nearly the entire increase came from the burst of federal spending as the government mobilized to contain the spread of the virus. 
  <p class="updated_time"> 07:35 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/15/house-is-home-for-the-holidays-senate-sticks-around-495473">House is home for the holidays, Senate sticks around</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Dec. 15 </p> 
