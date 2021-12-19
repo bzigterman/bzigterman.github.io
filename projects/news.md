@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:36 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59722285?at_medium=RSS&at_campaign=KARANGA">Il Divo singer Carlos Marin dies aged 53</a> BBC: The Spanish singer is remembered by other members of the group for his unique voice and spirit. 
  <p class="updated_time"> 02:10 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59721801?at_medium=RSS&at_campaign=KARANGA">Liz Truss replaces Lord Frost in post-Brexit talks</a> BBC: The foreign secretary will become the UK's lead negotiator with the EU over the Northern Ireland Protocol. 
  <p class="updated_time"> 02:05 PM CT, Dec. 19 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59659881?at_medium=RSS&at_campaign=KARANGA">BBC Bitcoin mining report used in crypto-scam</a> BBC: The BBC’s Silicon Valley correspondent investigates how his report was used to steal life savings. 
  <p class="updated_time"> 04:04 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/london-major-incident.html">With Omicron Surging, London Declares a ‘Major Incident'</a> NYT: The Greater London area has seen cases rise by nearly 200 percent over the last two weeks, making it the hardest hit area of Britain. 
- <p class="updated_time"> 04:03 PM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59712020?at_medium=RSS&at_campaign=KARANGA">UK troops will not be deployed to Ukraine to defend against Russia</a> BBC: Britain's defence secretary says this is because Ukraine is not a member of the Nato military alliance. 
  <p class="updated_time"> 01:29 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html">Oriol Bohigas, Architect Who Helped Transform Barcelona, Dies at 95</a> NYT: He was a mastermind of the city’s overhaul in preparation for the 1992 Summer Olympics, which helped turn it into a major tourist destination. 
  <p class="updated_time"> 12:43 PM CT, Dec. 18 </p> 
