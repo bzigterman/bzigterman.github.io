@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 02:35 AM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll passes 80</a> BBC: More than 80 people are thought to have died, as the Red Cross issues an emergency appeal for aid. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll passes 90</a> BBC: More than 90 people are thought to have died, as the Red Cross issues an emergency appeal for aid. 
  <p class="updated_time"> 01:07 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/snl-no-live-audience-covid.html">‘S.N.L.’ Cancels Live Audience Over Covid Concerns</a> NYT: But the show did go on, with sketches that were taped earlier in the week and repeats from previous episodes. 
  <p class="updated_time"> 11:22 PM CT, Dec. 18 </p> 
