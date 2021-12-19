@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:40 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: LegCo vote after electoral overhaul</a> BBC: Only candidates deemed to be "patriots" by Beijing were able to stand in the legislative council election. 
- <p class="updated_time"> 12:52 PM CT, Dec. 19 </p> 
+ <p class="updated_time"> 02:10 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59721801?at_medium=RSS&at_campaign=KARANGA">Liz Truss replaces Lord Frost in post-Brexit talks</a> BBC: The foreign secretary will become the UK's lead negotiator with the EU over the Northern Ireland Protocol. 
+ <p class="updated_time"> 02:05 PM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/world/europe/uk-lockdown-omicron-covid-boris-johnson.html">U.K. Weighing Lockdown Amid an Omicron Wave and Political Turmoil</a> NYT: Britain’s health secretary said on Sunday he wouldn’t rule out more restrictions before Christmas, but the prime minister would most likely face sharp pushback from his own party. 
+ <p class="updated_time"> 01:59 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: LegCo vote after electoral overhaul sees record low turnout</a> BBC: Only 30.2% took part in the vote - the lowest turnout in Hong Kong's election history. 
  <p class="updated_time"> 12:51 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59714272?at_medium=RSS&at_campaign=KARANGA">Covid: Christmas travel will fuel spread of Omicron, US expert warns</a> BBC: The US infectious disease expert says the Covid-19 variant will spread - even among the vaccinated. 
  <p class="updated_time"> 12:37 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/lucia-hiriart-dead.html">Lucía Hiriart, Powerful Wife of Chile’s Dictator, Dies at 98</a> NYT: Her husband, Augusto Pinochet, acknowledged that she had pushed him to participate in the 1973 coup that brought him to power in 1973. 
- <p class="updated_time"> 12:18 PM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/world/europe/uk-lockdown-omicron-covid-boris-johnson.html">U.K. Weighing Lockdown Amid an Omicron Wave and Political Turmoil</a> NYT: Britain’s health secretary said on Sunday he wouldn’t rule out more restrictions before Christmas, but the prime minister would most likely face sharp pushback from his own party. 
  <p class="updated_time"> 12:01 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59720744?at_medium=RSS&at_campaign=KARANGA">Drakeo the Ruler dies after stabbing at LA music festival</a> BBC: The 28-year-old was stabbed during an altercation backstage at a Los Angeles music festival. 
  <p class="updated_time"> 11:59 AM CT, Dec. 19 </p> 
@@ -33,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/asia/southeast-asian-tourism-covid.html">Southeast Asia's Tourist Spots Are Open, but Visitors Are Scarce</a> NYT: Hopes for a revival of international tourism have fizzled amid restrictions, paperwork, a lack of flights and uncertainty around the Omicron variant. 
  <p class="updated_time"> 09:32 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/japan-fire-osaka-arson.html">Japan Fire: Osaka Police Identify a Suspect, 61</a> NYT: A 61-year-old man, hospitalized after the fire at an Osaka psychiatric clinic, is being investigated on suspicion of arson and murder, the police said. 
+ <p class="updated_time"> 09:11 AM CT, Dec. 19 </p> 
+ <a href="https://www.wsj.com/articles/central-banks-worry-omicron-could-sustain-inflation-11639909805">Central Banks Worry Omicron Could Sustain Inflation</a> WSJ: Instead of loosening monetary policy to prop up their economies as they did at the start of the Covid-19 pandemic, central banks are moving to unwind stimulus and raise interest rates. 
  <p class="updated_time"> 09:09 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Voting for President, Chile Faces Stark Choice, With Constitution at Stake</a> NYT: The presidential race is being contested by a millennial leftist who would be the nation’s youngest leader and a far-right politician who has promised to restore order and security. 
  <p class="updated_time"> 09:03 AM CT, Dec. 19 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/world/asia/japan-rakugo.html">She Broke Japan’s Comedic Barrier Playing Drunks and Fools (Yep, Men)</a> NYT: Niyo Katsura has won acclaim in rakugo, a classical form of Japanese storytelling, by doing anything onstage that a man can do. 
  <p class="updated_time"> 01:00 AM CT, Dec. 19 </p> 
  <a href="https://www.wsj.com/articles/in-china-job-cuts-mount-in-sectors-hit-by-tighter-regulations-11639915203">China Job Cuts Mount in Sectors Hit by Tighter Rules</a> WSJ: Technology, education and property companies are shedding employees, dimming the job prospects for college graduates. 
- <p class="updated_time"> 11:33 PM CT, Dec. 18 </p> 
- <a href="https://www.wsj.com/articles/central-banks-worry-omicron-could-sustain-inflation-11639909805">Central Banks Worry Omicron Could Sustain Inflation</a> WSJ: Instead of loosening monetary policy to prop up their economies as they did at the start of the Covid-19 pandemic, central banks are moving to unwind stimulus and raise interest rates. 
  <p class="updated_time"> 11:00 PM CT, Dec. 18 </p> 
  <a href="https://www.wsj.com/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003">Chile's Presidential Election Pits Young Versus Old in Key Vote for Economy</a> WSJ: Voters are casting ballots following a campaign that has highlighted a generational divide pitting the young, who support presidential candidate Gabriel Boric, against the old, who are backing José Antonio Kast. 
  <p class="updated_time"> 10:44 PM CT, Dec. 18 </p> 
