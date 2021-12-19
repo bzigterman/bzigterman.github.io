@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:37 PM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/world/americas/lucia-hiriart-dead.html">Lucía Hiriart, Powerful Wife of Chile’s Dictator, Dies at 98</a> NYT: Her husband, Augusto Pinochet, acknowledged that she had pushed him to participate in the 1973 coup that brought him to power in 1973. 
+ <p class="updated_time"> 12:30 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: LegCo vote after electoral overhaul</a> BBC: Only candidates deemed to be "patriots" by Beijing can stand in the legislative council election. 
  <p class="updated_time"> 12:18 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/europe/uk-lockdown-omicron-covid-boris-johnson.html">U.K. Weighing Lockdown Amid an Omicron Wave and Political Turmoil</a> NYT: Britain’s health secretary said on Sunday he wouldn’t rule out more restrictions before Christmas, but the prime minister would most likely face sharp pushback from his own party. 
  <p class="updated_time"> 12:01 PM CT, Dec. 19 </p> 
@@ -31,24 +35,20 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: More than 140 people are now believed to have been killed by the storm, and rescuers are still trying to reach some devastated areas. 
  <p class="updated_time"> 09:00 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll surges</a> BBC: At least 169 people have died, police say, as the Red Cross issues an emergency appeal for aid. 
- <p class="updated_time"> 08:57 AM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: LegCo vote after electoral overhaul</a> BBC: Only candidates deemed to be "patriots" by Beijing can stand in the legislative council election. 
  <p class="updated_time"> 08:55 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/washington-senator-covid-dead-doug-eriksen.html">Washington State Senator Doug Eriksen Died After Covid Infection</a> NYT: Doug Ericksen was a Republican who helped lead opposition to Washington State’s Covid-19 emergency orders and vaccine mandates. 
  <p class="updated_time"> 08:45 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/biden-national-address-on-omicron.html">Biden to Address Nation About Omicron on Tuesday</a> NYT: The remarks are expected to detail how the United States will respond to the latest pandemic challenge. 
- <p class="updated_time"> 08:45 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/snl-no-live-audience-covid.html">‘S.N.L.’ Cancels Live Audience Over Covid Concerns</a> NYT: But the show did go on, with sketches that were taped earlier in the week and repeats from previous episodes. 
  <p class="updated_time"> 08:21 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59715937?at_medium=RSS&at_campaign=KARANGA">Man beaten to death for 'sacrilege' attempt at Sikh Golden Temple in India</a> BBC: Eyewitnesses allege the man had tried to commit a sacrilegious act at the Golden Temple in India. 
+ <p class="updated_time"> 07:30 AM CT, Dec. 19 </p> 
+ <a href="https://www.wsj.com/articles/omicron-prompts-new-covid-19-restrictions-in-europe-11639921351">Omicron Prompts New Covid-19 Restrictions</a> WSJ: A lockdown in the Netherlands went into effect, while Germany said it would curb travel from the U.K. and Ireland imposed a curfew. 
  <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065626402/chileans-vote-in-runoff-election-for-new-president">Chileans vote in runoff election for new president</a> NPR: Chileans choose a president today in a runoff election. People in a small coastal fishing village are unhappy the choice is between one candidate on the far right and another on the far left. 
  <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065626388/revival-of-the-iran-nuclear-deal-appears-far-off">Revival of the Iran nuclear deal appears far-off</a> NPR: Scott Detrow gets an update on the ongoing Iran-U.S. nuclear deal talks in Vienna from journalist Negar Mortazavi. 
  <p class="updated_time"> 06:58 AM CT, Dec. 19 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-voters-widely-shun-election-for-beijing-approved-legislators-11639927626">Hong Kong Voters Widely Shun Election for Beijing-Approved Candidates</a> WSJ: Turnout at Sunday’s poll was on course to be a record low for legislative elections since the city returned to Chinese rule in 1997. 
- <p class="updated_time"> 06:51 AM CT, Dec. 19 </p> 
- <a href="https://www.wsj.com/articles/omicron-prompts-new-covid-19-restrictions-in-europe-11639921351">Omicron Prompts New Covid-19 Restrictions</a> WSJ: A lockdown in the Netherlands went into effect, while Germany said it would curb travel from the U.K. and Ireland imposed a curfew. 
  <p class="updated_time"> 06:26 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59717076?at_medium=RSS&at_campaign=KARANGA">Highlights from the career of architect Richard Rogers</a> BBC: Lord Rogers, who has died aged 88, designed the Millennium Dome and the Pompidou Centre. 
  <p class="updated_time"> 06:01 AM CT, Dec. 19 </p> 
@@ -192,14 +192,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:30 PM CT, Dec. 19 </p> 
+ <a href="https://www.politico.com/news/2021/12/19/trump-china-olympics-xi-525566">Trump criticizes China’s leader but rejects Olympics boycott</a> Politico: “He is a killer but I had a great relationship with him,” the former president said. 
  <p class="updated_time"> 12:49 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/19/scoop-manchin-refused-a-call-from-wh-before-killing-bbb-495521"> SCOOP: Manchin ‘refused’ a call from W.H. before killing BBB</a> Politico Playbook: And the latest coronavirus variant raises the alarm across the world. 
+ <p class="updated_time"> 12:35 PM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/covid-exhaustion-analysis/index.html">Americans are less willing to take precautions as the coronavirus wears on</a> CNN: The fight against the coronavirus has entered a new stage with the emergence of the omicron variant. As it spreads, cases are rising in much of the United States. 
  <p class="updated_time"> 12:26 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/jared-polis-three-dose-vaccine-525532">Colorado governor supports redefining what it means to be fully vaccinated</a> Politico: Jared Polis also said the unvaccinated are “often victims of misinformation.” 
  <p class="updated_time"> 11:55 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/kinzinger-mccarthy-mcconnell-trump-525531">Kinzinger on McCarthy: ‘I don’t think history books are going to be kind to him’</a> Politico: The Illinois Republican contrasted Kevin McCarthy with Mitch McConnell. 
  <p class="updated_time"> 11:50 AM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">Manchin says he won't vote for Build Back Better Act</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
+ <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">White House issues damning statement against Manchin after saying he won't vote for Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 11:43 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/johnny-isakson-dead.html">Johnny Isakson, Longtime Senator From Georgia, Is Dead at 76</a> NYT: He succeeded Newt Gingrich in the House. As a U.S. senator for 15 years, he was known for championing bipartisan cooperation. 
  <p class="updated_time"> 11:37 AM CT, Dec. 19 </p> 
@@ -208,6 +212,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/us/politics/us-haiti-intervention.html">As U.S. Navigates Crisis in Haiti, a Bloody History Looms Large</a> NYT: American policy decisions are vital to understanding Haiti’s political instability, and why it remains the poorest country in the Western Hemisphere. 
  <p class="updated_time"> 11:20 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/fauci-hospitals-schools-covid-525510">Fauci worried about increased hospitalizations but hopeful about schools</a> Politico: “I don’t foresee the kind of lockdowns that we’ve seen before,” he also said. 
+ <p class="updated_time"> 10:56 AM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/johnny-isakson-dies-at-76/index.html">Former Sen. Johnny Isakson dies at the age of 76</a> CNN: Former Georgia Sen. Johnny Isakson, a Republican who held a long career in politics, has died at the age of 76. 
  <p class="updated_time"> 10:44 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065645938/johnny-isakson-former-georgia-senator-dies-at-76">Johnny Isakson, former GOP senator known for building consensus, dies at age 76</a> NPR: The former Georgia lawmaker rose from the ranks of the state Legislature to become a U.S. senator known as an effective, behind-the-scenes force for compromise. 
  <p class="updated_time"> 10:44 AM CT, Dec. 19 </p> 
@@ -253,13 +259,9 @@ permalink: /projects/news/
  <p class="updated_time"> 02:56 PM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065519715/rahm-emanuel-among-dozens-of-late-night-diplomatic-post-confirmations-by-the-sen">Rahm Emanuel among dozens of late-night diplomatic post confirmations by the Senate</a> NPR: The votes had been delayed by political maneuvering by Sen. Ted Cruz over a controversial pipeline in Europe. Emanuel's nomination as ambassador to Japan was among 41 nominations approved overnight. 
  <p class="updated_time"> 02:18 PM CT, Dec. 18 </p> 
- <a href="https://www.cnn.com/2021/12/18/politics/joe-biden-omicron-tuesday-speech/index.html">Biden to give Omicron-focused speech on Tuesday</a> CNN: President Joe Biden will give an Omicron variant-focused speech on Tuesday, according to a White House official, as the nation contends with higher case numbers, deaths and hospitalizations from the coronavirus heading into the holidays. 
- <p class="updated_time"> 02:18 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/congress-gridlock-democracy.html">Congress Ends ‘Horrible Year’ With Divisions as Bitter as Ever</a> NYT: Democrats’ achievements were overshadowed by legislative setbacks, fallout from the Jan. 6 attack and a sense that Congress was not rising to meet a perilous moment in history. 
  <p class="updated_time"> 02:14 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/18/politics/holiday-covid-tiktok-threat-what-matters/index.html">The reality of the pandemic is settling in. So is America's anxiety</a> CNN: It's supposed to be the "most wonderful time of the year," but there's a whole heck of a lot to make people anxious and afraid as we barrel into the holiday season. 
- <p class="updated_time"> 12:27 PM CT, Dec. 18 </p> 
- <a href="https://www.cnn.com/2021/12/18/politics/senate-confirms-ambassador-rahm-emanuel/index.html">Dozens confirmed to ambassador posts, after Ted Cruz refused for months to consider them</a> CNN: The US Senate overnight confirmed more than three dozen of President Joe Biden's nominees to ambassador posts, ending a months-long Republican-led blockade on quick consideration of the diplomatic nominations. 
  <p class="updated_time"> 11:48 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/white-house-not-budging-student-loans-525357">White House not budging on Feb. 1 end to student loans forgiveness</a> Politico: At a meeting with Biden officials Wednesday, advocates tried to "sound the alarm to them about what we believe to be a very serious political mistake that they’re about to be making." 
  <p class="updated_time"> 11:43 AM CT, Dec. 18 </p> 
