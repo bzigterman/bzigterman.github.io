@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:59 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">Hong Kong Elections: How 'Patriots Only' Bolsters Beijing's Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials have urged the public to vote, but turnout Sunday was expected to be low. 
+ <p class="updated_time"> 06:53 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: More than 140 people are now believed to have been killed by the storm, and rescuers are still trying to reach some devastated areas. 
+ <p class="updated_time"> 06:26 AM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59717076?at_medium=RSS&at_campaign=KARANGA">Highlights from the career of architect Richard Rogers</a> BBC: Lord Rogers, who has died aged 88, designed the Millennium Dome and the Pompidou Centre. 
  <p class="updated_time"> 06:01 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1062091832/flying-tigers-americans-china-world-war-ii-history-japan">The Flying Tigers: How a group of Americans ended up fighting for China in WW II</a> NPR: In 1941, Japan was on the offensive against China. So China hired a group of Americans to fight back in the skies. Eighty years ago this week, they fought in their first battle. 
  <p class="updated_time"> 06:00 AM CT, Dec. 19 </p> 
@@ -15,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59715937?at_medium=RSS&at_campaign=KARANGA">Man beaten to death for 'sacrilege' attempt at Sikh Golden Temple in India</a> BBC: Eyewitnesses allege the man had tried to commit a sacrilegious act at the Golden Temple in India. 
  <p class="updated_time"> 05:15 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59717345?at_medium=RSS&at_campaign=KARANGA">West Bank ambush suspects captured, Israel says</a> BBC: The army says it has caught Palestinians suspected of a deadly attack in the occupied West Bank. 
- <p class="updated_time"> 04:46 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: Nearly 100 people are now believed to have been killed by the storm, and rescuers are still trying to reach some devastated areas. 
  <p class="updated_time"> 04:10 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Legco voting underway after electoral overhaul</a> BBC: Only candidates deemed to be "patriots" by Beijing can stand in the legislative council election. 
  <p class="updated_time"> 04:00 AM CT, Dec. 19 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065468764/pakistan-is-trying-to-rally-muslim-countries-to-help-afghanistan">Pakistan is trying to rally Muslim countries to help Afghanistan</a> NPR: Pakistan's foreign minister said his message to Sunday meeting is "Please do not abandon Afghanistan. Please engage. We are speaking for the people of Afghanistan." 
  <p class="updated_time"> 03:00 AM CT, Dec. 18 </p> 
  <a href="https://www.wsj.com/articles/europes-ski-slopes-are-open-despite-omicron-at-least-for-now-11639836003">Europe Keeps Its Ski Slopes Open Despite Omicron</a> WSJ: Wide use of the European Union’s digital Covid-19 pass has encouraged skiers to take to the slopes in a boost to ski-lift operators and other local businesses. 
- <p class="updated_time"> 02:31 AM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">How Hong Kong’s ‘Patriots Only’ Elections Bolster Beijing’s Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials are urging the public to vote, but turnout is expected to be low. 
  <p class="updated_time"> 02:12 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065463755/police-search-house-of-man-linked-to-deadly-osaka-fire">Police search house of man linked to deadly Osaka fire</a> NPR: The possible suspect is believed to be among the three people who survived the fire and were in severe condition, police said. 
  <p class="updated_time"> 01:33 AM CT, Dec. 18 </p> 
@@ -115,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/17/1065315661/omicron-may-be-less-severe-in-south-africa-that-may-not-be-the-case-for-the-u-s">Omicron may be less severe in South Africa. That may not be the case for the U.S.</a> NPR: Researchers in South Africa have found that people infected with omicron, on average, are less likely to end up in the hospital. But the variant may act differently here in the U.S. 
  <p class="updated_time"> 06:17 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59691176?at_medium=RSS&at_campaign=KARANGA">Afghanistan to Wisconsin: Refugees dream of home</a> BBC: Some of the 13,000 Afghan refugees living at a US military base in Wisconsin reflect on new lives. 
- <p class="updated_time"> 06:16 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59702496?at_medium=RSS&at_campaign=KARANGA">Ethiopian civil war divides diaspora in the US</a> BBC: The conflict has deeply divided the Ethiopian community in Washington DC - the largest in the US. 
  <p class="updated_time"> 06:12 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59689177?at_medium=RSS&at_campaign=KARANGA">Lagos party plans threatened by Nigeria Covid passports</a> BBC: Nigeria was briefly put on the UK's travel red list but most people are indifferent to coronavirus. 
  <p class="updated_time"> 06:11 PM CT, Dec. 17 </p> 
@@ -194,10 +194,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:24 AM CT, Dec. 19 </p> 
+ <a href="https://www.politico.com/news/2021/12/19/islam-afghanistan-desperately-poor-525420">Islamic world unites to aid desperately poor Afghanistan</a> Politico: The hastily called meeting of the Organization of Islamic Cooperation in Islamabad brought together dozens of foreign ministers. 
  <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/news/2021/12/19/black-lawmakers-diversity-lobbying-firms-525362">Black lawmakers to K Street: Diversify or we’ll cut you off</a> Politico: Years of frustration with the racial composition of the political influence industry have begun to boil over. 
+ <a href="https://www.politico.com/news/2021/12/19/black-lawmakers-diversity-lobbying-firms-525362">Black lawmakers threaten to cut off K St unless it diversifies</a> Politico: Years of frustration with the racial composition of the political influence industry have begun to boil over. 
  <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/news/2021/12/19/surprise-medical-bills-insurance-525304">'A lot of money on the table': Fight brews over surprise medical bills</a> Politico: The outcome could swing billions of dollars in payments, significantly influence how doctors and hospitals negotiate prices with insurers and possibly affect premiums for millions of Americans. 
+ <a href="https://www.politico.com/news/2021/12/19/surprise-medical-bills-insurance-525304">'A lot of money on the table': Fight brews over surprise medical bills</a> Politico: The outcome could swing billions of dollars in payments,  influence how doctors and hospitals negotiate prices with insurers and possibly affect premiums for millions of Americans. 
  <p class="updated_time"> 06:56 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/iraq-military-2-rockets-strike-inside-green-zone-525389">Iraq military: 2 rockets strike inside Green Zone</a> Politico: The area is home to the U.S, embassy 
  <p class="updated_time"> 02:00 AM CT, Dec. 19 </p> 
