@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:33 PM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Was Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
+ <p class="updated_time"> 04:43 PM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
+ <p class="updated_time"> 04:24 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59721962?at_medium=RSS&at_campaign=KARANGA">Iran execution of Heidar Ghorbani sparks rare anti-government protest</a> BBC: The death sentence handed to Kurdish man Heidar Ghorbani was viewed by rights groups as political. 
  <p class="updated_time"> 03:30 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: LegCo vote after electoral overhaul sees record low turnout</a> BBC: Only 30.2% took part in the vote - the lowest turnout in Hong Kong's election history. 
  <p class="updated_time"> 03:05 PM CT, Dec. 19 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
  <p class="updated_time"> 06:29 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59712015?at_medium=RSS&at_campaign=KARANGA">Covid: French ski season in disarray as UK tourists banned</a> BBC: Snow on the slopes of Mont Blanc is the best Chamonix has seen in years - but few Brits will enjoy it. 
- <p class="updated_time"> 06:05 PM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59689731?at_medium=RSS&at_campaign=KARANGA">Chile's dark past hangs over presidential run-off</a> BBC: The election, set to be the most polarised in decades, pits a far-right candidate against a leftist. 
  <p class="updated_time"> 06:05 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59632733?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Why the Legco elections are so controversial</a> BBC: Sweeping changes put in place by China altered the way the city chooses its lawmakers this year. 
  <p class="updated_time"> 06:04 PM CT, Dec. 18 </p> 
