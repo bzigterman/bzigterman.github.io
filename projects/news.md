@@ -192,6 +192,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:07 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/afghanistan-collapse-trust-biden-trump-525640">‘Trust was gone’: Former Afghan official recounts his government’s collapse</a> Politico: Hamdullah Mohib described what he perceives to be betrayal. 
+ <p class="updated_time"> 04:51 PM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/francis-collins-trump-political-pressure-republicans/index.html">Outgoing NIH director says Trump and other Republicans pressured him to endorse unproven Covid-19 remedies and to fire Fauci</a> CNN: The outgoing director of the National Institutes of Health said Sunday that he faced political pressure from then-President Donald Trump and other Republicans to endorse unproven Covid-19 remedies such as hydroxychloroquine and to fire Dr. Anthony Fauci, the head of NIH's National Institute of Allergy and Infectious Diseases. 
  <p class="updated_time"> 04:22 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">Sen. Warren tests positive for Covid-19</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
  <p class="updated_time"> 03:58 PM CT, Dec. 19 </p> 
@@ -204,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/19/1065665886/manchin-says-build-back-betters-climate-measures-are-risky-thats-not-true">Manchin says Build Back Better's climate measures are risky. That's not true</a> NPR: West Virginia Sen. Joe Manchin had spent months watering down Biden's ambitious climate plans. His final objections to the bill's climate measures are misleading. 
  <p class="updated_time"> 02:32 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Manchin Pulls Support From Biden’s Social Policy Bill, Imperiling Its Passage</a> NYT: “I cannot vote to continue with this piece of legislation,” the centrist West Virginia senator said on “Fox News Sunday,” citing concerns about adding to the national debt. 
- <p class="updated_time"> 02:29 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/francis-collins-trump-political-pressure-republicans/index.html">Outgoing NIH director says Trump and other Republicans pressured him to endorse unproven Covid-19 remedies and to fire Fauci</a> CNN: The outgoing director of the National Institutes of Health said Sunday that he faced political pressure from then-President Donald Trump and other Republicans to endorse unproven Covid-19 remedies such as hydroxychloroquine and to fire Dr. Anthony Fauci, the head of NIH's National Institute of Allergy and Infectious Diseases. 
  <p class="updated_time"> 01:52 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/afghan-war-refugees.html">At Every Step, Afghans Coming to America Encounter Stumbling Blocks</a> NYT: U.S. officials concede that the system was unprepared. 
  <p class="updated_time"> 01:51 PM CT, Dec. 19 </p> 
