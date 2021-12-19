@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:06 PM CT, Dec. 18 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/snl-no-live-audience-covid.html">‘S.N.L.’ Cancels Live Audience Over Covid Concerns</a> NYT: The show’s plan to use a ‘limited cast and crew’ made it impossible for the artist Charli XCX to go on. 
  <p class="updated_time"> 06:29 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59712015?at_medium=RSS&at_campaign=KARANGA">Covid: French ski season in disarray as UK tourists banned</a> BBC: Snow on the slopes of Mont Blanc is the best Chamonix has seen in years - but few Brits will enjoy it. 
  <p class="updated_time"> 06:08 PM CT, Dec. 18 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59659881?at_medium=RSS&at_campaign=KARANGA">BBC Bitcoin mining report used in crypto-scam</a> BBC: The BBC’s Silicon Valley correspondent investigates how his report was used to steal life savings. 
  <p class="updated_time"> 06:03 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/europe/brexit-david-frost-resigns.html">David Frost, Brexit Negotiator, Resigns in Another Blow to Boris Johnson</a> NYT: The move puts new pressure on the prime minister, whose leadership has been called into question by a series of setbacks, including a new wave of Covid infections. 
- <p class="updated_time"> 06:00 PM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/snl-no-live-audience-covid.html">‘S.N.L.’ Cancels Live Audience Over Covid Concerns</a> NYT: The show’s plan to use a ‘limited cast and crew’ made it impossible for the artist Charli XCX to go on. 
  <p class="updated_time"> 04:08 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59713503?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch go into Christmas lockdown over Omicron wave</a> BBC: Non-essential shops, schools, bars, restaurants and other public venues will be closed until at least mid-January. 
  <p class="updated_time"> 04:04 PM CT, Dec. 18 </p> 
