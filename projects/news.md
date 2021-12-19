@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:45 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/asia/southeast-asian-tourism-covid.html">Southeast Asia's Tourist Spots Are Open, but Visitors Are Scarce</a> NYT: Hopes for a revival of international tourism have fizzled amid restrictions, paperwork, a lack of flights and uncertainty around the Omicron variant. 
+ <p class="updated_time"> 08:45 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/biden-national-address-on-omicron.html">Biden to Address Nation About Omicron on Tuesday</a> NYT: The remarks are expected to detail how the United States will respond to the latest pandemic challenge. 
+ <p class="updated_time"> 08:45 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/snl-no-live-audience-covid.html">‘S.N.L.’ Cancels Live Audience Over Covid Concerns</a> NYT: But the show did go on, with sketches that were taped earlier in the week and repeats from previous episodes. 
  <p class="updated_time"> 08:21 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59715937?at_medium=RSS&at_campaign=KARANGA">Man beaten to death for 'sacrilege' attempt at Sikh Golden Temple in India</a> BBC: Eyewitnesses allege the man had tried to commit a sacrilegious act at the Golden Temple in India. 
  <p class="updated_time"> 07:59 AM CT, Dec. 19 </p> 
@@ -33,22 +39,24 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/world/asia/japan-rakugo.html">She Broke Japan’s Comedic Barrier Playing Drunks and Fools (Yep, Men)</a> NYT: Niyo Katsura has won acclaim in rakugo, a classical form of Japanese storytelling, by doing anything onstage that a man can do. 
  <p class="updated_time"> 04:00 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Voting for President, Chile Faces Stark Choice, With Constitution at Stake</a> NYT: The presidential race is being contested by a millennial leftist who would be the nation’s youngest leader and a far-right politician who has promised to restore order and security. 
+ <p class="updated_time"> 02:42 AM CT, Dec. 19 </p> 
+ <a href="https://www.wsj.com/articles/omicron-prompts-new-covid-19-restrictions-in-europe-11639921351">Omicron Prompts New Covid-19 Restrictions</a> WSJ: A lockdown in the Netherlands went into effect, while Germany said it would curb travel from the U.K. and Ireland imposed a curfew. 
  <p class="updated_time"> 02:35 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll passes 100</a> BBC: More than 100 people are thought to have died, as the Red Cross issues an emergency appeal for aid. 
- <p class="updated_time"> 01:07 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/snl-no-live-audience-covid.html">‘S.N.L.’ Cancels Live Audience Over Covid Concerns</a> NYT: But the show did go on, with sketches that were taped earlier in the week and repeats from previous episodes. 
+ <p class="updated_time"> 01:00 AM CT, Dec. 19 </p> 
+ <a href="https://www.wsj.com/articles/in-china-job-cuts-mount-in-sectors-hit-by-tighter-regulations-11639915203">China Job Cuts Mount in Sectors Hit by Tighter Rules</a> WSJ: Technology, education and property companies are shedding employees, dimming the job prospects for college graduates. 
+ <p class="updated_time"> 11:33 PM CT, Dec. 18 </p> 
+ <a href="https://www.wsj.com/articles/central-banks-worry-omicron-could-sustain-inflation-11639909805">Central Banks Worry Omicron Could Sustain Inflation</a> WSJ: Instead of loosening monetary policy to prop up their economies as they did at the start of the Covid-19 pandemic, central banks are moving to unwind stimulus and raise interest rates. 
+ <p class="updated_time"> 11:00 PM CT, Dec. 18 </p> 
+ <a href="https://www.wsj.com/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003">Chile's Presidential Election Pits Young Versus Old in Key Vote for Economy</a> WSJ: Voters in Latin America’s most affluent country are casting ballots following a campaign that has highlighted a generational divide pitting the young, who support presidential candidate Gabriel Boric, against the old, who are backing José Antonio Kast. 
  <p class="updated_time"> 10:55 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59715940?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch go into Christmas lockdown over Omicron wave</a> BBC: Non-essential shops, schools, bars and other public venues have been closed until at least 14 January. 
  <p class="updated_time"> 10:44 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/europe/brexit-david-frost-resigns.html">David Frost, Brexit Negotiator, Resigns in Another Blow to Boris Johnson</a> NYT: The move puts new pressure on the prime minister, whose leadership has been called into question by a series of setbacks, including a new wave of Covid infections. 
  <p class="updated_time"> 09:34 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
- <p class="updated_time"> 09:26 PM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/biden-national-address-on-omicron.html">Biden to Address Nation About Omicron on Tuesday</a> NYT: The remarks are expected to ‘detail how we will respond to’ the latest pandemic challenge. 
  <p class="updated_time"> 08:28 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/japan-fire-osaka-arson.html">Japan Fire: Osaka Police Identify a Suspect, 61</a> NYT: A 61-year-old man, hospitalized after the fire at an Osaka psychiatric clinic, is being investigated on suspicion of arson and murder, the police said. 
- <p class="updated_time"> 08:10 PM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/asia/southeast-asian-tourism-covid.html">Southeast Asia's Tourist Spots Are Open, but Visitors Are Scarce</a> NYT: Hopes for a revival of international tourism have fizzled amid restrictions, paperwork, a lack of flights and uncertainty around the Omicron variant. 
  <p class="updated_time"> 07:36 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59715820?at_medium=RSS&at_campaign=KARANGA">Covid: Germany tightens restrictions on UK travellers</a> BBC: Germany follows France in banning British tourists and business travellers over Omicron concerns. 
  <p class="updated_time"> 06:29 PM CT, Dec. 18 </p> 
@@ -71,6 +79,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html">Oriol Bohigas, Architect Who Helped Transform Barcelona, Dies at 95</a> NYT: He was a mastermind of the city’s overhaul in preparation for the 1992 Summer Olympics, which helped turn it into a major tourist destination. 
  <p class="updated_time"> 12:43 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/middleeast/baghdad-book-fair-iraq.html">Reveling in the Joys of Books, and Reading, at a Baghdad Book Fair</a> NYT: Iraq is home to literary traditions ancient and modern, and to legions of avid readers who find a new book more meaningful to them than a new government. 
+ <p class="updated_time"> 11:57 AM CT, Dec. 18 </p> 
+ <a href="https://www.wsj.com/articles/irans-top-diplomat-in-yemen-leaves-the-country-11639868219">Iran's Top Diplomat in Yemen Leaves the Country</a> WSJ: Hassan Irloo flew out of the country in an agreement between Houthi militants controlling the capital and Saudi Arabia, according to regional officials. 
  <p class="updated_time"> 11:28 AM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-kent-59710100?at_medium=RSS&at_campaign=KARANGA">Migrant crossings: More than 900 cross Channel in two days</a> BBC: Nearly 28,000 people have now crossed from France to England in small boats this year. 
  <p class="updated_time"> 11:00 AM CT, Dec. 18 </p> 
@@ -91,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065477225/activists-in-hong-kong-plan-not-to-vote-or-to-cast-blank-ballots-in-upcoming-ele">Activists in Hong Kong plan not to vote or to cast blank ballots in upcoming election</a> NPR: Hong Kong has legislative elections on Sunday, but new rules favor candidates friendly towards the Beijing government. Activists say people can protest by not voting or by casting blank ballots. 
  <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065477169/haitian-soup-joumou-awarded-protected-cultural-heritage-status-by-unesco">Haitian soup joumou awarded protected cultural heritage status by UNESCO</a> NPR: A famed Haitian soup has been awarded "protected cultural heritage status" by UNESCO. Scott Simon talks to Dominique Dupuy, Haitian ambassador to UNESCO about joumou. 
- <p class="updated_time"> 06:05 AM CT, Dec. 18 </p> 
- <a href="https://www.wsj.com/articles/taiwan-voters-back-ruling-party-in-referendum-removing-obstacle-to-u-s-trade-deal-11639844622">Taiwan Voters Back Ruling Party in Referendum</a> WSJ: The vote is a setback for Beijing that removes a key obstacle to a U.S. trade deal. 
  <p class="updated_time"> 05:41 AM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59527051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Key moments in the trial so far</a> BBC: Ghislaine Maxwell is accused of grooming girls for abuse by late paedophile Jeffrey Epstein. 
  <p class="updated_time"> 05:37 AM CT, Dec. 18 </p> 
@@ -103,12 +111,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/canada/newfoundland-atlantic-pandemic.html">Why Are So Many Canadians Moving to the Atlantic Provinces?</a> NYT: A Times reporter fulfills his lifelong dream of visiting Newfoundland and explores why so many Canadians are moving to the country’s Atlantic provinces. 
  <p class="updated_time"> 04:26 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065470550/russia-envoy-says-moscow-might-up-the-ante-if-the-west-ignores-its-demands">Russia envoy says Moscow might up the ante if the West ignores its demands</a> NPR: Deputy Foreign Minister Sergei Ryabkov accused Western allies of continuously pushing the envelope in relations with Russia. 
- <p class="updated_time"> 04:00 AM CT, Dec. 18 </p> 
- <a href="https://www.wsj.com/articles/some-cities-turn-to-decriminalizing-drugs-as-overdoses-climb-11639839602">Some Cities Turn to Decriminalizing Drugs as Overdoses Climb</a> WSJ: Officials say they are seeking ways of handling an overdose epidemic that has swept across North America, fueled by an increasingly toxic drug supply that has overwhelmed the black market. 
  <p class="updated_time"> 03:53 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065468764/pakistan-is-trying-to-rally-muslim-countries-to-help-afghanistan">Pakistan is trying to rally Muslim countries to help Afghanistan</a> NPR: Pakistan's foreign minister said his message to Sunday meeting is "Please do not abandon Afghanistan. Please engage. We are speaking for the people of Afghanistan." 
- <p class="updated_time"> 03:00 AM CT, Dec. 18 </p> 
- <a href="https://www.wsj.com/articles/europes-ski-slopes-are-open-despite-omicron-at-least-for-now-11639836003">Europe Keeps Its Ski Slopes Open Despite Omicron</a> WSJ: Wide use of the European Union’s digital Covid-19 pass has encouraged skiers to take to the slopes in a boost to ski-lift operators and other local businesses. 
  <p class="updated_time"> 02:12 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065463755/police-search-house-of-man-linked-to-deadly-osaka-fire">Police search house of man linked to deadly Osaka fire</a> NPR: The possible suspect is believed to be among the three people who survived the fire and were in severe condition, police said. 
  <p class="updated_time"> 01:33 AM CT, Dec. 18 </p> 
@@ -145,24 +149,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/middleeast/iran-covid-trial-khamenei.html">‘Health Defenders’ Jailed in Iran Wanted to Sue Supreme Leader Over Covid</a> NYT: Two lawyers and a civil rights activist who were outspoken about Iran’s chaotic response to the pandemic and delays in its vaccine rollout are on trial now, charged with threatening national security. 
  <p class="updated_time"> 10:24 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/asia/myanmar-journalist-kyaw-torture.html">‘I Didn’t Look Like a Human’: Journalist Tells of Myanmar Torture</a> NYT: When Ko Aung Kyaw erased his cellphone contacts to protect his sources, he knew his interrogators would make him pay a horrific price. He did it anyway. 
- <p class="updated_time"> 10:18 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/white-house-considers-sending-ukraine-military-equipment-once-bound-for-afghanistan-11639757332">Biden Administration Considers Sending Ukraine Military Equipment Once Bound for Afghanistan</a> WSJ: The White House is considering a plan to redirect helicopters and other military equipment to help quickly reinforce its defenses amid a buildup of Russian troops near its border, U.S. and Ukrainian officials said. 
  <p class="updated_time"> 10:12 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/britain-records-more-than-93000-daily-infections-a-new-high.html">Britain records more than 93,000 daily infections, a new high.</a> NYT: Friday was the third consecutive day that the country’s case count set a record. 
  <p class="updated_time"> 10:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/japan-fire-osaka.html">Japan Fire Kills 24, With Arson Suspected</a> NYT: The fire consumed the fourth floor of the building in Osaka, which housed a medical office. 
  <p class="updated_time"> 09:18 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html">‘They Were Just Gone’: Two Baby Boys Survive Tornado in Kentucky</a> NYT: Without a basement, Clara Lutz of Barnsley, Ky., sheltered her infant grandsons in the bathtub for safety. A powerful tornado pulled the tub from her grip and sent the babies flying. 
- <p class="updated_time"> 08:28 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/omicron-variant-now-dominates-in-england-and-scotland-health-data-show-11639769289">Omicron Variant Now Dominates in England and Scotland, Health Data Show</a> WSJ: The U.K. reported a record number of new daily cases, and infections of the Covid-19 variant are estimated to be doubling in less than two days across much of England. 
  <p class="updated_time"> 08:11 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing a Blow to Boris Johnson</a> NYT: The governing party lost to the Liberal Democrats a district that it had represented for more than a century. 
  <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated, and at least 17 people died. 
  <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/americas/chile-adoption-pinochet.html">Stolen at Birth, Chilean Adoptees Uncover Their Past</a> NYT: Hundreds of Chileans adopted abroad have learned that they were trafficked. Investigators believe thousands of children may have been taken from their parents during Chile’s dictatorship. 
- <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
- <a href="https://www.wsj.com/articles/haitians-hoping-to-reach-u-s-stranded-in-chile-across-americas-11639753203">Haitians Hoping to Reach U.S. Stranded in Chile, Across Americas</a> WSJ: Chile’s presidential vote will decide the fate of the tens of thousands of Haitian migrants living there. If hard-line immigration policies are adopted, many of them might head to the U.S. border. 
  <p class="updated_time"> 11:30 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/australia/the-giant-who-lives-in-the-melbourne-museum.html">The Giant Who Lives in the Melbourne Museum</a> NYT: The world’s most complete triceratops skeleton ever found will go on display next year, displacing a beloved, if quirky, exhibit of taxidermy. 
  <p class="updated_time"> 08:59 PM CT, Dec. 16 </p> 
@@ -196,7 +194,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:17 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">Manchin says he won’t support Biden’s social spending bill</a> Politico: “I can’t get there,” he said. 
- <p class="updated_time"> 08:24 AM CT, Dec. 19 </p> 
+ <p class="updated_time"> 08:43 AM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">Manchin says he won't vote for Build Back Better Act</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 08:20 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/afghan-war-refugees.html">At Every Step, Afghans Coming to America Encounter Stumbling Blocks</a> NYT: U.S. officials concede that the system was unprepared. 
