@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:44 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/world/asia/sikh-temples-lynching.html">2 Lynchings Reported at Sikh Temples in India</a> NYT: One of the mob attacks took place at the Golden Temple, the holiest shrine for Sikhs. 
+ <p class="updated_time"> 11:59 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/world/asia/sikh-temples-lynching.html">2 Lynchings Reported at Sikh Temples in India</a> NYT: Enraged mobs attacked men they linked to acts of sacrilege, one at the Golden Temple, the holiest shrine for Sikhs. 
+ <p class="updated_time"> 11:57 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/world/europe/uk-lockdown-omicron-covid-boris-johnson.html">U.K. Weighing Lockdown Amid an Omicron Wave and Political Turmoil</a> NYT: Britain’s health secretary said on Sunday he wouldn’t rule out more restrictions before Christmas, but the prime minister would most likely face sharp pushback from his own party. 
  <p class="updated_time"> 11:25 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">Hong Kong Elections: How 'Patriots Only' Bolsters Beijing's Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials have urged the public to vote, but turnout Sunday was on track to hit a record low. 
  <p class="updated_time"> 11:10 AM CT, Dec. 19 </p> 
@@ -41,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/19/1065626402/chileans-vote-in-runoff-election-for-new-president">Chileans vote in runoff election for new president</a> NPR: Chileans choose a president today in a runoff election. People in a small coastal fishing village are unhappy the choice is between one candidate on the far right and another on the far left. 
  <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065626388/revival-of-the-iran-nuclear-deal-appears-far-off">Revival of the Iran nuclear deal appears far-off</a> NPR: Scott Detrow gets an update on the ongoing Iran-U.S. nuclear deal talks in Vienna from journalist Negar Mortazavi. 
+ <p class="updated_time"> 06:51 AM CT, Dec. 19 </p> 
+ <a href="https://www.wsj.com/articles/omicron-prompts-new-covid-19-restrictions-in-europe-11639921351">Omicron Prompts New Covid-19 Restrictions</a> WSJ: A lockdown in the Netherlands went into effect, while Germany said it would curb travel from the U.K. and Ireland imposed a curfew. 
  <p class="updated_time"> 06:26 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59717076?at_medium=RSS&at_campaign=KARANGA">Highlights from the career of architect Richard Rogers</a> BBC: Lord Rogers, who has died aged 88, designed the Millennium Dome and the Pompidou Centre. 
  <p class="updated_time"> 06:01 AM CT, Dec. 19 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/hong-kong-voters-widely-shun-election-for-beijing-approved-legislators-11639927626">Hong Kong Voters Widely Shun Election for Beijing-Approved Candidates</a> WSJ: Turnout at Sunday’s poll was on course to be a record low for legislative elections since the city returned to Chinese rule in 1997. 
  <p class="updated_time"> 04:00 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/japan-rakugo.html">She Broke Japan’s Comedic Barrier Playing Drunks and Fools (Yep, Men)</a> NYT: Niyo Katsura has won acclaim in rakugo, a classical form of Japanese storytelling, by doing anything onstage that a man can do. 
- <p class="updated_time"> 02:42 AM CT, Dec. 19 </p> 
- <a href="https://www.wsj.com/articles/omicron-prompts-new-covid-19-restrictions-in-europe-11639921351">Omicron Prompts New Covid-19 Restrictions</a> WSJ: A lockdown in the Netherlands went into effect, while Germany said it would curb travel from the U.K. and Ireland imposed a curfew. 
  <p class="updated_time"> 01:06 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/boxing/59716989?at_medium=RSS&at_campaign=KARANGA">Jake Paul: YouTube star knocks out Tyron Woodley in Florida for fifth win</a> BBC: Jake Paul calls his sixth-round knockout of Tyron Woodley "the moment of my life" after he extends his perfect record to five wins. 
  <p class="updated_time"> 01:00 AM CT, Dec. 19 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html">‘They Were Just Gone’: Two Baby Boys Survive Tornado in Kentucky</a> NYT: Without a basement, Clara Lutz of Barnsley, Ky., sheltered her infant grandsons in the bathtub for safety. A powerful tornado pulled the tub from her grip and sent the babies flying. 
  <p class="updated_time"> 08:11 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing a Blow to Boris Johnson</a> NYT: The governing party lost to the Liberal Democrats a district that it had represented for more than a century. 
- <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated, and at least 17 people died. 
  <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/americas/chile-adoption-pinochet.html">Stolen at Birth, Chilean Adoptees Uncover Their Past</a> NYT: Hundreds of Chileans adopted abroad have learned that they were trafficked. Investigators believe thousands of children may have been taken from their parents during Chile’s dictatorship. 
  <p class="updated_time"> 11:30 PM CT, Dec. 16 </p> 
@@ -193,11 +193,13 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 12:49 PM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/19/scoop-manchin-refused-a-call-from-wh-before-killing-bbb-495521">SCOOP: Manchin ‘refused’ a call from W.H. before killing BBB</a> Politico Playbook: And 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/19/scoop-manchin-refused-a-call-from-wh-before-killing-bbb-495521"> SCOOP: Manchin ‘refused’ a call from W.H. before killing BBB</a> Politico Playbook: And the latest coronavirus variant raises the alarm across the world. 
  <p class="updated_time"> 12:26 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/jared-polis-three-dose-vaccine-525532">Colorado governor supports redefining what it means to be fully vaccinated</a> Politico: Jared Polis also said the unvaccinated are “often victims of misinformation.” 
  <p class="updated_time"> 11:55 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/kinzinger-mccarthy-mcconnell-trump-525531">Kinzinger on McCarthy: ‘I don’t think history books are going to be kind to him’</a> Politico: The Illinois Republican contrasted Kevin McCarthy with Mitch McConnell. 
+ <p class="updated_time"> 11:50 AM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">Manchin says he won't vote for Build Back Better Act</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 11:43 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/johnny-isakson-dead.html">Johnny Isakson, Longtime Senator From Georgia, Is Dead at 76</a> NYT: He succeeded Newt Gingrich in the House. As a U.S. senator for 15 years, he was known for championing bipartisan cooperation. 
  <p class="updated_time"> 11:37 AM CT, Dec. 19 </p> 
@@ -206,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/us/politics/us-haiti-intervention.html">As U.S. Navigates Crisis in Haiti, a Bloody History Looms Large</a> NYT: American policy decisions are vital to understanding Haiti’s political instability, and why it remains the poorest country in the Western Hemisphere. 
  <p class="updated_time"> 11:20 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/fauci-hospitals-schools-covid-525510">Fauci worried about increased hospitalizations but hopeful about schools</a> Politico: “I don’t foresee the kind of lockdowns that we’ve seen before,” he also said. 
- <p class="updated_time"> 11:00 AM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">Manchin says he won't vote for Build Back Better Act</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 10:44 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065645938/johnny-isakson-former-georgia-senator-dies-at-76">Johnny Isakson, former GOP senator known for building consensus, dies at age 76</a> NPR: The former Georgia lawmaker rose from the ranks of the state Legislature to become a U.S. senator known as an effective, behind-the-scenes force for compromise. 
  <p class="updated_time"> 10:44 AM CT, Dec. 19 </p> 
@@ -430,8 +430,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/13/debt-limit-byrd-bath-and-manchin-meetings-495441">Debt limit, Byrd bath and Manchin meetings</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:08 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/13/all-eyes-on-the-joes-495439"> All eyes on the Joes</a> Politico Playbook: And Nancy Pelosi plays down retirement rumors. 
- <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430"> Harris trashes her media coverage</a> Politico Playbook: And Chris Wallace leaves Fox News. 
 
 
 </details>
