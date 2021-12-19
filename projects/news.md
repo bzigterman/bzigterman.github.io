@@ -33,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/asia/southeast-asian-tourism-covid.html">Southeast Asia's Tourist Spots Are Open, but Visitors Are Scarce</a> NYT: Hopes for a revival of international tourism have fizzled amid restrictions, paperwork, a lack of flights and uncertainty around the Omicron variant. 
  <p class="updated_time"> 09:32 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/japan-fire-osaka-arson.html">Japan Fire: Osaka Police Identify a Suspect, 61</a> NYT: A 61-year-old man, hospitalized after the fire at an Osaka psychiatric clinic, is being investigated on suspicion of arson and murder, the police said. 
+ <p class="updated_time"> 09:24 AM CT, Dec. 19 </p> 
+ <a href="https://www.wsj.com/articles/omicron-prompts-new-covid-19-restrictions-in-europe-11639921351">Omicron Prompts New Covid-19 Restrictions</a> WSJ: A lockdown in the Netherlands went into effect, while Germany said it would curb travel from the U.K. and Ireland imposed a curfew. 
  <p class="updated_time"> 09:11 AM CT, Dec. 19 </p> 
  <a href="https://www.wsj.com/articles/central-banks-worry-omicron-could-sustain-inflation-11639909805">Central Banks Worry Omicron Could Sustain Inflation</a> WSJ: Instead of loosening monetary policy to prop up their economies as they did at the start of the Covid-19 pandemic, central banks are moving to unwind stimulus and raise interest rates. 
  <p class="updated_time"> 09:09 AM CT, Dec. 19 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/biden-national-address-on-omicron.html">Biden to Address Nation About Omicron on Tuesday</a> NYT: The remarks are expected to detail how the United States will respond to the latest pandemic challenge. 
  <p class="updated_time"> 08:21 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59715937?at_medium=RSS&at_campaign=KARANGA">Man beaten to death for 'sacrilege' attempt at Sikh Golden Temple in India</a> BBC: Eyewitnesses allege the man had tried to commit a sacrilegious act at the Golden Temple in India. 
- <p class="updated_time"> 07:30 AM CT, Dec. 19 </p> 
- <a href="https://www.wsj.com/articles/omicron-prompts-new-covid-19-restrictions-in-europe-11639921351">Omicron Prompts New Covid-19 Restrictions</a> WSJ: A lockdown in the Netherlands went into effect, while Germany said it would curb travel from the U.K. and Ireland imposed a curfew. 
  <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065626402/chileans-vote-in-runoff-election-for-new-president">Chileans vote in runoff election for new president</a> NPR: Chileans choose a president today in a runoff election. People in a small coastal fishing village are unhappy the choice is between one candidate on the far right and another on the far left. 
  <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:32 PM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Manchin Pulls Support From Biden’s Social Policy Bill, Imperiling Its Passage</a> NYT: “I cannot vote to continue with this piece of legislation,” the centrist West Virginia senator said on “Fox News Sunday,” citing concerns about adding to the national debt. 
  <p class="updated_time"> 01:52 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/afghan-war-refugees.html">At Every Step, Afghans Coming to America Encounter Stumbling Blocks</a> NYT: U.S. officials concede that the system was unprepared. 
  <p class="updated_time"> 01:51 PM CT, Dec. 19 </p> 
@@ -210,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/kinzinger-mccarthy-mcconnell-trump-525531">Kinzinger on McCarthy: ‘I don’t think history books are going to be kind to him’</a> Politico: The Illinois Republican contrasted Kevin McCarthy with Mitch McConnell. 
  <p class="updated_time"> 11:43 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/johnny-isakson-dead.html">Johnny Isakson, Longtime Senator From Georgia, Is Dead at 76</a> NYT: He succeeded Newt Gingrich in the House. As a U.S. senator for 15 years, he was known for championing bipartisan cooperation. 
- <p class="updated_time"> 11:37 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Manchin Pulls Support From Biden’s Social Policy Bill, Imperiling Its Passage</a> NYT: “I cannot vote to continue with this piece of legislation,” the centrist West Virginia senator said on “Fox News Sunday,” citing concerns about adding to the national debt. 
  <p class="updated_time"> 11:32 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/us-haiti-intervention.html">As U.S. Navigates Crisis in Haiti, a Bloody History Looms Large</a> NYT: American policy decisions are vital to understanding Haiti’s political instability, and why it remains the poorest country in the Western Hemisphere. 
  <p class="updated_time"> 11:20 AM CT, Dec. 19 </p> 
