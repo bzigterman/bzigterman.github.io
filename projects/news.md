@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:55 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/washington-senator-covid-dead-doug-eriksen.html">Washington State Senator Doug Eriksen Died After Covid Infection</a> NYT: Doug Ericksen was a Republican who helped lead opposition to Washington State’s Covid-19 emergency orders and vaccine mandates. 
+ <p class="updated_time"> 08:48 AM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: LegCo vote after electoral overhaul</a> BBC: Only candidates deemed to be "patriots" by Beijing can stand in the legislative council election. 
  <p class="updated_time"> 08:45 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/southeast-asian-tourism-covid.html">Southeast Asia's Tourist Spots Are Open, but Visitors Are Scarce</a> NYT: Hopes for a revival of international tourism have fizzled amid restrictions, paperwork, a lack of flights and uncertainty around the Omicron variant. 
  <p class="updated_time"> 08:45 AM CT, Dec. 19 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/19/1062792638/our-11-most-read-global-pandemic-stories-of-2021">Our 11 most-read global pandemic stories of 2021</a> NPR: From India to Israel to white-tailed deer in Iowa harboring the coronavirus, our top COVID stories of the year reveal the ever-changing nature of the world's health crisis. 
  <p class="updated_time"> 05:15 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59717345?at_medium=RSS&at_campaign=KARANGA">West Bank ambush suspects captured, Israel says</a> BBC: The army says it has caught Palestinians suspected of a deadly attack in the occupied West Bank. 
- <p class="updated_time"> 04:10 AM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Legco voting underway after electoral overhaul</a> BBC: Only candidates deemed to be "patriots" by Beijing can stand in the legislative council election. 
  <p class="updated_time"> 04:00 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/japan-rakugo.html">She Broke Japan’s Comedic Barrier Playing Drunks and Fools (Yep, Men)</a> NYT: Niyo Katsura has won acclaim in rakugo, a classical form of Japanese storytelling, by doing anything onstage that a man can do. 
  <p class="updated_time"> 04:00 AM CT, Dec. 19 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
  <p class="updated_time"> 03:56 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
- <p class="updated_time"> 03:45 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html">NATO Signals Support for Ukraine Amid Russia Threat</a> NYT: The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion. 
  <p class="updated_time"> 02:16 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/covid-pandemic-story.html">In 50 Words, Tell Us Your Best Pandemic Story</a> NYT: We want to hear about your Covid memories. 
  <p class="updated_time"> 11:33 AM CT, Dec. 16 </p> 
@@ -193,7 +193,11 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 09:17 AM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">Manchin says he won’t support Biden’s social spending bill</a> Politico: “I can’t get there,” he said. 
+ <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">Manchin says he won’t support Biden’s social spending bill</a> Politico: “I can’t get there,” he said in an interview on "Fox News Sunday." 
+ <p class="updated_time"> 08:59 AM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Joe Manchin Says He Can't Support Build Back Better Act</a> NYT: “I cannot vote to continue with this piece of legislation,” Mr. Manchin said on ‘Fox News Sunday,’ citing concerns about adding to the national debt. 
+ <p class="updated_time"> 08:51 AM CT, Dec. 19 </p> 
+ <a href="https://www.npr.org/2021/12/19/1065636709/joe-manchin-says-he-cannot-support-bidens-build-back-better-plan">Joe Manchin says he is unable to support President Biden's Build Back Better plan </a> NPR: The announcement by the West Virginia Democrat dooms the $2 trillion social spending and climate legislation, which needs support from every Senate Democrat in order to pass through the 50-50 chamber. 
  <p class="updated_time"> 08:43 AM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">Manchin says he won't vote for Build Back Better Act</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 08:20 AM CT, Dec. 19 </p> 
@@ -296,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/17/1065304172/robert-palmer-capitol-riot-jan-6-sentence">Capitol rioter who attacked police is sentenced to more than 5 years in prison</a> NPR: The judge said she wanted to make clear with the sentence that "trying to stop the peaceful transition of power and assaulting law enforcement officers is going to be met with certain punishment." 
  <p class="updated_time"> 03:20 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065311977/biden-and-democrats-admit-they-wont-be-passing-build-back-better-before-christma">Biden and Democrats admit they won't be passing Build Back Better before Christmas</a> NPR: After a flurry of last-ditch meetings and negotiations, President Biden and Senate Democrats are admitting they don't have the votes to pass Biden's social and climate spending package by Christmas. 
- <p class="updated_time"> 03:20 PM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065311963/analyzing-the-biden-administrations-year-in-foreign-policy-toward-china-and-russ">Analyzing the Biden administration's year in foreign policy toward China and Russia</a> NPR: As the year comes to a close, here's where U.S. foreign policy toward Russia and China stands — and what we might expect in 2022. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
  <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
@@ -359,8 +361,6 @@ permalink: /projects/news/
  <p class="updated_time"> 05:44 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-meadows-525172">Jan. 6 committee subpoenas author of debunked election-fraud PowerPoint sent to Meadows</a> Politico: James P. “Phil” Waldron, a retired Army colonel, is asked to provide documents by Jan. 10 and sit for a deposition. 
  <p class="updated_time"> 05:30 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/democrats-latinos.html">Democrats Find Urgent New Reasons to Worry About Latino Voters</a> NYT: Two reports shed light on the issues driving Hispanic voters and why their support of the Democratic Party is eroding. 
- <p class="updated_time"> 05:30 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/joe-biden-warning-winter/index.html">Biden warns of winter of 'severe illness and death' for unvaccinated due to Omicron </a> CNN: President Joe Biden said on Thursday warned people who are not vaccinated against Covid-19 are looking at a very bleak and dangerous winter if they do not get their shots soon. 
  <p class="updated_time"> 05:03 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden awards Medal of Honor to 3 soldiers, including the first African American since the Vietnam War</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
@@ -394,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats’ filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
  <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/trump-january-6-obstruction-law-524806">Jan. 6 investigators mull whether Trump violated obstruction law</a> Politico: Rep. Liz Cheney (R-Wyo.) raised the question using precise terminology from the criminal statute that some view as possibly applicable to the former president's actions. 
- <p class="updated_time"> 05:04 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/omicron-covid-testing-524820">HHS forecast shows Omicron stretching U.S. Covid testing supply</a> Politico: The nation's supply could be stretched by the need to conduct 3 to 5 million tests per day by late January or early February. 
  <p class="updated_time"> 04:01 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/health-care-spending-increase-pandemic-524793">Health spending growth more than doubled in first year of pandemic</a> Politico: Nearly the entire increase came from the burst of federal spending as the government mobilized to contain the spread of the virus. 
  <p class="updated_time"> 07:35 AM CT, Dec. 15 </p> 
