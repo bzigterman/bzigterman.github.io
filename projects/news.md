@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:22 PM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59715937?at_medium=RSS&at_campaign=KARANGA">Man beaten to death for 'sacrilege' attempt at Sikh Golden Temple in India</a> BBC: Eyewitnesses allege the man had tried to commit a sacrilegious act at the Golden Temple in India. 
+ <p class="updated_time"> 10:55 PM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59715940?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch go into Christmas lockdown over Omicron wave</a> BBC: Non-essential shops, schools, bars and other public venues have been closed until at least 14 January. 
  <p class="updated_time"> 10:44 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/europe/brexit-david-frost-resigns.html">David Frost, Brexit Negotiator, Resigns in Another Blow to Boris Johnson</a> NYT: The move puts new pressure on the prime minister, whose leadership has been called into question by a series of setbacks, including a new wave of Covid infections. 
  <p class="updated_time"> 10:34 PM CT, Dec. 18 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/europe/britain-johnson-omicron-politics.html">For Johnson, a Political Rebuke as Omicron Variant Engulfs Britain</a> NYT: The prime minister’s Conservative Party lost a seat it had held for more than a century, a loss that could hamper his efforts to address the Omicron variant now sweeping Britain. 
  <p class="updated_time"> 09:26 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/biden-national-address-on-omicron.html">Biden to Address Nation About Omicron on Tuesday</a> NYT: The remarks are expected to ‘detail how we will respond to’ the latest pandemic challenge. 
- <p class="updated_time"> 08:49 PM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59715937?at_medium=RSS&at_campaign=KARANGA">Man beaten to death for 'sacrilege' attempt at Sikh Golden Temple in India</a> BBC: Eyewitnesses allege the man had tried to commit a sacrilegious act at the Golden Temple in India. 
  <p class="updated_time"> 08:28 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/japan-fire-osaka-arson.html">Japan Fire: Osaka Police Identify a Suspect, 61</a> NYT: A 61-year-old man, hospitalized after the fire at an Osaka psychiatric clinic, is being investigated on suspicion of arson and murder, the police said. 
  <p class="updated_time"> 08:10 PM CT, Dec. 18 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59632733?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Why the Legco elections are so controversial</a> BBC: Sweeping changes put in place by China altered the way the city chooses its lawmakers this year. 
  <p class="updated_time"> 06:04 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59659881?at_medium=RSS&at_campaign=KARANGA">BBC Bitcoin mining report used in crypto-scam</a> BBC: The BBC’s Silicon Valley correspondent investigates how his report was used to steal life savings. 
- <p class="updated_time"> 04:08 PM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59713503?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch go into Christmas lockdown over Omicron wave</a> BBC: Non-essential shops, schools, bars, restaurants and other public venues will be closed until at least mid-January. 
  <p class="updated_time"> 04:04 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/london-major-incident.html">With Omicron Surging, London Declares a ‘Major Incident'</a> NYT: The Greater London area has seen cases rise by nearly 200 percent over the last two weeks, making it the hardest hit area of Britain. 
  <p class="updated_time"> 04:03 PM CT, Dec. 18 </p> 
