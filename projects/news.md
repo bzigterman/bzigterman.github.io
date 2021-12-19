@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:01 AM CT, Dec. 19 </p> 
+ <a href="https://www.npr.org/2021/12/19/1062091832/flying-tigers-americans-china-world-war-ii-history-japan">The Flying Tigers: How a group of Americans ended up fighting for China in WW II</a> NPR: In 1941, Japan was on the offensive against China. So China hired a group of Americans to fight back in the skies. Eighty years ago this week, they fought in their first battle. 
+ <p class="updated_time"> 06:00 AM CT, Dec. 19 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/12/19/1062792638/our-11-most-read-global-pandemic-stories-of-2021">Our 11 most-read global pandemic stories of 2021</a> NPR: From India to Israel to white-tailed deer in Iowa harboring the coronavirus, our top COVID stories of the year reveal the ever-changing nature of the world's health crisis. 
  <p class="updated_time"> 05:17 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59715937?at_medium=RSS&at_campaign=KARANGA">Man beaten to death for 'sacrilege' attempt at Sikh Golden Temple in India</a> BBC: Eyewitnesses allege the man had tried to commit a sacrilegious act at the Golden Temple in India. 
  <p class="updated_time"> 05:15 AM CT, Dec. 19 </p> 
@@ -41,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59715820?at_medium=RSS&at_campaign=KARANGA">Covid: Germany tightens restrictions on UK travellers</a> BBC: Germany follows France in banning British tourists and business travellers over Omicron concerns. 
  <p class="updated_time"> 06:29 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59712015?at_medium=RSS&at_campaign=KARANGA">Covid: French ski season in disarray as UK tourists banned</a> BBC: Snow on the slopes of Mont Blanc is the best Chamonix has seen in years - but few Brits will enjoy it. 
+ <p class="updated_time"> 06:13 PM CT, Dec. 18 </p> 
+ <a href="https://www.bbc.co.uk/sport/boxing/59692720?at_medium=RSS&at_campaign=KARANGA">Derek Chisora v Joseph Parker II: New Zealander beats Briton on points in Manchester</a> BBC: New Zealand heavyweight Joseph Parker secures a brilliant points win over Britain's Derek Chisora in a thrilling fight at the AO Arena in Manchester. 
  <p class="updated_time"> 06:08 PM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59699350?at_medium=RSS&at_campaign=KARANGA">Wagner Group: Why the EU is alarmed by Russian mercenaries in Central Africa</a> BBC: The shadowy Russian mercenary group, allegedly linked to the Kremlin, has been accused of rights abuses. 
  <p class="updated_time"> 06:05 PM CT, Dec. 18 </p> 
@@ -57,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html">Oriol Bohigas, Architect Who Helped Transform Barcelona, Dies at 95</a> NYT: He was a mastermind of the city’s overhaul in preparation for the 1992 Summer Olympics, which helped turn it into a major tourist destination. 
  <p class="updated_time"> 12:43 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/middleeast/baghdad-book-fair-iraq.html">Reveling in the Joys of Books, and Reading, at a Baghdad Book Fair</a> NYT: Iraq is home to literary traditions ancient and modern, and to legions of avid readers who find a new book more meaningful to them than a new government. 
- <p class="updated_time"> 12:00 PM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/sport/sports-personality/59700067?at_medium=RSS&at_campaign=KARANGA">Sports Personality 2021: Simone Biles honoured with Lifetime Achievement award</a> BBC: American gymnast Simone Biles has been honoured with BBC Sports Personality of the Year's Lifetime Achievement award. 
  <p class="updated_time"> 11:28 AM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-kent-59710100?at_medium=RSS&at_campaign=KARANGA">Migrant crossings: More than 900 cross Channel in two days</a> BBC: Nearly 28,000 people have now crossed from France to England in small boats this year. 
  <p class="updated_time"> 11:00 AM CT, Dec. 18 </p> 
@@ -135,10 +139,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/17/1065312039/hell-on-earth-afghans-have-to-choose-between-feeding-or-heating-according-to-wfp">'Hell on Earth': Afghans have to choose between feeding or heating, according to WFP</a> NPR: NPR's Mary Louise Kelly speaks with David Beasley, executive director of the World Food Program (WFP), about hunger in Afghanistan. 
  <p class="updated_time"> 03:23 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Recommends Pfizer or Moderna Vaccines Over J.&J</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
- <p class="updated_time"> 03:20 PM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065311963/analyzing-the-biden-administrations-year-in-foreign-policy-toward-china-and-russ">Analyzing the Biden administration's year in foreign policy toward China and Russia</a> NPR: As the year comes to a close, here's where U.S. foreign policy toward Russia and China stands — and what we might expect in 2022. 
- <p class="updated_time"> 02:32 PM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/12/17/1064946655/coronavirus-faq-is-it-ok-for-the-kids-to-take-a-pic-with-santa">Coronavirus FAQ: Is it OK for the kids to take a pic with Santa? </a> NPR: Plus: Is it safe to go to a holiday party if not everyone is vaccinated? And are people getting different side effects from the COVID booster? 
  <p class="updated_time"> 01:19 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/south-africa-omicron-hospitalizations.html">South Africa Hospitalizations Lower in Omicron Wave, but Caveats Apply</a> NYT: Researchers warned that the epicenter of the country’s outbreak is more highly vaccinated than others, and that natural immunity is also high. 
  <p class="updated_time"> 10:27 AM CT, Dec. 17 </p> 
@@ -157,8 +157,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/omicron-variant-now-dominates-in-england-and-scotland-health-data-show-11639769289">Omicron Variant Now Dominates in England and Scotland, Health Data Show</a> WSJ: The U.K. reported a record number of new daily cases, and infections of the Covid-19 variant are estimated to be doubling in less than two days across much of England. 
  <p class="updated_time"> 08:11 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing a Blow to Boris Johnson</a> NYT: The governing party lost to the Liberal Democrats a district that it had represented for more than a century. 
- <p class="updated_time"> 07:47 AM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59696503?at_medium=RSS&at_campaign=KARANGA">Two teens slide to safety from fourth floor New York apartment fire</a> BBC: Watch this dramatic video of them escaping through a window and sliding down a pole to the ground. 
+ <p class="updated_time"> 06:20 AM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html">Super Typhoon Rai Hits the Philippines</a> NYT: Nearly 100,000 people in several regions were evacuated, and at least 17 people died. 
  <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/americas/chile-adoption-pinochet.html">Stolen at Birth, Chilean Adoptees Uncover Their Past</a> NYT: Hundreds of Chileans adopted abroad have learned that they were trafficked. Investigators believe thousands of children may have been taken from their parents during Chile’s dictatorship. 
  <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
@@ -167,8 +167,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/australia/the-giant-who-lives-in-the-melbourne-museum.html">The Giant Who Lives in the Melbourne Museum</a> NYT: The world’s most complete triceratops skeleton ever found will go on display next year, displacing a beloved, if quirky, exhibit of taxidermy. 
  <p class="updated_time"> 08:59 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/coronavirus-omicron-variant.html">Scientists Are Racing to Gauge the Threat of Omicron</a> NYT: The variant will spread quickly through the United States, experts say. What happens after that is less certain. 
+ <p class="updated_time"> 08:51 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html">Hu Xijin, Chief of China's Global Times, Will Retire</a> NYT: Mr. Hu, editor of the Communist Party tabloid Global Times, set the tone for a new generation of Chinese pundits with his flair for verbal combat. 
  <p class="updated_time"> 04:44 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
+ <p class="updated_time"> 03:56 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html">France Bans Nonessential Travel With U.K. Over Omicron Surge </a> NYT: The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain. 
+ <p class="updated_time"> 03:45 PM CT, Dec. 16 </p> 
+ <a href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html">NATO Signals Support for Ukraine Amid Russia Threat</a> NYT: The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion. 
  <p class="updated_time"> 02:16 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/covid-pandemic-story.html">In 50 Words, Tell Us Your Best Pandemic Story</a> NYT: We want to hear about your Covid memories. 
  <p class="updated_time"> 11:33 AM CT, Dec. 16 </p> 
@@ -188,6 +194,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
+ <a href="https://www.politico.com/news/2021/12/19/black-lawmakers-diversity-lobbying-firms-525362">Black lawmakers to K Street: Diversify or we’ll cut you off</a> Politico: Years of frustration with the racial composition of the political influence industry have begun to boil over. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
+ <a href="https://www.politico.com/news/2021/12/19/surprise-medical-bills-insurance-525304">'A lot of money on the table': Fight brews over surprise medical bills</a> Politico: The outcome could swing billions of dollars in payments, significantly influence how doctors and hospitals negotiate prices with insurers and possibly affect premiums for millions of Americans. 
+ <p class="updated_time"> 06:56 AM CT, Dec. 19 </p> 
+ <a href="https://www.politico.com/news/2021/12/19/iraq-military-2-rockets-strike-inside-green-zone-525389">Iraq military: 2 rockets strike inside Green Zone</a> Politico: The area is home to the U.S, embassy 
  <p class="updated_time"> 02:00 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/us-haiti-intervention.html">As U.S. Navigates Crisis in Haiti, a Bloody History Looms Large</a> NYT: American policy decisions are vital to understanding Haiti’s political instability, and why it remains the poorest country in the Western Hemisphere. 
  <p class="updated_time"> 02:00 AM CT, Dec. 19 </p> 
@@ -322,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/17/politics/omicron-biden-covid-politics/index.html">Omicron battle brings delicate questions for a weary nation</a> CNN: The Omicron winter is coming. 
  <p class="updated_time"> 04:31 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/gop-trump-oust-mcconnell-525207">GOP blows off Trump’s bid to oust McConnell</a> Politico: Just two Senate candidates — and no senators — have publicly called for replacing the Republican leader. 
- <p class="updated_time"> 04:30 AM CT, Dec. 17 </p> 
- <a href="https://www.politico.com/cartoons/2021/12/17/the-nations-cartoonists-on-the-week-in-politics-000272">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:07 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/senate-race-rankings-december/index.html">The 10 Senate seats most likely to flip in 2022</a> CNN: As the calendar turns to 2022, Senate races are about to kick into much higher gear, with ad spending increasing ahead of the first primaries in May and just a few more fundraising quarters for candidates to prove they're serious 
  <p class="updated_time"> 04:02 AM CT, Dec. 17 </p> 
@@ -336,6 +346,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-immigration-build-back-better.html">Biden Says Build Back Better Bill Will Take More Time</a> NYT: A top Senate official ruled that a measure to grant legal status to millions of undocumented immigrants must come out of the plan, as President Biden said a final deal would take more time. 
  <p class="updated_time"> 08:13 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/rnc-trump-investigations.html">R.N.C. Is Said to Agree to Pay Up to $1.6 Million of Trump’s Personal Legal Bills</a> NYT: Under the unusual arrangement, the Republican Party is paying to defend the former president as he faces investigations into his private business practices. 
+ <p class="updated_time"> 07:47 PM CT, Dec. 16 </p> 
+ <a href="https://www.politico.com/news/2021/12/16/michael-flynn-relatives-cnn-lawsuit-525200">Judge allows Michael Flynn relatives to proceed with suit against CNN</a> Politico: The ruling will permit the former Trump national security adviser’s brother and sister-in-law to pursue a “false light” claim over news reports linking them to QAnon. 
  <p class="updated_time"> 07:43 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-build-back-better-miss-deadline-senate/index.html">Biden officially acknowledges Build Back Better will miss deadline but says he's 'determined' to see bill on Senate floor 'as early as possible'</a> CNN: President Joe Biden, in a lengthy statement, implicitly acknowledged ongoing negotiations with Sen. Joe Manchin and procedural steps will cause Democrats to miss the Christmas deadline for Senate passage of his $1.75 trillion economic and climate package, noting that Democrats will continue to work together "over the days and weeks ahead" to get the proposal to the Senate floor. 
  <p class="updated_time"> 07:20 PM CT, Dec. 16 </p> 
@@ -392,8 +404,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/15/a-junkies-guide-to-the-2022-midterms-495470"> A junkie’s guide to the 2022 midterms</a> Politico Playbook: And the House votes to hold Mark Meadows in contempt of Congress. 
  <p class="updated_time"> 11:41 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/house-islam-omar-perry-boebert-524536">Amid caustic rhetoric, House votes to combat Islamophobia</a> Politico: Rep. Scott Perry accused Rep. Ilhan Omar of connections to terrorism. 
- <p class="updated_time"> 08:31 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/eastman-sues-jan6-records-524441">Eastman sues Jan. 6 committee and Verizon to prevent release of phone records</a> Politico: A similar lawsuit was filed Monday by four organizers of the Jan. 6 rally, 
  <p class="updated_time"> 06:02 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/democrats-cruz-hawley-biden-ambassadors-524220">Dems launch talks to break Cruz-Hawley blockade of Biden ambassadors</a> Politico: But while the price for one GOP 2024 contender's help is clear, another is less open about what it'll take to ease his holds. 
  <p class="updated_time"> 05:45 PM CT, Dec. 14 </p> 
@@ -422,8 +432,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/13/debt-limit-byrd-bath-and-manchin-meetings-495441">Debt limit, Byrd bath and Manchin meetings</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:08 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/13/all-eyes-on-the-joes-495439"> All eyes on the Joes</a> Politico Playbook: And Nancy Pelosi plays down retirement rumors. 
- <p class="updated_time"> 04:31 AM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/jeffries-mccarthy-house-election-524100">‘Who is he?’ The X-factor relationship that could soon rule the House</a> Politico: Hakeem Jeffries and Kevin McCarthy may well lead their parties in the lower chamber come 2023. But their relationship is a black box. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430"> Harris trashes her media coverage</a> Politico Playbook: And Chris Wallace leaves Fox News. 
 
