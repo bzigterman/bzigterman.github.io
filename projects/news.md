@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:18 AM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1065722642/pro-beijing-candidates-sweep-hong-kong-elections">Pro-Beijing candidates sweep Hong Kong elections</a> NPR: Hong Kong leader Carrie Lam said she was "satisfied" with the election despite the 30.2% voter turnout being the lowest since the British handed Hong Kong over to China in 1997. 
  <p class="updated_time"> 01:26 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59723676?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star denies making assault claim as concerns persist</a> BBC: The Chinese tennis star says her post was misunderstood, but the WTA continues to call for a probe. 
  <p class="updated_time"> 12:38 AM CT, Dec. 20 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Moscow masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected. 
  <p class="updated_time"> 04:06 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/2021/12/17/1065246985/brazil-wildfires-17-million-animals-killed">Nearly 17 million animals died in wildfires in Brazil's wetlands last year</a> NPR: The estimate comes from scientists who examined the number of carcasses they found up to 48 hours after a fire event. The rate of climate change makes such wildfires inevitable, they say. 
- <p class="updated_time"> 04:06 PM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065312088/pinatas-a-staple-in-christmas-traditions">Piñatas: A staple in Christmas traditions</a> NPR: Piñatas are a common element in parties across different countries and especially in Mexico around Christmas time. The story of their origin combines cultures, traditions and religions. 
  <p class="updated_time"> 03:23 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Recommends Pfizer or Moderna Vaccines Over J.&J</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
  <p class="updated_time"> 01:19 PM CT, Dec. 17 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/amtrak-expansion-funding-infrastructure-bill.html">Billions in Amtrak Funding Could Modernize Aging Rail System</a> NYT: The $1 trillion infrastructure bill that President Biden signed into law includes money that Amtrak hopes can fix crumbling bridges and tunnels along the Northeast Corridor. 
  <p class="updated_time"> 09:50 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">3 Democratic lawmakers announce positive Covid-19 tests</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
  <p class="updated_time"> 08:01 PM CT, Dec. 19 </p> 
@@ -364,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/us/black-history-2021.html">The Biggest Black History Events in 2021</a> NYT: After the tumult and triumphs of 2020, here are the achievements that shaped the first year following the country’s racial reckoning. 
  <p class="updated_time"> 11:25 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/florida-parent-power-elections-moms-for-liberty/index.html">How two Florida moms spearheaded a parent movement aiming to impact the 2022 elections</a> CNN: Tucked away in the back of an office in a Florida strip mall is a tidy storage room filled with hundreds of navy blue t-shirts, hats, flags and even Christmas decor.   
- <p class="updated_time"> 10:53 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-immigration-build-back-better.html">Biden Says Build Back Better Bill Will Take More Time</a> NYT: A top Senate official ruled that a measure to grant legal status to millions of undocumented immigrants must come out of the plan, as President Biden said a final deal would take more time. 
  <p class="updated_time"> 08:13 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/rnc-trump-investigations.html">R.N.C. Is Said to Agree to Pay Up to $1.6 Million of Trump’s Personal Legal Bills</a> NYT: Under the unusual arrangement, the Republican Party is paying to defend the former president as he faces investigations into his private business practices. 
  <p class="updated_time"> 07:43 PM CT, Dec. 16 </p> 
