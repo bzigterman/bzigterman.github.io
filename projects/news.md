@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:04 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Pro-Beijing candidates sweep controversial LegCo election</a> BBC: The results for the controversial poll come after the city saw its lowest ever voter turnout. 
+ <p class="updated_time"> 09:01 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59714272?at_medium=RSS&at_campaign=KARANGA">Covid: Christmas travel will fuel spread of Omicron, US expert warns</a> BBC: The US infectious disease expert says the Covid-19 variant will spread - even among the vaccinated. 
  <p class="updated_time"> 08:40 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
  <p class="updated_time"> 08:19 PM CT, Dec. 19 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59721962?at_medium=RSS&at_campaign=KARANGA">Iran execution of Heidar Ghorbani sparks rare anti-government protest</a> BBC: The death sentence handed to Kurdish man Heidar Ghorbani was viewed by rights groups as political. 
  <p class="updated_time"> 03:49 PM CT, Dec. 19 </p> 
  <a href="https://www.wsj.com/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003">Gabriel Boric Wins Chile's Presidential Election at Age 35</a> WSJ: The leftist and former student protest leader pledges to hike taxes and dismantle a private pension system in Latin America’s richest nation. 
- <p class="updated_time"> 03:30 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: LegCo vote after electoral overhaul sees record low turnout</a> BBC: Only 30.2% took part in the vote - the lowest turnout in Hong Kong's election history. 
  <p class="updated_time"> 03:28 PM CT, Dec. 19 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-voters-widely-shun-election-for-beijing-approved-legislators-11639927626">Hong Kong Voters Widely Shun Election for Beijing-Approved Candidates</a> WSJ: Turnout at Sunday’s poll was a record low for legislative elections since the city returned to Chinese rule in 1997. 
  <p class="updated_time"> 03:05 PM CT, Dec. 19 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/world/europe/uk-lockdown-omicron-covid-boris-johnson.html">U.K. Weighing Lockdown Amid an Omicron Wave and Political Turmoil</a> NYT: Britain’s health secretary said on Sunday he wouldn’t rule out more restrictions before Christmas, but the prime minister would most likely face sharp pushback from his own party. 
  <p class="updated_time"> 01:47 PM CT, Dec. 19 </p> 
  <a href="https://www.wsj.com/articles/omicron-prompts-new-covid-19-restrictions-in-europe-11639921351">Omicron Prompts New Covid-19 Restrictions</a> WSJ: Europe set in place new restrictions in an effort to stem the spread of Omicron. In the U.S., Dr. Anthony Fauci warned that the variant is likely to strain American hospitals in the coming weeks. 
- <p class="updated_time"> 12:51 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59714272?at_medium=RSS&at_campaign=KARANGA">Covid: Christmas travel will fuel spread of Omicron, US expert warns</a> BBC: The US infectious disease expert says the Covid-19 variant will spread - even among the vaccinated. 
  <p class="updated_time"> 12:37 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/lucia-hiriart-dead.html">Lucía Hiriart, Powerful Wife of Chile’s Dictator, Dies at 98</a> NYT: Her husband, Augusto Pinochet, acknowledged that she had pushed him to participate in the 1973 coup that brought him to power in 1973. 
  <p class="updated_time"> 12:01 PM CT, Dec. 19 </p> 
