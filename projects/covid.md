@@ -1143,13 +1143,13 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">121.0K</td>
-<td class="gt_row gt_right">127.0K</td>
-<td class="gt_row gt_right">+5&percnt;</td></tr>
+<td class="gt_row gt_right">122.0K</td>
+<td class="gt_row gt_right">130.0K</td>
+<td class="gt_row gt_right">+7&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">54.6K</td>
+<td class="gt_row gt_right gt_striped">55.7K</td>
 <td class="gt_row gt_right gt_striped">62.8K</td>
-<td class="gt_row gt_right gt_striped">+15&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">+13&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
 <td class="gt_row gt_right">1.7K</td>
 <td class="gt_row gt_right">1.2K</td>
@@ -1157,7 +1157,7 @@ html {
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">1.7M</td>
 <td class="gt_row gt_right gt_striped">865.0K</td>
-<td class="gt_row gt_right gt_striped">&minus;48&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;49&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">199.0M</td>
 <td class="gt_row gt_right">202.0M</td>
@@ -1169,7 +1169,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Saturday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Sunday</td>
     </tr>
   </tfoot>
   
@@ -1537,29 +1537,29 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">618.0K</td>
-<td class="gt_row gt_right">640.0K</td>
+<td class="gt_row gt_right">623.0K</td>
+<td class="gt_row gt_right">646.0K</td>
 <td class="gt_row gt_right">+4&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
-<td class="gt_row gt_right gt_striped">7.6K</td>
+<td class="gt_row gt_right gt_striped">8.0K</td>
 <td class="gt_row gt_right gt_striped">6.8K</td>
-<td class="gt_row gt_right gt_striped">&minus;12&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;15&percnt;</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
-<td class="gt_row gt_right">37.9M</td>
+<td class="gt_row gt_right">36.8M</td>
 <td class="gt_row gt_right">33.9M</td>
-<td class="gt_row gt_right">&minus;11&percnt;</td></tr>
+<td class="gt_row gt_right">&minus;8&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">3.5B</td>
 <td class="gt_row gt_right gt_striped">3.7B</td>
 <td class="gt_row gt_right gt_striped">+5&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Pct. Fully Vaccinated</td>
-<td class="gt_row gt_right">44.5</td>
+<td class="gt_row gt_right">44.7</td>
 <td class="gt_row gt_right">46.9</td>
 <td class="gt_row gt_right">+5&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Saturday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Sunday</td>
     </tr>
   </tfoot>
   
@@ -1568,12 +1568,12 @@ html {
 
 ## Case Acceleration
 
-As of Saturday, the 14-day percent change in average new cases was:
+As of Sunday, the 14-day percent change in average new cases was:
   
 - 23% in Champaign County
 - 39% in Illinois
-- 5% in the United States
-- 3% worldwide
+- 7% in the United States
+- 4% worldwide
 
 ![Case Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png)
 
@@ -1581,11 +1581,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Saturday, the 14-day percent change in average new deaths was:
+As of Sunday, the 14-day percent change in average new deaths was:
   
 - 74% in Illinois
 - -27% in the United States
-- -11% worldwide
+- -15% worldwide
 
 ![Death Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png)
 
