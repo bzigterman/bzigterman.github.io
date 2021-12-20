@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:47 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/sports/rafael-nadal-covid.html">Rafael Nadal Tests Positive for the Coronavirus</a> NYT: The Spanish tennis star said he was isolating at home. The test further jeopardized his hopes of playing in next month’s Australian Open. 
  <p class="updated_time"> 01:19 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/nyregion/nyc-omicron-de-blasio.html">NYC Mayor: City Needs to Move Faster to Fight Omicron </a> NYT: In a news conference, Bill de Blasio said the next surge would likely be large but temporary. 
  <p class="updated_time"> 01:18 PM CT, Dec. 20 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Prosecutors call Ghislaine Maxwell predator as defence claims sensationalism</a> BBC: Prosecutors said Ms Maxwell was a "sophisticated predator". Her lawyers called it "sensationalism". 
  <p class="updated_time"> 12:33 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/ireland-cure-folk-medicine.html">Secret Charms and 7th Sons: ‘The Cure’ Is Alive and Well in Ireland</a> NYT: Belief in the benefits of the cure, a type of folk medicine that interweaves home remedies with superstition, religion and a sprinkle of magic is still a way of life in pockets of Ireland. 
- <p class="updated_time"> 12:23 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/sports/rafael-nadal-covid.html">Rafael Nadal Tests Positive for the Coronavirus</a> NYT: The Spanish tennis star said he was isolating at home. The test further jeopardized his hopes of playing in next month’s Australian Open. 
  <p class="updated_time"> 12:19 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59730354?at_medium=RSS&at_campaign=KARANGA">Alaa Abdel Fattah: Leading Egyptian activist jailed for five years</a> BBC: Alaa Abdel Fattah is convicted of spreading false news after a trial called a sham by rights groups. 
  <p class="updated_time"> 12:18 PM CT, Dec. 20 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:40 PM CT, Dec. 20 </p> 
+ <a href="https://www.politico.com/news/2021/12/20/republicans-navy-seal-vaccine-525773">Almost 50 Republicans back Navy SEAL lawsuit over vaccine mandate</a> Politico: The group of lawmakers, which includes nine senators and 38 representatives, is led by Sens. Ted Cruz, Jim Inhofe and Roger Marshall. 
  <p class="updated_time"> 02:25 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/alex-jones-sues-jan-6-committee-indicates-plan-to-plead-the-fifth-525770">Alex Jones sues Jan. 6 committee, indicates plan to plead the Fifth</a> Politico: In the suit, Jones says he intends to assert his Fifth amendment rights against self-incrimination. 
  <p class="updated_time"> 01:38 PM CT, Dec. 20 </p> 
@@ -208,6 +210,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/20/politics/epa-auto-emissions-standards/index.html">EPA will tighten fuel mileage standards for cars and light trucks, replacing looser Trump-era standards </a> CNN: The Environmental Protection Agency on Monday will tighten fuel emissions standards for cars and light trucks to 40 miles per gallon by the 2026 model year, replacing the looser Trump-era standards. 
  <p class="updated_time"> 12:57 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
+ <p class="updated_time"> 12:53 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/joe-biden-build-back-better-setback-explained/index.html">Biden's Build Back Better plan is on ice. Here's what that means for you</a> CNN: No more monthly payments for tens of millions of families. No universal pre-kindergarten for 3- and 4-year-olds. No health insurance for more than 2 million low-income Americans. No funneling of billions of dollars into clean energy initiatives. 
  <p class="updated_time"> 12:47 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/joe-manchin-democratic-party-build-back-better/index.html">Manchin says he still sees himself as a Democrat even after thwarting Build Back Better plan</a> CNN: West Virginia Sen. Joe Manchin said Monday that he still considers himself a Democrat even after he defied his party by torpedoing a key piece of President Joe Biden's domestic agenda. 
  <p class="updated_time"> 12:39 PM CT, Dec. 20 </p> 
@@ -326,14 +330,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">White House lights up Manchin after he crushes Biden's megabill</a> Politico: The West Wing accused Manchin of "a breach of his commitments to the president and the senator’s colleagues in the House and Senate," in a blistering statement Sunday. 
  <p class="updated_time"> 08:51 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065636709/joe-manchin-says-he-cannot-support-bidens-build-back-better-plan">Joe Manchin says he won't support President Biden's Build Back Better plan </a> NPR: The announcement by the West Virginia Democrat dooms the $2 trillion social spending and climate legislation, which needs support from every Senate Democrat in order to pass through the 50-50 chamber. 
- <p class="updated_time"> 07:30 AM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/paul-whelan-three-years-detained-russia/index.html">Paul Whelan's family stays focused on his release as he nears 3 years in Russian detention</a> CNN: Nearly three years after her brother was detained in Moscow, Elizabeth Whelan is keeping her eye on the goal: bringing him home. 
  <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065626381/covid-19-resurgence-trips-up-bidens-agenda">COVID-19 resurgence trips up Biden's agenda</a> NPR: President Biden, who campaigned on taming the pandemic, is struggling to deliver as COVID-19 mutates and parts of the American public refuse to cooperate. 
  <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/black-lawmakers-diversity-lobbying-firms-525362">Black lawmakers threaten to cut off K St unless it diversifies</a> Politico: Years of frustration with the racial composition of the political influence industry have begun to boil over. 
- <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/debt-ceiling-chuck-schumer-mitch-mcconnell-joe-biden-nancy-pelosi/index.html">The economic catastrophe that wasn't: How Washington found a way to quietly raise the debt ceiling </a> CNN: Even as the partisan battle lines for the next epic political clash were being drawn, President Joe Biden had no desire to engage. 
  <p class="updated_time"> 09:21 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/18/politics/ali-alexander-january-6-investigation-gop-lawmakers/index.html">'Stop the Steal' leader hands over communications with GOP lawmakers to January 6 committee</a> CNN: "Stop the Steal" leader Ali Alexander has handed over to the House Select Committee investigating January 6 thousands of text messages and communication records that include his interactions with members of Congress and former President Donald Trump's inner circle leading up to the riot, according to a court document submitted late Friday night. 
  <p class="updated_time"> 05:49 PM CT, Dec. 18 </p> 
@@ -350,6 +350,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/18/politics/us-post-office-naacp-2020-election-settlement/index.html">USPS reaches settlement with NAACP over 2020 mail-in voting</a> CNN: The United States Postal Service announced an agreement Friday with the NAACP on a lawsuit the civil rights organization filed prior to the 2020 election that had challenged USPS delivery delays. 
  <p class="updated_time"> 02:18 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/congress-gridlock-democracy.html">Congress Ends ‘Horrible Year’ With Divisions as Bitter as Ever</a> NYT: Democrats’ achievements were overshadowed by legislative setbacks, fallout from the Jan. 6 attack and a sense that Congress was not rising to meet a perilous moment in history. 
+ <p class="updated_time"> 12:27 PM CT, Dec. 18 </p> 
+ <a href="https://www.cnn.com/2021/12/18/politics/senate-confirms-ambassador-rahm-emanuel/index.html">Senate confirms Rahm Emanuel and others to ambassador posts</a> CNN: The US Senate overnight confirmed more than three dozen of President Joe Biden's nominees to ambassador posts, ending a months-long Republican-led blockade on quick consideration of the diplomatic nominations. 
  <p class="updated_time"> 11:48 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/white-house-not-budging-student-loans-525357">White House not budging on Feb. 1 end to student loans forgiveness</a> Politico: At a meeting with Biden officials Wednesday, advocates tried to "sound the alarm to them about what we believe to be a very serious political mistake that they’re about to be making." 
  <p class="updated_time"> 10:16 AM CT, Dec. 18 </p> 
@@ -386,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/us/politics/climate-change-us-financial-threat.html">Climate Change an ‘Emerging Threat’ to U.S. Financial Stability, Regulators Say</a> NYT: The Financial Stability Oversight Council issued a formal warning on the economic damage that global warming could inflict. 
  <p class="updated_time"> 10:44 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/house-democrats-elections-dccc-525258">Vulnerable House Dems to DCCC: You're jeopardizing our reelection</a> Politico: Multiple at-risk Democrats tell POLITICO that the campaign committee has adopted a midterms strategy that is hurting, not helping, their reelections. 
- <p class="updated_time"> 09:00 AM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/house-committee-trump-covid-19/index.html">House oversight committee releases report detailing efforts of Trump administration officials to 'undermine' Covid-19 efforts in US</a> CNN: Trump administration officials made "deliberate efforts to undermine the nation's coronavirus response for political purposes," a House oversight committee led by Democrats said in a report released Friday. 
  <p class="updated_time"> 07:42 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/17/immigration-axed-and-bidens-big-bill-pushed-to-2022-495512">Immigration axed and Biden’s big bill pushed to 2022</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:04 AM CT, Dec. 17 </p> 
@@ -402,6 +402,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/biden-concedes-bbb-bill-wont-get-passed-this-year-525194">Biden concedes Build Back Better bill won’t get passed this year</a> Politico: “It takes time to finalize these agreements, prepare the legislative changes, and finish all the parliamentary and procedural steps needed to enable a Senate vote,” the president said. 
  <p class="updated_time"> 05:44 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-meadows-525172">Jan. 6 committee subpoenas author of debunked election-fraud PowerPoint sent to Meadows</a> Politico: James P. “Phil” Waldron, a retired Army colonel, is asked to provide documents by Jan. 10 and sit for a deposition. 
+ <p class="updated_time"> 05:03 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden awards Medal of Honor to 3 soldiers, including the first African American since the Vietnam War</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
  <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
