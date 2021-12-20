@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:54 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll surges</a> BBC: At least 208 people have died, police say, as the Red Cross issues an emergency appeal for aid. 
+ <p class="updated_time"> 07:46 PM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">Hong Kong Elections: How 'Patriots Only' Bolsters Beijing's Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials have urged the public to vote, but turnout Sunday hit a record low. 
  <p class="updated_time"> 07:45 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/washington-senator-covid-dead-doug-eriksen.html">Washington State Senator Doug Eriksen Died After Covid Infection</a> NYT: Doug Ericksen was a Republican who helped lead opposition to Washington State’s Covid-19 emergency orders and vaccine mandates. 
  <p class="updated_time"> 07:34 PM CT, Dec. 19 </p> 
@@ -37,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59721962?at_medium=RSS&at_campaign=KARANGA">Iran execution of Heidar Ghorbani sparks rare anti-government protest</a> BBC: The death sentence handed to Kurdish man Heidar Ghorbani was viewed by rights groups as political. 
  <p class="updated_time"> 03:30 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: LegCo vote after electoral overhaul sees record low turnout</a> BBC: Only 30.2% took part in the vote - the lowest turnout in Hong Kong's election history. 
+ <p class="updated_time"> 03:12 PM CT, Dec. 19 </p> 
+ <a href="https://www.wsj.com/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003">Gabriel Boric Wins Chile's Presidency at Age 35</a> WSJ: The leftist and former student protest leader pledges to hike taxes and dismantle a private pension system in Latin America’s richest nation. 
  <p class="updated_time"> 03:05 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59720745?at_medium=RSS&at_campaign=KARANGA">Senator Joe Manchin threatens to sink signature Biden bill</a> BBC: Democrat Joe Manchin throws the Build Back Better Act into jeopardy, saying he will not vote for it. 
  <p class="updated_time"> 02:53 PM CT, Dec. 19 </p> 
@@ -49,16 +55,12 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/omicron-prompts-new-covid-19-restrictions-in-europe-11639921351">Omicron Prompts New Covid-19 Restrictions</a> WSJ: Europe set in place new restrictions in an effort to stem the spread of Omicron. In the U.S., Dr. Anthony Fauci warned that the variant is likely to strain American hospitals in the coming weeks. 
  <p class="updated_time"> 12:51 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59714272?at_medium=RSS&at_campaign=KARANGA">Covid: Christmas travel will fuel spread of Omicron, US expert warns</a> BBC: The US infectious disease expert says the Covid-19 variant will spread - even among the vaccinated. 
- <p class="updated_time"> 12:44 PM CT, Dec. 19 </p> 
- <a href="https://www.wsj.com/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003">Gabriel Boric Wins Chile's Presidency at Age 35</a> WSJ: The leftist and former student protest leader pledges to hike taxes and dismantle a private pension system in Latin America’s richest nation. 
  <p class="updated_time"> 12:37 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/lucia-hiriart-dead.html">Lucía Hiriart, Powerful Wife of Chile’s Dictator, Dies at 98</a> NYT: Her husband, Augusto Pinochet, acknowledged that she had pushed him to participate in the 1973 coup that brought him to power in 1973. 
  <p class="updated_time"> 12:01 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59720744?at_medium=RSS&at_campaign=KARANGA">Drakeo the Ruler dies after stabbing at LA music festival</a> BBC: The 28-year-old was stabbed during an altercation backstage at a Los Angeles music festival. 
  <p class="updated_time"> 11:59 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/sikh-temples-lynching.html">2 Lynchings Reported at Sikh Temples in India</a> NYT: Enraged mobs attacked men they linked to acts of sacrilege, one at the Golden Temple, the holiest shrine for Sikhs. 
- <p class="updated_time"> 11:25 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">Hong Kong Elections: How 'Patriots Only' Bolsters Beijing's Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials have urged the public to vote, but turnout Sunday was on track to hit a record low. 
  <p class="updated_time"> 11:10 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/middleeast/hamas-israel-gaza-war.html">Hamas, Claiming Victory Over Israel, Is Stuck in Same Old Cycle</a> NYT: Seven months after a war with Israel, hundreds are dead but otherwise little has changed. It’s a familiar pattern. 
  <p class="updated_time"> 09:50 AM CT, Dec. 19 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/central-banks-worry-omicron-could-sustain-inflation-11639909805">Central Banks Worry Omicron Could Sustain Inflation</a> WSJ: Instead of loosening monetary policy to prop up their economies as they did at the start of the Covid-19 pandemic, central banks are moving to unwind stimulus and raise interest rates. 
  <p class="updated_time"> 09:03 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: More than 140 people are now believed to have been killed by the storm, and rescuers are still trying to reach some devastated areas. 
- <p class="updated_time"> 09:00 AM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll surges</a> BBC: At least 169 people have died, police say, as the Red Cross issues an emergency appeal for aid. 
  <p class="updated_time"> 08:45 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/biden-national-address-on-omicron.html">Biden to Address Nation About Omicron on Tuesday</a> NYT: The remarks are expected to detail how the United States will respond to the latest pandemic challenge. 
  <p class="updated_time"> 08:21 AM CT, Dec. 19 </p> 
@@ -194,24 +194,26 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:01 PM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/joe-biden-russia-ukraine-obama-2014/index.html">'A four-week window': Biden aims to learn from Obama's mistakes with quick moves to deter Putin from invading Ukraine</a> CNN: When the US intelligence community first picked up signs in the fall that Russia could be preparing a new attack on Ukraine, President Joe Biden directed his administration to act -- and fast. 
+ <p class="updated_time"> 07:59 PM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">White House issues damning statement against Manchin after saying he won't vote for Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
+ <p class="updated_time"> 07:58 PM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">Sens. Warren and Booker test positive for Covid-19</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
  <p class="updated_time"> 07:56 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/14-policies-manchin-social-spending-525681">How 14 policies could survive — or die — after Manchin’s ‘no’</a> Politico: Despite his clear opposition  to enacting President Joe Biden’s $1.7T social spending package, the West Virginia senator actually likes a slew of individual policies in the plan, giving Democrats hope for turning some of those ideas into law. 
+ <p class="updated_time"> 07:48 PM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/francis-collins-trump-political-pressure-republicans/index.html">Outgoing NIH director says Trump and other Republicans pressured him to endorse unproven Covid-19 remedies and to fire Fauci</a> CNN: The outgoing director of the National Institutes of Health said Sunday that he faced political pressure from then-President Donald Trump and other Republicans to endorse unproven Covid-19 remedies such as hydroxychloroquine and to fire Dr. Anthony Fauci, the head of NIH's National Institute of Allergy and Infectious Diseases. 
  <p class="updated_time"> 07:30 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-joe-biden-build-back-better-talks-break-down/index.html">How months of talks between Biden and Manchin over Build Back Better broke down </a> CNN: President Joe Biden was at home in Delaware Sunday when Sen. Joe Manchin appeared on Fox News to abruptly declare he could not support his sweeping social and climate plan. "I've tried everything humanly possible," the West Virginia Democrat said, appearing remotely. "I can't get there. This is a no." 
- <p class="updated_time"> 07:09 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">Sens. Warren and Booker test positive for Covid-19</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
  <p class="updated_time"> 07:00 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/democratic-sky-high-expectations-fall-flat-525537">Dems trip over their own sky-high expectations</a> Politico: Joe Manchin's rejection of the party's social spending bill is just the latest episode in a series of lofty goals it's failed to deliver on. 
  <p class="updated_time"> 06:01 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Manchin Pulls Support From Biden’s Social Policy Bill, Imperiling Its Passage</a> NYT: The West Virginia senator’s comments dealt a potentially fatal blow to the centerpiece of the president’s domestic agenda, and drew a broadside from the White House. 
- <p class="updated_time"> 05:22 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/joe-biden-russia-ukraine-obama-2014/index.html">'A four-week window': Biden aims to learn from Obama's mistakes with quick moves to deter Putin from invading Ukraine</a> CNN: When the US intelligence community first picked up signs in the fall that Russia could be preparing a new attack on Ukraine, President Joe Biden directed his administration to act -- and fast. 
  <p class="updated_time"> 05:14 PM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065681923/a-leftist-millennial-wins-election-as-chiles-next-president">A leftist millennial wins election as Chile's next president</a> NPR: Gabriel Boric, 35, defeated a far-right lawmaker in a divisive election. Poised to become Chile's youngest modern president, he's vowed to expand social services and boost environmental protections. 
  <p class="updated_time"> 05:07 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/afghanistan-collapse-trust-biden-trump-525640">‘Trust was gone’: Former Afghan official recounts his government’s collapse</a> Politico: Hamdullah Mohib described what he perceives to be betrayal. 
- <p class="updated_time"> 04:51 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/francis-collins-trump-political-pressure-republicans/index.html">Outgoing NIH director says Trump and other Republicans pressured him to endorse unproven Covid-19 remedies and to fire Fauci</a> CNN: The outgoing director of the National Institutes of Health said Sunday that he faced political pressure from then-President Donald Trump and other Republicans to endorse unproven Covid-19 remedies such as hydroxychloroquine and to fire Dr. Anthony Fauci, the head of NIH's National Institute of Allergy and Infectious Diseases. 
  <p class="updated_time"> 03:58 PM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065676445/chileans-choose-next-president-in-divisive-election">Chileans choose next president in divisive election</a> NPR: The runoff in Chile's presidential election pits a far-right candidate against a young far-left candidate. 
  <p class="updated_time"> 03:58 PM CT, Dec. 19 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/us/politics/afghan-war-refugees.html">At Every Step, Afghans Coming to America Encounter Stumbling Blocks</a> NYT: U.S. officials concede that the system was unprepared. 
  <p class="updated_time"> 01:51 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/johnny-isakson-dies-at-76/index.html">Former Sen. Johnny Isakson dies at the age of 76</a> CNN: Former Georgia Sen. Johnny Isakson, a Republican who held a long career in politics, has died at the age of 76. 
- <p class="updated_time"> 01:39 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">White House issues damning statement against Manchin after saying he won't vote for Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 01:30 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/trump-china-olympics-xi-525566">Trump calls China’s leader ‘a killer’ but rejects Olympics boycott</a> Politico: “He is a killer but I had a great relationship with him,” the former president said. 
  <p class="updated_time"> 01:07 PM CT, Dec. 19 </p> 
