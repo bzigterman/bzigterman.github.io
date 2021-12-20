@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:49 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/nyregion/nypd-mask-mandate.html">N.Y.P.D. officers are again told to mask up amid Omicron surge</a> NYT: Employees are required to wear face masks indoors and outdoors regardless of vaccination status. 
+ <p class="updated_time"> 02:48 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/nyregion/nyc-omicron-de-blasio.html">NYC Mayor: City Needs to Move Faster to Fight Omicron </a> NYT: In a news conference, Bill de Blasio said the next surge would likely be large but temporary. 
  <p class="updated_time"> 02:41 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/uk-brexit-david-frost-liz-truss.html">U.K. Foreign Secretary Inherits Thorny Issue: Northern Ireland Talks</a> NYT: Liz Truss is taking charge of Brexit talks after the surprise resignation of David Frost. If she is successful, it could give her a significant political boost. 
  <p class="updated_time"> 02:35 PM CT, Dec. 20 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/sports/rafael-nadal-covid.html">Rafael Nadal Tests Positive for the Coronavirus</a> NYT: The Spanish tennis star said he was isolating at home. The test further jeopardized his hopes of playing in next month’s Australian Open. 
  <p class="updated_time"> 01:30 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/haiti-missionaries-escape.html">Haiti Missionaries Describe Dramatic Escape From Kidnappers</a> NYT: The group of 12 included several children. They walked 10 miles through the night. Later that day, they were on a Coast Guard flight to Florida. 
- <p class="updated_time"> 01:19 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/nyregion/nyc-omicron-de-blasio.html">NYC Mayor: City Needs to Move Faster to Fight Omicron </a> NYT: In a news conference, Bill de Blasio said the next surge would likely be large but temporary. 
  <p class="updated_time"> 01:18 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065865472/omicron-holiday-travel-gatherings-restrictions-world">As omicron surges, nations announce rules on gatherings and travel ahead of holidays</a> NPR: European nations implemented a wave of new restrictions as case numbers rise. And Israel added the U.S. and Canada to its "red list" of countries from which citizens are barred from travel. 
  <p class="updated_time"> 01:00 PM CT, Dec. 20 </p> 
@@ -196,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:46 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/haitian-migrants-border-patrol-lawsuit.html">Haitian Migrants File Lawsuit Protesting Treatment by Border Patrol</a> NYT: Images of Border Patrol agents corralling Black migrants prompted criticism of the Biden administration’s response to an influx of thousands in Del Rio, Texas. 
  <p class="updated_time"> 02:40 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/republicans-navy-seal-vaccine-525773">Almost 50 Republicans back Navy SEAL lawsuit over vaccine mandate</a> Politico: The group of lawmakers, which includes nine senators and 38 representatives, is led by Sens. Ted Cruz, Jim Inhofe and Roger Marshall. 
  <p class="updated_time"> 02:33 PM CT, Dec. 20 </p> 
@@ -392,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/17/immigration-axed-and-bidens-big-bill-pushed-to-2022-495512">Immigration axed and Biden’s big bill pushed to 2022</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:04 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/17/this-is-a-real-f-ing-problem-495509"> ‘This is a real f---ing problem’</a> Politico Playbook: And President Joe Biden concedes that the BBB will be delayed. 
- <p class="updated_time"> 04:02 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/us/black-history-2021.html">The Biggest Black History Events in 2021</a> NYT: After the tumult and triumphs of 2020, here are the achievements that shaped the first year following the country’s racial reckoning. 
  <p class="updated_time"> 07:43 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-build-back-better-miss-deadline-senate/index.html">Biden officially acknowledges Build Back Better will miss deadline but says he's 'determined' to see bill on Senate floor 'as early as possible'</a> CNN: President Joe Biden, in a lengthy statement, implicitly acknowledged ongoing negotiations with Sen. Joe Manchin and procedural steps will cause Democrats to miss the Christmas deadline for Senate passage of his $1.75 trillion economic and climate package, noting that Democrats will continue to work together "over the days and weeks ahead" to get the proposal to the Senate floor. 
  <p class="updated_time"> 06:57 PM CT, Dec. 16 </p> 
