@@ -306,6 +306,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065519715/rahm-emanuel-among-dozens-of-late-night-diplomatic-post-confirmations-by-the-sen">Rahm Emanuel among dozens of late-night diplomatic post confirmations by the Senate</a> NPR: The votes had been delayed by political maneuvering by Sen. Ted Cruz over a controversial pipeline in Europe. Emanuel's nomination as ambassador to Japan was among 41 nominations approved overnight. 
  <p class="updated_time"> 02:18 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/congress-gridlock-democracy.html">Congress Ends ‘Horrible Year’ With Divisions as Bitter as Ever</a> NYT: Democrats’ achievements were overshadowed by legislative setbacks, fallout from the Jan. 6 attack and a sense that Congress was not rising to meet a perilous moment in history. 
+ <p class="updated_time"> 12:27 PM CT, Dec. 18 </p> 
+ <a href="https://www.cnn.com/2021/12/18/politics/senate-confirms-ambassador-rahm-emanuel/index.html">Senate confirms Rahm Emanuel and others to ambassador posts</a> CNN: The US Senate overnight confirmed more than three dozen of President Joe Biden's nominees to ambassador posts, ending a months-long Republican-led blockade on quick consideration of the diplomatic nominations. 
  <p class="updated_time"> 11:48 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/white-house-not-budging-student-loans-525357">White House not budging on Feb. 1 end to student loans forgiveness</a> Politico: At a meeting with Biden officials Wednesday, advocates tried to "sound the alarm to them about what we believe to be a very serious political mistake that they’re about to be making." 
  <p class="updated_time"> 11:43 AM CT, Dec. 18 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
  <p class="updated_time"> 12:26 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/trump-ally-brandon-straka-information-525272">Trump ally Straka has provided potentially significant information</a> Politico: Prosecutors have asked for a 30-day sentencing delay so that his new evidence "can be properly evaluated." 
- <p class="updated_time"> 11:22 AM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/bill-clinton-masterclass/index.html">Bill Clinton hosts MasterClass in leadership based on decades in public service</a> CNN: Former President Bill Clinton is teaching a MasterClass on "inclusive leadership," drawing on his long career in politics and eight years in the White House to teach participants how to negotiate, mediate and work with people they don't agree with. 
  <p class="updated_time"> 11:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/climate-change-us-financial-threat.html">Climate Change an ‘Emerging Threat’ to U.S. Financial Stability, Regulators Say</a> NYT: The Financial Stability Oversight Council issued a formal warning on the economic damage that global warming could inflict. 
  <p class="updated_time"> 10:44 AM CT, Dec. 17 </p> 
@@ -362,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/17/pfizer-vaccine-approval-kids-525254">Pfizer and BioNTech ask FDA to approve their Covid-19 vaccine for kids as young as 12</a> Politico: The companies submitted Phase III clinical trial data to FDA as a supplemental application for their vaccine, which is already approved for adults and children as young as 16. 
  <p class="updated_time"> 07:42 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/17/immigration-axed-and-bidens-big-bill-pushed-to-2022-495512">Immigration axed and Biden’s big bill pushed to 2022</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:38 AM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/cnn-poll-covid-pandemic/index.html">Nearly 4 in 10 Americans think Covid-19 precautions are here to stay, but others have already returned to their pre-pandemic normal</a> CNN: Most of the public continues to take precautions to guard against the risks of Covid-19 and nearly 4 in 10 Americans think they'll continue doing so for the foreseeable future, according to a new CNN Poll conducted by SSRS. 
  <p class="updated_time"> 06:04 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/17/this-is-a-real-f-ing-problem-495509"> ‘This is a real f---ing problem’</a> Politico Playbook: And President Joe Biden concedes that the BBB will be delayed. 
  <p class="updated_time"> 04:31 AM CT, Dec. 17 </p> 
@@ -396,6 +394,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">Senate that ‘sucks’ gets a dose of reality from Biden</a> Politico: Democrats wanted to hear from the president on how to move forward. He acknowledged on Thursday that his domestic spending vision has to wait. 
  <p class="updated_time"> 12:20 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/congressional-gold-medal-us-troops-kabul-attack/index.html">Biden signs bill to award Congressional Gold Medal to US service members killed in Kabul airport bombing</a> CNN: President Joe Biden on Thursday signed a bill that posthumously awards a Congressional Gold Medal to the 13 US service members killed in a terrorist attack outside Kabul's airport in August. 
+ <p class="updated_time"> 12:16 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/biden-signs-debt-limit-increase/index.html">Biden signs debt limit increase</a> CNN: President Joe Biden on Thursday signed the bill raising the debt limit ceiling that passed Congress earlier this week, according to a press release from the White House. 
  <p class="updated_time"> 09:31 AM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/jill-biden-showing-up/index.html">Jill Biden says administration will keep 'showing up' to help communities heal from tragedies</a> CNN: First lady Jill Biden wants the American people to know that the first family is there for them. 
  <p class="updated_time"> 07:22 AM CT, Dec. 16 </p> 
