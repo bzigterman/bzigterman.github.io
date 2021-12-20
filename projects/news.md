@@ -192,14 +192,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:47 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/moderna-booster-omicron-525723">Moderna says its booster raised antibody levels against Omicron</a> Politico: A standard 50-microgram boost raised antibody levels about 37-fold higher than pre-boost levels 29 days after the shot was administered. 
+ <p class="updated_time"> 07:42 AM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/democrats-manchin-climate-build-back-better/index.html">'I'm kind of speechless': Democrats scramble to salvage climate provisions after Manchin sinks Build Back Better</a> CNN: With Sen. Joe Manchin confirming he's a "no" on President Joe Biden's social spending package, the fate of the bill's $550 bill worth of climate and energy provisions -- and the President's climate agenda -- are now on the line. 
  <p class="updated_time"> 07:12 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/20/are-dems-dreams-deferred-or-dead-495523">Are Dems’ dreams deferred or dead?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:46 AM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/bragg-new-york-trump/index.html">New Manhattan DA Alvin Bragg pledges to focus on Trump investigations</a> CNN: The next Manhattan district attorney, Alvin Bragg Jr., says he plans to personally focus on the high-profile probe into former President Donald Trump's business practices and may expand the investigative team while keeping at least one senior prosecutor on the case. 
  <p class="updated_time"> 06:11 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/20/the-case-for-why-bbb-is-dead-and-for-why-it-may-not-be-495522"> The case for why BBB is dead — and for why it may not be</a> Politico Playbook: And Rep. Albio Sires (D-N.J.) won’t run for reelection. 
  <p class="updated_time"> 05:44 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/joe-biden-joe-manchin-build-back-better-covid/index.html">Biden suffers twin blows from Manchin and another Covid winter</a> CNN: Democratic Sen. Joe Manchin dropped the axe on his party's agenda on Sunday when he said he would not support President Joe Biden's economic and climate package just as the White House is bracing for another Covid winter that is likely to further sour the nation's mood heading into a midterm election year. 
- <p class="updated_time"> 04:59 AM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/democrats-manchin-climate-build-back-better/index.html">'I'm kind of speechless': Democrats scramble to salvage climate provisions after Manchin sinks Build Back Better</a> CNN: With Sen. Joe Manchin confirming he's a "no" on President Joe Biden's social spending package, the fate of the bill's $550 bill worth of climate and energy provisions -- and the President's climate agenda -- are now on the line. 
  <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/iowa-caucuses-may-survive-after-all-525629">Dems hit brakes on bid to dethrone Iowa, New Hampshire in 2024</a> Politico: Party officials don’t want to project a disunified front with a stormy midterm election season ahead. 
  <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
@@ -250,6 +252,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/trump-china-olympics-xi-525566">Trump calls China’s leader ‘a killer’ but rejects Olympics boycott</a> Politico: “He is a killer but I had a great relationship with him,” the former president said. 
  <p class="updated_time"> 01:07 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/florida-politics-2022/index.html">Florida was once the perennial swing state. 2022 may prove how red it has become</a> CNN: Four years ago, Republicans and Democrats in Florida were similarly optimistic about their chances of winning the governor's mansion and a toss-up race for a US Senate seat during the 2018 midterms. The results of those races -- razor-thin victories for Republicans in both contests -- devastated Democrats but nevertheless seemed to reenforce Florida's status as a purple state. 
+ <p class="updated_time"> 12:51 PM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/adam-kinzinger-trump-investigation-insurrection-cnntv/index.html">Kinzinger says January 6 panel is investigating Trump's involvement in insurrection</a> CNN: Republican Rep. Adam Kinzinger said Sunday the House panel investigating the January 6 Capitol insurrection is looking into whether former President Donald Trump committed a crime with his involvement in the deadly riot. 
  <p class="updated_time"> 12:49 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/19/scoop-manchin-refused-a-call-from-wh-before-killing-bbb-495521"> SCOOP: Manchin ‘refused’ a call from W.H. before killing BBB</a> Politico Playbook: And the latest coronavirus variant raises the alarm across the world. 
  <p class="updated_time"> 12:35 PM CT, Dec. 19 </p> 
@@ -284,6 +288,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/black-lawmakers-diversity-lobbying-firms-525362">Black lawmakers threaten to cut off K St unless it diversifies</a> Politico: Years of frustration with the racial composition of the political influence industry have begun to boil over. 
  <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/debt-ceiling-chuck-schumer-mitch-mcconnell-joe-biden-nancy-pelosi/index.html">The economic catastrophe that wasn't: How Washington found a way to quietly raise the debt ceiling </a> CNN: Even as the partisan battle lines for the next epic political clash were being drawn, President Joe Biden had no desire to engage. 
+ <p class="updated_time"> 09:21 PM CT, Dec. 18 </p> 
+ <a href="https://www.cnn.com/2021/12/18/politics/ali-alexander-january-6-investigation-gop-lawmakers/index.html">'Stop the Steal' leader hands over communications with GOP lawmakers to January 6 committee</a> CNN: "Stop the Steal" leader Ali Alexander has handed over to the House Select Committee investigating January 6 thousands of text messages and communication records that include his interactions with members of Congress and former President Donald Trump's inner circle leading up to the riot, according to a court document submitted late Friday night. 
  <p class="updated_time"> 05:49 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/biden-judges-reagan-record.html">Senate Confirms Biden’s 40th Judge, Tying a Reagan-Era Record</a> NYT: President Biden saw more of his judicial nominees confirmed in his first year than any president since Ronald Reagan. The Senate confirmed 18 federal judges in Donald Trump’s first year. 
  <p class="updated_time"> 05:48 PM CT, Dec. 18 </p> 
@@ -342,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
  <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
- <p class="updated_time"> 02:39 PM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/lithium-mining-energy-climate/index.html">A rush to mine lithium in Nevada is pitting climate advocates and environmental groups against each other</a> CNN: In an ancient and now extinct supervolcano sitting in northern Nevada lies a treasure that its seekers call "white gold." 
  <p class="updated_time"> 12:26 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/trump-ally-brandon-straka-information-525272">Trump ally Straka has provided potentially significant information</a> Politico: Prosecutors have asked for a 30-day sentencing delay so that his new evidence "can be properly evaluated." 
  <p class="updated_time"> 11:22 AM CT, Dec. 17 </p> 
@@ -352,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/us/politics/climate-change-us-financial-threat.html">Climate Change an ‘Emerging Threat’ to U.S. Financial Stability, Regulators Say</a> NYT: The Financial Stability Oversight Council issued a formal warning on the economic damage that global warming could inflict. 
  <p class="updated_time"> 10:44 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/house-democrats-elections-dccc-525258">Vulnerable House Dems to DCCC: You're jeopardizing our reelection</a> Politico: Multiple at-risk Democrats tell POLITICO that the campaign committee has adopted a midterms strategy that is hurting, not helping, their reelections. 
- <p class="updated_time"> 10:43 AM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/russia-troops-ukraine-border-biden/index.html">Russia continues to amass new troops near Ukraine's border despite Biden urging Putin to de-escalate tensions </a> CNN: Russia has continued to amass new troops near Ukraine's border in recent days, despite President Joe Biden urging Russian President Vladimir Putin to de-escalate tensions during a virtual meeting last week. 
  <p class="updated_time"> 09:48 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/virginia-democrats-abortion.html">Protect Abortion Rights? Virginia Democrats’ Vacation Plans Get in the Way.</a> NYT: Some Virginia Democrats want to codify abortion rights into state law in their final weeks in power. But several state senators do not want to upend their travel to Hawaii, Europe and Africa. 
  <p class="updated_time"> 09:00 AM CT, Dec. 17 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/17/politics/cnn-poll-covid-pandemic/index.html">Nearly 4 in 10 Americans think Covid-19 precautions are here to stay, but others have already returned to their pre-pandemic normal</a> CNN: Most of the public continues to take precautions to guard against the risks of Covid-19 and nearly 4 in 10 Americans think they'll continue doing so for the foreseeable future, according to a new CNN Poll conducted by SSRS. 
  <p class="updated_time"> 06:04 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/17/this-is-a-real-f-ing-problem-495509"> ‘This is a real f---ing problem’</a> Politico Playbook: And President Joe Biden concedes that the BBB will be delayed. 
- <p class="updated_time"> 05:12 AM CT, Dec. 17 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/omicron-biden-covid-politics/index.html">Omicron battle brings delicate questions for a weary nation</a> CNN: The Omicron winter is coming. 
  <p class="updated_time"> 04:31 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/gop-trump-oust-mcconnell-525207">GOP blows off Trump’s bid to oust McConnell</a> Politico: Just two Senate candidates — and no senators — have publicly called for replacing the Republican leader. 
  <p class="updated_time"> 04:02 AM CT, Dec. 17 </p> 
@@ -384,12 +384,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/biden-concedes-bbb-bill-wont-get-passed-this-year-525194">Biden concedes Build Back Better bill won’t get passed this year</a> Politico: “It takes time to finalize these agreements, prepare the legislative changes, and finish all the parliamentary and procedural steps needed to enable a Senate vote,” the president said. 
  <p class="updated_time"> 06:41 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-russia-ukraine.html">Biden’s Stand on Ukraine Is a Wider Test of U.S. Credibility Abroad</a> NYT: President Barack Obama also warned of severe consequences if Russia took action against its neighbor. Vladimir Putin annexed Crimea anyway. 
- <p class="updated_time"> 06:00 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/jobs-resignation-inflation-what-matters/index.html">Analysis: Why we had to reconsider jobs, inflation and politics this week</a> CNN: It's been a week of revisions and recalculations. We've had to change our understanding of why people are quitting their jobs and how long this stretch of everything getting more expensive will last. 
- <p class="updated_time"> 05:57 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/justice-department-federal-vaccine-mandate-supreme-court/index.html">DOJ asks Supreme Court to reinstate federal vaccine mandate for certain health care workers nationwide</a> CNN: The Department of Justice asked the Supreme Court on Thursday to allow a vaccine mandate aimed at federal health care workers to go into effect nationwide, marking the first time the justices have been asked to weigh in on a federal mandate the Biden administration put in place in order to get more Americans vaccinated amid a surge of the Delta and Omicron coronavirus variants. 
  <p class="updated_time"> 05:44 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-meadows-525172">Jan. 6 committee subpoenas author of debunked election-fraud PowerPoint sent to Meadows</a> Politico: James P. “Phil” Waldron, a retired Army colonel, is asked to provide documents by Jan. 10 and sit for a deposition. 
+ <p class="updated_time"> 05:30 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/joe-biden-warning-winter/index.html">Biden warns of winter of 'severe illness and death' for unvaccinated due to Omicron </a> CNN: President Joe Biden said on Thursday warned people who are not vaccinated against Covid-19 are looking at a very bleak and dangerous winter if they do not get their shots soon. 
  <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
@@ -398,6 +396,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/crackdown-on-chinas-treatment-of-muslim-minority-headed-to-bidens-desk-525094">Crackdown on China's treatment of Muslim minority headed to Biden's desk</a> Politico: The legislation, which faced a bumpy road to passage, effectively bans all imports from China’s Xinjiang region. 
  <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">Senate that ‘sucks’ gets a dose of reality from Biden</a> Politico: Democrats wanted to hear from the president on how to move forward. He acknowledged on Thursday that his domestic spending vision has to wait. 
+ <p class="updated_time"> 09:31 AM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/jill-biden-showing-up/index.html">Jill Biden says administration will keep 'showing up' to help communities heal from tragedies</a> CNN: First lady Jill Biden wants the American people to know that the first family is there for them. 
  <p class="updated_time"> 07:22 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/16/will-democrats-get-coal-instead-of-passed-bills-in-their-stockings-495491">Will Democrats get coal instead of passed bills in their stockings?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Dec. 16 </p> 
