@@ -190,6 +190,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:51 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/build-back-better-schumer-manchin.html">Schumer Vows to Bring Spending Plan Back to Senate</a> NYT: A day after Senator Joe Manchin III said he could not support a $2.2 trillion climate, tax and spending plan, Senator Chuck Schumer of New York, the majority leader, was undeterred. 
  <p class="updated_time"> 07:47 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/moderna-booster-omicron-525723">Moderna says its booster raised antibody levels against Omicron</a> Politico: A standard 50-microgram boost raised antibody levels about 37-fold higher than pre-boost levels 29 days after the shot was administered. 
  <p class="updated_time"> 07:42 AM CT, Dec. 20 </p> 
@@ -382,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/senate-parliamentarian-rejects-latest-dem-proposal-on-immigration-525195">Senate parliamentarian rejects latest Dem proposal on immigration</a> Politico: With bipartisan immigration reform talks stalled, Democrats widely viewed the social spending bill as their best chance to enact some type of immigration reform. 
  <p class="updated_time"> 06:41 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/biden-concedes-bbb-bill-wont-get-passed-this-year-525194">Biden concedes Build Back Better bill won’t get passed this year</a> Politico: “It takes time to finalize these agreements, prepare the legislative changes, and finish all the parliamentary and procedural steps needed to enable a Senate vote,” the president said. 
- <p class="updated_time"> 06:41 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/biden-russia-ukraine.html">Biden’s Stand on Ukraine Is a Wider Test of U.S. Credibility Abroad</a> NYT: President Barack Obama also warned of severe consequences if Russia took action against its neighbor. Vladimir Putin annexed Crimea anyway. 
  <p class="updated_time"> 05:44 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-meadows-525172">Jan. 6 committee subpoenas author of debunked election-fraud PowerPoint sent to Meadows</a> Politico: James P. “Phil” Waldron, a retired Army colonel, is asked to provide documents by Jan. 10 and sit for a deposition. 
  <p class="updated_time"> 05:30 PM CT, Dec. 16 </p> 
