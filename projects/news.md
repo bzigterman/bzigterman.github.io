@@ -7,6 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:54 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/sports/rafael-nadal-covid.html">Rafael Nadal Tests Positive for the Coronavirus</a> NYT: The Spanish tennis star said that he was isolating at home. The test further jeopardized his hopes of playing in next month’s Australian Open. 
+ <p class="updated_time"> 10:35 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
+ <p class="updated_time"> 10:33 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/world/middleeast/egypt-human-rights-activitists-sentenced.html">Egypt Sentences 3 Human Rights Activists to Prison</a> NYT: The verdicts suggested that the government has not scaled back its crackdown on dissent. 
+ <p class="updated_time"> 10:32 AM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Prosecutors call Ghislaine Maxwell 'sophisticated predator' in closing arguments</a> BBC: Prosecutors say Ms Maxwell was a "sophisticated predator" of vulnerable children. She denies all charges. 
+ <p class="updated_time"> 10:21 AM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1064510598/afghanistan-music-institute-taliban-doha-portugal">Afghan music students escaped the Taliban and are beginning their new lives abroad</a> NPR: Students and faculty with the Afghanistan National Institute of Music flew last week from Doha to Lisbon, where they will start their new lives and reconstitute their celebrated academy in exile. 
  <p class="updated_time"> 10:13 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065775516/china-tennis-peng-shuai-sexual-assault">Tennis star Peng Shuai says her accusations of sexual assault have been misunderstood</a> NPR: Last month, the Chinese player posted on social media that a former top Communist Party official had assaulted her a decade ago. She then dropped out of sight, prompting concerns for her safety. 
  <p class="updated_time"> 10:10 AM CT, Dec. 20 </p> 
@@ -19,10 +29,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/world/europe/pope-domestic-violence-almost-satanic.html">Pope Says High Number of Domestic Violence Cases is ‘Almost Satanic’</a> NYT: Francis once again decried the scourge of domestic abuse, which has increased during the months of pandemic lockdown. 
  <p class="updated_time"> 09:57 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/science/webb-telescope-astronomy.html">Webb Telescope Approaches Launch, With an Eye Toward Cosmic Origins</a> NYT: The biggest space telescope in history aims to answer astronomy’s oldest question: How did we get from the Big Bang to here? 
- <p class="updated_time"> 09:55 AM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Prosecutors call Ghislaine Maxwell 'sophisticated predator' in closing arguments</a> BBC: Prosecutors say Ms Maxwell was "sophisticated predator" of vulnerable children. She denies all charges. 
- <p class="updated_time"> 09:41 AM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/sports/rafael-nadal-covid.html">Rafael Nadal Tests Positive for the Coronavirus</a> NYT: The Spanish tennis star said that he was isolating at home. The test further jeopardized his hopes of playing in next month’s Australian Open. 
+ <p class="updated_time"> 09:03 AM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59730522?at_medium=RSS&at_campaign=KARANGA">What is Russia's Vladimir Putin planning?</a> BBC: The BBC's Steve Rosenberg looks at what might be on the Russian leader's mind amid growing tensions. 
  <p class="updated_time"> 07:27 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/middleeast/israel-us-travel-covid.html">Israel Bars Travel to U.S. or Canada as Omicron Surges</a> NYT: The countries were added to Israel’s rapidly growing “red list” as Prime Minister Naftali Bennett’s government tries to slow Omicron’s spread. 
  <p class="updated_time"> 07:23 AM CT, Dec. 20 </p> 
@@ -69,14 +77,10 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/chinas-growing-access-to-global-shipping-data-worries-u-s-11640001601">China's Growing Access to Global Shipping Data Worries U.S.</a> WSJ: Beijing can track cargo with a little-known system, Logink, potentially gaining intelligence and commercial advantage. 
  <p class="updated_time"> 12:30 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">Hong Kong Elections: How 'Patriots Only' Bolsters Beijing's Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials have urged the public to vote, but turnout Sunday hit a record low. 
- <p class="updated_time"> 12:29 AM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59723278?at_medium=RSS&at_campaign=KARANGA">Pope Francis condemns domestic abuse as 'almost satanic'</a> BBC: The Pope has often spoken out against domestic violence, but Sunday's remarks are his strongest yet. 
  <p class="updated_time"> 11:41 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
  <p class="updated_time"> 11:30 PM CT, Dec. 19 </p> 
  <a href="https://www.wsj.com/articles/turkeys-currency-crisis-slams-the-nutella-global-supply-chain-11639996201">Turkey's Currency Crisis Slams the Nutella Supply Chain</a> WSJ: The country’s hazelnut industry—which produces 70% of the world’s hazelnuts—is a stark example of the potential global implications of an economic gamble set in motion by President Recep Tayyip Erdogan, who says he wants a weaker Turkish lira to encourage exports and expand productive industry. 
- <p class="updated_time"> 11:10 PM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
  <p class="updated_time"> 11:00 PM CT, Dec. 19 </p> 
  <a href="https://www.wsj.com/articles/himalayan-glaciers-are-melting-at-furious-rate-new-study-shows-11639994402">Himalayan Glaciers Are Melting at Furious Rate, New Study Shows</a> WSJ: Glaciers across the region are melting at an extraordinary rate, with new research showing that the vast ice sheets there shrank 10 times faster in the past 40 years than during the previous seven centuries. 
  <p class="updated_time"> 10:36 PM CT, Dec. 19 </p> 
@@ -169,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065470550/russia-envoy-says-moscow-might-up-the-ante-if-the-west-ignores-its-demands">Russia envoy says Moscow might up the ante if the West ignores its demands</a> NPR: Deputy Foreign Minister Sergei Ryabkov accused Western allies of continuously pushing the envelope in relations with Russia. 
  <p class="updated_time"> 03:53 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065468764/pakistan-is-trying-to-rally-muslim-countries-to-help-afghanistan">Pakistan is trying to rally Muslim countries to help Afghanistan</a> NPR: Pakistan's foreign minister said his message to Sunday meeting is "Please do not abandon Afghanistan. Please engage. We are speaking for the people of Afghanistan." 
- <p class="updated_time"> 02:12 AM CT, Dec. 18 </p> 
- <a href="https://www.npr.org/2021/12/18/1065463755/police-search-house-of-man-linked-to-deadly-osaka-fire">Police search house of man linked to deadly Osaka fire</a> NPR: The possible suspect is believed to be among the three people who survived the fire and were in severe condition, police said. 
  <p class="updated_time"> 04:57 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html">Why There's a Growing Push to Ban Killer Robots</a> NYT: A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty. 
  <p class="updated_time"> 04:44 PM CT, Dec. 17 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/asia/myanmar-journalist-kyaw-torture.html">‘I Didn’t Look Like a Human’: Journalist Tells of Myanmar Torture</a> NYT: When Ko Aung Kyaw erased his cellphone contacts to protect his sources, he knew his interrogators would make him pay a horrific price. He did it anyway. 
  <p class="updated_time"> 10:12 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/britain-records-more-than-93000-daily-infections-a-new-high.html">Britain records more than 93,000 daily infections, a new high.</a> NYT: Friday was the third consecutive day that the country’s case count set a record. 
- <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/americas/chile-adoption-pinochet.html">Stolen at Birth, Chilean Adoptees Uncover Their Past</a> NYT: Hundreds of Chileans adopted abroad have learned that they were trafficked. Investigators believe thousands of children may have been taken from their parents during Chile’s dictatorship. 
 
 
 </details>
@@ -192,20 +192,26 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:49 AM CT, Dec. 20 </p> 
+ <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, Murphy didn't rule out a future run for a different public role. 
  <p class="updated_time"> 11:02 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/trump-sues-ny-attorney-general-525736">Trump sues N.Y. attorney general James to block fraud probes</a> Politico: The case accuses James of violating the civil rights of Trump and the Trump Organization. 
+ <p class="updated_time"> 10:55 AM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1065830614/donald-trump-is-suing-the-n-y-attorney-general-in-a-bid-to-end-her-investigation">Donald Trump is suing the N.Y. attorney general, in a bid to end her investigation </a> NPR: The former president filed suit on Monday against Letitia James, seeking to short circuit her civil investigation into his business practices. 
  <p class="updated_time"> 10:53 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/maryland-governor-larry-hogan-positive-covid-525733">Maryland Gov. Hogan announces positive Covid test</a> Politico: Sens. Cory Booker and Elizabeth Warren have also announced cases in recent days. 
- <p class="updated_time"> 10:14 AM CT, Dec. 20 </p> 
+ <p class="updated_time"> 10:48 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/trump-ny-attorney-general-james/index.html">Trump sues NY attorney general, seeking to stop investigation into his company</a> CNN: Former President Donald Trump and the Trump Organization have sued New York Attorney General Letitia James, asking for a federal court to halt or limit her office's ongoing investigations. 
+ <p class="updated_time"> 10:35 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/filibuster-senate-voting-rights.html">Schumer Will Try to Change Senate Rules if G.O.P. Stalls Voting Bill</a> NYT: The Senate majority leader still lacks the votes to alter the filibuster, but he said he will renew the effort to enact voting rights measures as early as the first week of January. 
+ <p class="updated_time"> 10:25 AM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/larry-hogan-covid-19/index.html">Maryland Gov. Larry Hogan tests positive for Covid-19</a> CNN: Maryland Gov. Larry Hogan tested positive for Covid-19, he tweeted Monday. 
  <p class="updated_time"> 10:04 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/davos-is-dead-525732">Davos is dead</a> Politico: The world’s most elite conference is postponed, again. 
  <p class="updated_time"> 10:00 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/epa-auto-emissions-standards/index.html">EPA will tighten fuel mileage standards for cars and light trucks, replacing looser Trump-era standards </a> CNN: The Environmental Protection Agency on Monday will tighten fuel emissions standards for cars and light trucks to 40 miles per gallon by the 2026 model year, replacing the looser Trump-era standards. 
  <p class="updated_time"> 09:50 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/afghan-evacuees-future-525725">Afghan evacuees ponder future as U.S. empties camp sites</a> Politico: More than 29,000 Afghans remain on U.S. military bases thanks, in part, to a shortage of affordable housing and the pandemic. 
- <p class="updated_time"> 09:48 AM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/larry-hogan-covid-19/index.html">Maryland Gov. Larry Hogan tests positive for Covid-19</a> CNN: Maryland Gov. Larry Hogan tested positive for Covid-19, he tweeted Monday. 
  <p class="updated_time"> 07:51 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/build-back-better-schumer-manchin.html">Schumer Vows to Bring Spending Plan Back to Senate</a> NYT: A day after Senator Joe Manchin III said he could not support a $2.2 trillion climate, tax and spending plan, Senator Chuck Schumer of New York, the majority leader, was undeterred. 
  <p class="updated_time"> 07:47 AM CT, Dec. 20 </p> 
@@ -342,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/18/stop-the-steal-founder-jan-6-committee-gop-lawmakers-525345">‘Stop the Steal’ founder told Jan. 6 committee about contacts with GOP lawmakers</a> Politico: The description of the testimony comes in a lawsuit Ali Alexander filed to block the committee from obtaining his phone records. 
  <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065477218/capitol-police-officer-reacts-to-the-new-findings-about-jan-6">Capitol police officer reacts to the new findings about Jan. 6</a> NPR: Scott Simon talks with Capitol police officer Harry Dunn about some of the revelations coming out of the Congressional committee investigating the Jan. 6 attack. 
- <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
- <a href="https://www.npr.org/2021/12/18/1065477183/congress-fiercely-debates-which-lawmakers-office-has-the-best-holiday-decoration">Congress fiercely debates which lawmaker's office has the best holiday decorations</a> NPR: Forget the Build Back Better bill or the Jan. 6 investigation. Right now, some members of Congress seem to be more focused on the holiday decorations outside their Capitol Hill offices. 
  <p class="updated_time"> 07:01 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/covid-omicron-booster-vaccines-525308">Bad Covid winter brings questions about what's 'fully vaccinated'</a> Politico: Discussions within the administration are focused on whether a third shot should be considered part of the original Covid-19 vaccine regimen. 
  <p class="updated_time"> 08:36 PM CT, Dec. 17 </p> 
@@ -378,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/17/gop-trump-oust-mcconnell-525207">GOP blows off Trump’s bid to oust McConnell</a> Politico: Just two Senate candidates — and no senators — have publicly called for replacing the Republican leader. 
  <p class="updated_time"> 04:02 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/black-history-2021.html">The Biggest Black History Events in 2021</a> NYT: After the tumult and triumphs of 2020, here are the achievements that shaped the first year following the country’s racial reckoning. 
- <p class="updated_time"> 08:13 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/us/politics/rnc-trump-investigations.html">R.N.C. Is Said to Agree to Pay Up to $1.6 Million of Trump’s Personal Legal Bills</a> NYT: Under the unusual arrangement, the Republican Party is paying to defend the former president as he faces investigations into his private business practices. 
  <p class="updated_time"> 07:43 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-build-back-better-miss-deadline-senate/index.html">Biden officially acknowledges Build Back Better will miss deadline but says he's 'determined' to see bill on Senate floor 'as early as possible'</a> CNN: President Joe Biden, in a lengthy statement, implicitly acknowledged ongoing negotiations with Sen. Joe Manchin and procedural steps will cause Democrats to miss the Christmas deadline for Senate passage of his $1.75 trillion economic and climate package, noting that Democrats will continue to work together "over the days and weeks ahead" to get the proposal to the Senate floor. 
  <p class="updated_time"> 06:57 PM CT, Dec. 16 </p> 
@@ -414,6 +416,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats’ filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
  <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/trump-january-6-obstruction-law-524806">Jan. 6 investigators mull whether Trump violated obstruction law</a> Politico: Rep. Liz Cheney (R-Wyo.) raised the question using precise terminology from the criminal statute that some view as possibly applicable to the former president's actions. 
+ <p class="updated_time"> 04:45 PM CT, Dec. 15 </p> 
+ <a href="https://www.politico.com/news/2021/12/15/eric-adams-mayor-health-new-york-524802">Meatless Mondays and the evils of olive oil: Eric Adams wants to put New York on a diet</a> Politico: “We can save more lives with plant-based diet if people would only realize they are enslaved to fats, oil, sugar and things that are killing their body,” Adams said in a short 2018 film. 
  <p class="updated_time"> 07:35 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/15/house-is-home-for-the-holidays-senate-sticks-around-495473">House is home for the holidays, Senate sticks around</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Dec. 15 </p> 
