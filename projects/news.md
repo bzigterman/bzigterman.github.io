@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:02 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/world/europe/pope-domestic-violence-almost-satanic.html">Pope Says High Number of Domestic Violence Cases is ‘Almost Satanic’</a> NYT: Francis once again decried the scourge of domestic abuse, which has increased during the months of pandemic lockdown. 
  <p class="updated_time"> 07:27 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/middleeast/israel-us-travel-covid.html">Israel Bars Travel to U.S. or Canada as Omicron Surges</a> NYT: The countries were added to Israel’s rapidly growing “red list” as Prime Minister Naftali Bennett’s government tries to slow Omicron’s spread. 
  <p class="updated_time"> 07:23 AM CT, Dec. 20 </p> 
@@ -41,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/chinese-tennis-star-peng-shuai-denies-making-sexual-assault-accusations-11639982172">Tennis Star Peng Shuai Denies Making Sexual-Assault Accusations</a> WSJ: Chinese tennis star Peng Shuai denied accusing anyone of sexual assault, suggesting a global wave of concern for her safety and wellbeing was the result of misunderstandings. 
  <p class="updated_time"> 03:13 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59699556?at_medium=RSS&at_campaign=KARANGA">Tortured to death: Myanmar mass killings revealed</a> BBC: A BBC investigation finds evidence Myanmar's military killed 40 villagers in July, torturing some to death. 
+ <p class="updated_time"> 03:00 AM CT, Dec. 20 </p> 
+ <a href="https://www.wsj.com/articles/scotland-looks-to-rethink-drug-policy-after-surge-in-deaths-11640008802">Scotland Looks to Rethink Drug Policy After Surge in Deaths</a> WSJ: Leaders are moving toward treating drug abuse as a health issue rather than a criminal one, including proposals to decriminalize possession of heroin and establish legally protected safe spaces for users to inject. 
  <p class="updated_time"> 02:52 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: More than 200 people are now believed to have been killed by the storm. 
  <p class="updated_time"> 02:44 AM CT, Dec. 20 </p> 
@@ -48,11 +52,9 @@ permalink: /projects/news/
  <p class="updated_time"> 02:41 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59722285?at_medium=RSS&at_campaign=KARANGA">Carlos Marin: Simon Cowell 'devastated' at death of Il Divo singer at 53</a> BBC: The classical group's Carlos Marin died at the age of 53 after going into hospital during a UK tour. 
  <p class="updated_time"> 02:29 AM CT, Dec. 20 </p> 
- <a href="https://www.wsj.com/articles/davos-delayed-over-omicron-uncertainty-11640003584">Davos Economic Forum Is Postponed as Omicron Forces More Cancellations, Travel Bans</a> WSJ: As the Covid-19 variant spreads, Israel is set to bar its citizens from traveling to the U.S. and Canada and the World Economic Forum said it would postpone next month’s annual meeting for the second successive year. 
+ <a href="https://www.wsj.com/articles/davos-delayed-over-omicron-uncertainty-11640003584">Davos Economic Forum Is Postponed as Omicron Leads to More Cancellations, Travel Bans</a> WSJ: As the Covid-19 variant spreads, Israel is set to bar its citizens from traveling to the U.S. and Canada and the World Economic Forum said it would postpone next month’s annual meeting for the second successive year. 
  <p class="updated_time"> 02:18 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065722642/pro-beijing-candidates-sweep-hong-kong-elections">Pro-Beijing candidates sweep Hong Kong elections</a> NPR: Hong Kong leader Carrie Lam said she was "satisfied" with the election despite the 30.2% voter turnout being the lowest since the British handed Hong Kong over to China in 1997. 
- <p class="updated_time"> 12:45 AM CT, Dec. 20 </p> 
- <a href="https://www.wsj.com/articles/inflation-hawk-to-lead-german-bundesbank-11640000725">Inflation Hawk to Lead German Bundesbank</a> WSJ: Joachim Nagel has been appointed as Germany’s new central-bank governor, just as the ECB moves away from its ultra-easy-money policies amid a surge in eurozone inflation. 
  <p class="updated_time"> 12:30 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">Hong Kong Elections: How 'Patriots Only' Bolsters Beijing's Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials have urged the public to vote, but turnout Sunday hit a record low. 
  <p class="updated_time"> 12:29 AM CT, Dec. 20 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/asia/myanmar-journalist-kyaw-torture.html">‘I Didn’t Look Like a Human’: Journalist Tells of Myanmar Torture</a> NYT: When Ko Aung Kyaw erased his cellphone contacts to protect his sources, he knew his interrogators would make him pay a horrific price. He did it anyway. 
  <p class="updated_time"> 10:12 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/britain-records-more-than-93000-daily-infections-a-new-high.html">Britain records more than 93,000 daily infections, a new high.</a> NYT: Friday was the third consecutive day that the country’s case count set a record. 
- <p class="updated_time"> 08:11 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing a Blow to Boris Johnson</a> NYT: The governing party lost to the Liberal Democrats a district that it had represented for more than a century. 
  <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/americas/chile-adoption-pinochet.html">Stolen at Birth, Chilean Adoptees Uncover Their Past</a> NYT: Hundreds of Chileans adopted abroad have learned that they were trafficked. Investigators believe thousands of children may have been taken from their parents during Chile’s dictatorship. 
  <p class="updated_time"> 11:30 PM CT, Dec. 16 </p> 
@@ -190,8 +190,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:04 AM CT, Dec. 20 </p> 
+ <a href="https://www.politico.com/news/2021/12/20/davos-is-dead-525732">Davos is dead</a> Politico: The world’s most elite conference is postponed, again. 
  <p class="updated_time"> 09:50 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/afghan-evacuees-future-525725">Afghan evacuees ponder future as U.S. empties camp sites</a> Politico: More than 29,000 Afghans remain on U.S. military bases thanks, in part, to a shortage of affordable housing and the pandemic. 
+ <p class="updated_time"> 09:19 AM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/trump-ny-attorney-general-james/index.html">Trump sues NY attorney general, seeking to stop investigation into his company</a> CNN: Former President Donald Trump and the Trump Organization have sued New York Attorney General Letitia James, asking for a federal court to halt or limit her office's ongoing investigations. 
  <p class="updated_time"> 07:51 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/build-back-better-schumer-manchin.html">Schumer Vows to Bring Spending Plan Back to Senate</a> NYT: A day after Senator Joe Manchin III said he could not support a $2.2 trillion climate, tax and spending plan, Senator Chuck Schumer of New York, the majority leader, was undeterred. 
  <p class="updated_time"> 07:47 AM CT, Dec. 20 </p> 
@@ -207,7 +211,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:44 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/joe-biden-joe-manchin-build-back-better-covid/index.html">Biden suffers twin blows from Manchin and another Covid winter</a> CNN: Democratic Sen. Joe Manchin dropped the axe on his party's agenda on Sunday when he said he would not support President Joe Biden's economic and climate package just as the White House is bracing for another Covid winter that is likely to further sour the nation's mood heading into a midterm election year. 
  <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/iowa-caucuses-may-survive-after-all-525629">Dems hit brakes on bid to dethrone Iowa, New Hampshire in 2024</a> Politico: Party officials don’t want to project a disunified front with a stormy midterm election season ahead. 
+ <a href="https://www.politico.com/news/2021/12/20/iowa-caucuses-may-survive-after-all-525629">Dems sour on bid to ditch first-in-the-nation states</a> Politico: Party officials don’t want to project a disunified front with a stormy midterm election season ahead. 
  <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/cdc-covid-omicron-delta-tracking-525621">‘It is embarrassing’: CDC struggles to track Covid cases as Omicron looms</a> Politico: The U.S. was behind other countries in charting the spread of disease in the pandemic’s disastrous early months. It’s still behind as new variants threaten to disrupt the winter. 
  <p class="updated_time"> 04:15 AM CT, Dec. 20 </p> 
@@ -340,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/17/appeals-court-lifts-stay-vaccine-or-test-525313">Appeals court lifts stay on administration's vaccine-or-test mandate for large businesses</a> Politico: Business groups quickly filed an appeal to the Supreme Court. 
  <p class="updated_time"> 05:28 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/january-6-committee-capitol-riot.html">Jan. 6 Committee May Add New Expertise for Investigation</a> NYT: As the panel continues to take testimony, it is looking to do more analysis of social media and possible foreign efforts to sow discord in the U.S. before the Capitol riot. 
- <p class="updated_time"> 05:17 PM CT, Dec. 17 </p> 
- <a href="https://www.politico.com/news/2021/12/17/canada-retighten-border-omicron-525286">Canada to re-tighten border measures as it braces for Omicron</a> Politico: 'We've come this far, now is not the time to give up,' Canada's health minister said Friday. 
  <p class="updated_time"> 04:48 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/business/southwest-ceo-postive-coronavirus.html">Southwest C.E.O. Tests Positive for Coronavirus After Senate Hearing</a> NYT: Gary Kelly appeared at the committee hearing with other airline officials on Wednesday. Each was unmasked for at least part of the hearing, as were many senators. 
  <p class="updated_time"> 04:07 PM CT, Dec. 17 </p> 
@@ -396,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/16/politics/congressional-gold-medal-us-troops-kabul-attack/index.html">Biden signs bill to award Congressional Gold Medal to US service members killed in Kabul airport bombing</a> CNN: President Joe Biden on Thursday signed a bill that posthumously awards a Congressional Gold Medal to the 13 US service members killed in a terrorist attack outside Kabul's airport in August. 
  <p class="updated_time"> 12:16 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/biden-signs-debt-limit-increase/index.html">Biden signs debt limit increase</a> CNN: President Joe Biden on Thursday signed the bill raising the debt limit ceiling that passed Congress earlier this week, according to a press release from the White House. 
- <p class="updated_time"> 09:31 AM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/jill-biden-showing-up/index.html">Jill Biden says administration will keep 'showing up' to help communities heal from tragedies</a> CNN: First lady Jill Biden wants the American people to know that the first family is there for them. 
  <p class="updated_time"> 07:22 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/16/will-democrats-get-coal-instead-of-passed-bills-in-their-stockings-495491">Will Democrats get coal instead of passed bills in their stockings?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Dec. 16 </p> 
