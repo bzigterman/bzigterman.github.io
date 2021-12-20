@@ -13,6 +13,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59715941?at_medium=RSS&at_campaign=KARANGA">Leftist Gabriel Boric to become Chile's youngest ever president</a> BBC: Gabriel Boric, 35, says he will look after democracy after a convincing win over his far-right rival. 
  <p class="updated_time"> 04:16 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065711643/covid-is-again-raging-across-the-u-s-just-as-americans-gather-for-the-holidays">COVID is again raging across the U.S. just as Americans gather for the holidays</a> NPR: Sporting events and live theater announced cancellations amid major increases in new coronavirus cases, in large part because of the omicron variant. 
+ <p class="updated_time"> 04:09 AM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1065722944/muslim-majority-states-gather-to-combat-afghanistans-humanitarian-crisis">Muslim-majority states gather to combat Afghanistan's humanitarian crisis </a> NPR: An emergency meeting of the Organization for Islamic Cooperation was convened on the dire humanitarian situation in Afghanistan. 
  <p class="updated_time"> 04:00 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/science/webb-telescope-astronomy.html">Webb Telescope Approaches Launch, With an Eye Toward Cosmic Origins</a> NYT: The biggest space telescope in history aims to answer astronomy’s oldest question: How did we get from the Big Bang to here? 
  <p class="updated_time"> 04:00 AM CT, Dec. 20 </p> 
@@ -37,12 +39,18 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59722285?at_medium=RSS&at_campaign=KARANGA">Carlos Marin: Simon Cowell 'devastated' at death of Il Divo singer at 53</a> BBC: The classical group's Carlos Marin died at the age of 53 after going into hospital during a UK tour. 
  <p class="updated_time"> 02:18 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065722642/pro-beijing-candidates-sweep-hong-kong-elections">Pro-Beijing candidates sweep Hong Kong elections</a> NPR: Hong Kong leader Carrie Lam said she was "satisfied" with the election despite the 30.2% voter turnout being the lowest since the British handed Hong Kong over to China in 1997. 
+ <p class="updated_time"> 01:33 AM CT, Dec. 20 </p> 
+ <a href="https://www.wsj.com/articles/davos-delayed-over-omicron-uncertainty-11640003584">Davos Delayed Over Omicron Uncertainty</a> WSJ: The World Economic Forum that was scheduled to take place in the Swiss town in January is now planned for early summer, organizers said. WEF didn’t provide a new date. 
+ <p class="updated_time"> 12:45 AM CT, Dec. 20 </p> 
+ <a href="https://www.wsj.com/articles/inflation-hawk-to-lead-german-bundesbank-11640000725">Inflation Hawk to Lead German Bundesbank</a> WSJ: Joachim Nagel has been appointed as Germany’s new central-bank governor, just as the ECB moves away from its ultra-easy-money policies amid a surge in eurozone inflation. 
  <p class="updated_time"> 12:30 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">Hong Kong Elections: How 'Patriots Only' Bolsters Beijing's Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials have urged the public to vote, but turnout Sunday hit a record low. 
  <p class="updated_time"> 12:29 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59723278?at_medium=RSS&at_campaign=KARANGA">Pope Francis condemns domestic abuse as 'almost satanic'</a> BBC: The Pope has often spoken out against domestic violence, but Sunday's remarks are his strongest yet. 
  <p class="updated_time"> 11:41 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
+ <p class="updated_time"> 11:30 PM CT, Dec. 19 </p> 
+ <a href="https://www.wsj.com/articles/turkeys-currency-crisis-slams-the-nutella-global-supply-chain-11639996201">Turkey's Currency Crisis Slams the Nutella Supply Chain</a> WSJ: The country’s hazelnut industry—which produces 70% of the world’s hazelnuts—is a stark example of the potential global implications of an economic gamble set in motion by President Recep Tayyip Erdogan, who says he wants a weaker Turkish lira to encourage exports and expand productive industry. 
  <p class="updated_time"> 11:10 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
  <p class="updated_time"> 11:00 PM CT, Dec. 19 </p> 
@@ -79,16 +87,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59651334?at_medium=RSS&at_campaign=KARANGA">The robot chefs that can cook your Christmas dinner</a> BBC: If you fancy not having to do the cooking on 25 December then a robotic chef might be the solution. 
  <p class="updated_time"> 04:24 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59721962?at_medium=RSS&at_campaign=KARANGA">Iran execution of Heidar Ghorbani sparks rare anti-government protest</a> BBC: The death sentence handed to Kurdish man Heidar Ghorbani was viewed by rights groups as political. 
- <p class="updated_time"> 03:49 PM CT, Dec. 19 </p> 
- <a href="https://www.wsj.com/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003">Gabriel Boric Wins Chile's Presidential Election at Age 35</a> WSJ: The leftist and former student protest leader pledges to hike taxes and dismantle a private pension system in Latin America’s richest nation. 
- <p class="updated_time"> 03:28 PM CT, Dec. 19 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-voters-widely-shun-election-for-beijing-approved-legislators-11639927626">Hong Kong Voters Widely Shun Election for Beijing-Approved Candidates</a> WSJ: Turnout at Sunday’s poll was a record low for legislative elections since the city returned to Chinese rule in 1997. 
  <p class="updated_time"> 03:05 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59720745?at_medium=RSS&at_campaign=KARANGA">Senator Joe Manchin threatens to sink signature Biden bill</a> BBC: Democrat Joe Manchin throws the Build Back Better Act into jeopardy, saying he will not vote for it. 
  <p class="updated_time"> 02:05 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/europe/uk-lockdown-omicron-covid-boris-johnson.html">U.K. Weighing Lockdown Amid an Omicron Wave and Political Turmoil</a> NYT: Britain’s health secretary said on Sunday he wouldn’t rule out more restrictions before Christmas, but the prime minister would most likely face sharp pushback from his own party. 
- <p class="updated_time"> 01:47 PM CT, Dec. 19 </p> 
- <a href="https://www.wsj.com/articles/omicron-prompts-new-covid-19-restrictions-in-europe-11639921351">Omicron Prompts New Covid-19 Restrictions</a> WSJ: Europe set in place new restrictions in an effort to stem the spread of Omicron. In the U.S., Dr. Anthony Fauci warned that the variant is likely to strain American hospitals in the coming weeks. 
  <p class="updated_time"> 12:37 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/lucia-hiriart-dead.html">Lucía Hiriart, Powerful Wife of Chile’s Dictator, Dies at 98</a> NYT: Her husband, Augusto Pinochet, acknowledged that she had pushed him to participate in the 1973 coup that brought him to power in 1973. 
  <p class="updated_time"> 11:59 AM CT, Dec. 19 </p> 
@@ -99,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/asia/southeast-asian-tourism-covid.html">Southeast Asia's Tourist Spots Are Open, but Visitors Are Scarce</a> NYT: Hopes for a revival of international tourism have fizzled amid restrictions, paperwork, a lack of flights and uncertainty around the Omicron variant. 
  <p class="updated_time"> 09:32 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/japan-fire-osaka-arson.html">Japan Fire: Osaka Police Identify a Suspect, 61</a> NYT: A 61-year-old man, hospitalized after the fire at an Osaka psychiatric clinic, is being investigated on suspicion of arson and murder, the police said. 
- <p class="updated_time"> 09:11 AM CT, Dec. 19 </p> 
- <a href="https://www.wsj.com/articles/central-banks-worry-omicron-could-sustain-inflation-11639909805">Central Banks Worry Omicron Could Sustain Inflation</a> WSJ: Instead of loosening monetary policy to prop up their economies as they did at the start of the Covid-19 pandemic, central banks are moving to unwind stimulus and raise interest rates. 
  <p class="updated_time"> 08:45 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/biden-national-address-on-omicron.html">Biden to Address Nation About Omicron on Tuesday</a> NYT: The remarks are expected to detail how the United States will respond to the latest pandemic challenge. 
  <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
@@ -161,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065463755/police-search-house-of-man-linked-to-deadly-osaka-fire">Police search house of man linked to deadly Osaka fire</a> NPR: The possible suspect is believed to be among the three people who survived the fire and were in severe condition, police said. 
  <p class="updated_time"> 01:33 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065458877/the-events-that-led-to-hong-kongs-pivotal-elections">The events that led to Hong Kong's pivotal elections</a> NPR: Demands for expanded democracy in the semi-autonomous territory inspired protest movements that were largely ignored by Beijing and crushed by security forces. 
- <p class="updated_time"> 06:41 PM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/12/17/1065315661/omicron-may-be-less-severe-in-south-africa-that-may-not-be-the-case-for-the-u-s">Omicron may be less severe in South Africa. That may not be the case for the U.S.</a> NPR: Researchers in South Africa have found that people infected with omicron, on average, are less likely to end up in the hospital. But the variant may act differently here in the U.S. 
  <p class="updated_time"> 04:57 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html">Why There's a Growing Push to Ban Killer Robots</a> NYT: A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty. 
  <p class="updated_time"> 04:44 PM CT, Dec. 17 </p> 
@@ -190,6 +188,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:12 AM CT, Dec. 20 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2021/12/20/are-dems-dreams-deferred-or-dead-495523">Are Dems’ dreams deferred or dead?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/20/the-case-for-why-bbb-is-dead-and-for-why-it-may-not-be-495522"> The case for why BBB is dead — and for why it may not be</a> Politico Playbook: And Rep. Albio Sires (D-N.J.) won’t run for reelection. 
  <p class="updated_time"> 05:44 AM CT, Dec. 20 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/cdc-covid-omicron-delta-tracking-525621">‘It is embarrassing’: CDC struggles to track Covid cases as Omicron looms</a> Politico: The U.S. was behind other countries in charting the spread of disease in the pandemic’s disastrous early months. It’s still behind as new variants threaten to disrupt the winter. 
  <p class="updated_time"> 04:15 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065695953/build-back-better-climate-change">What losing Build Back Better means for climate change</a> NPR: Climate scientists warn that emissions need to fall quickly. Those cuts will be even tougher with the Build Back Better legislation shelved for the foreseeable future. 
+ <p class="updated_time"> 04:09 AM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1065722979/biden-struggles-with-political-agenda-and-covid-19-new-npr-poll-shows">Biden struggles with political agenda and COVID-19, new NPR poll shows</a> NPR: President Biden faces crises with his domestic agenda and the pandemic, as his approval among the public continues to falter. 
  <p class="updated_time"> 04:09 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065722916/morning-news-brief">News brief: Omicron variant, Build Back Better, Chile's president-elect</a> NPR: The latest coronavirus variant is spreading quickly. West Virginia Sen. Manchin says he won't support the president's Build Back Better plan. A leftist millennial wins Chile's presidential election. 
  <p class="updated_time"> 04:06 AM CT, Dec. 20 </p> 
@@ -280,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/black-lawmakers-diversity-lobbying-firms-525362">Black lawmakers threaten to cut off K St unless it diversifies</a> Politico: Years of frustration with the racial composition of the political influence industry have begun to boil over. 
  <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/debt-ceiling-chuck-schumer-mitch-mcconnell-joe-biden-nancy-pelosi/index.html">The economic catastrophe that wasn't: How Washington found a way to quietly raise the debt ceiling </a> CNN: Even as the partisan battle lines for the next epic political clash were being drawn, President Joe Biden had no desire to engage. 
- <p class="updated_time"> 06:56 AM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/news/2021/12/19/iraq-military-2-rockets-strike-inside-green-zone-525389">Iraq military: 2 rockets strike inside Green Zone</a> Politico: The area is home to the U.S, embassy 
  <p class="updated_time"> 05:49 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/biden-judges-reagan-record.html">Senate Confirms Biden’s 40th Judge, Tying a Reagan-Era Record</a> NYT: President Biden saw more of his judicial nominees confirmed in his first year than any president since Ronald Reagan. The Senate confirmed 18 federal judges in Donald Trump’s first year. 
  <p class="updated_time"> 05:48 PM CT, Dec. 18 </p> 
@@ -300,6 +300,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/us/politics/congress-gridlock-democracy.html">Congress Ends ‘Horrible Year’ With Divisions as Bitter as Ever</a> NYT: Democrats’ achievements were overshadowed by legislative setbacks, fallout from the Jan. 6 attack and a sense that Congress was not rising to meet a perilous moment in history. 
  <p class="updated_time"> 02:14 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/18/politics/holiday-covid-tiktok-threat-what-matters/index.html">The reality of the pandemic is settling in. So is America's anxiety</a> CNN: It's supposed to be the "most wonderful time of the year," but there's a whole heck of a lot to make people anxious and afraid as we barrel into the holiday season. 
+ <p class="updated_time"> 11:48 AM CT, Dec. 18 </p> 
+ <a href="https://www.politico.com/news/2021/12/18/white-house-not-budging-student-loans-525357">White House not budging on Feb. 1 end to student loans forgiveness</a> Politico: At a meeting with Biden officials Wednesday, advocates tried to "sound the alarm to them about what we believe to be a very serious political mistake that they’re about to be making." 
  <p class="updated_time"> 11:43 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065331379/electric-cars-charging-network-white-house-harris">The White House wants a robust electric vehicle charging network. Here's the plan</a> NPR: The White House this week outlined a plan to install electric vehicle charger nationwide, a step it says is vital to improving the accessibility and practicality of nontraditional vehicles. 
  <p class="updated_time"> 10:16 AM CT, Dec. 18 </p> 
@@ -320,10 +322,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065477218/capitol-police-officer-reacts-to-the-new-findings-about-jan-6">Capitol police officer reacts to the new findings about Jan. 6</a> NPR: Scott Simon talks with Capitol police officer Harry Dunn about some of the revelations coming out of the Congressional committee investigating the Jan. 6 attack. 
  <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065477183/congress-fiercely-debates-which-lawmakers-office-has-the-best-holiday-decoration">Congress fiercely debates which lawmaker's office has the best holiday decorations</a> NPR: Forget the Build Back Better bill or the Jan. 6 investigation. Right now, some members of Congress seem to be more focused on the holiday decorations outside their Capitol Hill offices. 
- <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
- <a href="https://www.npr.org/2021/12/18/1065477148/week-in-politics-new-information-from-jan-6-committee-build-back-better-stalled">Week in politics: New information from Jan. 6 committee; Build Back Better stalled</a> NPR: Revelations from the Congressional committee investigating the Jan. 6 insurrection, plus why the Build Back Better bill is not going to a vote in the Senate by Christmas. 
  <p class="updated_time"> 07:01 AM CT, Dec. 18 </p> 
- <a href="https://www.politico.com/news/2021/12/18/democrats-2022-hurricane-525283">‘Let’s get a drink’: Dems confront prospect of a 2022 hurricane</a> Politico: Staring at the possibility of major midterm losses, Democratic leaders are just hoping to limit the damage. 
+ <a href="https://www.politico.com/news/2021/12/18/covid-omicron-booster-vaccines-525308">Bad Covid winter brings questions about what's 'fully vaccinated'</a> Politico: Discussions within the administration are focused on whether a third shot should be considered part of the original Covid-19 vaccine regimen. 
  <p class="updated_time"> 08:36 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/biden-coronavirus-omicron-winter.html">Biden Struggles to Beat Back a Resurgent Virus Once Again</a> NYT: A new variant and vaccine resistance have upended the president’s plans for a hopeful holiday season. 
  <p class="updated_time"> 08:22 PM CT, Dec. 17 </p> 
@@ -342,6 +342,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
  <p class="updated_time"> 02:39 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/lithium-mining-energy-climate/index.html">A rush to mine lithium in Nevada is pitting climate advocates and environmental groups against each other</a> CNN: In an ancient and now extinct supervolcano sitting in northern Nevada lies a treasure that its seekers call "white gold." 
+ <p class="updated_time"> 12:26 PM CT, Dec. 17 </p> 
+ <a href="https://www.politico.com/news/2021/12/17/trump-ally-brandon-straka-information-525272">Trump ally Straka has provided potentially significant information</a> Politico: Prosecutors have asked for a 30-day sentencing delay so that his new evidence "can be properly evaluated." 
  <p class="updated_time"> 11:22 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/bill-clinton-masterclass/index.html">Bill Clinton hosts MasterClass in leadership based on decades in public service</a> CNN: Former President Bill Clinton is teaching a MasterClass on "inclusive leadership," drawing on his long career in politics and eight years in the White House to teach participants how to negotiate, mediate and work with people they don't agree with. 
  <p class="updated_time"> 11:00 AM CT, Dec. 17 </p> 
@@ -364,6 +366,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/17/this-is-a-real-f-ing-problem-495509"> ‘This is a real f---ing problem’</a> Politico Playbook: And President Joe Biden concedes that the BBB will be delayed. 
  <p class="updated_time"> 05:12 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/omicron-biden-covid-politics/index.html">Omicron battle brings delicate questions for a weary nation</a> CNN: The Omicron winter is coming. 
+ <p class="updated_time"> 04:31 AM CT, Dec. 17 </p> 
+ <a href="https://www.politico.com/news/2021/12/17/gop-trump-oust-mcconnell-525207">GOP blows off Trump’s bid to oust McConnell</a> Politico: Just two Senate candidates — and no senators — have publicly called for replacing the Republican leader. 
  <p class="updated_time"> 04:02 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/black-history-2021.html">The Biggest Black History Events in 2021</a> NYT: After the tumult and triumphs of 2020, here are the achievements that shaped the first year following the country’s racial reckoning. 
  <p class="updated_time"> 11:25 PM CT, Dec. 16 </p> 
@@ -384,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/16/politics/justice-department-federal-vaccine-mandate-supreme-court/index.html">DOJ asks Supreme Court to reinstate federal vaccine mandate for certain health care workers nationwide</a> CNN: The Department of Justice asked the Supreme Court on Thursday to allow a vaccine mandate aimed at federal health care workers to go into effect nationwide, marking the first time the justices have been asked to weigh in on a federal mandate the Biden administration put in place in order to get more Americans vaccinated amid a surge of the Delta and Omicron coronavirus variants. 
  <p class="updated_time"> 05:44 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-meadows-525172">Jan. 6 committee subpoenas author of debunked election-fraud PowerPoint sent to Meadows</a> Politico: James P. “Phil” Waldron, a retired Army colonel, is asked to provide documents by Jan. 10 and sit for a deposition. 
- <p class="updated_time"> 04:34 PM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/cdc-covid-vaccine-johnson-525153">CDC recommends mRNA Covid vaccines over J&J shot amid blood clot risks</a> Politico: CDC Director Rochelle Walensky's decision came hours after the agency’s vaccine advisory committee voted unanimously to update the recommendation. 
  <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
@@ -418,8 +420,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megabill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
- <p class="updated_time"> 10:01 AM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/joe-biden-news-journal-ad-targeting-524196">How a 100-year-old newspaper became the go-to way to influence Biden</a> Politico: In the Biden era, the pages of The News Journal have become a way to reach a new audience of one. 
  <p class="updated_time"> 07:25 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/14/senate-moves-on-debt-defense-house-on-meadows-495455">Senate moves on debt, defense, House on Meadows</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Dec. 14 </p> 
@@ -428,8 +428,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/rural-america-biden-investments-524170">Biden’s rural investments run up against the culture wars in Wisconsin</a> Politico: Even as President Joe Biden’s agenda has promised billions to rural communities this year, Democrats are in danger of losing their last foothold in rural Wisconsin. 
  <p class="updated_time"> 07:06 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/13/debt-limit-byrd-bath-and-manchin-meetings-495441">Debt limit, Byrd bath and Manchin meetings</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:08 AM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/13/all-eyes-on-the-joes-495439"> All eyes on the Joes</a> Politico Playbook: And Nancy Pelosi plays down retirement rumors. 
 
 
 </details>
