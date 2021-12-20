@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:25 PM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1066017155/finally-scientists-have-found-a-true-millipede">Finally, scientists have found a true millipede</a> NPR: Scientists have finally found a millipede that lives up to its name. Eumillipes persephone has 1,306 legs — that's more than any other animal — and is the only known millipede to exceed 1,000 legs. 
+ <p class="updated_time"> 03:10 PM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1065979944/covid-royal-caribbean-symphony-of-the-seas-cruise-ship">48 tested positive for COVID-19 on Royal Caribbean cruise ship docking in Miami</a> NPR: The seven-night cruise ended in Miami on Saturday after making three stops in the Caribbean. More than 6,000 people were on the ship, which required testing and those 12 and over to be vaccinated. 
  <p class="updated_time"> 02:50 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/uk-brexit-david-frost-liz-truss.html">U.K. Foreign Secretary Inherits Thorny Issue: Northern Ireland Talks</a> NYT: Liz Truss is taking charge of Brexit talks after the surprise resignation of David Frost. If she is successful, it could give her a significant political boost. 
  <p class="updated_time"> 02:49 PM CT, Dec. 20 </p> 
@@ -65,6 +69,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59732499?at_medium=RSS&at_campaign=KARANGA">Viya: Top Chinese live-streamer fined $210m for tax evasion</a> BBC: Internet celebrity Huang Wei, known as Viya, is accused of hiding her personal income from officials. 
  <p class="updated_time"> 10:07 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/arts/design/parthenon-marbles-restitution.html">As Europe Returns Artifacts, Britain Stays Silent on the Parthenon Marbles</a> NYT: The Parthenon Marbles in London are likely the world’s most famous disputed museum items. Yet the British government says the sculptures’ fate isn’t its concern. 
+ <p class="updated_time"> 10:07 AM CT, Dec. 20 </p> 
+ <a href="https://www.wsj.com/articles/davos-delayed-over-omicron-uncertainty-11640003584">Davos Economic Forum Is Postponed as Omicron Leads to More Cancellations, Travel Bans</a> WSJ: As the Covid-19 variant spreads, Israel is set to bar its citizens from traveling to the U.S. and Canada and the World Economic Forum said it would postpone next month’s annual meeting for the second successive year. 
  <p class="updated_time"> 09:57 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/science/webb-telescope-astronomy.html">Webb Telescope Approaches Launch, With an Eye Toward Cosmic Origins</a> NYT: The biggest space telescope in history aims to answer astronomy’s oldest question: How did we get from the Big Bang to here? 
  <p class="updated_time"> 09:39 AM CT, Dec. 20 </p> 
@@ -97,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/scotland-looks-to-rethink-drug-policy-after-surge-in-deaths-11640008802">Scotland Looks to Rethink Drug Policy After Surge in Deaths</a> WSJ: Leaders are moving toward treating drug abuse as a health issue rather than a criminal one, including proposals to decriminalize possession of heroin and establish legally protected safe spaces for users to inject. 
  <p class="updated_time"> 02:52 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: More than 200 people are now believed to have been killed by the storm. 
- <p class="updated_time"> 02:29 AM CT, Dec. 20 </p> 
- <a href="https://www.wsj.com/articles/davos-delayed-over-omicron-uncertainty-11640003584">Davos Economic Forum Is Postponed as Omicron Leads to More Cancellations, Travel Bans</a> WSJ: As the Covid-19 variant spreads, Israel is set to bar its citizens from traveling to the U.S. and Canada and the World Economic Forum said it would postpone next month’s annual meeting for the second successive year. 
  <p class="updated_time"> 02:18 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065722642/pro-beijing-candidates-sweep-hong-kong-elections">Pro-Beijing candidates sweep Hong Kong elections</a> NPR: Hong Kong leader Carrie Lam said she was "satisfied" with the election despite the 30.2% voter turnout being the lowest since the British handed Hong Kong over to China in 1997. 
  <p class="updated_time"> 12:30 AM CT, Dec. 20 </p> 
@@ -181,10 +185,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59709246?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: Walking through the storm's trail of destruction</a> BBC: Watch this video that shows the extent of the devastation in Cebu City in the Philippines. 
  <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065477225/activists-in-hong-kong-plan-not-to-vote-or-to-cast-blank-ballots-in-upcoming-ele">Activists in Hong Kong plan not to vote or to cast blank ballots in upcoming election</a> NPR: Hong Kong has legislative elections on Sunday, but new rules favor candidates friendly towards the Beijing government. Activists say people can protest by not voting or by casting blank ballots. 
- <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
- <a href="https://www.npr.org/2021/12/18/1065477169/haitian-soup-joumou-awarded-protected-cultural-heritage-status-by-unesco">Haitian soup joumou awarded protected cultural heritage status by UNESCO</a> NPR: A famed Haitian soup has been awarded "protected cultural heritage status" by UNESCO. Scott Simon talks to Dominique Dupuy, Haitian ambassador to UNESCO about joumou. 
- <p class="updated_time"> 05:37 AM CT, Dec. 18 </p> 
- <a href="https://www.npr.org/2021/12/18/1065475041/indonesia-raises-volcano-warning-to-second-highest-level">Indonesia raises volcano warning to second-highest level</a> NPR: Indonesia's geological agency said it sees increasing activity that could trigger an avalanche of lava and searing gas, similar to the Dec. 4 eruption, 
  <p class="updated_time"> 05:04 AM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59710482?at_medium=RSS&at_campaign=KARANGA">France travel ban: Time-lapse shows long Eurostar queue at St Pancras</a> BBC: Travellers in St Pancras station, London, line up to get to France before it closes its borders to the UK. 
  <p class="updated_time"> 05:00 AM CT, Dec. 18 </p> 
@@ -198,16 +198,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:20 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/haitian-migrants-border-patrol-lawsuit.html">Haitian Migrants File Lawsuit Protesting Treatment by Border Patrol</a> NYT: Images of Border Patrol agents corralling Black migrants prompted criticism of the Biden administration’s response to an influx of thousands in Del Rio, Texas. 
+ <p class="updated_time"> 03:15 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/build-back-better-schumer-manchin.html">Manchin Assails Efforts to Press Him on Biden’s Domestic Policy Bill</a> NYT: Senator Joe Manchin III criticized the White House staff for its handling of negotiations over the legislation, saying officials had pushed him to his “wit’s end.” 
+ <p class="updated_time"> 03:10 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Joe Manchin Says He Can't Support Build Back Better Act</a> NYT: The West Virginia senator’s comments dealt a potentially fatal blow to the centerpiece of the president’s domestic agenda, and drew a broadside from the White House. 
+ <p class="updated_time"> 03:10 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/us/politics/biden-agenda-ambitions.html">The Path Ahead for Biden: Overcome Manchin’s Inflation Fears</a> NYT: A key Democrat’s decision to pull support from the president’s sprawling climate and social agenda is rooted in the scope of the bill. 
  <p class="updated_time"> 03:02 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/pentagon-defines-extremist-behavior-military-extremism/index.html">Pentagon defines prohibited behavior in effort to tackle extremism</a> CNN: In an ongoing effort to tackle extremism within military ranks, the Pentagon is putting forward a clearer, sharper definition of extremist behavior, updating the older guidance that was considered too vague on what was and was not allowed. 
  <p class="updated_time"> 02:59 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/alex-jones-january-6-lawsuit/index.html">Alex Jones sues House January 6 committee</a> CNN: Conspiracy theorist and right-wing provocateur Alex Jones says he will not comply with demands the House Select Committee investigating January 6 has made for his testimony and records, according to a new lawsuit he filed on Monday. 
  <p class="updated_time"> 02:53 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/joe-manchin-offer-to-biden/index.html">Manchin's offer to Biden included universal pre-kindergarten and Obamacare expansion, but no child tax credit</a> CNN: Sen. Joe Manchin, just days before he called off negotiations with President Joe Biden, proposed a version of the Build Back Better plan centered on universal pre-kindergarten program, funded for a full 10 years, as well as an expansion of the Affordable Care Act and hundreds of billions of dollars to address climate change, a person with direct knowledge of the matter confirmed to CNN. 
- <p class="updated_time"> 02:53 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/build-back-better-schumer-manchin.html">Manchin Assails Efforts to Press Him on Biden’s Domestic Policy Bill</a> NYT: Senator Joe Manchin III criticized the White House staff for its handling of negotiations over the legislation, saying officials had pushed him to his “wit’s end.” 
- <p class="updated_time"> 02:46 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/haitian-migrants-border-patrol-lawsuit.html">Haitian Migrants File Lawsuit Protesting Treatment by Border Patrol</a> NYT: Images of Border Patrol agents corralling Black migrants prompted criticism of the Biden administration’s response to an influx of thousands in Del Rio, Texas. 
  <p class="updated_time"> 02:40 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/republicans-navy-seal-vaccine-525773">Almost 50 Republicans back Navy SEAL lawsuit over vaccine mandate</a> Politico: The group of lawmakers, which includes nine senators and 38 representatives, is led by Sens. Ted Cruz, Jim Inhofe and Roger Marshall. 
  <p class="updated_time"> 02:25 PM CT, Dec. 20 </p> 
@@ -298,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/democratic-sky-high-expectations-fall-flat-525537">Dems trip over their own sky-high expectations</a> Politico: Joe Manchin's rejection of the party's social spending bill is just the latest episode in a series of lofty goals it's failed to deliver on. 
  <p class="updated_time"> 06:55 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/elizabeth-warren-covid-positive.html">Elizabeth Warren and Cory Booker Test Positive for Coronavirus</a> NYT: Senators Elizabeth Warren of Massachusetts and Cory Booker of New Jersey, both Democrats, said they were vaccinated and had received a booster shot. 
- <p class="updated_time"> 06:01 PM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Joe Manchin Says He Can't Support Build Back Better Act</a> NYT: The West Virginia senator’s comments dealt a potentially fatal blow to the centerpiece of the president’s domestic agenda, and drew a broadside from the White House. 
  <p class="updated_time"> 05:36 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/stephen-breyer-gop-blockade-biden-supreme-court-pick/index.html">Justice Breyer has Democrats even more worried about the midterm elections</a> CNN: Senate Republicans are poised to deny President Joe Biden an appointment to the Supreme Court if they take the majority in the 2022 midterm elections. 
  <p class="updated_time"> 05:14 PM CT, Dec. 19 </p> 
@@ -386,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/us/politics/unvaccinated-children-covid-testing-cdc.html">C.D.C. Says Unvaccinated Students Exposed to Virus Can ‘Test and Stay’</a> NYT: Two new studies show that unvaccinated children exposed to the virus are safe to stay in school if they remain asymptomatic and get tested twice over the course of a week. 
  <p class="updated_time"> 05:28 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/january-6-committee-capitol-riot.html">Jan. 6 Committee May Add New Expertise for Investigation</a> NYT: As the panel continues to take testimony, it is looking to do more analysis of social media and possible foreign efforts to sow discord in the U.S. before the Capitol riot. 
- <p class="updated_time"> 04:07 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/us/politics/robert-palmer-capitol-riot-sentence.html">Man Gets 5 Years on Capitol Riot Charges, Longest Sentence So Far</a> NYT: Robert Palmer hurled a fire extinguisher at police officers during some of the fiercest fighting on Jan. 6. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
  <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
