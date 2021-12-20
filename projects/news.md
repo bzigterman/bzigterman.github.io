@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:10 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59715820?at_medium=RSS&at_campaign=KARANGA">Covid: Germany tightens restrictions on UK travellers</a> BBC: Germany follows France in banning British tourists and business travellers over Omicron concerns. 
  <p class="updated_time"> 09:04 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Pro-Beijing candidates sweep controversial LegCo election</a> BBC: The results for the controversial poll come after the city saw its lowest ever voter turnout. 
  <p class="updated_time"> 09:01 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59714272?at_medium=RSS&at_campaign=KARANGA">Covid: Christmas travel will fuel spread of Omicron, US expert warns</a> BBC: The US infectious diseases chief says the Covid-19 variant will spread - even among the vaccinated. 
  <p class="updated_time"> 08:40 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
- <p class="updated_time"> 08:19 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59715820?at_medium=RSS&at_campaign=KARANGA">Covid: Germany tightens restrictions on UK travellers</a> BBC: Germany follows France in banning British tourists and business travellers over Omicron concerns. 
  <p class="updated_time"> 07:54 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll surges</a> BBC: At least 208 people have died, police say, as the Red Cross issues an emergency appeal for aid. 
  <p class="updated_time"> 07:46 PM CT, Dec. 19 </p> 
