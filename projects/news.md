@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:28 PM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59733716?at_medium=RSS&at_campaign=KARANGA">WHO urges cancelling some holiday events over Omicron fears</a> BBC: "An event cancelled is better than a life cancelled," warns the World Health Organization's head. 
  <p class="updated_time"> 05:05 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/haiti-missionaries-escape.html">Haiti Missionaries Describe Dramatic Escape From Kidnappers</a> NYT: The group of 12, including several children, walked 10 miles through the night. Later that day, the missionaries were on a Coast Guard flight to Florida. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/world/middleeast/egypt-human-rights-activitists-sentenced.html">Egypt Sentences 3 Human Rights Activists to Prison</a> NYT: The verdicts suggest that the government has not scaled back its crackdown on dissent, despite efforts to improve its image. 
  <p class="updated_time"> 04:00 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066017197/with-the-loss-of-manchins-vote-bidens-climate-change-agenda-may-be-doomed">With the loss of Manchin's vote, Biden's climate change agenda may be doomed</a> NPR: Despite a year of increasing weather disasters, Biden's ambitious climate plans may be doomed in Congress. 
- <p class="updated_time"> 03:35 PM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-59733716?at_medium=RSS&at_campaign=KARANGA">WHO urges cancelling some holiday events over Omicron fears</a> BBC: "An event cancelled is better than a life cancelled," warns the World Health Organization's head. 
  <p class="updated_time"> 03:25 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066017155/finally-scientists-have-found-a-true-millipede">Finally, scientists have found a true millipede</a> NPR: Scientists have finally found a millipede that lives up to its name. Eumillipes persephone has 1,306 legs — that's more than any other animal — and is the only known millipede to exceed 1,000 legs. 
  <p class="updated_time"> 03:10 PM CT, Dec. 20 </p> 
@@ -69,6 +69,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/africa/59734797?at_medium=RSS&at_campaign=KARANGA">Gabon youth coach arrested after male rape claims which he denies</a> BBC: Patrick Eyi, a former Gabon U17 coach, is arrested after claims of sexual abuse against him, which he denies. 
  <p class="updated_time"> 10:56 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59733713?at_medium=RSS&at_campaign=KARANGA">Donald Trump sues NY attorney to block inquiry into his company</a> BBC: The former US president says the probe into his businesses violates his constitutional rights. 
+ <p class="updated_time"> 10:40 AM CT, Dec. 20 </p> 
+ <a href="https://www.wsj.com/articles/chiles-election-of-leftist-as-president-shakes-nations-markets-11640029959">Chile's Election of Leftist as President Shakes Nation's Markets</a> WSJ: Gabriel Boric’s landslide win could empower him to embark on a big economic revamp of the market economy. 
  <p class="updated_time"> 10:35 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
  <p class="updated_time"> 10:21 AM CT, Dec. 20 </p> 
@@ -200,10 +202,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:19 PM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1066060178/alex-jones-infowars-trump-conspiracy-theorist-jan-6-committee-capitol-perry">Trump ally and far-right conspiracy promoter Alex Jones sues House Jan. 6 committee</a> NPR: Alex Jones, the founder of the website Infowars, is suing the House committee in charge of investigating the Jan. 6 Capitol insurrection. 
+ <p class="updated_time"> 05:13 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/scott-perry-january-6-committee/index.html">January 6 committee sends letter to GOP Rep. Scott Perry, asking to interview him</a> CNN: The House select committee investigating the deadly January 6 riot has asked GOP Rep. Scott Perry of Pennsylvania to voluntarily sit down for an interview -- the first known effort by the panel to talk to a lawmaker about helping former President Donald Trump in his efforts to undermine the election. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/climate/tailpipe-rules-climate-biden.html">E.P.A. Announces Tightest-Ever Auto Pollution Rules</a> NYT: Under the new plan, designed to reduce planet-warming tailpipe emissions, new vehicles would be required to average 55 miles per gallon starting in 2026. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
+ <p class="updated_time"> 05:03 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/border-wall/index.html">DHS to close some gaps in border wall in ongoing effort to clean up Trump-era projects</a> CNN: The Department of Homeland Security plans to close small gaps in the border wall, make adjustments to prevent flooding and complete prior construction of access roads, the department announced Monday. 
  <p class="updated_time"> 05:00 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/january-6-rioter-sentenced-assaulting-police-officer/index.html">January 6 rioter gets nearly four years in prison for assaulting police officer</a> CNN: An Ohio man was sentenced to 46 months in jail for assaulting a police officer with a dangerous weapon in a tunnel at the US Capitol on January 6. 
  <p class="updated_time"> 04:50 PM CT, Dec. 20 </p> 
@@ -272,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, the Florida Democrat didn’t rule out a future run for a different public role. 
  <p class="updated_time"> 11:45 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/stephanie-murphy-not-running-reelection/index.html">Florida Democrat on January 6 committee announces she won't run for reelection</a> CNN: Rep. Stephanie Murphy, a Florida Democrat and a member of the House select committee investigating the January 6 US Capitol riot, announced Monday she would not run for reelection. 
- <p class="updated_time"> 11:10 AM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/biden-labor-shortage/index.html">Biden to make 20,000 additional guest-worker visas available this winter amid labor shortages</a> CNN: The Biden administration will make an additional 20,000 seasonal, guest-worker visas available for the winter season for the first time, the Department of Homeland Security announced Monday. 
  <p class="updated_time"> 11:02 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/trump-sues-ny-attorney-general-525736">Trump sues N.Y. attorney general James to block fraud probes</a> Politico: The case accuses James of violating the civil rights of Trump and the Trump Organization. 
  <p class="updated_time"> 11:01 AM CT, Dec. 20 </p> 
@@ -328,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/19/1065681923/a-leftist-millennial-wins-election-as-chiles-next-president">A leftist millennial wins election as Chile's next president</a> NPR: Gabriel Boric, 35, defeated a far-right lawmaker in a divisive election. Poised to become Chile's youngest modern president, he's vowed to expand social services and boost environmental protections. 
  <p class="updated_time"> 03:58 PM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065676445/chileans-choose-next-president-in-divisive-election">Chileans choose next president in divisive election</a> NPR: The runoff in Chile's presidential election pits a far-right candidate against a young far-left candidate. 
- <p class="updated_time"> 03:58 PM CT, Dec. 19 </p> 
- <a href="https://www.npr.org/2021/12/19/1065676438/joe-manchin-may-have-just-killed-bidens-build-back-better-plan">Joe Manchin may have just killed Biden's Build Back Better plan</a> NPR: Democratic West Virginia Senator Joe Manchin went on Fox News this morning and delivered what sounded like a fatal blow to Joe Biden's Build Back Better agenda. 
  <p class="updated_time"> 03:52 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/manchin-biden-agenda-competence-campaign-promise-525623">Biden promised competence and order. Chaos and uncertainty are winning.</a> Politico: The president has had successes. But a year in, his time in office has been defined by the disruptions, including on Sunday. 
  <p class="updated_time"> 01:52 PM CT, Dec. 19 </p> 
@@ -404,8 +408,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/biden-concedes-bbb-bill-wont-get-passed-this-year-525194">Biden concedes Build Back Better bill won’t get passed this year</a> Politico: “It takes time to finalize these agreements, prepare the legislative changes, and finish all the parliamentary and procedural steps needed to enable a Senate vote,” the president said. 
  <p class="updated_time"> 05:44 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-meadows-525172">Jan. 6 committee subpoenas author of debunked election-fraud PowerPoint sent to Meadows</a> Politico: James P. “Phil” Waldron, a retired Army colonel, is asked to provide documents by Jan. 10 and sit for a deposition. 
- <p class="updated_time"> 05:03 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden awards Medal of Honor to 3 soldiers, including the first African American since the Vietnam War</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
  <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
