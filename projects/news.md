@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:41 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/world/europe/uk-brexit-david-frost-liz-truss.html">U.K. Foreign Secretary Inherits Thorny Issue: Northern Ireland Talks</a> NYT: Liz Truss is taking charge of Brexit talks after the surprise resignation of David Frost. If she is successful, it could give her a significant political boost. 
+ <p class="updated_time"> 02:35 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/health/covid-novavax-europe.html">Novavax’s Covid Vaccine Is Authorized in Europe</a> NYT: The vaccine will be the fifth to become available in the E.U., which already has ample supplies. 
  <p class="updated_time"> 02:29 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Prosecutors call Ghislaine Maxwell predator as defence claims sensationalism</a> BBC: Prosecutors said Ms Maxwell was a "sophisticated predator". Her lawyers called it "sensationalism". 
  <p class="updated_time"> 02:27 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/larry-hogan-covid.html">Larry Hogan, Governor of Maryland, Tests Positive for Covid</a> NYT: He said he is feeling fine and that the positive test result came as a result of routine testing. 
- <p class="updated_time"> 02:22 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/health/covid-novavax-europe.html">Novavax’s Covid Vaccine Is Authorized in Europe</a> NYT: The vaccine will be the fifth to become available in the E.U., which already has ample supplies. 
  <p class="updated_time"> 01:56 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-59732935?at_medium=RSS&at_campaign=KARANGA">Elon Musk says he'll be paying $11bn in tax this year</a> BBC: The Tesla founder and world's richest person has been involved in a public spat over his tax bill. 
  <p class="updated_time"> 01:53 PM CT, Dec. 20 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/canada/newfoundland-atlantic-pandemic.html">Why Are So Many Canadians Moving to the Atlantic Provinces?</a> NYT: A Times reporter fulfills his lifelong dream of visiting Newfoundland and explores why so many Canadians are moving to the country’s Atlantic provinces. 
  <p class="updated_time"> 04:57 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html">Why There's a Growing Push to Ban Killer Robots</a> NYT: A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty. 
- <p class="updated_time"> 01:19 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/south-africa-omicron-hospitalizations.html">South Africa Hospitalizations Lower in Omicron Wave, but Caveats Apply</a> NYT: Researchers warned that the epicenter of the country’s outbreak is more highly vaccinated than others, and that natural immunity is also high. 
 
 
 </details>
@@ -198,12 +198,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:40 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/republicans-navy-seal-vaccine-525773">Almost 50 Republicans back Navy SEAL lawsuit over vaccine mandate</a> Politico: The group of lawmakers, which includes nine senators and 38 representatives, is led by Sens. Ted Cruz, Jim Inhofe and Roger Marshall. 
+ <p class="updated_time"> 02:33 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/build-back-better-schumer-manchin.html">Manchin Assails Efforts to Press Him on Biden’s Domestic Policy Bill</a> NYT: Senator Joe Manchin III criticized the White House staff for its handling of negotiations over the legislation, saying officials had pushed him to his “wit’s end.” 
  <p class="updated_time"> 02:25 PM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/alex-jones-sues-jan-6-committee-indicates-plan-to-plead-the-fifth-525770">Alex Jones sues Jan. 6 committee, indicates plan to plead the Fifth</a> Politico: In the suit, Jones says he intends to assert his Fifth amendment rights against self-incrimination. 
+ <a href="https://www.politico.com/news/2021/12/20/alex-jones-sues-jan-6-committee-indicates-plan-to-plead-the-fifth-525770">Alex Jones sues Jan. 6 committee, indicates plan to plead the Fifth</a> Politico: In the lawsuit, Jones says he intends to assert his Fifth Amendment rights against self-incrimination. 
  <p class="updated_time"> 01:56 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-biden-russia-ukraine-obama-2014/index.html">'A four-week window': Biden aims to learn from Obama's mistakes with quick moves to deter Putin from invading Ukraine</a> CNN: When the US intelligence community first picked up signs in the fall that Russia could be preparing a new attack on Ukraine, President Joe Biden directed his administration to act -- and fast. 
- <p class="updated_time"> 01:38 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/build-back-better-schumer-manchin.html">Manchin Assails Efforts to Press Him on Biden’s Domestic Policy Bill</a> NYT: Senator Joe Manchin III criticized the White House staff for its handling of negotiations over the legislation, saying officials had pushed him to his “wit’s end.” 
  <p class="updated_time"> 01:26 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065880187/democrats-still-plan-on-vote-for-the-social-spending-bill-despite-manchins-no">Democrats still plan on vote for the social spending bill, despite Manchin's 'no'</a> NPR: Senate Majority leader Schumer said the Senate will take up the measure "very early" in the new year 
  <p class="updated_time"> 01:10 PM CT, Dec. 20 </p> 
@@ -287,7 +287,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/democratic-sky-high-expectations-fall-flat-525537">Dems trip over their own sky-high expectations</a> Politico: Joe Manchin's rejection of the party's social spending bill is just the latest episode in a series of lofty goals it's failed to deliver on. 
  <p class="updated_time"> 06:01 PM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Manchin Pulls Support From Biden’s Social Policy Bill, Imperiling Its Passage</a> NYT: The West Virginia senator’s comments dealt a potentially fatal blow to the centerpiece of the president’s domestic agenda, and drew a broadside from the White House. 
+ <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Joe Manchin Says He Can't Support Build Back Better Act</a> NYT: The West Virginia senator’s comments dealt a potentially fatal blow to the centerpiece of the president’s domestic agenda, and drew a broadside from the White House. 
  <p class="updated_time"> 05:36 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/stephen-breyer-gop-blockade-biden-supreme-court-pick/index.html">Justice Breyer has Democrats even more worried about the midterm elections</a> CNN: Senate Republicans are poised to deny President Joe Biden an appointment to the Supreme Court if they take the majority in the 2022 midterm elections. 
  <p class="updated_time"> 05:14 PM CT, Dec. 19 </p> 
