@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:54 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/world/europe/europe-divided-omicron-response.html">Omicron Response Divides Europe as Cases Surge</a> NYT: As some nations impose tough restrictions in the face of soaring cases, others, including France, are lying back for the moment. 
  <p class="updated_time"> 05:33 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial jurors begin deliberations</a> BBC: The British socialite faces up to 80 years in prison if convicted on sex-trafficking and perjury charges. 
  <p class="updated_time"> 05:28 PM CT, Dec. 20 </p> 
@@ -202,6 +204,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
+ <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
+ <p class="updated_time"> 05:41 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/manchin-climate-change-coal.html">Behind Manchin’s Opposition, a Long History of Fighting Climate Measures</a> NYT: Senator Joe Manchin III noted climate policy when he said he would vote against the Build Back Better Act. In his life and career, West Virginia coal has loomed large. 
  <p class="updated_time"> 05:35 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/first-puppy-bidens-white-house/index.html">Bidens add to their family with new first puppy</a> CNN: President Joe Biden and first lady Jill Biden have added to their pet family, the first lady's spokesperson tells CNN. 
  <p class="updated_time"> 05:30 PM CT, Dec. 20 </p> 
@@ -216,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/20/politics/border-wall/index.html">DHS to close some gaps in border wall in ongoing effort to clean up Trump-era projects</a> CNN: The Department of Homeland Security plans to close small gaps in the border wall, make adjustments to prevent flooding and complete prior construction of access roads, the department announced Monday. 
  <p class="updated_time"> 05:00 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/january-6-rioter-sentenced-assaulting-police-officer/index.html">January 6 rioter gets nearly four years in prison for assaulting police officer</a> CNN: An Ohio man was sentenced to 46 months in jail for assaulting a police officer with a dangerous weapon in a tunnel at the US Capitol on January 6. 
- <p class="updated_time"> 04:50 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/manchin-climate-change-coal.html">Behind Manchin’s Opposition, a Long History of Fighting Climate Measures</a> NYT: Senator Joe Manchin III noted climate policy when he said he would vote against the Build Back Better Act. In his life and career, West Virginia coal has loomed large. 
  <p class="updated_time"> 04:41 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/military-extremism-rules.html">Pentagon Updates Its Rules on Extremism in the Military</a> NYT: “Liking” white nationalist and extremist content on social media could result in disciplinary action, Defense Department officials said. 
  <p class="updated_time"> 04:36 PM CT, Dec. 20 </p> 
@@ -356,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/johnny-isakson-dies-georgia-senator-525501">Former Sen. Johnny Isakson dies at 76</a> Politico: The Georgia Republican was a millionaire businessman who was known as a consensus builder. 
  <p class="updated_time"> 10:33 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/fauci-safe-travel-covid-prudent-525485">Fauci: Safe holiday travel is possible if people are ‘prudent’</a> Politico: He reiterated that those who are vaccinated and boosted are apt to be safest. 
- <p class="updated_time"> 09:43 AM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/18/politics/washington-state-senator/index.html">State senator dies a month after telling a local radio station he was sick with Covid-19 while in El Salvador</a> CNN: A Washington state senator has died a month after confirming with a local radio station he was in El Salvador and sick with Covid-19. 
  <p class="updated_time"> 09:17 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">White House lights up Manchin after he crushes Biden's megabill</a> Politico: The West Wing accused Manchin of "a breach of his commitments to the president and the senator’s colleagues in the House and Senate," in a blistering statement Sunday. 
  <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
@@ -408,6 +410,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/biden-concedes-bbb-bill-wont-get-passed-this-year-525194">Biden concedes Build Back Better bill won’t get passed this year</a> Politico: “It takes time to finalize these agreements, prepare the legislative changes, and finish all the parliamentary and procedural steps needed to enable a Senate vote,” the president said. 
  <p class="updated_time"> 05:44 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-meadows-525172">Jan. 6 committee subpoenas author of debunked election-fraud PowerPoint sent to Meadows</a> Politico: James P. “Phil” Waldron, a retired Army colonel, is asked to provide documents by Jan. 10 and sit for a deposition. 
+ <p class="updated_time"> 05:03 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden awards Medal of Honor to 3 soldiers, including the first African American since the Vietnam War</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
  <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
@@ -432,8 +436,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/15/a-junkies-guide-to-the-2022-midterms-495470"> A junkie’s guide to the 2022 midterms</a> Politico Playbook: And the House votes to hold Mark Meadows in contempt of Congress. 
  <p class="updated_time"> 11:41 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/house-islam-omar-perry-boebert-524536">Amid caustic rhetoric, House votes to combat Islamophobia</a> Politico: Rep. Scott Perry accused Rep. Ilhan Omar of connections to terrorism. 
- <p class="updated_time"> 06:02 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/democrats-cruz-hawley-biden-ambassadors-524220">Dems launch talks to break Cruz-Hawley blockade of Biden ambassadors</a> Politico: But while the price for one GOP 2024 contender's help is clear, another is less open about what it'll take to ease his holds. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
  <p class="updated_time"> 07:25 AM CT, Dec. 14 </p> 
