@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:21 AM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59715941?at_medium=RSS&at_campaign=KARANGA">Leftist Gabriel Boric to become Chile's youngest ever president</a> BBC: Gabriel Boric, 35, says he will look after democracy after a convincing win over his far-right rival. 
  <p class="updated_time"> 04:16 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065711643/covid-is-again-raging-across-the-u-s-just-as-americans-gather-for-the-holidays">COVID is again raging across the U.S. just as Americans gather for the holidays</a> NPR: Sporting events and live theater announced cancellations amid major increases in new coronavirus cases, in large part because of the omicron variant. 
  <p class="updated_time"> 04:00 AM CT, Dec. 20 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/world/europe/1946-europe-cold-wave.html">1946: Europe Hit By Near-Zero Temperatures</a> NYT: An unseasonable cold wave in many northern parts of the continent resulted in frozen waterways and deep snow. 
  <p class="updated_time"> 03:49 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59723676?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star denies making assault claim as concerns persist</a> BBC: The Chinese tennis star says her post was misunderstood, but the WTA continues to demand an inquiry. 
- <p class="updated_time"> 03:14 AM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59715941?at_medium=RSS&at_campaign=KARANGA">Leftist Gabriel Boric to become Chile's youngest ever president</a> BBC: Gabriel Boric, 35, says he will look after democracy after a convincing win over his far-right rival. 
  <p class="updated_time"> 03:13 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59699556?at_medium=RSS&at_campaign=KARANGA">Tortured to death: Myanmar mass killings revealed</a> BBC: A BBC investigation finds evidence Myanmar's military killed 40 villagers in July, torturing some to death. 
  <p class="updated_time"> 02:52 AM CT, Dec. 20 </p> 
@@ -43,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
  <p class="updated_time"> 11:10 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
+ <p class="updated_time"> 11:00 PM CT, Dec. 19 </p> 
+ <a href="https://www.wsj.com/articles/himalayan-glaciers-are-melting-at-furious-rate-new-study-shows-11639994402">Himalayan Glaciers Are Melting at Furious Rate, New Study Shows</a> WSJ: Glaciers across the region are melting at an extraordinary rate, with new research showing that the vast ice sheets there shrank 10 times faster in the past 40 years than during the previous seven centuries. 
  <p class="updated_time"> 10:36 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59722801?at_medium=RSS&at_campaign=KARANGA">Chile election: Laser shone at Gabriel Boric during victory speech</a> BBC: The bouncing green light did not seem to faze Gabriel Boric as he spoke to supporters in Santiago. 
  <p class="updated_time"> 09:01 PM CT, Dec. 19 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/19/1062792638/our-11-most-read-global-pandemic-stories-of-2021">Our 11 most-read global pandemic stories of 2021</a> NPR: From India to Israel to white-tailed deer in Iowa harboring the coronavirus, our top COVID stories of the year reveal the ever-changing nature of the world's health crisis. 
  <p class="updated_time"> 04:00 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/japan-rakugo.html">She Broke Japan’s Comedic Barrier Playing Drunks and Fools (Yep, Men)</a> NYT: Niyo Katsura has won acclaim in rakugo, a classical form of Japanese storytelling, by doing anything onstage that a man can do. 
- <p class="updated_time"> 01:00 AM CT, Dec. 19 </p> 
- <a href="https://www.wsj.com/articles/in-china-job-cuts-mount-in-sectors-hit-by-tighter-regulations-11639915203">China Job Cuts Mount in Sectors Hit by Tighter Rules</a> WSJ: Technology, education and property companies are shedding employees, dimming the job prospects for college graduates. 
  <p class="updated_time"> 10:44 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/europe/brexit-david-frost-resigns.html">David Frost, Brexit Negotiator, Resigns in Another Blow to Boris Johnson</a> NYT: The move puts new pressure on the prime minister, whose leadership has been called into question by a series of setbacks, including a new wave of Covid infections. 
  <p class="updated_time"> 09:34 PM CT, Dec. 18 </p> 
@@ -127,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html">Oriol Bohigas, Architect Who Helped Transform Barcelona, Dies at 95</a> NYT: He was a mastermind of the city’s overhaul in preparation for the 1992 Summer Olympics, which helped turn it into a major tourist destination. 
  <p class="updated_time"> 12:43 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/middleeast/baghdad-book-fair-iraq.html">Reveling in the Joys of Books, and Reading, at a Baghdad Book Fair</a> NYT: Iraq is home to literary traditions ancient and modern, and to legions of avid readers who find a new book more meaningful to them than a new government. 
- <p class="updated_time"> 11:57 AM CT, Dec. 18 </p> 
- <a href="https://www.wsj.com/articles/irans-top-diplomat-in-yemen-leaves-the-country-11639868219">Iran's Top Diplomat in Yemen Leaves the Country</a> WSJ: Hassan Irloo flew out of the country in an agreement between Houthi militants controlling the capital and Saudi Arabia, according to regional officials. 
  <p class="updated_time"> 11:00 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/europe/france-valerie-pecresse-republicans.html">In a France Fearful of Immigrants, Another Candidate Tacks Hard Right</a> NYT: Valérie Pécresse, the center-right candidate in April’s presidential election, has adopted the vocabulary of the far right when discussing immigration. 
  <p class="updated_time"> 10:07 AM CT, Dec. 18 </p> 
@@ -198,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
+ <a href="https://www.politico.com/news/2021/12/20/cdc-covid-omicron-delta-tracking-525621">‘It is embarrassing’: CDC struggles to track Covid cases as Omicron looms</a> Politico: The U.S. was behind other countries in charting the spread of disease in the pandemic’s disastrous early months. It’s still behind as new variants threaten to disrupt the winter. 
  <p class="updated_time"> 04:06 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">3 Democratic lawmakers announce positive Covid-19 tests</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
  <p class="updated_time"> 04:03 AM CT, Dec. 20 </p> 
@@ -211,7 +211,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:59 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">White House issues damning statement against Manchin after saying he won't vote for Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 07:56 PM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/news/2021/12/19/14-policies-manchin-social-spending-525681">How 14 policies could survive — or die — after Manchin’s ‘no’</a> Politico: Despite his clear opposition  to enacting President Joe Biden’s $1.7T social spending package, the West Virginia senator actually likes a slew of individual policies in the plan, giving Democrats hope for turning some of those ideas into law. 
+ <a href="https://www.politico.com/news/2021/12/19/14-policies-manchin-social-spending-525681">How 14 policies could survive — or die — after Manchin’s ‘no’</a> Politico: Despite his clear opposition to enacting President Joe Biden’s $1.7T social spending package, the West Virginia senator actually likes a slew of individual policies in the plan, giving Democrats hope for turning some of those ideas into law. 
  <p class="updated_time"> 07:48 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/francis-collins-trump-political-pressure-republicans/index.html">Outgoing NIH director says Trump and other Republicans pressured him to endorse unproven Covid-19 remedies and to fire Fauci</a> CNN: The outgoing director of the National Institutes of Health said Sunday that he faced political pressure from then-President Donald Trump and other Republicans to endorse unproven Covid-19 remedies such as hydroxychloroquine and to fire Dr. Anthony Fauci, the head of NIH's National Institute of Allergy and Infectious Diseases. 
  <p class="updated_time"> 07:30 PM CT, Dec. 19 </p> 
@@ -230,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/19/1065676445/chileans-choose-next-president-in-divisive-election">Chileans choose next president in divisive election</a> NPR: The runoff in Chile's presidential election pits a far-right candidate against a young far-left candidate. 
  <p class="updated_time"> 03:58 PM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065676438/joe-manchin-may-have-just-killed-bidens-build-back-better-plan">Joe Manchin may have just killed Biden's Build Back Better plan</a> NPR: Democratic West Virginia Senator Joe Manchin went on Fox News this morning and delivered what sounded like a fatal blow to Joe Biden's Build Back Better agenda. 
- <p class="updated_time"> 03:52 PM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/news/2021/12/19/manchin-biden-agenda-competence-campaign-promise-525623">Biden promised competence and order. Chaos and uncertainty are winning.</a> Politico: The president has had successes. But a year in, his time in office has been defined by the disruptions, including on Sunday. 
  <p class="updated_time"> 03:05 PM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065665886/manchin-says-build-back-betters-climate-measures-are-risky-thats-not-true">Manchin says Build Back Better's climate measures are risky. That's not true</a> NPR: West Virginia Sen. Joe Manchin had spent months watering down Biden's ambitious climate plans. His final objections to the bill's climate measures are misleading. 
  <p class="updated_time"> 01:52 PM CT, Dec. 19 </p> 
@@ -334,6 +332,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065470550/russia-envoy-says-moscow-might-up-the-ante-if-the-west-ignores-its-demands">Russia envoy says Moscow might up the ante if the West ignores its demands</a> NPR: Deputy Foreign Minister Sergei Ryabkov accused Western allies of continuously pushing the envelope in relations with Russia. 
  <p class="updated_time"> 08:36 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/biden-coronavirus-omicron-winter.html">Biden Struggles to Beat Back a Resurgent Virus Once Again</a> NYT: A new variant and vaccine resistance have upended the president’s plans for a hopeful holiday season. 
+ <p class="updated_time"> 08:22 PM CT, Dec. 17 </p> 
+ <a href="https://www.politico.com/news/2021/12/17/appeals-court-lifts-stay-vaccine-or-test-525313">Appeals court lifts stay on administration's vaccine-or-test mandate for large businesses</a> Politico: Business groups quickly filed an appeal to the Supreme Court. 
  <p class="updated_time"> 05:28 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/january-6-committee-capitol-riot.html">Jan. 6 Committee May Add New Expertise for Investigation</a> NYT: As the panel continues to take testimony, it is looking to do more analysis of social media and possible foreign efforts to sow discord in the U.S. before the Capitol riot. 
  <p class="updated_time"> 05:17 PM CT, Dec. 17 </p> 
@@ -344,6 +344,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/us/politics/robert-palmer-capitol-riot-sentence.html">Man Gets 5 Years on Capitol Riot Charges, Longest Sentence So Far</a> NYT: Robert Palmer hurled a fire extinguisher at police officers during some of the fiercest fighting on Jan. 6. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
+ <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
+ <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
  <p class="updated_time"> 02:39 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/lithium-mining-energy-climate/index.html">A rush to mine lithium in Nevada is pitting climate advocates and environmental groups against each other</a> CNN: In an ancient and now extinct supervolcano sitting in northern Nevada lies a treasure that its seekers call "white gold." 
  <p class="updated_time"> 11:22 AM CT, Dec. 17 </p> 
