@@ -190,6 +190,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:50 AM CT, Dec. 20 </p> 
+ <a href="https://www.politico.com/news/2021/12/20/afghan-evacuees-future-525725">Afghan evacuees ponder future as U.S. empties camp sites</a> Politico: More than 29,000 Afghans remain on U.S. military bases thanks, in part, to a shortage of affordable housing and the pandemic. 
  <p class="updated_time"> 07:51 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/build-back-better-schumer-manchin.html">Schumer Vows to Bring Spending Plan Back to Senate</a> NYT: A day after Senator Joe Manchin III said he could not support a $2.2 trillion climate, tax and spending plan, Senator Chuck Schumer of New York, the majority leader, was undeterred. 
  <p class="updated_time"> 07:47 AM CT, Dec. 20 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
  <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
- <p class="updated_time"> 12:26 PM CT, Dec. 17 </p> 
- <a href="https://www.politico.com/news/2021/12/17/trump-ally-brandon-straka-information-525272">Trump ally Straka has provided potentially significant information</a> Politico: Prosecutors have asked for a 30-day sentencing delay so that his new evidence "can be properly evaluated." 
  <p class="updated_time"> 11:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/climate-change-us-financial-threat.html">Climate Change an ‘Emerging Threat’ to U.S. Financial Stability, Regulators Say</a> NYT: The Financial Stability Oversight Council issued a formal warning on the economic damage that global warming could inflict. 
  <p class="updated_time"> 10:44 AM CT, Dec. 17 </p> 
