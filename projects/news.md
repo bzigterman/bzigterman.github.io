@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:41 AM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59722285?at_medium=RSS&at_campaign=KARANGA">Carlos Marin: Simon Cowell 'devastated' at death of Il Divo singer at 53</a> BBC: The classical group's Carlos Marin died at the age of 53 after going into hospital during a UK tour. 
+ <p class="updated_time"> 02:31 AM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59699556?at_medium=RSS&at_campaign=KARANGA">Tortured to death: Myanmar mass killings revealed</a> BBC: A BBC investigation finds evidence Myanmar's military killed 40 villagers in July, torturing some to death. 
  <p class="updated_time"> 02:18 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065722642/pro-beijing-candidates-sweep-hong-kong-elections">Pro-Beijing candidates sweep Hong Kong elections</a> NPR: Hong Kong leader Carrie Lam said she was "satisfied" with the election despite the 30.2% voter turnout being the lowest since the British handed Hong Kong over to China in 1997. 
  <p class="updated_time"> 01:26 AM CT, Dec. 20 </p> 
@@ -16,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:30 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">Hong Kong Elections: How 'Patriots Only' Bolsters Beijing's Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials have urged the public to vote, but turnout Sunday hit a record low. 
  <p class="updated_time"> 12:29 AM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59723278?at_medium=RSS&at_campaign=KARANGA">Pope Francis condemns domestic abuse as "almost satanic"</a> BBC: The Pope has often spoken out against domestic violence, but Sunday's remarks are his strongest yet. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59723278?at_medium=RSS&at_campaign=KARANGA">Pope Francis condemns domestic abuse as 'almost satanic'</a> BBC: The Pope has often spoken out against domestic violence, but Sunday's remarks are his strongest yet. 
  <p class="updated_time"> 11:41 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
  <p class="updated_time"> 11:10 PM CT, Dec. 19 </p> 
@@ -31,12 +35,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll surges</a> BBC: At least 208 people have died, police say, as the Red Cross issues an emergency appeal for aid. 
  <p class="updated_time"> 07:45 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/washington-senator-covid-dead-doug-eriksen.html">Washington State Senator Doug Eriksen Died After Covid Infection</a> NYT: Doug Ericksen was a Republican who helped lead opposition to Washington State’s Covid-19 emergency orders and vaccine mandates. 
+ <p class="updated_time"> 07:36 PM CT, Dec. 19 </p> 
+ <a href="https://www.wsj.com/articles/chinese-tennis-star-peng-shuai-denies-making-sexual-assault-accusations-11639982172">Tennis Star Peng Shuai Denies Making Sexual-Assault Accusations</a> WSJ: Chinese tennis star Peng Shuai denied accusing anyone of sexual assault, suggesting a global wave of concern for her safety and wellbeing was the result of misunderstandings. 
  <p class="updated_time"> 07:34 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59715941?at_medium=RSS&at_campaign=KARANGA">Leftist Gabriel Boric wins Chile presidential election</a> BBC: His far-right rival José Antonio Kast conceded defeat less than 90 minutes after polls closed on Sunday. 
  <p class="updated_time"> 07:03 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59689710?at_medium=RSS&at_campaign=KARANGA">Algeria and a question of identity: Who counts as African?</a> BBC: North Africans love the Cup of Nation but for some, their African identity is open to question. 
  <p class="updated_time"> 06:59 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59667645?at_medium=RSS&at_campaign=KARANGA">The world’s first octopus farm - should it go ahead?</a> BBC: The world’s first commercial octopus farm is closer to becoming reality - but scientists are up in arms. 
+ <a href="https://www.bbc.co.uk/news/science-environment-59667645?at_medium=RSS&at_campaign=KARANGA">They feel pain and happiness - should octopuses be farmed?</a> BBC: The world’s first commercial octopus farm is closer to becoming reality - but scientists are up in arms. 
  <p class="updated_time"> 06:51 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/health/omicron-vaccines-efficacy.html">Most of the World’s Vaccines Likely Won’t Prevent Infection From Omicron</a> NYT: They do seem to offer significant protection against severe illness, but the consequences of rapidly spreading infection worry many public health experts. 
  <p class="updated_time"> 06:46 PM CT, Dec. 19 </p> 
@@ -45,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59674930?at_medium=RSS&at_campaign=KARANGA">What is the metaverse?</a> BBC: From virtual versions of ourselves to augmented reality, we break down what the metaverse is. 
  <p class="updated_time"> 06:04 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59722800?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Protesters flee tear gas in Khartoum on uprising anniversary</a> BBC: It's three years since the overthrow of the country's long-term President Omar al-Bashir. 
- <p class="updated_time"> 06:04 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59699556?at_medium=RSS&at_campaign=KARANGA">Tortured to death: Myanmar mass killings revealed</a> BBC: A BBC investigation finds evidence Myanmar's military killed 40 villagers in July, torturing some to death. 
  <p class="updated_time"> 06:02 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59722770?at_medium=RSS&at_campaign=KARANGA">Australia bouncy castle fall: Sixth child dies in hospital</a> BBC: Chace Harrison, 11, died in hospital three days after falling from a castle blown into the air. 
  <p class="updated_time"> 06:01 PM CT, Dec. 19 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/hong-kong-voters-widely-shun-election-for-beijing-approved-legislators-11639927626">Hong Kong Voters Widely Shun Election for Beijing-Approved Candidates</a> WSJ: Turnout at Sunday’s poll was a record low for legislative elections since the city returned to Chinese rule in 1997. 
  <p class="updated_time"> 03:05 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59720745?at_medium=RSS&at_campaign=KARANGA">Senator Joe Manchin threatens to sink signature Biden bill</a> BBC: Democrat Joe Manchin throws the Build Back Better Act into jeopardy, saying he will not vote for it. 
- <p class="updated_time"> 02:36 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59722285?at_medium=RSS&at_campaign=KARANGA">Il Divo singer Carlos Marin dies aged 53</a> BBC: The Spanish singer is remembered by other members of the group for his unique voice and spirit. 
  <p class="updated_time"> 02:05 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/europe/uk-lockdown-omicron-covid-boris-johnson.html">U.K. Weighing Lockdown Amid an Omicron Wave and Political Turmoil</a> NYT: Britain’s health secretary said on Sunday he wouldn’t rule out more restrictions before Christmas, but the prime minister would most likely face sharp pushback from his own party. 
  <p class="updated_time"> 01:47 PM CT, Dec. 19 </p> 
