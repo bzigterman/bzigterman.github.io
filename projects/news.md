@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:12 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59723676?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star denies assault claim as concerns persist</a> BBC: The Chinese tennis star says her post was misunderstood, but the WTA says it remains concerned. 
+ <p class="updated_time"> 11:10 PM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
  <p class="updated_time"> 10:10 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59715820?at_medium=RSS&at_campaign=KARANGA">Covid: Germany tightens restrictions on UK travellers</a> BBC: Germany follows France in banning British tourists and business travellers over Omicron concerns. 
  <p class="updated_time"> 09:04 PM CT, Dec. 19 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59719323?at_medium=RSS&at_campaign=KARANGA">Myanmar: BBC investigates military's mass killings</a> BBC: Eyewitnesses and survivors say that soldiers rounded up villagers before separating the men and killing them. 
  <p class="updated_time"> 06:00 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-59651334?at_medium=RSS&at_campaign=KARANGA">The robot chefs that can cook your Christmas dinner</a> BBC: If you fancy not having to do the cooking on 25 December then a robotic chef might be the solution. 
- <p class="updated_time"> 05:08 PM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
  <p class="updated_time"> 04:24 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59721962?at_medium=RSS&at_campaign=KARANGA">Iran execution of Heidar Ghorbani sparks rare anti-government protest</a> BBC: The death sentence handed to Kurdish man Heidar Ghorbani was viewed by rights groups as political. 
  <p class="updated_time"> 03:49 PM CT, Dec. 19 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: More than 140 people are now believed to have been killed by the storm, and rescuers are still trying to reach some devastated areas. 
  <p class="updated_time"> 08:45 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/biden-national-address-on-omicron.html">Biden to Address Nation About Omicron on Tuesday</a> NYT: The remarks are expected to detail how the United States will respond to the latest pandemic challenge. 
- <p class="updated_time"> 08:21 AM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59715937?at_medium=RSS&at_campaign=KARANGA">Man beaten to death for 'sacrilege' attempt at Sikh Golden Temple in India</a> BBC: Eyewitnesses allege the man had tried to commit a sacrilegious act at the Golden Temple in India. 
  <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065626402/chileans-vote-in-runoff-election-for-new-president">Chileans vote in runoff election for new president</a> NPR: Chileans choose a president today in a runoff election. People in a small coastal fishing village are unhappy the choice is between one candidate on the far right and another on the far left. 
  <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
