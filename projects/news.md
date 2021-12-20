@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:41 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/sports/rafael-nadal-covid.html">Rafael Nadal Tests Positive for the Coronavirus</a> NYT: The Spanish tennis star said that he was isolating at home. The test further jeopardized his hopes of playing in next month’s Australian Open. 
  <p class="updated_time"> 09:02 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/pope-domestic-violence-almost-satanic.html">Pope Says High Number of Domestic Violence Cases is ‘Almost Satanic’</a> NYT: Francis once again decried the scourge of domestic abuse, which has increased during the months of pandemic lockdown. 
  <p class="updated_time"> 07:27 AM CT, Dec. 20 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/britain-records-more-than-93000-daily-infections-a-new-high.html">Britain records more than 93,000 daily infections, a new high.</a> NYT: Friday was the third consecutive day that the country’s case count set a record. 
  <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/americas/chile-adoption-pinochet.html">Stolen at Birth, Chilean Adoptees Uncover Their Past</a> NYT: Hundreds of Chileans adopted abroad have learned that they were trafficked. Investigators believe thousands of children may have been taken from their parents during Chile’s dictatorship. 
- <p class="updated_time"> 11:30 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/17/world/australia/the-giant-who-lives-in-the-melbourne-museum.html">The Giant Who Lives in the Melbourne Museum</a> NYT: The world’s most complete triceratops skeleton ever found will go on display next year, displacing a beloved, if quirky, exhibit of taxidermy. 
 
 
 </details>
