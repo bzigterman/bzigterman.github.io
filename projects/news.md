@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:26 AM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59723676?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star denies making assault claim as concerns persist</a> BBC: The Chinese tennis star says her post was misunderstood, but the WTA continues to call for a probe. 
  <p class="updated_time"> 12:38 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Pro-Beijing candidates sweep controversial LegCo election</a> BBC: The results for the controversial poll come after the city saw its lowest ever voter turnout. 
  <p class="updated_time"> 12:30 AM CT, Dec. 20 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59723278?at_medium=RSS&at_campaign=KARANGA">Pope Francis condemns domestic abuse as "almost satanic"</a> BBC: The Pope has often spoken out against domestic violence, but Sunday's remarks are his strongest yet. 
  <p class="updated_time"> 11:41 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
- <p class="updated_time"> 11:12 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59723676?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star denies making assault claim as concerns persist</a> BBC: The Chinese tennis star says her post was misunderstood, but the WTA continues to call for a probe. 
  <p class="updated_time"> 11:10 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
  <p class="updated_time"> 10:10 PM CT, Dec. 19 </p> 
