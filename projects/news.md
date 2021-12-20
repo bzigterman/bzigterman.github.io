@@ -123,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59659881?at_medium=RSS&at_campaign=KARANGA">BBC Bitcoin mining report used in crypto-scam</a> BBC: The BBC’s Silicon Valley correspondent investigates how his report was used to steal life savings. 
  <p class="updated_time"> 04:04 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/london-major-incident.html">With Omicron Surging, London Declares a ‘Major Incident'</a> NYT: The Greater London area has seen cases rise by nearly 200 percent over the last two weeks, making it the hardest hit area of Britain. 
- <p class="updated_time"> 01:29 PM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html">Oriol Bohigas, Architect Who Helped Transform Barcelona, Dies at 95</a> NYT: He was a mastermind of the city’s overhaul in preparation for the 1992 Summer Olympics, which helped turn it into a major tourist destination. 
  <p class="updated_time"> 12:43 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/middleeast/baghdad-book-fair-iraq.html">Reveling in the Joys of Books, and Reading, at a Baghdad Book Fair</a> NYT: Iraq is home to literary traditions ancient and modern, and to legions of avid readers who find a new book more meaningful to them than a new government. 
  <p class="updated_time"> 11:00 AM CT, Dec. 18 </p> 
@@ -167,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html">Why There's a Growing Push to Ban Killer Robots</a> NYT: A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty. 
  <p class="updated_time"> 04:44 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Moscow masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected. 
- <p class="updated_time"> 03:23 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Recommends Pfizer or Moderna Vaccines Over J.&J</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
  <p class="updated_time"> 01:19 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/south-africa-omicron-hospitalizations.html">South Africa Hospitalizations Lower in Omicron Wave, but Caveats Apply</a> NYT: Researchers warned that the epicenter of the country’s outbreak is more highly vaccinated than others, and that natural immunity is also high. 
  <p class="updated_time"> 10:27 AM CT, Dec. 17 </p> 
@@ -185,10 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/americas/chile-adoption-pinochet.html">Stolen at Birth, Chilean Adoptees Uncover Their Past</a> NYT: Hundreds of Chileans adopted abroad have learned that they were trafficked. Investigators believe thousands of children may have been taken from their parents during Chile’s dictatorship. 
  <p class="updated_time"> 11:30 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/australia/the-giant-who-lives-in-the-melbourne-museum.html">The Giant Who Lives in the Melbourne Museum</a> NYT: The world’s most complete triceratops skeleton ever found will go on display next year, displacing a beloved, if quirky, exhibit of taxidermy. 
- <p class="updated_time"> 08:59 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/health/coronavirus-omicron-variant.html">Scientists Are Racing to Gauge the Threat of Omicron</a> NYT: The variant will spread quickly through the United States, experts say. What happens after that is less certain. 
- <p class="updated_time"> 02:16 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/health/covid-pandemic-story.html">In 50 Words, Tell Us Your Best Pandemic Story</a> NYT: We want to hear about your Covid memories. 
 
 
 </details>
@@ -196,12 +188,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:11 AM CT, Dec. 20 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/20/the-case-for-why-bbb-is-dead-and-for-why-it-may-not-be-495522"> The case for why BBB is dead — and for why it may not be</a> Politico Playbook: And Rep. Albio Sires (D-N.J.) won’t run for reelection. 
+ <p class="updated_time"> 04:59 AM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/democrats-manchin-climate-build-back-better/index.html">'I'm kind of speechless': Democrats scramble to salvage climate provisions after Manchin sinks Build Back Better</a> CNN: With Sen. Joe Manchin confirming he's a "no" on President Joe Biden's social spending package, the fate of the bill's $550 bill worth of climate and energy provisions -- and the President's climate agenda -- are now on the line. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
+ <a href="https://www.politico.com/news/2021/12/20/iowa-caucuses-may-survive-after-all-525629">Dems hit brakes on bid to dethrone Iowa, New Hampshire in 2024</a> Politico: Party officials don’t want to project a disunified front with a stormy midterm election season ahead. 
  <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/cdc-covid-omicron-delta-tracking-525621">‘It is embarrassing’: CDC struggles to track Covid cases as Omicron looms</a> Politico: The U.S. was behind other countries in charting the spread of disease in the pandemic’s disastrous early months. It’s still behind as new variants threaten to disrupt the winter. 
+ <p class="updated_time"> 04:15 AM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1065695953/build-back-better-climate-change">What losing Build Back Better means for climate change</a> NPR: Climate scientists warn that emissions need to fall quickly. Those cuts will be even tougher with the Build Back Better legislation shelved for the foreseeable future. 
  <p class="updated_time"> 04:06 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">3 Democratic lawmakers announce positive Covid-19 tests</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
- <p class="updated_time"> 04:03 AM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/democrats-manchin-climate-build-back-better/index.html">'I'm kind of speechless': Democrats scramble to salvage climate provisions after Manchin sinks Build Back Better</a> CNN: With Sen. Joe Manchin confirming he's a "no" on President Joe Biden's social spending package, the fate of the bill's $550 bill worth of climate and energy provisions -- and the President's climate agenda -- are now on the line. 
  <p class="updated_time"> 02:00 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/amtrak-expansion-funding-infrastructure-bill.html">Billions in Amtrak Funding Could Modernize Aging Rail System</a> NYT: The $1 trillion infrastructure bill that President Biden signed into law includes money that Amtrak hopes can fix crumbling bridges and tunnels along the Northeast Corridor. 
  <p class="updated_time"> 11:13 PM CT, Dec. 19 </p> 
@@ -298,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/us/politics/congress-gridlock-democracy.html">Congress Ends ‘Horrible Year’ With Divisions as Bitter as Ever</a> NYT: Democrats’ achievements were overshadowed by legislative setbacks, fallout from the Jan. 6 attack and a sense that Congress was not rising to meet a perilous moment in history. 
  <p class="updated_time"> 02:14 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/18/politics/holiday-covid-tiktok-threat-what-matters/index.html">The reality of the pandemic is settling in. So is America's anxiety</a> CNN: It's supposed to be the "most wonderful time of the year," but there's a whole heck of a lot to make people anxious and afraid as we barrel into the holiday season. 
- <p class="updated_time"> 11:48 AM CT, Dec. 18 </p> 
- <a href="https://www.politico.com/news/2021/12/18/white-house-not-budging-student-loans-525357">White House not budging on Feb. 1 end to student loans forgiveness</a> Politico: At a meeting with Biden officials Wednesday, advocates tried to "sound the alarm to them about what we believe to be a very serious political mistake that they’re about to be making." 
  <p class="updated_time"> 11:43 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065331379/electric-cars-charging-network-white-house-harris">The White House wants a robust electric vehicle charging network. Here's the plan</a> NPR: The White House this week outlined a plan to install electric vehicle charger nationwide, a step it says is vital to improving the accessibility and practicality of nontraditional vehicles. 
  <p class="updated_time"> 10:16 AM CT, Dec. 18 </p> 
@@ -324,12 +320,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065477148/week-in-politics-new-information-from-jan-6-committee-build-back-better-stalled">Week in politics: New information from Jan. 6 committee; Build Back Better stalled</a> NPR: Revelations from the Congressional committee investigating the Jan. 6 insurrection, plus why the Build Back Better bill is not going to a vote in the Senate by Christmas. 
  <p class="updated_time"> 07:01 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/democrats-2022-hurricane-525283">‘Let’s get a drink’: Dems confront prospect of a 2022 hurricane</a> Politico: Staring at the possibility of major midterm losses, Democratic leaders are just hoping to limit the damage. 
- <p class="updated_time"> 07:01 AM CT, Dec. 18 </p> 
- <a href="https://www.politico.com/news/2021/12/18/covid-omicron-booster-vaccines-525308">Bad Covid winter brings questions about what's 'fully vaccinated'</a> Politico: Discussions within the administration are focused on whether a third shot should be considered part of the original Covid-19 vaccine regimen. 
  <p class="updated_time"> 06:01 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065293261/after-years-at-the-center-of-political-power-mark-meadows-now-faces-legal-jeopar">After years at the center of political power, Mark Meadows now faces legal jeopardy</a> NPR: It's the latest chapter in Mark Meadows' political career, which has been defined by conflict in Washington. 
- <p class="updated_time"> 04:26 AM CT, Dec. 18 </p> 
- <a href="https://www.npr.org/2021/12/18/1065470550/russia-envoy-says-moscow-might-up-the-ante-if-the-west-ignores-its-demands">Russia envoy says Moscow might up the ante if the West ignores its demands</a> NPR: Deputy Foreign Minister Sergei Ryabkov accused Western allies of continuously pushing the envelope in relations with Russia. 
  <p class="updated_time"> 08:36 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/biden-coronavirus-omicron-winter.html">Biden Struggles to Beat Back a Resurgent Virus Once Again</a> NYT: A new variant and vaccine resistance have upended the president’s plans for a hopeful holiday season. 
  <p class="updated_time"> 08:22 PM CT, Dec. 17 </p> 
@@ -344,6 +336,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/us/politics/robert-palmer-capitol-riot-sentence.html">Man Gets 5 Years on Capitol Riot Charges, Longest Sentence So Far</a> NYT: Robert Palmer hurled a fire extinguisher at police officers during some of the fiercest fighting on Jan. 6. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
+ <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
+ <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
  <p class="updated_time"> 02:39 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/lithium-mining-energy-climate/index.html">A rush to mine lithium in Nevada is pitting climate advocates and environmental groups against each other</a> CNN: In an ancient and now extinct supervolcano sitting in northern Nevada lies a treasure that its seekers call "white gold." 
  <p class="updated_time"> 11:22 AM CT, Dec. 17 </p> 
@@ -368,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/17/this-is-a-real-f-ing-problem-495509"> ‘This is a real f---ing problem’</a> Politico Playbook: And President Joe Biden concedes that the BBB will be delayed. 
  <p class="updated_time"> 05:12 AM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/omicron-biden-covid-politics/index.html">Omicron battle brings delicate questions for a weary nation</a> CNN: The Omicron winter is coming. 
- <p class="updated_time"> 04:31 AM CT, Dec. 17 </p> 
- <a href="https://www.politico.com/news/2021/12/17/gop-trump-oust-mcconnell-525207">GOP blows off Trump’s bid to oust McConnell</a> Politico: Just two Senate candidates — and no senators — have publicly called for replacing the Republican leader. 
  <p class="updated_time"> 04:02 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/black-history-2021.html">The Biggest Black History Events in 2021</a> NYT: After the tumult and triumphs of 2020, here are the achievements that shaped the first year following the country’s racial reckoning. 
  <p class="updated_time"> 11:25 PM CT, Dec. 16 </p> 
