@@ -30,7 +30,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:51 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/health/omicron-vaccines-efficacy.html">Most of the World’s Vaccines Likely Won’t Prevent Infection From Omicron</a> NYT: They do seem to offer significant protection against severe illness, but the consequences of rapidly spreading infection worry many public health experts. 
  <p class="updated_time"> 06:46 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59694246?at_medium=RSS&at_campaign=KARANGA">Covid-19: Can freebies tempt Indians to get vaccinated?</a> BBC: Some Indian states have offered unusual vaccine incentives, but experts say this may not be enough. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59694246?at_medium=RSS&at_campaign=KARANGA">Covid-19: Can alcohol, cooking oil tempt unvaccinated Indians?</a> BBC: Some Indian states have offered unusual vaccine incentives, but experts say this may not be enough. 
  <p class="updated_time"> 06:16 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59674930?at_medium=RSS&at_campaign=KARANGA">What is the metaverse?</a> BBC: From virtual versions of ourselves to augmented reality, we break down what the metaverse is. 
  <p class="updated_time"> 06:04 PM CT, Dec. 19 </p> 
@@ -194,12 +194,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:50 PM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">3 Democratic lawmakers announce positive Covid-19 tests</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
  <p class="updated_time"> 08:01 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-biden-russia-ukraine-obama-2014/index.html">'A four-week window': Biden aims to learn from Obama's mistakes with quick moves to deter Putin from invading Ukraine</a> CNN: When the US intelligence community first picked up signs in the fall that Russia could be preparing a new attack on Ukraine, President Joe Biden directed his administration to act -- and fast. 
  <p class="updated_time"> 07:59 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">White House issues damning statement against Manchin after saying he won't vote for Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
- <p class="updated_time"> 07:58 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">Sens. Warren and Booker test positive for Covid-19</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
  <p class="updated_time"> 07:56 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/14-policies-manchin-social-spending-525681">How 14 policies could survive — or die — after Manchin’s ‘no’</a> Politico: Despite his clear opposition  to enacting President Joe Biden’s $1.7T social spending package, the West Virginia senator actually likes a slew of individual policies in the plan, giving Democrats hope for turning some of those ideas into law. 
  <p class="updated_time"> 07:48 PM CT, Dec. 19 </p> 
