@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:05 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/haiti-missionaries-escape.html">Haiti Missionaries Describe Dramatic Escape From Kidnappers</a> NYT: The group of 12, including several children, walked 10 miles through the night. Later that day, the missionaries were on a Coast Guard flight to Florida. 
+ <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
  <p class="updated_time"> 04:45 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59736335?at_medium=RSS&at_campaign=KARANGA">Saudi-led coalition forces target Yemeni airport in air strike</a> BBC: Saudi state media claimed that UN aid workers were warned to leave the airport ahead of the strike. 
  <p class="updated_time"> 04:44 PM CT, Dec. 20 </p> 
@@ -41,12 +45,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59715941?at_medium=RSS&at_campaign=KARANGA">Leftist Gabriel Boric to become Chile's youngest ever president</a> BBC: Gabriel Boric, 35, says he will look after democracy after a convincing win over his far-right rival. 
  <p class="updated_time"> 01:47 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/sports/rafael-nadal-covid.html">Rafael Nadal Tests Positive for the Coronavirus</a> NYT: The Spanish tennis star said he was isolating at home. The test further jeopardized his hopes of playing in next month’s Australian Open. 
- <p class="updated_time"> 01:30 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/haiti-missionaries-escape.html">Haiti Missionaries Describe Dramatic Escape From Kidnappers</a> NYT: The group of 12 included several children. They walked 10 miles through the night. Later that day, they were on a Coast Guard flight to Florida. 
  <p class="updated_time"> 01:18 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065865472/omicron-holiday-travel-gatherings-restrictions-world">As omicron surges, nations announce rules on gatherings and travel ahead of holidays</a> NPR: European nations implemented a wave of new restrictions as case numbers rise. And Israel added the U.S. and Canada to its "red list" of countries from which citizens are barred from travel. 
- <p class="updated_time"> 12:57 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
  <p class="updated_time"> 12:33 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/ireland-cure-folk-medicine.html">Secret Charms and 7th Sons: ‘The Cure’ Is Alive and Well in Ireland</a> NYT: Belief in the benefits of the cure, a type of folk medicine that interweaves home remedies with superstition, religion and a sprinkle of magic is still a way of life in pockets of Ireland. 
  <p class="updated_time"> 12:19 PM CT, Dec. 20 </p> 
@@ -200,6 +200,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/climate/tailpipe-rules-climate-biden.html">E.P.A. Announces Tightest-Ever Auto Pollution Rules</a> NYT: Under the new plan, designed to reduce planet-warming tailpipe emissions, new vehicles would be required to average 55 miles per gallon starting in 2026. 
+ <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
+ <p class="updated_time"> 05:00 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/january-6-rioter-sentenced-assaulting-police-officer/index.html">January 6 rioter gets nearly four years in prison for assaulting police officer</a> CNN: An Ohio man was sentenced to 46 months in jail for assaulting a police officer with a dangerous weapon in a tunnel at the US Capitol on January 6. 
  <p class="updated_time"> 04:50 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/manchin-climate-change-coal.html">Behind Manchin’s Opposition, a Long History of Fighting Climate Measures</a> NYT: Senator Joe Manchin III noted climate policy when he said he would vote against the Build Back Better Act. In his life and career, West Virginia coal has loomed large. 
  <p class="updated_time"> 04:41 PM CT, Dec. 20 </p> 
@@ -212,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/20/politics/joe-manchin-democratic-party-build-back-better/index.html">Manchin says he still sees himself as a Democrat even after thwarting Build Back Better plan</a> CNN: West Virginia Sen. Joe Manchin said Monday that he still considers himself a Democrat even after he defied his party by torpedoing a key piece of President Joe Biden's domestic agenda. 
  <p class="updated_time"> 04:20 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/haitian-migrants-biden-border-lawsuit.html">Haitian Migrants File Lawsuit Protesting Treatment by Border Patrol</a> NYT: Images of Border Patrol agents corralling Black migrants prompted criticism of the Biden administration’s response to an influx of thousands in Del Rio, Texas. 
- <p class="updated_time"> 04:13 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/january-6-rioter-sentenced-assaulting-police-officer/index.html">January 6 rioter gets nearly four years in prison for assaulting police officer</a> CNN: An Ohio man was sentenced to 46 months in jail for assaulting a police officer with a dangerous weapon in a tunnel at the US Capitol on January 6. 
  <p class="updated_time"> 04:08 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066017225/rep-brown-who-pushed-to-address-extremism-in-military-reacts-to-pentagon-report">Rep. Brown, who pushed to address extremism in military, reacts to Pentagon report</a> NPR: NPR's Ari Shapiro talks with Maryland Congressman Anthony Brown about the Defense Department's report on Monday about extremism in the military. 
  <p class="updated_time"> 04:04 PM CT, Dec. 20 </p> 
@@ -252,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/20/1065880187/democrats-still-plan-on-vote-for-the-social-spending-bill-despite-manchins-no">Democrats plan to vote on the social spending bill, despite Manchin's 'no'</a> NPR: Senate Majority Leader Schumer said the Senate will take up the measure "very early" in the new year 
  <p class="updated_time"> 01:10 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/pentagon-extremism-service-members-525762">Pentagon issues rules aimed at stopping rise of extremism</a> Politico: Officials said the new policy doesn’t largely change what is prohibited, but is more of an effort to make sure troops are clear on what they can and can’t do. 
- <p class="updated_time"> 12:57 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
  <p class="updated_time"> 12:53 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/joe-biden-build-back-better-setback-explained/index.html">Biden's Build Back Better plan is on ice. Here's what that means for you</a> CNN: No more monthly payments for tens of millions of families. No universal pre-kindergarten for 3- and 4-year-olds. No health insurance for more than 2 million low-income Americans. No funneling of billions of dollars into clean energy initiatives. 
  <p class="updated_time"> 12:26 PM CT, Dec. 20 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/us/politics/biden-judges-reagan-record.html">Senate Confirms Biden’s 40th Judge, Tying a Reagan-Era Record</a> NYT: President Biden saw more of his judicial nominees confirmed in his first year than any president since Ronald Reagan. The Senate confirmed 18 federal judges in Donald Trump’s first year. 
  <p class="updated_time"> 05:48 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/18/politics/white-house-omicron-warning-joe-biden/index.html">Inside the meeting that led to Biden's stark warning about the Omicron winter</a> CNN: President Joe Biden's top health officials came to an afternoon briefing at the White House Thursday with a warning -- and a request. 
- <p class="updated_time"> 05:16 PM CT, Dec. 18 </p> 
- <a href="https://www.cnn.com/2021/12/18/politics/trump-supporters-knock-on-doors-in-search-for-2020-fraud/index.html">Trump loyalists are knocking on voters' doors in the latest quest to find fraud in the 2020 election</a> CNN: A few months ago, two women showed up at Steve Snell's home in southern Pennsylvania with questions for his 89-year-old mother-in-law. 
  <p class="updated_time"> 03:30 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/harris-charlamagne-tha-god-interview-defends-biden/index.html">Harris defends Biden when questioned whether he or Manchin is President</a> CNN: Vice President Kamala Harris forcefully defended President Joe Biden when recently asked whether he or Sen. Joe Manchin is the president of the United States, as Biden's agenda remains stalled in part because of the West Virginia Democrat. 
  <p class="updated_time"> 02:18 PM CT, Dec. 18 </p> 
@@ -386,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/18/stop-the-steal-founder-jan-6-committee-gop-lawmakers-525345">‘Stop the Steal’ founder told Jan. 6 committee about contacts with GOP lawmakers</a> Politico: The description of the testimony comes in a lawsuit Ali Alexander filed to block the committee from obtaining his phone records. 
  <p class="updated_time"> 07:01 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/covid-omicron-booster-vaccines-525308">Bad Covid winter brings questions about what's 'fully vaccinated'</a> Politico: Discussions within the administration are focused on whether a third shot should be considered part of the original Covid-19 vaccine regimen. 
- <p class="updated_time"> 08:36 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/us/politics/biden-coronavirus-omicron-winter.html">Biden Struggles to Beat Back a Resurgent Virus Once Again</a> NYT: A new variant and vaccine resistance have upended the president’s plans for a hopeful holiday season. 
  <p class="updated_time"> 08:22 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/appeals-court-lifts-stay-vaccine-or-test-525313">Appeals court lifts stay on administration's vaccine-or-test mandate for large businesses</a> Politico: Business groups quickly filed an appeal to the Supreme Court. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
