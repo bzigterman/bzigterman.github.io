@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:38 AM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Pro-Beijing candidates sweep controversial LegCo election</a> BBC: The results for the controversial poll come after the city saw its lowest ever voter turnout. 
+ <p class="updated_time"> 12:30 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">Hong Kong Elections: How 'Patriots Only' Bolsters Beijing's Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials have urged the public to vote, but turnout Sunday hit a record low. 
+ <p class="updated_time"> 12:29 AM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59723278?at_medium=RSS&at_campaign=KARANGA">Pope Francis condemns domestic abuse as "almost satanic"</a> BBC: The pope has often spoken out against domestic violence, but Sunday's remarks are his strongest yet. 
  <p class="updated_time"> 11:41 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
  <p class="updated_time"> 11:12 PM CT, Dec. 19 </p> 
@@ -15,14 +21,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
  <p class="updated_time"> 10:10 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59715820?at_medium=RSS&at_campaign=KARANGA">Covid: Germany tightens restrictions on UK travellers</a> BBC: Germany follows France in banning British tourists and business travellers over Omicron concerns. 
- <p class="updated_time"> 09:04 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Pro-Beijing candidates sweep controversial LegCo election</a> BBC: The results for the controversial poll come after the city saw its lowest ever voter turnout. 
  <p class="updated_time"> 09:01 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59714272?at_medium=RSS&at_campaign=KARANGA">Covid: Christmas travel will fuel spread of Omicron, US expert warns</a> BBC: The US infectious diseases chief says the Covid-19 variant will spread - even among the vaccinated. 
  <p class="updated_time"> 07:54 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll surges</a> BBC: At least 208 people have died, police say, as the Red Cross issues an emergency appeal for aid. 
- <p class="updated_time"> 07:46 PM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">Hong Kong Elections: How 'Patriots Only' Bolsters Beijing's Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials have urged the public to vote, but turnout Sunday hit a record low. 
  <p class="updated_time"> 07:45 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/washington-senator-covid-dead-doug-eriksen.html">Washington State Senator Doug Eriksen Died After Covid Infection</a> NYT: Doug Ericksen was a Republican who helped lead opposition to Washington State’s Covid-19 emergency orders and vaccine mandates. 
  <p class="updated_time"> 07:34 PM CT, Dec. 19 </p> 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/britain-records-more-than-93000-daily-infections-a-new-high.html">Britain records more than 93,000 daily infections, a new high.</a> NYT: Friday was the third consecutive day that the country’s case count set a record. 
  <p class="updated_time"> 10:00 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/asia/japan-fire-osaka.html">Japan Fire Kills 24, With Arson Suspected</a> NYT: The fire consumed the fourth floor of the building in Osaka, which housed a medical office. 
- <p class="updated_time"> 09:18 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html">‘They Were Just Gone’: Two Baby Boys Survive Tornado in Kentucky</a> NYT: Without a basement, Clara Lutz of Barnsley, Ky., sheltered her infant grandsons in the bathtub for safety. A powerful tornado pulled the tub from her grip and sent the babies flying. 
  <p class="updated_time"> 08:11 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing a Blow to Boris Johnson</a> NYT: The governing party lost to the Liberal Democrats a district that it had represented for more than a century. 
  <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
