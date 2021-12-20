@@ -19,6 +19,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
  <p class="updated_time"> 11:10 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
+ <p class="updated_time"> 10:36 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59722801?at_medium=RSS&at_campaign=KARANGA">Chile election: Laser shone at Gabriel Boric during victory speech</a> BBC: The bouncing green light did not seem to faze Gabriel Boric as he spoke to supporters in Santiago. 
  <p class="updated_time"> 10:10 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59715820?at_medium=RSS&at_campaign=KARANGA">Covid: Germany tightens restrictions on UK travellers</a> BBC: Germany follows France in banning British tourists and business travellers over Omicron concerns. 
  <p class="updated_time"> 09:01 PM CT, Dec. 19 </p> 
@@ -39,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59694246?at_medium=RSS&at_campaign=KARANGA">Covid-19: Can alcohol, cooking oil tempt unvaccinated Indians?</a> BBC: Some Indian states have offered unusual vaccine incentives, but experts say this may not be enough. 
  <p class="updated_time"> 06:16 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59674930?at_medium=RSS&at_campaign=KARANGA">What is the metaverse?</a> BBC: From virtual versions of ourselves to augmented reality, we break down what the metaverse is. 
+ <p class="updated_time"> 06:04 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59722800?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Protesters flee tear gas in Khartoum on uprising anniversary</a> BBC: It's three years since the overthrow of the country's long-term President Omar al-Bashir. 
  <p class="updated_time"> 06:04 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59699556?at_medium=RSS&at_campaign=KARANGA">Tortured to death: Myanmar mass killings revealed</a> BBC: A BBC investigation finds evidence Myanmar's military killed 40 villagers in July, torturing some to death. 
  <p class="updated_time"> 06:02 PM CT, Dec. 19 </p> 
@@ -143,12 +147,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065463755/police-search-house-of-man-linked-to-deadly-osaka-fire">Police search house of man linked to deadly Osaka fire</a> NPR: The possible suspect is believed to be among the three people who survived the fire and were in severe condition, police said. 
  <p class="updated_time"> 01:33 AM CT, Dec. 18 </p> 
  <a href="https://www.npr.org/2021/12/18/1065458877/the-events-that-led-to-hong-kongs-pivotal-elections">The events that led to Hong Kong's pivotal elections</a> NPR: Demands for expanded democracy in the semi-autonomous territory inspired protest movements that were largely ignored by Beijing and crushed by security forces. 
- <p class="updated_time"> 07:04 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59707799?at_medium=RSS&at_campaign=KARANGA">Officer who shot Daunte Wright: 'I'm sorry it happened'</a> BBC: Former Minnesota police officer Kimberly Potter sobs in court as she apologises for shooting Daunte Wright. 
  <p class="updated_time"> 06:41 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/17/1065315661/omicron-may-be-less-severe-in-south-africa-that-may-not-be-the-case-for-the-u-s">Omicron may be less severe in South Africa. That may not be the case for the U.S.</a> NPR: Researchers in South Africa have found that people infected with omicron, on average, are less likely to end up in the hospital. But the variant may act differently here in the U.S. 
- <p class="updated_time"> 06:07 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-59685203?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… What 2021 taught us about Covid</a> BBC: A look back at how the pandemic evolved throughout 2021, and what we've learned from it. 
  <p class="updated_time"> 04:57 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html">Why There's a Growing Push to Ban Killer Robots</a> NYT: A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty. 
  <p class="updated_time"> 04:44 PM CT, Dec. 17 </p> 
