@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:25 PM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1066017129/the-biden-administration-is-launching-a-new-phone-number-for-mental-health-crise">The Biden administration is launching a new phone number for mental health crises</a> NPR: The Biden administration is putting a quarter of a billion dollars into a new national suicide prevention line. But some say that's not enough to build the infrastructure that's needed. 
+ <p class="updated_time"> 03:25 PM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1066017107/what-the-white-house-is-doing-as-omicron-begins-to-take-off-in-the-u-s">What the White House is doing as omicron begins to take off in the U.S.</a> NPR: President Biden is expected to address the surge in omicron cases, but is his administration's response fast and sufficient enough to meet what could be the most challenging month yet in the pandemic? 
  <p class="updated_time"> 03:20 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/haitian-migrants-border-patrol-lawsuit.html">Haitian Migrants File Lawsuit Protesting Treatment by Border Patrol</a> NYT: Images of Border Patrol agents corralling Black migrants prompted criticism of the Biden administration’s response to an influx of thousands in Del Rio, Texas. 
  <p class="updated_time"> 03:15 PM CT, Dec. 20 </p> 
@@ -219,7 +223,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:10 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/vladislav-klyushin-russian-insider-trading-extradited/index.html">Russian businessman with Kremlin ties extradited to US and charged in multi-million-dollar insider trading scheme</a> CNN: A Russian businessman was extradited to the US this weekend from Switzerland to face charges in an insider trading scheme worth tens of millions of dollars for allegedly hacking into US computer networks, the Justice Department announced on Monday. 
  <p class="updated_time"> 01:26 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1065880187/democrats-still-plan-on-vote-for-the-social-spending-bill-despite-manchins-no">Democrats still plan on vote for the social spending bill, despite Manchin's 'no'</a> NPR: Senate Majority leader Schumer said the Senate will take up the measure "very early" in the new year 
+ <a href="https://www.npr.org/2021/12/20/1065880187/democrats-still-plan-on-vote-for-the-social-spending-bill-despite-manchins-no">Democrats still plan on vote for the social spending bill, despite Manchin's 'no'</a> NPR: Senate Majority Leader Schumer said the Senate will take up the measure "very early" in the new year 
  <p class="updated_time"> 01:10 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/pentagon-extremism-service-members-525762">Pentagon issues rules aimed at stopping rise of extremism</a> Politico: Officials said the new policy doesn’t largely change what is prohibited, but is more of an effort to make sure troops are clear on what they can and can’t do. 
  <p class="updated_time"> 12:58 PM CT, Dec. 20 </p> 
@@ -344,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">White House lights up Manchin after he crushes Biden's megabill</a> Politico: The West Wing accused Manchin of "a breach of his commitments to the president and the senator’s colleagues in the House and Senate," in a blistering statement Sunday. 
  <p class="updated_time"> 08:51 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065636709/joe-manchin-says-he-cannot-support-bidens-build-back-better-plan">Joe Manchin says he won't support President Biden's Build Back Better plan </a> NPR: The announcement by the West Virginia Democrat dooms the $2 trillion social spending and climate legislation, which needs support from every Senate Democrat in order to pass through the 50-50 chamber. 
- <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
- <a href="https://www.npr.org/2021/12/19/1065626381/covid-19-resurgence-trips-up-bidens-agenda">COVID-19 resurgence trips up Biden's agenda</a> NPR: President Biden, who campaigned on taming the pandemic, is struggling to deliver as COVID-19 mutates and parts of the American public refuse to cooperate. 
  <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/black-lawmakers-diversity-lobbying-firms-525362">Black lawmakers threaten to cut off K St unless it diversifies</a> Politico: Years of frustration with the racial composition of the political influence industry have begun to boil over. 
  <p class="updated_time"> 09:21 PM CT, Dec. 18 </p> 
@@ -354,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/us/politics/biden-judges-reagan-record.html">Senate Confirms Biden’s 40th Judge, Tying a Reagan-Era Record</a> NYT: President Biden saw more of his judicial nominees confirmed in his first year than any president since Ronald Reagan. The Senate confirmed 18 federal judges in Donald Trump’s first year. 
  <p class="updated_time"> 05:16 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/18/politics/trump-supporters-knock-on-doors-in-search-for-2020-fraud/index.html">Trump loyalists are knocking on voters' doors in the latest quest to find fraud in the 2020 election</a> CNN: A few months ago, two women showed up at Steve Snell's home in southern Pennsylvania with questions for his 89-year-old mother-in-law. 
- <p class="updated_time"> 04:14 PM CT, Dec. 18 </p> 
- <a href="https://www.npr.org/2021/12/18/1065547250/raising-debt-ceiling-wasnt-always-a-heated-source-of-debate">Raising debt ceiling wasn't always a heated source of debate</a> NPR: This week, Democrats pushed through a measure to raise the debt ceiling, to avoid a default on the nation's debt. But how did the debt ceiling become such a hot-button issue on Capitol Hill? 
  <p class="updated_time"> 03:30 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/harris-charlamagne-tha-god-interview-defends-biden/index.html">Harris defends Biden when questioned whether he or Manchin is President</a> CNN: Vice President Kamala Harris forcefully defended President Joe Biden when recently asked whether he or Sen. Joe Manchin is the president of the United States, as Biden's agenda remains stalled in part because of the West Virginia Democrat. 
  <p class="updated_time"> 03:14 PM CT, Dec. 18 </p> 
