@@ -194,6 +194,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/davos-is-dead-525732">Davos is dead</a> Politico: The world’s most elite conference is postponed, again. 
  <p class="updated_time"> 09:50 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/afghan-evacuees-future-525725">Afghan evacuees ponder future as U.S. empties camp sites</a> Politico: More than 29,000 Afghans remain on U.S. military bases thanks, in part, to a shortage of affordable housing and the pandemic. 
+ <p class="updated_time"> 09:48 AM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/larry-hogan-covid-19/index.html">Maryland Gov. Larry Hogan tests positive for Covid-19</a> CNN: Maryland Gov. Larry Hogan tested positive for Covid-19, he tweeted Monday. 
  <p class="updated_time"> 09:19 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/trump-ny-attorney-general-james/index.html">Trump sues NY attorney general, seeking to stop investigation into his company</a> CNN: Former President Donald Trump and the Trump Organization have sued New York Attorney General Letitia James, asking for a federal court to halt or limit her office's ongoing investigations. 
  <p class="updated_time"> 07:51 AM CT, Dec. 20 </p> 
@@ -396,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">Senate that ‘sucks’ gets a dose of reality from Biden</a> Politico: Democrats wanted to hear from the president on how to move forward. He acknowledged on Thursday that his domestic spending vision has to wait. 
  <p class="updated_time"> 12:20 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/congressional-gold-medal-us-troops-kabul-attack/index.html">Biden signs bill to award Congressional Gold Medal to US service members killed in Kabul airport bombing</a> CNN: President Joe Biden on Thursday signed a bill that posthumously awards a Congressional Gold Medal to the 13 US service members killed in a terrorist attack outside Kabul's airport in August. 
- <p class="updated_time"> 12:16 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/biden-signs-debt-limit-increase/index.html">Biden signs debt limit increase</a> CNN: President Joe Biden on Thursday signed the bill raising the debt limit ceiling that passed Congress earlier this week, according to a press release from the White House. 
  <p class="updated_time"> 07:22 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/16/will-democrats-get-coal-instead-of-passed-bills-in-their-stockings-495491">Will Democrats get coal instead of passed bills in their stockings?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Dec. 16 </p> 
