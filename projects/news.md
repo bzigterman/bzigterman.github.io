@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:51 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/world/middleeast/egypt-human-rights-activitists-sentenced.html">Egypt Sentences 3 Human Rights Activists to Prison</a> NYT: The verdicts suggest that the government has not scaled back its crackdown on dissent, despite efforts to improve its image. 
+ <p class="updated_time"> 03:50 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/science/webb-telescope-astronomy.html">Webb Telescope Approaches Launch, With an Eye Toward Cosmic Origins</a> NYT: The biggest space telescope in history aims to answer astronomy’s oldest question: How did we get from the Big Bang to here? 
  <p class="updated_time"> 03:25 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066017155/finally-scientists-have-found-a-true-millipede">Finally, scientists have found a true millipede</a> NPR: Scientists have finally found a millipede that lives up to its name. Eumillipes persephone has 1,306 legs — that's more than any other animal — and is the only known millipede to exceed 1,000 legs. 
  <p class="updated_time"> 03:10 PM CT, Dec. 20 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/us/haiti-missionaries-escape.html">Haiti Missionaries Describe Dramatic Escape From Kidnappers</a> NYT: The group of 12 included several children. They walked 10 miles through the night. Later that day, they were on a Coast Guard flight to Florida. 
  <p class="updated_time"> 01:18 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065865472/omicron-holiday-travel-gatherings-restrictions-world">As omicron surges, nations announce rules on gatherings and travel ahead of holidays</a> NPR: European nations implemented a wave of new restrictions as case numbers rise. And Israel added the U.S. and Canada to its "red list" of countries from which citizens are barred from travel. 
- <p class="updated_time"> 01:00 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/world/middleeast/egypt-human-rights-activitists-sentenced.html">Egypt Sentences 3 Human Rights Activists to Prison</a> NYT: The verdicts suggest that the government has not scaled back its crackdown on dissent, despite efforts to improve its image. 
  <p class="updated_time"> 12:57 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
  <p class="updated_time"> 12:33 PM CT, Dec. 20 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/arts/design/parthenon-marbles-restitution.html">As Europe Returns Artifacts, Britain Stays Silent on the Parthenon Marbles</a> NYT: The Parthenon Marbles in London are likely the world’s most famous disputed museum items. Yet the British government says the sculptures’ fate isn’t its concern. 
  <p class="updated_time"> 10:07 AM CT, Dec. 20 </p> 
  <a href="https://www.wsj.com/articles/davos-delayed-over-omicron-uncertainty-11640003584">Davos Economic Forum Is Postponed as Omicron Leads to More Cancellations, Travel Bans</a> WSJ: As the Covid-19 variant spreads, Israel is set to bar its citizens from traveling to the U.S. and Canada and the World Economic Forum said it would postpone next month’s annual meeting for the second successive year. 
- <p class="updated_time"> 09:57 AM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/science/webb-telescope-astronomy.html">Webb Telescope Approaches Launch, With an Eye Toward Cosmic Origins</a> NYT: The biggest space telescope in history aims to answer astronomy’s oldest question: How did we get from the Big Bang to here? 
  <p class="updated_time"> 09:39 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59728144?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Bruce Springsteen's back catalogue - who bought it?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 09:03 AM CT, Dec. 20 </p> 
