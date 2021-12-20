@@ -192,6 +192,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:11 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/20/the-case-for-why-bbb-is-dead-and-for-why-it-may-not-be-495522"> The case for why BBB is dead — and for why it may not be</a> Politico Playbook: And Rep. Albio Sires (D-N.J.) won’t run for reelection. 
+ <p class="updated_time"> 05:44 AM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/joe-biden-joe-manchin-build-back-better-covid/index.html">Biden suffers twin blows from Manchin and another Covid winter</a> CNN: Democratic Sen. Joe Manchin dropped the axe on his party's agenda on Sunday when he said he would not support President Joe Biden's economic and climate package just as the White House is bracing for another Covid winter that is likely to further sour the nation's mood heading into a midterm election year. 
  <p class="updated_time"> 04:59 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/democrats-manchin-climate-build-back-better/index.html">'I'm kind of speechless': Democrats scramble to salvage climate provisions after Manchin sinks Build Back Better</a> CNN: With Sen. Joe Manchin confirming he's a "no" on President Joe Biden's social spending package, the fate of the bill's $550 bill worth of climate and energy provisions -- and the President's climate agenda -- are now on the line. 
  <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
@@ -200,12 +202,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/cdc-covid-omicron-delta-tracking-525621">‘It is embarrassing’: CDC struggles to track Covid cases as Omicron looms</a> Politico: The U.S. was behind other countries in charting the spread of disease in the pandemic’s disastrous early months. It’s still behind as new variants threaten to disrupt the winter. 
  <p class="updated_time"> 04:15 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065695953/build-back-better-climate-change">What losing Build Back Better means for climate change</a> NPR: Climate scientists warn that emissions need to fall quickly. Those cuts will be even tougher with the Build Back Better legislation shelved for the foreseeable future. 
+ <p class="updated_time"> 04:09 AM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1065722916/morning-news-brief">News brief: Omicron variant, Build Back Better, Chile's president-elect</a> NPR: The latest coronavirus variant is spreading quickly. West Virginia Sen. Manchin says he won't support the president's Build Back Better plan. A leftist millennial wins Chile's presidential election. 
  <p class="updated_time"> 04:06 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">3 Democratic lawmakers announce positive Covid-19 tests</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
  <p class="updated_time"> 02:00 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/amtrak-expansion-funding-infrastructure-bill.html">Billions in Amtrak Funding Could Modernize Aging Rail System</a> NYT: The $1 trillion infrastructure bill that President Biden signed into law includes money that Amtrak hopes can fix crumbling bridges and tunnels along the Northeast Corridor. 
- <p class="updated_time"> 11:13 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/joe-biden-joe-manchin-build-back-better-covid/index.html">Biden suffers twin blows from Manchin and another Covid winter</a> CNN: Democratic Sen. Joe Manchin dropped the axe on his party's agenda on Sunday when he said he would not support President Joe Biden's economic and climate package just as the White House is bracing for another Covid winter that is likely to further sour the nation's mood heading into a midterm election year. 
  <p class="updated_time"> 08:01 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-biden-russia-ukraine-obama-2014/index.html">'A four-week window': Biden aims to learn from Obama's mistakes with quick moves to deter Putin from invading Ukraine</a> CNN: When the US intelligence community first picked up signs in the fall that Russia could be preparing a new attack on Ukraine, President Joe Biden directed his administration to act -- and fast. 
  <p class="updated_time"> 07:59 PM CT, Dec. 19 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065477148/week-in-politics-new-information-from-jan-6-committee-build-back-better-stalled">Week in politics: New information from Jan. 6 committee; Build Back Better stalled</a> NPR: Revelations from the Congressional committee investigating the Jan. 6 insurrection, plus why the Build Back Better bill is not going to a vote in the Senate by Christmas. 
  <p class="updated_time"> 07:01 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/democrats-2022-hurricane-525283">‘Let’s get a drink’: Dems confront prospect of a 2022 hurricane</a> Politico: Staring at the possibility of major midterm losses, Democratic leaders are just hoping to limit the damage. 
- <p class="updated_time"> 06:01 AM CT, Dec. 18 </p> 
- <a href="https://www.npr.org/2021/12/18/1065293261/after-years-at-the-center-of-political-power-mark-meadows-now-faces-legal-jeopar">After years at the center of political power, Mark Meadows now faces legal jeopardy</a> NPR: It's the latest chapter in Mark Meadows' political career, which has been defined by conflict in Washington. 
  <p class="updated_time"> 08:36 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/biden-coronavirus-omicron-winter.html">Biden Struggles to Beat Back a Resurgent Virus Once Again</a> NYT: A new variant and vaccine resistance have upended the president’s plans for a hopeful holiday season. 
  <p class="updated_time"> 08:22 PM CT, Dec. 17 </p> 
