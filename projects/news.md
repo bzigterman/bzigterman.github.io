@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:33 PM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial jurors begin deliberations</a> BBC: The British socialite faces up to 80 years in prison if convicted on sex-trafficking and perjury charges. 
  <p class="updated_time"> 05:28 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-59733716?at_medium=RSS&at_campaign=KARANGA">WHO urges cancelling some holiday events over Omicron fears</a> BBC: "An event cancelled is better than a life cancelled," warns the World Health Organization's head. 
  <p class="updated_time"> 05:05 PM CT, Dec. 20 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59735243?at_medium=RSS&at_campaign=KARANGA">Covid: An event cancelled is better than a life cancelled - WHO chief</a> BBC: The head of the World Health Organization calls for "difficult decisions" to be made over festive plans. 
  <p class="updated_time"> 04:15 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/science/webb-telescope-astronomy.html">Webb Telescope Approaches Launch, With an Eye Toward Cosmic Origins</a> NYT: The biggest space telescope in history aims to answer astronomy’s oldest question: How did we get from the Big Bang to here? 
- <p class="updated_time"> 04:15 PM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial jurors begin deliberations</a> BBC: The British socialite faces up to 80 years in prison if convicted on sex-trafficking and perjury charges. 
  <p class="updated_time"> 04:14 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/nyregion/nypd-mask-mandate.html">N.Y.P.D. officers are again told to mask up amid Omicron surge</a> NYT: Employees are required to wear face masks indoors and outdoors regardless of vaccination status. 
  <p class="updated_time"> 04:01 PM CT, Dec. 20 </p> 
@@ -46,7 +46,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:47 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/sports/rafael-nadal-covid.html">Rafael Nadal Tests Positive for the Coronavirus</a> NYT: The Spanish tennis star said he was isolating at home. The test further jeopardized his hopes of playing in next month’s Australian Open. 
  <p class="updated_time"> 01:18 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1065865472/omicron-holiday-travel-gatherings-restrictions-world">As omicron surges, nations announce rules on gatherings and travel ahead of holidays</a> NPR: European nations implemented a wave of new restrictions as case numbers rise. And Israel added the U.S. and Canada to its "red list" of countries from which citizens are barred from travel. 
+ <a href="https://www.npr.org/2021/12/20/1065865472/omicron-holiday-travel-gatherings-restrictions-world">As omicron surges, nations announce rules on gatherings and travel ahead of holidays</a> NPR: European nations have implemented a wave of new restrictions as case numbers rise. And Israel has added the U.S. and Canada to its "red list" of countries that citizens are barred from traveling to. 
  <p class="updated_time"> 12:33 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/ireland-cure-folk-medicine.html">Secret Charms and 7th Sons: ‘The Cure’ Is Alive and Well in Ireland</a> NYT: Belief in the benefits of the cure, a type of folk medicine that interweaves home remedies with superstition, religion and a sprinkle of magic is still a way of life in pockets of Ireland. 
  <p class="updated_time"> 12:19 PM CT, Dec. 20 </p> 
@@ -202,10 +202,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:35 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/first-puppy-bidens-white-house/index.html">Bidens add to their family with new first puppy</a> CNN: President Joe Biden and first lady Jill Biden have added to their pet family, the first lady's spokesperson tells CNN. 
+ <p class="updated_time"> 05:30 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/scott-perry-january-6-committee/index.html">January 6 committee sends letter to GOP Rep. Scott Perry, asking to interview him</a> CNN: The House select committee investigating the deadly January 6 riot has asked GOP Rep. Scott Perry of Pennsylvania to voluntarily sit down for an interview -- the first known effort by the panel to talk to a lawmaker about helping former President Donald Trump in his efforts to undermine the election. 
  <p class="updated_time"> 05:19 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066060178/alex-jones-infowars-trump-conspiracy-theorist-jan-6-committee-capitol-perry">Trump ally and far-right conspiracy promoter Alex Jones sues House Jan. 6 committee</a> NPR: Alex Jones, the founder of the website Infowars, is suing the House committee in charge of investigating the Jan. 6 Capitol insurrection. 
- <p class="updated_time"> 05:13 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/scott-perry-january-6-committee/index.html">January 6 committee sends letter to GOP Rep. Scott Perry, asking to interview him</a> CNN: The House select committee investigating the deadly January 6 riot has asked GOP Rep. Scott Perry of Pennsylvania to voluntarily sit down for an interview -- the first known effort by the panel to talk to a lawmaker about helping former President Donald Trump in his efforts to undermine the election. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/climate/tailpipe-rules-climate-biden.html">E.P.A. Announces Tightest-Ever Auto Pollution Rules</a> NYT: Under the new plan, designed to reduce planet-warming tailpipe emissions, new vehicles would be required to average 55 miles per gallon starting in 2026. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
@@ -228,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/us/politics/haitian-migrants-biden-border-lawsuit.html">Haitian Migrants File Lawsuit Protesting Treatment by Border Patrol</a> NYT: Images of Border Patrol agents corralling Black migrants prompted criticism of the Biden administration’s response to an influx of thousands in Del Rio, Texas. 
  <p class="updated_time"> 04:08 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066017225/rep-brown-who-pushed-to-address-extremism-in-military-reacts-to-pentagon-report">Rep. Brown, who pushed to address extremism in military, reacts to Pentagon report</a> NPR: NPR's Ari Shapiro talks with Maryland Congressman Anthony Brown about the Defense Department's report on Monday about extremism in the military. 
- <p class="updated_time"> 04:04 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/first-puppy-bidens-white-house/index.html">Bidens add to their family with new first puppy</a> CNN: President Joe Biden and first lady Jill Biden have added to their pet family, the first lady's spokesperson tells CNN. 
  <p class="updated_time"> 04:00 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066017197/with-the-loss-of-manchins-vote-bidens-climate-change-agenda-may-be-doomed">With the loss of Manchin's vote, Biden's climate change agenda may be doomed</a> NPR: Despite a year of increasing weather disasters, Biden's ambitious climate plans may be doomed in Congress. 
  <p class="updated_time"> 03:48 PM CT, Dec. 20 </p> 
