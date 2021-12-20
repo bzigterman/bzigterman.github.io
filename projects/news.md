@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:14 AM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59715941?at_medium=RSS&at_campaign=KARANGA">Leftist Gabriel Boric to become Chile's youngest ever president</a> BBC: Gabriel Boric, 35, says he will look after democracy after a convincing win over his far-right rival. 
+ <p class="updated_time"> 03:13 AM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59699556?at_medium=RSS&at_campaign=KARANGA">Tortured to death: Myanmar mass killings revealed</a> BBC: A BBC investigation finds evidence Myanmar's military killed 40 villagers in July, torturing some to death. 
  <p class="updated_time"> 02:52 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: More than 200 people are now believed to have been killed by the storm. 
  <p class="updated_time"> 02:44 AM CT, Dec. 20 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Pro-Beijing candidates sweep controversial LegCo election</a> BBC: The results for the controversial poll come after the city saw its lowest ever voter turnout. 
  <p class="updated_time"> 02:41 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59722285?at_medium=RSS&at_campaign=KARANGA">Carlos Marin: Simon Cowell 'devastated' at death of Il Divo singer at 53</a> BBC: The classical group's Carlos Marin died at the age of 53 after going into hospital during a UK tour. 
- <p class="updated_time"> 02:31 AM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59699556?at_medium=RSS&at_campaign=KARANGA">Tortured to death: Myanmar mass killings revealed</a> BBC: A BBC investigation finds evidence Myanmar's military killed 40 villagers in July, torturing some to death. 
  <p class="updated_time"> 02:18 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065722642/pro-beijing-candidates-sweep-hong-kong-elections">Pro-Beijing candidates sweep Hong Kong elections</a> NPR: Hong Kong leader Carrie Lam said she was "satisfied" with the election despite the 30.2% voter turnout being the lowest since the British handed Hong Kong over to China in 1997. 
  <p class="updated_time"> 01:26 AM CT, Dec. 20 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
  <p class="updated_time"> 10:36 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59722801?at_medium=RSS&at_campaign=KARANGA">Chile election: Laser shone at Gabriel Boric during victory speech</a> BBC: The bouncing green light did not seem to faze Gabriel Boric as he spoke to supporters in Santiago. 
- <p class="updated_time"> 10:10 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59715820?at_medium=RSS&at_campaign=KARANGA">Covid: Germany tightens restrictions on UK travellers</a> BBC: Germany follows France in banning British tourists and business travellers over Omicron concerns. 
  <p class="updated_time"> 09:01 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59714272?at_medium=RSS&at_campaign=KARANGA">Covid: Christmas travel will fuel spread of Omicron, US expert warns</a> BBC: The US infectious diseases chief says the Covid-19 variant will spread - even among the vaccinated. 
  <p class="updated_time"> 07:54 PM CT, Dec. 19 </p> 
@@ -41,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/washington-senator-covid-dead-doug-eriksen.html">Washington State Senator Doug Eriksen Died After Covid Infection</a> NYT: Doug Ericksen was a Republican who helped lead opposition to Washington State’s Covid-19 emergency orders and vaccine mandates. 
  <p class="updated_time"> 07:36 PM CT, Dec. 19 </p> 
  <a href="https://www.wsj.com/articles/chinese-tennis-star-peng-shuai-denies-making-sexual-assault-accusations-11639982172">Tennis Star Peng Shuai Denies Making Sexual-Assault Accusations</a> WSJ: Chinese tennis star Peng Shuai denied accusing anyone of sexual assault, suggesting a global wave of concern for her safety and wellbeing was the result of misunderstandings. 
- <p class="updated_time"> 07:34 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59715941?at_medium=RSS&at_campaign=KARANGA">Leftist Gabriel Boric wins Chile presidential election</a> BBC: His far-right rival José Antonio Kast conceded defeat less than 90 minutes after polls closed on Sunday. 
  <p class="updated_time"> 07:03 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59689710?at_medium=RSS&at_campaign=KARANGA">Algeria and a question of identity: Who counts as African?</a> BBC: North Africans love the Cup of Nation but for some, their African identity is open to question. 
  <p class="updated_time"> 06:59 PM CT, Dec. 19 </p> 
@@ -53,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59694246?at_medium=RSS&at_campaign=KARANGA">Covid-19: Can alcohol, cooking oil tempt unvaccinated Indians?</a> BBC: Some Indian states have offered unusual vaccine incentives, but experts say this may not be enough. 
  <p class="updated_time"> 06:16 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59674930?at_medium=RSS&at_campaign=KARANGA">What is the metaverse?</a> BBC: From virtual versions of ourselves to augmented reality, we break down what the metaverse is. 
+ <p class="updated_time"> 06:08 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59605130?at_medium=RSS&at_campaign=KARANGA">Evergrande: China's efforts to contain its Lehman moment</a> BBC: China is handling the crisis very differently to the way the US dealt with the Lehman collapse. 
  <p class="updated_time"> 06:04 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59722800?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Protesters flee tear gas in Khartoum on uprising anniversary</a> BBC: It's three years since the overthrow of the country's long-term President Omar al-Bashir. 
  <p class="updated_time"> 06:02 PM CT, Dec. 19 </p> 
