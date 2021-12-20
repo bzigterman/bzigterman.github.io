@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:52 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
+ <p class="updated_time"> 12:48 PM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Prosecutors call Ghislaine Maxwell predator as defence claims sensationalism</a> BBC: Prosecutors said Ms Maxwell was a "sophisticated predator". Her lawyers called it "sensationalism". 
  <p class="updated_time"> 12:33 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/ireland-cure-folk-medicine.html">Secret Charms and 7th Sons: ‘The Cure’ Is Alive and Well in Ireland</a> NYT: Belief in the benefits of the cure, a type of folk medicine that interweaves home remedies with superstition, religion and a sprinkle of magic is still a way of life in pockets of Ireland. 
  <p class="updated_time"> 12:23 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/sports/rafael-nadal-covid.html">Rafael Nadal Tests Positive for the Coronavirus</a> NYT: The Spanish tennis star said he was isolating at home. The test further jeopardized his hopes of playing in next month’s Australian Open. 
- <p class="updated_time"> 12:20 PM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Prosecutors call Ghislaine Maxwell predator as defence claims sensationalism</a> BBC: Prosecutors said Ms Maxwell was a "sophisticated predator". Her lawyers called it "sensationalism". 
  <p class="updated_time"> 12:19 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59730354?at_medium=RSS&at_campaign=KARANGA">Alaa Abdel Fattah: Leading Egyptian activist jailed for five years</a> BBC: Alaa Abdel Fattah is convicted of spreading false news after a trial called a sham by rights groups. 
  <p class="updated_time"> 12:18 PM CT, Dec. 20 </p> 
@@ -196,6 +198,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:10 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/pentagon-extremism-service-members-525762">Pentagon issues rules aimed at stopping rise of extremism</a> Politico: Officials said the new policy doesn’t largely change what is prohibited, but is more of an effort to make sure troops are clear on what they can and can’t do. 
+ <p class="updated_time"> 12:47 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/joe-manchin-democratic-party-build-back-better/index.html">Manchin says he still sees himself as a Democrat even after thwarting Build Back Better plan</a> CNN: West Virginia Sen. Joe Manchin said Monday that he still considers himself a Democrat even after he defied his party by torpedoing a key piece of President Joe Biden's domestic agenda. 
  <p class="updated_time"> 12:39 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/donald-trump-booster-shot-boos/index.html">Trump met with boos after revealing he received Covid-19 booster</a> CNN: Former President Donald Trump was booed by a portion of an audience in Dallas on Sunday when he said he had received a Covid-19 booster shot, according to video of the closed press event that was shared on social media. 
  <p class="updated_time"> 12:26 PM CT, Dec. 20 </p> 
@@ -214,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, Murphy didn't rule out a future run for a different public role. 
  <p class="updated_time"> 11:45 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/stephanie-murphy-not-running-reelection/index.html">Florida Democrat on January 6 committee announces she won't run for reelection</a> CNN: Rep. Stephanie Murphy, a Florida Democrat and a member of the House select committee investigating the January 6 US Capitol riot, announced Monday she would not run for reelection. 
- <p class="updated_time"> 11:38 AM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/joe-manchin-democratic-party-build-back-better/index.html">Manchin says he still sees himself as a Democrat even after thwarting Build Back Better plan</a> CNN: West Virginia Sen. Joe Manchin said Monday that he still considers himself a Democrat even after he defied his party by torpedoing a key piece of President Joe Biden's domestic agenda. 
  <p class="updated_time"> 11:10 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/biden-labor-shortage/index.html">Biden to make 20,000 additional guest-worker visas available this winter amid labor shortages</a> CNN: The Biden administration will make an additional 20,000 seasonal, guest-worker visas available for the winter season for the first time, the Department of Homeland Security announced Monday. 
  <p class="updated_time"> 11:02 AM CT, Dec. 20 </p> 
