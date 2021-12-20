@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:27 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/world/middleeast/israel-us-travel-covid.html">Israel Bars Travel to U.S. or Canada as Omicron Surges</a> NYT: The countries were added to Israel’s rapidly growing “red list” as Prime Minister Naftali Bennett’s government tries to slow Omicron’s spread. 
+ <p class="updated_time"> 07:23 AM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59725423?at_medium=RSS&at_campaign=KARANGA">Davos business leaders' event postponed over Omicron</a> BBC: The World Economic Forum has been rescheduled for "early summer" due to the spread of Covid. 
  <p class="updated_time"> 07:04 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Pro-Beijing candidates sweep controversial LegCo election</a> BBC: The results for the controversial poll come after the city saw its lowest ever voter turnout. 
  <p class="updated_time"> 07:03 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll surges</a> BBC: The number of fatalities rises rapidly to at least 375, as the Red Cross appeals for urgent aid. 
+ <p class="updated_time"> 06:50 AM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59726281?at_medium=RSS&at_campaign=KARANGA">Quidditch leagues set to pick new name after JK Rowling trans row</a> BBC: US Quidditch and Major League Quidditch want to "distance themselves" from JK Rowling's views. 
  <p class="updated_time"> 04:40 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59726191?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: World heritage site Lalibela back in government hands</a> BBC: Tigray forces have left Lalibela, a town famous for its rock-hewn churches. 
  <p class="updated_time"> 04:21 AM CT, Dec. 20 </p> 
@@ -39,10 +45,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59720744?at_medium=RSS&at_campaign=KARANGA">Drakeo the Ruler dies after stabbing at LA music festival</a> BBC: The 28-year-old was stabbed during an altercation backstage at a Los Angeles music festival. 
  <p class="updated_time"> 02:41 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59722285?at_medium=RSS&at_campaign=KARANGA">Carlos Marin: Simon Cowell 'devastated' at death of Il Divo singer at 53</a> BBC: The classical group's Carlos Marin died at the age of 53 after going into hospital during a UK tour. 
+ <p class="updated_time"> 02:29 AM CT, Dec. 20 </p> 
+ <a href="https://www.wsj.com/articles/davos-delayed-over-omicron-uncertainty-11640003584">Davos Economic Forum Is Postponed as Omicron Forces More Cancellations, Travel Bans</a> WSJ: As the Covid-19 variant spreads, Israel is set to bar its citizens from traveling to the U.S. and Canada and the World Economic Forum said it would postpone next month’s annual meeting for the second successive year. 
  <p class="updated_time"> 02:18 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065722642/pro-beijing-candidates-sweep-hong-kong-elections">Pro-Beijing candidates sweep Hong Kong elections</a> NPR: Hong Kong leader Carrie Lam said she was "satisfied" with the election despite the 30.2% voter turnout being the lowest since the British handed Hong Kong over to China in 1997. 
- <p class="updated_time"> 01:33 AM CT, Dec. 20 </p> 
- <a href="https://www.wsj.com/articles/davos-delayed-over-omicron-uncertainty-11640003584">Davos Postponed Over Omicron Uncertainty</a> WSJ: The World Economic Forum that was scheduled to take place in the Swiss town in January is now planned for early summer, organizers said. WEF didn’t provide a new date. 
  <p class="updated_time"> 12:45 AM CT, Dec. 20 </p> 
  <a href="https://www.wsj.com/articles/inflation-hawk-to-lead-german-bundesbank-11640000725">Inflation Hawk to Lead German Bundesbank</a> WSJ: Joachim Nagel has been appointed as Germany’s new central-bank governor, just as the ECB moves away from its ultra-easy-money policies amid a surge in eurozone inflation. 
  <p class="updated_time"> 12:30 AM CT, Dec. 20 </p> 
@@ -87,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59651334?at_medium=RSS&at_campaign=KARANGA">The robot chefs that can cook your Christmas dinner</a> BBC: If you fancy not having to do the cooking on 25 December then a robotic chef might be the solution. 
  <p class="updated_time"> 04:24 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59721962?at_medium=RSS&at_campaign=KARANGA">Iran execution of Heidar Ghorbani sparks rare anti-government protest</a> BBC: The death sentence handed to Kurdish man Heidar Ghorbani was viewed by rights groups as political. 
- <p class="updated_time"> 03:05 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59720745?at_medium=RSS&at_campaign=KARANGA">Senator Joe Manchin threatens to sink signature Biden bill</a> BBC: Democrat Joe Manchin throws the Build Back Better Act into jeopardy, saying he will not vote for it. 
  <p class="updated_time"> 02:05 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/europe/uk-lockdown-omicron-covid-boris-johnson.html">U.K. Weighing Lockdown Amid an Omicron Wave and Political Turmoil</a> NYT: Britain’s health secretary said on Sunday he wouldn’t rule out more restrictions before Christmas, but the prime minister would most likely face sharp pushback from his own party. 
  <p class="updated_time"> 12:37 PM CT, Dec. 19 </p> 
@@ -173,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/asia/myanmar-journalist-kyaw-torture.html">‘I Didn’t Look Like a Human’: Journalist Tells of Myanmar Torture</a> NYT: When Ko Aung Kyaw erased his cellphone contacts to protect his sources, he knew his interrogators would make him pay a horrific price. He did it anyway. 
  <p class="updated_time"> 10:12 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/britain-records-more-than-93000-daily-infections-a-new-high.html">Britain records more than 93,000 daily infections, a new high.</a> NYT: Friday was the third consecutive day that the country’s case count set a record. 
- <p class="updated_time"> 10:00 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/asia/japan-fire-osaka.html">Japan Fire Kills 24, With Arson Suspected</a> NYT: The fire consumed the fourth floor of the building in Osaka, which housed a medical office. 
  <p class="updated_time"> 08:11 AM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html">Britain’s Conservatives Lose ‘Safe’ Seat, Dealing a Blow to Boris Johnson</a> NYT: The governing party lost to the Liberal Democrats a district that it had represented for more than a century. 
  <p class="updated_time"> 04:00 AM CT, Dec. 17 </p> 
