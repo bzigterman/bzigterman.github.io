@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:45 PM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59736335?at_medium=RSS&at_campaign=KARANGA">Saudi-led coalition forces target Yemeni airport in air strike</a> BBC: Saudi state media claimed that UN aid workers were warned to leave the airport ahead of the strike. 
+ <p class="updated_time"> 04:44 PM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59735243?at_medium=RSS&at_campaign=KARANGA">Covid: An event cancelled is better than a life cancelled - WHO chief</a> BBC: The head of the World Health Organization calls for "difficult decisions" to be made over festive plans. 
  <p class="updated_time"> 04:15 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/science/webb-telescope-astronomy.html">Webb Telescope Approaches Launch, With an Eye Toward Cosmic Origins</a> NYT: The biggest space telescope in history aims to answer astronomy’s oldest question: How did we get from the Big Bang to here? 
  <p class="updated_time"> 04:15 PM CT, Dec. 20 </p> 
@@ -19,6 +23,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/world/middleeast/egypt-human-rights-activitists-sentenced.html">Egypt Sentences 3 Human Rights Activists to Prison</a> NYT: The verdicts suggest that the government has not scaled back its crackdown on dissent, despite efforts to improve its image. 
  <p class="updated_time"> 04:00 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066017197/with-the-loss-of-manchins-vote-bidens-climate-change-agenda-may-be-doomed">With the loss of Manchin's vote, Biden's climate change agenda may be doomed</a> NPR: Despite a year of increasing weather disasters, Biden's ambitious climate plans may be doomed in Congress. 
+ <p class="updated_time"> 03:35 PM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59733716?at_medium=RSS&at_campaign=KARANGA">WHO urges cancelling some holiday events over Omicron fears</a> BBC: "An event cancelled is better than a life cancelled," warns the World Health Organization's head. 
  <p class="updated_time"> 03:25 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066017155/finally-scientists-have-found-a-true-millipede">Finally, scientists have found a true millipede</a> NPR: Scientists have finally found a millipede that lives up to its name. Eumillipes persephone has 1,306 legs — that's more than any other animal — and is the only known millipede to exceed 1,000 legs. 
  <p class="updated_time"> 03:10 PM CT, Dec. 20 </p> 
@@ -183,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/asia/carrie-lam-hong-kong.html">Can a ‘Very Confident’ Carrie Lam Salvage Her Legacy in Hong Kong?</a> NYT: Mrs. Lam is Hong Kong’s most unpopular leader ever, blamed for mass protests and a political crackdown. Yet she now appears reinvigorated, perhaps even ready for a second term. 
  <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59709246?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: Walking through the storm's trail of destruction</a> BBC: Watch this video that shows the extent of the devastation in Cebu City in the Philippines. 
- <p class="updated_time"> 05:04 AM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59710482?at_medium=RSS&at_campaign=KARANGA">France travel ban: Time-lapse shows long Eurostar queue at St Pancras</a> BBC: Travellers in St Pancras station, London, line up to get to France before it closes its borders to the UK. 
  <p class="updated_time"> 05:00 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/canada/newfoundland-atlantic-pandemic.html">Why Are So Many Canadians Moving to the Atlantic Provinces?</a> NYT: A Times reporter fulfills his lifelong dream of visiting Newfoundland and explores why so many Canadians are moving to the country’s Atlantic provinces. 
  <p class="updated_time"> 04:57 PM CT, Dec. 17 </p> 
@@ -196,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:50 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/manchin-climate-change-coal.html">Behind Manchin’s Opposition, a Long History of Fighting Climate Measures</a> NYT: Senator Joe Manchin III noted climate policy when he said he would vote against the Build Back Better Act. In his life and career, West Virginia coal has loomed large. 
  <p class="updated_time"> 04:41 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/military-extremism-rules.html">Pentagon Updates Its Rules on Extremism in the Military</a> NYT: “Liking” white nationalist and extremist content on social media could result in disciplinary action, Defense Department officials said. 
  <p class="updated_time"> 04:36 PM CT, Dec. 20 </p> 
@@ -240,12 +246,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/20/politics/vladislav-klyushin-russian-insider-trading-extradited/index.html">Russian businessman with Kremlin ties extradited to US and charged in multi-million-dollar insider trading scheme</a> CNN: A Russian businessman was extradited to the US this weekend from Switzerland to face charges in an insider trading scheme worth tens of millions of dollars for allegedly hacking into US computer networks, the Justice Department announced on Monday. 
  <p class="updated_time"> 02:08 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/pelosi-reaction-build-back-better/index.html">Pelosi says Democrats 'will not let this opportunity pass' on Build Back Better Act despite Manchin's stance</a> CNN: House Speaker Nancy Pelosi projected confidence Monday, vowing Democrats will not give up on passing the Build Back Better Act, despite Sen. Joe Manchin saying he will not vote for the package in its current form. 
+ <p class="updated_time"> 01:56 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/joe-biden-russia-ukraine-obama-2014/index.html">'A four-week window': Biden aims to learn from Obama's mistakes with quick moves to deter Putin from invading Ukraine</a> CNN: When the US intelligence community first picked up signs in the fall that Russia could be preparing a new attack on Ukraine, President Joe Biden directed his administration to act -- and fast. 
  <p class="updated_time"> 01:26 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065880187/democrats-still-plan-on-vote-for-the-social-spending-bill-despite-manchins-no">Democrats plan to vote on the social spending bill, despite Manchin's 'no'</a> NPR: Senate Majority Leader Schumer said the Senate will take up the measure "very early" in the new year 
  <p class="updated_time"> 01:10 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/pentagon-extremism-service-members-525762">Pentagon issues rules aimed at stopping rise of extremism</a> Politico: Officials said the new policy doesn’t largely change what is prohibited, but is more of an effort to make sure troops are clear on what they can and can’t do. 
- <p class="updated_time"> 12:58 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/epa-auto-emissions-standards/index.html">EPA will tighten fuel mileage standards for cars and light trucks, replacing looser Trump-era standards </a> CNN: The Environmental Protection Agency on Monday will tighten fuel emissions standards for cars and light trucks to 40 miles per gallon by the 2026 model year, replacing the looser Trump-era standards. 
  <p class="updated_time"> 12:57 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
  <p class="updated_time"> 12:53 PM CT, Dec. 20 </p> 
@@ -276,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/maryland-governor-larry-hogan-positive-covid-525733">Maryland Gov. Hogan announces positive Covid test</a> Politico: Sens. Cory Booker and Elizabeth Warren have also announced cases in recent days. 
  <p class="updated_time"> 10:35 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/filibuster-senate-voting-rights.html">Schumer Will Try to Change Senate Rules if G.O.P. Stalls Voting Bill</a> NYT: The Senate majority leader still lacks the votes to alter the filibuster, but he said he will renew the effort to enact voting rights measures as early as the first week of January. 
- <p class="updated_time"> 10:25 AM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/larry-hogan-covid-19/index.html">Maryland Gov. Larry Hogan tests positive for Covid-19</a> CNN: Maryland Gov. Larry Hogan tested positive for Covid-19, he tweeted Monday. 
  <p class="updated_time"> 10:04 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/davos-is-dead-525732">Davos is dead</a> Politico: The world’s most elite conference is postponed, again. 
  <p class="updated_time"> 09:50 AM CT, Dec. 20 </p> 
@@ -302,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/20/1065722979/biden-struggles-with-political-agenda-and-covid-19-new-npr-poll-shows">Biden struggles with political agenda and COVID-19, new NPR poll shows</a> NPR: President Biden faces crises with his domestic agenda and the pandemic, as his approval among the public continues to falter. 
  <p class="updated_time"> 04:09 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065722916/morning-news-brief">News brief: Omicron variant, Build Back Better, Chile's president-elect</a> NPR: The latest coronavirus variant is spreading quickly. West Virginia Sen. Manchin says he won't support the president's Build Back Better plan. A leftist millennial wins Chile's presidential election. 
- <p class="updated_time"> 04:06 AM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">3 Democratic lawmakers announce positive Covid-19 tests</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
  <p class="updated_time"> 02:00 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/amtrak-expansion-funding-infrastructure-bill.html">Billions in Amtrak Funding Could Modernize Aging Rail System</a> NYT: The $1 trillion infrastructure bill that President Biden signed into law includes money that Amtrak hopes can fix crumbling bridges and tunnels along the Northeast Corridor. 
  <p class="updated_time"> 07:59 PM CT, Dec. 19 </p> 
@@ -358,12 +360,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/18/politics/ali-alexander-january-6-investigation-gop-lawmakers/index.html">'Stop the Steal' leader hands over communications with GOP lawmakers to January 6 committee</a> CNN: "Stop the Steal" leader Ali Alexander has handed over to the House Select Committee investigating January 6 thousands of text messages and communication records that include his interactions with members of Congress and former President Donald Trump's inner circle leading up to the riot, according to a court document submitted late Friday night. 
  <p class="updated_time"> 05:49 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/biden-judges-reagan-record.html">Senate Confirms Biden’s 40th Judge, Tying a Reagan-Era Record</a> NYT: President Biden saw more of his judicial nominees confirmed in his first year than any president since Ronald Reagan. The Senate confirmed 18 federal judges in Donald Trump’s first year. 
+ <p class="updated_time"> 05:48 PM CT, Dec. 18 </p> 
+ <a href="https://www.cnn.com/2021/12/18/politics/white-house-omicron-warning-joe-biden/index.html">Inside the meeting that led to Biden's stark warning about the Omicron winter</a> CNN: President Joe Biden's top health officials came to an afternoon briefing at the White House Thursday with a warning -- and a request. 
  <p class="updated_time"> 05:16 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/18/politics/trump-supporters-knock-on-doors-in-search-for-2020-fraud/index.html">Trump loyalists are knocking on voters' doors in the latest quest to find fraud in the 2020 election</a> CNN: A few months ago, two women showed up at Steve Snell's home in southern Pennsylvania with questions for his 89-year-old mother-in-law. 
  <p class="updated_time"> 03:30 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/harris-charlamagne-tha-god-interview-defends-biden/index.html">Harris defends Biden when questioned whether he or Manchin is President</a> CNN: Vice President Kamala Harris forcefully defended President Joe Biden when recently asked whether he or Sen. Joe Manchin is the president of the United States, as Biden's agenda remains stalled in part because of the West Virginia Democrat. 
- <p class="updated_time"> 03:14 PM CT, Dec. 18 </p> 
- <a href="https://www.cnn.com/2021/12/18/politics/us-post-office-naacp-2020-election-settlement/index.html">USPS reaches settlement with NAACP over 2020 mail-in voting</a> CNN: The United States Postal Service announced an agreement Friday with the NAACP on a lawsuit the civil rights organization filed prior to the 2020 election that had challenged USPS delivery delays. 
  <p class="updated_time"> 02:18 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/congress-gridlock-democracy.html">Congress Ends ‘Horrible Year’ With Divisions as Bitter as Ever</a> NYT: Democrats’ achievements were overshadowed by legislative setbacks, fallout from the Jan. 6 attack and a sense that Congress was not rising to meet a perilous moment in history. 
  <p class="updated_time"> 11:48 AM CT, Dec. 18 </p> 
@@ -388,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/us/politics/biden-coronavirus-omicron-winter.html">Biden Struggles to Beat Back a Resurgent Virus Once Again</a> NYT: A new variant and vaccine resistance have upended the president’s plans for a hopeful holiday season. 
  <p class="updated_time"> 08:22 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/appeals-court-lifts-stay-vaccine-or-test-525313">Appeals court lifts stay on administration's vaccine-or-test mandate for large businesses</a> Politico: Business groups quickly filed an appeal to the Supreme Court. 
- <p class="updated_time"> 05:28 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/us/politics/january-6-committee-capitol-riot.html">Jan. 6 Committee May Add New Expertise for Investigation</a> NYT: As the panel continues to take testimony, it is looking to do more analysis of social media and possible foreign efforts to sow discord in the U.S. before the Capitol riot. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
  <p class="updated_time"> 10:44 AM CT, Dec. 17 </p> 
@@ -406,6 +406,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/biden-concedes-bbb-bill-wont-get-passed-this-year-525194">Biden concedes Build Back Better bill won’t get passed this year</a> Politico: “It takes time to finalize these agreements, prepare the legislative changes, and finish all the parliamentary and procedural steps needed to enable a Senate vote,” the president said. 
  <p class="updated_time"> 05:44 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-meadows-525172">Jan. 6 committee subpoenas author of debunked election-fraud PowerPoint sent to Meadows</a> Politico: James P. “Phil” Waldron, a retired Army colonel, is asked to provide documents by Jan. 10 and sit for a deposition. 
+ <p class="updated_time"> 05:03 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden awards Medal of Honor to 3 soldiers, including the first African American since the Vietnam War</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
+ <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
+ <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/chamber-ad-manchin-build-back-better-525129">Chamber launches ads targeting Manchin, hoping to kill Build Back Better</a> Politico: The group got a huge win with the infrastructure bill. Now, they want the legislative spigot to go dry. 
  <p class="updated_time"> 01:11 PM CT, Dec. 16 </p> 
