@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:37 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/world/europe/ireland-cure-folk-medicine.html">Secret Charms and 7th Sons: ‘The Cure’ Is Alive and Well in Ireland</a> NYT: Belief in the benefits of the cure, a type of folk medicine that interweaves home remedies with superstition, religion and a sprinkle of magic is still a way of life in pockets of Ireland. 
  <p class="updated_time"> 11:17 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/nyregion/nyc-omicron-de-blasio.html">NYC Mayor: City Needs to Move Faster to Fight Omicron </a> NYT: In a news conference, Bill de Blasio said the next surge would likely be large but temporary. 
  <p class="updated_time"> 11:17 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/africa/drones-ethiopia-war-turkey-emirates.html">Foreign Drones Tip the Balance in Ethiopia’s Civil War</a> NYT: Prime Minister Abiy Ahmed pulled off a stunning reversal in the year-old conflict with the help of armed drones supplied by the United Arab Emirates, Turkey and Iran. 
  <p class="updated_time"> 11:15 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/lucia-hiriart-dead.html">Lucía Hiriart, Powerful Wife of Chile’s Dictator, Dies at 98</a> NYT: Her husband, Augusto Pinochet, acknowledged that she had pushed him to participate in the 1973 coup that brought him to power in 1973. 
+ <p class="updated_time"> 11:13 AM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/sport/africa/59734797?at_medium=RSS&at_campaign=KARANGA">Gabon youth coach arrested after male rape claims which he denies</a> BBC: Patrick Eyi, a former Gabon U17 coach, is arrested after claims of sexual abuse against him, which he denies. 
  <p class="updated_time"> 10:56 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59733713?at_medium=RSS&at_campaign=KARANGA">Donald Trump sues NY attorney to block inquiry into his company</a> BBC: The former US president says the probe into his businesses violates his constitutional rights. 
  <p class="updated_time"> 10:54 AM CT, Dec. 20 </p> 
@@ -45,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59730522?at_medium=RSS&at_campaign=KARANGA">What is Russia's Vladimir Putin planning?</a> BBC: The BBC's Steve Rosenberg looks at what might be on the Russian leader's mind amid growing tensions. 
  <p class="updated_time"> 07:27 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/middleeast/israel-us-travel-covid.html">Israel Bars Travel to U.S. or Canada as Omicron Surges</a> NYT: The countries were added to Israel’s rapidly growing “red list” as Prime Minister Naftali Bennett’s government tries to slow Omicron’s spread. 
- <p class="updated_time"> 07:23 AM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/business-59725423?at_medium=RSS&at_campaign=KARANGA">Davos business leaders' event postponed over Omicron</a> BBC: The World Economic Forum has been rescheduled for "early summer" due to the spread of Covid. 
  <p class="updated_time"> 07:04 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Pro-Beijing candidates sweep controversial LegCo election</a> BBC: The results for the controversial poll come after the city saw its lowest ever voter turnout. 
  <p class="updated_time"> 07:03 AM CT, Dec. 20 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/20/1065711643/covid-is-again-raging-across-the-u-s-just-as-americans-gather-for-the-holidays">COVID is again raging across the U.S. just as Americans gather for the holidays</a> NPR: Sporting events and live theater announced cancellations amid major increases in new coronavirus cases, in large part because of the omicron variant. 
  <p class="updated_time"> 04:09 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065722944/muslim-majority-states-gather-to-combat-afghanistans-humanitarian-crisis">Islamic countries are pledging to launch a humanitarian trust fund for Afghanistan</a> NPR: The emergency gathering of the Organization for Islamic Cooperation was the largest international meeting on Afghanistan since the country fell to the Taliban in August. 
- <p class="updated_time"> 04:00 AM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/world/europe/ireland-cure-folk-medicine.html">Secret Charms and 7th Sons: ‘The Cure’ Is Alive and Well in Ireland</a> NYT: Belief in the benefits of the cure, a type of folk medicine that interweaves home remedies with superstition, religion and a sprinkle of magic is still a way of life in pockets of Ireland. 
  <p class="updated_time"> 04:00 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/americas/mexico-abortion-pill-activists.html">A Plan Forms in Mexico: Help Americans Get Abortions</a> NYT: Mexican activists plan to provide women in Texas and other U.S. states with information, support — and abortion-inducing pills. 
  <p class="updated_time"> 04:00 AM CT, Dec. 20 </p> 
@@ -200,14 +200,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/trump-received-vaccine-booster-shot-525748">Trump says he received vaccine booster shot</a> Politico: Former President Donald Trump confirmed he had gotten a booster during a live show with Bill O'Reilly in Dallas on Sunday. 
  <p class="updated_time"> 11:49 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, Murphy didn't rule out a future run for a different public role. 
+ <p class="updated_time"> 11:32 AM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/trump-ny-attorney-general-james/index.html">Trump sues NY attorney general, seeking to stop investigation into his company</a> CNN: Former President Donald Trump and the Trump Organization have sued New York Attorney General Letitia James, asking for a federal court to halt or limit her office's ongoing investigations. 
  <p class="updated_time"> 11:02 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/trump-sues-ny-attorney-general-525736">Trump sues N.Y. attorney general James to block fraud probes</a> Politico: The case accuses James of violating the civil rights of Trump and the Trump Organization. 
+ <p class="updated_time"> 11:01 AM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/supreme-court-kavanaugh-osha-vaccine-mandate-omicron/index.html">Supreme Court receives appeals asking Kavanaugh to block large employer vaccine mandate</a> CNN: The Supreme Court Monday said it has received several appeals asking Justice Brett Kavanaugh to consider the Biden administration's requirement that large employers mandate their employees obtain a Covid-19 vaccine or submit to weekly testing. 
  <p class="updated_time"> 10:55 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065830614/donald-trump-is-suing-the-n-y-attorney-general-in-a-bid-to-end-her-investigation">Donald Trump is suing the N.Y. attorney general, in a bid to end her investigation </a> NPR: The former president filed suit on Monday against Letitia James, seeking to short circuit her civil investigation into his business practices. 
  <p class="updated_time"> 10:53 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/maryland-governor-larry-hogan-positive-covid-525733">Maryland Gov. Hogan announces positive Covid test</a> Politico: Sens. Cory Booker and Elizabeth Warren have also announced cases in recent days. 
- <p class="updated_time"> 10:48 AM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/trump-ny-attorney-general-james/index.html">Trump sues NY attorney general, seeking to stop investigation into his company</a> CNN: Former President Donald Trump and the Trump Organization have sued New York Attorney General Letitia James, asking for a federal court to halt or limit her office's ongoing investigations. 
  <p class="updated_time"> 10:35 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/filibuster-senate-voting-rights.html">Schumer Will Try to Change Senate Rules if G.O.P. Stalls Voting Bill</a> NYT: The Senate majority leader still lacks the votes to alter the filibuster, but he said he will renew the effort to enact voting rights measures as early as the first week of January. 
  <p class="updated_time"> 10:25 AM CT, Dec. 20 </p> 
@@ -282,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/19/politics/adam-kinzinger-trump-investigation-insurrection-cnntv/index.html">Kinzinger says January 6 panel is investigating Trump's involvement in insurrection</a> CNN: Republican Rep. Adam Kinzinger said Sunday the House panel investigating the January 6 Capitol insurrection is looking into whether former President Donald Trump committed a crime with his involvement in the deadly riot. 
  <p class="updated_time"> 12:49 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/19/scoop-manchin-refused-a-call-from-wh-before-killing-bbb-495521"> SCOOP: Manchin ‘refused’ a call from W.H. before killing BBB</a> Politico Playbook: And the latest coronavirus variant raises the alarm across the world. 
- <p class="updated_time"> 12:35 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/covid-exhaustion-analysis/index.html">Americans are less willing to take precautions as the coronavirus wears on</a> CNN: The fight against the coronavirus has entered a new stage with the emergence of the omicron variant. As it spreads, cases are rising in much of the United States. 
  <p class="updated_time"> 12:26 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/jared-polis-three-dose-vaccine-525532">Colorado governor supports redefining what it means to be fully vaccinated</a> Politico: Jared Polis also said the unvaccinated are “often victims of misinformation.” 
  <p class="updated_time"> 11:55 AM CT, Dec. 19 </p> 
