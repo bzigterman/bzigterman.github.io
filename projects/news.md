@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:50 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/world/europe/uk-brexit-david-frost-liz-truss.html">U.K. Foreign Secretary Inherits Thorny Issue: Northern Ireland Talks</a> NYT: Liz Truss is taking charge of Brexit talks after the surprise resignation of David Frost. If she is successful, it could give her a significant political boost. 
  <p class="updated_time"> 02:49 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/nyregion/nypd-mask-mandate.html">N.Y.P.D. officers are again told to mask up amid Omicron surge</a> NYT: Employees are required to wear face masks indoors and outdoors regardless of vaccination status. 
  <p class="updated_time"> 02:48 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/nyregion/nyc-omicron-de-blasio.html">NYC Mayor: City Needs to Move Faster to Fight Omicron </a> NYT: In a news conference, Bill de Blasio said the next surge would likely be large but temporary. 
- <p class="updated_time"> 02:41 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/world/europe/uk-brexit-david-frost-liz-truss.html">U.K. Foreign Secretary Inherits Thorny Issue: Northern Ireland Talks</a> NYT: Liz Truss is taking charge of Brexit talks after the surprise resignation of David Frost. If she is successful, it could give her a significant political boost. 
  <p class="updated_time"> 02:35 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/health/covid-novavax-europe.html">Novavax’s Covid Vaccine Is Authorized in Europe</a> NYT: The vaccine will be the fifth to become available in the E.U., which already has ample supplies. 
  <p class="updated_time"> 02:29 PM CT, Dec. 20 </p> 
@@ -198,16 +198,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:02 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/pentagon-defines-extremist-behavior-military-extremism/index.html">Pentagon defines prohibited behavior in effort to tackle extremism</a> CNN: In an ongoing effort to tackle extremism within military ranks, the Pentagon is putting forward a clearer, sharper definition of extremist behavior, updating the older guidance that was considered too vague on what was and was not allowed. 
+ <p class="updated_time"> 02:59 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/alex-jones-january-6-lawsuit/index.html">Alex Jones sues House January 6 committee</a> CNN: Conspiracy theorist and right-wing provocateur Alex Jones says he will not comply with demands the House Select Committee investigating January 6 has made for his testimony and records, according to a new lawsuit he filed on Monday. 
+ <p class="updated_time"> 02:53 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/joe-manchin-offer-to-biden/index.html">Manchin's offer to Biden included universal pre-kindergarten and Obamacare expansion, but no child tax credit</a> CNN: Sen. Joe Manchin, just days before he called off negotiations with President Joe Biden, proposed a version of the Build Back Better plan centered on universal pre-kindergarten program, funded for a full 10 years, as well as an expansion of the Affordable Care Act and hundreds of billions of dollars to address climate change, a person with direct knowledge of the matter confirmed to CNN. 
+ <p class="updated_time"> 02:53 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/build-back-better-schumer-manchin.html">Manchin Assails Efforts to Press Him on Biden’s Domestic Policy Bill</a> NYT: Senator Joe Manchin III criticized the White House staff for its handling of negotiations over the legislation, saying officials had pushed him to his “wit’s end.” 
  <p class="updated_time"> 02:46 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/haitian-migrants-border-patrol-lawsuit.html">Haitian Migrants File Lawsuit Protesting Treatment by Border Patrol</a> NYT: Images of Border Patrol agents corralling Black migrants prompted criticism of the Biden administration’s response to an influx of thousands in Del Rio, Texas. 
  <p class="updated_time"> 02:40 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/republicans-navy-seal-vaccine-525773">Almost 50 Republicans back Navy SEAL lawsuit over vaccine mandate</a> Politico: The group of lawmakers, which includes nine senators and 38 representatives, is led by Sens. Ted Cruz, Jim Inhofe and Roger Marshall. 
- <p class="updated_time"> 02:33 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/build-back-better-schumer-manchin.html">Manchin Assails Efforts to Press Him on Biden’s Domestic Policy Bill</a> NYT: Senator Joe Manchin III criticized the White House staff for its handling of negotiations over the legislation, saying officials had pushed him to his “wit’s end.” 
  <p class="updated_time"> 02:25 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/alex-jones-sues-jan-6-committee-indicates-plan-to-plead-the-fifth-525770">Alex Jones sues Jan. 6 committee, indicates plan to plead the Fifth</a> Politico: In the lawsuit, Jones says he intends to assert his Fifth Amendment rights against self-incrimination. 
- <p class="updated_time"> 01:56 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/joe-biden-russia-ukraine-obama-2014/index.html">'A four-week window': Biden aims to learn from Obama's mistakes with quick moves to deter Putin from invading Ukraine</a> CNN: When the US intelligence community first picked up signs in the fall that Russia could be preparing a new attack on Ukraine, President Joe Biden directed his administration to act -- and fast. 
+ <p class="updated_time"> 02:10 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/vladislav-klyushin-russian-insider-trading-extradited/index.html">Russian businessman with Kremlin ties extradited to US and charged in multi-million-dollar insider trading scheme</a> CNN: A Russian businessman was extradited to the US this weekend from Switzerland to face charges in an insider trading scheme worth tens of millions of dollars for allegedly hacking into US computer networks, the Justice Department announced on Monday. 
  <p class="updated_time"> 01:26 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065880187/democrats-still-plan-on-vote-for-the-social-spending-bill-despite-manchins-no">Democrats still plan on vote for the social spending bill, despite Manchin's 'no'</a> NPR: Senate Majority leader Schumer said the Senate will take up the measure "very early" in the new year 
  <p class="updated_time"> 01:10 PM CT, Dec. 20 </p> 
@@ -290,6 +296,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-joe-biden-build-back-better-talks-break-down/index.html">How months of talks between Biden and Manchin over Build Back Better broke down </a> CNN: President Joe Biden was at home in Delaware Sunday when Sen. Joe Manchin appeared on Fox News to abruptly declare he could not support his sweeping social and climate plan. "I've tried everything humanly possible," the West Virginia Democrat said, appearing remotely. "I can't get there. This is a no." 
  <p class="updated_time"> 07:00 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/democratic-sky-high-expectations-fall-flat-525537">Dems trip over their own sky-high expectations</a> Politico: Joe Manchin's rejection of the party's social spending bill is just the latest episode in a series of lofty goals it's failed to deliver on. 
+ <p class="updated_time"> 06:55 PM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/elizabeth-warren-covid-positive.html">Elizabeth Warren and Cory Booker Test Positive for Coronavirus</a> NYT: Senators Elizabeth Warren of Massachusetts and Cory Booker of New Jersey, both Democrats, said they were vaccinated and had received a booster shot. 
  <p class="updated_time"> 06:01 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Joe Manchin Says He Can't Support Build Back Better Act</a> NYT: The West Virginia senator’s comments dealt a potentially fatal blow to the centerpiece of the president’s domestic agenda, and drew a broadside from the White House. 
  <p class="updated_time"> 05:36 PM CT, Dec. 19 </p> 
@@ -342,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/18/politics/ali-alexander-january-6-investigation-gop-lawmakers/index.html">'Stop the Steal' leader hands over communications with GOP lawmakers to January 6 committee</a> CNN: "Stop the Steal" leader Ali Alexander has handed over to the House Select Committee investigating January 6 thousands of text messages and communication records that include his interactions with members of Congress and former President Donald Trump's inner circle leading up to the riot, according to a court document submitted late Friday night. 
  <p class="updated_time"> 05:49 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/biden-judges-reagan-record.html">Senate Confirms Biden’s 40th Judge, Tying a Reagan-Era Record</a> NYT: President Biden saw more of his judicial nominees confirmed in his first year than any president since Ronald Reagan. The Senate confirmed 18 federal judges in Donald Trump’s first year. 
- <p class="updated_time"> 05:48 PM CT, Dec. 18 </p> 
- <a href="https://www.cnn.com/2021/12/18/politics/white-house-omicron-warning-joe-biden/index.html">Inside the meeting that led to Biden's stark warning about the Omicron winter</a> CNN: President Joe Biden's top health officials came to an afternoon briefing at the White House Thursday with a warning -- and a request. 
  <p class="updated_time"> 05:16 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/18/politics/trump-supporters-knock-on-doors-in-search-for-2020-fraud/index.html">Trump loyalists are knocking on voters' doors in the latest quest to find fraud in the 2020 election</a> CNN: A few months ago, two women showed up at Steve Snell's home in southern Pennsylvania with questions for his 89-year-old mother-in-law. 
  <p class="updated_time"> 04:14 PM CT, Dec. 18 </p> 
@@ -354,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/18/politics/us-post-office-naacp-2020-election-settlement/index.html">USPS reaches settlement with NAACP over 2020 mail-in voting</a> CNN: The United States Postal Service announced an agreement Friday with the NAACP on a lawsuit the civil rights organization filed prior to the 2020 election that had challenged USPS delivery delays. 
  <p class="updated_time"> 02:18 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/us/politics/congress-gridlock-democracy.html">Congress Ends ‘Horrible Year’ With Divisions as Bitter as Ever</a> NYT: Democrats’ achievements were overshadowed by legislative setbacks, fallout from the Jan. 6 attack and a sense that Congress was not rising to meet a perilous moment in history. 
- <p class="updated_time"> 12:27 PM CT, Dec. 18 </p> 
- <a href="https://www.cnn.com/2021/12/18/politics/senate-confirms-ambassador-rahm-emanuel/index.html">Senate confirms Rahm Emanuel and others to ambassador posts</a> CNN: The US Senate overnight confirmed more than three dozen of President Joe Biden's nominees to ambassador posts, ending a months-long Republican-led blockade on quick consideration of the diplomatic nominations. 
  <p class="updated_time"> 11:48 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/white-house-not-budging-student-loans-525357">White House not budging on Feb. 1 end to student loans forgiveness</a> Politico: At a meeting with Biden officials Wednesday, advocates tried to "sound the alarm to them about what we believe to be a very serious political mistake that they’re about to be making." 
  <p class="updated_time"> 10:16 AM CT, Dec. 18 </p> 
@@ -378,18 +382,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/us/politics/biden-coronavirus-omicron-winter.html">Biden Struggles to Beat Back a Resurgent Virus Once Again</a> NYT: A new variant and vaccine resistance have upended the president’s plans for a hopeful holiday season. 
  <p class="updated_time"> 08:22 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/appeals-court-lifts-stay-vaccine-or-test-525313">Appeals court lifts stay on administration's vaccine-or-test mandate for large businesses</a> Politico: Business groups quickly filed an appeal to the Supreme Court. 
+ <p class="updated_time"> 06:53 PM CT, Dec. 17 </p> 
+ <a href="https://www.nytimes.com/2021/12/17/us/politics/unvaccinated-children-covid-testing-cdc.html">C.D.C. Says Unvaccinated Students Exposed to Virus Can ‘Test and Stay’</a> NYT: Two new studies show that unvaccinated children exposed to the virus are safe to stay in school if they remain asymptomatic and get tested twice over the course of a week. 
  <p class="updated_time"> 05:28 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/january-6-committee-capitol-riot.html">Jan. 6 Committee May Add New Expertise for Investigation</a> NYT: As the panel continues to take testimony, it is looking to do more analysis of social media and possible foreign efforts to sow discord in the U.S. before the Capitol riot. 
- <p class="updated_time"> 04:48 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/business/southwest-ceo-postive-coronavirus.html">Southwest C.E.O. Tests Positive for Coronavirus After Senate Hearing</a> NYT: Gary Kelly appeared at the committee hearing with other airline officials on Wednesday. Each was unmasked for at least part of the hearing, as were many senators. 
  <p class="updated_time"> 04:07 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/robert-palmer-capitol-riot-sentence.html">Man Gets 5 Years on Capitol Riot Charges, Longest Sentence So Far</a> NYT: Robert Palmer hurled a fire extinguisher at police officers during some of the fiercest fighting on Jan. 6. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
  <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
- <p class="updated_time"> 11:00 AM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/us/politics/climate-change-us-financial-threat.html">Climate Change an ‘Emerging Threat’ to U.S. Financial Stability, Regulators Say</a> NYT: The Financial Stability Oversight Council issued a formal warning on the economic damage that global warming could inflict. 
  <p class="updated_time"> 10:44 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/house-democrats-elections-dccc-525258">Vulnerable House Dems to DCCC: You're jeopardizing our reelection</a> Politico: Multiple at-risk Democrats tell POLITICO that the campaign committee has adopted a midterms strategy that is hurting, not helping, their reelections. 
  <p class="updated_time"> 07:42 AM CT, Dec. 17 </p> 
@@ -404,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/biden-concedes-bbb-bill-wont-get-passed-this-year-525194">Biden concedes Build Back Better bill won’t get passed this year</a> Politico: “It takes time to finalize these agreements, prepare the legislative changes, and finish all the parliamentary and procedural steps needed to enable a Senate vote,” the president said. 
  <p class="updated_time"> 05:44 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-meadows-525172">Jan. 6 committee subpoenas author of debunked election-fraud PowerPoint sent to Meadows</a> Politico: James P. “Phil” Waldron, a retired Army colonel, is asked to provide documents by Jan. 10 and sit for a deposition. 
- <p class="updated_time"> 05:03 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/biden-medal-of-honor-army/index.html">Biden awards Medal of Honor to 3 soldiers, including the first African American since the Vietnam War</a> CNN: President Joe Biden will bestow the Medal of Honor, the most prestigious decoration in the US military, to three Army soldiers on Thursday afternoon. 
  <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
  <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
