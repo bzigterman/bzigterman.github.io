@@ -51,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll surges</a> BBC: The number of fatalities rises rapidly to at least 375, as the Red Cross appeals for urgent aid. 
  <p class="updated_time"> 12:04 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2021/12/20/255821310/the-many-contradictions-of-latin-music">The many contradictions of 'Latin Music'</a> NPR: For some, the term 'Latin music' is too broad to be meaningful. For others, it invokes a sense of pride and resistance. To help break it down, we spoke to an expert on race and music and pop culture. 
+ <p class="updated_time"> 11:40 AM CT, Dec. 20 </p> 
+ <a href="https://www.wsj.com/articles/novavaxs-covid-19-vaccine-recommended-for-use-in-eu-11640010462">Novavax's Covid-19 Vaccine Approved by EU</a> WSJ: Novavax’s vaccine has been recommended for use by the European Medicines Agency, marking the first endorsement by a major regulator of a shot that uses an established vaccine technology. 
  <p class="updated_time"> 11:33 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59733807?at_medium=RSS&at_campaign=KARANGA">Young pupils allegedly forced to re-enact Holocaust in Washington school</a> BBC: An investigation is underway regarding the alleged incident involving young pupils in Washington DC. 
  <p class="updated_time"> 11:17 AM CT, Dec. 20 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/egyptian-court-sentences-three-activists-despite-international-pressure-11640019548">Egyptian Court Sentences Activists Despite International Pressure</a> WSJ: The political dissident Alaa Abdel-Fattah and two others were sent to prison on charges of joining a terrorist group and spreading false news 
  <p class="updated_time"> 07:27 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/middleeast/israel-us-travel-covid.html">Israel Bars Travel to U.S. or Canada as Omicron Surges</a> NYT: The countries were added to Israel’s rapidly growing “red list” as Prime Minister Naftali Bennett’s government tries to slow Omicron’s spread. 
- <p class="updated_time"> 05:26 AM CT, Dec. 20 </p> 
- <a href="https://www.wsj.com/articles/novavaxs-covid-19-vaccine-recommended-for-use-in-eu-11640010462">Novavax's Covid-19 Vaccine Approved by EU</a> WSJ: Novavax’s vaccine has been recommended for use by the European Medicines Agency, marking the first endorsement by a major regulator of a shot that uses an established vaccine technology. 
  <p class="updated_time"> 04:40 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59726191?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: World heritage site Lalibela back in government hands</a> BBC: Tigray forces have left Lalibela, a town famous for its rock-hewn churches. 
  <p class="updated_time"> 04:16 AM CT, Dec. 20 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:41 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/military-extremism-rules.html">Pentagon Updates Its Rules on Extremism in the Military</a> NYT: “Liking” white nationalist and extremist content on social media could result in disciplinary action, Defense Department officials said. 
  <p class="updated_time"> 04:36 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/biden-and-manchin-speak-525788">Biden and Manchin speak</a> Politico: The two connected and there is a sense that talks around Build Back Better aren't done yet. 
  <p class="updated_time"> 04:32 PM CT, Dec. 20 </p> 
@@ -386,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/us/politics/biden-coronavirus-omicron-winter.html">Biden Struggles to Beat Back a Resurgent Virus Once Again</a> NYT: A new variant and vaccine resistance have upended the president’s plans for a hopeful holiday season. 
  <p class="updated_time"> 08:22 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/appeals-court-lifts-stay-vaccine-or-test-525313">Appeals court lifts stay on administration's vaccine-or-test mandate for large businesses</a> Politico: Business groups quickly filed an appeal to the Supreme Court. 
- <p class="updated_time"> 06:53 PM CT, Dec. 17 </p> 
- <a href="https://www.nytimes.com/2021/12/17/us/politics/unvaccinated-children-covid-testing-cdc.html">C.D.C. Says Unvaccinated Students Exposed to Virus Can ‘Test and Stay’</a> NYT: Two new studies show that unvaccinated children exposed to the virus are safe to stay in school if they remain asymptomatic and get tested twice over the course of a week. 
  <p class="updated_time"> 05:28 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/january-6-committee-capitol-riot.html">Jan. 6 Committee May Add New Expertise for Investigation</a> NYT: As the panel continues to take testimony, it is looking to do more analysis of social media and possible foreign efforts to sow discord in the U.S. before the Capitol riot. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
