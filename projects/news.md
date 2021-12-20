@@ -7,6 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:16 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59674930?at_medium=RSS&at_campaign=KARANGA">What is the metaverse?</a> BBC: From virtual versions of ourselves to augmented reality, we break down what the metaverse is. 
+ <p class="updated_time"> 06:04 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59699556?at_medium=RSS&at_campaign=KARANGA">Tortured to death: Myanmar mass killings revealed</a> BBC: A BBC investigation finds evidence Myanmar's military killed 40 villagers in July, torturing some to death. 
+ <p class="updated_time"> 06:02 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59722770?at_medium=RSS&at_campaign=KARANGA">Australia bouncy castle fall: Sixth child dies in hospital</a> BBC: Chace Harrison, 11, died in hospital three days after falling from a castle blown into the air. 
+ <p class="updated_time"> 06:01 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59719323?at_medium=RSS&at_campaign=KARANGA">Myanmar: BBC investigates military's mass killings</a> BBC: Eyewitnesses and survivors say that soldiers rounded up villagers before separating the men and killing them. 
+ <p class="updated_time"> 05:52 PM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
  <p class="updated_time"> 05:15 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59715941?at_medium=RSS&at_campaign=KARANGA">Leftist Gabriel Boric wins Chile presidential election</a> BBC: His far-right rival José Antonio Kast conceded defeat less than 90 minutes after polls closed on Sunday. 
  <p class="updated_time"> 05:15 PM CT, Dec. 19 </p> 
@@ -41,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/asia/hong-kong-patriots-elections.html">Hong Kong Elections: How 'Patriots Only' Bolsters Beijing's Grip</a> NYT: China’s crackdown has driven most of the city’s popular pro-democracy candidates either into police custody or exile. Officials have urged the public to vote, but turnout Sunday was on track to hit a record low. 
  <p class="updated_time"> 11:10 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/middleeast/hamas-israel-gaza-war.html">Hamas, Claiming Victory Over Israel, Is Stuck in Same Old Cycle</a> NYT: Seven months after a war with Israel, hundreds are dead but otherwise little has changed. It’s a familiar pattern. 
- <p class="updated_time"> 09:57 AM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59719765?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Thousands protest on uprising anniversary</a> BBC: Demonstrations around the country demand an end to military rule, following a coup in October. 
  <p class="updated_time"> 09:50 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/southeast-asian-tourism-covid.html">Southeast Asia's Tourist Spots Are Open, but Visitors Are Scarce</a> NYT: Hopes for a revival of international tourism have fizzled amid restrictions, paperwork, a lack of flights and uncertainty around the Omicron variant. 
  <p class="updated_time"> 09:32 AM CT, Dec. 19 </p> 
@@ -65,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/19/1065626388/revival-of-the-iran-nuclear-deal-appears-far-off">Revival of the Iran nuclear deal appears far-off</a> NPR: Scott Detrow gets an update on the ongoing Iran-U.S. nuclear deal talks in Vienna from journalist Negar Mortazavi. 
  <p class="updated_time"> 06:58 AM CT, Dec. 19 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-voters-widely-shun-election-for-beijing-approved-legislators-11639927626">Hong Kong Voters Widely Shun Election for Beijing-Approved Candidates</a> WSJ: Turnout at Sunday’s poll was on course to be a record low for legislative elections since the city returned to Chinese rule in 1997. 
- <p class="updated_time"> 06:26 AM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59717076?at_medium=RSS&at_campaign=KARANGA">Highlights from the career of architect Richard Rogers</a> BBC: Lord Rogers, who has died aged 88, designed the Millennium Dome and the Pompidou Centre. 
  <p class="updated_time"> 06:01 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1062091832/flying-tigers-americans-china-world-war-ii-history-japan">The Flying Tigers: How a group of Americans ended up fighting for China in WW II</a> NPR: In 1941, Japan was on the offensive against China. So China hired a group of Americans to fight back in the skies. Eighty years ago this week, they fought in their first battle. 
  <p class="updated_time"> 06:00 AM CT, Dec. 19 </p> 
@@ -137,10 +143,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59689177?at_medium=RSS&at_campaign=KARANGA">Lagos party plans threatened by Nigeria Covid passports</a> BBC: Nigeria was briefly put on the UK's travel red list but most people are indifferent to coronavirus. 
  <p class="updated_time"> 06:11 PM CT, Dec. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59674377?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine: Can a solution be found for war in Ukraine's east?</a> BBC: The West fears a Russian invasion so hopes of a peaceful solution to the conflict look slim. 
- <p class="updated_time"> 06:07 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-59685203?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… What 2021 taught us about Covid</a> BBC: A look back at how the pandemic evolved throughout 2021, and what we've learned from it. 
- <p class="updated_time"> 06:06 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59702427?at_medium=RSS&at_campaign=KARANGA">India and Pakistan: The students in jail for praising the wrong cricket team</a> BBC: An Indian student's family calls for his release after he was arrested for celebrating Pakistan's victory. 
  <p class="updated_time"> 04:57 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html">Why There's a Growing Push to Ban Killer Robots</a> NYT: A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty. 
  <p class="updated_time"> 04:44 PM CT, Dec. 17 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/16/world/europe/omar-raddad-cote-dazur-dna-france.html">Judges in France Order the Reopening of an Enduring Murder Mystery</a> NYT: The conviction of Omar Raddad in the killing of a socialite in the French Riviera three decades ago will be re-examined after his lawyers presented new DNA evidence they say exonerates him. 
  <p class="updated_time"> 11:31 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/suicide-pods-switzerland.html">A 3-D Printed Pod Inflames the Assisted Suicide Debate</a> NYT: The pod, known as Sarco, was conceived as a way for people to end their lives without involving a doctor. A plan to introduce it in Switzerland has raised alarm even among right-to-die advocates. 
- <p class="updated_time"> 11:06 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/middleeast/turkish-lira-currency-erdogan-turkey.html">Turkish Currency Hits a New Low, Again</a> NYT: The Central Bank has cut interest rates, even as inflation continues to soar, deepening President Erdogan’s disputed economic plan and setting off a new plunge in the lira. 
  <p class="updated_time"> 09:56 AM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/world/europe/italy-alps-bolzano-covid-vaccination.html">In Italy’s Alps, Traditional Medicine Flourishes, as Does Covid</a> NYT: The province of Bolzano has the country’s highest level of coronavirus infection and lowest vaccination rate, as many people there prefer to rely on the pure air and herbal remedies. 
 
@@ -190,6 +190,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 PM CT, Dec. 19 </p> 
+ <a href="https://www.politico.com/news/2021/12/19/democratic-sky-high-expectations-fall-flat-525537">Dems trip over their own sky-high expectations</a> Politico: Joe Manchin's rejection of the party's social spending bill is just the latest episode in a series of lofty goals it's failed to deliver on. 
+ <p class="updated_time"> 06:01 PM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Manchin Pulls Support From Biden’s Social Policy Bill, Imperiling Its Passage</a> NYT: The West Virginia senator’s comments dealt a potentially fatal blow to the centerpiece of the president’s domestic agenda, and drew a broadside from the White House. 
  <p class="updated_time"> 05:22 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-biden-russia-ukraine-obama-2014/index.html">'A four-week window': Biden aims to learn from Obama's mistakes with quick moves to deter Putin from invading Ukraine</a> CNN: When the US intelligence community first picked up signs in the fall that Russia could be preparing a new attack on Ukraine, President Joe Biden directed his administration to act -- and fast. 
  <p class="updated_time"> 05:14 PM CT, Dec. 19 </p> 
@@ -208,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/manchin-biden-agenda-competence-campaign-promise-525623">Biden promised competence and order. Chaos and uncertainty are winning.</a> Politico: The president has had successes. But a year in, his time in office has been defined by the disruptions, including on Sunday. 
  <p class="updated_time"> 03:05 PM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065665886/manchin-says-build-back-betters-climate-measures-are-risky-thats-not-true">Manchin says Build Back Better's climate measures are risky. That's not true</a> NPR: West Virginia Sen. Joe Manchin had spent months watering down Biden's ambitious climate plans. His final objections to the bill's climate measures are misleading. 
- <p class="updated_time"> 02:32 PM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Manchin Pulls Support From Biden’s Social Policy Bill, Imperiling Its Passage</a> NYT: “I cannot vote to continue with this piece of legislation,” the centrist West Virginia senator said on “Fox News Sunday,” citing concerns about adding to the national debt. 
  <p class="updated_time"> 01:52 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/afghan-war-refugees.html">At Every Step, Afghans Coming to America Encounter Stumbling Blocks</a> NYT: U.S. officials concede that the system was unprepared. 
  <p class="updated_time"> 01:51 PM CT, Dec. 19 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/us/politics/robert-palmer-capitol-riot-sentence.html">Man Gets 5 Years on Capitol Riot Charges, Longest Sentence So Far</a> NYT: Robert Palmer hurled a fire extinguisher at police officers during some of the fiercest fighting on Jan. 6. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
- <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
- <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
  <p class="updated_time"> 02:39 PM CT, Dec. 17 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/lithium-mining-energy-climate/index.html">A rush to mine lithium in Nevada is pitting climate advocates and environmental groups against each other</a> CNN: In an ancient and now extinct supervolcano sitting in northern Nevada lies a treasure that its seekers call "white gold." 
  <p class="updated_time"> 11:22 AM CT, Dec. 17 </p> 
@@ -416,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/14/politics/white-house-scaled-back-holiday-parties/index.html">White House scales back holiday parties due to Covid concerns</a> CNN: The White House will dramatically scale back holiday party festivities this year, due to ongoing Covid-19 concerns, opting instead for smaller open house-style events. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
- <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
- <a href="https://subscriber.politicopro.com/states/new-york/city-hall/whiteboard/2021/12/14/legal-aid-sues-to-compel-state-to-reopen-rent-relief-program-9428027">Legal Aid sues to compel state to reopen rent relief program</a> Politico: The Legal Aid Society is suing to force the state to resume accepting applications to its emergency rental assistance program. Details: The organization charges in a new class-action lawsuit that the closure of the program in mid-November was unlawful and has put “pote… 
  <p class="updated_time"> 10:01 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/joe-biden-news-journal-ad-targeting-524196">How a 100-year-old newspaper became the go-to way to influence Biden</a> Politico: In the Biden era, the pages of The News Journal have become a way to reach a new audience of one. 
  <p class="updated_time"> 07:25 AM CT, Dec. 14 </p> 
