@@ -7,6 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:45 PM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/18/world/washington-senator-covid-dead-doug-eriksen.html">Washington State Senator Doug Eriksen Died After Covid Infection</a> NYT: Doug Ericksen was a Republican who helped lead opposition to Washington State’s Covid-19 emergency orders and vaccine mandates. 
+ <p class="updated_time"> 07:34 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59715941?at_medium=RSS&at_campaign=KARANGA">Leftist Gabriel Boric wins Chile presidential election</a> BBC: His far-right rival José Antonio Kast conceded defeat less than 90 minutes after polls closed on Sunday. 
+ <p class="updated_time"> 07:03 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59689710?at_medium=RSS&at_campaign=KARANGA">Algeria and a question of identity: Who counts as African?</a> BBC: North Africans love the Cup of Nation but for some, their African identity is open to question. 
+ <p class="updated_time"> 06:59 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59667645?at_medium=RSS&at_campaign=KARANGA">The world’s first octopus farm - should it go ahead?</a> BBC: The world’s first commercial octopus farm is closer to becoming reality - but scientists are up in arms. 
+ <p class="updated_time"> 06:51 PM CT, Dec. 19 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/health/omicron-vaccines-efficacy.html">Most of the World’s Vaccines Likely Won’t Prevent Infection From Omicron</a> NYT: They do seem to offer significant protection against severe illness, but the consequences of rapidly spreading infection worry many public health experts. 
+ <p class="updated_time"> 06:46 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59694246?at_medium=RSS&at_campaign=KARANGA">Covid-19: Can freebies tempt Indians to get vaccinated?</a> BBC: Some Indian states have offered unusual vaccine incentives, but experts say this may not be enough. 
  <p class="updated_time"> 06:16 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59674930?at_medium=RSS&at_campaign=KARANGA">What is the metaverse?</a> BBC: From virtual versions of ourselves to augmented reality, we break down what the metaverse is. 
  <p class="updated_time"> 06:04 PM CT, Dec. 19 </p> 
@@ -15,12 +27,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59722770?at_medium=RSS&at_campaign=KARANGA">Australia bouncy castle fall: Sixth child dies in hospital</a> BBC: Chace Harrison, 11, died in hospital three days after falling from a castle blown into the air. 
  <p class="updated_time"> 06:01 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59719323?at_medium=RSS&at_campaign=KARANGA">Myanmar: BBC investigates military's mass killings</a> BBC: Eyewitnesses and survivors say that soldiers rounded up villagers before separating the men and killing them. 
+ <p class="updated_time"> 06:00 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59651334?at_medium=RSS&at_campaign=KARANGA">The robot chefs that can cook your Christmas dinner</a> BBC: If you fancy not having to do the cooking on 25 December then a robotic chef might be the solution. 
  <p class="updated_time"> 05:52 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
- <p class="updated_time"> 05:15 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59715941?at_medium=RSS&at_campaign=KARANGA">Leftist Gabriel Boric wins Chile presidential election</a> BBC: His far-right rival José Antonio Kast conceded defeat less than 90 minutes after polls closed on Sunday. 
- <p class="updated_time"> 05:15 PM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/health/omicron-vaccines-efficacy.html">Most of the World’s Vaccines Likely Won’t Prevent Infection From Omicron</a> NYT: They do seem to offer significant protection against severe illness, but the consequences of rapidly spreading infection worry many public health experts. 
  <p class="updated_time"> 05:08 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
  <p class="updated_time"> 04:24 PM CT, Dec. 19 </p> 
@@ -35,14 +45,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59722285?at_medium=RSS&at_campaign=KARANGA">Il Divo singer Carlos Marin dies aged 53</a> BBC: The Spanish singer is remembered by other members of the group for his unique voice and spirit. 
  <p class="updated_time"> 02:05 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/europe/uk-lockdown-omicron-covid-boris-johnson.html">U.K. Weighing Lockdown Amid an Omicron Wave and Political Turmoil</a> NYT: Britain’s health secretary said on Sunday he wouldn’t rule out more restrictions before Christmas, but the prime minister would most likely face sharp pushback from his own party. 
+ <p class="updated_time"> 01:47 PM CT, Dec. 19 </p> 
+ <a href="https://www.wsj.com/articles/omicron-prompts-new-covid-19-restrictions-in-europe-11639921351">Omicron Prompts New Covid-19 Restrictions</a> WSJ: Europe set in place new restrictions in an effort to stem the spread of Omicron. In the U.S., Dr. Anthony Fauci warned that the variant is likely to strain American hospitals in the coming weeks. 
  <p class="updated_time"> 12:51 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59714272?at_medium=RSS&at_campaign=KARANGA">Covid: Christmas travel will fuel spread of Omicron, US expert warns</a> BBC: The US infectious disease expert says the Covid-19 variant will spread - even among the vaccinated. 
  <p class="updated_time"> 12:44 PM CT, Dec. 19 </p> 
  <a href="https://www.wsj.com/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003">Gabriel Boric Wins Chile's Presidency at Age 35</a> WSJ: The leftist and former student protest leader pledges to hike taxes and dismantle a private pension system in Latin America’s richest nation. 
  <p class="updated_time"> 12:37 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/lucia-hiriart-dead.html">Lucía Hiriart, Powerful Wife of Chile’s Dictator, Dies at 98</a> NYT: Her husband, Augusto Pinochet, acknowledged that she had pushed him to participate in the 1973 coup that brought him to power in 1973. 
- <p class="updated_time"> 12:11 PM CT, Dec. 19 </p> 
- <a href="https://www.wsj.com/articles/omicron-prompts-new-covid-19-restrictions-in-europe-11639921351">Omicron Prompts New Covid-19 Restrictions</a> WSJ: A lockdown in the Netherlands went into effect, while Germany said it would curb travel from the U.K. and Ireland imposed a curfew. 
  <p class="updated_time"> 12:01 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59720744?at_medium=RSS&at_campaign=KARANGA">Drakeo the Ruler dies after stabbing at LA music festival</a> BBC: The 28-year-old was stabbed during an altercation backstage at a Los Angeles music festival. 
  <p class="updated_time"> 11:59 AM CT, Dec. 19 </p> 
@@ -61,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: More than 140 people are now believed to have been killed by the storm, and rescuers are still trying to reach some devastated areas. 
  <p class="updated_time"> 09:00 AM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll surges</a> BBC: At least 169 people have died, police say, as the Red Cross issues an emergency appeal for aid. 
- <p class="updated_time"> 08:55 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/washington-senator-covid-dead-doug-eriksen.html">Washington State Senator Doug Eriksen Died After Covid Infection</a> NYT: Doug Ericksen was a Republican who helped lead opposition to Washington State’s Covid-19 emergency orders and vaccine mandates. 
  <p class="updated_time"> 08:45 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/biden-national-address-on-omicron.html">Biden to Address Nation About Omicron on Tuesday</a> NYT: The remarks are expected to detail how the United States will respond to the latest pandemic challenge. 
  <p class="updated_time"> 08:21 AM CT, Dec. 19 </p> 
@@ -137,12 +145,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59707799?at_medium=RSS&at_campaign=KARANGA">Officer who shot Daunte Wright: 'I'm sorry it happened'</a> BBC: Former Minnesota police officer Kimberly Potter sobs in court as she apologises for shooting Daunte Wright. 
  <p class="updated_time"> 06:41 PM CT, Dec. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/17/1065315661/omicron-may-be-less-severe-in-south-africa-that-may-not-be-the-case-for-the-u-s">Omicron may be less severe in South Africa. That may not be the case for the U.S.</a> NPR: Researchers in South Africa have found that people infected with omicron, on average, are less likely to end up in the hospital. But the variant may act differently here in the U.S. 
- <p class="updated_time"> 06:17 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59691176?at_medium=RSS&at_campaign=KARANGA">Afghanistan to Wisconsin: Refugees dream of home</a> BBC: Some of the 13,000 Afghan refugees living at a US military base in Wisconsin reflect on new lives. 
- <p class="updated_time"> 06:12 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59689177?at_medium=RSS&at_campaign=KARANGA">Lagos party plans threatened by Nigeria Covid passports</a> BBC: Nigeria was briefly put on the UK's travel red list but most people are indifferent to coronavirus. 
- <p class="updated_time"> 06:11 PM CT, Dec. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59674377?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine: Can a solution be found for war in Ukraine's east?</a> BBC: The West fears a Russian invasion so hopes of a peaceful solution to the conflict look slim. 
+ <p class="updated_time"> 06:07 PM CT, Dec. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59685203?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… What 2021 taught us about Covid</a> BBC: A look back at how the pandemic evolved throughout 2021, and what we've learned from it. 
  <p class="updated_time"> 04:57 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html">Why There's a Growing Push to Ban Killer Robots</a> NYT: A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty. 
  <p class="updated_time"> 04:44 PM CT, Dec. 17 </p> 
@@ -190,6 +194,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:56 PM CT, Dec. 19 </p> 
+ <a href="https://www.politico.com/news/2021/12/19/14-policies-manchin-social-spending-525681">How 14 policies could survive — or die — after Manchin’s ‘no’</a> Politico: Despite his clear opposition  to enacting President Joe Biden’s $1.7T social spending package, the West Virginia senator actually likes a slew of individual policies in the plan, giving Democrats hope for turning some of those ideas into law. 
+ <p class="updated_time"> 07:30 PM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-joe-biden-build-back-better-talks-break-down/index.html">How months of talks between Biden and Manchin over Build Back Better broke down </a> CNN: President Joe Biden was at home in Delaware Sunday when Sen. Joe Manchin appeared on Fox News to abruptly declare he could not support his sweeping social and climate plan. "I've tried everything humanly possible," the West Virginia Democrat said, appearing remotely. "I can't get there. This is a no." 
+ <p class="updated_time"> 07:09 PM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">Sens. Warren and Booker test positive for Covid-19</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
  <p class="updated_time"> 07:00 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/democratic-sky-high-expectations-fall-flat-525537">Dems trip over their own sky-high expectations</a> Politico: Joe Manchin's rejection of the party's social spending bill is just the latest episode in a series of lofty goals it's failed to deliver on. 
  <p class="updated_time"> 06:01 PM CT, Dec. 19 </p> 
@@ -202,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/afghanistan-collapse-trust-biden-trump-525640">‘Trust was gone’: Former Afghan official recounts his government’s collapse</a> Politico: Hamdullah Mohib described what he perceives to be betrayal. 
  <p class="updated_time"> 04:51 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/francis-collins-trump-political-pressure-republicans/index.html">Outgoing NIH director says Trump and other Republicans pressured him to endorse unproven Covid-19 remedies and to fire Fauci</a> CNN: The outgoing director of the National Institutes of Health said Sunday that he faced political pressure from then-President Donald Trump and other Republicans to endorse unproven Covid-19 remedies such as hydroxychloroquine and to fire Dr. Anthony Fauci, the head of NIH's National Institute of Allergy and Infectious Diseases. 
- <p class="updated_time"> 04:22 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">Sen. Warren tests positive for Covid-19</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
  <p class="updated_time"> 03:58 PM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065676445/chileans-choose-next-president-in-divisive-election">Chileans choose next president in divisive election</a> NPR: The runoff in Chile's presidential election pits a far-right candidate against a young far-left candidate. 
  <p class="updated_time"> 03:58 PM CT, Dec. 19 </p> 
@@ -314,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/18/1065470550/russia-envoy-says-moscow-might-up-the-ante-if-the-west-ignores-its-demands">Russia envoy says Moscow might up the ante if the West ignores its demands</a> NPR: Deputy Foreign Minister Sergei Ryabkov accused Western allies of continuously pushing the envelope in relations with Russia. 
  <p class="updated_time"> 08:36 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/biden-coronavirus-omicron-winter.html">Biden Struggles to Beat Back a Resurgent Virus Once Again</a> NYT: A new variant and vaccine resistance have upended the president’s plans for a hopeful holiday season. 
- <p class="updated_time"> 08:22 PM CT, Dec. 17 </p> 
- <a href="https://www.politico.com/news/2021/12/17/appeals-court-lifts-stay-vaccine-or-test-525313">Appeals court lifts stay on administration's vaccine-or-test mandate for large businesses</a> Politico: Business groups quickly filed an appeal to the Supreme Court. 
  <p class="updated_time"> 05:28 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/us/politics/january-6-committee-capitol-riot.html">Jan. 6 Committee May Add New Expertise for Investigation</a> NYT: As the panel continues to take testimony, it is looking to do more analysis of social media and possible foreign efforts to sow discord in the U.S. before the Capitol riot. 
  <p class="updated_time"> 05:17 PM CT, Dec. 17 </p> 
@@ -412,8 +418,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/democrats-cruz-hawley-biden-ambassadors-524220">Dems launch talks to break Cruz-Hawley blockade of Biden ambassadors</a> Politico: But while the price for one GOP 2024 contender's help is clear, another is less open about what it'll take to ease his holds. 
  <p class="updated_time"> 04:32 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megabill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
- <p class="updated_time"> 04:29 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/white-house-scaled-back-holiday-parties/index.html">White House scales back holiday parties due to Covid concerns</a> CNN: The White House will dramatically scale back holiday party festivities this year, due to ongoing Covid-19 concerns, opting instead for smaller open house-style events. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
  <p class="updated_time"> 10:01 AM CT, Dec. 14 </p> 
