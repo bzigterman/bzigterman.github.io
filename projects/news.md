@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:40 AM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59726191?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: World heritage site Lalibela back in government hands</a> BBC: Tigray forces have left Lalibela, a town famous for its rock-hewn churches. 
  <p class="updated_time"> 04:21 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59715941?at_medium=RSS&at_campaign=KARANGA">Leftist Gabriel Boric to become Chile's youngest ever president</a> BBC: Gabriel Boric, 35, says he will look after democracy after a convincing win over his far-right rival. 
  <p class="updated_time"> 04:16 AM CT, Dec. 20 </p> 
