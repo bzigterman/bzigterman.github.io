@@ -7,24 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:51 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/world/middleeast/egypt-human-rights-activitists-sentenced.html">Egypt Sentences 3 Human Rights Activists to Prison</a> NYT: The verdicts suggest that the government has not scaled back its crackdown on dissent, despite efforts to improve its image. 
- <p class="updated_time"> 03:50 PM CT, Dec. 20 </p> 
+ <p class="updated_time"> 04:15 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/science/webb-telescope-astronomy.html">Webb Telescope Approaches Launch, With an Eye Toward Cosmic Origins</a> NYT: The biggest space telescope in history aims to answer astronomy’s oldest question: How did we get from the Big Bang to here? 
+ <p class="updated_time"> 04:15 PM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial jurors begin deliberations</a> BBC: Jurors heard weeks of testimony in the sex-trafficking and perjury trial of Ghislaine Maxwell. 
+ <p class="updated_time"> 04:14 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/nyregion/nypd-mask-mandate.html">N.Y.P.D. officers are again told to mask up amid Omicron surge</a> NYT: Employees are required to wear face masks indoors and outdoors regardless of vaccination status. 
+ <p class="updated_time"> 04:01 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/world/europe/uk-brexit-david-frost-liz-truss.html">U.K. Foreign Secretary Inherits Thorny Issue: Northern Ireland Talks</a> NYT: Liz Truss is taking charge of Brexit talks after the surprise resignation of David Frost. If she is successful, it could give her a significant political boost. 
+ <p class="updated_time"> 04:00 PM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1066017197/with-the-loss-of-manchins-vote-bidens-climate-change-agenda-may-be-doomed">With the loss of Manchin's vote, Biden's climate change agenda may be doomed</a> NPR: Despite a year of increasing weather disasters, Biden's ambitious climate plans may be doomed in Congress. 
+ <p class="updated_time"> 04:00 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/world/middleeast/egypt-human-rights-activitists-sentenced.html">Egypt Sentences 3 Human Rights Activists to Prison</a> NYT: The verdicts suggest that the government has not scaled back its crackdown on dissent, despite efforts to improve its image. 
  <p class="updated_time"> 03:25 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066017155/finally-scientists-have-found-a-true-millipede">Finally, scientists have found a true millipede</a> NPR: Scientists have finally found a millipede that lives up to its name. Eumillipes persephone has 1,306 legs — that's more than any other animal — and is the only known millipede to exceed 1,000 legs. 
  <p class="updated_time"> 03:10 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065979944/covid-royal-caribbean-symphony-of-the-seas-cruise-ship">48 tested positive for COVID-19 on Royal Caribbean cruise ship docking in Miami</a> NPR: The seven-night cruise ended in Miami on Saturday after making three stops in the Caribbean. More than 6,000 people were on the ship, which required testing and those 12 and over to be vaccinated. 
- <p class="updated_time"> 02:50 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/world/europe/uk-brexit-david-frost-liz-truss.html">U.K. Foreign Secretary Inherits Thorny Issue: Northern Ireland Talks</a> NYT: Liz Truss is taking charge of Brexit talks after the surprise resignation of David Frost. If she is successful, it could give her a significant political boost. 
- <p class="updated_time"> 02:49 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/nyregion/nypd-mask-mandate.html">N.Y.P.D. officers are again told to mask up amid Omicron surge</a> NYT: Employees are required to wear face masks indoors and outdoors regardless of vaccination status. 
  <p class="updated_time"> 02:48 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/nyregion/nyc-omicron-de-blasio.html">NYC Mayor: City Needs to Move Faster to Fight Omicron </a> NYT: In a news conference, Bill de Blasio said the next surge would likely be large but temporary. 
  <p class="updated_time"> 02:35 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/health/covid-novavax-europe.html">Novavax’s Covid Vaccine Is Authorized in Europe</a> NYT: The vaccine will be the fifth to become available in the E.U., which already has ample supplies. 
- <p class="updated_time"> 02:29 PM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Prosecutors call Ghislaine Maxwell predator as defence claims sensationalism</a> BBC: Prosecutors said Ms Maxwell was a "sophisticated predator". Her lawyers called it "sensationalism". 
  <p class="updated_time"> 02:27 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/larry-hogan-covid.html">Larry Hogan, Governor of Maryland, Tests Positive for Covid</a> NYT: He said he is feeling fine and that the positive test result came as a result of routine testing. 
  <p class="updated_time"> 01:56 PM CT, Dec. 20 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/asia/carrie-lam-hong-kong.html">Can a ‘Very Confident’ Carrie Lam Salvage Her Legacy in Hong Kong?</a> NYT: Mrs. Lam is Hong Kong’s most unpopular leader ever, blamed for mass protests and a political crackdown. Yet she now appears reinvigorated, perhaps even ready for a second term. 
  <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59709246?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: Walking through the storm's trail of destruction</a> BBC: Watch this video that shows the extent of the devastation in Cebu City in the Philippines. 
- <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
- <a href="https://www.npr.org/2021/12/18/1065477225/activists-in-hong-kong-plan-not-to-vote-or-to-cast-blank-ballots-in-upcoming-ele">Activists in Hong Kong plan not to vote or to cast blank ballots in upcoming election</a> NPR: Hong Kong has legislative elections on Sunday, but new rules favor candidates friendly towards the Beijing government. Activists say people can protest by not voting or by casting blank ballots. 
  <p class="updated_time"> 05:04 AM CT, Dec. 18 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59710482?at_medium=RSS&at_campaign=KARANGA">France travel ban: Time-lapse shows long Eurostar queue at St Pancras</a> BBC: Travellers in St Pancras station, London, line up to get to France before it closes its borders to the UK. 
  <p class="updated_time"> 05:00 AM CT, Dec. 18 </p> 
@@ -198,6 +198,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:36 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/biden-and-manchin-speak-525788">Biden and Manchin speak</a> Politico: The two connected and there is a sense that talks around Build Back Better aren't done yet. 
+ <p class="updated_time"> 04:20 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/haitian-migrants-border-patrol-lawsuit.html">Haitian Migrants File Lawsuit Protesting Treatment by Border Patrol</a> NYT: Images of Border Patrol agents corralling Black migrants prompted criticism of the Biden administration’s response to an influx of thousands in Del Rio, Texas. 
+ <p class="updated_time"> 04:16 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/joe-manchin-democratic-party-build-back-better/index.html">Manchin says he still sees himself as a Democrat even after thwarting Build Back Better plan</a> CNN: West Virginia Sen. Joe Manchin said Monday that he still considers himself a Democrat even after he defied his party by torpedoing a key piece of President Joe Biden's domestic agenda. 
+ <p class="updated_time"> 04:13 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/january-6-rioter-sentenced-assaulting-police-officer/index.html">January 6 rioter gets nearly four years in prison for assaulting police officer</a> CNN: An Ohio man was sentenced to 46 months in jail for assaulting a police officer with a dangerous weapon in a tunnel at the US Capitol on January 6. 
+ <p class="updated_time"> 04:08 PM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1066017225/rep-brown-who-pushed-to-address-extremism-in-military-reacts-to-pentagon-report">Rep. Brown, who pushed to address extremism in military, reacts to Pentagon report</a> NPR: NPR's Ari Shapiro talks with Maryland Congressman Anthony Brown about the Defense Department's report on Monday about extremism in the military. 
+ <p class="updated_time"> 04:04 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/first-puppy-bidens-white-house/index.html">Bidens add to their family with new first puppy</a> CNN: President Joe Biden and first lady Jill Biden have added to their pet family, the first lady's spokesperson tells CNN. 
+ <p class="updated_time"> 04:00 PM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1066017197/with-the-loss-of-manchins-vote-bidens-climate-change-agenda-may-be-doomed">With the loss of Manchin's vote, Biden's climate change agenda may be doomed</a> NPR: Despite a year of increasing weather disasters, Biden's ambitious climate plans may be doomed in Congress. 
  <p class="updated_time"> 03:48 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066001919/epa-fuel-economy-standards-cars-trucks">EPA announces tighter fuel economy standards for cars and trucks</a> NPR: The EPA announced on Monday a plan that it says will yield $190 billion in net benefits by 2050. 
  <p class="updated_time"> 03:45 PM CT, Dec. 20 </p> 
@@ -208,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/20/1066017129/the-biden-administration-is-launching-a-new-phone-number-for-mental-health-crise">The Biden administration is launching a new phone number for mental health crises</a> NPR: The Biden administration is putting a quarter of a billion dollars into a new national suicide prevention line. But some say that's not enough to build the infrastructure that's needed. 
  <p class="updated_time"> 03:25 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066017107/what-the-white-house-is-doing-as-omicron-begins-to-take-off-in-the-u-s">What the White House is doing as omicron begins to take off in the U.S.</a> NPR: President Biden is expected to address the surge in omicron cases, but is his administration's response fast and sufficient enough to meet what could be the most challenging month yet in the pandemic? 
- <p class="updated_time"> 03:20 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/haitian-migrants-border-patrol-lawsuit.html">Haitian Migrants File Lawsuit Protesting Treatment by Border Patrol</a> NYT: Images of Border Patrol agents corralling Black migrants prompted criticism of the Biden administration’s response to an influx of thousands in Del Rio, Texas. 
  <p class="updated_time"> 03:15 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/build-back-better-schumer-manchin.html">Manchin Assails Efforts to Press Him on Biden’s Domestic Policy Bill</a> NYT: Senator Joe Manchin III criticized the White House staff for its handling of negotiations over the legislation, saying officials had pushed him to his “wit’s end.” 
  <p class="updated_time"> 03:10 PM CT, Dec. 20 </p> 
@@ -218,16 +228,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/us/politics/biden-agenda-ambitions.html">The Path Ahead for Biden: Overcome Manchin’s Inflation Fears</a> NYT: A key Democrat’s decision to pull support from the president’s sprawling climate and social agenda is rooted in the scope of the bill. 
  <p class="updated_time"> 03:02 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/pentagon-defines-extremist-behavior-military-extremism/index.html">Pentagon defines prohibited behavior in effort to tackle extremism</a> CNN: In an ongoing effort to tackle extremism within military ranks, the Pentagon is putting forward a clearer, sharper definition of extremist behavior, updating the older guidance that was considered too vague on what was and was not allowed. 
- <p class="updated_time"> 02:53 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/joe-manchin-offer-to-biden/index.html">Manchin's offer to Biden included universal pre-kindergarten and Obamacare expansion, but no child tax credit</a> CNN: Sen. Joe Manchin, just days before he called off negotiations with President Joe Biden, proposed a version of the Build Back Better plan centered on universal pre-kindergarten program, funded for a full 10 years, as well as an expansion of the Affordable Care Act and hundreds of billions of dollars to address climate change, a person with direct knowledge of the matter confirmed to CNN. 
+ <p class="updated_time"> 02:50 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/house-democrats-retirements-2022/index.html">'We have got a problem here': Low morale and redistricting hand Democrats a growing retirement issue</a> CNN: There is a growing sense of gloom among Democrats in the House. And every week or so, when another Democratic member of Congress announces they won't run for reelection in 2022, the mood inside the caucus worsens. 
  <p class="updated_time"> 02:40 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/republicans-navy-seal-vaccine-525773">Almost 50 Republicans back Navy SEAL lawsuit over vaccine mandate</a> Politico: The group of lawmakers, which includes nine senators and 38 representatives, is led by Sens. Ted Cruz, Jim Inhofe and Roger Marshall. 
  <p class="updated_time"> 02:25 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/alex-jones-sues-jan-6-committee-indicates-plan-to-plead-the-fifth-525770">Alex Jones sues Jan. 6 committee, indicates plan to plead the Fifth</a> Politico: In the lawsuit, Jones says he intends to assert his Fifth Amendment rights against self-incrimination. 
  <p class="updated_time"> 02:10 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/vladislav-klyushin-russian-insider-trading-extradited/index.html">Russian businessman with Kremlin ties extradited to US and charged in multi-million-dollar insider trading scheme</a> CNN: A Russian businessman was extradited to the US this weekend from Switzerland to face charges in an insider trading scheme worth tens of millions of dollars for allegedly hacking into US computer networks, the Justice Department announced on Monday. 
+ <p class="updated_time"> 02:08 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/pelosi-reaction-build-back-better/index.html">Pelosi says Democrats 'will not let this opportunity pass' on Build Back Better Act despite Manchin's stance</a> CNN: House Speaker Nancy Pelosi projected confidence Monday, vowing Democrats will not give up on passing the Build Back Better Act, despite Sen. Joe Manchin saying he will not vote for the package in its current form. 
  <p class="updated_time"> 01:26 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1065880187/democrats-still-plan-on-vote-for-the-social-spending-bill-despite-manchins-no">Democrats still plan on vote for the social spending bill, despite Manchin's 'no'</a> NPR: Senate Majority Leader Schumer said the Senate will take up the measure "very early" in the new year 
+ <a href="https://www.npr.org/2021/12/20/1065880187/democrats-still-plan-on-vote-for-the-social-spending-bill-despite-manchins-no">Democrats plan to vote on the social spending bill, despite Manchin's 'no'</a> NPR: Senate Majority Leader Schumer said the Senate will take up the measure "very early" in the new year 
  <p class="updated_time"> 01:10 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/pentagon-extremism-service-members-525762">Pentagon issues rules aimed at stopping rise of extremism</a> Politico: Officials said the new policy doesn’t largely change what is prohibited, but is more of an effort to make sure troops are clear on what they can and can’t do. 
  <p class="updated_time"> 12:58 PM CT, Dec. 20 </p> 
@@ -236,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
  <p class="updated_time"> 12:53 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/joe-biden-build-back-better-setback-explained/index.html">Biden's Build Back Better plan is on ice. Here's what that means for you</a> CNN: No more monthly payments for tens of millions of families. No universal pre-kindergarten for 3- and 4-year-olds. No health insurance for more than 2 million low-income Americans. No funneling of billions of dollars into clean energy initiatives. 
- <p class="updated_time"> 12:47 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/joe-manchin-democratic-party-build-back-better/index.html">Manchin says he still sees himself as a Democrat even after thwarting Build Back Better plan</a> CNN: West Virginia Sen. Joe Manchin said Monday that he still considers himself a Democrat even after he defied his party by torpedoing a key piece of President Joe Biden's domestic agenda. 
  <p class="updated_time"> 12:26 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/trump-ny-attorney-general-james/index.html">Trump sues NY attorney general, seeking to stop investigation into his company</a> CNN: Former President Donald Trump and the Trump Organization have sued New York Attorney General Letitia James, asking for a federal court to halt or limit her office's ongoing investigations. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
@@ -249,7 +259,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:00 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065850636/elizabeth-warren-cory-booker-larry-hogan-breakthrough-covid">Lawmakers use their breakthrough infections to push COVID-19 vaccines and boosters</a> NPR: Democratic Sens. Cory Booker and Elizabeth Warren and Maryland Gov. Larry Hogan all reported mild symptoms. All three had been vaccinated and boosted, and encouraged others to do the same. 
  <p class="updated_time"> 11:49 AM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, Murphy didn't rule out a future run for a different public role. 
+ <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, the Florida Democrat didn’t rule out a future run for a different public role. 
  <p class="updated_time"> 11:45 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/stephanie-murphy-not-running-reelection/index.html">Florida Democrat on January 6 committee announces she won't run for reelection</a> CNN: Rep. Stephanie Murphy, a Florida Democrat and a member of the House select committee investigating the January 6 US Capitol riot, announced Monday she would not run for reelection. 
  <p class="updated_time"> 11:10 AM CT, Dec. 20 </p> 
@@ -280,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/20/politics/bragg-new-york-trump/index.html">New Manhattan DA Alvin Bragg pledges to focus on Trump investigations</a> CNN: The next Manhattan district attorney, Alvin Bragg Jr., says he plans to personally focus on the high-profile probe into former President Donald Trump's business practices and may expand the investigative team while keeping at least one senior prosecutor on the case. 
  <p class="updated_time"> 06:11 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/20/the-case-for-why-bbb-is-dead-and-for-why-it-may-not-be-495522"> The case for why BBB is dead — and for why it may not be</a> Politico Playbook: And Rep. Albio Sires (D-N.J.) won’t run for reelection. 
- <p class="updated_time"> 05:44 AM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/joe-biden-joe-manchin-build-back-better-covid/index.html">Analysis: Biden suffers twin blows from Manchin and another Covid winter</a> CNN: Democratic Sen. Joe Manchin dropped the axe on his party's agenda on Sunday when he said he would not support President Joe Biden's economic and climate package just as the White House is bracing for another Covid winter that is likely to further sour the nation's mood heading into a midterm election year. 
  <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/iowa-caucuses-may-survive-after-all-525629">Dems sour on bid to ditch first-in-the-nation states</a> Politico: Party officials don’t want to project a disunified front with a stormy midterm election season ahead. 
  <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
@@ -318,12 +326,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/19/1065676438/joe-manchin-may-have-just-killed-bidens-build-back-better-plan">Joe Manchin may have just killed Biden's Build Back Better plan</a> NPR: Democratic West Virginia Senator Joe Manchin went on Fox News this morning and delivered what sounded like a fatal blow to Joe Biden's Build Back Better agenda. 
  <p class="updated_time"> 03:52 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/manchin-biden-agenda-competence-campaign-promise-525623">Biden promised competence and order. Chaos and uncertainty are winning.</a> Politico: The president has had successes. But a year in, his time in office has been defined by the disruptions, including on Sunday. 
- <p class="updated_time"> 03:05 PM CT, Dec. 19 </p> 
- <a href="https://www.npr.org/2021/12/19/1065665886/manchin-says-build-back-betters-climate-measures-are-risky-thats-not-true">Manchin says Build Back Better's climate measures are risky. That's not true</a> NPR: West Virginia Sen. Joe Manchin had spent months watering down Biden's ambitious climate plans. His final objections to the bill's climate measures are misleading. 
  <p class="updated_time"> 01:52 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/afghan-war-refugees.html">At Every Step, Afghans Coming to America Encounter Stumbling Blocks</a> NYT: U.S. officials concede that the system was unprepared. 
- <p class="updated_time"> 01:07 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/florida-politics-2022/index.html">Florida was once the perennial swing state. 2022 may prove how red it has become</a> CNN: Four years ago, Republicans and Democrats in Florida were similarly optimistic about their chances of winning the governor's mansion and a toss-up race for a US Senate seat during the 2018 midterms. The results of those races -- razor-thin victories for Republicans in both contests -- devastated Democrats but nevertheless seemed to reenforce Florida's status as a purple state. 
  <p class="updated_time"> 12:51 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/adam-kinzinger-trump-investigation-insurrection-cnntv/index.html">Kinzinger says January 6 panel is investigating Trump's involvement in insurrection</a> CNN: Republican Rep. Adam Kinzinger said Sunday the House panel investigating the January 6 Capitol insurrection is looking into whether former President Donald Trump committed a crime with his involvement in the deadly riot. 
  <p class="updated_time"> 12:49 PM CT, Dec. 19 </p> 
@@ -338,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/us/politics/us-haiti-intervention.html">As U.S. Navigates Crisis in Haiti, a Bloody History Looms Large</a> NYT: American policy decisions are vital to understanding Haiti’s political instability, and why it remains the poorest country in the Western Hemisphere. 
  <p class="updated_time"> 11:20 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/fauci-hospitals-schools-covid-525510">Fauci worried about increased hospitalizations but hopeful about schools</a> Politico: “I don’t foresee the kind of lockdowns that we’ve seen before,” he also said. 
- <p class="updated_time"> 10:44 AM CT, Dec. 19 </p> 
- <a href="https://www.npr.org/2021/12/19/1065645938/johnny-isakson-former-georgia-senator-dies-at-76">Johnny Isakson, former GOP senator known for building consensus, dies at age 76</a> NPR: The former Georgia lawmaker rose from the ranks of the state Legislature to become a U.S. senator known as an effective, behind-the-scenes force for compromise. 
  <p class="updated_time"> 10:44 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/johnny-isakson-dies-georgia-senator-525501">Former Sen. Johnny Isakson dies at 76</a> Politico: The Georgia Republican was a millionaire businessman who was known as a consensus builder. 
  <p class="updated_time"> 10:33 AM CT, Dec. 19 </p> 
@@ -404,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/biden-concedes-bbb-bill-wont-get-passed-this-year-525194">Biden concedes Build Back Better bill won’t get passed this year</a> Politico: “It takes time to finalize these agreements, prepare the legislative changes, and finish all the parliamentary and procedural steps needed to enable a Senate vote,” the president said. 
  <p class="updated_time"> 05:44 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-meadows-525172">Jan. 6 committee subpoenas author of debunked election-fraud PowerPoint sent to Meadows</a> Politico: James P. “Phil” Waldron, a retired Army colonel, is asked to provide documents by Jan. 10 and sit for a deposition. 
- <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/kamala-harris-joe-biden-2024/index.html">Harris says she has 'never discussed' reelection with Biden</a> CNN: Vice President Kamala Harris told The Wall Street Journal that she and President Joe Biden haven't talked about whether the 79-year-old will run for reelection in 2024 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/chamber-ad-manchin-build-back-better-525129">Chamber launches ads targeting Manchin, hoping to kill Build Back Better</a> Politico: The group got a huge win with the infrastructure bill. Now, they want the legislative spigot to go dry. 
  <p class="updated_time"> 01:11 PM CT, Dec. 16 </p> 
