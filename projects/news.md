@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:04 AM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Pro-Beijing candidates sweep controversial LegCo election</a> BBC: The results for the controversial poll come after the city saw its lowest ever voter turnout. 
+ <p class="updated_time"> 07:03 AM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll surges</a> BBC: The number of fatalities rises rapidly to at least 375, as the Red Cross appeals for urgent aid. 
  <p class="updated_time"> 04:40 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59726191?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: World heritage site Lalibela back in government hands</a> BBC: Tigray forces have left Lalibela, a town famous for its rock-hewn churches. 
  <p class="updated_time"> 04:21 AM CT, Dec. 20 </p> 
@@ -33,14 +37,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: More than 200 people are now believed to have been killed by the storm. 
  <p class="updated_time"> 02:44 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59720744?at_medium=RSS&at_campaign=KARANGA">Drakeo the Ruler dies after stabbing at LA music festival</a> BBC: The 28-year-old was stabbed during an altercation backstage at a Los Angeles music festival. 
- <p class="updated_time"> 02:43 AM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59717343?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Pro-Beijing candidates sweep controversial LegCo election</a> BBC: The results for the controversial poll come after the city saw its lowest ever voter turnout. 
  <p class="updated_time"> 02:41 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59722285?at_medium=RSS&at_campaign=KARANGA">Carlos Marin: Simon Cowell 'devastated' at death of Il Divo singer at 53</a> BBC: The classical group's Carlos Marin died at the age of 53 after going into hospital during a UK tour. 
  <p class="updated_time"> 02:18 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065722642/pro-beijing-candidates-sweep-hong-kong-elections">Pro-Beijing candidates sweep Hong Kong elections</a> NPR: Hong Kong leader Carrie Lam said she was "satisfied" with the election despite the 30.2% voter turnout being the lowest since the British handed Hong Kong over to China in 1997. 
  <p class="updated_time"> 01:33 AM CT, Dec. 20 </p> 
- <a href="https://www.wsj.com/articles/davos-delayed-over-omicron-uncertainty-11640003584">Davos Delayed Over Omicron Uncertainty</a> WSJ: The World Economic Forum that was scheduled to take place in the Swiss town in January is now planned for early summer, organizers said. WEF didn’t provide a new date. 
+ <a href="https://www.wsj.com/articles/davos-delayed-over-omicron-uncertainty-11640003584">Davos Postponed Over Omicron Uncertainty</a> WSJ: The World Economic Forum that was scheduled to take place in the Swiss town in January is now planned for early summer, organizers said. WEF didn’t provide a new date. 
  <p class="updated_time"> 12:45 AM CT, Dec. 20 </p> 
  <a href="https://www.wsj.com/articles/inflation-hawk-to-lead-german-bundesbank-11640000725">Inflation Hawk to Lead German Bundesbank</a> WSJ: Joachim Nagel has been appointed as Germany’s new central-bank governor, just as the ECB moves away from its ultra-easy-money policies amid a surge in eurozone inflation. 
  <p class="updated_time"> 12:30 AM CT, Dec. 20 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59722801?at_medium=RSS&at_campaign=KARANGA">Chile election: Laser shone at Gabriel Boric during victory speech</a> BBC: The bouncing green light did not seem to faze Gabriel Boric as he spoke to supporters in Santiago. 
  <p class="updated_time"> 09:01 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59714272?at_medium=RSS&at_campaign=KARANGA">Covid: Christmas travel will fuel spread of Omicron, US expert warns</a> BBC: The US infectious diseases chief says the Covid-19 variant will spread - even among the vaccinated. 
- <p class="updated_time"> 07:54 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll surges</a> BBC: At least 208 people have died, police say, as the Red Cross issues an emergency appeal for aid. 
  <p class="updated_time"> 07:45 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/washington-senator-covid-dead-doug-eriksen.html">Washington State Senator Doug Eriksen Died After Covid Infection</a> NYT: Doug Ericksen was a Republican who helped lead opposition to Washington State’s Covid-19 emergency orders and vaccine mandates. 
  <p class="updated_time"> 07:36 PM CT, Dec. 19 </p> 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:47 AM CT, Dec. 20 </p> 
+ <a href="https://www.politico.com/news/2021/12/20/moderna-booster-omicron-525723">Moderna says its booster raised antibody levels against Omicron</a> Politico: A standard 50-microgram boost raised antibody levels about 37-fold higher than pre-boost levels 29 days after the shot was administered. 
  <p class="updated_time"> 07:12 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/20/are-dems-dreams-deferred-or-dead-495523">Are Dems’ dreams deferred or dead?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Dec. 20 </p> 
@@ -274,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/19/1065636709/joe-manchin-says-he-cannot-support-bidens-build-back-better-plan">Joe Manchin says he won't support President Biden's Build Back Better plan </a> NPR: The announcement by the West Virginia Democrat dooms the $2 trillion social spending and climate legislation, which needs support from every Senate Democrat in order to pass through the 50-50 chamber. 
  <p class="updated_time"> 07:30 AM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/paul-whelan-three-years-detained-russia/index.html">Paul Whelan's family stays focused on his release as he nears 3 years in Russian detention</a> CNN: Nearly three years after her brother was detained in Moscow, Elizabeth Whelan is keeping her eye on the goal: bringing him home. 
- <p class="updated_time"> 07:24 AM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/news/2021/12/19/islam-afghanistan-desperately-poor-525420">Islamic world unites to aid desperately poor Afghanistan</a> Politico: The hastily called meeting of the Organization of Islamic Cooperation in Pakistan brought together dozens of foreign ministers. 
  <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065626381/covid-19-resurgence-trips-up-bidens-agenda">COVID-19 resurgence trips up Biden's agenda</a> NPR: President Biden, who campaigned on taming the pandemic, is struggling to deliver as COVID-19 mutates and parts of the American public refuse to cooperate. 
  <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
@@ -426,8 +426,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/14/what-the-left-doesnt-get-about-the-media-495453"> What the left doesn’t get about the media</a> Politico Playbook: And the Jan. 6 committee releases some of Mark Meadows' text messages. 
  <p class="updated_time"> 04:31 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/rural-america-biden-investments-524170">Biden’s rural investments run up against the culture wars in Wisconsin</a> Politico: Even as President Joe Biden’s agenda has promised billions to rural communities this year, Democrats are in danger of losing their last foothold in rural Wisconsin. 
- <p class="updated_time"> 07:06 AM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/12/13/debt-limit-byrd-bath-and-manchin-meetings-495441">Debt limit, Byrd bath and Manchin meetings</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
