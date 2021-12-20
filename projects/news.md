@@ -7,6 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:16 AM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1065711643/covid-is-again-raging-across-the-u-s-just-as-americans-gather-for-the-holidays">COVID is again raging across the U.S. just as Americans gather for the holidays</a> NPR: Sporting events and live theater announced cancellations amid major increases in new coronavirus cases, in large part because of the omicron variant. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/science/webb-telescope-astronomy.html">Webb Telescope Approaches Launch, With an Eye Toward Cosmic Origins</a> NYT: The biggest space telescope in history aims to answer astronomy’s oldest question: How did we get from the Big Bang to here? 
+ <p class="updated_time"> 04:00 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/world/europe/ireland-cure-folk-medicine.html">Secret Charms and 7th Sons: ‘The Cure’ Is Alive and Well in Ireland</a> NYT: Belief in the benefits of the cure, a type of folk medicine that interweaves home remedies with superstition, religion and a sprinkle of magic is still a way of life in pockets of Ireland. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/world/americas/mexico-abortion-pill-activists.html">A Plan Forms in Mexico: Help Americans Get Abortions</a> NYT: Mexican activists plan to provide women in Texas and other U.S. states with information, support — and abortion-inducing pills. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/travel/cardamom-mountains-wildlife-cambodia.html">Inside the Campaign to Save an Imperiled Cambodian Rainforest</a> NYT: Deep in the Southern Cardamom Mountains, former loggers and poachers have assumed new roles as protective rangers and ecotourism guides. Can their efforts help preserve a vast stretch of wilderness? 
+ <p class="updated_time"> 04:00 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/world/europe/1946-europe-cold-wave.html">1946: Europe Hit By Near-Zero Temperatures</a> NYT: An unseasonable cold wave in many northern parts of the continent resulted in frozen waterways and deep snow. 
  <p class="updated_time"> 03:49 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59723676?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star denies making assault claim as concerns persist</a> BBC: The Chinese tennis star says her post was misunderstood, but the WTA continues to demand an inquiry. 
  <p class="updated_time"> 03:14 AM CT, Dec. 20 </p> 
@@ -157,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html">Why There's a Growing Push to Ban Killer Robots</a> NYT: A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty. 
  <p class="updated_time"> 04:44 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html">Russia Lays Out Demands for a Sweeping New Security Deal With NATO</a> NYT: The proposal, coming as Moscow masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected. 
- <p class="updated_time"> 04:06 PM CT, Dec. 17 </p> 
- <a href="https://www.npr.org/2021/12/17/1065246985/brazil-wildfires-17-million-animals-killed">Nearly 17 million animals died in wildfires in Brazil's wetlands last year</a> NPR: The estimate comes from scientists who examined the number of carcasses they found up to 48 hours after a fire event. The rate of climate change makes such wildfires inevitable, they say. 
  <p class="updated_time"> 03:23 PM CT, Dec. 17 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html">C.D.C. Recommends Pfizer or Moderna Vaccines Over J.&J</a> NYT: A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson & Johnson’s product. 
  <p class="updated_time"> 01:19 PM CT, Dec. 17 </p> 
@@ -179,16 +189,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/17/world/australia/the-giant-who-lives-in-the-melbourne-museum.html">The Giant Who Lives in the Melbourne Museum</a> NYT: The world’s most complete triceratops skeleton ever found will go on display next year, displacing a beloved, if quirky, exhibit of taxidermy. 
  <p class="updated_time"> 08:59 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/coronavirus-omicron-variant.html">Scientists Are Racing to Gauge the Threat of Omicron</a> NYT: The variant will spread quickly through the United States, experts say. What happens after that is less certain. 
- <p class="updated_time"> 04:44 PM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html">12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</a> NYT: Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier. 
  <p class="updated_time"> 02:16 PM CT, Dec. 16 </p> 
  <a href="https://www.nytimes.com/2021/12/16/health/covid-pandemic-story.html">In 50 Words, Tell Us Your Best Pandemic Story</a> NYT: We want to hear about your Covid memories. 
- <p class="updated_time"> 11:33 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/europe/omar-raddad-cote-dazur-dna-france.html">Judges in France Order the Reopening of an Enduring Murder Mystery</a> NYT: The conviction of Omar Raddad in the killing of a socialite in the French Riviera three decades ago will be re-examined after his lawyers presented new DNA evidence they say exonerates him. 
- <p class="updated_time"> 11:31 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/europe/suicide-pods-switzerland.html">A 3-D Printed Pod Inflames the Assisted Suicide Debate</a> NYT: The pod, known as Sarco, was conceived as a way for people to end their lives without involving a doctor. A plan to introduce it in Switzerland has raised alarm even among right-to-die advocates. 
- <p class="updated_time"> 09:56 AM CT, Dec. 16 </p> 
- <a href="https://www.nytimes.com/2021/12/16/world/europe/italy-alps-bolzano-covid-vaccination.html">In Italy’s Alps, Traditional Medicine Flourishes, as Does Covid</a> NYT: The province of Bolzano has the country’s highest level of coronavirus infection and lowest vaccination rate, as many people there prefer to rely on the pure air and herbal remedies. 
 
 
 </details>
@@ -196,10 +198,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:06 AM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">3 Democratic lawmakers announce positive Covid-19 tests</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
+ <p class="updated_time"> 04:03 AM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/democrats-manchin-climate-build-back-better/index.html">'I'm kind of speechless': Democrats scramble to salvage climate provisions after Manchin sinks Build Back Better</a> CNN: With Sen. Joe Manchin confirming he's a "no" on President Joe Biden's social spending package, the fate of the bill's $550 bill worth of climate and energy provisions -- and the President's climate agenda -- are now on the line. 
  <p class="updated_time"> 02:00 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/amtrak-expansion-funding-infrastructure-bill.html">Billions in Amtrak Funding Could Modernize Aging Rail System</a> NYT: The $1 trillion infrastructure bill that President Biden signed into law includes money that Amtrak hopes can fix crumbling bridges and tunnels along the Northeast Corridor. 
- <p class="updated_time"> 09:50 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/elizabeth-warren-covid-positive/index.html">3 Democratic lawmakers announce positive Covid-19 tests</a> CNN: Sen. Elizabeth Warren has tested positive for the coronavirus, according to a tweet Sunday from her official account. 
+ <p class="updated_time"> 11:13 PM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/joe-biden-joe-manchin-build-back-better-covid/index.html">Biden suffers twin blows from Manchin and another Covid winter</a> CNN: Democratic Sen. Joe Manchin dropped the axe on his party's agenda on Sunday when he said he would not support President Joe Biden's economic and climate package just as the White House is bracing for another Covid winter that is likely to further sour the nation's mood heading into a midterm election year. 
  <p class="updated_time"> 08:01 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-biden-russia-ukraine-obama-2014/index.html">'A four-week window': Biden aims to learn from Obama's mistakes with quick moves to deter Putin from invading Ukraine</a> CNN: When the US intelligence community first picked up signs in the fall that Russia could be preparing a new attack on Ukraine, President Joe Biden directed his administration to act -- and fast. 
  <p class="updated_time"> 07:59 PM CT, Dec. 19 </p> 
@@ -384,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/16/politics/justice-department-federal-vaccine-mandate-supreme-court/index.html">DOJ asks Supreme Court to reinstate federal vaccine mandate for certain health care workers nationwide</a> CNN: The Department of Justice asked the Supreme Court on Thursday to allow a vaccine mandate aimed at federal health care workers to go into effect nationwide, marking the first time the justices have been asked to weigh in on a federal mandate the Biden administration put in place in order to get more Americans vaccinated amid a surge of the Delta and Omicron coronavirus variants. 
  <p class="updated_time"> 05:44 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/jan-6-meadows-525172">Jan. 6 committee subpoenas author of debunked election-fraud PowerPoint sent to Meadows</a> Politico: James P. “Phil” Waldron, a retired Army colonel, is asked to provide documents by Jan. 10 and sit for a deposition. 
- <p class="updated_time"> 05:30 PM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/joe-biden-warning-winter/index.html">Biden warns of winter of 'severe illness and death' for unvaccinated due to Omicron </a> CNN: President Joe Biden said on Thursday warned people who are not vaccinated against Covid-19 are looking at a very bleak and dangerous winter if they do not get their shots soon. 
  <p class="updated_time"> 04:34 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/cdc-covid-vaccine-johnson-525153">CDC recommends mRNA Covid vaccines over J&J shot amid blood clot risks</a> Politico: CDC Director Rochelle Walensky's decision came hours after the agency’s vaccine advisory committee voted unanimously to update the recommendation. 
  <p class="updated_time"> 03:55 PM CT, Dec. 16 </p> 
@@ -396,8 +400,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/crackdown-on-chinas-treatment-of-muslim-minority-headed-to-bidens-desk-525094">Crackdown on China's treatment of Muslim minority headed to Biden's desk</a> Politico: The legislation, which faced a bumpy road to passage, effectively bans all imports from China’s Xinjiang region. 
  <p class="updated_time"> 12:42 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/democrats-agenda-social-spending-bill-525103">Senate that ‘sucks’ gets a dose of reality from Biden</a> Politico: Democrats wanted to hear from the president on how to move forward. He acknowledged on Thursday that his domestic spending vision has to wait. 
- <p class="updated_time"> 09:31 AM CT, Dec. 16 </p> 
- <a href="https://www.cnn.com/2021/12/16/politics/jill-biden-showing-up/index.html">Jill Biden says administration will keep 'showing up' to help communities heal from tragedies</a> CNN: First lady Jill Biden wants the American people to know that the first family is there for them. 
  <p class="updated_time"> 07:22 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/16/will-democrats-get-coal-instead-of-passed-bills-in-their-stockings-495491">Will Democrats get coal instead of passed bills in their stockings?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Dec. 16 </p> 
