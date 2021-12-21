@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:51 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: France and Italy Crack Down on Vaccine-Related Fraud</a> NYT: The N.H.L. pauses its season because of Omicron. President Biden is to announce new steps to quell the latest outbreak, including buying 500 million tests to distribute free to the public. 
  <p class="updated_time"> 09:39 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/12/21/1062836171/editors-pick-11-hidden-gems-on-our-global-health-blog-in-2021">Editors' pick: 11 hidden gems on our global health blog in 2021</a> NPR: Want to hear the former president of Zambia sing about public health? Find out what to do if you lose a sheep in Senegal? Use solar power to iron garments? Give these stories a read! 
- <p class="updated_time"> 09:38 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: E.U. Will Require Boosters for Vaccine Travel Passes to Remain Valid</a> NYT: The N.H.L. pauses its season because of Omicron. President Biden announces new steps to quell the latest outbreak, including buying 500 million tests to distribute to the public for free. 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/12/21/1062836171/editors-pick-11-hidden-gems-on-our-global-health-blog-in-2021">Editors' pick: 11 hidden gems on our global health blog in 2021</a> NPR: Want to hear the former president of Zambia sing about public health? Find out what to do if you lose a sheep in Senegal? Use solar power to iron garments? Give these stories a read. 
  <p class="updated_time"> 09:12 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/travel/cardamom-mountains-wildlife-cambodia.html">Inside the Campaign to Save an Imperiled Cambodian Rainforest</a> NYT: Deep in the Southern Cardamom Mountains, former loggers and poachers have assumed new roles as protective rangers and ecotourism guides. Can their efforts help preserve a vast stretch of wilderness? 
  <p class="updated_time"> 08:50 AM CT, Dec. 21 </p> 
@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:43 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/business/economy/kellogg-union-strike-contract.html">Kellogg Workers Ratify Contract After Being on Strike Since October</a> NYT: Union members had rejected an earlier proposal in early December, prolonging a strike by about 1,400 workers at four cereal plants. 
+ <p class="updated_time"> 09:38 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/well/family/child-tax-credit-manchin.html">How Families Used the Child Tax Credit</a> NYT: The monthly payments of up to $300 per child put food on the table, paid bills and even went toward the occasional splurge. 
  <p class="updated_time"> 09:37 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/omicron-covid-biden.html">To Fight Omicron, Biden Plans Aid From Military and 500 Million Tests</a> NYT: The president is set to unveil his initiatives, which also include creating new federal testing sites and deploying federal vaccinators, in a speech on Tuesday. 
  <p class="updated_time"> 09:34 AM CT, Dec. 21 </p> 
@@ -321,8 +325,6 @@ permalink: /projects/news/
  <p class="updated_time"> 03:25 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066017107/what-the-white-house-is-doing-as-omicron-begins-to-take-off-in-the-u-s">What the White House is doing as omicron begins to take off in the U.S.</a> NPR: President Biden is expected to address the surge in omicron cases, but is his administration's response fast and sufficient enough to meet what could be the most challenging month yet in the pandemic? 
  <p class="updated_time"> 03:10 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Joe Manchin Says He Can't Support Build Back Better Act</a> NYT: The West Virginia senator’s comments dealt a potentially fatal blow to the centerpiece of the president’s domestic agenda, and drew a broadside from the White House. 
- <p class="updated_time"> 03:10 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/biden-agenda-ambitions.html">The Path Ahead for Biden: Overcome Manchin’s Inflation Fears</a> NYT: A key Democrat’s decision to pull support from the president’s sprawling climate and social agenda is rooted in the scope of the bill. 
  <p class="updated_time"> 02:40 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/republicans-navy-seal-vaccine-525773">Almost 50 Republicans back Navy SEAL lawsuit over vaccine mandate</a> Politico: The group of lawmakers, which includes nine senators and 38 representatives, is led by Sens. Ted Cruz, Jim Inhofe and Roger Marshall. 
@@ -376,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/19/scoop-manchin-refused-a-call-from-wh-before-killing-bbb-495521"> SCOOP: Manchin ‘refused’ a call from W.H. before killing BBB</a> Politico Playbook: And the latest coronavirus variant raises the alarm across the world. 
  <p class="updated_time"> 11:55 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/kinzinger-mccarthy-mcconnell-trump-525531">Kinzinger on McCarthy: ‘I don’t think history books are going to be kind to him’</a> Politico: The Illinois Republican contrasted Kevin McCarthy with Mitch McConnell. 
- <p class="updated_time"> 11:32 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/us/politics/us-haiti-intervention.html">As U.S. Navigates Crisis in Haiti, a Bloody History Looms Large</a> NYT: American policy decisions are vital to understanding Haiti’s political instability, and why it remains the poorest country in the Western Hemisphere. 
  <p class="updated_time"> 11:20 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/fauci-hospitals-schools-covid-525510">Fauci worried about increased hospitalizations but hopeful about schools</a> Politico: “I don’t foresee the kind of lockdowns that we’ve seen before,” he also said. 
  <p class="updated_time"> 10:44 AM CT, Dec. 19 </p> 
