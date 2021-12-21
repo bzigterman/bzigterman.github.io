@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:32 PM CT, Dec. 21 </p> 
+ <p class="updated_time"> 04:00 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans, and military medical personnel are being prepared to help overwhelmed U.S. hospitals. Germany, Sweden and Scotland tightened restrictions. 
+ <p class="updated_time"> 03:49 PM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066493372/the-mysterious-death-of-a-human-rights-lawyer-during-political-turmoil-in-ethiop">The mysterious death of a human rights lawyer during political turmoil in Ethiopia</a> NPR: Ethiopia prime minister Abiy Ahmed is waging war against Tigrayans in the north and stamping out dissent among ethnic Oromos in the south. 
  <p class="updated_time"> 03:11 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/africa/mauritius-oil-spill.html">2 Ship Officers Plead Guilty to Light Charges in Mauritius Oil Spill</a> NYT: The leak was an environmental calamity for the Indian Ocean nation, which relies on its beaches and lagoons for tourism and fishing. 
  <p class="updated_time"> 03:10 PM CT, Dec. 21 </p> 
@@ -54,7 +56,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:34 AM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/as-omicron-takes-over-in-the-u-s-more-curbs-world-wide-11640091714">Biden Is Considering Lifting Travel Ban on Southern African Countries</a> WSJ: The president imposed the ban last month as a way to slow the spread of the Omicron variant to the U.S., ‘but we’re past that now,’ he said Tuesday. 
  <p class="updated_time"> 10:31 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/covid-19-pandemic-drives-u-s-population-growth-to-record-low-11640098763">Covid-19 Pandemic Drives U.S. Population Growth to Record Low</a> WSJ: America’s population grew by just 0.1% for the 12 months ended July 1, according to Census Bureau figures released Tuesday that show how the pandemic is changing the country’s demographic contours. 
+ <a href="https://www.wsj.com/articles/covid-19-pandemic-drives-u-s-population-growth-to-record-low-11640098763">Covid-19 Drives U.S. Population Growth to Record Low</a> WSJ: America’s population grew by just 0.1% for the 12 months ended July 1, according to Census Bureau figures released Tuesday that show how the pandemic is changing the country’s demographic contours. 
  <p class="updated_time"> 10:25 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59740324?at_medium=RSS&at_campaign=KARANGA">Kosovo agrees to rent prison cells to Denmark to ease overcrowding</a> BBC: Denmark is due to pay €210m (£179m) over the next 10 years to rent 300 cells in the jail at Gjilan. 
  <p class="updated_time"> 10:21 AM CT, Dec. 21 </p> 
@@ -86,7 +88,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/style/banker-comedian-shaun-eli-breidbart.html">A Wall Street Banker Turned to Comedy for Happiness and a Career Change</a> NYT: Shaun Eli Breidbart was a banker on Wall Street for 19 years but he gave up a lucrative career in favor of happiness. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066167265/biden-to-announce-free-covid-tests-more-aid-for-hospitals-to-deal-with-omicron">Biden announces free COVID tests, aid for hospitals to deal with omicron </a> NPR: The U.S. government will buy a half-billion at-home COVID test kits and mail them to people who want them, with deliveries beginning in January. 
+ <a href="https://www.npr.org/2021/12/21/1066167265/biden-to-announce-free-covid-tests-more-aid-for-hospitals-to-deal-with-omicron">Biden announces free tests and defends the White House response as COVID cases surge</a> NPR: The U.S. government will buy a half-billion at-home COVID test kits and mail them to people who want them, with deliveries beginning in January. 
  <p class="updated_time"> 02:06 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066166281/new-wave-of-syrian-migrants-fleeing-post-war-misery">New waves of Syrian migrants are fleeing postwar misery</a> NPR: While the numbers are far below the levels during the height of the civil war, the number of Syrians applying for asylum in the EU increased 70% over last year. 
  <p class="updated_time"> 01:33 AM CT, Dec. 21 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59699556?at_medium=RSS&at_campaign=KARANGA">Tortured to death: Myanmar mass killings revealed</a> BBC: A BBC investigation finds evidence Myanmar's military killed 40 villagers in July, torturing some to death. 
  <p class="updated_time"> 02:52 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: More than 200 people are now believed to have been killed by the storm. 
- <p class="updated_time"> 02:18 AM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1065722642/pro-beijing-candidates-sweep-hong-kong-elections">Pro-Beijing candidates sweep Hong Kong elections</a> NPR: Hong Kong leader Carrie Lam said she was "satisfied" with the election despite the 30.2% voter turnout being the lowest since the British handed Hong Kong over to China in 1997. 
  <p class="updated_time"> 11:41 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
  <p class="updated_time"> 10:36 PM CT, Dec. 19 </p> 
@@ -204,6 +204,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:06 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/biden-reverses-prison-525884">Biden Justice Department reverses on returning federal convicts on home detention to prison</a> Politico: Prisoners who have been on home confinement during pandemic won't have to return to prison. 
+ <p class="updated_time"> 03:56 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/robert-lemke-capitol-riot.html">Robert Lemke Sentenced to 3 Years Over Threats to Journalists and Politicians</a> NYT: The same day that Trump supporters stormed the Capitol, Robert Lemke told a congressman’s brother that he was with “armed members near your home,” prosecutors said. 
+ <p class="updated_time"> 03:54 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/scott-perry-january-6-committee.html">Republican House Member Refuses to Meet With Jan. 6 Committee</a> NYT: Representative Scott Perry of Pennsylvania, who worked with Donald Trump in an effort to overturn the election results last year, called the panel illegitimate. 
+ <p class="updated_time"> 03:49 PM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066493372/the-mysterious-death-of-a-human-rights-lawyer-during-political-turmoil-in-ethiop">The mysterious death of a human rights lawyer during political turmoil in Ethiopia</a> NPR: Ethiopia prime minister Abiy Ahmed is waging war against Tigrayans in the north and stamping out dissent among ethnic Oromos in the south. 
+ <p class="updated_time"> 03:47 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/john-thune-senate-retirement.html">John Thune, a Likely Successor to Mitch McConnell, Weighs Retirement</a> NYT: Mr. Thune, the No. 2 Republican in the Senate, is considering giving up his South Dakota seat because of both family concerns and Donald Trump’s enduring hold on the G.O.P. 
  <p class="updated_time"> 03:42 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/student-loan-relief-omicron-covid-525870">Education Department considers extending student loan relief amid Omicron surge</a> Politico: “Later this week, we will be announcing whether to extend the pause further,” an Education Department spokesperson said in a statement to POLITICO. 
  <p class="updated_time"> 03:28 PM CT, Dec. 21 </p> 
@@ -214,6 +222,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/21/politics/biden-build-back-better-manchin/index.html">Biden insists he and Manchin will 'get something done' after Build Back Better setback</a> CNN: President Joe Biden on Tuesday insisted that he and Democratic Sen. Joe Manchin will "get something done" on the Build Back Better Act after Manchin defied his party by torpedoing the key piece of Biden's domestic agenda. 
  <p class="updated_time"> 03:15 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/cyber-attack-commission.html">Designed to Prepare for Cyberattacks, a Panel Wraps Up Its Work</a> NYT: Some of the Cyberspace Solarium Commission’s work remains unfinished as lawmakers wrestle with how to oversee security of cloud computing providers and other issues. 
+ <p class="updated_time"> 03:07 PM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/somaliland-china-taiwan-congress-525842">On the Horn of Africa, a tiny 'country' has Congress' ear</a> Politico: Somaliland's delegation swept through Washington, promising to support Taiwan and ditch China. All it wants is a little recognition. 
  <p class="updated_time"> 03:03 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066480824/justice-department-reverse-prisoners-early-release-pandemic">Prisoners sent to home confinement because of the pandemic might remain free</a> NPR: In a rare reversal, the Justice Department said the prison system has discretion to allow people released to home confinement during the pandemic to remain free. 
  <p class="updated_time"> 03:02 PM CT, Dec. 21 </p> 
@@ -231,9 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:31 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Big Tech to ‘Mitigate Harm’ of Suicide Site and Seek Justice Inquiry</a> NYT: A House committee sought briefings from search engines whose services might have been leveraged by the site, which has been linked to numerous deaths. Seven House members asked the Justice Department about avenues for investigation. 
  <p class="updated_time"> 02:07 PM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/gop-state-officials-prepare-new-wave-of-voting-restrictions/index.html">State legislators gear up to pass a 'tidal wave' of voting restrictions ahead of crucial 2022 midterms</a> CNN: The push to impose voting restrictions at the state level is poised to continue next year as Republicans drive forward with an array of new proposals -- ranging from legislation that would eliminate ballot drop boxes to bills that would establish new ID requirements to vote. 
- <p class="updated_time"> 01:35 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/robert-lemke-capitol-riot.html">Robert Lemke Sentenced to 3 Years Over Threats to Journalists and Politicians</a> NYT: The same day that Trump supporters stormed the Capitol, Robert Lemke told a congressman’s brother that he was with “armed members near your home,” prosecutors said. 
+ <a href="https://www.cnn.com/2021/12/21/politics/gop-state-officials-prepare-new-wave-of-voting-restrictions/index.html">GOP proposals at the state level would nix ballot boxes and create new voting ID requirements</a> CNN: The push to impose voting restrictions at the state level is poised to continue next year as Republicans drive forward with an array of new proposals -- ranging from legislation that would eliminate ballot drop boxes to bills that would establish new ID requirements to vote. 
  <p class="updated_time"> 01:30 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/democrats-tax-plans-525855">Tax hikes still on the table as Dems scramble to save spending bill</a> Politico: Sen. Joe Manchin continues to cast a skeptical eye at what many Democrats believe to be a centerpiece of their agenda — the more generous version of the Child Tax Credit. 
  <p class="updated_time"> 01:24 PM CT, Dec. 21 </p> 
@@ -290,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/21/politics/republican-midterm-candidates-2020-election-lies/index.html">Republican candidates across the country refuse to acknowledge Biden won legitimately</a> CNN: Five Republican candidates for governor of Minnesota were asked at a forum last Wednesday whether they thought President Joe Biden won a "constitutional majority in the Electoral College." None of them was willing to utter a plain "yes." 
  <p class="updated_time"> 05:00 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/biden-omicron-testing-hospitals-525811">Biden expanding testing and reinforcing hospitals in face of Omicron</a> Politico: The initiatives come as Omicron blankets the U.S. and amount to a redeployment of emergency defenses seen last year. 
- <p class="updated_time"> 04:31 AM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/dnc-state-parties-525765">DNC data rift deepens after state parties balk</a> Politico: The Democratic National Committee and the early-nominating states are squabbling over how much to charge presidential candidates for valuable voter files. 
  <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/recovery-lab-hackathon-states-managing-covid-524852">Policy Hackathon: What states have learned — the hard way — about managing Covid</a> Politico: We asked states who topped POLITICO’s pandemic scorecard to compare notes on balancing Covid’s deadly trade-offs. Here’s what they said. 
  <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
@@ -311,13 +317,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1065337316/south-portland-mayor-somali-american">Deqa Dhalac is the first Somali-American mayor in the United States</a> NPR: After fleeing Somalia some 30 years ago, Dhalac became this country's first Somali-American mayor earlier this month, elected in a city that's 90% white. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066167265/biden-to-announce-free-covid-tests-more-aid-for-hospitals-to-deal-with-omicron">Biden announces free COVID tests, aid for hospitals to deal with omicron </a> NPR: The U.S. government will buy a half-billion at-home COVID test kits and mail them to people who want them, with deliveries beginning in January. 
- <p class="updated_time"> 12:15 AM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/california-redistricting-midterms-525815">California’s new congressional map boosts Democrats</a> Politico: The final maps were approved late Monday by the state’s independent redistricting commission. 
+ <a href="https://www.npr.org/2021/12/21/1066167265/biden-to-announce-free-covid-tests-more-aid-for-hospitals-to-deal-with-omicron">Biden announces free tests and defends the White House response as COVID cases surge</a> NPR: The U.S. government will buy a half-billion at-home COVID test kits and mail them to people who want them, with deliveries beginning in January. 
  <p class="updated_time"> 11:01 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/joe-manchin-joe-biden-relationship/index.html">Biden's relationship with Manchin hits a low point, even as they clear the air</a> CNN: After months of careful cultivation -- and even a nickname -- the most important relationship in Washington is narrowly weathering its stormiest moment to date. 
- <p class="updated_time"> 09:51 PM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/ghislaine-maxwell-jury-deliberations-525813">Ghislaine Maxwell jury begins deliberations</a> Politico: The case has brought renewed attention to the Jeffrey Epstein scandals. 
  <p class="updated_time"> 09:16 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/biden-covid-exposure.html">Biden Was in Close Contact With Official Who Tested Positive for Covid</a> NYT: Administration officials acknowledge that as the highly contagious Omicron variant has surged, a cluster of cases have been reported across the administration. 
  <p class="updated_time"> 08:52 PM CT, Dec. 20 </p> 
@@ -338,16 +340,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 06:51 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/omicron-dominant-covid-strain-cdc-525801">Omicron now the dominant Covid strain in U.S., CDC says</a> Politico: The White House has urged vaccinations and booster shots to combat the new variant. 
- <p class="updated_time"> 06:48 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/build-back-better-schumer-manchin.html">Biden Tries to Salvage Domestic Policy Bill After Rift With Manchin</a> NYT: Senator Joe Manchin III criticized the White House staff for its handling of negotiations over the legislation, saying officials had pushed him to his “wit’s end.” 
  <p class="updated_time"> 06:39 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066106160/white-house-staffer-on-air-force-one-tests-positive-for-covid-biden-tests-negati">White House staffer on Air Force One tests positive for COVID. Biden tests negative</a> NPR: A staffer who on Friday flew aboard Air Force One with the president tested positive for the coronavirus on Monday, the White House said. 
  <p class="updated_time"> 06:36 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/jan-6-committee-trump-criminal-referral.html">Jan. 6 Committee Weighs Possibility of Criminal Referrals</a> NYT: The House panel is examining whether there is enough evidence to recommend that the Justice Department pursue cases against Donald J. Trump and others. 
  <p class="updated_time"> 05:19 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066060178/alex-jones-infowars-trump-conspiracy-theorist-jan-6-committee-capitol-perry">As Jan. 6 panel seeks cooperation from Rep. Scott Perry, he says no </a> NPR: Perry said Tuesday that he's declining the request. He is the first sitting lawmaker that the panel has sought to question from regarding the Jan. 6 Capitol insurrection. 
- <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/climate/tailpipe-rules-climate-biden.html">E.P.A. Announces Tightest-Ever Auto Pollution Rules</a> NYT: Under the new plan, designed to reduce planet-warming tailpipe emissions, new vehicles would be required to average 55 miles per gallon starting in 2026. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
  <p class="updated_time"> 04:41 PM CT, Dec. 20 </p> 
@@ -356,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/biden-and-manchin-speak-525788">Biden and Manchin speak</a> Politico: The two connected and there is a sense that talks around Build Back Better aren't done yet. 
  <p class="updated_time"> 04:25 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/joe-manchin-democratic-party-build-back-better/index.html">Manchin says he still sees himself as a Democrat even after thwarting Build Back Better plan</a> CNN: West Virginia Sen. Joe Manchin said Monday that he still considers himself a Democrat even after he defied his party by torpedoing a key piece of President Joe Biden's domestic agenda. 
- <p class="updated_time"> 04:08 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1066017225/rep-brown-who-pushed-to-address-extremism-in-military-reacts-to-pentagon-report">Rep. Brown, who pushed to address extremism in military, reacts to Pentagon report</a> NPR: NPR's Ari Shapiro talks with Maryland Congressman Anthony Brown about the Defense Department's report on Monday about extremism in the military. 
  <p class="updated_time"> 03:38 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/alex-jones-january-6-lawsuit/index.html">Alex Jones sues House January 6 committee</a> CNN: Conspiracy theorist and right-wing provocateur Alex Jones says he will not comply with demands the House Select Committee investigating January 6 has made for his testimony and records, according to a new lawsuit he filed on Monday. 
  <p class="updated_time"> 02:40 PM CT, Dec. 20 </p> 
@@ -396,6 +392,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/kinzinger-mccarthy-mcconnell-trump-525531">Kinzinger on McCarthy: ‘I don’t think history books are going to be kind to him’</a> Politico: The Illinois Republican contrasted Kevin McCarthy with Mitch McConnell. 
  <p class="updated_time"> 10:44 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/johnny-isakson-dies-georgia-senator-525501">Former Sen. Johnny Isakson dies at 76</a> Politico: The Georgia Republican was a millionaire businessman who was known as a consensus builder. 
+ <p class="updated_time"> 10:33 AM CT, Dec. 19 </p> 
+ <a href="https://www.politico.com/news/2021/12/19/fauci-safe-travel-covid-prudent-525485">Fauci: Safe holiday travel is possible if people are ‘prudent’</a> Politico: He reiterated that those who are vaccinated and boosted are apt to be safest. 
  <p class="updated_time"> 09:17 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">White House lights up Manchin after he crushes Biden's megabill</a> Politico: The West Wing accused Manchin of "a breach of his commitments to the president and the senator’s colleagues in the House and Senate," in a blistering statement Sunday. 
  <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
@@ -434,6 +432,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/16/will-democrats-get-coal-instead-of-passed-bills-in-their-stockings-495491">Will Democrats get coal instead of passed bills in their stockings?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/16/manchinemas-christmas-present-to-dems-a-blunt-reality-check-495489"> Manchinema’s Christmas present to Dems: A blunt reality check</a> Politico Playbook: And Kevin McCarthy faces pressure to punish Liz Cheney and Adam Kinzinger. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
+ <a href="https://www.politico.com/news/2021/12/16/jan-6-gohmert-lawsuit-pence-524839">The Jan. 6 puzzle piece that's going largely ignored</a> Politico: Rep. Louie Gohmert  sued then-Vice President Mike Pence on Dec. 27. Donald Trump’s involvement in the case remains unclear. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/build-back-better-progressives-power-524783">‘Know when to hold and know when to fold’: Progressives accept limits of their power</a> Politico: House liberals dug in hard this year on social spending. Whatever Sen. Joe Manchin (D-W.Va.) does, they're ready to declare a win. 
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
