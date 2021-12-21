@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:22 PM CT, Dec. 21 </p> 
+ <p class="updated_time"> 04:29 PM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066493427/blinken-talked-about-china-and-the-iran-nuclear-deal-at-end-of-year-news-confere">Blinken talked about China and the Iran nuclear deal at end of year news conference</a> NPR: Secretary of State Antony Blinken gave a news conference wrapping up his year, addressing questions about America's credibility after the pullout from Afghanistan. 
+ <p class="updated_time"> 04:27 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans, and military medical personnel are being prepared to help overwhelmed U.S. hospitals. Germany, Sweden and Scotland tightened restrictions. 
  <p class="updated_time"> 04:11 PM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066493393/an-water-diversion-project-that-china-is-funding-in-thailand-is-raising-eyebrows">An water diversion project that China is funding in Thailand is raising eyebrows</a> NPR: Plans for a new water diversion project in Thailand are alarming environmentalists. And a Chinese state-owned firm offered to finance it, raising flags with those who fear China's growing influence. 
+ <a href="https://www.npr.org/2021/12/21/1066493393/a-water-diversion-project-that-china-is-funding-in-thailand-is-raising-eyebrows">A water diversion project that China is funding in Thailand is raising eyebrows</a> NPR: Plans for a new water diversion project in Thailand are alarming environmentalists. And a Chinese state-owned firm offered to finance it, raising flags with those who fear China's growing influence. 
  <p class="updated_time"> 03:49 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493372/the-mysterious-death-of-a-human-rights-lawyer-during-political-turmoil-in-ethiop">The mysterious death of a human rights lawyer during political turmoil in Ethiopia</a> NPR: Ethiopia prime minister Abiy Ahmed is waging war against Tigrayans in the north and stamping out dissent among ethnic Oromos in the south. 
  <p class="updated_time"> 03:45 PM CT, Dec. 21 </p> 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59728144?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Bruce Springsteen's back catalogue - who bought it?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 07:27 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/middleeast/israel-us-travel-covid.html">Israel Bars Travel to U.S. or Canada as Omicron Surges</a> NYT: The countries were added to Israel’s rapidly growing “red list” as Prime Minister Naftali Bennett’s government tries to slow Omicron’s spread. 
- <p class="updated_time"> 04:16 AM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1065711643/covid-is-again-raging-across-the-u-s-just-as-americans-gather-for-the-holidays">COVID is again raging across the U.S. just as Americans gather for the holidays</a> NPR: Sporting events and live theater announced cancellations amid major increases in new coronavirus cases, in large part because of the omicron variant. 
  <p class="updated_time"> 04:00 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/americas/mexico-abortion-pill-activists.html">A Plan Forms in Mexico: Help Americans Get Abortions</a> NYT: Mexican activists plan to provide women in Texas and other U.S. states with information, support — and abortion-inducing pills. 
  <p class="updated_time"> 04:00 AM CT, Dec. 20 </p> 
@@ -206,16 +206,22 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:09 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/us-russia-ukraine-smuggling-claims-525925">U.S. denies Russian claims on Ukraine as rhetoric heats up</a> Politico: Russia's defense minister claimed the U.S. has been smuggling chemicals into eastern Ukraine. 
+ <p class="updated_time"> 04:34 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/biden-build-back-better-manchin/index.html">Biden insists he and Manchin will 'get something done' after Build Back Better setback</a> CNN: President Joe Biden on Tuesday insisted that he and Democratic Sen. Joe Manchin will "get something done" on the Build Back Better Act after Manchin defied his party by torpedoing the key piece of Biden's domestic agenda. 
+ <p class="updated_time"> 04:32 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/scott-perry-january-6-committee.html">Republican House Member Refuses to Meet With Jan. 6 Committee</a> NYT: Representative Scott Perry of Pennsylvania, who worked with Donald Trump in an effort to overturn the election results last year, called the panel illegitimate. 
+ <p class="updated_time"> 04:29 PM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066493427/blinken-talked-about-china-and-the-iran-nuclear-deal-at-end-of-year-news-confere">Blinken talked about China and the Iran nuclear deal at end of year news conference</a> NPR: Secretary of State Antony Blinken gave a news conference wrapping up his year, addressing questions about America's credibility after the pullout from Afghanistan. 
+ <p class="updated_time"> 04:29 PM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066493407/president-biden-addressed-growing-concerns-about-the-omicron-variant-in-speech">President Biden addressed growing concerns about the omicron variant in speech</a> NPR: President Biden is laying out his next steps for taking on the omicron variant, including giving out more at-home tests and sending support teams to overwhelmed hospitals. 
  <p class="updated_time"> 04:22 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/john-thune-senate-retirement.html">John Thune, a Likely Successor to Mitch McConnell, Weighs Retirement</a> NYT: Mr. Thune, the No. 2 Republican in the Senate, is considering giving up his South Dakota seat because of both family concerns and Donald Trump’s enduring hold on the G.O.P. 
  <p class="updated_time"> 04:12 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/phil-waldron-jan-6.html">Phil Waldron's Unlikely Role in Pushing Baseless Election Claims</a> NYT: Phil Waldron, who owns a bar in Texas, is a case study in how pro-Trump fringe players managed to get a hearing for conspiracy theories at the highest level during the presidential transition. 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/phil-waldron-jan-6.html">A Retired Colonel’s Unlikely Role in Pushing Baseless Election Claims</a> NYT: Phil Waldron, who owns a bar in Texas, is a case study in how pro-Trump fringe players managed to get a hearing for conspiracy theories at the highest level during the presidential transition. 
  <p class="updated_time"> 04:06 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/biden-reverses-prison-525884">Biden Justice Department reverses on returning federal convicts on home detention to prison</a> Politico: Prisoners who have been on home confinement during pandemic won't have to return to prison. 
  <p class="updated_time"> 03:56 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/robert-lemke-capitol-riot.html">Man Sentenced to 3 Years Over Threats to Journalists and Politicians</a> NYT: The same day that Trump supporters stormed the Capitol, Robert Lemke told a congressman’s brother that he was with “armed members near your home,” prosecutors said. 
- <p class="updated_time"> 03:54 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/scott-perry-january-6-committee.html">Republican House Member Refuses to Meet With Jan. 6 Committee</a> NYT: Representative Scott Perry of Pennsylvania, who worked with Donald Trump in an effort to overturn the election results last year, called the panel illegitimate. 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/robert-lemke-capitol-riot.html">Robert Lemke Sentenced to 3 Years Over Threats to Journalists and Politicians</a> NYT: The same day that Trump supporters stormed the Capitol, Robert Lemke told a congressman’s brother that he was with “armed members near your home,” prosecutors said. 
  <p class="updated_time"> 03:49 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493372/the-mysterious-death-of-a-human-rights-lawyer-during-political-turmoil-in-ethiop">The mysterious death of a human rights lawyer during political turmoil in Ethiopia</a> NPR: Ethiopia prime minister Abiy Ahmed is waging war against Tigrayans in the north and stamping out dissent among ethnic Oromos in the south. 
  <p class="updated_time"> 03:42 PM CT, Dec. 21 </p> 
@@ -224,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066493365/the-child-tax-credit-is-set-to-expire-if-congressional-action-isnt-taken">The Child Tax Credit is set to expire if congressional action isn't taken</a> NPR: Parents in Philadelphia, Pa., say they will miss the Child Tax Credit if it goes away — which it's set to do without congressional action. The program has helped ease the city's high poverty rates. 
  <p class="updated_time"> 03:28 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493358/biden-plans-to-expand-testing-and-vaccination-to-take-on-the-omicron-variant">Biden plans to expand testing and vaccination to take on the omicron variant</a> NPR: NPR's Ari Shapiro speaks with Andy Slavitt, former senior adviser to President Biden's pandemic response team, about the White House's latest efforts to combat the coronavirus. 
- <p class="updated_time"> 03:15 PM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/biden-build-back-better-manchin/index.html">Biden insists he and Manchin will 'get something done' after Build Back Better setback</a> CNN: President Joe Biden on Tuesday insisted that he and Democratic Sen. Joe Manchin will "get something done" on the Build Back Better Act after Manchin defied his party by torpedoing the key piece of Biden's domestic agenda. 
  <p class="updated_time"> 03:15 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/cyber-attack-commission.html">Designed to Prepare for Cyberattacks, a Panel Wraps Up Its Work</a> NYT: Some of the Cyberspace Solarium Commission’s work remains unfinished as lawmakers wrestle with how to oversee security of cloud computing providers and other issues. 
  <p class="updated_time"> 03:07 PM CT, Dec. 21 </p> 
@@ -239,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:49 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/us-travel-ban-omicron/index.html">Biden says he's considering lifting travel ban on southern African countries put in place to limit spread of Omicron</a> CNN: President Joe Biden said Tuesday that he is "considering" whether to lift the US' travel ban on South Africa and seven other southern African countries that was put in place as the Omicron variant of the coronavirus began to spread. 
  <p class="updated_time"> 02:49 PM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/boston-mayor-vaccine-mandates-525858">Boston mayor lines up vaccine mandates amid pushback from city workers</a> Politico: “I wish we were taking these actions faster,” Boston Mayor Michelle Wu said at a press conference Tuesday. 
+ <a href="https://www.politico.com/news/2021/12/21/boston-mayor-vaccine-mandates-525858">Boston mayor lines up vaccine mandates amid pushback from city workers</a> Politico: “I wish we were taking these actions faster,” Boston Mayor Michelle Wu said at a press conference. 
  <p class="updated_time"> 02:34 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/scott-perry-january-6-committee/index.html">GOP Rep. Scott Perry declines January 6 committee's request to speak with him</a> CNN: Republican Rep. Scott Perry on Tuesday declined the House January 6 committee's request to speak with him. 
  <p class="updated_time"> 02:31 PM CT, Dec. 21 </p> 
@@ -342,12 +346,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 06:51 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/omicron-dominant-covid-strain-cdc-525801">Omicron now the dominant Covid strain in U.S., CDC says</a> Politico: The White House has urged vaccinations and booster shots to combat the new variant. 
- <p class="updated_time"> 06:39 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1066106160/white-house-staffer-on-air-force-one-tests-positive-for-covid-biden-tests-negati">White House staffer on Air Force One tests positive for COVID. Biden tests negative</a> NPR: A staffer who on Friday flew aboard Air Force One with the president tested positive for the coronavirus on Monday, the White House said. 
  <p class="updated_time"> 06:36 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/jan-6-committee-trump-criminal-referral.html">Jan. 6 Committee Weighs Possibility of Criminal Referrals</a> NYT: The House panel is examining whether there is enough evidence to recommend that the Justice Department pursue cases against Donald J. Trump and others. 
- <p class="updated_time"> 05:19 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1066060178/alex-jones-infowars-trump-conspiracy-theorist-jan-6-committee-capitol-perry">As Jan. 6 panel seeks cooperation from Rep. Scott Perry, he says no </a> NPR: Perry said Tuesday that he's declining the request. He is the first sitting lawmaker that the panel has sought to question from regarding the Jan. 6 Capitol insurrection. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
  <p class="updated_time"> 04:41 PM CT, Dec. 20 </p> 
