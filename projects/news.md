@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:43 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59736726?at_medium=RSS&at_campaign=KARANGA">Abducted Haiti missionaries describe daring escape</a> BBC: The group allegedly navigated by the stars as they trekked through the bush to freedom. 
  <p class="updated_time"> 03:32 AM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59739685?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: Philippines faces aftermath</a> BBC: Residents on Siargao Island in the Philippines could be left without electricity for three months. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59739685?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: Philippines faces aftermath</a> BBC: The BBC's Howard Johnson on the crisis facing Siargao Island in the Philippines, which is almost cut off. 
  <p class="updated_time"> 03:25 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59733321?at_medium=RSS&at_campaign=KARANGA">UK Supreme Court denies Maduro claim to Venezuelan gold</a> BBC: The ruling means only opposition leader Juan Guaidó can access Venezuelan gold reserves in the UK. 
  <p class="updated_time"> 02:48 AM CT, Dec. 21 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/pictureshow/2021/12/20/1066049450/super-typhoon-rai-leaves-a-path-of-devastation-and-uncertainty">Super Typhoon Rai leaves a path of devastation and uncertainty</a> NPR: Rai is one of the most powerful storms to hit the southern Philippines on record. It's displaced more than 481,000 people and killed at least 375, with 500 missing. 
  <p class="updated_time"> 08:54 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/trump-supporters-booster-shots.html">Donald Trump Said He Got a Booster Shot and His Supporters Booed</a> NYT: At an event in Houston, the former president revealed for the first time publicly that he had received the additional vaccine dose. 
- <p class="updated_time"> 07:17 PM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59736726?at_medium=RSS&at_campaign=KARANGA">Abducted Haiti missionaries describe daring escape</a> BBC: The group, including children, navigated by the stars as they trekked through the bush to freedom. 
  <p class="updated_time"> 06:53 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59737125?at_medium=RSS&at_campaign=KARANGA">The secret lives of Ghislaine Maxwell and Jeffrey Epstein</a> BBC: Never-before-seen photos released during her trial shed new light on their private lives. 
  <p class="updated_time"> 06:46 PM CT, Dec. 20 </p> 
