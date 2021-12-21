@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:57 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/science/webb-telescope-astronomy.html">Webb Telescope Approaches Launch, With an Eye Toward Cosmic Origins</a> NYT: The biggest space telescope in history aims to answer astronomy’s oldest question: How did we get from the Big Bang to here? 
+ <p class="updated_time"> 04:56 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Israel Plans to Administer a Fourth Dose of Vaccine</a> NYT: Biden details new measures to fight Omicron, including providing hundreds of millions of tests free to Americans. Military medical personnel are being prepared to help overwhelmed U.S. hospitals. 
  <p class="updated_time"> 04:46 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493462/european-treasure-hunter-reunites-american-veteran-with-the-bracelet-he-lost-in-">European treasure hunter reunites American veteran with the bracelet he lost in 1945</a> NPR: A U.S. soldier overseas during World War II lost a bracelet inscribed with his sweetheart's name. A treasure hunter discovered it this fall, and returned it to its rightful owner. 
- <p class="updated_time"> 04:45 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans, and military medical personnel are being prepared to help overwhelmed U.S. hospitals. Germany, Sweden and Scotland tightened restrictions. 
  <p class="updated_time"> 04:29 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493427/blinken-talked-about-china-and-the-iran-nuclear-deal-at-end-of-year-news-confere">Blinken talked about China and the Iran nuclear deal at end of year news conference</a> NPR: Secretary of State Antony Blinken gave a news conference wrapping up his year, addressing questions about America's credibility after the pullout from Afghanistan. 
  <p class="updated_time"> 04:11 PM CT, Dec. 21 </p> 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
  <p class="updated_time"> 04:44 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-59735243?at_medium=RSS&at_campaign=KARANGA">Covid: An event cancelled is better than a life cancelled - WHO chief</a> BBC: The head of the World Health Organization calls for "difficult decisions" to be made over festive plans. 
- <p class="updated_time"> 04:15 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/science/webb-telescope-astronomy.html">Webb Telescope Approaches Launch, With an Eye Toward Cosmic Origins</a> NYT: The biggest space telescope in history aims to answer astronomy’s oldest question: How did we get from the Big Bang to here? 
  <p class="updated_time"> 04:14 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/nyregion/nypd-mask-mandate.html">N.Y.P.D. officers are again told to mask up amid Omicron surge</a> NYT: Employees are required to wear face masks indoors and outdoors regardless of vaccination status. 
  <p class="updated_time"> 04:01 PM CT, Dec. 20 </p> 
@@ -206,6 +206,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:09 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/us-russia-ukraine-smuggling-claims-525925">U.S. denies Russian claims on Ukraine as rhetoric heats up</a> Politico: Russia's defense minister claimed the U.S. has been smuggling chemicals into eastern Ukraine. 
+ <p class="updated_time"> 04:59 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/first-puppy-bidens-white-house/index.html">Bidens add to their family with new first puppy</a> CNN: President Joe Biden and first lady Jill Biden have added to their pet family, the first lady's spokesperson tells CNN. 
+ <p class="updated_time"> 04:54 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/prison-covid-home-confinement.html">Justice Dept. Says Some Inmates Can Stay Confined at Home</a> NYT: The move reverses a Trump-era decision that would have sent nearly all of the thousands of inmates released to home confinement during the pandemic back to prison. 
  <p class="updated_time"> 04:51 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/cyber-attack-commission.html">Designed to Prepare for Cyberattacks, a Panel Wraps Up Its Work</a> NYT: Some of the Cyberspace Solarium Commission’s work remains unfinished as lawmakers wrestle with how to oversee security of cloud computing providers and other issues. 
  <p class="updated_time"> 04:43 PM CT, Dec. 21 </p> 
@@ -268,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/21/kim-potter-trial-daunte-wright-police-shooting-525841">Kim Potter trial jury in Daunte Wright's death resumes deliberations</a> Politico: The suburban Minneapolis police officer is charged with first- and second-degree manslaughter. 
  <p class="updated_time"> 11:36 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/tim-walz-tests-positive-covid/index.html">Minnesota Gov. Tim Walz and family test positive for Covid</a> CNN: Minnesota Gov. Tim Walz, his wife, and their teenage son have tested positive for Covid-19, his office announced Tuesday. 
- <p class="updated_time"> 11:30 AM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/first-puppy-bidens-white-house/index.html">Bidens add to their family with new first puppy</a> CNN: President Joe Biden and first lady Jill Biden have added to their pet family, the first lady's spokesperson tells CNN. 
  <p class="updated_time"> 11:12 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/videos/politics/2021/12/21/the-11-democrats-who-could-replace-joe-biden-2024-cillizza-the-point.cnn">The 11 Democrats who could replace Joe Biden in 2024</a> CNN: President Joe Biden's age and recent struggles have caused a lot of speculation into whether he's going to run for reelection in 2024. In the latest episode of The Point, CNN's Chris Cillizza digs into the most likely replacements on the Democratic presidential ticket. 
  <p class="updated_time"> 11:11 AM CT, Dec. 21 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/omicron-dominant-covid-strain-cdc-525801">Omicron now the dominant Covid strain in U.S., CDC says</a> Politico: The White House has urged vaccinations and booster shots to combat the new variant. 
  <p class="updated_time"> 06:36 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/jan-6-committee-trump-criminal-referral.html">Jan. 6 Committee Weighs Possibility of Criminal Referrals</a> NYT: The House panel is examining whether there is enough evidence to recommend that the Justice Department pursue cases against Donald J. Trump and others. 
- <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
  <p class="updated_time"> 04:41 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/pentagon-military-extremism-rules.html">Pentagon Updates Its Rules on Extremism in the Military</a> NYT: “Liking” white nationalist and extremist content on social media could result in disciplinary action, Defense Department officials said. 
  <p class="updated_time"> 04:36 PM CT, Dec. 20 </p> 
