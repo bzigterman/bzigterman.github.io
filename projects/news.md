@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:17 PM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59736726?at_medium=RSS&at_campaign=KARANGA">Abducted Haiti missionaries describe daring escape</a> BBC: The group, including four children, navigated by the stars as they trekked through the bush to freedom. 
+ <p class="updated_time"> 06:46 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/world/larry-hogan-covid.html">Larry Hogan, Governor of Maryland, Tests Positive for Covid</a> NYT: He said he is feeling fine and that the positive test result came as a result of routine testing. 
  <p class="updated_time"> 06:36 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59687947?at_medium=RSS&at_campaign=KARANGA">How Covid deepened America's teacher shortages</a> BBC: Classrooms across the US have been emptied of educators - and the pandemic has made it worse. 
  <p class="updated_time"> 06:34 PM CT, Dec. 20 </p> 
@@ -49,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/nyregion/nyc-omicron-de-blasio.html">NYC Mayor: City Needs to Move Faster to Fight Omicron </a> NYT: In a news conference, Bill de Blasio said the next surge would likely be large but temporary. 
  <p class="updated_time"> 02:35 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/health/covid-novavax-europe.html">Novavax’s Covid Vaccine Is Authorized in Europe</a> NYT: The vaccine will be the fifth to become available in the E.U., which already has ample supplies. 
- <p class="updated_time"> 02:27 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/world/larry-hogan-covid.html">Larry Hogan, Governor of Maryland, Tests Positive for Covid</a> NYT: He said he is feeling fine and that the positive test result came as a result of routine testing. 
  <p class="updated_time"> 01:56 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-59732935?at_medium=RSS&at_campaign=KARANGA">Elon Musk says he'll be paying $11bn in tax this year</a> BBC: The Tesla founder and world's richest person has been involved in a public spat over his tax bill. 
  <p class="updated_time"> 01:53 PM CT, Dec. 20 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/world/africa/drones-ethiopia-war-turkey-emirates.html">Foreign Drones Tip the Balance in Ethiopia’s Civil War</a> NYT: Prime Minister Abiy Ahmed pulled off a stunning reversal in the year-old conflict with the help of armed drones supplied by the United Arab Emirates, Turkey and Iran. 
  <p class="updated_time"> 11:15 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/lucia-hiriart-dead.html">Lucía Hiriart, Powerful Wife of Chile’s Dictator, Dies at 98</a> NYT: Her husband, Augusto Pinochet, acknowledged that she had pushed him to participate in the 1973 coup that brought him to power in 1973. 
- <p class="updated_time"> 11:13 AM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/sport/africa/59734797?at_medium=RSS&at_campaign=KARANGA">Gabon youth coach arrested after male rape claims which he denies</a> BBC: Patrick Eyi, a former Gabon U17 coach, is arrested after claims of sexual abuse against him, which he denies. 
  <p class="updated_time"> 10:56 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59733713?at_medium=RSS&at_campaign=KARANGA">Donald Trump sues NY attorney to block inquiry into his company</a> BBC: The former US president says the probe into his businesses violates his constitutional rights. 
  <p class="updated_time"> 10:40 AM CT, Dec. 20 </p> 
@@ -116,7 +116,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/1946-europe-cold-wave.html">1946: Europe Hit By Near-Zero Temperatures</a> NYT: An unseasonable cold wave in many northern parts of the continent resulted in frozen waterways and deep snow. 
  <p class="updated_time"> 03:33 AM CT, Dec. 20 </p> 
- <a href="https://www.wsj.com/articles/chinese-tennis-star-peng-shuai-denies-making-sexual-assault-accusations-11639982172">Tennis Star Peng Shuai Denies Making Sexual-Assault Accusations</a> WSJ: Chinese tennis star Peng Shuai denied accusing anyone of sexual assault, suggesting a global wave of concern for her safety and wellbeing was the result of misunderstandings. 
+ <a href="https://www.wsj.com/articles/chinese-tennis-star-peng-shuai-denies-making-sexual-assault-accusations-11639982172">Tennis Star Peng Shuai Denies Making Sexual-Assault Accusations</a> WSJ: Chinese tennis star Peng Shuai denied accusing anyone of sexual assault, suggesting a global wave of concern for her safety and well-being was the result of misunderstandings. 
  <p class="updated_time"> 03:13 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59699556?at_medium=RSS&at_campaign=KARANGA">Tortured to death: Myanmar mass killings revealed</a> BBC: A BBC investigation finds evidence Myanmar's military killed 40 villagers in July, torturing some to death. 
  <p class="updated_time"> 03:00 AM CT, Dec. 20 </p> 
@@ -210,12 +210,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:31 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/house-democrats-retirements-2022/index.html">'We have got a problem here': Low morale and redistricting hand Democrats a growing retirement issue</a> CNN: There is a growing sense of gloom among Democrats in the House. And every week or so, when another Democratic member of Congress announces they won't run for reelection in 2022, the mood inside the caucus worsens. 
+ <p class="updated_time"> 07:23 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/scott-perry-january-6-committee.html">For First Time, Jan. 6 Panel Seeks Information From a House Member</a> NYT: The committee is requesting testimony and documents from Representative Scott Perry, a Pennsylvania Republican who was deeply involved in efforts to overturn the election. 
+ <p class="updated_time"> 07:03 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/scott-perry-january-6-committee/index.html">January 6 committee sends letter to GOP Rep. Scott Perry, asking to interview him</a> CNN: The House select committee investigating the deadly January 6 riot has asked GOP Rep. Scott Perry of Pennsylvania to voluntarily sit down for an interview -- the first known effort by the panel to talk to a lawmaker about helping former President Donald Trump in his efforts to undermine the election. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 06:51 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/omicron-dominant-covid-strain-cdc-525801">Omicron now the dominant Covid strain in U.S., CDC says</a> Politico: The White House has urged vaccinations and booster shots to combat the new variant. 
- <p class="updated_time"> 06:37 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/scott-perry-january-6-committee.html">For First Time, Jan. 6 Panel Seeks Information From a House Member</a> NYT: The committee is requesting testimony and documents from Representative Scott Perry, a Pennsylvania Republican who was deeply involved in efforts to overturn the election. 
+ <p class="updated_time"> 06:48 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/build-back-better-schumer-manchin.html">Biden Tries to Salvage Domestic Policy Bill After Rift With Manchin</a> NYT: Senator Joe Manchin III criticized the White House staff for its handling of negotiations over the legislation, saying officials had pushed him to his “wit’s end.” 
+ <p class="updated_time"> 06:39 PM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/2021/12/20/1066106160/white-house-staffer-on-air-force-one-tests-positive-for-covid-biden-tests-negati">White House staffer on Air Force One tests positive for COVID. Biden tests negative</a> NPR: A staffer who on Friday flew aboard Air Force One with the president tested positive for the coronavirus on Monday, the White House said. 
  <p class="updated_time"> 06:36 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/jan-6-committee-criminal-referrals.html">Jan. 6 Committee Weighs Possibility of Criminal Referrals</a> NYT: The House panel is examining whether there is enough evidence to recommend that the Justice Department pursue cases against Donald J. Trump and others. 
  <p class="updated_time"> 06:30 PM CT, Dec. 20 </p> 
@@ -226,10 +234,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/20/politics/first-puppy-bidens-white-house/index.html">Bidens add to their family with new first puppy</a> CNN: President Joe Biden and first lady Jill Biden have added to their pet family, the first lady's spokesperson tells CNN. 
  <p class="updated_time"> 05:41 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/manchin-climate-change-coal.html">Behind Manchin’s Opposition, a Long History of Fighting Climate Measures</a> NYT: Senator Joe Manchin III noted climate policy when he said he would vote against the Build Back Better Act. In his life and career, West Virginia coal has loomed large. 
- <p class="updated_time"> 05:30 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/scott-perry-january-6-committee/index.html">January 6 committee sends letter to GOP Rep. Scott Perry, asking to interview him</a> CNN: The House select committee investigating the deadly January 6 riot has asked GOP Rep. Scott Perry of Pennsylvania to voluntarily sit down for an interview -- the first known effort by the panel to talk to a lawmaker about helping former President Donald Trump in his efforts to undermine the election. 
  <p class="updated_time"> 05:19 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1066060178/alex-jones-infowars-trump-conspiracy-theorist-jan-6-committee-capitol-perry">House Jan. 6 panel requests information from GOP Rep. Scott Perry</a> NPR: Perry is the first sitting lawmaker that the panel has sought to question from regarding the Jan. 6 Capitol insurrection. 
+ <a href="https://www.npr.org/2021/12/20/1066060178/alex-jones-infowars-trump-conspiracy-theorist-jan-6-committee-capitol-perry">GOP Rep. Scott Perry is the first sitting lawmaker the Jan. 6 panel wants to question</a> NPR: Perry is the first sitting lawmaker that the panel has sought to question from regarding the Jan. 6 Capitol insurrection. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/climate/tailpipe-rules-climate-biden.html">E.P.A. Announces Tightest-Ever Auto Pollution Rules</a> NYT: Under the new plan, designed to reduce planet-warming tailpipe emissions, new vehicles would be required to average 55 miles per gallon starting in 2026. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
@@ -237,11 +243,9 @@ permalink: /projects/news/
  <p class="updated_time"> 05:03 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/border-wall/index.html">DHS to close some gaps in border wall in ongoing effort to clean up Trump-era projects</a> CNN: The Department of Homeland Security plans to close small gaps in the border wall, make adjustments to prevent flooding and complete prior construction of access roads, the department announced Monday. 
  <p class="updated_time"> 04:41 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/military-extremism-rules.html">Pentagon Updates Its Rules on Extremism in the Military</a> NYT: “Liking” white nationalist and extremist content on social media could result in disciplinary action, Defense Department officials said. 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/pentagon-military-extremism-rules.html">Pentagon Updates Its Rules on Extremism in the Military</a> NYT: “Liking” white nationalist and extremist content on social media could result in disciplinary action, Defense Department officials said. 
  <p class="updated_time"> 04:36 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/biden-and-manchin-speak-525788">Biden and Manchin speak</a> Politico: The two connected and there is a sense that talks around Build Back Better aren't done yet. 
- <p class="updated_time"> 04:32 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/build-back-better-schumer-manchin.html">Manchin Assails Efforts to Press Him on Biden’s Domestic Policy Bill</a> NYT: Senator Joe Manchin III criticized the White House staff for its handling of negotiations over the legislation, saying officials had pushed him to his “wit’s end.” 
  <p class="updated_time"> 04:25 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/joe-manchin-democratic-party-build-back-better/index.html">Manchin says he still sees himself as a Democrat even after thwarting Build Back Better plan</a> CNN: West Virginia Sen. Joe Manchin said Monday that he still considers himself a Democrat even after he defied his party by torpedoing a key piece of President Joe Biden's domestic agenda. 
  <p class="updated_time"> 04:20 PM CT, Dec. 20 </p> 
@@ -266,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/us/politics/biden-agenda-ambitions.html">The Path Ahead for Biden: Overcome Manchin’s Inflation Fears</a> NYT: A key Democrat’s decision to pull support from the president’s sprawling climate and social agenda is rooted in the scope of the bill. 
  <p class="updated_time"> 03:02 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/pentagon-defines-extremist-behavior-military-extremism/index.html">Pentagon defines prohibited behavior in effort to tackle extremism</a> CNN: In an ongoing effort to tackle extremism within military ranks, the Pentagon is putting forward a clearer, sharper definition of extremist behavior, updating the older guidance that was considered too vague on what was and was not allowed. 
- <p class="updated_time"> 02:50 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/house-democrats-retirements-2022/index.html">'We have got a problem here': Low morale and redistricting hand Democrats a growing retirement issue</a> CNN: There is a growing sense of gloom among Democrats in the House. And every week or so, when another Democratic member of Congress announces they won't run for reelection in 2022, the mood inside the caucus worsens. 
  <p class="updated_time"> 02:40 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/republicans-navy-seal-vaccine-525773">Almost 50 Republicans back Navy SEAL lawsuit over vaccine mandate</a> Politico: The group of lawmakers, which includes nine senators and 38 representatives, is led by Sens. Ted Cruz, Jim Inhofe and Roger Marshall. 
  <p class="updated_time"> 02:25 PM CT, Dec. 20 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/19/politics/stephen-breyer-gop-blockade-biden-supreme-court-pick/index.html">Justice Breyer has Democrats even more worried about the midterm elections</a> CNN: Senate Republicans are poised to deny President Joe Biden an appointment to the Supreme Court if they take the majority in the 2022 midterm elections. 
  <p class="updated_time"> 05:14 PM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065681923/a-leftist-millennial-wins-election-as-chiles-next-president">A leftist millennial wins election as Chile's next president</a> NPR: Gabriel Boric, 35, defeated a far-right lawmaker in a divisive election. Poised to become Chile's youngest modern president, he's vowed to expand social services and boost environmental protections. 
- <p class="updated_time"> 03:58 PM CT, Dec. 19 </p> 
- <a href="https://www.npr.org/2021/12/19/1065676445/chileans-choose-next-president-in-divisive-election">Chileans choose next president in divisive election</a> NPR: The runoff in Chile's presidential election pits a far-right candidate against a young far-left candidate. 
  <p class="updated_time"> 03:52 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/manchin-biden-agenda-competence-campaign-promise-525623">Biden promised competence and order. Chaos and uncertainty are winning.</a> Politico: The president has had successes. But a year in, his time in office has been defined by the disruptions, including on Sunday. 
  <p class="updated_time"> 01:52 PM CT, Dec. 19 </p> 
