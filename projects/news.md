@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:07 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: France and Italy Crack Down on Vaccine-Related Fraud</a> NYT: The N.H.L. pauses its season because of Omicron. President Biden is to announce new steps to quell the latest outbreak, including buying 500 million tests to distribute free to the public. 
+ <p class="updated_time"> 01:17 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden to Detail New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans, and military medical personnel are being prepared to help overwhelmed U.S. hospitals. Germany, Sweden and Scotland tightened restrictions. 
+ <p class="updated_time"> 01:08 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/americas/chile-boric.html">Who Is Gabriel Boric, Chile's Next President?</a> NYT: Mr. Boric, 35, is now the most prominent face of a generation of Chileans who are calling for a break with the past. 
  <p class="updated_time"> 12:57 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee is seeking briefings from search engines and web-hosting companies whose services might have been leveraged by the site, which has been linked to numerous deaths. 
  <p class="updated_time"> 12:38 PM CT, Dec. 21 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/asia/afghanistan-taliban-bagram-prison.html">At Bagram Air Base, a Notorious Prison Lies Empty</a> NYT: Taliban fighters now guard the prison at Bagram Air Base, which once held thousands of Taliban and Al Qaeda members who were set free in August. 
  <p class="updated_time"> 11:12 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/princess-haya-sheikh-mohammed-bin.html">British Court Orders Dubai Ruler to Pay £554 Million in Custody Settlement</a> NYT: The settlement, of about $734 million, resolves a lengthy dispute that began when Princess Haya Bint Al Hussein and her two children fled to London in 2019. 
- <p class="updated_time"> 10:44 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/haiti-missionaries-escape.html">Haiti Missionaries Describe Dramatic Escape From Kidnappers</a> NYT: The group of 12, including several children, walked 10 miles through the night. Later that day, the missionaries were on a Coast Guard flight to Florida. 
  <p class="updated_time"> 10:37 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59740528?at_medium=RSS&at_campaign=KARANGA">Ghanaian MPs brawl in parliament over e-money tax</a> BBC: Lawmakers trade blows during a chaotic session over a proposed levy on electronic transactions. 
  <p class="updated_time"> 10:25 AM CT, Dec. 21 </p> 
@@ -206,18 +206,22 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:30 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/democrats-tax-plans-525855">Democrats not giving up on tax plans despite spending bill blowup</a> Politico: Sen. Joe Manchin continues to cast a skeptical eye at what many Democrats believe to be a centerpiece of their agenda — the more generous version of the Child Tax Credit. 
+ <p class="updated_time"> 01:18 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/business/economy/kellogg-union-strike-contract.html">Kellogg Workers Ratify Contract After Being on Strike Since October</a> NYT: Union members had rejected an earlier proposal in early December, prolonging a strike by about 1,400 workers at four cereal plants. 
+ <p class="updated_time"> 01:09 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/scott-perry-january-6-committee/index.html">GOP Rep. Scott Perry declines January 6 committee's request to speak with him</a> CNN: Republican Rep. Scott Perry on Tuesday declined the House January 6 committee's request to speak with him. 
  <p class="updated_time"> 12:57 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee is seeking briefings from search engines and web-hosting companies whose services might have been leveraged by the site, which has been linked to numerous deaths. 
  <p class="updated_time"> 12:36 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/wall-street-manchin-covid-growth-expectations-525845">Dems' 2022 prospects hit with one-two blow on economy</a> Politico: While the surge in Covid cases threatens to undercut growth, much of the effect will depend on how policymakers respond. 
+ <p class="updated_time"> 12:20 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/fauci-covid-isolation-period-omicron-cnntv/index.html">Fauci says reducing the recommended Covid isolation period for the fully vaccinated is being considered</a> CNN: Dr. Anthony Fauci said Tuesday that the US Centers for Disease Control and Prevention is considering loosening its isolation length recommendations for fully vaccinated individuals -- particularly health care workers -- who test positive for Covid-19 but don't have symptoms. 
  <p class="updated_time"> 12:15 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/iran-nuclear-deal-rob-malley/index.html">US Special Envoy for Iran warns of 'escalating crisis' if talks fail to revive Iran nuclear deal</a> CNN: The time left to revive the 2015 nuclear deal with Iran is running out and raising the risk of an "escalating crisis," the United States Special Envoy for Iran, Rob Malley, told CNN's Becky Anderson on Tuesday. 
  <p class="updated_time"> 12:08 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/nyc-covid-testing.html">How to Find a Coronavirus Test in New York City</a> NYT: City officials announced plans to open nearly two dozen additional testing sites to meet demand for testing, which has doubled in the past three weeks. 
  <p class="updated_time"> 11:48 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/kim-potter-trial-daunte-wright-police-shooting-525841">Kim Potter trial jury in Daunte Wright's death resumes deliberations</a> Politico: The suburban Minneapolis police officer is charged with first- and second-degree manslaughter. 
- <p class="updated_time"> 11:43 AM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/scott-perry-january-6-committee/index.html">GOP Rep. Scott Perry declines January 6 committee's request to speak with him</a> CNN: Republican Rep. Scott Perry on Tuesday declined the House January 6 committee's request to speak with him. 
  <p class="updated_time"> 11:36 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/tim-walz-tests-positive-covid/index.html">Minnesota Gov. Tim Walz and family test positive for Covid</a> CNN: Minnesota Gov. Tim Walz, his wife, and their teenage son have tested positive for Covid-19, his office announced Tuesday. 
  <p class="updated_time"> 11:34 AM CT, Dec. 21 </p> 
@@ -228,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/videos/politics/2021/12/21/the-11-democrats-who-could-replace-joe-biden-2024-cillizza-the-point.cnn">The 11 Democrats who could replace Joe Biden in 2024</a> CNN: President Joe Biden's age and recent struggles have caused a lot of speculation into whether he's going to run for reelection in 2024. In the latest episode of The Point, CNN's Chris Cillizza digs into the most likely replacements on the Democratic presidential ticket. 
  <p class="updated_time"> 11:11 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/united-states-population-growth-2021-525832">U.S. population growth in 2021 slowest since nation's founding</a> Politico: The population grew just 0.1 percent in 2021, likely because of the Covid-19 pandemic, according to the U.S. Census Bureau. 
- <p class="updated_time"> 11:06 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/business/economy/kellogg-union-strike-contract.html">Kellogg Workers Ratify Contract After Being on Strike Since October</a> NYT: Union members had rejected an earlier proposal in early December, prolonging a strike by about 1,400 workers at four cereal plants. 
  <p class="updated_time"> 11:01 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/business/economy/mary-daly-federal-reserve-inflation.html">Lingering Virus, Lasting Inflation: A Fed Official Explains Her Pivot</a> NYT: Mary Daly, president of the Federal Reserve Bank of San Francisco, wanted to withdraw economic help slowly. Now, she might support a rate increase as soon as March. 
  <p class="updated_time"> 10:59 AM CT, Dec. 21 </p> 
@@ -368,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, the Florida Democrat didn’t rule out a future run for a different public role. 
  <p class="updated_time"> 10:35 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/filibuster-senate-voting-rights.html">Schumer Will Try to Change Senate Rules if G.O.P. Stalls Voting Bill</a> NYT: The Senate majority leader still lacks the votes to alter the filibuster, but he said he will renew the effort to enact voting rights measures as early as the first week of January. 
- <p class="updated_time"> 07:47 AM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/moderna-booster-omicron-525723">Moderna says its booster raised antibody levels against Omicron</a> Politico: A standard 50-microgram boost raised antibody levels about 37-fold higher than pre-boost levels 29 days after the shot was administered. 
  <p class="updated_time"> 07:12 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/20/are-dems-dreams-deferred-or-dead-495523">Are Dems’ dreams deferred or dead?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Dec. 20 </p> 
@@ -382,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">White House issues damning statement against Manchin after saying he won't vote for Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 07:56 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/14-policies-manchin-social-spending-525681">How 14 policies could survive — or die — after Manchin’s ‘no’</a> Politico: Despite his clear opposition  to enacting President Joe Biden’s $1.7T social spending package, the West Virginia senator actually likes a slew of individual policies in the plan, giving Democrats hope for turning some of those ideas into law. 
- <p class="updated_time"> 07:30 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-joe-biden-build-back-better-talks-break-down/index.html">How months of talks between Biden and Manchin over Build Back Better broke down </a> CNN: President Joe Biden was at home in Delaware Sunday when Sen. Joe Manchin appeared on Fox News to abruptly declare he could not support his sweeping social and climate plan. "I've tried everything humanly possible," the West Virginia Democrat said, appearing remotely. "I can't get there. This is a no." 
  <p class="updated_time"> 07:00 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/democratic-sky-high-expectations-fall-flat-525537">Dems trip over their own sky-high expectations</a> Politico: Joe Manchin's rejection of the party's social spending bill is just the latest episode in a series of lofty goals it's failed to deliver on. 
  <p class="updated_time"> 03:52 PM CT, Dec. 19 </p> 
