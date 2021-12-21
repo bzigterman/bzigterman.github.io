@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:26 AM CT, Dec. 21 </p> 
+ <p class="updated_time"> 08:31 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: E.U. Will Require Boosters for Vaccine Passes to Remain Valid</a> NYT: The N.H.L. pauses its season because of Omicron. President Biden announces new steps to quell the latest outbreak, including buying 500 million tests to distribute to the public for free. 
+ <p class="updated_time"> 08:30 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/europe/turkey-inflation-rising-prices.html">Cashing In Grandma’s Gold Coins, a Turkish Family Struggles to Get By</a> NYT: As inflation soars and the value of Turkey’s currency plummets, one couple described how working families can’t make ends meet and have had to cut back on basic necessities as well as life’s smaller pleasures. 
  <p class="updated_time"> 07:53 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59740528?at_medium=RSS&at_campaign=KARANGA">Ghanaian MPs brawl in parliament over e-money tax</a> BBC: Lawmakers trade blows during a chaotic session over a proposed levy on electronic transactions. 
  <p class="updated_time"> 07:28 AM CT, Dec. 21 </p> 
@@ -196,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:32 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/fauci-fox-525826">‘The guy should be fired on the spot’: Fauci rebukes Fox News host over violent rhetoric</a> Politico: Fauci on Tuesday described Watters’ remarks as “horrible.” 
  <p class="updated_time"> 09:00 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/los-angeles-county-primary-election-malfunction-525745">Cascade of failures upended LA County’s 2020 primary, report finds</a> Politico: The county’s lax oversight of a hardware vendor and slowness to make crucial preparations contributed to chaos and long lines, according to a consultant’s report that POLITICO sued to obtain. 
  <p class="updated_time"> 07:05 AM CT, Dec. 21 </p> 
@@ -328,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, the Florida Democrat didn’t rule out a future run for a different public role. 
  <p class="updated_time"> 11:45 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/stephanie-murphy-not-running-reelection/index.html">Florida Democrat on January 6 committee announces she won't run for reelection</a> CNN: Rep. Stephanie Murphy, a Florida Democrat and a member of the House select committee investigating the January 6 US Capitol riot, announced Monday she would not run for reelection. 
- <p class="updated_time"> 11:02 AM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/trump-sues-ny-attorney-general-525736">Trump sues N.Y. attorney general James to block fraud probes</a> Politico: The case accuses James of violating the civil rights of Trump and the Trump Organization. 
  <p class="updated_time"> 11:01 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/supreme-court-kavanaugh-osha-vaccine-mandate-omicron/index.html">Supreme Court receives appeals asking Kavanaugh to block large employer vaccine mandate</a> CNN: The Supreme Court Monday said it has received several appeals asking Justice Brett Kavanaugh to consider the Biden administration's requirement that large employers mandate their employees obtain a Covid-19 vaccine or submit to weekly testing. 
  <p class="updated_time"> 10:35 AM CT, Dec. 20 </p> 
