@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:27 PM CT, Dec. 21 </p> 
+ <p class="updated_time"> 03:32 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans, and military medical personnel are being prepared to help overwhelmed U.S. hospitals. Germany, Sweden and Scotland tightened restrictions. 
  <p class="updated_time"> 03:11 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/africa/mauritius-oil-spill.html">2 Ship Officers Plead Guilty to Light Charges in Mauritius Oil Spill</a> NYT: The leak was an environmental calamity for the Indian Ocean nation, which relies on its beaches and lagoons for tourism and fishing. 
@@ -51,18 +51,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/asia/afghanistan-taliban-bagram-prison.html">At Bagram Air Base, a Notorious Prison Lies Empty</a> NYT: Taliban fighters now guard the prison at Bagram Air Base, which once held thousands of Taliban and Al Qaeda members who were set free in August. 
  <p class="updated_time"> 11:12 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/princess-haya-sheikh-mohammed-bin.html">British Court Orders Dubai Ruler to Pay £554 Million in Custody Settlement</a> NYT: The settlement, of about $734 million, resolves a lengthy dispute that began when Princess Haya Bint Al Hussein and her two children fled to London in 2019. 
+ <p class="updated_time"> 10:34 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/as-omicron-takes-over-in-the-u-s-more-curbs-world-wide-11640091714">Biden Is Considering Lifting Travel Ban on Southern African Countries</a> WSJ: The president imposed the ban last month as a way to slow the spread of the Omicron variant to the U.S., ‘but we’re past that now,’ he said Tuesday. 
+ <p class="updated_time"> 10:31 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-pandemic-drives-u-s-population-growth-to-record-low-11640098763">Covid-19 Pandemic Drives U.S. Population Growth to Record Low</a> WSJ: America’s population grew by just 0.1% for the 12 months ended July 1, according to Census Bureau figures released Tuesday that show how the pandemic is changing the country’s demographic contours. 
  <p class="updated_time"> 10:25 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59740324?at_medium=RSS&at_campaign=KARANGA">Kosovo agrees to rent prison cells to Denmark to ease overcrowding</a> BBC: Denmark is due to pay €210m (£179m) over the next 10 years to rent 300 cells in the jail at Gjilan. 
  <p class="updated_time"> 10:21 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial jurors resume deliberations</a> BBC: The British socialite faces up to 80 years in prison if convicted on sex-trafficking and perjury charges. 
- <p class="updated_time"> 10:17 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/covid-19-pandemic-drives-u-s-population-growth-to-record-low-11640098763">Covid-19 Pandemic Drives U.S. Population Growth to Record Low</a> WSJ: America’s population grew by just 0.1% for the 12 months ended July 1, according to Census Bureau figures released Tuesday that show how the pandemic is changing the country’s demographic contours. 
  <p class="updated_time"> 09:39 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/21/1062836171/editors-pick-11-hidden-gems-on-our-global-health-blog-in-2021">Editors' pick: 11 hidden gems on our global health blog in 2021</a> NPR: Want to hear the former president of Zambia sing about public health? Find out what to do if you lose a sheep in Senegal? Use solar power to iron garments? Give these stories a read. 
  <p class="updated_time"> 09:12 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/travel/cardamom-mountains-wildlife-cambodia.html">Inside the Campaign to Save an Imperiled Cambodian Rainforest</a> NYT: Deep in the Southern Cardamom Mountains, former loggers and poachers have assumed new roles as protective rangers and ecotourism guides. Can their efforts help preserve a vast stretch of wilderness? 
- <p class="updated_time"> 08:33 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/as-omicron-takes-over-in-the-u-s-more-curbs-world-wide-11640091714">As Omicron Takes Over in the U.S., More Curbs World-Wide</a> WSJ: New travel restrictions and other steps to curb the spread of the Omicron variant were put in place world-wide as further evidence emerged of just how rapidly the new strain spreads. 
  <p class="updated_time"> 07:28 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/trump-supporters-booster-shots.html">Donald Trump Said He Got a Booster Shot and His Supporters Booed</a> NYT: At an event in Dallas, the former president revealed for the first time publicly that he had received the additional vaccine dose. 
  <p class="updated_time"> 07:25 AM CT, Dec. 21 </p> 
@@ -206,12 +206,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/21/biden-reverses-prison-525884">Biden Justice Department reverses on returning federal convicts on home detention to prison</a> Politico: Prisoners who have been on home confinement during pandemic won't have to return to prison. 
  <p class="updated_time"> 03:42 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/student-loan-relief-omicron-covid-525870">Education Department considers extending student loan relief amid Omicron surge</a> Politico: “Later this week, we will be announcing whether to extend the pause further,” an Education Department spokesperson said in a statement to POLITICO. 
+ <p class="updated_time"> 03:28 PM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066493365/the-child-tax-credit-is-set-to-expire-if-congressional-action-isnt-taken">The Child Tax Credit is set to expire if congressional action isn't taken</a> NPR: Parents in Philadelphia, Pa., say they will miss the Child Tax Credit if it goes away — which it's set to do without congressional action. The program has helped ease the city's high poverty rates. 
+ <p class="updated_time"> 03:28 PM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066493358/biden-plans-to-expand-testing-and-vaccination-to-take-on-the-omicron-variant">Biden plans to expand testing and vaccination to take on the omicron variant</a> NPR: NPR's Ari Shapiro speaks with Andy Slavitt, former senior adviser to President Biden's pandemic response team, about the White House's latest efforts to combat the coronavirus. 
  <p class="updated_time"> 03:15 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/biden-build-back-better-manchin/index.html">Biden insists he and Manchin will 'get something done' after Build Back Better setback</a> CNN: President Joe Biden on Tuesday insisted that he and Democratic Sen. Joe Manchin will "get something done" on the Build Back Better Act after Manchin defied his party by torpedoing the key piece of Biden's domestic agenda. 
  <p class="updated_time"> 03:15 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/cyber-attack-commission.html">Designed to Prepare for Cyberattacks, a Panel Wraps Up Its Work</a> NYT: Some of the Cyberspace Solarium Commission’s work remains unfinished as lawmakers wrestle with how to oversee security of cloud computing providers and other issues. 
- <p class="updated_time"> 03:07 PM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/somaliland-china-taiwan-congress-525842">On the Horn of Africa, a tiny 'country' has Congress' ear</a> Politico: Somaliland's delegation swept through Washington, promising to support Taiwan and ditch China. All it wants is a little recognition. 
  <p class="updated_time"> 03:03 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066480824/justice-department-reverse-prisoners-early-release-pandemic">Prisoners sent to home confinement because of the pandemic might remain free</a> NPR: In a rare reversal, the Justice Department said the prison system has discretion to allow people released to home confinement during the pandemic to remain free. 
  <p class="updated_time"> 03:02 PM CT, Dec. 21 </p> 
@@ -245,7 +247,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:15 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/iran-nuclear-deal-rob-malley/index.html">US Special Envoy for Iran warns of 'escalating crisis' if talks fail to revive Iran nuclear deal</a> CNN: The time left to revive the 2015 nuclear deal with Iran is running out and raising the risk of an "escalating crisis," the United States Special Envoy for Iran, Rob Malley, told CNN's Becky Anderson on Tuesday. 
  <p class="updated_time"> 12:08 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/nyc-covid-testing.html">How to Find a Coronavirus Test in New York City</a> NYT: City officials announced plans to open nearly two dozen additional testing sites to meet demand for testing, which has doubled in the past three weeks. 
+ <a href="https://www.nytimes.com/2021/12/21/nyregion/nyc-covid-testing.html">How to Find a Coronavirus Test in New York City</a> NYT: City officials announced plans to open nearly two dozen additional testing sites to meet demand for testing, which has doubled in the past three weeks. 
  <p class="updated_time"> 11:48 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/kim-potter-trial-daunte-wright-police-shooting-525841">Kim Potter trial jury in Daunte Wright's death resumes deliberations</a> Politico: The suburban Minneapolis police officer is charged with first- and second-degree manslaughter. 
  <p class="updated_time"> 11:36 AM CT, Dec. 21 </p> 
@@ -336,6 +338,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 06:51 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/omicron-dominant-covid-strain-cdc-525801">Omicron now the dominant Covid strain in U.S., CDC says</a> Politico: The White House has urged vaccinations and booster shots to combat the new variant. 
+ <p class="updated_time"> 06:48 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/build-back-better-schumer-manchin.html">Biden Tries to Salvage Domestic Policy Bill After Rift With Manchin</a> NYT: Senator Joe Manchin III criticized the White House staff for its handling of negotiations over the legislation, saying officials had pushed him to his “wit’s end.” 
  <p class="updated_time"> 06:39 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066106160/white-house-staffer-on-air-force-one-tests-positive-for-covid-biden-tests-negati">White House staffer on Air Force One tests positive for COVID. Biden tests negative</a> NPR: A staffer who on Friday flew aboard Air Force One with the president tested positive for the coronavirus on Monday, the White House said. 
  <p class="updated_time"> 06:36 PM CT, Dec. 20 </p> 
@@ -354,10 +358,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/20/politics/joe-manchin-democratic-party-build-back-better/index.html">Manchin says he still sees himself as a Democrat even after thwarting Build Back Better plan</a> CNN: West Virginia Sen. Joe Manchin said Monday that he still considers himself a Democrat even after he defied his party by torpedoing a key piece of President Joe Biden's domestic agenda. 
  <p class="updated_time"> 04:08 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066017225/rep-brown-who-pushed-to-address-extremism-in-military-reacts-to-pentagon-report">Rep. Brown, who pushed to address extremism in military, reacts to Pentagon report</a> NPR: NPR's Ari Shapiro talks with Maryland Congressman Anthony Brown about the Defense Department's report on Monday about extremism in the military. 
- <p class="updated_time"> 04:00 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1066017197/with-the-loss-of-manchins-vote-bidens-climate-change-agenda-may-be-doomed">With the loss of Manchin's vote, Biden's climate change agenda may be doomed</a> NPR: Despite a year of increasing weather disasters, Biden's ambitious climate plans may be doomed in Congress. 
- <p class="updated_time"> 03:48 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1066001919/epa-fuel-economy-standards-cars-trucks">EPA announces tighter fuel economy standards for cars and trucks</a> NPR: The EPA announced on Monday a plan that it says will yield $190 billion in net benefits by 2050. 
  <p class="updated_time"> 03:38 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/alex-jones-january-6-lawsuit/index.html">Alex Jones sues House January 6 committee</a> CNN: Conspiracy theorist and right-wing provocateur Alex Jones says he will not comply with demands the House Select Committee investigating January 6 has made for his testimony and records, according to a new lawsuit he filed on Monday. 
  <p class="updated_time"> 02:40 PM CT, Dec. 20 </p> 
@@ -374,10 +374,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, the Florida Democrat didn’t rule out a future run for a different public role. 
  <p class="updated_time"> 10:35 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/filibuster-senate-voting-rights.html">Schumer Will Try to Change Senate Rules if G.O.P. Stalls Voting Bill</a> NYT: The Senate majority leader still lacks the votes to alter the filibuster, but he said he will renew the effort to enact voting rights measures as early as the first week of January. 
+ <p class="updated_time"> 07:47 AM CT, Dec. 20 </p> 
+ <a href="https://www.politico.com/news/2021/12/20/moderna-booster-omicron-525723">Moderna says its booster raised antibody levels against Omicron</a> Politico: A standard 50-microgram boost raised antibody levels about 37-fold higher than pre-boost levels 29 days after the shot was administered. 
  <p class="updated_time"> 07:12 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/20/are-dems-dreams-deferred-or-dead-495523">Are Dems’ dreams deferred or dead?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/20/the-case-for-why-bbb-is-dead-and-for-why-it-may-not-be-495522"> The case for why BBB is dead — and for why it may not be</a> Politico Playbook: And Rep. Albio Sires (D-N.J.) won’t run for reelection. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
+ <a href="https://www.politico.com/news/2021/12/20/cdc-covid-omicron-delta-tracking-525621">‘It is embarrassing’: CDC struggles to track Covid cases as Omicron looms</a> Politico: The U.S. was behind other countries in charting the spread of disease in the pandemic’s disastrous early months. It’s still behind as new variants threaten to disrupt the winter. 
  <p class="updated_time"> 07:59 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">White House issues damning statement against Manchin after saying he won't vote for Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 07:56 PM CT, Dec. 19 </p> 
