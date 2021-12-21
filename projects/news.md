@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:32 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59739685?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: Philippines faces aftermath</a> BBC: Residents on Siargao Island in the Philippines could be left without electricity for three months. 
  <p class="updated_time"> 03:25 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59733321?at_medium=RSS&at_campaign=KARANGA">UK Supreme Court denies Maduro claim to Venezuelan gold</a> BBC: The ruling means only opposition leader Juan Guaidó can access Venezuelan gold reserves in the UK. 
  <p class="updated_time"> 02:48 AM CT, Dec. 21 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/world/europe/ireland-cure-folk-medicine.html">Secret Charms and 7th Sons: ‘The Cure’ Is Alive and Well in Ireland</a> NYT: Belief in the benefits of the cure, a type of folk medicine that interweaves home remedies with superstition, religion and a sprinkle of magic is still a way of life in pockets of Ireland. 
  <p class="updated_time"> 12:18 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/pope-domestic-violence-almost-satanic.html">Pope Francis Says High Number of Domestic Violence Cases Is ‘Almost Satanic’</a> NYT: Francis once again decried the scourge of domestic abuse, which has increased during the months of pandemic lockdown. 
- <p class="updated_time"> 12:16 PM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59714658?at_medium=RSS&at_campaign=KARANGA">Philippines Super Typhoon Rai death toll surges</a> BBC: The number of fatalities rises rapidly to at least 375, as the Red Cross appeals for urgent aid. 
  <p class="updated_time"> 12:04 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2021/12/20/255821310/the-many-contradictions-of-latin-music">The many contradictions of 'Latin Music'</a> NPR: For some, the term 'Latin music' is too broad to be meaningful. For others, it invokes a sense of pride and resistance. To help break it down, we spoke to an expert on race and music and pop culture. 
  <p class="updated_time"> 11:40 AM CT, Dec. 20 </p> 
