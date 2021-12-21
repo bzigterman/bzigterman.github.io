@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:17 PM CT, Dec. 21 </p> 
+ <p class="updated_time"> 05:25 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans. Military medical personnel are being prepared to help overwhelmed U.S. hospitals. Israel will administer a fourth round of boosters. 
+ <p class="updated_time"> 05:20 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/vaccine-booster-israel-covid.html">Israel to Administer a Fourth Round of Covid Vaccines</a> NYT: Medical teams will begin to give fourth doses to those over 60 as well as to medical personnel. 
  <p class="updated_time"> 05:15 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/ted-cruz-biden-ukraine.html">Deal With Ted Cruz Sets Stage for Russia Pipeline Fight in Early 2022</a> NYT: The Texas Republican leveraged his obstruction of diplomatic nominees into a Senate vote that could complicate President Biden’s efforts to defend Ukraine. 
  <p class="updated_time"> 04:57 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/20/science/webb-telescope-astronomy.html">Webb Telescope Approaches Launch, With an Eye Toward Cosmic Origins</a> NYT: The biggest space telescope in history aims to answer astronomy’s oldest question: How did we get from the Big Bang to here? 
+ <a href="https://www.nytimes.com/2021/12/20/science/webb-telescope-astronomy.html">Webb Telescope Prepares to Ascend, With an Eye Toward Our Origins</a> NYT: The biggest space telescope in history aims to answer astronomy’s oldest question: How did we get from the Big Bang to here? 
  <p class="updated_time"> 04:46 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493462/european-treasure-hunter-reunites-american-veteran-with-the-bracelet-he-lost-in-">European treasure hunter reunites American veteran with the bracelet he lost in 1945</a> NPR: A U.S. soldier overseas during World War II lost a bracelet inscribed with his sweetheart's name. A treasure hunter discovered it this fall, and returned it to its rightful owner. 
  <p class="updated_time"> 04:29 PM CT, Dec. 21 </p> 
@@ -204,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:06 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/covid-olympics-nhl-hockey-china-525936">NHL reportedly set to withdraw from Olympics after Covid surge</a> Politico: The hockey league is afraid it won’t be able to complete its schedule if it takes a break for the Beijing Olympics. 
+ <p class="updated_time"> 05:27 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/climate/solar-power-federal-land-california.html">Biden Administration Approves Two California Solar Projects</a> NYT: The solar farms, planned for the California desert, would generate enough electricity to power about 132,000 homes, the Interior Department said. 
  <p class="updated_time"> 05:15 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/ted-cruz-biden-ukraine.html">Deal With Ted Cruz Sets Stage for Russia Pipeline Fight in Early 2022</a> NYT: The Texas Republican leveraged his obstruction of diplomatic nominees into a Senate vote that could complicate President Biden’s efforts to defend Ukraine. 
  <p class="updated_time"> 05:14 PM CT, Dec. 21 </p> 
@@ -224,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/us/politics/cyber-attack-commission.html">Designed to Prepare for Cyberattacks, a Panel Wraps Up Its Work</a> NYT: Some of the Cyberspace Solarium Commission’s work remains unfinished as lawmakers wrestle with how to oversee security of cloud computing providers and other issues. 
  <p class="updated_time"> 04:43 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/inmates-pandemic/index.html">Thousands of inmates released because of pandemic will be allowed to remain on home confinement, Justice Department says</a> CNN: Thousands of federal inmates who were released from prison to complete their sentence from home as a preventative measure to combat the spread of Covid-19, will be allowed to remain on home confinement, the Justice Department announced on Tuesday. 
- <p class="updated_time"> 04:43 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/climate/solar-power-federal-land-california.html">Biden Administration Approves Two California Solar Projects</a> NYT: The solar farms, planned for the California desert, would generate enough electricity to power about 132,000 homes, the Interior Department said. 
  <p class="updated_time"> 04:34 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/biden-build-back-better-manchin/index.html">Biden insists he and Manchin will 'get something done' after Build Back Better setback</a> CNN: President Joe Biden on Tuesday insisted that he and Democratic Sen. Joe Manchin will "get something done" on the Build Back Better Act after Manchin defied his party by torpedoing the key piece of Biden's domestic agenda. 
  <p class="updated_time"> 04:32 PM CT, Dec. 21 </p> 
@@ -274,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/21/wall-street-manchin-covid-growth-expectations-525845">Dems' 2022 prospects hit with one-two blow on economy</a> Politico: While the surge in Covid cases threatens to undercut growth, much of the effect will depend on how policymakers respond. 
  <p class="updated_time"> 12:20 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/fauci-covid-isolation-period-omicron-cnntv/index.html">Fauci says reducing the recommended Covid isolation period for the fully vaccinated is being considered</a> CNN: Dr. Anthony Fauci said Tuesday that the US Centers for Disease Control and Prevention is considering loosening its isolation length recommendations for fully vaccinated individuals -- particularly health care workers -- who test positive for Covid-19 but don't have symptoms. 
- <p class="updated_time"> 12:15 PM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/iran-nuclear-deal-rob-malley/index.html">US Special Envoy for Iran warns of 'escalating crisis' if talks fail to revive Iran nuclear deal</a> CNN: The time left to revive the 2015 nuclear deal with Iran is running out and raising the risk of an "escalating crisis," the United States Special Envoy for Iran, Rob Malley, told CNN's Becky Anderson on Tuesday. 
  <p class="updated_time"> 11:48 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/kim-potter-trial-daunte-wright-police-shooting-525841">Kim Potter trial jury in Daunte Wright's death resumes deliberations</a> Politico: The suburban Minneapolis police officer is charged with first- and second-degree manslaughter. 
  <p class="updated_time"> 11:12 AM CT, Dec. 21 </p> 
@@ -338,12 +338,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/21/politics/joe-manchin-joe-biden-relationship/index.html">Biden's relationship with Manchin hits a low point, even as they clear the air</a> CNN: After months of careful cultivation -- and even a nickname -- the most important relationship in Washington is narrowly weathering its stormiest moment to date. 
  <p class="updated_time"> 09:16 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/biden-covid-exposure.html">Biden Was in Close Contact With Official Who Tested Positive for Covid</a> NYT: Administration officials acknowledge that as the highly contagious Omicron variant has surged, a cluster of cases have been reported across the administration. 
- <p class="updated_time"> 08:36 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/oath-keepers-january-6-ruling/index.html">Judge rejects Oath Keepers' efforts to dismiss charge in January 6 prosecutions</a> CNN: A federal judge has ruled against a notable attempt to throw out the felony charge that's the backbone of January 6 criminal prosecutions, bolstering the government's case against 17 Oath Keeper defendants accused of conspiring to overtake the US Capitol. 
  <p class="updated_time"> 08:06 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/lucille-roybal-allard-not-running-reelection/index.html">California Democrat announces she will not seek reelection to Congress</a> CNN: Democratic Rep. Lucille Roybal-Allard of California announced on Monday that she would not run for reelection next year, becoming the latest House Democrat to decide not to seek another term. 
- <p class="updated_time"> 07:50 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/trump-ny-attorney-general-james/index.html">Trump sues NY attorney general, seeking to stop investigation into his company</a> CNN: Former President Donald Trump and the Trump Organization have sued New York Attorney General Letitia James, asking for a federal court to halt or limit her office's ongoing investigations. 
  <p class="updated_time"> 07:50 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/manchin-climate-change-coal.html">Behind Manchin’s Opposition, a Long History of Fighting Climate Measures</a> NYT: Senator Joe Manchin III noted climate policy when he said he would vote against the Build Back Better Act. In his life and career, West Virginia coal has loomed large. 
  <p class="updated_time"> 07:46 PM CT, Dec. 20 </p> 
@@ -354,8 +350,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 06:51 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/omicron-dominant-covid-strain-cdc-525801">Omicron now the dominant Covid strain in U.S., CDC says</a> Politico: The White House has urged vaccinations and booster shots to combat the new variant. 
+ <p class="updated_time"> 06:39 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/haitian-migrants-biden-administration-lawsuit/index.html">Group of Haitian migrants sue Biden administration over poor treatment</a> CNN: A group of Haitian migrants is suing the Biden administration over its treatment of migrants, recounting in detail squalid conditions at a makeshift camp in Del Rio, Texas, this year and confrontations with officers on horseback, according to a lawsuit filed Monday. 
  <p class="updated_time"> 06:36 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/jan-6-committee-trump-criminal-referral.html">Jan. 6 Committee Weighs Possibility of Criminal Referrals</a> NYT: The House panel is examining whether there is enough evidence to recommend that the Justice Department pursue cases against Donald J. Trump and others. 
+ <p class="updated_time"> 05:03 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/border-wall/index.html">DHS to close some gaps in border wall in ongoing effort to clean up Trump-era projects</a> CNN: The Department of Homeland Security plans to close small gaps in the border wall, make adjustments to prevent flooding and complete prior construction of access roads, the department announced Monday. 
  <p class="updated_time"> 04:41 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/pentagon-military-extremism-rules.html">Pentagon Updates Its Rules on Extremism in the Military</a> NYT: “Liking” white nationalist and extremist content on social media could result in disciplinary action, Defense Department officials said. 
  <p class="updated_time"> 04:36 PM CT, Dec. 20 </p> 
@@ -364,12 +364,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/republicans-navy-seal-vaccine-525773">Almost 50 Republicans back Navy SEAL lawsuit over vaccine mandate</a> Politico: The group of lawmakers, which includes nine senators and 38 representatives, is led by Sens. Ted Cruz, Jim Inhofe and Roger Marshall. 
  <p class="updated_time"> 02:25 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/alex-jones-sues-jan-6-committee-indicates-plan-to-plead-the-fifth-525770">Alex Jones sues Jan. 6 committee, indicates plan to plead the Fifth</a> Politico: In the lawsuit, Jones says he intends to assert his Fifth Amendment rights against self-incrimination. 
- <p class="updated_time"> 12:53 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/joe-biden-build-back-better-setback-explained/index.html">Biden's Build Back Better plan is on ice. Here's what that means for you</a> CNN: No more monthly payments for tens of millions of families. No universal pre-kindergarten for 3- and 4-year-olds. No health insurance for more than 2 million low-income Americans. No funneling of billions of dollars into clean energy initiatives. 
+ <p class="updated_time"> 12:58 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/epa-auto-emissions-standards/index.html">EPA will tighten fuel mileage standards for cars and light trucks, replacing looser Trump-era standards </a> CNN: The Environmental Protection Agency on Monday will tighten fuel emissions standards for cars and light trucks to 40 miles per gallon by the 2026 model year, replacing the looser Trump-era standards. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/manchin-build-back-better-redo-525747">Manchin to Dems: Redo the whole thing, maybe I'll vote for it</a> Politico: The West Virginia senator wants a new bill that goes through Senate committees and focuses on rolling back the 2017 Trump tax cuts. 
  <p class="updated_time"> 11:49 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, the Florida Democrat didn’t rule out a future run for a different public role. 
+ <p class="updated_time"> 11:10 AM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/biden-labor-shortage/index.html">Biden to make 20,000 additional guest-worker visas available this winter amid labor shortages</a> CNN: The Biden administration will make an additional 20,000 seasonal, guest-worker visas available for the winter season for the first time, the Department of Homeland Security announced Monday. 
  <p class="updated_time"> 07:47 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/moderna-booster-omicron-525723">Moderna says its booster raised antibody levels against Omicron</a> Politico: A standard 50-microgram boost raised antibody levels about 37-fold higher than pre-boost levels 29 days after the shot was administered. 
  <p class="updated_time"> 07:12 AM CT, Dec. 20 </p> 
@@ -432,6 +434,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/16/will-democrats-get-coal-instead-of-passed-bills-in-their-stockings-495491">Will Democrats get coal instead of passed bills in their stockings?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/16/manchinemas-christmas-present-to-dems-a-blunt-reality-check-495489"> Manchinema’s Christmas present to Dems: A blunt reality check</a> Politico Playbook: And Kevin McCarthy faces pressure to punish Liz Cheney and Adam Kinzinger. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
+ <a href="https://www.politico.com/news/2021/12/16/jan-6-gohmert-lawsuit-pence-524839">The Jan. 6 puzzle piece that's going largely ignored</a> Politico: Rep. Louie Gohmert  sued then-Vice President Mike Pence on Dec. 27. Donald Trump’s involvement in the case remains unclear. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/build-back-better-progressives-power-524783">‘Know when to hold and know when to fold’: Progressives accept limits of their power</a> Politico: House liberals dug in hard this year on social spending. Whatever Sen. Joe Manchin (D-W.Va.) does, they're ready to declare a win. 
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
