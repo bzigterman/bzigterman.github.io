@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:38 PM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59738052?at_medium=RSS&at_campaign=KARANGA">Hong Kong election: China rejects democracy concerns from West</a> BBC: The US, Britain and others had criticised the tightly-controlled vote for "eroding democracy". 
  <p class="updated_time"> 11:28 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/japan-rakugo.html">She Broke Japan’s Comedic Barrier Playing Drunks and Fools (Yep, Men)</a> NYT: Niyo Katsura has won acclaim in rakugo, a classical form of Japanese storytelling, by doing anything onstage that a man can do. 
  <p class="updated_time"> 10:57 PM CT, Dec. 20 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/20/1065979944/covid-royal-caribbean-symphony-of-the-seas-cruise-ship">48 tested positive for COVID-19 on Royal Caribbean cruise ship docking in Miami</a> NPR: The seven-night cruise ended in Miami on Saturday after making three stops in the Caribbean. More than 6,000 people were on the ship, which required testing and those 12 and over to be vaccinated. 
  <p class="updated_time"> 02:48 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/nyregion/nyc-omicron-de-blasio.html">NYC Mayor: City Needs to Move Faster to Fight Omicron </a> NYT: In a news conference, Bill de Blasio said the next surge would likely be large but temporary. 
- <p class="updated_time"> 01:53 PM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59715941?at_medium=RSS&at_campaign=KARANGA">Leftist Gabriel Boric to become Chile's youngest ever president</a> BBC: Gabriel Boric, 35, says he will look after democracy after a convincing win over his far-right rival. 
  <p class="updated_time"> 01:47 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/sports/rafael-nadal-covid.html">Rafael Nadal Tests Positive for the Coronavirus</a> NYT: The Spanish tennis star said he was isolating at home. The test further jeopardized his hopes of playing in next month’s Australian Open. 
  <p class="updated_time"> 01:18 PM CT, Dec. 20 </p> 
