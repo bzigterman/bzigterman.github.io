@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:48 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59738053?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Sex and the City actresses show support for accusers</a> BBC: Three Sex And The City actresses issue a joint statement after co-star is accused of sexual assault. 
  <p class="updated_time"> 02:06 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066166281/new-wave-of-syrian-migrants-fleeing-post-war-misery">New wave of Syrian migrants fleeing post-war misery</a> NPR: While the numbers are far below the levels during the height of the civil war, the number of Syrians applying for asylum in the EU increased 70% over last year. 
  <p class="updated_time"> 01:33 AM CT, Dec. 21 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/20/1065865472/omicron-holiday-travel-gatherings-restrictions-world">As omicron surges, nations announce rules on gatherings and travel ahead of holidays</a> NPR: European nations have implemented a wave of new restrictions as case numbers rise. And Israel has added the U.S. and Canada to its "red list" of countries that citizens are barred from traveling to. 
  <p class="updated_time"> 12:33 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/ireland-cure-folk-medicine.html">Secret Charms and 7th Sons: ‘The Cure’ Is Alive and Well in Ireland</a> NYT: Belief in the benefits of the cure, a type of folk medicine that interweaves home remedies with superstition, religion and a sprinkle of magic is still a way of life in pockets of Ireland. 
- <p class="updated_time"> 12:19 PM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59730354?at_medium=RSS&at_campaign=KARANGA">Alaa Abdel Fattah: Leading Egyptian activist jailed for five years</a> BBC: Alaa Abdel Fattah is convicted of spreading false news after a trial called a sham by rights groups. 
  <p class="updated_time"> 12:18 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/pope-domestic-violence-almost-satanic.html">Pope Francis Says High Number of Domestic Violence Cases Is ‘Almost Satanic’</a> NYT: Francis once again decried the scourge of domestic abuse, which has increased during the months of pandemic lockdown. 
  <p class="updated_time"> 12:16 PM CT, Dec. 20 </p> 
@@ -115,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/davos-delayed-over-omicron-uncertainty-11640003584">Davos Economic Forum Is Postponed as Omicron Leads to More Cancellations, Travel Bans</a> WSJ: As the Covid-19 variant spreads, Israel is set to bar its citizens from traveling to the U.S. and Canada and the World Economic Forum said it would postpone next month’s annual meeting for the second successive year. 
  <p class="updated_time"> 09:39 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59728144?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Bruce Springsteen's back catalogue - who bought it?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
- <p class="updated_time"> 09:03 AM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59730522?at_medium=RSS&at_campaign=KARANGA">What is Russia's Vladimir Putin planning?</a> BBC: The BBC's Steve Rosenberg looks at what might be on the Russian leader's mind amid growing tensions. 
  <p class="updated_time"> 08:56 AM CT, Dec. 20 </p> 
  <a href="https://www.wsj.com/articles/egyptian-court-sentences-three-activists-despite-international-pressure-11640019548">Egyptian Court Sentences Activists Despite International Pressure</a> WSJ: The political dissident Alaa Abdel-Fattah and two others were sent to prison on charges of joining a terrorist group and spreading false news 
  <p class="updated_time"> 07:27 AM CT, Dec. 20 </p> 
