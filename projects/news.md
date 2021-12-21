@@ -39,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59664078?at_medium=RSS&at_campaign=KARANGA">Berlusconi seeks comeback role as Italian president</a> BBC: Despite the scandals and a tax fraud conviction, Italy's most colourful ex-PM could be head of state. 
  <p class="updated_time"> 06:29 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59697807?at_medium=RSS&at_campaign=KARANGA">Omicron: South African scientists probe link between variants and untreated HIV</a> BBC: Covid variants may be mutating inside people with suppressed immunity. 
+ <p class="updated_time"> 06:26 PM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59600475?at_medium=RSS&at_campaign=KARANGA">Why China could win the new global arms race</a> BBC: China has a long-term plan to rival the world's biggest military powers. 
  <p class="updated_time"> 06:20 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/ted-cruz-biden-ukraine.html">Deal With Ted Cruz Sets Stage for Russia Pipeline Fight in Early 2022</a> NYT: The Texas Republican leveraged his obstruction of diplomatic nominees into a Senate vote that could complicate President Biden’s efforts to defend Ukraine. 
  <p class="updated_time"> 06:06 PM CT, Dec. 20 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59722801?at_medium=RSS&at_campaign=KARANGA">Chile election: Laser shone at Gabriel Boric during victory speech</a> BBC: The bouncing green light did not seem to faze Gabriel Boric as he spoke to supporters in Santiago. 
  <p class="updated_time"> 07:45 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/washington-senator-covid-dead-doug-eriksen.html">Washington State Senator Doug Eriksen Died After Covid Infection</a> NYT: Doug Ericksen was a Republican who helped lead opposition to Washington State’s Covid-19 emergency orders and vaccine mandates. 
- <p class="updated_time"> 07:03 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59689710?at_medium=RSS&at_campaign=KARANGA">Algeria and a question of identity: Who counts as African?</a> BBC: North Africans love the Cup of Nation but for some, their African identity is open to question. 
  <p class="updated_time"> 06:59 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59667645?at_medium=RSS&at_campaign=KARANGA">The world's first octopus farm - should it go ahead?</a> BBC: The world’s first commercial octopus farm is closer to becoming reality - but scientists are up in arms. 
  <p class="updated_time"> 06:51 PM CT, Dec. 19 </p> 
