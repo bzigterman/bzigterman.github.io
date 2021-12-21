@@ -8,13 +8,13 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066167265/biden-to-announce-free-covid-tests-more-aid-for-hospitals-to-deal-with-omicron">Biden to announce free COVID tests, more aid for hospitals to deal with omicron </a> NPR: The U.S. government plans to buy a half billion at-home COVID test kits and mail them to people who want them, with deliveries beginning in January. 
- <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/russia-putin-ukraine-military.html">How the Kremlin Is Militarizing Russian Society</a> NYT: With a “youth army,” a cathedral honoring the military and state media promoting patriotism, the government is preparing Russians for the possibility of a fight. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/technology/congress-microsoft-google-suicide-website.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee is seeking briefings from search engines and web-hosting companies whose services might have been leveraged by the site, which has been linked to numerous deaths. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/style/banker-comedian-shaun-eli-breidbart.html">A Wall Street Banker Turned to Comedy for Happiness and a Career Change</a> NYT: Shaun Eli Breidbart was a banker on Wall Street for 19 years but he gave up a lucrative career in favor of happiness. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066167265/biden-to-announce-free-covid-tests-more-aid-for-hospitals-to-deal-with-omicron">Biden to announce free COVID tests, more aid for hospitals to deal with omicron </a> NPR: The U.S. government plans to buy a half billion at-home COVID test kits and mail them to people who want them, with deliveries beginning in January. 
  <p class="updated_time"> 03:50 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59737194?at_medium=RSS&at_campaign=KARANGA">Boeing and Airbus warn US over 5G safety concerns</a> BBC: The world's two biggest plane makers say the technology could have a negative impact on the aviation industry. 
  <p class="updated_time"> 03:43 AM CT, Dec. 21 </p> 
@@ -33,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59723341?at_medium=RSS&at_campaign=KARANGA">Malaysia: Death toll rises after massive floods</a> BBC: At least 14 are dead and tens of thousands are displaced by one of the worst floods in decades. 
  <p class="updated_time"> 11:38 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59738052?at_medium=RSS&at_campaign=KARANGA">Hong Kong election: China rejects democracy concerns from West</a> BBC: The US, Britain and others had criticised the tightly-controlled vote for "eroding democracy". 
+ <p class="updated_time"> 11:30 PM CT, Dec. 20 </p> 
+ <a href="https://www.wsj.com/articles/booming-u-s-economy-ripples-world-wide-straining-supply-chains-and-driving-up-prices-11640082604">Booming U.S. Economy Ripples World-Wide, Straining Supply Chains and Driving Up Prices</a> WSJ: The force of the American expansion is inducing overseas companies to invest in the U.S., betting that the growth is still accelerating and will outpace other major economies. 
  <p class="updated_time"> 11:28 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/japan-rakugo.html">She Broke Japan’s Comedic Barrier Playing Drunks and Fools (Yep, Men)</a> NYT: Niyo Katsura has won acclaim in rakugo, a classical form of Japanese storytelling, by doing anything onstage that a man can do. 
  <p class="updated_time"> 10:57 PM CT, Dec. 20 </p> 
@@ -194,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:38 AM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/biden-covid-omicron-free-at-home-tests/index.html">Biden to announce plan for free at-home tests as he assures vaccinated Americans they don't need to cancel holiday plans</a> CNN: President Joe Biden will announce Tuesday a purchase of a half-billion at-home rapid Covid-19 tests and a plan to distribute them free to Americans who request them through a website, one of a series of new steps he'll unveil as the country faces a potentially crippling wintertime surge of infections. 
  <p class="updated_time"> 04:17 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/joe-biden-omicron-covid-testing/index.html">Biden administration finds itself on defense as Omicron races across the US</a> CNN: The Biden administration is once again on the defensive as the pandemic cuts its wildly unpredictable course, upending American lives with the holidays around the corner and the tools that could make for safer gathering -- widespread, easily available testing -- in short supply nearly two years into the crisis. 
  <p class="updated_time"> 04:16 AM CT, Dec. 21 </p> 
@@ -202,16 +206,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066169843/how-w-va-politics-affect-sen-manchins-opposition-to-bidens-key-policy-proposal">How W.Va. politics affect Sen. Manchin's opposition to Biden's key policy proposal</a> NPR: NPR's Scott Detrow talks to ProPublica reporter Ken Ward Jr. about the political forces that shaped West Virginia Democratic Sen. Joe Manchin's opposition to President Biden's Build Back Better bill. 
  <p class="updated_time"> 04:16 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066169808/the-environmental-protection-agency-announces-new-vehicle-emission-standards">The Environmental Protection Agency announces new vehicle emission standards</a> NPR: The Biden administration, reversing another Trump rollback, is tightening vehicle fuel mileage standards. It comes as much of Biden's other climate plans are at risk. 
- <p class="updated_time"> 04:01 AM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/biden-covid-omicron-free-at-home-tests/index.html">Biden to announce plan for free at-home tests as he assures vaccinated Americans they don't need to cancel holiday plans</a> CNN: President Joe Biden will announce Tuesday a purchase of a half-billion at-home rapid Covid-19 tests and a plan to distribute them free to Americans who request them through a website, one of a series of new steps he'll unveil as the country faces a potentially crippling wintertime surge of infections. 
- <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066167265/biden-to-announce-free-covid-tests-more-aid-for-hospitals-to-deal-with-omicron">Biden to announce free COVID tests, more aid for hospitals to deal with omicron </a> NPR: The U.S. government plans to buy a half billion at-home COVID test kits and mail them to people who want them, with deliveries beginning in January. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1065337316/south-portland-mayor-somali-american">Deqa Dhalac is the first Somali-American mayor in the United States</a> NPR: After fleeing Somalia some 30 years ago, Dhalac became this country's first Somali-American mayor earlier this month, elected in a city that's 90% white. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/technology/congress-microsoft-google-suicide-website.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee is seeking briefings from search engines and web-hosting companies whose services might have been leveraged by the site, which has been linked to numerous deaths. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/biden-speech-omicron-covid.html">To Fight Omicron, Biden Plans Aid From Military and 500 Million Tests</a> NYT: The president is set to unveil his initiatives, which also include creating new federal testing sites and deploying federal vaccinators, in a speech on Tuesday. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066167265/biden-to-announce-free-covid-tests-more-aid-for-hospitals-to-deal-with-omicron">Biden to announce free COVID tests, more aid for hospitals to deal with omicron </a> NPR: The U.S. government plans to buy a half billion at-home COVID test kits and mail them to people who want them, with deliveries beginning in January. 
  <p class="updated_time"> 12:15 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/california-redistricting-midterms-525815">California’s new congressional map boosts Democrats</a> Politico: The final maps were approved late Monday by the state’s independent redistricting commission. 
  <p class="updated_time"> 11:01 PM CT, Dec. 20 </p> 
