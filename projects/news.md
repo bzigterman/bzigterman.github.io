@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:32 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59740528?at_medium=RSS&at_campaign=KARANGA">Ghanaian MPs brawl in parliament over e-money tax</a> BBC: Lawmakers trade blows during a chaotic session over a proposed levy on electronic transactions. 
  <p class="updated_time"> 05:14 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59723341?at_medium=RSS&at_campaign=KARANGA">Malaysia: Death toll rises after massive floods</a> BBC: At least 14 are dead and tens of thousands are displaced by some of the worst floods in decades. 
  <p class="updated_time"> 04:47 AM CT, Dec. 21 </p> 
@@ -107,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/codeswitch/2021/12/20/255821310/the-many-contradictions-of-latin-music">The many contradictions of 'Latin Music'</a> NPR: For some, the term 'Latin music' is too broad to be meaningful. For others, it invokes a sense of pride and resistance. To help break it down, we spoke to an expert on race and music and pop culture. 
  <p class="updated_time"> 11:40 AM CT, Dec. 20 </p> 
  <a href="https://www.wsj.com/articles/novavaxs-covid-19-vaccine-recommended-for-use-in-eu-11640010462">Novavax's Covid-19 Vaccine Approved by EU</a> WSJ: Novavax’s vaccine has been recommended for use by the European Medicines Agency, marking the first endorsement by a major regulator of a shot that uses an established vaccine technology. 
- <p class="updated_time"> 11:33 AM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59733807?at_medium=RSS&at_campaign=KARANGA">Young pupils allegedly forced to re-enact Holocaust in Washington school</a> BBC: An investigation is underway regarding the alleged incident involving young pupils in Washington DC. 
  <p class="updated_time"> 11:17 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/africa/drones-ethiopia-war-turkey-emirates.html">Foreign Drones Tip the Balance in Ethiopia’s Civil War</a> NYT: Prime Minister Abiy Ahmed pulled off a stunning reversal in the year-old conflict with the help of armed drones supplied by the United Arab Emirates, Turkey and Iran. 
  <p class="updated_time"> 11:15 AM CT, Dec. 20 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/21/the-search-for-a-plan-b-begins-495529"> The search for a Plan B begins</a> Politico Playbook: And Biden plans to deliver another big Covid speech. 
+ <p class="updated_time"> 05:38 AM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/vladislav-klyushin-russian-insider-trading-extradited/index.html">Russian businessman with Kremlin ties extradited to US and charged in multi-million-dollar insider trading scheme</a> CNN: A Russian businessman was extradited to the US this weekend from Switzerland to face charges in an insider trading scheme worth tens of millions of dollars for allegedly hacking into US computer networks, the Justice Department announced on Monday. 
  <p class="updated_time"> 05:17 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/biden-covid-omicron-free-at-home-tests/index.html">Biden to announce plan for free at-home tests as he assures vaccinated Americans they don't need to cancel holiday plans</a> CNN: President Joe Biden will announce Tuesday a purchase of a half-billion at-home rapid Covid-19 tests and a plan to distribute them free to Americans who request them through a website, one of a series of new steps he'll unveil as the country faces a potentially crippling wintertime surge of infections. 
  <p class="updated_time"> 05:00 AM CT, Dec. 21 </p> 
@@ -302,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/republicans-navy-seal-vaccine-525773">Almost 50 Republicans back Navy SEAL lawsuit over vaccine mandate</a> Politico: The group of lawmakers, which includes nine senators and 38 representatives, is led by Sens. Ted Cruz, Jim Inhofe and Roger Marshall. 
  <p class="updated_time"> 02:25 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/alex-jones-sues-jan-6-committee-indicates-plan-to-plead-the-fifth-525770">Alex Jones sues Jan. 6 committee, indicates plan to plead the Fifth</a> Politico: In the lawsuit, Jones says he intends to assert his Fifth Amendment rights against self-incrimination. 
- <p class="updated_time"> 02:10 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/vladislav-klyushin-russian-insider-trading-extradited/index.html">Russian businessman with Kremlin ties extradited to US and charged in multi-million-dollar insider trading scheme</a> CNN: A Russian businessman was extradited to the US this weekend from Switzerland to face charges in an insider trading scheme worth tens of millions of dollars for allegedly hacking into US computer networks, the Justice Department announced on Monday. 
  <p class="updated_time"> 02:08 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/pelosi-reaction-build-back-better/index.html">Pelosi says Democrats 'will not let this opportunity pass' on Build Back Better Act despite Manchin's stance</a> CNN: House Speaker Nancy Pelosi projected confidence Monday, vowing Democrats will not give up on passing the Build Back Better Act, despite Sen. Joe Manchin saying he will not vote for the package in its current form. 
  <p class="updated_time"> 01:26 PM CT, Dec. 20 </p> 
