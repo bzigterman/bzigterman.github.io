@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:48 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans, and military medical personnel are being prepared to help overwhelmed U.S. hospitals. Germany, Sweden and Scotland tightened restrictions. 
+ <p class="updated_time"> 01:48 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee sought briefings from search engines whose services might have been leveraged by the site, which has been linked to numerous deaths. Seven House members asked the Justice Department about avenues for investigation. 
+ <p class="updated_time"> 01:44 PM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59749005?at_medium=RSS&at_campaign=KARANGA">Madagascar: Minister 'swims for 12 hours' after helicopter crashes at sea</a> BBC: The Madagascar police minister was part of a team looking for survivors after a boat accident. 
  <p class="updated_time"> 01:37 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/americas/chile-boric.html">Who Is Gabriel Boric, Chile's Next President?</a> NYT: Mr. Boric, 35, is now the most prominent face of a generation of Chileans who are calling for a break with the past. 
- <p class="updated_time"> 01:33 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden to Detail New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans, and military medical personnel are being prepared to help overwhelmed U.S. hospitals. Germany, Sweden and Scotland tightened restrictions. 
  <p class="updated_time"> 01:24 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/ted-cruz-biden-ukraine.html">Deal With Ted Cruz Sets Stage for Russia Pipeline Fight in Early 2022</a> NYT: The Texas Republican leveraged his obstruction of diplomatic nominees into a Senate vote that could complicate President Biden’s efforts to defend Ukraine. 
- <p class="updated_time"> 12:57 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee is seeking briefings from search engines and web-hosting companies whose services might have been leveraged by the site, which has been linked to numerous deaths. 
  <p class="updated_time"> 12:38 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/france-italy-covid-vaccination-fakes.html">France Uncovers Over 180,000 Fake Covid Passes</a> NYT: The developments suggest that resistance to Europe’s vaccination requirements remains significant. 
  <p class="updated_time"> 12:37 PM CT, Dec. 21 </p> 
@@ -204,16 +206,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:48 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee sought briefings from search engines whose services might have been leveraged by the site, which has been linked to numerous deaths. Seven House members asked the Justice Department about avenues for investigation. 
+ <p class="updated_time"> 01:35 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/robert-lemke-capitol-riot.html">Robert Lemke Sentenced to 3 Years Over Threats to Journalists and Politicians</a> NYT: The same day that Trump supporters stormed the Capitol, Robert Lemke told a congressman’s brother that he was with “armed members near your home,” prosecutors said. 
  <p class="updated_time"> 01:30 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/democrats-tax-plans-525855">Democrats not giving up on tax plans despite spending bill blowup</a> Politico: Sen. Joe Manchin continues to cast a skeptical eye at what many Democrats believe to be a centerpiece of their agenda — the more generous version of the Child Tax Credit. 
  <p class="updated_time"> 01:24 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/ted-cruz-biden-ukraine.html">Deal With Ted Cruz Sets Stage for Russia Pipeline Fight in Early 2022</a> NYT: The Texas Republican leveraged his obstruction of diplomatic nominees into a Senate vote that could complicate President Biden’s efforts to defend Ukraine. 
+ <p class="updated_time"> 01:21 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/81-year-old-january-6-defendant-wickersham/index.html">81-year-old US Capitol rioter sentenced to three years of probation</a> CNN: An 81-year-old Army veteran was sentenced to three years of probation on Tuesday for illegally breaching the US Capitol on January 6. 
  <p class="updated_time"> 01:18 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/business/economy/kellogg-union-strike-contract.html">Kellogg Workers Ratify Contract After Being on Strike Since October</a> NYT: Union members had rejected an earlier proposal in early December, prolonging a strike by about 1,400 workers at four cereal plants. 
  <p class="updated_time"> 01:09 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/scott-perry-january-6-committee/index.html">GOP Rep. Scott Perry declines January 6 committee's request to speak with him</a> CNN: Republican Rep. Scott Perry on Tuesday declined the House January 6 committee's request to speak with him. 
- <p class="updated_time"> 12:57 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee is seeking briefings from search engines and web-hosting companies whose services might have been leveraged by the site, which has been linked to numerous deaths. 
  <p class="updated_time"> 12:36 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/wall-street-manchin-covid-growth-expectations-525845">Dems' 2022 prospects hit with one-two blow on economy</a> Politico: While the surge in Covid cases threatens to undercut growth, much of the effect will depend on how policymakers respond. 
  <p class="updated_time"> 12:20 PM CT, Dec. 21 </p> 
@@ -328,10 +334,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/20/1066106160/white-house-staffer-on-air-force-one-tests-positive-for-covid-biden-tests-negati">White House staffer on Air Force One tests positive for COVID. Biden tests negative</a> NPR: A staffer who on Friday flew aboard Air Force One with the president tested positive for the coronavirus on Monday, the White House said. 
  <p class="updated_time"> 06:36 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/jan-6-committee-trump-criminal-referral.html">Jan. 6 Committee Weighs Possibility of Criminal Referrals</a> NYT: The House panel is examining whether there is enough evidence to recommend that the Justice Department pursue cases against Donald J. Trump and others. 
- <p class="updated_time"> 06:30 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/january-6-rioter-sentenced-assaulting-police-officer/index.html">January 6 rioter gets nearly four years in prison for assaulting police officer</a> CNN: An Ohio man was sentenced to 46 months in jail for assaulting a police officer with a dangerous weapon in a tunnel at the US Capitol on January 6. 
  <p class="updated_time"> 05:19 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1066060178/alex-jones-infowars-trump-conspiracy-theorist-jan-6-committee-capitol-perry">GOP Rep. Scott Perry is the first sitting lawmaker the Jan. 6 panel wants to question</a> NPR: Perry said Tuesday that he declines the request. He is the first sitting lawmaker that the panel has sought to question from regarding the Jan. 6 Capitol insurrection. 
+ <a href="https://www.npr.org/2021/12/20/1066060178/alex-jones-infowars-trump-conspiracy-theorist-jan-6-committee-capitol-perry">As Jan. 6 panel seeks cooperation from Rep. Scott Perry, he says no </a> NPR: Perry said Tuesday that he's declining the request. He is the first sitting lawmaker that the panel has sought to question from regarding the Jan. 6 Capitol insurrection. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/climate/tailpipe-rules-climate-biden.html">E.P.A. Announces Tightest-Ever Auto Pollution Rules</a> NYT: Under the new plan, designed to reduce planet-warming tailpipe emissions, new vehicles would be required to average 55 miles per gallon starting in 2026. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
@@ -376,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/20/the-case-for-why-bbb-is-dead-and-for-why-it-may-not-be-495522"> The case for why BBB is dead — and for why it may not be</a> Politico Playbook: And Rep. Albio Sires (D-N.J.) won’t run for reelection. 
  <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/cdc-covid-omicron-delta-tracking-525621">‘It is embarrassing’: CDC struggles to track Covid cases as Omicron looms</a> Politico: The U.S. was behind other countries in charting the spread of disease in the pandemic’s disastrous early months. It’s still behind as new variants threaten to disrupt the winter. 
- <p class="updated_time"> 02:00 AM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/amtrak-expansion-funding-infrastructure-bill.html">Billions in Amtrak Funding Could Modernize Aging Rail System</a> NYT: The $1 trillion infrastructure bill that President Biden signed into law includes money that Amtrak hopes can fix crumbling bridges and tunnels along the Northeast Corridor. 
  <p class="updated_time"> 07:59 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">White House issues damning statement against Manchin after saying he won't vote for Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 07:56 PM CT, Dec. 19 </p> 
