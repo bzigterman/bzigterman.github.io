@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:14 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59723341?at_medium=RSS&at_campaign=KARANGA">Malaysia: Death toll rises after massive floods</a> BBC: At least 14 are dead and tens of thousands are displaced by some of the worst floods in decades. 
  <p class="updated_time"> 04:47 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/australia/new-zealand-omicron-response.html">New Zealand and Other Asia Pacific Countries Respond to Omicron</a> NYT: New Zealand is taking measures to limit the spread of Omicron, including delaying the reopening of its borders. It has detected 22 cases of Omicron in international arrivals. 
+ <p class="updated_time"> 04:34 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59739563?at_medium=RSS&at_campaign=KARANGA"> 'Biggest divorce case in British legal history'</a> BBC: A UK court publishes a ruling in the divorce case of Sheikh Mohammed and his ex-wife Princess Haya. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/europe/russia-putin-ukraine-military.html">How the Kremlin Is Militarizing Russian Society</a> NYT: With a “youth army,” a cathedral honoring the military and state media promoting patriotism, the government is preparing Russians for the possibility of a fight. 
+ <a href="https://www.nytimes.com/2021/12/21/world/europe/russia-military-putin-kremlin.html">How the Kremlin Is Militarizing Russian Society</a> NYT: With a “youth army,” a cathedral honoring the military and state media promoting patriotism, the government is preparing Russians for the possibility of a fight. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/technology/congress-microsoft-google-suicide-website.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee is seeking briefings from search engines and web-hosting companies whose services might have been leveraged by the site, which has been linked to numerous deaths. 
+ <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee is seeking briefings from search engines and web-hosting companies whose services might have been leveraged by the site, which has been linked to numerous deaths. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/style/banker-comedian-shaun-eli-breidbart.html">A Wall Street Banker Turned to Comedy for Happiness and a Career Change</a> NYT: Shaun Eli Breidbart was a banker on Wall Street for 19 years but he gave up a lucrative career in favor of happiness. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066166281/new-wave-of-syrian-migrants-fleeing-post-war-misery">New wave of Syrian migrants fleeing post-war misery</a> NPR: While the numbers are far below the levels during the height of the civil war, the number of Syrians applying for asylum in the EU increased 70% over last year. 
  <p class="updated_time"> 01:33 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066163872/mexican-cartels-turning-to-meth-and-fentanyl-production">Mexican cartels turning to meth and fentanyl production</a> NPR: Cartels are increasingly turning to huge, industrial-scale labs to churn out synthetic drugs as they shift away from naturally grown drugs like opium and marijuana. 
- <p class="updated_time"> 11:44 PM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59723341?at_medium=RSS&at_campaign=KARANGA">Malaysia: Death toll rises after massive floods</a> BBC: At least 14 are dead and tens of thousands are displaced by one of the worst floods in decades. 
  <p class="updated_time"> 11:38 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59738052?at_medium=RSS&at_campaign=KARANGA">Hong Kong election: China rejects democracy concerns from West</a> BBC: The US, Britain and others had criticised the tightly-controlled vote for "eroding democracy". 
  <p class="updated_time"> 11:30 PM CT, Dec. 20 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/europe/france-valerie-pecresse-republicans.html">In a France Fearful of Immigrants, Another Candidate Tacks Hard Right</a> NYT: Valérie Pécresse, the center-right candidate in April’s presidential election, has adopted the vocabulary of the far right when discussing immigration. 
  <p class="updated_time"> 09:02 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/middleeast/israel-iran-nuclear-attack.html">Israeli Defense Officials Cast Doubt on Threat to Attack Iran</a> NYT: Israel has threatened military action to destroy Iran’s nuclear program if need be. But defense officials say Israel does not have the ability, at least not anytime soon. 
- <p class="updated_time"> 05:00 AM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/canada/newfoundland-atlantic-pandemic.html">Why Are So Many Canadians Moving to the Atlantic Provinces?</a> NYT: A Times reporter fulfills his lifelong dream of visiting Newfoundland and explores why so many Canadians are moving to the country’s Atlantic provinces. 
 
 
 </details>
@@ -196,8 +196,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:38 AM CT, Dec. 21 </p> 
+ <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/21/the-search-for-a-plan-b-begins-495529"> The search for a Plan B begins</a> Politico Playbook: And Biden plans to deliver another big Covid speech. 
+ <p class="updated_time"> 05:17 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/biden-covid-omicron-free-at-home-tests/index.html">Biden to announce plan for free at-home tests as he assures vaccinated Americans they don't need to cancel holiday plans</a> CNN: President Joe Biden will announce Tuesday a purchase of a half-billion at-home rapid Covid-19 tests and a plan to distribute them free to Americans who request them through a website, one of a series of new steps he'll unveil as the country faces a potentially crippling wintertime surge of infections. 
+ <p class="updated_time"> 05:00 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/biden-omicron-testing-hospitals-525811">Biden plans to expand testing and reinforce hospitals facing Omicron</a> Politico: The initiatives come as Omicron blankets the U.S. and amount to a redeployment of emergency defenses seen last year. 
+ <p class="updated_time"> 04:31 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/dnc-state-parties-525765">DNC, state parties clash over coveted voter data</a> Politico: The Democratic National Committee and the early-nominating states are squabbling over how much to charge presidential candidates for valuable voter files. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/recovery-lab-hackathon-states-managing-covid-524852">Policy Hackathon: What states have learned — the hard way — about managing Covid</a> Politico: We asked states who topped POLITICO’s pandemic scorecard to compare notes on balancing Covid’s deadly trade-offs. Here’s what they said. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/amazon-federal-law-enforcement-525794">How Amazon cultivates close ties to federal law enforcement </a> Politico: The company has increasingly tipped off the Justice Department and FBI to investigate Amazon’s own employees and the sellers using its platform, according to a POLITICO analysis.  
+ <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/democrats-riled-by-spanish-language-radio-attacks-on-kamala-harris-525787">Democrats riled by Spanish-language radio attacks on Kamala Harris</a> Politico: Political operatives and the radio hosts themselves say the uptick in calls is notable. Who, if anyone, is behind them remains unclear. 
  <p class="updated_time"> 04:17 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/joe-biden-omicron-covid-testing/index.html">Biden administration finds itself on defense as Omicron races across the US</a> CNN: The Biden administration is once again on the defensive as the pandemic cuts its wildly unpredictable course, upending American lives with the holidays around the corner and the tools that could make for safer gathering -- widespread, easily available testing -- in short supply nearly two years into the crisis. 
  <p class="updated_time"> 04:16 AM CT, Dec. 21 </p> 
@@ -209,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1065337316/south-portland-mayor-somali-american">Deqa Dhalac is the first Somali-American mayor in the United States</a> NPR: After fleeing Somalia some 30 years ago, Dhalac became this country's first Somali-American mayor earlier this month, elected in a city that's 90% white. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/technology/congress-microsoft-google-suicide-website.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee is seeking briefings from search engines and web-hosting companies whose services might have been leveraged by the site, which has been linked to numerous deaths. 
+ <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee is seeking briefings from search engines and web-hosting companies whose services might have been leveraged by the site, which has been linked to numerous deaths. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/omicron-covid-biden.html">To Fight Omicron, Biden Plans Aid From Military and 500 Million Tests</a> NYT: The president is set to unveil his initiatives, which also include creating new federal testing sites and deploying federal vaccinators, in a speech on Tuesday. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
@@ -316,12 +328,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/trump-sues-ny-attorney-general-525736">Trump sues N.Y. attorney general James to block fraud probes</a> Politico: The case accuses James of violating the civil rights of Trump and the Trump Organization. 
  <p class="updated_time"> 11:01 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/supreme-court-kavanaugh-osha-vaccine-mandate-omicron/index.html">Supreme Court receives appeals asking Kavanaugh to block large employer vaccine mandate</a> CNN: The Supreme Court Monday said it has received several appeals asking Justice Brett Kavanaugh to consider the Biden administration's requirement that large employers mandate their employees obtain a Covid-19 vaccine or submit to weekly testing. 
- <p class="updated_time"> 10:53 AM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/maryland-governor-larry-hogan-positive-covid-525733">Maryland Gov. Hogan announces positive Covid test</a> Politico: Sens. Cory Booker and Elizabeth Warren have also announced cases in recent days. 
  <p class="updated_time"> 10:35 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/filibuster-senate-voting-rights.html">Schumer Will Try to Change Senate Rules if G.O.P. Stalls Voting Bill</a> NYT: The Senate majority leader still lacks the votes to alter the filibuster, but he said he will renew the effort to enact voting rights measures as early as the first week of January. 
- <p class="updated_time"> 10:04 AM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/davos-is-dead-525732">Davos is dead</a> Politico: The world’s most elite conference is postponed, again. 
  <p class="updated_time"> 09:50 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/afghan-evacuees-future-525725">Thousands of Afghans stuck at U.S. military bases face long road to resettlement</a> Politico: More than 29,000 Afghans remain on U.S. military bases thanks, in part, to a shortage of affordable housing and the pandemic. 
  <p class="updated_time"> 07:47 AM CT, Dec. 20 </p> 
@@ -388,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/18/cruz-vote-russian-pipeline-sanctions-schumer-525334">Cruz secures vote on Russian pipeline sanctions in deal with Schumer</a> Politico: Cruz agreed to lift his holds on 32 nominees in exchange for the Senate voting in early January on his legislation to sanction the pipeline. 
  <p class="updated_time"> 07:52 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/stop-the-steal-founder-jan-6-committee-gop-lawmakers-525345">‘Stop the Steal’ founder told Jan. 6 committee about contacts with GOP lawmakers</a> Politico: The description of the testimony comes in a lawsuit Ali Alexander filed to block the committee from obtaining his phone records. 
- <p class="updated_time"> 07:01 AM CT, Dec. 18 </p> 
- <a href="https://www.politico.com/news/2021/12/18/covid-omicron-booster-vaccines-525308">Bad Covid winter brings questions about what's 'fully vaccinated'</a> Politico: Discussions within the administration are focused on whether a third shot should be considered part of the original Covid-19 vaccine regimen. 
  <p class="updated_time"> 08:22 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/appeals-court-lifts-stay-vaccine-or-test-525313">Appeals court lifts stay on administration's vaccine-or-test mandate for large businesses</a> Politico: Business groups quickly filed an appeal to the Supreme Court. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
@@ -432,8 +438,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/15/a-junkies-guide-to-the-2022-midterms-495470"> A junkie’s guide to the 2022 midterms</a> Politico Playbook: And the House votes to hold Mark Meadows in contempt of Congress. 
  <p class="updated_time"> 11:41 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/house-islam-omar-perry-boebert-524536">Amid caustic rhetoric, House votes to combat Islamophobia</a> Politico: Rep. Scott Perry accused Rep. Ilhan Omar of connections to terrorism. 
- <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
  <p class="updated_time"> 07:25 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/14/senate-moves-on-debt-defense-house-on-meadows-495455">Senate moves on debt, defense, House on Meadows</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Dec. 14 </p> 
