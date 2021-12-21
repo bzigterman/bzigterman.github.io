@@ -19,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59664078?at_medium=RSS&at_campaign=KARANGA">Berlusconi seeks comeback role as Italian president</a> BBC: Despite the scandals and a tax fraud conviction, Italy's most colourful ex-PM could be head of state. 
  <p class="updated_time"> 06:29 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59697807?at_medium=RSS&at_campaign=KARANGA">Omicron: South African scientists probe link between variants and untreated HIV</a> BBC: Covid variants may be mutating inside people with suppressed immunity. 
- <p class="updated_time"> 06:12 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/world/trump-supporters-booster-shots.html">Donald Trump Said He Got a Booster Shot and His Supporters Booed</a> NYT: At an event in Houston, the former president revealed for the first time publicly that he had received the additional vaccine dose. 
  <p class="updated_time"> 06:06 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59724425?at_medium=RSS&at_campaign=KARANGA">Indian Christians fear attacks or jail over conversions</a> BBC: Christians in Karnataka state say attacks against them have grown ahead of a new anti-conversion law. 
  <p class="updated_time"> 05:54 PM CT, Dec. 20 </p> 
@@ -210,6 +208,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:51 PM CT, Dec. 20 </p> 
+ <a href="https://www.politico.com/news/2021/12/20/ghislaine-maxwell-jury-deliberations-525813">Ghislaine Maxwell jury begins deliberations</a> Politico: The case has brought renewed attention to the Jeffrey Epstein scandals. 
+ <p class="updated_time"> 08:53 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/biden-covid-exposure.html">Biden Was in Close Contact With Official Who Tested Positive for Covid</a> NYT: Administration officials acknowledge that as the highly contagious Omicron variant has surged, a cluster of cases have been reported across the administration. 
+ <p class="updated_time"> 08:52 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/haitian-migrants-biden-border-lawsuit.html">Haitian Migrants File Lawsuit Protesting Treatment by Border Patrol</a> NYT: Images of Border Patrol agents corralling Black migrants prompted criticism of the Biden administration’s response to an influx of thousands in Del Rio, Texas. 
  <p class="updated_time"> 08:22 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/house-democrats-retirements-2022/index.html">'We have got a problem here': Low morale and redistricting hand Democrats a growing retirement issue</a> CNN: There is a growing sense of gloom among Democrats in the House. And every week or so, when another Democratic member of Congress announces they won't run for reelection in 2022, the mood inside the caucus worsens. 
  <p class="updated_time"> 07:50 PM CT, Dec. 20 </p> 
@@ -252,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/biden-and-manchin-speak-525788">Biden and Manchin speak</a> Politico: The two connected and there is a sense that talks around Build Back Better aren't done yet. 
  <p class="updated_time"> 04:25 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/joe-manchin-democratic-party-build-back-better/index.html">Manchin says he still sees himself as a Democrat even after thwarting Build Back Better plan</a> CNN: West Virginia Sen. Joe Manchin said Monday that he still considers himself a Democrat even after he defied his party by torpedoing a key piece of President Joe Biden's domestic agenda. 
- <p class="updated_time"> 04:20 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/haitian-migrants-biden-border-lawsuit.html">Haitian Migrants File Lawsuit Protesting Treatment by Border Patrol</a> NYT: Images of Border Patrol agents corralling Black migrants prompted criticism of the Biden administration’s response to an influx of thousands in Del Rio, Texas. 
  <p class="updated_time"> 04:08 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066017225/rep-brown-who-pushed-to-address-extremism-in-military-reacts-to-pentagon-report">Rep. Brown, who pushed to address extremism in military, reacts to Pentagon report</a> NPR: NPR's Ari Shapiro talks with Maryland Congressman Anthony Brown about the Defense Department's report on Monday about extremism in the military. 
  <p class="updated_time"> 04:00 PM CT, Dec. 20 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/19/politics/adam-kinzinger-trump-investigation-insurrection-cnntv/index.html">Kinzinger says January 6 panel is investigating Trump's involvement in insurrection</a> CNN: Republican Rep. Adam Kinzinger said Sunday the House panel investigating the January 6 Capitol insurrection is looking into whether former President Donald Trump committed a crime with his involvement in the deadly riot. 
  <p class="updated_time"> 12:49 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/19/scoop-manchin-refused-a-call-from-wh-before-killing-bbb-495521"> SCOOP: Manchin ‘refused’ a call from W.H. before killing BBB</a> Politico Playbook: And the latest coronavirus variant raises the alarm across the world. 
- <p class="updated_time"> 12:26 PM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/news/2021/12/19/jared-polis-three-dose-vaccine-525532">Colorado governor supports redefining what it means to be fully vaccinated</a> Politico: Jared Polis also said the unvaccinated are “often victims of misinformation.” 
  <p class="updated_time"> 11:55 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/kinzinger-mccarthy-mcconnell-trump-525531">Kinzinger on McCarthy: ‘I don’t think history books are going to be kind to him’</a> Politico: The Illinois Republican contrasted Kevin McCarthy with Mitch McConnell. 
  <p class="updated_time"> 11:43 AM CT, Dec. 19 </p> 
@@ -388,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/18/politics/white-house-omicron-warning-joe-biden/index.html">Inside the meeting that led to Biden's stark warning about the Omicron winter</a> CNN: President Joe Biden's top health officials came to an afternoon briefing at the White House Thursday with a warning -- and a request. 
  <p class="updated_time"> 03:30 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/harris-charlamagne-tha-god-interview-defends-biden/index.html">Harris defends Biden when questioned whether he or Manchin is President</a> CNN: Vice President Kamala Harris forcefully defended President Joe Biden when recently asked whether he or Sen. Joe Manchin is the president of the United States, as Biden's agenda remains stalled in part because of the West Virginia Democrat. 
- <p class="updated_time"> 02:18 PM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/us/politics/congress-gridlock-democracy.html">Congress Ends ‘Horrible Year’ With Divisions as Bitter as Ever</a> NYT: Democrats’ achievements were overshadowed by legislative setbacks, fallout from the Jan. 6 attack and a sense that Congress was not rising to meet a perilous moment in history. 
  <p class="updated_time"> 11:48 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/white-house-not-budging-student-loans-525357">White House not budging on Feb. 1 end to student loans forgiveness</a> Politico: At a meeting with Biden officials Wednesday, advocates tried to "sound the alarm to them about what we believe to be a very serious political mistake that they’re about to be making." 
  <p class="updated_time"> 09:57 AM CT, Dec. 18 </p> 
