@@ -359,9 +359,9 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">175</td>
-<td class="gt_row gt_right">207</td>
-<td class="gt_row gt_right">+18&percnt;</td></tr>
+<td class="gt_row gt_right">173</td>
+<td class="gt_row gt_right">219</td>
+<td class="gt_row gt_right">+27&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">58</td>
 <td class="gt_row gt_right gt_striped">81</td>
@@ -371,9 +371,9 @@ html {
 <td class="gt_row gt_right">13</td>
 <td class="gt_row gt_right">+44&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">1,060</td>
-<td class="gt_row gt_right gt_striped">1,230</td>
-<td class="gt_row gt_right gt_striped">+16&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">1,090</td>
+<td class="gt_row gt_right gt_striped">1,160</td>
+<td class="gt_row gt_right gt_striped">+6&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">121,000</td>
 <td class="gt_row gt_right">124,000</td>
@@ -385,7 +385,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Monday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Tuesday</td>
     </tr>
   </tfoot>
   
@@ -749,33 +749,33 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">7.2K</td>
-<td class="gt_row gt_right">10K</td>
-<td class="gt_row gt_right">+43&percnt;</td></tr>
+<td class="gt_row gt_right">7.3K</td>
+<td class="gt_row gt_right">11K</td>
+<td class="gt_row gt_right">+44&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">3.6K</td>
+<td class="gt_row gt_right gt_striped">3.1K</td>
 <td class="gt_row gt_right gt_striped">4.0K</td>
-<td class="gt_row gt_right gt_striped">+9&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">+29&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
 <td class="gt_row gt_right">41</td>
-<td class="gt_row gt_right">46</td>
-<td class="gt_row gt_right">+12&percnt;</td></tr>
+<td class="gt_row gt_right">51</td>
+<td class="gt_row gt_right">+26&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">69K</td>
-<td class="gt_row gt_right gt_striped">67K</td>
-<td class="gt_row gt_right gt_striped">&minus;2&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">72K</td>
+<td class="gt_row gt_right gt_striped">65K</td>
+<td class="gt_row gt_right gt_striped">&minus;9&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
+<td class="gt_row gt_right">7.5M</td>
 <td class="gt_row gt_right">7.6M</td>
-<td class="gt_row gt_right">7.6M</td>
-<td class="gt_row gt_right">+1&percnt;</td></tr>
+<td class="gt_row gt_right">+2&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Pct. Fully Vaccinated</td>
+<td class="gt_row gt_right gt_striped">59</td>
 <td class="gt_row gt_right gt_striped">60</td>
-<td class="gt_row gt_right gt_striped">60</td>
-<td class="gt_row gt_right gt_striped">+1&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">+2&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Monday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Tuesday</td>
     </tr>
   </tfoot>
   
@@ -1570,8 +1570,8 @@ html {
 
 As of Monday, the 14-day percent change in average new cases was:
   
-- 19% in Champaign County
-- 42% in Illinois
+- 27% in Champaign County
+- 44% in Illinois
 - 17% in the United States
 - 9% worldwide
 
@@ -1583,7 +1583,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 As of Monday, the 14-day percent change in average new deaths was:
   
-- 41% in Illinois
+- 26% in Illinois
 - -22% in the United States
 - -13% worldwide
 
