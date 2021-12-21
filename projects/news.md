@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:46 PM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066493462/european-treasure-hunter-reunites-american-veteran-with-the-bracelet-he-lost-in-">European treasure hunter reunites American veteran with the bracelet he lost in 1945</a> NPR: A U.S. soldier overseas during World War II lost a bracelet inscribed with his sweetheart's name. A treasure hunter discovered it this fall, and returned it to its rightful owner. 
+ <p class="updated_time"> 04:45 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans, and military medical personnel are being prepared to help overwhelmed U.S. hospitals. Germany, Sweden and Scotland tightened restrictions. 
  <p class="updated_time"> 04:29 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493427/blinken-talked-about-china-and-the-iran-nuclear-deal-at-end-of-year-news-confere">Blinken talked about China and the Iran nuclear deal at end of year news conference</a> NPR: Secretary of State Antony Blinken gave a news conference wrapping up his year, addressing questions about America's credibility after the pullout from Afghanistan. 
- <p class="updated_time"> 04:27 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans, and military medical personnel are being prepared to help overwhelmed U.S. hospitals. Germany, Sweden and Scotland tightened restrictions. 
  <p class="updated_time"> 04:11 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493393/a-water-diversion-project-that-china-is-funding-in-thailand-is-raising-eyebrows">A water diversion project that China is funding in Thailand is raising eyebrows</a> NPR: Plans for a new water diversion project in Thailand are alarming environmentalists. And a Chinese state-owned firm offered to finance it, raising flags with those who fear China's growing influence. 
  <p class="updated_time"> 03:49 PM CT, Dec. 21 </p> 
@@ -53,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59749146?at_medium=RSS&at_campaign=KARANGA">Malaysia hit by the worst floods in decades</a> BBC: At least 14 people have died and tens of thousands evacuated their homes after torrential rain. 
  <p class="updated_time"> 12:12 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59732940?at_medium=RSS&at_campaign=KARANGA">OnlyFans founder is making way for firm's marketing chief</a> BBC: The founder of the content subscription site is stepping aside to focus on new endeavours. 
+ <p class="updated_time"> 11:40 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/as-omicron-takes-over-in-the-u-s-more-curbs-world-wide-11640091714">Biden Is Considering Lifting Travel Ban on Southern African Countries</a> WSJ: The president imposed the ban last month as a way to slow the spread of the Omicron variant to the U.S., “but we’re past that now,” he said Tuesday. 
  <p class="updated_time"> 11:28 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59748169?at_medium=RSS&at_campaign=KARANGA">Spain police thwart raffle of Christmas hamper stuffed with drugs</a> BBC: Police have arrested two men allegedly trying to raffle off a "narco-basket" stuffed with drugs. 
  <p class="updated_time"> 11:23 AM CT, Dec. 21 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/europe/princess-haya-sheikh-mohammed-bin.html">British Court Orders Dubai Ruler to Pay £554 Million in Custody Settlement</a> NYT: The settlement, of about $734 million, resolves a lengthy dispute that began when Princess Haya Bint Al Hussein and her two children fled to London in 2019. 
  <p class="updated_time"> 11:09 AM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/putin-blames-u-s-for-ukraine-tensions-11640100640">U.S. Proposes January Talks with Russia</a> WSJ: Secretary of State Antony Blinken said the U.S. expects to hold talks with Russia next month to try to defuse tensions over the country’s military buildup near Ukraine as Russian President Vladimir Putin hardened his rhetoric toward the West. 
- <p class="updated_time"> 10:34 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/as-omicron-takes-over-in-the-u-s-more-curbs-world-wide-11640091714">Biden Is Considering Lifting Travel Ban on Southern African Countries</a> WSJ: The president imposed the ban last month as a way to slow the spread of the Omicron variant to the U.S., “but we’re past that now,” he said Tuesday. 
  <p class="updated_time"> 10:31 AM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/covid-19-pandemic-drives-u-s-population-growth-to-record-low-11640098763">Covid-19 Drives U.S. Population Growth to Record Low</a> WSJ: America’s population grew by just 0.1% for the 12 months ended July 1, according to Census Bureau figures released Tuesday that show how the pandemic is changing the country’s demographic contours. 
  <p class="updated_time"> 10:25 AM CT, Dec. 21 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
  <p class="updated_time"> 10:21 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1064510598/afghanistan-music-institute-taliban-doha-portugal">Afghan music students escaped the Taliban and are beginning their new lives abroad</a> NPR: Students and faculty with the Afghanistan National Institute of Music flew last week from Doha to Lisbon, where they will start their new lives and reconstitute their celebrated academy in exile. 
- <p class="updated_time"> 10:13 AM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1065775516/china-tennis-peng-shuai-sexual-assault">Tennis star Peng Shuai says her accusations of sexual assault have been misunderstood</a> NPR: Last month, the Chinese player posted on social media that a former top Communist Party official had assaulted her a decade ago. She then dropped out of sight, prompting concerns for her safety. 
  <p class="updated_time"> 10:07 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/arts/design/parthenon-marbles-restitution.html">As Europe Returns Artifacts, Britain Stays Silent on the Parthenon Marbles</a> NYT: The Parthenon Marbles in London are likely the world’s most famous disputed museum items. Yet the British government says the sculptures’ fate isn’t its concern. 
  <p class="updated_time"> 09:39 AM CT, Dec. 20 </p> 
@@ -206,6 +206,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:09 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/us-russia-ukraine-smuggling-claims-525925">U.S. denies Russian claims on Ukraine as rhetoric heats up</a> Politico: Russia's defense minister claimed the U.S. has been smuggling chemicals into eastern Ukraine. 
+ <p class="updated_time"> 04:51 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/cyber-attack-commission.html">Designed to Prepare for Cyberattacks, a Panel Wraps Up Its Work</a> NYT: Some of the Cyberspace Solarium Commission’s work remains unfinished as lawmakers wrestle with how to oversee security of cloud computing providers and other issues. 
+ <p class="updated_time"> 04:43 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/climate/solar-power-federal-land-california.html">Biden Administration Approves Two California Solar Projects</a> NYT: The solar farms, planned for the California desert, would generate enough electricity to power about 132,000 homes, the Interior Department said. 
  <p class="updated_time"> 04:34 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/biden-build-back-better-manchin/index.html">Biden insists he and Manchin will 'get something done' after Build Back Better setback</a> CNN: President Joe Biden on Tuesday insisted that he and Democratic Sen. Joe Manchin will "get something done" on the Build Back Better Act after Manchin defied his party by torpedoing the key piece of Biden's domestic agenda. 
  <p class="updated_time"> 04:32 PM CT, Dec. 21 </p> 
@@ -230,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066493365/the-child-tax-credit-is-set-to-expire-if-congressional-action-isnt-taken">The Child Tax Credit is set to expire if congressional action isn't taken</a> NPR: Parents in Philadelphia, Pa., say they will miss the Child Tax Credit if it goes away — which it's set to do without congressional action. The program has helped ease the city's high poverty rates. 
  <p class="updated_time"> 03:28 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493358/biden-plans-to-expand-testing-and-vaccination-to-take-on-the-omicron-variant">Biden plans to expand testing and vaccination to take on the omicron variant</a> NPR: NPR's Ari Shapiro speaks with Andy Slavitt, former senior adviser to President Biden's pandemic response team, about the White House's latest efforts to combat the coronavirus. 
- <p class="updated_time"> 03:15 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/cyber-attack-commission.html">Designed to Prepare for Cyberattacks, a Panel Wraps Up Its Work</a> NYT: Some of the Cyberspace Solarium Commission’s work remains unfinished as lawmakers wrestle with how to oversee security of cloud computing providers and other issues. 
  <p class="updated_time"> 03:07 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/somaliland-china-taiwan-congress-525842">On the Horn of Africa, a tiny 'country' has Congress' ear</a> Politico: Somaliland's delegation swept through Washington, promising to support Taiwan and ditch China. All it wants is a little recognition. 
  <p class="updated_time"> 03:03 PM CT, Dec. 21 </p> 
@@ -251,7 +253,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:07 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/gop-state-officials-prepare-new-wave-of-voting-restrictions/index.html">GOP proposals at the state level would nix ballot boxes and create new voting ID requirements</a> CNN: The push to impose voting restrictions at the state level is poised to continue next year as Republicans drive forward with an array of new proposals -- ranging from legislation that would eliminate ballot drop boxes to bills that would establish new ID requirements to vote. 
  <p class="updated_time"> 01:30 PM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/democrats-tax-plans-525855">Tax hikes still on the table as Dems scramble to save spending bill</a> Politico: Sen. Joe Manchin continues to cast a skeptical eye at what many Democrats believe to be a centerpiece of their agenda — the more generous version of the Child Tax Credit. 
+ <a href="https://www.politico.com/news/2021/12/21/democrats-tax-plans-525855">Tax hikes still in the mix as Dems scramble to save spending bill</a> Politico: Sen. Joe Manchin continues to cast a skeptical eye at what many Democrats believe to be a centerpiece of their agenda — the more generous version of the Child Tax Credit. 
  <p class="updated_time"> 01:24 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/ted-cruz-biden-ukraine.html">Deal With Ted Cruz Sets Stage for Russia Pipeline Fight in Early 2022</a> NYT: The Texas Republican leveraged his obstruction of diplomatic nominees into a Senate vote that could complicate President Biden’s efforts to defend Ukraine. 
  <p class="updated_time"> 01:18 PM CT, Dec. 21 </p> 
@@ -370,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/manchin-build-back-better-redo-525747">Manchin to Dems: Redo the whole thing, maybe I'll vote for it</a> Politico: The West Virginia senator wants a new bill that goes through Senate committees and focuses on rolling back the 2017 Trump tax cuts. 
  <p class="updated_time"> 11:49 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, the Florida Democrat didn’t rule out a future run for a different public role. 
- <p class="updated_time"> 10:35 AM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/filibuster-senate-voting-rights.html">Schumer Will Try to Change Senate Rules if G.O.P. Stalls Voting Bill</a> NYT: The Senate majority leader still lacks the votes to alter the filibuster, but he said he will renew the effort to enact voting rights measures as early as the first week of January. 
  <p class="updated_time"> 07:47 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/moderna-booster-omicron-525723">Moderna says its booster raised antibody levels against Omicron</a> Politico: A standard 50-microgram boost raised antibody levels about 37-fold higher than pre-boost levels 29 days after the shot was administered. 
  <p class="updated_time"> 07:12 AM CT, Dec. 20 </p> 
