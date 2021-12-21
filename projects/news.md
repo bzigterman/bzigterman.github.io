@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:28 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/19/world/asia/japan-rakugo.html">She Broke Japan’s Comedic Barrier Playing Drunks and Fools (Yep, Men)</a> NYT: Niyo Katsura has won acclaim in rakugo, a classical form of Japanese storytelling, by doing anything onstage that a man can do. 
  <p class="updated_time"> 10:57 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/health/covid-novavax-europe.html">Novavax’s Covid Vaccine Is Authorized in Europe</a> NYT: The vaccine will be the fifth to become available in the E.U., which already has ample supplies. 
  <p class="updated_time"> 10:44 PM CT, Dec. 20 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/19/1062091832/flying-tigers-americans-china-world-war-ii-history-japan">The Flying Tigers: How a group of Americans ended up fighting for China in WW II</a> NPR: In 1941, Japan was on the offensive against China. So China hired a group of Americans to fight back in the skies. Eighty years ago this week, they fought in their first battle. 
  <p class="updated_time"> 06:00 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/19/1062792638/our-11-most-read-global-pandemic-stories-of-2021">Our 11 most-read global pandemic stories of 2021</a> NPR: From India to Israel to white-tailed deer in Iowa harboring the coronavirus, our top COVID stories of the year reveal the ever-changing nature of the world's health crisis. 
- <p class="updated_time"> 04:00 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/world/asia/japan-rakugo.html">She Broke Japan’s Comedic Barrier Playing Drunks and Fools (Yep, Men)</a> NYT: Niyo Katsura has won acclaim in rakugo, a classical form of Japanese storytelling, by doing anything onstage that a man can do. 
  <p class="updated_time"> 10:44 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/europe/brexit-david-frost-resigns.html">David Frost, Brexit Negotiator, Resigns in Another Blow to Boris Johnson</a> NYT: The move puts new pressure on the prime minister, whose leadership has been called into question by a series of setbacks, including a new wave of Covid infections. 
  <p class="updated_time"> 06:29 PM CT, Dec. 18 </p> 
