@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:03 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: N.H.L. Pauses Its Season Because of Omicron</a> NYT: As U.S. virus cases surge, President Biden announces new steps, including buying 500 million tests to distribute to the public for free and readying 1,000 military medical professionals. 
+ <p class="updated_time"> 07:28 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/world/trump-supporters-booster-shots.html">Donald Trump Said He Got a Booster Shot and His Supporters Booed</a> NYT: At an event in Dallas, the former president revealed for the first time publicly that he had received the additional vaccine dose. 
+ <p class="updated_time"> 07:26 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: E.U. Will Require Boosters for Vaccine Passes to Remain Valid</a> NYT: The N.H.L. pauses its season because of Omicron. President Biden announces new steps to quell the latest outbreak, including buying 500 million tests to distribute to the public for free. 
+ <p class="updated_time"> 07:08 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/europe/france-italy-covid-vaccination-fakes.html">France Uncovers Over 180,000 Fake Covid Passes</a> NYT: The developments suggest that resistance to Europe’s vaccination requirements remains significant. 
  <p class="updated_time"> 06:57 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/russia-military-putin-kremlin.html">How the Kremlin Is Militarizing Russian Society</a> NYT: With a “youth army,” a cathedral honoring the military and state media promoting patriotism, the government is preparing Russians for the possibility of a fight. 
+ <p class="updated_time"> 06:49 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59725368?at_medium=RSS&at_campaign=KARANGA">Mauritius oil spill: Captain guilty over tanker spill</a> BBC: The MV Wakashio ran aground on a coral reef last year leaking about 1,000 tonnes of fuel. 
  <p class="updated_time"> 06:32 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59738678?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Biden buys 500m test kits to tackle surge</a> BBC: The US will also deploy more military medics amid fears the holiday season will boost a Covid spike. 
  <p class="updated_time"> 06:21 AM CT, Dec. 21 </p> 
@@ -33,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066167265/biden-to-announce-free-covid-tests-more-aid-for-hospitals-to-deal-with-omicron">Biden to announce free COVID tests, more aid for hospitals to deal with omicron </a> NPR: The U.S. government plans to buy a half billion at-home COVID test kits and mail them to people who want them, with deliveries beginning in January. 
  <p class="updated_time"> 03:50 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59737194?at_medium=RSS&at_campaign=KARANGA">Boeing and Airbus warn US over 5G safety concerns</a> BBC: The world's two biggest plane makers say the technology could have a negative impact on the aviation industry. 
- <p class="updated_time"> 03:43 AM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59736726?at_medium=RSS&at_campaign=KARANGA">Abducted Haiti missionaries describe daring escape</a> BBC: The group allegedly navigated by the stars as they trekked through the bush to freedom. 
  <p class="updated_time"> 03:32 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59739685?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: Philippines faces aftermath</a> BBC: The BBC's Howard Johnson on the crisis facing Siargao Island in the Philippines, which is almost cut off. 
  <p class="updated_time"> 03:25 AM CT, Dec. 21 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/health/covid-novavax-europe.html">Novavax’s Covid Vaccine Is Authorized in Europe</a> NYT: The vaccine will be the fifth to become available in the E.U., which already has ample supplies. 
  <p class="updated_time"> 10:12 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2021/12/20/1066049450/super-typhoon-rai-leaves-a-path-of-devastation-and-uncertainty">Super Typhoon Rai leaves a path of devastation and uncertainty</a> NPR: Rai is one of the most powerful storms to hit the southern Philippines on record. It's displaced more than 481,000 people and killed at least 375, with 500 missing. 
- <p class="updated_time"> 08:54 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/world/trump-supporters-booster-shots.html">Donald Trump Said He Got a Booster Shot and His Supporters Booed</a> NYT: At an event in Houston, the former president revealed for the first time publicly that he had received the additional vaccine dose. 
  <p class="updated_time"> 06:53 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59737125?at_medium=RSS&at_campaign=KARANGA">The secret lives of Ghislaine Maxwell and Jeffrey Epstein</a> BBC: Never-before-seen photos released during her trial shed new light on their private lives. 
  <p class="updated_time"> 06:46 PM CT, Dec. 20 </p> 
@@ -440,8 +442,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/15/a-junkies-guide-to-the-2022-midterms-495470"> A junkie’s guide to the 2022 midterms</a> Politico Playbook: And the House votes to hold Mark Meadows in contempt of Congress. 
  <p class="updated_time"> 11:41 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/house-islam-omar-perry-boebert-524536">Amid caustic rhetoric, House votes to combat Islamophobia</a> Politico: Rep. Scott Perry accused Rep. Ilhan Omar of connections to terrorism. 
- <p class="updated_time"> 07:25 AM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/12/14/senate-moves-on-debt-defense-house-on-meadows-495455">Senate moves on debt, defense, House on Meadows</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
