@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:54 AM CT, Dec. 21 </p> 
+ <p class="updated_time"> 08:26 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: E.U. Will Require Boosters for Vaccine Passes to Remain Valid</a> NYT: The N.H.L. pauses its season because of Omicron. President Biden announces new steps to quell the latest outbreak, including buying 500 million tests to distribute to the public for free. 
  <p class="updated_time"> 07:53 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59740528?at_medium=RSS&at_campaign=KARANGA">Ghanaian MPs brawl in parliament over e-money tax</a> BBC: Lawmakers trade blows during a chaotic session over a proposed levy on electronic transactions. 
@@ -43,14 +43,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59739685?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: Philippines faces aftermath</a> BBC: The BBC's Howard Johnson on the crisis facing Siargao Island in the Philippines, which is almost cut off. 
  <p class="updated_time"> 03:25 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59733321?at_medium=RSS&at_campaign=KARANGA">UK Supreme Court denies Maduro claim to Venezuelan gold</a> BBC: The ruling means only opposition leader Juan Guaidó can access Venezuelan gold reserves in the UK. 
+ <p class="updated_time"> 03:11 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/as-omicron-takes-over-in-the-u-s-more-curbs-world-wide-11640091714">As Omicron Takes Over in the U.S., More Curbs World-Wide</a> WSJ: New travel restrictions and other steps to curb the spread of the Omicron variant were put in place world-wide as further evidence emerged of just how rapidly the new strain spreads. 
  <p class="updated_time"> 02:48 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59738053?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Sex and the City actresses show support for accusers</a> BBC: Three Sex And The City actresses issue a joint statement after co-star is accused of sexual assault. 
- <p class="updated_time"> 02:12 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/as-omicron-takes-over-in-the-u-s-more-curbs-world-wide-11640091714">As Omicron Takes Over in the U.S., More Curbs World-Wide</a> WSJ: New travel restrictions and other steps to curb the spread of the Omicron variant were put in place world-wide as further evidence emerged of just how rapidly the new strain spreads. 
  <p class="updated_time"> 02:06 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066166281/new-wave-of-syrian-migrants-fleeing-post-war-misery">New wave of Syrian migrants fleeing post-war misery</a> NPR: While the numbers are far below the levels during the height of the civil war, the number of Syrians applying for asylum in the EU increased 70% over last year. 
+ <a href="https://www.npr.org/2021/12/21/1066166281/new-wave-of-syrian-migrants-fleeing-post-war-misery">New waves of Syrian migrants are fleeing postwar misery</a> NPR: While the numbers are far below the levels during the height of the civil war, the number of Syrians applying for asylum in the EU increased 70% over last year. 
  <p class="updated_time"> 01:33 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066163872/mexican-cartels-turning-to-meth-and-fentanyl-production">Mexican cartels turning to meth and fentanyl production</a> NPR: Cartels are increasingly turning to huge, industrial-scale labs to churn out synthetic drugs as they shift away from naturally grown drugs like opium and marijuana. 
+ <a href="https://www.npr.org/2021/12/21/1066163872/mexican-cartels-turning-to-meth-and-fentanyl-production">Mexican cartels are turning to meth and fentanyl production</a> NPR: Cartels are increasingly turning to huge, industrial-scale labs to churn out synthetic drugs as they shift away from naturally grown drugs like opium and marijuana. 
  <p class="updated_time"> 01:00 AM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/macaus-casino-king-is-dethroned-as-beijing-reins-in-offshore-gambling-11640088008">Macau's Casino King Dethroned as Beijing Reins In Offshore Gambling</a> WSJ: For nearly two decades before he was detained, Alvin Chau ferried Chinese high-rollers to casinos in Macau, bringing tens of billions of dollars into the city as it passed Las Vegas to become the world’s richest gambling hub. 
  <p class="updated_time"> 12:00 AM CT, Dec. 21 </p> 
@@ -346,6 +346,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/20/politics/bragg-new-york-trump/index.html">New Manhattan DA Alvin Bragg pledges to focus on Trump investigations</a> CNN: The next Manhattan district attorney, Alvin Bragg Jr., says he plans to personally focus on the high-profile probe into former President Donald Trump's business practices and may expand the investigative team while keeping at least one senior prosecutor on the case. 
  <p class="updated_time"> 06:11 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/20/the-case-for-why-bbb-is-dead-and-for-why-it-may-not-be-495522"> The case for why BBB is dead — and for why it may not be</a> Politico Playbook: And Rep. Albio Sires (D-N.J.) won’t run for reelection. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
+ <a href="https://www.politico.com/news/2021/12/20/iowa-caucuses-may-survive-after-all-525629">Dems sour on bid to ditch first-in-the-nation states</a> Politico: Party officials don’t want to project a disunified front with a stormy midterm election season ahead. 
  <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/cdc-covid-omicron-delta-tracking-525621">‘It is embarrassing’: CDC struggles to track Covid cases as Omicron looms</a> Politico: The U.S. was behind other countries in charting the spread of disease in the pandemic’s disastrous early months. It’s still behind as new variants threaten to disrupt the winter. 
  <p class="updated_time"> 02:00 AM CT, Dec. 20 </p> 
