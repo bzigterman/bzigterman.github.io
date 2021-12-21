@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:25 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59733321?at_medium=RSS&at_campaign=KARANGA">UK Supreme Court denies Maduro claim to Venezuelan gold</a> BBC: The ruling means only opposition leader Juan Guaidó can access Venezuelan gold reserves in the UK. 
  <p class="updated_time"> 02:48 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59738053?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Sex and the City actresses show support for accusers</a> BBC: Three Sex And The City actresses issue a joint statement after co-star is accused of sexual assault. 
  <p class="updated_time"> 02:06 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066166281/new-wave-of-syrian-migrants-fleeing-post-war-misery">New wave of Syrian migrants fleeing post-war misery</a> NPR: While the numbers are far below the levels during the height of the civil war, the number of Syrians applying for asylum in the EU increased 70% over last year. 
  <p class="updated_time"> 01:33 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066163872/mexican-cartels-turning-to-meth-and-fentanyl-production">Mexican cartels turning to meth and fentanyl production</a> NPR: Cartels are increasingly turning to huge, industrial-scale labs to churn out synthetic drugs as they shift away from naturally grown drugs like opium and marijuana. 
- <p class="updated_time"> 01:20 AM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-59733716?at_medium=RSS&at_campaign=KARANGA">WHO urges cancelling some holiday events over Omicron fears</a> BBC: "An event cancelled is better than a life cancelled," warns the World Health Organization's head. 
  <p class="updated_time"> 11:44 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59723341?at_medium=RSS&at_campaign=KARANGA">Malaysia: Death toll rises after massive floods</a> BBC: At least 14 are dead and tens of thousands are displaced by one of the worst floods in decades. 
  <p class="updated_time"> 11:38 PM CT, Dec. 20 </p> 
@@ -259,7 +259,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:25 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066017107/what-the-white-house-is-doing-as-omicron-begins-to-take-off-in-the-u-s">What the White House is doing as omicron begins to take off in the U.S.</a> NPR: President Biden is expected to address the surge in omicron cases, but is his administration's response fast and sufficient enough to meet what could be the most challenging month yet in the pandemic? 
  <p class="updated_time"> 03:10 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Manchin Pulls Support From Biden’s Social Policy Bill, Imperiling Its Passage</a> NYT: The West Virginia senator’s comments dealt a potentially fatal blow to the centerpiece of the president’s domestic agenda, and drew a broadside from the White House. 
+ <a href="https://www.nytimes.com/2021/12/19/us/politics/manchin-build-back-better.html">Joe Manchin Says He Can't Support Build Back Better Act</a> NYT: The West Virginia senator’s comments dealt a potentially fatal blow to the centerpiece of the president’s domestic agenda, and drew a broadside from the White House. 
  <p class="updated_time"> 03:10 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/biden-agenda-ambitions.html">The Path Ahead for Biden: Overcome Manchin’s Inflation Fears</a> NYT: A key Democrat’s decision to pull support from the president’s sprawling climate and social agenda is rooted in the scope of the bill. 
  <p class="updated_time"> 03:02 PM CT, Dec. 20 </p> 
