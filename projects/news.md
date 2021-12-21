@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:06 AM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066166281/new-wave-of-syrian-migrants-fleeing-post-war-misery">New wave of Syrian migrants fleeing post-war misery</a> NPR: While the numbers are far below the levels during the height of the civil war, the number of Syrians applying for asylum in the EU increased 70% over last year. 
  <p class="updated_time"> 01:33 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066163872/mexican-cartels-turning-to-meth-and-fentanyl-production">Mexican cartels turning to meth and fentanyl production</a> NPR: Cartels are increasingly turning to huge, industrial-scale labs to churn out synthetic drugs as they shift away from naturally grown drugs like opium and marijuana. 
  <p class="updated_time"> 01:20 AM CT, Dec. 21 </p> 
@@ -47,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59724425?at_medium=RSS&at_campaign=KARANGA">Indian Christians fear attacks or jail over conversions</a> BBC: Christians in Karnataka state say attacks against them have grown ahead of a new anti-conversion law. 
  <p class="updated_time"> 05:54 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/europe-divided-omicron-response.html">Omicron Response Divides Europe as Cases Surge</a> NYT: As some nations impose tough restrictions in the face of soaring cases, others, including France, are lying back for the moment. 
+ <p class="updated_time"> 05:41 PM CT, Dec. 20 </p> 
+ <a href="https://www.wsj.com/articles/missionaries-held-hostage-in-haiti-made-daring-overnight-escape-group-says-11640061694">Missionaries Held Hostage in Haiti Made Daring Overnight Escape, Group Says</a> WSJ: Navigating by the stars, the 12 missionaries walked for miles over harsh terrain with children in tow, according to Christian Aid Ministries. 
  <p class="updated_time"> 05:33 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial jurors begin deliberations</a> BBC: The British socialite faces up to 80 years in prison if convicted on sex-trafficking and perjury charges. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
@@ -127,12 +131,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/travel/cardamom-mountains-wildlife-cambodia.html">Inside the Campaign to Save an Imperiled Cambodian Rainforest</a> NYT: Deep in the Southern Cardamom Mountains, former loggers and poachers have assumed new roles as protective rangers and ecotourism guides. Can their efforts help preserve a vast stretch of wilderness? 
  <p class="updated_time"> 04:00 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/1946-europe-cold-wave.html">1946: Europe Hit By Near-Zero Temperatures</a> NYT: An unseasonable cold wave in many northern parts of the continent resulted in frozen waterways and deep snow. 
- <p class="updated_time"> 03:33 AM CT, Dec. 20 </p> 
- <a href="https://www.wsj.com/articles/chinese-tennis-star-peng-shuai-denies-making-sexual-assault-accusations-11639982172">Tennis Star Peng Shuai Denies Making Sexual-Assault Accusations</a> WSJ: Chinese tennis star Peng Shuai denied accusing anyone of sexual assault, suggesting a global wave of concern for her safety and well-being was the result of misunderstandings. 
  <p class="updated_time"> 03:13 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59699556?at_medium=RSS&at_campaign=KARANGA">Tortured to death: Myanmar mass killings revealed</a> BBC: A BBC investigation finds evidence Myanmar's military killed 40 villagers in July, torturing some to death. 
- <p class="updated_time"> 03:00 AM CT, Dec. 20 </p> 
- <a href="https://www.wsj.com/articles/scotland-looks-to-rethink-drug-policy-after-surge-in-deaths-11640008802">Scotland Looks to Rethink Drug Policy After Surge in Deaths</a> WSJ: Leaders are moving toward treating drug abuse as a health issue rather than a criminal one, including proposals to decriminalize possession of heroin and establish legally protected safe spaces for users to inject. 
  <p class="updated_time"> 02:52 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: More than 200 people are now believed to have been killed by the storm. 
  <p class="updated_time"> 02:18 AM CT, Dec. 20 </p> 
@@ -173,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/19/1065626402/chileans-vote-in-runoff-election-for-new-president">Chileans vote in runoff election for new president</a> NPR: Chileans choose a president today in a runoff election. People in a small coastal fishing village are unhappy the choice is between one candidate on the far right and another on the far left. 
  <p class="updated_time"> 07:01 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1065626388/revival-of-the-iran-nuclear-deal-appears-far-off">Revival of the Iran nuclear deal appears far-off</a> NPR: Scott Detrow gets an update on the ongoing Iran-U.S. nuclear deal talks in Vienna from journalist Negar Mortazavi. 
- <p class="updated_time"> 06:01 AM CT, Dec. 19 </p> 
- <a href="https://www.npr.org/2021/12/19/1062091832/flying-tigers-americans-china-world-war-ii-history-japan">The Flying Tigers: How a group of Americans ended up fighting for China in WW II</a> NPR: In 1941, Japan was on the offensive against China. So China hired a group of Americans to fight back in the skies. Eighty years ago this week, they fought in their first battle. 
  <p class="updated_time"> 10:44 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/europe/brexit-david-frost-resigns.html">David Frost, Brexit Negotiator, Resigns in Another Blow to Boris Johnson</a> NYT: The move puts new pressure on the prime minister, whose leadership has been called into question by a series of setbacks, including a new wave of Covid infections. 
  <p class="updated_time"> 04:04 PM CT, Dec. 18 </p> 
