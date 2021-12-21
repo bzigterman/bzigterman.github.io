@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:51 AM CT, Dec. 21 </p> 
+ <p class="updated_time"> 10:04 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: France and Italy Crack Down on Vaccine-Related Fraud</a> NYT: The N.H.L. pauses its season because of Omicron. President Biden is to announce new steps to quell the latest outbreak, including buying 500 million tests to distribute free to the public. 
+ <p class="updated_time"> 09:59 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59738678?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Biden buys 500m test kits to tackle surge</a> BBC: The US will also deploy more military medics amid fears the holiday season will boost a Covid spike. 
  <p class="updated_time"> 09:39 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/21/1062836171/editors-pick-11-hidden-gems-on-our-global-health-blog-in-2021">Editors' pick: 11 hidden gems on our global health blog in 2021</a> NPR: Want to hear the former president of Zambia sing about public health? Find out what to do if you lose a sheep in Senegal? Use solar power to iron garments? Give these stories a read. 
  <p class="updated_time"> 09:12 AM CT, Dec. 21 </p> 
@@ -27,18 +29,26 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/europe/russia-military-putin-kremlin.html">How the Kremlin Is Militarizing Russian Society</a> NYT: With a “youth army,” a cathedral honoring the military and state media promoting patriotism, the government is preparing Russians for the possibility of a fight. 
  <p class="updated_time"> 06:49 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59725368?at_medium=RSS&at_campaign=KARANGA">Mauritius oil spill: Captain guilty over tanker spill</a> BBC: The MV Wakashio ran aground on a coral reef last year leaking about 1,000 tonnes of fuel. 
- <p class="updated_time"> 06:32 AM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59738678?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Biden buys 500m test kits to tackle surge</a> BBC: The US will also deploy more military medics amid fears the holiday season will boost a Covid spike. 
  <p class="updated_time"> 06:21 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59740356?at_medium=RSS&at_campaign=KARANGA">Israel rejects 'alarm call' by Christian leaders in Jerusalem</a> BBC: Church leaders say "radical groups" are attempting to drive Christians out of the Holy Land. 
  <p class="updated_time"> 06:00 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59740324?at_medium=RSS&at_campaign=KARANGA">Kosovo agrees to rent prison cells to Denmark to ease overcrowding</a> BBC: Denmark is due to pay €210m (£179m) over the next 10 years to rent 300 cells in the jail at Gjilan. 
  <p class="updated_time"> 05:08 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59740185?at_medium=RSS&at_campaign=KARANGA">Turkish lira in comeback after new plan unveiled</a> BBC: The lira sees strong gains for the second day running in response to moves to strengthen the currency. 
+ <p class="updated_time"> 05:07 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/irans-top-diplomat-to-houthi-controlled-yemen-dies-of-covid-19-11640102821">Iran's Top Diplomat to Houthi-Controlled Yemen Dies of Covid-19</a> WSJ: Hassan Irloo, who was smuggled into Yemen in 2020 and named ambassador to parts of the country controlled by Houthis, has died of Covid-19, Iranian officials said. 
+ <p class="updated_time"> 05:00 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/well-preserved-embryo-found-inside-fossilized-dinosaur-egg-11640102402">Well-Preserved Embryo Found Inside Fossilized Dinosaur Egg</a> WSJ: Scientists said the embryo inside the egg, which was laid between 72 million to 66 million years ago during the Late Cretaceous period, was that of a two-legged, feathered carnivore known as an oviraptorid. 
+ <p class="updated_time"> 04:55 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-pandemic-drives-u-s-population-growth-to-record-low-11640098763">Covid-19 Pandemic Drives U.S. Population Growth to Record Low</a> WSJ: America’s population grew by just 0.1% for the 12 months ended July 1, according to Census Bureau figures released Tuesday that show how the pandemic is changing the country’s demographic contours. 
  <p class="updated_time"> 04:47 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/australia/new-zealand-omicron-response.html">New Zealand and Other Asia Pacific Countries Respond to Omicron</a> NYT: New Zealand is taking measures to limit the spread of Omicron, including delaying the reopening of its borders. It has detected 22 cases of Omicron in international arrivals. 
+ <p class="updated_time"> 04:43 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/israel-bets-travel-restrictions-will-buy-it-time-to-fight-omicron-11640100113">Israel Bets Travel Restrictions Will Buy It Time to Fight Omicron</a> WSJ: As the Omicron variant spreads quickly across the world, Israel has leaned more heavily than other countries on shutting down its borders to international travel. 
  <p class="updated_time"> 04:34 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59739563?at_medium=RSS&at_campaign=KARANGA"> 'Biggest divorce case in British legal history'</a> BBC: A UK court publishes a ruling in the divorce case of Sheikh Mohammed and his ex-wife Princess Haya. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/putin-blames-u-s-for-ukraine-tensions-11640100640">Putin Blames U.S. for Ukraine Tensions</a> WSJ: Russian President Vladimir Putin hardened his rhetoric toward the West, blaming the U.S. and Europe for deteriorating relations and vowing to retaliate against their aggression as he ordered the further development of Russia’s armed forces and its weaponry. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee is seeking briefings from search engines and web-hosting companies whose services might have been leveraged by the site, which has been linked to numerous deaths. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
@@ -63,10 +73,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066163872/mexican-cartels-turning-to-meth-and-fentanyl-production">Mexican cartels are turning to meth and fentanyl production</a> NPR: Cartels are increasingly turning to huge, industrial-scale labs to churn out synthetic drugs as they shift away from naturally grown drugs like opium and marijuana. 
  <p class="updated_time"> 01:00 AM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/macaus-casino-king-is-dethroned-as-beijing-reins-in-offshore-gambling-11640088008">Macau's Casino King Dethroned as Beijing Reins In Offshore Gambling</a> WSJ: For nearly two decades before he was detained, Alvin Chau ferried Chinese high-rollers to casinos in Macau, bringing tens of billions of dollars into the city as it passed Las Vegas to become the world’s richest gambling hub. 
- <p class="updated_time"> 12:00 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/iran-backed-houthis-doubled-attacks-this-year-on-saudi-arabia-report-says-11640084403">Iran-Backed Houthis Doubled Attacks This Year on Saudi Arabia, Report Says</a> WSJ: The report analyzes more than 4,100 Houthi attacks against Saudi Arabia between 2016 and 2021, providing a clearer picture of a long-running regional conflict that has developed into a proxy war between Tehran and Riyadh. 
- <p class="updated_time"> 11:30 PM CT, Dec. 20 </p> 
- <a href="https://www.wsj.com/articles/booming-u-s-economy-ripples-world-wide-straining-supply-chains-and-driving-up-prices-11640082604">Booming U.S. Economy Ripples World-Wide</a> WSJ: The force of the American expansion is inducing overseas companies to invest in the U.S., betting that the growth is still accelerating and will outpace other major economies. 
  <p class="updated_time"> 11:28 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/japan-rakugo.html">She Broke Japan’s Comedic Barrier Playing Drunks and Fools (Yep, Men)</a> NYT: Niyo Katsura has won acclaim in rakugo, a classical form of Japanese storytelling, by doing anything onstage that a man can do. 
  <p class="updated_time"> 10:57 PM CT, Dec. 20 </p> 
@@ -93,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59724425?at_medium=RSS&at_campaign=KARANGA">Indian Christians fear attacks or jail over conversions</a> BBC: Christians in Karnataka state say attacks against them have grown ahead of a new anti-conversion law. 
  <p class="updated_time"> 05:54 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/europe-divided-omicron-response.html">Omicron Response Divides Europe as Cases Surge</a> NYT: As some nations impose tough restrictions in the face of soaring cases, others, including France, are lying back for the moment. 
- <p class="updated_time"> 05:41 PM CT, Dec. 20 </p> 
- <a href="https://www.wsj.com/articles/missionaries-held-hostage-in-haiti-made-daring-overnight-escape-group-says-11640061694">Missionaries Held Hostage in Haiti Made Daring Overnight Escape, Group Says</a> WSJ: Navigating by the stars, the 12 missionaries walked for miles over harsh terrain with children in tow, according to Christian Aid Ministries. 
  <p class="updated_time"> 05:33 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial jurors begin deliberations</a> BBC: The British socialite faces up to 80 years in prison if convicted on sex-trafficking and perjury charges. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
@@ -198,10 +202,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:55 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/democrats-climate-ambitions-manchin-525835">Democrats not yet ready to trim climate ambitions despite Manchin blow</a> Politico: For now, Democrats are committed to reconfiguring a sweeping climate package centered on clean energy tax incentives. 
+ <p class="updated_time"> 10:06 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/well/family/child-tax-credit-manchin.html">How Families Used the Child Tax Credit</a> NYT: The monthly payments of up to $300 per child put food on the table, paid bills and even went toward the occasional splurge. 
+ <p class="updated_time"> 09:58 AM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066220864/commander-biden-puppy-major">The Bidens bid farewell to Major and say hello to new puppy Commander</a> NPR: The new top dog at the White House is Commander Biden, a nearly 4-month-old German shepherd. Meanwhile, rescue dog Major is moving out and a cat is scheduled to arrive soon. 
  <p class="updated_time"> 09:43 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/business/economy/kellogg-union-strike-contract.html">Kellogg Workers Ratify Contract After Being on Strike Since October</a> NYT: Union members had rejected an earlier proposal in early December, prolonging a strike by about 1,400 workers at four cereal plants. 
- <p class="updated_time"> 09:38 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/well/family/child-tax-credit-manchin.html">How Families Used the Child Tax Credit</a> NYT: The monthly payments of up to $300 per child put food on the table, paid bills and even went toward the occasional splurge. 
  <p class="updated_time"> 09:37 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/omicron-covid-biden.html">To Fight Omicron, Biden Plans Aid From Military and 500 Million Tests</a> NYT: The president is set to unveil his initiatives, which also include creating new federal testing sites and deploying federal vaccinators, in a speech on Tuesday. 
  <p class="updated_time"> 09:34 AM CT, Dec. 21 </p> 
@@ -322,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/20/politics/alex-jones-january-6-lawsuit/index.html">Alex Jones sues House January 6 committee</a> CNN: Conspiracy theorist and right-wing provocateur Alex Jones says he will not comply with demands the House Select Committee investigating January 6 has made for his testimony and records, according to a new lawsuit he filed on Monday. 
  <p class="updated_time"> 03:25 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066017129/the-biden-administration-is-launching-a-new-phone-number-for-mental-health-crise">The Biden administration is launching a new phone number for mental health crises</a> NPR: The Biden administration is putting a quarter of a billion dollars into a new national suicide prevention line. But some say that's not enough to build the infrastructure that's needed. 
- <p class="updated_time"> 03:25 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1066017107/what-the-white-house-is-doing-as-omicron-begins-to-take-off-in-the-u-s">What the White House is doing as omicron begins to take off in the U.S.</a> NPR: President Biden is expected to address the surge in omicron cases, but is his administration's response fast and sufficient enough to meet what could be the most challenging month yet in the pandemic? 
  <p class="updated_time"> 03:10 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/us/politics/biden-agenda-ambitions.html">The Path Ahead for Biden: Overcome Manchin’s Inflation Fears</a> NYT: A key Democrat’s decision to pull support from the president’s sprawling climate and social agenda is rooted in the scope of the bill. 
  <p class="updated_time"> 02:40 PM CT, Dec. 20 </p> 
