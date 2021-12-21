@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:27 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans, and military medical personnel are being prepared to help overwhelmed U.S. hospitals. Germany, Sweden and Scotland tightened restrictions. 
  <p class="updated_time"> 03:11 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/africa/mauritius-oil-spill.html">2 Ship Officers Plead Guilty to Light Charges in Mauritius Oil Spill</a> NYT: The leak was an environmental calamity for the Indian Ocean nation, which relies on its beaches and lagoons for tourism and fishing. 
  <p class="updated_time"> 03:10 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/asia/india-water-modi.html">India's Modi Brings Tap Water to Millions as Supplies Shrink</a> NYT: The ambitious project to meet a dire need shows Prime Minister Narendra Modi’s strengths and helps explain his popularity despite a weakened economy. 
  <p class="updated_time"> 03:01 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/middleeast/libya-election-delay.html">Libya’s Long-Awaited Election Will Most Likely Be Delayed</a> NYT: A postponement raises the possibility that the oil-rich North African nation could again descend into the fragmentation and violence that have marked the decade since its dictator was toppled. 
- <p class="updated_time"> 02:57 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans, and military medical personnel are being prepared to help overwhelmed U.S. hospitals. Germany, Sweden and Scotland tightened restrictions. 
  <p class="updated_time"> 02:57 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59738678?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Biden buys 500m test kits to tackle surge</a> BBC: The US will also deploy more military medics amid fears the holiday season will spark a Covid spike. 
  <p class="updated_time"> 02:54 PM CT, Dec. 21 </p> 
@@ -213,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:07 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/somaliland-china-taiwan-congress-525842">On the Horn of Africa, a tiny 'country' has Congress' ear</a> Politico: Somaliland's delegation swept through Washington, promising to support Taiwan and ditch China. All it wants is a little recognition. 
  <p class="updated_time"> 03:03 PM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066480824/justice-department-reverse-prisoners-early-release-pandemic">The Justice Department reverses course for prisoners on early release</a> NPR: In a rare reversal, the Justice Department said the prison system has discretion to allow people released to home confinement during the pandemic to remain free. 
+ <a href="https://www.npr.org/2021/12/21/1066480824/justice-department-reverse-prisoners-early-release-pandemic">Prisoners sent to home confinement because of the pandemic might remain free</a> NPR: In a rare reversal, the Justice Department said the prison system has discretion to allow people released to home confinement during the pandemic to remain free. 
  <p class="updated_time"> 03:02 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/phil-waldron-jan-6.html">Phil Waldron's Unlikely Role in Pushing Baseless Election Claims</a> NYT: Phil Waldron, who owns a bar in Texas, is a case study in how pro-Trump fringe players managed to get a hearing for conspiracy theories at the highest level during the presidential transition. 
  <p class="updated_time"> 03:01 PM CT, Dec. 21 </p> 
@@ -287,7 +287,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:01 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/republican-midterm-candidates-2020-election-lies/index.html">Republican candidates across the country refuse to acknowledge Biden won legitimately</a> CNN: Five Republican candidates for governor of Minnesota were asked at a forum last Wednesday whether they thought President Joe Biden won a "constitutional majority in the Electoral College." None of them was willing to utter a plain "yes." 
  <p class="updated_time"> 05:00 AM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/biden-omicron-testing-hospitals-525811">Biden plans to expand testing and reinforce hospitals facing Omicron</a> Politico: The initiatives come as Omicron blankets the U.S. and amount to a redeployment of emergency defenses seen last year. 
+ <a href="https://www.politico.com/news/2021/12/21/biden-omicron-testing-hospitals-525811">Biden expanding testing and reinforcing hospitals in face of Omicron</a> Politico: The initiatives come as Omicron blankets the U.S. and amount to a redeployment of emergency defenses seen last year. 
  <p class="updated_time"> 04:31 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/dnc-state-parties-525765">DNC data rift deepens after state parties balk</a> Politico: The Democratic National Committee and the early-nominating states are squabbling over how much to charge presidential candidates for valuable voter files. 
  <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
