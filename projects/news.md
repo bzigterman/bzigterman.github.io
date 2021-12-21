@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:11 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/europe/turkey-inflation-rising-prices.html">Cashing In Grandma’s Gold Coins, a Turkish Family Struggles to Get By</a> NYT: As inflation soars and the value of Turkey’s currency plummets, one couple described how working families can’t make ends meet and have had to cut back on basic necessities as well as life’s smaller pleasures. 
- <p class="updated_time"> 12:10 PM CT, Dec. 21 </p> 
+ <p class="updated_time"> 12:38 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: France and Italy Crack Down on Vaccine-Related Fraud</a> NYT: The N.H.L. pauses its season because of Omicron. President Biden is to announce new steps to quell the latest outbreak, including buying 500 million tests to distribute free to the public. 
- <p class="updated_time"> 11:56 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/arts/music/caroling-christmas-coronavirus.html">‘Caroling on the Edge’: A Christmas Tradition Returns</a> NYT: Last year, most carol singing in Britain was canceled because of the pandemic. This year, a group of roving singers was determined to carry on, despite the Omicron variant. 
- <p class="updated_time"> 11:46 AM CT, Dec. 21 </p> 
+ <p class="updated_time"> 12:38 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/europe/france-italy-covid-vaccination-fakes.html">France Uncovers Over 180,000 Fake Covid Passes</a> NYT: The developments suggest that resistance to Europe’s vaccination requirements remains significant. 
+ <p class="updated_time"> 12:37 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/australia/new-zealand-omicron-response.html">New Zealand and Other Asia Pacific Countries Respond to Omicron</a> NYT: New Zealand is taking measures to limit the spread of Omicron, including delaying the reopening of its borders. It has detected 22 cases of Omicron in international arrivals. 
+ <p class="updated_time"> 12:12 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/europe/turkey-inflation-rising-prices.html">Cashing In Grandma’s Gold Coins, a Turkish Family Struggles to Get By</a> NYT: As inflation soars and the value of Turkey’s currency plummets, one couple described how working families can’t make ends meet and have had to cut back on basic necessities as well as life’s smaller pleasures. 
+ <p class="updated_time"> 11:56 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/arts/music/christmas-caroling-covid.html">These Carol Singers Are Carrying on, Despite Omicron Variant</a> NYT: Last year, most carol singing in Britain was canceled because of the pandemic. This year, a group of roving singers was determined to carry on, despite the Omicron variant. 
  <p class="updated_time"> 11:28 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59748169?at_medium=RSS&at_campaign=KARANGA">Spain police thwart raffle of Christmas hamper stuffed with drugs</a> BBC: Police have arrested two men allegedly trying to raffle off a "narco-basket" stuffed with drugs. 
  <p class="updated_time"> 11:23 AM CT, Dec. 21 </p> 
@@ -41,8 +43,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/asia/india-water-modi.html">India's Modi Brings Tap Water to Millions as Supplies Shrink</a> NYT: The ambitious project to meet a dire need shows Prime Minister Narendra Modi’s strengths and helps explain his popularity despite a weakened economy. 
  <p class="updated_time"> 07:28 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/trump-supporters-booster-shots.html">Donald Trump Said He Got a Booster Shot and His Supporters Booed</a> NYT: At an event in Dallas, the former president revealed for the first time publicly that he had received the additional vaccine dose. 
- <p class="updated_time"> 07:08 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/europe/france-italy-covid-vaccination-fakes.html">France Uncovers Over 180,000 Fake Covid Passes</a> NYT: The developments suggest that resistance to Europe’s vaccination requirements remains significant. 
+ <p class="updated_time"> 07:27 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/as-omicron-takes-over-in-the-u-s-more-curbs-world-wide-11640091714">As Omicron Takes Over in the U.S., More Curbs World-Wide</a> WSJ: New travel restrictions and other steps to curb the spread of the Omicron variant were put in place world-wide as further evidence emerged of just how rapidly the new strain spreads. 
+ <p class="updated_time"> 07:25 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/turkey-rolls-out-economic-rescue-plan-reversing-lira-spiral-11640091727">Turkey Rolls Out Economic Rescue Plan, Reversing Lira's Spiral</a> WSJ: Turkey’s currency mounted a dramatic, partial reversal from a monthslong collapse after President Recep Tayyip Erdogan announced a rescue plan to encourage Turks to put their money back into the lira. 
  <p class="updated_time"> 07:07 AM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/putin-blames-u-s-for-ukraine-tensions-11640100640">Putin Blames U.S. and Europe for Ukraine Tensions</a> WSJ: Russian President Vladimir Putin hardened his rhetoric toward the West, blaming the U.S. and Europe for deteriorating relations and vowing to retaliate against their aggression as he ordered the further development of Russia’s armed forces and its weaponry. 
  <p class="updated_time"> 07:03 AM CT, Dec. 21 </p> 
@@ -55,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59740356?at_medium=RSS&at_campaign=KARANGA">Israel rejects 'alarm call' by Christian leaders in Jerusalem</a> BBC: Church leaders say "radical groups" are attempting to drive Christians out of the Holy Land. 
  <p class="updated_time"> 05:51 AM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/well-preserved-embryo-found-inside-fossilized-dinosaur-egg-11640102402">Well-Preserved Embryo Found Inside Fossilized Dinosaur Egg</a> WSJ: Scientists said the embryo inside the egg, which was laid between 72 million to 66 million years ago during the Late Cretaceous period, was that of a two-legged, feathered carnivore known as an oviraptorid. 
- <p class="updated_time"> 05:20 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/as-omicron-takes-over-in-the-u-s-more-curbs-world-wide-11640091714">As Omicron Takes Over in the U.S., More Curbs World-Wide</a> WSJ: New travel restrictions and other steps to curb the spread of the Omicron variant were put in place world-wide as further evidence emerged of just how rapidly the new strain spreads. 
  <p class="updated_time"> 05:08 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59740185?at_medium=RSS&at_campaign=KARANGA">Turkish lira in comeback after new plan unveiled</a> BBC: The lira sees strong gains for the second day running in response to moves to strengthen the currency. 
  <p class="updated_time"> 05:07 AM CT, Dec. 21 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59733321?at_medium=RSS&at_campaign=KARANGA">UK Supreme Court denies Maduro claim to Venezuelan gold</a> BBC: The ruling means only opposition leader Juan Guaidó can access Venezuelan gold reserves in the UK. 
  <p class="updated_time"> 02:06 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066166281/new-wave-of-syrian-migrants-fleeing-post-war-misery">New waves of Syrian migrants are fleeing postwar misery</a> NPR: While the numbers are far below the levels during the height of the civil war, the number of Syrians applying for asylum in the EU increased 70% over last year. 
- <p class="updated_time"> 02:02 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/turkey-rolls-out-economic-rescue-plan-reversing-lira-spiral-11640091727">Turkey Rolls Out Economic Rescue Plan, Reversing Lira Spiral</a> WSJ: Turkey’s currency mounted a dramatic, partial reversal from a monthslong collapse after President Recep Tayyip Erdogan announced a rescue plan to encourage Turks to put their money back into the lira. 
  <p class="updated_time"> 01:33 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066163872/mexican-cartels-turning-to-meth-and-fentanyl-production">Mexican cartels are turning to meth and fentanyl production</a> NPR: Cartels are increasingly turning to huge, industrial-scale labs to churn out synthetic drugs as they shift away from naturally grown drugs like opium and marijuana. 
  <p class="updated_time"> 01:00 AM CT, Dec. 21 </p> 
@@ -88,7 +88,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:57 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/health/covid-novavax-europe.html">Novavax’s Covid Vaccine Is Authorized in Europe</a> NYT: The vaccine will be the fifth to become available in the E.U., which already has ample supplies. 
  <p class="updated_time"> 10:12 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2021/12/20/1066049450/super-typhoon-rai-leaves-a-path-of-devastation-and-uncertainty">Super Typhoon Rai leaves a path of devastation and uncertainty</a> NPR: Rai is one of the most powerful storms to hit the southern Philippines on record. It's displaced more than 481,000 people and killed at least 375, with 500 missing. 
+ <a href="https://www.npr.org/sections/pictureshow/2021/12/20/1066049450/super-typhoon-rai-leaves-a-path-of-devastation-and-uncertainty">Desperation grows in the Philippines in the aftermath of Typhoon Rai</a> NPR: Rai is one of the most powerful storms to hit the southern Philippines on record. It's displaced more than 481,000 people and killed at least 375, with 500 missing. 
  <p class="updated_time"> 06:53 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59737125?at_medium=RSS&at_campaign=KARANGA">The secret lives of Ghislaine Maxwell and Jeffrey Epstein</a> BBC: Never-before-seen photos released during her trial shed new light on their private lives. 
  <p class="updated_time"> 06:46 PM CT, Dec. 20 </p> 
@@ -208,10 +208,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:36 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/wall-street-manchin-covid-growth-expectations-525845">Wall Street checks growth expectations as Manchin, virus dim outlook</a> Politico: While the surge in Covid cases threatens to undercut growth, much of the effect will depend on how policymakers respond. 
+ <p class="updated_time"> 12:15 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/iran-nuclear-deal-rob-malley/index.html">US Special Envoy for Iran warns of 'escalating crisis' if talks fail to revive Iran nuclear deal</a> CNN: The time left to revive the 2015 nuclear deal with Iran is running out and raising the risk of an "escalating crisis," the United States Special Envoy for Iran, Rob Malley, told CNN's Becky Anderson on Tuesday. 
  <p class="updated_time"> 12:08 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/nyc-covid-testing.html">How to Find a Coronavirus Test in New York City</a> NYT: City officials announced plans to open nearly two dozen additional testing sites to meet demand for testing, which has doubled in the past three weeks. 
- <p class="updated_time"> 11:59 AM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/iran-nuclear-deal-rob-malley/index.html">US Special Envoy for Iran warns of 'escalating crisis' if talks fail to revive Iran nuclear deal</a> CNN: The time left to revive the 2015 nuclear deal with Iran is running out and raising the risk of an "escalating crisis," the United States Special Envoy for Iran, Rob Malley, told CNN's Becky Anderson on Tuesday. 
  <p class="updated_time"> 11:48 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/kim-potter-trial-daunte-wright-police-shooting-525841">Kim Potter trial jury in Daunte Wright's death resumes deliberations</a> Politico: The suburban Minneapolis police officer is charged with first- and second-degree manslaughter. 
  <p class="updated_time"> 11:43 AM CT, Dec. 21 </p> 
@@ -219,9 +219,11 @@ permalink: /projects/news/
  <p class="updated_time"> 11:36 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/tim-walz-tests-positive-covid/index.html">Minnesota Gov. Tim Walz and family test positive for Covid</a> CNN: Minnesota Gov. Tim Walz, his wife, and their teenage son have tested positive for Covid-19, his office announced Tuesday. 
  <p class="updated_time"> 11:34 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/cyber-attacks-commission.html">Designed to Prepare for Cyberattacks, a Panel Wraps Up Its Work</a> NYT: Some of the Cyberspace Solarium Commission’s work remains unfinished as lawmakers wrestle with how to oversee security of cloud computing providers and other issues. 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/cyber-attack-commission.html">Designed to Prepare for Cyberattacks, a Panel Wraps Up Its Work</a> NYT: Some of the Cyberspace Solarium Commission’s work remains unfinished as lawmakers wrestle with how to oversee security of cloud computing providers and other issues. 
  <p class="updated_time"> 11:30 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/first-puppy-bidens-white-house/index.html">Bidens add to their family with new first puppy</a> CNN: President Joe Biden and first lady Jill Biden have added to their pet family, the first lady's spokesperson tells CNN. 
+ <p class="updated_time"> 11:12 AM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/videos/politics/2021/12/21/the-11-democrats-who-could-replace-joe-biden-2024-cillizza-the-point.cnn">The 11 Democrats who could replace Joe Biden in 2024</a> CNN: President Joe Biden's age and recent struggles have caused a lot of speculation into whether he's going to run for reelection in 2024. In the latest episode of The Point, CNN's Chris Cillizza digs into the most likely replacements on the Democratic presidential ticket. 
  <p class="updated_time"> 11:11 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/united-states-population-growth-2021-525832">U.S. population growth in 2021 slowest since nation's founding</a> Politico: The population grew just 0.1 percent in 2021, likely because of the Covid-19 pandemic, according to the U.S. Census Bureau. 
  <p class="updated_time"> 11:06 AM CT, Dec. 21 </p> 
@@ -237,7 +239,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:55 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/democrats-climate-ambitions-manchin-525835">Democrats not yet ready to trim climate ambitions despite Manchin blow</a> Politico: For now, Democrats are committed to reconfiguring a sweeping climate package centered on clean energy tax incentives. 
  <p class="updated_time"> 10:06 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/well/family/child-tax-credit-manchin.html">How Families Used the Child Tax Credit</a> NYT: The monthly payments of up to $300 per child put food on the table, paid bills and even went toward the occasional splurge. 
+ <a href="https://www.nytimes.com/2021/12/21/well/family/child-tax-credit-families.html">How Four Families Used the Child Tax Credit</a> NYT: The monthly payments of up to $300 per child put food on the table, paid bills and even went toward the occasional splurge. 
  <p class="updated_time"> 09:58 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066220864/commander-biden-puppy-major">The Bidens say hello to new puppy Commander, and Major is off to a new home</a> NPR: The new top dog at the White House is Commander Biden, a nearly 4-month-old German shepherd. Meanwhile, rescue dog Major is moving out and a cat is scheduled to arrive soon. 
  <p class="updated_time"> 09:38 AM CT, Dec. 21 </p> 
@@ -275,7 +277,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/democrats-riled-by-spanish-language-radio-attacks-on-kamala-harris-525787">Democrats riled by Spanish-language radio attacks on Kamala Harris</a> Politico: Political operatives and the radio hosts themselves say the uptick in calls is notable. Who, if anyone, is behind them remains unclear. 
  <p class="updated_time"> 04:17 AM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/joe-biden-omicron-covid-testing/index.html">Biden administration finds itself on defense as Omicron races across the US</a> CNN: The Biden administration is once again on the defensive as the pandemic cuts its wildly unpredictable course, upending American lives with the holidays around the corner and the tools that could make for safer gathering -- widespread, easily available testing -- in short supply nearly two years into the crisis. 
+ <a href="https://www.cnn.com/2021/12/21/politics/joe-biden-omicron-covid-testing/index.html">Analysis: Biden administration finds itself on defense as Omicron races across the US</a> CNN: The Biden administration is once again on the defensive as the pandemic cuts its wildly unpredictable course, upending American lives with the holidays around the corner and the tools that could make for safer gathering -- widespread, easily available testing -- in short supply nearly two years into the crisis. 
  <p class="updated_time"> 04:16 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066181618/the-white-house-wants-to-focus-on-china-but-russia-continues-to-be-a-distraction">The White House wants to focus on China, but Russia continues to be a distraction</a> NPR: President Biden has worked to focus his foreign policy on China. But provocations from Russia keep pulling him away. 
  <p class="updated_time"> 04:16 AM CT, Dec. 21 </p> 
@@ -356,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/alex-jones-sues-jan-6-committee-indicates-plan-to-plead-the-fifth-525770">Alex Jones sues Jan. 6 committee, indicates plan to plead the Fifth</a> Politico: In the lawsuit, Jones says he intends to assert his Fifth Amendment rights against self-incrimination. 
  <p class="updated_time"> 02:08 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/pelosi-reaction-build-back-better/index.html">Pelosi says Democrats 'will not let this opportunity pass' on Build Back Better Act despite Manchin's stance</a> CNN: House Speaker Nancy Pelosi projected confidence Monday, vowing Democrats will not give up on passing the Build Back Better Act, despite Sen. Joe Manchin saying he will not vote for the package in its current form. 
- <p class="updated_time"> 01:56 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/joe-biden-russia-ukraine-obama-2014/index.html">'A four-week window': Biden aims to learn from Obama's mistakes with quick moves to deter Putin from invading Ukraine</a> CNN: When the US intelligence community first picked up signs in the fall that Russia could be preparing a new attack on Ukraine, President Joe Biden directed his administration to act -- and fast. 
  <p class="updated_time"> 01:10 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/pentagon-extremism-service-members-525762">Pentagon issues rules aimed at stopping rise of extremism</a> Politico: Officials said the new policy doesn’t largely change what is prohibited, but is more of an effort to make sure troops are clear on what they can and can’t do. 
  <p class="updated_time"> 12:53 PM CT, Dec. 20 </p> 
