@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:48 PM CT, Dec. 21 </p> 
+ <p class="updated_time"> 01:55 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans, and military medical personnel are being prepared to help overwhelmed U.S. hospitals. Germany, Sweden and Scotland tightened restrictions. 
+ <p class="updated_time"> 01:51 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/europe/turkey-inflation-rising-prices.html">Cashing In Grandma’s Gold Coins, a Turkish Family Struggles to Get By</a> NYT: As inflation soars and the value of Turkey’s currency plummets, one couple described how working families can’t make ends meet and have had to cut back on basic necessities as well as life’s smaller pleasures. 
  <p class="updated_time"> 01:48 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee sought briefings from search engines whose services might have been leveraged by the site, which has been linked to numerous deaths. Seven House members asked the Justice Department about avenues for investigation. 
  <p class="updated_time"> 01:44 PM CT, Dec. 21 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/europe/france-italy-covid-vaccination-fakes.html">France Uncovers Over 180,000 Fake Covid Passes</a> NYT: The developments suggest that resistance to Europe’s vaccination requirements remains significant. 
  <p class="updated_time"> 12:37 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/australia/new-zealand-omicron-response.html">New Zealand and Other Asia Pacific Countries Respond to Omicron</a> NYT: New Zealand is taking measures to limit the spread of Omicron, including delaying the reopening of its borders. It has detected 22 cases of Omicron in international arrivals. 
- <p class="updated_time"> 12:12 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/europe/turkey-inflation-rising-prices.html">Cashing In Grandma’s Gold Coins, a Turkish Family Struggles to Get By</a> NYT: As inflation soars and the value of Turkey’s currency plummets, one couple described how working families can’t make ends meet and have had to cut back on basic necessities as well as life’s smaller pleasures. 
  <p class="updated_time"> 11:56 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/arts/music/christmas-caroling-covid.html">These Carol Singers Are Carrying on, Despite Omicron Variant</a> NYT: Last year, most carol singing in Britain was canceled because of the pandemic. This year, a group of roving singers was determined to carry on, despite the Omicron variant. 
  <p class="updated_time"> 11:28 AM CT, Dec. 21 </p> 
@@ -206,6 +206,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:49 PM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/boston-mayor-vaccine-mandates-525858">Boston mayor lines up vaccine mandates amid pushback from city workers</a> Politico: “I wish we were taking these actions faster,” Boston Mayor Michelle Wu said at a press conference Tuesday. 
+ <p class="updated_time"> 01:54 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/biden-covid-omicron-free-at-home-tests/index.html">Biden assures Americans vaccinated against Covid-19 they can go ahead with holiday plans despite Omicron surge</a> CNN: President Joe Biden will announce Tuesday a purchase of a half-billion at-home rapid Covid-19 tests and a plan to distribute them free to Americans who request them through a website, one of a series of new steps he'll unveil as the country faces a potentially crippling wintertime surge of infections. 
  <p class="updated_time"> 01:48 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee sought briefings from search engines whose services might have been leveraged by the site, which has been linked to numerous deaths. Seven House members asked the Justice Department about avenues for investigation. 
  <p class="updated_time"> 01:35 PM CT, Dec. 21 </p> 
@@ -242,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/21/united-states-population-growth-2021-525832">U.S. population growth in 2021 slowest since nation's founding</a> Politico: The population grew just 0.1 percent in 2021, likely because of the Covid-19 pandemic, according to the U.S. Census Bureau. 
  <p class="updated_time"> 11:01 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/business/economy/mary-daly-federal-reserve-inflation.html">Lingering Virus, Lasting Inflation: A Fed Official Explains Her Pivot</a> NYT: Mary Daly, president of the Federal Reserve Bank of San Francisco, wanted to withdraw economic help slowly. Now, she might support a rate increase as soon as March. 
- <p class="updated_time"> 10:59 AM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/biden-covid-omicron-free-at-home-tests/index.html">Biden to announce plan for free at-home tests as he assures vaccinated Americans they don't need to cancel holiday plans</a> CNN: President Joe Biden will announce Tuesday a purchase of a half-billion at-home rapid Covid-19 tests and a plan to distribute them free to Americans who request them through a website, one of a series of new steps he'll unveil as the country faces a potentially crippling wintertime surge of infections. 
  <p class="updated_time"> 10:59 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/omicron-covid-biden.html">To Fight Omicron, Biden Plans Aid From Military and 500 Million Tests</a> NYT: The president is set to unveil his initiatives, which also include creating new federal testing sites and deploying federal vaccinators, in a speech on Tuesday. 
  <p class="updated_time"> 10:55 AM CT, Dec. 21 </p> 
@@ -301,7 +303,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1065337316/south-portland-mayor-somali-american">Deqa Dhalac is the first Somali-American mayor in the United States</a> NPR: After fleeing Somalia some 30 years ago, Dhalac became this country's first Somali-American mayor earlier this month, elected in a city that's 90% white. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066167265/biden-to-announce-free-covid-tests-more-aid-for-hospitals-to-deal-with-omicron">Watch: Biden to announce free COVID tests, aid for hospitals to deal with omicron </a> NPR: The U.S. government plans to buy a half-billion at-home COVID test kits and mail them to people who want them, with deliveries beginning in January. 
+ <a href="https://www.npr.org/2021/12/21/1066167265/biden-to-announce-free-covid-tests-more-aid-for-hospitals-to-deal-with-omicron">Watch: Biden announces free COVID tests, aid for hospitals to deal with omicron </a> NPR: The U.S. government plans to buy a half-billion at-home COVID test kits and mail them to people who want them, with deliveries beginning in January. 
  <p class="updated_time"> 12:15 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/california-redistricting-midterms-525815">California’s new congressional map boosts Democrats</a> Politico: The final maps were approved late Monday by the state’s independent redistricting commission. 
  <p class="updated_time"> 11:01 PM CT, Dec. 20 </p> 
@@ -364,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/alex-jones-sues-jan-6-committee-indicates-plan-to-plead-the-fifth-525770">Alex Jones sues Jan. 6 committee, indicates plan to plead the Fifth</a> Politico: In the lawsuit, Jones says he intends to assert his Fifth Amendment rights against self-incrimination. 
  <p class="updated_time"> 02:08 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/pelosi-reaction-build-back-better/index.html">Pelosi says Democrats 'will not let this opportunity pass' on Build Back Better Act despite Manchin's stance</a> CNN: House Speaker Nancy Pelosi projected confidence Monday, vowing Democrats will not give up on passing the Build Back Better Act, despite Sen. Joe Manchin saying he will not vote for the package in its current form. 
- <p class="updated_time"> 01:10 PM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/pentagon-extremism-service-members-525762">Pentagon issues rules aimed at stopping rise of extremism</a> Politico: Officials said the new policy doesn’t largely change what is prohibited, but is more of an effort to make sure troops are clear on what they can and can’t do. 
  <p class="updated_time"> 12:53 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/joe-biden-build-back-better-setback-explained/index.html">Biden's Build Back Better plan is on ice. Here's what that means for you</a> CNN: No more monthly payments for tens of millions of families. No universal pre-kindergarten for 3- and 4-year-olds. No health insurance for more than 2 million low-income Americans. No funneling of billions of dollars into clean energy initiatives. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
