@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 07:17 PM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59736726?at_medium=RSS&at_campaign=KARANGA">Abducted Haiti missionaries describe daring escape</a> BBC: The group, including four children, navigated by the stars as they trekked through the bush to freedom. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59736726?at_medium=RSS&at_campaign=KARANGA">Abducted Haiti missionaries describe daring escape</a> BBC: The group, including children, navigated by the stars as they trekked through the bush to freedom. 
  <p class="updated_time"> 06:46 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/larry-hogan-covid.html">Larry Hogan, Governor of Maryland, Tests Positive for Covid</a> NYT: He said he is feeling fine and that the positive test result came as a result of routine testing. 
  <p class="updated_time"> 06:36 PM CT, Dec. 20 </p> 
@@ -210,8 +210,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:31 PM CT, Dec. 20 </p> 
+ <p class="updated_time"> 08:22 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/house-democrats-retirements-2022/index.html">'We have got a problem here': Low morale and redistricting hand Democrats a growing retirement issue</a> CNN: There is a growing sense of gloom among Democrats in the House. And every week or so, when another Democratic member of Congress announces they won't run for reelection in 2022, the mood inside the caucus worsens. 
+ <p class="updated_time"> 07:50 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/trump-ny-attorney-general-james/index.html">Trump sues NY attorney general, seeking to stop investigation into his company</a> CNN: Former President Donald Trump and the Trump Organization have sued New York Attorney General Letitia James, asking for a federal court to halt or limit her office's ongoing investigations. 
+ <p class="updated_time"> 07:50 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/manchin-climate-change-coal.html">Behind Manchin’s Opposition, a Long History of Fighting Climate Measures</a> NYT: Senator Joe Manchin III noted climate policy when he said he would vote against the Build Back Better Act. In his life and career, West Virginia coal has loomed large. 
+ <p class="updated_time"> 07:46 PM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/biden-puppy-commander.html">‘Hey, Pal’: Biden Welcomes a New Puppy to the White House</a> NYT: The 3-month-old German shepherd with very large, pointy ears is named Commander. 
  <p class="updated_time"> 07:23 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/scott-perry-january-6-committee.html">For First Time, Jan. 6 Panel Seeks Information From a House Member</a> NYT: The committee is requesting testimony and documents from Representative Scott Perry, a Pennsylvania Republican who was deeply involved in efforts to overturn the election. 
  <p class="updated_time"> 07:03 PM CT, Dec. 20 </p> 
@@ -232,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/us/politics/ted-cruz-biden-ambassadors.html">Deal With Ted Cruz Sets Stage for Russia Pipeline Fight in Early 2022</a> NYT: The Texas Republican leveraged his obstruction of diplomatic nominees into a Senate vote that could complicate President Biden’s efforts to defend Ukraine. 
  <p class="updated_time"> 06:12 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/first-puppy-bidens-white-house/index.html">Bidens add to their family with new first puppy</a> CNN: President Joe Biden and first lady Jill Biden have added to their pet family, the first lady's spokesperson tells CNN. 
- <p class="updated_time"> 05:41 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/manchin-climate-change-coal.html">Behind Manchin’s Opposition, a Long History of Fighting Climate Measures</a> NYT: Senator Joe Manchin III noted climate policy when he said he would vote against the Build Back Better Act. In his life and career, West Virginia coal has loomed large. 
  <p class="updated_time"> 05:19 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066060178/alex-jones-infowars-trump-conspiracy-theorist-jan-6-committee-capitol-perry">GOP Rep. Scott Perry is the first sitting lawmaker the Jan. 6 panel wants to question</a> NPR: Perry is the first sitting lawmaker that the panel has sought to question from regarding the Jan. 6 Capitol insurrection. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
@@ -286,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/pentagon-extremism-service-members-525762">Pentagon issues rules aimed at stopping rise of extremism</a> Politico: Officials said the new policy doesn’t largely change what is prohibited, but is more of an effort to make sure troops are clear on what they can and can’t do. 
  <p class="updated_time"> 12:53 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/joe-biden-build-back-better-setback-explained/index.html">Biden's Build Back Better plan is on ice. Here's what that means for you</a> CNN: No more monthly payments for tens of millions of families. No universal pre-kindergarten for 3- and 4-year-olds. No health insurance for more than 2 million low-income Americans. No funneling of billions of dollars into clean energy initiatives. 
- <p class="updated_time"> 12:26 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/trump-ny-attorney-general-james/index.html">Trump sues NY attorney general, seeking to stop investigation into his company</a> CNN: Former President Donald Trump and the Trump Organization have sued New York Attorney General Letitia James, asking for a federal court to halt or limit her office's ongoing investigations. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/manchin-build-back-better-redo-525747">Manchin to Dems: Redo the whole thing, maybe I'll vote for it</a> Politico: The West Virginia senator wants a new bill that goes through Senate committees and focuses on rolling back the 2017 Trump tax cuts. 
  <p class="updated_time"> 12:07 PM CT, Dec. 20 </p> 
@@ -394,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/18/its-just-completely-delusional-495520"> ‘It’s just completely delusional’</a> Politico Playbook: And the Senate adjourns for the year. 
  <p class="updated_time"> 09:11 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/cruz-vote-russian-pipeline-sanctions-schumer-525334">Cruz secures vote on Russian pipeline sanctions in deal with Schumer</a> Politico: Cruz agreed to lift his holds on 32 nominees in exchange for the Senate voting in early January on his legislation to sanction the pipeline. 
- <p class="updated_time"> 09:02 AM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/middleeast/israel-iran-nuclear-attack.html">Israeli Defense Officials Cast Doubt on Threat to Attack Iran</a> NYT: Israel has threatened military action to destroy Iran’s nuclear program if need be. But defense officials say Israel does not have the ability, at least not anytime soon. 
  <p class="updated_time"> 07:52 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/stop-the-steal-founder-jan-6-committee-gop-lawmakers-525345">‘Stop the Steal’ founder told Jan. 6 committee about contacts with GOP lawmakers</a> Politico: The description of the testimony comes in a lawsuit Ali Alexander filed to block the committee from obtaining his phone records. 
  <p class="updated_time"> 07:01 AM CT, Dec. 18 </p> 
