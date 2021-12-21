@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:15 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/california-redistricting-midterms-525815">California’s new congressional map boosts Democrats</a> Politico: The final maps were approved late Monday by the state’s independent redistricting commission. 
  <p class="updated_time"> 09:51 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/ghislaine-maxwell-jury-deliberations-525813">Ghislaine Maxwell jury begins deliberations</a> Politico: The case has brought renewed attention to the Jeffrey Epstein scandals. 
  <p class="updated_time"> 09:16 PM CT, Dec. 20 </p> 
