@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:44 PM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59723341?at_medium=RSS&at_campaign=KARANGA">Malaysia: Death toll rises after massive floods</a> BBC: At least 14 are dead and tens of thousands are displaced by one of the worst floods in decades. 
  <p class="updated_time"> 10:12 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2021/12/20/1066049450/super-typhoon-rai-leaves-a-path-of-devastation-and-uncertainty">Super Typhoon Rai leaves a path of devastation and uncertainty</a> NPR: Rai is one of the most powerful storms to hit the southern Philippines on record. It's displaced more than 481,000 people and killed at least 375, with 500 missing. 
  <p class="updated_time"> 08:54 PM CT, Dec. 20 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/nyregion/nyc-omicron-de-blasio.html">NYC Mayor: City Needs to Move Faster to Fight Omicron </a> NYT: In a news conference, Bill de Blasio said the next surge would likely be large but temporary. 
  <p class="updated_time"> 02:35 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/health/covid-novavax-europe.html">Novavax’s Covid Vaccine Is Authorized in Europe</a> NYT: The vaccine will be the fifth to become available in the E.U., which already has ample supplies. 
- <p class="updated_time"> 01:56 PM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/business-59732935?at_medium=RSS&at_campaign=KARANGA">Elon Musk says he'll be paying $11bn in tax this year</a> BBC: The Tesla founder and world's richest person has been involved in a public spat over his tax bill. 
  <p class="updated_time"> 01:53 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59715941?at_medium=RSS&at_campaign=KARANGA">Leftist Gabriel Boric to become Chile's youngest ever president</a> BBC: Gabriel Boric, 35, says he will look after democracy after a convincing win over his far-right rival. 
  <p class="updated_time"> 01:47 PM CT, Dec. 20 </p> 
