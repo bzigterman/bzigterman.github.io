@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:27 PM CT, Dec. 21 </p> 
+ <p class="updated_time"> 02:43 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/middleeast/libya-election.html">Libya’s Long-Awaited Election Will Most Likely Be Delayed</a> NYT: A postponement raises the possibility that the oil-rich North African nation could again descend into the fragmentation and violence that have marked the decade since its dictator was toppled. 
+ <p class="updated_time"> 02:38 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans, and military medical personnel are being prepared to help overwhelmed U.S. hospitals. Germany, Sweden and Scotland tightened restrictions. 
+ <p class="updated_time"> 02:31 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Big Tech to ‘Mitigate Harm’ of Suicide Site and Seek Justice Inquiry</a> NYT: A House committee sought briefings from search engines whose services might have been leveraged by the site, which has been linked to numerous deaths. Seven House members asked the Justice Department about avenues for investigation. 
  <p class="updated_time"> 02:12 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/19/health/omicron-vaccines-efficacy.html">Most of the World’s Vaccines Likely Won’t Prevent Infection From Omicron</a> NYT: They do seem to offer significant protection against severe illness, but the consequences of rapidly spreading infection worry many public health experts. 
- <p class="updated_time"> 02:08 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee sought briefings from search engines whose services might have been leveraged by the site, which has been linked to numerous deaths. Seven House members asked the Justice Department about avenues for investigation. 
  <p class="updated_time"> 02:03 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/africa/mauritius-oil-spill.html">2 Ship Officers Plead Guilty to Light Charges in Mauritius Oil Spill</a> NYT: The leak was an environmental calamity for the Indian Ocean nation, which relies on its beaches and lagoons for tourism and fishing. 
  <p class="updated_time"> 01:51 PM CT, Dec. 21 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/world/middleeast/hamas-israel-gaza-war.html">Hamas, Claiming Victory Over Israel, Is Stuck in Same Old Cycle</a> NYT: Seven months after a war with Israel, hundreds are dead but otherwise little has changed. It’s a familiar pattern. 
  <p class="updated_time"> 09:50 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/southeast-asian-tourism-covid.html">Southeast Asia's Tourist Spots Are Open, but Visitors Are Scarce</a> NYT: Hopes for a revival of international tourism have fizzled amid restrictions, paperwork, a lack of flights and uncertainty around the Omicron variant. 
- <p class="updated_time"> 09:32 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/asia/japan-fire-osaka-arson.html">Japan Fire: Osaka Police Identify a Suspect, 61</a> NYT: A 61-year-old man, hospitalized after the fire at an Osaka psychiatric clinic, is being investigated on suspicion of arson and murder, the police said. 
  <p class="updated_time"> 08:45 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/biden-national-address-on-omicron.html">Biden to Address Nation About Omicron on Tuesday</a> NYT: The remarks are expected to detail how the United States will respond to the latest pandemic challenge. 
 
@@ -212,24 +212,28 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/21/somaliland-china-taiwan-congress-525842">On the Horn of Africa, a tiny 'country' has Congress' ear</a> Politico: Somaliland's delegation swept through Washington, promising to support Taiwan and ditch China. All it wants is a little recognition. 
  <p class="updated_time"> 02:49 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/boston-mayor-vaccine-mandates-525858">Boston mayor lines up vaccine mandates amid pushback from city workers</a> Politico: “I wish we were taking these actions faster,” Boston Mayor Michelle Wu said at a press conference Tuesday. 
- <p class="updated_time"> 02:08 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee sought briefings from search engines whose services might have been leveraged by the site, which has been linked to numerous deaths. Seven House members asked the Justice Department about avenues for investigation. 
+ <p class="updated_time"> 02:40 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/biden-covid-omicron-free-at-home-tests/index.html">Biden assures vaccinated Americans they can go ahead with holiday plans despite Omicron surge</a> CNN: President Joe Biden will announce Tuesday a purchase of a half-billion at-home rapid Covid-19 tests and a plan to distribute them free to Americans who request them through a website, one of a series of new steps he'll unveil as the country faces a potentially crippling wintertime surge of infections. 
+ <p class="updated_time"> 02:38 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/biden-build-back-better-manchin/index.html">Biden insists he and Manchin will 'get something done' after Build Back Better setback</a> CNN: President Joe Biden on Tuesday insisted that he and Democratic Sen. Joe Manchin will "get something done" on the Build Back Better Act after Manchin defied his party by torpedoing the key piece of Biden's domestic agenda. 
+ <p class="updated_time"> 02:34 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/scott-perry-january-6-committee/index.html">GOP Rep. Scott Perry declines January 6 committee's request to speak with him</a> CNN: Republican Rep. Scott Perry on Tuesday declined the House January 6 committee's request to speak with him. 
+ <p class="updated_time"> 02:31 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Big Tech to ‘Mitigate Harm’ of Suicide Site and Seek Justice Inquiry</a> NYT: A House committee sought briefings from search engines whose services might have been leveraged by the site, which has been linked to numerous deaths. Seven House members asked the Justice Department about avenues for investigation. 
+ <p class="updated_time"> 02:28 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/us-travel-ban-omicron/index.html">Biden says he's considering lifting travel ban on southern African countries put in place to limit spread of Omicron</a> CNN: President Joe Biden said Tuesday that he is "considering" whether to lift the US' travel ban on South Africa and seven other southern African countries that was put in place as the Omicron variant of the coronavirus began to spread. 
  <p class="updated_time"> 02:07 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/gop-state-officials-prepare-new-wave-of-voting-restrictions/index.html">State legislators gear up to pass a 'tidal wave' of voting restrictions ahead of crucial 2022 midterms</a> CNN: The push to impose voting restrictions at the state level is poised to continue next year as Republicans drive forward with an array of new proposals -- ranging from legislation that would eliminate ballot drop boxes to bills that would establish new ID requirements to vote. 
- <p class="updated_time"> 01:54 PM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/biden-covid-omicron-free-at-home-tests/index.html">Biden assures Americans vaccinated against Covid-19 they can go ahead with holiday plans despite Omicron surge</a> CNN: President Joe Biden will announce Tuesday a purchase of a half-billion at-home rapid Covid-19 tests and a plan to distribute them free to Americans who request them through a website, one of a series of new steps he'll unveil as the country faces a potentially crippling wintertime surge of infections. 
  <p class="updated_time"> 01:35 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/robert-lemke-capitol-riot.html">Robert Lemke Sentenced to 3 Years Over Threats to Journalists and Politicians</a> NYT: The same day that Trump supporters stormed the Capitol, Robert Lemke told a congressman’s brother that he was with “armed members near your home,” prosecutors said. 
  <p class="updated_time"> 01:30 PM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/democrats-tax-plans-525855">Democrats not giving up on tax plans despite spending bill blowup</a> Politico: Sen. Joe Manchin continues to cast a skeptical eye at what many Democrats believe to be a centerpiece of their agenda — the more generous version of the Child Tax Credit. 
+ <a href="https://www.politico.com/news/2021/12/21/democrats-tax-plans-525855">Tax hikes still on the table as Dems scramble to save spending bill</a> Politico: Sen. Joe Manchin continues to cast a skeptical eye at what many Democrats believe to be a centerpiece of their agenda — the more generous version of the Child Tax Credit. 
  <p class="updated_time"> 01:24 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/ted-cruz-biden-ukraine.html">Deal With Ted Cruz Sets Stage for Russia Pipeline Fight in Early 2022</a> NYT: The Texas Republican leveraged his obstruction of diplomatic nominees into a Senate vote that could complicate President Biden’s efforts to defend Ukraine. 
  <p class="updated_time"> 01:21 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/81-year-old-january-6-defendant-wickersham/index.html">81-year-old US Capitol rioter sentenced to three years of probation</a> CNN: An 81-year-old Army veteran was sentenced to three years of probation on Tuesday for illegally breaching the US Capitol on January 6. 
  <p class="updated_time"> 01:18 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/business/economy/kellogg-union-strike-contract.html">Kellogg Workers Ratify Contract After Being on Strike Since October</a> NYT: Union members had rejected an earlier proposal in early December, prolonging a strike by about 1,400 workers at four cereal plants. 
- <p class="updated_time"> 01:09 PM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/scott-perry-january-6-committee/index.html">GOP Rep. Scott Perry declines January 6 committee's request to speak with him</a> CNN: Republican Rep. Scott Perry on Tuesday declined the House January 6 committee's request to speak with him. 
  <p class="updated_time"> 12:36 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/wall-street-manchin-covid-growth-expectations-525845">Dems' 2022 prospects hit with one-two blow on economy</a> Politico: While the surge in Covid cases threatens to undercut growth, much of the effect will depend on how policymakers respond. 
  <p class="updated_time"> 12:20 PM CT, Dec. 21 </p> 
@@ -364,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/alex-jones-sues-jan-6-committee-indicates-plan-to-plead-the-fifth-525770">Alex Jones sues Jan. 6 committee, indicates plan to plead the Fifth</a> Politico: In the lawsuit, Jones says he intends to assert his Fifth Amendment rights against self-incrimination. 
  <p class="updated_time"> 02:08 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/pelosi-reaction-build-back-better/index.html">Pelosi says Democrats 'will not let this opportunity pass' on Build Back Better Act despite Manchin's stance</a> CNN: House Speaker Nancy Pelosi projected confidence Monday, vowing Democrats will not give up on passing the Build Back Better Act, despite Sen. Joe Manchin saying he will not vote for the package in its current form. 
- <p class="updated_time"> 01:56 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/joe-biden-russia-ukraine-obama-2014/index.html">'A four-week window': Biden aims to learn from Obama's mistakes with quick moves to deter Putin from invading Ukraine</a> CNN: When the US intelligence community first picked up signs in the fall that Russia could be preparing a new attack on Ukraine, President Joe Biden directed his administration to act -- and fast. 
  <p class="updated_time"> 12:53 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/joe-biden-build-back-better-setback-explained/index.html">Biden's Build Back Better plan is on ice. Here's what that means for you</a> CNN: No more monthly payments for tens of millions of families. No universal pre-kindergarten for 3- and 4-year-olds. No health insurance for more than 2 million low-income Americans. No funneling of billions of dollars into clean energy initiatives. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
@@ -384,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">White House issues damning statement against Manchin after saying he won't vote for Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 07:56 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/14-policies-manchin-social-spending-525681">How 14 policies could survive — or die — after Manchin’s ‘no’</a> Politico: Despite his clear opposition  to enacting President Joe Biden’s $1.7T social spending package, the West Virginia senator actually likes a slew of individual policies in the plan, giving Democrats hope for turning some of those ideas into law. 
- <p class="updated_time"> 07:30 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-joe-biden-build-back-better-talks-break-down/index.html">How months of talks between Biden and Manchin over Build Back Better broke down </a> CNN: President Joe Biden was at home in Delaware Sunday when Sen. Joe Manchin appeared on Fox News to abruptly declare he could not support his sweeping social and climate plan. "I've tried everything humanly possible," the West Virginia Democrat said, appearing remotely. "I can't get there. This is a no." 
  <p class="updated_time"> 07:00 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/democratic-sky-high-expectations-fall-flat-525537">Dems trip over their own sky-high expectations</a> Politico: Joe Manchin's rejection of the party's social spending bill is just the latest episode in a series of lofty goals it's failed to deliver on. 
  <p class="updated_time"> 03:52 PM CT, Dec. 19 </p> 
