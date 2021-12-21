@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:12 PM CT, Dec. 20 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2021/12/20/1066049450/super-typhoon-rai-leaves-a-path-of-devastation-and-uncertainty">Super Typhoon Rai leaves a path of devastation and uncertainty</a> NPR: Rai is one of the most powerful storms to hit the southern Philippines on record. It's displaced more than 481,000 people and killed at least 375, with 500 missing. 
  <p class="updated_time"> 08:54 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/trump-supporters-booster-shots.html">Donald Trump Said He Got a Booster Shot and His Supporters Booed</a> NYT: At an event in Houston, the former president revealed for the first time publicly that he had received the additional vaccine dose. 
  <p class="updated_time"> 07:17 PM CT, Dec. 20 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/egyptian-court-sentences-three-activists-despite-international-pressure-11640019548">Egyptian Court Sentences Activists Despite International Pressure</a> WSJ: The political dissident Alaa Abdel-Fattah and two others were sent to prison on charges of joining a terrorist group and spreading false news 
  <p class="updated_time"> 07:27 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/middleeast/israel-us-travel-covid.html">Israel Bars Travel to U.S. or Canada as Omicron Surges</a> NYT: The countries were added to Israel’s rapidly growing “red list” as Prime Minister Naftali Bennett’s government tries to slow Omicron’s spread. 
- <p class="updated_time"> 04:40 AM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59726191?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: World heritage site Lalibela back in government hands</a> BBC: Tigray forces have left Lalibela, a town famous for its rock-hewn churches. 
  <p class="updated_time"> 04:16 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065711643/covid-is-again-raging-across-the-u-s-just-as-americans-gather-for-the-holidays">COVID is again raging across the U.S. just as Americans gather for the holidays</a> NPR: Sporting events and live theater announced cancellations amid major increases in new coronavirus cases, in large part because of the omicron variant. 
  <p class="updated_time"> 04:09 AM CT, Dec. 20 </p> 
@@ -189,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/middleeast/baghdad-book-fair-iraq.html">Reveling in the Joys of Books, and Reading, at a Baghdad Book Fair</a> NYT: Iraq is home to literary traditions ancient and modern, and to legions of avid readers who find a new book more meaningful to them than a new government. 
  <p class="updated_time"> 11:00 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/europe/france-valerie-pecresse-republicans.html">In a France Fearful of Immigrants, Another Candidate Tacks Hard Right</a> NYT: Valérie Pécresse, the center-right candidate in April’s presidential election, has adopted the vocabulary of the far right when discussing immigration. 
- <p class="updated_time"> 10:07 AM CT, Dec. 18 </p> 
- <a href="https://www.npr.org/2021/12/18/1065135970/on-mexicos-southern-border-the-latest-migration-surge-is-haitian">On Mexico's southern border, the latest migration surge is Haitian</a> NPR: Thousands of Haitian migrants who had lived in South America for years are crossing into Mexico, overwhelming that country's capacity to process them. Many say their ultimate destination is the U.S. 
  <p class="updated_time"> 09:47 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/afghanistan-marja-economy-taliban.html">Once a Symbol of U.S. Strength, an Afghan District Now Faces Dire Times</a> NYT: At the war’s end, residents of Marja are growing increasingly desperate for any kind of help, a frustration that has turned to anger that the international community has seemingly abandoned them. 
  <p class="updated_time"> 09:02 AM CT, Dec. 18 </p> 
