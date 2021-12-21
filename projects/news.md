@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:25 PM CT, Dec. 21 </p> 
+ <p class="updated_time"> 05:46 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans. Military medical personnel are being prepared to help overwhelmed U.S. hospitals. Israel will administer a fourth round of boosters. 
+ <p class="updated_time"> 05:45 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/americas/chile-boric.html">Who Is Gabriel Boric, Chile's Next President?</a> NYT: Mr. Boric, 35, is now the most prominent face of a generation of Chileans who are calling for a break with the past. 
+ <p class="updated_time"> 05:45 PM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59738678?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Biden buys 500m test kits to tackle surge</a> BBC: The US will also deploy more military medics amid fears the holiday season will spark a Covid spike. 
+ <p class="updated_time"> 05:36 PM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59748281?at_medium=RSS&at_campaign=KARANGA">Perfectly preserved dinosaur embryo found in China</a> BBC: Researchers say the fossil is at least 66 million years old and was about to hatch just like a chicken. 
  <p class="updated_time"> 05:20 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/vaccine-booster-israel-covid.html">Israel to Administer a Fourth Round of Covid Vaccines</a> NYT: Medical teams will begin to give fourth doses to those over 60 as well as to medical personnel. 
  <p class="updated_time"> 05:15 PM CT, Dec. 21 </p> 
@@ -31,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/asia/india-water-modi.html">India's Modi Brings Tap Water to Millions as Supplies Shrink</a> NYT: The ambitious project to meet a dire need shows Prime Minister Narendra Modi’s strengths and helps explain his popularity despite a weakened economy. 
  <p class="updated_time"> 03:01 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/middleeast/libya-election-delay.html">Libya’s Long-Awaited Election Will Most Likely Be Delayed</a> NYT: A postponement raises the possibility that the oil-rich North African nation could again descend into the fragmentation and violence that have marked the decade since its dictator was toppled. 
- <p class="updated_time"> 02:57 PM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59738678?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Biden buys 500m test kits to tackle surge</a> BBC: The US will also deploy more military medics amid fears the holiday season will spark a Covid spike. 
  <p class="updated_time"> 02:54 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/arts/music/christmas-caroling-covid.html">These Carol Singers Are Carrying on, Despite Omicron Variant</a> NYT: Last year, most carol singing in Britain was canceled because of the pandemic. This year, a group of roving singers was determined to carry on, despite the Omicron variant. 
  <p class="updated_time"> 02:31 PM CT, Dec. 21 </p> 
@@ -49,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59749005?at_medium=RSS&at_campaign=KARANGA">Madagascar: Minister 'swims for 12 hours' after helicopter crashes at sea</a> BBC: The Madagascar police minister was part of a team looking for survivors after a boat accident. 
  <p class="updated_time"> 01:43 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/bidens-omicron-speech.html">Here’s what we know about Biden’s speech on the U.S. Omicron response.</a> NYT: The president is expected to  announce several new steps, including setting up new testing and vaccination sites, deploying  federal vaccinators and buying 500 million rapid tests to distribute free. 
- <p class="updated_time"> 01:37 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/americas/chile-boric.html">Who Is Gabriel Boric, Chile's Next President?</a> NYT: Mr. Boric, 35, is now the most prominent face of a generation of Chileans who are calling for a break with the past. 
  <p class="updated_time"> 12:38 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/france-italy-covid-vaccination-fakes.html">France Uncovers Over 180,000 Fake Covid Passes</a> NYT: The developments suggest that resistance to Europe’s vaccination requirements remains significant. 
  <p class="updated_time"> 12:37 PM CT, Dec. 21 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/turkey-rolls-out-economic-rescue-plan-reversing-lira-spiral-11640091727">Turkey Rolls Out Economic Rescue Plan, Reversing Lira's Spiral</a> WSJ: Turkey’s currency mounted a dramatic, partial reversal from a monthslong collapse after President Recep Tayyip Erdogan announced a rescue plan to encourage Turks to put their money back into the lira. 
  <p class="updated_time"> 06:57 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/russia-military-putin-kremlin.html">How the Kremlin Is Militarizing Russian Society</a> NYT: With a “youth army,” a cathedral honoring the military and state media promoting patriotism, the government is preparing Russians for the possibility of a fight. 
- <p class="updated_time"> 06:49 AM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59725368?at_medium=RSS&at_campaign=KARANGA">Mauritius oil spill: Captain guilty over tanker spill</a> BBC: The MV Wakashio ran aground on a coral reef last year leaking about 1,000 tonnes of fuel. 
  <p class="updated_time"> 06:21 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59740356?at_medium=RSS&at_campaign=KARANGA">Israel rejects 'alarm call' by Christian leaders in Jerusalem</a> BBC: Church leaders say "radical groups" are attempting to drive Christians out of the Holy Land. 
  <p class="updated_time"> 05:51 AM CT, Dec. 21 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:06 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/covid-olympics-nhl-hockey-china-525936">NHL reportedly set to withdraw from Olympics after Covid surge</a> Politico: The hockey league is afraid it won’t be able to complete its schedule if it takes a break for the Beijing Olympics. 
+ <p class="updated_time"> 05:41 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/biden-trump-covid-vaccine-booster/index.html">Biden offers rare praise of Trump during Covid speech</a> CNN: President Joe Biden on Tuesday gave credit to the Trump administration for the development of the Covid-19 vaccine and praised his predecessor, Donald Trump, for getting a booster shot -- marking a rare moment where the two men have found common ground since Inauguration Day. 
  <p class="updated_time"> 05:27 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/climate/solar-power-federal-land-california.html">Biden Administration Approves Two California Solar Projects</a> NYT: The solar farms, planned for the California desert, would generate enough electricity to power about 132,000 homes, the Interior Department said. 
  <p class="updated_time"> 05:15 PM CT, Dec. 21 </p> 
@@ -220,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/21/politics/michael-flynn-lawsuit-january-6-committee/index.html">Michael Flynn sues January 6 committee to block phone records subpoena</a> CNN: Michael Flynn, the embattled former national security adviser to then-President Donald Trump, is suing to block a US House subpoena for his phone records. 
  <p class="updated_time"> 04:59 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/first-puppy-bidens-white-house/index.html">Bidens add to their family with new first puppy</a> CNN: President Joe Biden and first lady Jill Biden have added to their pet family, the first lady's spokesperson tells CNN. 
- <p class="updated_time"> 04:59 PM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/biden-trump-covid-vaccine-booster/index.html">Biden offers rare praise of Trump during Covid speech</a> CNN: President Joe Biden on Tuesday gave credit to the Trump administration for the development of the Covid-19 vaccine and praised his predecessor, Donald Trump, for getting a booster shot -- marking a rare moment where the two men have found common ground since Inauguration Day. 
  <p class="updated_time"> 04:54 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/prison-covid-home-confinement.html">Justice Dept. Says Some Inmates Can Stay Confined at Home</a> NYT: The move reverses a Trump-era decision that would have sent nearly all of the thousands of inmates released to home confinement during the pandemic back to prison. 
  <p class="updated_time"> 04:51 PM CT, Dec. 21 </p> 
