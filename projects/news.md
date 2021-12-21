@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:44 PM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59723341?at_medium=RSS&at_campaign=KARANGA">Malaysia: Death toll rises after massive floods</a> BBC: At least 14 are dead and tens of thousands are displaced by one of the worst floods in decades. 
  <p class="updated_time"> 11:38 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59738052?at_medium=RSS&at_campaign=KARANGA">Hong Kong election: China rejects democracy concerns from West</a> BBC: The US, Britain and others had criticised the tightly-controlled vote for "eroding democracy". 
  <p class="updated_time"> 11:28 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/asia/japan-rakugo.html">She Broke Japan’s Comedic Barrier Playing Drunks and Fools (Yep, Men)</a> NYT: Niyo Katsura has won acclaim in rakugo, a classical form of Japanese storytelling, by doing anything onstage that a man can do. 
  <p class="updated_time"> 10:57 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/health/covid-novavax-europe.html">Novavax’s Covid Vaccine Is Authorized in Europe</a> NYT: The vaccine will be the fifth to become available in the E.U., which already has ample supplies. 
- <p class="updated_time"> 10:44 PM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59723341?at_medium=RSS&at_campaign=KARANGA">Malaysia: Death toll rises after massive floods</a> BBC: At least 14 are dead and tens of thousands are displaced by one of the worst floods in decades. 
  <p class="updated_time"> 10:12 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2021/12/20/1066049450/super-typhoon-rai-leaves-a-path-of-devastation-and-uncertainty">Super Typhoon Rai leaves a path of devastation and uncertainty</a> NPR: Rai is one of the most powerful storms to hit the southern Philippines on record. It's displaced more than 481,000 people and killed at least 375, with 500 missing. 
  <p class="updated_time"> 08:54 PM CT, Dec. 20 </p> 
@@ -193,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/asia/afghanistan-marja-economy-taliban.html">Once a Symbol of U.S. Strength, an Afghan District Now Faces Dire Times</a> NYT: At the war’s end, residents of Marja are growing increasingly desperate for any kind of help, a frustration that has turned to anger that the international community has seemingly abandoned them. 
  <p class="updated_time"> 09:02 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/middleeast/israel-iran-nuclear-attack.html">Israeli Defense Officials Cast Doubt on Threat to Attack Iran</a> NYT: Israel has threatened military action to destroy Iran’s nuclear program if need be. But defense officials say Israel does not have the ability, at least not anytime soon. 
- <p class="updated_time"> 08:31 AM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/novavax-vaccine-approval-who.html">Novavax Vaccine Wins Emergency Approval from the W.H.O.</a> NYT: The authorization could drastically increase the vaccine supply for low- and middle-income countries. 
  <p class="updated_time"> 08:16 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/carrie-lam-hong-kong.html">Can a ‘Very Confident’ Carrie Lam Salvage Her Legacy in Hong Kong?</a> NYT: Mrs. Lam is Hong Kong’s most unpopular leader ever, blamed for mass protests and a political crackdown. Yet she now appears reinvigorated, perhaps even ready for a second term. 
  <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
