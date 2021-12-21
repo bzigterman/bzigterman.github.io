@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:48 AM CT, Dec. 21 </p> 
+ <p class="updated_time"> 07:54 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: E.U. Will Require Boosters for Vaccine Passes to Remain Valid</a> NYT: The N.H.L. pauses its season because of Omicron. President Biden announces new steps to quell the latest outbreak, including buying 500 million tests to distribute to the public for free. 
  <p class="updated_time"> 07:28 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/trump-supporters-booster-shots.html">Donald Trump Said He Got a Booster Shot and His Supporters Booed</a> NYT: At an event in Dallas, the former president revealed for the first time publicly that he had received the additional vaccine dose. 
