@@ -21,6 +21,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/world/trump-supporters-booster-shots.html">Donald Trump Said He Got a Booster Shot and His Supporters Booed</a> NYT: At an event in Houston, the former president revealed for the first time publicly that he had received the additional vaccine dose. 
  <p class="updated_time"> 07:17 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59736726?at_medium=RSS&at_campaign=KARANGA">Abducted Haiti missionaries describe daring escape</a> BBC: The group, including children, navigated by the stars as they trekked through the bush to freedom. 
+ <p class="updated_time"> 06:53 PM CT, Dec. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59737125?at_medium=RSS&at_campaign=KARANGA">The secret lives of Ghislaine Maxwell and Jeffrey Epstein</a> BBC: Never-before-seen photos released during her trial shed new light on their private lives. 
  <p class="updated_time"> 06:46 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/larry-hogan-covid.html">Larry Hogan, Governor of Maryland, Tests Positive for Covid</a> NYT: He said he is feeling fine and that the positive test result came as a result of routine testing. 
  <p class="updated_time"> 06:36 PM CT, Dec. 20 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/middleeast/israel-iran-nuclear-attack.html">Israeli Defense Officials Cast Doubt on Threat to Attack Iran</a> NYT: Israel has threatened military action to destroy Iran’s nuclear program if need be. But defense officials say Israel does not have the ability, at least not anytime soon. 
  <p class="updated_time"> 08:16 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/asia/carrie-lam-hong-kong.html">Can a ‘Very Confident’ Carrie Lam Salvage Her Legacy in Hong Kong?</a> NYT: Mrs. Lam is Hong Kong’s most unpopular leader ever, blamed for mass protests and a political crackdown. Yet she now appears reinvigorated, perhaps even ready for a second term. 
- <p class="updated_time"> 07:02 AM CT, Dec. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59709246?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: Walking through the storm's trail of destruction</a> BBC: Watch this video that shows the extent of the devastation in Cebu City in the Philippines. 
  <p class="updated_time"> 05:00 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/canada/newfoundland-atlantic-pandemic.html">Why Are So Many Canadians Moving to the Atlantic Provinces?</a> NYT: A Times reporter fulfills his lifelong dream of visiting Newfoundland and explores why so many Canadians are moving to the country’s Atlantic provinces. 
 
