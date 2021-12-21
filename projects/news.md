@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:46 AM CT, Dec. 21 </p> 
+ <p class="updated_time"> 09:03 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: E.U. Will Require Boosters for Vaccine Passes to Remain Valid</a> NYT: The N.H.L. pauses its season because of Omicron. President Biden announces new steps to quell the latest outbreak, including buying 500 million tests to distribute to the public for free. 
+ <p class="updated_time"> 08:50 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/asia/india-water-modi.html">India's Modi Brings Tap Water to Millions as Supplies Shrink</a> NYT: The ambitious project to meet a dire need shows Prime Minister Narendra Modi’s strengths and helps explain his popularity despite a weakened economy. 
  <p class="updated_time"> 08:30 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/turkey-inflation-rising-prices.html">Cashing In Grandma’s Gold Coins, a Turkish Family Struggles to Get By</a> NYT: As inflation soars and the value of Turkey’s currency plummets, one couple described how working families can’t make ends meet and have had to cut back on basic necessities as well as life’s smaller pleasures. 
  <p class="updated_time"> 07:53 AM CT, Dec. 21 </p> 
@@ -51,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59738053?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Sex and the City actresses show support for accusers</a> BBC: Three Sex And The City actresses issue a joint statement after co-star is accused of sexual assault. 
  <p class="updated_time"> 02:06 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066166281/new-wave-of-syrian-migrants-fleeing-post-war-misery">New waves of Syrian migrants are fleeing postwar misery</a> NPR: While the numbers are far below the levels during the height of the civil war, the number of Syrians applying for asylum in the EU increased 70% over last year. 
+ <p class="updated_time"> 02:02 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/turkey-rolls-out-economic-rescue-plan-reversing-lira-spiral-11640091727">Turkey Rolls Out Economic Rescue Plan, Reversing Lira Spiral</a> WSJ: Turkey’s currency mounted a dramatic, partial reversal from a monthslong collapse after President Recep Tayyip Erdogan announced a rescue plan to encourage Turks to put their money back into the lira. 
  <p class="updated_time"> 01:33 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066163872/mexican-cartels-turning-to-meth-and-fentanyl-production">Mexican cartels are turning to meth and fentanyl production</a> NPR: Cartels are increasingly turning to huge, industrial-scale labs to churn out synthetic drugs as they shift away from naturally grown drugs like opium and marijuana. 
  <p class="updated_time"> 01:00 AM CT, Dec. 21 </p> 
@@ -123,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/world/africa/drones-ethiopia-war-turkey-emirates.html">Foreign Drones Tip the Balance in Ethiopia’s Civil War</a> NYT: Prime Minister Abiy Ahmed pulled off a stunning reversal in the year-old conflict with the help of armed drones supplied by the United Arab Emirates, Turkey and Iran. 
  <p class="updated_time"> 11:15 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/lucia-hiriart-dead.html">Lucía Hiriart, Powerful Wife of Chile’s Dictator, Dies at 98</a> NYT: Her husband, Augusto Pinochet, acknowledged that she had pushed him to participate in the 1973 coup that brought him to power in 1973. 
- <p class="updated_time"> 10:40 AM CT, Dec. 20 </p> 
- <a href="https://www.wsj.com/articles/chiles-election-of-leftist-as-president-shakes-nations-markets-11640029959">Chile's Election of Leftist as President Shakes Nation's Markets</a> WSJ: Gabriel Boric’s landslide win could empower him to embark on a big economic revamp of the market economy. 
  <p class="updated_time"> 10:35 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
  <p class="updated_time"> 10:21 AM CT, Dec. 20 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/london-major-incident.html">With Omicron Surging, London Declares a ‘Major Incident'</a> NYT: The Greater London area has seen cases rise by nearly 200 percent over the last two weeks, making it the hardest hit area of Britain. 
  <p class="updated_time"> 12:43 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/middleeast/baghdad-book-fair-iraq.html">Reveling in the Joys of Books, and Reading, at a Baghdad Book Fair</a> NYT: Iraq is home to literary traditions ancient and modern, and to legions of avid readers who find a new book more meaningful to them than a new government. 
- <p class="updated_time"> 11:00 AM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/europe/france-valerie-pecresse-republicans.html">In a France Fearful of Immigrants, Another Candidate Tacks Hard Right</a> NYT: Valérie Pécresse, the center-right candidate in April’s presidential election, has adopted the vocabulary of the far right when discussing immigration. 
 
 
 </details>
