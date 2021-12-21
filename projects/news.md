@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:41 AM CT, Dec. 21 </p> 
+ <p class="updated_time"> 11:48 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: France and Italy Crack Down on Vaccine-Related Fraud</a> NYT: The N.H.L. pauses its season because of Omicron. President Biden is to announce new steps to quell the latest outbreak, including buying 500 million tests to distribute free to the public. 
+ <p class="updated_time"> 11:46 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/australia/new-zealand-omicron-response.html">New Zealand and Other Asia Pacific Countries Respond to Omicron</a> NYT: New Zealand is taking measures to limit the spread of Omicron, including delaying the reopening of its borders. It has detected 22 cases of Omicron in international arrivals. 
  <p class="updated_time"> 11:39 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/arts/music/caroling-christmas-coronavirus.html">‘Caroling on the Edge’: A Christmas Tradition Returns</a> NYT: Last year, most carol singing in Britain was canceled because of the pandemic. This year, a group of roving singers was determined to carry on, despite the Omicron variant. 
  <p class="updated_time"> 11:28 AM CT, Dec. 21 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59740185?at_medium=RSS&at_campaign=KARANGA">Turkish lira in comeback after new plan unveiled</a> BBC: The lira sees strong gains for the second day running in response to moves to strengthen the currency. 
  <p class="updated_time"> 05:07 AM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/irans-top-diplomat-to-houthi-controlled-yemen-dies-of-covid-19-11640102821">Iran's Top Diplomat to Houthi-Controlled Yemen Dies of Covid-19</a> WSJ: Hassan Irloo, who was smuggled into Yemen in 2020 and named ambassador to parts of the country controlled by Houthis, has died of Covid-19, Iranian officials said. 
- <p class="updated_time"> 04:47 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/australia/new-zealand-omicron-response.html">New Zealand and Other Asia Pacific Countries Respond to Omicron</a> NYT: New Zealand is taking measures to limit the spread of Omicron, including delaying the reopening of its borders. It has detected 22 cases of Omicron in international arrivals. 
  <p class="updated_time"> 04:43 AM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/israel-bets-travel-restrictions-will-buy-it-time-to-fight-omicron-11640100113">Israel Bets Travel Restrictions Will Buy It Time to Fight Omicron</a> WSJ: As the Omicron variant spreads quickly across the world, Israel has leaned more heavily than other countries on shutting down its borders to international travel. 
  <p class="updated_time"> 04:34 AM CT, Dec. 21 </p> 
@@ -210,14 +210,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/21/wall-street-manchin-covid-growth-expectations-525845">Wall Street checks growth expectations as Manchin, virus dim outlook</a> Politico: While the surge in Covid cases threatens to undercut growth, much of the effect will depend on how policymakers respond. 
  <p class="updated_time"> 11:48 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/kim-potter-trial-daunte-wright-police-shooting-525841">Kim Potter trial jury in Daunte Wright's death resumes deliberations</a> Politico: The suburban Minneapolis police officer is charged with first- and second-degree manslaughter. 
+ <p class="updated_time"> 11:43 AM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/scott-perry-january-6-committee/index.html">GOP Rep. Scott Perry declines January 6 committee's request to speak with him</a> CNN: Republican Rep. Scott Perry on Tuesday declined the House January 6 committee's request to speak with him. 
+ <p class="updated_time"> 11:36 AM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/tim-walz-tests-positive-covid/index.html">Minnesota Gov. Tim Walz and family test positive for Covid</a> CNN: Minnesota Gov. Tim Walz, his wife, and their teenage son have tested positive for Covid-19, his office announced Tuesday. 
+ <p class="updated_time"> 11:35 AM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/iran-nuclear-deal-rob-malley/index.html">US Special Envoy for Iran warns of 'escalating crisis' if talks fail to revive Iran nuclear deal</a> CNN: The time left to revive the 2015 nuclear deal with Iran is running out and raising the risk of an "escalating crisis," the United States Special Envoy for Iran, Rob Malley, told CNN's Becky Anderson on Tuesday. 
  <p class="updated_time"> 11:34 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/cyber-attacks-commission.html">Designed to Prepare for Cyberattacks, a Panel Wraps Up Its Work</a> NYT: Some of the Cyberspace Solarium Commission’s work remains unfinished as lawmakers wrestle with how to oversee security of cloud computing providers and other issues. 
  <p class="updated_time"> 11:30 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/first-puppy-bidens-white-house/index.html">Bidens add to their family with new first puppy</a> CNN: President Joe Biden and first lady Jill Biden have added to their pet family, the first lady's spokesperson tells CNN. 
  <p class="updated_time"> 11:11 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/united-states-population-growth-2021-525832">U.S. population growth in 2021 slowest since nation's founding</a> Politico: The population grew just 0.1 percent in 2021, likely because of the Covid-19 pandemic, according to the U.S. Census Bureau. 
- <p class="updated_time"> 11:11 AM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/scott-perry-january-6-committee/index.html">GOP Rep. Scott Perry declines January 6 committee's request to speak with him</a> CNN: Republican Rep. Scott Perry on Tuesday declined the House January 6 committee's request to speak with him. 
  <p class="updated_time"> 11:06 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/business/economy/kellogg-union-strike-contract.html">Kellogg Workers Ratify Contract After Being on Strike Since October</a> NYT: Union members had rejected an earlier proposal in early December, prolonging a strike by about 1,400 workers at four cereal plants. 
  <p class="updated_time"> 11:03 AM CT, Dec. 21 </p> 
@@ -360,16 +364,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/manchin-build-back-better-redo-525747">Manchin to Dems: Redo the whole thing, maybe I'll vote for it</a> Politico: The West Virginia senator wants a new bill that goes through Senate committees and focuses on rolling back the 2017 Trump tax cuts. 
  <p class="updated_time"> 11:49 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, the Florida Democrat didn’t rule out a future run for a different public role. 
- <p class="updated_time"> 11:45 AM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/stephanie-murphy-not-running-reelection/index.html">Florida Democrat on January 6 committee announces she won't run for reelection</a> CNN: Rep. Stephanie Murphy, a Florida Democrat and a member of the House select committee investigating the January 6 US Capitol riot, announced Monday she would not run for reelection. 
  <p class="updated_time"> 10:35 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/filibuster-senate-voting-rights.html">Schumer Will Try to Change Senate Rules if G.O.P. Stalls Voting Bill</a> NYT: The Senate majority leader still lacks the votes to alter the filibuster, but he said he will renew the effort to enact voting rights measures as early as the first week of January. 
  <p class="updated_time"> 07:47 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/moderna-booster-omicron-525723">Moderna says its booster raised antibody levels against Omicron</a> Politico: A standard 50-microgram boost raised antibody levels about 37-fold higher than pre-boost levels 29 days after the shot was administered. 
  <p class="updated_time"> 07:12 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/20/are-dems-dreams-deferred-or-dead-495523">Are Dems’ dreams deferred or dead?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:46 AM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/bragg-new-york-trump/index.html">New Manhattan DA Alvin Bragg pledges to focus on Trump investigations</a> CNN: The next Manhattan district attorney, Alvin Bragg Jr., says he plans to personally focus on the high-profile probe into former President Donald Trump's business practices and may expand the investigative team while keeping at least one senior prosecutor on the case. 
  <p class="updated_time"> 06:11 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/20/the-case-for-why-bbb-is-dead-and-for-why-it-may-not-be-495522"> The case for why BBB is dead — and for why it may not be</a> Politico Playbook: And Rep. Albio Sires (D-N.J.) won’t run for reelection. 
  <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
@@ -436,8 +436,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/16/will-democrats-get-coal-instead-of-passed-bills-in-their-stockings-495491">Will Democrats get coal instead of passed bills in their stockings?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/16/manchinemas-christmas-present-to-dems-a-blunt-reality-check-495489"> Manchinema’s Christmas present to Dems: A blunt reality check</a> Politico Playbook: And Kevin McCarthy faces pressure to punish Liz Cheney and Adam Kinzinger. 
- <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/jan-6-gohmert-lawsuit-pence-524839">The Jan. 6 puzzle piece that's going largely ignored</a> Politico: Rep. Louie Gohmert  sued then-Vice President Mike Pence on Dec. 27. Donald Trump’s involvement in the case remains unclear. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/build-back-better-progressives-power-524783">‘Know when to hold and know when to fold’: Progressives accept limits of their power</a> Politico: House liberals dug in hard this year on social spending. Whatever Sen. Joe Manchin (D-W.Va.) does, they're ready to declare a win. 
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
