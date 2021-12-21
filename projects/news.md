@@ -7,20 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:58 AM CT, Dec. 21 </p> 
+ <p class="updated_time"> 07:03 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: N.H.L. Pauses Its Season Because of Omicron</a> NYT: As U.S. virus cases surge, President Biden announces new steps, including buying 500 million tests to distribute to the public for free and readying 1,000 military medical professionals. 
- <p class="updated_time"> 05:48 AM CT, Dec. 21 </p> 
+ <p class="updated_time"> 06:57 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/europe/russia-military-putin-kremlin.html">How the Kremlin Is Militarizing Russian Society</a> NYT: With a “youth army,” a cathedral honoring the military and state media promoting patriotism, the government is preparing Russians for the possibility of a fight. 
+ <p class="updated_time"> 06:32 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59738678?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Biden buys 500m test kits to tackle surge</a> BBC: The US will also deploy more military medics amid fears the holiday season will boost a Covid spike. 
+ <p class="updated_time"> 06:21 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59740356?at_medium=RSS&at_campaign=KARANGA">Israel rejects 'alarm call' by Christian leaders in Jerusalem</a> BBC: Church leaders say "radical groups" are attempting to drive Christians out of the Holy Land. 
+ <p class="updated_time"> 06:00 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59740324?at_medium=RSS&at_campaign=KARANGA">Kosovo agrees to rent prison cells to Denmark to ease overcrowding</a> BBC: Denmark is due to pay €210m (£179m) over the next 10 years to rent 300 cells in the jail at Gjilan. 
  <p class="updated_time"> 05:32 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59740528?at_medium=RSS&at_campaign=KARANGA">Ghanaian MPs brawl in parliament over e-money tax</a> BBC: Lawmakers trade blows during a chaotic session over a proposed levy on electronic transactions. 
- <p class="updated_time"> 05:14 AM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59723341?at_medium=RSS&at_campaign=KARANGA">Malaysia: Death toll rises after massive floods</a> BBC: At least 14 are dead and tens of thousands are displaced by some of the worst floods in decades. 
+ <p class="updated_time"> 05:08 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59740185?at_medium=RSS&at_campaign=KARANGA">Turkish lira in comeback after new plan unveiled</a> BBC: The lira sees strong gains for the second day running in response to moves to strengthen the currency. 
  <p class="updated_time"> 04:47 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/australia/new-zealand-omicron-response.html">New Zealand and Other Asia Pacific Countries Respond to Omicron</a> NYT: New Zealand is taking measures to limit the spread of Omicron, including delaying the reopening of its borders. It has detected 22 cases of Omicron in international arrivals. 
  <p class="updated_time"> 04:34 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59739563?at_medium=RSS&at_campaign=KARANGA"> 'Biggest divorce case in British legal history'</a> BBC: A UK court publishes a ruling in the divorce case of Sheikh Mohammed and his ex-wife Princess Haya. 
- <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/europe/russia-military-putin-kremlin.html">How the Kremlin Is Militarizing Russian Society</a> NYT: With a “youth army,” a cathedral honoring the military and state media promoting patriotism, the government is preparing Russians for the possibility of a fight. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Tech Companies to ‘Mitigate Harm’ of Suicide Website</a> NYT: A House committee is seeking briefings from search engines and web-hosting companies whose services might have been leveraged by the site, which has been linked to numerous deaths. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066166281/new-wave-of-syrian-migrants-fleeing-post-war-misery">New wave of Syrian migrants fleeing post-war misery</a> NPR: While the numbers are far below the levels during the height of the civil war, the number of Syrians applying for asylum in the EU increased 70% over last year. 
  <p class="updated_time"> 01:33 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066163872/mexican-cartels-turning-to-meth-and-fentanyl-production">Mexican cartels turning to meth and fentanyl production</a> NPR: Cartels are increasingly turning to huge, industrial-scale labs to churn out synthetic drugs as they shift away from naturally grown drugs like opium and marijuana. 
- <p class="updated_time"> 11:38 PM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59738052?at_medium=RSS&at_campaign=KARANGA">Hong Kong election: China rejects democracy concerns from West</a> BBC: The US, Britain and others had criticised the tightly-controlled vote for "eroding democracy". 
  <p class="updated_time"> 11:30 PM CT, Dec. 20 </p> 
  <a href="https://www.wsj.com/articles/booming-u-s-economy-ripples-world-wide-straining-supply-chains-and-driving-up-prices-11640082604">Booming U.S. Economy Ripples World-Wide, Straining Supply Chains and Driving Up Prices</a> WSJ: The force of the American expansion is inducing overseas companies to invest in the U.S., betting that the growth is still accelerating and will outpace other major economies. 
  <p class="updated_time"> 11:28 PM CT, Dec. 20 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial jurors begin deliberations</a> BBC: The British socialite faces up to 80 years in prison if convicted on sex-trafficking and perjury charges. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
- <p class="updated_time"> 04:45 PM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59736335?at_medium=RSS&at_campaign=KARANGA">Saudi-led coalition forces target Yemeni airport in air strike</a> BBC: Saudi state media claimed that UN aid workers were warned to leave the airport ahead of the strike. 
  <p class="updated_time"> 04:44 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-59735243?at_medium=RSS&at_campaign=KARANGA">Covid: An event cancelled is better than a life cancelled - WHO chief</a> BBC: The head of the World Health Organization calls for "difficult decisions" to be made over festive plans. 
  <p class="updated_time"> 04:15 PM CT, Dec. 20 </p> 
@@ -196,6 +196,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:05 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2021/12/21/dems-plot-path-after-manchin-derailment-495530">Dems plot path after Manchin derailment</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:20 AM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066169756/public-health-experts-will-be-listening-as-biden-speaks-to-the-nation-about-omic">Public health experts will be listening as Biden speaks to the nation about omicron</a> NPR: The omicron variant is now the dominant variant in the U.S. President Biden is set to warn Americans about omicron, and talk about the administration's plans to help areas struggling with the surge. 
  <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/21/the-search-for-a-plan-b-begins-495529"> The search for a Plan B begins</a> Politico Playbook: And Biden plans to deliver another big Covid speech. 
  <p class="updated_time"> 05:38 AM CT, Dec. 21 </p> 
@@ -209,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/recovery-lab-hackathon-states-managing-covid-524852">Policy Hackathon: What states have learned — the hard way — about managing Covid</a> Politico: We asked states who topped POLITICO’s pandemic scorecard to compare notes on balancing Covid’s deadly trade-offs. Here’s what they said. 
  <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/amazon-federal-law-enforcement-525794">How Amazon cultivates close ties to federal law enforcement </a> Politico: The company has increasingly tipped off the Justice Department and FBI to investigate Amazon’s own employees and the sellers using its platform, according to a POLITICO analysis.  
+ <a href="https://www.politico.com/news/2021/12/21/amazon-federal-law-enforcement-525794">How one of America’s largest employers leans on federal law enforcement</a> Politico: Amazon has increasingly tipped off the Justice Department and FBI to investigate its own employees and the sellers using its platform, according to a POLITICO analysis.  
  <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/democrats-riled-by-spanish-language-radio-attacks-on-kamala-harris-525787">Democrats riled by Spanish-language radio attacks on Kamala Harris</a> Politico: Political operatives and the radio hosts themselves say the uptick in calls is notable. Who, if anyone, is behind them remains unclear. 
  <p class="updated_time"> 04:17 AM CT, Dec. 21 </p> 
@@ -220,6 +224,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066169843/how-w-va-politics-affect-sen-manchins-opposition-to-bidens-key-policy-proposal">How W.Va. politics affect Sen. Manchin's opposition to Biden's key policy proposal</a> NPR: NPR's Scott Detrow talks to ProPublica reporter Ken Ward Jr. about the political forces that shaped West Virginia Democratic Sen. Joe Manchin's opposition to President Biden's Build Back Better bill. 
  <p class="updated_time"> 04:16 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066169808/the-environmental-protection-agency-announces-new-vehicle-emission-standards">The Environmental Protection Agency announces new vehicle emission standards</a> NPR: The Biden administration, reversing another Trump rollback, is tightening vehicle fuel mileage standards. It comes as much of Biden's other climate plans are at risk. 
+ <p class="updated_time"> 04:16 AM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066169784/bidens-climate-change-plan-is-stalled-when-manchin-opposes-build-back-better">Biden's climate change plan stalls after Manchin opposes Build Back Better</a> NPR: President Biden campaigned on the most ambitious climate agenda of any major party candidate. But the cornerstone of his plan appears doomed in Congress, rejected by a Democrat from a coal state. 
+ <p class="updated_time"> 04:16 AM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066169749/morning-news-brief">News brief: Biden speech, COVID testing critique, Pentagon extremism rules</a> NPR: President Biden addresses the Omicron variant in a speech Tuesday. Some health officials say Biden has fallen short on COVID testing. The Pentagon is updating its policies on extremism in its ranks. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1065337316/south-portland-mayor-somali-american">Deqa Dhalac is the first Somali-American mayor in the United States</a> NPR: After fleeing Somalia some 30 years ago, Dhalac became this country's first Somali-American mayor earlier this month, elected in a city that's 90% white. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
@@ -306,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/alex-jones-sues-jan-6-committee-indicates-plan-to-plead-the-fifth-525770">Alex Jones sues Jan. 6 committee, indicates plan to plead the Fifth</a> Politico: In the lawsuit, Jones says he intends to assert his Fifth Amendment rights against self-incrimination. 
  <p class="updated_time"> 02:08 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/pelosi-reaction-build-back-better/index.html">Pelosi says Democrats 'will not let this opportunity pass' on Build Back Better Act despite Manchin's stance</a> CNN: House Speaker Nancy Pelosi projected confidence Monday, vowing Democrats will not give up on passing the Build Back Better Act, despite Sen. Joe Manchin saying he will not vote for the package in its current form. 
- <p class="updated_time"> 01:26 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1065880187/democrats-still-plan-on-vote-for-the-social-spending-bill-despite-manchins-no">Democrats plan to vote on the social spending bill, despite Manchin's 'no'</a> NPR: Senate Majority Leader Schumer said the Senate will take up the measure "very early" in the new year 
  <p class="updated_time"> 01:10 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/pentagon-extremism-service-members-525762">Pentagon issues rules aimed at stopping rise of extremism</a> Politico: Officials said the new policy doesn’t largely change what is prohibited, but is more of an effort to make sure troops are clear on what they can and can’t do. 
  <p class="updated_time"> 12:53 PM CT, Dec. 20 </p> 
@@ -316,10 +322,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/manchin-build-back-better-redo-525747">Manchin to Dems: Redo the whole thing, maybe I'll vote for it</a> Politico: The West Virginia senator wants a new bill that goes through Senate committees and focuses on rolling back the 2017 Trump tax cuts. 
  <p class="updated_time"> 12:07 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/trump-received-vaccine-booster-shot-525748">Trump says he received vaccine booster shot</a> Politico: Former President Donald Trump confirmed he had gotten a booster during a live show with Bill O'Reilly in Dallas on Sunday. 
- <p class="updated_time"> 12:04 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/sections/codeswitch/2021/12/20/255821310/the-many-contradictions-of-latin-music">The many contradictions of 'Latin Music'</a> NPR: For some, the term 'Latin music' is too broad to be meaningful. For others, it invokes a sense of pride and resistance. To help break it down, we spoke to an expert on race and music and pop culture. 
- <p class="updated_time"> 12:00 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1065850636/elizabeth-warren-cory-booker-larry-hogan-breakthrough-covid">Lawmakers use their breakthrough infections to push COVID-19 vaccines and boosters</a> NPR: Democratic Sens. Cory Booker and Elizabeth Warren and Maryland Gov. Larry Hogan all reported mild symptoms. All three had been vaccinated and boosted, and encouraged others to do the same. 
  <p class="updated_time"> 11:49 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, the Florida Democrat didn’t rule out a future run for a different public role. 
  <p class="updated_time"> 11:45 AM CT, Dec. 20 </p> 
@@ -440,8 +442,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/house-islam-omar-perry-boebert-524536">Amid caustic rhetoric, House votes to combat Islamophobia</a> Politico: Rep. Scott Perry accused Rep. Ilhan Omar of connections to terrorism. 
  <p class="updated_time"> 07:25 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/14/senate-moves-on-debt-defense-house-on-meadows-495455">Senate moves on debt, defense, House on Meadows</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:18 AM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/14/what-the-left-doesnt-get-about-the-media-495453"> What the left doesn’t get about the media</a> Politico Playbook: And the Jan. 6 committee releases some of Mark Meadows' text messages. 
 
 
 </details>
