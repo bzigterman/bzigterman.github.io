@@ -7,9 +7,21 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:04 AM CT, Dec. 21 </p> 
+ <p class="updated_time"> 10:54 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: France and Italy Crack Down on Vaccine-Related Fraud</a> NYT: The N.H.L. pauses its season because of Omicron. President Biden is to announce new steps to quell the latest outbreak, including buying 500 million tests to distribute free to the public. 
- <p class="updated_time"> 09:59 AM CT, Dec. 21 </p> 
+ <p class="updated_time"> 10:48 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/europe/princess-haya-sheikh-mohammed-bin.html">British Court Orders Dubai Ruler to Pay £554 Million in Custody Settlement</a> NYT: The settlement, of about $734 million, resolves a lengthy dispute that began when Princess Haya Bint Al Hussein and her two children fled to London in 2019. 
+ <p class="updated_time"> 10:44 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/haiti-missionaries-escape.html">Haiti Missionaries Describe Dramatic Escape From Kidnappers</a> NYT: The group of 12, including several children, walked 10 miles through the night. Later that day, the missionaries were on a Coast Guard flight to Florida. 
+ <p class="updated_time"> 10:37 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59740528?at_medium=RSS&at_campaign=KARANGA">Ghanaian MPs brawl in parliament over e-money tax</a> BBC: Lawmakers trade blows during a chaotic session over a proposed levy on electronic transactions. 
+ <p class="updated_time"> 10:27 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/asia/afghanistan-taliban-bagram-prison.html">At Abandoned American Base, a Notorious Prison Lies Empty</a> NYT: Taliban fighters now guard the prison at Bagram Air Base, which once held thousands of Taliban and Al Qaeda members who were set free in August. 
+ <p class="updated_time"> 10:25 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59740324?at_medium=RSS&at_campaign=KARANGA">Kosovo agrees to rent prison cells to Denmark to ease overcrowding</a> BBC: Denmark is due to pay €210m (£179m) over the next 10 years to rent 300 cells in the jail at Gjilan. 
+ <p class="updated_time"> 10:21 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial jurors resume deliberations</a> BBC: The British socialite faces up to 80 years in prison if convicted on sex-trafficking and perjury charges. 
+ <p class="updated_time"> 10:14 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59738678?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Biden buys 500m test kits to tackle surge</a> BBC: The US will also deploy more military medics amid fears the holiday season will boost a Covid spike. 
  <p class="updated_time"> 09:39 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/21/1062836171/editors-pick-11-hidden-gems-on-our-global-health-blog-in-2021">Editors' pick: 11 hidden gems on our global health blog in 2021</a> NPR: Want to hear the former president of Zambia sing about public health? Find out what to do if you lose a sheep in Senegal? Use solar power to iron garments? Give these stories a read. 
@@ -19,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/asia/india-water-modi.html">India's Modi Brings Tap Water to Millions as Supplies Shrink</a> NYT: The ambitious project to meet a dire need shows Prime Minister Narendra Modi’s strengths and helps explain his popularity despite a weakened economy. 
  <p class="updated_time"> 08:30 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/turkey-inflation-rising-prices.html">Cashing In Grandma’s Gold Coins, a Turkish Family Struggles to Get By</a> NYT: As inflation soars and the value of Turkey’s currency plummets, one couple described how working families can’t make ends meet and have had to cut back on basic necessities as well as life’s smaller pleasures. 
- <p class="updated_time"> 07:53 AM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59740528?at_medium=RSS&at_campaign=KARANGA">Ghanaian MPs brawl in parliament over e-money tax</a> BBC: Lawmakers trade blows during a chaotic session over a proposed levy on electronic transactions. 
  <p class="updated_time"> 07:28 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/trump-supporters-booster-shots.html">Donald Trump Said He Got a Booster Shot and His Supporters Booed</a> NYT: At an event in Dallas, the former president revealed for the first time publicly that he had received the additional vaccine dose. 
  <p class="updated_time"> 07:08 AM CT, Dec. 21 </p> 
@@ -31,14 +41,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59725368?at_medium=RSS&at_campaign=KARANGA">Mauritius oil spill: Captain guilty over tanker spill</a> BBC: The MV Wakashio ran aground on a coral reef last year leaking about 1,000 tonnes of fuel. 
  <p class="updated_time"> 06:21 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59740356?at_medium=RSS&at_campaign=KARANGA">Israel rejects 'alarm call' by Christian leaders in Jerusalem</a> BBC: Church leaders say "radical groups" are attempting to drive Christians out of the Holy Land. 
- <p class="updated_time"> 06:00 AM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59740324?at_medium=RSS&at_campaign=KARANGA">Kosovo agrees to rent prison cells to Denmark to ease overcrowding</a> BBC: Denmark is due to pay €210m (£179m) over the next 10 years to rent 300 cells in the jail at Gjilan. 
+ <p class="updated_time"> 05:51 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/well-preserved-embryo-found-inside-fossilized-dinosaur-egg-11640102402">Well-Preserved Embryo Found Inside Fossilized Dinosaur Egg</a> WSJ: Scientists said the embryo inside the egg, which was laid between 72 million to 66 million years ago during the Late Cretaceous period, was that of a two-legged, feathered carnivore known as an oviraptorid. 
+ <p class="updated_time"> 05:20 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/as-omicron-takes-over-in-the-u-s-more-curbs-world-wide-11640091714">As Omicron Takes Over in the U.S., More Curbs World-Wide</a> WSJ: New travel restrictions and other steps to curb the spread of the Omicron variant were put in place world-wide as further evidence emerged of just how rapidly the new strain spreads. 
  <p class="updated_time"> 05:08 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59740185?at_medium=RSS&at_campaign=KARANGA">Turkish lira in comeback after new plan unveiled</a> BBC: The lira sees strong gains for the second day running in response to moves to strengthen the currency. 
  <p class="updated_time"> 05:07 AM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/irans-top-diplomat-to-houthi-controlled-yemen-dies-of-covid-19-11640102821">Iran's Top Diplomat to Houthi-Controlled Yemen Dies of Covid-19</a> WSJ: Hassan Irloo, who was smuggled into Yemen in 2020 and named ambassador to parts of the country controlled by Houthis, has died of Covid-19, Iranian officials said. 
- <p class="updated_time"> 05:00 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/well-preserved-embryo-found-inside-fossilized-dinosaur-egg-11640102402">Well-Preserved Embryo Found Inside Fossilized Dinosaur Egg</a> WSJ: Scientists said the embryo inside the egg, which was laid between 72 million to 66 million years ago during the Late Cretaceous period, was that of a two-legged, feathered carnivore known as an oviraptorid. 
  <p class="updated_time"> 04:55 AM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/covid-19-pandemic-drives-u-s-population-growth-to-record-low-11640098763">Covid-19 Pandemic Drives U.S. Population Growth to Record Low</a> WSJ: America’s population grew by just 0.1% for the 12 months ended July 1, according to Census Bureau figures released Tuesday that show how the pandemic is changing the country’s demographic contours. 
  <p class="updated_time"> 04:47 AM CT, Dec. 21 </p> 
@@ -61,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59739685?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: Philippines faces aftermath</a> BBC: The BBC's Howard Johnson on the crisis facing Siargao Island in the Philippines, which is almost cut off. 
  <p class="updated_time"> 03:25 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59733321?at_medium=RSS&at_campaign=KARANGA">UK Supreme Court denies Maduro claim to Venezuelan gold</a> BBC: The ruling means only opposition leader Juan Guaidó can access Venezuelan gold reserves in the UK. 
- <p class="updated_time"> 03:11 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/as-omicron-takes-over-in-the-u-s-more-curbs-world-wide-11640091714">As Omicron Takes Over in the U.S., More Curbs World-Wide</a> WSJ: New travel restrictions and other steps to curb the spread of the Omicron variant were put in place world-wide as further evidence emerged of just how rapidly the new strain spreads. 
  <p class="updated_time"> 02:48 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59738053?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Sex and the City actresses show support for accusers</a> BBC: Three Sex And The City actresses issue a joint statement after co-star is accused of sexual assault. 
  <p class="updated_time"> 02:06 AM CT, Dec. 21 </p> 
@@ -85,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/world/larry-hogan-covid.html">Larry Hogan, Governor of Maryland, Tests Positive for Covid</a> NYT: He said he is feeling fine and that the positive test result came as a result of routine testing. 
  <p class="updated_time"> 06:34 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59689797?at_medium=RSS&at_campaign=KARANGA">Saudi entertainment boom raises harassment fears</a> BBC: As festivals become a familiar sight in the kingdom, some women say they do not feel safe to attend. 
- <p class="updated_time"> 06:34 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/haiti-missionaries-escape.html">Haiti Missionaries Describe Dramatic Escape From Kidnappers</a> NYT: The group of 12, including several children, walked 10 miles through the night. Later that day, the missionaries were on a Coast Guard flight to Florida. 
  <p class="updated_time"> 06:33 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59664078?at_medium=RSS&at_campaign=KARANGA">Berlusconi seeks comeback role as Italian president</a> BBC: Despite the scandals and a tax fraud conviction, Italy's most colourful ex-PM could be head of state. 
  <p class="updated_time"> 06:29 PM CT, Dec. 20 </p> 
@@ -99,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59724425?at_medium=RSS&at_campaign=KARANGA">Indian Christians fear attacks or jail over conversions</a> BBC: Christians in Karnataka state say attacks against them have grown ahead of a new anti-conversion law. 
  <p class="updated_time"> 05:54 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/europe-divided-omicron-response.html">Omicron Response Divides Europe as Cases Surge</a> NYT: As some nations impose tough restrictions in the face of soaring cases, others, including France, are lying back for the moment. 
- <p class="updated_time"> 05:33 PM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial jurors begin deliberations</a> BBC: The British socialite faces up to 80 years in prison if convicted on sex-trafficking and perjury charges. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
  <p class="updated_time"> 04:44 PM CT, Dec. 20 </p> 
@@ -193,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/europe/brexit-david-frost-resigns.html">David Frost, Brexit Negotiator, Resigns in Another Blow to Boris Johnson</a> NYT: The move puts new pressure on the prime minister, whose leadership has been called into question by a series of setbacks, including a new wave of Covid infections. 
  <p class="updated_time"> 04:04 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/london-major-incident.html">With Omicron Surging, London Declares a ‘Major Incident'</a> NYT: The Greater London area has seen cases rise by nearly 200 percent over the last two weeks, making it the hardest hit area of Britain. 
- <p class="updated_time"> 12:43 PM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/middleeast/baghdad-book-fair-iraq.html">Reveling in the Joys of Books, and Reading, at a Baghdad Book Fair</a> NYT: Iraq is home to literary traditions ancient and modern, and to legions of avid readers who find a new book more meaningful to them than a new government. 
 
 
 </details>
@@ -202,14 +204,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:48 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/kim-potter-trial-daunte-wright-police-shooting-525841">Kim Potter trial jury in Daunte Wright's death resumes deliberations</a> Politico: The suburban Minneapolis police officer is charged with first- and second-degree manslaughter. 
+ <p class="updated_time"> 11:11 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/united-states-population-growth-2021-525832">U.S. population growth in 2021 slowest since nation's founding</a> Politico: The population grew just 0.1 percent in 2021, likely because of the Covid-19 pandemic, according to the U.S. Census Bureau. 
  <p class="updated_time"> 10:55 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/democrats-climate-ambitions-manchin-525835">Democrats not yet ready to trim climate ambitions despite Manchin blow</a> Politico: For now, Democrats are committed to reconfiguring a sweeping climate package centered on clean energy tax incentives. 
+ <p class="updated_time"> 10:40 AM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/scott-perry-january-6-committee/index.html">GOP Rep. Scott Perry declines January 6 committee's request to speak with him</a> CNN: Republican Rep. Scott Perry on Tuesday declined the House January 6 committee's request to speak with him. 
  <p class="updated_time"> 10:06 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/well/family/child-tax-credit-manchin.html">How Families Used the Child Tax Credit</a> NYT: The monthly payments of up to $300 per child put food on the table, paid bills and even went toward the occasional splurge. 
  <p class="updated_time"> 09:58 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066220864/commander-biden-puppy-major">The Bidens bid farewell to Major and say hello to new puppy Commander</a> NPR: The new top dog at the White House is Commander Biden, a nearly 4-month-old German shepherd. Meanwhile, rescue dog Major is moving out and a cat is scheduled to arrive soon. 
+ <a href="https://www.npr.org/2021/12/21/1066220864/commander-biden-puppy-major">The Bidens say hello to new puppy Commander, and Major is off to a new home</a> NPR: The new top dog at the White House is Commander Biden, a nearly 4-month-old German shepherd. Meanwhile, rescue dog Major is moving out and a cat is scheduled to arrive soon. 
  <p class="updated_time"> 09:43 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/business/economy/kellogg-union-strike-contract.html">Kellogg Workers Ratify Contract After Being on Strike Since October</a> NYT: Union members had rejected an earlier proposal in early December, prolonging a strike by about 1,400 workers at four cereal plants. 
+ <p class="updated_time"> 09:38 AM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/university-of-north-carolina-supreme-court-affirmative-action/index.html">University of North Carolina and civil rights advocates ask Supreme Court to sidestep affirmative action challenge</a> CNN: The University of North Carolina and civil rights advocates urged the US Supreme Court on Monday to steer clear of a case designed to end racial affirmative action at state colleges and universities. 
  <p class="updated_time"> 09:37 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/omicron-covid-biden.html">To Fight Omicron, Biden Plans Aid From Military and 500 Million Tests</a> NYT: The president is set to unveil his initiatives, which also include creating new federal testing sites and deploying federal vaccinators, in a speech on Tuesday. 
  <p class="updated_time"> 09:34 AM CT, Dec. 21 </p> 
@@ -288,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/us/politics/biden-puppy-commander.html">‘Hey, Pal’: Biden Welcomes a New Puppy to the White House</a> NYT: The 3-month-old German shepherd with very large, pointy ears is named Commander. 
  <p class="updated_time"> 07:23 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/scott-perry-january-6-committee.html">For First Time, Jan. 6 Panel Seeks Information From a House Member</a> NYT: The committee is requesting testimony and documents from Representative Scott Perry, a Pennsylvania Republican who was deeply involved in efforts to overturn the election. 
- <p class="updated_time"> 07:03 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/scott-perry-january-6-committee/index.html">January 6 committee sends letter to GOP Rep. Scott Perry, asking to interview him</a> CNN: The House select committee investigating the deadly January 6 riot has asked GOP Rep. Scott Perry of Pennsylvania to voluntarily sit down for an interview -- the first known effort by the panel to talk to a lawmaker about helping former President Donald Trump in his efforts to undermine the election. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 06:51 PM CT, Dec. 20 </p> 
@@ -307,7 +315,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:12 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/first-puppy-bidens-white-house/index.html">Bidens add to their family with new first puppy</a> CNN: President Joe Biden and first lady Jill Biden have added to their pet family, the first lady's spokesperson tells CNN. 
  <p class="updated_time"> 05:19 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1066060178/alex-jones-infowars-trump-conspiracy-theorist-jan-6-committee-capitol-perry">GOP Rep. Scott Perry is the first sitting lawmaker the Jan. 6 panel wants to question</a> NPR: Perry is the first sitting lawmaker that the panel has sought to question from regarding the Jan. 6 Capitol insurrection. 
+ <a href="https://www.npr.org/2021/12/20/1066060178/alex-jones-infowars-trump-conspiracy-theorist-jan-6-committee-capitol-perry">GOP Rep. Scott Perry is the first sitting lawmaker the Jan. 6 panel wants to question</a> NPR: Perry said Tuesday that he will decline the request. He is the first sitting lawmaker that the panel has sought to question from regarding the Jan. 6 Capitol insurrection. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/climate/tailpipe-rules-climate-biden.html">E.P.A. Announces Tightest-Ever Auto Pollution Rules</a> NYT: Under the new plan, designed to reduce planet-warming tailpipe emissions, new vehicles would be required to average 55 miles per gallon starting in 2026. 
  <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
@@ -346,14 +354,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/20/politics/joe-biden-build-back-better-setback-explained/index.html">Biden's Build Back Better plan is on ice. Here's what that means for you</a> CNN: No more monthly payments for tens of millions of families. No universal pre-kindergarten for 3- and 4-year-olds. No health insurance for more than 2 million low-income Americans. No funneling of billions of dollars into clean energy initiatives. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/manchin-build-back-better-redo-525747">Manchin to Dems: Redo the whole thing, maybe I'll vote for it</a> Politico: The West Virginia senator wants a new bill that goes through Senate committees and focuses on rolling back the 2017 Trump tax cuts. 
- <p class="updated_time"> 12:07 PM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/trump-received-vaccine-booster-shot-525748">Trump says he received vaccine booster shot</a> Politico: Former President Donald Trump confirmed he had gotten a booster during a live show with Bill O'Reilly in Dallas on Sunday. 
  <p class="updated_time"> 11:49 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, the Florida Democrat didn’t rule out a future run for a different public role. 
  <p class="updated_time"> 11:45 AM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/stephanie-murphy-not-running-reelection/index.html">Florida Democrat on January 6 committee announces she won't run for reelection</a> CNN: Rep. Stephanie Murphy, a Florida Democrat and a member of the House select committee investigating the January 6 US Capitol riot, announced Monday she would not run for reelection. 
- <p class="updated_time"> 11:01 AM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/supreme-court-kavanaugh-osha-vaccine-mandate-omicron/index.html">Supreme Court receives appeals asking Kavanaugh to block large employer vaccine mandate</a> CNN: The Supreme Court Monday said it has received several appeals asking Justice Brett Kavanaugh to consider the Biden administration's requirement that large employers mandate their employees obtain a Covid-19 vaccine or submit to weekly testing. 
  <p class="updated_time"> 10:35 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/filibuster-senate-voting-rights.html">Schumer Will Try to Change Senate Rules if G.O.P. Stalls Voting Bill</a> NYT: The Senate majority leader still lacks the votes to alter the filibuster, but he said he will renew the effort to enact voting rights measures as early as the first week of January. 
  <p class="updated_time"> 07:47 AM CT, Dec. 20 </p> 
@@ -408,8 +412,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/17/appeals-court-lifts-stay-vaccine-or-test-525313">Appeals court lifts stay on administration's vaccine-or-test mandate for large businesses</a> Politico: Business groups quickly filed an appeal to the Supreme Court. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
- <p class="updated_time"> 02:54 PM CT, Dec. 17 </p> 
- <a href="https://www.politico.com/news/2021/12/17/judge-lack-charges-trump-jan-6-525277">Judge: Lack of charges for Trump over Jan. 6 is no basis for leniency for others</a> Politico: Florida man who admitted to throwing fire extinguisher and plank at police gets toughest sentence yet in Capitol riot. 
  <p class="updated_time"> 10:44 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/house-democrats-elections-dccc-525258">Vulnerable House Dems to DCCC: You're jeopardizing our reelection</a> Politico: Multiple at-risk Democrats tell POLITICO that the campaign committee has adopted a midterms strategy that is hurting, not helping, their reelections. 
  <p class="updated_time"> 07:42 AM CT, Dec. 17 </p> 
