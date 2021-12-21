@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:54 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: E.U. Will Require Boosters for Vaccine Passes to Remain Valid</a> NYT: The N.H.L. pauses its season because of Omicron. President Biden announces new steps to quell the latest outbreak, including buying 500 million tests to distribute to the public for free. 
+ <p class="updated_time"> 07:53 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59740528?at_medium=RSS&at_campaign=KARANGA">Ghanaian MPs brawl in parliament over e-money tax</a> BBC: Lawmakers trade blows during a chaotic session over a proposed levy on electronic transactions. 
  <p class="updated_time"> 07:28 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/trump-supporters-booster-shots.html">Donald Trump Said He Got a Booster Shot and His Supporters Booed</a> NYT: At an event in Dallas, the former president revealed for the first time publicly that he had received the additional vaccine dose. 
  <p class="updated_time"> 07:08 AM CT, Dec. 21 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59740356?at_medium=RSS&at_campaign=KARANGA">Israel rejects 'alarm call' by Christian leaders in Jerusalem</a> BBC: Church leaders say "radical groups" are attempting to drive Christians out of the Holy Land. 
  <p class="updated_time"> 06:00 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59740324?at_medium=RSS&at_campaign=KARANGA">Kosovo agrees to rent prison cells to Denmark to ease overcrowding</a> BBC: Denmark is due to pay €210m (£179m) over the next 10 years to rent 300 cells in the jail at Gjilan. 
- <p class="updated_time"> 05:32 AM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59740528?at_medium=RSS&at_campaign=KARANGA">Ghanaian MPs brawl in parliament over e-money tax</a> BBC: Lawmakers trade blows during a chaotic session over a proposed levy on electronic transactions. 
  <p class="updated_time"> 05:08 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59740185?at_medium=RSS&at_campaign=KARANGA">Turkish lira in comeback after new plan unveiled</a> BBC: The lira sees strong gains for the second day running in response to moves to strengthen the currency. 
  <p class="updated_time"> 04:47 AM CT, Dec. 21 </p> 
@@ -45,10 +45,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59733321?at_medium=RSS&at_campaign=KARANGA">UK Supreme Court denies Maduro claim to Venezuelan gold</a> BBC: The ruling means only opposition leader Juan Guaidó can access Venezuelan gold reserves in the UK. 
  <p class="updated_time"> 02:48 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59738053?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Sex and the City actresses show support for accusers</a> BBC: Three Sex And The City actresses issue a joint statement after co-star is accused of sexual assault. 
+ <p class="updated_time"> 02:12 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/as-omicron-takes-over-in-the-u-s-more-curbs-world-wide-11640091714">As Omicron Takes Over in the U.S., More Curbs World-Wide</a> WSJ: New travel restrictions and other steps to curb the spread of the Omicron variant were put in place world-wide as further evidence emerged of just how rapidly the new strain spreads. 
  <p class="updated_time"> 02:06 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066166281/new-wave-of-syrian-migrants-fleeing-post-war-misery">New wave of Syrian migrants fleeing post-war misery</a> NPR: While the numbers are far below the levels during the height of the civil war, the number of Syrians applying for asylum in the EU increased 70% over last year. 
  <p class="updated_time"> 01:33 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066163872/mexican-cartels-turning-to-meth-and-fentanyl-production">Mexican cartels turning to meth and fentanyl production</a> NPR: Cartels are increasingly turning to huge, industrial-scale labs to churn out synthetic drugs as they shift away from naturally grown drugs like opium and marijuana. 
+ <p class="updated_time"> 01:00 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/macaus-casino-king-is-dethroned-as-beijing-reins-in-offshore-gambling-11640088008">Macau's Casino King Dethroned as Beijing Reins In Offshore Gambling</a> WSJ: For nearly two decades before he was detained, Alvin Chau ferried Chinese high-rollers to casinos in Macau, bringing tens of billions of dollars into the city as it passed Las Vegas to become the world’s richest gambling hub. 
+ <p class="updated_time"> 12:00 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/iran-backed-houthis-doubled-attacks-this-year-on-saudi-arabia-report-says-11640084403">Iran-Backed Houthis Doubled Attacks This Year on Saudi Arabia, Report Says</a> WSJ: The report analyzes more than 4,100 Houthi attacks against Saudi Arabia between 2016 and 2021, providing a clearer picture of a long-running regional conflict that has developed into a proxy war between Tehran and Riyadh. 
  <p class="updated_time"> 11:30 PM CT, Dec. 20 </p> 
  <a href="https://www.wsj.com/articles/booming-u-s-economy-ripples-world-wide-straining-supply-chains-and-driving-up-prices-11640082604">Booming U.S. Economy Ripples World-Wide, Straining Supply Chains and Driving Up Prices</a> WSJ: The force of the American expansion is inducing overseas companies to invest in the U.S., betting that the growth is still accelerating and will outpace other major economies. 
  <p class="updated_time"> 11:28 PM CT, Dec. 20 </p> 
@@ -111,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/world/europe/pope-domestic-violence-almost-satanic.html">Pope Francis Says High Number of Domestic Violence Cases Is ‘Almost Satanic’</a> NYT: Francis once again decried the scourge of domestic abuse, which has increased during the months of pandemic lockdown. 
  <p class="updated_time"> 12:04 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2021/12/20/255821310/the-many-contradictions-of-latin-music">The many contradictions of 'Latin Music'</a> NPR: For some, the term 'Latin music' is too broad to be meaningful. For others, it invokes a sense of pride and resistance. To help break it down, we spoke to an expert on race and music and pop culture. 
- <p class="updated_time"> 11:40 AM CT, Dec. 20 </p> 
- <a href="https://www.wsj.com/articles/novavaxs-covid-19-vaccine-recommended-for-use-in-eu-11640010462">Novavax's Covid-19 Vaccine Approved by EU</a> WSJ: Novavax’s vaccine has been recommended for use by the European Medicines Agency, marking the first endorsement by a major regulator of a shot that uses an established vaccine technology. 
  <p class="updated_time"> 11:17 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/africa/drones-ethiopia-war-turkey-emirates.html">Foreign Drones Tip the Balance in Ethiopia’s Civil War</a> NYT: Prime Minister Abiy Ahmed pulled off a stunning reversal in the year-old conflict with the help of armed drones supplied by the United Arab Emirates, Turkey and Iran. 
  <p class="updated_time"> 11:15 AM CT, Dec. 20 </p> 
@@ -127,12 +131,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/20/1065775516/china-tennis-peng-shuai-sexual-assault">Tennis star Peng Shuai says her accusations of sexual assault have been misunderstood</a> NPR: Last month, the Chinese player posted on social media that a former top Communist Party official had assaulted her a decade ago. She then dropped out of sight, prompting concerns for her safety. 
  <p class="updated_time"> 10:07 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/arts/design/parthenon-marbles-restitution.html">As Europe Returns Artifacts, Britain Stays Silent on the Parthenon Marbles</a> NYT: The Parthenon Marbles in London are likely the world’s most famous disputed museum items. Yet the British government says the sculptures’ fate isn’t its concern. 
- <p class="updated_time"> 10:07 AM CT, Dec. 20 </p> 
- <a href="https://www.wsj.com/articles/davos-delayed-over-omicron-uncertainty-11640003584">Davos Economic Forum Is Postponed as Omicron Leads to More Cancellations, Travel Bans</a> WSJ: As the Covid-19 variant spreads, Israel is set to bar its citizens from traveling to the U.S. and Canada and the World Economic Forum said it would postpone next month’s annual meeting for the second successive year. 
  <p class="updated_time"> 09:39 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59728144?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Bruce Springsteen's back catalogue - who bought it?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
- <p class="updated_time"> 08:56 AM CT, Dec. 20 </p> 
- <a href="https://www.wsj.com/articles/egyptian-court-sentences-three-activists-despite-international-pressure-11640019548">Egyptian Court Sentences Activists Despite International Pressure</a> WSJ: The political dissident Alaa Abdel-Fattah and two others were sent to prison on charges of joining a terrorist group and spreading false news 
  <p class="updated_time"> 07:27 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/middleeast/israel-us-travel-covid.html">Israel Bars Travel to U.S. or Canada as Omicron Surges</a> NYT: The countries were added to Israel’s rapidly growing “red list” as Prime Minister Naftali Bennett’s government tries to slow Omicron’s spread. 
  <p class="updated_time"> 04:16 AM CT, Dec. 20 </p> 
@@ -153,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/20/1065722642/pro-beijing-candidates-sweep-hong-kong-elections">Pro-Beijing candidates sweep Hong Kong elections</a> NPR: Hong Kong leader Carrie Lam said she was "satisfied" with the election despite the 30.2% voter turnout being the lowest since the British handed Hong Kong over to China in 1997. 
  <p class="updated_time"> 11:41 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
- <p class="updated_time"> 11:00 PM CT, Dec. 19 </p> 
- <a href="https://www.wsj.com/articles/himalayan-glaciers-are-melting-at-furious-rate-new-study-shows-11639994402">Himalayan Glaciers Are Melting at Furious Rate, New Study Shows</a> WSJ: Glaciers across the region are melting at an extraordinary rate, with new research showing that the vast ice sheets there shrank 10 times faster in the past 40 years than during the previous seven centuries. 
  <p class="updated_time"> 10:36 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59722801?at_medium=RSS&at_campaign=KARANGA">Chile election: Laser shone at Gabriel Boric during victory speech</a> BBC: The bouncing green light did not seem to faze Gabriel Boric as he spoke to supporters in Santiago. 
  <p class="updated_time"> 07:45 PM CT, Dec. 19 </p> 
@@ -198,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:00 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/los-angeles-county-primary-election-malfunction-525745">Cascade of failures upended LA County’s 2020 primary, report finds</a> Politico: The county’s lax oversight of a hardware vendor and slowness to make crucial preparations contributed to chaos and long lines, according to a consultant’s report that POLITICO sued to obtain. 
  <p class="updated_time"> 07:05 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/21/dems-plot-path-after-manchin-derailment-495530">Dems plot path after Manchin derailment</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:20 AM CT, Dec. 21 </p> 
@@ -346,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/20/politics/bragg-new-york-trump/index.html">New Manhattan DA Alvin Bragg pledges to focus on Trump investigations</a> CNN: The next Manhattan district attorney, Alvin Bragg Jr., says he plans to personally focus on the high-profile probe into former President Donald Trump's business practices and may expand the investigative team while keeping at least one senior prosecutor on the case. 
  <p class="updated_time"> 06:11 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/20/the-case-for-why-bbb-is-dead-and-for-why-it-may-not-be-495522"> The case for why BBB is dead — and for why it may not be</a> Politico Playbook: And Rep. Albio Sires (D-N.J.) won’t run for reelection. 
- <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/iowa-caucuses-may-survive-after-all-525629">Dems sour on bid to ditch first-in-the-nation states</a> Politico: Party officials don’t want to project a disunified front with a stormy midterm election season ahead. 
  <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/cdc-covid-omicron-delta-tracking-525621">‘It is embarrassing’: CDC struggles to track Covid cases as Omicron looms</a> Politico: The U.S. was behind other countries in charting the spread of disease in the pandemic’s disastrous early months. It’s still behind as new variants threaten to disrupt the winter. 
  <p class="updated_time"> 02:00 AM CT, Dec. 20 </p> 
