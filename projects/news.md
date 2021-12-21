@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:43 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/middleeast/libya-election-delay.html">Libya’s Long-Awaited Election Will Most Likely Be Delayed</a> NYT: A postponement raises the possibility that the oil-rich North African nation could again descend into the fragmentation and violence that have marked the decade since its dictator was toppled. 
- <p class="updated_time"> 02:38 PM CT, Dec. 21 </p> 
+ <p class="updated_time"> 02:57 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans, and military medical personnel are being prepared to help overwhelmed U.S. hospitals. Germany, Sweden and Scotland tightened restrictions. 
+ <p class="updated_time"> 02:56 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/middleeast/libya-election-delay.html">Libya’s Long-Awaited Election Will Most Likely Be Delayed</a> NYT: A postponement raises the possibility that the oil-rich North African nation could again descend into the fragmentation and violence that have marked the decade since its dictator was toppled. 
+ <p class="updated_time"> 02:54 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/arts/music/christmas-caroling-covid.html">These Carol Singers Are Carrying on, Despite Omicron Variant</a> NYT: Last year, most carol singing in Britain was canceled because of the pandemic. This year, a group of roving singers was determined to carry on, despite the Omicron variant. 
  <p class="updated_time"> 02:31 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Big Tech to ‘Mitigate Harm’ of Suicide Site and Seek Justice Inquiry</a> NYT: A House committee sought briefings from search engines whose services might have been leveraged by the site, which has been linked to numerous deaths. Seven House members asked the Justice Department about avenues for investigation. 
  <p class="updated_time"> 02:12 PM CT, Dec. 21 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/australia/new-zealand-omicron-response.html">New Zealand and Other Asia Pacific Countries Respond to Omicron</a> NYT: New Zealand is taking measures to limit the spread of Omicron, including delaying the reopening of its borders. It has detected 22 cases of Omicron in international arrivals. 
  <p class="updated_time"> 12:22 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-59749146?at_medium=RSS&at_campaign=KARANGA">Malaysia hit by the worst floods in decades</a> BBC: At least 14 people have died and tens of thousands evacuated their homes after torrential rain. 
- <p class="updated_time"> 11:56 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/arts/music/christmas-caroling-covid.html">These Carol Singers Are Carrying on, Despite Omicron Variant</a> NYT: Last year, most carol singing in Britain was canceled because of the pandemic. This year, a group of roving singers was determined to carry on, despite the Omicron variant. 
  <p class="updated_time"> 11:28 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59748169?at_medium=RSS&at_campaign=KARANGA">Spain police thwart raffle of Christmas hamper stuffed with drugs</a> BBC: Police have arrested two men allegedly trying to raffle off a "narco-basket" stuffed with drugs. 
  <p class="updated_time"> 11:23 AM CT, Dec. 21 </p> 
@@ -208,20 +208,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:42 PM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/student-loan-relief-omicron-covid-525870">Education Department considers extending student loan relief amid Omicron surge</a> Politico: “Later this week, we will be announcing whether to extend the pause further,” an Education Department spokesperson said in a statement to POLITICO. 
  <p class="updated_time"> 03:07 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/somaliland-china-taiwan-congress-525842">On the Horn of Africa, a tiny 'country' has Congress' ear</a> Politico: Somaliland's delegation swept through Washington, promising to support Taiwan and ditch China. All it wants is a little recognition. 
+ <p class="updated_time"> 02:56 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/biden-covid-omicron-free-at-home-tests/index.html">Biden assures vaccinated Americans they can go ahead with holiday plans despite Omicron surge</a> CNN: President Joe Biden will announce Tuesday a purchase of a half-billion at-home rapid Covid-19 tests and a plan to distribute them free to Americans who request them through a website, one of a series of new steps he'll unveil as the country faces a potentially crippling wintertime surge of infections. 
+ <p class="updated_time"> 02:50 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/biden-build-back-better-manchin/index.html">Biden insists he and Manchin will 'get something done' after Build Back Better setback</a> CNN: President Joe Biden on Tuesday insisted that he and Democratic Sen. Joe Manchin will "get something done" on the Build Back Better Act after Manchin defied his party by torpedoing the key piece of Biden's domestic agenda. 
+ <p class="updated_time"> 02:49 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/us-travel-ban-omicron/index.html">Biden says he's considering lifting travel ban on southern African countries put in place to limit spread of Omicron</a> CNN: President Joe Biden said Tuesday that he is "considering" whether to lift the US' travel ban on South Africa and seven other southern African countries that was put in place as the Omicron variant of the coronavirus began to spread. 
  <p class="updated_time"> 02:49 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/boston-mayor-vaccine-mandates-525858">Boston mayor lines up vaccine mandates amid pushback from city workers</a> Politico: “I wish we were taking these actions faster,” Boston Mayor Michelle Wu said at a press conference Tuesday. 
- <p class="updated_time"> 02:42 PM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/biden-covid-omicron-free-at-home-tests/index.html">Biden assures vaccinated Americans they can go ahead with holiday plans despite Omicron surge</a> CNN: President Joe Biden will announce Tuesday a purchase of a half-billion at-home rapid Covid-19 tests and a plan to distribute them free to Americans who request them through a website, one of a series of new steps he'll unveil as the country faces a potentially crippling wintertime surge of infections. 
- <p class="updated_time"> 02:38 PM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/biden-build-back-better-manchin/index.html">Biden insists he and Manchin will 'get something done' after Build Back Better setback</a> CNN: President Joe Biden on Tuesday insisted that he and Democratic Sen. Joe Manchin will "get something done" on the Build Back Better Act after Manchin defied his party by torpedoing the key piece of Biden's domestic agenda. 
  <p class="updated_time"> 02:34 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/scott-perry-january-6-committee/index.html">GOP Rep. Scott Perry declines January 6 committee's request to speak with him</a> CNN: Republican Rep. Scott Perry on Tuesday declined the House January 6 committee's request to speak with him. 
  <p class="updated_time"> 02:31 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Big Tech to ‘Mitigate Harm’ of Suicide Site and Seek Justice Inquiry</a> NYT: A House committee sought briefings from search engines whose services might have been leveraged by the site, which has been linked to numerous deaths. Seven House members asked the Justice Department about avenues for investigation. 
- <p class="updated_time"> 02:28 PM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/us-travel-ban-omicron/index.html">Biden says he's considering lifting travel ban on southern African countries put in place to limit spread of Omicron</a> CNN: President Joe Biden said Tuesday that he is "considering" whether to lift the US' travel ban on South Africa and seven other southern African countries that was put in place as the Omicron variant of the coronavirus began to spread. 
  <p class="updated_time"> 02:07 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/gop-state-officials-prepare-new-wave-of-voting-restrictions/index.html">State legislators gear up to pass a 'tidal wave' of voting restrictions ahead of crucial 2022 midterms</a> CNN: The push to impose voting restrictions at the state level is poised to continue next year as Republicans drive forward with an array of new proposals -- ranging from legislation that would eliminate ballot drop boxes to bills that would establish new ID requirements to vote. 
  <p class="updated_time"> 01:35 PM CT, Dec. 21 </p> 
@@ -380,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/20/are-dems-dreams-deferred-or-dead-495523">Are Dems’ dreams deferred or dead?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/20/the-case-for-why-bbb-is-dead-and-for-why-it-may-not-be-495522"> The case for why BBB is dead — and for why it may not be</a> Politico Playbook: And Rep. Albio Sires (D-N.J.) won’t run for reelection. 
- <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/cdc-covid-omicron-delta-tracking-525621">‘It is embarrassing’: CDC struggles to track Covid cases as Omicron looms</a> Politico: The U.S. was behind other countries in charting the spread of disease in the pandemic’s disastrous early months. It’s still behind as new variants threaten to disrupt the winter. 
  <p class="updated_time"> 07:59 PM CT, Dec. 19 </p> 
  <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">White House issues damning statement against Manchin after saying he won't vote for Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 07:56 PM CT, Dec. 19 </p> 
