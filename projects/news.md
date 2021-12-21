@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:48 AM CT, Dec. 21 </p> 
+ <p class="updated_time"> 12:11 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/europe/turkey-inflation-rising-prices.html">Cashing In Grandma’s Gold Coins, a Turkish Family Struggles to Get By</a> NYT: As inflation soars and the value of Turkey’s currency plummets, one couple described how working families can’t make ends meet and have had to cut back on basic necessities as well as life’s smaller pleasures. 
+ <p class="updated_time"> 12:10 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: France and Italy Crack Down on Vaccine-Related Fraud</a> NYT: The N.H.L. pauses its season because of Omicron. President Biden is to announce new steps to quell the latest outbreak, including buying 500 million tests to distribute free to the public. 
+ <p class="updated_time"> 11:56 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/arts/music/caroling-christmas-coronavirus.html">‘Caroling on the Edge’: A Christmas Tradition Returns</a> NYT: Last year, most carol singing in Britain was canceled because of the pandemic. This year, a group of roving singers was determined to carry on, despite the Omicron variant. 
  <p class="updated_time"> 11:46 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/australia/new-zealand-omicron-response.html">New Zealand and Other Asia Pacific Countries Respond to Omicron</a> NYT: New Zealand is taking measures to limit the spread of Omicron, including delaying the reopening of its borders. It has detected 22 cases of Omicron in international arrivals. 
- <p class="updated_time"> 11:39 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/arts/music/caroling-christmas-coronavirus.html">‘Caroling on the Edge’: A Christmas Tradition Returns</a> NYT: Last year, most carol singing in Britain was canceled because of the pandemic. This year, a group of roving singers was determined to carry on, despite the Omicron variant. 
  <p class="updated_time"> 11:28 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59748169?at_medium=RSS&at_campaign=KARANGA">Spain police thwart raffle of Christmas hamper stuffed with drugs</a> BBC: Police have arrested two men allegedly trying to raffle off a "narco-basket" stuffed with drugs. 
  <p class="updated_time"> 11:23 AM CT, Dec. 21 </p> 
@@ -37,20 +39,20 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/travel/cardamom-mountains-wildlife-cambodia.html">Inside the Campaign to Save an Imperiled Cambodian Rainforest</a> NYT: Deep in the Southern Cardamom Mountains, former loggers and poachers have assumed new roles as protective rangers and ecotourism guides. Can their efforts help preserve a vast stretch of wilderness? 
  <p class="updated_time"> 08:50 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/asia/india-water-modi.html">India's Modi Brings Tap Water to Millions as Supplies Shrink</a> NYT: The ambitious project to meet a dire need shows Prime Minister Narendra Modi’s strengths and helps explain his popularity despite a weakened economy. 
- <p class="updated_time"> 08:30 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/europe/turkey-inflation-rising-prices.html">Cashing In Grandma’s Gold Coins, a Turkish Family Struggles to Get By</a> NYT: As inflation soars and the value of Turkey’s currency plummets, one couple described how working families can’t make ends meet and have had to cut back on basic necessities as well as life’s smaller pleasures. 
  <p class="updated_time"> 07:28 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/trump-supporters-booster-shots.html">Donald Trump Said He Got a Booster Shot and His Supporters Booed</a> NYT: At an event in Dallas, the former president revealed for the first time publicly that he had received the additional vaccine dose. 
  <p class="updated_time"> 07:08 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/france-italy-covid-vaccination-fakes.html">France Uncovers Over 180,000 Fake Covid Passes</a> NYT: The developments suggest that resistance to Europe’s vaccination requirements remains significant. 
+ <p class="updated_time"> 07:07 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/putin-blames-u-s-for-ukraine-tensions-11640100640">Putin Blames U.S. and Europe for Ukraine Tensions</a> WSJ: Russian President Vladimir Putin hardened his rhetoric toward the West, blaming the U.S. and Europe for deteriorating relations and vowing to retaliate against their aggression as he ordered the further development of Russia’s armed forces and its weaponry. 
+ <p class="updated_time"> 07:03 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-pandemic-drives-u-s-population-growth-to-record-low-11640098763">Covid-19 Pandemic Drives U.S. Population Growth to Record Low</a> WSJ: America’s population grew by just 0.1% for the 12 months ended July 1, according to Census Bureau figures released Tuesday that show how the pandemic is changing the country’s demographic contours. 
  <p class="updated_time"> 06:57 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/russia-military-putin-kremlin.html">How the Kremlin Is Militarizing Russian Society</a> NYT: With a “youth army,” a cathedral honoring the military and state media promoting patriotism, the government is preparing Russians for the possibility of a fight. 
  <p class="updated_time"> 06:49 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59725368?at_medium=RSS&at_campaign=KARANGA">Mauritius oil spill: Captain guilty over tanker spill</a> BBC: The MV Wakashio ran aground on a coral reef last year leaking about 1,000 tonnes of fuel. 
  <p class="updated_time"> 06:21 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59740356?at_medium=RSS&at_campaign=KARANGA">Israel rejects 'alarm call' by Christian leaders in Jerusalem</a> BBC: Church leaders say "radical groups" are attempting to drive Christians out of the Holy Land. 
- <p class="updated_time"> 06:16 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/covid-19-pandemic-drives-u-s-population-growth-to-record-low-11640098763">Covid-19 Pandemic Drives U.S. Population Growth to Record Low</a> WSJ: America’s population grew by just 0.1% for the 12 months ended July 1, according to Census Bureau figures released Tuesday that show how the pandemic is changing the country’s demographic contours. 
  <p class="updated_time"> 05:51 AM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/well-preserved-embryo-found-inside-fossilized-dinosaur-egg-11640102402">Well-Preserved Embryo Found Inside Fossilized Dinosaur Egg</a> WSJ: Scientists said the embryo inside the egg, which was laid between 72 million to 66 million years ago during the Late Cretaceous period, was that of a two-legged, feathered carnivore known as an oviraptorid. 
  <p class="updated_time"> 05:20 AM CT, Dec. 21 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/israel-bets-travel-restrictions-will-buy-it-time-to-fight-omicron-11640100113">Israel Bets Travel Restrictions Will Buy It Time to Fight Omicron</a> WSJ: As the Omicron variant spreads quickly across the world, Israel has leaned more heavily than other countries on shutting down its borders to international travel. 
  <p class="updated_time"> 04:34 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59739563?at_medium=RSS&at_campaign=KARANGA"> 'Biggest divorce case in British legal history'</a> BBC: A UK court publishes a ruling in the divorce case of Sheikh Mohammed and his ex-wife Princess Haya. 
- <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/putin-blames-u-s-for-ukraine-tensions-11640100640">Putin Blames U.S. for Ukraine Tensions</a> WSJ: Russian President Vladimir Putin hardened his rhetoric toward the West, blaming the U.S. and Europe for deteriorating relations and vowing to retaliate against their aggression as he ordered the further development of Russia’s armed forces and its weaponry. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/style/banker-comedian-shaun-eli-breidbart.html">A Wall Street Banker Turned to Comedy for Happiness and a Career Change</a> NYT: Shaun Eli Breidbart was a banker on Wall Street for 19 years but he gave up a lucrative career in favor of happiness. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
@@ -208,14 +208,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:36 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/wall-street-manchin-covid-growth-expectations-525845">Wall Street checks growth expectations as Manchin, virus dim outlook</a> Politico: While the surge in Covid cases threatens to undercut growth, much of the effect will depend on how policymakers respond. 
+ <p class="updated_time"> 12:08 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/nyc-covid-testing.html">How to Find a Coronavirus Test in New York City</a> NYT: City officials announced plans to open nearly two dozen additional testing sites to meet demand for testing, which has doubled in the past three weeks. 
+ <p class="updated_time"> 11:59 AM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/iran-nuclear-deal-rob-malley/index.html">US Special Envoy for Iran warns of 'escalating crisis' if talks fail to revive Iran nuclear deal</a> CNN: The time left to revive the 2015 nuclear deal with Iran is running out and raising the risk of an "escalating crisis," the United States Special Envoy for Iran, Rob Malley, told CNN's Becky Anderson on Tuesday. 
  <p class="updated_time"> 11:48 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/kim-potter-trial-daunte-wright-police-shooting-525841">Kim Potter trial jury in Daunte Wright's death resumes deliberations</a> Politico: The suburban Minneapolis police officer is charged with first- and second-degree manslaughter. 
  <p class="updated_time"> 11:43 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/scott-perry-january-6-committee/index.html">GOP Rep. Scott Perry declines January 6 committee's request to speak with him</a> CNN: Republican Rep. Scott Perry on Tuesday declined the House January 6 committee's request to speak with him. 
  <p class="updated_time"> 11:36 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/tim-walz-tests-positive-covid/index.html">Minnesota Gov. Tim Walz and family test positive for Covid</a> CNN: Minnesota Gov. Tim Walz, his wife, and their teenage son have tested positive for Covid-19, his office announced Tuesday. 
- <p class="updated_time"> 11:35 AM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/iran-nuclear-deal-rob-malley/index.html">US Special Envoy for Iran warns of 'escalating crisis' if talks fail to revive Iran nuclear deal</a> CNN: The time left to revive the 2015 nuclear deal with Iran is running out and raising the risk of an "escalating crisis," the United States Special Envoy for Iran, Rob Malley, told CNN's Becky Anderson on Tuesday. 
  <p class="updated_time"> 11:34 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/cyber-attacks-commission.html">Designed to Prepare for Cyberattacks, a Panel Wraps Up Its Work</a> NYT: Some of the Cyberspace Solarium Commission’s work remains unfinished as lawmakers wrestle with how to oversee security of cloud computing providers and other issues. 
  <p class="updated_time"> 11:30 AM CT, Dec. 21 </p> 
@@ -384,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-joe-biden-build-back-better-talks-break-down/index.html">How months of talks between Biden and Manchin over Build Back Better broke down </a> CNN: President Joe Biden was at home in Delaware Sunday when Sen. Joe Manchin appeared on Fox News to abruptly declare he could not support his sweeping social and climate plan. "I've tried everything humanly possible," the West Virginia Democrat said, appearing remotely. "I can't get there. This is a no." 
  <p class="updated_time"> 07:00 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/democratic-sky-high-expectations-fall-flat-525537">Dems trip over their own sky-high expectations</a> Politico: Joe Manchin's rejection of the party's social spending bill is just the latest episode in a series of lofty goals it's failed to deliver on. 
- <p class="updated_time"> 06:55 PM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/elizabeth-warren-covid-positive.html">Elizabeth Warren and Cory Booker Test Positive for Coronavirus</a> NYT: Senators Elizabeth Warren of Massachusetts and Cory Booker of New Jersey, both Democrats, said they were vaccinated and had received a booster shot. 
  <p class="updated_time"> 03:52 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/manchin-biden-agenda-competence-campaign-promise-525623">Biden promised competence and order. Chaos and uncertainty are winning.</a> Politico: The president has had successes. But a year in, his time in office has been defined by the disruptions, including on Sunday. 
  <p class="updated_time"> 12:49 PM CT, Dec. 19 </p> 
