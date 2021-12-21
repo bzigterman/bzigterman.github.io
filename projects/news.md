@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 02:43 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/middleeast/libya-election.html">Libya’s Long-Awaited Election Will Most Likely Be Delayed</a> NYT: A postponement raises the possibility that the oil-rich North African nation could again descend into the fragmentation and violence that have marked the decade since its dictator was toppled. 
+ <a href="https://www.nytimes.com/2021/12/21/world/middleeast/libya-election-delay.html">Libya’s Long-Awaited Election Will Most Likely Be Delayed</a> NYT: A postponement raises the possibility that the oil-rich North African nation could again descend into the fragmentation and violence that have marked the decade since its dictator was toppled. 
  <p class="updated_time"> 02:38 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans, and military medical personnel are being prepared to help overwhelmed U.S. hospitals. Germany, Sweden and Scotland tightened restrictions. 
  <p class="updated_time"> 02:31 PM CT, Dec. 21 </p> 
@@ -31,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/europe/france-italy-covid-vaccination-fakes.html">France Uncovers Over 180,000 Fake Covid Passes</a> NYT: The developments suggest that resistance to Europe’s vaccination requirements remains significant. 
  <p class="updated_time"> 12:37 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/australia/new-zealand-omicron-response.html">New Zealand and Other Asia Pacific Countries Respond to Omicron</a> NYT: New Zealand is taking measures to limit the spread of Omicron, including delaying the reopening of its borders. It has detected 22 cases of Omicron in international arrivals. 
+ <p class="updated_time"> 12:22 PM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59749146?at_medium=RSS&at_campaign=KARANGA">Malaysia hit by the worst floods in decades</a> BBC: At least 14 people have died and tens of thousands evacuated their homes after torrential rain. 
  <p class="updated_time"> 11:56 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/arts/music/christmas-caroling-covid.html">These Carol Singers Are Carrying on, Despite Omicron Variant</a> NYT: Last year, most carol singing in Britain was canceled because of the pandemic. This year, a group of roving singers was determined to carry on, despite the Omicron variant. 
  <p class="updated_time"> 11:28 AM CT, Dec. 21 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59667645?at_medium=RSS&at_campaign=KARANGA">The world's first octopus farm - should it go ahead?</a> BBC: The world’s first commercial octopus farm is closer to becoming reality - but scientists are up in arms. 
  <p class="updated_time"> 06:16 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59674930?at_medium=RSS&at_campaign=KARANGA">What is the metaverse?</a> BBC: From virtual versions of ourselves to augmented reality, we break down what the metaverse is. 
- <p class="updated_time"> 06:04 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59722800?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Protesters flee tear gas in Khartoum on uprising anniversary</a> BBC: It's three years since the overthrow of the country's long-term President Omar al-Bashir. 
  <p class="updated_time"> 06:01 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59719323?at_medium=RSS&at_campaign=KARANGA">Myanmar: BBC investigates military's mass killings</a> BBC: Eyewitnesses and survivors say that soldiers rounded up villagers before separating the men and killing them. 
  <p class="updated_time"> 02:05 PM CT, Dec. 19 </p> 
@@ -212,7 +212,7 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/21/somaliland-china-taiwan-congress-525842">On the Horn of Africa, a tiny 'country' has Congress' ear</a> Politico: Somaliland's delegation swept through Washington, promising to support Taiwan and ditch China. All it wants is a little recognition. 
  <p class="updated_time"> 02:49 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/boston-mayor-vaccine-mandates-525858">Boston mayor lines up vaccine mandates amid pushback from city workers</a> Politico: “I wish we were taking these actions faster,” Boston Mayor Michelle Wu said at a press conference Tuesday. 
- <p class="updated_time"> 02:40 PM CT, Dec. 21 </p> 
+ <p class="updated_time"> 02:42 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/biden-covid-omicron-free-at-home-tests/index.html">Biden assures vaccinated Americans they can go ahead with holiday plans despite Omicron surge</a> CNN: President Joe Biden will announce Tuesday a purchase of a half-billion at-home rapid Covid-19 tests and a plan to distribute them free to Americans who request them through a website, one of a series of new steps he'll unveil as the country faces a potentially crippling wintertime surge of infections. 
  <p class="updated_time"> 02:38 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/biden-build-back-better-manchin/index.html">Biden insists he and Manchin will 'get something done' after Build Back Better setback</a> CNN: President Joe Biden on Tuesday insisted that he and Democratic Sen. Joe Manchin will "get something done" on the Build Back Better Act after Manchin defied his party by torpedoing the key piece of Biden's domestic agenda. 
