@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:58 AM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: N.H.L. Pauses Its Season Because of Omicron</a> NYT: As U.S. virus cases surge, President Biden announces new steps, including buying 500 million tests to distribute to the public for free and readying 1,000 military medical professionals. 
+ <p class="updated_time"> 05:48 AM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59738678?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Biden buys 500m test kits to tackle surge</a> BBC: The US will also deploy more military medics amid fears the holiday season will boost a Covid spike. 
  <p class="updated_time"> 05:32 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59740528?at_medium=RSS&at_campaign=KARANGA">Ghanaian MPs brawl in parliament over e-money tax</a> BBC: Lawmakers trade blows during a chaotic session over a proposed levy on electronic transactions. 
  <p class="updated_time"> 05:14 AM CT, Dec. 21 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59737125?at_medium=RSS&at_campaign=KARANGA">The secret lives of Ghislaine Maxwell and Jeffrey Epstein</a> BBC: Never-before-seen photos released during her trial shed new light on their private lives. 
  <p class="updated_time"> 06:46 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/larry-hogan-covid.html">Larry Hogan, Governor of Maryland, Tests Positive for Covid</a> NYT: He said he is feeling fine and that the positive test result came as a result of routine testing. 
- <p class="updated_time"> 06:36 PM CT, Dec. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59687947?at_medium=RSS&at_campaign=KARANGA">How Covid deepened America's teacher shortages</a> BBC: Classrooms across the US have been emptied of educators - and the pandemic has made it worse. 
  <p class="updated_time"> 06:34 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59689797?at_medium=RSS&at_campaign=KARANGA">Saudi entertainment boom raises harassment fears</a> BBC: As festivals become a familiar sight in the kingdom, some women say they do not feel safe to attend. 
  <p class="updated_time"> 06:34 PM CT, Dec. 20 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/18/world/middleeast/baghdad-book-fair-iraq.html">Reveling in the Joys of Books, and Reading, at a Baghdad Book Fair</a> NYT: Iraq is home to literary traditions ancient and modern, and to legions of avid readers who find a new book more meaningful to them than a new government. 
  <p class="updated_time"> 11:00 AM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/europe/france-valerie-pecresse-republicans.html">In a France Fearful of Immigrants, Another Candidate Tacks Hard Right</a> NYT: Valérie Pécresse, the center-right candidate in April’s presidential election, has adopted the vocabulary of the far right when discussing immigration. 
- <p class="updated_time"> 09:02 AM CT, Dec. 18 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/middleeast/israel-iran-nuclear-attack.html">Israeli Defense Officials Cast Doubt on Threat to Attack Iran</a> NYT: Israel has threatened military action to destroy Iran’s nuclear program if need be. But defense officials say Israel does not have the ability, at least not anytime soon. 
 
 
 </details>
