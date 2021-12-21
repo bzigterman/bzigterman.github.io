@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:33 AM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066163872/mexican-cartels-turning-to-meth-and-fentanyl-production">Mexican cartels turning to meth and fentanyl production</a> NPR: Cartels are increasingly turning to huge, industrial-scale labs to churn out synthetic drugs as they shift away from naturally grown drugs like opium and marijuana. 
  <p class="updated_time"> 01:20 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-59733716?at_medium=RSS&at_campaign=KARANGA">WHO urges cancelling some holiday events over Omicron fears</a> BBC: "An event cancelled is better than a life cancelled," warns the World Health Organization's head. 
  <p class="updated_time"> 11:44 PM CT, Dec. 20 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/19/1065626388/revival-of-the-iran-nuclear-deal-appears-far-off">Revival of the Iran nuclear deal appears far-off</a> NPR: Scott Detrow gets an update on the ongoing Iran-U.S. nuclear deal talks in Vienna from journalist Negar Mortazavi. 
  <p class="updated_time"> 06:01 AM CT, Dec. 19 </p> 
  <a href="https://www.npr.org/2021/12/19/1062091832/flying-tigers-americans-china-world-war-ii-history-japan">The Flying Tigers: How a group of Americans ended up fighting for China in WW II</a> NPR: In 1941, Japan was on the offensive against China. So China hired a group of Americans to fight back in the skies. Eighty years ago this week, they fought in their first battle. 
- <p class="updated_time"> 06:00 AM CT, Dec. 19 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/12/19/1062792638/our-11-most-read-global-pandemic-stories-of-2021">Our 11 most-read global pandemic stories of 2021</a> NPR: From India to Israel to white-tailed deer in Iowa harboring the coronavirus, our top COVID stories of the year reveal the ever-changing nature of the world's health crisis. 
  <p class="updated_time"> 10:44 PM CT, Dec. 18 </p> 
  <a href="https://www.nytimes.com/2021/12/18/world/europe/brexit-david-frost-resigns.html">David Frost, Brexit Negotiator, Resigns in Another Blow to Boris Johnson</a> NYT: The move puts new pressure on the prime minister, whose leadership has been called into question by a series of setbacks, including a new wave of Covid infections. 
  <p class="updated_time"> 04:04 PM CT, Dec. 18 </p> 
