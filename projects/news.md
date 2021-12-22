@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:37 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Cases Appear Less Severe, 2 U.K. Studies Say</a> NYT: Experts warned that hospitals could still be flooded, because the variant is so transmissible. The F.D.A. authorized Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
  <p class="updated_time"> 03:28 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/business/paris-france-inflation-prices.html">Inflation Forces Parisian Vendors to Raise Prices on Staples</a> NYT: Soaring inflation in Europe is starting to squeeze shopkeepers and consumers. Many are preparing for more price increases in the new year. 
- <p class="updated_time"> 03:25 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Cases Appear Less Severe, 2 U.K. Studies Say</a> NYT: Experts warned that hospitals could still be flooded, because the variant is so transmissible. The F.D.A. authorized Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
  <p class="updated_time"> 02:46 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/health-59758784?at_medium=RSS&at_campaign=KARANGA">Omicron wave appears milder, but concern remains</a> BBC: The risk of needing hospital treatment could be 30 - 70% lower with Omicron than other variants. 
  <p class="updated_time"> 02:23 PM CT, Dec. 22 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:22 PM CT, Dec. 22 </p> 
+ <a href="https://www.politico.com/news/2021/12/22/congressional-redistricting-arizona-525993">GOP could win 6 of Arizona's 9 congressional seats after remap</a> Politico: The state's Independent Redistricting Commission approved the new congressional map on Wednesday. 
  <p class="updated_time"> 03:14 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066997356/january-6-panel-asks-rep-jordan-top-trump-ally-for-voluntary-cooperation-in-prob">The House Jan. 6 panel wants to talk to Trump ally Rep. Jim Jordan</a> NPR: Chairman Bennie Thompson's letter to Jordan asks for information and an interview to discuss his conversations with former President Trump on January 6. 
  <p class="updated_time"> 03:07 PM CT, Dec. 22 </p> 
@@ -222,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/22/roger-stone-trump-autograph-nft-525986">Roger Stone is selling a Trump autograph NFT to pay his legal bills</a> Politico: The post-Trump presidency, encapsulated in one short story. 
  <p class="updated_time"> 01:26 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/new-jersey-redistricting-map-malinowski-525983">Democrats prevail in New Jersey redistricting with map that could sacrifice Malinowski</a> Politico: New Jersey redistricts through a commission that includes six Democratic appointees, six Republican appointees and a tie-breaker who is selected by the state Supreme Court. 
- <p class="updated_time"> 01:09 PM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/january-6-committee-interview-lawsuit/index.html">House January 6 rally staffers detail committee investigation questions and targets in lawsuit</a> CNN: Four people who staffed the pro-Trump rally at the Ellipse that preceded the deadly Capitol attack on January 6 are suing to block House investigators from obtaining their phone records. 
  <p class="updated_time"> 01:00 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">U.S. Eases Some Restrictions on Aid for Afghanistan</a> NYT: The new measures will allow the United States to maintain pressure on the Taliban as the country faces collapse. 
  <p class="updated_time"> 12:56 PM CT, Dec. 22 </p> 
@@ -232,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/22/kim-potter-trial-daunte-wright-police-shooting-525976">Jurors at Kim Potter trial resume work Wednesday</a> Politico: If convicted of the most serious charge, the former Brooklyn Center officer would face a sentence of about seven years under state guidelines, though prosecutors have said they will seek more. 
  <p class="updated_time"> 12:31 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/cruz-2024-republican-presidential-nomination-525973">‘The runner-up is almost always the next nominee’: Cruz says he’s well-positioned for 2024</a> Politico: Asked whether he would consider launching another White House bid, the senator responded: “Absolutely. In a heartbeat.” 
- <p class="updated_time"> 12:27 PM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/biden-trump-covid-vaccine-booster/index.html">Biden offers rare praise of Trump during Covid speech</a> CNN: President Joe Biden on Tuesday gave credit to the Trump administration for the development of the Covid-19 vaccine and praised his predecessor, Donald Trump, for getting a booster shot -- marking a rare moment where the two men have found common ground since Inauguration Day. 
  <p class="updated_time"> 12:25 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/white-house-to-extend-student-loan-payment-moratorium-525974">White House extends student loan payment freeze</a> Politico: The move comes as the deadline neared for the end of the current moratorium and as another wave of Covid threatens a strong, but fragile, economic recovery. 
  <p class="updated_time"> 12:00 PM CT, Dec. 22 </p> 
@@ -246,14 +244,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1066714092/biden-negative-test-covid-19-air-force-one">Biden tests negative for COVID-19 after recent exposure</a> NPR: The test was done after a White House staff member — who had flown with Biden on Air Force One on Friday — tested positive for COVID on Monday. Biden had tested negative on Sunday and Monday. 
  <p class="updated_time"> 11:02 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2021/12/22/1064823191/talking-race-pop-culture-and-youtube-with-khadija-mbowe">Talking race, pop culture and YouTube with Khadija Mbowe</a> NPR: The singer-turned-YouTuber is using their platform to take on everything from race- and queer-baiting in Bridgerton to the scrutiny of Black women's bodies to the history of dog-whistle politics. 
+ <p class="updated_time"> 10:26 AM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/january-6-committee-interview-lawsuit/index.html">House January 6 rally staffers detail committee investigation questions and targets in lawsuit</a> CNN: Four people who staffed the pro-Trump rally at the Ellipse that preceded the deadly Capitol attack on January 6 are suing to block House investigators from obtaining their phone records. 
  <p class="updated_time"> 10:00 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/afghanistan-teachers-humanitarian-organizations/index.html">Biden administration moves to allow Afghan teachers' salaries to be paid by aid organizations</a> CNN: The Biden administration is lifting some restrictions on the types of aid that humanitarian organizations can provide to Afghanistan which will enable support for educational programs, including paying teachers' salaries, the Treasury Department and two senior administration officials announced on Wednesday. 
  <p class="updated_time"> 09:21 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/arts/hillary-clinton-masterclass.html">How Hillary Clinton's MasterClass Shows a Very 2021 Way to Be</a> NYT: Hillary Clinton delivered an unused election speech. Jennifer Aniston cried at Central Perk. It was a year for watching celebrities reinhabit their past selves. 
- <p class="updated_time"> 08:20 AM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/rescue-money-runs-low-omicron-arrives/index.html">Federal pandemic aid runs dry as businesses deal with Omicron's impact</a> CNN: Congress has committed nearly $6 trillion since early 2020 to fight Covid-19 and cushion the economic blow from a once-in-century pandemic. 
- <p class="updated_time"> 07:37 AM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/omicron-covid-holiday-plans-what-matters/index.html">Analysis: Omicron prompts new confusion over what's safe and what's not</a> CNN: How worried should you be about the uptick in Covid-19 cases and the emergence of the Omicron variant of the coronavirus? 
  <p class="updated_time"> 07:01 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/22/dems-family-meeting-with-manchin-495537">Dems' family meeting with Manchin</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Dec. 22 </p> 
@@ -262,6 +258,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/22/michael-flynn-sues-capitol-riot-committee-525964">Michael Flynn sues Jan. 6 committee</a> Politico: The lawsuit is the latest in a cascade of litigation by targets of the select committee’s investigation. 
  <p class="updated_time"> 06:12 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/22/schumer-and-manchin-face-off-on-zoom-495536"> Schumer and Manchin face off on Zoom</a> Politico Playbook: And Biden tries to tackle Omicron. 
+ <p class="updated_time"> 06:03 AM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/rescue-money-runs-low-omicron-arrives/index.html">Federal pandemic aid runs dry as businesses deal with Omicron's impact</a> CNN: Congress has committed nearly $6 trillion since early 2020 to fight Covid-19 and cushion the economic blow from a once-in-century pandemic. 
  <p class="updated_time"> 06:01 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/covid-pandemic-emergency-rental-assistance/index.html">Federal pandemic rental aid helped 2.5 million households. Nearly 5 million are still struggling</a> CNN: One year after Congress first authorized billions of dollars in Covid-19 pandemic rental assistance, the money has helped more than 2.5 million struggling renters to remain in their homes. But there are still roughly 4.7 million households behind on their rent across the country. 
  <p class="updated_time"> 05:20 AM CT, Dec. 22 </p> 
@@ -296,6 +294,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/21/politics/charles-lieber-harvard-china-ties-guilty/index.html">Harvard professor found guilty of lying about Chinese government ties</a> CNN: A Harvard University professor was convicted by a federal jury on Tuesday of lying to the US about his involvement with China's government, the Justice Department announced. 
  <p class="updated_time"> 09:18 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/ghislaine-maxwell-jury-epstein-525962">Deliberations in Ghislaine Maxwell trial continue</a> Politico: The jury is deciding whether Maxwell assisted Jeffrey Epstein in the sexual abuse of teen girls from 1994 to 2004. 
+ <p class="updated_time"> 09:01 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/biden-trump-covid-vaccine-booster/index.html">Biden offers rare praise of Trump during Covid speech</a> CNN: President Joe Biden on Tuesday gave credit to the Trump administration for the development of the Covid-19 vaccine and praised his predecessor, Donald Trump, for getting a booster shot -- marking a rare moment where the two men have found common ground since Inauguration Day. 
  <p class="updated_time"> 08:51 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/manchin-child-tax-credit-biden.html">The Policy Debate at the Heart of the Biden-Manchin Standoff</a> NYT: President Biden and Senator Joe Manchin III have many differences over the proposed domestic policy bill, but one issue stands out: the child tax credit. 
  <p class="updated_time"> 08:28 PM CT, Dec. 21 </p> 
@@ -310,6 +310,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/us/politics/mcconnell-manchin-republican.html">McConnell to Manchin: We’d Love to Have You, Joe</a> NYT: Senator Mitch McConnell, the Republican leader, says Democratic outrage over Senator Joe Manchin’s opposition to sweeping policy bills shows he is not welcome in his party any longer. 
  <p class="updated_time"> 07:04 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/gop-state-officials-prepare-new-wave-of-voting-restrictions/index.html">GOP proposals at the state level would nix ballot boxes and create new voting ID requirements</a> CNN: The push to impose voting restrictions at the state level is poised to continue next year as Republicans drive forward with an array of new proposals -- ranging from legislation that would eliminate ballot drop boxes to bills that would establish new ID requirements to vote. 
+ <p class="updated_time"> 06:39 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/omicron-covid-holiday-plans-what-matters/index.html">Analysis: Omicron prompts new confusion over what's safe and what's not</a> CNN: How worried should you be about the uptick in Covid-19 cases and the emergence of the Omicron variant of the coronavirus? 
  <p class="updated_time"> 06:19 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/scott-perry-january-6-committee.html">Flynn Sues Jan. 6 Committee as House Republican Rebuffs Investigators</a> NYT: The panel investigating the Capitol attack faced stonewalling from allies of former President Donald J. Trump on two new fronts. 
  <p class="updated_time"> 05:27 PM CT, Dec. 21 </p> 
@@ -388,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/omicron-dominant-covid-strain-cdc-525801">Omicron now the dominant Covid strain in U.S., CDC says</a> Politico: The White House has urged vaccinations and booster shots to combat the new variant. 
  <p class="updated_time"> 04:36 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/biden-and-manchin-speak-525788">Biden and Manchin speak</a> Politico: The two connected and there is a sense that talks around Build Back Better aren't done yet. 
- <p class="updated_time"> 02:25 PM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/alex-jones-sues-jan-6-committee-indicates-plan-to-plead-the-fifth-525770">Alex Jones sues Jan. 6 committee, indicates plan to plead the Fifth</a> Politico: In the lawsuit, Jones says he intends to assert his Fifth Amendment rights against self-incrimination. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/manchin-build-back-better-redo-525747">Manchin to Dems: Redo the whole thing, maybe I'll vote for it</a> Politico: The West Virginia senator wants a new bill that goes through Senate committees and focuses on rolling back the 2017 Trump tax cuts. 
  <p class="updated_time"> 11:49 AM CT, Dec. 20 </p> 
