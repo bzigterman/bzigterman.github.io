@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:45 AM CT, Dec. 22 </p> 
+ <p class="updated_time"> 05:55 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: England Cuts Isolation Period for People Who Test Positive</a> NYT: The new rule comes as rising case numbers lead to staff shortages in critical sectors, and as other European nations bring in new measures to curb widening outbreaks. Israel offers fourth vaccine doses. 
  <p class="updated_time"> 05:36 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59750160?at_medium=RSS&at_campaign=KARANGA">Koalas: Mass deaths in Victoria bring animal cruelty charges</a> BBC: Dozens of koalas were found dead at a partially cleared timber plantation last year in Victoria. 
@@ -45,10 +45,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59723343?at_medium=RSS&at_campaign=KARANGA">Charles Lieber: Harvard professor guilty of hiding ties to Chinese programme</a> BBC: The US scientist reportedly received $1.5m from a Chinese university on top of his monthly pay. 
  <p class="updated_time"> 01:15 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59753026?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: BBC correspondent shows damage on Siargao Island</a> BBC: Take a look at the damage on Siargao Island after a powerful storm kills hundreds in the Philippines. 
+ <p class="updated_time"> 12:51 AM CT, Dec. 22 </p> 
+ <a href="https://www.wsj.com/articles/to-limit-omicron-singapore-freezes-ticket-sales-for-quarantine-free-travel-11640165362">Israel to Offer Fourth Covid-19 Shot to Over 60s</a> WSJ: Health officials expect the Omicron variant to surge through the country in the coming weeks—including among the vaccinated—and said that research showed protection provided by the booster shot begins to wane within three to four months. 
  <p class="updated_time"> 11:50 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59751702?at_medium=RSS&at_campaign=KARANGA">Covid: Australian trial tests blood thinner as nasal spray</a> BBC: A blood-thinning drug could be sprayed as extra protection if a trial shows promise, scientists say. 
- <p class="updated_time"> 10:45 PM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/to-limit-omicron-singapore-freezes-ticket-sales-for-quarantine-free-travel-11640165362">To Limit Omicron, Singapore Freezes Ticket Sales for Quarantine-Free Travel</a> WSJ: The move is the first significant reversal of a gradual travel reopening that had expanded to about two dozen countries. 
  <p class="updated_time"> 10:08 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/asia/india-water-modi.html">India's Modi Brings Tap Water to Millions as Supplies Shrink</a> NYT: The ambitious project to meet a dire need shows Prime Minister Narendra Modi’s strengths and helps explain his popularity despite a weakened economy. 
  <p class="updated_time"> 08:55 PM CT, Dec. 21 </p> 
@@ -221,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/redistricting-state-lawmakers-525960">State lawmakers get to work on new congressional districts — for themselves</a> Politico: The process is already inherently self-interested, with lawmakers routinely drawing maps for the benefit of their party. But, in some cases, these politicians are working in their literal self-interest. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/dan-crenshaw-conservatives-come-correct-525829">Dan Crenshaw to his fellow conservatives: Come 'correct'</a> Politico: The combat veteran often voted with Donald Trump but doesn't act Trumpishly. And he'll slam other Republicans when he feels he must. 
+ <a href="https://www.politico.com/news/2021/12/22/dan-crenshaw-conservatives-come-correct-525829">Dan Crenshaw to his fellow conservatives: Come ‘correct’</a> Politico: The combat veteran often voted with Donald Trump but doesn't act Trumpishly. And he'll slam other Republicans when he feels he must. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/trump-alums-david-mccormick-staff-525935">Hope Hicks, other Trump alums join hedge-fund exec's Senate camp</a> Politico: David McCormick's roster of campaign staffers and consultants for the Pennsylvania Senate race includes Hicks, Trump's longtime aide. 
  <p class="updated_time"> 04:10 AM CT, Dec. 22 </p> 
