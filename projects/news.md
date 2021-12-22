@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:36 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
  <p class="updated_time"> 04:25 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid News: Scientists Warn Omicron Will Surge and Say Biden’s Plan Is Insufficient</a> NYT: President Biden plans to provide hundreds of millions of tests free to Americans. Israel will administer a fourth round of boosters. 
  <p class="updated_time"> 04:25 AM CT, Dec. 22 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/world/asia/india-christians-attacked.html">India's Christians Attacked Under Anti-Conversion Laws</a> NYT: “They want to remove us from society,” a Christian farmer said of Hindu extremists. Rising attacks on Christians are part of a broader shift in India, in which minorities feel less safe. 
  <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/business/paris-france-inflation-prices.html">At a Paris Market, Costs Rise, Even for the Humble Baguette</a> NYT: Soaring inflation in Europe is starting to squeeze shopkeepers and consumers. Many are preparing for more price increases in the new year. 
- <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
  <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/heat-carbon-emissions-cities.html">Using a City’s Excess Heat to Reduce Emissions</a> NYT: A district in London has developed an innovative way to divert subway heat for buildings to lower carbon emissions. Other cities are getting creative, as well. 
  <p class="updated_time"> 03:47 AM CT, Dec. 22 </p> 
