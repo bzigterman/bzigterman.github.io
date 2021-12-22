@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:34 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Cases Appear Less Severe, 2 U.K. Studies Say</a> NYT: Experts warned that hospitals could still be flooded, because the variant is so transmissible. The F.D.A. authorized Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
  <p class="updated_time"> 05:24 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">As Humanitarian Disaster Looms, U.S. Opens Door for More Afghanistan Aid</a> NYT: The Treasury Department and the United Nations offered new protection for aid from sanctions meant to pressure the Taliban. 
  <p class="updated_time"> 05:22 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
- <p class="updated_time"> 05:06 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Cases Appear Less Severe, 2 U.K. Studies Say</a> NYT: Experts warned that hospitals could still be flooded, because the variant is so transmissible. The F.D.A. authorized Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
  <p class="updated_time"> 04:58 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/california-booster-mandate-feb-1.html">California Requires Health Workers to Get Boosters by Feb. 1</a> NYT: Gov. Gavin Newsom said more than half of the sequenced cases in the state have been identified as the Omicron variant, but the real number is probably higher. 
  <p class="updated_time"> 04:07 PM CT, Dec. 22 </p> 
@@ -224,6 +224,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/22/congressional-redistricting-arizona-525993">GOP could win 6 of Arizona's 9 congressional seats after remap</a> Politico: The state's Independent Redistricting Commission approved the new congressional map on Wednesday. 
  <p class="updated_time"> 04:16 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/yellen-signature-us-currency.html">Why Janet Yellen’s Signature Is Not on U.S. Currency</a> NYT: Until a new treasurer is selected, currency will continue to bear the autograph of former Treasury Secretary Steven Mnuchin. 
+ <p class="updated_time"> 04:13 PM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/videos/media/2021/12/22/biden-trump-booster-praise-fox-vpx.cnn">Biden and Trump praise each other in rare moment</a> CNN: Donald Trump reacts to President Biden offering rare praise of the former president during his Covid speech, marking a rare moment where the two men have found common ground since Inauguration Day. 
  <p class="updated_time"> 03:57 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/proud-boy-pleads-guilty-january-6/index.html">Proud Boys member pleads guilty in January 6 attack on US Capitol, the first to do so in alleged conspiracy</a> CNN: In one of the most prominent cases against far-right groups that the Justice Department alleges planned to storm the US Capitol on January 6, a New York member of the Proud Boys has pleaded guilty to felony charges, including conspiracy. 
  <p class="updated_time"> 03:47 PM CT, Dec. 22 </p> 
@@ -264,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/22/politics/supply-chain-biden-meeting/index.html">Biden touts progress on alleviating supply chain problems</a> CNN: President Joe Biden on Wednesday will get a progress report from members of his Cabinet and private sector CEOs on efforts to alleviate supply chain issues, lower consumer prices and keep shelves stocked amid the holiday season. 
  <p class="updated_time"> 11:24 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066714092/biden-negative-test-covid-19-air-force-one">Biden tests negative for COVID-19 after recent exposure</a> NPR: The test was done after a White House staff member — who had flown with Biden on Air Force One on Friday — tested positive for COVID on Monday. Biden had tested negative on Sunday and Monday. 
- <p class="updated_time"> 11:09 AM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/videos/business/2021/12/22/president-biden-supply-chain-remarks-romans-nr-vpx.cnn">'Gifts are being delivered': Biden says supply chain is moving</a> CNN: CNN's Christine Romans provides analysis after President Biden's remarks in which he claims the supply chain is improving. 
  <p class="updated_time"> 11:02 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2021/12/22/1064823191/talking-race-pop-culture-and-youtube-with-khadija-mbowe">Talking race, pop culture and YouTube with Khadija Mbowe</a> NPR: The singer-turned-YouTuber is using their platform to take on everything from race- and queer-baiting in Bridgerton to the scrutiny of Black women's bodies to the history of dog-whistle politics. 
  <p class="updated_time"> 10:00 AM CT, Dec. 22 </p> 
