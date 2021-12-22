@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:47 AM CT, Dec. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59749005?at_medium=RSS&at_campaign=KARANGA">Madagascar: Minister 'swims for 12 hours' after helicopter crashes at sea</a> BBC: Madagascar's police minister was part of a team looking for survivors after a shipwreck. 
  <p class="updated_time"> 03:16 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59747689?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: European nations reinstate restrictions</a> BBC: As the Omicron variant spreads across the continent, countries tighten curbs to brace for another wave. 
  <p class="updated_time"> 03:07 AM CT, Dec. 22 </p> 
@@ -27,7 +29,7 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59723344?at_medium=RSS&at_campaign=KARANGA">Myanmar: At least one dead, 70 missing in jade mine landslide</a> BBC: Most of the victims are believed to be illegal jade miners prospecting for the semi-precious stone. 
  <p class="updated_time"> 11:50 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59751702?at_medium=RSS&at_campaign=KARANGA">Covid: Australian trial tests blood thinner as nasal spray</a> BBC: A blood-thinning drug could be sprayed as extra protection if a trial shows promise, scientists say. 
- <p class="updated_time"> 10:29 PM CT, Dec. 21 </p> 
+ <p class="updated_time"> 10:45 PM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/to-limit-omicron-singapore-freezes-ticket-sales-for-quarantine-free-travel-11640165362">To Limit Omicron, Singapore Freezes Ticket Sales for Quarantine-Free Travel</a> WSJ: The move is the first significant reversal of a gradual travel reopening that had expanded to about two dozen countries. 
  <p class="updated_time"> 10:08 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/asia/india-water-modi.html">India's Modi Brings Tap Water to Millions as Supplies Shrink</a> NYT: The ambitious project to meet a dire need shows Prime Minister Narendra Modi’s strengths and helps explain his popularity despite a weakened economy. 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Big Tech to ‘Mitigate Harm’ of Suicide Site and Seek Justice Inquiry</a> NYT: A House committee sought briefings from search engines whose services might have been leveraged by the site, which has been linked to numerous deaths. Seven House members asked the Justice Department about avenues for investigation. 
  <p class="updated_time"> 01:51 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/turkey-inflation-rising-prices.html">Cashing In Grandma’s Gold Coins, a Turkish Family Struggles to Get By</a> NYT: As inflation soars and the value of Turkey’s currency plummets, one couple described how working families can’t make ends meet and have had to cut back on basic necessities as well as life’s smaller pleasures. 
- <p class="updated_time"> 01:44 PM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59749005?at_medium=RSS&at_campaign=KARANGA">Madagascar: Minister 'swims for 12 hours' after helicopter crashes at sea</a> BBC: The Madagascar police minister was part of a team looking for survivors after a boat accident. 
  <p class="updated_time"> 01:43 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/bidens-omicron-speech.html">Here’s what we know about Biden’s speech on the U.S. Omicron response.</a> NYT: The president is expected to  announce several new steps, including setting up new testing and vaccination sites, deploying  federal vaccinators and buying 500 million rapid tests to distribute free. 
  <p class="updated_time"> 12:38 PM CT, Dec. 21 </p> 
