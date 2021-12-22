@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:29 PM CT, Dec. 22 </p> 
+ <p class="updated_time"> 02:51 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Cases Appear Less Severe, 2 U.K. Studies Say</a> NYT: Experts warned that hospitals could still be flooded, because the variant is so transmissible. The F.D.A. authorized Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
+ <p class="updated_time"> 02:46 PM CT, Dec. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/health-59758784?at_medium=RSS&at_campaign=KARANGA">Omicron wave appears milder, but concern remains</a> BBC: The risk of needing hospital treatment could be 30 - 70% lower with Omicron than other variants. 
  <p class="updated_time"> 02:23 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59756344?at_medium=RSS&at_campaign=KARANGA">Chelsea FC owner Roman Abramovich gets apology over Putin claim</a> BBC: HarperCollins apologises to Chelsea FC's owner over allegations he was ordered to buy the club. 
  <p class="updated_time"> 01:53 PM CT, Dec. 22 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
  <p class="updated_time"> 01:00 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">U.S. Eases Some Restrictions on Aid for Afghanistan</a> NYT: The new measures will allow the United States to maintain pressure on the Taliban as the country faces collapse. 
- <p class="updated_time"> 01:00 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/health-59758784?at_medium=RSS&at_campaign=KARANGA">Omicron wave appears milder, but concern remains</a> BBC: The risk of needing hospital treatment could be 30 - 70% lower with Omicron than other variants. 
  <p class="updated_time"> 12:52 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests/new-cases-slow-in-south-africa-suggesting-its-omicron-wave-may-have-peaked">New cases slow in South Africa, suggesting its Omicron wave may have peaked.</a> NYT: Reports of new coronavirus cases across the country have fallen by 20 percent in a week, which researchers called “encouraging.” 
  <p class="updated_time"> 12:37 PM CT, Dec. 22 </p> 
@@ -51,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/nyregion/new-york-health-commissioner.html">N.Y.C. Health Commissioner to Stay On Until March, Adams Says</a> NYT: The commissioner, Dr. Dave A. Chokshi, will continue to run the health department after Eric Adams becomes mayor on Jan. 1, as the Omicron variant surges. Dr. Ashwin Vasan will succeed Dr. Chokshi in mid-March. 
  <p class="updated_time"> 09:01 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1064546215/pinata-mexico-posadas-celebration">In Mexico, piñatas are a Christmas essential full of history, art and treats</a> NPR: Piñatas are a common element in parties across different countries, but especially in Mexico around Christmas time, and the story of their origin combines cultures, traditions and religions. 
+ <p class="updated_time"> 09:00 AM CT, Dec. 22 </p> 
+ <a href="https://www.wsj.com/articles/china-locks-down-xian-issuing-stay-at-home-order-to-13-million-11640191348">China Locks Down Xi'an, Issuing Stay-at-Home Order to 13 million</a> WSJ: The tally of new Covid-19 cases in Xi’an on Tuesday was the highest in the country, with officials saying the infections are with the Delta variant. 
  <p class="updated_time"> 08:40 AM CT, Dec. 22 </p> 
  <a href="https://www.wsj.com/articles/to-limit-omicron-singapore-freezes-ticket-sales-for-quarantine-free-travel-11640165362">South Africa Sees Milder Disease From Omicron</a> WSJ: Israel is set to offer a fourth dose of the Covid-19 vaccine to older people, while South African scientists reported further evidence that the Omicron variant causes significantly less serious disease than earlier strains. 
  <p class="updated_time"> 07:48 AM CT, Dec. 22 </p> 
@@ -132,7 +134,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:12 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/princess-haya-sheikh-mohammed-bin.html">British Court Orders Dubai Ruler to Pay £554 Million in Custody Settlement</a> NYT: The settlement, of about $734 million, resolves a lengthy dispute that began when Princess Haya Bint Al Hussein and her two children fled to London in 2019. 
  <p class="updated_time"> 09:39 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/12/21/1062836171/editors-pick-11-hidden-gems-on-our-global-health-blog-in-2021">Editors' pick: 11 hidden gems on our global health blog in 2021</a> NPR: Want to hear the former president of Zambia sing about public health? Find out what to do if you lose a sheep in Senegal? Use solar power to iron garments? Give these stories a read. 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/12/21/1062836171/editors-pick-11-hidden-gems-on-our-global-health-blog-in-2021">Editors' pick: Maybe you missed these 11 cool global posts. Here's your second chance!</a> NPR: Want to see why Prince William was impressed with a teenage Indian inventor? Find out what to do if you lose a sheep in Senegal? See how sewing machines transformed Africa? Give these stories a read. 
  <p class="updated_time"> 07:28 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/trump-supporters-booster-shots.html">Donald Trump Said He Got a Booster Shot and His Supporters Booed</a> NYT: At an event in Dallas, the former president revealed for the first time publicly that he had received the additional vaccine dose. 
  <p class="updated_time"> 06:57 AM CT, Dec. 21 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/20/1065865472/omicron-holiday-travel-gatherings-restrictions-world">As omicron surges, nations announce rules on gatherings and travel ahead of holidays</a> NPR: European nations have implemented a wave of new restrictions as case numbers rise. And Israel has added the U.S. and Canada to its "red list" of countries that citizens are barred from traveling to. 
  <p class="updated_time"> 11:17 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/africa/drones-ethiopia-war-turkey-emirates.html">Foreign Drones Tip the Balance in Ethiopia’s Civil War</a> NYT: Prime Minister Abiy Ahmed pulled off a stunning reversal in the year-old conflict with the help of armed drones supplied by the United Arab Emirates, Turkey and Iran. 
- <p class="updated_time"> 10:07 AM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/arts/design/parthenon-marbles-restitution.html">As Europe Returns Artifacts, Britain Stays Silent on the Parthenon Marbles</a> NYT: The Parthenon Marbles in London are likely the world’s most famous disputed museum items. Yet the British government says the sculptures’ fate isn’t its concern. 
  <p class="updated_time"> 09:39 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59728144?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Bruce Springsteen's back catalogue - who bought it?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 03:13 AM CT, Dec. 20 </p> 
@@ -206,6 +206,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:52 PM CT, Dec. 22 </p> 
+ <a href="https://www.npr.org/2021/12/22/1066956407/anthony-fauci-jesse-watters-fox-news-kill-shot-ambush-interviews">Fauci calls on Fox News to fire host who urged 'kill shot' in 'ambush' interviews</a> NPR: Fox News host Jesse Watters is facing blowback for using violent rhetoric to explain how citizen journalists should confront Dr. Anthony Fauci with questions in the hopes of going viral. 
+ <p class="updated_time"> 02:50 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/your-money/student-loan-pause.html">Biden Administration Extends Pause on Student Loan Payments</a> NYT: The Biden administration, under pressure from Democratic lawmakers, announced a three-month extension, citing the ongoing pandemic. 
  <p class="updated_time"> 02:14 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/durham-probe-cost-38-million-525985">Durham probe cost $3.8M over past year</a> Politico: The spending, detailed in documents released Wednesday by the Department of Justice, coincides with an uptick in activity from Durham and his in recent months. 
  <p class="updated_time"> 02:09 PM CT, Dec. 22 </p> 
@@ -222,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/22/fda-pfizer-covid-pill-525979">FDA authorizes Pfizer's Covid-19 pill</a> Politico: The pill, called Paxlovid, will provide the U.S. with another tool to help fight the virus as the more infectious Omicron variant surges. 
  <p class="updated_time"> 12:45 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/kim-potter-trial-daunte-wright-police-shooting-525976">Jurors at Kim Potter trial resume work Wednesday</a> Politico: If convicted of the most serious charge, the former Brooklyn Center officer would face a sentence of about seven years under state guidelines, though prosecutors have said they will seek more. 
- <p class="updated_time"> 12:38 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/your-money/student-loan-pause.html">Biden Administration Extends Pause on Student Loan Payments</a> NYT: The Biden administration, under pressure from Democratic lawmakers, announced a three-month extension, citing the ongoing pandemic. 
  <p class="updated_time"> 12:31 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/cruz-2024-republican-presidential-nomination-525973">‘The runner-up is almost always the next nominee’: Cruz says he’s well-positioned for 2024</a> Politico: Asked whether he would consider launching another White House bid, the senator responded: “Absolutely. In a heartbeat.” 
  <p class="updated_time"> 12:27 PM CT, Dec. 22 </p> 
@@ -334,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066493365/the-child-tax-credit-is-set-to-expire-if-congressional-action-isnt-taken">The Child Tax Credit is set to expire if congressional action isn't taken</a> NPR: Parents in Philadelphia, Pa., say they will miss the Child Tax Credit if it goes away — which it's set to do without congressional action. The program has helped ease the city's high poverty rates. 
  <p class="updated_time"> 03:28 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493358/biden-plans-to-expand-testing-and-vaccination-to-take-on-the-omicron-variant">Biden plans to expand testing and vaccination to take on the omicron variant</a> NPR: NPR's Ari Shapiro speaks with Andy Slavitt, former senior adviser to President Biden's pandemic response team, about the White House's latest efforts to combat the coronavirus. 
- <p class="updated_time"> 03:03 PM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066480824/justice-department-reverse-prisoners-early-release-pandemic">Prisoners sent to home confinement because of the pandemic might remain free</a> NPR: In a rare reversal, the Justice Department said the prison system has discretion to allow people released to home confinement during the pandemic to remain free. 
  <p class="updated_time"> 03:01 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/81-year-old-january-6-defendant-wickersham/index.html">81-year-old US Capitol rioter sentenced to three years of probation</a> CNN: An 81-year-old Army veteran was sentenced to three years of probation on Tuesday for illegally breaching the US Capitol on January 6. 
  <p class="updated_time"> 02:56 PM CT, Dec. 21 </p> 
