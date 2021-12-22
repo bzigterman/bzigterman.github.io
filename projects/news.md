@@ -47,16 +47,22 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59747689?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: European nations reinstate restrictions</a> BBC: As the Omicron variant spreads across the continent, countries tighten curbs to brace for another wave. 
  <p class="updated_time"> 03:07 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Is Russia preparing to invade Ukraine? And other questions</a> BBC: What you need to know about Russia's troop build-up along Ukraine's borders. 
+ <p class="updated_time"> 02:43 AM CT, Dec. 22 </p> 
+ <a href="https://www.wsj.com/articles/aging-germany-is-running-out-of-workers-putting-europes-largest-economy-at-risk-11640180607">Aging Germany Is Running Out of Workers, Putting Europe's Largest Economy at Risk</a> WSJ: Economists forecast that Germany’s workforce could peak as soon as 2023 and then shrink by up to five million people by the end of the decade, raising pressure on its pension system and pushing inflation higher for years to come. 
  <p class="updated_time"> 02:27 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/asia/myanmar-landslide-jade-mine.html">Dozens Feared Dead After Landslide at Jade Mine in Myanmar</a> NYT: An official said one person was killed after more than 70 were swept into a lake by mining waste in Hpakant, the center of the country’s secretive jade industry. 
  <p class="updated_time"> 02:27 AM CT, Dec. 22 </p> 
  <a href="https://www.wsj.com/articles/to-limit-omicron-singapore-freezes-ticket-sales-for-quarantine-free-travel-11640165362">South Africa Sees Milder Disease From Omicron</a> WSJ: Israel is set to offer a fourth dose of the Covid-19 vaccine to older people, while South African scientists reported further evidence that the Omicron variant causes significantly less serious disease than earlier strains. 
  <p class="updated_time"> 02:00 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/business/china-catl-electric-car-batteries.html">How China's CATL Became the Top Electric Car Battery Maker</a> NYT: Beijing gave CATL lavish subsidies, a captive market of buyers and soft regulatory treatment, helping it to control a crucial technology of the future. 
+ <p class="updated_time"> 02:00 AM CT, Dec. 22 </p> 
+ <a href="https://www.wsj.com/articles/chinese-pressure-fuels-an-unlikely-language-revival-in-taiwan-11640178003">Chinese Pressure Fuels an Unlikely Language Revival in Taiwan</a> WSJ: Local tongues gain popularity as more people on the self-ruled island, where Mandarin predominates, disavow their connection with China. 
  <p class="updated_time"> 01:34 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59723343?at_medium=RSS&at_campaign=KARANGA">Charles Lieber: Harvard professor guilty of hiding ties to Chinese programme</a> BBC: The US scientist reportedly received $1.5m from a Chinese university on top of his monthly pay. 
  <p class="updated_time"> 01:15 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59753026?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: BBC correspondent shows damage on Siargao Island</a> BBC: Take a look at the damage on Siargao Island after a powerful storm kills hundreds in the Philippines. 
+ <p class="updated_time"> 11:30 PM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/a-seafaring-nun-navigates-the-male-world-of-the-vatican-11640169003">A Seafaring Nun Navigates the Male World of the Vatican</a> WSJ: Pope Francis has appointed several women to Vatican leadership positions that were previously held only by men, gradually recalibrating the leadership of the institution. The policy is part of the pontiff’s modernizing agenda that called for a more active role for laypeople and their talents in the church. 
  <p class="updated_time"> 10:08 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/asia/india-water-modi.html">India's Modi Brings Tap Water to Millions as Supplies Shrink</a> NYT: The ambitious project to meet a dire need shows Prime Minister Narendra Modi’s strengths and helps explain his popularity despite a weakened economy. 
  <p class="updated_time"> 08:55 PM CT, Dec. 21 </p> 
@@ -105,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/asia/afghanistan-taliban-bagram-prison.html">At Bagram Air Base, a Notorious Prison Lies Empty</a> NYT: Taliban fighters now guard the prison at Bagram Air Base, which once held thousands of Taliban and Al Qaeda members who were set free in August. 
  <p class="updated_time"> 11:12 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/princess-haya-sheikh-mohammed-bin.html">British Court Orders Dubai Ruler to Pay £554 Million in Custody Settlement</a> NYT: The settlement, of about $734 million, resolves a lengthy dispute that began when Princess Haya Bint Al Hussein and her two children fled to London in 2019. 
- <p class="updated_time"> 11:09 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/putin-blames-u-s-for-ukraine-tensions-11640100640">U.S. Proposes January Talks with Russia</a> WSJ: Secretary of State Antony Blinken said the U.S. expects to hold talks with Russia next month to try to defuse tensions over the country’s military buildup near Ukraine as Russian President Vladimir Putin hardened his rhetoric toward the West. 
  <p class="updated_time"> 09:39 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/21/1062836171/editors-pick-11-hidden-gems-on-our-global-health-blog-in-2021">Editors' pick: 11 hidden gems on our global health blog in 2021</a> NPR: Want to hear the former president of Zambia sing about public health? Find out what to do if you lose a sheep in Senegal? Use solar power to iron garments? Give these stories a read. 
  <p class="updated_time"> 09:12 AM CT, Dec. 21 </p> 
@@ -115,14 +119,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-sees-russian-gas-pipeline-as-leverage-in-ukraine-crisis-but-needs-german-help-11640106024">U.S. Sees Russian Gas Pipeline as Leverage in Ukraine Crisis, but Needs German Help</a> WSJ: The Biden administration wants assurances that Berlin won’t let Nord Stream 2 start to operate during Moscow’s military pressure campaign. 
  <p class="updated_time"> 07:28 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/trump-supporters-booster-shots.html">Donald Trump Said He Got a Booster Shot and His Supporters Booed</a> NYT: At an event in Dallas, the former president revealed for the first time publicly that he had received the additional vaccine dose. 
- <p class="updated_time"> 07:25 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/turkey-rolls-out-economic-rescue-plan-reversing-lira-spiral-11640091727">Turkey Rolls Out Economic Rescue Plan, Reversing Lira's Spiral</a> WSJ: Turkey’s currency mounted a dramatic, partial reversal from a monthslong collapse after President Recep Tayyip Erdogan announced a rescue plan to encourage Turks to put their money back into the lira. 
  <p class="updated_time"> 06:57 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/russia-military-putin-kremlin.html">How the Kremlin Is Militarizing Russian Society</a> NYT: With a “youth army,” a cathedral honoring the military and state media promoting patriotism, the government is preparing Russians for the possibility of a fight. 
- <p class="updated_time"> 05:51 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/well-preserved-embryo-found-inside-fossilized-dinosaur-egg-11640102402">Well-Preserved Embryo Found Inside Fossilized Dinosaur Egg</a> WSJ: Scientists said the embryo inside the egg, which was laid between 72 million to 66 million years ago during the Late Cretaceous period, was that of a two-legged, feathered carnivore known as an oviraptorid. 
- <p class="updated_time"> 05:07 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/irans-top-diplomat-to-houthi-controlled-yemen-dies-of-covid-19-11640102821">Iran's Top Diplomat to Houthi-Controlled Yemen Dies of Covid-19</a> WSJ: Hassan Irloo, who was smuggled into Yemen in 2020 and named ambassador to parts of the country controlled by Houthis, has died of Covid-19, Iranian officials said. 
  <p class="updated_time"> 04:34 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59739563?at_medium=RSS&at_campaign=KARANGA"> 'Biggest divorce case in British legal history'</a> BBC: A UK court publishes a ruling in the divorce case of Sheikh Mohammed and his ex-wife Princess Haya. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
@@ -294,6 +292,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/us/politics/john-thune-senate-retirement.html">John Thune, a Likely Successor to Mitch McConnell, Weighs Retirement</a> NYT: Mr. Thune, the No. 2 Republican in the Senate, is considering giving up his South Dakota seat because of both family concerns and Donald Trump’s enduring hold on the G.O.P. 
  <p class="updated_time"> 04:12 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/phil-waldron-jan-6.html">A Retired Colonel’s Unlikely Role in Pushing Baseless Election Claims</a> NYT: Phil Waldron, who owns a bar in Texas, is a case study in how pro-Trump fringe players managed to get a hearing for conspiracy theories at the highest level during the presidential transition. 
+ <p class="updated_time"> 04:06 PM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/biden-reverses-prison-525884">Biden Justice Department reverses on returning federal convicts on home detention to prison</a> Politico: Prisoners who have been on home confinement during pandemic won't have to return to prison. 
  <p class="updated_time"> 03:56 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/robert-lemke-capitol-riot.html">Robert Lemke Sentenced to 3 Years Over Threats to Journalists and Politicians</a> NYT: The same day that Trump supporters stormed the Capitol, Robert Lemke told a congressman’s brother that he was with “armed members near your home,” prosecutors said. 
  <p class="updated_time"> 03:49 PM CT, Dec. 21 </p> 
@@ -450,8 +450,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/16/will-democrats-get-coal-instead-of-passed-bills-in-their-stockings-495491">Will Democrats get coal instead of passed bills in their stockings?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/16/manchinemas-christmas-present-to-dems-a-blunt-reality-check-495489"> Manchinema’s Christmas present to Dems: A blunt reality check</a> Politico Playbook: And Kevin McCarthy faces pressure to punish Liz Cheney and Adam Kinzinger. 
- <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/jan-6-gohmert-lawsuit-pence-524839">The Jan. 6 puzzle piece that's going largely ignored</a> Politico: Rep. Louie Gohmert  sued then-Vice President Mike Pence on Dec. 27. Donald Trump’s involvement in the case remains unclear. 
  <p class="updated_time"> 04:30 AM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/build-back-better-progressives-power-524783">‘Know when to hold and know when to fold’: Progressives accept limits of their power</a> Politico: House liberals dug in hard this year on social spending. Whatever Sen. Joe Manchin (D-W.Va.) does, they're ready to declare a win. 
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
