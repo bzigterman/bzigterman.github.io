@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:24 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
+ <p class="updated_time"> 08:11 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
  <p class="updated_time"> 07:55 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: England Cuts Isolation Period for People Who Test Positive</a> NYT: The new rule comes as rising case numbers lead to staff shortages in critical sectors, and as other European nations bring in new measures to curb widening outbreaks. Israel offers fourth vaccine doses. 
  <p class="updated_time"> 07:46 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/americas/chile-boric.html">Who Is Gabriel Boric, Chile's Next President?</a> NYT: Mr. Boric, 35, is now the most prominent face of a generation of Chileans who are calling for a break with the past. 
  <p class="updated_time"> 07:20 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59753043?at_medium=RSS&at_campaign=KARANGA">French outcry over academic in Grenoble Islamophobia row</a> BBC: Dozens of academics warn that freedom of expression is at risk after a German professor is suspended. 
- <p class="updated_time"> 07:03 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
  <p class="updated_time"> 06:57 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59756344?at_medium=RSS&at_campaign=KARANGA">Chelsea FC owner Roman Abramovich wins apology over Putin claim</a> BBC: HarperCollins apologises to Chelsea FC's owner over allegations he was ordered to buy the club. 
  <p class="updated_time"> 06:56 AM CT, Dec. 22 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59723344?at_medium=RSS&at_campaign=KARANGA">Myanmar: Up to 100 missing in jade mine landslide</a> BBC: Most of the victims are believed to be illegal jade miners prospecting for the semi-precious stone. 
  <p class="updated_time"> 04:43 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/asia/india-christians-attacked.html">India's Christians Attacked Under Anti-Conversion Laws</a> NYT: “They want to remove us from society,” a Christian farmer said of Hindu extremists. Rising attacks on Christians are part of a broader shift in India, in which minorities feel less safe. 
- <p class="updated_time"> 04:36 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
  <p class="updated_time"> 04:11 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59750154?at_medium=RSS&at_campaign=KARANGA">Rogel Aguilera-Mederos: Colorado lorry driver's sentence sparks uproar</a> BBC: The 110-year prison sentence for the Colorado lorry driver sparks calls for leniency and reform. 
  <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
