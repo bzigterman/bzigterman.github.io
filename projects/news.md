@@ -47,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-israel-seek-unity-on-containing-irans-nuclear-program-11640189576">U.S., Israel Seek Unity on Containing Iran's Nuclear Program</a> WSJ: President Biden’s national security adviser met with Israeli Prime Minister Naftali Bennett as the two allies sought to present a more united front on Iran’s nuclear program after divisions emerged between the U.S. and Israel. 
  <p class="updated_time"> 09:28 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/middleeast/israel-christmas-covid.html">Covid Spoils Another Christmas in the Holy Land</a> NYT: Israel’s strict border controls have largely barred foreign tourists from entry, but the traditional Jerusalem Santa is managing to bring some local cheer. 
- <p class="updated_time"> 09:20 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/nyregion/new-york-health-commissioner.html">N.Y.C. Health Commissioner to Stay On Until March, Adams Says</a> NYT: The commissioner, Dr. Dave A. Chokshi, will continue to run the health department after Eric Adams becomes mayor on Jan. 1, as the Omicron variant surges. Dr. Ashwin Vasan will succeed Dr. Chokshi in mid-March. 
  <p class="updated_time"> 09:01 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1064546215/pinata-mexico-posadas-celebration">In Mexico, piñatas are a Christmas essential full of history, art and treats</a> NPR: Piñatas are a common element in parties across different countries, but especially in Mexico around Christmas time, and the story of their origin combines cultures, traditions and religions. 
  <p class="updated_time"> 09:00 AM CT, Dec. 22 </p> 
@@ -189,6 +187,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/20/1065865472/omicron-holiday-travel-gatherings-restrictions-world">As omicron surges, nations announce rules on gatherings and travel ahead of holidays</a> NPR: European nations have implemented a wave of new restrictions as case numbers rise. And Israel has added the U.S. and Canada to its "red list" of countries that citizens are barred from traveling to. 
  <p class="updated_time"> 11:17 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/africa/drones-ethiopia-war-turkey-emirates.html">Foreign Drones Tip the Balance in Ethiopia’s Civil War</a> NYT: Prime Minister Abiy Ahmed pulled off a stunning reversal in the year-old conflict with the help of armed drones supplied by the United Arab Emirates, Turkey and Iran. 
+ <p class="updated_time"> 10:07 AM CT, Dec. 20 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/arts/design/parthenon-marbles-restitution.html">As Europe Returns Artifacts, Britain Stays Silent on the Parthenon Marbles</a> NYT: The Parthenon Marbles in London are likely the world’s most famous disputed museum items. Yet the British government says the sculptures’ fate isn’t its concern. 
  <p class="updated_time"> 09:39 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59728144?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Bruce Springsteen's back catalogue - who bought it?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 03:13 AM CT, Dec. 20 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:07 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/us/politics/jim-jordan-jan-6.html">Jan. 6 Panel Seeks Interview With Jim Jordan, a Close Trump Ally</a> NYT: The House committee said investigators wanted to ask Mr. Jordan, a Republican congressman from Ohio, about his conversations with former President Donald J. Trump. 
  <p class="updated_time"> 02:52 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066956407/anthony-fauci-jesse-watters-fox-news-kill-shot-ambush-interviews">Fauci calls on Fox News to fire host who urged 'kill shot' in 'ambush' interviews</a> NPR: Fox News host Jesse Watters is facing blowback for using violent rhetoric to explain how citizen journalists should confront Dr. Anthony Fauci with questions in the hopes of going viral. 
  <p class="updated_time"> 02:50 PM CT, Dec. 22 </p> 
@@ -294,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/21/ghislaine-maxwell-jury-epstein-525962">Deliberations in Ghislaine Maxwell trial continue</a> Politico: The jury is deciding whether Maxwell assisted Jeffrey Epstein in the sexual abuse of teen girls from 1994 to 2004. 
  <p class="updated_time"> 08:51 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/manchin-child-tax-credit-biden.html">The Policy Debate at the Heart of the Biden-Manchin Standoff</a> NYT: President Biden and Senator Joe Manchin III have many differences over the proposed domestic policy bill, but one issue stands out: the child tax credit. 
- <p class="updated_time"> 08:28 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/omicron-covid-biden.html">Biden Bolsters Virus Fight, Offering Aid to Hospitals and Free Tests</a> NYT: The president also sought to address the nation’s battered psyche, telling anxious Americans that “we should all be concerned about Omicron, but not panicked.” 
  <p class="updated_time"> 07:40 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/michael-flynn-lawsuit-january-6-committee/index.html">Michael Flynn sues January 6 committee to block phone records subpoena</a> CNN: Michael Flynn, the embattled former national security adviser to then-President Donald Trump, is suing to block a US House subpoena for his phone records. 
  <p class="updated_time"> 07:40 PM CT, Dec. 21 </p> 
