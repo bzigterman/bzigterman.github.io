@@ -346,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066169749/morning-news-brief">News brief: Biden speech, COVID testing critique, Pentagon extremism rules</a> NPR: President Biden addresses the Omicron variant in a speech Tuesday. Some health officials say Biden has fallen short on COVID testing. The Pentagon is updating its policies on extremism in its ranks. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1065337316/south-portland-mayor-somali-american">Deqa Dhalac is the first Somali-American mayor in the United States</a> NPR: After fleeing Somalia some 30 years ago, Dhalac became this country's first Somali-American mayor earlier this month, elected in a city that's 90% white. 
- <p class="updated_time"> 12:15 AM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/california-redistricting-midterms-525815">California’s new congressional map boosts Democrats</a> Politico: The final maps were approved late Monday by the state’s independent redistricting commission. 
  <p class="updated_time"> 11:01 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/joe-manchin-joe-biden-relationship/index.html">Biden's relationship with Manchin hits a low point, even as they clear the air</a> CNN: After months of careful cultivation -- and even a nickname -- the most important relationship in Washington is narrowly weathering its stormiest moment to date. 
  <p class="updated_time"> 09:16 PM CT, Dec. 20 </p> 
