@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:46 PM CT, Dec. 21 </p> 
+ <p class="updated_time"> 06:11 PM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59690317?at_medium=RSS&at_campaign=KARANGA">The Maasai TikTokers wowing Bollywood fans</a> BBC: Tanzanian siblings Kili and Neema Paul lip sync perfectly in Hindi, accruing millions of followers. 
+ <p class="updated_time"> 06:08 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans. Military medical personnel are being prepared to help overwhelmed U.S. hospitals. Israel will administer a fourth round of boosters. 
+ <p class="updated_time"> 06:07 PM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59723756?at_medium=RSS&at_campaign=KARANGA">Kerala school uniform: Why some Muslim groups are protesting</a> BBC: Muslim groups in India's Kerala state protest after a government school allows girls to wear trousers. 
+ <p class="updated_time"> 06:02 PM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59731003?at_medium=RSS&at_campaign=KARANGA">Saving Kyrgyzstan reindeer from brink of extinction</a> BBC: Kyrgyzstan used to be home to thousands of reindeer but now there are as few as 400 left. 
  <p class="updated_time"> 05:45 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/americas/chile-boric.html">Who Is Gabriel Boric, Chile's Next President?</a> NYT: Mr. Boric, 35, is now the most prominent face of a generation of Chileans who are calling for a break with the past. 
  <p class="updated_time"> 05:45 PM CT, Dec. 21 </p> 
@@ -181,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: More than 200 people are now believed to have been killed by the storm. 
  <p class="updated_time"> 11:41 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
- <p class="updated_time"> 10:36 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59722801?at_medium=RSS&at_campaign=KARANGA">Chile election: Laser shone at Gabriel Boric during victory speech</a> BBC: The bouncing green light did not seem to faze Gabriel Boric as he spoke to supporters in Santiago. 
  <p class="updated_time"> 06:59 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59667645?at_medium=RSS&at_campaign=KARANGA">The world's first octopus farm - should it go ahead?</a> BBC: The world’s first commercial octopus farm is closer to becoming reality - but scientists are up in arms. 
  <p class="updated_time"> 06:16 PM CT, Dec. 19 </p> 
@@ -204,14 +208,26 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:34 PM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/kim-potter-daunte-wright-jury-525941">Jury in Kim Potter trial ends another day without verdict</a> Politico: The jurors asked the judge about not being able to reach a verdict. 
+ <p class="updated_time"> 06:51 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/omicron-covid-biden.html">‘We’re Still in It’: Biden Urges Calm as He Steps Up Omicron Fight</a> NYT: The president announced new plans including sending military medical professionals to overburdened hospitals and distributing 500 million free tests. 
+ <p class="updated_time"> 06:37 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/manchin-child-tax-credit-biden.html">The Policy Debate at the Heart of the Biden-Manchin Standoff</a> NYT: President Biden and Senator Joe Manchin III have many differences over the proposed domestic policy bill, but one issue stands out: the child tax credit. 
+ <p class="updated_time"> 06:27 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/prison-covid-home-confinement.html">Some Inmates Can Stay Confined at Home After Covid Emergency, Justice Dept. Says</a> NYT: The move reverses a Trump-era decision that would have sent many of the thousands of inmates released to home confinement during the pandemic back to prison. 
+ <p class="updated_time"> 06:19 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/scott-perry-january-6-committee.html">Flynn Sues Jan. 6 Committee as House Republican Rebuffs Investigators</a> NYT: The panel investigating the Capitol attack faced stonewalling from allies of former President Donald J. Trump on two new fronts. 
+ <p class="updated_time"> 06:13 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/health/covid-biden-scientists.html">Omicron Will Surge Despite Biden’s New Plan, Scientists Say</a> NYT: Public health experts fear that the highly contagious variant cannot be stopped without harsh measures that the public will no longer tolerate. 
+ <p class="updated_time"> 06:07 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/mcconnell-manchin-republicans.html">McConnell to Manchin: We’d Love to Have You, Joe</a> NYT: Senator Mitch McConnell, the Republican leader, says Democratic outrage over Senator Joe Manchin’s opposition to sweeping policy bills shows he is not welcome in his party any longer. 
  <p class="updated_time"> 06:06 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/covid-olympics-nhl-hockey-china-525936">NHL reportedly set to withdraw from Olympics after Covid surge</a> Politico: The hockey league is afraid it won’t be able to complete its schedule if it takes a break for the Beijing Olympics. 
  <p class="updated_time"> 05:41 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/biden-trump-covid-vaccine-booster/index.html">Biden offers rare praise of Trump during Covid speech</a> CNN: President Joe Biden on Tuesday gave credit to the Trump administration for the development of the Covid-19 vaccine and praised his predecessor, Donald Trump, for getting a booster shot -- marking a rare moment where the two men have found common ground since Inauguration Day. 
  <p class="updated_time"> 05:27 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/climate/solar-power-federal-land-california.html">Biden Administration Approves Two California Solar Projects</a> NYT: The solar farms, planned for the California desert, would generate enough electricity to power about 132,000 homes, the Interior Department said. 
- <p class="updated_time"> 05:15 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/ted-cruz-biden-ukraine.html">Deal With Ted Cruz Sets Stage for Russia Pipeline Fight in Early 2022</a> NYT: The Texas Republican leveraged his obstruction of diplomatic nominees into a Senate vote that could complicate President Biden’s efforts to defend Ukraine. 
  <p class="updated_time"> 05:14 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/joe-manchin-biden-agenda.html">Manchin in the Middle: Is He a ‘No,’ or a ‘Not Yet’?</a> NYT: Democrats have been left hoping that the West Virginian, who fashions himself as an old-school centrist dealmaker, will eventually budge on President Biden’s agenda. 
  <p class="updated_time"> 05:13 PM CT, Dec. 21 </p> 
@@ -222,16 +238,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/21/politics/michael-flynn-lawsuit-january-6-committee/index.html">Michael Flynn sues January 6 committee to block phone records subpoena</a> CNN: Michael Flynn, the embattled former national security adviser to then-President Donald Trump, is suing to block a US House subpoena for his phone records. 
  <p class="updated_time"> 04:59 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/first-puppy-bidens-white-house/index.html">Bidens add to their family with new first puppy</a> CNN: President Joe Biden and first lady Jill Biden have added to their pet family, the first lady's spokesperson tells CNN. 
- <p class="updated_time"> 04:54 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/prison-covid-home-confinement.html">Justice Dept. Says Some Inmates Can Stay Confined at Home</a> NYT: The move reverses a Trump-era decision that would have sent nearly all of the thousands of inmates released to home confinement during the pandemic back to prison. 
  <p class="updated_time"> 04:51 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/cyber-attack-commission.html">Designed to Prepare for Cyberattacks, a Panel Wraps Up Its Work</a> NYT: Some of the Cyberspace Solarium Commission’s work remains unfinished as lawmakers wrestle with how to oversee security of cloud computing providers and other issues. 
  <p class="updated_time"> 04:43 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/inmates-pandemic/index.html">Thousands of inmates released because of pandemic will be allowed to remain on home confinement, Justice Department says</a> CNN: Thousands of federal inmates who were released from prison to complete their sentence from home as a preventative measure to combat the spread of Covid-19, will be allowed to remain on home confinement, the Justice Department announced on Tuesday. 
  <p class="updated_time"> 04:34 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/biden-build-back-better-manchin/index.html">Biden insists he and Manchin will 'get something done' after Build Back Better setback</a> CNN: President Joe Biden on Tuesday insisted that he and Democratic Sen. Joe Manchin will "get something done" on the Build Back Better Act after Manchin defied his party by torpedoing the key piece of Biden's domestic agenda. 
- <p class="updated_time"> 04:32 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/scott-perry-january-6-committee.html">Republican House Member Refuses to Meet With Jan. 6 Committee</a> NYT: Representative Scott Perry of Pennsylvania, who worked with Donald Trump in an effort to overturn the election results last year, called the panel illegitimate. 
  <p class="updated_time"> 04:29 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493427/blinken-talked-about-china-and-the-iran-nuclear-deal-at-end-of-year-news-confere">Blinken talked about China and the Iran nuclear deal at end of year news conference</a> NPR: Secretary of State Antony Blinken gave a news conference wrapping up his year, addressing questions about America's credibility after the pullout from Afghanistan. 
  <p class="updated_time"> 04:29 PM CT, Dec. 21 </p> 
@@ -276,16 +288,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/21/wall-street-manchin-covid-growth-expectations-525845">Dems' 2022 prospects hit with one-two blow on economy</a> Politico: While the surge in Covid cases threatens to undercut growth, much of the effect will depend on how policymakers respond. 
  <p class="updated_time"> 12:20 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/fauci-covid-isolation-period-omicron-cnntv/index.html">Fauci says reducing the recommended Covid isolation period for the fully vaccinated is being considered</a> CNN: Dr. Anthony Fauci said Tuesday that the US Centers for Disease Control and Prevention is considering loosening its isolation length recommendations for fully vaccinated individuals -- particularly health care workers -- who test positive for Covid-19 but don't have symptoms. 
- <p class="updated_time"> 11:48 AM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/kim-potter-trial-daunte-wright-police-shooting-525841">Kim Potter trial jury in Daunte Wright's death resumes deliberations</a> Politico: The suburban Minneapolis police officer is charged with first- and second-degree manslaughter. 
  <p class="updated_time"> 11:12 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/videos/politics/2021/12/21/the-11-democrats-who-could-replace-joe-biden-2024-cillizza-the-point.cnn">The 11 Democrats who could replace Joe Biden in 2024</a> CNN: President Joe Biden's age and recent struggles have caused a lot of speculation into whether he's going to run for reelection in 2024. In the latest episode of The Point, CNN's Chris Cillizza digs into the most likely replacements on the Democratic presidential ticket. 
  <p class="updated_time"> 11:11 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/united-states-population-growth-2021-525832">U.S. population growth in 2021 slowest since nation's founding</a> Politico: The population grew just 0.1 percent in 2021, likely because of the Covid-19 pandemic, according to the U.S. Census Bureau. 
  <p class="updated_time"> 11:01 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/business/economy/mary-daly-federal-reserve-inflation.html">Lingering Virus, Lasting Inflation: A Fed Official Explains Her Pivot</a> NYT: Mary Daly, president of the Federal Reserve Bank of San Francisco, wanted to withdraw economic help slowly. Now, she might support a rate increase as soon as March. 
- <p class="updated_time"> 10:59 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/omicron-covid-biden.html">To Fight Omicron, Biden Plans Aid From Military and 500 Million Tests</a> NYT: The president is set to unveil his initiatives, which also include creating new federal testing sites and deploying federal vaccinators, in a speech on Tuesday. 
  <p class="updated_time"> 10:55 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/democrats-climate-ambitions-manchin-525835">Democrats not yet ready to trim climate ambitions despite Manchin blow</a> Politico: For now, Democrats are committed to reconfiguring a sweeping climate package centered on clean energy tax incentives. 
  <p class="updated_time"> 10:06 AM CT, Dec. 21 </p> 
@@ -340,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/us/politics/biden-covid-exposure.html">Biden Was in Close Contact With Official Who Tested Positive for Covid</a> NYT: Administration officials acknowledge that as the highly contagious Omicron variant has surged, a cluster of cases have been reported across the administration. 
  <p class="updated_time"> 08:06 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/lucille-roybal-allard-not-running-reelection/index.html">California Democrat announces she will not seek reelection to Congress</a> CNN: Democratic Rep. Lucille Roybal-Allard of California announced on Monday that she would not run for reelection next year, becoming the latest House Democrat to decide not to seek another term. 
- <p class="updated_time"> 07:50 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/manchin-climate-change-coal.html">Behind Manchin’s Opposition, a Long History of Fighting Climate Measures</a> NYT: Senator Joe Manchin III noted climate policy when he said he would vote against the Build Back Better Act. In his life and career, West Virginia coal has loomed large. 
  <p class="updated_time"> 07:46 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/biden-puppy-commander.html">‘Hey, Pal’: Biden Welcomes a New Puppy to the White House</a> NYT: The 3-month-old German shepherd with very large, pointy ears is named Commander. 
  <p class="updated_time"> 07:23 PM CT, Dec. 20 </p> 
@@ -356,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/us/politics/jan-6-committee-trump-criminal-referral.html">Jan. 6 Committee Weighs Possibility of Criminal Referrals</a> NYT: The House panel is examining whether there is enough evidence to recommend that the Justice Department pursue cases against Donald J. Trump and others. 
  <p class="updated_time"> 05:03 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/border-wall/index.html">DHS to close some gaps in border wall in ongoing effort to clean up Trump-era projects</a> CNN: The Department of Homeland Security plans to close small gaps in the border wall, make adjustments to prevent flooding and complete prior construction of access roads, the department announced Monday. 
- <p class="updated_time"> 04:41 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/pentagon-military-extremism-rules.html">Pentagon Updates Its Rules on Extremism in the Military</a> NYT: “Liking” white nationalist and extremist content on social media could result in disciplinary action, Defense Department officials said. 
  <p class="updated_time"> 04:36 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/biden-and-manchin-speak-525788">Biden and Manchin speak</a> Politico: The two connected and there is a sense that talks around Build Back Better aren't done yet. 
  <p class="updated_time"> 02:40 PM CT, Dec. 20 </p> 
