@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:05 PM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59723344?at_medium=RSS&at_campaign=KARANGA">Myanmar: At least 70 missing in jade mine landslide</a> BBC: Most of the victims are believed to be illegal jade miners prospecting for the semi-precious stone. 
+ <p class="updated_time"> 11:41 PM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59723344?at_medium=RSS&at_campaign=KARANGA">Myanmar: At least one dead, 70 missing in jade mine landslide</a> BBC: Most of the victims are believed to be illegal jade miners prospecting for the semi-precious stone. 
  <p class="updated_time"> 10:55 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59723343?at_medium=RSS&at_campaign=KARANGA">Charles Lieber: Harvard professor found guilty of hiding ties to Chinese program</a> BBC: The Harvard scientist reportedly received $1.5m from a Chinese university, on top of his monthly pay. 
  <p class="updated_time"> 10:45 PM CT, Dec. 21 </p> 
