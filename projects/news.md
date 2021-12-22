@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:46 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/americas/chile-boric.html">Who Is Gabriel Boric, Chile's Next President?</a> NYT: Mr. Boric, 35, is now the most prominent face of a generation of Chileans who are calling for a break with the past. 
  <p class="updated_time"> 07:23 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: England Cuts Isolation Period for People Who Test Positive</a> NYT: The new rule comes as rising case numbers lead to staff shortages in critical sectors, and as other European nations bring in new measures to curb widening outbreaks. Israel offers fourth vaccine doses. 
  <p class="updated_time"> 07:20 AM CT, Dec. 22 </p> 
@@ -67,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59723756?at_medium=RSS&at_campaign=KARANGA">Kerala school uniform: Why some Muslim groups are protesting</a> BBC: Muslim groups in India's Kerala state protest after a government school allows girls to wear trousers. 
  <p class="updated_time"> 06:02 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59731003?at_medium=RSS&at_campaign=KARANGA">Saving Kyrgyzstan reindeer from brink of extinction</a> BBC: Kyrgyzstan used to be home to thousands of reindeer but now there are as few as 400 left. 
- <p class="updated_time"> 05:45 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/americas/chile-boric.html">Who Is Gabriel Boric, Chile's Next President?</a> NYT: Mr. Boric, 35, is now the most prominent face of a generation of Chileans who are calling for a break with the past. 
  <p class="updated_time"> 05:36 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59748281?at_medium=RSS&at_campaign=KARANGA">Perfectly preserved dinosaur embryo found in China</a> BBC: Researchers say the fossil is at least 66 million years old and was about to hatch just like a chicken. 
  <p class="updated_time"> 05:15 PM CT, Dec. 21 </p> 
