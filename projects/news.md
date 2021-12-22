@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:14 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/vaccine-booster-israel-covid.html">Israel to Administer a Fourth Round of Covid Vaccines</a> NYT: Medical teams will begin to give fourth doses to those over 60 as well as to medical personnel. 
  <p class="updated_time"> 12:55 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59747689?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: European nations reinstate restrictions</a> BBC: As the Omicron variant spreads across the continent, countries tighten curbs to brace for another wave. 
  <p class="updated_time"> 12:14 AM CT, Dec. 22 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59744569?at_medium=RSS&at_campaign=KARANGA">Gaming disorder: Inside the clinic helping addicted teens</a> BBC: BBC News has exclusive access to the UK's only facility for video game addiction. 
  <p class="updated_time"> 08:38 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59750613?at_medium=RSS&at_campaign=KARANGA">McDonald's faces a French fries shortage in Japan</a> BBC: The firm's potato deliveries from North America are being delayed by supply chain disruptions. 
- <p class="updated_time"> 07:50 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/vaccine-booster-israel-covid.html">Israel to Administer a Fourth Round of Covid Vaccines</a> NYT: Medical teams will begin to give fourth doses to those over 60 as well as to medical personnel. 
  <p class="updated_time"> 07:37 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59749967?at_medium=RSS&at_campaign=KARANGA">Covid-19: Israel could become the first country to give four vaccine doses</a> BBC: A fourth booster would be offered to over-60s and health workers as Israel prepares for Omicron wave. 
  <p class="updated_time"> 06:11 PM CT, Dec. 21 </p> 
@@ -171,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/world/africa/drones-ethiopia-war-turkey-emirates.html">Foreign Drones Tip the Balance in Ethiopia’s Civil War</a> NYT: Prime Minister Abiy Ahmed pulled off a stunning reversal in the year-old conflict with the help of armed drones supplied by the United Arab Emirates, Turkey and Iran. 
  <p class="updated_time"> 11:15 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/americas/lucia-hiriart-dead.html">Lucía Hiriart, Powerful Wife of Chile’s Dictator, Dies at 98</a> NYT: Her husband, Augusto Pinochet, acknowledged that she had pushed him to participate in the 1973 coup that brought him to power in 1973. 
- <p class="updated_time"> 10:35 AM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html">Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President</a> NYT: The millennial will play an important role in helping shape a new legal framework for a nation that has been roiled by social upheaval. 
  <p class="updated_time"> 10:21 AM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1064510598/afghanistan-music-institute-taliban-doha-portugal">Afghan music students escaped the Taliban and are beginning their new lives abroad</a> NPR: Students and faculty with the Afghanistan National Institute of Music flew last week from Doha to Lisbon, where they will start their new lives and reconstitute their celebrated academy in exile. 
  <p class="updated_time"> 10:07 AM CT, Dec. 20 </p> 
