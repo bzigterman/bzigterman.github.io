@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:58 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Cases Appear Less Severe, 2 U.K. Studies Say</a> NYT: Experts warned that hospitals could still be flooded, because the variant is so transmissible. The F.D.A. authorized Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
+ <p class="updated_time"> 04:58 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/us/california-booster-mandate-feb-1.html">California Requires Health Workers to Get Boosters by Feb. 1</a> NYT: Gov. Gavin Newsom said more than half of the sequenced cases in the state have been identified as the Omicron variant, but the real number is probably higher. 
  <p class="updated_time"> 04:48 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
- <p class="updated_time"> 04:45 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Cases Appear Less Severe, 2 U.K. Studies Say</a> NYT: Experts warned that hospitals could still be flooded, because the variant is so transmissible. The F.D.A. authorized Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
- <p class="updated_time"> 04:15 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/us/california-booster-mandate-feb-1.html">California Requires Health Workers to Get Boosters by Feb. 1</a> NYT: Gov. Gavin Newsom said more than half of the sequenced cases in the state have been identified as the Omicron variant, but the real number is probably higher. 
  <p class="updated_time"> 04:07 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59757299?at_medium=RSS&at_campaign=KARANGA">Turkey arrests US citizen over alleged passport handover</a> BBC: Police say the US man gave the document to a Syrian trying to travel to Germany from Istanbul airport. 
  <p class="updated_time"> 04:03 PM CT, Dec. 22 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:50 PM CT, Dec. 22 </p> 
+ <a href="https://www.politico.com/news/2021/12/22/de-blasio-tells-biden-new-york-needs-help-now-526007">De Blasio tells Biden: New York needs help now</a> Politico: The mayor said the White House should invoke the Defense Production Act. 
  <p class="updated_time"> 05:00 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/trudeau-canadians-hunker-down-omicron-525998">Trudeau tells Canadians to ‘hunker down’ as Biden urges calm over Omicron</a> Politico: Canadians hunt for boosters and rapid tests amid Covid surge that is disrupting holiday plans. 
  <p class="updated_time"> 04:25 PM CT, Dec. 22 </p> 
