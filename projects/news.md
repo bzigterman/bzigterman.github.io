@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:30 PM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59747689?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: European nations reinstate restrictions</a> BBC: As the Omicron variant spreads across the continent, countries tighten curbs to brace for another wave. 
  <p class="updated_time"> 08:56 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Scientists Warn Omicron Will Surge and Say Biden’s Plan Is Insufficient</a> NYT: President Biden plans to provide hundreds of millions of tests free to Americans. Israel will administer a fourth round of boosters. 
+ <p class="updated_time"> 08:55 PM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59744569?at_medium=RSS&at_campaign=KARANGA">Gaming disorder: Inside the clinic helping addicted teens</a> BBC: BBC News has exclusive access to the UK's only facility for video game addiction. 
  <p class="updated_time"> 08:38 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59750613?at_medium=RSS&at_campaign=KARANGA">McDonald's faces a French fries shortage in Japan</a> BBC: The firm's potato deliveries from North America are being delayed due to supply chain disruptions. 
  <p class="updated_time"> 07:50 PM CT, Dec. 21 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066493393/a-water-diversion-project-that-china-is-funding-in-thailand-is-raising-eyebrows">A water diversion project that China is funding in Thailand is raising eyebrows</a> NPR: Plans for a new water diversion project in Thailand are alarming environmentalists. And a Chinese state-owned firm offered to finance it, raising flags with those who fear China's growing influence. 
  <p class="updated_time"> 03:49 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493372/the-mysterious-death-of-a-human-rights-lawyer-during-political-turmoil-in-ethiop">The mysterious death of a human rights lawyer during political turmoil in Ethiopia</a> NPR: Ethiopia prime minister Abiy Ahmed is waging war against Tigrayans in the north and stamping out dissent among ethnic Oromos in the south. 
- <p class="updated_time"> 03:45 PM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59747689?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Variant will push Europe hospitals towards brink, says WHO</a> BBC: The UN health body's Europe head says another storm is coming, as countries brace for a surge in cases. 
  <p class="updated_time"> 03:11 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/africa/mauritius-oil-spill.html">2 Ship Officers Plead Guilty to Light Charges in Mauritius Oil Spill</a> NYT: The leak was an environmental calamity for the Indian Ocean nation, which relies on its beaches and lagoons for tourism and fishing. 
  <p class="updated_time"> 03:10 PM CT, Dec. 21 </p> 
@@ -208,14 +210,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:36 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/biden-build-back-better-manchin/index.html">Biden insists he and Manchin will 'get something done' after Build Back Better setback</a> CNN: President Joe Biden on Tuesday insisted that he and Democratic Sen. Joe Manchin will "get something done" on the Build Back Better Act after Manchin defied his party by torpedoing the key piece of Biden's domestic agenda. 
  <p class="updated_time"> 09:18 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/ghislaine-maxwell-jury-epstein-525962">Deliberations in Ghislaine Maxwell trial continue</a> Politico: The jury is deciding whether Maxwell assisted Jeffrey Epstein in the sexual abuse of teen girls from 1994 to 2004. 
  <p class="updated_time"> 09:01 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/biden-trump-covid-vaccine-booster/index.html">Biden offers rare praise of Trump during Covid speech</a> CNN: President Joe Biden on Tuesday gave credit to the Trump administration for the development of the Covid-19 vaccine and praised his predecessor, Donald Trump, for getting a booster shot -- marking a rare moment where the two men have found common ground since Inauguration Day. 
  <p class="updated_time"> 08:51 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/manchin-child-tax-credit-biden.html">The Policy Debate at the Heart of the Biden-Manchin Standoff</a> NYT: President Biden and Senator Joe Manchin III have many differences over the proposed domestic policy bill, but one issue stands out: the child tax credit. 
- <p class="updated_time"> 08:34 PM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/biden-build-back-better-manchin/index.html">Biden insists he and Manchin will 'get something done' after Build Back Better setback</a> CNN: President Joe Biden on Tuesday insisted that he and Democratic Sen. Joe Manchin will "get something done" on the Build Back Better Act after Manchin defied his party by torpedoing the key piece of Biden's domestic agenda. 
  <p class="updated_time"> 08:28 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/omicron-covid-biden.html">Biden Bolsters Virus Fight, Offering Aid to Hospitals and Free Tests</a> NYT: The president also sought to address the nation’s battered psyche, telling anxious Americans that “we should all be concerned about Omicron, but not panicked.” 
  <p class="updated_time"> 07:44 PM CT, Dec. 21 </p> 
@@ -344,6 +346,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066169749/morning-news-brief">News brief: Biden speech, COVID testing critique, Pentagon extremism rules</a> NPR: President Biden addresses the Omicron variant in a speech Tuesday. Some health officials say Biden has fallen short on COVID testing. The Pentagon is updating its policies on extremism in its ranks. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1065337316/south-portland-mayor-somali-american">Deqa Dhalac is the first Somali-American mayor in the United States</a> NPR: After fleeing Somalia some 30 years ago, Dhalac became this country's first Somali-American mayor earlier this month, elected in a city that's 90% white. 
+ <p class="updated_time"> 12:15 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/california-redistricting-midterms-525815">California’s new congressional map boosts Democrats</a> Politico: The final maps were approved late Monday by the state’s independent redistricting commission. 
  <p class="updated_time"> 11:01 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/joe-manchin-joe-biden-relationship/index.html">Biden's relationship with Manchin hits a low point, even as they clear the air</a> CNN: After months of careful cultivation -- and even a nickname -- the most important relationship in Washington is narrowly weathering its stormiest moment to date. 
  <p class="updated_time"> 09:16 PM CT, Dec. 20 </p> 
