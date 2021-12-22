@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:46 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: England Cuts Isolation Period for People Who Test Positive</a> NYT: The new rule comes as rising case numbers lead to staff shortages in critical sectors, and as other European nations bring in new measures to curb widening outbreaks. Israel offers fourth vaccine doses. 
+ <p class="updated_time"> 11:25 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: F.D.A. Clears Pfizer’s Covid Pills for High-Risk Patients 12 and Up</a> NYT: Britain surpasses 100,000 new cases in a single day for the first time. Israel offers fourth vaccine doses. 
  <p class="updated_time"> 10:46 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
  <p class="updated_time"> 10:33 AM CT, Dec. 22 </p> 
@@ -204,16 +204,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:15 AM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/supply-chain-biden-meeting/index.html">Biden touts progress on alleviating supply chain problems: 'Shelves are not empty'</a> CNN: President Joe Biden on Wednesday will get a progress report from members of his Cabinet and private sector CEOs on efforts to alleviate supply chain issues, lower consumer prices and keep shelves stocked amid the holiday season. 
+ <p class="updated_time"> 11:02 AM CT, Dec. 22 </p> 
+ <a href="https://www.npr.org/sections/codeswitch/2021/12/22/1064823191/talking-race-pop-culture-and-youtube-with-khadija-mbowe">Talking race, pop culture and YouTube with Khadija Mbowe</a> NPR: The singer-turned-YouTuber is using their platform to take on everything from race- and queer-baiting in Bridgerton to the scrutiny of Black women's bodies to the history of dog-whistle politics. 
  <p class="updated_time"> 10:52 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">U.S. Eases Pressure of Sanctions on Afghanistan</a> NYT: The Treasury Department issued new “general licenses” to help aid flow as a humanitarian crisis deepens. 
  <p class="updated_time"> 10:26 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/january-6-committee-interview-lawsuit/index.html">House January 6 rally staffers detail committee investigation questions and targets in lawsuit</a> CNN: Four people who staffed the pro-Trump rally at the Ellipse that preceded the deadly Capitol attack on January 6 are suing to block House investigators from obtaining their phone records. 
- <p class="updated_time"> 10:04 AM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/supply-chain-biden-meeting/index.html">Biden touts progress on alleviating supply chain problems: 'Shelves are not empty'</a> CNN: President Joe Biden on Wednesday will get a progress report from members of his Cabinet and private sector CEOs on efforts to alleviate supply chain issues, lower consumer prices and keep shelves stocked amid the holiday season. 
  <p class="updated_time"> 10:00 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/afghanistan-teachers-humanitarian-organizations/index.html">Biden administration moves to allow Afghan teachers' salaries to be paid by aid organizations</a> CNN: The Biden administration is lifting some restrictions on the types of aid that humanitarian organizations can provide to Afghanistan which will enable support for educational programs, including paying teachers' salaries, the Treasury Department and two senior administration officials announced on Wednesday. 
  <p class="updated_time"> 09:21 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/arts/hillary-clinton-masterclass.html">How Hillary Clinton's MasterClass Shows a Very 2021 Way to Be</a> NYT: Hillary Clinton delivered an unused election speech. Jennifer Aniston cried at Central Perk. It was a year for watching celebrities reinhabit their past selves. 
+ <p class="updated_time"> 08:21 AM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/student-loan-pause-biden/index.html">Biden is considering extending the student loan payment pause</a> CNN: The Biden administration is considering extending the pause on federal student loan payments, which were set to restart on February 1. 
  <p class="updated_time"> 07:01 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/22/dems-family-meeting-with-manchin-495537">Dems' family meeting with Manchin</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Dec. 22 </p> 
@@ -368,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/21/democrats-riled-by-spanish-language-radio-attacks-on-kamala-harris-525787">Democrats riled by Spanish-language radio attacks on Kamala Harris</a> Politico: Political operatives and the radio hosts themselves say the uptick in calls is notable. Who, if anyone, is behind them remains unclear. 
  <p class="updated_time"> 04:16 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066181618/the-white-house-wants-to-focus-on-china-but-russia-continues-to-be-a-distraction">The White House wants to focus on China, but Russia continues to be a distraction</a> NPR: President Biden has worked to focus his foreign policy on China. But provocations from Russia keep pulling him away. 
- <p class="updated_time"> 04:16 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066169843/how-w-va-politics-affect-sen-manchins-opposition-to-bidens-key-policy-proposal">How W.Va. politics affect Sen. Manchin's opposition to Biden's key policy proposal</a> NPR: NPR's Scott Detrow talks to ProPublica reporter Ken Ward Jr. about the political forces that shaped West Virginia Democratic Sen. Joe Manchin's opposition to President Biden's Build Back Better bill. 
  <p class="updated_time"> 12:15 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/california-redistricting-midterms-525815">California’s new congressional map boosts Democrats</a> Politico: The final maps were approved late Monday by the state’s independent redistricting commission. 
  <p class="updated_time"> 09:16 PM CT, Dec. 20 </p> 
