@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
+ <a href="https://www.politico.com/news/2021/12/22/dan-crenshaw-conservatives-come-correct-525829">Dan Crenshaw to his fellow conservatives: Come 'correct'</a> Politico: The combat veteran often voted with Donald Trump but doesn't act Trumpishly. And he'll slam other Republicans when he feels he must. 
  <p class="updated_time"> 11:57 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/health/omicron-covid-biden-scientists.html">Omicron Will Surge Despite Biden’s New Plan, Scientists Say</a> NYT: Public health experts fear that the highly contagious variant cannot be stopped without harsh measures that the public will no longer tolerate. 
  <p class="updated_time"> 10:56 PM CT, Dec. 21 </p> 
