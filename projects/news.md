@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:49 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: England Cuts Isolation Period for People Who Test Positive</a> NYT: The new rule comes as rising case numbers lead to staff shortages in critical sectors, and as other European nations bring in new measures to curb widening outbreaks. Israel offers fourth vaccine doses. 
  <p class="updated_time"> 08:24 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
  <p class="updated_time"> 08:11 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
- <p class="updated_time"> 07:55 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: England Cuts Isolation Period for People Who Test Positive</a> NYT: The new rule comes as rising case numbers lead to staff shortages in critical sectors, and as other European nations bring in new measures to curb widening outbreaks. Israel offers fourth vaccine doses. 
  <p class="updated_time"> 07:46 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/americas/chile-boric.html">Who Is Gabriel Boric, Chile's Next President?</a> NYT: Mr. Boric, 35, is now the most prominent face of a generation of Chileans who are calling for a break with the past. 
  <p class="updated_time"> 07:20 AM CT, Dec. 22 </p> 
