@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:23 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: England Cuts Isolation Period for People Who Test Positive</a> NYT: The new rule comes as rising case numbers lead to staff shortages in critical sectors, and as other European nations bring in new measures to curb widening outbreaks. Israel offers fourth vaccine doses. 
+ <p class="updated_time"> 07:20 AM CT, Dec. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59753043?at_medium=RSS&at_campaign=KARANGA">French outcry over academic in Grenoble Islamophobia row</a> BBC: Dozens of academics warn that freedom of expression is at risk after a German professor is suspended. 
  <p class="updated_time"> 07:03 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
  <p class="updated_time"> 06:57 AM CT, Dec. 22 </p> 
@@ -219,11 +221,11 @@ permalink: /projects/news/
  <p class="updated_time"> 06:03 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/rescue-money-runs-low-omicron-arrives/index.html">Omicron arrives just as federal Covid aid runs low</a> CNN: Congress has committed nearly $6 trillion since early 2020 to fight Covid-19 and cushion the economic blow from a once-in-century pandemic. 
  <p class="updated_time"> 05:20 AM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/christmas-supply-chain-biden-525944">The after-Christmas problem on Biden’s mind</a> Politico: The administration aims to address labor and competition issues to help solve long-term snarls in the supply chain. 
+ <a href="https://www.politico.com/news/2021/12/22/christmas-supply-chain-biden-525944">Biden looks to chip away at supply chain snarls as midterms loom</a> Politico: The administration aims to address labor and competition issues to help solve long-term snarls in the supply chain. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/hospitals-omicron-vaccinating-health-care-workers-525952">Hospitals grapple with Omicron — and legal brawl over vaccinating staff</a> Politico: More than 60,000 patients are hospitalized with Covid-19, according to the CDC, and the numbers are climbing with the highly contagious Omicron strain surging across the country. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/redistricting-state-lawmakers-525960">State lawmakers get to work on new congressional districts — for themselves</a> Politico: The process is already inherently self-interested, with lawmakers routinely drawing maps for the benefit of their party. But, in some cases, these politicians are working in their literal self-interest. 
+ <a href="https://www.politico.com/news/2021/12/22/redistricting-state-lawmakers-525960">You can draw your own congressional district</a> Politico: The redistricting process is already inherently self-interested, with lawmakers routinely drawing maps for the benefit of their party. But, in some cases, these politicians are working in their literal self-interest. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/dan-crenshaw-conservatives-come-correct-525829">Dan Crenshaw to his fellow conservatives: Come ‘correct’</a> Politico: The combat veteran often voted with Donald Trump but doesn't act Trumpishly. And he'll slam other Republicans when he feels he must. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
@@ -456,8 +458,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats’ filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
  <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/trump-january-6-obstruction-law-524806">Jan. 6 investigators mull whether Trump violated obstruction law</a> Politico: Rep. Liz Cheney (R-Wyo.) raised the question using precise terminology from the criminal statute that some view as possibly applicable to the former president's actions. 
- <p class="updated_time"> 07:35 AM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/12/15/house-is-home-for-the-holidays-senate-sticks-around-495473">House is home for the holidays, Senate sticks around</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
