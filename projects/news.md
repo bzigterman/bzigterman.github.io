@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:49 AM CT, Dec. 22 </p> 
+ <p class="updated_time"> 08:51 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: England Cuts Isolation Period for People Who Test Positive</a> NYT: The new rule comes as rising case numbers lead to staff shortages in critical sectors, and as other European nations bring in new measures to curb widening outbreaks. Israel offers fourth vaccine doses. 
  <p class="updated_time"> 08:24 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
@@ -22,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:56 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59754152?at_medium=RSS&at_campaign=KARANGA">Yemen war: Funding crisis forces UN to cut food assistance</a> BBC: Eight million people going hungry in the war-torn country will get barely half of the daily ration. 
  <p class="updated_time"> 06:36 AM CT, Dec. 22 </p> 
- <a href="https://www.npr.org/2021/12/22/1066649196/omicron-will-cause-more-infections-but-lower-hospital-rates-analysis-shows">Omicron will cause more infections, but lower hospital rates, analysis shows</a> NPR: University of Washington research projects the omicron wave will infect more than 400,000 people a day in the U.S. when it crests in about six weeks. 
+ <a href="https://www.npr.org/2021/12/22/1066649196/omicron-will-cause-more-infections-but-lower-hospital-rates-analysis-shows">Omicron will cause more infections, but lower hospital rates, analysis shows</a> NPR: University of Washington research predicts the omicron wave will infect more than 400,000 people a day in the U.S. when it crests in about six weeks. 
  <p class="updated_time"> 05:52 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-59753873?at_medium=RSS&at_campaign=KARANGA">Sri Lanka plans to pay off Iran oil debt with tea</a> BBC: The country says it hopes to send Iran $5m worth of tea each month to clear its debt. 
  <p class="updated_time"> 05:36 AM CT, Dec. 22 </p> 
