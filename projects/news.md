@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:56 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Scientists Warn Omicron Will Surge and Say Biden’s Plan Is Insufficient</a> NYT: President Biden plans to provide hundreds of millions of tests free to Americans. Israel will administer a fourth round of boosters. 
+ <p class="updated_time"> 07:50 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/world/vaccine-booster-israel-covid.html">Israel to Administer a Fourth Round of Covid Vaccines</a> NYT: Medical teams will begin to give fourth doses to those over 60 as well as to medical personnel. 
+ <p class="updated_time"> 07:37 PM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59749967?at_medium=RSS&at_campaign=KARANGA">Covid-19: Israel could become the first country to give four vaccine doses</a> BBC: A fourth booster would be offered to over-60s and health workers as Israel prepares for Omicron wave. 
  <p class="updated_time"> 06:11 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59690317?at_medium=RSS&at_campaign=KARANGA">The Maasai TikTokers wowing Bollywood fans</a> BBC: Tanzanian siblings Kili and Neema Paul lip sync perfectly in Hindi, accruing millions of followers. 
- <p class="updated_time"> 06:08 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid Live Updates: Biden Details New Measures to Fight Omicron</a> NYT: Hundreds of millions of tests are to be provided free to Americans. Military medical personnel are being prepared to help overwhelmed U.S. hospitals. Israel will administer a fourth round of boosters. 
  <p class="updated_time"> 06:07 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59723756?at_medium=RSS&at_campaign=KARANGA">Kerala school uniform: Why some Muslim groups are protesting</a> BBC: Muslim groups in India's Kerala state protest after a government school allows girls to wear trousers. 
+ <p class="updated_time"> 06:07 PM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59744280?at_medium=RSS&at_campaign=KARANGA">Mother seals recognise pup's voice at two days old</a> BBC: Elephant seal mums can distinguish their own offspring at just two days old, research shows. 
  <p class="updated_time"> 06:02 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59731003?at_medium=RSS&at_campaign=KARANGA">Saving Kyrgyzstan reindeer from brink of extinction</a> BBC: Kyrgyzstan used to be home to thousands of reindeer but now there are as few as 400 left. 
  <p class="updated_time"> 05:45 PM CT, Dec. 21 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59738678?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Biden buys 500m test kits to tackle surge</a> BBC: The US will also deploy more military medics amid fears the holiday season will spark a Covid spike. 
  <p class="updated_time"> 05:36 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59748281?at_medium=RSS&at_campaign=KARANGA">Perfectly preserved dinosaur embryo found in China</a> BBC: Researchers say the fossil is at least 66 million years old and was about to hatch just like a chicken. 
- <p class="updated_time"> 05:20 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/vaccine-booster-israel-covid.html">Israel to Administer a Fourth Round of Covid Vaccines</a> NYT: Medical teams will begin to give fourth doses to those over 60 as well as to medical personnel. 
  <p class="updated_time"> 05:15 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/ted-cruz-biden-ukraine.html">Deal With Ted Cruz Sets Stage for Russia Pipeline Fight in Early 2022</a> NYT: The Texas Republican leveraged his obstruction of diplomatic nominees into a Senate vote that could complicate President Biden’s efforts to defend Ukraine. 
  <p class="updated_time"> 04:57 PM CT, Dec. 21 </p> 
@@ -81,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/covid-19-pandemic-drives-u-s-population-growth-to-record-low-11640098763">Covid-19 Drives U.S. Population Growth to Record Low</a> WSJ: America’s population grew by just 0.1% for the 12 months ended July 1, according to Census Bureau figures released Tuesday that show how the pandemic is changing the country’s demographic contours. 
  <p class="updated_time"> 10:25 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59740324?at_medium=RSS&at_campaign=KARANGA">Kosovo agrees to rent prison cells to Denmark to ease overcrowding</a> BBC: Denmark is due to pay €210m (£179m) over the next 10 years to rent 300 cells in the jail at Gjilan. 
- <p class="updated_time"> 10:21 AM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59730923?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial jurors resume deliberations</a> BBC: The British socialite faces up to 80 years in prison if convicted on sex-trafficking and perjury charges. 
  <p class="updated_time"> 09:39 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/21/1062836171/editors-pick-11-hidden-gems-on-our-global-health-blog-in-2021">Editors' pick: 11 hidden gems on our global health blog in 2021</a> NPR: Want to hear the former president of Zambia sing about public health? Find out what to do if you lose a sheep in Senegal? Use solar power to iron garments? Give these stories a read. 
  <p class="updated_time"> 09:12 AM CT, Dec. 21 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/turkey-rolls-out-economic-rescue-plan-reversing-lira-spiral-11640091727">Turkey Rolls Out Economic Rescue Plan, Reversing Lira's Spiral</a> WSJ: Turkey’s currency mounted a dramatic, partial reversal from a monthslong collapse after President Recep Tayyip Erdogan announced a rescue plan to encourage Turks to put their money back into the lira. 
  <p class="updated_time"> 06:57 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/russia-military-putin-kremlin.html">How the Kremlin Is Militarizing Russian Society</a> NYT: With a “youth army,” a cathedral honoring the military and state media promoting patriotism, the government is preparing Russians for the possibility of a fight. 
- <p class="updated_time"> 06:21 AM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59740356?at_medium=RSS&at_campaign=KARANGA">Israel rejects 'alarm call' by Christian leaders in Jerusalem</a> BBC: Church leaders say "radical groups" are attempting to drive Christians out of the Holy Land. 
  <p class="updated_time"> 05:51 AM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/well-preserved-embryo-found-inside-fossilized-dinosaur-egg-11640102402">Well-Preserved Embryo Found Inside Fossilized Dinosaur Egg</a> WSJ: Scientists said the embryo inside the egg, which was laid between 72 million to 66 million years ago during the Late Cretaceous period, was that of a two-legged, feathered carnivore known as an oviraptorid. 
  <p class="updated_time"> 05:07 AM CT, Dec. 21 </p> 
@@ -208,20 +208,26 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:03 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/manchin-child-tax-credit-biden.html">The Policy Debate at the Heart of the Biden-Manchin Standoff</a> NYT: President Biden and Senator Joe Manchin III have many differences over the proposed domestic policy bill, but one issue stands out: the child tax credit. 
+ <p class="updated_time"> 07:44 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/health/covid-biden-scientists.html">Omicron Will Surge Despite Biden’s New Plan, Scientists Say</a> NYT: Public health experts fear that the highly contagious variant cannot be stopped without harsh measures that the public will no longer tolerate. 
+ <p class="updated_time"> 07:40 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/michael-flynn-lawsuit-january-6-committee/index.html">Michael Flynn sues January 6 committee to block phone records subpoena</a> CNN: Michael Flynn, the embattled former national security adviser to then-President Donald Trump, is suing to block a US House subpoena for his phone records. 
+ <p class="updated_time"> 07:40 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/prison-covid-home-confinement.html">Justice Dept. Says Some Inmates Can Stay Confined at Home</a> NYT: The move reverses a Trump-era decision that would have sent many of the thousands of inmates released to home confinement during the pandemic back to prison. 
+ <p class="updated_time"> 07:39 PM CT, Dec. 21 </p> 
+ <a href="https://www.npr.org/2021/12/21/1066595651/a-shot-at-gold-a-swearing-in-and-a-tech-get-together-are-all-thwarted-by-omicron">A shot at gold, a swearing in, and a tech get-together are all thwarted by omicron</a> NPR: The alarming surge in COVID infections is prompting city leaders, heads of companies, and even sports officials to withdraw from public events that could potentially expose more people to the virus. 
  <p class="updated_time"> 07:34 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/kim-potter-daunte-wright-jury-525941">Jury in Kim Potter trial ends another day without verdict</a> Politico: The jurors asked the judge about not being able to reach a verdict. 
- <p class="updated_time"> 06:51 PM CT, Dec. 21 </p> 
+ <p class="updated_time"> 07:29 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/mcconnell-manchin-republican.html">McConnell to Manchin: We’d Love to Have You, Joe</a> NYT: Senator Mitch McConnell, the Republican leader, says Democratic outrage over Senator Joe Manchin’s opposition to sweeping policy bills shows he is not welcome in his party any longer. 
+ <p class="updated_time"> 07:19 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/omicron-covid-biden.html">‘We’re Still in It’: Biden Urges Calm as He Steps Up Omicron Fight</a> NYT: The president announced new plans including sending military medical professionals to overburdened hospitals and distributing 500 million free tests. 
- <p class="updated_time"> 06:37 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/manchin-child-tax-credit-biden.html">The Policy Debate at the Heart of the Biden-Manchin Standoff</a> NYT: President Biden and Senator Joe Manchin III have many differences over the proposed domestic policy bill, but one issue stands out: the child tax credit. 
- <p class="updated_time"> 06:27 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/prison-covid-home-confinement.html">Some Inmates Can Stay Confined at Home After Covid Emergency, Justice Dept. Says</a> NYT: The move reverses a Trump-era decision that would have sent many of the thousands of inmates released to home confinement during the pandemic back to prison. 
+ <p class="updated_time"> 07:04 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/gop-state-officials-prepare-new-wave-of-voting-restrictions/index.html">GOP proposals at the state level would nix ballot boxes and create new voting ID requirements</a> CNN: The push to impose voting restrictions at the state level is poised to continue next year as Republicans drive forward with an array of new proposals -- ranging from legislation that would eliminate ballot drop boxes to bills that would establish new ID requirements to vote. 
  <p class="updated_time"> 06:19 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/scott-perry-january-6-committee.html">Flynn Sues Jan. 6 Committee as House Republican Rebuffs Investigators</a> NYT: The panel investigating the Capitol attack faced stonewalling from allies of former President Donald J. Trump on two new fronts. 
- <p class="updated_time"> 06:13 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/health/covid-biden-scientists.html">Omicron Will Surge Despite Biden’s New Plan, Scientists Say</a> NYT: Public health experts fear that the highly contagious variant cannot be stopped without harsh measures that the public will no longer tolerate. 
- <p class="updated_time"> 06:07 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/mcconnell-manchin-republicans.html">McConnell to Manchin: We’d Love to Have You, Joe</a> NYT: Senator Mitch McConnell, the Republican leader, says Democratic outrage over Senator Joe Manchin’s opposition to sweeping policy bills shows he is not welcome in his party any longer. 
  <p class="updated_time"> 06:06 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/covid-olympics-nhl-hockey-china-525936">NHL reportedly set to withdraw from Olympics after Covid surge</a> Politico: The hockey league is afraid it won’t be able to complete its schedule if it takes a break for the Beijing Olympics. 
  <p class="updated_time"> 05:41 PM CT, Dec. 21 </p> 
@@ -230,12 +236,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/climate/solar-power-federal-land-california.html">Biden Administration Approves Two California Solar Projects</a> NYT: The solar farms, planned for the California desert, would generate enough electricity to power about 132,000 homes, the Interior Department said. 
  <p class="updated_time"> 05:14 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/joe-manchin-biden-agenda.html">Manchin in the Middle: Is He a ‘No,’ or a ‘Not Yet’?</a> NYT: Democrats have been left hoping that the West Virginian, who fashions himself as an old-school centrist dealmaker, will eventually budge on President Biden’s agenda. 
- <p class="updated_time"> 05:13 PM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/gop-state-officials-prepare-new-wave-of-voting-restrictions/index.html">GOP proposals at the state level would nix ballot boxes and create new voting ID requirements</a> CNN: The push to impose voting restrictions at the state level is poised to continue next year as Republicans drive forward with an array of new proposals -- ranging from legislation that would eliminate ballot drop boxes to bills that would establish new ID requirements to vote. 
  <p class="updated_time"> 05:09 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/us-russia-ukraine-smuggling-claims-525925">U.S. denies Russian claims on Ukraine as rhetoric heats up</a> Politico: Russia's defense minister claimed the U.S. has been smuggling chemicals into eastern Ukraine. 
- <p class="updated_time"> 05:01 PM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/michael-flynn-lawsuit-january-6-committee/index.html">Michael Flynn sues January 6 committee to block phone records subpoena</a> CNN: Michael Flynn, the embattled former national security adviser to then-President Donald Trump, is suing to block a US House subpoena for his phone records. 
  <p class="updated_time"> 04:59 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/first-puppy-bidens-white-house/index.html">Bidens add to their family with new first puppy</a> CNN: President Joe Biden and first lady Jill Biden have added to their pet family, the first lady's spokesperson tells CNN. 
  <p class="updated_time"> 04:51 PM CT, Dec. 21 </p> 
@@ -340,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066169749/morning-news-brief">News brief: Biden speech, COVID testing critique, Pentagon extremism rules</a> NPR: President Biden addresses the Omicron variant in a speech Tuesday. Some health officials say Biden has fallen short on COVID testing. The Pentagon is updating its policies on extremism in its ranks. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1065337316/south-portland-mayor-somali-american">Deqa Dhalac is the first Somali-American mayor in the United States</a> NPR: After fleeing Somalia some 30 years ago, Dhalac became this country's first Somali-American mayor earlier this month, elected in a city that's 90% white. 
- <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066167265/biden-to-announce-free-covid-tests-more-aid-for-hospitals-to-deal-with-omicron">Biden announces free tests and defends the White House response as COVID cases surge</a> NPR: The U.S. government will buy a half-billion at-home COVID test kits and mail them to people who want them, with deliveries beginning in January. 
  <p class="updated_time"> 11:01 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/joe-manchin-joe-biden-relationship/index.html">Biden's relationship with Manchin hits a low point, even as they clear the air</a> CNN: After months of careful cultivation -- and even a nickname -- the most important relationship in Washington is narrowly weathering its stormiest moment to date. 
  <p class="updated_time"> 09:16 PM CT, Dec. 20 </p> 
@@ -364,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/20/politics/border-wall/index.html">DHS to close some gaps in border wall in ongoing effort to clean up Trump-era projects</a> CNN: The Department of Homeland Security plans to close small gaps in the border wall, make adjustments to prevent flooding and complete prior construction of access roads, the department announced Monday. 
  <p class="updated_time"> 04:36 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/biden-and-manchin-speak-525788">Biden and Manchin speak</a> Politico: The two connected and there is a sense that talks around Build Back Better aren't done yet. 
- <p class="updated_time"> 02:40 PM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/republicans-navy-seal-vaccine-525773">Almost 50 Republicans back Navy SEAL lawsuit over vaccine mandate</a> Politico: The group of lawmakers, which includes nine senators and 38 representatives, is led by Sens. Ted Cruz, Jim Inhofe and Roger Marshall. 
  <p class="updated_time"> 02:25 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/alex-jones-sues-jan-6-committee-indicates-plan-to-plead-the-fifth-525770">Alex Jones sues Jan. 6 committee, indicates plan to plead the Fifth</a> Politico: In the lawsuit, Jones says he intends to assert his Fifth Amendment rights against self-incrimination. 
  <p class="updated_time"> 12:58 PM CT, Dec. 20 </p> 
