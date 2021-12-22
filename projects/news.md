@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:51 PM CT, Dec. 22 </p> 
+ <p class="updated_time"> 03:28 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/business/paris-france-inflation-prices.html">Inflation Forces Parisian Vendors to Raise Prices on Staples</a> NYT: Soaring inflation in Europe is starting to squeeze shopkeepers and consumers. Many are preparing for more price increases in the new year. 
+ <p class="updated_time"> 03:25 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Cases Appear Less Severe, 2 U.K. Studies Say</a> NYT: Experts warned that hospitals could still be flooded, because the variant is so transmissible. The F.D.A. authorized Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
  <p class="updated_time"> 02:46 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/health-59758784?at_medium=RSS&at_campaign=KARANGA">Omicron wave appears milder, but concern remains</a> BBC: The risk of needing hospital treatment could be 30 - 70% lower with Omicron than other variants. 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/libya-delays-presidential-election-amid-concerns-of-renewed-conflict-11640183492">Libya Delays Presidential Election Amid Concerns of Renewed Conflict</a> WSJ: The vote scheduled for later this week was postponed by at least a month, the country’s electoral commission said, in an effort to defuse tensions between rival political factions. 
  <p class="updated_time"> 04:11 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59750154?at_medium=RSS&at_campaign=KARANGA">Rogel Aguilera-Mederos: Colorado lorry driver's sentence sparks uproar</a> BBC: The 110-year prison sentence for the Colorado lorry driver sparks calls for leniency and reform. 
- <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/business/paris-france-inflation-prices.html">Inflation Forces Parisian Vendors to Raise Prices on Staples</a> NYT: Soaring inflation in Europe is starting to squeeze shopkeepers and consumers. Many are preparing for more price increases in the new year. 
  <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/heat-carbon-emissions-cities.html">Using a City’s Excess Heat to Reduce Emissions</a> NYT: A district in London has developed an innovative way to divert subway heat for buildings to lower carbon emissions. Other cities are getting creative, as well. 
  <p class="updated_time"> 03:07 AM CT, Dec. 22 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:14 PM CT, Dec. 22 </p> 
+ <a href="https://www.npr.org/2021/12/22/1066997356/january-6-panel-asks-rep-jordan-top-trump-ally-for-voluntary-cooperation-in-prob">The House Jan. 6 panel wants to talk to Trump ally Rep. Jim Jordan</a> NPR: Chairman Bennie Thompson's letter to Jordan asks for information and an interview to discuss his conversations with former President Trump on January 6. 
  <p class="updated_time"> 03:07 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/jim-jordan-jan-6.html">Jan. 6 Panel Seeks Interview With Jim Jordan, a Close Trump Ally</a> NYT: The House committee said investigators wanted to ask Mr. Jordan, a Republican congressman from Ohio, about his conversations with former President Donald J. Trump. 
  <p class="updated_time"> 02:52 PM CT, Dec. 22 </p> 
@@ -296,6 +298,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/21/ghislaine-maxwell-jury-epstein-525962">Deliberations in Ghislaine Maxwell trial continue</a> Politico: The jury is deciding whether Maxwell assisted Jeffrey Epstein in the sexual abuse of teen girls from 1994 to 2004. 
  <p class="updated_time"> 08:51 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/manchin-child-tax-credit-biden.html">The Policy Debate at the Heart of the Biden-Manchin Standoff</a> NYT: President Biden and Senator Joe Manchin III have many differences over the proposed domestic policy bill, but one issue stands out: the child tax credit. 
+ <p class="updated_time"> 08:28 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/omicron-covid-biden.html">Biden Bolsters Virus Fight, Offering Aid to Hospitals and Free Tests</a> NYT: The president also sought to address the nation’s battered psyche, telling anxious Americans that “we should all be concerned about Omicron, but not panicked.” 
  <p class="updated_time"> 07:40 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/michael-flynn-lawsuit-january-6-committee/index.html">Michael Flynn sues January 6 committee to block phone records subpoena</a> CNN: Michael Flynn, the embattled former national security adviser to then-President Donald Trump, is suing to block a US House subpoena for his phone records. 
  <p class="updated_time"> 07:40 PM CT, Dec. 21 </p> 
@@ -325,7 +329,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:22 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/john-thune-senate-retirement.html">John Thune, a Likely Successor to Mitch McConnell, Weighs Retirement</a> NYT: Mr. Thune, the No. 2 Republican in the Senate, is considering giving up his South Dakota seat because of both family concerns and Donald Trump’s enduring hold on the G.O.P. 
  <p class="updated_time"> 04:12 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/phil-waldron-jan-6.html">A Retired Colonel’s Unlikely Role in Pushing Baseless Election Claims</a> NYT: Phil Waldron, who owns a bar in Texas, is a case study in how pro-Trump fringe players managed to get a hearing for conspiracy theories at the highest level during the presidential transition. 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/phil-waldron-jan-6.html">Phil Waldron's Unlikely Role in Pushing Baseless Election Claims</a> NYT: Phil Waldron, who owns a bar in Texas, is a case study in how pro-Trump fringe players managed to get a hearing for conspiracy theories at the highest level during the presidential transition. 
  <p class="updated_time"> 04:06 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/biden-reverses-prison-525884">Biden Justice Department reverses on returning federal convicts on home detention to prison</a> Politico: Prisoners who have been on home confinement during pandemic won't have to return to prison. 
  <p class="updated_time"> 03:56 PM CT, Dec. 21 </p> 
@@ -334,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066493372/the-mysterious-death-of-a-human-rights-lawyer-during-political-turmoil-in-ethiop">The mysterious death of a human rights lawyer during political turmoil in Ethiopia</a> NPR: Ethiopia prime minister Abiy Ahmed is waging war against Tigrayans in the north and stamping out dissent among ethnic Oromos in the south. 
  <p class="updated_time"> 03:28 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493365/the-child-tax-credit-is-set-to-expire-if-congressional-action-isnt-taken">The Child Tax Credit is set to expire if congressional action isn't taken</a> NPR: Parents in Philadelphia, Pa., say they will miss the Child Tax Credit if it goes away — which it's set to do without congressional action. The program has helped ease the city's high poverty rates. 
- <p class="updated_time"> 03:28 PM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066493358/biden-plans-to-expand-testing-and-vaccination-to-take-on-the-omicron-variant">Biden plans to expand testing and vaccination to take on the omicron variant</a> NPR: NPR's Ari Shapiro speaks with Andy Slavitt, former senior adviser to President Biden's pandemic response team, about the White House's latest efforts to combat the coronavirus. 
  <p class="updated_time"> 03:01 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/81-year-old-january-6-defendant-wickersham/index.html">81-year-old US Capitol rioter sentenced to three years of probation</a> CNN: An 81-year-old Army veteran was sentenced to three years of probation on Tuesday for illegally breaching the US Capitol on January 6. 
  <p class="updated_time"> 02:56 PM CT, Dec. 21 </p> 
