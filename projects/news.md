@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:50 PM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59751702?at_medium=RSS&at_campaign=KARANGA">Covid: Australian trial tests blood thinner as nasal spray</a> BBC: The drug heparin could be used as a nasal spray protection if a trial shows promise, scientists say. 
  <p class="updated_time"> 11:41 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59723344?at_medium=RSS&at_campaign=KARANGA">Myanmar: At least one dead, 70 missing in jade mine landslide</a> BBC: Most of the victims are believed to be illegal jade miners prospecting for the semi-precious stone. 
  <p class="updated_time"> 10:55 PM CT, Dec. 21 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/health/omicron-vaccines-efficacy.html">Most of the World’s Vaccines Likely Won’t Prevent Infection From Omicron</a> NYT: They do seem to offer significant protection against severe illness, but the consequences of rapidly spreading infection worry many public health experts. 
  <p class="updated_time"> 02:12 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Is Russia preparing to invade Ukraine? And other questions</a> BBC: What you need to know about Russia's troop build-up along Ukraine's borders. 
- <p class="updated_time"> 02:03 PM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59748173?at_medium=RSS&at_campaign=KARANGA">Hungary's Viktor Orban to defy EU over immigration law</a> BBC: PM Viktor Orban vows to stick by an asylum law the European Union's top court deemed illegal. 
  <p class="updated_time"> 01:51 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/turkey-inflation-rising-prices.html">Cashing In Grandma’s Gold Coins, a Turkish Family Struggles to Get By</a> NYT: As inflation soars and the value of Turkey’s currency plummets, one couple described how working families can’t make ends meet and have had to cut back on basic necessities as well as life’s smaller pleasures. 
  <p class="updated_time"> 01:44 PM CT, Dec. 21 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:57 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/health/omicron-covid-biden-scientists.html">Omicron Will Surge Despite Biden’s New Plan, Scientists Say</a> NYT: Public health experts fear that the highly contagious variant cannot be stopped without harsh measures that the public will no longer tolerate. 
  <p class="updated_time"> 10:56 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/schumer-floor-vote-biden-megabill-525963">Schumer vows a floor vote on Biden's $1.7T megabill next month</a> Politico: Sen. Joe Manchin (D-W.Va.) joined the virtual caucus call and addressed colleagues at the beginning, days after nixing the House-passed version of the bill. 
  <p class="updated_time"> 10:02 PM CT, Dec. 21 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/us/politics/manchin-child-tax-credit-biden.html">The Policy Debate at the Heart of the Biden-Manchin Standoff</a> NYT: President Biden and Senator Joe Manchin III have many differences over the proposed domestic policy bill, but one issue stands out: the child tax credit. 
  <p class="updated_time"> 08:28 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/omicron-covid-biden.html">Biden Bolsters Virus Fight, Offering Aid to Hospitals and Free Tests</a> NYT: The president also sought to address the nation’s battered psyche, telling anxious Americans that “we should all be concerned about Omicron, but not panicked.” 
- <p class="updated_time"> 07:44 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/health/omicron-covid-biden-scientists.html">Omicron Will Surge Despite Biden’s New Plan, Scientists Say</a> NYT: Public health experts fear that the highly contagious variant cannot be stopped without harsh measures that the public will no longer tolerate. 
  <p class="updated_time"> 07:40 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/michael-flynn-lawsuit-january-6-committee/index.html">Michael Flynn sues January 6 committee to block phone records subpoena</a> CNN: Michael Flynn, the embattled former national security adviser to then-President Donald Trump, is suing to block a US House subpoena for his phone records. 
  <p class="updated_time"> 07:40 PM CT, Dec. 21 </p> 
