@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:51 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: New Cases Fall in South Africa’s Omicron Surge</a> NYT: Britain reported more than 100,000 new cases in a single day, and staff shortages expand at England’s hospitals, clinics, rail services, fire departments and ambulance services. Israel offers fourth vaccine doses. 
+ <p class="updated_time"> 01:03 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: New Cases Fall in South Africa’s Omicron Surge</a> NYT: The F.D.A. authorized Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. Britain reported more than 100,000 new cases in a single day for the first time. 
+ <p class="updated_time"> 01:00 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">U.S. Eases Some Restrictions on Aid for Afghanistan</a> NYT: The new measures will allow the United States to maintain pressure on the Taliban as the country faces collapse. 
+ <p class="updated_time"> 01:00 PM CT, Dec. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/health-59758784?at_medium=RSS&at_campaign=KARANGA">Omicron wave appears milder, but concern remains</a> BBC: The risk of needing hospital treatment could be 30 - 70% lower with Omicron than other variants. 
  <p class="updated_time"> 12:37 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59754153?at_medium=RSS&at_campaign=KARANGA">Roman-era 'Good Shepherd' ring found off Israel in ancient shipwreck</a> BBC: Israeli archaeologists discover a Roman-era gold ring bearing an early Christian depiction of Jesus. 
- <p class="updated_time"> 12:37 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/health-59758784?at_medium=RSS&at_campaign=KARANGA">Omicron wave appears milder, but concern remains</a> BBC: The risk of needing hospital treatment could be two-thirds lower with Omicron than other variants. 
  <p class="updated_time"> 12:37 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59762046?at_medium=RSS&at_campaign=KARANGA">Spain to require masks outdoors amid Covid surge</a> BBC: As the Omicron variant spreads around Europe, countries tighten restrictions to brace for another wave. 
  <p class="updated_time"> 12:09 PM CT, Dec. 22 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/20/1065865472/omicron-holiday-travel-gatherings-restrictions-world">As omicron surges, nations announce rules on gatherings and travel ahead of holidays</a> NPR: European nations have implemented a wave of new restrictions as case numbers rise. And Israel has added the U.S. and Canada to its "red list" of countries that citizens are barred from traveling to. 
  <p class="updated_time"> 11:17 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/africa/drones-ethiopia-war-turkey-emirates.html">Foreign Drones Tip the Balance in Ethiopia’s Civil War</a> NYT: Prime Minister Abiy Ahmed pulled off a stunning reversal in the year-old conflict with the help of armed drones supplied by the United Arab Emirates, Turkey and Iran. 
- <p class="updated_time"> 10:07 AM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/arts/design/parthenon-marbles-restitution.html">As Europe Returns Artifacts, Britain Stays Silent on the Parthenon Marbles</a> NYT: The Parthenon Marbles in London are likely the world’s most famous disputed museum items. Yet the British government says the sculptures’ fate isn’t its concern. 
  <p class="updated_time"> 09:39 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59728144?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Bruce Springsteen's back catalogue - who bought it?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 03:13 AM CT, Dec. 20 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:26 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/new-jersey-redistricting-map-malinowski-525983">Democrats prevail in New Jersey redistricting with map that could sacrifice Malinowski</a> Politico: New Jersey redistricts through a commission that includes six Democratic appointees, six Republican appointees and a tie-breaker who is selected by the state Supreme Court. 
+ <p class="updated_time"> 01:00 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">U.S. Eases Some Restrictions on Aid for Afghanistan</a> NYT: The new measures will allow the United States to maintain pressure on the Taliban as the country faces collapse. 
  <p class="updated_time"> 12:56 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/fda-pfizer-covid-pill-525979">FDA authorizes Pfizer's Covid-19 pill</a> Politico: The pill, called Paxlovid, will provide the U.S. with another tool to help fight the virus as the more infectious Omicron variant surges. 
  <p class="updated_time"> 12:45 PM CT, Dec. 22 </p> 
@@ -222,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1066714092/biden-negative-test-covid-19-air-force-one">Biden tests negative for COVID-19 after recent exposure</a> NPR: The test was done after a White House staff member — who had flown with Biden on Air Force One on Friday — tested positive for COVID on Monday. Biden had tested negative on Sunday and Monday. 
  <p class="updated_time"> 11:02 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2021/12/22/1064823191/talking-race-pop-culture-and-youtube-with-khadija-mbowe">Talking race, pop culture and YouTube with Khadija Mbowe</a> NPR: The singer-turned-YouTuber is using their platform to take on everything from race- and queer-baiting in Bridgerton to the scrutiny of Black women's bodies to the history of dog-whistle politics. 
- <p class="updated_time"> 10:52 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">U.S. Eases Pressure of Sanctions on Afghanistan</a> NYT: The Treasury Department issued new “general licenses” to help aid flow as a humanitarian crisis deepens. 
  <p class="updated_time"> 10:26 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/january-6-committee-interview-lawsuit/index.html">House January 6 rally staffers detail committee investigation questions and targets in lawsuit</a> CNN: Four people who staffed the pro-Trump rally at the Ellipse that preceded the deadly Capitol attack on January 6 are suing to block House investigators from obtaining their phone records. 
  <p class="updated_time"> 10:00 AM CT, Dec. 22 </p> 
