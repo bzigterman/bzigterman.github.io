@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:03 PM CT, Dec. 22 </p> 
+ <p class="updated_time"> 01:18 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: New Cases Fall in South Africa’s Omicron Surge</a> NYT: The F.D.A. authorized Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. Britain reported more than 100,000 new cases in a single day for the first time. 
+ <p class="updated_time"> 01:16 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
  <p class="updated_time"> 01:00 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">U.S. Eases Some Restrictions on Aid for Afghanistan</a> NYT: The new measures will allow the United States to maintain pressure on the Taliban as the country faces collapse. 
  <p class="updated_time"> 01:00 PM CT, Dec. 22 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/nyregion/new-york-health-commissioner.html">N.Y.C. Health Commissioner to Stay On Until March, Adams Says</a> NYT: The commissioner, Dr. Dave A. Chokshi, will continue to run the health department after Eric Adams becomes mayor on Jan. 1, as the Omicron variant surges. Dr. Ashwin Vasan will succeed Dr. Chokshi in mid-March. 
  <p class="updated_time"> 09:01 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1064546215/pinata-mexico-posadas-celebration">In Mexico, piñatas are a Christmas essential full of history, art and treats</a> NPR: Piñatas are a common element in parties across different countries, but especially in Mexico around Christmas time, and the story of their origin combines cultures, traditions and religions. 
- <p class="updated_time"> 08:24 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
  <p class="updated_time"> 07:50 AM CT, Dec. 22 </p> 
  <a href="https://www.wsj.com/articles/to-limit-omicron-singapore-freezes-ticket-sales-for-quarantine-free-travel-11640165362">South Africa Sees Milder Disease From Omicron</a> WSJ: Israel is set to offer a fourth dose of the Covid-19 vaccine to older people, while South African scientists reported further evidence that the Omicron variant causes significantly less serious disease than earlier strains. 
  <p class="updated_time"> 07:48 AM CT, Dec. 22 </p> 
@@ -82,7 +82,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:15 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59753026?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: BBC correspondent shows damage on Siargao Island</a> BBC: Take a look at the damage on Siargao Island after a powerful storm kills hundreds in the Philippines. 
  <p class="updated_time"> 11:30 PM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/a-seafaring-nun-navigates-the-male-world-of-the-vatican-11640169003">A Seafaring Nun Navigates the Male World of the Vatican</a> WSJ: Pope Francis has appointed several women to Vatican leadership positions that were previously held only by men, gradually recalibrating the leadership of the institution. The policy is part of the pontiff’s modernizing agenda that called for a more active role for laypeople and their talents in the church. 
+ <a href="https://www.wsj.com/articles/a-seafaring-nun-navigates-the-male-world-of-the-vatican-11640169003">A Seafaring Nun Navigates the Male World of the Vatican</a> WSJ: Pope Francis has appointed several women to Vatican leadership positions that were previously held only by men, gradually recalibrating the leadership of the institution. 
  <p class="updated_time"> 10:09 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/asia/india-water-modi.html">India's Modi Brings Tap Water to Millions as Supplies Shrink</a> NYT: The ambitious project to meet a dire need shows Prime Minister Narendra Modi’s strengths and helps explain his popularity despite a weakened economy. 
  <p class="updated_time"> 08:55 PM CT, Dec. 21 </p> 
@@ -198,8 +198,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:14 PM CT, Dec. 22 </p> 
+ <a href="https://www.politico.com/news/2021/12/22/durham-probe-cost-38-million-525985">Durham probe cost $3.8M over past year</a> Politico: The spending, detailed in documents released Wednesday by the Department of Justice, coincides with an uptick in activity from Durham and his in recent months. 
+ <p class="updated_time"> 02:08 PM CT, Dec. 22 </p> 
+ <a href="https://www.politico.com/news/2021/12/22/roger-stone-trump-autograph-nft-525986">Roger Stone is selling a Trump autograph NFT to pay his legal bills</a> Politico: The post-Trump presidency, encapsulated in one short story. 
  <p class="updated_time"> 01:26 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/new-jersey-redistricting-map-malinowski-525983">Democrats prevail in New Jersey redistricting with map that could sacrifice Malinowski</a> Politico: New Jersey redistricts through a commission that includes six Democratic appointees, six Republican appointees and a tie-breaker who is selected by the state Supreme Court. 
+ <p class="updated_time"> 01:09 PM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/january-6-committee-interview-lawsuit/index.html">House January 6 rally staffers detail committee investigation questions and targets in lawsuit</a> CNN: Four people who staffed the pro-Trump rally at the Ellipse that preceded the deadly Capitol attack on January 6 are suing to block House investigators from obtaining their phone records. 
  <p class="updated_time"> 01:00 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">U.S. Eases Some Restrictions on Aid for Afghanistan</a> NYT: The new measures will allow the United States to maintain pressure on the Taliban as the country faces collapse. 
  <p class="updated_time"> 12:56 PM CT, Dec. 22 </p> 
@@ -224,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1066714092/biden-negative-test-covid-19-air-force-one">Biden tests negative for COVID-19 after recent exposure</a> NPR: The test was done after a White House staff member — who had flown with Biden on Air Force One on Friday — tested positive for COVID on Monday. Biden had tested negative on Sunday and Monday. 
  <p class="updated_time"> 11:02 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2021/12/22/1064823191/talking-race-pop-culture-and-youtube-with-khadija-mbowe">Talking race, pop culture and YouTube with Khadija Mbowe</a> NPR: The singer-turned-YouTuber is using their platform to take on everything from race- and queer-baiting in Bridgerton to the scrutiny of Black women's bodies to the history of dog-whistle politics. 
- <p class="updated_time"> 10:26 AM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/january-6-committee-interview-lawsuit/index.html">House January 6 rally staffers detail committee investigation questions and targets in lawsuit</a> CNN: Four people who staffed the pro-Trump rally at the Ellipse that preceded the deadly Capitol attack on January 6 are suing to block House investigators from obtaining their phone records. 
  <p class="updated_time"> 10:00 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/afghanistan-teachers-humanitarian-organizations/index.html">Biden administration moves to allow Afghan teachers' salaries to be paid by aid organizations</a> CNN: The Biden administration is lifting some restrictions on the types of aid that humanitarian organizations can provide to Afghanistan which will enable support for educational programs, including paying teachers' salaries, the Treasury Department and two senior administration officials announced on Wednesday. 
  <p class="updated_time"> 09:21 AM CT, Dec. 22 </p> 
@@ -292,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/21/politics/gop-state-officials-prepare-new-wave-of-voting-restrictions/index.html">GOP proposals at the state level would nix ballot boxes and create new voting ID requirements</a> CNN: The push to impose voting restrictions at the state level is poised to continue next year as Republicans drive forward with an array of new proposals -- ranging from legislation that would eliminate ballot drop boxes to bills that would establish new ID requirements to vote. 
  <p class="updated_time"> 06:19 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/scott-perry-january-6-committee.html">Flynn Sues Jan. 6 Committee as House Republican Rebuffs Investigators</a> NYT: The panel investigating the Capitol attack faced stonewalling from allies of former President Donald J. Trump on two new fronts. 
- <p class="updated_time"> 06:06 PM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/covid-olympics-nhl-hockey-china-525936">NHL reportedly set to withdraw from Olympics after Covid surge</a> Politico: The hockey league is afraid it won’t be able to complete its schedule if it takes a break for the Beijing Olympics. 
  <p class="updated_time"> 05:27 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/climate/solar-power-federal-land-california.html">Biden Administration Approves Two California Solar Projects</a> NYT: The solar farms, planned for the California desert, would generate enough electricity to power about 132,000 homes, the Interior Department said. 
  <p class="updated_time"> 05:14 PM CT, Dec. 21 </p> 
