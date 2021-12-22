@@ -27,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59723344?at_medium=RSS&at_campaign=KARANGA">Myanmar: At least one dead, 70 missing in jade mine landslide</a> BBC: Most of the victims are believed to be illegal jade miners prospecting for the semi-precious stone. 
  <p class="updated_time"> 11:50 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59751702?at_medium=RSS&at_campaign=KARANGA">Covid: Australian trial tests blood thinner as nasal spray</a> BBC: A blood-thinning drug could be sprayed as extra protection if a trial shows promise, scientists say. 
+ <p class="updated_time"> 10:29 PM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/to-limit-omicron-singapore-freezes-ticket-sales-for-quarantine-free-travel-11640165362">To Limit Omicron, Singapore Freezes Ticket Sales for Quarantine-Free Travel</a> WSJ: The move is the first significant reversal of a gradual travel reopening that had expanded to about two dozen countries. 
  <p class="updated_time"> 10:08 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/asia/india-water-modi.html">India's Modi Brings Tap Water to Millions as Supplies Shrink</a> NYT: The ambitious project to meet a dire need shows Prime Minister Narendra Modi’s strengths and helps explain his popularity despite a weakened economy. 
  <p class="updated_time"> 08:55 PM CT, Dec. 21 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/australia/new-zealand-omicron-response.html">New Zealand and Other Asia Pacific Countries Respond to Omicron</a> NYT: New Zealand is taking measures to limit the spread of Omicron, including delaying the reopening of its borders. It has detected 22 cases of Omicron in international arrivals. 
  <p class="updated_time"> 12:22 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-59749146?at_medium=RSS&at_campaign=KARANGA">Malaysia hit by the worst floods in decades</a> BBC: At least 14 people have died and tens of thousands evacuated their homes after torrential rain. 
- <p class="updated_time"> 12:16 PM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/as-omicron-takes-over-in-the-u-s-more-curbs-world-wide-11640091714">Biden Is Considering Lifting Travel Ban on Southern African Countries</a> WSJ: The president imposed the ban last month as a way to slow the spread of the Omicron variant to the U.S., “but we’re past that now,” he said Tuesday. 
  <p class="updated_time"> 11:28 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59748169?at_medium=RSS&at_campaign=KARANGA">Spain police thwart raffle of Christmas hamper stuffed with drugs</a> BBC: Police have arrested two men allegedly trying to raffle off a "narco-basket" stuffed with drugs. 
  <p class="updated_time"> 11:23 AM CT, Dec. 21 </p> 
@@ -91,12 +91,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/europe/princess-haya-sheikh-mohammed-bin.html">British Court Orders Dubai Ruler to Pay £554 Million in Custody Settlement</a> NYT: The settlement, of about $734 million, resolves a lengthy dispute that began when Princess Haya Bint Al Hussein and her two children fled to London in 2019. 
  <p class="updated_time"> 11:09 AM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/putin-blames-u-s-for-ukraine-tensions-11640100640">U.S. Proposes January Talks with Russia</a> WSJ: Secretary of State Antony Blinken said the U.S. expects to hold talks with Russia next month to try to defuse tensions over the country’s military buildup near Ukraine as Russian President Vladimir Putin hardened his rhetoric toward the West. 
- <p class="updated_time"> 10:31 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/covid-19-pandemic-drives-u-s-population-growth-to-record-low-11640098763">Covid-19 Drives U.S. Population Growth to Record Low</a> WSJ: America’s population grew by just 0.1% for the 12 months ended July 1, according to Census Bureau figures released Tuesday that show how the pandemic is changing the country’s demographic contours. 
  <p class="updated_time"> 09:39 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/21/1062836171/editors-pick-11-hidden-gems-on-our-global-health-blog-in-2021">Editors' pick: 11 hidden gems on our global health blog in 2021</a> NPR: Want to hear the former president of Zambia sing about public health? Find out what to do if you lose a sheep in Senegal? Use solar power to iron garments? Give these stories a read. 
  <p class="updated_time"> 09:12 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/travel/cardamom-mountains-wildlife-cambodia.html">Inside the Campaign to Save an Imperiled Cambodian Rainforest</a> NYT: Deep in the Southern Cardamom Mountains, former loggers and poachers have assumed new roles as protective rangers and ecotourism guides. Can their efforts help preserve a vast stretch of wilderness? 
+ <p class="updated_time"> 08:21 AM CT, Dec. 21 </p> 
+ <a href="https://www.wsj.com/articles/u-s-sees-russian-gas-pipeline-as-leverage-in-ukraine-crisis-but-needs-german-help-11640106024">U.S. Sees Russian Gas Pipeline as Leverage in Ukraine Crisis, but Needs German Help</a> WSJ: The Biden administration wants assurances that Berlin won’t let Nord Stream 2 start to operate during Moscow’s military pressure campaign. 
  <p class="updated_time"> 07:28 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/trump-supporters-booster-shots.html">Donald Trump Said He Got a Booster Shot and His Supporters Booed</a> NYT: At an event in Dallas, the former president revealed for the first time publicly that he had received the additional vaccine dose. 
  <p class="updated_time"> 07:25 AM CT, Dec. 21 </p> 
@@ -107,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/well-preserved-embryo-found-inside-fossilized-dinosaur-egg-11640102402">Well-Preserved Embryo Found Inside Fossilized Dinosaur Egg</a> WSJ: Scientists said the embryo inside the egg, which was laid between 72 million to 66 million years ago during the Late Cretaceous period, was that of a two-legged, feathered carnivore known as an oviraptorid. 
  <p class="updated_time"> 05:07 AM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/irans-top-diplomat-to-houthi-controlled-yemen-dies-of-covid-19-11640102821">Iran's Top Diplomat to Houthi-Controlled Yemen Dies of Covid-19</a> WSJ: Hassan Irloo, who was smuggled into Yemen in 2020 and named ambassador to parts of the country controlled by Houthis, has died of Covid-19, Iranian officials said. 
- <p class="updated_time"> 04:43 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/israel-bets-travel-restrictions-will-buy-it-time-to-fight-omicron-11640100113">Israel Shuts Borders to Curb Omicron  Threat</a> WSJ: As the Omicron variant spreads quickly across the world, Israel has leaned more heavily than other countries on shutting down its borders to international travel. 
  <p class="updated_time"> 04:34 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59739563?at_medium=RSS&at_campaign=KARANGA"> 'Biggest divorce case in British legal history'</a> BBC: A UK court publishes a ruling in the divorce case of Sheikh Mohammed and his ex-wife Princess Haya. 
  <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
@@ -119,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066166281/new-wave-of-syrian-migrants-fleeing-post-war-misery">New waves of Syrian migrants are fleeing postwar misery</a> NPR: While the numbers are far below the levels during the height of the civil war, the number of Syrians applying for asylum in the EU increased 70% over last year. 
  <p class="updated_time"> 01:33 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066163872/mexican-cartels-turning-to-meth-and-fentanyl-production">Mexican cartels are turning to meth and fentanyl production</a> NPR: Cartels are increasingly turning to huge, industrial-scale labs to churn out synthetic drugs as they shift away from naturally grown drugs like opium and marijuana. 
- <p class="updated_time"> 01:00 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/macaus-casino-king-is-dethroned-as-beijing-reins-in-offshore-gambling-11640088008">Macau's Casino King Dethroned as Beijing Reins In Offshore Gambling</a> WSJ: For nearly two decades before he was detained, Alvin Chau ferried Chinese high-rollers to casinos in Macau, bringing tens of billions of dollars into the city as it passed Las Vegas to become the world’s richest gambling hub. 
  <p class="updated_time"> 10:57 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/health/covid-novavax-europe.html">Novavax’s Covid Vaccine Is Authorized in Europe</a> NYT: The vaccine will be the fifth to become available in the E.U., which already has ample supplies. 
  <p class="updated_time"> 10:12 PM CT, Dec. 20 </p> 
