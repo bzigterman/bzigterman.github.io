@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:51 AM CT, Dec. 22 </p> 
+ <p class="updated_time"> 09:20 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: England Cuts Isolation Period for People Who Test Positive</a> NYT: The new rule comes as rising case numbers lead to staff shortages in critical sectors, and as other European nations bring in new measures to curb widening outbreaks. Israel offers fourth vaccine doses. 
+ <p class="updated_time"> 09:20 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/nyregion/new-york-health-commissioner.html">N.Y.C. Health Commissioner to Stay On Until March, Adams Says</a> NYT: The commissioner, Dr. Dave A. Chokshi, will continue to run the health department after Eric Adams becomes mayor on Jan. 1, as the Omicron variant surges. Dr. Ashwin Vasan will succeed Dr. Chokshi in mid-March. 
+ <p class="updated_time"> 09:04 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/world/middleeast/israel-christmas-covid.html">Covid Spoils Another Christmas in the Holy Land</a> NYT: Israel’s strict border controls have largely barred foreign tourists from entry, but the traditional Jerusalem Santa is managing to bring some local cheer. 
+ <p class="updated_time"> 09:01 AM CT, Dec. 22 </p> 
+ <a href="https://www.npr.org/2021/12/22/1064546215/pinata-mexico-posadas-celebration">In Mexico, piñatas are a Christmas essential full of history, art and treats</a> NPR: Piñatas are a common element in parties across different countries, but especially in Mexico around Christmas time, and the story of their origin combines cultures, traditions and religions. 
  <p class="updated_time"> 08:24 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
  <p class="updated_time"> 08:11 AM CT, Dec. 22 </p> 
@@ -22,7 +28,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:56 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59754152?at_medium=RSS&at_campaign=KARANGA">Yemen war: Funding crisis forces UN to cut food assistance</a> BBC: Eight million people going hungry in the war-torn country will get barely half of the daily ration. 
  <p class="updated_time"> 06:36 AM CT, Dec. 22 </p> 
- <a href="https://www.npr.org/2021/12/22/1066649196/omicron-will-cause-more-infections-but-lower-hospital-rates-analysis-shows">Omicron will cause more infections, but lower hospital rates, analysis shows</a> NPR: University of Washington research predicts the omicron wave will infect more than 400,000 people a day in the U.S. when it crests in about six weeks. 
+ <a href="https://www.npr.org/2021/12/22/1066649196/omicron-will-cause-more-infections-but-lower-hospital-rates-analysis-shows">Omicron will cause more infections but lower hospital rates, analysis shows</a> NPR: University of Washington research predicts the omicron wave will infect more than 400,000 people a day in the U.S. when it crests in about six weeks. 
  <p class="updated_time"> 05:52 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-59753873?at_medium=RSS&at_campaign=KARANGA">Sri Lanka plans to pay off Iran oil debt with tea</a> BBC: The country says it hopes to send Iran $5m worth of tea each month to clear its debt. 
  <p class="updated_time"> 05:36 AM CT, Dec. 22 </p> 
@@ -177,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/world/europe/ireland-cure-folk-medicine.html">Secret Charms and 7th Sons: ‘The Cure’ Is Alive and Well in Ireland</a> NYT: Belief in the benefits of the cure, a type of folk medicine that interweaves home remedies with superstition, religion and a sprinkle of magic is still a way of life in pockets of Ireland. 
  <p class="updated_time"> 12:18 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/pope-domestic-violence-almost-satanic.html">Pope Francis Says High Number of Domestic Violence Cases Is ‘Almost Satanic’</a> NYT: Francis once again decried the scourge of domestic abuse, which has increased during the months of pandemic lockdown. 
- <p class="updated_time"> 12:04 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/sections/codeswitch/2021/12/20/255821310/the-many-contradictions-of-latin-music">The many contradictions of 'Latin Music'</a> NPR: For some, the term 'Latin music' is too broad to be meaningful. For others, it invokes a sense of pride and resistance. To help break it down, we spoke to an expert on race and music and pop culture. 
  <p class="updated_time"> 11:17 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/africa/drones-ethiopia-war-turkey-emirates.html">Foreign Drones Tip the Balance in Ethiopia’s Civil War</a> NYT: Prime Minister Abiy Ahmed pulled off a stunning reversal in the year-old conflict with the help of armed drones supplied by the United Arab Emirates, Turkey and Iran. 
  <p class="updated_time"> 10:07 AM CT, Dec. 20 </p> 
@@ -193,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/world/europe/1946-europe-cold-wave.html">1946: Europe Hit By Near-Zero Temperatures</a> NYT: An unseasonable cold wave in many northern parts of the continent resulted in frozen waterways and deep snow. 
  <p class="updated_time"> 03:13 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59699556?at_medium=RSS&at_campaign=KARANGA">Tortured to death: Myanmar mass killings revealed</a> BBC: A BBC investigation finds evidence Myanmar's military killed 40 villagers in July, torturing some to death. 
- <p class="updated_time"> 11:41 PM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
  <p class="updated_time"> 06:59 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59667645?at_medium=RSS&at_campaign=KARANGA">The world's first octopus farm - should it go ahead?</a> BBC: The world’s first commercial octopus farm is closer to becoming reality - but scientists are up in arms. 
  <p class="updated_time"> 06:16 PM CT, Dec. 19 </p> 
@@ -208,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:21 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/arts/music/hillary-clinton-masterclass.html">How Hillary Clinton's MasterClass Shows a Very 2021 Way to Be</a> NYT: Hillary Clinton delivered an unused election speech. Jennifer Aniston cried at Central Perk. It was a year for watching celebrities reinhabit their past selves. 
  <p class="updated_time"> 07:01 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/22/dems-family-meeting-with-manchin-495537">Dems' family meeting with Manchin</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Dec. 22 </p> 
@@ -318,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/21/politics/scott-perry-january-6-committee/index.html">GOP Rep. Scott Perry declines January 6 committee's request to speak with him</a> CNN: Republican Rep. Scott Perry on Tuesday declined the House January 6 committee's request to speak with him. 
  <p class="updated_time"> 02:31 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/technology/suicide-website-google.html">Lawmakers Urge Big Tech to ‘Mitigate Harm’ of Suicide Site and Seek Justice Inquiry</a> NYT: A House committee sought briefings from search engines whose services might have been leveraged by the site, which has been linked to numerous deaths. Seven House members asked the Justice Department about avenues for investigation. 
- <p class="updated_time"> 01:30 PM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/democrats-tax-plans-525855">Tax hikes still in the mix as Dems scramble to save spending bill</a> Politico: Sen. Joe Manchin continues to cast a skeptical eye at what many Democrats believe to be a centerpiece of their agenda — the more generous version of the Child Tax Credit. 
  <p class="updated_time"> 01:18 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/business/economy/kellogg-union-strike-contract.html">Kellogg Workers Ratify Contract After Being on Strike Since October</a> NYT: Union members had rejected an earlier proposal in early December, prolonging a strike by about 1,400 workers at four cereal plants. 
  <p class="updated_time"> 12:36 PM CT, Dec. 21 </p> 
@@ -378,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/20/politics/lucille-roybal-allard-not-running-reelection/index.html">California Democrat announces she will not seek reelection to Congress</a> CNN: Democratic Rep. Lucille Roybal-Allard of California announced on Monday that she would not run for reelection next year, becoming the latest House Democrat to decide not to seek another term. 
  <p class="updated_time"> 07:46 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/biden-puppy-commander.html">‘Hey, Pal’: Biden Welcomes a New Puppy to the White House</a> NYT: The 3-month-old German shepherd with very large, pointy ears is named Commander. 
- <p class="updated_time"> 07:23 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/scott-perry-january-6-committee.html">For First Time, Jan. 6 Panel Seeks Information From a House Member</a> NYT: The committee is requesting testimony and documents from Representative Scott Perry, a Pennsylvania Republican who was deeply involved in efforts to overturn the election. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 06:51 PM CT, Dec. 20 </p> 
