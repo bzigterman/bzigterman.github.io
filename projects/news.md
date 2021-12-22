@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:23 PM CT, Dec. 22 </p> 
+ <p class="updated_time"> 02:29 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Cases Appear Less Severe, 2 U.K. Studies Say</a> NYT: Experts warned that hospitals could still be flooded, because the variant is so transmissible. The F.D.A. authorized Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
+ <p class="updated_time"> 02:23 PM CT, Dec. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59756344?at_medium=RSS&at_campaign=KARANGA">Chelsea FC owner Roman Abramovich gets apology over Putin claim</a> BBC: HarperCollins apologises to Chelsea FC's owner over allegations he was ordered to buy the club. 
  <p class="updated_time"> 01:53 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests/france-uk-vaccines-children">France will offer Covid vaccinations for children aged 5-11, and other international news.</a> NYT: The measure, which is not mandatory, comes as scientists in Britain advise inoculating young children in certain risk groups. 
  <p class="updated_time"> 01:41 PM CT, Dec. 22 </p> 
@@ -41,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/world/middleeast/vaccine-booster-israel-covid.html">Israel to Administer 4th Round of Covid Vaccines</a> NYT: Israel is believed to be the first country to roll out fourth doses. 
  <p class="updated_time"> 09:41 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/sport/ice-hockey/59760792?at_medium=RSS&at_campaign=KARANGA">NHL will not send players to Beijing Olympics</a> BBC: The National Hockey League (NHL) says it will not send its players to the men's ice hockey tournament at the Beijing Winter Olympics. 
+ <p class="updated_time"> 09:31 AM CT, Dec. 22 </p> 
+ <a href="https://www.wsj.com/articles/u-s-israel-seek-unity-on-containing-irans-nuclear-program-11640189576">U.S., Israel Seek Unity on Containing Iran's Nuclear Program</a> WSJ: President Biden’s national security adviser met with Israeli Prime Minister Naftali Bennett as the two allies sought to present a more united front on Iran’s nuclear program after divisions emerged between the U.S. and Israel. 
  <p class="updated_time"> 09:28 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/middleeast/israel-christmas-covid.html">Covid Spoils Another Christmas in the Holy Land</a> NYT: Israel’s strict border controls have largely barred foreign tourists from entry, but the traditional Jerusalem Santa is managing to bring some local cheer. 
  <p class="updated_time"> 09:20 AM CT, Dec. 22 </p> 
@@ -55,16 +59,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/americas/chile-boric.html">Who Is Gabriel Boric, Chile's Next President?</a> NYT: Mr. Boric, 35, is now the most prominent face of a generation of Chileans who are calling for a break with the past. 
  <p class="updated_time"> 07:20 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59753043?at_medium=RSS&at_campaign=KARANGA">French outcry over academic in Grenoble Islamophobia row</a> BBC: Dozens of academics warn that freedom of expression is at risk after a German professor is suspended. 
- <p class="updated_time"> 06:57 AM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59756344?at_medium=RSS&at_campaign=KARANGA">Chelsea FC owner Roman Abramovich wins apology over Putin claim</a> BBC: HarperCollins apologises to Chelsea FC's owner over allegations he was ordered to buy the club. 
  <p class="updated_time"> 06:36 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066649196/omicron-will-cause-more-infections-but-lower-hospital-rates-analysis-shows">Omicron will cause more infections but lower hospital rates, analysis shows</a> NPR: University of Washington research predicts the omicron wave will infect more than 400,000 people a day in the U.S. when it crests in about six weeks. 
  <p class="updated_time"> 05:36 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59750160?at_medium=RSS&at_campaign=KARANGA">Koalas: Mass deaths in Victoria bring animal cruelty charges</a> BBC: Dozens of koalas were found dead at a partially cleared timber plantation last year in Victoria. 
  <p class="updated_time"> 05:16 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59753535?at_medium=RSS&at_campaign=KARANGA">Brigitte Macron to sue over false claims she was born male</a> BBC: Far-right conspiracy theorists have targeted the French president's wife on social media. 
- <p class="updated_time"> 05:12 AM CT, Dec. 22 </p> 
- <a href="https://www.wsj.com/articles/u-s-israel-seek-unity-on-containing-irans-nuclear-program-11640189576">U.S., Israel Seek Unity on Containing Iran's Nuclear Program</a> WSJ: President Biden’s national security adviser met with Israeli Prime Minister Naftali Bennett as the two allies sought to present a more united front on Iran’s nuclear program after divisions emerged between the U.S. and Israel. 
  <p class="updated_time"> 04:43 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/asia/india-christians-attacked.html">India's Christians Attacked Under Anti-Conversion Laws</a> NYT: “They want to remove us from society,” a Christian farmer said of Hindu extremists. Rising attacks on Christians are part of a broader shift in India, in which minorities feel less safe. 
  <p class="updated_time"> 04:21 AM CT, Dec. 22 </p> 
