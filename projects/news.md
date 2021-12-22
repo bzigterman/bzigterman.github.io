@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:55 AM CT, Dec. 22 </p> 
+ <p class="updated_time"> 06:15 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: England Cuts Isolation Period for People Who Test Positive</a> NYT: The new rule comes as rising case numbers lead to staff shortages in critical sectors, and as other European nations bring in new measures to curb widening outbreaks. Israel offers fourth vaccine doses. 
+ <p class="updated_time"> 05:52 AM CT, Dec. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59753873?at_medium=RSS&at_campaign=KARANGA">Sri Lanka plans to pay off Iran oil debt with tea</a> BBC: The country says it hopes to send Iran $5m worth of tea each month to clear its debt. 
  <p class="updated_time"> 05:36 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59750160?at_medium=RSS&at_campaign=KARANGA">Koalas: Mass deaths in Victoria bring animal cruelty charges</a> BBC: Dozens of koalas were found dead at a partially cleared timber plantation last year in Victoria. 
  <p class="updated_time"> 05:16 AM CT, Dec. 22 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59690317?at_medium=RSS&at_campaign=KARANGA">The Maasai TikTokers wowing Bollywood fans</a> BBC: Tanzanian siblings Kili and Neema Paul lip sync perfectly in Hindi, accruing millions of followers. 
  <p class="updated_time"> 06:07 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59723756?at_medium=RSS&at_campaign=KARANGA">Kerala school uniform: Why some Muslim groups are protesting</a> BBC: Muslim groups in India's Kerala state protest after a government school allows girls to wear trousers. 
- <p class="updated_time"> 06:07 PM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59744280?at_medium=RSS&at_campaign=KARANGA">Mother seals recognise pup's voice at two days old</a> BBC: Elephant seal mums can distinguish their own offspring at just two days old, research shows. 
  <p class="updated_time"> 06:02 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59731003?at_medium=RSS&at_campaign=KARANGA">Saving Kyrgyzstan reindeer from brink of extinction</a> BBC: Kyrgyzstan used to be home to thousands of reindeer but now there are as few as 400 left. 
  <p class="updated_time"> 05:45 PM CT, Dec. 21 </p> 
@@ -208,14 +208,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:01 AM CT, Dec. 22 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2021/12/22/dems-family-meeting-with-manchin-495537">Dems' family meeting with Manchin</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:17 AM CT, Dec. 22 </p> 
+ <a href="https://www.npr.org/2021/12/22/1066642230/bidens-message-shifts-from-mourning-the-dead-to-the-tactical-fight-against-covid">Biden's message shifts from mourning the dead to the tactical fight against COVID</a> NPR: President Biden started 2021 with a memorial for people lost to COVID-19. But his overarching pandemic message has shifted over the course of the year. We look at how and why. 
  <p class="updated_time"> 06:16 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/michael-flynn-sues-capitol-riot-committee-525964">Michael Flynn sues Jan. 6 committee</a> Politico: The lawsuit is the latest in a cascade of litigation by targets of the select committee’s investigation. 
  <p class="updated_time"> 06:12 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/22/schumer-and-manchin-face-off-on-zoom-495536"> Schumer and Manchin face off on Zoom</a> Politico Playbook: And Biden tries to tackle Omicron. 
+ <p class="updated_time"> 06:03 AM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/rescue-money-runs-low-omicron-arrives/index.html">Omicron arrives just as federal Covid aid runs low</a> CNN: Congress has committed nearly $6 trillion since early 2020 to fight Covid-19 and cushion the economic blow from a once-in-century pandemic. 
  <p class="updated_time"> 05:20 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/christmas-supply-chain-biden-525944">The after-Christmas problem on Biden’s mind</a> Politico: The administration aims to address labor and competition issues to help solve long-term snarls in the supply chain. 
- <p class="updated_time"> 05:02 AM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/rescue-money-runs-low-omicron-arrives/index.html">Omicron arrives just as federal Covid aid runs low</a> CNN: Congress has committed nearly $6 trillion since early 2020 to fight Covid-19 and cushion the economic blow from a once-in-century pandemic. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/hospitals-omicron-vaccinating-health-care-workers-525952">Hospitals grapple with Omicron — and legal brawl over vaccinating staff</a> Politico: More than 60,000 patients are hospitalized with Covid-19, according to the CDC, and the numbers are climbing with the highly contagious Omicron strain surging across the country. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
@@ -364,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066169843/how-w-va-politics-affect-sen-manchins-opposition-to-bidens-key-policy-proposal">How W.Va. politics affect Sen. Manchin's opposition to Biden's key policy proposal</a> NPR: NPR's Scott Detrow talks to ProPublica reporter Ken Ward Jr. about the political forces that shaped West Virginia Democratic Sen. Joe Manchin's opposition to President Biden's Build Back Better bill. 
  <p class="updated_time"> 04:16 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066169808/the-environmental-protection-agency-announces-new-vehicle-emission-standards">The Environmental Protection Agency announces new vehicle emission standards</a> NPR: The Biden administration, reversing another Trump rollback, is tightening vehicle fuel mileage standards. It comes as much of Biden's other climate plans are at risk. 
- <p class="updated_time"> 04:16 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066169784/bidens-climate-change-plan-is-stalled-when-manchin-opposes-build-back-better">Biden's climate change plan stalls after Manchin opposes Build Back Better</a> NPR: President Biden campaigned on the most ambitious climate agenda of any major party candidate. But the cornerstone of his plan appears doomed in Congress, rejected by a Democrat from a coal state. 
  <p class="updated_time"> 12:15 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/california-redistricting-midterms-525815">California’s new congressional map boosts Democrats</a> Politico: The final maps were approved late Monday by the state’s independent redistricting commission. 
  <p class="updated_time"> 11:01 PM CT, Dec. 20 </p> 
@@ -458,8 +460,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/15/trump-january-6-obstruction-law-524806">Jan. 6 investigators mull whether Trump violated obstruction law</a> Politico: Rep. Liz Cheney (R-Wyo.) raised the question using precise terminology from the criminal statute that some view as possibly applicable to the former president's actions. 
  <p class="updated_time"> 07:35 AM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/15/house-is-home-for-the-holidays-senate-sticks-around-495473">House is home for the holidays, Senate sticks around</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:19 AM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/15/a-junkies-guide-to-the-2022-midterms-495470"> A junkie’s guide to the 2022 midterms</a> Politico Playbook: And the House votes to hold Mark Meadows in contempt of Congress. 
 
 
 </details>
