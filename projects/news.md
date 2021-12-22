@@ -7,16 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:25 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid News: Scientists Warn Omicron Will Surge and Say Biden’s Plan Is Insufficient</a> NYT: President Biden plans to provide hundreds of millions of tests free to Americans. Israel will administer a fourth round of boosters. 
+ <p class="updated_time"> 04:25 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
+ <p class="updated_time"> 04:11 AM CT, Dec. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59750154?at_medium=RSS&at_campaign=KARANGA">Rogel Aguilera-Mederos: Colorado lorry driver's sentence sparks uproar</a> BBC: The 110-year prison sentence for the Colorado lorry driver sparks calls for leniency and reform. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/world/asia/india-christians-attacked.html">India's Christians Attacked Under Anti-Conversion Laws</a> NYT: “They want to remove us from society,” a Christian farmer said of Hindu extremists. Rising attacks on Christians are part of a broader shift in India, in which minorities feel less safe. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/business/paris-france-inflation-prices.html">At a Paris Market, Costs Rise, Even for the Humble Baguette</a> NYT: Soaring inflation in Europe is starting to squeeze shopkeepers and consumers. Many are preparing for more price increases in the new year. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/world/heat-carbon-emissions-cities.html">Using a City’s Excess Heat to Reduce Emissions</a> NYT: A district in London has developed an innovative way to divert subway heat for buildings to lower carbon emissions. Other cities are getting creative, as well. 
  <p class="updated_time"> 03:47 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59749005?at_medium=RSS&at_campaign=KARANGA">Madagascar: Minister 'swims for 12 hours' after helicopter crashes at sea</a> BBC: Madagascar's police minister was part of a team looking for survivors after a shipwreck. 
  <p class="updated_time"> 03:16 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59747689?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: European nations reinstate restrictions</a> BBC: As the Omicron variant spreads across the continent, countries tighten curbs to brace for another wave. 
  <p class="updated_time"> 03:07 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Is Russia preparing to invade Ukraine? And other questions</a> BBC: What you need to know about Russia's troop build-up along Ukraine's borders. 
- <p class="updated_time"> 03:07 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">Libya Delays Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
- <p class="updated_time"> 02:36 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid News: Scientists Warn Omicron Will Surge and Say Biden’s Plan Is Insufficient</a> NYT: President Biden plans to provide hundreds of millions of tests free to Americans. Israel will administer a fourth round of boosters. 
  <p class="updated_time"> 02:27 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/asia/myanmar-landslide-jade-mine.html">Dozens Feared Dead After Landslide at Jade Mine in Myanmar</a> NYT: An official said one person was killed after more than 70 were swept into a lake by mining waste in Hpakant, the center of the country’s secretive jade industry. 
  <p class="updated_time"> 02:00 AM CT, Dec. 22 </p> 
@@ -183,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/world/europe/1946-europe-cold-wave.html">1946: Europe Hit By Near-Zero Temperatures</a> NYT: An unseasonable cold wave in many northern parts of the continent resulted in frozen waterways and deep snow. 
  <p class="updated_time"> 03:13 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59699556?at_medium=RSS&at_campaign=KARANGA">Tortured to death: Myanmar mass killings revealed</a> BBC: A BBC investigation finds evidence Myanmar's military killed 40 villagers in July, torturing some to death. 
- <p class="updated_time"> 02:52 AM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: More than 200 people are now believed to have been killed by the storm. 
  <p class="updated_time"> 11:41 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
  <p class="updated_time"> 10:36 PM CT, Dec. 19 </p> 
@@ -195,12 +203,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59674930?at_medium=RSS&at_campaign=KARANGA">What is the metaverse?</a> BBC: From virtual versions of ourselves to augmented reality, we break down what the metaverse is. 
  <p class="updated_time"> 06:01 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59719323?at_medium=RSS&at_campaign=KARANGA">Myanmar: BBC investigates military's mass killings</a> BBC: Eyewitnesses and survivors say that soldiers rounded up villagers before separating the men and killing them. 
- <p class="updated_time"> 02:05 PM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/world/europe/uk-lockdown-omicron-covid-boris-johnson.html">U.K. Weighing Lockdown Amid an Omicron Wave and Political Turmoil</a> NYT: Britain’s health secretary said on Sunday he wouldn’t rule out more restrictions before Christmas, but the prime minister would most likely face sharp pushback from his own party. 
- <p class="updated_time"> 11:59 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/world/asia/sikh-temples-lynching.html">2 Lynchings Reported at Sikh Temples in India</a> NYT: Enraged mobs attacked men they linked to acts of sacrilege, one at the Golden Temple, the holiest shrine for Sikhs. 
- <p class="updated_time"> 11:10 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/19/world/middleeast/hamas-israel-gaza-war.html">Hamas, Claiming Victory Over Israel, Is Stuck in Same Old Cycle</a> NYT: Seven months after a war with Israel, hundreds are dead but otherwise little has changed. It’s a familiar pattern. 
 
 
 </details>
@@ -210,8 +212,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/dan-crenshaw-conservatives-come-correct-525829">Dan Crenshaw to his fellow conservatives: Come 'correct'</a> Politico: The combat veteran often voted with Donald Trump but doesn't act Trumpishly. And he'll slam other Republicans when he feels he must. 
+ <p class="updated_time"> 04:10 AM CT, Dec. 22 </p> 
+ <a href="https://www.npr.org/2021/12/22/1066642237/50-years-ago-this-week-president-nixon-signed-the-national-cancer-act">50 years ago this week President Nixon signed the National Cancer Act</a> NPR: Five decades ago, the National Cancer Act became law. What did it take for cancer to go from an unmentionable disease to among the most visible and best-funded areas of medicine? 
+ <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/senate-democratic-candidates-manchin-2022/index.html">Senate hopefuls use frustration with Manchin to woo Democratic voters</a> CNN: To Democrats eager to become senators in 2023, the Senate is plainly broken and West Virginia Sen. Joe Manchin's power over President Joe Biden's Build Back Better plan is proof. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
+ <a href="https://www.npr.org/2021/12/22/1065136333/in-2021-climate-ambitions-soared-and-crashed-in-the-u-s-and-around-the-world">In 2021, climate ambitions soared and crashed in the U.S. and around the world</a> NPR: President Biden's lofty domestic goals were brought down to earth by congressional opposition, notably from one Democratic senator. International efforts to fight planetary warming also fell short. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/business/christmas-gifts-delivery-supply-chain.html">Why Christmas Gifts Are Arriving on Time This Year</a> NYT: Fears that a disrupted supply chain could wreak havoc on the logistics industry over the holiday turned out to be wrong as many Americans ordered early and shopped in stores. 
  <p class="updated_time"> 11:57 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/health/omicron-covid-biden-scientists.html">Omicron Will Surge Despite Biden’s New Plan, Scientists Say</a> NYT: Public health experts fear that the highly contagious variant cannot be stopped without harsh measures that the public will no longer tolerate. 
+ <p class="updated_time"> 11:03 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/joe-biden-covid-politics-omicron/index.html">The political vise tightens on Biden as he faces a Covid storm</a> CNN: President Joe Biden stepped before the podium Tuesday in an impossible political bind -- attempting to assure vaccinated Americans that they don't need to cancel their holiday plans as he confronts a fast-growing Covid surge that is likely to further disrupt American life as many more workers call out sick. 
  <p class="updated_time"> 10:56 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/schumer-floor-vote-biden-megabill-525963">Schumer vows a floor vote on Biden's $1.7T megabill next month</a> Politico: Sen. Joe Manchin (D-W.Va.) joined the virtual caucus call and addressed colleagues at the beginning, days after nixing the House-passed version of the bill. 
  <p class="updated_time"> 10:02 PM CT, Dec. 21 </p> 
@@ -346,10 +358,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066169808/the-environmental-protection-agency-announces-new-vehicle-emission-standards">The Environmental Protection Agency announces new vehicle emission standards</a> NPR: The Biden administration, reversing another Trump rollback, is tightening vehicle fuel mileage standards. It comes as much of Biden's other climate plans are at risk. 
  <p class="updated_time"> 04:16 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066169784/bidens-climate-change-plan-is-stalled-when-manchin-opposes-build-back-better">Biden's climate change plan stalls after Manchin opposes Build Back Better</a> NPR: President Biden campaigned on the most ambitious climate agenda of any major party candidate. But the cornerstone of his plan appears doomed in Congress, rejected by a Democrat from a coal state. 
- <p class="updated_time"> 04:16 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066169749/morning-news-brief">News brief: Biden speech, COVID testing critique, Pentagon extremism rules</a> NPR: President Biden addresses the Omicron variant in a speech Tuesday. Some health officials say Biden has fallen short on COVID testing. The Pentagon is updating its policies on extremism in its ranks. 
- <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1065337316/south-portland-mayor-somali-american">Deqa Dhalac is the first Somali-American mayor in the United States</a> NPR: After fleeing Somalia some 30 years ago, Dhalac became this country's first Somali-American mayor earlier this month, elected in a city that's 90% white. 
  <p class="updated_time"> 12:15 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/california-redistricting-midterms-525815">California’s new congressional map boosts Democrats</a> Politico: The final maps were approved late Monday by the state’s independent redistricting commission. 
  <p class="updated_time"> 11:01 PM CT, Dec. 20 </p> 
@@ -366,10 +374,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 06:51 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/omicron-dominant-covid-strain-cdc-525801">Omicron now the dominant Covid strain in U.S., CDC says</a> Politico: The White House has urged vaccinations and booster shots to combat the new variant. 
- <p class="updated_time"> 06:39 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/haitian-migrants-biden-administration-lawsuit/index.html">Group of Haitian migrants sue Biden administration over poor treatment</a> CNN: A group of Haitian migrants is suing the Biden administration over its treatment of migrants, recounting in detail squalid conditions at a makeshift camp in Del Rio, Texas, this year and confrontations with officers on horseback, according to a lawsuit filed Monday. 
- <p class="updated_time"> 06:36 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/jan-6-committee-trump-criminal-referral.html">Jan. 6 Committee Weighs Possibility of Criminal Referrals</a> NYT: The House panel is examining whether there is enough evidence to recommend that the Justice Department pursue cases against Donald J. Trump and others. 
  <p class="updated_time"> 04:36 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/biden-and-manchin-speak-525788">Biden and Manchin speak</a> Politico: The two connected and there is a sense that talks around Build Back Better aren't done yet. 
  <p class="updated_time"> 02:25 PM CT, Dec. 20 </p> 
@@ -378,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/manchin-build-back-better-redo-525747">Manchin to Dems: Redo the whole thing, maybe I'll vote for it</a> Politico: The West Virginia senator wants a new bill that goes through Senate committees and focuses on rolling back the 2017 Trump tax cuts. 
  <p class="updated_time"> 11:49 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, the Florida Democrat didn’t rule out a future run for a different public role. 
- <p class="updated_time"> 11:10 AM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/biden-labor-shortage/index.html">Biden to make 20,000 additional guest-worker visas available this winter amid labor shortages</a> CNN: The Biden administration will make an additional 20,000 seasonal, guest-worker visas available for the winter season for the first time, the Department of Homeland Security announced Monday. 
  <p class="updated_time"> 07:47 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/moderna-booster-omicron-525723">Moderna says its booster raised antibody levels against Omicron</a> Politico: A standard 50-microgram boost raised antibody levels about 37-fold higher than pre-boost levels 29 days after the shot was administered. 
  <p class="updated_time"> 07:12 AM CT, Dec. 20 </p> 
