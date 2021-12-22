@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:14 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid News: Scientists Warn Omicron Will Surge and Say Biden’s Plan Is Insufficient</a> NYT: President Biden plans to provide hundreds of millions of tests free to Americans. Israel will administer a fourth round of boosters. 
+ <p class="updated_time"> 11:59 PM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59723344?at_medium=RSS&at_campaign=KARANGA">Myanmar: At least one dead, 70 missing in jade mine landslide</a> BBC: Most of the victims are believed to be illegal jade miners prospecting for the semi-precious stone. 
  <p class="updated_time"> 11:50 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59751702?at_medium=RSS&at_campaign=KARANGA">Covid: Australian trial tests blood thinner as nasal spray</a> BBC: The drug heparin could be used as a nasal spray protection if a trial shows promise, scientists say. 
- <p class="updated_time"> 11:41 PM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59723344?at_medium=RSS&at_campaign=KARANGA">Myanmar: At least one dead, 70 missing in jade mine landslide</a> BBC: Most of the victims are believed to be illegal jade miners prospecting for the semi-precious stone. 
  <p class="updated_time"> 10:55 PM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59723343?at_medium=RSS&at_campaign=KARANGA">Charles Lieber: Harvard professor found guilty of hiding ties to Chinese program</a> BBC: The Harvard scientist reportedly received $1.5m from a Chinese university, on top of his monthly pay. 
- <p class="updated_time"> 10:45 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid News: Scientists Warn Omicron Will Surge and Say Biden’s Plan Is Insufficient</a> NYT: President Biden plans to provide hundreds of millions of tests free to Americans. Israel will administer a fourth round of boosters. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59723343?at_medium=RSS&at_campaign=KARANGA">Charles Lieber: Harvard professor guilty of hiding ties to Chinese programme</a> BBC: The Harvard scientist reportedly received $1.5m from a Chinese university, on top of his monthly pay. 
  <p class="updated_time"> 10:08 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/asia/india-water-modi.html">India's Modi Brings Tap Water to Millions as Supplies Shrink</a> NYT: The ambitious project to meet a dire need shows Prime Minister Narendra Modi’s strengths and helps explain his popularity despite a weakened economy. 
  <p class="updated_time"> 09:30 PM CT, Dec. 21 </p> 
@@ -191,6 +191,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/world/asia/philippines-super-typhoon-rai-odette.html">Super Typhoon Rai's Death Toll in Philippines Is Climbing</a> NYT: More than 200 people are now believed to have been killed by the storm. 
  <p class="updated_time"> 11:41 PM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html">Peng Shuai, Chinese Tennis Player, Denies Sexual Assault Claim</a> NYT: Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.” 
+ <p class="updated_time"> 10:36 PM CT, Dec. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59722801?at_medium=RSS&at_campaign=KARANGA">Chile election: Laser shone at Gabriel Boric during victory speech</a> BBC: The bouncing green light did not seem to faze Gabriel Boric as he spoke to supporters in Santiago. 
  <p class="updated_time"> 06:59 PM CT, Dec. 19 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59667645?at_medium=RSS&at_campaign=KARANGA">The world's first octopus farm - should it go ahead?</a> BBC: The world’s first commercial octopus farm is closer to becoming reality - but scientists are up in arms. 
  <p class="updated_time"> 06:16 PM CT, Dec. 19 </p> 
