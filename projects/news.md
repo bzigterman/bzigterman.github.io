@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:33 PM CT, Dec. 22 </p> 
+ <p class="updated_time"> 01:44 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Cases Appear Less Severe, 2 U.K. Studies Say</a> NYT: Experts warned that hospitals could still be flooded, because the variant is so transmissible. The F.D.A. authorized Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
- <p class="updated_time"> 01:33 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/world/rikers-nyc-jails-virus.html">Virus Cases Spike in New York City Jails</a> NYT: “The risks to the human beings in our custody are at a crisis level,” the correction commissioner wrote in a letter to lawyers and judges. 
+ <p class="updated_time"> 01:41 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/us/california-booster-mandate-feb-1.html">California Requires Health Workers to Get Boosters by Feb. 1</a> NYT: Gov. Gavin Newsom said that more than half of the sequenced cases in the state have been identified as the Omicron variant, but the real proportion is probably higher. 
+ <p class="updated_time"> 01:37 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/world/rikers-nyc-jails-covid.html">Covid Cases Spike in New York City Jails</a> NYT: “The risks to the human beings in our custody are at a crisis level,” the correction commissioner wrote in a letter to lawyers and judges. 
  <p class="updated_time"> 01:16 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
  <p class="updated_time"> 01:00 PM CT, Dec. 22 </p> 
@@ -43,7 +45,7 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/nyregion/new-york-health-commissioner.html">N.Y.C. Health Commissioner to Stay On Until March, Adams Says</a> NYT: The commissioner, Dr. Dave A. Chokshi, will continue to run the health department after Eric Adams becomes mayor on Jan. 1, as the Omicron variant surges. Dr. Ashwin Vasan will succeed Dr. Chokshi in mid-March. 
  <p class="updated_time"> 09:01 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1064546215/pinata-mexico-posadas-celebration">In Mexico, piñatas are a Christmas essential full of history, art and treats</a> NPR: Piñatas are a common element in parties across different countries, but especially in Mexico around Christmas time, and the story of their origin combines cultures, traditions and religions. 
- <p class="updated_time"> 07:50 AM CT, Dec. 22 </p> 
+ <p class="updated_time"> 08:40 AM CT, Dec. 22 </p> 
  <a href="https://www.wsj.com/articles/to-limit-omicron-singapore-freezes-ticket-sales-for-quarantine-free-travel-11640165362">South Africa Sees Milder Disease From Omicron</a> WSJ: Israel is set to offer a fourth dose of the Covid-19 vaccine to older people, while South African scientists reported further evidence that the Omicron variant causes significantly less serious disease than earlier strains. 
  <p class="updated_time"> 07:48 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59755677?at_medium=RSS&at_campaign=KARANGA">Libya elections: Delay called for in presidential poll</a> BBC: The electoral commission says the landmark election should be postponed for a month. 
