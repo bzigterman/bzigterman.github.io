@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:57 AM CT, Dec. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59756344?at_medium=RSS&at_campaign=KARANGA">Chelsea FC owner Roman Abramovich wins apology over Putin claim</a> BBC: HarperCollins apologises to Chelsea FC's owner over allegations he was ordered to buy the club. 
+ <p class="updated_time"> 06:56 AM CT, Dec. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59754152?at_medium=RSS&at_campaign=KARANGA">Yemen war: Funding crisis forces UN to cut food assistance</a> BBC: Eight million people going hungry in the war-torn country will get barely half of the daily ration. 
+ <p class="updated_time"> 06:36 AM CT, Dec. 22 </p> 
+ <a href="https://www.npr.org/2021/12/22/1066649196/omicron-will-cause-more-infections-but-lower-hospital-rates-analysis-shows">Omicron will cause more infections, but lower hospital rates, analysis shows</a> NPR: University of Washington research projects the omicron wave will infect more than 400,000 people a day in the U.S. when it crests in about six weeks. 
  <p class="updated_time"> 06:15 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: England Cuts Isolation Period for People Who Test Positive</a> NYT: The new rule comes as rising case numbers lead to staff shortages in critical sectors, and as other European nations bring in new measures to curb widening outbreaks. Israel offers fourth vaccine doses. 
  <p class="updated_time"> 05:52 AM CT, Dec. 22 </p> 
@@ -28,13 +34,11 @@ permalink: /projects/news/
  <p class="updated_time"> 04:11 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59750154?at_medium=RSS&at_campaign=KARANGA">Rogel Aguilera-Mederos: Colorado lorry driver's sentence sparks uproar</a> BBC: The 110-year prison sentence for the Colorado lorry driver sparks calls for leniency and reform. 
  <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/business/paris-france-inflation-prices.html">At a Paris Market, Costs Rise, Even for the Humble Baguette</a> NYT: Soaring inflation in Europe is starting to squeeze shopkeepers and consumers. Many are preparing for more price increases in the new year. 
+ <a href="https://www.nytimes.com/2021/12/22/business/paris-france-inflation-prices.html">Inflation Forces Parisian Vendors to Raise Prices on Staples</a> NYT: Soaring inflation in Europe is starting to squeeze shopkeepers and consumers. Many are preparing for more price increases in the new year. 
  <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/heat-carbon-emissions-cities.html">Using a City’s Excess Heat to Reduce Emissions</a> NYT: A district in London has developed an innovative way to divert subway heat for buildings to lower carbon emissions. Other cities are getting creative, as well. 
  <p class="updated_time"> 03:59 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/middleeast/vaccine-booster-israel-covid.html">Israel to Administer 4th Round of Covid Vaccines</a> NYT: Israel is believed to be the first country to roll out fourth doses. 
- <p class="updated_time"> 03:47 AM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59749005?at_medium=RSS&at_campaign=KARANGA">Madagascar: Minister 'swims for 12 hours' after helicopter crashes at sea</a> BBC: Madagascar's police minister was part of a team looking for survivors after a shipwreck. 
  <p class="updated_time"> 03:16 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59747689?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: European nations reinstate restrictions</a> BBC: As the Omicron variant spreads across the continent, countries tighten curbs to brace for another wave. 
  <p class="updated_time"> 03:07 AM CT, Dec. 22 </p> 
@@ -49,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59753026?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: BBC correspondent shows damage on Siargao Island</a> BBC: Take a look at the damage on Siargao Island after a powerful storm kills hundreds in the Philippines. 
  <p class="updated_time"> 12:51 AM CT, Dec. 22 </p> 
  <a href="https://www.wsj.com/articles/to-limit-omicron-singapore-freezes-ticket-sales-for-quarantine-free-travel-11640165362">Israel to Offer Fourth Covid-19 Shot to Over 60s</a> WSJ: Health officials expect the Omicron variant to surge through the country in the coming weeks—including among the vaccinated—and said that research showed protection provided by the booster shot begins to wane within three to four months. 
- <p class="updated_time"> 11:50 PM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59751702?at_medium=RSS&at_campaign=KARANGA">Covid: Australian trial tests blood thinner as nasal spray</a> BBC: A blood-thinning drug could be sprayed as extra protection if a trial shows promise, scientists say. 
  <p class="updated_time"> 10:08 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/asia/india-water-modi.html">India's Modi Brings Tap Water to Millions as Supplies Shrink</a> NYT: The ambitious project to meet a dire need shows Prime Minister Narendra Modi’s strengths and helps explain his popularity despite a weakened economy. 
  <p class="updated_time"> 08:55 PM CT, Dec. 21 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/codeswitch/2021/12/20/255821310/the-many-contradictions-of-latin-music">The many contradictions of 'Latin Music'</a> NPR: For some, the term 'Latin music' is too broad to be meaningful. For others, it invokes a sense of pride and resistance. To help break it down, we spoke to an expert on race and music and pop culture. 
  <p class="updated_time"> 11:17 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/africa/drones-ethiopia-war-turkey-emirates.html">Foreign Drones Tip the Balance in Ethiopia’s Civil War</a> NYT: Prime Minister Abiy Ahmed pulled off a stunning reversal in the year-old conflict with the help of armed drones supplied by the United Arab Emirates, Turkey and Iran. 
- <p class="updated_time"> 10:21 AM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1064510598/afghanistan-music-institute-taliban-doha-portugal">Afghan music students escaped the Taliban and are beginning their new lives abroad</a> NPR: Students and faculty with the Afghanistan National Institute of Music flew last week from Doha to Lisbon, where they will start their new lives and reconstitute their celebrated academy in exile. 
  <p class="updated_time"> 10:07 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/arts/design/parthenon-marbles-restitution.html">As Europe Returns Artifacts, Britain Stays Silent on the Parthenon Marbles</a> NYT: The Parthenon Marbles in London are likely the world’s most famous disputed museum items. Yet the British government says the sculptures’ fate isn’t its concern. 
  <p class="updated_time"> 09:39 AM CT, Dec. 20 </p> 
@@ -230,6 +230,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/22/trump-alums-david-mccormick-staff-525935">Hope Hicks, other Trump alums join hedge-fund exec's Senate camp</a> Politico: David McCormick's roster of campaign staffers and consultants for the Pennsylvania Senate race includes Hicks, Trump's longtime aide. 
  <p class="updated_time"> 04:10 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066642237/50-years-ago-this-week-president-nixon-signed-the-national-cancer-act">50 years ago this week President Nixon signed the National Cancer Act</a> NPR: Five decades ago, the National Cancer Act became law. What did it take for cancer to go from an unmentionable disease to among the most visible and best-funded areas of medicine? 
+ <p class="updated_time"> 04:10 AM CT, Dec. 22 </p> 
+ <a href="https://www.npr.org/2021/12/22/1066642216/morning-news-brief">News brief: COVID testing, omicron disruptions, stranded migrants</a> NPR: President Biden announces more measures to make free at-home rapid tests available. Because of COVID, the NHL is pausing games. Hundreds of migrants remain trapped at the Belarus-Poland border. 
  <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/senate-democratic-candidates-manchin-2022/index.html">Senate hopefuls use frustration with Manchin to woo Democratic voters</a> CNN: To Democrats eager to become senators in 2023, the Senate is plainly broken and West Virginia Sen. Joe Manchin's power over President Joe Biden's Build Back Better plan is proof. 
  <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066181618/the-white-house-wants-to-focus-on-china-but-russia-continues-to-be-a-distraction">The White House wants to focus on China, but Russia continues to be a distraction</a> NPR: President Biden has worked to focus his foreign policy on China. But provocations from Russia keep pulling him away. 
  <p class="updated_time"> 04:16 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066169843/how-w-va-politics-affect-sen-manchins-opposition-to-bidens-key-policy-proposal">How W.Va. politics affect Sen. Manchin's opposition to Biden's key policy proposal</a> NPR: NPR's Scott Detrow talks to ProPublica reporter Ken Ward Jr. about the political forces that shaped West Virginia Democratic Sen. Joe Manchin's opposition to President Biden's Build Back Better bill. 
- <p class="updated_time"> 04:16 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066169808/the-environmental-protection-agency-announces-new-vehicle-emission-standards">The Environmental Protection Agency announces new vehicle emission standards</a> NPR: The Biden administration, reversing another Trump rollback, is tightening vehicle fuel mileage standards. It comes as much of Biden's other climate plans are at risk. 
  <p class="updated_time"> 12:15 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/california-redistricting-midterms-525815">California’s new congressional map boosts Democrats</a> Politico: The final maps were approved late Monday by the state’s independent redistricting commission. 
  <p class="updated_time"> 11:01 PM CT, Dec. 20 </p> 
