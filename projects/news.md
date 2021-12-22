@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:01 AM CT, Dec. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59749967?at_medium=RSS&at_campaign=KARANGA">Covid-19: Israel plans to give fourth dose of vaccine to over-60s</a> BBC: A second booster would be offered to over-60s and medics as Israel prepares for an Omicron wave. 
+ <p class="updated_time"> 05:01 AM CT, Dec. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59723344?at_medium=RSS&at_campaign=KARANGA">Myanmar: Up to 100 missing in jade mine landslide</a> BBC: Most of the victims are believed to be illegal jade miners prospecting for the semi-precious stone. 
  <p class="updated_time"> 04:43 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/asia/india-christians-attacked.html">India's Christians Attacked Under Anti-Conversion Laws</a> NYT: “They want to remove us from society,” a Christian farmer said of Hindu extremists. Rising attacks on Christians are part of a broader shift in India, in which minorities feel less safe. 
  <p class="updated_time"> 04:36 AM CT, Dec. 22 </p> 
@@ -35,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59723343?at_medium=RSS&at_campaign=KARANGA">Charles Lieber: Harvard professor guilty of hiding ties to Chinese programme</a> BBC: The US scientist reportedly received $1.5m from a Chinese university on top of his monthly pay. 
  <p class="updated_time"> 01:15 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59753026?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: BBC correspondent shows damage on Siargao Island</a> BBC: Take a look at the damage on Siargao Island after a powerful storm kills hundreds in the Philippines. 
- <p class="updated_time"> 11:59 PM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59723344?at_medium=RSS&at_campaign=KARANGA">Myanmar: At least one dead, 70 missing in jade mine landslide</a> BBC: Most of the victims are believed to be illegal jade miners prospecting for the semi-precious stone. 
  <p class="updated_time"> 11:50 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59751702?at_medium=RSS&at_campaign=KARANGA">Covid: Australian trial tests blood thinner as nasal spray</a> BBC: A blood-thinning drug could be sprayed as extra protection if a trial shows promise, scientists say. 
  <p class="updated_time"> 10:45 PM CT, Dec. 21 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59744569?at_medium=RSS&at_campaign=KARANGA">Gaming disorder: Inside the clinic helping addicted teens</a> BBC: BBC News has exclusive access to the UK's only facility for video game addiction. 
  <p class="updated_time"> 08:38 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59750613?at_medium=RSS&at_campaign=KARANGA">McDonald's faces a French fries shortage in Japan</a> BBC: The firm's potato deliveries from North America are being delayed by supply chain disruptions. 
- <p class="updated_time"> 07:37 PM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59749967?at_medium=RSS&at_campaign=KARANGA">Covid-19: Israel could become the first country to give four vaccine doses</a> BBC: A fourth booster would be offered to over-60s and health workers as Israel prepares for Omicron wave. 
  <p class="updated_time"> 06:11 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59690317?at_medium=RSS&at_campaign=KARANGA">The Maasai TikTokers wowing Bollywood fans</a> BBC: Tanzanian siblings Kili and Neema Paul lip sync perfectly in Hindi, accruing millions of followers. 
  <p class="updated_time"> 06:07 PM CT, Dec. 21 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:12 AM CT, Dec. 22 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/22/schumer-and-manchin-face-off-on-zoom-495536"> Schumer and Manchin face off on Zoom</a> Politico Playbook: And Biden tries to tackle Omicron. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/dan-crenshaw-conservatives-come-correct-525829">Dan Crenshaw to his fellow conservatives: Come 'correct'</a> Politico: The combat veteran often voted with Donald Trump but doesn't act Trumpishly. And he'll slam other Republicans when he feels he must. 
  <p class="updated_time"> 04:10 AM CT, Dec. 22 </p> 
