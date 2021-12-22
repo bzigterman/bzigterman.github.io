@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:05 PM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59723344?at_medium=RSS&at_campaign=KARANGA">Myanmar: At least 70 missing in jade mine landslide</a> BBC: Most of the victims are believed to be illegal jade miners prospecting for the semi-precious stone. 
+ <p class="updated_time"> 10:55 PM CT, Dec. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59723343?at_medium=RSS&at_campaign=KARANGA">Charles Lieber: Harvard professor found guilty of hiding ties to Chinese program</a> BBC: The Harvard scientist reportedly received $1.5m from a Chinese university, on top of his monthly pay. 
  <p class="updated_time"> 10:45 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/live/2021/12/21/world/omicron-covid-vaccine-tests">Covid News: Scientists Warn Omicron Will Surge and Say Biden’s Plan Is Insufficient</a> NYT: President Biden plans to provide hundreds of millions of tests free to Americans. Israel will administer a fourth round of boosters. 
  <p class="updated_time"> 10:08 PM CT, Dec. 21 </p> 
@@ -75,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59749146?at_medium=RSS&at_campaign=KARANGA">Malaysia hit by the worst floods in decades</a> BBC: At least 14 people have died and tens of thousands evacuated their homes after torrential rain. 
  <p class="updated_time"> 12:16 PM CT, Dec. 21 </p> 
  <a href="https://www.wsj.com/articles/as-omicron-takes-over-in-the-u-s-more-curbs-world-wide-11640091714">Biden Is Considering Lifting Travel Ban on Southern African Countries</a> WSJ: The president imposed the ban last month as a way to slow the spread of the Omicron variant to the U.S., “but we’re past that now,” he said Tuesday. 
- <p class="updated_time"> 12:12 PM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/business-59732940?at_medium=RSS&at_campaign=KARANGA">OnlyFans founder is making way for firm's marketing chief</a> BBC: The founder of the content subscription site is stepping aside to focus on new endeavours. 
  <p class="updated_time"> 11:28 AM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59748169?at_medium=RSS&at_campaign=KARANGA">Spain police thwart raffle of Christmas hamper stuffed with drugs</a> BBC: Police have arrested two men allegedly trying to raffle off a "narco-basket" stuffed with drugs. 
  <p class="updated_time"> 11:23 AM CT, Dec. 21 </p> 
@@ -201,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/19/world/asia/sikh-temples-lynching.html">2 Lynchings Reported at Sikh Temples in India</a> NYT: Enraged mobs attacked men they linked to acts of sacrilege, one at the Golden Temple, the holiest shrine for Sikhs. 
  <p class="updated_time"> 11:10 AM CT, Dec. 19 </p> 
  <a href="https://www.nytimes.com/2021/12/19/world/middleeast/hamas-israel-gaza-war.html">Hamas, Claiming Victory Over Israel, Is Stuck in Same Old Cycle</a> NYT: Seven months after a war with Israel, hundreds are dead but otherwise little has changed. It’s a familiar pattern. 
- <p class="updated_time"> 08:45 AM CT, Dec. 19 </p> 
- <a href="https://www.nytimes.com/2021/12/18/world/biden-national-address-on-omicron.html">Biden to Address Nation About Omicron on Tuesday</a> NYT: The remarks are expected to detail how the United States will respond to the latest pandemic challenge. 
 
 
 </details>
