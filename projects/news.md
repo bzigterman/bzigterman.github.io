@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:23 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: England Cuts Isolation Period for People Who Test Positive</a> NYT: The new rule comes as rising case numbers lead to staff shortages in critical sectors, and as other European nations bring in new measures to curb widening outbreaks. Israel offers fourth vaccine doses. 
+ <p class="updated_time"> 07:03 AM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
  <p class="updated_time"> 06:57 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59756344?at_medium=RSS&at_campaign=KARANGA">Chelsea FC owner Roman Abramovich wins apology over Putin claim</a> BBC: HarperCollins apologises to Chelsea FC's owner over allegations he was ordered to buy the club. 
  <p class="updated_time"> 06:56 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59754152?at_medium=RSS&at_campaign=KARANGA">Yemen war: Funding crisis forces UN to cut food assistance</a> BBC: Eight million people going hungry in the war-torn country will get barely half of the daily ration. 
  <p class="updated_time"> 06:36 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066649196/omicron-will-cause-more-infections-but-lower-hospital-rates-analysis-shows">Omicron will cause more infections, but lower hospital rates, analysis shows</a> NPR: University of Washington research projects the omicron wave will infect more than 400,000 people a day in the U.S. when it crests in about six weeks. 
- <p class="updated_time"> 06:15 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: England Cuts Isolation Period for People Who Test Positive</a> NYT: The new rule comes as rising case numbers lead to staff shortages in critical sectors, and as other European nations bring in new measures to curb widening outbreaks. Israel offers fourth vaccine doses. 
  <p class="updated_time"> 05:52 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-59753873?at_medium=RSS&at_campaign=KARANGA">Sri Lanka plans to pay off Iran oil debt with tea</a> BBC: The country says it hopes to send Iran $5m worth of tea each month to clear its debt. 
  <p class="updated_time"> 05:36 AM CT, Dec. 22 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/world/asia/india-christians-attacked.html">India's Christians Attacked Under Anti-Conversion Laws</a> NYT: “They want to remove us from society,” a Christian farmer said of Hindu extremists. Rising attacks on Christians are part of a broader shift in India, in which minorities feel less safe. 
  <p class="updated_time"> 04:36 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
- <p class="updated_time"> 04:25 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
  <p class="updated_time"> 04:11 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59750154?at_medium=RSS&at_campaign=KARANGA">Rogel Aguilera-Mederos: Colorado lorry driver's sentence sparks uproar</a> BBC: The 110-year prison sentence for the Colorado lorry driver sparks calls for leniency and reform. 
  <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
@@ -45,14 +45,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Is Russia preparing to invade Ukraine? And other questions</a> BBC: What you need to know about Russia's troop build-up along Ukraine's borders. 
  <p class="updated_time"> 02:27 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/asia/myanmar-landslide-jade-mine.html">Dozens Feared Dead After Landslide at Jade Mine in Myanmar</a> NYT: An official said one person was killed after more than 70 were swept into a lake by mining waste in Hpakant, the center of the country’s secretive jade industry. 
+ <p class="updated_time"> 02:27 AM CT, Dec. 22 </p> 
+ <a href="https://www.wsj.com/articles/to-limit-omicron-singapore-freezes-ticket-sales-for-quarantine-free-travel-11640165362">South Africa Sees Milder Disease From Omicron</a> WSJ: Israel is set to offer a fourth dose of the Covid-19 vaccine to older people, while South African scientists reported further evidence that the Omicron variant causes significantly less serious disease than earlier strains. 
  <p class="updated_time"> 02:00 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/business/china-catl-electric-car-batteries.html">How China's CATL Became the Top Electric Car Battery Maker</a> NYT: Beijing gave CATL lavish subsidies, a captive market of buyers and soft regulatory treatment, helping it to control a crucial technology of the future. 
  <p class="updated_time"> 01:34 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59723343?at_medium=RSS&at_campaign=KARANGA">Charles Lieber: Harvard professor guilty of hiding ties to Chinese programme</a> BBC: The US scientist reportedly received $1.5m from a Chinese university on top of his monthly pay. 
  <p class="updated_time"> 01:15 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59753026?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: BBC correspondent shows damage on Siargao Island</a> BBC: Take a look at the damage on Siargao Island after a powerful storm kills hundreds in the Philippines. 
- <p class="updated_time"> 12:51 AM CT, Dec. 22 </p> 
- <a href="https://www.wsj.com/articles/to-limit-omicron-singapore-freezes-ticket-sales-for-quarantine-free-travel-11640165362">Israel to Offer Fourth Covid-19 Shot to Over 60s</a> WSJ: Health officials expect the Omicron variant to surge through the country in the coming weeks—including among the vaccinated—and said that research showed protection provided by the booster shot begins to wane within three to four months. 
  <p class="updated_time"> 10:08 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/asia/india-water-modi.html">India's Modi Brings Tap Water to Millions as Supplies Shrink</a> NYT: The ambitious project to meet a dire need shows Prime Minister Narendra Modi’s strengths and helps explain his popularity despite a weakened economy. 
  <p class="updated_time"> 08:55 PM CT, Dec. 21 </p> 
@@ -292,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/us/politics/john-thune-senate-retirement.html">John Thune, a Likely Successor to Mitch McConnell, Weighs Retirement</a> NYT: Mr. Thune, the No. 2 Republican in the Senate, is considering giving up his South Dakota seat because of both family concerns and Donald Trump’s enduring hold on the G.O.P. 
  <p class="updated_time"> 04:12 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/phil-waldron-jan-6.html">A Retired Colonel’s Unlikely Role in Pushing Baseless Election Claims</a> NYT: Phil Waldron, who owns a bar in Texas, is a case study in how pro-Trump fringe players managed to get a hearing for conspiracy theories at the highest level during the presidential transition. 
- <p class="updated_time"> 04:06 PM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/biden-reverses-prison-525884">Biden Justice Department reverses on returning federal convicts on home detention to prison</a> Politico: Prisoners who have been on home confinement during pandemic won't have to return to prison. 
  <p class="updated_time"> 03:56 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/robert-lemke-capitol-riot.html">Robert Lemke Sentenced to 3 Years Over Threats to Journalists and Politicians</a> NYT: The same day that Trump supporters stormed the Capitol, Robert Lemke told a congressman’s brother that he was with “armed members near your home,” prosecutors said. 
  <p class="updated_time"> 03:49 PM CT, Dec. 21 </p> 
