@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:10 PM CT, Dec. 22 </p> 
+ <p class="updated_time"> 12:36 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: New Cases Fall in South Africa’s Omicron Surge</a> NYT: Britain reported more than 100,000 new cases in a single day, and staff shortages expand at England’s hospitals, clinics, rail services, fire departments and ambulance services. Israel offers fourth vaccine doses. 
  <p class="updated_time"> 12:09 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/nyregion/citymd-temporary-closings-covid.html">CityMD Temporarily Shuts 19 Locations in New York and New J</a> NYT: The closures began on Wednesday, and CityMD has not said how long they will last. 
+ <a href="https://www.nytimes.com/2021/12/22/nyregion/citymd-temporary-closings-covid.html">CityMD Temporarily Shuts 19 Locations Amid Urgent Testing Demands</a> NYT: The closures began on Wednesday, and CityMD has not said how long they will last. 
  <p class="updated_time"> 12:06 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
  <p class="updated_time"> 11:33 AM CT, Dec. 22 </p> 
@@ -177,20 +177,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/20/1065979944/covid-royal-caribbean-symphony-of-the-seas-cruise-ship">48 tested positive for COVID-19 on Royal Caribbean cruise ship docking in Miami</a> NPR: The seven-night cruise ended in Miami on Saturday after making three stops in the Caribbean. More than 6,000 people were on the ship, which required testing and those 12 and over to be vaccinated. 
  <p class="updated_time"> 02:48 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/nyregion/nyc-omicron-de-blasio.html">NYC Mayor: City Needs to Move Faster to Fight Omicron </a> NYT: In a news conference, Bill de Blasio said the next surge would likely be large but temporary. 
- <p class="updated_time"> 01:47 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/sports/rafael-nadal-covid.html">Rafael Nadal Tests Positive for the Coronavirus</a> NYT: The Spanish tennis star said he was isolating at home. The test further jeopardized his hopes of playing in next month’s Australian Open. 
  <p class="updated_time"> 01:18 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1065865472/omicron-holiday-travel-gatherings-restrictions-world">As omicron surges, nations announce rules on gatherings and travel ahead of holidays</a> NPR: European nations have implemented a wave of new restrictions as case numbers rise. And Israel has added the U.S. and Canada to its "red list" of countries that citizens are barred from traveling to. 
- <p class="updated_time"> 12:18 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/world/europe/pope-domestic-violence-almost-satanic.html">Pope Francis Says High Number of Domestic Violence Cases Is ‘Almost Satanic’</a> NYT: Francis once again decried the scourge of domestic abuse, which has increased during the months of pandemic lockdown. 
  <p class="updated_time"> 11:17 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/africa/drones-ethiopia-war-turkey-emirates.html">Foreign Drones Tip the Balance in Ethiopia’s Civil War</a> NYT: Prime Minister Abiy Ahmed pulled off a stunning reversal in the year-old conflict with the help of armed drones supplied by the United Arab Emirates, Turkey and Iran. 
  <p class="updated_time"> 10:07 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/arts/design/parthenon-marbles-restitution.html">As Europe Returns Artifacts, Britain Stays Silent on the Parthenon Marbles</a> NYT: The Parthenon Marbles in London are likely the world’s most famous disputed museum items. Yet the British government says the sculptures’ fate isn’t its concern. 
  <p class="updated_time"> 09:39 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59728144?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Bruce Springsteen's back catalogue - who bought it?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
- <p class="updated_time"> 07:27 AM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/world/middleeast/israel-us-travel-covid.html">Israel Bars Travel to U.S. or Canada as Omicron Surges</a> NYT: The countries were added to Israel’s rapidly growing “red list” as Prime Minister Naftali Bennett’s government tries to slow Omicron’s spread. 
  <p class="updated_time"> 03:13 AM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59699556?at_medium=RSS&at_campaign=KARANGA">Tortured to death: Myanmar mass killings revealed</a> BBC: A BBC investigation finds evidence Myanmar's military killed 40 villagers in July, torturing some to death. 
  <p class="updated_time"> 06:59 PM CT, Dec. 19 </p> 
@@ -206,10 +200,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:56 PM CT, Dec. 22 </p> 
+ <a href="https://www.politico.com/news/2021/12/22/fda-pfizer-covid-pill-525979">FDA authorizes Pfizer's Covid-19 pill</a> Politico: The pill, called Paxlovid, will provide the U.S. with another tool to help fight the virus as the more infectious Omicron variant surges. 
  <p class="updated_time"> 12:45 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/kim-potter-trial-daunte-wright-police-shooting-525976">Jurors at Kim Potter trial resume work Wednesday</a> Politico: If convicted of the most serious charge, the former Brooklyn Center officer would face a sentence of about seven years under state guidelines, though prosecutors have said they will seek more. 
  <p class="updated_time"> 12:31 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/cruz-2024-republican-presidential-nomination-525973">‘The runner-up is almost always the next nominee’: Cruz says he’s well-positioned for 2024</a> Politico: Asked whether he would consider launching another White House bid, the senator responded: “Absolutely. In a heartbeat.” 
+ <p class="updated_time"> 12:30 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/your-money/student-loan-pause.html">Biden Administration Extends Pause on Student Loan Payments</a> NYT: The Biden administration, under pressure from Democratic lawmakers, announced a three-month extension, citing the ongoing pandemic. 
+ <p class="updated_time"> 12:27 PM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/biden-trump-covid-vaccine-booster/index.html">Biden offers rare praise of Trump during Covid speech</a> CNN: President Joe Biden on Tuesday gave credit to the Trump administration for the development of the Covid-19 vaccine and praised his predecessor, Donald Trump, for getting a booster shot -- marking a rare moment where the two men have found common ground since Inauguration Day. 
  <p class="updated_time"> 12:25 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/white-house-to-extend-student-loan-payment-moratorium-525974">White House extends student loan payment freeze</a> Politico: The move comes as the deadline neared for the end of the current moratorium and as another wave of Covid threatens a strong, but fragile, economic recovery. 
  <p class="updated_time"> 12:00 PM CT, Dec. 22 </p> 
@@ -232,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/arts/hillary-clinton-masterclass.html">How Hillary Clinton's MasterClass Shows a Very 2021 Way to Be</a> NYT: Hillary Clinton delivered an unused election speech. Jennifer Aniston cried at Central Perk. It was a year for watching celebrities reinhabit their past selves. 
  <p class="updated_time"> 08:20 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/rescue-money-runs-low-omicron-arrives/index.html">Federal pandemic aid runs dry as businesses deal with Omicron's impact</a> CNN: Congress has committed nearly $6 trillion since early 2020 to fight Covid-19 and cushion the economic blow from a once-in-century pandemic. 
- <p class="updated_time"> 07:47 AM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/biden-trump-covid-vaccine-booster/index.html">Biden offers rare praise of Trump during Covid speech</a> CNN: President Joe Biden on Tuesday gave credit to the Trump administration for the development of the Covid-19 vaccine and praised his predecessor, Donald Trump, for getting a booster shot -- marking a rare moment where the two men have found common ground since Inauguration Day. 
  <p class="updated_time"> 07:37 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/omicron-covid-holiday-plans-what-matters/index.html">Analysis: Omicron prompts new confusion over what's safe and what's not</a> CNN: How worried should you be about the uptick in Covid-19 cases and the emergence of the Omicron variant of the coronavirus? 
  <p class="updated_time"> 07:01 AM CT, Dec. 22 </p> 
@@ -376,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/21/democrats-riled-by-spanish-language-radio-attacks-on-kamala-harris-525787">Democrats riled by Spanish-language radio attacks on Kamala Harris</a> Politico: Political operatives and the radio hosts themselves say the uptick in calls is notable. Who, if anyone, is behind them remains unclear. 
  <p class="updated_time"> 12:15 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/california-redistricting-midterms-525815">California’s new congressional map boosts Democrats</a> Politico: The final maps were approved late Monday by the state’s independent redistricting commission. 
- <p class="updated_time"> 09:16 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/biden-covid-exposure.html">Biden Was in Close Contact With Official Who Tested Positive for Covid</a> NYT: Administration officials acknowledge that as the highly contagious Omicron variant has surged, a cluster of cases have been reported across the administration. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 06:51 PM CT, Dec. 20 </p> 
@@ -394,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/20/are-dems-dreams-deferred-or-dead-495523">Are Dems’ dreams deferred or dead?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/20/the-case-for-why-bbb-is-dead-and-for-why-it-may-not-be-495522"> The case for why BBB is dead — and for why it may not be</a> Politico Playbook: And Rep. Albio Sires (D-N.J.) won’t run for reelection. 
- <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/iowa-caucuses-may-survive-after-all-525629">Dems sour on bid to ditch first-in-the-nation states</a> Politico: Party officials don’t want to project a disunified front with a stormy midterm election season ahead. 
  <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/cdc-covid-omicron-delta-tracking-525621">‘It is embarrassing’: CDC struggles to track Covid cases as Omicron looms</a> Politico: The U.S. was behind other countries in charting the spread of disease in the pandemic’s disastrous early months. It’s still behind as new variants threaten to disrupt the winter. 
  <p class="updated_time"> 07:59 PM CT, Dec. 19 </p> 
