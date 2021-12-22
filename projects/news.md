@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:43 AM CT, Dec. 22 </p> 
+ <p class="updated_time"> 09:50 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: England Cuts Isolation Period for People Who Test Positive</a> NYT: The new rule comes as rising case numbers lead to staff shortages in critical sectors, and as other European nations bring in new measures to curb widening outbreaks. Israel offers fourth vaccine doses. 
  <p class="updated_time"> 09:43 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/middleeast/vaccine-booster-israel-covid.html">Israel to Administer 4th Round of Covid Vaccines</a> NYT: Israel is believed to be the first country to roll out fourth doses. 
+ <p class="updated_time"> 09:41 AM CT, Dec. 22 </p> 
+ <a href="https://www.bbc.co.uk/sport/ice-hockey/59760792?at_medium=RSS&at_campaign=KARANGA">NHL will not send players to Beijing Olympics</a> BBC: The National Hockey League (NHL) says it will not send its players to the men's ice hockey tournament at the Beijing Winter Olympics. 
  <p class="updated_time"> 09:28 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/middleeast/israel-christmas-covid.html">Covid Spoils Another Christmas in the Holy Land</a> NYT: Israel’s strict border controls have largely barred foreign tourists from entry, but the traditional Jerusalem Santa is managing to bring some local cheer. 
- <p class="updated_time"> 09:22 AM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/sport/ice-hockey/59760792?at_medium=RSS&at_campaign=KARANGA">NHL will not send players to Beijing Olympics</a> BBC: The National Hockey League (NHL) says it will not send its players to the men's ice hockey tournament at the Beijing Winter Olympics. 
  <p class="updated_time"> 09:20 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/nyregion/new-york-health-commissioner.html">N.Y.C. Health Commissioner to Stay On Until March, Adams Says</a> NYT: The commissioner, Dr. Dave A. Chokshi, will continue to run the health department after Eric Adams becomes mayor on Jan. 1, as the Omicron variant surges. Dr. Ashwin Vasan will succeed Dr. Chokshi in mid-March. 
  <p class="updated_time"> 09:01 AM CT, Dec. 22 </p> 
