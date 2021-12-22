@@ -1156,15 +1156,15 @@ html {
 <td class="gt_row gt_right">&minus;18&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">1.7M</td>
-<td class="gt_row gt_right gt_striped">918.0K</td>
-<td class="gt_row gt_right gt_striped">&minus;46&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">857.0K</td>
+<td class="gt_row gt_right gt_striped">&minus;50&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">200.0M</td>
 <td class="gt_row gt_right">203.0M</td>
 <td class="gt_row gt_right">+2&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Pct. Fully Vaccinated</td>
-<td class="gt_row gt_right gt_striped">60.2</td>
-<td class="gt_row gt_right gt_striped">61.0</td>
+<td class="gt_row gt_right gt_striped">60.3</td>
+<td class="gt_row gt_right gt_striped">61.1</td>
 <td class="gt_row gt_right gt_striped">+1&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
@@ -1546,15 +1546,15 @@ html {
 <td class="gt_row gt_right gt_striped">&minus;14&percnt;</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
 <td class="gt_row gt_right">34.8M</td>
-<td class="gt_row gt_right">36.6M</td>
-<td class="gt_row gt_right">+5&percnt;</td></tr>
+<td class="gt_row gt_right">33.9M</td>
+<td class="gt_row gt_right">&minus;3&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">3.5B</td>
 <td class="gt_row gt_right gt_striped">3.8B</td>
 <td class="gt_row gt_right gt_striped">+6&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Pct. Fully Vaccinated</td>
 <td class="gt_row gt_right">44.9</td>
-<td class="gt_row gt_right">47.6</td>
+<td class="gt_row gt_right">47.8</td>
 <td class="gt_row gt_right">+6&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
@@ -1573,7 +1573,7 @@ As of Tuesday, the 14-day percent change in average new cases was:
 - 27% in Champaign County
 - 44% in Illinois
 - 24% in the United States
-- 9% worldwide
+- 10% worldwide
 
 ![Case Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png)
 
