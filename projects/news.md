@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:35 AM CT, Dec. 22 </p> 
+ <p class="updated_time"> 11:47 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: F.D.A. Clears Pfizer’s Covid Pills for High-Risk Patients 12 and Up</a> NYT: Britain surpasses 100,000 new cases in a single day for the first time. Israel offers fourth vaccine doses. 
  <p class="updated_time"> 11:33 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59757299?at_medium=RSS&at_campaign=KARANGA">Turkey arrests US diplomat over alleged passport handover</a> BBC: Police say the US man gave the document to a Syrian trying to travel to Germany from Istanbul airport. 
@@ -49,8 +49,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59750160?at_medium=RSS&at_campaign=KARANGA">Koalas: Mass deaths in Victoria bring animal cruelty charges</a> BBC: Dozens of koalas were found dead at a partially cleared timber plantation last year in Victoria. 
  <p class="updated_time"> 05:16 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59753535?at_medium=RSS&at_campaign=KARANGA">Brigitte Macron to sue over false claims she was born male</a> BBC: Far-right conspiracy theorists have targeted the French president's wife on social media. 
+ <p class="updated_time"> 05:12 AM CT, Dec. 22 </p> 
+ <a href="https://www.wsj.com/articles/u-s-israel-seek-unity-on-containing-irans-nuclear-program-11640189576">U.S., Israel Seek Unity on Containing Iran's Nuclear Program</a> WSJ: President Biden’s national security adviser met with Israeli Prime Minister Naftali Bennett as the two allies sought to present a more united front on Iran’s nuclear program after divisions emerged between the U.S. and Israel. 
  <p class="updated_time"> 04:43 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/asia/india-christians-attacked.html">India's Christians Attacked Under Anti-Conversion Laws</a> NYT: “They want to remove us from society,” a Christian farmer said of Hindu extremists. Rising attacks on Christians are part of a broader shift in India, in which minorities feel less safe. 
+ <p class="updated_time"> 04:21 AM CT, Dec. 22 </p> 
+ <a href="https://www.wsj.com/articles/libya-delays-presidential-election-amid-concerns-of-renewed-conflict-11640183492">Libya Delays Presidential Election Amid Concerns of Renewed Conflict</a> WSJ: The vote scheduled for later this week was postponed by at least a month, the country’s electoral commission said, in an effort to defuse tensions between rival political factions. 
  <p class="updated_time"> 04:11 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59750154?at_medium=RSS&at_campaign=KARANGA">Rogel Aguilera-Mederos: Colorado lorry driver's sentence sparks uproar</a> BBC: The 110-year prison sentence for the Colorado lorry driver sparks calls for leniency and reform. 
  <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
@@ -121,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/europe/princess-haya-sheikh-mohammed-bin.html">British Court Orders Dubai Ruler to Pay £554 Million in Custody Settlement</a> NYT: The settlement, of about $734 million, resolves a lengthy dispute that began when Princess Haya Bint Al Hussein and her two children fled to London in 2019. 
  <p class="updated_time"> 09:39 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/21/1062836171/editors-pick-11-hidden-gems-on-our-global-health-blog-in-2021">Editors' pick: 11 hidden gems on our global health blog in 2021</a> NPR: Want to hear the former president of Zambia sing about public health? Find out what to do if you lose a sheep in Senegal? Use solar power to iron garments? Give these stories a read. 
- <p class="updated_time"> 08:21 AM CT, Dec. 21 </p> 
- <a href="https://www.wsj.com/articles/u-s-sees-russian-gas-pipeline-as-leverage-in-ukraine-crisis-but-needs-german-help-11640106024">U.S. Sees Russian Gas Pipeline as Leverage in Ukraine Crisis, but Needs German Help</a> WSJ: The Biden administration wants assurances that Berlin won’t let Nord Stream 2 start to operate during Moscow’s military pressure campaign. 
  <p class="updated_time"> 07:28 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/trump-supporters-booster-shots.html">Donald Trump Said He Got a Booster Shot and His Supporters Booed</a> NYT: At an event in Dallas, the former president revealed for the first time publicly that he had received the additional vaccine dose. 
  <p class="updated_time"> 06:57 AM CT, Dec. 21 </p> 
@@ -204,8 +206,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:45 PM CT, Dec. 22 </p> 
+ <a href="https://www.politico.com/news/2021/12/22/kim-potter-trial-daunte-wright-police-shooting-525976">Jurors at Kim Potter trial resume work Wednesday</a> Politico: If convicted of the most serious charge, the former Brooklyn Center officer would face a sentence of about seven years under state guidelines, though prosecutors have said they will seek more. 
  <p class="updated_time"> 12:31 PM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/cruz-2024-republican-presidential-nomination-525973">‘The runner-up is almost always the next nominee’: Cruz says he’s well-positioned for 2024</a> Politico: Asked whether he would consider launching another bid for the White House, Cruz responded: “Absolutely. In a heartbeat.” 
+ <a href="https://www.politico.com/news/2021/12/22/cruz-2024-republican-presidential-nomination-525973">‘The runner-up is almost always the next nominee’: Cruz says he’s well-positioned for 2024</a> Politico: Asked whether he would consider launching another White House bid, the senator responded: “Absolutely. In a heartbeat.” 
  <p class="updated_time"> 12:25 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/white-house-to-extend-student-loan-payment-moratorium-525974">White House extends student loan payment freeze</a> Politico: The move comes as the deadline neared for the end of the current moratorium and as another wave of Covid threatens a strong, but fragile, economic recovery. 
  <p class="updated_time"> 11:34 AM CT, Dec. 22 </p> 
@@ -245,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/hospitals-omicron-vaccinating-health-care-workers-525952">Hospitals grapple with Omicron — and legal brawl over vaccinating staff</a> Politico: More than 60,000 patients are hospitalized with Covid-19, according to the CDC, and the numbers are climbing with the highly contagious Omicron strain surging. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/redistricting-state-lawmakers-525960">You can draw your own congressional district</a> Politico: The redistricting process is already inherently self-interested, with lawmakers routinely drawing maps for the benefit of their party. But, in some cases, these politicians are working in their literal self-interest. 
+ <a href="https://www.politico.com/news/2021/12/22/redistricting-state-lawmakers-525960">You can draw your own congressional district</a> Politico: Redistricting is already inherently self-interested, with lawmakers routinely drawing maps for the benefit of their party. But, in some cases, politicians are working in their literal self-interest. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/dan-crenshaw-conservatives-come-correct-525829">Dan Crenshaw to his fellow conservatives: Come ‘correct’</a> Politico: The combat veteran often voted with Donald Trump but doesn't act Trumpishly. And he'll slam other Republicans when he feels he must. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
@@ -282,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/us/politics/prison-covid-home-confinement.html">Justice Dept. Says Some Inmates Can Stay Confined at Home</a> NYT: The move reverses a Trump-era decision that would have sent many of the thousands of inmates released to home confinement during the pandemic back to prison. 
  <p class="updated_time"> 07:39 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066595651/a-shot-at-gold-a-swearing-in-and-a-tech-get-together-are-all-thwarted-by-omicron">A shot at gold, a swearing in, and a tech get-together are all thwarted by omicron</a> NPR: The alarming surge in COVID infections is prompting city leaders, heads of companies, and even sports officials to withdraw from public events that could potentially expose more people to the virus. 
- <p class="updated_time"> 07:34 PM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/kim-potter-daunte-wright-jury-525941">Jury in Kim Potter trial ends another day without verdict</a> Politico: The jurors asked the judge about not being able to reach a verdict. 
  <p class="updated_time"> 07:29 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/mcconnell-manchin-republican.html">McConnell to Manchin: We’d Love to Have You, Joe</a> NYT: Senator Mitch McConnell, the Republican leader, says Democratic outrage over Senator Joe Manchin’s opposition to sweeping policy bills shows he is not welcome in his party any longer. 
  <p class="updated_time"> 07:04 PM CT, Dec. 21 </p> 
