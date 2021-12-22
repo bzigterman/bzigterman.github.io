@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:47 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: F.D.A. Clears Pfizer’s Covid Pills for High-Risk Patients 12 and Up</a> NYT: Britain surpasses 100,000 new cases in a single day for the first time. Israel offers fourth vaccine doses. 
+ <p class="updated_time"> 12:10 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: New Cases Fall in South Africa’s Omicron Surge</a> NYT: Britain reported more than 100,000 new cases in a single day, and staff shortages expand at England’s hospitals, clinics, rail services, fire departments and ambulance services. Israel offers fourth vaccine doses. 
+ <p class="updated_time"> 12:09 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/nyregion/citymd-temporary-closings-covid.html">CityMD Temporarily Shuts 19 Locations in New York and New J</a> NYT: The closures began on Wednesday, and CityMD has not said how long they will last. 
+ <p class="updated_time"> 12:06 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
  <p class="updated_time"> 11:33 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59757299?at_medium=RSS&at_campaign=KARANGA">Turkey arrests US diplomat over alleged passport handover</a> BBC: Police say the US man gave the document to a Syrian trying to travel to Germany from Istanbul airport. 
  <p class="updated_time"> 11:27 AM CT, Dec. 22 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/world/obamacare-aca-covid.html">Obamacare Sign-Ups Reach Record as Virus Rocks Job-Based Coverage</a> NYT: Thanks to increased subsidies, new advertising, and a reshaped insurance landscape, 13.6 million Americans have enrolled in plans for 2022. Enrollment continues until Jan. 15. 
  <p class="updated_time"> 11:03 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59760366?at_medium=RSS&at_campaign=KARANGA">US safety body to probe Tesla on in-car gameplay</a> BBC: It follows a complaint from an owner who discovered he could play games while driving. 
- <p class="updated_time"> 10:46 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
  <p class="updated_time"> 10:33 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59743487?at_medium=RSS&at_campaign=KARANGA">Xi'an: Chinese city under lockdown as Covid cases rise</a> BBC: More than 13 million people in the city of Xi'an have been told to stay at home amid a Covid outbreak. 
  <p class="updated_time"> 09:43 AM CT, Dec. 22 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59731003?at_medium=RSS&at_campaign=KARANGA">Saving Kyrgyzstan's deer from brink of extinction</a> BBC: Kyrgyzstan used to be home to thousands of deer, but now there are as few as 400 left. 
  <p class="updated_time"> 05:15 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/20/us/politics/ted-cruz-biden-ukraine.html">Deal With Ted Cruz Sets Stage for Russia Pipeline Fight in Early 2022</a> NYT: The Texas Republican leveraged his obstruction of diplomatic nominees into a Senate vote that could complicate President Biden’s efforts to defend Ukraine. 
- <p class="updated_time"> 04:57 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/20/science/webb-telescope-astronomy.html">Webb Telescope Prepares to Ascend, With an Eye Toward Our Origins</a> NYT: The biggest space telescope in history aims to answer astronomy’s oldest question: How did we get from the Big Bang to here? 
  <p class="updated_time"> 04:46 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493462/european-treasure-hunter-reunites-american-veteran-with-the-bracelet-he-lost-in-">European treasure hunter reunites American veteran with the bracelet he lost in 1945</a> NPR: A U.S. soldier overseas during World War II lost a bracelet inscribed with his sweetheart's name. A treasure hunter discovered it this fall, and returned it to its rightful owner. 
  <p class="updated_time"> 04:29 PM CT, Dec. 21 </p> 
@@ -212,6 +212,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/22/cruz-2024-republican-presidential-nomination-525973">‘The runner-up is almost always the next nominee’: Cruz says he’s well-positioned for 2024</a> Politico: Asked whether he would consider launching another White House bid, the senator responded: “Absolutely. In a heartbeat.” 
  <p class="updated_time"> 12:25 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/white-house-to-extend-student-loan-payment-moratorium-525974">White House extends student loan payment freeze</a> Politico: The move comes as the deadline neared for the end of the current moratorium and as another wave of Covid threatens a strong, but fragile, economic recovery. 
+ <p class="updated_time"> 12:00 PM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/student-loan-pause-biden/index.html">Biden extends pause on student loan repayment through May 1</a> CNN: The Biden administration is considering extending the pause on federal student loan payments, which were set to restart on February 1. 
+ <p class="updated_time"> 11:54 AM CT, Dec. 22 </p> 
+ <a href="https://www.npr.org/2021/12/22/1066879033/biden-federal-student-loan-payment-freeze-extension-borrowers">President Biden extends student loan payment freeze through May 1</a> NPR: President Biden extended relief for federal student loan borrowers for an additional 90 days because borrowers are "still coping with the impacts of the pandemic." Payments now resume May 1. 
  <p class="updated_time"> 11:34 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/supply-chain-biden-meeting/index.html">Biden touts progress on alleviating supply chain problems: 'Shelves are not empty'</a> CNN: President Joe Biden on Wednesday will get a progress report from members of his Cabinet and private sector CEOs on efforts to alleviate supply chain issues, lower consumer prices and keep shelves stocked amid the holiday season. 
  <p class="updated_time"> 11:24 AM CT, Dec. 22 </p> 
@@ -226,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/22/politics/afghanistan-teachers-humanitarian-organizations/index.html">Biden administration moves to allow Afghan teachers' salaries to be paid by aid organizations</a> CNN: The Biden administration is lifting some restrictions on the types of aid that humanitarian organizations can provide to Afghanistan which will enable support for educational programs, including paying teachers' salaries, the Treasury Department and two senior administration officials announced on Wednesday. 
  <p class="updated_time"> 09:21 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/arts/hillary-clinton-masterclass.html">How Hillary Clinton's MasterClass Shows a Very 2021 Way to Be</a> NYT: Hillary Clinton delivered an unused election speech. Jennifer Aniston cried at Central Perk. It was a year for watching celebrities reinhabit their past selves. 
- <p class="updated_time"> 08:21 AM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/student-loan-pause-biden/index.html">Biden extends pause on student loan repayment through May 1</a> CNN: The Biden administration is considering extending the pause on federal student loan payments, which were set to restart on February 1. 
  <p class="updated_time"> 08:20 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/rescue-money-runs-low-omicron-arrives/index.html">Federal pandemic aid runs dry as businesses deal with Omicron's impact</a> CNN: Congress has committed nearly $6 trillion since early 2020 to fight Covid-19 and cushion the economic blow from a once-in-century pandemic. 
  <p class="updated_time"> 07:47 AM CT, Dec. 22 </p> 
@@ -360,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/20/politics/moderate-democrats-manchin-2022/index.html">'A recipe for absolute destruction': Democrats scramble to avoid electoral blowback after Manchin halts Biden agenda </a> CNN: It's exactly the scenario Democrats had worked for months to avoid -- but now find themselves confronting. 
  <p class="updated_time"> 07:05 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/21/dems-plot-path-after-manchin-derailment-495530">Dems plot path after Manchin derailment</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:20 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066169756/public-health-experts-will-be-listening-as-biden-speaks-to-the-nation-about-omic">Public health experts will be listening as Biden speaks to the nation about omicron</a> NPR: The omicron variant is now the dominant variant in the U.S. President Biden is set to warn Americans about omicron, and talk about the administration's plans to help areas struggling with the surge. 
  <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/21/the-search-for-a-plan-b-begins-495529"> The search for a Plan B begins</a> Politico Playbook: And Biden plans to deliver another big Covid speech. 
  <p class="updated_time"> 06:01 AM CT, Dec. 21 </p> 
