@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:58 PM CT, Dec. 22 </p> 
+ <p class="updated_time"> 05:24 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">As Humanitarian Disaster Looms, U.S. Opens Door for More Afghanistan Aid</a> NYT: The Treasury Department and the United Nations offered new protection for aid from sanctions meant to pressure the Taliban. 
+ <p class="updated_time"> 05:22 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
+ <p class="updated_time"> 05:06 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Cases Appear Less Severe, 2 U.K. Studies Say</a> NYT: Experts warned that hospitals could still be flooded, because the variant is so transmissible. The F.D.A. authorized Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
  <p class="updated_time"> 04:58 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/california-booster-mandate-feb-1.html">California Requires Health Workers to Get Boosters by Feb. 1</a> NYT: Gov. Gavin Newsom said more than half of the sequenced cases in the state have been identified as the Omicron variant, but the real number is probably higher. 
- <p class="updated_time"> 04:48 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
  <p class="updated_time"> 04:07 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59757299?at_medium=RSS&at_campaign=KARANGA">Turkey arrests US citizen over alleged passport handover</a> BBC: Police say the US man gave the document to a Syrian trying to travel to Germany from Istanbul airport. 
  <p class="updated_time"> 04:03 PM CT, Dec. 22 </p> 
@@ -37,15 +39,13 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests/france-uk-vaccines-children">France will offer Covid vaccinations for children aged 5-11, and other international news.</a> NYT: The measure, which is not mandatory, comes as scientists in Britain advise inoculating young children in certain risk groups. 
  <p class="updated_time"> 01:16 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
- <p class="updated_time"> 01:00 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">U.S. Eases Some Restrictions on Aid for Afghanistan</a> NYT: The new measures will allow the United States to maintain pressure on the Taliban as the country faces collapse. 
  <p class="updated_time"> 12:52 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests/new-cases-slow-in-south-africa-suggesting-its-omicron-wave-may-have-peaked">New cases slow in South Africa, suggesting its Omicron wave may have peaked.</a> NYT: Reports of new coronavirus cases across the country have fallen by 20 percent in a week, which researchers called “encouraging.” 
  <p class="updated_time"> 12:37 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59754153?at_medium=RSS&at_campaign=KARANGA">Roman-era 'Good Shepherd' ring found off Israel in ancient shipwreck</a> BBC: Israeli archaeologists discover a Roman-era gold ring bearing an early Christian depiction of Jesus. 
  <p class="updated_time"> 12:37 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59762046?at_medium=RSS&at_campaign=KARANGA">Spain to require masks outdoors amid Covid surge</a> BBC: As the Omicron variant spreads around Europe, countries tighten restrictions to brace for another wave. 
- <p class="updated_time"> 11:08 AM CT, Dec. 22 </p> 
+ <p class="updated_time"> 12:23 PM CT, Dec. 22 </p> 
  <a href="https://www.wsj.com/articles/to-limit-omicron-singapore-freezes-ticket-sales-for-quarantine-free-travel-11640165362">Omicron Shows Signs of Milder Disease as Cases Rise</a> WSJ: Research offered promising signs that immunity as a result of prior infection or vaccination offers protection against severe illness from Omicron as new Covid-19 infections hit another daily record in New York state. 
  <p class="updated_time"> 11:03 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59760366?at_medium=RSS&at_campaign=KARANGA">US safety body to probe Tesla on in-car gameplay</a> BBC: It follows a complaint from an owner who discovered he could play games while driving. 
@@ -208,6 +208,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:50 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/de-blasio-tells-biden-new-york-needs-help-now-526007">De Blasio tells Biden: New York needs help now</a> Politico: The mayor said the White House should invoke the Defense Production Act. 
+ <p class="updated_time"> 05:24 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">As Humanitarian Disaster Looms, U.S. Opens Door for More Afghanistan Aid</a> NYT: The Treasury Department and the United Nations offered new protection for aid from sanctions meant to pressure the Taliban. 
+ <p class="updated_time"> 05:21 PM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/michael-flynn-january-6-lawsuit/index.html">Michael Flynn loses his legal challenge to the House January 6 probe, one day after filing it</a> CNN: Michael Flynn has swiftly lost his bid in court to block a possible House Select Committee subpoena for his phone records and to hold off demands he speak to the committee investigating January 6. 
+ <p class="updated_time"> 05:16 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/your-money/student-loan-pause.html">Biden Administration Extends Pause on Student Loan Payments</a> NYT: The Biden administration, under pressure from Democratic lawmakers, announced a three-month extension, citing the resurgent pandemic. 
+ <p class="updated_time"> 05:07 PM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/jim-jordan-house-select-committee-january-6/index.html">House committee seeks to interview GOP firebrand Rep. Jim Jordan about January 6</a> CNN: The House select committee investigating January 6 has asked Rep. Jim Jordan, one of former President Donald Trump's top congressional allies, to voluntarily meet with the panel as it zeroes in on Republican lawmakers who may have significant knowledge of events leading up to the US Capitol attack. 
  <p class="updated_time"> 05:00 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/trudeau-canadians-hunker-down-omicron-525998">Trudeau tells Canadians to ‘hunker down’ as Biden urges calm over Omicron</a> Politico: Canadians hunt for boosters and rapid tests amid Covid surge that is disrupting holiday plans. 
  <p class="updated_time"> 04:25 PM CT, Dec. 22 </p> 
@@ -216,12 +224,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/22/congressional-redistricting-arizona-525993">GOP could win 6 of Arizona's 9 congressional seats after remap</a> Politico: The state's Independent Redistricting Commission approved the new congressional map on Wednesday. 
  <p class="updated_time"> 04:16 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/yellen-signature-us-currency.html">Why Janet Yellen’s Signature Is Not on U.S. Currency</a> NYT: Until a new treasurer is selected, currency will continue to bear the autograph of former Treasury Secretary Steven Mnuchin. 
- <p class="updated_time"> 04:05 PM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/jim-jordan-house-select-committee-january-6/index.html">House committee seeks to interview GOP firebrand Rep. Jim Jordan about January 6</a> CNN: The House select committee investigating January 6 has asked Rep. Jim Jordan, one of former President Donald Trump's top congressional allies, to voluntarily meet with the panel as it zeroes in on Republican lawmakers who may have significant knowledge of events leading up to the US Capitol attack. 
  <p class="updated_time"> 03:57 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/proud-boy-pleads-guilty-january-6/index.html">Proud Boys member pleads guilty in January 6 attack on US Capitol, the first to do so in alleged conspiracy</a> CNN: In one of the most prominent cases against far-right groups that the Justice Department alleges planned to storm the US Capitol on January 6, a New York member of the Proud Boys has pleaded guilty to felony charges, including conspiracy. 
- <p class="updated_time"> 03:47 PM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/michael-flynn-january-6-lawsuit/index.html">Michael Flynn loses his legal challenge to the House January 6 probe, one day after filing it</a> CNN: Michael Flynn has swiftly lost his bid in court to block a possible House Select Committee subpoena for his phone records and to hold off demands he speak to the committee investigating January 6. 
  <p class="updated_time"> 03:47 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1067024844/why-elections-in-libya-have-been-delayed">Why elections in Libya have been delayed</a> NPR: Libya's plans to hold national elections are in doubt as the country breaks down into regions controlled by local faction leaders — including the son of the former dictator. 
  <p class="updated_time"> 03:15 PM CT, Dec. 22 </p> 
@@ -232,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/us/politics/jim-jordan-jan-6.html">Jan. 6 Panel Seeks Interview With Jim Jordan, a Close Trump Ally</a> NYT: The House committee said investigators wanted to ask Mr. Jordan, a Republican congressman from Ohio, about his conversations with former President Donald J. Trump. 
  <p class="updated_time"> 02:52 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066956407/anthony-fauci-jesse-watters-fox-news-kill-shot-ambush-interviews">Fauci calls on Fox News to fire host who urged 'kill shot' in 'ambush' interviews</a> NPR: Fox News host Jesse Watters is facing blowback for using violent rhetoric to explain how citizen journalists should confront Dr. Anthony Fauci in the hopes of going viral. 
- <p class="updated_time"> 02:50 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/your-money/student-loan-pause.html">Biden Administration Extends Pause on Student Loan Payments</a> NYT: The Biden administration, under pressure from Democratic lawmakers, announced a three-month extension, citing the ongoing pandemic. 
  <p class="updated_time"> 02:46 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/mcconnell-manchin-republican-party-build-back-better/index.html">McConnell goads Manchin on switching parties but acknowledges it likely won't happen</a> CNN: Sen. Mitch McConnell on Wednesday urged Sen. Joe Manchin to join the Republican Party after the moderate Democrat bucked his own by effectively sinking a massive economic spending and climate bill, but the Republican leader acknowledged that the party switch likely won't happen. 
  <p class="updated_time"> 02:14 PM CT, Dec. 22 </p> 
@@ -246,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/22/new-jersey-redistricting-map-malinowski-525983">Democrats prevail in New Jersey redistricting with map that could sacrifice Malinowski</a> Politico: New Jersey redistricts through a commission that includes six Democratic appointees, six Republican appointees and a tie-breaker who is selected by the state Supreme Court. 
  <p class="updated_time"> 01:09 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/january-6-committee-interview-lawsuit/index.html">January 6 rally staffers detail committee investigation questions and targets in lawsuit</a> CNN: Four people who staffed the pro-Trump rally at the Ellipse that preceded the deadly Capitol attack on January 6 are suing to block House investigators from obtaining their phone records. 
- <p class="updated_time"> 01:00 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">U.S. Eases Some Restrictions on Aid for Afghanistan</a> NYT: The new measures will allow the United States to maintain pressure on the Taliban as the country faces collapse. 
  <p class="updated_time"> 12:56 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/fda-pfizer-covid-pill-525979">FDA authorizes Pfizer's Covid-19 pill</a> Politico: The pill, called Paxlovid, will provide the U.S. with another tool to help fight the virus as the more infectious Omicron variant surges. 
  <p class="updated_time"> 12:45 PM CT, Dec. 22 </p> 
@@ -454,8 +454,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/build-back-better-progressives-power-524783">‘Know when to hold and know when to fold’: Progressives accept limits of their power</a> Politico: House liberals dug in hard this year on social spending. Whatever Sen. Joe Manchin (D-W.Va.) does, they're ready to declare a win. 
  <p class="updated_time"> 05:52 PM CT, Dec. 15 </p> 
  <a href="https://www.politico.com/news/2021/12/15/sinema-democrats-filibuster-changes-524809">Sinema pops Democrats’ filibuster trial balloon on voting rights</a> Politico: The Arizona Democrat is not willing to entertain changes to the 60-vote threshold in order to pass elections reform, as some of her colleagues are discussing. 
- <p class="updated_time"> 05:18 PM CT, Dec. 15 </p> 
- <a href="https://www.politico.com/news/2021/12/15/trump-january-6-obstruction-law-524806">Jan. 6 investigators mull whether Trump violated obstruction law</a> Politico: Rep. Liz Cheney (R-Wyo.) raised the question using precise terminology from the criminal statute that some view as possibly applicable to the former president's actions. 
 
 
 </details>
