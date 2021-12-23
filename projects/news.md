@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:37 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Times Square Keeps New Year’s Celebration, but With a Smaller Crowd</a> NYT: Mayor Bill de Blasio said only 15,000 would be allowed to celebrate and masks will be required. Omicron has driven virus cases past Delta’s peak in the United States. 
+ <p class="updated_time"> 04:33 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/world/canada/indigenous-water-lawsuit.html">Canada and Indigenous People Settle Over Drinking Water</a> NYT: A court-approved settlement will compensate Indigenous people for the decades that many have lived with dirty water, and will also fund the clean up. 
  <p class="updated_time"> 04:22 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/russia-putin-ukraine.html">Putin Mixes Positive Note With Threats, Keeping West on Edge</a> NYT: At a traditional year-end news conference, President Vladimir V. Putin of Russia said a potential meeting with the U.S. was a positive sign, but he also demanded a quick response to his security concerns. 
  <p class="updated_time"> 04:08 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59776917?at_medium=RSS&at_campaign=KARANGA">Daunte Wright death: US 'Taser mixup' ex-officer guilty of manslaughter</a> BBC: The April shooting led to days of demonstrations against police killings of black men. 
- <p class="updated_time"> 04:01 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Times Square Keeps New Year’s Celebration, but With a Smaller Crowd</a> NYT: Mayor Bill de Blasio said only 15,000 would be allowed to celebrate and masks will be required. Omicron has driven virus cases past Delta’s peak in the United States. 
+ <p class="updated_time"> 03:46 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59776920?at_medium=RSS&at_campaign=KARANGA">Daunte Wright shooting: Key moments in the trial of Kimberly Potter</a> BBC: The trial saw emotional testimonies and dramatic bodycam footage of the fatal shooting. 
  <p class="updated_time"> 03:44 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/lapid-israel-nuclear-iran-palestinians.html">Lapid Says Israel Will Support Iran Nuclear Pact, if It’s ‘a Good Deal.’</a> NYT: The Israeli foreign minister said “we have no problem with a deal,” but perhaps because he thinks the prospects of an agreement are remote. 
  <p class="updated_time"> 03:41 PM CT, Dec. 23 </p> 
@@ -137,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/world/heat-carbon-emissions-cities.html">Using a City’s Excess Heat to Reduce Emissions</a> NYT: A district in London has developed an innovative way to divert subway heat for buildings to lower carbon emissions. Other cities are getting creative, as well. 
  <p class="updated_time"> 02:27 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/asia/myanmar-landslide-jade-mine.html">Dozens Feared Dead After Landslide at Jade Mine in Myanmar</a> NYT: An official said one person was killed after more than 70 were swept into a lake by mining waste in Hpakant, the center of the country’s secretive jade industry. 
- <p class="updated_time"> 01:15 AM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59753026?at_medium=RSS&at_campaign=KARANGA">Super Typhoon Rai: BBC correspondent shows damage on Siargao Island</a> BBC: Take a look at the damage on Siargao Island after a powerful storm kills hundreds in the Philippines. 
  <p class="updated_time"> 06:11 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59690317?at_medium=RSS&at_campaign=KARANGA">The Maasai TikTokers wowing Bollywood fans</a> BBC: Tanzanian siblings Kili and Neema Paul lip sync perfectly in Hindi, accruing millions of followers. 
  <p class="updated_time"> 06:07 PM CT, Dec. 21 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/arts/music/christmas-caroling-covid.html">These Carol Singers Are Carrying on, Despite Omicron Variant</a> NYT: Last year, most carol singing in Britain was canceled because of the pandemic. This year, a group of roving singers was determined to carry on, despite the Omicron variant. 
  <p class="updated_time"> 01:43 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/bidens-omicron-speech.html">Here’s what we know about Biden’s speech on the U.S. Omicron response.</a> NYT: The president is expected to  announce several new steps, including setting up new testing and vaccination sites, deploying  federal vaccinators and buying 500 million rapid tests to distribute free. 
- <p class="updated_time"> 11:23 AM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/asia/afghanistan-taliban-bagram-prison.html">At Bagram Air Base, a Notorious Prison Lies Empty</a> NYT: Taliban fighters now guard the prison at Bagram Air Base, which once held thousands of Taliban and Al Qaeda members who were set free in August. 
  <p class="updated_time"> 11:12 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/princess-haya-sheikh-mohammed-bin.html">British Court Orders Dubai Ruler to Pay £554 Million in Custody Settlement</a> NYT: The settlement, of about $734 million, resolves a lengthy dispute that began when Princess Haya Bint Al Hussein and her two children fled to London in 2019. 
  <p class="updated_time"> 09:39 AM CT, Dec. 21 </p> 
