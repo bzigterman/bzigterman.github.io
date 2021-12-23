@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:57 PM CT, Dec. 22 </p> 
+ <p class="updated_time"> 09:16 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: White House Promises More Covid Treatments</a> NYT: British researchers find that Omicron effects seem less severe. The F.D.A. authorizes Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
+ <p class="updated_time"> 08:57 PM CT, Dec. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59764029?at_medium=RSS&at_campaign=KARANGA">Pillar of Shame: Hong Kong's Tiananmen Square statue removed</a> BBC: It was one of the few remaining public memorials in Hong Kong commemorating the 1989 massacre. 
  <p class="updated_time"> 08:19 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">As Humanitarian Disaster Looms, U.S. Opens Door for More Afghanistan Aid</a> NYT: The Treasury Department and the United Nations offered new protection for aid from sanctions meant to pressure the Taliban. 
  <p class="updated_time"> 08:17 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59764827?at_medium=RSS&at_campaign=KARANGA">Omicron: Biden denies failure in Omicron testing response</a> BBC: A shortage of tests have plagued the US while the latest variant has triggered an explosion in cases. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59764827?at_medium=RSS&at_campaign=KARANGA">Omicron: Biden denies failure in pandemic testing response</a> BBC: A shortage of tests have plagued the US while the latest variant has spawned an explosion in cases. 
  <p class="updated_time"> 07:31 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59764824?at_medium=RSS&at_campaign=KARANGA">Philadelphia congresswoman carjacked at gunpoint in broad daylight</a> BBC: The lawmaker's government phone and ID were among belongings that the two robbers also snatched. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59764824?at_medium=RSS&at_campaign=KARANGA">Philadelphia congresswoman carjacked at gunpoint in broad daylight</a> BBC: The lawmaker's government phone and ID were among belongings that were also snatched. 
  <p class="updated_time"> 07:01 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/health/covid-omicron-delta-hospitalizations.html">Omicron Infections Seem to Be Milder, Three Research Teams Report</a> NYT: The data offer a rare bit of good news. Still, hospitalizations are likely to increase simply because the variant is so contagious. 
  <p class="updated_time"> 06:40 PM CT, Dec. 22 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/ice-hockey/59760792?at_medium=RSS&at_campaign=KARANGA">NHL will not send players to Beijing Olympics</a> BBC: The National Hockey League (NHL) says it will not send its players to the men's ice hockey tournament at the Beijing Winter Olympics. 
  <p class="updated_time"> 06:17 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59738542?at_medium=RSS&at_campaign=KARANGA">Gay Santa ad highlights big shift in Norwegian society</a> BBC: The ad showing Father Christmas kissing a man highlights 50 years of changes in Norwegian LGBT rights. 
- <p class="updated_time"> 06:09 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59764029?at_medium=RSS&at_campaign=KARANGA">Pillar of Shame: Hong Kong's Tiananmen Square statue removed</a> BBC: Workers at the University of Hong Kong dismantle the sculpture commemorating the 1989 massacre. 
  <p class="updated_time"> 06:09 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-59558921?at_medium=RSS&at_campaign=KARANGA">Is this the world's largest virtual fashion show?</a> BBC: Asia's biggest metaverse - an intricate world populated by young women shopping for avatar outfits. 
  <p class="updated_time"> 06:01 PM CT, Dec. 22 </p> 
@@ -190,14 +190,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:16 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/us/politics/osha-vaccine-mandate-supreme-court.html">Supreme Court to Hold Special Hearing on Biden Vaccine Mandates</a> NYT: Challengers say vaccination-or-testing requirements at large employers and for health care workers were not authorized by Congress. 
  <p class="updated_time"> 08:57 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/kamala-harris-covid.html">Vice President Kamala Harris Was Exposed to Covid</a> NYT: President Biden had also been in close contact with a staff member who later tested positive. 
  <p class="updated_time"> 08:57 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/jim-jordan-house-select-committee-january-6/index.html">House committee seeks to interview GOP firebrand Rep. Jim Jordan about January 6</a> CNN: The House select committee investigating January 6 has asked Rep. Jim Jordan, one of former President Donald Trump's top congressional allies, to voluntarily meet with the panel as it zeroes in on Republican lawmakers who may have significant knowledge of events leading up to the US Capitol attack. 
  <p class="updated_time"> 08:19 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">As Humanitarian Disaster Looms, U.S. Opens Door for More Afghanistan Aid</a> NYT: The Treasury Department and the United Nations offered new protection for aid from sanctions meant to pressure the Taliban. 
- <p class="updated_time"> 08:15 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/us/politics/osha-vaccine-mandate-supreme-court.html">Supreme Court to Hold Special Hearing on Biden Vaccine Mandates</a> NYT: Challengers say vaccination-or-testing requirements at large employers and for health care workers were not authorized by Congress. 
  <p class="updated_time"> 08:15 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1067138785/biden-teases-possible-rematch-against-donald-trump-why-would-i-not">Biden teases possible rematch against Donald Trump. 'Why would I not?'</a> NPR: In an interview with ABC News on Wednesday, the president discussed his political future and what his administration would do to fight the spike in coronavirus cases. 
  <p class="updated_time"> 08:12 PM CT, Dec. 22 </p> 
