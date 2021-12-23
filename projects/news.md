@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:54 AM CT, Dec. 23 </p> 
+ <p class="updated_time"> 09:19 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: As Israel Considers 4th Vaccine Dose, Some Ask If It’s Premature</a> NYT: Greece and other European nations add restrictions as cases surge. The Chinese authorities lock down Xi’an, a city of 13 million. 
  <p class="updated_time"> 08:47 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59765052?at_medium=RSS&at_campaign=KARANGA">James Franco admits sleeping with students from his acting school</a> BBC: The actor spoke at length about allegations of sexual misconduct made against him in 2018. 
@@ -176,7 +176,9 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:55 AM CT, Dec. 23 </p> 
+ <p class="updated_time"> 09:14 AM CT, Dec. 23 </p> 
+ <a href="https://www.cnn.com/2021/12/23/politics/faith-leaders-voting-rights-letter-biden/index.html">CNN Exclusive: Hundreds of faith leaders demand more from Biden and other Democrats on voting rights legislation</a> CNN: More than 800 faith leaders are urging President Joe Biden and Senate Democrats to pass voting rights legislation in 2022, writing in a letter released Thursday that the issue needs to be the administration's "number-one priority" after measures stalled in the Senate. 
+ <p class="updated_time"> 08:57 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/business/economy/inflation-pce-index-fed.html">PCE Index Hit Highest Level in November Since 1982</a> NYT: The Fed’s preferred inflation gauge, the Personal Consumption Expenditures index, climbed 5.7 percent in November from a year earlier. 
  <p class="updated_time"> 08:50 AM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/dewine-signs-abortion-bill-ohio/index.html">Ohio GOP governor signs abortion bill into law</a> CNN: Ohio Republican Gov. Mike DeWine on Wednesday signed a bill into law requiring doctors to try to preserve life in the rare case that a baby is born alive following an attempted abortion -- or face criminal penalties. 
@@ -198,8 +200,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/23/politics/larry-hogan-maryland-senate-race-2022/index.html">Maryland Gov. Larry Hogan entertaining GOP efforts to recruit him for 2022 Senate race</a> CNN: Maryland Gov. Larry Hogan is engaging with stepped-up Republican efforts to recruit him into next year's Senate race, CNN has learned. 
  <p class="updated_time"> 06:12 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/23/bidens-testing-mess-495546"> Biden’s testing mess</a> Politico Playbook: And the Supreme Court plans a special hearing on vaccine mandates. 
- <p class="updated_time"> 06:00 AM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/faith-leaders-voting-rights-letter-biden/index.html">CNN Exclusive: Hundreds of faith leaders demand more from Biden and other Democrats on voting rights legislation</a> CNN: More than 800 faith leaders are urging President Joe Biden and Senate Democrats to pass voting rights legislation in 2022, writing in a letter released Thursday that the issue needs to be the administration's "number-one priority" after measures stalled in the Senate. 
  <p class="updated_time"> 04:31 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/republicans-big-lie-stacey-abrams-525987">Republicans are trying to pin the ‘Big Lie’ on Stacey Abrams</a> Politico: The Georgia gubernatorial candidate has held firm in not conceding her prior bid in 2018. 
  <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
