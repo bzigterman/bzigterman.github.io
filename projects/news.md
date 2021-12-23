@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:43 AM CT, Dec. 23 </p> 
+ <p class="updated_time"> 07:14 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/world/europe/russia-putin-ukraine.html">Putin Demands Quick Answers on Russian Security Concerns</a> NYT: At a traditional year-end news conference, President Vladimir V. Putin of Russia blamed the West for talk of “war, war, war,” but did not markedly escalate tensions further. 
+ <p class="updated_time"> 07:08 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: European Nations Add Restrictions as Cases Surge</a> NYT: Greece will require masks in all outdoor and indoor public spaces, including gyms. The Chinese authorities lock down Xi’an, a city of 13 million. And China sets out elaborate precautions for February’s Winter Olympics. 
+ <p class="updated_time"> 07:01 AM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Is Russia preparing to invade Ukraine? And other questions</a> BBC: What you need to know about Russia's troop build-up along Ukraine's borders. 
  <p class="updated_time"> 06:38 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59768195?at_medium=RSS&at_campaign=KARANGA">Belgium agrees to close controversial ageing nuclear reactors</a> BBC: The plants have for years sparked safety fears from neighbours including Germany. 
  <p class="updated_time"> 06:03 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59738542?at_medium=RSS&at_campaign=KARANGA">Gay Santa ad highlights big shift in Norwegian society</a> BBC: The ad showing Father Christmas kissing a man highlights 50 years of changes in Norwegian LGBT rights. 
  <p class="updated_time"> 06:02 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/hong-kong-tiananmen-statue.html">Hong Kong Removes 'Pillar of Shame' Statue Amid Crackdown</a> NYT: The decision to take down the “Pillar of Shame,” an enduring symbol of the territory’s pro-democracy movement, was another sign of Beijing’s crackdown. 
- <p class="updated_time"> 05:56 AM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/europe/russia-putin-ukraine.html">Putin Blames the West for Talk of ‘War, War, War’</a> NYT: At a traditional year-end news conference, in comments intended to sway a domestic audience, President Vladimir V. Putin of Russia said his country was defending historically Russian territories. 
  <p class="updated_time"> 05:36 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067188698/putin-urges-west-to-act-quickly-to-offer-security-guarantees">Putin urges West to act quickly to offer security guarantees</a> NPR: Russian President Vladimir Putin urged the West on Thursday to move quickly to meet Russia's demand for security guarantees precluding NATO's expansion to Ukraine. 
  <p class="updated_time"> 05:01 AM CT, Dec. 23 </p> 
@@ -46,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:02 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59764827?at_medium=RSS&at_campaign=KARANGA">Omicron: Biden denies failure in pandemic testing response</a> BBC: A shortage of tests have plagued the US while the latest variant has spawned an explosion in cases. 
  <p class="updated_time"> 08:34 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59764990?at_medium=RSS&at_campaign=KARANGA">Kentucky tornado: Two babies pulled alive from rubble</a> BBC: Their grandmother tucked them in a bath with a Bible and a blanket before the Kentucky twister hit. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59764990?at_medium=RSS&at_campaign=KARANGA">Kentucky tornado: Bodycam footage shows moment babies pulled alive from rubble</a> BBC: Their grandmother tucked them in a bath with a Bible and a blanket before the Kentucky twister hit. 
  <p class="updated_time"> 08:19 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">As Humanitarian Disaster Looms, U.S. Opens Door for More Afghanistan Aid</a> NYT: The Treasury Department and the United Nations offered new protection for aid from sanctions meant to pressure the Taliban. 
  <p class="updated_time"> 07:31 PM CT, Dec. 22 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/libya-delays-presidential-election-amid-concerns-of-renewed-conflict-11640183492">Libya Delays Presidential Election Amid Concerns of Renewed Conflict</a> WSJ: The vote scheduled for later this week was postponed by at least a month, the country’s electoral commission said, in an effort to defuse tensions between rival political factions. 
  <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/heat-carbon-emissions-cities.html">Using a City’s Excess Heat to Reduce Emissions</a> NYT: A district in London has developed an innovative way to divert subway heat for buildings to lower carbon emissions. Other cities are getting creative, as well. 
- <p class="updated_time"> 03:07 AM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Is Russia preparing to invade Ukraine? And other questions</a> BBC: What you need to know about Russia's troop build-up along Ukraine's borders. 
  <p class="updated_time"> 02:27 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/asia/myanmar-landslide-jade-mine.html">Dozens Feared Dead After Landslide at Jade Mine in Myanmar</a> NYT: An official said one person was killed after more than 70 were swept into a lake by mining waste in Hpakant, the center of the country’s secretive jade industry. 
  <p class="updated_time"> 02:00 AM CT, Dec. 22 </p> 
@@ -174,8 +174,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:33 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/putin-west-security-guarantees-526031">Putin urges West to act quickly to offer security guarantees</a> Politico: The Russian leader welcomed talks with the U.S. that are set to start in Geneva next month, but warned the discussion focused on Moscow’s demand needs to produce quick results. 
+ <p class="updated_time"> 07:26 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/us/politics/osha-vaccine-mandate-supreme-court.html">Supreme Court to Hold Special Hearing on Biden Vaccine Mandates</a> NYT: Challengers say vaccination-or-testing requirements at large employers and for health care workers were not authorized by Congress. 
+ <p class="updated_time"> 07:11 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/business/economy/inflation-pce-index-fed.html">PCE Index Probably Popped Again in November</a> NYT: The Personal Consumption Expenditures index is expected to confirm what other inflation measures have shown: Prices are coming in hot. 
  <p class="updated_time"> 07:09 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/23/senate-candidates-trade-house-toil-for-celeb-launchpad-495547">Senate candidates trade House toil for celeb launchpad</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:05 AM CT, Dec. 23 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/fec-dismisses-complaints-dejoy-straw-donor-scheme/index.html">FEC dismisses complaints filed against Louis DeJoy alleging straw donor scheme </a> CNN: The Federal Election Commission voted to dismiss two complaints filed by watchdog groups against US Postmaster General Louis DeJoy that alleged a straw donor scheme at his former company. 
  <p class="updated_time"> 06:22 AM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/larry-hogan-maryland-senate-race-2022/index.html">Maryland Gov. Larry Hogan entertaining GOP efforts to recruit him for 2022 Senate race</a> CNN: Maryland Gov. Larry Hogan is engaging with stepped-up Republican efforts to recruit him into next year's Senate race, CNN has learned. 
  <p class="updated_time"> 06:12 AM CT, Dec. 23 </p> 
@@ -210,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/science/webb-nasa-launch-delay.html">How NASA's Webb Telescope Overcame Loose Screws, Budgets and Clamps</a> NYT: Getting the James Webb Space Telescope to the launchpad has been a difficult journey that has taken decades. 
  <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1065277246/trump-big-lie-jan-6-election">The clear and present danger of Trump's enduring 'Big Lie'</a> NPR: Fueling the Jan. 6 insurrection was the "Big Lie" that Donald Trump won the election. One year later, many warn that lie has metastasized and now poses an even graver threat to American democracy. 
- <p class="updated_time"> 01:02 AM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/business/economy/inflation-pce-index-fed.html">PCE Index Probably Popped Again in November</a> NYT: The Personal Consumption Expenditures index is expected to confirm what other inflation measures have shown: Prices are coming in hot. 
  <p class="updated_time"> 11:39 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/john-durham-investigation-russia-probe-cost/index.html">Durham's investigation into Russia probe costs $3.8 million so far</a> CNN: Special counsel John Durham's investigation into the origins of the FBI's Russia probe cost about $3.8 million over its first year in operation, according to reports released by the Justice Department. 
  <p class="updated_time"> 11:02 PM CT, Dec. 22 </p> 
@@ -222,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/22/politics/mary-gay-scanlon-carjacked/index.html">Democratic congresswoman carjacked in Philadelphia</a> CNN: Rep. Mary Gay Scanlon, Democrat from Pennsylvania, was carjacked Wednesday afternoon in Philadelphia, but physically unharmed, according to her spokesperson. 
  <p class="updated_time"> 09:43 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/kamala-harris-covid.html">Vice President Kamala Harris Was Exposed to Covid</a> NYT: President Biden had also been in close contact with a staff member who later tested positive. 
- <p class="updated_time"> 09:16 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/us/politics/osha-vaccine-mandate-supreme-court.html">Supreme Court to Hold Special Hearing on Biden Vaccine Mandates</a> NYT: Challengers say vaccination-or-testing requirements at large employers and for health care workers were not authorized by Congress. 
  <p class="updated_time"> 08:57 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/jim-jordan-house-select-committee-january-6/index.html">House committee seeks to interview GOP firebrand Rep. Jim Jordan about January 6</a> CNN: The House select committee investigating January 6 has asked Rep. Jim Jordan, one of former President Donald Trump's top congressional allies, to voluntarily meet with the panel as it zeroes in on Republican lawmakers who may have significant knowledge of events leading up to the US Capitol attack. 
  <p class="updated_time"> 08:19 PM CT, Dec. 22 </p> 
@@ -232,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1067138785/biden-teases-possible-rematch-against-donald-trump-why-would-i-not">Biden teases possible rematch against Donald Trump. 'Why would I not?'</a> NPR: In an interview with ABC News on Wednesday, the president discussed his political future and what his administration would do to fight the spike in coronavirus cases. 
  <p class="updated_time"> 08:12 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/supreme-court-special-session-vaccine-requirements-526030">Supreme Court to hold special session on vaccine requirements</a> Politico: The high court announced late Wednesday that it would hear arguments in the cases on Jan. 7. 
- <p class="updated_time"> 08:04 PM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/fec-dismisses-complaints-dejoy-straw-donor-scheme/index.html">FEC dismisses complaints filed against Louis DeJoy alleging straw donor scheme </a> CNN: The Federal Election Commission voted to dismiss two complaints filed by watchdog groups against US Postmaster General Louis DeJoy that alleged a straw donor scheme at his former company. 
  <p class="updated_time"> 07:54 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/biden-covid-testing-526029">'Nothing's been good enough': Biden admits Covid testing has fallen short</a> Politico: Biden said his administration has now ordered half a billion tests to send to people across the country. 
  <p class="updated_time"> 07:44 PM CT, Dec. 22 </p> 
@@ -418,8 +418,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/chamber-ad-manchin-build-back-better-525129">Chamber launches ads targeting Manchin, hoping to kill Build Back Better</a> Politico: The group got a huge win with the infrastructure bill. Now, they want the legislative spigot to go dry. 
  <p class="updated_time"> 01:11 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/crackdown-on-chinas-treatment-of-muslim-minority-headed-to-bidens-desk-525094">Crackdown on China's treatment of Muslim minority headed to Biden's desk</a> Politico: The legislation, which faced a bumpy road to passage, effectively bans all imports from China’s Xinjiang region. 
- <p class="updated_time"> 07:22 AM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/12/16/will-democrats-get-coal-instead-of-passed-bills-in-their-stockings-495491">Will Democrats get coal instead of passed bills in their stockings?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
