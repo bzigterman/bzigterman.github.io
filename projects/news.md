@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:56 AM CT, Dec. 23 </p> 
+ <p class="updated_time"> 11:15 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: As Israel Considers 4th Vaccine Dose, Some Ask If It’s Premature</a> NYT: Greece and other European nations add restrictions as cases surge. The Chinese authorities lock down Xi’an, a city of 13 million. 
+ <p class="updated_time"> 11:07 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/arts/music/carols-christmas-kings-choir-mcdowall.html">Cecilia McDowall to Debut New Christmas Carol</a> NYT: Each year, the choir of King’s College, Cambridge, commissions an original song for its Christmas service, giving the composer an audience of around 100 million people. 
+ <p class="updated_time"> 10:54 AM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59755684?at_medium=RSS&at_campaign=KARANGA">Sudan women protest against 'rape by security forces'</a> BBC: Women and girls were allegedly sexually abused by security forces during a demonstration on Sunday. 
  <p class="updated_time"> 10:53 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
  <p class="updated_time"> 10:33 AM CT, Dec. 23 </p> 
@@ -35,10 +39,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59738542?at_medium=RSS&at_campaign=KARANGA">Gay Santa ad highlights big shift in Norwegian society</a> BBC: The ad showing Father Christmas kissing a man highlights 50 years of changes in Norwegian LGBT rights. 
  <p class="updated_time"> 06:02 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/hong-kong-tiananmen-statue.html">Hong Kong Removes 'Pillar of Shame' Statue Amid Crackdown</a> NYT: The decision to take down the “Pillar of Shame,” an enduring symbol of the territory’s pro-democracy movement, was another sign of Beijing’s crackdown. 
+ <p class="updated_time"> 05:55 AM CT, Dec. 23 </p> 
+ <a href="https://www.wsj.com/articles/intel-apologizes-after-asking-suppliers-to-avoid-chinas-xinjiang-region-11640261303">Intel Apologizes After Asking Suppliers to Avoid China's Xinjiang Region</a> WSJ: The California-based chip maker said a letter it had sent to global suppliers was written only to comply with U.S. law and didn’t represent Intel’s stance on the region, where the Chinese government has conducted a campaign of forcible assimilation against religious minorities. 
  <p class="updated_time"> 05:36 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067188698/putin-urges-west-to-act-quickly-to-offer-security-guarantees">Putin urges West to act quickly to offer security guarantees</a> NPR: Russian President Vladimir Putin urged the West on Thursday to move quickly to meet Russia's demand for security guarantees precluding NATO's expansion to Ukraine. 
- <p class="updated_time"> 05:05 AM CT, Dec. 23 </p> 
- <a href="https://www.wsj.com/articles/intel-apologizes-after-asking-suppliers-to-avoid-chinas-xinjiang-region-11640261303">Intel Apologizes After Asking Suppliers to Avoid China's Xinjiang Region</a> WSJ: The California-based chip maker said a letter it had sent to global suppliers was written only to comply with U.S. law and didn’t represent Intel’s stance on the region, where the Chinese government has conducted a campaign of forcible assimilation against religious minorities. 
  <p class="updated_time"> 05:01 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59764029?at_medium=RSS&at_campaign=KARANGA">Pillar of Shame: Hong Kong's Tiananmen Square statue removed</a> BBC: It was one of the few remaining public memorials in Hong Kong commemorating the 1989 massacre. 
  <p class="updated_time"> 04:31 AM CT, Dec. 23 </p> 
@@ -97,14 +101,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1067024865/japans-puzzling-covid-lull">Japan's puzzling COVID lull</a> NPR: COVID cases in Japan fell more than 99% from the last peak. Unlike previous infection waves, and countries in similar situations, it's largely staying there. Experts are struggling to explain why. 
  <p class="updated_time"> 02:46 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/health-59758784?at_medium=RSS&at_campaign=KARANGA">Omicron wave appears milder, but concern remains</a> BBC: The risk of needing hospital treatment could be 30 - 70% lower with Omicron than other variants. 
- <p class="updated_time"> 02:23 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59756344?at_medium=RSS&at_campaign=KARANGA">Chelsea FC owner Roman Abramovich gets apology over Putin claim</a> BBC: HarperCollins apologises to Chelsea FC's owner over allegations he was ordered to buy the club. 
  <p class="updated_time"> 01:16 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
- <p class="updated_time"> 12:37 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59754153?at_medium=RSS&at_campaign=KARANGA">Roman-era 'Good Shepherd' ring found off Israel in ancient shipwreck</a> BBC: Israeli archaeologists discover a Roman-era gold ring bearing an early Christian depiction of Jesus. 
- <p class="updated_time"> 10:33 AM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59743487?at_medium=RSS&at_campaign=KARANGA">Xi'an: Chinese city under lockdown as Covid cases rise</a> BBC: More than 13 million people in the city of Xi'an have been told to stay at home amid a Covid outbreak. 
  <p class="updated_time"> 09:43 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/middleeast/vaccine-booster-israel-covid.html">Israel to Administer 4th Round of Covid Vaccines</a> NYT: Israel is believed to be the first country to roll out fourth doses. 
  <p class="updated_time"> 09:28 AM CT, Dec. 22 </p> 
@@ -131,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59723756?at_medium=RSS&at_campaign=KARANGA">Kerala school uniform: Why some Muslim groups are protesting</a> BBC: Muslim groups in India's Kerala state protest after a government school allows girls to wear trousers. 
  <p class="updated_time"> 06:02 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59731003?at_medium=RSS&at_campaign=KARANGA">Saving Kyrgyzstan's deer from brink of extinction</a> BBC: Kyrgyzstan used to be home to thousands of deer, but now there are as few as 400 left. 
- <p class="updated_time"> 05:15 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/ted-cruz-biden-ukraine.html">Deal With Ted Cruz Sets Stage for Russia Pipeline Fight in Early 2022</a> NYT: The Texas Republican leveraged his obstruction of diplomatic nominees into a Senate vote that could complicate President Biden’s efforts to defend Ukraine. 
  <p class="updated_time"> 04:46 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493462/european-treasure-hunter-reunites-american-veteran-with-the-bracelet-he-lost-in-">European treasure hunter reunites American veteran with the bracelet he lost in 1945</a> NPR: A U.S. soldier overseas during World War II lost a bracelet inscribed with his sweetheart's name. A treasure hunter discovered it this fall, and returned it to its rightful owner. 
  <p class="updated_time"> 04:29 PM CT, Dec. 21 </p> 
@@ -180,8 +176,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:10 PM CT, Dec. 23 </p> 
+ <a href="https://www.politico.com/news/2021/12/23/pentagon-staffers-covid-positive-526048">7 Pentagon staffers test positive for Covid after official trip</a> Politico: Marines also announce that more troops have been kicked out for refusing the vaccine. 
  <p class="updated_time"> 11:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/dccc-partnership-campaign-staff-diversity-526041">DCCC launching partnership to boost campaign staff diversity</a> Politico: House Democrats' campaign arm is partnering with Blue Leadership Collaborative to recruit and retain people of color, women and people who identify as queer as senior staff. 
+ <p class="updated_time"> 11:17 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/arts/hillary-clinton-masterclass.html">How Hillary Clinton's MasterClass Shows a Very 2021 Way to Be</a> NYT: Hillary Clinton delivered an unused election speech. Jennifer Aniston cried at Central Perk. It was a year for watching celebrities reinhabit their past selves. 
+ <p class="updated_time"> 11:16 AM CT, Dec. 23 </p> 
+ <a href="https://www.cnn.com/2021/12/23/politics/donald-trump-supreme-court-records-january-6/index.html">Trump asks Supreme Court to block release of his White House records to January 6 committee</a> CNN: Former President Donald Trump appealed to the Supreme Court on Thursday to block the release of documents from his White House to the House committee investigating the January 6 riot at the Capitol, escalating his effort to keep about 700 pages of records secret. 
  <p class="updated_time"> 10:53 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
  <p class="updated_time"> 10:40 AM CT, Dec. 23 </p> 
@@ -200,8 +202,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/23/politics/joe-biden-filibuster-voting-rights/index.html">Biden says he supports filibuster carve-out for voting rights</a> CNN: President Joe Biden says he supports making an exception to the Senate filibuster rules in order to pass voting rights legislation. 
  <p class="updated_time"> 07:34 AM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/saudi-ballistic-missiles-china/index.html">CNN Exclusive: US intel and satellite images show Saudi Arabia is now building its own ballistic missiles with help of China</a> CNN: US intelligence agencies have assessed that Saudi Arabia is now actively manufacturing its own ballistic missiles with the help of China, CNN has learned, a development that could have significant ripple effects across the Middle East and complicate the Biden administration's efforts to restrain the nuclear ambitions of Iran, the Saudis' top regional rival. 
- <p class="updated_time"> 07:33 AM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/putin-west-security-guarantees-526031">Putin urges West to act quickly to offer security guarantees</a> Politico: The Russian leader welcomed talks with the U.S. that are set to start in Geneva next month, but warned the discussion focused on Moscow’s demand needs to produce quick results. 
  <p class="updated_time"> 07:26 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/osha-vaccine-mandate-supreme-court.html">Supreme Court to Hold Special Hearing on Biden Vaccine Mandates</a> NYT: Challengers say vaccination-or-testing requirements at large employers and for health care workers were not authorized by Congress. 
  <p class="updated_time"> 07:09 AM CT, Dec. 23 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/22/politics/fec-dismisses-complaints-dejoy-straw-donor-scheme/index.html">FEC dismisses complaints filed against Louis DeJoy alleging straw donor scheme </a> CNN: The Federal Election Commission voted to dismiss two complaints filed by watchdog groups against US Postmaster General Louis DeJoy that alleged a straw donor scheme at his former company. 
  <p class="updated_time"> 06:22 AM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/larry-hogan-maryland-senate-race-2022/index.html">Maryland Gov. Larry Hogan entertaining GOP efforts to recruit him for 2022 Senate race</a> CNN: Maryland Gov. Larry Hogan is engaging with stepped-up Republican efforts to recruit him into next year's Senate race, CNN has learned. 
+ <p class="updated_time"> 06:13 AM CT, Dec. 23 </p> 
+ <a href="https://www.cnn.com/videos/politics/2021/12/23/mitch-mcconnell-joe-manchin-to-republicans-brownstein-sot-newday-vpx.cnn">'He'll be treated with respect': McConnell makes pitch to Manchin</a> CNN: Republican Senate majority leader Mitch McConnell suggested that Sen. Joe Manchin (D-WV) should switch parties in the wake of Manchin's public battle with the White House on a key piece of President Biden's agenda. CNN's Ron Brownstein explains why that won't likely happen despite some precedent. 
  <p class="updated_time"> 06:12 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/23/bidens-testing-mess-495546"> Biden’s testing mess</a> Politico Playbook: And the Supreme Court plans a special hearing on vaccine mandates. 
  <p class="updated_time"> 04:31 AM CT, Dec. 23 </p> 
@@ -280,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/22/congressional-redistricting-arizona-525993">GOP could win 6 of Arizona's 9 congressional seats after remap</a> Politico: The state's Independent Redistricting Commission approved the new congressional map on Wednesday. 
  <p class="updated_time"> 04:16 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/yellen-signature-us-currency.html">Why Janet Yellen’s Signature Is Not on U.S. Currency</a> NYT: Until a new treasurer is selected, currency will continue to bear the autograph of former Treasury Secretary Steven Mnuchin. 
- <p class="updated_time"> 04:13 PM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/videos/media/2021/12/22/biden-trump-booster-praise-fox-vpx.cnn">Biden and Trump praise each other in rare moment</a> CNN: Donald Trump reacts to President Biden offering rare praise of the former president during his Covid speech, marking a rare moment where the two men have found common ground since Inauguration Day. 
  <p class="updated_time"> 03:57 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/proud-boy-pleads-guilty-january-6/index.html">Proud Boys member pleads guilty in January 6 attack on US Capitol, the first to do so in alleged conspiracy</a> CNN: In one of the most prominent cases against far-right groups that the Justice Department alleges planned to storm the US Capitol on January 6, a New York member of the Proud Boys has pleaded guilty to felony charges, including conspiracy. 
  <p class="updated_time"> 03:47 PM CT, Dec. 22 </p> 
@@ -298,14 +298,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1066944829/matthew-greene-proud-boys-jan-6-capitol-pleads-guilty">Proud Boys member pleads guilty for role in Capitol riot</a> NPR: Matthew Greene, 34, has pleaded guilty in federal court to two criminal charges: conspiracy and obstruction of an official proceeding, related to the Capitol siege on Jan. 6, 2021. 
  <p class="updated_time"> 02:08 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/roger-stone-trump-autograph-nft-525986">Roger Stone is selling a Trump autograph NFT to pay his legal bills</a> Politico: The post-Trump presidency, encapsulated in one short story. 
+ <p class="updated_time"> 01:26 PM CT, Dec. 22 </p> 
+ <a href="https://www.politico.com/news/2021/12/22/new-jersey-redistricting-map-malinowski-525983">Democrats prevail in New Jersey redistricting with map that could sacrifice Malinowski</a> Politico: New Jersey redistricts through a commission that includes six Democratic appointees, six Republican appointees and a tie-breaker who is selected by the state Supreme Court. 
  <p class="updated_time"> 01:09 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/january-6-committee-interview-lawsuit/index.html">January 6 rally staffers detail committee investigation questions and targets in lawsuit</a> CNN: Four people who staffed the pro-Trump rally at the Ellipse that preceded the deadly Capitol attack on January 6 are suing to block House investigators from obtaining their phone records. 
  <p class="updated_time"> 12:56 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/fda-pfizer-covid-pill-525979">FDA authorizes Pfizer's Covid-19 pill</a> Politico: The pill, called Paxlovid, will provide the U.S. with another tool to help fight the virus as the more infectious Omicron variant surges. 
  <p class="updated_time"> 12:45 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/kim-potter-trial-daunte-wright-police-shooting-525976">Jury at Kim Potter trial deliberates 3rd day without verdict</a> Politico: If convicted of the most serious charge, the former Brooklyn Center officer would face a sentence of about seven years under state guidelines, though prosecutors have said they will seek more. 
- <p class="updated_time"> 12:31 PM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/cruz-2024-republican-presidential-nomination-525973">‘The runner-up is almost always the next nominee’: Cruz says he’s well-positioned for 2024</a> Politico: Asked whether he would consider launching another White House bid, the senator responded: “Absolutely. In a heartbeat.” 
  <p class="updated_time"> 12:25 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/white-house-to-extend-student-loan-payment-moratorium-525974">White House extends student loan payment freeze</a> Politico: The move comes as the deadline neared for the end of the current moratorium and as another wave of Covid threatens a strong, but fragile, economic recovery. 
  <p class="updated_time"> 12:00 PM CT, Dec. 22 </p> 
@@ -318,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/codeswitch/2021/12/22/1064823191/talking-race-pop-culture-and-youtube-with-khadija-mbowe">Talking race, pop culture and YouTube with Khadija Mbowe</a> NPR: The singer-turned-YouTuber is using their platform to take on everything from race- and queer-baiting in Bridgerton to the scrutiny of Black women's bodies to the history of dog-whistle politics. 
  <p class="updated_time"> 10:00 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/afghanistan-teachers-humanitarian-organizations/index.html">Biden administration moves to allow Afghan teachers' salaries to be paid by aid organizations</a> CNN: The Biden administration is lifting some restrictions on the types of aid that humanitarian organizations can provide to Afghanistan which will enable support for educational programs, including paying teachers' salaries, the Treasury Department and two senior administration officials announced on Wednesday. 
- <p class="updated_time"> 09:21 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/arts/hillary-clinton-masterclass.html">How Hillary Clinton's MasterClass Shows a Very 2021 Way to Be</a> NYT: Hillary Clinton delivered an unused election speech. Jennifer Aniston cried at Central Perk. It was a year for watching celebrities reinhabit their past selves. 
  <p class="updated_time"> 08:20 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/rescue-money-runs-low-omicron-arrives/index.html">Federal pandemic aid runs dry as businesses deal with Omicron's impact</a> CNN: Congress has committed nearly $6 trillion since early 2020 to fight Covid-19 and cushion the economic blow from a once-in-century pandemic. 
  <p class="updated_time"> 07:01 AM CT, Dec. 22 </p> 
