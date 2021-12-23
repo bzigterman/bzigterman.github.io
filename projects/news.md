@@ -7,20 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:59 PM CT, Dec. 23 </p> 
+ <p class="updated_time"> 04:22 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/world/europe/russia-putin-ukraine.html">Putin Mixes Positive Note With Threats, Keeping West on Edge</a> NYT: At a traditional year-end news conference, President Vladimir V. Putin of Russia said a potential meeting with the U.S. was a positive sign, but he also demanded a quick response to his security concerns. 
+ <p class="updated_time"> 04:08 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59776917?at_medium=RSS&at_campaign=KARANGA">Daunte Wright death: US 'Taser mixup' ex-officer guilty of manslaughter</a> BBC: The April shooting led to days of demonstrations against police killings of black men. 
+ <p class="updated_time"> 04:01 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Times Square Keeps New Year’s Celebration, but With a Smaller Crowd</a> NYT: Mayor Bill de Blasio said only 15,000 would be allowed to celebrate and masks will be required. Omicron has driven virus cases past Delta’s peak in the United States. 
  <p class="updated_time"> 03:44 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/lapid-israel-nuclear-iran-palestinians.html">Lapid Says Israel Will Support Iran Nuclear Pact, if It’s ‘a Good Deal.’</a> NYT: The Israeli foreign minister said “we have no problem with a deal,” but perhaps because he thinks the prospects of an agreement are remote. 
- <p class="updated_time"> 03:42 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/europe/russia-putin-ukraine.html">Putin Mixes Positive Note With Threats, Keeping West on Edge</a> NYT: At a traditional year-end news conference, President Vladimir V. Putin of Russia said a potential meeting with the U.S. was a positive sign, but he also demanded a quick response to his security concerns. 
  <p class="updated_time"> 03:41 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59766810?at_medium=RSS&at_campaign=KARANGA">US and Russia agree to talk as Putin hits out on Ukraine</a> BBC: Russia's leader demands an immediate response to his demands for Nato to pull back in Eastern Europe. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59766810?at_medium=RSS&at_campaign=KARANGA">US and Russia agree to talk as Putin hits out on Ukraine</a> BBC: Russia's leader demands an immediate response to his calls for Nato to pull back in Eastern Europe. 
  <p class="updated_time"> 03:35 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067598864/encore-encouraging-collaboration-early-on-can-lead-to-more-helpful-children">Encore: Encouraging collaboration early on can lead to more helpful children</a> NPR: In many cultures around the world, parents don't need chore charts or allowances for kids to pitch in around the house. A new study shows how parents in these cultures teach children to be helpful. 
  <p class="updated_time"> 03:23 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/migrant-boat-crash-greece.html">Second Deadly Migrant Boat Crash Off Greece This Week</a> NYT: Ninety people were left stranded after Thursday’s accident. The crash came in a week that also saw scores of migrants die in wrecks off the coast of Libya. 
- <p class="updated_time"> 03:15 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59776917?at_medium=RSS&at_campaign=KARANGA">Daunte Wright death: US 'Taser mixup' ex-officer guilty of manslaughter</a> BBC: The April shooting led to days of demonstrations against police killings of black men. 
  <p class="updated_time"> 03:11 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59772299?at_medium=RSS&at_campaign=KARANGA">Covid: Ecuador makes vaccination mandatory for most citizens</a> BBC: All those from the age of five must be jabbed, although people with medical reasons are exempt. 
  <p class="updated_time"> 02:20 PM CT, Dec. 23 </p> 
@@ -174,6 +174,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:09 PM CT, Dec. 23 </p> 
+ <a href="https://www.politico.com/news/2021/12/23/russia-buildup-ukraine-satellite-images-526109">Russian buildup near Ukraine gains steam, new satellite images show</a> Politico: The release of the images came hours after Moscow and Washington traded warnings over what might come next in the tense standoff. 
  <p class="updated_time"> 03:56 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067598857/the-trump-supporters-who-went-from-planning-the-jan-6-rally-to-aiding-the-riot-p">The Trump supporters who went from planning the Jan. 6 rally to aiding the riot probe</a> NPR: NPR's Ari Shapiro talks with reporter Hunter Walker, who wrote a Rolling Stone article on Dustin Stockton and Jennifer Lynn Lawrence, the Trump supporters now cooperating with the Jan. 6 House panel. 
  <p class="updated_time"> 03:40 PM CT, Dec. 23 </p> 
@@ -296,8 +298,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/22/politics/joe-biden-polling-public-approval/index.html">Analysis: Biden's polling 'blip' has become his new normal</a> CNN: When President Joe Biden's poll numbers initially began to slip in late August, Democrats insisted to anyone who would listen that this would be a temporary blip. 
  <p class="updated_time"> 05:21 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/michael-flynn-january-6-lawsuit/index.html">Michael Flynn loses his legal challenge to the House January 6 probe, one day after filing it</a> CNN: Michael Flynn has swiftly lost his bid in court to block a possible House Select Committee subpoena for his phone records and to hold off demands he speak to the committee investigating January 6. 
- <p class="updated_time"> 04:22 PM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/congressional-redistricting-arizona-525993">GOP could win 6 of Arizona's 9 congressional seats after remap</a> Politico: The state's Independent Redistricting Commission approved the new congressional map on Wednesday. 
+ <p class="updated_time"> 05:00 PM CT, Dec. 22 </p> 
+ <a href="https://www.politico.com/news/2021/12/22/trudeau-canadians-hunker-down-omicron-525998">Trudeau tells Canadians to ‘hunker down’ as Biden urges calm over Omicron</a> Politico: Canadians hunt for boosters and rapid tests amid Covid surge that is disrupting holiday plans. 
  <p class="updated_time"> 04:16 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/yellen-signature-us-currency.html">Why Janet Yellen’s Signature Is Not on U.S. Currency</a> NYT: Until a new treasurer is selected, currency will continue to bear the autograph of former Treasury Secretary Steven Mnuchin. 
  <p class="updated_time"> 03:57 PM CT, Dec. 22 </p> 
@@ -370,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/21/politics/republican-midterm-candidates-2020-election-lies/index.html">Republican candidates across the country refuse to acknowledge Biden won legitimately</a> CNN: Five Republican candidates for governor of Minnesota were asked at a forum last Wednesday whether they thought President Joe Biden won a "constitutional majority in the Electoral College." None of them was willing to utter a plain "yes." 
  <p class="updated_time"> 05:00 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/biden-omicron-testing-hospitals-525811">Biden expanding testing and reinforcing hospitals in face of Omicron</a> Politico: The initiatives come as Omicron blankets the U.S. and amount to a redeployment of emergency defenses seen last year. 
- <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/recovery-lab-hackathon-states-managing-covid-524852">Policy Hackathon: What states have learned — the hard way — about managing Covid</a> Politico: We asked states who topped POLITICO’s pandemic scorecard to compare notes on balancing Covid’s deadly trade-offs. Here’s what they said. 
  <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/amazon-federal-law-enforcement-525794">How one of America’s largest employers leans on federal law enforcement</a> Politico: Amazon has increasingly tipped off the Justice Department and FBI to investigate its own employees and the sellers using its platform, according to a POLITICO analysis.  
  <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
