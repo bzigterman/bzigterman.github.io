@@ -16,6 +16,47 @@ less_recent_years <- ymd((today() - years(6)))
 past_ten_years <- ymd((today() - years(11)))
 
 # usa ----
+
+## initial unemployment claims ----
+data <- fredr(series_id = "ICSA")
+recent_data <- data %>%
+  filter(date > recent_years) %>%
+  mutate(short_date = paste(month(date, label = TRUE, abbr = TRUE),
+                            day(date)))
+
+
+ggplot(data = data,
+       aes(x = date,
+           y = value/1000000)) +
+  geom_line() +
+  labs(title = "Initial Unemployment Claims",
+       caption = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+                       tail(recent_data$short_date,1))) +
+  xlab(NULL) +
+  ylab(NULL) +
+  scale_y_continuous(position = "right",
+                     labels = label_comma(suffix = "M",
+                                          accuracy = 1)) +
+  scale_x_date(expand = expansion(mult = c(0, 0))) +
+  facet_zoom(x = date > recent_years,
+             zoom.size = 4,
+             ylim = c(min(recent_data$value/1000000),
+                      max(recent_data$value/1000000)),
+             #show.area = FALSE,
+             horizontal = FALSE) +
+  theme_bw() +
+  theme(axis.text.y = element_text(size = 10),
+        axis.text.x = element_text(size = 8),
+        # panel.grid.minor = element_blank(),
+        # panel.background = element_blank(),
+        # panel.grid.major.x = element_line(colour = "grey93"),
+        panel.grid.major.y = element_line(colour = "grey93"),
+        # #strip.text = element_text(size = 11),
+        #strip.background = element_blank(),
+        plot.caption = element_text(colour = "grey40"))
+
+ggsave("plots/initial_claims.png", width = 8, height = 8*(628/1200), dpi = 320)
+
 ## unemployment rate ----
 data <- fredr(series_id = "UNRATE")
 recent_data <- data %>%
@@ -913,6 +954,8 @@ Source: [Institute of Government and Public Affairs at the University of Illinoi
 ![Population]({{ site.baseurl }}/plots/il_population.png)
 
 ## United States
+
+![Initial Claims]({{ site.baseurl }}/plots/initial_claims.png)
 
 ![Unemployment Rate]({{ site.baseurl }}/plots/unemployment_rate.png)
 
