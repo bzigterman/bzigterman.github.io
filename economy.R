@@ -490,14 +490,14 @@ ggsave("plots/consumer_price_index.png", plot = cpi,
 data <-fredr(series_id = "POPTHM")
 recent_data <- data %>%
   filter(date > past_ten_years) %>%
-  mutate(short_date = paste(year(date))) 
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
 
 us_population <- ggplot(data = data,
                                aes(x = date,
                                    y = value/1000)) +
   geom_line() +
   labs(title = "Population",
-       caption = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: U.S. Bureau of Economic Analysis, retrieved from the St. Louis Fed. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -523,7 +523,7 @@ us_population <- ggplot(data = data,
         #strip.background = element_blank(),
         plot.caption = element_text(colour = "grey40"))
 us_population
-ggsave("plots/us_population.png", plot = champaign_population,
+ggsave("plots/us_population.png", plot = us_population,
        width = 8, height = 8*(628/1200), dpi = 320)
 
 # Champaign ----
