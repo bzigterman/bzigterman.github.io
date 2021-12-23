@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:51 PM CT, Dec. 23 </p> 
+ <p class="updated_time"> 12:56 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Spain, Italy Register Almost 50,000 Virus Cases Daily</a> NYT: Many European countries are requiring masks outdoors and banning public events. Israel is considering giving out a fourth vaccine. 
  <p class="updated_time"> 12:49 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/lapid-israel-nuclear-iran-palestinians.html">Lapid Says Israel Will Support Iran Nuclear Pact, if It’s ‘a Good Deal.’</a> NYT: The Israeli foreign minister said “we have no problem with a deal,” but perhaps because he thinks the prospects of an agreement are remote. 
