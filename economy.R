@@ -492,8 +492,8 @@ recent_data <- data %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
 
 us_population <- ggplot(data = data,
-                               aes(x = date,
-                                   y = value/1000)) +
+                        aes(x = date,
+                            y = value/1000)) +
   geom_line() +
   labs(title = "Population",
        caption = paste("Source: U.S. Bureau of Economic Analysis, retrieved from the St. Louis Fed. Latest data:",
