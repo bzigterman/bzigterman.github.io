@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:54 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: As Israel Considers 4th Vaccine Dose, Some Ask If It’s Premature</a> NYT: Greece and other European nations add restrictions as cases surge. The Chinese authorities lock down Xi’an, a city of 13 million. 
+ <p class="updated_time"> 08:47 AM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59765052?at_medium=RSS&at_campaign=KARANGA">James Franco admits sleeping with students from his acting school</a> BBC: The actor spoke at length about allegations of sexual misconduct made against him in 2018. 
  <p class="updated_time"> 08:32 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review.html">Bros' Restaurant in Italy: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
- <p class="updated_time"> 08:20 AM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: As Israel Considers 4th Vaccine Dose, Some Ask If It’s Premature</a> NYT: Greece and other European nations add restrictions as cases surge. The Chinese authorities lock down Xi’an, a city of 13 million. 
+ <p class="updated_time"> 08:12 AM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59760490?at_medium=RSS&at_campaign=KARANGA">Netlicks? 'The TV screen you can taste’</a> BBC: A Japanese professor invents a prototype TV that sprays flavours onto a lickable "hygienic film". 
  <p class="updated_time"> 08:06 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/russia-putin-ukraine.html">Putin Demands Quick Answers on Russian Security Concerns</a> NYT: At a traditional year-end news conference, President Vladimir V. Putin of Russia blamed the West for talk of “war, war, war,” but did not markedly escalate tensions further. 
  <p class="updated_time"> 08:06 AM CT, Dec. 23 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59764029?at_medium=RSS&at_campaign=KARANGA">Pillar of Shame: Hong Kong's Tiananmen Square statue removed</a> BBC: It was one of the few remaining public memorials in Hong Kong commemorating the 1989 massacre. 
  <p class="updated_time"> 04:31 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/li-tiantian-disappearance.html">Fury in China After Li Tiantian, an Outspoken Teacher, Disappears</a> NYT: Supporters of Li Tiantian believe that local officials may have sent her to a psychiatric hospital, a longstanding way of stifling and discrediting dissent. 
- <p class="updated_time"> 04:21 AM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59765052?at_medium=RSS&at_campaign=KARANGA">James Franco admits sleeping with students from his acting school</a> BBC: The actor spoke at length about allegations of sexual misconduct made against him in 2018. 
  <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/science/polar-bears-svalbard.html">How to Catch a Polar Bear</a> NYT: First, spot the bear. 
  <p class="updated_time"> 03:13 AM CT, Dec. 23 </p> 
@@ -174,14 +176,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:32 AM CT, Dec. 23 </p> 
+ <p class="updated_time"> 08:55 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/business/economy/inflation-pce-index-fed.html">PCE Index Hit Highest Level in November Since 1982</a> NYT: The Fed’s preferred inflation gauge, the Personal Consumption Expenditures index, climbed 5.7 percent in November from a year earlier. 
+ <p class="updated_time"> 08:50 AM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/dewine-signs-abortion-bill-ohio/index.html">Ohio GOP governor signs abortion bill into law</a> CNN: Ohio Republican Gov. Mike DeWine on Wednesday signed a bill into law requiring doctors to try to preserve life in the rare case that a baby is born alive following an attempted abortion -- or face criminal penalties. 
  <p class="updated_time"> 07:58 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/science/webb-nasa-launch-delay.html">How NASA's Webb Telescope Overcame Loose Screws, Budgets and Clamps</a> NYT: Getting the James Webb Space Telescope to the launchpad has been a difficult journey that has taken decades. 
  <p class="updated_time"> 07:41 AM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/joe-biden-filibuster-voting-rights/index.html">Biden says he supports filibuster carve-out for voting rights</a> CNN: President Joe Biden says he supports making an exception to the Senate filibuster rules in order to pass voting rights legislation. 
- <p class="updated_time"> 07:38 AM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/business/economy/inflation-pce-index-fed.html">PCE Index Probably Popped Again in November</a> NYT: The Personal Consumption Expenditures index climbed 5.7 percent in November from a year earlier. 
  <p class="updated_time"> 07:34 AM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/saudi-ballistic-missiles-china/index.html">CNN Exclusive: US intel and satellite images show Saudi Arabia is now building its own ballistic missiles with help of China</a> CNN: US intelligence agencies have assessed that Saudi Arabia is now actively manufacturing its own ballistic missiles with the help of China, CNN has learned, a development that could have significant ripple effects across the Middle East and complicate the Biden administration's efforts to restrain the nuclear ambitions of Iran, the Saudis' top regional rival. 
  <p class="updated_time"> 07:33 AM CT, Dec. 23 </p> 
