@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:16 PM CT, Dec. 22 </p> 
+ <p class="updated_time"> 09:49 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/world/asia/india-christians-attacked.html">India's Christians Attacked Under Anti-Conversion Laws</a> NYT: “They want to remove us from society,” a Christian farmer said of Hindu extremists. Rising attacks on Christians are part of a broader shift in India, in which minorities feel less safe. 
+ <p class="updated_time"> 09:43 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: White House Promises More Covid Treatments</a> NYT: British researchers find that Omicron effects seem less severe. The F.D.A. authorizes Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
  <p class="updated_time"> 08:57 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59764029?at_medium=RSS&at_campaign=KARANGA">Pillar of Shame: Hong Kong's Tiananmen Square statue removed</a> BBC: It was one of the few remaining public memorials in Hong Kong commemorating the 1989 massacre. 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59753043?at_medium=RSS&at_campaign=KARANGA">French outcry over academic in Grenoble Islamophobia row</a> BBC: Dozens of academics warn that freedom of expression is at risk after a German professor is suspended. 
  <p class="updated_time"> 06:36 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066649196/omicron-will-cause-more-infections-but-lower-hospital-rates-analysis-shows">Omicron will cause more infections but lower hospital rates, analysis shows</a> NPR: University of Washington research predicts the omicron wave will infect more than 400,000 people a day in the U.S. when it crests in about six weeks. 
- <p class="updated_time"> 04:43 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/world/asia/india-christians-attacked.html">India's Christians Attacked Under Anti-Conversion Laws</a> NYT: “They want to remove us from society,” a Christian farmer said of Hindu extremists. Rising attacks on Christians are part of a broader shift in India, in which minorities feel less safe. 
  <p class="updated_time"> 04:21 AM CT, Dec. 22 </p> 
  <a href="https://www.wsj.com/articles/libya-delays-presidential-election-amid-concerns-of-renewed-conflict-11640183492">Libya Delays Presidential Election Amid Concerns of Renewed Conflict</a> WSJ: The vote scheduled for later this week was postponed by at least a month, the country’s electoral commission said, in an effort to defuse tensions between rival political factions. 
  <p class="updated_time"> 04:11 AM CT, Dec. 22 </p> 
@@ -190,10 +190,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:45 PM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/biden-vaccine-mandate-oral-arguments-supreme-court/index.html">In rare move, SCOTUS will hear January oral arguments in challenges to Biden vaccine mandates</a> CNN: The Supreme Court said Wednesday it is scheduling oral arguments for January 7 in the cases challenging the Biden administration's Covid-19 vaccine requirements for large employers and certain health care workers. 
+ <p class="updated_time"> 09:43 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/us/politics/kamala-harris-covid.html">Vice President Kamala Harris Was Exposed to Covid</a> NYT: President Biden had also been in close contact with a staff member who later tested positive. 
  <p class="updated_time"> 09:16 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/osha-vaccine-mandate-supreme-court.html">Supreme Court to Hold Special Hearing on Biden Vaccine Mandates</a> NYT: Challengers say vaccination-or-testing requirements at large employers and for health care workers were not authorized by Congress. 
- <p class="updated_time"> 08:57 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/us/politics/kamala-harris-covid.html">Vice President Kamala Harris Was Exposed to Covid</a> NYT: President Biden had also been in close contact with a staff member who later tested positive. 
  <p class="updated_time"> 08:57 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/jim-jordan-house-select-committee-january-6/index.html">House committee seeks to interview GOP firebrand Rep. Jim Jordan about January 6</a> CNN: The House select committee investigating January 6 has asked Rep. Jim Jordan, one of former President Donald Trump's top congressional allies, to voluntarily meet with the panel as it zeroes in on Republican lawmakers who may have significant knowledge of events leading up to the US Capitol attack. 
  <p class="updated_time"> 08:19 PM CT, Dec. 22 </p> 
@@ -210,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/your-money/student-loan-pause.html">Biden Administration Extends Pause on Student Loan Payments Until May 1</a> NYT: The Biden administration, under pressure from Democratic lawmakers, announced a three-month extension, citing the resurgent pandemic. 
  <p class="updated_time"> 07:32 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/capitol-riot-matthew-greene-guilty.html">Proud Boys Member Pleads Guilty and Will Cooperate in Jan. 6 Riot Inquiry</a> NYT: Matthew Greene, 34, who was “among the first wave” to rush up the Capitol steps, pleaded guilty to two charges and agreed to cooperate with the government, federal prosecutors said. 
- <p class="updated_time"> 07:09 PM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/biden-vaccine-mandate-oral-arguments-supreme-court/index.html">In rare move, SCOTUS will hear January oral arguments in challenges to Biden vaccine mandates</a> CNN: The Supreme Court said Wednesday it is scheduling oral arguments for January 7 in the cases challenging the Biden administration's Covid-19 vaccine requirements for large employers and certain health care workers. 
  <p class="updated_time"> 06:52 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/covid-tests-biden-omicron.html">Biden Promised 500 Million Tests, but Americans Will Have to Wait</a> NYT: Contracts to purchase tests could be signed as soon as next week, but relief could be weeks away for people trying to buy the hard-to-find tests. 
  <p class="updated_time"> 06:22 PM CT, Dec. 22 </p> 
