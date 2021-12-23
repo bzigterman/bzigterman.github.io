@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:59 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Times Square Keeps New Year’s Celebration, but With a Smaller Crowd</a> NYT: Mayor Bill de Blasio said only 15,000 would be allowed to celebrate and masks will be required. Omicron has driven virus cases past Delta’s peak in the United States. 
  <p class="updated_time"> 03:44 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/lapid-israel-nuclear-iran-palestinians.html">Lapid Says Israel Will Support Iran Nuclear Pact, if It’s ‘a Good Deal.’</a> NYT: The Israeli foreign minister said “we have no problem with a deal,” but perhaps because he thinks the prospects of an agreement are remote. 
  <p class="updated_time"> 03:42 PM CT, Dec. 23 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/23/1067598864/encore-encouraging-collaboration-early-on-can-lead-to-more-helpful-children">Encore: Encouraging collaboration early on can lead to more helpful children</a> NPR: In many cultures around the world, parents don't need chore charts or allowances for kids to pitch in around the house. A new study shows how parents in these cultures teach children to be helpful. 
  <p class="updated_time"> 03:23 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/migrant-boat-crash-greece.html">Second Deadly Migrant Boat Crash Off Greece This Week</a> NYT: Ninety people were left stranded after Thursday’s accident. The crash came in a week that also saw scores of migrants die in wrecks off the coast of Libya. 
- <p class="updated_time"> 03:19 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Times Square Keeps New Year’s Celebration, but With a Smaller Crowd</a> NYT: Mayor Bill de Blasio said only 15,000 would be allowed to celebrate and masks will be required. Omicron has driven virus cases past Delta’s peak in the United States. 
  <p class="updated_time"> 03:15 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59776917?at_medium=RSS&at_campaign=KARANGA">Daunte Wright death: US 'Taser mixup' ex-officer guilty of manslaughter</a> BBC: The April shooting led to days of demonstrations against police killings of black men. 
  <p class="updated_time"> 03:11 PM CT, Dec. 23 </p> 
@@ -174,6 +174,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:56 PM CT, Dec. 23 </p> 
+ <a href="https://www.npr.org/2021/12/23/1067598857/the-trump-supporters-who-went-from-planning-the-jan-6-rally-to-aiding-the-riot-p">The Trump supporters who went from planning the Jan. 6 rally to aiding the riot probe</a> NPR: NPR's Ari Shapiro talks with reporter Hunter Walker, who wrote a Rolling Stone article on Dustin Stockton and Jennifer Lynn Lawrence, the Trump supporters now cooperating with the Jan. 6 House panel. 
  <p class="updated_time"> 03:40 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/apple-google-doj-delay-526072">Potential DOJ suits against Apple and Google delayed amid budget woes</a> Politico: Antitrust prosecutors had aimed to wrap up their probes of the two tech giants by Dec. 31. But now a decision on whether to sue could come in March or later. 
  <p class="updated_time"> 03:38 PM CT, Dec. 23 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1066879033/biden-federal-student-loan-payment-freeze-extension-borrowers">President Biden extends student loan payment freeze through May 1</a> NPR: President Biden extended relief for federal student loan borrowers for an additional 90 days because borrowers are "still coping with the impacts of the pandemic." Payments now resume May 1. 
  <p class="updated_time"> 11:24 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066714092/biden-negative-test-covid-19-air-force-one">Biden tests negative for COVID-19 after recent exposure</a> NPR: The test was done after a White House staff member — who had flown with Biden on Air Force One on Friday — tested positive for COVID on Monday. Biden had tested negative on Sunday and Monday. 
- <p class="updated_time"> 11:02 AM CT, Dec. 22 </p> 
- <a href="https://www.npr.org/sections/codeswitch/2021/12/22/1064823191/talking-race-pop-culture-and-youtube-with-khadija-mbowe">Talking race, pop culture and YouTube with Khadija Mbowe</a> NPR: The singer-turned-YouTuber is using their platform to take on everything from race- and queer-baiting in Bridgerton to the scrutiny of Black women's bodies to the history of dog-whistle politics. 
  <p class="updated_time"> 10:00 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/afghanistan-teachers-humanitarian-organizations/index.html">Biden administration moves to allow Afghan teachers' salaries to be paid by aid organizations</a> CNN: The Biden administration is lifting some restrictions on the types of aid that humanitarian organizations can provide to Afghanistan which will enable support for educational programs, including paying teachers' salaries, the Treasury Department and two senior administration officials announced on Wednesday. 
  <p class="updated_time"> 08:20 AM CT, Dec. 22 </p> 
