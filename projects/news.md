@@ -35,18 +35,20 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/science/polar-bears-svalbard.html">How to Catch a Polar Bear</a> NYT: First, spot the bear. 
  <p class="updated_time"> 03:13 AM CT, Dec. 23 </p> 
  <a href="https://www.wsj.com/articles/u-n-plans-8-billion-fund-to-restart-afghanistan-economy-11640268816">U.N. Plans $8 Billion Fund to Restart Afghanistan's Economy</a> WSJ: The plan would move beyond a purely humanitarian mission to rebuilding governing systems and social services. 
- <p class="updated_time"> 03:07 AM CT, Dec. 23 </p> 
- <a href="https://www.wsj.com/articles/omicron-drives-covid-19-surge-in-u-s-as-world-awaits-fresh-evidence-on-severity-11640268476">Omicron Drives Surge in U.S. as World Awaits Fresh Evidence on Severity</a> WSJ: Real-world studies are promising signs that immunity from vaccination or prior infection help ward off severe illness from the fast-spreading variant. 
  <p class="updated_time"> 02:30 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067169021/changing-climate-parches-afghanistan-exacerbating-poverty">Changing climate parches Afghanistan, exacerbating poverty</a> NPR: A severe drought, now in its second year, has dramatically worsened the already desperate situation in the country with an economy in freefall following the Taliban takeover in August. 
  <p class="updated_time"> 02:26 AM CT, Dec. 23 </p> 
  <a href="https://www.wsj.com/articles/intel-apologizes-after-asking-suppliers-to-avoid-chinas-xinjiang-region-11640261303">Intel Apologizes After Asking Suppliers to Avoid China's Xinjiang Region</a> WSJ: The California-based chip maker said a letter it had sent to global suppliers was written only to comply with U.S. law and didn’t represent Intel’s stance on the region, where the Chinese government has conducted a campaign of forcible assimilation against religious minorities. 
+ <p class="updated_time"> 02:00 AM CT, Dec. 23 </p> 
+ <a href="https://www.wsj.com/articles/two-years-into-covid-19-pandemic-elderly-italians-again-face-christmas-alone-11640264404">Two Years Into Covid-19, Elderly Italians Again Face Christmas Alone</a> WSJ: As Italy is fighting to slow down the Omicron variant, many nursing homes have restricted or suspended family visits during the Christmas holidays, putting a strain on families. 
  <p class="updated_time"> 01:51 AM CT, Dec. 23 </p> 
  <a href="https://www.wsj.com/articles/putin-denies-troop-buildup-near-ukraine-means-russia-wants-conflict-11640263896">Putin Denies Troop Buildup Near Ukraine Means Russia Wants Conflict</a> WSJ: Russia’s president defended the need to protect his country’s integrity and sovereignty in the face of what he described as attempts by NATO to encroach on Russia’s doorstep. 
  <p class="updated_time"> 01:23 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067163101/hong-kong-university-removes-tiananmen-massacre-statue">Hong Kong university removes Tiananmen massacre statue</a> NPR: A monument at a Hong Kong university that commemorates the 1989 Tiananmen Square massacre was removed by workers early Thursday. Workers had erected barricades around the monument late Wednesday. 
  <p class="updated_time"> 01:06 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59766737?at_medium=RSS&at_campaign=KARANGA">Tiananmen Square memorial statue removed in Hong Kong</a> BBC: The Pillar of Shame showed piled-up corpses to commemorate protesters killed by Chinese authorities in 1989. 
+ <p class="updated_time"> 01:00 AM CT, Dec. 23 </p> 
+ <a href="https://www.wsj.com/articles/u-s-sees-new-bright-spot-in-europe-greece-11640260804">U.S. Sees New Bright Spot in Europe: Greece</a> WSJ: American technology companies, gas exporters and military are expanding their activities in Greece, whose long-suffering economy is bouncing back from pandemic depths. 
  <p class="updated_time"> 12:49 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/22/business/paris-france-inflation-prices.html">Inflation Forces Parisian Vendors to Raise Prices on Staples</a> NYT: Soaring inflation in Europe is starting to squeeze shopkeepers and consumers. Many are preparing for more price increases in the new year. 
  <p class="updated_time"> 10:24 PM CT, Dec. 22 </p> 
@@ -320,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/22/politics/covid-pandemic-emergency-rental-assistance/index.html">Federal pandemic rental aid helped 2.5 million households. Nearly 5 million are still struggling</a> CNN: One year after Congress first authorized billions of dollars in Covid-19 pandemic rental assistance, the money has helped more than 2.5 million struggling renters to remain in their homes. But there are still roughly 4.7 million households behind on their rent across the country. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/hospitals-omicron-vaccinating-health-care-workers-525952">Hospitals grapple with Omicron — and legal brawl over vaccinating staff</a> Politico: More than 60,000 patients are hospitalized with Covid-19, according to the CDC, and the numbers are climbing with the highly contagious Omicron strain surging. 
- <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/redistricting-state-lawmakers-525960">You can draw your own congressional district</a> Politico: Redistricting is already inherently self-interested, with lawmakers routinely drawing maps for the benefit of their party. But, in some cases, politicians are working in their literal self-interest. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/dan-crenshaw-conservatives-come-correct-525829">Dan Crenshaw to his fellow conservatives: Come ‘correct’</a> Politico: The combat veteran often voted with Donald Trump but doesn't act Trumpishly. And he'll slam other Republicans when he feels he must. 
  <p class="updated_time"> 04:10 AM CT, Dec. 22 </p> 
