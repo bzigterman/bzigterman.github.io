@@ -112,50 +112,28 @@ plot_grid(employment, employment_change,
 ggsave("plots/employment.png",
        width = 8, height = 6, dpi = 320)
 
-## median household income ----
-data <-fredr(series_id = "MEHOINUSA672N")
+## Disposable Income ----
+data <-fredr(series_id = "A229RX0")
 recent_data <- data %>%
-  filter(date > past_ten_years) %>%
-  mutate(short_date = paste(year(date))) 
+  filter(date > recent_years) %>%
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
 
-ggplot(data, aes(x = date,
-                 y = value)) +
+ggplot(data = data,
+       aes(x = date,
+           y = value/1000)) +
   geom_line() +
-  labs(title = "Real Median Household Income",
+  labs(title = "Real Disposable Personal Income: Per Capita",
        caption = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
-  scale_x_date(expand = expansion(mult = c(0, .01))) +
   scale_y_continuous(position = "right",
-                     labels = label_dollar(),
-                     limits = c(0,max(data$value)*1.05)) +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        panel.grid.minor = element_blank(),
-        panel.background = element_blank(),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        strip.text = element_text(size = 11),
-        strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-
-median_household_income <- ggplot(data = data,
-                                  aes(x = date,
-                                      y = value)) +
-  geom_line() +
-  labs(title = "Real Median Household Income",
-       caption = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  #expand_limits(y=0) +
-  scale_y_continuous(position = "right",
-                     labels = label_dollar()) +
+                     labels = label_dollar(suffix = "K")) +
   scale_x_date(expand = expansion(mult = c(0, 0))) +
-  facet_zoom(x = date > past_ten_years,
+  facet_zoom(x = date > recent_years,
              zoom.size = 4,
-             ylim = c(min(recent_data$value),
-                      max(recent_data$value)),
+             ylim = c(min(recent_data$value/1000),
+                      max(recent_data$value/1000)),
              #show.area = FALSE,
              horizontal = FALSE) +
   theme_bw() +
@@ -168,8 +146,9 @@ median_household_income <- ggplot(data = data,
         # #strip.text = element_text(size = 11),
         #strip.background = element_blank(),
         plot.caption = element_text(colour = "grey40"))
-median_household_income
-ggsave("plots/real_median_income.png", plot = median_household_income,
+
+
+ggsave("plots/disposable_income.png", plot = median_household_income,
        width = 8, height = 8*(628/1200), dpi = 320)
 
 ## real GDP ----
@@ -899,6 +878,8 @@ Source: [Institute of Government and Public Affairs at the University of Illinoi
 
 ![Employment]({{ site.baseurl }}/plots/employment.png)
 
+![Disposable Income]({{ site.baseurl }}/plots/disposable_income.png)
+
 ![Inflation]({{ site.baseurl }}/plots/consumer_price_index.png)
 
 ![Retail Sales]({{ site.baseurl }}/plots/retail_sales.png)
@@ -908,8 +889,6 @@ Source: [Institute of Government and Public Affairs at the University of Illinoi
 ![Consumer Sentiment]({{ site.baseurl }}/plots/consumer_sentiment.png)
 
 ![Real GDP]({{ site.baseurl }}/plots/gdp.png)
-
-![Real Median Income]({{ site.baseurl }}/plots/real_median_income.png)
 
 Data retrieved from the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org)
 
