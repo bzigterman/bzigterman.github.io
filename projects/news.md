@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:35 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Spain, Italy Register Almost 50,000 Virus Cases Daily</a> NYT: Many European countries are requiring masks outdoors and banning public events. Israel is considering giving out a fourth vaccine. 
  <p class="updated_time"> 01:20 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/arts/music/carols-christmas-kings-choir-mcdowall.html">Cecilia McDowall to Debut New Christmas Carol</a> NYT: Each year, the choir of King’s College, Cambridge, commissions an original song for its Christmas service, giving the composer an audience of around 100 million people. 
  <p class="updated_time"> 01:14 PM CT, Dec. 23 </p> 
@@ -14,11 +16,9 @@ permalink: /projects/news/
  <p class="updated_time"> 01:14 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59775127?at_medium=RSS&at_campaign=KARANGA">Joan Didion: US literary icon dies at 87</a> BBC: She was known for chronicling US culture and was a screenwriter for the 1976 film A Star is Born. 
  <p class="updated_time"> 01:04 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59776765?at_medium=RSS&at_campaign=KARANGA">James Franco: I'll admit, I did sleep with students... and that was wrong</a> BBC: Watch the actor speak about his past "consensual" relationships with students at his acting school. 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59776765?at_medium=RSS&at_campaign=KARANGA">James Franco: I'll admit, I did sleep with students... and that was wrong</a> BBC: The actor paid $2.2m (£1.6m) after being sued over "sexually-charged behaviour towards female students". 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
- <p class="updated_time"> 01:02 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Spain, Italy Register Almost 50,000 Virus Cases Daily</a> NYT: Many European countries are requiring masks outdoors and banning public events. Israel is considering giving out a fourth vaccine. 
  <p class="updated_time"> 12:42 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review.html">Bros' Restaurant in Italy: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
  <p class="updated_time"> 12:40 PM CT, Dec. 23 </p> 
@@ -47,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59765052?at_medium=RSS&at_campaign=KARANGA">James Franco admits sleeping with students from his acting school</a> BBC: The actor spoke at length about allegations of sexual misconduct made against him in 2018. 
  <p class="updated_time"> 08:12 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59760490?at_medium=RSS&at_campaign=KARANGA">Netlicks? 'The TV screen you can taste’</a> BBC: A Japanese professor invents a prototype TV that sprays flavours onto a lickable "hygienic film". 
+ <p class="updated_time"> 07:36 AM CT, Dec. 23 </p> 
+ <a href="https://www.wsj.com/articles/u-k-study-finds-risk-of-hospitalization-with-omicron-50-to-70-lower-than-with-delta-11640281553">U.K. Study Reinforces Conclusion That Omicron Causes Less Severe Disease</a> WSJ: The study found people infected with the Omicron variant are between 50% to 70% less likely to be hospitalized, adding to a body of evidence of Omicron’s reduced severity in populations with high levels of Covid immunity. 
  <p class="updated_time"> 07:09 AM CT, Dec. 23 </p> 
  <a href="https://www.wsj.com/articles/putin-denies-troop-buildup-near-ukraine-means-russia-wants-conflict-11640263896">Putin Blames the West for Ukraine Tensions During News Conference</a> WSJ: Russia’s president defended the need to protect his country’s integrity against what he described as attempts by NATO to encroach on Russia’s doorstep. 
  <p class="updated_time"> 07:01 AM CT, Dec. 23 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59768195?at_medium=RSS&at_campaign=KARANGA">Belgium agrees to close controversial ageing nuclear reactors</a> BBC: The plants have for years sparked safety fears from neighbours including Germany. 
  <p class="updated_time"> 06:03 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59738542?at_medium=RSS&at_campaign=KARANGA">Gay Santa ad highlights big shift in Norwegian society</a> BBC: The ad showing Father Christmas kissing a man highlights 50 years of changes in Norwegian LGBT rights. 
- <p class="updated_time"> 05:55 AM CT, Dec. 23 </p> 
- <a href="https://www.wsj.com/articles/intel-apologizes-after-asking-suppliers-to-avoid-chinas-xinjiang-region-11640261303">Intel Apologizes After Asking Suppliers to Avoid China's Xinjiang Region</a> WSJ: The California-based chip maker said a letter it had sent to global suppliers was written only to comply with U.S. law and didn’t represent Intel’s stance on the region, where the Chinese government has conducted a campaign of forcible assimilation against religious minorities. 
  <p class="updated_time"> 05:36 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067188698/putin-urges-west-to-act-quickly-to-offer-security-guarantees">Putin urges West to act quickly to offer security guarantees</a> NPR: Russian President Vladimir Putin urged the West on Thursday to move quickly to meet Russia's demand for security guarantees precluding NATO's expansion to Ukraine. 
  <p class="updated_time"> 05:01 AM CT, Dec. 23 </p> 
