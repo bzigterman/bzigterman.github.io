@@ -148,7 +148,7 @@ ggplot(data = data,
         plot.caption = element_text(colour = "grey40"))
 
 
-ggsave("plots/disposable_income.png", plot = median_household_income,
+ggsave("plots/disposable_income.png",
        width = 8, height = 8*(628/1200), dpi = 320)
 
 ## real GDP ----
