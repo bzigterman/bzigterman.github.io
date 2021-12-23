@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:30 AM CT, Dec. 23 </p> 
+ <a href="https://www.npr.org/2021/12/23/1067169021/changing-climate-parches-afghanistan-exacerbating-poverty">Changing climate parches Afghanistan, exacerbating poverty</a> NPR: A severe drought, now in its second year, has dramatically worsened the already desperate situation in the country with an economy in freefall following the Taliban takeover in August. 
  <p class="updated_time"> 02:00 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review-geraldine-deruiter.html">Of Mouth Molds and Michelin Stars: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
  <p class="updated_time"> 01:51 AM CT, Dec. 23 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066163872/mexican-cartels-turning-to-meth-and-fentanyl-production">Mexican cartels are turning to meth and fentanyl production</a> NPR: Cartels are increasingly turning to huge, industrial-scale labs to churn out synthetic drugs as they shift away from naturally grown drugs like opium and marijuana. 
  <p class="updated_time"> 10:57 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/health/covid-novavax-europe.html">Novavax’s Covid Vaccine Is Authorized in Europe</a> NYT: The vaccine will be the fifth to become available in the E.U., which already has ample supplies. 
- <p class="updated_time"> 10:12 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2021/12/20/1066049450/super-typhoon-rai-leaves-a-path-of-devastation-and-uncertainty">Desperation grows in the Philippines in the aftermath of Typhoon Rai</a> NPR: Rai is one of the most powerful storms to hit the southern Philippines on record. It's displaced more than 481,000 people and killed more than 150. 
  <p class="updated_time"> 06:53 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59737125?at_medium=RSS&at_campaign=KARANGA">The secret lives of Ghislaine Maxwell and Jeffrey Epstein</a> BBC: Never-before-seen photos released during her trial shed new light on their private lives. 
  <p class="updated_time"> 06:46 PM CT, Dec. 20 </p> 
