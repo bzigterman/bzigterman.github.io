@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:31 PM CT, Dec. 23 </p> 
+ <p class="updated_time"> 02:46 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Times Square Keeps New Year’s Celebration, but With a Smaller Crowd</a> NYT: Mayor Bill de Blasio said only 15,000 would be allowed to celebrate and masks will be required. Omicron has driven virus cases past Delta’s peak in the United States. 
  <p class="updated_time"> 02:28 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59776917?at_medium=RSS&at_campaign=KARANGA">Daunte Wright death: US 'Taser mixup' ex-officer guilty of manslaughter</a> BBC: The April shooting led to days of demonstrations against police killings of black men. 
@@ -172,6 +172,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:40 PM CT, Dec. 23 </p> 
+ <a href="https://www.politico.com/news/2021/12/23/apple-google-doj-delay-526072">Potential DOJ suits against Apple and Google delayed amid budget woes</a> Politico: Antitrust prosecutors had aimed to wrap up their probes of the two tech giants by Dec. 31. But now a decision on whether to sue could come in March or later. 
  <p class="updated_time"> 03:11 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/climate-spending-washington-communities-526077">A flood of climate aid is coming from Washington. Will those who need it miss out?</a> Politico: Advocates for communities seeking a piece of the hundreds of billions of dollars in new assistance worry that the process may be "too weighty, too heavy and too full of bureaucracy." 
  <p class="updated_time"> 02:15 PM CT, Dec. 23 </p> 
