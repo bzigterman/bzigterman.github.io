@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:46 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Spain, Italy Register Almost 50,000 Virus Cases Daily</a> NYT: Many European countries are requiring masks outdoors and banning public events. Israel is considering giving out a fourth vaccine. 
+ <p class="updated_time"> 01:53 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Times Square Keeps New Year’s Celebration, but With a Smaller Crowd</a> NYT: Mayor Bill de Blasio said only 15,000 would be allowed to celebrate, instead of the usual 58,000 or so. Masks will be required. Omicron has driven virus cases past Delta’s peak in the United States. 
+ <p class="updated_time"> 01:50 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html">Israel May Give 4th Dose of Covid Shot, Despite Experts' Doubts</a> NYT: Some scientists warn that too many shots might actually harm the body’s ability to fight the Covid-19 virus. But Israeli experts say there isn’t time to wait. 
  <p class="updated_time"> 01:46 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59766810?at_medium=RSS&at_campaign=KARANGA">US and Russia agree to talk as Putin hits out on Ukraine</a> BBC: Russia's leader demands an immediate response to his demands for Nato to pull back in Eastern Europe. 
  <p class="updated_time"> 01:46 PM CT, Dec. 23 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review.html">Bros' Restaurant in Italy: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
  <p class="updated_time"> 12:40 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/hong-kong-tiananmen-statue.html">Hong Kong Removes 'Pillar of Shame' Statue Amid Crackdown</a> NYT: The decision to take down the “Pillar of Shame,” an enduring symbol of the territory’s pro-democracy movement, was another sign of Beijing’s crackdown. 
- <p class="updated_time"> 12:00 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html">Israel May Give 4th Dose of Covid Shot, Despite Experts' Doubts</a> NYT: Some scientists warn that too many shots might actually harm the body’s ability to fight the Covid-19 virus. But Israeli experts say there isn’t time to wait. 
  <p class="updated_time"> 11:46 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59768617?at_medium=RSS&at_campaign=KARANGA">TikTok ousts Google to become favourite online destination</a> BBC: Tiktok.com overtook other US tech giants in 2021, including Amazon, Apple, Facebook and Netflix. 
  <p class="updated_time"> 11:37 AM CT, Dec. 23 </p> 
