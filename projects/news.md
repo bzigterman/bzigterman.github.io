@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:20 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: As Israel Considers 4th Vaccine Dose, Some Ask If It’s Premature</a> NYT: Greece and other European nations add restrictions as cases surge. The Chinese authorities lock down Xi’an, a city of 13 million. 
  <p class="updated_time"> 08:06 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/russia-putin-ukraine.html">Putin Demands Quick Answers on Russian Security Concerns</a> NYT: At a traditional year-end news conference, President Vladimir V. Putin of Russia blamed the West for talk of “war, war, war,” but did not markedly escalate tensions further. 
  <p class="updated_time"> 08:06 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59766810?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: Putin says ball in West's court</a> BBC: Russia's leader demands an immediate response to his demands for Nato to pull back in Eastern Europe. 
- <p class="updated_time"> 08:01 AM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: As Israel Considers 4th Vaccine Dose, Some Ask If It’s Premature</a> NYT: Greece and other European nations add restrictions as cases surge. The Chinese authorities lock down Xi’an, a city of 13 million. 
  <p class="updated_time"> 07:01 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Is Russia preparing to invade Ukraine? And other questions</a> BBC: What you need to know about Russia's troop build-up along Ukraine's borders. 
  <p class="updated_time"> 06:38 AM CT, Dec. 23 </p> 
@@ -342,6 +342,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/21/politics/gop-state-officials-prepare-new-wave-of-voting-restrictions/index.html">GOP proposals at the state level would nix ballot boxes and create new voting ID requirements</a> CNN: The push to impose voting restrictions at the state level is poised to continue next year as Republicans drive forward with an array of new proposals -- ranging from legislation that would eliminate ballot drop boxes to bills that would establish new ID requirements to vote. 
  <p class="updated_time"> 05:14 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/joe-manchin-biden-agenda.html">Manchin in the Middle: Is He a ‘No,’ or a ‘Not Yet’?</a> NYT: Democrats have been left hoping that the West Virginian, who fashions himself as an old-school centrist dealmaker, will eventually budge on President Biden’s agenda. 
+ <p class="updated_time"> 04:22 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/21/us/politics/john-thune-senate-retirement.html">John Thune, a Likely Successor to Mitch McConnell, Weighs Retirement</a> NYT: Mr. Thune, the No. 2 Republican in the Senate, is considering giving up his South Dakota seat because of both family concerns and Donald Trump’s enduring hold on the G.O.P. 
  <p class="updated_time"> 04:06 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/biden-reverses-prison-525884">Biden Justice Department reverses on returning federal convicts on home detention to prison</a> Politico: Prisoners who have been on home confinement during pandemic won't have to return to prison. 
  <p class="updated_time"> 12:36 PM CT, Dec. 21 </p> 
