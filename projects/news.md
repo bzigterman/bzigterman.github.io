@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:15 AM CT, Dec. 23 </p> 
+ <p class="updated_time"> 11:40 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: As Israel Considers 4th Vaccine Dose, Some Ask If It’s Premature</a> NYT: Greece and other European nations add restrictions as cases surge. The Chinese authorities lock down Xi’an, a city of 13 million. 
+ <p class="updated_time"> 11:37 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/world/europe/russia-putin-ukraine.html">Putin Demands Quick Answers on Russian Security Concerns</a> NYT: At a traditional year-end news conference, President Vladimir V. Putin of Russia blamed the West for talk of “war, war, war,” but did not markedly escalate tensions further. 
+ <p class="updated_time"> 11:11 AM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59775546?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Proud Boy pleads guilty and agrees to cooperate with authorities</a> BBC: Matthew Greene is believed to be the first far-right group member to plead guilty and co-operate. 
  <p class="updated_time"> 11:07 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/arts/music/carols-christmas-kings-choir-mcdowall.html">Cecilia McDowall to Debut New Christmas Carol</a> NYT: Each year, the choir of King’s College, Cambridge, commissions an original song for its Christmas service, giving the composer an audience of around 100 million people. 
  <p class="updated_time"> 10:54 AM CT, Dec. 23 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review.html">Bros' Restaurant in Italy: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
  <p class="updated_time"> 08:12 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59760490?at_medium=RSS&at_campaign=KARANGA">Netlicks? 'The TV screen you can taste’</a> BBC: A Japanese professor invents a prototype TV that sprays flavours onto a lickable "hygienic film". 
- <p class="updated_time"> 08:06 AM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/europe/russia-putin-ukraine.html">Putin Demands Quick Answers on Russian Security Concerns</a> NYT: At a traditional year-end news conference, President Vladimir V. Putin of Russia blamed the West for talk of “war, war, war,” but did not markedly escalate tensions further. 
  <p class="updated_time"> 07:01 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Is Russia preparing to invade Ukraine? And other questions</a> BBC: What you need to know about Russia's troop build-up along Ukraine's borders. 
  <p class="updated_time"> 06:38 AM CT, Dec. 23 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/world/europe/migrant-boat-sinks-greece.html">Three Dead and Many Missing as Migrant Boat Sinks Near Greece</a> NYT: The sinking came just weeks after 27 people drowned trying to cross the English Channel, another stark reminder of the lethal risks facing asylum seekers. 
  <p class="updated_time"> 06:25 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59737858?at_medium=RSS&at_campaign=KARANGA">Kashmir fury at India's plan to redraw voting map</a> BBC: Kashmiris fear India's draft proposal to redraw constituency lines will limit their choice of leader. 
- <p class="updated_time"> 06:25 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/sport/ice-hockey/59760792?at_medium=RSS&at_campaign=KARANGA">NHL will not send players to Beijing Olympics</a> BBC: The National Hockey League (NHL) says it will not send its players to the men's ice hockey tournament at the Beijing Winter Olympics. 
  <p class="updated_time"> 06:09 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-59558921?at_medium=RSS&at_campaign=KARANGA">Is this the world's largest virtual fashion show?</a> BBC: Asia's biggest metaverse - an intricate world populated by young women shopping for avatar outfits. 
  <p class="updated_time"> 06:01 PM CT, Dec. 22 </p> 
@@ -99,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1067024844/why-elections-in-libya-have-been-delayed">Why elections in Libya have been delayed</a> NPR: Libya's plans to hold national elections are in doubt as the country breaks down into regions controlled by local faction leaders — including the son of the former dictator. 
  <p class="updated_time"> 03:41 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1067024865/japans-puzzling-covid-lull">Japan's puzzling COVID lull</a> NPR: COVID cases in Japan fell more than 99% from the last peak. Unlike previous infection waves, and countries in similar situations, it's largely staying there. Experts are struggling to explain why. 
- <p class="updated_time"> 02:46 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/health-59758784?at_medium=RSS&at_campaign=KARANGA">Omicron wave appears milder, but concern remains</a> BBC: The risk of needing hospital treatment could be 30 - 70% lower with Omicron than other variants. 
  <p class="updated_time"> 01:16 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
  <p class="updated_time"> 09:43 AM CT, Dec. 22 </p> 
@@ -176,14 +174,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:27 PM CT, Dec. 23 </p> 
+ <a href="https://www.politico.com/news/2021/12/23/trump-supreme-court-january-six-526050">Trump asks Supreme Court to shield records from Jan. 6 committee</a> Politico: Trump moved for an emergency injunction to block a ruling of the U.S. Court of Appeals for Washington D.C. earlier this month. 
  <p class="updated_time"> 12:10 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/pentagon-staffers-covid-positive-526048">7 Pentagon staffers test positive for Covid after official trip</a> Politico: Marines also announce that more troops have been kicked out for refusing the vaccine. 
+ <p class="updated_time"> 11:45 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/nyregion/cyrus-vance-donald-trump.html">Trump Fraud Inquiry Won’t Be Resolved When Vance’s Term Ends Next Week</a> NYT: After leading a three-year investigation into the former president, the Manhattan district attorney, Cyrus R. Vance Jr., will hand it to his successor. 
+ <p class="updated_time"> 11:36 AM CT, Dec. 23 </p> 
+ <a href="https://www.cnn.com/2021/12/23/politics/donald-trump-supreme-court-records-january-6/index.html">Trump asks Supreme Court to block release of his White House records to January 6 committee</a> CNN: Former President Donald Trump appealed to the Supreme Court on Thursday to block the release of documents from his White House to the House committee investigating the January 6 riot at the Capitol, escalating his effort to keep about 700 pages of records secret. 
  <p class="updated_time"> 11:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/dccc-partnership-campaign-staff-diversity-526041">DCCC launching partnership to boost campaign staff diversity</a> Politico: House Democrats' campaign arm is partnering with Blue Leadership Collaborative to recruit and retain people of color, women and people who identify as queer as senior staff. 
  <p class="updated_time"> 11:17 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/22/arts/hillary-clinton-masterclass.html">How Hillary Clinton's MasterClass Shows a Very 2021 Way to Be</a> NYT: Hillary Clinton delivered an unused election speech. Jennifer Aniston cried at Central Perk. It was a year for watching celebrities reinhabit their past selves. 
- <p class="updated_time"> 11:16 AM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/donald-trump-supreme-court-records-january-6/index.html">Trump asks Supreme Court to block release of his White House records to January 6 committee</a> CNN: Former President Donald Trump appealed to the Supreme Court on Thursday to block the release of documents from his White House to the House committee investigating the January 6 riot at the Capitol, escalating his effort to keep about 700 pages of records secret. 
  <p class="updated_time"> 10:53 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
  <p class="updated_time"> 10:40 AM CT, Dec. 23 </p> 
@@ -230,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/23/1066276608/lies-betrayal-and-competition-on-the-hill-as-lawmakers-deck-the-halls-of-congres">Lies, betrayal and competition on the Hill as lawmakers deck the halls of Congress</a> NPR: The second floor of the Longworth congressional office building is taking holiday decorations to a whole new level. 
  <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/covid-vaccine-biden-trump.html">Beneath a Covid Vaccine Debacle, 30 Years of Government Culpability</a> NYT: Washington has rejected plans to revamp vaccine preparedness for decades and repeatedly paid a price. The Biden administration is at a similar crossroads. 
- <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/nyregion/cyrus-vance-donald-trump.html">Trump Fraud Inquiry Won’t Be Resolved When Vance’s Term Ends Next Week</a> NYT: After leading a three-year investigation into the former president, the Manhattan district attorney, Cyrus R. Vance Jr., will hand it to his successor. 
  <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1065277246/trump-big-lie-jan-6-election">The clear and present danger of Trump's enduring 'Big Lie'</a> NPR: Fueling the Jan. 6 insurrection was the "Big Lie" that Donald Trump won the election. One year later, many warn that lie has metastasized and now poses an even graver threat to American democracy. 
  <p class="updated_time"> 11:39 PM CT, Dec. 22 </p> 
@@ -298,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1066944829/matthew-greene-proud-boys-jan-6-capitol-pleads-guilty">Proud Boys member pleads guilty for role in Capitol riot</a> NPR: Matthew Greene, 34, has pleaded guilty in federal court to two criminal charges: conspiracy and obstruction of an official proceeding, related to the Capitol siege on Jan. 6, 2021. 
  <p class="updated_time"> 02:08 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/roger-stone-trump-autograph-nft-525986">Roger Stone is selling a Trump autograph NFT to pay his legal bills</a> Politico: The post-Trump presidency, encapsulated in one short story. 
- <p class="updated_time"> 01:26 PM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/new-jersey-redistricting-map-malinowski-525983">Democrats prevail in New Jersey redistricting with map that could sacrifice Malinowski</a> Politico: New Jersey redistricts through a commission that includes six Democratic appointees, six Republican appointees and a tie-breaker who is selected by the state Supreme Court. 
  <p class="updated_time"> 01:09 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/january-6-committee-interview-lawsuit/index.html">January 6 rally staffers detail committee investigation questions and targets in lawsuit</a> CNN: Four people who staffed the pro-Trump rally at the Ellipse that preceded the deadly Capitol attack on January 6 are suing to block House investigators from obtaining their phone records. 
  <p class="updated_time"> 12:56 PM CT, Dec. 22 </p> 
