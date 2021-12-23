@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:24 AM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59764029?at_medium=RSS&at_campaign=KARANGA">Pillar of Shame: Hong Kong's Tiananmen Square statue removed</a> BBC: It was one of the few remaining public memorials in Hong Kong commemorating the 1989 massacre. 
+ <p class="updated_time"> 01:23 AM CT, Dec. 23 </p> 
+ <a href="https://www.npr.org/2021/12/23/1067163101/hong-kong-university-removes-tiananmen-massacre-statue">Hong Kong university removes Tiananmen massacre statue</a> NPR: A monument at a Hong Kong university that commemorates the 1989 Tiananmen Square massacre was removed by workers early Thursday. Workers had erected barricades around the monument late Wednesday. 
  <p class="updated_time"> 01:06 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59766737?at_medium=RSS&at_campaign=KARANGA">Tiananmen Square memorial statue removed in Hong Kong</a> BBC: The Pillar of Shame showed piled-up corpses to commemorate protesters killed by Chinese authorities in 1989. 
  <p class="updated_time"> 01:05 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59765052?at_medium=RSS&at_campaign=KARANGA">James Franco admits sleeping with students from his acting school</a> BBC: The actor spoke at length about allegations of sexual misconduct made against him in 2018. 
- <p class="updated_time"> 12:58 AM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59764029?at_medium=RSS&at_campaign=KARANGA">Pillar of Shame: Hong Kong's Tiananmen Square statue removed</a> BBC: It was one of the few remaining public memorials in Hong Kong commemorating the 1989 massacre. 
  <p class="updated_time"> 12:54 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid News: White House Promises More Covid Treatments</a> NYT: British researchers find that Omicron effects seem less severe. The F.D.A. authorizes Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
  <p class="updated_time"> 12:49 AM CT, Dec. 23 </p> 
@@ -49,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
  <p class="updated_time"> 04:58 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/california-booster-mandate-feb-1.html">California Requires Health Workers to Get Boosters by Feb. 1</a> NYT: Gov. Gavin Newsom said more than half of the sequenced cases in the state have been identified as the Omicron variant, but the real number is probably higher. 
+ <p class="updated_time"> 04:30 PM CT, Dec. 22 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-university-pulls-down-monument-to-tiananmen-massacre-victims-11640230213">Hong Kong University Pulls Down Monument to Tiananmen Massacre Victims</a> WSJ: The “Pillar of Shame” was one of the most prominent monuments commemorating the victims of the Tiananmen Square massacre on Chinese soil. 
  <p class="updated_time"> 04:07 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59757299?at_medium=RSS&at_campaign=KARANGA">Turkey arrests US citizen over alleged passport handover</a> BBC: Police say the US man gave the document to a Syrian trying to travel to Germany from Istanbul airport. 
  <p class="updated_time"> 03:49 PM CT, Dec. 22 </p> 
@@ -179,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/20/nyregion/nypd-mask-mandate.html">N.Y.P.D. officers are again told to mask up amid Omicron surge</a> NYT: Employees are required to wear face masks indoors and outdoors regardless of vaccination status. 
  <p class="updated_time"> 04:01 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/uk-brexit-david-frost-liz-truss.html">U.K. Foreign Secretary Inherits Thorny Issue: Northern Ireland Talks</a> NYT: Liz Truss is taking charge of Brexit talks after the surprise resignation of David Frost. If she is successful, it could give her a significant political boost. 
- <p class="updated_time"> 04:00 PM CT, Dec. 20 </p> 
- <a href="https://www.npr.org/2021/12/20/1066017197/with-the-loss-of-manchins-vote-bidens-climate-change-agenda-may-be-doomed">With the loss of Manchin's vote, Biden's climate change agenda may be doomed</a> NPR: Despite a year of increasing weather disasters, Biden's ambitious climate plans may be doomed in Congress. 
  <p class="updated_time"> 11:17 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/africa/drones-ethiopia-war-turkey-emirates.html">Foreign Drones Tip the Balance in Ethiopia’s Civil War</a> NYT: Prime Minister Abiy Ahmed pulled off a stunning reversal in the year-old conflict with the help of armed drones supplied by the United Arab Emirates, Turkey and Iran. 
 
