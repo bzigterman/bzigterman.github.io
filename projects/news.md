@@ -7,22 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:17 AM CT, Dec. 23 </p> 
+ <p class="updated_time"> 03:46 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid News: White House Promises More Covid Treatments</a> NYT: British researchers find that Omicron effects seem less severe. The F.D.A. authorizes Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
+ <p class="updated_time"> 03:40 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/asia/india-christians-attacked.html">India's Christians Attacked Under Anti-Conversion Laws</a> NYT: Hindu extremists have found a new target: Christianity. A spree of newly enforced laws aimed at stopping conversions has uncapped explosive tensions across the country. of Hindu extremists. Rising attacks on Christians are part of a broader shift in India, in which minorities feel less safe. 
+ <p class="updated_time"> 03:38 AM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59764029?at_medium=RSS&at_campaign=KARANGA">Pillar of Shame: Hong Kong's Tiananmen Square statue removed</a> BBC: It was one of the few remaining public memorials in Hong Kong commemorating the 1989 massacre. 
+ <p class="updated_time"> 03:28 AM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59766810?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: Kyiv hopes truce will bring down war tensions</a> BBC: Russia and Ukraine agree to restore a ceasefire in eastern Ukraine, amid a build-up of Russian forces. 
  <p class="updated_time"> 02:30 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067169021/changing-climate-parches-afghanistan-exacerbating-poverty">Changing climate parches Afghanistan, exacerbating poverty</a> NPR: A severe drought, now in its second year, has dramatically worsened the already desperate situation in the country with an economy in freefall following the Taliban takeover in August. 
  <p class="updated_time"> 02:00 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review-geraldine-deruiter.html">Of Mouth Molds and Michelin Stars: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
- <p class="updated_time"> 01:51 AM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59764029?at_medium=RSS&at_campaign=KARANGA">Pillar of Shame: Hong Kong's Tiananmen Square statue removed</a> BBC: It was one of the few remaining public memorials in Hong Kong commemorating the 1989 massacre. 
  <p class="updated_time"> 01:23 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067163101/hong-kong-university-removes-tiananmen-massacre-statue">Hong Kong university removes Tiananmen massacre statue</a> NPR: A monument at a Hong Kong university that commemorates the 1989 Tiananmen Square massacre was removed by workers early Thursday. Workers had erected barricades around the monument late Wednesday. 
  <p class="updated_time"> 01:06 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59766737?at_medium=RSS&at_campaign=KARANGA">Tiananmen Square memorial statue removed in Hong Kong</a> BBC: The Pillar of Shame showed piled-up corpses to commemorate protesters killed by Chinese authorities in 1989. 
  <p class="updated_time"> 01:05 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59765052?at_medium=RSS&at_campaign=KARANGA">James Franco admits sleeping with students from his acting school</a> BBC: The actor spoke at length about allegations of sexual misconduct made against him in 2018. 
- <p class="updated_time"> 12:54 AM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid News: White House Promises More Covid Treatments</a> NYT: British researchers find that Omicron effects seem less severe. The F.D.A. authorizes Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
  <p class="updated_time"> 12:49 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/22/business/paris-france-inflation-prices.html">Inflation Forces Parisian Vendors to Raise Prices on Staples</a> NYT: Soaring inflation in Europe is starting to squeeze shopkeepers and consumers. Many are preparing for more price increases in the new year. 
  <p class="updated_time"> 10:24 PM CT, Dec. 22 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/health-59758784?at_medium=RSS&at_campaign=KARANGA">Omicron wave appears milder, but concern remains</a> BBC: The risk of needing hospital treatment could be 30 - 70% lower with Omicron than other variants. 
  <p class="updated_time"> 02:23 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59756344?at_medium=RSS&at_campaign=KARANGA">Chelsea FC owner Roman Abramovich gets apology over Putin claim</a> BBC: HarperCollins apologises to Chelsea FC's owner over allegations he was ordered to buy the club. 
- <p class="updated_time"> 01:53 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests/france-uk-vaccines-children">France will offer Covid vaccinations for children aged 5-11, and other international news.</a> NYT: The measure, which is not mandatory, comes as scientists in Britain advise inoculating young children in certain risk groups. 
  <p class="updated_time"> 01:41 PM CT, Dec. 22 </p> 
  <a href="https://www.wsj.com/articles/to-limit-omicron-singapore-freezes-ticket-sales-for-quarantine-free-travel-11640165362">Omicron Shows Signs of Milder Disease as Cases Rise</a> WSJ: Research offered promising signs that immunity as a result of prior infection or vaccination offers protection against severe illness from Omicron as new Covid-19 infections hit another daily record in New York state. 
  <p class="updated_time"> 01:16 PM CT, Dec. 22 </p> 
@@ -81,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests/new-cases-slow-in-south-africa-suggesting-its-omicron-wave-may-have-peaked">New cases slow in South Africa, suggesting its Omicron wave may have peaked.</a> NYT: Reports of new coronavirus cases across the country have fallen by 20 percent in a week, which researchers called “encouraging.” 
  <p class="updated_time"> 12:37 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59754153?at_medium=RSS&at_campaign=KARANGA">Roman-era 'Good Shepherd' ring found off Israel in ancient shipwreck</a> BBC: Israeli archaeologists discover a Roman-era gold ring bearing an early Christian depiction of Jesus. 
- <p class="updated_time"> 11:03 AM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59760366?at_medium=RSS&at_campaign=KARANGA">US safety body to probe Tesla on in-car gameplay</a> BBC: It follows a complaint from an owner who discovered he could play games while driving. 
  <p class="updated_time"> 10:33 AM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59743487?at_medium=RSS&at_campaign=KARANGA">Xi'an: Chinese city under lockdown as Covid cases rise</a> BBC: More than 13 million people in the city of Xi'an have been told to stay at home amid a Covid outbreak. 
  <p class="updated_time"> 09:43 AM CT, Dec. 22 </p> 
@@ -171,16 +169,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066166281/new-wave-of-syrian-migrants-fleeing-post-war-misery">New waves of Syrian migrants are fleeing postwar misery</a> NPR: While the numbers are far below the levels during the height of the civil war, the number of Syrians applying for asylum in the EU increased 70% over last year. 
  <p class="updated_time"> 01:33 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066163872/mexican-cartels-turning-to-meth-and-fentanyl-production">Mexican cartels are turning to meth and fentanyl production</a> NPR: Cartels are increasingly turning to huge, industrial-scale labs to churn out synthetic drugs as they shift away from naturally grown drugs like opium and marijuana. 
- <p class="updated_time"> 10:57 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/health/covid-novavax-europe.html">Novavax’s Covid Vaccine Is Authorized in Europe</a> NYT: The vaccine will be the fifth to become available in the E.U., which already has ample supplies. 
  <p class="updated_time"> 06:53 PM CT, Dec. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59737125?at_medium=RSS&at_campaign=KARANGA">The secret lives of Ghislaine Maxwell and Jeffrey Epstein</a> BBC: Never-before-seen photos released during her trial shed new light on their private lives. 
- <p class="updated_time"> 06:46 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/world/larry-hogan-covid.html">Larry Hogan, Governor of Maryland, Tests Positive for Covid</a> NYT: He said he is feeling fine and that the positive test result came as a result of routine testing. 
  <p class="updated_time"> 05:54 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/europe-divided-omicron-response.html">Omicron Response Divides Europe as Cases Surge</a> NYT: As some nations impose tough restrictions in the face of soaring cases, others, including France, are lying back for the moment. 
- <p class="updated_time"> 05:04 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html">U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault</a> NYT: Russia has attacked Ukraine’s power grid in the past, and experts say Moscow might take similar steps as it masses troops along the border. 
  <p class="updated_time"> 04:14 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/nyregion/nypd-mask-mandate.html">N.Y.P.D. officers are again told to mask up amid Omicron surge</a> NYT: Employees are required to wear face masks indoors and outdoors regardless of vaccination status. 
  <p class="updated_time"> 04:01 PM CT, Dec. 20 </p> 
