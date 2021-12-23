@@ -7,16 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:56 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Spain, Italy Register Almost 50,000 Virus Cases Daily</a> NYT: Many European countries are requiring masks outdoors and banning public events. Israel is considering giving out a fourth vaccine. 
- <p class="updated_time"> 12:49 PM CT, Dec. 23 </p> 
+ <p class="updated_time"> 01:14 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/lapid-israel-nuclear-iran-palestinians.html">Lapid Says Israel Will Support Iran Nuclear Pact, if It’s ‘a Good Deal.’</a> NYT: The Israeli foreign minister said “we have no problem with a deal,” but perhaps because he thinks the prospects of an agreement are remote. 
+ <p class="updated_time"> 01:14 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59775127?at_medium=RSS&at_campaign=KARANGA">Joan Didion: US literary icon dies at 87</a> BBC: She was known for chronicling US culture and was a screenwriter for the 1976 film A Star is Born. 
+ <p class="updated_time"> 01:04 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59776765?at_medium=RSS&at_campaign=KARANGA">James Franco: I'll admit, I did sleep with students... and that was wrong</a> BBC: The actor speaks about his past "consensual" relationships with students from his acting school. 
+ <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
+ <p class="updated_time"> 01:02 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Spain, Italy Register Almost 50,000 Virus Cases Daily</a> NYT: Many European countries are requiring masks outdoors and banning public events. Israel is considering giving out a fourth vaccine. 
  <p class="updated_time"> 12:42 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review.html">Bros' Restaurant in Italy: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
  <p class="updated_time"> 12:40 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/hong-kong-tiananmen-statue.html">Hong Kong Removes 'Pillar of Shame' Statue Amid Crackdown</a> NYT: The decision to take down the “Pillar of Shame,” an enduring symbol of the territory’s pro-democracy movement, was another sign of Beijing’s crackdown. 
- <p class="updated_time"> 12:19 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59775127?at_medium=RSS&at_campaign=KARANGA">Joan Didion: US literary icon dies at 87</a> BBC: She was known for chronicling US culture and was a screenwriter for the 1976 film A Star is Born. 
  <p class="updated_time"> 12:00 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html">Israel May Give 4th Dose of Covid Shot, Despite Experts' Doubts</a> NYT: Some scientists warn that too many shots might actually harm the body’s ability to fight the Covid-19 virus. But Israeli experts say there isn’t time to wait. 
  <p class="updated_time"> 11:50 AM CT, Dec. 23 </p> 
@@ -151,10 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/bidens-omicron-speech.html">Here’s what we know about Biden’s speech on the U.S. Omicron response.</a> NYT: The president is expected to  announce several new steps, including setting up new testing and vaccination sites, deploying  federal vaccinators and buying 500 million rapid tests to distribute free. 
  <p class="updated_time"> 12:38 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/europe/france-italy-covid-vaccination-fakes.html">France Uncovers Over 180,000 Fake Covid Passes</a> NYT: The developments suggest that resistance to Europe’s vaccination requirements remains significant. 
- <p class="updated_time"> 12:37 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/australia/new-zealand-omicron-response.html">New Zealand and Other Asia Pacific Countries Respond to Omicron</a> NYT: New Zealand is taking measures to limit the spread of Omicron, including delaying the reopening of its borders. It has detected 22 cases of Omicron in international arrivals. 
- <p class="updated_time"> 12:22 PM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-59749146?at_medium=RSS&at_campaign=KARANGA">Malaysia hit by the worst floods in decades</a> BBC: At least 14 people have died and tens of thousands evacuated their homes after torrential rain. 
  <p class="updated_time"> 11:23 AM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/asia/afghanistan-taliban-bagram-prison.html">At Bagram Air Base, a Notorious Prison Lies Empty</a> NYT: Taliban fighters now guard the prison at Bagram Air Base, which once held thousands of Taliban and Al Qaeda members who were set free in August. 
  <p class="updated_time"> 11:12 AM CT, Dec. 21 </p> 
@@ -172,6 +172,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:10 PM CT, Dec. 23 </p> 
+ <a href="https://www.politico.com/news/2021/12/23/joan-didion-dies-526068">Joan Didion, peerless prose stylist, dies at 87</a> Politico: The revered author and essayist was a uniquely clear-eyed critic of turbulent times. 
+ <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
+ <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
+ <a href="https://www.cnn.com/2021/12/23/politics/donald-trump-supreme-court-records-january-6/index.html">Trump asks Supreme Court to block release of his White House records to January 6 committee</a> CNN: Former President Donald Trump appealed to the Supreme Court on Thursday to block the release of documents from his White House to the House committee investigating the January 6 riot at the Capitol, escalating his effort to keep about 700 pages of records secret. 
  <p class="updated_time"> 12:46 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1066835433/how-a-group-of-online-sleuths-are-helping-the-fbi-track-down-jan-6-rioters">How a group of online sleuths are helping the FBI track down Jan. 6 rioters</a> NPR: HuffPost journalist Ryan J. Reilly says "sedition hunters" have used videos, social media posts and facial recognition software to identify individuals who participated in the storming of the Capitol. 
  <p class="updated_time"> 12:27 PM CT, Dec. 23 </p> 
@@ -182,8 +188,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/23/pentagon-staffers-covid-positive-526048">7 Pentagon staffers test positive for Covid after official trip</a> Politico: Marines also announce that more troops have been kicked out for refusing the vaccine. 
  <p class="updated_time"> 11:45 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/nyregion/cyrus-vance-donald-trump.html">Trump Fraud Inquiry Won’t Be Resolved When Vance’s Term Ends Next Week</a> NYT: After leading a three-year investigation into the former president, the Manhattan district attorney, Cyrus R. Vance Jr., will hand it to his successor. 
- <p class="updated_time"> 11:44 AM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/donald-trump-supreme-court-records-january-6/index.html">Trump asks Supreme Court to block release of his White House records to January 6 committee</a> CNN: Former President Donald Trump appealed to the Supreme Court on Thursday to block the release of documents from his White House to the House committee investigating the January 6 riot at the Capitol, escalating his effort to keep about 700 pages of records secret. 
  <p class="updated_time"> 11:35 AM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/manchin-inflation-bbb-fact-check/index.html">Economists question validity of Manchin's inflation fears on Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia effectively put an end to negotiations over the current version of the Build Back Better Act on Sunday when he announced on Fox News he would vote no on the legislation, in part over concerns some provisions of the massive tax and spending bill might exacerbate inflation. 
  <p class="updated_time"> 11:30 AM CT, Dec. 23 </p> 
@@ -346,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/us/politics/mcconnell-manchin-republican.html">McConnell to Manchin: We’d Love to Have You, Joe</a> NYT: Senator Mitch McConnell, the Republican leader, says Democratic outrage over Senator Joe Manchin’s opposition to sweeping policy bills shows he is not welcome in his party any longer. 
  <p class="updated_time"> 07:04 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/gop-state-officials-prepare-new-wave-of-voting-restrictions/index.html">GOP proposals at the state level would nix ballot boxes and create new voting ID requirements</a> CNN: The push to impose voting restrictions at the state level is poised to continue next year as Republicans drive forward with an array of new proposals -- ranging from legislation that would eliminate ballot drop boxes to bills that would establish new ID requirements to vote. 
- <p class="updated_time"> 05:14 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/joe-manchin-biden-agenda.html">Manchin in the Middle: Is He a ‘No,’ or a ‘Not Yet’?</a> NYT: Democrats have been left hoping that the West Virginian, who fashions himself as an old-school centrist dealmaker, will eventually budge on President Biden’s agenda. 
  <p class="updated_time"> 04:06 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/biden-reverses-prison-525884">Biden Justice Department reverses on returning federal convicts on home detention to prison</a> Politico: Prisoners who have been on home confinement during pandemic won't have to return to prison. 
  <p class="updated_time"> 12:36 PM CT, Dec. 21 </p> 
@@ -418,8 +420,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/16/jan-6-meadows-525172">Jan. 6 committee subpoenas author of debunked election-fraud PowerPoint sent to Meadows</a> Politico: James P. “Phil” Waldron, a retired Army colonel, is asked to provide documents by Jan. 10 and sit for a deposition. 
  <p class="updated_time"> 02:01 PM CT, Dec. 16 </p> 
  <a href="https://www.politico.com/news/2021/12/16/chamber-ad-manchin-build-back-better-525129">Chamber launches ads targeting Manchin, hoping to kill Build Back Better</a> Politico: The group got a huge win with the infrastructure bill. Now, they want the legislative spigot to go dry. 
- <p class="updated_time"> 01:11 PM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/crackdown-on-chinas-treatment-of-muslim-minority-headed-to-bidens-desk-525094">Crackdown on China's treatment of Muslim minority headed to Biden's desk</a> Politico: The legislation, which faced a bumpy road to passage, effectively bans all imports from China’s Xinjiang region. 
 
 
 </details>
