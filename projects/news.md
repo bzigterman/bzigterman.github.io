@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:43 PM CT, Dec. 22 </p> 
+ <p class="updated_time"> 08:57 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: White House Promises More Covid Treatments</a> NYT: British researchers find that Omicron effects seem less severe. The F.D.A. authorizes Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
  <p class="updated_time"> 08:19 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">As Humanitarian Disaster Looms, U.S. Opens Door for More Afghanistan Aid</a> NYT: The Treasury Department and the United Nations offered new protection for aid from sanctions meant to pressure the Taliban. 
@@ -190,6 +190,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:57 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/us/politics/kamala-harris-covid.html">Vice President Kamala Harris Was Exposed to Covid</a> NYT: President Biden had also been in close contact with a staff member who later tested positive. 
+ <p class="updated_time"> 08:57 PM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/jim-jordan-house-select-committee-january-6/index.html">House committee seeks to interview GOP firebrand Rep. Jim Jordan about January 6</a> CNN: The House select committee investigating January 6 has asked Rep. Jim Jordan, one of former President Donald Trump's top congressional allies, to voluntarily meet with the panel as it zeroes in on Republican lawmakers who may have significant knowledge of events leading up to the US Capitol attack. 
  <p class="updated_time"> 08:19 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">As Humanitarian Disaster Looms, U.S. Opens Door for More Afghanistan Aid</a> NYT: The Treasury Department and the United Nations offered new protection for aid from sanctions meant to pressure the Taliban. 
  <p class="updated_time"> 08:15 PM CT, Dec. 22 </p> 
@@ -204,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/22/biden-covid-testing-526029">'Nothing's been good enough': Biden admits Covid testing has fallen short</a> Politico: Biden said his administration has now ordered half a billion tests to send to people across the country. 
  <p class="updated_time"> 07:44 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/your-money/student-loan-pause.html">Biden Administration Extends Pause on Student Loan Payments Until May 1</a> NYT: The Biden administration, under pressure from Democratic lawmakers, announced a three-month extension, citing the resurgent pandemic. 
- <p class="updated_time"> 07:44 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/us/politics/kamala-harris-covid.html">Vice President Kamala Harris Was Exposed to Covid</a> NYT: President Biden had also been in close contact with a staff member who later tested positive. 
  <p class="updated_time"> 07:32 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/capitol-riot-matthew-greene-guilty.html">Proud Boys Member Pleads Guilty and Will Cooperate in Jan. 6 Riot Inquiry</a> NYT: Matthew Greene, 34, who was “among the first wave” to rush up the Capitol steps, pleaded guilty to two charges and agreed to cooperate with the government, federal prosecutors said. 
  <p class="updated_time"> 07:09 PM CT, Dec. 22 </p> 
@@ -228,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/22/politics/joe-biden-polling-public-approval/index.html">Analysis: Biden's polling 'blip' has become his new normal</a> CNN: When President Joe Biden's poll numbers initially began to slip in late August, Democrats insisted to anyone who would listen that this would be a temporary blip. 
  <p class="updated_time"> 05:21 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/michael-flynn-january-6-lawsuit/index.html">Michael Flynn loses his legal challenge to the House January 6 probe, one day after filing it</a> CNN: Michael Flynn has swiftly lost his bid in court to block a possible House Select Committee subpoena for his phone records and to hold off demands he speak to the committee investigating January 6. 
- <p class="updated_time"> 05:07 PM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/jim-jordan-house-select-committee-january-6/index.html">House committee seeks to interview GOP firebrand Rep. Jim Jordan about January 6</a> CNN: The House select committee investigating January 6 has asked Rep. Jim Jordan, one of former President Donald Trump's top congressional allies, to voluntarily meet with the panel as it zeroes in on Republican lawmakers who may have significant knowledge of events leading up to the US Capitol attack. 
  <p class="updated_time"> 05:00 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/trudeau-canadians-hunker-down-omicron-525998">Trudeau tells Canadians to ‘hunker down’ as Biden urges calm over Omicron</a> Politico: Canadians hunt for boosters and rapid tests amid Covid surge that is disrupting holiday plans. 
  <p class="updated_time"> 04:22 PM CT, Dec. 22 </p> 
