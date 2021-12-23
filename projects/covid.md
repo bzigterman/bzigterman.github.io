@@ -366,7 +366,7 @@ html {
 <td class="gt_row gt_right gt_striped">58</td>
 <td class="gt_row gt_right gt_striped">81</td>
 <td class="gt_row gt_right gt_striped">+39&percnt;</td></tr>
-    <tr><td class="gt_row gt_left">Monthly Deaths</td>
+    <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks">1</sup></td>
 <td class="gt_row gt_right">10</td>
 <td class="gt_row gt_right">17</td>
 <td class="gt_row gt_right">+70&percnt;</td></tr>
@@ -388,7 +388,20 @@ html {
       <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
     </tr>
   </tfoot>
-  
+  <tfoot>
+    <tr class="gt_footnotes">
+      <td colspan="4">
+        <p class="gt_footnote">
+          <sup class="gt_footnote_marks">
+            <em>1</em>
+          </sup>
+           
+          220  total deaths
+          <br />
+        </p>
+      </td>
+    </tr>
+  </tfoot>
 </table>
 </div>
 
