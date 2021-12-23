@@ -47,6 +47,7 @@ hospitalizations_by_date <- hospitalizations %>%
   mutate(Date = Date + days(7))
 
 ### set variables ----
+champaign_total_deaths <- format(round(signif(tail(idph_cases_champaign$Deaths, 1),3)),big.mark = ",")
 champaign_avg_hospitalized <- format(round(signif(tail(hospitalizations_by_date$avg_hospitalized,1),3)),big.mark=",")
 champaign_dead_last_month <- format(round(signif(tail(idph_cases_champaign$monthlydead,1),3)),big.mark=",")
 champaign_avg_new_cases <- format(round(signif(tail(idph_cases_champaign$avg_new_cases,1),3)),big.mark=",")
@@ -179,7 +180,12 @@ cu_covid_table <-   ungroup(latest_data_for_table) %>%
   ) %>%
   tab_source_note(
     source_note = paste("Latest data:",champaign_weekday)
-  ) 
+  ) %>%
+  tab_footnote(
+    footnote = paste(champaign_total_deaths," total deaths"),
+    locations = cells_body(columns = names,
+                           rows = 3)
+  )
 
 cu_covid_table
 cu_covid_table_html <- as_raw_html(cu_covid_table, inline_css = FALSE)
