@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:32 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review.html">Bros' Restaurant in Italy: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
  <p class="updated_time"> 08:20 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: As Israel Considers 4th Vaccine Dose, Some Ask If It’s Premature</a> NYT: Greece and other European nations add restrictions as cases surge. The Chinese authorities lock down Xi’an, a city of 13 million. 
  <p class="updated_time"> 08:06 AM CT, Dec. 23 </p> 
@@ -31,10 +33,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59765052?at_medium=RSS&at_campaign=KARANGA">James Franco admits sleeping with students from his acting school</a> BBC: The actor spoke at length about allegations of sexual misconduct made against him in 2018. 
  <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/science/polar-bears-svalbard.html">How to Catch a Polar Bear</a> NYT: First, spot the bear. 
+ <p class="updated_time"> 03:13 AM CT, Dec. 23 </p> 
+ <a href="https://www.wsj.com/articles/u-n-plans-8-billion-fund-to-restart-afghanistan-economy-11640268816">U.N. Plans $8 Billion Fund to Restart Afghanistan's Economy</a> WSJ: The plan would move beyond a purely humanitarian mission to rebuilding governing systems and social services. 
+ <p class="updated_time"> 03:07 AM CT, Dec. 23 </p> 
+ <a href="https://www.wsj.com/articles/omicron-drives-covid-19-surge-in-u-s-as-world-awaits-fresh-evidence-on-severity-11640268476">Omicron Drives Surge in U.S. as World Awaits Fresh Evidence on Severity</a> WSJ: Real-world studies are promising signs that immunity from vaccination or prior infection help ward off severe illness from the fast-spreading variant. 
  <p class="updated_time"> 02:30 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067169021/changing-climate-parches-afghanistan-exacerbating-poverty">Changing climate parches Afghanistan, exacerbating poverty</a> NPR: A severe drought, now in its second year, has dramatically worsened the already desperate situation in the country with an economy in freefall following the Taliban takeover in August. 
- <p class="updated_time"> 02:00 AM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review.html">Bros' Restaurant in Italy: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
+ <p class="updated_time"> 02:26 AM CT, Dec. 23 </p> 
+ <a href="https://www.wsj.com/articles/intel-apologizes-after-asking-suppliers-to-avoid-chinas-xinjiang-region-11640261303">Intel Apologizes After Asking Suppliers to Avoid China's Xinjiang Region</a> WSJ: The California-based chip maker said a letter it had sent to global suppliers was written only to comply with U.S. law and didn’t represent Intel’s stance on the region, where the Chinese government has conducted a campaign of forcible assimilation against religious minorities. 
+ <p class="updated_time"> 01:51 AM CT, Dec. 23 </p> 
+ <a href="https://www.wsj.com/articles/putin-denies-troop-buildup-near-ukraine-means-russia-wants-conflict-11640263896">Putin Denies Troop Buildup Near Ukraine Means Russia Wants Conflict</a> WSJ: Russia’s president defended the need to protect his country’s integrity and sovereignty in the face of what he described as attempts by NATO to encroach on Russia’s doorstep. 
  <p class="updated_time"> 01:23 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067163101/hong-kong-university-removes-tiananmen-massacre-statue">Hong Kong university removes Tiananmen massacre statue</a> NPR: A monument at a Hong Kong university that commemorates the 1989 Tiananmen Square massacre was removed by workers early Thursday. Workers had erected barricades around the monument late Wednesday. 
  <p class="updated_time"> 01:06 AM CT, Dec. 23 </p> 
@@ -81,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/health-59758784?at_medium=RSS&at_campaign=KARANGA">Omicron wave appears milder, but concern remains</a> BBC: The risk of needing hospital treatment could be 30 - 70% lower with Omicron than other variants. 
  <p class="updated_time"> 02:23 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59756344?at_medium=RSS&at_campaign=KARANGA">Chelsea FC owner Roman Abramovich gets apology over Putin claim</a> BBC: HarperCollins apologises to Chelsea FC's owner over allegations he was ordered to buy the club. 
- <p class="updated_time"> 01:41 PM CT, Dec. 22 </p> 
- <a href="https://www.wsj.com/articles/to-limit-omicron-singapore-freezes-ticket-sales-for-quarantine-free-travel-11640165362">Omicron Shows Signs of Milder Disease as Cases Rise</a> WSJ: Research offered promising signs that immunity as a result of prior infection or vaccination offers protection against severe illness from Omicron as new Covid-19 infections hit another daily record in New York state. 
  <p class="updated_time"> 01:16 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/africa/libya-delays-presidential-election.html">A Tense Libya Delays Its Presidential Election</a> NYT: The postponement risks further destabilizing the oil-rich North African country, which has been mired in divisions and violence in the decade since Col. Muammar el-Qaddafi was toppled and killed in a revolution. 
  <p class="updated_time"> 12:37 PM CT, Dec. 22 </p> 
@@ -91,20 +97,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59743487?at_medium=RSS&at_campaign=KARANGA">Xi'an: Chinese city under lockdown as Covid cases rise</a> BBC: More than 13 million people in the city of Xi'an have been told to stay at home amid a Covid outbreak. 
  <p class="updated_time"> 09:43 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/middleeast/vaccine-booster-israel-covid.html">Israel to Administer 4th Round of Covid Vaccines</a> NYT: Israel is believed to be the first country to roll out fourth doses. 
- <p class="updated_time"> 09:31 AM CT, Dec. 22 </p> 
- <a href="https://www.wsj.com/articles/u-s-israel-seek-unity-on-containing-irans-nuclear-program-11640189576">U.S., Israel Seek Unity on Containing Iran's Nuclear Program</a> WSJ: President Biden’s national security adviser met with Israeli Prime Minister Naftali Bennett as the two allies sought to present a more united front on Iran’s nuclear program after divisions emerged between the U.S. and Israel. 
  <p class="updated_time"> 09:28 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/middleeast/israel-christmas-covid.html">Covid Spoils Another Christmas in the Holy Land</a> NYT: Israel’s strict border controls have largely barred foreign tourists from entry, but the traditional Jerusalem Santa is managing to bring some local cheer. 
  <p class="updated_time"> 09:01 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1064546215/pinata-mexico-posadas-celebration">In Mexico, piñatas are a Christmas essential full of history, art and treats</a> NPR: Piñatas are a common element in parties across different countries, but especially in Mexico around Christmas time, and the story of their origin combines cultures, traditions and religions. 
- <p class="updated_time"> 09:00 AM CT, Dec. 22 </p> 
- <a href="https://www.wsj.com/articles/china-locks-down-xian-issuing-stay-at-home-order-to-13-million-11640191348">China Locks Down Xi'an, Issuing Stay-at-Home Order to 13 million</a> WSJ: The tally of new Covid-19 cases in Xi’an on Tuesday was the highest in the country, with officials saying the infections are with the Delta variant. 
  <p class="updated_time"> 07:46 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/americas/chile-boric.html">Who Is Gabriel Boric, Chile's Next President?</a> NYT: Mr. Boric, 35, is now the most prominent face of a generation of Chileans who are calling for a break with the past. 
  <p class="updated_time"> 06:36 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066649196/omicron-will-cause-more-infections-but-lower-hospital-rates-analysis-shows">Omicron will cause more infections but lower hospital rates, analysis shows</a> NPR: University of Washington research predicts the omicron wave will infect more than 400,000 people a day in the U.S. when it crests in about six weeks. 
- <p class="updated_time"> 04:21 AM CT, Dec. 22 </p> 
- <a href="https://www.wsj.com/articles/libya-delays-presidential-election-amid-concerns-of-renewed-conflict-11640183492">Libya Delays Presidential Election Amid Concerns of Renewed Conflict</a> WSJ: The vote scheduled for later this week was postponed by at least a month, the country’s electoral commission said, in an effort to defuse tensions between rival political factions. 
  <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/heat-carbon-emissions-cities.html">Using a City’s Excess Heat to Reduce Emissions</a> NYT: A district in London has developed an innovative way to divert subway heat for buildings to lower carbon emissions. Other cities are getting creative, as well. 
  <p class="updated_time"> 02:27 AM CT, Dec. 22 </p> 
@@ -172,6 +172,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:32 AM CT, Dec. 23 </p> 
+ <a href="https://www.cnn.com/2021/12/23/politics/dewine-signs-abortion-bill-ohio/index.html">Ohio GOP governor signs abortion bill into law</a> CNN: Ohio Republican Gov. Mike DeWine on Wednesday signed a bill into law requiring doctors to try to preserve life in the rare case that a baby is born alive following an attempted abortion -- or face criminal penalties. 
  <p class="updated_time"> 07:58 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/science/webb-nasa-launch-delay.html">How NASA's Webb Telescope Overcame Loose Screws, Budgets and Clamps</a> NYT: Getting the James Webb Space Telescope to the launchpad has been a difficult journey that has taken decades. 
  <p class="updated_time"> 07:41 AM CT, Dec. 23 </p> 
@@ -380,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/20/are-dems-dreams-deferred-or-dead-495523">Are Dems’ dreams deferred or dead?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/20/the-case-for-why-bbb-is-dead-and-for-why-it-may-not-be-495522"> The case for why BBB is dead — and for why it may not be</a> Politico Playbook: And Rep. Albio Sires (D-N.J.) won’t run for reelection. 
- <p class="updated_time"> 07:59 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">White House issues damning statement against Manchin after saying he won't vote for Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 07:56 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/14-policies-manchin-social-spending-525681">How 14 policies could survive — or die — after Manchin’s ‘no’</a> Politico: Despite his clear opposition to enacting President Joe Biden’s $1.7T social spending package, the West Virginia senator actually likes a slew of individual policies in the plan, giving Democrats hope for turning some of those ideas into law. 
  <p class="updated_time"> 07:00 PM CT, Dec. 19 </p> 
