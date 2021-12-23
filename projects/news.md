@@ -174,6 +174,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:52 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/business/economy/inflation-pce-index-fed.html">PCE Index Hit Highest Level in November Since 1982</a> NYT: The Fed’s preferred inflation gauge climbed at the fastest pace in nearly four decades, as Omicron clouded the outlook for 2022. 
  <p class="updated_time"> 05:30 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/political-wish-lists-2022.html">7 Political Wish Lists for the New Year</a> NYT: What do the president, vice president, former president and party leaders want in 2022? We made our best guess. 
  <p class="updated_time"> 05:15 PM CT, Dec. 23 </p> 
@@ -188,8 +190,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/23/1067598857/the-trump-supporters-who-went-from-planning-the-jan-6-rally-to-aiding-the-riot-p">The Trump supporters who went from planning the Jan. 6 rally to aiding the riot probe</a> NPR: NPR's Ari Shapiro talks with reporter Hunter Walker, who wrote a Rolling Stone article on Dustin Stockton and Jennifer Lynn Lawrence, the Trump supporters now cooperating with the Jan. 6 House panel. 
  <p class="updated_time"> 03:40 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/apple-google-doj-delay-526072">Potential DOJ suits against Apple and Google delayed amid budget woes</a> Politico: Antitrust prosecutors had aimed to wrap up their probes of the two tech giants by Dec. 31. But now a decision on whether to sue could come in March or later. 
- <p class="updated_time"> 03:38 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/business/economy/inflation-pce-index-fed.html">PCE Index Hit Highest Level in November Since 1982</a> NYT: The Fed’s preferred inflation gauge climbed at the fastest pace in nearly four decades, as Omicron clouded the outlook for 2022. 
  <p class="updated_time"> 03:35 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067598901/president-biden-faces-pressure-to-end-fossil-fuel-development-to-fight-climate-c">President Biden faces pressure to end fossil fuel development to fight climate change</a> NPR: President Biden faces pressure to end fossil fuel development on federal land to fight climate change. But industry expects new drilling opportunities, putting his public lands chief in a tight spot. 
  <p class="updated_time"> 03:11 PM CT, Dec. 23 </p> 
