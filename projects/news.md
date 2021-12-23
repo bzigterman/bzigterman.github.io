@@ -7,16 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:21 AM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59765052?at_medium=RSS&at_campaign=KARANGA">James Franco admits sleeping with students from his acting school</a> BBC: The actor spoke at length about allegations of sexual misconduct made against him in 2018. 
+ <p class="updated_time"> 04:11 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid News: White House Promises More Covid Treatments</a> NYT: British researchers find that Omicron effects seem less severe. The F.D.A. authorizes Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/science/polar-bears-svalbard.html">How to Catch a Polar Bear</a> NYT: First, spot the bear. 
  <p class="updated_time"> 03:56 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/russia-putin-ukraine.html">At Putin News Conference, a Search for Signals on Ukraine</a> NYT: At his annual appearance, President Vladimir V. Putin made comments intended to sway a domestic audience. 
- <p class="updated_time"> 03:46 AM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid News: White House Promises More Covid Treatments</a> NYT: British researchers find that Omicron effects seem less severe. The F.D.A. authorizes Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
  <p class="updated_time"> 03:40 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/asia/india-christians-attacked.html">India's Christians Attacked Under Anti-Conversion Laws</a> NYT: Hindu extremists have found a new target: Christianity. A spree of newly enforced laws aimed at stopping conversions has uncapped explosive tensions across the country. of Hindu extremists. Rising attacks on Christians are part of a broader shift in India, in which minorities feel less safe. 
  <p class="updated_time"> 03:38 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59764029?at_medium=RSS&at_campaign=KARANGA">Pillar of Shame: Hong Kong's Tiananmen Square statue removed</a> BBC: It was one of the few remaining public memorials in Hong Kong commemorating the 1989 massacre. 
  <p class="updated_time"> 03:28 AM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59766810?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: Kyiv hopes truce will bring down war tensions</a> BBC: Russia and Ukraine agree to restore a ceasefire in eastern Ukraine, amid a build-up of Russian forces. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59766810?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: Kyiv hopes truce will ease military tensions</a> BBC: Russia and Ukraine agree to restore a ceasefire in eastern Ukraine, amid a build-up of Russian forces. 
  <p class="updated_time"> 02:30 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067169021/changing-climate-parches-afghanistan-exacerbating-poverty">Changing climate parches Afghanistan, exacerbating poverty</a> NPR: A severe drought, now in its second year, has dramatically worsened the already desperate situation in the country with an economy in freefall following the Taliban takeover in August. 
  <p class="updated_time"> 02:00 AM CT, Dec. 23 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/23/1067163101/hong-kong-university-removes-tiananmen-massacre-statue">Hong Kong university removes Tiananmen massacre statue</a> NPR: A monument at a Hong Kong university that commemorates the 1989 Tiananmen Square massacre was removed by workers early Thursday. Workers had erected barricades around the monument late Wednesday. 
  <p class="updated_time"> 01:06 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59766737?at_medium=RSS&at_campaign=KARANGA">Tiananmen Square memorial statue removed in Hong Kong</a> BBC: The Pillar of Shame showed piled-up corpses to commemorate protesters killed by Chinese authorities in 1989. 
- <p class="updated_time"> 01:05 AM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59765052?at_medium=RSS&at_campaign=KARANGA">James Franco admits sleeping with students from his acting school</a> BBC: The actor spoke at length about allegations of sexual misconduct made against him in 2018. 
  <p class="updated_time"> 12:49 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/22/business/paris-france-inflation-prices.html">Inflation Forces Parisian Vendors to Raise Prices on Staples</a> NYT: Soaring inflation in Europe is starting to squeeze shopkeepers and consumers. Many are preparing for more price increases in the new year. 
  <p class="updated_time"> 10:24 PM CT, Dec. 22 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59737125?at_medium=RSS&at_campaign=KARANGA">The secret lives of Ghislaine Maxwell and Jeffrey Epstein</a> BBC: Never-before-seen photos released during her trial shed new light on their private lives. 
  <p class="updated_time"> 05:54 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/europe-divided-omicron-response.html">Omicron Response Divides Europe as Cases Surge</a> NYT: As some nations impose tough restrictions in the face of soaring cases, others, including France, are lying back for the moment. 
- <p class="updated_time"> 04:14 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/nyregion/nypd-mask-mandate.html">N.Y.P.D. officers are again told to mask up amid Omicron surge</a> NYT: Employees are required to wear face masks indoors and outdoors regardless of vaccination status. 
 
 
 </details>
@@ -186,6 +186,20 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/trump-spurs-rise-in-celebrity-candidates-525865">Senate GOP feels another Trump effect: The rise of celeb candidates</a> Politico: House experience isn't necessarily the best way to get traction across the Capitol anymore — as Herschel Walker and Mehmet Oz are proving. 
+ <p class="updated_time"> 04:10 AM CT, Dec. 23 </p> 
+ <a href="https://www.npr.org/2021/12/23/1067172020/the-house-panel-probing-the-jan-6-attack-wants-to-talk-to-trump-ally-rep-jordan">The House panel probing the Jan. 6 attack wants to talk to Trump ally Rep. Jordan</a> NPR: The House committee investigating the attack on the U.S. Capitol has requested that Ohio Rep. Jim Jordan, a longtime ally of ex-President Trump, voluntarily provide information to the panel. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
+ <a href="https://www.npr.org/2021/12/23/1066276608/lies-betrayal-and-competition-on-the-hill-as-lawmakers-deck-the-halls-of-congres">Lies, betrayal and competition on the Hill as lawmakers deck the halls of Congress</a> NPR: The second floor of the Longworth Congressional office building is taking holiday decorations to a whole new level. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/us/politics/kamala-harris-biden-administration.html">Kamala Harris’s Allies Express Concern: Is She an Afterthought?</a> NYT: The vice president’s allies are increasingly concerned that President Biden relied on her to win but does not need her to govern. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/us/vaccine-hub-government-culpability.html">Beneath a Covid Vaccine Debacle, 30 Years of Government Culpability</a> NYT: Washington has rejected plans to revamp vaccine preparedness for decades and repeatedly paid a price. The Biden administration is at a similar crossroads. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/nyregion/trump-vance-investigation-bragg.html">Trump Fraud Inquiry Won’t Be Resolved When Vance’s Term Ends Next Week</a> NYT: After leading a three-year investigation into the former president, the Manhattan district attorney, Cyrus R. Vance Jr., will hand it to his successor. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
+ <a href="https://www.npr.org/2021/12/23/1065277246/trump-big-lie-jan-6-election">The clear and present danger of Trump's enduring 'Big Lie'</a> NPR: Fueling the Jan. 6 insurrection was the "Big Lie" that Donald Trump won the election. One year later, many warn that lie has metastasized and now poses an even graver threat to American democracy. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/science/webb-nasa-launch-delay.html">How NASA's Webb Telescope Overcame Loose Screws, Budgets and Clamps</a> NYT: Getting the James Webb Space Telescope to the launchpad has been a difficult journey that has taken decades. 
  <p class="updated_time"> 01:02 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/business/economy/inflation-pce-index-fed.html">PCE Index Probably Popped Again in November</a> NYT: The Personal Consumption Expenditures index is expected to confirm what other inflation measures have shown: Prices are coming in hot. 
  <p class="updated_time"> 11:39 PM CT, Dec. 22 </p> 
@@ -303,8 +317,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:10 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066642216/morning-news-brief">News brief: COVID testing, omicron disruptions, stranded migrants</a> NPR: President Biden announces more measures to make free at-home rapid tests available. Because of COVID, the NHL is pausing games. Hundreds of migrants remain trapped at the Belarus-Poland border. 
  <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
- <a href="https://www.npr.org/2021/12/22/1065136333/in-2021-climate-ambitions-soared-and-crashed-in-the-u-s-and-around-the-world">In 2021, climate ambitions soared and crashed in the U.S. and around the world</a> NPR: President Biden's lofty domestic goals were brought down to earth by congressional opposition, notably from one Democratic senator. International efforts to fight planetary warming also fell short. 
- <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/business/christmas-gifts-delivery-supply-chain.html">Why Christmas Gifts Are Arriving on Time This Year</a> NYT: Fears that a disrupted supply chain could wreak havoc on the logistics industry over the holiday turned out to be wrong as many Americans ordered early and shopped in stores. 
  <p class="updated_time"> 11:57 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/health/omicron-covid-biden-scientists.html">Omicron Will Surge Despite Biden’s New Plan, Scientists Say</a> NYT: Public health experts fear that the highly contagious variant cannot be stopped without harsh measures that the public will no longer tolerate. 
@@ -318,28 +330,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/us/politics/manchin-child-tax-credit-biden.html">The Policy Debate at the Heart of the Biden-Manchin Standoff</a> NYT: President Biden and Senator Joe Manchin III have many differences over the proposed domestic policy bill, but one issue stands out: the child tax credit. 
  <p class="updated_time"> 07:40 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/prison-covid-home-confinement.html">Justice Dept. Says Some Inmates Can Stay Confined at Home</a> NYT: The move reverses a Trump-era decision that would have sent many of the thousands of inmates released to home confinement during the pandemic back to prison. 
- <p class="updated_time"> 07:39 PM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066595651/a-shot-at-gold-a-swearing-in-and-a-tech-get-together-are-all-thwarted-by-omicron">A shot at gold, a swearing in, and a tech get-together are all thwarted by omicron</a> NPR: The alarming surge in COVID infections is prompting city leaders, heads of companies, and even sports officials to withdraw from public events that could potentially expose more people to the virus. 
  <p class="updated_time"> 07:29 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/mcconnell-manchin-republican.html">McConnell to Manchin: We’d Love to Have You, Joe</a> NYT: Senator Mitch McConnell, the Republican leader, says Democratic outrage over Senator Joe Manchin’s opposition to sweeping policy bills shows he is not welcome in his party any longer. 
  <p class="updated_time"> 07:04 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/gop-state-officials-prepare-new-wave-of-voting-restrictions/index.html">GOP proposals at the state level would nix ballot boxes and create new voting ID requirements</a> CNN: The push to impose voting restrictions at the state level is poised to continue next year as Republicans drive forward with an array of new proposals -- ranging from legislation that would eliminate ballot drop boxes to bills that would establish new ID requirements to vote. 
- <p class="updated_time"> 06:19 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/scott-perry-january-6-committee.html">Flynn Sues Jan. 6 Committee as House Republican Rebuffs Investigators</a> NYT: The panel investigating the Capitol attack faced stonewalling from allies of former President Donald J. Trump on two new fronts. 
- <p class="updated_time"> 05:27 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/climate/solar-power-federal-land-california.html">Biden Administration Approves Two California Solar Projects</a> NYT: The solar farms, planned for the California desert, would generate enough electricity to power about 132,000 homes, the Interior Department said. 
  <p class="updated_time"> 05:14 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/joe-manchin-biden-agenda.html">Manchin in the Middle: Is He a ‘No,’ or a ‘Not Yet’?</a> NYT: Democrats have been left hoping that the West Virginian, who fashions himself as an old-school centrist dealmaker, will eventually budge on President Biden’s agenda. 
  <p class="updated_time"> 04:59 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/first-puppy-bidens-white-house/index.html">Bidens add to their family with new first puppy</a> CNN: President Joe Biden and first lady Jill Biden have added to their pet family, the first lady's spokesperson tells CNN. 
  <p class="updated_time"> 04:43 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/inmates-pandemic/index.html">Thousands of inmates released because of pandemic will be allowed to remain on home confinement, Justice Department says</a> CNN: Thousands of federal inmates who were released from prison to complete their sentence from home as a preventative measure to combat the spread of Covid-19, will be allowed to remain on home confinement, the Justice Department announced on Tuesday. 
- <p class="updated_time"> 04:29 PM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066493427/blinken-talked-about-china-and-the-iran-nuclear-deal-at-end-of-year-news-confere">Blinken talked about China and the Iran nuclear deal at end of year news conference</a> NPR: Secretary of State Antony Blinken gave a news conference wrapping up his year, addressing questions about America's credibility after the pullout from Afghanistan. 
  <p class="updated_time"> 04:22 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/us/politics/john-thune-senate-retirement.html">John Thune, a Likely Successor to Mitch McConnell, Weighs Retirement</a> NYT: Mr. Thune, the No. 2 Republican in the Senate, is considering giving up his South Dakota seat because of both family concerns and Donald Trump’s enduring hold on the G.O.P. 
- <p class="updated_time"> 04:12 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/us/politics/phil-waldron-jan-6.html">Phil Waldron's Unlikely Role in Pushing Baseless Election Claims</a> NYT: Phil Waldron, who owns a bar in Texas, is a case study in how pro-Trump fringe players managed to get a hearing for conspiracy theories at the highest level during the presidential transition. 
  <p class="updated_time"> 04:06 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/biden-reverses-prison-525884">Biden Justice Department reverses on returning federal convicts on home detention to prison</a> Politico: Prisoners who have been on home confinement during pandemic won't have to return to prison. 
  <p class="updated_time"> 03:01 PM CT, Dec. 21 </p> 
