@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:35 PM CT, Dec. 23 </p> 
+ <p class="updated_time"> 01:46 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Spain, Italy Register Almost 50,000 Virus Cases Daily</a> NYT: Many European countries are requiring masks outdoors and banning public events. Israel is considering giving out a fourth vaccine. 
+ <p class="updated_time"> 01:46 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59766810?at_medium=RSS&at_campaign=KARANGA">US and Russia agree to talk as Putin hits out on Ukraine</a> BBC: Russia's leader demands an immediate response to his demands for Nato to pull back in Eastern Europe. 
+ <p class="updated_time"> 01:46 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59776917?at_medium=RSS&at_campaign=KARANGA">Daunte Wright death: US 'Taser mixup' ex-officer guilty of manslaughter</a> BBC: A former officer who fatally shot a black motorist during a traffic stop has been found guilty. 
+ <p class="updated_time"> 01:46 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/world/middleeast/lapid-israel-nuclear-iran-palestinians.html">Lapid Says Israel Will Support Iran Nuclear Pact, if It’s ‘a Good Deal.’</a> NYT: The Israeli foreign minister said “we have no problem with a deal,” but perhaps because he thinks the prospects of an agreement are remote. 
  <p class="updated_time"> 01:20 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/arts/music/carols-christmas-kings-choir-mcdowall.html">Cecilia McDowall to Debut New Christmas Carol</a> NYT: Each year, the choir of King’s College, Cambridge, commissions an original song for its Christmas service, giving the composer an audience of around 100 million people. 
- <p class="updated_time"> 01:14 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/middleeast/lapid-israel-nuclear-iran-palestinians.html">Lapid Says Israel Will Support Iran Nuclear Pact, if It’s ‘a Good Deal.’</a> NYT: The Israeli foreign minister said “we have no problem with a deal,” but perhaps because he thinks the prospects of an agreement are remote. 
  <p class="updated_time"> 01:14 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59775127?at_medium=RSS&at_campaign=KARANGA">Joan Didion: US literary icon dies at 87</a> BBC: She was known for chronicling US culture and was a screenwriter for the 1976 film A Star is Born. 
  <p class="updated_time"> 01:04 PM CT, Dec. 23 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/asia/hong-kong-tiananmen-statue.html">Hong Kong Removes 'Pillar of Shame' Statue Amid Crackdown</a> NYT: The decision to take down the “Pillar of Shame,” an enduring symbol of the territory’s pro-democracy movement, was another sign of Beijing’s crackdown. 
  <p class="updated_time"> 12:00 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html">Israel May Give 4th Dose of Covid Shot, Despite Experts' Doubts</a> NYT: Some scientists warn that too many shots might actually harm the body’s ability to fight the Covid-19 virus. But Israeli experts say there isn’t time to wait. 
- <p class="updated_time"> 11:50 AM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59766810?at_medium=RSS&at_campaign=KARANGA">US and Russia agree to talk as Putin hits out on Ukraine</a> BBC: Russia's leader demands an immediate response to his demands for Nato to pull back in Eastern Europe. 
  <p class="updated_time"> 11:46 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59768617?at_medium=RSS&at_campaign=KARANGA">TikTok ousts Google to become favourite online destination</a> BBC: Tiktok.com overtook other US tech giants in 2021, including Amazon, Apple, Facebook and Netflix. 
  <p class="updated_time"> 11:37 AM CT, Dec. 23 </p> 
@@ -176,6 +178,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/23/forced-labor-china-law-debate-526044">New law to combat forced labor in China sparks enforcement debate</a> Politico: Congress “brought down the hammer” with Uyghur Act, U.S. businesses complain. 
  <p class="updated_time"> 02:10 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/joan-didion-dies-526068">Joan Didion, peerless prose stylist, dies at 87</a> Politico: The revered author and essayist was a uniquely clear-eyed critic of turbulent times. 
+ <p class="updated_time"> 01:48 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/us/politics/kamala-harris-biden-administration.html">Heir Apparent or Afterthought? The Frustrations of Kamala Harris.</a> NYT: The vice president’s allies are increasingly concerned that President Biden relied on her to win but does not need her to govern. 
  <p class="updated_time"> 01:27 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/capitol-riot-january-6.html">… and a Merry Christmas From the ‘Patriots’ of Jan. 6</a> NYT: Holiday cards from defendants awaiting trial on charges related to the Capitol riot reflect their status as symbolic martyrs for the Republican base. 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
@@ -200,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/arts/hillary-clinton-masterclass.html">How Hillary Clinton's MasterClass Shows a Very 2021 Way to Be</a> NYT: Hillary Clinton delivered an unused election speech. Jennifer Aniston cried at Central Perk. It was a year for watching celebrities reinhabit their past selves. 
  <p class="updated_time"> 10:53 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
- <p class="updated_time"> 10:40 AM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/us/politics/kamala-harris-biden-administration.html">Heir Apparent or Afterthought? The Frustrations of Kamala Harris.</a> NYT: The vice president’s allies are increasingly concerned that President Biden relied on her to win but does not need her to govern. 
  <p class="updated_time"> 10:32 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/fda-authorizes-merck-covid-pill-526036">FDA authorizes Merck’s Covid-19 pill</a> Politico: Clinical trials showed that Merck’s pill reduced the risk of hospitalization and death from the virus by 30 percent. 
  <p class="updated_time"> 10:09 AM CT, Dec. 23 </p> 
@@ -311,7 +313,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:56 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/fda-pfizer-covid-pill-525979">FDA authorizes Pfizer's Covid-19 pill</a> Politico: The pill, called Paxlovid, will provide the U.S. with another tool to help fight the virus as the more infectious Omicron variant surges. 
  <p class="updated_time"> 12:45 PM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/kim-potter-trial-daunte-wright-police-shooting-525976">Jury reaches outcome in trial over Daunte Wright’s killing</a> Politico: The court did not immediately respond to questions on whether a trial outcome is a verdict. 
+ <a href="https://www.politico.com/news/2021/12/22/kim-potter-trial-daunte-wright-police-shooting-525976">Kim Potter guilty of manslaughter in Daunte Wright death</a> Politico: The mostly white jury deliberated for about four days before finding former Brooklyn Center officer Kim Potter guilty of first-degree and second-degree manslaughter. 
  <p class="updated_time"> 12:25 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/white-house-to-extend-student-loan-payment-moratorium-525974">White House extends student loan payment freeze</a> Politico: The move comes as the deadline neared for the end of the current moratorium and as another wave of Covid threatens a strong, but fragile, economic recovery. 
  <p class="updated_time"> 12:00 PM CT, Dec. 22 </p> 
