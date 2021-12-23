@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:40 AM CT, Dec. 23 </p> 
+ <p class="updated_time"> 11:51 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: As Israel Considers 4th Vaccine Dose, Some Ask If It’s Premature</a> NYT: Greece and other European nations add restrictions as cases surge. The Chinese authorities lock down Xi’an, a city of 13 million. 
+ <p class="updated_time"> 11:50 AM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59766810?at_medium=RSS&at_campaign=KARANGA">US and Russia agree to talk as Putin hits out on Ukraine</a> BBC: Russia's leader demands an immediate response to his demands for Nato to pull back in Eastern Europe. 
+ <p class="updated_time"> 11:46 AM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59768617?at_medium=RSS&at_campaign=KARANGA">TikTok ousts Google to become favourite online destination</a> BBC: Tiktok.com overtook other US tech giants in 2021, including Amazon, Apple, Facebook and Netflix. 
  <p class="updated_time"> 11:37 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/russia-putin-ukraine.html">Putin Demands Quick Answers on Russian Security Concerns</a> NYT: At a traditional year-end news conference, President Vladimir V. Putin of Russia blamed the West for talk of “war, war, war,” but did not markedly escalate tensions further. 
  <p class="updated_time"> 11:11 AM CT, Dec. 23 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59755684?at_medium=RSS&at_campaign=KARANGA">Sudan women protest against 'rape by security forces'</a> BBC: Women and girls were allegedly sexually abused by security forces during a demonstration on Sunday. 
  <p class="updated_time"> 10:53 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
- <p class="updated_time"> 10:33 AM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59766810?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine crisis: Putin says ball in West's court</a> BBC: Russia's leader demands an immediate response to his demands for Nato to pull back in Eastern Europe. 
  <p class="updated_time"> 10:04 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59773767?at_medium=RSS&at_campaign=KARANGA">Kêfa Sagbadjou Glèlè: Monarch of once-powerful West African kingdom dies</a> BBC: Kêfa Sagbadjou Glèlè, thought to have been in his nineties, had ruled over Abomey for two years. 
  <p class="updated_time"> 09:50 AM CT, Dec. 23 </p> 
@@ -127,6 +129,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59723756?at_medium=RSS&at_campaign=KARANGA">Kerala school uniform: Why some Muslim groups are protesting</a> BBC: Muslim groups in India's Kerala state protest after a government school allows girls to wear trousers. 
  <p class="updated_time"> 06:02 PM CT, Dec. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59731003?at_medium=RSS&at_campaign=KARANGA">Saving Kyrgyzstan's deer from brink of extinction</a> BBC: Kyrgyzstan used to be home to thousands of deer, but now there are as few as 400 left. 
+ <p class="updated_time"> 05:15 PM CT, Dec. 21 </p> 
+ <a href="https://www.nytimes.com/2021/12/20/us/politics/ted-cruz-biden-ukraine.html">Deal With Ted Cruz Sets Stage for Russia Pipeline Fight in Early 2022</a> NYT: The Texas Republican leveraged his obstruction of diplomatic nominees into a Senate vote that could complicate President Biden’s efforts to defend Ukraine. 
  <p class="updated_time"> 04:46 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493462/european-treasure-hunter-reunites-american-veteran-with-the-bracelet-he-lost-in-">European treasure hunter reunites American veteran with the bracelet he lost in 1945</a> NPR: A U.S. soldier overseas during World War II lost a bracelet inscribed with his sweetheart's name. A treasure hunter discovered it this fall, and returned it to its rightful owner. 
  <p class="updated_time"> 04:29 PM CT, Dec. 21 </p> 
@@ -180,7 +184,7 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/23/pentagon-staffers-covid-positive-526048">7 Pentagon staffers test positive for Covid after official trip</a> Politico: Marines also announce that more troops have been kicked out for refusing the vaccine. 
  <p class="updated_time"> 11:45 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/nyregion/cyrus-vance-donald-trump.html">Trump Fraud Inquiry Won’t Be Resolved When Vance’s Term Ends Next Week</a> NYT: After leading a three-year investigation into the former president, the Manhattan district attorney, Cyrus R. Vance Jr., will hand it to his successor. 
- <p class="updated_time"> 11:36 AM CT, Dec. 23 </p> 
+ <p class="updated_time"> 11:44 AM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/donald-trump-supreme-court-records-january-6/index.html">Trump asks Supreme Court to block release of his White House records to January 6 committee</a> CNN: Former President Donald Trump appealed to the Supreme Court on Thursday to block the release of documents from his White House to the House committee investigating the January 6 riot at the Capitol, escalating his effort to keep about 700 pages of records secret. 
  <p class="updated_time"> 11:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/dccc-partnership-campaign-staff-diversity-526041">DCCC launching partnership to boost campaign staff diversity</a> Politico: House Democrats' campaign arm is partnering with Blue Leadership Collaborative to recruit and retain people of color, women and people who identify as queer as senior staff. 
