@@ -7,16 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:24 PM CT, Dec. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59765371?at_medium=RSS&at_campaign=KARANGA">Australia settles lawsuit over welfare scheme criticised as racist</a> BBC: Aboriginal communities said a welfare scheme criticised as "modern-day slavery" had increased poverty. 
+ <p class="updated_time"> 10:05 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: White House Promises More Covid Treatments</a> NYT: British researchers find that Omicron effects seem less severe. The F.D.A. authorizes Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
+ <p class="updated_time"> 10:02 PM CT, Dec. 22 </p> 
+ <a href="https://www.nytimes.com/2021/12/22/world/australia/koala-massacre-cape-bridgewater.html">‘Koala Massacre’: Australia Files Hundreds of Charges After Land-Clearing Operation</a> NYT: A property owner and two companies in Australia were charged after a land-clearing operation left dozens of the marsupials dead, injured or starving. 
+ <p class="updated_time"> 10:02 PM CT, Dec. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59764827?at_medium=RSS&at_campaign=KARANGA">Omicron: Biden denies failure in pandemic testing response</a> BBC: A shortage of tests have plagued the US while the latest variant has spawned an explosion in cases. 
  <p class="updated_time"> 09:49 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/asia/india-christians-attacked.html">India's Christians Attacked Under Anti-Conversion Laws</a> NYT: “They want to remove us from society,” a Christian farmer said of Hindu extremists. Rising attacks on Christians are part of a broader shift in India, in which minorities feel less safe. 
- <p class="updated_time"> 09:43 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/live/2021/12/22/world/omicron-covid-vaccine-tests">Covid Live Updates: White House Promises More Covid Treatments</a> NYT: British researchers find that Omicron effects seem less severe. The F.D.A. authorizes Pfizer’s Covid pills for high-risk patients 12 and older, a treatment that could be available within days. 
  <p class="updated_time"> 08:57 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59764029?at_medium=RSS&at_campaign=KARANGA">Pillar of Shame: Hong Kong's Tiananmen Square statue removed</a> BBC: It was one of the few remaining public memorials in Hong Kong commemorating the 1989 massacre. 
  <p class="updated_time"> 08:19 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">As Humanitarian Disaster Looms, U.S. Opens Door for More Afghanistan Aid</a> NYT: The Treasury Department and the United Nations offered new protection for aid from sanctions meant to pressure the Taliban. 
- <p class="updated_time"> 08:17 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59764827?at_medium=RSS&at_campaign=KARANGA">Omicron: Biden denies failure in pandemic testing response</a> BBC: A shortage of tests have plagued the US while the latest variant has spawned an explosion in cases. 
  <p class="updated_time"> 07:31 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59764824?at_medium=RSS&at_campaign=KARANGA">Philadelphia congresswoman carjacked at gunpoint in broad daylight</a> BBC: The lawmaker's government phone and ID were among belongings that were also snatched. 
  <p class="updated_time"> 07:01 PM CT, Dec. 22 </p> 
@@ -85,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1066649196/omicron-will-cause-more-infections-but-lower-hospital-rates-analysis-shows">Omicron will cause more infections but lower hospital rates, analysis shows</a> NPR: University of Washington research predicts the omicron wave will infect more than 400,000 people a day in the U.S. when it crests in about six weeks. 
  <p class="updated_time"> 04:21 AM CT, Dec. 22 </p> 
  <a href="https://www.wsj.com/articles/libya-delays-presidential-election-amid-concerns-of-renewed-conflict-11640183492">Libya Delays Presidential Election Amid Concerns of Renewed Conflict</a> WSJ: The vote scheduled for later this week was postponed by at least a month, the country’s electoral commission said, in an effort to defuse tensions between rival political factions. 
- <p class="updated_time"> 04:11 AM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59750154?at_medium=RSS&at_campaign=KARANGA">Rogel Aguilera-Mederos: Colorado lorry driver's sentence sparks uproar</a> BBC: The 110-year prison sentence for the Colorado lorry driver sparks calls for leniency and reform. 
  <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/heat-carbon-emissions-cities.html">Using a City’s Excess Heat to Reduce Emissions</a> NYT: A district in London has developed an innovative way to divert subway heat for buildings to lower carbon emissions. Other cities are getting creative, as well. 
  <p class="updated_time"> 03:07 AM CT, Dec. 22 </p> 
@@ -176,13 +178,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:01 PM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/europe/uk-brexit-david-frost-liz-truss.html">U.K. Foreign Secretary Inherits Thorny Issue: Northern Ireland Talks</a> NYT: Liz Truss is taking charge of Brexit talks after the surprise resignation of David Frost. If she is successful, it could give her a significant political boost. 
  <p class="updated_time"> 04:00 PM CT, Dec. 20 </p> 
- <a href="https://www.nytimes.com/2021/12/20/world/middleeast/egypt-human-rights-activitists-sentenced.html">Egypt Sentences 3 Human Rights Activists to Prison</a> NYT: The verdicts suggest that the government has not scaled back its crackdown on dissent, despite efforts to improve its image. 
- <p class="updated_time"> 04:00 PM CT, Dec. 20 </p> 
  <a href="https://www.npr.org/2021/12/20/1066017197/with-the-loss-of-manchins-vote-bidens-climate-change-agenda-may-be-doomed">With the loss of Manchin's vote, Biden's climate change agenda may be doomed</a> NPR: Despite a year of increasing weather disasters, Biden's ambitious climate plans may be doomed in Congress. 
  <p class="updated_time"> 11:17 AM CT, Dec. 20 </p> 
  <a href="https://www.nytimes.com/2021/12/20/world/africa/drones-ethiopia-war-turkey-emirates.html">Foreign Drones Tip the Balance in Ethiopia’s Civil War</a> NYT: Prime Minister Abiy Ahmed pulled off a stunning reversal in the year-old conflict with the help of armed drones supplied by the United Arab Emirates, Turkey and Iran. 
- <p class="updated_time"> 06:01 PM CT, Dec. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59719323?at_medium=RSS&at_campaign=KARANGA">Myanmar: BBC investigates military's mass killings</a> BBC: Eyewitnesses and survivors say that soldiers rounded up villagers before separating the men and killing them. 
 
 
 </details>
@@ -206,6 +204,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/22/supreme-court-special-session-vaccine-requirements-526030">Supreme Court to hold special session on vaccine requirements</a> Politico: The high court announced late Wednesday that it would hear arguments in the cases on Jan. 7. 
  <p class="updated_time"> 08:07 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/mary-gay-scanlon-carjacked/index.html">Democratic congresswoman carjacked in Philadelphia</a> CNN: Rep. Mary Gay Scanlon, Democrat from Pennsylvania, was carjacked Wednesday afternoon in Philadelphia, but physically unharmed, according to her spokesperson. 
+ <p class="updated_time"> 08:04 PM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/fec-dismisses-complaints-dejoy-straw-donor-scheme/index.html">FEC dismisses complaints filed against Louis DeJoy alleging straw donor scheme </a> CNN: The Federal Election Commission voted to dismiss two complaints filed by watchdog groups against US Postmaster General Louis DeJoy that alleged a straw donor scheme at his former company. 
  <p class="updated_time"> 07:54 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/biden-covid-testing-526029">'Nothing's been good enough': Biden admits Covid testing has fallen short</a> Politico: Biden said his administration has now ordered half a billion tests to send to people across the country. 
  <p class="updated_time"> 07:44 PM CT, Dec. 22 </p> 
@@ -214,6 +214,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/us/capitol-riot-matthew-greene-guilty.html">Proud Boys Member Pleads Guilty and Will Cooperate in Jan. 6 Riot Inquiry</a> NYT: Matthew Greene, 34, who was “among the first wave” to rush up the Capitol steps, pleaded guilty to two charges and agreed to cooperate with the government, federal prosecutors said. 
  <p class="updated_time"> 06:52 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/covid-tests-biden-omicron.html">Biden Promised 500 Million Tests, but Americans Will Have to Wait</a> NYT: Contracts to purchase tests could be signed as soon as next week, but relief could be weeks away for people trying to buy the hard-to-find tests. 
+ <p class="updated_time"> 06:35 PM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/2024-election-joe-biden-donald-trump/index.html">Biden says potentially facing Trump in 2024 only increases his desire to run for reelection</a> CNN: President Joe Biden said Wednesday that a rematch against former President Donald Trump in 2024 only increases his desire to run for reelection. 
  <p class="updated_time"> 06:22 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/jim-jordan-jan-6.html">Jan. 6 Panel Seeks Interview With Jim Jordan, a Close Trump Ally</a> NYT: The House committee said investigators wanted to ask Mr. Jordan, a Republican congressman from Ohio, about his conversations with former President Donald J. Trump. 
  <p class="updated_time"> 06:10 PM CT, Dec. 22 </p> 
@@ -354,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/21/politics/university-of-north-carolina-supreme-court-affirmative-action/index.html">University of North Carolina and civil rights advocates ask Supreme Court to sidestep affirmative action challenge</a> CNN: The University of North Carolina and civil rights advocates urged the US Supreme Court on Monday to steer clear of a case designed to end racial affirmative action at state colleges and universities. 
  <p class="updated_time"> 09:34 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/donald-trump-booster-shot-boos/index.html">Trump met with boos after revealing he received Covid-19 booster</a> CNN: Former President Donald Trump was booed by a portion of an audience in Dallas on Sunday when he said he had received a Covid-19 booster shot, according to video of the closed press event that was shared on social media. 
- <p class="updated_time"> 09:28 AM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/house-democrats-retirements-2022/index.html">'We have got a problem here': Low morale and redistricting hand Democrats a growing retirement issue</a> CNN: There is a growing sense of gloom among Democrats in the House. And every week or so, when another Democratic member of Congress announces they won't run for reelection in 2022, the mood inside the caucus worsens. 
  <p class="updated_time"> 09:25 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/moderate-democrats-manchin-2022/index.html">'A recipe for absolute destruction': Democrats scramble to avoid electoral blowback after Manchin halts Biden agenda </a> CNN: It's exactly the scenario Democrats had worked for months to avoid -- but now find themselves confronting. 
  <p class="updated_time"> 07:05 AM CT, Dec. 21 </p> 
@@ -390,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/20/the-case-for-why-bbb-is-dead-and-for-why-it-may-not-be-495522"> The case for why BBB is dead — and for why it may not be</a> Politico Playbook: And Rep. Albio Sires (D-N.J.) won’t run for reelection. 
  <p class="updated_time"> 04:30 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/cdc-covid-omicron-delta-tracking-525621">‘It is embarrassing’: CDC struggles to track Covid cases as Omicron looms</a> Politico: The U.S. was behind other countries in charting the spread of disease in the pandemic’s disastrous early months. It’s still behind as new variants threaten to disrupt the winter. 
- <p class="updated_time"> 07:59 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">White House issues damning statement against Manchin after saying he won't vote for Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 07:56 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/14-policies-manchin-social-spending-525681">How 14 policies could survive — or die — after Manchin’s ‘no’</a> Politico: Despite his clear opposition to enacting President Joe Biden’s $1.7T social spending package, the West Virginia senator actually likes a slew of individual policies in the plan, giving Democrats hope for turning some of those ideas into law. 
  <p class="updated_time"> 07:00 PM CT, Dec. 19 </p> 
