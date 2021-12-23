@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
+ <a href="https://www.politico.com/news/2021/12/23/trump-spurs-rise-in-celebrity-candidates-525865">Senate GOP feels another Trump effect: The rise of celeb candidates</a> Politico: House experience isn't necessarily the best way to get traction across the Capitol anymore — as Herschel Walker and Mehmet Oz are proving. 
  <p class="updated_time"> 01:02 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/business/economy/inflation-pce-index-fed.html">PCE Index Probably Popped Again in November</a> NYT: The Personal Consumption Expenditures index is expected to confirm what other inflation measures have shown: Prices are coming in hot. 
  <p class="updated_time"> 11:39 PM CT, Dec. 22 </p> 
