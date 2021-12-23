@@ -123,7 +123,7 @@ ggplot(data = data,
            y = value/1000)) +
   geom_line() +
   labs(title = "Real Disposable Personal Income: Per Capita",
-       caption = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: U.S. Bureau of Economic Analysis, retrieved from the St. Louis Fed. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -146,7 +146,6 @@ ggplot(data = data,
         # #strip.text = element_text(size = 11),
         #strip.background = element_blank(),
         plot.caption = element_text(colour = "grey40"))
-
 
 ggsave("plots/disposable_income.png",
        width = 8, height = 8*(628/1200), dpi = 320)
