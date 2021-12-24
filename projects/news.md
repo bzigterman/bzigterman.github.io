@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:47 AM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: More Flight Cancellations Upend Holiday Travel</a> NYT: Delta, United and other airlines face staff shortages as workers contract the virus. The Biden administration will end a southern Africa travel ban on Dec. 31. 
+ <p class="updated_time"> 11:43 AM CT, Dec. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59777784?at_medium=RSS&at_campaign=KARANGA">Bangladesh ferry fire: Dozens killed near Jhalakathi</a> BBC: At least 39 people die and about 100 are injured after a ferry catches fire in southern Bangladesh. 
  <p class="updated_time"> 11:09 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
- <p class="updated_time"> 11:06 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: More Flight Cancellations Upend Holiday Travel</a> NYT: Delta, United and other airlines face staff shortages as workers contract the virus. The Biden administration will end a southern Africa travel ban on Dec. 31. 
  <p class="updated_time"> 10:42 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/south-africa-united-states-travel.html">Travel Between U.S. and Southern Africa Will Resume, White House Says</a> NYT: Biden will end the ban at midnight on Dec. 31, reversing restrictions imposed last month. South Africa criticized the ban as discriminatory. 
  <p class="updated_time"> 09:23 AM CT, Dec. 24 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/europe/covid-britain-omicron-christmas.html">Despite Omicron Wave, Britons Are Set on Not Losing Another Christmas</a> NYT: For Christmas shoppers in central London this week, little seemed to dampen their spirits. But there was an undercurrent that the city was bracing for further coronavirus restrictions. 
  <p class="updated_time"> 07:21 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/migrant-boat-crash-greece.html">Second Deadly Migrant Boat Crash Off Greece This Week</a> NYT: Ninety people were left stranded after Thursday’s accident. The crash came in a week that also saw scores of migrants die in wrecks off the coast of Libya. 
- <p class="updated_time"> 06:28 AM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59777784?at_medium=RSS&at_campaign=KARANGA">Bangladesh ferry fire: Dozens killed near Jhalakathi</a> BBC: At least 37 people die and about 100 are injured after a ferry catches fire in southern Bangladesh. 
  <p class="updated_time"> 06:27 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59779924?at_medium=RSS&at_campaign=KARANGA">Pregnant woman among 15 charged for Uganda attacks</a> BBC: Police say the suspects are linked to four attacks by a branch of the Islamic State group. 
  <p class="updated_time"> 06:04 AM CT, Dec. 24 </p> 
@@ -168,7 +168,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:52 AM CT, Dec. 24 </p> 
+ <p class="updated_time"> 11:47 AM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/january-6-video-capitol-hill-riot/index.html">New January 6 video shows three hours of violent and chaotic assault on police </a> CNN: The Justice Department this week released a three-hour video of a battle between rioters and the police at the US Capitol Building on January 6 where rioters brandished weapons, officers were viciously beaten, and a member of the mob died on Capitol steps. 
  <p class="updated_time"> 10:36 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-lifts-africa-travel-ban-526133">Biden administration to lift travel ban from south African countries Dec. 31</a> Politico: Administration officials at the time said the ban would buy time for health officials to learn more about the Omicron variant. 
