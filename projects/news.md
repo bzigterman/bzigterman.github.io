@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:43 AM CT, Dec. 24 </p> 
+ <p class="updated_time"> 10:42 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: More Flight Cancellations Upend Holiday Travel</a> NYT: Delta, United and other airlines face staff shortages as workers contract the virus. The Biden administration will end a southern Africa travel ban on Dec. 31. 
+ <p class="updated_time"> 10:42 AM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/world/south-africa-united-states-travel.html">Travel Between U.S. and Southern Africa Will Resume, White House Says</a> NYT: Biden will end the ban at midnight on Dec. 31, reversing restrictions imposed last month. South Africa criticized the ban as discriminatory. 
  <p class="updated_time"> 09:39 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
  <p class="updated_time"> 09:23 AM CT, Dec. 24 </p> 
@@ -31,20 +33,28 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59780489?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Fourth woman accuses Sex and the City actor of assault</a> BBC: US singer Lisa Gentile alleges the Sex and the City actor groped her in a New York apartment in 2002. 
  <p class="updated_time"> 05:32 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/europe-covid-pandemic-omicron.html">Europeans Ponder Living With, Not Defeating, Covid</a> NYT: On the eve of the biggest holidays in Europe, exhaustion with the pandemic is rising. So is resignation that the virus is endemic. 
+ <p class="updated_time"> 05:28 AM CT, Dec. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-wants-military-support-to-deter-russia-while-the-u-s-weighs-response-11640363279">Ukraine Wants Military Support to Deter Russia While U.S. Weighs Response</a> WSJ: Ukrainian officials say efforts to stop Moscow would be strengthened if the Biden administration steps up assistance ahead of an attack. 
  <p class="updated_time"> 05:11 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/business-59777577?at_medium=RSS&at_campaign=KARANGA">Selfridges sold for £4bn to Thai-Austrian alliance</a> BBC: The British luxury store chain is being bought by Thailand's Central Group and Signa Group of Austria. 
  <p class="updated_time"> 05:06 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/queen-elizabeth-ii-christmas-covid.html">A Quieter Christmas for Queen Elizabeth II as Covid Persists</a> NYT: The 95-year-old monarch is spending the holiday at Windsor Castle instead of Sandringham, her English country estate. 
  <p class="updated_time"> 05:01 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1066861022/how-the-soviet-unions-collapse-explains-the-current-russia-ukraine-tension">How the Soviet Union's collapse explains the current Russia-Ukraine tension</a> NPR: To understand the friction between Russia and Ukraine, it's important to go back to 1991. Exactly 30 years ago this weekend, the Soviet Union formally dissolved and broke up into 15 separate nations. 
+ <p class="updated_time"> 05:00 AM CT, Dec. 24 </p> 
+ <a href="https://www.wsj.com/articles/astrazenecas-vaccine-dumped-by-the-west-helps-fill-gaping-need-in-rest-of-world-11640361603">AstraZeneca's Vaccine Helps Fill Gaping Global Need</a> WSJ: The Covid-19 shot, beset by early production problems and rare side effects, has been a workhorse for lower-income countries. 
  <p class="updated_time"> 04:58 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59779376?at_medium=RSS&at_campaign=KARANGA">Russian priest who adopted 70 children jailed for abuse</a> BBC: Nikolai Stremsky, reputed to have had Russia's biggest family, is convicted of raping children. 
  <p class="updated_time"> 04:53 AM CT, Dec. 24 </p> 
  <a href="https://www.wsj.com/articles/u-s-airlines-cancel-flights-as-omicron-disruptions-grow-11640347969">U.S. Airlines Cancel Flights as Omicron Disruptions Grow</a> WSJ: Upheaval from the highly transmissible Omicron Covid-19 variant is spreading, but signs are mounting that the disease caused by Omicron is milder than previous strains. 
  <p class="updated_time"> 04:09 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59780064?at_medium=RSS&at_campaign=KARANGA">James Franco accusers call him 'completely insensitive' after interview</a> BBC: Oscar-nominated actor James Franco recently admitted having sex with students at his drama school. 
+ <p class="updated_time"> 04:02 AM CT, Dec. 24 </p> 
+ <a href="https://www.wsj.com/articles/how-the-afghanistan-taliban-outwitted-and-outwaited-the-u-s-11640355270">How the Taliban Outwitted and Outwaited the U.S.</a> WSJ: Islamist movement spoke of moderation as it solidified gains on the battlefield, taking Washington and its Afghan allies by surprise. 
  <p class="updated_time"> 04:00 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/afghanistan-nadery-peace-negotiations.html">An Afghan Official Laments What Was Lost and Looks to What Lies Ahead</a> NYT: Ahmad Nader Nadery spent decades working toward a thriving, free Afghanistan. Watching the Taliban undo much of his work, he wonders how to move forward. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 24 </p> 
+ <a href="https://www.wsj.com/articles/as-omicron-surges-africas-covid-19-vaccination-drive-sputters-11640358002">As Omicron Surges, Africa's Covid-19 Vaccination Drive Sputters</a> WSJ: After two years of struggling to procure coronavirus vaccines, the continent with the fewest Covid-19 inoculations is facing a new problem: the capacity to absorb and deploy waves of new donations, many of which come with a very short shelf life. 
  <p class="updated_time"> 02:45 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067769323/ferry-fire-kills-at-least-37-in-southern-bangladesh">Ferry fire kills at least 39 in southern Bangladesh</a> NPR: A huge fire swept through a crowded river ferry in southern Bangladesh early Friday, leaving of dead and injured as passengers jumped off the vessel to swim to shore, officials said. 
  <p class="updated_time"> 02:19 AM CT, Dec. 24 </p> 
@@ -111,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
  <p class="updated_time"> 11:20 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/china-winter-olympic-spectators.html">China tells Winter Olympic spectators to clap, not cheer, for athletes, and Xi’an, a major city, locks down.</a> NYT: As the Omicron variant spreads elsewhere, China is taking elaborate precautions to prevent the virus from reaching participants when the Games start in February. 
- <p class="updated_time"> 11:18 AM CT, Dec. 23 </p> 
- <a href="https://www.wsj.com/articles/u-s-russia-move-closer-to-talks-over-ukraine-as-moscow-amasses-troops-11640296717">U.S., Russia Move Closer to Talks Over Ukraine as Moscow Masses Troops</a> WSJ: Both sides agree to hold discussions in January, though they differ over how to structure the negotiations, U.S. officials said. 
  <p class="updated_time"> 05:36 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067188698/putin-urges-west-to-act-quickly-to-offer-security-guarantees">Putin urges West to act quickly to offer security guarantees</a> NPR: Russian President Vladimir Putin urged the West on Thursday to move quickly to meet Russia's demand for security guarantees precluding NATO's expansion to Ukraine. 
  <p class="updated_time"> 04:31 AM CT, Dec. 23 </p> 
@@ -121,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/science/polar-bear.html">How to Catch a Polar Bear</a> NYT: First, spot the bear. 
  <p class="updated_time"> 02:30 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067169021/changing-climate-parches-afghanistan-exacerbating-poverty">Changing climate parches Afghanistan, exacerbating poverty</a> NPR: A severe drought, now in its second year, has dramatically worsened the already desperate situation in the country with an economy in freefall following the Taliban takeover in August. 
- <p class="updated_time"> 02:00 AM CT, Dec. 23 </p> 
- <a href="https://www.wsj.com/articles/two-years-into-covid-19-pandemic-elderly-italians-again-face-christmas-alone-11640264404">Two Years Into Covid-19, Elderly Italians Again Face Christmas Alone</a> WSJ: As Italy is fighting to slow down the Omicron variant, many nursing homes have restricted or suspended family visits during the Christmas holidays, putting a strain on families. 
  <p class="updated_time"> 01:23 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067163101/hong-kong-university-removes-tiananmen-massacre-statue">Hong Kong university removes Tiananmen massacre statue</a> NPR: A monument at a Hong Kong university that commemorates the 1989 Tiananmen Square massacre was removed by workers early Thursday. Workers had erected barricades around the monument late Wednesday. 
  <p class="updated_time"> 12:49 AM CT, Dec. 23 </p> 
@@ -135,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/health/covid-omicron-delta-hospitalizations.html">Omicron Infections Seem to Be Milder, Three Research Teams Report</a> NYT: The data offer a rare bit of good news. Still, hospitalizations are likely to increase simply because the variant is so contagious. 
  <p class="updated_time"> 06:40 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/europe/migrant-boat-sinks-greece.html">Three Dead and Many Missing as Migrant Boat Sinks Near Greece</a> NYT: The sinking came just weeks after 27 people drowned trying to cross the English Channel, another stark reminder of the lethal risks facing asylum seekers. 
- <p class="updated_time"> 05:22 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
  <p class="updated_time"> 04:58 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/california-booster-mandate-feb-1.html">California Requires Health Workers to Get Boosters by Feb. 1</a> NYT: Gov. Gavin Newsom said more than half of the sequenced cases in the state have been identified as the Omicron variant, but the real number is probably higher. 
  <p class="updated_time"> 03:49 PM CT, Dec. 22 </p> 
@@ -398,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/18/stop-the-steal-founder-jan-6-committee-gop-lawmakers-525345">‘Stop the Steal’ founder told Jan. 6 committee about contacts with GOP lawmakers</a> Politico: The description of the testimony comes in a lawsuit Ali Alexander filed to block the committee from obtaining his phone records. 
  <p class="updated_time"> 03:08 PM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/news/2021/12/17/dems-trudge-toward-2022-megabill-reeling-525276">Dems trudge toward 2022 with Biden’s megabill reeling</a> Politico: Senate Democrats are preparing to flee D.C. for the holiday break with their party's agenda concretely in limbo. 
- <p class="updated_time"> 10:44 AM CT, Dec. 17 </p> 
- <a href="https://www.politico.com/news/2021/12/17/house-democrats-elections-dccc-525258">Vulnerable House Dems to DCCC: You're jeopardizing our reelection</a> Politico: Multiple at-risk Democrats tell POLITICO that the campaign committee has adopted a midterms strategy that is hurting, not helping, their reelections. 
 
 
 </details>
