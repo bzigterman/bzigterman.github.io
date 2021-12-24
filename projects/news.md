@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:36 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Christmas Eve Flights Canceled, Times Square Celebration Scaled Back Amid Omicron</a> NYT: The variant has driven virus cases past Delta’s peak in the United States, leaving airlines without staff and forcing Mayor Bill de Blasio to restrict the number of people who will be allowed to watch the ball drop in Times Square. 
+ <p class="updated_time"> 10:29 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59777577?at_medium=RSS&at_campaign=KARANGA">Selfridges sold for £4bn to Thai-Austrian alliance</a> BBC: The British luxury store chain is being bought by Thailand's Central Group and Signa Group of Austria. 
+ <p class="updated_time"> 10:21 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59752089?at_medium=RSS&at_campaign=KARANGA">Hong Kong universities remove more monuments marking Tiananmen</a> BBC: It comes a day after a famous statue marking the 1989 massacre was removed from a university. 
  <p class="updated_time"> 10:03 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067749297/south-korea-president-pardoned">South Korea pardons a former president imprisoned on corruption charges</a> NPR: The South Korean government says it will grant a special pardon to former President Park Geun-hye, 69, who is serving a lengthy prison term for bribery and other crimes. 
  <p class="updated_time"> 09:57 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">South Korea to Pardon Former President Park Geun-hye</a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
- <p class="updated_time"> 09:30 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-59777577?at_medium=RSS&at_campaign=KARANGA">Selfridges sold for £4bn to Thai-Austrian alliance</a> BBC: The British luxury store chain is being bought by Thailand's Central Group and Signa Group of Austria. 
- <p class="updated_time"> 09:11 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Christmas Eve Flights Canceled, Times Square Celebration Scaled Back Amid Omicron</a> NYT: The variant has driven virus cases past Delta’s peak in the United States, leaving airlines without staff and forcing Mayor Bill de Blasio to restrict the number of people who will be allowed to watch the ball drop in Times Square. 
+ <p class="updated_time"> 09:45 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59778215?at_medium=RSS&at_campaign=KARANGA">Rare pink handfish spotted in Australia for first time in decades</a> BBC: Australian researchers found the endangered "walking" handfish in wild waters off Tasmania. 
  <p class="updated_time"> 08:46 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/australia/koala-massacre-cape-bridgewater.html">‘Koala Massacre’: Australia Files Hundreds of Animal Cruelty Charges</a> NYT: A property owner and two companies in Australia were charged after a land-clearing operation left dozens of the marsupials dead, injured or starving. 
  <p class="updated_time"> 08:45 PM CT, Dec. 23 </p> 
@@ -61,16 +65,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/europe/migrant-boat-crash-greece.html">Second Deadly Migrant Boat Crash Off Greece This Week</a> NYT: Ninety people were left stranded after Thursday’s accident. The crash came in a week that also saw scores of migrants die in wrecks off the coast of Libya. 
  <p class="updated_time"> 03:11 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59772299?at_medium=RSS&at_campaign=KARANGA">Covid: Ecuador makes vaccination mandatory for most citizens</a> BBC: All those from the age of five must be jabbed, although people with medical reasons are exempt. 
- <p class="updated_time"> 02:20 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59775127?at_medium=RSS&at_campaign=KARANGA">Joan Didion: US literary icon dies at 87</a> BBC: She was known for chronicling US culture and was a screenwriter for the 1976 film A Star is Born. 
  <p class="updated_time"> 01:20 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/arts/music/carols-christmas-kings-choir-mcdowall.html">Cecilia McDowall to Debut New Christmas Carol</a> NYT: Each year, the choir of King’s College, Cambridge, commissions an original song for its Christmas service, giving the composer an audience of around 100 million people. 
  <p class="updated_time"> 01:04 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59776765?at_medium=RSS&at_campaign=KARANGA">James Franco: I'll admit, I did sleep with students... and that was wrong</a> BBC: The actor paid $2.2m (£1.6m) after being sued over "sexually-charged behaviour towards female students". 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
- <p class="updated_time"> 11:46 AM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59768617?at_medium=RSS&at_campaign=KARANGA">TikTok ousts Google to become favourite online destination</a> BBC: Tiktok.com overtook other US tech giants in 2021, including Amazon, Apple, Facebook and Netflix. 
  <p class="updated_time"> 11:20 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/china-winter-olympic-spectators.html">China tells Winter Olympic spectators to clap, not cheer, for athletes, and Xi’an, a major city, locks down.</a> NYT: As the Omicron variant spreads elsewhere, China is taking elaborate precautions to prevent the virus from reaching participants when the Games start in February. 
  <p class="updated_time"> 11:18 AM CT, Dec. 23 </p> 
@@ -133,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/world/middleeast/israel-christmas-covid.html">Covid Spoils Another Christmas in the Holy Land</a> NYT: Israel’s strict border controls have largely barred foreign tourists from entry, but the traditional Jerusalem Santa is managing to bring some local cheer. 
  <p class="updated_time"> 09:01 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1064546215/pinata-mexico-posadas-celebration">In Mexico, piñatas are a Christmas essential full of history, art and treats</a> NPR: Piñatas are a common element in parties across different countries, but especially in Mexico around Christmas time, and the story of their origin combines cultures, traditions and religions. 
- <p class="updated_time"> 07:46 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/americas/chile-boric.html">Who Is Gabriel Boric, Chile's Next President?</a> NYT: Mr. Boric, 35, is now the most prominent face of a generation of Chileans who are calling for a break with the past. 
  <p class="updated_time"> 06:36 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066649196/omicron-will-cause-more-infections-but-lower-hospital-rates-analysis-shows">Omicron will cause more infections but lower hospital rates, analysis shows</a> NPR: University of Washington research predicts the omicron wave will infect more than 400,000 people a day in the U.S. when it crests in about six weeks. 
  <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
