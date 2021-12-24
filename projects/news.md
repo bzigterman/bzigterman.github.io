@@ -39,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1066861022/how-the-soviet-unions-collapse-explains-the-current-russia-ukraine-tension">How the Soviet Union's collapse explains the current Russia-Ukraine tension</a> NPR: To understand the friction between Russia and Ukraine, it's important to go back to 1991. Exactly 30 years ago this weekend, the Soviet Union formally dissolved and broke up into 15 separate nations. 
  <p class="updated_time"> 04:58 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59779376?at_medium=RSS&at_campaign=KARANGA">Russian priest who adopted 70 children jailed for abuse</a> BBC: Nikolai Stremsky, reputed to have had Russia's biggest family, is convicted of raping children. 
+ <p class="updated_time"> 04:53 AM CT, Dec. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-s-airlines-cancel-flights-as-omicron-disruptions-grow-11640347969">U.S. Airlines Cancel Flights as Omicron Disruptions Grow</a> WSJ: Upheaval from the highly transmissible Omicron Covid-19 variant is spreading, but signs are mounting that the disease caused by Omicron is milder than previous strains. 
  <p class="updated_time"> 04:09 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59780064?at_medium=RSS&at_campaign=KARANGA">James Franco accusers call him 'completely insensitive' after interview</a> BBC: Oscar-nominated actor James Franco recently admitted having sex with students at his drama school. 
  <p class="updated_time"> 04:00 AM CT, Dec. 24 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1067769323/ferry-fire-kills-at-least-37-in-southern-bangladesh">Ferry fire kills at least 39 in southern Bangladesh</a> NPR: A huge fire swept through a crowded river ferry in southern Bangladesh early Friday, leaving of dead and injured as passengers jumped off the vessel to swim to shore, officials said. 
  <p class="updated_time"> 02:19 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067772373/covid-19-spike-worsens-africas-severe-poverty-hunger-woes">COVID-19 spike worsens Africa's severe poverty, hunger woes</a> NPR: In Zimbabwe and other African nations, the virus's resurgence is threatening the survival of millions. The United Nations says about 9 in 10 of the world's extremely poor live in Africa. 
- <p class="updated_time"> 01:48 AM CT, Dec. 24 </p> 
- <a href="https://www.wsj.com/articles/u-s-airlines-cancel-flights-as-omicron-disruptions-grow-11640347969">U.S. Airlines Cancel Flights as Omicron Disruptions Grow</a> WSJ: Upheaval from the highly transmissible Omicron Covid-19 variant is spreading, but signs are mounting that the disease caused by Omicron is milder than previous strains. 
  <p class="updated_time"> 01:43 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59778426?at_medium=RSS&at_campaign=KARANGA">Haridwar: Police case after outrage in India over anti-Muslim hate speech</a> BBC: Viral videos show Hindu religious leaders making provocative anti-Muslim speeches at a conclave in Haridwar. 
  <p class="updated_time"> 12:24 AM CT, Dec. 24 </p> 
@@ -179,6 +179,8 @@ permalink: /projects/news/
  <p class="updated_time"> 08:12 AM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/travel-restrictions-african-countries-omicron/index.html">Biden to lift travel restrictions on southern African countries that were put in place due to Omicron</a> CNN: The Biden administration is lifting restrictions on eight southern African countries that were put in place last month after the Omicron variant was first identified in South Africa, a White House official tells CNN. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
+ <a href="https://www.politico.com/news/2021/12/24/maryland-governor-democrats-526119">Dems face off in Maryland primary — in an ‘incredibly Republican year’</a> Politico: Looming over the gubernatorial primary is a political environment likely benefiting Republicans — amplified by the GOP’s victory in neighboring Virginia last month. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-rural-evictions-526089">Biden’s about to adopt a policy that could hurt Dems even more with rural voters</a> Politico: About half of the $46.5 billion in federal rental aid made available during the pandemic is expected to be spent by the end of this year. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-social-spending-senate-parliamentarian-526081">Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</a> Politico: The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan. 
@@ -238,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/23/1067598901/president-biden-faces-pressure-to-end-fossil-fuel-development-to-fight-climate-c">President Biden faces pressure to end fossil fuel development to fight climate change</a> NPR: President Biden faces pressure to end fossil fuel development on federal land to fight climate change. But industry expects new drilling opportunities, putting his public lands chief in a tight spot. 
  <p class="updated_time"> 03:11 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/climate-spending-washington-communities-526077">A flood of climate aid is coming from Washington. Will those who need it miss out?</a> Politico: Advocates for communities seeking a piece of the hundreds of billions of dollars in new assistance worry that the process may be "too weighty, too heavy and too full of bureaucracy." 
- <p class="updated_time"> 02:15 PM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/forced-labor-china-law-debate-526044">New law to combat forced labor in China sparks enforcement debate</a> Politico: Congress “brought down the hammer” with Uyghur Act, U.S. businesses complain. 
  <p class="updated_time"> 02:12 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/kamala-harris-biden-administration.html">Heir Apparent or Afterthought? The Frustrations of Kamala Harris.</a> NYT: The vice president’s allies are increasingly concerned that President Biden relied on her to win but does not need her to govern. 
  <p class="updated_time"> 02:10 PM CT, Dec. 23 </p> 
