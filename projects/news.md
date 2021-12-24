@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:53 AM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop singer Suga discovered that he was infected after returning to South Korea from the United States. 
  <p class="updated_time"> 04:46 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/europe-covid-pandemic-omicron.html">Europeans Ponder Living With, Not Defeating, Covid</a> NYT: On the eve of the biggest holidays in Europe, exhaustion with the pandemic is rising. So is resignation that the virus is endemic. 
- <p class="updated_time"> 04:38 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop singer Suga discovered that he was infected after returning to South Korea from the United States. 
  <p class="updated_time"> 04:22 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Christmas Eve Flights Canceled and Times Square Celebration Scaled Back Amid Omicron</a> NYT: The variant has driven virus cases past Delta’s peak in the United States, leaving airlines without staff and forcing Mayor Bill de Blasio to restrict the number of people who will be allowed to watch the ball drop in Times Square. 
  <p class="updated_time"> 04:00 AM CT, Dec. 24 </p> 
