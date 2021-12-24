@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:38 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">South Korea to Pardon Former President Park Geun-hye</a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
+ <p class="updated_time"> 07:29 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Times Square Keeps New Year’s Celebration, but With a Smaller Crowd</a> NYT: Mayor Bill de Blasio said only 15,000 would be allowed to celebrate and masks will be required. Omicron has driven virus cases past Delta’s peak in the United States. 
+ <p class="updated_time"> 07:17 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59777757?at_medium=RSS&at_campaign=KARANGA">Park Geun-hye: South Korea's ex-president granted government pardon</a> BBC: Park had previously received a 22-year-old prison term for her role in a vast corruption scandal. 
  <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
  <p class="updated_time"> 06:22 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59738541?at_medium=RSS&at_campaign=KARANGA">Switzerland's wolves get too close for comfort</a> BBC: Alpine villages say the animals have started approaching children and they need to fend them off. 
- <p class="updated_time"> 06:16 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Times Square Keeps New Year’s Celebration, but With a Smaller Crowd</a> NYT: Mayor Bill de Blasio said only 15,000 would be allowed to celebrate and masks will be required. Omicron has driven virus cases past Delta’s peak in the United States. 
  <p class="updated_time"> 06:14 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59726874?at_medium=RSS&at_campaign=KARANGA">Murray Head: 'Unsung at home, but a hero in France'</a> BBC: Murray Head is all but forgotten in the UK, but in his adopted home France he ranks among the greats. 
  <p class="updated_time"> 06:13 PM CT, Dec. 23 </p> 
@@ -83,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59768195?at_medium=RSS&at_campaign=KARANGA">Belgium agrees to close controversial ageing nuclear reactors</a> BBC: The plants have for years sparked safety fears from neighbours including Germany. 
  <p class="updated_time"> 05:36 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067188698/putin-urges-west-to-act-quickly-to-offer-security-guarantees">Putin urges West to act quickly to offer security guarantees</a> NPR: Russian President Vladimir Putin urged the West on Thursday to move quickly to meet Russia's demand for security guarantees precluding NATO's expansion to Ukraine. 
- <p class="updated_time"> 05:01 AM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59764029?at_medium=RSS&at_campaign=KARANGA">Pillar of Shame: Hong Kong's Tiananmen Square statue removed</a> BBC: It was one of the few remaining public memorials in Hong Kong commemorating the 1989 massacre. 
  <p class="updated_time"> 04:31 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/li-tiantian-disappearance.html">Fury in China After Li Tiantian, an Outspoken Teacher, Disappears</a> NYT: Supporters of Li Tiantian believe that local officials may have sent her to a psychiatric hospital, a longstanding way of stifling and discrediting dissent. 
  <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
@@ -162,8 +164,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:08 PM CT, Dec. 23 </p> 
+ <a href="https://www.politico.com/news/2021/12/23/cdc-covid-isolation-health-workers-526123">CDC sets shorter Covid isolation rules for health workers</a> Politico: Isolation time can be cut to five days, or even fewer, if there are severe staffing shortages, according to the new CDC guidance. 
  <p class="updated_time"> 06:58 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/georgia-poll-workers-sue-giuliani-oan-526122">2 Georgia poll workers sue Giuliani, OAN over election conspiracy theories</a> Politico: Ruby Freeman and Shaye Moss, her daughter, worked as poll workers counting ballots at State Farm Arena in Fulton County, Ga., during the November 2020 election. 
+ <p class="updated_time"> 06:42 PM CT, Dec. 23 </p> 
+ <a href="https://www.npr.org/2021/12/23/1067724848/former-n-y-gov-andrew-cuomo-wont-be-charged-for-touching-a-female-trooper">Former N.Y. Gov. Andrew Cuomo won't be charged for touching a female trooper</a> NPR: A Long Island prosecutor says Cuomo won't face criminal charges after a state trooper said she felt "completely violated" by his unwanted touching at an event at Belmont Park in 2019. 
  <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
  <p class="updated_time"> 06:30 PM CT, Dec. 23 </p> 
@@ -312,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1066997356/january-6-panel-asks-rep-jordan-top-trump-ally-for-voluntary-cooperation-in-prob">The House Jan. 6 panel wants to talk to Trump ally Rep. Jim Jordan</a> NPR: Chairman Bennie Thompson's letter to Jordan asks for information and an interview to discuss his conversations with President Donald Trump on Jan. 6. 
  <p class="updated_time"> 02:52 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066956407/anthony-fauci-jesse-watters-fox-news-kill-shot-ambush-interviews">Fauci calls on Fox News to fire host who urged 'kill shot' in 'ambush' interviews</a> NPR: Fox News host Jesse Watters is facing blowback for using violent rhetoric to explain how citizen journalists should confront Dr. Anthony Fauci in the hopes of going viral. 
- <p class="updated_time"> 02:14 PM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/durham-probe-cost-38-million-525985">Durham probe cost $3.8M over past year</a> Politico: The spending, detailed in documents released Wednesday by the Department of Justice, coincides with an uptick in activity from Durham in recent months. 
  <p class="updated_time"> 02:09 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066944829/matthew-greene-proud-boys-jan-6-capitol-pleads-guilty">Proud Boys member pleads guilty for role in Capitol riot</a> NPR: Matthew Greene, 34, has pleaded guilty in federal court to two criminal charges: conspiracy and obstruction of an official proceeding, related to the Capitol siege on Jan. 6, 2021. 
  <p class="updated_time"> 02:08 PM CT, Dec. 22 </p> 
@@ -330,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/22/politics/student-loan-pause-biden/index.html">Biden extends pause on student loan repayment through May 1</a> CNN: The Biden administration is considering extending the pause on federal student loan payments, which were set to restart on February 1. 
  <p class="updated_time"> 11:54 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066879033/biden-federal-student-loan-payment-freeze-extension-borrowers">President Biden extends student loan payment freeze through May 1</a> NPR: President Biden extended relief for federal student loan borrowers for an additional 90 days because borrowers are "still coping with the impacts of the pandemic." Payments now resume May 1. 
- <p class="updated_time"> 11:24 AM CT, Dec. 22 </p> 
- <a href="https://www.npr.org/2021/12/22/1066714092/biden-negative-test-covid-19-air-force-one">Biden tests negative for COVID-19 after recent exposure</a> NPR: The test was done after a White House staff member — who had flown with Biden on Air Force One on Friday — tested positive for COVID on Monday. Biden had tested negative on Sunday and Monday. 
  <p class="updated_time"> 08:20 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/rescue-money-runs-low-omicron-arrives/index.html">Federal pandemic aid runs dry as businesses deal with Omicron's impact</a> CNN: Congress has committed nearly $6 trillion since early 2020 to fight Covid-19 and cushion the economic blow from a once-in-century pandemic. 
  <p class="updated_time"> 07:01 AM CT, Dec. 22 </p> 
@@ -404,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/17/immigration-axed-and-bidens-big-bill-pushed-to-2022-495512">Immigration axed and Biden’s big bill pushed to 2022</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:04 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/17/this-is-a-real-f-ing-problem-495509"> ‘This is a real f---ing problem’</a> Politico Playbook: And President Joe Biden concedes that the BBB will be delayed. 
- <p class="updated_time"> 06:57 PM CT, Dec. 16 </p> 
- <a href="https://www.politico.com/news/2021/12/16/senate-parliamentarian-rejects-latest-dem-proposal-on-immigration-525195">Senate parliamentarian rejects latest Dem proposal on immigration</a> Politico: With bipartisan immigration reform talks stalled, Democrats widely viewed the social spending bill as their best chance to enact some type of immigration reform. 
 
 
 </details>
