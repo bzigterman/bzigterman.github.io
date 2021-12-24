@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:06 PM CT, Dec. 24 </p> 
+ <p class="updated_time"> 01:32 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: More Flight Cancellations Upend Holiday Travel</a> NYT: Delta, United and other airlines face staff shortages as workers contract the virus. The Biden administration will end a southern Africa travel ban on Dec. 31. 
+ <p class="updated_time"> 01:05 PM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/world/africa/south-africa-covid-quarantine.html">South Africa Ends Quarantining and Contact Tracing</a> NYT: The new regulations follow data showing that while the Omicron variant is highly transmissible, it has not caused high rates of severe disease in South Africa. 
  <p class="updated_time"> 12:43 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 12:21 PM CT, Dec. 24 </p> 
@@ -168,6 +170,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:17 PM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/cdc-updates-isolation-guidance-health-care-workers/index.html">CDC shortens isolation time for health care workers with Covid-19</a> CNN: The US Centers for Disease Control and Prevention is shortening the isolation time for health care workers who test positive for Covid-19, as it anticipates a surge in hospitalizations due to the Omicron variant. 
+ <p class="updated_time"> 01:17 PM CT, Dec. 24 </p> 
+ <a href="https://www.cnn.com/2021/12/24/politics/joe-biden-christmas-santa-norad/index.html">Biden calls NORAD and updates children on Santa's progress across the globe</a> CNN: President Joe Biden made a Christmas Eve call to North American Aerospace Defense Command on Friday at the White House, updating children on Santa's progress across the globe as part of what NORAD Commander Gen. Glen VanHerck on the call called "DOD's largest outreach program." 
  <p class="updated_time"> 12:43 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/us/elections/democrats-state-elections.html">Democrats Say They Are Serious About State Elections. But Are They Too Late?</a> NYT: State-level races are becoming a central focus of American politics as the lasting effects of new congressional maps and election laws raise the stakes. 
  <p class="updated_time"> 12:21 PM CT, Dec. 24 </p> 
