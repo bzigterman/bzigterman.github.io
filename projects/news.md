@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:32 AM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/world/europe/europe-covid-pandemic-omicron.html">Europeans Ponder Living With, Not Defeating, Covid</a> NYT: On the eve of the biggest holidays in Europe, exhaustion with the pandemic is rising. So is resignation that the virus is endemic. 
  <p class="updated_time"> 05:29 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: Flight Cancellations Upend Holiday Travel</a> NYT: United and other airlines face staff shortages as workers contract the virus. In New York, some Broadway shows are paused and the New Year’s Eve celebration in Times Square is scaled back. 
  <p class="updated_time"> 05:29 AM CT, Dec. 24 </p> 
@@ -17,8 +19,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/europe/queen-elizabeth-ii-christmas-covid.html">A Quieter Christmas for Queen Elizabeth II as Covid Persists</a> NYT: The 95-year-old monarch is spending the holiday at Windsor Castle instead of Sandringham, her English country estate. 
  <p class="updated_time"> 05:01 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1066861022/how-the-soviet-unions-collapse-explains-the-current-russia-ukraine-tension">How the Soviet Union's collapse explains the current Russia-Ukraine tension</a> NPR: To understand the friction between Russia and Ukraine, it's important to go back to 1991. Exactly 30 years ago this weekend, the Soviet Union formally dissolved and broke up into 15 separate nations. 
- <p class="updated_time"> 04:57 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/europe/europe-covid-pandemic-omicron.html">Europeans Ponder Living With, Not Defeating, Covid</a> NYT: On the eve of the biggest holidays in Europe, exhaustion with the pandemic is rising. So is resignation that the virus is endemic. 
+ <p class="updated_time"> 04:58 AM CT, Dec. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59779376?at_medium=RSS&at_campaign=KARANGA">Russian priest who adopted 70 children jailed for abuse</a> BBC: Nikolai Stremsky, reputed to have had Russia's biggest family, is convicted of raping children. 
+ <p class="updated_time"> 04:09 AM CT, Dec. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59780064?at_medium=RSS&at_campaign=KARANGA">James Franco accusers call him 'completely insensitive' after interview</a> BBC: Oscar-nominated actor James Franco recently admitted having sex with students at his drama school. 
  <p class="updated_time"> 04:00 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/afghanistan-nadery-peace-negotiations.html">An Afghan Official Laments What Was Lost and Looks to What Lies Ahead</a> NYT: Ahmad Nader Nadery spent decades working toward a thriving, free Afghanistan. Watching the Taliban undo much of his work, he wonders how to move forward. 
  <p class="updated_time"> 03:47 AM CT, Dec. 24 </p> 
@@ -79,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59776920?at_medium=RSS&at_campaign=KARANGA">Daunte Wright shooting: Key moments in the trial of Kimberly Potter</a> BBC: The trial saw emotional testimonies and dramatic bodycam footage of the fatal shooting. 
  <p class="updated_time"> 03:44 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/lapid-israel-nuclear-iran-palestinians.html">Lapid Says Israel Will Support Iran Nuclear Pact, if It’s ‘a Good Deal.’</a> NYT: The Israeli foreign minister said “we have no problem with a deal,” but perhaps because he thinks the prospects of an agreement are remote. 
- <p class="updated_time"> 03:41 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59766810?at_medium=RSS&at_campaign=KARANGA">US and Russia agree to talk as Putin hits out on Ukraine</a> BBC: Russia's leader demands an immediate response to his calls for Nato to pull back in Eastern Europe. 
  <p class="updated_time"> 03:35 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067598864/encore-encouraging-collaboration-early-on-can-lead-to-more-helpful-children">Encore: Encouraging collaboration early on can lead to more helpful children</a> NPR: In many cultures around the world, parents don't need chore charts or allowances for kids to pitch in around the house. A new study shows how parents in these cultures teach children to be helpful. 
  <p class="updated_time"> 03:23 PM CT, Dec. 23 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/russian-guns-for-hire-fill-void-in-africa-and-elsewhere-as-western-militaries-pull-back-11640295603">Russian Guns-for-Hire Fill Void in Africa and Elsewhere as Western Militaries Pull Back</a> WSJ: A mercenary deployment in Mali is triggering alarm among U.S. allies as Moscow denies being involved. 
  <p class="updated_time"> 10:28 AM CT, Dec. 23 </p> 
  <a href="https://www.wsj.com/articles/saudis-begin-making-ballistic-missiles-with-chinese-help-11640294886">Saudis Begin Making Ballistic Missiles With Chinese Help</a> WSJ: The effort is the latest in a series of moves by U.S. allies in the Middle East to increase military cooperation with China, a trend that has angered the Biden administration during a period of heightened animosity between Washington and Beijing. 
- <p class="updated_time"> 10:04 AM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59773767?at_medium=RSS&at_campaign=KARANGA">Kêfa Sagbadjou Glèlè: Monarch of once-powerful West African kingdom dies</a> BBC: Kêfa Sagbadjou Glèlè, thought to have been in his nineties, had ruled over Abomey for two years. 
  <p class="updated_time"> 07:36 AM CT, Dec. 23 </p> 
  <a href="https://www.wsj.com/articles/u-k-study-finds-risk-of-hospitalization-with-omicron-50-to-70-lower-than-with-delta-11640281553">U.K. Study Reinforces Conclusion That Omicron Causes Less Severe Disease</a> WSJ: The study found people infected with the Omicron variant are between 50% to 70% less likely to be hospitalized, adding to a body of evidence of Omicron’s reduced severity in populations with high levels of Covid immunity. 
  <p class="updated_time"> 05:36 AM CT, Dec. 23 </p> 
@@ -278,32 +278,74 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1066956407/anthony-fauci-jesse-watters-fox-news-kill-shot-ambush-interviews">Fauci calls on Fox News to fire host who urged 'kill shot' in 'ambush' interviews</a> NPR: Fox News host Jesse Watters is facing blowback for using violent rhetoric to explain how citizen journalists should confront Dr. Anthony Fauci in the hopes of going viral. 
  <p class="updated_time"> 02:09 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066944829/matthew-greene-proud-boys-jan-6-capitol-pleads-guilty">Proud Boys member pleads guilty for role in Capitol riot</a> NPR: Matthew Greene, 34, has pleaded guilty in federal court to two criminal charges: conspiracy and obstruction of an official proceeding, related to the Capitol siege on Jan. 6, 2021. 
+ <p class="updated_time"> 01:09 PM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/january-6-committee-interview-lawsuit/index.html">House January 6 rally staffers detail committee investigation questions and targets in lawsuit</a> CNN: Four people who staffed the pro-Trump rally at the Ellipse that preceded the deadly Capitol attack on January 6 are suing to block House investigators from obtaining their phone records. 
  <p class="updated_time"> 12:56 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/fda-pfizer-covid-pill-525979">FDA authorizes Pfizer's Covid-19 pill</a> Politico: The pill, called Paxlovid, will provide the U.S. with another tool to help fight the virus as the more infectious Omicron variant surges. 
  <p class="updated_time"> 12:45 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/kim-potter-trial-daunte-wright-police-shooting-525976">Kim Potter guilty of manslaughter in Daunte Wright death</a> Politico: The mostly white jury deliberated for about four days before finding former Brooklyn Center officer Kim Potter guilty of first-degree and second-degree manslaughter. 
+ <p class="updated_time"> 12:27 PM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/biden-trump-covid-vaccine-booster/index.html">Biden offers rare praise of Trump during Covid speech</a> CNN: President Joe Biden on Tuesday gave credit to the Trump administration for the development of the Covid-19 vaccine and praised his predecessor, Donald Trump, for getting a booster shot -- marking a rare moment where the two men have found common ground since Inauguration Day. 
  <p class="updated_time"> 12:25 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/white-house-to-extend-student-loan-payment-moratorium-525974">White House extends student loan payment freeze</a> Politico: The move comes as the deadline neared for the end of the current moratorium and as another wave of Covid threatens a strong, but fragile, economic recovery. 
  <p class="updated_time"> 12:00 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/student-loan-pause-biden/index.html">Biden extends pause on student loan repayment through May 1</a> CNN: The Biden administration is considering extending the pause on federal student loan payments, which were set to restart on February 1. 
- <p class="updated_time"> 10:26 AM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/january-6-committee-interview-lawsuit/index.html">January 6 rally staffers detail committee investigation questions and targets in lawsuit</a> CNN: Four people who staffed the pro-Trump rally at the Ellipse that preceded the deadly Capitol attack on January 6 are suing to block House investigators from obtaining their phone records. 
+ <p class="updated_time"> 11:34 AM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/supply-chain-biden-meeting/index.html">Biden touts progress on alleviating supply chain problems: 'Shelves are not empty'</a> CNN: President Joe Biden on Wednesday will get a progress report from members of his Cabinet and private sector CEOs on efforts to alleviate supply chain issues, lower consumer prices and keep shelves stocked amid the holiday season. 
+ <p class="updated_time"> 10:00 AM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/afghanistan-teachers-humanitarian-organizations/index.html">Biden administration moves to allow Afghan teachers' salaries to be paid by aid organizations</a> CNN: The Biden administration is lifting some restrictions on the types of aid that humanitarian organizations can provide to Afghanistan which will enable support for educational programs, including paying teachers' salaries, the Treasury Department and two senior administration officials announced on Wednesday. 
+ <p class="updated_time"> 08:20 AM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/rescue-money-runs-low-omicron-arrives/index.html">Federal pandemic aid runs dry as businesses deal with Omicron's impact</a> CNN: Congress has committed nearly $6 trillion since early 2020 to fight Covid-19 and cushion the economic blow from a once-in-century pandemic. 
+ <p class="updated_time"> 07:37 AM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/omicron-covid-holiday-plans-what-matters/index.html">Analysis: Omicron prompts new confusion over what's safe and what's not</a> CNN: How worried should you be about the uptick in Covid-19 cases and the emergence of the Omicron variant of the coronavirus? 
  <p class="updated_time"> 07:01 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/22/dems-family-meeting-with-manchin-495537">Dems' family meeting with Manchin</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/22/schumer-and-manchin-face-off-on-zoom-495536"> Schumer and Manchin face off on Zoom</a> Politico Playbook: And Biden tries to tackle Omicron. 
- <p class="updated_time"> 06:03 AM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/rescue-money-runs-low-omicron-arrives/index.html">Federal pandemic aid runs dry as businesses deal with Omicron's impact</a> CNN: Congress has committed nearly $6 trillion since early 2020 to fight Covid-19 and cushion the economic blow from a once-in-century pandemic. 
  <p class="updated_time"> 06:01 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/covid-pandemic-emergency-rental-assistance/index.html">Federal pandemic rental aid helped 2.5 million households. Nearly 5 million are still struggling</a> CNN: One year after Congress first authorized billions of dollars in Covid-19 pandemic rental assistance, the money has helped more than 2.5 million struggling renters to remain in their homes. But there are still roughly 4.7 million households behind on their rent across the country. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/hospitals-omicron-vaccinating-health-care-workers-525952">Hospitals grapple with Omicron — and legal brawl over vaccinating staff</a> Politico: More than 60,000 patients are hospitalized with Covid-19, according to the CDC, and the numbers are climbing with the highly contagious Omicron strain surging. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/dan-crenshaw-conservatives-come-correct-525829">Dan Crenshaw to his fellow conservatives: Come ‘correct’</a> Politico: The combat veteran often voted with Donald Trump but doesn't act Trumpishly. And he'll slam other Republicans when he feels he must. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/senate-democratic-candidates-manchin-2022/index.html">Senate hopefuls use frustration with Manchin to woo Democratic voters</a> CNN: To Democrats eager to become senators in 2023, the Senate is plainly broken and West Virginia Sen. Joe Manchin's power over President Joe Biden's Build Back Better plan is proof. 
+ <p class="updated_time"> 11:03 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/22/politics/joe-biden-covid-politics-omicron/index.html">The political vise tightens on Biden as he faces a Covid storm</a> CNN: President Joe Biden stepped before the podium Tuesday in an impossible political bind -- attempting to assure vaccinated Americans that they don't need to cancel their holiday plans as he confronts a fast-growing Covid surge that is likely to further disrupt American life as many more workers call out sick. 
  <p class="updated_time"> 10:56 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/schumer-floor-vote-biden-megabill-525963">Schumer vows a floor vote on Biden's $1.7T megabill next month</a> Politico: Sen. Joe Manchin (D-W.Va.) joined the virtual caucus call and addressed colleagues at the beginning, days after nixing the House-passed version of the bill. 
+ <p class="updated_time"> 10:02 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/biden-build-back-better-manchin/index.html">Biden insists he and Manchin will 'get something done' after Build Back Better setback</a> CNN: President Joe Biden on Tuesday insisted that he and Democratic Sen. Joe Manchin will "get something done" on the Build Back Better Act after Manchin defied his party by torpedoing the key piece of Biden's domestic agenda. 
+ <p class="updated_time"> 09:52 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/charles-lieber-harvard-china-ties-guilty/index.html">Harvard professor found guilty of lying about Chinese government ties</a> CNN: A Harvard University professor was convicted by a federal jury on Tuesday of lying to the US about his involvement with China's government, the Justice Department announced. 
+ <p class="updated_time"> 07:40 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/michael-flynn-lawsuit-january-6-committee/index.html">Michael Flynn sues January 6 committee to block phone records subpoena</a> CNN: Michael Flynn, the embattled former national security adviser to then-President Donald Trump, is suing to block a US House subpoena for his phone records. 
+ <p class="updated_time"> 07:04 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/gop-state-officials-prepare-new-wave-of-voting-restrictions/index.html">GOP proposals at the state level would nix ballot boxes and create new voting ID requirements</a> CNN: The push to impose voting restrictions at the state level is poised to continue next year as Republicans drive forward with an array of new proposals -- ranging from legislation that would eliminate ballot drop boxes to bills that would establish new ID requirements to vote. 
+ <p class="updated_time"> 04:59 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/first-puppy-bidens-white-house/index.html">Bidens add to their family with new first puppy</a> CNN: President Joe Biden and first lady Jill Biden have added to their pet family, the first lady's spokesperson tells CNN. 
+ <p class="updated_time"> 04:43 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/inmates-pandemic/index.html">Thousands of inmates released because of pandemic will be allowed to remain on home confinement, Justice Department says</a> CNN: Thousands of federal inmates who were released from prison to complete their sentence from home as a preventative measure to combat the spread of Covid-19, will be allowed to remain on home confinement, the Justice Department announced on Tuesday. 
  <p class="updated_time"> 04:06 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/biden-reverses-prison-525884">Biden Justice Department reverses on returning federal convicts on home detention to prison</a> Politico: Prisoners who have been on home confinement during pandemic won't have to return to prison. 
+ <p class="updated_time"> 03:01 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/81-year-old-january-6-defendant-wickersham/index.html">81-year-old US Capitol rioter sentenced to three years of probation</a> CNN: An 81-year-old Army veteran was sentenced to three years of probation on Tuesday for illegally breaching the US Capitol on January 6. 
+ <p class="updated_time"> 02:56 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/biden-covid-omicron-free-at-home-tests/index.html">Biden assures vaccinated Americans they can go ahead with holiday plans despite Omicron surge</a> CNN: President Joe Biden will announce Tuesday a purchase of a half-billion at-home rapid Covid-19 tests and a plan to distribute them free to Americans who request them through a website, one of a series of new steps he'll unveil as the country faces a potentially crippling wintertime surge of infections. 
+ <p class="updated_time"> 02:34 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/scott-perry-january-6-committee/index.html">GOP Rep. Scott Perry declines January 6 committee's request to speak with him</a> CNN: Republican Rep. Scott Perry on Tuesday declined the House January 6 committee's request to speak with him. 
+ <p class="updated_time"> 12:20 PM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/fauci-covid-isolation-period-omicron-cnntv/index.html">Fauci says reducing the recommended Covid isolation period for the fully vaccinated is being considered</a> CNN: Dr. Anthony Fauci said Tuesday that the US Centers for Disease Control and Prevention is considering loosening its isolation length recommendations for fully vaccinated individuals -- particularly health care workers -- who test positive for Covid-19 but don't have symptoms. 
+ <p class="updated_time"> 11:12 AM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/videos/politics/2021/12/21/the-11-democrats-who-could-replace-joe-biden-2024-cillizza-the-point.cnn">The 11 Democrats who could replace Joe Biden in 2024</a> CNN: President Joe Biden's age and recent struggles have caused a lot of speculation into whether he's going to run for reelection in 2024. In the latest episode of The Point, CNN's Chris Cillizza digs into the most likely replacements on the Democratic presidential ticket. 
+ <p class="updated_time"> 09:38 AM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/21/politics/university-of-north-carolina-supreme-court-affirmative-action/index.html">University of North Carolina and civil rights advocates ask Supreme Court to sidestep affirmative action challenge</a> CNN: The University of North Carolina and civil rights advocates urged the US Supreme Court on Monday to steer clear of a case designed to end racial affirmative action at state colleges and universities. 
+ <p class="updated_time"> 09:34 AM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/donald-trump-booster-shot-boos/index.html">Trump met with boos after revealing he received Covid-19 booster</a> CNN: Former President Donald Trump was booed by a portion of an audience in Dallas on Sunday when he said he had received a Covid-19 booster shot, according to video of the closed press event that was shared on social media. 
+ <p class="updated_time"> 09:28 AM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/house-democrats-retirements-2022/index.html">'We have got a problem here': Low morale and redistricting hand Democrats a growing retirement issue</a> CNN: There is a growing sense of gloom among Democrats in the House. And every week or so, when another Democratic member of Congress announces they won't run for reelection in 2022, the mood inside the caucus worsens. 
+ <p class="updated_time"> 09:25 AM CT, Dec. 21 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/moderate-democrats-manchin-2022/index.html">'A recipe for absolute destruction': Democrats scramble to avoid electoral blowback after Manchin halts Biden agenda </a> CNN: It's exactly the scenario Democrats had worked for months to avoid -- but now find themselves confronting. 
  <p class="updated_time"> 07:05 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/21/dems-plot-path-after-manchin-derailment-495530">Dems plot path after Manchin derailment</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
@@ -328,6 +370,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/20/are-dems-dreams-deferred-or-dead-495523">Are Dems’ dreams deferred or dead?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/20/the-case-for-why-bbb-is-dead-and-for-why-it-may-not-be-495522"> The case for why BBB is dead — and for why it may not be</a> Politico Playbook: And Rep. Albio Sires (D-N.J.) won’t run for reelection. 
+ <p class="updated_time"> 07:59 PM CT, Dec. 19 </p> 
+ <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">White House issues damning statement against Manchin after saying he won't vote for Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
  <p class="updated_time"> 07:56 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/14-policies-manchin-social-spending-525681">How 14 policies could survive — or die — after Manchin’s ‘no’</a> Politico: Despite his clear opposition to enacting President Joe Biden’s $1.7T social spending package, the West Virginia senator actually likes a slew of individual policies in the plan, giving Democrats hope for turning some of those ideas into law. 
  <p class="updated_time"> 07:00 PM CT, Dec. 19 </p> 
@@ -344,6 +388,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">White House lights up Manchin after he crushes Biden's megabill</a> Politico: The West Wing accused Manchin of "a breach of his commitments to the president and the senator’s colleagues in the House and Senate," in a blistering statement Sunday. 
  <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/black-lawmakers-diversity-lobbying-firms-525362">Black lawmakers threaten to cut off K St unless it diversifies</a> Politico: Years of frustration with the racial composition of the political influence industry have begun to boil over. 
+ <p class="updated_time"> 03:30 PM CT, Dec. 18 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/harris-charlamagne-tha-god-interview-defends-biden/index.html">Harris defends Biden when questioned whether he or Manchin is President</a> CNN: Vice President Kamala Harris forcefully defended President Joe Biden when recently asked whether he or Sen. Joe Manchin is the president of the United States, as Biden's agenda remains stalled in part because of the West Virginia Democrat. 
  <p class="updated_time"> 09:57 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/18/its-just-completely-delusional-495520"> ‘It’s just completely delusional’</a> Politico Playbook: And the Senate adjourns for the year. 
  <p class="updated_time"> 09:11 AM CT, Dec. 18 </p> 
