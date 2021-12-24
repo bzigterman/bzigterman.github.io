@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:38 PM CT, Dec. 24 </p> 
+ <p class="updated_time"> 01:49 PM CT, Dec. 24 </p> 
+ <a href="https://www.npr.org/2021/12/24/1067875042/the-u-s-is-lifting-its-omicron-linked-travel-ban-on-southern-africa">The U.S. is lifting its omicron-linked travel ban on southern Africa</a> NPR: The Biden administration on Friday said it was ordering the lifting of COVID-19 travel restrictions imposed earlier on eight  countries. The WHO had argued they were ineffective and unfair. 
+ <p class="updated_time"> 01:47 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: More Flight Cancellations Upend Holiday Travel</a> NYT: Delta, United and other airlines face staff shortages as workers contract the virus. The Biden administration will end a southern Africa travel ban on Dec. 31. 
+ <p class="updated_time"> 01:47 PM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop star Suga discovered that he was infected after returning to South Korea from the United States. 
  <p class="updated_time"> 01:05 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/africa/south-africa-covid-quarantine.html">South Africa Ends Quarantining and Contact Tracing</a> NYT: The new regulations follow data showing that while the Omicron variant is highly transmissible, it has not caused high rates of severe disease in South Africa. 
  <p class="updated_time"> 12:43 PM CT, Dec. 24 </p> 
@@ -27,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/south-africa-united-states-travel.html">Travel Between U.S. and Southern Africa Will Resume, White House Says</a> NYT: Biden will end the ban at midnight on Dec. 31, reversing restrictions imposed last month. South Africa criticized the ban as discriminatory. 
  <p class="updated_time"> 09:23 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59784118?at_medium=RSS&at_campaign=KARANGA">Russia fines Google over illegal content breach</a> BBC: The verdict marks the first time Russia has fined a technology giant based on their annual turnover. 
- <p class="updated_time"> 08:55 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop star Suga discovered that he was infected after returning to South Korea from the United States. 
  <p class="updated_time"> 08:31 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-59780318?at_medium=RSS&at_campaign=KARANGA">Covid: Christmas flights cancelled and new curbs amid Omicron spread</a> BBC: Millions face travel disruption and more restrictions as Omicron upends Christmas plans worldwide. 
  <p class="updated_time"> 07:23 AM CT, Dec. 24 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1066649196/omicron-will-cause-more-infections-but-lower-hospital-rates-analysis-shows">Omicron will cause more infections but lower hospital rates, analysis shows</a> NPR: University of Washington research predicts the omicron wave will infect more than 400,000 people a day in the U.S. when it crests in about six weeks. 
  <p class="updated_time"> 04:46 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493462/european-treasure-hunter-reunites-american-veteran-with-the-bracelet-he-lost-in-">European treasure hunter reunites American veteran with the bracelet he lost in 1945</a> NPR: A U.S. soldier overseas during World War II lost a bracelet inscribed with his sweetheart's name. A treasure hunter discovered it this fall, and returned it to its rightful owner. 
- <p class="updated_time"> 04:29 PM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066493427/blinken-talked-about-china-and-the-iran-nuclear-deal-at-end-of-year-news-confere">Blinken talked about China and the Iran nuclear deal at end of year news conference</a> NPR: Secretary of State Antony Blinken gave a news conference wrapping up his year, addressing questions about America's credibility after the pullout from Afghanistan. 
 
 
 </details>
@@ -168,6 +168,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:49 PM CT, Dec. 24 </p> 
+ <a href="https://www.npr.org/2021/12/24/1067875042/the-u-s-is-lifting-its-omicron-linked-travel-ban-on-southern-africa">The U.S. is lifting its omicron-linked travel ban on southern Africa</a> NPR: The Biden administration on Friday said it was ordering the lifting of COVID-19 travel restrictions imposed earlier on eight  countries. The WHO had argued they were ineffective and unfair. 
  <p class="updated_time"> 01:40 PM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/joe-biden-christmas-santa-norad/index.html">Biden calls NORAD and updates children on Santa's progress across the globe</a> CNN: President Joe Biden made a Christmas Eve call to North American Aerospace Defense Command on Friday at the White House, updating children on Santa's progress across the globe as part of what NORAD Commander Gen. Glen VanHerck on the call called "DOD's largest outreach program." 
  <p class="updated_time"> 01:17 PM CT, Dec. 24 </p> 
@@ -312,6 +314,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">As Humanitarian Disaster Looms, U.S. Opens Door for More Afghanistan Aid</a> NYT: The Treasury Department and the United Nations offered new protection for aid from sanctions meant to pressure the Taliban. 
  <p class="updated_time"> 08:15 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1067138785/biden-teases-possible-rematch-against-donald-trump-why-would-i-not">Biden teases possible rematch against Donald Trump. 'Why would I not?'</a> NPR: In an interview with ABC News on Wednesday, the president discussed his political future and what his administration would do to fight the spike in coronavirus cases. 
+ <p class="updated_time"> 08:12 PM CT, Dec. 22 </p> 
+ <a href="https://www.politico.com/news/2021/12/22/supreme-court-special-session-vaccine-requirements-526030">Supreme Court to hold special session on vaccine requirements</a> Politico: The high court announced late Wednesday that it would hear arguments in the cases on Jan. 7. 
  <p class="updated_time"> 07:44 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/your-money/student-loan-pause.html">Biden Administration Extends Pause on Student Loan Payments Until May 1</a> NYT: The Biden administration, under pressure from Democratic lawmakers, announced a three-month extension, citing the resurgent pandemic. 
  <p class="updated_time"> 07:32 PM CT, Dec. 22 </p> 
@@ -336,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/22/politics/antiviral-pill-biden-statement/index.html">250,000 treatment courses of Pfizer's antiviral pill will be available in January, Biden says</a> CNN: President Joe Biden on Wednesday pledged more than 250,000 treatment courses of Pfizer's antiviral pill will be available starting in January after the US Food and Drug Administration authorized it to treat Covid-19. 
  <p class="updated_time"> 03:14 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066997356/january-6-panel-asks-rep-jordan-top-trump-ally-for-voluntary-cooperation-in-prob">The House Jan. 6 panel wants to talk to Trump ally Rep. Jim Jordan</a> NPR: Chairman Bennie Thompson's letter to Jordan asks for information and an interview to discuss his conversations with President Donald Trump on Jan. 6. 
- <p class="updated_time"> 02:52 PM CT, Dec. 22 </p> 
- <a href="https://www.npr.org/2021/12/22/1066956407/anthony-fauci-jesse-watters-fox-news-kill-shot-ambush-interviews">Fauci calls on Fox News to fire host who urged 'kill shot' in 'ambush' interviews</a> NPR: Fox News host Jesse Watters is facing blowback for using violent rhetoric to explain how citizen journalists should confront Dr. Anthony Fauci in the hopes of going viral. 
  <p class="updated_time"> 12:56 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/fda-pfizer-covid-pill-525979">FDA authorizes Pfizer's Covid-19 pill</a> Politico: The pill, called Paxlovid, will provide the U.S. with another tool to help fight the virus as the more infectious Omicron variant surges. 
  <p class="updated_time"> 12:45 PM CT, Dec. 22 </p> 
@@ -368,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/21/democrats-riled-by-spanish-language-radio-attacks-on-kamala-harris-525787">Democrats riled by Spanish-language radio attacks on Kamala Harris</a> Politico: Political operatives and the radio hosts themselves say the uptick in calls is notable. Who, if anyone, is behind them remains unclear. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
- <p class="updated_time"> 02:25 PM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/alex-jones-sues-jan-6-committee-indicates-plan-to-plead-the-fifth-525770">Alex Jones sues Jan. 6 committee, indicates plan to plead the Fifth</a> Politico: In the lawsuit, Jones says he intends to assert his Fifth Amendment rights against self-incrimination. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/manchin-build-back-better-redo-525747">Manchin to Dems: Redo the whole thing, maybe I'll vote for it</a> Politico: The West Virginia senator wants a new bill that goes through Senate committees and focuses on rolling back the 2017 Trump tax cuts. 
  <p class="updated_time"> 11:49 AM CT, Dec. 20 </p> 
