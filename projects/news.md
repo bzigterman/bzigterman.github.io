@@ -7,16 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:18 PM CT, Dec. 23 </p> 
+ <p class="updated_time"> 08:51 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">South Korea to Pardon Former President Park Geun-hye</a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
+ <p class="updated_time"> 08:48 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Christmas Eve Flights Canceled, Times Square Celebration Scaled Back Amid Omicron</a> NYT: The variant has driven virus cases past Delta’s peak in the United States, leaving airlines without staff and forcing Mayor Bill de Blasio to restrict the number of people who will be allowed to watch the ball drop in Times Square. 
+ <p class="updated_time"> 08:46 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/world/australia/koala-massacre-cape-bridgewater.html">‘Koala Massacre’: Australia Files Hundreds of Animal Cruelty Charges</a> NYT: A property owner and two companies in Australia were charged after a land-clearing operation left dozens of the marsupials dead, injured or starving. 
+ <p class="updated_time"> 08:45 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/world/canada/indigenous-water-lawsuit.html">Canada and Indigenous People Settle Over Drinking Water</a> NYT: A court-approved settlement will compensate Indigenous people for the decades that many have lived with dirty water, and will also fund the clean up. 
+ <p class="updated_time"> 08:30 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59777757?at_medium=RSS&at_campaign=KARANGA">Park Geun-hye: South Korea's ex-president granted government pardon</a> BBC: Park had previously received a 22-year prison term for her role in a vast corruption scandal. 
+ <p class="updated_time"> 08:24 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/world/asia/hong-kong-tiananmen-statue.html">Hong Kong Removes 'Pillar of Shame' Statue Amid Crackdown</a> NYT: The decision to take down the “Pillar of Shame,” an enduring symbol of the territory’s pro-democracy movement, was another sign of Beijing’s crackdown. 
  <p class="updated_time"> 07:56 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59777385?at_medium=RSS&at_campaign=KARANGA">Mali: West condemns Russian mercenaries 'deployment'</a> BBC: France and its 15 allies say this could "further deteriorate the security situation in West Africa". 
- <p class="updated_time"> 07:55 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59777757?at_medium=RSS&at_campaign=KARANGA">Park Geun-hye: South Korea's ex-president granted government pardon</a> BBC: Park had previously received a 22-year prison term for her role in a vast corruption scandal. 
  <p class="updated_time"> 07:44 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59777577?at_medium=RSS&at_campaign=KARANGA">Selfridges sold for £4bn to Thai-Austrian alliance</a> BBC: The British luxury store chain is being bought by Thailand's Central Group and Signa Group of Austria. 
- <p class="updated_time"> 07:38 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">South Korea to Pardon Former President Park Geun-hye</a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
  <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
  <p class="updated_time"> 06:22 PM CT, Dec. 23 </p> 
@@ -37,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html">Israel May Give 4th Dose of Covid Shot, Despite Experts' Doubts</a> NYT: Some scientists warn that too many shots might actually harm the body’s ability to fight the Covid-19 virus. But Israeli experts say there isn’t time to wait. 
  <p class="updated_time"> 04:38 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59777378?at_medium=RSS&at_campaign=KARANGA">Boston College student's girlfriend pleads guilty over his suicide</a> BBC: Inyoung You was accused of being abusive towards Alexander Urtula, who died in May 2019. 
- <p class="updated_time"> 04:33 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/canada/indigenous-water-lawsuit.html">Canada and Indigenous People Settle Over Drinking Water</a> NYT: A court-approved settlement will compensate Indigenous people for the decades that many have lived with dirty water, and will also fund the clean up. 
  <p class="updated_time"> 04:22 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/russia-putin-ukraine.html">Putin Mixes Positive Note With Threats, Keeping West on Edge</a> NYT: At a traditional year-end news conference, President Vladimir V. Putin of Russia said a potential meeting with the U.S. was a positive sign, but he also demanded a quick response to his security concerns. 
  <p class="updated_time"> 04:08 PM CT, Dec. 23 </p> 
@@ -63,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59776765?at_medium=RSS&at_campaign=KARANGA">James Franco: I'll admit, I did sleep with students... and that was wrong</a> BBC: The actor paid $2.2m (£1.6m) after being sued over "sexually-charged behaviour towards female students". 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
- <p class="updated_time"> 12:40 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/asia/hong-kong-tiananmen-statue.html">Hong Kong Removes 'Pillar of Shame' Statue Amid Crackdown</a> NYT: The decision to take down the “Pillar of Shame,” an enduring symbol of the territory’s pro-democracy movement, was another sign of Beijing’s crackdown. 
  <p class="updated_time"> 11:46 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59768617?at_medium=RSS&at_campaign=KARANGA">TikTok ousts Google to become favourite online destination</a> BBC: Tiktok.com overtook other US tech giants in 2021, including Amazon, Apple, Facebook and Netflix. 
  <p class="updated_time"> 11:20 AM CT, Dec. 23 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-sees-new-bright-spot-in-europe-greece-11640260804">U.S. Sees New Bright Spot in Europe: Greece</a> WSJ: American technology companies, gas exporters and military are expanding their activities in Greece, whose long-suffering economy is bouncing back from pandemic depths. 
  <p class="updated_time"> 12:49 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/22/business/paris-france-inflation-prices.html">Inflation Forces Parisian Vendors to Raise Prices on Staples</a> NYT: Soaring inflation in Europe is starting to squeeze shopkeepers and consumers. Many are preparing for more price increases in the new year. 
- <p class="updated_time"> 10:02 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/australia/koala-massacre-cape-bridgewater.html">‘Koala Massacre’: Australia Files Hundreds of Animal Cruelty Charges</a> NYT: A property owner and two companies in Australia were charged after a land-clearing operation left dozens of the marsupials dead, injured or starving. 
  <p class="updated_time"> 08:34 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59764990?at_medium=RSS&at_campaign=KARANGA">Kentucky tornado: Bodycam footage shows moment babies pulled alive from rubble</a> BBC: Their grandmother tucked them in a bath with a Bible and a blanket before the Kentucky twister hit. 
  <p class="updated_time"> 08:19 PM CT, Dec. 22 </p> 
@@ -162,6 +162,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:48 PM CT, Dec. 23 </p> 
+ <a href="https://www.politico.com/news/2021/12/23/bernie-kerik-jan-6-ccommittee-526129">Bernie Kerik plans to publicly release documents demanded by Jan. 6 committee</a> Politico: Kerik, raising concerns that his documents could be released selectively or without context, indicated that he planned to post them on a public website. 
  <p class="updated_time"> 08:22 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/us-warning-russia-ukraine/index.html">White House reiterates that US is ready to act if Russia invades Ukraine</a> CNN: The Biden administration on Thursday reiterated its warnings to Russia over a potential invasion of Ukraine, with one senior administration official telling reporters that the US is "ready to act if and when we need to." 
  <p class="updated_time"> 08:12 PM CT, Dec. 23 </p> 
@@ -320,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1066956407/anthony-fauci-jesse-watters-fox-news-kill-shot-ambush-interviews">Fauci calls on Fox News to fire host who urged 'kill shot' in 'ambush' interviews</a> NPR: Fox News host Jesse Watters is facing blowback for using violent rhetoric to explain how citizen journalists should confront Dr. Anthony Fauci in the hopes of going viral. 
  <p class="updated_time"> 02:09 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066944829/matthew-greene-proud-boys-jan-6-capitol-pleads-guilty">Proud Boys member pleads guilty for role in Capitol riot</a> NPR: Matthew Greene, 34, has pleaded guilty in federal court to two criminal charges: conspiracy and obstruction of an official proceeding, related to the Capitol siege on Jan. 6, 2021. 
- <p class="updated_time"> 02:08 PM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/roger-stone-trump-autograph-nft-525986">Roger Stone is selling a Trump autograph NFT to pay his legal bills</a> Politico: The post-Trump presidency, encapsulated in one short story. 
  <p class="updated_time"> 01:09 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/january-6-committee-interview-lawsuit/index.html">January 6 rally staffers detail committee investigation questions and targets in lawsuit</a> CNN: Four people who staffed the pro-Trump rally at the Ellipse that preceded the deadly Capitol attack on January 6 are suing to block House investigators from obtaining their phone records. 
  <p class="updated_time"> 12:56 PM CT, Dec. 22 </p> 
