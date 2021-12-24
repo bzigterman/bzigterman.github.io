@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:57 AM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: More Flight Cancellations Upend Holiday Travel</a> NYT: Delta, United and other airlines face staff shortages as workers contract the virus. The Biden administration will end a southern Africa travel ban on Dec. 31. 
+ <p class="updated_time"> 08:55 AM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop star Suga discovered that he was infected after returning to South Korea from the United States. 
  <p class="updated_time"> 08:31 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-59780318?at_medium=RSS&at_campaign=KARANGA">Covid: Christmas flights cancelled and new curbs amid Omicron spread</a> BBC: Millions face travel disruption and more restrictions as Omicron upends Christmas plans worldwide. 
- <p class="updated_time"> 08:29 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: More Flight Cancellations Upend Holiday Travel</a> NYT: Delta, United and other airlines face staff shortages as workers contract the virus. In New York, some Broadway shows are paused and the New Year’s Eve celebration in Times Square is scaled back. 
  <p class="updated_time"> 07:23 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/covid-britain-omicron-christmas.html">Despite Omicron Wave, Britons Are Set on Not Losing Another Christmas</a> NYT: For Christmas shoppers in central London this week, little seemed to dampen their spirits. But there was an undercurrent that the city was bracing for further coronavirus restrictions. 
  <p class="updated_time"> 07:21 AM CT, Dec. 24 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59780489?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Fourth woman accuses Sex and the City actor of assault</a> BBC: US singer Lisa Gentile alleges the Sex and the City actor groped her in a New York apartment in 2002. 
  <p class="updated_time"> 05:32 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/europe-covid-pandemic-omicron.html">Europeans Ponder Living With, Not Defeating, Covid</a> NYT: On the eve of the biggest holidays in Europe, exhaustion with the pandemic is rising. So is resignation that the virus is endemic. 
- <p class="updated_time"> 05:29 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop star Suga discovered that he was infected after returning to South Korea from the United States. 
  <p class="updated_time"> 05:11 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/business-59777577?at_medium=RSS&at_campaign=KARANGA">Selfridges sold for £4bn to Thai-Austrian alliance</a> BBC: The British luxury store chain is being bought by Thailand's Central Group and Signa Group of Austria. 
  <p class="updated_time"> 05:06 AM CT, Dec. 24 </p> 
@@ -166,14 +166,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:17 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/24/tis-the-season-of-year-end-lists-495550"> ’Tis the season of year-end lists</a> Politico Playbook: And the U.S. lifts travel restrictions on southern Africa. 
+ <p class="updated_time"> 08:45 AM CT, Dec. 24 </p> 
+ <a href="https://www.cnn.com/2021/12/24/politics/trump-covid-vaccine-republicans-polling/index.html">Trump's endorsement of vaccines aligns with most Republicans' views -- but it may be an uphill battle to convince the holdouts</a> CNN: Former President Donald Trump has recently been vocal about the benefits of vaccination against Covid-19 -- a position that's in line with the overwhelming majority of Americans who've chosen to get vaccinated, including the bulk of his own party. 
  <p class="updated_time"> 08:42 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/lufthansa-united-delta-cancel-flights-over-christmas-526131">Lufthansa, United, Delta cancel flights over Christmas</a> Politico: The cancellations come as coronavirus infections fueled by the new variant further squeeze staffing at hospitals, police departments, supermarkets and other critical operations. 
  <p class="updated_time"> 08:29 AM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/trump-vaccine-election-what-matters/index.html">Trump pushes one truth and hides another</a> CNN: There are things that former President Donald Trump wants to talk about, like vaccines, and things he'd rather keep quiet, like what exactly happened in the White House leading up to January 6. 
  <p class="updated_time"> 08:12 AM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/travel-restrictions-african-countries-omicron/index.html">Biden to lift travel restrictions on southern African countries that were put in place due to Omicron</a> CNN: The Biden administration is lifting restrictions on eight southern African countries that were put in place last month after the Omicron variant was first identified in South Africa, a White House official tells CNN. 
- <p class="updated_time"> 07:06 AM CT, Dec. 24 </p> 
- <a href="https://www.cnn.com/2021/12/24/politics/trump-covid-vaccine-republicans-polling/index.html">Trump's endorsement of vaccines aligns with most Republicans' views -- but it may be an uphill battle to convince the holdouts</a> CNN: Former President Donald Trump has recently been vocal about the benefits of vaccination against Covid-19 -- a position that's in line with the overwhelming majority of Americans who've chosen to get vaccinated, including the bulk of his own party. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/maryland-governor-democrats-526119">Dems face off in Maryland primary — in an ‘incredibly Republican year’</a> Politico: Looming over the gubernatorial primary is a political environment likely benefiting Republicans — amplified by the GOP’s victory in neighboring Virginia last month. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
