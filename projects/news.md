@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:01 PM CT, Dec. 24 </p> 
+ <p class="updated_time"> 03:19 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the quarantine period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
  <p class="updated_time"> 03:00 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067871944/more-than-3-700-people-were-killed-in-syrias-civil-war-this-year">More than 3,700 people were killed in Syria's civil war this year</a> NPR: The count, by the Syrian Observatory for Human Rights, comes after more than a decade of a war that's killed at least 350,000 people and displaced millions. 
