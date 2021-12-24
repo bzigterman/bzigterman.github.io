@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:42 AM CT, Dec. 24 </p> 
+ <p class="updated_time"> 11:07 AM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
+ <p class="updated_time"> 11:06 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: More Flight Cancellations Upend Holiday Travel</a> NYT: Delta, United and other airlines face staff shortages as workers contract the virus. The Biden administration will end a southern Africa travel ban on Dec. 31. 
  <p class="updated_time"> 10:42 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/south-africa-united-states-travel.html">Travel Between U.S. and Southern Africa Will Resume, White House Says</a> NYT: Biden will end the ban at midnight on Dec. 31, reversing restrictions imposed last month. South Africa criticized the ban as discriminatory. 
- <p class="updated_time"> 09:39 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
  <p class="updated_time"> 09:23 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59784118?at_medium=RSS&at_campaign=KARANGA">Russia fines Google over illegal content breach</a> BBC: The verdict marks the first time Russia has fined a technology giant based on their annual turnover. 
  <p class="updated_time"> 08:55 AM CT, Dec. 24 </p> 
@@ -168,8 +168,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:52 AM CT, Dec. 24 </p> 
+ <a href="https://www.cnn.com/2021/12/24/politics/january-6-video-capitol-hill-riot/index.html">New January 6 video shows three hours of violent and chaotic assault on police </a> CNN: The Justice Department this week released a three-hour video of a battle between rioters and the police at the US Capitol Building on January 6 where rioters brandished weapons, officers were viciously beaten, and a member of the mob died on Capitol steps. 
  <p class="updated_time"> 10:36 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-lifts-africa-travel-ban-526133">Biden administration to lift travel ban from south African countries Dec. 31</a> Politico: Administration officials at the time said the ban would buy time for health officials to learn more about the Omicron variant. 
+ <p class="updated_time"> 10:35 AM CT, Dec. 24 </p> 
+ <a href="https://www.cnn.com/videos/politics/2021/12/24/top-10-political-stories-of-2021-acosta-pkg-vpx.cnn">Insurrection, inauguration and Covid: The top political stories of 2021</a> CNN: CNN's Jim Acosta takes a look back at the largest political stories from 2021. 
  <p class="updated_time"> 09:17 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/24/tis-the-season-of-year-end-lists-495550"> ’Tis the season of year-end lists</a> Politico Playbook: And the U.S. lifts travel restrictions on southern Africa. 
  <p class="updated_time"> 08:49 AM CT, Dec. 24 </p> 
@@ -352,10 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/21/schumer-floor-vote-biden-megabill-525963">Schumer vows a floor vote on Biden's $1.7T megabill next month</a> Politico: Sen. Joe Manchin (D-W.Va.) joined the virtual caucus call and addressed colleagues at the beginning, days after nixing the House-passed version of the bill. 
  <p class="updated_time"> 04:06 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/biden-reverses-prison-525884">Biden Justice Department reverses on returning federal convicts on home detention to prison</a> Politico: Prisoners who have been on home confinement during pandemic won't have to return to prison. 
- <p class="updated_time"> 02:49 PM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/us-travel-ban-omicron/index.html">Biden says he's considering lifting travel ban on southern African countries put in place to limit spread of Omicron</a> CNN: President Joe Biden said Tuesday that he is "considering" whether to lift the US' travel ban on South Africa and seven other southern African countries that was put in place as the Omicron variant of the coronavirus began to spread. 
- <p class="updated_time"> 09:17 AM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/biden-climate-goals-build-back-better/index.html">'We really don't have a plan': Biden's climate promises are sunk without Build Back Better, experts say</a> CNN: Multiple independent analyses have found President Joe Biden simply can't hit his goal of cutting greenhouse gases by 50% by the end of the decade without the clean energy provisions in Build Back Better, the President's signature economic and climate legislation. 
  <p class="updated_time"> 07:05 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/21/dems-plot-path-after-manchin-derailment-495530">Dems plot path after Manchin derailment</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
