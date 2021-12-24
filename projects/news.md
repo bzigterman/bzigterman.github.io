@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:51 AM CT, Dec. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59777577?at_medium=RSS&at_campaign=KARANGA">Selfridges sold for £4bn to Thai-Austrian alliance</a> BBC: The British luxury store chain is being bought by Thailand's Central Group and Signa Group of Austria. 
+ <p class="updated_time"> 02:45 AM CT, Dec. 24 </p> 
+ <a href="https://www.npr.org/2021/12/24/1067769323/ferry-fire-kills-at-least-37-in-southern-bangladesh">Ferry fire kills at least 37 in southern Bangladesh</a> NPR: A huge fire swept through a crowded river ferry in southern Bangladesh early Friday, leaving at least 37 dead and dozens injured as passengers jumped off the vessel to swim to shore, officials said. 
  <p class="updated_time"> 02:25 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/bangladesh-ferry-fire.html">Fire on Crowded Bangladesh Ferry Leaves Dozens Dead</a> NYT: Officials confirmed 35 deaths, but they said the toll was likely to rise as search and rescue continued. 
  <p class="updated_time"> 02:19 AM CT, Dec. 24 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">Park Geun-hye, Ex-Leader of South Korea, to Be Pardoned </a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
  <p class="updated_time"> 11:09 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/business/japan-defense-spending.html">Japan Approves Major Hike in Military Spending, With Taiwan in Mind</a> NYT: The budget increase, the biggest in decades, comes as officials warn that tensions over Taiwan could pull Japan into a conflict between the United States and China. 
- <p class="updated_time"> 10:29 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-59777577?at_medium=RSS&at_campaign=KARANGA">Selfridges sold for £4bn to Thai-Austrian alliance</a> BBC: The British luxury store chain is being bought by Thailand's Central Group and Signa Group of Austria. 
  <p class="updated_time"> 10:21 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59752089?at_medium=RSS&at_campaign=KARANGA">Hong Kong universities remove more monuments marking Tiananmen</a> BBC: It comes a day after a famous statue marking the 1989 massacre was removed from a university. 
  <p class="updated_time"> 10:03 PM CT, Dec. 23 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066493427/blinken-talked-about-china-and-the-iran-nuclear-deal-at-end-of-year-news-confere">Blinken talked about China and the Iran nuclear deal at end of year news conference</a> NPR: Secretary of State Antony Blinken gave a news conference wrapping up his year, addressing questions about America's credibility after the pullout from Afghanistan. 
  <p class="updated_time"> 04:11 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493393/a-water-diversion-project-that-china-is-funding-in-thailand-is-raising-eyebrows">A water diversion project that China is funding in Thailand is raising eyebrows</a> NPR: Plans for a new water diversion project in Thailand are alarming environmentalists. And a Chinese state-owned firm offered to finance it, raising flags with those who fear China's growing influence. 
- <p class="updated_time"> 03:49 PM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066493372/the-mysterious-death-of-a-human-rights-lawyer-during-political-turmoil-in-ethiop">The mysterious death of a human rights lawyer during political turmoil in Ethiopia</a> NPR: Ethiopia prime minister Abiy Ahmed is waging war against Tigrayans in the north and stamping out dissent among ethnic Oromos in the south. 
 
 
 </details>
