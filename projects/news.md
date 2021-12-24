@@ -12,7 +12,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:51 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/business-59777577?at_medium=RSS&at_campaign=KARANGA">Selfridges sold for £4bn to Thai-Austrian alliance</a> BBC: The British luxury store chain is being bought by Thailand's Central Group and Signa Group of Austria. 
  <p class="updated_time"> 02:45 AM CT, Dec. 24 </p> 
- <a href="https://www.npr.org/2021/12/24/1067769323/ferry-fire-kills-at-least-37-in-southern-bangladesh">Ferry fire kills at least 37 in southern Bangladesh</a> NPR: A huge fire swept through a crowded river ferry in southern Bangladesh early Friday, leaving at least 37 dead and dozens injured as passengers jumped off the vessel to swim to shore, officials said. 
+ <a href="https://www.npr.org/2021/12/24/1067769323/ferry-fire-kills-at-least-37-in-southern-bangladesh">Ferry fire kills at least 39 in southern Bangladesh</a> NPR: A huge fire swept through a crowded river ferry in southern Bangladesh early Friday, leaving at least 37 dead and dozens injured as passengers jumped off the vessel to swim to shore, officials said. 
  <p class="updated_time"> 02:25 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/bangladesh-ferry-fire.html">Fire on Crowded Bangladesh Ferry Leaves Dozens Dead</a> NYT: Officials confirmed 35 deaths, but they said the toll was likely to rise as search and rescue continued. 
  <p class="updated_time"> 02:19 AM CT, Dec. 24 </p> 
