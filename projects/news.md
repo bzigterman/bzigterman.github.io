@@ -164,14 +164,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:48 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/bernie-kerik-jan-6-ccommittee-526129">Bernie Kerik plans to publicly release documents demanded by Jan. 6 committee</a> Politico: Kerik, raising concerns that his documents could be released selectively or without context, indicated that he planned to post them on a public website. 
+ <p class="updated_time"> 08:55 PM CT, Dec. 23 </p> 
+ <a href="https://www.cnn.com/2021/12/23/politics/mary-gay-scanlon-hijacking-suspect-charged/index.html">19-year-old charged in armed carjacking incident involving Democratic lawmaker</a> CNN: Federal prosecutors have charged a Delaware man with carjacking Democratic Rep. Mary Gay Scanlon of Pennsylvania and using a firearm during a crime of violence, the Justice Department announced Thursday. 
  <p class="updated_time"> 08:22 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/us-warning-russia-ukraine/index.html">White House reiterates that US is ready to act if Russia invades Ukraine</a> CNN: The Biden administration on Thursday reiterated its warnings to Russia over a potential invasion of Ukraine, with one senior administration official telling reporters that the US is "ready to act if and when we need to." 
  <p class="updated_time"> 08:12 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/trump-adviser-tom-barrack-matthew-grimes-legal-fee/index.html">Federal prosecutors question legal fee arrangement in case against former Trump adviser</a> CNN: Federal prosecutors in New York have asked a judge to inquire about potential conflicts of interest in their case against an employee of Tom Barrack, a former adviser to then-President Donald Trump who is facing federal foreign lobbying charges. 
  <p class="updated_time"> 08:08 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/cdc-covid-isolation-health-workers-526123">CDC sets shorter Covid isolation rules for health workers</a> Politico: Isolation time can be cut to five days, or even fewer, if there are severe staffing shortages, according to the new CDC guidance. 
- <p class="updated_time"> 08:07 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/mary-gay-scanlon-hijacking-suspect-charged/index.html">19-year-old charged in armed carjacking incident involving Democratic lawmaker</a> CNN: Federal prosecutors have charged a Delaware man with carjacking Democratic Rep. Mary Gay Scanlon of Pennsylvania and using a firearm during a crime of violence, the Justice Department announced Thursday. 
  <p class="updated_time"> 07:59 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/georgia-election-workers-lawsuit-rudy-giuliani-one-america-news/index.html">Two Georgia election workers sue Giuliani and One America News, claiming election lies prompted severe harassment </a> CNN: Two Georgia election workers are accusing right-wing TV network One America News and former Trump lawyer and pundit Rudy Giuliani of destroying their reputations and prompting Trump supporters to harass them -- filling their lives with fear -- because of false claims of election fraud in 2020. 
  <p class="updated_time"> 06:58 PM CT, Dec. 23 </p> 
