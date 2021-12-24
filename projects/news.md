@@ -80,7 +80,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:20 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/china-winter-olympic-spectators.html">China tells Winter Olympic spectators to clap, not cheer, for athletes, and Xi’an, a major city, locks down.</a> NYT: As the Omicron variant spreads elsewhere, China is taking elaborate precautions to prevent the virus from reaching participants when the Games start in February. 
  <p class="updated_time"> 11:18 AM CT, Dec. 23 </p> 
- <a href="https://www.wsj.com/articles/u-s-russia-move-closer-to-talks-over-ukraine-as-moscow-amasses-troops-11640296717">U.S., Russia Move Closer to Talks Over Ukraine as Moscow Amasses Troops</a> WSJ: Both sides agree to hold discussions in January, though they differ over how to structure the negotiations, U.S. officials said. 
+ <a href="https://www.wsj.com/articles/u-s-russia-move-closer-to-talks-over-ukraine-as-moscow-amasses-troops-11640296717">U.S., Russia Move Closer to Talks Over Ukraine as Moscow Masses Troops</a> WSJ: Both sides agree to hold discussions in January, though they differ over how to structure the negotiations, U.S. officials said. 
  <p class="updated_time"> 11:11 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59775546?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Proud Boy pleads guilty and agrees to cooperate with authorities</a> BBC: Matthew Greene is believed to be the first far-right group member to plead guilty and co-operate. 
  <p class="updated_time"> 10:40 AM CT, Dec. 23 </p> 
