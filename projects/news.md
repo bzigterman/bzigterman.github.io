@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:44 PM CT, Dec. 24 </p> 
+ <a href="https://www.npr.org/2021/12/24/1067888961/pope-francis-christmas-eve-mass-covid">Pope Francis celebrates Christmas Eve Mass as Italy sets pandemic record of new cases</a> NPR: Pope Francis celebrated Christmas Eve Mass before an estimated 2,000 people in St. Peter's Basilica, going ahead with the service despite the resurgence in COVID-19 cases. 
  <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067871944/syria-civil-war-3700-deaths">More than 3,700 people were killed in Syria's civil war this year</a> NPR: The count, by the Syrian Observatory for Human Rights, comes after more than a decade of a war that's killed at least 350,000 people and displaced millions. 
  <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
@@ -157,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1067024851/belarus-is-still-using-migrants-as-a-political-weapon-against-the-eu">Belarus is still using migrants as a political weapon against the EU</a> NPR: The Belarus government is still using migrants as a political weapon in its confrontation with Poland and the European Union. 
  <p class="updated_time"> 03:47 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1067024844/why-elections-in-libya-have-been-delayed">Why elections in Libya have been delayed</a> NPR: Libya's plans to hold national elections are in doubt as the country breaks down into regions controlled by local faction leaders — including the son of the former dictator. 
- <p class="updated_time"> 03:41 PM CT, Dec. 22 </p> 
- <a href="https://www.npr.org/2021/12/22/1067024865/japans-puzzling-covid-lull">Japan's puzzling COVID lull</a> NPR: COVID cases in Japan fell more than 99% from the last peak. Unlike previous infection waves, and countries in similar situations, it's largely staying there. Experts are struggling to explain why. 
  <p class="updated_time"> 09:28 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/middleeast/israel-christmas-covid.html">Covid Spoils Another Christmas in the Holy Land</a> NYT: Israel’s strict border controls have largely barred foreign tourists from entry, but the traditional Jerusalem Santa is managing to bring some local cheer. 
 
