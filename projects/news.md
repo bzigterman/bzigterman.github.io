@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:44 PM CT, Dec. 23 </p> 
+ <p class="updated_time"> 12:10 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Christmas Eve Flights Canceled, Times Square Celebration Scaled Back Amid Omicron</a> NYT: The variant has driven virus cases past Delta’s peak in the United States, leaving airlines without staff and forcing Mayor Bill de Blasio to restrict the number of people who will be allowed to watch the ball drop in Times Square. 
+ <p class="updated_time"> 11:09 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/business/japan-defense-spending.html">Japan Approves Major Hike in Military Spending, With Taiwan in Mind</a> NYT: The budget increase, the biggest in decades, comes as officials warn that tensions over Taiwan could pull Japan into a conflict between the United States and China. 
  <p class="updated_time"> 10:29 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59777577?at_medium=RSS&at_campaign=KARANGA">Selfridges sold for £4bn to Thai-Austrian alliance</a> BBC: The British luxury store chain is being bought by Thailand's Central Group and Signa Group of Austria. 
  <p class="updated_time"> 10:21 PM CT, Dec. 23 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066493393/a-water-diversion-project-that-china-is-funding-in-thailand-is-raising-eyebrows">A water diversion project that China is funding in Thailand is raising eyebrows</a> NPR: Plans for a new water diversion project in Thailand are alarming environmentalists. And a Chinese state-owned firm offered to finance it, raising flags with those who fear China's growing influence. 
  <p class="updated_time"> 03:49 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493372/the-mysterious-death-of-a-human-rights-lawyer-during-political-turmoil-in-ethiop">The mysterious death of a human rights lawyer during political turmoil in Ethiopia</a> NPR: Ethiopia prime minister Abiy Ahmed is waging war against Tigrayans in the north and stamping out dissent among ethnic Oromos in the south. 
- <p class="updated_time"> 03:11 PM CT, Dec. 21 </p> 
- <a href="https://www.nytimes.com/2021/12/21/world/africa/mauritius-oil-spill.html">2 Ship Officers Plead Guilty to Light Charges in Mauritius Oil Spill</a> NYT: The leak was an environmental calamity for the Indian Ocean nation, which relies on its beaches and lagoons for tourism and fishing. 
  <p class="updated_time"> 03:01 PM CT, Dec. 21 </p> 
  <a href="https://www.nytimes.com/2021/12/21/world/middleeast/libya-election-delay.html">Libya’s Long-Awaited Election Will Most Likely Be Delayed</a> NYT: A postponement raises the possibility that the oil-rich North African nation could again descend into the fragmentation and violence that have marked the decade since its dictator was toppled. 
  <p class="updated_time"> 09:39 AM CT, Dec. 21 </p> 
