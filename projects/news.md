@@ -12,11 +12,11 @@ permalink: /projects/news/
  <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the quarantine period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
  <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/world/south-africa-united-states-travel.html">Travel Between U.S. and Southern Africa Will Resume, White House Says</a> NYT: Biden will end the ban at midnight on Dec. 31, reversing restrictions imposed last month. South Africa criticized the ban as discriminatory. 
+ <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067889562/encore-a-toy-monkey-that-escaped-nazi-germany-and-reunited-a-family">Encore: A toy monkey that escaped Nazi Germany and reunited a family</a> NPR: The father of NPR's Uri Berliner packed a stuffed monkey when he fled the Nazis as a child. He kept the toy for decades before donating it to a museum, an act that led to a remarkable discovery. 
  <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1066806101/belarus-poland-border-deported-syria-migrants">Syrians say Belarus deported them even though they're wanted by Assad's regime</a> NPR: After luring asylum-seekers to the EU as a political stunt, Belarus has now sent people back to the dangerous place they were escaping, rights groups and migrants tell NPR. 
- <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/south-africa-united-states-travel.html">Travel Between U.S. and Southern Africa Will Resume, White House Says</a> NYT: Biden will end the ban at midnight on Dec. 31, reversing restrictions imposed last month. South Africa criticized the ban as discriminatory. 
  <p class="updated_time"> 02:37 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/23/arts/music/carols-christmas-kings-choir-mcdowall.html">Cecilia McDowall to Debut New Christmas Carol</a> NYT: Each year, the choir of King’s College, Cambridge, commissions an original song for its Christmas service, giving the composer an audience of around 100 million people. 
  <p class="updated_time"> 01:56 PM CT, Dec. 24 </p> 
@@ -170,6 +170,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:24 PM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/pope-francis-christmas-vatican-526136">Pope celebrates Christmas Eve Mass as virus surges in Italy</a> Politico: He urged the faithful to focus on the “littleness” of Jesus, and remember that he came into the world poor, without even a proper crib. 
+ <p class="updated_time"> 03:41 PM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/us/politics/covid-school-reopening-teen-mental-health.html">The Students Returned, but the Fallout From a Long Disruption Remained</a> NYT: “They’re like, ‘The world’s out of control, why should I be in control?’” the principal of Liberty High School in Bethlehem, Pa., said of some of his struggling students. 
  <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067889618/encore-lies-betrayal-and-competition-as-lawmakers-deck-the-halls-of-congress">Encore: Lies, betrayal and competition as lawmakers deck the halls of Congress</a> NPR: Forget the Build Back Better bill or the Jan. 6 investigation. Right now, some members of Congress seem to be more focused on the holiday decorations outside their Capitol Hill offices. 
  <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
@@ -178,8 +180,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/videos/politics/2021/12/24/top-10-political-stories-of-2021-acosta-pkg-vpx.cnn">Insurrection, inauguration and Covid: The top political stories of 2021</a> CNN: CNN's Jim Acosta takes a look back at the largest political stories from 2021. 
  <p class="updated_time"> 02:50 PM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/nelson-mandela-prison-key-526135">South African official objects to sale of Mandela’s cell key</a> Politico: The key is among Mandela memorabilia being sold in New York on Jan. 28. 
- <p class="updated_time"> 02:04 PM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/us/politics/covid-school-reopening-teen-mental-health.html">The Students Returned, but the Fallout From a Long Disruption Remained</a> NYT: “They’re like, ‘The world’s out of control, why should I be in control?’” the principal of Liberty High School in Bethlehem, Pa., said of some of his struggling students. 
  <p class="updated_time"> 01:49 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067875042/the-u-s-is-lifting-its-omicron-linked-travel-ban-on-southern-africa">The U.S. is lifting its omicron-linked travel ban on southern Africa</a> NPR: The Biden administration on Friday said it was ordering the lifting of COVID-19 travel restrictions imposed earlier on eight  countries. The WHO had argued they were ineffective and unfair. 
  <p class="updated_time"> 01:40 PM CT, Dec. 24 </p> 
