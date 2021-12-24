@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:36 PM CT, Dec. 23 </p> 
+ <p class="updated_time"> 11:01 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Christmas Eve Flights Canceled, Times Square Celebration Scaled Back Amid Omicron</a> NYT: The variant has driven virus cases past Delta’s peak in the United States, leaving airlines without staff and forcing Mayor Bill de Blasio to restrict the number of people who will be allowed to watch the ball drop in Times Square. 
  <p class="updated_time"> 10:29 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59777577?at_medium=RSS&at_campaign=KARANGA">Selfridges sold for £4bn to Thai-Austrian alliance</a> BBC: The British luxury store chain is being bought by Thailand's Central Group and Signa Group of Austria. 
