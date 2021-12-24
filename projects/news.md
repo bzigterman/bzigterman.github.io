@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:59 PM CT, Dec. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59786665?at_medium=RSS&at_campaign=KARANGA">French zoo closed temporarily after pack of nine wolves escape</a> BBC: No people were injured during the incident, but the wolf pack was killed due to safety concerns. 
  <p class="updated_time"> 04:43 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the isolation period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
  <p class="updated_time"> 04:13 PM CT, Dec. 24 </p> 
@@ -91,12 +93,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/south-koreas-disgraced-former-president-park-geun-hye-is-pardoned-11640340531">South Korea's Disgraced Former President Park Geun-hye Is Pardoned</a> WSJ: President Moon Jae-in said he decided to release the 69-year-old, who has been serving her prison term since March 2017, because of her poor health and in an effort to unite the country. 
  <p class="updated_time"> 11:09 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/business/japan-defense-spending.html">Japan Approves Major Hike in Military Spending, With Taiwan in Mind</a> NYT: The budget increase, the biggest in decades, comes as officials warn that tensions over Taiwan could pull Japan into a conflict between the United States and China. 
- <p class="updated_time"> 10:21 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59752089?at_medium=RSS&at_campaign=KARANGA">Hong Kong universities remove more monuments marking Tiananmen</a> BBC: It comes a day after a famous statue marking the 1989 massacre was removed from a university. 
  <p class="updated_time"> 10:03 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067749297/south-korea-president-pardoned">South Korea pardons a former president imprisoned on corruption charges</a> NPR: The South Korean government says it will grant a special pardon to former President Park Geun-hye, 69, who is serving a lengthy prison term for bribery and other crimes. 
- <p class="updated_time"> 09:45 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59778215?at_medium=RSS&at_campaign=KARANGA">Rare pink handfish spotted in Australia for first time in decades</a> BBC: Australian researchers found the endangered "walking" handfish in wild waters off Tasmania. 
  <p class="updated_time"> 08:46 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/australia/koala-massacre-cape-bridgewater.html">‘Koala Massacre’: Australia Files Hundreds of Animal Cruelty Charges</a> NYT: A property owner and two companies in Australia were charged after a land-clearing operation left dozens of the marsupials dead, injured or starving. 
  <p class="updated_time"> 08:45 PM CT, Dec. 23 </p> 
@@ -168,6 +166,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:08 PM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/us/elections/democrats-state-elections.html">Democrats Say They Are Serious About State Elections. But Are They Too Late?</a> NYT: State-level races are becoming a central focus of American politics as the lasting effects of new congressional maps and election laws raise the stakes. 
  <p class="updated_time"> 04:24 PM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/pope-francis-christmas-vatican-526136">Pope celebrates Christmas Eve Mass as virus surges in Italy</a> Politico: He urged the faithful to focus on the “littleness” of Jesus, and remember that he came into the world poor, without even a proper crib. 
  <p class="updated_time"> 03:41 PM CT, Dec. 24 </p> 
@@ -186,8 +186,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/24/politics/joe-biden-christmas-santa-norad/index.html">Biden calls NORAD and updates children on Santa's progress across the globe</a> CNN: President Joe Biden made a Christmas Eve call to North American Aerospace Defense Command on Friday at the White House, updating children on Santa's progress across the globe as part of what NORAD Commander Gen. Glen VanHerck on the call called "DOD's largest outreach program." 
  <p class="updated_time"> 01:17 PM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/cdc-updates-isolation-guidance-health-care-workers/index.html">CDC shortens isolation time for health care workers with Covid-19</a> CNN: The US Centers for Disease Control and Prevention is shortening the isolation time for health care workers who test positive for Covid-19, as it anticipates a surge in hospitalizations due to the Omicron variant. 
- <p class="updated_time"> 12:43 PM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/us/elections/democrats-state-elections.html">Democrats Say They Are Serious About State Elections. But Are They Too Late?</a> NYT: State-level races are becoming a central focus of American politics as the lasting effects of new congressional maps and election laws raise the stakes. 
  <p class="updated_time"> 12:21 PM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/january-6-video-capitol-hill-riot/index.html">New January 6 video shows three hours of violent and chaotic assault on police </a> CNN: The Justice Department this week released a three-hour video of a battle between rioters and the police at the US Capitol Building on January 6 where rioters brandished weapons, officers were viciously beaten, and a member of the mob died on Capitol steps. 
  <p class="updated_time"> 10:36 AM CT, Dec. 24 </p> 
