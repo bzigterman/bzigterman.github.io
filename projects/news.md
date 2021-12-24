@@ -166,6 +166,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:10 PM CT, Dec. 24 </p> 
+ <a href="https://www.politico.com/news/2021/12/24/project-veritas-new-york-times-526137">Judge blocks New York Times on Project Veritas coverage</a> Politico: The Times was also ordered to return or delete relevant documents. 
  <p class="updated_time"> 05:08 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/us/elections/democrats-state-elections.html">Democrats Say They Are Serious About State Elections. But Are They Too Late?</a> NYT: State-level races are becoming a central focus of American politics as the lasting effects of new congressional maps and election laws raise the stakes. 
  <p class="updated_time"> 04:24 PM CT, Dec. 24 </p> 
