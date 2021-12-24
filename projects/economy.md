@@ -396,9 +396,13 @@ Source: [Institute of Government and Public Affairs at the University of Illinoi
 
 ## United States
 
+![Initial Claims]({{ site.baseurl }}/plots/initial_claims.png)
+
 ![Unemployment Rate]({{ site.baseurl }}/plots/unemployment_rate.png)
 
 ![Employment]({{ site.baseurl }}/plots/employment.png)
+
+![Disposable Income]({{ site.baseurl }}/plots/disposable_income.png)
 
 ![Inflation]({{ site.baseurl }}/plots/consumer_price_index.png)
 
@@ -410,7 +414,7 @@ Source: [Institute of Government and Public Affairs at the University of Illinoi
 
 ![Real GDP]({{ site.baseurl }}/plots/gdp.png)
 
-![Real Median Income]({{ site.baseurl }}/plots/real_median_income.png)
+![Population]({{ site.baseurl }}/plots/us_population.png)
 
 Data retrieved from the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org)
 
