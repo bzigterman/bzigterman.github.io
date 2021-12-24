@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:14 AM CT, Dec. 24 </p> 
+ <p class="updated_time"> 04:22 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Christmas Eve Flights Canceled and Times Square Celebration Scaled Back Amid Omicron</a> NYT: The variant has driven virus cases past Delta’s peak in the United States, leaving airlines without staff and forcing Mayor Bill de Blasio to restrict the number of people who will be allowed to watch the ball drop in Times Square. 
  <p class="updated_time"> 04:00 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/afghanistan-nadery-peace-negotiations.html">An Afghan Official Laments What Was Lost and Looks to What Lies Ahead</a> NYT: Ahmad Nader Nadery spent decades working toward a thriving, free Afghanistan. Watching the Taliban undo much of his work, he wonders how to move forward. 
@@ -22,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:19 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067772373/covid-19-spike-worsens-africas-severe-poverty-hunger-woes">COVID-19 spike worsens Africa's severe poverty, hunger woes</a> NPR: In Zimbabwe and other African nations, the virus's resurgence is threatening the survival of millions. The United Nations says about 9 in 10 of the world's extremely poor live in Africa. 
  <p class="updated_time"> 01:43 AM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59778426?at_medium=RSS&at_campaign=KARANGA">Haridwar: Police case after outrage over anti-Muslim hate speech</a> BBC: Viral videos show Hindu religious leaders making provocative anti-Muslim speeches at a conclave in Haridwar. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59778426?at_medium=RSS&at_campaign=KARANGA">Haridwar: Police case after outrage in India over anti-Muslim hate speech</a> BBC: Viral videos show Hindu religious leaders making provocative anti-Muslim speeches at a conclave in Haridwar. 
  <p class="updated_time"> 12:24 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">Park Geun-hye, Ex-Leader of South Korea, to Be Pardoned </a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
  <p class="updated_time"> 11:09 PM CT, Dec. 23 </p> 
