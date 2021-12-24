@@ -7,9 +7,25 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:40 PM CT, Dec. 23 </p> 
+ <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
+ <p class="updated_time"> 06:22 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59738541?at_medium=RSS&at_campaign=KARANGA">Switzerland's wolves get too close for comfort</a> BBC: Alpine villages say the animals have started approaching children and they need to fend them off. 
+ <p class="updated_time"> 06:16 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Covid Live Updates: Times Square Keeps New Year’s Celebration, but With a Smaller Crowd</a> NYT: Mayor Bill de Blasio said only 15,000 would be allowed to celebrate and masks will be required. Omicron has driven virus cases past Delta’s peak in the United States. 
- <p class="updated_time"> 04:39 PM CT, Dec. 23 </p> 
+ <p class="updated_time"> 06:14 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59726874?at_medium=RSS&at_campaign=KARANGA">Murray Head: 'Unsung at home, but a hero in France'</a> BBC: Murray Head is all but forgotten in the UK, but in his adopted home France he ranks among the greats. 
+ <p class="updated_time"> 06:13 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/blogs-trending-59452614?at_medium=RSS&at_campaign=KARANGA">Climate change: Small army of volunteers keeping deniers off Wikipedia</a> BBC: A group of editors is working tirelessly to keep bad climate info off the user-generated encyclopaedia. 
+ <p class="updated_time"> 06:10 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59701734?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 17-23 December 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
+ <p class="updated_time"> 06:07 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review.html">Bros' Restaurant in Italy: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
+ <p class="updated_time"> 06:00 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59760229?at_medium=RSS&at_campaign=KARANGA">James Webb Space Telescope: How does it work?</a> BBC: The telescope has been 30 years in the making and is nearly ready to launch, but what makes it so special? 
+ <p class="updated_time"> 06:00 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59763185?at_medium=RSS&at_campaign=KARANGA">Georgia: The rise of the right</a> BBC: LGBT activists cancelled Tbilisi Pride this year after violence from far-right protesters. 
+ <p class="updated_time"> 05:55 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html">Israel May Give 4th Dose of Covid Shot, Despite Experts' Doubts</a> NYT: Some scientists warn that too many shots might actually harm the body’s ability to fight the Covid-19 virus. But Israeli experts say there isn’t time to wait. 
  <p class="updated_time"> 04:38 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59777378?at_medium=RSS&at_campaign=KARANGA">Boston College student's girlfriend pleads guilty over his suicide</a> BBC: Inyoung You was accused of being abusive towards Alexander Urtula, who died in May 2019. 
@@ -18,7 +34,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:22 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/russia-putin-ukraine.html">Putin Mixes Positive Note With Threats, Keeping West on Edge</a> NYT: At a traditional year-end news conference, President Vladimir V. Putin of Russia said a potential meeting with the U.S. was a positive sign, but he also demanded a quick response to his security concerns. 
  <p class="updated_time"> 04:08 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59776917?at_medium=RSS&at_campaign=KARANGA">Daunte Wright death: US 'Taser mixup' ex-officer guilty of manslaughter</a> BBC: The April shooting led to days of demonstrations against police killings of black men. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59776917?at_medium=RSS&at_campaign=KARANGA">Daunte Wright death: US 'Taser mix-up' ex-officer guilty of manslaughter</a> BBC: The April shooting led to days of demonstrations against police killings of black men. 
  <p class="updated_time"> 03:46 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59776920?at_medium=RSS&at_campaign=KARANGA">Daunte Wright shooting: Key moments in the trial of Kimberly Potter</a> BBC: The trial saw emotional testimonies and dramatic bodycam footage of the fatal shooting. 
  <p class="updated_time"> 03:44 PM CT, Dec. 23 </p> 
@@ -39,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59776765?at_medium=RSS&at_campaign=KARANGA">James Franco: I'll admit, I did sleep with students... and that was wrong</a> BBC: The actor paid $2.2m (£1.6m) after being sued over "sexually-charged behaviour towards female students". 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
- <p class="updated_time"> 12:42 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review.html">Bros' Restaurant in Italy: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
  <p class="updated_time"> 12:40 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/hong-kong-tiananmen-statue.html">Hong Kong Removes 'Pillar of Shame' Statue Amid Crackdown</a> NYT: The decision to take down the “Pillar of Shame,” an enduring symbol of the territory’s pro-democracy movement, was another sign of Beijing’s crackdown. 
  <p class="updated_time"> 11:46 AM CT, Dec. 23 </p> 
@@ -51,10 +65,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-russia-move-closer-to-talks-over-ukraine-as-moscow-amasses-troops-11640296717">U.S., Russia Move Closer to Talks Over Ukraine as Moscow Amasses Troops</a> WSJ: Both sides agree to hold discussions in January, though they differ over how to structure the negotiations, U.S. officials said. 
  <p class="updated_time"> 11:11 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59775546?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Proud Boy pleads guilty and agrees to cooperate with authorities</a> BBC: Matthew Greene is believed to be the first far-right group member to plead guilty and co-operate. 
- <p class="updated_time"> 10:54 AM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59755684?at_medium=RSS&at_campaign=KARANGA">Sudan women protest against 'rape by security forces'</a> BBC: Women and girls were allegedly sexually abused by security forces during a demonstration on Sunday. 
- <p class="updated_time"> 10:53 AM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
  <p class="updated_time"> 10:40 AM CT, Dec. 23 </p> 
  <a href="https://www.wsj.com/articles/russian-guns-for-hire-fill-void-in-africa-and-elsewhere-as-western-militaries-pull-back-11640295603">Russian Guns-for-Hire Fill Void in Africa and Elsewhere as Western Militaries Pull Back</a> WSJ: A mercenary deployment in Mali is triggering alarm among U.S. allies as Moscow denies being involved. 
  <p class="updated_time"> 10:28 AM CT, Dec. 23 </p> 
@@ -63,20 +73,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59773767?at_medium=RSS&at_campaign=KARANGA">Kêfa Sagbadjou Glèlè: Monarch of once-powerful West African kingdom dies</a> BBC: Kêfa Sagbadjou Glèlè, thought to have been in his nineties, had ruled over Abomey for two years. 
  <p class="updated_time"> 09:50 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59764824?at_medium=RSS&at_campaign=KARANGA">Philadelphia congresswoman carjacked at gunpoint in broad daylight</a> BBC: Philadelphia lawmaker Mary Gay Scanlon's car was located on Wednesday with five suspects inside. 
- <p class="updated_time"> 09:11 AM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-59770673?at_medium=RSS&at_campaign=KARANGA">President Putin: West must give us guarantees over Ukraine</a> BBC: In his annual press conference, President Putin demands Nato abandon military activity in Eastern Europe. 
  <p class="updated_time"> 08:47 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59765052?at_medium=RSS&at_campaign=KARANGA">James Franco admits sleeping with students from his acting school</a> BBC: The actor spoke at length about allegations of sexual misconduct made against him in 2018. 
  <p class="updated_time"> 08:12 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59760490?at_medium=RSS&at_campaign=KARANGA">Netlicks? 'The TV screen you can taste’</a> BBC: A Japanese professor invents a prototype TV that sprays flavours onto a lickable "hygienic film". 
  <p class="updated_time"> 07:36 AM CT, Dec. 23 </p> 
  <a href="https://www.wsj.com/articles/u-k-study-finds-risk-of-hospitalization-with-omicron-50-to-70-lower-than-with-delta-11640281553">U.K. Study Reinforces Conclusion That Omicron Causes Less Severe Disease</a> WSJ: The study found people infected with the Omicron variant are between 50% to 70% less likely to be hospitalized, adding to a body of evidence of Omicron’s reduced severity in populations with high levels of Covid immunity. 
- <p class="updated_time"> 07:01 AM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Is Russia preparing to invade Ukraine? And other questions</a> BBC: What you need to know about Russia's troop build-up along Ukraine's borders. 
  <p class="updated_time"> 06:38 AM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59768195?at_medium=RSS&at_campaign=KARANGA">Belgium agrees to close controversial ageing nuclear reactors</a> BBC: The plants have for years sparked safety fears from neighbours including Germany. 
- <p class="updated_time"> 06:03 AM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59738542?at_medium=RSS&at_campaign=KARANGA">Gay Santa ad highlights big shift in Norwegian society</a> BBC: The ad showing Father Christmas kissing a man highlights 50 years of changes in Norwegian LGBT rights. 
  <p class="updated_time"> 05:36 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067188698/putin-urges-west-to-act-quickly-to-offer-security-guarantees">Putin urges West to act quickly to offer security guarantees</a> NPR: Russian President Vladimir Putin urged the West on Thursday to move quickly to meet Russia's demand for security guarantees precluding NATO's expansion to Ukraine. 
  <p class="updated_time"> 05:01 AM CT, Dec. 23 </p> 
@@ -93,18 +97,12 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/two-years-into-covid-19-pandemic-elderly-italians-again-face-christmas-alone-11640264404">Two Years Into Covid-19, Elderly Italians Again Face Christmas Alone</a> WSJ: As Italy is fighting to slow down the Omicron variant, many nursing homes have restricted or suspended family visits during the Christmas holidays, putting a strain on families. 
  <p class="updated_time"> 01:23 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067163101/hong-kong-university-removes-tiananmen-massacre-statue">Hong Kong university removes Tiananmen massacre statue</a> NPR: A monument at a Hong Kong university that commemorates the 1989 Tiananmen Square massacre was removed by workers early Thursday. Workers had erected barricades around the monument late Wednesday. 
- <p class="updated_time"> 01:06 AM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59766737?at_medium=RSS&at_campaign=KARANGA">Pillar of Shame: Tiananmen Square memorial statue removed in Hong Kong</a> BBC: The Pillar of Shame showed piled-up corpses to commemorate protesters killed by Chinese authorities in 1989. 
  <p class="updated_time"> 01:00 AM CT, Dec. 23 </p> 
  <a href="https://www.wsj.com/articles/u-s-sees-new-bright-spot-in-europe-greece-11640260804">U.S. Sees New Bright Spot in Europe: Greece</a> WSJ: American technology companies, gas exporters and military are expanding their activities in Greece, whose long-suffering economy is bouncing back from pandemic depths. 
  <p class="updated_time"> 12:49 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/22/business/paris-france-inflation-prices.html">Inflation Forces Parisian Vendors to Raise Prices on Staples</a> NYT: Soaring inflation in Europe is starting to squeeze shopkeepers and consumers. Many are preparing for more price increases in the new year. 
- <p class="updated_time"> 10:24 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59765371?at_medium=RSS&at_campaign=KARANGA">Australia settles lawsuit over welfare scheme criticised as racist</a> BBC: Aboriginal communities said a welfare scheme criticised as "modern-day slavery" had increased poverty. 
  <p class="updated_time"> 10:02 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/australia/koala-massacre-cape-bridgewater.html">‘Koala Massacre’: Australia Files Hundreds of Animal Cruelty Charges</a> NYT: A property owner and two companies in Australia were charged after a land-clearing operation left dozens of the marsupials dead, injured or starving. 
- <p class="updated_time"> 10:02 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59764827?at_medium=RSS&at_campaign=KARANGA">Omicron: Biden denies failure in pandemic testing response</a> BBC: A shortage of tests have plagued the US while the latest variant has spawned an explosion in cases. 
  <p class="updated_time"> 08:34 PM CT, Dec. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59764990?at_medium=RSS&at_campaign=KARANGA">Kentucky tornado: Bodycam footage shows moment babies pulled alive from rubble</a> BBC: Their grandmother tucked them in a bath with a Bible and a blanket before the Kentucky twister hit. 
  <p class="updated_time"> 08:19 PM CT, Dec. 22 </p> 
@@ -113,12 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/health/covid-omicron-delta-hospitalizations.html">Omicron Infections Seem to Be Milder, Three Research Teams Report</a> NYT: The data offer a rare bit of good news. Still, hospitalizations are likely to increase simply because the variant is so contagious. 
  <p class="updated_time"> 06:40 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/europe/migrant-boat-sinks-greece.html">Three Dead and Many Missing as Migrant Boat Sinks Near Greece</a> NYT: The sinking came just weeks after 27 people drowned trying to cross the English Channel, another stark reminder of the lethal risks facing asylum seekers. 
- <p class="updated_time"> 06:25 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59737858?at_medium=RSS&at_campaign=KARANGA">Kashmir fury at India's plan to redraw voting map</a> BBC: Kashmiris fear India's draft proposal to redraw constituency lines will limit their choice of leader. 
- <p class="updated_time"> 06:09 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/business-59558921?at_medium=RSS&at_campaign=KARANGA">Is this the world's largest virtual fashion show?</a> BBC: Asia's biggest metaverse - an intricate world populated by young women shopping for avatar outfits. 
- <p class="updated_time"> 06:01 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59702495?at_medium=RSS&at_campaign=KARANGA">How this iconic Manhattan newsstand survived the Covid pandemic</a> BBC: Since 1994, Casa Magazines in New York City has carried almost 3,000 unique magazine titles. 
  <p class="updated_time"> 05:22 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/europe/britain-health-care-covid-nhs.html">U.K. System Strained as Health Care Workers Get Covid Themselves</a> NYT: Hospitals, clinics and ambulance services say infections are winnowing their staffs, straining a system already taxed by nearly two years of dealing with the pandemic. 
  <p class="updated_time"> 04:58 PM CT, Dec. 22 </p> 
@@ -147,10 +139,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/world/heat-carbon-emissions-cities.html">Using a City’s Excess Heat to Reduce Emissions</a> NYT: A district in London has developed an innovative way to divert subway heat for buildings to lower carbon emissions. Other cities are getting creative, as well. 
  <p class="updated_time"> 02:27 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/asia/myanmar-landslide-jade-mine.html">Dozens Feared Dead After Landslide at Jade Mine in Myanmar</a> NYT: An official said one person was killed after more than 70 were swept into a lake by mining waste in Hpakant, the center of the country’s secretive jade industry. 
- <p class="updated_time"> 06:11 PM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59690317?at_medium=RSS&at_campaign=KARANGA">The Maasai TikTokers wowing Bollywood fans</a> BBC: Tanzanian siblings Kili and Neema Paul lip sync perfectly in Hindi, accruing millions of followers. 
- <p class="updated_time"> 06:07 PM CT, Dec. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59723756?at_medium=RSS&at_campaign=KARANGA">Kerala school uniform: Why some Muslim groups are protesting</a> BBC: Muslim groups in India's Kerala state protest after a government school allows girls to wear trousers. 
  <p class="updated_time"> 04:46 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493462/european-treasure-hunter-reunites-american-veteran-with-the-bracelet-he-lost-in-">European treasure hunter reunites American veteran with the bracelet he lost in 1945</a> NPR: A U.S. soldier overseas during World War II lost a bracelet inscribed with his sweetheart's name. A treasure hunter discovered it this fall, and returned it to its rightful owner. 
  <p class="updated_time"> 04:29 PM CT, Dec. 21 </p> 
@@ -174,10 +162,26 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:52 PM CT, Dec. 23 </p> 
+ <p class="updated_time"> 06:58 PM CT, Dec. 23 </p> 
+ <a href="https://www.politico.com/news/2021/12/23/georgia-poll-workers-sue-giuliani-oan-526122">2 Georgia poll workers sue Giuliani, OAN over election conspiracy theories</a> Politico: Ruby Freeman and Shaye Moss, her daughter, worked as poll workers counting ballots at State Farm Arena in Fulton County, Ga., during the November 2020 election. 
+ <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
+ <p class="updated_time"> 06:30 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/us/politics/medicaid-work-requirements-georgia-biden.html">Biden Administration Rejects Medicaid Work Requirements in Georgia</a> NYT: The decision continued the administration’s rollback of the Trump-era policy, targeting the only remaining state with federal approval for the requirements. 
+ <p class="updated_time"> 06:26 PM CT, Dec. 23 </p> 
+ <a href="https://www.cnn.com/2021/12/23/politics/mary-gay-scanlon-hijacking-suspect-charged/index.html">19-year-old charged in armed carjacking incident involving Democratic lawmaker</a> CNN: Federal prosecutors have charged a Delaware man with carjacking Democratic Rep. Mary Gay Scanlon of Pennsylvania and using a firearm during a crime of violence, the Justice Department announced Thursday. 
+ <p class="updated_time"> 06:02 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/business/economy/inflation-pce-index-fed.html">PCE Index Hit Highest Level in November Since 1982</a> NYT: The Fed’s preferred inflation gauge climbed at the fastest pace in nearly four decades, as Omicron clouded the outlook for 2022. 
+ <p class="updated_time"> 05:56 PM CT, Dec. 23 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/us/politics/capitol-riot-january-6.html">… and a Merry Christmas From the ‘Patriots’ of Jan. 6</a> NYT: Holiday card greetings from defendants awaiting trial on charges related to the Capitol riot reflect their status as symbolic martyrs for the Republican base. 
+ <p class="updated_time"> 05:54 PM CT, Dec. 23 </p> 
+ <a href="https://www.cnn.com/2021/12/23/politics/saudi-ballistic-missiles-china/index.html">CNN Exclusive: US intel and satellite images show Saudi Arabia is now building its own ballistic missiles with help of China</a> CNN: US intelligence agencies have assessed that Saudi Arabia is now actively manufacturing its own ballistic missiles with the help of China, CNN has learned, a development that could have significant ripple effects across the Middle East and complicate the Biden administration's efforts to restrain the nuclear ambitions of Iran, the Saudis' top regional rival. 
+ <p class="updated_time"> 05:43 PM CT, Dec. 23 </p> 
+ <a href="https://www.cnn.com/2021/12/23/politics/astroworld-investigation-live-nation/index.html">Congressional panel will investigate Live Nation's role in Astroworld tragedy</a> CNN: A congressional panel will investigate Live Nation Entertainment, the concert promoter behind the tragic Astroworld Festival that left 10 people dead and hundreds injured last month. 
  <p class="updated_time"> 05:30 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/political-wish-lists-2022.html">7 Political Wish Lists for the New Year</a> NYT: What do the president, vice president, former president and party leaders want in 2022? We made our best guess. 
+ <p class="updated_time"> 05:29 PM CT, Dec. 23 </p> 
+ <a href="https://www.cnn.com/2021/12/23/politics/white-house-log4j-tech-firms-meeting/index.html">White House to discuss software development with tech executives, calling it 'key national security concern'</a> CNN: White House national security adviser Jake Sullivan has invited the CEOs of major software firms to discuss ways to improve software security following the emergence of a critical vulnerability that US officials have said could affect hundreds of millions of devices around the world, a senior Biden administration official told reporters Thursday. 
  <p class="updated_time"> 05:15 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/guantanamo-judge-quits.html">Another Judge Quits Guantánamo Case</a> NYT: No new judge has been named to preside in the trial of a Qaeda commander, which has had four judges in seven years. 
  <p class="updated_time"> 05:09 PM CT, Dec. 23 </p> 
@@ -200,14 +204,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/us/politics/kamala-harris-biden-administration.html">Heir Apparent or Afterthought? The Frustrations of Kamala Harris.</a> NYT: The vice president’s allies are increasingly concerned that President Biden relied on her to win but does not need her to govern. 
  <p class="updated_time"> 02:10 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/joan-didion-dies-526068">Joan Didion, peerless prose stylist, dies at 87</a> Politico: The revered author and essayist was a uniquely clear-eyed critic of turbulent times. 
- <p class="updated_time"> 01:59 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/us/politics/capitol-riot-january-6.html">… and a Merry Christmas From the ‘Patriots’ of Jan. 6</a> NYT: Holiday card greetings from defendants awaiting trial on charges related to the Capitol riot reflect their status as symbolic martyrs for the Republican base. 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
  <p class="updated_time"> 12:46 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1066835433/how-a-group-of-online-sleuths-are-helping-the-fbi-track-down-jan-6-rioters">How a group of online sleuths are helping the FBI track down Jan. 6 rioters</a> NPR: HuffPost journalist Ryan J. Reilly says "sedition hunters" have used videos, social media posts and facial recognition software to identify individuals who participated in the storming of the Capitol. 
  <p class="updated_time"> 12:27 PM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/trump-supreme-court-january-six-526050">Trump asks Supreme Court to shield records from Jan. 6 committee</a> Politico: Trump moved for an emergency injunction to block a ruling of the U.S. Court of Appeals for Washington D.C. earlier this month. 
+ <a href="https://www.politico.com/news/2021/12/23/trump-supreme-court-january-six-526050">Trump asks Supreme Court to shield records from Jan. 6 committee</a> Politico: In a reply Thursday afternoon, the House asked the court to expedite consideration of the case. 
  <p class="updated_time"> 12:17 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/andrew-cuomo-sexual-misconduct-nassau-county/index.html">Ex-New York Gov. Cuomo will not be charged by Nassau County over alleged sexual misconduct incident</a> CNN: Former New York Gov. Andrew Cuomo will not face charges for an incident involving alleged sexual misconduct that was being investigated by the Nassau County District Attorney's office, the acting district attorney confirmed to CNN. 
  <p class="updated_time"> 12:10 PM CT, Dec. 23 </p> 
@@ -220,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/23/dccc-partnership-campaign-staff-diversity-526041">DCCC launching partnership to boost campaign staff diversity</a> Politico: House Democrats' campaign arm is partnering with Blue Leadership Collaborative to recruit and retain people of color, women and people who identify as queer as senior staff. 
  <p class="updated_time"> 11:17 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/22/arts/hillary-clinton-masterclass.html">How Hillary Clinton's MasterClass Shows a Very 2021 Way to Be</a> NYT: Hillary Clinton delivered an unused election speech. Jennifer Aniston cried at Central Perk. It was a year for watching celebrities reinhabit their past selves. 
- <p class="updated_time"> 10:53 AM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
  <p class="updated_time"> 10:32 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/fda-authorizes-merck-covid-pill-526036">FDA authorizes Merck’s Covid-19 pill</a> Politico: Clinical trials showed that Merck’s pill reduced the risk of hospitalization and death from the virus by 30 percent. 
  <p class="updated_time"> 10:09 AM CT, Dec. 23 </p> 
@@ -232,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/science/webb-nasa-launch-delay.html">How NASA's Webb Telescope Overcame Loose Screws, Budgets and Clamps</a> NYT: Getting the James Webb Space Telescope to the launchpad has been a difficult journey that has taken decades. 
  <p class="updated_time"> 07:41 AM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/joe-biden-filibuster-voting-rights/index.html">Biden says he supports filibuster carve-out for voting rights</a> CNN: President Joe Biden says he supports making an exception to the Senate filibuster rules in order to pass voting rights legislation. 
- <p class="updated_time"> 07:34 AM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/saudi-ballistic-missiles-china/index.html">CNN Exclusive: US intel and satellite images show Saudi Arabia is now building its own ballistic missiles with help of China</a> CNN: US intelligence agencies have assessed that Saudi Arabia is now actively manufacturing its own ballistic missiles with the help of China, CNN has learned, a development that could have significant ripple effects across the Middle East and complicate the Biden administration's efforts to restrain the nuclear ambitions of Iran, the Saudis' top regional rival. 
  <p class="updated_time"> 07:26 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/osha-vaccine-mandate-supreme-court.html">Supreme Court to Hold Special Hearing on Biden Vaccine Mandates</a> NYT: Challengers say vaccination-or-testing requirements at large employers and for health care workers were not authorized by Congress. 
  <p class="updated_time"> 07:09 AM CT, Dec. 23 </p> 
@@ -244,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/videos/politics/2021/12/23/mitch-mcconnell-joe-manchin-to-republicans-brownstein-sot-newday-vpx.cnn">'He'll be treated with respect': McConnell makes pitch to Manchin</a> CNN: Republican Senate majority leader Mitch McConnell suggested that Sen. Joe Manchin (D-WV) should switch parties in the wake of Manchin's public battle with the White House on a key piece of President Biden's agenda. CNN's Ron Brownstein explains why that won't likely happen despite some precedent. 
  <p class="updated_time"> 06:12 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/23/bidens-testing-mess-495546"> Biden’s testing mess</a> Politico Playbook: And the Supreme Court plans a special hearing on vaccine mandates. 
- <p class="updated_time"> 04:31 AM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/republicans-big-lie-stacey-abrams-525987">Republicans are trying to pin the ‘Big Lie’ on Stacey Abrams</a> Politico: The Georgia gubernatorial candidate has held firm in not conceding her prior bid in 2018. 
  <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/trump-spurs-rise-in-celebrity-candidates-525865">Senate GOP feels another Trump effect: The rise of celeb candidates</a> Politico: House experience isn't necessarily the best way to get traction across the Capitol anymore — as Herschel Walker and Mehmet Oz are proving. 
  <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
@@ -336,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1066879033/biden-federal-student-loan-payment-freeze-extension-borrowers">President Biden extends student loan payment freeze through May 1</a> NPR: President Biden extended relief for federal student loan borrowers for an additional 90 days because borrowers are "still coping with the impacts of the pandemic." Payments now resume May 1. 
  <p class="updated_time"> 11:24 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066714092/biden-negative-test-covid-19-air-force-one">Biden tests negative for COVID-19 after recent exposure</a> NPR: The test was done after a White House staff member — who had flown with Biden on Air Force One on Friday — tested positive for COVID on Monday. Biden had tested negative on Sunday and Monday. 
- <p class="updated_time"> 10:00 AM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/afghanistan-teachers-humanitarian-organizations/index.html">Biden administration moves to allow Afghan teachers' salaries to be paid by aid organizations</a> CNN: The Biden administration is lifting some restrictions on the types of aid that humanitarian organizations can provide to Afghanistan which will enable support for educational programs, including paying teachers' salaries, the Treasury Department and two senior administration officials announced on Wednesday. 
  <p class="updated_time"> 08:20 AM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/rescue-money-runs-low-omicron-arrives/index.html">Federal pandemic aid runs dry as businesses deal with Omicron's impact</a> CNN: Congress has committed nearly $6 trillion since early 2020 to fight Covid-19 and cushion the economic blow from a once-in-century pandemic. 
  <p class="updated_time"> 07:01 AM CT, Dec. 22 </p> 
@@ -350,20 +344,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/22/hospitals-omicron-vaccinating-health-care-workers-525952">Hospitals grapple with Omicron — and legal brawl over vaccinating staff</a> Politico: More than 60,000 patients are hospitalized with Covid-19, according to the CDC, and the numbers are climbing with the highly contagious Omicron strain surging. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/dan-crenshaw-conservatives-come-correct-525829">Dan Crenshaw to his fellow conservatives: Come ‘correct’</a> Politico: The combat veteran often voted with Donald Trump but doesn't act Trumpishly. And he'll slam other Republicans when he feels he must. 
- <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/business/christmas-gifts-delivery-supply-chain.html">Why Christmas Gifts Are Arriving on Time This Year</a> NYT: Fears that a disrupted supply chain could wreak havoc on the logistics industry over the holiday turned out to be wrong as many Americans ordered early and shopped in stores. 
  <p class="updated_time"> 10:56 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/schumer-floor-vote-biden-megabill-525963">Schumer vows a floor vote on Biden's $1.7T megabill next month</a> Politico: Sen. Joe Manchin (D-W.Va.) joined the virtual caucus call and addressed colleagues at the beginning, days after nixing the House-passed version of the bill. 
- <p class="updated_time"> 10:02 PM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/21/politics/biden-build-back-better-manchin/index.html">Biden insists he and Manchin will 'get something done' after Build Back Better setback</a> CNN: President Joe Biden on Tuesday insisted that he and Democratic Sen. Joe Manchin will "get something done" on the Build Back Better Act after Manchin defied his party by torpedoing the key piece of Biden's domestic agenda. 
  <p class="updated_time"> 07:04 PM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/gop-state-officials-prepare-new-wave-of-voting-restrictions/index.html">GOP proposals at the state level would nix ballot boxes and create new voting ID requirements</a> CNN: The push to impose voting restrictions at the state level is poised to continue next year as Republicans drive forward with an array of new proposals -- ranging from legislation that would eliminate ballot drop boxes to bills that would establish new ID requirements to vote. 
  <p class="updated_time"> 04:06 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/biden-reverses-prison-525884">Biden Justice Department reverses on returning federal convicts on home detention to prison</a> Politico: Prisoners who have been on home confinement during pandemic won't have to return to prison. 
- <p class="updated_time"> 12:36 PM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/wall-street-manchin-covid-growth-expectations-525845">Dems' 2022 prospects hit with one-two blow on economy</a> Politico: While the surge in Covid cases threatens to undercut growth, much of the effect will depend on how policymakers respond. 
- <p class="updated_time"> 09:25 AM CT, Dec. 21 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/moderate-democrats-manchin-2022/index.html">'A recipe for absolute destruction': Democrats scramble to avoid electoral blowback after Manchin halts Biden agenda </a> CNN: It's exactly the scenario Democrats had worked for months to avoid -- but now find themselves confronting. 
  <p class="updated_time"> 07:05 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/21/dems-plot-path-after-manchin-derailment-495530">Dems plot path after Manchin derailment</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
