@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:24 AM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">Park Geun-hye, Ex-Leader of South Korea, to Be Pardoned </a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
  <p class="updated_time"> 12:10 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Christmas Eve Flights Canceled, Times Square Celebration Scaled Back Amid Omicron</a> NYT: The variant has driven virus cases past Delta’s peak in the United States, leaving airlines without staff and forcing Mayor Bill de Blasio to restrict the number of people who will be allowed to watch the ball drop in Times Square. 
+ <p class="updated_time"> 11:33 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59777784?at_medium=RSS&at_campaign=KARANGA">Bangladesh ferry fire: Dozens killed near Jhalakathi</a> BBC: At least 30 people die and about 100 are injured after a ferry catches fire in southern Bangladesh. 
  <p class="updated_time"> 11:09 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/business/japan-defense-spending.html">Japan Approves Major Hike in Military Spending, With Taiwan in Mind</a> NYT: The budget increase, the biggest in decades, comes as officials warn that tensions over Taiwan could pull Japan into a conflict between the United States and China. 
  <p class="updated_time"> 10:29 PM CT, Dec. 23 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59752089?at_medium=RSS&at_campaign=KARANGA">Hong Kong universities remove more monuments marking Tiananmen</a> BBC: It comes a day after a famous statue marking the 1989 massacre was removed from a university. 
  <p class="updated_time"> 10:03 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067749297/south-korea-president-pardoned">South Korea pardons a former president imprisoned on corruption charges</a> NPR: The South Korean government says it will grant a special pardon to former President Park Geun-hye, 69, who is serving a lengthy prison term for bribery and other crimes. 
- <p class="updated_time"> 09:57 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">South Korea to Pardon Former President Park Geun-hye</a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
  <p class="updated_time"> 09:45 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59778215?at_medium=RSS&at_campaign=KARANGA">Rare pink handfish spotted in Australia for first time in decades</a> BBC: Australian researchers found the endangered "walking" handfish in wild waters off Tasmania. 
  <p class="updated_time"> 08:46 PM CT, Dec. 23 </p> 
@@ -67,6 +69,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/europe/migrant-boat-crash-greece.html">Second Deadly Migrant Boat Crash Off Greece This Week</a> NYT: Ninety people were left stranded after Thursday’s accident. The crash came in a week that also saw scores of migrants die in wrecks off the coast of Libya. 
  <p class="updated_time"> 03:11 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59772299?at_medium=RSS&at_campaign=KARANGA">Covid: Ecuador makes vaccination mandatory for most citizens</a> BBC: All those from the age of five must be jabbed, although people with medical reasons are exempt. 
+ <p class="updated_time"> 02:20 PM CT, Dec. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59775127?at_medium=RSS&at_campaign=KARANGA">Joan Didion: US literary icon dies at 87</a> BBC: She was known for chronicling US culture and was a screenwriter for the 1976 film A Star is Born. 
  <p class="updated_time"> 01:20 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/arts/music/carols-christmas-kings-choir-mcdowall.html">Cecilia McDowall to Debut New Christmas Carol</a> NYT: Each year, the choir of King’s College, Cambridge, commissions an original song for its Christmas service, giving the composer an audience of around 100 million people. 
  <p class="updated_time"> 01:04 PM CT, Dec. 23 </p> 
@@ -87,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59773767?at_medium=RSS&at_campaign=KARANGA">Kêfa Sagbadjou Glèlè: Monarch of once-powerful West African kingdom dies</a> BBC: Kêfa Sagbadjou Glèlè, thought to have been in his nineties, had ruled over Abomey for two years. 
  <p class="updated_time"> 07:36 AM CT, Dec. 23 </p> 
  <a href="https://www.wsj.com/articles/u-k-study-finds-risk-of-hospitalization-with-omicron-50-to-70-lower-than-with-delta-11640281553">U.K. Study Reinforces Conclusion That Omicron Causes Less Severe Disease</a> WSJ: The study found people infected with the Omicron variant are between 50% to 70% less likely to be hospitalized, adding to a body of evidence of Omicron’s reduced severity in populations with high levels of Covid immunity. 
- <p class="updated_time"> 06:38 AM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59768195?at_medium=RSS&at_campaign=KARANGA">Belgium agrees to close controversial ageing nuclear reactors</a> BBC: The plants have for years sparked safety fears from neighbours including Germany. 
  <p class="updated_time"> 05:36 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067188698/putin-urges-west-to-act-quickly-to-offer-security-guarantees">Putin urges West to act quickly to offer security guarantees</a> NPR: Russian President Vladimir Putin urged the West on Thursday to move quickly to meet Russia's demand for security guarantees precluding NATO's expansion to Ukraine. 
  <p class="updated_time"> 04:31 AM CT, Dec. 23 </p> 
