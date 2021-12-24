@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:14 PM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the quarantine period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
+ <p class="updated_time"> 04:13 PM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/world/africa/south-africa-covid-quarantine.html">South Africa Ends Quarantining and Contact Tracing</a> NYT: The new regulations follow data showing that while the Omicron variant is highly transmissible, it has not caused high rates of severe disease in South Africa. 
+ <p class="updated_time"> 04:12 PM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/world/south-africa-united-states-travel.html">Travel Between U.S. and Southern Africa Will Resume, White House Says</a> NYT: Biden will end the ban at midnight on Dec. 31, reversing restrictions imposed last month. South Africa criticized the ban as discriminatory. 
+ <p class="updated_time"> 04:01 PM CT, Dec. 24 </p> 
+ <a href="https://www.npr.org/2021/12/24/1067889597/holiday-show-celebrating-cole-porter-is-playing-to-packed-masked-houses-in-paris">Holiday show celebrating Cole Porter is playing to packed (masked) houses in Paris</a> NPR: A holiday musical review celebrating the work of Cole Porter is playing to rapturous audiences in Paris. 
+ <p class="updated_time"> 03:54 PM CT, Dec. 24 </p> 
+ <a href="https://www.npr.org/2021/12/24/1067889576/thousands-of-pilgrims-and-tourists-werent-in-bethlehem-on-christmas-eve-due-to-c">Thousands of pilgrims and tourists weren't in Bethlehem on Christmas eve due to COVID</a> NPR: For the second year, the Christmas eve celebration in the Palestinian city of Bethlehem was muted by the pandemic precautions. 
  <p class="updated_time"> 03:44 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067888961/pope-francis-christmas-eve-mass-covid">Pope Francis celebrates Christmas Eve Mass as Italy sets pandemic record of new cases</a> NPR: Pope Francis celebrated Christmas Eve Mass before an estimated 2,000 people in St. Peter's Basilica, going ahead with the service despite the resurgence in COVID-19 cases. 
  <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067871944/syria-civil-war-3700-deaths">More than 3,700 people were killed in Syria's civil war this year</a> NPR: The count, by the Syrian Observatory for Human Rights, comes after more than a decade of a war that's killed at least 350,000 people and displaced millions. 
- <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the quarantine period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
- <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/south-africa-united-states-travel.html">Travel Between U.S. and Southern Africa Will Resume, White House Says</a> NYT: Biden will end the ban at midnight on Dec. 31, reversing restrictions imposed last month. South Africa criticized the ban as discriminatory. 
  <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067889562/encore-a-toy-monkey-that-escaped-nazi-germany-and-reunited-a-family">Encore: A toy monkey that escaped Nazi Germany and reunited a family</a> NPR: The father of NPR's Uri Berliner packed a stuffed monkey when he fled the Nazis as a child. He kept the toy for decades before donating it to a museum, an act that led to a remarkable discovery. 
  <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
@@ -27,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1067875042/the-u-s-is-lifting-its-omicron-linked-travel-ban-on-southern-africa">The U.S. is lifting its omicron-linked travel ban on southern Africa</a> NPR: The Biden administration on Friday said it was ordering the lifting of COVID-19 travel restrictions imposed earlier on eight  countries. The WHO had argued they were ineffective and unfair. 
  <p class="updated_time"> 01:47 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop star Suga discovered that he was infected after returning to South Korea from the United States. 
- <p class="updated_time"> 01:05 PM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/africa/south-africa-covid-quarantine.html">South Africa Ends Quarantining and Contact Tracing</a> NYT: The new regulations follow data showing that while the Omicron variant is highly transmissible, it has not caused high rates of severe disease in South Africa. 
  <p class="updated_time"> 12:43 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 12:21 PM CT, Dec. 24 </p> 
@@ -155,10 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/us/california-booster-mandate-feb-1.html">California Requires Health Workers to Get Boosters by Feb. 1</a> NYT: Gov. Gavin Newsom said more than half of the sequenced cases in the state have been identified as the Omicron variant, but the real number is probably higher. 
  <p class="updated_time"> 03:49 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/nyregion/citymd-temporary-closings-covid.html">CityMD Temporarily Shuts 19 Locations Amid Urgent Testing Demands</a> NYT: The closures began on Wednesday, and CityMD has not said how long they will last. 
- <p class="updated_time"> 03:47 PM CT, Dec. 22 </p> 
- <a href="https://www.npr.org/2021/12/22/1067024851/belarus-is-still-using-migrants-as-a-political-weapon-against-the-eu">Belarus is still using migrants as a political weapon against the EU</a> NPR: The Belarus government is still using migrants as a political weapon in its confrontation with Poland and the European Union. 
- <p class="updated_time"> 03:47 PM CT, Dec. 22 </p> 
- <a href="https://www.npr.org/2021/12/22/1067024844/why-elections-in-libya-have-been-delayed">Why elections in Libya have been delayed</a> NPR: Libya's plans to hold national elections are in doubt as the country breaks down into regions controlled by local faction leaders — including the son of the former dictator. 
  <p class="updated_time"> 09:28 AM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/world/middleeast/israel-christmas-covid.html">Covid Spoils Another Christmas in the Holy Land</a> NYT: Israel’s strict border controls have largely barred foreign tourists from entry, but the traditional Jerusalem Santa is managing to bring some local cheer. 
 
