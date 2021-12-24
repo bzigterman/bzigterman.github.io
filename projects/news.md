@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:24 AM CT, Dec. 24 </p> 
+ <p class="updated_time"> 09:43 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: More Flight Cancellations Upend Holiday Travel</a> NYT: Delta, United and other airlines face staff shortages as workers contract the virus. The Biden administration will end a southern Africa travel ban on Dec. 31. 
+ <p class="updated_time"> 09:39 AM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
  <p class="updated_time"> 09:23 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59784118?at_medium=RSS&at_campaign=KARANGA">Russia fines Google over illegal content breach</a> BBC: The verdict marks the first time Russia has fined a technology giant based on their annual turnover. 
  <p class="updated_time"> 08:55 AM CT, Dec. 24 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1064546215/pinata-mexico-posadas-celebration">In Mexico, piñatas are a Christmas essential full of history, art and treats</a> NPR: Piñatas are a common element in parties across different countries, but especially in Mexico around Christmas time, and the story of their origin combines cultures, traditions and religions. 
  <p class="updated_time"> 06:36 AM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066649196/omicron-will-cause-more-infections-but-lower-hospital-rates-analysis-shows">Omicron will cause more infections but lower hospital rates, analysis shows</a> NPR: University of Washington research predicts the omicron wave will infect more than 400,000 people a day in the U.S. when it crests in about six weeks. 
- <p class="updated_time"> 04:00 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/world/heat-carbon-emissions-cities.html">Using a City’s Excess Heat to Reduce Emissions</a> NYT: A district in London has developed an innovative way to divert subway heat for buildings to lower carbon emissions. Other cities are getting creative, as well. 
  <p class="updated_time"> 04:46 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493462/european-treasure-hunter-reunites-american-veteran-with-the-bracelet-he-lost-in-">European treasure hunter reunites American veteran with the bracelet he lost in 1945</a> NPR: A U.S. soldier overseas during World War II lost a bracelet inscribed with his sweetheart's name. A treasure hunter discovered it this fall, and returned it to its rightful owner. 
  <p class="updated_time"> 04:29 PM CT, Dec. 21 </p> 
@@ -164,6 +164,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:36 AM CT, Dec. 24 </p> 
+ <a href="https://www.politico.com/news/2021/12/24/biden-lifts-africa-travel-ban-526133">Biden administration to lift travel ban from south African countries Dec. 31</a> Politico: Administration officials at the time said the ban would buy time for health officials to learn more about the Omicron variant. 
  <p class="updated_time"> 09:17 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/24/tis-the-season-of-year-end-lists-495550"> ’Tis the season of year-end lists</a> Politico Playbook: And the U.S. lifts travel restrictions on southern Africa. 
  <p class="updated_time"> 08:49 AM CT, Dec. 24 </p> 
@@ -176,8 +178,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/24/politics/trump-vaccine-election-what-matters/index.html">Trump pushes one truth and hides another</a> CNN: There are things that former President Donald Trump wants to talk about, like vaccines, and things he'd rather keep quiet, like what exactly happened in the White House leading up to January 6. 
  <p class="updated_time"> 08:12 AM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/travel-restrictions-african-countries-omicron/index.html">Biden to lift travel restrictions on southern African countries that were put in place due to Omicron</a> CNN: The Biden administration is lifting restrictions on eight southern African countries that were put in place last month after the Omicron variant was first identified in South Africa, a White House official tells CNN. 
- <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
- <a href="https://www.politico.com/news/2021/12/24/maryland-governor-democrats-526119">Dems face off in Maryland primary — in an ‘incredibly Republican year’</a> Politico: Looming over the gubernatorial primary is a political environment likely benefiting Republicans — amplified by the GOP’s victory in neighboring Virginia last month. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-rural-evictions-526089">Biden’s about to adopt a policy that could hurt Dems even more with rural voters</a> Politico: About half of the $46.5 billion in federal rental aid made available during the pandemic is expected to be spent by the end of this year. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
