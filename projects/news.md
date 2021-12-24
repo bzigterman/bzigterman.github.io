@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:51 PM CT, Dec. 23 </p> 
+ <p class="updated_time"> 10:03 PM CT, Dec. 23 </p> 
+ <a href="https://www.npr.org/2021/12/23/1067749297/south-korea-president-pardoned">South Korea pardons a former president imprisoned on corruption charges</a> NPR: The South Korean government says it will grant a special pardon to former President Park Geun-hye, 69, who is serving a lengthy prison term for bribery and other crimes. 
+ <p class="updated_time"> 09:57 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">South Korea to Pardon Former President Park Geun-hye</a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
  <p class="updated_time"> 09:30 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59777577?at_medium=RSS&at_campaign=KARANGA">Selfridges sold for £4bn to Thai-Austrian alliance</a> BBC: The British luxury store chain is being bought by Thailand's Central Group and Signa Group of Austria. 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/21/world/middleeast/libya-election-delay.html">Libya’s Long-Awaited Election Will Most Likely Be Delayed</a> NYT: A postponement raises the possibility that the oil-rich North African nation could again descend into the fragmentation and violence that have marked the decade since its dictator was toppled. 
  <p class="updated_time"> 09:39 AM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/21/1062836171/editors-pick-11-hidden-gems-on-our-global-health-blog-in-2021">Editors' pick: Maybe you missed these 11 cool global posts. Here's your second chance!</a> NPR: Want to see why Prince William was impressed with a teenage Indian inventor? Find out what to do if you lose a sheep in Senegal? See how sewing machines transformed Africa? Give these stories a read. 
- <p class="updated_time"> 04:00 AM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066167265/biden-to-announce-free-covid-tests-more-aid-for-hospitals-to-deal-with-omicron">Biden announces free tests and defends the White House response as COVID cases surge</a> NPR: The U.S. government will buy a half-billion at-home COVID test kits and mail them to people who want them, with deliveries beginning in January. 
 
 
 </details>
