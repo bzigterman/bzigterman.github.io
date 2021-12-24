@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:53 AM CT, Dec. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59780318?at_medium=RSS&at_campaign=KARANGA">Covid: Christmas flights cancelled and new curbs amid Omicron spread</a> BBC: Millions face travel disruption and more restrictions as Omicron upends Christmas plans worldwide. 
  <p class="updated_time"> 07:49 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: More Flight Cancellations Upend Holiday Travel</a> NYT: Delta, United and other airlines face staff shortages as workers contract the virus. In New York, some Broadway shows are paused and the New Year’s Eve celebration in Times Square is scaled back. 
  <p class="updated_time"> 07:23 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/covid-britain-omicron-christmas.html">Despite Omicron Wave, Britons Are Set on Not Losing Another Christmas</a> NYT: For Christmas shoppers in central London this week, little seemed to dampen their spirits. But there was an undercurrent that the city was bracing for further coronavirus restrictions. 
  <p class="updated_time"> 07:21 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/migrant-boat-crash-greece.html">Second Deadly Migrant Boat Crash Off Greece This Week</a> NYT: Ninety people were left stranded after Thursday’s accident. The crash came in a week that also saw scores of migrants die in wrecks off the coast of Libya. 
- <p class="updated_time"> 06:55 AM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-59780318?at_medium=RSS&at_campaign=KARANGA">Covid: Christmas flights cancelled and new curbs amid Omicron spread</a> BBC: Millions face travel disruption and more restrictions as Omicron upends Christmas plans worldwide. 
  <p class="updated_time"> 06:28 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59777784?at_medium=RSS&at_campaign=KARANGA">Bangladesh ferry fire: Dozens killed near Jhalakathi</a> BBC: At least 37 people die and about 100 are injured after a ferry catches fire in southern Bangladesh. 
  <p class="updated_time"> 06:27 AM CT, Dec. 24 </p> 
@@ -166,7 +166,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:42 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/lufthansa-united-delta-cancel-flights-over-christmas-526131">Lufthansa, United, Delta cancel flights over Christmas</a> Politico: The cancellations come as coronavirus infections fueled by the new variant further squeeze staffing at hospitals, police departments, supermarkets and other critical operations. 
- <p class="updated_time"> 07:51 AM CT, Dec. 24 </p> 
+ <p class="updated_time"> 07:59 AM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/travel-restrictions-african-countries-omicron/index.html">Biden to lift travel restrictions on southern African countries that were put in place due to Omicron</a> CNN: The Biden administration is lifting restrictions on eight southern African countries that were put in place last month after the Omicron variant was first identified in South Africa, a White House official tells CNN. 
  <p class="updated_time"> 07:07 AM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/trump-vaccine-election-what-matters/index.html">Trump pushes one truth and hides another</a> CNN: There are things that former President Donald Trump wants to talk about, like vaccines, and things he'd rather keep quiet, like what exactly happened in the White House leading up to January 6. 
