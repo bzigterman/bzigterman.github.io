@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:11 AM CT, Dec. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59777577?at_medium=RSS&at_campaign=KARANGA">Selfridges sold for £4bn to Thai-Austrian alliance</a> BBC: The British luxury store chain is being bought by Thailand's Central Group and Signa Group of Austria. 
+ <p class="updated_time"> 05:10 AM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: Flight Cancellations Upend Holiday Travel</a> NYT: United and other airlines face staff shortages as workers contract the virus. In New York, some Broadway shows are paused and the New Year’s Eve celebration in Times Square is scaled back. 
+ <p class="updated_time"> 05:06 AM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/world/europe/queen-elizabeth-ii-christmas-covid.html">A Quieter Christmas for Queen Elizabeth II as Covid Persists</a> NYT: The 95-year-old monarch is spending the holiday at Windsor Castle instead of Sandringham, her English country estate. 
+ <p class="updated_time"> 05:01 AM CT, Dec. 24 </p> 
+ <a href="https://www.npr.org/2021/12/24/1066861022/how-the-soviet-unions-collapse-explains-the-current-russia-ukraine-tension">How the Soviet Union's collapse explains the current Russia-Ukraine tension</a> NPR: To understand the friction between Russia and Ukraine, it's important to go back to 1991. Exactly 30 years ago this weekend, the Soviet Union formally dissolved and broke up into 15 separate nations. 
+ <p class="updated_time"> 04:57 AM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/world/europe/europe-covid-pandemic-omicron.html">Europeans Ponder Living With, Not Defeating, Covid</a> NYT: On the eve of the biggest holidays in Europe, exhaustion with the pandemic is rising. So is resignation that the virus is endemic. 
  <p class="updated_time"> 04:53 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop singer Suga discovered that he was infected after returning to South Korea from the United States. 
- <p class="updated_time"> 04:46 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/europe/europe-covid-pandemic-omicron.html">Europeans Ponder Living With, Not Defeating, Covid</a> NYT: On the eve of the biggest holidays in Europe, exhaustion with the pandemic is rising. So is resignation that the virus is endemic. 
- <p class="updated_time"> 04:22 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/live/2021/12/23/world/omicron-covid-vaccine-tests">Christmas Eve Flights Canceled and Times Square Celebration Scaled Back Amid Omicron</a> NYT: The variant has driven virus cases past Delta’s peak in the United States, leaving airlines without staff and forcing Mayor Bill de Blasio to restrict the number of people who will be allowed to watch the ball drop in Times Square. 
  <p class="updated_time"> 04:00 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/afghanistan-nadery-peace-negotiations.html">An Afghan Official Laments What Was Lost and Looks to What Lies Ahead</a> NYT: Ahmad Nader Nadery spent decades working toward a thriving, free Afghanistan. Watching the Taliban undo much of his work, he wonders how to move forward. 
  <p class="updated_time"> 03:47 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59777784?at_medium=RSS&at_campaign=KARANGA">Bangladesh ferry fire: Dozens killed near Jhalakathi</a> BBC: At least 37 people die and about 100 are injured after a ferry catches fire in southern Bangladesh. 
- <p class="updated_time"> 02:51 AM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/business-59777577?at_medium=RSS&at_campaign=KARANGA">Selfridges sold for £4bn to Thai-Austrian alliance</a> BBC: The British luxury store chain is being bought by Thailand's Central Group and Signa Group of Austria. 
  <p class="updated_time"> 02:45 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067769323/ferry-fire-kills-at-least-37-in-southern-bangladesh">Ferry fire kills at least 39 in southern Bangladesh</a> NPR: A huge fire swept through a crowded river ferry in southern Bangladesh early Friday, leaving at least 37 dead and dozens injured as passengers jumped off the vessel to swim to shore, officials said. 
  <p class="updated_time"> 02:25 AM CT, Dec. 24 </p> 
@@ -157,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/21/1066493462/european-treasure-hunter-reunites-american-veteran-with-the-bracelet-he-lost-in-">European treasure hunter reunites American veteran with the bracelet he lost in 1945</a> NPR: A U.S. soldier overseas during World War II lost a bracelet inscribed with his sweetheart's name. A treasure hunter discovered it this fall, and returned it to its rightful owner. 
  <p class="updated_time"> 04:29 PM CT, Dec. 21 </p> 
  <a href="https://www.npr.org/2021/12/21/1066493427/blinken-talked-about-china-and-the-iran-nuclear-deal-at-end-of-year-news-confere">Blinken talked about China and the Iran nuclear deal at end of year news conference</a> NPR: Secretary of State Antony Blinken gave a news conference wrapping up his year, addressing questions about America's credibility after the pullout from Afghanistan. 
- <p class="updated_time"> 04:11 PM CT, Dec. 21 </p> 
- <a href="https://www.npr.org/2021/12/21/1066493393/a-water-diversion-project-that-china-is-funding-in-thailand-is-raising-eyebrows">A water diversion project that China is funding in Thailand is raising eyebrows</a> NPR: Plans for a new water diversion project in Thailand are alarming environmentalists. And a Chinese state-owned firm offered to finance it, raising flags with those who fear China's growing influence. 
 
 
 </details>
