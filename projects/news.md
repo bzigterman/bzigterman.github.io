@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:52 AM CT, Dec. 24 </p> 
+ <p class="updated_time"> 06:35 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: Flight Cancellations Upend Holiday Travel</a> NYT: United and other airlines face staff shortages as workers contract the virus. In New York, some Broadway shows are paused and the New Year’s Eve celebration in Times Square is scaled back. 
+ <p class="updated_time"> 06:28 AM CT, Dec. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59777784?at_medium=RSS&at_campaign=KARANGA">Bangladesh ferry fire: Dozens killed near Jhalakathi</a> BBC: At least 37 people die and about 100 are injured after a ferry catches fire in southern Bangladesh. 
+ <p class="updated_time"> 06:04 AM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/world/asia/bangladesh-ferry-fire.html">Fire on Crowded Bangladesh Ferry Leaves Dozens Dead</a> NYT: Officials confirmed 35 deaths, but they said the toll was likely to rise as search and rescue continued. 
  <p class="updated_time"> 05:50 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59780489?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Fourth woman accuses Sex and the City actor of assault</a> BBC: US singer Lisa Gentile alleges the Sex and the City actor groped her in a New York apartment in 2002. 
  <p class="updated_time"> 05:32 AM CT, Dec. 24 </p> 
@@ -27,12 +31,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59780064?at_medium=RSS&at_campaign=KARANGA">James Franco accusers call him 'completely insensitive' after interview</a> BBC: Oscar-nominated actor James Franco recently admitted having sex with students at his drama school. 
  <p class="updated_time"> 04:00 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/afghanistan-nadery-peace-negotiations.html">An Afghan Official Laments What Was Lost and Looks to What Lies Ahead</a> NYT: Ahmad Nader Nadery spent decades working toward a thriving, free Afghanistan. Watching the Taliban undo much of his work, he wonders how to move forward. 
- <p class="updated_time"> 03:47 AM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59777784?at_medium=RSS&at_campaign=KARANGA">Bangladesh ferry fire: Dozens killed near Jhalakathi</a> BBC: At least 37 people die and about 100 are injured after a ferry catches fire in southern Bangladesh. 
  <p class="updated_time"> 02:45 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067769323/ferry-fire-kills-at-least-37-in-southern-bangladesh">Ferry fire kills at least 39 in southern Bangladesh</a> NPR: A huge fire swept through a crowded river ferry in southern Bangladesh early Friday, leaving at least 37 dead and dozens injured as passengers jumped off the vessel to swim to shore, officials said. 
- <p class="updated_time"> 02:25 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/asia/bangladesh-ferry-fire.html">Fire on Crowded Bangladesh Ferry Leaves Dozens Dead</a> NYT: Officials confirmed 35 deaths, but they said the toll was likely to rise as search and rescue continued. 
  <p class="updated_time"> 02:19 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067772373/covid-19-spike-worsens-africas-severe-poverty-hunger-woes">COVID-19 spike worsens Africa's severe poverty, hunger woes</a> NPR: In Zimbabwe and other African nations, the virus's resurgence is threatening the survival of millions. The United Nations says about 9 in 10 of the world's extremely poor live in Africa. 
  <p class="updated_time"> 01:43 AM CT, Dec. 24 </p> 
@@ -164,10 +164,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
+ <a href="https://www.politico.com/news/2021/12/24/maryland-governor-democrats-526119">Dems grapple with crowded, diverse Maryland primary to replace Hogan</a> Politico: Nine candidates, five of them Black or Latino, are running in the June Democratic primary for governor. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
+ <a href="https://www.politico.com/news/2021/12/24/biden-rural-evictions-526089">Biden move to withdraw rental aid threatens to squeeze rural tenants</a> Politico: About half of the $46.5 billion in federal rental aid made available during the pandemic is expected to be spent by the end of this year. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
+ <a href="https://www.politico.com/news/2021/12/24/biden-social-spending-senate-parliamentarian-526081">Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</a> Politico: The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan. 
+ <p class="updated_time"> 06:20 AM CT, Dec. 24 </p> 
+ <a href="https://www.npr.org/2021/12/24/1067775038/ex-president-trump-pushes-back-on-anti-vaccine-talking-points">Ex-President Trump pushes back on anti-vaccine talking points</a> NPR: In multiple recent appearances, former President Donald Trump has been touting COVID vaccines and even pushing back against misinformation. He's earning praise from President Biden. 
  <p class="updated_time"> 04:01 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1066223330/biden-covid-deaths-memorials">Biden stopped marking grim COVID milestones as he fought to end the pandemic</a> NPR: Biden used to talk a lot about the COVID-19 death toll, but over the last year he's shifted to how fight the pandemic. Some want him to go back to addressing the country's grief. 
- <p class="updated_time"> 09:48 PM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/bernie-kerik-jan-6-ccommittee-526129">Bernie Kerik plans to publicly release documents demanded by Jan. 6 committee</a> Politico: Kerik, raising concerns that his documents could be released selectively or without context, indicated that he planned to post them on a public website. 
  <p class="updated_time"> 08:55 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/mary-gay-scanlon-hijacking-suspect-charged/index.html">19-year-old charged in armed carjacking incident involving Democratic lawmaker</a> CNN: Federal prosecutors have charged a Delaware man with carjacking Democratic Rep. Mary Gay Scanlon of Pennsylvania and using a firearm during a crime of violence, the Justice Department announced Thursday. 
  <p class="updated_time"> 08:22 PM CT, Dec. 23 </p> 
@@ -226,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
  <p class="updated_time"> 12:46 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1066835433/how-a-group-of-online-sleuths-are-helping-the-fbi-track-down-jan-6-rioters">How a group of online sleuths are helping the FBI track down Jan. 6 rioters</a> NPR: HuffPost journalist Ryan J. Reilly says "sedition hunters" have used videos, social media posts and facial recognition software to identify individuals who participated in the storming of the Capitol. 
- <p class="updated_time"> 12:27 PM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/trump-supreme-court-january-six-526050">Trump asks Supreme Court to shield records from Jan. 6 committee</a> Politico: In a reply Thursday afternoon, the House asked the court to expedite consideration of the case. 
  <p class="updated_time"> 12:17 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/andrew-cuomo-sexual-misconduct-nassau-county/index.html">Ex-New York Gov. Cuomo will not be charged by Nassau County over alleged sexual misconduct incident</a> CNN: Former New York Gov. Andrew Cuomo will not face charges for an incident involving alleged sexual misconduct that was being investigated by the Nassau County District Attorney's office, the acting district attorney confirmed to CNN. 
  <p class="updated_time"> 12:10 PM CT, Dec. 23 </p> 
@@ -262,10 +266,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/23/bidens-testing-mess-495546"> Biden’s testing mess</a> Politico Playbook: And the Supreme Court plans a special hearing on vaccine mandates. 
  <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/trump-spurs-rise-in-celebrity-candidates-525865">Senate GOP feels another Trump effect: The rise of celeb candidates</a> Politico: House experience isn't necessarily the best way to get traction across the Capitol anymore — as Herschel Walker and Mehmet Oz are proving. 
- <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/state-veterans-homes-safety-data-526027">Gaps remain in safety data on State Veterans Homes</a> Politico: As Omicron strikes, families lack a full picture of how well homes for elderly veterans have adapted to Covid risks. 
- <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/joe-biden-tiktok-jonas-brothers-526019">Joe Biden was not made for the age of TikTok. But his team is trying.</a> Politico: The White House is producing videos that they know will get mocked on political Twitter. They don’t care. They have other plans. 
  <p class="updated_time"> 04:10 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067172020/the-house-panel-probing-the-jan-6-attack-wants-to-talk-to-trump-ally-rep-jordan">The House panel probing the Jan. 6 attack wants to talk to Trump ally Rep. Jordan</a> NPR: The House committee investigating the attack on the U.S. Capitol has requested that Ohio Rep. Jim Jordan, a longtime ally of ex-President Trump, voluntarily provide information to the panel. 
  <p class="updated_time"> 04:10 AM CT, Dec. 23 </p> 
@@ -324,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1066997356/january-6-panel-asks-rep-jordan-top-trump-ally-for-voluntary-cooperation-in-prob">The House Jan. 6 panel wants to talk to Trump ally Rep. Jim Jordan</a> NPR: Chairman Bennie Thompson's letter to Jordan asks for information and an interview to discuss his conversations with President Donald Trump on Jan. 6. 
  <p class="updated_time"> 02:52 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066956407/anthony-fauci-jesse-watters-fox-news-kill-shot-ambush-interviews">Fauci calls on Fox News to fire host who urged 'kill shot' in 'ambush' interviews</a> NPR: Fox News host Jesse Watters is facing blowback for using violent rhetoric to explain how citizen journalists should confront Dr. Anthony Fauci in the hopes of going viral. 
- <p class="updated_time"> 02:09 PM CT, Dec. 22 </p> 
- <a href="https://www.npr.org/2021/12/22/1066944829/matthew-greene-proud-boys-jan-6-capitol-pleads-guilty">Proud Boys member pleads guilty for role in Capitol riot</a> NPR: Matthew Greene, 34, has pleaded guilty in federal court to two criminal charges: conspiracy and obstruction of an official proceeding, related to the Capitol siege on Jan. 6, 2021. 
  <p class="updated_time"> 01:09 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/january-6-committee-interview-lawsuit/index.html">January 6 rally staffers detail committee investigation questions and targets in lawsuit</a> CNN: Four people who staffed the pro-Trump rally at the Ellipse that preceded the deadly Capitol attack on January 6 are suing to block House investigators from obtaining their phone records. 
  <p class="updated_time"> 12:56 PM CT, Dec. 22 </p> 
@@ -368,6 +366,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 04:36 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/biden-and-manchin-speak-525788">Biden and Manchin speak</a> Politico: The two connected and there is a sense that talks around Build Back Better aren't done yet. 
+ <p class="updated_time"> 02:25 PM CT, Dec. 20 </p> 
+ <a href="https://www.politico.com/news/2021/12/20/alex-jones-sues-jan-6-committee-indicates-plan-to-plead-the-fifth-525770">Alex Jones sues Jan. 6 committee, indicates plan to plead the Fifth</a> Politico: In the lawsuit, Jones says he intends to assert his Fifth Amendment rights against self-incrimination. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/manchin-build-back-better-redo-525747">Manchin to Dems: Redo the whole thing, maybe I'll vote for it</a> Politico: The West Virginia senator wants a new bill that goes through Senate committees and focuses on rolling back the 2017 Trump tax cuts. 
  <p class="updated_time"> 11:49 AM CT, Dec. 20 </p> 
@@ -404,8 +404,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/17/house-democrats-elections-dccc-525258">Vulnerable House Dems to DCCC: You're jeopardizing our reelection</a> Politico: Multiple at-risk Democrats tell POLITICO that the campaign committee has adopted a midterms strategy that is hurting, not helping, their reelections. 
  <p class="updated_time"> 07:42 AM CT, Dec. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/17/immigration-axed-and-bidens-big-bill-pushed-to-2022-495512">Immigration axed and Biden’s big bill pushed to 2022</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:04 AM CT, Dec. 17 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/17/this-is-a-real-f-ing-problem-495509"> ‘This is a real f---ing problem’</a> Politico Playbook: And President Joe Biden concedes that the BBB will be delayed. 
 
 
 </details>
