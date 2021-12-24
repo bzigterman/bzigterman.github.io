@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:14 PM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the quarantine period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
+ <p class="updated_time"> 04:34 PM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the isolation period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
  <p class="updated_time"> 04:13 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/africa/south-africa-covid-quarantine.html">South Africa Ends Quarantining and Contact Tracing</a> NYT: The new regulations follow data showing that while the Omicron variant is highly transmissible, it has not caused high rates of severe disease in South Africa. 
  <p class="updated_time"> 04:12 PM CT, Dec. 24 </p> 
