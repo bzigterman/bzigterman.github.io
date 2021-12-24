@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:35 AM CT, Dec. 24 </p> 
+ <p class="updated_time"> 06:43 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: Flight Cancellations Upend Holiday Travel</a> NYT: United and other airlines face staff shortages as workers contract the virus. In New York, some Broadway shows are paused and the New Year’s Eve celebration in Times Square is scaled back. 
  <p class="updated_time"> 06:28 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59777784?at_medium=RSS&at_campaign=KARANGA">Bangladesh ferry fire: Dozens killed near Jhalakathi</a> BBC: At least 37 people die and about 100 are injured after a ferry catches fire in southern Bangladesh. 
@@ -35,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1067769323/ferry-fire-kills-at-least-37-in-southern-bangladesh">Ferry fire kills at least 39 in southern Bangladesh</a> NPR: A huge fire swept through a crowded river ferry in southern Bangladesh early Friday, leaving at least 37 dead and dozens injured as passengers jumped off the vessel to swim to shore, officials said. 
  <p class="updated_time"> 02:19 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067772373/covid-19-spike-worsens-africas-severe-poverty-hunger-woes">COVID-19 spike worsens Africa's severe poverty, hunger woes</a> NPR: In Zimbabwe and other African nations, the virus's resurgence is threatening the survival of millions. The United Nations says about 9 in 10 of the world's extremely poor live in Africa. 
+ <p class="updated_time"> 01:48 AM CT, Dec. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-s-airlines-cancel-flights-as-omicron-disruptions-grow-11640347969">U.S. Airlines Cancel Flights as Omicron Disruptions Grow</a> WSJ: Upheaval from the highly transmissible Omicron Covid-19 variant is spreading, but signs are mounting that the disease caused by Omicron is milder than previous strains. 
  <p class="updated_time"> 01:43 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59778426?at_medium=RSS&at_campaign=KARANGA">Haridwar: Police case after outrage in India over anti-Muslim hate speech</a> BBC: Viral videos show Hindu religious leaders making provocative anti-Muslim speeches at a conclave in Haridwar. 
  <p class="updated_time"> 12:24 AM CT, Dec. 24 </p> 
@@ -107,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/asia/china-winter-olympic-spectators.html">China tells Winter Olympic spectators to clap, not cheer, for athletes, and Xi’an, a major city, locks down.</a> NYT: As the Omicron variant spreads elsewhere, China is taking elaborate precautions to prevent the virus from reaching participants when the Games start in February. 
  <p class="updated_time"> 11:18 AM CT, Dec. 23 </p> 
  <a href="https://www.wsj.com/articles/u-s-russia-move-closer-to-talks-over-ukraine-as-moscow-amasses-troops-11640296717">U.S., Russia Move Closer to Talks Over Ukraine as Moscow Masses Troops</a> WSJ: Both sides agree to hold discussions in January, though they differ over how to structure the negotiations, U.S. officials said. 
- <p class="updated_time"> 07:36 AM CT, Dec. 23 </p> 
- <a href="https://www.wsj.com/articles/u-k-study-finds-risk-of-hospitalization-with-omicron-50-to-70-lower-than-with-delta-11640281553">U.K. Study Reinforces Conclusion That Omicron Causes Less Severe Disease</a> WSJ: The study found people infected with the Omicron variant are between 50% to 70% less likely to be hospitalized, adding to a body of evidence of Omicron’s reduced severity in populations with high levels of Covid immunity. 
  <p class="updated_time"> 05:36 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067188698/putin-urges-west-to-act-quickly-to-offer-security-guarantees">Putin urges West to act quickly to offer security guarantees</a> NPR: Russian President Vladimir Putin urged the West on Thursday to move quickly to meet Russia's demand for security guarantees precluding NATO's expansion to Ukraine. 
  <p class="updated_time"> 04:31 AM CT, Dec. 23 </p> 
@@ -172,8 +172,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/24/biden-social-spending-senate-parliamentarian-526081">Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</a> Politico: The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan. 
  <p class="updated_time"> 06:20 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067775038/ex-president-trump-pushes-back-on-anti-vaccine-talking-points">Ex-President Trump pushes back on anti-vaccine talking points</a> NPR: In multiple recent appearances, former President Donald Trump has been touting COVID vaccines and even pushing back against misinformation. He's earning praise from President Biden. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 24 </p> 
+ <a href="https://www.politico.com/cartoons/2021/12/23/the-nations-cartoonists-on-the-week-in-politics-000275">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:01 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1066223330/biden-covid-deaths-memorials">Biden stopped marking grim COVID milestones as he fought to end the pandemic</a> NPR: Biden used to talk a lot about the COVID-19 death toll, but over the last year he's shifted to how fight the pandemic. Some want him to go back to addressing the country's grief. 
+ <p class="updated_time"> 09:48 PM CT, Dec. 23 </p> 
+ <a href="https://www.politico.com/news/2021/12/23/bernie-kerik-jan-6-ccommittee-526129">Bernie Kerik plans to publicly release documents demanded by Jan. 6 committee</a> Politico: Kerik, raising concerns that his documents could be released selectively or without context, indicated that he planned to post them on a public website. 
  <p class="updated_time"> 08:55 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/mary-gay-scanlon-hijacking-suspect-charged/index.html">19-year-old charged in armed carjacking incident involving Democratic lawmaker</a> CNN: Federal prosecutors have charged a Delaware man with carjacking Democratic Rep. Mary Gay Scanlon of Pennsylvania and using a firearm during a crime of violence, the Justice Department announced Thursday. 
  <p class="updated_time"> 08:22 PM CT, Dec. 23 </p> 
@@ -232,6 +236,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
  <p class="updated_time"> 12:46 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1066835433/how-a-group-of-online-sleuths-are-helping-the-fbi-track-down-jan-6-rioters">How a group of online sleuths are helping the FBI track down Jan. 6 rioters</a> NPR: HuffPost journalist Ryan J. Reilly says "sedition hunters" have used videos, social media posts and facial recognition software to identify individuals who participated in the storming of the Capitol. 
+ <p class="updated_time"> 12:27 PM CT, Dec. 23 </p> 
+ <a href="https://www.politico.com/news/2021/12/23/trump-supreme-court-january-six-526050">Trump asks Supreme Court to shield records from Jan. 6 committee</a> Politico: In a reply Thursday afternoon, the House asked the court to expedite consideration of the case. 
  <p class="updated_time"> 12:17 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/andrew-cuomo-sexual-misconduct-nassau-county/index.html">Ex-New York Gov. Cuomo will not be charged by Nassau County over alleged sexual misconduct incident</a> CNN: Former New York Gov. Andrew Cuomo will not face charges for an incident involving alleged sexual misconduct that was being investigated by the Nassau County District Attorney's office, the acting district attorney confirmed to CNN. 
  <p class="updated_time"> 12:10 PM CT, Dec. 23 </p> 
@@ -266,6 +272,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/23/bidens-testing-mess-495546"> Biden’s testing mess</a> Politico Playbook: And the Supreme Court plans a special hearing on vaccine mandates. 
  <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/trump-spurs-rise-in-celebrity-candidates-525865">Senate GOP feels another Trump effect: The rise of celeb candidates</a> Politico: House experience isn't necessarily the best way to get traction across the Capitol anymore — as Herschel Walker and Mehmet Oz are proving. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
+ <a href="https://www.politico.com/news/2021/12/23/state-veterans-homes-safety-data-526027">Gaps remain in safety data on State Veterans Homes</a> Politico: As Omicron strikes, families lack a full picture of how well homes for elderly veterans have adapted to Covid risks. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
+ <a href="https://www.politico.com/news/2021/12/23/joe-biden-tiktok-jonas-brothers-526019">Joe Biden was not made for the age of TikTok. But his team is trying.</a> Politico: The White House is producing videos that they know will get mocked on political Twitter. They don’t care. They have other plans. 
  <p class="updated_time"> 04:10 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067172020/the-house-panel-probing-the-jan-6-attack-wants-to-talk-to-trump-ally-rep-jordan">The House panel probing the Jan. 6 attack wants to talk to Trump ally Rep. Jordan</a> NPR: The House committee investigating the attack on the U.S. Capitol has requested that Ohio Rep. Jim Jordan, a longtime ally of ex-President Trump, voluntarily provide information to the panel. 
  <p class="updated_time"> 04:10 AM CT, Dec. 23 </p> 
@@ -304,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/us/politics/jim-jordan-jan-6.html">Jan. 6 Panel Seeks Interview With Jim Jordan, a Close Trump Ally</a> NYT: The House committee said investigators wanted to ask Mr. Jordan, a Republican congressman from Ohio, about his conversations with former President Donald J. Trump. 
  <p class="updated_time"> 06:01 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1067103760/vice-president-kamala-harris-test-covid-19-negative">Kamala Harris tests negative after a COVID-19 exposure </a> NPR: A staffer who worked in close proximity to the vice president  has tested positive for the coronavirus. Harris tested negative via a PCR test on Wednesday and will be tested again in the coming days. 
- <p class="updated_time"> 05:50 PM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/de-blasio-tells-biden-new-york-needs-help-now-526007">De Blasio tells Biden: New York needs help now</a> Politico: The mayor said the White House should invoke the Defense Production Act. 
  <p class="updated_time"> 05:49 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/scam-pac-trump-robocalls-kfile/index.html">Alleged scam PAC operator indicted by the Justice Department still ran robocalls after his arrest </a> CNN: A man indicted by the Justice Department last month for allegedly running two fraudulent political action committees in 2016 continued to run another operation -- including promises of a Trump Christmas card for contributions of at least $35 -- using a different PAC shortly after his indictment and arrest in November. 
  <p class="updated_time"> 05:21 PM CT, Dec. 22 </p> 
@@ -356,18 +364,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/21/the-search-for-a-plan-b-begins-495529"> The search for a Plan B begins</a> Politico Playbook: And Biden plans to deliver another big Covid speech. 
  <p class="updated_time"> 06:01 AM CT, Dec. 21 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/republican-midterm-candidates-2020-election-lies/index.html">Republican candidates across the country refuse to acknowledge Biden won legitimately</a> CNN: Five Republican candidates for governor of Minnesota were asked at a forum last Wednesday whether they thought President Joe Biden won a "constitutional majority in the Electoral College." None of them was willing to utter a plain "yes." 
- <p class="updated_time"> 05:00 AM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/biden-omicron-testing-hospitals-525811">Biden expanding testing and reinforcing hospitals in face of Omicron</a> Politico: The initiatives come as Omicron blankets the U.S. and amount to a redeployment of emergency defenses seen last year. 
  <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/amazon-federal-law-enforcement-525794">How one of America’s largest employers leans on federal law enforcement</a> Politico: Amazon has increasingly tipped off the Justice Department and FBI to investigate its own employees and the sellers using its platform, according to a POLITICO analysis.  
  <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/democrats-riled-by-spanish-language-radio-attacks-on-kamala-harris-525787">Democrats riled by Spanish-language radio attacks on Kamala Harris</a> Politico: Political operatives and the radio hosts themselves say the uptick in calls is notable. Who, if anyone, is behind them remains unclear. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
- <p class="updated_time"> 04:36 PM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/biden-and-manchin-speak-525788">Biden and Manchin speak</a> Politico: The two connected and there is a sense that talks around Build Back Better aren't done yet. 
- <p class="updated_time"> 02:25 PM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/alex-jones-sues-jan-6-committee-indicates-plan-to-plead-the-fifth-525770">Alex Jones sues Jan. 6 committee, indicates plan to plead the Fifth</a> Politico: In the lawsuit, Jones says he intends to assert his Fifth Amendment rights against self-incrimination. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/manchin-build-back-better-redo-525747">Manchin to Dems: Redo the whole thing, maybe I'll vote for it</a> Politico: The West Virginia senator wants a new bill that goes through Senate committees and focuses on rolling back the 2017 Trump tax cuts. 
  <p class="updated_time"> 11:49 AM CT, Dec. 20 </p> 
