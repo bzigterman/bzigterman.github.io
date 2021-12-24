@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:52 AM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: Flight Cancellations Upend Holiday Travel</a> NYT: United and other airlines face staff shortages as workers contract the virus. In New York, some Broadway shows are paused and the New Year’s Eve celebration in Times Square is scaled back. 
+ <p class="updated_time"> 05:50 AM CT, Dec. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59780489?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Fourth woman accuses Sex and the City actor of assault</a> BBC: US singer Lisa Gentile alleges the Sex and the City actor groped her in a New York apartment in 2002. 
  <p class="updated_time"> 05:32 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/europe-covid-pandemic-omicron.html">Europeans Ponder Living With, Not Defeating, Covid</a> NYT: On the eve of the biggest holidays in Europe, exhaustion with the pandemic is rising. So is resignation that the virus is endemic. 
- <p class="updated_time"> 05:29 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: Flight Cancellations Upend Holiday Travel</a> NYT: United and other airlines face staff shortages as workers contract the virus. In New York, some Broadway shows are paused and the New Year’s Eve celebration in Times Square is scaled back. 
  <p class="updated_time"> 05:29 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop star Suga discovered that he was infected after returning to South Korea from the United States. 
  <p class="updated_time"> 05:11 AM CT, Dec. 24 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/23/1067598864/encore-encouraging-collaboration-early-on-can-lead-to-more-helpful-children">Encore: Encouraging collaboration early on can lead to more helpful children</a> NPR: In many cultures around the world, parents don't need chore charts or allowances for kids to pitch in around the house. A new study shows how parents in these cultures teach children to be helpful. 
  <p class="updated_time"> 03:23 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/migrant-boat-crash-greece.html">Second Deadly Migrant Boat Crash Off Greece This Week</a> NYT: Ninety people were left stranded after Thursday’s accident. The crash came in a week that also saw scores of migrants die in wrecks off the coast of Libya. 
- <p class="updated_time"> 03:11 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59772299?at_medium=RSS&at_campaign=KARANGA">Covid: Ecuador makes vaccination mandatory for most citizens</a> BBC: All those from the age of five must be jabbed, although people with medical reasons are exempt. 
  <p class="updated_time"> 02:20 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59775127?at_medium=RSS&at_campaign=KARANGA">Joan Didion: US literary icon dies at 87</a> BBC: She was known for chronicling US culture and was a screenwriter for the 1976 film A Star is Born. 
  <p class="updated_time"> 01:20 PM CT, Dec. 23 </p> 
