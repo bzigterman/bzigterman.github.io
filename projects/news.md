@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:29 PM CT, Dec. 24 </p> 
+ <p class="updated_time"> 12:43 PM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
+ <p class="updated_time"> 12:37 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Covid Live Updates: More Flight Cancellations Upend Holiday Travel</a> NYT: Delta, United and other airlines face staff shortages as workers contract the virus. The Biden administration will end a southern Africa travel ban on Dec. 31. 
  <p class="updated_time"> 12:21 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59780489?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Fifth woman accuses Sex and the City actor of misconduct</a> BBC: US singer Lisa Gentile alleges the Sex and the City actor groped her in a New York apartment in 2002. 
@@ -15,6 +17,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/asia/hindu-extremists-india-muslims.html">As Hindu Extremists Call for Killing of Muslims, India’s Leaders Keep Silent</a> NYT: Right-wing Hindu activists at a conference took an oath to harm Muslims if necessary to make “a Hindu-only nation,” the most blatant example of rising anti-Muslim sentiment across India. 
  <p class="updated_time"> 11:43 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59777784?at_medium=RSS&at_campaign=KARANGA">Bangladesh ferry fire: Dozens killed near Jhalakathi</a> BBC: At least 39 people die and about 100 are injured after a ferry catches fire in southern Bangladesh. 
+ <p class="updated_time"> 11:34 AM CT, Dec. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59785677?at_medium=RSS&at_campaign=KARANGA">Police stray bullet kills teen in LA store's dressing room</a> BBC: The teenager was in a changing room with her mother trying on dresses for her 15th birthday party. 
  <p class="updated_time"> 11:09 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
  <p class="updated_time"> 10:42 AM CT, Dec. 24 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/europe/covid-britain-omicron-christmas.html">Despite Omicron Wave, Britons Are Set on Not Losing Another Christmas</a> NYT: For Christmas shoppers in central London this week, little seemed to dampen their spirits. But there was an undercurrent that the city was bracing for further coronavirus restrictions. 
  <p class="updated_time"> 07:21 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/migrant-boat-crash-greece.html">Second Deadly Migrant Boat Crash Off Greece This Week</a> NYT: Ninety people were left stranded after Thursday’s accident. The crash came in a week that also saw scores of migrants die in wrecks off the coast of Libya. 
- <p class="updated_time"> 07:13 AM CT, Dec. 24 </p> 
- <a href="https://www.wsj.com/articles/u-s-airlines-cancel-flights-as-omicron-disruptions-grow-11640347969">U.S. Airlines Cancel Flights as Omicron Disruptions Grow</a> WSJ: Upheaval from the highly transmissible Omicron Covid-19 variant is spreading, but signs are mounting that the disease caused by Omicron is milder than previous strains. 
  <p class="updated_time"> 06:27 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59779924?at_medium=RSS&at_campaign=KARANGA">Pregnant woman among 15 charged for Uganda attacks</a> BBC: Police say the suspects are linked to four attacks by a branch of the Islamic State group. 
  <p class="updated_time"> 06:04 AM CT, Dec. 24 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/europe/queen-elizabeth-ii-christmas-covid.html">A Quieter Christmas for Queen Elizabeth II as Covid Persists</a> NYT: The 95-year-old monarch is spending the holiday at Windsor Castle instead of Sandringham, her English country estate. 
  <p class="updated_time"> 05:01 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1066861022/how-the-soviet-unions-collapse-explains-the-current-russia-ukraine-tension">How the Soviet Union's collapse explains the current Russia-Ukraine tension</a> NPR: To understand the friction between Russia and Ukraine, it's important to go back to 1991. Exactly 30 years ago this weekend, the Soviet Union formally dissolved and broke up into 15 separate nations. 
- <p class="updated_time"> 05:00 AM CT, Dec. 24 </p> 
- <a href="https://www.wsj.com/articles/astrazenecas-vaccine-dumped-by-the-west-helps-fill-gaping-need-in-rest-of-world-11640361603">AstraZeneca's Vaccine Helps Fill Gaping Global Need</a> WSJ: The Covid-19 shot, beset by early production problems and rare side effects, has been a workhorse for lower-income countries. 
  <p class="updated_time"> 04:58 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59779376?at_medium=RSS&at_campaign=KARANGA">Russian priest who adopted 70 children jailed for abuse</a> BBC: Nikolai Stremsky, reputed to have had Russia's biggest family, is convicted of raping children. 
  <p class="updated_time"> 04:09 AM CT, Dec. 24 </p> 
@@ -113,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/lapid-israel-nuclear-iran-palestinians.html">Lapid Says Israel Will Support Iran Nuclear Pact, if It’s ‘a Good Deal.’</a> NYT: The Israeli foreign minister said “we have no problem with a deal,” but perhaps because he thinks the prospects of an agreement are remote. 
  <p class="updated_time"> 03:35 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067598864/encore-encouraging-collaboration-early-on-can-lead-to-more-helpful-children">Encore: Encouraging collaboration early on can lead to more helpful children</a> NPR: In many cultures around the world, parents don't need chore charts or allowances for kids to pitch in around the house. A new study shows how parents in these cultures teach children to be helpful. 
- <p class="updated_time"> 02:20 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59775127?at_medium=RSS&at_campaign=KARANGA">Joan Didion: US literary icon dies at 87</a> BBC: She was known for chronicling US culture and was a screenwriter for the 1976 film A Star is Born. 
  <p class="updated_time"> 01:20 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/arts/music/carols-christmas-kings-choir-mcdowall.html">Cecilia McDowall to Debut New Christmas Carol</a> NYT: Each year, the choir of King’s College, Cambridge, commissions an original song for its Christmas service, giving the composer an audience of around 100 million people. 
  <p class="updated_time"> 01:04 PM CT, Dec. 23 </p> 
@@ -168,26 +166,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:21 PM CT, Dec. 24 </p> 
- <a href="https://www.cnn.com/2021/12/24/politics/january-6-video-capitol-hill-riot/index.html">New January 6 video shows three hours of violent and chaotic assault on police </a> CNN: The Justice Department this week released a three-hour video of a battle between rioters and the police at the US Capitol Building on January 6 where rioters brandished weapons, officers were viciously beaten, and a member of the mob died on Capitol steps. 
- <p class="updated_time"> 11:55 AM CT, Dec. 24 </p> 
+ <p class="updated_time"> 12:43 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/us/elections/democrats-state-elections.html">Democrats Say They Are Serious About State Elections. But Are They Too Late?</a> NYT: State-level races are becoming a central focus of American politics as the lasting effects of new congressional maps and election laws raise the stakes. 
  <p class="updated_time"> 10:36 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-lifts-africa-travel-ban-526133">Biden administration to lift travel ban from south African countries Dec. 31</a> Politico: Administration officials at the time said the ban would buy time for health officials to learn more about the Omicron variant. 
- <p class="updated_time"> 10:35 AM CT, Dec. 24 </p> 
- <a href="https://www.cnn.com/videos/politics/2021/12/24/top-10-political-stories-of-2021-acosta-pkg-vpx.cnn">Insurrection, inauguration and Covid: The top political stories of 2021</a> CNN: CNN's Jim Acosta takes a look back at the largest political stories from 2021. 
  <p class="updated_time"> 09:17 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/24/tis-the-season-of-year-end-lists-495550"> ’Tis the season of year-end lists</a> Politico Playbook: And the U.S. lifts travel restrictions on southern Africa. 
- <p class="updated_time"> 08:49 AM CT, Dec. 24 </p> 
- <a href="https://www.cnn.com/2021/12/24/politics/bernard-kerik-january-6-committee/index.html">Giuliani associate Bernard Kerik plans to publicly release some documents requested by January 6 committee</a> CNN: Former New York City Police Commissioner Bernard Kerik says he is planning to publicly release some documents requested by the House select committee investigating January 6. 
- <p class="updated_time"> 08:45 AM CT, Dec. 24 </p> 
- <a href="https://www.cnn.com/2021/12/24/politics/trump-covid-vaccine-republicans-polling/index.html">Trump's endorsement of vaccines aligns with most Republicans' views -- but it may be an uphill battle to convince the holdouts</a> CNN: Former President Donald Trump has recently been vocal about the benefits of vaccination against Covid-19 -- a position that's in line with the overwhelming majority of Americans who've chosen to get vaccinated, including the bulk of his own party. 
  <p class="updated_time"> 08:42 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/lufthansa-united-delta-cancel-flights-over-christmas-526131">Lufthansa, United, Delta cancel flights over Christmas</a> Politico: The cancellations come as coronavirus infections fueled by the new variant further squeeze staffing at hospitals, police departments, supermarkets and other critical operations. 
- <p class="updated_time"> 08:29 AM CT, Dec. 24 </p> 
- <a href="https://www.cnn.com/2021/12/24/politics/trump-vaccine-election-what-matters/index.html">Trump pushes one truth and hides another</a> CNN: There are things that former President Donald Trump wants to talk about, like vaccines, and things he'd rather keep quiet, like what exactly happened in the White House leading up to January 6. 
- <p class="updated_time"> 08:12 AM CT, Dec. 24 </p> 
- <a href="https://www.cnn.com/2021/12/24/politics/travel-restrictions-african-countries-omicron/index.html">Biden to lift travel restrictions on southern African countries that were put in place due to Omicron</a> CNN: The Biden administration is lifting restrictions on eight southern African countries that were put in place last month after the Omicron variant was first identified in South Africa, a White House official tells CNN. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/maryland-governor-democrats-526119">Dems face off in Maryland primary — in an ‘incredibly Republican year’</a> Politico: Looming over the gubernatorial primary is a political environment likely benefiting Republicans — amplified by the GOP’s victory in neighboring Virginia last month. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
@@ -202,14 +188,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1066223330/biden-covid-deaths-memorials">Biden stopped marking grim COVID milestones as he fought to end the pandemic</a> NPR: Biden used to talk a lot about the COVID-19 death toll, but over the last year he's shifted to how fight the pandemic. Some want him to go back to addressing the country's grief. 
  <p class="updated_time"> 09:48 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/bernie-kerik-jan-6-ccommittee-526129">Bernie Kerik plans to publicly release documents demanded by Jan. 6 committee</a> Politico: Kerik, raising concerns that his documents could be released selectively or without context, indicated that he planned to post them on a public website. 
- <p class="updated_time"> 08:55 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/mary-gay-scanlon-hijacking-suspect-charged/index.html">19-year-old charged in armed carjacking incident involving Democratic lawmaker</a> CNN: Federal prosecutors have charged a Delaware man with carjacking Democratic Rep. Mary Gay Scanlon of Pennsylvania and using a firearm during a crime of violence, the Justice Department announced Thursday. 
- <p class="updated_time"> 08:22 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/us-warning-russia-ukraine/index.html">White House reiterates that US is ready to act if Russia invades Ukraine</a> CNN: The Biden administration on Thursday reiterated its warnings to Russia over a potential invasion of Ukraine, with one senior administration official telling reporters that the US is "ready to act if and when we need to." 
  <p class="updated_time"> 08:08 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/cdc-covid-isolation-health-workers-526123">CDC sets shorter Covid isolation rules for health workers</a> Politico: Isolation time can be cut to five days, or even fewer, if there are severe staffing shortages, according to the new CDC guidance. 
- <p class="updated_time"> 07:59 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/georgia-election-workers-lawsuit-rudy-giuliani-one-america-news/index.html">Two Georgia election workers sue Giuliani and One America News, claiming election lies prompted severe harassment </a> CNN: Two Georgia election workers are accusing right-wing TV network One America News and former Trump lawyer and pundit Rudy Giuliani of destroying their reputations and prompting Trump supporters to harass them -- filling their lives with fear -- because of false claims of election fraud in 2020. 
  <p class="updated_time"> 06:58 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/georgia-poll-workers-sue-giuliani-oan-526122">2 Georgia poll workers sue Giuliani, OAN over election conspiracy theories</a> Politico: Ruby Freeman and Shaye Moss, her daughter, worked as poll workers counting ballots at State Farm Arena in Fulton County, Ga., during the November 2020 election. 
  <p class="updated_time"> 06:42 PM CT, Dec. 23 </p> 
@@ -222,26 +202,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/business/economy/inflation-pce-index-fed.html">PCE Index Hit Highest Level in November Since 1982</a> NYT: The Fed’s preferred inflation gauge climbed at the fastest pace in nearly four decades, as Omicron clouded the outlook for 2022. 
  <p class="updated_time"> 05:56 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/capitol-riot-january-6.html">… and a Merry Christmas From the ‘Patriots’ of Jan. 6</a> NYT: Holiday card greetings from defendants awaiting trial on charges related to the Capitol riot reflect their status as symbolic martyrs for the Republican base. 
- <p class="updated_time"> 05:54 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/saudi-ballistic-missiles-china/index.html">CNN Exclusive: US intel and satellite images show Saudi Arabia is now building its own ballistic missiles with help of China</a> CNN: US intelligence agencies have assessed that Saudi Arabia is now actively manufacturing its own ballistic missiles with the help of China, CNN has learned, a development that could have significant ripple effects across the Middle East and complicate the Biden administration's efforts to restrain the nuclear ambitions of Iran, the Saudis' top regional rival. 
- <p class="updated_time"> 05:43 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/astroworld-investigation-live-nation/index.html">Congressional panel will investigate Live Nation's role in Astroworld tragedy</a> CNN: A congressional panel will investigate Live Nation Entertainment, the concert promoter behind the tragic Astroworld Festival that left 10 people dead and hundreds injured last month. 
- <p class="updated_time"> 05:34 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/donald-trump-vaccines-support/index.html">Analysis: The best thing Donald Trump has done in years </a> CNN: Former President Donald Trump has done a whole lot of harm to America over the last five years -- most notably by stoking the false claim that the 2020 election was stolen. 
  <p class="updated_time"> 05:30 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/political-wish-lists-2022.html">7 Political Wish Lists for the New Year</a> NYT: What do the president, vice president, former president and party leaders want in 2022? We made our best guess. 
- <p class="updated_time"> 05:29 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/white-house-log4j-tech-firms-meeting/index.html">White House to discuss software development with tech executives, calling it 'key national security concern'</a> CNN: White House national security adviser Jake Sullivan has invited the CEOs of major software firms to discuss ways to improve software security following the emergence of a critical vulnerability that US officials have said could affect hundreds of millions of devices around the world, a senior Biden administration official told reporters Thursday. 
  <p class="updated_time"> 05:15 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/guantanamo-judge-quits.html">Another Judge Quits Guantánamo Case</a> NYT: No new judge has been named to preside in the trial of a Qaeda commander, which has had four judges in seven years. 
  <p class="updated_time"> 05:09 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/russia-buildup-ukraine-satellite-images-526109">Russian buildup near Ukraine gains steam, new satellite images show</a> Politico: The release of the images came hours after Moscow and Washington traded warnings over what might come next in the tense standoff. 
  <p class="updated_time"> 05:05 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/covid-vaccine-biden-trump.html">Beneath a Covid Vaccine Debacle, 30 Years of Government Culpability</a> NYT: Washington has rejected plans to revamp vaccine preparedness for decades and repeatedly paid a price. The Biden administration is at a similar crossroads. 
- <p class="updated_time"> 04:48 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/donald-trump-supreme-court-records-january-6/index.html">House panel asks Supreme Court to say by mid-January whether it's taking Trump's January 6 records case</a> CNN: Former President Donald Trump appealed to the Supreme Court on Thursday to block the release of documents from his White House to the House committee investigating the January 6 riot at the Capitol, escalating his effort to keep about 700 pages of records secret. 
- <p class="updated_time"> 04:47 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/als-research-biden-bill-signing/index.html">Biden says bipartisan legislation funding ALS research 'represents the spirit of the season' </a> CNN: President Joe Biden on Thursday signed into law bipartisan legislation that expands funding for amyotrophic lateral sclerosis research, hailing it as in "the spirit of the season." 
  <p class="updated_time"> 03:56 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067598857/the-trump-supporters-who-went-from-planning-the-jan-6-rally-to-aiding-the-riot-p">The Trump supporters who went from planning the Jan. 6 rally to aiding the riot probe</a> NPR: NPR's Ari Shapiro talks with reporter Hunter Walker, who wrote a Rolling Stone article on Dustin Stockton and Jennifer Lynn Lawrence, the Trump supporters now cooperating with the Jan. 6 House panel. 
  <p class="updated_time"> 03:40 PM CT, Dec. 23 </p> 
@@ -260,30 +228,20 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/23/1066835433/how-a-group-of-online-sleuths-are-helping-the-fbi-track-down-jan-6-rioters">How a group of online sleuths are helping the FBI track down Jan. 6 rioters</a> NPR: HuffPost journalist Ryan J. Reilly says "sedition hunters" have used videos, social media posts and facial recognition software to identify individuals who participated in the storming of the Capitol. 
  <p class="updated_time"> 12:27 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/trump-supreme-court-january-six-526050">Trump asks Supreme Court to shield records from Jan. 6 committee</a> Politico: In a reply Thursday afternoon, the House asked the court to expedite consideration of the case. 
- <p class="updated_time"> 12:17 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/andrew-cuomo-sexual-misconduct-nassau-county/index.html">Ex-New York Gov. Cuomo will not be charged by Nassau County over alleged sexual misconduct incident</a> CNN: Former New York Gov. Andrew Cuomo will not face charges for an incident involving alleged sexual misconduct that was being investigated by the Nassau County District Attorney's office, the acting district attorney confirmed to CNN. 
  <p class="updated_time"> 12:10 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/pentagon-staffers-covid-positive-526048">7 Pentagon staffers test positive for Covid after official trip</a> Politico: Marines also announce that more troops have been kicked out for refusing the vaccine. 
  <p class="updated_time"> 11:45 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/nyregion/cyrus-vance-donald-trump.html">Trump Fraud Inquiry Won’t Be Resolved When Vance’s Term Ends Next Week</a> NYT: After leading a three-year investigation into the former president, the Manhattan district attorney, Cyrus R. Vance Jr., will hand it to his successor. 
- <p class="updated_time"> 11:35 AM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/manchin-inflation-bbb-fact-check/index.html">Economists question validity of Manchin's inflation fears on Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia effectively put an end to negotiations over the current version of the Build Back Better Act on Sunday when he announced on Fox News he would vote no on the legislation, in part over concerns some provisions of the massive tax and spending bill might exacerbate inflation. 
  <p class="updated_time"> 11:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/dccc-partnership-campaign-staff-diversity-526041">DCCC launching partnership to boost campaign staff diversity</a> Politico: House Democrats' campaign arm is partnering with Blue Leadership Collaborative to recruit and retain people of color, women and people who identify as queer as senior staff. 
  <p class="updated_time"> 10:32 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/fda-authorizes-merck-covid-pill-526036">FDA authorizes Merck’s Covid-19 pill</a> Politico: Clinical trials showed that Merck’s pill reduced the risk of hospitalization and death from the virus by 30 percent. 
- <p class="updated_time"> 10:09 AM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/faith-leaders-voting-rights-letter-biden/index.html">CNN Exclusive: Hundreds of faith leaders demand more from Biden and other Democrats on voting rights legislation</a> CNN: More than 800 faith leaders are urging President Joe Biden and Senate Democrats to pass voting rights legislation in 2022, writing in a letter released Thursday that the issue needs to be the administration's "number-one priority" after measures stalled in the Senate. 
  <p class="updated_time"> 07:58 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/science/webb-nasa-launch-delay.html">How NASA's Webb Telescope Overcame Loose Screws, Budgets and Clamps</a> NYT: Getting the James Webb Space Telescope to the launchpad has been a difficult journey that has taken decades. 
- <p class="updated_time"> 07:41 AM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/joe-biden-filibuster-voting-rights/index.html">Biden says he supports filibuster carve-out for voting rights</a> CNN: President Joe Biden says he supports making an exception to the Senate filibuster rules in order to pass voting rights legislation. 
  <p class="updated_time"> 07:26 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/osha-vaccine-mandate-supreme-court.html">Supreme Court to Hold Special Hearing on Biden Vaccine Mandates</a> NYT: Challengers say vaccination-or-testing requirements at large employers and for health care workers were not authorized by Congress. 
  <p class="updated_time"> 07:09 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/23/senate-candidates-trade-house-toil-for-celeb-launchpad-495547">Senate candidates trade House toil for celeb launchpad</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:22 AM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/larry-hogan-maryland-senate-race-2022/index.html">Maryland Gov. Larry Hogan entertaining GOP efforts to recruit him for 2022 Senate race</a> CNN: Maryland Gov. Larry Hogan is engaging with stepped-up Republican efforts to recruit him into next year's Senate race, CNN has learned. 
  <p class="updated_time"> 06:12 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/23/bidens-testing-mess-495546"> Biden’s testing mess</a> Politico Playbook: And the Supreme Court plans a special hearing on vaccine mandates. 
  <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
@@ -300,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/23/1066276608/lies-betrayal-and-competition-on-the-hill-as-lawmakers-deck-the-halls-of-congres">Lies, betrayal and competition on the Hill as lawmakers deck the halls of Congress</a> NPR: The second floor of the Longworth congressional office building is taking holiday decorations to a whole new level. 
  <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1065277246/trump-big-lie-jan-6-election">The clear and present danger of Trump's enduring 'Big Lie'</a> NPR: Fueling the Jan. 6 insurrection was the "Big Lie" that Donald Trump won the election. One year later, many warn that lie has metastasized and now poses an even graver threat to American democracy. 
- <p class="updated_time"> 10:35 PM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/biden-vaccine-mandate-oral-arguments-supreme-court/index.html">In rare move, SCOTUS will hear January oral arguments in challenges to Biden vaccine mandates</a> CNN: The Supreme Court said Wednesday it is scheduling oral arguments for January 7 in the cases challenging the Biden administration's Covid-19 vaccine requirements for large employers and certain health care workers. 
  <p class="updated_time"> 09:43 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/kamala-harris-covid.html">Vice President Kamala Harris Was Exposed to Covid</a> NYT: President Biden had also been in close contact with a staff member who later tested positive. 
  <p class="updated_time"> 08:19 PM CT, Dec. 22 </p> 
@@ -316,22 +272,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/us/capitol-riot-matthew-greene-guilty.html">Proud Boys Member Pleads Guilty and Will Cooperate in Jan. 6 Riot Inquiry</a> NYT: Matthew Greene, 34, who was “among the first wave” to rush up the Capitol steps, pleaded guilty to two charges and agreed to cooperate with the government, federal prosecutors said. 
  <p class="updated_time"> 06:52 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/covid-tests-biden-omicron.html">Biden Promised 500 Million Tests, but Americans Will Have to Wait</a> NYT: Contracts to purchase tests could be signed as soon as next week, but relief could be weeks away for people trying to buy the hard-to-find tests. 
- <p class="updated_time"> 06:35 PM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/2024-election-joe-biden-donald-trump/index.html">Biden says potentially facing Trump in 2024 only increases his desire to run for reelection</a> CNN: President Joe Biden said Wednesday that a rematch against former President Donald Trump in 2024 only increases his desire to run for reelection. 
  <p class="updated_time"> 06:22 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/jim-jordan-jan-6.html">Jan. 6 Panel Seeks Interview With Jim Jordan, a Close Trump Ally</a> NYT: The House committee said investigators wanted to ask Mr. Jordan, a Republican congressman from Ohio, about his conversations with former President Donald J. Trump. 
  <p class="updated_time"> 06:01 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1067103760/vice-president-kamala-harris-test-covid-19-negative">Kamala Harris tests negative after a COVID-19 exposure </a> NPR: A staffer who worked in close proximity to the vice president  has tested positive for the coronavirus. Harris tested negative via a PCR test on Wednesday and will be tested again in the coming days. 
- <p class="updated_time"> 05:32 PM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/joe-biden-polling-public-approval/index.html">Analysis: Biden's polling 'blip' has become his new normal</a> CNN: When President Joe Biden's poll numbers initially began to slip in late August, Democrats insisted to anyone who would listen that this would be a temporary blip. 
  <p class="updated_time"> 05:00 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/trudeau-canadians-hunker-down-omicron-525998">Trudeau tells Canadians to ‘hunker down’ as Biden urges calm over Omicron</a> Politico: Canadians hunt for boosters and rapid tests amid Covid surge that is disrupting holiday plans. 
  <p class="updated_time"> 04:16 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/yellen-signature-us-currency.html">Why Janet Yellen’s Signature Is Not on U.S. Currency</a> NYT: Until a new treasurer is selected, currency will continue to bear the autograph of former Treasury Secretary Steven Mnuchin. 
  <p class="updated_time"> 03:47 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1067024844/why-elections-in-libya-have-been-delayed">Why elections in Libya have been delayed</a> NPR: Libya's plans to hold national elections are in doubt as the country breaks down into regions controlled by local faction leaders — including the son of the former dictator. 
- <p class="updated_time"> 03:15 PM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/antiviral-pill-biden-statement/index.html">250,000 treatment courses of Pfizer's antiviral pill will be available in January, Biden says</a> CNN: President Joe Biden on Wednesday pledged more than 250,000 treatment courses of Pfizer's antiviral pill will be available starting in January after the US Food and Drug Administration authorized it to treat Covid-19. 
  <p class="updated_time"> 03:14 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1066997356/january-6-panel-asks-rep-jordan-top-trump-ally-for-voluntary-cooperation-in-prob">The House Jan. 6 panel wants to talk to Trump ally Rep. Jim Jordan</a> NPR: Chairman Bennie Thompson's letter to Jordan asks for information and an interview to discuss his conversations with President Donald Trump on Jan. 6. 
  <p class="updated_time"> 02:52 PM CT, Dec. 22 </p> 
