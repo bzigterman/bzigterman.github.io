@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:10 PM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/europe/alfredo-lupi-janitor-italy.html">A Janitor’s Colleagues Put Him on the Fast Track to Retirement</a> NYT: An Italian factory worker was dealing with a lifelong impairment that made it hard to work, but he wasn’t in a position to retire. Then his co-workers gave him 20 months’ worth of vacation days. 
+ <p class="updated_time"> 01:09 PM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/africa/sudan-coup-protests.html">Anti-Coup Protesters in Sudan Press Their Demand for Return to Civilian Rule</a> NYT: The protests on Saturday underscored the resolve of protesters to continue defying the Oct. 25 coup that derailed the country’s nascent attempt to transition to democratic rule. 
  <p class="updated_time"> 01:02 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/navy-ship-covid-guantanamo-bay.html">Covid Outbreak Strands U.S.S. Milwaukee in Guantánamo Bay</a> NYT: The crew held an open-air Christmas service on the pier, allowing the sailors to remain socially distanced. 
  <p class="updated_time"> 12:24 PM CT, Dec. 25 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59791541?at_medium=RSS&at_campaign=KARANGA">Spain's La Palma volcano eruption declared over after three months</a> BBC: The Cumbre Vieja volcano in Spain's Canary Islands had been spewing lava and ash since September. 
  <p class="updated_time"> 10:38 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/queen-elizabeth-christmas-address.html">‘Christmas Can Be Hard’ Amid Loss, Queen Elizabeth Says in Annual Message</a> NYT: Her address, which was recorded last week, is the first since the death of her husband, Prince Philip. It comes as coronavirus cases in Britain have hit record highs. 
- <p class="updated_time"> 10:24 AM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/europe/alfredo-lupi-janitor-italy.html">A Janitor’s Colleagues Put Him on the Fast Track to Retirement</a> NYT: An Italian factory worker was dealing with a lifelong impairment that made it hard to work, but he wasn’t in a position to retire. Then his co-workers gave him 20 months’ worth of vacation days. 
  <p class="updated_time"> 10:22 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/ukraine-russia-zelensky-comedy.html">As Russian Threat Looms, Ukraine’s Government Is No Laughing Matter</a> NYT: President Volodymyr Zelensky, a former actor, has surrounded himself with advisers from his old comedy troupe. No kidding. 
  <p class="updated_time"> 08:50 AM CT, Dec. 25 </p> 
