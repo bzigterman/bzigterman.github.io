@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:08 AM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
  <p class="updated_time"> 11:23 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59787319?at_medium=RSS&at_campaign=KARANGA">In pictures: World celebrates Christmas</a> BBC: For the second year running, fewer people are attending festive events because of the Covid outbreak. 
  <p class="updated_time"> 11:21 PM CT, Dec. 24 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59777784?at_medium=RSS&at_campaign=KARANGA">Bangladesh ferry fire: Dozens killed near Jhalakathi</a> BBC: At least 39 people die and about 100 are injured after a ferry catches fire in southern Bangladesh. 
  <p class="updated_time"> 11:34 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59785677?at_medium=RSS&at_campaign=KARANGA">Police stray bullet kills teen in LA store's dressing room</a> BBC: The teenager was in a changing room with her mother trying on dresses for her 15th birthday party. 
- <p class="updated_time"> 11:09 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
  <p class="updated_time"> 09:23 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59784118?at_medium=RSS&at_campaign=KARANGA">Russia fines Google over illegal content breach</a> BBC: The verdict marks the first time Russia has fined a technology giant based on their annual turnover. 
  <p class="updated_time"> 07:23 AM CT, Dec. 24 </p> 
