@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:24 AM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/europe/queen-elizabeth-christmas-address.html">‘Christmas Can Be Hard’ Amid Loss, Queen Elizabeth Says in Annual Message</a> NYT: Her address, which was recorded last week, is the first since the death of her husband, Prince Philip. It comes as coronavirus cases in Britain have hit record highs. 
  <p class="updated_time"> 09:18 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59789491?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Tear gas fired at pro-democracy protests</a> BBC: Protesters are demanding the military step back and allow the transition to civilian rule. 
  <p class="updated_time"> 08:50 AM CT, Dec. 25 </p> 
@@ -180,6 +182,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:42 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/covid-christmas-religion-hospitals-526143">Surging Covid cases make for another subdued Christmas Day</a> Politico: In many places, it was a day of overwhelmed hospitals, canceled flights and curbed religious observances. 
+ <p class="updated_time"> 09:31 AM CT, Dec. 25 </p> 
+ <a href="https://www.cnn.com/2021/12/24/politics/taylor-budowich-trump-spokesman-jan-6-committee/index.html">January 6 committee ramps up efforts to uncover funding behind Capitol riot</a> CNN: Trump spokesman Taylor Budowich on Friday sued the House select committee investigating the January 6 riot to prevent it from obtaining his financial documents from JP Morgan, which is also named in the lawsuit. 
  <p class="updated_time"> 09:02 AM CT, Dec. 25 </p> 
  <a href="https://www.cnn.com/2021/12/25/world/meanwhile-in-america-december-22-intl/index.html">30 years after USSR fell, there's tension between US and Russia this Christmas</a> CNN: For once, 30 years ago, Christmas really did herald an era of peace. 
  <p class="updated_time"> 08:44 AM CT, Dec. 25 </p> 
@@ -196,8 +200,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/25/national-patient-ids-privacy-526096">Bid to fund national patient IDs revives privacy fight</a> Politico: Its ultimate fate is still tied to uncertainties surrounding the appropriations process and an overdue report on the benefits and risks from HHS' health information technology office. 
  <p class="updated_time"> 05:03 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/23/science/webb-nasa-launch-delay.html">How NASA's Webb Telescope Overcame Loose Screws, Budgets and Clamps</a> NYT: Getting the James Webb Space Telescope to the launchpad has been a difficult journey that has taken decades. 
- <p class="updated_time"> 10:06 PM CT, Dec. 24 </p> 
- <a href="https://www.cnn.com/2021/12/24/politics/taylor-budowich-trump-spokesman-jan-6-committee/index.html">Trump spokesman Taylor Budowich sues Jan. 6 committee to block access to his financial records</a> CNN: Trump spokesman Taylor Budowich on Friday sued the House select committee investigating the January 6 riot to prevent it from obtaining his financial documents from JP Morgan, which is also named in the lawsuit. 
  <p class="updated_time"> 08:55 PM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/trump-spokesperson-sues-jan-6-committee-financial-records-526139">Trump spokesperson sues Jan. 6 committee over financial records</a> Politico: Taylor Budowich is trying to block disclosure of information from J.P. Morgan Chase Bank. 
  <p class="updated_time"> 07:44 PM CT, Dec. 24 </p> 
