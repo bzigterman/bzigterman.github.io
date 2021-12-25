@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:57 AM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the isolation period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
+ <p class="updated_time"> 09:18 AM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59789491?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Tear gas fired at pro-democracy protests</a> BBC: Protesters are demanding the military step back and allow the transition to civilian rule. 
  <p class="updated_time"> 08:50 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/migrant-boat-greece.html">At Least 16 Dead After Migrant Boat Capsizes Off Greece</a> NYT: The wreck late Friday in the Aegean Sea, the third in Greek waters in three days, was another reminder of the risks asylum seekers face. 
  <p class="updated_time"> 08:29 AM CT, Dec. 25 </p> 
@@ -31,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59790251?at_medium=RSS&at_campaign=KARANGA">Pope's Christmas Day message</a> BBC: Pope Francis gave his traditional Christmas message followed by his blessing, Urbi et Orbi, to the city and the world. 
  <p class="updated_time"> 05:49 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/pope-francis-christmas-message.html">As Covid Disrupts a 2nd Christmas, Pope Prays for Healing and Peace</a> NYT: In his Christmas message, Pope Francis called on world leaders to resolve persisting conflicts and prayed for people across the globe who are affected by the coronavirus. 
- <p class="updated_time"> 05:41 AM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59789491?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Military cuts internet services ahead of planned protests</a> BBC: Web services are restricted in the capital ahead of demonstrations against the military coup. 
  <p class="updated_time"> 05:00 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/canada/another-covid-christmas.html">Another Covid Christmas …</a> NYT: December went by like an Omicron advent calendar, each passing day revealing how the virus’s trajectory would change hoped-for holiday plans. 
  <p class="updated_time"> 04:00 AM CT, Dec. 25 </p> 
@@ -63,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-wales-59729022?at_medium=RSS&at_campaign=KARANGA">Art: 'People amazed I fold paper for a living, then they see it'</a> BBC: Artist Polly Verity loves the look and feel of paper and has been "lost in its landscape" for years. 
  <p class="updated_time"> 05:21 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59787369?at_medium=RSS&at_campaign=KARANGA">SA urges halt to Nelson Mandela's Robben Island prison cell key auction</a> BBC: Nelson Mandela, South Africa's first black president, spent 18 years in a tiny cell on Robben Island. 
+ <p class="updated_time"> 05:14 PM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/business/omicron-christmas-travel.html">As Omicron Overshadows Christmas, Thousands of Flights Are Canceled</a> NYT: Travelers had hoped this holiday season would represent a return to relative normalcy. Instead, pilots are out and delays are piling up. 
  <p class="updated_time"> 04:59 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59786665?at_medium=RSS&at_campaign=KARANGA">French zoo closed temporarily after pack of nine wolves escape</a> BBC: No people were injured during the incident, but the wolf pack was killed due to safety concerns. 
  <p class="updated_time"> 04:13 PM CT, Dec. 24 </p> 
@@ -123,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1067772373/covid-19-spike-worsens-africas-severe-poverty-hunger-woes">COVID-19 spike worsens Africa's severe poverty, hunger woes</a> NPR: In Zimbabwe and other African nations, the virus's resurgence is threatening the survival of millions. The United Nations says about 9 in 10 of the world's extremely poor live in Africa. 
  <p class="updated_time"> 12:24 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">Park Geun-hye, Ex-Leader of South Korea, to Be Pardoned </a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
- <p class="updated_time"> 11:09 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/business/japan-defense-spending.html">Japan Approves Major Hike in Military Spending, With Taiwan in Mind</a> NYT: The budget increase, the biggest in decades, comes as officials warn that tensions over Taiwan could pull Japan into a conflict between the United States and China. 
  <p class="updated_time"> 08:46 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/australia/koala-massacre-cape-bridgewater.html">‘Koala Massacre’: Australia Files Hundreds of Animal Cruelty Charges</a> NYT: A property owner and two companies in Australia were charged after a land-clearing operation left dozens of the marsupials dead, injured or starving. 
  <p class="updated_time"> 08:45 PM CT, Dec. 23 </p> 
@@ -182,6 +180,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:42 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/covid-christmas-religion-hospitals-526143">Surging Covid cases make for another subdued Christmas Day</a> Politico: In many places, it was a day of overwhelmed hospitals, canceled flights and curbed religious observances. 
+ <p class="updated_time"> 09:02 AM CT, Dec. 25 </p> 
+ <a href="https://www.cnn.com/2021/12/25/world/meanwhile-in-america-december-22-intl/index.html">30 years after USSR fell, there's tension between US and Russia this Christmas</a> CNN: For once, 30 years ago, Christmas really did herald an era of peace. 
  <p class="updated_time"> 08:44 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/25/the-manchin-dance-continues-on-christmas-495551"> The Manchin dance continues on Christmas</a> Politico Playbook: And a judge continues prior restraint on the NYT. 
  <p class="updated_time"> 08:33 AM CT, Dec. 25 </p> 
@@ -276,12 +276,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/23/politics/saudi-ballistic-missiles-china/index.html">CNN Exclusive: US intel and satellite images show Saudi Arabia is now building its own ballistic missiles with help of China</a> CNN: US intelligence agencies have assessed that Saudi Arabia is now actively manufacturing its own ballistic missiles with the help of China, CNN has learned, a development that could have significant ripple effects across the Middle East and complicate the Biden administration's efforts to restrain the nuclear ambitions of Iran, the Saudis' top regional rival. 
  <p class="updated_time"> 05:43 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/astroworld-investigation-live-nation/index.html">Congressional panel will investigate Live Nation's role in Astroworld tragedy</a> CNN: A congressional panel will investigate Live Nation Entertainment, the concert promoter behind the tragic Astroworld Festival that left 10 people dead and hundreds injured last month. 
- <p class="updated_time"> 05:34 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/donald-trump-vaccines-support/index.html">Analysis: The best thing Donald Trump has done in years </a> CNN: Former President Donald Trump has done a whole lot of harm to America over the last five years -- most notably by stoking the false claim that the 2020 election was stolen. 
  <p class="updated_time"> 05:30 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/political-wish-lists-2022.html">7 Political Wish Lists for the New Year</a> NYT: What do the president, vice president, former president and party leaders want in 2022? We made our best guess. 
- <p class="updated_time"> 05:29 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/white-house-log4j-tech-firms-meeting/index.html">White House to discuss software development with tech executives, calling it 'key national security concern'</a> CNN: White House national security adviser Jake Sullivan has invited the CEOs of major software firms to discuss ways to improve software security following the emergence of a critical vulnerability that US officials have said could affect hundreds of millions of devices around the world, a senior Biden administration official told reporters Thursday. 
  <p class="updated_time"> 05:15 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/guantanamo-judge-quits.html">Another Judge Quits Guantánamo Case</a> NYT: No new judge has been named to preside in the trial of a Qaeda commander, which has had four judges in seven years. 
  <p class="updated_time"> 05:05 PM CT, Dec. 23 </p> 
@@ -304,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/23/1066835433/how-a-group-of-online-sleuths-are-helping-the-fbi-track-down-jan-6-rioters">How a group of online sleuths are helping the FBI track down Jan. 6 rioters</a> NPR: HuffPost journalist Ryan J. Reilly says "sedition hunters" have used videos, social media posts and facial recognition software to identify individuals who participated in the storming of the Capitol. 
  <p class="updated_time"> 12:27 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/trump-supreme-court-january-six-526050">Trump asks Supreme Court to shield records from Jan. 6 committee</a> Politico: In a reply Thursday afternoon, the House asked the court to expedite consideration of the case. 
- <p class="updated_time"> 12:17 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/andrew-cuomo-sexual-misconduct-nassau-county/index.html">Ex-New York Gov. Cuomo will not be charged by Nassau County over alleged sexual misconduct incident</a> CNN: Former New York Gov. Andrew Cuomo will not face charges for an incident involving alleged sexual misconduct that was being investigated by the Nassau County District Attorney's office, the acting district attorney confirmed to CNN. 
  <p class="updated_time"> 11:45 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/nyregion/cyrus-vance-donald-trump.html">Trump Fraud Inquiry Won’t Be Resolved When Vance’s Term Ends Next Week</a> NYT: After leading a three-year investigation into the former president, the Manhattan district attorney, Cyrus R. Vance Jr., will hand it to his successor. 
  <p class="updated_time"> 11:35 AM CT, Dec. 23 </p> 
@@ -354,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/us/capitol-riot-matthew-greene-guilty.html">Proud Boys Member Pleads Guilty and Will Cooperate in Jan. 6 Riot Inquiry</a> NYT: Matthew Greene, 34, who was “among the first wave” to rush up the Capitol steps, pleaded guilty to two charges and agreed to cooperate with the government, federal prosecutors said. 
  <p class="updated_time"> 06:52 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/covid-tests-biden-omicron.html">Biden Promised 500 Million Tests, but Americans Will Have to Wait</a> NYT: Contracts to purchase tests could be signed as soon as next week, but relief could be weeks away for people trying to buy the hard-to-find tests. 
- <p class="updated_time"> 06:35 PM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/2024-election-joe-biden-donald-trump/index.html">Biden says potentially facing Trump in 2024 only increases his desire to run for reelection</a> CNN: President Joe Biden said Wednesday that a rematch against former President Donald Trump in 2024 only increases his desire to run for reelection. 
  <p class="updated_time"> 06:22 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/jim-jordan-jan-6.html">Jan. 6 Panel Seeks Interview With Jim Jordan, a Close Trump Ally</a> NYT: The House committee said investigators wanted to ask Mr. Jordan, a Republican congressman from Ohio, about his conversations with former President Donald J. Trump. 
  <p class="updated_time"> 05:32 PM CT, Dec. 22 </p> 
@@ -416,10 +408,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">White House lights up Manchin after he crushes Biden's megabill</a> Politico: The West Wing accused Manchin of "a breach of his commitments to the president and the senator’s colleagues in the House and Senate," in a blistering statement Sunday. 
  <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/black-lawmakers-diversity-lobbying-firms-525362">Black lawmakers threaten to cut off K St unless it diversifies</a> Politico: Years of frustration with the racial composition of the political influence industry have begun to boil over. 
+ <p class="updated_time"> 03:30 PM CT, Dec. 18 </p> 
+ <a href="https://www.cnn.com/2021/12/17/politics/harris-charlamagne-tha-god-interview-defends-biden/index.html">Harris defends Biden when questioned whether he or Manchin is President</a> CNN: Vice President Kamala Harris forcefully defended President Joe Biden when recently asked whether he or Sen. Joe Manchin is the president of the United States, as Biden's agenda remains stalled in part because of the West Virginia Democrat. 
  <p class="updated_time"> 09:57 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/18/its-just-completely-delusional-495520"> ‘It’s just completely delusional’</a> Politico Playbook: And the Senate adjourns for the year. 
- <p class="updated_time"> 09:11 AM CT, Dec. 18 </p> 
- <a href="https://www.politico.com/news/2021/12/18/cruz-vote-russian-pipeline-sanctions-schumer-525334">Cruz secures vote on Russian pipeline sanctions in deal with Schumer</a> Politico: Cruz agreed to lift his holds on 32 nominees in exchange for the Senate voting in early January on his legislation to sanction the pipeline. 
 
 
 </details>
