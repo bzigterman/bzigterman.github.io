@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:43 PM CT, Dec. 25 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/12/25/1062812413/how-to-raise-kind-kids-a-booze-ban-bts-at-u-n-our-top-non-pandemic-global-storie">How to raise kind kids, a booze ban, BTS at U.N.: Our top non-pandemic global stories</a> NPR: Our most popular stories not about the pandemic included: advice on raising helpful kids, boy band BTS's U.N. appearance, why South Africa banned alcohol — and a very scary virus called Nipah. 
  <p class="updated_time"> 02:23 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/navy-ship-covid-guantanamo-bay.html">Covid Outbreak Strands U.S.S. Milwaukee in Guantánamo Bay</a> NYT: The crew held an open-air Christmas service on the pier, allowing the sailors to remain socially distanced. 
  <p class="updated_time"> 02:12 PM CT, Dec. 25 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/how-the-afghanistan-taliban-outwitted-and-outwaited-the-u-s-11640355270">How the Taliban Outwitted and Outwaited the U.S.</a> WSJ: Islamist movement spoke of moderation as it solidified gains on the battlefield, taking Washington and its Afghan allies by surprise. 
  <p class="updated_time"> 04:00 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/afghanistan-nadery-peace-negotiations.html">An Afghan Official Laments What Was Lost and Looks to What Lies Ahead</a> NYT: Ahmad Nader Nadery spent decades working toward a thriving, free Afghanistan. Watching the Taliban undo much of his work, he wonders how to move forward. 
- <p class="updated_time"> 02:45 AM CT, Dec. 24 </p> 
- <a href="https://www.npr.org/2021/12/24/1067769323/ferry-fire-kills-at-least-37-in-southern-bangladesh">Ferry fire kills at least 39 in southern Bangladesh</a> NPR: A huge fire swept through a crowded river ferry in southern Bangladesh early Friday, leaving of dead and injured as passengers jumped off the vessel to swim to shore, officials said. 
  <p class="updated_time"> 12:24 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">Park Geun-hye, Ex-Leader of South Korea, to Be Pardoned </a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
  <p class="updated_time"> 08:46 PM CT, Dec. 23 </p> 
