@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:28 AM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59791541?at_medium=RSS&at_campaign=KARANGA">Spain's La Palma volcano eruption declared over after three months</a> BBC: The Cumbre Vieja volcano in Spain's Canary Islands had been spewing lava and ash since September. 
  <p class="updated_time"> 10:38 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/queen-elizabeth-christmas-address.html">‘Christmas Can Be Hard’ Amid Loss, Queen Elizabeth Says in Annual Message</a> NYT: Her address, which was recorded last week, is the first since the death of her husband, Prince Philip. It comes as coronavirus cases in Britain have hit record highs. 
  <p class="updated_time"> 10:24 AM CT, Dec. 25 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59780489?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Fifth woman accuses Sex and the City actor of misconduct</a> BBC: US singer Lisa Gentile alleges the Sex and the City actor groped her in a New York apartment in 2002. 
  <p class="updated_time"> 12:15 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/hindu-extremists-india-muslims.html">As Hindu Extremists Call for Killing of Muslims, India’s Leaders Keep Silent</a> NYT: Right-wing Hindu activists at a conference took an oath to harm Muslims if necessary to make “a Hindu-only nation,” the most blatant example of rising anti-Muslim sentiment across India. 
- <p class="updated_time"> 11:43 AM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59777784?at_medium=RSS&at_campaign=KARANGA">Bangladesh ferry fire: Dozens killed near Jhalakathi</a> BBC: At least 39 people die and about 100 are injured after a ferry catches fire in southern Bangladesh. 
  <p class="updated_time"> 11:34 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59785677?at_medium=RSS&at_campaign=KARANGA">Police stray bullet kills teen in LA store's dressing room</a> BBC: The teenager was in a changing room with her mother trying on dresses for her 15th birthday party. 
  <p class="updated_time"> 09:23 AM CT, Dec. 24 </p> 
