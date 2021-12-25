@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:54 AM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the isolation period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
  <p class="updated_time"> 04:00 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/middleeast/west-bank-entertainment-complex-israel.html">A New Israeli Wonderland, Where You Can Almost Forget Where You Are</a> NYT: An alien spaceship theme park, an Italian Renaissance-style mall, a canal with gondolas. “Nothing in Israel compares with it,” the developer says. There’s just one catch. 
  <p class="updated_time"> 04:00 AM CT, Dec. 25 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
  <p class="updated_time"> 08:57 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067923677/once-again-covid-means-scaled-back-christmas-celebrations-around-the-world">Once again, COVID means scaled-back Christmas celebrations around the world</a> NPR: From Bethlehem and Frankfurt to Boston, the surging coronavirus put a damper on Christmas Eve for a second year, forcing churches to cancel or scale back services and disrupting travel plans. 
- <p class="updated_time"> 07:54 PM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the isolation period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
  <p class="updated_time"> 06:15 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59738548?at_medium=RSS&at_campaign=KARANGA">No time for war: Russians see no chance of conflict</a> BBC: With rhetoric becoming harsh and fears of an invasion growing, Muscovites give their views on the crisis. 
  <p class="updated_time"> 06:10 PM CT, Dec. 24 </p> 
