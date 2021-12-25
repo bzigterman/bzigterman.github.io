@@ -182,6 +182,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:46 PM CT, Dec. 25 </p> 
+ <a href="https://www.politico.com/news/2021/12/25/intruder-windsor-castle-royals-526145">British police arrest armed intruder on Windsor Castle grounds</a> Politico: The suspect was identified as a 19-year-old man. 
  <p class="updated_time"> 11:03 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/britain-vaccines-jingle-jabs-526144">Thousands line up for ‘jingle jabs’ on Christmas in England</a> Politico: Health Secretary Sajid Javid urged people to “make the booster a part of your Christmas this year.” 
  <p class="updated_time"> 10:51 AM CT, Dec. 25 </p> 
@@ -214,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/24/project-veritas-new-york-times-526137">Judge blocks New York Times on Project Veritas coverage</a> Politico: The Times was also ordered to return or delete relevant documents. 
  <p class="updated_time"> 05:08 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/us/elections/democrats-state-elections.html">Democrats Say They Are Serious About State Elections. But Are They Too Late?</a> NYT: State-level races are becoming a central focus of American politics as the lasting effects of new congressional maps and election laws raise the stakes. 
- <p class="updated_time"> 04:24 PM CT, Dec. 24 </p> 
- <a href="https://www.politico.com/news/2021/12/24/pope-francis-christmas-vatican-526136">Pope celebrates Christmas Eve Mass as virus surges in Italy</a> Politico: He urged the faithful to focus on the “littleness” of Jesus, and remember that he came into the world poor, without even a proper crib. 
  <p class="updated_time"> 03:41 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/us/politics/covid-school-reopening-teen-mental-health.html">The Students Returned, but the Fallout From a Long Disruption Remained</a> NYT: “They’re like, ‘The world’s out of control, why should I be in control?’” the principal of Liberty High School in Bethlehem, Pa., said of some of his struggling students. 
  <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
@@ -224,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1067889526/what-the-pandemic-could-mean-for-the-economy-in-2022">What the pandemic could mean for the economy in 2022</a> NPR: The country's economic health is largely being defined by the coronavirus pandemic. The omicron variant is now changing expectations for the economy in 2022. 
  <p class="updated_time"> 03:00 PM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/videos/politics/2021/12/24/top-10-political-stories-of-2021-acosta-pkg-vpx.cnn">Insurrection, inauguration and Covid: The top political stories of 2021</a> CNN: CNN's Jim Acosta takes a look back at the largest political stories from 2021. 
- <p class="updated_time"> 02:50 PM CT, Dec. 24 </p> 
- <a href="https://www.politico.com/news/2021/12/24/nelson-mandela-prison-key-526135">South African official objects to sale of Mandela’s cell key</a> Politico: The key is among Mandela memorabilia being sold in New York on Jan. 28. 
  <p class="updated_time"> 01:49 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067875042/the-u-s-is-lifting-its-omicron-linked-travel-ban-on-southern-africa">The U.S. is lifting its omicron-linked travel ban on southern Africa</a> NPR: The Biden administration on Friday said it was ordering the lifting of COVID-19 travel restrictions imposed earlier on eight  countries. The WHO had argued they were ineffective and unfair. 
  <p class="updated_time"> 01:40 PM CT, Dec. 24 </p> 
@@ -382,6 +380,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/21/dems-plot-path-after-manchin-derailment-495530">Dems plot path after Manchin derailment</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/21/the-search-for-a-plan-b-begins-495529"> The search for a Plan B begins</a> Politico Playbook: And Biden plans to deliver another big Covid speech. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/amazon-federal-law-enforcement-525794">How one of America’s largest employers leans on federal law enforcement</a> Politico: Amazon has increasingly tipped off the Justice Department and FBI to investigate its own employees and the sellers using its platform, according to a POLITICO analysis.  
  <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/democrats-riled-by-spanish-language-radio-attacks-on-kamala-harris-525787">Democrats riled by Spanish-language radio attacks on Kamala Harris</a> Politico: Political operatives and the radio hosts themselves say the uptick in calls is notable. Who, if anyone, is behind them remains unclear. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
