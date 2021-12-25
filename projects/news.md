@@ -416,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">White House lights up Manchin after he crushes Biden's megabill</a> Politico: The West Wing accused Manchin of "a breach of his commitments to the president and the senator’s colleagues in the House and Senate," in a blistering statement Sunday. 
  <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/black-lawmakers-diversity-lobbying-firms-525362">Black lawmakers threaten to cut off K St unless it diversifies</a> Politico: Years of frustration with the racial composition of the political influence industry have begun to boil over. 
- <p class="updated_time"> 03:30 PM CT, Dec. 18 </p> 
- <a href="https://www.cnn.com/2021/12/17/politics/harris-charlamagne-tha-god-interview-defends-biden/index.html">Harris defends Biden when questioned whether he or Manchin is President</a> CNN: Vice President Kamala Harris forcefully defended President Joe Biden when recently asked whether he or Sen. Joe Manchin is the president of the United States, as Biden's agenda remains stalled in part because of the West Virginia Democrat. 
 
 
 </details>
