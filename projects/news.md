@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:38 PM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-59787319?at_medium=RSS&at_campaign=KARANGA">In pictures: World celebrates Christmas</a> BBC: For the second year running, fewer people are attending festive events because of the Covid outbreak. 
+ <p class="updated_time"> 01:31 PM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/india-vaccine-boosters.html">India to Expand Vaccinations and Begin Boosters to Fight Omicron</a> NYT: Those 15 and older will be eligible for vaccination as of Jan. 3, and health workers and high-risk people over 60 can receive booster shots as of Jan. 10. 
+ <p class="updated_time"> 01:31 PM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/navy-ship-covid-guantanamo-bay.html">Covid Outbreak Strands U.S.S. Milwaukee in Guantánamo Bay</a> NYT: The crew held an open-air Christmas service on the pier, allowing the sailors to remain socially distanced. 
  <p class="updated_time"> 01:10 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/alfredo-lupi-janitor-italy.html">A Janitor’s Colleagues Put Him on the Fast Track to Retirement</a> NYT: An Italian factory worker was dealing with a lifelong impairment that made it hard to work, but he wasn’t in a position to retire. Then his co-workers gave him 20 months’ worth of vacation days. 
  <p class="updated_time"> 01:09 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/africa/sudan-coup-protests.html">Anti-Coup Protesters in Sudan Press Their Demand for Return to Civilian Rule</a> NYT: The protests on Saturday underscored the resolve of protesters to continue defying the Oct. 25 coup that derailed the country’s nascent attempt to transition to democratic rule. 
- <p class="updated_time"> 01:02 PM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/navy-ship-covid-guantanamo-bay.html">Covid Outbreak Strands U.S.S. Milwaukee in Guantánamo Bay</a> NYT: The crew held an open-air Christmas service on the pier, allowing the sailors to remain socially distanced. 
  <p class="updated_time"> 12:24 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/hindu-extremists-india-muslims.html">As Hindu Extremists Call for Killing of Muslims, India’s Leaders Keep Silent</a> NYT: Right-wing Hindu activists at a conference took an oath to harm Muslims if necessary to make “a Hindu-only nation,” the most blatant example of rising anti-Muslim sentiment across India. 
  <p class="updated_time"> 12:23 PM CT, Dec. 25 </p> 
@@ -25,14 +29,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/europe/ukraine-russia.html">As Russian Threat Looms, Ukraine’s Government Is No Laughing Matter</a> NYT: President Volodymyr Zelensky, a former actor, has surrounded himself with advisers from his old comedy troupe. No kidding. 
  <p class="updated_time"> 08:50 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/migrant-boat-greece.html">At Least 16 Dead After Migrant Boat Capsizes Off Greece</a> NYT: The wreck late Friday in the Aegean Sea, the third in Greek waters in three days, was another reminder of the risks asylum seekers face. 
- <p class="updated_time"> 08:29 AM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-59787319?at_medium=RSS&at_campaign=KARANGA">In pictures: World celebrates Christmas</a> BBC: For the second year running, fewer people are attending festive events because of the Covid outbreak. 
  <p class="updated_time"> 07:43 AM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1067966137/pope-francis-gives-an-early-christmas-eve-homily-with-a-pointed-message-on-humil">Pope Francis gives an early Christmas Eve homily with a pointed message on humility</a> NPR: Pope Francis celebrated Christmas Eve Mass in St. Peter's Basilica as COVID-19 infections surge in Italy. 
  <p class="updated_time"> 07:28 AM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1067966116/u-s-air-strikes-have-killed-thousands-of-civilians-nyt-magazine-investigation-fi">U.S. air strikes have killed thousands of civilians, NYT Magazine investigation finds</a> NPR: Scott Simon talks with Azmat Khan of the New York Times about U.S. drone strikes that have killed civilians in Iraq, Syria and Afghanistan. 
  <p class="updated_time"> 07:21 AM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/asia/china-wealth-flaunting.html">In China, Bragging About Your Wealth Can Get You Censored</a> NYT: Online posts by users showing off their receipts, over-ordering food or scattering money have been deemed vulgar. Regulators say such content leads young people astray. 
+ <a href="https://www.nytimes.com/2021/12/25/world/asia/china-money.html">Why Bragging About Your Wealth In China Can Get You Censored</a> NYT: Online posts by users showing off their receipts, over-ordering food or scattering money have been deemed vulgar. Regulators say such content leads young people astray. 
  <p class="updated_time"> 06:58 AM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1067966053/us-and-russian-officials-have-agreed-to-discuss-ukraine-tensions-and-role-of-nat">US and Russian officials have agreed to discuss Ukraine tensions and role of NATO</a> NPR: Ukraine and the West are still worried about Russian military aggression. Russian president Vladimir Putin addressed the situation during his end-of-the-year press conference. 
  <p class="updated_time"> 06:58 AM CT, Dec. 25 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-wales-59729022?at_medium=RSS&at_campaign=KARANGA">Art: 'People amazed I fold paper for a living, then they see it'</a> BBC: Artist Polly Verity loves the look and feel of paper and has been "lost in its landscape" for years. 
  <p class="updated_time"> 05:21 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59787369?at_medium=RSS&at_campaign=KARANGA">SA urges halt to Nelson Mandela's Robben Island prison cell key auction</a> BBC: Nelson Mandela, South Africa's first black president, spent 18 years in a tiny cell on Robben Island. 
- <p class="updated_time"> 05:14 PM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/business/omicron-christmas-travel.html">As Omicron Overshadows Christmas, Thousands of Flights Are Canceled</a> NYT: Travelers had hoped this holiday season would represent a return to relative normalcy. Instead, pilots are out and delays are piling up. 
  <p class="updated_time"> 04:59 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59786665?at_medium=RSS&at_campaign=KARANGA">French zoo closed temporarily after pack of nine wolves escape</a> BBC: No people were injured during the incident, but the wolf pack was killed due to safety concerns. 
  <p class="updated_time"> 04:13 PM CT, Dec. 24 </p> 
@@ -191,7 +191,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:03 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/britain-vaccines-jingle-jabs-526144">Thousands line up for ‘jingle jabs’ on Christmas in England</a> Politico: Health Secretary Sajid Javid urged people to “make the booster a part of your Christmas this year.” 
  <p class="updated_time"> 10:51 AM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/business/biden-antitrust-inflation-competition.html">Biden Turns to Antitrust Enforcers to Combat Inflation</a> NYT: A wide-ranging presidential order helped block a railroad merger and tackle supply-chain problems, and it is planting the seeds for bigger actions. 
+ <a href="https://www.nytimes.com/2021/12/25/business/biden-inflation.html">As Prices Rise Due to Inflation, Biden Turns to Antitrust Enforcers</a> NYT: A wide-ranging presidential order helped block a railroad merger and tackle supply-chain problems, and it is planting the seeds for bigger actions. 
  <p class="updated_time"> 09:42 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/covid-christmas-religion-hospitals-526143">Surging Covid cases make for another subdued Christmas Day</a> Politico: In many places, it was a day of overwhelmed hospitals, canceled flights and curbed religious observances. 
  <p class="updated_time"> 09:31 AM CT, Dec. 25 </p> 
