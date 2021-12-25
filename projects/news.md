@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:02 PM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/navy-ship-covid-guantanamo-bay.html">Covid Outbreak Strands U.S.S. Milwaukee in Guantánamo Bay</a> NYT: The crew held an open-air Christmas service on the pier, allowing the sailors to remain socially distanced. 
  <p class="updated_time"> 12:24 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/hindu-extremists-india-muslims.html">As Hindu Extremists Call for Killing of Muslims, India’s Leaders Keep Silent</a> NYT: Right-wing Hindu activists at a conference took an oath to harm Muslims if necessary to make “a Hindu-only nation,” the most blatant example of rising anti-Muslim sentiment across India. 
  <p class="updated_time"> 12:23 PM CT, Dec. 25 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/asia/li-tiantian-disappearance.html">Fury in China After Li Tiantian, an Outspoken Teacher, Disappears</a> NYT: Supporters of Li Tiantian believe that local officials may have sent her to a psychiatric hospital, a longstanding way of stifling and discrediting dissent. 
  <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/science/polar-bear.html">How to Catch a Polar Bear</a> NYT: First, spot the bear. 
- <p class="updated_time"> 08:19 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">As Humanitarian Disaster Looms, U.S. Opens Door for More Afghanistan Aid</a> NYT: The Treasury Department and the United Nations offered new protection for aid from sanctions meant to pressure the Taliban. 
  <p class="updated_time"> 07:01 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/health/covid-omicron-delta-hospitalizations.html">Omicron Infections Seem to Be Milder, Three Research Teams Report</a> NYT: The data offer a rare bit of good news. Still, hospitalizations are likely to increase simply because the variant is so contagious. 
  <p class="updated_time"> 06:40 PM CT, Dec. 22 </p> 
