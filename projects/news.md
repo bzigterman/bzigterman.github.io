@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:36 PM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/india-vaccine-boosters.html">India to Expand Vaccinations and Begin Boosters to Fight Omicron</a> NYT: Those 15 and older will be eligible for vaccination as of Jan. 3, and health workers and high-risk people over 60 can receive booster shots as of Jan. 10. 
  <p class="updated_time"> 02:43 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/25/1062812413/how-to-raise-kind-kids-a-booze-ban-bts-at-u-n-our-top-non-pandemic-global-storie">How to raise kind kids, a booze ban, BTS at U.N.: Our top non-pandemic global stories</a> NPR: Our most popular stories not about the pandemic included: advice on raising helpful kids, boy band BTS's U.N. appearance, why South Africa banned alcohol — and a very scary virus called Nipah. 
  <p class="updated_time"> 02:23 PM CT, Dec. 25 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/africa/sudan-coup-protests.html">Anti-Coup Protesters in Sudan Press Their Demand for Return to Civilian Rule</a> NYT: The protests on Saturday underscored the resolve of protesters to continue defying the Oct. 25 coup that derailed the country’s nascent attempt to transition to democratic rule. 
  <p class="updated_time"> 01:38 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59787319?at_medium=RSS&at_campaign=KARANGA">In pictures: World celebrates Christmas</a> BBC: For the second year running, fewer people are attending festive events because of the Covid outbreak. 
- <p class="updated_time"> 01:31 PM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/india-vaccine-boosters.html">India to Expand Vaccinations and Begin Boosters to Fight Omicron</a> NYT: Those 15 and older will be eligible for vaccination as of Jan. 3, and health workers and high-risk people over 60 can receive booster shots as of Jan. 10. 
  <p class="updated_time"> 01:10 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/alfredo-lupi-janitor-italy.html">A Janitor’s Colleagues Put Him on the Fast Track to Retirement</a> NYT: An Italian factory worker was dealing with a lifelong impairment that made it hard to work, but he wasn’t in a position to retire. Then his co-workers gave him 20 months’ worth of vacation days. 
  <p class="updated_time"> 12:24 PM CT, Dec. 25 </p> 
