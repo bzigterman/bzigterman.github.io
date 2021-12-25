@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:42 AM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the isolation period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
+ <p class="updated_time"> 05:41 AM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59789491?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Military cuts internet services ahead of planned protests</a> BBC: Web services are restricted in the capital ahead of demonstrations against the military coup. 
+ <p class="updated_time"> 05:37 AM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/europe/pope-francis-christmas-message.html">As Covid Disrupts a 2nd Christmas, Pope Prays for Healing and Peace</a> NYT: In his Christmas message, Pope Francis called on world leaders to resolve persisting conflicts and prayed for people across the globe who are affected by the coronavirus. 
  <p class="updated_time"> 05:00 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/canada/another-covid-christmas.html">Another Covid Christmas …</a> NYT: December went by like an Omicron advent calendar, each passing day revealing how the virus’s trajectory would change hoped-for holiday plans. 
- <p class="updated_time"> 04:54 AM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the isolation period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
  <p class="updated_time"> 04:00 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/middleeast/west-bank-entertainment-complex-israel.html">A New Israeli Wonderland, Where You Can Almost Forget Where You Are</a> NYT: An alien spaceship theme park, an Italian Renaissance-style mall, a canal with gondolas. “Nothing in Israel compares with it,” the developer says. There’s just one catch. 
  <p class="updated_time"> 04:00 AM CT, Dec. 25 </p> 
@@ -75,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/europe/covid-britain-omicron-christmas.html">Despite Omicron Wave, Britons Are Set on Not Losing Another Christmas</a> NYT: For Christmas shoppers in central London this week, little seemed to dampen their spirits. But there was an undercurrent that the city was bracing for further coronavirus restrictions. 
  <p class="updated_time"> 07:21 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/migrant-boat-crash-greece.html">Second Deadly Migrant Boat Crash Off Greece This Week</a> NYT: Ninety people were left stranded after Thursday’s accident. The crash came in a week that also saw scores of migrants die in wrecks off the coast of Libya. 
- <p class="updated_time"> 06:27 AM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59779924?at_medium=RSS&at_campaign=KARANGA">Pregnant woman among 15 charged for Uganda attacks</a> BBC: Police say the suspects are linked to four attacks by a branch of the Islamic State group. 
  <p class="updated_time"> 06:04 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/bangladesh-ferry-fire.html">Fire on Crowded Bangladesh Ferry Leaves Dozens Dead</a> NYT: Officials confirmed 35 deaths, but they said the toll was likely to rise as search and rescue continued. 
  <p class="updated_time"> 05:32 AM CT, Dec. 24 </p> 
