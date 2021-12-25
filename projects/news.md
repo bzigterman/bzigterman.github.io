@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:43 AM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the isolation period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
+ <p class="updated_time"> 08:43 AM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/europe/migrant-boat-greece.html">At Least 16 Dead After Migrant Boat Capsizes Off Greece</a> NYT: The wreck late Friday in the Aegean Sea, the third in Greek waters in three days, was another reminder of the risks asylum seekers face in a bid to seek better lives. 
  <p class="updated_time"> 08:29 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59787319?at_medium=RSS&at_campaign=KARANGA">In pictures: World celebrates Christmas</a> BBC: For the second year running, fewer people are attending festive events because of the Covid outbreak. 
  <p class="updated_time"> 07:43 AM CT, Dec. 25 </p> 
@@ -27,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59790251?at_medium=RSS&at_campaign=KARANGA">Pope's Christmas Day message</a> BBC: Pope Francis gave his traditional Christmas message followed by his blessing, Urbi et Orbi, to the city and the world. 
  <p class="updated_time"> 05:49 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/pope-francis-christmas-message.html">As Covid Disrupts a 2nd Christmas, Pope Prays for Healing and Peace</a> NYT: In his Christmas message, Pope Francis called on world leaders to resolve persisting conflicts and prayed for people across the globe who are affected by the coronavirus. 
- <p class="updated_time"> 05:42 AM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the isolation period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
  <p class="updated_time"> 05:41 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59789491?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Military cuts internet services ahead of planned protests</a> BBC: Web services are restricted in the capital ahead of demonstrations against the military coup. 
  <p class="updated_time"> 05:00 AM CT, Dec. 25 </p> 
@@ -178,6 +180,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:42 AM CT, Dec. 25 </p> 
+ <a href="https://www.politico.com/news/2021/12/25/covid-christmas-religion-hospitals-526143">Surging Covid cases make for another subdued Christmas Day</a> Politico: In many places, it was a day of overwhelmed hospitals, canceled flights and curbed religious observances. 
  <p class="updated_time"> 08:44 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/25/the-manchin-dance-continues-on-christmas-495551"> The Manchin dance continues on Christmas</a> Politico Playbook: And a judge continues prior restraint on the NYT. 
  <p class="updated_time"> 08:33 AM CT, Dec. 25 </p> 
@@ -187,7 +191,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:19 AM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1067966109/house-committee-investigating-jan-6-insurrection-calls-congress-members-to-testi">House committee investigating Jan. 6 insurrection calls Congress members to testify</a> NPR: The House select committee investigating the Jan. 6 insurrection is asking fellow members of Congress to cooperate in the probe. 
  <p class="updated_time"> 07:00 AM CT, Dec. 25 </p> 
- <a href="https://www.politico.com/news/2021/12/25/biden-puerto-rico-electricity-network-526102">Can Biden’s green policies save Puerto Rico’s failing power grid?</a> Politico: The crumbling electricity network that serves the island's 3 million people is at the center of a debate on renewable energy vs. fossil fuels — with billions of federal dollars at stake. 
+ <a href="https://www.politico.com/news/2021/12/25/biden-puerto-rico-electricity-network-526102">Puerto Rico’s shattered power grid could become a ‘big experiment’ for Biden</a> Politico: The crumbling electricity network that serves the island's 3 million people is at the center of a debate on renewable energy vs. fossil fuels — with billions of federal dollars at stake. 
  <p class="updated_time"> 07:00 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/national-patient-ids-privacy-526096">Bid to fund national patient IDs revives privacy fight</a> Politico: Its ultimate fate is still tied to uncertainties surrounding the appropriations process and an overdue report on the benefits and risks from HHS' health information technology office. 
  <p class="updated_time"> 05:03 AM CT, Dec. 25 </p> 
@@ -382,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/21/dems-plot-path-after-manchin-derailment-495530">Dems plot path after Manchin derailment</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/21/the-search-for-a-plan-b-begins-495529"> The search for a Plan B begins</a> Politico Playbook: And Biden plans to deliver another big Covid speech. 
- <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/amazon-federal-law-enforcement-525794">How one of America’s largest employers leans on federal law enforcement</a> Politico: Amazon has increasingly tipped off the Justice Department and FBI to investigate its own employees and the sellers using its platform, according to a POLITICO analysis.  
  <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/democrats-riled-by-spanish-language-radio-attacks-on-kamala-harris-525787">Democrats riled by Spanish-language radio attacks on Kamala Harris</a> Politico: Political operatives and the radio hosts themselves say the uptick in calls is notable. Who, if anyone, is behind them remains unclear. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
