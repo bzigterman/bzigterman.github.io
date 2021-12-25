@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:46 PM CT, Dec. 25 </p> 
+ <a href="https://www.npr.org/2021/12/25/1068016227/whirling-dervishes-rumi">Photos: Whirling dervish ritual honors Rumi, the Sufi mystic poet</a> NPR: Each year, thousands of people travel to the Turkish city of Konya to attend a series of events and ceremonies that mark the death of the 13th-century Islamic poet, scholar and Sufi mystic Rumi. 
  <p class="updated_time"> 05:28 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/americas/el-salvador-abortion-bukele.html">El Salvador Releases 3 Women Serving Long Prison Sentences for Abortions</a> NYT: The three women, who had suffered obstetric emergencies, had been sentenced to 30 years in prison under the nation’s strict anti-abortion laws. 
  <p class="updated_time"> 05:19 PM CT, Dec. 25 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/arts/music/carols-christmas-kings-choir-mcdowall.html">Cecilia McDowall to Debut New Christmas Carol</a> NYT: Each year, the choir of King’s College, Cambridge, commissions an original song for its Christmas service, giving the composer an audience of around 100 million people. 
  <p class="updated_time"> 01:56 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59787060?at_medium=RSS&at_campaign=KARANGA">'Let's go, Brandon': Caller pranks Biden at White House event</a> BBC: A father from Oregon uttered a term that is code for an obscenity directed at the president. 
- <p class="updated_time"> 01:49 PM CT, Dec. 24 </p> 
- <a href="https://www.npr.org/2021/12/24/1067875042/the-u-s-is-lifting-its-omicron-linked-travel-ban-on-southern-africa">The U.S. is lifting its omicron-linked travel ban on southern Africa</a> NPR: The Biden administration on Friday said it was ordering the lifting of COVID-19 travel restrictions imposed earlier on eight  countries. The WHO had argued they were ineffective and unfair. 
  <p class="updated_time"> 01:47 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop star Suga discovered that he was infected after returning to South Korea from the United States. 
  <p class="updated_time"> 11:34 AM CT, Dec. 24 </p> 
