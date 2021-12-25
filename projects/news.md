@@ -186,6 +186,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:53 PM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/biden-jill-joe-christmas-armed-forces-526147">Bidens chat with service members by video</a> Politico: The president called members of the Armed Forces “the solid steel spine of the nation.” 
+ <p class="updated_time"> 01:50 PM CT, Dec. 25 </p> 
+ <a href="https://www.cnn.com/2021/12/25/politics/joe-biden-service-members-christmas-remarks/index.html">Biden thanks service members in Christmas remarks</a> CNN: President Joe Biden thanked service members stationed across the globe for their service in a Christmas Day virtual meeting from the White House. 
  <p class="updated_time"> 12:58 PM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/flight-cancellations-covid-christmas-526146">Flight cancellations continue</a> Politico: Airlines said the omicron variant was causing staffing problems leading to flight cancellations. 
  <p class="updated_time"> 12:46 PM CT, Dec. 25 </p> 
