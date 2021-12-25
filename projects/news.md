@@ -7,8 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:04 AM CT, Dec. 25 </p> 
+ <p class="updated_time"> 06:58 AM CT, Dec. 25 </p> 
+ <a href="https://www.npr.org/2021/12/25/1067966053/us-and-russian-officials-have-agreed-to-discuss-ukraine-tensions-and-role-of-nat">US and Russian officials have agreed to discuss Ukraine tensions and role of NATO</a> NPR: Ukraine and the West are still worried about Russian military aggression. Russian president Vladimir Putin addressed the situation during his end-of-the-year press conference. 
+ <p class="updated_time"> 06:58 AM CT, Dec. 25 </p> 
+ <a href="https://www.npr.org/2021/12/25/1067966039/christmas-celebrations-in-bethlehem-are-intimate-this-year">Christmas celebrations in Bethlehem are intimate this year</a> NPR: With the usual throngs of foreigners absent, Palestinian Muslims and Christians gathered in Manger Square and the Church of the Nativity in Bethlehem to celebrate Christmas. 
+ <p class="updated_time"> 06:53 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59789770?at_medium=RSS&at_campaign=KARANGA">Pope Francis Urbi et Orbi address: World ignoring huge tragedies</a> BBC: In his Christmas Day speech, the Pope said "immense tragedies" were being passed over in near silence. 
+ <p class="updated_time"> 06:38 AM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59790601?at_medium=RSS&at_campaign=KARANGA">James Webb Space Telescope lifts off on historic mission</a> BBC: The $10bn James Webb telescope has left Earth on its mission to show the first stars to light up the Universe. 
+ <p class="updated_time"> 05:50 AM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59790251?at_medium=RSS&at_campaign=KARANGA">Pope's Christmas Day message</a> BBC: Pope Francis gave his traditional Christmas message followed by his blessing, Urbi et Orbi, to the city and the world. 
  <p class="updated_time"> 05:49 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/pope-francis-christmas-message.html">As Covid Disrupts a 2nd Christmas, Pope Prays for Healing and Peace</a> NYT: In his Christmas message, Pope Francis called on world leaders to resolve persisting conflicts and prayed for people across the globe who are affected by the coronavirus. 
  <p class="updated_time"> 05:42 AM CT, Dec. 25 </p> 
@@ -129,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59701734?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 17-23 December 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 06:07 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review.html">Bros' Restaurant in Italy: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
- <p class="updated_time"> 06:00 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59760229?at_medium=RSS&at_campaign=KARANGA">James Webb Space Telescope: How does it work?</a> BBC: The telescope has been 30 years in the making and is nearly ready to launch, but what makes it so special? 
  <p class="updated_time"> 05:55 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html">Israel May Give 4th Dose of Covid Shot, Despite Experts' Doubts</a> NYT: Some scientists warn that too many shots might actually harm the body’s ability to fight the Covid-19 virus. But Israeli experts say there isn’t time to wait. 
  <p class="updated_time"> 05:36 PM CT, Dec. 23 </p> 
@@ -143,20 +149,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/lapid-israel-nuclear-iran-palestinians.html">Lapid Says Israel Will Support Iran Nuclear Pact, if It’s ‘a Good Deal.’</a> NYT: The Israeli foreign minister said “we have no problem with a deal,” but perhaps because he thinks the prospects of an agreement are remote. 
  <p class="updated_time"> 03:35 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067598864/encore-encouraging-collaboration-early-on-can-lead-to-more-helpful-children">Encore: Encouraging collaboration early on can lead to more helpful children</a> NPR: In many cultures around the world, parents don't need chore charts or allowances for kids to pitch in around the house. A new study shows how parents in these cultures teach children to be helpful. 
- <p class="updated_time"> 01:04 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59776765?at_medium=RSS&at_campaign=KARANGA">James Franco: I'll admit, I did sleep with students... and that was wrong</a> BBC: The actor paid $2.2m (£1.6m) after being sued over "sexually-charged behaviour towards female students". 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
  <p class="updated_time"> 11:20 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/china-winter-olympic-spectators.html">China tells Winter Olympic spectators to clap, not cheer, for athletes, and Xi’an, a major city, locks down.</a> NYT: As the Omicron variant spreads elsewhere, China is taking elaborate precautions to prevent the virus from reaching participants when the Games start in February. 
- <p class="updated_time"> 05:36 AM CT, Dec. 23 </p> 
- <a href="https://www.npr.org/2021/12/23/1067188698/putin-urges-west-to-act-quickly-to-offer-security-guarantees">Putin urges West to act quickly to offer security guarantees</a> NPR: Russian President Vladimir Putin urged the West on Thursday to move quickly to meet Russia's demand for security guarantees precluding NATO's expansion to Ukraine. 
  <p class="updated_time"> 04:31 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/li-tiantian-disappearance.html">Fury in China After Li Tiantian, an Outspoken Teacher, Disappears</a> NYT: Supporters of Li Tiantian believe that local officials may have sent her to a psychiatric hospital, a longstanding way of stifling and discrediting dissent. 
  <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/science/polar-bear.html">How to Catch a Polar Bear</a> NYT: First, spot the bear. 
- <p class="updated_time"> 02:30 AM CT, Dec. 23 </p> 
- <a href="https://www.npr.org/2021/12/23/1067169021/changing-climate-parches-afghanistan-exacerbating-poverty">Changing climate parches Afghanistan, exacerbating poverty</a> NPR: A severe drought, now in its second year, has dramatically worsened the already desperate situation in the country with an economy in freefall following the Taliban takeover in August. 
  <p class="updated_time"> 08:19 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">As Humanitarian Disaster Looms, U.S. Opens Door for More Afghanistan Aid</a> NYT: The Treasury Department and the United Nations offered new protection for aid from sanctions meant to pressure the Taliban. 
  <p class="updated_time"> 07:01 PM CT, Dec. 22 </p> 
@@ -176,6 +176,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Dec. 25 </p> 
+ <a href="https://www.politico.com/news/2021/12/25/biden-puerto-rico-electricity-network-526102">Can Biden’s green policies save Puerto Rico’s failing power grid?</a> Politico: The crumbling electricity network that serves the island's 3 million people is at the center of a debate on renewable energy vs. fossil fuels — with billions of federal dollars at stake. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 25 </p> 
+ <a href="https://www.politico.com/news/2021/12/25/national-patient-ids-privacy-526096">Bid to fund national patient IDs revives privacy fight</a> Politico: Its ultimate fate is still tied to uncertainties surrounding the appropriations process and an overdue report on the benefits and risks from HHS' health information technology office. 
  <p class="updated_time"> 05:03 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/23/science/webb-nasa-launch-delay.html">How NASA's Webb Telescope Overcame Loose Screws, Budgets and Clamps</a> NYT: Getting the James Webb Space Telescope to the launchpad has been a difficult journey that has taken decades. 
  <p class="updated_time"> 08:55 PM CT, Dec. 24 </p> 
@@ -214,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/24/politics/bernard-kerik-january-6-committee/index.html">Giuliani associate Bernard Kerik plans to publicly release some documents requested by January 6 committee</a> CNN: Former New York City Police Commissioner Bernard Kerik says he is planning to publicly release some documents requested by the House select committee investigating January 6. 
  <p class="updated_time"> 08:45 AM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/trump-covid-vaccine-republicans-polling/index.html">Trump's endorsement of vaccines aligns with most Republicans' views -- but it may be an uphill battle to convince the holdouts</a> CNN: Former President Donald Trump has recently been vocal about the benefits of vaccination against Covid-19 -- a position that's in line with the overwhelming majority of Americans who've chosen to get vaccinated, including the bulk of his own party. 
- <p class="updated_time"> 08:42 AM CT, Dec. 24 </p> 
- <a href="https://www.politico.com/news/2021/12/24/lufthansa-united-delta-cancel-flights-over-christmas-526131">United, Delta, Lufthansa cancel flights over Christmas</a> Politico: The cancellations come as coronavirus infections fueled by the new variant further squeeze staffing at hospitals, police departments, supermarkets and other critical operations. 
  <p class="updated_time"> 08:29 AM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/trump-vaccine-election-what-matters/index.html">Trump pushes one truth and hides another</a> CNN: There are things that former President Donald Trump wants to talk about, like vaccines, and things he'd rather keep quiet, like what exactly happened in the White House leading up to January 6. 
  <p class="updated_time"> 08:12 AM CT, Dec. 24 </p> 
@@ -274,12 +276,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/23/politics/als-research-biden-bill-signing/index.html">Biden says bipartisan legislation funding ALS research 'represents the spirit of the season' </a> CNN: President Joe Biden on Thursday signed into law bipartisan legislation that expands funding for amyotrophic lateral sclerosis research, hailing it as in "the spirit of the season." 
  <p class="updated_time"> 03:56 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067598857/the-trump-supporters-who-went-from-planning-the-jan-6-rally-to-aiding-the-riot-p">The Trump supporters who went from planning the Jan. 6 rally to aiding the riot probe</a> NPR: NPR's Ari Shapiro talks with reporter Hunter Walker, who wrote a Rolling Stone article on Dustin Stockton and Jennifer Lynn Lawrence, the Trump supporters now cooperating with the Jan. 6 House panel. 
- <p class="updated_time"> 03:40 PM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/apple-google-doj-delay-526072">Potential DOJ suits against Apple and Google delayed amid budget woes</a> Politico: Antitrust prosecutors had aimed to wrap up their probes of the two tech giants by Dec. 31. But now a decision on whether to sue could come in March or later. 
  <p class="updated_time"> 03:35 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067598901/president-biden-faces-pressure-to-end-fossil-fuel-development-to-fight-climate-c">President Biden faces pressure to end fossil fuel development to fight climate change</a> NPR: President Biden faces pressure to end fossil fuel development on federal land to fight climate change. But industry expects new drilling opportunities, putting his public lands chief in a tight spot. 
- <p class="updated_time"> 03:11 PM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/climate-spending-washington-communities-526077">A flood of climate aid is coming from Washington. Will those who need it miss out?</a> Politico: Advocates for communities seeking a piece of the hundreds of billions of dollars in new assistance worry that the process may be "too weighty, too heavy and too full of bureaucracy." 
  <p class="updated_time"> 02:12 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/kamala-harris-biden-administration.html">Heir Apparent or Afterthought? The Frustrations of Kamala Harris.</a> NYT: The vice president’s allies are increasingly concerned that President Biden relied on her to win but does not need her to govern. 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
