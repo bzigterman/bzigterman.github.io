@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:43 AM CT, Dec. 25 </p> 
+ <a href="https://www.npr.org/2021/12/25/1067966137/pope-francis-gives-an-early-christmas-eve-homily-with-a-pointed-message-on-humil">Pope Francis gives an early Christmas Eve homily with a pointed message on humility</a> NPR: Pope Francis celebrated Christmas Eve Mass in St. Peter's Basilica as COVID-19 infections surge in Italy. 
  <p class="updated_time"> 07:28 AM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1067966116/u-s-air-strikes-have-killed-thousands-of-civilians-nyt-magazine-investigation-fi">U.S. air strikes have killed thousands of civilians, NYT Magazine investigation finds</a> NPR: Scott Simon talks with Azmat Khan of the New York Times about U.S. drone strikes that have killed civilians in Iraq, Syria and Afghanistan. 
  <p class="updated_time"> 07:21 AM CT, Dec. 25 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">Park Geun-hye, Ex-Leader of South Korea, to Be Pardoned </a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
  <p class="updated_time"> 11:09 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/business/japan-defense-spending.html">Japan Approves Major Hike in Military Spending, With Taiwan in Mind</a> NYT: The budget increase, the biggest in decades, comes as officials warn that tensions over Taiwan could pull Japan into a conflict between the United States and China. 
- <p class="updated_time"> 10:03 PM CT, Dec. 23 </p> 
- <a href="https://www.npr.org/2021/12/23/1067749297/south-korea-president-pardoned">South Korea pardons a former president imprisoned on corruption charges</a> NPR: The South Korean government says it will grant a special pardon to former President Park Geun-hye, 69, who is serving a lengthy prison term for bribery and other crimes. 
  <p class="updated_time"> 08:46 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/australia/koala-massacre-cape-bridgewater.html">‘Koala Massacre’: Australia Files Hundreds of Animal Cruelty Charges</a> NYT: A property owner and two companies in Australia were charged after a land-clearing operation left dozens of the marsupials dead, injured or starving. 
  <p class="updated_time"> 08:45 PM CT, Dec. 23 </p> 
@@ -178,6 +178,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:44 AM CT, Dec. 25 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/25/the-manchin-dance-continues-on-christmas-495551"> The Manchin dance continues on Christmas</a> Politico Playbook: And a judge continues prior restraint on the NYT. 
  <p class="updated_time"> 08:33 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/space-telescope-launch-526142">Space telescope launched on daring quest to behold 1st stars</a> Politico: NASA’s James Webb Space Telescope soared from French Guiana on South America’s northeastern coast. 
  <p class="updated_time"> 08:06 AM CT, Dec. 25 </p> 
