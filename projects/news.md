@@ -7,20 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:20 AM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
+ <p class="updated_time"> 03:02 AM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59788231?at_medium=RSS&at_campaign=KARANGA">Covid: Holiday plans disrupted as Omicron surge grounds flights</a> BBC: Airlines say they are experiencing Covid-related staffing shortages over the busy Christmas period. 
  <p class="updated_time"> 01:41 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-59777677?at_medium=RSS&at_campaign=KARANGA">ICYMI: Christmas moments you may have missed from around the globe</a> BBC: A New York neighbourhood going all out for the holidays and other stories you may have missed this week. 
  <p class="updated_time"> 01:18 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59787319?at_medium=RSS&at_campaign=KARANGA">In pictures: World celebrates Christmas</a> BBC: For the second year running, fewer people are attending festive events because of the Covid outbreak. 
  <p class="updated_time"> 12:08 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
- <p class="updated_time"> 11:21 PM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59788231?at_medium=RSS&at_campaign=KARANGA">Covid: US airlines scrap hundreds of flights amid Omicron surge</a> BBC: Airlines say they are experiencing Covid-related staffing shortages over the busy Christmas period. 
  <p class="updated_time"> 08:57 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067923677/once-again-covid-means-scaled-back-christmas-celebrations-around-the-world">Once again, COVID means scaled-back Christmas celebrations around the world</a> NPR: From Bethlehem and Frankfurt to Boston, the surging coronavirus put a damper on Christmas Eve for a second year, forcing churches to cancel or scale back services and disrupting travel plans. 
  <p class="updated_time"> 07:54 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the isolation period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
- <p class="updated_time"> 07:50 PM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 06:15 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59738548?at_medium=RSS&at_campaign=KARANGA">No time for war: Russians see no chance of conflict</a> BBC: With rhetoric becoming harsh and fears of an invasion growing, Muscovites give their views on the crisis. 
  <p class="updated_time"> 06:10 PM CT, Dec. 24 </p> 
