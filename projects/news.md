@@ -418,8 +418,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/18/its-just-completely-delusional-495520"> ‘It’s just completely delusional’</a> Politico Playbook: And the Senate adjourns for the year. 
  <p class="updated_time"> 09:11 AM CT, Dec. 18 </p> 
  <a href="https://www.politico.com/news/2021/12/18/cruz-vote-russian-pipeline-sanctions-schumer-525334">Cruz secures vote on Russian pipeline sanctions in deal with Schumer</a> Politico: Cruz agreed to lift his holds on 32 nominees in exchange for the Senate voting in early January on his legislation to sanction the pipeline. 
- <p class="updated_time"> 07:52 AM CT, Dec. 18 </p> 
- <a href="https://www.politico.com/news/2021/12/18/stop-the-steal-founder-jan-6-committee-gop-lawmakers-525345">‘Stop the Steal’ founder told Jan. 6 committee about contacts with GOP lawmakers</a> Politico: The description of the testimony comes in a lawsuit Ali Alexander filed to block the committee from obtaining his phone records. 
 
 
 </details>
