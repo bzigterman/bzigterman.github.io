@@ -175,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/world/europe/migrant-boat-sinks-greece.html">Three Dead and Many Missing as Migrant Boat Sinks Near Greece</a> NYT: The sinking came just weeks after 27 people drowned trying to cross the English Channel, another stark reminder of the lethal risks facing asylum seekers. 
  <p class="updated_time"> 04:58 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/california-booster-mandate-feb-1.html">California Requires Health Workers to Get Boosters by Feb. 1</a> NYT: Gov. Gavin Newsom said more than half of the sequenced cases in the state have been identified as the Omicron variant, but the real number is probably higher. 
- <p class="updated_time"> 03:49 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/nyregion/citymd-temporary-closings-covid.html">CityMD Temporarily Shuts 19 Locations Amid Urgent Testing Demands</a> NYT: The closures began on Wednesday, and CityMD has not said how long they will last. 
 
 
 </details>
@@ -184,6 +182,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:03 PM CT, Dec. 25 </p> 
+ <a href="https://www.npr.org/2021/12/25/1068008393/rep-pete-aguilar-discusses-the-jan-6-panels-progress-as-anniversary-approaches">Rep. Pete Aguilar discusses the Jan. 6 panel's progress as anniversary approaches</a> NPR: NPR's Elissa Nadworny speaks with Jan. 6 committee member Rep. Pete Aguilar, D-Calif., about where his panel's investigation stands ahead of the one-year anniversary of the attack. 
  <p class="updated_time"> 02:53 PM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/biden-jill-joe-christmas-armed-forces-526147">Bidens chat with service members by video</a> Politico: The president called members of the Armed Forces “the solid steel spine of the nation.” 
  <p class="updated_time"> 01:50 PM CT, Dec. 25 </p> 
@@ -348,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/22/politics/biden-vaccine-mandate-oral-arguments-supreme-court/index.html">In rare move, SCOTUS will hear January oral arguments in challenges to Biden vaccine mandates</a> CNN: The Supreme Court said Wednesday it is scheduling oral arguments for January 7 in the cases challenging the Biden administration's Covid-19 vaccine requirements for large employers and certain health care workers. 
  <p class="updated_time"> 09:43 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/kamala-harris-covid.html">Vice President Kamala Harris Was Exposed to Covid</a> NYT: President Biden had also been in close contact with a staff member who later tested positive. 
- <p class="updated_time"> 08:15 PM CT, Dec. 22 </p> 
- <a href="https://www.npr.org/2021/12/22/1067138785/biden-teases-possible-rematch-against-donald-trump-why-would-i-not">Biden teases possible rematch against Donald Trump. 'Why would I not?'</a> NPR: In an interview with ABC News on Wednesday, the president discussed his political future and what his administration would do to fight the spike in coronavirus cases. 
  <p class="updated_time"> 08:12 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/supreme-court-special-session-vaccine-requirements-526030">Supreme Court to hold special session on vaccine requirements</a> Politico: The high court announced late Wednesday that it would hear arguments in the cases on Jan. 7. 
  <p class="updated_time"> 07:32 PM CT, Dec. 22 </p> 
