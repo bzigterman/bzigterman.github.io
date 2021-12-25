@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/middleeast/west-bank-entertainment-complex-israel.html">A New Israeli Wonderland, Where You Can Almost Forget Where You Are</a> NYT: An alien spaceship theme park, an Italian Renaissance-style mall, a canal with gondolas. “Nothing in Israel compares with it,” the developer says. There’s just one catch. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/africa/africa-coronavirus-omicron.html">Many African Countries Toughen Covid Restrictions as Fourth Wave Spreads</a> NYT: Infections have more than doubled or tripled in many countries, prompting the authorities to reimpose curfews and quarantines and introduce vaccine mandates as the holiday season gets underway. 
  <p class="updated_time"> 03:20 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 03:02 AM CT, Dec. 25 </p> 
