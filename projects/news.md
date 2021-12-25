@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:57 PM CT, Dec. 24 </p> 
+ <a href="https://www.npr.org/2021/12/24/1067923677/once-again-covid-means-scaled-back-christmas-celebrations-around-the-world">Once again, COVID means scaled-back Christmas celebrations around the world</a> NPR: From Bethlehem and Frankfurt to Boston, the surging coronavirus put a damper on Christmas Eve for a second year, forcing churches to cancel or scale back services and disrupting travel plans. 
  <p class="updated_time"> 07:54 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the isolation period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
  <p class="updated_time"> 07:51 PM CT, Dec. 24 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/science/polar-bear.html">How to Catch a Polar Bear</a> NYT: First, spot the bear. 
  <p class="updated_time"> 02:30 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067169021/changing-climate-parches-afghanistan-exacerbating-poverty">Changing climate parches Afghanistan, exacerbating poverty</a> NPR: A severe drought, now in its second year, has dramatically worsened the already desperate situation in the country with an economy in freefall following the Taliban takeover in August. 
- <p class="updated_time"> 01:23 AM CT, Dec. 23 </p> 
- <a href="https://www.npr.org/2021/12/23/1067163101/hong-kong-university-removes-tiananmen-massacre-statue">Hong Kong university removes Tiananmen massacre statue</a> NPR: A monument at a Hong Kong university that commemorates the 1989 Tiananmen Square massacre was removed by workers early Thursday. Workers had erected barricades around the monument late Wednesday. 
  <p class="updated_time"> 08:19 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">As Humanitarian Disaster Looms, U.S. Opens Door for More Afghanistan Aid</a> NYT: The Treasury Department and the United Nations offered new protection for aid from sanctions meant to pressure the Taliban. 
  <p class="updated_time"> 07:01 PM CT, Dec. 22 </p> 
