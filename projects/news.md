@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:23 PM CT, Dec. 24 </p> 
+ <p class="updated_time"> 07:54 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the isolation period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
+ <p class="updated_time"> 07:51 PM CT, Dec. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-59787319?at_medium=RSS&at_campaign=KARANGA">In pictures: World celebrates Christmas</a> BBC: For the second year running, fewer people are attending festive events because of the Covid outbreak. 
+ <p class="updated_time"> 07:50 PM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 06:15 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59738548?at_medium=RSS&at_campaign=KARANGA">No time for war: Russians see no chance of conflict</a> BBC: With rhetoric becoming harsh and fears of an invasion growing, Muscovites give their views on the crisis. 
  <p class="updated_time"> 06:10 PM CT, Dec. 24 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1067875042/the-u-s-is-lifting-its-omicron-linked-travel-ban-on-southern-africa">The U.S. is lifting its omicron-linked travel ban on southern Africa</a> NPR: The Biden administration on Friday said it was ordering the lifting of COVID-19 travel restrictions imposed earlier on eight  countries. The WHO had argued they were ineffective and unfair. 
  <p class="updated_time"> 01:47 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop star Suga discovered that he was infected after returning to South Korea from the United States. 
- <p class="updated_time"> 12:43 PM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 12:21 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59780489?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Fifth woman accuses Sex and the City actor of misconduct</a> BBC: US singer Lisa Gentile alleges the Sex and the City actor groped her in a New York apartment in 2002. 
  <p class="updated_time"> 12:15 PM CT, Dec. 24 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1066861022/how-the-soviet-unions-collapse-explains-the-current-russia-ukraine-tension">How the Soviet Union's collapse explains the current Russia-Ukraine tension</a> NPR: To understand the friction between Russia and Ukraine, it's important to go back to 1991. Exactly 30 years ago this weekend, the Soviet Union formally dissolved and broke up into 15 separate nations. 
  <p class="updated_time"> 04:58 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59779376?at_medium=RSS&at_campaign=KARANGA">Russian priest who adopted 70 children jailed for abuse</a> BBC: Nikolai Stremsky, reputed to have had Russia's biggest family, is convicted of raping children. 
- <p class="updated_time"> 04:09 AM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59780064?at_medium=RSS&at_campaign=KARANGA">James Franco accusers call him 'completely insensitive' after interview</a> BBC: Oscar-nominated actor James Franco recently admitted having sex with students at his drama school. 
  <p class="updated_time"> 04:02 AM CT, Dec. 24 </p> 
  <a href="https://www.wsj.com/articles/how-the-afghanistan-taliban-outwitted-and-outwaited-the-u-s-11640355270">How the Taliban Outwitted and Outwaited the U.S.</a> WSJ: Islamist movement spoke of moderation as it solidified gains on the battlefield, taking Washington and its Afghan allies by surprise. 
  <p class="updated_time"> 04:00 AM CT, Dec. 24 </p> 
@@ -168,6 +168,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:55 PM CT, Dec. 24 </p> 
+ <a href="https://www.politico.com/news/2021/12/24/trump-spokesperson-sues-jan-6-committee-financial-records-526139">Trump spokesperson sues Jan. 6 committee over financial records</a> Politico: Taylor Budowich is trying to block disclosure of information from J.P. Morgan Chase Bank. 
  <p class="updated_time"> 07:44 PM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/navy-warship-milwaukee-covid-526138">U.S. Navy warship sidelined with Covid outbreak</a> Politico: The USS Milwaukee is staying in port. 
  <p class="updated_time"> 06:10 PM CT, Dec. 24 </p> 
@@ -270,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/23/climate-spending-washington-communities-526077">A flood of climate aid is coming from Washington. Will those who need it miss out?</a> Politico: Advocates for communities seeking a piece of the hundreds of billions of dollars in new assistance worry that the process may be "too weighty, too heavy and too full of bureaucracy." 
  <p class="updated_time"> 02:12 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/kamala-harris-biden-administration.html">Heir Apparent or Afterthought? The Frustrations of Kamala Harris.</a> NYT: The vice president’s allies are increasingly concerned that President Biden relied on her to win but does not need her to govern. 
- <p class="updated_time"> 02:10 PM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/joan-didion-dies-526068">Joan Didion, peerless prose stylist, dies at 87</a> Politico: The revered author and essayist was a uniquely clear-eyed critic of turbulent times. 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
  <p class="updated_time"> 12:46 PM CT, Dec. 23 </p> 
