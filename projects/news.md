@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:28 PM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/americas/el-salvador-abortion-bukele.html">El Salvador Releases 3 Women Serving Long Prison Sentences for Abortions</a> NYT: The three women, who had suffered obstetric emergencies, had been sentenced to 30 years in prison under the nation’s strict anti-abortion laws. 
+ <p class="updated_time"> 05:19 PM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59792120?at_medium=RSS&at_campaign=KARANGA">Surfer killed in apparent shark attack in California</a> BBC: Beachgoers in Morro Bay area are ordered to stay out of the water after an accident on Christmas Eve. 
  <p class="updated_time"> 04:51 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1068012842/la-palma-volcano-eruption-ends">La Palma's volcanic eruption is officially over, but its devastating toll lingers</a> NPR: Authorities on the Canary Islands declared an eruption that started in September officially finished following 10 days of no lava flows, seismic activity or significant sulfur dioxide emissions. 
  <p class="updated_time"> 04:36 PM CT, Dec. 25 </p> 
@@ -113,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1067875042/the-u-s-is-lifting-its-omicron-linked-travel-ban-on-southern-africa">The U.S. is lifting its omicron-linked travel ban on southern Africa</a> NPR: The Biden administration on Friday said it was ordering the lifting of COVID-19 travel restrictions imposed earlier on eight  countries. The WHO had argued they were ineffective and unfair. 
  <p class="updated_time"> 01:47 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop star Suga discovered that he was infected after returning to South Korea from the United States. 
- <p class="updated_time"> 12:21 PM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59780489?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Fifth woman accuses Sex and the City actor of misconduct</a> BBC: US singer Lisa Gentile alleges the Sex and the City actor groped her in a New York apartment in 2002. 
  <p class="updated_time"> 11:34 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59785677?at_medium=RSS&at_campaign=KARANGA">Police stray bullet kills teen in LA store's dressing room</a> BBC: The teenager was in a changing room with her mother trying on dresses for her 15th birthday party. 
  <p class="updated_time"> 09:23 AM CT, Dec. 24 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/science/polar-bear.html">How to Catch a Polar Bear</a> NYT: First, spot the bear. 
  <p class="updated_time"> 07:01 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/health/covid-omicron-delta-hospitalizations.html">Omicron Infections Seem to Be Milder, Three Research Teams Report</a> NYT: The data offer a rare bit of good news. Still, hospitalizations are likely to increase simply because the variant is so contagious. 
- <p class="updated_time"> 06:40 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/world/europe/migrant-boat-sinks-greece.html">Three Dead and Many Missing as Migrant Boat Sinks Near Greece</a> NYT: The sinking came just weeks after 27 people drowned trying to cross the English Channel, another stark reminder of the lethal risks facing asylum seekers. 
 
 
 </details>
