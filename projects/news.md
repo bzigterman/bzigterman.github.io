@@ -43,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 03:02 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59788231?at_medium=RSS&at_campaign=KARANGA">Covid: Holiday plans disrupted as Omicron surge grounds flights</a> BBC: Airlines say they are experiencing Covid-related staffing shortages over the busy Christmas period. 
+ <p class="updated_time"> 03:00 AM CT, Dec. 25 </p> 
+ <a href="https://www.wsj.com/articles/amc-lags-behind-in-saudi-arabias-surprisingly-competitive-cinema-market-11640440802">AMC Lags Behind in Surprisingly Competitive Saudi Cinema Market</a> WSJ: Four years since the kingdom lifted a ban on theaters, local rivals have moved ahead of the U.S. giant. 
  <p class="updated_time"> 01:41 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-59777677?at_medium=RSS&at_campaign=KARANGA">ICYMI: Christmas moments you may have missed from around the globe</a> BBC: A New York neighbourhood going all out for the holidays and other stories you may have missed this week. 
  <p class="updated_time"> 12:19 AM CT, Dec. 25 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review.html">Bros' Restaurant in Italy: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
  <p class="updated_time"> 05:55 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html">Israel May Give 4th Dose of Covid Shot, Despite Experts' Doubts</a> NYT: Some scientists warn that too many shots might actually harm the body’s ability to fight the Covid-19 virus. But Israeli experts say there isn’t time to wait. 
- <p class="updated_time"> 05:36 PM CT, Dec. 23 </p> 
- <a href="https://www.wsj.com/articles/japan-wont-send-officials-to-winter-olympics-in-beijing-11640320579">Japan Won't Send Officials to Winter Olympics in Beijing</a> WSJ: Tokyo is sending representatives to the Beijing Olympics—just not a cabinet member or other official in Prime Minister Fumio Kishida’s administration. 
  <p class="updated_time"> 04:22 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/russia-putin-ukraine.html">Putin Mixes Positive Note With Threats, Keeping West on Edge</a> NYT: At a traditional year-end news conference, President Vladimir V. Putin of Russia said a potential meeting with the U.S. was a positive sign, but he also demanded a quick response to his security concerns. 
  <p class="updated_time"> 03:46 PM CT, Dec. 23 </p> 
@@ -412,8 +412,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/black-lawmakers-diversity-lobbying-firms-525362">Black lawmakers threaten to cut off K St unless it diversifies</a> Politico: Years of frustration with the racial composition of the political influence industry have begun to boil over. 
  <p class="updated_time"> 03:30 PM CT, Dec. 18 </p> 
  <a href="https://www.cnn.com/2021/12/17/politics/harris-charlamagne-tha-god-interview-defends-biden/index.html">Harris defends Biden when questioned whether he or Manchin is President</a> CNN: Vice President Kamala Harris forcefully defended President Joe Biden when recently asked whether he or Sen. Joe Manchin is the president of the United States, as Biden's agenda remains stalled in part because of the West Virginia Democrat. 
- <p class="updated_time"> 09:57 AM CT, Dec. 18 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/18/its-just-completely-delusional-495520"> ‘It’s just completely delusional’</a> Politico Playbook: And the Senate adjourns for the year. 
 
 
 </details>
