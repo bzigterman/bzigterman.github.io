@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:47 AM CT, Dec. 25 </p> 
+ <p class="updated_time"> 10:38 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/queen-elizabeth-christmas-address.html">‘Christmas Can Be Hard’ Amid Loss, Queen Elizabeth Says in Annual Message</a> NYT: Her address, which was recorded last week, is the first since the death of her husband, Prince Philip. It comes as coronavirus cases in Britain have hit record highs. 
+ <p class="updated_time"> 10:24 AM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/europe/alfredo-lupi-janitor-italy.html">A Janitor’s Colleagues Put Him on the Fast Track to Retirement</a> NYT: An Italian factory worker was dealing with a lifelong impairment that made it hard to work, but he wasn’t in a position to retire. Then his co-workers gave him 20 months’ worth of vacation days. 
+ <p class="updated_time"> 10:22 AM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/europe/ukraine-russia-zelensky-comedy.html">As Russian Threat Looms, Ukraine’s Government Is No Laughing Matter</a> NYT: President Volodymyr Zelensky, a former actor, has surrounded himself with advisers from his old comedy troupe. No kidding. 
  <p class="updated_time"> 09:18 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59789491?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Tear gas fired at pro-democracy protests</a> BBC: Protesters are demanding the military step back and allow the transition to civilian rule. 
  <p class="updated_time"> 08:50 AM CT, Dec. 25 </p> 
@@ -36,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:00 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/canada/another-covid-christmas.html">Another Covid Christmas …</a> NYT: December went by like an Omicron advent calendar, each passing day revealing how the virus’s trajectory would change hoped-for holiday plans. 
  <p class="updated_time"> 04:00 AM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/middleeast/west-bank-entertainment-complex-israel.html">A New Israeli Wonderland, Where You Can Almost Forget Where You Are</a> NYT: An alien spaceship theme park, an Italian Renaissance-style mall, a canal with gondolas. “Nothing in Israel compares with it,” the developer says. There’s just one catch. 
+ <a href="https://www.nytimes.com/2021/12/25/world/middleeast/park-israel-dcity.html">A New Israeli Wonderland, Where You Can Almost Forget Where You Are</a> NYT: An alien spaceship theme park, an Italian Renaissance-style mall, a canal with gondolas. “Nothing in Israel compares with it,” the developer says. There’s just one catch. 
  <p class="updated_time"> 04:00 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/africa/africa-coronavirus-omicron.html">Many African Countries Toughen Covid Restrictions as Fourth Wave Spreads</a> NYT: Infections have more than doubled or tripled in many countries, prompting the authorities to reimpose curfews and quarantines and introduce vaccine mandates as the holiday season gets underway. 
  <p class="updated_time"> 03:20 AM CT, Dec. 25 </p> 
@@ -171,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/us/california-booster-mandate-feb-1.html">California Requires Health Workers to Get Boosters by Feb. 1</a> NYT: Gov. Gavin Newsom said more than half of the sequenced cases in the state have been identified as the Omicron variant, but the real number is probably higher. 
  <p class="updated_time"> 03:49 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/nyregion/citymd-temporary-closings-covid.html">CityMD Temporarily Shuts 19 Locations Amid Urgent Testing Demands</a> NYT: The closures began on Wednesday, and CityMD has not said how long they will last. 
- <p class="updated_time"> 09:28 AM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/world/middleeast/israel-christmas-covid.html">Covid Spoils Another Christmas in the Holy Land</a> NYT: Israel’s strict border controls have largely barred foreign tourists from entry, but the traditional Jerusalem Santa is managing to bring some local cheer. 
 
 
 </details>
@@ -180,6 +182,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:03 AM CT, Dec. 25 </p> 
+ <a href="https://www.politico.com/news/2021/12/25/britain-vaccines-jingle-jabs-526144">Thousands line up for ‘jingle jabs’ on Christmas in England</a> Politico: Health Secretary Sajid Javid urged people to “make the booster a part of your Christmas this year.” 
+ <p class="updated_time"> 10:51 AM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/business/biden-antitrust-inflation-competition.html">Biden Turns to Antitrust Enforcers to Combat Inflation</a> NYT: A wide-ranging presidential order helped block a railroad merger and tackle supply-chain problems, and it is planting the seeds for bigger actions. 
  <p class="updated_time"> 09:42 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/covid-christmas-religion-hospitals-526143">Surging Covid cases make for another subdued Christmas Day</a> Politico: In many places, it was a day of overwhelmed hospitals, canceled flights and curbed religious observances. 
  <p class="updated_time"> 09:31 AM CT, Dec. 25 </p> 
@@ -342,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/22/1067138785/biden-teases-possible-rematch-against-donald-trump-why-would-i-not">Biden teases possible rematch against Donald Trump. 'Why would I not?'</a> NPR: In an interview with ABC News on Wednesday, the president discussed his political future and what his administration would do to fight the spike in coronavirus cases. 
  <p class="updated_time"> 08:12 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/supreme-court-special-session-vaccine-requirements-526030">Supreme Court to hold special session on vaccine requirements</a> Politico: The high court announced late Wednesday that it would hear arguments in the cases on Jan. 7. 
- <p class="updated_time"> 07:44 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/your-money/student-loan-pause.html">Biden Administration Extends Pause on Student Loan Payments Until May 1</a> NYT: The Biden administration, under pressure from Democratic lawmakers, announced a three-month extension, citing the resurgent pandemic. 
  <p class="updated_time"> 07:32 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/capitol-riot-matthew-greene-guilty.html">Proud Boys Member Pleads Guilty and Will Cooperate in Jan. 6 Riot Inquiry</a> NYT: Matthew Greene, 34, who was “among the first wave” to rush up the Capitol steps, pleaded guilty to two charges and agreed to cooperate with the government, federal prosecutors said. 
  <p class="updated_time"> 06:52 PM CT, Dec. 22 </p> 
@@ -378,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/21/dems-plot-path-after-manchin-derailment-495530">Dems plot path after Manchin derailment</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/21/the-search-for-a-plan-b-begins-495529"> The search for a Plan B begins</a> Politico Playbook: And Biden plans to deliver another big Covid speech. 
- <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/amazon-federal-law-enforcement-525794">How one of America’s largest employers leans on federal law enforcement</a> Politico: Amazon has increasingly tipped off the Justice Department and FBI to investigate its own employees and the sellers using its platform, according to a POLITICO analysis.  
  <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/democrats-riled-by-spanish-language-radio-attacks-on-kamala-harris-525787">Democrats riled by Spanish-language radio attacks on Kamala Harris</a> Politico: Political operatives and the radio hosts themselves say the uptick in calls is notable. Who, if anyone, is behind them remains unclear. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
