@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:29 AM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-59787319?at_medium=RSS&at_campaign=KARANGA">In pictures: World celebrates Christmas</a> BBC: For the second year running, fewer people are attending festive events because of the Covid outbreak. 
  <p class="updated_time"> 07:43 AM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1067966137/pope-francis-gives-an-early-christmas-eve-homily-with-a-pointed-message-on-humil">Pope Francis gives an early Christmas Eve homily with a pointed message on humility</a> NPR: Pope Francis celebrated Christmas Eve Mass in St. Peter's Basilica as COVID-19 infections surge in Italy. 
  <p class="updated_time"> 07:28 AM CT, Dec. 25 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59788231?at_medium=RSS&at_campaign=KARANGA">Covid: Holiday plans disrupted as Omicron surge grounds flights</a> BBC: Airlines say they are experiencing Covid-related staffing shortages over the busy Christmas period. 
  <p class="updated_time"> 01:41 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-59777677?at_medium=RSS&at_campaign=KARANGA">ICYMI: Christmas moments you may have missed from around the globe</a> BBC: A New York neighbourhood going all out for the holidays and other stories you may have missed this week. 
- <p class="updated_time"> 01:18 AM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-59787319?at_medium=RSS&at_campaign=KARANGA">In pictures: World celebrates Christmas</a> BBC: For the second year running, fewer people are attending festive events because of the Covid outbreak. 
  <p class="updated_time"> 12:19 AM CT, Dec. 25 </p> 
  <a href="https://www.wsj.com/articles/pope-francis-in-christmas-message-laments-pandemic-of-loneliness-11640431162">Pope Francis Laments Pandemic of Loneliness</a> WSJ: The pope, in his annual Christmas message, highlighted the social impact of the pandemic while reiterating his previous calls for equitable distribution of Covid-19 vaccines. 
  <p class="updated_time"> 12:08 AM CT, Dec. 25 </p> 
