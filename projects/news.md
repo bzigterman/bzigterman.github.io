@@ -89,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1067769323/ferry-fire-kills-at-least-37-in-southern-bangladesh">Ferry fire kills at least 39 in southern Bangladesh</a> NPR: A huge fire swept through a crowded river ferry in southern Bangladesh early Friday, leaving of dead and injured as passengers jumped off the vessel to swim to shore, officials said. 
  <p class="updated_time"> 02:19 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067772373/covid-19-spike-worsens-africas-severe-poverty-hunger-woes">COVID-19 spike worsens Africa's severe poverty, hunger woes</a> NPR: In Zimbabwe and other African nations, the virus's resurgence is threatening the survival of millions. The United Nations says about 9 in 10 of the world's extremely poor live in Africa. 
- <p class="updated_time"> 01:43 AM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59778426?at_medium=RSS&at_campaign=KARANGA">Haridwar: Police case after outrage in India over anti-Muslim hate speech</a> BBC: Viral videos show Hindu religious leaders making provocative anti-Muslim speeches at a conclave in Haridwar. 
  <p class="updated_time"> 12:24 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">Park Geun-hye, Ex-Leader of South Korea, to Be Pardoned </a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
  <p class="updated_time"> 11:30 PM CT, Dec. 23 </p> 
@@ -170,6 +168,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:44 PM CT, Dec. 24 </p> 
+ <a href="https://www.politico.com/news/2021/12/24/navy-warship-milwaukee-covid-526138">U.S. Navy warship sidelined with Covid outbreak</a> Politico: The USS Milwaukee is staying in port. 
  <p class="updated_time"> 06:10 PM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/project-veritas-new-york-times-526137">Judge blocks New York Times on Project Veritas coverage</a> Politico: The Times was also ordered to return or delete relevant documents. 
  <p class="updated_time"> 05:08 PM CT, Dec. 24 </p> 
@@ -241,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:02 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/business/economy/inflation-pce-index-fed.html">PCE Index Hit Highest Level in November Since 1982</a> NYT: The Fed’s preferred inflation gauge climbed at the fastest pace in nearly four decades, as Omicron clouded the outlook for 2022. 
  <p class="updated_time"> 05:56 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/us/politics/capitol-riot-january-6.html">… and a Merry Christmas From the ‘Patriots’ of Jan. 6</a> NYT: Holiday card greetings from defendants awaiting trial on charges related to the Capitol riot reflect their status as symbolic martyrs for the Republican base. 
+ <a href="https://www.nytimes.com/2021/12/23/us/politics/capitol-riot-january-6.html">Jan. 6 Defendants Send a Holiday Card: ‘Merry Christmas Patriot!’</a> NYT: Holiday card greetings from defendants awaiting trial on charges related to the Capitol riot reflect their status as symbolic martyrs for the Republican base. 
  <p class="updated_time"> 05:54 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/saudi-ballistic-missiles-china/index.html">CNN Exclusive: US intel and satellite images show Saudi Arabia is now building its own ballistic missiles with help of China</a> CNN: US intelligence agencies have assessed that Saudi Arabia is now actively manufacturing its own ballistic missiles with the help of China, CNN has learned, a development that could have significant ripple effects across the Middle East and complicate the Biden administration's efforts to restrain the nuclear ambitions of Iran, the Saudis' top regional rival. 
  <p class="updated_time"> 05:43 PM CT, Dec. 23 </p> 
@@ -254,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/23/politics/white-house-log4j-tech-firms-meeting/index.html">White House to discuss software development with tech executives, calling it 'key national security concern'</a> CNN: White House national security adviser Jake Sullivan has invited the CEOs of major software firms to discuss ways to improve software security following the emergence of a critical vulnerability that US officials have said could affect hundreds of millions of devices around the world, a senior Biden administration official told reporters Thursday. 
  <p class="updated_time"> 05:15 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/guantanamo-judge-quits.html">Another Judge Quits Guantánamo Case</a> NYT: No new judge has been named to preside in the trial of a Qaeda commander, which has had four judges in seven years. 
- <p class="updated_time"> 05:09 PM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/russia-buildup-ukraine-satellite-images-526109">Russian buildup near Ukraine gains steam, new satellite images show</a> Politico: The release of the images came hours after Moscow and Washington traded warnings over what might come next in the tense standoff. 
  <p class="updated_time"> 05:05 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/covid-vaccine-biden-trump.html">Beneath a Covid Vaccine Debacle, 30 Years of Government Culpability</a> NYT: Washington has rejected plans to revamp vaccine preparedness for decades and repeatedly paid a price. The Biden administration is at a similar crossroads. 
  <p class="updated_time"> 04:48 PM CT, Dec. 23 </p> 
