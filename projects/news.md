@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:24 AM CT, Dec. 25 </p> 
+ <p class="updated_time"> 09:47 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/queen-elizabeth-christmas-address.html">‘Christmas Can Be Hard’ Amid Loss, Queen Elizabeth Says in Annual Message</a> NYT: Her address, which was recorded last week, is the first since the death of her husband, Prince Philip. It comes as coronavirus cases in Britain have hit record highs. 
  <p class="updated_time"> 09:18 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59789491?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Tear gas fired at pro-democracy protests</a> BBC: Protesters are demanding the military step back and allow the transition to civilian rule. 
@@ -258,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/23/politics/mary-gay-scanlon-hijacking-suspect-charged/index.html">19-year-old charged in armed carjacking incident involving Democratic lawmaker</a> CNN: Federal prosecutors have charged a Delaware man with carjacking Democratic Rep. Mary Gay Scanlon of Pennsylvania and using a firearm during a crime of violence, the Justice Department announced Thursday. 
  <p class="updated_time"> 08:22 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/us-warning-russia-ukraine/index.html">White House reiterates that US is ready to act if Russia invades Ukraine</a> CNN: The Biden administration on Thursday reiterated its warnings to Russia over a potential invasion of Ukraine, with one senior administration official telling reporters that the US is "ready to act if and when we need to." 
- <p class="updated_time"> 08:08 PM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/cdc-covid-isolation-health-workers-526123">CDC sets shorter Covid isolation rules for health workers</a> Politico: Isolation time can be cut to five days, or even fewer, if there are severe staffing shortages, according to the new CDC guidance. 
  <p class="updated_time"> 07:59 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/georgia-election-workers-lawsuit-rudy-giuliani-one-america-news/index.html">Two Georgia election workers sue Giuliani and One America News, claiming election lies prompted severe harassment </a> CNN: Two Georgia election workers are accusing right-wing TV network One America News and former Trump lawyer and pundit Rudy Giuliani of destroying their reputations and prompting Trump supporters to harass them -- filling their lives with fear -- because of false claims of election fraud in 2020. 
  <p class="updated_time"> 06:58 PM CT, Dec. 23 </p> 
@@ -380,6 +378,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/21/dems-plot-path-after-manchin-derailment-495530">Dems plot path after Manchin derailment</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/21/the-search-for-a-plan-b-begins-495529"> The search for a Plan B begins</a> Politico Playbook: And Biden plans to deliver another big Covid speech. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/amazon-federal-law-enforcement-525794">How one of America’s largest employers leans on federal law enforcement</a> Politico: Amazon has increasingly tipped off the Justice Department and FBI to investigate its own employees and the sellers using its platform, according to a POLITICO analysis.  
  <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/democrats-riled-by-spanish-language-radio-attacks-on-kamala-harris-525787">Democrats riled by Spanish-language radio attacks on Kamala Harris</a> Politico: Political operatives and the radio hosts themselves say the uptick in calls is notable. Who, if anyone, is behind them remains unclear. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
