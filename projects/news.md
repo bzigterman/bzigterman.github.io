@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:28 AM CT, Dec. 25 </p> 
+ <a href="https://www.npr.org/2021/12/25/1067966116/u-s-air-strikes-have-killed-thousands-of-civilians-nyt-magazine-investigation-fi">U.S. air strikes have killed thousands of civilians, NYT Magazine investigation finds</a> NPR: Scott Simon talks with Azmat Khan of the New York Times about U.S. drone strikes that have killed civilians in Iraq, Syria and Afghanistan. 
  <p class="updated_time"> 07:21 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/asia/china-wealth-flaunting.html">In China, Bragging About Your Wealth Can Get You Censored</a> NYT: Online posts by users showing off their receipts, over-ordering food or scattering money have been deemed vulgar. Regulators say such content leads young people astray. 
  <p class="updated_time"> 06:58 AM CT, Dec. 25 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59776920?at_medium=RSS&at_campaign=KARANGA">Daunte Wright shooting: Key moments in the trial of Kimberly Potter</a> BBC: The trial saw emotional testimonies and dramatic bodycam footage of the fatal shooting. 
  <p class="updated_time"> 03:44 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/lapid-israel-nuclear-iran-palestinians.html">Lapid Says Israel Will Support Iran Nuclear Pact, if It’s ‘a Good Deal.’</a> NYT: The Israeli foreign minister said “we have no problem with a deal,” but perhaps because he thinks the prospects of an agreement are remote. 
- <p class="updated_time"> 03:35 PM CT, Dec. 23 </p> 
- <a href="https://www.npr.org/2021/12/23/1067598864/encore-encouraging-collaboration-early-on-can-lead-to-more-helpful-children">Encore: Encouraging collaboration early on can lead to more helpful children</a> NPR: In many cultures around the world, parents don't need chore charts or allowances for kids to pitch in around the house. A new study shows how parents in these cultures teach children to be helpful. 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
  <p class="updated_time"> 11:20 AM CT, Dec. 23 </p> 
@@ -178,6 +178,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:33 AM CT, Dec. 25 </p> 
+ <a href="https://www.politico.com/news/2021/12/25/space-telescope-launch-526142">Space telescope launched on daring quest to behold 1st stars</a> Politico: NASA’s James Webb Space Telescope soared from French Guiana on South America’s northeastern coast. 
  <p class="updated_time"> 08:06 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/gorbachev-resign-soviet-union-russia-526141">Gorbachev’s resignation 30 years ago marked the end of USSR</a> Politico: “The collapse of the Soviet Union was one of those occasions in history that are believed to be unthinkable until they become inevitable.” 
  <p class="updated_time"> 07:19 AM CT, Dec. 25 </p> 
@@ -338,6 +340,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/us/politics/kamala-harris-covid.html">Vice President Kamala Harris Was Exposed to Covid</a> NYT: President Biden had also been in close contact with a staff member who later tested positive. 
  <p class="updated_time"> 08:15 PM CT, Dec. 22 </p> 
  <a href="https://www.npr.org/2021/12/22/1067138785/biden-teases-possible-rematch-against-donald-trump-why-would-i-not">Biden teases possible rematch against Donald Trump. 'Why would I not?'</a> NPR: In an interview with ABC News on Wednesday, the president discussed his political future and what his administration would do to fight the spike in coronavirus cases. 
+ <p class="updated_time"> 08:12 PM CT, Dec. 22 </p> 
+ <a href="https://www.politico.com/news/2021/12/22/supreme-court-special-session-vaccine-requirements-526030">Supreme Court to hold special session on vaccine requirements</a> Politico: The high court announced late Wednesday that it would hear arguments in the cases on Jan. 7. 
  <p class="updated_time"> 07:44 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/your-money/student-loan-pause.html">Biden Administration Extends Pause on Student Loan Payments Until May 1</a> NYT: The Biden administration, under pressure from Democratic lawmakers, announced a three-month extension, citing the resurgent pandemic. 
  <p class="updated_time"> 07:32 PM CT, Dec. 22 </p> 
@@ -358,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/22/politics/antiviral-pill-biden-statement/index.html">250,000 treatment courses of Pfizer's antiviral pill will be available in January, Biden says</a> CNN: President Joe Biden on Wednesday pledged more than 250,000 treatment courses of Pfizer's antiviral pill will be available starting in January after the US Food and Drug Administration authorized it to treat Covid-19. 
  <p class="updated_time"> 12:56 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/fda-pfizer-covid-pill-525979">FDA authorizes Pfizer's Covid-19 pill</a> Politico: The pill, called Paxlovid, will provide the U.S. with another tool to help fight the virus as the more infectious Omicron variant surges. 
- <p class="updated_time"> 12:45 PM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/kim-potter-trial-daunte-wright-police-shooting-525976">Kim Potter guilty of manslaughter in Daunte Wright death</a> Politico: The mostly white jury deliberated for about four days before finding former Brooklyn Center officer Kim Potter guilty of first-degree and second-degree manslaughter. 
  <p class="updated_time"> 12:25 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/white-house-to-extend-student-loan-payment-moratorium-525974">White House extends student loan payment freeze</a> Politico: The move comes as the deadline neared for the end of the current moratorium and as another wave of Covid threatens a strong, but fragile, economic recovery. 
  <p class="updated_time"> 12:00 PM CT, Dec. 22 </p> 
@@ -378,6 +380,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/21/dems-plot-path-after-manchin-derailment-495530">Dems plot path after Manchin derailment</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/21/the-search-for-a-plan-b-begins-495529"> The search for a Plan B begins</a> Politico Playbook: And Biden plans to deliver another big Covid speech. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/amazon-federal-law-enforcement-525794">How one of America’s largest employers leans on federal law enforcement</a> Politico: Amazon has increasingly tipped off the Justice Department and FBI to investigate its own employees and the sellers using its platform, according to a POLITICO analysis.  
  <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/democrats-riled-by-spanish-language-radio-attacks-on-kamala-harris-525787">Democrats riled by Spanish-language radio attacks on Kamala Harris</a> Politico: Political operatives and the radio hosts themselves say the uptick in calls is notable. Who, if anyone, is behind them remains unclear. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
