@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:51 PM CT, Dec. 25 </p> 
+ <a href="https://www.npr.org/2021/12/25/1068012842/la-palma-volcano-eruption-ends">La Palma's volcanic eruption is officially over, but its devastating toll lingers</a> NPR: Authorities on the Canary Islands declared an eruption that started in September officially finished following 10 days of no lava flows, seismic activity or significant sulfur dioxide emissions. 
  <p class="updated_time"> 04:36 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/india-vaccine-boosters.html">India to Expand Vaccinations and Begin Boosters to Fight Omicron</a> NYT: Those 15 and older will be eligible for vaccination as of Jan. 3, and health workers and high-risk people over 60 can receive booster shots as of Jan. 10. 
  <p class="updated_time"> 02:43 PM CT, Dec. 25 </p> 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/ukraine-wants-military-support-to-deter-russia-while-the-u-s-weighs-response-11640363279">Ukraine Wants Military Support to Deter Russia While U.S. Weighs Response</a> WSJ: Ukrainian officials say efforts to stop Moscow would be strengthened if the Biden administration steps up assistance ahead of an attack. 
  <p class="updated_time"> 05:06 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/queen-elizabeth-ii-christmas-covid.html">A Quieter Christmas for Queen Elizabeth II as Covid Persists</a> NYT: The 95-year-old monarch is spending the holiday at Windsor Castle instead of Sandringham, her English country estate. 
- <p class="updated_time"> 05:01 AM CT, Dec. 24 </p> 
- <a href="https://www.npr.org/2021/12/24/1066861022/how-the-soviet-unions-collapse-explains-the-current-russia-ukraine-tension">How the Soviet Union's collapse explains the current Russia-Ukraine tension</a> NPR: To understand the friction between Russia and Ukraine, it's important to go back to 1991. Exactly 30 years ago this weekend, the Soviet Union formally dissolved and broke up into 15 separate nations. 
  <p class="updated_time"> 04:02 AM CT, Dec. 24 </p> 
  <a href="https://www.wsj.com/articles/how-the-afghanistan-taliban-outwitted-and-outwaited-the-u-s-11640355270">How the Taliban Outwitted and Outwaited the U.S.</a> WSJ: Islamist movement spoke of moderation as it solidified gains on the battlefield, taking Washington and its Afghan allies by surprise. 
  <p class="updated_time"> 04:00 AM CT, Dec. 24 </p> 
