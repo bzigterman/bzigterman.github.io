@@ -207,7 +207,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/biden-puerto-rico-electricity-network-526102">Puerto Rico’s shattered power grid could become a ‘big experiment’ for Biden</a> Politico: The crumbling electricity network that serves the island's 3 million people is at the center of a debate on renewable energy vs. fossil fuels — with billions of federal dollars at stake. 
  <p class="updated_time"> 07:00 AM CT, Dec. 25 </p> 
- <a href="https://www.politico.com/news/2021/12/25/national-patient-ids-privacy-526096">Bid to fund national patient IDs revives privacy fight</a> Politico: Its ultimate fate is still tied to uncertainties surrounding the appropriations process and an overdue report on the benefits and risks from HHS' health information technology office. 
+ <a href="https://www.politico.com/news/2021/12/25/national-patient-ids-privacy-526096">Idea of national patient IDs revives privacy fight</a> Politico: Its ultimate fate is still tied to uncertainties surrounding the appropriations process and an overdue report on the benefits and risks from HHS' health information technology office. 
  <p class="updated_time"> 05:03 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/23/science/webb-nasa-launch-delay.html">How NASA's Webb Telescope Overcame Loose Screws, Budgets and Clamps</a> NYT: Getting the James Webb Space Telescope to the launchpad has been a difficult journey that has taken decades. 
  <p class="updated_time"> 08:55 PM CT, Dec. 24 </p> 
