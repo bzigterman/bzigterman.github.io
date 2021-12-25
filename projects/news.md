@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:24 PM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/24/world/asia/hindu-extremists-india-muslims.html">As Hindu Extremists Call for Killing of Muslims, India’s Leaders Keep Silent</a> NYT: Right-wing Hindu activists at a conference took an oath to harm Muslims if necessary to make “a Hindu-only nation,” the most blatant example of rising anti-Muslim sentiment across India. 
  <p class="updated_time"> 12:23 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59789491?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Tear gas fired at pro-democracy protests</a> BBC: Protesters are demanding the military step back and allow the transition to civilian rule. 
  <p class="updated_time"> 11:28 AM CT, Dec. 25 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop star Suga discovered that he was infected after returning to South Korea from the United States. 
  <p class="updated_time"> 12:21 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59780489?at_medium=RSS&at_campaign=KARANGA">Chris Noth: Fifth woman accuses Sex and the City actor of misconduct</a> BBC: US singer Lisa Gentile alleges the Sex and the City actor groped her in a New York apartment in 2002. 
- <p class="updated_time"> 12:15 PM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/asia/hindu-extremists-india-muslims.html">As Hindu Extremists Call for Killing of Muslims, India’s Leaders Keep Silent</a> NYT: Right-wing Hindu activists at a conference took an oath to harm Muslims if necessary to make “a Hindu-only nation,” the most blatant example of rising anti-Muslim sentiment across India. 
  <p class="updated_time"> 11:34 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59785677?at_medium=RSS&at_campaign=KARANGA">Police stray bullet kills teen in LA store's dressing room</a> BBC: The teenager was in a changing room with her mother trying on dresses for her 15th birthday party. 
  <p class="updated_time"> 09:23 AM CT, Dec. 24 </p> 
