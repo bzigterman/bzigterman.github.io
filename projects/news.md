@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:04 AM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59789770?at_medium=RSS&at_campaign=KARANGA">Pope Francis Urbi et Orbi address: World ignoring huge tragedies</a> BBC: In his Christmas Day speech, the Pope said "immense tragedies" were being passed over in near silence. 
  <p class="updated_time"> 05:49 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/pope-francis-christmas-message.html">As Covid Disrupts a 2nd Christmas, Pope Prays for Healing and Peace</a> NYT: In his Christmas message, Pope Francis called on world leaders to resolve persisting conflicts and prayed for people across the globe who are affected by the coronavirus. 
  <p class="updated_time"> 05:42 AM CT, Dec. 25 </p> 
@@ -27,8 +29,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59777677?at_medium=RSS&at_campaign=KARANGA">ICYMI: Christmas moments you may have missed from around the globe</a> BBC: A New York neighbourhood going all out for the holidays and other stories you may have missed this week. 
  <p class="updated_time"> 01:18 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59787319?at_medium=RSS&at_campaign=KARANGA">In pictures: World celebrates Christmas</a> BBC: For the second year running, fewer people are attending festive events because of the Covid outbreak. 
+ <p class="updated_time"> 12:19 AM CT, Dec. 25 </p> 
+ <a href="https://www.wsj.com/articles/pope-francis-in-christmas-message-laments-pandemic-of-loneliness-11640431162">Pope Francis Laments Pandemic of Loneliness</a> WSJ: The pope, in his annual Christmas message, highlighted the social impact of the pandemic while reiterating his previous calls for equitable distribution of Covid-19 vaccines. 
  <p class="updated_time"> 12:08 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
+ <p class="updated_time"> 11:30 PM CT, Dec. 24 </p> 
+ <a href="https://www.wsj.com/articles/latin-america-is-now-a-world-leader-in-vaccinations-11640428207">Latin America Is Now a World Leader in Vaccinations</a> WSJ: Once a hot spot of Covid-19 deaths, the region now leads much of the world in vaccinations, as health policy makers rush to shield their countries from new variants roiling other places. 
  <p class="updated_time"> 08:57 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067923677/once-again-covid-means-scaled-back-christmas-celebrations-around-the-world">Once again, COVID means scaled-back Christmas celebrations around the world</a> NPR: From Bethlehem and Frankfurt to Boston, the surging coronavirus put a damper on Christmas Eve for a second year, forcing churches to cancel or scale back services and disrupting travel plans. 
  <p class="updated_time"> 06:15 PM CT, Dec. 24 </p> 
@@ -89,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/europe/queen-elizabeth-ii-christmas-covid.html">A Quieter Christmas for Queen Elizabeth II as Covid Persists</a> NYT: The 95-year-old monarch is spending the holiday at Windsor Castle instead of Sandringham, her English country estate. 
  <p class="updated_time"> 05:01 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1066861022/how-the-soviet-unions-collapse-explains-the-current-russia-ukraine-tension">How the Soviet Union's collapse explains the current Russia-Ukraine tension</a> NPR: To understand the friction between Russia and Ukraine, it's important to go back to 1991. Exactly 30 years ago this weekend, the Soviet Union formally dissolved and broke up into 15 separate nations. 
- <p class="updated_time"> 04:58 AM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59779376?at_medium=RSS&at_campaign=KARANGA">Russian priest who adopted 70 children jailed for abuse</a> BBC: Nikolai Stremsky, reputed to have had Russia's biggest family, is convicted of raping children. 
  <p class="updated_time"> 04:02 AM CT, Dec. 24 </p> 
  <a href="https://www.wsj.com/articles/how-the-afghanistan-taliban-outwitted-and-outwaited-the-u-s-11640355270">How the Taliban Outwitted and Outwaited the U.S.</a> WSJ: Islamist movement spoke of moderation as it solidified gains on the battlefield, taking Washington and its Afghan allies by surprise. 
  <p class="updated_time"> 04:00 AM CT, Dec. 24 </p> 
@@ -103,10 +107,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1067772373/covid-19-spike-worsens-africas-severe-poverty-hunger-woes">COVID-19 spike worsens Africa's severe poverty, hunger woes</a> NPR: In Zimbabwe and other African nations, the virus's resurgence is threatening the survival of millions. The United Nations says about 9 in 10 of the world's extremely poor live in Africa. 
  <p class="updated_time"> 12:24 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">Park Geun-hye, Ex-Leader of South Korea, to Be Pardoned </a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
- <p class="updated_time"> 11:30 PM CT, Dec. 23 </p> 
- <a href="https://www.wsj.com/articles/omicron-pushes-u-k-to-stay-home-even-without-a-government-lockdown-11640341803">Omicron Pushes U.K. to Stay Home Even Without a Lockdown</a> WSJ: The new Covid-19 variant has driven one in six Britons to cancel going to a Christmas party, and traffic in stores and restaurants is down. 
- <p class="updated_time"> 11:14 PM CT, Dec. 23 </p> 
- <a href="https://www.wsj.com/articles/south-koreas-disgraced-former-president-park-geun-hye-is-pardoned-11640340531">South Korea's Disgraced Former President Park Geun-hye Is Pardoned</a> WSJ: President Moon Jae-in said he decided to release the 69-year-old, who has been serving her prison term since March 2017, because of her poor health and in an effort to unite the country. 
  <p class="updated_time"> 11:09 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/business/japan-defense-spending.html">Japan Approves Major Hike in Military Spending, With Taiwan in Mind</a> NYT: The budget increase, the biggest in decades, comes as officials warn that tensions over Taiwan could pull Japan into a conflict between the United States and China. 
  <p class="updated_time"> 10:03 PM CT, Dec. 23 </p> 
