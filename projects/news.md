@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:23 PM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/navy-ship-covid-guantanamo-bay.html">Covid Outbreak Strands U.S.S. Milwaukee in Guantánamo Bay</a> NYT: The crew held an open-air Christmas service on the pier, allowing the sailors to remain socially distanced. 
  <p class="updated_time"> 02:12 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/asia/china-money.html">Why Bragging About Your Wealth In China Can Get You Censored</a> NYT: Online posts by users showing off their receipts, over-ordering food or scattering money have been deemed vulgar. Regulators say such content leads young people astray. 
  <p class="updated_time"> 02:12 PM CT, Dec. 25 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/in-pictures-59787319?at_medium=RSS&at_campaign=KARANGA">In pictures: World celebrates Christmas</a> BBC: For the second year running, fewer people are attending festive events because of the Covid outbreak. 
  <p class="updated_time"> 01:31 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/india-vaccine-boosters.html">India to Expand Vaccinations and Begin Boosters to Fight Omicron</a> NYT: Those 15 and older will be eligible for vaccination as of Jan. 3, and health workers and high-risk people over 60 can receive booster shots as of Jan. 10. 
- <p class="updated_time"> 01:31 PM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/navy-ship-covid-guantanamo-bay.html">Covid Outbreak Strands U.S.S. Milwaukee in Guantánamo Bay</a> NYT: The crew held an open-air Christmas service on the pier, allowing the sailors to remain socially distanced. 
  <p class="updated_time"> 01:10 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/alfredo-lupi-janitor-italy.html">A Janitor’s Colleagues Put Him on the Fast Track to Retirement</a> NYT: An Italian factory worker was dealing with a lifelong impairment that made it hard to work, but he wasn’t in a position to retire. Then his co-workers gave him 20 months’ worth of vacation days. 
  <p class="updated_time"> 12:24 PM CT, Dec. 25 </p> 
