@@ -7,10 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:23 PM CT, Dec. 24 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the isolation period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
+ <p class="updated_time"> 06:15 PM CT, Dec. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59738548?at_medium=RSS&at_campaign=KARANGA">No time for war: Russians see no chance of conflict</a> BBC: With rhetoric becoming harsh and fears of an invasion growing, Muscovites give their views on the crisis. 
+ <p class="updated_time"> 06:10 PM CT, Dec. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59742359?at_medium=RSS&at_campaign=KARANGA">Climate change: Lapland reindeer gone astray in search for food</a> BBC: Herders are struggling to find thousands of reindeer that have run away in search of food. 
+ <p class="updated_time"> 06:03 PM CT, Dec. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-wales-59729022?at_medium=RSS&at_campaign=KARANGA">Art: 'People amazed I fold paper for a living, then they see it'</a> BBC: Artist Polly Verity loves the look and feel of paper and has been "lost in its landscape" for years. 
+ <p class="updated_time"> 05:21 PM CT, Dec. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59787369?at_medium=RSS&at_campaign=KARANGA">SA urges halt to Nelson Mandela's Robben Island prison cell key auction</a> BBC: Nelson Mandela, South Africa's first black president, spent 18 years in a tiny cell on Robben Island. 
  <p class="updated_time"> 04:59 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59786665?at_medium=RSS&at_campaign=KARANGA">French zoo closed temporarily after pack of nine wolves escape</a> BBC: No people were injured during the incident, but the wolf pack was killed due to safety concerns. 
- <p class="updated_time"> 04:43 PM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/live/2021/12/24/world/omicron-covid-vaccine-tests">Thousands of Christmas Flights Canceled as Omicron Spreads</a> NYT: New York’s governor shortened the isolation period for essential workers who are mostly asymptomatic. South Africa, with cases falling, ended quarantines and stopped contact tracing. 
  <p class="updated_time"> 04:13 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/africa/south-africa-covid-quarantine.html">South Africa Ends Quarantining and Contact Tracing</a> NYT: The new regulations follow data showing that while the Omicron variant is highly transmissible, it has not caused high rates of severe disease in South Africa. 
  <p class="updated_time"> 04:12 PM CT, Dec. 24 </p> 
@@ -63,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/europe/europe-covid-pandemic-omicron.html">Europeans Ponder Living With, Not Defeating, Covid</a> NYT: On the eve of the biggest holidays in Europe, exhaustion with the pandemic is rising. So is resignation that the virus is endemic. 
  <p class="updated_time"> 05:28 AM CT, Dec. 24 </p> 
  <a href="https://www.wsj.com/articles/ukraine-wants-military-support-to-deter-russia-while-the-u-s-weighs-response-11640363279">Ukraine Wants Military Support to Deter Russia While U.S. Weighs Response</a> WSJ: Ukrainian officials say efforts to stop Moscow would be strengthened if the Biden administration steps up assistance ahead of an attack. 
- <p class="updated_time"> 05:11 AM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/business-59777577?at_medium=RSS&at_campaign=KARANGA">Selfridges sold for £4bn to Thai-Austrian alliance</a> BBC: The British luxury store chain is being bought by Thailand's Central Group and Signa Group of Austria. 
  <p class="updated_time"> 05:06 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/queen-elizabeth-ii-christmas-covid.html">A Quieter Christmas for Queen Elizabeth II as Covid Persists</a> NYT: The 95-year-old monarch is spending the holiday at Windsor Castle instead of Sandringham, her English country estate. 
  <p class="updated_time"> 05:01 AM CT, Dec. 24 </p> 
@@ -145,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/23/1067169021/changing-climate-parches-afghanistan-exacerbating-poverty">Changing climate parches Afghanistan, exacerbating poverty</a> NPR: A severe drought, now in its second year, has dramatically worsened the already desperate situation in the country with an economy in freefall following the Taliban takeover in August. 
  <p class="updated_time"> 01:23 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067163101/hong-kong-university-removes-tiananmen-massacre-statue">Hong Kong university removes Tiananmen massacre statue</a> NPR: A monument at a Hong Kong university that commemorates the 1989 Tiananmen Square massacre was removed by workers early Thursday. Workers had erected barricades around the monument late Wednesday. 
- <p class="updated_time"> 08:34 PM CT, Dec. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59764990?at_medium=RSS&at_campaign=KARANGA">Kentucky tornado: Bodycam footage shows moment babies pulled alive from rubble</a> BBC: Their grandmother tucked them in a bath with a Bible and a blanket before the Kentucky twister hit. 
  <p class="updated_time"> 08:19 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/afghanistan-sanctions-aid-taliban.html">As Humanitarian Disaster Looms, U.S. Opens Door for More Afghanistan Aid</a> NYT: The Treasury Department and the United Nations offered new protection for aid from sanctions meant to pressure the Taliban. 
  <p class="updated_time"> 07:01 PM CT, Dec. 22 </p> 
