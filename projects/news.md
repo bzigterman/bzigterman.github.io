@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:41 AM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59777677?at_medium=RSS&at_campaign=KARANGA">ICYMI: Christmas moments you may have missed from around the globe</a> BBC: A New York neighbourhood going all out for the holidays and other stories you may have missed this week. 
  <p class="updated_time"> 01:18 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59787319?at_medium=RSS&at_campaign=KARANGA">In pictures: World celebrates Christmas</a> BBC: For the second year running, fewer people are attending festive events because of the Covid outbreak. 
  <p class="updated_time"> 12:08 AM CT, Dec. 25 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review.html">Bros' Restaurant in Italy: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
  <p class="updated_time"> 06:00 PM CT, Dec. 23 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59760229?at_medium=RSS&at_campaign=KARANGA">James Webb Space Telescope: How does it work?</a> BBC: The telescope has been 30 years in the making and is nearly ready to launch, but what makes it so special? 
- <p class="updated_time"> 06:00 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59763185?at_medium=RSS&at_campaign=KARANGA">Georgia: The rise of the right</a> BBC: LGBT activists cancelled Tbilisi Pride this year after violence from far-right protesters. 
  <p class="updated_time"> 05:55 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html">Israel May Give 4th Dose of Covid Shot, Despite Experts' Doubts</a> NYT: Some scientists warn that too many shots might actually harm the body’s ability to fight the Covid-19 virus. But Israeli experts say there isn’t time to wait. 
  <p class="updated_time"> 05:36 PM CT, Dec. 23 </p> 
