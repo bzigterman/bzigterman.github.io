@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:12 PM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59792840?at_medium=RSS&at_campaign=KARANGA">Deadly bombing at restaurant packed for Christmas</a> BBC: Six people have been killed after a suicide bomber targeted a restaurant in eastern DR Congo. 
  <p class="updated_time"> 07:19 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59792125?at_medium=RSS&at_campaign=KARANGA">Myanmar: Charity staff missing after deadly 'army attack'</a> BBC: Save the Children says troops killed 38 people and burned their bodies in eastern Kayah state. 
  <p class="updated_time"> 07:00 PM CT, Dec. 25 </p> 
@@ -127,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59787060?at_medium=RSS&at_campaign=KARANGA">'Let's go, Brandon': Caller pranks Biden at White House event</a> BBC: A father from Oregon uttered a term that is code for an obscenity directed at the president. 
  <p class="updated_time"> 01:47 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop star Suga discovered that he was infected after returning to South Korea from the United States. 
- <p class="updated_time"> 09:23 AM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59784118?at_medium=RSS&at_campaign=KARANGA">Russia fines Google over illegal content breach</a> BBC: The verdict marks the first time Russia has fined a technology giant based on their annual turnover. 
  <p class="updated_time"> 07:23 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/covid-britain-omicron-christmas.html">Despite Omicron Wave, Britons Are Set on Not Losing Another Christmas</a> NYT: For Christmas shoppers in central London this week, little seemed to dampen their spirits. But there was an undercurrent that the city was bracing for further coronavirus restrictions. 
  <p class="updated_time"> 07:21 AM CT, Dec. 24 </p> 
@@ -155,14 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/asia/hong-kong-tiananmen-statue.html">Hong Kong Removes 'Pillar of Shame' Statue Amid Crackdown</a> NYT: The decision to take down the “Pillar of Shame,” an enduring symbol of the territory’s pro-democracy movement, was another sign of Beijing’s crackdown. 
  <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
- <p class="updated_time"> 06:22 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59738541?at_medium=RSS&at_campaign=KARANGA">Switzerland's wolves get too close for comfort</a> BBC: Alpine villages say the animals have started approaching children and they need to fend them off. 
- <p class="updated_time"> 06:14 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59726874?at_medium=RSS&at_campaign=KARANGA">Murray Head: 'Unsung at home, but a hero in France'</a> BBC: Murray Head is all but forgotten in the UK, but in his adopted home France he ranks among the greats. 
- <p class="updated_time"> 06:13 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/blogs-trending-59452614?at_medium=RSS&at_campaign=KARANGA">Climate change: Small army of volunteers keeping deniers off Wikipedia</a> BBC: A group of editors is working tirelessly to keep bad climate info off the user-generated encyclopaedia. 
- <p class="updated_time"> 06:10 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59701734?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 17-23 December 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 06:07 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review.html">Bros' Restaurant in Italy: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
  <p class="updated_time"> 04:22 PM CT, Dec. 23 </p> 
