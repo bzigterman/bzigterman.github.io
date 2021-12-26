@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:42 PM CT, Dec. 26 </p> 
+ <p class="updated_time"> 03:07 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/middleeast/archbishop-tutu-cowell-recollection.html">The Time Archbishop Tutu Was Searched at the Airport</a> NYT: A former South Africa bureau chief for The Times recalls telling moments with the anti-apartheid religious leader. 
+ <p class="updated_time"> 03:04 PM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59796159?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Obama joins tributes to South Africa anti-apartheid hero</a> BBC: The former US president praises the churchman who helped end apartheid, after his death aged 90. 
  <p class="updated_time"> 02:35 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-south-africa.html">Even in Retirement, Desmond Tutu Remained South Africa’s Moral Compass</a> NYT: The Nobel laureate retired from public life over a decade ago, but he continued to advocate social justice, gay rights and climate change. 
  <p class="updated_time"> 01:17 PM CT, Dec. 26 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/1068086310/world-leaders-mourn-the-death-of-archbishop-desmond-tutu-who-died-at-90">World leaders mourn the death of Archbishop Desmond Tutu</a> NPR: The archbishop is being remembered around the world for his commitment to equality and justice and his "impish" sense of humor. 
  <p class="updated_time"> 09:57 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59796716?at_medium=RSS&at_campaign=KARANGA">'A dark day': South Africans remember Tutu</a> BBC: The archbishop, who was a driving force in the anti-apartheid movement, has died aged 90. 
- <p class="updated_time"> 09:30 AM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59796159?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Obama joins tributes to South Africa anti-apartheid hero</a> BBC: The former US president praises the churchman who helped end apartheid, after his death aged 90. 
  <p class="updated_time"> 09:16 AM CT, Dec. 26 </p> 
  <a href="https://www.wsj.com/articles/desmond-tutu-archbishop-who-helped-end-apartheid-11640503788">Desmond Tutu, Archbishop Who Helped End Apartheid, Dies at 90</a> WSJ: The Anglican archbishop who led a global campaign to end South Africa’s racist policies and then helped in healing the nation’s wounds, has died in Cape Town. 
  <p class="updated_time"> 09:06 AM CT, Dec. 26 </p> 
