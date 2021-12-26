@@ -222,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/25/1068008393/rep-pete-aguilar-discusses-the-jan-6-panels-progress-as-anniversary-approaches">Rep. Pete Aguilar discusses the Jan. 6 panel's progress as anniversary approaches</a> NPR: NPR's Elissa Nadworny speaks with Jan. 6 committee member Rep. Pete Aguilar, D-Calif., about where his panel's investigation stands ahead of the one-year anniversary of the attack. 
  <p class="updated_time"> 02:53 PM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/biden-jill-joe-christmas-armed-forces-526147">Bidens chat with service members by video</a> Politico: The president called members of the Armed Forces “the solid steel spine of the nation.” 
- <p class="updated_time"> 12:58 PM CT, Dec. 25 </p> 
- <a href="https://www.politico.com/news/2021/12/25/flight-cancellations-covid-christmas-526146">Flight cancellations continue</a> Politico: Airlines said the omicron variant was causing staffing problems leading to flight cancellations. 
  <p class="updated_time"> 10:51 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/business/biden-inflation.html">As Prices Rise Due to Inflation, Biden Turns to Antitrust Enforcers</a> NYT: A wide-ranging presidential order helped block a railroad merger and tackle supply-chain problems, and it is planting the seeds for bigger actions. 
  <p class="updated_time"> 09:42 AM CT, Dec. 25 </p> 
@@ -394,6 +392,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/21/dems-plot-path-after-manchin-derailment-495530">Dems plot path after Manchin derailment</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/21/the-search-for-a-plan-b-begins-495529"> The search for a Plan B begins</a> Politico Playbook: And Biden plans to deliver another big Covid speech. 
+ <p class="updated_time"> 12:15 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/california-redistricting-midterms-525815">California’s new congressional map boosts Democrats</a> Politico: The final maps were approved late Monday by the state’s independent redistricting commission. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
@@ -412,8 +412,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/democratic-sky-high-expectations-fall-flat-525537">Dems trip over their own sky-high expectations</a> Politico: Joe Manchin's rejection of the party's social spending bill is just the latest episode in a series of lofty goals it's failed to deliver on. 
  <p class="updated_time"> 12:49 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/19/scoop-manchin-refused-a-call-from-wh-before-killing-bbb-495521"> SCOOP: Manchin ‘refused’ a call from W.H. before killing BBB</a> Politico Playbook: And the latest coronavirus variant raises the alarm across the world. 
- <p class="updated_time"> 11:55 AM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/news/2021/12/19/kinzinger-mccarthy-mcconnell-trump-525531">Kinzinger on McCarthy: ‘I don’t think history books are going to be kind to him’</a> Politico: The Illinois Republican contrasted Kevin McCarthy with Mitch McConnell. 
 
 
 </details>
