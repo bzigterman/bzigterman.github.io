@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:13 PM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59793040?at_medium=RSS&at_campaign=KARANGA">Covid: Travel misery continues as 1,300 more flights cancelled</a> BBC: Chinese and US airlines are hardest hit amid a surge in Covid cases in many countries. 
  <p class="updated_time"> 08:39 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59792840?at_medium=RSS&at_campaign=KARANGA">Deadly bombing at restaurant packed for Christmas</a> BBC: Six people have been killed after a suicide bomber targeted a restaurant in eastern DR Congo. 
  <p class="updated_time"> 07:19 PM CT, Dec. 25 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/africa/africa-coronavirus-omicron.html">Many African Countries Toughen Covid Restrictions as Fourth Wave Spreads</a> NYT: Infections have more than doubled or tripled in many countries, prompting the authorities to reimpose curfews and quarantines and introduce vaccine mandates as the holiday season gets underway. 
  <p class="updated_time"> 03:20 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
- <p class="updated_time"> 03:02 AM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59788231?at_medium=RSS&at_campaign=KARANGA">Covid: Holiday plans disrupted as Omicron surge grounds flights</a> BBC: Airlines say they are experiencing Covid-related staffing shortages over the busy Christmas period. 
  <p class="updated_time"> 03:00 AM CT, Dec. 25 </p> 
  <a href="https://www.wsj.com/articles/amc-lags-behind-in-saudi-arabias-surprisingly-competitive-cinema-market-11640440802">AMC Lags Behind in Surprisingly Competitive Saudi Cinema Market</a> WSJ: Four years since the kingdom lifted a ban on theaters, local rivals have moved ahead of the U.S. giant. 
  <p class="updated_time"> 01:41 AM CT, Dec. 25 </p> 
