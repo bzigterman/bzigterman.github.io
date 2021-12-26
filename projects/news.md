@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:29 PM CT, Dec. 26 </p> 
+ <a href="https://www.politico.com/news/2021/12/26/airlines-cancel-flights-holiday-meltdown-526158">Some airlines continue to cancel flights following holiday meltdown</a> Politico: Sunday’s schedule was a mess; dozens of Monday’s flights have already been canceled. 
  <p class="updated_time"> 12:34 PM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/holiday-shopping-christmas-omicron-526155">Despite supply issues and Omicron, holiday sales rise 8.5%</a> Politico: The results, which covered Nov. 1 through Dec. 24, were fueled by purchases of clothing and jewelry. 
  <p class="updated_time"> 11:56 AM CT, Dec. 26 </p> 
@@ -228,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/25/biden-jill-joe-christmas-armed-forces-526147">Bidens chat with service members by video</a> Politico: The president called members of the Armed Forces “the solid steel spine of the nation.” 
  <p class="updated_time"> 10:51 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/business/biden-inflation.html">As Prices Rise Due to Inflation, Biden Turns to Antitrust Enforcers</a> NYT: A wide-ranging presidential order helped block a railroad merger and tackle supply-chain problems, and it is planting the seeds for bigger actions. 
- <p class="updated_time"> 09:42 AM CT, Dec. 25 </p> 
- <a href="https://www.politico.com/news/2021/12/25/covid-christmas-religion-hospitals-526143">Surging Covid cases make for another subdued Christmas Day</a> Politico: In many places, it was a day of overwhelmed hospitals, canceled flights and curbed religious observances. 
  <p class="updated_time"> 09:31 AM CT, Dec. 25 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/taylor-budowich-trump-spokesman-jan-6-committee/index.html">January 6 committee ramps up efforts to uncover funding behind Capitol riot</a> CNN: Trump spokesman Taylor Budowich on Friday sued the House select committee investigating the January 6 riot to prevent it from obtaining his financial documents from JP Morgan, which is also named in the lawsuit. 
  <p class="updated_time"> 09:02 AM CT, Dec. 25 </p> 
