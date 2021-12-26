@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/europe/ukraine-russia-civilian-training.html">Training Civilians, Ukraine Nurtures a Resistance in Waiting</a> NYT: Eastern European nations have drawn a lesson from America’s wars of the last decades: Insurgency works. Ukraine’s training of volunteers has become a factor in the standoff with Russia. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/insider/in-congo-bolivia-and-beyond-where-the-green-future-begins.html">In Congo, Bolivia and Beyond, Where the Green Future Begins</a> NYT: The Times’s Race to the Future series is focused on the competition for electric-car resources that will shape the 21st century. 
  <p class="updated_time"> 03:43 AM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59793726?at_medium=RSS&at_campaign=KARANGA">South Africa's Archbishop Desmond Tutu dies at 90</a> BBC: Archbishop Desmond Tutu, the Nobel Peace prize laureate who helped end apartheid in South Africa, has died aged 90. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59793726?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: South Africa anti-apartheid hero dies aged 90</a> BBC: Tributes are paid to Archbishop Tutu, the Nobel peace prize laureate who helped end apartheid in South Africa. 
+ <p class="updated_time"> 03:30 AM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/obituaries/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
  <p class="updated_time"> 03:26 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 02:55 AM CT, Dec. 26 </p> 
@@ -31,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59636403?at_medium=RSS&at_campaign=KARANGA">Love story sends TV fans in search of idyllic Alps</a> BBC: Crash Landing On You has been a big hit and now fans are travelling to the filming locations. 
  <p class="updated_time"> 06:54 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59609232?at_medium=RSS&at_campaign=KARANGA">Israeli 'psychic' Uri Geller still baffling fans at 75</a> BBC: Now wowing visitors at his museum, the famous spoon bender recalls his rise from poverty to stardom. 
+ <p class="updated_time"> 06:54 PM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59740360?at_medium=RSS&at_campaign=KARANGA">Uri Geller: The celebrity who owes his success to spoons</a> BBC: Self-proclaimed Israel psychic Uri Geller recalls how he made spoon-bending famous across the world. 
  <p class="updated_time"> 06:20 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1068020235/el-salvador-abortion-women-freed">El Salvador frees 3 women who were sentenced to 30 years under anti-abortion laws</a> NPR: President Nayib Bukele's government has freed three Salvadoran women who were sentenced to 30 years in prison under the nation's strict anti-abortion laws after suffering obstetric emergencies. 
  <p class="updated_time"> 06:06 PM CT, Dec. 25 </p> 
@@ -85,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/25/1067966053/us-and-russian-officials-have-agreed-to-discuss-ukraine-tensions-and-role-of-nat">US and Russian officials have agreed to discuss Ukraine tensions and role of NATO</a> NPR: Ukraine and the West are still worried about Russian military aggression. Russian president Vladimir Putin addressed the situation during his end-of-the-year press conference. 
  <p class="updated_time"> 06:58 AM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1067966039/christmas-celebrations-in-bethlehem-are-intimate-this-year">Christmas celebrations in Bethlehem are intimate this year</a> NPR: With the usual throngs of foreigners absent, Palestinian Muslims and Christians gathered in Manger Square and the Church of the Nativity in Bethlehem to celebrate Christmas. 
- <p class="updated_time"> 06:38 AM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59790601?at_medium=RSS&at_campaign=KARANGA">James Webb Space Telescope lifts off on historic mission</a> BBC: The $10bn James Webb telescope has left Earth on its mission to show the first stars to light up the Universe. 
  <p class="updated_time"> 05:50 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-59790251?at_medium=RSS&at_campaign=KARANGA">Pope's Christmas Day message</a> BBC: Pope Francis gave his traditional Christmas message followed by his blessing, Urbi et Orbi, to the city and the world. 
  <p class="updated_time"> 05:49 AM CT, Dec. 25 </p> 
@@ -151,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/asia/afghanistan-nadery-peace-negotiations.html">An Afghan Official Laments What Was Lost and Looks to What Lies Ahead</a> NYT: Ahmad Nader Nadery spent decades working toward a thriving, free Afghanistan. Watching the Taliban undo much of his work, he wonders how to move forward. 
  <p class="updated_time"> 12:24 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">Park Geun-hye, Ex-Leader of South Korea, to Be Pardoned </a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
- <p class="updated_time"> 08:46 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/australia/koala-massacre-cape-bridgewater.html">‘Koala Massacre’: Australia Files Hundreds of Animal Cruelty Charges</a> NYT: A property owner and two companies in Australia were charged after a land-clearing operation left dozens of the marsupials dead, injured or starving. 
  <p class="updated_time"> 08:45 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/canada/indigenous-water-lawsuit.html">Canada and Indigenous People Settle Over Drinking Water</a> NYT: A court-approved settlement will compensate Indigenous people for the decades that many have lived with dirty water, and will also fund the clean up. 
  <p class="updated_time"> 08:24 PM CT, Dec. 23 </p> 
@@ -173,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/asia/li-tiantian-disappearance.html">Fury in China After Li Tiantian, an Outspoken Teacher, Disappears</a> NYT: Supporters of Li Tiantian believe that local officials may have sent her to a psychiatric hospital, a longstanding way of stifling and discrediting dissent. 
  <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/science/polar-bear.html">How to Catch a Polar Bear</a> NYT: First, spot the bear. 
- <p class="updated_time"> 07:01 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/health/covid-omicron-delta-hospitalizations.html">Omicron Infections Seem to Be Milder, Three Research Teams Report</a> NYT: The data offer a rare bit of good news. Still, hospitalizations are likely to increase simply because the variant is so contagious. 
 
 
 </details>
