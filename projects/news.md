@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:09 AM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/europe/ukraine-russia-civilian-training.html">Training Civilians, Ukraine Nurtures a Resistance in Waiting</a> NYT: Eastern European nations have drawn a lesson from America’s wars of the last decades: Insurgency works. Ukraine’s training of volunteers has become a factor in the standoff with Russia. 
+ <p class="updated_time"> 10:52 AM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/asia/myanmar-army-killings.html">Myanmar’s Army Is Accused of Massacring Dozens of Civilians</a> NYT: At least 35 people were killed and their bodies burned, according to an international aid group and opponents of the military regime. 
  <p class="updated_time"> 10:45 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068101250/save-the-children-staff-myanmar">Save the Children says 2 staffers are missing after a massacre in Myanmar</a> NPR: A massacre in Myanmar that left more than 30 people, including women and children, dead and burned in their vehicles after they were reportedly shot by government troops as they were fleeing combat. 
  <p class="updated_time"> 10:30 AM CT, Dec. 26 </p> 
@@ -39,12 +43,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/494373491/desmond-tutu-dies">Desmond Tutu, an icon who helped end apartheid in South Africa, dies at 90</a> NPR: The Nobel Peace laureate and archbishop emeritus campaigned against a system he called evil and, after apartheid, helped the nation heal as head of the Truth and Reconciliation Commission. 
  <p class="updated_time"> 06:13 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59795213?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Security forces accused of violence against protesters</a> BBC: Some 178 anti-coup demonstrators are reportedly injured in clashes near the presidential palace. 
- <p class="updated_time"> 06:13 AM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/asia/myanmar-army-killings.html">Myanmar’s Army Is Accused of Massacring Dozens of Civilians</a> NYT: At least 35 people were killed and their bodies burned, according to an international aid group and opponents of the military regime. 
  <p class="updated_time"> 04:48 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59793040?at_medium=RSS&at_campaign=KARANGA">Covid: Travel misery for tens of thousands as flights are cancelled</a> BBC: Chinese and US airlines are hardest hit amid a surge in Covid cases in many countries. 
- <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/europe/ukraine-russia-civilian-training.html">Training Civilians, Ukraine Nurtures a Resistance in Waiting</a> NYT: Eastern European nations have drawn a lesson from America’s wars of the last decades: Insurgency works. Ukraine’s training of volunteers has become a factor in the standoff with Russia. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/insider/in-congo-bolivia-and-beyond-where-the-green-future-begins.html">In Congo, Bolivia and Beyond, Where the Green Future Begins</a> NYT: The Times’s Race to the Future series is focused on the competition for electric-car resources that will shape the 21st century. 
  <p class="updated_time"> 03:49 AM CT, Dec. 26 </p> 
@@ -52,7 +52,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:26 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 02:55 AM CT, Dec. 26 </p> 
- <a href="https://www.npr.org/2021/12/26/1047748076/desmond-tutu-dead-remembrance">Desmond Tutu's laugh was contagious. His fight for freedom was deadly serious</a> NPR: Desmond Tutu will be remembered for helping end apartheid. But also for his memorable laugh, an infectious, cackling, howl employed in the service of easing tensions in a very tense nation. 
+ <a href="https://www.npr.org/2021/12/26/1047748076/desmond-tutu-dead-remembrance">Desmond Tutu's laugh was contagious. His fight for freedom was deadly serious</a> NPR: Desmond Tutu will be remembered for helping end apartheid. But also for his memorable laugh, an infectious, cackling howl employed in the service of easing tensions in a very tense nation. 
  <p class="updated_time"> 02:31 AM CT, Dec. 26 </p> 
  <a href="https://www.wsj.com/articles/countries-consider-further-post-christmas-omicron-curbs-11640525485">Countries Consider Further Post-Christmas Omicron Curbs</a> WSJ: People across Europe were set to face new restrictions as infection rates hit records in many areas, while the Biden administration said it was working to make sure hospitals aren’t overwhelmed. 
  <p class="updated_time"> 02:00 AM CT, Dec. 26 </p> 
@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:56 AM CT, Dec. 26 </p> 
+ <a href="https://www.politico.com/news/2021/12/26/cardin-senate-build-back-better-526154">Maryland senator sees possible comeback for Build Back Better</a> Politico: “There is unanimity in our caucus that we want to get a bill to the president,” Ben Cardin said. 
  <p class="updated_time"> 11:10 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/putin-russia-ukraine-nato-526153">Putin to mull options if West refuses guarantees on Ukraine</a> Politico: Earlier this month, Russia submitted draft security documents demanding that NATO deny membership to Ukraine and other former Soviet countries. 
  <p class="updated_time"> 10:56 AM CT, Dec. 26 </p> 
@@ -216,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/25/biden-jill-joe-christmas-armed-forces-526147">Bidens chat with service members by video</a> Politico: The president called members of the Armed Forces “the solid steel spine of the nation.” 
  <p class="updated_time"> 12:58 PM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/flight-cancellations-covid-christmas-526146">Flight cancellations continue</a> Politico: Airlines said the omicron variant was causing staffing problems leading to flight cancellations. 
- <p class="updated_time"> 12:46 PM CT, Dec. 25 </p> 
- <a href="https://www.politico.com/news/2021/12/25/intruder-windsor-castle-royals-526145">British police arrest armed intruder on Windsor Castle grounds</a> Politico: The suspect was identified as a 19-year-old man. 
  <p class="updated_time"> 11:03 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/britain-vaccines-jingle-jabs-526144">Thousands line up for ‘jingle jabs’ on Christmas in England</a> Politico: Health Secretary Sajid Javid urged people to “make the booster a part of your Christmas this year.” 
  <p class="updated_time"> 10:51 AM CT, Dec. 25 </p> 
