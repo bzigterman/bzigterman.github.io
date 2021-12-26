@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:55 PM CT, Dec. 26 </p> 
+ <p class="updated_time"> 02:10 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-south-africa.html">Even in Retirement, Desmond Tutu Remained South Africa’s Moral Compass</a> NYT: The Nobel laureate retired from public life over a decade ago, but he continued to advocate social justice, gay rights and climate change. 
  <p class="updated_time"> 01:17 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/africa/tutu-death.html">Here Are Some of the Many Tributes for Desmond Tutu, a Force for Harmony</a> NYT: From prominent South African lawmakers to religious figures, many on social media honored Archbishop Tutu as a patriot of peaceful principles who dedicated his life to combating injustice everywhere. 
@@ -27,12 +27,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59796716?at_medium=RSS&at_campaign=KARANGA">'A dark day': South Africans remember Tutu</a> BBC: The archbishop, who was a driving force in the anti-apartheid movement, has died aged 90. 
  <p class="updated_time"> 09:30 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59796159?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Obama joins tributes to South Africa anti-apartheid hero</a> BBC: The former US president praises the churchman who helped end apartheid, after his death aged 90. 
+ <p class="updated_time"> 09:16 AM CT, Dec. 26 </p> 
+ <a href="https://www.wsj.com/articles/desmond-tutu-archbishop-who-helped-end-apartheid-11640503788">Desmond Tutu, Archbishop Who Helped End Apartheid, Dies at 90</a> WSJ: The Anglican archbishop who led a global campaign to end South Africa’s racist policies and then helped in healing the nation’s wounds, has died in Cape Town. 
  <p class="updated_time"> 09:06 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/alfredo-lupi-janitor-italy.html">A Janitor’s Colleagues Put Him on the Fast Track to Retirement</a> NYT: An Italian factory worker was dealing with a lifelong impairment that made it hard to work, but he wasn’t in a position to retire. Then his co-workers gave him 20 months’ worth of vacation days. 
  <p class="updated_time"> 08:50 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068076531/3-members-of-k-pop-sensation-bts-have-tested-positive-for-covid-19">3 members of K-pop sensation BTS have tested positive for COVID-19 </a> NPR: Nearly half of the seven-member band have now tested positive, after returning to South Korea from abroad earlier this month. 
- <p class="updated_time"> 08:36 AM CT, Dec. 26 </p> 
- <a href="https://www.wsj.com/articles/desmond-tutu-archbishop-who-helped-end-apartheid-11640503788">Desmond Tutu, Archbishop Who Helped End Apartheid, Dies at 90</a> WSJ: The Anglican archbishop who led a global campaign to end South Africa’s racist policies and then helped in healing the nation’s wounds, has died in Cape Town. 
  <p class="updated_time"> 08:03 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
  <p class="updated_time"> 07:10 AM CT, Dec. 26 </p> 
@@ -69,6 +69,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59793776?at_medium=RSS&at_campaign=KARANGA">Archbishop Desmond Tutu: Looking back at his life and legacy</a> BBC: The BBC's Nomsa Maseko looks back at the life of Archbishop Desmond Tutu, who has died aged 90. 
  <p class="updated_time"> 01:00 AM CT, Dec. 26 </p> 
  <a href="https://www.wsj.com/articles/where-russia-once-triumphed-ukrainians-prepare-to-resist-putin-11640520002">Where Russia Once Triumphed, Ukrainians Prepare to Resist Putin</a> WSJ: In a city where Russia was victorious 300 years ago, Ukrainians are mobilizing to push back against another Russian leader. 
+ <p class="updated_time"> 11:30 PM CT, Dec. 25 </p> 
+ <a href="https://www.wsj.com/articles/venezuelan-migrants-fall-prey-to-sex-traffickers-after-fleeing-their-collapsing-country-11640514604">Venezuelan Migrants Fall Prey to Sex Traffickers</a> WSJ: Sex traffickers exploit the exodus of nearly six million people from Venezuela—the world’s largest continuing refugee crisis in number of migrants fleeing—by coercing some into bondage using bogus job offers. 
  <p class="updated_time"> 10:18 PM CT, Dec. 25 </p> 
  <a href="https://www.wsj.com/articles/myanmar-military-attack-kills-dozens-including-children-aid-group-says-11640510326">Myanmar Military Attack Kills Dozens, Including Children, Aid Group Says</a> WSJ: The violence happened in a part of the country where resistance groups have been fighting the military junta. 
  <p class="updated_time"> 08:39 PM CT, Dec. 25 </p> 
