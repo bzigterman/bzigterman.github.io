@@ -84,7 +84,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:20 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1068020235/el-salvador-abortion-women-freed">El Salvador frees 3 women who were sentenced to 30 years under anti-abortion laws</a> NPR: President Nayib Bukele's government has freed three Salvadoran women who were sentenced to 30 years in prison under the nation's strict anti-abortion laws after suffering obstetric emergencies. 
  <p class="updated_time"> 06:06 PM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59732329?at_medium=RSS&at_campaign=KARANGA">The Chinese mother backing bigger families</a> BBC: Chen Ting is a mother of three and businesswoman who encourages other women to have more children. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59732329?at_medium=RSS&at_campaign=KARANGA">The Chinese mother backing bigger families</a> BBC: Chen Ting is a mother-of-three and businesswoman who encourages other families to have more children. 
  <p class="updated_time"> 06:05 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59707864?at_medium=RSS&at_campaign=KARANGA">Why a former oil executive is capping abandoned wells</a> BBC: Around the US, an estimated three million oil wells have been abandoned. They're more dangerous than we think. 
  <p class="updated_time"> 05:46 PM CT, Dec. 25 </p> 
