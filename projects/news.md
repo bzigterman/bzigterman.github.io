@@ -182,6 +182,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/us/politics/dr-oz-medical-advice.html">‘Magic’ Weight-Loss Pills and Covid Cures: Dr. Oz Under the Microscope</a> NYT: The celebrity physician, a candidate in Pennsylvania’s Republican primary for Senate, has a long history of dispensing dubious medical advice on his daytime show and on Fox News. 
  <p class="updated_time"> 04:03 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1068008393/rep-pete-aguilar-discusses-the-jan-6-panels-progress-as-anniversary-approaches">Rep. Pete Aguilar discusses the Jan. 6 panel's progress as anniversary approaches</a> NPR: NPR's Elissa Nadworny speaks with Jan. 6 committee member Rep. Pete Aguilar, D-Calif., about where his panel's investigation stands ahead of the one-year anniversary of the attack. 
  <p class="updated_time"> 02:53 PM CT, Dec. 25 </p> 
@@ -354,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/us/capitol-riot-matthew-greene-guilty.html">Proud Boys Member Pleads Guilty and Will Cooperate in Jan. 6 Riot Inquiry</a> NYT: Matthew Greene, 34, who was “among the first wave” to rush up the Capitol steps, pleaded guilty to two charges and agreed to cooperate with the government, federal prosecutors said. 
  <p class="updated_time"> 06:52 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/covid-tests-biden-omicron.html">Biden Promised 500 Million Tests, but Americans Will Have to Wait</a> NYT: Contracts to purchase tests could be signed as soon as next week, but relief could be weeks away for people trying to buy the hard-to-find tests. 
- <p class="updated_time"> 06:22 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/us/politics/jim-jordan-jan-6.html">Jan. 6 Panel Seeks Interview With Jim Jordan, a Close Trump Ally</a> NYT: The House committee said investigators wanted to ask Mr. Jordan, a Republican congressman from Ohio, about his conversations with former President Donald J. Trump. 
  <p class="updated_time"> 05:32 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/joe-biden-polling-public-approval/index.html">Analysis: Biden's polling 'blip' has become his new normal</a> CNN: When President Joe Biden's poll numbers initially began to slip in late August, Democrats insisted to anyone who would listen that this would be a temporary blip. 
  <p class="updated_time"> 05:00 PM CT, Dec. 22 </p> 
