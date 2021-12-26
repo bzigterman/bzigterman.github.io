@@ -215,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068063536/biden-struggles-with-his-image-as-covid-19-proves-difficult-to-stay-ahead-of">Biden struggles with his image as COVID-19 proves difficult to stay ahead of</a> NPR: The pandemic is the issue driving much of American politics these days and could either doom or boost the Biden presidency. 
  <p class="updated_time"> 06:44 AM CT, Dec. 26 </p> 
- <a href="https://www.politico.com/news/2021/12/26/desmond-tutu-nobel-dies-526149">Desmond Tutu, South African equality activist, dies at 90</a> Politico: The Nobel Prize winner became an international symbol of the fight against iron-fisted rule by a white minority. 
+ <a href="https://www.politico.com/news/2021/12/26/desmond-tutu-nobel-dies-526149">Desmond Tutu, South Africa’s moral conscience, dies at 90</a> Politico: The Nobel Prize winner became an international symbol of the fight against iron-fisted rule by a white minority. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/us/politics/dr-oz-medical-advice.html">‘Magic’ Weight-Loss Pills and Covid Cures: Dr. Oz Under the Microscope</a> NYT: The celebrity physician, a candidate in Pennsylvania’s Republican primary for Senate, has a long history of dispensing dubious medical advice on his daytime show and on Fox News. 
  <p class="updated_time"> 04:03 PM CT, Dec. 25 </p> 
@@ -410,8 +410,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/14-policies-manchin-social-spending-525681">How 14 policies could survive — or die — after Manchin’s ‘no’</a> Politico: Despite his clear opposition to enacting President Joe Biden’s $1.7T social spending package, the West Virginia senator actually likes a slew of individual policies in the plan, giving Democrats hope for turning some of those ideas into law. 
  <p class="updated_time"> 07:00 PM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/democratic-sky-high-expectations-fall-flat-525537">Dems trip over their own sky-high expectations</a> Politico: Joe Manchin's rejection of the party's social spending bill is just the latest episode in a series of lofty goals it's failed to deliver on. 
- <p class="updated_time"> 12:49 PM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/19/scoop-manchin-refused-a-call-from-wh-before-killing-bbb-495521"> SCOOP: Manchin ‘refused’ a call from W.H. before killing BBB</a> Politico Playbook: And the latest coronavirus variant raises the alarm across the world. 
 
 
 </details>
