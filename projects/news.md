@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:43 AM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/asia/myanmar-army-killings.html">Myanmar’s Army Is Accused of Massacring Dozens of Civilians</a> NYT: At least 35 people were killed and their bodies burned, according to an international aid group and opponents of the military regime. 
  <p class="updated_time"> 04:48 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59793040?at_medium=RSS&at_campaign=KARANGA">Covid: Travel misery for tens of thousands as flights are cancelled</a> BBC: Chinese and US airlines are hardest hit amid a surge in Covid cases in many countries. 
  <p class="updated_time"> 04:46 AM CT, Dec. 26 </p> 
@@ -157,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/asia/hong-kong-tiananmen-statue.html">Hong Kong Removes 'Pillar of Shame' Statue Amid Crackdown</a> NYT: The decision to take down the “Pillar of Shame,” an enduring symbol of the territory’s pro-democracy movement, was another sign of Beijing’s crackdown. 
  <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
- <p class="updated_time"> 06:07 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review.html">Bros' Restaurant in Italy: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
  <p class="updated_time"> 04:22 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/russia-putin-ukraine.html">Putin Mixes Positive Note With Threats, Keeping West on Edge</a> NYT: At a traditional year-end news conference, President Vladimir V. Putin of Russia said a potential meeting with the U.S. was a positive sign, but he also demanded a quick response to his security concerns. 
  <p class="updated_time"> 03:44 PM CT, Dec. 23 </p> 
