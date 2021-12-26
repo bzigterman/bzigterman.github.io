@@ -180,6 +180,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:43 AM CT, Dec. 26 </p> 
+ <a href="https://www.politico.com/news/2021/12/26/fauci-covid-testing-omicron-526150">Fauci on Covid testing: ‘We’ve obviously got to do better’</a> Politico: He also guarded against reading too much into early data about Omicron’s severity. 
  <p class="updated_time"> 08:35 AM CT, Dec. 26 </p> 
  <a href="https://www.cnn.com/2021/12/26/politics/debbie-dingell-fred-upton-cnntv/index.html">Two lawmakers say their bipartisan friendship a model for overcoming 'toxic' year in Washington</a> CNN: Two Michigan lawmakers from opposite sides of the aisle came together to urge the importance of unity and kindness after a "toxic" year in Washington and across the country. 
  <p class="updated_time"> 07:05 AM CT, Dec. 26 </p> 
@@ -264,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/24/biden-social-spending-senate-parliamentarian-526081">Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</a> Politico: The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan. 
  <p class="updated_time"> 06:20 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067775038/ex-president-trump-pushes-back-on-anti-vaccine-talking-points">Ex-President Trump pushes back on anti-vaccine talking points</a> NPR: In multiple recent appearances, former President Donald Trump has been touting COVID vaccines and even pushing back against misinformation. He's earning praise from President Biden. 
- <p class="updated_time"> 04:30 AM CT, Dec. 24 </p> 
- <a href="https://www.politico.com/cartoons/2021/12/23/the-nations-cartoonists-on-the-week-in-politics-000275">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:01 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1066223330/biden-covid-deaths-memorials">Biden stopped marking grim COVID milestones as he fought to end the pandemic</a> NPR: Biden used to talk a lot about the COVID-19 death toll, but over the last year he's shifted to how fight the pandemic. Some want him to go back to addressing the country's grief. 
  <p class="updated_time"> 09:48 PM CT, Dec. 23 </p> 
