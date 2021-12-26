@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:17 PM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/africa/tutu-death.html">Here Are Some of the Many Tributes for Desmond Tutu, a Force for Harmony</a> NYT: From prominent South African lawmakers to religious figures, many on social media honored Archbishop Tutu as a patriot of peaceful principles who dedicated his life to combating injustice everywhere. 
  <p class="updated_time"> 11:21 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/bts-covid-coronavirus.html">Two More Members of the K-Pop Band, BTS, Test Positive for Coronavirus</a> NYT: RM and Jin discovered they were infected a day after Suga got his diagnosis. All tested positive after returning to South Korea from the United States. 
  <p class="updated_time"> 11:09 AM CT, Dec. 26 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/asia/myanmar-army-killings.html">Myanmar’s Army Is Accused of Massacring Dozens of Civilians</a> NYT: At least 35 people were killed and their bodies burned, according to an international aid group and opponents of the military regime. 
  <p class="updated_time"> 10:45 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068101250/save-the-children-staff-myanmar">Save the Children says 2 staffers are missing after a massacre in Myanmar</a> NPR: A massacre in Myanmar that left more than 30 people, including women and children, dead and burned in their vehicles after they were reportedly shot by government troops as they were fleeing combat. 
- <p class="updated_time"> 10:30 AM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/africa/tutu-death.html">Here Are Some of the Many Tributes for Desmond Tutu, a Force for Harmony</a> NYT: From prominent South African lawmakers to religious figures, many on social media honored Archbishop Tutu as a patriot of peaceful principles who dedicated his life to combating injustice everywhere. 
  <p class="updated_time"> 10:30 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/europe/afghans-netherlands-migrants.html">After Chaotic Evacuation, Afghans in the Netherlands Struggle to Find Stability</a> NYT: Many Afghans evacuated to the Netherlands have been living in tents for months, as they prepare to resettle in a Europe that is wrangling with a heated debate about immigration. 
  <p class="updated_time"> 10:07 AM CT, Dec. 26 </p> 
@@ -31,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/1068076531/3-members-of-k-pop-sensation-bts-have-tested-positive-for-covid-19">3 members of K-pop sensation BTS have tested positive for COVID-19 </a> NPR: Nearly half of the seven-member band have now tested positive, after returning to South Korea from abroad earlier this month. 
  <p class="updated_time"> 08:03 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
+ <p class="updated_time"> 07:57 AM CT, Dec. 26 </p> 
+ <a href="https://www.wsj.com/articles/desmond-tutu-archbishop-who-helped-end-apartheid-11640503788">Desmond Tutu, Archbishop Who Helped End Apartheid, Dies at 90</a> WSJ: The Anglican archbishop who led a global campaign to end South Africa’s racist policies and then helped in healing the nation’s wounds, has died in Cape Town. 
  <p class="updated_time"> 07:10 AM CT, Dec. 26 </p> 
  <a href="https://www.wsj.com/articles/countries-consider-further-post-christmas-omicron-curbs-11640525485">Airlines Scratch More Flights as Omicron Variant Advances</a> WSJ: The peak holiday travel season continued to be hammered by the fast-spreading Omicron variant Sunday, as the Biden administration said it was working to make sure hospitals aren’t overwhelmed. 
  <p class="updated_time"> 07:06 AM CT, Dec. 26 </p> 
@@ -58,17 +60,15 @@ permalink: /projects/news/
  <p class="updated_time"> 02:55 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1047748076/desmond-tutu-dead-remembrance">Desmond Tutu's laugh was contagious. His fight for freedom was deadly serious</a> NPR: Desmond Tutu will be remembered for helping end apartheid. But also for his memorable laugh, an infectious, cackling howl employed in the service of easing tensions in a very tense nation. 
  <p class="updated_time"> 02:00 AM CT, Dec. 26 </p> 
- <a href="https://www.wsj.com/articles/germanys-vast-foreign-surpluses-are-finally-falling-fulfilling-an-old-u-s-demand-11640523603">Germany's Foreign Surpluses Are Falling, Fulfilling a U.S. Demand</a> WSJ: Washington and others had accused Germany of feeding global economic imbalances by hoarding savings and refusing to spend. 
- <p class="updated_time"> 02:00 AM CT, Dec. 26 </p> 
  <a href="https://www.wsj.com/articles/italian-tech-startup-revives-einsteins-fathers-power-plant-11640523602">Italian Tech Startup Revives Einstein's Father's Power Plant</a> WSJ: A husband-wife team of entrepreneurs are using a once-abandoned hydroelectric station to feed the power grid and keep their artificial-intelligence enterprise humming. 
+ <p class="updated_time"> 02:00 AM CT, Dec. 26 </p> 
+ <a href="https://www.wsj.com/articles/germanys-vast-foreign-surpluses-are-finally-falling-fulfilling-an-old-u-s-demand-11640523603">Germany's Foreign Surpluses Are Falling, Fulfilling a U.S. Demand</a> WSJ: Washington and others had accused Germany of feeding global economic imbalances by hoarding savings and refusing to spend. 
  <p class="updated_time"> 01:28 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59793776?at_medium=RSS&at_campaign=KARANGA">Archbishop Desmond Tutu: Looking back at his life and legacy</a> BBC: The BBC's Nomsa Maseko looks back at the life of Archbishop Desmond Tutu, who has died aged 90. 
  <p class="updated_time"> 01:00 AM CT, Dec. 26 </p> 
  <a href="https://www.wsj.com/articles/where-russia-once-triumphed-ukrainians-prepare-to-resist-putin-11640520002">Where Russia Once Triumphed, Ukrainians Prepare to Resist Putin</a> WSJ: In a city where Russia was victorious 300 years ago, Ukrainians are mobilizing to push back against another Russian leader. 
  <p class="updated_time"> 10:18 PM CT, Dec. 25 </p> 
  <a href="https://www.wsj.com/articles/myanmar-military-attack-kills-dozens-including-children-aid-group-says-11640510326">Myanmar Military Attack Kills Dozens, Including Children, Aid Group Says</a> WSJ: The violence happened in a part of the country where resistance groups have been fighting the military junta. 
- <p class="updated_time"> 09:18 PM CT, Dec. 25 </p> 
- <a href="https://www.wsj.com/articles/desmond-tutu-archbishop-who-helped-end-apartheid-11640503788">Desmond Tutu, Archbishop Who Helped End Apartheid, Dies at 90</a> WSJ: The Anglican archbishop who led a global campaign to end South Africa’s racist policies and then helped in healing the nation’s wounds, has died in Cape Town. 
  <p class="updated_time"> 08:39 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59792840?at_medium=RSS&at_campaign=KARANGA">Deadly bombing at restaurant packed for Christmas</a> BBC: Six people have been killed after a suicide bomber targeted a restaurant in eastern DR Congo. 
  <p class="updated_time"> 07:19 PM CT, Dec. 25 </p> 
@@ -177,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/lapid-israel-nuclear-iran-palestinians.html">Lapid Says Israel Will Support Iran Nuclear Pact, if It’s ‘a Good Deal.’</a> NYT: The Israeli foreign minister said “we have no problem with a deal,” but perhaps because he thinks the prospects of an agreement are remote. 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
- <p class="updated_time"> 11:20 AM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/asia/china-winter-olympic-spectators.html">China tells Winter Olympic spectators to clap, not cheer, for athletes, and Xi’an, a major city, locks down.</a> NYT: As the Omicron variant spreads elsewhere, China is taking elaborate precautions to prevent the virus from reaching participants when the Games start in February. 
  <p class="updated_time"> 04:31 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/li-tiantian-disappearance.html">Fury in China After Li Tiantian, an Outspoken Teacher, Disappears</a> NYT: Supporters of Li Tiantian believe that local officials may have sent her to a psychiatric hospital, a longstanding way of stifling and discrediting dissent. 
 
