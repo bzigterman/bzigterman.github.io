@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:26 PM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/americas/navy-ship-covid.html">No Sailors on Navy Ship Required Hospitalization After Coronavirus Outbreak</a> NYT: The base hospital at Guantánamo Bay gave vaccine booster doses to the ship to administer to anyone who wants one. 
  <p class="updated_time"> 03:07 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/middleeast/archbishop-tutu-cowell-recollection.html">The Time Archbishop Tutu Was Searched at the Airport</a> NYT: A former South Africa bureau chief for The Times recalls telling moments with the anti-apartheid religious leader. 
  <p class="updated_time"> 03:04 PM CT, Dec. 26 </p> 
@@ -25,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/1068101250/save-the-children-staff-myanmar">Save the Children says 2 staffers are missing after a massacre in Myanmar</a> NPR: A massacre in Myanmar that left more than 30 people, including women and children, dead and burned in their vehicles after they were reportedly shot by government troops as they were fleeing combat. 
  <p class="updated_time"> 10:30 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/europe/afghans-netherlands-migrants.html">After Chaotic Evacuation, Afghans in the Netherlands Struggle to Find Stability</a> NYT: Many Afghans evacuated to the Netherlands have been living in tents for months, as they prepare to resettle in a Europe that is wrangling with a heated debate about immigration. 
+ <p class="updated_time"> 10:21 AM CT, Dec. 26 </p> 
+ <a href="https://www.wsj.com/articles/countries-consider-further-post-christmas-omicron-curbs-11640525485">Airlines Scratch More Flights as Omicron Variant Advances</a> WSJ: The peak holiday travel season continued to be hammered by the fast-spreading Omicron variant Sunday, as the Biden administration said it was working to make sure hospitals aren’t overwhelmed. 
  <p class="updated_time"> 10:07 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068086310/world-leaders-mourn-the-death-of-archbishop-desmond-tutu-who-died-at-90">World leaders mourn the death of Archbishop Desmond Tutu</a> NPR: The archbishop is being remembered around the world for his commitment to equality and justice and his "impish" sense of humor. 
  <p class="updated_time"> 09:57 AM CT, Dec. 26 </p> 
@@ -37,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/1068076531/3-members-of-k-pop-sensation-bts-have-tested-positive-for-covid-19">3 members of K-pop sensation BTS have tested positive for COVID-19 </a> NPR: Nearly half of the seven-member band have now tested positive, after returning to South Korea from abroad earlier this month. 
  <p class="updated_time"> 08:03 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
- <p class="updated_time"> 07:10 AM CT, Dec. 26 </p> 
- <a href="https://www.wsj.com/articles/countries-consider-further-post-christmas-omicron-curbs-11640525485">Airlines Scratch More Flights as Omicron Variant Advances</a> WSJ: The peak holiday travel season continued to be hammered by the fast-spreading Omicron variant Sunday, as the Biden administration said it was working to make sure hospitals aren’t overwhelmed. 
  <p class="updated_time"> 07:06 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068071004/cape-town-local-remembers-archbishop-desmond-tutu">Cape Town local remembers Archbishop Desmond Tutu</a> NPR: In his hometown of Cape Town, South Africans mourn Archbishop Desmond Tutu. 
  <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
