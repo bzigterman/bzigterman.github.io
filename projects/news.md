@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:06 AM CT, Dec. 26 </p> 
+ <a href="https://www.npr.org/2021/12/26/1068071004/cape-town-local-remembers-archbishop-desmond-tutu">Cape Town local remembers Archbishop Desmond Tutu</a> NPR: In his hometown of Cape Town, South Africans mourn Archbishop Desmond Tutu. 
+ <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
+ <a href="https://www.npr.org/2021/12/26/1068063599/sudanese-activists-want-the-u-s-to-support-their-push-for-democracy">Sudanese activists want the U.S. to support their push for democracy</a> NPR: NPR's Eyder Peralta speaks with Ambassador Jeffrey Feltman, U.S. Special Envoy for the Horn of Africa, about the ongoing conflicts in that region. 
+ <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
+ <a href="https://www.npr.org/2021/12/26/1068063592/a-revolutionary-movement-for-democracy-has-taken-hold-in-sudan-led-by-young-peop">A revolutionary movement for democracy has taken hold in Sudan, led by young people</a> NPR: A huge network of resistance committees has transformed public protest in Sudan, challenging the new junta. 
+ <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
+ <a href="https://www.npr.org/2021/12/26/1068063585/nprs-east-africa-correspondent-asks-interviewees-the-songs-they-carried-through-">NPR's East Africa correspondent asks interviewees the songs they carried through 2021</a> NPR: Music was a buoy during the turbulent times of 2021. Here's a sampling of some meaningful tracks. 
  <p class="updated_time"> 07:00 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1066377153/israel-gaza-farm-bible-rest">A biblical rest from farming in Israel could help Gaza's growers. They are waiting</a> NPR: For Orthodox Jews during a yearlong agricultural sabbath, Israel pledged to lift some restrictions on produce from the Gaza Strip. Palestinian farmers in Gaza are wondering what's taking so long. 
  <p class="updated_time"> 06:30 AM CT, Dec. 26 </p> 
@@ -27,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/europe/ukraine-russia-civilian-training.html">Training Civilians, Ukraine Nurtures a Resistance in Waiting</a> NYT: Eastern European nations have drawn a lesson from America’s wars of the last decades: Insurgency works. Ukraine’s training of volunteers has become a factor in the standoff with Russia. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/insider/in-congo-bolivia-and-beyond-where-the-green-future-begins.html">In Congo, Bolivia and Beyond, Where the Green Future Begins</a> NYT: The Times’s Race to the Future series is focused on the competition for electric-car resources that will shape the 21st century. 
+ <p class="updated_time"> 03:49 AM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-59793545?at_medium=RSS&at_campaign=KARANGA">In pictures: The life of Archbishop Desmond Tutu</a> BBC: The first black archbishop of Cape Town, South Africa, was a much-loved figure around the world. 
  <p class="updated_time"> 03:26 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 02:55 AM CT, Dec. 26 </p> 
@@ -103,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/25/1067966116/u-s-air-strikes-have-killed-thousands-of-civilians-nyt-magazine-investigation-fi">U.S. air strikes have killed thousands of civilians, NYT Magazine investigation finds</a> NPR: Scott Simon talks with Azmat Khan of the New York Times about U.S. drone strikes that have killed civilians in Iraq, Syria and Afghanistan. 
  <p class="updated_time"> 06:58 AM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1067966053/us-and-russian-officials-have-agreed-to-discuss-ukraine-tensions-and-role-of-nat">US and Russian officials have agreed to discuss Ukraine tensions and role of NATO</a> NPR: Ukraine and the West are still worried about Russian military aggression. Russian president Vladimir Putin addressed the situation during his end-of-the-year press conference. 
- <p class="updated_time"> 06:58 AM CT, Dec. 25 </p> 
- <a href="https://www.npr.org/2021/12/25/1067966039/christmas-celebrations-in-bethlehem-are-intimate-this-year">Christmas celebrations in Bethlehem are intimate this year</a> NPR: With the usual throngs of foreigners absent, Palestinian Muslims and Christians gathered in Manger Square and the Church of the Nativity in Bethlehem to celebrate Christmas. 
  <p class="updated_time"> 05:50 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-59790251?at_medium=RSS&at_campaign=KARANGA">Pope's Christmas Day message</a> BBC: Pope Francis gave his traditional Christmas message followed by his blessing, Urbi et Orbi, to the city and the world. 
  <p class="updated_time"> 05:49 AM CT, Dec. 25 </p> 
@@ -119,24 +127,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
  <p class="updated_time"> 11:30 PM CT, Dec. 24 </p> 
  <a href="https://www.wsj.com/articles/latin-america-is-now-a-world-leader-in-vaccinations-11640428207">Latin America Is Now a World Leader in Vaccinations</a> WSJ: Once a hot spot of Covid-19 deaths, the region now leads much of the world in vaccinations, as health policy makers rush to shield their countries from new variants roiling other places. 
- <p class="updated_time"> 08:57 PM CT, Dec. 24 </p> 
- <a href="https://www.npr.org/2021/12/24/1067923677/once-again-covid-means-scaled-back-christmas-celebrations-around-the-world">Once again, COVID means scaled-back Christmas celebrations around the world</a> NPR: From Bethlehem and Frankfurt to Boston, the surging coronavirus put a damper on Christmas Eve for a second year, forcing churches to cancel or scale back services and disrupting travel plans. 
  <p class="updated_time"> 06:15 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59738548?at_medium=RSS&at_campaign=KARANGA">No time for war: Russians see no chance of conflict</a> BBC: With rhetoric becoming harsh and fears of an invasion growing, Muscovites give their views on the crisis. 
  <p class="updated_time"> 06:10 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59742359?at_medium=RSS&at_campaign=KARANGA">Climate change: Lapland reindeer gone astray in search for food</a> BBC: Herders are struggling to find thousands of reindeer that have run away in search of food. 
  <p class="updated_time"> 05:21 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59787369?at_medium=RSS&at_campaign=KARANGA">SA urges halt to Nelson Mandela's Robben Island prison cell key auction</a> BBC: Nelson Mandela, South Africa's first black president, spent 18 years in a tiny cell on Robben Island. 
- <p class="updated_time"> 04:59 PM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59786665?at_medium=RSS&at_campaign=KARANGA">French zoo closed temporarily after pack of nine wolves escape</a> BBC: No people were injured during the incident, but the wolf pack was killed due to safety concerns. 
  <p class="updated_time"> 04:13 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/africa/south-africa-covid-quarantine.html">South Africa Ends Quarantining and Contact Tracing</a> NYT: The new regulations follow data showing that while the Omicron variant is highly transmissible, it has not caused high rates of severe disease in South Africa. 
  <p class="updated_time"> 04:12 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/south-africa-united-states-travel.html">Travel Between U.S. and Southern Africa Will Resume, White House Says</a> NYT: Biden will end the ban at midnight on Dec. 31, reversing restrictions imposed last month. South Africa criticized the ban as discriminatory. 
- <p class="updated_time"> 04:01 PM CT, Dec. 24 </p> 
- <a href="https://www.npr.org/2021/12/24/1067889597/holiday-show-celebrating-cole-porter-is-playing-to-packed-masked-houses-in-paris">Holiday show celebrating Cole Porter is playing to packed (masked) houses in Paris</a> NPR: A holiday musical review celebrating the work of Cole Porter is playing to rapturous audiences in Paris. 
- <p class="updated_time"> 03:54 PM CT, Dec. 24 </p> 
- <a href="https://www.npr.org/2021/12/24/1067889576/thousands-of-pilgrims-and-tourists-werent-in-bethlehem-on-christmas-eve-due-to-c">Thousands of pilgrims and tourists weren't in Bethlehem on Christmas eve due to COVID</a> NPR: For the second year, the Christmas eve celebration in the Palestinian city of Bethlehem was muted by the pandemic precautions. 
  <p class="updated_time"> 02:37 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/23/arts/music/carols-christmas-kings-choir-mcdowall.html">Cecilia McDowall to Debut New Christmas Carol</a> NYT: Each year, the choir of King’s College, Cambridge, commissions an original song for its Christmas service, giving the composer an audience of around 100 million people. 
  <p class="updated_time"> 01:47 PM CT, Dec. 24 </p> 
@@ -180,6 +180,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
+ <a href="https://www.npr.org/2021/12/26/1068063599/sudanese-activists-want-the-u-s-to-support-their-push-for-democracy">Sudanese activists want the U.S. to support their push for democracy</a> NPR: NPR's Eyder Peralta speaks with Ambassador Jeffrey Feltman, U.S. Special Envoy for the Horn of Africa, about the ongoing conflicts in that region. 
+ <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
+ <a href="https://www.npr.org/2021/12/26/1068063550/nyc-bans-natural-gas-in-new-buildings-in-an-effort-to-combat-climate-change">NYC bans natural gas in new buildings in an effort to combat climate change</a> NPR: NPR's Eyder Peralta talks to David Iaconangelo of E&E News about New York City's recent ban on natural gas in new buildings and its national implications. 
+ <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
+ <a href="https://www.npr.org/2021/12/26/1068063536/biden-struggles-with-his-image-as-covid-19-proves-difficult-to-stay-ahead-of">Biden struggles with his image as COVID-19 proves difficult to stay ahead of</a> NPR: The pandemic is the issue driving much of American politics these days and could either doom or boost the Biden presidency. 
  <p class="updated_time"> 06:44 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/desmond-tutu-nobel-dies-526149">Desmond Tutu, South African equality activist, dies at 90</a> Politico: The Nobel Prize winner became an international symbol of the fight against apartheid. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
@@ -214,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/25/1067966109/house-committee-investigating-jan-6-insurrection-calls-congress-members-to-testi">House committee investigating Jan. 6 insurrection calls Congress members to testify</a> NPR: The House select committee investigating the Jan. 6 insurrection is asking fellow members of Congress to cooperate in the probe. 
  <p class="updated_time"> 07:00 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/biden-puerto-rico-electricity-network-526102">Puerto Rico’s shattered power grid could become a ‘big experiment’ for Biden</a> Politico: The crumbling electricity network that serves the island's 3 million people is at the center of a debate on renewable energy vs. fossil fuels — with billions of federal dollars at stake. 
- <p class="updated_time"> 07:00 AM CT, Dec. 25 </p> 
- <a href="https://www.politico.com/news/2021/12/25/national-patient-ids-privacy-526096">Idea of national patient IDs revives privacy fight</a> Politico: Its ultimate fate is still tied to uncertainties surrounding the appropriations process and an overdue report on the benefits and risks from HHS’ health information tech office. 
  <p class="updated_time"> 05:03 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/23/science/webb-nasa-launch-delay.html">How NASA's Webb Telescope Overcame Loose Screws, Budgets and Clamps</a> NYT: Getting the James Webb Space Telescope to the launchpad has been a difficult journey that has taken decades. 
  <p class="updated_time"> 08:55 PM CT, Dec. 24 </p> 
@@ -260,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/24/biden-social-spending-senate-parliamentarian-526081">Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</a> Politico: The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan. 
  <p class="updated_time"> 06:20 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067775038/ex-president-trump-pushes-back-on-anti-vaccine-talking-points">Ex-President Trump pushes back on anti-vaccine talking points</a> NPR: In multiple recent appearances, former President Donald Trump has been touting COVID vaccines and even pushing back against misinformation. He's earning praise from President Biden. 
- <p class="updated_time"> 04:30 AM CT, Dec. 24 </p> 
- <a href="https://www.politico.com/cartoons/2021/12/23/the-nations-cartoonists-on-the-week-in-politics-000275">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:01 AM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1066223330/biden-covid-deaths-memorials">Biden stopped marking grim COVID milestones as he fought to end the pandemic</a> NPR: Biden used to talk a lot about the COVID-19 death toll, but over the last year he's shifted to how fight the pandemic. Some want him to go back to addressing the country's grief. 
  <p class="updated_time"> 09:48 PM CT, Dec. 23 </p> 
@@ -340,12 +342,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/23/joe-biden-tiktok-jonas-brothers-526019">Joe Biden was not made for the age of TikTok. But his team is trying.</a> Politico: The White House is producing videos that they know will get mocked on political Twitter. They don’t care. They have other plans. 
  <p class="updated_time"> 04:10 AM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067172020/the-house-panel-probing-the-jan-6-attack-wants-to-talk-to-trump-ally-rep-jordan">The House panel probing the Jan. 6 attack wants to talk to Trump ally Rep. Jordan</a> NPR: The House committee investigating the attack on the U.S. Capitol has requested that Ohio Rep. Jim Jordan, a longtime ally of ex-President Trump, voluntarily provide information to the panel. 
- <p class="updated_time"> 04:10 AM CT, Dec. 23 </p> 
- <a href="https://www.npr.org/2021/12/23/1067171990/morning-news-brief">News brief: antiviral pill for COVID, Jan. 6 probe, Putin's news conference</a> NPR: The FDA authorizes the first antiviral pill to treat COVID-19 at home. The House Jan. 6 panel wants to talk to Trump ally Rep. Jordan. Russian President Putin holds his annual year-end new conference. 
- <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
- <a href="https://www.npr.org/2021/12/23/1066276608/lies-betrayal-and-competition-on-the-hill-as-lawmakers-deck-the-halls-of-congres">Lies, betrayal and competition on the Hill as lawmakers deck the halls of Congress</a> NPR: The second floor of the Longworth congressional office building is taking holiday decorations to a whole new level. 
- <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
- <a href="https://www.npr.org/2021/12/23/1065277246/trump-big-lie-jan-6-election">The clear and present danger of Trump's enduring 'Big Lie'</a> NPR: Fueling the Jan. 6 insurrection was the "Big Lie" that Donald Trump won the election. One year later, many warn that lie has metastasized and now poses an even graver threat to American democracy. 
  <p class="updated_time"> 10:35 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/biden-vaccine-mandate-oral-arguments-supreme-court/index.html">In rare move, SCOTUS will hear January oral arguments in challenges to Biden vaccine mandates</a> CNN: The Supreme Court said Wednesday it is scheduling oral arguments for January 7 in the cases challenging the Biden administration's Covid-19 vaccine requirements for large employers and certain health care workers. 
  <p class="updated_time"> 09:43 PM CT, Dec. 22 </p> 
@@ -377,6 +373,8 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/hospitals-omicron-vaccinating-health-care-workers-525952">Hospitals grapple with Omicron — and legal brawl over vaccinating staff</a> Politico: More than 60,000 patients are hospitalized with Covid-19, according to the CDC, and the numbers are climbing with the highly contagious Omicron strain surging. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
+ <a href="https://www.politico.com/news/2021/12/22/redistricting-state-lawmakers-525960">You can draw your own congressional district</a> Politico: Redistricting is already inherently self-interested, with lawmakers routinely drawing maps for the benefit of their party. But, in some cases, politicians are working in their literal self-interest. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/dan-crenshaw-conservatives-come-correct-525829">Dan Crenshaw to his fellow conservatives: Come ‘correct’</a> Politico: The combat veteran often voted with Donald Trump but doesn't act Trumpishly. And he'll slam other Republicans when he feels he must. 
  <p class="updated_time"> 10:56 PM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/news/2021/12/21/schumer-floor-vote-biden-megabill-525963">Schumer vows a floor vote on Biden's $1.7T megabill next month</a> Politico: Sen. Joe Manchin (D-W.Va.) joined the virtual caucus call and addressed colleagues at the beginning, days after nixing the House-passed version of the bill. 
@@ -384,8 +382,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/21/dems-plot-path-after-manchin-derailment-495530">Dems plot path after Manchin derailment</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/21/the-search-for-a-plan-b-begins-495529"> The search for a Plan B begins</a> Politico Playbook: And Biden plans to deliver another big Covid speech. 
- <p class="updated_time"> 04:30 AM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/amazon-federal-law-enforcement-525794">How one of America’s largest employers leans on federal law enforcement</a> Politico: Amazon has increasingly tipped off the Justice Department and FBI to investigate its own employees and the sellers using its platform, according to a POLITICO analysis.  
+ <p class="updated_time"> 12:15 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/california-redistricting-midterms-525815">California’s new congressional map boosts Democrats</a> Politico: The final maps were approved late Monday by the state’s independent redistricting commission. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
