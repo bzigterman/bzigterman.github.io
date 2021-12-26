@@ -31,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/1068076531/3-members-of-k-pop-sensation-bts-have-tested-positive-for-covid-19">3 members of K-pop sensation BTS have tested positive for COVID-19 </a> NPR: Nearly half of the seven-member band have now tested positive, after returning to South Korea from abroad earlier this month. 
  <p class="updated_time"> 08:03 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
+ <p class="updated_time"> 07:10 AM CT, Dec. 26 </p> 
+ <a href="https://www.wsj.com/articles/countries-consider-further-post-christmas-omicron-curbs-11640525485">Airlines Scratch More Flights as Omicron Variant Advances</a> WSJ: The peak holiday travel season continued to be hammered by the fast-spreading Omicron variant Sunday, as the Biden administration said it was working to make sure hospitals aren’t overwhelmed. 
  <p class="updated_time"> 07:06 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068071004/cape-town-local-remembers-archbishop-desmond-tutu">Cape Town local remembers Archbishop Desmond Tutu</a> NPR: In his hometown of Cape Town, South Africans mourn Archbishop Desmond Tutu. 
  <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 02:55 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1047748076/desmond-tutu-dead-remembrance">Desmond Tutu's laugh was contagious. His fight for freedom was deadly serious</a> NPR: Desmond Tutu will be remembered for helping end apartheid. But also for his memorable laugh, an infectious, cackling howl employed in the service of easing tensions in a very tense nation. 
- <p class="updated_time"> 02:31 AM CT, Dec. 26 </p> 
- <a href="https://www.wsj.com/articles/countries-consider-further-post-christmas-omicron-curbs-11640525485">Countries Consider Further Post-Christmas Omicron Curbs</a> WSJ: People across Europe were set to face new restrictions as infection rates hit records in many areas, while the Biden administration said it was working to make sure hospitals aren’t overwhelmed. 
  <p class="updated_time"> 02:00 AM CT, Dec. 26 </p> 
  <a href="https://www.wsj.com/articles/germanys-vast-foreign-surpluses-are-finally-falling-fulfilling-an-old-u-s-demand-11640523603">Germany's Foreign Surpluses Are Falling, Fulfilling a U.S. Demand</a> WSJ: Washington and others had accused Germany of feeding global economic imbalances by hoarding savings and refusing to spend. 
  <p class="updated_time"> 02:00 AM CT, Dec. 26 </p> 
@@ -215,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068063536/biden-struggles-with-his-image-as-covid-19-proves-difficult-to-stay-ahead-of">Biden struggles with his image as COVID-19 proves difficult to stay ahead of</a> NPR: The pandemic is the issue driving much of American politics these days and could either doom or boost the Biden presidency. 
  <p class="updated_time"> 06:44 AM CT, Dec. 26 </p> 
- <a href="https://www.politico.com/news/2021/12/26/desmond-tutu-nobel-dies-526149">Desmond Tutu, South African equality activist, dies at 90</a> Politico: The Nobel Prize winner became an international symbol of the fight against apartheid. 
+ <a href="https://www.politico.com/news/2021/12/26/desmond-tutu-nobel-dies-526149">Desmond Tutu, South African equality activist, dies at 90</a> Politico: The Nobel Prize winner became an international symbol of the fight against iron-fisted rule by a white minority. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/us/politics/dr-oz-medical-advice.html">‘Magic’ Weight-Loss Pills and Covid Cures: Dr. Oz Under the Microscope</a> NYT: The celebrity physician, a candidate in Pennsylvania’s Republican primary for Senate, has a long history of dispensing dubious medical advice on his daytime show and on Fox News. 
  <p class="updated_time"> 04:03 PM CT, Dec. 25 </p> 
