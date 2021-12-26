@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 11:21 AM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/bts-covid-coronavirus.html">Two More Members of the K-pop Band BTS Test Positive for Coronavirus</a> NYT: RM and Jin discovered they were infected a day after Suga got his diagnosis. All tested positive after returning to South Korea from the United States. 
+ <a href="https://www.nytimes.com/2021/12/26/world/bts-covid-coronavirus.html">Two More Members of the K-Pop Band, BTS, Test Positive for Coronavirus</a> NYT: RM and Jin discovered they were infected a day after Suga got his diagnosis. All tested positive after returning to South Korea from the United States. 
  <p class="updated_time"> 11:09 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/europe/ukraine-russia-civilian-training.html">Training Civilians, Ukraine Nurtures a Resistance in Waiting</a> NYT: Eastern European nations have drawn a lesson from America’s wars of the last decades: Insurgency works. Ukraine’s training of volunteers has become a factor in the standoff with Russia. 
  <p class="updated_time"> 10:52 AM CT, Dec. 26 </p> 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:34 PM CT, Dec. 26 </p> 
+ <a href="https://www.politico.com/news/2021/12/26/holiday-shopping-christmas-omicron-526155">Despite supply issues and Omicron, holiday sales rise 8.5%</a> Politico: The results, which covered Nov. 1 through Dec. 24, were fueled by purchases of clothing and jewelry. 
  <p class="updated_time"> 11:56 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/cardin-senate-build-back-better-526154">Maryland senator sees possible comeback for Build Back Better</a> Politico: “There is unanimity in our caucus that we want to get a bill to the president,” Ben Cardin said. 
  <p class="updated_time"> 11:13 AM CT, Dec. 26 </p> 
@@ -392,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/21/dems-plot-path-after-manchin-derailment-495530">Dems plot path after Manchin derailment</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/21/the-search-for-a-plan-b-begins-495529"> The search for a Plan B begins</a> Politico Playbook: And Biden plans to deliver another big Covid speech. 
- <p class="updated_time"> 12:15 AM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/california-redistricting-midterms-525815">California’s new congressional map boosts Democrats</a> Politico: The final maps were approved late Monday by the state’s independent redistricting commission. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
