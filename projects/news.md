@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:19 PM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59792125?at_medium=RSS&at_campaign=KARANGA">Myanmar: Charity staff missing after deadly 'army attack'</a> BBC: Save the Children says troops killed 38 people and burned their bodies in eastern Kayah state. 
+ <p class="updated_time"> 07:00 PM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59702837?at_medium=RSS&at_campaign=KARANGA">Letter from Africa: Why Kenya's taxman is eyeing social media</a> BBC: Socialites are becoming wary of what they post online in case Kenya's revenue authority comes calling. 
+ <p class="updated_time"> 06:57 PM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59636403?at_medium=RSS&at_campaign=KARANGA">Love story sends TV fans in search of idyllic Alps</a> BBC: Crash Landing On You has been a big hit and now fans are travelling to the filming locations. 
+ <p class="updated_time"> 06:54 PM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59609232?at_medium=RSS&at_campaign=KARANGA">Israeli 'psychic' Uri Geller still baffling fans at 75</a> BBC: Now wowing visitors at his museum, the famous spoon bender recalls his rise from poverty to stardom. 
  <p class="updated_time"> 06:20 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1068020235/el-salvador-abortion-women-freed">El Salvador frees 3 women who were sentenced to 30 years under anti-abortion laws</a> NPR: President Nayib Bukele's government has freed three Salvadoran women who were sentenced to 30 years in prison under the nation's strict anti-abortion laws after suffering obstetric emergencies. 
  <p class="updated_time"> 06:06 PM CT, Dec. 25 </p> 
@@ -119,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59787060?at_medium=RSS&at_campaign=KARANGA">'Let's go, Brandon': Caller pranks Biden at White House event</a> BBC: A father from Oregon uttered a term that is code for an obscenity directed at the president. 
  <p class="updated_time"> 01:47 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop star Suga discovered that he was infected after returning to South Korea from the United States. 
- <p class="updated_time"> 11:34 AM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59785677?at_medium=RSS&at_campaign=KARANGA">Police stray bullet kills teen in LA store's dressing room</a> BBC: The teenager was in a changing room with her mother trying on dresses for her 15th birthday party. 
  <p class="updated_time"> 09:23 AM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59784118?at_medium=RSS&at_campaign=KARANGA">Russia fines Google over illegal content breach</a> BBC: The verdict marks the first time Russia has fined a technology giant based on their annual turnover. 
  <p class="updated_time"> 07:23 AM CT, Dec. 24 </p> 
@@ -301,7 +307,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:35 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067598901/president-biden-faces-pressure-to-end-fossil-fuel-development-to-fight-climate-c">President Biden faces pressure to end fossil fuel development to fight climate change</a> NPR: President Biden faces pressure to end fossil fuel development on federal land to fight climate change. But industry expects new drilling opportunities, putting his public lands chief in a tight spot. 
  <p class="updated_time"> 02:12 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/us/politics/kamala-harris-biden-administration.html">Heir Apparent or Afterthought? The Frustrations of Kamala Harris.</a> NYT: The vice president’s allies are increasingly concerned that President Biden relied on her to win but does not need her to govern. 
+ <a href="https://www.nytimes.com/2021/12/23/us/politics/kamala-harris-biden-administration.html">Kamala Harris’s Allies Express Concern: Is She an Afterthought?</a> NYT: The vice president’s allies are increasingly concerned that President Biden relied on her to win but does not need her to govern. 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
  <p class="updated_time"> 12:46 PM CT, Dec. 23 </p> 
