@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Dec. 26 </p> 
+ <a href="https://www.npr.org/2021/12/26/1066377153/israel-gaza-farm-bible-rest">A biblical rest from farming in Israel could help Gaza's growers. They are waiting</a> NPR: For Orthodox Jews during a yearlong agricultural sabbath, Israel pledged to lift some restrictions on produce from the Gaza Strip. Palestinian farmers in Gaza are wondering what's taking so long. 
  <p class="updated_time"> 06:30 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/494373491/desmond-tutu-dies">Desmond Tutu, an icon who helped end apartheid in South Africa, dies at 90</a> NPR: Nobel Peace Laureate Archbishop Desmond Tutu, a towering figure who helped bring an end to apartheid in South Africa, has died. 
  <p class="updated_time"> 06:17 AM CT, Dec. 26 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1067889597/holiday-show-celebrating-cole-porter-is-playing-to-packed-masked-houses-in-paris">Holiday show celebrating Cole Porter is playing to packed (masked) houses in Paris</a> NPR: A holiday musical review celebrating the work of Cole Porter is playing to rapturous audiences in Paris. 
  <p class="updated_time"> 03:54 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067889576/thousands-of-pilgrims-and-tourists-werent-in-bethlehem-on-christmas-eve-due-to-c">Thousands of pilgrims and tourists weren't in Bethlehem on Christmas eve due to COVID</a> NPR: For the second year, the Christmas eve celebration in the Palestinian city of Bethlehem was muted by the pandemic precautions. 
- <p class="updated_time"> 03:44 PM CT, Dec. 24 </p> 
- <a href="https://www.npr.org/2021/12/24/1067888961/pope-francis-christmas-eve-mass-covid">Pope Francis celebrates Christmas Eve Mass as Italy sets pandemic record of new cases</a> NPR: Pope Francis celebrated Christmas Eve Mass before an estimated 2,000 people in St. Peter's Basilica, going ahead with the service despite the resurgence in COVID-19 cases. 
  <p class="updated_time"> 02:37 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/23/arts/music/carols-christmas-kings-choir-mcdowall.html">Cecilia McDowall to Debut New Christmas Carol</a> NYT: Each year, the choir of King’s College, Cambridge, commissions an original song for its Christmas service, giving the composer an audience of around 100 million people. 
  <p class="updated_time"> 01:47 PM CT, Dec. 24 </p> 
@@ -410,8 +410,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/19/johnny-isakson-dies-georgia-senator-525501">Former Sen. Johnny Isakson dies at 76</a> Politico: The Georgia Republican was a millionaire businessman who was known as a consensus builder. 
  <p class="updated_time"> 09:17 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/manchin-says-he-wont-support-bidens-social-spending-bill-525458">White House lights up Manchin after he crushes Biden's megabill</a> Politico: The West Wing accused Manchin of "a breach of his commitments to the president and the senator’s colleagues in the House and Senate," in a blistering statement Sunday. 
- <p class="updated_time"> 07:00 AM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/news/2021/12/19/black-lawmakers-diversity-lobbying-firms-525362">Black lawmakers threaten to cut off K St unless it diversifies</a> Politico: Years of frustration with the racial composition of the political influence industry have begun to boil over. 
 
 
 </details>
