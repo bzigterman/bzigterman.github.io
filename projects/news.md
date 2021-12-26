@@ -13,6 +13,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59793776?at_medium=RSS&at_campaign=KARANGA">Archbishop Desmond Tutu: Looking back at his life</a> BBC: BBC South Africa correspondent Nomsa Maseko looks back at the life of Archbishop Desmond Tutu who has died aged 90. 
  <p class="updated_time"> 11:13 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-59793040?at_medium=RSS&at_campaign=KARANGA">Covid: Travel misery continues as 1,500 more flights cancelled</a> BBC: Chinese and US airlines are hardest hit amid a surge in Covid cases in many countries. 
+ <p class="updated_time"> 09:18 PM CT, Dec. 25 </p> 
+ <a href="https://www.wsj.com/articles/desmond-tutu-archbishop-who-helped-end-apartheid-11640503788">Desmond Tutu, Archbishop Who Helped End Apartheid, Dies</a> WSJ: The Anglican archbishop who led a global campaign to end South Africa’s racist policies and then helped in healing the nation’s wounds, has died at 90. 
  <p class="updated_time"> 08:39 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59792840?at_medium=RSS&at_campaign=KARANGA">Deadly bombing at restaurant packed for Christmas</a> BBC: Six people have been killed after a suicide bomber targeted a restaurant in eastern DR Congo. 
  <p class="updated_time"> 07:19 PM CT, Dec. 25 </p> 
