@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 04:48 AM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59793040?at_medium=RSS&at_campaign=KARANGA">Covid: Travel misery for tens of thousands with flights are cancelled</a> BBC: Chinese and US airlines are hardest hit amid a surge in Covid cases in many countries. 
+ <a href="https://www.bbc.co.uk/news/world-59793040?at_medium=RSS&at_campaign=KARANGA">Covid: Travel misery for tens of thousands as flights are cancelled</a> BBC: Chinese and US airlines are hardest hit amid a surge in Covid cases in many countries. 
  <p class="updated_time"> 04:46 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59793726?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: South Africa anti-apartheid hero dies aged 90</a> BBC: Tributes are paid to Archbishop Tutu, the Nobel peace prize laureate who helped end apartheid in South Africa. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
@@ -101,16 +101,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/canada/another-covid-christmas.html">Another Covid Christmas …</a> NYT: December went by like an Omicron advent calendar, each passing day revealing how the virus’s trajectory would change hoped-for holiday plans. 
  <p class="updated_time"> 04:00 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/africa/africa-coronavirus-omicron.html">Many African Countries Toughen Covid Restrictions as Fourth Wave Spreads</a> NYT: Infections have more than doubled or tripled in many countries, prompting the authorities to reimpose curfews and quarantines and introduce vaccine mandates as the holiday season gets underway. 
- <p class="updated_time"> 03:00 AM CT, Dec. 25 </p> 
- <a href="https://www.wsj.com/articles/amc-lags-behind-in-saudi-arabias-surprisingly-competitive-cinema-market-11640440802">AMC Lags Behind in Surprisingly Competitive Saudi Cinema Market</a> WSJ: Four years since the kingdom lifted a ban on theaters, local rivals have moved ahead of the U.S. giant. 
  <p class="updated_time"> 12:19 AM CT, Dec. 25 </p> 
  <a href="https://www.wsj.com/articles/pope-francis-in-christmas-message-laments-pandemic-of-loneliness-11640431162">Pope Francis Laments Pandemic of Loneliness</a> WSJ: The pope, in his annual Christmas message, highlighted the social impact of the pandemic while reiterating his previous calls for equitable distribution of Covid-19 vaccines. 
  <p class="updated_time"> 12:08 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
  <p class="updated_time"> 11:30 PM CT, Dec. 24 </p> 
  <a href="https://www.wsj.com/articles/latin-america-is-now-a-world-leader-in-vaccinations-11640428207">Latin America Is Now a World Leader in Vaccinations</a> WSJ: Once a hot spot of Covid-19 deaths, the region now leads much of the world in vaccinations, as health policy makers rush to shield their countries from new variants roiling other places. 
- <p class="updated_time"> 11:30 PM CT, Dec. 24 </p> 
- <a href="https://www.wsj.com/articles/omicron-surge-complicates-crew-changes-in-busy-cargo-ports-11640428202">Omicron Surge Complicates Crew Changes in Busy Cargo Ports</a> WSJ: Only a quarter of seafarers are vaccinated, which constrains the movement of crews on and off ships as countries erect new barriers to travel. 
  <p class="updated_time"> 08:57 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067923677/once-again-covid-means-scaled-back-christmas-celebrations-around-the-world">Once again, COVID means scaled-back Christmas celebrations around the world</a> NPR: From Bethlehem and Frankfurt to Boston, the surging coronavirus put a damper on Christmas Eve for a second year, forcing churches to cancel or scale back services and disrupting travel plans. 
  <p class="updated_time"> 06:15 PM CT, Dec. 24 </p> 
@@ -147,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/asia/bangladesh-ferry-fire.html">Fire on Crowded Bangladesh Ferry Leaves Dozens Dead</a> NYT: Officials confirmed 35 deaths, but they said the toll was likely to rise as search and rescue continued. 
  <p class="updated_time"> 05:32 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/europe-covid-pandemic-omicron.html">Europeans Ponder Living With, Not Defeating, Covid</a> NYT: On the eve of the biggest holidays in Europe, exhaustion with the pandemic is rising. So is resignation that the virus is endemic. 
- <p class="updated_time"> 05:28 AM CT, Dec. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraine-wants-military-support-to-deter-russia-while-the-u-s-weighs-response-11640363279">Ukraine Wants Military Support to Deter Russia While U.S. Weighs Response</a> WSJ: Ukrainian officials say efforts to stop Moscow would be strengthened if the Biden administration steps up assistance ahead of an attack. 
  <p class="updated_time"> 05:06 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/queen-elizabeth-ii-christmas-covid.html">A Quieter Christmas for Queen Elizabeth II as Covid Persists</a> NYT: The 95-year-old monarch is spending the holiday at Windsor Castle instead of Sandringham, her English country estate. 
  <p class="updated_time"> 04:02 AM CT, Dec. 24 </p> 
