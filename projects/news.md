@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:28 AM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59793726?at_medium=RSS&at_campaign=KARANGA">South Africa's Archbishop Desmond Tutu dies at 90</a> BBC: Archbishop Desmond Tutu, the Nobel Peace prize laureate who helped end apartheid in South Africa, has died aged 90. 
  <p class="updated_time"> 03:26 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 02:55 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1047748076/desmond-tutu-dead-remembrance">Desmond Tutu's laugh was contagious. His fight for freedom was deadly serious</a> NPR: Desmond Tutu will be remembered for helping end apartheid. But also for his memorable laugh, an infectious, cackling, howl employed in the service of easing tensions in a very tense nation. 
- <p class="updated_time"> 02:22 AM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59793726?at_medium=RSS&at_campaign=KARANGA">South Africa's Archbishop Desmond Tutu dies at 90</a> BBC: Archbishop Desmond Tutu, the Nobel Peace prize laureate who helped end apartheid in South Africa, has died aged 90 
  <p class="updated_time"> 01:28 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59793776?at_medium=RSS&at_campaign=KARANGA">Archbishop Desmond Tutu: Looking back at his life</a> BBC: BBC South Africa correspondent Nomsa Maseko looks back at the life of Archbishop Desmond Tutu who has died aged 90. 
  <p class="updated_time"> 11:13 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-59793040?at_medium=RSS&at_campaign=KARANGA">Covid: Travel misery continues as 1,500 more flights cancelled</a> BBC: Chinese and US airlines are hardest hit amid a surge in Covid cases in many countries. 
+ <p class="updated_time"> 10:18 PM CT, Dec. 25 </p> 
+ <a href="https://www.wsj.com/articles/myanmar-military-attack-kills-dozens-including-children-aid-group-says-11640510326">Myanmar Military Attack Kills Dozens, Including Children, Aid Group Says</a> WSJ: The violence happened in a part of the country where resistance groups have been fighting the military junta. 
  <p class="updated_time"> 09:18 PM CT, Dec. 25 </p> 
  <a href="https://www.wsj.com/articles/desmond-tutu-archbishop-who-helped-end-apartheid-11640503788">Desmond Tutu, Archbishop Who Helped End Apartheid, Dies</a> WSJ: The Anglican archbishop who led a global campaign to end South Africa’s racist policies and then helped in healing the nation’s wounds, has died at 90. 
  <p class="updated_time"> 08:39 PM CT, Dec. 25 </p> 
