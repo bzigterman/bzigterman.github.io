@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:48 PM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/two-college-football-bowl-games-are-canceled-because-of-virus-cases.html">Two College Bowl Games Are Canceled Because of Covid Cases.</a> NYT: The Fenway and Military Bowls were scrapped when teams didn’t have enough healthy players to take the field. 
  <p class="updated_time"> 04:01 PM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068160191/remembering-the-legacy-of-archbishop-desmond-tutu">Remembering the legacy of Archbishop Desmond Tutu</a> NPR: Journalist Kate Bartlett speaks with Elissa Nadworny about what Desmond Tutu meant to the people of South Africa and the fight for social justice more broadly. 
  <p class="updated_time"> 03:58 PM CT, Dec. 26 </p> 
