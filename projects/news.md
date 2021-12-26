@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:15 AM CT, Dec. 26 </p> 
+ <p class="updated_time"> 01:35 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59793726?at_medium=RSS&at_campaign=KARANGA">South Africa's Archbishop Desmond Tutu dies at 90</a> BBC: Archbishop Desmond Tutu, the Nobel Peace prize laureate who helped end apartheid in South Africa, has died aged 90 
+ <p class="updated_time"> 01:28 AM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59793776?at_medium=RSS&at_campaign=KARANGA">Archbishop Desmond Tutu: Looking back at his life</a> BBC: BBC South Africa correspondent Nomsa Maseko looks back at the life of Archbishop Desmond Tutu who has died aged 90. 
  <p class="updated_time"> 11:13 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-59793040?at_medium=RSS&at_campaign=KARANGA">Covid: Travel misery continues as 1,500 more flights cancelled</a> BBC: Chinese and US airlines are hardest hit amid a surge in Covid cases in many countries. 
  <p class="updated_time"> 08:39 PM CT, Dec. 25 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 03:00 AM CT, Dec. 25 </p> 
  <a href="https://www.wsj.com/articles/amc-lags-behind-in-saudi-arabias-surprisingly-competitive-cinema-market-11640440802">AMC Lags Behind in Surprisingly Competitive Saudi Cinema Market</a> WSJ: Four years since the kingdom lifted a ban on theaters, local rivals have moved ahead of the U.S. giant. 
- <p class="updated_time"> 01:41 AM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-59777677?at_medium=RSS&at_campaign=KARANGA">ICYMI: Christmas moments you may have missed from around the globe</a> BBC: A New York neighbourhood going all out for the holidays and other stories you may have missed this week. 
  <p class="updated_time"> 12:19 AM CT, Dec. 25 </p> 
  <a href="https://www.wsj.com/articles/pope-francis-in-christmas-message-laments-pandemic-of-loneliness-11640431162">Pope Francis Laments Pandemic of Loneliness</a> WSJ: The pope, in his annual Christmas message, highlighted the social impact of the pandemic while reiterating his previous calls for equitable distribution of Covid-19 vaccines. 
  <p class="updated_time"> 12:08 AM CT, Dec. 25 </p> 
