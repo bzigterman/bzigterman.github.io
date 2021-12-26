@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:12 PM CT, Dec. 25 </p> 
+ <p class="updated_time"> 08:39 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59792840?at_medium=RSS&at_campaign=KARANGA">Deadly bombing at restaurant packed for Christmas</a> BBC: Six people have been killed after a suicide bomber targeted a restaurant in eastern DR Congo. 
  <p class="updated_time"> 07:19 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59792125?at_medium=RSS&at_campaign=KARANGA">Myanmar: Charity staff missing after deadly 'army attack'</a> BBC: Save the Children says troops killed 38 people and burned their bodies in eastern Kayah state. 
