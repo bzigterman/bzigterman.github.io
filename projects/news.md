@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:55 AM CT, Dec. 26 </p> 
+ <a href="https://www.npr.org/2021/12/26/1047748076/desmond-tutu-dead-remembrance">Desmond Tutu's laugh was contagious. His fight for freedom was deadly serious.</a> NPR: Desmond Tutu will be remembered for helping end apartheid. But also for his memorable laugh, an infectious, cackling, howl employed in the service of easing tensions in a very tense nation. 
  <p class="updated_time"> 02:22 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59793726?at_medium=RSS&at_campaign=KARANGA">South Africa's Archbishop Desmond Tutu dies at 90</a> BBC: Archbishop Desmond Tutu, the Nobel Peace prize laureate who helped end apartheid in South Africa, has died aged 90 
  <p class="updated_time"> 01:28 AM CT, Dec. 26 </p> 
@@ -123,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1067888961/pope-francis-christmas-eve-mass-covid">Pope Francis celebrates Christmas Eve Mass as Italy sets pandemic record of new cases</a> NPR: Pope Francis celebrated Christmas Eve Mass before an estimated 2,000 people in St. Peter's Basilica, going ahead with the service despite the resurgence in COVID-19 cases. 
  <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067871944/syria-civil-war-3700-deaths">More than 3,700 people were killed in Syria's civil war this year</a> NPR: The count, by the Syrian Observatory for Human Rights, comes after more than a decade of a war that's killed at least 350,000 people and displaced millions. 
- <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
- <a href="https://www.npr.org/2021/12/24/1067889562/encore-a-toy-monkey-that-escaped-nazi-germany-and-reunited-a-family">Encore: A toy monkey that escaped Nazi Germany and reunited a family</a> NPR: The father of NPR's Uri Berliner packed a stuffed monkey when he fled the Nazis as a child. He kept the toy for decades before donating it to a museum, an act that led to a remarkable discovery. 
  <p class="updated_time"> 02:37 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/23/arts/music/carols-christmas-kings-choir-mcdowall.html">Cecilia McDowall to Debut New Christmas Carol</a> NYT: Each year, the choir of King’s College, Cambridge, commissions an original song for its Christmas service, giving the composer an audience of around 100 million people. 
  <p class="updated_time"> 01:56 PM CT, Dec. 24 </p> 
