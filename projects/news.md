@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:21 AM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/bts-covid-coronavirus.html">Two More Members of the K-pop Band BTS Test Positive for Coronavirus</a> NYT: RM and Jin discovered they were infected a day after Suga got his diagnosis. All tested positive after returning to South Korea from the United States. 
  <p class="updated_time"> 11:09 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/europe/ukraine-russia-civilian-training.html">Training Civilians, Ukraine Nurtures a Resistance in Waiting</a> NYT: Eastern European nations have drawn a lesson from America’s wars of the last decades: Insurgency works. Ukraine’s training of volunteers has become a factor in the standoff with Russia. 
  <p class="updated_time"> 10:52 AM CT, Dec. 26 </p> 
@@ -188,6 +190,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:56 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/cardin-senate-build-back-better-526154">Maryland senator sees possible comeback for Build Back Better</a> Politico: “There is unanimity in our caucus that we want to get a bill to the president,” Ben Cardin said. 
+ <p class="updated_time"> 11:13 AM CT, Dec. 26 </p> 
+ <a href="https://www.npr.org/2021/12/26/1068103241/fema-wants-to-give-families-up-to-9-000-for-covid-funerals-but-many-dont-apply">FEMA wants to give families up to $9,000 for COVID funerals, but many don't apply</a> NPR: A federal program reimburses families up to $9,000 for funeral costs for loved ones who died of COVID-19. But many eligible families have not applied for assistance. 
  <p class="updated_time"> 11:10 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/putin-russia-ukraine-nato-526153">Putin to mull options if West refuses guarantees on Ukraine</a> Politico: Earlier this month, Russia submitted draft security documents demanding that NATO deny membership to Ukraine and other former Soviet countries. 
  <p class="updated_time"> 10:56 AM CT, Dec. 26 </p> 
@@ -218,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/25/biden-jill-joe-christmas-armed-forces-526147">Bidens chat with service members by video</a> Politico: The president called members of the Armed Forces “the solid steel spine of the nation.” 
  <p class="updated_time"> 12:58 PM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/flight-cancellations-covid-christmas-526146">Flight cancellations continue</a> Politico: Airlines said the omicron variant was causing staffing problems leading to flight cancellations. 
- <p class="updated_time"> 11:03 AM CT, Dec. 25 </p> 
- <a href="https://www.politico.com/news/2021/12/25/britain-vaccines-jingle-jabs-526144">Thousands line up for ‘jingle jabs’ on Christmas in England</a> Politico: Health Secretary Sajid Javid urged people to “make the booster a part of your Christmas this year.” 
  <p class="updated_time"> 10:51 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/business/biden-inflation.html">As Prices Rise Due to Inflation, Biden Turns to Antitrust Enforcers</a> NYT: A wide-ranging presidential order helped block a railroad merger and tackle supply-chain problems, and it is planting the seeds for bigger actions. 
  <p class="updated_time"> 09:42 AM CT, Dec. 25 </p> 
@@ -354,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/23/state-veterans-homes-safety-data-526027">Gaps remain in safety data on State Veterans Homes</a> Politico: As Omicron strikes, families lack a full picture of how well homes for elderly veterans have adapted to Covid risks. 
  <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/joe-biden-tiktok-jonas-brothers-526019">Joe Biden was not made for the age of TikTok. But his team is trying.</a> Politico: The White House is producing videos that they know will get mocked on political Twitter. They don’t care. They have other plans. 
- <p class="updated_time"> 04:10 AM CT, Dec. 23 </p> 
- <a href="https://www.npr.org/2021/12/23/1067172020/the-house-panel-probing-the-jan-6-attack-wants-to-talk-to-trump-ally-rep-jordan">The House panel probing the Jan. 6 attack wants to talk to Trump ally Rep. Jordan</a> NPR: The House committee investigating the attack on the U.S. Capitol has requested that Ohio Rep. Jim Jordan, a longtime ally of ex-President Trump, voluntarily provide information to the panel. 
  <p class="updated_time"> 10:35 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/biden-vaccine-mandate-oral-arguments-supreme-court/index.html">In rare move, SCOTUS will hear January oral arguments in challenges to Biden vaccine mandates</a> CNN: The Supreme Court said Wednesday it is scheduling oral arguments for January 7 in the cases challenging the Biden administration's Covid-19 vaccine requirements for large employers and certain health care workers. 
  <p class="updated_time"> 09:43 PM CT, Dec. 22 </p> 
@@ -392,6 +392,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/21/dems-plot-path-after-manchin-derailment-495530">Dems plot path after Manchin derailment</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/21/the-search-for-a-plan-b-begins-495529"> The search for a Plan B begins</a> Politico Playbook: And Biden plans to deliver another big Covid speech. 
+ <p class="updated_time"> 12:15 AM CT, Dec. 21 </p> 
+ <a href="https://www.politico.com/news/2021/12/21/california-redistricting-midterms-525815">California’s new congressional map boosts Democrats</a> Politico: The final maps were approved late Monday by the state’s independent redistricting commission. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
