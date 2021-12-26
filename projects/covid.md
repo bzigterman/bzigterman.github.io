@@ -1157,8 +1157,8 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">120.0K</td>
-<td class="gt_row gt_right">184.0K</td>
-<td class="gt_row gt_right">+53&percnt;</td></tr>
+<td class="gt_row gt_right">185.0K</td>
+<td class="gt_row gt_right">+54&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">60.9K</td>
 <td class="gt_row gt_right gt_striped">65.3K</td>
@@ -1166,7 +1166,7 @@ html {
     <tr><td class="gt_row gt_left">Deaths</td>
 <td class="gt_row gt_right">1.2K</td>
 <td class="gt_row gt_right">1.4K</td>
-<td class="gt_row gt_right">+14&percnt;</td></tr>
+<td class="gt_row gt_right">+15&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">1.6M</td>
 <td class="gt_row gt_right gt_striped">875.0K</td>
@@ -1585,7 +1585,7 @@ As of Saturday, the 14-day percent change in average new cases was:
   
 - 51% in Champaign County
 - 77% in Illinois
-- 53% in the United States
+- 54% in the United States
 - 20% worldwide
 
 ![Case Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png)
@@ -1597,7 +1597,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 As of Saturday, the 14-day percent change in average new deaths was:
   
 - 39% in Illinois
-- 14% in the United States
+- 15% in the United States
 - -13% worldwide
 
 ![Death Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png)
