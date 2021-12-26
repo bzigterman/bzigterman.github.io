@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:01 PM CT, Dec. 26 </p> 
+ <a href="https://www.npr.org/2021/12/26/1068160191/remembering-the-legacy-of-archbishop-desmond-tutu">Remembering the legacy of Archbishop Desmond Tutu</a> NPR: Journalist Kate Bartlett speaks with Elissa Nadworny about what Desmond Tutu meant to the people of South Africa and the fight for social justice more broadly. 
  <p class="updated_time"> 03:58 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/americas/navy-ship-covid.html">No Sailors on Navy Ship Required Hospitalization After Coronavirus Outbreak</a> NYT: The base hospital at Guantánamo Bay gave vaccine booster doses to the ship to administer to anyone who wants one. 
  <p class="updated_time"> 03:44 PM CT, Dec. 26 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/navy-ship-covid-guantanamo-bay.html">Covid Outbreak Strands U.S.S. Milwaukee in Guantánamo Bay</a> NYT: The crew held an open-air Christmas service on the pier, allowing the sailors to remain socially distanced. 
  <p class="updated_time"> 02:12 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/asia/china-money.html">Why Bragging About Your Wealth In China Can Get You Censored</a> NYT: Online posts by users showing off their receipts, over-ordering food or scattering money have been deemed vulgar. Regulators say such content leads young people astray. 
- <p class="updated_time"> 02:12 PM CT, Dec. 25 </p> 
- <a href="https://www.npr.org/2021/12/25/1067993247/some-russian-troops-reportedly-withdraw-from-ukraine-border-area">Some Russian troops reportedly withdraw from Ukraine border area</a> NPR: Russia's Interfax news, citing the military, reports that 10,000 troops are returning to their "permanent deployment points" from the border region. 
  <p class="updated_time"> 02:07 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html">Israel May Give 4th Dose of Covid Shot, Despite Experts' Doubts</a> NYT: Some scientists warn that too many shots might actually harm the body’s ability to fight the Covid-19 virus. But Israeli experts say there isn’t time to wait. 
  <p class="updated_time"> 02:05 PM CT, Dec. 25 </p> 
