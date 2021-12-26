@@ -180,6 +180,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:05 AM CT, Dec. 26 </p> 
+ <a href="https://www.cnn.com/2021/12/26/politics/republicans-trump-2021-lies/index.html">Biden's struggles shouldn't eclipse GOP's year of dangerous falsehoods</a> CNN: America's running political conversation defaults to the sitting president. Today, Joe Biden's legislative struggles, pandemic management and weak approval rating drown out most everything else. 
  <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068063599/sudanese-activists-want-the-u-s-to-support-their-push-for-democracy">Sudanese activists want the U.S. to support their push for democracy</a> NPR: NPR's Eyder Peralta speaks with Ambassador Jeffrey Feltman, U.S. Special Envoy for the Horn of Africa, about the ongoing conflicts in that region. 
  <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
@@ -194,8 +196,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/25/1068008393/rep-pete-aguilar-discusses-the-jan-6-panels-progress-as-anniversary-approaches">Rep. Pete Aguilar discusses the Jan. 6 panel's progress as anniversary approaches</a> NPR: NPR's Elissa Nadworny speaks with Jan. 6 committee member Rep. Pete Aguilar, D-Calif., about where his panel's investigation stands ahead of the one-year anniversary of the attack. 
  <p class="updated_time"> 02:53 PM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/biden-jill-joe-christmas-armed-forces-526147">Bidens chat with service members by video</a> Politico: The president called members of the Armed Forces “the solid steel spine of the nation.” 
- <p class="updated_time"> 01:50 PM CT, Dec. 25 </p> 
- <a href="https://www.cnn.com/2021/12/25/politics/joe-biden-service-members-christmas-remarks/index.html">Biden thanks service members in Christmas remarks</a> CNN: President Joe Biden thanked service members stationed across the globe for their service in a Christmas Day virtual meeting from the White House. 
  <p class="updated_time"> 12:58 PM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/flight-cancellations-covid-christmas-526146">Flight cancellations continue</a> Politico: Airlines said the omicron variant was causing staffing problems leading to flight cancellations. 
  <p class="updated_time"> 12:46 PM CT, Dec. 25 </p> 
@@ -209,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:31 AM CT, Dec. 25 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/taylor-budowich-trump-spokesman-jan-6-committee/index.html">January 6 committee ramps up efforts to uncover funding behind Capitol riot</a> CNN: Trump spokesman Taylor Budowich on Friday sued the House select committee investigating the January 6 riot to prevent it from obtaining his financial documents from JP Morgan, which is also named in the lawsuit. 
  <p class="updated_time"> 09:02 AM CT, Dec. 25 </p> 
- <a href="https://www.cnn.com/2021/12/25/world/meanwhile-in-america-december-22-intl/index.html">30 years after USSR fell, there's tension between US and Russia this Christmas</a> CNN: For once, 30 years ago, Christmas really did herald an era of peace. 
+ <a href="https://www.cnn.com/2021/12/25/world/meanwhile-in-america-december-22-intl/index.html">Analysis: 30 years after USSR fell, there's tension between US and Russia this Christmas</a> CNN: For once, 30 years ago, Christmas really did herald an era of peace. 
  <p class="updated_time"> 08:44 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/25/the-manchin-dance-continues-on-christmas-495551"> The Manchin dance continues on Christmas</a> Politico Playbook: And a judge continues prior restraint on the NYT. 
  <p class="updated_time"> 08:33 AM CT, Dec. 25 </p> 
@@ -238,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/videos/politics/2021/12/24/top-10-political-stories-of-2021-acosta-pkg-vpx.cnn">Insurrection, inauguration and Covid: The top political stories of 2021</a> CNN: CNN's Jim Acosta takes a look back at the largest political stories from 2021. 
  <p class="updated_time"> 01:49 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067875042/the-u-s-is-lifting-its-omicron-linked-travel-ban-on-southern-africa">The U.S. is lifting its omicron-linked travel ban on southern Africa</a> NPR: The Biden administration on Friday said it was ordering the lifting of COVID-19 travel restrictions imposed earlier on eight  countries. The WHO had argued they were ineffective and unfair. 
- <p class="updated_time"> 01:40 PM CT, Dec. 24 </p> 
- <a href="https://www.cnn.com/2021/12/24/politics/joe-biden-christmas-santa-norad/index.html">Biden calls NORAD and updates children on Santa's progress across the globe</a> CNN: President Joe Biden made a Christmas Eve call to North American Aerospace Defense Command on Friday at the White House, updating children on Santa's progress across the globe as part of what NORAD Commander Gen. Glen VanHerck on the call called "DOD's largest outreach program." 
  <p class="updated_time"> 01:17 PM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/cdc-updates-isolation-guidance-health-care-workers/index.html">CDC shortens isolation time for health care workers with Covid-19</a> CNN: The US Centers for Disease Control and Prevention is shortening the isolation time for health care workers who test positive for Covid-19, as it anticipates a surge in hospitalizations due to the Omicron variant. 
  <p class="updated_time"> 12:21 PM CT, Dec. 24 </p> 
@@ -253,7 +251,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:45 AM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/trump-covid-vaccine-republicans-polling/index.html">Trump's endorsement of vaccines aligns with most Republicans' views -- but it may be an uphill battle to convince the holdouts</a> CNN: Former President Donald Trump has recently been vocal about the benefits of vaccination against Covid-19 -- a position that's in line with the overwhelming majority of Americans who've chosen to get vaccinated, including the bulk of his own party. 
  <p class="updated_time"> 08:29 AM CT, Dec. 24 </p> 
- <a href="https://www.cnn.com/2021/12/24/politics/trump-vaccine-election-what-matters/index.html">Trump pushes one truth and hides another</a> CNN: There are things that former President Donald Trump wants to talk about, like vaccines, and things he'd rather keep quiet, like what exactly happened in the White House leading up to January 6. 
+ <a href="https://www.cnn.com/2021/12/24/politics/trump-vaccine-election-what-matters/index.html">Analysis: Trump pushes one truth and hides another</a> CNN: There are things that former President Donald Trump wants to talk about, like vaccines, and things he'd rather keep quiet, like what exactly happened in the White House leading up to January 6. 
  <p class="updated_time"> 08:12 AM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/travel-restrictions-african-countries-omicron/index.html">Biden to lift travel restrictions on southern African countries that were put in place due to Omicron</a> CNN: The Biden administration is lifting restrictions on eight southern African countries that were put in place last month after the Omicron variant was first identified in South Africa, a White House official tells CNN. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
