@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:45 AM CT, Dec. 26 </p> 
+ <a href="https://www.npr.org/2021/12/26/1068101250/save-the-children-staff-myanmar">Save the Children says 2 staffers are missing after a massacre in Myanmar</a> NPR: A massacre in Myanmar that left more than 30 people, including women and children, dead and burned in their vehicles after they were reportedly shot by government troops as they were fleeing combat. 
+ <p class="updated_time"> 10:30 AM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/africa/tutu-death.html">Here Are Some of the Many Tributes for Desmond Tutu, a Force for Harmony</a> NYT: From prominent South African lawmakers to religious figures, many on social media honored Archbishop Tutu as a patriot of peaceful principles who dedicated his life to combating injustice everywhere. 
+ <p class="updated_time"> 10:30 AM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/europe/afghans-netherlands-migrants.html">After Chaotic Evacuation, Afghans in the Netherlands Struggle to Find Stability</a> NYT: Many Afghans evacuated to the Netherlands have been living in tents for months, as they prepare to resettle in a Europe that is wrangling with a heated debate about immigration. 
+ <p class="updated_time"> 10:07 AM CT, Dec. 26 </p> 
+ <a href="https://www.npr.org/2021/12/26/1068086310/world-leaders-mourn-the-death-of-archbishop-desmond-tutu-who-died-at-90">World leaders mourn the death of Archbishop Desmond Tutu</a> NPR: The archbishop is being remembered around the world for his commitment to equality and justice and his "impish" sense of humor. 
  <p class="updated_time"> 09:57 AM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59796716?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu death: South Africans remember anti-apartheid leader</a> BBC: The archbishop, who was a driving force in the anti-apartheid movement, has died aged 90. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59796716?at_medium=RSS&at_campaign=KARANGA">'A dark day': South Africans remember Tutu</a> BBC: The archbishop, who was a driving force in the anti-apartheid movement, has died aged 90. 
  <p class="updated_time"> 09:30 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59796159?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Obama joins tributes to South Africa anti-apartheid hero</a> BBC: The former US president praises the churchman who helped end apartheid, after his death aged 90. 
- <p class="updated_time"> 09:17 AM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/africa/tutu-death.html">Here Are Some of the Many Tributes for Desmond Tutu, a Force for Harmony</a> NYT: From prominent South African lawmakers to religious figures, many on social media honored Archbishop Tutu as a patriot of peaceful principles who dedicated his life to combating injustice everywhere. 
  <p class="updated_time"> 09:06 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/alfredo-lupi-janitor-italy.html">A Janitor’s Colleagues Put Him on the Fast Track to Retirement</a> NYT: An Italian factory worker was dealing with a lifelong impairment that made it hard to work, but he wasn’t in a position to retire. Then his co-workers gave him 20 months’ worth of vacation days. 
  <p class="updated_time"> 08:50 AM CT, Dec. 26 </p> 
@@ -30,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1066377153/israel-gaza-farm-bible-rest">A biblical rest from farming in Israel could help Gaza's growers. They are waiting</a> NPR: For Orthodox Jews during a yearlong agricultural sabbath, Israel pledged to lift some restrictions on produce from the Gaza Strip. Palestinian farmers in Gaza are wondering what's taking so long. 
  <p class="updated_time"> 06:30 AM CT, Dec. 26 </p> 
- <a href="https://www.npr.org/2021/12/26/494373491/desmond-tutu-dies">Desmond Tutu, an icon who helped end apartheid in South Africa, dies at 90</a> NPR: Nobel Peace laureate Archbishop Desmond Tutu campaigned against a system he called evil and, after apartheid, helped the nation heal as head of the Truth and Reconciliation Commission. 
+ <a href="https://www.npr.org/2021/12/26/494373491/desmond-tutu-dies">Desmond Tutu, an icon who helped end apartheid in South Africa, dies at 90</a> NPR: The Nobel Peace laureate and archbishop emeritus campaigned against a system he called evil and, after apartheid, helped the nation heal as head of the Truth and Reconciliation Commission. 
  <p class="updated_time"> 06:13 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59795213?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Security forces accused of violence against protesters</a> BBC: Some 178 anti-coup demonstrators are reportedly injured in clashes near the presidential palace. 
  <p class="updated_time"> 06:13 AM CT, Dec. 26 </p> 
@@ -48,13 +54,13 @@ permalink: /projects/news/
  <p class="updated_time"> 02:55 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1047748076/desmond-tutu-dead-remembrance">Desmond Tutu's laugh was contagious. His fight for freedom was deadly serious</a> NPR: Desmond Tutu will be remembered for helping end apartheid. But also for his memorable laugh, an infectious, cackling, howl employed in the service of easing tensions in a very tense nation. 
  <p class="updated_time"> 02:31 AM CT, Dec. 26 </p> 
- <a href="https://www.wsj.com/articles/countries-consider-further-post-christmas-omicron-curbs-11640525485">Countries Consider Further Post-Christmas Omicron Curbs</a> WSJ: People across Europe were set to face new restrictions to slow the spread of the Omicron variant as infection rates hit fresh records in many areas, while the U.S. and other countries eased isolation guidelines to help stem staff shortages in the healthcare sector and other key industries. 
+ <a href="https://www.wsj.com/articles/countries-consider-further-post-christmas-omicron-curbs-11640525485">Countries Consider Further Post-Christmas Omicron Curbs</a> WSJ: People across Europe were set to face new restrictions as infection rates hit records in many areas, while the Biden administration said it was working to make sure hospitals aren’t overwhelmed. 
+ <p class="updated_time"> 02:00 AM CT, Dec. 26 </p> 
+ <a href="https://www.wsj.com/articles/germanys-vast-foreign-surpluses-are-finally-falling-fulfilling-an-old-u-s-demand-11640523603">Germany's Foreign Surpluses Are Falling, Fulfilling a U.S. Demand</a> WSJ: Washington and others had accused Germany of feeding global economic imbalances by hoarding savings and refusing to spend. 
  <p class="updated_time"> 02:00 AM CT, Dec. 26 </p> 
  <a href="https://www.wsj.com/articles/italian-tech-startup-revives-einsteins-fathers-power-plant-11640523602">Italian Tech Startup Revives Einstein's Father's Power Plant</a> WSJ: A husband-wife team of entrepreneurs are using a once-abandoned hydroelectric station to feed the power grid and keep their artificial-intelligence enterprise humming. 
- <p class="updated_time"> 02:00 AM CT, Dec. 26 </p> 
- <a href="https://www.wsj.com/articles/germanys-vast-foreign-surpluses-are-finally-falling-fulfilling-an-old-u-s-demand-11640523603">Germany's Vast Foreign Surpluses Are Finally Falling, Fulfilling an Old U.S. Demand</a> WSJ: Washington and others had accused Germany of feeding global economic imbalances by hoarding savings and refusing to spend. 
  <p class="updated_time"> 01:28 AM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59793776?at_medium=RSS&at_campaign=KARANGA">Archbishop Desmond Tutu: Looking back at his life</a> BBC: BBC South Africa correspondent Nomsa Maseko looks back at the life of Archbishop Desmond Tutu who has died aged 90. 
+ <a href="https://www.bbc.co.uk/news/world-59793776?at_medium=RSS&at_campaign=KARANGA">Archbishop Desmond Tutu: Looking back at his life and legacy</a> BBC: The BBC's Nomsa Maseko looks back at the life of Archbishop Desmond Tutu, who has died aged 90. 
  <p class="updated_time"> 01:00 AM CT, Dec. 26 </p> 
  <a href="https://www.wsj.com/articles/where-russia-once-triumphed-ukrainians-prepare-to-resist-putin-11640520002">Where Russia Once Triumphed, Ukrainians Prepare to Resist Putin</a> WSJ: In a city where Russia was victorious 300 years ago, Ukrainians are mobilizing to push back against another Russian leader. 
  <p class="updated_time"> 10:18 PM CT, Dec. 25 </p> 
@@ -103,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/middleeast/park-israel-dcity.html">A New Israeli Wonderland, Where You Can Almost Forget Where You Are</a> NYT: An alien spaceship theme park, an Italian Renaissance-style mall, a canal with gondolas. “Nothing in Israel compares with it,” the developer says. There’s just one catch. 
  <p class="updated_time"> 01:57 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/africa/sudan-coup-protests.html">Anti-Coup Protesters in Sudan Press Their Demand for Return to Civilian Rule</a> NYT: The protests on Saturday underscored the resolve of protesters to continue defying the Oct. 25 coup that derailed the country’s nascent attempt to transition to democratic rule. 
- <p class="updated_time"> 01:38 PM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-59787319?at_medium=RSS&at_campaign=KARANGA">In pictures: World celebrates Christmas</a> BBC: For the second year running, fewer people are attending festive events because of the Covid outbreak. 
  <p class="updated_time"> 12:24 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/hindu-extremists-india-muslims.html">As Hindu Extremists Call for Killing of Muslims, India’s Leaders Keep Silent</a> NYT: Right-wing Hindu activists at a conference took an oath to harm Muslims if necessary to make “a Hindu-only nation,” the most blatant example of rising anti-Muslim sentiment across India. 
  <p class="updated_time"> 12:23 PM CT, Dec. 25 </p> 
@@ -117,10 +121,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/europe/ukraine-russia.html">As Russian Threat Looms, Ukraine’s Government Is No Laughing Matter</a> NYT: President Volodymyr Zelensky, a former actor, has surrounded himself with advisers from his old comedy troupe. No kidding. 
  <p class="updated_time"> 08:50 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/migrant-boat-greece.html">At Least 16 Dead After Migrant Boat Capsizes Off Greece</a> NYT: The wreck late Friday in the Aegean Sea, the third in Greek waters in three days, was another reminder of the risks asylum seekers face. 
- <p class="updated_time"> 07:43 AM CT, Dec. 25 </p> 
- <a href="https://www.npr.org/2021/12/25/1067966137/pope-francis-gives-an-early-christmas-eve-homily-with-a-pointed-message-on-humil">Pope Francis gives an early Christmas Eve homily with a pointed message on humility</a> NPR: Pope Francis celebrated Christmas Eve Mass in St. Peter's Basilica as COVID-19 infections surge in Italy. 
- <p class="updated_time"> 07:28 AM CT, Dec. 25 </p> 
- <a href="https://www.npr.org/2021/12/25/1067966116/u-s-air-strikes-have-killed-thousands-of-civilians-nyt-magazine-investigation-fi">U.S. air strikes have killed thousands of civilians, NYT Magazine investigation finds</a> NPR: Scott Simon talks with Azmat Khan of the New York Times about U.S. drone strikes that have killed civilians in Iraq, Syria and Afghanistan. 
+ <p class="updated_time"> 05:50 AM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59790251?at_medium=RSS&at_campaign=KARANGA">Pope's Christmas Day message</a> BBC: Pope Francis gave his traditional Christmas message followed by his blessing, Urbi et Orbi, to the city and the world. 
  <p class="updated_time"> 05:49 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/pope-francis-christmas-message.html">As Covid Disrupts a 2nd Christmas, Pope Prays for Healing and Peace</a> NYT: In his Christmas message, Pope Francis called on world leaders to resolve persisting conflicts and prayed for people across the globe who are affected by the coronavirus. 
  <p class="updated_time"> 05:00 AM CT, Dec. 25 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/asia/china-winter-olympic-spectators.html">China tells Winter Olympic spectators to clap, not cheer, for athletes, and Xi’an, a major city, locks down.</a> NYT: As the Omicron variant spreads elsewhere, China is taking elaborate precautions to prevent the virus from reaching participants when the Games start in February. 
  <p class="updated_time"> 04:31 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/asia/li-tiantian-disappearance.html">Fury in China After Li Tiantian, an Outspoken Teacher, Disappears</a> NYT: Supporters of Li Tiantian believe that local officials may have sent her to a psychiatric hospital, a longstanding way of stifling and discrediting dissent. 
- <p class="updated_time"> 04:00 AM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/science/polar-bear.html">How to Catch a Polar Bear</a> NYT: First, spot the bear. 
 
 
 </details>
@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:10 AM CT, Dec. 26 </p> 
+ <a href="https://www.politico.com/news/2021/12/26/putin-russia-ukraine-nato-526153">Putin to mull options if West refuses guarantees on Ukraine</a> Politico: Earlier this month, Russia submitted draft security documents demanding that NATO deny membership to Ukraine and other former Soviet countries. 
  <p class="updated_time"> 10:56 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/dingell-upton-michigan-toxic-congress-526152">Michigan lawmakers look to a less-toxic future in Congress</a> Politico: Debbie Dingell and Fred Upton both cited Bob Dole as a positive Washington role model. 
  <p class="updated_time"> 10:42 AM CT, Dec. 26 </p> 
@@ -390,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/21/dems-plot-path-after-manchin-derailment-495530">Dems plot path after Manchin derailment</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Dec. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/21/the-search-for-a-plan-b-begins-495529"> The search for a Plan B begins</a> Politico Playbook: And Biden plans to deliver another big Covid speech. 
- <p class="updated_time"> 12:15 AM CT, Dec. 21 </p> 
- <a href="https://www.politico.com/news/2021/12/21/california-redistricting-midterms-525815">California’s new congressional map boosts Democrats</a> Politico: The final maps were approved late Monday by the state’s independent redistricting commission. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
@@ -412,8 +412,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/19/scoop-manchin-refused-a-call-from-wh-before-killing-bbb-495521"> SCOOP: Manchin ‘refused’ a call from W.H. before killing BBB</a> Politico Playbook: And the latest coronavirus variant raises the alarm across the world. 
  <p class="updated_time"> 11:55 AM CT, Dec. 19 </p> 
  <a href="https://www.politico.com/news/2021/12/19/kinzinger-mccarthy-mcconnell-trump-525531">Kinzinger on McCarthy: ‘I don’t think history books are going to be kind to him’</a> Politico: The Illinois Republican contrasted Kevin McCarthy with Mitch McConnell. 
- <p class="updated_time"> 10:44 AM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/news/2021/12/19/johnny-isakson-dies-georgia-senator-525501">Former Sen. Johnny Isakson dies at 76</a> Politico: The Georgia Republican was a millionaire businessman who was known as a consensus builder. 
 
 
 </details>
