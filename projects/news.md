@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:20 PM CT, Dec. 25 </p> 
+ <a href="https://www.npr.org/2021/12/25/1068020235/el-salvador-abortion-women-freed">El Salvador frees 3 women who were sentenced to 30 years under anti-abortion laws</a> NPR: President Nayib Bukele's government has freed three Salvadoran women who were sentenced to 30 years in prison under the nation's strict anti-abortion laws after suffering obstetric emergencies. 
+ <p class="updated_time"> 06:06 PM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59732329?at_medium=RSS&at_campaign=KARANGA">The Chinese mother backing bigger families</a> BBC: Chen Ting is a mother of three and businesswoman who encourages other women to have more children. 
+ <p class="updated_time"> 06:05 PM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59707864?at_medium=RSS&at_campaign=KARANGA">Why a former oil executive is capping abandoned wells</a> BBC: Around the US, an estimated three million oil wells have been abandoned. They're more dangerous than we think. 
  <p class="updated_time"> 05:46 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1068016227/whirling-dervishes-rumi">Photos: Whirling dervish ritual honors Rumi, the Sufi mystic poet</a> NPR: Each year, thousands of people travel to the Turkish city of Konya to attend a series of events and ceremonies that mark the death of the 13th-century Islamic poet, scholar and Sufi mystic Rumi. 
  <p class="updated_time"> 05:28 PM CT, Dec. 25 </p> 
@@ -89,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59738548?at_medium=RSS&at_campaign=KARANGA">No time for war: Russians see no chance of conflict</a> BBC: With rhetoric becoming harsh and fears of an invasion growing, Muscovites give their views on the crisis. 
  <p class="updated_time"> 06:10 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59742359?at_medium=RSS&at_campaign=KARANGA">Climate change: Lapland reindeer gone astray in search for food</a> BBC: Herders are struggling to find thousands of reindeer that have run away in search of food. 
- <p class="updated_time"> 06:03 PM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/uk-wales-59729022?at_medium=RSS&at_campaign=KARANGA">Art: 'People amazed I fold paper for a living, then they see it'</a> BBC: Artist Polly Verity loves the look and feel of paper and has been "lost in its landscape" for years. 
  <p class="updated_time"> 05:21 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59787369?at_medium=RSS&at_campaign=KARANGA">SA urges halt to Nelson Mandela's Robben Island prison cell key auction</a> BBC: Nelson Mandela, South Africa's first black president, spent 18 years in a tiny cell on Robben Island. 
  <p class="updated_time"> 04:59 PM CT, Dec. 24 </p> 
@@ -109,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1067871944/syria-civil-war-3700-deaths">More than 3,700 people were killed in Syria's civil war this year</a> NPR: The count, by the Syrian Observatory for Human Rights, comes after more than a decade of a war that's killed at least 350,000 people and displaced millions. 
  <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067889562/encore-a-toy-monkey-that-escaped-nazi-germany-and-reunited-a-family">Encore: A toy monkey that escaped Nazi Germany and reunited a family</a> NPR: The father of NPR's Uri Berliner packed a stuffed monkey when he fled the Nazis as a child. He kept the toy for decades before donating it to a museum, an act that led to a remarkable discovery. 
- <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
- <a href="https://www.npr.org/2021/12/24/1066806101/belarus-poland-border-deported-syria-migrants">Syrians say Belarus deported them even though they're wanted by Assad's regime</a> NPR: After luring asylum-seekers to the EU as a political stunt, Belarus has now sent people back to the dangerous place they were escaping, rights groups and migrants tell NPR. 
  <p class="updated_time"> 02:37 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/23/arts/music/carols-christmas-kings-choir-mcdowall.html">Cecilia McDowall to Debut New Christmas Carol</a> NYT: Each year, the choir of King’s College, Cambridge, commissions an original song for its Christmas service, giving the composer an audience of around 100 million people. 
  <p class="updated_time"> 01:56 PM CT, Dec. 24 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/europe/bros-restaurant-review.html">Bros' Restaurant in Italy: Chef Finds Fame After Epic Takedown</a> NYT: Panned by a prominent blogger, the Italian restaurant Bros’ and its celebrity chef became a global target for critics of pretentious cuisine. There was a good side for him. 
  <p class="updated_time"> 04:22 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/europe/russia-putin-ukraine.html">Putin Mixes Positive Note With Threats, Keeping West on Edge</a> NYT: At a traditional year-end news conference, President Vladimir V. Putin of Russia said a potential meeting with the U.S. was a positive sign, but he also demanded a quick response to his security concerns. 
- <p class="updated_time"> 03:46 PM CT, Dec. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59776920?at_medium=RSS&at_campaign=KARANGA">Daunte Wright shooting: Key moments in the trial of Kimberly Potter</a> BBC: The trial saw emotional testimonies and dramatic bodycam footage of the fatal shooting. 
  <p class="updated_time"> 03:44 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/middleeast/lapid-israel-nuclear-iran-palestinians.html">Lapid Says Israel Will Support Iran Nuclear Pact, if It’s ‘a Good Deal.’</a> NYT: The Israeli foreign minister said “we have no problem with a deal,” but perhaps because he thinks the prospects of an agreement are remote. 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
