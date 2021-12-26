@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:03 AM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59793726?at_medium=RSS&at_campaign=KARANGA">South Africa's Archbishop Desmond Tutu dies at 90</a> BBC: Archbishop Desmond Tutu, the Nobel Peace prize laureate who helped end apartheid in South Africa, has died aged 90 
  <p class="updated_time"> 11:13 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-59793040?at_medium=RSS&at_campaign=KARANGA">Covid: Travel misery continues as 1,500 more flights cancelled</a> BBC: Chinese and US airlines are hardest hit amid a surge in Covid cases in many countries. 
  <p class="updated_time"> 08:39 PM CT, Dec. 25 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/25/1067966053/us-and-russian-officials-have-agreed-to-discuss-ukraine-tensions-and-role-of-nat">US and Russian officials have agreed to discuss Ukraine tensions and role of NATO</a> NPR: Ukraine and the West are still worried about Russian military aggression. Russian president Vladimir Putin addressed the situation during his end-of-the-year press conference. 
  <p class="updated_time"> 06:58 AM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1067966039/christmas-celebrations-in-bethlehem-are-intimate-this-year">Christmas celebrations in Bethlehem are intimate this year</a> NPR: With the usual throngs of foreigners absent, Palestinian Muslims and Christians gathered in Manger Square and the Church of the Nativity in Bethlehem to celebrate Christmas. 
- <p class="updated_time"> 06:53 AM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59789770?at_medium=RSS&at_campaign=KARANGA">Pope Francis Urbi et Orbi address: World ignoring huge tragedies</a> BBC: In his Christmas Day speech, the Pope said "immense tragedies" were being passed over in near silence. 
  <p class="updated_time"> 06:38 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59790601?at_medium=RSS&at_campaign=KARANGA">James Webb Space Telescope lifts off on historic mission</a> BBC: The $10bn James Webb telescope has left Earth on its mission to show the first stars to light up the Universe. 
  <p class="updated_time"> 05:50 AM CT, Dec. 25 </p> 
