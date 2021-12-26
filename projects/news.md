@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:48 AM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59793040?at_medium=RSS&at_campaign=KARANGA">Covid: Travel misery for tens of thousands with flights are cancelled</a> BBC: Chinese and US airlines are hardest hit amid a surge in Covid cases in many countries. 
  <p class="updated_time"> 04:46 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59793726?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: South Africa anti-apartheid hero dies aged 90</a> BBC: Tributes are paid to Archbishop Tutu, the Nobel peace prize laureate who helped end apartheid in South Africa. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/1047748076/desmond-tutu-dead-remembrance">Desmond Tutu's laugh was contagious. His fight for freedom was deadly serious</a> NPR: Desmond Tutu will be remembered for helping end apartheid. But also for his memorable laugh, an infectious, cackling, howl employed in the service of easing tensions in a very tense nation. 
  <p class="updated_time"> 01:28 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59793776?at_medium=RSS&at_campaign=KARANGA">Archbishop Desmond Tutu: Looking back at his life</a> BBC: BBC South Africa correspondent Nomsa Maseko looks back at the life of Archbishop Desmond Tutu who has died aged 90. 
- <p class="updated_time"> 11:13 PM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-59793040?at_medium=RSS&at_campaign=KARANGA">Covid: Travel misery continues as 1,500 more flights cancelled</a> BBC: Chinese and US airlines are hardest hit amid a surge in Covid cases in many countries. 
  <p class="updated_time"> 10:18 PM CT, Dec. 25 </p> 
  <a href="https://www.wsj.com/articles/myanmar-military-attack-kills-dozens-including-children-aid-group-says-11640510326">Myanmar Military Attack Kills Dozens, Including Children, Aid Group Says</a> WSJ: The violence happened in a part of the country where resistance groups have been fighting the military junta. 
  <p class="updated_time"> 09:18 PM CT, Dec. 25 </p> 
