@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:57 AM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59796716?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu death: South Africans remember anti-apartheid leader</a> BBC: The archbishop, who was a driving force in the anti-apartheid movement, has died aged 90. 
  <p class="updated_time"> 09:30 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59796159?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Obama joins tributes to South Africa anti-apartheid hero</a> BBC: The former US president praises the churchman who helped end apartheid, after his death aged 90. 
  <p class="updated_time"> 09:17 AM CT, Dec. 26 </p> 
@@ -28,7 +30,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1066377153/israel-gaza-farm-bible-rest">A biblical rest from farming in Israel could help Gaza's growers. They are waiting</a> NPR: For Orthodox Jews during a yearlong agricultural sabbath, Israel pledged to lift some restrictions on produce from the Gaza Strip. Palestinian farmers in Gaza are wondering what's taking so long. 
  <p class="updated_time"> 06:30 AM CT, Dec. 26 </p> 
- <a href="https://www.npr.org/2021/12/26/494373491/desmond-tutu-dies">Desmond Tutu, an icon who helped end apartheid in South Africa, dies at 90</a> NPR: Nobel Peace laureate Archbishop Desmond Tutu, a towering figure who helped bring an end to apartheid in South Africa, has died. 
+ <a href="https://www.npr.org/2021/12/26/494373491/desmond-tutu-dies">Desmond Tutu, an icon who helped end apartheid in South Africa, dies at 90</a> NPR: Nobel Peace laureate Archbishop Desmond Tutu campaigned against a system he called evil and, after apartheid, helped the nation heal as head of the Truth and Reconciliation Commission. 
  <p class="updated_time"> 06:13 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59795213?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Security forces accused of violence against protesters</a> BBC: Some 178 anti-coup demonstrators are reportedly injured in clashes near the presidential palace. 
  <p class="updated_time"> 06:13 AM CT, Dec. 26 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/25/1067966137/pope-francis-gives-an-early-christmas-eve-homily-with-a-pointed-message-on-humil">Pope Francis gives an early Christmas Eve homily with a pointed message on humility</a> NPR: Pope Francis celebrated Christmas Eve Mass in St. Peter's Basilica as COVID-19 infections surge in Italy. 
  <p class="updated_time"> 07:28 AM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1067966116/u-s-air-strikes-have-killed-thousands-of-civilians-nyt-magazine-investigation-fi">U.S. air strikes have killed thousands of civilians, NYT Magazine investigation finds</a> NPR: Scott Simon talks with Azmat Khan of the New York Times about U.S. drone strikes that have killed civilians in Iraq, Syria and Afghanistan. 
- <p class="updated_time"> 05:50 AM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-59790251?at_medium=RSS&at_campaign=KARANGA">Pope's Christmas Day message</a> BBC: Pope Francis gave his traditional Christmas message followed by his blessing, Urbi et Orbi, to the city and the world. 
  <p class="updated_time"> 05:49 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/pope-francis-christmas-message.html">As Covid Disrupts a 2nd Christmas, Pope Prays for Healing and Peace</a> NYT: In his Christmas message, Pope Francis called on world leaders to resolve persisting conflicts and prayed for people across the globe who are affected by the coronavirus. 
  <p class="updated_time"> 05:00 AM CT, Dec. 25 </p> 
@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:56 AM CT, Dec. 26 </p> 
+ <a href="https://www.politico.com/news/2021/12/26/dingell-upton-michigan-toxic-congress-526152">Michigan lawmakers look to a less-toxic future in Congress</a> Politico: Debbie Dingell and Fred Upton both cited Bob Dole as a positive Washington role model. 
  <p class="updated_time"> 10:42 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/26/omicron-crashes-the-holidays-495552"> Omicron crashes the holidays</a> Politico Playbook: And the spread of the Omicron variant threw many Americans’ holiday travel plans 
  <p class="updated_time"> 10:11 AM CT, Dec. 26 </p> 
@@ -380,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/22/schumer-and-manchin-face-off-on-zoom-495536"> Schumer and Manchin face off on Zoom</a> Politico Playbook: And Biden tries to tackle Omicron. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/hospitals-omicron-vaccinating-health-care-workers-525952">Hospitals grapple with Omicron — and legal brawl over vaccinating staff</a> Politico: More than 60,000 patients are hospitalized with Covid-19, according to the CDC, and the numbers are climbing with the highly contagious Omicron strain surging. 
- <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/redistricting-state-lawmakers-525960">You can draw your own congressional district</a> Politico: Redistricting is already inherently self-interested, with lawmakers routinely drawing maps for the benefit of their party. But, in some cases, politicians are working in their literal self-interest. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/dan-crenshaw-conservatives-come-correct-525829">Dan Crenshaw to his fellow conservatives: Come ‘correct’</a> Politico: The combat veteran often voted with Donald Trump but doesn't act Trumpishly. And he'll slam other Republicans when he feels he must. 
  <p class="updated_time"> 10:56 PM CT, Dec. 21 </p> 
