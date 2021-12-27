@@ -88,9 +88,9 @@ permalink: /projects/news/
  <p class="updated_time"> 02:55 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1047748076/desmond-tutu-dead-remembrance">Desmond Tutu's laugh was contagious. His fight for freedom was deadly serious</a> NPR: Desmond Tutu will be remembered for helping end apartheid. But also for his memorable laugh, an infectious, cackling howl employed in the service of easing tensions in a very tense nation. 
  <p class="updated_time"> 02:00 AM CT, Dec. 26 </p> 
- <a href="https://www.wsj.com/articles/germanys-vast-foreign-surpluses-are-finally-falling-fulfilling-an-old-u-s-demand-11640523603">Germany's Foreign Surpluses Are Falling, Fulfilling a U.S. Demand</a> WSJ: Washington and others had accused Germany of feeding global economic imbalances by hoarding savings and refusing to spend. 
- <p class="updated_time"> 02:00 AM CT, Dec. 26 </p> 
  <a href="https://www.wsj.com/articles/italian-tech-startup-revives-einsteins-fathers-power-plant-11640523602">Italian Tech Startup Revives Einstein's Father's Power Plant</a> WSJ: A husband-wife team of entrepreneurs are using a once-abandoned hydroelectric station to feed the power grid and keep their artificial-intelligence enterprise humming. 
+ <p class="updated_time"> 02:00 AM CT, Dec. 26 </p> 
+ <a href="https://www.wsj.com/articles/germanys-vast-foreign-surpluses-are-finally-falling-fulfilling-an-old-u-s-demand-11640523603">Germany's Foreign Surpluses Are Falling, Fulfilling a U.S. Demand</a> WSJ: Washington and others had accused Germany of feeding global economic imbalances by hoarding savings and refusing to spend. 
  <p class="updated_time"> 01:28 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59793776?at_medium=RSS&at_campaign=KARANGA">Archbishop Desmond Tutu: Looking back at his life and legacy</a> BBC: The BBC's Nomsa Maseko looks back at the life of Archbishop Desmond Tutu, who has died aged 90. 
  <p class="updated_time"> 01:00 AM CT, Dec. 26 </p> 
