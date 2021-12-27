@@ -7,6 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:06 PM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59748260?at_medium=RSS&at_campaign=KARANGA">Why I'm proud to be black and Jewish</a> BBC: Black and Jewish journalist Nadine Batchelor-Hunt travels to Israel to meet the Ethiopian community and explore this dual identity. 
+ <p class="updated_time"> 06:04 PM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59759885?at_medium=RSS&at_campaign=KARANGA">My art channels the pain from Ethiopia's war</a> BBC: US-based Tigrayan artist Gabrielle Tesfaye uses her work to share her feelings over the civil war. 
+ <p class="updated_time"> 06:03 PM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/business-58091493?at_medium=RSS&at_campaign=KARANGA">How this clip restored one man's dream of being a pilot</a> BBC: The story behind a face mask clip that restored a young man's dream of being a pilot. 
+ <p class="updated_time"> 06:02 PM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59690318?at_medium=RSS&at_campaign=KARANGA">Fear and loathing in South Africa where foreigners live in danger</a> BBC: Foreigners in South Africa tell photographer Shiraaz Mohamed how they cope with xenophobia and crime. 
+ <p class="updated_time"> 06:01 PM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59723656?at_medium=RSS&at_campaign=KARANGA">Scott Marsh: Viral and controversial art of 'Australia's Banksy'</a> BBC: He uses quintessential Australian larrikinism to skewer politicians, climate sceptics and others. 
+ <p class="updated_time"> 06:00 PM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59762810?at_medium=RSS&at_campaign=KARANGA">Demi Skipper plans to keep trading after hairpin-to-house swap</a> BBC: TikToker Demi Skipper made headlines this month when she successfully traded items until she got a house. 
+ <p class="updated_time"> 06:00 PM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-51908404?at_medium=RSS&at_campaign=KARANGA">India's unwinnable battle against spitting</a> BBC: The pandemic briefly renewed efforts to curb an infamous Indian habit - spitting in public. 
  <p class="updated_time"> 04:48 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/two-college-football-bowl-games-are-canceled-because-of-virus-cases.html">Two College Bowl Games Are Canceled Because of Covid Cases.</a> NYT: The Fenway and Military Bowls were scrapped when teams didn’t have enough healthy players to take the field. 
  <p class="updated_time"> 04:01 PM CT, Dec. 26 </p> 
@@ -36,7 +50,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:07 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068086310/world-leaders-mourn-the-death-of-archbishop-desmond-tutu-who-died-at-90">World leaders mourn the death of Archbishop Desmond Tutu</a> NPR: The archbishop is being remembered around the world for his commitment to equality and justice and his "impish" sense of humor. 
  <p class="updated_time"> 09:57 AM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59796716?at_medium=RSS&at_campaign=KARANGA">'A dark day': South Africans remember Tutu</a> BBC: The archbishop, who was a driving force in the anti-apartheid movement, has died aged 90. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59796716?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu death: South Africans remember anti-apartheid leader</a> BBC: The archbishop, who was a driving force in the anti-apartheid movement, has died aged 90. 
  <p class="updated_time"> 09:16 AM CT, Dec. 26 </p> 
  <a href="https://www.wsj.com/articles/desmond-tutu-archbishop-who-helped-end-apartheid-11640503788">Desmond Tutu, Archbishop Who Helped End Apartheid, Dies at 90</a> WSJ: The Anglican archbishop who led a global campaign to end South Africa’s racist policies and then helped in healing the nation’s wounds, has died in Cape Town. 
  <p class="updated_time"> 09:06 AM CT, Dec. 26 </p> 
@@ -85,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59792840?at_medium=RSS&at_campaign=KARANGA">Deadly bombing at restaurant packed for Christmas</a> BBC: Six people have been killed after a suicide bomber targeted a restaurant in eastern DR Congo. 
  <p class="updated_time"> 07:19 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59792125?at_medium=RSS&at_campaign=KARANGA">Myanmar: Charity staff missing after deadly 'army attack'</a> BBC: Save the Children says troops killed 38 people and burned their bodies in eastern Kayah state. 
- <p class="updated_time"> 07:00 PM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59702837?at_medium=RSS&at_campaign=KARANGA">Letter from Africa: Why Kenya's taxman is eyeing social media</a> BBC: Socialites are becoming wary of what they post online in case Kenya's revenue authority comes calling. 
  <p class="updated_time"> 06:57 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59636403?at_medium=RSS&at_campaign=KARANGA">Love story sends TV fans in search of idyllic Alps</a> BBC: Crash Landing On You has been a big hit and now fans are travelling to the filming locations. 
  <p class="updated_time"> 06:54 PM CT, Dec. 25 </p> 
@@ -97,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/25/1068020235/el-salvador-abortion-women-freed">El Salvador frees 3 women who were sentenced to 30 years under anti-abortion laws</a> NPR: President Nayib Bukele's government has freed three Salvadoran women who were sentenced to 30 years in prison under the nation's strict anti-abortion laws after suffering obstetric emergencies. 
  <p class="updated_time"> 06:06 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59732329?at_medium=RSS&at_campaign=KARANGA">The Chinese mother backing bigger families</a> BBC: Chen Ting is a mother-of-three and businesswoman who encourages other families to have more children. 
- <p class="updated_time"> 06:05 PM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59707864?at_medium=RSS&at_campaign=KARANGA">Why a former oil executive is capping abandoned wells</a> BBC: Around the US, an estimated three million oil wells have been abandoned. They're more dangerous than we think. 
  <p class="updated_time"> 05:46 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1068016227/whirling-dervishes-rumi">Photos: Whirling dervish ritual honors Rumi, the Sufi mystic poet</a> NPR: Each year, thousands of people travel to the Turkish city of Konya to attend a series of events and ceremonies that mark the death of the 13th-century Islamic poet, scholar and Sufi mystic Rumi. 
  <p class="updated_time"> 05:28 PM CT, Dec. 25 </p> 
@@ -133,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/europe/ukraine-russia.html">As Russian Threat Looms, Ukraine’s Government Is No Laughing Matter</a> NYT: President Volodymyr Zelensky, a former actor, has surrounded himself with advisers from his old comedy troupe. No kidding. 
  <p class="updated_time"> 08:50 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/migrant-boat-greece.html">At Least 16 Dead After Migrant Boat Capsizes Off Greece</a> NYT: The wreck late Friday in the Aegean Sea, the third in Greek waters in three days, was another reminder of the risks asylum seekers face. 
- <p class="updated_time"> 05:50 AM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-59790251?at_medium=RSS&at_campaign=KARANGA">Pope's Christmas Day message</a> BBC: Pope Francis gave his traditional Christmas message followed by his blessing, Urbi et Orbi, to the city and the world. 
  <p class="updated_time"> 05:49 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/pope-francis-christmas-message.html">As Covid Disrupts a 2nd Christmas, Pope Prays for Healing and Peace</a> NYT: In his Christmas message, Pope Francis called on world leaders to resolve persisting conflicts and prayed for people across the globe who are affected by the coronavirus. 
  <p class="updated_time"> 05:00 AM CT, Dec. 25 </p> 
@@ -147,10 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
  <p class="updated_time"> 11:30 PM CT, Dec. 24 </p> 
  <a href="https://www.wsj.com/articles/latin-america-is-now-a-world-leader-in-vaccinations-11640428207">Latin America Is Now a World Leader in Vaccinations</a> WSJ: Once a hot spot of Covid-19 deaths, the region now leads much of the world in vaccinations, as health policy makers rush to shield their countries from new variants roiling other places. 
- <p class="updated_time"> 06:15 PM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59738548?at_medium=RSS&at_campaign=KARANGA">No time for war: Russians see no chance of conflict</a> BBC: With rhetoric becoming harsh and fears of an invasion growing, Muscovites give their views on the crisis. 
- <p class="updated_time"> 06:10 PM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59742359?at_medium=RSS&at_campaign=KARANGA">Climate change: Lapland reindeer gone astray in search for food</a> BBC: Herders are struggling to find thousands of reindeer that have run away in search of food. 
  <p class="updated_time"> 05:21 PM CT, Dec. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59787369?at_medium=RSS&at_campaign=KARANGA">SA urges halt to Nelson Mandela's Robben Island prison cell key auction</a> BBC: Nelson Mandela, South Africa's first black president, spent 18 years in a tiny cell on Robben Island. 
  <p class="updated_time"> 04:13 PM CT, Dec. 24 </p> 
@@ -196,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:16 PM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/bishop-desmond-tutu-gay-bishop-526161">First U.S. gay bishop remembers Desmond Tutu’s generosity, kindness</a> Politico: Gene Robinson said Tutu used his own experience of oppression to understand and empathize with others. 
+ <p class="updated_time"> 06:10 PM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/us/politics/dr-oz-medical-advice.html">‘Magic’ Weight-Loss Pills and Covid Cures: Dr. Oz Under the Microscope</a> NYT: The celebrity physician, a candidate in Pennsylvania’s Republican primary for Senate, has a long history of dispensing dubious medical advice on his daytime show and on Fox News. 
  <p class="updated_time"> 05:29 PM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/airlines-cancel-flights-holiday-meltdown-526158">Some airlines continue to cancel flights following holiday meltdown</a> Politico: Sunday’s schedule was a mess; dozens of Monday’s flights have already been canceled. 
  <p class="updated_time"> 12:34 PM CT, Dec. 26 </p> 
@@ -226,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/1068063536/biden-struggles-with-his-image-as-covid-19-proves-difficult-to-stay-ahead-of">Biden struggles with his image as COVID-19 proves difficult to stay ahead of</a> NPR: The pandemic is the issue driving much of American politics these days and could either doom or boost the Biden presidency. 
  <p class="updated_time"> 06:44 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/desmond-tutu-nobel-dies-526149">Desmond Tutu, South Africa’s moral conscience, dies at 90</a> Politico: The Nobel Prize winner became an international symbol of the fight against iron-fisted rule by a white minority. 
- <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/us/politics/dr-oz-medical-advice.html">‘Magic’ Weight-Loss Pills and Covid Cures: Dr. Oz Under the Microscope</a> NYT: The celebrity physician, a candidate in Pennsylvania’s Republican primary for Senate, has a long history of dispensing dubious medical advice on his daytime show and on Fox News. 
  <p class="updated_time"> 04:03 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1068008393/rep-pete-aguilar-discusses-the-jan-6-panels-progress-as-anniversary-approaches">Rep. Pete Aguilar discusses the Jan. 6 panel's progress as anniversary approaches</a> NPR: NPR's Elissa Nadworny speaks with Jan. 6 committee member Rep. Pete Aguilar, D-Calif., about where his panel's investigation stands ahead of the one-year anniversary of the attack. 
  <p class="updated_time"> 02:53 PM CT, Dec. 25 </p> 
