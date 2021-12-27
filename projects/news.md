@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:46 PM CT, Dec. 27 </p> 
+ <a href="https://www.npr.org/2021/12/27/1068335033/a-look-back-at-afghanistans-last-year">A look back at Afghanistan's last year</a> NPR: At the start of 2021, people knew that President Biden had promised to end the war in Afghanistan. They did not know how it would conclude. 
+ <p class="updated_time"> 03:46 PM CT, Dec. 27 </p> 
+ <a href="https://www.npr.org/2021/12/27/1068335005/the-james-webb-space-telescope-is-on-its-trek-to-a-spot-a-million-miles-from-ear">The James Webb Space Telescope is on its trek to a spot a million miles from Earth</a> NPR: The James Webb Space Telescope is on its ways to its parking place a million miles from Earth. What do scientists plan to do with it once it is operational? 
  <p class="updated_time"> 03:35 PM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068335019/what-lies-ahead-for-iran-and-its-new-president">What lies ahead for Iran and its new president</a> NPR: Iran's new president will be looking to show he can improve the country's economy and to tamp down public dissent among Iranians. that might hinge on its nuclear program and relations with the West. 
  <p class="updated_time"> 03:35 PM CT, Dec. 27 </p> 
@@ -29,12 +33,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/iraq-election-muqtada-al-sadr.html">Iraq Confirms Election Gains for Muqtada al-Sadr</a> NYT: A court certified October’s parliamentary vote that gave Muqtada al-Sadr’s party a plurality of seats, clearing a path for a government to be formed. 
  <p class="updated_time"> 11:09 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/europe/poland-media-law.html">Poland’s President Says He Will Veto Media Bill Opposed by U.S.</a> NYT: The measure backed by the nationalist governing coalition sought to limit foreign influence and could have imperiled the license of an American-owned TV station. 
+ <p class="updated_time"> 10:37 AM CT, Dec. 27 </p> 
+ <a href="https://www.wsj.com/articles/governments-race-to-ease-staff-shortages-as-omicron-spreads-11640605845">As Omicron Spreads, Governments Race to Ease Staff Shortages</a> WSJ: The speed with which the new variant is spreading is presenting a different kind of challenge for policy makers, who are now weighing how to keep critical services functioning amid a wave of staff absences and enforced isolation periods. 
  <p class="updated_time"> 10:25 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-59798682?at_medium=RSS&at_campaign=KARANGA">Covid flight cancellations delay holiday travel</a> BBC: More than 1,400 flights are scrapped on Monday, capping off a tough festive period for travellers. 
  <p class="updated_time"> 10:14 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/asia/philippines-super-typhoon-rai.html">Super Typhoon Rai Leaves Miles of Wreckage in Philippines</a> NYT: Philippine officials warned that residents were going hungry. Many were still in evacuation centers. On a highway, survivors scrawled an appeal for aid. 
- <p class="updated_time"> 10:12 AM CT, Dec. 27 </p> 
- <a href="https://www.wsj.com/articles/governments-race-to-ease-staff-shortages-as-omicron-spreads-11640605845">As Omicron Spreads, Governments Race to Ease Staff Shortages</a> WSJ: The speed with which the new variant is spreading is presenting a different kind of challenge for policy makers, who are now weighing how to keep critical services functioning amid a wave of staff absences and enforced isolation periods. 
  <p class="updated_time"> 09:43 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59800515?at_medium=RSS&at_campaign=KARANGA">Somalia PM Roble defiant after President Farmajo suspends him</a> BBC: The PM says the president's move over land theft allegations is an attempted coup. 
  <p class="updated_time"> 09:39 AM CT, Dec. 27 </p> 
@@ -129,14 +133,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/1068063585/nprs-east-africa-correspondent-asks-interviewees-the-songs-they-carried-through-">NPR's East Africa correspondent asks interviewees the songs they carried through 2021</a> NPR: Music was a buoy during the turbulent times of 2021. Here's a sampling of some meaningful tracks. 
  <p class="updated_time"> 07:00 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1066377153/israel-gaza-farm-bible-rest">A biblical rest from farming in Israel could help Gaza's growers. They are waiting</a> NPR: For Orthodox Jews during a yearlong agricultural sabbath, Israel pledged to lift some restrictions on produce from the Gaza Strip. Palestinian farmers in Gaza are wondering what's taking so long. 
- <p class="updated_time"> 06:30 AM CT, Dec. 26 </p> 
- <a href="https://www.npr.org/2021/12/26/494373491/desmond-tutu-dies">Desmond Tutu, an icon who helped end apartheid in South Africa, dies at 90</a> NPR: The Nobel Peace laureate and archbishop emeritus campaigned against a system he called evil and, after apartheid, helped the nation heal as head of the Truth and Reconciliation Commission. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/insider/in-congo-bolivia-and-beyond-where-the-green-future-begins.html">In Congo, Bolivia and Beyond, Where the Green Future Begins</a> NYT: The Times’s Race to the Future series is focused on the competition for electric-car resources that will shape the 21st century. 
  <p class="updated_time"> 03:26 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
- <p class="updated_time"> 02:55 AM CT, Dec. 26 </p> 
- <a href="https://www.npr.org/2021/12/26/1047748076/desmond-tutu-dead-remembrance">Desmond Tutu's laugh was contagious. His fight for freedom was deadly serious</a> NPR: Desmond Tutu will be remembered for helping end apartheid. But also for his memorable laugh, an infectious, cackling howl employed in the service of easing tensions in a very tense nation. 
  <p class="updated_time"> 01:28 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59793776?at_medium=RSS&at_campaign=KARANGA">Archbishop Desmond Tutu: Looking back at his life and legacy</a> BBC: The BBC's Nomsa Maseko looks back at the life of Archbishop Desmond Tutu, who has died aged 90. 
  <p class="updated_time"> 06:54 PM CT, Dec. 25 </p> 
