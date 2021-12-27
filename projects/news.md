@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:35 PM CT, Dec. 27 </p> 
+ <a href="https://www.npr.org/2021/12/27/1068335019/what-lies-ahead-for-iran-and-its-new-president">What lies ahead for Iran and its new president</a> NPR: Iran's new president will be looking to show he can improve the country's economy and to tamp down public dissent among Iranians. that might hinge on its nuclear program and relations with the West. 
+ <p class="updated_time"> 03:35 PM CT, Dec. 27 </p> 
+ <a href="https://www.npr.org/2021/12/27/1068334991/british-columbia-is-looking-at-how-it-can-adapt-to-prepare-for-more-climate-disa">British Columbia is looking at how it can adapt to prepare for more climate disasters</a> NPR: British Columbia was devastated by natural disasters this year attributed to climate change. The Canadian province is evaluating how to prepare for the next disasters. 
+ <p class="updated_time"> 03:29 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Fauci Says Vaccination Requirement Should ‘Seriously Be Considered’ for Air Travel</a> NYT: Staffing shortages largely caused by a spike in coronavirus cases have led to thousands of flights being canceled. In some U.S. states, cases are surpassing last winter’s peaks. 
  <p class="updated_time"> 02:30 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/africa/desmond-tutu-mourning.html">South Africa Begins a Week of Mourning for Desmond Tutu</a> NYT: The cleric and anti-apartheid activist’s funeral will be held on Jan. 1 at the cathedral where he served as South Africa’s first Black archbishop. 
- <p class="updated_time"> 02:27 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Fauci Says Vaccination Requirement Should ‘Seriously Be Considered’ for Air Travel</a> NYT: Staffing shortages largely caused by a spike in coronavirus cases have led to thousands of flights being canceled. In some U.S. states, cases are surpassing last winter’s peaks. 
  <p class="updated_time"> 01:28 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59800032?at_medium=RSS&at_campaign=KARANGA">US snowstorms: California and other western states battered</a> BBC: Almost 30in (76cm) of snow fall in parts of northern California and Nevada over 24 hours. 
  <p class="updated_time"> 01:18 PM CT, Dec. 27 </p> 
@@ -137,12 +141,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59793776?at_medium=RSS&at_campaign=KARANGA">Archbishop Desmond Tutu: Looking back at his life and legacy</a> BBC: The BBC's Nomsa Maseko looks back at the life of Archbishop Desmond Tutu, who has died aged 90. 
  <p class="updated_time"> 06:54 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59740360?at_medium=RSS&at_campaign=KARANGA">Uri Geller: The celebrity who owes his success to spoons</a> BBC: Self-proclaimed Israel psychic Uri Geller recalls how he made spoon-bending famous across the world. 
- <p class="updated_time"> 06:20 PM CT, Dec. 25 </p> 
- <a href="https://www.npr.org/2021/12/25/1068020235/el-salvador-abortion-women-freed">El Salvador frees 3 women who were sentenced to 30 years under anti-abortion laws</a> NPR: President Nayib Bukele's government has freed three Salvadoran women who were sentenced to 30 years in prison under the nation's strict anti-abortion laws after suffering obstetric emergencies. 
  <p class="updated_time"> 06:06 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59732329?at_medium=RSS&at_campaign=KARANGA">The Chinese mother backing bigger families</a> BBC: Chen Ting is a mother-of-three and businesswoman who encourages other families to have more children. 
- <p class="updated_time"> 05:46 PM CT, Dec. 25 </p> 
- <a href="https://www.npr.org/2021/12/25/1068016227/whirling-dervishes-rumi">Photos: Whirling dervish ritual honors Rumi, the Sufi mystic poet</a> NPR: Each year, thousands of people travel to the Turkish city of Konya to attend a series of events and ceremonies that mark the death of the 13th-century Islamic poet, scholar and Sufi mystic Rumi. 
  <p class="updated_time"> 05:28 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/americas/el-salvador-abortion-bukele.html">El Salvador Releases 3 Women Serving Long Prison Sentences for Abortions</a> NYT: The three women, who had suffered obstetric emergencies, had been sentenced to 30 years in prison under the nation’s strict anti-abortion laws. 
  <p class="updated_time"> 04:36 PM CT, Dec. 25 </p> 
@@ -183,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/europe/europe-covid-pandemic-omicron.html">Europeans Ponder Living With, Not Defeating, Covid</a> NYT: On the eve of the biggest holidays in Europe, exhaustion with the pandemic is rising. So is resignation that the virus is endemic. 
  <p class="updated_time"> 05:06 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/queen-elizabeth-ii-christmas-covid.html">A Quieter Christmas for Queen Elizabeth II as Covid Persists</a> NYT: The 95-year-old monarch is spending the holiday at Windsor Castle instead of Sandringham, her English country estate. 
- <p class="updated_time"> 04:00 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/asia/afghanistan-nadery-peace-negotiations.html">An Afghan Official Laments What Was Lost and Looks to What Lies Ahead</a> NYT: Ahmad Nader Nadery spent decades working toward a thriving, free Afghanistan. Watching the Taliban undo much of his work, he wonders how to move forward. 
 
 
 </details>
@@ -192,6 +190,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:35 PM CT, Dec. 27 </p> 
+ <a href="https://www.npr.org/2021/12/27/1049811327/states-send-kids-to-foster-care-and-their-parents-the-bill-often-one-too-big-to-">States send kids to foster care and their parents the bill — often one too big to pay</a> NPR: In every state, governments charge parents for the cost of foster care when children are taken away. When that happens, NPR found, poor parents can't make ends meet, so families are kept apart longer. 
  <p class="updated_time"> 03:19 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/joe-biden-signs-ndaa/index.html">Biden signs annual defense bill</a> CNN: President Joe Biden signed the vital National Defense Authorization Act military funding bill, passed earlier this month by Congress, into law Monday morning. 
  <p class="updated_time"> 02:55 PM CT, Dec. 27 </p> 
@@ -332,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/us/covid-vaccine-biden-trump.html">Beneath a Covid Vaccine Debacle, 30 Years of Government Culpability</a> NYT: Washington has rejected plans to revamp vaccine preparedness for decades and repeatedly paid a price. The Biden administration is at a similar crossroads. 
  <p class="updated_time"> 04:47 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/als-research-biden-bill-signing/index.html">Biden says bipartisan legislation funding ALS research 'represents the spirit of the season' </a> CNN: President Joe Biden on Thursday signed into law bipartisan legislation that expands funding for amyotrophic lateral sclerosis research, hailing it as in "the spirit of the season." 
- <p class="updated_time"> 03:56 PM CT, Dec. 23 </p> 
- <a href="https://www.npr.org/2021/12/23/1067598857/the-trump-supporters-who-went-from-planning-the-jan-6-rally-to-aiding-the-riot-p">The Trump supporters who went from planning the Jan. 6 rally to aiding the riot probe</a> NPR: NPR's Ari Shapiro talks with reporter Hunter Walker, who wrote a Rolling Stone article on Dustin Stockton and Jennifer Lynn Lawrence, the Trump supporters now cooperating with the Jan. 6 House panel. 
  <p class="updated_time"> 02:12 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/kamala-harris-biden-administration.html">Kamala Harris’s Allies Express Concern: Is She an Afterthought?</a> NYT: The vice president’s allies are increasingly concerned that President Biden relied on her to win but does not need her to govern. 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
