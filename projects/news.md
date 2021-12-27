@@ -60,7 +60,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:07 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068086310/world-leaders-mourn-the-death-of-archbishop-desmond-tutu-who-died-at-90">World leaders mourn the death of Archbishop Desmond Tutu</a> NPR: The archbishop is being remembered around the world for his commitment to equality and justice and his "impish" sense of humor. 
  <p class="updated_time"> 09:57 AM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59796716?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu death: South Africans remember anti-apartheid leader</a> BBC: The archbishop, who was a driving force in the anti-apartheid movement, has died aged 90. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59796716?at_medium=RSS&at_campaign=KARANGA">'A dark day': South Africans remember Tutu</a> BBC: The archbishop, who was a driving force in the anti-apartheid movement, has died aged 90. 
  <p class="updated_time"> 09:16 AM CT, Dec. 26 </p> 
  <a href="https://www.wsj.com/articles/desmond-tutu-archbishop-who-helped-end-apartheid-11640503788">Desmond Tutu, Archbishop Who Helped End Apartheid, Dies at 90</a> WSJ: The Anglican archbishop who led a global campaign to end South Africa’s racist policies and then helped in healing the nation’s wounds, has died in Cape Town. 
  <p class="updated_time"> 09:06 AM CT, Dec. 26 </p> 
@@ -83,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59795213?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Security forces accused of violence against protesters</a> BBC: Some 178 anti-coup demonstrators are reportedly injured in clashes near the presidential palace. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/insider/in-congo-bolivia-and-beyond-where-the-green-future-begins.html">In Congo, Bolivia and Beyond, Where the Green Future Begins</a> NYT: The Times’s Race to the Future series is focused on the competition for electric-car resources that will shape the 21st century. 
- <p class="updated_time"> 03:49 AM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-59793545?at_medium=RSS&at_campaign=KARANGA">In pictures: The life of Archbishop Desmond Tutu</a> BBC: The first black archbishop of Cape Town, South Africa, was a much-loved figure around the world. 
  <p class="updated_time"> 03:26 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 02:55 AM CT, Dec. 26 </p> 
@@ -115,6 +113,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/25/1068020235/el-salvador-abortion-women-freed">El Salvador frees 3 women who were sentenced to 30 years under anti-abortion laws</a> NPR: President Nayib Bukele's government has freed three Salvadoran women who were sentenced to 30 years in prison under the nation's strict anti-abortion laws after suffering obstetric emergencies. 
  <p class="updated_time"> 06:06 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59732329?at_medium=RSS&at_campaign=KARANGA">The Chinese mother backing bigger families</a> BBC: Chen Ting is a mother-of-three and businesswoman who encourages other families to have more children. 
+ <p class="updated_time"> 06:05 PM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59707864?at_medium=RSS&at_campaign=KARANGA">Why a former oil executive is capping abandoned wells</a> BBC: Around the US, an estimated three million oil wells have been abandoned. They're more dangerous than we think. 
  <p class="updated_time"> 05:46 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1068016227/whirling-dervishes-rumi">Photos: Whirling dervish ritual honors Rumi, the Sufi mystic poet</a> NPR: Each year, thousands of people travel to the Turkish city of Konya to attend a series of events and ceremonies that mark the death of the 13th-century Islamic poet, scholar and Sufi mystic Rumi. 
  <p class="updated_time"> 05:28 PM CT, Dec. 25 </p> 
