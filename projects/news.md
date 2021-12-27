@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:37 PM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/two-college-football-bowl-games-are-canceled-because-of-virus-cases.html">Two College Bowl Games Are Canceled Because of Covid Cases.</a> NYT: The Fenway and Military Bowls were scrapped when teams didn’t have enough healthy players to take the field. One team pulled out of the Sun Bowl. 
  <p class="updated_time"> 08:06 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59798494?at_medium=RSS&at_campaign=KARANGA">Roe v Wade US abortion rights lawyer Sarah Weddington dies</a> BBC: Sarah Weddington won the landmark 1973 US Supreme Court case that legalised abortions in the US. 
  <p class="updated_time"> 07:56 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/asia/myanmar-army-killings.html">Myanmar’s Army Is Accused of Massacring Dozens of Civilians</a> NYT: At least 35 people were killed and their bodies burned, according to an international aid group and opponents of the military regime. 
  <p class="updated_time"> 07:22 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59798489?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: South Africa mourns anti-apartheid hero</a> BBC: The nation is holding a week of commemorative events after the clergyman's death at the age of 90. 
- <p class="updated_time"> 07:09 PM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/two-college-football-bowl-games-are-canceled-because-of-virus-cases.html">Two College Bowl Games Are Canceled Because of Covid Cases.</a> NYT: The Fenway, Military and Sun Bowls were scrapped when teams didn’t have enough healthy players to take the field. 
  <p class="updated_time"> 06:06 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59748260?at_medium=RSS&at_campaign=KARANGA">Why I'm proud to be black and Jewish</a> BBC: Black and Jewish journalist Nadine Batchelor-Hunt travels to Israel to meet the Ethiopian community and explore this dual identity. 
  <p class="updated_time"> 06:04 PM CT, Dec. 26 </p> 
