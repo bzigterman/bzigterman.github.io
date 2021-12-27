@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:38 PM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59798682?at_medium=RSS&at_campaign=KARANGA">Covid: Travel chaos spills into new week</a> BBC: More than 1,300 flights are scrapped on Monday, capping off a tough festive period for travellers. 
+ <p class="updated_time"> 10:30 PM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
  <p class="updated_time"> 10:09 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59761839?at_medium=RSS&at_campaign=KARANGA">Climate change: Huge toll of extreme weather disasters in 2021</a> BBC: Floods and storms connected to rising temperatures have had a huge impact on people worldwide. 
  <p class="updated_time"> 09:37 PM CT, Dec. 26 </p> 
@@ -63,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/europe/alfredo-lupi-janitor-italy.html">A Janitor’s Colleagues Put Him on the Fast Track to Retirement</a> NYT: An Italian factory worker was dealing with a lifelong impairment that made it hard to work, but he wasn’t in a position to retire. Then his co-workers gave him 20 months’ worth of vacation days. 
  <p class="updated_time"> 08:50 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068076531/3-members-of-k-pop-sensation-bts-have-tested-positive-for-covid-19">3 members of K-pop sensation BTS have tested positive for COVID-19 </a> NPR: Nearly half of the seven-member band have now tested positive, after returning to South Korea from abroad earlier this month. 
- <p class="updated_time"> 08:03 AM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
  <p class="updated_time"> 07:06 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068071004/cape-town-local-remembers-archbishop-desmond-tutu">Cape Town local remembers Archbishop Desmond Tutu</a> NPR: In his hometown of Cape Town, South Africans mourn Archbishop Desmond Tutu. 
  <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/494373491/desmond-tutu-dies">Desmond Tutu, an icon who helped end apartheid in South Africa, dies at 90</a> NPR: The Nobel Peace laureate and archbishop emeritus campaigned against a system he called evil and, after apartheid, helped the nation heal as head of the Truth and Reconciliation Commission. 
  <p class="updated_time"> 06:13 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59795213?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Security forces accused of violence against protesters</a> BBC: Some 178 anti-coup demonstrators are reportedly injured in clashes near the presidential palace. 
- <p class="updated_time"> 04:48 AM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59793040?at_medium=RSS&at_campaign=KARANGA">Covid: Travel misery for tens of thousands as flights are cancelled</a> BBC: Chinese and US airlines are hardest hit amid a surge in Covid cases in many countries. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/insider/in-congo-bolivia-and-beyond-where-the-green-future-begins.html">In Congo, Bolivia and Beyond, Where the Green Future Begins</a> NYT: The Times’s Race to the Future series is focused on the competition for electric-car resources that will shape the 21st century. 
  <p class="updated_time"> 03:49 AM CT, Dec. 26 </p> 
