@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:56 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Fauci Says Vaccination Requirement Should ‘Seriously Be Considered’ for Air Travel</a> NYT: Staffing shortages largely caused by a spike in coronavirus cases has led to thousands of flights being canceled. In some U.S. states, cases are surpassing last winter’s peaks. 
+ <p class="updated_time"> 01:18 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Fauci Says Vaccination Requirement Should ‘Seriously Be Considered’ for Air Travel</a> NYT: Staffing shortages largely caused by a spike in coronavirus cases have led to thousands of flights being canceled. In some U.S. states, cases are surpassing last winter’s peaks. 
+ <p class="updated_time"> 01:18 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
+ <p class="updated_time"> 01:00 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/africa/somalia-prime-minister-suspended.html">Somalia’s President Suspends Prime Minister Over Corruption Allegations</a> NYT: The premier, Mohamed Hussein Roble, defied the order to step down as tensions continued over long-delayed elections. 
  <p class="updated_time"> 12:14 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/saudi-arabia-films-movies.html">As Other Arab States Falter, Saudi Arabia Seeks to Become a Cultural Hub</a> NYT: While conflicts and crises have battered Arab cultural capitals, Saudi Arabia is hosting film festivals and bankrolling new movies. 
  <p class="updated_time"> 11:58 AM CT, Dec. 27 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/africa/desmond-tutu-mourning.html">South Africa Begins a Week of Mourning for Desmond Tutu</a> NYT: The cleric and anti-apartheid activist’s funeral will be held on Jan. 1 at the cathedral where he served as South Africa’s first Black archbishop. 
  <p class="updated_time"> 11:51 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59800113?at_medium=RSS&at_campaign=KARANGA">Afghanistan's Taliban ban long-distance road trips for solo women</a> BBC: Afghanistan's rulers say a male relative must accompany women travelling more than 45 miles (72km). 
- <p class="updated_time"> 11:30 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
  <p class="updated_time"> 11:23 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/iraq-election-muqtada-al-sadr.html">Iraq Confirms Election Gains for Muqtada al-Sadr</a> NYT: A court certified October’s parliamentary vote that gave Muqtada al-Sadr’s party a plurality of seats, clearing a path for a government to be formed. 
  <p class="updated_time"> 11:09 AM CT, Dec. 27 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59798682?at_medium=RSS&at_campaign=KARANGA">Covid flight cancellations delay holiday travel</a> BBC: More than 1,400 flights are scrapped on Monday, capping off a tough festive period for travellers. 
  <p class="updated_time"> 10:14 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/asia/philippines-super-typhoon-rai.html">Super Typhoon Rai Leaves Miles of Wreckage in Philippines</a> NYT: Philippine officials warned that residents were going hungry. Many were still in evacuation centers. On a highway, survivors scrawled an appeal for aid. 
- <p class="updated_time"> 09:57 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/africa/somalia-prime-minister-suspended.html">Somalia’s President Suspends Prime Minister Over Corruption Allegations</a> NYT: The premier, Mohamed Hussein Roble, defied the order to step down as tensions continue over long-delayed elections. 
  <p class="updated_time"> 09:43 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59800515?at_medium=RSS&at_campaign=KARANGA">Somalia PM Roble defiant after President Farmajo suspends him</a> BBC: The PM says the president's move over land theft allegations is an attempted coup. 
  <p class="updated_time"> 09:39 AM CT, Dec. 27 </p> 
