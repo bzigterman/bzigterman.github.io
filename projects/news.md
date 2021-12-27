@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:48 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/africa/somalia-prime-minister-suspended.html">Somalia’s President Suspends Prime Minister Over Corruption Allegations</a> NYT: The premier, Mohamed Hussein Roble, defied the order to step down as tensions continue over long-delayed elections. 
  <p class="updated_time"> 04:35 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/college-football-bowl-games-covid.html">Two College Bowl Games Are Canceled Because of Covid Cases</a> NYT: The Fenway and Military Bowls were scrapped when teams didn’t have enough healthy players to take the field. One team pulled out of the Sun Bowl. 
  <p class="updated_time"> 04:21 AM CT, Dec. 27 </p> 
