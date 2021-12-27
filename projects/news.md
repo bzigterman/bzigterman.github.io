@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:30 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Israel Starts Trial of 4th Vaccine Dose</a> NYT: The study is being watched closely as countries grapple with surges of Omicron infections. In some U.S. states, cases are surpassing last winter’s peaks. 
+ <p class="updated_time"> 09:28 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/carnival-cruise-covid.html">Carnival Cruise Ship Returns to Miami With 'Small Number' of Covid Cases</a> NYT: The Carnival Freedom is the latest Florida cruise ship to be disrupted by the coronavirus as the Omicron variant drives up cases in the U.S. 
+ <p class="updated_time"> 09:17 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/middleeast/iraq-election-muqtada-al-sadr.html">Iraq Confirms Election Gains for Muqtada al-Sadr</a> NYT: A court certified October’s parliamentary vote that gave Muqtada al-Sadr’s party a plurality of seats, clearing a path for a government to be formed. 
+ <p class="updated_time"> 09:15 AM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59800519?at_medium=RSS&at_campaign=KARANGA">Mauritius oil spill: MV Wakashio ship captain sentenced</a> BBC: The magistrate says she hopes the 20-month sentence for the oil spill will "serve as a lesson". 
  <p class="updated_time"> 09:00 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/europe/spain-king-juan-carlos.html">Will Spain Give Disgraced King a Royal Homecoming?</a> NYT: In the years since Juan Carlos, Spain’s former king, fled the country to escape corruption investigations, some of the cases have been resolved or dropped. Now Spaniards are weighing whether they want him back. 
  <p class="updated_time"> 08:58 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/africa/somalia-prime-minister-suspended.html">Somalia’s President Suspends Prime Minister Over Corruption Allegations</a> NYT: The premier, Mohamed Hussein Roble, defied the order to step down as tensions continue over long-delayed elections. 
- <p class="updated_time"> 08:55 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Israel Starts Trial of 4th Vaccine Dose</a> NYT: The study is being watched closely as countries grapple with surges of Omicron infections. In some U.S. states, cases are surpassing last winter’s peaks. 
- <p class="updated_time"> 08:55 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/middleeast/iraq-election-muqtada-al-sadr.html">Iraq Confirms Election Gains for Muqtada al-Sadr</a> NYT: A court certified October’s parliamentary vote that gave Muqtada al-Sadr’s party a plurality of seats, clearing a path for a government to be formed. 
  <p class="updated_time"> 08:29 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59800040?at_medium=RSS&at_campaign=KARANGA">Andrzej Duda: Polish president vetoes controversial media law</a> BBC: Opponents say the law banning foreign ownership in the media aimed to silence government critics. 
  <p class="updated_time"> 07:39 AM CT, Dec. 27 </p> 
@@ -37,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/27/1068208287/omicron-surge-sets-records-as-flight-disruptions-continue">Omicron surge sets records as flight disruptions continue</a> NPR: More than 1,400 flights canceled worldwide Monday, adding to thousands canceled over the Christmas weekend. And across the country, long lines continued at COVID-19 testing sites. 
  <p class="updated_time"> 04:35 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/college-football-bowl-games-covid.html">Two College Bowl Games Are Canceled Because of Covid Cases</a> NYT: The Fenway and Military Bowls were scrapped when teams didn’t have enough healthy players to take the field. One team pulled out of the Sun Bowl. 
+ <p class="updated_time"> 04:31 AM CT, Dec. 27 </p> 
+ <a href="https://www.wsj.com/articles/iraqs-top-court-rejects-election-challenge-by-pro-iran-faction-11640612165">Iraq's Top Court Endorses Election Results in Setback for Pro-Iran Faction</a> WSJ: The decision paves the way for the formation of a new government dominated by Shiite Muslim cleric Moqtada al-Sadr, who won the largest share of seats in the October poll. 
  <p class="updated_time"> 04:21 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/australia/australia-lab-negative-covid-tests-mistake.html">Australia Covid Lab Mistakenly Tells Hundreds They Tested Negative</a> NYT: Human error is blamed for the mix-up, which so far has affected 400 people at a clinic in Sydney. 
  <p class="updated_time"> 04:00 AM CT, Dec. 27 </p> 
@@ -51,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59800032?at_medium=RSS&at_campaign=KARANGA">US snowstorms: California and other western states battered</a> BBC: Almost 30in (76cm) of snow fell in parts of northern California and Nevada in a 24-hour period. 
  <p class="updated_time"> 03:48 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59801025?at_medium=RSS&at_campaign=KARANGA">Brazilian town floods after two dams collapse</a> BBC: People in the town of Itabuna can be seen using inflatable rafts and canoes to get from house to house. 
- <p class="updated_time"> 02:36 AM CT, Dec. 27 </p> 
- <a href="https://www.wsj.com/articles/iraqs-top-court-rejects-election-challenge-by-pro-iran-faction-11640612165">Iraq's Top Court Rejects Election Challenge by Pro-Iran Faction</a> WSJ: The decision paves the way for the formation of a new government dominated by Shiite Muslim cleric Moqtada al-Sadr, who won the largest share of seats in the October poll. 
  <p class="updated_time"> 02:26 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59798489?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: South Africa mourns anti-apartheid hero</a> BBC: The nation is holding a week of commemorative events after the clergyman's death at the age of 90. 
  <p class="updated_time"> 02:01 AM CT, Dec. 27 </p> 
@@ -67,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/uganda-finds-chinas-leverage-is-in-the-fine-print-of-its-lending-11640601003">Uganda Finds China's Leverage Is in the Fine Print of Its Lending</a> WSJ: Chinese lending transformed economies across the developing world. Now, as bills are coming due, attention is turning to how aggressively Beijing is enforcing contractual obligations. 
  <p class="updated_time"> 10:30 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
- <p class="updated_time"> 10:09 PM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59761839?at_medium=RSS&at_campaign=KARANGA">Climate change: Huge toll of extreme weather disasters in 2021</a> BBC: Floods and storms connected to rising temperatures have had a huge impact on people worldwide. 
  <p class="updated_time"> 08:06 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59798494?at_medium=RSS&at_campaign=KARANGA">Roe v Wade US abortion rights lawyer Sarah Weddington dies</a> BBC: Sarah Weddington won the landmark 1973 US Supreme Court case that legalised abortions in the US. 
  <p class="updated_time"> 07:56 PM CT, Dec. 26 </p> 
@@ -206,6 +208,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:36 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/27/the-view-struggles-to-find-a-republican-495553"> ‘The View’ struggles to find a Republican</a> Politico Playbook: And coronavirus cases spike to record levels across the world. 
+ <p class="updated_time"> 09:11 AM CT, Dec. 27 </p> 
+ <a href="https://www.cnn.com/2021/12/27/politics/sarah-weddington-roe-v-wade-obituary/index.html">Sarah Weddington, lawyer in landmark Roe v. Wade case dies at 76</a> CNN: Sarah Weddington, an attorney in the landmark Roe v. Wade case, has died, according to statements from friend and former student Susan Hays and US Rep. Lloyd Doggett. 
+ <p class="updated_time"> 09:10 AM CT, Dec. 27 </p> 
+ <a href="https://www.cnn.com/2021/12/27/politics/biden-covid-governors/index.html">Biden to address governors as Covid caseloads soar</a> CNN: President Joe Biden will confer with the nation's governors on Monday as a wave of Covid-19, driven by the heavily transmissible Omicron variant of the coronavirus, crashes across the country and drives caseloads to record levels in areas of the Northeast. 
  <p class="updated_time"> 08:37 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/science/russia-nasa-spacex-asat.html">NASA-Russia Alliance Is Shaken by Events on Planet Earth</a> NYT: The relationship between the nations’ space agencies is facing a series of difficult tests, including an antisatellite weapon and friction over Ukraine. 
  <p class="updated_time"> 06:00 AM CT, Dec. 27 </p> 
@@ -402,14 +408,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 06:39 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/haitian-migrants-biden-administration-lawsuit/index.html">Group of Haitian migrants sue Biden administration over poor treatment</a> CNN: A group of Haitian migrants is suing the Biden administration over its treatment of migrants, recounting in detail squalid conditions at a makeshift camp in Del Rio, Texas, this year and confrontations with officers on horseback, according to a lawsuit filed Monday. 
- <p class="updated_time"> 12:58 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/epa-auto-emissions-standards/index.html">EPA will tighten fuel mileage standards for cars and light trucks, replacing looser Trump-era standards </a> CNN: The Environmental Protection Agency on Monday will tighten fuel emissions standards for cars and light trucks to 40 miles per gallon by the 2026 model year, replacing the looser Trump-era standards. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/manchin-build-back-better-redo-525747">Manchin to Dems: Redo the whole thing, maybe I'll vote for it</a> Politico: The West Virginia senator wants a new bill that goes through Senate committees and focuses on rolling back the 2017 Trump tax cuts. 
  <p class="updated_time"> 11:49 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, the Florida Democrat didn’t rule out a future run for a different public role. 
- <p class="updated_time"> 11:10 AM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/biden-labor-shortage/index.html">Biden to make 20,000 additional guest-worker visas available this winter amid labor shortages</a> CNN: The Biden administration will make an additional 20,000 seasonal, guest-worker visas available for the winter season for the first time, the Department of Homeland Security announced Monday. 
 
 
 </details>
