@@ -29,6 +29,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59798682?at_medium=RSS&at_campaign=KARANGA">Covid flight cancellations delay holiday travel</a> BBC: More than 1,400 flights are scrapped on Monday, capping off a tough festive period for travellers. 
  <p class="updated_time"> 10:14 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/asia/philippines-super-typhoon-rai.html">Super Typhoon Rai Leaves Miles of Wreckage in Philippines</a> NYT: Philippine officials warned that residents were going hungry. Many were still in evacuation centers. On a highway, survivors scrawled an appeal for aid. 
+ <p class="updated_time"> 10:12 AM CT, Dec. 27 </p> 
+ <a href="https://www.wsj.com/articles/governments-race-to-ease-staff-shortages-as-omicron-spreads-11640605845">As Omicron Spreads, Governments Race to Ease Staff Shortages</a> WSJ: The speed with which the new variant is spreading is presenting a different kind of challenge for policy makers, who are now weighing how to keep critical services functioning amid a wave of staff absences and enforced isolation periods. 
  <p class="updated_time"> 09:43 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59800515?at_medium=RSS&at_campaign=KARANGA">Somalia PM Roble defiant after President Farmajo suspends him</a> BBC: The PM says the president's move over land theft allegations is an attempted coup. 
  <p class="updated_time"> 09:39 AM CT, Dec. 27 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/carnival-cruise-covid.html">Carnival Cruise Ship Returns to Miami With 'Small Number' of Covid Cases</a> NYT: The Carnival Freedom is the latest Florida cruise ship to be disrupted by the coronavirus as the Omicron variant drives up cases in the U.S. 
  <p class="updated_time"> 09:15 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59800519?at_medium=RSS&at_campaign=KARANGA">Mauritius oil spill: MV Wakashio ship captain sentenced</a> BBC: The magistrate says she hopes the 20-month sentence for the oil spill will "serve as a lesson". 
- <p class="updated_time"> 09:02 AM CT, Dec. 27 </p> 
- <a href="https://www.wsj.com/articles/governments-race-to-ease-staff-shortages-as-omicron-spreads-11640605845">As Omicron Spreads, Governments Race to Ease Staff Shortages</a> WSJ: The speed with which the new variant is spreading is presenting a different kind of challenge for policy makers, who are now weighing how to keep critical services functioning amid a wave of staff absences and enforced isolation periods. 
  <p class="updated_time"> 09:00 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/europe/spain-king-juan-carlos.html">Will Juan Carlos, Spain's Disgraced King, Get a Royal Homecoming?</a> NYT: In the years since Juan Carlos, Spain’s former king, fled the country to escape corruption investigations, some of the cases have been resolved or dropped. Now Spaniards are weighing whether they want him back. 
  <p class="updated_time"> 08:29 AM CT, Dec. 27 </p> 
@@ -192,10 +192,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:19 PM CT, Dec. 27 </p> 
+ <a href="https://www.cnn.com/2021/12/27/politics/joe-biden-signs-ndaa/index.html">Biden signs annual defense bill</a> CNN: President Joe Biden signed the vital National Defense Authorization Act military funding bill, passed earlier this month by Congress, into law Monday morning. 
  <p class="updated_time"> 02:55 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/biden-covid-governors/index.html">Biden concedes not enough has been done to expand Covid-19 testing capacity: 'We have more work to do'</a> CNN: President Joe Biden will confer with the nation's governors on Monday as a wave of Covid-19, driven by the heavily transmissible Omicron variant of the coronavirus, crashes across the country and drives caseloads to record levels in areas of the Northeast. 
- <p class="updated_time"> 02:55 PM CT, Dec. 27 </p> 
- <a href="https://www.cnn.com/2021/12/27/politics/joe-biden-signs-ndaa/index.html">Biden signs annual defense bill</a> CNN: President Joe Biden signed the vital National Defense Authorization Act military funding bill, passed earlier this month by Congress, into law Monday morning. 
  <p class="updated_time"> 01:37 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/doj-combats-crime-rise/index.html">Justice Department boosts funds to cities to battle rise in crime</a> CNN: The Justice Department is closing out the year with a surge in grants for public safety programs in cities across the country, including many grappling with a dramatic rise in violent crime. 
  <p class="updated_time"> 01:20 PM CT, Dec. 27 </p> 
