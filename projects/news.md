@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:47 PM CT, Dec. 27 </p> 
+ <a href="https://www.cnn.com/2021/12/27/politics/joe-biden-signs-ndaa/index.html">Biden signs annual defense bill</a> CNN: President Joe Biden signed the vital National Defense Authorization Act military funding bill, passed earlier this month by Congress, into law Monday morning. 
  <p class="updated_time"> 01:37 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/doj-combats-crime-rise/index.html">Justice Department boosts funds to cities to battle rise in crime</a> CNN: The Justice Department is closing out the year with a surge in grants for public safety programs in cities across the country, including many grappling with a dramatic rise in violent crime. 
  <p class="updated_time"> 01:20 PM CT, Dec. 27 </p> 
@@ -206,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/27/politics/biden-covid-governors/index.html">Biden concedes not enough has been done to expand Covid-19 testing capacity: 'We have more work to do'</a> CNN: President Joe Biden will confer with the nation's governors on Monday as a wave of Covid-19, driven by the heavily transmissible Omicron variant of the coronavirus, crashes across the country and drives caseloads to record levels in areas of the Northeast. 
  <p class="updated_time"> 11:29 AM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/taylor-budowich-trump-spokesman-jan-6-committee/index.html">January 6 committee ramps up efforts to uncover funding behind Capitol riot</a> CNN: Trump spokesman Taylor Budowich on Friday sued the House select committee investigating the January 6 riot to prevent it from obtaining his financial documents from JP Morgan, which is also named in the lawsuit. 
- <p class="updated_time"> 11:08 AM CT, Dec. 27 </p> 
- <a href="https://www.cnn.com/2021/12/27/politics/joe-biden-signs-ndaa/index.html">Biden signs annual defense bill</a> CNN: President Joe Biden signed the vital National Defense Authorization Act military funding bill, passed earlier this month by Congress, into law Monday morning. 
  <p class="updated_time"> 09:36 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/27/the-view-struggles-to-find-a-republican-495553"> ‘The View’ struggles to find a Republican</a> Politico Playbook: And coronavirus cases spike to record levels across the world. 
  <p class="updated_time"> 09:11 AM CT, Dec. 27 </p> 
