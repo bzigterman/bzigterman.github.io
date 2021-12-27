@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:23 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Fauci Suggests Vaccination Requirement as Travel Disruptions Continue</a> NYT: Israel began studying a fourth vaccine dose as countries grapple with surges of Omicron infections. In some U.S. states, cases are surpassing last winter’s peaks. 
+ <p class="updated_time"> 12:45 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Fauci Says Vaccination Requirement Should ‘Seriously Be Considered’ for Air Travel</a> NYT: Staffing shortages largely caused by a spike in coronavirus cases has led to thousands of flights being canceled. In some U.S. states, cases are surpassing last winter’s peaks. 
  <p class="updated_time"> 12:14 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/saudi-arabia-films-movies.html">As Other Arab States Falter, Saudi Arabia Seeks to Become a Cultural Hub</a> NYT: While conflicts and crises have battered Arab cultural capitals, Saudi Arabia is hosting film festivals and bankrolling new movies. 
  <p class="updated_time"> 11:58 AM CT, Dec. 27 </p> 
