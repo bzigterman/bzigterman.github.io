@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:06 PM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59798494?at_medium=RSS&at_campaign=KARANGA">Roe v Wade US abortion rights lawyer Sarah Weddington dies</a> BBC: Sarah Weddington won the landmark 1973 US Supreme Court case that legalised abortions in the US. 
+ <p class="updated_time"> 07:56 PM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/asia/myanmar-army-killings.html">Myanmar’s Army Is Accused of Massacring Dozens of Civilians</a> NYT: At least 35 people were killed and their bodies burned, according to an international aid group and opponents of the military regime. 
  <p class="updated_time"> 07:22 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59798489?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: South Africa mourns anti-apartheid hero</a> BBC: The nation is holding a week of commemorative events after the clergyman's death at the age of 90. 
  <p class="updated_time"> 07:09 PM CT, Dec. 26 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/africa/tutu-death.html">Here Are Some of the Many Tributes for Desmond Tutu, a Force for Harmony</a> NYT: From prominent South African lawmakers to religious figures, many on social media honored Archbishop Tutu as a patriot of peaceful principles who dedicated his life to combating injustice everywhere. 
  <p class="updated_time"> 11:21 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/bts-covid-coronavirus.html">Two More Members of the K-Pop Band, BTS, Test Positive for Coronavirus</a> NYT: RM and Jin discovered they were infected a day after Suga got his diagnosis. All tested positive after returning to South Korea from the United States. 
- <p class="updated_time"> 10:52 AM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/asia/myanmar-army-killings.html">Myanmar’s Army Is Accused of Massacring Dozens of Civilians</a> NYT: At least 35 people were killed and their bodies burned, according to an international aid group and opponents of the military regime. 
  <p class="updated_time"> 10:45 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068101250/save-the-children-staff-myanmar">Save the Children says 2 staffers are missing after a massacre in Myanmar</a> NPR: A massacre in Myanmar that left more than 30 people, including women and children, dead and burned in their vehicles after they were reportedly shot by government troops as they were fleeing combat. 
  <p class="updated_time"> 10:30 AM CT, Dec. 26 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
  <p class="updated_time"> 11:30 PM CT, Dec. 24 </p> 
  <a href="https://www.wsj.com/articles/latin-america-is-now-a-world-leader-in-vaccinations-11640428207">Latin America Is Now a World Leader in Vaccinations</a> WSJ: Once a hot spot of Covid-19 deaths, the region now leads much of the world in vaccinations, as health policy makers rush to shield their countries from new variants roiling other places. 
- <p class="updated_time"> 05:21 PM CT, Dec. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59787369?at_medium=RSS&at_campaign=KARANGA">SA urges halt to Nelson Mandela's Robben Island prison cell key auction</a> BBC: Nelson Mandela, South Africa's first black president, spent 18 years in a tiny cell on Robben Island. 
  <p class="updated_time"> 04:13 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/africa/south-africa-covid-quarantine.html">South Africa Ends Quarantining and Contact Tracing</a> NYT: The new regulations follow data showing that while the Omicron variant is highly transmissible, it has not caused high rates of severe disease in South Africa. 
  <p class="updated_time"> 04:12 PM CT, Dec. 24 </p> 
@@ -414,10 +414,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/20/are-dems-dreams-deferred-or-dead-495523">Are Dems’ dreams deferred or dead?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:11 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/20/the-case-for-why-bbb-is-dead-and-for-why-it-may-not-be-495522"> The case for why BBB is dead — and for why it may not be</a> Politico Playbook: And Rep. Albio Sires (D-N.J.) won’t run for reelection. 
- <p class="updated_time"> 07:59 PM CT, Dec. 19 </p> 
- <a href="https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html">White House issues damning statement against Manchin after saying he won't vote for Build Back Better</a> CNN: Democratic Sen. Joe Manchin of West Virginia said he's a no on the Build Back Better Act, a huge development for legislation where Democrats need his vote to be able to pass this through the Senate. 
- <p class="updated_time"> 07:56 PM CT, Dec. 19 </p> 
- <a href="https://www.politico.com/news/2021/12/19/14-policies-manchin-social-spending-525681">How 14 policies could survive — or die — after Manchin’s ‘no’</a> Politico: Despite his clear opposition to enacting President Joe Biden’s $1.7T social spending package, the West Virginia senator actually likes a slew of individual policies in the plan, giving Democrats hope for turning some of those ideas into law. 
 
 
 </details>
