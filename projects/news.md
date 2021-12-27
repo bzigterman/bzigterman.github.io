@@ -7,7 +7,13 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:43 AM CT, Dec. 27 </p> 
+ <p class="updated_time"> 11:58 AM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59800032?at_medium=RSS&at_campaign=KARANGA">US snowstorms: California and other western states battered</a> BBC: Almost 30in (76cm) of snow fall in parts of northern California and Nevada over 24 hours. 
+ <p class="updated_time"> 11:53 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/africa/desmond-tutu-mourning.html">South Africa Begins a Week of Mourning for Desmond Tutu</a> NYT: The cleric and anti-apartheid activist’s funeral will be held on Jan. 1 at the cathedral where he served as South Africa’s first Black archbishop. 
+ <p class="updated_time"> 11:51 AM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59800113?at_medium=RSS&at_campaign=KARANGA">Afghanistan's Taliban ban long-distance road trips for solo women</a> BBC: Afghanistan's rulers say a male relative must accompany women travelling more than 45 miles (72km). 
+ <p class="updated_time"> 11:49 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Fauci Suggests Vaccination Requirement as Travel Disruptions Continue</a> NYT: Israel began studying a fourth vaccine dose as countries grapple with surges of Omicron infections. In some U.S. states, cases are surpassing last winter’s peaks. 
  <p class="updated_time"> 11:30 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
@@ -35,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/europe/spain-king-juan-carlos.html">Will Juan Carlos, Spain's Disgraced King, Get a Royal Homecoming?</a> NYT: In the years since Juan Carlos, Spain’s former king, fled the country to escape corruption investigations, some of the cases have been resolved or dropped. Now Spaniards are weighing whether they want him back. 
  <p class="updated_time"> 08:29 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59800040?at_medium=RSS&at_campaign=KARANGA">Andrzej Duda: Polish president vetoes controversial media law</a> BBC: Opponents say the law banning foreign ownership in the media aimed to silence government critics. 
- <p class="updated_time"> 07:31 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/africa/desmond-tutu-mourning.html">South Africa Begins a Week of Mourning for Desmond Tutu</a> NYT: The cleric and anti-apartheid activist’s funeral will be held on Jan. 1 at the cathedral where he served as South Africa’s first Black archbishop. 
  <p class="updated_time"> 07:09 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59800114?at_medium=RSS&at_campaign=KARANGA">Covid-19: Extra vaccine mandates come into force in New York City</a> BBC: The measures include vaccine mandates for private-sector workers and children entering venues. 
  <p class="updated_time"> 06:54 AM CT, Dec. 27 </p> 
@@ -59,10 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/travel/world-through-a-lens.html">Helping to Reveal a Still-Shuttered World</a> NYT: Our weekly photo essay series offered readers a glimpse of distant places and cultures that, for a second straight year, remained largely inaccessible. 
  <p class="updated_time"> 03:58 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59800777?at_medium=RSS&at_campaign=KARANGA">Jean-Marc Vallée: Canadian filmmaker dies aged 58</a> BBC: The director's works included Dallas Buyers Club, Wild and the TV series Big Little Lies. 
- <p class="updated_time"> 03:52 AM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59800113?at_medium=RSS&at_campaign=KARANGA">Afghanistan's Taliban ban long-distance road trips for solo women</a> BBC: Afghanistan's rulers say a male relative must accompany women travelling more than 45 miles (72km). 
- <p class="updated_time"> 03:49 AM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59800032?at_medium=RSS&at_campaign=KARANGA">US snowstorms: California and other western states battered</a> BBC: Almost 30in (76cm) of snow fell in parts of northern California and Nevada in a 24-hour period. 
  <p class="updated_time"> 03:48 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59801025?at_medium=RSS&at_campaign=KARANGA">Brazilian town floods after two dams collapse</a> BBC: People in the town of Itabuna can be seen using inflatable rafts and canoes to get from house to house. 
  <p class="updated_time"> 02:01 AM CT, Dec. 27 </p> 
@@ -179,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop star Suga discovered that he was infected after returning to South Korea from the United States. 
  <p class="updated_time"> 07:23 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/covid-britain-omicron-christmas.html">Despite Omicron Wave, Britons Are Set on Not Losing Another Christmas</a> NYT: For Christmas shoppers in central London this week, little seemed to dampen their spirits. But there was an undercurrent that the city was bracing for further coronavirus restrictions. 
- <p class="updated_time"> 07:21 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/europe/migrant-boat-crash-greece.html">Second Deadly Migrant Boat Crash Off Greece This Week</a> NYT: Ninety people were left stranded after Thursday’s accident. The crash came in a week that also saw scores of migrants die in wrecks off the coast of Libya. 
  <p class="updated_time"> 06:04 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/bangladesh-ferry-fire.html">Fire on Crowded Bangladesh Ferry Leaves Dozens Dead</a> NYT: Officials confirmed 35 deaths, but they said the toll was likely to rise as search and rescue continued. 
  <p class="updated_time"> 05:32 AM CT, Dec. 24 </p> 
