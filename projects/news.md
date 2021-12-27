@@ -250,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/1068063550/nyc-bans-natural-gas-in-new-buildings-in-an-effort-to-combat-climate-change">NYC bans natural gas in new buildings in an effort to combat climate change</a> NPR: NPR's Eyder Peralta talks to David Iaconangelo of E&E News about New York City's recent ban on natural gas in new buildings and its national implications. 
  <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068063536/biden-struggles-with-his-image-as-covid-19-proves-difficult-to-stay-ahead-of">Biden struggles with his image as COVID-19 proves difficult to stay ahead of</a> NPR: The pandemic is the issue driving much of American politics these days and could either doom or boost the Biden presidency. 
- <p class="updated_time"> 06:44 AM CT, Dec. 26 </p> 
- <a href="https://www.politico.com/news/2021/12/26/desmond-tutu-nobel-dies-526149">Desmond Tutu, South Africa’s moral conscience, dies at 90</a> Politico: The Nobel Prize winner became an international symbol of the fight against iron-fisted rule by a white minority. 
  <p class="updated_time"> 04:03 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1068008393/rep-pete-aguilar-discusses-the-jan-6-panels-progress-as-anniversary-approaches">Rep. Pete Aguilar discusses the Jan. 6 panel's progress as anniversary approaches</a> NPR: NPR's Elissa Nadworny speaks with Jan. 6 committee member Rep. Pete Aguilar, D-Calif., about where his panel's investigation stands ahead of the one-year anniversary of the attack. 
  <p class="updated_time"> 02:53 PM CT, Dec. 25 </p> 
@@ -274,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/25/biden-puerto-rico-electricity-network-526102">Puerto Rico’s shattered power grid could become a ‘big experiment’ for Biden</a> Politico: The crumbling electricity network that serves the island's 3 million people is at the center of a debate on renewable energy vs. fossil fuels — with billions of federal dollars at stake. 
  <p class="updated_time"> 05:03 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/23/science/webb-nasa-launch-delay.html">How NASA's Webb Telescope Overcame Loose Screws, Budgets and Clamps</a> NYT: Getting the James Webb Space Telescope to the launchpad has been a difficult journey that has taken decades. 
- <p class="updated_time"> 08:55 PM CT, Dec. 24 </p> 
- <a href="https://www.politico.com/news/2021/12/24/trump-spokesperson-sues-jan-6-committee-financial-records-526139">Trump spokesperson sues Jan. 6 committee over financial records</a> Politico: Taylor Budowich is trying to block disclosure of information from J.P. Morgan Chase Bank. 
  <p class="updated_time"> 06:10 PM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/project-veritas-new-york-times-526137">Judge blocks New York Times on Project Veritas coverage</a> Politico: The Times was also ordered to return or delete relevant documents. 
  <p class="updated_time"> 05:08 PM CT, Dec. 24 </p> 
@@ -320,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/23/politics/us-warning-russia-ukraine/index.html">White House reiterates that US is ready to act if Russia invades Ukraine</a> CNN: The Biden administration on Thursday reiterated its warnings to Russia over a potential invasion of Ukraine, with one senior administration official telling reporters that the US is "ready to act if and when we need to." 
  <p class="updated_time"> 07:59 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/georgia-election-workers-lawsuit-rudy-giuliani-one-america-news/index.html">Two Georgia election workers sue Giuliani and One America News, claiming election lies prompted severe harassment </a> CNN: Two Georgia election workers are accusing right-wing TV network One America News and former Trump lawyer and pundit Rudy Giuliani of destroying their reputations and prompting Trump supporters to harass them -- filling their lives with fear -- because of false claims of election fraud in 2020. 
- <p class="updated_time"> 06:58 PM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/georgia-poll-workers-sue-giuliani-oan-526122">2 Georgia poll workers sue Giuliani, OAN over election conspiracy theories</a> Politico: Ruby Freeman and Shaye Moss, her daughter, worked as poll workers counting ballots at State Farm Arena in Fulton County, Ga., during the November 2020 election. 
  <p class="updated_time"> 06:42 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067724848/former-n-y-gov-andrew-cuomo-wont-be-charged-for-touching-a-female-trooper">Former N.Y. Gov. Andrew Cuomo won't be charged for touching a female trooper</a> NPR: A Long Island prosecutor says Cuomo won't face criminal charges after a state trooper said she felt "completely violated" by his unwanted touching at an event at Belmont Park in 2019. 
  <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
@@ -352,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/us/politics/kamala-harris-biden-administration.html">Kamala Harris’s Allies Express Concern: Is She an Afterthought?</a> NYT: The vice president’s allies are increasingly concerned that President Biden relied on her to win but does not need her to govern. 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
- <p class="updated_time"> 12:27 PM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/trump-supreme-court-january-six-526050">Trump asks Supreme Court to shield records from Jan. 6 committee</a> Politico: In a reply Thursday afternoon, the House asked the court to expedite consideration of the case. 
  <p class="updated_time"> 11:45 AM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/nyregion/cyrus-vance-donald-trump.html">Trump Fraud Inquiry Won’t Be Resolved When Vance’s Term Ends Next Week</a> NYT: After leading a three-year investigation into the former president, the Manhattan district attorney, Cyrus R. Vance Jr., will hand it to his successor. 
  <p class="updated_time"> 11:35 AM CT, Dec. 23 </p> 
