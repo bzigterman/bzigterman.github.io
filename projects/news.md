@@ -7,22 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:23 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Fauci Suggests Vaccination Requirement as Travel Disruptions Continue</a> NYT: Israel began studying a fourth vaccine dose as countries grapple with surges of Omicron infections. In some U.S. states, cases are surpassing last winter’s peaks. 
+ <p class="updated_time"> 12:14 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/middleeast/saudi-arabia-films-movies.html">As Other Arab States Falter, Saudi Arabia Seeks to Become a Cultural Hub</a> NYT: While conflicts and crises have battered Arab cultural capitals, Saudi Arabia is hosting film festivals and bankrolling new movies. 
  <p class="updated_time"> 11:58 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59800032?at_medium=RSS&at_campaign=KARANGA">US snowstorms: California and other western states battered</a> BBC: Almost 30in (76cm) of snow fall in parts of northern California and Nevada over 24 hours. 
  <p class="updated_time"> 11:53 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/africa/desmond-tutu-mourning.html">South Africa Begins a Week of Mourning for Desmond Tutu</a> NYT: The cleric and anti-apartheid activist’s funeral will be held on Jan. 1 at the cathedral where he served as South Africa’s first Black archbishop. 
  <p class="updated_time"> 11:51 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59800113?at_medium=RSS&at_campaign=KARANGA">Afghanistan's Taliban ban long-distance road trips for solo women</a> BBC: Afghanistan's rulers say a male relative must accompany women travelling more than 45 miles (72km). 
- <p class="updated_time"> 11:49 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Fauci Suggests Vaccination Requirement as Travel Disruptions Continue</a> NYT: Israel began studying a fourth vaccine dose as countries grapple with surges of Omicron infections. In some U.S. states, cases are surpassing last winter’s peaks. 
  <p class="updated_time"> 11:30 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
  <p class="updated_time"> 11:23 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/iraq-election-muqtada-al-sadr.html">Iraq Confirms Election Gains for Muqtada al-Sadr</a> NYT: A court certified October’s parliamentary vote that gave Muqtada al-Sadr’s party a plurality of seats, clearing a path for a government to be formed. 
  <p class="updated_time"> 11:09 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/europe/poland-media-law.html">Poland’s President Says He Will Veto Media Bill Opposed by U.S.</a> NYT: The measure backed by the nationalist governing coalition sought to limit foreign influence and could have imperiled the license of an American-owned TV station. 
- <p class="updated_time"> 10:26 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/middleeast/saudi-arabia-films-movies.html">As Other Arab States Falter, Saudi Arabia Seeks to Become a Cultural Hub</a> NYT: While conflicts and crises have battered Arab cultural capitals, Saudi Arabia is hosting film festivals and bankrolling new movies. 
  <p class="updated_time"> 10:25 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-59798682?at_medium=RSS&at_campaign=KARANGA">Covid flight cancellations delay holiday travel</a> BBC: More than 1,400 flights are scrapped on Monday, capping off a tough festive period for travellers. 
  <p class="updated_time"> 10:14 AM CT, Dec. 27 </p> 
@@ -43,10 +43,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59800040?at_medium=RSS&at_campaign=KARANGA">Andrzej Duda: Polish president vetoes controversial media law</a> BBC: Opponents say the law banning foreign ownership in the media aimed to silence government critics. 
  <p class="updated_time"> 07:09 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59800114?at_medium=RSS&at_campaign=KARANGA">Covid-19: Extra vaccine mandates come into force in New York City</a> BBC: The measures include vaccine mandates for private-sector workers and children entering venues. 
+ <p class="updated_time"> 07:06 AM CT, Dec. 27 </p> 
+ <a href="https://www.wsj.com/articles/governments-race-to-ease-staff-shortages-as-omicron-spreads-11640605845">As Omicron Spreads, Governments Race to Ease Staff Shortages</a> WSJ: The speed with which the new variant is spreading is presenting a different kind of challenge for policy makers, who are now weighing how to keep critical services functioning amid a wave of staff absences and enforced isolation periods. 
  <p class="updated_time"> 06:54 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59802233?at_medium=RSS&at_campaign=KARANGA">Amber Heard names new dog after Australian minister embroiled in feud</a> BBC: The US actress names her new dog after the Australian minister who said her dogs should go home in 2015. 
- <p class="updated_time"> 06:27 AM CT, Dec. 27 </p> 
- <a href="https://www.wsj.com/articles/governments-race-to-ease-staff-shortages-as-omicron-spreads-11640605845">As Omicron Spreads, Governments Race to Ease Staff Shortages</a> WSJ: The speed with which the new variant is spreading is presenting a different kind of challenge for policy makers, who are now weighing how to keep critical services functioning amid a wave of staff absences and enforced isolation periods. 
  <p class="updated_time"> 06:02 AM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068215624/myanmar-court-postpones-verdicts-in-second-case-against-suu-kyi">Myanmar court postpones verdicts in second case against Suu Kyi</a> NPR: The case is among many brought against the 76-year-old Nobel Peace Prize laureate since the army seized power on Feb. 1. 
  <p class="updated_time"> 05:15 AM CT, Dec. 27 </p> 
@@ -187,10 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/europe/queen-elizabeth-ii-christmas-covid.html">A Quieter Christmas for Queen Elizabeth II as Covid Persists</a> NYT: The 95-year-old monarch is spending the holiday at Windsor Castle instead of Sandringham, her English country estate. 
  <p class="updated_time"> 04:00 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/afghanistan-nadery-peace-negotiations.html">An Afghan Official Laments What Was Lost and Looks to What Lies Ahead</a> NYT: Ahmad Nader Nadery spent decades working toward a thriving, free Afghanistan. Watching the Taliban undo much of his work, he wonders how to move forward. 
- <p class="updated_time"> 12:24 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">Park Geun-hye, Ex-Leader of South Korea, to Be Pardoned </a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
- <p class="updated_time"> 08:45 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/canada/indigenous-water-lawsuit.html">Canada and Indigenous People Settle Over Drinking Water</a> NYT: A court-approved settlement will compensate Indigenous people for the decades that many have lived with dirty water, and will also fund the clean up. 
 
 
 </details>
@@ -198,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:07 PM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/news/2021/12/27/biden-governors-omicron-surge-526175">Biden looks to reassure governors amid Omicron surge and long lines for tests</a> Politico: Biden acknowledged the shortages that hit several states ahead of the holidays, conceding that he had not done enough to prepare for the rising demand. 
  <p class="updated_time"> 11:49 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/biden-signs-defense-policy-bill-526171">Biden signs $768B defense policy bill that supersized his original Pentagon request</a> Politico: The bill rejects Biden's $715 billion Pentagon budget request and instead calls for $740 billion for the Defense Department. 
  <p class="updated_time"> 11:48 AM CT, Dec. 27 </p> 
@@ -248,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/26/omicron-crashes-the-holidays-495552"> Omicron crashes the holidays</a> Politico Playbook: And the spread of the Omicron variant threw many Americans’ holiday travel plans 
  <p class="updated_time"> 10:11 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/murthy-covid-vaccines-children-526151">Surgeon general offers hopeful note on pandemic</a> Politico: “We have saved more than a million lives because of vaccination efforts this past year alone,” Vivek Murthy said. 
- <p class="updated_time"> 09:43 AM CT, Dec. 26 </p> 
- <a href="https://www.politico.com/news/2021/12/26/fauci-covid-testing-omicron-526150">Fauci on Covid testing: ‘We’ve obviously got to do better’</a> Politico: He also guarded against reading too much into early data about Omicron’s severity. 
  <p class="updated_time"> 08:35 AM CT, Dec. 26 </p> 
  <a href="https://www.cnn.com/2021/12/26/politics/debbie-dingell-fred-upton-cnntv/index.html">Two lawmakers say their bipartisan friendship a model for overcoming 'toxic' year in Washington</a> CNN: Two Michigan lawmakers from opposite sides of the aisle came together to urge the importance of unity and kindness after a "toxic" year in Washington and across the country. 
  <p class="updated_time"> 07:05 AM CT, Dec. 26 </p> 
@@ -262,16 +258,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/1068063536/biden-struggles-with-his-image-as-covid-19-proves-difficult-to-stay-ahead-of">Biden struggles with his image as COVID-19 proves difficult to stay ahead of</a> NPR: The pandemic is the issue driving much of American politics these days and could either doom or boost the Biden presidency. 
  <p class="updated_time"> 04:03 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1068008393/rep-pete-aguilar-discusses-the-jan-6-panels-progress-as-anniversary-approaches">Rep. Pete Aguilar discusses the Jan. 6 panel's progress as anniversary approaches</a> NPR: NPR's Elissa Nadworny speaks with Jan. 6 committee member Rep. Pete Aguilar, D-Calif., about where his panel's investigation stands ahead of the one-year anniversary of the attack. 
- <p class="updated_time"> 02:53 PM CT, Dec. 25 </p> 
- <a href="https://www.politico.com/news/2021/12/25/biden-jill-joe-christmas-armed-forces-526147">Bidens chat with service members by video</a> Politico: The president called members of the Armed Forces “the solid steel spine of the nation.” 
  <p class="updated_time"> 10:51 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/business/biden-inflation.html">As Prices Rise Due to Inflation, Biden Turns to Antitrust Enforcers</a> NYT: A wide-ranging presidential order helped block a railroad merger and tackle supply-chain problems, and it is planting the seeds for bigger actions. 
  <p class="updated_time"> 08:44 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/25/the-manchin-dance-continues-on-christmas-495551"> The Manchin dance continues on Christmas</a> Politico Playbook: And a judge continues prior restraint on the NYT. 
- <p class="updated_time"> 08:33 AM CT, Dec. 25 </p> 
- <a href="https://www.politico.com/news/2021/12/25/space-telescope-launch-526142">Space telescope launched on daring quest to behold 1st stars</a> Politico: NASA’s James Webb Space Telescope soared from French Guiana on South America’s northeastern coast. 
- <p class="updated_time"> 08:06 AM CT, Dec. 25 </p> 
- <a href="https://www.politico.com/news/2021/12/25/gorbachev-resign-soviet-union-russia-526141">Gorbachev’s resignation 30 years ago marked the end of USSR</a> Politico: “The collapse of the Soviet Union was one of those occasions in history that are believed to be unthinkable until they become inevitable.” 
  <p class="updated_time"> 07:19 AM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1067966109/house-committee-investigating-jan-6-insurrection-calls-congress-members-to-testi">House committee investigating Jan. 6 insurrection calls Congress members to testify</a> NPR: The House select committee investigating the Jan. 6 insurrection is asking fellow members of Congress to cooperate in the probe. 
  <p class="updated_time"> 07:00 AM CT, Dec. 25 </p> 
@@ -318,6 +308,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/23/politics/mary-gay-scanlon-hijacking-suspect-charged/index.html">19-year-old charged in armed carjacking incident involving Democratic lawmaker</a> CNN: Federal prosecutors have charged a Delaware man with carjacking Democratic Rep. Mary Gay Scanlon of Pennsylvania and using a firearm during a crime of violence, the Justice Department announced Thursday. 
  <p class="updated_time"> 07:59 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/georgia-election-workers-lawsuit-rudy-giuliani-one-america-news/index.html">Two Georgia election workers sue Giuliani and One America News, claiming election lies prompted severe harassment </a> CNN: Two Georgia election workers are accusing right-wing TV network One America News and former Trump lawyer and pundit Rudy Giuliani of destroying their reputations and prompting Trump supporters to harass them -- filling their lives with fear -- because of false claims of election fraud in 2020. 
+ <p class="updated_time"> 06:58 PM CT, Dec. 23 </p> 
+ <a href="https://www.politico.com/news/2021/12/23/georgia-poll-workers-sue-giuliani-oan-526122">2 Georgia poll workers sue Giuliani, OAN over election conspiracy theories</a> Politico: Ruby Freeman and Shaye Moss, her daughter, worked as poll workers counting ballots at State Farm Arena in Fulton County, Ga., during the November 2020 election. 
  <p class="updated_time"> 06:42 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067724848/former-n-y-gov-andrew-cuomo-wont-be-charged-for-touching-a-female-trooper">Former N.Y. Gov. Andrew Cuomo won't be charged for touching a female trooper</a> NPR: A Long Island prosecutor says Cuomo won't face criminal charges after a state trooper said she felt "completely violated" by his unwanted touching at an event at Belmont Park in 2019. 
  <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
@@ -404,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/21/politics/joe-manchin-joe-biden-relationship/index.html">Biden's relationship with Manchin hits a low point, even as they clear the air</a> CNN: After months of careful cultivation -- and even a nickname -- the most important relationship in Washington is narrowly weathering its stormiest moment to date. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
- <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/manchin-build-back-better-redo-525747">Manchin to Dems: Redo the whole thing, maybe I'll vote for it</a> Politico: The West Virginia senator wants a new bill that goes through Senate committees and focuses on rolling back the 2017 Trump tax cuts. 
 
 
 </details>
