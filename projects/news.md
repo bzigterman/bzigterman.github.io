@@ -42,7 +42,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:56 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/asia/myanmar-army-killings.html">Myanmar’s Army Is Accused of Massacring Dozens of Civilians</a> NYT: At least 35 people were killed and their bodies burned, according to an international aid group and opponents of the military regime. 
  <p class="updated_time"> 06:06 PM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59748260?at_medium=RSS&at_campaign=KARANGA">Why I'm proud to be black and Jewish</a> BBC: Black and Jewish journalist Nadine Batchelor-Hunt travels to Israel to meet the Ethiopian community and explore this dual identity. 
+ <a href="https://www.bbc.co.uk/news/uk-59748260?at_medium=RSS&at_campaign=KARANGA">'I'm Jewish and black - where do I fit in?'</a> BBC: Black and Jewish journalist Nadine Batchelor-Hunt travels to Israel to meet the Ethiopian community and explore this dual identity. 
  <p class="updated_time"> 06:04 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59759885?at_medium=RSS&at_campaign=KARANGA">My art channels the pain from Ethiopia's war</a> BBC: US-based Tigrayan artist Gabrielle Tesfaye uses her work to share her feelings over the civil war. 
  <p class="updated_time"> 06:03 PM CT, Dec. 26 </p> 
