@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:12 AM CT, Dec. 27 </p> 
+ <p class="updated_time"> 03:52 AM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59800113?at_medium=RSS&at_campaign=KARANGA">Afghanistan's Taliban ban long-distance road trips for solo women</a> BBC: Afghanistan's rulers say a male relative must accompany women travelling more than 45 miles (72km). 
+ <p class="updated_time"> 03:49 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59800032?at_medium=RSS&at_campaign=KARANGA">US snowstorms: California and other western states battered</a> BBC: Almost 30in (76cm) of snow fell in parts of northern California and Nevada in a 24-hour period. 
+ <p class="updated_time"> 03:48 AM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59801025?at_medium=RSS&at_campaign=KARANGA">Brazilian town floods after two dams collapse</a> BBC: People in the town of Itabuna can be seen using inflatable rafts and canoes to get from house to house. 
  <p class="updated_time"> 02:51 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/59798619?at_medium=RSS&at_campaign=KARANGA">Ashes: Australia seize control of third Test after ruthless bowling display</a> BBC: England are facing Ashes defeat after a dramatic second day of the third Test in Melbourne sees England close on 31-4 - still 51 runs behind Australia. 
  <p class="updated_time"> 02:26 AM CT, Dec. 27 </p> 
@@ -105,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/myanmar-military-attack-kills-dozens-including-children-aid-group-says-11640510326">Myanmar Military Attack Kills Dozens, Including Children, Aid Group Says</a> WSJ: The violence happened in a part of the country where resistance groups have been fighting the military junta. 
  <p class="updated_time"> 08:39 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59792840?at_medium=RSS&at_campaign=KARANGA">Deadly bombing at restaurant packed for Christmas</a> BBC: Six people have been killed after a suicide bomber targeted a restaurant in eastern DR Congo. 
- <p class="updated_time"> 07:19 PM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59792125?at_medium=RSS&at_campaign=KARANGA">Myanmar: Charity staff missing after deadly 'army attack'</a> BBC: Save the Children says troops killed 38 people and burned their bodies in eastern Kayah state. 
  <p class="updated_time"> 06:57 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59636403?at_medium=RSS&at_campaign=KARANGA">Love story sends TV fans in search of idyllic Alps</a> BBC: Crash Landing On You has been a big hit and now fans are travelling to the filming locations. 
  <p class="updated_time"> 06:54 PM CT, Dec. 25 </p> 
@@ -117,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/25/1068020235/el-salvador-abortion-women-freed">El Salvador frees 3 women who were sentenced to 30 years under anti-abortion laws</a> NPR: President Nayib Bukele's government has freed three Salvadoran women who were sentenced to 30 years in prison under the nation's strict anti-abortion laws after suffering obstetric emergencies. 
  <p class="updated_time"> 06:06 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59732329?at_medium=RSS&at_campaign=KARANGA">The Chinese mother backing bigger families</a> BBC: Chen Ting is a mother-of-three and businesswoman who encourages other families to have more children. 
- <p class="updated_time"> 06:05 PM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59707864?at_medium=RSS&at_campaign=KARANGA">Why a former oil executive is capping abandoned wells</a> BBC: Around the US, an estimated three million oil wells have been abandoned. They're more dangerous than we think. 
  <p class="updated_time"> 05:46 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1068016227/whirling-dervishes-rumi">Photos: Whirling dervish ritual honors Rumi, the Sufi mystic poet</a> NPR: Each year, thousands of people travel to the Turkish city of Konya to attend a series of events and ceremonies that mark the death of the 13th-century Islamic poet, scholar and Sufi mystic Rumi. 
  <p class="updated_time"> 05:28 PM CT, Dec. 25 </p> 
