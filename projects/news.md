@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:53 AM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59800515?at_medium=RSS&at_campaign=KARANGA">Somalia PM Roble defiant after President Farmajo suspends him</a> BBC: The PM's allies say the president's move over land theft allegations amounts to an "indirect coup". 
+ <p class="updated_time"> 06:50 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Cases in Some U.S. States Notch Records</a> NYT: The numbers point to Omicron’s rapid spread, even as some studies suggest that it might cause less severe illness. Travel disruptions continued, with about 2,100 more flights canceled globally. 
  <p class="updated_time"> 06:32 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
  <p class="updated_time"> 06:08 AM CT, Dec. 27 </p> 
@@ -35,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59800032?at_medium=RSS&at_campaign=KARANGA">US snowstorms: California and other western states battered</a> BBC: Almost 30in (76cm) of snow fell in parts of northern California and Nevada in a 24-hour period. 
  <p class="updated_time"> 03:48 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59801025?at_medium=RSS&at_campaign=KARANGA">Brazilian town floods after two dams collapse</a> BBC: People in the town of Itabuna can be seen using inflatable rafts and canoes to get from house to house. 
- <p class="updated_time"> 02:51 AM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/sport/cricket/59798619?at_medium=RSS&at_campaign=KARANGA">Ashes: Australia seize control of third Test after ruthless bowling display</a> BBC: England are facing Ashes defeat after a dramatic second day of the third Test in Melbourne sees England close on 31-4 - still 51 runs behind Australia. 
  <p class="updated_time"> 02:26 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59798489?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: South Africa mourns anti-apartheid hero</a> BBC: The nation is holding a week of commemorative events after the clergyman's death at the age of 90. 
  <p class="updated_time"> 11:24 PM CT, Dec. 26 </p> 
