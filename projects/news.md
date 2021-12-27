@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:50 PM CT, Dec. 27 </p> 
+ <p class="updated_time"> 05:00 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Cuts Isolation Time to 5 Days</a> NYT: To minimize disruptions as virus cases surged, the C.D.C. halved the recommended isolation period for infected Americans to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
  <p class="updated_time"> 04:21 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59805829?at_medium=RSS&at_campaign=KARANGA">France announces tighter Covid restrictions amid Omicron surge</a> BBC: Remote working will become compulsory from 3 January but there will be no New Year's Eve curfew. 
  <p class="updated_time"> 04:19 PM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59806039?at_medium=RSS&at_campaign=KARANGA">US animal shelter shocked after 800 parakeets surrendered</a> BBC: A Detroit animal shelter said the birds were handed over in a "very unhealthy situation". 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59806039?at_medium=RSS&at_campaign=KARANGA">US animal shelter shocked after 800 parakeets handed over</a> BBC: A Detroit animal shelter said the birds were handed over in a "very unhealthy situation". 
+ <p class="updated_time"> 04:05 PM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59803771?at_medium=RSS&at_campaign=KARANGA">India blocks foreign funding for Mother Teresa charity</a> BBC: Hindu hardliners have long accused the Catholic charity of trying to convert people to Christianity. 
  <p class="updated_time"> 03:53 PM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/27/1068298117/-17-trillion-thats-how-much-the-pandemic-could-take-away-from-todays-kids">$17 trillion: That's how much the pandemic could take away from today's kids</a> NPR: A new report from UNESCO estimates the potential lifetime earnings lost to the world's children due to school closings. But there are ways to prevent this from happening. 
  <p class="updated_time"> 03:46 PM CT, Dec. 27 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/27/1068334991/british-columbia-is-looking-at-how-it-can-adapt-to-prepare-for-more-climate-disa">British Columbia is looking at how it can adapt to prepare for more climate disasters</a> NPR: British Columbia was devastated by natural disasters this year attributed to climate change. The Canadian province is evaluating how to prepare for the next disasters. 
  <p class="updated_time"> 02:30 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/africa/desmond-tutu-mourning.html">South Africa Begins a Week of Mourning for Desmond Tutu</a> NYT: The cleric and anti-apartheid activist’s funeral will be held on Jan. 1 at the cathedral where he served as South Africa’s first Black archbishop. 
- <p class="updated_time"> 01:28 PM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59800032?at_medium=RSS&at_campaign=KARANGA">US snowstorms: California and other western states battered</a> BBC: Almost 30in (76cm) of snow fall in parts of northern California and Nevada over 24 hours. 
  <p class="updated_time"> 01:18 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
  <p class="updated_time"> 01:00 PM CT, Dec. 27 </p> 
@@ -35,14 +35,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/saudi-arabia-films-movies.html">As Other Arab States Falter, Saudi Arabia Seeks to Become a Cultural Hub</a> NYT: While conflicts and crises have battered Arab cultural capitals, Saudi Arabia is hosting film festivals and bankrolling new movies. 
  <p class="updated_time"> 11:51 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59800113?at_medium=RSS&at_campaign=KARANGA">Afghanistan's Taliban ban long-distance road trips for solo women</a> BBC: Afghanistan's rulers say a male relative must accompany women travelling more than 45 miles (72km). 
+ <p class="updated_time"> 11:50 AM CT, Dec. 27 </p> 
+ <a href="https://www.wsj.com/articles/governments-race-to-ease-staff-shortages-as-omicron-spreads-11640605845">As Omicron Spreads, Governments Race to Ease Staff Shortages</a> WSJ: The speed with which the new variant is spreading is presenting a different kind of challenge for policy makers, who are now weighing how to keep critical services functioning amid a wave of staff absences and enforced isolation periods. 
  <p class="updated_time"> 11:23 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/iraq-election-muqtada-al-sadr.html">Iraq Confirms Election Gains for Muqtada al-Sadr</a> NYT: A court certified October’s parliamentary vote that gave Muqtada al-Sadr’s party a plurality of seats, clearing a path for a government to be formed. 
  <p class="updated_time"> 11:09 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/europe/poland-media-law.html">Poland’s President Says He Will Veto Media Bill Opposed by U.S.</a> NYT: The measure backed by the nationalist governing coalition sought to limit foreign influence and could have imperiled the license of an American-owned TV station. 
  <p class="updated_time"> 10:52 AM CT, Dec. 27 </p> 
  <a href="https://www.wsj.com/articles/power-struggle-between-somali-president-and-prime-minister-threatens-fight-against-extremists-11640620008">Power Struggle Between Somali President and Prime Minister Threatens Fight Against Extremists</a> WSJ: The Somali president has suspended the prime minister, who in turn said he would assume the president’s duties, a battle that undermines the country’s fight against al-Shabaab. 
- <p class="updated_time"> 10:37 AM CT, Dec. 27 </p> 
- <a href="https://www.wsj.com/articles/governments-race-to-ease-staff-shortages-as-omicron-spreads-11640605845">As Omicron Spreads, Governments Race to Ease Staff Shortages</a> WSJ: The speed with which the new variant is spreading is presenting a different kind of challenge for policy makers, who are now weighing how to keep critical services functioning amid a wave of staff absences and enforced isolation periods. 
  <p class="updated_time"> 10:14 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/asia/philippines-super-typhoon-rai.html">Super Typhoon Rai Leaves Miles of Wreckage in Philippines</a> NYT: Philippine officials warned that residents were going hungry. Many were still in evacuation centers. On a highway, survivors scrawled an appeal for aid. 
  <p class="updated_time"> 09:43 AM CT, Dec. 27 </p> 
@@ -192,10 +192,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:53 PM CT, Dec. 27 </p> 
+ <a href="https://www.cnn.com/2021/12/27/health/cdc-covid-quarantine-isolation-shortened-recommendation/index.html">CDC shortens recommended Covid-19 isolation and quarantine time</a> CNN: The US Centers for Disease Control and Prevention on Monday shortened the recommended times that people should isolate when they've tested positive for Covid-19 from 10 days to five days if they don't have symptoms -- and if they wear a mask around others for at least five more days. 
  <p class="updated_time"> 04:42 PM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/cdc-cut-quarantine-covid-omicron-526187">CDC cuts recommended quarantine time amid Omicron surge</a> Politico: The reduction follows the CDC’s move last week to shorten its isolation period for infected health care workers, assuming they are asymptomatic and later test negative. 
- <p class="updated_time"> 04:28 PM CT, Dec. 27 </p> 
- <a href="https://www.cnn.com/2021/12/27/health/cdc-covid-quarantine-isolation-shortened-recommendation/index.html">CDC shortens recommended Covid-19 isolation and quarantine time</a> CNN: The US Centers for Disease Control and Prevention on Monday shortened the recommended times that people should isolate when they've tested positive for Covid-19 from 10 days to five days if they don't have symptoms -- and if they wear a mask around others for at least five more days. 
  <p class="updated_time"> 04:20 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/biden-defense-bill.html">Biden Signs $770 Billion Defense Bill</a> NYT: The National Defense Authorization Act passed Congress with bipartisan support, over the opposition of liberals pushing for more social spending. 
  <p class="updated_time"> 03:51 PM CT, Dec. 27 </p> 
