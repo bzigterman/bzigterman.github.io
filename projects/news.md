@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:53 PM CT, Dec. 27 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/12/27/1068298117/-17-trillion-thats-how-much-the-pandemic-could-take-away-from-todays-kids">$17 trillion: That's how much the pandemic could take away from today's kids</a> NPR: A new report from UNESCO estimates the potential lifetime earnings lost to the world's children due to school closings. But there are ways to prevent this from happening. 
+ <p class="updated_time"> 03:49 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Fauci Says Vaccination Requirement Should ‘Seriously Be Considered’ for Air Travel</a> NYT: Staffing shortages largely caused by a spike in coronavirus cases have led to thousands of flights being canceled. In some U.S. states, cases are surpassing last winter’s peaks. 
  <p class="updated_time"> 03:46 PM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068335033/a-look-back-at-afghanistans-last-year">A look back at Afghanistan's last year</a> NPR: At the start of 2021, people knew that President Biden had promised to end the war in Afghanistan. They did not know how it would conclude. 
  <p class="updated_time"> 03:46 PM CT, Dec. 27 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/27/1068335019/what-lies-ahead-for-iran-and-its-new-president">What lies ahead for Iran and its new president</a> NPR: Iran's new president will be looking to show he can improve the country's economy and to tamp down public dissent among Iranians. that might hinge on its nuclear program and relations with the West. 
  <p class="updated_time"> 03:35 PM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068334991/british-columbia-is-looking-at-how-it-can-adapt-to-prepare-for-more-climate-disa">British Columbia is looking at how it can adapt to prepare for more climate disasters</a> NPR: British Columbia was devastated by natural disasters this year attributed to climate change. The Canadian province is evaluating how to prepare for the next disasters. 
- <p class="updated_time"> 03:29 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Fauci Says Vaccination Requirement Should ‘Seriously Be Considered’ for Air Travel</a> NYT: Staffing shortages largely caused by a spike in coronavirus cases have led to thousands of flights being canceled. In some U.S. states, cases are surpassing last winter’s peaks. 
  <p class="updated_time"> 02:30 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/africa/desmond-tutu-mourning.html">South Africa Begins a Week of Mourning for Desmond Tutu</a> NYT: The cleric and anti-apartheid activist’s funeral will be held on Jan. 1 at the cathedral where he served as South Africa’s first Black archbishop. 
  <p class="updated_time"> 01:28 PM CT, Dec. 27 </p> 
@@ -33,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/iraq-election-muqtada-al-sadr.html">Iraq Confirms Election Gains for Muqtada al-Sadr</a> NYT: A court certified October’s parliamentary vote that gave Muqtada al-Sadr’s party a plurality of seats, clearing a path for a government to be formed. 
  <p class="updated_time"> 11:09 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/europe/poland-media-law.html">Poland’s President Says He Will Veto Media Bill Opposed by U.S.</a> NYT: The measure backed by the nationalist governing coalition sought to limit foreign influence and could have imperiled the license of an American-owned TV station. 
+ <p class="updated_time"> 10:52 AM CT, Dec. 27 </p> 
+ <a href="https://www.wsj.com/articles/power-struggle-between-somali-president-and-prime-minister-threatens-fight-against-extremists-11640620008">Power Struggle Between Somali President and Prime Minister Threatens Fight Against Extremists</a> WSJ: The Somali president has suspended the prime minister, who in turn said he would assume the president’s duties, a battle that undermines the country’s fight against al-Shabaab. 
  <p class="updated_time"> 10:37 AM CT, Dec. 27 </p> 
  <a href="https://www.wsj.com/articles/governments-race-to-ease-staff-shortages-as-omicron-spreads-11640605845">As Omicron Spreads, Governments Race to Ease Staff Shortages</a> WSJ: The speed with which the new variant is spreading is presenting a different kind of challenge for policy makers, who are now weighing how to keep critical services functioning amid a wave of staff absences and enforced isolation periods. 
  <p class="updated_time"> 10:25 AM CT, Dec. 27 </p> 
@@ -131,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/1068063592/a-revolutionary-movement-for-democracy-has-taken-hold-in-sudan-led-by-young-peop">A revolutionary movement for democracy has taken hold in Sudan, led by young people</a> NPR: A huge network of resistance committees has transformed public protest in Sudan, challenging the new junta. 
  <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068063585/nprs-east-africa-correspondent-asks-interviewees-the-songs-they-carried-through-">NPR's East Africa correspondent asks interviewees the songs they carried through 2021</a> NPR: Music was a buoy during the turbulent times of 2021. Here's a sampling of some meaningful tracks. 
- <p class="updated_time"> 07:00 AM CT, Dec. 26 </p> 
- <a href="https://www.npr.org/2021/12/26/1066377153/israel-gaza-farm-bible-rest">A biblical rest from farming in Israel could help Gaza's growers. They are waiting</a> NPR: For Orthodox Jews during a yearlong agricultural sabbath, Israel pledged to lift some restrictions on produce from the Gaza Strip. Palestinian farmers in Gaza are wondering what's taking so long. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/insider/in-congo-bolivia-and-beyond-where-the-green-future-begins.html">In Congo, Bolivia and Beyond, Where the Green Future Begins</a> NYT: The Times’s Race to the Future series is focused on the competition for electric-car resources that will shape the 21st century. 
  <p class="updated_time"> 03:26 AM CT, Dec. 26 </p> 
@@ -190,6 +192,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:42 PM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/news/2021/12/27/cdc-cut-quarantine-covid-omicron-526187">CDC plans to cut recommended quarantine time amid Omicron surge</a> Politico: The reduction follows the CDC’s move last week to shorten its isolation period for infected health care workers, assuming they are asymptomatic and later test negative. 
+ <p class="updated_time"> 03:51 PM CT, Dec. 27 </p> 
+ <a href="https://www.npr.org/2021/12/27/1068335040/arkansas-gov-asa-hutchinson-on-the-state-of-the-pandemic">Arkansas Gov. Asa Hutchinson on the state of the pandemic</a> NPR: NPR's Mary Louise Kelly speaks with Gov. Asa Hutchinson, R-Ark., about Monday's call with the White House and governors about the pandemic. 
  <p class="updated_time"> 03:35 PM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1049811327/states-send-kids-to-foster-care-and-their-parents-the-bill-often-one-too-big-to-">States send kids to foster care and their parents the bill — often one too big to pay</a> NPR: In every state, governments charge parents for the cost of foster care when children are taken away. When that happens, NPR found, poor parents can't make ends meet, so families are kept apart longer. 
  <p class="updated_time"> 03:19 PM CT, Dec. 27 </p> 
@@ -312,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/23/politics/georgia-election-workers-lawsuit-rudy-giuliani-one-america-news/index.html">Two Georgia election workers sue Giuliani and One America News, claiming election lies prompted severe harassment </a> CNN: Two Georgia election workers are accusing right-wing TV network One America News and former Trump lawyer and pundit Rudy Giuliani of destroying their reputations and prompting Trump supporters to harass them -- filling their lives with fear -- because of false claims of election fraud in 2020. 
  <p class="updated_time"> 06:58 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/georgia-poll-workers-sue-giuliani-oan-526122">2 Georgia poll workers sue Giuliani, OAN over election conspiracy theories</a> Politico: Ruby Freeman and Shaye Moss, her daughter, worked as poll workers counting ballots at State Farm Arena in Fulton County, Ga., during the November 2020 election. 
- <p class="updated_time"> 06:42 PM CT, Dec. 23 </p> 
- <a href="https://www.npr.org/2021/12/23/1067724848/former-n-y-gov-andrew-cuomo-wont-be-charged-for-touching-a-female-trooper">Former N.Y. Gov. Andrew Cuomo won't be charged for touching a female trooper</a> NPR: A Long Island prosecutor says Cuomo won't face criminal charges after a state trooper said she felt "completely violated" by his unwanted touching at an event at Belmont Park in 2019. 
  <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
  <p class="updated_time"> 06:30 PM CT, Dec. 23 </p> 
