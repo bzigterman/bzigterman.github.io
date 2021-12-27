@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:42 PM CT, Dec. 27 </p> 
+ <p class="updated_time"> 04:50 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Cuts Isolation Time to 5 Days</a> NYT: To minimize disruptions as virus cases surged, the C.D.C. halved the recommended isolation period for infected Americans to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
  <p class="updated_time"> 04:21 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59805829?at_medium=RSS&at_campaign=KARANGA">France announces tighter Covid restrictions amid Omicron surge</a> BBC: Remote working will become compulsory from 3 January but there will be no New Year's Eve curfew. 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:42 PM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/cdc-cut-quarantine-covid-omicron-526187">CDC cuts recommended quarantine time amid Omicron surge</a> Politico: The reduction follows the CDC’s move last week to shorten its isolation period for infected health care workers, assuming they are asymptomatic and later test negative. 
+ <p class="updated_time"> 04:28 PM CT, Dec. 27 </p> 
+ <a href="https://www.cnn.com/2021/12/27/health/cdc-covid-quarantine-isolation-shortened-recommendation/index.html">CDC shortens recommended Covid-19 isolation and quarantine time</a> CNN: The US Centers for Disease Control and Prevention on Monday shortened the recommended times that people should isolate when they've tested positive for Covid-19 from 10 days to five days if they don't have symptoms -- and if they wear a mask around others for at least five more days. 
  <p class="updated_time"> 04:20 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/biden-defense-bill.html">Biden Signs $770 Billion Defense Bill</a> NYT: The National Defense Authorization Act passed Congress with bipartisan support, over the opposition of liberals pushing for more social spending. 
  <p class="updated_time"> 03:51 PM CT, Dec. 27 </p> 
@@ -237,7 +239,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:17 AM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068197354/racial-reckoning-turns-focus-to-roadside-historical-markers">Racial reckoning turns focus to roadside historical markers</a> NPR: Pennsylvania is reviewing its 2,500 roadside markers, scrutinizing factual errors, inadequate historical context, and racist or otherwise inappropriate references. 
  <p class="updated_time"> 11:39 PM CT, Dec. 26 </p> 
- <a href="https://www.cnn.com/2021/12/27/politics/donald-trump-january-6-committee/index.html">Trump and the January 6 committee are now locked in a full-on confrontation</a> CNN: Nearly a year after his failed coup attempt, Donald Trump's habit of putting his own political gain over truth is playing out again as the ex-commander-in-chief and his associates seek to delay and defy the House select committee probing the January 6 insurrection. 
+ <a href="https://www.cnn.com/2021/12/27/politics/donald-trump-january-6-committee/index.html">Analysis: Trump and the January 6 committee are now locked in a full-on confrontation</a> CNN: Nearly a year after his failed coup attempt, Donald Trump's habit of putting his own political gain over truth is playing out again as the ex-commander-in-chief and his associates seek to delay and defy the House select committee probing the January 6 insurrection. 
  <p class="updated_time"> 06:16 PM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/bishop-desmond-tutu-gay-bishop-526161">First U.S. gay bishop remembers Desmond Tutu’s generosity, kindness</a> Politico: Gene Robinson said Tutu used his own experience of oppression to understand and empathize with others. 
  <p class="updated_time"> 06:10 PM CT, Dec. 26 </p> 
@@ -260,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/26/murthy-covid-vaccines-children-526151">Surgeon general offers hopeful note on pandemic</a> Politico: “We have saved more than a million lives because of vaccination efforts this past year alone,” Vivek Murthy said. 
  <p class="updated_time"> 08:35 AM CT, Dec. 26 </p> 
  <a href="https://www.cnn.com/2021/12/26/politics/debbie-dingell-fred-upton-cnntv/index.html">Two lawmakers say their bipartisan friendship a model for overcoming 'toxic' year in Washington</a> CNN: Two Michigan lawmakers from opposite sides of the aisle came together to urge the importance of unity and kindness after a "toxic" year in Washington and across the country. 
- <p class="updated_time"> 07:05 AM CT, Dec. 26 </p> 
- <a href="https://www.cnn.com/2021/12/26/politics/republicans-trump-2021-lies/index.html">Analysis: Biden's struggles shouldn't eclipse GOP's year of dangerous falsehoods</a> CNN: America's running political conversation defaults to the sitting president. Today, Joe Biden's legislative struggles, pandemic management and weak approval rating drown out most everything else. 
  <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068063599/sudanese-activists-want-the-u-s-to-support-their-push-for-democracy">Sudanese activists want the U.S. to support their push for democracy</a> NPR: NPR's Eyder Peralta speaks with Ambassador Jeffrey Feltman, U.S. Special Envoy for the Horn of Africa, about the ongoing conflicts in that region. 
  <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
@@ -294,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1067889526/what-the-pandemic-could-mean-for-the-economy-in-2022">What the pandemic could mean for the economy in 2022</a> NPR: The country's economic health is largely being defined by the coronavirus pandemic. The omicron variant is now changing expectations for the economy in 2022. 
  <p class="updated_time"> 01:49 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067875042/the-u-s-is-lifting-its-omicron-linked-travel-ban-on-southern-africa">The U.S. is lifting its omicron-linked travel ban on southern Africa</a> NPR: The Biden administration on Friday said it was ordering the lifting of COVID-19 travel restrictions imposed earlier on eight  countries. The WHO had argued they were ineffective and unfair. 
- <p class="updated_time"> 01:17 PM CT, Dec. 24 </p> 
- <a href="https://www.cnn.com/2021/12/24/politics/cdc-updates-isolation-guidance-health-care-workers/index.html">CDC shortens isolation time for health care workers with Covid-19</a> CNN: The US Centers for Disease Control and Prevention is shortening the isolation time for health care workers who test positive for Covid-19, as it anticipates a surge in hospitalizations due to the Omicron variant. 
  <p class="updated_time"> 12:21 PM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/january-6-video-capitol-hill-riot/index.html">New January 6 video shows three hours of violent and chaotic assault on police </a> CNN: The Justice Department this week released a three-hour video of a battle between rioters and the police at the US Capitol Building on January 6 where rioters brandished weapons, officers were viciously beaten, and a member of the mob died on Capitol steps. 
  <p class="updated_time"> 10:36 AM CT, Dec. 24 </p> 
@@ -400,6 +398,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/21/politics/joe-manchin-joe-biden-relationship/index.html">Biden's relationship with Manchin hits a low point, even as they clear the air</a> CNN: After months of careful cultivation -- and even a nickname -- the most important relationship in Washington is narrowly weathering its stormiest moment to date. 
  <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
+ <p class="updated_time"> 06:39 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/haitian-migrants-biden-administration-lawsuit/index.html">Group of Haitian migrants sue Biden administration over poor treatment</a> CNN: A group of Haitian migrants is suing the Biden administration over its treatment of migrants, recounting in detail squalid conditions at a makeshift camp in Del Rio, Texas, this year and confrontations with officers on horseback, according to a lawsuit filed Monday. 
 
 
 </details>
