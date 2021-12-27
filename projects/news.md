@@ -7,18 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:44 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Israel Starts Trial of 4th Vaccine Dose</a> NYT: The study is being watched closely as countries grapple with surges of Omicron infections. In some U.S. states, cases are surpassing last winter’s peaks. 
+ <p class="updated_time"> 07:39 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/asia/philippines-super-typhoon-rai.html">Super Typhoon Rai Leaves Miles of Wreckage in Philippines</a> NYT: Philippine officials warned that residents were going hungry. Many were still in evacuation centers. On a highway, survivors scrawled an appeal for aid. 
+ <p class="updated_time"> 07:31 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/africa/desmond-tutu-mourning.html">South Africa Begins a Week of Mourning for Desmond Tutu</a> NYT: The cleric and anti-apartheid activist’s funeral will be held on Jan. 1 at the cathedral where he served as South Africa’s first Black archbishop. 
+ <p class="updated_time"> 07:26 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/africa/somalia-prime-minister-suspended.html">Somalia’s President Suspends Prime Minister Over Corruption Allegations</a> NYT: The premier, Mohamed Hussein Roble, defied the order to step down as tensions continue over long-delayed elections. 
+ <p class="updated_time"> 07:17 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
+ <p class="updated_time"> 07:09 AM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59800114?at_medium=RSS&at_campaign=KARANGA">Covid-19: Extra vaccine mandates come into force in New York City</a> BBC: The measures include vaccine mandates for private-sector workers and children entering venues. 
+ <p class="updated_time"> 06:54 AM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59802233?at_medium=RSS&at_campaign=KARANGA">Amber Heard names new dog after Australian minister embroiled in feud</a> BBC: The US actress names her new dog after the Australian minister who said her dogs should go home in 2015. 
  <p class="updated_time"> 06:53 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59800515?at_medium=RSS&at_campaign=KARANGA">Somalia PM Roble defiant after President Farmajo suspends him</a> BBC: The PM's allies say the president's move over land theft allegations amounts to an "indirect coup". 
- <p class="updated_time"> 06:50 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Cases in Some U.S. States Notch Records</a> NYT: The numbers point to Omicron’s rapid spread, even as some studies suggest that it might cause less severe illness. Travel disruptions continued, with about 2,100 more flights canceled globally. 
- <p class="updated_time"> 06:32 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
- <p class="updated_time"> 06:08 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/asia/philippines-super-typhoon-rai.html">Super Typhoon Rai Leaves Miles of Wreckage in Philippines</a> NYT: Philippine officials warned that residents were going hungry. Many were still in evacuation centers. On a highway, survivors scrawled an appeal for aid. 
  <p class="updated_time"> 06:02 AM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068215624/myanmar-court-postpones-verdicts-in-second-case-against-suu-kyi">Myanmar court postpones verdicts in second case against Suu Kyi</a> NPR: The case is among many brought against the 76-year-old Nobel Peace Prize laureate since the army seized power on Feb. 1. 
- <p class="updated_time"> 05:49 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/africa/somalia-prime-minister-suspended.html">Somalia’s President Suspends Prime Minister Over Corruption Allegations</a> NYT: The premier, Mohamed Hussein Roble, defied the order to step down as tensions continue over long-delayed elections. 
  <p class="updated_time"> 05:15 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59800035?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu - the staunch and steadfast healer of a nation</a> BBC: How Desmond Tutu went from public enemy No1 to the pastor of a nation. 
  <p class="updated_time"> 05:01 AM CT, Dec. 27 </p> 
@@ -41,14 +47,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59801025?at_medium=RSS&at_campaign=KARANGA">Brazilian town floods after two dams collapse</a> BBC: People in the town of Itabuna can be seen using inflatable rafts and canoes to get from house to house. 
  <p class="updated_time"> 02:26 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59798489?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: South Africa mourns anti-apartheid hero</a> BBC: The nation is holding a week of commemorative events after the clergyman's death at the age of 90. 
- <p class="updated_time"> 11:24 PM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59798682?at_medium=RSS&at_campaign=KARANGA">Covid: Travel chaos spills into new week</a> BBC: More than 1,400 flights are scrapped on Monday, capping off a tough festive period for travellers. 
  <p class="updated_time"> 10:30 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
  <p class="updated_time"> 10:09 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59761839?at_medium=RSS&at_campaign=KARANGA">Climate change: Huge toll of extreme weather disasters in 2021</a> BBC: Floods and storms connected to rising temperatures have had a huge impact on people worldwide. 
- <p class="updated_time"> 09:05 PM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/business-59798609?at_medium=RSS&at_campaign=KARANGA">Spider-Man: No Way Home becomes first pandemic-era film to top $1bn</a> BBC: It beat Chinese Korean War epic The Battle of Lake Changjin to be the highest grossing film of 2021. 
  <p class="updated_time"> 08:06 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59798494?at_medium=RSS&at_campaign=KARANGA">Roe v Wade US abortion rights lawyer Sarah Weddington dies</a> BBC: Sarah Weddington won the landmark 1973 US Supreme Court case that legalised abortions in the US. 
  <p class="updated_time"> 07:56 PM CT, Dec. 26 </p> 
@@ -211,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/monopoly-antitrust-new-rules-tech-525161">The new rules of Monopoly</a> Politico: Washington has spent decades playing from the same rulebook in the game of keeping dominant businesses from snuffing out the competition. But a new breed of antitrust enforcers say those rules are rigged against consumers — and in favor of Big Tech. They say it’s time to change the game. 
  <p class="updated_time"> 04:30 AM CT, Dec. 27 </p> 
- <a href="https://www.politico.com/news/2021/12/27/omicron-business-washington-526060">Omicron triggers business outcry for Washington lifeline</a> Politico: The outcry poses a new challenge for the Biden administration and congressional leadership heading into the 2022 midterm elections. 
+ <a href="https://www.politico.com/news/2021/12/27/omicron-business-washington-526060">Omicron triggers business outcry for Washington lifeline</a> Politico: The lobbying push poses a new challenge for the Biden administration and congressional leadership heading into the 2022 midterm elections. 
  <p class="updated_time"> 04:30 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/biden-steven-bondy-bahrain-ambassador-526160">Inside an explosive whisper campaign that tried to sink a Biden ambassador pick</a> Politico: Steven Bondy had his detractors in a previous job. When he was tapped for a top Mideast post, they started talking. 
  <p class="updated_time"> 04:30 AM CT, Dec. 27 </p> 
@@ -410,8 +412,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/manchin-build-back-better-redo-525747">Manchin to Dems: Redo the whole thing, maybe I'll vote for it</a> Politico: The West Virginia senator wants a new bill that goes through Senate committees and focuses on rolling back the 2017 Trump tax cuts. 
  <p class="updated_time"> 11:49 AM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/murphy-a-leader-of-house-dem-centrists-wont-seek-reelection-525750">Murphy, a leader of House Dem centrists, won't seek reelection</a> Politico: In an interview with POLITICO about her departure, the Florida Democrat didn’t rule out a future run for a different public role. 
- <p class="updated_time"> 07:12 AM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/12/20/are-dems-dreams-deferred-or-dead-495523">Are Dems’ dreams deferred or dead?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
