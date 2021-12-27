@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:15 AM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59800035?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu - the staunch and steadfast healer of a nation</a> BBC: How Desmond Tutu went from public enemy No1 to the pastor of a nation. 
  <p class="updated_time"> 05:01 AM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068208287/omicron-surge-sets-records-as-flight-disruptions-continue">Omicron surge sets records as flight disruptions continue</a> NPR: More than 1,400 flights canceled worldwide Monday, adding to thousands canceled over the Christmas weekend. And across the country, long lines continued at COVID-19 testing sites. 
  <p class="updated_time"> 04:48 AM CT, Dec. 27 </p> 
@@ -119,10 +121,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/venezuelan-migrants-fall-prey-to-sex-traffickers-after-fleeing-their-collapsing-country-11640514604">Venezuelan Migrants Fall Prey to Sex Traffickers</a> WSJ: Sex traffickers exploit the exodus of nearly six million people from Venezuela—the world’s largest continuing refugee crisis in number of migrants fleeing—by coercing some into bondage using bogus job offers. 
  <p class="updated_time"> 10:18 PM CT, Dec. 25 </p> 
  <a href="https://www.wsj.com/articles/myanmar-military-attack-kills-dozens-including-children-aid-group-says-11640510326">Myanmar Military Attack Kills Dozens, Including Children, Aid Group Says</a> WSJ: The violence happened in a part of the country where resistance groups have been fighting the military junta. 
- <p class="updated_time"> 06:57 PM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59636403?at_medium=RSS&at_campaign=KARANGA">Love story sends TV fans in search of idyllic Alps</a> BBC: Crash Landing On You has been a big hit and now fans are travelling to the filming locations. 
- <p class="updated_time"> 06:54 PM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59609232?at_medium=RSS&at_campaign=KARANGA">Israeli 'psychic' Uri Geller still baffling fans at 75</a> BBC: Now wowing visitors at his museum, the famous spoon bender recalls his rise from poverty to stardom. 
  <p class="updated_time"> 06:54 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59740360?at_medium=RSS&at_campaign=KARANGA">Uri Geller: The celebrity who owes his success to spoons</a> BBC: Self-proclaimed Israel psychic Uri Geller recalls how he made spoon-bending famous across the world. 
  <p class="updated_time"> 06:20 PM CT, Dec. 25 </p> 
@@ -206,6 +204,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/news/2021/12/27/biden-covid-vaccines-usaid-funding-526126">Biden wants to vaccinate the world. USAID is running short on money.</a> Politico: In September, U.S. officials noted it would take at least $7 billion in 2022 to ensure shots are administered across the globe. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/news/2021/12/27/monopoly-antitrust-new-rules-tech-525161">The new rules of Monopoly</a> Politico: Washington has spent decades playing from the same rulebook in the game of keeping dominant businesses from snuffing out the competition. But a new breed of antitrust enforcers say those rules are rigged against consumers — and in favor of Big Tech. They say it’s time to change the game. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/news/2021/12/27/omicron-business-washington-526060">Omicron triggers business outcry for Washington lifeline</a> Politico: The outcry poses a new challenge for the Biden administration and congressional leadership heading into the 2022 midterm elections. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/news/2021/12/27/biden-steven-bondy-bahrain-ambassador-526160">Inside an explosive whisper campaign that tried to sink a Biden ambassador pick</a> Politico: Steven Bondy had his detractors in a previous job. When he was tapped for a top Mideast post, they started talking. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/cartoons/2021/12/22/matt-wuerker-cartoons-best-of-2021-000274">Best of 2021</a> Politico: The election of Joe Biden was supposed to usher in a return to normal, an end to the pandemic, a calming of the waters. Instead 2021 was a year of surprises — an attempted coup, a new spike in Covid, a deepening of the culture wars.  Matt Wuerker did his best to keep up with the tumultuous times. Here's a sample of his cartoons chronicling 2021. 
  <p class="updated_time"> 04:05 AM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068201313/stacey-abrams-discusses-running-again-for-ga-governor-and-her-new-childrens-book">Stacey Abrams discusses running again for Ga. governor and her new children's book</a> NPR: NPR's Rachel Martin talks to Stacey Abrams about her second bid to be Georgia's governor, and the lessons about drawing strength from failure in her new children's book: Stacey's Extraordinary Words. 
  <p class="updated_time"> 02:17 AM CT, Dec. 27 </p> 
@@ -299,8 +307,6 @@ permalink: /projects/news/
  <p class="updated_time"> 08:12 AM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/travel-restrictions-african-countries-omicron/index.html">Biden to lift travel restrictions on southern African countries that were put in place due to Omicron</a> CNN: The Biden administration is lifting restrictions on eight southern African countries that were put in place last month after the Omicron variant was first identified in South Africa, a White House official tells CNN. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
- <a href="https://www.politico.com/news/2021/12/24/maryland-governor-democrats-526119">Dems face off in Maryland primary — in an ‘incredibly Republican year’</a> Politico: Looming over the gubernatorial primary is a political environment likely benefiting Republicans — amplified by the GOP’s victory in neighboring Virginia last month. 
- <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-rural-evictions-526089">Biden’s about to adopt a policy that could hurt Dems even more with rural voters</a> Politico: About half of the $46.5 billion in federal rental aid made available during the pandemic is expected to be spent by the end of this year. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-social-spending-senate-parliamentarian-526081">Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</a> Politico: The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan. 
@@ -342,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/23/politics/als-research-biden-bill-signing/index.html">Biden says bipartisan legislation funding ALS research 'represents the spirit of the season' </a> CNN: President Joe Biden on Thursday signed into law bipartisan legislation that expands funding for amyotrophic lateral sclerosis research, hailing it as in "the spirit of the season." 
  <p class="updated_time"> 03:56 PM CT, Dec. 23 </p> 
  <a href="https://www.npr.org/2021/12/23/1067598857/the-trump-supporters-who-went-from-planning-the-jan-6-rally-to-aiding-the-riot-p">The Trump supporters who went from planning the Jan. 6 rally to aiding the riot probe</a> NPR: NPR's Ari Shapiro talks with reporter Hunter Walker, who wrote a Rolling Stone article on Dustin Stockton and Jennifer Lynn Lawrence, the Trump supporters now cooperating with the Jan. 6 House panel. 
- <p class="updated_time"> 03:40 PM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/apple-google-doj-delay-526072">Potential DOJ suits against Apple and Google delayed amid budget woes</a> Politico: Antitrust prosecutors had aimed to wrap up their probes of the two tech giants by Dec. 31. But now a decision on whether to sue could come in March or later. 
  <p class="updated_time"> 02:12 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/kamala-harris-biden-administration.html">Kamala Harris’s Allies Express Concern: Is She an Afterthought?</a> NYT: The vice president’s allies are increasingly concerned that President Biden relied on her to win but does not need her to govern. 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
