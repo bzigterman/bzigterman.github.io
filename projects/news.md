@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:51 AM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/sport/cricket/59798619?at_medium=RSS&at_campaign=KARANGA">Ashes: Australia seize control of third Test after ruthless bowling display</a> BBC: England are facing Ashes defeat after a dramatic second day of the third Test in Melbourne sees England close on 31-4 - still 51 runs behind Australia. 
  <p class="updated_time"> 02:26 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59798489?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: South Africa mourns anti-apartheid hero</a> BBC: The nation is holding a week of commemorative events after the clergyman's death at the age of 90. 
  <p class="updated_time"> 11:24 PM CT, Dec. 26 </p> 
@@ -139,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/africa/sudan-coup-protests.html">Anti-Coup Protesters in Sudan Press Their Demand for Return to Civilian Rule</a> NYT: The protests on Saturday underscored the resolve of protesters to continue defying the Oct. 25 coup that derailed the country’s nascent attempt to transition to democratic rule. 
  <p class="updated_time"> 12:24 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/hindu-extremists-india-muslims.html">As Hindu Extremists Call for Killing of Muslims, India’s Leaders Keep Silent</a> NYT: Right-wing Hindu activists at a conference took an oath to harm Muslims if necessary to make “a Hindu-only nation,” the most blatant example of rising anti-Muslim sentiment across India. 
- <p class="updated_time"> 11:28 AM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59791541?at_medium=RSS&at_campaign=KARANGA">Spain's La Palma volcano eruption declared over after three months</a> BBC: The Cumbre Vieja volcano in Spain's Canary Islands had been spewing lava and ash since September. 
  <p class="updated_time"> 10:38 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/queen-elizabeth-christmas-address.html">‘Christmas Can Be Hard’ Amid Loss, Queen Elizabeth Says in Annual Message</a> NYT: Her address, which was recorded last week, is the first since the death of her husband, Prince Philip. It comes as coronavirus cases in Britain have hit record highs. 
  <p class="updated_time"> 10:22 AM CT, Dec. 25 </p> 
