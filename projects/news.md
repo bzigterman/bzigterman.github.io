@@ -48,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:07 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/middleeast/archbishop-tutu-cowell-recollection.html">The Time Archbishop Tutu Was Searched at the Airport</a> NYT: A former South Africa bureau chief for The Times recalls telling moments with the anti-apartheid religious leader. 
  <p class="updated_time"> 01:58 PM CT, Dec. 26 </p> 
- <a href="https://www.wsj.com/articles/countries-consider-further-post-christmas-omicron-curbs-11640525485">Omicron Pushes Daily Covid-19 Cases Higher, Disrupts Holiday Travel</a> WSJ: The peak holiday travel season continued to be hammered by the fast-spreading Omicron variant Sunday, as the Biden administration said it was working to make sure hospitals aren’t overwhelmed. 
+ <a href="https://www.wsj.com/articles/countries-consider-further-post-christmas-omicron-curbs-11640525485">Omicron Pushes Daily Cases Higher, Disrupts Travel</a> WSJ: The peak holiday travel season continued to be hammered by the fast-spreading Omicron variant Sunday, as the Biden administration said it was working to make sure hospitals aren’t overwhelmed. 
  <p class="updated_time"> 01:17 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/africa/tutu-death.html">Here Are Some of the Many Tributes for Desmond Tutu, a Force for Harmony</a> NYT: From prominent South African lawmakers to religious figures, many on social media honored Archbishop Tutu as a patriot of peaceful principles who dedicated his life to combating injustice everywhere. 
  <p class="updated_time"> 11:21 AM CT, Dec. 26 </p> 
