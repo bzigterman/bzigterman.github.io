@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:33 AM CT, Dec. 27 </p> 
+ <p class="updated_time"> 09:00 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/europe/spain-king-juan-carlos.html">Will Spain Give Disgraced King a Royal Homecoming?</a> NYT: In the years since Juan Carlos, Spain’s former king, fled the country to escape corruption investigations, some of the cases have been resolved or dropped. Now Spaniards are weighing whether they want him back. 
- <p class="updated_time"> 08:31 AM CT, Dec. 27 </p> 
+ <p class="updated_time"> 08:58 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/africa/somalia-prime-minister-suspended.html">Somalia’s President Suspends Prime Minister Over Corruption Allegations</a> NYT: The premier, Mohamed Hussein Roble, defied the order to step down as tensions continue over long-delayed elections. 
+ <p class="updated_time"> 08:55 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Israel Starts Trial of 4th Vaccine Dose</a> NYT: The study is being watched closely as countries grapple with surges of Omicron infections. In some U.S. states, cases are surpassing last winter’s peaks. 
+ <p class="updated_time"> 08:55 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/middleeast/iraq-election-muqtada-al-sadr.html">Iraq Confirms Election Gains for Muqtada al-Sadr</a> NYT: A court certified October’s parliamentary vote that gave Muqtada al-Sadr’s party a plurality of seats, clearing a path for a government to be formed. 
  <p class="updated_time"> 08:29 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59800040?at_medium=RSS&at_campaign=KARANGA">Andrzej Duda: Polish president vetoes controversial media law</a> BBC: Opponents say the law banning foreign ownership in the media aimed to silence government critics. 
- <p class="updated_time"> 08:29 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Israel Starts Trial of 4th Vaccine Dose</a> NYT: The study is being watched closely as countries grapple with surges of Omicron infections. In some U.S. states, cases are surpassing last winter’s peaks. 
- <p class="updated_time"> 08:29 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/middleeast/iraq-election-muqtada-al-sadr.html">Iraq Confirms Election Gains for Muqtada al-Sadr</a> NYT: A court certified October’s parliamentary vote that gave Muqtada al-Sadr’s party a plurality of seats, clearing a path for a government to be formed. 
  <p class="updated_time"> 07:39 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/asia/philippines-super-typhoon-rai.html">Super Typhoon Rai Leaves Miles of Wreckage in Philippines</a> NYT: Philippine officials warned that residents were going hungry. Many were still in evacuation centers. On a highway, survivors scrawled an appeal for aid. 
  <p class="updated_time"> 07:31 AM CT, Dec. 27 </p> 
@@ -205,7 +205,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 09:36 AM CT, Dec. 27 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/27/the-view-struggles-to-find-a-republican-495553">‘The View’ struggles to find a Republican</a> Politico Playbook: And coronavirus cases spike to record levels across the world. 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/27/the-view-struggles-to-find-a-republican-495553"> ‘The View’ struggles to find a Republican</a> Politico Playbook: And coronavirus cases spike to record levels across the world. 
  <p class="updated_time"> 08:37 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/science/russia-nasa-spacex-asat.html">NASA-Russia Alliance Is Shaken by Events on Planet Earth</a> NYT: The relationship between the nations’ space agencies is facing a series of difficult tests, including an antisatellite weapon and friction over Ukraine. 
  <p class="updated_time"> 06:00 AM CT, Dec. 27 </p> 
