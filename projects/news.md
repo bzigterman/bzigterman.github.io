@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:35 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/college-football-bowl-games-covid.html">Two College Bowl Games Are Canceled Because of Covid Cases</a> NYT: The Fenway and Military Bowls were scrapped when teams didn’t have enough healthy players to take the field. One team pulled out of the Sun Bowl. 
  <p class="updated_time"> 04:21 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/australia/a-lab-in-australia-mistakenly-tells-hundreds-of-people-they-tested-negative.html">Australia Covid Lab Mistakenly Tells Hundreds They Tested Negative</a> NYT: Human error is blamed for the mix-up, which so far has affected 400 people at a clinic in Sydney. 
  <p class="updated_time"> 04:00 AM CT, Dec. 27 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
  <p class="updated_time"> 10:09 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59761839?at_medium=RSS&at_campaign=KARANGA">Climate change: Huge toll of extreme weather disasters in 2021</a> BBC: Floods and storms connected to rising temperatures have had a huge impact on people worldwide. 
- <p class="updated_time"> 09:37 PM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/two-college-football-bowl-games-are-canceled-because-of-virus-cases.html">Two College Bowl Games Are Canceled Because of Covid Cases.</a> NYT: The Fenway and Military Bowls were scrapped when teams didn’t have enough healthy players to take the field. One team pulled out of the Sun Bowl. 
  <p class="updated_time"> 09:05 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-59798609?at_medium=RSS&at_campaign=KARANGA">Spider-Man: No Way Home becomes first pandemic-era film to top $1bn</a> BBC: It beat Chinese Korean War epic The Battle of Lake Changjin to be the highest grossing film of 2021. 
  <p class="updated_time"> 08:06 PM CT, Dec. 26 </p> 
