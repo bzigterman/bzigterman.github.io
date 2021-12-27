@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:12 AM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59800032?at_medium=RSS&at_campaign=KARANGA">US snowstorms: California and other western states battered</a> BBC: Almost 30in (76cm) of snow fell in parts of northern California and Nevada in a 24-hour period. 
  <p class="updated_time"> 02:51 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/59798619?at_medium=RSS&at_campaign=KARANGA">Ashes: Australia seize control of third Test after ruthless bowling display</a> BBC: England are facing Ashes defeat after a dramatic second day of the third Test in Melbourne sees England close on 31-4 - still 51 runs behind Australia. 
  <p class="updated_time"> 02:26 AM CT, Dec. 27 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/25/1068016227/whirling-dervishes-rumi">Photos: Whirling dervish ritual honors Rumi, the Sufi mystic poet</a> NPR: Each year, thousands of people travel to the Turkish city of Konya to attend a series of events and ceremonies that mark the death of the 13th-century Islamic poet, scholar and Sufi mystic Rumi. 
  <p class="updated_time"> 05:28 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/americas/el-salvador-abortion-bukele.html">El Salvador Releases 3 Women Serving Long Prison Sentences for Abortions</a> NYT: The three women, who had suffered obstetric emergencies, had been sentenced to 30 years in prison under the nation’s strict anti-abortion laws. 
- <p class="updated_time"> 05:19 PM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59792120?at_medium=RSS&at_campaign=KARANGA">Surfer killed in apparent shark attack in California</a> BBC: Beachgoers in Morro Bay area are ordered to stay out of the water after an accident on Christmas Eve. 
  <p class="updated_time"> 04:51 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1068012842/la-palma-volcano-eruption-ends">La Palma's volcanic eruption is officially over, but its devastating toll lingers</a> NPR: Authorities on the Canary Islands declared an eruption that started in September officially finished following 10 days of no lava flows, seismic activity or significant sulfur dioxide emissions. 
  <p class="updated_time"> 04:36 PM CT, Dec. 25 </p> 
