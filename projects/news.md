@@ -7,6 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:21 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/australia/a-lab-in-australia-mistakenly-tells-hundreds-of-people-they-tested-negative.html">Australia Covid Lab Mistakenly Tells Hundreds They Tested Negative</a> NYT: Human error is blamed for the mix-up, which so far has affected 400 people at a clinic in Sydney. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/travel/world-through-a-lens.html">Helping to Reveal a Still-Shuttered World</a> NYT: Our weekly photo essay series offered readers a glimpse of distant places and cultures that, for a second straight year, remained largely inaccessible. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/middleeast/saudi-arabia-films-movies.html">As Other Arab States Falter, Saudi Arabia Seeks to Become a Cultural Hub</a> NYT: While conflicts and crises have battered Arab cultural capitals, Saudi Arabia is hosting film festivals and bankrolling new movies. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/asia/philippines-super-typhoon-rai.html">Super Typhoon Rai Leaves Miles of Wreckage in Philippines</a> NYT: Philippine officials warned that residents were going hungry. Many were still in evacuation centers. On a highway, survivors scrawled an appeal for aid. 
+ <p class="updated_time"> 03:58 AM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59800777?at_medium=RSS&at_campaign=KARANGA">Jean-Marc Vallée: Canadian filmmaker dies aged 58</a> BBC: The director's works included Dallas Buyers Club, Wild and the TV series Big Little Lies. 
  <p class="updated_time"> 03:52 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59800113?at_medium=RSS&at_campaign=KARANGA">Afghanistan's Taliban ban long-distance road trips for solo women</a> BBC: Afghanistan's rulers say a male relative must accompany women travelling more than 45 miles (72km). 
  <p class="updated_time"> 03:49 AM CT, Dec. 27 </p> 
@@ -87,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/1066377153/israel-gaza-farm-bible-rest">A biblical rest from farming in Israel could help Gaza's growers. They are waiting</a> NPR: For Orthodox Jews during a yearlong agricultural sabbath, Israel pledged to lift some restrictions on produce from the Gaza Strip. Palestinian farmers in Gaza are wondering what's taking so long. 
  <p class="updated_time"> 06:30 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/494373491/desmond-tutu-dies">Desmond Tutu, an icon who helped end apartheid in South Africa, dies at 90</a> NPR: The Nobel Peace laureate and archbishop emeritus campaigned against a system he called evil and, after apartheid, helped the nation heal as head of the Truth and Reconciliation Commission. 
- <p class="updated_time"> 06:13 AM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59795213?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Security forces accused of violence against protesters</a> BBC: Some 178 anti-coup demonstrators are reportedly injured in clashes near the presidential palace. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/insider/in-congo-bolivia-and-beyond-where-the-green-future-begins.html">In Congo, Bolivia and Beyond, Where the Green Future Begins</a> NYT: The Times’s Race to the Future series is focused on the competition for electric-car resources that will shape the 21st century. 
  <p class="updated_time"> 03:26 AM CT, Dec. 26 </p> 
@@ -107,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/venezuelan-migrants-fall-prey-to-sex-traffickers-after-fleeing-their-collapsing-country-11640514604">Venezuelan Migrants Fall Prey to Sex Traffickers</a> WSJ: Sex traffickers exploit the exodus of nearly six million people from Venezuela—the world’s largest continuing refugee crisis in number of migrants fleeing—by coercing some into bondage using bogus job offers. 
  <p class="updated_time"> 10:18 PM CT, Dec. 25 </p> 
  <a href="https://www.wsj.com/articles/myanmar-military-attack-kills-dozens-including-children-aid-group-says-11640510326">Myanmar Military Attack Kills Dozens, Including Children, Aid Group Says</a> WSJ: The violence happened in a part of the country where resistance groups have been fighting the military junta. 
- <p class="updated_time"> 08:39 PM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59792840?at_medium=RSS&at_campaign=KARANGA">Deadly bombing at restaurant packed for Christmas</a> BBC: Six people have been killed after a suicide bomber targeted a restaurant in eastern DR Congo. 
  <p class="updated_time"> 06:57 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59636403?at_medium=RSS&at_campaign=KARANGA">Love story sends TV fans in search of idyllic Alps</a> BBC: Crash Landing On You has been a big hit and now fans are travelling to the filming locations. 
  <p class="updated_time"> 06:54 PM CT, Dec. 25 </p> 
@@ -119,6 +125,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/25/1068020235/el-salvador-abortion-women-freed">El Salvador frees 3 women who were sentenced to 30 years under anti-abortion laws</a> NPR: President Nayib Bukele's government has freed three Salvadoran women who were sentenced to 30 years in prison under the nation's strict anti-abortion laws after suffering obstetric emergencies. 
  <p class="updated_time"> 06:06 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59732329?at_medium=RSS&at_campaign=KARANGA">The Chinese mother backing bigger families</a> BBC: Chen Ting is a mother-of-three and businesswoman who encourages other families to have more children. 
+ <p class="updated_time"> 06:05 PM CT, Dec. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59707864?at_medium=RSS&at_campaign=KARANGA">Why a former oil executive is capping abandoned wells</a> BBC: Around the US, an estimated three million oil wells have been abandoned. They're more dangerous than we think. 
  <p class="updated_time"> 05:46 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1068016227/whirling-dervishes-rumi">Photos: Whirling dervish ritual honors Rumi, the Sufi mystic poet</a> NPR: Each year, thousands of people travel to the Turkish city of Konya to attend a series of events and ceremonies that mark the death of the 13th-century Islamic poet, scholar and Sufi mystic Rumi. 
  <p class="updated_time"> 05:28 PM CT, Dec. 25 </p> 
@@ -185,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/world/asia/south-korea-park-geun-hye-pardon.html">Park Geun-hye, Ex-Leader of South Korea, to Be Pardoned </a> NYT: The government said it would release Ms. Park on Dec. 31 in the interest of national “reconciliation.” 
  <p class="updated_time"> 08:45 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/world/canada/indigenous-water-lawsuit.html">Canada and Indigenous People Settle Over Drinking Water</a> NYT: A court-approved settlement will compensate Indigenous people for the decades that many have lived with dirty water, and will also fund the clean up. 
- <p class="updated_time"> 08:24 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/asia/hong-kong-tiananmen-statue.html">Hong Kong Removes 'Pillar of Shame' Statue Amid Crackdown</a> NYT: The decision to take down the “Pillar of Shame,” an enduring symbol of the territory’s pro-democracy movement, was another sign of Beijing’s crackdown. 
  <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
  <p class="updated_time"> 03:44 PM CT, Dec. 23 </p> 
@@ -200,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:05 AM CT, Dec. 27 </p> 
+ <a href="https://www.npr.org/2021/12/27/1068201313/stacey-abrams-discusses-running-again-for-ga-governor-and-her-new-childrens-book">Stacey Abrams discusses running again for Ga. governor and her new children's book</a> NPR: NPR's Rachel Martin talks to Stacey Abrams about her second bid to be Georgia governor's and the lessons about drawing strength from failure in her new children's book: Stacey's Extraordinary Words. 
  <p class="updated_time"> 02:17 AM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068197354/racial-reckoning-turns-focus-to-roadside-historical-markers">Racial reckoning turns focus to roadside historical markers</a> NPR: Pennsylvania is reviewing its 2,500 roadside markers, scrutinizing factual errors, inadequate historical context, and racist or otherwise inappropriate references. 
  <p class="updated_time"> 06:16 PM CT, Dec. 26 </p> 
@@ -336,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/23/1067598857/the-trump-supporters-who-went-from-planning-the-jan-6-rally-to-aiding-the-riot-p">The Trump supporters who went from planning the Jan. 6 rally to aiding the riot probe</a> NPR: NPR's Ari Shapiro talks with reporter Hunter Walker, who wrote a Rolling Stone article on Dustin Stockton and Jennifer Lynn Lawrence, the Trump supporters now cooperating with the Jan. 6 House panel. 
  <p class="updated_time"> 03:40 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/apple-google-doj-delay-526072">Potential DOJ suits against Apple and Google delayed amid budget woes</a> Politico: Antitrust prosecutors had aimed to wrap up their probes of the two tech giants by Dec. 31. But now a decision on whether to sue could come in March or later. 
- <p class="updated_time"> 03:35 PM CT, Dec. 23 </p> 
- <a href="https://www.npr.org/2021/12/23/1067598901/president-biden-faces-pressure-to-end-fossil-fuel-development-to-fight-climate-c">President Biden faces pressure to end fossil fuel development to fight climate change</a> NPR: President Biden faces pressure to end fossil fuel development on federal land to fight climate change. But industry expects new drilling opportunities, putting his public lands chief in a tight spot. 
  <p class="updated_time"> 02:12 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/kamala-harris-biden-administration.html">Kamala Harris’s Allies Express Concern: Is She an Afterthought?</a> NYT: The vice president’s allies are increasingly concerned that President Biden relied on her to win but does not need her to govern. 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
