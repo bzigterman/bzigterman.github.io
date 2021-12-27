@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:09 PM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59761839?at_medium=RSS&at_campaign=KARANGA">Climate change: Huge toll of extreme weather disasters in 2021</a> BBC: Floods and storms connected to rising temperatures have had a huge impact on people worldwide. 
  <p class="updated_time"> 09:37 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/two-college-football-bowl-games-are-canceled-because-of-virus-cases.html">Two College Bowl Games Are Canceled Because of Covid Cases.</a> NYT: The Fenway and Military Bowls were scrapped when teams didn’t have enough healthy players to take the field. One team pulled out of the Sun Bowl. 
+ <p class="updated_time"> 09:05 PM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59798609?at_medium=RSS&at_campaign=KARANGA">Spider-Man: No Way Home becomes first pandemic-era film to top $1bn</a> BBC: It beat Chinese Korean War epic The Battle of Lake Changjin to be the highest grossing film of 2021. 
  <p class="updated_time"> 08:06 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59798494?at_medium=RSS&at_campaign=KARANGA">Roe v Wade US abortion rights lawyer Sarah Weddington dies</a> BBC: Sarah Weddington won the landmark 1973 US Supreme Court case that legalised abortions in the US. 
  <p class="updated_time"> 07:56 PM CT, Dec. 26 </p> 
@@ -135,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/africa/sudan-coup-protests.html">Anti-Coup Protesters in Sudan Press Their Demand for Return to Civilian Rule</a> NYT: The protests on Saturday underscored the resolve of protesters to continue defying the Oct. 25 coup that derailed the country’s nascent attempt to transition to democratic rule. 
  <p class="updated_time"> 12:24 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/hindu-extremists-india-muslims.html">As Hindu Extremists Call for Killing of Muslims, India’s Leaders Keep Silent</a> NYT: Right-wing Hindu activists at a conference took an oath to harm Muslims if necessary to make “a Hindu-only nation,” the most blatant example of rising anti-Muslim sentiment across India. 
- <p class="updated_time"> 12:23 PM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59789491?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Tear gas fired at pro-democracy protests</a> BBC: Protesters are demanding the military step back and allow the transition to civilian rule. 
  <p class="updated_time"> 11:28 AM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59791541?at_medium=RSS&at_campaign=KARANGA">Spain's La Palma volcano eruption declared over after three months</a> BBC: The Cumbre Vieja volcano in Spain's Canary Islands had been spewing lava and ash since September. 
  <p class="updated_time"> 10:38 AM CT, Dec. 25 </p> 
