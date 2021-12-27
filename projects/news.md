@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:30 PM CT, Dec. 27 </p> 
+ <p class="updated_time"> 05:39 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Cuts Isolation Time to 5 Days</a> NYT: To minimize disruptions as virus cases surged, the C.D.C. halved the recommended isolation period for infected Americans to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
+ <p class="updated_time"> 05:39 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
  <p class="updated_time"> 04:21 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59805829?at_medium=RSS&at_campaign=KARANGA">Covid: France tightens restrictions amid Omicron surge</a> BBC: Remote working will become compulsory from 3 January but there will be no New Year's Eve curfew. 
  <p class="updated_time"> 04:19 PM CT, Dec. 27 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/27/1068334991/british-columbia-is-looking-at-how-it-can-adapt-to-prepare-for-more-climate-disa">British Columbia is looking at how it can adapt to prepare for more climate disasters</a> NPR: British Columbia was devastated by natural disasters this year attributed to climate change. The Canadian province is evaluating how to prepare for the next disasters. 
  <p class="updated_time"> 02:30 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/africa/desmond-tutu-mourning.html">South Africa Begins a Week of Mourning for Desmond Tutu</a> NYT: The cleric and anti-apartheid activist’s funeral will be held on Jan. 1 at the cathedral where he served as South Africa’s first Black archbishop. 
- <p class="updated_time"> 01:18 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
  <p class="updated_time"> 01:00 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/africa/somalia-prime-minister-suspended.html">Somalia’s President Suspends Prime Minister Over Corruption Allegations</a> NYT: The premier, Mohamed Hussein Roble, defied the order to step down as tensions continued over long-delayed elections. 
  <p class="updated_time"> 12:14 PM CT, Dec. 27 </p> 
@@ -124,7 +124,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:07 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068086310/world-leaders-mourn-the-death-of-archbishop-desmond-tutu-who-died-at-90">World leaders mourn the death of Archbishop Desmond Tutu</a> NPR: The archbishop is being remembered around the world for his commitment to equality and justice and his "impish" sense of humor. 
  <p class="updated_time"> 09:57 AM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59796716?at_medium=RSS&at_campaign=KARANGA">'A dark day': South Africans remember Tutu</a> BBC: The archbishop, who was a driving force in the anti-apartheid movement, has died aged 90. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59796716?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu death: South Africans remember anti-apartheid leader</a> BBC: The archbishop, who was a driving force in the anti-apartheid movement, has died aged 90. 
  <p class="updated_time"> 09:06 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/alfredo-lupi-janitor-italy.html">A Janitor’s Colleagues Put Him on the Fast Track to Retirement</a> NYT: An Italian factory worker was dealing with a lifelong impairment that made it hard to work, but he wasn’t in a position to retire. Then his co-workers gave him 20 months’ worth of vacation days. 
  <p class="updated_time"> 08:50 AM CT, Dec. 26 </p> 
