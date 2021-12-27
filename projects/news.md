@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:23 AM CT, Dec. 27 </p> 
+ <p class="updated_time"> 08:33 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/europe/spain-king-juan-carlos.html">Will Spain Give Disgraced King a Royal Homecoming?</a> NYT: In the years since Juan Carlos, Spain’s former king, fled the country to escape corruption investigations, some of the cases have been resolved or dropped. Now Spaniards are weighing whether they want him back. 
+ <p class="updated_time"> 08:31 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/africa/somalia-prime-minister-suspended.html">Somalia’s President Suspends Prime Minister Over Corruption Allegations</a> NYT: The premier, Mohamed Hussein Roble, defied the order to step down as tensions continue over long-delayed elections. 
- <p class="updated_time"> 08:18 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/middleeast/iraq-election-muqtada-al-sadr.html">Iraq Confirms Election Gains for Muqtada al-Sadr</a> NYT: A court certified October’s parliamentary vote that gave Muqtada al-Sadr’s party a plurality of seats, clearing a path for a government to be formed. 
- <p class="updated_time"> 07:55 AM CT, Dec. 27 </p> 
+ <p class="updated_time"> 08:29 AM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59800040?at_medium=RSS&at_campaign=KARANGA">Andrzej Duda: Polish president vetoes controversial media law</a> BBC: Opponents say the law banning foreign ownership in the media aimed to silence government critics. 
+ <p class="updated_time"> 08:29 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Israel Starts Trial of 4th Vaccine Dose</a> NYT: The study is being watched closely as countries grapple with surges of Omicron infections. In some U.S. states, cases are surpassing last winter’s peaks. 
+ <p class="updated_time"> 08:29 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/middleeast/iraq-election-muqtada-al-sadr.html">Iraq Confirms Election Gains for Muqtada al-Sadr</a> NYT: A court certified October’s parliamentary vote that gave Muqtada al-Sadr’s party a plurality of seats, clearing a path for a government to be formed. 
  <p class="updated_time"> 07:39 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/asia/philippines-super-typhoon-rai.html">Super Typhoon Rai Leaves Miles of Wreckage in Philippines</a> NYT: Philippine officials warned that residents were going hungry. Many were still in evacuation centers. On a highway, survivors scrawled an appeal for aid. 
  <p class="updated_time"> 07:31 AM CT, Dec. 27 </p> 
@@ -47,8 +51,20 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59800032?at_medium=RSS&at_campaign=KARANGA">US snowstorms: California and other western states battered</a> BBC: Almost 30in (76cm) of snow fell in parts of northern California and Nevada in a 24-hour period. 
  <p class="updated_time"> 03:48 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59801025?at_medium=RSS&at_campaign=KARANGA">Brazilian town floods after two dams collapse</a> BBC: People in the town of Itabuna can be seen using inflatable rafts and canoes to get from house to house. 
+ <p class="updated_time"> 02:36 AM CT, Dec. 27 </p> 
+ <a href="https://www.wsj.com/articles/iraqs-top-court-rejects-election-challenge-by-pro-iran-faction-11640612165">Iraq's Top Court Rejects Election Challenge by Pro-Iran Faction</a> WSJ: The decision paves the way for the formation of a new government dominated by Shiite Muslim cleric Moqtada al-Sadr, who won the largest share of seats in the October poll. 
  <p class="updated_time"> 02:26 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59798489?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: South Africa mourns anti-apartheid hero</a> BBC: The nation is holding a week of commemorative events after the clergyman's death at the age of 90. 
+ <p class="updated_time"> 02:01 AM CT, Dec. 27 </p> 
+ <a href="https://www.wsj.com/articles/with-rappers-race-cars-and-raves-saudi-arabia-learns-how-to-party-11640610116">With Rappers, Race Cars and Raves, Saudi Arabia Learns How to Party</a> WSJ: A four-day music festival earlier this month is emblematic of how Saudis are learning to have fun in ways that are common in much of the world but long forbidden in the kingdom. 
+ <p class="updated_time"> 01:00 AM CT, Dec. 27 </p> 
+ <a href="https://www.wsj.com/articles/pandemics-hidden-toll-millions-in-u-k-await-treatment-but-not-for-covid-19-11640606405">Millions in U.K. Await Treatment, but Not for Covid</a> WSJ: At the end of October, the number of people in England who were on the wait list for an elective procedure hit six million. That’s up 41% from March 2020. 
+ <p class="updated_time"> 12:50 AM CT, Dec. 27 </p> 
+ <a href="https://www.wsj.com/articles/governments-race-to-ease-staff-shortages-as-omicron-spreads-11640605845">As Omicron Spreads, Governments Race to Ease Staff Shortages</a> WSJ: The speed with which the new variant is spreading is presenting a different kind of challenge for policy makers, who are now weighing how to keep critical services functioning amid a wave of staff absences and enforced isolation periods. 
+ <p class="updated_time"> 11:50 PM CT, Dec. 26 </p> 
+ <a href="https://www.wsj.com/articles/china-evergrande-says-construction-has-resumed-at-vast-majority-of-its-projects-11640602229">China Evergrande Says Construction Resumed at Vast Majority of Its Projects</a> WSJ: The property developer said that construction work has resumed at more than 90% of its stalled residential projects and that it has picked up the pace of delivering apartments promised to home buyers across China. 
+ <p class="updated_time"> 11:30 PM CT, Dec. 26 </p> 
+ <a href="https://www.wsj.com/articles/uganda-finds-chinas-leverage-is-in-the-fine-print-of-its-lending-11640601003">Uganda Finds China's Leverage Is in the Fine Print of Its Lending</a> WSJ: Chinese lending transformed economies across the developing world. Now, as bills are coming due, attention is turning to how aggressively Beijing is enforcing contractual obligations. 
  <p class="updated_time"> 10:30 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
  <p class="updated_time"> 10:09 PM CT, Dec. 26 </p> 
@@ -81,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-south-africa.html">Even in Retirement, Desmond Tutu Remained South Africa’s Moral Compass</a> NYT: The Nobel laureate retired from public life over a decade ago, but he continued to advocate social justice, gay rights and environmentalism. 
  <p class="updated_time"> 03:07 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/middleeast/archbishop-tutu-cowell-recollection.html">The Time Archbishop Tutu Was Searched at the Airport</a> NYT: A former South Africa bureau chief for The Times recalls telling moments with the anti-apartheid religious leader. 
- <p class="updated_time"> 01:58 PM CT, Dec. 26 </p> 
- <a href="https://www.wsj.com/articles/countries-consider-further-post-christmas-omicron-curbs-11640525485">Omicron Pushes Daily Cases Higher, Disrupts Travel</a> WSJ: The peak holiday travel season continued to be hammered by the fast-spreading Omicron variant Sunday, as the Biden administration said it was working to make sure hospitals aren’t overwhelmed. 
  <p class="updated_time"> 01:17 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/africa/tutu-death.html">Here Are Some of the Many Tributes for Desmond Tutu, a Force for Harmony</a> NYT: From prominent South African lawmakers to religious figures, many on social media honored Archbishop Tutu as a patriot of peaceful principles who dedicated his life to combating injustice everywhere. 
  <p class="updated_time"> 11:21 AM CT, Dec. 26 </p> 
@@ -119,26 +133,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 02:55 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1047748076/desmond-tutu-dead-remembrance">Desmond Tutu's laugh was contagious. His fight for freedom was deadly serious</a> NPR: Desmond Tutu will be remembered for helping end apartheid. But also for his memorable laugh, an infectious, cackling howl employed in the service of easing tensions in a very tense nation. 
- <p class="updated_time"> 02:00 AM CT, Dec. 26 </p> 
- <a href="https://www.wsj.com/articles/italian-tech-startup-revives-einsteins-fathers-power-plant-11640523602">Italian Tech Startup Revives Einstein's Father's Power Plant</a> WSJ: A husband-wife team of entrepreneurs are using a once-abandoned hydroelectric station to feed the power grid and keep their artificial-intelligence enterprise humming. 
- <p class="updated_time"> 02:00 AM CT, Dec. 26 </p> 
- <a href="https://www.wsj.com/articles/germanys-vast-foreign-surpluses-are-finally-falling-fulfilling-an-old-u-s-demand-11640523603">Germany's Foreign Surpluses Are Falling, Fulfilling a U.S. Demand</a> WSJ: Washington and others had accused Germany of feeding global economic imbalances by hoarding savings and refusing to spend. 
  <p class="updated_time"> 01:28 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59793776?at_medium=RSS&at_campaign=KARANGA">Archbishop Desmond Tutu: Looking back at his life and legacy</a> BBC: The BBC's Nomsa Maseko looks back at the life of Archbishop Desmond Tutu, who has died aged 90. 
- <p class="updated_time"> 01:00 AM CT, Dec. 26 </p> 
- <a href="https://www.wsj.com/articles/where-russia-once-triumphed-ukrainians-prepare-to-resist-putin-11640520002">Where Russia Once Triumphed, Ukrainians Prepare to Resist Putin</a> WSJ: In a city where Russia was victorious 300 years ago, Ukrainians are mobilizing to push back against another Russian leader. 
- <p class="updated_time"> 11:30 PM CT, Dec. 25 </p> 
- <a href="https://www.wsj.com/articles/venezuelan-migrants-fall-prey-to-sex-traffickers-after-fleeing-their-collapsing-country-11640514604">Venezuelan Migrants Fall Prey to Sex Traffickers</a> WSJ: Sex traffickers exploit the exodus of nearly six million people from Venezuela—the world’s largest continuing refugee crisis in number of migrants fleeing—by coercing some into bondage using bogus job offers. 
- <p class="updated_time"> 10:18 PM CT, Dec. 25 </p> 
- <a href="https://www.wsj.com/articles/myanmar-military-attack-kills-dozens-including-children-aid-group-says-11640510326">Myanmar Military Attack Kills Dozens, Including Children, Aid Group Says</a> WSJ: The violence happened in a part of the country where resistance groups have been fighting the military junta. 
  <p class="updated_time"> 06:54 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59740360?at_medium=RSS&at_campaign=KARANGA">Uri Geller: The celebrity who owes his success to spoons</a> BBC: Self-proclaimed Israel psychic Uri Geller recalls how he made spoon-bending famous across the world. 
  <p class="updated_time"> 06:20 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1068020235/el-salvador-abortion-women-freed">El Salvador frees 3 women who were sentenced to 30 years under anti-abortion laws</a> NPR: President Nayib Bukele's government has freed three Salvadoran women who were sentenced to 30 years in prison under the nation's strict anti-abortion laws after suffering obstetric emergencies. 
  <p class="updated_time"> 06:06 PM CT, Dec. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59732329?at_medium=RSS&at_campaign=KARANGA">The Chinese mother backing bigger families</a> BBC: Chen Ting is a mother-of-three and businesswoman who encourages other families to have more children. 
- <p class="updated_time"> 06:05 PM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59707864?at_medium=RSS&at_campaign=KARANGA">Why a former oil executive is capping abandoned wells</a> BBC: Around the US, an estimated three million oil wells have been abandoned. They're more dangerous than we think. 
  <p class="updated_time"> 05:46 PM CT, Dec. 25 </p> 
  <a href="https://www.npr.org/2021/12/25/1068016227/whirling-dervishes-rumi">Photos: Whirling dervish ritual honors Rumi, the Sufi mystic poet</a> NPR: Each year, thousands of people travel to the Turkish city of Konya to attend a series of events and ceremonies that mark the death of the 13th-century Islamic poet, scholar and Sufi mystic Rumi. 
  <p class="updated_time"> 05:28 PM CT, Dec. 25 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/navy-ship-covid-guantanamo-bay.html">Covid Outbreak Strands U.S.S. Milwaukee in Guantánamo Bay</a> NYT: The crew held an open-air Christmas service on the pier, allowing the sailors to remain socially distanced. 
  <p class="updated_time"> 02:12 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/asia/china-money.html">Why Bragging About Your Wealth In China Can Get You Censored</a> NYT: Online posts by users showing off their receipts, over-ordering food or scattering money have been deemed vulgar. Regulators say such content leads young people astray. 
- <p class="updated_time"> 02:07 PM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html">Israel May Give 4th Dose of Covid Shot, Despite Experts' Doubts</a> NYT: Some scientists warn that too many shots might actually harm the body’s ability to fight the Covid-19 virus. But Israeli experts say there isn’t time to wait. 
  <p class="updated_time"> 02:05 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/middleeast/park-israel-dcity.html">A New Israeli Wonderland, Where You Can Almost Forget Where You Are</a> NYT: An alien spaceship theme park, an Italian Renaissance-style mall, a canal with gondolas. “Nothing in Israel compares with it,” the developer says. There’s just one catch. 
  <p class="updated_time"> 01:57 PM CT, Dec. 25 </p> 
@@ -169,12 +169,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/canada/another-covid-christmas.html">Another Covid Christmas …</a> NYT: December went by like an Omicron advent calendar, each passing day revealing how the virus’s trajectory would change hoped-for holiday plans. 
  <p class="updated_time"> 04:00 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/africa/africa-coronavirus-omicron.html">Many African Countries Toughen Covid Restrictions as Fourth Wave Spreads</a> NYT: Infections have more than doubled or tripled in many countries, prompting the authorities to reimpose curfews and quarantines and introduce vaccine mandates as the holiday season gets underway. 
- <p class="updated_time"> 12:19 AM CT, Dec. 25 </p> 
- <a href="https://www.wsj.com/articles/pope-francis-in-christmas-message-laments-pandemic-of-loneliness-11640431162">Pope Francis Laments Pandemic of Loneliness</a> WSJ: The pope, in his annual Christmas message, highlighted the social impact of the pandemic while reiterating his previous calls for equitable distribution of Covid-19 vaccines. 
  <p class="updated_time"> 12:08 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
- <p class="updated_time"> 11:30 PM CT, Dec. 24 </p> 
- <a href="https://www.wsj.com/articles/latin-america-is-now-a-world-leader-in-vaccinations-11640428207">Latin America Is Now a World Leader in Vaccinations</a> WSJ: Once a hot spot of Covid-19 deaths, the region now leads much of the world in vaccinations, as health policy makers rush to shield their countries from new variants roiling other places. 
  <p class="updated_time"> 04:13 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/africa/south-africa-covid-quarantine.html">South Africa Ends Quarantining and Contact Tracing</a> NYT: The new regulations follow data showing that while the Omicron variant is highly transmissible, it has not caused high rates of severe disease in South Africa. 
  <p class="updated_time"> 04:12 PM CT, Dec. 24 </p> 
@@ -191,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/europe/europe-covid-pandemic-omicron.html">Europeans Ponder Living With, Not Defeating, Covid</a> NYT: On the eve of the biggest holidays in Europe, exhaustion with the pandemic is rising. So is resignation that the virus is endemic. 
  <p class="updated_time"> 05:06 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/queen-elizabeth-ii-christmas-covid.html">A Quieter Christmas for Queen Elizabeth II as Covid Persists</a> NYT: The 95-year-old monarch is spending the holiday at Windsor Castle instead of Sandringham, her English country estate. 
- <p class="updated_time"> 04:02 AM CT, Dec. 24 </p> 
- <a href="https://www.wsj.com/articles/how-the-afghanistan-taliban-outwitted-and-outwaited-the-u-s-11640355270">How the Taliban Outwitted and Outwaited the U.S.</a> WSJ: Islamist movement spoke of moderation as it solidified gains on the battlefield, taking Washington and its Afghan allies by surprise. 
  <p class="updated_time"> 04:00 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/asia/afghanistan-nadery-peace-negotiations.html">An Afghan Official Laments What Was Lost and Looks to What Lies Ahead</a> NYT: Ahmad Nader Nadery spent decades working toward a thriving, free Afghanistan. Watching the Taliban undo much of his work, he wonders how to move forward. 
  <p class="updated_time"> 12:24 AM CT, Dec. 24 </p> 
@@ -210,6 +204,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:36 AM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/27/the-view-struggles-to-find-a-republican-495553">‘The View’ struggles to find a Republican</a> Politico Playbook: And coronavirus cases spike to record levels across the world. 
+ <p class="updated_time"> 08:37 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/science/russia-nasa-spacex-asat.html">NASA-Russia Alliance Is Shaken by Events on Planet Earth</a> NYT: The relationship between the nations’ space agencies is facing a series of difficult tests, including an antisatellite weapon and friction over Ukraine. 
  <p class="updated_time"> 06:00 AM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/gen-z-millennial-conservatives-recruit-diverse-candidates/index.html">Gen Z and millennial conservatives seek to recruit and mentor young, diverse candidates </a> CNN: When Roxy Ndebumadu, a Black conservative woman, ran for city council in Bowie, Maryland, at age 26, it was hard to find mentorship from elected officials of similar backgrounds. 
  <p class="updated_time"> 04:31 AM CT, Dec. 27 </p> 
@@ -376,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/us/politics/covid-tests-biden-omicron.html">Biden Promised 500 Million Tests, but Americans Will Have to Wait</a> NYT: Contracts to purchase tests could be signed as soon as next week, but relief could be weeks away for people trying to buy the hard-to-find tests. 
  <p class="updated_time"> 05:00 PM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/trudeau-canadians-hunker-down-omicron-525998">Trudeau tells Canadians to ‘hunker down’ as Biden urges calm over Omicron</a> Politico: Canadians hunt for boosters and rapid tests amid Covid surge that is disrupting holiday plans. 
- <p class="updated_time"> 04:16 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/us/politics/yellen-signature-us-currency.html">Why Janet Yellen’s Signature Is Not on U.S. Currency</a> NYT: Until a new treasurer is selected, currency will continue to bear the autograph of former Treasury Secretary Steven Mnuchin. 
  <p class="updated_time"> 03:15 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/antiviral-pill-biden-statement/index.html">250,000 treatment courses of Pfizer's antiviral pill will be available in January, Biden says</a> CNN: President Joe Biden on Wednesday pledged more than 250,000 treatment courses of Pfizer's antiviral pill will be available starting in January after the US Food and Drug Administration authorized it to treat Covid-19. 
  <p class="updated_time"> 12:56 PM CT, Dec. 22 </p> 
@@ -406,6 +402,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
  <p class="updated_time"> 06:39 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/20/politics/haitian-migrants-biden-administration-lawsuit/index.html">Group of Haitian migrants sue Biden administration over poor treatment</a> CNN: A group of Haitian migrants is suing the Biden administration over its treatment of migrants, recounting in detail squalid conditions at a makeshift camp in Del Rio, Texas, this year and confrontations with officers on horseback, according to a lawsuit filed Monday. 
+ <p class="updated_time"> 12:58 PM CT, Dec. 20 </p> 
+ <a href="https://www.cnn.com/2021/12/20/politics/epa-auto-emissions-standards/index.html">EPA will tighten fuel mileage standards for cars and light trucks, replacing looser Trump-era standards </a> CNN: The Environmental Protection Agency on Monday will tighten fuel emissions standards for cars and light trucks to 40 miles per gallon by the 2026 model year, replacing the looser Trump-era standards. 
  <p class="updated_time"> 12:08 PM CT, Dec. 20 </p> 
  <a href="https://www.politico.com/news/2021/12/20/manchin-build-back-better-redo-525747">Manchin to Dems: Redo the whole thing, maybe I'll vote for it</a> Politico: The West Virginia senator wants a new bill that goes through Senate committees and focuses on rolling back the 2017 Trump tax cuts. 
  <p class="updated_time"> 11:49 AM CT, Dec. 20 </p> 
