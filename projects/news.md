@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:57 AM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/africa/somalia-prime-minister-suspended.html">Somalia’s President Suspends Prime Minister Over Corruption Allegations</a> NYT: The premier, Mohamed Hussein Roble, defied the order to step down as tensions continue over long-delayed elections. 
  <p class="updated_time"> 07:55 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Israel Starts Trial of 4th Vaccine Dose</a> NYT: The study is being watched closely as countries grapple with surges of Omicron infections. In some U.S. states, cases are surpassing last winter’s peaks. 
  <p class="updated_time"> 07:39 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/asia/philippines-super-typhoon-rai.html">Super Typhoon Rai Leaves Miles of Wreckage in Philippines</a> NYT: Philippine officials warned that residents were going hungry. Many were still in evacuation centers. On a highway, survivors scrawled an appeal for aid. 
  <p class="updated_time"> 07:31 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/africa/desmond-tutu-mourning.html">South Africa Begins a Week of Mourning for Desmond Tutu</a> NYT: The cleric and anti-apartheid activist’s funeral will be held on Jan. 1 at the cathedral where he served as South Africa’s first Black archbishop. 
- <p class="updated_time"> 07:26 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/africa/somalia-prime-minister-suspended.html">Somalia’s President Suspends Prime Minister Over Corruption Allegations</a> NYT: The premier, Mohamed Hussein Roble, defied the order to step down as tensions continue over long-delayed elections. 
  <p class="updated_time"> 07:17 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
  <p class="updated_time"> 07:09 AM CT, Dec. 27 </p> 
