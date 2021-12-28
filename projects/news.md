@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:07 PM CT, Dec. 28 </p> 
+ <p class="updated_time"> 05:19 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Lowers Estimate of Omicron’s Prevalence in U.S.</a> NYT: The estimate dropped from about 73 percent to 23 percent for the week ending Dec. 18, and the agency now says Omicron became dominant the following week. A doctors’ protest over understaffing is causing chaos at Delhi hospitals. 
+ <p class="updated_time"> 05:16 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/health/covid-omicron-antibodies-delta.html">Omicron Variant May Help Beat Delta, Study Suggests</a> NYT: In the lab, antibodies produced during an Omicron infection protected against Delta. If Omicron dominates in the real world, that could lead to a less dire future. 
  <p class="updated_time"> 04:47 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59812877?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell jury told to meet every day because of Covid</a> BBC: The judge in Ghislaine Maxwell's sex trafficking trial asks jurors to deliberate every day. 
  <p class="updated_time"> 04:43 PM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-59814162?at_medium=RSS&at_campaign=KARANGA">Robert E. Lee: Virginia workers open Civil War-era time capsule</a> BBC: The 130-year-old capsule contained flags, books and bullets related to the Confederate States. 
+ <a href="https://www.bbc.co.uk/news/world-59814162?at_medium=RSS&at_campaign=KARANGA">Robert E. Lee: Virginia workers open Civil War era time capsule</a> BBC: The 130-year-old capsule contained flags, books and bullets related to the Confederate States. 
  <p class="updated_time"> 04:41 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/russia-memorial-human-rights.html">Russian Court Orders Liquidation of the Human Rights Group Memorial </a> NYT: The Supreme Court ruled that Memorial International, which chronicled political repression in Russia, must be liquidated. 
  <p class="updated_time"> 04:41 PM CT, Dec. 28 </p> 
@@ -53,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/codeswitch/2021/12/28/260448064/cooking-up-food-and-identity-in-pailin-chongchitnants-hot-thai-kitchen">Cooking up food and identity in Pailin Chongchitnant's "Hot Thai Kitchen"</a> NPR: When chef Pailin Chongchitnant realized that cable television wasn't ready for a Thai cooking show, she started her own on YouTube. On it, she breaks down some of the misconceptions about the cuisine. 
  <p class="updated_time"> 12:25 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Hopes Its Basketball Patron Advances to National Status</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
+ <p class="updated_time"> 12:23 PM CT, Dec. 28 </p> 
+ <a href="https://www.wsj.com/articles/omicron-disruptions-prompt-easing-of-some-restrictions-11640692295">Omicron Reinfections Can Trigger Milder Symptoms, New CDC Research Shows</a> WSJ: The CDC review of a cluster of Covid-19 cases in Nebraska came as the Omicron variant spreads in the U.S. 
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/omicron.html">Fears of Omicron’s Rapid Spread Are Tempered by Signs of Milder Illness</a> NYT: “We can’t stop it,” Israel’s prime minister said of the Omicron variant, but that warning was blunted by early signs of potentially less-severe illness than with earlier coronavirus iterations. 
  <p class="updated_time"> 11:22 AM CT, Dec. 28 </p> 
@@ -69,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-russia-set-january-talks-on-ukraine-nato-growth-11640709604">U.S., Russia Set Schedule for Ukraine Talks in January</a> WSJ: The nations agreed to meet on Jan. 10, amid tensions over Russian forces deployed near Ukraine and Moscow’s demands that NATO renounce any expansion eastward into the former Soviet bloc. 
  <p class="updated_time"> 09:50 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/china-scholar-jonathan-spence-dies-at-85-11640697976">China Scholar Jonathan Spence Dies at Age 85</a> WSJ: The Yale University historian brought China and its past alive to a broad audience through widely read books and popular lectures. 
- <p class="updated_time"> 09:11 AM CT, Dec. 28 </p> 
- <a href="https://www.wsj.com/articles/omicron-disruptions-prompt-easing-of-some-restrictions-11640692295">Omicron Reinfections Can Trigger Milder Symptoms, New CDC Research Shows</a> WSJ: The CDC review of a cluster of Covid-19 cases in Nebraska came as the Omicron variant spreads in the U.S. 
  <p class="updated_time"> 07:55 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/russian-court-orders-countrys-oldest-human-rights-group-to-close-11640714322">Russian Court Orders Prominent Human Rights Group to Close</a> WSJ: The ruling against International Memorial comes as President Vladimir Putin squeezes space for dissent. 
  <p class="updated_time"> 07:40 AM CT, Dec. 28 </p> 
@@ -200,8 +202,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:38 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/us-new-daily-high-covid-526223">U.S. sets new daily high for Covid cases</a> Politico: The Centers for Disease Control and Prevention’s tally represents a grim new milestone in the coronavirus pandemic. 
- <p class="updated_time"> 05:10 PM CT, Dec. 28 </p> 
+ <p class="updated_time"> 05:21 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/business/media/nyt-project-veritas.html">Judge Says New York Times Can Retain Project Veritas Memos, for Now</a> NYT: A New York appeals court said the paper did not need to immediately give up or destroy documents related to the conservative group. The paper is still prevented from publishing certain documents. 
+ <p class="updated_time"> 05:14 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/andrew-cuomo-westchester-county-no-charges/index.html">Ex-New York Gov. Cuomo will not be criminally charged by Westchester County district attorney over alleged inappropriate conduct</a> CNN: Westchester District Attorney Miriam Rocah announced on Tuesday her office will not criminally charge former New York Gov. Andrew Cuomo after a "thorough" investigation into allegations of inappropriate conduct made by two women against him. 
  <p class="updated_time"> 05:05 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/trump-jan-6.html">Jan. 6 Committee Shelves Requests for Hundreds of Trump Records</a> NYT: The Biden administration asked to shield some sensitive documents but continued to reject Trump’s blanket claim of executive privilege. 
  <p class="updated_time"> 04:52 PM CT, Dec. 28 </p> 
@@ -214,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1068587838/newsom-proposes-individuals-sue-others-over-banned-guns-like-the-texas-abortion-">Newsom proposes individuals sue others over banned guns, like the Texas abortion law</a> NPR: After the U.S. Supreme Court refused to block private citizens from suing abortion providers, California Gov. Gavin Newsom said he wants to use the Texas strategy as a model for gun control. 
  <p class="updated_time"> 03:31 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/donald-trump-allies-january-6-committee/index.html">Some Trump allies slow walk, stonewall or snub January 6 committee</a> CNN: When the committee investigating the January 6 insurrection struggled to serve Dan Scavino with a subpoena, the former Donald Trump aide said he had been in a fairly obvious locale: Mar-a-Lago. 
- <p class="updated_time"> 03:14 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/andrew-cuomo-westchester-county-no-charges/index.html">Ex-New York Gov. Cuomo will not be criminally charged by Westchester County district attorney over alleged inappropriate conduct</a> CNN: Westchester District Attorney Miriam Rocah announced on Tuesday her office will not criminally charge former New York Gov. Andrew Cuomo after a "thorough" investigation into allegations of inappropriate conduct made by two women against him. 
  <p class="updated_time"> 03:11 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/covid-omicron-kids-hospitalizations-what-matters/index.html">Analysis: Rising child hospitalizations loom large over US Covid-19 response</a> CNN: Public health experts have sought for months to find the right message that will resonate with the many Americans who remain unconvinced about the very real danger of Covid-19. 
  <p class="updated_time"> 02:51 PM CT, Dec. 28 </p> 
