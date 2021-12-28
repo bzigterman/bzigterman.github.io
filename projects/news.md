@@ -197,7 +197,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/28/bunny-mellons-millions-at-play-in-dc-divorce-495554">Bunny Mellon’s millions at play in D.C. divorce</a> Politico Playbook: And the CDC Monday shortened the isolation period for people who test positive for Covid-19 and are asymptomatic 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/28/bunny-mellons-millions-at-play-in-dc-divorce-495554"> Bunny Mellon’s millions at play in D.C. divorce</a> Politico Playbook: And the CDC Monday shortened the isolation period for people who test positive for Covid-19 and are asymptomatic 
  <p class="updated_time"> 08:06 AM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/us-russia-security-talks/index.html">US and Russia to talk Ukraine and security issues next month</a> CNN: US and Russian officials have agreed to sit down for security talks on January 10, a spokesman for the National Security Council confirmed Tuesday. 
  <p class="updated_time"> 06:19 AM CT, Dec. 28 </p> 
