@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:40 AM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59809821?at_medium=RSS&at_campaign=KARANGA">South Africa court blocks Shell's oil exploration</a> BBC: Environmentalists hail the ruling as a victory in their efforts to protect marine life. 
  <p class="updated_time"> 07:14 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1067207363/2021-top-stories-international-npr-correspondents-recommend">These are the top stories NPR's correspondents around the world recommend from 2021</a> NPR: We asked the network's international journalists to pick one story from the year you should check out. Here are their selections. 
  <p class="updated_time"> 07:12 AM CT, Dec. 28 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59806040?at_medium=RSS&at_campaign=KARANGA">Covid: US halves isolation time for asymptomatic infection</a> BBC: The guideline for asymptomatic cases is expected to ease disruptions caused by staff shortages. 
  <p class="updated_time"> 04:35 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/delta-flight-shanghai-seattle.html">Delta Says Flight to Shanghai Was Turned Round in Midair Because of Cleaning Rules</a> NYT: The carrier said that it ordered the plane back last week because of sanitation requirements that were “not operationally viable.” 
- <p class="updated_time"> 04:23 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59808620?at_medium=RSS&at_campaign=KARANGA">Austria's Innsbruck airport denies 110 Britons entry over new Covid rules</a> BBC: Innsbruck airport in Austria refused to let in tourists caught out by updated restrictions. 
  <p class="updated_time"> 04:17 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/where-vaccination-rates-are-low-in-the-us-the-reasons-vary.html">Where vaccination rates are low in the U.S., the reasons vary.</a> NYT: As the Omicron variant surges, and experts say that vaccinations strongly protect against severe illness, U.S. public health officials are closely examining ways to reach the least-vaccinated areas. 
  <p class="updated_time"> 02:26 AM CT, Dec. 28 </p> 
@@ -43,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59806499?at_medium=RSS&at_campaign=KARANGA">Elon Musk criticised after China space complaint to UN</a> BBC: The SpaceX boss is attacked on Chinese social media after the complaint was made public. 
  <p class="updated_time"> 02:00 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/nord-stream-pipeline-germany-russia.html">Germany Wants Its Russian Pipeline. German Allies Aren’t Sure It’s a Good Idea.</a> NYT: The Nord Stream 2 Russia-to-Germany pipeline could offer plentiful natural gas. But tensions with Vladimir Putin are keeping it out of reach. 
+ <p class="updated_time"> 02:00 AM CT, Dec. 28 </p> 
+ <a href="https://www.wsj.com/articles/afghanistans-former-female-troops-once-hailed-by-the-west-fear-for-their-lives-11640696404">Afghanistan's Former Female Troops Fear for Their Lives</a> WSJ: “They have relocated musicians, soccer players and artists, and their lives were not at risk as much as ours,” a former Afghan Air Force officer says of Western governments. 
  <p class="updated_time"> 01:55 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59806939?at_medium=RSS&at_campaign=KARANGA">Snow buries north and west Japan</a> BBC: The snow has meant grounded flights and stranded travellers as people are told to stay indoors. 
  <p class="updated_time"> 01:11 AM CT, Dec. 28 </p> 
