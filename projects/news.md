@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:21 AM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59806040?at_medium=RSS&at_campaign=KARANGA">Covid: US halves isolation time for asymptomatic infection</a> BBC: The guideline for asymptomatic cases is expected to ease disruptions caused by staff shortages. 
  <p class="updated_time"> 02:28 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid News: Omicron Hasn’t Swayed the Least Vaccinated U.S. Counties</a> NYT: To minimize disruptions as virus cases surge, the C.D.C. halved the recommended isolation period for infected Americans who show no symptoms, to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
  <p class="updated_time"> 02:20 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59805829?at_medium=RSS&at_campaign=KARANGA">Covid: France tightens restrictions amid Omicron surge</a> BBC: Germany and Greece also toughen measures in a bid to tackle infections amid fears about Omicron. 
  <p class="updated_time"> 02:13 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-59806499?at_medium=RSS&at_campaign=KARANGA">Elon Musk criticised after China space complaint to UN</a> BBC: The SpaceX boss is attacked on Chinese social media after the complaint was made public. 
- <p class="updated_time"> 02:13 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59806040?at_medium=RSS&at_campaign=KARANGA">Covid: US halves isolation time for asymptomatic infection</a> BBC: The Centres for Disease Control (CDC) recommends five days isolation for asymptomatic cases. 
  <p class="updated_time"> 02:00 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/nord-stream-pipeline-germany-russia.html">Germany Wants Its Russian Pipeline. German Allies Aren’t Sure It’s a Good Idea.</a> NYT: The Nord Stream 2 Russia-to-Germany pipeline could offer plentiful natural gas. But tensions with Vladimir Putin are keeping it out of reach. 
  <p class="updated_time"> 01:55 AM CT, Dec. 28 </p> 
@@ -53,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/stories-59733533?at_medium=RSS&at_campaign=KARANGA">‘The doctors came and I had to tell my father he was dying’</a> BBC: Is it always appropriate for relatives to interpret for deaf loved ones? 
  <p class="updated_time"> 06:01 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59761535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Children in Kabul working for a piece of bread</a> BBC: More and more Afghan children are having to work to support their families, amidst an economic collapse. 
+ <p class="updated_time"> 06:01 PM CT, Dec. 27 </p> 
+ <a href="https://www.wsj.com/articles/egyptian-pharoahs-mummy-digitally-unwrapped-after-3-500-years-11640667662">Egyptian Pharoah's Mummy 'Digitally Unwrapped' After 3,500 Years</a> WSJ: Scientists use CT scans to peek inside the remains of the twice-buried Amenhotep I. 
  <p class="updated_time"> 04:45 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59805894?at_medium=RSS&at_campaign=KARANGA">Kylian Mbappe & Robert Lewandowski voice concerns over a biennial World Cup</a> BBC: France striker Kylian Mbappe and Poland forward Robert Lewandowski voice concerns over holding a World Cup every two years. 
  <p class="updated_time"> 04:19 PM CT, Dec. 27 </p> 
@@ -81,6 +83,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/iraq-election-muqtada-al-sadr.html">Iraq Confirms Election Gains for Muqtada al-Sadr</a> NYT: A court certified October’s parliamentary vote that gave Muqtada al-Sadr’s party a plurality of seats, clearing a path for a government to be formed. 
  <p class="updated_time"> 11:09 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/europe/poland-media-law.html">Poland’s President Says He Will Veto Media Bill Opposed by U.S.</a> NYT: The measure backed by the nationalist governing coalition sought to limit foreign influence and could have imperiled the license of an American-owned TV station. 
+ <p class="updated_time"> 11:05 AM CT, Dec. 27 </p> 
+ <a href="https://www.wsj.com/articles/india-bars-foreign-donations-to-christian-group-founded-by-mother-teresa-11640642739">India Bars Foreign Donations to Christian Group Founded by Mother Teresa</a> WSJ: The decision came amid what some Christian leaders call an increasingly hostile environment for their religion in the majority-Hindu country. 
  <p class="updated_time"> 10:52 AM CT, Dec. 27 </p> 
  <a href="https://www.wsj.com/articles/power-struggle-between-somali-president-and-prime-minister-threatens-fight-against-extremists-11640620008">Power Struggle Between Somali President and Prime Minister Threatens Fight Against Extremists</a> WSJ: The Somali president has suspended the prime minister, who in turn said he would assume the president’s duties, a battle that undermines the country’s fight against al-Shabaab. 
  <p class="updated_time"> 09:28 AM CT, Dec. 27 </p> 
