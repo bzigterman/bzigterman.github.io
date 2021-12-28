@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:34 PM CT, Dec. 28 </p> 
+ <p class="updated_time"> 01:40 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City School System, the Nation’s Largest, to Reopen With More Testing</a> NYT: The spread of Omicron will lead to a second straight year of subdued New Year’s celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive but don’t have symptoms. 
  <p class="updated_time"> 01:25 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59812890?at_medium=RSS&at_campaign=KARANGA">Jordan MPs fighting in parliament session live-streamed on local television</a> BBC: The argument began as the chamber debated constitutional reforms, including gender equality. 
