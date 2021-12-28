@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:36 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/asia/india-mother-teresa-charity-crackdown.html">India Cuts Off Foreign Funding of Mother Teresa’s Charity</a> NYT: The move is part of a tightening of rules on organizations financed by donations from abroad and comes amid a rise in attacks on religious minorities. 
  <p class="updated_time"> 08:33 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New Year Festivities Scaled Back Worldwide as Cases Soar</a> NYT: The spread of Omicron will lead to a second straight year of subdued celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive. 
- <p class="updated_time"> 08:02 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/asia/india-mother-teresa-charity-crackdown.html">India Cuts Off Foreign Funding of Mother Teresa’s Charity</a> NYT: The move is part of a tightening of rules on organizations financed by donations from abroad and comes amid a rise in attacks on religious minorities. 
  <p class="updated_time"> 07:40 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59809821?at_medium=RSS&at_campaign=KARANGA">South Africa court blocks Shell's oil exploration</a> BBC: Environmentalists hail the ruling as a victory in their efforts to protect marine life. 
  <p class="updated_time"> 07:14 AM CT, Dec. 28 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/28/bunny-mellons-millions-at-play-in-dc-divorce-495554">Bunny Mellon’s millions at play in D.C. divorce</a> Politico Playbook: And the CDC Monday shortened the isolation period for people who test positive for Covid-19 and are asymptomatic 
  <p class="updated_time"> 08:06 AM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/us-russia-security-talks/index.html">US and Russia to talk Ukraine and security issues next month</a> CNN: US and Russian officials have agreed to sit down for security talks on January 10, a spokesman for the National Security Council confirmed Tuesday. 
  <p class="updated_time"> 06:19 AM CT, Dec. 28 </p> 
