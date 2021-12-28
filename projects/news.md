@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:07 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Lowers Estimate of Omicron’s Prevalence in U.S.</a> NYT: The estimate dropped from about 73 percent to 23 percent for the week ending Dec. 18, and the agency now says Omicron became dominant the following week. A doctors’ protest over understaffing is causing chaos at Delhi hospitals. 
  <p class="updated_time"> 04:47 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59812877?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell jury told to meet every day because of Covid</a> BBC: The judge in Ghislaine Maxwell's sex trafficking trial asks jurors to deliberate every day. 
  <p class="updated_time"> 04:43 PM CT, Dec. 28 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/europe/russia-memorial-human-rights.html">Russian Court Orders Liquidation of the Human Rights Group Memorial </a> NYT: The Supreme Court ruled that Memorial International, which chronicled political repression in Russia, must be liquidated. 
  <p class="updated_time"> 04:41 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/nato-russia-ukrain-us.html">U.S. and Russia Agree to Talks Amid Growing Tensions Over Ukraine</a> NYT: The Biden administration has not said who will lead the U.S. delegation next month as Russian officials demand commitments from NATO. 
- <p class="updated_time"> 04:34 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Lowers Estimate of Omicron’s Prevalence in U.S.</a> NYT: The estimate dropped from about 73 percent to 23 percent for the week ending Dec. 18, and the agency now says Omicron became dominant the following week. A doctors’ protest over understaffing is causing chaos at Delhi hospitals. 
  <p class="updated_time"> 04:11 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59810713?at_medium=RSS&at_campaign=KARANGA">Covid: Europe sees record virus case rise</a> BBC: Italy, Greece and Portugal all also announced their highest daily case totals on Tuesday. 
  <p class="updated_time"> 04:02 PM CT, Dec. 28 </p> 
@@ -200,8 +200,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:38 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/us-new-daily-high-covid-526223">U.S. sets new daily high for Covid cases</a> Politico: The Centers for Disease Control and Prevention’s tally represents a grim new milestone in the coronavirus pandemic. 
+ <p class="updated_time"> 05:10 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/business/media/nyt-project-veritas.html">Judge Says New York Times Can Retain Project Veritas Memos, for Now</a> NYT: A New York appeals court said the paper did not need to immediately give up or destroy documents related to the conservative group. The paper is still prevented from publishing certain documents. 
+ <p class="updated_time"> 05:05 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/us/politics/trump-jan-6.html">Jan. 6 Committee Shelves Requests for Hundreds of Trump Records</a> NYT: The Biden administration asked to shield some sensitive documents but continued to reject Trump’s blanket claim of executive privilege. 
  <p class="updated_time"> 04:52 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/us/politics/ethics-investigations-congress.html">Ethics Investigators in Congress Increasingly Run Into Walls</a> NYT: Lawmakers under scrutiny are more likely than before to simply refuse to cooperate with an inquiry. 
+ <a href="https://www.nytimes.com/2021/12/28/us/politics/congress-ethics-investigations.html">Ethics Investigators in Congress Increasingly Run Into Walls</a> NYT: Lawmakers under scrutiny are more likely than before to simply refuse to cooperate with an inquiry. 
  <p class="updated_time"> 04:41 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/nato-russia-ukrain-us.html">U.S. and Russia Agree to Talks Amid Growing Tensions Over Ukraine</a> NYT: The Biden administration has not said who will lead the U.S. delegation next month as Russian officials demand commitments from NATO. 
  <p class="updated_time"> 04:10 PM CT, Dec. 28 </p> 
@@ -312,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/25/1067966109/house-committee-investigating-jan-6-insurrection-calls-congress-members-to-testi">House committee investigating Jan. 6 insurrection calls Congress members to testify</a> NPR: The House select committee investigating the Jan. 6 insurrection is asking fellow members of Congress to cooperate in the probe. 
  <p class="updated_time"> 07:00 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/biden-puerto-rico-electricity-network-526102">Puerto Rico’s shattered power grid could become a ‘big experiment’ for Biden</a> Politico: The crumbling electricity network that serves the island's 3 million people is at the center of a debate on renewable energy vs. fossil fuels — with billions of federal dollars at stake. 
- <p class="updated_time"> 05:03 AM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/23/science/webb-nasa-launch-delay.html">How NASA's Webb Telescope Overcame Loose Screws, Budgets and Clamps</a> NYT: Getting the James Webb Space Telescope to the launchpad has been a difficult journey that has taken decades. 
  <p class="updated_time"> 08:55 PM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/trump-spokesperson-sues-jan-6-committee-financial-records-526139">Trump spokesperson sues Jan. 6 committee over financial records</a> Politico: Taylor Budowich is trying to block disclosure of information from J.P. Morgan Chase Bank. 
  <p class="updated_time"> 06:10 PM CT, Dec. 24 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
  <p class="updated_time"> 06:30 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/medicaid-work-requirements-georgia-biden.html">Biden Administration Rejects Medicaid Work Requirements in Georgia</a> NYT: The decision continued the administration’s rollback of the Trump-era policy, targeting the only remaining state with federal approval for the requirements. 
- <p class="updated_time"> 06:02 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/business/economy/inflation-pce-index-fed.html">PCE Index Hit Highest Level in November Since 1982</a> NYT: The Fed’s preferred inflation gauge climbed at the fastest pace in nearly four decades, as Omicron clouded the outlook for 2022. 
  <p class="updated_time"> 05:56 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/capitol-riot-january-6.html">Jan. 6 Defendants Send a Holiday Card: ‘Merry Christmas Patriot!’</a> NYT: Holiday card greetings from defendants awaiting trial on charges related to the Capitol riot reflect their status as symbolic martyrs for the Republican base. 
  <p class="updated_time"> 05:30 PM CT, Dec. 23 </p> 
