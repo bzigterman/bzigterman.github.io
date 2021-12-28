@@ -83,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/europe/poland-media-law.html">Poland’s President Says He Will Veto Media Bill Opposed by U.S.</a> NYT: The measure backed by the nationalist governing coalition sought to limit foreign influence and could have imperiled the license of an American-owned TV station. 
  <p class="updated_time"> 10:52 AM CT, Dec. 27 </p> 
  <a href="https://www.wsj.com/articles/power-struggle-between-somali-president-and-prime-minister-threatens-fight-against-extremists-11640620008">Power Struggle Between Somali President and Prime Minister Threatens Fight Against Extremists</a> WSJ: The Somali president has suspended the prime minister, who in turn said he would assume the president’s duties, a battle that undermines the country’s fight against al-Shabaab. 
- <p class="updated_time"> 09:43 AM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59800515?at_medium=RSS&at_campaign=KARANGA">Somalia PM Roble defiant after President Farmajo suspends him</a> BBC: The PM says the president's move over land theft allegations is an attempted coup. 
  <p class="updated_time"> 09:28 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/carnival-cruise-covid.html">Carnival Cruise Ship Returns to Miami With 'Small Number' of Covid Cases</a> NYT: The Carnival Freedom is the latest Florida cruise ship to be disrupted by the coronavirus as the Omicron variant drives up cases in the U.S. 
  <p class="updated_time"> 09:00 AM CT, Dec. 27 </p> 
@@ -111,6 +109,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/asia/myanmar-army-killings.html">Myanmar’s Army Is Accused of Massacring Dozens of Civilians</a> NYT: At least 35 people were killed and their bodies burned, according to an international aid group and opponents of the military regime. 
  <p class="updated_time"> 06:06 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59748260?at_medium=RSS&at_campaign=KARANGA">'I'm Jewish and black - where do I fit in?'</a> BBC: Black and Jewish journalist Nadine Batchelor-Hunt travels to Israel to meet the Ethiopian community and explore this dual identity. 
+ <p class="updated_time"> 06:00 PM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59762810?at_medium=RSS&at_campaign=KARANGA">Demi Skipper plans to keep trading after hairpin-to-house swap</a> BBC: TikToker Demi Skipper made headlines when she successfully traded items until she got a house. 
  <p class="updated_time"> 06:00 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-51908404?at_medium=RSS&at_campaign=KARANGA">Covid-19: India's unwinnable battle against spitting</a> BBC: The pandemic briefly renewed efforts to curb an infamous Indian habit - spitting in public. 
  <p class="updated_time"> 04:01 PM CT, Dec. 26 </p> 
