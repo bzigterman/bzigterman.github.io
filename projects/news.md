@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:54 AM CT, Dec. 28 </p> 
+ <p class="updated_time"> 04:00 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/europe/italy-basketball-saint.html">‘Bless and Protect My Team’: An Italian Town Hopes Its Basketball Patron Advances to National Status</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
+ <p class="updated_time"> 03:58 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid News: Omicron Hasn’t Swayed the Least Vaccinated U.S. Counties</a> NYT: To minimize disruptions as virus cases surge, the C.D.C. halved the recommended isolation period for infected Americans who show no symptoms, to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
  <p class="updated_time"> 03:33 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59806040?at_medium=RSS&at_campaign=KARANGA">Covid: US halves isolation time for asymptomatic infection</a> BBC: The guideline for asymptomatic cases is expected to ease disruptions caused by staff shortages. 
@@ -198,6 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:02 AM CT, Dec. 28 </p> 
+ <a href="https://www.npr.org/2021/12/28/1067460165/colorados-first-lawmaker-to-use-a-wheelchair-will-finally-get-to-wield-the-gavel">Colorado's first lawmaker to use a wheelchair will finally get to wield the gavel</a> NPR: State Rep. David Ortiz was paralyzed from the waist down while serving in Afghanistan. To give him access to the House podium, legislative staff say they have built the first lift of its kind. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 28 </p> 
+ <a href="https://www.npr.org/2021/12/28/1067206141/biden-federal-judges-nominations-diverse">Biden had a good year picking federal judges. But the job could get tougher in 2022</a> NPR: President Biden has gotten a diverse group of 40 federal judges confirmed in 2021, the most for a new president since the Reagan era. 
  <p class="updated_time"> 02:16 AM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/richard-marcinko-dead-seal-team-six/index.html">Richard Marcinko, the first head of the elite SEAL Team Six, has died</a> CNN: Richard Marcinko, a legendary military figure known for leading SEAL Team Six when the covert special operations unit was in its infancy, died Saturday, according to his son and the National Navy SEAL Museum. He was 81. 
  <p class="updated_time"> 07:50 PM CT, Dec. 27 </p> 
@@ -320,10 +326,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/24/biden-rural-evictions-526089">Biden’s about to adopt a policy that could hurt Dems even more with rural voters</a> Politico: About half of the $46.5 billion in federal rental aid made available during the pandemic is expected to be spent by the end of this year. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-social-spending-senate-parliamentarian-526081">Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</a> Politico: The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan. 
- <p class="updated_time"> 06:20 AM CT, Dec. 24 </p> 
- <a href="https://www.npr.org/2021/12/24/1067775038/ex-president-trump-pushes-back-on-anti-vaccine-talking-points">Ex-President Trump pushes back on anti-vaccine talking points</a> NPR: In multiple recent appearances, former President Donald Trump has been touting COVID vaccines and even pushing back against misinformation. He's earning praise from President Biden. 
- <p class="updated_time"> 04:01 AM CT, Dec. 24 </p> 
- <a href="https://www.npr.org/2021/12/24/1066223330/biden-covid-deaths-memorials">Biden stopped marking grim COVID milestones as he fought to end the pandemic</a> NPR: Biden used to talk a lot about the COVID-19 death toll, but over the last year he's shifted to how fight the pandemic. Some want him to go back to addressing the country's grief. 
  <p class="updated_time"> 08:55 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/mary-gay-scanlon-hijacking-suspect-charged/index.html">19-year-old charged in armed carjacking incident involving Democratic lawmaker</a> CNN: Federal prosecutors have charged a Delaware man with carjacking Democratic Rep. Mary Gay Scanlon of Pennsylvania and using a firearm during a crime of violence, the Justice Department announced Thursday. 
  <p class="updated_time"> 07:59 PM CT, Dec. 23 </p> 
