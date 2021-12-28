@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:57 PM CT, Dec. 28 </p> 
+ <p class="updated_time"> 01:05 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City School System, the Nation’s Largest, to Reopen With More Testing</a> NYT: The spread of Omicron will lead to a second straight year of subdued New Year’s celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive but don’t have symptoms. 
  <p class="updated_time"> 12:51 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59808624?at_medium=RSS&at_campaign=KARANGA">Russian court orders oldest civil rights group Memorial to shut</a> BBC: The Supreme Court dissolves a civil rights group formed to remember victims of Communist repression. 
@@ -204,6 +204,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/28/cdc-drops-omicron-prevalence-estimate-526210">CDC sharply drops estimate of Omicron prevalence in U.S.</a> Politico: The agency said the disparity was due to the rate with which the highly transmissible Omicron spread. 
  <p class="updated_time"> 12:40 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/us-russia-security-talks/index.html">US and Russia to talk Ukraine and security issues next month</a> CNN: US and Russian officials have agreed to sit down for security talks on January 10, a spokesman for the National Security Council confirmed Tuesday. 
+ <p class="updated_time"> 12:12 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/biden-revokes-southern-africa-travel-ban/index.html">Biden issues proclamation revoking southern Africa travel restrictions</a> CNN: President Joe Biden issued a presidential proclamation Tuesday revoking a proclamation put in place last month that enacted travel restrictions on eight southern African nations, including South Africa, as the Omicron variant began to spread. 
+ <p class="updated_time"> 12:10 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/proud-boys-first-amendment/index.html">Judge rejects Proud Boys' First Amendment claims in January 6 conspiracy case</a> CNN: A federal judge is allowing a major January 6 conspiracy case against four Proud Boys leaders to move forward, rejecting their bid to throw out the charges. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/28/bunny-mellons-millions-at-play-in-dc-divorce-495554"> Bunny Mellon’s millions at play in D.C. divorce</a> Politico Playbook: And the CDC Monday shortened the isolation period for people who test positive for Covid-19 and are asymptomatic 
  <p class="updated_time"> 09:03 AM CT, Dec. 28 </p> 
@@ -221,9 +225,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:16 AM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/richard-marcinko-dead-seal-team-six/index.html">Richard Marcinko, the first head of the elite SEAL Team Six, has died</a> CNN: Richard Marcinko, a legendary military figure known for leading SEAL Team Six when the covert special operations unit was in its infancy, died Saturday, according to his son and the National Navy SEAL Museum. He was 81. 
  <p class="updated_time"> 12:25 AM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/joe-biden-covid-19-testing-failure/index.html">Biden grapples with a Covid-19 testing failure that could have been foreseen</a> CNN: President Joe Biden and his team repeatedly promised more Covid-19 testing, including at-home kits that deliver rapid results, but they are now admitting a virus that is more adaptable than the politicians who fight it has outpaced them again. 
- <p class="updated_time"> 07:50 PM CT, Dec. 27 </p> 
- <a href="https://www.cnn.com/2021/12/27/politics/vaccine-mandates-domestic-flights-what-matters/index.html">Analysis: Are vaccine mandates for domestic flights our ticket out of the pandemic?</a> CNN: Public health experts for months have tried to reach the large swath of unvaccinated Americans with a simple message: Get vaccinated or risk serious health complications. 
+ <a href="https://www.cnn.com/2021/12/28/politics/joe-biden-covid-19-testing-failure/index.html">Analysis: Biden grapples with a Covid-19 testing failure that could have been foreseen</a> CNN: President Joe Biden and his team repeatedly promised more Covid-19 testing, including at-home kits that deliver rapid results, but they are now admitting a virus that is more adaptable than the politicians who fight it has outpaced them again. 
  <p class="updated_time"> 07:26 PM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/fauci-domestic-flight-vaccine-mandate-526194">Fauci: ‘I don’t think people should expect’ a domestic flight vaccine mandate</a> Politico: “It’s on the table,” he added. “But that doesn’t mean it’s going to happen. I doubt if we’re going to see something like that in the reasonably foreseeable future.” 
  <p class="updated_time"> 05:25 PM CT, Dec. 27 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/24/politics/bernard-kerik-january-6-committee/index.html">Giuliani associate Bernard Kerik plans to publicly release some documents requested by January 6 committee</a> CNN: Former New York City Police Commissioner Bernard Kerik says he is planning to publicly release some documents requested by the House select committee investigating January 6. 
  <p class="updated_time"> 08:45 AM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/trump-covid-vaccine-republicans-polling/index.html">Trump's endorsement of vaccines aligns with most Republicans' views — but it may be an uphill battle to convince the holdouts</a> CNN: Former President Donald Trump has recently been vocal about the benefits of vaccination against Covid-19 -- a position that's in line with the overwhelming majority of Americans who've chosen to get vaccinated, including the bulk of his own party. 
- <p class="updated_time"> 08:12 AM CT, Dec. 24 </p> 
- <a href="https://www.cnn.com/2021/12/24/politics/travel-restrictions-african-countries-omicron/index.html">Biden to lift travel restrictions on southern African countries that were put in place due to Omicron</a> CNN: The Biden administration is lifting restrictions on eight southern African countries that were put in place last month after the Omicron variant was first identified in South Africa, a White House official tells CNN. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/maryland-governor-democrats-526119">Dems face off in Maryland primary — in an ‘incredibly Republican year’</a> Politico: Looming over the gubernatorial primary is a political environment likely benefiting Republicans — amplified by the GOP’s victory in neighboring Virginia last month. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
@@ -376,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/23/trump-spurs-rise-in-celebrity-candidates-525865">Senate GOP feels another Trump effect: The rise of celeb candidates</a> Politico: House experience isn't necessarily the best way to get traction across the Capitol anymore — as Herschel Walker and Mehmet Oz are proving. 
  <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/joe-biden-tiktok-jonas-brothers-526019">Joe Biden was not made for the age of TikTok. But his team is trying.</a> Politico: The White House is producing videos that they know will get mocked on political Twitter. They don’t care. They have other plans. 
- <p class="updated_time"> 10:35 PM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/biden-vaccine-mandate-oral-arguments-supreme-court/index.html">Supreme Court schedules January 7 oral arguments in challenges to Biden vaccine mandates</a> CNN: The Supreme Court said Wednesday it is scheduling oral arguments for January 7 in the cases challenging the Biden administration's Covid-19 vaccine requirements for large employers and certain health care workers. 
  <p class="updated_time"> 07:32 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/capitol-riot-matthew-greene-guilty.html">Proud Boys Member Pleads Guilty and Will Cooperate in Jan. 6 Riot Inquiry</a> NYT: Matthew Greene, 34, who was “among the first wave” to rush up the Capitol steps, pleaded guilty to two charges and agreed to cooperate with the government, federal prosecutors said. 
  <p class="updated_time"> 06:52 PM CT, Dec. 22 </p> 
