@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Dec. 28 </p> 
+ <a href="https://www.politico.com/news/2021/12/28/climate-disaster-relief-farm-bill-democrats-526183">Democrats seek to shape climate and disaster relief in early farm bill talks</a> Politico: The next farm bill may be Democrats’ best chance to scale up funding for agriculture programs that fight climate change. But time isn’t on their side. 
  <p class="updated_time"> 04:02 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1067460165/colorados-first-lawmaker-to-use-a-wheelchair-will-finally-get-to-wield-the-gavel">Colorado's first lawmaker to use a wheelchair will finally get to wield the gavel</a> NPR: State Rep. David Ortiz was paralyzed from the waist down while serving in Afghanistan. To give him access to the House podium, legislative staff say they have built the first lift of its kind. 
  <p class="updated_time"> 04:00 AM CT, Dec. 28 </p> 
@@ -224,6 +226,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/27/politics/biden-covid-governors/index.html">Biden concedes not enough has been done to expand Covid-19 testing capacity: 'We have more work to do'</a> CNN: President Joe Biden will confer with the nation's governors on Monday as a wave of Covid-19, driven by the heavily transmissible Omicron variant of the coronavirus, crashes across the country and drives caseloads to record levels in areas of the Northeast. 
  <p class="updated_time"> 01:37 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/doj-combats-crime-rise/index.html">Justice Department boosts funds to cities to battle rise in crime</a> CNN: The Justice Department is closing out the year with a surge in grants for public safety programs in cities across the country, including many grappling with a dramatic rise in violent crime. 
+ <p class="updated_time"> 01:07 PM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/news/2021/12/27/biden-governors-omicron-surge-526175">Biden looks to reassure governors amid Omicron surge and long lines for tests</a> Politico: Biden acknowledged the shortages that hit several states ahead of the holidays, conceding that he had not done enough to prepare for the rising demand. 
  <p class="updated_time"> 11:49 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/biden-signs-defense-policy-bill-526171">Biden signs $768B defense policy bill that supersized his original Pentagon request</a> Politico: The bill rejects Biden's $715 billion Pentagon budget request and instead calls for $740 billion for the Defense Department. 
  <p class="updated_time"> 11:29 AM CT, Dec. 27 </p> 
@@ -238,8 +242,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/videos/politics/2021/12/27/candace-owens-trump-vaccines-nr-vpx.cnn">Candace Owens tries to explain away Trump's truthful vaccine remark</a> CNN: Conservative commentator Candace Owens spoke to her followers and tried to explain away former President Trump touting the effectiveness of the Covid-19 vaccines. 
  <p class="updated_time"> 06:00 AM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/gen-z-millennial-conservatives-recruit-diverse-candidates/index.html">Gen Z and millennial conservatives seek to recruit and mentor young, diverse candidates </a> CNN: When Roxy Ndebumadu, a Black conservative woman, ran for city council in Bowie, Maryland, at age 26, it was hard to find mentorship from elected officials of similar backgrounds. 
+ <p class="updated_time"> 04:31 AM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/news/2021/12/27/biden-covid-vaccines-usaid-funding-526126">Price tag to vaccinate the world: $7 billion. And the U.S. is already coming up short.</a> Politico: In September, U.S. officials noted it would take at least $7 billion in 2022 to ensure shots are administered across the globe. 
  <p class="updated_time"> 04:30 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/monopoly-antitrust-new-rules-tech-525161">The new rules of Monopoly</a> Politico: Washington has spent decades playing from the same rulebook in the game of keeping dominant businesses from snuffing out the competition. But a new breed of antitrust enforcers say those rules are rigged against consumers — and in favor of Big Tech. They say it’s time to change the game. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/news/2021/12/27/omicron-business-washington-526060">Omicron triggers business outcry for Washington lifeline</a> Politico: The lobbying push poses a new challenge for the Biden administration and congressional leadership heading into the 2022 midterm elections. 
  <p class="updated_time"> 04:30 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/biden-steven-bondy-bahrain-ambassador-526160">Inside an explosive whisper campaign that tried to sink a Biden ambassador pick</a> Politico: Steven Bondy had his detractors in a previous job. When he was tapped for a top Mideast post, they started talking. 
  <p class="updated_time"> 04:05 AM CT, Dec. 27 </p> 
@@ -322,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/23/politics/mary-gay-scanlon-hijacking-suspect-charged/index.html">19-year-old charged in armed carjacking incident involving Democratic lawmaker</a> CNN: Federal prosecutors have charged a Delaware man with carjacking Democratic Rep. Mary Gay Scanlon of Pennsylvania and using a firearm during a crime of violence, the Justice Department announced Thursday. 
  <p class="updated_time"> 07:59 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/georgia-election-workers-lawsuit-rudy-giuliani-one-america-news/index.html">Two Georgia election workers sue Giuliani and One America News, claiming election lies prompted severe harassment </a> CNN: Two Georgia election workers are accusing right-wing TV network One America News and former Trump lawyer and pundit Rudy Giuliani of destroying their reputations and prompting Trump supporters to harass them -- filling their lives with fear -- because of false claims of election fraud in 2020. 
- <p class="updated_time"> 06:58 PM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/georgia-poll-workers-sue-giuliani-oan-526122">2 Georgia poll workers sue Giuliani, OAN over election conspiracy theories</a> Politico: Ruby Freeman and Shaye Moss, her daughter, worked as poll workers counting ballots at State Farm Arena in Fulton County, Ga., during the November 2020 election. 
  <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
  <p class="updated_time"> 06:30 PM CT, Dec. 23 </p> 
@@ -352,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/nyregion/cyrus-vance-donald-trump.html">Trump Fraud Inquiry Won’t Be Resolved When Vance’s Term Ends Next Week</a> NYT: After leading a three-year investigation into the former president, the Manhattan district attorney, Cyrus R. Vance Jr., will hand it to his successor. 
  <p class="updated_time"> 11:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/dccc-partnership-campaign-staff-diversity-526041">DCCC launching partnership to boost campaign staff diversity</a> Politico: House Democrats' campaign arm is partnering with Blue Leadership Collaborative to recruit and retain people of color, women and people who identify as queer as senior staff. 
- <p class="updated_time"> 10:32 AM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/fda-authorizes-merck-covid-pill-526036">FDA authorizes Merck’s Covid-19 pill</a> Politico: Clinical trials showed that Merck’s pill reduced the risk of hospitalization and death from the virus by 30 percent. 
  <p class="updated_time"> 10:09 AM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/faith-leaders-voting-rights-letter-biden/index.html">CNN Exclusive: Hundreds of faith leaders demand more from Biden and other Democrats on voting rights legislation</a> CNN: More than 800 faith leaders are urging President Joe Biden and Senate Democrats to pass voting rights legislation in 2022, writing in a letter released Thursday that the issue needs to be the administration's "number-one priority" after measures stalled in the Senate. 
  <p class="updated_time"> 07:41 AM CT, Dec. 23 </p> 
@@ -372,20 +376,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/22/us/capitol-riot-matthew-greene-guilty.html">Proud Boys Member Pleads Guilty and Will Cooperate in Jan. 6 Riot Inquiry</a> NYT: Matthew Greene, 34, who was “among the first wave” to rush up the Capitol steps, pleaded guilty to two charges and agreed to cooperate with the government, federal prosecutors said. 
  <p class="updated_time"> 06:52 PM CT, Dec. 22 </p> 
  <a href="https://www.nytimes.com/2021/12/22/us/politics/covid-tests-biden-omicron.html">Biden Promised 500 Million Tests, but Americans Will Have to Wait</a> NYT: Contracts to purchase tests could be signed as soon as next week, but relief could be weeks away for people trying to buy the hard-to-find tests. 
- <p class="updated_time"> 05:00 PM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/trudeau-canadians-hunker-down-omicron-525998">Trudeau tells Canadians to ‘hunker down’ as Biden urges calm over Omicron</a> Politico: Canadians hunt for boosters and rapid tests amid Covid surge that is disrupting holiday plans. 
  <p class="updated_time"> 03:15 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/antiviral-pill-biden-statement/index.html">250,000 treatment courses of Pfizer's antiviral pill will be available in January, Biden says</a> CNN: President Joe Biden on Wednesday pledged more than 250,000 treatment courses of Pfizer's antiviral pill will be available starting in January after the US Food and Drug Administration authorized it to treat Covid-19. 
- <p class="updated_time"> 12:56 PM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/fda-pfizer-covid-pill-525979">FDA authorizes Pfizer's Covid-19 pill</a> Politico: The pill, called Paxlovid, will provide the U.S. with another tool to help fight the virus as the more infectious Omicron variant surges. 
  <p class="updated_time"> 12:00 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/student-loan-pause-biden/index.html">Biden extends pause on student loan repayment through May 1</a> CNN: The Biden administration is considering extending the pause on federal student loan payments, which were set to restart on February 1. 
  <p class="updated_time"> 07:01 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/22/dems-family-meeting-with-manchin-495537">Dems' family meeting with Manchin</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/22/schumer-and-manchin-face-off-on-zoom-495536"> Schumer and Manchin face off on Zoom</a> Politico Playbook: And Biden tries to tackle Omicron. 
- <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/news/2021/12/22/hospitals-omicron-vaccinating-health-care-workers-525952">Hospitals grapple with Omicron — and legal brawl over vaccinating staff</a> Politico: More than 60,000 patients are hospitalized with Covid-19, according to the CDC, and the numbers are climbing with the highly contagious Omicron strain surging. 
  <p class="updated_time"> 04:30 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/news/2021/12/22/dan-crenshaw-conservatives-come-correct-525829">Dan Crenshaw to his fellow conservatives: Come ‘correct’</a> Politico: The combat veteran often voted with Donald Trump but doesn't act Trumpishly. And he'll slam other Republicans when he feels he must. 
  <p class="updated_time"> 10:56 PM CT, Dec. 21 </p> 
