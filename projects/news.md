@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:47 PM CT, Dec. 27 </p> 
+ <p class="updated_time"> 11:29 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid News: Omicron Hasn’t Swayed the Least Vaccinated U.S. Counties</a> NYT: To minimize disruptions as virus cases surge, the C.D.C. halved the recommended isolation period for infected Americans who show no symptoms, to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
  <p class="updated_time"> 10:40 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807119?at_medium=RSS&at_campaign=KARANGA">Paing Takhon: Myanmar celebrity gets three years jail for mass protests</a> BBC: Paing Takhon, who has millions of fans, took part in protests against a military coup. 
