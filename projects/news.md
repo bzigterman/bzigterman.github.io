@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:40 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City School System, the Nation’s Largest, to Reopen With More Testing</a> NYT: The spread of Omicron will lead to a second straight year of subdued New Year’s celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive but don’t have symptoms. 
+ <p class="updated_time"> 02:16 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Lowers Estimate of Omicron’s Prevalence in U.S.</a> NYT: The estimate dropped from about 73 percent to 23 percent for the week ending Dec. 18, and the agency now says Omicron became dominant the following week. A doctors’ protest over understaffing is causing chaos at Delhi hospitals. 
+ <p class="updated_time"> 02:12 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/new-delhi-doctor-strike.html">Doctors Strike Over Understaffing Disrupts Delhi Hospitals</a> NYT: While the country’s overall case count remains low, daily infections in the capital region have risen by more than 300 percent over the past two weeks. 
  <p class="updated_time"> 01:25 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59812890?at_medium=RSS&at_campaign=KARANGA">Jordan MPs fighting in parliament session live-streamed on local television</a> BBC: The argument began as the chamber debated constitutional reforms, including gender equality. 
  <p class="updated_time"> 01:16 PM CT, Dec. 28 </p> 
@@ -37,12 +39,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/europe/windsor-castle-intruder.html">Britain’s Crossbow Rules in the Cross Hairs After Windsor Castle Breach</a> NYT: Britain’s Home Office said it was “considering options to strengthen controls” on the weapons, part of a continuing review, after a man was arrested in castle grounds with one. 
  <p class="updated_time"> 10:34 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/refugees-afghanistan-pakistan.html">Born and Raised in Pakistan, but Living in Legal Limbo</a> NYT: Pakistan has refused to grant the children of Afghan refugees full rights as citizens. A lack of identification documents limits their livelihoods and puts them at risk of deportation. 
- <p class="updated_time"> 10:20 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/new-delhi-doctor-strike.html">Doctors Strike Over Understaffing Disrupts Delhi Hospitals</a> NYT: While the country’s overall case count remains low, daily infections in the capital region have risen by more than 300 percent over the past two weeks. 
  <p class="updated_time"> 10:16 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59808883?at_medium=RSS&at_campaign=KARANGA">Egyptian pharaoh's mummy digitally unwrapped for first time</a> BBC: CT scans allowed archaeologists to study Amenhotep I's body and learn about his death and burial. 
  <p class="updated_time"> 09:25 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/india-mother-teresa-charity-crackdown.html">India Cuts Off Foreign Funding of Mother Teresa’s Charity</a> NYT: The move is part of a tightening of rules on organizations financed by donations from abroad and comes amid a rise in attacks on religious minorities. 
+ <p class="updated_time"> 09:11 AM CT, Dec. 28 </p> 
+ <a href="https://www.wsj.com/articles/omicron-disruptions-prompt-easing-of-some-restrictions-11640692295">Omicron Reinfections Can Trigger Milder Symptoms, New CDC Research Shows</a> WSJ: The CDC review of a cluster of Covid-19 cases in Nebraska came as the Omicron variant spreads in the U.S. 
+ <p class="updated_time"> 07:55 AM CT, Dec. 28 </p> 
+ <a href="https://www.wsj.com/articles/russian-court-orders-countrys-oldest-human-rights-group-to-close-11640714322">Russian Court Orders Prominent Human Rights Group to Close</a> WSJ: The ruling against International Memorial comes as President Vladimir Putin squeezes space for dissent. 
  <p class="updated_time"> 07:40 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59809821?at_medium=RSS&at_campaign=KARANGA">South Africa court blocks Shell's oil exploration</a> BBC: Environmentalists hail the ruling as a victory in their efforts to protect marine life. 
  <p class="updated_time"> 07:14 AM CT, Dec. 28 </p> 
@@ -73,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/europe/nord-stream-pipeline-germany-russia.html">Germany Wants Its Russian Pipeline. German Allies Aren’t Sure It’s a Good Idea.</a> NYT: The Nord Stream 2 Russia-to-Germany pipeline could offer plentiful natural gas. But tensions with Vladimir Putin are keeping it out of reach. 
  <p class="updated_time"> 01:55 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59806939?at_medium=RSS&at_campaign=KARANGA">Snow buries north and west Japan</a> BBC: The snow has meant grounded flights and stranded travellers as people are told to stay indoors. 
- <p class="updated_time"> 01:11 AM CT, Dec. 28 </p> 
- <a href="https://www.wsj.com/articles/omicron-disruptions-prompt-easing-of-some-restrictions-11640692295">Omicron Disruptions Prompt Easing of Some Restrictions</a> WSJ: Governments and policy advisers are showing signs of taking a lighter touch toward the variant, reducing quarantine times and in some instances forgoing distancing restrictions as they try to keep their economies moving. 
  <p class="updated_time"> 10:28 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/africa/desmond-tutu-mourning.html">South Africa Begins a Week of Mourning for Desmond Tutu</a> NYT: The cleric and anti-apartheid activist’s funeral will be held on Jan. 1 at the cathedral where he served as South Africa’s first Black archbishop. 
  <p class="updated_time"> 09:22 PM CT, Dec. 27 </p> 
@@ -117,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/iraq-election-muqtada-al-sadr.html">Iraq Confirms Election Gains for Muqtada al-Sadr</a> NYT: A court certified October’s parliamentary vote that gave Muqtada al-Sadr’s party a plurality of seats, clearing a path for a government to be formed. 
  <p class="updated_time"> 11:09 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/europe/poland-media-law.html">Poland’s President Says He Will Veto Media Bill Opposed by U.S.</a> NYT: The measure backed by the nationalist governing coalition sought to limit foreign influence and could have imperiled the license of an American-owned TV station. 
- <p class="updated_time"> 11:05 AM CT, Dec. 27 </p> 
- <a href="https://www.wsj.com/articles/india-bars-foreign-donations-to-christian-group-founded-by-mother-teresa-11640642739">India Bars Foreign Donations to Christian Group Founded by Mother Teresa</a> WSJ: The decision came amid what some Christian leaders call an increasingly hostile environment for their religion in the majority-Hindu country. 
  <p class="updated_time"> 09:28 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/carnival-cruise-covid.html">Carnival Cruise Ship Returns to Miami With 'Small Number' of Covid Cases</a> NYT: The Carnival Freedom is the latest Florida cruise ship to be disrupted by the coronavirus as the Omicron variant drives up cases in the U.S. 
  <p class="updated_time"> 06:02 AM CT, Dec. 27 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:32 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/spirit-airlines-unruly-passenger/index.html">Tennessee woman charged after alleged assault and attempting to open cabin door on Spirit flight</a> CNN: A Tennessee woman turned herself into the FBI on Tuesday after she was accused of assaulting two flight attendants during a Spirit Airlines flight last month, the Justice Department announced. 
  <p class="updated_time"> 12:59 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/flight-attendants-cdc-airline-quarantine-change-526213">Flight attendants fume as CDC gives airlines what they want on quarantine change</a> Politico: Just days before the CDC announced the change, the airline industry united to press for a shortened quarantine timeframe. 
  <p class="updated_time"> 12:52 PM CT, Dec. 28 </p> 
@@ -346,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/business/economy/inflation-pce-index-fed.html">PCE Index Hit Highest Level in November Since 1982</a> NYT: The Fed’s preferred inflation gauge climbed at the fastest pace in nearly four decades, as Omicron clouded the outlook for 2022. 
  <p class="updated_time"> 05:56 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/capitol-riot-january-6.html">Jan. 6 Defendants Send a Holiday Card: ‘Merry Christmas Patriot!’</a> NYT: Holiday card greetings from defendants awaiting trial on charges related to the Capitol riot reflect their status as symbolic martyrs for the Republican base. 
- <p class="updated_time"> 05:54 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/saudi-ballistic-missiles-china/index.html">CNN Exclusive: US intel and satellite images show Saudi Arabia is now building its own ballistic missiles with help of China</a> CNN: US intelligence agencies have assessed that Saudi Arabia is now actively manufacturing its own ballistic missiles with the help of China, CNN has learned, a development that could have significant ripple effects across the Middle East and complicate the Biden administration's efforts to restrain the nuclear ambitions of Iran, the Saudis' top regional rival. 
  <p class="updated_time"> 05:30 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/political-wish-lists-2022.html">7 Political Wish Lists for the New Year</a> NYT: What do the president, vice president, former president and party leaders want in 2022? We made our best guess. 
  <p class="updated_time"> 05:15 PM CT, Dec. 23 </p> 
