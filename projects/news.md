@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:29 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid News: Omicron Hasn’t Swayed the Least Vaccinated U.S. Counties</a> NYT: To minimize disruptions as virus cases surge, the C.D.C. halved the recommended isolation period for infected Americans who show no symptoms, to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
+ <p class="updated_time"> 11:16 PM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59752091?at_medium=RSS&at_campaign=KARANGA">Australia: Hundreds given false Covid results in Sydney lab error</a> BBC: At least 886 people were told they did not have Covid, when they in fact had tested positive. 
  <p class="updated_time"> 10:40 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807119?at_medium=RSS&at_campaign=KARANGA">Paing Takhon: Myanmar celebrity gets three years jail for mass protests</a> BBC: Paing Takhon, who has millions of fans, took part in protests against a military coup. 
  <p class="updated_time"> 10:28 PM CT, Dec. 27 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59800515?at_medium=RSS&at_campaign=KARANGA">Somalia PM Roble defiant after President Farmajo suspends him</a> BBC: The PM says the president's move over land theft allegations is an attempted coup. 
  <p class="updated_time"> 09:28 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/carnival-cruise-covid.html">Carnival Cruise Ship Returns to Miami With 'Small Number' of Covid Cases</a> NYT: The Carnival Freedom is the latest Florida cruise ship to be disrupted by the coronavirus as the Omicron variant drives up cases in the U.S. 
- <p class="updated_time"> 09:15 AM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59800519?at_medium=RSS&at_campaign=KARANGA">Mauritius oil spill: MV Wakashio ship captain sentenced</a> BBC: The magistrate says she hopes the 20-month sentence for the oil spill will "serve as a lesson". 
  <p class="updated_time"> 09:00 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/europe/spain-king-juan-carlos.html">Will Juan Carlos, Spain's Disgraced King, Get a Royal Homecoming?</a> NYT: In the years since Juan Carlos, Spain’s former king, fled the country to escape corruption investigations, some of the cases have been resolved or dropped. Now Spaniards are weighing whether they want him back. 
  <p class="updated_time"> 08:29 AM CT, Dec. 27 </p> 
