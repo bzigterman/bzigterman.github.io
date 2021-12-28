@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:47 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid News: Omicron Hasn’t Swayed the Least Vaccinated U.S. Counties</a> NYT: To minimize disruptions as virus cases surge, the C.D.C. halved the recommended isolation period for infected Americans who show no symptoms, to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
+ <p class="updated_time"> 04:35 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/asia/delta-flight-shanghai-seattle.html">Delta Says Flight to Shanghai Was Turned Round in Midair Because of Cleaning Rules</a> NYT: The carrier said that it ordered the plane back last week because of sanitation requirements that were “not operationally viable.” 
  <p class="updated_time"> 04:23 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59808620?at_medium=RSS&at_campaign=KARANGA">Austria's Innsbruck airport denies 110 Britons entry over new Covid rules</a> BBC: Innsbruck airport in Austria refused to let in tourists caught out by updated restrictions. 
- <p class="updated_time"> 04:17 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid News: Omicron Hasn’t Swayed the Least Vaccinated U.S. Counties</a> NYT: To minimize disruptions as virus cases surge, the C.D.C. halved the recommended isolation period for infected Americans who show no symptoms, to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
  <p class="updated_time"> 04:17 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/where-vaccination-rates-are-low-in-the-us-the-reasons-vary.html">Where vaccination rates are low in the U.S., the reasons vary.</a> NYT: As the Omicron variant surges, and experts say that vaccinations strongly protect against severe illness, U.S. public health officials are closely examining ways to reach the least-vaccinated areas. 
  <p class="updated_time"> 04:00 AM CT, Dec. 28 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/africa/south-africa-covid-quarantine.html">South Africa Ends Quarantining and Contact Tracing</a> NYT: The new regulations follow data showing that while the Omicron variant is highly transmissible, it has not caused high rates of severe disease in South Africa. 
  <p class="updated_time"> 04:12 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/south-africa-united-states-travel.html">Travel Between U.S. and Southern Africa Will Resume, White House Says</a> NYT: Biden will end the ban at midnight on Dec. 31, reversing restrictions imposed last month. South Africa criticized the ban as discriminatory. 
- <p class="updated_time"> 07:23 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/europe/covid-britain-omicron-christmas.html">Despite Omicron Wave, Britons Are Set on Not Losing Another Christmas</a> NYT: For Christmas shoppers in central London this week, little seemed to dampen their spirits. But there was an undercurrent that the city was bracing for further coronavirus restrictions. 
 
 
 </details>
