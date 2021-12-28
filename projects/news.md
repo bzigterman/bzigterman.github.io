@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:06 PM CT, Dec. 27 </p> 
+ <p class="updated_time"> 10:28 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/africa/desmond-tutu-mourning.html">South Africa Begins a Week of Mourning for Desmond Tutu</a> NYT: The cleric and anti-apartheid activist’s funeral will be held on Jan. 1 at the cathedral where he served as South Africa’s first Black archbishop. 
+ <p class="updated_time"> 10:22 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid News: Omicron Hasn’t Swayed the Least Vaccinated U.S. Counties</a> NYT: To minimize disruptions as virus cases surge, the C.D.C. halved the recommended isolation period for infected Americans who show no symptoms, to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
+ <p class="updated_time"> 10:19 PM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59805829?at_medium=RSS&at_campaign=KARANGA">Covid: France tightens restrictions amid Omicron surge</a> BBC: Germany and Greece also toughen measures in a bid to tackle infections amid fears about Omicron. 
  <p class="updated_time"> 09:42 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-59806499?at_medium=RSS&at_campaign=KARANGA">Elon Musk criticised after China space complaint to UN</a> BBC: The SpaceX boss was attacked on Chinese social media after the complaint was made public. 
  <p class="updated_time"> 09:22 PM CT, Dec. 27 </p> 
@@ -28,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:19 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/asia/south-korea-pfizer-coronavirus-pill.html">South Korea approves Pfizer’s coronavirus pill for emergency use.</a> NYT: It is the first pill approved in the nation to treat symptoms of the coronavirus. 
  <p class="updated_time"> 06:13 PM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59731621?at_medium=RSS&at_campaign=KARANGA">83 movie: Reliving India’s epic cricket triumph</a> BBC: A Bollywood ode to India's 1983 cricket world cup win recreates one of the greatest upsets in sports history. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59731621?at_medium=RSS&at_campaign=KARANGA">83 movie: Bollywood relives India’s epic cricket triumph</a> BBC: A Bollywood ode to India's 1983 cricket world cup win recreates one of the greatest upsets in sports history. 
  <p class="updated_time"> 06:11 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-59722297?at_medium=RSS&at_campaign=KARANGA">The African nation aiming to be a hydrogen superpower</a> BBC: Namibia wants to use its abundance of sunshine and wind power to make and export hydrogen. 
  <p class="updated_time"> 06:10 PM CT, Dec. 27 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59761535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Children in Kabul working for a piece of bread</a> BBC: More and more Afghan children are having to work to support their families, amidst an economic collapse. 
  <p class="updated_time"> 05:55 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59806040?at_medium=RSS&at_campaign=KARANGA">Covid: US halves isolation time for asymptomatic infection</a> BBC: The Centres for Disease Control (CDC) recommends five days isolation for asymptomatic Covid cases. 
- <p class="updated_time"> 04:21 PM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59805829?at_medium=RSS&at_campaign=KARANGA">Covid: France tightens restrictions amid Omicron surge</a> BBC: Remote working will become compulsory from 3 January but there will be no New Year's Eve curfew. 
  <p class="updated_time"> 04:19 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59806039?at_medium=RSS&at_campaign=KARANGA">US animal shelter shocked after 800 parakeets handed over</a> BBC: A Detroit animal shelter said the birds were handed over in a "very unhealthy situation". 
  <p class="updated_time"> 04:05 PM CT, Dec. 27 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/27/1068335019/what-lies-ahead-for-iran-and-its-new-president">What lies ahead for Iran and its new president</a> NPR: Iran's new president will be looking to show he can improve the country's economy and to tamp down public dissent among Iranians. that might hinge on its nuclear program and relations with the West. 
  <p class="updated_time"> 03:35 PM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068334991/british-columbia-is-looking-at-how-it-can-adapt-to-prepare-for-more-climate-disa">British Columbia is looking at how it can adapt to prepare for more climate disasters</a> NPR: British Columbia was devastated by natural disasters this year attributed to climate change. The Canadian province is evaluating how to prepare for the next disasters. 
- <p class="updated_time"> 02:30 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/africa/desmond-tutu-mourning.html">South Africa Begins a Week of Mourning for Desmond Tutu</a> NYT: The cleric and anti-apartheid activist’s funeral will be held on Jan. 1 at the cathedral where he served as South Africa’s first Black archbishop. 
  <p class="updated_time"> 01:00 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/africa/somalia-prime-minister-suspended.html">Somalia’s President Suspends Prime Minister Over Corruption Allegations</a> NYT: The premier, Mohamed Hussein Roble, defied the order to step down as tensions continued over long-delayed elections. 
  <p class="updated_time"> 12:14 PM CT, Dec. 27 </p> 
