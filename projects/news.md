@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:12 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile’s Constitutional Rewrite Confronts Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
- <p class="updated_time"> 11:06 AM CT, Dec. 28 </p> 
+ <p class="updated_time"> 11:31 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City School System, the Nation’s Largest, to Reopen With More Testing</a> NYT: The spread of Omicron will lead to a second straight year of subdued New Year’s celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive but don’t have symptoms. 
- <p class="updated_time"> 11:04 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/sport/av/africa/59812889?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Remembered by daughter as a 'hugger'</a> BBC: Nontombi Naomi Tutu says her father "went to meet his God, ready and willing." 
+ <p class="updated_time"> 11:23 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile’s Constitutional Rewrite Confronts Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
+ <p class="updated_time"> 11:22 AM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59813216?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Remembered by daughter as a 'hugger'</a> BBC: Nontombi Naomi Tutu says her father "went to meet his God, ready and willing." 
+ <p class="updated_time"> 11:18 AM CT, Dec. 28 </p> 
+ <a href="https://www.npr.org/2021/12/28/1068500102/india-blocks-foreign-funding-for-mother-teresas-charity">India blocks foreign funding for Mother Teresa's charity</a> NPR: The Indian government says it has refused to renew a permit that allows the Missionaries of Charity to use foreign funds to operate orphanages and hospices across the country. 
+ <p class="updated_time"> 11:14 AM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59810706?at_medium=RSS&at_campaign=KARANGA">Myanmar: Save the Children says army attack killed staff</a> BBC: The charity says two of its workers, both new fathers, are among the 35 bodies found on 24 December. 
  <p class="updated_time"> 11:00 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/nyregion/nyc-schools-covid-testing-students.html">NYC Schools Will Reopen with More Covid-19 Testing to Limit Closures</a> NYT: Instead of delaying the start of in-person school and pivoting to remote learning, New York City will aim to detect more infections to mitigate disruptions. 
  <p class="updated_time"> 10:52 AM CT, Dec. 28 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59809821?at_medium=RSS&at_campaign=KARANGA">South Africa court blocks Shell's oil exploration</a> BBC: Environmentalists hail the ruling as a victory in their efforts to protect marine life. 
  <p class="updated_time"> 07:14 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1067207363/2021-top-stories-international-npr-correspondents-recommend">These are the top stories NPR's correspondents around the world recommend from 2021</a> NPR: We asked the network's international journalists to pick one story from the year you should check out. Here are their selections. 
- <p class="updated_time"> 07:12 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59810706?at_medium=RSS&at_campaign=KARANGA">Myanmar: Save the Children says army attack killed staff</a> BBC: The charity says two of its workers, both new fathers, are among the 35 bodies found on 24 December. 
  <p class="updated_time"> 07:07 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Hopes Its Basketball Patron Advances to National Status</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
  <p class="updated_time"> 06:13 AM CT, Dec. 28 </p> 
@@ -42,7 +44,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:57 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/china-scholar-jonathan-spence-dies-at-85-11640697976">China Scholar Jonathan Spence Dies at Age 85</a> WSJ: The Yale University historian brought China and its past alive to a broad audience through widely read books and popular lectures. 
  <p class="updated_time"> 05:56 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59810383?at_medium=RSS&at_campaign=KARANGA">Alexa tells 10-year-old girl to put penny in plug socket</a> BBC: Amazon has fixed its voice assistant so that it will not suggest the dangerous “challenge” again. 
+ <a href="https://www.bbc.co.uk/news/technology-59810383?at_medium=RSS&at_campaign=KARANGA">Alexa tells 10-year-old girl to touch live plug with penny</a> BBC: Amazon has fixed its voice assistant so that it will not suggest the dangerous “challenge” again. 
  <p class="updated_time"> 05:48 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/u-s-russia-set-january-talks-on-ukraine-nato-growth-11640709604">U.S., Russia Set Schedule for Ukraine Talks in January</a> WSJ: The nations agreed to meet on Jan. 10, amid tensions over Russian forces deployed near Ukraine and Moscow’s demands that NATO renounce any expansion eastward into the former Soviet bloc. 
  <p class="updated_time"> 05:09 AM CT, Dec. 28 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/stories-59733533?at_medium=RSS&at_campaign=KARANGA">‘The doctors came and I had to tell my father he was dying’</a> BBC: Is it always appropriate for relatives to interpret for deaf loved ones? 
  <p class="updated_time"> 06:01 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59761535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Children in Kabul working for a piece of bread</a> BBC: More and more Afghan children are having to work to support their families, amidst an economic collapse. 
- <p class="updated_time"> 04:19 PM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59806039?at_medium=RSS&at_campaign=KARANGA">US animal shelter shocked after 800 parakeets handed over</a> BBC: A Detroit animal shelter said the birds were handed over in a "very unhealthy situation". 
  <p class="updated_time"> 03:53 PM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/27/1068298117/-17-trillion-thats-how-much-the-pandemic-could-take-away-from-todays-kids">$17 trillion: That's how much the pandemic could take away from today's kids</a> NPR: A new report from UNESCO estimates the potential lifetime earnings lost to the world's children due to school closings. But there are ways to prevent this from happening. 
  <p class="updated_time"> 03:46 PM CT, Dec. 27 </p> 
@@ -132,6 +132,8 @@ permalink: /projects/news/
  <p class="updated_time"> 06:06 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59748260?at_medium=RSS&at_campaign=KARANGA">'I'm Jewish and black - where do I fit in?'</a> BBC: Black and Jewish journalist Nadine Batchelor-Hunt travels to Israel to meet the Ethiopian community and explore this dual identity. 
  <p class="updated_time"> 06:00 PM CT, Dec. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59762810?at_medium=RSS&at_campaign=KARANGA">Demi Skipper plans to keep trading after hairpin-to-house swap</a> BBC: TikToker Demi Skipper made headlines when she successfully traded items until she got a house. 
+ <p class="updated_time"> 06:00 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-51908404?at_medium=RSS&at_campaign=KARANGA">Covid-19: India's unwinnable battle against spitting</a> BBC: The pandemic briefly renewed efforts to curb an infamous Indian habit - spitting in public. 
  <p class="updated_time"> 04:01 PM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068160191/remembering-the-legacy-of-archbishop-desmond-tutu">Remembering the legacy of Archbishop Desmond Tutu</a> NPR: Journalist Kate Bartlett speaks with Elissa Nadworny about what Desmond Tutu meant to the people of South Africa and the fight for social justice more broadly. 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/1068071004/cape-town-local-remembers-archbishop-desmond-tutu">Cape Town local remembers Archbishop Desmond Tutu</a> NPR: In his hometown of Cape Town, South Africans mourn Archbishop Desmond Tutu. 
  <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068063599/sudanese-activists-want-the-u-s-to-support-their-push-for-democracy">Sudanese activists want the U.S. to support their push for democracy</a> NPR: NPR's Eyder Peralta speaks with Ambassador Jeffrey Feltman, U.S. Special Envoy for the Horn of Africa, about the ongoing conflicts in that region. 
- <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
- <a href="https://www.npr.org/2021/12/26/1068063592/a-revolutionary-movement-for-democracy-has-taken-hold-in-sudan-led-by-young-peop">A revolutionary movement for democracy has taken hold in Sudan, led by young people</a> NPR: A huge network of resistance committees has transformed public protest in Sudan, challenging the new junta. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/insider/in-congo-bolivia-and-beyond-where-the-green-future-begins.html">In Congo, Bolivia and Beyond, Where the Green Future Begins</a> NYT: The Times’s Race to the Future series is focused on the competition for electric-car resources that will shape the 21st century. 
  <p class="updated_time"> 01:28 AM CT, Dec. 26 </p> 
