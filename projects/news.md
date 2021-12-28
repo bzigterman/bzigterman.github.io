@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:19 PM CT, Dec. 28 </p> 
+ <p class="updated_time"> 05:30 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Lowers Estimate of Omicron’s Prevalence in U.S.</a> NYT: The estimate dropped from about 73 percent to 23 percent for the week ending Dec. 18, and the agency now says Omicron became dominant the following week. A doctors’ protest over understaffing is causing chaos at Delhi hospitals. 
  <p class="updated_time"> 05:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/health/covid-omicron-antibodies-delta.html">Omicron Variant May Help Beat Delta, Study Suggests</a> NYT: In the lab, antibodies produced during an Omicron infection protected against Delta. If Omicron dominates in the real world, that could lead to a less dire future. 
@@ -202,7 +202,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:38 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/us-new-daily-high-covid-526223">U.S. sets new daily high for Covid cases</a> Politico: The Centers for Disease Control and Prevention’s tally represents a grim new milestone in the coronavirus pandemic. 
- <p class="updated_time"> 05:21 PM CT, Dec. 28 </p> 
+ <p class="updated_time"> 05:37 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/business/media/nyt-project-veritas.html">Judge Says New York Times Can Retain Project Veritas Memos, for Now</a> NYT: A New York appeals court said the paper did not need to immediately give up or destroy documents related to the conservative group. The paper is still prevented from publishing certain documents. 
  <p class="updated_time"> 05:14 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/andrew-cuomo-westchester-county-no-charges/index.html">Ex-New York Gov. Cuomo will not be criminally charged by Westchester County district attorney over alleged inappropriate conduct</a> CNN: Westchester District Attorney Miriam Rocah announced on Tuesday her office will not criminally charge former New York Gov. Andrew Cuomo after a "thorough" investigation into allegations of inappropriate conduct made by two women against him. 
