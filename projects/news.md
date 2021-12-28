@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:24 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/europe/russia-memorial-human-rights.html">Russian Court Orders Liquidation of the Human Rights Group Memorial </a> NYT: The Supreme Court ruled that Memorial International, which chronicled political repression in Russia, must be liquidated. 
  <p class="updated_time"> 05:09 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/saudi-arabia-films-movies.html">As Other Arab States Falter, Saudi Arabia Seeks to Become a Cultural Hub</a> NYT: While conflicts and crises have battered Arab cultural capitals, Saudi Arabia is hosting film festivals and bankrolling new movies. 
  <p class="updated_time"> 05:05 AM CT, Dec. 28 </p> 
@@ -62,7 +64,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:01 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59761535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Children in Kabul working for a piece of bread</a> BBC: More and more Afghan children are having to work to support their families, amidst an economic collapse. 
  <p class="updated_time"> 06:01 PM CT, Dec. 27 </p> 
- <a href="https://www.wsj.com/articles/egyptian-pharoahs-mummy-digitally-unwrapped-after-3-500-years-11640667662">Pharoah's Mummy Digitally Unwrapped After 3,500 Years</a> WSJ: Scientists use CT scans to peek inside the remains of the twice-buried Amenhotep I. 
+ <a href="https://www.wsj.com/articles/egyptian-pharaohs-mummy-digitally-unwrapped-after-3-500-years-11640667662">Pharaoh's Mummy Digitally Unwrapped After 3,500 Years</a> WSJ: Scientists use CT scans to peek inside the remains of the twice-buried Amenhotep I. 
  <p class="updated_time"> 04:45 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59805894?at_medium=RSS&at_campaign=KARANGA">Kylian Mbappe & Robert Lewandowski voice concerns over a biennial World Cup</a> BBC: France striker Kylian Mbappe and Poland forward Robert Lewandowski voice concerns over holding a World Cup every two years. 
  <p class="updated_time"> 04:19 PM CT, Dec. 27 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/canada/another-covid-christmas.html">Another Covid Christmas …</a> NYT: December went by like an Omicron advent calendar, each passing day revealing how the virus’s trajectory would change hoped-for holiday plans. 
  <p class="updated_time"> 04:00 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/africa/africa-coronavirus-omicron.html">Many African Countries Toughen Covid Restrictions as Fourth Wave Spreads</a> NYT: Infections have more than doubled or tripled in many countries, prompting the authorities to reimpose curfews and quarantines and introduce vaccine mandates as the holiday season gets underway. 
- <p class="updated_time"> 12:08 AM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
  <p class="updated_time"> 04:13 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/africa/south-africa-covid-quarantine.html">South Africa Ends Quarantining and Contact Tracing</a> NYT: The new regulations follow data showing that while the Omicron variant is highly transmissible, it has not caused high rates of severe disease in South Africa. 
 
