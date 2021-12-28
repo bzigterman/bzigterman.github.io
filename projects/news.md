@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:25 PM CT, Dec. 28 </p> 
+ <p class="updated_time"> 03:38 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Lowers Estimate of Omicron’s Prevalence in U.S.</a> NYT: The estimate dropped from about 73 percent to 23 percent for the week ending Dec. 18, and the agency now says Omicron became dominant the following week. A doctors’ protest over understaffing is causing chaos at Delhi hospitals. 
+ <p class="updated_time"> 03:38 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/arts/hugh-jackman-covid-the-music-man.html">Hugh Jackman Announces He Has Covid-19</a> NYT: The show joins other productions that have been suspended, including the Temptations musical “Ain’t Too Proud,” which will close for good on Jan. 16. 
+ <p class="updated_time"> 03:34 PM CT, Dec. 28 </p> 
+ <a href="https://www.npr.org/2021/12/28/1068587831/most-countries-will-fall-short-of-global-initiative-to-vaccinate-40-of-populatio">Most countries will fall short of global initiative to vaccinate 40% of populations</a> NPR: COVAX was set up to enable global access to vaccines against COVID. Yet nearly 80 countries will miss a target of vaccinating 40% of their populations by year's end. Here's what went wrong. 
+ <p class="updated_time"> 03:34 PM CT, Dec. 28 </p> 
+ <a href="https://www.npr.org/2021/12/28/1068587810/russias-supreme-court-shuts-down-human-rights-group-that-preserved-history">Russia's Supreme Court shuts down human rights group that preserved history</a> NPR: For decades, the Russian human rights group Memorial has tried to preserve the story of the Soviet Union's darkest years. The country's high court ordered it closed Tuesday. 
  <p class="updated_time"> 03:23 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile Rewrites Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
  <p class="updated_time"> 03:23 PM CT, Dec. 28 </p> 
@@ -165,10 +171,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59796716?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu death: South Africans remember anti-apartheid leader</a> BBC: The archbishop, who was a driving force in the anti-apartheid movement, has died aged 90. 
  <p class="updated_time"> 09:06 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/alfredo-lupi-janitor-italy.html">A Janitor’s Colleagues Put Him on the Fast Track to Retirement</a> NYT: An Italian factory worker was dealing with a lifelong impairment that made it hard to work, but he wasn’t in a position to retire. Then his co-workers gave him 20 months’ worth of vacation days. 
- <p class="updated_time"> 08:50 AM CT, Dec. 26 </p> 
- <a href="https://www.npr.org/2021/12/26/1068076531/3-members-of-k-pop-sensation-bts-have-tested-positive-for-covid-19">3 members of K-pop sensation BTS have tested positive for COVID-19 </a> NPR: Nearly half of the seven-member band have now tested positive, after returning to South Korea from abroad earlier this month. 
- <p class="updated_time"> 07:06 AM CT, Dec. 26 </p> 
- <a href="https://www.npr.org/2021/12/26/1068071004/cape-town-local-remembers-archbishop-desmond-tutu">Cape Town local remembers Archbishop Desmond Tutu</a> NPR: In his hometown of Cape Town, South Africans mourn Archbishop Desmond Tutu. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/insider/in-congo-bolivia-and-beyond-where-the-green-future-begins.html">In Congo, Bolivia and Beyond, Where the Green Future Begins</a> NYT: The Times’s Race to the Future series is focused on the competition for electric-car resources that will shape the 21st century. 
  <p class="updated_time"> 01:28 AM CT, Dec. 26 </p> 
@@ -196,6 +198,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:10 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/fda-antigen-tests-reduced-sensitivity-omicron-526217">FDA: Antigen tests may have reduced sensitivity detecting Omicron</a> Politico: The new warning is based on preliminary studies by the National Institutes of Health’s Rapid Acceleration of Diagnostics initiative. 
+ <p class="updated_time"> 03:34 PM CT, Dec. 28 </p> 
+ <a href="https://www.npr.org/2021/12/28/1068587838/newsom-proposes-individuals-sue-others-over-banned-guns-like-the-texas-abortion-">Newsom proposes individuals sue others over banned guns, like the Texas abortion law</a> NPR: After the U.S. Supreme Court refused to block private citizens from suing abortion providers, California Gov. Gavin Newsom said he wants to use the Texas strategy as a model for gun control. 
+ <p class="updated_time"> 03:14 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/andrew-cuomo-westchester-county-no-charges/index.html">Ex-New York Gov. Cuomo will not be criminally charged by Westchester County district attorney over alleged inappropriate conduct</a> CNN: Westchester District Attorney Miriam Rocah announced on Tuesday her office will not criminally charge former New York Gov. Andrew Cuomo after a "thorough" investigation into allegations of inappropriate conduct made by two women against him. 
+ <p class="updated_time"> 03:11 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/covid-omicron-kids-hospitalizations-what-matters/index.html">Analysis: Rising child hospitalizations loom large over US Covid-19 response</a> CNN: Public health experts have sought for months to find the right message that will resonate with the many Americans who remain unconvinced about the very real danger of Covid-19. 
  <p class="updated_time"> 02:51 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/no-surprises-act-2022/index.html">Patients won't have to fear as many surprise medical bills come January</a> CNN: Americans are set to have one less health care headache in 2022. 
  <p class="updated_time"> 02:47 PM CT, Dec. 28 </p> 
@@ -228,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1067206141/biden-federal-judges-nominations-diverse">Biden had a productive year picking federal judges. The job could get tougher in 2022</a> NPR: President Biden has gotten a diverse group of 40 federal judges confirmed in 2021, the most for a new president since the Reagan era. 
  <p class="updated_time"> 02:16 AM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/richard-marcinko-dead-seal-team-six/index.html">Richard Marcinko, the first head of the elite SEAL Team Six, has died</a> CNN: Richard Marcinko, a legendary military figure known for leading SEAL Team Six when the covert special operations unit was in its infancy, died Saturday, according to his son and the National Navy SEAL Museum. He was 81. 
- <p class="updated_time"> 12:25 AM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/joe-biden-covid-19-testing-failure/index.html">Analysis: Biden grapples with a Covid-19 testing failure that could have been foreseen</a> CNN: President Joe Biden and his team repeatedly promised more Covid-19 testing, including at-home kits that deliver rapid results, but they are now admitting a virus that is more adaptable than the politicians who fight it has outpaced them again. 
  <p class="updated_time"> 07:26 PM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/fauci-domestic-flight-vaccine-mandate-526194">Fauci: ‘I don’t think people should expect’ a domestic flight vaccine mandate</a> Politico: “It’s on the table,” he added. “But that doesn’t mean it’s going to happen. I doubt if we’re going to see something like that in the reasonably foreseeable future.” 
  <p class="updated_time"> 05:25 PM CT, Dec. 27 </p> 
@@ -312,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/24/1067889618/encore-lies-betrayal-and-competition-as-lawmakers-deck-the-halls-of-congress">Encore: Lies, betrayal and competition as lawmakers deck the halls of Congress</a> NPR: Forget the Build Back Better bill or the Jan. 6 investigation. Right now, some members of Congress seem to be more focused on the holiday decorations outside their Capitol Hill offices. 
  <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
  <a href="https://www.npr.org/2021/12/24/1067889526/what-the-pandemic-could-mean-for-the-economy-in-2022">What the pandemic could mean for the economy in 2022</a> NPR: The country's economic health is largely being defined by the coronavirus pandemic. The omicron variant is now changing expectations for the economy in 2022. 
- <p class="updated_time"> 01:49 PM CT, Dec. 24 </p> 
- <a href="https://www.npr.org/2021/12/24/1067875042/the-u-s-is-lifting-its-omicron-linked-travel-ban-on-southern-africa">The U.S. is lifting its omicron-linked travel ban on southern Africa</a> NPR: The Biden administration on Friday said it was ordering the lifting of COVID-19 travel restrictions imposed earlier on eight  countries. The WHO had argued they were ineffective and unfair. 
  <p class="updated_time"> 12:21 PM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/january-6-video-capitol-hill-riot/index.html">New January 6 video shows three hours of violent and chaotic assault on police </a> CNN: The Justice Department this week released a three-hour video of a battle between rioters and the police at the US Capitol Building on January 6 where rioters brandished weapons, officers were viciously beaten, and a member of the mob died on Capitol steps. 
  <p class="updated_time"> 10:36 AM CT, Dec. 24 </p> 
