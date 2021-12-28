@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:47 PM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59812877?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell jury told to meet every day because of Covid</a> BBC: The judge in Ghislaine Maxwell's sex trafficking trial asks jurors to deliberate every day. 
+ <p class="updated_time"> 04:43 PM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59814162?at_medium=RSS&at_campaign=KARANGA">Robert E. Lee: Virginia workers open Civil War-era time capsule</a> BBC: The 130-year-old capsule contained flags, books and bullets related to the Confederate States. 
  <p class="updated_time"> 04:41 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/russia-memorial-human-rights.html">Russian Court Orders Liquidation of the Human Rights Group Memorial </a> NYT: The Supreme Court ruled that Memorial International, which chronicled political repression in Russia, must be liquidated. 
  <p class="updated_time"> 04:41 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/us/politics/us-russia-ukraine-talks.html">U.S. and Russia Agree to Talks Amid Growing Tensions Over Ukraine</a> NYT: The Biden administration has not said who will lead the U.S. delegation next month as Russian officials demand commitments from NATO. 
+ <a href="https://www.nytimes.com/2021/12/28/us/politics/nato-russia-ukrain-us.html">U.S. and Russia Agree to Talks Amid Growing Tensions Over Ukraine</a> NYT: The Biden administration has not said who will lead the U.S. delegation next month as Russian officials demand commitments from NATO. 
  <p class="updated_time"> 04:34 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Lowers Estimate of Omicron’s Prevalence in U.S.</a> NYT: The estimate dropped from about 73 percent to 23 percent for the week ending Dec. 18, and the agency now says Omicron became dominant the following week. A doctors’ protest over understaffing is causing chaos at Delhi hospitals. 
  <p class="updated_time"> 04:11 PM CT, Dec. 28 </p> 
@@ -49,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/codeswitch/2021/12/28/260448064/cooking-up-food-and-identity-in-pailin-chongchitnants-hot-thai-kitchen">Cooking up food and identity in Pailin Chongchitnant's "Hot Thai Kitchen"</a> NPR: When chef Pailin Chongchitnant realized that cable television wasn't ready for a Thai cooking show, she started her own on YouTube. On it, she breaks down some of the misconceptions about the cuisine. 
  <p class="updated_time"> 12:25 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Hopes Its Basketball Patron Advances to National Status</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
- <p class="updated_time"> 12:08 PM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59812877?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell jury faces longer hours because of Covid</a> BBC: The judge in Ghislaine Maxwell's sex trafficking trial asks jurors to meet for an extra hour a day. 
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/omicron.html">Fears of Omicron’s Rapid Spread Are Tempered by Signs of Milder Illness</a> NYT: “We can’t stop it,” Israel’s prime minister said of the Omicron variant, but that warning was blunted by early signs of potentially less-severe illness than with earlier coronavirus iterations. 
  <p class="updated_time"> 11:22 AM CT, Dec. 28 </p> 
@@ -81,16 +83,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59810383?at_medium=RSS&at_campaign=KARANGA">Alexa tells 10-year-old girl to touch live plug with penny</a> BBC: Amazon has fixed its voice assistant so that it will not suggest the dangerous “challenge” again. 
  <p class="updated_time"> 05:09 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/saudi-arabia-films-movies.html">As Other Arab States Falter, Saudi Arabia Seeks to Become a Cultural Hub</a> NYT: While conflicts and crises have battered Arab cultural capitals, Saudi Arabia is hosting film festivals and bankrolling new movies. 
- <p class="updated_time"> 05:05 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59806040?at_medium=RSS&at_campaign=KARANGA">Covid: US halves isolation time for asymptomatic infection</a> BBC: The guideline for asymptomatic cases is expected to ease disruptions caused by staff shortages. 
  <p class="updated_time"> 04:38 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-former-female-troops-once-hailed-by-the-west-fear-for-their-lives-11640696404">Afghanistan's Former Female Troops Fear for Their Lives</a> WSJ: “They have relocated musicians, soccer players and artists, and their lives were not at risk as much as ours,” a former Afghan Air Force officer says of Western governments. 
  <p class="updated_time"> 04:35 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/delta-flight-shanghai-seattle.html">Delta Says Flight to Shanghai Was Turned Round in Midair Because of Cleaning Rules</a> NYT: The carrier said that it ordered the plane back last week because of sanitation requirements that were “not operationally viable.” 
  <p class="updated_time"> 04:29 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/syria-accuses-israel-of-striking-its-main-commercial-port-11640705384">Syria Accuses Israel of Striking Its Main Commercial Port</a> WSJ: Israeli missiles struck Syria’s port of Latakia, according to the Syrian Defense Ministry, causing large fires and major damage in the second such attack on the vital facility this month. 
- <p class="updated_time"> 02:13 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-59806499?at_medium=RSS&at_campaign=KARANGA">Elon Musk criticised after China space complaint to UN</a> BBC: The SpaceX boss is attacked on Chinese social media after the complaint was made public. 
  <p class="updated_time"> 02:00 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/nord-stream-pipeline-germany-russia.html">Germany Wants Its Russian Pipeline. German Allies Aren’t Sure It’s a Good Idea.</a> NYT: The Nord Stream 2 Russia-to-Germany pipeline could offer plentiful natural gas. But tensions with Vladimir Putin are keeping it out of reach. 
  <p class="updated_time"> 01:55 AM CT, Dec. 28 </p> 
@@ -200,8 +198,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:38 PM CT, Dec. 28 </p> 
+ <a href="https://www.politico.com/news/2021/12/28/us-new-daily-high-covid-526223">U.S. sets new daily high for Covid cases</a> Politico: The Centers for Disease Control and Prevention’s tally represents a grim new milestone in the coronavirus pandemic. 
+ <p class="updated_time"> 04:52 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/us/politics/ethics-investigations-congress.html">Ethics Investigators in Congress Increasingly Run Into Walls</a> NYT: Lawmakers under scrutiny are more likely than before to simply refuse to cooperate with an inquiry. 
  <p class="updated_time"> 04:41 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/us/politics/us-russia-ukraine-talks.html">U.S. and Russia Agree to Talks Amid Growing Tensions Over Ukraine</a> NYT: The Biden administration has not said who will lead the U.S. delegation next month as Russian officials demand commitments from NATO. 
+ <a href="https://www.nytimes.com/2021/12/28/us/politics/nato-russia-ukrain-us.html">U.S. and Russia Agree to Talks Amid Growing Tensions Over Ukraine</a> NYT: The Biden administration has not said who will lead the U.S. delegation next month as Russian officials demand commitments from NATO. 
  <p class="updated_time"> 04:10 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/fda-antigen-tests-reduced-sensitivity-omicron-526217">FDA: Antigen tests may have reduced sensitivity detecting Omicron</a> Politico: The new warning is based on preliminary studies by the National Institutes of Health’s Rapid Acceleration of Diagnostics initiative. 
  <p class="updated_time"> 03:34 PM CT, Dec. 28 </p> 
@@ -333,8 +335,6 @@ permalink: /projects/news/
  <p class="updated_time"> 08:49 AM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/bernard-kerik-january-6-committee/index.html">Giuliani associate Bernard Kerik plans to publicly release some documents requested by January 6 committee</a> CNN: Former New York City Police Commissioner Bernard Kerik says he is planning to publicly release some documents requested by the House select committee investigating January 6. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
- <a href="https://www.politico.com/news/2021/12/24/maryland-governor-democrats-526119">Dems face off in Maryland primary — in an ‘incredibly Republican year’</a> Politico: Looming over the gubernatorial primary is a political environment likely benefiting Republicans — amplified by the GOP’s victory in neighboring Virginia last month. 
- <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-rural-evictions-526089">Biden’s about to adopt a policy that could hurt Dems even more with rural voters</a> Politico: About half of the $46.5 billion in federal rental aid made available during the pandemic is expected to be spent by the end of this year. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-social-spending-senate-parliamentarian-526081">Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</a> Politico: The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan. 
@@ -380,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/23/trump-spurs-rise-in-celebrity-candidates-525865">Senate GOP feels another Trump effect: The rise of celeb candidates</a> Politico: House experience isn't necessarily the best way to get traction across the Capitol anymore — as Herschel Walker and Mehmet Oz are proving. 
  <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/joe-biden-tiktok-jonas-brothers-526019">Joe Biden was not made for the age of TikTok. But his team is trying.</a> Politico: The White House is producing videos that they know will get mocked on political Twitter. They don’t care. They have other plans. 
- <p class="updated_time"> 07:32 PM CT, Dec. 22 </p> 
- <a href="https://www.nytimes.com/2021/12/22/us/capitol-riot-matthew-greene-guilty.html">Proud Boys Member Pleads Guilty and Will Cooperate in Jan. 6 Riot Inquiry</a> NYT: Matthew Greene, 34, who was “among the first wave” to rush up the Capitol steps, pleaded guilty to two charges and agreed to cooperate with the government, federal prosecutors said. 
  <p class="updated_time"> 03:15 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/antiviral-pill-biden-statement/index.html">250,000 treatment courses of Pfizer's antiviral pill will be available in January, Biden says</a> CNN: President Joe Biden on Wednesday pledged more than 250,000 treatment courses of Pfizer's antiviral pill will be available starting in January after the US Food and Drug Administration authorized it to treat Covid-19. 
  <p class="updated_time"> 07:01 AM CT, Dec. 22 </p> 
