@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:58 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City School System, the Nation’s Largest, to Reopen With More Testing</a> NYT: The spread of Omicron will lead to a second straight year of subdued New Year’s celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive but don’t have symptoms. 
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/omicron.html">Fears of Omicron’s Rapid Spread Are Tempered by Signs of Milder Illness</a> NYT: “We can’t stop it,” Israel’s prime minister said of the Omicron variant, but that warning was blunted by early signs of potentially less-severe illness than with earlier coronavirus iterations. 
- <p class="updated_time"> 11:43 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City School System, the Nation’s Largest, to Reopen With More Testing</a> NYT: The spread of Omicron will lead to a second straight year of subdued New Year’s celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive but don’t have symptoms. 
  <p class="updated_time"> 11:23 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile’s Constitutional Rewrite Confronts Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
  <p class="updated_time"> 11:22 AM CT, Dec. 28 </p> 
@@ -196,6 +196,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:59 PM CT, Dec. 28 </p> 
+ <a href="https://www.politico.com/news/2021/12/28/flight-attendants-cdc-airline-quarantine-change-526213">Flight attendants fume as CDC gives airlines what they want on quarantine change</a> Politico: Just days before the CDC announced the change, the airline industry united to press for a shortened quarantine timeframe. 
+ <p class="updated_time"> 12:52 PM CT, Dec. 28 </p> 
+ <a href="https://www.politico.com/news/2021/12/28/trump-organization-pga-settlement-526207">Trump Organization and PGA reach settlement over 2022 championship dispute</a> Politico: No details were released, but the tournament still won’t be held at Bedminster as a result of the Jan. 6 Capitol riot. 
+ <p class="updated_time"> 12:48 PM CT, Dec. 28 </p> 
+ <a href="https://www.politico.com/news/2021/12/28/cdc-drops-omicron-prevalence-estimate-526210">CDC sharply drops estimate of Omicron prevalence in U.S.</a> Politico: The agency said the disparity was due to the rate with which the highly transmissible Omicron spread. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/28/bunny-mellons-millions-at-play-in-dc-divorce-495554"> Bunny Mellon’s millions at play in D.C. divorce</a> Politico Playbook: And the CDC Monday shortened the isolation period for people who test positive for Covid-19 and are asymptomatic 
  <p class="updated_time"> 09:03 AM CT, Dec. 28 </p> 
@@ -207,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:19 AM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/27/health/cdc-covid-quarantine-isolation-shortened-recommendation/index.html">CDC shortens recommended Covid-19 isolation and quarantine time</a> CNN: The US Centers for Disease Control and Prevention on Monday shortened the recommended times that people should isolate when they've tested positive for Covid-19 from 10 days to five days if they don't have symptoms -- and if they wear a mask around others for at least five more days. 
  <p class="updated_time"> 04:30 AM CT, Dec. 28 </p> 
- <a href="https://www.politico.com/news/2021/12/28/climate-disaster-relief-farm-bill-democrats-526183">The latest tug-of-war: billions in farm subsidies and rural aid</a> Politico: The next farm bill may be Democrats’ best chance to scale up funding for agriculture programs that fight climate change. But time isn’t on their side. 
+ <a href="https://www.politico.com/news/2021/12/28/climate-disaster-relief-farm-bill-democrats-526183">The latest tug-of-war: Billions in farm subsidies and rural aid</a> Politico: The next farm bill may be Democrats’ best chance to scale up funding for agriculture programs that fight climate change. But time isn’t on their side. 
  <p class="updated_time"> 04:02 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1067460165/colorados-first-lawmaker-to-use-a-wheelchair-will-finally-get-to-wield-the-gavel">Colorado's first lawmaker to use a wheelchair will finally get to wield the gavel</a> NPR: State Rep. David Ortiz was paralyzed from the waist down while serving in Afghanistan. To give him access to the House podium, legislative staff say they have built the first lift of its kind. 
  <p class="updated_time"> 04:00 AM CT, Dec. 28 </p> 
@@ -276,14 +282,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/26/cardin-senate-build-back-better-526154">Maryland senator sees possible comeback for Build Back Better</a> Politico: “There is unanimity in our caucus that we want to get a bill to the president,” Ben Cardin said. 
  <p class="updated_time"> 11:13 AM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068103241/fema-wants-to-give-families-up-to-9-000-for-covid-funerals-but-many-dont-apply">FEMA wants to give families up to $9,000 for COVID funerals, but many don't apply</a> NPR: A federal program reimburses families up to $9,000 for funeral costs for loved ones who died of COVID-19. But many eligible families have not applied for assistance. 
- <p class="updated_time"> 11:10 AM CT, Dec. 26 </p> 
- <a href="https://www.politico.com/news/2021/12/26/putin-russia-ukraine-nato-526153">Putin to mull options if West refuses guarantees on Ukraine</a> Politico: Earlier this month, Russia submitted draft security documents demanding that NATO deny membership to Ukraine and other former Soviet countries. 
  <p class="updated_time"> 10:56 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/dingell-upton-michigan-toxic-congress-526152">Michigan lawmakers look to a less-toxic future in Congress</a> Politico: Debbie Dingell and Fred Upton both cited Bob Dole as a positive Washington role model. 
  <p class="updated_time"> 10:42 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/26/omicron-crashes-the-holidays-495552"> Omicron crashes the holidays</a> Politico Playbook: And the spread of the Omicron variant threw many Americans’ holiday travel plans 
- <p class="updated_time"> 10:11 AM CT, Dec. 26 </p> 
- <a href="https://www.politico.com/news/2021/12/26/murthy-covid-vaccines-children-526151">Surgeon general offers hopeful note on pandemic</a> Politico: “We have saved more than a million lives because of vaccination efforts this past year alone,” Vivek Murthy said. 
  <p class="updated_time"> 08:35 AM CT, Dec. 26 </p> 
  <a href="https://www.cnn.com/2021/12/26/politics/debbie-dingell-fred-upton-cnntv/index.html">Two lawmakers say their bipartisan friendship a model for overcoming 'toxic' year in Washington</a> CNN: Two Michigan lawmakers from opposite sides of the aisle came together to urge the importance of unity and kindness after a "toxic" year in Washington and across the country. 
  <p class="updated_time"> 07:04 AM CT, Dec. 26 </p> 
