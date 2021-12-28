@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:08 PM CT, Dec. 28 </p> 
+ <p class="updated_time"> 03:25 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Lowers Estimate of Omicron’s Prevalence in U.S.</a> NYT: The estimate dropped from about 73 percent to 23 percent for the week ending Dec. 18, and the agency now says Omicron became dominant the following week. A doctors’ protest over understaffing is causing chaos at Delhi hospitals. 
- <p class="updated_time"> 02:53 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/omicron-cluster-covid-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
+ <p class="updated_time"> 03:23 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile Rewrites Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
+ <p class="updated_time"> 03:23 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/americas/brazil-floods.html">Brazil Flooding Kills at Least 20 and Displaces Thousands</a> NYT: In northeast Brazil, local officials say they have never before seen flooding on this scale. Tens of thousands were forced to flee their homes. 
+ <p class="updated_time"> 03:14 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/omicron-covid-contagious-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
+ <p class="updated_time"> 03:11 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/asia/india-mother-teresa-charity-crackdown.html">India Cuts Off Foreign Funding of Mother Teresa’s Charity</a> NYT: The move is part of a tightening of rules on organizations financed by donations from abroad and comes amid a rise in attacks on religious minorities. 
  <p class="updated_time"> 02:35 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59808888?at_medium=RSS&at_campaign=KARANGA">Israel tries to contain avian flu outbreak after 5,000 wild cranes die</a> BBC: Some 5,000 wild cranes have died and hundreds of thousands of chickens and turkeys are being culled. 
  <p class="updated_time"> 02:29 PM CT, Dec. 28 </p> 
@@ -23,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/europe/spain-king-juan-carlos.html">Will Juan Carlos, Spain's Disgraced King, Get a Royal Homecoming?</a> NYT: In the years since Juan Carlos, Spain’s former king, fled the country to escape corruption investigations, some of the cases have been resolved or dropped. Now Spaniards are weighing whether they want him back. 
  <p class="updated_time"> 12:51 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59808624?at_medium=RSS&at_campaign=KARANGA">Russian court orders oldest civil rights group Memorial to shut</a> BBC: The Supreme Court dissolves a civil rights group formed to remember victims of Communist repression. 
- <p class="updated_time"> 12:41 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile Rewrites Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
  <p class="updated_time"> 12:31 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2021/12/28/260448064/cooking-up-food-and-identity-in-pailin-chongchitnants-hot-thai-kitchen">Cooking up food and identity in Pailin Chongchitnant's "Hot Thai Kitchen"</a> NPR: When chef Pailin Chongchitnant realized that cable television wasn't ready for a Thai cooking show, she started her own on YouTube. On it, she breaks down some of the misconceptions about the cuisine. 
  <p class="updated_time"> 12:25 PM CT, Dec. 28 </p> 
@@ -49,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-russia-set-january-talks-on-ukraine-nato-growth-11640709604">U.S., Russia Set Schedule for Ukraine Talks in January</a> WSJ: The nations agreed to meet on Jan. 10, amid tensions over Russian forces deployed near Ukraine and Moscow’s demands that NATO renounce any expansion eastward into the former Soviet bloc. 
  <p class="updated_time"> 09:50 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/china-scholar-jonathan-spence-dies-at-85-11640697976">China Scholar Jonathan Spence Dies at Age 85</a> WSJ: The Yale University historian brought China and its past alive to a broad audience through widely read books and popular lectures. 
- <p class="updated_time"> 09:25 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/asia/india-mother-teresa-charity-crackdown.html">India Cuts Off Foreign Funding of Mother Teresa’s Charity</a> NYT: The move is part of a tightening of rules on organizations financed by donations from abroad and comes amid a rise in attacks on religious minorities. 
  <p class="updated_time"> 09:11 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/omicron-disruptions-prompt-easing-of-some-restrictions-11640692295">Omicron Reinfections Can Trigger Milder Symptoms, New CDC Research Shows</a> WSJ: The CDC review of a cluster of Covid-19 cases in Nebraska came as the Omicron variant spreads in the U.S. 
  <p class="updated_time"> 07:55 AM CT, Dec. 28 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/india-vaccine-boosters.html">India to Expand Vaccinations and Begin Boosters to Fight Omicron</a> NYT: Those 15 and older will be eligible for vaccination as of Jan. 3, and health workers and high-risk people over 60 can receive booster shots as of Jan. 10. 
  <p class="updated_time"> 02:23 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/navy-ship-covid-guantanamo-bay.html">Covid Outbreak Strands U.S.S. Milwaukee in Guantánamo Bay</a> NYT: The crew held an open-air Christmas service on the pier, allowing the sailors to remain socially distanced. 
- <p class="updated_time"> 02:12 PM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/asia/china-money.html">Why Bragging About Your Wealth In China Can Get You Censored</a> NYT: Online posts by users showing off their receipts, over-ordering food or scattering money have been deemed vulgar. Regulators say such content leads young people astray. 
  <p class="updated_time"> 01:57 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/africa/sudan-coup-protests.html">Anti-Coup Protesters in Sudan Press Their Demand for Return to Civilian Rule</a> NYT: The protests on Saturday underscored the resolve of protesters to continue defying the Oct. 25 coup that derailed the country’s nascent attempt to transition to democratic rule. 
  <p class="updated_time"> 10:38 AM CT, Dec. 25 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:10 PM CT, Dec. 28 </p> 
+ <a href="https://www.politico.com/news/2021/12/28/fda-antigen-tests-reduced-sensitivity-omicron-526217">FDA: Antigen tests may have reduced sensitivity detecting Omicron</a> Politico: The new warning is based on preliminary studies by the National Institutes of Health’s Rapid Acceleration of Diagnostics initiative. 
  <p class="updated_time"> 02:51 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/no-surprises-act-2022/index.html">Patients won't have to fear as many surprise medical bills come January</a> CNN: Americans are set to have one less health care headache in 2022. 
  <p class="updated_time"> 02:47 PM CT, Dec. 28 </p> 
@@ -268,12 +270,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/27/1068197354/racial-reckoning-turns-focus-to-roadside-historical-markers">Racial reckoning turns focus to roadside historical markers</a> NPR: Pennsylvania is reviewing its 2,500 roadside markers, scrutinizing factual errors, inadequate historical context, and racist or otherwise inappropriate references. 
  <p class="updated_time"> 11:39 PM CT, Dec. 26 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/donald-trump-january-6-committee/index.html">Analysis: Trump and the January 6 committee are now locked in a full-on confrontation</a> CNN: Nearly a year after his failed coup attempt, Donald Trump's habit of putting his own political gain over truth is playing out again as the ex-commander-in-chief and his associates seek to delay and defy the House select committee probing the January 6 insurrection. 
- <p class="updated_time"> 06:16 PM CT, Dec. 26 </p> 
- <a href="https://www.politico.com/news/2021/12/26/bishop-desmond-tutu-gay-bishop-526161">First U.S. gay bishop remembers Desmond Tutu’s generosity, kindness</a> Politico: Gene Robinson said Tutu used his own experience of oppression to understand and empathize with others. 
  <p class="updated_time"> 06:10 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/us/politics/dr-oz-medical-advice.html">‘Magic’ Weight-Loss Pills and Covid Cures: Dr. Oz Under the Microscope</a> NYT: The celebrity physician, a candidate in Pennsylvania’s Republican primary for Senate, has a long history of dispensing dubious medical advice on his daytime show and on Fox News. 
- <p class="updated_time"> 12:34 PM CT, Dec. 26 </p> 
- <a href="https://www.politico.com/news/2021/12/26/holiday-shopping-christmas-omicron-526155">Despite supply issues and Omicron, holiday sales rise 8.5%</a> Politico: The results, which covered Nov. 1 through Dec. 24, were fueled by purchases of clothing and jewelry. 
  <p class="updated_time"> 11:56 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/cardin-senate-build-back-better-526154">Maryland senator sees possible comeback for Build Back Better</a> Politico: “There is unanimity in our caucus that we want to get a bill to the president,” Ben Cardin said. 
  <p class="updated_time"> 11:13 AM CT, Dec. 26 </p> 
