@@ -224,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/27/politics/biden-covid-governors/index.html">Biden concedes not enough has been done to expand Covid-19 testing capacity: 'We have more work to do'</a> CNN: President Joe Biden will confer with the nation's governors on Monday as a wave of Covid-19, driven by the heavily transmissible Omicron variant of the coronavirus, crashes across the country and drives caseloads to record levels in areas of the Northeast. 
  <p class="updated_time"> 01:37 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/doj-combats-crime-rise/index.html">Justice Department boosts funds to cities to battle rise in crime</a> CNN: The Justice Department is closing out the year with a surge in grants for public safety programs in cities across the country, including many grappling with a dramatic rise in violent crime. 
- <p class="updated_time"> 01:07 PM CT, Dec. 27 </p> 
- <a href="https://www.politico.com/news/2021/12/27/biden-governors-omicron-surge-526175">Biden looks to reassure governors amid Omicron surge and long lines for tests</a> Politico: Biden acknowledged the shortages that hit several states ahead of the holidays, conceding that he had not done enough to prepare for the rising demand. 
  <p class="updated_time"> 11:49 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/biden-signs-defense-policy-bill-526171">Biden signs $768B defense policy bill that supersized his original Pentagon request</a> Politico: The bill rejects Biden's $715 billion Pentagon budget request and instead calls for $740 billion for the Defense Department. 
  <p class="updated_time"> 11:29 AM CT, Dec. 27 </p> 
@@ -240,12 +238,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/videos/politics/2021/12/27/candace-owens-trump-vaccines-nr-vpx.cnn">Candace Owens tries to explain away Trump's truthful vaccine remark</a> CNN: Conservative commentator Candace Owens spoke to her followers and tried to explain away former President Trump touting the effectiveness of the Covid-19 vaccines. 
  <p class="updated_time"> 06:00 AM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/gen-z-millennial-conservatives-recruit-diverse-candidates/index.html">Gen Z and millennial conservatives seek to recruit and mentor young, diverse candidates </a> CNN: When Roxy Ndebumadu, a Black conservative woman, ran for city council in Bowie, Maryland, at age 26, it was hard to find mentorship from elected officials of similar backgrounds. 
- <p class="updated_time"> 04:31 AM CT, Dec. 27 </p> 
- <a href="https://www.politico.com/news/2021/12/27/biden-covid-vaccines-usaid-funding-526126">Price tag to vaccinate the world: $7 billion. And the U.S. is already coming up short.</a> Politico: In September, U.S. officials noted it would take at least $7 billion in 2022 to ensure shots are administered across the globe. 
  <p class="updated_time"> 04:30 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/monopoly-antitrust-new-rules-tech-525161">The new rules of Monopoly</a> Politico: Washington has spent decades playing from the same rulebook in the game of keeping dominant businesses from snuffing out the competition. But a new breed of antitrust enforcers say those rules are rigged against consumers — and in favor of Big Tech. They say it’s time to change the game. 
- <p class="updated_time"> 04:30 AM CT, Dec. 27 </p> 
- <a href="https://www.politico.com/news/2021/12/27/omicron-business-washington-526060">Omicron triggers business outcry for Washington lifeline</a> Politico: The lobbying push poses a new challenge for the Biden administration and congressional leadership heading into the 2022 midterm elections. 
  <p class="updated_time"> 04:30 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/biden-steven-bondy-bahrain-ambassador-526160">Inside an explosive whisper campaign that tried to sink a Biden ambassador pick</a> Politico: Steven Bondy had his detractors in a previous job. When he was tapped for a top Mideast post, they started talking. 
  <p class="updated_time"> 04:05 AM CT, Dec. 27 </p> 
@@ -328,6 +322,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/23/politics/mary-gay-scanlon-hijacking-suspect-charged/index.html">19-year-old charged in armed carjacking incident involving Democratic lawmaker</a> CNN: Federal prosecutors have charged a Delaware man with carjacking Democratic Rep. Mary Gay Scanlon of Pennsylvania and using a firearm during a crime of violence, the Justice Department announced Thursday. 
  <p class="updated_time"> 07:59 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/georgia-election-workers-lawsuit-rudy-giuliani-one-america-news/index.html">Two Georgia election workers sue Giuliani and One America News, claiming election lies prompted severe harassment </a> CNN: Two Georgia election workers are accusing right-wing TV network One America News and former Trump lawyer and pundit Rudy Giuliani of destroying their reputations and prompting Trump supporters to harass them -- filling their lives with fear -- because of false claims of election fraud in 2020. 
+ <p class="updated_time"> 06:58 PM CT, Dec. 23 </p> 
+ <a href="https://www.politico.com/news/2021/12/23/georgia-poll-workers-sue-giuliani-oan-526122">2 Georgia poll workers sue Giuliani, OAN over election conspiracy theories</a> Politico: Ruby Freeman and Shaye Moss, her daughter, worked as poll workers counting ballots at State Farm Arena in Fulton County, Ga., during the November 2020 election. 
  <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
  <p class="updated_time"> 06:30 PM CT, Dec. 23 </p> 
