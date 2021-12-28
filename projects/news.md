@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:31 AM CT, Dec. 28 </p> 
+ <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/europe/omicron.html">Fears of Omicron’s Rapid Spread Are Tempered by Signs of Milder Illness</a> NYT: “We can’t stop it,” Israel’s prime minister said of the Omicron variant, but that warning was blunted by early signs of potentially less-severe illness than with earlier coronavirus iterations. 
+ <p class="updated_time"> 11:43 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City School System, the Nation’s Largest, to Reopen With More Testing</a> NYT: The spread of Omicron will lead to a second straight year of subdued New Year’s celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive but don’t have symptoms. 
  <p class="updated_time"> 11:23 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile’s Constitutional Rewrite Confronts Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/europe/migrant-boat-greece.html">At Least 16 Dead After Migrant Boat Capsizes Off Greece</a> NYT: The wreck late Friday in the Aegean Sea, the third in Greek waters in three days, was another reminder of the risks asylum seekers face. 
  <p class="updated_time"> 05:49 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/pope-francis-christmas-message.html">As Covid Disrupts a 2nd Christmas, Pope Prays for Healing and Peace</a> NYT: In his Christmas message, Pope Francis called on world leaders to resolve persisting conflicts and prayed for people across the globe who are affected by the coronavirus. 
- <p class="updated_time"> 05:00 AM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/canada/another-covid-christmas.html">Another Covid Christmas …</a> NYT: December went by like an Omicron advent calendar, each passing day revealing how the virus’s trajectory would change hoped-for holiday plans. 
 
 
 </details>
