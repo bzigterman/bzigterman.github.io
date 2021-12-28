@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:53 PM CT, Dec. 28 </p> 
+ <p class="updated_time"> 03:08 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Lowers Estimate of Omicron’s Prevalence in U.S.</a> NYT: The estimate dropped from about 73 percent to 23 percent for the week ending Dec. 18, and the agency now says Omicron became dominant the following week. A doctors’ protest over understaffing is causing chaos at Delhi hospitals. 
  <p class="updated_time"> 02:53 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/omicron-cluster-covid-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
@@ -36,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/omicron.html">Fears of Omicron’s Rapid Spread Are Tempered by Signs of Milder Illness</a> NYT: “We can’t stop it,” Israel’s prime minister said of the Omicron variant, but that warning was blunted by early signs of potentially less-severe illness than with earlier coronavirus iterations. 
  <p class="updated_time"> 11:22 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59813216?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu's daughter: 'Daddy was a hugger'</a> BBC: Nontombi Naomi Tutu says her father "went to meet his God, ready and willing." 
+ <a href="https://www.bbc.co.uk/news/world-africa-59813216?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu's daughter: 'Daddy was a hugger'</a> BBC: Nontombi Naomi Tutu says her father "went to meet his God, ready and willing". 
  <p class="updated_time"> 11:18 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1068500102/india-blocks-foreign-funding-for-mother-teresas-charity">India blocks foreign funding for Mother Teresa's charity</a> NPR: The Indian government says it has refused to renew a permit that allows the Missionaries of Charity to use foreign funds to operate orphanages and hospices across the country. 
  <p class="updated_time"> 11:14 AM CT, Dec. 28 </p> 
@@ -45,10 +45,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/europe/windsor-castle-intruder.html">Britain’s Crossbow Rules in the Cross Hairs After Windsor Castle Breach</a> NYT: Britain’s Home Office said it was “considering options to strengthen controls” on the weapons, part of a continuing review, after a man was arrested in castle grounds with one. 
  <p class="updated_time"> 10:16 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59808883?at_medium=RSS&at_campaign=KARANGA">Egyptian pharaoh's mummy digitally unwrapped for first time</a> BBC: CT scans allowed archaeologists to study Amenhotep I's body and learn about his death and burial. 
+ <p class="updated_time"> 09:53 AM CT, Dec. 28 </p> 
+ <a href="https://www.wsj.com/articles/u-s-russia-set-january-talks-on-ukraine-nato-growth-11640709604">U.S., Russia Set Schedule for Ukraine Talks in January</a> WSJ: The nations agreed to meet on Jan. 10, amid tensions over Russian forces deployed near Ukraine and Moscow’s demands that NATO renounce any expansion eastward into the former Soviet bloc. 
  <p class="updated_time"> 09:50 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/china-scholar-jonathan-spence-dies-at-85-11640697976">China Scholar Jonathan Spence Dies at Age 85</a> WSJ: The Yale University historian brought China and its past alive to a broad audience through widely read books and popular lectures. 
- <p class="updated_time"> 09:36 AM CT, Dec. 28 </p> 
- <a href="https://www.wsj.com/articles/u-s-russia-set-january-talks-on-ukraine-nato-growth-11640709604">U.S., Russia Set Schedule for Ukraine Talks in January</a> WSJ: The nations agreed to meet on Jan. 10, amid tensions over Russian forces deployed near Ukraine and Moscow’s demands that NATO renounce any expansion eastward into the former Soviet bloc. 
  <p class="updated_time"> 09:25 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/india-mother-teresa-charity-crackdown.html">India Cuts Off Foreign Funding of Mother Teresa’s Charity</a> NYT: The move is part of a tightening of rules on organizations financed by donations from abroad and comes amid a rise in attacks on religious minorities. 
  <p class="updated_time"> 09:11 AM CT, Dec. 28 </p> 
@@ -73,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/asia/delta-flight-shanghai-seattle.html">Delta Says Flight to Shanghai Was Turned Round in Midair Because of Cleaning Rules</a> NYT: The carrier said that it ordered the plane back last week because of sanitation requirements that were “not operationally viable.” 
  <p class="updated_time"> 04:29 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/syria-accuses-israel-of-striking-its-main-commercial-port-11640705384">Syria Accuses Israel of Striking Its Main Commercial Port</a> WSJ: Israeli missiles struck Syria’s port of Latakia, according to the Syrian Defense Ministry, causing large fires and major damage in the second such attack on the vital facility this month. 
- <p class="updated_time"> 04:17 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/27/us/where-vaccination-rates-are-low-in-the-us-the-reasons-vary.html">Where vaccination rates are low in the U.S., the reasons vary.</a> NYT: As the Omicron variant surges, and experts say that vaccinations strongly protect against severe illness, U.S. public health officials are closely examining ways to reach the least-vaccinated areas. 
  <p class="updated_time"> 02:13 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-59806499?at_medium=RSS&at_campaign=KARANGA">Elon Musk criticised after China space complaint to UN</a> BBC: The SpaceX boss is attacked on Chinese social media after the complaint was made public. 
  <p class="updated_time"> 02:00 AM CT, Dec. 28 </p> 
@@ -196,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:51 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/no-surprises-act-2022/index.html">Patients won't have to fear as many surprise medical bills come January</a> CNN: Americans are set to have one less health care headache in 2022. 
  <p class="updated_time"> 02:47 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/spirit-airlines-unruly-passenger/index.html">Tennessee woman charged after alleged assault and attempting to open cabin door on Spirit flight</a> CNN: A Tennessee woman turned herself into the FBI on Tuesday after she was accused of assaulting two flight attendants during a Spirit Airlines flight last month, the Justice Department announced. 
  <p class="updated_time"> 12:59 PM CT, Dec. 28 </p> 
@@ -252,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/24/politics/taylor-budowich-trump-spokesman-jan-6-committee/index.html">January 6 committee ramps up efforts to uncover funding behind Capitol riot</a> CNN: Trump spokesman Taylor Budowich on Friday sued the House select committee investigating the January 6 riot to prevent it from obtaining his financial documents from JP Morgan, which is also named in the lawsuit. 
  <p class="updated_time"> 09:36 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/27/the-view-struggles-to-find-a-republican-495553"> ‘The View’ struggles to find a Republican</a> Politico Playbook: And coronavirus cases spike to record levels across the world. 
- <p class="updated_time"> 09:11 AM CT, Dec. 27 </p> 
- <a href="https://www.cnn.com/2021/12/27/politics/sarah-weddington-roe-v-wade-obituary/index.html">Sarah Weddington, lawyer who represented 'Jane Roe' in Roe v. Wade, dies at 76</a> CNN: Sarah Weddington, an attorney in the landmark Roe v. Wade case, has died, according to statements from friend and former student Susan Hays and US Rep. Lloyd Doggett. 
  <p class="updated_time"> 08:37 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/science/russia-nasa-spacex-asat.html">NASA-Russia Alliance Is Shaken by Events on Planet Earth</a> NYT: The relationship between the nations’ space agencies is facing a series of difficult tests, including an antisatellite weapon and friction over Ukraine. 
  <p class="updated_time"> 06:02 AM CT, Dec. 27 </p> 
