@@ -7,28 +7,30 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:58 AM CT, Dec. 28 </p> 
+ <p class="updated_time"> 12:25 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Hopes Its Basketball Patron Advances to National Status</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
+ <p class="updated_time"> 12:20 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City School System, the Nation’s Largest, to Reopen With More Testing</a> NYT: The spread of Omicron will lead to a second straight year of subdued New Year’s celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive but don’t have symptoms. 
+ <p class="updated_time"> 12:12 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">How Do You Write a New Constitution for the Climate Crisis? Chile Is Trying.</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
+ <p class="updated_time"> 12:09 PM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59808624?at_medium=RSS&at_campaign=KARANGA">Russian court orders oldest civil rights group Memorial to shut</a> BBC: The Supreme Court dissolves a civil rights group formed to remember victims of Communist repression. 
+ <p class="updated_time"> 12:08 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/europe/russia-memorial-human-rights.html">Russian Court Orders Liquidation of the Human Rights Group Memorial </a> NYT: The Supreme Court ruled that Memorial International, which chronicled political repression in Russia, must be liquidated. 
+ <p class="updated_time"> 12:08 PM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59812877?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell jury faces longer hours because of Covid</a> BBC: The judge in Ghislaine Maxwell's sex trafficking trial asks jurors to meet for an extra hour each day. 
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/omicron.html">Fears of Omicron’s Rapid Spread Are Tempered by Signs of Milder Illness</a> NYT: “We can’t stop it,” Israel’s prime minister said of the Omicron variant, but that warning was blunted by early signs of potentially less-severe illness than with earlier coronavirus iterations. 
- <p class="updated_time"> 11:23 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile’s Constitutional Rewrite Confronts Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
  <p class="updated_time"> 11:22 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59813216?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Remembered by daughter as a 'hugger'</a> BBC: Nontombi Naomi Tutu says her father "went to meet his God, ready and willing." 
  <p class="updated_time"> 11:18 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1068500102/india-blocks-foreign-funding-for-mother-teresas-charity">India blocks foreign funding for Mother Teresa's charity</a> NPR: The Indian government says it has refused to renew a permit that allows the Missionaries of Charity to use foreign funds to operate orphanages and hospices across the country. 
  <p class="updated_time"> 11:14 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59810706?at_medium=RSS&at_campaign=KARANGA">Myanmar: Save the Children says army attack killed staff</a> BBC: The charity says two of its workers, both new fathers, are among the 35 bodies found on 24 December. 
- <p class="updated_time"> 11:00 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/nyregion/nyc-schools-covid-testing-students.html">NYC Schools Will Reopen with More Covid-19 Testing to Limit Closures</a> NYT: Instead of delaying the start of in-person school and pivoting to remote learning, New York City will aim to detect more infections to mitigate disruptions. 
- <p class="updated_time"> 10:52 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/europe/russia-memorial-human-rights.html">Russian Court Orders Liquidation of the Human Rights Group Memorial </a> NYT: The Supreme Court ruled that Memorial International, which chronicled political repression in Russia, must be liquidated. 
  <p class="updated_time"> 10:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/windsor-castle-intruder.html">Britain’s Crossbow Rules in the Cross Hairs After Windsor Castle Breach</a> NYT: Britain’s Home Office said it was “considering options to strengthen controls” on the weapons, part of a continuing review, after a man was arrested in castle grounds with one. 
  <p class="updated_time"> 10:34 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/refugees-afghanistan-pakistan.html">Born and Raised in Pakistan, but Living in Legal Limbo</a> NYT: Pakistan has refused to grant the children of Afghan refugees full rights as citizens. A lack of identification documents limits their livelihoods and puts them at risk of deportation. 
- <p class="updated_time"> 10:20 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59808624?at_medium=RSS&at_campaign=KARANGA">Russian court orders oldest civil rights group Memorial to shut</a> BBC: The Supreme Court dissolves a civil rights group formed to remember victims of Communist repression. 
  <p class="updated_time"> 10:20 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/new-delhi-doctor-strike.html">Doctors Strike Over Understaffing Disrupts Delhi Hospitals</a> NYT: While the country’s overall case count remains low, daily infections in the capital region have risen by more than 300 percent over the past two weeks. 
  <p class="updated_time"> 10:16 AM CT, Dec. 28 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59809821?at_medium=RSS&at_campaign=KARANGA">South Africa court blocks Shell's oil exploration</a> BBC: Environmentalists hail the ruling as a victory in their efforts to protect marine life. 
  <p class="updated_time"> 07:14 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1067207363/2021-top-stories-international-npr-correspondents-recommend">These are the top stories NPR's correspondents around the world recommend from 2021</a> NPR: We asked the network's international journalists to pick one story from the year you should check out. Here are their selections. 
- <p class="updated_time"> 07:07 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Hopes Its Basketball Patron Advances to National Status</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
  <p class="updated_time"> 06:13 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59791765?at_medium=RSS&at_campaign=KARANGA">France shuts mosque in Beauvais for sermons 'defending jihad'</a> BBC: An imam in the northern town of Beauvais was accused of inciting hatred and violence in his preaching. 
  <p class="updated_time"> 05:57 AM CT, Dec. 28 </p> 
@@ -61,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/syria-accuses-israel-of-striking-its-main-commercial-port-11640705384">Syria Accuses Israel of Striking Its Main Commercial Port</a> WSJ: Israeli missiles struck Syria’s port of Latakia, according to the Syrian Defense Ministry, causing large fires and major damage in the second such attack on the vital facility this month. 
  <p class="updated_time"> 04:17 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/where-vaccination-rates-are-low-in-the-us-the-reasons-vary.html">Where vaccination rates are low in the U.S., the reasons vary.</a> NYT: As the Omicron variant surges, and experts say that vaccinations strongly protect against severe illness, U.S. public health officials are closely examining ways to reach the least-vaccinated areas. 
- <p class="updated_time"> 02:20 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59805829?at_medium=RSS&at_campaign=KARANGA">Covid: France tightens restrictions amid Omicron surge</a> BBC: Germany and Greece also toughen measures in a bid to tackle infections amid fears about Omicron. 
  <p class="updated_time"> 02:13 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-59806499?at_medium=RSS&at_campaign=KARANGA">Elon Musk criticised after China space complaint to UN</a> BBC: The SpaceX boss is attacked on Chinese social media after the complaint was made public. 
  <p class="updated_time"> 02:00 AM CT, Dec. 28 </p> 
@@ -189,6 +187,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/europe/migrant-boat-greece.html">At Least 16 Dead After Migrant Boat Capsizes Off Greece</a> NYT: The wreck late Friday in the Aegean Sea, the third in Greek waters in three days, was another reminder of the risks asylum seekers face. 
  <p class="updated_time"> 05:49 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/pope-francis-christmas-message.html">As Covid Disrupts a 2nd Christmas, Pope Prays for Healing and Peace</a> NYT: In his Christmas message, Pope Francis called on world leaders to resolve persisting conflicts and prayed for people across the globe who are affected by the coronavirus. 
+ <p class="updated_time"> 05:00 AM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/canada/another-covid-christmas.html">Another Covid Christmas …</a> NYT: December went by like an Omicron advent calendar, each passing day revealing how the virus’s trajectory would change hoped-for holiday plans. 
 
 
 </details>
