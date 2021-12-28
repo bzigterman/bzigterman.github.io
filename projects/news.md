@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:22 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/health/omicron-cdc.html">As Omicron Cases Surge, CDC Shortens Isolation Times for Many Americans</a> NYT: Hoping to prevent further disruptions to daily life, the C.D.C. reduced the period that certain infected Americans must sequester. 
  <p class="updated_time"> 08:40 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Hasn’t Swayed the Least Vaccinated U.S. Counties</a> NYT: To minimize disruptions as virus cases surge, the C.D.C. halved the recommended isolation period for infected Americans who show no symptoms, to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
- <p class="updated_time"> 08:35 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/health/omicron-cdc.html">As Omicron Cases Surge, CDC Shortens Isolation Times for Many Americans</a> NYT: Hoping to prevent further disruptions to daily life, the C.D.C. reduced the period that certain infected Americans must sequester. 
  <p class="updated_time"> 08:23 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/australia/australia-lab-negative-covid-tests-mistake.html">Australia Covid Lab Mistakenly Tells Hundreds They Tested Negative</a> NYT: Human error was to blame for the mix-up amid a high demand for Covid testing, a clinic in Sydney said. 
  <p class="updated_time"> 07:56 PM CT, Dec. 27 </p> 
