@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:22 AM CT, Dec. 28 </p> 
+ <p class="updated_time"> 08:33 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New Year Festivities Scaled Back Worldwide as Cases Soar</a> NYT: The spread of Omicron will lead to a second straight year of subdued celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive. 
  <p class="updated_time"> 08:02 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/india-mother-teresa-charity-crackdown.html">India Cuts Off Foreign Funding of Mother Teresa’s Charity</a> NYT: The move is part of a tightening of rules on organizations financed by donations from abroad and comes amid a rise in attacks on religious minorities. 
