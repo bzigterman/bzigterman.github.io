@@ -7,8 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:28 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Cuts Isolation Time to 5 Days</a> NYT: To minimize disruptions as virus cases surged, the C.D.C. halved the recommended isolation period for infected Americans to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
+ <p class="updated_time"> 07:40 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Cuts Isolation Time to 5 Days</a> NYT: To minimize disruptions as virus cases surged, the C.D.C. halved the recommended isolation period for infected Americans who show no symptoms after five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
+ <p class="updated_time"> 07:33 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/health/covid-isolation-cdc.html">As Omicron Surges, Officials Shorten Isolation Times for Many Americans</a> NYT: Hoping to prevent further disruptions to daily life, the C.D.C. reduced the period that certain infected Americans must sequester. 
+ <p class="updated_time"> 07:28 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
+ <p class="updated_time"> 07:26 PM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/sport/cricket/59806173?at_medium=RSS&at_campaign=KARANGA">Ashes: Australia thrash feeble England to retain Ashes at Melbourne</a> BBC: England surrender the Ashes on the morning of the third day of the third Test as Australia crush them by an innings and 14 runs at the MCG. 
+ <p class="updated_time"> 06:59 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/travel/world-through-a-lens.html">Helping to Reveal a Still-Shuttered World</a> NYT: Our weekly photo essay series offered readers a glimpse of distant places and cultures that, for a second straight year, remained largely inaccessible. 
+ <p class="updated_time"> 06:55 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/asia/philippines-super-typhoon-rai.html">Super Typhoon Rai Leaves Miles of Wreckage in Philippines</a> NYT: Philippine officials warned that residents were going hungry. Many were still in evacuation centers. On a highway, survivors scrawled an appeal for aid. 
  <p class="updated_time"> 06:19 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/asia/south-korea-pfizer-coronavirus-pill.html">South Korea approves Pfizer’s coronavirus pill for emergency use.</a> NYT: It is the first pill approved in the nation to treat symptoms of the coronavirus. 
  <p class="updated_time"> 06:13 PM CT, Dec. 27 </p> 
@@ -25,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59761535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Children in Kabul working for a piece of bread</a> BBC: More and more Afghan children are having to work to support their families, amidst an economic collapse. 
  <p class="updated_time"> 05:55 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59806040?at_medium=RSS&at_campaign=KARANGA">Covid: US halves isolation time for asymptomatic infection</a> BBC: The Centres for Disease Control (CDC) recommends five days isolation for asymptomatic Covid cases. 
- <p class="updated_time"> 05:39 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
  <p class="updated_time"> 04:21 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59805829?at_medium=RSS&at_campaign=KARANGA">Covid: France tightens restrictions amid Omicron surge</a> BBC: Remote working will become compulsory from 3 January but there will be no New Year's Eve curfew. 
  <p class="updated_time"> 04:19 PM CT, Dec. 27 </p> 
@@ -59,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/europe/poland-media-law.html">Poland’s President Says He Will Veto Media Bill Opposed by U.S.</a> NYT: The measure backed by the nationalist governing coalition sought to limit foreign influence and could have imperiled the license of an American-owned TV station. 
  <p class="updated_time"> 10:52 AM CT, Dec. 27 </p> 
  <a href="https://www.wsj.com/articles/power-struggle-between-somali-president-and-prime-minister-threatens-fight-against-extremists-11640620008">Power Struggle Between Somali President and Prime Minister Threatens Fight Against Extremists</a> WSJ: The Somali president has suspended the prime minister, who in turn said he would assume the president’s duties, a battle that undermines the country’s fight against al-Shabaab. 
- <p class="updated_time"> 10:14 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/asia/philippines-super-typhoon-rai.html">Super Typhoon Rai Leaves Miles of Wreckage in Philippines</a> NYT: Philippine officials warned that residents were going hungry. Many were still in evacuation centers. On a highway, survivors scrawled an appeal for aid. 
  <p class="updated_time"> 09:43 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59800515?at_medium=RSS&at_campaign=KARANGA">Somalia PM Roble defiant after President Farmajo suspends him</a> BBC: The PM says the president's move over land theft allegations is an attempted coup. 
  <p class="updated_time"> 09:39 AM CT, Dec. 27 </p> 
@@ -77,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59802233?at_medium=RSS&at_campaign=KARANGA">Amber Heard names new dog after Australian minister embroiled in feud</a> BBC: The US actress names her new dog after the Australian minister who said her dogs should go home in 2015. 
  <p class="updated_time"> 06:02 AM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068215624/myanmar-court-postpones-verdicts-in-second-case-against-suu-kyi">Myanmar court postpones verdicts in second case against Suu Kyi</a> NPR: The case is among many brought against the 76-year-old Nobel Peace Prize laureate since the army seized power on Feb. 1. 
- <p class="updated_time"> 05:15 AM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59800035?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu - the staunch and steadfast healer of a nation</a> BBC: How Desmond Tutu went from South Africa's public enemy No1 to its beloved pastor. 
  <p class="updated_time"> 05:01 AM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068208287/omicron-surge-sets-records-as-flight-disruptions-continue">Omicron surge sets records as flight disruptions continue</a> NPR: More than 1,400 flights canceled worldwide Monday, adding to thousands canceled over the Christmas weekend. And across the country, long lines continued at COVID-19 testing sites. 
  <p class="updated_time"> 04:35 AM CT, Dec. 27 </p> 
@@ -87,10 +91,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/iraqs-top-court-rejects-election-challenge-by-pro-iran-faction-11640612165">Iraq's Top Court Endorses Election Results in Setback for Pro-Iran Faction</a> WSJ: The decision paves the way for the formation of a new government dominated by Shiite Muslim cleric Moqtada al-Sadr, who won the largest share of seats in the October poll. 
  <p class="updated_time"> 04:21 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/australia/australia-lab-negative-covid-tests-mistake.html">Australia Covid Lab Mistakenly Tells Hundreds They Tested Negative</a> NYT: Human error is blamed for the mix-up, which so far has affected 400 people at a clinic in Sydney. 
- <p class="updated_time"> 04:00 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/travel/world-through-a-lens.html">Helping to Reveal a Still-Shuttered World</a> NYT: Our weekly photo essay series offered readers a glimpse of distant places and cultures that, for a second straight year, remained largely inaccessible. 
- <p class="updated_time"> 03:58 AM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59800777?at_medium=RSS&at_campaign=KARANGA">Jean-Marc Vallée: Canadian filmmaker dies aged 58</a> BBC: The director's works included Dallas Buyers Club, Wild and the TV series Big Little Lies. 
  <p class="updated_time"> 03:48 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59801025?at_medium=RSS&at_campaign=KARANGA">Brazilian town floods after two dams collapse</a> BBC: People in the town of Itabuna can be seen using inflatable rafts and canoes to get from house to house. 
  <p class="updated_time"> 02:01 AM CT, Dec. 27 </p> 
@@ -189,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/europe/europe-covid-pandemic-omicron.html">Europeans Ponder Living With, Not Defeating, Covid</a> NYT: On the eve of the biggest holidays in Europe, exhaustion with the pandemic is rising. So is resignation that the virus is endemic. 
  <p class="updated_time"> 05:06 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/queen-elizabeth-ii-christmas-covid.html">A Quieter Christmas for Queen Elizabeth II as Covid Persists</a> NYT: The 95-year-old monarch is spending the holiday at Windsor Castle instead of Sandringham, her English country estate. 
- <p class="updated_time"> 04:00 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/asia/afghanistan-nadery-peace-negotiations.html">An Afghan Official Laments What Was Lost and Looks to What Lies Ahead</a> NYT: Ahmad Nader Nadery spent decades working toward a thriving, free Afghanistan. Watching the Taliban undo much of his work, he wonders how to move forward. 
 
 
 </details>
@@ -200,7 +198,9 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:26 PM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/fauci-domestic-flight-vaccine-mandate-526194">Fauci: 'I don’t think people should expect' a domestic flight vaccine mandate</a> Politico: "It’s on the table," he added. "But that doesn’t mean it’s going to happen. I doubt if we’re going to see something like that in the reasonably foreseeable future.” 
- <p class="updated_time"> 05:27 PM CT, Dec. 27 </p> 
+ <p class="updated_time"> 06:56 PM CT, Dec. 27 </p> 
+ <a href="https://www.cnn.com/2021/12/27/politics/vaccine-mandates-domestic-flights-what-matters/index.html">Analysis: Are vaccine mandates for domestic flights our ticket out of the pandemic?</a> CNN: Public health experts for months have tried to reach the large swath of unvaccinated Americans with a simple message: Get vaccinated or risk serious health complications. 
+ <p class="updated_time"> 06:35 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/health/cdc-covid-quarantine-isolation-shortened-recommendation/index.html">CDC shortens recommended Covid-19 isolation and quarantine time</a> CNN: The US Centers for Disease Control and Prevention on Monday shortened the recommended times that people should isolate when they've tested positive for Covid-19 from 10 days to five days if they don't have symptoms -- and if they wear a mask around others for at least five more days. 
  <p class="updated_time"> 05:25 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/sarah-weddington-dead.html">Sarah Weddington, Who Successfully Argued Roe v. Wade, Dies at 76</a> NYT: She went before the U.S. Supreme Court at 26 with almost no legal experience and won one of the most consequential cases in American history. 
@@ -400,10 +400,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/21/the-search-for-a-plan-b-begins-495529"> The search for a Plan B begins</a> Politico Playbook: And Biden plans to deliver another big Covid speech. 
  <p class="updated_time"> 11:01 PM CT, Dec. 20 </p> 
  <a href="https://www.cnn.com/2021/12/21/politics/joe-manchin-joe-biden-relationship/index.html">Biden's relationship with Manchin hits a low point, even as they clear the air</a> CNN: After months of careful cultivation -- and even a nickname -- the most important relationship in Washington is narrowly weathering its stormiest moment to date. 
- <p class="updated_time"> 06:54 PM CT, Dec. 20 </p> 
- <a href="https://www.politico.com/news/2021/12/20/liberals-ditch-manchin-dems-deal-525797">Reeling liberals ready to ditch Manchin as rest of Dems hope for a deal</a> Politico: The left's House leader is prepared to cut the centrist out of social safety net talks. Others in the party are prepared for concessions. 
- <p class="updated_time"> 06:39 PM CT, Dec. 20 </p> 
- <a href="https://www.cnn.com/2021/12/20/politics/haitian-migrants-biden-administration-lawsuit/index.html">Group of Haitian migrants sue Biden administration over poor treatment</a> CNN: A group of Haitian migrants is suing the Biden administration over its treatment of migrants, recounting in detail squalid conditions at a makeshift camp in Del Rio, Texas, this year and confrontations with officers on horseback, according to a lawsuit filed Monday. 
 
 
 </details>
