@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:40 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Cuts Isolation Time to 5 Days</a> NYT: To minimize disruptions as virus cases surged, the C.D.C. halved the recommended isolation period for infected Americans who show no symptoms after five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
+ <p class="updated_time"> 08:19 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Hasn’t Swayed the Least Vaccinated U.S. Counties</a> NYT: To minimize disruptions as virus cases surge, the C.D.C. halved the recommended isolation period for infected Americans who show no symptoms, to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
+ <p class="updated_time"> 08:09 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/australia/australia-lab-negative-covid-tests-mistake.html">Australia Covid Lab Mistakenly Tells Hundreds They Tested Negative</a> NYT: Human error was to blame for the mix-up amid a high demand for Covid testing, a clinic in Sydney said. 
+ <p class="updated_time"> 07:56 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/asia/philippines-super-typhoon-rai.html">Super Typhoon Rai Leaves Miles of Wreckage in Philippines</a> NYT: Philippine officials warned that residents were going hungry. Many were still in evacuation centers. On a highway, survivors scrawled an appeal for aid. 
+ <p class="updated_time"> 07:51 PM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/sport/cricket/59806173?at_medium=RSS&at_campaign=KARANGA">Ashes: Australia thrash feeble England to retain Ashes at Melbourne</a> BBC: England surrender the Ashes on the morning of the third day of the third Test as Australia crush them by an innings and 14 runs at the MCG. 
+ <p class="updated_time"> 07:47 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/us/where-vaccination-rates-are-low-in-the-us-the-reasons-vary.html">Where vaccination rates are low in the U.S., the reasons vary.</a> NYT: As the Omicron variant surges, and experts say that vaccinations strongly protect against severe illness, U.S. public health officials are closely examining ways to reach the least-vaccinated areas. 
  <p class="updated_time"> 07:33 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/health/covid-isolation-cdc.html">As Omicron Surges, Officials Shorten Isolation Times for Many Americans</a> NYT: Hoping to prevent further disruptions to daily life, the C.D.C. reduced the period that certain infected Americans must sequester. 
+ <a href="https://www.nytimes.com/2021/12/27/health/omicron-cdc.html">As Omicron Cases Surge, CDC Shortens Isolation Times for Many Americans</a> NYT: Hoping to prevent further disruptions to daily life, the C.D.C. reduced the period that certain infected Americans must sequester. 
  <p class="updated_time"> 07:28 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
- <p class="updated_time"> 07:26 PM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/sport/cricket/59806173?at_medium=RSS&at_campaign=KARANGA">Ashes: Australia thrash feeble England to retain Ashes at Melbourne</a> BBC: England surrender the Ashes on the morning of the third day of the third Test as Australia crush them by an innings and 14 runs at the MCG. 
  <p class="updated_time"> 06:59 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/travel/world-through-a-lens.html">Helping to Reveal a Still-Shuttered World</a> NYT: Our weekly photo essay series offered readers a glimpse of distant places and cultures that, for a second straight year, remained largely inaccessible. 
- <p class="updated_time"> 06:55 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/asia/philippines-super-typhoon-rai.html">Super Typhoon Rai Leaves Miles of Wreckage in Philippines</a> NYT: Philippine officials warned that residents were going hungry. Many were still in evacuation centers. On a highway, survivors scrawled an appeal for aid. 
  <p class="updated_time"> 06:19 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/asia/south-korea-pfizer-coronavirus-pill.html">South Korea approves Pfizer’s coronavirus pill for emergency use.</a> NYT: It is the first pill approved in the nation to treat symptoms of the coronavirus. 
  <p class="updated_time"> 06:13 PM CT, Dec. 27 </p> 
@@ -89,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/college-football-bowl-games-covid.html">Two College Bowl Games Are Canceled Because of Covid Cases</a> NYT: The Fenway and Military Bowls were scrapped when teams didn’t have enough healthy players to take the field. One team pulled out of the Sun Bowl. 
  <p class="updated_time"> 04:31 AM CT, Dec. 27 </p> 
  <a href="https://www.wsj.com/articles/iraqs-top-court-rejects-election-challenge-by-pro-iran-faction-11640612165">Iraq's Top Court Endorses Election Results in Setback for Pro-Iran Faction</a> WSJ: The decision paves the way for the formation of a new government dominated by Shiite Muslim cleric Moqtada al-Sadr, who won the largest share of seats in the October poll. 
- <p class="updated_time"> 04:21 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/australia/australia-lab-negative-covid-tests-mistake.html">Australia Covid Lab Mistakenly Tells Hundreds They Tested Negative</a> NYT: Human error is blamed for the mix-up, which so far has affected 400 people at a clinic in Sydney. 
  <p class="updated_time"> 03:48 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59801025?at_medium=RSS&at_campaign=KARANGA">Brazilian town floods after two dams collapse</a> BBC: People in the town of Itabuna can be seen using inflatable rafts and canoes to get from house to house. 
  <p class="updated_time"> 02:01 AM CT, Dec. 27 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/africa/south-africa-covid-quarantine.html">South Africa Ends Quarantining and Contact Tracing</a> NYT: The new regulations follow data showing that while the Omicron variant is highly transmissible, it has not caused high rates of severe disease in South Africa. 
  <p class="updated_time"> 04:12 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/south-africa-united-states-travel.html">Travel Between U.S. and Southern Africa Will Resume, White House Says</a> NYT: Biden will end the ban at midnight on Dec. 31, reversing restrictions imposed last month. South Africa criticized the ban as discriminatory. 
- <p class="updated_time"> 01:47 PM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/arts/music/suga-bts-covid.html">Suga of BTS Tests Positive for Covid</a> NYT: The K-pop star Suga discovered that he was infected after returning to South Korea from the United States. 
  <p class="updated_time"> 07:23 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/covid-britain-omicron-christmas.html">Despite Omicron Wave, Britons Are Set on Not Losing Another Christmas</a> NYT: For Christmas shoppers in central London this week, little seemed to dampen their spirits. But there was an undercurrent that the city was bracing for further coronavirus restrictions. 
  <p class="updated_time"> 05:32 AM CT, Dec. 24 </p> 
@@ -196,10 +196,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:50 PM CT, Dec. 27 </p> 
+ <a href="https://www.cnn.com/2021/12/27/politics/vaccine-mandates-domestic-flights-what-matters/index.html">Analysis: Are vaccine mandates for domestic flights our ticket out of the pandemic?</a> CNN: Public health experts for months have tried to reach the large swath of unvaccinated Americans with a simple message: Get vaccinated or risk serious health complications. 
  <p class="updated_time"> 07:26 PM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/fauci-domestic-flight-vaccine-mandate-526194">Fauci: 'I don’t think people should expect' a domestic flight vaccine mandate</a> Politico: "It’s on the table," he added. "But that doesn’t mean it’s going to happen. I doubt if we’re going to see something like that in the reasonably foreseeable future.” 
- <p class="updated_time"> 06:56 PM CT, Dec. 27 </p> 
- <a href="https://www.cnn.com/2021/12/27/politics/vaccine-mandates-domestic-flights-what-matters/index.html">Analysis: Are vaccine mandates for domestic flights our ticket out of the pandemic?</a> CNN: Public health experts for months have tried to reach the large swath of unvaccinated Americans with a simple message: Get vaccinated or risk serious health complications. 
  <p class="updated_time"> 06:35 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/health/cdc-covid-quarantine-isolation-shortened-recommendation/index.html">CDC shortens recommended Covid-19 isolation and quarantine time</a> CNN: The US Centers for Disease Control and Prevention on Monday shortened the recommended times that people should isolate when they've tested positive for Covid-19 from 10 days to five days if they don't have symptoms -- and if they wear a mask around others for at least five more days. 
  <p class="updated_time"> 05:25 PM CT, Dec. 27 </p> 
