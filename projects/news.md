@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:37 AM CT, Dec. 28 </p> 
+ <p class="updated_time"> 09:47 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City School System, the Nation’s Largest, to Reopen With More Testing</a> NYT: The spread of Omicron will lead to a second straight year of subdued New Year’s celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive but don’t have symptoms. 
- <p class="updated_time"> 09:37 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/nyregion/new-york-citys-schools-will-reopen-with-ramped-up-testing-to-limit-classroom-closures.html">New York City’s schools will reopen with ramped-up testing to limit classroom closures.</a> NYT: Instead of delaying the start of in-person school and pivoting to remote learning, New York City will aim to detect more infections while mitigating disruptions. 
+ <p class="updated_time"> 09:45 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-lithium-water-climate.html">Chile Rewrites Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
+ <p class="updated_time"> 09:38 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/nyregion/nyc-schools-covid-testing-students.html">NYC Schools Will Reopen with Ramped-Up Covid Testing to Limit Closures</a> NYT: Instead of delaying the start of in-person school and pivoting to remote learning, New York City will aim to detect more infections while mitigating disruptions. 
  <p class="updated_time"> 09:25 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/india-mother-teresa-charity-crackdown.html">India Cuts Off Foreign Funding of Mother Teresa’s Charity</a> NYT: The move is part of a tightening of rules on organizations financed by donations from abroad and comes amid a rise in attacks on religious minorities. 
- <p class="updated_time"> 09:23 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-lithium-water-climate.html">Chile Rewrites Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
  <p class="updated_time"> 07:40 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59809821?at_medium=RSS&at_campaign=KARANGA">South Africa court blocks Shell's oil exploration</a> BBC: Environmentalists hail the ruling as a victory in their efforts to protect marine life. 
  <p class="updated_time"> 07:14 AM CT, Dec. 28 </p> 
@@ -37,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/saudi-arabia-films-movies.html">As Other Arab States Falter, Saudi Arabia Seeks to Become a Cultural Hub</a> NYT: While conflicts and crises have battered Arab cultural capitals, Saudi Arabia is hosting film festivals and bankrolling new movies. 
  <p class="updated_time"> 05:05 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59806040?at_medium=RSS&at_campaign=KARANGA">Covid: US halves isolation time for asymptomatic infection</a> BBC: The guideline for asymptomatic cases is expected to ease disruptions caused by staff shortages. 
+ <p class="updated_time"> 04:38 AM CT, Dec. 28 </p> 
+ <a href="https://www.wsj.com/articles/afghanistans-former-female-troops-once-hailed-by-the-west-fear-for-their-lives-11640696404">Afghanistan's Former Female Troops Fear for Their Lives</a> WSJ: “They have relocated musicians, soccer players and artists, and their lives were not at risk as much as ours,” a former Afghan Air Force officer says of Western governments. 
  <p class="updated_time"> 04:35 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/delta-flight-shanghai-seattle.html">Delta Says Flight to Shanghai Was Turned Round in Midair Because of Cleaning Rules</a> NYT: The carrier said that it ordered the plane back last week because of sanitation requirements that were “not operationally viable.” 
  <p class="updated_time"> 04:17 AM CT, Dec. 28 </p> 
@@ -49,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59806499?at_medium=RSS&at_campaign=KARANGA">Elon Musk criticised after China space complaint to UN</a> BBC: The SpaceX boss is attacked on Chinese social media after the complaint was made public. 
  <p class="updated_time"> 02:00 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/nord-stream-pipeline-germany-russia.html">Germany Wants Its Russian Pipeline. German Allies Aren’t Sure It’s a Good Idea.</a> NYT: The Nord Stream 2 Russia-to-Germany pipeline could offer plentiful natural gas. But tensions with Vladimir Putin are keeping it out of reach. 
- <p class="updated_time"> 02:00 AM CT, Dec. 28 </p> 
- <a href="https://www.wsj.com/articles/afghanistans-former-female-troops-once-hailed-by-the-west-fear-for-their-lives-11640696404">Afghanistan's Former Female Troops Fear for Their Lives</a> WSJ: “They have relocated musicians, soccer players and artists, and their lives were not at risk as much as ours,” a former Afghan Air Force officer says of Western governments. 
  <p class="updated_time"> 01:55 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59806939?at_medium=RSS&at_campaign=KARANGA">Snow buries north and west Japan</a> BBC: The snow has meant grounded flights and stranded travellers as people are told to stay indoors. 
  <p class="updated_time"> 01:11 AM CT, Dec. 28 </p> 
