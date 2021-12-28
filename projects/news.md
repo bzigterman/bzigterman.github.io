@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:06 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid News: Omicron Hasn’t Swayed the Least Vaccinated U.S. Counties</a> NYT: To minimize disruptions as virus cases surge, the C.D.C. halved the recommended isolation period for infected Americans who show no symptoms, to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
+ <p class="updated_time"> 09:42 PM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59806499?at_medium=RSS&at_campaign=KARANGA">Elon Musk criticised after China space complaint to UN</a> BBC: The SpaceX boss was attacked on Chinese social media after the complaint was made public. 
  <p class="updated_time"> 09:22 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/health/omicron-cdc.html">As Omicron Cases Surge, CDC Shortens Isolation Times for Many Americans</a> NYT: Hoping to prevent further disruptions to daily life, the C.D.C. reduced the period that certain infected Americans must sequester. 
- <p class="updated_time"> 08:40 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Hasn’t Swayed the Least Vaccinated U.S. Counties</a> NYT: To minimize disruptions as virus cases surge, the C.D.C. halved the recommended isolation period for infected Americans who show no symptoms, to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
  <p class="updated_time"> 08:23 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/australia/australia-lab-negative-covid-tests-mistake.html">Australia Covid Lab Mistakenly Tells Hundreds They Tested Negative</a> NYT: Human error was to blame for the mix-up amid a high demand for Covid testing, a clinic in Sydney said. 
  <p class="updated_time"> 07:56 PM CT, Dec. 27 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/power-struggle-between-somali-president-and-prime-minister-threatens-fight-against-extremists-11640620008">Power Struggle Between Somali President and Prime Minister Threatens Fight Against Extremists</a> WSJ: The Somali president has suspended the prime minister, who in turn said he would assume the president’s duties, a battle that undermines the country’s fight against al-Shabaab. 
  <p class="updated_time"> 09:43 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59800515?at_medium=RSS&at_campaign=KARANGA">Somalia PM Roble defiant after President Farmajo suspends him</a> BBC: The PM says the president's move over land theft allegations is an attempted coup. 
- <p class="updated_time"> 09:39 AM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59803766?at_medium=RSS&at_campaign=KARANGA">Leading American naturalist EO Wilson, dubbed 'Darwin's heir', dies at 92</a> BBC: The award-winning naturalist and conservationist earned the Darwin nickname for his life's work. 
  <p class="updated_time"> 09:28 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/carnival-cruise-covid.html">Carnival Cruise Ship Returns to Miami With 'Small Number' of Covid Cases</a> NYT: The Carnival Freedom is the latest Florida cruise ship to be disrupted by the coronavirus as the Omicron variant drives up cases in the U.S. 
  <p class="updated_time"> 09:15 AM CT, Dec. 27 </p> 
