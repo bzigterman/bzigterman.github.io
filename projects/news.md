@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:09 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/middleeast/saudi-arabia-films-movies.html">As Other Arab States Falter, Saudi Arabia Seeks to Become a Cultural Hub</a> NYT: While conflicts and crises have battered Arab cultural capitals, Saudi Arabia is hosting film festivals and bankrolling new movies. 
+ <p class="updated_time"> 05:05 AM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59806040?at_medium=RSS&at_campaign=KARANGA">Covid: US halves isolation time for asymptomatic infection</a> BBC: The guideline for asymptomatic cases is expected to ease disruptions caused by staff shortages. 
  <p class="updated_time"> 04:47 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid News: Omicron Hasn’t Swayed the Least Vaccinated U.S. Counties</a> NYT: To minimize disruptions as virus cases surge, the C.D.C. halved the recommended isolation period for infected Americans who show no symptoms, to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
  <p class="updated_time"> 04:35 AM CT, Dec. 28 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/us/where-vaccination-rates-are-low-in-the-us-the-reasons-vary.html">Where vaccination rates are low in the U.S., the reasons vary.</a> NYT: As the Omicron variant surges, and experts say that vaccinations strongly protect against severe illness, U.S. public health officials are closely examining ways to reach the least-vaccinated areas. 
  <p class="updated_time"> 04:00 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/italy-basketball-saint.html">‘Bless and Protect My Team’: An Italian Town Hopes Its Basketball Patron Advances to National Status</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
- <p class="updated_time"> 03:33 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59806040?at_medium=RSS&at_campaign=KARANGA">Covid: US halves isolation time for asymptomatic infection</a> BBC: The guideline for asymptomatic cases is expected to ease disruptions caused by staff shortages. 
  <p class="updated_time"> 02:20 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59805829?at_medium=RSS&at_campaign=KARANGA">Covid: France tightens restrictions amid Omicron surge</a> BBC: Germany and Greece also toughen measures in a bid to tackle infections amid fears about Omicron. 
  <p class="updated_time"> 02:13 AM CT, Dec. 28 </p> 
@@ -60,7 +62,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:01 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59761535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Children in Kabul working for a piece of bread</a> BBC: More and more Afghan children are having to work to support their families, amidst an economic collapse. 
  <p class="updated_time"> 06:01 PM CT, Dec. 27 </p> 
- <a href="https://www.wsj.com/articles/egyptian-pharoahs-mummy-digitally-unwrapped-after-3-500-years-11640667662">Egyptian Pharoah's Mummy 'Digitally Unwrapped' After 3,500 Years</a> WSJ: Scientists use CT scans to peek inside the remains of the twice-buried Amenhotep I. 
+ <a href="https://www.wsj.com/articles/egyptian-pharoahs-mummy-digitally-unwrapped-after-3-500-years-11640667662">Pharoah's Mummy Digitally Unwrapped After 3,500 Years</a> WSJ: Scientists use CT scans to peek inside the remains of the twice-buried Amenhotep I. 
  <p class="updated_time"> 04:45 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59805894?at_medium=RSS&at_campaign=KARANGA">Kylian Mbappe & Robert Lewandowski voice concerns over a biennial World Cup</a> BBC: France striker Kylian Mbappe and Poland forward Robert Lewandowski voice concerns over holding a World Cup every two years. 
  <p class="updated_time"> 04:19 PM CT, Dec. 27 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/27/1068334991/british-columbia-is-looking-at-how-it-can-adapt-to-prepare-for-more-climate-disa">British Columbia is looking at how it can adapt to prepare for more climate disasters</a> NPR: British Columbia was devastated by natural disasters this year attributed to climate change. The Canadian province is evaluating how to prepare for the next disasters. 
  <p class="updated_time"> 01:00 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/africa/somalia-prime-minister-suspended.html">Somalia’s President Suspends Prime Minister Over Corruption Allegations</a> NYT: The premier, Mohamed Hussein Roble, defied the order to step down as tensions continued over long-delayed elections. 
- <p class="updated_time"> 12:14 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/middleeast/saudi-arabia-films-movies.html">As Other Arab States Falter, Saudi Arabia Seeks to Become a Cultural Hub</a> NYT: While conflicts and crises have battered Arab cultural capitals, Saudi Arabia is hosting film festivals and bankrolling new movies. 
  <p class="updated_time"> 11:50 AM CT, Dec. 27 </p> 
  <a href="https://www.wsj.com/articles/governments-race-to-ease-staff-shortages-as-omicron-spreads-11640605845">As Omicron Spreads, Governments Race to Ease Staff Shortages</a> WSJ: The speed with which the new variant is spreading is presenting a different kind of challenge for policy makers, who are now weighing how to keep critical services functioning amid a wave of staff absences and enforced isolation periods. 
  <p class="updated_time"> 11:23 AM CT, Dec. 27 </p> 
@@ -191,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/asia/myanmar-coup-military-tatmadaw-kyaw-thaung.html">In Myanmar, a Notable Burmese Family Quietly Equipped a Brutal Military</a> NYT: A Burmese-Irish family said all the right things, even as it helped Myanmar’s rulers avoid sanctions scrutiny in buying airplanes, defense radar and more. 
  <p class="updated_time"> 04:13 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/africa/south-africa-covid-quarantine.html">South Africa Ends Quarantining and Contact Tracing</a> NYT: The new regulations follow data showing that while the Omicron variant is highly transmissible, it has not caused high rates of severe disease in South Africa. 
- <p class="updated_time"> 04:12 PM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/south-africa-united-states-travel.html">Travel Between U.S. and Southern Africa Will Resume, White House Says</a> NYT: Biden will end the ban at midnight on Dec. 31, reversing restrictions imposed last month. South Africa criticized the ban as discriminatory. 
 
 
 </details>
