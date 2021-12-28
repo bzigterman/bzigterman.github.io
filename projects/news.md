@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:07 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New Year Festivities Scaled Back Worldwide as Cases Soar</a> NYT: The spread of Omicron will lead to a second straight year of subdued celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive. 
+ <p class="updated_time"> 08:02 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/asia/india-mother-teresa-charity-crackdown.html">India Cuts Off Foreign Funding of Mother Teresa’s Charity</a> NYT: The move is part of a tightening of rules on organizations financed by donations from abroad and comes amid a rise in attacks on religious minorities. 
  <p class="updated_time"> 07:40 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59809821?at_medium=RSS&at_campaign=KARANGA">South Africa court blocks Shell's oil exploration</a> BBC: Environmentalists hail the ruling as a victory in their efforts to protect marine life. 
  <p class="updated_time"> 07:14 AM CT, Dec. 28 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/europe/russia-memorial-human-rights.html">Russian Court Orders Liquidation of the Human Rights Group Memorial </a> NYT: The Supreme Court ruled that Memorial International, which chronicled political repression in Russia, must be liquidated. 
  <p class="updated_time"> 07:00 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59808624?at_medium=RSS&at_campaign=KARANGA">Russian court orders oldest civil rights group Memorial to shut</a> BBC: The Supreme Court dissolves a civil rights group formed to remember victims of Communist repression. 
- <p class="updated_time"> 06:45 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New Year Festivities Scaled Back Worldwide as Cases Soar</a> NYT: The spread of Omicron will lead to a second straight year of subdued celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive. 
  <p class="updated_time"> 06:13 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59791765?at_medium=RSS&at_campaign=KARANGA">France shuts mosque in Beauvais for sermons 'defending jihad'</a> BBC: An imam in the northern town of Beauvais was accused of inciting hatred and violence in his preaching. 
  <p class="updated_time"> 05:56 AM CT, Dec. 28 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/middleeast/park-israel-dcity.html">A New Israeli Wonderland, Where You Can Almost Forget Where You Are</a> NYT: An alien spaceship theme park, an Italian Renaissance-style mall, a canal with gondolas. “Nothing in Israel compares with it,” the developer says. There’s just one catch. 
  <p class="updated_time"> 01:57 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/africa/sudan-coup-protests.html">Anti-Coup Protesters in Sudan Press Their Demand for Return to Civilian Rule</a> NYT: The protests on Saturday underscored the resolve of protesters to continue defying the Oct. 25 coup that derailed the country’s nascent attempt to transition to democratic rule. 
- <p class="updated_time"> 12:24 PM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/asia/hindu-extremists-india-muslims.html">As Hindu Extremists Call for Killing of Muslims, India’s Leaders Keep Silent</a> NYT: Right-wing Hindu activists at a conference took an oath to harm Muslims if necessary to make “a Hindu-only nation,” the most blatant example of rising anti-Muslim sentiment across India. 
  <p class="updated_time"> 10:38 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/queen-elizabeth-christmas-address.html">‘Christmas Can Be Hard’ Amid Loss, Queen Elizabeth Says in Annual Message</a> NYT: Her address, which was recorded last week, is the first since the death of her husband, Prince Philip. It comes as coronavirus cases in Britain have hit record highs. 
  <p class="updated_time"> 10:22 AM CT, Dec. 25 </p> 
