@@ -49,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59761535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Children in Kabul working for a piece of bread</a> BBC: More and more Afghan children are having to work to support their families, amidst an economic collapse. 
  <p class="updated_time"> 05:55 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59806040?at_medium=RSS&at_campaign=KARANGA">Covid: US halves isolation time for asymptomatic infection</a> BBC: The Centres for Disease Control (CDC) recommends five days isolation for asymptomatic Covid cases. 
+ <p class="updated_time"> 04:45 PM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59805894?at_medium=RSS&at_campaign=KARANGA">Kylian Mbappe & Robert Lewandowski voice concerns over a biennial World Cup</a> BBC: France striker Kylian Mbappe and Poland forward Robert Lewandowski voice concerns over holding a World Cup every two years. 
  <p class="updated_time"> 04:19 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59806039?at_medium=RSS&at_campaign=KARANGA">US animal shelter shocked after 800 parakeets handed over</a> BBC: A Detroit animal shelter said the birds were handed over in a "very unhealthy situation". 
  <p class="updated_time"> 04:05 PM CT, Dec. 27 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/carnival-cruise-covid.html">Carnival Cruise Ship Returns to Miami With 'Small Number' of Covid Cases</a> NYT: The Carnival Freedom is the latest Florida cruise ship to be disrupted by the coronavirus as the Omicron variant drives up cases in the U.S. 
  <p class="updated_time"> 09:00 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/europe/spain-king-juan-carlos.html">Will Juan Carlos, Spain's Disgraced King, Get a Royal Homecoming?</a> NYT: In the years since Juan Carlos, Spain’s former king, fled the country to escape corruption investigations, some of the cases have been resolved or dropped. Now Spaniards are weighing whether they want him back. 
- <p class="updated_time"> 08:29 AM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59800040?at_medium=RSS&at_campaign=KARANGA">Andrzej Duda: Polish president vetoes controversial media law</a> BBC: Opponents say the law banning foreign ownership in the media aimed to silence government critics. 
  <p class="updated_time"> 06:02 AM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068215624/myanmar-court-postpones-verdicts-in-second-case-against-suu-kyi">Myanmar court postpones verdicts in second case against Suu Kyi</a> NPR: The case is among many brought against the 76-year-old Nobel Peace Prize laureate since the army seized power on Feb. 1. 
  <p class="updated_time"> 05:01 AM CT, Dec. 27 </p> 
