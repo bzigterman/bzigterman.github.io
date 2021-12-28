@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:55 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New Year Festivities Scaled Back Worldwide as Cases Soar</a> NYT: The spread of Omicron will lead to a second straight year of subdued celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive but don’t have symptoms. 
  <p class="updated_time"> 08:36 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/india-mother-teresa-charity-crackdown.html">India Cuts Off Foreign Funding of Mother Teresa’s Charity</a> NYT: The move is part of a tightening of rules on organizations financed by donations from abroad and comes amid a rise in attacks on religious minorities. 
- <p class="updated_time"> 08:33 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New Year Festivities Scaled Back Worldwide as Cases Soar</a> NYT: The spread of Omicron will lead to a second straight year of subdued celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive. 
  <p class="updated_time"> 07:40 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59809821?at_medium=RSS&at_campaign=KARANGA">South Africa court blocks Shell's oil exploration</a> BBC: Environmentalists hail the ruling as a victory in their efforts to protect marine life. 
  <p class="updated_time"> 07:14 AM CT, Dec. 28 </p> 
@@ -211,7 +211,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:16 AM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/richard-marcinko-dead-seal-team-six/index.html">Richard Marcinko, the first head of the elite SEAL Team Six, has died</a> CNN: Richard Marcinko, a legendary military figure known for leading SEAL Team Six when the covert special operations unit was in its infancy, died Saturday, according to his son and the National Navy SEAL Museum. He was 81. 
  <p class="updated_time"> 12:25 AM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/joe-biden-covid-19-testing-failure/index.html">Analysis: Biden grapples with a Covid-19 testing failure that could have been foreseen</a> CNN: President Joe Biden and his team repeatedly promised more Covid-19 testing, including at-home kits that deliver rapid results, but they are now admitting a virus that is more adaptable than the politicians who fight it has outpaced them again. 
+ <a href="https://www.cnn.com/2021/12/28/politics/joe-biden-covid-19-testing-failure/index.html">Biden grapples with a Covid-19 testing failure that could have been foreseen</a> CNN: President Joe Biden and his team repeatedly promised more Covid-19 testing, including at-home kits that deliver rapid results, but they are now admitting a virus that is more adaptable than the politicians who fight it has outpaced them again. 
  <p class="updated_time"> 07:50 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/vaccine-mandates-domestic-flights-what-matters/index.html">Analysis: Are vaccine mandates for domestic flights our ticket out of the pandemic?</a> CNN: Public health experts for months have tried to reach the large swath of unvaccinated Americans with a simple message: Get vaccinated or risk serious health complications. 
  <p class="updated_time"> 07:26 PM CT, Dec. 27 </p> 
