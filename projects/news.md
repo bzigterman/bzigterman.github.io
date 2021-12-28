@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:04 AM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59752091?at_medium=RSS&at_campaign=KARANGA">Australia: Hundreds given false Covid results in Sydney lab error</a> BBC: At least 886 people were told they did not have Covid, when they in fact had tested positive. 
  <p class="updated_time"> 11:29 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid News: Omicron Hasn’t Swayed the Least Vaccinated U.S. Counties</a> NYT: To minimize disruptions as virus cases surge, the C.D.C. halved the recommended isolation period for infected Americans who show no symptoms, to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
- <p class="updated_time"> 11:16 PM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59752091?at_medium=RSS&at_campaign=KARANGA">Australia: Hundreds given false Covid results in Sydney lab error</a> BBC: At least 886 people were told they did not have Covid, when they in fact had tested positive. 
  <p class="updated_time"> 10:40 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807119?at_medium=RSS&at_campaign=KARANGA">Paing Takhon: Myanmar celebrity gets three years jail for mass protests</a> BBC: Paing Takhon, who has millions of fans, took part in protests against a military coup. 
  <p class="updated_time"> 10:28 PM CT, Dec. 27 </p> 
@@ -185,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/south-africa-united-states-travel.html">Travel Between U.S. and Southern Africa Will Resume, White House Says</a> NYT: Biden will end the ban at midnight on Dec. 31, reversing restrictions imposed last month. South Africa criticized the ban as discriminatory. 
  <p class="updated_time"> 07:23 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/covid-britain-omicron-christmas.html">Despite Omicron Wave, Britons Are Set on Not Losing Another Christmas</a> NYT: For Christmas shoppers in central London this week, little seemed to dampen their spirits. But there was an undercurrent that the city was bracing for further coronavirus restrictions. 
- <p class="updated_time"> 05:32 AM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/europe/europe-covid-pandemic-omicron.html">Europeans Ponder Living With, Not Defeating, Covid</a> NYT: On the eve of the biggest holidays in Europe, exhaustion with the pandemic is rising. So is resignation that the virus is endemic. 
  <p class="updated_time"> 05:06 AM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/world/europe/queen-elizabeth-ii-christmas-covid.html">A Quieter Christmas for Queen Elizabeth II as Covid Persists</a> NYT: The 95-year-old monarch is spending the holiday at Windsor Castle instead of Sandringham, her English country estate. 
 
