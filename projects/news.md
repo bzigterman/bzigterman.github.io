@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:23 AM CT, Dec. 28 </p> 
+ <p class="updated_time"> 07:00 AM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59808624?at_medium=RSS&at_campaign=KARANGA">Russian court orders oldest civil rights group Memorial to shut</a> BBC: The Supreme Court dissolves a civil rights group formed to remember victims of Communist repression. 
+ <p class="updated_time"> 06:45 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New Year Festivities Scaled Back Worldwide as Cases Soar</a> NYT: The spread of Omicron will lead to a second straight year of subdued celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive. 
  <p class="updated_time"> 06:13 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59791765?at_medium=RSS&at_campaign=KARANGA">France shuts mosque in Beauvais for sermons 'defending jihad'</a> BBC: An imam in the northern town of Beauvais was accused of inciting hatred and violence in his preaching. 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/europe/nord-stream-pipeline-germany-russia.html">Germany Wants Its Russian Pipeline. German Allies Aren’t Sure It’s a Good Idea.</a> NYT: The Nord Stream 2 Russia-to-Germany pipeline could offer plentiful natural gas. But tensions with Vladimir Putin are keeping it out of reach. 
  <p class="updated_time"> 01:55 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59806939?at_medium=RSS&at_campaign=KARANGA">Snow buries north and west Japan</a> BBC: The snow has meant grounded flights and stranded travellers as people are told to stay indoors. 
- <p class="updated_time"> 12:04 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59752091?at_medium=RSS&at_campaign=KARANGA">Australia: Hundreds given false Covid results in Sydney lab error</a> BBC: At least 886 people were told they did not have Covid, when they in fact had tested positive. 
  <p class="updated_time"> 10:40 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807119?at_medium=RSS&at_campaign=KARANGA">Paing Takhon: Myanmar celebrity gets three years in jail for mass protests</a> BBC: Paing Takhon, who has millions of fans, took part in protests against a military coup. 
  <p class="updated_time"> 10:28 PM CT, Dec. 27 </p> 
