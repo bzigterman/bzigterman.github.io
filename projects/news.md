@@ -7,14 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:07 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59808624?at_medium=RSS&at_campaign=KARANGA">Russian court orders oldest civil rights group Memorial to shut</a> BBC: The Supreme Court dissolves a civil rights group formed to remember victims of Communist repression. 
- <p class="updated_time"> 10:06 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-lithium-water-climate.html">Chile Rewrites Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
- <p class="updated_time"> 09:47 AM CT, Dec. 28 </p> 
+ <p class="updated_time"> 10:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City School System, the Nation’s Largest, to Reopen With More Testing</a> NYT: The spread of Omicron will lead to a second straight year of subdued New Year’s celebrations in many places. The C.D.C. loosened isolation protocols for Americans who test positive but don’t have symptoms. 
- <p class="updated_time"> 09:38 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/nyregion/nyc-schools-covid-testing-students.html">NYC Schools Will Reopen with Ramped-Up Covid Testing to Limit Closures</a> NYT: Instead of delaying the start of in-person school and pivoting to remote learning, New York City will aim to detect more infections while mitigating disruptions. 
+ <p class="updated_time"> 10:46 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/europe/windsor-castle-crossbow.html">Britain’s Crossbow Rules in the Cross Hairs After Windsor Castle Breach</a> NYT: Britain’s Home Office said it was “considering options to strengthen controls” on the weapons, part of a continuing review, after a man was arrested in castle grounds with one. 
+ <p class="updated_time"> 10:39 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile Rewrites Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
+ <p class="updated_time"> 10:34 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/asia/afghanistan-pakistan-refugee-limbo.html">Born and Raised in Pakistan, but Living in Legal Limbo</a> NYT: Pakistan has refused to grant the children of Afghan refugees full rights as citizens. A lack of identification documents limits their livelihoods and puts them at risk of deportation. 
+ <p class="updated_time"> 10:26 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/nyregion/nyc-schools-covid-testing-students.html">NYC Schools Will Reopen with More Covid-19 Testing to Limit Closures</a> NYT: Instead of delaying the start of in-person school and pivoting to remote learning, New York City will aim to detect more infections to mitigate disruptions. 
+ <p class="updated_time"> 10:20 AM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59808624?at_medium=RSS&at_campaign=KARANGA">Russian court orders oldest civil rights group Memorial to shut</a> BBC: The Supreme Court dissolves a civil rights group formed to remember victims of Communist repression. 
+ <p class="updated_time"> 10:20 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/new-delhi-doctor-strike.html">Doctors Strike Over Understaffing Disrupts Delhi Hospitals</a> NYT: While the country’s overall case count remains low, daily infections in the capital region have risen by more than 300 percent over the past two weeks. 
+ <p class="updated_time"> 10:16 AM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59808883?at_medium=RSS&at_campaign=KARANGA">Egyptian pharaoh's mummy digitally unwrapped for first time</a> BBC: CT scans allowed archaeologists to study Amenhotep I's body and learn about his death and burial. 
  <p class="updated_time"> 09:25 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/india-mother-teresa-charity-crackdown.html">India Cuts Off Foreign Funding of Mother Teresa’s Charity</a> NYT: The move is part of a tightening of rules on organizations financed by donations from abroad and comes amid a rise in attacks on religious minorities. 
  <p class="updated_time"> 07:40 AM CT, Dec. 28 </p> 
@@ -31,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59791765?at_medium=RSS&at_campaign=KARANGA">France shuts mosque in Beauvais for sermons 'defending jihad'</a> BBC: An imam in the northern town of Beauvais was accused of inciting hatred and violence in his preaching. 
  <p class="updated_time"> 05:56 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59810383?at_medium=RSS&at_campaign=KARANGA">Alexa tells 10-year-old girl to put penny in plug socket</a> BBC: Amazon has fixed its voice assistant so that it will not suggest the dangerous “challenge” again. 
- <p class="updated_time"> 05:43 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59808883?at_medium=RSS&at_campaign=KARANGA">Egyptian pharaoh's mummy digitally unwrapped for first time</a> BBC: CT scans allowed archaeologists to study Amenhotep I's body and learn about his death and burial. 
  <p class="updated_time"> 05:09 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/saudi-arabia-films-movies.html">As Other Arab States Falter, Saudi Arabia Seeks to Become a Cultural Hub</a> NYT: While conflicts and crises have battered Arab cultural capitals, Saudi Arabia is hosting film festivals and bankrolling new movies. 
  <p class="updated_time"> 05:05 AM CT, Dec. 28 </p> 
@@ -161,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/1068063592/a-revolutionary-movement-for-democracy-has-taken-hold-in-sudan-led-by-young-peop">A revolutionary movement for democracy has taken hold in Sudan, led by young people</a> NPR: A huge network of resistance committees has transformed public protest in Sudan, challenging the new junta. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/insider/in-congo-bolivia-and-beyond-where-the-green-future-begins.html">In Congo, Bolivia and Beyond, Where the Green Future Begins</a> NYT: The Times’s Race to the Future series is focused on the competition for electric-car resources that will shape the 21st century. 
- <p class="updated_time"> 03:26 AM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 01:28 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59793776?at_medium=RSS&at_campaign=KARANGA">Archbishop Desmond Tutu: Looking back at his life and legacy</a> BBC: The BBC's Nomsa Maseko looks back at the life of Archbishop Desmond Tutu, who has died aged 90. 
  <p class="updated_time"> 05:28 PM CT, Dec. 25 </p> 
@@ -173,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/navy-ship-covid-guantanamo-bay.html">Covid Outbreak Strands U.S.S. Milwaukee in Guantánamo Bay</a> NYT: The crew held an open-air Christmas service on the pier, allowing the sailors to remain socially distanced. 
  <p class="updated_time"> 02:12 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/asia/china-money.html">Why Bragging About Your Wealth In China Can Get You Censored</a> NYT: Online posts by users showing off their receipts, over-ordering food or scattering money have been deemed vulgar. Regulators say such content leads young people astray. 
- <p class="updated_time"> 02:05 PM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/middleeast/park-israel-dcity.html">A New Israeli Wonderland, Where You Can Almost Forget Where You Are</a> NYT: An alien spaceship theme park, an Italian Renaissance-style mall, a canal with gondolas. “Nothing in Israel compares with it,” the developer says. There’s just one catch. 
  <p class="updated_time"> 01:57 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/africa/sudan-coup-protests.html">Anti-Coup Protesters in Sudan Press Their Demand for Return to Civilian Rule</a> NYT: The protests on Saturday underscored the resolve of protesters to continue defying the Oct. 25 coup that derailed the country’s nascent attempt to transition to democratic rule. 
  <p class="updated_time"> 10:38 AM CT, Dec. 25 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/europe/pope-francis-christmas-message.html">As Covid Disrupts a 2nd Christmas, Pope Prays for Healing and Peace</a> NYT: In his Christmas message, Pope Francis called on world leaders to resolve persisting conflicts and prayed for people across the globe who are affected by the coronavirus. 
  <p class="updated_time"> 05:00 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/canada/another-covid-christmas.html">Another Covid Christmas …</a> NYT: December went by like an Omicron advent calendar, each passing day revealing how the virus’s trajectory would change hoped-for holiday plans. 
- <p class="updated_time"> 04:00 AM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/africa/africa-coronavirus-omicron.html">Many African Countries Toughen Covid Restrictions as Fourth Wave Spreads</a> NYT: Infections have more than doubled or tripled in many countries, prompting the authorities to reimpose curfews and quarantines and introduce vaccine mandates as the holiday season gets underway. 
 
 
 </details>
@@ -211,7 +211,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:02 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1067460165/colorados-first-lawmaker-to-use-a-wheelchair-will-finally-get-to-wield-the-gavel">Colorado's first lawmaker to use a wheelchair will finally get to wield the gavel</a> NPR: State Rep. David Ortiz was paralyzed from the waist down while serving in Afghanistan. To give him access to the House podium, legislative staff say they have built the first lift of its kind. 
  <p class="updated_time"> 04:00 AM CT, Dec. 28 </p> 
- <a href="https://www.npr.org/2021/12/28/1067206141/biden-federal-judges-nominations-diverse">Biden had a good year picking federal judges. But the job could get tougher in 2022</a> NPR: President Biden has gotten a diverse group of 40 federal judges confirmed in 2021, the most for a new president since the Reagan era. 
+ <a href="https://www.npr.org/2021/12/28/1067206141/biden-federal-judges-nominations-diverse">Biden had a productive year picking federal judges. The job could get tougher in 2022</a> NPR: President Biden has gotten a diverse group of 40 federal judges confirmed in 2021, the most for a new president since the Reagan era. 
  <p class="updated_time"> 02:16 AM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/richard-marcinko-dead-seal-team-six/index.html">Richard Marcinko, the first head of the elite SEAL Team Six, has died</a> CNN: Richard Marcinko, a legendary military figure known for leading SEAL Team Six when the covert special operations unit was in its infancy, died Saturday, according to his son and the National Navy SEAL Museum. He was 81. 
  <p class="updated_time"> 12:25 AM CT, Dec. 28 </p> 
@@ -222,6 +222,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/27/fauci-domestic-flight-vaccine-mandate-526194">Fauci: 'I don’t think people should expect' a domestic flight vaccine mandate</a> Politico: "It’s on the table," he added. "But that doesn’t mean it’s going to happen. I doubt if we’re going to see something like that in the reasonably foreseeable future.” 
  <p class="updated_time"> 05:25 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/sarah-weddington-dead.html">Sarah Weddington, Who Successfully Argued Roe v. Wade, Dies at 76</a> NYT: She went before the U.S. Supreme Court at 26 with almost no legal experience and won one of the most consequential cases in American history. 
+ <p class="updated_time"> 04:42 PM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/news/2021/12/27/cdc-cut-quarantine-covid-omicron-526187">CDC cuts recommended quarantine time amid Omicron surge</a> Politico: The reduction follows the CDC’s move last week to shorten its isolation period for infected health care workers, assuming they are asymptomatic and later test negative. 
  <p class="updated_time"> 04:20 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/biden-defense-bill.html">Biden Signs $770 Billion Defense Bill</a> NYT: The National Defense Authorization Act passed Congress with bipartisan support, over the opposition of liberals pushing for more social spending. 
  <p class="updated_time"> 03:51 PM CT, Dec. 27 </p> 
