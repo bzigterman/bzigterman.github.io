@@ -232,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/28/politics/the-year-supreme-court-conservatives-made-their-mark/index.html">The year Supreme Court conservatives made their mark  </a> CNN: Over the last year, the Supreme Court's newly solidified conservative majority has made clear that it is willing to forgo a deliberate pace of justice in favor of a race to the right, leaving behind the liberal justices and at times Republican-appointed Chief Justice John Roberts. 
  <p class="updated_time"> 08:58 AM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/january-6-committee-interim-report-summer-2022/index.html">January 6 committee eyes interim report by summer 2022</a> CNN: The House select committee investigating the January 6 Capitol Hill riot is working toward a goal of releasing an interim report with initial findings by the summer, a committee aide told CNN, and that a final report would follow in fall 2022. 
- <p class="updated_time"> 06:19 AM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/27/health/cdc-covid-quarantine-isolation-shortened-recommendation/index.html">CDC shortens recommended Covid-19 isolation and quarantine time</a> CNN: The US Centers for Disease Control and Prevention on Monday shortened the recommended times that people should isolate when they've tested positive for Covid-19 from 10 days to five days if they don't have symptoms -- and if they wear a mask around others for at least five more days. 
  <p class="updated_time"> 04:30 AM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/climate-disaster-relief-farm-bill-democrats-526183">The latest tug-of-war: Billions in farm subsidies and rural aid</a> Politico: The next farm bill may be Democrats’ best chance to scale up funding for agriculture programs that fight climate change. But time isn’t on their side. 
  <p class="updated_time"> 04:02 AM CT, Dec. 28 </p> 
@@ -332,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/24/tis-the-season-of-year-end-lists-495550"> ’Tis the season of year-end lists</a> Politico Playbook: And the U.S. lifts travel restrictions on southern Africa. 
  <p class="updated_time"> 08:49 AM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/bernard-kerik-january-6-committee/index.html">Giuliani associate Bernard Kerik plans to publicly release some documents requested by January 6 committee</a> CNN: Former New York City Police Commissioner Bernard Kerik says he is planning to publicly release some documents requested by the House select committee investigating January 6. 
- <p class="updated_time"> 08:45 AM CT, Dec. 24 </p> 
- <a href="https://www.cnn.com/2021/12/24/politics/trump-covid-vaccine-republicans-polling/index.html">Trump's endorsement of vaccines aligns with most Republicans' views — but it may be an uphill battle to convince the holdouts</a> CNN: Former President Donald Trump has recently been vocal about the benefits of vaccination against Covid-19 -- a position that's in line with the overwhelming majority of Americans who've chosen to get vaccinated, including the bulk of his own party. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/maryland-governor-democrats-526119">Dems face off in Maryland primary — in an ‘incredibly Republican year’</a> Politico: Looming over the gubernatorial primary is a political environment likely benefiting Republicans — amplified by the GOP’s victory in neighboring Virginia last month. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
@@ -372,6 +368,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/nyregion/cyrus-vance-donald-trump.html">Trump Fraud Inquiry Won’t Be Resolved When Vance’s Term Ends Next Week</a> NYT: After leading a three-year investigation into the former president, the Manhattan district attorney, Cyrus R. Vance Jr., will hand it to his successor. 
  <p class="updated_time"> 11:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/dccc-partnership-campaign-staff-diversity-526041">DCCC launching partnership to boost campaign staff diversity</a> Politico: House Democrats' campaign arm is partnering with Blue Leadership Collaborative to recruit and retain people of color, women and people who identify as queer as senior staff. 
+ <p class="updated_time"> 07:41 AM CT, Dec. 23 </p> 
+ <a href="https://www.cnn.com/2021/12/23/politics/joe-biden-filibuster-voting-rights/index.html">Biden says he supports filibuster carve-out for voting rights</a> CNN: President Joe Biden says he supports making an exception to the Senate filibuster rules in order to pass voting rights legislation. 
  <p class="updated_time"> 07:09 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/23/senate-candidates-trade-house-toil-for-celeb-launchpad-495547">Senate candidates trade House toil for celeb launchpad</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Dec. 23 </p> 
