@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:37 PM CT, Dec. 28 </p> 
+ <p class="updated_time"> 02:53 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Lowers Estimate of Omicron’s Prevalence in U.S.</a> NYT: The estimate dropped from about 73 percent to 23 percent for the week ending Dec. 18, and the agency now says Omicron became dominant the following week. A doctors’ protest over understaffing is causing chaos at Delhi hospitals. 
+ <p class="updated_time"> 02:53 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/omicron-cluster-covid-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
+ <p class="updated_time"> 02:35 PM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59808888?at_medium=RSS&at_campaign=KARANGA">Israel tries to contain avian flu outbreak after 5,000 wild cranes die</a> BBC: Some 5,000 wild cranes have died and hundreds of thousands of chickens and turkeys are being culled. 
  <p class="updated_time"> 02:29 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/refugees-afghanistan-pakistan.html">Born and Raised in Pakistan, but Living in Legal Limbo</a> NYT: Pakistan has refused to grant the children of Afghan refugees full rights as citizens. A lack of identification documents limits their livelihoods and puts them at risk of deportation. 
  <p class="updated_time"> 02:12 PM CT, Dec. 28 </p> 
@@ -32,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/omicron.html">Fears of Omicron’s Rapid Spread Are Tempered by Signs of Milder Illness</a> NYT: “We can’t stop it,” Israel’s prime minister said of the Omicron variant, but that warning was blunted by early signs of potentially less-severe illness than with earlier coronavirus iterations. 
  <p class="updated_time"> 11:22 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59813216?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Remembered by daughter as a 'hugger'</a> BBC: Nontombi Naomi Tutu says her father "went to meet his God, ready and willing." 
+ <a href="https://www.bbc.co.uk/news/world-africa-59813216?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu's daughter: 'Daddy was a hugger'</a> BBC: Nontombi Naomi Tutu says her father "went to meet his God, ready and willing." 
  <p class="updated_time"> 11:18 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1068500102/india-blocks-foreign-funding-for-mother-teresas-charity">India blocks foreign funding for Mother Teresa's charity</a> NPR: The Indian government says it has refused to renew a permit that allows the Missionaries of Charity to use foreign funds to operate orphanages and hospices across the country. 
  <p class="updated_time"> 11:14 AM CT, Dec. 28 </p> 
@@ -41,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/europe/windsor-castle-intruder.html">Britain’s Crossbow Rules in the Cross Hairs After Windsor Castle Breach</a> NYT: Britain’s Home Office said it was “considering options to strengthen controls” on the weapons, part of a continuing review, after a man was arrested in castle grounds with one. 
  <p class="updated_time"> 10:16 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59808883?at_medium=RSS&at_campaign=KARANGA">Egyptian pharaoh's mummy digitally unwrapped for first time</a> BBC: CT scans allowed archaeologists to study Amenhotep I's body and learn about his death and burial. 
+ <p class="updated_time"> 09:50 AM CT, Dec. 28 </p> 
+ <a href="https://www.wsj.com/articles/china-scholar-jonathan-spence-dies-at-85-11640697976">China Scholar Jonathan Spence Dies at Age 85</a> WSJ: The Yale University historian brought China and its past alive to a broad audience through widely read books and popular lectures. 
  <p class="updated_time"> 09:36 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/u-s-russia-set-january-talks-on-ukraine-nato-growth-11640709604">U.S., Russia Set Schedule for Ukraine Talks in January</a> WSJ: The nations agreed to meet on Jan. 10, amid tensions over Russian forces deployed near Ukraine and Moscow’s demands that NATO renounce any expansion eastward into the former Soviet bloc. 
  <p class="updated_time"> 09:25 AM CT, Dec. 28 </p> 
@@ -55,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1067207363/2021-top-stories-international-npr-correspondents-recommend">These are the top stories NPR's correspondents around the world recommend from 2021</a> NPR: We asked the network's international journalists to pick one story from the year you should check out. Here are their selections. 
  <p class="updated_time"> 06:13 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59791765?at_medium=RSS&at_campaign=KARANGA">France shuts mosque in Beauvais for sermons 'defending jihad'</a> BBC: An imam in the northern town of Beauvais was accused of inciting hatred and violence in his preaching. 
- <p class="updated_time"> 05:57 AM CT, Dec. 28 </p> 
- <a href="https://www.wsj.com/articles/china-scholar-jonathan-spence-dies-at-85-11640697976">China Scholar Jonathan Spence Dies at Age 85</a> WSJ: The Yale University historian brought China and its past alive to a broad audience through widely read books and popular lectures. 
  <p class="updated_time"> 05:56 AM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59810383?at_medium=RSS&at_campaign=KARANGA">Alexa tells 10-year-old girl to touch live plug with penny</a> BBC: Amazon has fixed its voice assistant so that it will not suggest the dangerous “challenge” again. 
  <p class="updated_time"> 05:09 AM CT, Dec. 28 </p> 
@@ -185,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/world/europe/ukraine-russia.html">As Russian Threat Looms, Ukraine’s Government Is No Laughing Matter</a> NYT: President Volodymyr Zelensky, a former actor, has surrounded himself with advisers from his old comedy troupe. No kidding. 
  <p class="updated_time"> 08:50 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/migrant-boat-greece.html">At Least 16 Dead After Migrant Boat Capsizes Off Greece</a> NYT: The wreck late Friday in the Aegean Sea, the third in Greek waters in three days, was another reminder of the risks asylum seekers face. 
- <p class="updated_time"> 05:49 AM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/europe/pope-francis-christmas-message.html">As Covid Disrupts a 2nd Christmas, Pope Prays for Healing and Peace</a> NYT: In his Christmas message, Pope Francis called on world leaders to resolve persisting conflicts and prayed for people across the globe who are affected by the coronavirus. 
 
 
 </details>
@@ -194,7 +196,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:37 PM CT, Dec. 28 </p> 
+ <p class="updated_time"> 02:47 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/spirit-airlines-unruly-passenger/index.html">Tennessee woman charged after alleged assault and attempting to open cabin door on Spirit flight</a> CNN: A Tennessee woman turned herself into the FBI on Tuesday after she was accused of assaulting two flight attendants during a Spirit Airlines flight last month, the Justice Department announced. 
  <p class="updated_time"> 12:59 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/flight-attendants-cdc-airline-quarantine-change-526213">Flight attendants fume as CDC gives airlines what they want on quarantine change</a> Politico: Just days before the CDC announced the change, the airline industry united to press for a shortened quarantine timeframe. 
