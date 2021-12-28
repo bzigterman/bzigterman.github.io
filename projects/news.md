@@ -7,8 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:52 PM CT, Dec. 27 </p> 
+ <p class="updated_time"> 06:28 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/live/2021/12/27/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Cuts Isolation Time to 5 Days</a> NYT: To minimize disruptions as virus cases surged, the C.D.C. halved the recommended isolation period for infected Americans to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel. 
+ <p class="updated_time"> 06:19 PM CT, Dec. 27 </p> 
+ <a href="https://www.nytimes.com/2021/12/27/world/asia/south-korea-pfizer-coronavirus-pill.html">South Korea approves Pfizer’s coronavirus pill for emergency use.</a> NYT: It is the first pill approved in the nation to treat symptoms of the coronavirus. 
+ <p class="updated_time"> 06:13 PM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59731621?at_medium=RSS&at_campaign=KARANGA">83 movie: Reliving India’s epic cricket triumph</a> BBC: A Bollywood ode to India's 1983 cricket world cup win recreates one of the greatest upsets in sports history. 
+ <p class="updated_time"> 06:11 PM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59722297?at_medium=RSS&at_campaign=KARANGA">The African nation aiming to be a hydrogen superpower</a> BBC: Namibia wants to use its abundance of sunshine and wind power to make and export hydrogen. 
+ <p class="updated_time"> 06:10 PM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59701738?at_medium=RSS&at_campaign=KARANGA">What a Greek tragedy teaches us about modern migration</a> BBC: A production of Antigone seeks to overturn prejudices about Africans arriving in Sicily. 
+ <p class="updated_time"> 06:05 PM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59571711?at_medium=RSS&at_campaign=KARANGA">Crocodiles turn on humans amid Iran water crisis</a> BBC: The creatures are attacking as their habitats shrink, a grim side-effect of Iran's water shortages. 
+ <p class="updated_time"> 06:04 PM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-59733533?at_medium=RSS&at_campaign=KARANGA">‘The doctors came and I had to tell my father he was dying’</a> BBC: Is it always appropriate for relatives to interpret for deaf loved ones? 
+ <p class="updated_time"> 06:01 PM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59761535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Children in Kabul working for a piece of bread</a> BBC: More and more Afghan children are having to work to support their families, amidst an economic collapse. 
+ <p class="updated_time"> 05:55 PM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59806040?at_medium=RSS&at_campaign=KARANGA">Covid: US halves isolation time for asymptomatic infection</a> BBC: The Centres for Disease Control (CDC) recommends five days isolation for asymptomatic Covid cases. 
  <p class="updated_time"> 05:39 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
  <p class="updated_time"> 04:21 PM CT, Dec. 27 </p> 
@@ -57,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/europe/spain-king-juan-carlos.html">Will Juan Carlos, Spain's Disgraced King, Get a Royal Homecoming?</a> NYT: In the years since Juan Carlos, Spain’s former king, fled the country to escape corruption investigations, some of the cases have been resolved or dropped. Now Spaniards are weighing whether they want him back. 
  <p class="updated_time"> 08:29 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59800040?at_medium=RSS&at_campaign=KARANGA">Andrzej Duda: Polish president vetoes controversial media law</a> BBC: Opponents say the law banning foreign ownership in the media aimed to silence government critics. 
- <p class="updated_time"> 07:09 AM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59800114?at_medium=RSS&at_campaign=KARANGA">Covid-19: Extra vaccine mandates come into force in New York City</a> BBC: The measures include vaccine mandates for private-sector workers and children entering venues. 
  <p class="updated_time"> 06:54 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59802233?at_medium=RSS&at_campaign=KARANGA">Amber Heard names new dog after Australian minister embroiled in feud</a> BBC: The US actress names her new dog after the Australian minister who said her dogs should go home in 2015. 
  <p class="updated_time"> 06:02 AM CT, Dec. 27 </p> 
@@ -91,14 +105,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/asia/myanmar-army-killings.html">Myanmar’s Army Is Accused of Massacring Dozens of Civilians</a> NYT: At least 35 people were killed and their bodies burned, according to an international aid group and opponents of the military regime. 
  <p class="updated_time"> 06:06 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59748260?at_medium=RSS&at_campaign=KARANGA">'I'm Jewish and black - where do I fit in?'</a> BBC: Black and Jewish journalist Nadine Batchelor-Hunt travels to Israel to meet the Ethiopian community and explore this dual identity. 
- <p class="updated_time"> 06:04 PM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59759885?at_medium=RSS&at_campaign=KARANGA">My art channels the pain from Ethiopia's war</a> BBC: US-based Tigrayan artist Gabrielle Tesfaye uses her work to share her feelings over the civil war. 
- <p class="updated_time"> 06:03 PM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/business-58091493?at_medium=RSS&at_campaign=KARANGA">How this clip restored one man's dream of being a pilot</a> BBC: The story behind a face mask clip that restored a young man's dream of being a pilot. 
- <p class="updated_time"> 06:02 PM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59690318?at_medium=RSS&at_campaign=KARANGA">Fear and loathing in South Africa where foreigners live in danger</a> BBC: Foreigners in South Africa tell photographer Shiraaz Mohamed how they cope with xenophobia and crime. 
- <p class="updated_time"> 06:01 PM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59723656?at_medium=RSS&at_campaign=KARANGA">Scott Marsh: Viral and controversial art of 'Australia's Banksy'</a> BBC: He uses quintessential Australian larrikinism to skewer politicians, climate sceptics and others. 
  <p class="updated_time"> 06:00 PM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59762810?at_medium=RSS&at_campaign=KARANGA">Demi Skipper plans to keep trading after hairpin-to-house swap</a> BBC: TikToker Demi Skipper made headlines when she successfully traded items until she got a house. 
  <p class="updated_time"> 06:00 PM CT, Dec. 26 </p> 
@@ -143,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/world/middleeast/saudi-arabia-christmas.html">How Do Saudis Celebrate Christmas? Quietly, but Less So.</a> NYT: “Am I in Saudi Arabia?” Once officially banned, Christmas is coming out of hiding in the kingdom, as its ultra-constrictive religious rules are eased. 
  <p class="updated_time"> 01:28 AM CT, Dec. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59793776?at_medium=RSS&at_campaign=KARANGA">Archbishop Desmond Tutu: Looking back at his life and legacy</a> BBC: The BBC's Nomsa Maseko looks back at the life of Archbishop Desmond Tutu, who has died aged 90. 
- <p class="updated_time"> 06:06 PM CT, Dec. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59732329?at_medium=RSS&at_campaign=KARANGA">The Chinese mother backing bigger families</a> BBC: Chen Ting is a mother-of-three and businesswoman who encourages other families to have more children. 
  <p class="updated_time"> 05:28 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/americas/el-salvador-abortion-bukele.html">El Salvador Releases 3 Women Serving Long Prison Sentences for Abortions</a> NYT: The three women, who had suffered obstetric emergencies, had been sentenced to 30 years in prison under the nation’s strict anti-abortion laws. 
  <p class="updated_time"> 04:36 PM CT, Dec. 25 </p> 
@@ -194,12 +198,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:26 PM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/news/2021/12/27/fauci-domestic-flight-vaccine-mandate-526194">Fauci: 'I don’t think people should expect' a domestic flight vaccine mandate</a> Politico: "It’s on the table," he added. "But that doesn’t mean it’s going to happen. I doubt if we’re going to see something like that in the reasonably foreseeable future.” 
  <p class="updated_time"> 05:27 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/health/cdc-covid-quarantine-isolation-shortened-recommendation/index.html">CDC shortens recommended Covid-19 isolation and quarantine time</a> CNN: The US Centers for Disease Control and Prevention on Monday shortened the recommended times that people should isolate when they've tested positive for Covid-19 from 10 days to five days if they don't have symptoms -- and if they wear a mask around others for at least five more days. 
  <p class="updated_time"> 05:25 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/sarah-weddington-dead.html">Sarah Weddington, Who Successfully Argued Roe v. Wade, Dies at 76</a> NYT: She went before the U.S. Supreme Court at 26 with almost no legal experience and won one of the most consequential cases in American history. 
- <p class="updated_time"> 04:42 PM CT, Dec. 27 </p> 
- <a href="https://www.politico.com/news/2021/12/27/cdc-cut-quarantine-covid-omicron-526187">CDC cuts recommended quarantine time amid Omicron surge</a> Politico: The reduction follows the CDC’s move last week to shorten its isolation period for infected health care workers, assuming they are asymptomatic and later test negative. 
  <p class="updated_time"> 04:20 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/biden-defense-bill.html">Biden Signs $770 Billion Defense Bill</a> NYT: The National Defense Authorization Act passed Congress with bipartisan support, over the opposition of liberals pushing for more social spending. 
  <p class="updated_time"> 03:51 PM CT, Dec. 27 </p> 
@@ -322,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/23/politics/mary-gay-scanlon-hijacking-suspect-charged/index.html">19-year-old charged in armed carjacking incident involving Democratic lawmaker</a> CNN: Federal prosecutors have charged a Delaware man with carjacking Democratic Rep. Mary Gay Scanlon of Pennsylvania and using a firearm during a crime of violence, the Justice Department announced Thursday. 
  <p class="updated_time"> 07:59 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/georgia-election-workers-lawsuit-rudy-giuliani-one-america-news/index.html">Two Georgia election workers sue Giuliani and One America News, claiming election lies prompted severe harassment </a> CNN: Two Georgia election workers are accusing right-wing TV network One America News and former Trump lawyer and pundit Rudy Giuliani of destroying their reputations and prompting Trump supporters to harass them -- filling their lives with fear -- because of false claims of election fraud in 2020. 
- <p class="updated_time"> 06:58 PM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/georgia-poll-workers-sue-giuliani-oan-526122">2 Georgia poll workers sue Giuliani, OAN over election conspiracy theories</a> Politico: Ruby Freeman and Shaye Moss, her daughter, worked as poll workers counting ballots at State Farm Arena in Fulton County, Ga., during the November 2020 election. 
  <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
  <p class="updated_time"> 06:30 PM CT, Dec. 23 </p> 
