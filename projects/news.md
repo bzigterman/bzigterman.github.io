@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:45 AM CT, Dec. 29 </p> 
+ <p class="updated_time"> 08:09 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
+ <p class="updated_time"> 07:58 AM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59809822?at_medium=RSS&at_campaign=KARANGA">Ugandan author of The Greedy Barbarian detained - lawyer</a> BBC: Prize-winning Ugandan novelist Kakwenza Rukirabashaija called the president's son "obese" on Twitter. 
  <p class="updated_time"> 07:33 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/us-covid-case-record-omicron.html">U.S. Coronavirus Cases Set New Records</a> NYT: As a third year of the pandemic loomed, the seven-day average of U.S. cases topped 267,000 on Tuesday. 
  <p class="updated_time"> 07:14 AM CT, Dec. 29 </p> 
