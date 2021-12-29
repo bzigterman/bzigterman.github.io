@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:27 AM CT, Dec. 29 </p> 
+ <p class="updated_time"> 06:58 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Case Records Are Shattered as Delta and Omicron Converge</a> NYT: Hospitalizations and deaths are also rising, but remain far below earlier peaks. The Washington, Maryland and Virginia region is a focal point of the Omicron outbreak. 
  <p class="updated_time"> 06:11 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
@@ -23,6 +23,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Independent outlet to close after senior staff arrested</a> BBC: Seven people linked to Stand News are arrested for "conspiracy to publish a seditious publication". 
  <p class="updated_time"> 04:01 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808557?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo statue divides opinion in India</a> BBC: The statue of the Portuguese football star is unveiled in Goa state, a former Portuguese colony. 
+ <p class="updated_time"> 02:00 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/business/uk-companies-brexit-trade.html">For U.K. Companies Brexit Meant Higher Costs and Endless Forms</a> NYT: While the worst of the Brexit trade disruptions are over, British exports to the European Union are down and companies are frustrated. 
  <p class="updated_time"> 01:35 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59814542?at_medium=RSS&at_campaign=KARANGA">John Madden: NFL coach, broadcaster and video game icon dies at 85</a> BBC: John Madden, legendary American Football coach, broadcaster and face of Madden NFL Football has died. 
  <p class="updated_time"> 12:54 AM CT, Dec. 29 </p> 
@@ -55,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59701735?at_medium=RSS&at_campaign=KARANGA">Why Mauritius is losing its seashells</a> BBC: The beaches of the Indian Ocean island seem bereft of the beautiful shells popular with tourists. 
  <p class="updated_time"> 06:05 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59762809?at_medium=RSS&at_campaign=KARANGA">Fighting to learn in Venezuela</a> BBC: Despite the country's continuing economic crisis, both pupils and teachers are determined to continue with schooling. 
+ <p class="updated_time"> 05:55 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
  <p class="updated_time"> 05:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/health/covid-omicron-antibodies-delta.html">Omicron Variant May Help Beat Delta, Study Suggests</a> NYT: In the lab, antibodies produced during an Omicron infection protected against Delta. If Omicron dominates in the real world, that could lead to a less dire future. 
  <p class="updated_time"> 04:47 PM CT, Dec. 28 </p> 
@@ -175,6 +179,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/asia/myanmar-army-killings.html">Myanmar’s Army Is Accused of Massacring Dozens of Civilians</a> NYT: At least 35 people were killed and their bodies burned, according to an international aid group and opponents of the military regime. 
  <p class="updated_time"> 03:58 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/americas/navy-ship-covid.html">No Sailors on Navy Ship Required Hospitalization After Coronavirus Outbreak</a> NYT: The base hospital at Guantánamo Bay gave vaccine booster doses to the ship to administer to anyone who wants one. 
+ <p class="updated_time"> 03:44 PM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/europe/ukraine-russia-civilian-training.html">Training Civilians, Ukraine Nurtures a Resistance in Waiting</a> NYT: Eastern European nations have drawn a lesson from America’s wars of the last decades: Insurgency works. Ukraine’s training of volunteers has become a factor in the standoff with Russia. 
  <p class="updated_time"> 03:38 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-south-africa.html">Even in Retirement, Desmond Tutu Remained South Africa’s Moral Compass</a> NYT: The Nobel laureate retired from public life over a decade ago, but he continued to advocate social justice, gay rights and environmentalism. 
  <p class="updated_time"> 03:07 PM CT, Dec. 26 </p> 
@@ -185,6 +191,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/bts-covid-coronavirus.html">Two More Members of the K-Pop Band, BTS, Test Positive for Coronavirus</a> NYT: RM and Jin discovered they were infected a day after Suga got his diagnosis. All tested positive after returning to South Korea from the United States. 
  <p class="updated_time"> 10:30 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/europe/afghans-netherlands-migrants.html">After Chaotic Evacuation, Afghans in the Netherlands Struggle to Find Stability</a> NYT: Many Afghans evacuated to the Netherlands have been living in tents for months, as they prepare to resettle in a Europe that is wrangling with a heated debate about immigration. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/insider/in-congo-bolivia-and-beyond-where-the-green-future-begins.html">In Congo, Bolivia and Beyond, Where the Green Future Begins</a> NYT: The Times’s Race to the Future series is focused on the competition for electric-car resources that will shape the 21st century. 
+ <p class="updated_time"> 05:28 PM CT, Dec. 25 </p> 
+ <a href="https://www.nytimes.com/2021/12/25/world/americas/el-salvador-abortion-bukele.html">El Salvador Releases 3 Women Serving Long Prison Sentences for Abortions</a> NYT: The three women, who had suffered obstetric emergencies, had been sentenced to 30 years in prison under the nation’s strict anti-abortion laws. 
 
 
 </details>
@@ -195,7 +205,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:06 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/agenda/2021/12/29/teachers-districts-hybrid-education-526214">‘I Feel Half as Successful’: Teachers and Districts at War Over Hybrid Education</a> Politico: Teachers want to ban teaching students in person and online at the same time. Some education leaders say it should be what the future looks like. 
  <p class="updated_time"> 06:00 AM CT, Dec. 29 </p> 
- <a href="https://www.cnn.com/2021/12/29/politics/supreme-court-vaccine-mandates-federal-biden/index.html">The Supreme Court has upheld state and local vaccine mandates. That may not save Biden's.</a> CNN: A Supreme Court that has declined to block several types of vaccine mandates is now considering whether to allow the Biden administration to require millions of Americans to get Covid-19 vaccines. 
+ <a href="https://www.cnn.com/2021/12/29/politics/supreme-court-vaccine-mandates-federal-biden/index.html">A Supreme Court that's declined to block several vaccine mandates is now considering Biden's Covid vaccine requirement</a> CNN: A Supreme Court that has declined to block several types of vaccine mandates is now considering whether to allow the Biden administration to require millions of Americans to get Covid-19 vaccines. 
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/republicans-education-wars-school-board-races-526053">Republicans eye new front in education wars: Making school board races partisan</a> Politico: “We’re out there trying to elect good conservatives," says one Florida lawmaker. 
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
@@ -239,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:42 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/john-madden-coach-broadcaster-dies-526230">John Madden, Hall of Fame coach and broadcaster, dies at 85</a> Politico: The NFL said he died unexpectedly and did not detail a cause. 
  <p class="updated_time"> 07:25 PM CT, Dec. 28 </p> 
- <a href="https://www.npr.org/2021/12/28/611222803/the-guy-from-searchlight-former-senate-leader-harry-reid-is-dead-at-82">'The guy from Searchlight': Former Senate leader Harry Reid is dead at 82</a> NPR: Born into poverty in Searchlight, Nev., the one-time amateur boxer served in Congress for 34 years — first in the House and, later, for three decades in the Senate. 
+ <a href="https://www.npr.org/2021/12/28/611222803/the-guy-from-searchlight-former-senate-leader-harry-reid-is-dead-at-82">'The guy from Searchlight': Former Senate leader Harry Reid is dead at 82</a> NPR: Born into poverty in Searchlight, Nev., the onetime amateur boxer served in Congress for 34 years — first in the House and, later, for three decades in the Senate. 
  <p class="updated_time"> 06:53 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/michigan-redistricting-congressional-map-526227">Michigan’s new congressional map: 3 battlegrounds, 1 Dem-vs.-Dem primary</a> Politico: Virginia also completed congressional redistricting on Tuesday. 
  <p class="updated_time"> 06:39 PM CT, Dec. 28 </p> 
@@ -308,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/27/the-view-struggles-to-find-a-republican-495553"> ‘The View’ struggles to find a Republican</a> Politico Playbook: And coronavirus cases spike to record levels across the world. 
  <p class="updated_time"> 08:37 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/science/russia-nasa-spacex-asat.html">NASA-Russia Alliance Is Shaken by Events on Planet Earth</a> NYT: The relationship between the nations’ space agencies is facing a series of difficult tests, including an antisatellite weapon and friction over Ukraine. 
- <p class="updated_time"> 06:00 AM CT, Dec. 27 </p> 
- <a href="https://www.cnn.com/2021/12/27/politics/gen-z-millennial-conservatives-recruit-diverse-candidates/index.html">Gen Z and millennial conservatives seek to recruit and mentor young, diverse candidates </a> CNN: When Roxy Ndebumadu, a Black conservative woman, ran for city council in Bowie, Maryland, at age 26, it was hard to find mentorship from elected officials of similar backgrounds. 
  <p class="updated_time"> 04:31 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/biden-covid-vaccines-usaid-funding-526126">Price tag to vaccinate the world: $7 billion. And the U.S. is already coming up short.</a> Politico: In September, U.S. officials noted it would take at least $7 billion in 2022 to ensure shots are administered across the globe. 
  <p class="updated_time"> 04:30 AM CT, Dec. 27 </p> 
@@ -386,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/23/joe-biden-tiktok-jonas-brothers-526019">Joe Biden was not made for the age of TikTok. But his team is trying.</a> Politico: The White House is producing videos that they know will get mocked on political Twitter. They don’t care. They have other plans. 
  <p class="updated_time"> 03:15 PM CT, Dec. 22 </p> 
  <a href="https://www.cnn.com/2021/12/22/politics/antiviral-pill-biden-statement/index.html">250,000 treatment courses of Pfizer's antiviral pill will be available in January, Biden says</a> CNN: President Joe Biden on Wednesday pledged more than 250,000 treatment courses of Pfizer's antiviral pill will be available starting in January after the US Food and Drug Administration authorized it to treat Covid-19. 
- <p class="updated_time"> 07:01 AM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/12/22/dems-family-meeting-with-manchin-495537">Dems' family meeting with Manchin</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
