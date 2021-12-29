@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:45 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid News: U.S. Daily Record for Cases Is Broken</a> NYT: The seven-day average of U.S. cases topped 267,000 on Tuesday, with Washington, D.C., Maryland and Virginia particularly hard hit. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S. 
  <p class="updated_time"> 02:24 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Police arrest six from Hong Kong independent news outlet</a> BBC: Six people linked to Stand News were arrested for "conspiracy to publish a seditious publication". 
  <p class="updated_time"> 02:04 AM CT, Dec. 29 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068696336/hong-kong-police-raid-pro-democracy-news-outlet-arrest-6">Hong Kong police raid pro-democracy news outlet, arrest 6</a> NPR: Hong Kong police raided the office of an online pro-democracy news outlet Wednesday after arresting six people for conspiracy to publish a seditious publication in a continuing crackdown on dissent. 
  <p class="updated_time"> 12:19 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: The current or former senior staff members of Stand News were held on suspicion of conspiring to publish seditious material. More than 200 officers raided the news site’s headquarters. 
- <p class="updated_time"> 12:06 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid News: U.S. Daily Record for Cases Is Broken</a> NYT: The seven-day average of U.S. cases topped 267,000 on Tuesday, with Washington, D.C., Maryland and Virginia particularly hard hit. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S. 
  <p class="updated_time"> 11:51 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/29/1068691821/asia-is-keeping-omicron-at-bay-but-a-surge-may-be-inevitable">Asia is keeping omicron at bay, but a surge may be inevitable</a> NPR: Much of Asia has managed to keep omicron in check even as the variant rages elsewhere, but the region that is home to most of the globe's population is bracing for what may be an inevitable surge. 
  <p class="updated_time"> 11:32 PM CT, Dec. 28 </p> 
@@ -47,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59701735?at_medium=RSS&at_campaign=KARANGA">Why Mauritius is losing its seashells</a> BBC: The beaches of the Indian Ocean island seem bereft of the beautiful shells popular with tourists. 
  <p class="updated_time"> 06:05 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59762809?at_medium=RSS&at_campaign=KARANGA">Fighting to learn in Venezuela</a> BBC: Despite the country's continuing economic crisis, both pupils and teachers are determined to continue with schooling. 
- <p class="updated_time"> 05:55 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
  <p class="updated_time"> 05:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/health/covid-omicron-antibodies-delta.html">Omicron Variant May Help Beat Delta, Study Suggests</a> NYT: In the lab, antibodies produced during an Omicron infection protected against Delta. If Omicron dominates in the real world, that could lead to a less dire future. 
  <p class="updated_time"> 04:47 PM CT, Dec. 28 </p> 
@@ -67,6 +65,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1068587831/most-countries-will-fall-short-of-global-initiative-to-vaccinate-40-of-populatio">Most countries will fall short of global initiative to vaccinate 40% of populations</a> NPR: COVAX was set up to enable global access to vaccines against COVID. Yet nearly 80 countries will miss a target of vaccinating 40% of their populations by year's end. Here's what went wrong. 
  <p class="updated_time"> 03:34 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1068587810/russias-supreme-court-shuts-down-human-rights-group-that-preserved-history">Russia's Supreme Court shuts down human rights group that preserved history</a> NPR: For decades, the Russian human rights group Memorial has tried to preserve the story of the Soviet Union's darkest years. The country's high court ordered it closed Tuesday. 
+ <p class="updated_time"> 03:21 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/new-years-eve-covid.html">New Year's Eve Parties Are Scaled Back Worldwide</a> NYT: New York City, London, Tokyo and New Delhi are among the cities where major gatherings have been curtailed or canceled as Omicron spreads. 
  <p class="updated_time"> 03:14 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/omicron-covid-contagious-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
  <p class="updated_time"> 03:11 PM CT, Dec. 28 </p> 
@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:45 AM CT, Dec. 29 </p> 
+ <a href="https://www.npr.org/2021/12/29/1068703011/judge-refuses-to-dismiss-indictment-against-alleged-proud-boys-leaders">Judge refuses to dismiss indictment against alleged Proud Boys leaders</a> NPR: U.S. District Judge Timothy Kelly on Tuesday rejected defense attorneys' arguments that the four men are charged with conduct that is protected by the First Amendment right to free speech. 
  <p class="updated_time"> 12:54 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068696336/hong-kong-police-raid-pro-democracy-news-outlet-arrest-6">Hong Kong police raid pro-democracy news outlet, arrest 6</a> NPR: Hong Kong police raided the office of an online pro-democracy news outlet Wednesday after arresting six people for conspiracy to publish a seditious publication in a continuing crackdown on dissent. 
  <p class="updated_time"> 10:16 PM CT, Dec. 28 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/25/business/biden-inflation.html">As Prices Rise Due to Inflation, Biden Turns to Antitrust Enforcers</a> NYT: A wide-ranging presidential order helped block a railroad merger and tackle supply-chain problems, and it is planting the seeds for bigger actions. 
  <p class="updated_time"> 08:44 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/25/the-manchin-dance-continues-on-christmas-495551"> The Manchin dance continues on Christmas</a> Politico Playbook: And a judge continues prior restraint on the NYT. 
- <p class="updated_time"> 07:19 AM CT, Dec. 25 </p> 
- <a href="https://www.npr.org/2021/12/25/1067966109/house-committee-investigating-jan-6-insurrection-calls-congress-members-to-testi">House committee investigating Jan. 6 insurrection calls Congress members to testify</a> NPR: The House select committee investigating the Jan. 6 insurrection is asking fellow members of Congress to cooperate in the probe. 
  <p class="updated_time"> 07:00 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/biden-puerto-rico-electricity-network-526102">Puerto Rico’s shattered power grid could become a ‘big experiment’ for Biden</a> Politico: The crumbling electricity network that serves the island's 3 million people is at the center of a debate on renewable energy vs. fossil fuels — with billions of federal dollars at stake. 
  <p class="updated_time"> 08:55 PM CT, Dec. 24 </p> 
