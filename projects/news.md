@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:14 AM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59815856?at_medium=RSS&at_campaign=KARANGA">Hong Kong's Stand News independent website shuts down after raid</a> BBC: Stand News has stopped operating following the arrest of seven people with links to the outlet. 
+ <p class="updated_time"> 07:12 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Roots for Its Patron Saint of Basketball</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
  <p class="updated_time"> 06:58 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Case Records Are Shattered as Delta and Omicron Converge</a> NYT: Hospitalizations and deaths are also rising, but remain far below earlier peaks. The Washington, Maryland and Virginia region is a focal point of the Omicron outbreak. 
  <p class="updated_time"> 06:11 AM CT, Dec. 29 </p> 
@@ -95,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59808624?at_medium=RSS&at_campaign=KARANGA">Russian court orders oldest civil rights group Memorial to shut</a> BBC: The Supreme Court dissolves a civil rights group formed to remember victims of Communist repression. 
  <p class="updated_time"> 12:31 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2021/12/28/260448064/cooking-up-food-and-identity-in-pailin-chongchitnants-hot-thai-kitchen">Cooking up food and identity in Pailin Chongchitnant's "Hot Thai Kitchen"</a> NPR: When chef Pailin Chongchitnant realized that cable television wasn't ready for a Thai cooking show, she started her own on YouTube. On it, she breaks down some of the misconceptions about the cuisine. 
- <p class="updated_time"> 12:25 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Hopes Its Basketball Patron Advances to National Status</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
  <p class="updated_time"> 12:23 PM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/omicron-disruptions-prompt-easing-of-some-restrictions-11640692295">Omicron Reinfections Can Trigger Milder Symptoms, New CDC Research Shows</a> WSJ: The CDC review of a cluster of Covid-19 cases in Nebraska came as the Omicron variant spreads in the U.S. 
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
@@ -125,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/syria-accuses-israel-of-striking-its-main-commercial-port-11640705384">Syria Accuses Israel of Striking Its Main Commercial Port</a> WSJ: Israeli missiles struck Syria’s port of Latakia, according to the Syrian Defense Ministry, causing large fires and major damage in the second such attack on the vital facility this month. 
  <p class="updated_time"> 02:00 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/nord-stream-pipeline-germany-russia.html">Germany Wants Its Russian Pipeline. German Allies Aren’t Sure It’s a Good Idea.</a> NYT: The Nord Stream 2 Russia-to-Germany pipeline could offer plentiful natural gas. But tensions with Vladimir Putin are keeping it out of reach. 
- <p class="updated_time"> 01:55 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59806939?at_medium=RSS&at_campaign=KARANGA">Snow buries north and west Japan</a> BBC: The snow has meant grounded flights and stranded travellers as people are told to stay indoors. 
  <p class="updated_time"> 10:28 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/africa/desmond-tutu-mourning.html">South Africa Begins a Week of Mourning for Desmond Tutu</a> NYT: The cleric and anti-apartheid activist’s funeral will be held on Jan. 1 at the cathedral where he served as South Africa’s first Black archbishop. 
  <p class="updated_time"> 09:22 PM CT, Dec. 27 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:06 AM CT, Dec. 29 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/january-6-portland-unrest-compare-judges/index.html">Two Trump-appointed judges reject comparisons between January 6 and Portland political unrest</a> CNN: Two Trump-appointed federal judges have rejected claims from January 6 defendants that they're being treated unfairly, because of their conservative politics, compared with left-leaning rioters in Portland, Oregon, in the summer of 2020. 
  <p class="updated_time"> 06:06 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/agenda/2021/12/29/teachers-districts-hybrid-education-526214">‘I Feel Half as Successful’: Teachers and Districts at War Over Hybrid Education</a> Politico: Teachers want to ban teaching students in person and online at the same time. Some education leaders say it should be what the future looks like. 
  <p class="updated_time"> 06:00 AM CT, Dec. 29 </p> 
@@ -240,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/28/politics/trump-dunleavy-endorsement-murkowski/index.html">Trump endorses Alaska Gov. Dunleavy for reelection -- as long as he doesn't back Sen. Murkowski in 2022</a> CNN: Former President Donald Trump on Tuesday backed Alaska GOP Gov. Mike Dunleavy for reelection in 2022, but his endorsement came with a caveat that is just the latest sign of his attempts to influence Republican politics next year. 
  <p class="updated_time"> 08:34 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/proud-boys-first-amendment/index.html">Judge rejects Proud Boys' First Amendment claims in January 6 conspiracy case</a> CNN: A federal judge is allowing a major January 6 conspiracy case against four Proud Boys leaders to move forward, rejecting their bid to throw out the charges. 
- <p class="updated_time"> 08:31 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/january-6-portland-unrest-compare-judges/index.html">Two Trump-appointed judges reject comparisons between January 6 and Portland political unrest</a> CNN: Two Trump-appointed federal judges have rejected claims from January 6 defendants that they're being treated unfairly, because of their conservative politics, compared with left-leaning rioters in Portland, Oregon, in the summer of 2020. 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
  <p class="updated_time"> 08:17 PM CT, Dec. 28 </p> 
