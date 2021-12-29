@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:29 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
+ <p class="updated_time"> 01:21 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/europe/france-left-presidential-election-primary.html">A Movement to Unify the French Left Might Be Its Last Chance for the Elections</a> NYT: A citizens’ initiative is pressuring the fragmented force to set parties’ interests aside and join together for next year’s presidential race. 
  <p class="updated_time"> 01:04 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59820777?at_medium=RSS&at_campaign=KARANGA">Russia orders regular health checks for foreigners</a> BBC: Business groups criticise a new law requiring mandatory fingerprinting, drug tests and STD checks. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59820777?at_medium=RSS&at_campaign=KARANGA">Russia orders health and drug checks for foreigners</a> BBC: Business groups criticise a new law requiring mandatory fingerprinting, drug tests and STD checks. 
  <p class="updated_time"> 12:45 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068753263/fresh-air-remembers-archbishop-desmond-tutu">'Fresh Air' remembers Archbishop Desmond Tutu</a> NPR: The South African leader was key to the anti-apartheid movement. He chaired the Truth and Reconciliation Commission and preached forgiveness. Tutu died Dec. 26. Originally broadcast in '84 and '99. 
  <p class="updated_time"> 12:44 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1066718893/kevin-dawes-sues-syria">An American was locked up in Syria. A pact with a British inmate may have saved him</a> NPR: Kevin Dawes describes how a fellow prisoner in Syria kept a promise that called attention to Dawes' detention. Now, five years after his release, Dawes is suing the Syrian regime. 
  <p class="updated_time"> 12:29 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59822209?at_medium=RSS&at_campaign=KARANGA">Covid: Omicron and Delta driving tsunami of cases - WHO</a> BBC: The warning comes as record cases are once again reported across the US and Europe. 
- <p class="updated_time"> 12:13 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 12:07 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59821159?at_medium=RSS&at_campaign=KARANGA">Malawians mourn ex-First Lady Anne Chidzira Muluzi</a> BBC: Tributes are paid to Anne Chidzira Muluzi, the first woman to hold the title there, who died aged 69. 
  <p class="updated_time"> 12:00 PM CT, Dec. 29 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/asia/myanmar-coup-refugees.html">Stay or Go? For Myanmar’s Latest Wave of Refugees, There’s No Good Choice.</a> NYT: Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire. 
  <p class="updated_time"> 09:41 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile Writes Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
- <p class="updated_time"> 09:38 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/europe/france-left-presidential-election-primary.html">A Movement to Unify the French Left Might Be Its Last Chance for the Elections</a> NYT: A citizens’ initiative is pressuring the fragmented force to set parties’ interests aside and join together for next year’s presidential race. 
  <p class="updated_time"> 09:06 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">Russian Court Orders 2nd Ban of a Major Human Rights Group in 2 Days</a> NYT: Critics of the government said the rulings capped a year of erosion of civil rights and media freedoms in the country. 
  <p class="updated_time"> 09:00 AM CT, Dec. 29 </p> 
@@ -193,10 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/college-football-bowl-games-covid.html">Two College Bowl Games Are Canceled Because of Covid Cases</a> NYT: The Fenway and Military Bowls were scrapped when teams didn’t have enough healthy players to take the field. One team pulled out of the Sun Bowl. 
  <p class="updated_time"> 03:58 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/americas/navy-ship-covid.html">No Sailors on Navy Ship Required Hospitalization After Coronavirus Outbreak</a> NYT: The base hospital at Guantánamo Bay gave vaccine booster doses to the ship to administer to anyone who wants one. 
- <p class="updated_time"> 03:38 PM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-south-africa.html">Even in Retirement, Desmond Tutu Remained South Africa’s Moral Compass</a> NYT: The Nobel laureate retired from public life over a decade ago, but he continued to advocate social justice, gay rights and environmentalism. 
- <p class="updated_time"> 03:07 PM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/middleeast/archbishop-tutu-cowell-recollection.html">The Time Archbishop Tutu Was Searched at the Airport</a> NYT: A former South Africa bureau chief for The Times recalls telling moments with the anti-apartheid religious leader. 
 
 
 </details>
