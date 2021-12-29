@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:46 AM CT, Dec. 29 </p> 
+ <p class="updated_time"> 10:56 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
+ <p class="updated_time"> 10:49 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/middleeast/israel-avian-flu.html">Israel's Avian Flu Outbreak Has Killed Thousands of Cranes</a> NYT: Thousands of migratory cranes have died and more than half a million chickens have been culled as the country tries to contain a deadly bird virus- 
+ <p class="updated_time"> 10:45 AM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59818971?at_medium=RSS&at_campaign=KARANGA">China: Public shaming returns amid Covid fears</a> BBC: Four men accused of people trafficking are paraded through streets, to mixed reactions online. 
  <p class="updated_time"> 10:41 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/myanmar-coup-refugees.html">Stay or Go? For Myanmar’s Latest Wave of Refugees, There’s No Good Choice.</a> NYT: Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire. 
  <p class="updated_time"> 09:41 AM CT, Dec. 29 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/asia/afghanistan-taliban-helmand-marja.html">11 Years After Trying to Kill Each Other, a Marine and a Talib Meet Again</a> NYT: A Times reporter who once served in the Marines returned to the site of a major battle in Afghanistan to see what’s changed since the Taliban took over — and to meet a commander he once fought. 
  <p class="updated_time"> 08:51 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
- <p class="updated_time"> 08:51 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59818971?at_medium=RSS&at_campaign=KARANGA">China: Public shaming returns amid Covid fears</a> BBC: Four men accused of people trafficking are paraded through streets, to mixed reactions online. 
  <p class="updated_time"> 08:44 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59820248?at_medium=RSS&at_campaign=KARANGA">Ukraine: Three die after memorial candle lit in hospital ward</a> BBC: The candle was lit in memory of a patient who had recently died at the Ukrainian hospital. 
  <p class="updated_time"> 08:09 AM CT, Dec. 29 </p> 
@@ -60,7 +62,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:51 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/29/1068691821/asia-is-keeping-omicron-at-bay-but-a-surge-may-be-inevitable">Asia is keeping omicron at bay, but a surge may be inevitable</a> NPR: Much of Asia has managed to keep omicron in check even as the variant rages elsewhere, but the region that is home to most of the globe's population is bracing for what may be an inevitable surge. 
  <p class="updated_time"> 11:25 PM CT, Dec. 28 </p> 
- <a href="https://www.npr.org/2021/12/29/1068685421/nfl-hall-of-fame-coach-and-iconic-sports-broadcaster-john-madden-dies-at-85">NFL Hall of Fame coach and iconic sports broadcaster John Madden dies at 85</a> NPR: For 10 seasons, John Madden led the Oakland Raiders as head coach. After his retirement, he went on to become a legendary NFL commentator for three decades. 
+ <a href="https://www.npr.org/2021/12/29/1068685421/nfl-hall-of-fame-coach-and-iconic-sports-broadcaster-john-madden-dies-at-85">NFL Hall of Fame coach and iconic sports broadcaster John Madden dies at 85</a> NPR: For 10 seasons, John Madden led the Oakland Raiders as head coach. After his retirement, he became a legendary NFL commentator for three decades. 
  <p class="updated_time"> 10:58 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/theater/hugh-jackman-covid-the-music-man.html">Hugh Jackman Announces He Has Covid-19</a> NYT: The show joins other productions that have been suspended, including the Temptations musical “Ain’t Too Proud,” which will close for good on Jan. 16. 
  <p class="updated_time"> 10:47 PM CT, Dec. 28 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/27/1068215624/myanmar-court-postpones-verdicts-in-second-case-against-suu-kyi">Myanmar court postpones verdicts in second case against Suu Kyi</a> NPR: The case is among many brought against the 76-year-old Nobel Peace Prize laureate since the army seized power on Feb. 1. 
  <p class="updated_time"> 04:35 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/college-football-bowl-games-covid.html">Two College Bowl Games Are Canceled Because of Covid Cases</a> NYT: The Fenway and Military Bowls were scrapped when teams didn’t have enough healthy players to take the field. One team pulled out of the Sun Bowl. 
- <p class="updated_time"> 07:56 PM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/asia/myanmar-army-killings.html">Myanmar’s Army Is Accused of Massacring Dozens of Civilians</a> NYT: At least 35 people were killed and their bodies burned, according to an international aid group and opponents of the military regime. 
  <p class="updated_time"> 03:58 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/americas/navy-ship-covid.html">No Sailors on Navy Ship Required Hospitalization After Coronavirus Outbreak</a> NYT: The base hospital at Guantánamo Bay gave vaccine booster doses to the ship to administer to anyone who wants one. 
  <p class="updated_time"> 03:38 PM CT, Dec. 26 </p> 
@@ -204,6 +204,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:07 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/29/harry-reids-legacy-495555"> Harry Reid’s legacy</a> Politico Playbook: And Michigan and Virginia get their new congressional maps. 
+ <p class="updated_time"> 11:04 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/us/politics/congress-ethics-investigations.html">Ethics Investigators in Congress Increasingly Run Into Walls</a> NYT: Lawmakers under scrutiny are more likely than before to simply refuse to cooperate with an inquiry. 
+ <p class="updated_time"> 11:01 AM CT, Dec. 29 </p> 
+ <a href="https://www.cnn.com/2021/12/29/politics/biden-putin-call/index.html">Biden to speak with Putin on Thursday at Russian leader's request</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Thursday afternoon "to discuss a range of topics, including upcoming diplomatic engagements with Russia," National Security Council spokesperson Emily Horne told CNN. 
+ <p class="updated_time"> 10:57 AM CT, Dec. 29 </p> 
+ <a href="https://www.cnn.com/2021/12/29/politics/redistricting-race-blind-maps-texas-north-carolina/index.html">'They know where Black voters live': Challengers say 'race blind' redistricting maps are anything but</a> CNN: In states like Texas and North Carolina, Republican lawmakers in charge of redrawing the political maps for the next decade say that the new plans are "race blind." Their opponents in court say that the claim is implausible and one that, in some situations, is at odds with the Voting Rights Act. 
+ <p class="updated_time"> 10:47 AM CT, Dec. 29 </p> 
+ <a href="https://www.cnn.com/2021/12/29/politics/less-pandemic-federal-aid-stimulus-unemployment/index.html">Less federal aid is coming as Americans enter third year of the pandemic</a> CNN: As Americans enter the third year of the pandemic, they can expect to receive significantly less federal aid. 
  <p class="updated_time"> 10:26 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/harry-reid-shaped-chuck-schumer-526233">'He’s a press guy, I’m not': How Harry Reid shaped Chuck Schumer</a> Politico: Schumer called Reid "my leader, my mentor, one of my dearest friends,” after the former Senate majority leader's death Tuesday. 
  <p class="updated_time"> 09:17 AM CT, Dec. 29 </p> 
@@ -218,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/republicans-education-wars-school-board-races-526053">Republicans eye new front in education wars: Making school board races partisan</a> Politico: “We’re out there trying to elect good conservatives," says one Florida lawmaker. 
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
- <p class="updated_time"> 04:15 AM CT, Dec. 29 </p> 
- <a href="https://www.cnn.com/2021/12/29/politics/redistricting-race-blind-maps-texas-north-carolina/index.html">'They know where Black voters live': Challengers say 'race blind' redistricting maps are anything but</a> CNN: In states like Texas and North Carolina, Republican lawmakers in charge of redrawing the political maps for the next decade say that the new plans are "race blind." Their opponents in court say that the claim is implausible and one that, in some situations, is at odds with the Voting Rights Act. 
  <p class="updated_time"> 04:08 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068704775/former-democratic-senate-leader-harry-reid-has-died-at-age-82">Former Democratic Senate leader Harry Reid has died at age 82</a> NPR: The Nevada Democrat, a one-time amateur boxer who brought a pugilist approach to politics, died Tuesday afternoon after a four-year battle with pancreatic cancer. 
  <p class="updated_time"> 04:08 AM CT, Dec. 29 </p> 
@@ -231,7 +237,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:45 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068703011/judge-refuses-to-dismiss-indictment-against-alleged-proud-boys-leaders">Judge refuses to dismiss indictment against alleged Proud Boys leaders</a> NPR: U.S. District Judge Timothy Kelly on Tuesday rejected defense attorneys' arguments that the four men are charged with conduct that is protected by the First Amendment right to free speech. 
  <p class="updated_time"> 01:48 AM CT, Dec. 29 </p> 
- <a href="https://www.cnn.com/2021/12/29/politics/biden-russia-iran-china-politics-2022/index.html">Why Biden isn't likely to find much political relief abroad in 2022</a> CNN: Joe Biden hasn't had a day in the White House free of intractable domestic challenges that threaten to doom his presidency. But his hopes of a 2022 rebound are complicated by equally treacherous tests abroad. 
+ <a href="https://www.cnn.com/2021/12/29/politics/biden-russia-iran-china-politics-2022/index.html">Analysis: Why Biden isn't likely to find much political relief abroad in 2022</a> CNN: Joe Biden hasn't had a day in the White House free of intractable domestic challenges that threaten to doom his presidency. But his hopes of a 2022 rebound are complicated by equally treacherous tests abroad. 
  <p class="updated_time"> 12:54 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068696336/hong-kong-police-raid-pro-democracy-news-outlet-arrest-6">Hong Kong pro-democracy news site closes after raid, arrests</a> NPR: A vocal pro-democracy website in Hong Kong shut down Wednesday after police raided its office and arrested six in a continuing crackdown on dissent. 
  <p class="updated_time"> 11:03 PM CT, Dec. 28 </p> 
@@ -258,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/611222803/the-guy-from-searchlight-former-senate-leader-harry-reid-is-dead-at-82">'The guy from Searchlight': Former Senate leader Harry Reid is dead at 82</a> NPR: Born into poverty in Searchlight, Nev., the onetime amateur boxer served in Congress for 34 years — first in the House and, later, for three decades in the Senate. 
  <p class="updated_time"> 06:53 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/michigan-redistricting-congressional-map-526227">Michigan’s new congressional map: 3 battlegrounds, 1 Dem-vs.-Dem primary</a> Politico: Virginia also completed congressional redistricting on Tuesday. 
- <p class="updated_time"> 06:39 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/us/politics/congress-ethics-investigations.html">Ethics Investigators in Congress Increasingly Run Into Walls</a> NYT: Lawmakers under scrutiny are more likely than before to simply refuse to cooperate with an inquiry. 
  <p class="updated_time"> 05:44 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/biden-covid-testing-shortage/index.html">Biden dogged by a testing shortage he'd vowed to fix</a> CNN: President Joe Biden is closing out his first year in office facing one of the same problems he entered the White House vowing to fix: a persistent shortage of Covid-19 testing that, if resolved, could provide a way out of the still-raging pandemic. 
  <p class="updated_time"> 05:38 PM CT, Dec. 28 </p> 
@@ -298,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1067460165/colorados-first-lawmaker-to-use-a-wheelchair-will-finally-get-to-wield-the-gavel">Colorado's first lawmaker to use a wheelchair will finally get to wield the gavel</a> NPR: State Rep. David Ortiz was paralyzed from the waist down while serving in Afghanistan. To give him access to the House podium, legislative staff say they have built the first lift of its kind. 
  <p class="updated_time"> 04:00 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1067206141/biden-federal-judges-nominations-diverse">Biden had a productive year picking federal judges. The job could get tougher in 2022</a> NPR: President Biden has gotten a diverse group of 40 federal judges confirmed in 2021, the most for a new president since the Reagan era. 
- <p class="updated_time"> 02:16 AM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/27/politics/richard-marcinko-dead-seal-team-six/index.html">Richard Marcinko, the first head of the elite SEAL Team Six, has died</a> CNN: Richard Marcinko, a legendary military figure known for leading SEAL Team Six when the covert special operations unit was in its infancy, died Saturday, according to his son and the National Navy SEAL Museum. He was 81. 
  <p class="updated_time"> 07:26 PM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/fauci-domestic-flight-vaccine-mandate-526194">Fauci: ‘I don’t think people should expect’ a domestic flight vaccine mandate</a> Politico: “It’s on the table,” he added. “But that doesn’t mean it’s going to happen. I doubt if we’re going to see something like that in the reasonably foreseeable future.” 
  <p class="updated_time"> 05:25 PM CT, Dec. 27 </p> 
@@ -318,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/27/politics/biden-covid-governors/index.html">Biden concedes not enough has been done to expand Covid-19 testing capacity: 'We have more work to do'</a> CNN: President Joe Biden will confer with the nation's governors on Monday as a wave of Covid-19, driven by the heavily transmissible Omicron variant of the coronavirus, crashes across the country and drives caseloads to record levels in areas of the Northeast. 
  <p class="updated_time"> 01:07 PM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/biden-governors-omicron-surge-526175">Biden looks to reassure governors amid Omicron surge and long lines for tests</a> Politico: Biden acknowledged the shortages that hit several states ahead of the holidays, conceding that he had not done enough to prepare for the rising demand. 
- <p class="updated_time"> 11:29 AM CT, Dec. 27 </p> 
- <a href="https://www.cnn.com/2021/12/24/politics/taylor-budowich-trump-spokesman-jan-6-committee/index.html">January 6 committee ramps up efforts to uncover funding behind Capitol riot</a> CNN: Trump spokesman Taylor Budowich on Friday sued the House select committee investigating the January 6 riot to prevent it from obtaining his financial documents from JP Morgan, which is also named in the lawsuit. 
  <p class="updated_time"> 09:36 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/27/the-view-struggles-to-find-a-republican-495553"> ‘The View’ struggles to find a Republican</a> Politico Playbook: And coronavirus cases spike to record levels across the world. 
  <p class="updated_time"> 08:37 AM CT, Dec. 27 </p> 
