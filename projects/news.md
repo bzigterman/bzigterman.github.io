@@ -73,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59815856?at_medium=RSS&at_campaign=KARANGA">Hong Kong's Stand News independent website shuts down after raid</a> BBC: Stand News has stopped operating following the arrest of seven people with links to the outlet. 
  <p class="updated_time"> 07:12 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Roots for Its Patron Saint of Basketball</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
- <p class="updated_time"> 04:05 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Independent outlet to close after senior staff arrested</a> BBC: Seven people linked to Stand News are arrested for "conspiracy to publish a seditious publication". 
  <p class="updated_time"> 02:30 AM CT, Dec. 29 </p> 
  <a href="https://www.wsj.com/articles/covid-19-pandemic-gives-new-hope-to-one-of-the-worlds-fastest-shrinking-countries-11640784601">Pandemic Gives New Hope to One of the World's Fastest-Shrinking Countries</a> WSJ: Covid-19 pushed many to return to Eastern European countries, such as Bulgaria, that had seen punishing declines in population. But the challenge is to keep them from leaving again. 
  <p class="updated_time"> 02:00 AM CT, Dec. 29 </p> 
