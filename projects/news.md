@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:38 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/europe/france-left-presidential-election-primary.html">A Movement to Unify the French Left Might Be Its Last Chance for the Elections</a> NYT: A citizens’ initiative is pressuring the fragmented force to set parties’ interests aside and join together for next year’s presidential race. 
+ <p class="updated_time"> 09:25 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 09:06 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">Russian Court Orders 2nd Ban of a Major Human Rights Group in 2 Days</a> NYT: Critics of the government said the rulings capped a year of erosion of civil rights and media freedoms in the country. 
  <p class="updated_time"> 09:04 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/myanmar-coup-refugees.html">Stay or Go? For Myanmar’s Latest Wave of Refugees, There’s No Good Choice.</a> NYT: Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire. 
  <p class="updated_time"> 09:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/afghanistan-taliban-helmand-marja.html">11 Years After Trying to Kill Each Other, a Marine and a Talib Meet Again</a> NYT: A Times reporter who once served in the Marines returned to the site of a major battle in Afghanistan to see what’s changed since the Taliban took over — and to meet a commander he once fought. 
- <p class="updated_time"> 08:56 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 08:51 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
  <p class="updated_time"> 08:51 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59818971?at_medium=RSS&at_campaign=KARANGA">China: Public shaming returns amid Covid fears</a> BBC: Four men accused of people trafficking were paraded through the streets, to mixed reactions online. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59818971?at_medium=RSS&at_campaign=KARANGA">China: Public shaming returns amid Covid fears</a> BBC: Four men accused of people trafficking are paraded through streets, to mixed reactions online. 
  <p class="updated_time"> 08:44 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59820248?at_medium=RSS&at_campaign=KARANGA">Ukraine: Three die after memorial candle lit in hospital ward</a> BBC: The candle was lit in memory of a patient who had recently died at the Ukrainian hospital. 
  <p class="updated_time"> 08:09 AM CT, Dec. 29 </p> 
@@ -60,7 +62,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:25 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/29/1068685421/nfl-hall-of-fame-coach-and-iconic-sports-broadcaster-john-madden-dies-at-85">NFL Hall of Fame coach and iconic sports broadcaster John Madden dies at 85</a> NPR: For 10 seasons, John Madden led the Oakland Raiders as head coach. After his retirement, he went on to become a legendary NFL commentator for three decades. 
  <p class="updated_time"> 10:58 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/arts/hugh-jackman-covid-the-music-man.html">Hugh Jackman Announces He Has Covid-19</a> NYT: The show joins other productions that have been suspended, including the Temptations musical “Ain’t Too Proud,” which will close for good on Jan. 16. 
+ <a href="https://www.nytimes.com/2021/12/28/theater/hugh-jackman-covid-the-music-man.html">Hugh Jackman Announces He Has Covid-19</a> NYT: The show joins other productions that have been suspended, including the Temptations musical “Ain’t Too Proud,” which will close for good on Jan. 16. 
  <p class="updated_time"> 10:47 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/books/keri-hulme-dead.html">Keri Hulme, New Zealand’s First Booker Prize Winner, Dies at 74</a> NYT: The power Ms. Hulme drew from her Maori heritage shone through in her work, especially in “The Bone People,” which won the literary prize in 1985. 
  <p class="updated_time"> 10:45 PM CT, Dec. 28 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/asia/myanmar-army-killings.html">Myanmar’s Army Is Accused of Massacring Dozens of Civilians</a> NYT: At least 35 people were killed and their bodies burned, according to an international aid group and opponents of the military regime. 
  <p class="updated_time"> 03:58 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/americas/navy-ship-covid.html">No Sailors on Navy Ship Required Hospitalization After Coronavirus Outbreak</a> NYT: The base hospital at Guantánamo Bay gave vaccine booster doses to the ship to administer to anyone who wants one. 
- <p class="updated_time"> 03:44 PM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/europe/ukraine-russia-civilian-training.html">Training Civilians, Ukraine Nurtures a Resistance in Waiting</a> NYT: Eastern European nations have drawn a lesson from America’s wars of the last decades: Insurgency works. Ukraine’s training of volunteers has become a factor in the standoff with Russia. 
  <p class="updated_time"> 03:38 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-south-africa.html">Even in Retirement, Desmond Tutu Remained South Africa’s Moral Compass</a> NYT: The Nobel laureate retired from public life over a decade ago, but he continued to advocate social justice, gay rights and environmentalism. 
  <p class="updated_time"> 03:07 PM CT, Dec. 26 </p> 
@@ -202,12 +202,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:26 AM CT, Dec. 29 </p> 
+ <a href="https://www.politico.com/news/2021/12/29/harry-reid-shaped-chuck-schumer-526233">'He’s a press guy, I’m not': How Harry Reid shaped Chuck Schumer</a> Politico: Schumer called Reid "my leader, my mentor, one of my dearest friends,” after the former Senate majority leader's death Tuesday. 
  <p class="updated_time"> 09:17 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/cdc-defends-new-covid-guidelines-526234">CDC defends new Covid isolation guidelines</a> Politico: Director Rochelle Walensky acknowledged that the decision to shorten the quarantine period “really had a lot to do with what we thought people would be able to tolerate.” 
  <p class="updated_time"> 07:06 AM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/january-6-portland-unrest-compare-judges/index.html">Two Trump-appointed judges reject comparisons between January 6 and Portland political unrest</a> CNN: Two Trump-appointed federal judges have rejected claims from January 6 defendants that they're being treated unfairly, because of their conservative politics, compared with left-leaning rioters in Portland, Oregon, in the summer of 2020. 
  <p class="updated_time"> 06:06 AM CT, Dec. 29 </p> 
- <a href="https://www.politico.com/news/agenda/2021/12/29/teachers-districts-hybrid-education-526214">‘I Feel Half as Successful’: Teachers and Districts at War Over Hybrid Education</a> Politico: Teachers want to ban teaching students in person and online at the same time. Some education leaders say it should be what the future looks like. 
+ <a href="https://www.politico.com/news/agenda/2021/12/29/teachers-districts-hybrid-education-526214">‘I Feel Half as Successful’: Teachers Push to Ban Hybrid Instruction, But Districts Want to Keep It</a> Politico: Teachers want to ban teaching students in person and online at the same time. Some education leaders say it should be what the future looks like. 
  <p class="updated_time"> 06:00 AM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/supreme-court-vaccine-mandates-federal-biden/index.html">A Supreme Court that's declined to block several vaccine mandates is now considering Biden's Covid vaccine requirement</a> CNN: A Supreme Court that has declined to block several types of vaccine mandates is now considering whether to allow the Biden administration to require millions of Americans to get Covid-19 vaccines. 
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
@@ -280,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/28/politics/spirit-airlines-unruly-passenger/index.html">Tennessee woman charged after alleged assault and running to cabin door on Spirit flight</a> CNN: A Tennessee woman turned herself into the FBI on Tuesday after she was accused of assaulting two flight attendants during a Spirit Airlines flight last month, the Justice Department announced. 
  <p class="updated_time"> 12:59 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/flight-attendants-cdc-airline-quarantine-change-526213">Flight attendants fume as CDC gives airlines what they want on quarantine change</a> Politico: Just days before the CDC announced the change, the airline industry united to press for a shortened quarantine timeframe. 
- <p class="updated_time"> 12:52 PM CT, Dec. 28 </p> 
- <a href="https://www.politico.com/news/2021/12/28/trump-organization-pga-settlement-526207">Trump Organization and PGA reach settlement over 2022 championship dispute</a> Politico: No details were released, but the tournament still won’t be held at Bedminster as a result of the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:48 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/cdc-drops-omicron-prevalence-estimate-526210">CDC sharply drops estimate of Omicron prevalence in U.S.</a> Politico: The agency said the disparity was due to the rate with which the highly transmissible Omicron spread. 
  <p class="updated_time"> 12:12 PM CT, Dec. 28 </p> 
