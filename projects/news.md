@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:45 PM CT, Dec. 29 </p> 
+ <a href="https://www.npr.org/2021/12/29/1068753263/fresh-air-remembers-archbishop-desmond-tutu">'Fresh Air' remembers Archbishop Desmond Tutu</a> NPR: The South African leader was key to the anti-apartheid movement. He chaired the Truth and Reconciliation Commission and preached forgiveness. Tutu died Dec. 26. Originally broadcast in '84 and '99. 
+ <p class="updated_time"> 12:44 PM CT, Dec. 29 </p> 
+ <a href="https://www.npr.org/2021/12/29/1066718893/kevin-dawes-sues-syria">An American was locked up in Syria. A pact with a British inmate may have saved him</a> NPR: Kevin Dawes describes how a fellow prisoner in Syria kept a promise that called attention to Dawes' detention. Now, five years after his release, Dawes is suing the Syrian regime. 
+ <p class="updated_time"> 12:29 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59822209?at_medium=RSS&at_campaign=KARANGA">Covid: Omicron and Delta driving tsunami of cases - WHO</a> BBC: The warning comes as record cases are once again reported across the US and Europe. 
  <p class="updated_time"> 12:13 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
- <p class="updated_time"> 12:10 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-59822209?at_medium=RSS&at_campaign=KARANGA">Covid: Omicron and Delta driving tsunami of cases - WHO</a> BBC: The warning comes as record cases are once again reported across the US and Europe. 
  <p class="updated_time"> 12:07 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59821159?at_medium=RSS&at_campaign=KARANGA">Malawians mourn ex-First Lady Anne Chidzira Muluzi</a> BBC: Tributes are paid to Anne Chidzira Muluzi, the first woman to hold the title there, who died aged 69. 
  <p class="updated_time"> 12:00 PM CT, Dec. 29 </p> 
@@ -175,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/27/1068335005/the-james-webb-space-telescope-is-on-its-trek-to-a-spot-a-million-miles-from-ear">The James Webb Space Telescope is on its trek to a spot a million miles from Earth</a> NPR: The James Webb Space Telescope is on its ways to its parking place a million miles from Earth. What do scientists plan to do with it once it is operational? 
  <p class="updated_time"> 03:35 PM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068335019/what-lies-ahead-for-iran-and-its-new-president">What lies ahead for Iran and its new president</a> NPR: Iran's new president will be looking to show he can improve the country's economy and to tamp down public dissent among Iranians. that might hinge on its nuclear program and relations with the West. 
- <p class="updated_time"> 03:35 PM CT, Dec. 27 </p> 
- <a href="https://www.npr.org/2021/12/27/1068334991/british-columbia-is-looking-at-how-it-can-adapt-to-prepare-for-more-climate-disa">British Columbia is looking at how it can adapt to prepare for more climate disasters</a> NPR: British Columbia was devastated by natural disasters this year attributed to climate change. The Canadian province is evaluating how to prepare for the next disasters. 
  <p class="updated_time"> 01:00 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/africa/somalia-prime-minister-suspended.html">Somalia’s President Suspends Prime Minister Over Corruption Allegations</a> NYT: The premier, Mohamed Hussein Roble, defied the order to step down as tensions continued over long-delayed elections. 
  <p class="updated_time"> 11:23 AM CT, Dec. 27 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/europe/poland-media-law.html">Poland’s President Says He Will Veto Media Bill Opposed by U.S.</a> NYT: The measure backed by the nationalist governing coalition sought to limit foreign influence and could have imperiled the license of an American-owned TV station. 
  <p class="updated_time"> 09:28 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/carnival-cruise-covid.html">Carnival Cruise Ship Returns to Miami With 'Small Number' of Covid Cases</a> NYT: The Carnival Freedom is the latest Florida cruise ship to be disrupted by the coronavirus as the Omicron variant drives up cases in the U.S. 
- <p class="updated_time"> 06:02 AM CT, Dec. 27 </p> 
- <a href="https://www.npr.org/2021/12/27/1068215624/myanmar-court-postpones-verdicts-in-second-case-against-suu-kyi">Myanmar court postpones verdicts in second case against Suu Kyi</a> NPR: The case is among many brought against the 76-year-old Nobel Peace Prize laureate since the army seized power on Feb. 1. 
  <p class="updated_time"> 04:35 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/college-football-bowl-games-covid.html">Two College Bowl Games Are Canceled Because of Covid Cases</a> NYT: The Fenway and Military Bowls were scrapped when teams didn’t have enough healthy players to take the field. One team pulled out of the Sun Bowl. 
  <p class="updated_time"> 03:58 PM CT, Dec. 26 </p> 
