@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:09 AM CT, Dec. 29 </p> 
+ <p class="updated_time"> 08:37 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 07:58 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59809822?at_medium=RSS&at_campaign=KARANGA">Ugandan author of The Greedy Barbarian detained - lawyer</a> BBC: Prize-winning Ugandan novelist Kakwenza Rukirabashaija called the president's son "obese" on Twitter. 
@@ -302,6 +302,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/27/fauci-domestic-flight-vaccine-mandate-526194">Fauci: ‘I don’t think people should expect’ a domestic flight vaccine mandate</a> Politico: “It’s on the table,” he added. “But that doesn’t mean it’s going to happen. I doubt if we’re going to see something like that in the reasonably foreseeable future.” 
  <p class="updated_time"> 05:25 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/sarah-weddington-dead.html">Sarah Weddington, Who Successfully Argued Roe v. Wade, Dies at 76</a> NYT: She went before the U.S. Supreme Court at 26 with almost no legal experience and won one of the most consequential cases in American history. 
+ <p class="updated_time"> 04:42 PM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/news/2021/12/27/cdc-cut-quarantine-covid-omicron-526187">CDC cuts recommended quarantine time amid Omicron surge</a> Politico: The reduction follows the CDC’s move last week to shorten its isolation period for infected health care workers, assuming they are asymptomatic and later test negative. 
  <p class="updated_time"> 04:20 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/biden-defense-bill.html">President Biden Signs $770 Billion Defense Bill</a> NYT: The National Defense Authorization Act passed Congress with bipartisan support, over the opposition of liberals pushing for more social spending. 
  <p class="updated_time"> 03:51 PM CT, Dec. 27 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/science/russia-nasa-spacex-asat.html">NASA-Russia Alliance Is Shaken by Events on Planet Earth</a> NYT: The relationship between the nations’ space agencies is facing a series of difficult tests, including an antisatellite weapon and friction over Ukraine. 
  <p class="updated_time"> 04:31 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/biden-covid-vaccines-usaid-funding-526126">Price tag to vaccinate the world: $7 billion. And the U.S. is already coming up short.</a> Politico: In September, U.S. officials noted it would take at least $7 billion in 2022 to ensure shots are administered across the globe. 
- <p class="updated_time"> 04:30 AM CT, Dec. 27 </p> 
- <a href="https://www.politico.com/news/2021/12/27/omicron-business-washington-526060">Omicron triggers business outcry for Washington lifeline</a> Politico: The lobbying push poses a new challenge for the Biden administration and congressional leadership heading into the 2022 midterm elections. 
  <p class="updated_time"> 04:05 AM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068201313/stacey-abrams-discusses-running-again-for-ga-governor-and-her-new-childrens-book">Stacey Abrams discusses running again for Ga. governor and her new children's book</a> NPR: NPR's Rachel Martin talks to Stacey Abrams about her second bid to be Georgia's governor, and the lessons about drawing strength from failure in her new children's book: Stacey's Extraordinary Words. 
  <p class="updated_time"> 02:17 AM CT, Dec. 27 </p> 
