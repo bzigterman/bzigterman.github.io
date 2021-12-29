@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:36 AM CT, Dec. 29 </p> 
+ <p class="updated_time"> 05:54 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Case Records Are Shattered as Delta and Omicron Converge</a> NYT: Hospitalizations and deaths are also rising, but remain far below earlier peaks. The Washington, Maryland and Virginia region is a focal point of the Omicron outbreak. 
  <p class="updated_time"> 05:10 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">Russian Court Orders 2nd Ban of a Major Human Rights Group in 2 Days</a> NYT: Critics of the government said the rulings capped a year of erosion of civil rights and media freedoms in the country. 
