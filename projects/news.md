@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:13 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
+ <p class="updated_time"> 12:10 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59822209?at_medium=RSS&at_campaign=KARANGA">Covid: Omicron and Delta driving tsunami of cases - WHO</a> BBC: The warning comes as record cases are once again reported across the US and Europe. 
+ <p class="updated_time"> 12:07 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59821159?at_medium=RSS&at_campaign=KARANGA">Malawians mourn ex-First Lady Anne Chidzira Muluzi</a> BBC: Tributes are paid to Anne Chidzira Muluzi, the first woman to hold the title there, who died aged 69. 
  <p class="updated_time"> 12:00 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59816567?at_medium=RSS&at_campaign=KARANGA">Valentina Orellana-Peralta: Teen shot by police in LA dies in mother's arms</a> BBC: A girl from Chile killed by a stray bullet once said the US was the safest country in the world. 
  <p class="updated_time"> 12:00 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/europe-omicron-records-coronavirus-covid-19.html">Spurred by Omicron, Europe Is Setting Coronavirus Infection Records Every Day</a> NYT: The surge of cases is causing chaos as people scramble to obtain tests, businesses grapple with staff shortages and New Year’s festivities are thrown into question. 
- <p class="updated_time"> 11:58 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 11:51 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/arts/design/smithsonian-museums-close-covid.html">Four Smithsonian Museums Close Amid Omicron Staff Shortages</a> NYT: The museums, which are smaller ones, will be closed through Sunday as the Smithsonian routes staff to more-visited outposts. 
  <p class="updated_time"> 11:30 AM CT, Dec. 29 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59815856?at_medium=RSS&at_campaign=KARANGA">Hong Kong's Stand News independent website shuts down after raid</a> BBC: Stand News has stopped operating following the arrest of seven people with links to the outlet. 
  <p class="updated_time"> 07:12 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Roots for Its Patron Saint of Basketball</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
- <p class="updated_time"> 06:01 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-59814661?at_medium=RSS&at_campaign=KARANGA">Covid: US reports record infections as Europe's Omicron cases also soar</a> BBC: Several nations see their biggest surge in daily infections as the WHO warns of Omicron's "very high" risk. 
  <p class="updated_time"> 04:05 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Independent outlet to close after senior staff arrested</a> BBC: Seven people linked to Stand News are arrested for "conspiracy to publish a seditious publication". 
  <p class="updated_time"> 04:01 AM CT, Dec. 29 </p> 
@@ -202,8 +204,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:33 PM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/biden-and-putin-to-talk-by-phone-thursday-526238">Biden and Putin to talk by phone Thursday</a> Politico: The call will be the second between the leaders this month amid tensions along the Russia-Ukraine border. 
- <p class="updated_time"> 11:19 AM CT, Dec. 29 </p> 
+ <p class="updated_time"> 12:13 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/biden-putin-call/index.html">Biden to speak with Putin on Thursday at Russian leader's request</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Thursday afternoon "to discuss a range of topics, including upcoming diplomatic engagements with Russia," National Security Council spokesperson Emily Horne told CNN. 
+ <p class="updated_time"> 11:55 AM CT, Dec. 29 </p> 
+ <a href="https://www.cnn.com/2021/12/29/politics/us-reconnaissance-aircraft-ukraine/index.html">US flies reconnaissance aircraft over eastern Ukraine</a> CNN: The US Air Force flew a reconnaissance mission this week over eastern Ukraine to gather intelligence about the situation on the ground -- two days after Russia announced it would withdraw 10,000 troops from its border with that nation. 
  <p class="updated_time"> 11:07 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/29/harry-reids-legacy-495555"> Harry Reid’s legacy</a> Politico Playbook: And Michigan and Virginia get their new congressional maps. 
  <p class="updated_time"> 11:04 AM CT, Dec. 29 </p> 
@@ -244,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/29/politics/afghan-refugees-wait/index.html">Months later, Afghan evacuees abroad and at US bases still wait to be resettled</a> CNN: Aminullah Hotaki flew out of Afghanistan on September 21 with his wife and 5-year-old son. They landed in the United Arab Emirates where they expected to stay for a short period of time before coming to the United States. 
  <p class="updated_time"> 10:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, Senate Majority Leader Behind Landmark Democratic Victories, Dies at 82</a> NYT: Mr. Reid, who was from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
- <p class="updated_time"> 10:11 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/us-russia-security-talks/index.html">US and Russia to talk Ukraine and security issues next month</a> CNN: US and Russian officials have agreed to sit down for security talks on January 10, a spokesman for the National Security Council confirmed Tuesday. 
  <p class="updated_time"> 09:54 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/harry-reid-dies/index.html">Harry Reid, longtime US senator and former Democratic leader, dies at 82</a> CNN: Harry Reid, the scrappy former Democratic Senate leader who spearheaded epic legislative battles through three decades in Congress, has died at the age of 82, according to a statement from his wife, Landra Reid. 
  <p class="updated_time"> 09:53 PM CT, Dec. 28 </p> 
