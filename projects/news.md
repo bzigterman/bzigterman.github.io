@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:56 PM CT, Dec. 29 </p> 
+ <p class="updated_time"> 05:11 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City Struggles to Keep Running Under Omicron</a> NYT: Average global cases reach a new high. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 04:50 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59818978?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden and Putin phone call seeks 'diplomatic path'</a> BBC: The presidents of the US and Russia will speak again in a bid to de-escalate tensions over Ukraine. 
@@ -186,6 +186,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:15 PM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/ghislaine-maxwell-convicted-in-epstein-sex-abuse-case-526252">Ghislaine Maxwell convicted in Epstein sex abuse case</a> Politico: She faces the likelihood of years in prison. 
+ <p class="updated_time"> 04:56 PM CT, Dec. 29 </p> 
+ <a href="https://www.cnn.com/2021/12/29/politics/oklahoma-national-guard-vaccine-mandate/index.html">Federal judge denies Oklahoma governor's request to stop military vaccine mandate</a> CNN: Oklahoma National Guard members must get vaccinated against Covid-19, a federal judge has ruled, denying a request from the state's Republican governor and others to halt the military's vaccine mandate. 
  <p class="updated_time"> 04:46 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/omicron-tests-hospitals.html">Federal Officials Say Early Omicron Data Suggests a Less Deadly Wave</a> NYT: Dr. Rochelle P. Walensky and Dr. Anthony S. Fauci cautioned that hospitalizations and deaths could be lagging behind case counts. 
  <p class="updated_time"> 04:09 PM CT, Dec. 29 </p> 
