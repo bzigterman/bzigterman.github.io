@@ -7,14 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:53 AM CT, Dec. 29 </p> 
+ <p class="updated_time"> 09:06 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">Russian Court Orders 2nd Ban of a Major Human Rights Group in 2 Days</a> NYT: Critics of the government said the rulings capped a year of erosion of civil rights and media freedoms in the country. 
+ <p class="updated_time"> 09:04 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/asia/myanmar-coup-refugees.html">Stay or Go? For Myanmar’s Latest Wave of Refugees, There’s No Good Choice.</a> NYT: Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire. 
+ <p class="updated_time"> 09:00 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/asia/afghanistan-taliban-helmand-marja.html">11 Years After Trying to Kill Each Other, a Marine and a Talib Meet Again</a> NYT: A Times reporter who once served in the Marines returned to the site of a major battle in Afghanistan to see what’s changed since the Taliban took over — and to meet a commander he once fought. 
+ <p class="updated_time"> 08:56 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 08:51 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
- <p class="updated_time"> 08:48 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/asia/myanmar-coup-refugees.html">Stay or Go? For Myanmar’s Latest Wave of Refugees, There’s No Good Choice</a> NYT: Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire. 
- <p class="updated_time"> 08:41 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">Russian Court Orders 2nd Ban of a Major Human Rights Group in 2 Days</a> NYT: Critics of the government said the rulings capped a year of erosion of civil rights and media freedoms in the country. 
+ <p class="updated_time"> 08:51 AM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59818971?at_medium=RSS&at_campaign=KARANGA">China: Public shaming returns amid Covid fears</a> BBC: Four men accused of people trafficking were paraded through the streets, to mixed reactions online. 
+ <p class="updated_time"> 08:44 AM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59820248?at_medium=RSS&at_campaign=KARANGA">Ukraine: Three die after memorial candle lit in hospital ward</a> BBC: The candle was lit in memory of a patient who had recently died at the Ukrainian hospital. 
+ <p class="updated_time"> 08:09 AM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59818881?at_medium=RSS&at_campaign=KARANGA">Citroën Egypt advert accused of normalising sexual harassment</a> BBC: The French carmaker features a pop star taking a photo of a woman apparently without her consent. 
  <p class="updated_time"> 08:05 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59816052?at_medium=RSS&at_campaign=KARANGA">Sabine Weiss: Legend of street photography dies at 97</a> BBC: Famed for her images of Paris street life, she was the last member of the French humanist group. 
  <p class="updated_time"> 07:58 AM CT, Dec. 29 </p> 
@@ -27,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Roots for Its Patron Saint of Basketball</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
  <p class="updated_time"> 06:01 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59814661?at_medium=RSS&at_campaign=KARANGA">Covid: US reports record infections as Europe's Omicron cases also soar</a> BBC: Several nations see their biggest surge in daily infections as the WHO warns of Omicron's "very high" risk. 
- <p class="updated_time"> 04:28 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59816079?at_medium=RSS&at_campaign=KARANGA">Djokovic withdraws amid unclear vaccine status</a> BBC: World number one Novak Djokovic withdraws from Serbia's ATP Cup team in Sydney amid uncertainty over his participation at the Australian Open. 
  <p class="updated_time"> 04:25 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59816567?at_medium=RSS&at_campaign=KARANGA">Valentina Orellana-Peralta: US teen shot dead by police 'died in mother's arms'</a> BBC: The parents of a 14-year-old girl killed by a stray police bullet while shopping demand justice. 
  <p class="updated_time"> 04:05 AM CT, Dec. 29 </p> 
@@ -43,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/business/uk-companies-brexit-trade.html">For U.K. Companies Brexit Meant Higher Costs and Endless Forms</a> NYT: While the worst of the Brexit trade disruptions are over, British exports to the European Union are down and companies are frustrated. 
  <p class="updated_time"> 02:00 AM CT, Dec. 29 </p> 
  <a href="https://www.wsj.com/articles/battle-at-printing-press-maker-shows-difficulty-of-japan-takeovers-11640782803">Battle at Printing-Press Maker Shows Difficulty of Japan Takeovers</a> WSJ: A recent case in which management used a poison pill to stop an aggressive share buyer—with the Supreme Court’s endorsement—shows why newcomers have a tough time unlocking Tokyo’s opportunities. 
- <p class="updated_time"> 01:35 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59814542?at_medium=RSS&at_campaign=KARANGA">John Madden: NFL coach, broadcaster and video game icon dies at 85</a> BBC: John Madden, legendary American Football coach, broadcaster and face of Madden NFL Football has died. 
  <p class="updated_time"> 01:30 AM CT, Dec. 29 </p> 
  <a href="https://www.wsj.com/articles/in-southeast-asia-politics-are-increasingly-a-family-affair-11640781002">In Southeast Asia, Politics Are a Family Affair</a> WSJ: Political dynasties are increasingly dominating governments in Southeast Asia, posing an obstacle to good governance in one of the world’s most economically vibrant regions. 
  <p class="updated_time"> 12:54 AM CT, Dec. 29 </p> 
@@ -63,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/hong-kong-pro-democracy-site-stand-news-closes-after-arrests-raid-11640771127">Hong Kong Pro-Democracy Site Stand News Closes After Arrests, Raid</a> WSJ: National security police detained seven people linked to the popular news site, dealing a further blow to freedom of speech in a city once celebrated for its rambunctious journalism. 
  <p class="updated_time"> 09:51 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/quebec-health-workers-positive-covid.html">Some Infected Quebec Health Care Workers can Continue Working</a> NYT: All essential workers in the province, including those who work in medicine, will be subject to the new rules. 
- <p class="updated_time"> 08:36 PM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-59814571?at_medium=RSS&at_campaign=KARANGA">Boeing 737 Max: Indonesia lifts ban after 2018 Lion Air crash</a> BBC: The announcement came just a day after Ethiopian Airlines said it would resume 737 Max flights. 
  <p class="updated_time"> 08:30 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/russia-memorial-human-rights.html">Russian Court Orders Liquidation of the Human Rights Group Memorial </a> NYT: The Supreme Court ruled that Memorial International, which chronicled political repression in Russia, must be liquidated. 
  <p class="updated_time"> 07:12 PM CT, Dec. 28 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59812890?at_medium=RSS&at_campaign=KARANGA">Jordan MPs fighting in parliament session live-streamed on local television</a> BBC: The argument began as the chamber debated constitutional reforms, including gender equality. 
  <p class="updated_time"> 01:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/europe/spain-king-juan-carlos.html">Will Juan Carlos, Spain's Disgraced King, Get a Royal Homecoming?</a> NYT: In the years since Juan Carlos, Spain’s former king, fled the country to escape corruption investigations, some of the cases have been resolved or dropped. Now Spaniards are weighing whether they want him back. 
- <p class="updated_time"> 12:51 PM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59808624?at_medium=RSS&at_campaign=KARANGA">Russian court orders oldest civil rights group Memorial to shut</a> BBC: The Supreme Court dissolves a civil rights group formed to remember victims of Communist repression. 
  <p class="updated_time"> 12:31 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2021/12/28/260448064/cooking-up-food-and-identity-in-pailin-chongchitnants-hot-thai-kitchen">Cooking up food and identity in Pailin Chongchitnant's "Hot Thai Kitchen"</a> NPR: When chef Pailin Chongchitnant realized that cable television wasn't ready for a Thai cooking show, she started her own on YouTube. On it, she breaks down some of the misconceptions about the cuisine. 
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
@@ -195,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/bts-covid-coronavirus.html">Two More Members of the K-Pop Band, BTS, Test Positive for Coronavirus</a> NYT: RM and Jin discovered they were infected a day after Suga got his diagnosis. All tested positive after returning to South Korea from the United States. 
  <p class="updated_time"> 10:30 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/europe/afghans-netherlands-migrants.html">After Chaotic Evacuation, Afghans in the Netherlands Struggle to Find Stability</a> NYT: Many Afghans evacuated to the Netherlands have been living in tents for months, as they prepare to resettle in a Europe that is wrangling with a heated debate about immigration. 
- <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/insider/in-congo-bolivia-and-beyond-where-the-green-future-begins.html">In Congo, Bolivia and Beyond, Where the Green Future Begins</a> NYT: The Times’s Race to the Future series is focused on the competition for electric-car resources that will shape the 21st century. 
 
 
 </details>
@@ -215,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/republicans-education-wars-school-board-races-526053">Republicans eye new front in education wars: Making school board races partisan</a> Politico: “We’re out there trying to elect good conservatives," says one Florida lawmaker. 
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
- <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">How Lawrence O'Donnell became the White House's favorite cable news personality</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
+ <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
  <p class="updated_time"> 04:15 AM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/redistricting-race-blind-maps-texas-north-carolina/index.html">'They know where Black voters live': Challengers say 'race blind' redistricting maps are anything but</a> CNN: In states like Texas and North Carolina, Republican lawmakers in charge of redrawing the political maps for the next decade say that the new plans are "race blind." Their opponents in court say that the claim is implausible and one that, in some situations, is at odds with the Voting Rights Act. 
  <p class="updated_time"> 04:08 AM CT, Dec. 29 </p> 
