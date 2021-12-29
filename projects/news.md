@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:11 PM CT, Dec. 29 </p> 
+ <p class="updated_time"> 05:22 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City Struggles to Keep Running Under Omicron</a> NYT: Average global cases reach a new high. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 04:50 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59818978?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden and Putin phone call seeks 'diplomatic path'</a> BBC: The presidents of the US and Russia will speak again in a bid to de-escalate tensions over Ukraine. 
  <p class="updated_time"> 04:43 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59822209?at_medium=RSS&at_campaign=KARANGA">Covid: Omicron and Delta driving tsunami of cases - WHO</a> BBC: The warning comes as record cases are once again reported across the US and Europe. 
  <p class="updated_time"> 04:04 PM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/29/1068895510/thousands-are-displaced-in-brazil-after-weeks-of-flooding-in-bahia-state">Thousands are displaced in Brazil after weeks of flooding in Bahia state</a> NPR: NPR's Ari Shapiro speaks with Gram Slattery, Brazil correspondent for Reuters, about the deadly flooding currently happening in the northeastern state of Bahia, Brazil. 
+ <a href="https://www.npr.org/2021/12/29/1068895510/thousands-are-displaced-in-brazil-after-weeks-of-flooding-in-bahia-state">Tens of thousands are displaced in Brazil after weeks of flooding in Bahia state</a> NPR: NPR's Ari Shapiro speaks with Gram Slattery, Brazil correspondent for Reuters, about the deadly flooding currently happening in the northeastern state of Bahia, Brazil. 
  <p class="updated_time"> 04:04 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068895496/hong-kong-police-close-pro-democracy-outlet-stand-news">Hong Kong police close pro-democracy outlet Stand News</a> NPR: In Hong Kong, authorities from the police's national security department arrested half a dozen senior staff members, confiscated boxes and closed one of the last pro-democracy outlets, Stand News. 
  <p class="updated_time"> 03:44 PM CT, Dec. 29 </p> 
@@ -43,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068753263/fresh-air-remembers-archbishop-desmond-tutu">'Fresh Air' remembers Archbishop Desmond Tutu</a> NPR: The South African leader was key to the anti-apartheid movement. He chaired the Truth and Reconciliation Commission and preached forgiveness. Tutu died Dec. 26. Originally broadcast in '84 and '99. 
  <p class="updated_time"> 12:44 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1066718893/kevin-dawes-sues-syria">An American was locked up in Syria. A pact with a British inmate may have saved him</a> NPR: Kevin Dawes describes how a fellow prisoner in Syria kept a promise that called attention to Dawes' detention. Now, five years after his release, Dawes is suing the Syrian regime. 
+ <p class="updated_time"> 12:24 PM CT, Dec. 29 </p> 
+ <a href="https://www.wsj.com/articles/with-omicron-case-rates-surging-policy-makers-focus-on-hospitalizations-instead-11640778907">U.S. Hit With Record Number of New Covid-19 Cases</a> WSJ: Infections surge as health officials expect the Omicron variant to keep spreading. 
  <p class="updated_time"> 12:07 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59821159?at_medium=RSS&at_campaign=KARANGA">Malawians mourn ex-First Lady Anne Chidzira Muluzi</a> BBC: Tributes are paid to Anne Chidzira Muluzi, the first woman to hold the title there, who died aged 69. 
  <p class="updated_time"> 12:07 PM CT, Dec. 29 </p> 
@@ -59,8 +61,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59818971?at_medium=RSS&at_campaign=KARANGA">China: Public shaming returns amid Covid fears</a> BBC: Four men accused of people trafficking are paraded through streets, to mixed reactions online. 
  <p class="updated_time"> 10:41 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/myanmar-coup-refugees.html">Stay or Go? For Myanmar’s Latest Wave of Refugees, There’s No Good Choice.</a> NYT: Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire. 
- <p class="updated_time"> 10:05 AM CT, Dec. 29 </p> 
- <a href="https://www.wsj.com/articles/with-omicron-case-rates-surging-policy-makers-focus-on-hospitalizations-instead-11640778907">With Omicron Case Rates Surging, Policy Makers Focus on Hospitalizations</a> WSJ: Despite rocketing Covid-19 infections in many countries, hospitalization levels remain relatively low—a pattern health experts attribute to high vaccination rates and the apparently milder disease caused by the Omicron variant. 
+ <p class="updated_time"> 09:45 AM CT, Dec. 29 </p> 
+ <a href="https://www.wsj.com/articles/biden-putin-to-speak-thursday-ahead-of-ukraine-talks-11640801059">Biden, Putin Plan Call at What U.S. Says Is 'Moment of Crisis' Over Ukraine</a> WSJ: The call will be the second by the leaders this month and comes as Russia continues a military buildup near Ukraine and issues sweeping security demands. 
  <p class="updated_time"> 09:41 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile Writes Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
  <p class="updated_time"> 09:00 AM CT, Dec. 29 </p> 
@@ -75,6 +77,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59815856?at_medium=RSS&at_campaign=KARANGA">Hong Kong's Stand News independent website shuts down after raid</a> BBC: Stand News has stopped operating following the arrest of seven people with links to the outlet. 
  <p class="updated_time"> 07:12 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Roots for Its Patron Saint of Basketball</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
+ <p class="updated_time"> 04:37 AM CT, Dec. 29 </p> 
+ <a href="https://www.wsj.com/articles/a-master-penny-pincher-draws-a-following-in-japan-11640792275">A Master Penny-Pincher Draws a Following in Japan</a> WSJ: Megumi Nakano offers daily tips on Instagram about how not to spend money. Half a radish is put to good use. 
  <p class="updated_time"> 02:30 AM CT, Dec. 29 </p> 
  <a href="https://www.wsj.com/articles/covid-19-pandemic-gives-new-hope-to-one-of-the-worlds-fastest-shrinking-countries-11640784601">Pandemic Gives New Hope to One of the World's Fastest-Shrinking Countries</a> WSJ: Covid-19 pushed many to return to Eastern European countries, such as Bulgaria, that had seen punishing declines in population. But the challenge is to keep them from leaving again. 
  <p class="updated_time"> 02:00 AM CT, Dec. 29 </p> 
@@ -184,6 +188,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:29 PM CT, Dec. 29 </p> 
+ <a href="https://www.cnn.com/2021/12/29/politics/trump-supreme-court-washington-post-bennie-thompson/index.html">Trump wants Supreme Court to read Washington Post interview with Bennie Thompson</a> CNN: As the Supreme Court considers whether to take up former President Donald Trump's January 6 White House records case, Trump's attorney submitted to the court a new filing Wednesday making the court aware of a Washington Post interview with Rep. Bennie Thompson, who chairs the House select committee seeking the records. 
  <p class="updated_time"> 05:15 PM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/ghislaine-maxwell-convicted-in-epstein-sex-abuse-case-526252">Ghislaine Maxwell convicted in Epstein sex abuse case</a> Politico: She faces the likelihood of years in prison. 
  <p class="updated_time"> 04:56 PM CT, Dec. 29 </p> 
@@ -194,8 +200,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/republicans-luring-john-james-house-526250">National Republicans luring John James into House race</a> Politico: Republicans anticipate James, one of their most coveted 2022 recruits, will run for Congress next year after Michigan's new district map was finalized. 
  <p class="updated_time"> 03:38 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068895454/president-biden-promised-to-reform-immigration-policy-how-has-that-been-going">President Biden promised to reform immigration policy. How has that been going?</a> NPR: President Biden had an ambitious agenda to overhaul the nation's border policies. But as the end of the year approaches, many of those proposals have been blocked, reversed or simply abandoned. 
- <p class="updated_time"> 03:27 PM CT, Dec. 29 </p> 
- <a href="https://www.cnn.com/2021/12/29/politics/trump-supreme-court-washington-post-bennie-thompson/index.html">Trump wants Supreme Court to read Washington Post interview with Bennie Thompson</a> CNN: As the Supreme Court considers whether to take up former President Donald Trump's January 6 White House records case, Trump's attorney submitted to the court a new filing Wednesday making the court aware of a Washington Post interview with Rep. Bennie Thompson, who chairs the House select committee seeking the records. 
  <p class="updated_time"> 03:25 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/melania-trump-steps-back-into-the-public-eye/index.html">Melania Trump steps back into the public eye </a> CNN: After months of relative public silence, former first lady Melania Trump before Christmas emerged from private life to announce a new project: A piece of artwork, a watercolor closeup of her eyes, in the form of a non-fungible token (NFT) was now available for purchase. 
  <p class="updated_time"> 03:24 PM CT, Dec. 29 </p> 
