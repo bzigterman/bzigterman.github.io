@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:45 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City Struggles to Keep Running Under Omicron</a> NYT: Average global cases reach a new high, and many Europeans are scrambling for tests. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
+ <p class="updated_time"> 03:44 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59823632?at_medium=RSS&at_campaign=KARANGA">Berlin Zoo animals feast on unsold Christmas trees</a> BBC: The trees are seen as a way to minimise waste and support zoos during the Covid pandemic. 
  <p class="updated_time"> 03:22 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59823682?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Religious and political leaders pay tribute in Cape Town</a> BBC: Politicians and leaders of different faiths gathered in Cape Town to remember the anti-apartheid leader. 
  <p class="updated_time"> 03:20 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59818978?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden and Putin phone call seeks 'diplomatic path'</a> BBC: The presidents of the US and Russia will speak again in a bid to de-escalate tensions over Ukraine. 
- <p class="updated_time"> 03:18 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City Struggles to Keep Running Under Omicron</a> NYT: Average global cases reach a new high, and many Europeans are scrambling for tests. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 03:17 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/eric-adams-new-years-eve-times-square.html">Eric Adams to Be Sworn In on New Year's Eve in Times Square</a> NYT: The incoming mayor has made a point of reveling in New York’s nightlife, something that he has cast as boosterism for the city’s struggling club and restaurant scene. 
  <p class="updated_time"> 03:12 PM CT, Dec. 29 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/asia/afghanistan-taliban-helmand-marja.html">11 Years After Trying to Kill Each Other, a Marine and a Talib Meet Again</a> NYT: A Times reporter who once served in the Marines returned to the site of a major battle in Afghanistan to see what’s changed since the Taliban took over — and to meet a commander he once fought. 
  <p class="updated_time"> 08:51 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
- <p class="updated_time"> 08:44 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59820248?at_medium=RSS&at_campaign=KARANGA">Ukraine: Three die after memorial candle lit in hospital ward</a> BBC: The candle was lit in memory of a patient who had recently died at the Ukrainian hospital. 
  <p class="updated_time"> 08:09 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59818881?at_medium=RSS&at_campaign=KARANGA">Citroën Egypt advert accused of normalising sexual harassment</a> BBC: The French carmaker features a pop star taking a photo of a woman apparently without her consent. 
  <p class="updated_time"> 08:05 AM CT, Dec. 29 </p> 
