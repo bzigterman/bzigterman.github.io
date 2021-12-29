@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:40 PM CT, Dec. 28 </p> 
+ <p class="updated_time"> 08:55 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Daily Record for Cases Is Broken</a> NYT: The seven-day average of U.S. cases topped 267,000 on Tuesday, with Washington, D.C., Maryland and Virginia particularly hard hit. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S. 
  <p class="updated_time"> 08:37 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/hong-kong-stand-news-arrest.html">Hong Hong Police Raid Stand News and Arrest Staff</a> NYT: Six current or former senior staff members of Stand News were arrested on suspicion of conspiring to publish seditious material. More than 200 officers raided the news site’s headquarters. 
@@ -194,10 +194,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:00 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/january-6-committee-trump-documents/index.html">January 6 panel stands down on request for some Trump documents after pushback from Biden administration</a> CNN: The House select committee investigating January 6 has stood down on its requests for some documents from the Trump White House, after the Biden administration convinced the panel to scale back its pursuits. 
  <p class="updated_time"> 08:34 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/proud-boys-first-amendment/index.html">Judge rejects Proud Boys' First Amendment claims in January 6 conspiracy case</a> CNN: A federal judge is allowing a major January 6 conspiracy case against four Proud Boys leaders to move forward, rejecting their bid to throw out the charges. 
- <p class="updated_time"> 08:33 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/january-6-committee-trump-documents/index.html">January 6 panel stands down on request for some Trump documents after pushback from Biden administration</a> CNN: The House select committee investigating January 6 has stood down on its requests for some documents from the Trump White House, after the Biden administration convinced the panel to scale back its pursuits. 
  <p class="updated_time"> 08:31 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/january-6-portland-unrest-compare-judges/index.html">Two Trump-appointed judges reject comparisons between January 6 and Portland political unrest</a> CNN: Two Trump-appointed federal judges have rejected claims from January 6 defendants that they're being treated unfairly, because of their conservative politics, compared with left-leaning rioters in Portland, Oregon, in the summer of 2020. 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
