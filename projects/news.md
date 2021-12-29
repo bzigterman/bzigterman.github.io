@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:36 AM CT, Dec. 29 </p> 
+ <p class="updated_time"> 11:51 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
- <p class="updated_time"> 11:22 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/arts/design/smithsonian-closures-covid.html">Four Smithsonian museums are among those shuttering amid Omicron staff shortages.</a> NYT: The museums, which are smaller ones, will be closed through Sunday as the Smithsonian routes staff to more-visited outposts. 
+ <p class="updated_time"> 11:51 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/arts/design/smithsonian-museums-close-covid.html">Four Smithsonian Museums Close Amid Omicron Staff Shortages</a> NYT: The museums, which are smaller ones, will be closed through Sunday as the Smithsonian routes staff to more-visited outposts. 
+ <p class="updated_time"> 11:30 AM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59820999?at_medium=RSS&at_campaign=KARANGA">Alaska 'Icemageddon' warning follows heat record</a> BBC: The coldest US state faces weather extremes after heavy snowfall and torrential rain. 
  <p class="updated_time"> 11:20 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/middleeast/israel-avian-flu.html">Israel's Avian Flu Outbreak Has Killed Thousands of Cranes</a> NYT: Thousands of migratory cranes have died and more than half a million chickens have been culled as the country tries to contain a deadly bird virus. 
  <p class="updated_time"> 10:45 AM CT, Dec. 29 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/us/politics/nato-russia-ukrain-us.html">U.S. and Russia Agree to Talks Amid Growing Tensions Over Ukraine</a> NYT: The Biden administration has not said who will lead the U.S. delegation next month as Russian officials demand commitments from NATO. 
  <p class="updated_time"> 04:02 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1068587887/its-unclear-if-boris-johnson-can-bounce-back-from-low-approval-ratings-and-scand">It's unclear if Boris Johnson can bounce back from low approval ratings and scandals</a> NPR: British Prime Minister Boris Johnson is going through the worst period of his premiership so far — but he's bounced back before. Can he do it again? 
- <p class="updated_time"> 03:52 PM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59812251?at_medium=RSS&at_campaign=KARANGA">Richard Marcinko: Seal Team Six founder dies at 81</a> BBC: Richard Marcinko played a vital role in boosting America's counter-terrorism capabilities but was a divisive figure. 
  <p class="updated_time"> 03:42 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/americas/brazil-floods-climate-change.html">Brazil Flooding Kills at Least 20 and Displaces Thousands</a> NYT: In northeast Brazil, local officials say they have never before seen flooding on this scale. Tens of thousands were forced to flee their homes. 
  <p class="updated_time"> 03:34 PM CT, Dec. 28 </p> 
@@ -193,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/middleeast/archbishop-tutu-cowell-recollection.html">The Time Archbishop Tutu Was Searched at the Airport</a> NYT: A former South Africa bureau chief for The Times recalls telling moments with the anti-apartheid religious leader. 
  <p class="updated_time"> 11:21 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/bts-covid-coronavirus.html">Two More Members of the K-Pop Band, BTS, Test Positive for Coronavirus</a> NYT: RM and Jin discovered they were infected a day after Suga got his diagnosis. All tested positive after returning to South Korea from the United States. 
- <p class="updated_time"> 10:30 AM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/europe/afghans-netherlands-migrants.html">After Chaotic Evacuation, Afghans in the Netherlands Struggle to Find Stability</a> NYT: Many Afghans evacuated to the Netherlands have been living in tents for months, as they prepare to resettle in a Europe that is wrangling with a heated debate about immigration. 
 
 
 </details>
