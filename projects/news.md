@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:51 PM CT, Dec. 29 </p> 
+ <p class="updated_time"> 03:06 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City Struggles to Keep Running Under Omicron</a> NYT: Average global cases reach a new high, and many Europeans are scrambling for tests. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 02:39 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/americas/brazil-floods-climate-change.html">Brazil Flooding Kills at Least 20 and Displaces Thousands</a> NYT: In northeast Brazil, local officials say they have never before seen flooding on this scale. Tens of thousands were forced to flee their homes. 
@@ -45,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59818971?at_medium=RSS&at_campaign=KARANGA">China: Public shaming returns amid Covid fears</a> BBC: Four men accused of people trafficking are paraded through streets, to mixed reactions online. 
  <p class="updated_time"> 10:41 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/myanmar-coup-refugees.html">Stay or Go? For Myanmar’s Latest Wave of Refugees, There’s No Good Choice.</a> NYT: Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire. 
+ <p class="updated_time"> 10:05 AM CT, Dec. 29 </p> 
+ <a href="https://www.wsj.com/articles/with-omicron-case-rates-surging-policy-makers-focus-on-hospitalizations-instead-11640778907">With Omicron Case Rates Surging, Policy Makers Focus on Hospitalizations</a> WSJ: Despite rocketing Covid-19 infections in many countries, hospitalization levels remain relatively low—a pattern health experts attribute to high vaccination rates and the apparently milder disease caused by the Omicron variant. 
  <p class="updated_time"> 09:41 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile Writes Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
  <p class="updated_time"> 09:00 AM CT, Dec. 29 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808557?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo statue divides opinion in India</a> BBC: The statue of the Portuguese football star is unveiled in Goa state, a former Portuguese colony. 
  <p class="updated_time"> 02:30 AM CT, Dec. 29 </p> 
  <a href="https://www.wsj.com/articles/covid-19-pandemic-gives-new-hope-to-one-of-the-worlds-fastest-shrinking-countries-11640784601">Pandemic Gives New Hope to One of the World's Fastest-Shrinking Countries</a> WSJ: Covid-19 pushed many to return to Eastern European countries, such as Bulgaria, that had seen punishing declines in population. But the challenge is to keep them from leaving again. 
- <p class="updated_time"> 02:07 AM CT, Dec. 29 </p> 
- <a href="https://www.wsj.com/articles/with-omicron-case-rates-surging-policy-makers-focus-on-hospitalizations-instead-11640778907">With Omicron Case Rates Surging, Policy Makers Focus on Hospitalizations Instead</a> WSJ: Despite rocketing Covid-19 infections in many countries, hospitalization levels remain relatively low—a pattern that health experts have attributed to high vaccination rates and the apparently milder disease caused by the Omicron variant. 
  <p class="updated_time"> 02:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/business/uk-companies-brexit-trade.html">For U.K. Companies Brexit Meant Higher Costs and Endless Forms</a> NYT: While the worst of the Brexit trade disruptions are over, British exports to the European Union are down and companies are frustrated. 
  <p class="updated_time"> 02:00 AM CT, Dec. 29 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:01 PM CT, Dec. 29 </p> 
+ <a href="https://www.cnn.com/2021/12/29/politics/biden-putin-call/index.html">Biden to speak with Putin on Thursday at Russian leader's request</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Thursday afternoon "to discuss a range of topics, including upcoming diplomatic engagements with Russia," National Security Council spokesperson Emily Horne told CNN. 
  <p class="updated_time"> 02:22 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/melania-trump-steps-back-into-the-public-eye/index.html">Melania Trump steps back into the public eye </a> CNN: After months of relative public silence, former first lady Melania Trump before Christmas emerged from private life to announce a new project: A piece of artwork, a watercolor closeup of her eyes, in the form of a non-fungible token (NFT) was now available for purchase. 
  <p class="updated_time"> 01:27 PM CT, Dec. 29 </p> 
@@ -202,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/28/politics/january-6-committee-trump-documents/index.html">January 6 panel stands down on request for some Trump documents</a> CNN: The House select committee investigating January 6 has stood down on its requests for some documents from the Trump White House, after the Biden administration convinced the panel to scale back its pursuits. 
  <p class="updated_time"> 12:33 PM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/biden-and-putin-to-talk-by-phone-thursday-526238">Biden and Putin to speak again at ‘moment of crisis’</a> Politico: The call on Thursday will be the second between the two leaders this month amid tensions along the Russia-Ukraine border. 
- <p class="updated_time"> 12:13 PM CT, Dec. 29 </p> 
- <a href="https://www.cnn.com/2021/12/29/politics/biden-putin-call/index.html">Biden to speak with Putin on Thursday at Russian leader's request</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Thursday afternoon "to discuss a range of topics, including upcoming diplomatic engagements with Russia," National Security Council spokesperson Emily Horne told CNN. 
  <p class="updated_time"> 11:55 AM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/us-reconnaissance-aircraft-ukraine/index.html">US flies reconnaissance aircraft over eastern Ukraine</a> CNN: The US Air Force flew a reconnaissance mission this week over eastern Ukraine to gather intelligence about the situation on the ground -- two days after Russia announced it would withdraw 10,000 troops from its border with that nation. 
  <p class="updated_time"> 11:07 AM CT, Dec. 29 </p> 
@@ -344,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/25/the-manchin-dance-continues-on-christmas-495551"> The Manchin dance continues on Christmas</a> Politico Playbook: And a judge continues prior restraint on the NYT. 
  <p class="updated_time"> 07:00 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/biden-puerto-rico-electricity-network-526102">Puerto Rico’s shattered power grid could become a ‘big experiment’ for Biden</a> Politico: The crumbling electricity network that serves the island's 3 million people is at the center of a debate on renewable energy vs. fossil fuels — with billions of federal dollars at stake. 
- <p class="updated_time"> 06:10 PM CT, Dec. 24 </p> 
- <a href="https://www.politico.com/news/2021/12/24/project-veritas-new-york-times-526137">Judge blocks New York Times on Project Veritas coverage</a> Politico: The Times was also ordered to return or delete relevant documents. 
  <p class="updated_time"> 05:08 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/us/elections/democrats-state-elections.html">Democrats Say They Are Serious About State Elections. But Are They Too Late?</a> NYT: State-level races are becoming a central focus of American politics as the lasting effects of new congressional maps and election laws raise the stakes. 
  <p class="updated_time"> 03:41 PM CT, Dec. 24 </p> 
