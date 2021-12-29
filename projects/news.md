@@ -7,10 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:25 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Lowers Estimate of Omicron’s Prevalence in U.S.</a> NYT: The estimate dropped from about 73 percent to 23 percent for the week ending Dec. 18, and the agency now says Omicron became dominant the following week. A doctors’ protest over understaffing is causing chaos at Delhi hospitals. 
+ <p class="updated_time"> 06:24 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/quebec-health-workers-positive-covid.html">Some Infected Quebec Health Care Workers can Continue Working</a> NYT: All essential workers in the province, including those who work in medicine, will be subject to the new rules. 
+ <p class="updated_time"> 06:15 PM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59571637?at_medium=RSS&at_campaign=KARANGA">Music preview 2022: The biggest releases, tours and films</a> BBC: What will Britney do now she's free of her conservatorship, and who's releasing new music in 2022? 
+ <p class="updated_time"> 06:12 PM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59553852?at_medium=RSS&at_campaign=KARANGA">The mystery of the home where the Queen was born</a> BBC: Where was the original site of the house where the Queen was born? And was it bombed in the war? 
+ <p class="updated_time"> 06:09 PM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59701735?at_medium=RSS&at_campaign=KARANGA">Why Mauritius is losing its seashells</a> BBC: The beaches of the Indian Ocean island seem bereft of the beautiful shells popular with tourists. 
+ <p class="updated_time"> 06:05 PM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59762809?at_medium=RSS&at_campaign=KARANGA">Fighting to learn in Venezuela</a> BBC: Despite the country's continuing economic crisis, both pupils and teachers are determined to continue with schooling. 
+ <p class="updated_time"> 05:55 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
  <p class="updated_time"> 05:50 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59810713?at_medium=RSS&at_campaign=KARANGA">Covid: Europe sees record virus case rise</a> BBC: Italy, Greece and Portugal all also announced their highest daily case totals on Tuesday. 
- <p class="updated_time"> 05:47 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Lowers Estimate of Omicron’s Prevalence in U.S.</a> NYT: The estimate dropped from about 73 percent to 23 percent for the week ending Dec. 18, and the agency now says Omicron became dominant the following week. A doctors’ protest over understaffing is causing chaos at Delhi hospitals. 
  <p class="updated_time"> 05:45 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/russia-memorial-human-rights.html">Russian Court Orders Liquidation of the Human Rights Group Memorial </a> NYT: The Supreme Court ruled that Memorial International, which chronicled political repression in Russia, must be liquidated. 
  <p class="updated_time"> 05:16 PM CT, Dec. 28 </p> 
@@ -75,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/china-scholar-jonathan-spence-dies-at-85-11640697976">China Scholar Jonathan Spence Dies at Age 85</a> WSJ: The Yale University historian brought China and its past alive to a broad audience through widely read books and popular lectures. 
  <p class="updated_time"> 07:55 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/russian-court-orders-countrys-oldest-human-rights-group-to-close-11640714322">Russian Court Orders Prominent Human Rights Group to Close</a> WSJ: The ruling against International Memorial comes as President Vladimir Putin squeezes space for dissent. 
- <p class="updated_time"> 07:40 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59809821?at_medium=RSS&at_campaign=KARANGA">South Africa court blocks Shell's oil exploration</a> BBC: Environmentalists hail the ruling as a victory in their efforts to protect marine life. 
  <p class="updated_time"> 07:14 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1067207363/2021-top-stories-international-npr-correspondents-recommend">These are the top stories NPR's correspondents around the world recommend from 2021</a> NPR: We asked the network's international journalists to pick one story from the year you should check out. Here are their selections. 
  <p class="updated_time"> 06:13 AM CT, Dec. 28 </p> 
@@ -147,14 +157,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/college-football-bowl-games-covid.html">Two College Bowl Games Are Canceled Because of Covid Cases</a> NYT: The Fenway and Military Bowls were scrapped when teams didn’t have enough healthy players to take the field. One team pulled out of the Sun Bowl. 
  <p class="updated_time"> 03:48 AM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59801025?at_medium=RSS&at_campaign=KARANGA">Brazilian town floods after two dams collapse</a> BBC: People in the town of Itabuna can be seen using inflatable rafts and canoes to get from house to house. 
- <p class="updated_time"> 10:30 PM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
  <p class="updated_time"> 07:56 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/asia/myanmar-army-killings.html">Myanmar’s Army Is Accused of Massacring Dozens of Civilians</a> NYT: At least 35 people were killed and their bodies burned, according to an international aid group and opponents of the military regime. 
- <p class="updated_time"> 06:06 PM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59748260?at_medium=RSS&at_campaign=KARANGA">'I'm Jewish and black - where do I fit in?'</a> BBC: Black and Jewish journalist Nadine Batchelor-Hunt travels to Israel to meet the Ethiopian community and explore this dual identity. 
- <p class="updated_time"> 06:00 PM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-51908404?at_medium=RSS&at_campaign=KARANGA">Covid-19: India's unwinnable battle against spitting</a> BBC: The pandemic briefly renewed efforts to curb an infamous Indian habit - spitting in public. 
  <p class="updated_time"> 04:01 PM CT, Dec. 26 </p> 
  <a href="https://www.npr.org/2021/12/26/1068160191/remembering-the-legacy-of-archbishop-desmond-tutu">Remembering the legacy of Archbishop Desmond Tutu</a> NPR: Journalist Kate Bartlett speaks with Elissa Nadworny about what Desmond Tutu meant to the people of South Africa and the fight for social justice more broadly. 
  <p class="updated_time"> 03:58 PM CT, Dec. 26 </p> 
@@ -173,14 +177,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/1068101250/save-the-children-staff-myanmar">Save the Children says 2 staffers are missing after a massacre in Myanmar</a> NPR: A massacre in Myanmar that left more than 30 people, including women and children, dead and burned in their vehicles after they were reportedly shot by government troops as they were fleeing combat. 
  <p class="updated_time"> 10:30 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/europe/afghans-netherlands-migrants.html">After Chaotic Evacuation, Afghans in the Netherlands Struggle to Find Stability</a> NYT: Many Afghans evacuated to the Netherlands have been living in tents for months, as they prepare to resettle in a Europe that is wrangling with a heated debate about immigration. 
- <p class="updated_time"> 09:57 AM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59796716?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu death: South Africans remember anti-apartheid leader</a> BBC: The archbishop, who was a driving force in the anti-apartheid movement, has died aged 90. 
  <p class="updated_time"> 09:06 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/europe/alfredo-lupi-janitor-italy.html">A Janitor’s Colleagues Put Him on the Fast Track to Retirement</a> NYT: An Italian factory worker was dealing with a lifelong impairment that made it hard to work, but he wasn’t in a position to retire. Then his co-workers gave him 20 months’ worth of vacation days. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/insider/in-congo-bolivia-and-beyond-where-the-green-future-begins.html">In Congo, Bolivia and Beyond, Where the Green Future Begins</a> NYT: The Times’s Race to the Future series is focused on the competition for electric-car resources that will shape the 21st century. 
- <p class="updated_time"> 01:28 AM CT, Dec. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59793776?at_medium=RSS&at_campaign=KARANGA">Archbishop Desmond Tutu: Looking back at his life and legacy</a> BBC: The BBC's Nomsa Maseko looks back at the life of Archbishop Desmond Tutu, who has died aged 90. 
  <p class="updated_time"> 05:28 PM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/world/americas/el-salvador-abortion-bukele.html">El Salvador Releases 3 Women Serving Long Prison Sentences for Abortions</a> NYT: The three women, who had suffered obstetric emergencies, had been sentenced to 30 years in prison under the nation’s strict anti-abortion laws. 
  <p class="updated_time"> 04:36 PM CT, Dec. 25 </p> 
@@ -200,10 +200,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:53 PM CT, Dec. 28 </p> 
+ <a href="https://www.politico.com/news/2021/12/28/michigan-redistricting-congressional-map-526227">Michigan’s new congressional map: 3 battlegrounds, 1 Dem-vs.-Dem primary</a> Politico: Virginia also completed congressional redistricting on Tuesday. 
+ <p class="updated_time"> 06:08 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/proud-boys-first-amendment/index.html">Judge rejects Proud Boys' First Amendment claims in January 6 conspiracy case</a> CNN: A federal judge is allowing a major January 6 conspiracy case against four Proud Boys leaders to move forward, rejecting their bid to throw out the charges. 
+ <p class="updated_time"> 05:44 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/biden-covid-testing-shortage/index.html">Biden is dogged by a testing shortage he had vowed to fix</a> CNN: President Joe Biden is closing out his first year in office facing one of the same problems he entered the White House vowing to fix: a persistent shortage of Covid-19 testing that, if resolved, could provide a way out of the still-raging pandemic. 
  <p class="updated_time"> 05:38 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/us-new-daily-high-covid-526223">U.S. sets new daily high for Covid cases</a> Politico: The Centers for Disease Control and Prevention’s tally represents a grim new milestone in the coronavirus pandemic. 
  <p class="updated_time"> 05:37 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/business/media/nyt-project-veritas.html">Judge Says New York Times Can Retain Project Veritas Memos, for Now</a> NYT: A New York appeals court said the paper did not need to immediately give up or destroy documents related to the conservative group. The paper is still prevented from publishing certain documents. 
+ <p class="updated_time"> 05:32 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/january-6-committee-trump-documents/index.html">January 6 panel stands down on request for some Trump documents after pushback from Biden administration</a> CNN: The House select committee investigating January 6 has stood down on its requests for some documents from the Trump White House, after the Biden administration convinced the panel to scale back its pursuits. 
  <p class="updated_time"> 05:14 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/andrew-cuomo-westchester-county-no-charges/index.html">Ex-New York Gov. Cuomo will not be criminally charged by Westchester County district attorney over alleged inappropriate conduct</a> CNN: Westchester District Attorney Miriam Rocah announced on Tuesday her office will not criminally charge former New York Gov. Andrew Cuomo after a "thorough" investigation into allegations of inappropriate conduct made by two women against him. 
  <p class="updated_time"> 05:05 PM CT, Dec. 28 </p> 
@@ -234,16 +242,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/28/politics/us-russia-security-talks/index.html">US and Russia to talk Ukraine and security issues next month</a> CNN: US and Russian officials have agreed to sit down for security talks on January 10, a spokesman for the National Security Council confirmed Tuesday. 
  <p class="updated_time"> 12:12 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/biden-revokes-southern-africa-travel-ban/index.html">Biden issues proclamation revoking southern Africa travel restrictions</a> CNN: President Joe Biden issued a presidential proclamation Tuesday revoking a proclamation put in place last month that enacted travel restrictions on eight southern African nations, including South Africa, as the Omicron variant began to spread. 
- <p class="updated_time"> 12:10 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/proud-boys-first-amendment/index.html">Judge rejects Proud Boys' First Amendment claims in January 6 conspiracy case</a> CNN: A federal judge is allowing a major January 6 conspiracy case against four Proud Boys leaders to move forward, rejecting their bid to throw out the charges. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/28/bunny-mellons-millions-at-play-in-dc-divorce-495554"> Bunny Mellon’s millions at play in D.C. divorce</a> Politico Playbook: And the CDC Monday shortened the isolation period for people who test positive for Covid-19 and are asymptomatic 
  <p class="updated_time"> 09:03 AM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/the-year-supreme-court-conservatives-made-their-mark/index.html">The year Supreme Court conservatives made their mark  </a> CNN: Over the last year, the Supreme Court's newly solidified conservative majority has made clear that it is willing to forgo a deliberate pace of justice in favor of a race to the right, leaving behind the liberal justices and at times Republican-appointed Chief Justice John Roberts. 
  <p class="updated_time"> 08:58 AM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/january-6-committee-interim-report-summer-2022/index.html">January 6 committee eyes interim report by summer 2022</a> CNN: The House select committee investigating the January 6 Capitol Hill riot is working toward a goal of releasing an interim report with initial findings by the summer, a committee aide told CNN, and that a final report would follow in fall 2022. 
- <p class="updated_time"> 04:30 AM CT, Dec. 28 </p> 
- <a href="https://www.politico.com/news/2021/12/28/climate-disaster-relief-farm-bill-democrats-526183">The latest tug-of-war: Billions in farm subsidies and rural aid</a> Politico: The next farm bill may be Democrats’ best chance to scale up funding for agriculture programs that fight climate change. But time isn’t on their side. 
  <p class="updated_time"> 04:02 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1067460165/colorados-first-lawmaker-to-use-a-wheelchair-will-finally-get-to-wield-the-gavel">Colorado's first lawmaker to use a wheelchair will finally get to wield the gavel</a> NPR: State Rep. David Ortiz was paralyzed from the waist down while serving in Afghanistan. To give him access to the House podium, legislative staff say they have built the first lift of its kind. 
  <p class="updated_time"> 04:00 AM CT, Dec. 28 </p> 
@@ -288,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/27/1068201313/stacey-abrams-discusses-running-again-for-ga-governor-and-her-new-childrens-book">Stacey Abrams discusses running again for Ga. governor and her new children's book</a> NPR: NPR's Rachel Martin talks to Stacey Abrams about her second bid to be Georgia's governor, and the lessons about drawing strength from failure in her new children's book: Stacey's Extraordinary Words. 
  <p class="updated_time"> 02:17 AM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068197354/racial-reckoning-turns-focus-to-roadside-historical-markers">Racial reckoning turns focus to roadside historical markers</a> NPR: Pennsylvania is reviewing its 2,500 roadside markers, scrutinizing factual errors, inadequate historical context, and racist or otherwise inappropriate references. 
- <p class="updated_time"> 11:39 PM CT, Dec. 26 </p> 
- <a href="https://www.cnn.com/2021/12/27/politics/donald-trump-january-6-committee/index.html">Analysis: Trump and the January 6 committee are now locked in a full-on confrontation</a> CNN: Nearly a year after his failed coup attempt, Donald Trump's habit of putting his own political gain over truth is playing out again as the ex-commander-in-chief and his associates seek to delay and defy the House select committee probing the January 6 insurrection. 
  <p class="updated_time"> 06:10 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/us/politics/dr-oz-medical-advice.html">‘Magic’ Weight-Loss Pills and Covid Cures: Dr. Oz Under the Microscope</a> NYT: The celebrity physician, a candidate in Pennsylvania’s Republican primary for Senate, has a long history of dispensing dubious medical advice on his daytime show and on Fox News. 
  <p class="updated_time"> 11:56 AM CT, Dec. 26 </p> 
@@ -338,6 +340,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/24/tis-the-season-of-year-end-lists-495550"> ’Tis the season of year-end lists</a> Politico Playbook: And the U.S. lifts travel restrictions on southern Africa. 
  <p class="updated_time"> 08:49 AM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/bernard-kerik-january-6-committee/index.html">Giuliani associate Bernard Kerik plans to publicly release some documents requested by January 6 committee</a> CNN: Former New York City Police Commissioner Bernard Kerik says he is planning to publicly release some documents requested by the House select committee investigating January 6. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
+ <a href="https://www.politico.com/news/2021/12/24/maryland-governor-democrats-526119">Dems face off in Maryland primary — in an ‘incredibly Republican year’</a> Politico: Looming over the gubernatorial primary is a political environment likely benefiting Republicans — amplified by the GOP’s victory in neighboring Virginia last month. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-rural-evictions-526089">Biden’s about to adopt a policy that could hurt Dems even more with rural voters</a> Politico: About half of the $46.5 billion in federal rental aid made available during the pandemic is expected to be spent by the end of this year. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
