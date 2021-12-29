@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:17 AM CT, Dec. 29 </p> 
+ <a href="https://www.politico.com/news/2021/12/29/cdc-defends-new-covid-guidelines-526234">CDC defends new Covid isolation guidelines</a> Politico: Director Rochelle Walensky acknowledged that the decision to shorten the quarantine period “really had a lot to do with what we thought people would be able to tolerate.” 
  <p class="updated_time"> 07:06 AM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/january-6-portland-unrest-compare-judges/index.html">Two Trump-appointed judges reject comparisons between January 6 and Portland political unrest</a> CNN: Two Trump-appointed federal judges have rejected claims from January 6 defendants that they're being treated unfairly, because of their conservative politics, compared with left-leaning rioters in Portland, Oregon, in the summer of 2020. 
  <p class="updated_time"> 06:06 AM CT, Dec. 29 </p> 
@@ -300,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/27/fauci-domestic-flight-vaccine-mandate-526194">Fauci: ‘I don’t think people should expect’ a domestic flight vaccine mandate</a> Politico: “It’s on the table,” he added. “But that doesn’t mean it’s going to happen. I doubt if we’re going to see something like that in the reasonably foreseeable future.” 
  <p class="updated_time"> 05:25 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/sarah-weddington-dead.html">Sarah Weddington, Who Successfully Argued Roe v. Wade, Dies at 76</a> NYT: She went before the U.S. Supreme Court at 26 with almost no legal experience and won one of the most consequential cases in American history. 
- <p class="updated_time"> 04:42 PM CT, Dec. 27 </p> 
- <a href="https://www.politico.com/news/2021/12/27/cdc-cut-quarantine-covid-omicron-526187">CDC cuts recommended quarantine time amid Omicron surge</a> Politico: The reduction follows the CDC’s move last week to shorten its isolation period for infected health care workers, assuming they are asymptomatic and later test negative. 
  <p class="updated_time"> 04:20 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/biden-defense-bill.html">President Biden Signs $770 Billion Defense Bill</a> NYT: The National Defense Authorization Act passed Congress with bipartisan support, over the opposition of liberals pushing for more social spending. 
  <p class="updated_time"> 03:51 PM CT, Dec. 27 </p> 
@@ -348,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/25/the-manchin-dance-continues-on-christmas-495551"> The Manchin dance continues on Christmas</a> Politico Playbook: And a judge continues prior restraint on the NYT. 
  <p class="updated_time"> 07:00 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/biden-puerto-rico-electricity-network-526102">Puerto Rico’s shattered power grid could become a ‘big experiment’ for Biden</a> Politico: The crumbling electricity network that serves the island's 3 million people is at the center of a debate on renewable energy vs. fossil fuels — with billions of federal dollars at stake. 
- <p class="updated_time"> 08:55 PM CT, Dec. 24 </p> 
- <a href="https://www.politico.com/news/2021/12/24/trump-spokesperson-sues-jan-6-committee-financial-records-526139">Trump spokesperson sues Jan. 6 committee over financial records</a> Politico: Taylor Budowich is trying to block disclosure of information from J.P. Morgan Chase Bank. 
  <p class="updated_time"> 06:10 PM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/project-veritas-new-york-times-526137">Judge blocks New York Times on Project Veritas coverage</a> Politico: The Times was also ordered to return or delete relevant documents. 
  <p class="updated_time"> 05:08 PM CT, Dec. 24 </p> 
