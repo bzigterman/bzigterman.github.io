@@ -7,8 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:06 PM CT, Dec. 29 </p> 
+ <p class="updated_time"> 03:22 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59823682?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Religious and political leaders pay tribute in Cape Town</a> BBC: Politicians and leaders of different faiths gathered in Cape Town to remember the anti-apartheid leader. 
+ <p class="updated_time"> 03:20 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59818978?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden and Putin phone call seeks 'diplomatic path'</a> BBC: The presidents of the US and Russia will speak again in a bid to de-escalate tensions over Ukraine. 
+ <p class="updated_time"> 03:18 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City Struggles to Keep Running Under Omicron</a> NYT: Average global cases reach a new high, and many Europeans are scrambling for tests. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
+ <p class="updated_time"> 03:17 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/eric-adams-new-years-eve-times-square.html">Eric Adams to Be Sworn In on New Year's Eve in Times Square</a> NYT: The incoming mayor has made a point of reveling in New York’s nightlife, something that he has cast as boosterism for the city’s struggling club and restaurant scene. 
+ <p class="updated_time"> 03:12 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/europe/europe-omicron-records-coronavirus-covid-19.html">Spurred by Omicron, Europe Is Setting Coronavirus Infection Records Every Day</a> NYT: The surge of cases is causing chaos as people scramble to obtain tests, businesses grapple with staff shortages and New Year’s festivities are thrown into question. 
  <p class="updated_time"> 02:39 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/americas/brazil-floods-climate-change.html">Brazil Flooding Kills at Least 20 and Displaces Thousands</a> NYT: In northeast Brazil, local officials say they have never before seen flooding on this scale. Tens of thousands were forced to flee their homes. 
  <p class="updated_time"> 02:27 PM CT, Dec. 29 </p> 
@@ -33,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59821159?at_medium=RSS&at_campaign=KARANGA">Malawians mourn ex-First Lady Anne Chidzira Muluzi</a> BBC: Tributes are paid to Anne Chidzira Muluzi, the first woman to hold the title there, who died aged 69. 
  <p class="updated_time"> 12:00 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59816567?at_medium=RSS&at_campaign=KARANGA">Valentina Orellana-Peralta: Teen shot by police in LA dies in mother's arms</a> BBC: A girl from Chile killed by a stray bullet once said the US was the safest country in the world. 
- <p class="updated_time"> 12:00 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/europe/europe-omicron-records-coronavirus-covid-19.html">Spurred by Omicron, Europe Is Setting Coronavirus Infection Records Every Day</a> NYT: The surge of cases is causing chaos as people scramble to obtain tests, businesses grapple with staff shortages and New Year’s festivities are thrown into question. 
  <p class="updated_time"> 11:51 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/arts/design/smithsonian-museums-close-covid.html">Four Smithsonian Museums Close Amid Omicron Staff Shortages</a> NYT: The museums, which are smaller ones, will be closed through Sunday as the Smithsonian routes staff to more-visited outposts. 
  <p class="updated_time"> 11:30 AM CT, Dec. 29 </p> 
@@ -59,16 +65,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59818881?at_medium=RSS&at_campaign=KARANGA">Citroën Egypt advert accused of normalising sexual harassment</a> BBC: The French carmaker features a pop star taking a photo of a woman apparently without her consent. 
  <p class="updated_time"> 08:05 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59816052?at_medium=RSS&at_campaign=KARANGA">Sabine Weiss: Legend of street photography dies at 97</a> BBC: Famed for her images of Paris street life, she was the last member of the French humanist group. 
- <p class="updated_time"> 07:58 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59809822?at_medium=RSS&at_campaign=KARANGA">Ugandan author of The Greedy Barbarian detained - lawyer</a> BBC: Prize-winning Ugandan novelist Kakwenza Rukirabashaija called the president's son "obese" on Twitter. 
  <p class="updated_time"> 07:14 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59815856?at_medium=RSS&at_campaign=KARANGA">Hong Kong's Stand News independent website shuts down after raid</a> BBC: Stand News has stopped operating following the arrest of seven people with links to the outlet. 
  <p class="updated_time"> 07:12 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Roots for Its Patron Saint of Basketball</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
  <p class="updated_time"> 04:05 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Independent outlet to close after senior staff arrested</a> BBC: Seven people linked to Stand News are arrested for "conspiracy to publish a seditious publication". 
- <p class="updated_time"> 04:01 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59808557?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo statue divides opinion in India</a> BBC: The statue of the Portuguese football star is unveiled in Goa state, a former Portuguese colony. 
  <p class="updated_time"> 02:30 AM CT, Dec. 29 </p> 
  <a href="https://www.wsj.com/articles/covid-19-pandemic-gives-new-hope-to-one-of-the-worlds-fastest-shrinking-countries-11640784601">Pandemic Gives New Hope to One of the World's Fastest-Shrinking Countries</a> WSJ: Covid-19 pushed many to return to Eastern European countries, such as Bulgaria, that had seen punishing declines in population. But the challenge is to keep them from leaving again. 
  <p class="updated_time"> 02:00 AM CT, Dec. 29 </p> 
@@ -153,12 +155,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/africa/desmond-tutu-mourning.html">South Africa Begins a Week of Mourning for Desmond Tutu</a> NYT: The cleric and anti-apartheid activist’s funeral will be held on Jan. 1 at the cathedral where he served as South Africa’s first Black archbishop. 
  <p class="updated_time"> 09:22 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/health/omicron-cdc.html">As Omicron Cases Surge, CDC Shortens Isolation Times for Many Americans</a> NYT: Hoping to prevent further disruptions to daily life, the C.D.C. reduced the period that certain infected Americans must sequester. 
- <p class="updated_time"> 08:23 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/australia/australia-lab-negative-covid-tests-mistake.html">Australia Covid Lab Mistakenly Tells Hundreds They Tested Negative</a> NYT: Human error was to blame for the mix-up amid a high demand for Covid testing, a clinic in Sydney said. 
  <p class="updated_time"> 07:28 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
- <p class="updated_time"> 06:59 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/travel/world-through-a-lens.html">Helping to Reveal a Still-Shuttered World</a> NYT: Our weekly photo essay series offered readers a glimpse of distant places and cultures that, for a second straight year, remained largely inaccessible. 
  <p class="updated_time"> 06:19 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/asia/south-korea-pfizer-coronavirus-pill.html">South Korea approves Pfizer’s coronavirus pill for emergency use.</a> NYT: It is the first pill approved in the nation to treat symptoms of the coronavirus. 
  <p class="updated_time"> 06:13 PM CT, Dec. 27 </p> 
@@ -171,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59571711?at_medium=RSS&at_campaign=KARANGA">Crocodiles turn on humans amid Iran water crisis</a> BBC: The creatures are attacking as their habitats shrink, a grim side-effect of Iran's water shortages. 
  <p class="updated_time"> 06:04 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59733533?at_medium=RSS&at_campaign=KARANGA">‘The doctors came and I had to tell my father he was dying’</a> BBC: Is it always appropriate for relatives to interpret for deaf loved ones? 
- <p class="updated_time"> 06:01 PM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59761535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Children in Kabul working for a piece of bread</a> BBC: More and more Afghan children are having to work to support their families, amidst an economic collapse. 
  <p class="updated_time"> 03:53 PM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/27/1068298117/-17-trillion-thats-how-much-the-pandemic-could-take-away-from-todays-kids">$17 trillion: That's how much the pandemic could take away from today's kids</a> NPR: A new report from UNESCO estimates the potential lifetime earnings lost to the world's children due to school closings. But there are ways to prevent this from happening. 
  <p class="updated_time"> 03:46 PM CT, Dec. 27 </p> 
@@ -194,6 +190,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:09 PM CT, Dec. 29 </p> 
+ <a href="https://www.politico.com/news/2021/12/29/republicans-luring-john-james-house-526250">National Republicans luring John James into House race</a> Politico: Republicans anticipate James, one of their most coveted 2022 recruits, will run for Congress next year after Michigan's new district map was finalized. 
+ <p class="updated_time"> 03:24 PM CT, Dec. 29 </p> 
+ <a href="https://www.npr.org/2021/12/29/1068895426/what-public-health-experts-say-about-the-about-the-cdcs-new-quarantine-guideline">What public health experts say about the about the CDC's new quarantine guidelines</a> NPR: Many public health experts are pushing for stronger measures than the Biden administration and governors are willing to take to reduce impacts from the growing omicron wave. Why the disconnect? 
  <p class="updated_time"> 03:01 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/biden-putin-call/index.html">Biden to speak with Putin on Thursday at Russian leader's request</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Thursday afternoon "to discuss a range of topics, including upcoming diplomatic engagements with Russia," National Security Council spokesperson Emily Horne told CNN. 
  <p class="updated_time"> 02:22 PM CT, Dec. 29 </p> 
@@ -284,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/28/politics/spirit-airlines-unruly-passenger/index.html">Tennessee woman charged after alleged assault and running to cabin door on Spirit flight</a> CNN: A Tennessee woman turned herself into the FBI on Tuesday after she was accused of assaulting two flight attendants during a Spirit Airlines flight last month, the Justice Department announced. 
  <p class="updated_time"> 12:59 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/flight-attendants-cdc-airline-quarantine-change-526213">Flight attendants fume as CDC gives airlines what they want on quarantine change</a> Politico: Just days before the CDC announced the change, the airline industry united to press for a shortened quarantine timeframe. 
- <p class="updated_time"> 12:52 PM CT, Dec. 28 </p> 
- <a href="https://www.politico.com/news/2021/12/28/trump-organization-pga-settlement-526207">Trump Organization and PGA reach settlement over 2022 championship dispute</a> Politico: No details were released, but the tournament still won’t be held at Bedminster as a result of the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:48 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/cdc-drops-omicron-prevalence-estimate-526210">CDC sharply drops estimate of Omicron prevalence in U.S.</a> Politico: The agency said the disparity was due to the rate with which the highly transmissible Omicron spread. 
  <p class="updated_time"> 12:12 PM CT, Dec. 28 </p> 
@@ -330,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/us/politics/dr-oz-medical-advice.html">‘Magic’ Weight-Loss Pills and Covid Cures: Dr. Oz Under the Microscope</a> NYT: The celebrity physician, a candidate in Pennsylvania’s Republican primary for Senate, has a long history of dispensing dubious medical advice on his daytime show and on Fox News. 
  <p class="updated_time"> 11:56 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/cardin-senate-build-back-better-526154">Maryland senator sees possible comeback for Build Back Better</a> Politico: “There is unanimity in our caucus that we want to get a bill to the president,” Ben Cardin said. 
- <p class="updated_time"> 11:13 AM CT, Dec. 26 </p> 
- <a href="https://www.npr.org/2021/12/26/1068103241/fema-wants-to-give-families-up-to-9-000-for-covid-funerals-but-many-dont-apply">FEMA wants to give families up to $9,000 for COVID funerals, but many don't apply</a> NPR: A federal program reimburses families up to $9,000 for funeral costs for loved ones who died of COVID-19. But many eligible families have not applied for assistance. 
  <p class="updated_time"> 10:56 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/dingell-upton-michigan-toxic-congress-526152">Michigan lawmakers look to a less-toxic future in Congress</a> Politico: Debbie Dingell and Fred Upton both cited Bob Dole as a positive Washington role model. 
  <p class="updated_time"> 10:42 AM CT, Dec. 26 </p> 
@@ -384,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/23/trump-spurs-rise-in-celebrity-candidates-525865">Senate GOP feels another Trump effect: The rise of celeb candidates</a> Politico: House experience isn't necessarily the best way to get traction across the Capitol anymore — as Herschel Walker and Mehmet Oz are proving. 
  <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/joe-biden-tiktok-jonas-brothers-526019">Joe Biden was not made for the age of TikTok. But his team is trying.</a> Politico: The White House is producing videos that they know will get mocked on political Twitter. They don’t care. They have other plans. 
- <p class="updated_time"> 03:15 PM CT, Dec. 22 </p> 
- <a href="https://www.cnn.com/2021/12/22/politics/antiviral-pill-biden-statement/index.html">250,000 treatment courses of Pfizer's antiviral pill will be available in January, Biden says</a> CNN: President Joe Biden on Wednesday pledged more than 250,000 treatment courses of Pfizer's antiviral pill will be available starting in January after the US Food and Drug Administration authorized it to treat Covid-19. 
 
 
 </details>
