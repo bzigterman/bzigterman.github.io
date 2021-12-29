@@ -7,20 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:54 AM CT, Dec. 29 </p> 
+ <p class="updated_time"> 06:27 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Case Records Are Shattered as Delta and Omicron Converge</a> NYT: Hospitalizations and deaths are also rising, but remain far below earlier peaks. The Washington, Maryland and Virginia region is a focal point of the Omicron outbreak. 
- <p class="updated_time"> 05:10 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">Russian Court Orders 2nd Ban of a Major Human Rights Group in 2 Days</a> NYT: Critics of the government said the rulings capped a year of erosion of civil rights and media freedoms in the country. 
- <p class="updated_time"> 04:43 AM CT, Dec. 29 </p> 
+ <p class="updated_time"> 06:11 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
+ <p class="updated_time"> 06:01 AM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59814661?at_medium=RSS&at_campaign=KARANGA">Covid: US reports record infections as Europe's Omicron cases also soar</a> BBC: Several nations see their biggest surge in daily infections as the WHO warns of Omicron's "very high" risk. 
+ <p class="updated_time"> 06:01 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">Russian Court Orders 2nd Ban of a Major Human Rights Group in 2 Days</a> NYT: Critics of the government said the rulings capped a year of erosion of civil rights and media freedoms in the country. 
+ <p class="updated_time"> 04:28 AM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59816079?at_medium=RSS&at_campaign=KARANGA">Djokovic withdraws amid unclear vaccine status</a> BBC: World number one Novak Djokovic withdraws from Serbia's ATP Cup team in Sydney amid uncertainty over his participation at the Australian Open. 
  <p class="updated_time"> 04:25 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59816567?at_medium=RSS&at_campaign=KARANGA">Valentina Orellana-Peralta: US teen shot dead by police 'died in mother's arms'</a> BBC: The parents of a 14-year-old girl killed by a stray police bullet while shopping demand justice. 
  <p class="updated_time"> 04:05 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Independent outlet to close after senior staff arrested</a> BBC: Seven people linked to Stand News are arrested for "conspiracy to publish a seditious publication". 
  <p class="updated_time"> 04:01 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808557?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo statue divides opinion in India</a> BBC: The statue of the Portuguese football star is unveiled in Goa state, a former Portuguese colony. 
- <p class="updated_time"> 02:04 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-59814661?at_medium=RSS&at_campaign=KARANGA">Covid: US reports record infections as Europe's Omicron cases also soar</a> BBC: Several nations see their biggest surge in daily infections as the WHO warns of Omicron's "very high" risk. 
  <p class="updated_time"> 01:35 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59814542?at_medium=RSS&at_campaign=KARANGA">John Madden: NFL coach, broadcaster and video game icon dies at 85</a> BBC: John Madden, legendary American Football coach, broadcaster and face of Madden NFL Football has died. 
  <p class="updated_time"> 12:54 AM CT, Dec. 29 </p> 
@@ -192,6 +194,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:06 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/agenda/2021/12/29/teachers-districts-hybrid-education-526214">‘I Feel Half as Successful’: Teachers and Districts at War Over Hybrid Education</a> Politico: Teachers want to ban teaching students in person and online at the same time. Some education leaders say it should be what the future looks like. 
+ <p class="updated_time"> 06:00 AM CT, Dec. 29 </p> 
+ <a href="https://www.cnn.com/2021/12/29/politics/supreme-court-vaccine-mandates-federal-biden/index.html">The Supreme Court has upheld state and local vaccine mandates. That may not save Biden's.</a> CNN: A Supreme Court that has declined to block several types of vaccine mandates is now considering whether to allow the Biden administration to require millions of Americans to get Covid-19 vaccines. 
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/republicans-education-wars-school-board-races-526053">Republicans eye new front in education wars: Making school board races partisan</a> Politico: “We’re out there trying to elect good conservatives," says one Florida lawmaker. 
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
@@ -342,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/us/elections/democrats-state-elections.html">Democrats Say They Are Serious About State Elections. But Are They Too Late?</a> NYT: State-level races are becoming a central focus of American politics as the lasting effects of new congressional maps and election laws raise the stakes. 
  <p class="updated_time"> 03:41 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/us/politics/covid-school-reopening-teen-mental-health.html">The Students Returned, but the Fallout From a Long Disruption Remained</a> NYT: “They’re like, ‘The world’s out of control, why should I be in control?’” the principal of Liberty High School in Bethlehem, Pa., said of some of his struggling students. 
- <p class="updated_time"> 12:21 PM CT, Dec. 24 </p> 
- <a href="https://www.cnn.com/2021/12/24/politics/january-6-video-capitol-hill-riot/index.html">New January 6 video shows three hours of violent and chaotic assault on police </a> CNN: The Justice Department this week released a three-hour video of a battle between rioters and the police at the US Capitol Building on January 6 where rioters brandished weapons, officers were viciously beaten, and a member of the mob died on Capitol steps. 
  <p class="updated_time"> 10:36 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-lifts-africa-travel-ban-526133">Biden administration to lift travel ban from south African countries Dec. 31</a> Politico: Administration officials at the time said the ban would buy time for health officials to learn more about the Omicron variant. 
  <p class="updated_time"> 09:17 AM CT, Dec. 24 </p> 
@@ -386,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/22/politics/antiviral-pill-biden-statement/index.html">250,000 treatment courses of Pfizer's antiviral pill will be available in January, Biden says</a> CNN: President Joe Biden on Wednesday pledged more than 250,000 treatment courses of Pfizer's antiviral pill will be available starting in January after the US Food and Drug Administration authorized it to treat Covid-19. 
  <p class="updated_time"> 07:01 AM CT, Dec. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/22/dems-family-meeting-with-manchin-495537">Dems' family meeting with Manchin</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:12 AM CT, Dec. 22 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/22/schumer-and-manchin-face-off-on-zoom-495536"> Schumer and Manchin face off on Zoom</a> Politico Playbook: And Biden tries to tackle Omicron. 
 
 
 </details>
