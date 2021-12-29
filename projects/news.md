@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:49 AM CT, Dec. 29 </p> 
+ <p class="updated_time"> 08:53 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
+ <p class="updated_time"> 08:51 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
  <p class="updated_time"> 08:48 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/myanmar-coup-refugees.html">Stay or Go? For Myanmar’s Latest Wave of Refugees, There’s No Good Choice</a> NYT: Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire. 
  <p class="updated_time"> 08:41 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">Russian Court Orders 2nd Ban of a Major Human Rights Group in 2 Days</a> NYT: Critics of the government said the rulings capped a year of erosion of civil rights and media freedoms in the country. 
+ <p class="updated_time"> 08:05 AM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59816052?at_medium=RSS&at_campaign=KARANGA">Sabine Weiss: Legend of street photography dies at 97</a> BBC: Famed for her images of Paris street life, she was the last member of the French humanist group. 
  <p class="updated_time"> 07:58 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59809822?at_medium=RSS&at_campaign=KARANGA">Ugandan author of The Greedy Barbarian detained - lawyer</a> BBC: Prize-winning Ugandan novelist Kakwenza Rukirabashaija called the president's son "obese" on Twitter. 
  <p class="updated_time"> 07:33 AM CT, Dec. 29 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59815856?at_medium=RSS&at_campaign=KARANGA">Hong Kong's Stand News independent website shuts down after raid</a> BBC: Stand News has stopped operating following the arrest of seven people with links to the outlet. 
  <p class="updated_time"> 07:12 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Roots for Its Patron Saint of Basketball</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
- <p class="updated_time"> 06:11 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
  <p class="updated_time"> 06:01 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59814661?at_medium=RSS&at_campaign=KARANGA">Covid: US reports record infections as Europe's Omicron cases also soar</a> BBC: Several nations see their biggest surge in daily infections as the WHO warns of Omicron's "very high" risk. 
  <p class="updated_time"> 04:28 AM CT, Dec. 29 </p> 
@@ -33,10 +35,18 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Independent outlet to close after senior staff arrested</a> BBC: Seven people linked to Stand News are arrested for "conspiracy to publish a seditious publication". 
  <p class="updated_time"> 04:01 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808557?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo statue divides opinion in India</a> BBC: The statue of the Portuguese football star is unveiled in Goa state, a former Portuguese colony. 
+ <p class="updated_time"> 02:30 AM CT, Dec. 29 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-pandemic-gives-new-hope-to-one-of-the-worlds-fastest-shrinking-countries-11640784601">Pandemic Gives New Hope to One of the World's Fastest-Shrinking Countries</a> WSJ: Covid-19 pushed many to return to Eastern European countries, such as Bulgaria, that had seen punishing declines in population. But the challenge is to keep them from leaving again. 
+ <p class="updated_time"> 02:07 AM CT, Dec. 29 </p> 
+ <a href="https://www.wsj.com/articles/with-omicron-case-rates-surging-policy-makers-focus-on-hospitalizations-instead-11640778907">With Omicron Case Rates Surging, Policy Makers Focus on Hospitalizations Instead</a> WSJ: Despite rocketing Covid-19 infections in many countries, hospitalization levels remain relatively low—a pattern that health experts have attributed to high vaccination rates and the apparently milder disease caused by the Omicron variant. 
  <p class="updated_time"> 02:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/business/uk-companies-brexit-trade.html">For U.K. Companies Brexit Meant Higher Costs and Endless Forms</a> NYT: While the worst of the Brexit trade disruptions are over, British exports to the European Union are down and companies are frustrated. 
+ <p class="updated_time"> 02:00 AM CT, Dec. 29 </p> 
+ <a href="https://www.wsj.com/articles/battle-at-printing-press-maker-shows-difficulty-of-japan-takeovers-11640782803">Battle at Printing-Press Maker Shows Difficulty of Japan Takeovers</a> WSJ: A recent case in which management used a poison pill to stop an aggressive share buyer—with the Supreme Court’s endorsement—shows why newcomers have a tough time unlocking Tokyo’s opportunities. 
  <p class="updated_time"> 01:35 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59814542?at_medium=RSS&at_campaign=KARANGA">John Madden: NFL coach, broadcaster and video game icon dies at 85</a> BBC: John Madden, legendary American Football coach, broadcaster and face of Madden NFL Football has died. 
+ <p class="updated_time"> 01:30 AM CT, Dec. 29 </p> 
+ <a href="https://www.wsj.com/articles/in-southeast-asia-politics-are-increasingly-a-family-affair-11640781002">In Southeast Asia, Politics Are a Family Affair</a> WSJ: Political dynasties are increasingly dominating governments in Southeast Asia, posing an obstacle to good governance in one of the world’s most economically vibrant regions. 
  <p class="updated_time"> 12:54 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068696336/hong-kong-police-raid-pro-democracy-news-outlet-arrest-6">Hong Kong pro-democracy news site closes after raid, arrests</a> NPR: A vocal pro-democracy website in Hong Kong shut down Wednesday after police raided its office and arrested six in a continuing crackdown on dissent. 
  <p class="updated_time"> 11:51 PM CT, Dec. 28 </p> 
@@ -49,6 +59,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/arts/hugh-jackman-covid-the-music-man.html">Hugh Jackman Announces He Has Covid-19</a> NYT: The show joins other productions that have been suspended, including the Temptations musical “Ain’t Too Proud,” which will close for good on Jan. 16. 
  <p class="updated_time"> 10:47 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/books/keri-hulme-dead.html">Keri Hulme, New Zealand’s First Booker Prize Winner, Dies at 74</a> NYT: The power Ms. Hulme drew from her Maori heritage shone through in her work, especially in “The Bone People,” which won the literary prize in 1985. 
+ <p class="updated_time"> 10:45 PM CT, Dec. 28 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-pro-democracy-site-stand-news-closes-after-arrests-raid-11640771127">Hong Kong Pro-Democracy Site Stand News Closes After Arrests, Raid</a> WSJ: National security police detained seven people linked to the popular news site, dealing a further blow to freedom of speech in a city once celebrated for its rambunctious journalism. 
  <p class="updated_time"> 09:51 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/quebec-health-workers-positive-covid.html">Some Infected Quebec Health Care Workers can Continue Working</a> NYT: All essential workers in the province, including those who work in medicine, will be subject to the new rules. 
  <p class="updated_time"> 08:36 PM CT, Dec. 28 </p> 
@@ -103,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59808624?at_medium=RSS&at_campaign=KARANGA">Russian court orders oldest civil rights group Memorial to shut</a> BBC: The Supreme Court dissolves a civil rights group formed to remember victims of Communist repression. 
  <p class="updated_time"> 12:31 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2021/12/28/260448064/cooking-up-food-and-identity-in-pailin-chongchitnants-hot-thai-kitchen">Cooking up food and identity in Pailin Chongchitnant's "Hot Thai Kitchen"</a> NPR: When chef Pailin Chongchitnant realized that cable television wasn't ready for a Thai cooking show, she started her own on YouTube. On it, she breaks down some of the misconceptions about the cuisine. 
- <p class="updated_time"> 12:23 PM CT, Dec. 28 </p> 
- <a href="https://www.wsj.com/articles/omicron-disruptions-prompt-easing-of-some-restrictions-11640692295">Omicron Reinfections Can Trigger Milder Symptoms, New CDC Research Shows</a> WSJ: The CDC review of a cluster of Covid-19 cases in Nebraska came as the Omicron variant spreads in the U.S. 
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/omicron.html">Fears of Omicron’s Rapid Spread Are Tempered by Signs of Milder Illness</a> NYT: “We can’t stop it,” Israel’s prime minister said of the Omicron variant, but that warning was blunted by early signs of potentially less-severe illness than with earlier coronavirus iterations. 
  <p class="updated_time"> 11:22 AM CT, Dec. 28 </p> 
@@ -113,22 +123,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1068500102/india-blocks-foreign-funding-for-mother-teresas-charity">India blocks foreign funding for Mother Teresa's charity</a> NPR: The Indian government says it has refused to renew a permit that allows the Missionaries of Charity to use foreign funds to operate orphanages and hospices across the country. 
  <p class="updated_time"> 10:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/windsor-castle-intruder.html">Britain’s Crossbow Rules in the Cross Hairs After Windsor Castle Breach</a> NYT: Britain’s Home Office said it was “considering options to strengthen controls” on the weapons, part of a continuing review, after a man was arrested in castle grounds with one. 
- <p class="updated_time"> 10:16 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59808883?at_medium=RSS&at_campaign=KARANGA">Egyptian pharaoh's mummy digitally unwrapped for first time</a> BBC: CT scans allowed archaeologists to study Amenhotep I's body and learn about his death and burial. 
- <p class="updated_time"> 09:53 AM CT, Dec. 28 </p> 
- <a href="https://www.wsj.com/articles/u-s-russia-set-january-talks-on-ukraine-nato-growth-11640709604">U.S., Russia Set Schedule for Ukraine Talks in January</a> WSJ: The nations agreed to meet on Jan. 10, amid tensions over Russian forces deployed near Ukraine and Moscow’s demands that NATO renounce any expansion eastward into the former Soviet bloc. 
- <p class="updated_time"> 09:50 AM CT, Dec. 28 </p> 
- <a href="https://www.wsj.com/articles/china-scholar-jonathan-spence-dies-at-85-11640697976">China Scholar Jonathan Spence Dies at Age 85</a> WSJ: The Yale University historian brought China and its past alive to a broad audience through widely read books and popular lectures. 
- <p class="updated_time"> 07:55 AM CT, Dec. 28 </p> 
- <a href="https://www.wsj.com/articles/russian-court-orders-countrys-oldest-human-rights-group-to-close-11640714322">Russian Court Orders Prominent Human Rights Group to Close</a> WSJ: The ruling against International Memorial comes as President Vladimir Putin squeezes space for dissent. 
  <p class="updated_time"> 07:14 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1067207363/2021-top-stories-international-npr-correspondents-recommend">These are the top stories NPR's correspondents around the world recommend from 2021</a> NPR: We asked the network's international journalists to pick one story from the year you should check out. Here are their selections. 
  <p class="updated_time"> 05:09 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/saudi-arabia-films-movies.html">As Other Arab States Falter, Saudi Arabia Seeks to Become a Cultural Hub</a> NYT: While conflicts and crises have battered Arab cultural capitals, Saudi Arabia is hosting film festivals and bankrolling new movies. 
  <p class="updated_time"> 04:38 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-former-female-troops-once-hailed-by-the-west-fear-for-their-lives-11640696404">Afghanistan's Former Female Troops Fear for Their Lives</a> WSJ: “They have relocated musicians, soccer players and artists, and their lives were not at risk as much as ours,” a former Afghan Air Force officer says of Western governments. 
- <p class="updated_time"> 04:29 AM CT, Dec. 28 </p> 
- <a href="https://www.wsj.com/articles/syria-accuses-israel-of-striking-its-main-commercial-port-11640705384">Syria Accuses Israel of Striking Its Main Commercial Port</a> WSJ: Israeli missiles struck Syria’s port of Latakia, according to the Syrian Defense Ministry, causing large fires and major damage in the second such attack on the vital facility this month. 
  <p class="updated_time"> 02:00 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/nord-stream-pipeline-germany-russia.html">Germany Wants Its Russian Pipeline. German Allies Aren’t Sure It’s a Good Idea.</a> NYT: The Nord Stream 2 Russia-to-Germany pipeline could offer plentiful natural gas. But tensions with Vladimir Putin are keeping it out of reach. 
  <p class="updated_time"> 10:28 PM CT, Dec. 27 </p> 
