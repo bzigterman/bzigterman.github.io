@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:49 PM CT, Dec. 29 </p> 
+ <p class="updated_time"> 02:19 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
+ <p class="updated_time"> 02:12 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/us-covid-case-record-omicron.html">U.S. Coronavirus Cases Set New Records</a> NYT: As a third year of the pandemic loomed, the seven-day average of U.S. cases topped 267,000 on Tuesday. 
  <p class="updated_time"> 01:43 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/cincinnati-fire-department-state-of-emergency.html">Cincinnati Declares State of Emergency Amid Fire Department Staffing Shortages</a> NYT: Mayor John Cranley called the challenges a “public danger” that would undermine the city’s ability to respond to fire emergencies. 
  <p class="updated_time"> 01:40 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">As the Kremlin Revises History, a Human Rights Champion Becomes a Casualty</a> NYT: The shuttering of Memorial, the country’s most prominent human rights organization, has saddened Russians who were personally touched by its work shining a light on the injustices of the Soviet past. 
  <p class="updated_time"> 01:27 PM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/29/1068842676/biden-will-speak-by-phone-with-putin-as-russia-ramps-up-presence-on-ukraine-bord">Biden will speak by phone with Putin as Russia ramps up presence on Ukraine border</a> NPR: The two world leaders will hold their second call this month amid Russia's continued military build-up near its border with Ukraine. 
+ <a href="https://www.npr.org/2021/12/29/1068842676/biden-will-speak-by-phone-with-putin-as-russia-ramps-up-presence-on-ukraine-bord">Biden will speak by phone with Putin as Russia ramps up presence on Ukraine border</a> NPR: The request for a call on Thursday came from the Kremlin. The White House said, "It will take a high level of engagement to address this and to try to find a path to de-escalation." 
  <p class="updated_time"> 01:21 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/france-left-presidential-election-primary.html">A Movement to Unify the French Left Might Be Its Last Chance for the Elections</a> NYT: A citizens’ initiative is pressuring the fragmented force to set parties’ interests aside and join together for next year’s presidential race. 
  <p class="updated_time"> 01:04 PM CT, Dec. 29 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59816052?at_medium=RSS&at_campaign=KARANGA">Sabine Weiss: Legend of street photography dies at 97</a> BBC: Famed for her images of Paris street life, she was the last member of the French humanist group. 
  <p class="updated_time"> 07:58 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59809822?at_medium=RSS&at_campaign=KARANGA">Ugandan author of The Greedy Barbarian detained - lawyer</a> BBC: Prize-winning Ugandan novelist Kakwenza Rukirabashaija called the president's son "obese" on Twitter. 
- <p class="updated_time"> 07:33 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/us-covid-case-record-omicron.html">U.S. Coronavirus Cases Set New Records</a> NYT: As a third year of the pandemic loomed, the seven-day average of U.S. cases topped 267,000 on Tuesday. 
  <p class="updated_time"> 07:14 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59815856?at_medium=RSS&at_campaign=KARANGA">Hong Kong's Stand News independent website shuts down after raid</a> BBC: Stand News has stopped operating following the arrest of seven people with links to the outlet. 
  <p class="updated_time"> 07:12 AM CT, Dec. 29 </p> 
@@ -199,7 +199,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 01:27 PM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/29/1068842676/biden-will-speak-by-phone-with-putin-as-russia-ramps-up-presence-on-ukraine-bord">Biden will speak by phone with Putin as Russia ramps up presence on Ukraine border</a> NPR: The two world leaders will hold their second call this month amid Russia's continued military build-up near its border with Ukraine. 
+ <a href="https://www.npr.org/2021/12/29/1068842676/biden-will-speak-by-phone-with-putin-as-russia-ramps-up-presence-on-ukraine-bord">Biden will speak by phone with Putin as Russia ramps up presence on Ukraine border</a> NPR: The request for a call on Thursday came from the Kremlin. The White House said, "It will take a high level of engagement to address this and to try to find a path to de-escalation." 
  <p class="updated_time"> 01:15 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/january-6-committee-trump-documents/index.html">January 6 panel stands down on request for some Trump documents</a> CNN: The House select committee investigating January 6 has stood down on its requests for some documents from the Trump White House, after the Biden administration convinced the panel to scale back its pursuits. 
  <p class="updated_time"> 12:33 PM CT, Dec. 29 </p> 
