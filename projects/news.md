@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:15 AM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Police arrest six from Hong Kong independent news outlet</a> BBC: Six people linked to Stand News were arrested for "conspiracy to publish a seditious publication". 
  <p class="updated_time"> 12:54 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068696336/hong-kong-police-raid-pro-democracy-news-outlet-arrest-6">Hong Kong police raid pro-democracy news outlet, arrest 6</a> NPR: Hong Kong police raided the office of an online pro-democracy news outlet Wednesday after arresting six people for conspiracy to publish a seditious publication in a continuing crackdown on dissent. 
  <p class="updated_time"> 12:19 AM CT, Dec. 29 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/quebec-health-workers-positive-covid.html">Some Infected Quebec Health Care Workers can Continue Working</a> NYT: All essential workers in the province, including those who work in medicine, will be subject to the new rules. 
  <p class="updated_time"> 09:35 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-59814661?at_medium=RSS&at_campaign=KARANGA">Covid: US and France report record daily case rises</a> BBC: However, US officials said it was possible the figures were an overestimate due to reporting delays. 
- <p class="updated_time"> 09:07 PM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Police arrest six from Hong Kong independent news outlet</a> BBC: Six people linked to Stand News were arrested for "conspiracy to publish a seditious publication". 
  <p class="updated_time"> 08:36 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-59814571?at_medium=RSS&at_campaign=KARANGA">Boeing 737 Max: Indonesia lifts ban after 2018 Lion Air crash</a> BBC: The announcement came just a day after Ethiopian Airlines said it would resume 737 Max flights. 
  <p class="updated_time"> 08:30 PM CT, Dec. 28 </p> 
