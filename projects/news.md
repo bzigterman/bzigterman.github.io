@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:49 AM CT, Dec. 29 </p> 
+ <p class="updated_time"> 10:46 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
+ <p class="updated_time"> 10:41 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/asia/myanmar-coup-refugees.html">Stay or Go? For Myanmar’s Latest Wave of Refugees, There’s No Good Choice.</a> NYT: Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire. 
  <p class="updated_time"> 09:41 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile Writes Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
  <p class="updated_time"> 09:38 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/france-left-presidential-election-primary.html">A Movement to Unify the French Left Might Be Its Last Chance for the Elections</a> NYT: A citizens’ initiative is pressuring the fragmented force to set parties’ interests aside and join together for next year’s presidential race. 
  <p class="updated_time"> 09:06 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">Russian Court Orders 2nd Ban of a Major Human Rights Group in 2 Days</a> NYT: Critics of the government said the rulings capped a year of erosion of civil rights and media freedoms in the country. 
- <p class="updated_time"> 09:04 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/asia/myanmar-coup-refugees.html">Stay or Go? For Myanmar’s Latest Wave of Refugees, There’s No Good Choice.</a> NYT: Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire. 
  <p class="updated_time"> 09:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/afghanistan-taliban-helmand-marja.html">11 Years After Trying to Kill Each Other, a Marine and a Talib Meet Again</a> NYT: A Times reporter who once served in the Marines returned to the site of a major battle in Afghanistan to see what’s changed since the Taliban took over — and to meet a commander he once fought. 
  <p class="updated_time"> 08:51 AM CT, Dec. 29 </p> 
@@ -203,11 +203,11 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 11:07 AM CT, Dec. 29 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/29/harry-reids-legacy-495555">Harry Reid’s legacy</a> Politico Playbook: And Michigan and Virginia get their new congressional maps. 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/29/harry-reids-legacy-495555"> Harry Reid’s legacy</a> Politico Playbook: And Michigan and Virginia get their new congressional maps. 
  <p class="updated_time"> 10:26 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/harry-reid-shaped-chuck-schumer-526233">'He’s a press guy, I’m not': How Harry Reid shaped Chuck Schumer</a> Politico: Schumer called Reid "my leader, my mentor, one of my dearest friends,” after the former Senate majority leader's death Tuesday. 
  <p class="updated_time"> 09:17 AM CT, Dec. 29 </p> 
- <a href="https://www.politico.com/news/2021/12/29/cdc-defends-new-covid-guidelines-526234">CDC defends new Covid isolation guidelines</a> Politico: Director Rochelle Walensky acknowledged that the decision to shorten the quarantine period “really had a lot to do with what we thought people would be able to tolerate.” 
+ <a href="https://www.politico.com/news/2021/12/29/cdc-defends-new-covid-guidelines-526234">‘This was the moment’: CDC defends altered guidance amid Omicron surge</a> Politico: Director Rochelle Walensky acknowledged that the decision to shorten the recommended isolation period “really had a lot to do with what we thought people would be able to tolerate.” 
  <p class="updated_time"> 07:06 AM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/january-6-portland-unrest-compare-judges/index.html">Two Trump-appointed judges reject comparisons between January 6 and Portland political unrest</a> CNN: Two Trump-appointed federal judges have rejected claims from January 6 defendants that they're being treated unfairly, because of their conservative politics, compared with left-leaning rioters in Portland, Oregon, in the summer of 2020. 
  <p class="updated_time"> 06:06 AM CT, Dec. 29 </p> 
