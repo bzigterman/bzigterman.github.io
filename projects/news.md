@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:52 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid News: U.S. Daily Record for Cases Is Broken</a> NYT: The seven-day average of U.S. cases topped 267,000 on Tuesday, with Washington, D.C., Maryland and Virginia particularly hard hit. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S. 
  <p class="updated_time"> 03:22 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Independent outlet to close after senior staff arrested</a> BBC: Six people linked to Stand News are arrested for "conspiracy to publish a seditious publication". 
- <p class="updated_time"> 03:12 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid News: U.S. Daily Record for Cases Is Broken</a> NYT: The seven-day average of U.S. cases topped 267,000 on Tuesday, with Washington, D.C., Maryland and Virginia particularly hard hit. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S. 
  <p class="updated_time"> 03:06 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808557?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo statue divides opinion in India</a> BBC: A brass statue of the Portuguese football star is installed in the western Goa state. 
  <p class="updated_time"> 02:04 AM CT, Dec. 29 </p> 
@@ -18,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:35 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59814542?at_medium=RSS&at_campaign=KARANGA">John Madden: NFL coach, broadcaster and video game icon dies at 85</a> BBC: John Madden, legendary American Football coach, broadcaster and face of Madden NFL Football has died. 
  <p class="updated_time"> 12:54 AM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/29/1068696336/hong-kong-police-raid-pro-democracy-news-outlet-arrest-6">Hong Kong police raid pro-democracy news outlet, arrest 6</a> NPR: Hong Kong police raided the office of an online pro-democracy news outlet Wednesday after arresting six people for conspiracy to publish a seditious publication in a continuing crackdown on dissent. 
+ <a href="https://www.npr.org/2021/12/29/1068696336/hong-kong-police-raid-pro-democracy-news-outlet-arrest-6">Hong Kong pro-democracy news site closes after raid, arrests</a> NPR: A vocal pro-democracy website in Hong Kong shut down Wednesday after police raided its office and arrested six in a continuing crackdown on dissent. 
  <p class="updated_time"> 12:19 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: The current or former senior staff members of Stand News were held on suspicion of conspiring to publish seditious material. More than 200 officers raided the news site’s headquarters. 
  <p class="updated_time"> 11:51 PM CT, Dec. 28 </p> 
@@ -195,7 +195,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:45 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068703011/judge-refuses-to-dismiss-indictment-against-alleged-proud-boys-leaders">Judge refuses to dismiss indictment against alleged Proud Boys leaders</a> NPR: U.S. District Judge Timothy Kelly on Tuesday rejected defense attorneys' arguments that the four men are charged with conduct that is protected by the First Amendment right to free speech. 
  <p class="updated_time"> 12:54 AM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/29/1068696336/hong-kong-police-raid-pro-democracy-news-outlet-arrest-6">Hong Kong police raid pro-democracy news outlet, arrest 6</a> NPR: Hong Kong police raided the office of an online pro-democracy news outlet Wednesday after arresting six people for conspiracy to publish a seditious publication in a continuing crackdown on dissent. 
+ <a href="https://www.npr.org/2021/12/29/1068696336/hong-kong-police-raid-pro-democracy-news-outlet-arrest-6">Hong Kong pro-democracy news site closes after raid, arrests</a> NPR: A vocal pro-democracy website in Hong Kong shut down Wednesday after police raided its office and arrested six in a continuing crackdown on dissent. 
  <p class="updated_time"> 10:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, Senate Majority Leader Behind Landmark Democratic Victories, Dies at 82</a> NYT: Mr. Reid, who was from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
  <p class="updated_time"> 10:11 PM CT, Dec. 28 </p> 
