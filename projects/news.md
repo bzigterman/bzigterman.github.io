@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:32 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile Rewrites Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
  <p class="updated_time"> 11:29 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Daily Record for Cases Is Broken</a> NYT: The seven-day average of U.S. cases topped 267,000 on Tuesday, with Washington, D.C., Maryland and Virginia particularly hard hit. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S. 
  <p class="updated_time"> 11:25 PM CT, Dec. 28 </p> 
@@ -22,7 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:35 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-59814661?at_medium=RSS&at_campaign=KARANGA">Covid: US and France report record daily case rises</a> BBC: However, US officials said it was possible the figures were an overestimate due to reporting delays. 
  <p class="updated_time"> 09:07 PM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Police arrest six from Hong Kong independent news outlet</a> BBC: The six staff members were arrested on charges of "conspiracy to publish a seditious publication". 
+ <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Police arrest six from Hong Kong independent news outlet</a> BBC: Six people linked to Stand News were arrested for "conspiracy to publish a seditious publication". 
  <p class="updated_time"> 08:36 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-59814571?at_medium=RSS&at_campaign=KARANGA">Boeing 737 Max: Indonesia lifts ban after 2018 Lion Air crash</a> BBC: The announcement came just a day after Ethiopian Airlines said it would resume 737 Max flights. 
  <p class="updated_time"> 08:30 PM CT, Dec. 28 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1068587831/most-countries-will-fall-short-of-global-initiative-to-vaccinate-40-of-populatio">Most countries will fall short of global initiative to vaccinate 40% of populations</a> NPR: COVAX was set up to enable global access to vaccines against COVID. Yet nearly 80 countries will miss a target of vaccinating 40% of their populations by year's end. Here's what went wrong. 
  <p class="updated_time"> 03:34 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1068587810/russias-supreme-court-shuts-down-human-rights-group-that-preserved-history">Russia's Supreme Court shuts down human rights group that preserved history</a> NPR: For decades, the Russian human rights group Memorial has tried to preserve the story of the Soviet Union's darkest years. The country's high court ordered it closed Tuesday. 
- <p class="updated_time"> 03:23 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile Rewrites Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
  <p class="updated_time"> 03:14 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/omicron-covid-contagious-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
  <p class="updated_time"> 03:11 PM CT, Dec. 28 </p> 
