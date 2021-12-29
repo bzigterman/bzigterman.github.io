@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:29 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Daily Record for Cases Is Broken</a> NYT: The seven-day average of U.S. cases topped 267,000 on Tuesday, with Washington, D.C., Maryland and Virginia particularly hard hit. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S. 
+ <p class="updated_time"> 11:25 PM CT, Dec. 28 </p> 
+ <a href="https://www.npr.org/2021/12/29/1068685421/nfl-hall-of-fame-coach-and-iconic-sports-broadcaster-john-madden-dies-at-85">NFL Hall of Fame coach and iconic sports broadcaster John Madden dies at 85</a> NPR: For 10 seasons, John Madden led the Oakland Raiders as head coach. After his retirement, he went on to become a legendary NFL commentator for three decades. 
  <p class="updated_time"> 11:03 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Six current or former senior staff members of Stand News were arrested on suspicion of conspiring to publish seditious material. More than 200 officers raided the news site’s headquarters. 
- <p class="updated_time"> 10:58 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Daily Record for Cases Is Broken</a> NYT: The seven-day average of U.S. cases topped 267,000 on Tuesday, with Washington, D.C., Maryland and Virginia particularly hard hit. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S. 
  <p class="updated_time"> 10:58 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/arts/hugh-jackman-covid-the-music-man.html">Hugh Jackman Announces He Has Covid-19</a> NYT: The show joins other productions that have been suspended, including the Temptations musical “Ain’t Too Proud,” which will close for good on Jan. 16. 
  <p class="updated_time"> 10:47 PM CT, Dec. 28 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/africa/tutu-death.html">Here Are Some of the Many Tributes for Desmond Tutu, a Force for Harmony</a> NYT: From prominent South African lawmakers to religious figures, many on social media honored Archbishop Tutu as a patriot of peaceful principles who dedicated his life to combating injustice everywhere. 
  <p class="updated_time"> 11:21 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/bts-covid-coronavirus.html">Two More Members of the K-Pop Band, BTS, Test Positive for Coronavirus</a> NYT: RM and Jin discovered they were infected a day after Suga got his diagnosis. All tested positive after returning to South Korea from the United States. 
- <p class="updated_time"> 10:45 AM CT, Dec. 26 </p> 
- <a href="https://www.npr.org/2021/12/26/1068101250/save-the-children-staff-myanmar">Save the Children says 2 staffers are missing after a massacre in Myanmar</a> NPR: A massacre in Myanmar that left more than 30 people, including women and children, dead and burned in their vehicles after they were reportedly shot by government troops as they were fleeing combat. 
  <p class="updated_time"> 10:30 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/europe/afghans-netherlands-migrants.html">After Chaotic Evacuation, Afghans in the Netherlands Struggle to Find Stability</a> NYT: Many Afghans evacuated to the Netherlands have been living in tents for months, as they prepare to resettle in a Europe that is wrangling with a heated debate about immigration. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
