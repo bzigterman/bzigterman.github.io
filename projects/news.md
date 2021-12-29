@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:10 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">Russian Court Orders 2nd Ban of a Major Human Rights Group in 2 Days</a> NYT: Critics of the government said the rulings capped a year of erosion of civil rights and media freedoms in the country. 
  <p class="updated_time"> 04:43 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
  <p class="updated_time"> 04:25 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59816567?at_medium=RSS&at_campaign=KARANGA">Valentina Orellana-Peralta: US teen shot dead by police 'died in mother's arms'</a> BBC: The parents of a 14-year-old girl killed by a stray police bullet while shopping demands justice. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59816567?at_medium=RSS&at_campaign=KARANGA">Valentina Orellana-Peralta: US teen shot dead by police 'died in mother's arms'</a> BBC: The parents of a 14-year-old girl killed by a stray police bullet while shopping demand justice. 
  <p class="updated_time"> 04:13 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid News: U.S. Daily Record for Cases Is Broken</a> NYT: The seven-day average of U.S. cases topped 267,000 on Tuesday, with Washington, D.C., Maryland and Virginia particularly hard hit. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S. 
  <p class="updated_time"> 04:05 AM CT, Dec. 29 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/bts-covid-coronavirus.html">Two More Members of the K-Pop Band, BTS, Test Positive for Coronavirus</a> NYT: RM and Jin discovered they were infected a day after Suga got his diagnosis. All tested positive after returning to South Korea from the United States. 
  <p class="updated_time"> 10:30 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/europe/afghans-netherlands-migrants.html">After Chaotic Evacuation, Afghans in the Netherlands Struggle to Find Stability</a> NYT: Many Afghans evacuated to the Netherlands have been living in tents for months, as they prepare to resettle in a Europe that is wrangling with a heated debate about immigration. 
- <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/insider/in-congo-bolivia-and-beyond-where-the-green-future-begins.html">In Congo, Bolivia and Beyond, Where the Green Future Begins</a> NYT: The Times’s Race to the Future series is focused on the competition for electric-car resources that will shape the 21st century. 
 
 
 </details>
@@ -192,18 +192,24 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:08 AM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/29/1068704775/former-democratic-senate-leader-harry-reid-has-died-at-age-82">Former Democratic Senate leader Harry Reid has died at age 82</a> NPR: The Nevada Democrat, a one-time amateur boxer who brought a pugilist approach to politics, died Tuesday afternoon after a four-year battle with pancreatic cancer. 
+ <p class="updated_time"> 04:15 AM CT, Dec. 29 </p> 
+ <a href="https://www.cnn.com/2021/12/29/politics/redistricting-race-blind-maps-texas-north-carolina/index.html">'They know where Black voters live': Challengers say 'race blind' redistricting maps are anything but</a> CNN: In states like Texas and North Carolina, Republican lawmakers in charge of redrawing the political maps for the next decade say that the new plans are "race blind." Their opponents in court say that the claim is implausible and one that, in some situations, is at odds with the Voting Rights Act. 
  <p class="updated_time"> 04:08 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068701969/remembering-harry-reid-ex-democratic-senate-leader-who-has-died">Remembering Harry Reid, ex-Democratic Senate leader, who has died</a> NPR: Former Senator Harry Reid has died at age 82. NPR's Sarah McCammon talks to Faiz Shakir, a former adviser to Reid, about his legacy. 
+ <p class="updated_time"> 04:08 AM CT, Dec. 29 </p> 
+ <a href="https://www.npr.org/2021/12/29/1068704775/former-democratic-senate-leader-harry-reid-has-died-at-age-82">Former Democratic Senate leader Harry Reid has died at age 82</a> NPR: The Nevada Democrat, a one-time amateur boxer who brought a pugilist approach to politics, died Tuesday afternoon after a four-year battle with pancreatic cancer. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068384409/insurrection-abortion-voting-climate-afghanistan-trump-biden-2021-stories">From the Capitol riot to abortion rights, here are the top political stories of 2021</a> NPR: As we count down to the New Year, we asked our readers what they thought were the top political stories of 2021. Here's what they picked. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights Tracker: What to Know About the U.S. Elections Fight</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
  <p class="updated_time"> 02:45 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068703011/judge-refuses-to-dismiss-indictment-against-alleged-proud-boys-leaders">Judge refuses to dismiss indictment against alleged Proud Boys leaders</a> NPR: U.S. District Judge Timothy Kelly on Tuesday rejected defense attorneys' arguments that the four men are charged with conduct that is protected by the First Amendment right to free speech. 
+ <p class="updated_time"> 01:48 AM CT, Dec. 29 </p> 
+ <a href="https://www.cnn.com/2021/12/29/politics/biden-russia-iran-china-politics-2022/index.html">Why Biden isn't likely to find much political relief abroad in 2022</a> CNN: Joe Biden hasn't had a day in the White House free of intractable domestic challenges that threaten to doom his presidency. But his hopes of a 2022 rebound are complicated by equally treacherous tests abroad. 
  <p class="updated_time"> 12:54 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068696336/hong-kong-police-raid-pro-democracy-news-outlet-arrest-6">Hong Kong pro-democracy news site closes after raid, arrests</a> NPR: A vocal pro-democracy website in Hong Kong shut down Wednesday after police raided its office and arrested six in a continuing crackdown on dissent. 
+ <p class="updated_time"> 11:03 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/29/politics/afghan-refugees-wait/index.html">Months later, Afghan evacuees abroad and at US bases still wait to be resettled</a> CNN: Aminullah Hotaki flew out of Afghanistan on September 21 with his wife and 5-year-old son. They landed in the United Arab Emirates where they expected to stay for a short period of time before coming to the United States. 
  <p class="updated_time"> 10:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, Senate Majority Leader Behind Landmark Democratic Victories, Dies at 82</a> NYT: Mr. Reid, who was from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
  <p class="updated_time"> 10:11 PM CT, Dec. 28 </p> 
@@ -222,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
  <p class="updated_time"> 08:17 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/appeals-court-says-new-york-times-can-temporarily-keep-project-veritas-documents-526229">Appeals court rules New York Times can temporarily keep Project Veritas documents</a> Politico: The paper is still not allowed to publish the materials, upholding a key part of last week’s order. 
- <p class="updated_time"> 07:58 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/gallery/harry-reid/index.html">In pictures: Former US Sen. Harry Reid</a> CNN: Former Nevada Senator Harry Reid has died at the age of 82, according to a statement released on Tuesday by his wife Landra Reid. 
  <p class="updated_time"> 07:42 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/john-madden-coach-broadcaster-dies-526230">John Madden, Hall of Fame coach and broadcaster, dies at 85</a> Politico: The NFL said he died unexpectedly and did not detail a cause. 
  <p class="updated_time"> 07:25 PM CT, Dec. 28 </p> 
@@ -233,13 +237,11 @@ permalink: /projects/news/
  <p class="updated_time"> 06:39 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/congress-ethics-investigations.html">Ethics Investigators in Congress Increasingly Run Into Walls</a> NYT: Lawmakers under scrutiny are more likely than before to simply refuse to cooperate with an inquiry. 
  <p class="updated_time"> 05:44 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/biden-covid-testing-shortage/index.html">Biden is dogged by a testing shortage he had vowed to fix</a> CNN: President Joe Biden is closing out his first year in office facing one of the same problems he entered the White House vowing to fix: a persistent shortage of Covid-19 testing that, if resolved, could provide a way out of the still-raging pandemic. 
+ <a href="https://www.cnn.com/2021/12/28/politics/biden-covid-testing-shortage/index.html">Biden dogged by a testing shortage he'd vowed to fix</a> CNN: President Joe Biden is closing out his first year in office facing one of the same problems he entered the White House vowing to fix: a persistent shortage of Covid-19 testing that, if resolved, could provide a way out of the still-raging pandemic. 
  <p class="updated_time"> 05:38 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/us-new-daily-high-covid-526223">U.S. sets new daily high for Covid cases</a> Politico: The Centers for Disease Control and Prevention’s tally represents a grim new milestone in the coronavirus pandemic. 
  <p class="updated_time"> 05:37 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/business/media/nyt-project-veritas.html">Judge Says New York Times Can Retain Project Veritas Memos, for Now</a> NYT: A New York appeals court said the paper did not need to immediately give up or destroy documents related to the conservative group. The paper is still prevented from publishing certain documents. 
- <p class="updated_time"> 05:14 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/andrew-cuomo-westchester-county-no-charges/index.html">Ex-New York Gov. Cuomo will not be criminally charged by Westchester County district attorney over alleged inappropriate conduct</a> CNN: Westchester District Attorney Miriam Rocah announced on Tuesday her office will not criminally charge former New York Gov. Andrew Cuomo after a "thorough" investigation into allegations of inappropriate conduct made by two women against him. 
  <p class="updated_time"> 05:05 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/trump-jan-6.html">Jan. 6 Committee Shelves Requests for Hundreds of Trump Records</a> NYT: The Biden administration asked to shield some sensitive documents but continued to reject Trump’s blanket claim of executive privilege. 
  <p class="updated_time"> 04:41 PM CT, Dec. 28 </p> 
@@ -262,10 +264,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/28/trump-organization-pga-settlement-526207">Trump Organization and PGA reach settlement over 2022 championship dispute</a> Politico: No details were released, but the tournament still won’t be held at Bedminster as a result of the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:48 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/cdc-drops-omicron-prevalence-estimate-526210">CDC sharply drops estimate of Omicron prevalence in U.S.</a> Politico: The agency said the disparity was due to the rate with which the highly transmissible Omicron spread. 
+ <p class="updated_time"> 12:12 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/biden-revokes-southern-africa-travel-ban/index.html">Biden issues proclamation revoking southern Africa travel restrictions</a> CNN: President Joe Biden issued a presidential proclamation Tuesday revoking a proclamation put in place last month that enacted travel restrictions on eight southern African nations, including South Africa, as the Omicron variant began to spread. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/28/bunny-mellons-millions-at-play-in-dc-divorce-495554"> Bunny Mellon’s millions at play in D.C. divorce</a> Politico Playbook: And the CDC Monday shortened the isolation period for people who test positive for Covid-19 and are asymptomatic 
- <p class="updated_time"> 09:03 AM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/the-year-supreme-court-conservatives-made-their-mark/index.html">The year Supreme Court conservatives made their mark  </a> CNN: Over the last year, the Supreme Court's newly solidified conservative majority has made clear that it is willing to forgo a deliberate pace of justice in favor of a race to the right, leaving behind the liberal justices and at times Republican-appointed Chief Justice John Roberts. 
  <p class="updated_time"> 08:58 AM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/january-6-committee-interim-report-summer-2022/index.html">January 6 committee eyes interim report by summer 2022</a> CNN: The House select committee investigating the January 6 Capitol Hill riot is working toward a goal of releasing an interim report with initial findings by the summer, a committee aide told CNN, and that a final report would follow in fall 2022. 
  <p class="updated_time"> 04:02 AM CT, Dec. 28 </p> 
@@ -288,8 +290,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/27/1049811327/states-send-kids-to-foster-care-and-their-parents-the-bill-often-one-too-big-to-">States send kids to foster care and their parents the bill — often one too big to pay</a> NPR: In every state, governments charge parents for the cost of foster care when children are taken away. When that happens, NPR found, poor parents can't make ends meet, so families are kept apart longer. 
  <p class="updated_time"> 03:19 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/joe-biden-signs-ndaa/index.html">Biden signs annual defense bill</a> CNN: President Joe Biden signed the vital National Defense Authorization Act military funding bill, passed earlier this month by Congress, into law Monday morning. 
- <p class="updated_time"> 01:37 PM CT, Dec. 27 </p> 
- <a href="https://www.cnn.com/2021/12/27/politics/doj-combats-crime-rise/index.html">Justice Department boosts funds to cities to battle rise in crime</a> CNN: The Justice Department is closing out the year with a surge in grants for public safety programs in cities across the country, including many grappling with a dramatic rise in violent crime. 
+ <p class="updated_time"> 02:55 PM CT, Dec. 27 </p> 
+ <a href="https://www.cnn.com/2021/12/27/politics/biden-covid-governors/index.html">Biden concedes not enough has been done to expand Covid-19 testing capacity: 'We have more work to do'</a> CNN: President Joe Biden will confer with the nation's governors on Monday as a wave of Covid-19, driven by the heavily transmissible Omicron variant of the coronavirus, crashes across the country and drives caseloads to record levels in areas of the Northeast. 
  <p class="updated_time"> 01:07 PM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/biden-governors-omicron-surge-526175">Biden looks to reassure governors amid Omicron surge and long lines for tests</a> Politico: Biden acknowledged the shortages that hit several states ahead of the holidays, conceding that he had not done enough to prepare for the rising demand. 
  <p class="updated_time"> 11:29 AM CT, Dec. 27 </p> 
@@ -298,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/27/the-view-struggles-to-find-a-republican-495553"> ‘The View’ struggles to find a Republican</a> Politico Playbook: And coronavirus cases spike to record levels across the world. 
  <p class="updated_time"> 08:37 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/science/russia-nasa-spacex-asat.html">NASA-Russia Alliance Is Shaken by Events on Planet Earth</a> NYT: The relationship between the nations’ space agencies is facing a series of difficult tests, including an antisatellite weapon and friction over Ukraine. 
- <p class="updated_time"> 06:02 AM CT, Dec. 27 </p> 
- <a href="https://www.cnn.com/videos/politics/2021/12/27/candace-owens-trump-vaccines-nr-vpx.cnn">Candace Owens tries to explain away Trump's truthful vaccine remark</a> CNN: Conservative commentator Candace Owens spoke to her followers and tried to explain away former President Trump touting the effectiveness of the Covid-19 vaccines. 
  <p class="updated_time"> 06:00 AM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/gen-z-millennial-conservatives-recruit-diverse-candidates/index.html">Gen Z and millennial conservatives seek to recruit and mentor young, diverse candidates </a> CNN: When Roxy Ndebumadu, a Black conservative woman, ran for city council in Bowie, Maryland, at age 26, it was hard to find mentorship from elected officials of similar backgrounds. 
  <p class="updated_time"> 04:31 AM CT, Dec. 27 </p> 
@@ -344,14 +344,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/24/biden-lifts-africa-travel-ban-526133">Biden administration to lift travel ban from south African countries Dec. 31</a> Politico: Administration officials at the time said the ban would buy time for health officials to learn more about the Omicron variant. 
  <p class="updated_time"> 09:17 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/24/tis-the-season-of-year-end-lists-495550"> ’Tis the season of year-end lists</a> Politico Playbook: And the U.S. lifts travel restrictions on southern Africa. 
- <p class="updated_time"> 08:49 AM CT, Dec. 24 </p> 
- <a href="https://www.cnn.com/2021/12/24/politics/bernard-kerik-january-6-committee/index.html">Giuliani associate Bernard Kerik plans to publicly release some documents requested by January 6 committee</a> CNN: Former New York City Police Commissioner Bernard Kerik says he is planning to publicly release some documents requested by the House select committee investigating January 6. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-rural-evictions-526089">Biden’s about to adopt a policy that could hurt Dems even more with rural voters</a> Politico: About half of the $46.5 billion in federal rental aid made available during the pandemic is expected to be spent by the end of this year. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-social-spending-senate-parliamentarian-526081">Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</a> Politico: The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan. 
- <p class="updated_time"> 08:55 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/mary-gay-scanlon-hijacking-suspect-charged/index.html">19-year-old charged in armed carjacking incident involving Democratic lawmaker</a> CNN: Federal prosecutors have charged a Delaware man with carjacking Democratic Rep. Mary Gay Scanlon of Pennsylvania and using a firearm during a crime of violence, the Justice Department announced Thursday. 
  <p class="updated_time"> 06:58 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/georgia-poll-workers-sue-giuliani-oan-526122">2 Georgia poll workers sue Giuliani, OAN over election conspiracy theories</a> Politico: Ruby Freeman and Shaye Moss, her daughter, worked as poll workers counting ballots at State Farm Arena in Fulton County, Ga., during the November 2020 election. 
  <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
@@ -374,6 +370,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/23/trump-supreme-court-january-six-526050">Trump asks Supreme Court to shield records from Jan. 6 committee</a> Politico: In a reply Thursday afternoon, the House asked the court to expedite consideration of the case. 
  <p class="updated_time"> 11:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/dccc-partnership-campaign-staff-diversity-526041">DCCC launching partnership to boost campaign staff diversity</a> Politico: House Democrats' campaign arm is partnering with Blue Leadership Collaborative to recruit and retain people of color, women and people who identify as queer as senior staff. 
+ <p class="updated_time"> 07:41 AM CT, Dec. 23 </p> 
+ <a href="https://www.cnn.com/2021/12/23/politics/joe-biden-filibuster-voting-rights/index.html">Biden says he supports filibuster carve-out for voting rights</a> CNN: President Joe Biden says he supports making an exception to the Senate filibuster rules in order to pass voting rights legislation. 
  <p class="updated_time"> 07:09 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/23/senate-candidates-trade-house-toil-for-celeb-launchpad-495547">Senate candidates trade House toil for celeb launchpad</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Dec. 23 </p> 
