@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:43 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
  <p class="updated_time"> 04:25 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59816567?at_medium=RSS&at_campaign=KARANGA">Valentina Orellana-Peralta: US teen shot dead by police 'died in mother's arms'</a> BBC: The parents of a 14-year-old girl killed by a stray police bullet while shopping demands justice. 
  <p class="updated_time"> 04:13 AM CT, Dec. 29 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59814542?at_medium=RSS&at_campaign=KARANGA">John Madden: NFL coach, broadcaster and video game icon dies at 85</a> BBC: John Madden, legendary American Football coach, broadcaster and face of Madden NFL Football has died. 
  <p class="updated_time"> 12:54 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068696336/hong-kong-police-raid-pro-democracy-news-outlet-arrest-6">Hong Kong pro-democracy news site closes after raid, arrests</a> NPR: A vocal pro-democracy website in Hong Kong shut down Wednesday after police raided its office and arrested six in a continuing crackdown on dissent. 
- <p class="updated_time"> 12:19 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: The current or former senior staff members of Stand News were held on suspicion of conspiring to publish seditious material. More than 200 officers raided the news site’s headquarters. 
  <p class="updated_time"> 11:51 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/29/1068691821/asia-is-keeping-omicron-at-bay-but-a-surge-may-be-inevitable">Asia is keeping omicron at bay, but a surge may be inevitable</a> NPR: Much of Asia has managed to keep omicron in check even as the variant rages elsewhere, but the region that is home to most of the globe's population is bracing for what may be an inevitable surge. 
  <p class="updated_time"> 11:32 PM CT, Dec. 28 </p> 
