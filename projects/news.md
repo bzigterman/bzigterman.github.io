@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:44 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City Struggles to Keep Running Under Omicron</a> NYT: Average global cases reach a new high, and many Europeans are scrambling for tests. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
+ <p class="updated_time"> 02:39 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/americas/brazil-floods-climate-change.html">Brazil Flooding Kills at Least 20 and Displaces Thousands</a> NYT: In northeast Brazil, local officials say they have never before seen flooding on this scale. Tens of thousands were forced to flee their homes. 
  <p class="updated_time"> 02:27 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59822209?at_medium=RSS&at_campaign=KARANGA">Covid: Omicron and Delta driving tsunami of cases - WHO</a> BBC: The warning comes as record cases are once again reported across the US and Europe. 
- <p class="updated_time"> 02:24 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 02:12 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/us-covid-case-record-omicron.html">U.S. Coronavirus Cases Set New Records</a> NYT: As a third year of the pandemic loomed, the seven-day average of U.S. cases topped 267,000 on Tuesday. 
  <p class="updated_time"> 01:43 PM CT, Dec. 29 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/us/politics/nato-russia-ukrain-us.html">U.S. and Russia Agree to Talks Amid Growing Tensions Over Ukraine</a> NYT: The Biden administration has not said who will lead the U.S. delegation next month as Russian officials demand commitments from NATO. 
  <p class="updated_time"> 04:02 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1068587887/its-unclear-if-boris-johnson-can-bounce-back-from-low-approval-ratings-and-scand">It's unclear if Boris Johnson can bounce back from low approval ratings and scandals</a> NPR: British Prime Minister Boris Johnson is going through the worst period of his premiership so far — but he's bounced back before. Can he do it again? 
- <p class="updated_time"> 03:42 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/americas/brazil-floods-climate-change.html">Brazil Flooding Kills at Least 20 and Displaces Thousands</a> NYT: In northeast Brazil, local officials say they have never before seen flooding on this scale. Tens of thousands were forced to flee their homes. 
  <p class="updated_time"> 03:34 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1068587831/most-countries-will-fall-short-of-global-initiative-to-vaccinate-40-of-populatio">Most countries will fall short of global initiative to vaccinate 40% of populations</a> NPR: COVAX was set up to enable global access to vaccines against COVID. Yet nearly 80 countries will miss a target of vaccinating 40% of their populations by year's end. Here's what went wrong. 
  <p class="updated_time"> 03:34 PM CT, Dec. 28 </p> 
@@ -145,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/europe/windsor-castle-intruder.html">Britain’s Crossbow Rules in the Cross Hairs After Windsor Castle Breach</a> NYT: Britain’s Home Office said it was “considering options to strengthen controls” on the weapons, part of a continuing review, after a man was arrested in castle grounds with one. 
  <p class="updated_time"> 07:14 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1067207363/2021-top-stories-international-npr-correspondents-recommend">These are the top stories NPR's correspondents around the world recommend from 2021</a> NPR: We asked the network's international journalists to pick one story from the year you should check out. Here are their selections. 
- <p class="updated_time"> 05:09 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/middleeast/saudi-arabia-films-movies.html">As Other Arab States Falter, Saudi Arabia Seeks to Become a Cultural Hub</a> NYT: While conflicts and crises have battered Arab cultural capitals, Saudi Arabia is hosting film festivals and bankrolling new movies. 
  <p class="updated_time"> 04:38 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-former-female-troops-once-hailed-by-the-west-fear-for-their-lives-11640696404">Afghanistan's Former Female Troops Fear for Their Lives</a> WSJ: “They have relocated musicians, soccer players and artists, and their lives were not at risk as much as ours,” a former Afghan Air Force officer says of Western governments. 
  <p class="updated_time"> 02:00 AM CT, Dec. 28 </p> 
@@ -157,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/health/omicron-cdc.html">As Omicron Cases Surge, CDC Shortens Isolation Times for Many Americans</a> NYT: Hoping to prevent further disruptions to daily life, the C.D.C. reduced the period that certain infected Americans must sequester. 
  <p class="updated_time"> 08:23 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/australia/australia-lab-negative-covid-tests-mistake.html">Australia Covid Lab Mistakenly Tells Hundreds They Tested Negative</a> NYT: Human error was to blame for the mix-up amid a high demand for Covid testing, a clinic in Sydney said. 
- <p class="updated_time"> 07:56 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/asia/philippines-super-typhoon-rai.html">Super Typhoon Rai Leaves Miles of Wreckage in Philippines</a> NYT: Philippine officials warned that residents were going hungry. Many were still in evacuation centers. On a highway, survivors scrawled an appeal for aid. 
  <p class="updated_time"> 07:28 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/israel-fourth-dose-covid-vaccine.html">Israel Study Will Test Effectiveness of 4th Vaccine Dose</a> NYT: A decision on whether to offer the additional shot, and for whom, is expected within days. 
  <p class="updated_time"> 06:59 PM CT, Dec. 27 </p> 
