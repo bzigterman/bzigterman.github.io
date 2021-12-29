@@ -7,7 +7,11 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:51 AM CT, Dec. 29 </p> 
+ <p class="updated_time"> 12:00 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59816567?at_medium=RSS&at_campaign=KARANGA">Valentina Orellana-Peralta: Teen shot by police in LA dies in mother's arms</a> BBC: A girl from Chile killed by a stray bullet once said the US was the safest country in the world. 
+ <p class="updated_time"> 12:00 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/europe/europe-omicron-records-coronavirus-covid-19.html">Spurred by Omicron, Europe Is Setting Coronavirus Infection Records Every Day</a> NYT: The surge of cases is causing chaos as people scramble to obtain tests, businesses grapple with staff shortages and New Year’s festivities are thrown into question. 
+ <p class="updated_time"> 11:58 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 11:51 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/arts/design/smithsonian-museums-close-covid.html">Four Smithsonian Museums Close Amid Omicron Staff Shortages</a> NYT: The museums, which are smaller ones, will be closed through Sunday as the Smithsonian routes staff to more-visited outposts. 
@@ -45,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Roots for Its Patron Saint of Basketball</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
  <p class="updated_time"> 06:01 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59814661?at_medium=RSS&at_campaign=KARANGA">Covid: US reports record infections as Europe's Omicron cases also soar</a> BBC: Several nations see their biggest surge in daily infections as the WHO warns of Omicron's "very high" risk. 
- <p class="updated_time"> 04:25 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59816567?at_medium=RSS&at_campaign=KARANGA">Valentina Orellana-Peralta: US teen shot dead by police 'died in mother's arms'</a> BBC: The parents of a 14-year-old girl killed by a stray police bullet while shopping demand justice. 
  <p class="updated_time"> 04:05 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Independent outlet to close after senior staff arrested</a> BBC: Seven people linked to Stand News are arrested for "conspiracy to publish a seditious publication". 
  <p class="updated_time"> 04:01 AM CT, Dec. 29 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-south-africa.html">Even in Retirement, Desmond Tutu Remained South Africa’s Moral Compass</a> NYT: The Nobel laureate retired from public life over a decade ago, but he continued to advocate social justice, gay rights and environmentalism. 
  <p class="updated_time"> 03:07 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/middleeast/archbishop-tutu-cowell-recollection.html">The Time Archbishop Tutu Was Searched at the Airport</a> NYT: A former South Africa bureau chief for The Times recalls telling moments with the anti-apartheid religious leader. 
- <p class="updated_time"> 11:21 AM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/bts-covid-coronavirus.html">Two More Members of the K-Pop Band, BTS, Test Positive for Coronavirus</a> NYT: RM and Jin discovered they were infected a day after Suga got his diagnosis. All tested positive after returning to South Korea from the United States. 
 
 
 </details>
@@ -288,6 +288,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/28/politics/spirit-airlines-unruly-passenger/index.html">Tennessee woman charged after alleged assault and running to cabin door on Spirit flight</a> CNN: A Tennessee woman turned herself into the FBI on Tuesday after she was accused of assaulting two flight attendants during a Spirit Airlines flight last month, the Justice Department announced. 
  <p class="updated_time"> 12:59 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/flight-attendants-cdc-airline-quarantine-change-526213">Flight attendants fume as CDC gives airlines what they want on quarantine change</a> Politico: Just days before the CDC announced the change, the airline industry united to press for a shortened quarantine timeframe. 
+ <p class="updated_time"> 12:52 PM CT, Dec. 28 </p> 
+ <a href="https://www.politico.com/news/2021/12/28/trump-organization-pga-settlement-526207">Trump Organization and PGA reach settlement over 2022 championship dispute</a> Politico: No details were released, but the tournament still won’t be held at Bedminster as a result of the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:48 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/cdc-drops-omicron-prevalence-estimate-526210">CDC sharply drops estimate of Omicron prevalence in U.S.</a> Politico: The agency said the disparity was due to the rate with which the highly transmissible Omicron spread. 
  <p class="updated_time"> 12:12 PM CT, Dec. 28 </p> 
@@ -304,6 +306,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/27/fauci-domestic-flight-vaccine-mandate-526194">Fauci: ‘I don’t think people should expect’ a domestic flight vaccine mandate</a> Politico: “It’s on the table,” he added. “But that doesn’t mean it’s going to happen. I doubt if we’re going to see something like that in the reasonably foreseeable future.” 
  <p class="updated_time"> 05:25 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/sarah-weddington-dead.html">Sarah Weddington, Who Successfully Argued Roe v. Wade, Dies at 76</a> NYT: She went before the U.S. Supreme Court at 26 with almost no legal experience and won one of the most consequential cases in American history. 
+ <p class="updated_time"> 04:42 PM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/news/2021/12/27/cdc-cut-quarantine-covid-omicron-526187">CDC cuts recommended quarantine time amid Omicron surge</a> Politico: The reduction follows the CDC’s move last week to shorten its isolation period for infected health care workers, assuming they are asymptomatic and later test negative. 
  <p class="updated_time"> 04:20 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/biden-defense-bill.html">President Biden Signs $770 Billion Defense Bill</a> NYT: The National Defense Authorization Act passed Congress with bipartisan support, over the opposition of liberals pushing for more social spending. 
  <p class="updated_time"> 03:51 PM CT, Dec. 27 </p> 
