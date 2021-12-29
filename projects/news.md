@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:22 AM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Independent outlet to close after senior staff arrested</a> BBC: Six people linked to Stand News are arrested for "conspiracy to publish a seditious publication". 
  <p class="updated_time"> 03:12 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid News: U.S. Daily Record for Cases Is Broken</a> NYT: The seven-day average of U.S. cases topped 267,000 on Tuesday, with Washington, D.C., Maryland and Virginia particularly hard hit. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S. 
- <p class="updated_time"> 02:24 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Police arrest six from Hong Kong independent news outlet</a> BBC: Six people linked to Stand News were arrested for "conspiracy to publish a seditious publication". 
+ <p class="updated_time"> 03:06 AM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59808557?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo statue divides opinion in India</a> BBC: A brass statue of the Portuguese football star is installed in the western Goa state. 
  <p class="updated_time"> 02:04 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59814661?at_medium=RSS&at_campaign=KARANGA">Covid: US reports record infections as Europe's Omicron cases also soar</a> BBC: Several nations see their biggest surge in daily infections as the WHO warns of Omicron's "very high" risk. 
  <p class="updated_time"> 01:35 AM CT, Dec. 29 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/omicron-covid-contagious-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
  <p class="updated_time"> 03:11 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/india-mother-teresa-charity-crackdown.html">India Cuts Off Foreign Funding of Mother Teresa’s Charity</a> NYT: The move is part of a tightening of rules on organizations financed by donations from abroad and comes amid a rise in attacks on religious minorities. 
- <p class="updated_time"> 02:35 PM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59808888?at_medium=RSS&at_campaign=KARANGA">Israel tries to contain avian flu outbreak after 5,000 wild cranes die</a> BBC: Some 5,000 wild cranes have died and hundreds of thousands of chickens and turkeys are being culled. 
  <p class="updated_time"> 02:29 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/refugees-afghanistan-pakistan.html">Born and Raised in Pakistan, but Living in Legal Limbo</a> NYT: Pakistan has refused to grant the children of Afghan refugees full rights as citizens. A lack of identification documents limits their livelihoods and puts them at risk of deportation. 
  <p class="updated_time"> 02:12 PM CT, Dec. 28 </p> 
