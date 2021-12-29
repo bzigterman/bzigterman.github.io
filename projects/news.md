@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:58 PM CT, Dec. 29 </p> 
+ <p class="updated_time"> 04:11 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City Struggles to Keep Running Under Omicron</a> NYT: Average global cases reach a new high, and many Europeans are scrambling for tests. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
+ <p class="updated_time"> 04:04 PM CT, Dec. 29 </p> 
+ <a href="https://www.npr.org/2021/12/29/1068895510/thousands-are-displaced-in-brazil-after-weeks-of-flooding-in-bahia-state">Thousands are displaced in Brazil after weeks of flooding in Bahia state</a> NPR: NPR's Ari Shapiro speaks with Gram Slattery, Brazil correspondent for Reuters, about the deadly flooding currently happening in the northeastern state of Bahia, Brazil. 
+ <p class="updated_time"> 04:04 PM CT, Dec. 29 </p> 
+ <a href="https://www.npr.org/2021/12/29/1068895496/hong-kong-police-close-pro-democracy-outlet-stand-news">Hong Kong police close pro-democracy outlet Stand News</a> NPR: In Hong Kong, authorities from the police's national security department arrested half a dozen senior staff members, confiscated boxes and closed one of the last pro-democracy outlets, Stand News. 
  <p class="updated_time"> 03:44 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59823632?at_medium=RSS&at_campaign=KARANGA">Berlin Zoo animals feast on unsold Christmas trees</a> BBC: The trees are seen as a way to minimise waste and support zoos during the Covid pandemic. 
  <p class="updated_time"> 03:22 PM CT, Dec. 29 </p> 
@@ -169,10 +173,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59761535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Children in Kabul working for a piece of bread</a> BBC: More and more Afghan children are having to work to support their families, amidst an economic collapse. 
  <p class="updated_time"> 03:53 PM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/27/1068298117/-17-trillion-thats-how-much-the-pandemic-could-take-away-from-todays-kids">$17 trillion: That's how much the pandemic could take away from today's kids</a> NPR: A new report from UNESCO estimates the potential lifetime earnings lost to the world's children due to school closings. But there are ways to prevent this from happening. 
- <p class="updated_time"> 03:46 PM CT, Dec. 27 </p> 
- <a href="https://www.npr.org/2021/12/27/1068335033/a-look-back-at-afghanistans-last-year">A look back at Afghanistan's last year</a> NPR: At the start of 2021, people knew that President Biden had promised to end the war in Afghanistan. They did not know how it would conclude. 
- <p class="updated_time"> 03:46 PM CT, Dec. 27 </p> 
- <a href="https://www.npr.org/2021/12/27/1068335005/the-james-webb-space-telescope-is-on-its-trek-to-a-spot-a-million-miles-from-ear">The James Webb Space Telescope is on its trek to a spot a million miles from Earth</a> NPR: The James Webb Space Telescope is on its ways to its parking place a million miles from Earth. What do scientists plan to do with it once it is operational? 
  <p class="updated_time"> 01:00 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/africa/somalia-prime-minister-suspended.html">Somalia’s President Suspends Prime Minister Over Corruption Allegations</a> NYT: The premier, Mohamed Hussein Roble, defied the order to step down as tensions continued over long-delayed elections. 
  <p class="updated_time"> 11:23 AM CT, Dec. 27 </p> 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:15 PM CT, Dec. 29 </p> 
+ <a href="https://www.politico.com/news/2021/12/29/ghislaine-maxwell-convicted-in-epstein-sex-abuse-case-526252">Ghislaine Maxwell convicted in Epstein sex abuse case</a> Politico: She faces the likelihood of years in prison. 
  <p class="updated_time"> 04:09 PM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/republicans-luring-john-james-house-526250">National Republicans luring John James into House race</a> Politico: Republicans anticipate James, one of their most coveted 2022 recruits, will run for Congress next year after Michigan's new district map was finalized. 
  <p class="updated_time"> 03:38 PM CT, Dec. 29 </p> 
@@ -298,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1067460165/colorados-first-lawmaker-to-use-a-wheelchair-will-finally-get-to-wield-the-gavel">Colorado's first lawmaker to use a wheelchair will finally get to wield the gavel</a> NPR: State Rep. David Ortiz was paralyzed from the waist down while serving in Afghanistan. To give him access to the House podium, legislative staff say they have built the first lift of its kind. 
  <p class="updated_time"> 04:00 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1067206141/biden-federal-judges-nominations-diverse">Biden had a productive year picking federal judges. The job could get tougher in 2022</a> NPR: President Biden has gotten a diverse group of 40 federal judges confirmed in 2021, the most for a new president since the Reagan era. 
- <p class="updated_time"> 07:26 PM CT, Dec. 27 </p> 
- <a href="https://www.politico.com/news/2021/12/27/fauci-domestic-flight-vaccine-mandate-526194">Fauci: ‘I don’t think people should expect’ a domestic flight vaccine mandate</a> Politico: “It’s on the table,” he added. “But that doesn’t mean it’s going to happen. I doubt if we’re going to see something like that in the reasonably foreseeable future.” 
  <p class="updated_time"> 05:25 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/sarah-weddington-dead.html">Sarah Weddington, Who Successfully Argued Roe v. Wade, Dies at 76</a> NYT: She went before the U.S. Supreme Court at 26 with almost no legal experience and won one of the most consequential cases in American history. 
  <p class="updated_time"> 04:42 PM CT, Dec. 27 </p> 
