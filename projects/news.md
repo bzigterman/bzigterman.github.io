@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:44 PM CT, Dec. 29 </p> 
+ <p class="updated_time"> 02:51 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City Struggles to Keep Running Under Omicron</a> NYT: Average global cases reach a new high, and many Europeans are scrambling for tests. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 02:39 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/americas/brazil-floods-climate-change.html">Brazil Flooding Kills at Least 20 and Displaces Thousands</a> NYT: In northeast Brazil, local officials say they have never before seen flooding on this scale. Tens of thousands were forced to flee their homes. 
