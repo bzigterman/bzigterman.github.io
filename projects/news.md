@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:43 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59822209?at_medium=RSS&at_campaign=KARANGA">Covid: Omicron and Delta driving tsunami of cases - WHO</a> BBC: The warning comes as record cases are once again reported across the US and Europe. 
  <p class="updated_time"> 04:11 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City Struggles to Keep Running Under Omicron</a> NYT: Average global cases reach a new high, and many Europeans are scrambling for tests. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 04:04 PM CT, Dec. 29 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/europe/europe-omicron-infection-record-covid.html">Spurred by Omicron, Europe Sets Covid Infection Records Every Day</a> NYT: The surge of cases is causing chaos as people scramble to obtain tests, businesses grapple with staff shortages and New Year’s festivities are thrown into question. 
  <p class="updated_time"> 02:39 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/americas/brazil-floods-climate-change.html">Brazil Flooding Kills at Least 20 and Displaces Thousands</a> NYT: In northeast Brazil, local officials say they have never before seen flooding on this scale. Tens of thousands were forced to flee their homes. 
- <p class="updated_time"> 02:27 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-59822209?at_medium=RSS&at_campaign=KARANGA">Covid: Omicron and Delta driving tsunami of cases - WHO</a> BBC: The warning comes as record cases are once again reported across the US and Europe. 
  <p class="updated_time"> 02:12 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/us-covid-case-record-omicron.html">U.S. Coronavirus Cases Set New Records</a> NYT: As a third year of the pandemic loomed, the seven-day average of U.S. cases topped 267,000 on Tuesday. 
  <p class="updated_time"> 01:43 PM CT, Dec. 29 </p> 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:15 PM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/ghislaine-maxwell-convicted-in-epstein-sex-abuse-case-526252">Ghislaine Maxwell convicted in Epstein sex abuse case</a> Politico: She faces the likelihood of years in prison. 
+ <p class="updated_time"> 04:46 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/us/politics/omicron-tests-hospitals.html">Federal Officials Say Early Omicron Data Suggests a Less Deadly Wave</a> NYT: Dr. Rochelle P. Walensky and Dr. Anthony S. Fauci cautioned that hospitalizations and deaths could be lagging behind case counts. 
  <p class="updated_time"> 04:09 PM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/republicans-luring-john-james-house-526250">National Republicans luring John James into House race</a> Politico: Republicans anticipate James, one of their most coveted 2022 recruits, will run for Congress next year after Michigan's new district map was finalized. 
  <p class="updated_time"> 03:38 PM CT, Dec. 29 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/us/politics/guantanamo-judge-quits.html">Another Judge Quits Guantánamo Case</a> NYT: No new judge has been named to preside in the trial of a Qaeda commander, which has had four judges in seven years. 
  <p class="updated_time"> 04:47 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/als-research-biden-bill-signing/index.html">Biden says bipartisan legislation funding ALS research 'represents the spirit of the season' </a> CNN: President Joe Biden on Thursday signed into law bipartisan legislation that expands funding for amyotrophic lateral sclerosis research, hailing it as in "the spirit of the season." 
- <p class="updated_time"> 02:12 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/us/politics/kamala-harris-biden-administration.html">Kamala Harris’s Allies Express Concern: Is She an Afterthought?</a> NYT: The vice president’s allies are increasingly concerned that President Biden relied on her to win but does not need her to govern. 
  <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
  <p class="updated_time"> 11:30 AM CT, Dec. 23 </p> 
