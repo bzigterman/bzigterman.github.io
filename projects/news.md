@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:21 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: Virus Hammers U.S. Mid-Atlantic Region</a> NYT: Washington, D.C., Maryland and Virginia broke records on Monday, reporting their highest case counts of the pandemic. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S., from about 73 percent to 23 percent for the week ending Dec. 18, and now says Omicron became dominant the following week. 
+ <p class="updated_time"> 08:20 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Daily Record for Cases Is Broken</a> NYT: The seven-day average of U.S. cases topped 267,000 on Tuesday, with Washington, D.C., Maryland and Virginia particularly hard hit. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S. 
+ <p class="updated_time"> 08:17 PM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Police arrest six from Hong Kong independent news outlet</a> BBC: The six staff members were arrested on charges of "conspiracy to publish a seditious publication". 
+ <p class="updated_time"> 07:54 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/asia/hong-kong-stand-news-arrest.html">Hong Hong Police Raid Stand News and Arrest Staff</a> NYT: Six current or former senior staff members of Stand News were arrested on suspicion of conspiring to publish seditious material. More than 200 officers raided the news site’s headquarters. 
  <p class="updated_time"> 07:21 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/arts/hugh-jackman-covid-the-music-man.html">Hugh Jackman Announces He Has Covid-19</a> NYT: The show joins other productions that have been suspended, including the Temptations musical “Ain’t Too Proud,” which will close for good on Jan. 16. 
  <p class="updated_time"> 07:19 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59814542?at_medium=RSS&at_campaign=KARANGA">John Madden: Legendary NFL coach and commentator dies at 85</a> BBC: John Madden, the much-loved American football coach and commentator, has died aged 85. 
  <p class="updated_time"> 07:12 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/health/covid-isolation-period-omicron.html">Will Shortened Isolation Periods Without Testing Spread the Virus?</a> NYT: Without rapid testing, some experts fear new U.S. guidelines may mean infected people leave isolation while still contagious. The C.D.C. director said masking was a better option. 
+ <p class="updated_time"> 07:04 PM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59760356?at_medium=RSS&at_campaign=KARANGA">Biodiversity: The tale of the 'un-extinct' fish</a> BBC: A Mexican fish species has been "brought back from extinction" after a decades-long rescue mission. 
  <p class="updated_time"> 06:32 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59810713?at_medium=RSS&at_campaign=KARANGA">Covid: Europe sees record virus case rise</a> BBC: Italy, Greece and Portugal all also announced their highest daily case totals on Tuesday. 
  <p class="updated_time"> 06:24 PM CT, Dec. 28 </p> 
@@ -79,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59813216?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu's daughter: 'Daddy was a hugger'</a> BBC: Nontombi Naomi Tutu says her father "went to meet his God, ready and willing". 
  <p class="updated_time"> 11:18 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1068500102/india-blocks-foreign-funding-for-mother-teresas-charity">India blocks foreign funding for Mother Teresa's charity</a> NPR: The Indian government says it has refused to renew a permit that allows the Missionaries of Charity to use foreign funds to operate orphanages and hospices across the country. 
- <p class="updated_time"> 11:14 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59810706?at_medium=RSS&at_campaign=KARANGA">Myanmar: Save the Children says army attack killed staff</a> BBC: The charity says two of its workers, both new fathers, are among the 35 bodies found on 24 December. 
  <p class="updated_time"> 10:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/windsor-castle-intruder.html">Britain’s Crossbow Rules in the Cross Hairs After Windsor Castle Breach</a> NYT: Britain’s Home Office said it was “considering options to strengthen controls” on the weapons, part of a continuing review, after a man was arrested in castle grounds with one. 
  <p class="updated_time"> 10:16 AM CT, Dec. 28 </p> 
@@ -202,6 +206,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
+ <p class="updated_time"> 08:17 PM CT, Dec. 28 </p> 
+ <a href="https://www.politico.com/news/2021/12/28/appeals-court-says-new-york-times-can-temporarily-keep-project-veritas-documents-526229">Appeals court rules New York Times can temporarily keep Project Veritas documents</a> Politico: The paper is still not allowed to publish the materials, upholding a key part of last week’s order. 
+ <p class="updated_time"> 08:17 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, a Power in the Senate, Dies at 82</a> NYT: Mr. Reid, a Democrat from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
+ <p class="updated_time"> 07:58 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/gallery/harry-reid/index.html">In pictures: Former US Sen. Harry Reid</a> CNN: Former Nevada Senator Harry Reid has died at the age of 82, according to a statement released on Tuesday by his wife Landra Reid. 
+ <p class="updated_time"> 07:54 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/harry-reid-dies/index.html">Harry Reid, longtime US senator and former Democratic leader, dies at 82</a> CNN: Harry Reid, the scrappy former Democratic Senate leader who spearheaded epic legislative battles through three decades in Congress, has died at the age of 82, according to a statement from his wife, Landra Reid. 
  <p class="updated_time"> 07:42 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/john-madden-coach-broadcaster-dies-526230">John Madden, Hall of Fame coach and broadcaster, dies at 85</a> Politico: The NFL said he died unexpectedly and did not detail a cause. 
  <p class="updated_time"> 07:25 PM CT, Dec. 28 </p> 
@@ -350,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/24/biden-social-spending-senate-parliamentarian-526081">Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</a> Politico: The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan. 
  <p class="updated_time"> 08:55 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/mary-gay-scanlon-hijacking-suspect-charged/index.html">19-year-old charged in armed carjacking incident involving Democratic lawmaker</a> CNN: Federal prosecutors have charged a Delaware man with carjacking Democratic Rep. Mary Gay Scanlon of Pennsylvania and using a firearm during a crime of violence, the Justice Department announced Thursday. 
- <p class="updated_time"> 07:59 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/georgia-election-workers-lawsuit-rudy-giuliani-one-america-news/index.html">Two Georgia election workers sue Giuliani and One America News, claiming election lies prompted severe harassment </a> CNN: Two Georgia election workers are accusing right-wing TV network One America News and former Trump lawyer and pundit Rudy Giuliani of destroying their reputations and prompting Trump supporters to harass them -- filling their lives with fear -- because of false claims of election fraud in 2020. 
  <p class="updated_time"> 06:58 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/georgia-poll-workers-sue-giuliani-oan-526122">2 Georgia poll workers sue Giuliani, OAN over election conspiracy theories</a> Politico: Ruby Freeman and Shaye Moss, her daughter, worked as poll workers counting ballots at State Farm Arena in Fulton County, Ga., during the November 2020 election. 
  <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
@@ -374,12 +384,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
  <p class="updated_time"> 12:27 PM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/trump-supreme-court-january-six-526050">Trump asks Supreme Court to shield records from Jan. 6 committee</a> Politico: In a reply Thursday afternoon, the House asked the court to expedite consideration of the case. 
- <p class="updated_time"> 11:45 AM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/nyregion/cyrus-vance-donald-trump.html">Trump Fraud Inquiry Won’t Be Resolved When Vance’s Term Ends Next Week</a> NYT: After leading a three-year investigation into the former president, the Manhattan district attorney, Cyrus R. Vance Jr., will hand it to his successor. 
  <p class="updated_time"> 11:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/dccc-partnership-campaign-staff-diversity-526041">DCCC launching partnership to boost campaign staff diversity</a> Politico: House Democrats' campaign arm is partnering with Blue Leadership Collaborative to recruit and retain people of color, women and people who identify as queer as senior staff. 
- <p class="updated_time"> 07:41 AM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/joe-biden-filibuster-voting-rights/index.html">Biden says he supports filibuster carve-out for voting rights</a> CNN: President Joe Biden says he supports making an exception to the Senate filibuster rules in order to pass voting rights legislation. 
  <p class="updated_time"> 07:09 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/23/senate-candidates-trade-house-toil-for-celeb-launchpad-495547">Senate candidates trade House toil for celeb launchpad</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Dec. 23 </p> 
