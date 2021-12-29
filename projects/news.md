@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:25 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Case Records Are Shattered as Delta and Omicron Converge</a> NYT: Hospitalizations and deaths are also rising, but remain far below earlier peaks. The Washington, Maryland and Virginia region is a focal point of the Omicron outbreak. 
  <p class="updated_time"> 05:10 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">Russian Court Orders 2nd Ban of a Major Human Rights Group in 2 Days</a> NYT: Critics of the government said the rulings capped a year of erosion of civil rights and media freedoms in the country. 
  <p class="updated_time"> 04:43 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
  <p class="updated_time"> 04:25 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59816567?at_medium=RSS&at_campaign=KARANGA">Valentina Orellana-Peralta: US teen shot dead by police 'died in mother's arms'</a> BBC: The parents of a 14-year-old girl killed by a stray police bullet while shopping demand justice. 
- <p class="updated_time"> 04:13 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid News: U.S. Daily Record for Cases Is Broken</a> NYT: The seven-day average of U.S. cases topped 267,000 on Tuesday, with Washington, D.C., Maryland and Virginia particularly hard hit. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S. 
  <p class="updated_time"> 04:05 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Independent outlet to close after senior staff arrested</a> BBC: Seven people linked to Stand News are arrested for "conspiracy to publish a seditious publication". 
  <p class="updated_time"> 04:01 AM CT, Dec. 29 </p> 
@@ -195,9 +195,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:15 AM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/redistricting-race-blind-maps-texas-north-carolina/index.html">'They know where Black voters live': Challengers say 'race blind' redistricting maps are anything but</a> CNN: In states like Texas and North Carolina, Republican lawmakers in charge of redrawing the political maps for the next decade say that the new plans are "race blind." Their opponents in court say that the claim is implausible and one that, in some situations, is at odds with the Voting Rights Act. 
  <p class="updated_time"> 04:08 AM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/29/1068701969/remembering-harry-reid-ex-democratic-senate-leader-who-has-died">Remembering Harry Reid, ex-Democratic Senate leader, who has died</a> NPR: Former Senator Harry Reid has died at age 82. NPR's Sarah McCammon talks to Faiz Shakir, a former adviser to Reid, about his legacy. 
- <p class="updated_time"> 04:08 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068704775/former-democratic-senate-leader-harry-reid-has-died-at-age-82">Former Democratic Senate leader Harry Reid has died at age 82</a> NPR: The Nevada Democrat, a one-time amateur boxer who brought a pugilist approach to politics, died Tuesday afternoon after a four-year battle with pancreatic cancer. 
+ <p class="updated_time"> 04:08 AM CT, Dec. 29 </p> 
+ <a href="https://www.npr.org/2021/12/29/1068701969/remembering-harry-reid-ex-democratic-senate-leader-who-has-died">Remembering Harry Reid, ex-Democratic Senate leader, who died at 82</a> NPR: NPR's Sarah McCammon talks to Faiz Shakir, a former senior adviser to Harry Reid, about the late senator's legacy. The Nevada Democrat died of cancer Tuesday. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068384409/insurrection-abortion-voting-climate-afghanistan-trump-biden-2021-stories">From the Capitol riot to abortion rights, here are the top political stories of 2021</a> NPR: As we count down to the New Year, we asked our readers what they thought were the top political stories of 2021. Here's what they picked. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
