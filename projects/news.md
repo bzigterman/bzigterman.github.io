@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:32 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Daily Record for Cases Is Broken</a> NYT: The seven-day average of U.S. cases topped 267,000 on Tuesday, with Washington, D.C., Maryland and Virginia particularly hard hit. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S. 
  <p class="updated_time"> 09:07 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Police arrest six from Hong Kong independent news outlet</a> BBC: The six staff members were arrested on charges of "conspiracy to publish a seditious publication". 
- <p class="updated_time"> 08:55 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Daily Record for Cases Is Broken</a> NYT: The seven-day average of U.S. cases topped 267,000 on Tuesday, with Washington, D.C., Maryland and Virginia particularly hard hit. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S. 
  <p class="updated_time"> 08:37 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Six current or former senior staff members of Stand News were arrested on suspicion of conspiring to publish seditious material. More than 200 officers raided the news site’s headquarters. 
  <p class="updated_time"> 08:36 PM CT, Dec. 28 </p> 
@@ -194,6 +194,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:36 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/harry-reid-dies/index.html">Harry Reid, longtime US senator and former Democratic leader, dies at 82</a> CNN: Harry Reid, the scrappy former Democratic Senate leader who spearheaded epic legislative battles through three decades in Congress, has died at the age of 82, according to a statement from his wife, Landra Reid. 
+ <p class="updated_time"> 09:36 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, Senate Majority Leader Behind Landmark Democratic Victories, Dies at 82</a> NYT: Mr. Reid, who was from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
  <p class="updated_time"> 09:00 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/january-6-committee-trump-documents/index.html">January 6 panel stands down on request for some Trump documents after pushback from Biden administration</a> CNN: The House select committee investigating January 6 has stood down on its requests for some documents from the Trump White House, after the Biden administration convinced the panel to scale back its pursuits. 
  <p class="updated_time"> 08:58 PM CT, Dec. 28 </p> 
@@ -204,12 +208,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/28/politics/january-6-portland-unrest-compare-judges/index.html">Two Trump-appointed judges reject comparisons between January 6 and Portland political unrest</a> CNN: Two Trump-appointed federal judges have rejected claims from January 6 defendants that they're being treated unfairly, because of their conservative politics, compared with left-leaning rioters in Portland, Oregon, in the summer of 2020. 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
- <p class="updated_time"> 08:18 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/harry-reid-dies/index.html">Harry Reid, longtime US senator and former Democratic leader, dies at 82</a> CNN: Harry Reid, the scrappy former Democratic Senate leader who spearheaded epic legislative battles through three decades in Congress, has died at the age of 82, according to a statement from his wife, Landra Reid. 
  <p class="updated_time"> 08:17 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/appeals-court-says-new-york-times-can-temporarily-keep-project-veritas-documents-526229">Appeals court rules New York Times can temporarily keep Project Veritas documents</a> Politico: The paper is still not allowed to publish the materials, upholding a key part of last week’s order. 
- <p class="updated_time"> 08:17 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, a Power in the Senate, Dies at 82</a> NYT: Mr. Reid, a Democrat from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
  <p class="updated_time"> 07:58 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/gallery/harry-reid/index.html">In pictures: Former US Sen. Harry Reid</a> CNN: Former Nevada Senator Harry Reid has died at the age of 82, according to a statement released on Tuesday by his wife Landra Reid. 
  <p class="updated_time"> 07:42 PM CT, Dec. 28 </p> 
