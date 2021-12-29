@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:54 AM CT, Dec. 29 </p> 
+ <a href="https://www.npr.org/2021/12/29/1068696336/hong-kong-police-raid-pro-democracy-news-outlet-arrest-6">Hong Kong police raid pro-democracy news outlet, arrest 6</a> NPR: Hong Kong police raided the office of an online pro-democracy news outlet Wednesday after arresting six people for conspiracy to publish a seditious publication in a continuing crackdown on dissent. 
  <p class="updated_time"> 12:19 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: The current or former senior staff members of Stand News were held on suspicion of conspiring to publish seditious material. More than 200 officers raided the news site’s headquarters. 
  <p class="updated_time"> 12:06 AM CT, Dec. 29 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/world/carnival-cruise-covid.html">Carnival Cruise Ship Returns to Miami With 'Small Number' of Covid Cases</a> NYT: The Carnival Freedom is the latest Florida cruise ship to be disrupted by the coronavirus as the Omicron variant drives up cases in the U.S. 
  <p class="updated_time"> 06:02 AM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068215624/myanmar-court-postpones-verdicts-in-second-case-against-suu-kyi">Myanmar court postpones verdicts in second case against Suu Kyi</a> NPR: The case is among many brought against the 76-year-old Nobel Peace Prize laureate since the army seized power on Feb. 1. 
- <p class="updated_time"> 05:01 AM CT, Dec. 27 </p> 
- <a href="https://www.npr.org/2021/12/27/1068208287/omicron-surge-sets-records-as-flight-disruptions-continue">Omicron surge sets records as flight disruptions continue</a> NPR: More than 1,400 flights canceled worldwide Monday, adding to thousands canceled over the Christmas weekend. And across the country, long lines continued at COVID-19 testing sites. 
  <p class="updated_time"> 04:35 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/college-football-bowl-games-covid.html">Two College Bowl Games Are Canceled Because of Covid Cases</a> NYT: The Fenway and Military Bowls were scrapped when teams didn’t have enough healthy players to take the field. One team pulled out of the Sun Bowl. 
  <p class="updated_time"> 03:48 AM CT, Dec. 27 </p> 
@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:54 AM CT, Dec. 29 </p> 
+ <a href="https://www.npr.org/2021/12/29/1068696336/hong-kong-police-raid-pro-democracy-news-outlet-arrest-6">Hong Kong police raid pro-democracy news outlet, arrest 6</a> NPR: Hong Kong police raided the office of an online pro-democracy news outlet Wednesday after arresting six people for conspiracy to publish a seditious publication in a continuing crackdown on dissent. 
  <p class="updated_time"> 10:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, Senate Majority Leader Behind Landmark Democratic Victories, Dies at 82</a> NYT: Mr. Reid, who was from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
  <p class="updated_time"> 10:11 PM CT, Dec. 28 </p> 
@@ -334,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/24/us/elections/democrats-state-elections.html">Democrats Say They Are Serious About State Elections. But Are They Too Late?</a> NYT: State-level races are becoming a central focus of American politics as the lasting effects of new congressional maps and election laws raise the stakes. 
  <p class="updated_time"> 03:41 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/us/politics/covid-school-reopening-teen-mental-health.html">The Students Returned, but the Fallout From a Long Disruption Remained</a> NYT: “They’re like, ‘The world’s out of control, why should I be in control?’” the principal of Liberty High School in Bethlehem, Pa., said of some of his struggling students. 
- <p class="updated_time"> 03:29 PM CT, Dec. 24 </p> 
- <a href="https://www.npr.org/2021/12/24/1067889618/encore-lies-betrayal-and-competition-as-lawmakers-deck-the-halls-of-congress">Encore: Lies, betrayal and competition as lawmakers deck the halls of Congress</a> NPR: Forget the Build Back Better bill or the Jan. 6 investigation. Right now, some members of Congress seem to be more focused on the holiday decorations outside their Capitol Hill offices. 
  <p class="updated_time"> 12:21 PM CT, Dec. 24 </p> 
  <a href="https://www.cnn.com/2021/12/24/politics/january-6-video-capitol-hill-riot/index.html">New January 6 video shows three hours of violent and chaotic assault on police </a> CNN: The Justice Department this week released a three-hour video of a battle between rioters and the police at the US Capitol Building on January 6 where rioters brandished weapons, officers were viciously beaten, and a member of the mob died on Capitol steps. 
  <p class="updated_time"> 10:36 AM CT, Dec. 24 </p> 
