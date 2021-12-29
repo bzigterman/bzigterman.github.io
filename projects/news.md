@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:04 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-59814661?at_medium=RSS&at_campaign=KARANGA">Covid: US reports record infections as Europe's Omicron cases also soar</a> BBC: Highest daily infections rise in several countries as the WHO warns of "very high" risk from Omicron. 
- <p class="updated_time"> 01:38 AM CT, Dec. 29 </p> 
+ <p class="updated_time"> 02:24 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Police arrest six from Hong Kong independent news outlet</a> BBC: Six people linked to Stand News were arrested for "conspiracy to publish a seditious publication". 
+ <p class="updated_time"> 02:04 AM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59814661?at_medium=RSS&at_campaign=KARANGA">Covid: US reports record infections as Europe's Omicron cases also soar</a> BBC: Several nations see their biggest surge in daily infections as the WHO warns of Omicron's "very high" risk. 
  <p class="updated_time"> 01:35 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59814542?at_medium=RSS&at_campaign=KARANGA">John Madden: NFL coach, broadcaster and video game icon dies at 85</a> BBC: John Madden, legendary American Football coach, broadcaster and face of Madden NFL Football has died. 
  <p class="updated_time"> 12:54 AM CT, Dec. 29 </p> 
