@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:20 PM CT, Dec. 28 </p> 
+ <p class="updated_time"> 08:40 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Daily Record for Cases Is Broken</a> NYT: The seven-day average of U.S. cases topped 267,000 on Tuesday, with Washington, D.C., Maryland and Virginia particularly hard hit. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S. 
+ <p class="updated_time"> 08:37 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/asia/hong-kong-stand-news-arrest.html">Hong Hong Police Raid Stand News and Arrest Staff</a> NYT: Six current or former senior staff members of Stand News were arrested on suspicion of conspiring to publish seditious material. More than 200 officers raided the news site’s headquarters. 
+ <p class="updated_time"> 08:36 PM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59814571?at_medium=RSS&at_campaign=KARANGA">Boeing 737 Max: Indonesia lifts ban after 2018 Lion Air crash</a> BBC: The announcement came just a day after Ethiopian Airlines said it would resume 737 Max flights. 
+ <p class="updated_time"> 08:30 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/europe/russia-memorial-human-rights.html">Russian Court Orders Liquidation of the Human Rights Group Memorial </a> NYT: The Supreme Court ruled that Memorial International, which chronicled political repression in Russia, must be liquidated. 
+ <p class="updated_time"> 08:30 PM CT, Dec. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59810713?at_medium=RSS&at_campaign=KARANGA">Covid: Europe sees record virus case rise</a> BBC: Italy, Greece and Portugal all also announced their highest daily case totals on Tuesday. 
  <p class="updated_time"> 08:17 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807734?at_medium=RSS&at_campaign=KARANGA">Stand News: Police arrest six from Hong Kong independent news outlet</a> BBC: The six staff members were arrested on charges of "conspiracy to publish a seditious publication". 
- <p class="updated_time"> 07:54 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/asia/hong-kong-stand-news-arrest.html">Hong Hong Police Raid Stand News and Arrest Staff</a> NYT: Six current or former senior staff members of Stand News were arrested on suspicion of conspiring to publish seditious material. More than 200 officers raided the news site’s headquarters. 
  <p class="updated_time"> 07:21 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/arts/hugh-jackman-covid-the-music-man.html">Hugh Jackman Announces He Has Covid-19</a> NYT: The show joins other productions that have been suspended, including the Temptations musical “Ain’t Too Proud,” which will close for good on Jan. 16. 
  <p class="updated_time"> 07:19 PM CT, Dec. 28 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/health/covid-isolation-period-omicron.html">Will Shortened Isolation Periods Without Testing Spread the Virus?</a> NYT: Without rapid testing, some experts fear new U.S. guidelines may mean infected people leave isolation while still contagious. The C.D.C. director said masking was a better option. 
  <p class="updated_time"> 07:04 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59760356?at_medium=RSS&at_campaign=KARANGA">Biodiversity: The tale of the 'un-extinct' fish</a> BBC: A Mexican fish species has been "brought back from extinction" after a decades-long rescue mission. 
- <p class="updated_time"> 06:32 PM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59810713?at_medium=RSS&at_campaign=KARANGA">Covid: Europe sees record virus case rise</a> BBC: Italy, Greece and Portugal all also announced their highest daily case totals on Tuesday. 
  <p class="updated_time"> 06:24 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/quebec-health-workers-positive-covid.html">Some Infected Quebec Health Care Workers can Continue Working</a> NYT: All essential workers in the province, including those who work in medicine, will be subject to the new rules. 
  <p class="updated_time"> 06:15 PM CT, Dec. 28 </p> 
@@ -35,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59762809?at_medium=RSS&at_campaign=KARANGA">Fighting to learn in Venezuela</a> BBC: Despite the country's continuing economic crisis, both pupils and teachers are determined to continue with schooling. 
  <p class="updated_time"> 05:55 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
- <p class="updated_time"> 05:45 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/europe/russia-memorial-human-rights.html">Russian Court Orders Liquidation of the Human Rights Group Memorial </a> NYT: The Supreme Court ruled that Memorial International, which chronicled political repression in Russia, must be liquidated. 
  <p class="updated_time"> 05:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/health/covid-omicron-antibodies-delta.html">Omicron Variant May Help Beat Delta, Study Suggests</a> NYT: In the lab, antibodies produced during an Omicron infection protected against Delta. If Omicron dominates in the real world, that could lead to a less dire future. 
  <p class="updated_time"> 04:47 PM CT, Dec. 28 </p> 
@@ -57,6 +59,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1068587810/russias-supreme-court-shuts-down-human-rights-group-that-preserved-history">Russia's Supreme Court shuts down human rights group that preserved history</a> NPR: For decades, the Russian human rights group Memorial has tried to preserve the story of the Soviet Union's darkest years. The country's high court ordered it closed Tuesday. 
  <p class="updated_time"> 03:23 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile Rewrites Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
+ <p class="updated_time"> 03:21 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/new-years-eve-covid.html">New Year's Eve Parties Are Scaled Back Worldwide</a> NYT: New York City, London, Tokyo and New Delhi are among the cities where major gatherings have been curtailed or canceled as Omicron spreads. 
  <p class="updated_time"> 03:14 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/omicron-covid-contagious-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
  <p class="updated_time"> 03:11 PM CT, Dec. 28 </p> 
@@ -97,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/russian-court-orders-countrys-oldest-human-rights-group-to-close-11640714322">Russian Court Orders Prominent Human Rights Group to Close</a> WSJ: The ruling against International Memorial comes as President Vladimir Putin squeezes space for dissent. 
  <p class="updated_time"> 07:14 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1067207363/2021-top-stories-international-npr-correspondents-recommend">These are the top stories NPR's correspondents around the world recommend from 2021</a> NPR: We asked the network's international journalists to pick one story from the year you should check out. Here are their selections. 
- <p class="updated_time"> 06:13 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59791765?at_medium=RSS&at_campaign=KARANGA">France shuts mosque in Beauvais for sermons 'defending jihad'</a> BBC: An imam in the northern town of Beauvais was accused of inciting hatred and violence in his preaching. 
  <p class="updated_time"> 05:09 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/27/world/middleeast/saudi-arabia-films-movies.html">As Other Arab States Falter, Saudi Arabia Seeks to Become a Cultural Hub</a> NYT: While conflicts and crises have battered Arab cultural capitals, Saudi Arabia is hosting film festivals and bankrolling new movies. 
  <p class="updated_time"> 04:38 AM CT, Dec. 28 </p> 
@@ -183,20 +185,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/26/1068101250/save-the-children-staff-myanmar">Save the Children says 2 staffers are missing after a massacre in Myanmar</a> NPR: A massacre in Myanmar that left more than 30 people, including women and children, dead and burned in their vehicles after they were reportedly shot by government troops as they were fleeing combat. 
  <p class="updated_time"> 10:30 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/world/europe/afghans-netherlands-migrants.html">After Chaotic Evacuation, Afghans in the Netherlands Struggle to Find Stability</a> NYT: Many Afghans evacuated to the Netherlands have been living in tents for months, as they prepare to resettle in a Europe that is wrangling with a heated debate about immigration. 
- <p class="updated_time"> 09:06 AM CT, Dec. 26 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/europe/alfredo-lupi-janitor-italy.html">A Janitor’s Colleagues Put Him on the Fast Track to Retirement</a> NYT: An Italian factory worker was dealing with a lifelong impairment that made it hard to work, but he wasn’t in a position to retire. Then his co-workers gave him 20 months’ worth of vacation days. 
  <p class="updated_time"> 04:00 AM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/insider/in-congo-bolivia-and-beyond-where-the-green-future-begins.html">In Congo, Bolivia and Beyond, Where the Green Future Begins</a> NYT: The Times’s Race to the Future series is focused on the competition for electric-car resources that will shape the 21st century. 
- <p class="updated_time"> 05:28 PM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/americas/el-salvador-abortion-bukele.html">El Salvador Releases 3 Women Serving Long Prison Sentences for Abortions</a> NYT: The three women, who had suffered obstetric emergencies, had been sentenced to 30 years in prison under the nation’s strict anti-abortion laws. 
- <p class="updated_time"> 04:36 PM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/india-vaccine-boosters.html">India to Expand Vaccinations and Begin Boosters to Fight Omicron</a> NYT: Those 15 and older will be eligible for vaccination as of Jan. 3, and health workers and high-risk people over 60 can receive booster shots as of Jan. 10. 
- <p class="updated_time"> 02:23 PM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/navy-ship-covid-guantanamo-bay.html">Covid Outbreak Strands U.S.S. Milwaukee in Guantánamo Bay</a> NYT: The crew held an open-air Christmas service on the pier, allowing the sailors to remain socially distanced. 
- <p class="updated_time"> 01:57 PM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/africa/sudan-coup-protests.html">Anti-Coup Protesters in Sudan Press Their Demand for Return to Civilian Rule</a> NYT: The protests on Saturday underscored the resolve of protesters to continue defying the Oct. 25 coup that derailed the country’s nascent attempt to transition to democratic rule. 
- <p class="updated_time"> 10:22 AM CT, Dec. 25 </p> 
- <a href="https://www.nytimes.com/2021/12/25/world/europe/ukraine-russia.html">As Russian Threat Looms, Ukraine’s Government Is No Laughing Matter</a> NYT: President Volodymyr Zelensky, a former actor, has surrounded himself with advisers from his old comedy troupe. No kidding. 
 
 
 </details>
@@ -204,28 +194,30 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:34 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/proud-boys-first-amendment/index.html">Judge rejects Proud Boys' First Amendment claims in January 6 conspiracy case</a> CNN: A federal judge is allowing a major January 6 conspiracy case against four Proud Boys leaders to move forward, rejecting their bid to throw out the charges. 
+ <p class="updated_time"> 08:33 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/january-6-committee-trump-documents/index.html">January 6 panel stands down on request for some Trump documents after pushback from Biden administration</a> CNN: The House select committee investigating January 6 has stood down on its requests for some documents from the Trump White House, after the Biden administration convinced the panel to scale back its pursuits. 
+ <p class="updated_time"> 08:31 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/january-6-portland-unrest-compare-judges/index.html">Two Trump-appointed judges reject comparisons between January 6 and Portland political unrest</a> CNN: Two Trump-appointed federal judges have rejected claims from January 6 defendants that they're being treated unfairly, because of their conservative politics, compared with left-leaning rioters in Portland, Oregon, in the summer of 2020. 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
+ <p class="updated_time"> 08:18 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/harry-reid-dies/index.html">Harry Reid, longtime US senator and former Democratic leader, dies at 82</a> CNN: Harry Reid, the scrappy former Democratic Senate leader who spearheaded epic legislative battles through three decades in Congress, has died at the age of 82, according to a statement from his wife, Landra Reid. 
  <p class="updated_time"> 08:17 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/appeals-court-says-new-york-times-can-temporarily-keep-project-veritas-documents-526229">Appeals court rules New York Times can temporarily keep Project Veritas documents</a> Politico: The paper is still not allowed to publish the materials, upholding a key part of last week’s order. 
  <p class="updated_time"> 08:17 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, a Power in the Senate, Dies at 82</a> NYT: Mr. Reid, a Democrat from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
  <p class="updated_time"> 07:58 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/gallery/harry-reid/index.html">In pictures: Former US Sen. Harry Reid</a> CNN: Former Nevada Senator Harry Reid has died at the age of 82, according to a statement released on Tuesday by his wife Landra Reid. 
- <p class="updated_time"> 07:54 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/harry-reid-dies/index.html">Harry Reid, longtime US senator and former Democratic leader, dies at 82</a> CNN: Harry Reid, the scrappy former Democratic Senate leader who spearheaded epic legislative battles through three decades in Congress, has died at the age of 82, according to a statement from his wife, Landra Reid. 
  <p class="updated_time"> 07:42 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/john-madden-coach-broadcaster-dies-526230">John Madden, Hall of Fame coach and broadcaster, dies at 85</a> Politico: The NFL said he died unexpectedly and did not detail a cause. 
  <p class="updated_time"> 07:25 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/611222803/the-guy-from-searchlight-former-senate-leader-harry-reid-is-dead-at-82">'The guy from Searchlight': Former Senate leader Harry Reid is dead at 82</a> NPR: Born into poverty in Searchlight, Nev., the one-time amateur boxer served in Congress for 34 years — first in the House and, later, for three decades in the Senate. 
  <p class="updated_time"> 06:53 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/michigan-redistricting-congressional-map-526227">Michigan’s new congressional map: 3 battlegrounds, 1 Dem-vs.-Dem primary</a> Politico: Virginia also completed congressional redistricting on Tuesday. 
- <p class="updated_time"> 06:48 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/january-6-committee-trump-documents/index.html">January 6 panel stands down on request for some Trump documents after pushback from Biden administration</a> CNN: The House select committee investigating January 6 has stood down on its requests for some documents from the Trump White House, after the Biden administration convinced the panel to scale back its pursuits. 
  <p class="updated_time"> 06:39 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/congress-ethics-investigations.html">Ethics Investigators in Congress Increasingly Run Into Walls</a> NYT: Lawmakers under scrutiny are more likely than before to simply refuse to cooperate with an inquiry. 
- <p class="updated_time"> 06:08 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/proud-boys-first-amendment/index.html">Judge rejects Proud Boys' First Amendment claims in January 6 conspiracy case</a> CNN: A federal judge is allowing a major January 6 conspiracy case against four Proud Boys leaders to move forward, rejecting their bid to throw out the charges. 
  <p class="updated_time"> 05:44 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/biden-covid-testing-shortage/index.html">Biden is dogged by a testing shortage he had vowed to fix</a> CNN: President Joe Biden is closing out his first year in office facing one of the same problems he entered the White House vowing to fix: a persistent shortage of Covid-19 testing that, if resolved, could provide a way out of the still-raging pandemic. 
  <p class="updated_time"> 05:38 PM CT, Dec. 28 </p> 
@@ -286,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/27/1049811327/states-send-kids-to-foster-care-and-their-parents-the-bill-often-one-too-big-to-">States send kids to foster care and their parents the bill — often one too big to pay</a> NPR: In every state, governments charge parents for the cost of foster care when children are taken away. When that happens, NPR found, poor parents can't make ends meet, so families are kept apart longer. 
  <p class="updated_time"> 03:19 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/joe-biden-signs-ndaa/index.html">Biden signs annual defense bill</a> CNN: President Joe Biden signed the vital National Defense Authorization Act military funding bill, passed earlier this month by Congress, into law Monday morning. 
- <p class="updated_time"> 02:55 PM CT, Dec. 27 </p> 
- <a href="https://www.cnn.com/2021/12/27/politics/biden-covid-governors/index.html">Biden concedes not enough has been done to expand Covid-19 testing capacity: 'We have more work to do'</a> CNN: President Joe Biden will confer with the nation's governors on Monday as a wave of Covid-19, driven by the heavily transmissible Omicron variant of the coronavirus, crashes across the country and drives caseloads to record levels in areas of the Northeast. 
  <p class="updated_time"> 01:37 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/doj-combats-crime-rise/index.html">Justice Department boosts funds to cities to battle rise in crime</a> CNN: The Justice Department is closing out the year with a surge in grants for public safety programs in cities across the country, including many grappling with a dramatic rise in violent crime. 
  <p class="updated_time"> 01:07 PM CT, Dec. 27 </p> 
