@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:52 PM CT, Dec. 28 </p> 
+ <p class="updated_time"> 10:33 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/12/28/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Daily Record for Cases Is Broken</a> NYT: The seven-day average of U.S. cases topped 267,000 on Tuesday, with Washington, D.C., Maryland and Virginia particularly hard hit. The C.D.C. lowered its estimate of Omicron’s prevalence in the U.S. 
+ <p class="updated_time"> 10:09 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/books/keri-hulme-dead.html">Keri Hulme, New Zealand’s First Booker Prize Winner, Dies at 74</a> NYT: The power Ms. Hulme drew from her Maori heritage shone through in her work, especially in “The Bone People,” which won the literary prize in 1985. 
  <p class="updated_time"> 09:51 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/quebec-health-workers-positive-covid.html">Some Infected Quebec Health Care Workers can Continue Working</a> NYT: All essential workers in the province, including those who work in medicine, will be subject to the new rules. 
  <p class="updated_time"> 09:35 PM CT, Dec. 28 </p> 
@@ -192,12 +194,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:16 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, Senate Majority Leader Behind Landmark Democratic Victories, Dies at 82</a> NYT: Mr. Reid, who was from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
+ <p class="updated_time"> 10:11 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/us-russia-security-talks/index.html">US and Russia to talk Ukraine and security issues next month</a> CNN: US and Russian officials have agreed to sit down for security talks on January 10, a spokesman for the National Security Council confirmed Tuesday. 
  <p class="updated_time"> 09:54 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/harry-reid-dies/index.html">Harry Reid, longtime US senator and former Democratic leader, dies at 82</a> CNN: Harry Reid, the scrappy former Democratic Senate leader who spearheaded epic legislative battles through three decades in Congress, has died at the age of 82, according to a statement from his wife, Landra Reid. 
  <p class="updated_time"> 09:53 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/january-6-committee-trump-documents/index.html">January 6 panel stands down on request for some Trump documents after pushback from Biden administration</a> CNN: The House select committee investigating January 6 has stood down on its requests for some documents from the Trump White House, after the Biden administration convinced the panel to scale back its pursuits. 
- <p class="updated_time"> 09:36 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, Senate Majority Leader Behind Landmark Democratic Victories, Dies at 82</a> NYT: Mr. Reid, who was from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
  <p class="updated_time"> 08:58 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/trump-dunleavy-endorsement-murkowski/index.html">Trump endorses Alaska Gov. Dunleavy for reelection -- as long as he doesn't back Sen. Murkowski in 2022</a> CNN: Former President Donald Trump on Tuesday backed Alaska GOP Gov. Mike Dunleavy for reelection in 2022, but his endorsement came with a caveat that is just the latest sign of his attempts to influence Republican politics next year. 
  <p class="updated_time"> 08:34 PM CT, Dec. 28 </p> 
@@ -248,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/28/trump-organization-pga-settlement-526207">Trump Organization and PGA reach settlement over 2022 championship dispute</a> Politico: No details were released, but the tournament still won’t be held at Bedminster as a result of the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:48 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/cdc-drops-omicron-prevalence-estimate-526210">CDC sharply drops estimate of Omicron prevalence in U.S.</a> Politico: The agency said the disparity was due to the rate with which the highly transmissible Omicron spread. 
- <p class="updated_time"> 12:40 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/us-russia-security-talks/index.html">US and Russia to talk Ukraine and security issues next month</a> CNN: US and Russian officials have agreed to sit down for security talks on January 10, a spokesman for the National Security Council confirmed Tuesday. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/28/bunny-mellons-millions-at-play-in-dc-divorce-495554"> Bunny Mellon’s millions at play in D.C. divorce</a> Politico Playbook: And the CDC Monday shortened the isolation period for people who test positive for Covid-19 and are asymptomatic 
  <p class="updated_time"> 09:03 AM CT, Dec. 28 </p> 
