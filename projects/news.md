@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:37 AM CT, Dec. 29 </p> 
+ <p class="updated_time"> 08:49 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Case Records Are Shattered Across U.S. and Europe</a> NYT: Test kits are in high demand in England and Spain as people scramble to determine if they are infected. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
+ <p class="updated_time"> 08:48 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/asia/myanmar-coup-refugees.html">Stay or Go? For Myanmar’s Latest Wave of Refugees, There’s No Good Choice</a> NYT: Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire. 
+ <p class="updated_time"> 08:41 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">Russian Court Orders 2nd Ban of a Major Human Rights Group in 2 Days</a> NYT: Critics of the government said the rulings capped a year of erosion of civil rights and media freedoms in the country. 
  <p class="updated_time"> 07:58 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59809822?at_medium=RSS&at_campaign=KARANGA">Ugandan author of The Greedy Barbarian detained - lawyer</a> BBC: Prize-winning Ugandan novelist Kakwenza Rukirabashaija called the president's son "obese" on Twitter. 
  <p class="updated_time"> 07:33 AM CT, Dec. 29 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
  <p class="updated_time"> 06:01 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59814661?at_medium=RSS&at_campaign=KARANGA">Covid: US reports record infections as Europe's Omicron cases also soar</a> BBC: Several nations see their biggest surge in daily infections as the WHO warns of Omicron's "very high" risk. 
- <p class="updated_time"> 06:01 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">Russian Court Orders 2nd Ban of a Major Human Rights Group in 2 Days</a> NYT: Critics of the government said the rulings capped a year of erosion of civil rights and media freedoms in the country. 
  <p class="updated_time"> 04:28 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59816079?at_medium=RSS&at_campaign=KARANGA">Djokovic withdraws amid unclear vaccine status</a> BBC: World number one Novak Djokovic withdraws from Serbia's ATP Cup team in Sydney amid uncertainty over his participation at the Australian Open. 
  <p class="updated_time"> 04:25 AM CT, Dec. 29 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59701735?at_medium=RSS&at_campaign=KARANGA">Why Mauritius is losing its seashells</a> BBC: The beaches of the Indian Ocean island seem bereft of the beautiful shells popular with tourists. 
  <p class="updated_time"> 06:05 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59762809?at_medium=RSS&at_campaign=KARANGA">Fighting to learn in Venezuela</a> BBC: Despite the country's continuing economic crisis, both pupils and teachers are determined to continue with schooling. 
- <p class="updated_time"> 05:55 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/26/world/africa/desmond-tutu-dead.html">Desmond Tutu, Whose Voice Helped Slay Apartheid, Dies at 90</a> NYT: The archbishop, a powerful force for nonviolence in South Africa’s anti-apartheid movement, was awarded the Nobel Peace Prize in 1984. 
  <p class="updated_time"> 05:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/health/covid-omicron-antibodies-delta.html">Omicron Variant May Help Beat Delta, Study Suggests</a> NYT: In the lab, antibodies produced during an Omicron infection protected against Delta. If Omicron dominates in the real world, that could lead to a less dire future. 
  <p class="updated_time"> 04:47 PM CT, Dec. 28 </p> 
