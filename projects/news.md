@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:45 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/health/johnson-vaccine-booster-omicron.html">J. & J. Booster Protects Against Severe Omicron, Study Says</a> NYT: Two shots of the vaccine reduced the risk of hospitalization from the fast-spreading variant by 85 percent, a clinical trial found. 
+ <p class="updated_time"> 04:40 AM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59827047?at_medium=RSS&at_campaign=KARANGA">China bans its national football players from getting tattoos</a> BBC: Top players who already have body art are told to remove it, as a good example for society. 
  <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/ano-viejo-tradition.html">Años Viejos: Torching the Old Year to Toast the New One</a> NYT: In parts of Latin America, the traditional burning of rag dolls was used to symbolically banish the woes of the year gone by. Nowadays, it’s not uncommon to see TV hosts and ex-presidents going up in flames. 
  <p class="updated_time"> 04:23 AM CT, Dec. 30 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59824404?at_medium=RSS&at_campaign=KARANGA">Elon Musk rejects claim he is hogging space</a> BBC: His comments come after China complained to the United Nations about his internet satellite project. 
  <p class="updated_time"> 07:55 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59755100?at_medium=RSS&at_campaign=KARANGA">What does future warfare look like? It's here already</a> BBC: There's one area where the West is falling dangerously behind Russia and China - hypersonic missiles. 
- <p class="updated_time"> 07:19 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59815856?at_medium=RSS&at_campaign=KARANGA">Hong Kong: The last day of the Stand News pro-democracy website</a> BBC: From raids and arrests to the announcement of its closure, this is how its last day unfolded. 
  <p class="updated_time"> 06:47 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
  <p class="updated_time"> 06:31 PM CT, Dec. 29 </p> 
