@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:14 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
+ <p class="updated_time"> 02:14 AM CT, Dec. 30 </p> 
+ <a href="https://www.npr.org/2021/12/30/1069021763/hong-kong-police-charge-2-from-pro-democracy-news-outlet-with-sedition">Hong Kong police charge 2 from pro-democracy news outlet with sedition</a> NPR: Hong Kong police on Thursday formally charged two people from a pro-democracy news outlet with sedition, a day after it said it would cease operations after a police raid and seven arrests. 
+ <p class="updated_time"> 02:13 AM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59807737?at_medium=RSS&at_campaign=KARANGA">Ashraf Ghani: Ex-Afghan president describes moment he fled the Taliban</a> BBC: Ashraf Ghani was criticised for leaving Afghanistan before the Taliban took over in August. 
  <p class="updated_time"> 01:51 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Updates: Omicron Drives New U.S. Virus Cases to a Daily Record</a> NYT: Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 01:47 AM CT, Dec. 30 </p> 
@@ -95,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile Writes Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
  <p class="updated_time"> 09:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/afghanistan-taliban-helmand-marja.html">11 Years After Trying to Kill Each Other, a Marine and a Talib Meet Again</a> NYT: A Times reporter who once served in the Marines returned to the site of a major battle in Afghanistan to see what’s changed since the Taliban took over — and to meet a commander he once fought. 
- <p class="updated_time"> 08:51 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
  <p class="updated_time"> 07:12 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Roots for Its Patron Saint of Basketball</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
  <p class="updated_time"> 04:37 AM CT, Dec. 29 </p> 
@@ -161,16 +165,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1068500102/india-blocks-foreign-funding-for-mother-teresas-charity">India blocks foreign funding for Mother Teresa's charity</a> NPR: The Indian government says it has refused to renew a permit that allows the Missionaries of Charity to use foreign funds to operate orphanages and hospices across the country. 
  <p class="updated_time"> 10:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/windsor-castle-intruder.html">Britain’s Crossbow Rules in the Cross Hairs After Windsor Castle Breach</a> NYT: Britain’s Home Office said it was “considering options to strengthen controls” on the weapons, part of a continuing review, after a man was arrested in castle grounds with one. 
- <p class="updated_time"> 07:14 AM CT, Dec. 28 </p> 
- <a href="https://www.npr.org/2021/12/28/1067207363/2021-top-stories-international-npr-correspondents-recommend">These are the top stories NPR's correspondents around the world recommend from 2021</a> NPR: We asked the network's international journalists to pick one story from the year you should check out. Here are their selections. 
  <p class="updated_time"> 04:38 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-former-female-troops-once-hailed-by-the-west-fear-for-their-lives-11640696404">Afghanistan's Former Female Troops Fear for Their Lives</a> WSJ: “They have relocated musicians, soccer players and artists, and their lives were not at risk as much as ours,” a former Afghan Air Force officer says of Western governments. 
  <p class="updated_time"> 02:00 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/nord-stream-pipeline-germany-russia.html">Germany Wants Its Russian Pipeline. German Allies Aren’t Sure It’s a Good Idea.</a> NYT: The Nord Stream 2 Russia-to-Germany pipeline could offer plentiful natural gas. But tensions with Vladimir Putin are keeping it out of reach. 
  <p class="updated_time"> 09:22 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/health/omicron-cdc.html">As Omicron Cases Surge, CDC Shortens Isolation Times for Many Americans</a> NYT: Hoping to prevent further disruptions to daily life, the C.D.C. reduced the period that certain infected Americans must sequester. 
- <p class="updated_time"> 06:01 PM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59761535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Children in Kabul working for a piece of bread</a> BBC: More and more Afghan children are having to work to support their families, amidst an economic collapse. 
 
 
 </details>
@@ -178,6 +178,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:14 AM CT, Dec. 30 </p> 
+ <a href="https://www.npr.org/2021/12/30/1069021763/hong-kong-police-charge-2-from-pro-democracy-news-outlet-with-sedition">Hong Kong police charge 2 from pro-democracy news outlet with sedition</a> NPR: Hong Kong police on Thursday formally charged two people from a pro-democracy news outlet with sedition, a day after it said it would cease operations after a police raid and seven arrests. 
  <p class="updated_time"> 10:47 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/omicron-tests-hospitals.html">Federal Officials Say Early Omicron Data Suggests a Less Deadly Wave</a> NYT: Dr. Rochelle P. Walensky and Dr. Anthony S. Fauci cautioned that hospitalizations and deaths could be lagging behind case counts. 
  <p class="updated_time"> 09:56 PM CT, Dec. 29 </p> 
@@ -245,9 +247,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068384409/insurrection-abortion-voting-climate-afghanistan-trump-biden-2021-stories">From the Capitol riot to abortion rights, here are the top political stories of 2021</a> NPR: As we count down to the new year, we asked our readers what they thought were the top political stories of 2021. Here's what they picked. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights and the Battle Over Elections: What to Know</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
- <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/mask-mandate-fines-greene-clyde.html">Greene and Clyde Rack Up Fines for Defying House’s Mask Mandate</a> NYT: Representatives Marjorie Taylor Greene and Andrew Clyde have incurred more than $100,000 combined in penalties for dozens of violations. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights Tracker: What to Know About the U.S. Elections Fight</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
  <p class="updated_time"> 02:45 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068703011/judge-refuses-to-dismiss-indictment-against-alleged-proud-boys-leaders">Judge refuses to dismiss indictment against alleged Proud Boys leaders</a> NPR: U.S. District Judge Timothy Kelly on Tuesday rejected defense attorneys' arguments that the four men are charged with conduct that is protected by the First Amendment right to free speech. 
  <p class="updated_time"> 01:48 AM CT, Dec. 29 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/science/russia-nasa-spacex-asat.html">NASA-Russia Alliance Is Shaken by Events on Planet Earth</a> NYT: The relationship between the nations’ space agencies is facing a series of difficult tests, including an antisatellite weapon and friction over Ukraine. 
  <p class="updated_time"> 04:31 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/biden-covid-vaccines-usaid-funding-526126">Price tag to vaccinate the world: $7 billion. And the U.S. is already coming up short.</a> Politico: In September, U.S. officials noted it would take at least $7 billion in 2022 to ensure shots are administered across the globe. 
- <p class="updated_time"> 04:05 AM CT, Dec. 27 </p> 
- <a href="https://www.npr.org/2021/12/27/1068201313/stacey-abrams-discusses-running-again-for-ga-governor-and-her-new-childrens-book">Stacey Abrams discusses running again for Ga. governor and her new children's book</a> NPR: NPR's Rachel Martin talks to Stacey Abrams about her second bid to be Georgia's governor, and the lessons about drawing strength from failure in her new children's book: Stacey's Extraordinary Words. 
  <p class="updated_time"> 06:10 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/us/politics/dr-oz-medical-advice.html">‘Magic’ Weight-Loss Pills and Covid Cures: Dr. Oz Under the Microscope</a> NYT: The celebrity physician, a candidate in Pennsylvania’s Republican primary for Senate, has a long history of dispensing dubious medical advice on his daytime show and on Fox News. 
  <p class="updated_time"> 11:56 AM CT, Dec. 26 </p> 
