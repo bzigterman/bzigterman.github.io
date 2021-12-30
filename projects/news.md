@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:33 AM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59824914?at_medium=RSS&at_campaign=KARANGA">Australia: Protesters set Old Parliament House in Canberra on fire</a> BBC: The blaze was quickly put out but marks an escalation in indigenous protests in Canberra. 
  <p class="updated_time"> 11:40 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/30/1069012597/the-myanmar-military-is-employing-a-familiar-strategy-of-massacres-and-burnings">The Myanmar military is employing a familiar strategy of massacres and burnings</a> NPR: The massacres and scorched-earth tactics represent the latest escalation in the military's violence against both civilians and the growing opposition to the military's February coup. 
  <p class="updated_time"> 10:36 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Updates: Omicron Drives New U.S. Virus Cases to a Daily Record</a> NYT: Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 10:08 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59824150?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell guilty of helping Jeffrey Epstein abuse girls</a> BBC: A jury in New York convicts her of recruiting and trafficking teenagers in a "pyramid of abuse". 
- <p class="updated_time"> 10:02 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59824914?at_medium=RSS&at_campaign=KARANGA">Australia: Protesters set Old Parliament House in Canberra on fire</a> BBC: The blaze was quickly put out but marks an escalation in indigenous protests in Canberra. 
  <p class="updated_time"> 09:08 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/connecticut-gun-threat-covid-testing-site.html">Testing Site in Connecticut Is Forced to Close After Gun Threat</a> NYT: Another location nearby also shut down after the crowd grew agitated. 
  <p class="updated_time"> 08:38 PM CT, Dec. 29 </p> 
