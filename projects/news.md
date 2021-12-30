@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:30 PM CT, Dec. 29 </p> 
+ <p class="updated_time"> 07:46 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City Struggles to Keep Running Under Omicron</a> NYT: Average global cases reach a new high. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
+ <p class="updated_time"> 06:42 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59824150?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell guilty of helping Jeffrey Epstein abuse girls</a> BBC: A jury in New York convicts her of recruiting and trafficking teenagers in a "pyramid of abuse". 
+ <p class="updated_time"> 06:38 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/connecticut-gun-threat-covid-testing-site.html">Testing Site in Connecticut Is Forced to Close After Gun Threat</a> NYT: Another location nearby also shut down after the crowd grew agitated. 
+ <p class="updated_time"> 06:31 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59731053?at_medium=RSS&at_campaign=KARANGA">15 films to look out for in the Oscars race</a> BBC: With the gong-giving season picking up steam, we look at the possible nominees for the big awards. 
  <p class="updated_time"> 06:11 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/world-junior-championship-canceled-canada.html">World Junior Championship, a Showcase for Hockey’s Top Prospects, Is Canceled</a> NYT: The cancellation was an ominous sign for sports leagues, including the N.H.L. and the N.B.A., which have been struggling to maintain schedules. 
  <p class="updated_time"> 06:08 PM CT, Dec. 29 </p> 
@@ -16,11 +22,9 @@ permalink: /projects/news/
  <p class="updated_time"> 06:04 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/health-59755743?at_medium=RSS&at_campaign=KARANGA">What went wrong with vaccinating the world?</a> BBC: Why developed countries have a surplus of vaccines while low-income ones are still struggling to battle Covid. 
  <p class="updated_time"> 06:03 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59776108?at_medium=RSS&at_campaign=KARANGA">COP 26: The teenagers suing 33 countries</a> BBC: To ensure the promises of COP26 are kept, young campaigners are putting their faith in international courts. 
+ <a href="https://www.bbc.co.uk/news/science-environment-59776108?at_medium=RSS&at_campaign=KARANGA">COP 26: The teenagers suing 33 countries</a> BBC: To ensure the promises of COP26 are kept, young campaigners are putting their faith in the courts. 
  <p class="updated_time"> 06:02 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59775136?at_medium=RSS&at_campaign=KARANGA">Syntropic agriculture: A new way of farming in dry climates?</a> BBC: Ernst Gotsch's method of agriculture increases, rather than decreases, biodiversity and wildlife. 
- <p class="updated_time"> 05:59 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/connecticut-gun-threat-covid-testing-site.html">Testing Site in Connecticut Is Forced to Close After Gun Threat</a> NYT: Another location nearby also shut down after the crowd grew agitated. 
  <p class="updated_time"> 05:44 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/europe-omicron-infection-record-covid.html">Spurred by Omicron, Europe Sets Covid Infection Records Every Day</a> NYT: The surge of cases is causing chaos as people scramble to obtain tests, businesses grapple with staff shortages and New Year’s festivities are thrown into question. 
  <p class="updated_time"> 05:40 PM CT, Dec. 29 </p> 
@@ -42,7 +46,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:22 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59823682?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Religious and political leaders pay tribute in Cape Town</a> BBC: Politicians and leaders of different faiths gathered in Cape Town to remember the anti-apartheid leader. 
  <p class="updated_time"> 03:17 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/eric-adams-new-years-eve-times-square.html">Eric Adams to Be Sworn In on New Year's Eve in Times Square</a> NYT: The incoming mayor has made a point of reveling in New York’s nightlife, something that he has cast as boosterism for the city’s struggling club and restaurant scene. 
+ <a href="https://www.nytimes.com/2021/12/29/world/eric-adams-nye-times-square.html">Eric Adams to Be Sworn In on New Year's Eve in Times Square</a> NYT: The incoming mayor has made a point of reveling in New York’s nightlife, something that he has cast as boosterism for the city’s struggling club and restaurant scene. 
  <p class="updated_time"> 02:39 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/americas/brazil-floods-climate-change.html">Brazil Flooding Kills at Least 20 and Displaces Thousands</a> NYT: In northeast Brazil, local officials say they have never before seen flooding on this scale. Tens of thousands were forced to flee their homes. 
  <p class="updated_time"> 02:12 PM CT, Dec. 29 </p> 
@@ -121,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59760356?at_medium=RSS&at_campaign=KARANGA">Biodiversity: The tale of the 'un-extinct' fish</a> BBC: A Mexican fish species has been "brought back from extinction" after a decades-long rescue mission. 
  <p class="updated_time"> 06:15 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59571637?at_medium=RSS&at_campaign=KARANGA">Music preview 2022: The biggest releases, tours and films</a> BBC: What will Britney do now she's free of her conservatorship, and who's releasing new music in 2022? 
- <p class="updated_time"> 06:12 PM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59553852?at_medium=RSS&at_campaign=KARANGA">The mystery of the home where the Queen was born</a> BBC: Where was the original site of the house where the Queen was born? And was it bombed in the war? 
  <p class="updated_time"> 06:09 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59701735?at_medium=RSS&at_campaign=KARANGA">Why Mauritius is losing its seashells</a> BBC: The beaches of the Indian Ocean island seem bereft of the beautiful shells popular with tourists. 
  <p class="updated_time"> 06:05 PM CT, Dec. 28 </p> 
@@ -182,10 +184,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:32 PM CT, Dec. 29 </p> 
+ <p class="updated_time"> 07:01 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/us/politics/guantanamo-secret-courtroom.html">Pentagon Building New Secret Courtroom at Guantánamo Bay</a> NYT: The concept is to permit two military judges to hold proceedings simultaneously starting in mid-2023. 
+ <p class="updated_time"> 06:47 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
  <p class="updated_time"> 06:09 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Michigan’s New Congressional Maps Undo Years of Gerrymandering</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
+ <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Ungerrymandered: Michigan’s Maps, Independently Drawn, Set Up Fair Fight</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
  <p class="updated_time"> 05:32 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/2022-scotus-covid-biden-trump-midterms/index.html">Analysis: 5 big things to watch in 2022</a> CNN: 5. Biden/Trump 2024 
  <p class="updated_time"> 05:29 PM CT, Dec. 29 </p> 
@@ -245,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068384409/insurrection-abortion-voting-climate-afghanistan-trump-biden-2021-stories">From the Capitol riot to abortion rights, here are the top political stories of 2021</a> NPR: As we count down to the new year, we asked our readers what they thought were the top political stories of 2021. Here's what they picked. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights Tracker: What to Know About the U.S. Elections Fight</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
+ <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights and the Battle Over Elections: What to Know</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
  <p class="updated_time"> 02:45 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068703011/judge-refuses-to-dismiss-indictment-against-alleged-proud-boys-leaders">Judge refuses to dismiss indictment against alleged Proud Boys leaders</a> NPR: U.S. District Judge Timothy Kelly on Tuesday rejected defense attorneys' arguments that the four men are charged with conduct that is protected by the First Amendment right to free speech. 
  <p class="updated_time"> 01:48 AM CT, Dec. 29 </p> 
@@ -358,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/24/biden-social-spending-senate-parliamentarian-526081">Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</a> Politico: The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan. 
  <p class="updated_time"> 06:30 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/medicaid-work-requirements-georgia-biden.html">Biden Administration Rejects Medicaid Work Requirements in Georgia</a> NYT: The decision continued the administration’s rollback of the Trump-era policy, targeting the only remaining state with federal approval for the requirements. 
- <p class="updated_time"> 05:56 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/us/politics/capitol-riot-january-6.html">Jan. 6 Defendants Send a Holiday Card: ‘Merry Christmas Patriot!’</a> NYT: Holiday card greetings from defendants awaiting trial on charges related to the Capitol riot reflect their status as symbolic martyrs for the Republican base. 
  <p class="updated_time"> 05:30 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/political-wish-lists-2022.html">7 Political Wish Lists for the New Year</a> NYT: What do the president, vice president, former president and party leaders want in 2022? We made our best guess. 
  <p class="updated_time"> 05:15 PM CT, Dec. 23 </p> 
