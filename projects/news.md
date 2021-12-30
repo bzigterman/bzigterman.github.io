@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 05:36 AM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59826100?at_medium=RSS&at_campaign=KARANGA">Tiger shot dead at Naples Zoo in Florida after biting cleaner's arm</a> BBC: A cleaner had tried to pet or feed the animal in an unauthorised area, the sheriff's office said. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59826100?at_medium=RSS&at_campaign=KARANGA">Tiger shot and dies at Naples Zoo in Florida after biting cleaner's arm</a> BBC: A cleaner had tried to pet or feed the animal in an unauthorised area, the sheriff's office said. 
  <p class="updated_time"> 05:32 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Sets One-Day Record With Nearly Half a Million New Cases</a> NYT: The staggering figure is almost twice as high as the worst days of last winter, and may be an undercount. Hospitalizations are not rising as fast, raising hopes that the Omicron wave is producing less severe illness. 
  <p class="updated_time"> 05:04 AM CT, Dec. 30 </p> 
@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:58 AM CT, Dec. 30 </p> 
+ <a href="https://www.cnn.com/2021/12/29/politics/biden-putin-call/index.html">Biden to speak with Putin at Russian leader's request</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Thursday afternoon "to discuss a range of topics, including upcoming diplomatic engagements with Russia," National Security Council spokesperson Emily Horne told CNN. 
  <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-administration-shifting-covid-guidance/index.html">Biden administration signals pandemic strategy shift in the face of Omicron </a> CNN: America is plunging into a fast-worsening and frightening winter bout with Covid-19 that will leave few citizens and communities untouched. But as the highly transmissible Omicron variant roars across the country, the Biden administration is revealing the most tangible signs of a shifting pandemic strategy several weeks in the making. It is preparing a nation exhausted by two years of battling the invisible enemy to live more feasibly alongside it. 
  <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
@@ -210,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/us/politics/pentagon-guantanamo-secret-courtroom.html">Pentagon Building New Secret Courtroom at Guantánamo Bay</a> NYT: The concept is to permit two military judges to hold proceedings simultaneously starting in mid-2023. 
  <p class="updated_time"> 08:49 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/melania-trump-steps-back-into-the-public-eye/index.html">Melania Trump steps back into the public eye </a> CNN: After months of relative public silence, former first lady Melania Trump before Christmas emerged from private life to announce a new project: A piece of artwork, a watercolor closeup of her eyes, in the form of a non-fungible token (NFT) was now available for purchase. 
- <p class="updated_time"> 08:32 PM CT, Dec. 29 </p> 
- <a href="https://www.cnn.com/2021/12/29/politics/biden-putin-call/index.html">Biden to speak with Putin at Russian leader's request</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Thursday afternoon "to discuss a range of topics, including upcoming diplomatic engagements with Russia," National Security Council spokesperson Emily Horne told CNN. 
  <p class="updated_time"> 06:47 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
  <p class="updated_time"> 06:09 PM CT, Dec. 29 </p> 
@@ -320,22 +320,16 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1067206141/biden-federal-judges-nominations-diverse">Biden had a productive year picking federal judges. The job could get tougher in 2022</a> NPR: President Biden has gotten a diverse group of 40 federal judges confirmed in 2021, the most for a new president since the Reagan era. 
  <p class="updated_time"> 05:25 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/sarah-weddington-dead.html">Sarah Weddington, Who Successfully Argued Roe v. Wade, Dies at 76</a> NYT: She went before the U.S. Supreme Court at 26 with almost no legal experience and won one of the most consequential cases in American history. 
- <p class="updated_time"> 04:42 PM CT, Dec. 27 </p> 
- <a href="https://www.politico.com/news/2021/12/27/cdc-cut-quarantine-covid-omicron-526187">CDC cuts recommended quarantine time amid Omicron surge</a> Politico: The reduction follows the CDC’s move last week to shorten its isolation period for infected health care workers, assuming they are asymptomatic and later test negative. 
  <p class="updated_time"> 04:20 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/biden-defense-bill.html">President Biden Signs $770 Billion Defense Bill</a> NYT: The National Defense Authorization Act passed Congress with bipartisan support, over the opposition of liberals pushing for more social spending. 
  <p class="updated_time"> 03:19 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/joe-biden-signs-ndaa/index.html">Biden signs annual defense bill</a> CNN: President Joe Biden signed the vital National Defense Authorization Act military funding bill, passed earlier this month by Congress, into law Monday morning. 
  <p class="updated_time"> 02:55 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/biden-covid-governors/index.html">Biden concedes not enough has been done to expand Covid-19 testing capacity: 'We have more work to do'</a> CNN: President Joe Biden will confer with the nation's governors on Monday as a wave of Covid-19, driven by the heavily transmissible Omicron variant of the coronavirus, crashes across the country and drives caseloads to record levels in areas of the Northeast. 
- <p class="updated_time"> 01:07 PM CT, Dec. 27 </p> 
- <a href="https://www.politico.com/news/2021/12/27/biden-governors-omicron-surge-526175">Biden looks to reassure governors amid Omicron surge and long lines for tests</a> Politico: Biden acknowledged the shortages that hit several states ahead of the holidays, conceding that he had not done enough to prepare for the rising demand. 
  <p class="updated_time"> 09:36 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/27/the-view-struggles-to-find-a-republican-495553"> ‘The View’ struggles to find a Republican</a> Politico Playbook: And coronavirus cases spike to record levels across the world. 
  <p class="updated_time"> 08:37 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/science/russia-nasa-spacex-asat.html">NASA-Russia Alliance Is Shaken by Events on Planet Earth</a> NYT: The relationship between the nations’ space agencies is facing a series of difficult tests, including an antisatellite weapon and friction over Ukraine. 
- <p class="updated_time"> 04:31 AM CT, Dec. 27 </p> 
- <a href="https://www.politico.com/news/2021/12/27/biden-covid-vaccines-usaid-funding-526126">Price tag to vaccinate the world: $7 billion. And the U.S. is already coming up short.</a> Politico: In September, U.S. officials noted it would take at least $7 billion in 2022 to ensure shots are administered across the globe. 
  <p class="updated_time"> 06:10 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/us/politics/dr-oz-medical-advice.html">‘Magic’ Weight-Loss Pills and Covid Cures: Dr. Oz Under the Microscope</a> NYT: The celebrity physician, a candidate in Pennsylvania’s Republican primary for Senate, has a long history of dispensing dubious medical advice on his daytime show and on Fox News. 
  <p class="updated_time"> 11:56 AM CT, Dec. 26 </p> 
