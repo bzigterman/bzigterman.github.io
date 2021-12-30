@@ -7,10 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:26 AM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59818978?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden and Putin phone call seeks 'diplomatic path'</a> BBC: The presidents of the US and Russia will speak in a bid to de-escalate tensions over Ukraine. 
+ <p class="updated_time"> 06:15 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/europe/webb-telescope-launch-space.html">A Divided World United to Launch the James Webb Space Telescope</a> NYT: “I’ve always seen space as an area where we cooperate, through all the trying times,” said a professor who oversaw mission control for the global effort to launch a $10 billion telescope into space. 
+ <p class="updated_time"> 06:06 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Sets One-Day Record With Nearly Half a Million New Cases</a> NYT: The staggering figure is almost twice as high as the worst days of last winter, and may be an undercount. Hospitalizations are not rising as fast, raising hopes that the Omicron wave is producing less severe illness. 
+ <p class="updated_time"> 06:05 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/asia/ashraf-ghani-bbc-interview.html">Ashraf Ghani, Former Afghan President, Says He Fled Nation to 'Save Kabul'</a> NYT: In his first interview since escaping Afghanistan as the Taliban advanced on the capital, Ashraf Ghani defended himself against charges that he abandoned his country in its hour of need. 
  <p class="updated_time"> 05:36 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59826100?at_medium=RSS&at_campaign=KARANGA">Tiger shot and dies at Naples Zoo in Florida after biting cleaner's arm</a> BBC: A cleaner had tried to pet or feed the animal in an unauthorised area, the sheriff's office said. 
- <p class="updated_time"> 05:32 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Sets One-Day Record With Nearly Half a Million New Cases</a> NYT: The staggering figure is almost twice as high as the worst days of last winter, and may be an undercount. Hospitalizations are not rising as fast, raising hopes that the Omicron wave is producing less severe illness. 
+ <p class="updated_time"> 05:29 AM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59828830?at_medium=RSS&at_campaign=KARANGA">Putin and Lukashenko team up for ice hockey match</a> BBC: The Russian and Belarusian leaders both made the scoreboard in a game following talks between the countries. 
  <p class="updated_time"> 05:04 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/china-xian-lockdown-covid.html">China Keeps 13 Million in Xi’an Under Strict Lockdown </a> NYT: The severe measures in Xi’an have prompted concern, as residents complain on social media of having trouble ordering food online. 
  <p class="updated_time"> 04:45 AM CT, Dec. 30 </p> 
@@ -27,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59807737?at_medium=RSS&at_campaign=KARANGA">Ashraf Ghani: Ex-Afghan president describes moment he fled the Taliban</a> BBC: Speaking to the BBC, Ashraf Ghani tackles criticism he left Afghanistan as the Taliban closed in. 
  <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/tesla-batteries-nickel-new-caledonia.html">Can a Tiny Territory in the South Pacific Power Tesla’s Ambitions?</a> NYT: Nickel is vital to electric car batteries, but extracting it is dirty and destructive. A plant with a turbulent history in New Caledonia is about to become an experiment in sustainable mining. 
- <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/europe/webb-telescope-launch-space.html">A Divided World United to Launch the James Webb Space Telescope</a> NYT: “I’ve always seen space as an area where we cooperate, through all the trying times,” said a professor who oversaw mission control for the global effort to launch a $10 billion telescope into space. 
  <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/most-popular-dispatches-2021.html">In 2021, We Were There: The Year’s 14 Most Popular Dispatches</a> NYT: Not even a pandemic, wars or autocrats could prevent our correspondents from seeking out secrets and surprises to share with readers. They sent dispatches from 40 countries on six continents. 
  <p class="updated_time"> 03:33 AM CT, Dec. 30 </p> 
@@ -47,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/connecticut-gun-threat-covid-testing-site.html">Testing Site in Connecticut Is Forced to Close After Gun Threat</a> NYT: Another location nearby also shut down after the crowd grew agitated. 
  <p class="updated_time"> 08:38 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/business-59824404?at_medium=RSS&at_campaign=KARANGA">Elon Musk rejects claim he is hogging space</a> BBC: His comments come after China complained to the United Nations about his internet satellite project. 
+ <p class="updated_time"> 07:59 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59702842?at_medium=RSS&at_campaign=KARANGA">Notable African deaths of 2021: From 'Ethiopia's Elvis' to mega pastors</a> BBC: A look back at some of the prominent figures on the African continent who we said farewell to this year. 
  <p class="updated_time"> 07:55 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59755100?at_medium=RSS&at_campaign=KARANGA">What does future warfare look like? It's here already</a> BBC: There's one area where the West is falling dangerously behind Russia and China - hypersonic missiles. 
  <p class="updated_time"> 06:47 PM CT, Dec. 29 </p> 
@@ -71,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/westminster-dog-show-postponed-covid.html">2022 Westminster Dog Show Postponed Amid Omicron Surge</a> NYT: The 2021 show was pushed to June and held outdoors because of the virus. 
  <p class="updated_time"> 05:28 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59733623?at_medium=RSS&at_campaign=KARANGA">Who is Ghislaine Maxwell? The story of her downfall</a> BBC: How she went from being the toast of high society to a convicted sex trafficker. 
- <p class="updated_time"> 04:50 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59818978?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden and Putin phone call seeks 'diplomatic path'</a> BBC: The presidents of the US and Russia will speak again in a bid to de-escalate tensions over Ukraine. 
  <p class="updated_time"> 04:48 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59736227?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: How accusers' testimony brought her down</a> BBC: This was a victory for the women who fought to bring Jeffrey Epstein's co-conspirator to justice. 
  <p class="updated_time"> 04:43 PM CT, Dec. 29 </p> 
@@ -159,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1068587831/most-countries-will-fall-short-of-global-initiative-to-vaccinate-40-of-populatio">Most countries will fall short of global initiative to vaccinate 40% of populations</a> NPR: COVAX was set up to enable global access to vaccines against COVID. Yet nearly 80 countries will miss a target of vaccinating 40% of their populations by year's end. Here's what went wrong. 
  <p class="updated_time"> 03:34 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1068587810/russias-supreme-court-shuts-down-human-rights-group-that-preserved-history">Russia's Supreme Court shuts down human rights group that preserved history</a> NPR: For decades, the Russian human rights group Memorial has tried to preserve the story of the Soviet Union's darkest years. The country's high court ordered it closed Tuesday. 
- <p class="updated_time"> 03:21 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/new-years-eve-covid.html">New Year's Eve Parties Are Scaled Back Worldwide</a> NYT: New York City, London, Tokyo and New Delhi are among the cities where major gatherings have been curtailed or canceled as Omicron spreads. 
  <p class="updated_time"> 03:14 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/omicron-covid-contagious-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
  <p class="updated_time"> 03:11 PM CT, Dec. 28 </p> 
@@ -169,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/asia/refugees-afghanistan-pakistan.html">Born and Raised in Pakistan, but Living in Legal Limbo</a> NYT: Pakistan has refused to grant the children of Afghan refugees full rights as citizens. A lack of identification documents limits their livelihoods and puts them at risk of deportation. 
  <p class="updated_time"> 02:12 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/new-delhi-doctor-strike.html">Doctors Strike Over Understaffing Disrupts Delhi Hospitals</a> NYT: While the country’s overall case count remains low, daily infections in the capital region have risen by more than 300 percent over the past two weeks. 
- <p class="updated_time"> 01:25 PM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59812890?at_medium=RSS&at_campaign=KARANGA">Jordan MPs fighting in parliament session live-streamed on local television</a> BBC: The argument began as the chamber debated constitutional reforms, including gender equality. 
  <p class="updated_time"> 12:31 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2021/12/28/260448064/cooking-up-food-and-identity-in-pailin-chongchitnants-hot-thai-kitchen">Cooking up food and identity in Pailin Chongchitnant's "Hot Thai Kitchen"</a> NPR: When chef Pailin Chongchitnant realized that cable television wasn't ready for a Thai cooking show, she started her own on YouTube. On it, she breaks down some of the misconceptions about the cuisine. 
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
@@ -186,6 +188,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:07 AM CT, Dec. 30 </p> 
+ <a href="https://www.politico.com/news/2021/12/30/j-j-booster-hospitalization-526263">J&J's booster shown effective against Covid hospitalization</a> Politico: The results mark the first evidence of the effectiveness of such a vaccine boost while Omicron is circulating. 
  <p class="updated_time"> 05:58 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/biden-putin-call/index.html">Biden to speak with Putin at Russian leader's request</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Thursday afternoon "to discuss a range of topics, including upcoming diplomatic engagements with Russia," National Security Council spokesperson Emily Horne told CNN. 
  <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
@@ -222,6 +226,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/ghislaine-maxwell-convicted-in-epstein-sex-abuse-case-526252">Ghislaine Maxwell convicted in Epstein sex abuse case</a> Politico: She faces the likelihood of years in prison. 
  <p class="updated_time"> 04:56 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/oklahoma-national-guard-vaccine-mandate/index.html">Federal judge denies Oklahoma governor's request to stop military vaccine mandate</a> CNN: Oklahoma National Guard members must get vaccinated against Covid-19, a federal judge has ruled, denying a request from the state's Republican governor and others to halt the military's vaccine mandate. 
+ <p class="updated_time"> 04:09 PM CT, Dec. 29 </p> 
+ <a href="https://www.politico.com/news/2021/12/29/republicans-luring-john-james-house-526250">National Republicans luring John James into House race</a> Politico: Republicans anticipate James, one of their most coveted 2022 recruits, will run for Congress next year after Michigan's new district map was finalized. 
  <p class="updated_time"> 03:38 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068895454/president-biden-promised-to-reform-immigration-policy-how-has-that-been-going">President Biden promised to reform immigration policy. How has that been going?</a> NPR: President Biden had an ambitious agenda to overhaul the nation's border policies. But as the end of the year approaches, many of those proposals have been blocked, reversed or simply abandoned. 
  <p class="updated_time"> 03:24 PM CT, Dec. 29 </p> 
@@ -250,8 +256,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/cdc-defends-new-covid-guidelines-526234">‘This was the moment’: CDC defends altered guidance amid Omicron surge</a> Politico: Director Rochelle Walensky acknowledged that the decision to shorten the recommended isolation period “really had a lot to do with what we thought people would be able to tolerate.” 
  <p class="updated_time"> 07:06 AM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/january-6-portland-unrest-compare-judges/index.html">Two Trump-appointed judges reject comparisons between January 6 and Portland political unrest</a> CNN: Two Trump-appointed federal judges have rejected claims from January 6 defendants that they're being treated unfairly, because of their conservative politics, compared with left-leaning rioters in Portland, Oregon, in the summer of 2020. 
+ <p class="updated_time"> 06:06 AM CT, Dec. 29 </p> 
+ <a href="https://www.politico.com/news/agenda/2021/12/29/teachers-districts-hybrid-education-526214">‘I Feel Half as Successful’: Teachers Push to Ban Hybrid Instruction, But Districts Want to Keep It</a> Politico: Teachers want to ban teaching students in person and online at the same time. Some education leaders say it should be what the future looks like. 
  <p class="updated_time"> 06:00 AM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/supreme-court-vaccine-mandates-federal-biden/index.html">A Supreme Court that's declined to block several vaccine mandates is now considering Biden's Covid vaccine requirement</a> CNN: A Supreme Court that has declined to block several types of vaccine mandates is now considering whether to allow the Biden administration to require millions of Americans to get Covid-19 vaccines. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
+ <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
  <p class="updated_time"> 04:08 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068704775/former-democratic-senate-leader-harry-reid-has-died-at-age-82">Former Democratic Senate leader Harry Reid has died at age 82</a> NPR: The Nevada Democrat, a one-time amateur boxer who brought a pugilist approach to politics, died Tuesday afternoon after a four-year battle with pancreatic cancer. 
  <p class="updated_time"> 04:08 AM CT, Dec. 29 </p> 
@@ -326,10 +336,14 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/27/politics/joe-biden-signs-ndaa/index.html">Biden signs annual defense bill</a> CNN: President Joe Biden signed the vital National Defense Authorization Act military funding bill, passed earlier this month by Congress, into law Monday morning. 
  <p class="updated_time"> 02:55 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/biden-covid-governors/index.html">Biden concedes not enough has been done to expand Covid-19 testing capacity: 'We have more work to do'</a> CNN: President Joe Biden will confer with the nation's governors on Monday as a wave of Covid-19, driven by the heavily transmissible Omicron variant of the coronavirus, crashes across the country and drives caseloads to record levels in areas of the Northeast. 
+ <p class="updated_time"> 01:07 PM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/news/2021/12/27/biden-governors-omicron-surge-526175">Biden looks to reassure governors amid Omicron surge and long lines for tests</a> Politico: Biden acknowledged the shortages that hit several states ahead of the holidays, conceding that he had not done enough to prepare for the rising demand. 
  <p class="updated_time"> 09:36 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/27/the-view-struggles-to-find-a-republican-495553"> ‘The View’ struggles to find a Republican</a> Politico Playbook: And coronavirus cases spike to record levels across the world. 
  <p class="updated_time"> 08:37 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/science/russia-nasa-spacex-asat.html">NASA-Russia Alliance Is Shaken by Events on Planet Earth</a> NYT: The relationship between the nations’ space agencies is facing a series of difficult tests, including an antisatellite weapon and friction over Ukraine. 
+ <p class="updated_time"> 04:31 AM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/news/2021/12/27/biden-covid-vaccines-usaid-funding-526126">Price tag to vaccinate the world: $7 billion. And the U.S. is already coming up short.</a> Politico: In September, U.S. officials noted it would take at least $7 billion in 2022 to ensure shots are administered across the globe. 
  <p class="updated_time"> 06:10 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/us/politics/dr-oz-medical-advice.html">‘Magic’ Weight-Loss Pills and Covid Cures: Dr. Oz Under the Microscope</a> NYT: The celebrity physician, a candidate in Pennsylvania’s Republican primary for Senate, has a long history of dispensing dubious medical advice on his daytime show and on Fox News. 
  <p class="updated_time"> 11:56 AM CT, Dec. 26 </p> 
@@ -368,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/23/politics/joe-biden-filibuster-voting-rights/index.html">Biden says he supports filibuster carve-out for voting rights</a> CNN: President Joe Biden says he supports making an exception to the Senate filibuster rules in order to pass voting rights legislation. 
  <p class="updated_time"> 07:09 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/23/senate-candidates-trade-house-toil-for-celeb-launchpad-495547">Senate candidates trade House toil for celeb launchpad</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:12 AM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/23/bidens-testing-mess-495546"> Biden’s testing mess</a> Politico Playbook: And the Supreme Court plans a special hearing on vaccine mandates. 
 
 
 </details>
