@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:20 AM CT, Dec. 30 </p> 
+ <p class="updated_time"> 08:34 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/asia/afghanistan-taliban-helmand-marja.html">11 Years After Trying to Kill Each Other, a Marine and a Talib Meet Again</a> NYT: A Times reporter who once served in the Marines returned to the site of a major battle in Afghanistan to see what’s changed since the Taliban took over — and to meet a commander he once fought. 
+ <p class="updated_time"> 08:31 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Sets One-Day Record With Nearly Half a Million New Cases</a> NYT: The staggering figure is almost twice as high as the worst days of last winter, although hospitalizations are not rising as fast. A study shows that a booster shot of the Johnson & Johnson vaccine provides strong protection against Omicron. 
  <p class="updated_time"> 08:13 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/indonesia-rohingya-boat.html">Indonesia Accepts Stranded Refugee Boat After Vowing to Turn It Away</a> NYT: The boat was being towed ashore with more than 100 Rohingya refugees on board. Indonesia initially said it would turn the vessel away, but relented under pressure from rights groups. 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
  <p class="updated_time"> 02:14 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069021763/hong-kong-police-charge-2-from-pro-democracy-news-outlet-with-sedition">Hong Kong police charge 2 from pro-democracy news outlet with sedition</a> NPR: Hong Kong police on Thursday formally charged two people from a pro-democracy news outlet with sedition, a day after it said it would cease operations after a police raid and seven arrests. 
- <p class="updated_time"> 01:48 AM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59780323?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: What the trial means for Prince Andrew</a> BBC: Ghislaine Maxwell has been convicted of grooming teenagers. What does this mean for her former friend? 
  <p class="updated_time"> 12:33 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59824914?at_medium=RSS&at_campaign=KARANGA">Australia: Protesters set Old Parliament House in Canberra on fire</a> BBC: The blaze was quickly put out but marks an escalation in indigenous protests in Canberra. 
  <p class="updated_time"> 11:40 PM CT, Dec. 29 </p> 
@@ -73,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/world-junior-championship-canceled-canada.html">World Junior Championship, a Showcase for Hockey’s Top Prospects, Is Canceled</a> NYT: The cancellation was an ominous sign for sports leagues, including the N.H.L. and the N.B.A., which have been struggling to maintain schedules. 
  <p class="updated_time"> 06:08 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/arts/design/smithsonian-museums-close-covid.html">Five Smithsonian Museums Close Amid Omicron Staff Shortages</a> NYT: The museums will temporarily close as the Smithsonian routes staff to other outposts. 
- <p class="updated_time"> 06:05 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59737125?at_medium=RSS&at_campaign=KARANGA">The secret lives of Ghislaine Maxwell and Jeffrey Epstein</a> BBC: Never-before-seen photos released during her trial shed new light on their private lives. 
  <p class="updated_time"> 06:04 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/health-59755743?at_medium=RSS&at_campaign=KARANGA">What went wrong with vaccinating the world?</a> BBC: Why developed countries have a surplus of vaccines while low-income ones are still struggling to battle Covid. 
  <p class="updated_time"> 06:03 PM CT, Dec. 29 </p> 
@@ -91,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59733623?at_medium=RSS&at_campaign=KARANGA">Who is Ghislaine Maxwell? The story of her downfall</a> BBC: How she went from being the toast of high society to a convicted sex trafficker. 
  <p class="updated_time"> 04:48 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59736227?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: How accusers' testimony brought her down</a> BBC: This was a victory for the women who fought to bring Jeffrey Epstein's co-conspirator to justice. 
- <p class="updated_time"> 04:42 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59527051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Key moments in the sex trafficking trial</a> BBC: The jury has now delivered a series of convictions - here's what you need to know about the evidence. 
  <p class="updated_time"> 04:04 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068895510/thousands-are-displaced-in-brazil-after-weeks-of-flooding-in-bahia-state">Tens of thousands are displaced in Brazil after weeks of flooding in Bahia state</a> NPR: NPR's Ari Shapiro speaks with Gram Slattery, Brazil correspondent for Reuters, about the deadly flooding currently happening in the northeastern state of Bahia, Brazil. 
  <p class="updated_time"> 04:04 PM CT, Dec. 29 </p> 
@@ -129,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/biden-putin-to-speak-thursday-ahead-of-ukraine-talks-11640801059">Biden, Putin to Talk Amid Ukraine Crisis</a> WSJ: The call will be the second by the leaders this month and comes as Russia continues a military buildup near Ukraine and issues sweeping security demands. 
  <p class="updated_time"> 09:41 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile Writes Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
- <p class="updated_time"> 09:00 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/asia/afghanistan-taliban-helmand-marja.html">11 Years After Trying to Kill Each Other, a Marine and a Talib Meet Again</a> NYT: A Times reporter who once served in the Marines returned to the site of a major battle in Afghanistan to see what’s changed since the Taliban took over — and to meet a commander he once fought. 
  <p class="updated_time"> 04:37 AM CT, Dec. 29 </p> 
  <a href="https://www.wsj.com/articles/a-master-penny-pincher-draws-a-following-in-japan-11640792275">A Master Penny-Pincher Draws a Following in Japan</a> WSJ: Megumi Nakano offers daily tips on Instagram about how not to spend money. Half a radish is put to good use. 
  <p class="updated_time"> 02:30 AM CT, Dec. 29 </p> 
@@ -194,6 +188,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:31 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Ungerrymandered: Michigan’s Maps, Independently Drawn, Set Up Fair Fight</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
  <p class="updated_time"> 08:17 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Biden administration results in more of the same Trump immigration policies</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
  <p class="updated_time"> 08:07 AM CT, Dec. 30 </p> 
@@ -232,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/us/politics/pentagon-guantanamo-secret-courtroom.html">Pentagon Building New Secret Courtroom at Guantánamo Bay</a> NYT: The concept is to permit two military judges to hold proceedings simultaneously starting in mid-2023. 
  <p class="updated_time"> 08:49 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/melania-trump-steps-back-into-the-public-eye/index.html">Melania Trump steps back into the public eye </a> CNN: After months of relative public silence, former first lady Melania Trump before Christmas emerged from private life to announce a new project: A piece of artwork, a watercolor closeup of her eyes, in the form of a non-fungible token (NFT) was now available for purchase. 
- <p class="updated_time"> 06:09 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Ungerrymandered: Michigan’s Maps, Independently Drawn, Set Up Fair Fight</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
  <p class="updated_time"> 05:29 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/trump-supreme-court-washington-post-bennie-thompson/index.html">Trump wants SCOTUS to read Washington Post interview with Bennie Thompson</a> CNN: As the Supreme Court considers whether to take up former President Donald Trump's January 6 White House records case, Trump's attorney submitted to the court a new filing Wednesday making the court aware of a Washington Post interview with Rep. Bennie Thompson, who chairs the House select committee seeking the records. 
  <p class="updated_time"> 05:15 PM CT, Dec. 29 </p> 
