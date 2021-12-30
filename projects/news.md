@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:56 PM CT, Dec. 30 </p> 
+ <p class="updated_time"> 04:10 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: South Africa Says Its Omicron Wave Has Passed With No Big Spike in Deaths</a> NYT: The announcement offered cautious hope to other countries grappling with the fast-spreading variant. The C.D.C. urged Americans to stay off cruise ships, regardless of vaccination status. More than 1,200 U.S. flights were canceled. 
  <p class="updated_time"> 03:18 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069273197/president-biden-speaks-with-russian-president-vladimir-putin-as-ukraine-tensions">President Biden speaks with Russian President Vladimir Putin as Ukraine tensions rise</a> NPR: President Biden spoke with Russian President Vladimir Putin in a call Thursday as tensions mount between the Ukraine and Russia. The White House says it's "gravely concerned" about the situation. 
@@ -190,6 +190,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:08 PM CT, Dec. 30 </p> 
+ <a href="https://www.cnn.com/2021/12/30/politics/year-in-review-us-politics-what-matters/index.html">Analysis: 2021 was a transformative year in US politics. Here are the biggest stories.</a> CNN: This year brought a dizzying mix of triumphs and setbacks in Washington, where lawmakers have grappled with everything from a deadly pandemic to an assault on democracy itself. 
  <p class="updated_time"> 03:33 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden hopes for Ukraine de-escalation in call with Putin</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 03:26 PM CT, Dec. 30 </p> 
@@ -226,16 +228,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Biden administration results in more of the same Trump immigration policies</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
  <p class="updated_time"> 07:56 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
- <p class="updated_time"> 07:51 AM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/remain-in-mexico-policy-supreme-court-biden-administration/index.html">Biden administration asks Supreme Court to let it end Trump-era 'Remain in Mexico' immigration policy</a> CNN: The Biden administration on Wednesday asked the Supreme Court for permission to end the Trump-era "remain in Mexico" program, which requires non-Mexican migrants to stay in Mexico until their US immigration court dates. 
  <p class="updated_time"> 07:24 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/sarah-weddington-dead.html">Sarah Weddington, Who Successfully Argued Roe v. Wade, Dies at 76</a> NYT: She went before the U.S. Supreme Court at 26 with almost no legal experience and won one of the most consequential cases in American history. 
  <p class="updated_time"> 07:07 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/j-j-booster-hospitalization-526263">J&J's booster shown effective against Covid hospitalization</a> Politico: The results mark the first evidence of the effectiveness of such a vaccine boost while Omicron is circulating. 
  <p class="updated_time"> 07:02 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069048017/michigan-paid-8-5-billion-in-fraudulent-jobless-claims-during-the-pandemic">Michigan paid up to $8.5 billion in fraudulent jobless claims during the pandemic</a> NPR: Other states have reported similar losses. Ohio reported it paid out more than $3.8 billion in fraudulent jobless aid. California has paid out at least $20 billion. 
- <p class="updated_time"> 05:58 AM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/29/politics/biden-putin-call/index.html">Biden to speak with Putin at Russian leader's request</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Thursday afternoon "to discuss a range of topics, including upcoming diplomatic engagements with Russia," National Security Council spokesperson Emily Horne told CNN. 
  <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-administration-shifting-covid-guidance/index.html">Biden administration signals pandemic strategy shift in the face of Omicron </a> CNN: America is plunging into a fast-worsening and frightening winter bout with Covid-19 that will leave few citizens and communities untouched. But as the highly transmissible Omicron variant roars across the country, the Biden administration is revealing the most tangible signs of a shifting pandemic strategy several weeks in the making. It is preparing a nation exhausted by two years of battling the invisible enemy to live more feasibly alongside it. 
  <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
@@ -258,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/us/politics/pentagon-guantanamo-secret-courtroom.html">Pentagon Building New Secret Courtroom at Guantánamo Bay</a> NYT: The concept is to permit two military judges to hold proceedings simultaneously starting in mid-2023. 
  <p class="updated_time"> 08:49 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/melania-trump-steps-back-into-the-public-eye/index.html">Melania Trump steps back into the public eye </a> CNN: After months of relative public silence, former first lady Melania Trump before Christmas emerged from private life to announce a new project: A piece of artwork, a watercolor closeup of her eyes, in the form of a non-fungible token (NFT) was now available for purchase. 
- <p class="updated_time"> 05:29 PM CT, Dec. 29 </p> 
- <a href="https://www.cnn.com/2021/12/29/politics/trump-supreme-court-washington-post-bennie-thompson/index.html">Trump wants SCOTUS to read Washington Post interview with Bennie Thompson</a> CNN: As the Supreme Court considers whether to take up former President Donald Trump's January 6 White House records case, Trump's attorney submitted to the court a new filing Wednesday making the court aware of a Washington Post interview with Rep. Bennie Thompson, who chairs the House select committee seeking the records. 
  <p class="updated_time"> 05:15 PM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/ghislaine-maxwell-convicted-in-epstein-sex-abuse-case-526252">Ghislaine Maxwell convicted in Epstein sex abuse case</a> Politico: She faces the likelihood of years in prison. 
  <p class="updated_time"> 04:09 PM CT, Dec. 29 </p> 
@@ -284,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/harry-reid-shaped-chuck-schumer-526233">‘He’s a press guy, I’m not’: How Harry Reid shaped Chuck Schumer</a> Politico: Schumer called Reid “my leader, my mentor, one of my dearest friends,” after the former Senate majority leader’s death Tuesday. 
  <p class="updated_time"> 09:17 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/cdc-defends-new-covid-guidelines-526234">‘This was the moment’: CDC defends altered guidance amid Omicron surge</a> Politico: Director Rochelle Walensky acknowledged that the decision to shorten the recommended isolation period “really had a lot to do with what we thought people would be able to tolerate.” 
- <p class="updated_time"> 07:06 AM CT, Dec. 29 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/january-6-portland-unrest-compare-judges/index.html">Two Trump-appointed judges reject comparisons between January 6 and Portland political unrest</a> CNN: Two Trump-appointed federal judges have rejected claims from January 6 defendants that they're being treated unfairly, because of their conservative politics, compared with left-leaning rioters in Portland, Oregon, in the summer of 2020. 
  <p class="updated_time"> 06:06 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/agenda/2021/12/29/teachers-districts-hybrid-education-526214">‘I Feel Half as Successful’: Teachers Push to Ban Hybrid Instruction, But Districts Want to Keep It</a> Politico: Teachers want to ban teaching students in person and online at the same time. Some education leaders say it should be what the future looks like. 
  <p class="updated_time"> 06:00 AM CT, Dec. 29 </p> 
@@ -316,6 +310,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/28/us-new-daily-high-covid-526223">U.S. sets new daily high for Covid cases</a> Politico: The Centers for Disease Control and Prevention’s tally represents a grim new milestone in the coronavirus pandemic. 
  <p class="updated_time"> 05:37 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/business/media/nyt-project-veritas.html">Judge Says New York Times Can Retain Project Veritas Memos, for Now</a> NYT: A New York appeals court said the paper did not need to immediately give up or destroy documents related to the conservative group. The paper is still prevented from publishing certain documents. 
+ <p class="updated_time"> 05:14 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/andrew-cuomo-westchester-county-no-charges/index.html">Ex-New York Gov. Cuomo will not be criminally charged by Westchester County district attorney over alleged inappropriate conduct</a> CNN: Westchester District Attorney Miriam Rocah announced on Tuesday her office will not criminally charge former New York Gov. Andrew Cuomo after a "thorough" investigation into allegations of inappropriate conduct made by two women against him. 
  <p class="updated_time"> 05:05 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/trump-jan-6.html">Jan. 6 Committee Shelves Requests for Hundreds of Trump Records</a> NYT: The Biden administration asked to shield some sensitive documents but continued to reject Trump’s blanket claim of executive privilege. 
  <p class="updated_time"> 04:41 PM CT, Dec. 28 </p> 
@@ -358,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/26/dingell-upton-michigan-toxic-congress-526152">Michigan lawmakers look to a less-toxic future in Congress</a> Politico: Debbie Dingell and Fred Upton both cited Bob Dole as a positive Washington role model. 
  <p class="updated_time"> 10:42 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/26/omicron-crashes-the-holidays-495552"> Omicron crashes the holidays</a> Politico Playbook: And the spread of the Omicron variant threw many Americans’ holiday travel plans 
- <p class="updated_time"> 08:35 AM CT, Dec. 26 </p> 
- <a href="https://www.cnn.com/2021/12/26/politics/debbie-dingell-fred-upton-cnntv/index.html">Two lawmakers say their bipartisan friendship a model for overcoming 'toxic' year in Washington</a> CNN: Two Michigan lawmakers from opposite sides of the aisle came together to urge the importance of unity and kindness after a "toxic" year in Washington and across the country. 
  <p class="updated_time"> 10:51 AM CT, Dec. 25 </p> 
  <a href="https://www.nytimes.com/2021/12/25/business/biden-inflation.html">As Prices Rise Due to Inflation, Biden Turns to Antitrust Enforcers</a> NYT: A wide-ranging presidential order helped block a railroad merger and tackle supply-chain problems, and it is planting the seeds for bigger actions. 
  <p class="updated_time"> 08:44 AM CT, Dec. 25 </p> 
