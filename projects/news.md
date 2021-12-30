@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:03 PM CT, Dec. 30 </p> 
+ <p class="updated_time"> 12:26 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: F.D.A. Is Said to Be Near Allowing Boosters for 12- to 15-Year-Olds</a> NYT: The U.S. set a one-day record of nearly half a million cases, a staggering figure, although hospitalizations are not rising as fast. A study shows that a booster shot of the Johnson & Johnson vaccine provides strong protection against Omicron. 
+ <p class="updated_time"> 12:25 PM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59827051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Survivors speak of relief after guilty verdict</a> BBC: Annie Farmer, who was groomed by Ghislaine Maxwell, says she hopes the verdict will bring others solace. 
+ <p class="updated_time"> 12:07 PM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59833150?at_medium=RSS&at_campaign=KARANGA">Virginia Confederate monuments likely headed to black history museum</a> BBC: A black history museum and culture centre in Richmond may soon receive the controversial memorials. 
+ <p class="updated_time"> 12:05 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/asia/ashraf-ghani-bbc-interview.html">Ashraf Ghani, Former Afghan President, Says He Fled Nation to 'Save Kabul'</a> NYT: In his first interview since escaping Afghanistan as the Taliban advanced on the capital, Ashraf Ghani defended himself against charges that he abandoned his country in its hour of need. 
  <p class="updated_time"> 11:28 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/arts/music/sam-fender.html">Sam Fender, a Songwriter Caught Between Stardom and His Hometown</a> NYT: The musician is fast becoming one of Britain’s biggest rock acts with tracks about working class life in North Shields. Can he let himself leave the town? 
  <p class="updated_time"> 11:19 AM CT, Dec. 30 </p> 
@@ -17,14 +23,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/americas/bbc-alan-dershowitz-ghislaine-maxwell-epstein.html">BBC to Look Into Alan Dershowitz Interview on Ghislaine Maxwell Verdict</a> NYT: The American lawyer spoke to the British broadcaster about the verdict in the Ghislaine Maxwell case, but his connections to the case were not made clear. 
  <p class="updated_time"> 10:47 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/us-covid-case-record-omicron.html">U.S. Coronavirus Cases Set New Records</a> NYT: As a third year of the pandemic loomed, the seven-day average of U.S. cases topped 267,000 on Tuesday. 
- <p class="updated_time"> 10:46 AM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59827051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Survivors speak of relief after guilty verdict</a> BBC: Annie Farmer, who was groomed by Ghislaine Maxwell, said she hoped the verdict would bring others solace. 
  <p class="updated_time"> 10:45 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/28/health/covid-isolation-period-omicron.html">Will Shortened Isolation Periods Without Testing Spread the Virus?</a> NYT: Without rapid testing, some experts fear new U.S. guidelines may mean infected people leave isolation while still contagious. The C.D.C. director said masking was a better option. 
  <p class="updated_time"> 10:39 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/kyiv-ukraine-war-russia-bomb-shelters.html">Ukrainians Set Sights on the New Year, Not a New War</a> NYT: As the government designates bomb shelters and provides guidance on how to tape windows in case of an attack by Russia, Ukrainians carry on. 
  <p class="updated_time"> 10:30 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/30/1068920127/the-goal-at-least-40-vaxxed-in-all-nations-by-year-end-this-map-shows-how-we-sta">The goal: at least 40% vaxxed in all nations by year-end. This map shows how we stand</a> NPR: The program called COVAX was set up to make sure that all countries have access to COVID vaccines. Two key public health figures talk about what went wrong — and how to fix it. 
+ <p class="updated_time"> 10:29 AM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59818800?at_medium=RSS&at_campaign=KARANGA">Tesla to recall 475,000 cars in the US</a> BBC: The number of cars being recalled is nearly equivalent to the firm's global deliveries last year. 
  <p class="updated_time"> 09:37 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59826091?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu's body lies in state in his old cathedral</a> BBC: South Africa's revered clergyman, who has died aged 90, asked for "lavish spending" to be avoided. 
  <p class="updated_time"> 09:18 AM CT, Dec. 30 </p> 
@@ -43,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">As the Kremlin Revises History, a Human Rights Champion Becomes a Casualty</a> NYT: The shuttering of Memorial, the country’s most prominent human rights organization, has saddened Russians who were personally touched by its work shining a light on the injustices of the Soviet past. 
  <p class="updated_time"> 07:00 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807737?at_medium=RSS&at_campaign=KARANGA">Ashraf Ghani: Ex-Afghan president describes moment he fled the Taliban</a> BBC: Speaking to the BBC, Ashraf Ghani tackles criticism he left Afghanistan as the Taliban closed in. 
- <p class="updated_time"> 06:53 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/asia/ashraf-ghani-bbc-interview.html">Ashraf Ghani, Former Afghan President, Says He Fled Nation to 'Save Kabul'</a> NYT: In his first interview since escaping Afghanistan as the Taliban advanced on the capital, Ashraf Ghani defended himself against charges that he abandoned his country in its hour of need. 
  <p class="updated_time"> 06:26 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59818978?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden and Putin phone call seeks 'diplomatic path'</a> BBC: The presidents of the US and Russia will speak in a bid to de-escalate tensions over Ukraine. 
  <p class="updated_time"> 06:15 AM CT, Dec. 30 </p> 
@@ -61,6 +65,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59827047?at_medium=RSS&at_campaign=KARANGA">China bans its national football players from getting tattoos</a> BBC: Top players who already have body art are told to remove it, as a good example for society. 
  <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/ano-viejo-tradition.html">Años Viejos: Torching the Old Year to Toast the New One</a> NYT: In parts of Latin America, the traditional burning of rag dolls was used to symbolically banish the woes of the year gone by. Nowadays, it’s not uncommon to see TV hosts and ex-presidents going up in flames. 
+ <p class="updated_time"> 04:27 AM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59825904?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Tournament is being 'disrespected', says former England striker Ian Wright</a> BBC: The Africa Cup of Nations is being "disrespected" by some negative media coverage, says former England striker Ian Wright. 
  <p class="updated_time"> 04:23 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069033446/officials-promise-groceries-for-xian-china-city-of-13-million-under-lockdown">Officials promise groceries for Xi'an, China, city of 13 million under lockdown</a> NPR: Officials pledged steady deliveries of groceries to residents of Xi'an, a city of 13 million that is under the strictest lockdown of a major Chinese city since Wuhan at the start of the pandemic. 
  <p class="updated_time"> 04:11 AM CT, Dec. 30 </p> 
@@ -79,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/suspect-in-japan-fire-that-killed-25-people-dies-from-injuries-11640868676">Suspect in Japan Fire That Killed 25 Dies From Injuries</a> WSJ: The blaze at an Osaka mental-health clinic earlier this month was one of the deadliest in modern Japanese history. 
  <p class="updated_time"> 01:01 AM CT, Dec. 30 </p> 
  <a href="https://www.wsj.com/articles/who-warns-that-shorter-quarantines-are-trade-off-as-omicron-surges-11640864511">WHO Warns That Shorter Quarantines Are Trade-Off as Omicron Surges</a> WSJ: With more countries easing requirements as they seek to keep economies running, the World Health Organization said there is a risk that some people will go on to spread Covid-19 after their reduced isolation periods expire. 
- <p class="updated_time"> 12:33 AM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59824914?at_medium=RSS&at_campaign=KARANGA">Australia: Protesters set Old Parliament House in Canberra on fire</a> BBC: The blaze was quickly put out but marks an escalation in indigenous protests in Canberra. 
  <p class="updated_time"> 11:48 PM CT, Dec. 29 </p> 
  <a href="https://www.wsj.com/articles/omicron-roils-australias-exit-from-zero-covid-strategy-11640861284">Omicron Roils Australia's Exit From Zero-Covid Strategy</a> WSJ: Australia’s struggles could presage similar challenges in Asian countries that have tried to eliminate Covid-19 or keep cases low. 
  <p class="updated_time"> 11:40 PM CT, Dec. 29 </p> 
@@ -139,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1066718893/kevin-dawes-sues-syria">An American was locked up in Syria. A pact with a British inmate may have saved him</a> NPR: Kevin Dawes describes how a fellow prisoner in Syria kept a promise that called attention to Dawes' detention. Now, five years after his release, Dawes is suing the Syrian regime. 
  <p class="updated_time"> 12:07 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/singapore-vaccination-fraud-malaysia.html">Singapore charges a man accused of lending out his vaccination record, and other international news.</a> NYT: A 65-year-old used the records of a 37-year-old to pretend he had been fully vaccinated, court indictments said. 
- <p class="updated_time"> 11:30 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59820999?at_medium=RSS&at_campaign=KARANGA">Alaska 'Icemageddon' warning follows heat record</a> BBC: The coldest US state faces weather extremes after heavy snowfall and torrential rain. 
  <p class="updated_time"> 11:20 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/middleeast/israel-avian-flu.html">Israel's Avian Flu Outbreak Has Killed Thousands of Cranes</a> NYT: Thousands of migratory cranes have died and more than half a million chickens have been culled as the country tries to contain a deadly bird virus. 
  <p class="updated_time"> 10:41 AM CT, Dec. 29 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1068587810/russias-supreme-court-shuts-down-human-rights-group-that-preserved-history">Russia's Supreme Court shuts down human rights group that preserved history</a> NPR: For decades, the Russian human rights group Memorial has tried to preserve the story of the Soviet Union's darkest years. The country's high court ordered it closed Tuesday. 
  <p class="updated_time"> 03:14 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/omicron-covid-contagious-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
- <p class="updated_time"> 01:25 PM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59812890?at_medium=RSS&at_campaign=KARANGA">Jordan MPs fighting in parliament session live-streamed on local television</a> BBC: The argument began as the chamber debated constitutional reforms, including gender equality. 
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/omicron.html">Fears of Omicron’s Rapid Spread Are Tempered by Signs of Milder Illness</a> NYT: “We can’t stop it,” Israel’s prime minister said of the Omicron variant, but that warning was blunted by early signs of potentially less-severe illness than with earlier coronavirus iterations. 
  <p class="updated_time"> 10:46 AM CT, Dec. 28 </p> 
@@ -184,14 +184,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:12 PM CT, Dec. 30 </p> 
+ <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden hopes for Ukraine de-escalation in call with Putin</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 11:48 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/politics/boosters-12-15-year-olds-omicron.html">F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters</a> NYT: Regulators will also allow even younger children with immune deficiencies to get an extra shot. 
  <p class="updated_time"> 11:35 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/marines-kick-out-troops-covid-vaccine-526266">Marines kick out 206 troops for refusing Covid-19 vaccine</a> Politico: Overall, 95 percent of all active-duty Marines have received at least the first dose. 
  <p class="updated_time"> 10:40 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1068766592/top-fresh-air-stories-2021">You won't want to miss the 10 most popular 'Fresh Air' stories of 2021</a> NPR: From Dr. Anthony Fauci to Sacha Baron Cohen, the year's most popular Fresh Air web pages reflect the show's strength as a place where artists, authors and journalists speak to the moment. 
- <p class="updated_time"> 10:35 AM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden hopes for Ukraine de-escalation in call with Putin</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
  <p class="updated_time"> 09:50 AM CT, Dec. 30 </p> 
