@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:24 AM CT, Dec. 30 </p> 
+ <p class="updated_time"> 05:32 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Sets One-Day Record With Nearly Half a Million New Cases</a> NYT: The staggering figure is almost twice as high as the worst days of last winter, and may be an undercount. Hospitalizations are not rising as fast, raising hopes that the Omicron wave is producing less severe illness. 
  <p class="updated_time"> 05:04 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/china-xian-lockdown-covid.html">China Keeps 13 Million in Xi’an Under Strict Lockdown </a> NYT: The severe measures in Xi’an have prompted concern, as residents complain on social media of having trouble ordering food online. 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-administration-shifting-covid-guidance/index.html">Biden administration signals pandemic strategy shift in the face of Omicron </a> CNN: America is plunging into a fast-worsening and frightening winter bout with Covid-19 that will leave few citizens and communities untouched. But as the highly transmissible Omicron variant roars across the country, the Biden administration is revealing the most tangible signs of a shifting pandemic strategy several weeks in the making. It is preparing a nation exhausted by two years of battling the invisible enemy to live more feasibly alongside it. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
+ <a href="https://www.politico.com/news/2021/12/30/mark-walker-north-carolina-trump-526235">Former GOP congressman faces Trump squeeze in key Senate race</a> Politico: Former Rep. Mark Walker's looming decision: whether to drop down and run in a House primary, or continue his uphill bid against a Trump-endorsed rival. 
  <p class="updated_time"> 04:10 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Disillusionment and disappointment: Biden's White House struggles to find its footing on immigration</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
  <p class="updated_time"> 04:07 AM CT, Dec. 30 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1067206141/biden-federal-judges-nominations-diverse">Biden had a productive year picking federal judges. The job could get tougher in 2022</a> NPR: President Biden has gotten a diverse group of 40 federal judges confirmed in 2021, the most for a new president since the Reagan era. 
  <p class="updated_time"> 05:25 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/sarah-weddington-dead.html">Sarah Weddington, Who Successfully Argued Roe v. Wade, Dies at 76</a> NYT: She went before the U.S. Supreme Court at 26 with almost no legal experience and won one of the most consequential cases in American history. 
- <p class="updated_time"> 04:42 PM CT, Dec. 27 </p> 
- <a href="https://www.politico.com/news/2021/12/27/cdc-cut-quarantine-covid-omicron-526187">CDC cuts recommended quarantine time amid Omicron surge</a> Politico: The reduction follows the CDC’s move last week to shorten its isolation period for infected health care workers, assuming they are asymptomatic and later test negative. 
  <p class="updated_time"> 04:20 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/biden-defense-bill.html">President Biden Signs $770 Billion Defense Bill</a> NYT: The National Defense Authorization Act passed Congress with bipartisan support, over the opposition of liberals pushing for more social spending. 
  <p class="updated_time"> 03:19 PM CT, Dec. 27 </p> 
