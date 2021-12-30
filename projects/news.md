@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:13 AM CT, Dec. 30 </p> 
+ <p class="updated_time"> 11:30 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: F.D.A. Is Said to Be Near Allowing Boosters for 12- to 15-Year-Olds</a> NYT: The U.S. set a one-day record of nearly half a million cases, a staggering figure, although hospitalizations are not rising as fast. A study shows that a booster shot of the Johnson & Johnson vaccine provides strong protection against Omicron. 
+ <p class="updated_time"> 11:28 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/arts/music/sam-fender.html">Sam Fender, a Songwriter Caught Between Stardom and His Hometown</a> NYT: The musician is fast becoming one of Britain’s biggest rock acts with tracks about working class life in North Shields. Can he let himself leave the town? 
+ <p class="updated_time"> 11:19 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/americas/mexico-cruises.html">Mexico Says It will Allow Cruise Ships With Covid Cases to Dock</a> NYT: The Latin American nation is among the few in the world to have imposed no restrictions or testing requirements for travelers. 
  <p class="updated_time"> 11:10 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/bbc-alan-dershowitz-ghislaine-maxwell-epstein.html">BBC to Look Into Alan Dershowitz Interview on Ghislaine Maxwell Verdict</a> NYT: The American lawyer spoke to the British broadcaster about the verdict in the Ghislaine Maxwell case, but his connections to the case were not made clear. 
- <p class="updated_time"> 11:00 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/americas/mexico-cruises.html">Mexico says it will allow cruise ships with Covid outbreaks to dock.</a> NYT: The Latin American nation is among the few in the world to have imposed no restrictions or testing requirements for travelers. 
  <p class="updated_time"> 10:47 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/us-covid-case-record-omicron.html">U.S. Coronavirus Cases Set New Records</a> NYT: As a third year of the pandemic loomed, the seven-day average of U.S. cases topped 267,000 on Tuesday. 
  <p class="updated_time"> 10:46 AM CT, Dec. 30 </p> 
@@ -143,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/middleeast/israel-avian-flu.html">Israel's Avian Flu Outbreak Has Killed Thousands of Cranes</a> NYT: Thousands of migratory cranes have died and more than half a million chickens have been culled as the country tries to contain a deadly bird virus. 
  <p class="updated_time"> 10:41 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/myanmar-coup-refugees.html">Stay or Go? For Myanmar’s Latest Wave of Refugees, There’s No Good Choice.</a> NYT: Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire. 
- <p class="updated_time"> 09:41 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile Writes Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
  <p class="updated_time"> 12:54 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068696336/hong-kong-police-raid-pro-democracy-news-outlet-arrest-6">Hong Kong pro-democracy news site closes after raid, arrests</a> NPR: A vocal pro-democracy website in Hong Kong shut down Wednesday after police raided its office and arrested six in a continuing crackdown on dissent. 
  <p class="updated_time"> 11:51 PM CT, Dec. 28 </p> 
@@ -173,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/omicron-covid-contagious-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
  <p class="updated_time"> 02:29 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/refugees-afghanistan-pakistan.html">Born and Raised in Pakistan, but Living in Legal Limbo</a> NYT: Pakistan has refused to grant the children of Afghan refugees full rights as citizens. A lack of identification documents limits their livelihoods and puts them at risk of deportation. 
- <p class="updated_time"> 02:12 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/new-delhi-doctor-strike.html">Doctors Strike Over Understaffing Disrupts Delhi Hospitals</a> NYT: While the country’s overall case count remains low, daily infections in the capital region have risen by more than 300 percent over the past two weeks. 
  <p class="updated_time"> 01:25 PM CT, Dec. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59812890?at_medium=RSS&at_campaign=KARANGA">Jordan MPs fighting in parliament session live-streamed on local television</a> BBC: The argument began as the chamber debated constitutional reforms, including gender equality. 
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
@@ -190,6 +188,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:35 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/marines-kick-out-troops-covid-vaccine-526266">Marines kick out 206 troops for refusing Covid-19 vaccine</a> Politico: Overall, 95 percent of all active-duty Marines have received at least the first dose. 
+ <p class="updated_time"> 11:25 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/us/politics/boosters-12-15-year-olds-omicron.html">F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters</a> NYT: Regulators will also allow even younger children with immune deficiencies to get an extra shot. 
  <p class="updated_time"> 10:40 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1068766592/top-fresh-air-stories-2021">You won't want to miss the 10 most popular 'Fresh Air' stories of 2021</a> NPR: From Dr. Anthony Fauci to Sacha Baron Cohen, the year's most popular Fresh Air web pages reflect the show's strength as a place where artists, authors and journalists speak to the moment. 
  <p class="updated_time"> 10:35 AM CT, Dec. 30 </p> 
@@ -376,12 +376,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/24/biden-rural-evictions-526089">Biden’s about to adopt a policy that could hurt Dems even more with rural voters</a> Politico: About half of the $46.5 billion in federal rental aid made available during the pandemic is expected to be spent by the end of this year. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-social-spending-senate-parliamentarian-526081">Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</a> Politico: The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan. 
- <p class="updated_time"> 06:30 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/us/politics/medicaid-work-requirements-georgia-biden.html">Biden Administration Rejects Medicaid Work Requirements in Georgia</a> NYT: The decision continued the administration’s rollback of the Trump-era policy, targeting the only remaining state with federal approval for the requirements. 
  <p class="updated_time"> 04:47 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/als-research-biden-bill-signing/index.html">Biden says bipartisan legislation funding ALS research 'represents the spirit of the season' </a> CNN: President Joe Biden on Thursday signed into law bipartisan legislation that expands funding for amyotrophic lateral sclerosis research, hailing it as in "the spirit of the season." 
- <p class="updated_time"> 11:30 AM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/dccc-partnership-campaign-staff-diversity-526041">DCCC launching partnership to boost campaign staff diversity</a> Politico: House Democrats' campaign arm is partnering with Blue Leadership Collaborative to recruit and retain people of color, women and people who identify as queer as senior staff. 
 
 
 </details>
