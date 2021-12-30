@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:26 PM CT, Dec. 30 </p> 
+ <p class="updated_time"> 12:49 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: F.D.A. Is Said to Be Near Allowing Boosters for 12- to 15-Year-Olds</a> NYT: The U.S. set a one-day record of nearly half a million cases, a staggering figure, although hospitalizations are not rising as fast. A study shows that a booster shot of the Johnson & Johnson vaccine provides strong protection against Omicron. 
+ <p class="updated_time"> 12:43 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-virus-omicron.html">U.K., on ‘War Footing’ Against Virus, Provides Lessons for U.S.</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
+ <p class="updated_time"> 12:39 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/americas/bbc-alan-dershowitz-ghislaine-maxwell-epstein.html">BBC to Look Into Alan Dershowitz Interview on Ghislaine Maxwell Verdict</a> NYT: The American lawyer spoke to the British broadcaster about the verdict in the Ghislaine Maxwell case, but his connections to the case were not made clear. 
  <p class="updated_time"> 12:25 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59827051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Survivors speak of relief after guilty verdict</a> BBC: Annie Farmer, who was groomed by Ghislaine Maxwell, says she hopes the verdict will bring others solace. 
  <p class="updated_time"> 12:07 PM CT, Dec. 30 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/arts/music/sam-fender.html">Sam Fender, a Songwriter Caught Between Stardom and His Hometown</a> NYT: The musician is fast becoming one of Britain’s biggest rock acts with tracks about working class life in North Shields. Can he let himself leave the town? 
  <p class="updated_time"> 11:19 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/mexico-cruises.html">Mexico Says It will Allow Cruise Ships With Covid Cases to Dock</a> NYT: The Latin American nation is among the few in the world to have imposed no restrictions or testing requirements for travelers. 
- <p class="updated_time"> 11:10 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/americas/bbc-alan-dershowitz-ghislaine-maxwell-epstein.html">BBC to Look Into Alan Dershowitz Interview on Ghislaine Maxwell Verdict</a> NYT: The American lawyer spoke to the British broadcaster about the verdict in the Ghislaine Maxwell case, but his connections to the case were not made clear. 
  <p class="updated_time"> 10:47 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/us-covid-case-record-omicron.html">U.S. Coronavirus Cases Set New Records</a> NYT: As a third year of the pandemic loomed, the seven-day average of U.S. cases topped 267,000 on Tuesday. 
  <p class="updated_time"> 10:45 AM CT, Dec. 30 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/omicron-covid-contagious-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/omicron.html">Fears of Omicron’s Rapid Spread Are Tempered by Signs of Milder Illness</a> NYT: “We can’t stop it,” Israel’s prime minister said of the Omicron variant, but that warning was blunted by early signs of potentially less-severe illness than with earlier coronavirus iterations. 
- <p class="updated_time"> 10:46 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/europe/windsor-castle-intruder.html">Britain’s Crossbow Rules in the Cross Hairs After Windsor Castle Breach</a> NYT: Britain’s Home Office said it was “considering options to strengthen controls” on the weapons, part of a continuing review, after a man was arrested in castle grounds with one. 
 
 
 </details>
