@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:03 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: Incoming Mayor to Keep N.Y.C.’s Private-Sector Vaccine Mandate</a> NYT: The U.S. set a one-day record of nearly half a million cases, a staggering figure, although hospitalizations are not rising as fast. A study shows that a booster shot of the Johnson & Johnson vaccine provides strong protection against Omicron. 
  <p class="updated_time"> 09:37 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59826091?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu's body lies in state in his old cathedral</a> BBC: South Africa's revered clergyman, who has died aged 90, asked for "lavish spending" to be avoided. 
- <p class="updated_time"> 09:36 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: Incoming Mayor to Keep N.Y.C.’s Private-Sector Vaccine Mandate</a> NYT: The U.S. set a one-day record of nearly half a million cases, a staggering figure, although hospitalizations are not rising as fast. A study shows that a booster shot of the Johnson & Johnson vaccine provides strong protection against Omicron. 
  <p class="updated_time"> 09:18 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/india-third-wave-covid.html">India Fears a Third Wave of Covid, Driven by Omicron</a> NYT: The health ministry recorded more than 13,000 new cases in a day, one of the highest daily totals since October. 
  <p class="updated_time"> 08:53 AM CT, Dec. 30 </p> 
@@ -48,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:23 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069033446/officials-promise-groceries-for-xian-china-city-of-13-million-under-lockdown">Officials promise groceries for Xi'an, China, city of 13 million under lockdown</a> NPR: Officials pledged steady deliveries of groceries to residents of Xi'an, a city of 13 million that is under the strictest lockdown of a major Chinese city since Wuhan at the start of the pandemic. 
  <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/asia/tesla-batteries-nickel-new-caledonia.html">Can a Tiny Territory in the South Pacific Power Tesla’s Ambitions?</a> NYT: Nickel is vital to electric car batteries, but extracting it is dirty and destructive. A plant with a turbulent history in New Caledonia is about to become an experiment in sustainable mining. 
+ <a href="https://www.nytimes.com/2021/12/30/world/asia/tesla-batteries-nickel-new-caledonia.html">Can A Sustainable Mining Experiment in New Caledonia Power Tesla's Ambitions</a> NYT: Nickel is vital to electric car batteries, but extracting it is dirty and destructive. A plant with a turbulent history in New Caledonia is about to become an experiment in sustainable mining. 
  <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/most-popular-dispatches-2021.html">In 2021, We Were There: The Year’s 14 Most Popular Dispatches</a> NYT: Not even a pandemic, wars or autocrats could prevent our correspondents from seeking out secrets and surprises to share with readers. They sent dispatches from 40 countries on six continents. 
  <p class="updated_time"> 03:33 AM CT, Dec. 30 </p> 
