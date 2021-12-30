@@ -70,7 +70,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:27 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068842676/biden-will-speak-by-phone-with-putin-as-russia-ramps-up-presence-on-ukraine-bord">Biden will speak by phone with Putin as Russia ramps up presence on Ukraine border</a> NPR: The request for a call on Thursday came from the Kremlin. The White House said, "It will take a high level of engagement to address this and to try to find a path to de-escalation." 
  <p class="updated_time"> 01:26 PM CT, Dec. 29 </p> 
- <a href="https://www.wsj.com/articles/with-omicron-case-rates-surging-policy-makers-focus-on-hospitalizations-instead-11640778907">U.S. Hit With Record Number of New Covid-19 Cases</a> WSJ: Infections surge as health officials expect the Omicron variant to keep spreading. 
+ <a href="https://www.wsj.com/articles/with-omicron-case-rates-surging-policy-makers-focus-on-hospitalizations-instead-11640778907">U.S. Hit With Record Number of New Covid-19 Cases</a> WSJ: Infections surged to a pandemic record 265,427 cases a day on average, as health officials expect the Omicron variant to keep spreading. 
  <p class="updated_time"> 01:21 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/france-left-presidential-election-primary.html">A Movement to Unify the French Left Might Be Its Last Chance for the Elections</a> NYT: A citizens’ initiative is pressuring the fragmented force to set parties’ interests aside and join together for next year’s presidential race. 
  <p class="updated_time"> 01:04 PM CT, Dec. 29 </p> 
@@ -191,7 +191,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:47 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
  <p class="updated_time"> 06:09 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Ungerrymandered: Michigan’s Maps, Independently Drawn, Set Up Fair Fight</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
+ <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Michigan’s New Congressional Maps Undo Years of Gerrymandering</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
  <p class="updated_time"> 05:32 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/2022-scotus-covid-biden-trump-midterms/index.html">Analysis: 5 big things to watch in 2022</a> CNN: 5. Biden/Trump 2024 
  <p class="updated_time"> 05:29 PM CT, Dec. 29 </p> 
