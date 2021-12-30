@@ -11,6 +11,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: South Africa Says Its Omicron Wave Has Passed With No Big Spike in Deaths</a> NYT: The announcement offered cautious hope to other countries grappling with the fast-spreading variant. The C.D.C. urged Americans to stay off cruise ships, regardless of vaccination status. More than 1,200 U.S. flights were canceled. 
  <p class="updated_time"> 04:40 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-virus-omicron.html">U.K., With Surging Cases, Is on ‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
+ <p class="updated_time"> 04:38 PM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59832843?at_medium=RSS&at_campaign=KARANGA">Omicron: South Africa ends night-time curfew</a> BBC: Officials relax restrictions noting lower hospital admissions from the Omicron variant than feared. 
  <p class="updated_time"> 04:35 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/obituaries/deaths-in-2021-headline-names-against-the-backdrop-of-pandemic.html">Deaths in 2021: Headline Names Against the Backdrop of Pandemic</a> NYT: Aaron, Sondheim, Dole and Didion. But the loss of Colin Powell from the virus spoke most directly to the moment the world is in. 
  <p class="updated_time"> 04:20 PM CT, Dec. 30 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/israel-4th-dose-covid-vaccine.html">Israel Approves 4th Dose of Covid Vaccine for Some</a> NYT: The Ministry of Health said it was waiting for more data from Israel and abroad before approving any broader rollout of fourth shots. 
  <p class="updated_time"> 02:36 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/indonesia-rohingya-boat.html">Indonesia Accepts Stranded Refugee Boat After Vowing to Turn It Away</a> NYT: The boat landed with more than 100 Rohingya refugees on board. Indonesia initially said it would turn the vessel away, but relented under pressure from rights groups. 
- <p class="updated_time"> 02:26 PM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59833446?at_medium=RSS&at_campaign=KARANGA">Avoid new year parties, Irish health minister urges</a> BBC: Ireland's chief medical officer has expressed concern at the recent surge in Covid-19 cases. 
  <p class="updated_time"> 01:55 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59818978?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden and Putin phone call seeks 'diplomatic path'</a> BBC: The presidents of the US and Russia will speak in a bid to de-escalate tensions over Ukraine. 
  <p class="updated_time"> 01:54 PM CT, Dec. 30 </p> 
@@ -39,12 +39,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59833150?at_medium=RSS&at_campaign=KARANGA">Virginia Confederate monuments likely headed to black history museum</a> BBC: A black history museum in Richmond may soon receive the controversial memorials. 
  <p class="updated_time"> 01:18 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59833262?at_medium=RSS&at_campaign=KARANGA">Covid: Woman isolates in toilet for five hours after positive mid-flight test</a> BBC: A US teacher says she spent five hours in the toilet after testing positive for Covid-19. 
+ <p class="updated_time"> 01:02 PM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59832838?at_medium=RSS&at_campaign=KARANGA">Russia labels Pussy Riot members foreign agents</a> BBC: Journalists and other prominent figures also feature on an updated justice ministry list. 
  <p class="updated_time"> 12:39 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/bbc-alan-dershowitz-ghislaine-maxwell-epstein.html">BBC to Look Into Alan Dershowitz Interview on Ghislaine Maxwell Verdict</a> NYT: The American lawyer spoke to the British broadcaster about the verdict in the Ghislaine Maxwell case, but his connections to the case were not made clear. 
  <p class="updated_time"> 12:25 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59827051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Survivors speak of relief after guilty verdict</a> BBC: Annie Farmer, who was groomed by Ghislaine Maxwell, says she hopes the verdict will bring others solace. 
  <p class="updated_time"> 12:05 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/ashraf-ghani-bbc-interview.html">Ashraf Ghani, Former Afghan President, Says He Fled Nation to 'Save Kabul'</a> NYT: In his first interview since escaping Afghanistan as the Taliban advanced on the capital, Ashraf Ghani defended himself against charges that he abandoned his country in its hour of need. 
+ <p class="updated_time"> 11:52 AM CT, Dec. 30 </p> 
+ <a href="https://www.wsj.com/articles/who-warns-that-shorter-quarantines-are-trade-off-as-omicron-surges-11640864511">U.S. Hits Record Number of New Covid Cases Twice in Same Week</a> WSJ: The Omicron surge is continuing as governments around the world ease self-isolation rules. 
  <p class="updated_time"> 11:28 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/arts/music/sam-fender.html">Sam Fender, a Songwriter Caught Between Stardom and His Hometown</a> NYT: The musician is fast becoming one of Britain’s biggest rock acts with tracks about working class life in North Shields. Can he let himself leave the town? 
  <p class="updated_time"> 11:19 AM CT, Dec. 30 </p> 
@@ -57,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/30/1068920127/the-goal-at-least-40-vaxxed-in-all-nations-by-year-end-this-map-shows-how-we-sta">The goal: at least 40% vaxxed in all nations by year-end. This map shows how we stand</a> NPR: The program called COVAX was set up to make sure that all countries have access to COVID vaccines. Two key public health figures talk about what went wrong — and how to fix it. 
  <p class="updated_time"> 10:29 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59818800?at_medium=RSS&at_campaign=KARANGA">Tesla to recall 475,000 cars in the US</a> BBC: The number of cars being recalled is nearly equivalent to the firm's global deliveries last year. 
- <p class="updated_time"> 10:06 AM CT, Dec. 30 </p> 
- <a href="https://www.wsj.com/articles/who-warns-that-shorter-quarantines-are-trade-off-as-omicron-surges-11640864511">U.S. Hits Record Number of New Covid Cases Twice in Same Week</a> WSJ: The Omicron surge is continuing as governments around the world ease self-isolation rules. 
  <p class="updated_time"> 09:37 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59826091?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu's body lies in state in his old cathedral</a> BBC: South Africa's revered clergyman, who has died aged 90, asked for "lavish spending" to be avoided. 
  <p class="updated_time"> 09:18 AM CT, Dec. 30 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/europe/webb-telescope-launch-space.html">A Divided World United to Launch the James Webb Space Telescope</a> NYT: “I’ve always seen space as an area where we cooperate, through all the trying times,” said a professor who oversaw mission control for the global effort to launch a $10 billion telescope into space. 
  <p class="updated_time"> 05:58 AM CT, Dec. 30 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-ashraf-ghani-defends-his-decision-to-escape-says-he-is-a-scapegoat-11640883496">Ashraf Ghani Defends His Decision to Flee Afghanistan</a> WSJ: Breaking a four-month silence following his flight to the U.A.E. and his government’s fall to the Taliban, the former Afghan president said he regrets being too accommodating to U.S. 
- <p class="updated_time"> 05:36 AM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59826100?at_medium=RSS&at_campaign=KARANGA">Tiger shot and dies at Naples Zoo in Florida after biting cleaner's arm</a> BBC: A cleaner had tried to pet or feed the animal in an unauthorised area, the sheriff's office said. 
  <p class="updated_time"> 04:45 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/health/johnson-vaccine-booster-omicron.html">J. & J. Booster Protects Against Severe Omicron, Study Says</a> NYT: Two shots of the vaccine reduced the risk of hospitalization from the fast-spreading variant by 85 percent, a clinical trial found. 
  <p class="updated_time"> 04:41 AM CT, Dec. 30 </p> 
