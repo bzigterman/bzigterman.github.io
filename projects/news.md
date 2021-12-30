@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:53 AM CT, Dec. 30 </p> 
+ <p class="updated_time"> 09:19 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Sets One-Day Record With Nearly Half a Million New Cases</a> NYT: The staggering figure is almost twice as high as the worst days of last winter, although hospitalizations are not rising as fast. A study shows that a booster shot of the Johnson & Johnson vaccine provides strong protection against Omicron. 
+ <p class="updated_time"> 09:18 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/india-third-wave-covid.html">India Fears a Third Wave of Covid, Driven by Omicron</a> NYT: The health ministry recorded more than 13,000 new cases in a day, one of the highest daily totals since October. 
  <p class="updated_time"> 08:53 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-nhs-field-hospitals-omicron.html">U.K. Plans Field Wards to Meet Omicron Surge</a> NYT: Unlike the “Nightingale hospitals” that went largely unused during the first virus wave, the new facilities are designed for patients needing less intensive treatment. 
  <p class="updated_time"> 08:34 AM CT, Dec. 30 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/hong-kong-pro-democracy-site-stand-news-closes-after-arrests-raid-11640771127">Hong Kong Pro-Democracy Site Stand News Closes After Arrests, Raid</a> WSJ: National security police detained seven people linked to the popular news site, dealing a further blow to freedom of speech in a city once celebrated for its rambunctious journalism. 
  <p class="updated_time"> 09:51 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/quebec-health-workers-positive-covid.html">Some Infected Quebec Health Care Workers can Continue Working</a> NYT: All essential workers in the province, including those who work in medicine, will be subject to the new rules. 
- <p class="updated_time"> 08:30 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/europe/russia-memorial-human-rights.html">Russian Court Orders Liquidation of the Human Rights Group Memorial </a> NYT: The Supreme Court ruled that Memorial International, which chronicled political repression in Russia, must be liquidated. 
  <p class="updated_time"> 07:12 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/health/covid-isolation-period-omicron.html">Will Shortened Isolation Periods Without Testing Spread the Virus?</a> NYT: Without rapid testing, some experts fear new U.S. guidelines may mean infected people leave isolation while still contagious. The C.D.C. director said masking was a better option. 
  <p class="updated_time"> 06:05 PM CT, Dec. 28 </p> 
@@ -189,15 +189,17 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556">Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
+ <p class="updated_time"> 09:50 AM CT, Dec. 30 </p> 
+ <a href="https://www.politico.com/news/2021/12/30/us-unemployment-claims-drop-526265">U.S. unemployment claims drop to 198,000</a> Politico: The four-week average, which smooths out week-to-week volatility, fell to just above 199,000, the lowest level since October 1969. 
+ <p class="updated_time"> 09:14 AM CT, Dec. 30 </p> 
+ <a href="https://www.cnn.com/2021/12/30/politics/cnn-january-6th-one-year-later/index.html">CNN to air 'Live from the Capitol: January 6th, One Year Later' marking 1-year anniversary of insurrection</a> CNN: Several lawmakers and members of the law enforcement community tasked with protecting the US Capitol will mark the one-year anniversary of the deadly insurrection there next month during a live event hosted by CNN, the network announced Thursday. 
  <p class="updated_time"> 08:39 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden hopes for Ukraine de-escalation in call with Putin</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 08:31 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Ungerrymandered: Michigan’s Maps, Independently Drawn, Set Up Fair Fight</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
  <p class="updated_time"> 08:17 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Biden administration results in more of the same Trump immigration policies</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
- <p class="updated_time"> 08:07 AM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/cnn-january-6th-one-year-later/index.html">CNN to air 'Live from the Capitol: January 6th, One Year Later' marking 1-year anniversary of insurrection</a> CNN: Several lawmakers and members of the law enforcement community tasked with protecting the US Capitol will mark the one-year anniversary of the deadly insurrection there next month during a live event hosted by CNN, the network announced Thursday. 
  <p class="updated_time"> 07:56 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
  <p class="updated_time"> 07:51 AM CT, Dec. 30 </p> 
@@ -346,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/27/the-view-struggles-to-find-a-republican-495553"> ‘The View’ struggles to find a Republican</a> Politico Playbook: And coronavirus cases spike to record levels across the world. 
  <p class="updated_time"> 08:37 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/science/russia-nasa-spacex-asat.html">NASA-Russia Alliance Is Shaken by Events on Planet Earth</a> NYT: The relationship between the nations’ space agencies is facing a series of difficult tests, including an antisatellite weapon and friction over Ukraine. 
- <p class="updated_time"> 04:31 AM CT, Dec. 27 </p> 
- <a href="https://www.politico.com/news/2021/12/27/biden-covid-vaccines-usaid-funding-526126">Price tag to vaccinate the world: $7 billion. And the U.S. is already coming up short.</a> Politico: In September, U.S. officials noted it would take at least $7 billion in 2022 to ensure shots are administered across the globe. 
  <p class="updated_time"> 06:10 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/us/politics/dr-oz-medical-advice.html">‘Magic’ Weight-Loss Pills and Covid Cures: Dr. Oz Under the Microscope</a> NYT: The celebrity physician, a candidate in Pennsylvania’s Republican primary for Senate, has a long history of dispensing dubious medical advice on his daytime show and on Fox News. 
  <p class="updated_time"> 11:56 AM CT, Dec. 26 </p> 
