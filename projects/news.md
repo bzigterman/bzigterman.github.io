@@ -18,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:49 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/china-xian-lockdown-covid.html">China Keeps 13 Million in Xi’an Under Strict Lockdown </a> NYT: The severe measures in Xi’an have prompted concern, as residents complain on social media of having trouble ordering food online. 
  <p class="updated_time"> 07:35 AM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59827051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Survivors speak of relief after guilty verdict</a> BBC: Annie Farmer, who was groomed by Maxwell, said the verdict was a 'tremendous relief' 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59827051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Survivors speak of relief after guilty verdict</a> BBC: Annie Farmer, who was groomed by Ghislaine Maxwell, said the verdict was a 'tremendous relief' 
  <p class="updated_time"> 07:17 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">As the Kremlin Revises History, a Human Rights Champion Becomes a Casualty</a> NYT: The shuttering of Memorial, the country’s most prominent human rights organization, has saddened Russians who were personally touched by its work shining a light on the injustices of the Soviet past. 
  <p class="updated_time"> 07:09 AM CT, Dec. 30 </p> 
