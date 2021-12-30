@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:38 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: South Africa Says Its Omicron Wave Has Passed With No Big Spike in Deaths</a> NYT: The announcement offered cautious hope to other countries grappling with the fast-spreading variant. The C.D.C. urged Americans to stay off cruise ships, regardless of vaccination status. More than 1,200 U.S. flights were canceled. 
  <p class="updated_time"> 05:24 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/30/1069253312/cdc-cruise-ship-travel-covid-19">People should avoid cruise travel regardless of their vaccination status, the CDC says</a> NPR: The CDC revised its guidance Thursday, as 91 cruise ships are under investigation for COVID outbreaks onboard. Most cruise lines require adult passengers to show proof of vaccination against COVID-19. 
- <p class="updated_time"> 05:22 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: South Africa Says Its Omicron Wave Has Passed With No Big Spike in Deaths</a> NYT: The announcement offered cautious hope to other countries grappling with the fast-spreading variant. The C.D.C. urged Americans to stay off cruise ships, regardless of vaccination status. More than 1,200 U.S. flights were canceled. 
  <p class="updated_time"> 04:40 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-virus-omicron.html">U.K., With Surging Cases, Is on ‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
  <p class="updated_time"> 04:38 PM CT, Dec. 30 </p> 
@@ -192,12 +192,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:31 PM CT, Dec. 30 </p> 
+ <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden hopes for Ukraine de-escalation in call with Putin</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 04:19 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/trump-supreme-court-documents/index.html">Biden administration defends its decision not to assert executive privilege over Trump's White House records</a> CNN: Both the House of Representatives and the Biden administration asked the Supreme Court on Thursday to deny former President Donald Trump's attempt to keep secret more than 700 pages of records that pertain to January 6. 
  <p class="updated_time"> 04:08 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/year-in-review-us-politics-what-matters/index.html">Analysis: 2021 was a transformative year in US politics. Here are the biggest stories.</a> CNN: This year brought a dizzying mix of triumphs and setbacks in Washington, where lawmakers have grappled with everything from a deadly pandemic to an assault on democracy itself. 
- <p class="updated_time"> 03:33 PM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden hopes for Ukraine de-escalation in call with Putin</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 03:26 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/january-6-committee-subpoena-lawsuits-longshot/index.html">Why the new legal attack from Trump allies against the House January 6 committee is a long shot</a> CNN: The flurry of lawsuits filed in recent weeks trying to stop the House January 6 committee's subpoenas are revealing, in many ways, the opposite: That the House has been largely successful at sweeping up documents for the probe and interviewing dozens of major witnesses. 
  <p class="updated_time"> 03:24 PM CT, Dec. 30 </p> 
