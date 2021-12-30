@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:27 PM CT, Dec. 30 </p> 
+ <p class="updated_time"> 01:34 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: F.D.A. Is Said to Be Near Allowing Boosters for 12- to 15-Year-Olds</a> NYT: The U.S. set a one-day record of nearly half a million cases, a staggering figure, although hospitalizations are not rising as fast. A study shows that a booster shot of the Johnson & Johnson vaccine provides strong protection against Omicron. 
+ <p class="updated_time"> 01:34 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-virus-omicron.html">U.K., With Surging Cases, Is on ‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
+ <p class="updated_time"> 01:33 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/israel-4th-dose-covid-vaccine.html">Israel Approves 4th Dose of Covid Vaccine for Some</a> NYT: The Ministry of Health said it was waiting for more data from Israel and abroad before approving any broader rollout of fourth shots. 
  <p class="updated_time"> 01:26 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/chicago-las-vegas-san-antonio-new-years-events.html">Chicago, Las Vegas and San Antonio Keep New Year's Plans Intact</a> NYT: Most large New Year’s Eve events in the U.S. have been canceled or pared down, but Chicago, Las Vegas and San Antonio are a few of the anomalies. 
  <p class="updated_time"> 01:00 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/obituaries/deaths-in-2021-headline-names-against-the-backdrop-of-pandemic.html">Deaths in 2021: Headline Names Against the Backdrop of Pandemic</a> NYT: Aaron, Sondheim, Dole and Didion. But the loss of Colin Powell from the virus spoke most directly to the moment the world is in. 
- <p class="updated_time"> 12:43 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-virus-omicron.html">U.K., on ‘War Footing’ Against Virus, Provides Lessons for U.S.</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
  <p class="updated_time"> 12:39 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/bbc-alan-dershowitz-ghislaine-maxwell-epstein.html">BBC to Look Into Alan Dershowitz Interview on Ghislaine Maxwell Verdict</a> NYT: The American lawyer spoke to the British broadcaster about the verdict in the Ghislaine Maxwell case, but his connections to the case were not made clear. 
  <p class="updated_time"> 12:25 PM CT, Dec. 30 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068691821/asia-is-keeping-omicron-at-bay-but-a-surge-may-be-inevitable">Asia is keeping omicron at bay, but a surge may be inevitable</a> NPR: Much of Asia has managed to keep omicron in check even as the variant rages elsewhere, but the region that is home to most of the globe's population is bracing for what may be an inevitable surge. 
  <p class="updated_time"> 11:25 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/29/1068685421/nfl-hall-of-fame-coach-and-iconic-sports-broadcaster-john-madden-dies-at-85">NFL Hall of Fame coach and iconic sports broadcaster John Madden dies at 85</a> NPR: For 10 seasons, John Madden led the Oakland Raiders as head coach. After his retirement, he became a legendary NFL commentator for three decades. 
- <p class="updated_time"> 10:58 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/theater/hugh-jackman-covid-the-music-man.html">Hugh Jackman Announces He Has Covid-19</a> NYT: The show joins other productions that have been suspended, including the Temptations musical “Ain’t Too Proud,” which will close for good on Jan. 16. 
  <p class="updated_time"> 10:47 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/books/keri-hulme-dead.html">Keri Hulme, New Zealand’s First Booker Prize Winner, Dies at 74</a> NYT: The power Ms. Hulme drew from her Maori heritage shone through in her work, especially in “The Bone People,” which won the literary prize in 1985. 
  <p class="updated_time"> 09:51 PM CT, Dec. 28 </p> 
@@ -258,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068842676/biden-will-speak-by-phone-with-putin-as-russia-ramps-up-presence-on-ukraine-bord">Biden will speak by phone with Putin as Russia ramps up presence on Ukraine border</a> NPR: The request for a call on Thursday came from the Kremlin. The White House said, "It will take a high level of engagement to address this and to try to find a path to de-escalation." 
  <p class="updated_time"> 01:15 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/january-6-committee-trump-documents/index.html">January 6 panel stands down on request for some Trump documents</a> CNN: The House select committee investigating January 6 has stood down on its requests for some documents from the Trump White House, after the Biden administration convinced the panel to scale back its pursuits. 
- <p class="updated_time"> 12:33 PM CT, Dec. 29 </p> 
- <a href="https://www.politico.com/news/2021/12/29/biden-and-putin-to-talk-by-phone-thursday-526238">Biden and Putin to speak again at ‘moment of crisis’</a> Politico: The call on Thursday will be the second between the two leaders this month amid tensions along the Russia-Ukraine border. 
  <p class="updated_time"> 11:55 AM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/us-reconnaissance-aircraft-ukraine/index.html">US flies reconnaissance aircraft over eastern Ukraine</a> CNN: The US Air Force flew a reconnaissance mission this week over eastern Ukraine to gather intelligence about the situation on the ground -- two days after Russia announced it would withdraw 10,000 troops from its border with that nation. 
  <p class="updated_time"> 11:07 AM CT, Dec. 29 </p> 
@@ -348,6 +346,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/27/the-view-struggles-to-find-a-republican-495553"> ‘The View’ struggles to find a Republican</a> Politico Playbook: And coronavirus cases spike to record levels across the world. 
  <p class="updated_time"> 08:37 AM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/science/russia-nasa-spacex-asat.html">NASA-Russia Alliance Is Shaken by Events on Planet Earth</a> NYT: The relationship between the nations’ space agencies is facing a series of difficult tests, including an antisatellite weapon and friction over Ukraine. 
+ <p class="updated_time"> 04:31 AM CT, Dec. 27 </p> 
+ <a href="https://www.politico.com/news/2021/12/27/biden-covid-vaccines-usaid-funding-526126">Price tag to vaccinate the world: $7 billion. And the U.S. is already coming up short.</a> Politico: In September, U.S. officials noted it would take at least $7 billion in 2022 to ensure shots are administered across the globe. 
  <p class="updated_time"> 06:10 PM CT, Dec. 26 </p> 
  <a href="https://www.nytimes.com/2021/12/26/us/politics/dr-oz-medical-advice.html">‘Magic’ Weight-Loss Pills and Covid Cures: Dr. Oz Under the Microscope</a> NYT: The celebrity physician, a candidate in Pennsylvania’s Republican primary for Senate, has a long history of dispensing dubious medical advice on his daytime show and on Fox News. 
  <p class="updated_time"> 11:56 AM CT, Dec. 26 </p> 
