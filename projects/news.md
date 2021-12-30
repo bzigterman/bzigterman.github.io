@@ -112,7 +112,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:41 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/myanmar-coup-refugees.html">Stay or Go? For Myanmar’s Latest Wave of Refugees, There’s No Good Choice.</a> NYT: Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire. 
  <p class="updated_time"> 09:45 AM CT, Dec. 29 </p> 
- <a href="https://www.wsj.com/articles/biden-putin-to-speak-thursday-ahead-of-ukraine-talks-11640801059">Biden, Putin Plan Call at What U.S. Says Is 'Moment of Crisis' Over Ukraine</a> WSJ: The call will be the second by the leaders this month and comes as Russia continues a military buildup near Ukraine and issues sweeping security demands. 
+ <a href="https://www.wsj.com/articles/biden-putin-to-speak-thursday-ahead-of-ukraine-talks-11640801059">Biden, Putin to Talk Amid Ukraine Crisis</a> WSJ: The call will be the second by the leaders this month and comes as Russia continues a military buildup near Ukraine and issues sweeping security demands. 
  <p class="updated_time"> 09:41 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html">Chile Writes Its Constitution, Confronting Climate Change Head On</a> NYT: Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself. 
  <p class="updated_time"> 09:00 AM CT, Dec. 29 </p> 
