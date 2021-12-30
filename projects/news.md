@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:24 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: U.S. Sets One-Day Record With Nearly Half a Million New Cases</a> NYT: The staggering figure is almost twice as high as the worst days of last winter, and may be an undercount. Hospitalizations are not rising as fast, raising hopes that the Omicron wave is producing less severe illness. 
  <p class="updated_time"> 05:04 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/china-xian-lockdown-covid.html">China Keeps 13 Million in Xi’an Under Strict Lockdown </a> NYT: The severe measures in Xi’an have prompted concern, as residents complain on social media of having trouble ordering food online. 
  <p class="updated_time"> 04:45 AM CT, Dec. 30 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/30/1069033446/officials-promise-groceries-for-xian-china-city-of-13-million-under-lockdown">Officials promise groceries for Xi'an, China, city of 13 million under lockdown</a> NPR: Officials pledged steady deliveries of groceries to residents of Xi'an, a city of 13 million that is under the strictest lockdown of a major Chinese city since Wuhan at the start of the pandemic. 
  <p class="updated_time"> 04:14 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59826091?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu's body lies in state in his old cathedral</a> BBC: The coffin of the archbishop will remain at St George's Cathedral in Cape Town for two days. 
- <p class="updated_time"> 04:05 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Updates: Omicron Drives New U.S. Virus Cases to a Daily Record</a> NYT: Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 04:02 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807737?at_medium=RSS&at_campaign=KARANGA">Ashraf Ghani: Ex-Afghan president describes moment he fled the Taliban</a> BBC: Speaking to the BBC, Ashraf Ghani tackles criticism he left Afghanistan as the Taliban closed in. 
  <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
@@ -125,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/a-master-penny-pincher-draws-a-following-in-japan-11640792275">A Master Penny-Pincher Draws a Following in Japan</a> WSJ: Megumi Nakano offers daily tips on Instagram about how not to spend money. Half a radish is put to good use. 
  <p class="updated_time"> 02:30 AM CT, Dec. 29 </p> 
  <a href="https://www.wsj.com/articles/covid-19-pandemic-gives-new-hope-to-one-of-the-worlds-fastest-shrinking-countries-11640784601">Pandemic Gives New Hope to One of the World's Fastest-Shrinking Countries</a> WSJ: Covid-19 pushed many to return to Eastern European countries, such as Bulgaria, that had seen punishing declines in population. But the challenge is to keep them from leaving again. 
- <p class="updated_time"> 02:00 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/business/uk-companies-brexit-trade.html">For U.K. Companies Brexit Meant Higher Costs and Endless Forms</a> NYT: While the worst of the Brexit trade disruptions are over, British exports to the European Union are down and companies are frustrated. 
  <p class="updated_time"> 02:00 AM CT, Dec. 29 </p> 
  <a href="https://www.wsj.com/articles/battle-at-printing-press-maker-shows-difficulty-of-japan-takeovers-11640782803">Battle at Printing-Press Maker Shows Difficulty of Japan Takeovers</a> WSJ: A recent case in which management used a poison pill to stop an aggressive share buyer—with the Supreme Court’s endorsement—shows why newcomers have a tough time unlocking Tokyo’s opportunities. 
  <p class="updated_time"> 01:30 AM CT, Dec. 29 </p> 
