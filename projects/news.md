@@ -7,22 +7,28 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:46 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: South Africa Says Its Omicron Wave Has Passed With No Big Spike in Deaths</a> NYT: The announcement offered cautious hope to other countries grappling with the fast-spreading variant. The C.D.C. urged Americans to stay off cruise ships, regardless of vaccination status. More than 1,200 U.S. flights were canceled. 
+ <p class="updated_time"> 04:40 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-virus-omicron.html">U.K., With Surging Cases, Is on ‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
  <p class="updated_time"> 04:35 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/obituaries/deaths-in-2021-headline-names-against-the-backdrop-of-pandemic.html">Deaths in 2021: Headline Names Against the Backdrop of Pandemic</a> NYT: Aaron, Sondheim, Dole and Didion. But the loss of Colin Powell from the virus spoke most directly to the moment the world is in. 
- <p class="updated_time"> 04:29 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: South Africa Says Its Omicron Wave Has Passed With No Big Spike in Deaths</a> NYT: The announcement offered cautious hope to other countries grappling with the fast-spreading variant. The C.D.C. urged Americans to stay off cruise ships, regardless of vaccination status. More than 1,200 U.S. flights were canceled. 
+ <p class="updated_time"> 04:20 PM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59834211?at_medium=RSS&at_campaign=KARANGA">Avoid cruises even if vaccinated, CDC tells Americans</a> BBC: It says there has been an increase in onboard cases since the emergence of the Omicron variant. 
  <p class="updated_time"> 03:56 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests/south-africa-omicron-decline">South Africa Says It Has Passed Its Fourth Wave of Cases</a> NYT: Case counts are down by 30 percent in the last week, researchers in the country said. 
+ <a href="https://www.nytimes.com/2021/12/30/world/south-africa-omicron-decline.html">South Africa Says It Has Passed Its Fourth Wave of Cases</a> NYT: Case counts are down by 30 percent in the last week, researchers in the country said. 
+ <p class="updated_time"> 03:56 PM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59833156?at_medium=RSS&at_campaign=KARANGA">Teva Pharmaceuticals found liable in New York opioid trial</a> BBC: A New York State jury has found the drug maker help fuel the state's deadly opioid epidemic. 
  <p class="updated_time"> 03:18 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069273197/president-biden-speaks-with-russian-president-vladimir-putin-as-ukraine-tensions">President Biden speaks with Russian President Vladimir Putin as Ukraine tensions rise</a> NPR: President Biden spoke with Russian President Vladimir Putin in a call Thursday as tensions mount between the Ukraine and Russia. The White House says it's "gravely concerned" about the situation. 
  <p class="updated_time"> 03:00 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/kyiv-ukraine-war-russia-bomb-shelters.html">Ukrainians Set Sights on the New Year, Not a New War</a> NYT: As the government designates bomb shelters and provides guidance on how to tape windows in case of an attack by Russia, Ukrainians carry on. 
- <p class="updated_time"> 02:45 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-virus-omicron.html">U.K., With Surging Cases, Is on ‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
  <p class="updated_time"> 02:39 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/israel-4th-dose-covid-vaccine.html">Israel Approves 4th Dose of Covid Vaccine for Some</a> NYT: The Ministry of Health said it was waiting for more data from Israel and abroad before approving any broader rollout of fourth shots. 
  <p class="updated_time"> 02:36 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/indonesia-rohingya-boat.html">Indonesia Accepts Stranded Refugee Boat After Vowing to Turn It Away</a> NYT: The boat landed with more than 100 Rohingya refugees on board. Indonesia initially said it would turn the vessel away, but relented under pressure from rights groups. 
+ <p class="updated_time"> 02:26 PM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59833446?at_medium=RSS&at_campaign=KARANGA">Avoid new year parties, Irish health minister urges</a> BBC: Ireland's chief medical officer has expressed concern at the recent surge in Covid-19 cases. 
  <p class="updated_time"> 01:55 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59818978?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden and Putin phone call seeks 'diplomatic path'</a> BBC: The presidents of the US and Russia will speak in a bid to de-escalate tensions over Ukraine. 
  <p class="updated_time"> 01:54 PM CT, Dec. 30 </p> 
@@ -75,14 +81,10 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/afghanistans-ashraf-ghani-defends-his-decision-to-escape-says-he-is-a-scapegoat-11640883496">Ashraf Ghani Defends His Decision to Flee Afghanistan</a> WSJ: Breaking a four-month silence following his flight to the U.A.E. and his government’s fall to the Taliban, the former Afghan president said he regrets being too accommodating to U.S. 
  <p class="updated_time"> 05:36 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59826100?at_medium=RSS&at_campaign=KARANGA">Tiger shot and dies at Naples Zoo in Florida after biting cleaner's arm</a> BBC: A cleaner had tried to pet or feed the animal in an unauthorised area, the sheriff's office said. 
- <p class="updated_time"> 05:29 AM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59828830?at_medium=RSS&at_campaign=KARANGA">Putin and Lukashenko team up for ice hockey match</a> BBC: The Russian and Belarusian leaders both made the scoreboard in a game following talks between the countries. 
  <p class="updated_time"> 04:45 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/health/johnson-vaccine-booster-omicron.html">J. & J. Booster Protects Against Severe Omicron, Study Says</a> NYT: Two shots of the vaccine reduced the risk of hospitalization from the fast-spreading variant by 85 percent, a clinical trial found. 
  <p class="updated_time"> 04:41 AM CT, Dec. 30 </p> 
  <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-spotlights-himself-as-he-marks-a-decade-in-power-11640878910">North Korea's Kim Jong Un Spotlights Himself as He Marks a Decade in Power</a> WSJ: The dictator is stepping out of the shadow of his father and grandfather as Pyongyang faces deep economic woes. 
- <p class="updated_time"> 04:40 AM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59827047?at_medium=RSS&at_campaign=KARANGA">China bans its national football players from getting tattoos</a> BBC: Top players who already have body art are told to remove it, as a good example for society. 
  <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/ano-viejo-tradition.html">Años Viejos: Torching the Old Year to Toast the New One</a> NYT: In parts of Latin America, the traditional burning of rag dolls was used to symbolically banish the woes of the year gone by. Nowadays, it’s not uncommon to see TV hosts and ex-presidents going up in flames. 
  <p class="updated_time"> 04:23 AM CT, Dec. 30 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/asia/tesla-batteries-nickel-new-caledonia.html">Can A Sustainable Mining Experiment in New Caledonia Power Tesla's Ambitions</a> NYT: Nickel is vital to electric car batteries, but extracting it is dirty and destructive. A plant with a turbulent history in New Caledonia is about to become an experiment in sustainable mining. 
  <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/most-popular-dispatches-2021.html">In 2021, We Were There: The Year’s 14 Most Popular Dispatches</a> NYT: Not even a pandemic, wars or autocrats could prevent our correspondents from seeking out secrets and surprises to share with readers. They sent dispatches from 40 countries on six continents. 
- <p class="updated_time"> 03:33 AM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59818881?at_medium=RSS&at_campaign=KARANGA">Citroën removes Egypt ad accused of normalising sexual harassment</a> BBC: The carmaker apologises for an Egyptian commercial in which a woman is photographed without consent. 
  <p class="updated_time"> 02:14 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
  <p class="updated_time"> 02:14 AM CT, Dec. 30 </p> 
@@ -124,7 +124,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:03 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59776108?at_medium=RSS&at_campaign=KARANGA">COP 26: The teenagers suing 33 countries</a> BBC: To ensure the promises of COP26 are kept, young campaigners are putting their faith in the courts. 
  <p class="updated_time"> 06:02 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59775136?at_medium=RSS&at_campaign=KARANGA">A new way of farming in dry climates</a> BBC: Ernst Gotsch's method of agriculture increases, rather than decreases, biodiversity and wildlife. 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59775136?at_medium=RSS&at_campaign=KARANGA">Syntropic agriculture: A new way of farming in dry climates?</a> BBC: Ernst Gotsch's method of agriculture increases, rather than decreases, biodiversity and wildlife. 
  <p class="updated_time"> 06:00 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59736375?at_medium=RSS&at_campaign=KARANGA">How 'fake news' affected the world in 2021</a> BBC: Misinformation about the Covid pandemic and climate change is slowing an effective collective response to these emergencies. 
  <p class="updated_time"> 05:44 PM CT, Dec. 29 </p> 
@@ -372,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/24/biden-rural-evictions-526089">Biden’s about to adopt a policy that could hurt Dems even more with rural voters</a> Politico: About half of the $46.5 billion in federal rental aid made available during the pandemic is expected to be spent by the end of this year. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-social-spending-senate-parliamentarian-526081">Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</a> Politico: The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan. 
- <p class="updated_time"> 04:47 PM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/als-research-biden-bill-signing/index.html">Biden says bipartisan legislation funding ALS research 'represents the spirit of the season' </a> CNN: President Joe Biden on Thursday signed into law bipartisan legislation that expands funding for amyotrophic lateral sclerosis research, hailing it as in "the spirit of the season." 
 
 
 </details>
