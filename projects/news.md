@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:00 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City Struggles to Keep Running Under Omicron</a> NYT: Average global cases reach a new high. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
+ <p class="updated_time"> 08:50 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Drives U.S. Virus Cases to a Daily Record</a> NYT: Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 07:19 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59815856?at_medium=RSS&at_campaign=KARANGA">Hong Kong: The last day of the Stand News pro-democracy website</a> BBC: From raids and arrests to the announcement of its closure, this is how its last day unfolded. 
  <p class="updated_time"> 06:47 PM CT, Dec. 29 </p> 
@@ -186,8 +186,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:32 PM CT, Dec. 29 </p> 
+ <a href="https://www.cnn.com/2021/12/29/politics/biden-putin-call/index.html">Biden to speak with Putin on Thursday at Russian leader's request</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Thursday afternoon "to discuss a range of topics, including upcoming diplomatic engagements with Russia," National Security Council spokesperson Emily Horne told CNN. 
  <p class="updated_time"> 07:01 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/us/politics/guantanamo-secret-courtroom.html">Pentagon Building New Secret Courtroom at Guantánamo Bay</a> NYT: The concept is to permit two military judges to hold proceedings simultaneously starting in mid-2023. 
+ <a href="https://www.nytimes.com/2021/12/29/us/politics/pentagon-guantanamo-secret-courtroom.html">Pentagon Building New Secret Courtroom at Guantánamo Bay</a> NYT: The concept is to permit two military judges to hold proceedings simultaneously starting in mid-2023. 
  <p class="updated_time"> 06:47 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
  <p class="updated_time"> 06:09 PM CT, Dec. 29 </p> 
@@ -212,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068895426/what-public-health-experts-say-about-the-about-the-cdcs-new-quarantine-guideline">What public health experts say about the about the CDC's new quarantine guidelines</a> NPR: Many public health experts are pushing for stronger measures than the Biden administration and governors are willing to take to reduce impacts from the growing omicron wave. Why the disconnect? 
  <p class="updated_time"> 03:17 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/january-6-committee-investigation-trump-what-matters/index.html">Analysis: The January 6 committee formed 6 months ago. Here's what it's uncovered.</a> CNN: It's been a dramatic six months since the establishment of the House select committee investigating the January 6 Capitol Hill riot. 
- <p class="updated_time"> 03:01 PM CT, Dec. 29 </p> 
- <a href="https://www.cnn.com/2021/12/29/politics/biden-putin-call/index.html">Biden to speak with Putin on Thursday at Russian leader's request</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Thursday afternoon "to discuss a range of topics, including upcoming diplomatic engagements with Russia," National Security Council spokesperson Emily Horne told CNN. 
  <p class="updated_time"> 01:27 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068842676/biden-will-speak-by-phone-with-putin-as-russia-ramps-up-presence-on-ukraine-bord">Biden will speak by phone with Putin as Russia ramps up presence on Ukraine border</a> NPR: The request for a call on Thursday came from the Kremlin. The White House said, "It will take a high level of engagement to address this and to try to find a path to de-escalation." 
  <p class="updated_time"> 01:15 PM CT, Dec. 29 </p> 
