@@ -186,10 +186,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:48 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/us/politics/boosters-12-15-year-olds-omicron.html">F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters</a> NYT: Regulators will also allow even younger children with immune deficiencies to get an extra shot. 
  <p class="updated_time"> 11:35 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/marines-kick-out-troops-covid-vaccine-526266">Marines kick out 206 troops for refusing Covid-19 vaccine</a> Politico: Overall, 95 percent of all active-duty Marines have received at least the first dose. 
- <p class="updated_time"> 11:25 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/us/politics/boosters-12-15-year-olds-omicron.html">F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters</a> NYT: Regulators will also allow even younger children with immune deficiencies to get an extra shot. 
  <p class="updated_time"> 10:40 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1068766592/top-fresh-air-stories-2021">You won't want to miss the 10 most popular 'Fresh Air' stories of 2021</a> NPR: From Dr. Anthony Fauci to Sacha Baron Cohen, the year's most popular Fresh Air web pages reflect the show's strength as a place where artists, authors and journalists speak to the moment. 
  <p class="updated_time"> 10:35 AM CT, Dec. 30 </p> 
