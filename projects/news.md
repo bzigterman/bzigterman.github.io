@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:02 PM CT, Dec. 29 </p> 
+ <p class="updated_time"> 09:09 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Drives New U.S. Virus Cases to a Daily Record</a> NYT: Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
+ <p class="updated_time"> 09:08 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/connecticut-gun-threat-covid-testing-site.html">Testing Site in Connecticut Is Forced to Close After Gun Threat</a> NYT: Another location nearby also shut down after the crowd grew agitated. 
  <p class="updated_time"> 07:19 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59815856?at_medium=RSS&at_campaign=KARANGA">Hong Kong: The last day of the Stand News pro-democracy website</a> BBC: From raids and arrests to the announcement of its closure, this is how its last day unfolded. 
  <p class="updated_time"> 06:47 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
  <p class="updated_time"> 06:42 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59824150?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell guilty of helping Jeffrey Epstein abuse girls</a> BBC: A jury in New York convicts her of recruiting and trafficking teenagers in a "pyramid of abuse". 
- <p class="updated_time"> 06:38 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/connecticut-gun-threat-covid-testing-site.html">Testing Site in Connecticut Is Forced to Close After Gun Threat</a> NYT: Another location nearby also shut down after the crowd grew agitated. 
  <p class="updated_time"> 06:31 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59731053?at_medium=RSS&at_campaign=KARANGA">15 films to look out for in the Oscars race</a> BBC: With the gong-giving season picking up steam, we look at the possible nominees for the big awards. 
  <p class="updated_time"> 06:11 PM CT, Dec. 29 </p> 
