@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:18 PM CT, Dec. 30 </p> 
+ <a href="https://www.npr.org/2021/12/30/1069273197/president-biden-speaks-with-russian-president-vladimir-putin-as-ukraine-tensions">President Biden speaks with Russian President Vladimir Putin as Ukraine tensions rise</a> NPR: President Biden spoke with Russian President Vladimir Putin in a call Thursday as tensions mount between the Ukraine and Russia. The White House says it's "gravely concerned" about the situation. 
  <p class="updated_time"> 03:05 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Issues Alert to Stay Off Cruise Ships, Even if Vaccinated</a> NYT: The warning comes amid a growing number of cases among passengers. Airlines continue to struggle, canceling more than 1,000 flights in the U.S. as the country sets a one-day record of nearly half a million cases. 
  <p class="updated_time"> 03:00 PM CT, Dec. 30 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1068587887/its-unclear-if-boris-johnson-can-bounce-back-from-low-approval-ratings-and-scand">It's unclear if Boris Johnson can bounce back from low approval ratings and scandals</a> NPR: British Prime Minister Boris Johnson is going through the worst period of his premiership so far — but he's bounced back before. Can he do it again? 
  <p class="updated_time"> 03:34 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1068587831/most-countries-will-fall-short-of-global-initiative-to-vaccinate-40-of-populatio">Most countries will fall short of global initiative to vaccinate 40% of populations</a> NPR: COVAX was set up to enable global access to vaccines against COVID. Yet nearly 80 countries will miss a target of vaccinating 40% of their populations by year's end. Here's what went wrong. 
- <p class="updated_time"> 03:34 PM CT, Dec. 28 </p> 
- <a href="https://www.npr.org/2021/12/28/1068587810/russias-supreme-court-shuts-down-human-rights-group-that-preserved-history">Russia's Supreme Court shuts down human rights group that preserved history</a> NPR: For decades, the Russian human rights group Memorial has tried to preserve the story of the Soviet Union's darkest years. The country's high court ordered it closed Tuesday. 
  <p class="updated_time"> 03:14 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/omicron-covid-contagious-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
@@ -192,6 +192,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:26 PM CT, Dec. 30 </p> 
+ <a href="https://www.cnn.com/2021/12/30/politics/january-6-committee-subpoena-lawsuits-longshot/index.html">Why the new legal attack from Trump allies against the House January 6 committee is a long shot</a> CNN: The flurry of lawsuits filed in recent weeks trying to stop the House January 6 committee's subpoenas are revealing, in many ways, the opposite: That the House has been largely successful at sweeping up documents for the probe and interviewing dozens of major witnesses. 
+ <p class="updated_time"> 03:24 PM CT, Dec. 30 </p> 
+ <a href="https://www.npr.org/2021/12/30/1069273204/how-dan-bongino-is-building-a-right-wing-media-empire-on-his-own-terms">How Dan Bongino is building a right-wing media empire on his own terms</a> NPR: NPR's Mary Louise Kelly talks with Evan Osnos of The New Yorker about radio host Dan Bongino, who calls masks "face diapers," opposes vaccine mandates and says the 2016 and 2020 elections were rigged. 
+ <p class="updated_time"> 03:18 PM CT, Dec. 30 </p> 
+ <a href="https://www.npr.org/2021/12/30/1069273197/president-biden-speaks-with-russian-president-vladimir-putin-as-ukraine-tensions">President Biden speaks with Russian President Vladimir Putin as Ukraine tensions rise</a> NPR: President Biden spoke with Russian President Vladimir Putin in a call Thursday as tensions mount between the Ukraine and Russia. The White House says it's "gravely concerned" about the situation. 
  <p class="updated_time"> 03:06 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1065756732/manhattan-da-cyrus-vance-reflects-on-trump-and-weinstein-cases-as-he-leaves-offi">Manhattan DA Cyrus Vance reflects on Trump and Weinstein cases as he leaves office</a> NPR: Manhattan District Attorney Cyrus Vance looks back on a career of big-name cases, including cases against the Trump Organization and Harvey Weinstein. 
  <p class="updated_time"> 03:00 PM CT, Dec. 30 </p> 
@@ -200,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden hopes for Ukraine de-escalation in call with Putin</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 02:31 PM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/peter-thiel-donald-trump-jr-fundraiser-cheney-challenger-526268">Peter Thiel, Donald Trump Jr. to co-host fundraisers for Cheney challenger</a> Politico: The tech billionaire is holding two events at his Miami home benefiting Wyoming Republican Harriet Hageman. 
- <p class="updated_time"> 02:28 PM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/january-6-committee-subpoena-lawsuits-longshot/index.html">Why the new legal attack from Trump allies against the House January 6 committee is a long shot</a> CNN: The flurry of lawsuits filed in recent weeks trying to stop the House January 6 committee's subpoenas are revealing, in many ways, the opposite: That the House has been largely successful at sweeping up documents for the probe and interviewing dozens of major witnesses. 
  <p class="updated_time"> 01:03 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069143123/expanded-child-tax-credit-expires-friday-congress">The expanded child tax credit expires Friday after Congress failed to renew it</a> NPR: Because the Build Back Better agenda was not passed by the Senate before the end of the year, the last payment of the expanded child tax credit program went out this month. 
  <p class="updated_time"> 12:43 PM CT, Dec. 30 </p> 
@@ -295,13 +299,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:08 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068701969/remembering-harry-reid-ex-democratic-senate-leader-who-has-died">Remembering Harry Reid, ex-Democratic Senate leader, who died at 82</a> NPR: NPR's Sarah McCammon talks to Faiz Shakir, a former senior adviser to Harry Reid, about the late senator's legacy. The Nevada Democrat died of cancer Tuesday. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/29/1068384409/insurrection-abortion-voting-climate-afghanistan-trump-biden-2021-stories">From the Capitol riot to abortion rights, here are the top political stories of 2021</a> NPR: As we count down to the new year, we asked our readers what they thought were the top political stories of 2021. Here's what they picked. 
- <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights and the Battle Over Elections: What to Know</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/mask-mandate-fines-greene-clyde.html">Greene and Clyde Rack Up Fines for Defying House’s Mask Mandate</a> NYT: Representatives Marjorie Taylor Greene and Andrew Clyde have incurred more than $100,000 combined in penalties for dozens of violations. 
- <p class="updated_time"> 02:45 AM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/29/1068703011/judge-refuses-to-dismiss-indictment-against-alleged-proud-boys-leaders">Judge refuses to dismiss indictment against alleged Proud Boys leaders</a> NPR: U.S. District Judge Timothy Kelly on Tuesday rejected defense attorneys' arguments that the four men are charged with conduct that is protected by the First Amendment right to free speech. 
  <p class="updated_time"> 10:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, Senate Majority Leader Behind Landmark Democratic Victories, Dies at 82</a> NYT: Mr. Reid, who was from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
  <p class="updated_time"> 09:54 PM CT, Dec. 28 </p> 
