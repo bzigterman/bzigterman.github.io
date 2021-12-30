@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:12 PM CT, Dec. 30 </p> 
+ <p class="updated_time"> 01:27 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: F.D.A. Is Said to Be Near Allowing Boosters for 12- to 15-Year-Olds</a> NYT: The U.S. set a one-day record of nearly half a million cases, a staggering figure, although hospitalizations are not rising as fast. A study shows that a booster shot of the Johnson & Johnson vaccine provides strong protection against Omicron. 
+ <p class="updated_time"> 01:26 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/chicago-las-vegas-san-antonio-new-years-events.html">Chicago, Las Vegas and San Antonio Keep New Year's Plans Intact</a> NYT: Most large New Year’s Eve events in the U.S. have been canceled or pared down, but Chicago, Las Vegas and San Antonio are a few of the anomalies. 
  <p class="updated_time"> 01:00 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/obituaries/deaths-in-2021-headline-names-against-the-backdrop-of-pandemic.html">Deaths in 2021: Headline Names Against the Backdrop of Pandemic</a> NYT: Aaron, Sondheim, Dole and Didion. But the loss of Colin Powell from the virus spoke most directly to the moment the world is in. 
  <p class="updated_time"> 12:43 PM CT, Dec. 30 </p> 
