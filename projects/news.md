@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:38 PM CT, Dec. 30 </p> 
+ <p class="updated_time"> 03:45 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Issues Alert to Stay Off Cruise Ships, Even if Vaccinated</a> NYT: The warning comes amid a growing number of cases among passengers. Airlines continue to struggle, canceling more than 1,000 flights in the U.S. as the country sets a one-day record of nearly half a million cases. 
  <p class="updated_time"> 03:18 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069273197/president-biden-speaks-with-russian-president-vladimir-putin-as-ukraine-tensions">President Biden speaks with Russian President Vladimir Putin as Ukraine tensions rise</a> NPR: President Biden spoke with Russian President Vladimir Putin in a call Thursday as tensions mount between the Ukraine and Russia. The White House says it's "gravely concerned" about the situation. 
@@ -24,11 +24,11 @@ permalink: /projects/news/
  <p class="updated_time"> 01:55 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59818978?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden and Putin phone call seeks 'diplomatic path'</a> BBC: The presidents of the US and Russia will speak in a bid to de-escalate tensions over Ukraine. 
  <p class="updated_time"> 01:54 PM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/sport/football/59825904?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Tournament is being 'disrespected', says former England striker Ian Wright</a> BBC: The Africa Cup of Nations is being "disrespected" by some negative media coverage, says former England striker Ian Wright. 
+ <a href="https://www.bbc.co.uk/sport/football/59825904?at_medium=RSS&at_campaign=KARANGA">Afcon is being disrespected - Ian Wright</a> BBC: The Africa Cup of Nations is being "disrespected" by some negative media coverage, says former England striker Ian Wright. 
  <p class="updated_time"> 01:51 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59832343?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Mourners queue to pay respects as body lies in state</a> BBC: The Nobel Peace Prize winner's body will lie in state in a simple coffin for two days. 
  <p class="updated_time"> 01:33 PM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59833150?at_medium=RSS&at_campaign=KARANGA">Virginia Confederate monuments likely headed to black history museum</a> BBC: A black history museum and culture centre in Richmond may soon receive the controversial memorials. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59833150?at_medium=RSS&at_campaign=KARANGA">Virginia Confederate monuments likely headed to black history museum</a> BBC: A black history museum in Richmond may soon receive the controversial memorials. 
  <p class="updated_time"> 01:18 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59833262?at_medium=RSS&at_campaign=KARANGA">Covid: Woman isolates in toilet for five hours after positive mid-flight test</a> BBC: A US teacher says she spent five hours in the toilet after testing positive for Covid-19. 
  <p class="updated_time"> 12:39 PM CT, Dec. 30 </p> 
@@ -183,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/omicron-covid-contagious-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/omicron.html">Fears of Omicron’s Rapid Spread Are Tempered by Signs of Milder Illness</a> NYT: “We can’t stop it,” Israel’s prime minister said of the Omicron variant, but that warning was blunted by early signs of potentially less-severe illness than with earlier coronavirus iterations. 
- <p class="updated_time"> 10:46 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/europe/windsor-castle-intruder.html">Britain’s Crossbow Rules in the Cross Hairs After Windsor Castle Breach</a> NYT: Britain’s Home Office said it was “considering options to strengthen controls” on the weapons, part of a continuing review, after a man was arrested in castle grounds with one. 
 
 
 </details>
