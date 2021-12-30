@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:13 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: F.D.A. Is Said to Be Near Allowing Boosters for 12- to 15-Year-Olds</a> NYT: The U.S. set a one-day record of nearly half a million cases, a staggering figure, although hospitalizations are not rising as fast. A study shows that a booster shot of the Johnson & Johnson vaccine provides strong protection against Omicron. 
+ <p class="updated_time"> 11:10 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/americas/bbc-alan-dershowitz-ghislaine-maxwell-epstein.html">BBC to Look Into Alan Dershowitz Interview on Ghislaine Maxwell Verdict</a> NYT: The American lawyer spoke to the British broadcaster about the verdict in the Ghislaine Maxwell case, but his connections to the case were not made clear. 
+ <p class="updated_time"> 11:00 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/americas/mexico-cruises.html">Mexico says it will allow cruise ships with Covid outbreaks to dock.</a> NYT: The Latin American nation is among the few in the world to have imposed no restrictions or testing requirements for travelers. 
+ <p class="updated_time"> 10:47 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/us-covid-case-record-omicron.html">U.S. Coronavirus Cases Set New Records</a> NYT: As a third year of the pandemic loomed, the seven-day average of U.S. cases topped 267,000 on Tuesday. 
  <p class="updated_time"> 10:46 AM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59827051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Survivors speak of relief after guilty verdict</a> BBC: Annie Farmer, who was groomed by Ghislaine Maxwell, said the verdict was a "tremendous relief". 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59827051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Survivors speak of relief after guilty verdict</a> BBC: Annie Farmer, who was groomed by Ghislaine Maxwell, said she hoped the verdict would bring others solace. 
  <p class="updated_time"> 10:45 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/28/health/covid-isolation-period-omicron.html">Will Shortened Isolation Periods Without Testing Spread the Virus?</a> NYT: Without rapid testing, some experts fear new U.S. guidelines may mean infected people leave isolation while still contagious. The C.D.C. director said masking was a better option. 
- <p class="updated_time"> 10:39 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: F.D.A. Is Said to Be Near Allowing Boosters for 12- to 15-Year-Olds</a> NYT: The U.S. set a one-day record of nearly half a million cases, a staggering figure, although hospitalizations are not rising as fast. A study shows that a booster shot of the Johnson & Johnson vaccine provides strong protection against Omicron. 
  <p class="updated_time"> 10:39 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/kyiv-ukraine-war-russia-bomb-shelters.html">Ukrainians Set Sights on the New Year, Not a New War</a> NYT: As the government designates bomb shelters and provides guidance on how to tape windows in case of an attack by Russia, Ukrainians carry on. 
  <p class="updated_time"> 10:30 AM CT, Dec. 30 </p> 
@@ -119,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/eric-adams-nye-times-square.html">Eric Adams to Be Sworn In on New Year's Eve in Times Square</a> NYT: The incoming mayor has made a point of reveling in New York’s nightlife, something that he has cast as boosterism for the city’s struggling club and restaurant scene. 
  <p class="updated_time"> 02:39 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/americas/brazil-floods-climate-change.html">Brazil Flooding Kills at Least 20 and Displaces Thousands</a> NYT: In northeast Brazil, local officials say they have never before seen flooding on this scale. Tens of thousands were forced to flee their homes. 
- <p class="updated_time"> 02:12 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/us-covid-case-record-omicron.html">U.S. Coronavirus Cases Set New Records</a> NYT: As a third year of the pandemic loomed, the seven-day average of U.S. cases topped 267,000 on Tuesday. 
  <p class="updated_time"> 01:43 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/cincinnati-fire-department-state-of-emergency.html">Cincinnati Declares State of Emergency Amid Fire Department Staffing Shortages</a> NYT: Mayor John Cranley called the challenges a “public danger” that would undermine the city’s ability to respond to fire emergencies. 
  <p class="updated_time"> 01:27 PM CT, Dec. 29 </p> 
@@ -167,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1068587810/russias-supreme-court-shuts-down-human-rights-group-that-preserved-history">Russia's Supreme Court shuts down human rights group that preserved history</a> NPR: For decades, the Russian human rights group Memorial has tried to preserve the story of the Soviet Union's darkest years. The country's high court ordered it closed Tuesday. 
  <p class="updated_time"> 03:14 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/omicron-covid-contagious-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
- <p class="updated_time"> 03:11 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/asia/india-mother-teresa-charity-crackdown.html">India Cuts Off Foreign Funding of Mother Teresa’s Charity</a> NYT: The move is part of a tightening of rules on organizations financed by donations from abroad and comes amid a rise in attacks on religious minorities. 
  <p class="updated_time"> 02:29 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/asia/refugees-afghanistan-pakistan.html">Born and Raised in Pakistan, but Living in Legal Limbo</a> NYT: Pakistan has refused to grant the children of Afghan refugees full rights as citizens. A lack of identification documents limits their livelihoods and puts them at risk of deportation. 
  <p class="updated_time"> 02:12 PM CT, Dec. 28 </p> 
