@@ -7,16 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:56 PM CT, Dec. 30 </p> 
+ <p class="updated_time"> 02:17 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Issues Alert to Stay Off Cruise Ships, Even if Vaccinated</a> NYT: The warning comes amid a growing number of cases among passengers. Airlines continue to struggle, canceling more than 1,000 flights in the U.S. as the country sets a one-day record of nearly half a million cases. 
+ <p class="updated_time"> 02:12 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-virus-omicron.html">U.K., With Surging Cases, Is on ‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
  <p class="updated_time"> 01:56 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/israel-4th-dose-covid-vaccine.html">Israel Approves 4th Dose of Covid Vaccine for Some</a> NYT: The Ministry of Health said it was waiting for more data from Israel and abroad before approving any broader rollout of fourth shots. 
+ <p class="updated_time"> 01:55 PM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59818978?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden and Putin phone call seeks 'diplomatic path'</a> BBC: The presidents of the US and Russia will speak in a bid to de-escalate tensions over Ukraine. 
  <p class="updated_time"> 01:54 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59825904?at_medium=RSS&at_campaign=KARANGA">Africa Cup of Nations: Tournament is being 'disrespected', says former England striker Ian Wright</a> BBC: The Africa Cup of Nations is being "disrespected" by some negative media coverage, says former England striker Ian Wright. 
- <p class="updated_time"> 01:34 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-virus-omicron.html">U.K., With Surging Cases, Is on ‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
  <p class="updated_time"> 01:33 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59833150?at_medium=RSS&at_campaign=KARANGA">Virginia Confederate monuments likely headed to black history museum</a> BBC: A black history museum and culture centre in Richmond may soon receive the controversial memorials. 
+ <p class="updated_time"> 01:18 PM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59833262?at_medium=RSS&at_campaign=KARANGA">Covid: Woman isolates in toilet for five hours after positive mid-flight test</a> BBC: A US teacher says she spent five hours in the toilet after testing positive for Covid-19. 
  <p class="updated_time"> 01:00 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/obituaries/deaths-in-2021-headline-names-against-the-backdrop-of-pandemic.html">Deaths in 2021: Headline Names Against the Backdrop of Pandemic</a> NYT: Aaron, Sondheim, Dole and Didion. But the loss of Colin Powell from the virus spoke most directly to the moment the world is in. 
  <p class="updated_time"> 12:39 PM CT, Dec. 30 </p> 
@@ -57,10 +61,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">As the Kremlin Revises History, a Human Rights Champion Becomes a Casualty</a> NYT: The shuttering of Memorial, the country’s most prominent human rights organization, has saddened Russians who were personally touched by its work shining a light on the injustices of the Soviet past. 
  <p class="updated_time"> 07:00 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807737?at_medium=RSS&at_campaign=KARANGA">Ashraf Ghani: Ex-Afghan president describes moment he fled the Taliban</a> BBC: Speaking to the BBC, Ashraf Ghani tackles criticism he left Afghanistan as the Taliban closed in. 
- <p class="updated_time"> 06:26 AM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59818978?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden and Putin phone call seeks 'diplomatic path'</a> BBC: The presidents of the US and Russia will speak in a bid to de-escalate tensions over Ukraine. 
  <p class="updated_time"> 06:15 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/webb-telescope-launch-space.html">A Divided World United to Launch the James Webb Space Telescope</a> NYT: “I’ve always seen space as an area where we cooperate, through all the trying times,” said a professor who oversaw mission control for the global effort to launch a $10 billion telescope into space. 
+ <p class="updated_time"> 05:58 AM CT, Dec. 30 </p> 
+ <a href="https://www.wsj.com/articles/afghanistans-ashraf-ghani-defends-his-decision-to-escape-says-he-is-a-scapegoat-11640883496">Ashraf Ghani Defends His Decision to Flee Afghanistan</a> WSJ: Breaking a four-month silence following his flight to the U.A.E. and his government’s fall to the Taliban, the former Afghan president said he regrets being too accommodating to U.S. 
  <p class="updated_time"> 05:36 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59826100?at_medium=RSS&at_campaign=KARANGA">Tiger shot and dies at Naples Zoo in Florida after biting cleaner's arm</a> BBC: A cleaner had tried to pet or feed the animal in an unauthorised area, the sheriff's office said. 
  <p class="updated_time"> 05:29 AM CT, Dec. 30 </p> 
@@ -99,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-sanctions-push-iran-and-afghanistans-taliban-together-11640860210">U.S. Sanctions Push Afghanistan and Iran Together</a> WSJ: Tehran and the Taliban, once bitter foes, are finding common cause under the weight of economic pressures, though water supply and drug smuggling are keeping up tensions at the border. 
  <p class="updated_time"> 09:08 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/connecticut-gun-threat-covid-testing-site.html">Testing Site in Connecticut Is Forced to Close After Gun Threat</a> NYT: Another location nearby also shut down after the crowd grew agitated. 
- <p class="updated_time"> 08:38 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/business-59824404?at_medium=RSS&at_campaign=KARANGA">Elon Musk rejects claim he is hogging space</a> BBC: His comments come after China complained to the United Nations about his internet satellite project. 
  <p class="updated_time"> 07:59 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59702842?at_medium=RSS&at_campaign=KARANGA">Notable African deaths of 2021: From 'Ethiopia's Elvis' to mega pastors</a> BBC: A look back at some of the prominent figures on the African continent who we said farewell to this year. 
  <p class="updated_time"> 07:55 PM CT, Dec. 29 </p> 
