@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/americas/ano-viejo-tradition.html">Años Viejos: Torching the Old Year to Toast the New One</a> NYT: In parts of Latin America, the traditional burning of rag dolls was used to symbolically banish the woes of the year gone by. Nowadays, it’s not uncommon to see TV hosts and ex-presidents going up in flames. 
+ <p class="updated_time"> 04:23 AM CT, Dec. 30 </p> 
+ <a href="https://www.npr.org/2021/12/30/1069033446/officials-promise-groceries-for-xian-china-city-of-13-million-under-lockdown">Officials promise groceries for Xi'an, China, city of 13 million under lockdown</a> NPR: Officials pledged steady deliveries of groceries to residents of Xi'an, a city of 13 million that is under the strictest lockdown of a major Chinese city since Wuhan at the start of the pandemic. 
  <p class="updated_time"> 04:14 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59826091?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu's body lies in state in his old cathedral</a> BBC: The coffin of the archbishop will remain at St George's Cathedral in Cape Town for two days. 
  <p class="updated_time"> 04:05 AM CT, Dec. 30 </p> 
@@ -53,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59776108?at_medium=RSS&at_campaign=KARANGA">COP 26: The teenagers suing 33 countries</a> BBC: To ensure the promises of COP26 are kept, young campaigners are putting their faith in the courts. 
  <p class="updated_time"> 06:02 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59775136?at_medium=RSS&at_campaign=KARANGA">A new way of farming in dry climates</a> BBC: Ernst Gotsch's method of agriculture increases, rather than decreases, biodiversity and wildlife. 
+ <p class="updated_time"> 06:00 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59736375?at_medium=RSS&at_campaign=KARANGA">How 'fake news' affected the world in 2021</a> BBC: Misinformation about the Covid pandemic and climate change is slowing an effective collective response to these emergencies. 
  <p class="updated_time"> 05:44 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/europe-omicron-infection-record-covid.html">Spurred by Omicron, Europe Sets Covid Infection Records Every Day</a> NYT: The surge of cases is causing chaos as people scramble to obtain tests, businesses grapple with staff shortages and New Year’s festivities are thrown into question. 
  <p class="updated_time"> 05:40 PM CT, Dec. 29 </p> 
@@ -167,18 +173,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/codeswitch/2021/12/28/260448064/cooking-up-food-and-identity-in-pailin-chongchitnants-hot-thai-kitchen">Cooking up food and identity in Pailin Chongchitnant's "Hot Thai Kitchen"</a> NPR: When chef Pailin Chongchitnant realized that cable television wasn't ready for a Thai cooking show, she started her own on YouTube. On it, she breaks down some of the misconceptions about the cuisine. 
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/omicron.html">Fears of Omicron’s Rapid Spread Are Tempered by Signs of Milder Illness</a> NYT: “We can’t stop it,” Israel’s prime minister said of the Omicron variant, but that warning was blunted by early signs of potentially less-severe illness than with earlier coronavirus iterations. 
- <p class="updated_time"> 11:22 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59813216?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Remembered by daughter as a 'hugger'</a> BBC: Nontombi Naomi Tutu says her father "went to meet his God, ready and willing". 
- <p class="updated_time"> 11:18 AM CT, Dec. 28 </p> 
- <a href="https://www.npr.org/2021/12/28/1068500102/india-blocks-foreign-funding-for-mother-teresas-charity">India blocks foreign funding for Mother Teresa's charity</a> NPR: The Indian government says it has refused to renew a permit that allows the Missionaries of Charity to use foreign funds to operate orphanages and hospices across the country. 
  <p class="updated_time"> 10:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/windsor-castle-intruder.html">Britain’s Crossbow Rules in the Cross Hairs After Windsor Castle Breach</a> NYT: Britain’s Home Office said it was “considering options to strengthen controls” on the weapons, part of a continuing review, after a man was arrested in castle grounds with one. 
  <p class="updated_time"> 04:38 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-former-female-troops-once-hailed-by-the-west-fear-for-their-lives-11640696404">Afghanistan's Former Female Troops Fear for Their Lives</a> WSJ: “They have relocated musicians, soccer players and artists, and their lives were not at risk as much as ours,” a former Afghan Air Force officer says of Western governments. 
  <p class="updated_time"> 02:00 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/nord-stream-pipeline-germany-russia.html">Germany Wants Its Russian Pipeline. German Allies Aren’t Sure It’s a Good Idea.</a> NYT: The Nord Stream 2 Russia-to-Germany pipeline could offer plentiful natural gas. But tensions with Vladimir Putin are keeping it out of reach. 
- <p class="updated_time"> 09:22 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/health/omicron-cdc.html">As Omicron Cases Surge, CDC Shortens Isolation Times for Many Americans</a> NYT: Hoping to prevent further disruptions to daily life, the C.D.C. reduced the period that certain infected Americans must sequester. 
 
 
 </details>
@@ -380,10 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/23/senate-candidates-trade-house-toil-for-celeb-launchpad-495547">Senate candidates trade House toil for celeb launchpad</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/23/bidens-testing-mess-495546"> Biden’s testing mess</a> Politico Playbook: And the Supreme Court plans a special hearing on vaccine mandates. 
- <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/trump-spurs-rise-in-celebrity-candidates-525865">Senate GOP feels another Trump effect: The rise of celeb candidates</a> Politico: House experience isn't necessarily the best way to get traction across the Capitol anymore — as Herschel Walker and Mehmet Oz are proving. 
- <p class="updated_time"> 04:30 AM CT, Dec. 23 </p> 
- <a href="https://www.politico.com/news/2021/12/23/joe-biden-tiktok-jonas-brothers-526019">Joe Biden was not made for the age of TikTok. But his team is trying.</a> Politico: The White House is producing videos that they know will get mocked on political Twitter. They don’t care. They have other plans. 
 
 
 </details>
