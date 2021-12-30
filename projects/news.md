@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:08 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59824150?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell guilty of helping Jeffrey Epstein abuse girls</a> BBC: A jury in New York convicts her of recruiting and trafficking teenagers in a "pyramid of abuse". 
+ <p class="updated_time"> 10:02 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59824914?at_medium=RSS&at_campaign=KARANGA">Australia: Protesters set Old Parliament House in Canberra on fire</a> BBC: The blaze was quickly put out but marks an escalation in indigenous protests in Canberra. 
  <p class="updated_time"> 09:46 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: Omicron Drives New U.S. Virus Cases to a Daily Record</a> NYT: Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 09:08 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/connecticut-gun-threat-covid-testing-site.html">Testing Site in Connecticut Is Forced to Close After Gun Threat</a> NYT: Another location nearby also shut down after the crowd grew agitated. 
+ <p class="updated_time"> 08:38 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59824404?at_medium=RSS&at_campaign=KARANGA">Elon Musk rejects claim he is hogging space</a> BBC: His comments come after China complained to the United Nations about his internet satellite project. 
  <p class="updated_time"> 07:19 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59815856?at_medium=RSS&at_campaign=KARANGA">Hong Kong: The last day of the Stand News pro-democracy website</a> BBC: From raids and arrests to the announcement of its closure, this is how its last day unfolded. 
- <p class="updated_time"> 06:42 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59824150?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell guilty of helping Jeffrey Epstein abuse girls</a> BBC: A jury in New York convicts her of recruiting and trafficking teenagers in a "pyramid of abuse". 
  <p class="updated_time"> 06:31 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59731053?at_medium=RSS&at_campaign=KARANGA">15 films to look out for in the Oscars race</a> BBC: With the gong-giving season picking up steam, we look at the possible nominees for the big awards. 
  <p class="updated_time"> 06:11 PM CT, Dec. 29 </p> 
@@ -79,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59820999?at_medium=RSS&at_campaign=KARANGA">Alaska 'Icemageddon' warning follows heat record</a> BBC: The coldest US state faces weather extremes after heavy snowfall and torrential rain. 
  <p class="updated_time"> 11:20 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/middleeast/israel-avian-flu.html">Israel's Avian Flu Outbreak Has Killed Thousands of Cranes</a> NYT: Thousands of migratory cranes have died and more than half a million chickens have been culled as the country tries to contain a deadly bird virus. 
- <p class="updated_time"> 10:45 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59818971?at_medium=RSS&at_campaign=KARANGA">China: Public shaming returns amid Covid fears</a> BBC: Four men accused of people trafficking are paraded through streets, to mixed reactions online. 
  <p class="updated_time"> 10:41 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/myanmar-coup-refugees.html">Stay or Go? For Myanmar’s Latest Wave of Refugees, There’s No Good Choice.</a> NYT: Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire. 
  <p class="updated_time"> 09:45 AM CT, Dec. 29 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/asia/afghanistan-taliban-helmand-marja.html">11 Years After Trying to Kill Each Other, a Marine and a Talib Meet Again</a> NYT: A Times reporter who once served in the Marines returned to the site of a major battle in Afghanistan to see what’s changed since the Taliban took over — and to meet a commander he once fought. 
  <p class="updated_time"> 08:51 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
- <p class="updated_time"> 08:09 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59818881?at_medium=RSS&at_campaign=KARANGA">Citroën Egypt advert accused of normalising sexual harassment</a> BBC: The French carmaker features a pop star taking a photo of a woman apparently without her consent. 
  <p class="updated_time"> 07:12 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Roots for Its Patron Saint of Basketball</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
  <p class="updated_time"> 04:37 AM CT, Dec. 29 </p> 
