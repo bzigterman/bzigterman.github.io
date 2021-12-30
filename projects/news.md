@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:42 PM CT, Dec. 30 </p> 
+ <p class="updated_time"> 02:50 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Issues Alert to Stay Off Cruise Ships, Even if Vaccinated</a> NYT: The warning comes amid a growing number of cases among passengers. Airlines continue to struggle, canceling more than 1,000 flights in the U.S. as the country sets a one-day record of nearly half a million cases. 
+ <p class="updated_time"> 02:47 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/obituaries/deaths-in-2021-headline-names-against-the-backdrop-of-pandemic.html">Deaths in 2021: Headline Names Against the Backdrop of Pandemic</a> NYT: Aaron, Sondheim, Dole and Didion. But the loss of Colin Powell from the virus spoke most directly to the moment the world is in. 
+ <p class="updated_time"> 02:45 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-virus-omicron.html">U.K., With Surging Cases, Is on ‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
  <p class="updated_time"> 02:39 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/israel-4th-dose-covid-vaccine.html">Israel Approves 4th Dose of Covid Vaccine for Some</a> NYT: The Ministry of Health said it was waiting for more data from Israel and abroad before approving any broader rollout of fourth shots. 
  <p class="updated_time"> 02:36 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/indonesia-rohingya-boat.html">Indonesia Accepts Stranded Refugee Boat After Vowing to Turn It Away</a> NYT: The boat landed with more than 100 Rohingya refugees on board. Indonesia initially said it would turn the vessel away, but relented under pressure from rights groups. 
- <p class="updated_time"> 02:12 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-virus-omicron.html">U.K., With Surging Cases, Is on ‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
  <p class="updated_time"> 01:55 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59818978?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden and Putin phone call seeks 'diplomatic path'</a> BBC: The presidents of the US and Russia will speak in a bid to de-escalate tensions over Ukraine. 
  <p class="updated_time"> 01:54 PM CT, Dec. 30 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59833150?at_medium=RSS&at_campaign=KARANGA">Virginia Confederate monuments likely headed to black history museum</a> BBC: A black history museum and culture centre in Richmond may soon receive the controversial memorials. 
  <p class="updated_time"> 01:18 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59833262?at_medium=RSS&at_campaign=KARANGA">Covid: Woman isolates in toilet for five hours after positive mid-flight test</a> BBC: A US teacher says she spent five hours in the toilet after testing positive for Covid-19. 
- <p class="updated_time"> 01:00 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/obituaries/deaths-in-2021-headline-names-against-the-backdrop-of-pandemic.html">Deaths in 2021: Headline Names Against the Backdrop of Pandemic</a> NYT: Aaron, Sondheim, Dole and Didion. But the loss of Colin Powell from the virus spoke most directly to the moment the world is in. 
  <p class="updated_time"> 12:39 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/bbc-alan-dershowitz-ghislaine-maxwell-epstein.html">BBC to Look Into Alan Dershowitz Interview on Ghislaine Maxwell Verdict</a> NYT: The American lawyer spoke to the British broadcaster about the verdict in the Ghislaine Maxwell case, but his connections to the case were not made clear. 
  <p class="updated_time"> 12:25 PM CT, Dec. 30 </p> 
@@ -181,6 +181,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/28/1068587810/russias-supreme-court-shuts-down-human-rights-group-that-preserved-history">Russia's Supreme Court shuts down human rights group that preserved history</a> NPR: For decades, the Russian human rights group Memorial has tried to preserve the story of the Soviet Union's darkest years. The country's high court ordered it closed Tuesday. 
  <p class="updated_time"> 03:14 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/omicron-covid-contagious-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
+ <p class="updated_time"> 02:29 PM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/asia/refugees-afghanistan-pakistan.html">Born and Raised in Pakistan, but Living in Legal Limbo</a> NYT: Pakistan has refused to grant the children of Afghan refugees full rights as citizens. A lack of identification documents limits their livelihoods and puts them at risk of deportation. 
+ <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/europe/omicron.html">Fears of Omicron’s Rapid Spread Are Tempered by Signs of Milder Illness</a> NYT: “We can’t stop it,” Israel’s prime minister said of the Omicron variant, but that warning was blunted by early signs of potentially less-severe illness than with earlier coronavirus iterations. 
+ <p class="updated_time"> 10:46 AM CT, Dec. 28 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/europe/windsor-castle-intruder.html">Britain’s Crossbow Rules in the Cross Hairs After Windsor Castle Breach</a> NYT: Britain’s Home Office said it was “considering options to strengthen controls” on the weapons, part of a continuing review, after a man was arrested in castle grounds with one. 
 
 
 </details>
@@ -188,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:51 PM CT, Dec. 30 </p> 
+ <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden hopes for Ukraine de-escalation in call with Putin</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 02:31 PM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/peter-thiel-donald-trump-jr-fundraiser-cheney-challenger-526268">Peter Thiel, Donald Trump Jr. to co-host fundraisers for Cheney challenger</a> Politico: The tech billionaire is holding two events at his Miami home benefiting Wyoming Republican Harriet Hageman. 
  <p class="updated_time"> 02:28 PM CT, Dec. 30 </p> 
@@ -196,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/30/1069143123/expanded-child-tax-credit-expires-friday-congress">The expanded child tax credit expires Friday after Congress failed to renew it</a> NPR: Because the Build Back Better agenda was not passed by the Senate before the end of the year, the last payment of the expanded child tax credit program went out this month. 
  <p class="updated_time"> 12:43 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/israel-saudi-arabia-omicron-call/index.html">Saudi and Israeli foreign ministers joined recent State Department virtual meeting on Omicron</a> CNN: US Secretary of State Antony Blinken's virtual meeting with foreign ministers about the Omicron coronavirus variant last week included the ministers from both Saudi Arabia and Israel, a rare instance where the two countries who do not have formal diplomatic relations participated in the same call. 
- <p class="updated_time"> 12:12 PM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden hopes for Ukraine de-escalation in call with Putin</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 11:48 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/politics/boosters-12-15-year-olds-omicron.html">F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters</a> NYT: Regulators will also allow even younger children with immune deficiencies to get an extra shot. 
  <p class="updated_time"> 11:35 AM CT, Dec. 30 </p> 
