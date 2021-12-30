@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:38 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Issues Alert to Stay Off Cruise Ships, Even if Vaccinated</a> NYT: The warning comes amid a growing number of cases among passengers. Airlines continue to struggle, canceling more than 1,000 flights in the U.S. as the country sets a one-day record of nearly half a million cases. 
  <p class="updated_time"> 03:18 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069273197/president-biden-speaks-with-russian-president-vladimir-putin-as-ukraine-tensions">President Biden speaks with Russian President Vladimir Putin as Ukraine tensions rise</a> NPR: President Biden spoke with Russian President Vladimir Putin in a call Thursday as tensions mount between the Ukraine and Russia. The White House says it's "gravely concerned" about the situation. 
- <p class="updated_time"> 03:05 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: C.D.C. Issues Alert to Stay Off Cruise Ships, Even if Vaccinated</a> NYT: The warning comes amid a growing number of cases among passengers. Airlines continue to struggle, canceling more than 1,000 flights in the U.S. as the country sets a one-day record of nearly half a million cases. 
  <p class="updated_time"> 03:00 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/kyiv-ukraine-war-russia-bomb-shelters.html">Ukrainians Set Sights on the New Year, Not a New War</a> NYT: As the government designates bomb shelters and provides guidance on how to tape windows in case of an attack by Russia, Ukrainians carry on. 
  <p class="updated_time"> 02:47 PM CT, Dec. 30 </p> 
@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:33 PM CT, Dec. 30 </p> 
+ <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden hopes for Ukraine de-escalation in call with Putin</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 03:26 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/january-6-committee-subpoena-lawsuits-longshot/index.html">Why the new legal attack from Trump allies against the House January 6 committee is a long shot</a> CNN: The flurry of lawsuits filed in recent weeks trying to stop the House January 6 committee's subpoenas are revealing, in many ways, the opposite: That the House has been largely successful at sweeping up documents for the probe and interviewing dozens of major witnesses. 
  <p class="updated_time"> 03:24 PM CT, Dec. 30 </p> 
@@ -202,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/30/1065756732/manhattan-da-cyrus-vance-reflects-on-trump-and-weinstein-cases-as-he-leaves-offi">Manhattan DA Cyrus Vance reflects on Trump and Weinstein cases as he leaves office</a> NPR: Manhattan District Attorney Cyrus Vance looks back on a career of big-name cases, including cases against the Trump Organization and Harvey Weinstein. 
  <p class="updated_time"> 03:00 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1068322276/notable-deaths-2021">Remembering some of those we lost in 2021, from literary legends to everyday heroes</a> NPR: 2021 was filled with tremendous loss, from staggering COVID deaths to those of leading writers such as Joan Didion and bell hooks to a longtime abortion activist and politicians who shaped our world. 
- <p class="updated_time"> 02:51 PM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden hopes for Ukraine de-escalation in call with Putin</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 02:31 PM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/peter-thiel-donald-trump-jr-fundraiser-cheney-challenger-526268">Peter Thiel, Donald Trump Jr. to co-host fundraisers for Cheney challenger</a> Politico: The tech billionaire is holding two events at his Miami home benefiting Wyoming Republican Harriet Hageman. 
  <p class="updated_time"> 01:03 PM CT, Dec. 30 </p> 
