@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:53 AM CT, Dec. 30 </p> 
+ <p class="updated_time"> 04:14 AM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59826091?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu's body lies in state in his old cathedral</a> BBC: The coffin of the archbishop will remain at St George's Cathedral in Cape Town for two days. 
+ <p class="updated_time"> 04:05 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Updates: Omicron Drives New U.S. Virus Cases to a Daily Record</a> NYT: Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
- <p class="updated_time"> 03:34 AM CT, Dec. 30 </p> 
+ <p class="updated_time"> 04:02 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807737?at_medium=RSS&at_campaign=KARANGA">Ashraf Ghani: Ex-Afghan president describes moment he fled the Taliban</a> BBC: Speaking to the BBC, Ashraf Ghani tackles criticism he left Afghanistan as the Taliban closed in. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/asia/tesla-batteries-nickel-new-caledonia.html">Can a Tiny Territory in the South Pacific Power Tesla’s Ambitions?</a> NYT: Nickel is vital to electric car batteries, but extracting it is dirty and destructive. A plant with a turbulent history in New Caledonia is about to become an experiment in sustainable mining. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/europe/webb-telescope-launch-space.html">A Divided World United to Launch the James Webb Space Telescope</a> NYT: “I’ve always seen space as an area where we cooperate, through all the trying times,” said a professor who oversaw mission control for the global effort to launch a $10 billion telescope into space. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/europe/most-popular-dispatches-2021.html">In 2021, We Were There: The Year’s 14 Most Popular Dispatches</a> NYT: Not even a pandemic, wars or autocrats could prevent our correspondents from seeking out secrets and surprises to share with readers. They sent dispatches from 40 countries on six continents. 
  <p class="updated_time"> 03:33 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59818881?at_medium=RSS&at_campaign=KARANGA">Citroën removes Egypt ad accused of normalising sexual harassment</a> BBC: The carmaker apologises for an Egyptian commercial in which a woman is photographed without consent. 
- <p class="updated_time"> 03:29 AM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59826091?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu's body lies in state in his old cathedral</a> BBC: The coffin of the archbishop will remain at St George's Cathedral in Cape Town for two days. 
  <p class="updated_time"> 03:12 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59824150?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell guilty of helping Jeffrey Epstein abuse girls</a> BBC: A jury in New York convicts her of recruiting and trafficking teenagers in a "pyramid of abuse". 
  <p class="updated_time"> 02:14 AM CT, Dec. 30 </p> 
@@ -180,6 +186,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
+ <a href="https://www.npr.org/2021/12/30/1068601539/as-the-jan-6-attack-anniversary-nears-one-capitol-officer-fears-a-violent-repeat">As the Jan. 6 attack anniversary nears, one Capitol officer fears a violent repeat</a> NPR: Ten months after U.S. Capitol Police Sgt. Aquilino Gonell thought he'd die as Capitol rioters pummeled him, he's still working to recover his mental and physical health. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/upshot/medical-bill-ban-biden.html">A New Ban on Surprise Medical Bills Starts This Week</a> NYT: If you have a medical emergency, you will no longer need to worry about a large bill from a doctor you did not choose. 
  <p class="updated_time"> 02:14 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069021763/hong-kong-police-charge-2-from-pro-democracy-news-outlet-with-sedition">Hong Kong police charge 2 from pro-democracy news outlet with sedition</a> NPR: Hong Kong police on Thursday formally charged two people from a pro-democracy news outlet with sedition, a day after it said it would cease operations after a police raid and seven arrests. 
  <p class="updated_time"> 10:47 PM CT, Dec. 29 </p> 
@@ -318,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/us/politics/biden-defense-bill.html">President Biden Signs $770 Billion Defense Bill</a> NYT: The National Defense Authorization Act passed Congress with bipartisan support, over the opposition of liberals pushing for more social spending. 
  <p class="updated_time"> 03:51 PM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/2021/12/27/1068335040/arkansas-gov-asa-hutchinson-on-the-state-of-the-pandemic">Arkansas Gov. Asa Hutchinson on the state of the pandemic</a> NPR: NPR's Mary Louise Kelly speaks with Gov. Asa Hutchinson, R-Ark., about Monday's call with the White House and governors about the pandemic. 
- <p class="updated_time"> 03:35 PM CT, Dec. 27 </p> 
- <a href="https://www.npr.org/2021/12/27/1049811327/states-send-kids-to-foster-care-and-their-parents-the-bill-often-one-too-big-to-">States send kids to foster care and their parents the bill — often one too big to pay</a> NPR: In every state, governments charge parents for the cost of foster care when children are taken away. When that happens, NPR found, poor parents can't make ends meet, so families are kept apart longer. 
  <p class="updated_time"> 03:19 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/joe-biden-signs-ndaa/index.html">Biden signs annual defense bill</a> CNN: President Joe Biden signed the vital National Defense Authorization Act military funding bill, passed earlier this month by Congress, into law Monday morning. 
  <p class="updated_time"> 02:55 PM CT, Dec. 27 </p> 
@@ -362,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/24/biden-social-spending-senate-parliamentarian-526081">Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</a> Politico: The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan. 
  <p class="updated_time"> 06:30 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/medicaid-work-requirements-georgia-biden.html">Biden Administration Rejects Medicaid Work Requirements in Georgia</a> NYT: The decision continued the administration’s rollback of the Trump-era policy, targeting the only remaining state with federal approval for the requirements. 
- <p class="updated_time"> 05:30 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/us/politics/political-wish-lists-2022.html">7 Political Wish Lists for the New Year</a> NYT: What do the president, vice president, former president and party leaders want in 2022? We made our best guess. 
  <p class="updated_time"> 04:47 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/als-research-biden-bill-signing/index.html">Biden says bipartisan legislation funding ALS research 'represents the spirit of the season' </a> CNN: President Joe Biden on Thursday signed into law bipartisan legislation that expands funding for amyotrophic lateral sclerosis research, hailing it as in "the spirit of the season." 
  <p class="updated_time"> 11:30 AM CT, Dec. 23 </p> 
