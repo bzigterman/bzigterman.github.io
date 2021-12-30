@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:04 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/asia/china-xian-lockdown-covid.html">China Keeps 13 Million in Xi’an Under Strict Lockdown </a> NYT: The severe measures in Xi’an have prompted concern, as residents complain on social media of having trouble ordering food online. 
  <p class="updated_time"> 04:45 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/health/johnson-vaccine-booster-omicron.html">J. & J. Booster Protects Against Severe Omicron, Study Says</a> NYT: Two shots of the vaccine reduced the risk of hospitalization from the fast-spreading variant by 85 percent, a clinical trial found. 
  <p class="updated_time"> 04:40 AM CT, Dec. 30 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/world/europe/windsor-castle-intruder.html">Britain’s Crossbow Rules in the Cross Hairs After Windsor Castle Breach</a> NYT: Britain’s Home Office said it was “considering options to strengthen controls” on the weapons, part of a continuing review, after a man was arrested in castle grounds with one. 
  <p class="updated_time"> 04:38 AM CT, Dec. 28 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-former-female-troops-once-hailed-by-the-west-fear-for-their-lives-11640696404">Afghanistan's Former Female Troops Fear for Their Lives</a> WSJ: “They have relocated musicians, soccer players and artists, and their lives were not at risk as much as ours,” a former Afghan Air Force officer says of Western governments. 
- <p class="updated_time"> 02:00 AM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/europe/nord-stream-pipeline-germany-russia.html">Germany Wants Its Russian Pipeline. German Allies Aren’t Sure It’s a Good Idea.</a> NYT: The Nord Stream 2 Russia-to-Germany pipeline could offer plentiful natural gas. But tensions with Vladimir Putin are keeping it out of reach. 
 
 
 </details>
@@ -188,6 +188,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
+ <a href="https://www.cnn.com/2021/12/30/politics/biden-administration-shifting-covid-guidance/index.html">Biden administration signals pandemic strategy shift in the face of Omicron </a> CNN: America is plunging into a fast-worsening and frightening winter bout with Covid-19 that will leave few citizens and communities untouched. But as the highly transmissible Omicron variant roars across the country, the Biden administration is revealing the most tangible signs of a shifting pandemic strategy several weeks in the making. It is preparing a nation exhausted by two years of battling the invisible enemy to live more feasibly alongside it. 
+ <p class="updated_time"> 04:10 AM CT, Dec. 30 </p> 
+ <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Disillusionment and disappointment: Biden's White House struggles to find its footing on immigration</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
+ <p class="updated_time"> 04:07 AM CT, Dec. 30 </p> 
+ <a href="https://www.npr.org/2021/12/30/1069027387/morning-news-brief">News brief: Record COVID cases, Ghislaine Maxwell verdict, Biden-Putin call </a> NPR: The U.S. hits a record number of COVID-19 cases. A British socialite is found guilty of helping Jeffrey Epstein sexually abuse girls. President Biden and Russia's Putin are to speak on the phone. 
  <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1068601539/as-the-jan-6-attack-anniversary-nears-one-capitol-officer-fears-a-violent-repeat">As the Jan. 6 attack anniversary nears, one Capitol officer fears a violent repeat</a> NPR: Ten months after U.S. Capitol Police Sgt. Aquilino Gonell thought he'd die as Capitol rioters pummeled him, he's still working to recover his mental and physical health. 
  <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
@@ -203,15 +209,13 @@ permalink: /projects/news/
  <p class="updated_time"> 08:49 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/melania-trump-steps-back-into-the-public-eye/index.html">Melania Trump steps back into the public eye </a> CNN: After months of relative public silence, former first lady Melania Trump before Christmas emerged from private life to announce a new project: A piece of artwork, a watercolor closeup of her eyes, in the form of a non-fungible token (NFT) was now available for purchase. 
  <p class="updated_time"> 08:32 PM CT, Dec. 29 </p> 
- <a href="https://www.cnn.com/2021/12/29/politics/biden-putin-call/index.html">Biden to speak with Putin on Thursday at Russian leader's request</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Thursday afternoon "to discuss a range of topics, including upcoming diplomatic engagements with Russia," National Security Council spokesperson Emily Horne told CNN. 
+ <a href="https://www.cnn.com/2021/12/29/politics/biden-putin-call/index.html">Biden to speak with Putin at Russian leader's request</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Thursday afternoon "to discuss a range of topics, including upcoming diplomatic engagements with Russia," National Security Council spokesperson Emily Horne told CNN. 
  <p class="updated_time"> 06:47 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
  <p class="updated_time"> 06:09 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Ungerrymandered: Michigan’s Maps, Independently Drawn, Set Up Fair Fight</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
- <p class="updated_time"> 05:32 PM CT, Dec. 29 </p> 
- <a href="https://www.cnn.com/2021/12/29/politics/2022-scotus-covid-biden-trump-midterms/index.html">Analysis: 5 big things to watch in 2022</a> CNN: 5. Biden/Trump 2024 
  <p class="updated_time"> 05:29 PM CT, Dec. 29 </p> 
- <a href="https://www.cnn.com/2021/12/29/politics/trump-supreme-court-washington-post-bennie-thompson/index.html">Trump wants Supreme Court to read Washington Post interview with Bennie Thompson</a> CNN: As the Supreme Court considers whether to take up former President Donald Trump's January 6 White House records case, Trump's attorney submitted to the court a new filing Wednesday making the court aware of a Washington Post interview with Rep. Bennie Thompson, who chairs the House select committee seeking the records. 
+ <a href="https://www.cnn.com/2021/12/29/politics/trump-supreme-court-washington-post-bennie-thompson/index.html">Trump wants SCOTUS to read Washington Post interview with Bennie Thompson</a> CNN: As the Supreme Court considers whether to take up former President Donald Trump's January 6 White House records case, Trump's attorney submitted to the court a new filing Wednesday making the court aware of a Washington Post interview with Rep. Bennie Thompson, who chairs the House select committee seeking the records. 
  <p class="updated_time"> 05:15 PM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/ghislaine-maxwell-convicted-in-epstein-sex-abuse-case-526252">Ghislaine Maxwell convicted in Epstein sex abuse case</a> Politico: She faces the likelihood of years in prison. 
  <p class="updated_time"> 04:56 PM CT, Dec. 29 </p> 
@@ -304,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/28/politics/donald-trump-allies-january-6-committee/index.html">Some Trump allies slow walk, stonewall or snub January 6 committee</a> CNN: When the committee investigating the January 6 insurrection struggled to serve Dan Scavino with a subpoena, the former Donald Trump aide said he had been in a fairly obvious locale: Mar-a-Lago. 
  <p class="updated_time"> 03:11 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/covid-omicron-kids-hospitalizations-what-matters/index.html">Analysis: Rising child hospitalizations loom large over US Covid-19 response</a> CNN: Public health experts have sought for months to find the right message that will resonate with the many Americans who remain unconvinced about the very real danger of Covid-19. 
- <p class="updated_time"> 02:51 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/no-surprises-act-2022/index.html">Patients won't have to fear as many surprise medical bills come January</a> CNN: Americans are set to have one less health care headache in 2022. 
  <p class="updated_time"> 02:47 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/spirit-airlines-unruly-passenger/index.html">Tennessee woman charged after alleged assault and running to cabin door on Spirit flight</a> CNN: A Tennessee woman turned herself into the FBI on Tuesday after she was accused of assaulting two flight attendants during a Spirit Airlines flight last month, the Justice Department announced. 
  <p class="updated_time"> 12:59 PM CT, Dec. 28 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/27/cdc-cut-quarantine-covid-omicron-526187">CDC cuts recommended quarantine time amid Omicron surge</a> Politico: The reduction follows the CDC’s move last week to shorten its isolation period for infected health care workers, assuming they are asymptomatic and later test negative. 
  <p class="updated_time"> 04:20 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/biden-defense-bill.html">President Biden Signs $770 Billion Defense Bill</a> NYT: The National Defense Authorization Act passed Congress with bipartisan support, over the opposition of liberals pushing for more social spending. 
- <p class="updated_time"> 03:51 PM CT, Dec. 27 </p> 
- <a href="https://www.npr.org/2021/12/27/1068335040/arkansas-gov-asa-hutchinson-on-the-state-of-the-pandemic">Arkansas Gov. Asa Hutchinson on the state of the pandemic</a> NPR: NPR's Mary Louise Kelly speaks with Gov. Asa Hutchinson, R-Ark., about Monday's call with the White House and governors about the pandemic. 
  <p class="updated_time"> 03:19 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/joe-biden-signs-ndaa/index.html">Biden signs annual defense bill</a> CNN: President Joe Biden signed the vital National Defense Authorization Act military funding bill, passed earlier this month by Congress, into law Monday morning. 
  <p class="updated_time"> 02:55 PM CT, Dec. 27 </p> 
@@ -376,6 +376,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/23/politics/als-research-biden-bill-signing/index.html">Biden says bipartisan legislation funding ALS research 'represents the spirit of the season' </a> CNN: President Joe Biden on Thursday signed into law bipartisan legislation that expands funding for amyotrophic lateral sclerosis research, hailing it as in "the spirit of the season." 
  <p class="updated_time"> 11:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/dccc-partnership-campaign-staff-diversity-526041">DCCC launching partnership to boost campaign staff diversity</a> Politico: House Democrats' campaign arm is partnering with Blue Leadership Collaborative to recruit and retain people of color, women and people who identify as queer as senior staff. 
+ <p class="updated_time"> 10:09 AM CT, Dec. 23 </p> 
+ <a href="https://www.cnn.com/2021/12/23/politics/faith-leaders-voting-rights-letter-biden/index.html">CNN Exclusive: Hundreds of faith leaders demand more from Biden and other Democrats on voting rights legislation</a> CNN: More than 800 faith leaders are urging President Joe Biden and Senate Democrats to pass voting rights legislation in 2022, writing in a letter released Thursday that the issue needs to be the administration's "number-one priority" after measures stalled in the Senate. 
  <p class="updated_time"> 07:41 AM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/joe-biden-filibuster-voting-rights/index.html">Biden says he supports filibuster carve-out for voting rights</a> CNN: President Joe Biden says he supports making an exception to the Senate filibuster rules in order to pass voting rights legislation. 
  <p class="updated_time"> 07:09 AM CT, Dec. 23 </p> 
