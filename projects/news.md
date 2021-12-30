@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:53 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Updates: Omicron Drives New U.S. Virus Cases to a Daily Record</a> NYT: Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 03:34 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59807737?at_medium=RSS&at_campaign=KARANGA">Ashraf Ghani: Ex-Afghan president describes moment he fled the Taliban</a> BBC: Speaking to the BBC, Ashraf Ghani tackles criticism he left Afghanistan as the Taliban closed in. 
  <p class="updated_time"> 03:33 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59818881?at_medium=RSS&at_campaign=KARANGA">Citroën removes Egypt ad accused of normalising sexual harassment</a> BBC: The carmaker apologises for an Egyptian commercial in which a woman is photographed without consent. 
  <p class="updated_time"> 03:29 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59826091?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu's body lies in state in his old cathedral</a> BBC: The coffin of the archbishop will remain at St George's Cathedral in Cape Town for two days. 
- <p class="updated_time"> 03:23 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Updates: Omicron Drives New U.S. Virus Cases to a Daily Record</a> NYT: Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
  <p class="updated_time"> 03:12 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59824150?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell guilty of helping Jeffrey Epstein abuse girls</a> BBC: A jury in New York convicts her of recruiting and trafficking teenagers in a "pyramid of abuse". 
  <p class="updated_time"> 02:14 AM CT, Dec. 30 </p> 
