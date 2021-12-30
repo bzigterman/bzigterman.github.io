@@ -7,16 +7,30 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:51 PM CT, Dec. 29 </p> 
+ <p class="updated_time"> 06:30 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/12/29/world/omicron-covid-vaccine-tests">Covid Live Updates: New York City Struggles to Keep Running Under Omicron</a> NYT: Average global cases reach a new high. Delta and Omicron are surging across the U.S., although hospitalizations and deaths remain far below earlier peaks. 
- <p class="updated_time"> 05:51 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/arts/design/smithsonian-museums-close-covid.html">Four Smithsonian Museums Close Amid Omicron Staff Shortages</a> NYT: The museums will temporarily close as the Smithsonian routes staff to more-visited outposts. 
+ <p class="updated_time"> 06:11 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/world-junior-championship-canceled-canada.html">World Junior Championship, a Showcase for Hockey’s Top Prospects, Is Canceled</a> NYT: The cancellation was an ominous sign for sports leagues, including the N.H.L. and the N.B.A., which have been struggling to maintain schedules. 
+ <p class="updated_time"> 06:08 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/arts/design/smithsonian-museums-close-covid.html">Five Smithsonian Museums Close Amid Omicron Staff Shortages</a> NYT: The museums will temporarily close as the Smithsonian routes staff to other outposts. 
+ <p class="updated_time"> 06:04 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/health-59755743?at_medium=RSS&at_campaign=KARANGA">What went wrong with vaccinating the world?</a> BBC: Why developed countries have a surplus of vaccines while low-income ones are still struggling to battle Covid. 
+ <p class="updated_time"> 06:03 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59776108?at_medium=RSS&at_campaign=KARANGA">COP 26: The teenagers suing 33 countries</a> BBC: To ensure the promises of COP26 are kept, young campaigners are putting their faith in international courts. 
+ <p class="updated_time"> 06:02 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59775136?at_medium=RSS&at_campaign=KARANGA">Syntropic agriculture: A new way of farming in dry climates?</a> BBC: Ernst Gotsch's method of agriculture increases, rather than decreases, biodiversity and wildlife. 
+ <p class="updated_time"> 05:59 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/connecticut-gun-threat-covid-testing-site.html">Testing Site in Connecticut Is Forced to Close After Gun Threat</a> NYT: Another location nearby also shut down after the crowd grew agitated. 
  <p class="updated_time"> 05:44 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/europe-omicron-infection-record-covid.html">Spurred by Omicron, Europe Sets Covid Infection Records Every Day</a> NYT: The surge of cases is causing chaos as people scramble to obtain tests, businesses grapple with staff shortages and New Year’s festivities are thrown into question. 
  <p class="updated_time"> 05:40 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/westminster-dog-show-postponed-covid.html">2022 Westminster Dog Show Postponed Amid Omicron Surge</a> NYT: The 2021 show was pushed to June and held outdoors because of the virus. 
+ <p class="updated_time"> 05:28 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59733623?at_medium=RSS&at_campaign=KARANGA">Who is Ghislaine Maxwell? The downfall of a favourite daughter</a> BBC: How Ghislaine Maxwell went from being the toast of high society to a convicted sex trafficker. 
  <p class="updated_time"> 04:50 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59818978?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden and Putin phone call seeks 'diplomatic path'</a> BBC: The presidents of the US and Russia will speak again in a bid to de-escalate tensions over Ukraine. 
+ <p class="updated_time"> 04:48 PM CT, Dec. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59736227?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: How accusers' testimony brought her down</a> BBC: This was a victory for the women who fought to bring Jeffrey Epstein's co-conspirator to justice. 
  <p class="updated_time"> 04:43 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59822209?at_medium=RSS&at_campaign=KARANGA">Covid: Omicron and Delta driving tsunami of cases - WHO</a> BBC: The warning comes as record cases are once again reported across the US and Europe. 
  <p class="updated_time"> 04:04 PM CT, Dec. 29 </p> 
@@ -39,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">As the Kremlin Revises History, a Human Rights Champion Becomes a Casualty</a> NYT: The shuttering of Memorial, the country’s most prominent human rights organization, has saddened Russians who were personally touched by its work shining a light on the injustices of the Soviet past. 
  <p class="updated_time"> 01:27 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068842676/biden-will-speak-by-phone-with-putin-as-russia-ramps-up-presence-on-ukraine-bord">Biden will speak by phone with Putin as Russia ramps up presence on Ukraine border</a> NPR: The request for a call on Thursday came from the Kremlin. The White House said, "It will take a high level of engagement to address this and to try to find a path to de-escalation." 
+ <p class="updated_time"> 01:26 PM CT, Dec. 29 </p> 
+ <a href="https://www.wsj.com/articles/with-omicron-case-rates-surging-policy-makers-focus-on-hospitalizations-instead-11640778907">U.S. Hit With Record Number of New Covid-19 Cases</a> WSJ: Infections surge as health officials expect the Omicron variant to keep spreading. 
  <p class="updated_time"> 01:21 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/france-left-presidential-election-primary.html">A Movement to Unify the French Left Might Be Its Last Chance for the Elections</a> NYT: A citizens’ initiative is pressuring the fragmented force to set parties’ interests aside and join together for next year’s presidential race. 
  <p class="updated_time"> 01:04 PM CT, Dec. 29 </p> 
@@ -47,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068753263/fresh-air-remembers-archbishop-desmond-tutu">'Fresh Air' remembers Archbishop Desmond Tutu</a> NPR: The South African leader was key to the anti-apartheid movement. He chaired the Truth and Reconciliation Commission and preached forgiveness. Tutu died Dec. 26. Originally broadcast in '84 and '99. 
  <p class="updated_time"> 12:44 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1066718893/kevin-dawes-sues-syria">An American was locked up in Syria. A pact with a British inmate may have saved him</a> NPR: Kevin Dawes describes how a fellow prisoner in Syria kept a promise that called attention to Dawes' detention. Now, five years after his release, Dawes is suing the Syrian regime. 
- <p class="updated_time"> 12:24 PM CT, Dec. 29 </p> 
- <a href="https://www.wsj.com/articles/with-omicron-case-rates-surging-policy-makers-focus-on-hospitalizations-instead-11640778907">U.S. Hit With Record Number of New Covid-19 Cases</a> WSJ: Infections surge as health officials expect the Omicron variant to keep spreading. 
  <p class="updated_time"> 12:07 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59821159?at_medium=RSS&at_campaign=KARANGA">Malawians mourn ex-First Lady Anne Chidzira Muluzi</a> BBC: Tributes are paid to Anne Chidzira Muluzi, the first woman to hold the title there, who died aged 69. 
  <p class="updated_time"> 12:07 PM CT, Dec. 29 </p> 
@@ -73,10 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
  <p class="updated_time"> 08:09 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59818881?at_medium=RSS&at_campaign=KARANGA">Citroën Egypt advert accused of normalising sexual harassment</a> BBC: The French carmaker features a pop star taking a photo of a woman apparently without her consent. 
- <p class="updated_time"> 08:05 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59816052?at_medium=RSS&at_campaign=KARANGA">Sabine Weiss: Legend of street photography dies at 97</a> BBC: Famed for her images of Paris street life, she was the last member of the French humanist group. 
- <p class="updated_time"> 07:14 AM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59815856?at_medium=RSS&at_campaign=KARANGA">Hong Kong's Stand News independent website shuts down after raid</a> BBC: Stand News has stopped operating following the arrest of seven people with links to the outlet. 
  <p class="updated_time"> 07:12 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/porretta-terme-italy-don-maestrello.html">An Italian Town Roots for Its Patron Saint of Basketball</a> NYT: Porretta Terme, in central Italy, is passionate about basketball, and is pressing the Vatican to officially recognize its local saint as Italy’s patron of the sport. 
  <p class="updated_time"> 04:37 AM CT, Dec. 29 </p> 
@@ -145,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/codeswitch/2021/12/28/260448064/cooking-up-food-and-identity-in-pailin-chongchitnants-hot-thai-kitchen">Cooking up food and identity in Pailin Chongchitnant's "Hot Thai Kitchen"</a> NPR: When chef Pailin Chongchitnant realized that cable television wasn't ready for a Thai cooking show, she started her own on YouTube. On it, she breaks down some of the misconceptions about the cuisine. 
  <p class="updated_time"> 11:46 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/omicron.html">Fears of Omicron’s Rapid Spread Are Tempered by Signs of Milder Illness</a> NYT: “We can’t stop it,” Israel’s prime minister said of the Omicron variant, but that warning was blunted by early signs of potentially less-severe illness than with earlier coronavirus iterations. 
- <p class="updated_time"> 11:22 AM CT, Dec. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59813216?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Remembered by daughter as a 'hugger'</a> BBC: Nontombi Naomi Tutu says her father "went to meet his God, ready and willing". 
  <p class="updated_time"> 11:18 AM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/28/1068500102/india-blocks-foreign-funding-for-mother-teresas-charity">India blocks foreign funding for Mother Teresa's charity</a> NPR: The Indian government says it has refused to renew a permit that allows the Missionaries of Charity to use foreign funds to operate orphanages and hospices across the country. 
  <p class="updated_time"> 10:46 AM CT, Dec. 28 </p> 
@@ -157,22 +165,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/afghanistans-former-female-troops-once-hailed-by-the-west-fear-for-their-lives-11640696404">Afghanistan's Former Female Troops Fear for Their Lives</a> WSJ: “They have relocated musicians, soccer players and artists, and their lives were not at risk as much as ours,” a former Afghan Air Force officer says of Western governments. 
  <p class="updated_time"> 02:00 AM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/europe/nord-stream-pipeline-germany-russia.html">Germany Wants Its Russian Pipeline. German Allies Aren’t Sure It’s a Good Idea.</a> NYT: The Nord Stream 2 Russia-to-Germany pipeline could offer plentiful natural gas. But tensions with Vladimir Putin are keeping it out of reach. 
- <p class="updated_time"> 10:28 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/world/africa/desmond-tutu-mourning.html">South Africa Begins a Week of Mourning for Desmond Tutu</a> NYT: The cleric and anti-apartheid activist’s funeral will be held on Jan. 1 at the cathedral where he served as South Africa’s first Black archbishop. 
  <p class="updated_time"> 09:22 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/health/omicron-cdc.html">As Omicron Cases Surge, CDC Shortens Isolation Times for Many Americans</a> NYT: Hoping to prevent further disruptions to daily life, the C.D.C. reduced the period that certain infected Americans must sequester. 
- <p class="updated_time"> 06:13 PM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59731621?at_medium=RSS&at_campaign=KARANGA">83 movie: Bollywood relives India’s epic cricket triumph</a> BBC: A Bollywood ode to India's 1983 cricket world cup win recreates one of the greatest upsets in sports history. 
- <p class="updated_time"> 06:11 PM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/business-59722297?at_medium=RSS&at_campaign=KARANGA">The African nation aiming to be a hydrogen superpower</a> BBC: Namibia wants to use its abundance of sunshine and wind power to make and export hydrogen. 
- <p class="updated_time"> 06:10 PM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59701738?at_medium=RSS&at_campaign=KARANGA">What a Greek tragedy teaches us about modern migration</a> BBC: A production of Antigone seeks to overturn prejudices about Africans arriving in Sicily. 
- <p class="updated_time"> 06:05 PM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59571711?at_medium=RSS&at_campaign=KARANGA">Crocodiles turn on humans amid Iran water crisis</a> BBC: The creatures are attacking as their habitats shrink, a grim side-effect of Iran's water shortages. 
- <p class="updated_time"> 06:04 PM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/stories-59733533?at_medium=RSS&at_campaign=KARANGA">‘The doctors came and I had to tell my father he was dying’</a> BBC: Is it always appropriate for relatives to interpret for deaf loved ones? 
- <p class="updated_time"> 06:01 PM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59761535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Children in Kabul working for a piece of bread</a> BBC: More and more Afghan children are having to work to support their families, amidst an economic collapse. 
  <p class="updated_time"> 03:53 PM CT, Dec. 27 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/27/1068298117/-17-trillion-thats-how-much-the-pandemic-could-take-away-from-todays-kids">$17 trillion: That's how much the pandemic could take away from today's kids</a> NPR: A new report from UNESCO estimates the potential lifetime earnings lost to the world's children due to school closings. But there are ways to prevent this from happening. 
  <p class="updated_time"> 11:23 AM CT, Dec. 27 </p> 
@@ -188,6 +182,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:32 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
+ <p class="updated_time"> 06:09 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Michigan’s New Congressional Maps Undo Years of Gerrymandering</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
+ <p class="updated_time"> 05:32 PM CT, Dec. 29 </p> 
+ <a href="https://www.cnn.com/2021/12/29/politics/2022-scotus-covid-biden-trump-midterms/index.html">Analysis: 5 big things to watch in 2022</a> CNN: 5. Biden/Trump 2024 
  <p class="updated_time"> 05:29 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/trump-supreme-court-washington-post-bennie-thompson/index.html">Trump wants Supreme Court to read Washington Post interview with Bennie Thompson</a> CNN: As the Supreme Court considers whether to take up former President Donald Trump's January 6 White House records case, Trump's attorney submitted to the court a new filing Wednesday making the court aware of a Washington Post interview with Rep. Bennie Thompson, who chairs the House select committee seeking the records. 
  <p class="updated_time"> 05:15 PM CT, Dec. 29 </p> 
@@ -356,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/24/biden-rural-evictions-526089">Biden’s about to adopt a policy that could hurt Dems even more with rural voters</a> Politico: About half of the $46.5 billion in federal rental aid made available during the pandemic is expected to be spent by the end of this year. 
  <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/biden-social-spending-senate-parliamentarian-526081">Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</a> Politico: The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan. 
- <p class="updated_time"> 06:38 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/us/politics/china-uyghurs-forced-labor.html">U.S. Effort to Combat Forced Labor Targets Corporate China Ties</a> NYT: The Biden administration is expected to face scrutiny as it decides how to enforce a new ban on products made with forced labor in the Xinjiang region of China. 
  <p class="updated_time"> 06:30 PM CT, Dec. 23 </p> 
  <a href="https://www.nytimes.com/2021/12/23/us/politics/medicaid-work-requirements-georgia-biden.html">Biden Administration Rejects Medicaid Work Requirements in Georgia</a> NYT: The decision continued the administration’s rollback of the Trump-era policy, targeting the only remaining state with federal approval for the requirements. 
  <p class="updated_time"> 05:56 PM CT, Dec. 23 </p> 
@@ -368,12 +366,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/23/us/politics/guantanamo-judge-quits.html">Another Judge Quits Guantánamo Case</a> NYT: No new judge has been named to preside in the trial of a Qaeda commander, which has had four judges in seven years. 
  <p class="updated_time"> 04:47 PM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/als-research-biden-bill-signing/index.html">Biden says bipartisan legislation funding ALS research 'represents the spirit of the season' </a> CNN: President Joe Biden on Thursday signed into law bipartisan legislation that expands funding for amyotrophic lateral sclerosis research, hailing it as in "the spirit of the season." 
- <p class="updated_time"> 01:03 PM CT, Dec. 23 </p> 
- <a href="https://www.nytimes.com/2021/12/23/us/politics/russia-ukraine-military-biden.html">U.S. Considers Warning Ukraine of a Russian Invasion in Real-Time</a> NYT: U.S. officials say intelligence sharing is essential to the Ukrainian government’s survival, even as they try to avoid escalating the situation. 
  <p class="updated_time"> 11:30 AM CT, Dec. 23 </p> 
  <a href="https://www.politico.com/news/2021/12/23/dccc-partnership-campaign-staff-diversity-526041">DCCC launching partnership to boost campaign staff diversity</a> Politico: House Democrats' campaign arm is partnering with Blue Leadership Collaborative to recruit and retain people of color, women and people who identify as queer as senior staff. 
- <p class="updated_time"> 10:09 AM CT, Dec. 23 </p> 
- <a href="https://www.cnn.com/2021/12/23/politics/faith-leaders-voting-rights-letter-biden/index.html">CNN Exclusive: Hundreds of faith leaders demand more from Biden and other Democrats on voting rights legislation</a> CNN: More than 800 faith leaders are urging President Joe Biden and Senate Democrats to pass voting rights legislation in 2022, writing in a letter released Thursday that the issue needs to be the administration's "number-one priority" after measures stalled in the Senate. 
  <p class="updated_time"> 07:41 AM CT, Dec. 23 </p> 
  <a href="https://www.cnn.com/2021/12/23/politics/joe-biden-filibuster-voting-rights/index.html">Biden says he supports filibuster carve-out for voting rights</a> CNN: President Joe Biden says he supports making an exception to the Senate filibuster rules in order to pass voting rights legislation. 
  <p class="updated_time"> 07:09 AM CT, Dec. 23 </p> 
