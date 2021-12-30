@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:34 AM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59807737?at_medium=RSS&at_campaign=KARANGA">Ashraf Ghani: Ex-Afghan president describes moment he fled the Taliban</a> BBC: Speaking to the BBC, Ashraf Ghani tackles criticism he left Afghanistan as the Taliban closed in. 
+ <p class="updated_time"> 03:33 AM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59818881?at_medium=RSS&at_campaign=KARANGA">Citroën removes Egypt ad accused of normalising sexual harassment</a> BBC: The carmaker apologises for an Egyptian commercial in which a woman is photographed without consent. 
  <p class="updated_time"> 03:29 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59826091?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu's body lies in state in his old cathedral</a> BBC: The coffin of the archbishop will remain at St George's Cathedral in Cape Town for two days. 
  <p class="updated_time"> 03:23 AM CT, Dec. 30 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/asia/hong-kong-stand-news-arrest.html">Hong Kong Police Raid Stand News and Arrest Staff</a> NYT: Those arrested, including current and former senior staff members of Stand News, were accused of conspiring to publish seditious material. The news site announced it would shut down immediately. 
  <p class="updated_time"> 02:14 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069021763/hong-kong-police-charge-2-from-pro-democracy-news-outlet-with-sedition">Hong Kong police charge 2 from pro-democracy news outlet with sedition</a> NPR: Hong Kong police on Thursday formally charged two people from a pro-democracy news outlet with sedition, a day after it said it would cease operations after a police raid and seven arrests. 
- <p class="updated_time"> 02:13 AM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59807737?at_medium=RSS&at_campaign=KARANGA">Ashraf Ghani: Ex-Afghan president describes moment he fled the Taliban</a> BBC: Speaking to the BBC, Ashraf Ghani tackles criticism he left Afghanistan as the Taliban closed in. 
  <p class="updated_time"> 12:33 AM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59824914?at_medium=RSS&at_campaign=KARANGA">Australia: Protesters set Old Parliament House in Canberra on fire</a> BBC: The blaze was quickly put out but marks an escalation in indigenous protests in Canberra. 
  <p class="updated_time"> 11:40 PM CT, Dec. 29 </p> 
@@ -50,7 +52,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:40 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/westminster-dog-show-postponed-covid.html">2022 Westminster Dog Show Postponed Amid Omicron Surge</a> NYT: The 2021 show was pushed to June and held outdoors because of the virus. 
  <p class="updated_time"> 05:28 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59733623?at_medium=RSS&at_campaign=KARANGA">Who is Ghislaine Maxwell? The downfall of a favourite daughter</a> BBC: How Ghislaine Maxwell went from being the toast of high society to a convicted sex trafficker. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59733623?at_medium=RSS&at_campaign=KARANGA">Who is Ghislaine Maxwell? The story of her downfall</a> BBC: How she went from being the toast of high society to a convicted sex trafficker. 
  <p class="updated_time"> 04:50 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59818978?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden and Putin phone call seeks 'diplomatic path'</a> BBC: The presidents of the US and Russia will speak again in a bid to de-escalate tensions over Ukraine. 
  <p class="updated_time"> 04:48 PM CT, Dec. 29 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1066718893/kevin-dawes-sues-syria">An American was locked up in Syria. A pact with a British inmate may have saved him</a> NPR: Kevin Dawes describes how a fellow prisoner in Syria kept a promise that called attention to Dawes' detention. Now, five years after his release, Dawes is suing the Syrian regime. 
  <p class="updated_time"> 12:07 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/asia/singapore-vaccination-fraud-malaysia.html">Singapore charges a man accused of lending out his vaccination record, and other international news.</a> NYT: A 65-year-old used the records of a 37-year-old to pretend he had been fully vaccinated, court indictments said. 
- <p class="updated_time"> 12:00 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59816567?at_medium=RSS&at_campaign=KARANGA">Valentina Orellana-Peralta: Teen shot by police in LA dies in mother's arms</a> BBC: A girl from Chile killed by a stray bullet once said the US was the safest country in the world. 
  <p class="updated_time"> 11:30 AM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59820999?at_medium=RSS&at_campaign=KARANGA">Alaska 'Icemageddon' warning follows heat record</a> BBC: The coldest US state faces weather extremes after heavy snowfall and torrential rain. 
  <p class="updated_time"> 11:20 AM CT, Dec. 29 </p> 
