@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:51 PM CT, Dec. 31 </p> 
+ <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Wave Dampens New Year’s Eve, Studies Provide Glimmer of Hope</a> NYT: Many countries marked 2021 with subdued celebrations, as the British government released data showing people with Omicron were less likely to need hospitalization and animal studies suggested the variant spares the lungs. 
+ <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/sports/kirk-cousins-covid.html">Kirk Cousins Tests Positive for Covid-19</a> NYT: Cousins was placed on the team’s Covid-19 reserve list for at least five days, threatening Minnesota’s playoff chances. 
+ <p class="updated_time"> 02:09 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
+ <p class="updated_time"> 02:00 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/world/canada/montreal-bar-mitzvah-photographer.html">Once a Janitor, Now the Bar Mitzvah Photography King of Montreal</a> NYT: With a touch of chutzpah and “a little help from God,” Braulio Rocha, a Roman Catholic Portuguese immigrant, traded in his mop for a camera. 
  <p class="updated_time"> 01:43 PM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-53723448?at_medium=RSS&at_campaign=KARANGA">Golden Girl actress Betty White dies aged 99</a> BBC: A look back at the life and career of the comedy actress, "American institution" and animal activist who has died aged 99. 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-53723448?at_medium=RSS&at_campaign=KARANGA">Golden Girl actress Betty White dies aged 99</a> BBC: One of America's original screen stars, Betty White enjoyed a career spanning eight decades. 
  <p class="updated_time"> 01:28 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-59840513?at_medium=RSS&at_campaign=KARANGA">Covid-19: WHO chief optimistic disease will be beaten in 2022</a> BBC: The organisation ends the year on a positive note but warns about "nationalism and vaccine hoarding". 
  <p class="updated_time"> 12:57 PM CT, Dec. 31 </p> 
@@ -21,14 +27,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/arts/music/sam-fender.html">Sam Fender, a Songwriter Caught Between Stardom and His Hometown</a> NYT: The musician is fast becoming one of Britain’s biggest rock acts with tracks about working class life in North Shields. Can he let himself leave the town? 
  <p class="updated_time"> 12:31 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/germany-new-year-speech-olaf-scholz-covid.html">In New Year's Speech, Olaf Scholz, Germany's New Leader, Focuses on Covid</a> NYT: Olaf Scholz, who replaced Angela Merkel as chancellor about three weeks ago, gave the traditional New Year’s Eve address for the first time and called for unity and vaccinations. 
- <p class="updated_time"> 12:28 PM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
  <p class="updated_time"> 12:24 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/biden-putin-russia-ukraine-lavrov.html">Sergey V. Lavrov Accused NATO of Stoking Ukraine Conflict </a> NYT: Sergey V. Lavrov accused the United States and its allies of stoking a conflict in the country’s east in comments that contrasted with a more positive tone coming from Moscow. 
  <p class="updated_time"> 12:16 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/africa/desmond-tutu-legacy.html">In Remembering Tutu, South Africa Reckons With Lasting Challenges</a> NYT: Archbishop Desmond Tutu’s death has reignited a public conversation about the state of the country’s reconciliation process and its democracy. 
- <p class="updated_time"> 12:08 PM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/31/world/canada/montreal-bar-mitzvah-photographer.html">Once a Janitor, Now the Bar Mitzvah Photography King of Montreal</a> NYT: With a touch of chutzpah and “a little help from God,” Braulio Rocha, a Roman Catholic Portuguese immigrant, traded in his mop for a camera. 
  <p class="updated_time"> 11:37 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59834897?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Tens of thousands evacuated as blazes spread</a> BBC: Some 30,000 people north of Denver are told to leave their homes and a state of emergency is declared. 
  <p class="updated_time"> 11:34 AM CT, Dec. 31 </p> 
