@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:56 AM CT, Dec. 31 </p> 
+ <p class="updated_time"> 09:04 AM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/world/middleeast/asma-khader-dead.html">Asma Khader, Fighter for Women’s Rights in Jordan, Dies at 69</a> NYT: A respected lawyer, she focused on the victims of domestic violence and also worked hard to change discriminatory laws. 
+ <p class="updated_time"> 09:04 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Covid Wave Dampens New Year Observances Worldwide</a> NYT: Countries rattled by Omicron mark the end of 2021 with subdued celebrations, or none at all. In Australia, Sydney’s annual fireworks show went on, but other cities canceled festivities. 
+ <p class="updated_time"> 09:01 AM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/world/africa/desmond-tutu-legacy.html">In Remembering Tutu, South Africa Reckons With Lasting Challenges</a> NYT: Archbishop Desmond Tutu’s death has reignited a public conversation about the state of the country’s reconciliation process and its democracy. 
+ <p class="updated_time"> 08:55 AM CT, Dec. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59839351?at_medium=RSS&at_campaign=KARANGA">Virginia Giuffre: Prince Andrew accuser seeks evidence he could not sweat</a> BBC: Lawyers for Virginia Giuffre call on the royal to submit medical reports to a New York court. 
  <p class="updated_time"> 08:36 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/sport/59838168?at_medium=RSS&at_campaign=KARANGA">Breakaway Super League, Tokyo's 'Covid Games', cricket's racism crisis - a huge year for sports news</a> BBC: BBC sports editor Dan Roan says 2021 has included two of the most dramatic, fastest-moving stories he has covered in two decades of sports reporting. 
  <p class="updated_time"> 08:17 AM CT, Dec. 31 </p> 
@@ -57,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/us/politics/biden-putin-ukraine-call.html">Putin Warns Biden of ‘Complete Rupture’ of U.S.-Russia Relationship Over Ukraine</a> NYT: President Vladimir V. Putin of Russia spoke with President Biden for 50 minutes about the escalating crisis with Ukraine, but his intentions remained unclear. 
  <p class="updated_time"> 08:52 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/indonesia-rohingya-boat.html">Indonesia Lets Stranded Refugee Boat Land After Vowing to Turn It Away</a> NYT: The boat came shore on Friday with more than 100 Rohingya refugees on board. Indonesia relented under pressure from rights groups. 
- <p class="updated_time"> 08:04 PM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59832843?at_medium=RSS&at_campaign=KARANGA">South Africa says Omicron wave may have peaked</a> BBC: Officials relax restrictions noting lower hospital admissions from the Omicron variant than feared. 
  <p class="updated_time"> 07:01 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59309768?at_medium=RSS&at_campaign=KARANGA">Year in tech: The stories making headlines in 2021</a> BBC: From the metaverse to NFTs and everything in-between, what's made the news in tech this year? 
  <p class="updated_time"> 06:30 PM CT, Dec. 30 </p> 
@@ -93,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59832838?at_medium=RSS&at_campaign=KARANGA">Russia labels Pussy Riot members foreign agents</a> BBC: Journalists and other prominent figures also feature on an updated justice ministry list. 
  <p class="updated_time"> 12:39 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/bbc-alan-dershowitz-ghislaine-maxwell-epstein.html">BBC to Look Into Alan Dershowitz Interview on Ghislaine Maxwell Verdict</a> NYT: The American lawyer spoke to the British broadcaster about the verdict in the Ghislaine Maxwell case, but his connections to the case were not made clear. 
- <p class="updated_time"> 12:25 PM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59827051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Survivors speak of relief after guilty verdict</a> BBC: Annie Farmer, who was groomed by Ghislaine Maxwell, says she hopes the verdict will bring others solace. 
  <p class="updated_time"> 12:05 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/ashraf-ghani-bbc-interview.html">Ashraf Ghani, Former Afghan President, Says He Fled Nation to 'Save Kabul'</a> NYT: In his first interview since escaping Afghanistan as the Taliban advanced on the capital, Ashraf Ghani defended himself against charges that he abandoned his country in its hour of need. 
  <p class="updated_time"> 11:53 AM CT, Dec. 30 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068753263/fresh-air-remembers-archbishop-desmond-tutu">'Fresh Air' remembers Archbishop Desmond Tutu</a> NPR: The South African leader was key to the anti-apartheid movement. He chaired the Truth and Reconciliation Commission and preached forgiveness. Tutu died Dec. 26. Originally broadcast in '84 and '99. 
  <p class="updated_time"> 12:44 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1066718893/kevin-dawes-sues-syria">An American was locked up in Syria. A pact with a British inmate may have saved him</a> NPR: Kevin Dawes describes how a fellow prisoner in Syria kept a promise that called attention to Dawes' detention. Now, five years after his release, Dawes is suing the Syrian regime. 
- <p class="updated_time"> 12:07 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/asia/singapore-vaccination-fraud-malaysia.html">Singapore charges a man accused of lending out his vaccination record, and other international news.</a> NYT: A 65-year-old used the records of a 37-year-old to pretend he had been fully vaccinated, court indictments said. 
  <p class="updated_time"> 11:20 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/middleeast/israel-avian-flu.html">Israel's Avian Flu Outbreak Has Killed Thousands of Cranes</a> NYT: Thousands of migratory cranes have died and more than half a million chickens have been culled as the country tries to contain a deadly bird virus. 
  <p class="updated_time"> 10:41 AM CT, Dec. 29 </p> 
@@ -179,9 +179,9 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/31/meet-the-gops-new-national-security-power-broker-495557">Meet the GOP’s new national security power broker</a> Politico Playbook: And neither Biden nor Putin backs down on a new call. 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/31/meet-the-gops-new-national-security-power-broker-495557"> Meet the GOP’s new national security power broker</a> Politico Playbook: And neither Biden nor Putin backs down on a new call. 
  <p class="updated_time"> 07:15 AM CT, Dec. 31 </p> 
- <a href="https://www.cnn.com/2021/12/31/politics/judges-us-capitol-comments/index.html">In the year since the US Capitol attack, judges remind us what it means to be American </a> CNN: On January 6, rioters streamed past the federal courthouse in Washington, DC, and descended upon the US Capitol. For weeks after the attack, DC's chief judge said she could see National Guard troops from the window in her chambers. 
+ <a href="https://www.cnn.com/2021/12/31/politics/judges-us-capitol-comments/index.html">Judges remind the US how crucial it is for democracy that the insurrection never happens again</a> CNN: On January 6, rioters streamed past the federal courthouse in Washington, DC, and descended upon the US Capitol. For weeks after the attack, DC's chief judge said she could see National Guard troops from the window in her chambers. 
  <p class="updated_time"> 07:01 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/complaint-doj-foreign-agent-prosecutions-526278">Complaint could roil DOJ foreign-agent prosecutions</a> Politico: Businesswoman Nickie Lum Davis says her guilty plea last year to a charge of unregistered lobbying was coerced. 
  <p class="updated_time"> 07:00 AM CT, Dec. 31 </p> 
@@ -312,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/us/politics/mask-mandate-fines-greene-clyde.html">Greene and Clyde Rack Up Fines for Defying House’s Mask Mandate</a> NYT: Representatives Marjorie Taylor Greene and Andrew Clyde have incurred more than $100,000 combined in penalties for dozens of violations. 
  <p class="updated_time"> 10:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, Senate Majority Leader Behind Landmark Democratic Victories, Dies at 82</a> NYT: Mr. Reid, who was from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
- <p class="updated_time"> 09:54 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/harry-reid-dies/index.html">Harry Reid, longtime US senator and former Democratic leader, dies at 82</a> CNN: Harry Reid, the scrappy former Democratic Senate leader who spearheaded epic legislative battles through three decades in Congress, has died at the age of 82, according to a statement from his wife, Landra Reid. 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
  <p class="updated_time"> 06:53 PM CT, Dec. 28 </p> 
@@ -334,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/28/fda-antigen-tests-reduced-sensitivity-omicron-526217">FDA: Antigen tests may have reduced sensitivity detecting Omicron</a> Politico: The new warning is based on preliminary studies by the National Institutes of Health’s Rapid Acceleration of Diagnostics initiative. 
  <p class="updated_time"> 03:31 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/donald-trump-allies-january-6-committee/index.html">Some Trump allies slow walk, stonewall or snub January 6 committee</a> CNN: When the committee investigating the January 6 insurrection struggled to serve Dan Scavino with a subpoena, the former Donald Trump aide said he had been in a fairly obvious locale: Mar-a-Lago. 
- <p class="updated_time"> 03:11 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/covid-omicron-kids-hospitalizations-what-matters/index.html">Analysis: Rising child hospitalizations loom large over US Covid-19 response</a> CNN: Public health experts have sought for months to find the right message that will resonate with the many Americans who remain unconvinced about the very real danger of Covid-19. 
  <p class="updated_time"> 12:52 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/trump-organization-pga-settlement-526207">Trump Organization and PGA reach settlement over 2022 championship dispute</a> Politico: No details were released, but the tournament still won’t be held at Bedminster as a result of the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:12 PM CT, Dec. 28 </p> 
@@ -370,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/25/biden-puerto-rico-electricity-network-526102">Puerto Rico’s shattered power grid could become a ‘big experiment’ for Biden</a> Politico: The crumbling electricity network that serves the island's 3 million people is at the center of a debate on renewable energy vs. fossil fuels — with billions of federal dollars at stake. 
  <p class="updated_time"> 06:10 PM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/project-veritas-new-york-times-526137">Judge blocks New York Times on Project Veritas coverage</a> Politico: The Times was also ordered to return or delete relevant documents. 
- <p class="updated_time"> 09:17 AM CT, Dec. 24 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/24/tis-the-season-of-year-end-lists-495550"> ’Tis the season of year-end lists</a> Politico Playbook: And the U.S. lifts travel restrictions on southern Africa. 
 
 
 </details>
