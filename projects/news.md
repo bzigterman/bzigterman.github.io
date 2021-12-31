@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:02 AM CT, Dec. 31 </p> 
+ <p class="updated_time"> 10:32 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Covid Wave Dampens New Year Observances Worldwide</a> NYT: Countries rattled by Omicron mark the end of 2021 with subdued celebrations, or none at all. In Australia, Sydney’s annual fireworks show went on, but other cities canceled festivities. 
- <p class="updated_time"> 10:00 AM CT, Dec. 31 </p> 
+ <p class="updated_time"> 10:11 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59834897?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Tens of thousands evacuated as blazes spread</a> BBC: Some 30,000 people north of Denver are told to leave their homes and a state of emergency is declared. 
+ <p class="updated_time"> 10:09 AM CT, Dec. 31 </p> 
+ <a href="https://www.npr.org/2021/12/31/1069472217/new-years-eve-omicron">As the world marks New Year's Eve, celebrations are muted by omicron</a> NPR: In many places, New Year's Eve celebrations were muted or canceled for the second straight year due to a surge of coronavirus infections, this time driven by the highly contagious omicron variant. 
  <p class="updated_time"> 09:33 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/africa/desmond-tutu-legacy.html">In Remembering Tutu, South Africa Reckons With Lasting Challenges</a> NYT: Archbishop Desmond Tutu’s death has reignited a public conversation about the state of the country’s reconciliation process and its democracy. 
  <p class="updated_time"> 09:16 AM CT, Dec. 31 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/europe/france-left-presidential-election-primary.html">A Movement to Unify the French Left Might Be Its Last Chance for the Elections</a> NYT: A citizens’ initiative is pressuring the fragmented force to set parties’ interests aside and join together for next year’s presidential race. 
  <p class="updated_time"> 12:45 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068753263/fresh-air-remembers-archbishop-desmond-tutu">'Fresh Air' remembers Archbishop Desmond Tutu</a> NPR: The South African leader was key to the anti-apartheid movement. He chaired the Truth and Reconciliation Commission and preached forgiveness. Tutu died Dec. 26. Originally broadcast in '84 and '99. 
- <p class="updated_time"> 12:44 PM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/29/1066718893/kevin-dawes-sues-syria">An American was locked up in Syria. A pact with a British inmate may have saved him</a> NPR: Kevin Dawes describes how a fellow prisoner in Syria kept a promise that called attention to Dawes' detention. Now, five years after his release, Dawes is suing the Syrian regime. 
  <p class="updated_time"> 11:20 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/middleeast/israel-avian-flu.html">Israel's Avian Flu Outbreak Has Killed Thousands of Cranes</a> NYT: Thousands of migratory cranes have died and more than half a million chickens have been culled as the country tries to contain a deadly bird virus. 
  <p class="updated_time"> 10:41 AM CT, Dec. 29 </p> 
@@ -309,9 +309,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights and the Battle Over Elections: What to Know</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
- <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/mask-mandate-fines-greene-clyde.html">Greene and Clyde Rack Up Fines for Defying House’s Mask Mandate</a> NYT: Representatives Marjorie Taylor Greene and Andrew Clyde have incurred more than $100,000 combined in penalties for dozens of violations. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights Tracker: What to Know About the U.S. Elections Fight</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
  <p class="updated_time"> 10:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, Senate Majority Leader Behind Landmark Democratic Victories, Dies at 82</a> NYT: Mr. Reid, who was from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
@@ -320,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/28/michigan-redistricting-congressional-map-526227">Michigan’s new congressional map: 3 battlegrounds, 1 Dem-vs.-Dem primary</a> Politico: Virginia also completed congressional redistricting on Tuesday. 
  <p class="updated_time"> 05:44 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/biden-covid-testing-shortage/index.html">Biden dogged by a testing shortage he'd vowed to fix</a> CNN: President Joe Biden is closing out his first year in office facing one of the same problems he entered the White House vowing to fix: a persistent shortage of Covid-19 testing that, if resolved, could provide a way out of the still-raging pandemic. 
- <p class="updated_time"> 05:38 PM CT, Dec. 28 </p> 
- <a href="https://www.politico.com/news/2021/12/28/us-new-daily-high-covid-526223">U.S. sets new daily high for Covid cases</a> Politico: The Centers for Disease Control and Prevention’s tally represents a grim new milestone in the coronavirus pandemic. 
  <p class="updated_time"> 05:37 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/business/media/nyt-project-veritas.html">Judge Says New York Times Can Retain Project Veritas Memos, for Now</a> NYT: A New York appeals court said the paper did not need to immediately give up or destroy documents related to the conservative group. The paper is still prevented from publishing certain documents. 
  <p class="updated_time"> 05:14 PM CT, Dec. 28 </p> 
