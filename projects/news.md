@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:09 PM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Wave Dampens New Year’s Eve, Studies Provide Glimmer of Hope</a> NYT: Many countries marked 2021 with subdued celebrations, as the British government released data showing people with Omicron were less likely to need hospitalization and animal studies suggested the variant spares the lungs. 
+ <p class="updated_time"> 05:30 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Casts a Pall Over New Year’s Eve, Scientists Say U.S. Wave Could Soon Peak</a> NYT: Many countries marked the end of 2021 with subdued celebrations. The British government released data showing people with Omicron were less likely to need hospitalization, and animal studies suggested the variant spares the lungs. 
+ <p class="updated_time"> 05:13 PM CT, Dec. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59843627?at_medium=RSS&at_campaign=KARANGA">Betty White: Biden leads tributes for Golden Girls actress</a> BBC: The long-time Hollywood star died on Friday at the age of 99 after an eight-decade film and TV career. 
  <p class="updated_time"> 04:50 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59843697?at_medium=RSS&at_campaign=KARANGA">French ban on plastic packaging for fruit and vegetables begins</a> BBC: Effective from New Year's day, officials hope the law will prevent a billion items of single use plastics every year. 
  <p class="updated_time"> 04:01 PM CT, Dec. 31 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/europe/biden-putin-russia-ukraine-lavrov.html">Sergey V. Lavrov Accused NATO of Stoking Ukraine Conflict </a> NYT: Sergey V. Lavrov accused the United States and its allies of stoking a conflict in the country’s east in comments that contrasted with a more positive tone coming from Moscow. 
  <p class="updated_time"> 03:11 PM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069538926/ski-resorts-in-france-reopen-vaccine-passes-and-masks-are-required">Ski resorts in France reopen. Vaccine passes and masks are required</a> NPR: After abruptly closing in March 2020, France's alpine ski resorts have reopened. But this year you'll need more than just goggles and a lift pass. 
- <p class="updated_time"> 03:05 PM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59843627?at_medium=RSS&at_campaign=KARANGA">Betty White: Biden leads tributes for Golden Girls actress</a> BBC: The long-time Hollywood star died on Friday at the age of 99 after an eight-decade film and TV career. 
  <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/sports/football/kirk-cousins-covid.html">Kirk Cousins Tests Positive for Covid-19</a> NYT: Cousins was placed on the team’s Covid-19 reserve list for at least five days, threatening Minnesota’s playoff chances. 
  <p class="updated_time"> 02:00 PM CT, Dec. 31 </p> 
@@ -196,14 +196,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:00 PM CT, Dec. 31 </p> 
+ <p class="updated_time"> 05:13 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/us/politics/john-roberts-supreme-court.html">Chief Justice Roberts Reflects on Conflicts, Harassment and Judicial Independence</a> NYT: In his year-end report, the chief justice said that the court administrators, not Congress, should address financial conflicts and workplace misconduct in the judicial system. 
  <p class="updated_time"> 05:00 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/john-roberts-year-end-report-supreme-court-federal-courts/index.html">Roberts pushes for judiciary's continued independence in year-end report</a> CNN: Chief Justice John Roberts stressed the importance of the judiciary's institutional independence Friday in an annual report that comes as the Supreme Court is considering some of the most important issues of the day, and critics are seeking to dilute the court's conservative majority. 
  <p class="updated_time"> 04:27 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/ayanna-pressley-covid/index.html">Rep. Ayanna Pressley tests positive for Covid-19</a> CNN: Rep. Ayanna Pressley, a Massachusetts Democrat, announced Friday she tested positive for Covid-19 and is experiencing mild symptoms. 
  <p class="updated_time"> 03:43 PM CT, Dec. 31 </p> 
- <a href="https://www.politico.com/news/2021/12/31/fdic-chair-jelena-mcwilliams-to-resign-526295">FDIC’s GOP chair to resign after partisan brawl</a> Politico: Jelena McWilliams on Friday unexpectedly submitted her resignation. 
+ <a href="https://www.politico.com/news/2021/12/31/fdic-chair-jelena-mcwilliams-to-resign-526295">Trump appointee at FDIC to resign after partisan brawl</a> Politico: Jelena McWilliams on Friday unexpectedly submitted her resignation. 
  <p class="updated_time"> 03:11 PM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069539008/a-look-back-at-attacks-on-voting-rights-in-2021-and-what-could-be-next">A look back at attacks on voting rights in 2021 — and what could be next</a> NPR: NPR's Mary Louise Kelly speaks with Wendy Weiser, who directs the Democracy Program at the Brennan Center for Justice, about the threats to our elections in 2022 and 2024. 
  <p class="updated_time"> 03:11 PM CT, Dec. 31 </p> 
