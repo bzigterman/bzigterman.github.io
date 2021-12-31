@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:03 AM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/eric-adams-nye-times-square.html">Eric Adams to Be Sworn In on New Year's Eve in Times Square</a> NYT: The incoming mayor has made a point of reveling in New York’s nightlife, something that he has cast as boosterism for the city’s struggling club and restaurant scene. 
  <p class="updated_time"> 03:43 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069428211/parents-selling-children-shows-desperation-in-afghanistan">Parents selling children shows desperation in Afghanistan</a> NPR: Many of Afghanistan's growing number of destitute people are making desperate decisions as their nation spirals into a deeper poverty. 
  <p class="updated_time"> 03:15 AM CT, Dec. 31 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068895510/thousands-are-displaced-in-brazil-after-weeks-of-flooding-in-bahia-state">Tens of thousands are displaced in Brazil after weeks of flooding in Bahia state</a> NPR: NPR's Ari Shapiro speaks with Gram Slattery, Brazil correspondent for Reuters, about the deadly flooding currently happening in the northeastern state of Bahia, Brazil. 
  <p class="updated_time"> 04:04 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068895496/hong-kong-police-close-pro-democracy-outlet-stand-news">Hong Kong police close pro-democracy outlet Stand News</a> NPR: In Hong Kong, authorities from the police's national security department arrested half a dozen senior staff members, confiscated boxes and closed one of the last pro-democracy outlets, Stand News. 
- <p class="updated_time"> 03:17 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/eric-adams-nye-times-square.html">Eric Adams to Be Sworn In on New Year's Eve in Times Square</a> NYT: The incoming mayor has made a point of reveling in New York’s nightlife, something that he has cast as boosterism for the city’s struggling club and restaurant scene. 
  <p class="updated_time"> 01:43 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/cincinnati-fire-department-state-of-emergency.html">Cincinnati Declares State of Emergency Amid Fire Department Staffing Shortages</a> NYT: Mayor John Cranley called the challenges a “public danger” that would undermine the city’s ability to respond to fire emergencies. 
  <p class="updated_time"> 01:27 PM CT, Dec. 29 </p> 
@@ -180,6 +180,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:05 AM CT, Dec. 31 </p> 
+ <a href="https://www.npr.org/2021/12/31/1069230553/the-top-destination-for-biden-during-his-first-year-in-office-pennsylvania">The top destination for Biden during his first year in office? Pennsylvania</a> NPR: Biden traveled there seven times since taking office, more than any other president in recent history. The reasons for his visits there and other states have to do with policy, politics and more. 
+ <p class="updated_time"> 04:01 AM CT, Dec. 31 </p> 
+ <a href="https://www.npr.org/2021/12/31/1068930675/us-election-coup-january-6-military-constitution">Retired general warns the U.S. military could lead a coup after the 2024 election</a> NPR: Retired Major General Paul Eaton says war-gaming and civics education could help assure that the military is better prepared for a contested election. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 31 </p> 
+ <a href="https://www.npr.org/2021/12/31/1068894397/the-story-of-marriage-equality-is-more-complicated-and-costly-than-you-remember">The story of marriage equality is more complicated — and costly — than you remember</a> NPR: Sasha Issenberg, author of The Engagement, a history of marriage equality, says he doesn't see the Supreme Court's decision in Obergefell v. Hodges being overturned anytime soon. 
  <p class="updated_time"> 02:00 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/nyregion/meisha-porter-nyc-schools-covid.html">Meisha Porter Had 3 Goals as N.Y.C. Schools Chief: ‘Open. Open. Open.’</a> NYT: The departing New York City schools chancellor pulled off a big task in a short period of time: reopening the nation’s largest school district during a pandemic. 
  <p class="updated_time"> 11:32 PM CT, Dec. 30 </p> 
@@ -233,7 +239,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:14 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/cnn-january-6th-one-year-later/index.html">CNN to air 'Live from the Capitol: January 6th, One Year Later' marking 1-year anniversary of insurrection</a> CNN: Several lawmakers and members of the law enforcement community tasked with protecting the US Capitol will mark the one-year anniversary of the deadly insurrection there next month during a live event hosted by CNN, the network announced Thursday. 
  <p class="updated_time"> 08:31 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Ungerrymandered: Michigan’s Maps, Independently Drawn, Set Up Fair Fight</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
+ <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Michigan’s New Congressional Maps Undo Years of Gerrymandering</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
  <p class="updated_time"> 08:17 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Biden administration results in more of the same Trump immigration policies</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
  <p class="updated_time"> 07:56 AM CT, Dec. 30 </p> 
@@ -272,12 +278,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/republicans-luring-john-james-house-526250">National Republicans luring John James into House race</a> Politico: Republicans anticipate James, one of their most coveted 2022 recruits, will run for Congress next year after Michigan's new district map was finalized. 
  <p class="updated_time"> 03:38 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068895454/president-biden-promised-to-reform-immigration-policy-how-has-that-been-going">President Biden promised to reform immigration policy. How has that been going?</a> NPR: President Biden had an ambitious agenda to overhaul the nation's border policies. But as the end of the year approaches, many of those proposals have been blocked, reversed or simply abandoned. 
- <p class="updated_time"> 03:24 PM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/29/1068895426/what-public-health-experts-say-about-the-about-the-cdcs-new-quarantine-guideline">What public health experts say about the about the CDC's new quarantine guidelines</a> NPR: Many public health experts are pushing for stronger measures than the Biden administration and governors are willing to take to reduce impacts from the growing omicron wave. Why the disconnect? 
  <p class="updated_time"> 03:17 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/january-6-committee-investigation-trump-what-matters/index.html">Analysis: The January 6 committee formed 6 months ago. Here's what it's uncovered.</a> CNN: It's been a dramatic six months since the establishment of the House select committee investigating the January 6 Capitol Hill riot. 
- <p class="updated_time"> 01:27 PM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/29/1068842676/biden-will-speak-by-phone-with-putin-as-russia-ramps-up-presence-on-ukraine-bord">Biden will speak by phone with Putin as Russia ramps up presence on Ukraine border</a> NPR: The request for a call on Thursday came from the Kremlin. The White House said, "It will take a high level of engagement to address this and to try to find a path to de-escalation." 
  <p class="updated_time"> 11:07 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/29/harry-reids-legacy-495555"> Harry Reid’s legacy</a> Politico Playbook: And Michigan and Virginia get their new congressional maps. 
  <p class="updated_time"> 11:04 AM CT, Dec. 29 </p> 
@@ -294,12 +296,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/29/politics/supreme-court-vaccine-mandates-federal-biden/index.html">A Supreme Court that's declined to block several vaccine mandates is now considering Biden's Covid vaccine requirement</a> CNN: A Supreme Court that has declined to block several types of vaccine mandates is now considering whether to allow the Biden administration to require millions of Americans to get Covid-19 vaccines. 
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
- <p class="updated_time"> 04:08 AM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/29/1068704775/former-democratic-senate-leader-harry-reid-has-died-at-age-82">Former Democratic Senate leader Harry Reid has died at age 82</a> NPR: The Nevada Democrat, a one-time amateur boxer who brought a pugilist approach to politics, died Tuesday afternoon after a four-year battle with pancreatic cancer. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights and the Battle Over Elections: What to Know</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/mask-mandate-fines-greene-clyde.html">Greene and Clyde Rack Up Fines for Defying House’s Mask Mandate</a> NYT: Representatives Marjorie Taylor Greene and Andrew Clyde have incurred more than $100,000 combined in penalties for dozens of violations. 
- <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights Tracker: What to Know About the U.S. Elections Fight</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
  <p class="updated_time"> 10:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, Senate Majority Leader Behind Landmark Democratic Victories, Dies at 82</a> NYT: Mr. Reid, who was from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
  <p class="updated_time"> 09:54 PM CT, Dec. 28 </p> 
