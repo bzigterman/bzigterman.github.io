@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:31 AM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/world/middleeast/israel-mount-sinai-burning-bush.html">Is That a Burning Bush? Is This Mt. Sinai? Solstice Bolsters a Claim</a> NYT: On the year’s shortest day, hundreds of Israelis ventured deep into the desert to witness a strange natural phenomenon atop an ancient pilgrimage site that some argue is where God spoke to Moses. 
  <p class="updated_time"> 07:29 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Covid Wave Dampens New Year Observances Worldwide</a> NYT: Countries rattled by Omicron mark the end of 2021 with subdued celebrations, or none at all. In Australia, Sydney’s annual fireworks show went on, but other cities canceled festivities. 
  <p class="updated_time"> 07:28 AM CT, Dec. 31 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/business/china-evergrande-default-publicity.html">What Default? With Confetti and Fanfare, Evergrande Says It’s Ready to Build.</a> NYT: Weeks after signaling it could no longer go on, the troubled Chinese property developer has pledged to start paying its workers and completing projects again. Buyers are skeptical. 
  <p class="updated_time"> 02:00 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/business/china-internet-police-twitter.html">Chinese Police Hunt Overseas Critics With Advanced Tech</a> NYT: Authorities in China have turned to sophisticated investigative software to track and silence obscure critics on overseas social media. Their targets include college students and non-Chinese nationals. 
- <p class="updated_time"> 02:00 AM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/31/world/middleeast/israel-mount-sinai-burning-bush.html">Is That a Burning Bush? Is This Mt. Sinai? Solstice Bolsters a Claim</a> NYT: On the year’s shortest day, hundreds of Israelis ventured deep into the desert to witness a strange natural phenomenon atop an ancient pilgrimage site that some argue is where God spoke to Moses. 
  <p class="updated_time"> 12:11 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59835210?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: News crew escapes fast-spreading flames</a> BBC: Members of a CBS team escape in a hurry as flames blaze across grass in their direction. 
  <p class="updated_time"> 12:02 AM CT, Dec. 31 </p> 
@@ -180,6 +180,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:15 AM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/judges-us-capitol-comments/index.html">In the year since the US Capitol attack, judges remind us what it means to be American </a> CNN: On January 6, rioters streamed past the federal courthouse in Washington, DC, and descended upon the US Capitol. For weeks after the attack, DC's chief judge said she could see National Guard troops from the window in her chambers. 
+ <p class="updated_time"> 07:01 AM CT, Dec. 31 </p> 
+ <a href="https://www.politico.com/news/2021/12/31/complaint-doj-foreign-agent-prosecutions-526278">Complaint could roil DOJ foreign-agent prosecutions</a> Politico: Businesswoman Nickie Lum Davis says her guilty plea last year to a charge of unregistered lobbying was coerced. 
  <p class="updated_time"> 07:00 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/biden-novavax-production-covid-omicron-526283">Biden officials now fear booster programs will limit global vaccine supply</a> Politico: A looming shortage of doses for low- and moderate-income countries puts increased pressure on Novavax to obtain regulatory approvals for global manufacturing. 
  <p class="updated_time"> 07:00 AM CT, Dec. 31 </p> 
