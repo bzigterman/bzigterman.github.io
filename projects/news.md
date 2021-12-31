@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:01 AM CT, Dec. 31 </p> 
+ <p class="updated_time"> 08:17 AM CT, Dec. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59839723?at_medium=RSS&at_campaign=KARANGA">Rogel Aguilera-Mederos: Colorado truck driver's sentence cut by 100 years</a> BBC: Rogel Aguilera-Mederos was sentenced to 110 years in prison for a crash that killed four people. 
+ <p class="updated_time"> 08:15 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Covid Wave Dampens New Year Observances Worldwide</a> NYT: Countries rattled by Omicron mark the end of 2021 with subdued celebrations, or none at all. In Australia, Sydney’s annual fireworks show went on, but other cities canceled festivities. 
  <p class="updated_time"> 07:31 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/middleeast/israel-mount-sinai-burning-bush.html">Is That a Burning Bush? Is This Mt. Sinai? Solstice Bolsters a Claim</a> NYT: On the year’s shortest day, hundreds of Israelis ventured deep into the desert to witness a strange natural phenomenon atop an ancient pilgrimage site that some argue is where God spoke to Moses. 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
  <p class="updated_time"> 07:49 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/china-xian-lockdown-covid.html">China Keeps 13 Million in Xi’an Under Strict Lockdown </a> NYT: The severe measures in Xi’an have prompted concern, as residents complain on social media of having trouble ordering food online. 
- <p class="updated_time"> 07:00 AM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59807737?at_medium=RSS&at_campaign=KARANGA">Ashraf Ghani: Ex-Afghan president describes moment he fled the Taliban</a> BBC: Speaking to the BBC, Ashraf Ghani tackles criticism he left Afghanistan as the Taliban closed in. 
  <p class="updated_time"> 06:15 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/webb-telescope-launch-space.html">A Divided World United to Launch the James Webb Space Telescope</a> NYT: “I’ve always seen space as an area where we cooperate, through all the trying times,” said a professor who oversaw mission control for the global effort to launch a $10 billion telescope into space. 
  <p class="updated_time"> 05:58 AM CT, Dec. 30 </p> 
@@ -185,6 +185,8 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/biden-novavax-production-covid-omicron-526283">Biden officials now fear booster programs will limit global vaccine supply</a> Politico: A looming shortage of doses for low- and moderate-income countries puts increased pressure on Novavax to obtain regulatory approvals for global manufacturing. 
  <p class="updated_time"> 07:00 AM CT, Dec. 31 </p> 
+ <a href="https://www.politico.com/gallery/2021/12/31/the-nations-cartoonists-on-the-week-in-politics-003760">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/2022-space-race-china-us-526271">‘We’re falling behind’: 2022 seen as a pivotal lap in the space race with China</a> Politico: Washington and Beijing are jockeying for advantage — and international partners — to develop the moon. 
  <p class="updated_time"> 06:12 AM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/minimum-wage-increase-2022-15-dollars/index.html">21 states will see minimum wage increases by January 1</a> CNN: Workers in 21 states will see a rise in the minimum wage in the new year. 
@@ -247,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:50 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/us-unemployment-claims-drop-526265">U.S. unemployment claims drop to 198,000</a> Politico: The four-week average, which smooths out week-to-week volatility, fell to just above 199,000, the lowest level since October 1969. 
  <p class="updated_time"> 08:31 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Ungerrymandered: Michigan’s Maps, Independently Drawn, Set Up Fair Fight</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
+ <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Michigan’s New Congressional Maps Undo Years of Gerrymandering</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
  <p class="updated_time"> 08:17 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Biden administration results in more of the same Trump immigration policies</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
  <p class="updated_time"> 07:56 AM CT, Dec. 30 </p> 
@@ -303,9 +305,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/us/politics/mask-mandate-fines-greene-clyde.html">Greene and Clyde Rack Up Fines for Defying House’s Mask Mandate</a> NYT: Representatives Marjorie Taylor Greene and Andrew Clyde have incurred more than $100,000 combined in penalties for dozens of violations. 
+ <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights and the Battle Over Elections: What to Know</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights Tracker: What to Know About the U.S. Elections Fight</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
+ <a href="https://www.nytimes.com/2021/12/29/us/politics/mask-mandate-fines-greene-clyde.html">Greene and Clyde Rack Up Fines for Defying House’s Mask Mandate</a> NYT: Representatives Marjorie Taylor Greene and Andrew Clyde have incurred more than $100,000 combined in penalties for dozens of violations. 
  <p class="updated_time"> 10:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, Senate Majority Leader Behind Landmark Democratic Victories, Dies at 82</a> NYT: Mr. Reid, who was from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
  <p class="updated_time"> 09:54 PM CT, Dec. 28 </p> 
