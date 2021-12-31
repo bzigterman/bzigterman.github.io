@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
+ <p class="updated_time"> 02:20 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Wave Dampens New Year’s Eve, Studies Provide Glimmer of Hope</a> NYT: Many countries marked 2021 with subdued celebrations, as the British government released data showing people with Omicron were less likely to need hospitalization and animal studies suggested the variant spares the lungs. 
  <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/sports/kirk-cousins-covid.html">Kirk Cousins Tests Positive for Covid-19</a> NYT: Cousins was placed on the team’s Covid-19 reserve list for at least five days, threatening Minnesota’s playoff chances. 
@@ -194,10 +194,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:02 PM CT, Dec. 31 </p> 
+ <a href="https://www.politico.com/news/2021/12/31/betty-white-dies-99-526292">Betty White, TV’s Golden Girl, dies at 99</a> Politico: The actress, whose up-for-anything charm made her a television mainstay for more than 60 years, has died. 
+ <p class="updated_time"> 02:30 PM CT, Dec. 31 </p> 
+ <a href="https://www.cnn.com/2021/12/31/politics/republican-judiciary-committee-deletes-tweet-covid-vaccine-disinfo/index.html">House GOP committee deletes tweet spreading disinformation about Covid-19 booster shots </a> CNN: Republicans on the House Judiciary Committee deleted a tweet Friday morning that spread disinformation about Covid-19 booster shots. 
  <p class="updated_time"> 01:33 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/biden-volodymyr-zelensky-call-ukraine/index.html">Biden to speak with Zelensky as US warns against Russian invasion of Ukraine</a> CNN: President Joe Biden will speak with Ukrainian President Volodymyr Zelensky on Sunday, several days after Biden urged Russian President Vladimir Putin to ease an unremitting military crisis on Ukraine's border. 
- <p class="updated_time"> 12:28 PM CT, Dec. 31 </p> 
- <a href="https://www.cnn.com/2021/12/31/politics/republican-judiciary-committee-deletes-tweet-covid-vaccine-disinfo/index.html">House GOP committee deletes tweet spreading disinformation about Covid-19 booster shots </a> CNN: Republicans on the House Judiciary Committee deleted a tweet Friday morning that spread disinformation about Covid-19 booster shots. 
  <p class="updated_time"> 10:30 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/wildfires-burn-hundreds-of-homes-in-colorado-thousands-flee-526290">Wildfires burn hundreds of homes in Colorado, thousands flee</a> Politico: Tens of thousands of displaced Coloradans anxiously waited to learn what was left standing of their lives Friday after the flames burned an estimated 580 homes, a hotel and a shopping center. 
  <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/29/politics/less-pandemic-federal-aid-stimulus-unemployment/index.html">Less federal aid is coming as Americans enter third year of the pandemic</a> CNN: As Americans enter the third year of the pandemic, they can expect to receive significantly less federal aid. 
  <p class="updated_time"> 10:26 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/harry-reid-shaped-chuck-schumer-526233">‘He’s a press guy, I’m not’: How Harry Reid shaped Chuck Schumer</a> Politico: Schumer called Reid “my leader, my mentor, one of my dearest friends,” after the former Senate majority leader’s death Tuesday. 
- <p class="updated_time"> 09:17 AM CT, Dec. 29 </p> 
- <a href="https://www.politico.com/news/2021/12/29/cdc-defends-new-covid-guidelines-526234">‘This was the moment’: CDC defends altered guidance amid Omicron surge</a> Politico: Director Rochelle Walensky acknowledged that the decision to shorten the recommended isolation period “really had a lot to do with what we thought people would be able to tolerate.” 
  <p class="updated_time"> 06:06 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/agenda/2021/12/29/teachers-districts-hybrid-education-526214">‘I Feel Half as Successful’: Teachers Push to Ban Hybrid Instruction, But Districts Want to Keep It</a> Politico: Teachers want to ban teaching students in person and online at the same time. Some education leaders say it should be what the future looks like. 
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
