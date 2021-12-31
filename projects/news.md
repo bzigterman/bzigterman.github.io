@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:58 AM CT, Dec. 31 </p> 
+ <p class="updated_time"> 07:29 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Covid Wave Dampens New Year Observances Worldwide</a> NYT: Countries rattled by Omicron mark the end of 2021 with subdued celebrations, or none at all. In Australia, Sydney’s annual fireworks show went on, but other cities canceled festivities. 
+ <p class="updated_time"> 07:28 AM CT, Dec. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59834897?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Tens of thousands evacuated as blazes spread</a> BBC: Some 30,000 people north of Denver are told to leave their homes and a state of emergency is declared. 
  <p class="updated_time"> 06:55 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/tesla-batteries-nickel-new-caledonia.html">Can a Sustainable Mining Experiment in New Caledonia Power Tesla's Ambitions?</a> NYT: Nickel is vital to electric car batteries, but extracting it is dirty and destructive. A plant with a turbulent history in New Caledonia is about to become an experiment in doing it better. 
  <p class="updated_time"> 06:03 AM CT, Dec. 31 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/israel-4th-dose-covid-vaccine.html">Israel Approves 4th Dose of Covid Vaccine for Some</a> NYT: The Ministry of Health said it was waiting for more data from Israel and abroad before approving any broader rollout of fourth shots. 
  <p class="updated_time"> 10:14 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/south-africa-omicron-decline.html">South Africa Says It Has Passed Its Fourth Wave of Cases</a> NYT: Case counts are down by 30 percent in the last week, researchers in the country said. 
- <p class="updated_time"> 09:50 PM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59834897?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Tens of thousands evacuated as blazes spread</a> BBC: Some 30,000 people north of Denver are told to leave their homes and a state of emergency is declared. 
  <p class="updated_time"> 09:11 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/politics/biden-putin-ukraine-call.html">Putin Warns Biden of ‘Complete Rupture’ of U.S.-Russia Relationship Over Ukraine</a> NYT: President Vladimir V. Putin of Russia spoke with President Biden for 50 minutes about the escalating crisis with Ukraine, but his intentions remained unclear. 
  <p class="updated_time"> 08:52 PM CT, Dec. 30 </p> 
@@ -178,6 +178,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:15 AM CT, Dec. 31 </p> 
+ <a href="https://www.cnn.com/2021/12/31/politics/judges-us-capitol-comments/index.html">In the year since the US Capitol attack, judges remind us what it means to be American </a> CNN: On January 6, rioters streamed past the federal courthouse in Washington, DC, and descended upon the US Capitol. For weeks after the attack, DC's chief judge said she could see National Guard troops from the window in her chambers. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 31 </p> 
+ <a href="https://www.politico.com/news/2021/12/31/biden-novavax-production-covid-omicron-526283">Biden officials now fear booster programs will limit global vaccine supply</a> Politico: A looming shortage of doses for low- and moderate-income countries puts increased pressure on Novavax to obtain regulatory approvals for global manufacturing. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 31 </p> 
+ <a href="https://www.politico.com/news/2021/12/31/2022-space-race-china-us-526271">‘We’re falling behind’: 2022 seen as a pivotal lap in the space race with China</a> Politico: Washington and Beijing are jockeying for advantage — and international partners — to develop the moon. 
  <p class="updated_time"> 06:12 AM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/minimum-wage-increase-2022-15-dollars/index.html">21 states will see minimum wage increases by January 1</a> CNN: Workers in 21 states will see a rise in the minimum wage in the new year. 
  <p class="updated_time"> 06:10 AM CT, Dec. 31 </p> 
@@ -202,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/us/politics/boosters-12-15-year-olds-omicron.html">F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters</a> NYT: Regulators are also expected to allow even younger children with immune deficiencies to get an extra shot. 
  <p class="updated_time"> 07:39 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/ravnsborg-impeachment-investigation-south-dakota/index.html">South Dakota AG impeachment investigation broadens scope to key officials related to fatal crash</a> CNN: South Dakota lawmakers voted on Wednesday to broaden their examination of the state attorney general's killing of a man in a fatal collision last year. 
- <p class="updated_time"> 07:29 PM CT, Dec. 30 </p> 
- <a href="https://www.politico.com/news/2021/12/30/biden-putin-call-526280">Biden-Putin call ushers in new phase of diplomacy</a> Politico: Russia was again urged to ease its military buildup near Ukraine ahead of a pivotal month of talks. 
  <p class="updated_time"> 07:15 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/trump-supreme-court-documents/index.html">Biden administration defends its decision not to assert executive privilege over Trump's White House records</a> CNN: Both the House of Representatives and the Biden administration asked the Supreme Court on Thursday to deny former President Donald Trump's attempt to keep secret more than 700 pages of records that pertain to January 6. 
  <p class="updated_time"> 06:57 PM CT, Dec. 30 </p> 
@@ -215,7 +219,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:08 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/year-in-review-us-politics-what-matters/index.html">Analysis: 2021 was a transformative year in US politics. Here are the biggest stories.</a> CNN: This year brought a dizzying mix of triumphs and setbacks in Washington, where lawmakers have grappled with everything from a deadly pandemic to an assault on democracy itself. 
  <p class="updated_time"> 03:26 PM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/january-6-committee-subpoena-lawsuits-longshot/index.html">Why the new legal attack from Trump allies against the House January 6 committee is a long shot</a> CNN: The flurry of lawsuits filed in recent weeks trying to stop the House January 6 committee's subpoenas are revealing, in many ways, the opposite: That the House has been largely successful at sweeping up documents for the probe and interviewing dozens of major witnesses. 
+ <a href="https://www.cnn.com/2021/12/30/politics/january-6-committee-subpoena-lawsuits-longshot/index.html">Why the new legal attack from Trump allies against January 6 committee is a long shot</a> CNN: The flurry of lawsuits filed in recent weeks trying to stop the House January 6 committee's subpoenas are revealing, in many ways, the opposite: That the House has been largely successful at sweeping up documents for the probe and interviewing dozens of major witnesses. 
  <p class="updated_time"> 03:24 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069273204/how-dan-bongino-is-building-a-right-wing-media-empire-on-his-own-terms">How Dan Bongino is building a right-wing media empire on his own terms</a> NPR: NPR's Mary Louise Kelly talks with Evan Osnos of The New Yorker about radio host Dan Bongino, who calls masks "face diapers," opposes vaccine mandates and says the 2016 and 2020 elections were rigged. 
  <p class="updated_time"> 03:18 PM CT, Dec. 30 </p> 
@@ -224,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/30/1065756732/manhattan-da-cyrus-vance-reflects-on-trump-and-weinstein-cases-as-he-leaves-offi">Manhattan DA Cyrus Vance reflects on Trump and Weinstein cases as he leaves office</a> NPR: Manhattan District Attorney Cyrus Vance looks back on a career of big-name cases, including cases against the Trump Organization and Harvey Weinstein. 
  <p class="updated_time"> 03:00 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1068322276/notable-deaths-2021">Remembering some of those we lost in 2021, from literary legends to everyday heroes</a> NPR: 2021 was filled with tremendous loss, from staggering COVID deaths to those of leading writers such as Joan Didion and bell hooks to a longtime abortion activist and politicians who shaped our world. 
- <p class="updated_time"> 02:31 PM CT, Dec. 30 </p> 
- <a href="https://www.politico.com/news/2021/12/30/peter-thiel-donald-trump-jr-fundraiser-cheney-challenger-526268">Peter Thiel, Donald Trump Jr. to co-host fundraisers for Cheney challenger</a> Politico: The tech billionaire is holding two events at his Miami home benefiting Wyoming Republican Harriet Hageman. 
  <p class="updated_time"> 01:03 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069143123/expanded-child-tax-credit-expires-friday-congress">The expanded child tax credit expires Friday after Congress failed to renew it</a> NPR: Because the Build Back Better agenda was not passed by the Senate before the end of the year, the last payment of the expanded child tax credit program went out this month. 
  <p class="updated_time"> 12:43 PM CT, Dec. 30 </p> 
@@ -252,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/30/1069048017/michigan-paid-8-5-billion-in-fraudulent-jobless-claims-during-the-pandemic">Michigan paid up to $8.5 billion in fraudulent jobless claims during the pandemic</a> NPR: Other states have reported similar losses. Ohio reported it paid out more than $3.8 billion in fraudulent jobless aid. California has paid out at least $20 billion. 
  <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-administration-shifting-covid-guidance/index.html">Analysis: Biden administration signals pandemic strategy shift in the face of Omicron </a> CNN: America is plunging into a fast-worsening and frightening winter bout with Covid-19 that will leave few citizens and communities untouched. But as the highly transmissible Omicron variant roars across the country, the Biden administration is revealing the most tangible signs of a shifting pandemic strategy several weeks in the making. It is preparing a nation exhausted by two years of battling the invisible enemy to live more feasibly alongside it. 
- <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
- <a href="https://www.politico.com/news/2021/12/30/mark-walker-north-carolina-trump-526235">Former GOP congressman faces Trump squeeze in key Senate race</a> Politico: Former Rep. Mark Walker's looming decision: whether to drop down and run in a House primary, or continue his uphill bid against a Trump-endorsed rival. 
  <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/omicron-economic-slide-women-526257">‘Two steps forward, one step back’: Omicron threatens new economic slide for women</a> Politico: Unexpected school closures and reinstated lockdowns, on top of a crippled child care industry, could reverse what progress women have made since the pandemic abated earlier this year. 
  <p class="updated_time"> 04:07 AM CT, Dec. 30 </p> 
@@ -324,6 +324,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/28/politics/donald-trump-allies-january-6-committee/index.html">Some Trump allies slow walk, stonewall or snub January 6 committee</a> CNN: When the committee investigating the January 6 insurrection struggled to serve Dan Scavino with a subpoena, the former Donald Trump aide said he had been in a fairly obvious locale: Mar-a-Lago. 
  <p class="updated_time"> 03:11 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/covid-omicron-kids-hospitalizations-what-matters/index.html">Analysis: Rising child hospitalizations loom large over US Covid-19 response</a> CNN: Public health experts have sought for months to find the right message that will resonate with the many Americans who remain unconvinced about the very real danger of Covid-19. 
+ <p class="updated_time"> 12:52 PM CT, Dec. 28 </p> 
+ <a href="https://www.politico.com/news/2021/12/28/trump-organization-pga-settlement-526207">Trump Organization and PGA reach settlement over 2022 championship dispute</a> Politico: No details were released, but the tournament still won’t be held at Bedminster as a result of the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:12 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/biden-revokes-southern-africa-travel-ban/index.html">Biden issues proclamation revoking southern Africa travel restrictions</a> CNN: President Joe Biden issued a presidential proclamation Tuesday revoking a proclamation put in place last month that enacted travel restrictions on eight southern African nations, including South Africa, as the Omicron variant began to spread. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
