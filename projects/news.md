@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:54 AM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Covid Wave Dampens New Year Observances Worldwide</a> NYT: Countries rattled by Omicron mark the end of 2021 with subdued celebrations, or none at all. In Australia, Sydney’s annual fireworks show went on, but other cities canceled festivities. 
  <p class="updated_time"> 11:37 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59834897?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Tens of thousands evacuated as blazes spread</a> BBC: Some 30,000 people north of Denver are told to leave their homes and a state of emergency is declared. 
  <p class="updated_time"> 11:34 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-59841816?at_medium=RSS&at_campaign=KARANGA">New Year's Eve: Firework displays welcome 2022</a> BBC: Celebrations are under way across the world to usher in the New Year. 
  <p class="updated_time"> 11:32 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/31/1069476889/omicron-south-africa">As omicron heats up in the U.S., South Africa says its wave is on the way out</a> NPR: The variant caused fewer deaths and less severe infections than past versions of the virus in South Africa, but that could be different in other countries. 
- <p class="updated_time"> 11:17 AM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Covid Wave Dampens New Year Observances Worldwide</a> NYT: Countries rattled by Omicron mark the end of 2021 with subdued celebrations, or none at all. In Australia, Sydney’s annual fireworks show went on, but other cities canceled festivities. 
  <p class="updated_time"> 11:06 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-59840513?at_medium=RSS&at_campaign=KARANGA">Covid-19: WHO chief optimistic disease will be beaten in 2022</a> BBC: The organisation ends the year on a positive note but warns about "nationalism and vaccine hoarding". 
  <p class="updated_time"> 10:53 AM CT, Dec. 31 </p> 
