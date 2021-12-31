@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:08 AM CT, Dec. 31 </p> 
+ <p class="updated_time"> 11:32 AM CT, Dec. 31 </p> 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/31/1069476889/omicron-south-africa">As omicron heats up in the U.S., South Africa says its wave is on the way out</a> NPR: The variant caused fewer deaths and less severe infections than past versions of the virus in South Africa, but that could be different in other countries. 
+ <p class="updated_time"> 11:17 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Covid Wave Dampens New Year Observances Worldwide</a> NYT: Countries rattled by Omicron mark the end of 2021 with subdued celebrations, or none at all. In Australia, Sydney’s annual fireworks show went on, but other cities canceled festivities. 
  <p class="updated_time"> 11:06 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-59840513?at_medium=RSS&at_campaign=KARANGA">Covid-19: WHO chief optimistic disease will be beaten in 2022</a> BBC: The organisation ends the year on a positive note but warns about "nationalism and vaccine hoarding". 
@@ -39,6 +41,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/asia/tesla-batteries-nickel-new-caledonia.html">Can a Sustainable Mining Experiment in New Caledonia Power Tesla's Ambitions?</a> NYT: Nickel is vital to electric car batteries, but extracting it is dirty and destructive. A plant with a turbulent history in New Caledonia is about to become an experiment in doing it better. 
  <p class="updated_time"> 06:03 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/paris-masks-outdoors-omicron.html">Paris Reimposes Outdoor Mask Mandate as Omicron Soars</a> NYT: With more than 2,000 coronavirus cases per 100,000 people, the capital has become the center of France’s spreading Omicron outbreak. 
+ <p class="updated_time"> 05:27 AM CT, Dec. 31 </p> 
+ <a href="https://www.wsj.com/articles/south-africa-says-its-omicron-wave-is-in-retreat-11640955912">South Africa Says Its Omicron Wave Is in Retreat</a> WSJ: The Omicron variant’s decline in South Africa is a promising sign for other countries facing their own bursts of infections caused by the highly transmissible strain. 
+ <p class="updated_time"> 05:13 AM CT, Dec. 31 </p> 
+ <a href="https://www.wsj.com/articles/china-warns-walmart-against-removing-products-made-in-xinjiang-11640967233">China Warns Walmart Against Removing Items Made in Xinjiang</a> WSJ: China warned of a consumer boycott following reports that the world’s largest retailer had stopped stocking products from Xinjiang, a region where the U.S. has human-rights concerns. 
+ <p class="updated_time"> 04:52 AM CT, Dec. 31 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59837361?at_medium=RSS&at_campaign=KARANGA">Romelu Lukaku: Chelsea manager Thomas Tuchel 'does not like' striker's comments</a> BBC: Chelsea boss Thomas Tuchel says Romelu Lukaku's comments in an interview in which the striker said he was "not happy" with his role at the club "brings noise that we don't need". 
  <p class="updated_time"> 04:36 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59837697?at_medium=RSS&at_campaign=KARANGA">Colorado Wildfires: Thousands evacuated as buildings burn</a> BBC: Around 30,000 people have been evacuated as wildfires sweep across the US state of Colorado. 
  <p class="updated_time"> 03:43 AM CT, Dec. 31 </p> 
@@ -61,6 +69,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/europe/covid-france-omicron-vaccines.html">Omicron Strains France’s Social Contract on Covid</a> NYT: President Emmanuel Macron won people over by promising normalcy if they followed Covid advice. Now Omicron has raised questions about whether he, or any leader, can deliver on that. 
  <p class="updated_time"> 11:36 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/31/1069412844/asia-looks-to-china-focused-trade-bloc-for-virus-recovery">Asia looks to China-focused trade bloc for virus recovery</a> NPR: Members of the 15-member Regional and Comprehensive Economic Partnership, or RCEP, include China, Japan and South Korea. The new trading bloc does not include the U.S. or India. 
+ <p class="updated_time"> 11:33 PM CT, Dec. 30 </p> 
+ <a href="https://www.wsj.com/articles/beijing-fell-short-on-trade-deal-promises-creating-dilemma-for-biden-11640946782">Beijing Fell Short on Trade Deal Promises, Creating Dilemma for Biden</a> WSJ: How the Biden administration responds to China’s missed targets is being watched closely by U.S. businesses, many of which want smooth relations to ensure continued access to China’s giant market. 
  <p class="updated_time"> 11:30 PM CT, Dec. 30 </p> 
  <a href="https://www.wsj.com/articles/inside-europes-cocaine-gateway-a-repeat-of-miami-in-the-1980s-11640946603">Inside Antwerp, Europe's Cocaine Gateway</a> WSJ: Authorities in Antwerp have seized 88 metric tons of cocaine stashed in containers from Latin America this year, nearly 10 times the figure in 2014. It is far more than any other European port. 
  <p class="updated_time"> 10:51 PM CT, Dec. 30 </p> 
@@ -127,18 +137,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/asia/china-xian-lockdown-covid.html">China Keeps 13 Million in Xi’an Under Strict Lockdown </a> NYT: The severe measures in Xi’an have prompted concern, as residents complain on social media of having trouble ordering food online. 
  <p class="updated_time"> 06:15 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/webb-telescope-launch-space.html">A Divided World United to Launch the James Webb Space Telescope</a> NYT: “I’ve always seen space as an area where we cooperate, through all the trying times,” said a professor who oversaw mission control for the global effort to launch a $10 billion telescope into space. 
- <p class="updated_time"> 05:58 AM CT, Dec. 30 </p> 
- <a href="https://www.wsj.com/articles/afghanistans-ashraf-ghani-defends-his-decision-to-escape-says-he-is-a-scapegoat-11640883496">Ashraf Ghani Defends His Decision to Flee Afghanistan</a> WSJ: Breaking a four-month silence following his flight to the U.A.E. and his government’s fall to the Taliban, the former Afghan president said he regrets being too accommodating to U.S. 
  <p class="updated_time"> 04:45 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/health/johnson-vaccine-booster-omicron.html">J. & J. Booster Protects Against Severe Omicron, Study Says</a> NYT: Two shots of the vaccine reduced the risk of hospitalization from the fast-spreading variant by 85 percent, a clinical trial found. 
- <p class="updated_time"> 04:41 AM CT, Dec. 30 </p> 
- <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-spotlights-himself-as-he-marks-a-decade-in-power-11640878910">North Korea's Kim Jong Un Spotlights Himself as He Marks a Decade in Power</a> WSJ: The dictator is stepping out of the shadow of his father and grandfather as Pyongyang faces deep economic woes. 
  <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/ano-viejo-tradition.html">Años Viejos: Torching the Old Year to Toast the New One</a> NYT: In parts of Latin America, the traditional burning of rag dolls was used to symbolically banish the woes of the year gone by. Nowadays, it’s not uncommon to see TV hosts and ex-presidents going up in flames. 
  <p class="updated_time"> 04:23 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069033446/officials-promise-groceries-for-xian-china-city-of-13-million-under-lockdown">Officials promise groceries for Xi'an, China, city of 13 million under lockdown</a> NPR: Officials pledged steady deliveries of groceries to residents of Xi'an, a city of 13 million that is under the strictest lockdown of a major Chinese city since Wuhan at the start of the pandemic. 
- <p class="updated_time"> 04:11 AM CT, Dec. 30 </p> 
- <a href="https://www.wsj.com/articles/iran-sends-rocket-into-space-amid-faltering-nuclear-talks-11640877076">Iran Sends Rocket Into Space Amid Faltering Nuclear Talks</a> WSJ: U.S. intelligence officials have said that many of the components in rockets such as the Simorgh can be repurposed for long-range ballistic missiles. 
  <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/most-popular-dispatches-2021.html">In 2021, We Were There: The Year’s 14 Most Popular Dispatches</a> NYT: Not even a pandemic, wars or autocrats could prevent our correspondents from seeking out secrets and surprises to share with readers. They sent dispatches from 40 countries on six continents. 
  <p class="updated_time"> 02:14 AM CT, Dec. 30 </p> 
@@ -167,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068895496/hong-kong-police-close-pro-democracy-outlet-stand-news">Hong Kong police close pro-democracy outlet Stand News</a> NPR: In Hong Kong, authorities from the police's national security department arrested half a dozen senior staff members, confiscated boxes and closed one of the last pro-democracy outlets, Stand News. 
  <p class="updated_time"> 01:43 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/cincinnati-fire-department-state-of-emergency.html">Cincinnati Declares State of Emergency Amid Fire Department Staffing Shortages</a> NYT: Mayor John Cranley called the challenges a “public danger” that would undermine the city’s ability to respond to fire emergencies. 
- <p class="updated_time"> 01:27 PM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/29/1068842676/biden-will-speak-by-phone-with-putin-as-russia-ramps-up-presence-on-ukraine-bord">Biden will speak by phone with Putin as Russia ramps up presence on Ukraine border</a> NPR: The request for a call on Thursday came from the Kremlin. The White House said, "It will take a high level of engagement to address this and to try to find a path to de-escalation." 
  <p class="updated_time"> 01:21 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/france-left-presidential-election-primary.html">A Movement to Unify the French Left Might Be Its Last Chance for the Elections</a> NYT: A citizens’ initiative is pressuring the fragmented force to set parties’ interests aside and join together for next year’s presidential race. 
  <p class="updated_time"> 11:20 AM CT, Dec. 29 </p> 
