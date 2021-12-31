@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:33 AM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/business/china-evergrande-default-publicity.html">What Default? With Confetti and Fanfare, Evergrande Says It’s Ready to Build.</a> NYT: Weeks after signaling it could no longer go on, the troubled Chinese property developer has pledged to start paying its workers and completing projects again. Buyers are skeptical. 
  <p class="updated_time"> 02:00 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/business/china-internet-police-twitter.html">Chinese Police Hunt Overseas Critics With Advanced Tech</a> NYT: Authorities in China have turned to sophisticated investigative software to track and silence obscure critics on overseas social media. Their targets include college students and non-Chinese nationals. 
  <p class="updated_time"> 02:00 AM CT, Dec. 31 </p> 
