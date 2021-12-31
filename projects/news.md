@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:22 PM CT, Dec. 30 </p> 
+ <p class="updated_time"> 10:25 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: South Africa Says Its Omicron Wave Has Passed With No Big Spike in Deaths</a> NYT: The announcement offers cautious hope to other countries grappling with the fast-spreading variant. The U.S. hits yet another record for new daily virus cases. 
+ <p class="updated_time"> 10:25 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/israel-4th-dose-covid-vaccine.html">Israel Approves 4th Dose of Covid Vaccine for Some</a> NYT: The Ministry of Health said it was waiting for more data from Israel and abroad before approving any broader rollout of fourth shots. 
+ <p class="updated_time"> 10:14 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/south-africa-omicron-decline.html">South Africa Says It Has Passed Its Fourth Wave of Cases</a> NYT: Case counts are down by 30 percent in the last week, researchers in the country said. 
+ <p class="updated_time"> 09:50 PM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59834897?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Tens of thousands evacuated as blazes spread</a> BBC: Some 30,000 people north of Denver are told to leave their homes and a state of emergency is declared. 
  <p class="updated_time"> 09:11 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/politics/biden-putin-ukraine-call.html">Putin Warns Biden of ‘Complete Rupture’ of U.S.-Russia Relationship Over Ukraine</a> NYT: President Vladimir V. Putin of Russia spoke with President Biden for 50 minutes about the escalating crisis with Ukraine, but his intentions remained unclear. 
  <p class="updated_time"> 08:56 PM CT, Dec. 30 </p> 
@@ -42,17 +48,11 @@ permalink: /projects/news/
  <p class="updated_time"> 04:20 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59834211?at_medium=RSS&at_campaign=KARANGA">Avoid cruises even if vaccinated, CDC tells Americans</a> BBC: It says there has been an increase in onboard cases since the emergence of the Omicron variant. 
  <p class="updated_time"> 03:56 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/south-africa-omicron-decline.html">South Africa Says It Has Passed Its Fourth Wave of Cases</a> NYT: Case counts are down by 30 percent in the last week, researchers in the country said. 
- <p class="updated_time"> 03:56 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59833156?at_medium=RSS&at_campaign=KARANGA">Teva Pharmaceuticals found liable in New York opioid trial</a> BBC: A New York State jury has found the drug maker help fuel the state's deadly opioid epidemic. 
  <p class="updated_time"> 03:18 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069273197/president-biden-speaks-with-russian-president-vladimir-putin-as-ukraine-tensions">President Biden speaks with Russian President Vladimir Putin as Ukraine tensions rise</a> NPR: President Biden spoke with Russian President Vladimir Putin in a call Thursday as tensions mount between the Ukraine and Russia. The White House says it's "gravely concerned" about the situation. 
  <p class="updated_time"> 03:00 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/kyiv-ukraine-war-russia-bomb-shelters.html">Ukrainians Set Sights on the New Year, Not a New War</a> NYT: As the government designates bomb shelters and provides guidance on how to tape windows in case of an attack by Russia, Ukrainians carry on. 
- <p class="updated_time"> 02:39 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/israel-4th-dose-covid-vaccine.html">Israel Approves 4th Dose of Covid Vaccine for Some</a> NYT: The Ministry of Health said it was waiting for more data from Israel and abroad before approving any broader rollout of fourth shots. 
- <p class="updated_time"> 01:54 PM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/sport/football/59825904?at_medium=RSS&at_campaign=KARANGA">Afcon is being disrespected - Ian Wright</a> BBC: The Africa Cup of Nations is being "disrespected" by some negative media coverage, says former England striker Ian Wright. 
  <p class="updated_time"> 01:51 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59832343?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Mourners queue to pay respects as body lies in state</a> BBC: The Nobel Peace Prize winner's body will lie in state in a simple coffin for two days. 
  <p class="updated_time"> 01:33 PM CT, Dec. 30 </p> 
@@ -190,6 +190,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:54 PM CT, Dec. 30 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/trump-dunleavy-endorsement-murkowski/index.html">Alaska Gov. Dunleavy accepts Trump endorsement conditioned upon him not endorsing Sen. Murkowski in 2022</a> CNN: Former President Donald Trump on Tuesday backed Alaska GOP Gov. Mike Dunleavy for reelection in 2022, but his endorsement came with a caveat that is just the latest sign of his attempts to influence Republican politics next year. 
  <p class="updated_time"> 09:36 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden pushes Putin for Ukraine de-escalation in second call this month</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 09:24 PM CT, Dec. 30 </p> 
@@ -284,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/29/politics/january-6-committee-investigation-trump-what-matters/index.html">Analysis: The January 6 committee formed 6 months ago. Here's what it's uncovered.</a> CNN: It's been a dramatic six months since the establishment of the House select committee investigating the January 6 Capitol Hill riot. 
  <p class="updated_time"> 01:27 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068842676/biden-will-speak-by-phone-with-putin-as-russia-ramps-up-presence-on-ukraine-bord">Biden will speak by phone with Putin as Russia ramps up presence on Ukraine border</a> NPR: The request for a call on Thursday came from the Kremlin. The White House said, "It will take a high level of engagement to address this and to try to find a path to de-escalation." 
- <p class="updated_time"> 11:55 AM CT, Dec. 29 </p> 
- <a href="https://www.cnn.com/2021/12/29/politics/us-reconnaissance-aircraft-ukraine/index.html">US flies reconnaissance aircraft over eastern Ukraine</a> CNN: The US Air Force flew a reconnaissance mission this week over eastern Ukraine to gather intelligence about the situation on the ground -- two days after Russia announced it would withdraw 10,000 troops from its border with that nation. 
  <p class="updated_time"> 11:07 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/29/harry-reids-legacy-495555"> Harry Reid’s legacy</a> Politico Playbook: And Michigan and Virginia get their new congressional maps. 
  <p class="updated_time"> 11:04 AM CT, Dec. 29 </p> 
