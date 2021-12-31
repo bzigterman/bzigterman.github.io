@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:56 AM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Covid Wave Dampens New Year Observances Worldwide</a> NYT: Countries rattled by Omicron mark the end of 2021 with subdued celebrations, or none at all. In Australia, Sydney’s annual fireworks show went on, but other cities canceled festivities. 
+ <p class="updated_time"> 08:36 AM CT, Dec. 31 </p> 
+ <a href="https://www.bbc.co.uk/sport/59838168?at_medium=RSS&at_campaign=KARANGA">Breakaway Super League, Tokyo's 'Covid Games', cricket's racism crisis - a huge year for sports news</a> BBC: BBC sports editor Dan Roan says 2021 has included two of the most dramatic, fastest-moving stories he has covered in two decades of sports reporting. 
  <p class="updated_time"> 08:17 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59839723?at_medium=RSS&at_campaign=KARANGA">Rogel Aguilera-Mederos: Colorado truck driver's sentence cut by 100 years</a> BBC: Rogel Aguilera-Mederos was sentenced to 110 years in prison for a crash that killed four people. 
- <p class="updated_time"> 08:15 AM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Covid Wave Dampens New Year Observances Worldwide</a> NYT: Countries rattled by Omicron mark the end of 2021 with subdued celebrations, or none at all. In Australia, Sydney’s annual fireworks show went on, but other cities canceled festivities. 
  <p class="updated_time"> 07:31 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/middleeast/israel-mount-sinai-burning-bush.html">Is That a Burning Bush? Is This Mt. Sinai? Solstice Bolsters a Claim</a> NYT: On the year’s shortest day, hundreds of Israelis ventured deep into the desert to witness a strange natural phenomenon atop an ancient pilgrimage site that some argue is where God spoke to Moses. 
  <p class="updated_time"> 07:28 AM CT, Dec. 31 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/30/1069338981/biden-putin-call-russia-ukraine">Biden again calls on Putin to de-escalate tensions along Ukraine border</a> NPR: It was the second time the two leaders spoke this month, as Russia has assembled as many as 100,000 troops along the Ukrainian border, prompting fears of an invasion. 
  <p class="updated_time"> 06:15 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59763425?at_medium=RSS&at_campaign=KARANGA">Cape Verde: Drone delivers medical supplies to remote islands</a> BBC: Computer scientist Erico Pinheiro has invented a drone system to deliver medical supplies to the remote communities of his island nation Cape Verde. 
- <p class="updated_time"> 06:07 PM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59726291?at_medium=RSS&at_campaign=KARANGA">2021 viral videos: The social media moments India celebrated</a> BBC: From the 'pawri' girl to the tiny Covid warrior, here are the social media moments India celebrated. 
  <p class="updated_time"> 05:56 PM CT, Dec. 30 </p> 
  <a href="https://www.wsj.com/articles/chinas-manufacturing-sector-shows-signs-of-strength-11640926572">China's Manufacturing Sector Shows Signs of Strength</a> WSJ: Beijing attributed the pickup to a drop in commodity prices after governmental intervention to stabilize supply and prices. 
  <p class="updated_time"> 05:48 PM CT, Dec. 30 </p> 
@@ -178,6 +178,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/31/meet-the-gops-new-national-security-power-broker-495557">Meet the GOP’s new national security power broker</a> Politico Playbook: And neither Biden nor Putin backs down on a new call. 
  <p class="updated_time"> 07:15 AM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/judges-us-capitol-comments/index.html">In the year since the US Capitol attack, judges remind us what it means to be American </a> CNN: On January 6, rioters streamed past the federal courthouse in Washington, DC, and descended upon the US Capitol. For weeks after the attack, DC's chief judge said she could see National Guard troops from the window in her chambers. 
  <p class="updated_time"> 07:01 AM CT, Dec. 31 </p> 
