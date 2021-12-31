@@ -7,12 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:54 PM CT, Dec. 30 </p> 
+ <p class="updated_time"> 06:30 PM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59832722?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Putin tells Biden new sanctions could rupture ties</a> BBC: The US and Russian presidents spoke by phone for almost an hour amid rising tensions over Ukraine. 
+ <p class="updated_time"> 06:22 PM CT, Dec. 30 </p> 
+ <a href="https://www.npr.org/2021/12/30/1069338981/biden-putin-call-russia-ukraine">Biden again calls on Putin to de-escalate tensions along Ukraine border</a> NPR: It was the second time the two leaders spoke this month, as Russia has assembled as many as 100,000 troops along the Ukrainian border, prompting fears of an invasion. 
+ <p class="updated_time"> 06:15 PM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59763425?at_medium=RSS&at_campaign=KARANGA">Cape Verde: Drone delivers medical supplies to remote islands</a> BBC: Computer scientist Erico Pinheiro has invented a drone system to deliver medical supplies to the remote communities of his island nation Cape Verde. 
+ <p class="updated_time"> 06:11 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Live Updates: South Africa Says Its Omicron Wave Has Passed With No Big Spike in Deaths</a> NYT: The announcement offered cautious hope to other countries grappling with the fast-spreading variant. The C.D.C. urged Americans to stay off cruise ships, regardless of vaccination status. More than 1,200 U.S. flights were canceled. 
+ <p class="updated_time"> 06:09 PM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59755737?at_medium=RSS&at_campaign=KARANGA">Why Chinese stand-up comedians are turning to English</a> BBC: Alex Shi says her comedy comes from her Chinese heritage but she feels more comfortable performing in a foreign language. 
  <p class="updated_time"> 05:48 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-covid-omicron-london-england.html">UK, With Surging Covid-19 Cases, is On '‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
  <p class="updated_time"> 05:24 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/30/1069253312/cdc-cruise-ship-travel-covid-19">People should avoid cruise travel regardless of their vaccination status, the CDC says</a> NPR: The CDC revised its guidance Thursday, as 91 cruise ships are under investigation for COVID outbreaks onboard. Most cruise lines require adult passengers to show proof of vaccination against COVID-19. 
+ <p class="updated_time"> 05:21 PM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59764603?at_medium=RSS&at_campaign=KARANGA">The 'heartbreakingly beautiful' art of Laurie Anderson</a> BBC: The pioneering artist speaks about her new exhibit, which blends painting, film, music and writing. 
  <p class="updated_time"> 04:38 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59832843?at_medium=RSS&at_campaign=KARANGA">Omicron: South Africa ends night-time curfew</a> BBC: Officials relax restrictions noting lower hospital admissions from the Omicron variant than feared. 
  <p class="updated_time"> 04:35 PM CT, Dec. 30 </p> 
@@ -31,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/israel-4th-dose-covid-vaccine.html">Israel Approves 4th Dose of Covid Vaccine for Some</a> NYT: The Ministry of Health said it was waiting for more data from Israel and abroad before approving any broader rollout of fourth shots. 
  <p class="updated_time"> 02:36 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/indonesia-rohingya-boat.html">Indonesia Accepts Stranded Refugee Boat After Vowing to Turn It Away</a> NYT: The boat landed with more than 100 Rohingya refugees on board. Indonesia initially said it would turn the vessel away, but relented under pressure from rights groups. 
- <p class="updated_time"> 01:55 PM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59818978?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden and Putin phone call seeks 'diplomatic path'</a> BBC: The presidents of the US and Russia will speak in a bid to de-escalate tensions over Ukraine. 
  <p class="updated_time"> 01:54 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59825904?at_medium=RSS&at_campaign=KARANGA">Afcon is being disrespected - Ian Wright</a> BBC: The Africa Cup of Nations is being "disrespected" by some negative media coverage, says former England striker Ian Wright. 
  <p class="updated_time"> 01:51 PM CT, Dec. 30 </p> 
@@ -125,10 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/arts/design/smithsonian-museums-close-covid.html">Five Smithsonian Museums Close Amid Omicron Staff Shortages</a> NYT: The museums will temporarily close as the Smithsonian routes staff to other outposts. 
  <p class="updated_time"> 06:04 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/health-59755743?at_medium=RSS&at_campaign=KARANGA">What went wrong with vaccinating the world?</a> BBC: Why developed countries have a surplus of vaccines while low-income ones are still struggling to battle Covid. 
- <p class="updated_time"> 06:03 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59776108?at_medium=RSS&at_campaign=KARANGA">COP 26: The teenagers suing 33 countries</a> BBC: To ensure the promises of COP26 are kept, young campaigners are putting their faith in the courts. 
- <p class="updated_time"> 06:02 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59775136?at_medium=RSS&at_campaign=KARANGA">Syntropic agriculture: A new way of farming in dry climates?</a> BBC: Ernst Gotsch's method of agriculture increases, rather than decreases, biodiversity and wildlife. 
  <p class="updated_time"> 06:00 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59736375?at_medium=RSS&at_campaign=KARANGA">How 'fake news' affected the world in 2021</a> BBC: Misinformation about the Covid pandemic and climate change is slowing an effective collective response to these emergencies. 
  <p class="updated_time"> 05:44 PM CT, Dec. 29 </p> 
@@ -143,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068895510/thousands-are-displaced-in-brazil-after-weeks-of-flooding-in-bahia-state">Tens of thousands are displaced in Brazil after weeks of flooding in Bahia state</a> NPR: NPR's Ari Shapiro speaks with Gram Slattery, Brazil correspondent for Reuters, about the deadly flooding currently happening in the northeastern state of Bahia, Brazil. 
  <p class="updated_time"> 04:04 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068895496/hong-kong-police-close-pro-democracy-outlet-stand-news">Hong Kong police close pro-democracy outlet Stand News</a> NPR: In Hong Kong, authorities from the police's national security department arrested half a dozen senior staff members, confiscated boxes and closed one of the last pro-democracy outlets, Stand News. 
- <p class="updated_time"> 03:22 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59823682?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Religious and political leaders pay tribute in Cape Town</a> BBC: Politicians and leaders of different faiths gathered in Cape Town to remember the anti-apartheid leader. 
  <p class="updated_time"> 03:17 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/eric-adams-nye-times-square.html">Eric Adams to Be Sworn In on New Year's Eve in Times Square</a> NYT: The incoming mayor has made a point of reveling in New York’s nightlife, something that he has cast as boosterism for the city’s struggling club and restaurant scene. 
  <p class="updated_time"> 02:39 PM CT, Dec. 29 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/health/covid-omicron-antibodies-delta.html">Omicron Variant May Help Beat Delta, Study Suggests</a> NYT: In the lab, antibodies produced during an Omicron infection protected against Delta. If Omicron dominates in the real world, that could lead to a less dire future. 
  <p class="updated_time"> 04:41 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/nato-russia-ukrain-us.html">U.S. and Russia Agree to Talks Amid Growing Tensions Over Ukraine</a> NYT: The Biden administration has not said who will lead the U.S. delegation next month as Russian officials demand commitments from NATO. 
- <p class="updated_time"> 04:02 PM CT, Dec. 28 </p> 
- <a href="https://www.npr.org/2021/12/28/1068587887/its-unclear-if-boris-johnson-can-bounce-back-from-low-approval-ratings-and-scand">It's unclear if Boris Johnson can bounce back from low approval ratings and scandals</a> NPR: British Prime Minister Boris Johnson is going through the worst period of his premiership so far — but he's bounced back before. Can he do it again? 
  <p class="updated_time"> 03:14 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/omicron-covid-contagious-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
 
@@ -192,10 +192,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:29 PM CT, Dec. 30 </p> 
+ <a href="https://www.politico.com/news/2021/12/30/biden-putin-call-526280">Biden-Putin call ushers in new phase of diplomacy</a> Politico: Russia was again urged to ease its military buildup near Ukraine ahead of a pivotal month of talks. 
+ <p class="updated_time"> 06:30 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/us/politics/boosters-12-15-year-olds-omicron.html">F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters</a> NYT: Regulators will also allow even younger children with immune deficiencies to get an extra shot. 
+ <p class="updated_time"> 06:29 PM CT, Dec. 30 </p> 
+ <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden pushes Putin for Ukraine de-escalation in second call this month</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
+ <p class="updated_time"> 06:22 PM CT, Dec. 30 </p> 
+ <a href="https://www.npr.org/2021/12/30/1069338981/biden-putin-call-russia-ukraine">Biden again calls on Putin to de-escalate tensions along Ukraine border</a> NPR: It was the second time the two leaders spoke this month, as Russia has assembled as many as 100,000 troops along the Ukrainian border, prompting fears of an invasion. 
+ <p class="updated_time"> 06:13 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/us/white-house-hit-list-kuachua-brillion-xiong.html">California Man on Deadly Mission to White House Is Arrested, Officials Say</a> NYT: Kuachua Brillion Xiong, 25, is being held in the Pottawattamie County Jail in Council Bluffs, Iowa, on charges of making threats against a former president. 
  <p class="updated_time"> 05:51 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/trump-supreme-court-documents/index.html">Biden administration defends its decision not to assert executive privilege over Trump's White House records</a> CNN: Both the House of Representatives and the Biden administration asked the Supreme Court on Thursday to deny former President Donald Trump's attempt to keep secret more than 700 pages of records that pertain to January 6. 
- <p class="updated_time"> 05:45 PM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden hopes for Ukraine de-escalation in call with Putin</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 04:08 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/year-in-review-us-politics-what-matters/index.html">Analysis: 2021 was a transformative year in US politics. Here are the biggest stories.</a> CNN: This year brought a dizzying mix of triumphs and setbacks in Washington, where lawmakers have grappled with everything from a deadly pandemic to an assault on democracy itself. 
  <p class="updated_time"> 03:26 PM CT, Dec. 30 </p> 
@@ -214,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/30/1069143123/expanded-child-tax-credit-expires-friday-congress">The expanded child tax credit expires Friday after Congress failed to renew it</a> NPR: Because the Build Back Better agenda was not passed by the Senate before the end of the year, the last payment of the expanded child tax credit program went out this month. 
  <p class="updated_time"> 12:43 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/israel-saudi-arabia-omicron-call/index.html">Saudi and Israeli foreign ministers joined recent State Department virtual meeting on Omicron</a> CNN: US Secretary of State Antony Blinken's virtual meeting with foreign ministers about the Omicron coronavirus variant last week included the ministers from both Saudi Arabia and Israel, a rare instance where the two countries who do not have formal diplomatic relations participated in the same call. 
- <p class="updated_time"> 11:48 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/us/politics/boosters-12-15-year-olds-omicron.html">F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters</a> NYT: Regulators will also allow even younger children with immune deficiencies to get an extra shot. 
  <p class="updated_time"> 11:35 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/marines-kick-out-troops-covid-vaccine-526266">Marines kick out 206 troops for refusing Covid-19 vaccine</a> Politico: Overall, 95 percent of all active-duty Marines have received at least the first dose. 
  <p class="updated_time"> 10:40 AM CT, Dec. 30 </p> 
@@ -292,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
  <p class="updated_time"> 04:08 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068704775/former-democratic-senate-leader-harry-reid-has-died-at-age-82">Former Democratic Senate leader Harry Reid has died at age 82</a> NPR: The Nevada Democrat, a one-time amateur boxer who brought a pugilist approach to politics, died Tuesday afternoon after a four-year battle with pancreatic cancer. 
- <p class="updated_time"> 04:08 AM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/29/1068701969/remembering-harry-reid-ex-democratic-senate-leader-who-has-died">Remembering Harry Reid, ex-Democratic Senate leader, who died at 82</a> NPR: NPR's Sarah McCammon talks to Faiz Shakir, a former senior adviser to Harry Reid, about the late senator's legacy. The Nevada Democrat died of cancer Tuesday. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights and the Battle Over Elections: What to Know</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
@@ -324,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/28/politics/donald-trump-allies-january-6-committee/index.html">Some Trump allies slow walk, stonewall or snub January 6 committee</a> CNN: When the committee investigating the January 6 insurrection struggled to serve Dan Scavino with a subpoena, the former Donald Trump aide said he had been in a fairly obvious locale: Mar-a-Lago. 
  <p class="updated_time"> 03:11 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/covid-omicron-kids-hospitalizations-what-matters/index.html">Analysis: Rising child hospitalizations loom large over US Covid-19 response</a> CNN: Public health experts have sought for months to find the right message that will resonate with the many Americans who remain unconvinced about the very real danger of Covid-19. 
- <p class="updated_time"> 12:52 PM CT, Dec. 28 </p> 
- <a href="https://www.politico.com/news/2021/12/28/trump-organization-pga-settlement-526207">Trump Organization and PGA reach settlement over 2022 championship dispute</a> Politico: No details were released, but the tournament still won’t be held at Bedminster as a result of the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:12 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/biden-revokes-southern-africa-travel-ban/index.html">Biden issues proclamation revoking southern Africa travel restrictions</a> CNN: President Joe Biden issued a presidential proclamation Tuesday revoking a proclamation put in place last month that enacted travel restrictions on eight southern African nations, including South Africa, as the Omicron variant began to spread. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/25/the-manchin-dance-continues-on-christmas-495551"> The Manchin dance continues on Christmas</a> Politico Playbook: And a judge continues prior restraint on the NYT. 
  <p class="updated_time"> 07:00 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/news/2021/12/25/biden-puerto-rico-electricity-network-526102">Puerto Rico’s shattered power grid could become a ‘big experiment’ for Biden</a> Politico: The crumbling electricity network that serves the island's 3 million people is at the center of a debate on renewable energy vs. fossil fuels — with billions of federal dollars at stake. 
- <p class="updated_time"> 05:08 PM CT, Dec. 24 </p> 
- <a href="https://www.nytimes.com/2021/12/24/us/elections/democrats-state-elections.html">Democrats Say They Are Serious About State Elections. But Are They Too Late?</a> NYT: State-level races are becoming a central focus of American politics as the lasting effects of new congressional maps and election laws raise the stakes. 
  <p class="updated_time"> 03:41 PM CT, Dec. 24 </p> 
  <a href="https://www.nytimes.com/2021/12/24/us/politics/covid-school-reopening-teen-mental-health.html">The Students Returned, but the Fallout From a Long Disruption Remained</a> NYT: “They’re like, ‘The world’s out of control, why should I be in control?’” the principal of Liberty High School in Bethlehem, Pa., said of some of his struggling students. 
  <p class="updated_time"> 10:36 AM CT, Dec. 24 </p> 
