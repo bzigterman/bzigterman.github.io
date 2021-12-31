@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:33 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Wave Dampens New Year’s Eve, Studies Provide Glimmer of Hope</a> NYT: Many countries marked 2021 with subdued celebrations, as the British government released data showing people with Omicron were less likely to need hospitalization and animal studies suggested the variant spares the lungs. 
  <p class="updated_time"> 03:18 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/biden-putin-russia-ukraine-lavrov.html">Sergey V. Lavrov Accused NATO of Stoking Ukraine Conflict </a> NYT: Sergey V. Lavrov accused the United States and its allies of stoking a conflict in the country’s east in comments that contrasted with a more positive tone coming from Moscow. 
- <p class="updated_time"> 03:15 PM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Wave Dampens New Year’s Eve, Studies Provide Glimmer of Hope</a> NYT: Many countries marked 2021 with subdued celebrations, as the British government released data showing people with Omicron were less likely to need hospitalization and animal studies suggested the variant spares the lungs. 
  <p class="updated_time"> 03:11 PM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069538926/ski-resorts-in-france-reopen-vaccine-passes-and-masks-are-required">Ski resorts in France reopen. Vaccine passes and masks are required</a> NPR: After abruptly closing in March 2020, France's alpine ski resorts have reopened. But this year you'll need more than just goggles and a lift pass. 
  <p class="updated_time"> 03:05 PM CT, Dec. 31 </p> 
@@ -152,7 +152,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:15 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/webb-telescope-launch-space.html">A Divided World United to Launch the James Webb Space Telescope</a> NYT: “I’ve always seen space as an area where we cooperate, through all the trying times,” said a professor who oversaw mission control for the global effort to launch a $10 billion telescope into space. 
  <p class="updated_time"> 04:45 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/health/johnson-vaccine-booster-omicron.html">J. & J. Booster Protects Against Severe Omicron, Study Says</a> NYT: Two shots of the vaccine reduced the risk of hospitalization from the fast-spreading variant by 85 percent, a clinical trial found. 
+ <a href="https://www.nytimes.com/2021/12/30/health/johnson-vaccine-booster-omicron.html">J.&J. Booster Protects Against Severe Omicron, Study Says</a> NYT: Two shots of the vaccine reduced the risk of hospitalization from the fast-spreading variant by 85 percent, a clinical trial found. 
  <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/ano-viejo-tradition.html">Años Viejos: Torching the Old Year to Toast the New One</a> NYT: In parts of Latin America, the traditional burning of rag dolls was used to symbolically banish the woes of the year gone by. Nowadays, it’s not uncommon to see TV hosts and ex-presidents going up in flames. 
  <p class="updated_time"> 04:23 AM CT, Dec. 30 </p> 
