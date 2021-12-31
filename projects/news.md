@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:18 AM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Covid Wave Dampens New Year Observances Worldwide</a> NYT: Countries rattled by Omicron mark the end of 2021 with subdued celebrations, or none at all. In Australia, Sydney’s annual fireworks show went on, but other cities canceled festivities. 
  <p class="updated_time"> 04:03 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/eric-adams-nye-times-square.html">Eric Adams to Be Sworn In on New Year's Eve in Times Square</a> NYT: The incoming mayor has made a point of reveling in New York’s nightlife, something that he has cast as boosterism for the city’s struggling club and restaurant scene. 
  <p class="updated_time"> 03:43 AM CT, Dec. 31 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59835127?at_medium=RSS&at_campaign=KARANGA">Omicron: Third wave looms as India Covid cases spike</a> BBC: Major cities such as Mumbai, Delhi and Kolkata are recording a sharp daily jump in coronavirus cases. 
  <p class="updated_time"> 03:33 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59824916?at_medium=RSS&at_campaign=KARANGA">Xi'an: Cries for help and food in quarantined Chinese city</a> BBC: Officials say there are adequate supplies, but some in Xi'an say they do not have enough to eat. 
- <p class="updated_time"> 03:15 AM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">As the Kremlin Revises History, a Human Rights Champion Becomes a Casualty</a> NYT: The shuttering of Memorial, the country’s most prominent human rights organization, has saddened Russians who were personally touched by its work shining a light on the injustices of the Soviet past. 
  <p class="updated_time"> 03:03 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069430504/new-virus-infections-driven-by-omicron-soar-to-record-high-in-australia">New virus infections driven by omicron soar to record high in Australia </a> NPR: New coronavirus infections soared again in Australia on Friday to a record of more than 32,000 driven by the highly contagious omicron variant and a recent relaxation of restrictions in many areas. 
  <p class="updated_time"> 02:33 AM CT, Dec. 31 </p> 
@@ -176,6 +176,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:19 AM CT, Dec. 31 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/trump-dunleavy-endorsement-murkowski/index.html">Alaska Gov. Dunleavy accepts Trump endorsement conditioned upon him not endorsing Sen. Murkowski in 2022</a> CNN: Former President Donald Trump on Tuesday backed Alaska GOP Gov. Mike Dunleavy for reelection in 2022, but his endorsement came with a caveat that is just the latest sign of his attempts to influence Republican politics next year. 
  <p class="updated_time"> 04:05 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069230553/the-top-destination-for-biden-during-his-first-year-in-office-pennsylvania">The top destination for Biden during his first year in office? Pennsylvania</a> NPR: Biden traveled there seven times since taking office, more than any other president in recent history. The reasons for his visits there and other states have to do with policy, politics and more. 
  <p class="updated_time"> 04:01 AM CT, Dec. 31 </p> 
@@ -186,8 +188,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/31/politics/2021-pandemic-year-new-years-eve/index.html">A pandemic-scarred year ends in darkness -- but with hope on the horizon</a> CNN: 2021 wasn't supposed to end like this. 
  <p class="updated_time"> 02:00 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/nyregion/meisha-porter-nyc-schools-covid.html">Meisha Porter Had 3 Goals as N.Y.C. Schools Chief: ‘Open. Open. Open.’</a> NYT: The departing New York City schools chancellor pulled off a big task in a short period of time: reopening the nation’s largest school district during a pandemic. 
- <p class="updated_time"> 11:32 PM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/trump-dunleavy-endorsement-murkowski/index.html">Alaska Gov. Dunleavy accepts Trump endorsement conditioned upon him not endorsing Sen. Murkowski in 2022</a> CNN: Former President Donald Trump on Tuesday backed Alaska GOP Gov. Mike Dunleavy for reelection in 2022, but his endorsement came with a caveat that is just the latest sign of his attempts to influence Republican politics next year. 
  <p class="updated_time"> 09:36 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden pushes Putin for Ukraine de-escalation in second call this month</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 09:24 PM CT, Dec. 30 </p> 
@@ -235,7 +235,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:50 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/us-unemployment-claims-drop-526265">U.S. unemployment claims drop to 198,000</a> Politico: The four-week average, which smooths out week-to-week volatility, fell to just above 199,000, the lowest level since October 1969. 
  <p class="updated_time"> 08:31 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Michigan’s New Congressional Maps Undo Years of Gerrymandering</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
+ <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Ungerrymandered: Michigan’s Maps, Independently Drawn, Set Up Fair Fight</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
  <p class="updated_time"> 08:17 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Biden administration results in more of the same Trump immigration policies</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
  <p class="updated_time"> 07:56 AM CT, Dec. 30 </p> 
@@ -293,9 +293,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights and the Battle Over Elections: What to Know</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
- <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/mask-mandate-fines-greene-clyde.html">Greene and Clyde Rack Up Fines for Defying House’s Mask Mandate</a> NYT: Representatives Marjorie Taylor Greene and Andrew Clyde have incurred more than $100,000 combined in penalties for dozens of violations. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights Tracker: What to Know About the U.S. Elections Fight</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
  <p class="updated_time"> 10:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, Senate Majority Leader Behind Landmark Democratic Victories, Dies at 82</a> NYT: Mr. Reid, who was from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
  <p class="updated_time"> 09:54 PM CT, Dec. 28 </p> 
