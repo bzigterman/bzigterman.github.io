@@ -231,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:14 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/cnn-january-6th-one-year-later/index.html">CNN to air 'Live from the Capitol: January 6th, One Year Later' marking 1-year anniversary of insurrection</a> CNN: Several lawmakers and members of the law enforcement community tasked with protecting the US Capitol will mark the one-year anniversary of the deadly insurrection there next month during a live event hosted by CNN, the network announced Thursday. 
  <p class="updated_time"> 08:31 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Ungerrymandered: Michigan’s Maps, Independently Drawn, Set Up Fair Fight</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
+ <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Michigan’s New Congressional Maps Undo Years of Gerrymandering</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
  <p class="updated_time"> 08:17 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Biden administration results in more of the same Trump immigration policies</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
  <p class="updated_time"> 07:56 AM CT, Dec. 30 </p> 
@@ -295,9 +295,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:08 AM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1068704775/former-democratic-senate-leader-harry-reid-has-died-at-age-82">Former Democratic Senate leader Harry Reid has died at age 82</a> NPR: The Nevada Democrat, a one-time amateur boxer who brought a pugilist approach to politics, died Tuesday afternoon after a four-year battle with pancreatic cancer. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights and the Battle Over Elections: What to Know</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
- <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/mask-mandate-fines-greene-clyde.html">Greene and Clyde Rack Up Fines for Defying House’s Mask Mandate</a> NYT: Representatives Marjorie Taylor Greene and Andrew Clyde have incurred more than $100,000 combined in penalties for dozens of violations. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights Tracker: What to Know About the U.S. Elections Fight</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
  <p class="updated_time"> 10:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, Senate Majority Leader Behind Landmark Democratic Victories, Dies at 82</a> NYT: Mr. Reid, who was from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
  <p class="updated_time"> 09:54 PM CT, Dec. 28 </p> 
