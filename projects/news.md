@@ -13,8 +13,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/europe/covid-france-omicron-vaccines.html">Omicron Strains France’s Social Contract on Covid</a> NYT: President Emmanuel Macron won people over by promising normalcy if they followed Covid advice. Now Omicron has raised questions about whether he, or any leader, can deliver on that. 
  <p class="updated_time"> 11:36 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/31/1069412844/asia-looks-to-china-focused-trade-bloc-for-virus-recovery">Asia looks to China-focused trade bloc for virus recovery</a> NPR: Members of the 15-member Regional and Comprehensive Economic Partnership, or RCEP, include China, Japan and South Korea. The new trading bloc does not include the U.S. or India. 
- <p class="updated_time"> 10:54 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Updates: South Africa Says Its Omicron Wave Has Passed With No Big Spike in Deaths</a> NYT: The announcement offers cautious hope to other countries grappling with the fast-spreading variant. The U.S. hits yet another record for new daily virus cases. 
  <p class="updated_time"> 10:51 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/japan-arson.html">Suspect in Deadly Arson Fire in Osaka, Japan, Dies in Hospital</a> NYT: The suspect, a 61-year-old man, had been hospitalized for smoke inhalation since the Dec. 17 fire at a psychiatric clinic, which killed 25 other people. 
  <p class="updated_time"> 10:25 PM CT, Dec. 30 </p> 
@@ -81,6 +79,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/arts/music/sam-fender.html">Sam Fender, a Songwriter Caught Between Stardom and His Hometown</a> NYT: The musician is fast becoming one of Britain’s biggest rock acts with tracks about working class life in North Shields. Can he let himself leave the town? 
  <p class="updated_time"> 11:19 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/mexico-cruises.html">Mexico Says It will Allow Cruise Ships With Covid Cases to Dock</a> NYT: The Latin American nation is among the few in the world to have imposed no restrictions or testing requirements for travelers. 
+ <p class="updated_time"> 10:47 AM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/28/world/us-covid-case-record-omicron.html">U.S. Coronavirus Cases Set New Records</a> NYT: As a third year of the pandemic loomed, the seven-day average of U.S. cases topped 267,000 on Tuesday. 
  <p class="updated_time"> 10:30 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/30/1068920127/the-goal-at-least-40-vaxxed-in-all-nations-by-year-end-this-map-shows-how-we-sta">The goal: at least 40% vaxxed in all nations by year-end. This map shows how we stand</a> NPR: The program called COVAX was set up to make sure that all countries have access to COVID vaccines. Two key public health figures talk about what went wrong — and how to fix it. 
  <p class="updated_time"> 10:29 AM CT, Dec. 30 </p> 
