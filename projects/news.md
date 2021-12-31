@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:38 PM CT, Dec. 30 </p> 
+ <p class="updated_time"> 10:54 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Updates: South Africa Says Its Omicron Wave Has Passed With No Big Spike in Deaths</a> NYT: The announcement offers cautious hope to other countries grappling with the fast-spreading variant. The U.S. hits yet another record for new daily virus cases. 
+ <p class="updated_time"> 10:51 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/asia/japan-arson.html">Suspect in Deadly Arson Fire in Osaka, Japan, Dies in Hospital</a> NYT: The suspect, a 61-year-old man, had been hospitalized for smoke inhalation since the Dec. 17 fire at a psychiatric clinic, which killed 25 other people. 
  <p class="updated_time"> 10:25 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/israel-4th-dose-covid-vaccine.html">Israel Approves 4th Dose of Covid Vaccine for Some</a> NYT: The Ministry of Health said it was waiting for more data from Israel and abroad before approving any broader rollout of fourth shots. 
  <p class="updated_time"> 10:14 PM CT, Dec. 30 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/americas/mexico-cruises.html">Mexico Says It will Allow Cruise Ships With Covid Cases to Dock</a> NYT: The Latin American nation is among the few in the world to have imposed no restrictions or testing requirements for travelers. 
  <p class="updated_time"> 10:47 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/28/world/us-covid-case-record-omicron.html">U.S. Coronavirus Cases Set New Records</a> NYT: As a third year of the pandemic loomed, the seven-day average of U.S. cases topped 267,000 on Tuesday. 
- <p class="updated_time"> 10:45 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/28/health/covid-isolation-period-omicron.html">Will Shortened Isolation Periods Without Testing Spread the Virus?</a> NYT: Without rapid testing, some experts fear new U.S. guidelines may mean infected people leave isolation while still contagious. The C.D.C. director said masking was a better option. 
  <p class="updated_time"> 10:30 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/30/1068920127/the-goal-at-least-40-vaxxed-in-all-nations-by-year-end-this-map-shows-how-we-sta">The goal: at least 40% vaxxed in all nations by year-end. This map shows how we stand</a> NPR: The program called COVAX was set up to make sure that all countries have access to COVID vaccines. Two key public health figures talk about what went wrong — and how to fix it. 
  <p class="updated_time"> 10:29 AM CT, Dec. 30 </p> 
@@ -149,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068895496/hong-kong-police-close-pro-democracy-outlet-stand-news">Hong Kong police close pro-democracy outlet Stand News</a> NPR: In Hong Kong, authorities from the police's national security department arrested half a dozen senior staff members, confiscated boxes and closed one of the last pro-democracy outlets, Stand News. 
  <p class="updated_time"> 03:17 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/eric-adams-nye-times-square.html">Eric Adams to Be Sworn In on New Year's Eve in Times Square</a> NYT: The incoming mayor has made a point of reveling in New York’s nightlife, something that he has cast as boosterism for the city’s struggling club and restaurant scene. 
- <p class="updated_time"> 02:39 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/americas/brazil-floods-climate-change.html">Brazil Flooding Kills at Least 20 and Displaces Thousands</a> NYT: In northeast Brazil, local officials say they have never before seen flooding on this scale. Tens of thousands were forced to flee their homes. 
  <p class="updated_time"> 01:43 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/cincinnati-fire-department-state-of-emergency.html">Cincinnati Declares State of Emergency Amid Fire Department Staffing Shortages</a> NYT: Mayor John Cranley called the challenges a “public danger” that would undermine the city’s ability to respond to fire emergencies. 
  <p class="updated_time"> 01:27 PM CT, Dec. 29 </p> 
@@ -175,14 +173,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068685421/nfl-hall-of-fame-coach-and-iconic-sports-broadcaster-john-madden-dies-at-85">NFL Hall of Fame coach and iconic sports broadcaster John Madden dies at 85</a> NPR: For 10 seasons, John Madden led the Oakland Raiders as head coach. After his retirement, he became a legendary NFL commentator for three decades. 
  <p class="updated_time"> 10:47 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/books/keri-hulme-dead.html">Keri Hulme, New Zealand’s First Booker Prize Winner, Dies at 74</a> NYT: The power Ms. Hulme drew from her Maori heritage shone through in her work, especially in “The Bone People,” which won the literary prize in 1985. 
- <p class="updated_time"> 09:51 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/quebec-health-workers-positive-covid.html">Some Infected Quebec Health Care Workers can Continue Working</a> NYT: All essential workers in the province, including those who work in medicine, will be subject to the new rules. 
- <p class="updated_time"> 05:16 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/health/covid-omicron-antibodies-delta.html">Omicron Variant May Help Beat Delta, Study Suggests</a> NYT: In the lab, antibodies produced during an Omicron infection protected against Delta. If Omicron dominates in the real world, that could lead to a less dire future. 
- <p class="updated_time"> 04:41 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/us/politics/nato-russia-ukrain-us.html">U.S. and Russia Agree to Talks Amid Growing Tensions Over Ukraine</a> NYT: The Biden administration has not said who will lead the U.S. delegation next month as Russian officials demand commitments from NATO. 
- <p class="updated_time"> 03:14 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/omicron-covid-contagious-cdc.html">C.D.C. Study Suggests Omicron's Incubation Period Is Just 3 Days</a> NYT: A case study of one infected household observed that it may take as little as three days for people to become contagious, compared with four to six days with earlier versions of the virus. 
 
 
 </details>
