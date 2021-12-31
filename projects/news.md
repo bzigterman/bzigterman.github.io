@@ -7,9 +7,15 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:26 PM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Wave Dampens New Years, Studies Provide Glimmer of Hope</a> NYT: Many countries marked 2021 with subdued celebrations, as the British government released data showing people with Omicron were less likely to need hospitalization and animal studies suggested the variant spares the lungs. 
- <p class="updated_time"> 12:26 PM CT, Dec. 31 </p> 
+ <p class="updated_time"> 12:46 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Wave Dampens New Year’s Eve, Studies Provide Glimmer of Hope</a> NYT: Many countries marked 2021 with subdued celebrations, as the British government released data showing people with Omicron were less likely to need hospitalization and animal studies suggested the variant spares the lungs. 
+ <p class="updated_time"> 12:34 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/world/americas/quebec-new-years-eve-curfew.html">Quebec Government Faces Backlash Over New Year’s Eve Curfew</a> NYT: Residents who leave their homes past 10 p.m. could face fines of up to $4,750. 
+ <p class="updated_time"> 12:32 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/arts/music/sam-fender.html">Sam Fender, a Songwriter Caught Between Stardom and His Hometown</a> NYT: The musician is fast becoming one of Britain’s biggest rock acts with tracks about working class life in North Shields. Can he let himself leave the town? 
+ <p class="updated_time"> 12:31 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/world/europe/germany-new-year-speech-olaf-scholz-covid.html">In New Year's Speech, Olaf Scholz, Germany's New Leader, Focuses on Covid</a> NYT: Olaf Scholz, who replaced Angela Merkel as chancellor about three weeks ago, gave the traditional New Year’s Eve address for the first time and called for unity and vaccinations. 
+ <p class="updated_time"> 12:28 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
  <p class="updated_time"> 12:24 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/biden-putin-russia-ukraine-lavrov.html">Sergey V. Lavrov Accused NATO of Stoking Ukraine Conflict </a> NYT: Sergey V. Lavrov accused the United States and its allies of stoking a conflict in the country’s east in comments that contrasted with a more positive tone coming from Moscow. 
@@ -50,7 +56,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:03 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/paris-masks-outdoors-omicron.html">Paris Reimposes Outdoor Mask Mandate as Omicron Soars</a> NYT: With more than 2,000 coronavirus cases per 100,000 people, the capital has become the center of France’s spreading Omicron outbreak. 
  <p class="updated_time"> 05:27 AM CT, Dec. 31 </p> 
- <a href="https://www.wsj.com/articles/south-africa-says-its-omicron-wave-is-in-retreat-11640955912">South Africa Says Its Omicron Wave Is in Retreat</a> WSJ: The Omicron variant’s decline in South Africa is a promising sign for other countries facing their own bursts of infections caused by the highly transmissible strain. 
+ <a href="https://www.wsj.com/articles/south-africa-says-its-omicron-wave-is-in-retreat-11640955912">South Africa Says Its Omicron Wave Is in Retreat</a> WSJ: The Omicron variant’s decline in South Africa is a promising sign for other countries, while new data from the U.K. added to evidence that it is less likely to cause severe disease than earlier versions of the virus. 
  <p class="updated_time"> 05:13 AM CT, Dec. 31 </p> 
  <a href="https://www.wsj.com/articles/china-warns-walmart-against-removing-products-made-in-xinjiang-11640967233">China Warns Walmart Against Removing Items Made in Xinjiang</a> WSJ: China warned of a consumer boycott following reports that the world’s largest retailer had stopped stocking products from Xinjiang, a region where the U.S. has human-rights concerns. 
  <p class="updated_time"> 04:52 AM CT, Dec. 31 </p> 
@@ -123,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/asia/ashraf-ghani-bbc-interview.html">Ashraf Ghani, Former Afghan President, Says He Fled Nation to 'Save Kabul'</a> NYT: In his first interview since escaping Afghanistan as the Taliban advanced on the capital, Ashraf Ghani defended himself against charges that he abandoned his country in its hour of need. 
  <p class="updated_time"> 11:53 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/the-us-breaks-its-single-day-case-record-nearly-doubling-the-highest-numbers-from-last-winter.html">The U.S. breaks its single-day case record, nearly doubling the highest numbers from last winter.</a> NYT: The new daily case total topped 488,000 on Wednesday, according to a New York Times database. 
- <p class="updated_time"> 11:28 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/arts/music/sam-fender.html">Sam Fender, a Songwriter Caught Between Stardom and His Hometown</a> NYT: The musician is fast becoming one of Britain’s biggest rock acts with tracks about working class life in North Shields. Can he let himself leave the town? 
  <p class="updated_time"> 11:19 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/mexico-cruises.html">Mexico Says It will Allow Cruise Ships With Covid Cases to Dock</a> NYT: The Latin American nation is among the few in the world to have imposed no restrictions or testing requirements for travelers. 
  <p class="updated_time"> 10:30 AM CT, Dec. 30 </p> 
@@ -188,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:28 PM CT, Dec. 31 </p> 
+ <a href="https://www.cnn.com/2021/12/31/politics/republican-judiciary-committee-deletes-tweet-covid-vaccine-disinfo/index.html">House GOP committee deletes tweet spreading disinformation about Covid-19 booster shots </a> CNN: Republicans on the House Judiciary Committee deleted a tweet Friday morning that spread disinformation about Covid-19 booster shots. 
  <p class="updated_time"> 10:30 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/wildfires-burn-hundreds-of-homes-in-colorado-thousands-flee-526290">Wildfires burn hundreds of homes in Colorado, thousands flee</a> Politico: Tens of thousands of displaced Coloradans anxiously waited to learn what was left standing of their lives Friday after the flames burned an estimated 580 homes, a hotel and a shopping center. 
  <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
@@ -352,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/us/politics/biden-defense-bill.html">President Biden Signs $770 Billion Defense Bill</a> NYT: The National Defense Authorization Act passed Congress with bipartisan support, over the opposition of liberals pushing for more social spending. 
  <p class="updated_time"> 03:19 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/joe-biden-signs-ndaa/index.html">Biden signs annual defense bill</a> CNN: President Joe Biden signed the vital National Defense Authorization Act military funding bill, passed earlier this month by Congress, into law Monday morning. 
- <p class="updated_time"> 02:55 PM CT, Dec. 27 </p> 
- <a href="https://www.cnn.com/2021/12/27/politics/biden-covid-governors/index.html">Biden concedes not enough has been done to expand Covid-19 testing capacity: 'We have more work to do'</a> CNN: President Joe Biden will confer with the nation's governors on Monday as a wave of Covid-19, driven by the heavily transmissible Omicron variant of the coronavirus, crashes across the country and drives caseloads to record levels in areas of the Northeast. 
  <p class="updated_time"> 01:07 PM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/news/2021/12/27/biden-governors-omicron-surge-526175">Biden looks to reassure governors amid Omicron surge and long lines for tests</a> Politico: Biden acknowledged the shortages that hit several states ahead of the holidays, conceding that he had not done enough to prepare for the rising demand. 
  <p class="updated_time"> 09:36 AM CT, Dec. 27 </p> 
