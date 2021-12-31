@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:48 PM CT, Dec. 31 </p> 
+ <p class="updated_time"> 03:05 PM CT, Dec. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59843627?at_medium=RSS&at_campaign=KARANGA">Betty White: Biden leads tributes for Golden Girls actress</a> BBC: The long-time Hollywood star died on Friday at the age of 99 after an eight-decade film and TV career. 
+ <p class="updated_time"> 03:01 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Wave Dampens New Year’s Eve, Studies Provide Glimmer of Hope</a> NYT: Many countries marked 2021 with subdued celebrations, as the British government released data showing people with Omicron were less likely to need hospitalization and animal studies suggested the variant spares the lungs. 
  <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/sports/kirk-cousins-covid.html">Kirk Cousins Tests Positive for Covid-19</a> NYT: Cousins was placed on the team’s Covid-19 reserve list for at least five days, threatening Minnesota’s playoff chances. 
@@ -16,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:00 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/canada/montreal-bar-mitzvah-photographer.html">Once a Janitor, Now the Bar Mitzvah Photography King of Montreal</a> NYT: With a touch of chutzpah and “a little help from God,” Braulio Rocha, a Roman Catholic Portuguese immigrant, traded in his mop for a camera. 
  <p class="updated_time"> 01:43 PM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-53723448?at_medium=RSS&at_campaign=KARANGA">Golden Girl actress Betty White dies aged 99</a> BBC: One of America's original screen stars, Betty White enjoyed a career spanning eight decades. 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-53723448?at_medium=RSS&at_campaign=KARANGA">Obituary: Betty White, the Golden Girl with a heart of gold</a> BBC: One of America's original screen stars, Betty White enjoyed a career spanning eight decades. 
  <p class="updated_time"> 01:28 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-59840513?at_medium=RSS&at_campaign=KARANGA">Covid-19: WHO chief optimistic disease will be beaten in 2022</a> BBC: The organisation ends the year on a positive note but warns about "nationalism and vaccine hoarding". 
  <p class="updated_time"> 12:57 PM CT, Dec. 31 </p> 
@@ -67,12 +69,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/paris-masks-outdoors-omicron.html">Paris Reimposes Outdoor Mask Mandate as Omicron Soars</a> NYT: With more than 2,000 coronavirus cases per 100,000 people, the capital has become the center of France’s spreading Omicron outbreak. 
  <p class="updated_time"> 05:13 AM CT, Dec. 31 </p> 
  <a href="https://www.wsj.com/articles/china-warns-walmart-against-removing-products-made-in-xinjiang-11640967233">China Warns Walmart Against Removing Items Made in Xinjiang</a> WSJ: China warned of a consumer boycott following reports that the world’s largest retailer had stopped stocking products from Xinjiang, a region where the U.S. has human-rights concerns. 
+ <p class="updated_time"> 04:52 AM CT, Dec. 31 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59837361?at_medium=RSS&at_campaign=KARANGA">Romelu Lukaku: Chelsea manager Thomas Tuchel 'does not like' striker's comments</a> BBC: Chelsea boss Thomas Tuchel says Romelu Lukaku's comments in an interview in which the striker said he was "not happy" with his role at the club "brings noise that we don't need". 
  <p class="updated_time"> 04:36 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59837697?at_medium=RSS&at_campaign=KARANGA">Colorado Wildfires: Thousands evacuated as buildings burn</a> BBC: Around 30,000 people have been evacuated as wildfires sweep across the US state of Colorado. 
  <p class="updated_time"> 03:43 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069428211/parents-selling-children-shows-desperation-in-afghanistan">Parents selling children shows desperation in Afghanistan</a> NPR: Many of Afghanistan's growing number of destitute people are making desperate decisions as their nation spirals into a deeper poverty. 
- <p class="updated_time"> 03:39 AM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59835127?at_medium=RSS&at_campaign=KARANGA">Omicron: Third wave looms as India Covid cases spike</a> BBC: Major cities such as Mumbai, Delhi and Kolkata are recording a sharp daily jump in coronavirus cases. 
  <p class="updated_time"> 03:33 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59824916?at_medium=RSS&at_campaign=KARANGA">Xi'an: Cries for help and food in quarantined Chinese city</a> BBC: Officials say there are adequate supplies, but some in Xi'an say they do not have enough to eat. 
  <p class="updated_time"> 03:03 AM CT, Dec. 31 </p> 
