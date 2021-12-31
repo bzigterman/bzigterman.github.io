@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:41 PM CT, Dec. 31 </p> 
+ <p class="updated_time"> 02:48 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Wave Dampens New Year’s Eve, Studies Provide Glimmer of Hope</a> NYT: Many countries marked 2021 with subdued celebrations, as the British government released data showing people with Omicron were less likely to need hospitalization and animal studies suggested the variant spares the lungs. 
  <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/sports/kirk-cousins-covid.html">Kirk Cousins Tests Positive for Covid-19</a> NYT: Cousins was placed on the team’s Covid-19 reserve list for at least five days, threatening Minnesota’s playoff chances. 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:43 PM CT, Dec. 31 </p> 
+ <a href="https://www.politico.com/news/2021/12/31/fdic-chair-jelena-mcwilliams-to-resign-526295">FDIC’s GOP chair to resign after partisan brawl</a> Politico: Jelena McWilliams on Friday unexpectedly submitted her resignation. 
  <p class="updated_time"> 03:02 PM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/betty-white-dies-99-526292">Betty White, TV’s Golden Girl, dies at 99</a> Politico: The actress, whose up-for-anything charm made her a television mainstay for more than 60 years, has died. 
  <p class="updated_time"> 02:38 PM CT, Dec. 31 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/us/politics/trump-jan-6.html">Jan. 6 Committee Shelves Requests for Hundreds of Trump Records</a> NYT: The Biden administration asked to shield some sensitive documents but continued to reject Trump’s blanket claim of executive privilege. 
  <p class="updated_time"> 04:41 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/nato-russia-ukrain-us.html">U.S. and Russia Agree to Talks Amid Growing Tensions Over Ukraine</a> NYT: The Biden administration has not said who will lead the U.S. delegation next month as Russian officials demand commitments from NATO. 
- <p class="updated_time"> 04:10 PM CT, Dec. 28 </p> 
- <a href="https://www.politico.com/news/2021/12/28/fda-antigen-tests-reduced-sensitivity-omicron-526217">FDA: Antigen tests may have reduced sensitivity detecting Omicron</a> Politico: The new warning is based on preliminary studies by the National Institutes of Health’s Rapid Acceleration of Diagnostics initiative. 
  <p class="updated_time"> 03:31 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/donald-trump-allies-january-6-committee/index.html">Some Trump allies slow walk, stonewall or snub January 6 committee</a> CNN: When the committee investigating the January 6 insurrection struggled to serve Dan Scavino with a subpoena, the former Donald Trump aide said he had been in a fairly obvious locale: Mar-a-Lago. 
  <p class="updated_time"> 12:12 PM CT, Dec. 28 </p> 
