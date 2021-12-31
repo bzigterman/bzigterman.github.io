@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:50 PM CT, Dec. 31 </p> 
+ <p class="updated_time"> 01:09 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Wave Dampens New Year’s Eve, Studies Provide Glimmer of Hope</a> NYT: Many countries marked 2021 with subdued celebrations, as the British government released data showing people with Omicron were less likely to need hospitalization and animal studies suggested the variant spares the lungs. 
- <p class="updated_time"> 12:34 PM CT, Dec. 31 </p> 
+ <p class="updated_time"> 12:57 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/americas/quebec-new-years-eve-curfew.html">Quebec Government Faces Backlash Over New Year’s Eve Curfew</a> NYT: Residents who leave their homes past 10 p.m. could face fines of up to $4,750. 
+ <p class="updated_time"> 12:55 PM CT, Dec. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59842728?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu: Body of South African hero to be aquamated</a> BBC: In line with his eco-friendly beliefs, the water-based process uses a tenth of the energy of cremation. 
  <p class="updated_time"> 12:32 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/30/arts/music/sam-fender.html">Sam Fender, a Songwriter Caught Between Stardom and His Hometown</a> NYT: The musician is fast becoming one of Britain’s biggest rock acts with tracks about working class life in North Shields. Can he let himself leave the town? 
  <p class="updated_time"> 12:31 PM CT, Dec. 31 </p> 
@@ -37,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59841815?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Rape survivor describes 'locking eyes' with Maxwell in court</a> BBC: Sarah Ransome says Maxwell was the "enforcer" in the sexual abuse that was carried out by Maxwell and Epstein. 
  <p class="updated_time"> 10:45 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/africa/uganda-congo-rebels-adf.html">Why Did Uganda Send Troops Into Congo?</a> NYT: The Ugandan government says it is targeting rebels it accuses of terrorist attacks in Kampala. Many Congolese fear the incursion is cover for yet another plundering of their country. 
+ <p class="updated_time"> 10:27 AM CT, Dec. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/health-59840524?at_medium=RSS&at_campaign=KARANGA">Covid booster 88% effective against hospital treatment with Omicron</a> BBC: UK health officials said the latest data reinforces the importance of getting a third dose. 
  <p class="updated_time"> 10:09 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069472217/new-years-eve-omicron">As the world marks New Year's Eve, celebrations are muted by omicron</a> NPR: In many places, New Year's Eve celebrations were muted or canceled for the second straight year due to a surge of coronavirus infections, this time driven by the highly contagious omicron variant. 
  <p class="updated_time"> 10:08 AM CT, Dec. 31 </p> 
@@ -49,14 +53,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/59838168?at_medium=RSS&at_campaign=KARANGA">Breakaway Super League, Tokyo's 'Covid Games', cricket's racism crisis - a huge year for sports news</a> BBC: BBC sports editor Dan Roan says 2021 has included two of the most dramatic, fastest-moving stories he has covered in two decades of sports reporting. 
  <p class="updated_time"> 08:17 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59839723?at_medium=RSS&at_campaign=KARANGA">Rogel Aguilera-Mederos: Colorado truck driver's sentence cut by 100 years</a> BBC: Rogel Aguilera-Mederos was sentenced to 110 years in prison for a crash that killed four people. 
+ <p class="updated_time"> 07:55 AM CT, Dec. 31 </p> 
+ <a href="https://www.wsj.com/articles/south-africa-says-its-omicron-wave-is-in-retreat-11640955912">South Africa Says Its Omicron Wave Is in Retreat</a> WSJ: The Omicron variant’s decline in South Africa is a promising sign for other countries. New data from the U.K. added to evidence that it is less likely to cause severe disease than earlier versions of the virus. 
  <p class="updated_time"> 07:31 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/middleeast/israel-mount-sinai-burning-bush.html">Is That a Burning Bush? Is This Mt. Sinai? Solstice Bolsters a Claim</a> NYT: On the year’s shortest day, hundreds of Israelis ventured deep into the desert to witness a strange natural phenomenon atop an ancient pilgrimage site that some argue is where God spoke to Moses. 
  <p class="updated_time"> 06:55 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/tesla-batteries-nickel-new-caledonia.html">Can a Sustainable Mining Experiment in New Caledonia Power Tesla's Ambitions?</a> NYT: Nickel is vital to electric car batteries, but extracting it is dirty and destructive. A plant with a turbulent history in New Caledonia is about to become an experiment in doing it better. 
  <p class="updated_time"> 06:03 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/paris-masks-outdoors-omicron.html">Paris Reimposes Outdoor Mask Mandate as Omicron Soars</a> NYT: With more than 2,000 coronavirus cases per 100,000 people, the capital has become the center of France’s spreading Omicron outbreak. 
- <p class="updated_time"> 05:27 AM CT, Dec. 31 </p> 
- <a href="https://www.wsj.com/articles/south-africa-says-its-omicron-wave-is-in-retreat-11640955912">South Africa Says Its Omicron Wave Is in Retreat</a> WSJ: The Omicron variant’s decline in South Africa is a promising sign for other countries, while new data from the U.K. added to evidence that it is less likely to cause severe disease than earlier versions of the virus. 
  <p class="updated_time"> 05:13 AM CT, Dec. 31 </p> 
  <a href="https://www.wsj.com/articles/china-warns-walmart-against-removing-products-made-in-xinjiang-11640967233">China Warns Walmart Against Removing Items Made in Xinjiang</a> WSJ: China warned of a consumer boycott following reports that the world’s largest retailer had stopped stocking products from Xinjiang, a region where the U.S. has human-rights concerns. 
  <p class="updated_time"> 04:52 AM CT, Dec. 31 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/asia/indonesia-rohingya-boat.html">Indonesia Lets Stranded Refugee Boat Land After Vowing to Turn It Away</a> NYT: The boat came shore on Friday with more than 100 Rohingya refugees on board. Indonesia relented under pressure from rights groups. 
  <p class="updated_time"> 07:01 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59309768?at_medium=RSS&at_campaign=KARANGA">Year in tech: The stories making headlines in 2021</a> BBC: From the metaverse to NFTs and everything in-between, what's made the news in tech this year? 
- <p class="updated_time"> 06:30 PM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-59832722?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Putin tells Biden new sanctions could rupture ties</a> BBC: The US and Russian presidents spoke by phone for almost an hour amid rising tensions over Ukraine. 
  <p class="updated_time"> 06:22 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069338981/biden-putin-call-russia-ukraine">Biden again calls on Putin to de-escalate tensions along Ukraine border</a> NPR: It was the second time the two leaders spoke this month, as Russia has assembled as many as 100,000 troops along the Ukrainian border, prompting fears of an invasion. 
  <p class="updated_time"> 06:15 PM CT, Dec. 30 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/30/1069273197/president-biden-speaks-with-russian-president-vladimir-putin-as-ukraine-tensions">President Biden speaks with Russian President Vladimir Putin as Ukraine tensions rise</a> NPR: President Biden spoke with Russian President Vladimir Putin in a call Thursday as tensions mount between the Ukraine and Russia. The White House says it's "gravely concerned" about the situation. 
  <p class="updated_time"> 03:00 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/kyiv-ukraine-war-russia-bomb-shelters.html">Ukrainians Set Sights on the New Year, Not a New War</a> NYT: As the government designates bomb shelters and provides guidance on how to tape windows in case of an attack by Russia, Ukrainians carry on. 
- <p class="updated_time"> 01:18 PM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59833262?at_medium=RSS&at_campaign=KARANGA">Covid: Woman isolates in toilet for five hours after positive mid-flight test</a> BBC: A US teacher says she spent five hours in the toilet after testing positive for Covid-19. 
  <p class="updated_time"> 12:39 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/bbc-alan-dershowitz-ghislaine-maxwell-epstein.html">BBC to Look Into Alan Dershowitz Interview on Ghislaine Maxwell Verdict</a> NYT: The American lawyer spoke to the British broadcaster about the verdict in the Ghislaine Maxwell case, but his connections to the case were not made clear. 
  <p class="updated_time"> 12:05 PM CT, Dec. 30 </p> 
@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:59 PM CT, Dec. 31 </p> 
+ <a href="https://www.cnn.com/2021/12/31/politics/biden-volodymyr-zelensky-call-ukraine/index.html">Biden to speak with Zelensky as US warns against Russian invasion of Ukraine</a> CNN: President Joe Biden will speak with Ukrainian President Volodymyr Zelensky on Sunday, several days after Biden urged Russian President Vladimir Putin to ease an unremitting military crisis on Ukraine's border. 
  <p class="updated_time"> 12:28 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/republican-judiciary-committee-deletes-tweet-covid-vaccine-disinfo/index.html">House GOP committee deletes tweet spreading disinformation about Covid-19 booster shots </a> CNN: Republicans on the House Judiciary Committee deleted a tweet Friday morning that spread disinformation about Covid-19 booster shots. 
  <p class="updated_time"> 10:30 AM CT, Dec. 31 </p> 
