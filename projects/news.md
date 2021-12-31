@@ -190,6 +190,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:36 PM CT, Dec. 30 </p> 
+ <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden pushes Putin for Ukraine de-escalation in second call this month</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 09:24 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/politics/uss-montgomery-captain-fired.html">Navy Fires Warship’s Top Two Officers, Citing ‘Loss of Confidence’</a> NYT: The commander and second in charge of the U.S.S. Montgomery were relieved of command in a rare punishment, reportedly over their handling of a sexual harassment case. 
  <p class="updated_time"> 09:11 PM CT, Dec. 30 </p> 
@@ -204,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/30/politics/trump-supreme-court-documents/index.html">Biden administration defends its decision not to assert executive privilege over Trump's White House records</a> CNN: Both the House of Representatives and the Biden administration asked the Supreme Court on Thursday to deny former President Donald Trump's attempt to keep secret more than 700 pages of records that pertain to January 6. 
  <p class="updated_time"> 06:57 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/pelosi-january-6-one-year-plans/index.html">Pelosi announces plans to commemorate January 6 anniversary at US Capitol</a> CNN: House Speaker Nancy Pelosi on Thursday announced a slate of events around the US Capitol next week to commemorate the one-year anniversary of the January 6 insurrection. 
- <p class="updated_time"> 06:29 PM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden pushes Putin for Ukraine de-escalation in second call this month</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 06:22 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069338981/biden-putin-call-russia-ukraine">Biden again calls on Putin to de-escalate tensions along Ukraine border</a> NPR: It was the second time the two leaders spoke this month, as Russia has assembled as many as 100,000 troops along the Ukrainian border, prompting fears of an invasion. 
  <p class="updated_time"> 06:13 PM CT, Dec. 30 </p> 
