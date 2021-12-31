@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/business/china-internet-police-twitter.html">Chinese Police Hunt Overseas Critics With Advanced Tech</a> NYT: Authorities in China have turned to sophisticated investigative software to track and silence obscure critics on overseas social media. Their targets include college students and non-Chinese nationals. 
+ <p class="updated_time"> 02:00 AM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/world/middleeast/israel-mount-sinai-burning-bush.html">Is That a Burning Bush? Is This Mt. Sinai? Solstice Bolsters a Claim</a> NYT: On the year’s shortest day, hundreds of Israelis ventured deep into the desert to witness a strange natural phenomenon atop an ancient pilgrimage site that some argue is where God spoke to Moses. 
  <p class="updated_time"> 12:11 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59835210?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: News crew escapes fast-spreading flames</a> BBC: Members of a CBS team escape in a hurry as flames blaze across grass in their direction. 
  <p class="updated_time"> 12:02 AM CT, Dec. 31 </p> 
@@ -30,7 +34,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:52 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/indonesia-rohingya-boat.html">Indonesia Lets Stranded Refugee Boat Land After Vowing to Turn It Away</a> NYT: The boat came shore on Friday with more than 100 Rohingya refugees on board. Indonesia relented under pressure from rights groups. 
  <p class="updated_time"> 08:04 PM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59832843?at_medium=RSS&at_campaign=KARANGA">Omicron wave may have peaked, South Africa says</a> BBC: Officials relax restrictions noting lower hospital admissions from the Omicron variant than feared. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59832843?at_medium=RSS&at_campaign=KARANGA">South Africa says Omicron wave may have peaked</a> BBC: Officials relax restrictions noting lower hospital admissions from the Omicron variant than feared. 
  <p class="updated_time"> 07:01 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59309768?at_medium=RSS&at_campaign=KARANGA">Year in tech: The stories making headlines in 2021</a> BBC: From the metaverse to NFTs and everything in-between, what's made the news in tech this year? 
  <p class="updated_time"> 06:30 PM CT, Dec. 30 </p> 
@@ -79,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/arts/music/sam-fender.html">Sam Fender, a Songwriter Caught Between Stardom and His Hometown</a> NYT: The musician is fast becoming one of Britain’s biggest rock acts with tracks about working class life in North Shields. Can he let himself leave the town? 
  <p class="updated_time"> 11:19 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/mexico-cruises.html">Mexico Says It will Allow Cruise Ships With Covid Cases to Dock</a> NYT: The Latin American nation is among the few in the world to have imposed no restrictions or testing requirements for travelers. 
- <p class="updated_time"> 10:47 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/28/world/us-covid-case-record-omicron.html">U.S. Coronavirus Cases Set New Records</a> NYT: As a third year of the pandemic loomed, the seven-day average of U.S. cases topped 267,000 on Tuesday. 
  <p class="updated_time"> 10:30 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/30/1068920127/the-goal-at-least-40-vaxxed-in-all-nations-by-year-end-this-map-shows-how-we-sta">The goal: at least 40% vaxxed in all nations by year-end. This map shows how we stand</a> NPR: The program called COVAX was set up to make sure that all countries have access to COVID vaccines. Two key public health figures talk about what went wrong — and how to fix it. 
  <p class="updated_time"> 10:29 AM CT, Dec. 30 </p> 
@@ -169,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068696336/hong-kong-police-raid-pro-democracy-news-outlet-arrest-6">Hong Kong pro-democracy news site closes after raid, arrests</a> NPR: A vocal pro-democracy website in Hong Kong shut down Wednesday after police raided its office and arrested six in a continuing crackdown on dissent. 
  <p class="updated_time"> 11:51 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/29/1068691821/asia-is-keeping-omicron-at-bay-but-a-surge-may-be-inevitable">Asia is keeping omicron at bay, but a surge may be inevitable</a> NPR: Much of Asia has managed to keep omicron in check even as the variant rages elsewhere, but the region that is home to most of the globe's population is bracing for what may be an inevitable surge. 
- <p class="updated_time"> 10:47 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/books/keri-hulme-dead.html">Keri Hulme, New Zealand’s First Booker Prize Winner, Dies at 74</a> NYT: The power Ms. Hulme drew from her Maori heritage shone through in her work, especially in “The Bone People,” which won the literary prize in 1985. 
 
 
 </details>
