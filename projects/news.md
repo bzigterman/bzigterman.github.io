@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:31 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Wave Dampens New Year’s Eve, Studies Provide Glimmer of Hope</a> NYT: Many countries marked 2021 with subdued celebrations, as the British government released data showing people with Omicron were less likely to need hospitalization and animal studies suggested the variant spares the lungs. 
+ <p class="updated_time"> 01:28 PM CT, Dec. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59840513?at_medium=RSS&at_campaign=KARANGA">Covid-19: WHO chief optimistic disease will be beaten in 2022</a> BBC: The organisation ends the year on a positive note but warns about "nationalism and vaccine hoarding". 
  <p class="updated_time"> 12:57 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/americas/quebec-new-years-eve-curfew.html">Quebec Government Faces Backlash Over New Year’s Eve Curfew</a> NYT: Residents who leave their homes past 10 p.m. could face fines of up to $4,750. 
  <p class="updated_time"> 12:55 PM CT, Dec. 31 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59841816?at_medium=RSS&at_campaign=KARANGA">New Year's Eve: Firework displays welcome 2022</a> BBC: Celebrations are under way across the world to usher in the New Year. 
  <p class="updated_time"> 11:32 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/31/1069476889/omicron-south-africa">As omicron heats up in the U.S., South Africa says its wave is on the way out</a> NPR: The variant caused fewer deaths and less severe infections than past versions of the virus in South Africa, but that could be different in other countries. 
- <p class="updated_time"> 11:06 AM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-59840513?at_medium=RSS&at_campaign=KARANGA">Covid-19: WHO chief optimistic disease will be beaten in 2022</a> BBC: The organisation ends the year on a positive note but warns about "nationalism and vaccine hoarding". 
  <p class="updated_time"> 10:53 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069489082/desmond-tutu-funeral">South Africans line up to pay their last respects to Desmond Tutu</a> NPR: South Africans from all corners of retired Archbishop Desmond Tutu's "rainbow nation" filed past his pine casket in Cape Town. The viewing line at St. George's Cathedral stretched for nearly a mile. 
  <p class="updated_time"> 10:46 AM CT, Dec. 31 </p> 
