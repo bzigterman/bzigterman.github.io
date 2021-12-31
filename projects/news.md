@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:34 PM CT, Dec. 31 </p> 
+ <p class="updated_time"> 05:09 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Wave Dampens New Year’s Eve, Studies Provide Glimmer of Hope</a> NYT: Many countries marked 2021 with subdued celebrations, as the British government released data showing people with Omicron were less likely to need hospitalization and animal studies suggested the variant spares the lungs. 
+ <p class="updated_time"> 04:50 PM CT, Dec. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59843697?at_medium=RSS&at_campaign=KARANGA">French ban on plastic packaging for fruit and vegetables begins</a> BBC: Effective from New Year's day, officials hope the law will prevent a billion items of single use plastics every year. 
  <p class="updated_time"> 04:01 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
  <p class="updated_time"> 03:56 PM CT, Dec. 31 </p> 
@@ -49,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59841815?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Rape survivor describes 'locking eyes' with Maxwell in court</a> BBC: Sarah Ransome says Maxwell was the "enforcer" in the sexual abuse that was carried out by Maxwell and Epstein. 
  <p class="updated_time"> 10:45 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/africa/uganda-congo-rebels-adf.html">Why Did Uganda Send Troops Into Congo?</a> NYT: The Ugandan government says it is targeting rebels it accuses of terrorist attacks in Kampala. Many Congolese fear the incursion is cover for yet another plundering of their country. 
- <p class="updated_time"> 10:27 AM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/health-59840524?at_medium=RSS&at_campaign=KARANGA">Covid booster 88% effective against hospital treatment with Omicron</a> BBC: UK health officials said the latest data reinforces the importance of getting a third dose. 
  <p class="updated_time"> 10:09 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069472217/new-years-eve-omicron">As the world marks New Year's Eve, celebrations are muted by omicron</a> NPR: In many places, New Year's Eve celebrations were muted or canceled for the second straight year due to a surge of coronavirus infections, this time driven by the highly contagious omicron variant. 
  <p class="updated_time"> 10:08 AM CT, Dec. 31 </p> 
@@ -196,6 +196,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:00 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/us/politics/john-roberts-supreme-court.html">Chief Justice Roberts Reflects on Conflicts, Harassment and Judicial Independence</a> NYT: In his year-end report, the chief justice said that the court administrators, not Congress, should address financial conflicts and workplace misconduct in the judicial system. 
+ <p class="updated_time"> 05:00 PM CT, Dec. 31 </p> 
+ <a href="https://www.cnn.com/2021/12/31/politics/john-roberts-year-end-report-supreme-court-federal-courts/index.html">Roberts pushes for judiciary's continued independence in year-end report</a> CNN: Chief Justice John Roberts stressed the importance of the judiciary's institutional independence Friday in an annual report that comes as the Supreme Court is considering some of the most important issues of the day, and critics are seeking to dilute the court's conservative majority. 
  <p class="updated_time"> 04:27 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/ayanna-pressley-covid/index.html">Rep. Ayanna Pressley tests positive for Covid-19</a> CNN: Rep. Ayanna Pressley, a Massachusetts Democrat, announced Friday she tested positive for Covid-19 and is experiencing mild symptoms. 
  <p class="updated_time"> 03:43 PM CT, Dec. 31 </p> 
@@ -372,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/27/biden-governors-omicron-surge-526175">Biden looks to reassure governors amid Omicron surge and long lines for tests</a> Politico: Biden acknowledged the shortages that hit several states ahead of the holidays, conceding that he had not done enough to prepare for the rising demand. 
  <p class="updated_time"> 09:36 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/27/the-view-struggles-to-find-a-republican-495553"> ‘The View’ struggles to find a Republican</a> Politico Playbook: And coronavirus cases spike to record levels across the world. 
- <p class="updated_time"> 08:37 AM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/science/russia-nasa-spacex-asat.html">NASA-Russia Alliance Is Shaken by Events on Planet Earth</a> NYT: The relationship between the nations’ space agencies is facing a series of difficult tests, including an antisatellite weapon and friction over Ukraine. 
  <p class="updated_time"> 11:56 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/news/2021/12/26/cardin-senate-build-back-better-526154">Maryland senator sees possible comeback for Build Back Better</a> Politico: “There is unanimity in our caucus that we want to get a bill to the president,” Ben Cardin said. 
  <p class="updated_time"> 10:56 AM CT, Dec. 26 </p> 
