@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:16 PM CT, Dec. 31 </p> 
+ <p class="updated_time"> 04:34 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Wave Dampens New Year’s Eve, Studies Provide Glimmer of Hope</a> NYT: Many countries marked 2021 with subdued celebrations, as the British government released data showing people with Omicron were less likely to need hospitalization and animal studies suggested the variant spares the lungs. 
  <p class="updated_time"> 04:01 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:27 PM CT, Dec. 31 </p> 
+ <a href="https://www.cnn.com/2021/12/31/politics/ayanna-pressley-covid/index.html">Rep. Ayanna Pressley tests positive for Covid-19</a> CNN: Rep. Ayanna Pressley, a Massachusetts Democrat, announced Friday she tested positive for Covid-19 and is experiencing mild symptoms. 
  <p class="updated_time"> 03:43 PM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/fdic-chair-jelena-mcwilliams-to-resign-526295">FDIC’s GOP chair to resign after partisan brawl</a> Politico: Jelena McWilliams on Friday unexpectedly submitted her resignation. 
  <p class="updated_time"> 03:11 PM CT, Dec. 31 </p> 
