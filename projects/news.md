@@ -7,16 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:30 AM CT, Dec. 31 </p> 
+ <p class="updated_time"> 06:58 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Covid Wave Dampens New Year Observances Worldwide</a> NYT: Countries rattled by Omicron mark the end of 2021 with subdued celebrations, or none at all. In Australia, Sydney’s annual fireworks show went on, but other cities canceled festivities. 
- <p class="updated_time"> 06:11 AM CT, Dec. 31 </p> 
+ <p class="updated_time"> 06:55 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/tesla-batteries-nickel-new-caledonia.html">Can a Sustainable Mining Experiment in New Caledonia Power Tesla's Ambitions?</a> NYT: Nickel is vital to electric car batteries, but extracting it is dirty and destructive. A plant with a turbulent history in New Caledonia is about to become an experiment in doing it better. 
  <p class="updated_time"> 06:03 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/paris-masks-outdoors-omicron.html">Paris Reimposes Outdoor Mask Mandate as Omicron Soars</a> NYT: With more than 2,000 coronavirus cases per 100,000 people, the capital has become the center of France’s spreading Omicron outbreak. 
  <p class="updated_time"> 04:36 AM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59837697?at_medium=RSS&at_campaign=KARANGA">Colorado Wildfires: Thousands evacuated as buildings burn</a> BBC: Around 30,000 people have been evacuated as wildfires sweep across US state of Colorado. 
- <p class="updated_time"> 04:03 AM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/eric-adams-nye-times-square.html">Eric Adams to Be Sworn In on New Year's Eve in Times Square</a> NYT: The incoming mayor has made a point of reveling in New York’s nightlife, something that he has cast as boosterism for the city’s struggling club and restaurant scene. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59837697?at_medium=RSS&at_campaign=KARANGA">Colorado Wildfires: Thousands evacuated as buildings burn</a> BBC: Around 30,000 people have been evacuated as wildfires sweep across the US state of Colorado. 
  <p class="updated_time"> 03:43 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069428211/parents-selling-children-shows-desperation-in-afghanistan">Parents selling children shows desperation in Afghanistan</a> NPR: Many of Afghanistan's growing number of destitute people are making desperate decisions as their nation spirals into a deeper poverty. 
  <p class="updated_time"> 03:39 AM CT, Dec. 31 </p> 
@@ -39,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/europe/covid-france-omicron-vaccines.html">Omicron Strains France’s Social Contract on Covid</a> NYT: President Emmanuel Macron won people over by promising normalcy if they followed Covid advice. Now Omicron has raised questions about whether he, or any leader, can deliver on that. 
  <p class="updated_time"> 11:36 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/31/1069412844/asia-looks-to-china-focused-trade-bloc-for-virus-recovery">Asia looks to China-focused trade bloc for virus recovery</a> NPR: Members of the 15-member Regional and Comprehensive Economic Partnership, or RCEP, include China, Japan and South Korea. The new trading bloc does not include the U.S. or India. 
+ <p class="updated_time"> 11:30 PM CT, Dec. 30 </p> 
+ <a href="https://www.wsj.com/articles/inside-europes-cocaine-gateway-a-repeat-of-miami-in-the-1980s-11640946603">Inside Antwerp, Europe's Cocaine Gateway</a> WSJ: Authorities in Antwerp have seized 88 metric tons of cocaine stashed in containers from Latin America this year, nearly 10 times the figure in 2014. It is far more than any other European port. 
  <p class="updated_time"> 10:51 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/japan-arson.html">Suspect in Deadly Arson Fire in Osaka, Japan, Dies in Hospital</a> NYT: The suspect, a 61-year-old man, had been hospitalized for smoke inhalation since the Dec. 17 fire at a psychiatric clinic, which killed 25 other people. 
  <p class="updated_time"> 10:30 PM CT, Dec. 30 </p> 
@@ -165,6 +165,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068753263/fresh-air-remembers-archbishop-desmond-tutu">'Fresh Air' remembers Archbishop Desmond Tutu</a> NPR: The South African leader was key to the anti-apartheid movement. He chaired the Truth and Reconciliation Commission and preached forgiveness. Tutu died Dec. 26. Originally broadcast in '84 and '99. 
  <p class="updated_time"> 12:44 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/29/1066718893/kevin-dawes-sues-syria">An American was locked up in Syria. A pact with a British inmate may have saved him</a> NPR: Kevin Dawes describes how a fellow prisoner in Syria kept a promise that called attention to Dawes' detention. Now, five years after his release, Dawes is suing the Syrian regime. 
+ <p class="updated_time"> 12:07 PM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/2021/12/29/world/asia/singapore-vaccination-fraud-malaysia.html">Singapore charges a man accused of lending out his vaccination record, and other international news.</a> NYT: A 65-year-old used the records of a 37-year-old to pretend he had been fully vaccinated, court indictments said. 
  <p class="updated_time"> 11:20 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/middleeast/israel-avian-flu.html">Israel's Avian Flu Outbreak Has Killed Thousands of Cranes</a> NYT: Thousands of migratory cranes have died and more than half a million chickens have been culled as the country tries to contain a deadly bird virus. 
  <p class="updated_time"> 10:41 AM CT, Dec. 29 </p> 
@@ -358,10 +360,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/24/biden-lifts-africa-travel-ban-526133">Biden administration to lift travel ban from south African countries Dec. 31</a> Politico: Administration officials at the time said the ban would buy time for health officials to learn more about the Omicron variant. 
  <p class="updated_time"> 09:17 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/24/tis-the-season-of-year-end-lists-495550"> ’Tis the season of year-end lists</a> Politico Playbook: And the U.S. lifts travel restrictions on southern Africa. 
- <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
- <a href="https://www.politico.com/news/2021/12/24/biden-rural-evictions-526089">Biden’s about to adopt a policy that could hurt Dems even more with rural voters</a> Politico: About half of the $46.5 billion in federal rental aid made available during the pandemic is expected to be spent by the end of this year. 
- <p class="updated_time"> 07:00 AM CT, Dec. 24 </p> 
- <a href="https://www.politico.com/news/2021/12/24/biden-social-spending-senate-parliamentarian-526081">Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</a> Politico: The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan. 
 
 
 </details>
