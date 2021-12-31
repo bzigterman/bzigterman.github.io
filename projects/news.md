@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:36 PM CT, Dec. 30 </p> 
+ <a href="https://www.npr.org/2021/12/31/1069412844/asia-looks-to-china-focused-trade-bloc-for-virus-recovery">Asia looks to China-focused trade bloc for virus recovery</a> NPR: Members of the 15-member Regional and Comprehensive Economic Partnership, or RCEP, include China, Japan and South Korea. The new trading bloc does not include the U.S. or India. 
  <p class="updated_time"> 10:54 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/12/30/world/omicron-covid-vaccine-tests">Covid Updates: South Africa Says Its Omicron Wave Has Passed With No Big Spike in Deaths</a> NYT: The announcement offers cautious hope to other countries grappling with the fast-spreading variant. The U.S. hits yet another record for new daily virus cases. 
  <p class="updated_time"> 10:51 PM CT, Dec. 30 </p> 
@@ -169,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068696336/hong-kong-police-raid-pro-democracy-news-outlet-arrest-6">Hong Kong pro-democracy news site closes after raid, arrests</a> NPR: A vocal pro-democracy website in Hong Kong shut down Wednesday after police raided its office and arrested six in a continuing crackdown on dissent. 
  <p class="updated_time"> 11:51 PM CT, Dec. 28 </p> 
  <a href="https://www.npr.org/2021/12/29/1068691821/asia-is-keeping-omicron-at-bay-but-a-surge-may-be-inevitable">Asia is keeping omicron at bay, but a surge may be inevitable</a> NPR: Much of Asia has managed to keep omicron in check even as the variant rages elsewhere, but the region that is home to most of the globe's population is bracing for what may be an inevitable surge. 
- <p class="updated_time"> 11:25 PM CT, Dec. 28 </p> 
- <a href="https://www.npr.org/2021/12/29/1068685421/nfl-hall-of-fame-coach-and-iconic-sports-broadcaster-john-madden-dies-at-85">NFL Hall of Fame coach and iconic sports broadcaster John Madden dies at 85</a> NPR: For 10 seasons, John Madden led the Oakland Raiders as head coach. After his retirement, he became a legendary NFL commentator for three decades. 
  <p class="updated_time"> 10:47 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/books/keri-hulme-dead.html">Keri Hulme, New Zealand’s First Booker Prize Winner, Dies at 74</a> NYT: The power Ms. Hulme drew from her Maori heritage shone through in her work, especially in “The Bone People,” which won the literary prize in 1985. 
 
