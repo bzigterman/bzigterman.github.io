@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:09 PM CT, Dec. 31 </p> 
+ <p class="updated_time"> 01:31 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Wave Dampens New Year’s Eve, Studies Provide Glimmer of Hope</a> NYT: Many countries marked 2021 with subdued celebrations, as the British government released data showing people with Omicron were less likely to need hospitalization and animal studies suggested the variant spares the lungs. 
  <p class="updated_time"> 12:57 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/americas/quebec-new-years-eve-curfew.html">Quebec Government Faces Backlash Over New Year’s Eve Curfew</a> NYT: Residents who leave their homes past 10 p.m. could face fines of up to $4,750. 
@@ -192,7 +192,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:59 PM CT, Dec. 31 </p> 
+ <p class="updated_time"> 01:33 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/biden-volodymyr-zelensky-call-ukraine/index.html">Biden to speak with Zelensky as US warns against Russian invasion of Ukraine</a> CNN: President Joe Biden will speak with Ukrainian President Volodymyr Zelensky on Sunday, several days after Biden urged Russian President Vladimir Putin to ease an unremitting military crisis on Ukraine's border. 
  <p class="updated_time"> 12:28 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/republican-judiciary-committee-deletes-tweet-covid-vaccine-disinfo/index.html">House GOP committee deletes tweet spreading disinformation about Covid-19 booster shots </a> CNN: Republicans on the House Judiciary Committee deleted a tweet Friday morning that spread disinformation about Covid-19 booster shots. 
