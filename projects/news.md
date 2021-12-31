@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:01 AM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Covid Wave Dampens New Year Observances Worldwide</a> NYT: Countries rattled by Omicron mark the end of 2021 with subdued celebrations, or none at all. In Australia, Sydney’s annual fireworks show went on, but other cities canceled festivities. 
  <p class="updated_time"> 07:31 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/middleeast/israel-mount-sinai-burning-bush.html">Is That a Burning Bush? Is This Mt. Sinai? Solstice Bolsters a Claim</a> NYT: On the year’s shortest day, hundreds of Israelis ventured deep into the desert to witness a strange natural phenomenon atop an ancient pilgrimage site that some argue is where God spoke to Moses. 
- <p class="updated_time"> 07:29 AM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Covid Wave Dampens New Year Observances Worldwide</a> NYT: Countries rattled by Omicron mark the end of 2021 with subdued celebrations, or none at all. In Australia, Sydney’s annual fireworks show went on, but other cities canceled festivities. 
  <p class="updated_time"> 07:28 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59834897?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Tens of thousands evacuated as blazes spread</a> BBC: Some 30,000 people north of Denver are told to leave their homes and a state of emergency is declared. 
  <p class="updated_time"> 06:55 AM CT, Dec. 31 </p> 
@@ -76,7 +76,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:20 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59834211?at_medium=RSS&at_campaign=KARANGA">Avoid cruises even if vaccinated, CDC tells Americans</a> BBC: It says there has been an increase in onboard cases since the emergence of the Omicron variant. 
  <p class="updated_time"> 03:23 PM CT, Dec. 30 </p> 
- <a href="https://www.wsj.com/articles/biden-putin-talk-as-russian-leader-seeks-to-redraw-european-security-arrangements-11640888728">Biden, Putin Warn of Danger to Relations if Crisis Over Ukraine Escalates</a> WSJ: In a 50-minute conference call, President Biden renewed a warning to his Russian counterpart that Moscow would face punishing economic sanctions if it turned away from diplomacy and attacked Ukraine. 
+ <a href="https://www.wsj.com/articles/biden-putin-talk-as-russian-leader-seeks-to-redraw-european-security-arrangements-11640888728">Biden, Putin Warn of Danger to Relations if Ukraine Crisis Escalates</a> WSJ: In a 50-minute conference call, President Biden renewed a warning to his Russian counterpart that Moscow would face punishing economic sanctions if it turned away from diplomacy and attacked Ukraine. 
  <p class="updated_time"> 03:18 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069273197/president-biden-speaks-with-russian-president-vladimir-putin-as-ukraine-tensions">President Biden speaks with Russian President Vladimir Putin as Ukraine tensions rise</a> NPR: President Biden spoke with Russian President Vladimir Putin in a call Thursday as tensions mount between the Ukraine and Russia. The White House says it's "gravely concerned" about the situation. 
  <p class="updated_time"> 03:00 PM CT, Dec. 30 </p> 
@@ -232,6 +232,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/30/1065756732/manhattan-da-cyrus-vance-reflects-on-trump-and-weinstein-cases-as-he-leaves-offi">Manhattan DA Cyrus Vance reflects on Trump and Weinstein cases as he leaves office</a> NPR: Manhattan District Attorney Cyrus Vance looks back on a career of big-name cases, including cases against the Trump Organization and Harvey Weinstein. 
  <p class="updated_time"> 03:00 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1068322276/notable-deaths-2021">Remembering some of those we lost in 2021, from literary legends to everyday heroes</a> NPR: 2021 was filled with tremendous loss, from staggering COVID deaths to those of leading writers such as Joan Didion and bell hooks to a longtime abortion activist and politicians who shaped our world. 
+ <p class="updated_time"> 02:31 PM CT, Dec. 30 </p> 
+ <a href="https://www.politico.com/news/2021/12/30/peter-thiel-donald-trump-jr-fundraiser-cheney-challenger-526268">Peter Thiel, Donald Trump Jr. to co-host fundraisers for Cheney challenger</a> Politico: The tech billionaire is holding two events at his Miami home benefiting Wyoming Republican Harriet Hageman. 
  <p class="updated_time"> 01:03 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069143123/expanded-child-tax-credit-expires-friday-congress">The expanded child tax credit expires Friday after Congress failed to renew it</a> NPR: Because the Build Back Better agenda was not passed by the Senate before the end of the year, the last payment of the expanded child tax credit program went out this month. 
  <p class="updated_time"> 12:43 PM CT, Dec. 30 </p> 
@@ -258,6 +260,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/30/1069048017/michigan-paid-8-5-billion-in-fraudulent-jobless-claims-during-the-pandemic">Michigan paid up to $8.5 billion in fraudulent jobless claims during the pandemic</a> NPR: Other states have reported similar losses. Ohio reported it paid out more than $3.8 billion in fraudulent jobless aid. California has paid out at least $20 billion. 
  <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-administration-shifting-covid-guidance/index.html">Analysis: Biden administration signals pandemic strategy shift in the face of Omicron </a> CNN: America is plunging into a fast-worsening and frightening winter bout with Covid-19 that will leave few citizens and communities untouched. But as the highly transmissible Omicron variant roars across the country, the Biden administration is revealing the most tangible signs of a shifting pandemic strategy several weeks in the making. It is preparing a nation exhausted by two years of battling the invisible enemy to live more feasibly alongside it. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
+ <a href="https://www.politico.com/news/2021/12/30/mark-walker-north-carolina-trump-526235">Former GOP congressman faces Trump squeeze in key Senate race</a> Politico: Former Rep. Mark Walker's looming decision: whether to drop down and run in a House primary, or continue his uphill bid against a Trump-endorsed rival. 
  <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/omicron-economic-slide-women-526257">‘Two steps forward, one step back’: Omicron threatens new economic slide for women</a> Politico: Unexpected school closures and reinstated lockdowns, on top of a crippled child care industry, could reverse what progress women have made since the pandemic abated earlier this year. 
  <p class="updated_time"> 04:07 AM CT, Dec. 30 </p> 
@@ -336,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/28/bunny-mellons-millions-at-play-in-dc-divorce-495554"> Bunny Mellon’s millions at play in D.C. divorce</a> Politico Playbook: And the CDC Monday shortened the isolation period for people who test positive for Covid-19 and are asymptomatic 
  <p class="updated_time"> 08:58 AM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/january-6-committee-interim-report-summer-2022/index.html">January 6 committee eyes interim report by summer 2022</a> CNN: The House select committee investigating the January 6 Capitol Hill riot is working toward a goal of releasing an interim report with initial findings by the summer, a committee aide told CNN, and that a final report would follow in fall 2022. 
- <p class="updated_time"> 04:42 PM CT, Dec. 27 </p> 
- <a href="https://www.politico.com/news/2021/12/27/cdc-cut-quarantine-covid-omicron-526187">CDC cuts recommended quarantine time amid Omicron surge</a> Politico: The reduction follows the CDC’s move last week to shorten its isolation period for infected health care workers, assuming they are asymptomatic and later test negative. 
  <p class="updated_time"> 04:20 PM CT, Dec. 27 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/biden-defense-bill.html">President Biden Signs $770 Billion Defense Bill</a> NYT: The National Defense Authorization Act passed Congress with bipartisan support, over the opposition of liberals pushing for more social spending. 
  <p class="updated_time"> 03:19 PM CT, Dec. 27 </p> 
@@ -364,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/25/biden-puerto-rico-electricity-network-526102">Puerto Rico’s shattered power grid could become a ‘big experiment’ for Biden</a> Politico: The crumbling electricity network that serves the island's 3 million people is at the center of a debate on renewable energy vs. fossil fuels — with billions of federal dollars at stake. 
  <p class="updated_time"> 06:10 PM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/news/2021/12/24/project-veritas-new-york-times-526137">Judge blocks New York Times on Project Veritas coverage</a> Politico: The Times was also ordered to return or delete relevant documents. 
- <p class="updated_time"> 10:36 AM CT, Dec. 24 </p> 
- <a href="https://www.politico.com/news/2021/12/24/biden-lifts-africa-travel-ban-526133">Biden administration to lift travel ban from south African countries Dec. 31</a> Politico: Administration officials at the time said the ban would buy time for health officials to learn more about the Omicron variant. 
  <p class="updated_time"> 09:17 AM CT, Dec. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/24/tis-the-season-of-year-end-lists-495550"> ’Tis the season of year-end lists</a> Politico Playbook: And the U.S. lifts travel restrictions on southern Africa. 
 
