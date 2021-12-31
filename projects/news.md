@@ -61,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59763425?at_medium=RSS&at_campaign=KARANGA">Cape Verde: Drone delivers medical supplies to remote islands</a> BBC: Computer scientist Erico Pinheiro has invented a drone system to deliver medical supplies to the remote communities of his island nation Cape Verde. 
  <p class="updated_time"> 06:07 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59726291?at_medium=RSS&at_campaign=KARANGA">2021 viral videos: The social media moments India celebrated</a> BBC: From the 'pawri' girl to the tiny Covid warrior, here are the social media moments India celebrated. 
+ <p class="updated_time"> 05:56 PM CT, Dec. 30 </p> 
+ <a href="https://www.wsj.com/articles/chinas-manufacturing-sector-shows-signs-of-strength-11640926572">China's Manufacturing Sector Shows Signs of Strength</a> WSJ: Beijing attributed the pickup to a drop in commodity prices after governmental intervention to stabilize supply and prices. 
  <p class="updated_time"> 05:48 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-covid-omicron-london-england.html">UK, With Surging Covid-19 Cases, is On '‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
  <p class="updated_time"> 05:24 PM CT, Dec. 30 </p> 
@@ -71,6 +73,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/obituaries/deaths-in-2021-headline-names-against-the-backdrop-of-pandemic.html">Deaths in 2021: Headline Names Against the Backdrop of Pandemic</a> NYT: Aaron, Sondheim, Dole and Didion. But the loss of Colin Powell from the virus spoke most directly to the moment the world is in. 
  <p class="updated_time"> 04:20 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59834211?at_medium=RSS&at_campaign=KARANGA">Avoid cruises even if vaccinated, CDC tells Americans</a> BBC: It says there has been an increase in onboard cases since the emergence of the Omicron variant. 
+ <p class="updated_time"> 03:23 PM CT, Dec. 30 </p> 
+ <a href="https://www.wsj.com/articles/biden-putin-talk-as-russian-leader-seeks-to-redraw-european-security-arrangements-11640888728">Biden, Putin Warn of Danger to Relations if Crisis Over Ukraine Escalates</a> WSJ: In a 50-minute conference call, President Biden renewed a warning to his Russian counterpart that Moscow would face punishing economic sanctions if it turned away from diplomacy and attacked Ukraine. 
  <p class="updated_time"> 03:18 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069273197/president-biden-speaks-with-russian-president-vladimir-putin-as-ukraine-tensions">President Biden speaks with Russian President Vladimir Putin as Ukraine tensions rise</a> NPR: President Biden spoke with Russian President Vladimir Putin in a call Thursday as tensions mount between the Ukraine and Russia. The White House says it's "gravely concerned" about the situation. 
  <p class="updated_time"> 03:00 PM CT, Dec. 30 </p> 
@@ -91,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/asia/ashraf-ghani-bbc-interview.html">Ashraf Ghani, Former Afghan President, Says He Fled Nation to 'Save Kabul'</a> NYT: In his first interview since escaping Afghanistan as the Taliban advanced on the capital, Ashraf Ghani defended himself against charges that he abandoned his country in its hour of need. 
  <p class="updated_time"> 11:53 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/the-us-breaks-its-single-day-case-record-nearly-doubling-the-highest-numbers-from-last-winter.html">The U.S. breaks its single-day case record, nearly doubling the highest numbers from last winter.</a> NYT: The new daily case total topped 488,000 on Wednesday, according to a New York Times database. 
- <p class="updated_time"> 11:52 AM CT, Dec. 30 </p> 
- <a href="https://www.wsj.com/articles/who-warns-that-shorter-quarantines-are-trade-off-as-omicron-surges-11640864511">U.S. Hits Record Number of New Covid Cases Twice in Same Week</a> WSJ: The Omicron surge is continuing as governments around the world ease self-isolation rules. 
  <p class="updated_time"> 11:28 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/arts/music/sam-fender.html">Sam Fender, a Songwriter Caught Between Stardom and His Hometown</a> NYT: The musician is fast becoming one of Britain’s biggest rock acts with tracks about working class life in North Shields. Can he let himself leave the town? 
  <p class="updated_time"> 11:19 AM CT, Dec. 30 </p> 
@@ -129,14 +131,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/europe/most-popular-dispatches-2021.html">In 2021, We Were There: The Year’s 14 Most Popular Dispatches</a> NYT: Not even a pandemic, wars or autocrats could prevent our correspondents from seeking out secrets and surprises to share with readers. They sent dispatches from 40 countries on six continents. 
  <p class="updated_time"> 02:14 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069021763/hong-kong-police-charge-2-from-pro-democracy-news-outlet-with-sedition">Hong Kong police charge 2 from pro-democracy news outlet with sedition</a> NPR: Hong Kong police on Thursday formally charged two people from a pro-democracy news outlet with sedition, a day after it said it would cease operations after a police raid and seven arrests. 
- <p class="updated_time"> 01:51 AM CT, Dec. 30 </p> 
- <a href="https://www.wsj.com/articles/suspect-in-japan-fire-that-killed-25-people-dies-from-injuries-11640868676">Suspect in Japan Fire That Killed 25 Dies From Injuries</a> WSJ: The blaze at an Osaka mental-health clinic earlier this month was one of the deadliest in modern Japanese history. 
- <p class="updated_time"> 11:48 PM CT, Dec. 29 </p> 
- <a href="https://www.wsj.com/articles/omicron-roils-australias-exit-from-zero-covid-strategy-11640861284">Omicron Roils Australia's Exit From Zero-Covid Strategy</a> WSJ: Australia’s struggles could presage similar challenges in Asian countries that have tried to eliminate Covid-19 or keep cases low. 
  <p class="updated_time"> 11:40 PM CT, Dec. 29 </p> 
  <a href="https://www.npr.org/2021/12/30/1069012597/the-myanmar-military-is-employing-a-familiar-strategy-of-massacres-and-burnings">The Myanmar military is employing a familiar strategy of massacres and burnings</a> NPR: The massacres and scorched-earth tactics represent the latest escalation in the military's violence against both civilians and the growing opposition to the military's February coup. 
- <p class="updated_time"> 11:30 PM CT, Dec. 29 </p> 
- <a href="https://www.wsj.com/articles/u-s-sanctions-push-iran-and-afghanistans-taliban-together-11640860210">U.S. Sanctions Push Afghanistan and Iran Together</a> WSJ: Tehran and the Taliban, once bitter foes, are finding common cause under the weight of economic pressures, though water supply and drug smuggling are keeping up tensions at the border. 
  <p class="updated_time"> 09:08 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/connecticut-gun-threat-covid-testing-site.html">Testing Site in Connecticut Is Forced to Close After Gun Threat</a> NYT: Another location nearby also shut down after the crowd grew agitated. 
  <p class="updated_time"> 07:55 PM CT, Dec. 29 </p> 
@@ -239,7 +235,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:14 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/cnn-january-6th-one-year-later/index.html">CNN to air 'Live from the Capitol: January 6th, One Year Later' marking 1-year anniversary of insurrection</a> CNN: Several lawmakers and members of the law enforcement community tasked with protecting the US Capitol will mark the one-year anniversary of the deadly insurrection there next month during a live event hosted by CNN, the network announced Thursday. 
  <p class="updated_time"> 08:31 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Michigan’s New Congressional Maps Undo Years of Gerrymandering</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
+ <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Ungerrymandered: Michigan’s Maps, Independently Drawn, Set Up Fair Fight</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
  <p class="updated_time"> 08:17 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Biden administration results in more of the same Trump immigration policies</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
  <p class="updated_time"> 07:56 AM CT, Dec. 30 </p> 
@@ -297,9 +293,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights and the Battle Over Elections: What to Know</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
- <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/mask-mandate-fines-greene-clyde.html">Greene and Clyde Rack Up Fines for Defying House’s Mask Mandate</a> NYT: Representatives Marjorie Taylor Greene and Andrew Clyde have incurred more than $100,000 combined in penalties for dozens of violations. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
+ <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights Tracker: What to Know About the U.S. Elections Fight</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
  <p class="updated_time"> 10:16 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, Senate Majority Leader Behind Landmark Democratic Victories, Dies at 82</a> NYT: Mr. Reid, who was from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
  <p class="updated_time"> 09:54 PM CT, Dec. 28 </p> 
