@@ -11,6 +11,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/eric-adams-nye-times-square.html">Eric Adams to Be Sworn In on New Year's Eve in Times Square</a> NYT: The incoming mayor has made a point of reveling in New York’s nightlife, something that he has cast as boosterism for the city’s struggling club and restaurant scene. 
  <p class="updated_time"> 03:43 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069428211/parents-selling-children-shows-desperation-in-afghanistan">Parents selling children shows desperation in Afghanistan</a> NPR: Many of Afghanistan's growing number of destitute people are making desperate decisions as their nation spirals into a deeper poverty. 
+ <p class="updated_time"> 03:39 AM CT, Dec. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59835127?at_medium=RSS&at_campaign=KARANGA">Omicron: Third wave looms as India Covid cases spike</a> BBC: Major cities such as Mumbai, Delhi and Kolkata are recording a sharp daily jump in coronavirus cases. 
+ <p class="updated_time"> 03:33 AM CT, Dec. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59824916?at_medium=RSS&at_campaign=KARANGA">Xi'an: Cries for help and food in quarantined Chinese city</a> BBC: Officials say there are adequate supplies, but some in Xi'an say they do not have enough to eat. 
  <p class="updated_time"> 03:15 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/europe/russia-memorial-human-rights-center.html">As the Kremlin Revises History, a Human Rights Champion Becomes a Casualty</a> NYT: The shuttering of Memorial, the country’s most prominent human rights organization, has saddened Russians who were personally touched by its work shining a light on the injustices of the Soviet past. 
  <p class="updated_time"> 03:03 AM CT, Dec. 31 </p> 
@@ -31,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/31/1069412844/asia-looks-to-china-focused-trade-bloc-for-virus-recovery">Asia looks to China-focused trade bloc for virus recovery</a> NPR: Members of the 15-member Regional and Comprehensive Economic Partnership, or RCEP, include China, Japan and South Korea. The new trading bloc does not include the U.S. or India. 
  <p class="updated_time"> 10:51 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/japan-arson.html">Suspect in Deadly Arson Fire in Osaka, Japan, Dies in Hospital</a> NYT: The suspect, a 61-year-old man, had been hospitalized for smoke inhalation since the Dec. 17 fire at a psychiatric clinic, which killed 25 other people. 
+ <p class="updated_time"> 10:30 PM CT, Dec. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59824915?at_medium=RSS&at_campaign=KARANGA">Bangladesh: Women-only beach scrapped after social media outcry</a> BBC: Critics accused the government of pandering to hardline Islamist groups in the country. 
  <p class="updated_time"> 10:25 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/israel-4th-dose-covid-vaccine.html">Israel Approves 4th Dose of Covid Vaccine for Some</a> NYT: The Ministry of Health said it was waiting for more data from Israel and abroad before approving any broader rollout of fourth shots. 
  <p class="updated_time"> 10:14 PM CT, Dec. 30 </p> 
@@ -65,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/obituaries/deaths-in-2021-headline-names-against-the-backdrop-of-pandemic.html">Deaths in 2021: Headline Names Against the Backdrop of Pandemic</a> NYT: Aaron, Sondheim, Dole and Didion. But the loss of Colin Powell from the virus spoke most directly to the moment the world is in. 
  <p class="updated_time"> 04:20 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59834211?at_medium=RSS&at_campaign=KARANGA">Avoid cruises even if vaccinated, CDC tells Americans</a> BBC: It says there has been an increase in onboard cases since the emergence of the Omicron variant. 
- <p class="updated_time"> 03:56 PM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59833156?at_medium=RSS&at_campaign=KARANGA">Teva Pharmaceuticals found liable in New York opioid trial</a> BBC: A New York State jury has found the drug maker help fuel the state's deadly opioid epidemic. 
  <p class="updated_time"> 03:18 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069273197/president-biden-speaks-with-russian-president-vladimir-putin-as-ukraine-tensions">President Biden speaks with Russian President Vladimir Putin as Ukraine tensions rise</a> NPR: President Biden spoke with Russian President Vladimir Putin in a call Thursday as tensions mount between the Ukraine and Russia. The White House says it's "gravely concerned" about the situation. 
  <p class="updated_time"> 03:00 PM CT, Dec. 30 </p> 
@@ -95,10 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/americas/mexico-cruises.html">Mexico Says It will Allow Cruise Ships With Covid Cases to Dock</a> NYT: The Latin American nation is among the few in the world to have imposed no restrictions or testing requirements for travelers. 
  <p class="updated_time"> 10:30 AM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/30/1068920127/the-goal-at-least-40-vaxxed-in-all-nations-by-year-end-this-map-shows-how-we-sta">The goal: at least 40% vaxxed in all nations by year-end. This map shows how we stand</a> NPR: The program called COVAX was set up to make sure that all countries have access to COVID vaccines. Two key public health figures talk about what went wrong — and how to fix it. 
- <p class="updated_time"> 10:29 AM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59818800?at_medium=RSS&at_campaign=KARANGA">Tesla to recall 475,000 cars in the US</a> BBC: The number of cars being recalled is nearly equivalent to the firm's global deliveries last year. 
- <p class="updated_time"> 09:37 AM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59826091?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu's body lies in state in his old cathedral</a> BBC: South Africa's revered clergyman, who has died aged 90, asked for "lavish spending" to be avoided. 
  <p class="updated_time"> 09:18 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/india-third-wave-covid.html">India Fears a Third Wave of Covid, Driven by Omicron</a> NYT: The health ministry recorded more than 13,000 new cases in a day, one of the highest daily totals since October. 
  <p class="updated_time"> 08:53 AM CT, Dec. 30 </p> 
