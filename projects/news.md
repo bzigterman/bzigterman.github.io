@@ -13,6 +13,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/world/europe/pontifical-oriental-institute-digital-texts.html">A Vatican Library Shortens the Distance Between Its Works and Its Scholars</a> NYT: Rare books in Rome are going online thanks to a German copier, a Long Island scanning firm and a New York software company. 
  <p class="updated_time"> 10:38 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
+ <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59848160?at_medium=RSS&at_campaign=KARANGA">Coronavirus pandemic: Antarctic outpost hit by Covid-19 outbreak</a> BBC: Two-thirds of staff at the station are infected but officials say the situation is not serious. 
  <p class="updated_time"> 10:15 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069630495/tutu-state-funeral-south-africa">At his funeral, Tutu is remembered for helping end apartheid and championing rights</a> NPR: "Archbishop Desmond Tutu has been our moral compass and national conscience," South African President Cyril Ramaphosa said in a eulogy at Tutu's state funeral on Saturday. 
  <p class="updated_time"> 10:03 AM CT, Jan. 01 </p> 
@@ -117,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/middleeast/asma-khader-dead.html">Asma Khader, Fighter for Women’s Rights in Jordan, Dies at 69</a> NYT: A respected lawyer, she focused on the victims of domestic violence and also worked hard to change discriminatory laws. 
  <p class="updated_time"> 08:36 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/sport/59838168?at_medium=RSS&at_campaign=KARANGA">Breakaway Super League, Tokyo's 'Covid Games', cricket's racism crisis - a huge year for sports news</a> BBC: BBC sports editor Dan Roan says 2021 has included two of the most dramatic, fastest-moving stories he has covered in two decades of sports reporting. 
- <p class="updated_time"> 08:17 AM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59839723?at_medium=RSS&at_campaign=KARANGA">Rogel Aguilera-Mederos: Colorado truck driver's sentence cut by 100 years</a> BBC: Rogel Aguilera-Mederos was sentenced to 110 years in prison for a crash that killed four people. 
  <p class="updated_time"> 07:31 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/middleeast/israel-mount-sinai-burning-bush.html">Is That a Burning Bush? Is This Mt. Sinai? Solstice Bolsters a Claim</a> NYT: On the year’s shortest day, hundreds of Israelis ventured deep into the desert to witness a strange natural phenomenon atop an ancient pilgrimage site that some argue is where God spoke to Moses. 
  <p class="updated_time"> 06:55 AM CT, Dec. 31 </p> 
