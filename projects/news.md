@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:29 PM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Casts a Pall Over New Year’s Eve, Studies Provide Glimmer of Hope</a> NYT: Many countries marked the end of 2021 with subdued celebrations. The British government released data showing people with Omicron were less likely to need hospitalization, and animal studies suggested the variant spares the lungs. 
+ <p class="updated_time"> 09:23 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Subdued Celebration Mark Arrival of 2022, As Omicron Casts a Pall Over New Year’s Eve</a> NYT: Many countries marked the end of 2021 with subdued celebrations. The British government released data showing people with Omicron were less likely to need hospitalization, and animal studies suggested the variant spares the lungs. 
  <p class="updated_time"> 08:09 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59843627?at_medium=RSS&at_campaign=KARANGA">Betty White: Biden leads tributes for Golden Girls actress</a> BBC: The long-time Hollywood star died on Friday at the age of 99 after an eight-decade film and TV career. 
  <p class="updated_time"> 06:34 PM CT, Dec. 31 </p> 
