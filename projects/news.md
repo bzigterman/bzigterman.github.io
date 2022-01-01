@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:30 AM CT, Jan. 01 </p> 
+ <a href="https://www.npr.org/2022/01/01/1069627569/north-korea-kim-military">North Korea's Kim vows to build up military and maintain anti-virus measures</a> NPR: In a speech at a key political conference, Kim Jong Un vowed to further bolster his military capability, maintain draconian anti-virus measures and push hard to improve the economy. 
  <p class="updated_time"> 08:01 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069619603/kashmir-shrine-crowd-surge">12 people were killed when a crowd surged at a popular Hindu shrine in Kashmir</a> NPR: Fifteen people were also injured in the surge at the shrine on New Year's Day, officials said. Initial reports suggested an altercation between a group of devotees led to the crush. 
  <p class="updated_time"> 07:51 AM CT, Jan. 01 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/the-us-breaks-its-single-day-case-record-nearly-doubling-the-highest-numbers-from-last-winter.html">The U.S. breaks its single-day case record, nearly doubling the highest numbers from last winter.</a> NYT: The new daily case total topped 488,000 on Wednesday, according to a New York Times database. 
  <p class="updated_time"> 11:19 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/mexico-cruises.html">Mexico Says It will Allow Cruise Ships With Covid Cases to Dock</a> NYT: The Latin American nation is among the few in the world to have imposed no restrictions or testing requirements for travelers. 
- <p class="updated_time"> 10:30 AM CT, Dec. 30 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/12/30/1068920127/the-goal-at-least-40-vaxxed-in-all-nations-by-year-end-this-map-shows-how-we-sta">The goal: at least 40% vaxxed in all nations by year-end. This map shows how we stand</a> NPR: The program called COVAX was set up to make sure that all countries have access to COVID vaccines. Two key public health figures talk about what went wrong — and how to fix it. 
  <p class="updated_time"> 09:18 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/india-third-wave-covid.html">India Fears a Third Wave of Covid, Driven by Omicron</a> NYT: The health ministry recorded more than 13,000 new cases in a day, one of the highest daily totals since October. 
  <p class="updated_time"> 08:53 AM CT, Dec. 30 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
  <p class="updated_time"> 09:41 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/news/2022/01/01/nkoreas-kim-vows-to-boost-military-maintain-virus-curbs-526302">NKorea’s Kim vows to boost military, maintain virus curbs</a> Politico: There are no signs of political instability in North Korea, but some experts say the long-term stability of Kim’s leadership could be questioned if the current difficulties continue. 
  <p class="updated_time"> 08:35 AM CT, Jan. 01 </p> 
@@ -273,7 +275,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:05 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069230553/the-top-destination-for-biden-during-his-first-year-in-office-pennsylvania">The top destination for Biden during his first year in office? Pennsylvania</a> NPR: Biden traveled there seven times since taking office, more than any other president in recent history. The reasons for his visits there and other states have to do with policy, politics and more. 
  <p class="updated_time"> 04:01 AM CT, Dec. 31 </p> 
- <a href="https://www.npr.org/2021/12/31/1068930675/us-election-coup-january-6-military-constitution">Retired general warns the U.S. military could lead a coup after the 2024 election</a> NPR: Retired Major General Paul Eaton says war-gaming and civics education could help assure that the military is better prepared for a contested election. 
+ <a href="https://www.npr.org/2021/12/31/1068930675/us-election-coup-january-6-military-constitution">Retired general warns the U.S. military could lead a coup after the 2024 election</a> NPR: Retired Maj. Gen. Paul Eaton says war-gaming and civics education could help assure that the military is better prepared for a contested election. 
  <p class="updated_time"> 04:00 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1068894397/the-story-of-marriage-equality-is-more-complicated-and-costly-than-you-remember">The story of marriage equality is more complicated — and costly — than you remember</a> NPR: Sasha Issenberg, author of The Engagement, a history of marriage equality, says he doesn't see the Supreme Court's decision in Obergefell v. Hodges being overturned anytime soon. 
  <p class="updated_time"> 02:50 AM CT, Dec. 31 </p> 
