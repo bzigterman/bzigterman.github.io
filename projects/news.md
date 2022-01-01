@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:03 PM CT, Dec. 31 </p> 
+ <p class="updated_time"> 07:35 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Casts a Pall Over New Year’s Eve, Studies Provide Glimmer of Hope</a> NYT: Many countries marked the end of 2021 with subdued celebrations. The British government released data showing people with Omicron were less likely to need hospitalization, and animal studies suggested the variant spares the lungs. 
+ <p class="updated_time"> 06:34 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/world/canada/montreal-bar-mitzvah-photographer.html">Once a Janitor, Now the Bar Mitzvah Photography King of Montreal</a> NYT: With a touch of chutzpah and “a little help from God,” Braulio Rocha, a Roman Catholic Portuguese immigrant, traded in his mop for a camera. 
  <p class="updated_time"> 05:54 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59839351?at_medium=RSS&at_campaign=KARANGA">Virginia Giuffre: Prince Andrew accuser seeks evidence he could not sweat</a> BBC: Lawyers for Virginia Giuffre call on the royal to submit medical reports to a New York court. 
  <p class="updated_time"> 05:13 PM CT, Dec. 31 </p> 
@@ -25,8 +27,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/31/1069538926/ski-resorts-in-france-reopen-vaccine-passes-and-masks-are-required">Ski resorts in France reopen. Vaccine passes and masks are required</a> NPR: After abruptly closing in March 2020, France's alpine ski resorts have reopened. But this year you'll need more than just goggles and a lift pass. 
  <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/sports/football/kirk-cousins-covid.html">Kirk Cousins Tests Positive for Covid-19</a> NYT: Cousins was placed on the team’s Covid-19 reserve list for at least five days, threatening Minnesota’s playoff chances. 
- <p class="updated_time"> 02:00 PM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/31/world/canada/montreal-bar-mitzvah-photographer.html">Once a Janitor, Now the Bar Mitzvah Photography King of Montreal</a> NYT: With a touch of chutzpah and “a little help from God,” Braulio Rocha, a Roman Catholic Portuguese immigrant, traded in his mop for a camera. 
+ <p class="updated_time"> 01:46 PM CT, Dec. 31 </p> 
+ <a href="https://www.wsj.com/articles/beijing-fell-short-on-trade-deal-promises-creating-dilemma-for-biden-11640946782">Beijing Fell Short on Trade Deal Promises, Creating Dilemma for Biden</a> WSJ: How the Biden administration responds to China’s missed targets is being watched closely by U.S. businesses, many of which want smooth relations to ensure continued access to China’s giant market. 
  <p class="updated_time"> 01:43 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-53723448?at_medium=RSS&at_campaign=KARANGA">Obituary: Betty White, the Golden Girl with a heart of gold</a> BBC: One of America's original screen stars, Betty White enjoyed a career spanning eight decades. 
  <p class="updated_time"> 01:28 PM CT, Dec. 31 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/europe/covid-france-omicron-vaccines.html">Omicron Strains France’s Social Contract on Covid</a> NYT: President Emmanuel Macron won people over by promising normalcy if they followed Covid advice. Now Omicron has raised questions about whether he, or any leader, can deliver on that. 
  <p class="updated_time"> 11:36 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/31/1069412844/asia-looks-to-china-focused-trade-bloc-for-virus-recovery">Asia looks to China-focused trade bloc for virus recovery</a> NPR: Members of the 15-member Regional and Comprehensive Economic Partnership, or RCEP, include China, Japan and South Korea. The new trading bloc does not include the U.S. or India. 
- <p class="updated_time"> 11:33 PM CT, Dec. 30 </p> 
- <a href="https://www.wsj.com/articles/beijing-fell-short-on-trade-deal-promises-creating-dilemma-for-biden-11640946782">Beijing Fell Short on Trade Deal Promises, Creating Dilemma for Biden</a> WSJ: How the Biden administration responds to China’s missed targets is being watched closely by U.S. businesses, many of which want smooth relations to ensure continued access to China’s giant market. 
  <p class="updated_time"> 11:30 PM CT, Dec. 30 </p> 
  <a href="https://www.wsj.com/articles/inside-europes-cocaine-gateway-a-repeat-of-miami-in-the-1980s-11640946603">Inside Antwerp, Europe's Cocaine Gateway</a> WSJ: Authorities in Antwerp have seized 88 metric tons of cocaine stashed in containers from Latin America this year, nearly 10 times the figure in 2014. It is far more than any other European port. 
  <p class="updated_time"> 10:51 PM CT, Dec. 30 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:40 PM CT, Dec. 31 </p> 
+ <a href="https://www.politico.com/news/2021/12/31/kerik-documents-jan-6-committee-526297">Bernard Kerik provides batch of documents to Jan. 6 select committee</a> Politico: The former New York City Police commissioner also provided a “privilege log” describing materials he declined to provide to the committee. 
  <p class="updated_time"> 05:27 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/january-6-potential-threats-no-specifics/index.html">Federal officials warn January 6 anniversary 'may be exploited by threat actors' but cite no specific or credible threats</a> CNN: Federal officials are warning that "threat actors" may take advantage of the upcoming anniversary of the January 6 attack on the US Capitol, though there are currently no specific or credible threats, according to an intelligence assessment issued Thursday to state and local officials. 
  <p class="updated_time"> 05:13 PM CT, Dec. 31 </p> 
