@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:57 AM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59843925?at_medium=RSS&at_campaign=KARANGA">South Africa holds state funeral for Archbishop Desmond Tutu</a> BBC: The funeral for the anti-apartheid campaigner is taking place in St George's Cathedral in Cape Town. 
+ <p class="updated_time"> 01:55 AM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 01:40 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59845636?at_medium=RSS&at_campaign=KARANGA">Kim Jong-un: North Korea to focus on economy in 2022</a> BBC: Kim Jong-un says the faltering economy will be the national priority as he marks 10 years in power. 
  <p class="updated_time"> 01:12 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59845176?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Woman says families in her neighbourhood lost everything</a> BBC: A woman who had to evacuate her home in Louisville with her family speaks to the BBC. 
- <p class="updated_time"> 01:11 AM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 12:42 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59845278?at_medium=RSS&at_campaign=KARANGA">India: At least 12 dead in New Year temple stampede</a> BBC: Pilgrims were visiting the shrine of Mata Vaishno Devi to mark the new year when the tragedy unfolded. 
- <p class="updated_time"> 12:06 AM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59843925?at_medium=RSS&at_campaign=KARANGA">South Africa prepares to bury Archbishop Desmond Tutu</a> BBC: The funeral for Tutu, who helped end apartheid in South Africa, will take place on Saturday. 
  <p class="updated_time"> 10:57 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59843920?at_medium=RSS&at_campaign=KARANGA">Colorado: Residents return following devastating fire</a> BBC: Tens of thousands of people in Boulder County were forced to flee their homes on Thursday. 
  <p class="updated_time"> 09:59 PM CT, Dec. 31 </p> 
