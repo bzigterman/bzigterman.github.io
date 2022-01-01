@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:43 AM CT, Jan. 01 </p> 
+ <p class="updated_time"> 12:14 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59848648?at_medium=RSS&at_campaign=KARANGA">New Year's Eve fireworks kill and injure in Europe despite bans</a> BBC: Among three killed is a 12-year-old Dutch boy who was watching an adult set off a device. 
  <p class="updated_time"> 11:20 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59845833?at_medium=RSS&at_campaign=KARANGA">Covid: UAE bans foreign travel for citizens without booster jab</a> BBC: Emiratis will need a third dose of a coronavirus vaccine if they want to leave the country. 
@@ -202,14 +202,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:59 AM CT, Jan. 01 </p> 
+ <a href="https://www.cnn.com/2022/01/01/politics/bernard-kerik-documents-january-6-committee/index.html">Ex-New York City police commissioner Bernard Kerik provides documents to January 6 committee</a> CNN: Bernard Kerik, the former New York City police commissioner, has agreed to a voluntary interview with the House select committee investigating January 6 and provided some documents, according to a letter from his attorney obtained by CNN. 
  <p class="updated_time"> 11:53 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/news/2022/01/01/new-years-rose-parade-proceeds-despite-covid-19-surge-526303">New Year’s Rose Parade proceeds despite Covid-19 surge</a> Politico: The 2021 Rose Parade was canceled months ahead of time. The Rose Bowl football game was played after being moved to Arlington, Texas. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/us/politics/afghan-war-isis-attack.html">U.S. Military Focusing on ISIS Cell Behind Attack at Kabul Airport</a> NYT: The suicide bomber who killed nearly 200 people, including 13 U.S. troops, had been freed from prison by the Taliban days before the attack. 
- <p class="updated_time"> 09:54 AM CT, Jan. 01 </p> 
- <a href="https://www.cnn.com/2022/01/01/politics/bernard-kerik-documents-january-6-committee/index.html">Ex-New York City police commissioner Bernard Kerik provides documents to January 6 committee</a> CNN: Bernard Kerik, the former New York City police commissioner, has agreed to a voluntary interview with the House select committee investigating January 6 and provided some documents, according to a letter from his attorney obtained by CNN. 
  <p class="updated_time"> 09:43 AM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/01/politics/new-laws-in-2022/index.html">From minimum wage hikes to a ban on gas-powered leaf blowers, these new laws take effect in 2022</a> CNN: The year 2021 marked by an innumerable number of rules tied to the coronavirus pandemic. 
  <p class="updated_time"> 08:35 AM CT, Jan. 01 </p> 
