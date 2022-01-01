@@ -207,7 +207,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:27 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/ayanna-pressley-covid/index.html">Rep. Ayanna Pressley tests positive for Covid-19</a> CNN: Rep. Ayanna Pressley, a Massachusetts Democrat, announced Friday she tested positive for Covid-19 and is experiencing mild symptoms. 
  <p class="updated_time"> 03:43 PM CT, Dec. 31 </p> 
- <a href="https://www.politico.com/news/2021/12/31/fdic-chair-jelena-mcwilliams-to-resign-526295">Trump appointee at FDIC to resign after partisan brawl</a> Politico: Jelena McWilliams on Friday unexpectedly submitted her resignation. 
+ <a href="https://www.politico.com/news/2021/12/31/fdic-chair-jelena-mcwilliams-to-resign-526295">FDIC’s GOP chair to resign after partisan brawl</a> Politico: Jelena McWilliams on Friday unexpectedly submitted her resignation. 
  <p class="updated_time"> 03:11 PM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069539008/a-look-back-at-attacks-on-voting-rights-in-2021-and-what-could-be-next">A look back at attacks on voting rights in 2021 — and what could be next</a> NPR: NPR's Mary Louise Kelly speaks with Wendy Weiser, who directs the Democracy Program at the Brennan Center for Justice, about the threats to our elections in 2022 and 2024. 
  <p class="updated_time"> 03:11 PM CT, Dec. 31 </p> 
