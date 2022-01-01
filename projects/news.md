@@ -15,6 +15,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
  <p class="updated_time"> 01:40 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59845636?at_medium=RSS&at_campaign=KARANGA">Kim Jong-un: North Korea to focus on economy in 2022</a> BBC: Kim Jong-un says the faltering economy will be the national priority as he marks 10 years in power. 
+ <p class="updated_time"> 01:14 AM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59838432?at_medium=RSS&at_campaign=KARANGA">After Desmond Tutu, a time for new South African heroes</a> BBC: As the last of South Africa's moral giants is laid to rest, some say now is time to break the mould. 
  <p class="updated_time"> 01:12 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59845176?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Woman says families in her neighbourhood lost everything</a> BBC: A woman who had to evacuate her home in Louisville with her family speaks to the BBC. 
  <p class="updated_time"> 12:42 AM CT, Jan. 01 </p> 
