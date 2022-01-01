@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:00 PM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59848651?at_medium=RSS&at_campaign=KARANGA">US flight cancellations hit new holiday peak amid Covid and bad weather</a> BBC: More than 2,500 flights have been cancelled, with airlines facing crew shortages and bad weather. 
  <p class="updated_time"> 02:25 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/south-korea-men-anti-feminists.html">The New Political Cry in South Korea: ‘Out With Man Haters’</a> NYT: After slow gains in women’s rights, the country is facing a type of political correctness enforced by young men angry at feminists, saying they undermine opportunity. 
  <p class="updated_time"> 02:01 PM CT, Jan. 01 </p> 
@@ -63,16 +65,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/style/new-years-resolutions-quotes-tips.html">Setting New Year's Resolutions? Start With These Words of Wisdom</a> NYT: Let their stories be your inspiration as you set resolutions for 2022. 
  <p class="updated_time"> 03:53 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59689367?at_medium=RSS&at_campaign=KARANGA">Quiz: How well do you remember football in 2021?</a> BBC: Test your knowledge of football in 2021 by taking our quiz... 
- <p class="updated_time"> 03:35 AM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/sport/basketball/59846066?at_medium=RSS&at_campaign=KARANGA">NBA: DeMar DeRozan scores buzzer-beating three-pointer as Chicago Bulls beat Indiana Pacers</a> BBC: DeMar DeRozan scores a buzzer-beating three-pointer to give the Chicago Bulls a 108-106 win at the Indiana Pacers in the NBA. 
  <p class="updated_time"> 03:10 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
  <p class="updated_time"> 02:00 AM CT, Jan. 01 </p> 
  <a href="https://www.wsj.com/articles/scotland-moves-to-pardon-thousands-executed-as-witches400-years-later-11641042001">Scotland Moves to Pardon Thousands Executed as Witches---400 Years Later</a> WSJ: For campaigners working to clear the names of those who were condemned as witches, it is an important reckoning with Scotland’s violent past. 
  <p class="updated_time"> 01:40 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59845636?at_medium=RSS&at_campaign=KARANGA">Kim Jong-un: North Korea to focus on economy in 2022</a> BBC: Kim Jong-un says the faltering economy will be the national priority as he marks 10 years in power. 
- <p class="updated_time"> 01:14 AM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59838432?at_medium=RSS&at_campaign=KARANGA">After Desmond Tutu, a time for new South African heroes</a> BBC: As the last of South Africa's moral giants is laid to rest, some say now is time to break the mould. 
  <p class="updated_time"> 01:12 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59845176?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Woman says families in her neighbourhood lost everything</a> BBC: A woman who had to evacuate her home in Louisville with her family speaks to the BBC. 
  <p class="updated_time"> 01:00 AM CT, Jan. 01 </p> 
