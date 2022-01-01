@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:33 AM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
- <p class="updated_time"> 02:26 AM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
- <p class="updated_time"> 01:57 AM CT, Jan. 01 </p> 
+ <p class="updated_time"> 03:21 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59843925?at_medium=RSS&at_campaign=KARANGA">South Africa holds state funeral for Archbishop Desmond Tutu</a> BBC: The funeral for the anti-apartheid campaigner is taking place in St George's Cathedral in Cape Town. 
+ <p class="updated_time"> 03:14 AM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
+ <p class="updated_time"> 03:10 AM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
  <p class="updated_time"> 01:40 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59845636?at_medium=RSS&at_campaign=KARANGA">Kim Jong-un: North Korea to focus on economy in 2022</a> BBC: Kim Jong-un says the faltering economy will be the national priority as he marks 10 years in power. 
  <p class="updated_time"> 01:12 AM CT, Jan. 01 </p> 
@@ -21,10 +21,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59845278?at_medium=RSS&at_campaign=KARANGA">India: At least 12 dead in New Year temple stampede</a> BBC: Pilgrims were visiting the shrine of Mata Vaishno Devi to mark the new year when the tragedy unfolded. 
  <p class="updated_time"> 10:57 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59843920?at_medium=RSS&at_campaign=KARANGA">Colorado: Residents return following devastating fire</a> BBC: Tens of thousands of people in Boulder County were forced to flee their homes on Thursday. 
+ <p class="updated_time"> 10:12 PM CT, Dec. 31 </p> 
+ <a href="https://www.wsj.com/articles/desmond-tutu-is-laid-to-rest-in-south-african-state-funeral-11641028334">Desmond Tutu Is Laid to Rest in South African State Funeral</a> WSJ: The state funeral of Archbishop Desmond Tutu, a hero of South Africa’s struggle against apartheid, began in the cathedral where he spent decades preaching against racial injustice. 
  <p class="updated_time"> 09:59 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
  <p class="updated_time"> 08:09 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59843627?at_medium=RSS&at_campaign=KARANGA">Betty White: Biden leads tributes for Golden Girls actress</a> BBC: The long-time Hollywood star died on Friday at the age of 99 after an eight-decade film and TV career. 
+ <p class="updated_time"> 07:20 PM CT, Dec. 31 </p> 
+ <a href="https://www.wsj.com/articles/kim-jong-un-largely-ignores-u-s-south-korea-in-year-end-speech-vows-weapons-development-11641018007">Kim Jong Un Largely Ignores U.S., South Korea in Year-End Speech</a> WSJ: The North Korean leader vowed to pursue high-tech weapons to counter what he called military instability on the Korean Peninsula, but largely ignored the U.S. and South Korea in a year-end speech. 
  <p class="updated_time"> 06:34 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/canada/montreal-bar-mitzvah-photographer.html">Once a Janitor, Now the Bar Mitzvah Photography King of Montreal</a> NYT: With a touch of chutzpah and “a little help from God,” Braulio Rocha, a Roman Catholic Portuguese immigrant, traded in his mop for a camera. 
  <p class="updated_time"> 05:54 PM CT, Dec. 31 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/31/1069538926/ski-resorts-in-france-reopen-vaccine-passes-and-masks-are-required">Ski resorts in France reopen. Vaccine passes and masks are required</a> NPR: After abruptly closing in March 2020, France's alpine ski resorts have reopened. But this year you'll need more than just goggles and a lift pass. 
  <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/sports/football/kirk-cousins-covid.html">Kirk Cousins Tests Positive for Covid-19</a> NYT: Cousins was placed on the team’s Covid-19 reserve list for at least five days, threatening Minnesota’s playoff chances. 
- <p class="updated_time"> 01:46 PM CT, Dec. 31 </p> 
- <a href="https://www.wsj.com/articles/beijing-fell-short-on-trade-deal-promises-creating-dilemma-for-biden-11640946782">Beijing Fell Short on Trade Deal Promises, Creating Dilemma for Biden</a> WSJ: How the Biden administration responds to China’s missed targets is being watched closely by U.S. businesses, many of which want smooth relations to ensure continued access to China’s giant market. 
  <p class="updated_time"> 01:43 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-53723448?at_medium=RSS&at_campaign=KARANGA">Obituary: Betty White, the Golden Girl with a heart of gold</a> BBC: One of America's original screen stars, Betty White enjoyed a career spanning eight decades. 
  <p class="updated_time"> 01:28 PM CT, Dec. 31 </p> 
@@ -59,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59841816?at_medium=RSS&at_campaign=KARANGA">New Year's Eve: Firework displays welcome 2022</a> BBC: Celebrations have taken place around the world, with light shows and fireworks as 2022 began. 
  <p class="updated_time"> 11:32 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/31/1069476889/omicron-south-africa">As omicron heats up in the U.S., South Africa says its wave is on the way out</a> NPR: The variant caused fewer deaths and less severe infections than past versions of the virus in South Africa, but that could be different in other countries. 
+ <p class="updated_time"> 11:04 AM CT, Dec. 31 </p> 
+ <a href="https://www.wsj.com/articles/who-won-in-afghanistan-private-contractors-troops-withdrawal-war-pentagon-11640988154">Who Won in Afghanistan? Private Contractors</a> WSJ: The U.S. military spent $14 trillion during two decades of war and relied heavily on companies to perform critical functions. Those who benefited from the outpouring of government money range from major weapons manufacturers to entrepreneurs. 
  <p class="updated_time"> 10:53 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069489082/desmond-tutu-funeral">South Africans line up to pay their last respects to Desmond Tutu</a> NPR: South Africans from all corners of retired Archbishop Desmond Tutu's "rainbow nation" filed past his pine casket in Cape Town. The viewing line at St. George's Cathedral stretched for nearly a mile. 
  <p class="updated_time"> 10:46 AM CT, Dec. 31 </p> 
@@ -71,6 +75,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59839724?at_medium=RSS&at_campaign=KARANGA">Jeffrey Epstein: Charges dropped against prison guards who falsified records</a> BBC: The pair admitted falsifying records to show they had monitored Epstein on the night of his death. 
  <p class="updated_time"> 09:42 AM CT, Dec. 31 </p> 
  <a href="https://www.wsj.com/articles/south-africa-says-its-omicron-wave-is-in-retreat-11640955912">South Africa Says Its Omicron Wave Is in Retreat</a> WSJ: The variant’s decline in the country is a promising sign for other nations, while new U.K. data added to evidence that it is less likely to cause severe disease than earlier versions of the virus. 
+ <p class="updated_time"> 09:32 AM CT, Dec. 31 </p> 
+ <a href="https://www.wsj.com/articles/how-this-pandemic-has-left-us-less-prepared-for-the-next-one-11640982760">How This Pandemic Has Left Us Less Prepared for the Next One</a> WSJ: China put up barriers to studying the origins of Covid-19, leading to a conflict that means less scientific collaboration and more mistrust among global powers that must work together to head off the next disaster. 
  <p class="updated_time"> 09:04 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/middleeast/asma-khader-dead.html">Asma Khader, Fighter for Women’s Rights in Jordan, Dies at 69</a> NYT: A respected lawyer, she focused on the victims of domestic violence and also worked hard to change discriminatory laws. 
  <p class="updated_time"> 08:36 AM CT, Dec. 31 </p> 
@@ -83,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/asia/tesla-batteries-nickel-new-caledonia.html">Can a Sustainable Mining Experiment in New Caledonia Power Tesla's Ambitions?</a> NYT: Nickel is vital to electric car batteries, but extracting it is dirty and destructive. A plant with a turbulent history in New Caledonia is about to become an experiment in doing it better. 
  <p class="updated_time"> 06:03 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/paris-masks-outdoors-omicron.html">Paris Reimposes Outdoor Mask Mandate as Omicron Soars</a> NYT: With more than 2,000 coronavirus cases per 100,000 people, the capital has become the center of France’s spreading Omicron outbreak. 
- <p class="updated_time"> 05:13 AM CT, Dec. 31 </p> 
- <a href="https://www.wsj.com/articles/china-warns-walmart-against-removing-products-made-in-xinjiang-11640967233">China Warns Walmart Against Removing Items Made in Xinjiang</a> WSJ: China warned of a consumer boycott following reports that the world’s largest retailer had stopped stocking products from Xinjiang, a region where the U.S. has human-rights concerns. 
  <p class="updated_time"> 04:52 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59837361?at_medium=RSS&at_campaign=KARANGA">Romelu Lukaku: Chelsea manager Thomas Tuchel 'does not like' striker's comments</a> BBC: Chelsea boss Thomas Tuchel says Romelu Lukaku's comments in an interview in which the striker said he was "not happy" with his role at the club "brings noise that we don't need". 
  <p class="updated_time"> 04:36 AM CT, Dec. 31 </p> 
@@ -121,14 +125,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/30/1069338981/biden-putin-call-russia-ukraine">Biden again calls on Putin to de-escalate tensions along Ukraine border</a> NPR: It was the second time the two leaders spoke this month, as Russia has assembled as many as 100,000 troops along the Ukrainian border, prompting fears of an invasion. 
  <p class="updated_time"> 06:15 PM CT, Dec. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59763425?at_medium=RSS&at_campaign=KARANGA">Cape Verde: Drone delivers medical supplies to remote islands</a> BBC: Computer scientist Erico Pinheiro has invented a drone system to deliver medical supplies to the remote communities of his island nation Cape Verde. 
- <p class="updated_time"> 05:56 PM CT, Dec. 30 </p> 
- <a href="https://www.wsj.com/articles/chinas-manufacturing-sector-shows-signs-of-strength-11640926572">China's Manufacturing Sector Shows Signs of Strength</a> WSJ: Beijing attributed the pickup to a drop in commodity prices after governmental intervention to stabilize supply and prices. 
  <p class="updated_time"> 05:48 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-covid-omicron-london-england.html">UK, With Surging Covid-19 Cases, is On '‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
  <p class="updated_time"> 05:24 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/30/1069253312/cdc-cruise-ship-travel-covid-19">People should avoid cruise travel regardless of their vaccination status, the CDC says</a> NPR: The CDC revised its guidance Thursday, as 91 cruise ships are under investigation for COVID outbreaks onboard. Most cruise lines require adult passengers to show proof of vaccination against COVID-19. 
- <p class="updated_time"> 03:23 PM CT, Dec. 30 </p> 
- <a href="https://www.wsj.com/articles/biden-putin-talk-as-russian-leader-seeks-to-redraw-european-security-arrangements-11640888728">Biden, Putin Warn of Danger to Relations if Ukraine Crisis Escalates</a> WSJ: In a 50-minute conference call, President Biden renewed a warning to his Russian counterpart that Moscow would face punishing economic sanctions if it turned away from diplomacy and attacked Ukraine. 
  <p class="updated_time"> 03:18 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069273197/president-biden-speaks-with-russian-president-vladimir-putin-as-ukraine-tensions">President Biden speaks with Russian President Vladimir Putin as Ukraine tensions rise</a> NPR: President Biden spoke with Russian President Vladimir Putin in a call Thursday as tensions mount between the Ukraine and Russia. The White House says it's "gravely concerned" about the situation. 
  <p class="updated_time"> 03:00 PM CT, Dec. 30 </p> 
