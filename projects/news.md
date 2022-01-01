@@ -10,7 +10,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:01 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069619603/kashmir-shrine-crowd-surge">12 people were killed when a crowd surged at a popular Hindu shrine in Kashmir</a> NPR: Fifteen people were also injured in the surge at the shrine on New Year's Day, officials said. Initial reports suggested an altercation between a group of devotees led to the crush. 
  <p class="updated_time"> 07:51 AM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59847371?at_medium=RSS&at_campaign=KARANGA">New law allowing assisted suicide takes effect Austria</a> BBC: The new law allows chronically or terminally ill adults to make provisions for an assisted suicide. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59847371?at_medium=RSS&at_campaign=KARANGA">New law allowing assisted suicide takes effect in Austria</a> BBC: The new law allows chronically or terminally ill adults to make provisions for an assisted suicide. 
  <p class="updated_time"> 07:49 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 07:14 AM CT, Jan. 01 </p> 
@@ -41,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/style/new-years-resolutions-quotes-tips.html">Setting New Year's Resolutions? Start With These Words of Wisdom</a> NYT: Let their stories be your inspiration as you set resolutions for 2022. 
  <p class="updated_time"> 03:53 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59689367?at_medium=RSS&at_campaign=KARANGA">Quiz: How well do you remember football in 2021?</a> BBC: Test your knowledge of football in 2021 by taking our quiz... 
+ <p class="updated_time"> 03:35 AM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/sport/basketball/59846066?at_medium=RSS&at_campaign=KARANGA">NBA: DeMar DeRozan scores buzzer-beating three-pointer as Chicago Bulls beat Indiana Pacers</a> BBC: DeMar DeRozan scores a buzzer-beating three-pointer to give the Chicago Bulls a 108-106 win at the Indiana Pacers in the NBA. 
  <p class="updated_time"> 03:10 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
  <p class="updated_time"> 02:28 AM CT, Jan. 01 </p> 
@@ -99,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/africa/uganda-congo-rebels-adf.html">Why Did Uganda Send Troops Into Congo?</a> NYT: The Ugandan government says it is targeting rebels it accuses of terrorist attacks in Kampala. Many Congolese fear the incursion is cover for yet another plundering of their country. 
  <p class="updated_time"> 10:09 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069472217/new-years-eve-omicron">As the world marks a new year, celebrations are muted by omicron</a> NPR: In many places, New Year's Eve celebrations were muted or canceled for the second straight year due to a surge of coronavirus infections, this time driven by the highly contagious omicron variant. 
- <p class="updated_time"> 10:08 AM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59839724?at_medium=RSS&at_campaign=KARANGA">Jeffrey Epstein: Charges dropped against prison guards who falsified records</a> BBC: The pair admitted falsifying records to show they had monitored Epstein on the night of his death. 
  <p class="updated_time"> 09:32 AM CT, Dec. 31 </p> 
  <a href="https://www.wsj.com/articles/how-this-pandemic-has-left-us-less-prepared-for-the-next-one-11640982760">How This Pandemic Has Left Us Less Prepared for the Next One</a> WSJ: China put up barriers to studying the origins of Covid-19, leading to a conflict that means less scientific collaboration and more mistrust among global powers that must work together to head off the next disaster. 
  <p class="updated_time"> 09:04 AM CT, Dec. 31 </p> 
@@ -209,9 +209,9 @@ permalink: /projects/news/
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069611016/there-are-signs-negotiators-are-making-progress-toward-a-nuclear-deal-with-iran">There are signs negotiators are making progress toward a nuclear deal with Iran</a> NPR: For the first time in months, European negotiators report progress in nuclear talks with Iran and the U.S. An agreement would revive an Obama-era pact that President Donald Trump abandoned. 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
- <a href="https://www.npr.org/2022/01/01/1069610988/almost-a-year-after-jan-6-two-journalists-release-their-book-the-steal">Almost a year after Jan. 6, two journalists release their book 'The Steal'</a> NPR: David Gura speaks with journalists Mark Bowden and Matthew Teague about their new book "The Steal: The Attempt to Overturn the 2020 Election and the People Who Stopped It." 
- <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069610932/week-in-politics-biden-says-there-is-no-federal-solution-to-the-pandemic">Week in politics: Biden says there is no federal solution to the pandemic</a> NPR: President Joe Biden says there's no federal solution to the pandemic as cases climb dramatically. 
+ <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
+ <a href="https://www.npr.org/2022/01/01/1069610988/almost-a-year-after-jan-6-two-journalists-release-their-book-the-steal">Almost a year after Jan. 6, two journalists release their book 'The Steal'</a> NPR: David Gura speaks with journalists Mark Bowden and Matthew Teague about their new book "The Steal: The Attempt to Overturn the 2020 Election and the People Who Stopped It." 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069610925/bidens-top-economics-advisor-weighs-in-on-how-omicron-is-affecting-economic-reco">Biden's top economics advisor weighs in on how omicron is affecting economic recovery</a> NPR: David Gura speaks to Cecilia Rouse, chair of the White House Council of Economic Advisers, about the health of the U.S. economy amid inflation, supply chain interruptions and labor shortages. 
  <p class="updated_time"> 07:01 AM CT, Jan. 01 </p> 
@@ -322,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
  <p class="updated_time"> 07:24 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/27/us/politics/sarah-weddington-dead.html">Sarah Weddington, Who Successfully Argued Roe v. Wade, Dies at 76</a> NYT: She went before the U.S. Supreme Court at 26 with almost no legal experience and won one of the most consequential cases in American history. 
- <p class="updated_time"> 07:07 AM CT, Dec. 30 </p> 
- <a href="https://www.politico.com/news/2021/12/30/j-j-booster-hospitalization-526263">J&J's booster shown effective against Covid hospitalization</a> Politico: The results mark the first evidence of the effectiveness of such a vaccine boost while Omicron is circulating. 
  <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-administration-shifting-covid-guidance/index.html">Analysis: Biden administration signals pandemic strategy shift in the face of Omicron </a> CNN: America is plunging into a fast-worsening and frightening winter bout with Covid-19 that will leave few citizens and communities untouched. But as the highly transmissible Omicron variant roars across the country, the Biden administration is revealing the most tangible signs of a shifting pandemic strategy several weeks in the making. It is preparing a nation exhausted by two years of battling the invisible enemy to live more feasibly alongside it. 
  <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
@@ -332,14 +330,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/upshot/medical-bill-ban-biden.html">A New Ban on Surprise Medical Bills Starts This Week</a> NYT: If you have a medical emergency, you will no longer need to worry about a large bill from a doctor you did not choose. 
  <p class="updated_time"> 10:47 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/omicron-tests-hospitals.html">Federal Officials Say Early Omicron Data Suggests a Less Deadly Wave</a> NYT: Dr. Rochelle P. Walensky and Dr. Anthony S. Fauci cautioned that hospitalizations and deaths could be lagging behind case counts. 
- <p class="updated_time"> 09:56 PM CT, Dec. 29 </p> 
- <a href="https://www.politico.com/news/2021/12/29/blinken-hong-kong-arrest-stand-news-526260">Blinken calls for release of pro-democracy journalists after Hong Kong arrests</a> Politico: "A confident government that is unafraid of the truth embraces a free press,” he said in a statement. 
  <p class="updated_time"> 09:43 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/pentagon-guantanamo-secret-courtroom.html">Pentagon Building New Secret Courtroom at Guantánamo Bay</a> NYT: The concept is to permit two military judges to hold proceedings simultaneously starting in mid-2023. 
  <p class="updated_time"> 08:49 PM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/melania-trump-steps-back-into-the-public-eye/index.html">Melania Trump steps back into the public eye </a> CNN: After months of relative public silence, former first lady Melania Trump before Christmas emerged from private life to announce a new project: A piece of artwork, a watercolor closeup of her eyes, in the form of a non-fungible token (NFT) was now available for purchase. 
- <p class="updated_time"> 05:15 PM CT, Dec. 29 </p> 
- <a href="https://www.politico.com/news/2021/12/29/ghislaine-maxwell-convicted-in-epstein-sex-abuse-case-526252">Ghislaine Maxwell convicted in Epstein sex abuse case</a> Politico: She faces the likelihood of years in prison. 
  <p class="updated_time"> 04:09 PM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/republicans-luring-john-james-house-526250">National Republicans luring John James into House race</a> Politico: Republicans anticipate James, one of their most coveted 2022 recruits, will run for Congress next year after Michigan's new district map was finalized. 
  <p class="updated_time"> 03:17 PM CT, Dec. 29 </p> 
