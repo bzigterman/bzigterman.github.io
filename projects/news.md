@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:33 AM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
  <p class="updated_time"> 02:26 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 01:57 AM CT, Jan. 01 </p> 
@@ -28,7 +30,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:54 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59839351?at_medium=RSS&at_campaign=KARANGA">Virginia Giuffre: Prince Andrew accuser seeks evidence he could not sweat</a> BBC: Lawyers for Virginia Giuffre call on the royal to submit medical reports to a New York court. 
  <p class="updated_time"> 04:50 PM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59843697?at_medium=RSS&at_campaign=KARANGA">French ban on plastic packaging for fruit and vegetables begins</a> BBC: Effective from New Year's day, officials hope the law will prevent a billion items of single use plastics every year. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59843697?at_medium=RSS&at_campaign=KARANGA">French ban on plastic packaging for fruit and vegetables begins</a> BBC: Officials hope the law will prevent a billion items of single use plastics every year. 
  <p class="updated_time"> 03:56 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/30/obituaries/deaths-in-2021-headline-names-against-the-backdrop-of-pandemic.html">Deaths in 2021: Headline Names Against the Backdrop of Pandemic</a> NYT: Aaron, Sondheim, Dole and Didion. But the loss of Colin Powell from the virus spoke most directly to the moment the world is in. 
  <p class="updated_time"> 03:18 PM CT, Dec. 31 </p> 
