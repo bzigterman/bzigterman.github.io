@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:47 PM CT, Jan. 01 </p> 
+ <a href="https://www.politico.com/news/2022/01/01/on-busy-1st-day-nyc-mayor-urges-resiliency-against-pandemic-526304">On busy 1st day, NYC mayor urges resiliency against pandemic</a> Politico: “Getting vaccinated is not letting the crisis control you,” Adams said at City Hall. 
  <p class="updated_time"> 01:52 PM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/01/politics/nyc-mayor-eric-adams-swear-in/index.html">Eric Adams sworn in as New York City mayor</a> CNN: Eric Adams, New York City's new mayor, was sworn in to office just minutes after the crystal ball dropped at midnight in Times Square on January 1. 
  <p class="updated_time"> 01:06 PM CT, Jan. 01 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/30/marines-kick-out-troops-covid-vaccine-526266">Marines kick out 206 troops for refusing Covid-19 vaccine</a> Politico: Overall, 95 percent of all active-duty Marines have received at least the first dose. 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
- <p class="updated_time"> 09:50 AM CT, Dec. 30 </p> 
- <a href="https://www.politico.com/news/2021/12/30/us-unemployment-claims-drop-526265">U.S. unemployment claims drop to 198,000</a> Politico: The four-week average, which smooths out week-to-week volatility, fell to just above 199,000, the lowest level since October 1969. 
  <p class="updated_time"> 08:31 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Michigan’s New Congressional Maps Undo Years of Gerrymandering</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
  <p class="updated_time"> 07:56 AM CT, Dec. 30 </p> 
