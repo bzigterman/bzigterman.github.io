@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:00 AM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/01/world/canada/memorable-canada-stories-2021.html">Memorable Canada Stories in 2021</a> NYT: From the discovery of Indigenous graves in British Columbia to a faux Florida retirement community in Quebec, two Times Canada correspondents recall some of the standout stories of the year. 
  <p class="updated_time"> 04:44 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59845278?at_medium=RSS&at_campaign=KARANGA">India: At least 12 dead in New Year temple stampede</a> BBC: Pilgrims were visiting the shrine of Mata Vaishno Devi to mark the new year when the tragedy unfolded. 
  <p class="updated_time"> 04:24 AM CT, Jan. 01 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068895510/thousands-are-displaced-in-brazil-after-weeks-of-flooding-in-bahia-state">Tens of thousands are displaced in Brazil after weeks of flooding in Bahia state</a> NPR: NPR's Ari Shapiro speaks with Gram Slattery, Brazil correspondent for Reuters, about the deadly flooding currently happening in the northeastern state of Bahia, Brazil. 
  <p class="updated_time"> 01:43 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/cincinnati-fire-department-state-of-emergency.html">Cincinnati Declares State of Emergency Amid Fire Department Staffing Shortages</a> NYT: Mayor John Cranley called the challenges a “public danger” that would undermine the city’s ability to respond to fire emergencies. 
- <p class="updated_time"> 11:20 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/middleeast/israel-avian-flu.html">Israel's Avian Flu Outbreak Has Killed Thousands of Cranes</a> NYT: Thousands of migratory cranes have died and more than half a million chickens have been culled as the country tries to contain a deadly bird virus. 
 
 
 </details>
