@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:17 AM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59845938?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu funeral: Anti-apartheid campaigner remembered in Cape Town</a> BBC: The anti-apartheid campaigner and Nobel Peace Prize winner died last Sunday, aged 90. 
  <p class="updated_time"> 05:40 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59843925?at_medium=RSS&at_campaign=KARANGA">South Africa holds state funeral for Archbishop Desmond Tutu</a> BBC: The funeral for the anti-apartheid campaigner took place in St George's Cathedral in Cape Town. 
  <p class="updated_time"> 05:00 AM CT, Jan. 01 </p> 
@@ -29,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59838432?at_medium=RSS&at_campaign=KARANGA">After Desmond Tutu, a time for new South African heroes</a> BBC: As the last of South Africa's moral giants is laid to rest, some say now is time to break the mould. 
  <p class="updated_time"> 01:12 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59845176?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Woman says families in her neighbourhood lost everything</a> BBC: A woman who had to evacuate her home in Louisville with her family speaks to the BBC. 
+ <p class="updated_time"> 01:00 AM CT, Jan. 01 </p> 
+ <a href="https://www.wsj.com/articles/u-s-on-sidelines-as-china-and-other-asia-pacific-nations-launch-trade-pact-11641038401">U.S. on Sidelines as China and Other Asia-Pacific Nations Launch Trade Pact</a> WSJ: The Regional Comprehensive Economic Partnership will eventually eliminate more than 90% of tariffs on commerce among 15 member countries. 
  <p class="updated_time"> 11:47 PM CT, Dec. 31 </p> 
  <a href="https://www.wsj.com/articles/desmond-tutu-is-laid-to-rest-in-south-african-state-funeral-11641028334">Desmond Tutu Is Laid to Rest in South African State Funeral</a> WSJ: The state funeral of Archbishop Desmond Tutu, a hero of South Africa’s struggle against apartheid, began in the cathedral where he spent decades preaching against racial injustice. 
  <p class="updated_time"> 10:57 PM CT, Dec. 31 </p> 
@@ -83,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/31/1069472217/new-years-eve-omicron">As the world marks a new year, celebrations are muted by omicron</a> NPR: In many places, New Year's Eve celebrations were muted or canceled for the second straight year due to a surge of coronavirus infections, this time driven by the highly contagious omicron variant. 
  <p class="updated_time"> 10:08 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59839724?at_medium=RSS&at_campaign=KARANGA">Jeffrey Epstein: Charges dropped against prison guards who falsified records</a> BBC: The pair admitted falsifying records to show they had monitored Epstein on the night of his death. 
- <p class="updated_time"> 09:42 AM CT, Dec. 31 </p> 
- <a href="https://www.wsj.com/articles/south-africa-says-its-omicron-wave-is-in-retreat-11640955912">South Africa Says Its Omicron Wave Is in Retreat</a> WSJ: The variant’s decline in the country is a promising sign for other nations, while new U.K. data added to evidence that it is less likely to cause severe disease than earlier versions of the virus. 
  <p class="updated_time"> 09:32 AM CT, Dec. 31 </p> 
  <a href="https://www.wsj.com/articles/how-this-pandemic-has-left-us-less-prepared-for-the-next-one-11640982760">How This Pandemic Has Left Us Less Prepared for the Next One</a> WSJ: China put up barriers to studying the origins of Covid-19, leading to a conflict that means less scientific collaboration and more mistrust among global powers that must work together to head off the next disaster. 
  <p class="updated_time"> 09:04 AM CT, Dec. 31 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/paris-masks-outdoors-omicron.html">Paris Reimposes Outdoor Mask Mandate as Omicron Soars</a> NYT: With more than 2,000 coronavirus cases per 100,000 people, the capital has become the center of France’s spreading Omicron outbreak. 
  <p class="updated_time"> 04:52 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59837361?at_medium=RSS&at_campaign=KARANGA">Romelu Lukaku: Chelsea manager Thomas Tuchel 'does not like' striker's comments</a> BBC: Chelsea boss Thomas Tuchel says Romelu Lukaku's comments in an interview in which the striker said he was "not happy" with his role at the club "brings noise that we don't need". 
- <p class="updated_time"> 04:36 AM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59837697?at_medium=RSS&at_campaign=KARANGA">Colorado Wildfires: Thousands evacuated as buildings burn</a> BBC: Around 30,000 people have been evacuated as wildfires sweep across the US state of Colorado. 
  <p class="updated_time"> 03:43 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069428211/parents-selling-children-shows-desperation-in-afghanistan">Parents selling children shows desperation in Afghanistan</a> NPR: Many of Afghanistan's growing number of destitute people are making desperate decisions as their nation spirals into a deeper poverty. 
  <p class="updated_time"> 03:03 AM CT, Dec. 31 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Jan. 01 </p> 
+ <a href="https://www.politico.com/news/2022/01/01/congress-future-presidential-ballots-trump-challenge-526168">Congress confronts limitations on preventing Trump-style attack on presidential certification</a> Politico: As lawmakers weigh how to safeguard the certification of elections from a future Jan. 6 attack, they're facing one huge constitutional roadblock. 
  <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/us/politics/afghan-war-isis-attack.html">U.S. Military Focusing on ISIS Cell Behind Attack at Kabul Airport</a> NYT: The suicide bomber who killed nearly 200 people, including 13 U.S. troops, had been freed from prison by the Taliban days before the attack. 
  <p class="updated_time"> 07:40 PM CT, Dec. 31 </p> 
