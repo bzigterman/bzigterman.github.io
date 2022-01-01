@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:41 AM CT, Jan. 01 </p> 
+ <a href="https://www.politico.com/news/2022/01/01/nkoreas-kim-vows-to-boost-military-maintain-virus-curbs-526302">NKorea’s Kim vows to boost military, maintain virus curbs</a> Politico: There are no signs of political instability in North Korea, but some experts say the long-term stability of Kim’s leadership could be questioned if the current difficulties continue. 
  <p class="updated_time"> 08:35 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/31/nyregion/meisha-porter-nyc-schools-covid.html">Meisha Porter Had 3 Goals as N.Y.C. Schools Chief: ‘Open. Open. Open.’</a> NYT: The departing New York City schools chancellor pulled off a big task in a short period of time: reopening the nation’s largest school district during a pandemic. 
  <p class="updated_time"> 08:15 AM CT, Jan. 01 </p> 
