@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:51 AM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59847371?at_medium=RSS&at_campaign=KARANGA">New law allowing assisted suicide takes effect Austria</a> BBC: The new law allows chronically or terminally ill adults to make provisions for an assisted suicide. 
  <p class="updated_time"> 07:49 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 07:14 AM CT, Jan. 01 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/kim-jong-un-largely-ignores-u-s-south-korea-in-year-end-speech-vows-weapons-development-11641018007">Kim Jong Un Largely Ignores U.S., South Korea in Year-End Speech</a> WSJ: The North Korean leader vowed to pursue high-tech weapons to counter what he called military instability on the Korean Peninsula, but largely ignored the U.S. and South Korea in a year-end speech. 
  <p class="updated_time"> 06:34 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/canada/montreal-bar-mitzvah-photographer.html">Once a Janitor, Now the Bar Mitzvah Photography King of Montreal</a> NYT: With a touch of chutzpah and “a little help from God,” Braulio Rocha, a Roman Catholic Portuguese immigrant, traded in his mop for a camera. 
- <p class="updated_time"> 05:54 PM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59839351?at_medium=RSS&at_campaign=KARANGA">Virginia Giuffre: Prince Andrew accuser seeks evidence he could not sweat</a> BBC: Lawyers for Virginia Giuffre call on the royal to submit medical reports to a New York court. 
  <p class="updated_time"> 04:50 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59843697?at_medium=RSS&at_campaign=KARANGA">French ban on plastic packaging for fruit and vegetables begins</a> BBC: Officials hope the law will prevent a billion items of single use plastics every year. 
  <p class="updated_time"> 03:56 PM CT, Dec. 31 </p> 
@@ -113,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/asia/tesla-batteries-nickel-new-caledonia.html">Can a Sustainable Mining Experiment in New Caledonia Power Tesla's Ambitions?</a> NYT: Nickel is vital to electric car batteries, but extracting it is dirty and destructive. A plant with a turbulent history in New Caledonia is about to become an experiment in doing it better. 
  <p class="updated_time"> 06:03 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/paris-masks-outdoors-omicron.html">Paris Reimposes Outdoor Mask Mandate as Omicron Soars</a> NYT: With more than 2,000 coronavirus cases per 100,000 people, the capital has become the center of France’s spreading Omicron outbreak. 
- <p class="updated_time"> 04:52 AM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/sport/football/59837361?at_medium=RSS&at_campaign=KARANGA">Romelu Lukaku: Chelsea manager Thomas Tuchel 'does not like' striker's comments</a> BBC: Chelsea boss Thomas Tuchel says Romelu Lukaku's comments in an interview in which the striker said he was "not happy" with his role at the club "brings noise that we don't need". 
  <p class="updated_time"> 03:43 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069428211/parents-selling-children-shows-desperation-in-afghanistan">Parents selling children shows desperation in Afghanistan</a> NPR: Many of Afghanistan's growing number of destitute people are making desperate decisions as their nation spirals into a deeper poverty. 
  <p class="updated_time"> 03:03 AM CT, Dec. 31 </p> 
