@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:38 AM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 10:15 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069630495/tutu-state-funeral-south-africa">At his funeral, Tutu is remembered for helping end apartheid and championing rights</a> NPR: "Archbishop Desmond Tutu has been our moral compass and national conscience," South African President Cyril Ramaphosa said in a eulogy at Tutu's state funeral on Saturday. 
  <p class="updated_time"> 10:03 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59847372?at_medium=RSS&at_campaign=KARANGA">French car-burning returns for New Years' Eve</a> BBC: Car burning has become an annual event in French suburbs since riots hit several cities in 2005. 
- <p class="updated_time"> 10:03 AM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 09:56 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/africa/desmond-tutu-funeral-south-africa.html">With a Simple Funeral, South Africa Bids Farewell to Desmond Tutu</a> NYT: The archbishop and Nobel laureate left plans for an unostentatious ceremony, which were stripped back further under Covid restrictions. 
  <p class="updated_time"> 09:30 AM CT, Jan. 01 </p> 
@@ -35,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/business/china-internet-police-twitter.html">Chinese Police Hunt Overseas Critics With Advanced Tech</a> NYT: Authorities in China have turned to sophisticated investigative software to track and silence obscure critics on overseas social media. Their targets include college students and non-Chinese nationals. 
  <p class="updated_time"> 06:17 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59845938?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu funeral: Anti-apartheid campaigner remembered in Cape Town</a> BBC: The anti-apartheid campaigner and Nobel Peace Prize winner died last Sunday, aged 90. 
+ <p class="updated_time"> 05:48 AM CT, Jan. 01 </p> 
+ <a href="https://www.wsj.com/articles/desmond-tutu-is-laid-to-rest-in-south-african-state-funeral-11641028334">Desmond Tutu Is Laid to Rest in South African State Funeral</a> WSJ: The funeral paid tribute to a hero of South Africa’s struggle against apartheid in the cathedral where he spent decades preaching against racial injustice. 
  <p class="updated_time"> 05:00 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/canada/memorable-canada-stories-2021.html">Memorable Canada Stories in 2021</a> NYT: From the discovery of Indigenous graves in British Columbia to a faux Florida retirement community in Quebec, two Times Canada correspondents recall some of the standout stories of the year. 
  <p class="updated_time"> 05:00 AM CT, Jan. 01 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/basketball/59846066?at_medium=RSS&at_campaign=KARANGA">NBA: DeMar DeRozan scores buzzer-beating three-pointer as Chicago Bulls beat Indiana Pacers</a> BBC: DeMar DeRozan scores a buzzer-beating three-pointer to give the Chicago Bulls a 108-106 win at the Indiana Pacers in the NBA. 
  <p class="updated_time"> 03:10 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
- <p class="updated_time"> 02:28 AM CT, Jan. 01 </p> 
- <a href="https://www.wsj.com/articles/desmond-tutu-is-laid-to-rest-in-south-african-state-funeral-11641028334">Desmond Tutu Is Laid to Rest in South African State Funeral</a> WSJ: The funeral paid tribute to a hero of South Africa’s struggle against apartheid in the cathedral where he spent decades preaching against racial injustice. 
  <p class="updated_time"> 02:00 AM CT, Jan. 01 </p> 
  <a href="https://www.wsj.com/articles/scotland-moves-to-pardon-thousands-executed-as-witches400-years-later-11641042001">Scotland Moves to Pardon Thousands Executed as Witches---400 Years Later</a> WSJ: For campaigners working to clear the names of those who were condemned as witches, it is an important reckoning with Scotland’s violent past. 
  <p class="updated_time"> 01:40 AM CT, Jan. 01 </p> 
@@ -66,7 +66,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:12 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59845176?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Woman says families in her neighbourhood lost everything</a> BBC: A woman who had to evacuate her home in Louisville with her family speaks to the BBC. 
  <p class="updated_time"> 01:00 AM CT, Jan. 01 </p> 
- <a href="https://www.wsj.com/articles/u-s-on-sidelines-as-china-and-other-asia-pacific-nations-launch-trade-pact-11641038401">U.S. on Sidelines as China and Other Asia-Pacific Nations Launch Trade Pact</a> WSJ: The Regional Comprehensive Economic Partnership will eventually eliminate more than 90% of tariffs on commerce among 15 member countries. 
+ <a href="https://www.wsj.com/articles/u-s-on-sidelines-as-china-and-other-asia-pacific-nations-launch-trade-pact-11641038401">U.S. on Sidelines as China and Other Nations Launch Trade Pact</a> WSJ: Beijing is joining U.S. allies including Japan and Australia in a new Asia-Pacific trade agreement. 
  <p class="updated_time"> 10:57 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59843920?at_medium=RSS&at_campaign=KARANGA">Colorado: Residents return following devastating fire</a> BBC: Tens of thousands of people in Boulder County were forced to flee their homes on Thursday. 
  <p class="updated_time"> 09:59 PM CT, Dec. 31 </p> 
