@@ -7,7 +7,13 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:21 AM CT, Jan. 01 </p> 
+ <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/01/world/europe/turkey-kurdish-art-exhibit.html">In Turkey, an Exhibit Meant to Highlight Kurdish Suffering Provoked a Furor</a> NYT: A recent art show in a major Kurdish city in Turkey aimed to uplift a region crushed by years of conflict. It ended up serving as a reminder of how toxic the subject of Kurds remains in Turkey. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/01/world/asia/south-korea-men-anti-feminists.html">The New Political Cry in South Korea: ‘Out With Man Haters’</a> NYT: After slow gains in women’s rights, the country is facing a type of political correctness enforced by young men angry at feminists, saying they undermine opportunity. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/01/style/new-years-resolutions-quotes-tips.html">Setting New Year's Resolutions? Start With These Words of Wisdom</a> NYT: Let their stories be your inspiration as you set resolutions for 2022. 
+ <p class="updated_time"> 03:56 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59843925?at_medium=RSS&at_campaign=KARANGA">South Africa holds state funeral for Archbishop Desmond Tutu</a> BBC: The funeral for the anti-apartheid campaigner is taking place in St George's Cathedral in Cape Town. 
  <p class="updated_time"> 03:14 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
@@ -21,10 +27,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59845176?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Woman says families in her neighbourhood lost everything</a> BBC: A woman who had to evacuate her home in Louisville with her family speaks to the BBC. 
  <p class="updated_time"> 12:42 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59845278?at_medium=RSS&at_campaign=KARANGA">India: At least 12 dead in New Year temple stampede</a> BBC: Pilgrims were visiting the shrine of Mata Vaishno Devi to mark the new year when the tragedy unfolded. 
+ <p class="updated_time"> 11:01 PM CT, Dec. 31 </p> 
+ <a href="https://www.wsj.com/articles/desmond-tutu-is-laid-to-rest-in-south-african-state-funeral-11641028334">Desmond Tutu Is Laid to Rest in South African State Funeral</a> WSJ: The state funeral of Archbishop Desmond Tutu, a hero of South Africa’s struggle against apartheid, began in the cathedral where he spent decades preaching against racial injustice. 
  <p class="updated_time"> 10:57 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59843920?at_medium=RSS&at_campaign=KARANGA">Colorado: Residents return following devastating fire</a> BBC: Tens of thousands of people in Boulder County were forced to flee their homes on Thursday. 
- <p class="updated_time"> 10:41 PM CT, Dec. 31 </p> 
- <a href="https://www.wsj.com/articles/desmond-tutu-is-laid-to-rest-in-south-african-state-funeral-11641028334">Desmond Tutu Is Laid to Rest in South African State Funeral</a> WSJ: The state funeral of Archbishop Desmond Tutu, a hero of South Africa’s struggle against apartheid, began in the cathedral where he spent decades preaching against racial injustice. 
  <p class="updated_time"> 09:59 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
  <p class="updated_time"> 08:09 PM CT, Dec. 31 </p> 
@@ -149,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/india-third-wave-covid.html">India Fears a Third Wave of Covid, Driven by Omicron</a> NYT: The health ministry recorded more than 13,000 new cases in a day, one of the highest daily totals since October. 
  <p class="updated_time"> 08:53 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-nhs-field-hospitals-omicron.html">U.K. Plans Field Wards to Meet Omicron Surge</a> NYT: Unlike the “Nightingale hospitals” that went largely unused during the first virus wave, the new facilities are designed for patients needing less intensive treatment. 
- <p class="updated_time"> 08:34 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/asia/afghanistan-taliban-helmand-marja.html">11 Years After Trying to Kill Each Other, a Marine and a Talib Meet Again</a> NYT: A Times reporter who once served in the Marines returned to the site of a major battle in Afghanistan to see what’s changed since the Taliban took over — and to meet a commander he once fought. 
  <p class="updated_time"> 07:56 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
  <p class="updated_time"> 07:49 AM CT, Dec. 30 </p> 
@@ -189,12 +193,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/29/1068895510/thousands-are-displaced-in-brazil-after-weeks-of-flooding-in-bahia-state">Tens of thousands are displaced in Brazil after weeks of flooding in Bahia state</a> NPR: NPR's Ari Shapiro speaks with Gram Slattery, Brazil correspondent for Reuters, about the deadly flooding currently happening in the northeastern state of Bahia, Brazil. 
  <p class="updated_time"> 01:43 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/cincinnati-fire-department-state-of-emergency.html">Cincinnati Declares State of Emergency Amid Fire Department Staffing Shortages</a> NYT: Mayor John Cranley called the challenges a “public danger” that would undermine the city’s ability to respond to fire emergencies. 
- <p class="updated_time"> 01:21 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/europe/france-left-presidential-election-primary.html">A Movement to Unify the French Left Might Be Its Last Chance for the Elections</a> NYT: A citizens’ initiative is pressuring the fragmented force to set parties’ interests aside and join together for next year’s presidential race. 
  <p class="updated_time"> 11:20 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/middleeast/israel-avian-flu.html">Israel's Avian Flu Outbreak Has Killed Thousands of Cranes</a> NYT: Thousands of migratory cranes have died and more than half a million chickens have been culled as the country tries to contain a deadly bird virus. 
- <p class="updated_time"> 10:41 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/asia/myanmar-coup-refugees.html">Stay or Go? For Myanmar’s Latest Wave of Refugees, There’s No Good Choice.</a> NYT: Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire. 
 
 
 </details>
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/01/us/politics/afghan-war-isis-attack.html">U.S. Military Focusing on ISIS Cell Behind Attack at Kabul Airport</a> NYT: The suicide bomber who killed nearly 200 people, including 13 U.S. troops, had been freed from prison by the Taliban days before the attack. 
  <p class="updated_time"> 07:40 PM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/kerik-documents-jan-6-committee-526297">Bernard Kerik provides batch of documents to Jan. 6 select committee</a> Politico: The former New York City Police commissioner also provided a “privilege log” describing materials he declined to provide to the committee. 
  <p class="updated_time"> 05:27 PM CT, Dec. 31 </p> 
@@ -376,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/28/bunny-mellons-millions-at-play-in-dc-divorce-495554"> Bunny Mellon’s millions at play in D.C. divorce</a> Politico Playbook: And the CDC Monday shortened the isolation period for people who test positive for Covid-19 and are asymptomatic 
  <p class="updated_time"> 08:58 AM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/january-6-committee-interim-report-summer-2022/index.html">January 6 committee eyes interim report by summer 2022</a> CNN: The House select committee investigating the January 6 Capitol Hill riot is working toward a goal of releasing an interim report with initial findings by the summer, a committee aide told CNN, and that a final report would follow in fall 2022. 
- <p class="updated_time"> 04:20 PM CT, Dec. 27 </p> 
- <a href="https://www.nytimes.com/2021/12/27/us/politics/biden-defense-bill.html">President Biden Signs $770 Billion Defense Bill</a> NYT: The National Defense Authorization Act passed Congress with bipartisan support, over the opposition of liberals pushing for more social spending. 
  <p class="updated_time"> 03:19 PM CT, Dec. 27 </p> 
  <a href="https://www.cnn.com/2021/12/27/politics/joe-biden-signs-ndaa/index.html">Biden signs annual defense bill</a> CNN: President Joe Biden signed the vital National Defense Authorization Act military funding bill, passed earlier this month by Congress, into law Monday morning. 
  <p class="updated_time"> 01:07 PM CT, Dec. 27 </p> 
