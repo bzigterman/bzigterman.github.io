@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:52 PM CT, Jan. 01 </p> 
+ <a href="https://www.cnn.com/2022/01/01/politics/nyc-mayor-eric-adams-swear-in/index.html">Eric Adams sworn in as New York City mayor</a> CNN: Eric Adams, New York City's new mayor, was sworn in to office just minutes after the crystal ball dropped at midnight in Times Square on January 1. 
  <p class="updated_time"> 01:06 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/30/upshot/medical-bill-ban-biden.html">A New Ban on Surprise Medical Bills Starts Today</a> NYT: If you have a medical emergency, you will no longer need to worry about a large bill from a doctor you did not choose. 
  <p class="updated_time"> 11:59 AM CT, Jan. 01 </p> 
@@ -232,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/01/progressives-2024-primary-challenge-526299">The left is already looking to 2024. Some want to see a Biden primary challenge.</a> Politico: “Will there be a progressive challenger? Yes,” said one prominent Democrat. 
  <p class="updated_time"> 07:00 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/news/2022/01/01/congress-future-presidential-ballots-trump-challenge-526168">Efforts to Trump-proof presidential certification crash into congressional realities</a> Politico: As lawmakers weigh how to safeguard the certification of elections from a future Jan. 6 attack, they’re facing one huge constitutional roadblock. 
- <p class="updated_time"> 11:47 PM CT, Dec. 31 </p> 
- <a href="https://www.cnn.com/2022/01/01/politics/nyc-mayor-eric-adams-swear-in/index.html">Eric Adams sworn in as New York City mayor</a> CNN: Eric Adams, New York City's new mayor, was sworn in to office just minutes after the crystal ball dropped at midnight in Times Square on January 1. 
  <p class="updated_time"> 10:00 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/biden-new-years-eve/index.html">Biden rings in new year, says there's 'no quit in America'</a> CNN: In a New Year's Eve message Friday, President Joe Biden said he's "more optimistic about America's future than I've ever been." 
  <p class="updated_time"> 07:40 PM CT, Dec. 31 </p> 
