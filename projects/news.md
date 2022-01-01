@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:14 AM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59843925?at_medium=RSS&at_campaign=KARANGA">South Africa holds state funeral for Archbishop Desmond Tutu</a> BBC: The funeral for the anti-apartheid campaigner took place in St George's Cathedral in Cape Town. 
+ <p class="updated_time"> 07:07 AM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
+ <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
+ <a href="https://www.npr.org/2022/01/01/1069611016/there-are-signs-negotiators-are-making-progress-toward-a-nuclear-deal-with-iran">There are signs negotiators are making progress toward a nuclear deal with Iran</a> NPR: For the first time in months, European negotiators report progress in nuclear talks with Iran and the U.S. An agreement would revive an Obama-era pact that President Donald Trump abandoned. 
+ <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
+ <a href="https://www.npr.org/2022/01/01/1069610953/waste-pickers-in-istanbul-are-being-targeted-for-deportation">'Waste pickers' in Istanbul are being targeted for deportation</a> NPR: In Istanbul, many recent immigrants make their living by sifting through trash for items to recycle. But recent immigration raids have made the work far riskier. 
  <p class="updated_time"> 06:54 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/hindu-shrine-stampede-kashmir.html">At Least 12 Die in Stampede at a Hindu Shrine in Kashmir</a> NYT: Thousands of devotees were visiting the Mata Vaishno Devi shrine to mark the beginning of the year. 
  <p class="updated_time"> 06:39 AM CT, Jan. 01 </p> 
@@ -15,20 +23,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/business/china-internet-police-twitter.html">Chinese Police Hunt Overseas Critics With Advanced Tech</a> NYT: Authorities in China have turned to sophisticated investigative software to track and silence obscure critics on overseas social media. Their targets include college students and non-Chinese nationals. 
  <p class="updated_time"> 06:17 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59845938?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu funeral: Anti-apartheid campaigner remembered in Cape Town</a> BBC: The anti-apartheid campaigner and Nobel Peace Prize winner died last Sunday, aged 90. 
- <p class="updated_time"> 05:40 AM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59843925?at_medium=RSS&at_campaign=KARANGA">South Africa holds state funeral for Archbishop Desmond Tutu</a> BBC: The funeral for the anti-apartheid campaigner took place in St George's Cathedral in Cape Town. 
  <p class="updated_time"> 05:00 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/canada/memorable-canada-stories-2021.html">Memorable Canada Stories in 2021</a> NYT: From the discovery of Indigenous graves in British Columbia to a faux Florida retirement community in Quebec, two Times Canada correspondents recall some of the standout stories of the year. 
  <p class="updated_time"> 04:44 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59845278?at_medium=RSS&at_campaign=KARANGA">India: At least 12 dead in New Year temple stampede</a> BBC: Pilgrims were visiting the shrine of Mata Vaishno Devi to mark the new year when the tragedy unfolded. 
- <p class="updated_time"> 04:24 AM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/europe/turkey-kurdish-art-exhibit.html">In Turkey, an Exhibit Meant to Highlight Kurdish Suffering Provoked a Furor</a> NYT: A recent art show in a major Kurdish city in Turkey aimed to uplift a region crushed by years of conflict. It ended up serving as a reminder of how toxic the subject of Kurds remains in Turkey. 
  <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/south-korea-men-anti-feminists.html">The New Political Cry in South Korea: ‘Out With Man Haters’</a> NYT: After slow gains in women’s rights, the country is facing a type of political correctness enforced by young men angry at feminists, saying they undermine opportunity. 
  <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/style/new-years-resolutions-quotes-tips.html">Setting New Year's Resolutions? Start With These Words of Wisdom</a> NYT: Let their stories be your inspiration as you set resolutions for 2022. 
+ <p class="updated_time"> 03:53 AM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59689367?at_medium=RSS&at_campaign=KARANGA">Quiz: How well do you remember football in 2021?</a> BBC: Test your knowledge of football in 2021 by taking our quiz... 
  <p class="updated_time"> 03:10 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
  <p class="updated_time"> 01:40 AM CT, Jan. 01 </p> 
@@ -133,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/us/politics/biden-putin-ukraine-call.html">Putin Warns Biden of ‘Complete Rupture’ of U.S.-Russia Relationship Over Ukraine</a> NYT: President Vladimir V. Putin of Russia spoke with President Biden for 50 minutes about the escalating crisis with Ukraine, but his intentions remained unclear. 
  <p class="updated_time"> 08:52 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/indonesia-rohingya-boat.html">Indonesia Lets Stranded Refugee Boat Land After Vowing to Turn It Away</a> NYT: The boat came shore on Friday with more than 100 Rohingya refugees on board. Indonesia relented under pressure from rights groups. 
- <p class="updated_time"> 07:01 PM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59309768?at_medium=RSS&at_campaign=KARANGA">Year in tech: The stories making headlines in 2021</a> BBC: From the metaverse to NFTs and everything in-between, what's made the news in tech this year? 
  <p class="updated_time"> 06:22 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1069338981/biden-putin-call-russia-ukraine">Biden again calls on Putin to de-escalate tensions along Ukraine border</a> NPR: It was the second time the two leaders spoke this month, as Russia has assembled as many as 100,000 troops along the Ukrainian border, prompting fears of an invasion. 
  <p class="updated_time"> 06:15 PM CT, Dec. 30 </p> 
@@ -175,14 +179,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/30/1069033446/officials-promise-groceries-for-xian-china-city-of-13-million-under-lockdown">Officials promise groceries for Xi'an, China, city of 13 million under lockdown</a> NPR: Officials pledged steady deliveries of groceries to residents of Xi'an, a city of 13 million that is under the strictest lockdown of a major Chinese city since Wuhan at the start of the pandemic. 
  <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/most-popular-dispatches-2021.html">In 2021, We Were There: The Year’s 14 Most Popular Dispatches</a> NYT: Not even a pandemic, wars or autocrats could prevent our correspondents from seeking out secrets and surprises to share with readers. They sent dispatches from 40 countries on six continents. 
- <p class="updated_time"> 02:14 AM CT, Dec. 30 </p> 
- <a href="https://www.npr.org/2021/12/30/1069021763/hong-kong-police-charge-2-from-pro-democracy-news-outlet-with-sedition">Hong Kong police charge 2 from pro-democracy news outlet with sedition</a> NPR: Hong Kong police on Thursday formally charged two people from a pro-democracy news outlet with sedition, a day after it said it would cease operations after a police raid and seven arrests. 
- <p class="updated_time"> 11:40 PM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/30/1069012597/the-myanmar-military-is-employing-a-familiar-strategy-of-massacres-and-burnings">The Myanmar military is employing a familiar strategy of massacres and burnings</a> NPR: The massacres and scorched-earth tactics represent the latest escalation in the military's violence against both civilians and the growing opposition to the military's February coup. 
  <p class="updated_time"> 09:08 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/connecticut-gun-threat-covid-testing-site.html">Testing Site in Connecticut Is Forced to Close After Gun Threat</a> NYT: Another location nearby also shut down after the crowd grew agitated. 
- <p class="updated_time"> 07:55 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-59755100?at_medium=RSS&at_campaign=KARANGA">What does future warfare look like? It's here already</a> BBC: There's one area where the West is falling dangerously behind Russia and China - hypersonic missiles. 
  <p class="updated_time"> 06:11 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/world-junior-championship-canceled-canada.html">World Junior Championship, a Showcase for Hockey’s Top Prospects, Is Canceled</a> NYT: The cancellation was an ominous sign for sports leagues, including the N.H.L. and the N.B.A., which have been struggling to maintain schedules. 
  <p class="updated_time"> 06:08 PM CT, Dec. 29 </p> 
@@ -204,10 +202,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
+ <a href="https://www.npr.org/2022/01/01/1069611016/there-are-signs-negotiators-are-making-progress-toward-a-nuclear-deal-with-iran">There are signs negotiators are making progress toward a nuclear deal with Iran</a> NPR: For the first time in months, European negotiators report progress in nuclear talks with Iran and the U.S. An agreement would revive an Obama-era pact that President Donald Trump abandoned. 
+ <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
+ <a href="https://www.npr.org/2022/01/01/1069610988/almost-a-year-after-jan-6-two-journalists-release-their-book-the-steal">Almost a year after Jan. 6, two journalists release their book 'The Steal'</a> NPR: David Gura speaks with journalists Mark Bowden and Matthew Teague about their new book "The Steal: The Attempt to Overturn the 2020 Election and the People Who Stopped It." 
+ <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
+ <a href="https://www.npr.org/2022/01/01/1069610932/week-in-politics-biden-says-there-is-no-federal-solution-to-the-pandemic">Week in politics: Biden says there is no federal solution to the pandemic</a> NPR: President Joe Biden says there's no federal solution to the pandemic as cases climb dramatically. 
+ <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
+ <a href="https://www.npr.org/2022/01/01/1069610925/bidens-top-economics-advisor-weighs-in-on-how-omicron-is-affecting-economic-reco">Biden's top economics advisor weighs in on how omicron is affecting economic recovery</a> NPR: David Gura speaks to Cecilia Rouse, chair of the White House Council of Economic Advisers, about the health of the U.S. economy amid inflation, supply chain interruptions and labor shortages. 
+ <p class="updated_time"> 07:01 AM CT, Jan. 01 </p> 
+ <a href="https://www.cnn.com/2022/01/01/politics/joe-biden-2022-pandemic-russia-ukraine-congress-democrats/index.html">Biden's 2022 challenges revolve around Covid, Russia and dealing with Congress</a> CNN: President Joe Biden will return to the White House from an abbreviated winter break facing a set of hurdles that will test his political, diplomatic and management skills at a trying moment for his presidency. 
  <p class="updated_time"> 07:00 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/news/2022/01/01/congress-future-presidential-ballots-trump-challenge-526168">Congress confronts limitations on preventing Trump-style attack on presidential certification</a> Politico: As lawmakers weigh how to safeguard the certification of elections from a future Jan. 6 attack, they're facing one huge constitutional roadblock. 
  <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/us/politics/afghan-war-isis-attack.html">U.S. Military Focusing on ISIS Cell Behind Attack at Kabul Airport</a> NYT: The suicide bomber who killed nearly 200 people, including 13 U.S. troops, had been freed from prison by the Taliban days before the attack. 
+ <p class="updated_time"> 11:47 PM CT, Dec. 31 </p> 
+ <a href="https://www.cnn.com/2022/01/01/politics/nyc-mayor-eric-adams-swear-in/index.html">Eric Adams sworn in as New York City mayor</a> CNN: Eric Adams, New York City's new mayor, was sworn in to office just minutes after the crystal ball dropped at midnight in Times Square on January 1. 
  <p class="updated_time"> 07:40 PM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/kerik-documents-jan-6-committee-526297">Bernard Kerik provides batch of documents to Jan. 6 select committee</a> Politico: The former New York City Police commissioner also provided a “privilege log” describing materials he declined to provide to the committee. 
  <p class="updated_time"> 05:27 PM CT, Dec. 31 </p> 
@@ -298,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/30/politics/israel-saudi-arabia-omicron-call/index.html">Saudi and Israeli foreign ministers joined recent State Department virtual meeting on Omicron</a> CNN: US Secretary of State Antony Blinken's virtual meeting with foreign ministers about the Omicron coronavirus variant last week included the ministers from both Saudi Arabia and Israel, a rare instance where the two countries who do not have formal diplomatic relations participated in the same call. 
  <p class="updated_time"> 11:35 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/marines-kick-out-troops-covid-vaccine-526266">Marines kick out 206 troops for refusing Covid-19 vaccine</a> Politico: Overall, 95 percent of all active-duty Marines have received at least the first dose. 
- <p class="updated_time"> 10:40 AM CT, Dec. 30 </p> 
- <a href="https://www.npr.org/2021/12/30/1068766592/top-fresh-air-stories-2021">You won't want to miss the 10 most popular 'Fresh Air' stories of 2021</a> NPR: From Dr. Anthony Fauci to Sacha Baron Cohen, the year's most popular Fresh Air web pages reflect the show's strength as a place where artists, authors and journalists speak to the moment. 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
  <p class="updated_time"> 09:50 AM CT, Dec. 30 </p> 
@@ -314,18 +322,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/27/us/politics/sarah-weddington-dead.html">Sarah Weddington, Who Successfully Argued Roe v. Wade, Dies at 76</a> NYT: She went before the U.S. Supreme Court at 26 with almost no legal experience and won one of the most consequential cases in American history. 
  <p class="updated_time"> 07:07 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/j-j-booster-hospitalization-526263">J&J's booster shown effective against Covid hospitalization</a> Politico: The results mark the first evidence of the effectiveness of such a vaccine boost while Omicron is circulating. 
- <p class="updated_time"> 07:02 AM CT, Dec. 30 </p> 
- <a href="https://www.npr.org/2021/12/30/1069048017/michigan-paid-8-5-billion-in-fraudulent-jobless-claims-during-the-pandemic">Michigan paid up to $8.5 billion in fraudulent jobless claims during the pandemic</a> NPR: Other states have reported similar losses. Ohio reported it paid out more than $3.8 billion in fraudulent jobless aid. California has paid out at least $20 billion. 
  <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-administration-shifting-covid-guidance/index.html">Analysis: Biden administration signals pandemic strategy shift in the face of Omicron </a> CNN: America is plunging into a fast-worsening and frightening winter bout with Covid-19 that will leave few citizens and communities untouched. But as the highly transmissible Omicron variant roars across the country, the Biden administration is revealing the most tangible signs of a shifting pandemic strategy several weeks in the making. It is preparing a nation exhausted by two years of battling the invisible enemy to live more feasibly alongside it. 
  <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/mark-walker-north-carolina-trump-526235">Former GOP congressman faces Trump squeeze in key Senate race</a> Politico: Former Rep. Mark Walker's looming decision: whether to drop down and run in a House primary, or continue his uphill bid against a Trump-endorsed rival. 
  <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/omicron-economic-slide-women-526257">‘Two steps forward, one step back’: Omicron threatens new economic slide for women</a> Politico: Unexpected school closures and reinstated lockdowns, on top of a crippled child care industry, could reverse what progress women have made since the pandemic abated earlier this year. 
- <p class="updated_time"> 04:07 AM CT, Dec. 30 </p> 
- <a href="https://www.npr.org/2021/12/30/1069027387/morning-news-brief">News brief: Record COVID cases, Ghislaine Maxwell verdict, Biden-Putin call </a> NPR: The U.S. hits a record number of COVID-19 cases. A British socialite is found guilty of helping Jeffrey Epstein sexually abuse girls. President Biden and Russia's Putin are to speak on the phone. 
- <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
- <a href="https://www.npr.org/2021/12/30/1068601539/as-the-jan-6-attack-anniversary-nears-one-capitol-officer-fears-a-violent-repeat">As the Jan. 6 attack anniversary nears, one Capitol officer fears a violent repeat</a> NPR: Ten months after U.S. Capitol Police Sgt. Aquilino Gonell thought he'd die as Capitol rioters pummeled him, he's still working to recover his mental and physical health. 
  <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/upshot/medical-bill-ban-biden.html">A New Ban on Surprise Medical Bills Starts This Week</a> NYT: If you have a medical emergency, you will no longer need to worry about a large bill from a doctor you did not choose. 
  <p class="updated_time"> 10:47 PM CT, Dec. 29 </p> 
