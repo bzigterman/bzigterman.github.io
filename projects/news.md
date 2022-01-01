@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:45 PM CT, Dec. 31 </p> 
+ <p class="updated_time"> 11:13 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Subdued Celebrations Mark Arrival of 2022, As Omicron Casts a Pall Over New Year’s Eve</a> NYT: The British government released data showing people with Omicron were less likely to need hospitalization, and animal studies suggested the variant spares the lungs. 
  <p class="updated_time"> 09:59 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
@@ -56,7 +56,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:45 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/africa/uganda-congo-rebels-adf.html">Why Did Uganda Send Troops Into Congo?</a> NYT: The Ugandan government says it is targeting rebels it accuses of terrorist attacks in Kampala. Many Congolese fear the incursion is cover for yet another plundering of their country. 
  <p class="updated_time"> 10:09 AM CT, Dec. 31 </p> 
- <a href="https://www.npr.org/2021/12/31/1069472217/new-years-eve-omicron">As the world marks New Year's Eve, celebrations are muted by omicron</a> NPR: In many places, New Year's Eve celebrations were muted or canceled for the second straight year due to a surge of coronavirus infections, this time driven by the highly contagious omicron variant. 
+ <a href="https://www.npr.org/2021/12/31/1069472217/new-years-eve-omicron">As the world marks a new year, celebrations are muted by omicron</a> NPR: In many places, New Year's Eve celebrations were muted or canceled for the second straight year due to a surge of coronavirus infections, this time driven by the highly contagious omicron variant. 
  <p class="updated_time"> 10:08 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59839724?at_medium=RSS&at_campaign=KARANGA">Jeffrey Epstein: Charges dropped against prison guards who falsified records</a> BBC: The pair admitted falsifying records to show they had monitored Epstein on the night of his death. 
  <p class="updated_time"> 09:42 AM CT, Dec. 31 </p> 
