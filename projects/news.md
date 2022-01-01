@@ -22,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:15 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069630495/tutu-state-funeral-south-africa">At his funeral, Tutu is remembered for helping end apartheid and championing rights</a> NPR: "Archbishop Desmond Tutu has been our moral compass and national conscience," South African President Cyril Ramaphosa said in a eulogy at Tutu's state funeral on Saturday. 
  <p class="updated_time"> 10:03 AM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59847372?at_medium=RSS&at_campaign=KARANGA">French car-burning returns for New Years' Eve</a> BBC: Car burning has become an annual event in French suburbs since riots hit several cities in 2005. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59847372?at_medium=RSS&at_campaign=KARANGA">French car-burning returns for New Year's Eve</a> BBC: Car burning has become an annual event in French suburbs since riots hit several cities in 2005. 
  <p class="updated_time"> 09:30 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069627569/north-korea-kim-military">North Korea's Kim vows to build up military and maintain anti-virus measures</a> NPR: In a speech at a key political conference, Kim Jong Un vowed to further bolster his military capability, maintain draconian anti-virus measures and push hard to improve the economy. 
  <p class="updated_time"> 08:01 AM CT, Jan. 01 </p> 
@@ -187,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/world-junior-championship-canceled-canada.html">World Junior Championship, a Showcase for Hockey’s Top Prospects, Is Canceled</a> NYT: The cancellation was an ominous sign for sports leagues, including the N.H.L. and the N.B.A., which have been struggling to maintain schedules. 
  <p class="updated_time"> 06:00 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59736375?at_medium=RSS&at_campaign=KARANGA">How 'fake news' affected the world in 2021</a> BBC: Misinformation about the Covid pandemic and climate change is slowing an effective collective response to these emergencies. 
- <p class="updated_time"> 05:44 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/europe/europe-omicron-infection-record-covid.html">Spurred by Omicron, Europe Sets Covid Infection Records Every Day</a> NYT: The surge of cases is causing chaos as people scramble to obtain tests, businesses grapple with staff shortages and New Year’s festivities are thrown into question. 
  <p class="updated_time"> 05:40 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/westminster-dog-show-postponed-covid.html">2022 Westminster Dog Show Postponed Amid Omicron Surge</a> NYT: The 2021 show was pushed to June and held outdoors because of the virus. 
  <p class="updated_time"> 05:28 PM CT, Dec. 29 </p> 
