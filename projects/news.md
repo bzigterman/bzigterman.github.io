@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:35 PM CT, Dec. 31 </p> 
+ <p class="updated_time"> 08:29 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: As Omicron Casts a Pall Over New Year’s Eve, Studies Provide Glimmer of Hope</a> NYT: Many countries marked the end of 2021 with subdued celebrations. The British government released data showing people with Omicron were less likely to need hospitalization, and animal studies suggested the variant spares the lungs. 
+ <p class="updated_time"> 08:09 PM CT, Dec. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59843627?at_medium=RSS&at_campaign=KARANGA">Betty White: Biden leads tributes for Golden Girls actress</a> BBC: The long-time Hollywood star died on Friday at the age of 99 after an eight-decade film and TV career. 
  <p class="updated_time"> 06:34 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/canada/montreal-bar-mitzvah-photographer.html">Once a Janitor, Now the Bar Mitzvah Photography King of Montreal</a> NYT: With a touch of chutzpah and “a little help from God,” Braulio Rocha, a Roman Catholic Portuguese immigrant, traded in his mop for a camera. 
  <p class="updated_time"> 05:54 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59839351?at_medium=RSS&at_campaign=KARANGA">Virginia Giuffre: Prince Andrew accuser seeks evidence he could not sweat</a> BBC: Lawyers for Virginia Giuffre call on the royal to submit medical reports to a New York court. 
- <p class="updated_time"> 05:13 PM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59843627?at_medium=RSS&at_campaign=KARANGA">Betty White: Biden leads tributes for Golden Girls actress</a> BBC: The long-time Hollywood star died on Friday at the age of 99 after an eight-decade film and TV career. 
  <p class="updated_time"> 04:50 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59843697?at_medium=RSS&at_campaign=KARANGA">French ban on plastic packaging for fruit and vegetables begins</a> BBC: Effective from New Year's day, officials hope the law will prevent a billion items of single use plastics every year. 
  <p class="updated_time"> 04:01 PM CT, Dec. 31 </p> 
