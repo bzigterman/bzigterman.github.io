@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:20 AM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59845833?at_medium=RSS&at_campaign=KARANGA">Covid: UAE bans foreign travel for citizens without booster jab</a> BBC: Emiratis will need a third dose of a coronavirus vaccine if they want to leave the country. 
+ <p class="updated_time"> 11:16 AM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/01/world/europe/pontifical-oriental-institute-digital-texts.html">A Vatican Library Shortens the Distance Between Its Works and Its Scholars</a> NYT: Rare books in Rome are going online thanks to a German copier, a Long Island scanning firm and a New York software company. 
  <p class="updated_time"> 10:38 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 10:15 AM CT, Jan. 01 </p> 
@@ -87,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/sports/football/kirk-cousins-covid.html">Kirk Cousins Tests Positive for Covid-19</a> NYT: Cousins was placed on the team’s Covid-19 reserve list for at least five days, threatening Minnesota’s playoff chances. 
  <p class="updated_time"> 01:43 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-53723448?at_medium=RSS&at_campaign=KARANGA">Obituary: Betty White, the Golden Girl with a heart of gold</a> BBC: One of America's original screen stars, Betty White enjoyed a career spanning eight decades. 
- <p class="updated_time"> 01:28 PM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-59840513?at_medium=RSS&at_campaign=KARANGA">Covid-19: WHO chief optimistic disease will be beaten in 2022</a> BBC: The organisation ends the year on a positive note but warns about "nationalism and vaccine hoarding". 
  <p class="updated_time"> 12:57 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/americas/quebec-new-years-eve-curfew.html">Quebec Government Faces Backlash Over New Year’s Eve Curfew</a> NYT: Residents who leave their homes past 10 p.m. could face fines of up to $4,750. 
  <p class="updated_time"> 12:32 PM CT, Dec. 31 </p> 
@@ -200,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:53 AM CT, Jan. 01 </p> 
+ <a href="https://www.politico.com/news/2022/01/01/new-years-rose-parade-proceeds-despite-covid-19-surge-526303">New Year’s Rose Parade proceeds despite Covid-19 surge</a> Politico: The 2021 Rose Parade was canceled months ahead of time. The Rose Bowl football game was played after being moved to Arlington, Texas. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
@@ -211,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:35 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/31/nyregion/meisha-porter-nyc-schools-covid.html">Meisha Porter Had 3 Goals as N.Y.C. Schools Chief: ‘Open. Open. Open.’</a> NYT: The departing New York City schools chancellor pulled off a big task in a short period of time: reopening the nation’s largest school district during a pandemic. 
  <p class="updated_time"> 08:04 AM CT, Jan. 01 </p> 
- <a href="https://www.cnn.com/2022/01/01/politics/congress-agenda-2022/index.html">What's on the agenda for Congress in 2022?</a> CNN: Congress has a lengthy to-do list that lawmakers will have to tackle when they return to Washington for the new year after the holiday season. 
+ <a href="https://www.cnn.com/2022/01/01/politics/congress-agenda-2022/index.html">Another government funding deadline is rapidly approaching</a> CNN: Congress has a lengthy to-do list that lawmakers will have to tackle when they return to Washington for the new year after the holiday season. 
  <p class="updated_time"> 07:28 AM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/republican-judiciary-committee-deletes-tweet-covid-vaccine-disinfo/index.html">House GOP committee deletes tweet spreading disinformation about Covid-19 booster shots </a> CNN: Republicans on the House Judiciary Committee deleted a tweet Friday morning that spread disinformation about Covid-19 booster shots. 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
