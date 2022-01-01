@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:24 AM CT, Jan. 01 </p> 
+ <p class="updated_time"> 01:12 AM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59845176?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Woman says families in her neighbourhood lost everything</a> BBC: A woman who had to evacuate her home in Louisville with her family speaks to the BBC. 
+ <p class="updated_time"> 01:11 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 12:06 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59843925?at_medium=RSS&at_campaign=KARANGA">South Africa prepares to bury Archbishop Desmond Tutu</a> BBC: The funeral for Tutu, who helped end apartheid in South Africa, will take place on Saturday. 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/business/china-evergrande-default-publicity.html">What Default? With Confetti and Fanfare, Evergrande Says It’s Ready to Build.</a> NYT: Weeks after signaling it could no longer go on, the troubled Chinese property developer has pledged to start paying its workers and completing projects again. Buyers are skeptical. 
  <p class="updated_time"> 02:00 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/business/china-internet-police-twitter.html">Chinese Police Hunt Overseas Critics With Advanced Tech</a> NYT: Authorities in China have turned to sophisticated investigative software to track and silence obscure critics on overseas social media. Their targets include college students and non-Chinese nationals. 
- <p class="updated_time"> 12:11 AM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59835210?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: News crew escapes fast-spreading flames</a> BBC: Members of a CBS team escape in a hurry as flames blaze across grass in their direction. 
  <p class="updated_time"> 12:02 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-59644117?at_medium=RSS&at_campaign=KARANGA">The Corozal: Scottish dredger that helped build the Panama Canal</a> BBC: Museum staff unearthed the story of a Scottish dredger involved in constructing the famous trading route. 
  <p class="updated_time"> 12:00 AM CT, Dec. 31 </p> 
