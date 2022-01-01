@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:45 PM CT, Jan. 01 </p> 
+ <a href="https://www.politico.com/news/2022/01/01/officials-nearly-1k-homes-destroyed-in-colorado-wildfire-526305">Officials: Nearly 1K homes destroyed in Colorado wildfire</a> Politico: The wind-whipped wildfire charred entire neighborhoods in a suburban area between Denver and Boulder. 
  <p class="updated_time"> 03:47 PM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/news/2022/01/01/on-busy-1st-day-nyc-mayor-urges-resiliency-against-pandemic-526304">On busy 1st day, NYC mayor urges resiliency against pandemic</a> Politico: “Getting vaccinated is not letting the crisis control you,” Adams said at City Hall. 
  <p class="updated_time"> 01:52 PM CT, Jan. 01 </p> 
@@ -256,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/31/betty-white-dies-99-526292">Betty White, TV’s Golden Girl, dies at 99</a> Politico: The actress, whose up-for-anything charm made her a television mainstay for more than 60 years, has died. 
  <p class="updated_time"> 02:38 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/biden-volodymyr-zelensky-call-ukraine/index.html">Biden to speak with Zelensky as US warns against Russian invasion of Ukraine</a> CNN: President Joe Biden will speak with Ukrainian President Volodymyr Zelensky on Sunday, several days after Biden urged Russian President Vladimir Putin to ease an unremitting military crisis on Ukraine's border. 
- <p class="updated_time"> 10:30 AM CT, Dec. 31 </p> 
- <a href="https://www.politico.com/news/2021/12/31/wildfires-burn-hundreds-of-homes-in-colorado-thousands-flee-526290">Wildfires burn hundreds of homes in Colorado, thousands flee</a> Politico: Tens of thousands of displaced Coloradans anxiously waited to learn what was left standing of their lives Friday after the flames burned an estimated 580 homes, a hotel and a shopping center. 
  <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/31/meet-the-gops-new-national-security-power-broker-495557"> Meet the GOP’s new national security power broker</a> Politico Playbook: And neither Biden nor Putin backs down on a new call. 
  <p class="updated_time"> 07:15 AM CT, Dec. 31 </p> 
