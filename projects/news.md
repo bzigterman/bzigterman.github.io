@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:54 AM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/01/world/asia/hindu-shrine-stampede-kashmir.html">At Least 12 Die in Stampede at a Hindu Shrine in Kashmir</a> NYT: Thousands of devotees were visiting the Mata Vaishno Devi shrine to mark the beginning of the year. 
+ <p class="updated_time"> 06:39 AM CT, Jan. 01 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/01/01/1062815252/flood-survivors-former-sex-slaves-fantastic-masks-top-global-photo-stories-of-20">Flood survivors, former sex slaves, fantastic masks: Top global photo stories of 2021</a> NPR: The power of photos can be seen in our most popular picture essays of the year, with compelling images from South Sudan, the Philippines, Mexico (check out those artistic face coverings) and more. 
+ <p class="updated_time"> 06:34 AM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/business/china-internet-police-twitter.html">Chinese Police Hunt Overseas Critics With Advanced Tech</a> NYT: Authorities in China have turned to sophisticated investigative software to track and silence obscure critics on overseas social media. Their targets include college students and non-Chinese nationals. 
  <p class="updated_time"> 06:17 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59845938?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu funeral: Anti-apartheid campaigner remembered in Cape Town</a> BBC: The anti-apartheid campaigner and Nobel Peace Prize winner died last Sunday, aged 90. 
  <p class="updated_time"> 05:40 AM CT, Jan. 01 </p> 
@@ -109,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/31/1069430504/new-virus-infections-driven-by-omicron-soar-to-record-high-in-australia">New virus infections driven by omicron soar to record high in Australia </a> NPR: New coronavirus infections soared again in Australia on Friday to a record of more than 32,000 driven by the highly contagious omicron variant and a recent relaxation of restrictions in many areas. 
  <p class="updated_time"> 02:33 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/business/china-evergrande-default-publicity.html">What Default? With Confetti and Fanfare, Evergrande Says It’s Ready to Build.</a> NYT: Weeks after signaling it could no longer go on, the troubled Chinese property developer has pledged to start paying its workers and completing projects again. Buyers are skeptical. 
- <p class="updated_time"> 02:00 AM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/31/business/china-internet-police-twitter.html">Chinese Police Hunt Overseas Critics With Advanced Tech</a> NYT: Authorities in China have turned to sophisticated investigative software to track and silence obscure critics on overseas social media. Their targets include college students and non-Chinese nationals. 
  <p class="updated_time"> 12:02 AM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-59644117?at_medium=RSS&at_campaign=KARANGA">The Corozal: Scottish dredger that helped build the Panama Canal</a> BBC: Museum staff unearthed the story of a Scottish dredger involved in constructing the famous trading route. 
  <p class="updated_time"> 12:00 AM CT, Dec. 31 </p> 
@@ -191,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/westminster-dog-show-postponed-covid.html">2022 Westminster Dog Show Postponed Amid Omicron Surge</a> NYT: The 2021 show was pushed to June and held outdoors because of the virus. 
  <p class="updated_time"> 05:28 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59733623?at_medium=RSS&at_campaign=KARANGA">Who is Ghislaine Maxwell? The story of her downfall</a> BBC: How she went from being the toast of high society to a convicted sex trafficker. 
- <p class="updated_time"> 04:04 PM CT, Dec. 29 </p> 
- <a href="https://www.npr.org/2021/12/29/1068895510/thousands-are-displaced-in-brazil-after-weeks-of-flooding-in-bahia-state">Tens of thousands are displaced in Brazil after weeks of flooding in Bahia state</a> NPR: NPR's Ari Shapiro speaks with Gram Slattery, Brazil correspondent for Reuters, about the deadly flooding currently happening in the northeastern state of Bahia, Brazil. 
  <p class="updated_time"> 01:43 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/cincinnati-fire-department-state-of-emergency.html">Cincinnati Declares State of Emergency Amid Fire Department Staffing Shortages</a> NYT: Mayor John Cranley called the challenges a “public danger” that would undermine the city’s ability to respond to fire emergencies. 
 
@@ -394,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/26/omicron-crashes-the-holidays-495552"> Omicron crashes the holidays</a> Politico Playbook: And the spread of the Omicron variant threw many Americans’ holiday travel plans 
  <p class="updated_time"> 08:44 AM CT, Dec. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/25/the-manchin-dance-continues-on-christmas-495551"> The Manchin dance continues on Christmas</a> Politico Playbook: And a judge continues prior restraint on the NYT. 
- <p class="updated_time"> 07:00 AM CT, Dec. 25 </p> 
- <a href="https://www.politico.com/news/2021/12/25/biden-puerto-rico-electricity-network-526102">Puerto Rico’s shattered power grid could become a ‘big experiment’ for Biden</a> Politico: The crumbling electricity network that serves the island's 3 million people is at the center of a debate on renewable energy vs. fossil fuels — with billions of federal dollars at stake. 
 
 
 </details>
