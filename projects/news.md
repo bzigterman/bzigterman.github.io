@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:40 AM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59845636?at_medium=RSS&at_campaign=KARANGA">Kim Jong-un: North Korea to focus on economy in 2022</a> BBC: Kim Jong-un says the faltering economy will be the national priority as he marks 10 years in power. 
  <p class="updated_time"> 01:12 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59845176?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Woman says families in her neighbourhood lost everything</a> BBC: A woman who had to evacuate her home in Louisville with her family speaks to the BBC. 
  <p class="updated_time"> 01:11 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Live Updates: Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
+ <p class="updated_time"> 12:42 AM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59845278?at_medium=RSS&at_campaign=KARANGA">India: At least 12 dead in New Year temple stampede</a> BBC: Pilgrims were visiting the shrine of Mata Vaishno Devi to mark the new year when the tragedy unfolded. 
  <p class="updated_time"> 12:06 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59843925?at_medium=RSS&at_campaign=KARANGA">South Africa prepares to bury Archbishop Desmond Tutu</a> BBC: The funeral for Tutu, who helped end apartheid in South Africa, will take place on Saturday. 
  <p class="updated_time"> 10:57 PM CT, Dec. 31 </p> 
@@ -50,7 +54,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:16 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/africa/desmond-tutu-legacy.html">In Remembering Tutu, South Africa Reckons With Lasting Challenges</a> NYT: Archbishop Desmond Tutu’s death has reignited a public conversation about the state of the country’s reconciliation process and its democracy. 
  <p class="updated_time"> 11:34 AM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-59841816?at_medium=RSS&at_campaign=KARANGA">New Year's Eve: Firework displays welcome 2022</a> BBC: Celebrations are under way across the world to usher in the New Year. 
+ <a href="https://www.bbc.co.uk/news/world-59841816?at_medium=RSS&at_campaign=KARANGA">New Year's Eve: Firework displays welcome 2022</a> BBC: Celebrations have taken place around the world, with light shows and fireworks as 2022 began. 
  <p class="updated_time"> 11:32 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/31/1069476889/omicron-south-africa">As omicron heats up in the U.S., South Africa says its wave is on the way out</a> NPR: The variant caused fewer deaths and less severe infections than past versions of the virus in South Africa, but that could be different in other countries. 
  <p class="updated_time"> 10:53 AM CT, Dec. 31 </p> 
@@ -85,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59837697?at_medium=RSS&at_campaign=KARANGA">Colorado Wildfires: Thousands evacuated as buildings burn</a> BBC: Around 30,000 people have been evacuated as wildfires sweep across the US state of Colorado. 
  <p class="updated_time"> 03:43 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069428211/parents-selling-children-shows-desperation-in-afghanistan">Parents selling children shows desperation in Afghanistan</a> NPR: Many of Afghanistan's growing number of destitute people are making desperate decisions as their nation spirals into a deeper poverty. 
- <p class="updated_time"> 03:33 AM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59824916?at_medium=RSS&at_campaign=KARANGA">Xi'an: Cries for help and food in quarantined Chinese city</a> BBC: Officials say there are adequate supplies, but some in Xi'an say they do not have enough to eat. 
  <p class="updated_time"> 03:03 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069430504/new-virus-infections-driven-by-omicron-soar-to-record-high-in-australia">New virus infections driven by omicron soar to record high in Australia </a> NPR: New coronavirus infections soared again in Australia on Friday to a record of more than 32,000 driven by the highly contagious omicron variant and a recent relaxation of restrictions in many areas. 
  <p class="updated_time"> 02:33 AM CT, Dec. 31 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/inside-europes-cocaine-gateway-a-repeat-of-miami-in-the-1980s-11640946603">Inside Antwerp, Europe's Cocaine Gateway</a> WSJ: Authorities in Antwerp have seized 88 metric tons of cocaine stashed in containers from Latin America this year, nearly 10 times the figure in 2014. It is far more than any other European port. 
  <p class="updated_time"> 10:51 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/japan-arson.html">Suspect in Deadly Arson Fire in Osaka, Japan, Dies in Hospital</a> NYT: The suspect, a 61-year-old man, had been hospitalized for smoke inhalation since the Dec. 17 fire at a psychiatric clinic, which killed 25 other people. 
- <p class="updated_time"> 10:30 PM CT, Dec. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59824915?at_medium=RSS&at_campaign=KARANGA">Bangladesh: Women-only beach scrapped after social media outcry</a> BBC: Critics accused the government of pandering to hardline Islamist groups in the country. 
  <p class="updated_time"> 10:25 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/israel-4th-dose-covid-vaccine.html">Israel Approves 4th Dose of Covid Vaccine for Some</a> NYT: The Ministry of Health said it was waiting for more data from Israel and abroad before approving any broader rollout of fourth shots. 
  <p class="updated_time"> 10:14 PM CT, Dec. 30 </p> 
