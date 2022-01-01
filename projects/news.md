@@ -213,9 +213,9 @@ permalink: /projects/news/
  <p class="updated_time"> 07:28 AM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/republican-judiciary-committee-deletes-tweet-covid-vaccine-disinfo/index.html">House GOP committee deletes tweet spreading disinformation about Covid-19 booster shots </a> CNN: Republicans on the House Judiciary Committee deleted a tweet Friday morning that spread disinformation about Covid-19 booster shots. 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
- <a href="https://www.npr.org/2022/01/01/1069611016/there-are-signs-negotiators-are-making-progress-toward-a-nuclear-deal-with-iran">There are signs negotiators are making progress toward a nuclear deal with Iran</a> NPR: For the first time in months, European negotiators report progress in nuclear talks with Iran and the U.S. An agreement would revive an Obama-era pact that President Donald Trump abandoned. 
- <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069610932/week-in-politics-biden-says-there-is-no-federal-solution-to-the-pandemic">Week in politics: Biden says there is no federal solution to the pandemic</a> NPR: President Joe Biden says there's no federal solution to the pandemic as cases climb dramatically. 
+ <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
+ <a href="https://www.npr.org/2022/01/01/1069611016/there-are-signs-negotiators-are-making-progress-toward-a-nuclear-deal-with-iran">There are signs negotiators are making progress toward a nuclear deal with Iran</a> NPR: For the first time in months, European negotiators report progress in nuclear talks with Iran and the U.S. An agreement would revive an Obama-era pact that President Donald Trump abandoned. 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069610988/almost-a-year-after-jan-6-two-journalists-release-their-book-the-steal">Almost a year after Jan. 6, two journalists release their book 'The Steal'</a> NPR: David Gura speaks with journalists Mark Bowden and Matthew Teague about their new book "The Steal: The Attempt to Overturn the 2020 Election and the People Who Stopped It." 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
