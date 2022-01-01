@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:04 PM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 12:14 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59848648?at_medium=RSS&at_campaign=KARANGA">New Year's Eve fireworks kill and injure in Europe despite bans</a> BBC: Among three killed is a 12-year-old Dutch boy who was watching an adult set off a device. 
  <p class="updated_time"> 11:20 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59845833?at_medium=RSS&at_campaign=KARANGA">Covid: UAE bans foreign travel for citizens without booster jab</a> BBC: Emiratis will need a third dose of a coronavirus vaccine if they want to leave the country. 
  <p class="updated_time"> 11:16 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/europe/pontifical-oriental-institute-digital-texts.html">A Vatican Library Shortens the Distance Between Its Works and Its Scholars</a> NYT: Rare books in Rome are going online thanks to a German copier, a Long Island scanning firm and a New York software company. 
- <p class="updated_time"> 10:38 AM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59848160?at_medium=RSS&at_campaign=KARANGA">Coronavirus pandemic: Antarctic outpost hit by Covid-19 outbreak</a> BBC: Two-thirds of staff at the station are infected but officials say the situation is not serious. 
  <p class="updated_time"> 10:15 AM CT, Jan. 01 </p> 
