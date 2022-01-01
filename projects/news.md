@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:11 PM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/2022/01/01/world/africa/desmond-tutu-funeral-south-africa.html">With a Simple Funeral, South Africa Bids Farewell to Desmond Tutu</a> NYT: The archbishop and Nobel laureate left plans for an unostentatious ceremony, which were stripped back further under Covid restrictions. 
  <p class="updated_time"> 01:04 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 12:14 PM CT, Jan. 01 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/01/1069630495/tutu-state-funeral-south-africa">At his funeral, Tutu is remembered for helping end apartheid and championing rights</a> NPR: "Archbishop Desmond Tutu has been our moral compass and national conscience," South African President Cyril Ramaphosa said in a eulogy at Tutu's state funeral on Saturday. 
  <p class="updated_time"> 10:03 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59847372?at_medium=RSS&at_campaign=KARANGA">French car-burning returns for New Years' Eve</a> BBC: Car burning has become an annual event in French suburbs since riots hit several cities in 2005. 
- <p class="updated_time"> 09:56 AM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/01/world/africa/desmond-tutu-funeral-south-africa.html">With a Simple Funeral, South Africa Bids Farewell to Desmond Tutu</a> NYT: The archbishop and Nobel laureate left plans for an unostentatious ceremony, which were stripped back further under Covid restrictions. 
  <p class="updated_time"> 09:30 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069627569/north-korea-kim-military">North Korea's Kim vows to build up military and maintain anti-virus measures</a> NPR: In a speech at a key political conference, Kim Jong Un vowed to further bolster his military capability, maintain draconian anti-virus measures and push hard to improve the economy. 
  <p class="updated_time"> 08:01 AM CT, Jan. 01 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:06 PM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/upshot/medical-bill-ban-biden.html">A New Ban on Surprise Medical Bills Starts Today</a> NYT: If you have a medical emergency, you will no longer need to worry about a large bill from a doctor you did not choose. 
  <p class="updated_time"> 11:59 AM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/01/politics/bernard-kerik-documents-january-6-committee/index.html">Ex-New York City police commissioner Bernard Kerik provides documents to January 6 committee</a> CNN: Bernard Kerik, the former New York City police commissioner, has agreed to a voluntary interview with the House select committee investigating January 6 and provided some documents, according to a letter from his attorney obtained by CNN. 
  <p class="updated_time"> 11:53 AM CT, Jan. 01 </p> 
@@ -336,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/30/politics/biden-administration-shifting-covid-guidance/index.html">Analysis: Biden administration signals pandemic strategy shift in the face of Omicron </a> CNN: America is plunging into a fast-worsening and frightening winter bout with Covid-19 that will leave few citizens and communities untouched. But as the highly transmissible Omicron variant roars across the country, the Biden administration is revealing the most tangible signs of a shifting pandemic strategy several weeks in the making. It is preparing a nation exhausted by two years of battling the invisible enemy to live more feasibly alongside it. 
  <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/omicron-economic-slide-women-526257">‘Two steps forward, one step back’: Omicron threatens new economic slide for women</a> Politico: Unexpected school closures and reinstated lockdowns, on top of a crippled child care industry, could reverse what progress women have made since the pandemic abated earlier this year. 
- <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/upshot/medical-bill-ban-biden.html">A New Ban on Surprise Medical Bills Starts This Week</a> NYT: If you have a medical emergency, you will no longer need to worry about a large bill from a doctor you did not choose. 
  <p class="updated_time"> 10:47 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/omicron-tests-hospitals.html">Federal Officials Say Early Omicron Data Suggests a Less Deadly Wave</a> NYT: Dr. Rochelle P. Walensky and Dr. Anthony S. Fauci cautioned that hospitalizations and deaths could be lagging behind case counts. 
  <p class="updated_time"> 09:43 PM CT, Dec. 29 </p> 
