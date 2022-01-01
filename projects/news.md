@@ -37,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/football/59689367?at_medium=RSS&at_campaign=KARANGA">Quiz: How well do you remember football in 2021?</a> BBC: Test your knowledge of football in 2021 by taking our quiz... 
  <p class="updated_time"> 03:10 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
+ <p class="updated_time"> 02:28 AM CT, Jan. 01 </p> 
+ <a href="https://www.wsj.com/articles/desmond-tutu-is-laid-to-rest-in-south-african-state-funeral-11641028334">Desmond Tutu Is Laid to Rest in South African State Funeral</a> WSJ: The state funeral of Archbishop Desmond Tutu paid tribute to a hero of South Africa’s struggle against apartheid in the cathedral where he spent decades preaching against racial injustice. 
  <p class="updated_time"> 01:40 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59845636?at_medium=RSS&at_campaign=KARANGA">Kim Jong-un: North Korea to focus on economy in 2022</a> BBC: Kim Jong-un says the faltering economy will be the national priority as he marks 10 years in power. 
  <p class="updated_time"> 01:14 AM CT, Jan. 01 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59845176?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Woman says families in her neighbourhood lost everything</a> BBC: A woman who had to evacuate her home in Louisville with her family speaks to the BBC. 
  <p class="updated_time"> 01:00 AM CT, Jan. 01 </p> 
  <a href="https://www.wsj.com/articles/u-s-on-sidelines-as-china-and-other-asia-pacific-nations-launch-trade-pact-11641038401">U.S. on Sidelines as China and Other Asia-Pacific Nations Launch Trade Pact</a> WSJ: The Regional Comprehensive Economic Partnership will eventually eliminate more than 90% of tariffs on commerce among 15 member countries. 
- <p class="updated_time"> 11:47 PM CT, Dec. 31 </p> 
- <a href="https://www.wsj.com/articles/desmond-tutu-is-laid-to-rest-in-south-african-state-funeral-11641028334">Desmond Tutu Is Laid to Rest in South African State Funeral</a> WSJ: The state funeral of Archbishop Desmond Tutu, a hero of South Africa’s struggle against apartheid, began in the cathedral where he spent decades preaching against racial injustice. 
  <p class="updated_time"> 10:57 PM CT, Dec. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59843920?at_medium=RSS&at_campaign=KARANGA">Colorado: Residents return following devastating fire</a> BBC: Tens of thousands of people in Boulder County were forced to flee their homes on Thursday. 
  <p class="updated_time"> 09:59 PM CT, Dec. 31 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:28 AM CT, Jan. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/31/politics/republican-judiciary-committee-deletes-tweet-covid-vaccine-disinfo/index.html">House GOP committee deletes tweet spreading disinformation about Covid-19 booster shots </a> CNN: Republicans on the House Judiciary Committee deleted a tweet Friday morning that spread disinformation about Covid-19 booster shots. 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069611016/there-are-signs-negotiators-are-making-progress-toward-a-nuclear-deal-with-iran">There are signs negotiators are making progress toward a nuclear deal with Iran</a> NPR: For the first time in months, European negotiators report progress in nuclear talks with Iran and the U.S. An agreement would revive an Obama-era pact that President Donald Trump abandoned. 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
@@ -212,6 +214,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/01/1069610925/bidens-top-economics-advisor-weighs-in-on-how-omicron-is-affecting-economic-reco">Biden's top economics advisor weighs in on how omicron is affecting economic recovery</a> NPR: David Gura speaks to Cecilia Rouse, chair of the White House Council of Economic Advisers, about the health of the U.S. economy amid inflation, supply chain interruptions and labor shortages. 
  <p class="updated_time"> 07:01 AM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/01/politics/joe-biden-2022-pandemic-russia-ukraine-congress-democrats/index.html">Biden's 2022 challenges revolve around Covid, Russia and dealing with Congress</a> CNN: President Joe Biden will return to the White House from an abbreviated winter break facing a set of hurdles that will test his political, diplomatic and management skills at a trying moment for his presidency. 
+ <p class="updated_time"> 07:00 AM CT, Jan. 01 </p> 
+ <a href="https://www.politico.com/news/2022/01/01/progressives-2024-primary-challenge-526299">The left is already looking to 2024. Some want to see a Biden primary challenge.</a> Politico: “Will there be a progressive challenger? Yes,” said one prominent Democrat. 
  <p class="updated_time"> 07:00 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/news/2022/01/01/congress-future-presidential-ballots-trump-challenge-526168">Congress confronts limitations on preventing Trump-style attack on presidential certification</a> Politico: As lawmakers weigh how to safeguard the certification of elections from a future Jan. 6 attack, they're facing one huge constitutional roadblock. 
  <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
@@ -238,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/31/betty-white-dies-99-526292">Betty White, TV’s Golden Girl, dies at 99</a> Politico: The actress, whose up-for-anything charm made her a television mainstay for more than 60 years, has died. 
  <p class="updated_time"> 02:38 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/biden-volodymyr-zelensky-call-ukraine/index.html">Biden to speak with Zelensky as US warns against Russian invasion of Ukraine</a> CNN: President Joe Biden will speak with Ukrainian President Volodymyr Zelensky on Sunday, several days after Biden urged Russian President Vladimir Putin to ease an unremitting military crisis on Ukraine's border. 
- <p class="updated_time"> 02:30 PM CT, Dec. 31 </p> 
- <a href="https://www.cnn.com/2021/12/31/politics/republican-judiciary-committee-deletes-tweet-covid-vaccine-disinfo/index.html">House GOP committee deletes tweet spreading disinformation about Covid-19 booster shots </a> CNN: Republicans on the House Judiciary Committee deleted a tweet Friday morning that spread disinformation about Covid-19 booster shots. 
  <p class="updated_time"> 10:30 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/wildfires-burn-hundreds-of-homes-in-colorado-thousands-flee-526290">Wildfires burn hundreds of homes in Colorado, thousands flee</a> Politico: Tens of thousands of displaced Coloradans anxiously waited to learn what was left standing of their lives Friday after the flames burned an estimated 580 homes, a hotel and a shopping center. 
  <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
@@ -325,8 +327,6 @@ permalink: /projects/news/
  <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-administration-shifting-covid-guidance/index.html">Analysis: Biden administration signals pandemic strategy shift in the face of Omicron </a> CNN: America is plunging into a fast-worsening and frightening winter bout with Covid-19 that will leave few citizens and communities untouched. But as the highly transmissible Omicron variant roars across the country, the Biden administration is revealing the most tangible signs of a shifting pandemic strategy several weeks in the making. It is preparing a nation exhausted by two years of battling the invisible enemy to live more feasibly alongside it. 
  <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
- <a href="https://www.politico.com/news/2021/12/30/mark-walker-north-carolina-trump-526235">Former GOP congressman faces Trump squeeze in key Senate race</a> Politico: Former Rep. Mark Walker's looming decision: whether to drop down and run in a House primary, or continue his uphill bid against a Trump-endorsed rival. 
- <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/omicron-economic-slide-women-526257">‘Two steps forward, one step back’: Omicron threatens new economic slide for women</a> Politico: Unexpected school closures and reinstated lockdowns, on top of a crippled child care industry, could reverse what progress women have made since the pandemic abated earlier this year. 
  <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/upshot/medical-bill-ban-biden.html">A New Ban on Surprise Medical Bills Starts This Week</a> NYT: If you have a medical emergency, you will no longer need to worry about a large bill from a doctor you did not choose. 
@@ -378,6 +378,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/us/politics/nato-russia-ukrain-us.html">U.S. and Russia Agree to Talks Amid Growing Tensions Over Ukraine</a> NYT: The Biden administration has not said who will lead the U.S. delegation next month as Russian officials demand commitments from NATO. 
  <p class="updated_time"> 03:31 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/donald-trump-allies-january-6-committee/index.html">Some Trump allies slow walk, stonewall or snub January 6 committee</a> CNN: When the committee investigating the January 6 insurrection struggled to serve Dan Scavino with a subpoena, the former Donald Trump aide said he had been in a fairly obvious locale: Mar-a-Lago. 
+ <p class="updated_time"> 12:52 PM CT, Dec. 28 </p> 
+ <a href="https://www.politico.com/news/2021/12/28/trump-organization-pga-settlement-526207">Trump Organization and PGA reach settlement over 2022 championship dispute</a> Politico: No details were released, but the tournament still won’t be held at Bedminster as a result of the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:12 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/biden-revokes-southern-africa-travel-ban/index.html">Biden issues proclamation revoking southern Africa travel restrictions</a> CNN: President Joe Biden issued a presidential proclamation Tuesday revoking a proclamation put in place last month that enacted travel restrictions on eight southern African nations, including South Africa, as the Omicron variant began to spread. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
