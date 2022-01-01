@@ -47,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
  <p class="updated_time"> 02:28 AM CT, Jan. 01 </p> 
  <a href="https://www.wsj.com/articles/desmond-tutu-is-laid-to-rest-in-south-african-state-funeral-11641028334">Desmond Tutu Is Laid to Rest in South African State Funeral</a> WSJ: The funeral paid tribute to a hero of South Africa’s struggle against apartheid in the cathedral where he spent decades preaching against racial injustice. 
+ <p class="updated_time"> 02:00 AM CT, Jan. 01 </p> 
+ <a href="https://www.wsj.com/articles/scotland-moves-to-pardon-thousands-executed-as-witches400-years-later-11641042001">Scotland Moves to Pardon Thousands Executed as Witches---400 Years Later</a> WSJ: For campaigners working to clear the names of those who were condemned as witches, it is an important reckoning with Scotland’s violent past. 
  <p class="updated_time"> 01:40 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59845636?at_medium=RSS&at_campaign=KARANGA">Kim Jong-un: North Korea to focus on economy in 2022</a> BBC: Kim Jong-un says the faltering economy will be the national priority as he marks 10 years in power. 
  <p class="updated_time"> 01:14 AM CT, Jan. 01 </p> 
@@ -200,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:35 AM CT, Jan. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/nyregion/meisha-porter-nyc-schools-covid.html">Meisha Porter Had 3 Goals as N.Y.C. Schools Chief: ‘Open. Open. Open.’</a> NYT: The departing New York City schools chancellor pulled off a big task in a short period of time: reopening the nation’s largest school district during a pandemic. 
  <p class="updated_time"> 08:15 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/us/politics/afghan-war-isis-attack.html">U.S. Military Focusing on ISIS Cell Behind Attack at Kabul Airport</a> NYT: The suicide bomber who killed nearly 200 people, including 13 U.S. troops, had been freed from prison by the Taliban days before the attack. 
  <p class="updated_time"> 08:04 AM CT, Jan. 01 </p> 
@@ -272,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/31/1068894397/the-story-of-marriage-equality-is-more-complicated-and-costly-than-you-remember">The story of marriage equality is more complicated — and costly — than you remember</a> NPR: Sasha Issenberg, author of The Engagement, a history of marriage equality, says he doesn't see the Supreme Court's decision in Obergefell v. Hodges being overturned anytime soon. 
  <p class="updated_time"> 02:50 AM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/2021-pandemic-year-new-years-eve/index.html">A pandemic-scarred year ends in darkness -- but with hope on the horizon</a> CNN: 2021 wasn't supposed to end like this. 
- <p class="updated_time"> 02:00 AM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/31/nyregion/meisha-porter-nyc-schools-covid.html">Meisha Porter Had 3 Goals as N.Y.C. Schools Chief: ‘Open. Open. Open.’</a> NYT: The departing New York City schools chancellor pulled off a big task in a short period of time: reopening the nation’s largest school district during a pandemic. 
  <p class="updated_time"> 09:24 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/politics/uss-montgomery-captain-fired.html">Navy Fires Warship’s Top Two Officers, Citing ‘Loss of Confidence’</a> NYT: The commander and second in charge of the U.S.S. Montgomery were relieved of command in a rare punishment, reportedly over their handling of a sexual harassment case. 
  <p class="updated_time"> 09:11 PM CT, Dec. 30 </p> 
@@ -390,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/26/dingell-upton-michigan-toxic-congress-526152">Michigan lawmakers look to a less-toxic future in Congress</a> Politico: Debbie Dingell and Fred Upton both cited Bob Dole as a positive Washington role model. 
  <p class="updated_time"> 10:42 AM CT, Dec. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/26/omicron-crashes-the-holidays-495552"> Omicron crashes the holidays</a> Politico Playbook: And the spread of the Omicron variant threw many Americans’ holiday travel plans 
- <p class="updated_time"> 08:44 AM CT, Dec. 25 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/25/the-manchin-dance-continues-on-christmas-495551"> The Manchin dance continues on Christmas</a> Politico Playbook: And a judge continues prior restraint on the NYT. 
 
 
 </details>
