@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:41 PM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Fire Still Burning After Hours</a> NYT: Officials warned that the damage to the buildings would be extensive. A man was arrested on Sunday morning inside the parliamentary complex, Parliament’s spokesman said. 
+ <p class="updated_time"> 03:38 PM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
+ <p class="updated_time"> 03:29 PM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59855246?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Prime Minister Abdalla Hamdok resigns amid mass protests</a> BBC: Abdalla Hamdok's resignation comes weeks after he was reinstated by the military following a coup. 
  <p class="updated_time"> 03:25 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/abdalla-hamdok-resigns-sudan.html">Sudan’s Prime Minister, Abdalla Hamdok, Resigns</a> NYT: Mr. Hamdok was restored to power a month ago after being deposed in a coup, but he was never able to gain control of the fractious country. 
  <p class="updated_time"> 03:03 PM CT, Jan. 02 </p> 
@@ -27,10 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59853772?at_medium=RSS&at_campaign=KARANGA">Covid: Israel Omicron spike could bring herd immunity but with risks - health boss</a> BBC: Health boss says Omicron may lead to herd immunity but it would be better achieved via vaccination. 
  <p class="updated_time"> 11:24 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/europe/venice-calatrava-bridge.html">Venice to Replace Glass on Santiago Calatrava's Slippery Bridge</a> NYT: The city will replace the glass on Santiago Calatrava’s footbridge across the Grand Canal with stone after too many pedestrians fell. 
- <p class="updated_time"> 10:57 AM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
- <p class="updated_time"> 10:28 AM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Fire Still Burning After Hours</a> NYT: Officials warned that the damage to the buildings would be extensive. A man was arrested on Sunday morning inside the parliamentary complex, Parliament’s spokesman said. 
  <p class="updated_time"> 09:08 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/spain-church-restoration-mystery.html">A Spanish Mystery: Is a ‘Masked Restorer’ to Blame for a Church’s Botched Repair?</a> NYT: Yet another imprudent fix in a land plagued by vigilante handymen led to angry calls to find the culprit — and to a soul-searching question: Does Spain just have too much history in need of upkeep? 
  <p class="updated_time"> 08:42 AM CT, Jan. 02 </p> 
@@ -200,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:32 PM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/canceled-flights-covid-storms-526369">2,300 U.S. flights canceled due to storms, virus</a> Politico: A winter storm that hit the Midwest on Saturday made Chicago the worst place in the country for travelers. 
  <p class="updated_time"> 03:03 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/joe-manchin-voting-rights-filibuster/index.html">Why Democrats haven't given up on Joe Manchin and voting rights</a> CNN: In 1947, the year Joe Manchin was born, the US Senate killed voting-rights legislation -- again. The "gravedigger," liberal Democrats complained, was filibuster rules empowering its opponents. 
  <p class="updated_time"> 02:33 PM CT, Jan. 02 </p> 
@@ -235,7 +239,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:33 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-closures-526353">Education secretary urges schools to remain open</a> Politico: But Miguel Cardona acknowledged some short-term closures might be needed. 
  <p class="updated_time"> 07:43 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/colorado-wildfires-why-526321">Survivors count blessings after Colorado fire</a> Politico: 2 people remain missing. 
+ <a href="https://www.politico.com/news/2022/01/02/colorado-wildfires-why-526321">Survivors count blessings after devastating Colorado fire</a> Politico: 2 people remain missing. 
  <p class="updated_time"> 07:23 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/fire-ravages-cape-town-seat-of-south-africas-parliament-526315">Fire ravages Cape Town seat of South Africa’s Parliament</a> Politico: Some ceilings of the building that houses the national legislature fell in. 
  <p class="updated_time"> 07:04 AM CT, Jan. 02 </p> 
