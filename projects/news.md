@@ -7,28 +7,40 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:21 AM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">Cape Town: Major blaze rips through South Africa parliament building</a> BBC: The entire parliamentary complex is severely damaged, according to a city official, with a roof gone. 
  <p class="updated_time"> 04:48 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/asia/korea-dmz-border.html">South Korea Says Unknown Person Crossed DMZ Into North</a> NYT: The breach at the Demilitarized Zone went unnoticed for hours, the South Korean military said. There was no immediate response from North Korea. 
  <p class="updated_time"> 04:39 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 04:11 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Fire Still Burning After Hours</a> NYT: The extent of the damage was not immediately clear on Sunday morning, but officials feared it would be extensive. 
- <p class="updated_time"> 04:08 AM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">Cape Town: Major blaze rips through South Africa parliament building</a> BBC: Large flames and a huge column of smoke could be seen coming out of the building on Sunday morning. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/spain-church-restoration-mystery.html">A Spanish Mystery: Is a ‘Masked Restorer’ to Blame for a Church’s Botched Repair?</a> NYT: Yet another imprudent fix in a land plagued by vigilante handymen led to angry calls to find the culprit — and to a soul-searching question: Does Spain just have too much history in need of upkeep? 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/asia/china-womens-rights.html">China Moves to Overhaul Protections for Women’s Rights, Sort Of</a> NYT: The proposed revisions to a women’s rights law would be the first major changes in nearly 20 years. But many women are skeptical that real progress will follow. 
  <p class="updated_time"> 02:03 AM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59851097?at_medium=RSS&at_campaign=KARANGA">South Korean crosses DMZ in rare defection to North Korea</a> BBC: Seoul said it had asked the North, which has a shoot-on-sight policy, to protect the person. 
+ <p class="updated_time"> 01:33 AM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/sport/basketball/59851107?at_medium=RSS&at_campaign=KARANGA">Curry breaks own NBA three-pointer record</a> BBC: Stephen Curry breaks his own NBA record for three-pointers in consecutive games as he leads the Golden State Warriors to a 123-116 win over the Utah Jazz. 
+ <p class="updated_time"> 11:30 PM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59850093?at_medium=RSS&at_campaign=KARANGA">EU plans to label gas and nuclear energy 'green' prompt row</a> BBC: A European Commission proposal says the two energy sources are key to a green transition. 
+ <p class="updated_time"> 09:03 PM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59849898?at_medium=RSS&at_campaign=KARANGA">Denmark to make domestic flights fossil fuel free by 2030</a> BBC: The PM wants domestic flights to go green, as part of ambitious national plans to cut emissions. 
  <p class="updated_time"> 08:40 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/31/business/china-evergrande-default-publicity.html">What Default? With Confetti and Fanfare, Evergrande Says It’s Ready to Build.</a> NYT: Weeks after signaling it could no longer go on, the troubled Chinese property developer has pledged to start paying its workers and completing projects again. Buyers are skeptical. 
+ <p class="updated_time"> 06:55 PM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-59566983?at_medium=RSS&at_campaign=KARANGA">In the footsteps of the women who escaped a Nazi death march</a> BBC: When Gwen Strauss' great-aunt revealed she had led nine women in an escape from a Nazi death march in 1945, Gwen decided to retrace their steps. 
+ <p class="updated_time"> 06:32 PM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59849697?at_medium=RSS&at_campaign=KARANGA">Colorado wildfire: Three people reported missing and presumed dead</a> BBC: A local sheriff previously said it had been a miracle no one was reported missing or dead. 
  <p class="updated_time"> 06:07 PM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069676008/a-plain-pine-coffin-and-eco-friendly-cremation-are-the-last-acts-of-desmond-tutu">A plain pine coffin and eco-friendly cremation are the last acts of Desmond Tutu</a> NPR: Archbishop Emeritus Desmond Tutu, who died last Sunday, chose to be aquamated, a more environmentally friendly alternative to cremation. It is 90% more energy efficient than a traditional cremation. 
  <p class="updated_time"> 06:06 PM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069677828/uk-new-years-honours-list-daniel-craig">COVID-19 experts, athletes and Daniel Craig make the U.K.'s 'Honours List'</a> NPR: The annual tradition pays tribute to people for achievements made over the previous year. The government said it was the most ethnically diverse Honours List yet. 
  <p class="updated_time"> 06:05 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59755739?at_medium=RSS&at_campaign=KARANGA">Light pollution: Parkour group saving energy by turning off city lights</a> BBC: A group of young men are using their gymnastic abilities to reduce the impact of light pollution in their hometown. 
+ <p class="updated_time"> 06:05 PM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59703681?at_medium=RSS&at_campaign=KARANGA">Letter from Africa: Africa plays on in 2022 without its great referee</a> BBC: Joseph Warungu looks at what is in store for the African continent this coming year. 
  <p class="updated_time"> 06:04 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-59838770?at_medium=RSS&at_campaign=KARANGA">ICYMI: Tiny tigers and trees as tasty treats</a> BBC: A look at some of the stories you may have missed this week. 
  <p class="updated_time"> 03:00 PM CT, Jan. 01 </p> 
@@ -51,16 +63,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59848160?at_medium=RSS&at_campaign=KARANGA">Coronavirus pandemic: Antarctic outpost hit by Covid-19 outbreak</a> BBC: Two-thirds of staff at the station are infected but officials say the situation is not serious. 
  <p class="updated_time"> 10:15 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069630495/tutu-state-funeral-south-africa">At his funeral, Tutu is remembered for helping end apartheid and championing rights</a> NPR: "Archbishop Desmond Tutu has been our moral compass and national conscience," South African President Cyril Ramaphosa said in a eulogy at Tutu's state funeral on Saturday. 
- <p class="updated_time"> 10:03 AM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59847372?at_medium=RSS&at_campaign=KARANGA">French car-burning returns for New Year's Eve</a> BBC: Car burning has become an annual event in French suburbs since riots hit several cities in 2005. 
  <p class="updated_time"> 09:30 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069627569/north-korea-kim-military">North Korea's Kim vows to build up military and maintain anti-virus measures</a> NPR: In a speech at a key political conference, Kim Jong Un vowed to further bolster his military capability, maintain draconian anti-virus measures and push hard to improve the economy. 
  <p class="updated_time"> 08:01 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069619603/kashmir-shrine-crowd-surge">12 people were killed when a crowd surged at a popular Hindu shrine in Kashmir</a> NPR: Fifteen people were also injured in the surge at the shrine on New Year's Day, officials said. Initial reports suggested an altercation between a group of devotees led to the crush. 
  <p class="updated_time"> 07:51 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59847371?at_medium=RSS&at_campaign=KARANGA">New law allowing assisted suicide takes effect in Austria</a> BBC: The new law allows chronically or terminally ill adults to make provisions for an assisted suicide. 
- <p class="updated_time"> 07:14 AM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59843925?at_medium=RSS&at_campaign=KARANGA">South Africa holds state funeral for Archbishop Desmond Tutu</a> BBC: President Cyril Ramaphosa said the Nobel Peace Prize winner was "the spiritual father of our new nation". 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069611016/there-are-signs-negotiators-are-making-progress-toward-a-nuclear-deal-with-iran">There are signs negotiators are making progress toward a nuclear deal with Iran</a> NPR: For the first time in months, European negotiators report progress in nuclear talks with Iran and the U.S. An agreement would revive an Obama-era pact that President Donald Trump abandoned. 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
@@ -79,14 +87,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/world/canada/memorable-canada-stories-2021.html">Memorable Canada Stories in 2021</a> NYT: From the discovery of Indigenous graves in British Columbia to a faux Florida retirement community in Quebec, two Times Canada correspondents recall some of the standout stories of the year. 
  <p class="updated_time"> 05:00 AM CT, Jan. 01 </p> 
  <a href="https://www.wsj.com/articles/russia-ukraine-conflict-lies-in-the-bones-of-an-11th-century-prince-11641052801">Russia-Ukraine Conflict Lies in the Bones of an 11th-Century Prince</a> WSJ: The two countries contest the legacy of Yaroslav the Wise, a figure whose remains Ukraine is now hunting for. Finding them would be a symbolic victory bolstering Ukraine’s case for sovereignty amid border tensions with Russia. 
- <p class="updated_time"> 04:44 AM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59845278?at_medium=RSS&at_campaign=KARANGA">India: At least 12 dead in New Year temple stampede</a> BBC: Pilgrims were visiting the shrine of Mata Vaishno Devi to mark the new year when the tragedy unfolded. 
  <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/europe/turkey-kurdish-art-exhibit.html">In Turkey, an Exhibit Meant to Highlight Kurdish Suffering Provoked a Furor</a> NYT: A recent art show in a major Kurdish city in Turkey aimed to uplift a region crushed by years of conflict. It ended up serving as a reminder of how toxic the subject of Kurds remains in Turkey. 
  <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/style/new-years-resolutions-quotes-tips.html">Setting New Year's Resolutions? Start With These Words of Wisdom</a> NYT: Let their stories be your inspiration as you set resolutions for 2022. 
  <p class="updated_time"> 03:53 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59689367?at_medium=RSS&at_campaign=KARANGA">Quiz: How well do you remember football in 2021?</a> BBC: Test your knowledge of football in 2021 by taking our quiz... 
+ <p class="updated_time"> 03:47 AM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/sport/59548186?at_medium=RSS&at_campaign=KARANGA">2022 sporting calendar: Big events from Winter Olympics to the World Cup</a> BBC: The Winter Olympics, Commonwealth Games, Women's Euros and the men's World Cup are just some of the big events taking place in 2022. 
  <p class="updated_time"> 03:10 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
  <p class="updated_time"> 02:00 AM CT, Jan. 01 </p> 
@@ -95,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59845176?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Woman says families in her neighbourhood lost everything</a> BBC: A woman who had to evacuate her home in Louisville with her family speaks to the BBC. 
  <p class="updated_time"> 01:00 AM CT, Jan. 01 </p> 
  <a href="https://www.wsj.com/articles/u-s-on-sidelines-as-china-and-other-asia-pacific-nations-launch-trade-pact-11641038401">U.S. on Sidelines as China and Other Nations Launch Trade Pact</a> WSJ: Beijing is joining U.S. allies including Japan and Australia in a new Asia-Pacific trade agreement. 
- <p class="updated_time"> 10:57 PM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59843920?at_medium=RSS&at_campaign=KARANGA">Colorado: Residents return following devastating fire</a> BBC: Tens of thousands of people in Boulder County were forced to flee their homes on Thursday. 
  <p class="updated_time"> 09:59 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
  <p class="updated_time"> 06:34 PM CT, Dec. 31 </p> 
@@ -109,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/31/1069538926/ski-resorts-in-france-reopen-vaccine-passes-and-masks-are-required">Ski resorts in France reopen. Vaccine passes and masks are required</a> NPR: After abruptly closing in March 2020, France's alpine ski resorts have reopened. But this year you'll need more than just goggles and a lift pass. 
  <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/sports/football/kirk-cousins-covid.html">Kirk Cousins Tests Positive for Covid-19</a> NYT: Cousins was placed on the team’s Covid-19 reserve list for at least five days, threatening Minnesota’s playoff chances. 
- <p class="updated_time"> 01:43 PM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-53723448?at_medium=RSS&at_campaign=KARANGA">Obituary: Betty White, the Golden Girl with a heart of gold</a> BBC: One of America's original screen stars, Betty White enjoyed a career spanning eight decades. 
  <p class="updated_time"> 12:57 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/americas/quebec-new-years-eve-curfew.html">Quebec Government Faces Backlash Over New Year’s Eve Curfew</a> NYT: Residents who leave their homes past 10 p.m. could face fines of up to $4,750. 
  <p class="updated_time"> 12:32 PM CT, Dec. 31 </p> 
@@ -133,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/31/1069472217/new-years-eve-omicron">As the world marks a new year, celebrations are muted by omicron</a> NPR: In many places, New Year's Eve celebrations were muted or canceled for the second straight year due to a surge of coronavirus infections, this time driven by the highly contagious omicron variant. 
  <p class="updated_time"> 09:04 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/middleeast/asma-khader-dead.html">Asma Khader, Fighter for Women’s Rights in Jordan, Dies at 69</a> NYT: A respected lawyer, she focused on the victims of domestic violence and also worked hard to change discriminatory laws. 
- <p class="updated_time"> 08:36 AM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/sport/59838168?at_medium=RSS&at_campaign=KARANGA">Breakaway Super League, Tokyo's 'Covid Games', cricket's racism crisis - a huge year for sports news</a> BBC: BBC sports editor Dan Roan says 2021 has included two of the most dramatic, fastest-moving stories he has covered in two decades of sports reporting. 
  <p class="updated_time"> 07:31 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/middleeast/israel-mount-sinai-burning-bush.html">Is That a Burning Bush? Is This Mt. Sinai? Solstice Bolsters a Claim</a> NYT: On the year’s shortest day, hundreds of Israelis ventured deep into the desert to witness a strange natural phenomenon atop an ancient pilgrimage site that some argue is where God spoke to Moses. 
  <p class="updated_time"> 06:55 AM CT, Dec. 31 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/31/1069428211/parents-selling-children-shows-desperation-in-afghanistan">Parents selling children shows desperation in Afghanistan</a> NPR: Many of Afghanistan's growing number of destitute people are making desperate decisions as their nation spirals into a deeper poverty. 
  <p class="updated_time"> 03:03 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069430504/new-virus-infections-driven-by-omicron-soar-to-record-high-in-australia">New virus infections driven by omicron soar to record high in Australia </a> NPR: New coronavirus infections soared again in Australia on Friday to a record of more than 32,000 driven by the highly contagious omicron variant and a recent relaxation of restrictions in many areas. 
- <p class="updated_time"> 12:02 AM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-59644117?at_medium=RSS&at_campaign=KARANGA">The Corozal: Scottish dredger that helped build the Panama Canal</a> BBC: Museum staff unearthed the story of a Scottish dredger involved in constructing the famous trading route. 
  <p class="updated_time"> 12:00 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/covid-france-omicron-vaccines.html">Omicron Strains France’s Social Contract on Covid</a> NYT: President Emmanuel Macron won people over by promising normalcy if they followed Covid advice. Now Omicron has raised questions about whether he, or any leader, can deliver on that. 
  <p class="updated_time"> 11:36 PM CT, Dec. 30 </p> 
@@ -197,6 +197,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/westminster-dog-show-postponed-covid.html">2022 Westminster Dog Show Postponed Amid Omicron Surge</a> NYT: The 2021 show was pushed to June and held outdoors because of the virus. 
  <p class="updated_time"> 05:28 PM CT, Dec. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59733623?at_medium=RSS&at_campaign=KARANGA">Who is Ghislaine Maxwell? The story of her downfall</a> BBC: How she went from being the toast of high society to a convicted sex trafficker. 
+ <p class="updated_time"> 06:04 PM CT, Dec. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-59733533?at_medium=RSS&at_campaign=KARANGA">‘The doctors came and I had to tell my father he was dying’</a> BBC: Is it always appropriate for relatives to interpret for deaf loved ones? 
 
 
 </details>
