@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:35 AM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">Cape Town: Major blaze rips through South Africa parliament building</a> BBC: The entire parliamentary complex is severely damaged, according to a city official, with a roof gone. 
+ <p class="updated_time"> 08:29 AM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59852577?at_medium=RSS&at_campaign=KARANGA">EU flag removed from Arc de Triomphe after right-wing outrage</a> BBC: The French government denies bowing to far-right pressure over the flag at the Arc de Triomphe. 
  <p class="updated_time"> 08:14 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 08:13 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/europe/bosnia-war-putin.html">In the Tinderbox of Bosnia, a Serb Nationalist Lights a Match</a> NYT: Bosnia’s fragile multiethnic government is facing its greatest crisis since the Balkan wars. The Serb nationalist leader, Milorad Dodik, is threatening to tear the country apart. 
  <p class="updated_time"> 07:41 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Fire Still Burning After Hours</a> NYT: While the extent of the damage was not immediately clear on Sunday, officials warned that it would be extensive. 
- <p class="updated_time"> 07:13 AM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">Cape Town: Major blaze rips through South Africa parliament building</a> BBC: The entire parliamentary complex is severely damaged, according to a city official, with a roof gone. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739336/omicron-is-subsiding-in-south-africa">Omicron is subsiding in South Africa</a> NPR: NPR's Eyder Peralta speaks with Dr. Glenda Gray, president of the South African Medical Research Council, about how omicron cases are going down in South Africa, and the lessons for the U.S. 
  <p class="updated_time"> 06:52 AM CT, Jan. 02 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/world/africa/desmond-tutu-funeral-south-africa.html">Desmond Tutu Funeral: South Africa Bids Farewell</a> NYT: The archbishop and Nobel laureate left plans for an unostentatious ceremony, which were stripped back further under Covid restrictions. 
  <p class="updated_time"> 12:14 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59848648?at_medium=RSS&at_campaign=KARANGA">New Year's Eve fireworks kill and injure in Europe despite bans</a> BBC: Among three killed is a 12-year-old Dutch boy who was watching an adult set off a device. 
- <p class="updated_time"> 11:20 AM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59845833?at_medium=RSS&at_campaign=KARANGA">Covid: UAE bans foreign travel for citizens without booster jab</a> BBC: Emiratis will need a third dose of a coronavirus vaccine if they want to leave the country. 
  <p class="updated_time"> 11:16 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/europe/pontifical-oriental-institute-digital-texts.html">A Vatican Library Shortens the Distance Between Its Works and Its Scholars</a> NYT: Rare books in Rome are going online thanks to a German copier, a Long Island scanning firm and a New York software company. 
  <p class="updated_time"> 10:15 AM CT, Jan. 01 </p> 
