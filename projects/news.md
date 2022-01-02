@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:20 AM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/asia/korea-dmz-border.html">South Korea Says Unknown Person Crossed DMZ Into North</a> NYT: The breach at the Demilitarized Zone went unnoticed for hours, the South Korean military said. There was no immediate response from North Korea. 
+ <p class="updated_time"> 04:11 AM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Fire Still Burning After Hours</a> NYT: The extent of the damage was not immediately clear on Sunday morning, but officials feared it would be extensive. 
+ <p class="updated_time"> 04:08 AM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">Cape Town: Major blaze rips through South Africa parliament building</a> BBC: Large flames and a huge column of smoke could be seen coming out of the building on Sunday morning. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/spain-church-restoration-mystery.html">A Spanish Mystery: Is a ‘Masked Restorer’ to Blame for a Church’s Botched Repair?</a> NYT: Yet another imprudent fix in a land plagued by vigilante handymen led to angry calls to find the culprit — and to a soul-searching question: Does Spain just have too much history in need of upkeep? 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/asia/china-womens-rights.html">China Moves to Overhaul Protections for Women’s Rights, Sort Of</a> NYT: The proposed revisions to a women’s rights law would be the first major changes in nearly 20 years. But many women are skeptical that real progress will follow. 
- <p class="updated_time"> 03:48 AM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/world/asia/korea-dmz-border.html">South Korea Says Unknown Person Crossed DMZ Into North</a> NYT: The breach at the Demilitarized Zone went unnoticed for hours, the South Korean military said. There was no immediate response from North Korea. 
- <p class="updated_time"> 03:46 AM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">Cape Town: Major blaze rips through South Africa parliament building</a> BBC: Large flames and a huge column of smoke could be seen coming out of the building on Sunday morning. 
- <p class="updated_time"> 03:40 AM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Fire Still Burning After 4 Hours</a> NYT: The extent of the damage was not immediately clear on Sunday morning, but officials feared it would be extensive. 
  <p class="updated_time"> 02:03 AM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59851097?at_medium=RSS&at_campaign=KARANGA">South Korean crosses DMZ in rare defection to North Korea</a> BBC: Seoul said it had asked the North, which has a shoot-on-sight policy, to protect the person. 
  <p class="updated_time"> 08:40 PM CT, Jan. 01 </p> 
