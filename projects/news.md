@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:08 AM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/spain-church-restoration-mystery.html">A Spanish Mystery: Is a ‘Masked Restorer’ to Blame for a Church’s Botched Repair?</a> NYT: Yet another imprudent fix in a land plagued by vigilante handymen led to angry calls to find the culprit — and to a soul-searching question: Does Spain just have too much history in need of upkeep? 
  <p class="updated_time"> 08:42 AM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59853010?at_medium=RSS&at_campaign=KARANGA">Memorial: Russia’s civil rights group uncovering an uncomfortable past</a> BBC: Memorial, one of the oldest civil rights groups in Russia, was uncovering uncomfortable truths for the authorities. 
  <p class="updated_time"> 08:35 AM CT, Jan. 02 </p> 
@@ -30,9 +32,13 @@ permalink: /projects/news/
  <p class="updated_time"> 04:48 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/asia/korea-dmz-border.html">South Korea Says Unknown Person Crossed DMZ Into North</a> NYT: The breach at the Demilitarized Zone went unnoticed for hours, the South Korean military said. There was no immediate response from North Korea. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/world/spain-church-restoration-mystery.html">A Spanish Mystery: Is a ‘Masked Restorer’ to Blame for a Church’s Botched Repair?</a> NYT: Yet another imprudent fix in a land plagued by vigilante handymen led to angry calls to find the culprit — and to a soul-searching question: Does Spain just have too much history in need of upkeep? 
- <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/asia/china-womens-rights.html">China Moves to Overhaul Protections for Women’s Rights, Sort Of</a> NYT: The proposed revisions to a women’s rights law would be the first major changes in nearly 20 years. But many women are skeptical that real progress will follow. 
+ <p class="updated_time"> 03:31 AM CT, Jan. 02 </p> 
+ <a href="https://www.wsj.com/articles/major-fire-devastates-south-africas-parliament-11641133916">Major Fire Devastates South Africa's Parliament</a> WSJ: More than 70 firefighters continued to fight the blaze hours after it was reported at the historic Cape Town complex, while police took a man into custody for questioning. 
+ <p class="updated_time"> 02:49 AM CT, Jan. 02 </p> 
+ <a href="https://www.wsj.com/articles/italys-embattled-berlusconi-eyes-the-presidency-his-biggest-prize-yet-11641131379">Italy's Embattled Berlusconi Eyes the Presidency, His Biggest Prize Yet</a> WSJ: Rivals have counted the three-time former prime minister out before. But a run for Italy’s presidency would represent the biggest comeback for one of the country’s most divisive figures. 
+ <p class="updated_time"> 02:10 AM CT, Jan. 02 </p> 
+ <a href="https://www.wsj.com/articles/south-korea-says-individual-entered-north-korea-through-dmz-11641129034">South Korea Says Individual Entered North Korea Through DMZ</a> WSJ: Details about the unidentified person’s motive and current status remain under investigation, South Korea’s military said. 
  <p class="updated_time"> 02:03 AM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59851097?at_medium=RSS&at_campaign=KARANGA">South Korean crosses DMZ in rare defection to North Korea</a> BBC: Seoul said it had asked the North, which has a shoot-on-sight policy, to protect the person. 
  <p class="updated_time"> 01:33 AM CT, Jan. 02 </p> 
@@ -204,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:12 AM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/capitol-police-chief-short-staffed-526354">Capitol Police chief says force remains short-staffed</a> Politico: “We’re now really about 400 officers short of where we need to be,” J. Thomas Manger said. 
  <p class="updated_time"> 09:33 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-closures-526353">Education secretary urges schools to remain open</a> Politico: But Miguel Cardona acknowledged some short-term closures might be needed. 
  <p class="updated_time"> 07:43 AM CT, Jan. 02 </p> 
@@ -336,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/30/politics/january-6-committee-subpoena-lawsuits-longshot/index.html">Why the new legal attack from Trump allies against January 6 committee is a long shot</a> CNN: The flurry of lawsuits filed in recent weeks trying to stop the House January 6 committee's subpoenas are revealing, in many ways, the opposite: That the House has been largely successful at sweeping up documents for the probe and interviewing dozens of major witnesses. 
  <p class="updated_time"> 12:43 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/israel-saudi-arabia-omicron-call/index.html">Saudi and Israeli foreign ministers joined recent State Department virtual meeting on Omicron</a> CNN: US Secretary of State Antony Blinken's virtual meeting with foreign ministers about the Omicron coronavirus variant last week included the ministers from both Saudi Arabia and Israel, a rare instance where the two countries who do not have formal diplomatic relations participated in the same call. 
- <p class="updated_time"> 11:35 AM CT, Dec. 30 </p> 
- <a href="https://www.politico.com/news/2021/12/30/marines-kick-out-troops-covid-vaccine-526266">Marines kick out 206 troops for refusing Covid-19 vaccine</a> Politico: Overall, 95 percent of all active-duty Marines have received at least the first dose. 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
  <p class="updated_time"> 08:31 AM CT, Dec. 30 </p> 
