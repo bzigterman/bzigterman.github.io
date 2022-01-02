@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:42 AM CT, Jan. 02 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/01/02/1066099271/child-grooms-are-often-overlooked-in-the-fight-to-stop-child-marriage">Child grooms are often overlooked in the fight to stop child marriage</a> NPR: The U.N. issued its first report on the plight of child grooms. And the pandemic has only made things worse. Here's a report from Nepal, where 1 in 10 boys marry young. 
+ <p class="updated_time"> 06:35 AM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59852819?at_medium=RSS&at_campaign=KARANGA">Lionel Messi: Paris St-Germain forward isolating after testing positive for Covid-19</a> BBC: Argentina forward Lionel Messi is one of four Paris St-Germain players to test positive for Covid-19. 
+ <p class="updated_time"> 06:24 AM CT, Jan. 02 </p> 
+ <a href="https://www.npr.org/2022/01/02/1069738025/a-major-fire-ravaged-south-africas-parliament-building-in-cape-town">A major fire ravaged South Africa's Parliament building in Cape Town</a> NPR: The blaze sent a dark plume of smoke and flames into the air above the center of Cape Town and caused some ceilings of the building that houses the national legislature to collapse. 
  <p class="updated_time"> 05:58 AM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">Cape Town: Major blaze rips through South Africa parliament building</a> BBC: The entire parliamentary complex is severely damaged, according to a city official, with a roof gone. 
  <p class="updated_time"> 04:48 AM CT, Jan. 02 </p> 
@@ -59,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59845833?at_medium=RSS&at_campaign=KARANGA">Covid: UAE bans foreign travel for citizens without booster jab</a> BBC: Emiratis will need a third dose of a coronavirus vaccine if they want to leave the country. 
  <p class="updated_time"> 11:16 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/europe/pontifical-oriental-institute-digital-texts.html">A Vatican Library Shortens the Distance Between Its Works and Its Scholars</a> NYT: Rare books in Rome are going online thanks to a German copier, a Long Island scanning firm and a New York software company. 
- <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59848160?at_medium=RSS&at_campaign=KARANGA">Coronavirus pandemic: Antarctic outpost hit by Covid-19 outbreak</a> BBC: Two-thirds of staff at the station are infected but officials say the situation is not serious. 
  <p class="updated_time"> 10:15 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069630495/tutu-state-funeral-south-africa">At his funeral, Tutu is remembered for helping end apartheid and championing rights</a> NPR: "Archbishop Desmond Tutu has been our moral compass and national conscience," South African President Cyril Ramaphosa said in a eulogy at Tutu's state funeral on Saturday. 
  <p class="updated_time"> 09:30 AM CT, Jan. 01 </p> 
@@ -145,12 +149,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/paris-masks-outdoors-omicron.html">Paris Reimposes Outdoor Mask Mandate as Omicron Soars</a> NYT: With more than 2,000 coronavirus cases per 100,000 people, the capital has become the center of France’s spreading Omicron outbreak. 
  <p class="updated_time"> 03:43 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069428211/parents-selling-children-shows-desperation-in-afghanistan">Parents selling children shows desperation in Afghanistan</a> NPR: Many of Afghanistan's growing number of destitute people are making desperate decisions as their nation spirals into a deeper poverty. 
- <p class="updated_time"> 03:03 AM CT, Dec. 31 </p> 
- <a href="https://www.npr.org/2021/12/31/1069430504/new-virus-infections-driven-by-omicron-soar-to-record-high-in-australia">New virus infections driven by omicron soar to record high in Australia </a> NPR: New coronavirus infections soared again in Australia on Friday to a record of more than 32,000 driven by the highly contagious omicron variant and a recent relaxation of restrictions in many areas. 
  <p class="updated_time"> 12:00 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/covid-france-omicron-vaccines.html">Omicron Strains France’s Social Contract on Covid</a> NYT: President Emmanuel Macron won people over by promising normalcy if they followed Covid advice. Now Omicron has raised questions about whether he, or any leader, can deliver on that. 
- <p class="updated_time"> 11:36 PM CT, Dec. 30 </p> 
- <a href="https://www.npr.org/2021/12/31/1069412844/asia-looks-to-china-focused-trade-bloc-for-virus-recovery">Asia looks to China-focused trade bloc for virus recovery</a> NPR: Members of the 15-member Regional and Comprehensive Economic Partnership, or RCEP, include China, Japan and South Korea. The new trading bloc does not include the U.S. or India. 
  <p class="updated_time"> 10:51 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/japan-arson.html">Suspect in Deadly Arson Fire in Osaka, Japan, Dies in Hospital</a> NYT: The suspect, a 61-year-old man, had been hospitalized for smoke inhalation since the Dec. 17 fire at a psychiatric clinic, which killed 25 other people. 
  <p class="updated_time"> 10:25 PM CT, Dec. 30 </p> 
@@ -206,6 +206,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:43 AM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/colorado-wildfires-why-526321">Cause of massive Colorado fire investigated; 3 missing</a> Politico: Boulder County Sheriff Joe Pelle said  authorities were pursuing a number of tips and had executed a search warrant at “one particular location.” 
+ <p class="updated_time"> 07:23 AM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/fire-ravages-cape-town-seat-of-south-africas-parliament-526315">Fire ravages Cape Town seat of South Africa’s Parliament</a> Politico: Some ceilings of the building that houses the national legislature fell in. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/house-jan-6-committee-popular-republicans-526092">Poll: House's Jan. 6 probe is popular — even among many Republicans</a> Politico: Three out of five respondents say Trump is responsible for the events that led to the U.S. Capitol riot. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
@@ -222,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/01/politics/nyc-mayor-eric-adams-swear-in/index.html">Eric Adams sworn in as New York City mayor</a> CNN: Eric Adams, New York City's new mayor, was sworn in to office just minutes after the crystal ball dropped at midnight in Times Square on January 1. 
  <p class="updated_time"> 06:06 PM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069677828/uk-new-years-honours-list-daniel-craig">COVID-19 experts, athletes and Daniel Craig make the U.K.'s 'Honours List'</a> NPR: The annual tradition pays tribute to people for achievements made over the previous year. The government said it was the most ethnically diverse Honours List yet. 
- <p class="updated_time"> 04:45 PM CT, Jan. 01 </p> 
- <a href="https://www.politico.com/news/2022/01/01/officials-nearly-1k-homes-destroyed-in-colorado-wildfire-526305">Officials: Nearly 1K homes destroyed in Colorado wildfire</a> Politico: The wind-whipped wildfire charred entire neighborhoods in a suburban area between Denver and Boulder. 
  <p class="updated_time"> 03:47 PM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/news/2022/01/01/on-busy-1st-day-nyc-mayor-urges-resiliency-against-pandemic-526304">On busy 1st day, NYC mayor urges resiliency against pandemic</a> Politico: “Getting vaccinated is not letting the crisis control you,” Adams said at City Hall. 
  <p class="updated_time"> 01:06 PM CT, Jan. 01 </p> 
@@ -276,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/31/1069539008/a-look-back-at-attacks-on-voting-rights-in-2021-and-what-could-be-next">A look back at attacks on voting rights in 2021 — and what could be next</a> NPR: NPR's Mary Louise Kelly speaks with Wendy Weiser, who directs the Democracy Program at the Brennan Center for Justice, about the threats to our elections in 2022 and 2024. 
  <p class="updated_time"> 03:11 PM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069538919/asians-lose-voting-power-in-texas">Asian American groups file a legal challenge to Texas' redistricting plans</a> NPR: The Asian population in Fort Bend County is Texas' largest. When the Texas Legislature met to redraw congressional maps, many Asian Americans hoped it would reflect that. That didn't happen. 
- <p class="updated_time"> 03:02 PM CT, Dec. 31 </p> 
- <a href="https://www.politico.com/news/2021/12/31/betty-white-dies-99-526292">Betty White, TV’s Golden Girl, dies at 99</a> Politico: The actress, whose up-for-anything charm made her a television mainstay for more than 60 years, has died. 
  <p class="updated_time"> 02:38 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/biden-volodymyr-zelensky-call-ukraine/index.html">Biden to speak with Zelensky as US warns against Russian invasion of Ukraine</a> CNN: President Joe Biden will speak with Ukrainian President Volodymyr Zelensky on Sunday, several days after Biden urged Russian President Vladimir Putin to ease an unremitting military crisis on Ukraine's border. 
  <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
