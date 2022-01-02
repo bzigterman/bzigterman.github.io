@@ -198,14 +198,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:54 PM CT, Jan. 01 </p> 
+ <a href="https://www.cnn.com/2022/01/01/politics/nyc-mayor-eric-adams-swear-in/index.html">Eric Adams sworn in as New York City mayor</a> CNN: Eric Adams, New York City's new mayor, was sworn in to office just minutes after the crystal ball dropped at midnight in Times Square on January 1. 
  <p class="updated_time"> 06:06 PM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069677828/uk-new-years-honours-list-daniel-craig">COVID-19 experts, athletes and Daniel Craig make the U.K.'s 'Honours List'</a> NPR: The annual tradition pays tribute to people for achievements made over the previous year. The government said it was the most ethnically diverse Honours List yet. 
  <p class="updated_time"> 04:45 PM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/news/2022/01/01/officials-nearly-1k-homes-destroyed-in-colorado-wildfire-526305">Officials: Nearly 1K homes destroyed in Colorado wildfire</a> Politico: The wind-whipped wildfire charred entire neighborhoods in a suburban area between Denver and Boulder. 
  <p class="updated_time"> 03:47 PM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/news/2022/01/01/on-busy-1st-day-nyc-mayor-urges-resiliency-against-pandemic-526304">On busy 1st day, NYC mayor urges resiliency against pandemic</a> Politico: “Getting vaccinated is not letting the crisis control you,” Adams said at City Hall. 
- <p class="updated_time"> 01:52 PM CT, Jan. 01 </p> 
- <a href="https://www.cnn.com/2022/01/01/politics/nyc-mayor-eric-adams-swear-in/index.html">Eric Adams sworn in as New York City mayor</a> CNN: Eric Adams, New York City's new mayor, was sworn in to office just minutes after the crystal ball dropped at midnight in Times Square on January 1. 
  <p class="updated_time"> 01:06 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/30/upshot/medical-bill-ban-biden.html">A New Ban on Surprise Medical Bills Starts Today</a> NYT: If you have a medical emergency, you will no longer need to worry about a large bill from a doctor you did not choose. 
  <p class="updated_time"> 11:59 AM CT, Jan. 01 </p> 
