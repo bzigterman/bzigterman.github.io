@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:24 AM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/europe/venice-calatrava-bridge.html">Venice to Replace Glass on Santiago Calatrava's Slippery Bridge</a> NYT: The city will replace the glass on Santiago Calatrava’s footbridge across the Grand Canal with stone after too many pedestrians fell. 
  <p class="updated_time"> 10:57 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 10:56 AM CT, Jan. 02 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/india-third-wave-covid.html">India Fears a Third Wave of Covid, Driven by Omicron</a> NYT: The health ministry recorded more than 13,000 new cases in a day, one of the highest daily totals since October. 
  <p class="updated_time"> 08:53 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-nhs-field-hospitals-omicron.html">U.K. Plans Field Wards to Meet Omicron Surge</a> NYT: Unlike the “Nightingale hospitals” that went largely unused during the first virus wave, the new facilities are designed for patients needing less intensive treatment. 
- <p class="updated_time"> 07:56 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
  <p class="updated_time"> 07:49 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/china-xian-lockdown-covid.html">China Keeps 13 Million in Xi’an Under Strict Lockdown </a> NYT: The severe measures in Xi’an have prompted concern, as residents complain on social media of having trouble ordering food online. 
  <p class="updated_time"> 06:15 AM CT, Dec. 30 </p> 
@@ -208,16 +208,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:14 PM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-testing-526360">More Covid testing programs on the way for schools, Education secretary says</a> Politico: “We’re working closely now to make sure that they’re being set up,” Miguel Cardona said. 
  <p class="updated_time"> 11:41 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/bennie-thompson-jan-6-526357">Members of Congress interacted with Jan. 6 rioters, Rep. Thompson says</a> Politico: But it’s not clear how extensive or significant those interactions were. 
  <p class="updated_time"> 11:15 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/02/4-startling-polls-you-should-read-about-jan-6-495559"> 4 startling polls you should read about Jan. 6</a> Politico Playbook: And millions are getting ready to head back to work and school Monday despite the Omicron surge 
+ <p class="updated_time"> 11:09 AM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 11:06 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cheney-trump-threat-democracy-526356">Liz Cheney on Trump: He’s a threat to American democracy</a> Politico: “He crossed lines no American president has ever crossed before,” she said. 
  <p class="updated_time"> 10:39 AM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">January 6 committee chairman says panel has 'significant testimony' the White House 'had been told to do something' during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
- <p class="updated_time"> 10:20 AM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 10:12 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/capitol-police-chief-short-staffed-526354">Capitol Police chief says force remains short-staffed</a> Politico: “We’re now really about 400 officers short of where we need to be,” J. Thomas Manger said. 
  <p class="updated_time"> 10:05 AM CT, Jan. 02 </p> 
@@ -264,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/upshot/medical-bill-ban-biden.html">A New Ban on Surprise Medical Bills Starts Today</a> NYT: If you have a medical emergency, you will no longer need to worry about a large bill from a doctor you did not choose. 
  <p class="updated_time"> 11:59 AM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/01/politics/bernard-kerik-documents-january-6-committee/index.html">Ex-New York City police commissioner Bernard Kerik provides documents to January 6 committee</a> CNN: Bernard Kerik, the former New York City police commissioner, has agreed to a voluntary interview with the House select committee investigating January 6 and provided some documents, according to a letter from his attorney obtained by CNN. 
- <p class="updated_time"> 11:53 AM CT, Jan. 01 </p> 
- <a href="https://www.politico.com/news/2022/01/01/new-years-rose-parade-proceeds-despite-covid-19-surge-526303">New Year’s Rose Parade proceeds despite Covid-19 surge</a> Politico: The 2021 Rose Parade was canceled months ahead of time. The Rose Bowl football game was played after being moved to Arlington, Texas. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
