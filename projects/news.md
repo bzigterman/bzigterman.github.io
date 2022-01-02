@@ -25,6 +25,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59853010?at_medium=RSS&at_campaign=KARANGA">Memorial: Russia’s civil rights group uncovering an uncomfortable past</a> BBC: Memorial, one of the oldest civil rights groups in Russia, was uncovering uncomfortable truths for the authorities. 
  <p class="updated_time"> 08:29 AM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59852577?at_medium=RSS&at_campaign=KARANGA">EU flag removed from Arc de Triomphe after right-wing outrage</a> BBC: The French government denies bowing to far-right pressure over the flag at the Arc de Triomphe. 
+ <p class="updated_time"> 07:44 AM CT, Jan. 02 </p> 
+ <a href="https://www.wsj.com/articles/major-fire-devastates-south-africas-parliament-11641133916">Fire Inflicts Heavy Damage to South Africa's Parliament</a> WSJ: More than 70 firefighters continued to fight the blaze hours after it was reported at the historic Cape Town complex, while police took a man into custody for questioning. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739336/omicron-is-subsiding-in-south-africa">Omicron is subsiding in South Africa</a> NPR: NPR's Eyder Peralta speaks with Dr. Glenda Gray, president of the South African Medical Research Council, about how omicron cases are going down in South Africa, and the lessons for the U.S. 
  <p class="updated_time"> 06:52 AM CT, Jan. 02 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/world/asia/korea-dmz-border.html">South Korea Says Unknown Person Crossed DMZ Into North</a> NYT: The breach at the Demilitarized Zone went unnoticed for hours, the South Korean military said. There was no immediate response from North Korea. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/asia/china-womens-rights.html">China Moves to Overhaul Protections for Women’s Rights, Sort Of</a> NYT: The proposed revisions to a women’s rights law would be the first major changes in nearly 20 years. But many women are skeptical that real progress will follow. 
- <p class="updated_time"> 03:31 AM CT, Jan. 02 </p> 
- <a href="https://www.wsj.com/articles/major-fire-devastates-south-africas-parliament-11641133916">Major Fire Devastates South Africa's Parliament</a> WSJ: More than 70 firefighters continued to fight the blaze hours after it was reported at the historic Cape Town complex, while police took a man into custody for questioning. 
  <p class="updated_time"> 02:49 AM CT, Jan. 02 </p> 
  <a href="https://www.wsj.com/articles/italys-embattled-berlusconi-eyes-the-presidency-his-biggest-prize-yet-11641131379">Italy's Embattled Berlusconi Eyes the Presidency, His Biggest Prize Yet</a> WSJ: Rivals have counted the three-time former prime minister out before. But a run for Italy’s presidency would represent the biggest comeback for one of the country’s most divisive figures. 
  <p class="updated_time"> 02:10 AM CT, Jan. 02 </p> 
@@ -212,12 +212,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
  <p class="updated_time"> 12:55 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/hogan-health-care-covid-maryland-526361">‘You can’t really manufacture doctors and nurses that don’t exist’</a> Politico: Maryland Gov. Larry Hogan said his state is trying everything it can to ensure it has enough health care workers. 
+ <p class="updated_time"> 12:49 PM CT, Jan. 02 </p> 
+ <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">Cheney: January 6 committee has 'firsthand' testimony that Ivanka asked Trump to intervene during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
  <p class="updated_time"> 12:33 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 12:14 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-testing-526360">More Covid testing programs on the way for schools, Education secretary says</a> Politico: “We’re working closely now to make sure that they’re being set up,” Miguel Cardona said. 
- <p class="updated_time"> 12:13 PM CT, Jan. 02 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">Cheney: January 6 committee has 'firsthand' testimony that Ivanka asked Trump to intervene during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
  <p class="updated_time"> 11:41 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/bennie-thompson-jan-6-526357">Members of Congress interacted with Jan. 6 rioters, Rep. Thompson says</a> Politico: But it’s not clear how extensive or significant those interactions were. 
  <p class="updated_time"> 11:15 AM CT, Jan. 02 </p> 
@@ -249,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739350/week-in-politics-congressional-democrats-fear-losing-majority-in-midterms">Week in politics: Congressional Democrats fear losing majority in midterms</a> NPR: Political parties are already looking ahead to the midterm elections in November, and Democrats are feeling uneasy about holding onto power in Congress. 
  <p class="updated_time"> 07:00 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/trump-capitol-riot-aftermath-526277">At time of Capitol prayer service  Jan. 6, Trump will deliver  remarks doubling down on the ‘Big Lie’</a> Politico: The riot at the Capitol briefly looked like it had broken Trump's hold on the GOP. Instead, he has reaffirmed his dominion over the party. 
+ <a href="https://www.politico.com/news/2022/01/02/trump-capitol-riot-aftermath-526277">At time of Capitol prayer service Jan. 6, Trump will deliver remarks doubling down on the ‘Big Lie’</a> Politico: The riot at the Capitol briefly looked like it had broken Trump's hold on the GOP. Instead, he has reaffirmed his dominion over the party. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1068891351/january-6-insurrection-capitol-attack-trump-anniversary">Trump still says his supporters weren't behind the Jan. 6 attack — but I was there</a> NPR: It's been a year since that pro-Trump mob stormed the Capitol. I was there when it happened, and I was also there months later when they tried to shift the blame. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
