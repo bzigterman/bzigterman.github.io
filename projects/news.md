@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:20 AM CT, Jan. 02 </p> 
+ <p class="updated_time"> 04:39 AM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
+ <p class="updated_time"> 04:31 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/asia/korea-dmz-border.html">South Korea Says Unknown Person Crossed DMZ Into North</a> NYT: The breach at the Demilitarized Zone went unnoticed for hours, the South Korean military said. There was no immediate response from North Korea. 
  <p class="updated_time"> 04:11 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Fire Still Burning After Hours</a> NYT: The extent of the damage was not immediately clear on Sunday morning, but officials feared it would be extensive. 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/world/asia/south-korea-men-anti-feminists.html">The New Political Cry in South Korea: ‘Out With Man Haters’</a> NYT: After slow gains in women’s rights, the country is facing a type of political correctness enforced by young men angry at feminists, saying they undermine opportunity. 
  <p class="updated_time"> 02:01 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59848162?at_medium=RSS&at_campaign=KARANGA">Map drawn from memory helps reunite kidnapped Chinese man with family</a> BBC: Li Jingwei was kidnapped in Yunnan province in 1989 and sold to a family thousands of miles away. 
- <p class="updated_time"> 01:57 PM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 01:19 PM CT, Jan. 01 </p> 
  <a href="https://www.wsj.com/articles/europe-fights-record-covid-19-cases-looks-ahead-to-reopenings-11641051922">Europe Fights Record Covid-19 Cases, Looks to Reopenings</a> WSJ: Despite data suggesting Omicron produces a milder form of disease, hospitals are bracing for a flood of patients because of increased social contacts over the festive period. 
  <p class="updated_time"> 01:11 PM CT, Jan. 01 </p> 
