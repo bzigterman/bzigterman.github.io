@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:02 PM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">South Africa parliament: Man arrested over massive fire</a> BBC: Police in Cape Town say a man is facing several charges over the fire and will appear in court on Tuesday. 
  <p class="updated_time"> 01:42 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59849697?at_medium=RSS&at_campaign=KARANGA">Colorado wildfire: Two people remain missing and presumed dead</a> BBC: A local sheriff previously said it had been a miracle no-one was reported missing or dead. 
  <p class="updated_time"> 01:30 PM CT, Jan. 02 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59854916?at_medium=RSS&at_campaign=KARANGA">Marjorie Taylor Greene: Twitter bans congresswoman over Covid misinformation</a> BBC: The congresswoman was suspended after tweeting falsely about high levels of vaccine related deaths. 
  <p class="updated_time"> 12:24 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59853772?at_medium=RSS&at_campaign=KARANGA">Covid: Israel Omicron spike could bring herd immunity but with risks - health boss</a> BBC: Health boss says Omicron may lead to herd immunity but it would be better achieved via vaccination. 
- <p class="updated_time"> 12:06 PM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">South Africa parliament: Man arrested over massive fire</a> BBC: Police in Cape Town say a man is facing several charges over the fire and will appear in court on Tuesday. 
  <p class="updated_time"> 11:24 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/europe/venice-calatrava-bridge.html">Venice to Replace Glass on Santiago Calatrava's Slippery Bridge</a> NYT: The city will replace the glass on Santiago Calatrava’s footbridge across the Grand Canal with stone after too many pedestrians fell. 
  <p class="updated_time"> 10:57 AM CT, Jan. 02 </p> 
