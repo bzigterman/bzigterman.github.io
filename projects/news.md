@@ -212,10 +212,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-testing-526360">More Covid testing programs on the way for schools, Education secretary says</a> Politico: “We’re working closely now to make sure that they’re being set up,” Miguel Cardona said. 
  <p class="updated_time"> 11:41 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/bennie-thompson-jan-6-526357">Members of Congress interacted with Jan. 6 rioters, Rep. Thompson says</a> Politico: But it’s not clear how extensive or significant those interactions were. 
+ <p class="updated_time"> 11:41 AM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 11:15 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/02/4-startling-polls-you-should-read-about-jan-6-495559"> 4 startling polls you should read about Jan. 6</a> Politico Playbook: And millions are getting ready to head back to work and school Monday despite the Omicron surge 
- <p class="updated_time"> 11:09 AM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 11:06 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cheney-trump-threat-democracy-526356">Liz Cheney on Trump: He’s a threat to American democracy</a> Politico: “He crossed lines no American president has ever crossed before,” she said. 
  <p class="updated_time"> 10:39 AM CT, Jan. 02 </p> 
