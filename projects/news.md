@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:25 PM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/africa/abdalla-hamdok-resigns-sudan.html">Sudan’s Prime Minister, Abdalla Hamdok, Resigns</a> NYT: Mr. Hamdok was restored to power a month ago after being deposed in a coup, but he was never able to gain control of the fractious country. 
  <p class="updated_time"> 03:03 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/asia/china-womens-rights.html">China Moves to Overhaul Protections for Women’s Rights, Sort Of</a> NYT: The proposed revisions to a women’s rights law would be the first major changes in nearly 20 years. But many women are skeptical that real progress will follow. 
  <p class="updated_time"> 02:56 PM CT, Jan. 02 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/middleeast/asma-khader-dead.html">Asma Khader, Fighter for Women’s Rights in Jordan, Dies at 69</a> NYT: A respected lawyer, she focused on the victims of domestic violence and also worked hard to change discriminatory laws. 
  <p class="updated_time"> 07:31 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/middleeast/israel-mount-sinai-burning-bush.html">Is That a Burning Bush? Is This Mt. Sinai? Solstice Bolsters a Claim</a> NYT: On the year’s shortest day, hundreds of Israelis ventured deep into the desert to witness a strange natural phenomenon atop an ancient pilgrimage site that some argue is where God spoke to Moses. 
- <p class="updated_time"> 06:55 AM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/asia/tesla-batteries-nickel-new-caledonia.html">Can a Sustainable Mining Experiment in New Caledonia Power Tesla's Ambitions?</a> NYT: Nickel is vital to electric car batteries, but extracting it is dirty and destructive. A plant with a turbulent history in New Caledonia is about to become an experiment in doing it better. 
  <p class="updated_time"> 06:03 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/paris-masks-outdoors-omicron.html">Paris Reimposes Outdoor Mask Mandate as Omicron Soars</a> NYT: With more than 2,000 coronavirus cases per 100,000 people, the capital has become the center of France’s spreading Omicron outbreak. 
  <p class="updated_time"> 12:00 AM CT, Dec. 31 </p> 
@@ -200,12 +200,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:03 PM CT, Jan. 02 </p> 
+ <a href="https://www.cnn.com/2022/01/02/politics/joe-manchin-voting-rights-filibuster/index.html">Why Democrats haven't given up on Joe Manchin and voting rights</a> CNN: In 1947, the year Joe Manchin was born, the US Senate killed voting-rights legislation -- again. The "gravedigger," liberal Democrats complained, was filibuster rules empowering its opponents. 
  <p class="updated_time"> 02:33 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/marjorie-taylor-greene-twitter-suspension/index.html">One of Marjorie Taylor Greene's verified Twitter accounts permanently suspended from Twitter</a> CNN: Twitter has permanently suspended Georgia GOP Rep. Marjorie Taylor Greene's Twitter account @mtgreenee, the company confirmed to CNN Sunday morning. 
  <p class="updated_time"> 02:18 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/at-t-verizon-5g-launch-aviation-526365">AT&T, Verizon reject Buttigieg's plea to delay 5G launch amid warnings of aviation chaos</a> Politico: The wireless carriers' rebuff is the latest step in weeks of an escalating standoff between the aviation and telecommunication sectors. 
  <p class="updated_time"> 01:53 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
+ <p class="updated_time"> 01:41 PM CT, Jan. 02 </p> 
+ <a href="https://www.cnn.com/2022/01/02/politics/january-6-poll-violence-against-government/index.html">34% of Americans say violence against government is sometimes justified, new poll finds</a> CNN: Thirty-four percent of Americans think violent action against the government is sometimes justified, according to a new poll from The Washington Post and the University of Maryland released days ahead of the one-year anniversary of the insurrection at the US Capitol. 
  <p class="updated_time"> 01:29 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
  <p class="updated_time"> 01:22 PM CT, Jan. 02 </p> 
@@ -214,6 +218,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/hogan-health-care-covid-maryland-526361">‘You can’t really manufacture doctors and nurses that don’t exist’</a> Politico: Maryland Gov. Larry Hogan said his state is trying everything it can to ensure it has enough health care workers. 
  <p class="updated_time"> 12:14 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-testing-526360">More Covid testing programs on the way for schools, Education secretary says</a> Politico: “We’re working closely now to make sure that they’re being set up,” Miguel Cardona said. 
+ <p class="updated_time"> 11:51 AM CT, Jan. 02 </p> 
+ <a href="https://www.cnn.com/2022/01/02/politics/fauci-cdc-to-clarify-guidelines/index.html">Further clarification 'coming very soon' to CDC Covid-19 isolation guidelines</a> CNN: Dr. Anthony Fauci said he anticipates "further clarification" on the US Centers for Disease Control and Prevention's updated guidelines to end the Covid-19 isolation period after just five days for people who are not exhibiting symptoms. 
  <p class="updated_time"> 11:41 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/bennie-thompson-jan-6-526357">Members of Congress interacted with Jan. 6 rioters, Rep. Thompson says</a> Politico: But it’s not clear how extensive or significant those interactions were. 
  <p class="updated_time"> 11:15 AM CT, Jan. 02 </p> 
@@ -318,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/31/biden-novavax-production-covid-omicron-526283">Biden officials now fear booster programs will limit global vaccine supply</a> Politico: A looming shortage of doses for low- and moderate-income countries puts increased pressure on Novavax to obtain regulatory approvals for global manufacturing. 
  <p class="updated_time"> 06:12 AM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/minimum-wage-increase-2022-15-dollars/index.html">21 states will see minimum wage increases by January 1</a> CNN: Workers in 21 states will see a rise in the minimum wage in the new year. 
- <p class="updated_time"> 05:19 AM CT, Dec. 31 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/trump-dunleavy-endorsement-murkowski/index.html">Alaska Gov. Dunleavy accepts Trump endorsement conditioned upon him not endorsing Sen. Murkowski in 2022</a> CNN: Former President Donald Trump on Tuesday backed Alaska GOP Gov. Mike Dunleavy for reelection in 2022, but his endorsement came with a caveat that is just the latest sign of his attempts to influence Republican politics next year. 
  <p class="updated_time"> 04:05 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069230553/the-top-destination-for-biden-during-his-first-year-in-office-pennsylvania">The top destination for Biden during his first year in office? Pennsylvania</a> NPR: Biden traveled there seven times since taking office, more than any other president in recent history. The reasons for his visits there and other states have to do with policy, politics and more. 
  <p class="updated_time"> 04:01 AM CT, Dec. 31 </p> 
@@ -336,18 +340,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/us/politics/boosters-12-15-year-olds-omicron.html">F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters</a> NYT: Regulators are also expected to allow even younger children with immune deficiencies to get an extra shot. 
  <p class="updated_time"> 07:39 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/ravnsborg-impeachment-investigation-south-dakota/index.html">South Dakota AG impeachment investigation broadens scope to key officials related to fatal crash</a> CNN: South Dakota lawmakers voted on Wednesday to broaden their examination of the state attorney general's killing of a man in a fatal collision last year. 
- <p class="updated_time"> 07:15 PM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/trump-supreme-court-documents/index.html">Biden administration defends its decision not to assert executive privilege over Trump's White House records</a> CNN: Both the House of Representatives and the Biden administration asked the Supreme Court on Thursday to deny former President Donald Trump's attempt to keep secret more than 700 pages of records that pertain to January 6. 
  <p class="updated_time"> 06:57 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/pelosi-january-6-one-year-plans/index.html">Pelosi announces plans to commemorate January 6 anniversary at US Capitol</a> CNN: House Speaker Nancy Pelosi on Thursday announced a slate of events around the US Capitol next week to commemorate the one-year anniversary of the January 6 insurrection. 
  <p class="updated_time"> 06:13 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/white-house-hit-list-kuachua-brillion-xiong.html">California Man on Deadly Mission to White House Is Arrested, Officials Say</a> NYT: Kuachua Brillion Xiong, 25, is being held in the Pottawattamie County Jail in Council Bluffs, Iowa, on charges of making threats against a former president. 
- <p class="updated_time"> 04:08 PM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/year-in-review-us-politics-what-matters/index.html">Analysis: 2021 was a transformative year in US politics. Here are the biggest stories.</a> CNN: This year brought a dizzying mix of triumphs and setbacks in Washington, where lawmakers have grappled with everything from a deadly pandemic to an assault on democracy itself. 
  <p class="updated_time"> 03:26 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/january-6-committee-subpoena-lawsuits-longshot/index.html">Why the new legal attack from Trump allies against January 6 committee is a long shot</a> CNN: The flurry of lawsuits filed in recent weeks trying to stop the House January 6 committee's subpoenas are revealing, in many ways, the opposite: That the House has been largely successful at sweeping up documents for the probe and interviewing dozens of major witnesses. 
- <p class="updated_time"> 12:43 PM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/israel-saudi-arabia-omicron-call/index.html">Saudi and Israeli foreign ministers joined recent State Department virtual meeting on Omicron</a> CNN: US Secretary of State Antony Blinken's virtual meeting with foreign ministers about the Omicron coronavirus variant last week included the ministers from both Saudi Arabia and Israel, a rare instance where the two countries who do not have formal diplomatic relations participated in the same call. 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
  <p class="updated_time"> 08:31 AM CT, Dec. 30 </p> 
