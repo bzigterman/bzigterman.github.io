@@ -52,7 +52,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:19 PM CT, Jan. 01 </p> 
  <a href="https://www.wsj.com/articles/europe-fights-record-covid-19-cases-looks-ahead-to-reopenings-11641051922">Europe Fights Record Covid-19 Cases, Looks to Reopenings</a> WSJ: Despite data suggesting Omicron produces a milder form of disease, hospitals are bracing for a flood of patients because of increased social contacts over the festive period. 
  <p class="updated_time"> 01:11 PM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/01/world/africa/desmond-tutu-funeral-south-africa.html">With a Simple Funeral, South Africa Bids Farewell to Desmond Tutu</a> NYT: The archbishop and Nobel laureate left plans for an unostentatious ceremony, which were stripped back further under Covid restrictions. 
+ <a href="https://www.nytimes.com/2022/01/01/world/africa/desmond-tutu-funeral-south-africa.html">Desmond Tutu Funeral: South Africa Bids Farewell</a> NYT: The archbishop and Nobel laureate left plans for an unostentatious ceremony, which were stripped back further under Covid restrictions. 
  <p class="updated_time"> 12:14 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59848648?at_medium=RSS&at_campaign=KARANGA">New Year's Eve fireworks kill and injure in Europe despite bans</a> BBC: Among three killed is a 12-year-old Dutch boy who was watching an adult set off a device. 
  <p class="updated_time"> 11:20 AM CT, Jan. 01 </p> 
