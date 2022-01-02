@@ -214,6 +214,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/capitol-police-chief-short-staffed-526354">Capitol Police chief says force remains short-staffed</a> Politico: “We’re now really about 400 officers short of where we need to be,” J. Thomas Manger said. 
  <p class="updated_time"> 09:33 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-closures-526353">Education secretary urges schools to remain open</a> Politico: But Miguel Cardona acknowledged some short-term closures might be needed. 
+ <p class="updated_time"> 09:23 AM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 07:43 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/colorado-wildfires-why-526321">Cause of massive Colorado fire investigated; 3 missing</a> Politico: Boulder County Sheriff Joe Pelle said  authorities were pursuing a number of tips and had executed a search warrant at “one particular location.” 
  <p class="updated_time"> 07:23 AM CT, Jan. 02 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/republicans-luring-john-james-house-526250">National Republicans luring John James into House race</a> Politico: Republicans anticipate James, one of their most coveted 2022 recruits, will run for Congress next year after Michigan's new district map was finalized. 
  <p class="updated_time"> 11:07 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/29/harry-reids-legacy-495555"> Harry Reid’s legacy</a> Politico Playbook: And Michigan and Virginia get their new congressional maps. 
- <p class="updated_time"> 11:04 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/28/us/politics/congress-ethics-investigations.html">Ethics Investigators in Congress Increasingly Run Into Walls</a> NYT: Lawmakers under scrutiny are more likely than before to simply refuse to cooperate with an inquiry. 
  <p class="updated_time"> 10:47 AM CT, Dec. 29 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/less-pandemic-federal-aid-stimulus-unemployment/index.html">Less federal aid is coming as Americans enter third year of the pandemic</a> CNN: As Americans enter the third year of the pandemic, they can expect to receive significantly less federal aid. 
  <p class="updated_time"> 10:26 AM CT, Dec. 29 </p> 
