@@ -221,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739350/week-in-politics-congressional-democrats-fear-losing-majority-in-midterms">Week in politics: Congressional Democrats fear losing majority in midterms</a> NPR: Political parties are already looking ahead to the midterm elections in November, and Democrats are feeling uneasy about holding onto power in Congress. 
  <p class="updated_time"> 07:00 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/trump-capitol-riot-aftermath-526277">One year after Jan. 6, Trumpism isn't gone. It's 'almost a religion.'</a> Politico: The riot at the Capitol briefly looked like it had broken Trump's hold on the GOP. Instead, he has reaffirmed his dominion over the party. 
+ <a href="https://www.politico.com/news/2022/01/02/trump-capitol-riot-aftermath-526277">During the Capitol prayer service on Jan. 6, Trump will deliver his own remarks doubling down on the “Big Lie”</a> Politico: The riot at the Capitol briefly looked like it had broken Trump's hold on the GOP. Instead, he has reaffirmed his dominion over the party. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1068891351/january-6-insurrection-capitol-attack-trump-anniversary">Trump still says his supporters weren't behind the Jan. 6 attack — but I was there</a> NPR: It's been a year since that pro-Trump mob stormed the Capitol. I was there when it happened, and I was also there months later when they tried to shift the blame. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
