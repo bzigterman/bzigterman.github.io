@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:42 AM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59853010?at_medium=RSS&at_campaign=KARANGA">Memorial: Russia’s civil rights group uncovering an uncomfortable past</a> BBC: Memorial, one of the oldest civil rights groups in Russia, was uncovering uncomfortable truths for the authorities. 
  <p class="updated_time"> 08:35 AM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">Cape Town: Major blaze rips through South Africa parliament building</a> BBC: The entire parliamentary complex is severely damaged, according to a city official, with a roof gone. 
  <p class="updated_time"> 08:29 AM CT, Jan. 02 </p> 
@@ -24,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:42 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/02/1066099271/child-grooms-are-often-overlooked-in-the-fight-to-stop-child-marriage">Child grooms are often overlooked in the fight to stop child marriage</a> NPR: The U.N. issued its first report on the plight of child grooms. And the pandemic has only made things worse. Here's a report from Nepal, where 1 in 10 boys marry young. 
  <p class="updated_time"> 06:24 AM CT, Jan. 02 </p> 
- <a href="https://www.npr.org/2022/01/02/1069738025/a-major-fire-ravaged-south-africas-parliament-building-in-cape-town">A major fire ravaged South Africa's Parliament building in Cape Town</a> NPR: The blaze sent a dark plume of smoke and flames into the air above the center of Cape Town and caused some ceilings of the building that houses the national legislature to collapse. 
+ <a href="https://www.npr.org/2022/01/02/1069738025/a-major-fire-ravaged-south-africas-parliament-building-in-cape-town">A major fire rips through South Africa's Parliament building in Cape Town</a> NPR: The blaze sent a dark plume of smoke and flames into the air. Around 70 firefighters were still battling the fire more than seven hours after it started in the early morning. 
  <p class="updated_time"> 04:48 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/asia/korea-dmz-border.html">South Korea Says Unknown Person Crossed DMZ Into North</a> NYT: The breach at the Demilitarized Zone went unnoticed for hours, the South Korean military said. There was no immediate response from North Korea. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/europe/most-popular-dispatches-2021.html">In 2021, We Were There: The Year’s 14 Most Popular Dispatches</a> NYT: Not even a pandemic, wars or autocrats could prevent our correspondents from seeking out secrets and surprises to share with readers. They sent dispatches from 40 countries on six continents. 
  <p class="updated_time"> 06:11 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/world-junior-championship-canceled-canada.html">World Junior Championship, a Showcase for Hockey’s Top Prospects, Is Canceled</a> NYT: The cancellation was an ominous sign for sports leagues, including the N.H.L. and the N.B.A., which have been struggling to maintain schedules. 
- <p class="updated_time"> 05:28 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59733623?at_medium=RSS&at_campaign=KARANGA">Who is Ghislaine Maxwell? The story of her downfall</a> BBC: How she went from being the toast of high society to a convicted sex trafficker. 
  <p class="updated_time"> 06:04 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59733533?at_medium=RSS&at_campaign=KARANGA">‘The doctors came and I had to tell my father he was dying’</a> BBC: Is it always appropriate for relatives to interpret for deaf loved ones? 
 
