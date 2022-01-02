@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:22 PM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/maryland-covid-larry-hogan.html">Governor: Maryland Prepares for 'Terrible Point' in Covid Crisis</a> NYT: Gov. Larry Hogan said the state was trying to staff hospitals through a variety of measures. 
  <p class="updated_time"> 01:13 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59854916?at_medium=RSS&at_campaign=KARANGA">Marjorie Taylor Greene: Twitter bans congresswoman over Covid misinformation</a> BBC: The congresswoman was suspended after tweeting falsely about high levels of vaccine related deaths. 
  <p class="updated_time"> 12:24 PM CT, Jan. 02 </p> 
@@ -31,12 +33,18 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/major-fire-devastates-south-africas-parliament-11641133916">Fire Inflicts Heavy Damage to South Africa's Parliament Building</a> WSJ: More than 70 firefighters continued to fight the blaze hours after it was reported at the historic Cape Town complex, while police took a man into custody for questioning. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739336/omicron-is-subsiding-in-south-africa">Omicron is subsiding in South Africa</a> NPR: NPR's Eyder Peralta speaks with Dr. Glenda Gray, president of the South African Medical Research Council, about how omicron cases are going down in South Africa, and the lessons for the U.S. 
+ <p class="updated_time"> 06:56 AM CT, Jan. 02 </p> 
+ <a href="https://www.wsj.com/articles/china-russia-america-military-exercises-weapons-war-xi-putin-biden-11641146041">China and Russia Military Cooperation Raises Prospect of New Challenge to American Power</a> WSJ: Joint military exercises, coordinated weapons development and technology sharing are seen as tools in a campaign to limit U.S. might abroad, military analysts and U.S. officials say. 
  <p class="updated_time"> 06:52 AM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59852819?at_medium=RSS&at_campaign=KARANGA">Lionel Messi: Paris St-Germain forward isolating after testing positive for Covid-19</a> BBC: Argentina forward Lionel Messi is one of four Paris St-Germain players to test positive for Covid-19. 
  <p class="updated_time"> 06:42 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/02/1066099271/child-grooms-are-often-overlooked-in-the-fight-to-stop-child-marriage">Child grooms are often overlooked in the fight to stop child marriage</a> NPR: The U.N. issued its first report on the plight of child grooms. And the pandemic has only made things worse. Here's a report from Nepal, where 1 in 10 boys marry young. 
+ <p class="updated_time"> 06:37 AM CT, Jan. 02 </p> 
+ <a href="https://www.wsj.com/articles/u-s-europe-weigh-isolation-requirements-as-omicron-disrupts-daily-life-11641137748">U.S., Europe Weigh Isolation Requirements as Omicron Disrupts Daily Life</a> WSJ: Countries have been trying to balance health concerns with the risk that quarantine periods sideline medical staff, teachers and other workers for so long that hospitals, schools and other workplaces are unable to function effectively. 
  <p class="updated_time"> 06:24 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069738025/a-major-fire-ravaged-south-africas-parliament-building-in-cape-town">A man is detained after a major fire broke out in South Africa's Parliament building</a> NPR: Around 70 firefighters were still battling the fire hours after it started in the early morning. 
+ <p class="updated_time"> 04:54 AM CT, Jan. 02 </p> 
+ <a href="https://www.wsj.com/articles/rising-threat-from-china-pushes-u-s-and-japan-to-deepen-military-cooperation-11641138867">Rising Threat From China Pushes U.S. and Japan to Deepen Military Cooperation</a> WSJ: In a camouflaged tent in a forest in northern Japan, U.S. Marines and Japanese soldiers hunched together over maps and laptops, using the planes of one country and the missile launchers of another to attack an imaginary enemy ship. 
  <p class="updated_time"> 04:48 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/asia/korea-dmz-border.html">South Korea Says Unknown Person Crossed DMZ Into North</a> NYT: The breach at the Demilitarized Zone went unnoticed for hours, the South Korean military said. There was no immediate response from North Korea. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
@@ -75,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/world/asia/south-korea-men-anti-feminists.html">The New Political Cry in South Korea: ‘Out With Man Haters’</a> NYT: After slow gains in women’s rights, the country is facing a type of political correctness enforced by young men angry at feminists, saying they undermine opportunity. 
  <p class="updated_time"> 02:01 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59848162?at_medium=RSS&at_campaign=KARANGA">Map drawn from memory helps reunite kidnapped Chinese man with family</a> BBC: Li Jingwei was kidnapped in Yunnan province in 1989 and sold to a family thousands of miles away. 
- <p class="updated_time"> 01:19 PM CT, Jan. 01 </p> 
- <a href="https://www.wsj.com/articles/europe-fights-record-covid-19-cases-looks-ahead-to-reopenings-11641051922">Europe Fights Record Covid-19 Cases, Looks to Reopenings</a> WSJ: Despite data suggesting Omicron produces a milder form of disease, hospitals are bracing for a flood of patients because of increased social contacts over the festive period. 
  <p class="updated_time"> 01:11 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/africa/desmond-tutu-funeral-south-africa.html">Desmond Tutu Funeral: South Africa Bids Farewell</a> NYT: The archbishop and Nobel laureate left plans for an unostentatious ceremony, which were stripped back further under Covid restrictions. 
  <p class="updated_time"> 11:16 AM CT, Jan. 01 </p> 
@@ -99,12 +105,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/business/china-internet-police-twitter.html">Chinese Police Hunt Overseas Critics With Advanced Tech</a> NYT: Authorities in China have turned to sophisticated investigative software to track and silence obscure critics on overseas social media. Their targets include college students and non-Chinese nationals. 
  <p class="updated_time"> 06:17 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59845938?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu funeral: Anti-apartheid campaigner remembered in Cape Town</a> BBC: The anti-apartheid campaigner and Nobel Peace Prize winner died last Sunday, aged 90. 
- <p class="updated_time"> 05:48 AM CT, Jan. 01 </p> 
- <a href="https://www.wsj.com/articles/desmond-tutu-is-laid-to-rest-in-south-african-state-funeral-11641028334">Desmond Tutu Is Laid to Rest in South African State Funeral</a> WSJ: The funeral paid tribute to a hero of South Africa’s struggle against apartheid in the cathedral where he spent decades preaching against racial injustice. 
  <p class="updated_time"> 05:00 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/canada/memorable-canada-stories-2021.html">Memorable Canada Stories in 2021</a> NYT: From the discovery of Indigenous graves in British Columbia to a faux Florida retirement community in Quebec, two Times Canada correspondents recall some of the standout stories of the year. 
- <p class="updated_time"> 05:00 AM CT, Jan. 01 </p> 
- <a href="https://www.wsj.com/articles/russia-ukraine-conflict-lies-in-the-bones-of-an-11th-century-prince-11641052801">Russia-Ukraine Conflict Lies in the Bones of an 11th-Century Prince</a> WSJ: The two countries contest the legacy of Yaroslav the Wise, a figure whose remains Ukraine is now hunting for. Finding them would be a symbolic victory bolstering Ukraine’s case for sovereignty amid border tensions with Russia. 
  <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/europe/turkey-kurdish-art-exhibit.html">In Turkey, an Exhibit Meant to Highlight Kurdish Suffering Provoked a Furor</a> NYT: A recent art show in a major Kurdish city in Turkey aimed to uplift a region crushed by years of conflict. It ended up serving as a reminder of how toxic the subject of Kurds remains in Turkey. 
  <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
@@ -115,12 +117,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/59548186?at_medium=RSS&at_campaign=KARANGA">2022 sporting calendar: Big events from Winter Olympics to the World Cup</a> BBC: The Winter Olympics, Commonwealth Games, Women's Euros and the men's World Cup are just some of the big events taking place in 2022. 
  <p class="updated_time"> 03:10 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
- <p class="updated_time"> 02:00 AM CT, Jan. 01 </p> 
- <a href="https://www.wsj.com/articles/scotland-moves-to-pardon-thousands-executed-as-witches400-years-later-11641042001">Scotland Moves to Pardon Thousands Executed as Witches---400 Years Later</a> WSJ: For campaigners working to clear the names of those who were condemned as witches, it is an important reckoning with Scotland’s violent past. 
  <p class="updated_time"> 01:12 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59845176?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Woman says families in her neighbourhood lost everything</a> BBC: A woman who had to evacuate her home in Louisville with her family speaks to the BBC. 
- <p class="updated_time"> 01:00 AM CT, Jan. 01 </p> 
- <a href="https://www.wsj.com/articles/u-s-on-sidelines-as-china-and-other-asia-pacific-nations-launch-trade-pact-11641038401">U.S. on Sidelines as China and Other Nations Launch Trade Pact</a> WSJ: Beijing is joining U.S. allies including Japan and Australia in a new Asia-Pacific trade agreement. 
  <p class="updated_time"> 09:59 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
  <p class="updated_time"> 06:34 PM CT, Dec. 31 </p> 
@@ -145,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59841816?at_medium=RSS&at_campaign=KARANGA">New Year's Eve: Firework displays welcome 2022</a> BBC: Celebrations have taken place around the world, with light shows and fireworks as 2022 began. 
  <p class="updated_time"> 11:32 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/31/1069476889/omicron-south-africa">As omicron heats up in the U.S., South Africa says its wave is on the way out</a> NPR: The variant caused fewer deaths and less severe infections than past versions of the virus in South Africa, but that could be different in other countries. 
- <p class="updated_time"> 11:04 AM CT, Dec. 31 </p> 
- <a href="https://www.wsj.com/articles/who-won-in-afghanistan-private-contractors-troops-withdrawal-war-pentagon-11640988154">Who Won in Afghanistan? Private Contractors</a> WSJ: The U.S. military spent $14 trillion during two decades of war and relied heavily on companies to perform critical functions. Those who benefited from the outpouring of government money range from major weapons manufacturers to entrepreneurs. 
  <p class="updated_time"> 10:53 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069489082/desmond-tutu-funeral">South Africans line up to pay their last respects to Desmond Tutu</a> NPR: South Africans from all corners of retired Archbishop Desmond Tutu's "rainbow nation" filed past his pine casket in Cape Town. The viewing line at St. George's Cathedral stretched for nearly a mile. 
  <p class="updated_time"> 10:45 AM CT, Dec. 31 </p> 
@@ -181,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/americas/bbc-alan-dershowitz-ghislaine-maxwell-epstein.html">BBC to Look Into Alan Dershowitz Interview on Ghislaine Maxwell Verdict</a> NYT: The American lawyer spoke to the British broadcaster about the verdict in the Ghislaine Maxwell case, but his connections to the case were not made clear. 
  <p class="updated_time"> 12:05 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/ashraf-ghani-bbc-interview.html">Ashraf Ghani, Former Afghan President, Says He Fled Nation to 'Save Kabul'</a> NYT: In his first interview since escaping Afghanistan as the Taliban advanced on the capital, Ashraf Ghani defended himself against charges that he abandoned his country in its hour of need. 
- <p class="updated_time"> 11:53 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/the-us-breaks-its-single-day-case-record-nearly-doubling-the-highest-numbers-from-last-winter.html">The U.S. breaks its single-day case record, nearly doubling the highest numbers from last winter.</a> NYT: The new daily case total topped 488,000 on Wednesday, according to a New York Times database. 
  <p class="updated_time"> 11:19 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/mexico-cruises.html">Mexico Says It will Allow Cruise Ships With Covid Cases to Dock</a> NYT: The Latin American nation is among the few in the world to have imposed no restrictions or testing requirements for travelers. 
  <p class="updated_time"> 09:18 AM CT, Dec. 30 </p> 
@@ -208,14 +202,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:18 PM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/at-t-verizon-5g-launch-aviation-526365">AT&T, Verizon reject Buttigieg's plea to delay 5G launch amid warnings of aviation chaos</a> Politico: The wireless carriers' rebuff is the latest step in weeks of an escalating standoff between the aviation and telecommunication sectors. 
  <p class="updated_time"> 01:29 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
+ <p class="updated_time"> 01:22 PM CT, Jan. 02 </p> 
+ <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">Cheney: January 6 committee has 'firsthand' testimony that Ivanka asked Trump to intervene during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
  <p class="updated_time"> 01:19 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
+ <p class="updated_time"> 01:16 PM CT, Jan. 02 </p> 
+ <a href="https://www.cnn.com/2022/01/02/politics/marjorie-taylor-greene-twitter-suspension/index.html">One of Marjorie Taylor Greene's verified Twitter accounts permanently suspended from Twitter</a> CNN: Twitter has permanently suspended Georgia GOP Rep. Marjorie Taylor Greene's Twitter account @mtgreenee, the company confirmed to CNN Sunday morning. 
  <p class="updated_time"> 12:55 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/hogan-health-care-covid-maryland-526361">‘You can’t really manufacture doctors and nurses that don’t exist’</a> Politico: Maryland Gov. Larry Hogan said his state is trying everything it can to ensure it has enough health care workers. 
- <p class="updated_time"> 12:49 PM CT, Jan. 02 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">Cheney: January 6 committee has 'firsthand' testimony that Ivanka asked Trump to intervene during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
  <p class="updated_time"> 12:14 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-testing-526360">More Covid testing programs on the way for schools, Education secretary says</a> Politico: “We’re working closely now to make sure that they’re being set up,” Miguel Cardona said. 
  <p class="updated_time"> 11:41 AM CT, Jan. 02 </p> 
@@ -232,16 +230,14 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/02/politics/miguel-cardona-warns-school-reopening-covid-surge/index.html">US education secretary warns of 'bumps in the road' as schools reopen amid Covid surge</a> CNN: There will be "bumps in the road" as schools attempt to reopen in the new year amid a record surge in Covid-19 cases, US Education Secretary Miguel Cardona said Sunday. 
  <p class="updated_time"> 09:33 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-closures-526353">Education secretary urges schools to remain open</a> Politico: But Miguel Cardona acknowledged some short-term closures might be needed. 
- <p class="updated_time"> 09:21 AM CT, Jan. 02 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/marjorie-taylor-greene-twitter-suspension/index.html">One of Marjorie Taylor Greene's verified Twitter accounts permanently suspended from Twitter</a> CNN: Twitter has permanently suspended Georgia GOP Rep. Marjorie Taylor Greene's Twitter account @mtgreenee, the company confirmed to CNN Sunday morning. 
  <p class="updated_time"> 07:43 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/colorado-wildfires-why-526321">Cause of massive Colorado fire investigated; 3 missing</a> Politico: Boulder County Sheriff Joe Pelle said  authorities were pursuing a number of tips and had executed a search warrant at “one particular location.” 
  <p class="updated_time"> 07:04 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739392/disinformation-fueled-2021-and-2022-will-likely-see-the-same">Disinformation fueled 2021, and 2022 will likely see the same</a> NPR: Disinformation — about the Jan. 6 attack, COVID-19, vaccines, etc. — shaped the nation's politics in 2021 and likely will continue to do so throughout the coming year. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/house-jan-6-committee-popular-republicans-526092">Poll: House's Jan. 6 probe is popular — even among many Republicans</a> Politico: Three out of five respondents say Trump is responsible for the events that led to the U.S. Capitol riot. 
- <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
+ <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/house-jan-6-committee-popular-republicans-526092">Poll: House's Jan. 6 probe is popular — even among many Republicans</a> Politico: Three out of five respondents say Trump is responsible for the events that led to the U.S. Capitol riot. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/facebook-ad-ban-medical-research-recruitment-526275">Facebook ad ban may squelch medical research recruitment</a> Politico: Overall, clinical trials recruit some 3 million participants in the U.S. a year. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
