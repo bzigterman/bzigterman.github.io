@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:24 PM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59853772?at_medium=RSS&at_campaign=KARANGA">Covid: Israel Omicron spike could bring herd immunity but with risks - health boss</a> BBC: Health boss says Omicron may lead to herd immunity but it would be better achieved via vaccination. 
  <p class="updated_time"> 12:06 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">South Africa parliament: Man arrested over massive fire</a> BBC: Police in Cape Town say a man is facing several charges over the fire and will appear in court on Tuesday. 
  <p class="updated_time"> 11:24 AM CT, Jan. 02 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 10:56 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/europe/bosnia-war-putin.html">In the Tinderbox of Bosnia, a Serb Nationalist Lights a Match</a> NYT: Bosnia’s fragile multiethnic government is facing its greatest crisis since the Balkan wars. The Serb nationalist leader, Milorad Dodik, is threatening to tear the country apart. 
- <p class="updated_time"> 10:39 AM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59853772?at_medium=RSS&at_campaign=KARANGA">Covid: Israel Omicron spike could bring herd immunity but with risks - health boss</a> BBC: Health boss says Omicron may lead to herd immunity but it would be better achieved via vaccination. 
  <p class="updated_time"> 10:28 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Fire Still Burning After Hours</a> NYT: Officials warned that the damage to the buildings would be extensive. A man was arrested on Sunday morning inside the parliamentary complex, Parliament’s spokesman said. 
  <p class="updated_time"> 09:08 AM CT, Jan. 02 </p> 
@@ -208,14 +208,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:29 PM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
  <p class="updated_time"> 12:55 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/hogan-health-care-covid-maryland-526361">‘You can’t really manufacture doctors and nurses that don’t exist’</a> Politico: Maryland Gov. Larry Hogan said his state is trying everything it can to ensure it has enough health care workers. 
+ <p class="updated_time"> 12:33 PM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 12:14 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-testing-526360">More Covid testing programs on the way for schools, Education secretary says</a> Politico: “We’re working closely now to make sure that they’re being set up,” Miguel Cardona said. 
  <p class="updated_time"> 12:13 PM CT, Jan. 02 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">January 6 committee chairman says panel has 'significant testimony' the White House 'had been told to do something' during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
- <p class="updated_time"> 12:07 PM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
+ <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">Cheney: January 6 committee has 'firsthand' testimony that Ivanka asked Trump to intervene during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
  <p class="updated_time"> 11:41 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/bennie-thompson-jan-6-526357">Members of Congress interacted with Jan. 6 rioters, Rep. Thompson says</a> Politico: But it’s not clear how extensive or significant those interactions were. 
  <p class="updated_time"> 11:15 AM CT, Jan. 02 </p> 
@@ -234,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/02/politics/marjorie-taylor-greene-twitter-suspension/index.html">One of Marjorie Taylor Greene's verified Twitter accounts permanently suspended from Twitter</a> CNN: Twitter has permanently suspended Georgia GOP Rep. Marjorie Taylor Greene's Twitter account @mtgreenee, the company confirmed to CNN Sunday morning. 
  <p class="updated_time"> 07:43 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/colorado-wildfires-why-526321">Cause of massive Colorado fire investigated; 3 missing</a> Politico: Boulder County Sheriff Joe Pelle said  authorities were pursuing a number of tips and had executed a search warrant at “one particular location.” 
- <p class="updated_time"> 07:23 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/fire-ravages-cape-town-seat-of-south-africas-parliament-526315">Fire ravages Cape Town seat of South Africa’s Parliament</a> Politico: Some ceilings of the building that houses the national legislature fell in. 
  <p class="updated_time"> 07:04 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739392/disinformation-fueled-2021-and-2022-will-likely-see-the-same">Disinformation fueled 2021, and 2022 will likely see the same</a> NPR: Disinformation — about the Jan. 6 attack, COVID-19, vaccines, etc. — shaped the nation's politics in 2021 and likely will continue to do so throughout the coming year. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
