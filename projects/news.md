@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:54 AM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/europe/bosnia-war-putin.html">In the Tinderbox of Bosnia, a Serb Nationalist Lights a Match</a> NYT: Bosnia’s fragile multiethnic government is facing its greatest crisis since the Balkan wars. The Serb nationalist leader, Milorad Dodik, is threatening to tear the country apart. 
  <p class="updated_time"> 09:08 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/spain-church-restoration-mystery.html">A Spanish Mystery: Is a ‘Masked Restorer’ to Blame for a Church’s Botched Repair?</a> NYT: Yet another imprudent fix in a land plagued by vigilante handymen led to angry calls to find the culprit — and to a soul-searching question: Does Spain just have too much history in need of upkeep? 
  <p class="updated_time"> 08:42 AM CT, Jan. 02 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59852577?at_medium=RSS&at_campaign=KARANGA">EU flag removed from Arc de Triomphe after right-wing outrage</a> BBC: The French government denies bowing to far-right pressure over the flag at the Arc de Triomphe. 
  <p class="updated_time"> 08:14 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
- <p class="updated_time"> 08:13 AM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/world/europe/bosnia-war-putin.html">In the Tinderbox of Bosnia, a Serb Nationalist Lights a Match</a> NYT: Bosnia’s fragile multiethnic government is facing its greatest crisis since the Balkan wars. The Serb nationalist leader, Milorad Dodik, is threatening to tear the country apart. 
  <p class="updated_time"> 07:41 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Fire Still Burning After Hours</a> NYT: While the extent of the damage was not immediately clear on Sunday, officials warned that it would be extensive. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
@@ -199,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/americas/ano-viejo-tradition.html">Años Viejos: Torching the Old Year to Toast the New One</a> NYT: In parts of Latin America, the traditional burning of rag dolls was used to symbolically banish the woes of the year gone by. Nowadays, it’s not uncommon to see TV hosts and ex-presidents going up in flames. 
  <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/most-popular-dispatches-2021.html">In 2021, We Were There: The Year’s 14 Most Popular Dispatches</a> NYT: Not even a pandemic, wars or autocrats could prevent our correspondents from seeking out secrets and surprises to share with readers. They sent dispatches from 40 countries on six continents. 
- <p class="updated_time"> 06:11 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/world/world-junior-championship-canceled-canada.html">World Junior Championship, a Showcase for Hockey’s Top Prospects, Is Canceled</a> NYT: The cancellation was an ominous sign for sports leagues, including the N.H.L. and the N.B.A., which have been struggling to maintain schedules. 
  <p class="updated_time"> 06:04 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59733533?at_medium=RSS&at_campaign=KARANGA">‘The doctors came and I had to tell my father he was dying’</a> BBC: Is it always appropriate for relatives to interpret for deaf loved ones? 
 
@@ -212,10 +210,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:12 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/capitol-police-chief-short-staffed-526354">Capitol Police chief says force remains short-staffed</a> Politico: “We’re now really about 400 officers short of where we need to be,” J. Thomas Manger said. 
+ <p class="updated_time"> 09:51 AM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
+ <p class="updated_time"> 09:46 AM CT, Jan. 02 </p> 
+ <a href="https://www.cnn.com/2022/01/02/politics/miguel-cardona-warns-school-reopening-covid-surge/index.html">US education secretary warns of 'bumps in the road' as schools reopen amid Covid surge</a> CNN: There will be "bumps in the road" as schools attempt to reopen in the new year amid a record surge in Covid-19 cases, US Education Secretary Miguel Cardona said Sunday. 
+ <p class="updated_time"> 09:39 AM CT, Jan. 02 </p> 
+ <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">January 6 committee chairman says panel has 'significant testimony' the White House 'had been told to do something' during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
  <p class="updated_time"> 09:33 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-closures-526353">Education secretary urges schools to remain open</a> Politico: But Miguel Cardona acknowledged some short-term closures might be needed. 
- <p class="updated_time"> 09:23 AM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
+ <p class="updated_time"> 09:21 AM CT, Jan. 02 </p> 
+ <a href="https://www.cnn.com/2022/01/02/politics/marjorie-taylor-greene-twitter-suspension/index.html">One of Marjorie Taylor Greene's verified Twitter accounts permanently suspended from Twitter</a> CNN: Twitter has permanently suspended Georgia GOP Rep. Marjorie Taylor Greene's Twitter account @mtgreenee, the company confirmed to CNN Sunday morning. 
  <p class="updated_time"> 07:43 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/colorado-wildfires-why-526321">Cause of massive Colorado fire investigated; 3 missing</a> Politico: Boulder County Sheriff Joe Pelle said  authorities were pursuing a number of tips and had executed a search warrant at “one particular location.” 
  <p class="updated_time"> 07:23 AM CT, Jan. 02 </p> 
@@ -312,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/gallery/2021/12/31/the-nations-cartoonists-on-the-week-in-politics-003760">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 06:12 AM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/minimum-wage-increase-2022-15-dollars/index.html">21 states will see minimum wage increases by January 1</a> CNN: Workers in 21 states will see a rise in the minimum wage in the new year. 
- <p class="updated_time"> 06:10 AM CT, Dec. 31 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden pushes Putin for Ukraine de-escalation in second call this month</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 05:19 AM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/trump-dunleavy-endorsement-murkowski/index.html">Alaska Gov. Dunleavy accepts Trump endorsement conditioned upon him not endorsing Sen. Murkowski in 2022</a> CNN: Former President Donald Trump on Tuesday backed Alaska GOP Gov. Mike Dunleavy for reelection in 2022, but his endorsement came with a caveat that is just the latest sign of his attempts to influence Republican politics next year. 
  <p class="updated_time"> 04:05 AM CT, Dec. 31 </p> 
@@ -384,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
  <p class="updated_time"> 06:53 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/michigan-redistricting-congressional-map-526227">Michigan’s new congressional map: 3 battlegrounds, 1 Dem-vs.-Dem primary</a> Politico: Virginia also completed congressional redistricting on Tuesday. 
- <p class="updated_time"> 05:44 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/biden-covid-testing-shortage/index.html">Biden dogged by a testing shortage he'd vowed to fix</a> CNN: President Joe Biden is closing out his first year in office facing one of the same problems he entered the White House vowing to fix: a persistent shortage of Covid-19 testing that, if resolved, could provide a way out of the still-raging pandemic. 
  <p class="updated_time"> 05:37 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/business/media/nyt-project-veritas.html">Judge Says New York Times Can Retain Project Veritas Memos, for Now</a> NYT: A New York appeals court said the paper did not need to immediately give up or destroy documents related to the conservative group. The paper is still prevented from publishing certain documents. 
  <p class="updated_time"> 05:05 PM CT, Dec. 28 </p> 
