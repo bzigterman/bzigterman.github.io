@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:54 AM CT, Jan. 02 </p> 
+ <p class="updated_time"> 02:12 AM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">Cape Town: Major blaze rips through South Africa parliament building</a> BBC: Large flames and a huge column of smoke could be seen coming out of the building on Sunday morning. 
+ <p class="updated_time"> 02:03 AM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59851097?at_medium=RSS&at_campaign=KARANGA">South Korean crosses DMZ in rare defection to North Korea</a> BBC: Seoul said it had asked the North, which has a shoot-on-sight policy, to protect the person. 
  <p class="updated_time"> 01:30 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Fire Still Burning After 4 Hours</a> NYT: The extent of the damage was not immediately clear on Sunday morning, but officials feared it would be extensive. 
  <p class="updated_time"> 08:40 PM CT, Jan. 01 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
  <p class="updated_time"> 02:00 AM CT, Jan. 01 </p> 
  <a href="https://www.wsj.com/articles/scotland-moves-to-pardon-thousands-executed-as-witches400-years-later-11641042001">Scotland Moves to Pardon Thousands Executed as Witches---400 Years Later</a> WSJ: For campaigners working to clear the names of those who were condemned as witches, it is an important reckoning with Scotland’s violent past. 
- <p class="updated_time"> 01:40 AM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59845636?at_medium=RSS&at_campaign=KARANGA">Kim Jong-un: North Korea to focus on economy in 2022</a> BBC: Kim Jong-un says the faltering economy will be the national priority as he marks 10 years in power. 
  <p class="updated_time"> 01:12 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59845176?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Woman says families in her neighbourhood lost everything</a> BBC: A woman who had to evacuate her home in Louisville with her family speaks to the BBC. 
  <p class="updated_time"> 01:00 AM CT, Jan. 01 </p> 
