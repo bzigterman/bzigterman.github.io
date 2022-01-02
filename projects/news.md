@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:13 PM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59854916?at_medium=RSS&at_campaign=KARANGA">Marjorie Taylor Greene: Twitter bans congresswoman over Covid misinformation</a> BBC: The congresswoman was suspended after tweeting falsely about high levels of vaccine related deaths. 
  <p class="updated_time"> 12:24 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59853772?at_medium=RSS&at_campaign=KARANGA">Covid: Israel Omicron spike could bring herd immunity but with risks - health boss</a> BBC: Health boss says Omicron may lead to herd immunity but it would be better achieved via vaccination. 
  <p class="updated_time"> 12:06 PM CT, Jan. 02 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/europe-fights-record-covid-19-cases-looks-ahead-to-reopenings-11641051922">Europe Fights Record Covid-19 Cases, Looks to Reopenings</a> WSJ: Despite data suggesting Omicron produces a milder form of disease, hospitals are bracing for a flood of patients because of increased social contacts over the festive period. 
  <p class="updated_time"> 01:11 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/africa/desmond-tutu-funeral-south-africa.html">Desmond Tutu Funeral: South Africa Bids Farewell</a> NYT: The archbishop and Nobel laureate left plans for an unostentatious ceremony, which were stripped back further under Covid restrictions. 
- <p class="updated_time"> 12:14 PM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59848648?at_medium=RSS&at_campaign=KARANGA">New Year's Eve fireworks kill and injure in Europe despite bans</a> BBC: Among three killed is a 12-year-old Dutch boy who was watching an adult set off a device. 
  <p class="updated_time"> 11:16 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/europe/pontifical-oriental-institute-digital-texts.html">A Vatican Library Shortens the Distance Between Its Works and Its Scholars</a> NYT: Rare books in Rome are going online thanks to a German copier, a Long Island scanning firm and a New York software company. 
  <p class="updated_time"> 10:15 AM CT, Jan. 01 </p> 
@@ -210,12 +210,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:29 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
+ <p class="updated_time"> 01:19 PM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 12:55 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/hogan-health-care-covid-maryland-526361">‘You can’t really manufacture doctors and nurses that don’t exist’</a> Politico: Maryland Gov. Larry Hogan said his state is trying everything it can to ensure it has enough health care workers. 
  <p class="updated_time"> 12:49 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">Cheney: January 6 committee has 'firsthand' testimony that Ivanka asked Trump to intervene during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
- <p class="updated_time"> 12:33 PM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 12:14 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-testing-526360">More Covid testing programs on the way for schools, Education secretary says</a> Politico: “We’re working closely now to make sure that they’re being set up,” Miguel Cardona said. 
  <p class="updated_time"> 11:41 AM CT, Jan. 02 </p> 
@@ -262,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/01/politics/nyc-mayor-eric-adams-swear-in/index.html">Adams gives first speech as NYC mayor: 'We will not be controlled by crisis'</a> CNN: Eric Adams, New York City's new mayor, was sworn in to office just minutes after the crystal ball dropped at midnight in Times Square on January 1. 
  <p class="updated_time"> 06:06 PM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069677828/uk-new-years-honours-list-daniel-craig">COVID-19 experts, athletes and Daniel Craig make the U.K.'s 'Honours List'</a> NPR: The annual tradition pays tribute to people for achievements made over the previous year. The government said it was the most ethnically diverse Honours List yet. 
- <p class="updated_time"> 03:47 PM CT, Jan. 01 </p> 
- <a href="https://www.politico.com/news/2022/01/01/on-busy-1st-day-nyc-mayor-urges-resiliency-against-pandemic-526304">On busy 1st day, NYC mayor urges resiliency against pandemic</a> Politico: “Getting vaccinated is not letting the crisis control you,” Adams said at City Hall. 
  <p class="updated_time"> 02:55 PM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/01/politics/donald-trump-mary-miller-2022/index.html">Trump endorses Rep. Mary Miller against Rep. Rodney Davis despite pleas from leadership not to get involved in primary </a> CNN: Former President Donald Trump on Saturday endorsed freshman Rep. Mary Miller of Illinois against another sitting House Republican, bucking the advice of GOP leadership. 
  <p class="updated_time"> 01:06 PM CT, Jan. 01 </p> 
