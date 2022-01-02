@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:07 PM CT, Jan. 01 </p> 
+ <a href="https://www.npr.org/2022/01/01/1069676008/a-plain-pine-coffin-and-eco-friendly-cremation-are-the-last-acts-of-desmond-tutu">A plain pine coffin and eco-friendly cremation are the last acts of Desmond Tutu</a> NPR: Archbishop Emeritus Desmond Tutu, who died last Sunday, chose to be aquamated, a more environmentally friendly alternative to cremation. It is 90% more energy efficient than a traditional cremation. 
+ <p class="updated_time"> 06:06 PM CT, Jan. 01 </p> 
+ <a href="https://www.npr.org/2022/01/01/1069677828/uk-new-years-honours-list-daniel-craig">COVID-19 experts, athletes and Daniel Craig make the U.K.'s 'Honours List'</a> NPR: The annual tradition pays tribute to people for achievements made over the previous year. The government said it was the most ethnically diverse Honours List yet. 
+ <p class="updated_time"> 06:05 PM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59755739?at_medium=RSS&at_campaign=KARANGA">Light pollution: Parkour group saving energy by turning off city lights</a> BBC: A group of young men are using their gymnastic abilities to reduce the impact of light pollution in their hometown. 
+ <p class="updated_time"> 06:04 PM CT, Jan. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59838770?at_medium=RSS&at_campaign=KARANGA">ICYMI: Tiny tigers and trees as tasty treats</a> BBC: A look at some of the stories you may have missed this week. 
  <p class="updated_time"> 03:00 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59848651?at_medium=RSS&at_campaign=KARANGA">US flight cancellations hit new holiday peak amid Covid and bad weather</a> BBC: More than 2,500 flights have been cancelled, with airlines facing crew shortages and bad weather. 
  <p class="updated_time"> 02:25 PM CT, Jan. 01 </p> 
@@ -15,6 +23,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59848162?at_medium=RSS&at_campaign=KARANGA">Map drawn from memory helps reunite kidnapped Chinese man with family</a> BBC: Li Jingwei was kidnapped in Yunnan province in 1989 and sold to a family thousands of miles away. 
  <p class="updated_time"> 01:57 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
+ <p class="updated_time"> 01:19 PM CT, Jan. 01 </p> 
+ <a href="https://www.wsj.com/articles/europe-fights-record-covid-19-cases-looks-ahead-to-reopenings-11641051922">Europe Fights Record Covid-19 Cases, Looks to Reopenings</a> WSJ: Despite data suggesting Omicron produces a milder form of disease, hospitals are bracing for a flood of patients because of increased social contacts over the festive period. 
  <p class="updated_time"> 01:11 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/africa/desmond-tutu-funeral-south-africa.html">With a Simple Funeral, South Africa Bids Farewell to Desmond Tutu</a> NYT: The archbishop and Nobel laureate left plans for an unostentatious ceremony, which were stripped back further under Covid restrictions. 
  <p class="updated_time"> 12:14 PM CT, Jan. 01 </p> 
@@ -55,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/world/canada/memorable-canada-stories-2021.html">Memorable Canada Stories in 2021</a> NYT: From the discovery of Indigenous graves in British Columbia to a faux Florida retirement community in Quebec, two Times Canada correspondents recall some of the standout stories of the year. 
  <p class="updated_time"> 05:00 AM CT, Jan. 01 </p> 
  <a href="https://www.wsj.com/articles/russia-ukraine-conflict-lies-in-the-bones-of-an-11th-century-prince-11641052801">Russia-Ukraine Conflict Lies in the Bones of an 11th-Century Prince</a> WSJ: The two countries contest the legacy of Yaroslav the Wise, a figure whose remains Ukraine is now hunting for. Finding them would be a symbolic victory bolstering Ukraine’s case for sovereignty amid border tensions with Russia. 
- <p class="updated_time"> 04:45 AM CT, Jan. 01 </p> 
- <a href="https://www.wsj.com/articles/europe-fights-record-covid-19-cases-looks-ahead-to-reopenings-11641051922">Europe Fights Record Covid-19 Cases, Looks to Reopenings</a> WSJ: Despite data suggesting Omicron produces a milder form of disease, hospitals are bracing for a flood of patients because of increased social contacts over the festive period. 
  <p class="updated_time"> 04:44 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59845278?at_medium=RSS&at_campaign=KARANGA">India: At least 12 dead in New Year temple stampede</a> BBC: Pilgrims were visiting the shrine of Mata Vaishno Devi to mark the new year when the tragedy unfolded. 
  <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
@@ -109,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/who-won-in-afghanistan-private-contractors-troops-withdrawal-war-pentagon-11640988154">Who Won in Afghanistan? Private Contractors</a> WSJ: The U.S. military spent $14 trillion during two decades of war and relied heavily on companies to perform critical functions. Those who benefited from the outpouring of government money range from major weapons manufacturers to entrepreneurs. 
  <p class="updated_time"> 10:53 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069489082/desmond-tutu-funeral">South Africans line up to pay their last respects to Desmond Tutu</a> NPR: South Africans from all corners of retired Archbishop Desmond Tutu's "rainbow nation" filed past his pine casket in Cape Town. The viewing line at St. George's Cathedral stretched for nearly a mile. 
- <p class="updated_time"> 10:46 AM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59841815?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Rape survivor describes 'locking eyes' with Maxwell in court</a> BBC: Sarah Ransome says Maxwell was the "enforcer" in the sexual abuse that was carried out by Maxwell and Epstein. 
  <p class="updated_time"> 10:45 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/africa/uganda-congo-rebels-adf.html">Why Did Uganda Send Troops Into Congo?</a> NYT: The Ugandan government says it is targeting rebels it accuses of terrorist attacks in Kampala. Many Congolese fear the incursion is cover for yet another plundering of their country. 
  <p class="updated_time"> 10:09 AM CT, Dec. 31 </p> 
@@ -147,12 +153,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/us/politics/biden-putin-ukraine-call.html">Putin Warns Biden of ‘Complete Rupture’ of U.S.-Russia Relationship Over Ukraine</a> NYT: President Vladimir V. Putin of Russia spoke with President Biden for 50 minutes about the escalating crisis with Ukraine, but his intentions remained unclear. 
  <p class="updated_time"> 08:52 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/indonesia-rohingya-boat.html">Indonesia Lets Stranded Refugee Boat Land After Vowing to Turn It Away</a> NYT: The boat came shore on Friday with more than 100 Rohingya refugees on board. Indonesia relented under pressure from rights groups. 
- <p class="updated_time"> 06:22 PM CT, Dec. 30 </p> 
- <a href="https://www.npr.org/2021/12/30/1069338981/biden-putin-call-russia-ukraine">Biden again calls on Putin to de-escalate tensions along Ukraine border</a> NPR: It was the second time the two leaders spoke this month, as Russia has assembled as many as 100,000 troops along the Ukrainian border, prompting fears of an invasion. 
  <p class="updated_time"> 05:48 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-covid-omicron-london-england.html">UK, With Surging Covid-19 Cases, is On '‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
- <p class="updated_time"> 05:24 PM CT, Dec. 30 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/30/1069253312/cdc-cruise-ship-travel-covid-19">People should avoid cruise travel regardless of their vaccination status, the CDC says</a> NPR: The CDC revised its guidance Thursday, as 91 cruise ships are under investigation for COVID outbreaks onboard. Most cruise lines require adult passengers to show proof of vaccination against COVID-19. 
  <p class="updated_time"> 03:00 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/kyiv-ukraine-war-russia-bomb-shelters.html">Ukrainians Set Sights on the New Year, Not a New War</a> NYT: As the government designates bomb shelters and provides guidance on how to tape windows in case of an attack by Russia, Ukrainians carry on. 
  <p class="updated_time"> 12:39 PM CT, Dec. 30 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/world/connecticut-gun-threat-covid-testing-site.html">Testing Site in Connecticut Is Forced to Close After Gun Threat</a> NYT: Another location nearby also shut down after the crowd grew agitated. 
  <p class="updated_time"> 06:11 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/world-junior-championship-canceled-canada.html">World Junior Championship, a Showcase for Hockey’s Top Prospects, Is Canceled</a> NYT: The cancellation was an ominous sign for sports leagues, including the N.H.L. and the N.B.A., which have been struggling to maintain schedules. 
- <p class="updated_time"> 06:00 PM CT, Dec. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-59736375?at_medium=RSS&at_campaign=KARANGA">How 'fake news' affected the world in 2021</a> BBC: Misinformation about the Covid pandemic and climate change is slowing an effective collective response to these emergencies. 
  <p class="updated_time"> 05:40 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/world/westminster-dog-show-postponed-covid.html">2022 Westminster Dog Show Postponed Amid Omicron Surge</a> NYT: The 2021 show was pushed to June and held outdoors because of the virus. 
  <p class="updated_time"> 05:28 PM CT, Dec. 29 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:06 PM CT, Jan. 01 </p> 
+ <a href="https://www.npr.org/2022/01/01/1069677828/uk-new-years-honours-list-daniel-craig">COVID-19 experts, athletes and Daniel Craig make the U.K.'s 'Honours List'</a> NPR: The annual tradition pays tribute to people for achievements made over the previous year. The government said it was the most ethnically diverse Honours List yet. 
  <p class="updated_time"> 04:45 PM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/news/2022/01/01/officials-nearly-1k-homes-destroyed-in-colorado-wildfire-526305">Officials: Nearly 1K homes destroyed in Colorado wildfire</a> Politico: The wind-whipped wildfire charred entire neighborhoods in a suburban area between Denver and Boulder. 
  <p class="updated_time"> 03:47 PM CT, Jan. 01 </p> 
@@ -316,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/30/1068322276/notable-deaths-2021">Remembering some of those we lost in 2021, from literary legends to everyday heroes</a> NPR: 2021 was filled with tremendous loss, from staggering COVID deaths to those of leading writers such as Joan Didion and bell hooks to a longtime abortion activist and politicians who shaped our world. 
  <p class="updated_time"> 02:31 PM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/peter-thiel-donald-trump-jr-fundraiser-cheney-challenger-526268">Peter Thiel, Donald Trump Jr. to co-host fundraisers for Cheney challenger</a> Politico: The tech billionaire is holding two events at his Miami home benefiting Wyoming Republican Harriet Hageman. 
- <p class="updated_time"> 01:03 PM CT, Dec. 30 </p> 
- <a href="https://www.npr.org/2021/12/30/1069143123/expanded-child-tax-credit-expires-friday-congress">The expanded child tax credit expires Friday after Congress failed to renew it</a> NPR: Because the Build Back Better agenda was not passed by the Senate before the end of the year, the last payment of the expanded child tax credit program went out this month. 
  <p class="updated_time"> 12:43 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/israel-saudi-arabia-omicron-call/index.html">Saudi and Israeli foreign ministers joined recent State Department virtual meeting on Omicron</a> CNN: US Secretary of State Antony Blinken's virtual meeting with foreign ministers about the Omicron coronavirus variant last week included the ministers from both Saudi Arabia and Israel, a rare instance where the two countries who do not have formal diplomatic relations participated in the same call. 
  <p class="updated_time"> 11:35 AM CT, Dec. 30 </p> 
