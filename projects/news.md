@@ -204,12 +204,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:18 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/at-t-verizon-5g-launch-aviation-526365">AT&T, Verizon reject Buttigieg's plea to delay 5G launch amid warnings of aviation chaos</a> Politico: The wireless carriers' rebuff is the latest step in weeks of an escalating standoff between the aviation and telecommunication sectors. 
+ <p class="updated_time"> 01:53 PM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 01:29 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
  <p class="updated_time"> 01:22 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">Cheney: January 6 committee has 'firsthand' testimony that Ivanka asked Trump to intervene during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
- <p class="updated_time"> 01:19 PM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 01:16 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/marjorie-taylor-greene-twitter-suspension/index.html">One of Marjorie Taylor Greene's verified Twitter accounts permanently suspended from Twitter</a> CNN: Twitter has permanently suspended Georgia GOP Rep. Marjorie Taylor Greene's Twitter account @mtgreenee, the company confirmed to CNN Sunday morning. 
  <p class="updated_time"> 12:55 PM CT, Jan. 02 </p> 
