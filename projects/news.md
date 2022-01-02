@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:13 AM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">Cape Town: Major blaze rips through South Africa parliament building</a> BBC: The entire parliamentary complex is severely damaged, according to a city official, with a roof gone. 
+ <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
+ <a href="https://www.npr.org/2022/01/02/1069739336/omicron-is-subsiding-in-south-africa">Omicron is subsiding in South Africa</a> NPR: NPR's Eyder Peralta speaks with Dr. Glenda Gray, president of the South African Medical Research Council, about how omicron cases are going down in South Africa, and the lessons for the U.S. 
+ <p class="updated_time"> 06:52 AM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59852819?at_medium=RSS&at_campaign=KARANGA">Lionel Messi: Paris St-Germain forward isolating after testing positive for Covid-19</a> BBC: Argentina forward Lionel Messi is one of four Paris St-Germain players to test positive for Covid-19. 
  <p class="updated_time"> 06:42 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/02/1066099271/child-grooms-are-often-overlooked-in-the-fight-to-stop-child-marriage">Child grooms are often overlooked in the fight to stop child marriage</a> NPR: The U.N. issued its first report on the plight of child grooms. And the pandemic has only made things worse. Here's a report from Nepal, where 1 in 10 boys marry young. 
- <p class="updated_time"> 06:35 AM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/sport/football/59852819?at_medium=RSS&at_campaign=KARANGA">Lionel Messi: Paris St-Germain forward isolating after testing positive for Covid-19</a> BBC: Argentina forward Lionel Messi is one of four Paris St-Germain players to test positive for Covid-19. 
  <p class="updated_time"> 06:24 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069738025/a-major-fire-ravaged-south-africas-parliament-building-in-cape-town">A major fire ravaged South Africa's Parliament building in Cape Town</a> NPR: The blaze sent a dark plume of smoke and flames into the air above the center of Cape Town and caused some ceilings of the building that houses the national legislature to collapse. 
- <p class="updated_time"> 05:58 AM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">Cape Town: Major blaze rips through South Africa parliament building</a> BBC: The entire parliamentary complex is severely damaged, according to a city official, with a roof gone. 
  <p class="updated_time"> 04:48 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/asia/korea-dmz-border.html">South Korea Says Unknown Person Crossed DMZ Into North</a> NYT: The breach at the Demilitarized Zone went unnoticed for hours, the South Korean military said. There was no immediate response from North Korea. 
  <p class="updated_time"> 04:39 AM CT, Jan. 02 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/asia/tesla-batteries-nickel-new-caledonia.html">Can a Sustainable Mining Experiment in New Caledonia Power Tesla's Ambitions?</a> NYT: Nickel is vital to electric car batteries, but extracting it is dirty and destructive. A plant with a turbulent history in New Caledonia is about to become an experiment in doing it better. 
  <p class="updated_time"> 06:03 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/paris-masks-outdoors-omicron.html">Paris Reimposes Outdoor Mask Mandate as Omicron Soars</a> NYT: With more than 2,000 coronavirus cases per 100,000 people, the capital has become the center of France’s spreading Omicron outbreak. 
- <p class="updated_time"> 03:43 AM CT, Dec. 31 </p> 
- <a href="https://www.npr.org/2021/12/31/1069428211/parents-selling-children-shows-desperation-in-afghanistan">Parents selling children shows desperation in Afghanistan</a> NPR: Many of Afghanistan's growing number of destitute people are making desperate decisions as their nation spirals into a deeper poverty. 
  <p class="updated_time"> 12:00 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/covid-france-omicron-vaccines.html">Omicron Strains France’s Social Contract on Covid</a> NYT: President Emmanuel Macron won people over by promising normalcy if they followed Covid advice. Now Omicron has raised questions about whether he, or any leader, can deliver on that. 
  <p class="updated_time"> 10:51 PM CT, Dec. 30 </p> 
@@ -210,10 +210,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/colorado-wildfires-why-526321">Cause of massive Colorado fire investigated; 3 missing</a> Politico: Boulder County Sheriff Joe Pelle said  authorities were pursuing a number of tips and had executed a search warrant at “one particular location.” 
  <p class="updated_time"> 07:23 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/fire-ravages-cape-town-seat-of-south-africas-parliament-526315">Fire ravages Cape Town seat of South Africa’s Parliament</a> Politico: Some ceilings of the building that houses the national legislature fell in. 
+ <p class="updated_time"> 07:04 AM CT, Jan. 02 </p> 
+ <a href="https://www.npr.org/2022/01/02/1069739392/disinformation-fueled-2021-and-2022-will-likely-see-the-same">Disinformation fueled 2021, and 2022 will likely see the same</a> NPR: Disinformation — about the Jan. 6 attack, COVID-19, vaccines, etc. — shaped the nation's politics in 2021 and likely will continue to do so throughout the coming year. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/house-jan-6-committee-popular-republicans-526092">Poll: House's Jan. 6 probe is popular — even among many Republicans</a> Politico: Three out of five respondents say Trump is responsible for the events that led to the U.S. Capitol riot. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
+ <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
+ <a href="https://www.npr.org/2022/01/02/1069739385/house-committee-member-describes-what-has-been-uncovered-a-year-after-jan-6">House committee member describes what has been uncovered a year after Jan. 6</a> NPR: Eyder Peralta speaks with Rep. Zoe Lofgren, D-Calif., a member of the House committee investigating the Jan. 6 attack on the Capitol as the 1-year anniversary approaches. 
+ <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
+ <a href="https://www.npr.org/2022/01/02/1069739350/week-in-politics-congressional-democrats-fear-losing-majority-in-midterms">Week in politics: Congressional Democrats fear losing majority in midterms</a> NPR: Political parties are already looking ahead to the midterm elections in November, and Democrats are feeling uneasy about holding onto power in Congress. 
  <p class="updated_time"> 07:00 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/trump-capitol-riot-aftermath-526277">One year after Jan. 6, Trumpism isn't gone. It's 'almost a religion.'</a> Politico: The riot at the Capitol briefly looked like it had broken Trump's hold on the GOP. Instead, he has reaffirmed his dominion over the party. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
@@ -324,12 +330,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/30/politics/year-in-review-us-politics-what-matters/index.html">Analysis: 2021 was a transformative year in US politics. Here are the biggest stories.</a> CNN: This year brought a dizzying mix of triumphs and setbacks in Washington, where lawmakers have grappled with everything from a deadly pandemic to an assault on democracy itself. 
  <p class="updated_time"> 03:26 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/january-6-committee-subpoena-lawsuits-longshot/index.html">Why the new legal attack from Trump allies against January 6 committee is a long shot</a> CNN: The flurry of lawsuits filed in recent weeks trying to stop the House January 6 committee's subpoenas are revealing, in many ways, the opposite: That the House has been largely successful at sweeping up documents for the probe and interviewing dozens of major witnesses. 
- <p class="updated_time"> 03:24 PM CT, Dec. 30 </p> 
- <a href="https://www.npr.org/2021/12/30/1069273204/how-dan-bongino-is-building-a-right-wing-media-empire-on-his-own-terms">How Dan Bongino is building a right-wing media empire on his own terms</a> NPR: NPR's Mary Louise Kelly talks with Evan Osnos of The New Yorker about radio host Dan Bongino, who calls masks "face diapers," opposes vaccine mandates and says the 2016 and 2020 elections were rigged. 
- <p class="updated_time"> 03:18 PM CT, Dec. 30 </p> 
- <a href="https://www.npr.org/2021/12/30/1069273197/president-biden-speaks-with-russian-president-vladimir-putin-as-ukraine-tensions">President Biden speaks with Russian President Vladimir Putin as Ukraine tensions rise</a> NPR: President Biden spoke with Russian President Vladimir Putin in a call Thursday as tensions mount between the Ukraine and Russia. The White House says it's "gravely concerned" about the situation. 
- <p class="updated_time"> 03:06 PM CT, Dec. 30 </p> 
- <a href="https://www.npr.org/2021/12/30/1065756732/manhattan-da-cyrus-vance-reflects-on-trump-and-weinstein-cases-as-he-leaves-offi">Manhattan DA Cyrus Vance reflects on Trump and Weinstein cases as he leaves office</a> NPR: Manhattan District Attorney Cyrus Vance looks back on a career of big-name cases, including cases against the Trump Organization and Harvey Weinstein. 
  <p class="updated_time"> 02:31 PM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/peter-thiel-donald-trump-jr-fundraiser-cheney-challenger-526268">Peter Thiel, Donald Trump Jr. to co-host fundraisers for Cheney challenger</a> Politico: The tech billionaire is holding two events at his Miami home benefiting Wyoming Republican Harriet Hageman. 
  <p class="updated_time"> 12:43 PM CT, Dec. 30 </p> 
