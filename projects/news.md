@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/spain-church-restoration-mystery.html">A Spanish Mystery: Is a ‘Masked Restorer’ to Blame for a Church’s Botched Repair?</a> NYT: Yet another imprudent fix in a land plagued by vigilante handymen led to angry calls to find the culprit — and to a soul-searching question: Does Spain just have too much history in need of upkeep? 
+ <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/asia/china-womens-rights.html">China Moves to Overhaul Protections for Women’s Rights, Sort Of</a> NYT: The proposed revisions to a women’s rights law would be the first major changes in nearly 20 years. But many women are skeptical that real progress will follow. 
  <p class="updated_time"> 03:48 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/asia/korea-dmz-border.html">South Korea Says Unknown Person Crossed DMZ Into North</a> NYT: The breach at the Demilitarized Zone went unnoticed for hours, the South Korean military said. There was no immediate response from North Korea. 
  <p class="updated_time"> 03:46 AM CT, Jan. 02 </p> 
@@ -200,6 +204,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
+ <a href="https://www.npr.org/2022/01/02/1068891351/january-6-insurrection-capitol-attack-trump-anniversary">Trump still says his supporters weren't behind the Jan. 6 attack — but I was there</a> NPR: It's been a year since that pro-Trump mob stormed the Capitol. I was there when it happened, and I was also there months later when they tried to shift the blame. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/business/economy/child-tax-credit.html">Child Tax Credit’s Extra Help Ends, Just as Covid Surges Anew</a> NYT: A pandemic benefit that many progressives hoped to make permanent has lapsed in a congressional standoff. Researchers say it spared many from poverty. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/us/politics/stacey-abrams-georgia-democrats.html">Left and Center-Left Both Claim Stacey Abrams. Who’s Right?</a> NYT: Ms. Abrams, the Georgia Democrat running for governor, has admirers in both wings of her party — and Republicans eager to defeat her. Her carefully calibrated strategy faces a test in 2022. 
  <p class="updated_time"> 06:54 PM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/01/politics/nyc-mayor-eric-adams-swear-in/index.html">Eric Adams sworn in as New York City mayor</a> CNN: Eric Adams, New York City's new mayor, was sworn in to office just minutes after the crystal ball dropped at midnight in Times Square on January 1. 
  <p class="updated_time"> 06:06 PM CT, Jan. 01 </p> 
@@ -316,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/30/1069273197/president-biden-speaks-with-russian-president-vladimir-putin-as-ukraine-tensions">President Biden speaks with Russian President Vladimir Putin as Ukraine tensions rise</a> NPR: President Biden spoke with Russian President Vladimir Putin in a call Thursday as tensions mount between the Ukraine and Russia. The White House says it's "gravely concerned" about the situation. 
  <p class="updated_time"> 03:06 PM CT, Dec. 30 </p> 
  <a href="https://www.npr.org/2021/12/30/1065756732/manhattan-da-cyrus-vance-reflects-on-trump-and-weinstein-cases-as-he-leaves-offi">Manhattan DA Cyrus Vance reflects on Trump and Weinstein cases as he leaves office</a> NPR: Manhattan District Attorney Cyrus Vance looks back on a career of big-name cases, including cases against the Trump Organization and Harvey Weinstein. 
- <p class="updated_time"> 03:00 PM CT, Dec. 30 </p> 
- <a href="https://www.npr.org/2021/12/30/1068322276/notable-deaths-2021">Remembering some of those we lost in 2021, from literary legends to everyday heroes</a> NPR: 2021 was filled with tremendous loss, from staggering COVID deaths to those of leading writers such as Joan Didion and bell hooks to a longtime abortion activist and politicians who shaped our world. 
  <p class="updated_time"> 02:31 PM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/peter-thiel-donald-trump-jr-fundraiser-cheney-challenger-526268">Peter Thiel, Donald Trump Jr. to co-host fundraisers for Cheney challenger</a> Politico: The tech billionaire is holding two events at his Miami home benefiting Wyoming Republican Harriet Hageman. 
  <p class="updated_time"> 12:43 PM CT, Dec. 30 </p> 
@@ -330,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Michigan’s New Congressional Maps Undo Years of Gerrymandering</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
  <p class="updated_time"> 07:56 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
- <p class="updated_time"> 07:24 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/27/us/politics/sarah-weddington-dead.html">Sarah Weddington, Who Successfully Argued Roe v. Wade, Dies at 76</a> NYT: She went before the U.S. Supreme Court at 26 with almost no legal experience and won one of the most consequential cases in American history. 
  <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-administration-shifting-covid-guidance/index.html">Analysis: Biden administration signals pandemic strategy shift in the face of Omicron </a> CNN: America is plunging into a fast-worsening and frightening winter bout with Covid-19 that will leave few citizens and communities untouched. But as the highly transmissible Omicron variant roars across the country, the Biden administration is revealing the most tangible signs of a shifting pandemic strategy several weeks in the making. It is preparing a nation exhausted by two years of battling the invisible enemy to live more feasibly alongside it. 
  <p class="updated_time"> 04:30 AM CT, Dec. 30 </p> 
@@ -374,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/28/business/media/nyt-project-veritas.html">Judge Says New York Times Can Retain Project Veritas Memos, for Now</a> NYT: A New York appeals court said the paper did not need to immediately give up or destroy documents related to the conservative group. The paper is still prevented from publishing certain documents. 
  <p class="updated_time"> 05:05 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/trump-jan-6.html">Jan. 6 Committee Shelves Requests for Hundreds of Trump Records</a> NYT: The Biden administration asked to shield some sensitive documents but continued to reject Trump’s blanket claim of executive privilege. 
- <p class="updated_time"> 04:41 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/us/politics/nato-russia-ukrain-us.html">U.S. and Russia Agree to Talks Amid Growing Tensions Over Ukraine</a> NYT: The Biden administration has not said who will lead the U.S. delegation next month as Russian officials demand commitments from NATO. 
  <p class="updated_time"> 03:31 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/donald-trump-allies-january-6-committee/index.html">Some Trump allies slow walk, stonewall or snub January 6 committee</a> CNN: When the committee investigating the January 6 insurrection struggled to serve Dan Scavino with a subpoena, the former Donald Trump aide said he had been in a fairly obvious locale: Mar-a-Lago. 
  <p class="updated_time"> 12:52 PM CT, Dec. 28 </p> 
