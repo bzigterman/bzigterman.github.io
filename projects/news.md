@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:22 PM CT, Jan. 02 </p> 
+ <p class="updated_time"> 01:30 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/maryland-covid-larry-hogan.html">Governor: Maryland Prepares for 'Terrible Point' in Covid Crisis</a> NYT: Gov. Larry Hogan said the state was trying to staff hospitals through a variety of measures. 
  <p class="updated_time"> 01:13 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59854916?at_medium=RSS&at_campaign=KARANGA">Marjorie Taylor Greene: Twitter bans congresswoman over Covid misinformation</a> BBC: The congresswoman was suspended after tweeting falsely about high levels of vaccine related deaths. 
@@ -27,10 +27,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/world/spain-church-restoration-mystery.html">A Spanish Mystery: Is a ‘Masked Restorer’ to Blame for a Church’s Botched Repair?</a> NYT: Yet another imprudent fix in a land plagued by vigilante handymen led to angry calls to find the culprit — and to a soul-searching question: Does Spain just have too much history in need of upkeep? 
  <p class="updated_time"> 08:42 AM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59853010?at_medium=RSS&at_campaign=KARANGA">Memorial: Russia’s civil rights group uncovering an uncomfortable past</a> BBC: Memorial, one of the oldest civil rights groups in Russia, was uncovering uncomfortable truths for the authorities. 
+ <p class="updated_time"> 08:38 AM CT, Jan. 02 </p> 
+ <a href="https://www.wsj.com/articles/major-fire-devastates-south-africas-parliament-11641133916">Fire Inflicts Heavy Damage to South Africa's Parliament Building</a> WSJ: More than 70 firefighters continued to fight the blaze hours after it was reported at the historic Cape Town complex, while police took a man into custody for questioning. 
  <p class="updated_time"> 08:29 AM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59852577?at_medium=RSS&at_campaign=KARANGA">EU flag removed from Arc de Triomphe after right-wing outrage</a> BBC: The French government denies bowing to far-right pressure over the flag at the Arc de Triomphe. 
- <p class="updated_time"> 07:51 AM CT, Jan. 02 </p> 
- <a href="https://www.wsj.com/articles/major-fire-devastates-south-africas-parliament-11641133916">Fire Inflicts Heavy Damage to South Africa's Parliament Building</a> WSJ: More than 70 firefighters continued to fight the blaze hours after it was reported at the historic Cape Town complex, while police took a man into custody for questioning. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739336/omicron-is-subsiding-in-south-africa">Omicron is subsiding in South Africa</a> NPR: NPR's Eyder Peralta speaks with Dr. Glenda Gray, president of the South African Medical Research Council, about how omicron cases are going down in South Africa, and the lessons for the U.S. 
  <p class="updated_time"> 06:56 AM CT, Jan. 02 </p> 
