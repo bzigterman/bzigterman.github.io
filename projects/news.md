@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:53 PM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/europe/bosnia-war-putin.html">In the Tinderbox of Bosnia, a Serb Nationalist Lights a Match</a> NYT: Bosnia’s fragile multiethnic government is facing its greatest crisis since the Balkan wars. The Serb nationalist leader, Milorad Dodik, is threatening to tear the country apart. 
+ <p class="updated_time"> 02:46 PM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59854917?at_medium=RSS&at_campaign=KARANGA">Aoife Beary: Berkeley balcony collapse survivor dies, aged 27</a> BBC: The Irishwoman suffered serious injuries in a Californian balcony collapse that killed six students. 
  <p class="updated_time"> 02:23 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">South Africa parliament: Man arrested over massive fire</a> BBC: Police in Cape Town say a man is facing several charges over the fire and will appear in court on Tuesday. 
  <p class="updated_time"> 01:42 PM CT, Jan. 02 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/world/europe/venice-calatrava-bridge.html">Venice to Replace Glass on Santiago Calatrava's Slippery Bridge</a> NYT: The city will replace the glass on Santiago Calatrava’s footbridge across the Grand Canal with stone after too many pedestrians fell. 
  <p class="updated_time"> 10:57 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
- <p class="updated_time"> 10:56 AM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/world/europe/bosnia-war-putin.html">In the Tinderbox of Bosnia, a Serb Nationalist Lights a Match</a> NYT: Bosnia’s fragile multiethnic government is facing its greatest crisis since the Balkan wars. The Serb nationalist leader, Milorad Dodik, is threatening to tear the country apart. 
  <p class="updated_time"> 10:28 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Fire Still Burning After Hours</a> NYT: Officials warned that the damage to the buildings would be extensive. A man was arrested on Sunday morning inside the parliamentary complex, Parliament’s spokesman said. 
  <p class="updated_time"> 09:08 AM CT, Jan. 02 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59703681?at_medium=RSS&at_campaign=KARANGA">Letter from Africa: Africa plays on in 2022 without its great referee</a> BBC: Joseph Warungu looks at what is in store for the African continent this coming year. 
  <p class="updated_time"> 06:04 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-59838770?at_medium=RSS&at_campaign=KARANGA">ICYMI: Tiny tigers and trees as tasty treats</a> BBC: A look at some of the stories you may have missed this week. 
- <p class="updated_time"> 03:00 PM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59848651?at_medium=RSS&at_campaign=KARANGA">US flight cancellations hit new holiday peak amid Covid and bad weather</a> BBC: More than 2,500 flights have been cancelled, with airlines facing crew shortages and bad weather. 
  <p class="updated_time"> 02:25 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/south-korea-men-anti-feminists.html">The New Political Cry in South Korea: ‘Out With Man Haters’</a> NYT: After slow gains in women’s rights, the country is facing a type of political correctness enforced by young men angry at feminists, saying they undermine opportunity. 
  <p class="updated_time"> 02:01 PM CT, Jan. 01 </p> 
