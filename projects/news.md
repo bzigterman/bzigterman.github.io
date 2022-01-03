@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:55 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59861831?at_medium=RSS&at_campaign=KARANGA">Prince Andrew accuser’s deal with Epstein released</a> BBC: It shows Virginia Giuffre agreed not to sue anyone who could be described as a "potential defendant". 
+ <p class="updated_time"> 11:49 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/europe/eu-hungary-threat.html">How the E.U. Allowed Hungary to Become an Illiberal Model</a> NYT: After years of complacency and wishful thinking, Brussels is finally trying to rein in the country’s pugnacious leader, Prime Minister Viktor Orban. 
+ <p class="updated_time"> 11:40 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59860096?at_medium=RSS&at_campaign=KARANGA">David Bowie: Singer's estate sells rights to his entire body of work to WCM</a> BBC: Warner Chappell Music say they are "immensely proud" to be "chosen as caretakers". 
  <p class="updated_time"> 11:34 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069933029/fire-reignites-at-south-africas-parliament-in-cape-town">Fire reignites at South Africa's Parliament in Cape Town</a> NPR: The fire started on Sunday and had been contained, but flared up again on Monday after firefighters had been sent home. A man was arrested in connection with the fire. 
- <p class="updated_time"> 11:31 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59861831?at_medium=RSS&at_campaign=KARANGA">Prince Andrew accuser’s deal with Epstein released</a> BBC: It shows Virginia Giuffre agreed not to sue anyone who could be described as a "potential defendant". 
  <p class="updated_time"> 11:21 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/africa/south-africa-parliament-fire-suspect.html">South Africa Parliament: Suspect Charged in Fire to Appear in Court</a> NYT: A 49-year-old man is facing charges of arson and theft in the blaze, which started Sunday and heavily damaged legislative buildings in Cape Town. 
  <p class="updated_time"> 11:04 AM CT, Jan. 03 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/03/1069888035/famed-fossil-hunter-and-conservationist-richard-leakey-dies-at-77">Famed fossil hunter and conservationist Richard Leakey dies at 77</a> NPR: Leakey made important contributions to our understanding of human origins through his fossil finds. He later gained fame for taking on poachers who threatened to wipe out Kenya's elephants and rhinos. 
  <p class="updated_time"> 10:13 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59860058?at_medium=RSS&at_campaign=KARANGA">Covid-19: French MPs get death threats over support for vaccine pass</a> BBC: They report the threats as they consider tougher restrictions on unvaccinated people in France. 
- <p class="updated_time"> 09:55 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/europe/eu-hungary-threat.html">How the E.U. Allowed Hungary to Become an Illiberal Model</a> NYT: After years of complacency and wishful thinking, Brussels is finally trying to rein in the country’s pugnacious leader, Prime Minister Viktor Orban. 
  <p class="updated_time"> 09:39 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/01/03/1059018377/photos-poland-belarus-border-migrants-volunteers">This photographer captured how activists helped migrants at the Poland-Belarus border</a> NPR: Polish-based photographer Kasia Strek documented what it was like for migrants and people in Poland as the crisis evolved at the border in November. 
  <p class="updated_time"> 09:19 AM CT, Jan. 03 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/france-relaxes-quarantine-rules-as-europe-adapts-to-omicrons-spread-11641217097">Covid-19 Cases Soar to New Records in U.S.</a> WSJ: Holiday reporting delays mean real infection rates are likely higher than the new reports, as students return to classrooms and some workers remain home after contracting or being exposed to the coronavirus. 
  <p class="updated_time"> 04:46 AM CT, Jan. 03 </p> 
  <a href="https://www.wsj.com/articles/new-eu-rules-spark-fight-over-what-is-green-energy-11641224818">New EU Rules Spark Fight Over What Is 'Green' Energy</a> WSJ: The draft recommendation, which needs approval by the bloc’s governments and the European Parliament, underlines the political controversy already being stirred up by environmental policies in Europe, despite broad public support for action to prevent climate change. 
- <p class="updated_time"> 04:32 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59855689?at_medium=RSS&at_campaign=KARANGA">China: Concern over Xi'an residents' midnight quarantine</a> BBC: Some people in Xi'an complained after they were forced out of their homes during a Covid outbreak. 
  <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069837718/multiple-factors-including-taliban-takeover-contribute-to-hunger-in-afghanistan">As 2022 starts, most Afghans don't have enough food to eat</a> NPR: Millions of people in Afghanistan are facing hunger and starvation amid a prolonged drought and economic crash. A World Food Program spokesperson says a new urban class of hungry people has emerged. 
  <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
