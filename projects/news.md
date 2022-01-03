@@ -31,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/africa/richard-leakey-dead.html">Richard Leakey, Kenyan Fossil Hunter and Conservationist, Dies at 77</a> NYT: His discoveries of ancient human skulls and skeletons, including the famed “Turkana Boy,” helped cement Africa’s standing as the cradle of humanity. 
  <p class="updated_time"> 11:39 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59856377?at_medium=RSS&at_campaign=KARANGA">Oxfam India says it's 'severely' hit by ban on foreign funds</a> BBC: The charity says a decision not to renew its licence will severely affect its humanitarian work. 
+ <p class="updated_time"> 11:30 PM CT, Jan. 02 </p> 
+ <a href="https://www.wsj.com/articles/china-is-haunted-by-its-one-child-policy-as-it-tries-to-encourage-couples-to-conceive-11641205807">China Is Haunted by One-Child Policy as It Encourages Couples to Conceive</a> WSJ: A legacy of China’s one-child policy is a dwindling number of women of childbearing age as well as a generation of only children who are less eager to marry and start a family. 
  <p class="updated_time"> 11:20 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-59855881?at_medium=RSS&at_campaign=KARANGA">Evergrande suspends shares in Hong Kong as firm tries to raise cash</a> BBC: The move comes as the indebted property developer struggles to raise cash to meet its obligations. 
  <p class="updated_time"> 11:14 PM CT, Jan. 02 </p> 
@@ -77,16 +79,12 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-europe-weigh-isolation-requirements-as-omicron-disrupts-daily-life-11641137748">U.S., Europe Weigh Isolation Requirements as Omicron Disrupts Daily Life</a> WSJ: Countries have been trying to balance health concerns with the risk that quarantine periods sideline medical staff, teachers and other workers for so long that hospitals, schools and other workplaces are unable to function effectively. 
  <p class="updated_time"> 06:24 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069738025/a-major-fire-ravaged-south-africas-parliament-building-in-cape-town">A man is detained after a major fire broke out in South Africa's Parliament building</a> NPR: Around 70 firefighters were still battling the fire hours after it started in the early morning. 
- <p class="updated_time"> 05:29 AM CT, Jan. 02 </p> 
- <a href="https://www.wsj.com/articles/want-to-get-away-from-it-all-try-this-luxury-ghost-town-in-africa-11641140955">Want to Get Away From It All? Try This Luxury Ghost Town in Africa</a> WSJ: Equatorial Guinea’s dictator was building a gleaming new capital in the jungle, then the oil money ran out. 
  <p class="updated_time"> 04:54 AM CT, Jan. 02 </p> 
  <a href="https://www.wsj.com/articles/rising-threat-from-china-pushes-u-s-and-japan-to-deepen-military-cooperation-11641138867">Rising Threat From China Pushes U.S. and Japan to Deepen Military Cooperation</a> WSJ: In a camouflaged tent in a forest in northern Japan, U.S. Marines and Japanese soldiers hunched together over maps and laptops, using the planes of one country and the missile launchers of another to attack an imaginary enemy ship. 
  <p class="updated_time"> 04:48 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/asia/korea-dmz-border.html">South Korea Says Unknown Person Crossed DMZ Into North</a> NYT: The breach at the Demilitarized Zone went unnoticed for hours, the South Korean military said. There was no immediate response from North Korea. 
  <p class="updated_time"> 02:49 AM CT, Jan. 02 </p> 
  <a href="https://www.wsj.com/articles/italys-embattled-berlusconi-eyes-the-presidency-his-biggest-prize-yet-11641131379">Italy's Embattled Berlusconi Eyes the Presidency, His Biggest Prize Yet</a> WSJ: Rivals have counted the three-time former prime minister out before. But a run for Italy’s presidency would represent the biggest comeback for one of the country’s most divisive figures. 
- <p class="updated_time"> 02:10 AM CT, Jan. 02 </p> 
- <a href="https://www.wsj.com/articles/south-korea-says-individual-entered-north-korea-through-dmz-11641129034">South Korea Says Individual Entered North Korea Through DMZ</a> WSJ: Details about the unidentified person’s motive and current status remain under investigation, South Korea’s military said. 
  <p class="updated_time"> 08:40 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/31/business/china-evergrande-default-publicity.html">What Default? With Confetti and Fanfare, Evergrande Says It’s Ready to Build.</a> NYT: Weeks after signaling it could no longer go on, the troubled Chinese property developer has pledged to start paying its workers and completing projects again. Buyers are skeptical. 
  <p class="updated_time"> 06:55 PM CT, Jan. 01 </p> 
@@ -177,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/us/politics/biden-putin-ukraine-call.html">Putin Warns Biden of ‘Complete Rupture’ of U.S.-Russia Relationship Over Ukraine</a> NYT: President Vladimir V. Putin of Russia spoke with President Biden for 50 minutes about the escalating crisis with Ukraine, but his intentions remained unclear. 
  <p class="updated_time"> 05:48 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-covid-omicron-london-england.html">UK, With Surging Covid-19 Cases, is On '‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
- <p class="updated_time"> 12:39 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/americas/bbc-alan-dershowitz-ghislaine-maxwell-epstein.html">BBC to Look Into Alan Dershowitz Interview on Ghislaine Maxwell Verdict</a> NYT: The American lawyer spoke to the British broadcaster about the verdict in the Ghislaine Maxwell case, but his connections to the case were not made clear. 
  <p class="updated_time"> 11:19 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/mexico-cruises.html">Mexico Says It will Allow Cruise Ships With Covid Cases to Dock</a> NYT: The Latin American nation is among the few in the world to have imposed no restrictions or testing requirements for travelers. 
  <p class="updated_time"> 06:04 PM CT, Dec. 27 </p> 
@@ -190,6 +186,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:05 AM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/03/dems-to-use-jan-6-anniversary-to-supercharge-voting-rights-push-495565"> Dems to use Jan. 6 anniversary to supercharge voting rights push</a> Politico Playbook: And Biden says the U.S. would 'respond decisively' if Russia invades Ukraine. 
+ <p class="updated_time"> 05:02 AM CT, Jan. 03 </p> 
+ <a href="https://www.cnn.com/2022/01/02/politics/biden-zelensky-call/index.html">Biden tells Ukrainian president US 'will respond decisively if Russia further invades'</a> CNN: President Joe Biden told Ukrainian President Volodymyr Zelensky on Sunday that the US and its allies "will respond decisively if Russia further invades Ukraine," according to a readout of a call between the two leaders provided by the White House. 
  <p class="updated_time"> 04:31 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/larry-hogan-tour-republicans-trump-526370">Larry Hogan goes on tour to boost Republicans on Trump’s enemies list</a> Politico: The Maryland governor is looking to help GOP impeachment backers and others who have drawn Trump-supported challengers. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/us/politics/supreme-court-death-penalty-intellectual-disability.html">Death Penalty Law Puts Burden on the Intellectually Disabled</a> NYT: The Supreme Court will decide whether to hear a challenge to the law, which requires that defendants in capital cases who are intellectually disabled prove it “beyond a reasonable doubt” — a phrase that was inserted in error. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1068396411/a-year-after-capitol-polices-darkest-day-its-chief-says-the-force-is-making-gain">A year after Capitol Police's darkest day, its chief says the force is making gains</a> NPR: Capitol Police Chief Tom Manger has been on the job less than six months. He hopes to lead a new chapter at the embattled agency. 
+ <p class="updated_time"> 11:57 PM CT, Jan. 02 </p> 
+ <a href="https://www.cnn.com/2022/01/03/politics/donald-trump-january-6-committee/index.html">January 6 committee gets inside Trump's West Wing wall of obstruction </a> CNN: The House select committee probing the January 6 insurrection is signaling that it has penetrated Donald Trump's wall of obstruction about what was going on inside the White House and his own family while he refused to stop the mob attack on the US Capitol a year ago this week. 
  <p class="updated_time"> 11:05 PM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/03/1069824056/another-hong-kong-news-outlet-to-close-amid-crackdown-on-dissent">Another Hong Kong news site shuts as pro-Beijing lawmakers sworn in</a> NPR: A Hong Kong online news site said Sunday that it will cease operations in light of deteriorating press freedoms, days after police raided a separate pro-democracy news outlet, arresting seven. 
  <p class="updated_time"> 09:19 PM CT, Jan. 02 </p> 
@@ -214,6 +216,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/harry-reid-to-lie-in-state-in-capitol-rotunda-526381">Harry Reid to lie in state in Capitol Rotunda</a> Politico: The former Senate majority leader died last Tuesday. 
  <p class="updated_time"> 09:12 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/marjorie-taylor-greene-twitter-suspension/index.html">One of Marjorie Taylor Greene's verified Twitter accounts permanently suspended from Twitter</a> CNN: Twitter has permanently suspended Georgia GOP Rep. Marjorie Taylor Greene's Twitter account @mtgreenee, the company confirmed to CNN Sunday morning. 
+ <p class="updated_time"> 08:52 PM CT, Jan. 02 </p> 
+ <a href="https://www.cnn.com/2022/01/02/politics/lloyd-austin-test-positive-covid/index.html">Defense Secretary Austin says he has tested positive for Covid-19</a> CNN: Defense Secretary Lloyd Austin has tested positive for Covid-19 and is exhibiting "mild" symptoms, according to a statement from him released by the Defense Department on Sunday. 
  <p class="updated_time"> 08:38 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">Cheney: January 6 committee has 'firsthand' testimony that Ivanka asked Trump to intervene during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
  <p class="updated_time"> 08:20 PM CT, Jan. 02 </p> 
@@ -226,6 +230,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/business/economy/child-tax-credit.html">Child Tax Credit’s Extra Help Ends, Just as Covid Surges Anew</a> NYT: A pandemic benefit that many progressives hoped to make permanent has lapsed in a congressional standoff. Researchers say it spared many from poverty. 
  <p class="updated_time"> 06:34 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
+ <p class="updated_time"> 06:14 PM CT, Jan. 02 </p> 
+ <a href="https://www.cnn.com/2022/01/02/politics/biden-january-6-speech/index.html">Biden and Harris to deliver remarks on January 6 anniversary</a> CNN: President Joe Biden and Vice President Kamala Harris will deliver remarks on Thursday to mark the one-year anniversary of the January 6 attack on the US Capitol, the White House said Sunday. 
  <p class="updated_time"> 04:32 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/canceled-flights-covid-storms-526369">2,300 U.S. flights canceled due to storms, virus</a> Politico: A winter storm that hit the Midwest on Saturday made Chicago the worst place in the country for travelers. 
  <p class="updated_time"> 03:03 PM CT, Jan. 02 </p> 
@@ -274,12 +280,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/us/politics/stacey-abrams-georgia-democrats.html">Left and Center-Left Both Claim Stacey Abrams. Who’s Right?</a> NYT: Ms. Abrams, the Georgia Democrat running for governor, has admirers in both wings of her party — and Republicans eager to defeat her. Her carefully calibrated strategy faces a test in 2022. 
  <p class="updated_time"> 11:30 PM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/democrats-january-6-2022-campaigns/index.html">'It's not a silver bullet': Democrats weigh how to talk about January 6 on the 2022 campaign trail</a> CNN: The January 6 insurrection may be a year behind Rep. Jason Crow, but the Colorado Democrat -- and many of his colleagues -- insist it would be a grievous error for his party to downplay the attack. 
- <p class="updated_time"> 06:54 PM CT, Jan. 01 </p> 
- <a href="https://www.cnn.com/2022/01/01/politics/nyc-mayor-eric-adams-swear-in/index.html">Adams gives first speech as NYC mayor: 'We will not be controlled by crisis'</a> CNN: Eric Adams, New York City's new mayor, was sworn in to office just minutes after the crystal ball dropped at midnight in Times Square on January 1. 
  <p class="updated_time"> 06:06 PM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069677828/uk-new-years-honours-list-daniel-craig">COVID-19 experts, athletes and Daniel Craig make the U.K.'s 'Honours List'</a> NPR: The annual tradition pays tribute to people for achievements made over the previous year. The government said it was the most ethnically diverse Honours List yet. 
- <p class="updated_time"> 02:55 PM CT, Jan. 01 </p> 
- <a href="https://www.cnn.com/2022/01/01/politics/donald-trump-mary-miller-2022/index.html">Trump endorses Rep. Mary Miller against Rep. Rodney Davis despite pleas from leadership not to get involved in primary </a> CNN: Former President Donald Trump on Saturday endorsed freshman Rep. Mary Miller of Illinois against another sitting House Republican, bucking the advice of GOP leadership. 
  <p class="updated_time"> 01:06 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/30/upshot/medical-bill-ban-biden.html">A New Ban on Surprise Medical Bills Starts Today</a> NYT: If you have a medical emergency, you will no longer need to worry about a large bill from a doctor you did not choose. 
  <p class="updated_time"> 11:59 AM CT, Jan. 01 </p> 
@@ -320,42 +322,34 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/us/politics/john-roberts-supreme-court.html">Chief Justice Roberts Reflects on Conflicts, Harassment and Judicial Independence</a> NYT: In his year-end report, the chief justice said that the court administrators, not Congress, should address financial conflicts and workplace misconduct in the judicial system. 
  <p class="updated_time"> 05:00 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/john-roberts-year-end-report-supreme-court-federal-courts/index.html">Roberts pushes for judiciary's continued independence in year-end report</a> CNN: Chief Justice John Roberts stressed the importance of the judiciary's institutional independence Friday in an annual report that comes as the Supreme Court is considering some of the most important issues of the day, and critics are seeking to dilute the court's conservative majority. 
- <p class="updated_time"> 04:27 PM CT, Dec. 31 </p> 
- <a href="https://www.cnn.com/2021/12/31/politics/ayanna-pressley-covid/index.html">Rep. Ayanna Pressley tests positive for Covid-19</a> CNN: Rep. Ayanna Pressley, a Massachusetts Democrat, announced Friday she tested positive for Covid-19 and is experiencing mild symptoms. 
  <p class="updated_time"> 03:11 PM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069539008/a-look-back-at-attacks-on-voting-rights-in-2021-and-what-could-be-next">A look back at attacks on voting rights in 2021 — and what could be next</a> NPR: NPR's Mary Louise Kelly speaks with Wendy Weiser, who directs the Democracy Program at the Brennan Center for Justice, about the threats to our elections in 2022 and 2024. 
- <p class="updated_time"> 02:38 PM CT, Dec. 31 </p> 
- <a href="https://www.cnn.com/2021/12/31/politics/biden-volodymyr-zelensky-call-ukraine/index.html">Biden to speak with Zelensky as US warns against Russian invasion of Ukraine</a> CNN: President Joe Biden will speak with Ukrainian President Volodymyr Zelensky on Sunday, several days after Biden urged Russian President Vladimir Putin to ease an unremitting military crisis on Ukraine's border. 
  <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/31/meet-the-gops-new-national-security-power-broker-495557"> Meet the GOP’s new national security power broker</a> Politico Playbook: And neither Biden nor Putin backs down on a new call. 
  <p class="updated_time"> 07:15 AM CT, Dec. 31 </p> 
- <a href="https://www.cnn.com/2021/12/31/politics/judges-us-capitol-comments/index.html">Judges remind the US how crucial it is for democracy that the insurrection never happens again</a> CNN: On January 6, rioters streamed past the federal courthouse in Washington, DC, and descended upon the US Capitol. For weeks after the attack, DC's chief judge said she could see National Guard troops from the window in her chambers. 
+ <a href="https://www.cnn.com/2021/12/31/politics/judges-us-capitol-comments/index.html">Judges remind US how crucial it is for democracy that insurrection never happens again</a> CNN: On January 6, rioters streamed past the federal courthouse in Washington, DC, and descended upon the US Capitol. For weeks after the attack, DC's chief judge said she could see National Guard troops from the window in her chambers. 
  <p class="updated_time"> 07:01 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/complaint-doj-foreign-agent-prosecutions-526278">Complaint could roil DOJ foreign-agent prosecutions</a> Politico: Businesswoman Nickie Lum Davis says her guilty plea last year to a charge of unregistered lobbying was coerced. 
  <p class="updated_time"> 07:00 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/biden-novavax-production-covid-omicron-526283">Biden officials now fear booster programs will limit global vaccine supply</a> Politico: A looming shortage of doses for low- and moderate-income countries puts increased pressure on Novavax to obtain regulatory approvals for global manufacturing. 
- <p class="updated_time"> 06:12 AM CT, Dec. 31 </p> 
- <a href="https://www.cnn.com/2021/12/31/politics/minimum-wage-increase-2022-15-dollars/index.html">21 states will see minimum wage increases by January 1</a> CNN: Workers in 21 states will see a rise in the minimum wage in the new year. 
- <p class="updated_time"> 02:50 AM CT, Dec. 31 </p> 
- <a href="https://www.cnn.com/2021/12/31/politics/2021-pandemic-year-new-years-eve/index.html">A pandemic-scarred year ends in darkness -- but with hope on the horizon</a> CNN: 2021 wasn't supposed to end like this. 
+ <p class="updated_time"> 06:10 AM CT, Dec. 31 </p> 
+ <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden pushes Putin for Ukraine de-escalation in second call this month</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 09:24 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/politics/uss-montgomery-captain-fired.html">Navy Fires Warship’s Top Two Officers, Citing ‘Loss of Confidence’</a> NYT: The commander and second in charge of the U.S.S. Montgomery were relieved of command in a rare punishment, reportedly over their handling of a sexual harassment case. 
  <p class="updated_time"> 09:11 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/politics/biden-putin-ukraine-call.html">Putin Warns Biden of ‘Complete Rupture’ of U.S.-Russia Relationship Over Ukraine</a> NYT: President Vladimir V. Putin of Russia spoke with President Biden for 50 minutes about the escalating crisis with Ukraine, but his intentions remained unclear. 
  <p class="updated_time"> 08:43 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/politics/boosters-12-15-year-olds-omicron.html">F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters</a> NYT: Regulators are also expected to allow even younger children with immune deficiencies to get an extra shot. 
- <p class="updated_time"> 07:39 PM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/ravnsborg-impeachment-investigation-south-dakota/index.html">South Dakota AG impeachment investigation broadens scope to key officials related to fatal crash</a> CNN: South Dakota lawmakers voted on Wednesday to broaden their examination of the state attorney general's killing of a man in a fatal collision last year. 
  <p class="updated_time"> 06:57 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/pelosi-january-6-one-year-plans/index.html">Pelosi announces plans to commemorate January 6 anniversary at US Capitol</a> CNN: House Speaker Nancy Pelosi on Thursday announced a slate of events around the US Capitol next week to commemorate the one-year anniversary of the January 6 insurrection. 
  <p class="updated_time"> 06:13 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/white-house-hit-list-kuachua-brillion-xiong.html">California Man on Deadly Mission to White House Is Arrested, Officials Say</a> NYT: Kuachua Brillion Xiong, 25, is being held in the Pottawattamie County Jail in Council Bluffs, Iowa, on charges of making threats against a former president. 
- <p class="updated_time"> 03:26 PM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/january-6-committee-subpoena-lawsuits-longshot/index.html">Why the new legal attack from Trump allies against January 6 committee is a long shot</a> CNN: The flurry of lawsuits filed in recent weeks trying to stop the House January 6 committee's subpoenas are revealing, in many ways, the opposite: That the House has been largely successful at sweeping up documents for the probe and interviewing dozens of major witnesses. 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
  <p class="updated_time"> 08:31 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/michigan-congressional-maps.html">Michigan’s New Congressional Maps Undo Years of Gerrymandering</a> NYT: A citizen ballot initiative took redistricting out of the hands of partisan legislators. The result: competitive political districts — and an example of how to push back against hyperpartisanship. 
+ <p class="updated_time"> 08:17 AM CT, Dec. 30 </p> 
+ <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Biden administration results in more of the same Trump immigration policies</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
  <p class="updated_time"> 07:56 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
  <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
@@ -392,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/28/trump-organization-pga-settlement-526207">Trump Organization and PGA reach settlement over 2022 championship dispute</a> Politico: No details were released, but the tournament still won’t be held at Bedminster as a result of the Jan. 6 Capitol riot. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/28/bunny-mellons-millions-at-play-in-dc-divorce-495554"> Bunny Mellon’s millions at play in D.C. divorce</a> Politico Playbook: And the CDC Monday shortened the isolation period for people who test positive for Covid-19 and are asymptomatic 
- <p class="updated_time"> 08:58 AM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/january-6-committee-interim-report-summer-2022/index.html">January 6 committee eyes interim report by summer 2022</a> CNN: The House select committee investigating the January 6 Capitol Hill riot is working toward a goal of releasing an interim report with initial findings by the summer, a committee aide told CNN, and that a final report would follow in fall 2022. 
  <p class="updated_time"> 09:36 AM CT, Dec. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/27/the-view-struggles-to-find-a-republican-495553"> ‘The View’ struggles to find a Republican</a> Politico Playbook: And coronavirus cases spike to record levels across the world. 
 
