@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:38 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59855445?at_medium=RSS&at_campaign=KARANGA">Richard Leakey: Kenyan conservationist dies aged 77</a> BBC: The Kenyan, who died at 77, was famous for his campaigns against poaching and work on human fossils. 
+ <p class="updated_time"> 06:56 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59833131?at_medium=RSS&at_campaign=KARANGA">Richard Leakey - fossil expert, conservationist and politician</a> BBC: The achievements of Richard Leakey, who has died aged 77, were as remarkable as they were diverse. 
+ <p class="updated_time"> 06:54 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/business/china-evergrande-shares-hong-kong.html">China Evergrande Suspends Trading Shares in Hong Kong</a> NYT: The world’s most indebted property developer provided no details on the suspension, but it suggested an announcement “containing inside information” would come soon. 
+ <p class="updated_time"> 06:50 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/asia/india-auction-muslim-women.html">Online ‘Auction’ Is Latest Attack on Muslim Women in India</a> NYT: The fake site, the second in months, is a sign of the organized nature of virtual bullying, with threats of sexualized violence aimed at silencing the outspoken. 
  <p class="updated_time"> 06:38 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/americas/brazil-bolsonaro-hospitalized.html">Brazil's President, Jair Bolsonaro, Is Hospitalized</a> NYT: Mr. Bolsonaro, who was stabbed while on the campaign trail in 2018, experienced stomach discomfort during his vacation and was flown back to São Paulo. 
  <p class="updated_time"> 06:02 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59748062?at_medium=RSS&at_campaign=KARANGA">Israeli photographer captures unique bird spoon image</a> BBC: Wildlife photographer Albert Keshet said it was one of the most amazing pictures he had ever taken. 
  <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/article/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
- <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/asia/india-auction-muslim-women.html">Online ‘Auction’ Is Latest Attack on Muslim Women in India</a> NYT: The fake site, the second in months, is a sign of the organized nature of virtual bullying, with threats of sexualized violence aimed at silencing the outspoken. 
  <p class="updated_time"> 04:32 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59855689?at_medium=RSS&at_campaign=KARANGA">China: Concern over Xi'an residents' midnight quarantine</a> BBC: Some people in Xi'an complained after they were forced out of their homes during a Covid outbreak. 
  <p class="updated_time"> 04:31 AM CT, Jan. 03 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/china-is-haunted-by-its-one-child-policy-as-it-tries-to-encourage-couples-to-conceive-11641205807">China Is Haunted by One-Child Policy as It Encourages Couples to Conceive</a> WSJ: A legacy of China’s one-child policy is a dwindling number of women of childbearing age as well as a generation of only children who are less eager to marry and start a family. 
  <p class="updated_time"> 11:20 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-59855881?at_medium=RSS&at_campaign=KARANGA">Evergrande suspends shares in Hong Kong as firm tries to raise cash</a> BBC: The move comes as the indebted property developer struggles to raise cash to meet its obligations. 
- <p class="updated_time"> 11:14 PM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/03/business/china-evergrande-shares-hong-kong.html">China Evergrande Halts Its Shares in Hong Kong</a> NYT: The world’s most indebted property developer provided no details on the suspension, but it suggested an announcement “containing inside information” would come soon. 
  <p class="updated_time"> 11:05 PM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/03/1069824056/another-hong-kong-news-outlet-to-close-amid-crackdown-on-dissent">Another Hong Kong news site shuts as pro-Beijing lawmakers sworn in</a> NPR: A Hong Kong online news site said Sunday that it will cease operations in light of deteriorating press freedoms, days after police raided a separate pro-democracy news outlet, arresting seven. 
  <p class="updated_time"> 11:02 PM CT, Jan. 02 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/trumpworld-jan-6-526291">They resigned in protest over Jan. 6 — then never went after Trump again</a> Politico: The administration officials who defected from the administration over the riots have almost all receded from public view even as Trump’s stayed put. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/could-january-6th-happen-again-526167">Could Jan. 6 happen again?</a> Politico: The Capitol Police has made progress under a new chief. But many on the Hill don't have an easy answer. 
+ <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
+ <a href="https://www.npr.org/2022/01/03/1069837652/morning-news-brief">News brief: COVID-19 surge, NPR/Ipsos democracy poll, Capitol police gains</a> NPR: The omicron variant hasn't slowed in the U.S. A poll shows Americans are deeply pessimistic about the future of democracy. The Capitol Police chief is to testify before a Senate panel this week. 
  <p class="updated_time"> 04:01 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069157693/2022-politics-biden-democrats-election-capitol-riot-abortion-supreme-court">6 questions for politics in 2022</a> NPR: From control of Congress and the strength of the Biden presidency to potential Jan. 6 committee revelations and the future of abortion rights, there's a lot at stake in 2022. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
@@ -268,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/02/politics/miguel-cardona-warns-school-reopening-covid-surge/index.html">US education secretary warns of 'bumps in the road' as schools reopen amid Covid surge</a> CNN: There will be "bumps in the road" as schools attempt to reopen in the new year amid a record surge in Covid-19 cases, US Education Secretary Miguel Cardona said Sunday. 
  <p class="updated_time"> 09:33 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-closures-526353">Education secretary urges schools to remain open</a> Politico: But Miguel Cardona acknowledged some short-term closures might be needed. 
- <p class="updated_time"> 07:43 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/colorado-wildfires-why-526321">Survivors count blessings after devastating Colorado fire</a> Politico: Two people were still missing. 
  <p class="updated_time"> 07:04 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739392/disinformation-fueled-2021-and-2022-will-likely-see-the-same">Disinformation fueled 2021, and 2022 will likely see the same</a> NPR: Disinformation — about the Jan. 6 attack, COVID-19, vaccines, etc. — shaped the nation's politics in 2021 and likely will continue to do so throughout the coming year. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
@@ -328,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/us/politics/john-roberts-supreme-court.html">Chief Justice Roberts Reflects on Conflicts, Harassment and Judicial Independence</a> NYT: In his year-end report, the chief justice said that the court administrators, not Congress, should address financial conflicts and workplace misconduct in the judicial system. 
  <p class="updated_time"> 05:00 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/john-roberts-year-end-report-supreme-court-federal-courts/index.html">Roberts pushes for judiciary's continued independence in year-end report</a> CNN: Chief Justice John Roberts stressed the importance of the judiciary's institutional independence Friday in an annual report that comes as the Supreme Court is considering some of the most important issues of the day, and critics are seeking to dilute the court's conservative majority. 
- <p class="updated_time"> 03:11 PM CT, Dec. 31 </p> 
- <a href="https://www.npr.org/2021/12/31/1069539008/a-look-back-at-attacks-on-voting-rights-in-2021-and-what-could-be-next">A look back at attacks on voting rights in 2021 — and what could be next</a> NPR: NPR's Mary Louise Kelly speaks with Wendy Weiser, who directs the Democracy Program at the Brennan Center for Justice, about the threats to our elections in 2022 and 2024. 
  <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/31/meet-the-gops-new-national-security-power-broker-495557"> Meet the GOP’s new national security power broker</a> Politico Playbook: And neither Biden nor Putin backs down on a new call. 
  <p class="updated_time"> 07:15 AM CT, Dec. 31 </p> 
@@ -346,6 +344,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/us/politics/biden-putin-ukraine-call.html">Putin Warns Biden of ‘Complete Rupture’ of U.S.-Russia Relationship Over Ukraine</a> NYT: President Vladimir V. Putin of Russia spoke with President Biden for 50 minutes about the escalating crisis with Ukraine, but his intentions remained unclear. 
  <p class="updated_time"> 08:43 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/politics/boosters-12-15-year-olds-omicron.html">F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters</a> NYT: Regulators are also expected to allow even younger children with immune deficiencies to get an extra shot. 
+ <p class="updated_time"> 07:29 PM CT, Dec. 30 </p> 
+ <a href="https://www.politico.com/news/2021/12/30/biden-putin-call-526280">Biden-Putin call ushers in new phase of diplomacy</a> Politico: Russia was again urged to ease its military buildup near Ukraine ahead of a pivotal month of talks. 
  <p class="updated_time"> 06:57 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/pelosi-january-6-one-year-plans/index.html">Pelosi announces plans to commemorate January 6 anniversary at US Capitol</a> CNN: House Speaker Nancy Pelosi on Thursday announced a slate of events around the US Capitol next week to commemorate the one-year anniversary of the January 6 insurrection. 
  <p class="updated_time"> 06:13 PM CT, Dec. 30 </p> 
