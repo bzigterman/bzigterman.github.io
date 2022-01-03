@@ -215,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:55 AM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/schumer-filibuster-rules-manchin-sinema/index.html">Schumer announces vote to change filibuster rules but faces resistance from Manchin and Sinema</a> CNN: Senate Majority Leader Chuck Schumer announced Monday that the chamber will take a vote on whether to change the Senate's legislative filibuster rules by Martin Luther King Jr. Day on January 17. 
  <p class="updated_time"> 10:48 AM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/schumer-threatens-vote-on-senate-rules-change-in-january-526394">Schumer threatens imminent vote on Senate rules change</a> Politico: The majority leader said they would debate changes to the chamber's rules unless Republicans allowed a vote on elections reform. 
+ <a href="https://www.politico.com/news/2022/01/03/schumer-threatens-vote-on-senate-rules-change-in-january-526394">Schumer tries to jump-start Dems with rules change threat</a> Politico: The majority leader said they would debate changes to the Senate's rules unless Republicans allow a vote on elections reform. 
  <p class="updated_time"> 10:15 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/fda-authorizes-covid-boosters-for-younger-teens-526392">FDA authorizes Covid boosters for teens 12-15</a> Politico: The agency will also allow some immunocompromised children as young as age 5 to get an additional dose. 
  <p class="updated_time"> 09:42 AM CT, Jan. 03 </p> 
