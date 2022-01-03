@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:38 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59855445?at_medium=RSS&at_campaign=KARANGA">Richard Leakey: Kenyan conservationist dies aged 77</a> BBC: The Kenyan, who died at 77, was famous for his campaigns against poaching and work on human fossils. 
+ <p class="updated_time"> 06:38 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/americas/brazil-bolsonaro-hospitalized.html">Brazil's President, Jair Bolsonaro, Is Hospitalized</a> NYT: Mr. Bolsonaro, who was stabbed while on the campaign trail in 2018, experienced stomach discomfort during his vacation and was flown back to São Paulo. 
+ <p class="updated_time"> 06:02 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59748062?at_medium=RSS&at_campaign=KARANGA">Israeli photographer captures unique bird spoon image</a> BBC: Wildlife photographer Albert Keshet said it was one of the most amazing pictures he had ever taken. 
  <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/asia/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
+ <a href="https://www.nytimes.com/article/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
  <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/asia/india-auction-muslim-women.html">Online ‘Auction’ Is Latest Attack on Muslim Women in India</a> NYT: The fake site, the second in months, is a sign of the organized nature of virtual bullying, with threats of sexualized violence aimed at silencing the outspoken. 
- <p class="updated_time"> 05:27 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/americas/brazil-bolsonaro-hospitalized.html">Brazil's President, Jair Bolsonaro, Is Hospitalized, Local Reports Say</a> NYT: Mr. Bolsonaro has previously undergone surgeries related to serious stabbing wounds he suffered while on the campaign trail in 2018. 
  <p class="updated_time"> 04:32 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59855689?at_medium=RSS&at_campaign=KARANGA">China: Concern over Xi'an residents' midnight quarantine</a> BBC: Some people in Xi'an complained after they were forced out of their homes during a Covid outbreak. 
  <p class="updated_time"> 04:31 AM CT, Jan. 03 </p> 
@@ -20,7 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:29 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59855246?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Prime Minister Abdalla Hamdok resigns after mass protests</a> BBC: Abdalla Hamdok's resignation comes weeks after he was reinstated by the military following a coup. 
  <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069837718/multiple-factors-including-taliban-takeover-contribute-to-hunger-in-afghanistan">Multiple factors, including Taliban takeover, contribute to hunger in Afghanistan</a> NPR: Millions of people in Afghanistan are facing hunger and starvation amid a prolonged drought and economic crash. A World Food Program spokesperson says a new urban class of hungry people has emerged. 
+ <a href="https://www.npr.org/2022/01/03/1069837718/multiple-factors-including-taliban-takeover-contribute-to-hunger-in-afghanistan">As 2022 starts, most Afghans don't have enough food to eat</a> NPR: Millions of people in Afghanistan are facing hunger and starvation amid a prolonged drought and economic crash. A World Food Program spokesperson says a new urban class of hungry people has emerged. 
  <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069837711/amid-sudans-political-deadlock-the-prime-minister-announces-his-resignation">Amid Sudan's political deadlock, the prime minister announces his resignation </a> NPR: NPR's A Martinez talks to journalist Sanosi Adam about Prime Minister Abdalla Hamdok resigning a little over a month after he was ousted in a coup by the country's military and then was reinstated. 
  <p class="updated_time"> 04:01 AM CT, Jan. 03 </p> 
@@ -35,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59857168?at_medium=RSS&at_campaign=KARANGA">Virginia Giuffre: Prince Andrew accuser's deal with Jeffrey Epstein to be released</a> BBC: The Duke of York's lawyers believe it could free him from liability in a civil case against him. 
  <p class="updated_time"> 02:46 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59856619?at_medium=RSS&at_campaign=KARANGA">Bulli Bai: India app that put Muslim women up for sale is shut</a> BBC: This was the second recent attempt in India to harass Muslim women by "auctioning" them online. 
- <p class="updated_time"> 12:03 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59856565?at_medium=RSS&at_campaign=KARANGA">Ex-Australia teen cricketer accuses team official of rape</a> BBC: Police are investigating allegations around the Australian under-19s team's 1985 tour in India. 
  <p class="updated_time"> 11:50 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/africa/richard-leakey-dead.html">Richard Leakey, Kenyan Fossil Hunter and Conservationist, Dies at 77</a> NYT: His discoveries of ancient human skulls and skeletons, including the famed “Turkana Boy,” helped cement Africa’s standing as the cradle of humanity. 
  <p class="updated_time"> 11:39 PM CT, Jan. 02 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59824917?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Pro-democracy website Citizen News is latest to close</a> BBC: The pro-democracy news outlet's closure comes after police raided and arrested staff from Stand News. 
  <p class="updated_time"> 10:04 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/maryland-covid-larry-hogan.html">Governor: Maryland Prepares for 'Terrible Point' in Covid Crisis</a> NYT: Gov. Larry Hogan said the state was trying to staff hospitals through a variety of measures. 
- <p class="updated_time"> 06:54 PM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59855445?at_medium=RSS&at_campaign=KARANGA">Richard Leakey: Kenyan conservationist dies aged 77</a> BBC: The Kenyan, who died at 77, was famous for his campaigns against poaching and work on human fossils. 
  <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59728593?at_medium=RSS&at_campaign=KARANGA">Kunal Kamra: The comedians under fire from Hindu nationalists</a> BBC: Kunal Kamra and Munawar Faruqui talk to the BBC about having shows cancelled in the face of right-wring ire. 
  <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
@@ -188,8 +188,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:46 AM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/01/03/new-year-same-to-do-list-for-congress-495569">New Year, same to-do list for Congress</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:05 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/03/dems-to-use-jan-6-anniversary-to-supercharge-voting-rights-push-495565"> Dems to use Jan. 6 anniversary to supercharge voting rights push</a> Politico Playbook: And Biden says the U.S. would 'respond decisively' if Russia invades Ukraine. 
+ <p class="updated_time"> 06:00 AM CT, Jan. 03 </p> 
+ <a href="https://www.cnn.com/2022/01/03/politics/2022-issues-to-watch-what-matters/index.html">2022 brings a daunting set of hurdles for America. Here are the top three</a> CNN: The year ahead brings a daunting set of hurdles for the country with everything from the coronavirus pandemic to pervasive misinformation  challenging our institutions. 
  <p class="updated_time"> 05:02 AM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/biden-zelensky-call/index.html">Biden tells Ukrainian president US 'will respond decisively if Russia further invades'</a> CNN: President Joe Biden told Ukrainian President Volodymyr Zelensky on Sunday that the US and its allies "will respond decisively if Russia further invades Ukraine," according to a readout of a call between the two leaders provided by the White House. 
  <p class="updated_time"> 04:31 AM CT, Jan. 03 </p> 
