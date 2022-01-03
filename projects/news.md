@@ -7,10 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/us-defense-secretary-austin-covid.html">U.S. Defense Secretary Tests Positive for Coronavirus</a> NYT: Lloyd J. Austin III stressed that his fully vaccinated status — including a booster received in early October — was to thank for his mild symptoms. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/travel/nepal-maha-shivaratri.html">Celebrating the ‘Great Night of Shiva’ in Kathmandu</a> NYT: Every year, thousands of celebrants gather at a temple complex in Nepal’s capital in honor of Shiva, one of Hinduism’s most revered gods. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/europe/eu-hungary-threat.html">How the E.U. Allowed Hungary to Become an Illiberal Model</a> NYT: After years of complacency and wishful thinking, Brussels is finally trying to rein in the country’s pugnacious leader, Prime Minister Viktor Orban. 
  <p class="updated_time"> 03:34 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">South Africa parliament: Man arrested over massive fire</a> BBC: Police in Cape Town say a man faces several charges over the fire and will appear in court on Tuesday. 
  <p class="updated_time"> 03:33 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069839447/seoul-north-korea-defector-likely-made-rare-border-crossing-back">Seoul: North Korea defector likely made rare border crossing back</a> NPR: A person who crossed the border from South Korea into North Korea on New Year's Day was likely a defector who had made the trip in the other direction in late 2020, the military said Monday. 
+ <p class="updated_time"> 02:46 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59856619?at_medium=RSS&at_campaign=KARANGA">Bulli Bai: India app that put Muslim women up for sale is shut</a> BBC: This was the second recent attempt in India to harass Muslim women by "auctioning" them online. 
  <p class="updated_time"> 11:50 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/africa/richard-leakey-dead.html">Richard Leakey, Kenyan Fossil Hunter and Conservationist, Dies at 77</a> NYT: His discoveries of ancient human skulls and skeletons, including the famed “Turkana Boy,” helped cement Africa’s standing as the cradle of humanity. 
  <p class="updated_time"> 11:14 PM CT, Jan. 02 </p> 
@@ -21,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/world/maryland-covid-larry-hogan.html">Governor: Maryland Prepares for 'Terrible Point' in Covid Crisis</a> NYT: Gov. Larry Hogan said the state was trying to staff hospitals through a variety of measures. 
  <p class="updated_time"> 09:22 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59855246?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Prime Minister Abdalla Hamdok resigns after mass protests</a> BBC: Abdalla Hamdok's resignation comes weeks after he was reinstated by the military following a coup. 
- <p class="updated_time"> 07:54 PM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/world/us-defense-secretary-austin-covid.html">U.S. Defense Secretary Tests Positive for Coronavirus</a> NYT: Lloyd J. Austin III stressed that his fully vaccinated status — including a booster received in early October — was to thank for his mild symptoms. 
  <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59728593?at_medium=RSS&at_campaign=KARANGA">Kunal Kamra: The comedians under fire from Hindu nationalists</a> BBC: Kunal Kamra and Munawar Faruqui talk to the BBC about having shows cancelled in the face of right-wring ire. 
  <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
@@ -101,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59838770?at_medium=RSS&at_campaign=KARANGA">ICYMI: Tiny tigers and trees as tasty treats</a> BBC: A look at some of the stories you may have missed this week. 
  <p class="updated_time"> 02:25 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/south-korea-men-anti-feminists.html">The New Political Cry in South Korea: ‘Out With Man Haters’</a> NYT: After slow gains in women’s rights, the country is facing a type of political correctness enforced by young men angry at feminists, saying they undermine opportunity. 
- <p class="updated_time"> 02:01 PM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59848162?at_medium=RSS&at_campaign=KARANGA">Map drawn from memory helps reunite kidnapped Chinese man with family</a> BBC: Li Jingwei was kidnapped in Yunnan province in 1989 and sold to a family thousands of miles away. 
  <p class="updated_time"> 01:11 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/africa/desmond-tutu-funeral-south-africa.html">Desmond Tutu Funeral: South Africa Bids Farewell</a> NYT: The archbishop and Nobel laureate left plans for an unostentatious ceremony, which were stripped back further under Covid restrictions. 
  <p class="updated_time"> 11:16 AM CT, Jan. 01 </p> 
@@ -177,14 +181,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/us/politics/biden-putin-ukraine-call.html">Putin Warns Biden of ‘Complete Rupture’ of U.S.-Russia Relationship Over Ukraine</a> NYT: President Vladimir V. Putin of Russia spoke with President Biden for 50 minutes about the escalating crisis with Ukraine, but his intentions remained unclear. 
  <p class="updated_time"> 05:48 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-covid-omicron-london-england.html">UK, With Surging Covid-19 Cases, is On '‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
- <p class="updated_time"> 03:00 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/europe/kyiv-ukraine-war-russia-bomb-shelters.html">Ukrainians Set Sights on the New Year, Not a New War</a> NYT: As the government designates bomb shelters and provides guidance on how to tape windows in case of an attack by Russia, Ukrainians carry on. 
  <p class="updated_time"> 12:39 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/bbc-alan-dershowitz-ghislaine-maxwell-epstein.html">BBC to Look Into Alan Dershowitz Interview on Ghislaine Maxwell Verdict</a> NYT: The American lawyer spoke to the British broadcaster about the verdict in the Ghislaine Maxwell case, but his connections to the case were not made clear. 
  <p class="updated_time"> 11:19 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/mexico-cruises.html">Mexico Says It will Allow Cruise Ships With Covid Cases to Dock</a> NYT: The Latin American nation is among the few in the world to have imposed no restrictions or testing requirements for travelers. 
- <p class="updated_time"> 09:18 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/india-third-wave-covid.html">India Fears a Third Wave of Covid, Driven by Omicron</a> NYT: The health ministry recorded more than 13,000 new cases in a day, one of the highest daily totals since October. 
  <p class="updated_time"> 06:04 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59733533?at_medium=RSS&at_campaign=KARANGA">‘The doctors came and I had to tell my father he was dying’</a> BBC: Is it always appropriate for relatives to interpret for deaf loved ones? 
 
@@ -194,10 +194,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/news/2022/01/03/larry-hogan-tour-republicans-trump-526370">Larry Hogan goes on tour to boost Republicans on Trump’s enemies list</a> Politico: The Maryland governor is looking to help GOP impeachment backers and others who have drawn Trump-supported challengers. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/january-6-capitol-riot-house-democrats-525975">'It's only gotten worse': The long shadow of the night that broke the House</a> Politico: For most Democrats, the biggest affront wasn't even the violence by Donald Trump's supporters. It was the votes more than 140 of their GOP colleagues took afterward. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/news/2022/01/03/trumpworld-jan-6-526291">They resigned in protest over Jan. 6 — then never went after Trump again</a> Politico: The administration officials who defected from the administration over the riots have almost all receded from public view even as Trump’s stayed put. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/could-january-6th-happen-again-526167">Increased threats, overburdened officers: Capitol contends with preventing a Jan. 6 repeat</a> Politico: The Capitol Police has made progress under a new chief. But many on the Hill don't have an easy answer. 
+ <p class="updated_time"> 04:01 AM CT, Jan. 03 </p> 
+ <a href="https://www.npr.org/2022/01/03/1069157693/2022-politics-biden-democrats-election-capitol-riot-abortion-supreme-court">6 questions for politics in 2022</a> NPR: From control of Congress and the strength of the Biden presidency to potential Jan. 6 committee revelations and the future of abortion rights, there's a lot at stake in 2022. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
+ <a href="https://www.npr.org/2022/01/03/1069764164/american-democracy-poll-jan-6">6 in 10 Americans say U.S. democracy is in crisis as the 'big lie' takes root</a> NPR: On the anniversary of the Jan. 6 attack on the U.S. Capitol, a new NPR/Ipsos poll finds that Americans are pessimistic about the future of democracy, as false claims about the 2020 election persist. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
+ <a href="https://www.npr.org/2022/01/03/1068396411/a-year-after-capitol-polices-darkest-day-its-chief-says-the-force-is-making-gain">A year after Capitol Police's darkest day, its chief says the force is making gains</a> NPR: Capitol Police Chief Tom Manger has been on the job less than six months. He hopes to lead a new chapter at the embattled agency. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/us/politics/supreme-court-death-penalty-intellectual-disability.html">Death Penalty Law Puts Burden on the Intellectually Disabled</a> NYT: The Supreme Court will decide whether to hear a challenge to the law, which requires that defendants in capital cases who are intellectually disabled prove it “beyond a reasonable doubt” — a phrase that was inserted in error. 
  <p class="updated_time"> 11:05 PM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/03/1069824056/another-hong-kong-news-outlet-to-close-amid-crackdown-on-dissent">Another Hong Kong news site shuts as pro-Beijing lawmakers sworn in</a> NPR: A Hong Kong online news site said Sunday that it will cease operations in light of deteriorating press freedoms, days after police raided a separate pro-democracy news outlet, arresting seven. 
  <p class="updated_time"> 09:19 PM CT, Jan. 02 </p> 
@@ -210,6 +222,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">Cheney: January 6 committee has 'firsthand' testimony that Ivanka asked Trump to intervene during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
  <p class="updated_time"> 08:20 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/pentagon-lloyd-austin-covid-526376">Pentagon chief Austin tests positive for Covid-19</a> Politico: Austin, who is fully vaccinated and has received a booster shot, said he will quarantine at home for the next five days. 
+ <p class="updated_time"> 08:15 PM CT, Jan. 02 </p> 
+ <a href="https://www.cnn.com/2022/01/02/politics/harry-reid-lie-in-state/index.html">Former Democratic leader Harry Reid to lie in state at US Capitol on January 12</a> CNN: Former Senate Majority Leader Harry Reid will lie in state in the US Capitol Rotunda on January 12, according to a joint statement from House Speaker Nancy Pelosi and Senate Majority Leader Chuck Schumer, an honor given to few statesmen. 
  <p class="updated_time"> 08:05 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/biden-ukraine-russia-526371">Biden reaffirms support for Ukraine in phone call with president</a> Politico: “President Biden made clear that the United States and its allies and partners will respond decisively if Russia further invades Ukraine,” the White House said. 
  <p class="updated_time"> 06:53 PM CT, Jan. 02 </p> 
@@ -250,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/colorado-wildfires-why-526321">Survivors count blessings after devastating Colorado fire</a> Politico: Two people were still missing. 
  <p class="updated_time"> 07:04 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739392/disinformation-fueled-2021-and-2022-will-likely-see-the-same">Disinformation fueled 2021, and 2022 will likely see the same</a> NPR: Disinformation — about the Jan. 6 attack, COVID-19, vaccines, etc. — shaped the nation's politics in 2021 and likely will continue to do so throughout the coming year. 
- <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/house-jan-6-committee-popular-republicans-526092">Poll: House's Jan. 6 probe is popular — even among many Republicans</a> Politico: Three out of five respondents say Trump is responsible for the events that led to the U.S. Capitol riot. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
@@ -318,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/31/politics/ayanna-pressley-covid/index.html">Rep. Ayanna Pressley tests positive for Covid-19</a> CNN: Rep. Ayanna Pressley, a Massachusetts Democrat, announced Friday she tested positive for Covid-19 and is experiencing mild symptoms. 
  <p class="updated_time"> 03:11 PM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/2021/12/31/1069539008/a-look-back-at-attacks-on-voting-rights-in-2021-and-what-could-be-next">A look back at attacks on voting rights in 2021 — and what could be next</a> NPR: NPR's Mary Louise Kelly speaks with Wendy Weiser, who directs the Democracy Program at the Brennan Center for Justice, about the threats to our elections in 2022 and 2024. 
- <p class="updated_time"> 03:11 PM CT, Dec. 31 </p> 
- <a href="https://www.npr.org/2021/12/31/1069538919/asians-lose-voting-power-in-texas">Asian American groups file a legal challenge to Texas' redistricting plans</a> NPR: The Asian population in Fort Bend County is Texas' largest. When the Texas Legislature met to redraw congressional maps, many Asian Americans hoped it would reflect that. That didn't happen. 
  <p class="updated_time"> 02:38 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/biden-volodymyr-zelensky-call-ukraine/index.html">Biden to speak with Zelensky as US warns against Russian invasion of Ukraine</a> CNN: President Joe Biden will speak with Ukrainian President Volodymyr Zelensky on Sunday, several days after Biden urged Russian President Vladimir Putin to ease an unremitting military crisis on Ukraine's border. 
  <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
@@ -332,10 +342,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/31/biden-novavax-production-covid-omicron-526283">Biden officials now fear booster programs will limit global vaccine supply</a> Politico: A looming shortage of doses for low- and moderate-income countries puts increased pressure on Novavax to obtain regulatory approvals for global manufacturing. 
  <p class="updated_time"> 06:12 AM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/minimum-wage-increase-2022-15-dollars/index.html">21 states will see minimum wage increases by January 1</a> CNN: Workers in 21 states will see a rise in the minimum wage in the new year. 
- <p class="updated_time"> 04:05 AM CT, Dec. 31 </p> 
- <a href="https://www.npr.org/2021/12/31/1069230553/the-top-destination-for-biden-during-his-first-year-in-office-pennsylvania">The top destination for Biden during his first year in office? Pennsylvania</a> NPR: Biden traveled there seven times since taking office, more than any other president in recent history. The reasons for his visits there and other states have to do with policy, politics and more. 
- <p class="updated_time"> 04:01 AM CT, Dec. 31 </p> 
- <a href="https://www.npr.org/2021/12/31/1068930675/us-election-coup-january-6-military-constitution">Retired general warns the U.S. military could lead a coup after the 2024 election</a> NPR: Retired Maj. Gen. Paul Eaton says war-gaming and civics education could help assure that the military is better prepared for a contested election. 
  <p class="updated_time"> 02:50 AM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/2021-pandemic-year-new-years-eve/index.html">A pandemic-scarred year ends in darkness -- but with hope on the horizon</a> CNN: 2021 wasn't supposed to end like this. 
  <p class="updated_time"> 09:24 PM CT, Dec. 30 </p> 
@@ -388,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
  <p class="updated_time"> 06:53 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/michigan-redistricting-congressional-map-526227">Michigan’s new congressional map: 3 battlegrounds, 1 Dem-vs.-Dem primary</a> Politico: Virginia also completed congressional redistricting on Tuesday. 
- <p class="updated_time"> 05:05 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/us/politics/trump-jan-6.html">Jan. 6 Committee Shelves Requests for Hundreds of Trump Records</a> NYT: The Biden administration asked to shield some sensitive documents but continued to reject Trump’s blanket claim of executive privilege. 
  <p class="updated_time"> 12:52 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/trump-organization-pga-settlement-526207">Trump Organization and PGA reach settlement over 2022 championship dispute</a> Politico: No details were released, but the tournament still won’t be held at Bedminster as a result of the Jan. 6 Capitol riot. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
