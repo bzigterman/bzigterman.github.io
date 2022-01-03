@@ -196,14 +196,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/marjorie-taylor-greene-facebook-suspension-526398">MTG hit with Facebook suspension after Twitter ban</a> Politico: “Facebook has joined Twitter in censoring me,” Greene (R-Ga.) wrote on Gettr, a social media platform favored by some right-wing conservatives. 
+ <p class="updated_time"> 01:06 PM CT, Jan. 03 </p> 
+ <a href="https://www.cnn.com/2022/01/03/politics/ivanka-donald-trump-jr-subpoena/index.html">NY AG subpoenas Ivanka Trump and Donald Trump, Jr. in civil investigation</a> CNN: The New York attorney general's office has subpoenaed two of former President Donald Trump's children for testimony as part of its civil investigation into whether the Trump Organization manipulated the values of its properties. 
  <p class="updated_time"> 12:55 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/biden-meat-processing-industry/index.html">White House to invest $1 billion to boost competition in meat-processing industry and lower consumer prices</a> CNN: The White House on Monday announced it would allocate $1 billion in funding from the American Rescue Plan to independent meat and poultry producers as part of an effort to boost competition in the meat-processing industry and lower prices for consumers. 
  <p class="updated_time"> 12:51 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/trump-endorses-viktor-orban-hungary.html">Trump Endorses Viktor Orban, Hungary’s Far-Right Prime Minister</a> NYT: Democracy in Hungary has been backsliding under Mr. Orban, whose efforts to consolidate power have caused consternation in the European Union. 
  <p class="updated_time"> 12:18 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069946405/new-yorks-attorney-general-has-subpoenaed-ivanka-trump-and-donald-trump-jr">New York's attorney general has subpoenaed Ivanka Trump and Donald Trump Jr. </a> NPR: The subpoenas stem from an ongoing civil investigation into the Trump family's business practices. The former president has also been subpoenaed, and is now suing the attorney general. 
- <p class="updated_time"> 12:17 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/ivanka-donald-trump-jr-subpoena/index.html">NY AG subpoenas Ivanka Trump and Donald Trump, Jr. in civil investigation</a> CNN: The New York attorney general's office has subpoenaed two of former President Donald Trump's children for testimony as part of its civil investigation into whether the Trump Organization manipulated the values of its properties. 
  <p class="updated_time"> 12:15 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/donald-trump-january-6-committee/index.html">Analysis: January 6 committee gets inside Trump's West Wing wall of obstruction </a> CNN: The House select committee probing the January 6 insurrection is signaling that it has penetrated Donald Trump's wall of obstruction about what was going on inside the White House and his own family while he refused to stop the mob attack on the US Capitol a year ago this week. 
  <p class="updated_time"> 12:15 PM CT, Jan. 03 </p> 
