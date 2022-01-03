@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:02 PM CT, Jan. 03 </p> 
+ <p class="updated_time"> 02:23 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59861831?at_medium=RSS&at_campaign=KARANGA">Prince Andrew accuser’s deal with Epstein released</a> BBC: It shows Virginia Giuffre agreed not to sue anyone who could be described as a "potential defendant". 
+ <p class="updated_time"> 02:22 PM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59863152?at_medium=RSS&at_campaign=KARANGA">South Africa's parliament building on fire again</a> BBC: One day after a fire at the parliament building in Cape Town, crews are tackling another blaze. 
  <p class="updated_time"> 02:00 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/africa/south-africa-parliament-fire-suspect.html">South Africa Parliament: Suspect Charged in Fire to Appear in Court</a> NYT: A 49-year-old man is facing charges of arson and theft in the blaze, which started Sunday and heavily damaged legislative buildings in Cape Town. 
  <p class="updated_time"> 01:59 PM CT, Jan. 03 </p> 
@@ -26,7 +28,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:40 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/03/1069942305/sheep-goats-encourage-vaccination-germany">700 sheep and goats were arranged in the shape of a needle to encourage vaccinations</a> NPR: A shepherd in Germany arranged her animals into a 330-foot syringe to encourage people to get vaccinated. 
  <p class="updated_time"> 11:49 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/europe/eu-hungary-threat.html">How the E.U. Allowed Hungary to Become an Illiberal Model</a> NYT: After years of complacency and wishful thinking, Brussels is finally trying to rein in the country’s pugnacious leader, Prime Minister Viktor Orban. 
+ <a href="https://www.nytimes.com/2022/01/03/world/europe/hungary-european-union.html">How the European Union Allowed Hungary to Become an Illiberal Model</a> NYT: After years of complacency and wishful thinking, Brussels is finally trying to rein in the country’s pugnacious leader, Prime Minister Viktor Orban. 
  <p class="updated_time"> 11:34 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069933029/fire-reignites-at-south-africas-parliament-in-cape-town">Fire reignites at South Africa's Parliament in Cape Town</a> NPR: The fire started on Sunday and had been contained, but flared up again on Monday after firefighters had been sent home. A man was arrested in connection with the fire. 
  <p class="updated_time"> 11:04 AM CT, Jan. 03 </p> 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59755739?at_medium=RSS&at_campaign=KARANGA">Light pollution: Parkour group saving energy by turning off city lights</a> BBC: A group of young men are using their gymnastic abilities to reduce the impact of light pollution in their hometown. 
  <p class="updated_time"> 06:05 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59703681?at_medium=RSS&at_campaign=KARANGA">Letter from Africa: Africa plays on in 2022 without its great referee</a> BBC: Joseph Warungu looks at what is in store for the African continent this coming year. 
- <p class="updated_time"> 06:04 PM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-59838770?at_medium=RSS&at_campaign=KARANGA">ICYMI: Tiny tigers and trees as tasty treats</a> BBC: A look at some of the stories you may have missed this week. 
  <p class="updated_time"> 02:25 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/south-korea-men-anti-feminists.html">The New Political Cry in South Korea: ‘Out With Man Haters’</a> NYT: After slow gains in women’s rights, the country is facing a type of political correctness enforced by young men angry at feminists, saying they undermine opportunity. 
  <p class="updated_time"> 01:11 PM CT, Jan. 01 </p> 
@@ -198,6 +198,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/longtime-new-hampshire-secretary-of-state-retiring-526412">Longtime New Hampshire secretary of state retiring</a> Politico: Bill Gardner, who's held the post since 1976, is a staunch defender of New Hampshire's first-in-the-nation presidential primary. 
  <p class="updated_time"> 02:36 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/ny-ag-subpoenas-trump-jr-ivanka-526404">New York attorney general issued subpoenas to Ivanka, Don. Jr.</a> Politico: Attorney General Letitia James has also sought testimony from the former president and Eric Trump. 
+ <p class="updated_time"> 02:27 PM CT, Jan. 03 </p> 
+ <a href="https://www.cnn.com/2022/01/03/politics/biden-meat-processing-industry/index.html">White House to invest $1 billion to boost competition in meat-processing industry and lower consumer prices</a> CNN: The White House on Monday announced it would allocate $1 billion in funding from the American Rescue Plan to independent meat and poultry producers as part of an effort to boost competition in the meat-processing industry and lower prices for consumers. 
+ <p class="updated_time"> 02:21 PM CT, Jan. 03 </p> 
+ <a href="https://www.npr.org/2022/01/03/1069970063/new-hampshires-longtime-guardian-of-its-early-presidential-primary-is-stepping-d">New Hampshire's longtime guardian of its early presidential primary is stepping down</a> NPR: Secretary of State William Gardner, who earned a national reputation as gatekeeper of New Hampshire's first-in-the-nation presidential primary, has held the office since 1976. 
  <p class="updated_time"> 01:45 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/business/economy/inflation-democrats-corporations.html">Democrats Blast Corporate Profits as Inflation Surges</a> NYT: Politicians are placing more blame on greedy companies as prices stay high. But booming consumer demand is enabling firms to charge more. 
  <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
@@ -206,8 +210,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/us/pentagon-airstrikes-syria-iraq.html">Documents Reveal Flaws in Pentagon Dismissals of Civilian Casualty Claims in Iraq and Syria</a> NYT: A Times investigation found inconsistent approaches to assessing claims of civilians killed by coalition forces — including failures to conduct simple internet searches. 
  <p class="updated_time"> 01:06 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/ivanka-donald-trump-jr-subpoena/index.html">NY AG subpoenas Ivanka Trump and Donald Trump, Jr. in civil investigation</a> CNN: The New York attorney general's office has subpoenaed two of former President Donald Trump's children for testimony as part of its civil investigation into whether the Trump Organization manipulated the values of its properties. 
- <p class="updated_time"> 12:55 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/biden-meat-processing-industry/index.html">White House to invest $1 billion to boost competition in meat-processing industry and lower consumer prices</a> CNN: The White House on Monday announced it would allocate $1 billion in funding from the American Rescue Plan to independent meat and poultry producers as part of an effort to boost competition in the meat-processing industry and lower prices for consumers. 
  <p class="updated_time"> 12:51 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/trump-endorses-viktor-orban-hungary.html">Trump Endorses Viktor Orban, Hungary’s Far-Right Prime Minister</a> NYT: Democracy in Hungary has been backsliding under Mr. Orban, whose efforts to consolidate power have caused consternation in the European Union. 
  <p class="updated_time"> 12:18 PM CT, Jan. 03 </p> 
@@ -276,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">Cheney: January 6 committee has 'firsthand' testimony that Ivanka asked Trump to intervene during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
  <p class="updated_time"> 08:15 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/harry-reid-lie-in-state/index.html">Former Democratic leader Harry Reid to lie in state at US Capitol on January 12</a> CNN: Former Senate Majority Leader Harry Reid will lie in state in the US Capitol Rotunda on January 12, according to a joint statement from House Speaker Nancy Pelosi and Senate Majority Leader Chuck Schumer, an honor given to few statesmen. 
- <p class="updated_time"> 08:05 PM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/biden-ukraine-russia-526371">Biden reaffirms support for Ukraine in phone call with president</a> Politico: “President Biden made clear that the United States and its allies and partners will respond decisively if Russia further invades Ukraine,” the White House said. 
  <p class="updated_time"> 06:34 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 06:14 PM CT, Jan. 02 </p> 
@@ -342,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/nyregion/meisha-porter-nyc-schools-covid.html">Meisha Porter Had 3 Goals as N.Y.C. Schools Chief: ‘Open. Open. Open.’</a> NYT: The departing New York City schools chancellor pulled off a big task in a short period of time: reopening the nation’s largest school district during a pandemic. 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069610932/week-in-politics-biden-says-there-is-no-federal-solution-to-the-pandemic">Week in politics: Biden says there is no federal solution to the pandemic</a> NPR: President Joe Biden says there's no federal solution to the pandemic as cases climb dramatically. 
- <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
- <a href="https://www.npr.org/2022/01/01/1069611016/there-are-signs-negotiators-are-making-progress-toward-a-nuclear-deal-with-iran">There are signs negotiators are making progress toward a nuclear deal with Iran</a> NPR: For the first time in months, European negotiators report progress in nuclear talks with Iran and the U.S. An agreement would revive an Obama-era pact that President Donald Trump abandoned. 
  <p class="updated_time"> 07:01 AM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/01/politics/joe-biden-2022-pandemic-russia-ukraine-congress-democrats/index.html">Biden's 2022 challenges revolve around Covid, Russia and dealing with Congress</a> CNN: President Joe Biden will return to the White House from an abbreviated winter break facing a set of hurdles that will test his political, diplomatic and management skills at a trying moment for his presidency. 
  <p class="updated_time"> 07:00 AM CT, Jan. 01 </p> 
@@ -398,6 +396,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
+ <p class="updated_time"> 06:53 PM CT, Dec. 28 </p> 
+ <a href="https://www.politico.com/news/2021/12/28/michigan-redistricting-congressional-map-526227">Michigan’s new congressional map: 3 battlegrounds, 1 Dem-vs.-Dem primary</a> Politico: Virginia also completed congressional redistricting on Tuesday. 
  <p class="updated_time"> 12:52 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/trump-organization-pga-settlement-526207">Trump Organization and PGA reach settlement over 2022 championship dispute</a> Politico: No details were released, but the tournament still won’t be held at Bedminster as a result of the Jan. 6 Capitol riot. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
