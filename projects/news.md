@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:55 AM CT, Jan. 03 </p> 
+ <p class="updated_time"> 12:00 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59861831?at_medium=RSS&at_campaign=KARANGA">Prince Andrew accuser’s deal with Epstein released</a> BBC: It shows Virginia Giuffre agreed not to sue anyone who could be described as a "potential defendant". 
  <p class="updated_time"> 11:49 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/europe/eu-hungary-threat.html">How the E.U. Allowed Hungary to Become an Illiberal Model</a> NYT: After years of complacency and wishful thinking, Brussels is finally trying to rein in the country’s pugnacious leader, Prime Minister Viktor Orban. 
@@ -49,14 +49,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/americas/brazil-bolsonaro-hospitalized.html">Brazil's President, Jair Bolsonaro, Is Hospitalized</a> NYT: Mr. Bolsonaro, who was stabbed while on the campaign trail in 2018, experienced stomach discomfort during his vacation and was flown back to São Paulo. 
  <p class="updated_time"> 07:10 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59824920?at_medium=RSS&at_campaign=KARANGA">S Korea says man who crossed back to North is gymnast defector</a> BBC: It's unclear why the man who jumped a barbed wire fence in 2020 made the perilous return journey. 
+ <p class="updated_time"> 07:01 AM CT, Jan. 03 </p> 
+ <a href="https://www.wsj.com/articles/france-relaxes-quarantine-rules-as-europe-adapts-to-omicrons-spread-11641217097">Covid-19 Cases Soar to New Records in U.S.</a> WSJ: Holiday reporting delays mean real infection rates are likely higher than the new reports, as students return to classrooms and some workers remain home after contracting or being exposed to the coronavirus. 
  <p class="updated_time"> 06:54 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/business/china-evergrande-shares-hong-kong.html">China Evergrande Suspends Trading Shares in Hong Kong</a> NYT: The world’s most indebted property developer provided no details on the suspension, but it suggested an announcement “containing inside information” would come soon. 
  <p class="updated_time"> 06:14 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59859148?at_medium=RSS&at_campaign=KARANGA">Newborn baby found in toilet bin of Air Mauritius plane</a> BBC: The mother and baby are doing well, after airport staff found the boy during a routine check. 
  <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/article/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
- <p class="updated_time"> 05:47 AM CT, Jan. 03 </p> 
- <a href="https://www.wsj.com/articles/france-relaxes-quarantine-rules-as-europe-adapts-to-omicrons-spread-11641217097">Covid-19 Cases Soar to New Records in U.S.</a> WSJ: Holiday reporting delays mean real infection rates are likely higher than the new reports, as students return to classrooms and some workers remain home after contracting or being exposed to the coronavirus. 
  <p class="updated_time"> 04:46 AM CT, Jan. 03 </p> 
  <a href="https://www.wsj.com/articles/new-eu-rules-spark-fight-over-what-is-green-energy-11641224818">New EU Rules Spark Fight Over What Is 'Green' Energy</a> WSJ: The draft recommendation, which needs approval by the bloc’s governments and the European Parliament, underlines the political controversy already being stirred up by environmental policies in Europe, despite broad public support for action to prevent climate change. 
  <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
@@ -85,6 +85,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59728593?at_medium=RSS&at_campaign=KARANGA">Kunal Kamra: The comedians under fire from Hindu nationalists</a> BBC: Kunal Kamra and Munawar Faruqui talk to the BBC about having shows cancelled in the face of right-wring ire. 
  <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383184?at_medium=RSS&at_campaign=KARANGA">Green Connect: The farm helping refugees build a life in Australia</a> BBC: It has employed 5,000 people in the past decade and "dramatically" changed fortunes, refugees say. 
+ <p class="updated_time"> 05:08 PM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59855440?at_medium=RSS&at_campaign=KARANGA">Emily in Paris: Ukraine complains over Kyiv character stereotype</a> BBC: Ukraine's culture minister has described the portrayal of a character from Kyiv as "insulting". 
  <p class="updated_time"> 03:41 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Is 'Gutted' by Large Fire</a> NYT: Officials warned that the damage to the buildings would be extensive. A man was arrested on Sunday morning inside the parliamentary complex, Parliament’s spokesman said. 
  <p class="updated_time"> 03:03 PM CT, Jan. 02 </p> 
@@ -192,8 +194,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:42 AM CT, Jan. 03 </p> 
+ <p class="updated_time"> 12:18 PM CT, Jan. 03 </p> 
+ <a href="https://www.npr.org/2022/01/03/1069946405/new-yorks-attorney-general-has-subpoenaed-ivanka-trump-and-donald-trump-jr">New York's attorney general has subpoenaed Ivanka Trump and Donald Trump Jr. </a> NPR: The subpoenas stem from an ongoing civil investigation into the Trump family's business practices. The former president has also been subpoenaed, and is now suing the attorney general. 
+ <p class="updated_time"> 12:17 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/ivanka-donald-trump-jr-subpoena/index.html">NY AG subpoenas Ivanka Trump and Donald Trump, Jr. in civil investigation</a> CNN: The New York attorney general's office has subpoenaed two of former President Donald Trump's children for testimony as part of its civil investigation into whether the Trump Organization manipulated the values of its properties. 
+ <p class="updated_time"> 12:15 PM CT, Jan. 03 </p> 
+ <a href="https://www.cnn.com/2022/01/03/politics/donald-trump-january-6-committee/index.html">January 6 committee gets inside Trump's West Wing wall of obstruction </a> CNN: The House select committee probing the January 6 insurrection is signaling that it has penetrated Donald Trump's wall of obstruction about what was going on inside the White House and his own family while he refused to stop the mob attack on the US Capitol a year ago this week. 
+ <p class="updated_time"> 12:15 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/technology/facebook-marjorie-taylor-greene.html">Facebook Suspends Marjorie Taylor Greene’s Account for 24 hours</a> NYT: Twitter permanently banned her account on Sunday after what the company said was her fifth “strike.” 
+ <p class="updated_time"> 12:03 PM CT, Jan. 03 </p> 
+ <a href="https://www.npr.org/2022/01/03/1069888391/schumer-tees-up-vote-on-rules-change-if-voting-rights-legislation-is-blocked">Schumer tees up vote on rules change if voting rights legislation is blocked </a> NPR: It's the latest push by Senate Democrats to make good on their promise to pass voting rights legislation. 
  <p class="updated_time"> 11:23 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/capitol-police-union-private-security-proposal-526395">Capitol Police union douses private security proposal</a> Politico: “We need to hire more officers — period. The last thing we need are private security contractors who are not trained to our standards,” the chair of the union said in a statement sent to POLITICO. 
  <p class="updated_time"> 10:55 AM CT, Jan. 03 </p> 
@@ -214,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/03/politics/biden-meat-processing-industry/index.html">White House to invest $1 billion to boost competition in meat-processing industry and lower consumer prices</a> CNN: The White House on Monday announced it would allocate $1 billion in funding from the American Rescue Plan to independent meat and poultry producers as part of an effort to boost competition in the meat-processing industry and lower prices for consumers. 
  <p class="updated_time"> 07:46 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/03/new-year-same-to-do-list-for-congress-495569">New Year, same to-do list for Congress</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:46 AM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/donald-trump-january-6-committee/index.html">January 6 committee gets inside Trump's West Wing wall of obstruction </a> CNN: The House select committee probing the January 6 insurrection is signaling that it has penetrated Donald Trump's wall of obstruction about what was going on inside the White House and his own family while he refused to stop the mob attack on the US Capitol a year ago this week. 
  <p class="updated_time"> 07:17 AM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/videos/politics/2022/01/03/january-6-capitol-riot-anniversary-lookahead-smerconish-nd-vpx.cnn">What to expect on the first anniversary of the January 6th Capitol riot</a> CNN: CNN's Michael Smerconish joins New Day to discuss what to expect as the first anniversary of the January 6th attack on the Capitol approaches. 
  <p class="updated_time"> 07:15 AM CT, Jan. 03 </p> 
@@ -241,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069764164/american-democracy-poll-jan-6">6 in 10 Americans say U.S. democracy is in crisis as 'The Big Lie' takes root</a> NPR: A year after the Jan. 6 attack on the U.S. Capitol, a new NPR/Ipsos poll finds that Americans are pessimistic about the future of democracy, as false claims about the 2020 election persist. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/supreme-court-death-penalty-intellectual-disability.html">Death Penalty Law Puts Burden on the Intellectually Disabled</a> NYT: The Supreme Court will decide whether to hear a challenge to the law, which requires that defendants in capital cases who are intellectually disabled prove it “beyond a reasonable doubt” — a phrase that was inserted in error. 
+ <a href="https://www.nytimes.com/2022/01/03/us/politics/supreme-court-death-penalty-intellectual-disability.html">Language Mistake in Georgia Death Penalty Law Creates a Daunting Hurdle</a> NYT: The Supreme Court will decide whether to hear a challenge to the law, which requires that defendants in capital cases who are intellectually disabled prove it “beyond a reasonable doubt” — a phrase that was inserted in error. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1068396411/a-year-after-capitol-polices-darkest-day-its-chief-says-the-force-is-making-gain">A year after Capitol Police's darkest day, its chief says the force is making gains</a> NPR: Capitol Police Chief Tom Manger has been on the job less than six months. He hopes to lead a new chapter at the embattled agency. 
  <p class="updated_time"> 11:05 PM CT, Jan. 02 </p> 
@@ -326,10 +334,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/01/1069610932/week-in-politics-biden-says-there-is-no-federal-solution-to-the-pandemic">Week in politics: Biden says there is no federal solution to the pandemic</a> NPR: President Joe Biden says there's no federal solution to the pandemic as cases climb dramatically. 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069611016/there-are-signs-negotiators-are-making-progress-toward-a-nuclear-deal-with-iran">There are signs negotiators are making progress toward a nuclear deal with Iran</a> NPR: For the first time in months, European negotiators report progress in nuclear talks with Iran and the U.S. An agreement would revive an Obama-era pact that President Donald Trump abandoned. 
- <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
- <a href="https://www.npr.org/2022/01/01/1069610988/almost-a-year-after-jan-6-two-journalists-release-their-book-the-steal">Almost a year after Jan. 6, two journalists release their book 'The Steal'</a> NPR: David Gura speaks with journalists Mark Bowden and Matthew Teague about their new book "The Steal: The Attempt to Overturn the 2020 Election and the People Who Stopped It." 
- <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
- <a href="https://www.npr.org/2022/01/01/1069610925/bidens-top-economics-advisor-weighs-in-on-how-omicron-is-affecting-economic-reco">Biden's top economics advisor weighs in on how omicron is affecting economic recovery</a> NPR: David Gura speaks to Cecilia Rouse, chair of the White House Council of Economic Advisers, about the health of the U.S. economy amid inflation, supply chain interruptions and labor shortages. 
  <p class="updated_time"> 07:01 AM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/01/politics/joe-biden-2022-pandemic-russia-ukraine-congress-democrats/index.html">Biden's 2022 challenges revolve around Covid, Russia and dealing with Congress</a> CNN: President Joe Biden will return to the White House from an abbreviated winter break facing a set of hurdles that will test his political, diplomatic and management skills at a trying moment for his presidency. 
  <p class="updated_time"> 07:00 AM CT, Jan. 01 </p> 
@@ -390,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/agenda/2021/12/29/teachers-districts-hybrid-education-526214">‘I Feel Half as Successful’: Teachers Push to Ban Hybrid Instruction, But Districts Want to Keep It</a> Politico: Teachers want to ban teaching students in person and online at the same time. Some education leaders say it should be what the future looks like. 
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
- <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/us/politics/mask-mandate-fines-greene-clyde.html">Greene and Clyde Rack Up Fines for Defying House’s Mask Mandate</a> NYT: Representatives Marjorie Taylor Greene and Andrew Clyde have incurred more than $100,000 combined in penalties for dozens of violations. 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
  <p class="updated_time"> 06:53 PM CT, Dec. 28 </p> 
