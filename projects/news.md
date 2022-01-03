@@ -196,12 +196,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/03/1069983228/during-the-jan-6-riot-chaos-lawmakers-called-on-military-and-intelligence-traini">During the Jan. 6 riot chaos, lawmakers called on military and intelligence training</a> NPR: Representatives Abigail Spanberger, D-Va., and Jason Crow, D-Colo., reflect on the ways their military and intelligence training aided them during the Jan. 6 insurrection at the U.S. Capitol. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069983200/millions-sympathize-with-the-rioters-who-attacked-the-capitol-on-jan-6-survey-fi">Millions sympathize with the rioters who attacked the Capitol on Jan. 6, survey finds</a> NPR: As the U.S. nears the anniversary of a pro-Trump mob's attack at the Capitol, a survey finds widespread community support for violent insurrection that it calls a new political movement in the U.S. 
+ <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
+ <a href="https://www.cnn.com/2022/01/03/politics/eric-adams-teachers-union-nyc/index.html">'We're staying open': Adams bucks teacher's union request days into new administration</a> CNN: Eric Adams has started his tenure as New York City mayor by rejecting a request from the city's largest teachers' union to temporarily move public schools to remote learning, capping off a frenetic first 72 hours of his administration. 
  <p class="updated_time"> 03:32 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/first-amendment-praetorian-trump-jan-6.html">Another Far-Right Group Is Scrutinized in Effort to Aid Trump</a> NYT: The organization, called 1st Amendment Praetorian, is not as well known as the Oath Keepers or the Proud Boys, but it worked closely with pro-Trump forces in the months after the 2020 election. 
  <p class="updated_time"> 02:54 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/longtime-new-hampshire-secretary-of-state-retiring-526412">Longtime New Hampshire secretary of state retiring</a> Politico: Bill Gardner, who's held the post since 1976, is a staunch defender of New Hampshire's first-in-the-nation presidential primary. 
  <p class="updated_time"> 02:42 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/ivanka-donald-trump-jr-subpoena/index.html">NY AG subpoenas Ivanka Trump and Donald Trump, Jr. in civil investigation</a> CNN: The New York attorney general's office has subpoenaed two of former President Donald Trump's children for testimony as part of its civil investigation into whether the Trump Organization manipulated the values of its properties. 
+ <a href="https://www.cnn.com/2022/01/03/politics/ivanka-donald-trump-jr-subpoena/index.html">NY AG subpoenas Ivanka Trump and Donald Trump Jr. in civil investigation</a> CNN: The New York attorney general's office has subpoenaed two of former President Donald Trump's children for testimony as part of its civil investigation into whether the Trump Organization manipulated the values of its properties. 
  <p class="updated_time"> 02:36 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/ny-ag-subpoenas-trump-jr-ivanka-526404">New York attorney general issued subpoenas to Ivanka, Don. Jr.</a> Politico: Attorney General Letitia James has also sought testimony from the former president and Eric Trump. 
  <p class="updated_time"> 02:27 PM CT, Jan. 03 </p> 
@@ -330,6 +332,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/us/politics/stacey-abrams-georgia-democrats.html">Left and Center-Left Both Claim Stacey Abrams. Who’s Right?</a> NYT: Ms. Abrams, the Georgia Democrat running for governor, has admirers in both wings of her party — and Republicans eager to defeat her. Her carefully calibrated strategy faces a test in 2022. 
  <p class="updated_time"> 11:30 PM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/democrats-january-6-2022-campaigns/index.html">'It's not a silver bullet': Democrats weigh how to talk about January 6 on the 2022 campaign trail</a> CNN: The January 6 insurrection may be a year behind Rep. Jason Crow, but the Colorado Democrat -- and many of his colleagues -- insist it would be a grievous error for his party to downplay the attack. 
+ <p class="updated_time"> 06:54 PM CT, Jan. 01 </p> 
+ <a href="https://www.cnn.com/2022/01/01/politics/nyc-mayor-eric-adams-swear-in/index.html">Adams gives first speech as NYC mayor: 'We will not be controlled by crisis'</a> CNN: Eric Adams, New York City's new mayor, was sworn in to office just minutes after the crystal ball dropped at midnight in Times Square on January 1. 
  <p class="updated_time"> 01:06 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/30/upshot/medical-bill-ban-biden.html">A New Ban on Surprise Medical Bills Starts Today</a> NYT: If you have a medical emergency, you will no longer need to worry about a large bill from a doctor you did not choose. 
  <p class="updated_time"> 11:59 AM CT, Jan. 01 </p> 
@@ -362,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/31/politics/judges-us-capitol-comments/index.html">Judges remind US how crucial it is for democracy that insurrection never happens again</a> CNN: On January 6, rioters streamed past the federal courthouse in Washington, DC, and descended upon the US Capitol. For weeks after the attack, DC's chief judge said she could see National Guard troops from the window in her chambers. 
  <p class="updated_time"> 07:01 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/complaint-doj-foreign-agent-prosecutions-526278">Complaint could roil DOJ foreign-agent prosecutions</a> Politico: Businesswoman Nickie Lum Davis says her guilty plea last year to a charge of unregistered lobbying was coerced. 
- <p class="updated_time"> 06:10 AM CT, Dec. 31 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden pushes Putin for Ukraine de-escalation in second call this month</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 09:24 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/politics/uss-montgomery-captain-fired.html">Navy Fires Warship’s Top Two Officers, Citing ‘Loss of Confidence’</a> NYT: The commander and second in charge of the U.S.S. Montgomery were relieved of command in a rare punishment, reportedly over their handling of a sexual harassment case. 
  <p class="updated_time"> 09:11 PM CT, Dec. 30 </p> 
@@ -384,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/us/politics/pentagon-guantanamo-secret-courtroom.html">Pentagon Building New Secret Courtroom at Guantánamo Bay</a> NYT: The concept is to permit two military judges to hold proceedings simultaneously starting in mid-2023. 
  <p class="updated_time"> 11:07 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/29/harry-reids-legacy-495555"> Harry Reid’s legacy</a> Politico Playbook: And Michigan and Virginia get their new congressional maps. 
- <p class="updated_time"> 10:47 AM CT, Dec. 29 </p> 
- <a href="https://www.cnn.com/2021/12/29/politics/less-pandemic-federal-aid-stimulus-unemployment/index.html">Less federal aid is coming as Americans enter third year of the pandemic</a> CNN: As Americans enter the third year of the pandemic, they can expect to receive significantly less federal aid. 
  <p class="updated_time"> 10:26 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/harry-reid-shaped-chuck-schumer-526233">‘He’s a press guy, I’m not’: How Harry Reid shaped Chuck Schumer</a> Politico: Schumer called Reid “my leader, my mentor, one of my dearest friends,” after the former Senate majority leader’s death Tuesday. 
  <p class="updated_time"> 06:06 AM CT, Dec. 29 </p> 
