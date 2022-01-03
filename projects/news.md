@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:54 PM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/us-defense-secretary-austin-covid.html">U.S. Defense Secretary Tests Positive for Coronavirus</a> NYT: Lloyd J. Austin III stressed that his fully vaccinated status — including a booster received in early October — was to thank for his mild symptoms. 
  <p class="updated_time"> 06:03 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59855246?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Prime Minister Abdalla Hamdok resigns after mass protests</a> BBC: Abdalla Hamdok's resignation comes weeks after he was reinstated by the military following a coup. 
  <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59728593?at_medium=RSS&at_campaign=KARANGA">Kunal Kamra: The comedians under fire from Hindu nationalists</a> BBC: Kunal Kamra and Munawar Faruqui talk to the BBC about having shows cancelled in the face of right-wring ire. 
  <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383184?at_medium=RSS&at_campaign=KARANGA">Green Connect: The farm helping refugees build a life in Australia</a> BBC: It has employed 5,000 people in the past decade and "dramatically" changed fortunes, refugees say. 
+ <p class="updated_time"> 05:08 PM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59855440?at_medium=RSS&at_campaign=KARANGA">Emily in Paris: Ukraine complains over Kiev character stereotype</a> BBC: Ukraine's culture minister has described the portrayal of a character from Kiev as "insulting". 
  <p class="updated_time"> 04:58 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/abdalla-hamdok-resigns-sudan.html">Sudan’s Prime Minister, Abdalla Hamdok, Resigns</a> NYT: Mr. Hamdok was restored to power a month ago after being deposed in a coup, but he was never able to gain control of the fractious country. 
  <p class="updated_time"> 03:41 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Fire Still Burning After Hours</a> NYT: Officials warned that the damage to the buildings would be extensive. A man was arrested on Sunday morning inside the parliamentary complex, Parliament’s spokesman said. 
- <p class="updated_time"> 03:38 PM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/live/2021/12/31/world/omicron-covid-vaccine-tests">Subdued Celebrations Welcome 2022 as Omicron Casts a Pall Over New Year’s Eve</a> NYT: Eric Adams was sworn in as New York City’s mayor. Britain released data showing that people with Omicron were less likely to need hospitalization. 
  <p class="updated_time"> 03:03 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/asia/china-womens-rights.html">China Moves to Overhaul Protections for Women’s Rights, Sort Of</a> NYT: The proposed revisions to a women’s rights law would be the first major changes in nearly 20 years. But many women are skeptical that real progress will follow. 
  <p class="updated_time"> 02:56 PM CT, Jan. 02 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/world/asia/hindu-shrine-stampede-kashmir.html">At Least 12 Die in Stampede at a Hindu Shrine in Kashmir</a> NYT: Thousands of devotees were visiting the Mata Vaishno Devi shrine to mark the beginning of the year. 
  <p class="updated_time"> 06:39 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/01/1062815252/flood-survivors-former-sex-slaves-fantastic-masks-top-global-photo-stories-of-20">Flood survivors, former sex slaves, fantastic masks: Top global photo stories of 2021</a> NPR: The power of photos can be seen in our most popular picture essays of the year, with compelling images from South Sudan, the Philippines, Mexico (check out those artistic face coverings) and more. 
- <p class="updated_time"> 06:34 AM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/31/business/china-internet-police-twitter.html">Chinese Police Hunt Overseas Critics With Advanced Tech</a> NYT: Authorities in China have turned to sophisticated investigative software to track and silence obscure critics on overseas social media. Their targets include college students and non-Chinese nationals. 
  <p class="updated_time"> 06:17 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59845938?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu funeral: Anti-apartheid campaigner remembered in Cape Town</a> BBC: The anti-apartheid campaigner and Nobel Peace Prize winner died last Sunday, aged 90. 
  <p class="updated_time"> 05:00 AM CT, Jan. 01 </p> 
@@ -177,18 +177,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/europe/kyiv-ukraine-war-russia-bomb-shelters.html">Ukrainians Set Sights on the New Year, Not a New War</a> NYT: As the government designates bomb shelters and provides guidance on how to tape windows in case of an attack by Russia, Ukrainians carry on. 
  <p class="updated_time"> 12:39 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/bbc-alan-dershowitz-ghislaine-maxwell-epstein.html">BBC to Look Into Alan Dershowitz Interview on Ghislaine Maxwell Verdict</a> NYT: The American lawyer spoke to the British broadcaster about the verdict in the Ghislaine Maxwell case, but his connections to the case were not made clear. 
- <p class="updated_time"> 12:05 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/asia/ashraf-ghani-bbc-interview.html">Ashraf Ghani, Former Afghan President, Says He Fled Nation to 'Save Kabul'</a> NYT: In his first interview since escaping Afghanistan as the Taliban advanced on the capital, Ashraf Ghani defended himself against charges that he abandoned his country in its hour of need. 
  <p class="updated_time"> 11:19 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/americas/mexico-cruises.html">Mexico Says It will Allow Cruise Ships With Covid Cases to Dock</a> NYT: The Latin American nation is among the few in the world to have imposed no restrictions or testing requirements for travelers. 
  <p class="updated_time"> 09:18 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/india-third-wave-covid.html">India Fears a Third Wave of Covid, Driven by Omicron</a> NYT: The health ministry recorded more than 13,000 new cases in a day, one of the highest daily totals since October. 
  <p class="updated_time"> 08:53 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-nhs-field-hospitals-omicron.html">U.K. Plans Field Wards to Meet Omicron Surge</a> NYT: Unlike the “Nightingale hospitals” that went largely unused during the first virus wave, the new facilities are designed for patients needing less intensive treatment. 
- <p class="updated_time"> 07:49 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/asia/china-xian-lockdown-covid.html">China Keeps 13 Million in Xi’an Under Strict Lockdown </a> NYT: The severe measures in Xi’an have prompted concern, as residents complain on social media of having trouble ordering food online. 
- <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/europe/most-popular-dispatches-2021.html">In 2021, We Were There: The Year’s 14 Most Popular Dispatches</a> NYT: Not even a pandemic, wars or autocrats could prevent our correspondents from seeking out secrets and surprises to share with readers. They sent dispatches from 40 countries on six continents. 
  <p class="updated_time"> 06:04 PM CT, Dec. 27 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59733533?at_medium=RSS&at_campaign=KARANGA">‘The doctors came and I had to tell my father he was dying’</a> BBC: Is it always appropriate for relatives to interpret for deaf loved ones? 
 
@@ -198,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:13 PM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/harry-reid-to-lie-in-state-in-capitol-rotunda-526381">Harry Reid to lie in state in Capitol Rotunda</a> Politico: The former Senate majority leader died last Tuesday. 
  <p class="updated_time"> 08:20 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/pentagon-lloyd-austin-covid-526376">Pentagon chief Austin tests positive for Covid-19</a> Politico: Austin, who is fully vaccinated and has received a booster shot, said he will quarantine at home for the next five days. 
  <p class="updated_time"> 08:05 PM CT, Jan. 02 </p> 
