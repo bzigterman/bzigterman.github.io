@@ -18,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383184?at_medium=RSS&at_campaign=KARANGA">Green Connect: The farm helping refugees build a life in Australia</a> BBC: It has employed 5,000 people in the past decade and "dramatically" changed fortunes, refugees say. 
  <p class="updated_time"> 05:08 PM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59855440?at_medium=RSS&at_campaign=KARANGA">Emily in Paris: Ukraine complains over Kiev character stereotype</a> BBC: Ukraine's culture minister has described the portrayal of a character from Kiev as "insulting". 
+ <a href="https://www.bbc.co.uk/news/world-europe-59855440?at_medium=RSS&at_campaign=KARANGA">Emily in Paris: Ukraine complains over Kyiv character stereotype</a> BBC: Ukraine's culture minister has described the portrayal of a character from Kyiv as "insulting". 
  <p class="updated_time"> 04:58 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/abdalla-hamdok-resigns-sudan.html">Sudan’s Prime Minister, Abdalla Hamdok, Resigns</a> NYT: Mr. Hamdok was restored to power a month ago after being deposed in a coup, but he was never able to gain control of the fractious country. 
  <p class="updated_time"> 03:41 PM CT, Jan. 02 </p> 
