@@ -7,20 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:21 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/africa/south-africa-parliament-fire-suspect.html">South Africa Parliament: Suspect Charged in Fire to Appear in Court</a> NYT: A 49-year-old man is facing charges of arson and theft in the Sunday blaze, which heavily damaged legislative buildings in Cape Town. 
+ <p class="updated_time"> 09:19 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59855246?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Prime Minister Abdalla Hamdok resigns after mass protests</a> BBC: Abdalla Hamdok's resignation comes weeks after he was reinstated by the military following a coup. 
+ <p class="updated_time"> 09:13 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59833131?at_medium=RSS&at_campaign=KARANGA">Richard Leakey - fossil expert, conservationist and politician</a> BBC: The achievements of Richard Leakey, who has died aged 77, were as remarkable as they were diverse. 
+ <p class="updated_time"> 09:05 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/asia/india-auction-muslim-women.html">Online ‘Auction’ Is Latest Attack on Muslim Women in India</a> NYT: The fake site, the second in months, is a sign of the organized nature of virtual bullying, with threats of sexualized violence aimed at silencing the outspoken. 
+ <p class="updated_time"> 08:56 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59833267?at_medium=RSS&at_campaign=KARANGA">Brazil's Bolsonaro in hospital with intestinal blockage</a> BBC: President Jair Bolsonaro, who was stabbed in 2018, says doctors are evaluating potential surgery. 
  <p class="updated_time"> 08:42 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59857420?at_medium=RSS&at_campaign=KARANGA">Turkey's inflation hits 36% amid financial turmoil</a> BBC: The cost of living hits a 19-year high as the country refuses to raise its interest rates. 
  <p class="updated_time"> 07:43 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/middleeast/tunisia-economy-kais-saied.html">Pressure Mounts on Tunisia’s President to Salvage the Economy</a> NYT: When President Kais Saied seized power in July, he vowed to rescue the failing economy. Tunisians are still waiting for him to fulfill that pledge. 
- <p class="updated_time"> 07:40 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/asia/india-auction-muslim-women.html">Online ‘Auction’ Is Latest Attack on Muslim Women in India</a> NYT: The fake site, the second in months, is a sign of the organized nature of virtual bullying, with threats of sexualized violence aimed at silencing the outspoken. 
  <p class="updated_time"> 07:31 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59748062?at_medium=RSS&at_campaign=KARANGA">Israeli photographer captures unique bird spoon image</a> BBC: Wildlife photographer Albert Keshet said it was one of the most amazing pictures he had ever taken. 
  <p class="updated_time"> 07:14 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/americas/brazil-bolsonaro-hospitalized.html">Brazil's President, Jair Bolsonaro, Is Hospitalized</a> NYT: Mr. Bolsonaro, who was stabbed while on the campaign trail in 2018, experienced stomach discomfort during his vacation and was flown back to São Paulo. 
  <p class="updated_time"> 07:10 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59824920?at_medium=RSS&at_campaign=KARANGA">S Korea says man who crossed back to North is gymnast defector</a> BBC: It's unclear why the man who jumped a barbed wire fence in 2020 made the perilous return journey. 
- <p class="updated_time"> 06:56 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59833131?at_medium=RSS&at_campaign=KARANGA">Richard Leakey - fossil expert, conservationist and politician</a> BBC: The achievements of Richard Leakey, who has died aged 77, were as remarkable as they were diverse. 
  <p class="updated_time"> 06:54 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/business/china-evergrande-shares-hong-kong.html">China Evergrande Suspends Trading Shares in Hong Kong</a> NYT: The world’s most indebted property developer provided no details on the suspension, but it suggested an announcement “containing inside information” would come soon. 
  <p class="updated_time"> 06:14 AM CT, Jan. 03 </p> 
@@ -29,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
  <p class="updated_time"> 04:32 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59855689?at_medium=RSS&at_campaign=KARANGA">China: Concern over Xi'an residents' midnight quarantine</a> BBC: Some people in Xi'an complained after they were forced out of their homes during a Covid outbreak. 
- <p class="updated_time"> 04:29 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59855246?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Prime Minister Abdalla Hamdok resigns after mass protests</a> BBC: Abdalla Hamdok's resignation comes weeks after he was reinstated by the military following a coup. 
  <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069837718/multiple-factors-including-taliban-takeover-contribute-to-hunger-in-afghanistan">As 2022 starts, most Afghans don't have enough food to eat</a> NPR: Millions of people in Afghanistan are facing hunger and starvation amid a prolonged drought and economic crash. A World Food Program spokesperson says a new urban class of hungry people has emerged. 
  <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
@@ -71,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/world/asia/china-womens-rights.html">China Moves to Overhaul Protections for Women’s Rights, Sort Of</a> NYT: The proposed revisions to a women’s rights law would be the first major changes in nearly 20 years. But many women are skeptical that real progress will follow. 
  <p class="updated_time"> 02:56 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/europe/bosnia-war-putin.html">In the Tinderbox of Bosnia, a Serb Nationalist Lights a Match</a> NYT: Bosnia’s fragile multiethnic government is facing its greatest crisis since the Balkan wars. The Serb nationalist leader, Milorad Dodik, is threatening to tear the country apart. 
- <p class="updated_time"> 01:13 PM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59854916?at_medium=RSS&at_campaign=KARANGA">Marjorie Taylor Greene: Twitter bans congresswoman over Covid misinformation</a> BBC: The congresswoman was suspended after tweeting falsely about high levels of vaccine related deaths. 
  <p class="updated_time"> 11:24 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/europe/venice-calatrava-bridge.html">Venice to Replace Glass on Santiago Calatrava's Slippery Bridge</a> NYT: The city will replace the glass on Santiago Calatrava’s footbridge across the Grand Canal with stone after too many pedestrians fell. 
  <p class="updated_time"> 09:08 AM CT, Jan. 02 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
  <p class="updated_time"> 06:34 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/canada/montreal-bar-mitzvah-photographer.html">Once a Janitor, Now the Bar Mitzvah Photography King of Montreal</a> NYT: With a touch of chutzpah and “a little help from God,” Braulio Rocha, a Roman Catholic Portuguese immigrant, traded in his mop for a camera. 
- <p class="updated_time"> 03:56 PM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/30/obituaries/deaths-in-2021-headline-names-against-the-backdrop-of-pandemic.html">Deaths in 2021: Headline Names Against the Backdrop of Pandemic</a> NYT: Aaron, Sondheim, Dole and Didion. But the loss of Colin Powell from the virus spoke most directly to the moment the world is in. 
  <p class="updated_time"> 03:18 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/biden-putin-russia-ukraine-lavrov.html">Sergey V. Lavrov Accused NATO of Stoking Ukraine Conflict </a> NYT: Sergey V. Lavrov accused the United States and its allies of stoking a conflict in the country’s east in comments that contrasted with a more positive tone coming from Moscow. 
  <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
@@ -188,8 +188,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:15 AM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/news/2022/01/03/fda-authorizes-covid-boosters-for-younger-teens-526392">FDA authorizes Covid boosters for teens 12-15</a> Politico: The agency will also allow some immunocompromised children as young as age 5 to get an additional dose. 
  <p class="updated_time"> 09:42 AM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/trump-endorses-viktor-orban-hungary-526383">Trump endorses Hungary’s Orbán for reelection</a> Politico: “Viktor Orbán of Hungary truly loves his Country and wants safety for his people,” Trump said in a statement. 
+ <a href="https://www.politico.com/news/2022/01/03/trump-endorses-viktor-orban-hungary-526383">Trump endorses Hungary’s Orbán for reelection</a> Politico: It’s not the first time the former president has supported populist foreign leaders with authoritarian tendencies. 
+ <p class="updated_time"> 09:19 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/us/politics/trump-endorses-viktor-orban-hungary.html">Trump Endorses Viktor Orban, Hungary’s Far-Right Prime Minister</a> NYT: Democracy in Hungary has been backsliding under Mr. Orban, whose efforts to consolidate power have caused consternation in the European Union. 
  <p class="updated_time"> 08:32 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/white-house-closures-snow-526382">White House cancels press briefing, citing snow-related federal closures</a> Politico: The National Weather Service on Monday morning issued a winter storm warning for the District of Columbia and adjacent counties in Maryland and Virginia. 
  <p class="updated_time"> 08:06 AM CT, Jan. 03 </p> 
@@ -238,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/02/politics/lloyd-austin-test-positive-covid/index.html">Defense Secretary Austin says he has tested positive for Covid-19</a> CNN: Defense Secretary Lloyd Austin has tested positive for Covid-19 and is exhibiting "mild" symptoms, according to a statement from him released by the Defense Department on Sunday. 
  <p class="updated_time"> 08:38 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">Cheney: January 6 committee has 'firsthand' testimony that Ivanka asked Trump to intervene during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
- <p class="updated_time"> 08:20 PM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/pentagon-lloyd-austin-covid-526376">Pentagon chief Austin tests positive for Covid-19</a> Politico: Austin, who is fully vaccinated and has received a booster shot, said he will quarantine at home for the next five days. 
  <p class="updated_time"> 08:15 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/harry-reid-lie-in-state/index.html">Former Democratic leader Harry Reid to lie in state at US Capitol on January 12</a> CNN: Former Senate Majority Leader Harry Reid will lie in state in the US Capitol Rotunda on January 12, according to a joint statement from House Speaker Nancy Pelosi and Senate Majority Leader Chuck Schumer, an honor given to few statesmen. 
  <p class="updated_time"> 08:05 PM CT, Jan. 02 </p> 
@@ -258,8 +260,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/02/politics/january-6-poll-violence-against-government/index.html">34% of Americans say violence against government is sometimes justified, new poll finds</a> CNN: Thirty-four percent of Americans think violent action against the government is sometimes justified, according to a new poll from The Washington Post and the University of Maryland released days ahead of the one-year anniversary of the insurrection at the US Capitol. 
  <p class="updated_time"> 01:29 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
- <p class="updated_time"> 12:55 PM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/hogan-health-care-covid-maryland-526361">‘You can’t really manufacture doctors and nurses that don’t exist’</a> Politico: Maryland Gov. Larry Hogan said his state is trying everything it can to ensure it has enough health care workers. 
+ <p class="updated_time"> 12:14 PM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-testing-526360">More Covid testing programs on the way for schools, Education secretary says</a> Politico: “We’re working closely now to make sure that they’re being set up,” Miguel Cardona said. 
  <p class="updated_time"> 11:51 AM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/fauci-cdc-to-clarify-guidelines/index.html">Further clarification 'coming very soon' to CDC Covid-19 isolation guidelines</a> CNN: Dr. Anthony Fauci said he anticipates "further clarification" on the US Centers for Disease Control and Prevention's updated guidelines to end the Covid-19 isolation period after just five days for people who are not exhibiting symptoms. 
  <p class="updated_time"> 11:41 AM CT, Jan. 02 </p> 
@@ -339,8 +341,6 @@ permalink: /projects/news/
  <p class="updated_time"> 07:01 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/complaint-doj-foreign-agent-prosecutions-526278">Complaint could roil DOJ foreign-agent prosecutions</a> Politico: Businesswoman Nickie Lum Davis says her guilty plea last year to a charge of unregistered lobbying was coerced. 
  <p class="updated_time"> 07:00 AM CT, Dec. 31 </p> 
- <a href="https://www.politico.com/news/2021/12/31/biden-novavax-production-covid-omicron-526283">Biden officials now fear booster programs will limit global vaccine supply</a> Politico: A looming shortage of doses for low- and moderate-income countries puts increased pressure on Novavax to obtain regulatory approvals for global manufacturing. 
- <p class="updated_time"> 07:00 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/2022-space-race-china-us-526271">‘We’re falling behind’: 2022 seen as a pivotal lap in the space race with China</a> Politico: Washington and Beijing are jockeying for advantage — and international partners — to develop the moon. 
  <p class="updated_time"> 06:10 AM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden pushes Putin for Ukraine de-escalation in second call this month</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
@@ -376,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/29/politics/less-pandemic-federal-aid-stimulus-unemployment/index.html">Less federal aid is coming as Americans enter third year of the pandemic</a> CNN: As Americans enter the third year of the pandemic, they can expect to receive significantly less federal aid. 
  <p class="updated_time"> 10:26 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/harry-reid-shaped-chuck-schumer-526233">‘He’s a press guy, I’m not’: How Harry Reid shaped Chuck Schumer</a> Politico: Schumer called Reid “my leader, my mentor, one of my dearest friends,” after the former Senate majority leader’s death Tuesday. 
- <p class="updated_time"> 09:17 AM CT, Dec. 29 </p> 
- <a href="https://www.politico.com/news/2021/12/29/cdc-defends-new-covid-guidelines-526234">‘This was the moment’: CDC defends altered guidance amid Omicron surge</a> Politico: Director Rochelle Walensky acknowledged that the decision to shorten the recommended isolation period “really had a lot to do with what we thought people would be able to tolerate.” 
  <p class="updated_time"> 06:06 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/agenda/2021/12/29/teachers-districts-hybrid-education-526214">‘I Feel Half as Successful’: Teachers Push to Ban Hybrid Instruction, But Districts Want to Keep It</a> Politico: Teachers want to ban teaching students in person and online at the same time. Some education leaders say it should be what the future looks like. 
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
@@ -386,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/us/politics/mask-mandate-fines-greene-clyde.html">Greene and Clyde Rack Up Fines for Defying House’s Mask Mandate</a> NYT: Representatives Marjorie Taylor Greene and Andrew Clyde have incurred more than $100,000 combined in penalties for dozens of violations. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights Tracker: What to Know About the U.S. Elections Fight</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
- <p class="updated_time"> 10:16 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html">Harry M. Reid, Senate Majority Leader Behind Landmark Democratic Victories, Dies at 82</a> NYT: Mr. Reid, who was from Nevada, displayed his pugilistic instincts as he steered an economic stimulus package and the Affordable Care Act to passage. 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
  <p class="updated_time"> 06:53 PM CT, Dec. 28 </p> 
