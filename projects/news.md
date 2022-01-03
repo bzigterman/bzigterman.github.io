@@ -321,7 +321,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:12 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/capitol-police-chief-short-staffed-526354">Capitol Police chief says force remains short-staffed</a> Politico: “We’re now really about 400 officers short of where we need to be,” J. Thomas Manger said. 
  <p class="updated_time"> 10:05 AM CT, Jan. 02 </p> 
- <a href="https://www.npr.org/2022/01/02/1069753102/twitter-bans-marjorie-taylor-greenes-personal-account-over-covid-misinformation">Twitter bans Marjorie Taylor Greene's personal account over COVID misinformation</a> NPR: A spokesperson for the social media company said it had been clear that it would ban accounts for repeated violations of its COVID-19 misinformation policy. 
+ <a href="https://www.npr.org/2022/01/02/1069753102/twitter-bans-marjorie-taylor-greenes-personal-account-over-covid-misinformation">Facebook suspends Marjorie Taylor Greene's account over COVID misinformation</a> NPR: A spokesperson for the social media company said it had been clear that it would ban accounts for repeated violations of its COVID-19 misinformation policy. 
  <p class="updated_time"> 09:46 AM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/miguel-cardona-warns-school-reopening-covid-surge/index.html">US education secretary warns of 'bumps in the road' as schools reopen amid Covid surge</a> CNN: There will be "bumps in the road" as schools attempt to reopen in the new year amid a record surge in Covid-19 cases, US Education Secretary Miguel Cardona said Sunday. 
  <p class="updated_time"> 09:33 AM CT, Jan. 02 </p> 
