@@ -190,6 +190,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:32 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/white-house-closures-snow-526382">White House cancels press briefing, citing snow-related federal closures</a> Politico: The National Weather Service on Monday morning issued a winter storm warning for the District of Columbia and adjacent counties in Maryland and Virginia. 
+ <p class="updated_time"> 08:06 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/business/economy/child-tax-credit.html">Child Tax Credit’s Extra Help Ends, Just as Covid Surges Anew</a> NYT: A pandemic benefit that many progressives hoped to make permanent has lapsed in a congressional standoff. Researchers say it spared many from poverty. 
+ <p class="updated_time"> 08:05 AM CT, Jan. 03 </p> 
+ <a href="https://www.cnn.com/2022/01/03/politics/biden-meat-processing-industry/index.html">White House to invest $1 billion to boost competition in meat-processing industry and lower consumer prices</a> CNN: The White House on Monday announced it would allocate $1 billion in funding from the American Rescue Plan to independent meat and poultry producers as part of an effort to boost competition in the meat-processing industry and lower prices for consumers. 
  <p class="updated_time"> 07:46 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/03/new-year-same-to-do-list-for-congress-495569">New Year, same to-do list for Congress</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:46 AM CT, Jan. 03 </p> 
@@ -215,7 +219,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:01 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069157693/2022-politics-biden-democrats-election-capitol-riot-abortion-supreme-court">6 questions for politics in 2022</a> NPR: From control of Congress and the strength of the Biden presidency to potential Jan. 6 committee revelations and the future of abortion rights, there's a lot at stake in 2022. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069764164/american-democracy-poll-jan-6">6 in 10 Americans say U.S. democracy is in crisis as the 'big lie' takes root</a> NPR: On the anniversary of the Jan. 6 attack on the U.S. Capitol, a new NPR/Ipsos poll finds that Americans are pessimistic about the future of democracy, as false claims about the 2020 election persist. 
+ <a href="https://www.npr.org/2022/01/03/1069764164/american-democracy-poll-jan-6">6 in 10 Americans say U.S. democracy is in crisis as 'The Big Lie' takes root</a> NPR: A year after the Jan. 6 attack on the U.S. Capitol, a new NPR/Ipsos poll finds that Americans are pessimistic about the future of democracy, as false claims about the 2020 election persist. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/supreme-court-death-penalty-intellectual-disability.html">Language Mistake in Georgia Death Penalty Law Creates a Daunting Hurdle</a> NYT: The Supreme Court will decide whether to hear a challenge to the law, which requires that defendants in capital cases who are intellectually disabled prove it “beyond a reasonable doubt” — a phrase that was inserted in error. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
@@ -238,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/02/politics/harry-reid-lie-in-state/index.html">Former Democratic leader Harry Reid to lie in state at US Capitol on January 12</a> CNN: Former Senate Majority Leader Harry Reid will lie in state in the US Capitol Rotunda on January 12, according to a joint statement from House Speaker Nancy Pelosi and Senate Majority Leader Chuck Schumer, an honor given to few statesmen. 
  <p class="updated_time"> 08:05 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/biden-ukraine-russia-526371">Biden reaffirms support for Ukraine in phone call with president</a> Politico: “President Biden made clear that the United States and its allies and partners will respond decisively if Russia further invades Ukraine,” the White House said. 
- <p class="updated_time"> 06:53 PM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/business/economy/child-tax-credit.html">Child Tax Credit’s Extra Help Ends, Just as Covid Surges Anew</a> NYT: A pandemic benefit that many progressives hoped to make permanent has lapsed in a congressional standoff. Researchers say it spared many from poverty. 
  <p class="updated_time"> 06:34 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 06:14 PM CT, Jan. 02 </p> 
@@ -306,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/nyregion/meisha-porter-nyc-schools-covid.html">Meisha Porter Had 3 Goals as N.Y.C. Schools Chief: ‘Open. Open. Open.’</a> NYT: The departing New York City schools chancellor pulled off a big task in a short period of time: reopening the nation’s largest school district during a pandemic. 
  <p class="updated_time"> 08:04 AM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/01/politics/congress-agenda-2022/index.html">Another government funding deadline is rapidly approaching</a> CNN: Congress has a lengthy to-do list that lawmakers will have to tackle when they return to Washington for the new year after the holiday season. 
- <p class="updated_time"> 07:28 AM CT, Jan. 01 </p> 
- <a href="https://www.cnn.com/2021/12/31/politics/republican-judiciary-committee-deletes-tweet-covid-vaccine-disinfo/index.html">House GOP committee deletes tweet spreading disinformation about Covid-19 booster shots </a> CNN: Republicans on the House Judiciary Committee deleted a tweet Friday morning that spread disinformation about Covid-19 booster shots. 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069610932/week-in-politics-biden-says-there-is-no-federal-solution-to-the-pandemic">Week in politics: Biden says there is no federal solution to the pandemic</a> NPR: President Joe Biden says there's no federal solution to the pandemic as cases climb dramatically. 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
