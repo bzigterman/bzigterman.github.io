@@ -194,6 +194,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:13 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/harry-reid-to-lie-in-state-in-capitol-rotunda-526381">Harry Reid to lie in state in Capitol Rotunda</a> Politico: The former Senate majority leader died last Tuesday. 
+ <p class="updated_time"> 08:38 PM CT, Jan. 02 </p> 
+ <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">Cheney: January 6 committee has 'firsthand' testimony that Ivanka asked Trump to intervene during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
  <p class="updated_time"> 08:20 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/pentagon-lloyd-austin-covid-526376">Pentagon chief Austin tests positive for Covid-19</a> Politico: Austin, who is fully vaccinated and has received a booster shot, said he will quarantine at home for the next five days. 
  <p class="updated_time"> 08:05 PM CT, Jan. 02 </p> 
@@ -204,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 06:21 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/us/politics/jan-6-capitol-riot-anniversary.html">Jan. 6 Panel Faces Difficult Questions as Anniversary of Capitol Riot Approaches</a> NYT: Decisions about subpoenas and a Supreme Court ruling loom as lawmakers, staff members and Capitol employees plan to commemorate the day. 
- <p class="updated_time"> 05:01 PM CT, Jan. 02 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">Cheney: January 6 committee has 'firsthand' testimony that Ivanka asked Trump to intervene during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
  <p class="updated_time"> 04:32 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/canceled-flights-covid-storms-526369">2,300 U.S. flights canceled due to storms, virus</a> Politico: A winter storm that hit the Midwest on Saturday made Chicago the worst place in the country for travelers. 
  <p class="updated_time"> 03:03 PM CT, Jan. 02 </p> 
@@ -243,9 +243,9 @@ permalink: /projects/news/
  <p class="updated_time"> 07:04 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739392/disinformation-fueled-2021-and-2022-will-likely-see-the-same">Disinformation fueled 2021, and 2022 will likely see the same</a> NPR: Disinformation — about the Jan. 6 attack, COVID-19, vaccines, etc. — shaped the nation's politics in 2021 and likely will continue to do so throughout the coming year. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
- <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/house-jan-6-committee-popular-republicans-526092">Poll: House's Jan. 6 probe is popular — even among many Republicans</a> Politico: Three out of five respondents say Trump is responsible for the events that led to the U.S. Capitol riot. 
+ <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/facebook-ad-ban-medical-research-recruitment-526275">Facebook ad ban may squelch medical research recruitment</a> Politico: Overall, clinical trials recruit some 3 million participants in the U.S. a year. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
@@ -340,6 +340,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/us/politics/boosters-12-15-year-olds-omicron.html">F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters</a> NYT: Regulators are also expected to allow even younger children with immune deficiencies to get an extra shot. 
  <p class="updated_time"> 07:39 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/ravnsborg-impeachment-investigation-south-dakota/index.html">South Dakota AG impeachment investigation broadens scope to key officials related to fatal crash</a> CNN: South Dakota lawmakers voted on Wednesday to broaden their examination of the state attorney general's killing of a man in a fatal collision last year. 
+ <p class="updated_time"> 07:29 PM CT, Dec. 30 </p> 
+ <a href="https://www.politico.com/news/2021/12/30/biden-putin-call-526280">Biden-Putin call ushers in new phase of diplomacy</a> Politico: Russia was again urged to ease its military buildup near Ukraine ahead of a pivotal month of talks. 
  <p class="updated_time"> 06:57 PM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/pelosi-january-6-one-year-plans/index.html">Pelosi announces plans to commemorate January 6 anniversary at US Capitol</a> CNN: House Speaker Nancy Pelosi on Thursday announced a slate of events around the US Capitol next week to commemorate the one-year anniversary of the January 6 insurrection. 
  <p class="updated_time"> 06:13 PM CT, Dec. 30 </p> 
