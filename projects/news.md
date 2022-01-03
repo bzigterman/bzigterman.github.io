@@ -7,28 +7,42 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:32 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59855689?at_medium=RSS&at_campaign=KARANGA">China: Concern over Xi'an residents' midnight quarantine</a> BBC: Some people in Xi'an complained after they were forced out of their homes during a Covid outbreak. 
+ <p class="updated_time"> 04:31 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">South Africa parliament: Man arrested over massive fire</a> BBC: Police in Cape Town say a man faces several charges over the fire and will appear in court on Tuesday. 
+ <p class="updated_time"> 04:29 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59855246?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Prime Minister Abdalla Hamdok resigns after mass protests</a> BBC: Abdalla Hamdok's resignation comes weeks after he was reinstated by the military following a coup. 
  <p class="updated_time"> 04:01 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/us-defense-secretary-austin-covid.html">U.S. Defense Secretary Tests Positive for Coronavirus</a> NYT: Lloyd J. Austin III stressed that his fully vaccinated status — including a booster received in early October — was to thank for his mild symptoms. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/travel/nepal-maha-shivaratri.html">Celebrating the ‘Great Night of Shiva’ in Kathmandu</a> NYT: Every year, thousands of celebrants gather at a temple complex in Nepal’s capital in honor of Shiva, one of Hinduism’s most revered gods. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/europe/eu-hungary-threat.html">How the E.U. Allowed Hungary to Become an Illiberal Model</a> NYT: After years of complacency and wishful thinking, Brussels is finally trying to rein in the country’s pugnacious leader, Prime Minister Viktor Orban. 
- <p class="updated_time"> 03:34 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">South Africa parliament: Man arrested over massive fire</a> BBC: Police in Cape Town say a man faces several charges over the fire and will appear in court on Tuesday. 
  <p class="updated_time"> 03:33 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069839447/seoul-north-korea-defector-likely-made-rare-border-crossing-back">Seoul: North Korea defector likely made rare border crossing back</a> NPR: A person who crossed the border from South Korea into North Korea on New Year's Day was likely a defector who had made the trip in the other direction in late 2020, the military said Monday. 
+ <p class="updated_time"> 03:23 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59857168?at_medium=RSS&at_campaign=KARANGA">Virginia Giuffre: Prince Andrew accuser's deal with Jeffrey Epstein to be released</a> BBC: The Duke of York's lawyers believe it could free him from liability in a civil case against him. 
  <p class="updated_time"> 02:46 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59856619?at_medium=RSS&at_campaign=KARANGA">Bulli Bai: India app that put Muslim women up for sale is shut</a> BBC: This was the second recent attempt in India to harass Muslim women by "auctioning" them online. 
+ <p class="updated_time"> 12:03 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59856565?at_medium=RSS&at_campaign=KARANGA">Ex-Australia teen cricketer accuses team official of rape</a> BBC: Police are investigating allegations around the Australian under-19s team's 1985 tour in India. 
  <p class="updated_time"> 11:50 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/africa/richard-leakey-dead.html">Richard Leakey, Kenyan Fossil Hunter and Conservationist, Dies at 77</a> NYT: His discoveries of ancient human skulls and skeletons, including the famed “Turkana Boy,” helped cement Africa’s standing as the cradle of humanity. 
+ <p class="updated_time"> 11:39 PM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59856377?at_medium=RSS&at_campaign=KARANGA">Oxfam India says it's 'severely' hit by ban on foreign funds</a> BBC: The charity says a decision not to renew its licence will severely affect its humanitarian work. 
+ <p class="updated_time"> 11:20 PM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59855881?at_medium=RSS&at_campaign=KARANGA">Evergrande suspends shares in Hong Kong as firm tries to raise cash</a> BBC: The move comes as the indebted property developer struggles to raise cash to meet its obligations. 
  <p class="updated_time"> 11:14 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/03/business/china-evergrande-shares-hong-kong.html">China Evergrande Halts Its Shares in Hong Kong</a> NYT: The world’s most indebted property developer provided no details on the suspension, but it suggested an announcement “containing inside information” would come soon. 
  <p class="updated_time"> 11:05 PM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/03/1069824056/another-hong-kong-news-outlet-to-close-amid-crackdown-on-dissent">Another Hong Kong news site shuts as pro-Beijing lawmakers sworn in</a> NPR: A Hong Kong online news site said Sunday that it will cease operations in light of deteriorating press freedoms, days after police raided a separate pro-democracy news outlet, arresting seven. 
+ <p class="updated_time"> 11:02 PM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59824917?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Pro-democracy website Citizen News is latest to close</a> BBC: The pro-democracy news outlet's closure comes after police raided and arrested staff from Stand News. 
  <p class="updated_time"> 10:04 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/maryland-covid-larry-hogan.html">Governor: Maryland Prepares for 'Terrible Point' in Covid Crisis</a> NYT: Gov. Larry Hogan said the state was trying to staff hospitals through a variety of measures. 
- <p class="updated_time"> 09:22 PM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59855246?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Prime Minister Abdalla Hamdok resigns after mass protests</a> BBC: Abdalla Hamdok's resignation comes weeks after he was reinstated by the military following a coup. 
+ <p class="updated_time"> 06:54 PM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59855445?at_medium=RSS&at_campaign=KARANGA">Richard Leakey: Kenyan conservationist dies aged 77</a> BBC: The Kenyan, who died at 77, was famous for his campaigns against poaching and work on human fossils. 
  <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59728593?at_medium=RSS&at_campaign=KARANGA">Kunal Kamra: The comedians under fire from Hindu nationalists</a> BBC: Kunal Kamra and Munawar Faruqui talk to the BBC about having shows cancelled in the face of right-wring ire. 
  <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
@@ -43,14 +57,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/world/asia/china-womens-rights.html">China Moves to Overhaul Protections for Women’s Rights, Sort Of</a> NYT: The proposed revisions to a women’s rights law would be the first major changes in nearly 20 years. But many women are skeptical that real progress will follow. 
  <p class="updated_time"> 02:56 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/europe/bosnia-war-putin.html">In the Tinderbox of Bosnia, a Serb Nationalist Lights a Match</a> NYT: Bosnia’s fragile multiethnic government is facing its greatest crisis since the Balkan wars. The Serb nationalist leader, Milorad Dodik, is threatening to tear the country apart. 
- <p class="updated_time"> 02:46 PM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59854917?at_medium=RSS&at_campaign=KARANGA">Aoife Beary: Berkeley balcony collapse survivor dies, aged 27</a> BBC: The Irishwoman suffered serious injuries in a Californian balcony collapse that killed six students. 
- <p class="updated_time"> 01:42 PM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59849697?at_medium=RSS&at_campaign=KARANGA">Colorado wildfire: Two people remain missing and presumed dead</a> BBC: A local sheriff previously said it had been a miracle no-one was reported missing or dead. 
  <p class="updated_time"> 01:13 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59854916?at_medium=RSS&at_campaign=KARANGA">Marjorie Taylor Greene: Twitter bans congresswoman over Covid misinformation</a> BBC: The congresswoman was suspended after tweeting falsely about high levels of vaccine related deaths. 
- <p class="updated_time"> 12:24 PM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59853772?at_medium=RSS&at_campaign=KARANGA">Covid: Israel Omicron spike could bring herd immunity but with risks - health boss</a> BBC: Health boss says Omicron may lead to herd immunity but it would be better achieved via vaccination. 
  <p class="updated_time"> 11:24 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/europe/venice-calatrava-bridge.html">Venice to Replace Glass on Santiago Calatrava's Slippery Bridge</a> NYT: The city will replace the glass on Santiago Calatrava’s footbridge across the Grand Canal with stone after too many pedestrians fell. 
  <p class="updated_time"> 09:08 AM CT, Jan. 02 </p> 
@@ -59,14 +67,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59853010?at_medium=RSS&at_campaign=KARANGA">Memorial: Russia’s civil rights group uncovering an uncomfortable past</a> BBC: Memorial, one of the oldest civil rights groups in Russia, was uncovering uncomfortable truths for the authorities. 
  <p class="updated_time"> 08:38 AM CT, Jan. 02 </p> 
  <a href="https://www.wsj.com/articles/major-fire-devastates-south-africas-parliament-11641133916">Fire Inflicts Heavy Damage to South Africa's Parliament Building</a> WSJ: More than 70 firefighters continued to fight the blaze hours after it was reported at the historic Cape Town complex, while police took a man into custody for questioning. 
- <p class="updated_time"> 08:29 AM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59852577?at_medium=RSS&at_campaign=KARANGA">EU flag removed from Arc de Triomphe after right-wing outrage</a> BBC: The French government denies bowing to far-right pressure over the flag at the Arc de Triomphe. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739336/omicron-is-subsiding-in-south-africa">Omicron is subsiding in South Africa</a> NPR: NPR's Eyder Peralta speaks with Dr. Glenda Gray, president of the South African Medical Research Council, about how omicron cases are going down in South Africa, and the lessons for the U.S. 
  <p class="updated_time"> 06:56 AM CT, Jan. 02 </p> 
  <a href="https://www.wsj.com/articles/china-russia-america-military-exercises-weapons-war-xi-putin-biden-11641146041">China and Russia Military Cooperation Raises Prospect of New Challenge to American Power</a> WSJ: Joint military exercises, coordinated weapons development and technology sharing are seen as tools in a campaign to limit U.S. might abroad, military analysts and U.S. officials say. 
- <p class="updated_time"> 06:52 AM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/sport/football/59852819?at_medium=RSS&at_campaign=KARANGA">Lionel Messi: Paris St-Germain forward isolating after testing positive for Covid-19</a> BBC: Argentina forward Lionel Messi is one of four Paris St-Germain players to test positive for Covid-19. 
  <p class="updated_time"> 06:42 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/02/1066099271/child-grooms-are-often-overlooked-in-the-fight-to-stop-child-marriage">Child grooms are often overlooked in the fight to stop child marriage</a> NPR: The U.N. issued its first report on the plight of child grooms. And the pandemic has only made things worse. Here's a report from Nepal, where 1 in 10 boys marry young. 
  <p class="updated_time"> 06:37 AM CT, Jan. 02 </p> 
@@ -83,14 +87,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/italys-embattled-berlusconi-eyes-the-presidency-his-biggest-prize-yet-11641131379">Italy's Embattled Berlusconi Eyes the Presidency, His Biggest Prize Yet</a> WSJ: Rivals have counted the three-time former prime minister out before. But a run for Italy’s presidency would represent the biggest comeback for one of the country’s most divisive figures. 
  <p class="updated_time"> 02:10 AM CT, Jan. 02 </p> 
  <a href="https://www.wsj.com/articles/south-korea-says-individual-entered-north-korea-through-dmz-11641129034">South Korea Says Individual Entered North Korea Through DMZ</a> WSJ: Details about the unidentified person’s motive and current status remain under investigation, South Korea’s military said. 
- <p class="updated_time"> 02:03 AM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59851097?at_medium=RSS&at_campaign=KARANGA">South Korean crosses DMZ in rare defection to North Korea</a> BBC: Seoul said it had asked the North, which has a shoot-on-sight policy, to protect the person. 
- <p class="updated_time"> 01:33 AM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/sport/basketball/59851107?at_medium=RSS&at_campaign=KARANGA">Curry breaks own NBA three-pointer record</a> BBC: Stephen Curry breaks his own NBA record for three-pointers in consecutive games as he leads the Golden State Warriors to a 123-116 win over the Utah Jazz. 
- <p class="updated_time"> 11:30 PM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59850093?at_medium=RSS&at_campaign=KARANGA">EU plans to label gas and nuclear energy 'green' prompt row</a> BBC: A European Commission proposal says the two energy sources are key to a green transition. 
- <p class="updated_time"> 09:03 PM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59849898?at_medium=RSS&at_campaign=KARANGA">Denmark to make domestic flights fossil fuel free by 2030</a> BBC: The PM wants domestic flights to go green, as part of ambitious national plans to cut emissions. 
  <p class="updated_time"> 08:40 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/31/business/china-evergrande-default-publicity.html">What Default? With Confetti and Fanfare, Evergrande Says It’s Ready to Build.</a> NYT: Weeks after signaling it could no longer go on, the troubled Chinese property developer has pledged to start paying its workers and completing projects again. Buyers are skeptical. 
  <p class="updated_time"> 06:55 PM CT, Jan. 01 </p> 
@@ -266,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/02/1069739392/disinformation-fueled-2021-and-2022-will-likely-see-the-same">Disinformation fueled 2021, and 2022 will likely see the same</a> NPR: Disinformation — about the Jan. 6 attack, COVID-19, vaccines, etc. — shaped the nation's politics in 2021 and likely will continue to do so throughout the coming year. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
- <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/facebook-ad-ban-medical-research-recruitment-526275">Facebook ad ban may squelch medical research recruitment</a> Politico: Overall, clinical trials recruit some 3 million participants in the U.S. a year. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739385/house-committee-member-describes-what-has-been-uncovered-a-year-after-jan-6">House committee member describes what has been uncovered a year after Jan. 6</a> NPR: Eyder Peralta speaks with Rep. Zoe Lofgren, D-Calif., a member of the House committee investigating the Jan. 6 attack on the Capitol as the 1-year anniversary approaches. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
