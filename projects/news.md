@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:38 PM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59861831?at_medium=RSS&at_campaign=KARANGA">Prince Andrew accuser’s deal with Epstein released</a> BBC: It shows Virginia Giuffre agreed not to sue anyone who could be described as a "potential defendant". 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069983235/richard-leakey-whose-discoveries-helped-prove-mankind-began-in-africa-is-dead-at">Richard Leakey, whose discoveries helped prove mankind began in Africa, is dead at 77</a> NPR: Famed Kenyan conservationist and fossil hunter Richad Leakey has died at age 77. His discoveries helped prove Africa was the cradle of civilization. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/europe/hungary-european-union.html">How the European Union Allowed Hungary to Become an Illiberal Model</a> NYT: After years of complacency and wishful thinking, Brussels is finally trying to rein in the country’s pugnacious leader, Prime Minister Viktor Orban. 
  <p class="updated_time"> 02:54 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59863052?at_medium=RSS&at_campaign=KARANGA">Haiti PM Ariel Henry survived assassination attempt - officials</a> BBC: Ariel Henry was targeted by gunmen during an event in Gonaïves on Saturday, his office says. 
- <p class="updated_time"> 02:23 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59861831?at_medium=RSS&at_campaign=KARANGA">Prince Andrew accuser’s deal with Epstein released</a> BBC: It shows Virginia Giuffre agreed not to sue anyone who could be described as a "potential defendant". 
  <p class="updated_time"> 02:22 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59863152?at_medium=RSS&at_campaign=KARANGA">South Africa's parliament building on fire again</a> BBC: One day after a fire at the parliament building in Cape Town, crews are tackling another blaze. 
  <p class="updated_time"> 02:00 PM CT, Jan. 03 </p> 
@@ -192,6 +192,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:38 PM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/news/2022/01/03/elizabeth-holmes-jury-fraud-526443">Elizabeth Holmes jury split on 3 of 11 fraud charges</a> Politico: “Take as much time as necessary,” the judge instructed the panel. 
+ <p class="updated_time"> 05:31 PM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/news/2022/01/03/new-hampshire-primary-bill-gardner-526438">First-in-the-nation primary loses its top champion — but the calendar probably isn’t changing</a> Politico: New Hampshire Secretary of State Bill Gardner is retiring after years spent defending the state's place in the presidential calendar. 
+ <p class="updated_time"> 04:39 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/us/politics/senate-returns-agenda.html">Senate Returns to Deal With Biden’s Stalled Agenda</a> NYT: The president’s domestic policy ambitions hang in the balance, but little legislative action is expected ahead of the anniversary of the Jan. 6 riot. 
  <p class="updated_time"> 04:13 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/technology/facebook-marjorie-taylor-greene.html">Facebook Suspends Marjorie Taylor Greene’s Account for 24 hours</a> NYT: Twitter permanently banned her account on Sunday after what the company said was her fifth “strike.” 
  <p class="updated_time"> 04:11 PM CT, Jan. 03 </p> 
@@ -378,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
  <p class="updated_time"> 08:17 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Biden administration results in more of the same Trump immigration policies</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
- <p class="updated_time"> 07:56 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
  <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-administration-shifting-covid-guidance/index.html">Analysis: Biden administration signals pandemic strategy shift in the face of Omicron </a> CNN: America is plunging into a fast-worsening and frightening winter bout with Covid-19 that will leave few citizens and communities untouched. But as the highly transmissible Omicron variant roars across the country, the Biden administration is revealing the most tangible signs of a shifting pandemic strategy several weeks in the making. It is preparing a nation exhausted by two years of battling the invisible enemy to live more feasibly alongside it. 
  <p class="updated_time"> 09:43 PM CT, Dec. 29 </p> 
