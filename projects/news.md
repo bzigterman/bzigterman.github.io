@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:50 PM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59863053?at_medium=RSS&at_campaign=KARANGA">Canadian families win compensation over jet downed by Iran</a> BBC: Relatives of six people who died when a plane was downed in 2020 will be compensated in Canada. 
+ <p class="updated_time"> 04:48 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/africa/sudan-prime-minister-abdalla-hamdok.html">Sudan Braces for ‘the Worst’ after Prime Minister Resigns</a> NYT: With the departure of the civilian prime minister Abdalla Hamdok on Sunday, the military and security forces are now fully in control of Sudan again. 
  <p class="updated_time"> 04:38 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59861831?at_medium=RSS&at_campaign=KARANGA">Prince Andrew accuser’s deal with Epstein released</a> BBC: It shows Virginia Giuffre agreed not to sue anyone who could be described as a "potential defendant". 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
@@ -65,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/attacks-on-u-s-allies-raise-tensions-on-anniversary-of-killing-of-irans-soleimani-11641231599">Attacks on U.S. Allies Raise Tensions on Anniversary of Killing of Iran's Soleimani</a> WSJ: Explosive-laden drones targeted Baghdad’s airport and Yemen’s Houthi rebels seized an Emirati-flagged ship on the second anniversary of Maj. Gen. Qassem Soleimani’s death. 
  <p class="updated_time"> 07:14 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/americas/brazil-bolsonaro-hospitalized.html">Brazil's President, Jair Bolsonaro, Is Hospitalized</a> NYT: Mr. Bolsonaro, who was stabbed while on the campaign trail in 2018, experienced stomach discomfort during his vacation and was flown back to São Paulo. 
- <p class="updated_time"> 07:10 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59824920?at_medium=RSS&at_campaign=KARANGA">S Korea says man who crossed back to North is gymnast defector</a> BBC: It's unclear why the man who jumped a barbed wire fence in 2020 made the perilous return journey. 
  <p class="updated_time"> 07:09 AM CT, Jan. 03 </p> 
  <a href="https://www.wsj.com/articles/turkeys-erdogan-says-he-will-visit-saudi-arabia-in-february-11641233361">Erdogan Says He Will Visit Saudi Arabia in February</a> WSJ: A once-unimaginable meeting between the Turkish leader and the Saudi crown prince would signal detente in a rift that has divided the Middle East for years. 
  <p class="updated_time"> 06:54 AM CT, Jan. 03 </p> 
@@ -196,8 +198,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/elizabeth-holmes-jury-fraud-526443">Elizabeth Holmes jury split on 3 of 11 fraud charges</a> Politico: “Take as much time as necessary,” the judge instructed the panel. 
  <p class="updated_time"> 05:31 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/new-hampshire-primary-bill-gardner-526438">First-in-the-nation primary loses its top champion — but the calendar probably isn’t changing</a> Politico: New Hampshire Secretary of State Bill Gardner is retiring after years spent defending the state's place in the presidential calendar. 
+ <p class="updated_time"> 04:55 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/business/economy/inflation-democrats-corporations.html">Democrats Blast Corporate Profits as Inflation Surges</a> NYT: Politicians are placing more blame on greedy companies as prices stay high. But booming consumer demand is enabling firms to charge more. 
  <p class="updated_time"> 04:39 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/senate-returns-agenda.html">Senate Returns to Deal With Biden’s Stalled Agenda</a> NYT: The president’s domestic policy ambitions hang in the balance, but little legislative action is expected ahead of the anniversary of the Jan. 6 riot. 
+ <a href="https://www.nytimes.com/2022/01/03/us/politics/senate-democrats-biden-agenda.html">Senate Returns to Deal With Biden’s Stalled Agenda</a> NYT: The president’s domestic policy ambitions hang in the balance, but little legislative action is expected ahead of the anniversary of the Jan. 6 riot. 
  <p class="updated_time"> 04:13 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/technology/facebook-marjorie-taylor-greene.html">Facebook Suspends Marjorie Taylor Greene’s Account for 24 hours</a> NYT: Twitter permanently banned her account on Sunday after what the company said was her fifth “strike.” 
  <p class="updated_time"> 04:11 PM CT, Jan. 03 </p> 
@@ -222,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/03/politics/biden-meat-processing-industry/index.html">White House to invest $1 billion to boost competition in meat-processing industry and lower consumer prices</a> CNN: The White House on Monday announced it would allocate $1 billion in funding from the American Rescue Plan to independent meat and poultry producers as part of an effort to boost competition in the meat-processing industry and lower prices for consumers. 
  <p class="updated_time"> 02:21 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069970063/new-hampshires-longtime-guardian-of-its-early-presidential-primary-is-stepping-d">New Hampshire's longtime guardian of its early presidential primary is stepping down</a> NPR: Secretary of State William Gardner, who earned a national reputation as gatekeeper of New Hampshire's first-in-the-nation presidential primary, has held the office since 1976. 
- <p class="updated_time"> 01:45 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/business/economy/inflation-democrats-corporations.html">Democrats Blast Corporate Profits as Inflation Surges</a> NYT: Politicians are placing more blame on greedy companies as prices stay high. But booming consumer demand is enabling firms to charge more. 
  <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/marjorie-taylor-greene-facebook-suspension-526398">MTG hit with Facebook suspension after Twitter ban</a> Politico: “Facebook has joined Twitter in censoring me,” Greene (R-Ga.) wrote on Gettr, a social media platform favored by some right-wing conservatives. 
  <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
