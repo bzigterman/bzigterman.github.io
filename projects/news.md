@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:39 AM CT, Jan. 03 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2022/01/03/1059018377/photos-poland-belarus-border-migrants-volunteers">This photographer captured how activists helped migrants at the Poland-Belarus border</a> NPR: Polish-based photographer Kasia Strek documented what it was like for migrants and people in Poland as the crisis evolved at the border in November. 
  <p class="updated_time"> 09:21 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/africa/south-africa-parliament-fire-suspect.html">South Africa Parliament: Suspect Charged in Fire to Appear in Court</a> NYT: A 49-year-old man is facing charges of arson and theft in the Sunday blaze, which heavily damaged legislative buildings in Cape Town. 
  <p class="updated_time"> 09:19 AM CT, Jan. 03 </p> 
@@ -131,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/01/1069610953/waste-pickers-in-istanbul-are-being-targeted-for-deportation">'Waste pickers' in Istanbul are being targeted for deportation</a> NPR: In Istanbul, many recent immigrants make their living by sifting through trash for items to recycle. But recent immigration raids have made the work far riskier. 
  <p class="updated_time"> 06:54 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/hindu-shrine-stampede-kashmir.html">At Least 12 Die in Stampede at a Hindu Shrine in Kashmir</a> NYT: Thousands of devotees were visiting the Mata Vaishno Devi shrine to mark the beginning of the year. 
- <p class="updated_time"> 06:39 AM CT, Jan. 01 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/01/01/1062815252/flood-survivors-former-sex-slaves-fantastic-masks-top-global-photo-stories-of-20">Flood survivors, former sex slaves, fantastic masks: Top global photo stories of 2021</a> NPR: The power of photos can be seen in our most popular picture essays of the year, with compelling images from South Sudan, the Philippines, Mexico (check out those artistic face coverings) and more. 
  <p class="updated_time"> 06:17 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59845938?at_medium=RSS&at_campaign=KARANGA">Desmond Tutu funeral: Anti-apartheid campaigner remembered in Cape Town</a> BBC: The anti-apartheid campaigner and Nobel Peace Prize winner died last Sunday, aged 90. 
  <p class="updated_time"> 05:00 AM CT, Jan. 01 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/03/new-year-same-to-do-list-for-congress-495569">New Year, same to-do list for Congress</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:46 AM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/donald-trump-january-6-committee/index.html">January 6 committee gets inside Trump's West Wing wall of obstruction </a> CNN: The House select committee probing the January 6 insurrection is signaling that it has penetrated Donald Trump's wall of obstruction about what was going on inside the White House and his own family while he refused to stop the mob attack on the US Capitol a year ago this week. 
+ <p class="updated_time"> 07:17 AM CT, Jan. 03 </p> 
+ <a href="https://www.cnn.com/videos/politics/2022/01/03/january-6-capitol-riot-anniversary-lookahead-smerconish-nd-vpx.cnn">What to expect on the first anniversary of the January 6th Capitol riot</a> CNN: CNN's Michael Smerconish joins New Day to discuss what to expect as the first anniversary of the January 6th attack on the Capitol approaches. 
  <p class="updated_time"> 07:15 AM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/january-6-committee-firsthand-knowledge-trump-actions/index.html">January 6 committee has 'firsthand' knowledge of Trump's behavior during riot from multiple sources </a> CNN: The House select committee investigating the January 6 Capitol Hill insurrection has information from multiple sources with firsthand knowledge that describe what then-President Donald Trump was doing during the riot, according to a person familiar with the investigation. 
  <p class="updated_time"> 06:05 AM CT, Jan. 03 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/31/politics/biden-new-years-eve/index.html">Biden rings in new year, says there's 'no quit in America'</a> CNN: In a New Year's Eve message Friday, President Joe Biden said he's "more optimistic about America's future than I've ever been." 
  <p class="updated_time"> 07:40 PM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/kerik-documents-jan-6-committee-526297">Bernard Kerik provides batch of documents to Jan. 6 select committee</a> Politico: The former New York City Police commissioner also provided a “privilege log” describing materials he declined to provide to the committee. 
- <p class="updated_time"> 05:27 PM CT, Dec. 31 </p> 
- <a href="https://www.cnn.com/2021/12/31/politics/january-6-potential-threats-no-specifics/index.html">Federal officials warn January 6 anniversary 'may be exploited by threat actors' but cite no specific or credible threats</a> CNN: Federal officials are warning that "threat actors" may take advantage of the upcoming anniversary of the January 6 attack on the US Capitol, though there are currently no specific or credible threats, according to an intelligence assessment issued Thursday to state and local officials. 
  <p class="updated_time"> 05:13 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/us/politics/john-roberts-supreme-court.html">Chief Justice Roberts Reflects on Conflicts, Harassment and Judicial Independence</a> NYT: In his year-end report, the chief justice said that the court administrators, not Congress, should address financial conflicts and workplace misconduct in the judicial system. 
  <p class="updated_time"> 05:00 PM CT, Dec. 31 </p> 
@@ -392,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/28/trump-organization-pga-settlement-526207">Trump Organization and PGA reach settlement over 2022 championship dispute</a> Politico: No details were released, but the tournament still won’t be held at Bedminster as a result of the Jan. 6 Capitol riot. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/28/bunny-mellons-millions-at-play-in-dc-divorce-495554"> Bunny Mellon’s millions at play in D.C. divorce</a> Politico Playbook: And the CDC Monday shortened the isolation period for people who test positive for Covid-19 and are asymptomatic 
- <p class="updated_time"> 09:36 AM CT, Dec. 27 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/27/the-view-struggles-to-find-a-republican-495553"> ‘The View’ struggles to find a Republican</a> Politico Playbook: And coronavirus cases spike to record levels across the world. 
 
 
 </details>
