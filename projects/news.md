@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:53 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/africa/south-africa-parliament-fire-suspect.html">South Africa Parliament: Suspect Charged in Fire to Appear in Court</a> NYT: A 49-year-old man is facing charges of arson and theft in the blaze, which started Sunday and has heavily damaged legislative buildings in Cape Town. 
- <p class="updated_time"> 10:21 AM CT, Jan. 03 </p> 
+ <p class="updated_time"> 11:26 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59861831?at_medium=RSS&at_campaign=KARANGA">Prince Andrew accuser’s deal with Epstein released</a> BBC: A 2009 settlement shows Virginia Roberts agreed not to sue anyone who could be described as a "potential defendant" in that case. 
+ <p class="updated_time"> 11:21 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/africa/south-africa-parliament-fire-suspect.html">South Africa Parliament: Suspect Charged in Fire to Appear in Court</a> NYT: A 49-year-old man is facing charges of arson and theft in the blaze, which started Sunday and heavily damaged legislative buildings in Cape Town. 
+ <p class="updated_time"> 11:04 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59861556?at_medium=RSS&at_campaign=KARANGA">South Africa parliament fire flares up again</a> BBC: Firefighters are trying to douse the blaze which reignited hours after it was said to be under control. 
+ <p class="updated_time"> 11:01 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/africa/richard-leakey-dead.html">Richard Leakey, Kenyan Fossil Hunter and Conservationist, Dies at 77</a> NYT: His discoveries of ancient human skulls and skeletons, including the famed “Turkana Boy,” helped cement Africa’s standing as the cradle of humanity. 
+ <p class="updated_time"> 10:59 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/africa/abdalla-hamdok-resigns-sudan.html">Sudan’s Prime Minister, Abdalla Hamdok, Resigns</a> NYT: Mr. Hamdok was restored to power a month ago after being deposed in a coup, but he was never able to gain control of the fractious country. 
  <p class="updated_time"> 10:21 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069888035/famed-fossil-hunter-and-conservationist-richard-leakey-dies-at-77">Famed fossil hunter and conservationist Richard Leakey dies at 77</a> NPR: Leakey made important contributions to our understanding of human origins through his fossil finds. He later gained fame for taking on poachers who threatened to wipe out Kenya's elephants and rhinos. 
  <p class="updated_time"> 10:13 AM CT, Jan. 03 </p> 
@@ -61,16 +67,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/travel/nepal-maha-shivaratri.html">Celebrating the ‘Great Night of Shiva’ in Kathmandu</a> NYT: Every year, thousands of celebrants gather at a temple complex in Nepal’s capital in honor of Shiva, one of Hinduism’s most revered gods. 
  <p class="updated_time"> 03:33 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069839447/seoul-north-korea-defector-likely-made-rare-border-crossing-back">Seoul: North Korea defector likely made rare border crossing back</a> NPR: A person who crossed the border from South Korea into North Korea on New Year's Day was likely a defector who had made the trip in the other direction in late 2020, the military said Monday. 
- <p class="updated_time"> 03:23 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59857168?at_medium=RSS&at_campaign=KARANGA">Virginia Giuffre: Prince Andrew accuser's deal with Jeffrey Epstein to be released</a> BBC: The Duke of York's lawyers believe it could free him from liability in a civil case against him. 
  <p class="updated_time"> 02:46 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59856619?at_medium=RSS&at_campaign=KARANGA">Bulli Bai: India app that put Muslim women up for sale is shut</a> BBC: This was the second recent attempt in India to harass Muslim women by "auctioning" them online. 
  <p class="updated_time"> 01:26 AM CT, Jan. 03 </p> 
  <a href="https://www.wsj.com/articles/man-who-crossed-dmz-into-north-korea-is-a-previous-defector-11641212793">Man Who Crossed DMZ Into North Korea Is a Previous Defector</a> WSJ: The defector, who said he had been a gymnast and who evaded South Korea’s border controls to enter North Korea late last week, had used virtually the same route a year ago to defect from the North. 
  <p class="updated_time"> 12:15 AM CT, Jan. 03 </p> 
  <a href="https://www.wsj.com/articles/sudans-prime-minister-resigns-as-political-crisis-worsens-11641208528">Sudan's Prime Minister Resigns as Political Crisis Worsens</a> WSJ: Abdalla Hamdok resignation marks the latest disruption to the strategically-located nation, as it attempts to transition to democracy following the end of Omar al Bashir’s three-decade reign. 
- <p class="updated_time"> 11:50 PM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/africa/richard-leakey-dead.html">Richard Leakey, Kenyan Fossil Hunter and Conservationist, Dies at 77</a> NYT: His discoveries of ancient human skulls and skeletons, including the famed “Turkana Boy,” helped cement Africa’s standing as the cradle of humanity. 
  <p class="updated_time"> 11:30 PM CT, Jan. 02 </p> 
  <a href="https://www.wsj.com/articles/china-is-haunted-by-its-one-child-policy-as-it-tries-to-encourage-couples-to-conceive-11641205807">China Is Haunted by One-Child Policy as It Encourages Couples to Conceive</a> WSJ: A legacy of China’s one-child policy is a dwindling number of women of childbearing age as well as a generation of only children who are less eager to marry and start a family. 
  <p class="updated_time"> 11:05 PM CT, Jan. 02 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59728593?at_medium=RSS&at_campaign=KARANGA">Kunal Kamra: The comedians under fire from Hindu nationalists</a> BBC: Kunal Kamra and Munawar Faruqui talk to the BBC about having shows cancelled in the face of right-wring ire. 
  <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383184?at_medium=RSS&at_campaign=KARANGA">Green Connect: The farm helping refugees build a life in Australia</a> BBC: It has employed 5,000 people in the past decade and "dramatically" changed fortunes, refugees say. 
- <p class="updated_time"> 04:58 PM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/world/africa/abdalla-hamdok-resigns-sudan.html">Sudan’s Prime Minister, Abdalla Hamdok, Resigns</a> NYT: Mr. Hamdok was restored to power a month ago after being deposed in a coup, but he was never able to gain control of the fractious country. 
  <p class="updated_time"> 03:41 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Is 'Gutted' by Large Fire</a> NYT: Officials warned that the damage to the buildings would be extensive. A man was arrested on Sunday morning inside the parliamentary complex, Parliament’s spokesman said. 
  <p class="updated_time"> 03:03 PM CT, Jan. 02 </p> 
@@ -161,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/sports/football/kirk-cousins-covid.html">Kirk Cousins Tests Positive for Covid-19</a> NYT: Cousins was placed on the team’s Covid-19 reserve list for at least five days, threatening Minnesota’s playoff chances. 
  <p class="updated_time"> 12:57 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/americas/quebec-new-years-eve-curfew.html">Quebec Government Faces Backlash Over New Year’s Eve Curfew</a> NYT: Residents who leave their homes past 10 p.m. could face fines of up to $4,750. 
- <p class="updated_time"> 12:32 PM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/30/arts/music/sam-fender.html">Sam Fender, a Songwriter Caught Between Stardom and His Hometown</a> NYT: The musician is fast becoming one of Britain’s biggest rock acts with tracks about working class life in North Shields. Can he let himself leave the town? 
  <p class="updated_time"> 12:31 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/germany-new-year-speech-olaf-scholz-covid.html">In New Year's Speech, Olaf Scholz, Germany's New Leader, Focuses on Covid</a> NYT: Olaf Scholz, who replaced Angela Merkel as chancellor about three weeks ago, gave the traditional New Year’s Eve address for the first time and called for unity and vaccinations. 
  <p class="updated_time"> 12:16 PM CT, Dec. 31 </p> 
@@ -196,10 +194,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:23 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/capitol-police-union-private-security-proposal-526395">Capitol Police union douses private security proposal</a> Politico: “We need to hire more officers — period. The last thing we need are private security contractors who are not trained to our standards,” the chair of the union said in a statement sent to POLITICO. 
+ <p class="updated_time"> 11:03 AM CT, Jan. 03 </p> 
+ <a href="https://www.cnn.com/2022/01/03/politics/ivanka-donald-trump-jr-subpoena/index.html">NY AG subpoenas Ivanka Trump and Donald Trump, Jr. in civil investigation</a> CNN: The New York attorney general's office has subpoenaed two of former President Donald Trump's children for testimony as part of its civil investigation into whether the Trump Organization manipulated the values of its properties. 
+ <p class="updated_time"> 10:55 AM CT, Jan. 03 </p> 
+ <a href="https://www.cnn.com/2022/01/03/politics/schumer-filibuster-rules-manchin-sinema/index.html">Schumer announces vote to change filibuster rules but faces resistance from Manchin and Sinema</a> CNN: Senate Majority Leader Chuck Schumer announced Monday that the chamber will take a vote on whether to change the Senate's legislative filibuster rules by Martin Luther King Jr. Day on January 17. 
  <p class="updated_time"> 10:48 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/schumer-threatens-vote-on-senate-rules-change-in-january-526394">Schumer threatens imminent vote on Senate rules change</a> Politico: The majority leader said they would debate changes to the chamber's rules unless Republicans allowed a vote on elections reform. 
- <p class="updated_time"> 10:47 AM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/ivanka-donald-trump-jr-subpoena/index.html">NY AG subpoenas Ivanka Trump and Donald Trump, Jr. in civil investigation</a> CNN: The New York attorney general's office has subpoenaed two of former President Donald Trump's children for testimony as part of its civil investigation into whether the Trump Organization manipulated the values of its properties. 
  <p class="updated_time"> 10:15 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/fda-authorizes-covid-boosters-for-younger-teens-526392">FDA authorizes Covid boosters for teens 12-15</a> Politico: The agency will also allow some immunocompromised children as young as age 5 to get an additional dose. 
  <p class="updated_time"> 09:42 AM CT, Jan. 03 </p> 
@@ -223,13 +223,13 @@ permalink: /projects/news/
  <p class="updated_time"> 06:05 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/03/dems-to-use-jan-6-anniversary-to-supercharge-voting-rights-push-495565"> Dems to use Jan. 6 anniversary to supercharge voting rights push</a> Politico Playbook: And Biden says the U.S. would 'respond decisively' if Russia invades Ukraine. 
  <p class="updated_time"> 06:00 AM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/2022-issues-to-watch-what-matters/index.html">2022 brings a daunting set of hurdles for America. Here are the top three</a> CNN: The year ahead brings a daunting set of hurdles for the country with everything from the coronavirus pandemic to pervasive misinformation  challenging our institutions. 
+ <a href="https://www.cnn.com/2022/01/03/politics/2022-issues-to-watch-what-matters/index.html">Analysis: 2022 brings a daunting set of hurdles for America. Here are the top three</a> CNN: The year ahead brings a daunting set of hurdles for the country with everything from the coronavirus pandemic to pervasive misinformation  challenging our institutions. 
  <p class="updated_time"> 05:02 AM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/biden-zelensky-call/index.html">Biden tells Ukrainian president US 'will respond decisively if Russia further invades'</a> CNN: President Joe Biden told Ukrainian President Volodymyr Zelensky on Sunday that the US and its allies "will respond decisively if Russia further invades Ukraine," according to a readout of a call between the two leaders provided by the White House. 
  <p class="updated_time"> 04:31 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/larry-hogan-tour-republicans-trump-526370">Larry Hogan goes on tour to boost Republicans on Trump’s enemies list</a> Politico: The Maryland governor is looking to help GOP impeachment backers and others who have drawn Trump-supported challengers. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/january-6-capitol-riot-house-democrats-525975">'It's only gotten worse': The long shadow of the night that broke the House</a> Politico: For most Democrats, the biggest affront wasn't even the violence by Donald Trump's supporters. It was the votes more than 140 of their GOP colleagues took afterward. 
+ <a href="https://www.politico.com/news/2022/01/03/january-6-capitol-riot-house-democrats-525975">‘It’s only gotten worse’: The long shadow of the night that broke the House</a> Politico: For most Democrats, the biggest affront wasn’t even the violence by Donald Trump’s supporters. It was the votes more than 140 of their GOP colleagues took afterward. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/trumpworld-jan-6-526291">They resigned in protest over Jan. 6 — then never went after Trump again</a> Politico: The administration officials who defected from the administration over the riots have almost all receded from public view even as Trump’s stayed put. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
@@ -352,6 +352,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/31/politics/judges-us-capitol-comments/index.html">Judges remind US how crucial it is for democracy that insurrection never happens again</a> CNN: On January 6, rioters streamed past the federal courthouse in Washington, DC, and descended upon the US Capitol. For weeks after the attack, DC's chief judge said she could see National Guard troops from the window in her chambers. 
  <p class="updated_time"> 07:01 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/complaint-doj-foreign-agent-prosecutions-526278">Complaint could roil DOJ foreign-agent prosecutions</a> Politico: Businesswoman Nickie Lum Davis says her guilty plea last year to a charge of unregistered lobbying was coerced. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 31 </p> 
+ <a href="https://www.politico.com/news/2021/12/31/2022-space-race-china-us-526271">‘We’re falling behind’: 2022 seen as a pivotal lap in the space race with China</a> Politico: Washington and Beijing are jockeying for advantage — and international partners — to develop the moon. 
  <p class="updated_time"> 06:10 AM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden pushes Putin for Ukraine de-escalation in second call this month</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 09:24 PM CT, Dec. 30 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/us/politics/boosters-12-15-year-olds-omicron.html">F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters</a> NYT: Regulators are also expected to allow even younger children with immune deficiencies to get an extra shot. 
  <p class="updated_time"> 07:29 PM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/news/2021/12/30/biden-putin-call-526280">Biden-Putin call ushers in new phase of diplomacy</a> Politico: Russia was again urged to ease its military buildup near Ukraine ahead of a pivotal month of talks. 
- <p class="updated_time"> 06:57 PM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/pelosi-january-6-one-year-plans/index.html">Pelosi announces plans to commemorate January 6 anniversary at US Capitol</a> CNN: House Speaker Nancy Pelosi on Thursday announced a slate of events around the US Capitol next week to commemorate the one-year anniversary of the January 6 insurrection. 
  <p class="updated_time"> 06:13 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/white-house-hit-list-kuachua-brillion-xiong.html">California Man on Deadly Mission to White House Is Arrested, Officials Say</a> NYT: Kuachua Brillion Xiong, 25, is being held in the Pottawattamie County Jail in Council Bluffs, Iowa, on charges of making threats against a former president. 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
