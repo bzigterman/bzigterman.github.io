@@ -7,26 +7,30 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:02 PM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59861831?at_medium=RSS&at_campaign=KARANGA">Prince Andrew accuser’s deal with Epstein released</a> BBC: It shows Virginia Giuffre agreed not to sue anyone who could be described as a "potential defendant". 
+ <p class="updated_time"> 02:00 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/africa/south-africa-parliament-fire-suspect.html">South Africa Parliament: Suspect Charged in Fire to Appear in Court</a> NYT: A 49-year-old man is facing charges of arson and theft in the blaze, which started Sunday and heavily damaged legislative buildings in Cape Town. 
+ <p class="updated_time"> 01:59 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/europe/april-ashley-dead.html">April Ashley, London Socialite and Transgender Pioneer, Dies at 86</a> NYT: She modeled for Vogue, partied with John Lennon and Mick Jagger, and married into minor nobility, all while fighting for legal recognition of her gender. 
+ <p class="updated_time"> 01:55 PM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59860096?at_medium=RSS&at_campaign=KARANGA">David Bowie: Singer's estate sells rights to his entire body of work to WCM</a> BBC: Warner Chappell Music say they are "immensely proud" to be "chosen as caretakers". 
+ <p class="updated_time"> 01:53 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/europe/berkeley-balcony-collapse-death.html">Victim of Berkeley Balcony Collapse Dies in Ireland</a> NYT: Aoife Beary, who was left with life-changing injuries after the 2015 accident, died on New Year’s Day, her family said. 
+ <p class="updated_time"> 01:52 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/africa/richard-leakey-dead.html">Richard Leakey, Kenyan Fossil Hunter and Conservationist, Dies at 77</a> NYT: His discoveries of ancient human skulls and skeletons, including the famed “Turkana Boy,” helped cement Africa’s standing as the cradle of humanity. 
  <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/31/us/pentagon-airstrikes-syria-iraq.html">Documents Reveal Flaws in Pentagon Dismissals of Civilian Casualty Claims in Iraq and Syria</a> NYT: A Times investigation found inconsistent approaches to assessing claims of civilians killed by coalition forces — including failures to conduct simple internet searches. 
  <p class="updated_time"> 12:51 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/trump-endorses-viktor-orban-hungary.html">Trump Endorses Viktor Orban, Hungary’s Far-Right Prime Minister</a> NYT: Democracy in Hungary has been backsliding under Mr. Orban, whose efforts to consolidate power have caused consternation in the European Union. 
- <p class="updated_time"> 12:43 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59861831?at_medium=RSS&at_campaign=KARANGA">Prince Andrew accuser’s deal with Epstein released</a> BBC: It shows Virginia Giuffre agreed not to sue anyone who could be described as a "potential defendant". 
  <p class="updated_time"> 12:40 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/03/1069942305/sheep-goats-encourage-vaccination-germany">700 sheep and goats were arranged in the shape of a needle to encourage vaccinations</a> NPR: A shepherd in Germany arranged her animals into a 330-foot syringe to encourage people to get vaccinated. 
  <p class="updated_time"> 11:49 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/europe/eu-hungary-threat.html">How the E.U. Allowed Hungary to Become an Illiberal Model</a> NYT: After years of complacency and wishful thinking, Brussels is finally trying to rein in the country’s pugnacious leader, Prime Minister Viktor Orban. 
- <p class="updated_time"> 11:40 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59860096?at_medium=RSS&at_campaign=KARANGA">David Bowie: Singer's estate sells rights to his entire body of work to WCM</a> BBC: Warner Chappell Music say they are "immensely proud" to be "chosen as caretakers". 
  <p class="updated_time"> 11:34 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069933029/fire-reignites-at-south-africas-parliament-in-cape-town">Fire reignites at South Africa's Parliament in Cape Town</a> NPR: The fire started on Sunday and had been contained, but flared up again on Monday after firefighters had been sent home. A man was arrested in connection with the fire. 
- <p class="updated_time"> 11:21 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/africa/south-africa-parliament-fire-suspect.html">South Africa Parliament: Suspect Charged in Fire to Appear in Court</a> NYT: A 49-year-old man is facing charges of arson and theft in the blaze, which started Sunday and heavily damaged legislative buildings in Cape Town. 
  <p class="updated_time"> 11:04 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59861556?at_medium=RSS&at_campaign=KARANGA">South Africa parliament fire flares up again</a> BBC: Firefighters are trying to douse the blaze which reignited hours after it was said to be under control. 
- <p class="updated_time"> 11:01 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/africa/richard-leakey-dead.html">Richard Leakey, Kenyan Fossil Hunter and Conservationist, Dies at 77</a> NYT: His discoveries of ancient human skulls and skeletons, including the famed “Turkana Boy,” helped cement Africa’s standing as the cradle of humanity. 
  <p class="updated_time"> 10:59 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/abdalla-hamdok-resigns-sudan.html">Sudan’s Prime Minister, Abdalla Hamdok, Resigns</a> NYT: Mr. Hamdok was restored to power a month ago after being deposed in a coup, but he was never able to gain control of the fractious country. 
  <p class="updated_time"> 10:21 AM CT, Jan. 03 </p> 
@@ -155,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
  <p class="updated_time"> 06:34 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/canada/montreal-bar-mitzvah-photographer.html">Once a Janitor, Now the Bar Mitzvah Photography King of Montreal</a> NYT: With a touch of chutzpah and “a little help from God,” Braulio Rocha, a Roman Catholic Portuguese immigrant, traded in his mop for a camera. 
- <p class="updated_time"> 03:56 PM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/30/obituaries/deaths-in-2021-headline-names-against-the-backdrop-of-pandemic.html">Deaths in 2021: Headline Names Against the Backdrop of Pandemic</a> NYT: Aaron, Sondheim, Dole and Didion. But the loss of Colin Powell from the virus spoke most directly to the moment the world is in. 
  <p class="updated_time"> 03:18 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/biden-putin-russia-ukraine-lavrov.html">Sergey V. Lavrov Accused NATO of Stoking Ukraine Conflict </a> NYT: Sergey V. Lavrov accused the United States and its allies of stoking a conflict in the country’s east in comments that contrasted with a more positive tone coming from Moscow. 
  <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/south-africa-omicron-decline.html">South Africa Says It Has Passed Its Fourth Wave of Cases</a> NYT: Case counts are down by 30 percent in the last week, researchers in the country said. 
  <p class="updated_time"> 09:11 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/politics/biden-putin-ukraine-call.html">Putin Warns Biden of ‘Complete Rupture’ of U.S.-Russia Relationship Over Ukraine</a> NYT: President Vladimir V. Putin of Russia spoke with President Biden for 50 minutes about the escalating crisis with Ukraine, but his intentions remained unclear. 
- <p class="updated_time"> 05:48 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-covid-omicron-london-england.html">UK, With Surging Covid-19 Cases, is On '‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
 
 
 </details>
@@ -194,6 +194,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:54 PM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/news/2022/01/03/longtime-new-hampshire-secretary-of-state-retiring-526412">Longtime New Hampshire secretary of state retiring</a> Politico: Bill Gardner, who's held the post since 1976, is a staunch defender of New Hampshire's first-in-the-nation presidential primary. 
+ <p class="updated_time"> 02:36 PM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/news/2022/01/03/ny-ag-subpoenas-trump-jr-ivanka-526404">New York attorney general issued subpoenas to Ivanka, Don. Jr.</a> Politico: Attorney General Letitia James has also sought testimony from the former president and Eric Trump. 
+ <p class="updated_time"> 01:45 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/business/economy/inflation-democrats-corporations.html">Democrats Blast Corporate Profits as Inflation Surges</a> NYT: Politicians are placing more blame on greedy companies as prices stay high. But booming consumer demand is enabling firms to charge more. 
  <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/marjorie-taylor-greene-facebook-suspension-526398">MTG hit with Facebook suspension after Twitter ban</a> Politico: “Facebook has joined Twitter in censoring me,” Greene (R-Ga.) wrote on Gettr, a social media platform favored by some right-wing conservatives. 
  <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
@@ -366,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/us/politics/biden-putin-ukraine-call.html">Putin Warns Biden of ‘Complete Rupture’ of U.S.-Russia Relationship Over Ukraine</a> NYT: President Vladimir V. Putin of Russia spoke with President Biden for 50 minutes about the escalating crisis with Ukraine, but his intentions remained unclear. 
  <p class="updated_time"> 08:43 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/politics/boosters-12-15-year-olds-omicron.html">F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters</a> NYT: Regulators are also expected to allow even younger children with immune deficiencies to get an extra shot. 
- <p class="updated_time"> 07:29 PM CT, Dec. 30 </p> 
- <a href="https://www.politico.com/news/2021/12/30/biden-putin-call-526280">Biden-Putin call ushers in new phase of diplomacy</a> Politico: Russia was again urged to ease its military buildup near Ukraine ahead of a pivotal month of talks. 
  <p class="updated_time"> 06:13 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/white-house-hit-list-kuachua-brillion-xiong.html">California Man on Deadly Mission to White House Is Arrested, Officials Say</a> NYT: Kuachua Brillion Xiong, 25, is being held in the Pottawattamie County Jail in Council Bluffs, Iowa, on charges of making threats against a former president. 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
@@ -380,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/29/us/politics/biden-putin-call-ukraine.html">Biden and Putin Will Hold a Call on Ukraine</a> NYT: The Russian president requested Thursday’s call, which will be the second time in three weeks that the two leaders speak about tensions at the Ukrainian border. 
  <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-administration-shifting-covid-guidance/index.html">Analysis: Biden administration signals pandemic strategy shift in the face of Omicron </a> CNN: America is plunging into a fast-worsening and frightening winter bout with Covid-19 that will leave few citizens and communities untouched. But as the highly transmissible Omicron variant roars across the country, the Biden administration is revealing the most tangible signs of a shifting pandemic strategy several weeks in the making. It is preparing a nation exhausted by two years of battling the invisible enemy to live more feasibly alongside it. 
- <p class="updated_time"> 10:47 PM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/2021/12/29/us/politics/omicron-tests-hospitals.html">Federal Officials Say Early Omicron Data Suggests a Less Deadly Wave</a> NYT: Dr. Rochelle P. Walensky and Dr. Anthony S. Fauci cautioned that hospitalizations and deaths could be lagging behind case counts. 
  <p class="updated_time"> 09:43 PM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/pentagon-guantanamo-secret-courtroom.html">Pentagon Building New Secret Courtroom at Guantánamo Bay</a> NYT: The concept is to permit two military judges to hold proceedings simultaneously starting in mid-2023. 
  <p class="updated_time"> 11:07 AM CT, Dec. 29 </p> 
@@ -396,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
- <p class="updated_time"> 06:53 PM CT, Dec. 28 </p> 
- <a href="https://www.politico.com/news/2021/12/28/michigan-redistricting-congressional-map-526227">Michigan’s new congressional map: 3 battlegrounds, 1 Dem-vs.-Dem primary</a> Politico: Virginia also completed congressional redistricting on Tuesday. 
  <p class="updated_time"> 12:52 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/trump-organization-pga-settlement-526207">Trump Organization and PGA reach settlement over 2022 championship dispute</a> Politico: No details were released, but the tournament still won’t be held at Bedminster as a result of the Jan. 6 Capitol riot. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
