@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:36 PM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59833267?at_medium=RSS&at_campaign=KARANGA">Brazil's Bolsonaro in hospital with intestinal blockage</a> BBC: President Jair Bolsonaro, who was stabbed in 2018, says doctors are evaluating potential surgery. 
  <p class="updated_time"> 04:50 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59863053?at_medium=RSS&at_campaign=KARANGA">Canadian families win compensation over jet downed by Iran</a> BBC: Relatives of six people who died when a plane was downed in 2020 will be compensated in Canada. 
  <p class="updated_time"> 04:48 PM CT, Jan. 03 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59833131?at_medium=RSS&at_campaign=KARANGA">Richard Leakey - fossil expert, conservationist and politician</a> BBC: The achievements of Richard Leakey, who has died aged 77, were as remarkable as they were diverse. 
  <p class="updated_time"> 09:05 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/asia/india-auction-muslim-women.html">Online ‘Auction’ Is Latest Attack on Muslim Women in India</a> NYT: The fake site, the second in months, is a sign of the organized nature of virtual bullying, with threats of sexualized violence aimed at silencing the outspoken. 
- <p class="updated_time"> 08:56 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59833267?at_medium=RSS&at_campaign=KARANGA">Brazil's Bolsonaro in hospital with intestinal blockage</a> BBC: President Jair Bolsonaro, who was stabbed in 2018, says doctors are evaluating potential surgery. 
  <p class="updated_time"> 08:42 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59857420?at_medium=RSS&at_campaign=KARANGA">Turkey's inflation hits 36% amid financial turmoil</a> BBC: The cost of living hits a 19-year high as the country refuses to raise its interest rates. 
  <p class="updated_time"> 07:43 AM CT, Jan. 03 </p> 
