@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:02 PM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/maryland-covid-larry-hogan.html">Governor: Maryland Prepares for 'Terrible Point' in Covid Crisis</a> NYT: Gov. Larry Hogan said the state was trying to staff hospitals through a variety of measures. 
  <p class="updated_time"> 07:54 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/us-defense-secretary-austin-covid.html">U.S. Defense Secretary Tests Positive for Coronavirus</a> NYT: Lloyd J. Austin III stressed that his fully vaccinated status — including a booster received in early October — was to thank for his mild symptoms. 
  <p class="updated_time"> 06:03 PM CT, Jan. 02 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">South Africa parliament: Man arrested over massive fire</a> BBC: Police in Cape Town say a man is facing several charges over the fire and will appear in court on Tuesday. 
  <p class="updated_time"> 01:42 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59849697?at_medium=RSS&at_campaign=KARANGA">Colorado wildfire: Two people remain missing and presumed dead</a> BBC: A local sheriff previously said it had been a miracle no-one was reported missing or dead. 
- <p class="updated_time"> 01:30 PM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/world/maryland-covid-larry-hogan.html">Governor: Maryland Prepares for 'Terrible Point' in Covid Crisis</a> NYT: Gov. Larry Hogan said the state was trying to staff hospitals through a variety of measures. 
  <p class="updated_time"> 01:13 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59854916?at_medium=RSS&at_campaign=KARANGA">Marjorie Taylor Greene: Twitter bans congresswoman over Covid misinformation</a> BBC: The congresswoman was suspended after tweeting falsely about high levels of vaccine related deaths. 
  <p class="updated_time"> 12:24 PM CT, Jan. 02 </p> 
@@ -59,6 +59,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-europe-weigh-isolation-requirements-as-omicron-disrupts-daily-life-11641137748">U.S., Europe Weigh Isolation Requirements as Omicron Disrupts Daily Life</a> WSJ: Countries have been trying to balance health concerns with the risk that quarantine periods sideline medical staff, teachers and other workers for so long that hospitals, schools and other workplaces are unable to function effectively. 
  <p class="updated_time"> 06:24 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069738025/a-major-fire-ravaged-south-africas-parliament-building-in-cape-town">A man is detained after a major fire broke out in South Africa's Parliament building</a> NPR: Around 70 firefighters were still battling the fire hours after it started in the early morning. 
+ <p class="updated_time"> 05:29 AM CT, Jan. 02 </p> 
+ <a href="https://www.wsj.com/articles/want-to-get-away-from-it-all-try-this-luxury-ghost-town-in-africa-11641140955">Want to Get Away From It All? Try This Luxury Ghost Town in Africa</a> WSJ: Equatorial Guinea’s dictator was building a gleaming new capital in the jungle, then the oil money ran out. 
  <p class="updated_time"> 04:54 AM CT, Jan. 02 </p> 
  <a href="https://www.wsj.com/articles/rising-threat-from-china-pushes-u-s-and-japan-to-deepen-military-cooperation-11641138867">Rising Threat From China Pushes U.S. and Japan to Deepen Military Cooperation</a> WSJ: In a camouflaged tent in a forest in northern Japan, U.S. Marines and Japanese soldiers hunched together over maps and laptops, using the planes of one country and the missile launchers of another to attack an imaginary enemy ship. 
  <p class="updated_time"> 04:48 AM CT, Jan. 02 </p> 
