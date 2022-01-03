@@ -192,10 +192,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069983228/during-the-jan-6-riot-chaos-lawmakers-called-on-military-and-intelligence-traini">During the Jan. 6 riot chaos, lawmakers called on military and intelligence training</a> NPR: Representatives Abigail Spanberger, D-Va., and Jason Crow, D-Colo., reflect on the ways their military and intelligence training aided them during the Jan. 6 insurrection at the U.S. Capitol. 
+ <p class="updated_time"> 04:13 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/technology/facebook-marjorie-taylor-greene.html">Facebook Suspends Marjorie Taylor Greene’s Account for 24 hours</a> NYT: Twitter permanently banned her account on Sunday after what the company said was her fifth “strike.” 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/eric-adams-teachers-union-nyc/index.html">'We're staying open': Adams bucks teacher's union request days into new administration</a> CNN: Eric Adams has started his tenure as New York City mayor by rejecting a request from the city's largest teachers' union to temporarily move public schools to remote learning, capping off a frenetic first 72 hours of his administration. 
+ <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
+ <a href="https://www.npr.org/2022/01/03/1069983228/during-the-jan-6-riot-chaos-lawmakers-called-on-military-and-intelligence-traini">During the Jan. 6 riot chaos, lawmakers called on military and intelligence training</a> NPR: Representatives Abigail Spanberger, D-Va., and Jason Crow, D-Colo., reflect on the ways their military and intelligence training aided them during the Jan. 6 insurrection at the U.S. Capitol. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069983200/millions-sympathize-with-the-rioters-who-attacked-the-capitol-on-jan-6-survey-fi">Millions sympathize with the rioters who attacked the Capitol on Jan. 6, survey finds</a> NPR: As the U.S. nears the anniversary of a pro-Trump mob's attack at the Capitol, a survey finds widespread community support for violent insurrection that it calls a new political movement in the U.S. 
  <p class="updated_time"> 03:32 PM CT, Jan. 03 </p> 
@@ -222,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/03/1069946405/new-yorks-attorney-general-has-subpoenaed-ivanka-trump-and-donald-trump-jr">New York's attorney general has subpoenaed Ivanka Trump and Donald Trump Jr. </a> NPR: The subpoenas stem from an ongoing civil investigation into the Trump family's business practices. The former president has also been subpoenaed, and is now suing the attorney general. 
  <p class="updated_time"> 12:15 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/donald-trump-january-6-committee/index.html">Analysis: January 6 committee gets inside Trump's West Wing wall of obstruction </a> CNN: The House select committee probing the January 6 insurrection is signaling that it has penetrated Donald Trump's wall of obstruction about what was going on inside the White House and his own family while he refused to stop the mob attack on the US Capitol a year ago this week. 
- <p class="updated_time"> 12:15 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/technology/facebook-marjorie-taylor-greene.html">Facebook Suspends Marjorie Taylor Greene’s Account for 24 hours</a> NYT: Twitter permanently banned her account on Sunday after what the company said was her fifth “strike.” 
  <p class="updated_time"> 12:03 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069888391/schumer-tees-up-vote-on-rules-change-if-voting-rights-legislation-is-blocked">Schumer tees up vote on rules change if voting rights legislation is blocked </a> NPR: It's the latest push by Senate Democrats to make good on their promise to pass voting rights legislation. 
  <p class="updated_time"> 11:23 AM CT, Jan. 03 </p> 
