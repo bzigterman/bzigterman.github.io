@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:04 PM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/maryland-covid-larry-hogan.html">Governor: Maryland Prepares for 'Terrible Point' in Covid Crisis</a> NYT: Gov. Larry Hogan said the state was trying to staff hospitals through a variety of measures. 
  <p class="updated_time"> 09:22 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59855246?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Prime Minister Abdalla Hamdok resigns after mass protests</a> BBC: Abdalla Hamdok's resignation comes weeks after he was reinstated by the military following a coup. 
- <p class="updated_time"> 09:02 PM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/world/maryland-covid-larry-hogan.html">Governor: Maryland Prepares for 'Terrible Point' in Covid Crisis</a> NYT: Gov. Larry Hogan said the state was trying to staff hospitals through a variety of measures. 
  <p class="updated_time"> 07:54 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/us-defense-secretary-austin-covid.html">U.S. Defense Secretary Tests Positive for Coronavirus</a> NYT: Lloyd J. Austin III stressed that his fully vaccinated status — including a booster received in early October — was to thank for his mild symptoms. 
  <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
@@ -241,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:33 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-closures-526353">Education secretary urges schools to remain open</a> Politico: But Miguel Cardona acknowledged some short-term closures might be needed. 
  <p class="updated_time"> 07:43 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/colorado-wildfires-why-526321">Survivors count blessings after devastating Colorado fire</a> Politico: 2 people remain missing. 
+ <a href="https://www.politico.com/news/2022/01/02/colorado-wildfires-why-526321">Survivors count blessings after devastating Colorado fire</a> Politico: Two people were still missing. 
  <p class="updated_time"> 07:04 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739392/disinformation-fueled-2021-and-2022-will-likely-see-the-same">Disinformation fueled 2021, and 2022 will likely see the same</a> NPR: Disinformation — about the Jan. 6 attack, COVID-19, vaccines, etc. — shaped the nation's politics in 2021 and likely will continue to do so throughout the coming year. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
