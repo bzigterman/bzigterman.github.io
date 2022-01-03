@@ -194,6 +194,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:13 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/technology/facebook-marjorie-taylor-greene.html">Facebook Suspends Marjorie Taylor Greene’s Account for 24 hours</a> NYT: Twitter permanently banned her account on Sunday after what the company said was her fifth “strike.” 
+ <p class="updated_time"> 04:11 PM CT, Jan. 03 </p> 
+ <a href="https://www.cnn.com/2022/01/03/politics/jan-6-capitol-riot-political-violence-what-matters/index.html">New polling shows rising acceptance of political violence 1 year after January 6 riot</a> CNN: A year after the January 6 Capitol Hill insurrection, Americans are increasingly likely to say political violence can be justified. 
+ <p class="updated_time"> 04:07 PM CT, Jan. 03 </p> 
+ <a href="https://www.cnn.com/2022/01/03/politics/new-hampshire-secretary-of-state-retires/index.html">New Hampshire Secretary of State Bill Gardner announces retirement after 45 years as the state's top election official</a> CNN: New Hampshire Secretary of State Bill Gardner announced Monday that he will be retiring, ending his 45-year run as the state's top election official and the most vocal proponent of New Hampshire's status as the first in the nation primary state. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/eric-adams-teachers-union-nyc/index.html">'We're staying open': Adams bucks teacher's union request days into new administration</a> CNN: Eric Adams has started his tenure as New York City mayor by rejecting a request from the city's largest teachers' union to temporarily move public schools to remote learning, capping off a frenetic first 72 hours of his administration. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
@@ -242,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/business/economy/child-tax-credit.html">Child Tax Credit’s Extra Help Ends, Just as Covid Surges Anew</a> NYT: A pandemic benefit that many progressives hoped to make permanent has lapsed in a congressional standoff. Researchers say it spared many from poverty. 
  <p class="updated_time"> 07:46 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/03/new-year-same-to-do-list-for-congress-495569">New Year, same to-do list for Congress</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:17 AM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/videos/politics/2022/01/03/january-6-capitol-riot-anniversary-lookahead-smerconish-nd-vpx.cnn">What to expect on the first anniversary of the January 6th Capitol riot</a> CNN: CNN's Michael Smerconish joins New Day to discuss what to expect as the first anniversary of the January 6th attack on the Capitol approaches. 
  <p class="updated_time"> 07:15 AM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/january-6-committee-firsthand-knowledge-trump-actions/index.html">January 6 panel has 'firsthand' knowledge of Trump's behavior during riot from multiple sources </a> CNN: The House select committee investigating the January 6 Capitol Hill insurrection has information from multiple sources with firsthand knowledge that describe what then-President Donald Trump was doing during the riot, according to a person familiar with the investigation. 
  <p class="updated_time"> 06:05 AM CT, Jan. 03 </p> 
@@ -288,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 06:14 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/biden-january-6-speech/index.html">Biden and Harris to deliver remarks on January 6 anniversary</a> CNN: President Joe Biden and Vice President Kamala Harris will deliver remarks on Thursday to mark the one-year anniversary of the January 6 attack on the US Capitol, the White House said Sunday. 
- <p class="updated_time"> 04:32 PM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/canceled-flights-covid-storms-526369">2,300 U.S. flights canceled due to storms, virus</a> Politico: A winter storm that hit the Midwest on Saturday made Chicago the worst place in the country for travelers. 
  <p class="updated_time"> 03:03 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/joe-manchin-voting-rights-filibuster/index.html">Why Democrats haven't given up on Joe Manchin and voting rights</a> CNN: In 1947, the year Joe Manchin was born, the US Senate killed voting-rights legislation -- again. The "gravedigger," liberal Democrats complained, was filibuster rules empowering its opponents. 
  <p class="updated_time"> 02:18 PM CT, Jan. 02 </p> 
@@ -298,6 +298,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/02/politics/january-6-poll-violence-against-government/index.html">34% of Americans say violence against government is sometimes justified, new poll finds</a> CNN: Thirty-four percent of Americans think violent action against the government is sometimes justified, according to a new poll from The Washington Post and the University of Maryland released days ahead of the one-year anniversary of the insurrection at the US Capitol. 
  <p class="updated_time"> 01:29 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
+ <p class="updated_time"> 12:55 PM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/hogan-health-care-covid-maryland-526361">‘You can’t really manufacture doctors and nurses that don’t exist’</a> Politico: Maryland Gov. Larry Hogan said his state is trying everything it can to ensure it has enough health care workers. 
  <p class="updated_time"> 12:14 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-testing-526360">More Covid testing programs on the way for schools, Education secretary says</a> Politico: “We’re working closely now to make sure that they’re being set up,” Miguel Cardona said. 
  <p class="updated_time"> 11:51 AM CT, Jan. 02 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/31/politics/john-roberts-year-end-report-supreme-court-federal-courts/index.html">Roberts pushes for judiciary's continued independence in year-end report</a> CNN: Chief Justice John Roberts stressed the importance of the judiciary's institutional independence Friday in an annual report that comes as the Supreme Court is considering some of the most important issues of the day, and critics are seeking to dilute the court's conservative majority. 
  <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/31/meet-the-gops-new-national-security-power-broker-495557"> Meet the GOP’s new national security power broker</a> Politico Playbook: And neither Biden nor Putin backs down on a new call. 
- <p class="updated_time"> 07:15 AM CT, Dec. 31 </p> 
- <a href="https://www.cnn.com/2021/12/31/politics/judges-us-capitol-comments/index.html">Judges remind US how crucial it is for democracy that insurrection never happens again</a> CNN: On January 6, rioters streamed past the federal courthouse in Washington, DC, and descended upon the US Capitol. For weeks after the attack, DC's chief judge said she could see National Guard troops from the window in her chambers. 
  <p class="updated_time"> 07:01 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/complaint-doj-foreign-agent-prosecutions-526278">Complaint could roil DOJ foreign-agent prosecutions</a> Politico: Businesswoman Nickie Lum Davis says her guilty plea last year to a charge of unregistered lobbying was coerced. 
  <p class="updated_time"> 09:24 PM CT, Dec. 30 </p> 
