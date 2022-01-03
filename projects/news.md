@@ -203,9 +203,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069764164/american-democracy-poll-jan-6">6 in 10 Americans say U.S. democracy is in crisis as the 'big lie' takes root</a> NPR: On the anniversary of the Jan. 6 attack on the U.S. Capitol, a new NPR/Ipsos poll finds that Americans are pessimistic about the future of democracy, as false claims about the 2020 election persist. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1068396411/a-year-after-capitol-polices-darkest-day-its-chief-says-the-force-is-making-gain">A year after Capitol Police's darkest day, its chief says the force is making gains</a> NPR: Capitol Police Chief Tom Manger has been on the job less than six months. He hopes to lead a new chapter at the embattled agency. 
- <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/supreme-court-death-penalty-intellectual-disability.html">Death Penalty Law Puts Burden on the Intellectually Disabled</a> NYT: The Supreme Court will decide whether to hear a challenge to the law, which requires that defendants in capital cases who are intellectually disabled prove it “beyond a reasonable doubt” — a phrase that was inserted in error. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
+ <a href="https://www.npr.org/2022/01/03/1068396411/a-year-after-capitol-polices-darkest-day-its-chief-says-the-force-is-making-gain">A year after Capitol Police's darkest day, its chief says the force is making gains</a> NPR: Capitol Police Chief Tom Manger has been on the job less than six months. He hopes to lead a new chapter at the embattled agency. 
  <p class="updated_time"> 11:05 PM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/03/1069824056/another-hong-kong-news-outlet-to-close-amid-crackdown-on-dissent">Another Hong Kong news site shuts as pro-Beijing lawmakers sworn in</a> NPR: A Hong Kong online news site said Sunday that it will cease operations in light of deteriorating press freedoms, days after police raided a separate pro-democracy news outlet, arresting seven. 
  <p class="updated_time"> 09:19 PM CT, Jan. 02 </p> 
