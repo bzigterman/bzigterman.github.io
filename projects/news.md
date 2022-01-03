@@ -16,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:14 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/americas/brazil-bolsonaro-hospitalized.html">Brazil's President, Jair Bolsonaro, Is Hospitalized</a> NYT: Mr. Bolsonaro, who was stabbed while on the campaign trail in 2018, experienced stomach discomfort during his vacation and was flown back to São Paulo. 
  <p class="updated_time"> 07:10 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59824920?at_medium=RSS&at_campaign=KARANGA">S Korea says man who crossed to North is gymnast who defected</a> BBC: It's unclear why the man who jumped a barbed wire fence in 2020 made the perilous return journey. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59824920?at_medium=RSS&at_campaign=KARANGA">S Korea says man who crossed back to North is gymnast defector</a> BBC: It's unclear why the man who jumped a barbed wire fence in 2020 made the perilous return journey. 
  <p class="updated_time"> 06:56 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59833131?at_medium=RSS&at_campaign=KARANGA">Richard Leakey - fossil expert, conservationist and politician</a> BBC: The achievements of Richard Leakey, who has died aged 77, were as remarkable as they were diverse. 
  <p class="updated_time"> 06:54 AM CT, Jan. 03 </p> 
