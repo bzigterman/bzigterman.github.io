@@ -198,10 +198,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/elizabeth-holmes-jury-fraud-526443">Elizabeth Holmes jury split on 3 of 11 fraud charges</a> Politico: “Take as much time as necessary,” the judge instructed the panel. 
  <p class="updated_time"> 05:31 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/new-hampshire-primary-bill-gardner-526438">First-in-the-nation primary loses its top champion — but the calendar probably isn’t changing</a> Politico: New Hampshire Secretary of State Bill Gardner is retiring after years spent defending the state's place in the presidential calendar. 
+ <p class="updated_time"> 05:25 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/us/politics/senate-democrats-biden-agenda.html">Democrats Set Timetable to Change Rules for Stalled Voting Rights Bills</a> NYT: The top Senate Democrat said he would act by Jan. 17 to try to force through the measures if Republicans refused to drop their opposition. 
  <p class="updated_time"> 04:55 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/business/economy/inflation-democrats-corporations.html">Democrats Blast Corporate Profits as Inflation Surges</a> NYT: Politicians are placing more blame on greedy companies as prices stay high. But booming consumer demand is enabling firms to charge more. 
- <p class="updated_time"> 04:39 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/senate-democrats-biden-agenda.html">Senate Returns to Deal With Biden’s Stalled Agenda</a> NYT: The president’s domestic policy ambitions hang in the balance, but little legislative action is expected ahead of the anniversary of the Jan. 6 riot. 
  <p class="updated_time"> 04:13 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/technology/facebook-marjorie-taylor-greene.html">Facebook Suspends Marjorie Taylor Greene’s Account for 24 hours</a> NYT: Twitter permanently banned her account on Sunday after what the company said was her fifth “strike.” 
  <p class="updated_time"> 04:11 PM CT, Jan. 03 </p> 
