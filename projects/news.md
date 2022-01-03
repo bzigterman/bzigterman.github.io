@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:34 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">South Africa parliament: Man arrested over massive fire</a> BBC: Police in Cape Town say a man faces several charges over the fire and will appear in court on Tuesday. 
+ <p class="updated_time"> 03:33 AM CT, Jan. 03 </p> 
+ <a href="https://www.npr.org/2022/01/03/1069839447/seoul-north-korea-defector-likely-made-rare-border-crossing-back">Seoul: North Korea defector likely made rare border crossing back</a> NPR: A person who crossed the border from South Korea into North Korea on New Year's Day was likely a defector who had made the trip in the other direction in late 2020, the military said Monday. 
  <p class="updated_time"> 11:50 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/africa/richard-leakey-dead.html">Richard Leakey, Kenyan Fossil Hunter and Conservationist, Dies at 77</a> NYT: His discoveries of ancient human skulls and skeletons, including the famed “Turkana Boy,” helped cement Africa’s standing as the cradle of humanity. 
  <p class="updated_time"> 11:14 PM CT, Jan. 02 </p> 
@@ -35,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/world/europe/bosnia-war-putin.html">In the Tinderbox of Bosnia, a Serb Nationalist Lights a Match</a> NYT: Bosnia’s fragile multiethnic government is facing its greatest crisis since the Balkan wars. The Serb nationalist leader, Milorad Dodik, is threatening to tear the country apart. 
  <p class="updated_time"> 02:46 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59854917?at_medium=RSS&at_campaign=KARANGA">Aoife Beary: Berkeley balcony collapse survivor dies, aged 27</a> BBC: The Irishwoman suffered serious injuries in a Californian balcony collapse that killed six students. 
- <p class="updated_time"> 02:23 PM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59850904?at_medium=RSS&at_campaign=KARANGA">South Africa parliament: Man arrested over massive fire</a> BBC: Police in Cape Town say a man is facing several charges over the fire and will appear in court on Tuesday. 
  <p class="updated_time"> 01:42 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59849697?at_medium=RSS&at_campaign=KARANGA">Colorado wildfire: Two people remain missing and presumed dead</a> BBC: A local sheriff previously said it had been a miracle no-one was reported missing or dead. 
  <p class="updated_time"> 01:13 PM CT, Jan. 02 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/africa/desmond-tutu-legacy.html">In Remembering Tutu, South Africa Reckons With Lasting Challenges</a> NYT: Archbishop Desmond Tutu’s death has reignited a public conversation about the state of the country’s reconciliation process and its democracy. 
  <p class="updated_time"> 11:32 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/31/1069476889/omicron-south-africa">As omicron heats up in the U.S., South Africa says its wave is on the way out</a> NPR: The variant caused fewer deaths and less severe infections than past versions of the virus in South Africa, but that could be different in other countries. 
- <p class="updated_time"> 10:53 AM CT, Dec. 31 </p> 
- <a href="https://www.npr.org/2021/12/31/1069489082/desmond-tutu-funeral">South Africans line up to pay their last respects to Desmond Tutu</a> NPR: South Africans from all corners of retired Archbishop Desmond Tutu's "rainbow nation" filed past his pine casket in Cape Town. The viewing line at St. George's Cathedral stretched for nearly a mile. 
  <p class="updated_time"> 10:45 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/africa/uganda-congo-rebels-adf.html">Why Did Uganda Send Troops Into Congo?</a> NYT: The Ugandan government says it is targeting rebels it accuses of terrorist attacks in Kampala. Many Congolese fear the incursion is cover for yet another plundering of their country. 
  <p class="updated_time"> 09:04 AM CT, Dec. 31 </p> 
@@ -194,6 +194,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/news/2022/01/03/january-6-capitol-riot-house-democrats-525975">'It's only gotten worse': The long shadow of the night that broke the House</a> Politico: For most Democrats, the biggest affront wasn't even the violence by Donald Trump's supporters. It was the votes more than 140 of their GOP colleagues took afterward. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/news/2022/01/03/could-january-6th-happen-again-526167">Increased threats, overburdened officers: Capitol contends with preventing a Jan. 6 repeat</a> Politico: The Capitol Police has made progress under a new chief. But many on the Hill don't have an easy answer. 
  <p class="updated_time"> 11:05 PM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/03/1069824056/another-hong-kong-news-outlet-to-close-amid-crackdown-on-dissent">Another Hong Kong news site shuts as pro-Beijing lawmakers sworn in</a> NPR: A Hong Kong online news site said Sunday that it will cease operations in light of deteriorating press freedoms, days after police raided a separate pro-democracy news outlet, arresting seven. 
  <p class="updated_time"> 09:19 PM CT, Jan. 02 </p> 
