@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:03 PM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59855246?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Prime Minister Abdalla Hamdok resigns after mass protests</a> BBC: Abdalla Hamdok's resignation comes weeks after he was reinstated by the military following a coup. 
+ <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59728593?at_medium=RSS&at_campaign=KARANGA">Kunal Kamra: The comedians under fire from Hindu nationalists</a> BBC: Kunal Kamra and Munawar Faruqui talk to the BBC about having shows cancelled in the face of right-wring ire. 
+ <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59383184?at_medium=RSS&at_campaign=KARANGA">Green Connect: The farm helping refugees build a life in Australia</a> BBC: It has employed 5,000 people in the past decade and "dramatically" changed fortunes, refugees say. 
  <p class="updated_time"> 04:58 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/abdalla-hamdok-resigns-sudan.html">Sudan’s Prime Minister, Abdalla Hamdok, Resigns</a> NYT: Mr. Hamdok was restored to power a month ago after being deposed in a coup, but he was never able to gain control of the fractious country. 
- <p class="updated_time"> 04:25 PM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59855246?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Prime Minister Abdalla Hamdok resigns after mass protests</a> BBC: Abdalla Hamdok's resignation comes weeks after he was reinstated by the military following a coup. 
  <p class="updated_time"> 03:41 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Fire Still Burning After Hours</a> NYT: Officials warned that the damage to the buildings would be extensive. A man was arrested on Sunday morning inside the parliamentary complex, Parliament’s spokesman said. 
  <p class="updated_time"> 03:38 PM CT, Jan. 02 </p> 
@@ -121,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/59548186?at_medium=RSS&at_campaign=KARANGA">2022 sporting calendar: Big events from Winter Olympics to the World Cup</a> BBC: The Winter Olympics, Commonwealth Games, Women's Euros and the men's World Cup are just some of the big events taking place in 2022. 
  <p class="updated_time"> 03:10 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
- <p class="updated_time"> 01:12 AM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59845176?at_medium=RSS&at_campaign=KARANGA">Colorado wildfires: Woman says families in her neighbourhood lost everything</a> BBC: A woman who had to evacuate her home in Louisville with her family speaks to the BBC. 
  <p class="updated_time"> 09:59 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
  <p class="updated_time"> 06:34 PM CT, Dec. 31 </p> 
@@ -143,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/europe/germany-new-year-speech-olaf-scholz-covid.html">In New Year's Speech, Olaf Scholz, Germany's New Leader, Focuses on Covid</a> NYT: Olaf Scholz, who replaced Angela Merkel as chancellor about three weeks ago, gave the traditional New Year’s Eve address for the first time and called for unity and vaccinations. 
  <p class="updated_time"> 12:16 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/africa/desmond-tutu-legacy.html">In Remembering Tutu, South Africa Reckons With Lasting Challenges</a> NYT: Archbishop Desmond Tutu’s death has reignited a public conversation about the state of the country’s reconciliation process and its democracy. 
- <p class="updated_time"> 11:34 AM CT, Dec. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-59841816?at_medium=RSS&at_campaign=KARANGA">New Year's Eve: Firework displays welcome 2022</a> BBC: Celebrations have taken place around the world, with light shows and fireworks as 2022 began. 
  <p class="updated_time"> 11:32 AM CT, Dec. 31 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/31/1069476889/omicron-south-africa">As omicron heats up in the U.S., South Africa says its wave is on the way out</a> NPR: The variant caused fewer deaths and less severe infections than past versions of the virus in South Africa, but that could be different in other countries. 
  <p class="updated_time"> 10:53 AM CT, Dec. 31 </p> 
@@ -187,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-nhs-field-hospitals-omicron.html">U.K. Plans Field Wards to Meet Omicron Surge</a> NYT: Unlike the “Nightingale hospitals” that went largely unused during the first virus wave, the new facilities are designed for patients needing less intensive treatment. 
  <p class="updated_time"> 07:49 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/asia/china-xian-lockdown-covid.html">China Keeps 13 Million in Xi’an Under Strict Lockdown </a> NYT: The severe measures in Xi’an have prompted concern, as residents complain on social media of having trouble ordering food online. 
- <p class="updated_time"> 04:45 AM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/health/johnson-vaccine-booster-omicron.html">J.&J. Booster Protects Against Severe Omicron, Study Says</a> NYT: Two shots of the vaccine reduced the risk of hospitalization from the fast-spreading variant by 85 percent, a clinical trial found. 
  <p class="updated_time"> 04:00 AM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/world/europe/most-popular-dispatches-2021.html">In 2021, We Were There: The Year’s 14 Most Popular Dispatches</a> NYT: Not even a pandemic, wars or autocrats could prevent our correspondents from seeking out secrets and surprises to share with readers. They sent dispatches from 40 countries on six continents. 
  <p class="updated_time"> 06:04 PM CT, Dec. 27 </p> 
@@ -200,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:21 PM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/us/politics/jan-6-capitol-riot-anniversary.html">Jan. 6 Panel Faces Difficult Questions as Anniversary of Capitol Riot Approaches</a> NYT: Decisions about subpoenas and a Supreme Court ruling loom as lawmakers, staff members and Capitol employees plan to commemorate the day. 
  <p class="updated_time"> 05:01 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">Cheney: January 6 committee has 'firsthand' testimony that Ivanka asked Trump to intervene during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
  <p class="updated_time"> 04:32 PM CT, Jan. 02 </p> 
@@ -384,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
  <p class="updated_time"> 06:53 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/michigan-redistricting-congressional-map-526227">Michigan’s new congressional map: 3 battlegrounds, 1 Dem-vs.-Dem primary</a> Politico: Virginia also completed congressional redistricting on Tuesday. 
- <p class="updated_time"> 05:37 PM CT, Dec. 28 </p> 
- <a href="https://www.nytimes.com/2021/12/28/business/media/nyt-project-veritas.html">Judge Says New York Times Can Retain Project Veritas Memos, for Now</a> NYT: A New York appeals court said the paper did not need to immediately give up or destroy documents related to the conservative group. The paper is still prevented from publishing certain documents. 
  <p class="updated_time"> 05:05 PM CT, Dec. 28 </p> 
  <a href="https://www.nytimes.com/2021/12/28/us/politics/trump-jan-6.html">Jan. 6 Committee Shelves Requests for Hundreds of Trump Records</a> NYT: The Biden administration asked to shield some sensitive documents but continued to reject Trump’s blanket claim of executive privilege. 
  <p class="updated_time"> 12:52 PM CT, Dec. 28 </p> 
