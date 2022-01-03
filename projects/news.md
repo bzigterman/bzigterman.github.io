@@ -7,12 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:53 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/africa/south-africa-parliament-fire-suspect.html">South Africa Parliament: Suspect Charged in Fire to Appear in Court</a> NYT: A 49-year-old man is facing charges of arson and theft in the blaze, which started Sunday and has heavily damaged legislative buildings in Cape Town. 
+ <p class="updated_time"> 10:21 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59861556?at_medium=RSS&at_campaign=KARANGA">South Africa parliament fire flares up again</a> BBC: Firefighters are trying to douse the blaze which reignited hours after it was said to be under control. 
+ <p class="updated_time"> 10:21 AM CT, Jan. 03 </p> 
+ <a href="https://www.npr.org/2022/01/03/1069888035/famed-fossil-hunter-and-conservationist-richard-leakey-dies-at-77">Famed fossil hunter and conservationist Richard Leakey dies at 77</a> NPR: Leakey made important contributions to our understanding of human origins through his fossil finds. He later gained fame for taking on poachers who threatened to wipe out Kenya's elephants and rhinos. 
+ <p class="updated_time"> 10:13 AM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59860058?at_medium=RSS&at_campaign=KARANGA">Covid-19: French MPs get death threats over support for vaccine pass</a> BBC: They report the threats as they consider tougher restrictions on unvaccinated people in France. 
  <p class="updated_time"> 09:55 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/europe/eu-hungary-threat.html">How the E.U. Allowed Hungary to Become an Illiberal Model</a> NYT: After years of complacency and wishful thinking, Brussels is finally trying to rein in the country’s pugnacious leader, Prime Minister Viktor Orban. 
- <p class="updated_time"> 09:47 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/africa/south-africa-parliament-fire-suspect.html">South Africa Parliament: Suspect Charged in Fire to Appear in Court</a> NYT: A 49-year-old man is facing charges of arson and theft in the Sunday blaze, which heavily damaged legislative buildings in Cape Town. 
  <p class="updated_time"> 09:39 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/01/03/1059018377/photos-poland-belarus-border-migrants-volunteers">This photographer captured how activists helped migrants at the Poland-Belarus border</a> NPR: Polish-based photographer Kasia Strek documented what it was like for migrants and people in Poland as the crisis evolved at the border in November. 
+ <p class="updated_time"> 09:19 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/us/politics/trump-endorses-viktor-orban-hungary.html">Trump Endorses Viktor Orban, Hungary’s Far-Right Prime Minister</a> NYT: Democracy in Hungary has been backsliding under Mr. Orban, whose efforts to consolidate power have caused consternation in the European Union. 
  <p class="updated_time"> 09:19 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59855246?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Prime Minister Abdalla Hamdok resigns after mass protests</a> BBC: Abdalla Hamdok's resignation comes weeks after he was reinstated by the military following a coup. 
  <p class="updated_time"> 09:13 AM CT, Jan. 03 </p> 
@@ -37,6 +45,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59859148?at_medium=RSS&at_campaign=KARANGA">Newborn baby found in toilet bin of Air Mauritius plane</a> BBC: The mother and baby are doing well, after airport staff found the boy during a routine check. 
  <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/article/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
+ <p class="updated_time"> 05:47 AM CT, Jan. 03 </p> 
+ <a href="https://www.wsj.com/articles/france-relaxes-quarantine-rules-as-europe-adapts-to-omicrons-spread-11641217097">Covid-19 Cases Soar to New Records in U.S.</a> WSJ: Holiday reporting delays mean real infection rates are likely higher than the new reports, as students return to classrooms and some workers remain home after contracting or being exposed to the coronavirus. 
+ <p class="updated_time"> 04:46 AM CT, Jan. 03 </p> 
+ <a href="https://www.wsj.com/articles/new-eu-rules-spark-fight-over-what-is-green-energy-11641224818">New EU Rules Spark Fight Over What Is 'Green' Energy</a> WSJ: The draft recommendation, which needs approval by the bloc’s governments and the European Parliament, underlines the political controversy already being stirred up by environmental policies in Europe, despite broad public support for action to prevent climate change. 
  <p class="updated_time"> 04:32 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59855689?at_medium=RSS&at_campaign=KARANGA">China: Concern over Xi'an residents' midnight quarantine</a> BBC: Some people in Xi'an complained after they were forced out of their homes during a Covid outbreak. 
  <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
@@ -53,22 +65,22 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59857168?at_medium=RSS&at_campaign=KARANGA">Virginia Giuffre: Prince Andrew accuser's deal with Jeffrey Epstein to be released</a> BBC: The Duke of York's lawyers believe it could free him from liability in a civil case against him. 
  <p class="updated_time"> 02:46 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59856619?at_medium=RSS&at_campaign=KARANGA">Bulli Bai: India app that put Muslim women up for sale is shut</a> BBC: This was the second recent attempt in India to harass Muslim women by "auctioning" them online. 
+ <p class="updated_time"> 01:26 AM CT, Jan. 03 </p> 
+ <a href="https://www.wsj.com/articles/man-who-crossed-dmz-into-north-korea-is-a-previous-defector-11641212793">Man Who Crossed DMZ Into North Korea Is a Previous Defector</a> WSJ: The defector, who said he had been a gymnast and who evaded South Korea’s border controls to enter North Korea late last week, had used virtually the same route a year ago to defect from the North. 
+ <p class="updated_time"> 12:15 AM CT, Jan. 03 </p> 
+ <a href="https://www.wsj.com/articles/sudans-prime-minister-resigns-as-political-crisis-worsens-11641208528">Sudan's Prime Minister Resigns as Political Crisis Worsens</a> WSJ: Abdalla Hamdok resignation marks the latest disruption to the strategically-located nation, as it attempts to transition to democracy following the end of Omar al Bashir’s three-decade reign. 
  <p class="updated_time"> 11:50 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/africa/richard-leakey-dead.html">Richard Leakey, Kenyan Fossil Hunter and Conservationist, Dies at 77</a> NYT: His discoveries of ancient human skulls and skeletons, including the famed “Turkana Boy,” helped cement Africa’s standing as the cradle of humanity. 
  <p class="updated_time"> 11:30 PM CT, Jan. 02 </p> 
  <a href="https://www.wsj.com/articles/china-is-haunted-by-its-one-child-policy-as-it-tries-to-encourage-couples-to-conceive-11641205807">China Is Haunted by One-Child Policy as It Encourages Couples to Conceive</a> WSJ: A legacy of China’s one-child policy is a dwindling number of women of childbearing age as well as a generation of only children who are less eager to marry and start a family. 
  <p class="updated_time"> 11:05 PM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/03/1069824056/another-hong-kong-news-outlet-to-close-amid-crackdown-on-dissent">Another Hong Kong news site shuts as pro-Beijing lawmakers sworn in</a> NPR: A Hong Kong online news site said Sunday that it will cease operations in light of deteriorating press freedoms, days after police raided a separate pro-democracy news outlet, arresting seven. 
- <p class="updated_time"> 11:02 PM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59824917?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Pro-democracy website Citizen News is latest to close</a> BBC: The pro-democracy news outlet's closure comes after police raided and arrested staff from Stand News. 
  <p class="updated_time"> 10:04 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/maryland-covid-larry-hogan.html">Governor: Maryland Prepares for 'Terrible Point' in Covid Crisis</a> NYT: Gov. Larry Hogan said the state was trying to staff hospitals through a variety of measures. 
  <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59728593?at_medium=RSS&at_campaign=KARANGA">Kunal Kamra: The comedians under fire from Hindu nationalists</a> BBC: Kunal Kamra and Munawar Faruqui talk to the BBC about having shows cancelled in the face of right-wring ire. 
  <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383184?at_medium=RSS&at_campaign=KARANGA">Green Connect: The farm helping refugees build a life in Australia</a> BBC: It has employed 5,000 people in the past decade and "dramatically" changed fortunes, refugees say. 
- <p class="updated_time"> 05:08 PM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59855440?at_medium=RSS&at_campaign=KARANGA">Emily in Paris: Ukraine complains over Kyiv character stereotype</a> BBC: Ukraine's culture minister has described the portrayal of a character from Kyiv as "insulting". 
  <p class="updated_time"> 04:58 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/abdalla-hamdok-resigns-sudan.html">Sudan’s Prime Minister, Abdalla Hamdok, Resigns</a> NYT: Mr. Hamdok was restored to power a month ago after being deposed in a coup, but he was never able to gain control of the fractious country. 
  <p class="updated_time"> 03:41 PM CT, Jan. 02 </p> 
@@ -83,24 +95,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/world/spain-church-restoration-mystery.html">A Spanish Mystery: Is a ‘Masked Restorer’ to Blame for a Church’s Botched Repair?</a> NYT: Yet another imprudent fix in a land plagued by vigilante handymen led to angry calls to find the culprit — and to a soul-searching question: Does Spain just have too much history in need of upkeep? 
  <p class="updated_time"> 08:42 AM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59853010?at_medium=RSS&at_campaign=KARANGA">Memorial: Russia’s civil rights group uncovering an uncomfortable past</a> BBC: Memorial, one of the oldest civil rights groups in Russia, was uncovering uncomfortable truths for the authorities. 
- <p class="updated_time"> 08:38 AM CT, Jan. 02 </p> 
- <a href="https://www.wsj.com/articles/major-fire-devastates-south-africas-parliament-11641133916">Fire Inflicts Heavy Damage to South Africa's Parliament Building</a> WSJ: More than 70 firefighters continued to fight the blaze hours after it was reported at the historic Cape Town complex, while police took a man into custody for questioning. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739336/omicron-is-subsiding-in-south-africa">Omicron is subsiding in South Africa</a> NPR: NPR's Eyder Peralta speaks with Dr. Glenda Gray, president of the South African Medical Research Council, about how omicron cases are going down in South Africa, and the lessons for the U.S. 
  <p class="updated_time"> 06:56 AM CT, Jan. 02 </p> 
  <a href="https://www.wsj.com/articles/china-russia-america-military-exercises-weapons-war-xi-putin-biden-11641146041">China and Russia Military Cooperation Raises Prospect of New Challenge to American Power</a> WSJ: Joint military exercises, coordinated weapons development and technology sharing are seen as tools in a campaign to limit U.S. might abroad, military analysts and U.S. officials say. 
  <p class="updated_time"> 06:42 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/02/1066099271/child-grooms-are-often-overlooked-in-the-fight-to-stop-child-marriage">Child grooms are often overlooked in the fight to stop child marriage</a> NPR: The U.N. issued its first report on the plight of child grooms. And the pandemic has only made things worse. Here's a report from Nepal, where 1 in 10 boys marry young. 
- <p class="updated_time"> 06:37 AM CT, Jan. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-europe-weigh-isolation-requirements-as-omicron-disrupts-daily-life-11641137748">U.S., Europe Weigh Isolation Requirements as Omicron Disrupts Daily Life</a> WSJ: Countries have been trying to balance health concerns with the risk that quarantine periods sideline medical staff, teachers and other workers for so long that hospitals, schools and other workplaces are unable to function effectively. 
  <p class="updated_time"> 06:24 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069738025/a-major-fire-ravaged-south-africas-parliament-building-in-cape-town">A man is detained after a major fire broke out in South Africa's Parliament building</a> NPR: Around 70 firefighters were still battling the fire hours after it started in the early morning. 
- <p class="updated_time"> 04:54 AM CT, Jan. 02 </p> 
- <a href="https://www.wsj.com/articles/rising-threat-from-china-pushes-u-s-and-japan-to-deepen-military-cooperation-11641138867">Rising Threat From China Pushes U.S. and Japan to Deepen Military Cooperation</a> WSJ: In a camouflaged tent in a forest in northern Japan, U.S. Marines and Japanese soldiers hunched together over maps and laptops, using the planes of one country and the missile launchers of another to attack an imaginary enemy ship. 
  <p class="updated_time"> 04:48 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/asia/korea-dmz-border.html">South Korea Says Unknown Person Crossed DMZ Into North</a> NYT: The breach at the Demilitarized Zone went unnoticed for hours, the South Korean military said. There was no immediate response from North Korea. 
- <p class="updated_time"> 02:49 AM CT, Jan. 02 </p> 
- <a href="https://www.wsj.com/articles/italys-embattled-berlusconi-eyes-the-presidency-his-biggest-prize-yet-11641131379">Italy's Embattled Berlusconi Eyes the Presidency, His Biggest Prize Yet</a> WSJ: Rivals have counted the three-time former prime minister out before. But a run for Italy’s presidency would represent the biggest comeback for one of the country’s most divisive figures. 
  <p class="updated_time"> 08:40 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/31/business/china-evergrande-default-publicity.html">What Default? With Confetti and Fanfare, Evergrande Says It’s Ready to Build.</a> NYT: Weeks after signaling it could no longer go on, the troubled Chinese property developer has pledged to start paying its workers and completing projects again. Buyers are skeptical. 
  <p class="updated_time"> 06:55 PM CT, Jan. 01 </p> 
@@ -129,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/01/1069619603/kashmir-shrine-crowd-surge">12 people were killed when a crowd surged at a popular Hindu shrine in Kashmir</a> NPR: Fifteen people were also injured in the surge at the shrine on New Year's Day, officials said. Initial reports suggested an altercation between a group of devotees led to the crush. 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069611016/there-are-signs-negotiators-are-making-progress-toward-a-nuclear-deal-with-iran">There are signs negotiators are making progress toward a nuclear deal with Iran</a> NPR: For the first time in months, European negotiators report progress in nuclear talks with Iran and the U.S. An agreement would revive an Obama-era pact that President Donald Trump abandoned. 
- <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
- <a href="https://www.npr.org/2022/01/01/1069610953/waste-pickers-in-istanbul-are-being-targeted-for-deportation">'Waste pickers' in Istanbul are being targeted for deportation</a> NPR: In Istanbul, many recent immigrants make their living by sifting through trash for items to recycle. But recent immigration raids have made the work far riskier. 
  <p class="updated_time"> 06:54 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/hindu-shrine-stampede-kashmir.html">At Least 12 Die in Stampede at a Hindu Shrine in Kashmir</a> NYT: Thousands of devotees were visiting the Mata Vaishno Devi shrine to mark the beginning of the year. 
  <p class="updated_time"> 06:17 AM CT, Jan. 01 </p> 
@@ -141,22 +143,26 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/world/europe/turkey-kurdish-art-exhibit.html">In Turkey, an Exhibit Meant to Highlight Kurdish Suffering Provoked a Furor</a> NYT: A recent art show in a major Kurdish city in Turkey aimed to uplift a region crushed by years of conflict. It ended up serving as a reminder of how toxic the subject of Kurds remains in Turkey. 
  <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/style/new-years-resolutions-quotes-tips.html">Setting New Year's Resolutions? Start With These Words of Wisdom</a> NYT: Let their stories be your inspiration as you set resolutions for 2022. 
- <p class="updated_time"> 03:53 AM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/sport/football/59689367?at_medium=RSS&at_campaign=KARANGA">Quiz: How well do you remember football in 2021?</a> BBC: Test your knowledge of football in 2021 by taking our quiz... 
  <p class="updated_time"> 03:47 AM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/sport/59548186?at_medium=RSS&at_campaign=KARANGA">2022 sporting calendar: Big events from Winter Olympics to the World Cup</a> BBC: The Winter Olympics, Commonwealth Games, Women's Euros and the men's World Cup are just some of the big events taking place in 2022. 
  <p class="updated_time"> 03:10 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
  <p class="updated_time"> 09:59 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
+ <p class="updated_time"> 07:14 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/us/pentagon-airstrikes-syria-iraq.html">Documents Reveal Flaws in Pentagon Dismissals of Civilian Casualty Claims in Iraq and Syria</a> NYT: A Times investigation found inconsistent approaches to assessing claims of civilians killed by coalition forces — including failures to conduct simple internet searches. 
  <p class="updated_time"> 06:34 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/canada/montreal-bar-mitzvah-photographer.html">Once a Janitor, Now the Bar Mitzvah Photography King of Montreal</a> NYT: With a touch of chutzpah and “a little help from God,” Braulio Rocha, a Roman Catholic Portuguese immigrant, traded in his mop for a camera. 
+ <p class="updated_time"> 03:56 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/obituaries/deaths-in-2021-headline-names-against-the-backdrop-of-pandemic.html">Deaths in 2021: Headline Names Against the Backdrop of Pandemic</a> NYT: Aaron, Sondheim, Dole and Didion. But the loss of Colin Powell from the virus spoke most directly to the moment the world is in. 
  <p class="updated_time"> 03:18 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/biden-putin-russia-ukraine-lavrov.html">Sergey V. Lavrov Accused NATO of Stoking Ukraine Conflict </a> NYT: Sergey V. Lavrov accused the United States and its allies of stoking a conflict in the country’s east in comments that contrasted with a more positive tone coming from Moscow. 
  <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/sports/football/kirk-cousins-covid.html">Kirk Cousins Tests Positive for Covid-19</a> NYT: Cousins was placed on the team’s Covid-19 reserve list for at least five days, threatening Minnesota’s playoff chances. 
  <p class="updated_time"> 12:57 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/americas/quebec-new-years-eve-curfew.html">Quebec Government Faces Backlash Over New Year’s Eve Curfew</a> NYT: Residents who leave their homes past 10 p.m. could face fines of up to $4,750. 
+ <p class="updated_time"> 12:32 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/arts/music/sam-fender.html">Sam Fender, a Songwriter Caught Between Stardom and His Hometown</a> NYT: The musician is fast becoming one of Britain’s biggest rock acts with tracks about working class life in North Shields. Can he let himself leave the town? 
  <p class="updated_time"> 12:31 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/germany-new-year-speech-olaf-scholz-covid.html">In New Year's Speech, Olaf Scholz, Germany's New Leader, Focuses on Covid</a> NYT: Olaf Scholz, who replaced Angela Merkel as chancellor about three weeks ago, gave the traditional New Year’s Eve address for the first time and called for unity and vaccinations. 
  <p class="updated_time"> 12:16 PM CT, Dec. 31 </p> 
@@ -179,8 +185,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/world/south-africa-omicron-decline.html">South Africa Says It Has Passed Its Fourth Wave of Cases</a> NYT: Case counts are down by 30 percent in the last week, researchers in the country said. 
  <p class="updated_time"> 09:11 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/politics/biden-putin-ukraine-call.html">Putin Warns Biden of ‘Complete Rupture’ of U.S.-Russia Relationship Over Ukraine</a> NYT: President Vladimir V. Putin of Russia spoke with President Biden for 50 minutes about the escalating crisis with Ukraine, but his intentions remained unclear. 
- <p class="updated_time"> 06:04 PM CT, Dec. 27 </p> 
- <a href="https://www.bbc.co.uk/news/stories-59733533?at_medium=RSS&at_campaign=KARANGA">‘The doctors came and I had to tell my father he was dying’</a> BBC: Is it always appropriate for relatives to interpret for deaf loved ones? 
+ <p class="updated_time"> 05:48 PM CT, Dec. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/30/world/europe/uk-covid-omicron-london-england.html">UK, With Surging Covid-19 Cases, is On '‘War Footing’ Against Virus</a> NYT: With cases surging and straining health care and other services, Britain’s challenges foreshadow the impact of the Omicron variant in other countries. 
 
 
 </details>
@@ -188,8 +194,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:23 AM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/news/2022/01/03/capitol-police-union-private-security-proposal-526395">Capitol Police union douses private security proposal</a> Politico: “We need to hire more officers — period. The last thing we need are private security contractors who are not trained to our standards,” the chair of the union said in a statement sent to POLITICO. 
  <p class="updated_time"> 10:48 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/schumer-threatens-vote-on-senate-rules-change-in-january-526394">Schumer threatens imminent vote on Senate rules change</a> Politico: The majority leader said they would debate changes to the chamber's rules unless Republicans allowed a vote on elections reform. 
+ <p class="updated_time"> 10:47 AM CT, Jan. 03 </p> 
+ <a href="https://www.cnn.com/2022/01/03/politics/ivanka-donald-trump-jr-subpoena/index.html">NY AG subpoenas Ivanka Trump and Donald Trump, Jr. in civil investigation</a> CNN: The New York attorney general's office has subpoenaed two of former President Donald Trump's children for testimony as part of its civil investigation into whether the Trump Organization manipulated the values of its properties. 
  <p class="updated_time"> 10:15 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/fda-authorizes-covid-boosters-for-younger-teens-526392">FDA authorizes Covid boosters for teens 12-15</a> Politico: The agency will also allow some immunocompromised children as young as age 5 to get an additional dose. 
  <p class="updated_time"> 09:42 AM CT, Jan. 03 </p> 
@@ -231,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069764164/american-democracy-poll-jan-6">6 in 10 Americans say U.S. democracy is in crisis as 'The Big Lie' takes root</a> NPR: A year after the Jan. 6 attack on the U.S. Capitol, a new NPR/Ipsos poll finds that Americans are pessimistic about the future of democracy, as false claims about the 2020 election persist. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/supreme-court-death-penalty-intellectual-disability.html">Language Mistake in Georgia Death Penalty Law Creates a Daunting Hurdle</a> NYT: The Supreme Court will decide whether to hear a challenge to the law, which requires that defendants in capital cases who are intellectually disabled prove it “beyond a reasonable doubt” — a phrase that was inserted in error. 
+ <a href="https://www.nytimes.com/2022/01/03/us/politics/supreme-court-death-penalty-intellectual-disability.html">Death Penalty Law Puts Burden on the Intellectually Disabled</a> NYT: The Supreme Court will decide whether to hear a challenge to the law, which requires that defendants in capital cases who are intellectually disabled prove it “beyond a reasonable doubt” — a phrase that was inserted in error. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1068396411/a-year-after-capitol-polices-darkest-day-its-chief-says-the-force-is-making-gain">A year after Capitol Police's darkest day, its chief says the force is making gains</a> NPR: Capitol Police Chief Tom Manger has been on the job less than six months. He hopes to lead a new chapter at the embattled agency. 
  <p class="updated_time"> 11:05 PM CT, Jan. 02 </p> 
@@ -312,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/01/politics/new-laws-in-2022/index.html">From minimum wage hikes to a ban on gas-powered leaf blowers, these new laws take effect in 2022</a> CNN: The year 2021 marked by an innumerable number of rules tied to the coronavirus pandemic. 
  <p class="updated_time"> 08:35 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/31/nyregion/meisha-porter-nyc-schools-covid.html">Meisha Porter Had 3 Goals as N.Y.C. Schools Chief: ‘Open. Open. Open.’</a> NYT: The departing New York City schools chancellor pulled off a big task in a short period of time: reopening the nation’s largest school district during a pandemic. 
- <p class="updated_time"> 08:04 AM CT, Jan. 01 </p> 
- <a href="https://www.cnn.com/2022/01/01/politics/congress-agenda-2022/index.html">Another government funding deadline is rapidly approaching</a> CNN: Congress has a lengthy to-do list that lawmakers will have to tackle when they return to Washington for the new year after the holiday season. 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069610932/week-in-politics-biden-says-there-is-no-federal-solution-to-the-pandemic">Week in politics: Biden says there is no federal solution to the pandemic</a> NPR: President Joe Biden says there's no federal solution to the pandemic as cases climb dramatically. 
  <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
@@ -332,6 +340,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/31/politics/biden-new-years-eve/index.html">Biden rings in new year, says there's 'no quit in America'</a> CNN: In a New Year's Eve message Friday, President Joe Biden said he's "more optimistic about America's future than I've ever been." 
  <p class="updated_time"> 07:40 PM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/kerik-documents-jan-6-committee-526297">Bernard Kerik provides batch of documents to Jan. 6 select committee</a> Politico: The former New York City Police commissioner also provided a “privilege log” describing materials he declined to provide to the committee. 
+ <p class="updated_time"> 07:14 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/us/pentagon-airstrikes-syria-iraq.html">Documents Reveal Flaws in Pentagon Dismissals of Civilian Casualty Claims in Iraq and Syria</a> NYT: A Times investigation found inconsistent approaches to assessing claims of civilians killed by coalition forces — including failures to conduct simple internet searches. 
  <p class="updated_time"> 05:13 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/us/politics/john-roberts-supreme-court.html">Chief Justice Roberts Reflects on Conflicts, Harassment and Judicial Independence</a> NYT: In his year-end report, the chief justice said that the court administrators, not Congress, should address financial conflicts and workplace misconduct in the judicial system. 
  <p class="updated_time"> 05:00 PM CT, Dec. 31 </p> 
@@ -342,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/31/politics/judges-us-capitol-comments/index.html">Judges remind US how crucial it is for democracy that insurrection never happens again</a> CNN: On January 6, rioters streamed past the federal courthouse in Washington, DC, and descended upon the US Capitol. For weeks after the attack, DC's chief judge said she could see National Guard troops from the window in her chambers. 
  <p class="updated_time"> 07:01 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/complaint-doj-foreign-agent-prosecutions-526278">Complaint could roil DOJ foreign-agent prosecutions</a> Politico: Businesswoman Nickie Lum Davis says her guilty plea last year to a charge of unregistered lobbying was coerced. 
- <p class="updated_time"> 07:00 AM CT, Dec. 31 </p> 
- <a href="https://www.politico.com/news/2021/12/31/2022-space-race-china-us-526271">‘We’re falling behind’: 2022 seen as a pivotal lap in the space race with China</a> Politico: Washington and Beijing are jockeying for advantage — and international partners — to develop the moon. 
  <p class="updated_time"> 06:10 AM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden pushes Putin for Ukraine de-escalation in second call this month</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 09:24 PM CT, Dec. 30 </p> 
@@ -384,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
  <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
  <a href="https://www.nytimes.com/2021/12/29/us/politics/mask-mandate-fines-greene-clyde.html">Greene and Clyde Rack Up Fines for Defying House’s Mask Mandate</a> NYT: Representatives Marjorie Taylor Greene and Andrew Clyde have incurred more than $100,000 combined in penalties for dozens of violations. 
- <p class="updated_time"> 04:00 AM CT, Dec. 29 </p> 
- <a href="https://www.nytimes.com/article/voting-rights-tracker.html">Voting Rights Tracker: What to Know About the U.S. Elections Fight</a> NYT: Since the 2020 election, Republicans have pursued a host of new voting restrictions across the country. Here’s where things stand. 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
  <p class="updated_time"> 06:53 PM CT, Dec. 28 </p> 
