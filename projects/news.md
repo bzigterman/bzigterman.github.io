@@ -198,14 +198,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:20 PM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/pentagon-lloyd-austin-covid-526376">Pentagon chief Austin tests positive for Covid-19</a> Politico: Austin, who is fully vaccinated and has received a booster shot, said he will quarantine at home for the next five days. 
+ <p class="updated_time"> 08:05 PM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/biden-ukraine-russia-526371">Biden reaffirms support for Ukraine in phone call with president</a> Politico: “President Biden made clear that the United States and its allies and partners will respond decisively if Russia further invades Ukraine,” the White House said. 
+ <p class="updated_time"> 06:53 PM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/business/economy/child-tax-credit.html">Child Tax Credit’s Extra Help Ends, Just as Covid Surges Anew</a> NYT: A pandemic benefit that many progressives hoped to make permanent has lapsed in a congressional standoff. Researchers say it spared many from poverty. 
+ <p class="updated_time"> 06:34 PM CT, Jan. 02 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 06:21 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/us/politics/jan-6-capitol-riot-anniversary.html">Jan. 6 Panel Faces Difficult Questions as Anniversary of Capitol Riot Approaches</a> NYT: Decisions about subpoenas and a Supreme Court ruling loom as lawmakers, staff members and Capitol employees plan to commemorate the day. 
  <p class="updated_time"> 05:01 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">Cheney: January 6 committee has 'firsthand' testimony that Ivanka asked Trump to intervene during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
  <p class="updated_time"> 04:32 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/canceled-flights-covid-storms-526369">2,300 U.S. flights canceled due to storms, virus</a> Politico: A winter storm that hit the Midwest on Saturday made Chicago the worst place in the country for travelers. 
- <p class="updated_time"> 04:24 PM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 03:03 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/joe-manchin-voting-rights-filibuster/index.html">Why Democrats haven't given up on Joe Manchin and voting rights</a> CNN: In 1947, the year Joe Manchin was born, the US Senate killed voting-rights legislation -- again. The "gravedigger," liberal Democrats complained, was filibuster rules empowering its opponents. 
  <p class="updated_time"> 02:33 PM CT, Jan. 02 </p> 
@@ -238,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-closures-526353">Education secretary urges schools to remain open</a> Politico: But Miguel Cardona acknowledged some short-term closures might be needed. 
  <p class="updated_time"> 07:43 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/colorado-wildfires-why-526321">Survivors count blessings after devastating Colorado fire</a> Politico: 2 people remain missing. 
- <p class="updated_time"> 07:23 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/fire-ravages-cape-town-seat-of-south-africas-parliament-526315">Fire ravages Cape Town seat of South Africa’s Parliament</a> Politico: Some ceilings of the building that houses the national legislature fell in. 
  <p class="updated_time"> 07:04 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739392/disinformation-fueled-2021-and-2022-will-likely-see-the-same">Disinformation fueled 2021, and 2022 will likely see the same</a> NPR: Disinformation — about the Jan. 6 attack, COVID-19, vaccines, etc. — shaped the nation's politics in 2021 and likely will continue to do so throughout the coming year. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
@@ -256,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/trump-capitol-riot-aftermath-526277">At time of Capitol prayer service Jan. 6, Trump will deliver remarks doubling down on the ‘Big Lie’</a> Politico: The riot at the Capitol briefly looked like it had broken Trump's hold on the GOP. Instead, he has reaffirmed his dominion over the party. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1068891351/january-6-insurrection-capitol-attack-trump-anniversary">Trump still says his supporters weren't behind the Jan. 6 attack — but I was there</a> NPR: It's been a year since that pro-Trump mob stormed the Capitol. I was there when it happened, and I was also there months later when they tried to shift the blame. 
- <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/business/economy/child-tax-credit.html">Child Tax Credit’s Extra Help Ends, Just as Covid Surges Anew</a> NYT: A pandemic benefit that many progressives hoped to make permanent has lapsed in a congressional standoff. Researchers say it spared many from poverty. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/us/politics/stacey-abrams-georgia-democrats.html">Left and Center-Left Both Claim Stacey Abrams. Who’s Right?</a> NYT: Ms. Abrams, the Georgia Democrat running for governor, has admirers in both wings of her party — and Republicans eager to defeat her. Her carefully calibrated strategy faces a test in 2022. 
  <p class="updated_time"> 11:30 PM CT, Jan. 01 </p> 
