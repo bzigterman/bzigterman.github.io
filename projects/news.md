@@ -197,7 +197,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/trumpworld-jan-6-526291">They resigned in protest over Jan. 6 — then never went after Trump again</a> Politico: The administration officials who defected from the administration over the riots have almost all receded from public view even as Trump’s stayed put. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/could-january-6th-happen-again-526167">Increased threats, overburdened officers: Capitol contends with preventing a Jan. 6 repeat</a> Politico: The Capitol Police has made progress under a new chief. But many on the Hill don't have an easy answer. 
+ <a href="https://www.politico.com/news/2022/01/03/could-january-6th-happen-again-526167">Could Jan. 6 happen again?</a> Politico: The Capitol Police has made progress under a new chief. But many on the Hill don't have an easy answer. 
  <p class="updated_time"> 04:01 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069157693/2022-politics-biden-democrats-election-capitol-riot-abortion-supreme-court">6 questions for politics in 2022</a> NPR: From control of Congress and the strength of the Biden presidency to potential Jan. 6 committee revelations and the future of abortion rights, there's a lot at stake in 2022. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
