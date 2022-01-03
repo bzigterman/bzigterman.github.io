@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
+ <a href="https://www.npr.org/2022/01/03/1069983235/richard-leakey-whose-discoveries-helped-prove-mankind-began-in-africa-is-dead-at">Richard Leakey, whose discoveries helped prove mankind began in Africa, is dead at 77</a> NPR: Famed Kenyan conservationist and fossil hunter Richad Leakey has died at age 77. His discoveries helped prove Africa was the cradle of civilization. 
+ <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
+ <a href="https://www.npr.org/2022/01/03/1069983221/2-years-after-the-u-s-killed-irans-qasem-soleimani-tensions-remain">2 years after the U.S. killed Iran's Qasem Soleimani, tensions remain</a> NPR: NPR's Mary Louise Kelly talks with Karim Sadjadpour, senior fellow at the Carnegie Endowment for International Peace, about the impact of the U.S.'s assassination of Iranian Gen. Qasem Soleimani. 
  <p class="updated_time"> 03:06 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59861556?at_medium=RSS&at_campaign=KARANGA">South Africa parliament fire flares up again</a> BBC: Firefighters are trying to douse the blaze which reignited hours after it was said to be under control. 
  <p class="updated_time"> 02:56 PM CT, Jan. 03 </p> 
@@ -137,10 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/world/africa/desmond-tutu-funeral-south-africa.html">Desmond Tutu Funeral: South Africa Bids Farewell</a> NYT: The archbishop and Nobel laureate left plans for an unostentatious ceremony, which were stripped back further under Covid restrictions. 
  <p class="updated_time"> 11:16 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/europe/pontifical-oriental-institute-digital-texts.html">A Vatican Library Shortens the Distance Between Its Works and Its Scholars</a> NYT: Rare books in Rome are going online thanks to a German copier, a Long Island scanning firm and a New York software company. 
- <p class="updated_time"> 10:15 AM CT, Jan. 01 </p> 
- <a href="https://www.npr.org/2022/01/01/1069630495/tutu-state-funeral-south-africa">At his funeral, Tutu is remembered for helping end apartheid and championing rights</a> NPR: "Archbishop Desmond Tutu has been our moral compass and national conscience," South African President Cyril Ramaphosa said in a eulogy at Tutu's state funeral on Saturday. 
- <p class="updated_time"> 09:30 AM CT, Jan. 01 </p> 
- <a href="https://www.npr.org/2022/01/01/1069627569/north-korea-kim-military">North Korea's Kim vows to build up military and maintain anti-virus measures</a> NPR: In a speech at a key political conference, Kim Jong Un vowed to further bolster his military capability, maintain draconian anti-virus measures and push hard to improve the economy. 
  <p class="updated_time"> 06:54 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/hindu-shrine-stampede-kashmir.html">At Least 12 Die in Stampede at a Hindu Shrine in Kashmir</a> NYT: Thousands of devotees were visiting the Mata Vaishno Devi shrine to mark the beginning of the year. 
  <p class="updated_time"> 06:17 AM CT, Jan. 01 </p> 
@@ -192,7 +192,11 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:24 PM CT, Jan. 03 </p> 
+ <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
+ <a href="https://www.npr.org/2022/01/03/1069983228/during-the-jan-6-riot-chaos-lawmakers-called-on-military-and-intelligence-traini">During the Jan. 6 riot chaos, lawmakers called on military and intelligence training</a> NPR: Representatives Abigail Spanberger, D-Va., and Jason Crow, D-Colo., reflect on the ways their military and intelligence training aided them during the Jan. 6 insurrection at the U.S. Capitol. 
+ <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
+ <a href="https://www.npr.org/2022/01/03/1069983200/millions-sympathize-with-the-rioters-who-attacked-the-capitol-on-jan-6-survey-fi">Millions sympathize with the rioters who attacked the Capitol on Jan. 6, survey finds</a> NPR: As the U.S. nears the anniversary of a pro-Trump mob's attack at the Capitol, a survey finds widespread community support for violent insurrection that it calls a new political movement in the U.S. 
+ <p class="updated_time"> 03:32 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/first-amendment-praetorian-trump-jan-6.html">Another Far-Right Group Is Scrutinized in Effort to Aid Trump</a> NYT: The organization, called 1st Amendment Praetorian, is not as well known as the Oath Keepers or the Proud Boys, but it worked closely with pro-Trump forces in the months after the 2020 election. 
  <p class="updated_time"> 02:54 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/longtime-new-hampshire-secretary-of-state-retiring-526412">Longtime New Hampshire secretary of state retiring</a> Politico: Bill Gardner, who's held the post since 1976, is a staunch defender of New Hampshire's first-in-the-nation presidential primary. 
@@ -326,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/us/politics/stacey-abrams-georgia-democrats.html">Left and Center-Left Both Claim Stacey Abrams. Who’s Right?</a> NYT: Ms. Abrams, the Georgia Democrat running for governor, has admirers in both wings of her party — and Republicans eager to defeat her. Her carefully calibrated strategy faces a test in 2022. 
  <p class="updated_time"> 11:30 PM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/democrats-january-6-2022-campaigns/index.html">'It's not a silver bullet': Democrats weigh how to talk about January 6 on the 2022 campaign trail</a> CNN: The January 6 insurrection may be a year behind Rep. Jason Crow, but the Colorado Democrat -- and many of his colleagues -- insist it would be a grievous error for his party to downplay the attack. 
- <p class="updated_time"> 06:06 PM CT, Jan. 01 </p> 
- <a href="https://www.npr.org/2022/01/01/1069677828/uk-new-years-honours-list-daniel-craig">COVID-19 experts, athletes and Daniel Craig make the U.K.'s 'Honours List'</a> NPR: The annual tradition pays tribute to people for achievements made over the previous year. The government said it was the most ethnically diverse Honours List yet. 
  <p class="updated_time"> 01:06 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/30/upshot/medical-bill-ban-biden.html">A New Ban on Surprise Medical Bills Starts Today</a> NYT: If you have a medical emergency, you will no longer need to worry about a large bill from a doctor you did not choose. 
  <p class="updated_time"> 11:59 AM CT, Jan. 01 </p> 
@@ -340,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/01/politics/new-laws-in-2022/index.html">From minimum wage hikes to a ban on gas-powered leaf blowers, these new laws take effect in 2022</a> CNN: The year 2021 marked by an innumerable number of rules tied to the coronavirus pandemic. 
  <p class="updated_time"> 08:35 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/31/nyregion/meisha-porter-nyc-schools-covid.html">Meisha Porter Had 3 Goals as N.Y.C. Schools Chief: ‘Open. Open. Open.’</a> NYT: The departing New York City schools chancellor pulled off a big task in a short period of time: reopening the nation’s largest school district during a pandemic. 
- <p class="updated_time"> 07:06 AM CT, Jan. 01 </p> 
- <a href="https://www.npr.org/2022/01/01/1069610932/week-in-politics-biden-says-there-is-no-federal-solution-to-the-pandemic">Week in politics: Biden says there is no federal solution to the pandemic</a> NPR: President Joe Biden says there's no federal solution to the pandemic as cases climb dramatically. 
  <p class="updated_time"> 07:01 AM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/01/politics/joe-biden-2022-pandemic-russia-ukraine-congress-democrats/index.html">Biden's 2022 challenges revolve around Covid, Russia and dealing with Congress</a> CNN: President Joe Biden will return to the White House from an abbreviated winter break facing a set of hurdles that will test his political, diplomatic and management skills at a trying moment for his presidency. 
  <p class="updated_time"> 07:00 AM CT, Jan. 01 </p> 
@@ -394,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
- <p class="updated_time"> 06:53 PM CT, Dec. 28 </p> 
- <a href="https://www.politico.com/news/2021/12/28/michigan-redistricting-congressional-map-526227">Michigan’s new congressional map: 3 battlegrounds, 1 Dem-vs.-Dem primary</a> Politico: Virginia also completed congressional redistricting on Tuesday. 
  <p class="updated_time"> 12:52 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/trump-organization-pga-settlement-526207">Trump Organization and PGA reach settlement over 2022 championship dispute</a> Politico: No details were released, but the tournament still won’t be held at Bedminster as a result of the Jan. 6 Capitol riot. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
