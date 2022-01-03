@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:55 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/europe/eu-hungary-threat.html">How the E.U. Allowed Hungary to Become an Illiberal Model</a> NYT: After years of complacency and wishful thinking, Brussels is finally trying to rein in the country’s pugnacious leader, Prime Minister Viktor Orban. 
  <p class="updated_time"> 09:47 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/africa/south-africa-parliament-fire-suspect.html">South Africa Parliament: Suspect Charged in Fire to Appear in Court</a> NYT: A 49-year-old man is facing charges of arson and theft in the Sunday blaze, which heavily damaged legislative buildings in Cape Town. 
  <p class="updated_time"> 09:39 AM CT, Jan. 03 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/world/us-defense-secretary-austin-covid.html">U.S. Defense Secretary Tests Positive for Coronavirus</a> NYT: Lloyd J. Austin III stressed that his fully vaccinated status — including a booster received in early October — was to thank for his mild symptoms. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/travel/nepal-maha-shivaratri.html">Celebrating the ‘Great Night of Shiva’ in Kathmandu</a> NYT: Every year, thousands of celebrants gather at a temple complex in Nepal’s capital in honor of Shiva, one of Hinduism’s most revered gods. 
- <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/europe/eu-hungary-threat.html">How the E.U. Allowed Hungary to Become an Illiberal Model</a> NYT: After years of complacency and wishful thinking, Brussels is finally trying to rein in the country’s pugnacious leader, Prime Minister Viktor Orban. 
  <p class="updated_time"> 03:33 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069839447/seoul-north-korea-defector-likely-made-rare-border-crossing-back">Seoul: North Korea defector likely made rare border crossing back</a> NPR: A person who crossed the border from South Korea into North Korea on New Year's Day was likely a defector who had made the trip in the other direction in late 2020, the military said Monday. 
  <p class="updated_time"> 03:23 AM CT, Jan. 03 </p> 
@@ -193,7 +193,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:15 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/fda-authorizes-covid-boosters-for-younger-teens-526392">FDA authorizes Covid boosters for teens 12-15</a> Politico: The agency will also allow some immunocompromised children as young as age 5 to get an additional dose. 
  <p class="updated_time"> 09:42 AM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/trump-endorses-viktor-orban-hungary-526383">Trump endorses Hungary’s Orbán for reelection</a> Politico: It’s not the first time the former president has supported populist foreign leaders with authoritarian tendencies. 
+ <a href="https://www.politico.com/news/2022/01/03/trump-endorses-viktor-orban-hungary-526383">Trump endorses Hungary’s Orbán for reelection</a> Politico: It’s not the first time the former president has backed a populist foreign leader with authoritarian tendencies. 
  <p class="updated_time"> 09:19 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/trump-endorses-viktor-orban-hungary.html">Trump Endorses Viktor Orban, Hungary’s Far-Right Prime Minister</a> NYT: Democracy in Hungary has been backsliding under Mr. Orban, whose efforts to consolidate power have caused consternation in the European Union. 
  <p class="updated_time"> 08:32 AM CT, Jan. 03 </p> 
@@ -342,6 +342,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/31/politics/judges-us-capitol-comments/index.html">Judges remind US how crucial it is for democracy that insurrection never happens again</a> CNN: On January 6, rioters streamed past the federal courthouse in Washington, DC, and descended upon the US Capitol. For weeks after the attack, DC's chief judge said she could see National Guard troops from the window in her chambers. 
  <p class="updated_time"> 07:01 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/news/2021/12/31/complaint-doj-foreign-agent-prosecutions-526278">Complaint could roil DOJ foreign-agent prosecutions</a> Politico: Businesswoman Nickie Lum Davis says her guilty plea last year to a charge of unregistered lobbying was coerced. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 31 </p> 
+ <a href="https://www.politico.com/news/2021/12/31/2022-space-race-china-us-526271">‘We’re falling behind’: 2022 seen as a pivotal lap in the space race with China</a> Politico: Washington and Beijing are jockeying for advantage — and international partners — to develop the moon. 
  <p class="updated_time"> 06:10 AM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html">Biden pushes Putin for Ukraine de-escalation in second call this month</a> CNN: President Joe Biden will speak Thursday with his Russian counterpart Vladimir Putin in the hopes of defusing an unremitting crisis on Russia's border with Ukraine. 
  <p class="updated_time"> 09:24 PM CT, Dec. 30 </p> 
