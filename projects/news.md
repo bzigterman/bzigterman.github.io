@@ -178,6 +178,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:52 AM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1070102820/teachers-are-on-the-front-lines-in-jan-6-culture-war">Teachers are on the front lines in Jan. 6 culture war</a> NPR: Teachers now are left to decide how — or whether — to instruct their students about the events that sit at the heart of the country's division. 
  <p class="updated_time"> 11:03 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/first-amendment-praetorian-trump-jan-6.html">Another Far-Right Group Is Scrutinized About Its Efforts to Aid Trump</a> NYT: The organization, called 1st Amendment Praetorian, is not as well known as the Oath Keepers or the Proud Boys, but it worked closely with pro-Trump forces in the months after the 2020 election. 
  <p class="updated_time"> 10:16 PM CT, Jan. 03 </p> 
@@ -334,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/02/1069739385/house-committee-member-describes-what-has-been-uncovered-a-year-after-jan-6">House committee member describes what has been uncovered a year after Jan. 6</a> NPR: Eyder Peralta speaks with Rep. Zoe Lofgren, D-Calif., a member of the House committee investigating the Jan. 6 attack on the Capitol as the 1-year anniversary approaches. 
- <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
- <a href="https://www.npr.org/2022/01/02/1069739350/week-in-politics-congressional-democrats-fear-losing-majority-in-midterms">Week in politics: Congressional Democrats fear losing majority in midterms</a> NPR: Political parties are already looking ahead to the midterm elections in November, and Democrats are feeling uneasy about holding onto power in Congress. 
  <p class="updated_time"> 07:00 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/trump-capitol-riot-aftermath-526277">At time of Capitol prayer service Jan. 6, Trump will deliver remarks doubling down on the ‘Big Lie’</a> Politico: The riot at the Capitol briefly looked like it had broken Trump's hold on the GOP. Instead, he has reaffirmed his dominion over the party. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
