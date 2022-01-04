@@ -40,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:21 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/europe/hungary-european-union.html">How the European Union Allowed Hungary to Become an Illiberal Model</a> NYT: After years of complacency and wishful thinking, Brussels is finally trying to rein in the country’s pugnacious leader, Prime Minister Viktor Orban. 
  <p class="updated_time"> 01:14 PM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070204859/preet-chandi-first-woman-of-color-solo-antarctica-expedition">Preet Chandi is the first woman of color to complete a solo expedition in Antarctica</a> NPR: Chandi skiied 700 miles to the South Pole in just 40 days. The British Sikh army officer aims to inspire others to push boundaries, and is also raising funds to start an adventure grant for women. 
+ <a href="https://www.npr.org/2022/01/04/1070204859/preet-chandi-first-woman-of-color-solo-antarctica-expedition">Preet Chandi is the first woman of color to complete a solo expedition in Antarctica</a> NPR: Chandi skied 700 miles to the South Pole in just 40 days. The British Sikh army officer aims to inspire others to push boundaries and is also raising funds to start an adventure grant for women. 
  <p class="updated_time"> 01:08 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/tony-blair-knighthood-petition-rescind.html">Petition to Rescind Tony Blair’s Knighthood Gets Hundreds of Thousands of Signatures</a> NYT: Nearly 15 years after he left office, the prime minister’s support for the Iraq war has not been forgiven by many in Britain. 
  <p class="updated_time"> 12:43 PM CT, Jan. 04 </p> 
@@ -51,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59871779?at_medium=RSS&at_campaign=KARANGA">Europe's tattoo artists fear for future after EU ink ban</a> BBC: Thousands of chemicals are banned by EU for safety reasons, but tattooists say it will hit business. 
  <p class="updated_time"> 12:07 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/health/pfizer-booster-shot-cdc.html">CDC Recommends a Pfizer Booster Shot After 5 Months, Not 6</a> NYT: Following the F.D.A.’s lead, the agency also recommended third shots after four weeks for some immunocompromised children 5 to 11. 
+ <p class="updated_time"> 11:25 AM CT, Jan. 04 </p> 
+ <a href="https://www.wsj.com/articles/u-s-prevails-over-canada-in-dairy-dispute-11641318427">U.S. Prevails Over Canada in Dairy Dispute Under New Trade Deal</a> WSJ: Canada has until Feb. 3 to comply with the U.S.-Mexico-Canada Agreement or the U.S. could begin the process of initiating tariffs or other countermeasures. 
  <p class="updated_time"> 11:09 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59866553?at_medium=RSS&at_campaign=KARANGA">South Africa parliament fire suspect had explosives - prosecutor</a> BBC: A man who allegedly set fire to the Cape Town building was caught with explosives, prosecutors say. 
  <p class="updated_time"> 11:07 AM CT, Jan. 04 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59871267?at_medium=RSS&at_campaign=KARANGA">US snow: Major snowfall blankets Washington DC</a> BBC: Snow causes fun and frustration in Washington DC. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
  <a href="https://www.wsj.com/articles/olympic-committee-becomes-latest-target-in-standoff-over-treatment-of-uyghurs-11641324698">Olympic Committee Becomes Latest Target of Critics of Treatment of Uyghurs</a> WSJ: An activist group says the IOC has refused to engage with it on human-rights issues in China’s Xinjiang region, including the use of forced labor to make apparel. 
- <p class="updated_time"> 07:01 AM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/u-s-prevails-over-canada-in-dairy-dispute-11641318427">U.S. Prevails Over Canada in Dairy Dispute</a> WSJ: Canada has until Feb. 3 to change policies aimed at shielding its dairy industry from American competition, or the U.S. can proceed with tariffs, after a ruling published Tuesday. 
  <p class="updated_time"> 06:53 AM CT, Jan. 04 </p> 
  <a href="https://www.wsj.com/articles/lockdown-of-chinese-city-leave-13-million-stranded-11641314909">Lockdown of Chinese City Leaves 13 Million Stranded</a> WSJ: Residents of Xi’an are voicing desperation under restrictions that recall the closing of Wuhan in 2020. 
  <p class="updated_time"> 06:37 AM CT, Jan. 04 </p> 
@@ -180,6 +180,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/cdc-doubles-down-quarantine-guidelines-526501">CDC recommits to isolation and quarantine guidelines without tests</a> Politico: The recent guidance, updated Dec. 29, said individuals who test positive for Covid-19 and whose symptoms are resolving need only isolate for five days as long as they continue to wear masks for an additional five days. 
+ <p class="updated_time"> 04:21 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/trump-lawsuits-metro-capitol-police/index.html">Trump hit with two new lawsuits from police officers attacked by rioters on Jan. 6</a> CNN: Former President Donald Trump was hit with two new federal lawsuits Tuesday from law enforcement officers who were at the US Capitol on January 6 and who allege that Trump directed the assault that left them injured and emotionally traumatized. 
  <p class="updated_time"> 04:19 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/technology/podcast-election-misinformation.html">Election Falsehoods Surged on Podcasts Before Capitol Riots, Researchers Find</a> NYT: A new study analyzed nearly 1,500 episodes, showing the extent to which podcasts pushed misinformation about voter fraud. 
  <p class="updated_time"> 04:17 PM CT, Jan. 04 </p> 
@@ -236,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070032923/jamie-raskin-jan-6-capitol-unthinkable">After his son's suicide and the Jan. 6 attack, Rep. Jamie Raskin is not giving up</a> NPR: Raskin's son died just days before the Capitol insurrection. Now Raskin serves on the House select committee charged with investigating the Jan. 6 attack. His new memoir is Unthinkable. 
  <p class="updated_time"> 11:07 AM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/melania-trump-new-auction/index.html">Melania Trump to auction white hat and other items for $250,000 minimum bid</a> CNN: Melania Trump announced Tuesday morning that she is holding an auction of the white hat she wore during the visit of the French first family, the Macrons, to the White House in 2018. 
- <p class="updated_time"> 11:06 AM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/election-fraud-trump-no-evidence/index.html">The Point: Election fraud isn't really a thing, part infinity</a> CNN: If there was any consistent thread throughout the presidency of Donald Trump, it was his unswerving belief that widespread election fraud was happening and needed to be wiped out. 
  <p class="updated_time"> 10:56 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/capitol-riot-panel.html">In the Capitol’s Shadow, the Jan. 6 Panel Quietly Ramps Up Its Inquiry</a> NYT: From a nondescript office building, a few dozen investigators and members of Congress are rushing to dissect what led to the worst attack on the Capitol in centuries. 
  <p class="updated_time"> 10:49 AM CT, Jan. 04 </p> 
@@ -296,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/us/politics/bill-gardner-retires.html">New Hampshire's Secretary of State, Bill Gardner, Is Retiring</a> NYT: The official, Bill Gardner, a Democrat, has served as secretary of state in New Hampshire for more than four decades. 
  <p class="updated_time"> 05:43 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/texas-abortion-providers-supreme-court/index.html">Abortion providers go back to Supreme Court in long-shot bid to challenge Texas abortion law</a> CNN: Abortion providers on Monday asked the Supreme Court to require a conservative federal appeals court to return their challenge to Texas' six-week abortion ban to a district court judge who previously ruled in their favor. 
- <p class="updated_time"> 05:38 PM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/elizabeth-holmes-jury-fraud-526443">Former Theranos CEO Elizabeth Holmes guilty of fraud and conspiracy</a> Politico: The jury found her not guilty of four other felony charges. 
  <p class="updated_time"> 05:31 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/new-hampshire-primary-bill-gardner-526438">First-in-the-nation primary loses its top champion — but the calendar probably isn’t changing</a> Politico: New Hampshire Secretary of State Bill Gardner is retiring after years spent defending the state's place in the presidential calendar. 
  <p class="updated_time"> 05:25 PM CT, Jan. 03 </p> 
