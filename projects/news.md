@@ -49,10 +49,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59872232?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Sudan forces fire tear gas at protesters</a> BBC: Security forces use tear gas to disperse crowds as demonstrators block roads with burning tyres. 
  <p class="updated_time"> 10:33 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070171056/novak-djokovic-gets-a-vaccination-exemption-to-play-in-the-australian-open">Novak Djokovic gets a vaccination exemption to play in the Australian Open</a> NPR: The tournament's defending champion posted a photo of himself smiling at an airport. But in Australia, some of the responses to his Twitter post were not happy ones. 
+ <p class="updated_time"> 10:30 AM CT, Jan. 04 </p> 
+ <a href="https://www.wsj.com/articles/canada-reaches-15-billion-settlement-with-indigenous-peoples-11641326167">Canada Reaches $15 Billion Settlement With Indigenous Peoples</a> WSJ: The compensation is to be paid to indigenous children placed in a child-welfare system that a quasi-judicial body ruled violated human rights 
+ <p class="updated_time"> 10:05 AM CT, Jan. 04 </p> 
+ <a href="https://www.wsj.com/articles/venezuelas-u-s-backed-opposition-frays-as-nicolas-maduro-tightens-grip-11641330358">Venezuela's U.S.-Backed Opposition Frays as Maduro Tightens Grip</a> WSJ: Juan Guaidó’s coalition is hit by infighting amid disputes over how much power he should wield and alleged mismanagement of companies under opposition control. 
  <p class="updated_time"> 10:04 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
- <p class="updated_time"> 09:40 AM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/europe-struggles-to-meet-chinas-trade-challenge-11641308138">Europe Struggles to Meet China's Trade Challenge</a> WSJ: In recent weeks, China has effectively blocked Lithuanian firms from its market and started pressing European and U.S. firms with Lithuanian suppliers to cut those ties or risk being frozen out. 
  <p class="updated_time"> 09:33 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59871943?at_medium=RSS&at_campaign=KARANGA">Thailand: Tropical bay from 'The Beach' reopens</a> BBC: Maya Bay, a huge tourist draw, was closed in 2018 amid concerns over environmental damage. 
  <p class="updated_time"> 09:29 AM CT, Jan. 04 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59871267?at_medium=RSS&at_campaign=KARANGA">US snow: Major snowfall blankets Washington DC</a> BBC: Snow causes fun and frustration in Washington DC. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
  <a href="https://www.wsj.com/articles/olympic-committee-becomes-latest-target-in-standoff-over-treatment-of-uyghurs-11641324698">Olympic Committee Becomes Latest Target of Critics of Treatment of Uyghurs</a> WSJ: An activist group says the IOC has refused to engage with it on human-rights issues in China’s Xinjiang region, including the use of forced labor to make apparel. 
- <p class="updated_time"> 07:47 AM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/fourth-pfizer-dose-spurs-sharp-jump-in-antibodies-early-results-from-israel-show-11641322072">Fourth Pfizer Dose Spurs Sharp Jump in Antibodies, Early Results From Israel Show</a> WSJ: People who got the fourth shot had a fivefold increase in antibodies one week later, according to data from Israel’s Sheba Medical Center, which provided the dose to 154 medical workers of various ages. 
  <p class="updated_time"> 07:01 AM CT, Jan. 04 </p> 
  <a href="https://www.wsj.com/articles/u-s-prevails-over-canada-in-dairy-dispute-11641318427">U.S. Prevails Over Canada in Dairy Dispute</a> WSJ: Canada has until Feb. 3 to change policies aimed at shielding its dairy industry from American competition, or the U.S. can proceed with tariffs, after a ruling published Tuesday. 
  <p class="updated_time"> 06:53 AM CT, Jan. 04 </p> 
@@ -184,16 +184,24 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:48 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/us-arrest-charges-suspect-haitian-president-slaying-526492">U.S. arrests, charges suspect in Haitian president slaying</a> Politico: The U.S. government announced Tuesday that it arrested one of the main suspects in the killing of Haitian president Jovenel Moïse. 
+ <p class="updated_time"> 03:37 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/technology/podcast-election-misinformation.html">Election Falsehoods Surged on Podcasts Before Capitol Riots, Researchers Find</a> NYT: A new study analyzed nearly 1,500 episodes, showing the extent to which podcasts pushed misinformation about voter fraud. 
  <p class="updated_time"> 03:36 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/police-officer-lawsuits-capitol-riot-trump-526491">Police officer lawsuits pile up against Trump over Jan. 6</a> Politico: Three more officers who responded to the Jan. 6 attack filed a lawsuit against the former president Tuesday, seeking damages for physical and emotional injuries. 
+ <p class="updated_time"> 03:26 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/business/paxlovid-covid-pill.html">U.S. Doubles Paxlovid Covid Pill Order</a> NYT: The order for 10 million additional treatment courses will modestly increase very limited supplies in the next few weeks, with much larger deliveries later in the year. 
+ <p class="updated_time"> 03:24 PM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1070337968/why-is-the-big-lie-proving-so-hard-to-dispel">Why is the 'Big Lie' proving so hard to dispel?</a> NPR: One year after the insurrection at the U.S. Capitol, a new NPR/Ipsos poll shows many Americans still buy into the "Big Lie": the baseless claim that the 2020 election was stolen. 
+ <p class="updated_time"> 03:07 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/tim-kaine-stranded-interstate-95-winter-storm/index.html">Virginia senator recounts being stuck on I-95 for more than 20 hours after winter storm</a> CNN: Sen. Tim Kaine on Tuesday recounted his hours-long journey on a Washington-area highway after a winter storm crippled the region and left hundreds, including the Virginia Democrat, stranded for hours on roads. 
+ <p class="updated_time"> 03:03 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/supreme-court-justices-covid-booster-shot/index.html">All nine Supreme Court justices have received a Covid-19 booster shot</a> CNN: All nine Supreme Court justices have received a Covid-19 booster shot, the court said Tuesday. 
  <p class="updated_time"> 02:54 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/cdc-isolation-guidance-upcoming/index.html">Update to CDC's Covid-19 isolation guidance is imminent, source says</a> CNN: The US Centers for Disease Control and Prevention is expected to update its guidance on the recommended isolation period imminently, according to a source familiar with the plan. 
  <p class="updated_time"> 02:36 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/dnc-staff-unionize-overwhelming-margin-526490">DNC staff votes by ‘overwhelming margin’ to unionize</a> Politico: The Democratic National Committee staff will join SEIU Local 500. 
  <p class="updated_time"> 02:28 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden announces US will double its order of Pfizer's antiviral pill to treat Covid-19</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
- <p class="updated_time"> 02:19 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/business/paxlovid-covid-pill.html">U.S. Doubles Paxlovid Covid Pill Order</a> NYT: The order for 10 million additional treatment courses will modestly increase very limited supplies in the next few weeks, with much larger deliveries later in the year. 
  <p class="updated_time"> 02:12 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/andrew-cuomo-albany-da/index.html">Albany DA declines to prosecute former Gov. Andrew Cuomo on forcible touching charge </a> CNN: The Albany district attorney will not prosecute former New York Gov. Andrew Cuomo on a misdemeanor sex crime charge of forcible touching after reviewing the evidence in the case despite finding the complainant "cooperative" and "credible." 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
@@ -222,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/04/politics/melania-trump-new-auction/index.html">Melania Trump to auction white hat and other items for $250,000 minimum bid</a> CNN: Melania Trump announced Tuesday morning that she is holding an auction of the white hat she wore during the visit of the French first family, the Macrons, to the White House in 2018. 
  <p class="updated_time"> 11:06 AM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/election-fraud-trump-no-evidence/index.html">The Point: Election fraud isn't really a thing, part infinity</a> CNN: If there was any consistent thread throughout the presidency of Donald Trump, it was his unswerving belief that widespread election fraud was happening and needed to be wiped out. 
- <p class="updated_time"> 10:59 AM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/devin-nunes-resigns-from-congress/index.html">Devin Nunes officially resigns from Congress</a> CNN: Devin Nunes, a Republican who has represented California since 2003, has officially resigned from Congress, ending a nearly 20-year stint in the House of Representatives. 
  <p class="updated_time"> 10:56 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/capitol-riot-panel.html">In the Capitol’s Shadow, the Jan. 6 Panel Quietly Ramps Up Its Inquiry</a> NYT: From a nondescript office building, a few dozen investigators and members of Congress are rushing to dissect what led to the worst attack on the Capitol in centuries. 
  <p class="updated_time"> 10:52 AM CT, Jan. 04 </p> 
@@ -292,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/new-hampshire-primary-bill-gardner-526438">First-in-the-nation primary loses its top champion — but the calendar probably isn’t changing</a> Politico: New Hampshire Secretary of State Bill Gardner is retiring after years spent defending the state's place in the presidential calendar. 
  <p class="updated_time"> 05:25 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/senate-democrats-biden-agenda.html">Democrats Set Timetable to Change Rules for Stalled Voting Rights Bills</a> NYT: The top Senate Democrat said he would act by Jan. 17 to try to force through the measures if Republicans refused to drop their opposition. 
- <p class="updated_time"> 05:11 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/vladislav-klyushin-kremlin-ties-federal-court/index.html">Russian businessman's Kremlin ties could prove intel 'gold mine' for US, former official says</a> CNN: A Russian businessman who appeared in US court Monday on securities fraud charges could be a valuable asset in US efforts to gather more information on Russian interference in the 2016 election as well as other intelligence operations, former US officials tell CNN. 
  <p class="updated_time"> 04:55 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/business/economy/inflation-democrats-corporations.html">Democrats Blast Corporate Profits as Inflation Surges</a> NYT: Politicians are placing more blame on greedy companies as prices stay high. But booming consumer demand is enabling firms to charge more. 
  <p class="updated_time"> 04:13 PM CT, Jan. 03 </p> 
@@ -342,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/could-january-6th-happen-again-526167">Could Jan. 6 happen again?</a> Politico: The Capitol Police has made progress under a new chief. But many on the Hill don't have an easy answer. 
  <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069837652/morning-news-brief">News brief: COVID-19 surge, NPR/Ipsos democracy poll, Capitol police gains</a> NPR: The omicron variant hasn't slowed in the U.S. A poll shows Americans are deeply pessimistic about the future of democracy. The Capitol Police chief is to testify before a Senate panel this week. 
- <p class="updated_time"> 04:01 AM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069157693/2022-politics-biden-democrats-election-capitol-riot-abortion-supreme-court">6 questions for politics in 2022</a> NPR: From control of Congress and the strength of the Biden presidency to potential Jan. 6 committee revelations and the future of abortion rights, there's a lot at stake in 2022. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/supreme-court-death-penalty-intellectual-disability.html">Language Mistake in Georgia Death Penalty Law Creates a Daunting Hurdle</a> NYT: The Supreme Court will decide whether to hear a challenge to the law, which requires that defendants in capital cases who are intellectually disabled prove it “beyond a reasonable doubt” — a phrase that was inserted in error. 
  <p class="updated_time"> 09:13 PM CT, Jan. 02 </p> 
@@ -382,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/02/politics/democrats-january-6-2022-campaigns/index.html">'It's not a silver bullet': Democrats weigh how to talk about January 6 on the 2022 campaign trail</a> CNN: The January 6 insurrection may be a year behind Rep. Jason Crow, but the Colorado Democrat -- and many of his colleagues -- insist it would be a grievous error for his party to downplay the attack. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
- <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/01/us/politics/afghan-war-isis-attack.html">U.S. Military Focusing on ISIS Cell Behind Attack at Kabul Airport</a> NYT: The suicide bomber who killed nearly 200 people, including 13 U.S. troops, had been freed from prison by the Taliban days before the attack. 
  <p class="updated_time"> 09:43 AM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/01/politics/new-laws-in-2022/index.html">From minimum wage hikes to a ban on gas-powered leaf blowers, these new laws take effect in 2022</a> CNN: The year 2021 marked by an innumerable number of rules tied to the coronavirus pandemic. 
  <p class="updated_time"> 07:00 AM CT, Jan. 01 </p> 
