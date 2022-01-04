@@ -7,12 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:45 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Decision soon on dismissing case - judge</a> BBC: A US court hears arguments about a deal the prince's accuser Virginia Giuffre agreed with Jeffrey Epstein. 
- <p class="updated_time"> 11:18 AM CT, Jan. 04 </p> 
+ <p class="updated_time"> 12:35 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Seizes a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
+ <p class="updated_time"> 12:19 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59833122?at_medium=RSS&at_campaign=KARANGA">Prosecutor drops Andrew Cuomo groping charge</a> BBC: Accuser is 'credible', district attorney says, but there is not enough evidence to move forward. 
+ <p class="updated_time"> 12:07 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59871779?at_medium=RSS&at_campaign=KARANGA">Europe's tattoo artists fear for future after EU ink ban</a> BBC: Thousands of chemicals are banned by EU for safety reasons, but tattooists say it will hit business. 
+ <p class="updated_time"> 12:07 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/health/cdc-pfizer-booster.html">Get a Pfizer Booster After 5 Months, Not 6, the C.D.C. Says</a> NYT: Following the F.D.A.’s lead, the agency also recommended third shots after four weeks for some immunocompromised children 5 to 11. 
+ <p class="updated_time"> 11:56 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Decision soon on dismissing case - judge</a> BBC: A US court hears arguments about a deal the prince's accuser Virginia Giuffre agreed with Jeffrey Epstein. 
  <p class="updated_time"> 11:09 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59866553?at_medium=RSS&at_campaign=KARANGA">South Africa parliament fire suspect had explosives - prosecutor</a> BBC: A man who allegedly set fire to the Cape Town building was caught with explosives, prosecutors say. 
+ <p class="updated_time"> 11:07 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59872232?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Sudan forces fire tear gas at protesters</a> BBC: Security forces use tear gas to disperse crowds as demonstrators block roads with burning tyres. 
  <p class="updated_time"> 10:41 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/africa/cape-town-parliament-fire-suspect-charged.html">Suspect Charged With Arson in Fire at South Africa’s Parliament</a> NYT: The 49-year-old was also accused of possessing explosives, stealing laptops and breaking security laws. Former neighbors were shocked. His lawyer said the government was rushing to find a scapegoat. 
  <p class="updated_time"> 10:33 AM CT, Jan. 04 </p> 
@@ -21,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59867536?at_medium=RSS&at_campaign=KARANGA">US reports 1m daily Covid cases with peak to come</a> BBC: Omicron drives a record-breaking daily tally of new US cases, though deaths remain stable. 
  <p class="updated_time"> 10:04 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
- <p class="updated_time"> 09:59 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59833121?at_medium=RSS&at_campaign=KARANGA">California twins born 15 minutes apart in two different years</a> BBC: Aylin Trujillo arrived exactly at midnight on 1 January 2022, 15 minutes after her brother Alfredo. 
  <p class="updated_time"> 09:33 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59871943?at_medium=RSS&at_campaign=KARANGA">Thailand: Tropical bay from 'The Beach' reopens</a> BBC: Maya Bay, a huge tourist draw, was closed in 2018 amid concerns over environmental damage. 
  <p class="updated_time"> 09:29 AM CT, Jan. 04 </p> 
@@ -31,6 +37,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59868721?at_medium=RSS&at_campaign=KARANGA">Two arrested in Egypt after teenage girl's suicide</a> BBC: Basant Khaled, 17, took her own life in Egypt after allegedly being blackmailed with faked images. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59871267?at_medium=RSS&at_campaign=KARANGA">US snow: Major snowfall blankets Washington DC</a> BBC: Snow causes fun and frustration in Washington DC. 
+ <p class="updated_time"> 07:15 AM CT, Jan. 04 </p> 
+ <a href="https://www.wsj.com/articles/u-s-ambassador-to-russia-says-de-escalation-is-key-objective-at-ukraine-talks-11641314171">U.S. Ambassador to Russia Says De-Escalation Is Key Objective at Ukraine Talks</a> WSJ: Washington heads into discussions with Moscow next week determined to defend its allies and partners in deterring Russia from any further incursion into Ukraine, but is also ready to engage in dialogue and diplomacy, John Sullivan said. 
+ <p class="updated_time"> 06:53 AM CT, Jan. 04 </p> 
+ <a href="https://www.wsj.com/articles/lockdown-of-chinese-city-leave-13-million-stranded-11641314909">Lockdown of Chinese City Leaves 13 Million Stranded</a> WSJ: Residents of Xi’an are voicing desperation under restrictions that recall the closing of Wuhan in 2020. 
  <p class="updated_time"> 06:37 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/china-evergrande-protests.html">With Property Sales Plunging, China Evergrande Faces More Protests</a> NYT: The developer has tried for months to signal that its $300 billion debt problem was under control. But the challenges keep mounting. 
  <p class="updated_time"> 06:32 AM CT, Jan. 04 </p> 
@@ -41,12 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/sports/tennis/djokovic-vaccine.html">Djokovic Granted Covid-19 Vaccine Exemption to Play in Australian Open</a> NYT: The top-ranked player in men’s tennis revealed his plans in a post on his Instagram account. 
  <p class="updated_time"> 05:53 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59864266?at_medium=RSS&at_campaign=KARANGA">China: Xi'an residents in lockdown trade goods for food amid shortage</a> BBC: Supplies are low in lockdown, and some have resorted to bartering phones and gadgets for food. 
- <p class="updated_time"> 05:49 AM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/lockdown-of-chinese-city-leave-13-million-stranded-11641314909">Lockdown of Chinese City Leaves 13 Million Stranded</a> WSJ: Residents of Xi’an are voicing desperation under restrictions that recall the closing of Wuhan in 2020. 
- <p class="updated_time"> 05:42 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59867530?at_medium=RSS&at_campaign=KARANGA">Donald Trump's children refuse to testify in fraud inquiry</a> BBC: Donald Jr and Ivanka are being asked to give evidence to a civil investigation into the family business. 
- <p class="updated_time"> 05:36 AM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/u-s-ambassador-to-russia-says-de-escalation-is-key-objective-at-ukraine-talks-11641314171">U.S. Ambassador to Russia Says De-Escalation Is Key Objective at Ukraine Talks</a> WSJ: Washington heads into discussions with Moscow next week determined to defend its allies and partners in deterring Russia from any further incursion into Ukraine, but is also ready to engage in dialogue and diplomacy, John Sullivan said. 
  <p class="updated_time"> 05:31 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/04/1068916102/how-subsidies-helped-montreal-become-the-hollywood-of-video-games">How subsidies helped Montreal become "the Hollywood of video games"</a> NPR: For decades, Montreal has used generous tax subsidies to boost its video game industry. The policy has succeeded, but the city may need to keep the subsidies in place to keep companies from leaving. 
  <p class="updated_time"> 05:19 AM CT, Jan. 04 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59734254?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes: Theranos founder convicted of fraud</a> BBC: The Silicon Valley ex-CEO faces a lengthy term in prison for defrauding investors. 
  <p class="updated_time"> 03:55 AM CT, Jan. 04 </p> 
  <a href="https://www.wsj.com/articles/europe-struggles-to-meet-chinas-trade-challenge-11641308138">Europe Struggles to Meet China's Trade Challenge</a> WSJ: In recent weeks, China has effectively blocked Lithuanian firms from its market and started pressing European and U.S. firms with Lithuanian suppliers to cut those ties or risk being frozen out. 
- <p class="updated_time"> 03:49 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59835674?at_medium=RSS&at_campaign=KARANGA">Bulli Bai: Indian man arrested for fake auction of Muslim women</a> BBC: The Indian app shared photos of several prominent Muslim women in a fake auction, sparking outrage. 
  <p class="updated_time"> 02:52 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070110830/western-wall-prayer-sites-future-is-in-doubt-under-israels-fragile-government">Western Wall prayer site's future is in doubt under Israel's fragile government</a> NPR: Israel's refusal to recognize liberal Reform and Conservative streams of Judaism has long been a point of tension with American Jews. 
  <p class="updated_time"> 02:00 AM CT, Jan. 04 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/europe/berkeley-balcony-collapse-death.html">Victim of Berkeley Balcony Collapse Dies in Ireland</a> NYT: Aoife Beary, who was left with life-changing injuries after the 2015 accident, died on New Year’s Day, her family said. 
  <p class="updated_time"> 01:52 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/africa/richard-leakey-dead.html">Richard Leakey, Kenyan Fossil Hunter and Conservationist, Dies at 77</a> NYT: His discoveries of ancient human skulls and skeletons, including the famed “Turkana Boy,” helped cement Africa’s standing as the cradle of humanity. 
- <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/31/us/pentagon-airstrikes-syria-iraq.html">Documents Reveal Flaws in Pentagon Dismissals of Civilian Casualty Claims in Iraq and Syria</a> NYT: A Times investigation found inconsistent approaches to assessing claims of civilians killed by coalition forces — including failures to conduct simple internet searches. 
  <p class="updated_time"> 12:51 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/trump-endorses-viktor-orban-hungary.html">Trump Endorses Viktor Orban, Hungary’s Far-Right Prime Minister</a> NYT: Democracy in Hungary has been backsliding under Mr. Orban, whose efforts to consolidate power have caused consternation in the European Union. 
  <p class="updated_time"> 12:40 PM CT, Jan. 03 </p> 
@@ -188,6 +188,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/manchin-biden-spending-bill-negotiation-526486">Manchin on Biden's spending bill: 'No negotiation going on'</a> Politico: The West Virginia senator thinks Democrats would be better off focusing on climate provisions in their wide-ranging megabill. 
+ <p class="updated_time"> 12:47 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/omicron-ontario-canada-covid-restrictions-526484">As Covid policies divide America, Ontario doubles down (again)</a> Politico: The latest Covid shutdowns test the trust of the jabbed and boosted in Canada’s most populous province. 
+ <p class="updated_time"> 12:32 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/navy-covid-vaccine-refusers-526485">Navy blocked from acting against 35 Covid vaccine refusers</a> Politico: The injunction is a new challenge to Defense Secretary Lloyd Austin’s decision to make vaccinations mandatory for all members of the military. 
+ <p class="updated_time"> 12:20 PM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1069232219/heres-where-election-deniers-and-doubters-are-running-to-control-voting">Here's where election-denying candidates are running to control voting</a> NPR: An NPR analysis found at least 15 Republican candidates for Secretary of State offices in 2022 who doubt Joe Biden's 2020 victory. 
+ <p class="updated_time"> 12:00 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/mitch-landrieu-letter-to-governors-infrastructure/index.html">Biden's infrastructure czar urges governors to appoint their own infrastructure implementation coordinators</a> CNN: President Joe Biden's infrastructure czar Mitch Landrieu sent letters to all the nation's governors on Tuesday urging them to appoint their own infrastructure implementation coordinators to smooth the rollout of the $1.2 trillion law. 
+ <p class="updated_time"> 11:57 AM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/cdc-isolation-guidance-upcoming/index.html">Update to CDC's Covid-19 isolation guidance is imminent, source says</a> CNN: The US Centers for Disease Control and Prevention is expected to update its guidance on the recommended isolation period imminently, according to a source familiar with the plan. 
+ <p class="updated_time"> 11:52 AM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/andrew-cuomo-albany-da/index.html">Albany DA declines to prosecute former Gov. Andrew Cuomo on forcible touching charge </a> CNN: The Albany district attorney will not prosecute former New York Gov. Andrew Cuomo on a misdemeanor sex crime charge of forcible touching after reviewing the evidence in the case despite finding the complainant "cooperative" and "credible." 
  <p class="updated_time"> 11:49 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/tesla-dealership-xinjiang-china.html">Tesla Draws Criticism After Opening Dealership in Xinjiang </a> NYT: Senator Marco Rubio criticized the electric carmaker for opening the outlet in a region where China has been accused of targeting Muslims. 
  <p class="updated_time"> 11:48 AM CT, Jan. 04 </p> 
@@ -216,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/04/politics/hackers-florida-health-care/index.html">Hackers breached Florida health care system, potentially exposing data on 1.3 million people</a> CNN: Hackers breached the computer networks of a southeast Florida health care system in October and may have accessed sensitive personal and financial information on over 1.3 million people, the health care system announced this week. 
  <p class="updated_time"> 08:17 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/capitol-riot-january-6.html">The Jan. 6 Committee’s Consideration of a Criminal Referral, Explained</a> NYT: The House panel does not have the authority to pursue criminal charges, but it can provide the Justice Department with evidence of any wrongdoing it unearths in its investigation. 
- <p class="updated_time"> 08:10 AM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/cdc-isolation-guidance-upcoming/index.html">Update to CDC's Covid-19 isolation guidance is imminent, source says</a> CNN: The US Centers for Disease Control and Prevention is expected to update its guidance on the recommended isolation period imminently, according to a source familiar with the plan. 
  <p class="updated_time"> 07:51 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/04/toxic-positivity-rates-on-capitol-hill-495587">Toxic positivity (rates) on Capitol Hill</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Jan. 04 </p> 
@@ -284,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/03/1069983228/during-the-jan-6-riot-chaos-lawmakers-called-on-military-and-intelligence-traini">During the Jan. 6 riot chaos, lawmakers called on military and intelligence training</a> NPR: Representatives Abigail Spanberger, D-Va., and Jason Crow, D-Colo., reflect on the ways their military and intelligence training aided them during the Jan. 6 insurrection at the U.S. Capitol. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069983200/millions-sympathize-with-the-rioters-who-attacked-the-capitol-on-jan-6-survey-fi">Millions sympathize with the rioters who attacked the Capitol on Jan. 6, survey finds</a> NPR: As the U.S. nears the anniversary of a pro-Trump mob's attack at the Capitol, a survey finds widespread community support for violent insurrection that it calls a new political movement in the U.S. 
- <p class="updated_time"> 02:36 PM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/ny-ag-subpoenas-trump-jr-ivanka-526404">New York attorney general issued subpoenas to Ivanka, Don. Jr.</a> Politico: Attorney General Letitia James has also sought testimony from the former president and Eric Trump. 
  <p class="updated_time"> 02:27 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/biden-meat-processing-industry/index.html">White House to invest $1 billion to boost competition in meat-processing industry and lower consumer prices</a> CNN: The White House on Monday announced it would allocate $1 billion in funding from the American Rescue Plan to independent meat and poultry producers as part of an effort to boost competition in the meat-processing industry and lower prices for consumers. 
  <p class="updated_time"> 02:21 PM CT, Jan. 03 </p> 
@@ -332,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/03/1069764164/american-democracy-poll-jan-6">6 in 10 Americans say U.S. democracy is in crisis as the 'Big Lie' takes root</a> NPR: A year after the Jan. 6 attack on the U.S. Capitol, a new NPR/Ipsos poll finds that Americans are pessimistic about the future of democracy, as false claims about the 2020 election persist. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/supreme-court-death-penalty-intellectual-disability.html">Language Mistake in Georgia Death Penalty Law Creates a Daunting Hurdle</a> NYT: The Supreme Court will decide whether to hear a challenge to the law, which requires that defendants in capital cases who are intellectually disabled prove it “beyond a reasonable doubt” — a phrase that was inserted in error. 
- <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1068396411/a-year-after-capitol-polices-darkest-day-its-chief-says-the-force-is-making-gain">A year after the darkest day for Capitol Police, its new chief focuses on rebuilding</a> NPR: Capitol Police Chief Tom Manger has been on the job less than six months. He hopes to lead a new chapter at the embattled agency. 
  <p class="updated_time"> 09:13 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/harry-reid-to-lie-in-state-in-capitol-rotunda-526381">Harry Reid to lie in state in Capitol Rotunda</a> Politico: The former Senate majority leader died last Tuesday. 
  <p class="updated_time"> 08:52 PM CT, Jan. 02 </p> 
@@ -370,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/us/politics/stacey-abrams-georgia-democrats.html">Left and Center-Left Both Claim Stacey Abrams. Who’s Right?</a> NYT: Ms. Abrams, the Georgia Democrat running for governor, has admirers in both wings of her party — and Republicans eager to defeat her. Her carefully calibrated strategy faces a test in 2022. 
  <p class="updated_time"> 11:30 PM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/democrats-january-6-2022-campaigns/index.html">'It's not a silver bullet': Democrats weigh how to talk about January 6 on the 2022 campaign trail</a> CNN: The January 6 insurrection may be a year behind Rep. Jason Crow, but the Colorado Democrat -- and many of his colleagues -- insist it would be a grievous error for his party to downplay the attack. 
- <p class="updated_time"> 06:54 PM CT, Jan. 01 </p> 
- <a href="https://www.cnn.com/2022/01/01/politics/nyc-mayor-eric-adams-swear-in/index.html">Adams gives first speech as NYC mayor: 'We will not be controlled by crisis'</a> CNN: Eric Adams, New York City's new mayor, was sworn in to office just minutes after the crystal ball dropped at midnight in Times Square on January 1. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
@@ -402,8 +408,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
- <p class="updated_time"> 05:14 PM CT, Dec. 28 </p> 
- <a href="https://www.cnn.com/2021/12/28/politics/andrew-cuomo-westchester-county-no-charges/index.html">Ex-New York Gov. Cuomo will not be criminally charged by Westchester County district attorney over alleged inappropriate conduct</a> CNN: Westchester District Attorney Miriam Rocah announced on Tuesday her office will not criminally charge former New York Gov. Andrew Cuomo after a "thorough" investigation into allegations of inappropriate conduct made by two women against him. 
 
 
 </details>
