@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:52 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070110830/western-wall-prayer-sites-future-is-in-doubt-under-israels-fragile-government">Western Wall prayer site's future is in doubt under Israel's fragile government</a> NPR: Israel's refusal to recognize liberal Reform and Conservative streams of Judaism has long been a point of tension with American Jews. 
+ <p class="updated_time"> 02:52 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59865342?at_medium=RSS&at_campaign=KARANGA">Bee farming: Police stung breaking up protest in Chile</a> BBC: Four beekeepers are detained following a protest calling for government support for their industry. 
  <p class="updated_time"> 02:34 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/molenbeek-brussels-terrorist-attack-paris.html">Changing Brussels Neighborhood Tries to Leave Stigma of Terrorism Behind</a> NYT: Molenbeek was where a terrorist cell planned attacks that killed 162 in Paris and Brussels. Six years later, residents are trying to reinvent the area as a trial rekindles an awful association. 
  <p class="updated_time"> 02:03 AM CT, Jan. 04 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59861556?at_medium=RSS&at_campaign=KARANGA">South Africa parliament fire flares up again</a> BBC: Firefighters are trying to douse the blaze which reignited hours after it was said to be under control. 
  <p class="updated_time"> 02:56 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/europe/hungary-european-union.html">How the European Union Allowed Hungary to Become an Illiberal Model</a> NYT: After years of complacency and wishful thinking, Brussels is finally trying to rein in the country’s pugnacious leader, Prime Minister Viktor Orban. 
- <p class="updated_time"> 02:54 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59863052?at_medium=RSS&at_campaign=KARANGA">Haiti PM Ariel Henry survived assassination attempt - officials</a> BBC: Ariel Henry was targeted by gunmen during an event in Gonaïves on Saturday, his office says. 
  <p class="updated_time"> 02:22 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59863152?at_medium=RSS&at_campaign=KARANGA">South Africa's parliament building on fire again</a> BBC: One day after a fire at the parliament building in Cape Town, crews are tackling another blaze. 
  <p class="updated_time"> 02:00 PM CT, Jan. 03 </p> 
