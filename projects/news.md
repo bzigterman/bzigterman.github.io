@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:56 PM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59864059?at_medium=RSS&at_campaign=KARANGA">Apple becomes first firm to hit $3tn market value</a> BBC: The firm's value more than doubled during the pandemic as people bought more gadgets during lockdowns. 
  <p class="updated_time"> 08:58 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59734254?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes: Theranos founder convicted of fraud</a> BBC: A jury found the Silicon Valley ex-CEO guilty on four of 11 counts after seven days of deliberations. 
  <p class="updated_time"> 08:58 PM CT, Jan. 03 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59860058?at_medium=RSS&at_campaign=KARANGA">Covid-19: French MPs get death threats over support for vaccine pass</a> BBC: They report the threats as they consider tougher restrictions on unvaccinated people in France. 
  <p class="updated_time"> 09:39 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/01/03/1059018377/photos-poland-belarus-border-migrants-volunteers">This photographer captured how activists helped migrants at the Poland-Belarus border</a> NPR: Polish-based photographer Kasia Strek documented what it was like for migrants and people in Poland as the crisis evolved at the border in November. 
- <p class="updated_time"> 09:19 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59855246?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Prime Minister Abdalla Hamdok resigns after mass protests</a> BBC: Abdalla Hamdok's resignation comes weeks after he was reinstated by the military following a coup. 
  <p class="updated_time"> 09:13 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59833131?at_medium=RSS&at_campaign=KARANGA">Richard Leakey - fossil expert, conservationist and politician</a> BBC: The achievements of Richard Leakey, who has died aged 77, were as remarkable as they were diverse. 
  <p class="updated_time"> 09:05 AM CT, Jan. 03 </p> 
@@ -87,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/turkeys-erdogan-says-he-will-visit-saudi-arabia-in-february-11641233361">Erdogan Says He Will Visit Saudi Arabia in February</a> WSJ: A once-unimaginable meeting between the Turkish leader and the Saudi crown prince would signal detente in a rift that has divided the Middle East for years. 
  <p class="updated_time"> 06:54 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/business/china-evergrande-shares-hong-kong.html">China Evergrande Suspends Trading Shares in Hong Kong</a> NYT: The world’s most indebted property developer provided no details on the suspension, but it suggested an announcement “containing inside information” would come soon. 
- <p class="updated_time"> 06:14 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59859148?at_medium=RSS&at_campaign=KARANGA">Newborn baby found in toilet bin of Air Mauritius plane</a> BBC: The mother and baby are doing well, after airport staff found the boy during a routine check. 
  <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/article/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
  <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
@@ -113,6 +111,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/03/1069824056/another-hong-kong-news-outlet-to-close-amid-crackdown-on-dissent">Another Hong Kong news site shuts as pro-Beijing lawmakers sworn in</a> NPR: A Hong Kong online news site said Sunday that it will cease operations in light of deteriorating press freedoms, days after police raided a separate pro-democracy news outlet, arresting seven. 
  <p class="updated_time"> 10:04 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/maryland-covid-larry-hogan.html">Governor: Maryland Prepares for 'Terrible Point' in Covid Crisis</a> NYT: Gov. Larry Hogan said the state was trying to staff hospitals through a variety of measures. 
+ <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59728593?at_medium=RSS&at_campaign=KARANGA">Kunal Kamra: The comedians under fire from Hindu nationalists</a> BBC: Kunal Kamra and Munawar Faruqui talk to the BBC about having shows cancelled in the face of right-wring ire. 
  <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383184?at_medium=RSS&at_campaign=KARANGA">Green Connect: The farm helping refugees build a life in Australia</a> BBC: It has employed 5,000 people in the past decade and "dramatically" changed fortunes, refugees say. 
  <p class="updated_time"> 03:41 PM CT, Jan. 02 </p> 
@@ -171,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/europe/germany-new-year-speech-olaf-scholz-covid.html">In New Year's Speech, Olaf Scholz, Germany's New Leader, Focuses on Covid</a> NYT: Olaf Scholz, who replaced Angela Merkel as chancellor about three weeks ago, gave the traditional New Year’s Eve address for the first time and called for unity and vaccinations. 
  <p class="updated_time"> 10:45 AM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/africa/uganda-congo-rebels-adf.html">Why Did Uganda Send Troops Into Congo?</a> NYT: The Ugandan government says it is targeting rebels it accuses of terrorist attacks in Kampala. Many Congolese fear the incursion is cover for yet another plundering of their country. 
- <p class="updated_time"> 09:04 AM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/31/world/middleeast/asma-khader-dead.html">Asma Khader, Fighter for Women’s Rights in Jordan, Dies at 69</a> NYT: A respected lawyer, she focused on the victims of domestic violence and also worked hard to change discriminatory laws. 
 
 
 </details>
