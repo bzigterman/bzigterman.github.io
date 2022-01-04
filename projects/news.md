@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:29 PM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59734254?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes: Theranos founder convicted of fraud</a> BBC: A jury found the Silicon Valley ex-CEO guilty on four of 11 counts after seven days of deliberations. 
  <p class="updated_time"> 10:25 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59864266?at_medium=RSS&at_campaign=KARANGA">China: Xi'an residents in lockdown barter for food amid shortage</a> BBC: Faced with low supplies under lockdown, some have resorted to trading phones and gadgets for food. 
  <p class="updated_time"> 09:56 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59864059?at_medium=RSS&at_campaign=KARANGA">Apple becomes first firm to hit $3tn market value</a> BBC: The firm's value more than doubled during the pandemic as people bought more gadgets during lockdowns. 
- <p class="updated_time"> 08:58 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59734254?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes: Theranos founder convicted of fraud</a> BBC: A jury found the Silicon Valley ex-CEO guilty on four of 11 counts after seven days of deliberations. 
  <p class="updated_time"> 08:58 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808739?at_medium=RSS&at_campaign=KARANGA">Oo Antava: Why a song calling out men is under fire for sleaze</a> BBC: A new hit song which claims to subvert the male gaze is accused of, in fact, objectifying women. 
  <p class="updated_time"> 08:45 PM CT, Jan. 03 </p> 
