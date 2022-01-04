@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:47 AM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1070119371/activists-urge-tesla-to-close-its-new-xinjiang-showroom">Activists urge Tesla to close its new Xinjiang showroom</a> NPR: Tesla on Friday announced the opening of its showroom in Urumqi, the capital of Xinjiang, where officials are accused of abuses against mostly Muslim ethnic minorities. 
  <p class="updated_time"> 04:11 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-forced-labor-beijing-olympics.html">What Is the I.O.C. Doing About Forced Labor Concerns in China? It Won’t Say. </a> NYT: Olympic officials are reluctant to probe whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 04:11 AM CT, Jan. 04 </p> 
@@ -27,10 +29,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/business/britain-electricity-norway-cables.html">A Widening Web of Undersea Cables Connects Britain to Green Energy</a> NYT: Linking one nation’s power grid with another’s is considered essential as more electricity is generated from solar and wind. 
  <p class="updated_time"> 01:45 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59864266?at_medium=RSS&at_campaign=KARANGA">China: Xi'an residents in lockdown trade for food amid shortage</a> BBC: Faced with low supplies under lockdown, some have resorted to bartering phones and gadgets for food. 
+ <p class="updated_time"> 11:30 PM CT, Jan. 03 </p> 
+ <a href="https://www.wsj.com/articles/russias-military-buildup-near-ukraine-is-an-open-secret-11641292202">Russia's Military Buildup Near Ukraine Is an Open Secret</a> WSJ: Satellite images, social media posts and flight-tracking data allow private citizens to track details governments once classified. 
  <p class="updated_time"> 10:00 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59856063?at_medium=RSS&at_campaign=KARANGA">Top US phone firms agree delay of 5G rollout</a> BBC: The two-week delay requested by transportation and aviation authorities was initially rejected. 
  <p class="updated_time"> 09:56 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59864059?at_medium=RSS&at_campaign=KARANGA">Apple becomes first firm to hit $3tn market value</a> BBC: The firm's value more than doubled during the pandemic as people bought more gadgets during lockdowns. 
+ <p class="updated_time"> 09:27 PM CT, Jan. 03 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-infections-accelerate-across-asia-11641283016">Covid-19 Infections Accelerate Across Asia</a> WSJ: Australia passed 500,000 cases, while the Philippines and India reported faster spread. 
  <p class="updated_time"> 08:58 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808739?at_medium=RSS&at_campaign=KARANGA">Pushpa: Why a song calling out men is under fire for sleaze</a> BBC: A new hit song which claims to subvert the male gaze is accused of, in fact, objectifying women. 
  <p class="updated_time"> 08:45 PM CT, Jan. 03 </p> 
@@ -117,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/turkeys-inflation-rate-nears-20-year-high-as-lira-crisis-continues-11641211659">Turkey's Inflation Rate Nears 20-Year High</a> WSJ: The country’s annual inflation rose to 36.08% in December, raising fresh concerns that it could overwhelm a government rescue plan to stabilize the battered local currency. 
  <p class="updated_time"> 12:15 AM CT, Jan. 03 </p> 
  <a href="https://www.wsj.com/articles/sudans-prime-minister-resigns-as-political-crisis-worsens-11641208528">Sudan's Prime Minister Resigns as Political Crisis Worsens</a> WSJ: Abdalla Hamdok resignation marks the latest disruption to the strategically-located nation, as it attempts to transition to democracy following the end of Omar al Bashir’s three-decade reign. 
- <p class="updated_time"> 11:30 PM CT, Jan. 02 </p> 
- <a href="https://www.wsj.com/articles/china-is-haunted-by-its-one-child-policy-as-it-tries-to-encourage-couples-to-conceive-11641205807">China Is Haunted by One-Child Policy as It Encourages Couples to Conceive</a> WSJ: A legacy of China’s one-child policy is a dwindling number of women of childbearing age as well as a generation of only children who are less eager to marry and start a family. 
  <p class="updated_time"> 11:05 PM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/03/1069824056/another-hong-kong-news-outlet-to-close-amid-crackdown-on-dissent">Another Hong Kong news site shuts as pro-Beijing lawmakers sworn in</a> NPR: A Hong Kong online news site said Sunday that it will cease operations in light of deteriorating press freedoms, days after police raided a separate pro-democracy news outlet, arresting seven. 
  <p class="updated_time"> 10:04 PM CT, Jan. 02 </p> 
@@ -147,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/world/asia/korea-dmz-border.html">South Korea Says Unknown Person Crossed DMZ Into North</a> NYT: The breach at the Demilitarized Zone went unnoticed for hours, the South Korean military said. There was no immediate response from North Korea. 
  <p class="updated_time"> 06:55 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59566983?at_medium=RSS&at_campaign=KARANGA">In the footsteps of the women who escaped a Nazi death march</a> BBC: When Gwen Strauss' great-aunt revealed she had led nine women in an escape from a Nazi death march in 1945, Gwen decided to retrace their steps. 
- <p class="updated_time"> 06:07 PM CT, Jan. 01 </p> 
- <a href="https://www.npr.org/2022/01/01/1069676008/a-plain-pine-coffin-and-eco-friendly-cremation-are-the-last-acts-of-desmond-tutu">A plain pine coffin and eco-friendly cremation are the last acts of Desmond Tutu</a> NPR: Archbishop Emeritus Desmond Tutu, who died last Sunday, chose to be aquamated, a more environmentally friendly alternative to cremation. It is 90% more energy efficient than a traditional cremation. 
  <p class="updated_time"> 06:05 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59703681?at_medium=RSS&at_campaign=KARANGA">Letter from Africa: Africa plays on in 2022 without its great referee</a> BBC: Joseph Warungu looks at what is in store for the African continent this coming year. 
  <p class="updated_time"> 02:25 PM CT, Jan. 01 </p> 
@@ -195,7 +197,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/amazon-google-thwart-antitrust-bills-526460">Amazon and Google deploy their armies to thwart antitrust bills</a> Politico: Small businesses that rely on the tech giants are signing petitions and joining Zoom calls with lawmakers to warn against legislation aimed at promoting competition. 
  <p class="updated_time"> 04:00 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/magazine/jan-6-capitol-riot-police-officers.html">The Capitol Police and the Scars of January. 6</a> NYT: For many officers, their bodies, minds and lives will never be the same after the attack. 
+ <a href="https://www.nytimes.com/2022/01/04/magazine/jan-6-capitol-police-officers.html">The Capitol Police and the Scars of the January 6th Riot</a> NYT: For many officers, their bodies, minds and lives will never be the same after the attack. 
  <p class="updated_time"> 12:52 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070102820/teachers-are-on-the-front-lines-in-jan-6-culture-war">Teachers are on the front lines in Jan. 6 culture war</a> NPR: Teachers now are left to decide how — or whether — to instruct their students about the events that sit at the heart of the country's division. 
  <p class="updated_time"> 11:03 PM CT, Jan. 03 </p> 
@@ -287,6 +289,8 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/january-6-capitol-riot-house-democrats-525975">‘It’s only gotten worse’: The long shadow of the night that broke the House</a> Politico: For most Democrats, the biggest affront wasn’t even the violence by Donald Trump’s supporters. It was the votes more than 140 of their GOP colleagues took afterward. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/news/2022/01/03/trumpworld-jan-6-526291">They resigned in protest over Jan. 6 — then never went after Trump again</a> Politico: The administration officials who defected from the administration over the riots have almost all receded from public view even as Trump’s stayed put. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/could-january-6th-happen-again-526167">Could Jan. 6 happen again?</a> Politico: The Capitol Police has made progress under a new chief. But many on the Hill don't have an easy answer. 
  <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069837652/morning-news-brief">News brief: COVID-19 surge, NPR/Ipsos democracy poll, Capitol police gains</a> NPR: The omicron variant hasn't slowed in the U.S. A poll shows Americans are deeply pessimistic about the future of democracy. The Capitol Police chief is to testify before a Senate panel this week. 
@@ -344,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/02/1069739392/disinformation-fueled-2021-and-2022-will-likely-see-the-same">Disinformation fueled 2021, and 2022 will likely see the same</a> NPR: Disinformation — about the Jan. 6 attack, COVID-19, vaccines, etc. — shaped the nation's politics in 2021 and likely will continue to do so throughout the coming year. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
- <p class="updated_time"> 07:00 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/trump-capitol-riot-aftermath-526277">At time of Capitol prayer service Jan. 6, Trump will deliver remarks doubling down on the ‘Big Lie’</a> Politico: The riot at the Capitol briefly looked like it had broken Trump's hold on the GOP. Instead, he has reaffirmed his dominion over the party. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/us/politics/stacey-abrams-georgia-democrats.html">Left and Center-Left Both Claim Stacey Abrams. Who’s Right?</a> NYT: Ms. Abrams, the Georgia Democrat running for governor, has admirers in both wings of her party — and Republicans eager to defeat her. Her carefully calibrated strategy faces a test in 2022. 
  <p class="updated_time"> 11:30 PM CT, Jan. 01 </p> 
@@ -394,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
- <p class="updated_time"> 06:53 PM CT, Dec. 28 </p> 
- <a href="https://www.politico.com/news/2021/12/28/michigan-redistricting-congressional-map-526227">Michigan’s new congressional map: 3 battlegrounds, 1 Dem-vs.-Dem primary</a> Politico: Virginia also completed congressional redistricting on Tuesday. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/28/bunny-mellons-millions-at-play-in-dc-divorce-495554"> Bunny Mellon’s millions at play in D.C. divorce</a> Politico Playbook: And the CDC Monday shortened the isolation period for people who test positive for Covid-19 and are asymptomatic 
 
