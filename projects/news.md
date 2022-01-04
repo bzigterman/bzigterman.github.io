@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:54 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/middleeast/palestinian-hunger-strike-israel.html">Palestinian Prisoner’s Hunger Strike Leads to Release</a> NYT: A Palestinian accused of plotting to kill Israelis went on a hunger strike to protest his imprisonment without trial. Fearing unrest, Israel agreed to release him. 
+ <p class="updated_time"> 03:10 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/middleeast/palestinian-hunger-strike-israel.html">Palestinian Prisoner’s Hunger Strike Leads to Deal for Release</a> NYT: A Palestinian accused of plotting to kill Israelis went on a hunger strike to protest his imprisonment without trial. Fearing unrest, Israel agreed to release him. 
+ <p class="updated_time"> 02:59 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Decision soon on dismissing case - judge</a> BBC: A US court hears arguments about a deal the prince's accuser Virginia Giuffre agreed with Jeffrey Epstein. 
  <p class="updated_time"> 02:46 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/prince-andrew-sexual-abuse-royal-family.html">What Prince Andrew's  Abuse Case Could Mean for the Royal Family</a> NYT: As Queen Elizabeth II prepares to mark 70 years on the throne this year, a sexual abuse case in a Manhattan court involving her son could mean more turmoil for the royal family. 
  <p class="updated_time"> 02:42 PM CT, Jan. 04 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59871779?at_medium=RSS&at_campaign=KARANGA">Europe's tattoo artists fear for future after EU ink ban</a> BBC: Thousands of chemicals are banned by EU for safety reasons, but tattooists say it will hit business. 
  <p class="updated_time"> 12:07 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/health/pfizer-booster-shot-cdc.html">CDC Recommends a Pfizer Booster Shot After 5 Months, Not 6</a> NYT: Following the F.D.A.’s lead, the agency also recommended third shots after four weeks for some immunocompromised children 5 to 11. 
- <p class="updated_time"> 11:56 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Decision soon on dismissing case - judge</a> BBC: A US court hears arguments about a deal the prince's accuser Virginia Giuffre agreed with Jeffrey Epstein. 
  <p class="updated_time"> 11:09 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59866553?at_medium=RSS&at_campaign=KARANGA">South Africa parliament fire suspect had explosives - prosecutor</a> BBC: A man who allegedly set fire to the Cape Town building was caught with explosives, prosecutors say. 
  <p class="updated_time"> 11:07 AM CT, Jan. 04 </p> 
@@ -182,8 +182,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:48 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/us-arrest-charges-suspect-haitian-president-slaying-526492">U.S. arrests, charges suspect in Haitian president slaying</a> Politico: The U.S. government announced Tuesday that it arrested one of the main suspects in the killing of Haitian president Jovenel Moïse. 
  <p class="updated_time"> 03:36 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/police-officer-lawsuits-capitol-riot-trump-526491">Police officer lawsuits pile up against Trump over Jan. 6</a> Politico: Three more officers who responded to the Jan. 6 attack filed a lawsuit against the former president Tuesday, seeking damages for physical and emotional injuries. 
+ <p class="updated_time"> 02:54 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/cdc-isolation-guidance-upcoming/index.html">Update to CDC's Covid-19 isolation guidance is imminent, source says</a> CNN: The US Centers for Disease Control and Prevention is expected to update its guidance on the recommended isolation period imminently, according to a source familiar with the plan. 
  <p class="updated_time"> 02:36 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/dnc-staff-unionize-overwhelming-margin-526490">DNC staff votes by ‘overwhelming margin’ to unionize</a> Politico: The Democratic National Committee staff will join SEIU Local 500. 
  <p class="updated_time"> 02:28 PM CT, Jan. 04 </p> 
@@ -210,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1069232219/heres-where-election-deniers-and-doubters-are-running-to-control-voting">Here's where election-denying candidates are running to control voting</a> NPR: An NPR analysis found at least 15 Republican candidates for secretary of state offices in 2022 who doubt Joe Biden's 2020 victory. 
  <p class="updated_time"> 12:00 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/mitch-landrieu-letter-to-governors-infrastructure/index.html">Biden's infrastructure czar urges governors to appoint their own infrastructure implementation coordinators</a> CNN: President Joe Biden's infrastructure czar Mitch Landrieu sent letters to all the nation's governors on Tuesday urging them to appoint their own infrastructure implementation coordinators to smooth the rollout of the $1.2 trillion law. 
- <p class="updated_time"> 11:57 AM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/cdc-isolation-guidance-upcoming/index.html">Update to CDC's Covid-19 isolation guidance is imminent, source says</a> CNN: The US Centers for Disease Control and Prevention is expected to update its guidance on the recommended isolation period imminently, according to a source familiar with the plan. 
  <p class="updated_time"> 11:49 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/tesla-dealership-xinjiang-china.html">Tesla Draws Criticism After Opening Dealership in Xinjiang </a> NYT: Senator Marco Rubio criticized the electric carmaker for opening the outlet in a region where China has been accused of targeting Muslims. 
  <p class="updated_time"> 11:48 AM CT, Jan. 04 </p> 
