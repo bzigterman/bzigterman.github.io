@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:54 PM CT, Jan. 04 </p> 
+ <p class="updated_time"> 05:13 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges $31.5 Billion in Indigenous Child Welfare Battle</a> NYT: The government agreed to a landmark settlement to repair the system and compensate those families harmed by it. It potentially ends a years-old lawsuit. 
+ <p class="updated_time"> 04:56 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59873830?at_medium=RSS&at_campaign=KARANGA">Jovenel Moïse murder: US charges Colombian man over assassination</a> BBC: US authorities accuse an ex-military officer of involvement in the death of President Jovenel Moïse. 
  <p class="updated_time"> 04:17 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/africa/southafrica-parliament-fire-suspect.html">Mystery Deepens as Suspect Is Charged in South Africa Parliament Fire</a> NYT: The man was also accused of possessing explosives, stealing laptops and breaking security laws. Former neighbors were shocked. His lawyer said the government was rushing to find a scapegoat. 
  <p class="updated_time"> 04:12 PM CT, Jan. 04 </p> 
@@ -67,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
  <p class="updated_time"> 09:33 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59871943?at_medium=RSS&at_campaign=KARANGA">Thailand: Tropical bay from 'The Beach' reopens</a> BBC: Maya Bay, a huge tourist draw, was closed in 2018 amid concerns over environmental damage. 
- <p class="updated_time"> 09:29 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59871325?at_medium=RSS&at_campaign=KARANGA">Yuzhou: Second Chinese city forced into Covid lockdown</a> BBC: Yuzhou, with its population of 1.1 million, is shut down after just three cases are found. 
  <p class="updated_time"> 09:15 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59868721?at_medium=RSS&at_campaign=KARANGA">Two arrested in Egypt after teenage girl's suicide</a> BBC: Basant Khaled, 17, took her own life in Egypt after allegedly being blackmailed with faked images. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
@@ -129,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/europe/berkeley-balcony-collapse-death.html">Victim of Berkeley Balcony Collapse Dies in Ireland</a> NYT: Aoife Beary, who was left with life-changing injuries after the 2015 accident, died on New Year’s Day, her family said. 
  <p class="updated_time"> 01:52 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/africa/richard-leakey-dead.html">Richard Leakey, Kenyan Fossil Hunter and Conservationist, Dies at 77</a> NYT: His discoveries of ancient human skulls and skeletons, including the famed “Turkana Boy,” helped cement Africa’s standing as the cradle of humanity. 
- <p class="updated_time"> 12:51 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/trump-endorses-viktor-orban-hungary.html">Trump Endorses Viktor Orban, Hungary’s Far-Right Prime Minister</a> NYT: Democracy in Hungary has been backsliding under Mr. Orban, whose efforts to consolidate power have caused consternation in the European Union. 
  <p class="updated_time"> 12:40 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/03/1069942305/sheep-goats-encourage-vaccination-germany">700 sheep and goats were arranged in the shape of a syringe to encourage vaccinations</a> NPR: A shepherd in Germany arranged her animals into a 330-foot syringe to encourage people to get vaccinated. 
  <p class="updated_time"> 11:34 AM CT, Jan. 03 </p> 
@@ -180,14 +178,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:54 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/sean-hannity-dissuade-trump-january-6-526508">Sean Hannity tried to dissuade Trump from Jan. 6 strategy, texts show</a> Politico: “I do NOT see January 6 happening the way he is being told,” the Fox News host said of Trump’s efforts in a Dec. 31, 2020 text. 
  <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/cdc-doubles-down-quarantine-guidelines-526501">CDC recommits to isolation and quarantine guidelines without tests</a> Politico: The recent guidance, updated Dec. 29, said individuals who test positive for Covid-19 and whose symptoms are resolving need only isolate for five days as long as they continue to wear masks for an additional five days. 
+ <p class="updated_time"> 05:10 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/mike-pence-january-6-committee/index.html">January 6 committee chairman wants to speak directly with Mike Pence</a> CNN: Rep. Bennie Thompson, chairman of select committee investigating the January 6 insurrection, wants to hear directly from then-Vice President Mike Pence, who certified the 2020 presidential election despite an extensive pressure campaign led by former President Donald Trump and his allies to halt the process. 
  <p class="updated_time"> 04:46 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/january-6-committee-sean-hannity/index.html">January 6 committee seeks cooperation from Fox News' Hannity and releases texts between anchor and White House</a> CNN: The House committee investigating the January 6 Capitol Hill insurrection intends to ask Fox News anchor Sean Hannity to talk to the committee about his interactions with the White House and then-President Donald Trump regarding the 2020 election and the attack on the US Capitol, three sources tell CNN. 
  <p class="updated_time"> 04:21 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/trump-lawsuits-metro-capitol-police/index.html">Trump hit with two new lawsuits from police officers attacked by rioters on Jan. 6</a> CNN: Former President Donald Trump was hit with two new federal lawsuits Tuesday from law enforcement officers who were at the US Capitol on January 6 and who allege that Trump directed the assault that left them injured and emotionally traumatized. 
  <p class="updated_time"> 04:19 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/technology/podcast-election-misinformation.html">Election Falsehoods Surged on Podcasts Before Capitol Riots, Researchers Find</a> NYT: A new study analyzed nearly 1,500 episodes, showing the extent to which podcasts pushed misinformation about voter fraud. 
+ <a href="https://www.nytimes.com/2022/01/04/technology/apple-google-spotify-podcast-election-misinformation.html">Election Falsehoods Surged on Podcasts Before Capitol Riots, Researchers Find</a> NYT: A new study analyzed nearly 1,500 episodes, showing the extent to which podcasts pushed misinformation about voter fraud. 
  <p class="updated_time"> 03:57 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/us-strikes-syria/index.html">US conducts strikes in Syria after indirect fire threatens troops   </a> CNN: The US military conducted strikes in Syria after indirect fire posed what a US-led coalition official called "an imminent threat" to troops near Green Village, a base in the east of the country near the Iraqi border. 
  <p class="updated_time"> 03:55 PM CT, Jan. 04 </p> 
@@ -360,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
  <p class="updated_time"> 12:55 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/hogan-health-care-covid-maryland-526361">‘You can’t really manufacture doctors and nurses that don’t exist’</a> Politico: Maryland Gov. Larry Hogan said his state is trying everything it can to ensure it has enough health care workers. 
- <p class="updated_time"> 12:14 PM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-testing-526360">More Covid testing programs on the way for schools, Education secretary says</a> Politico: “We’re working closely now to make sure that they’re being set up,” Miguel Cardona said. 
  <p class="updated_time"> 11:41 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/bennie-thompson-jan-6-526357">Members of Congress interacted with Jan. 6 rioters, Rep. Thompson says</a> Politico: But it’s not clear how extensive or significant those interactions were. 
  <p class="updated_time"> 11:15 AM CT, Jan. 02 </p> 
@@ -376,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/us/politics/stacey-abrams-georgia-democrats.html">Left and Center-Left Both Claim Stacey Abrams. Who’s Right?</a> NYT: Ms. Abrams, the Georgia Democrat running for governor, has admirers in both wings of her party — and Republicans eager to defeat her. Her carefully calibrated strategy faces a test in 2022. 
- <p class="updated_time"> 06:54 PM CT, Jan. 01 </p> 
- <a href="https://www.cnn.com/2022/01/01/politics/nyc-mayor-eric-adams-swear-in/index.html">Adams gives first speech as NYC mayor: 'We will not be controlled by crisis'</a> CNN: Eric Adams, New York City's new mayor, was sworn in to office just minutes after the crystal ball dropped at midnight in Times Square on January 1. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
  <p class="updated_time"> 09:43 AM CT, Jan. 01 </p> 
