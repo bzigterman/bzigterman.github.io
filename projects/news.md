@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:19 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/nyregion/teacher-injects-student-covid-vaccine.html">Teacher Arrested After Injecting Minor With What Appeared to Be a Covid-19 Vaccine</a> NYT: She has since been removed from the classroom and is scheduled to appear in criminal court on Jan. 21. 
  <p class="updated_time"> 02:52 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070110830/western-wall-prayer-sites-future-is-in-doubt-under-israels-fragile-government">Western Wall prayer site's future is in doubt under Israel's fragile government</a> NPR: Israel's refusal to recognize liberal Reform and Conservative streams of Judaism has long been a point of tension with American Jews. 
  <p class="updated_time"> 02:52 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59865342?at_medium=RSS&at_campaign=KARANGA">Bee farming: Police stung breaking up protest in Chile</a> BBC: Four beekeepers are detained following a protest calling for government support for their industry. 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59865342?at_medium=RSS&at_campaign=KARANGA">Bee farming: Police stung as beekeepers protest in Chile</a> BBC: Four beekeepers are detained following a protest calling for government support for their industry. 
  <p class="updated_time"> 02:34 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/molenbeek-brussels-terrorist-attack-paris.html">Changing Brussels Neighborhood Tries to Leave Stigma of Terrorism Behind</a> NYT: Molenbeek was where a terrorist cell planned attacks that killed 162 in Paris and Brussels. Six years later, residents are trying to reinvent the area as a trial rekindles an awful association. 
  <p class="updated_time"> 02:03 AM CT, Jan. 04 </p> 
@@ -28,7 +30,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:58 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808739?at_medium=RSS&at_campaign=KARANGA">Pushpa: Why a song calling out men is under fire for sleaze</a> BBC: A new hit song which claims to subvert the male gaze is accused of, in fact, objectifying women. 
  <p class="updated_time"> 08:45 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/americas/haiti-prime-minister-assassination-attempt.html">Haiti Prime Minister Survives Assassination Attempt, His Office Says</a> NYT: Prime Minister Ariel Henry was the target of an unsuccessful attempt on his life over the weekend by gunmen in the northern city of Gonaïves, his office said Monday night. 
+ <a href="https://www.nytimes.com/2022/01/03/world/americas/ariel-henry-assassination-attempt.html">Haiti Prime Minister Survives Assassination Attempt, His Office Says</a> NYT: Prime Minister Ariel Henry was the target of an unsuccessful attempt on his life over the weekend by gunmen in the northern city of Gonaïves, his office said Monday night. 
  <p class="updated_time"> 08:26 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59863859?at_medium=RSS&at_campaign=KARANGA">Elon Musk: Tesla criticised after opening Xinjiang showroom</a> BBC: The world's most valuable car maker opened the new showroom in the city of Urumqi on New Year's Eve. 
  <p class="updated_time"> 08:19 PM CT, Jan. 03 </p> 
@@ -41,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/africa/sudan-prime-minister-resigns.html">Sudan Braces for ‘the Worst’ after Prime Minister Resigns</a> NYT: With the departure of the civilian prime minister Abdalla Hamdok on Sunday, the military and security forces are now fully in control of Sudan again. 
  <p class="updated_time"> 06:10 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59861831?at_medium=RSS&at_campaign=KARANGA">Prince Andrew accuser’s deal with Epstein released</a> BBC: It shows Virginia Giuffre agreed not to sue anyone who could be described as a "potential defendant". 
+ <p class="updated_time"> 06:05 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/prince-andrew-jeffrey-epstein.html">Woman Suing Prince Andrew for Abuse Settled With Jeffrey Epstein for $500,000</a> NYT: The prince’s lawyers are expected to argue that Virginia Roberts Giuffre’s suit should be dismissed because of the earlier settlement’s terms. 
  <p class="updated_time"> 06:02 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59814182?at_medium=RSS&at_campaign=KARANGA">Africa's lost 'Motown' years rediscovered</a> BBC: African music from the 1980s is being digitised thanks to a young Parisian producer. 
  <p class="updated_time"> 06:02 PM CT, Jan. 03 </p> 
@@ -161,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/style/new-years-resolutions-quotes-tips.html">Setting New Year's Resolutions? Start With These Words of Wisdom</a> NYT: Let their stories be your inspiration as you set resolutions for 2022. 
  <p class="updated_time"> 03:10 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
- <p class="updated_time"> 09:59 PM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
  <p class="updated_time"> 03:18 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/biden-putin-russia-ukraine-lavrov.html">Sergey V. Lavrov Accused NATO of Stoking Ukraine Conflict </a> NYT: Sergey V. Lavrov accused the United States and its allies of stoking a conflict in the country’s east in comments that contrasted with a more positive tone coming from Moscow. 
  <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
@@ -201,7 +203,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:00 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/midterm-elections-coronavirus.html">A Frazzled America Staggers Into 2022</a> NYT: The Omicron variant’s spread poses an unwelcome political conundrum just as election season begins. Democrats and the G.O.P. see reasons to hope, but the virus will get the deciding vote. 
  <p class="updated_time"> 05:53 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/jan-6-committee-criminal-referral.html">The Jan. 6 Committee’s Consideration of a Criminal Referral, Explained</a> NYT: The House panel does not have the authority to pursue criminal charges, but it can provide the Justice Department with evidence of any wrongdoing it unearths in its investigation. 
+ <a href="https://www.nytimes.com/2022/01/03/us/politics/capitol-riot-january-6.html">The Jan. 6 Committee’s Consideration of a Criminal Referral, Explained</a> NYT: The House panel does not have the authority to pursue criminal charges, but it can provide the Justice Department with evidence of any wrongdoing it unearths in its investigation. 
  <p class="updated_time"> 05:43 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/gop-house-2022-midterms/index.html">Analysis: Republicans are in great shape to win the House majority</a> CNN: Republicans are in a very strong position to win back the House in November, according to new ratings released recently by the Cook Political Report, a nonpartisan political handicapping service based in Washington. 
  <p class="updated_time"> 05:43 PM CT, Jan. 03 </p> 
