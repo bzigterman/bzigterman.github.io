@@ -7,14 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:33 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59871943?at_medium=RSS&at_campaign=KARANGA">Thailand: Tropical bay from 'The Beach' reopens</a> BBC: Maya Bay, a huge tourist draw, was closed in 2018 amid concerns over environmental damage. 
+ <p class="updated_time"> 09:33 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59866553?at_medium=RSS&at_campaign=KARANGA">South Africa parliament fire: Suspect 'had explosives'</a> BBC: A man appears in court in connection with the blaze that devastated the building. 
+ <p class="updated_time"> 09:29 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59871325?at_medium=RSS&at_campaign=KARANGA">Yuzhou: Second Chinese city forced into Covid lockdown</a> BBC: Yuzhou, with its population of 1.1 million, is shut down after just three cases are found. 
+ <p class="updated_time"> 09:20 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew's lawyers ask US court to dismiss civil sexual assault case</a> BBC: A newly-released settlement from 2009 shows his accuser agreed not to sue any "potential defendant". 
+ <p class="updated_time"> 09:15 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59868721?at_medium=RSS&at_campaign=KARANGA">Two arrested in Egypt after teenage girl's suicide</a> BBC: Basant Khaled, 17, took her own life in Egypt after allegedly being blackmailed with faked images. 
  <p class="updated_time"> 09:01 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/africa/cape-town-parliament-fire-suspect-charged.html">Suspect Charged With Arson in Fire at South Africa’s Parliament</a> NYT: The 49-year-old was also accused of possessing explosives, stealing laptops and other items and breaking security laws. His lawyer said the man had been wrongly accused in a rush to find a scapegoat. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59871267?at_medium=RSS&at_campaign=KARANGA">US snow: Major snowfall blankets Washington DC</a> BBC: Snow causes fun and frustration in Washington DC. 
  <p class="updated_time"> 08:37 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
- <p class="updated_time"> 08:22 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/03/nyregion/teacher-injects-student-covid-vaccine.html">Teacher Arrested After Injecting Minor With What Appeared to Be a Covid-19 Vaccine</a> NYT: She has since been removed from the classroom and is scheduled to appear in criminal court on Jan. 21. 
  <p class="updated_time"> 06:37 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/china-evergrande-protests.html">With Property Sales Plunging, China Evergrande Faces More Protests</a> NYT: The developer has tried for months to signal that its $300 billion debt problem was under control. But the challenges keep mounting. 
  <p class="updated_time"> 06:32 AM CT, Jan. 04 </p> 
@@ -25,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/europe/molenbeek-attack-brussels-paris.html">How This Changing Brussels Neighborhood is Trying to Leave The Stigma of Terrorism Behind</a> NYT: Molenbeek was where a terrorist cell planned attacks that killed 162 in Paris and Brussels. Six years later, residents are trying to reinvent the area as a trial rekindles an awful association. 
  <p class="updated_time"> 06:22 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/sports/tennis/djokovic-vaccine.html">Djokovic Granted Covid-19 Vaccine Exemption to Play in Australian Open</a> NYT: The top-ranked player in men’s tennis revealed his plans in a post on his Instagram account. 
- <p class="updated_time"> 05:54 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59865959?at_medium=RSS&at_campaign=KARANGA">Djokovic gets Covid jab waiver for Australian Open</a> BBC: Novak Djokovic will defend his Australian Open title after receiving a medical exemption from having a Covid-19 vaccination. 
  <p class="updated_time"> 05:53 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59864266?at_medium=RSS&at_campaign=KARANGA">China: Xi'an residents in lockdown trade goods for food amid shortage</a> BBC: Supplies are low in lockdown, and some have resorted to bartering phones and gadgets for food. 
  <p class="updated_time"> 05:42 AM CT, Jan. 04 </p> 
@@ -49,12 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59835674?at_medium=RSS&at_campaign=KARANGA">Bulli Bai: Indian man arrested for fake auction of Muslim women</a> BBC: The Indian app shared photos of several prominent Muslim women in a fake auction, sparking outrage. 
  <p class="updated_time"> 02:52 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070110830/western-wall-prayer-sites-future-is-in-doubt-under-israels-fragile-government">Western Wall prayer site's future is in doubt under Israel's fragile government</a> NPR: Israel's refusal to recognize liberal Reform and Conservative streams of Judaism has long been a point of tension with American Jews. 
- <p class="updated_time"> 02:52 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59865342?at_medium=RSS&at_campaign=KARANGA">Bee farming: Police stung as beekeepers protest in Chile</a> BBC: Four beekeepers are detained following a protest calling for government support for their industry. 
- <p class="updated_time"> 02:04 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew's lawyers to ask US court to dismiss civil sexual assault case</a> BBC: A newly-released settlement from 2009 shows his accuser agreed not to sue any "potential defendant". 
- <p class="updated_time"> 02:03 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59864810?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Activist gets 15-month jail term for Tiananmen vigil</a> BBC: Chow Hang Tung is jailed for 15 months for encouraging people to commemorate the Tiananmen protests. 
  <p class="updated_time"> 02:00 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/britain-electricity-norway-cables.html">A Widening Web of Undersea Cables Connects Britain to Green Energy</a> NYT: Linking one nation’s power grid with another’s is considered essential as more electricity is generated from solar and wind. 
  <p class="updated_time"> 01:11 AM CT, Jan. 04 </p> 
@@ -63,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/russias-military-buildup-near-ukraine-is-an-open-secret-11641292202">Russia's Military Buildup Near Ukraine Is an Open Secret</a> WSJ: Satellite images, social media posts and flight-tracking data allow private citizens to track details governments once classified. 
  <p class="updated_time"> 10:26 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/movies/three-minutes-a-lengthening-documentary.html">‘Three Minutes: A Lengthening’ Looks at Jewish Life Before Nazi Invasion</a> NYT: A documentary based on a home movie shot by an American in 1938 provides a look at the vibrancy of a Jewish community in Europe just before the Holocaust. 
- <p class="updated_time"> 10:00 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/business-59856063?at_medium=RSS&at_campaign=KARANGA">Top US phone firms agree delay of 5G rollout</a> BBC: The two-week delay requested by transportation and aviation authorities was initially rejected. 
  <p class="updated_time"> 08:58 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808739?at_medium=RSS&at_campaign=KARANGA">Pushpa: Why a song calling out men is under fire for sleaze</a> BBC: A new hit song which claims to subvert the male gaze is accused of, in fact, objectifying women. 
  <p class="updated_time"> 08:45 PM CT, Jan. 03 </p> 
@@ -181,6 +179,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/style/new-years-resolutions-quotes-tips.html">Setting New Year's Resolutions? Start With These Words of Wisdom</a> NYT: Let their stories be your inspiration as you set resolutions for 2022. 
  <p class="updated_time"> 03:10 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
+ <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
+ <a href="https://www.nytimes.com/2021/12/31/sports/football/kirk-cousins-covid.html">Kirk Cousins Tests Positive for Covid-19</a> NYT: Cousins was placed on the team’s Covid-19 reserve list for at least five days, threatening Minnesota’s playoff chances. 
 
 
 </details>
@@ -402,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
  <p class="updated_time"> 05:14 PM CT, Dec. 28 </p> 
  <a href="https://www.cnn.com/2021/12/28/politics/andrew-cuomo-westchester-county-no-charges/index.html">Ex-New York Gov. Cuomo will not be criminally charged by Westchester County district attorney over alleged inappropriate conduct</a> CNN: Westchester District Attorney Miriam Rocah announced on Tuesday her office will not criminally charge former New York Gov. Andrew Cuomo after a "thorough" investigation into allegations of inappropriate conduct made by two women against him. 
- <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/28/bunny-mellons-millions-at-play-in-dc-divorce-495554"> Bunny Mellon’s millions at play in D.C. divorce</a> Politico Playbook: And the CDC Monday shortened the isolation period for people who test positive for Covid-19 and are asymptomatic 
 
 
 </details>
