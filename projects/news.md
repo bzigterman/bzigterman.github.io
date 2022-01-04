@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:54 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59865959?at_medium=RSS&at_campaign=KARANGA">Djokovic gets Covid jab waiver for Australian Open</a> BBC: Novak Djokovic will defend his Australian Open title after receiving a medical exemption from having a Covid-19 vaccination. 
+ <p class="updated_time"> 05:53 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59864266?at_medium=RSS&at_campaign=KARANGA">China: Xi'an residents in lockdown trade goods for food amid shortage</a> BBC: Supplies are low in lockdown, and some have resorted to bartering phones and gadgets for food. 
+ <p class="updated_time"> 05:42 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59867530?at_medium=RSS&at_campaign=KARANGA">Donald Trump's children refuse to testify in fraud inquiry</a> BBC: Donald Jr and Ivanka are being asked to give evidence to a civil investigation into the family business. 
  <p class="updated_time"> 05:32 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/africa/cape-town-parliament-fire-suspect-charged.html">Suspect Charged With Arson in Fire at South Africa’s Parliament</a> NYT: The 49-year-old man was also accused of housebreaking, theft and contravening state security laws. His lawyer said the suspect was being made a scapegoat for government failures. 
  <p class="updated_time"> 05:31 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/04/1068916102/how-subsidies-helped-montreal-become-the-hollywood-of-video-games">How subsidies helped Montreal become "the Hollywood of video games"</a> NPR: For decades, Montreal has used generous tax subsidies to boost its video game industry. The policy has succeeded, but the city may need to keep the subsidies in place to keep companies from leaving. 
- <p class="updated_time"> 05:26 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59865959?at_medium=RSS&at_campaign=KARANGA">Djokovic gets Covid jab waiver for Australian Open</a> BBC: Novak Djokovic says he will defend his Australian Open title after receiving a medical exemption from having a Covid-19 vaccination. 
  <p class="updated_time"> 05:13 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to probe whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 05:09 AM CT, Jan. 04 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59864810?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Activist gets 15-month jail term for Tiananmen vigil</a> BBC: Chow Hang Tung is jailed for 15 months for encouraging people to commemorate the Tiananmen protests. 
  <p class="updated_time"> 02:00 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/britain-electricity-norway-cables.html">A Widening Web of Undersea Cables Connects Britain to Green Energy</a> NYT: Linking one nation’s power grid with another’s is considered essential as more electricity is generated from solar and wind. 
- <p class="updated_time"> 01:45 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59864266?at_medium=RSS&at_campaign=KARANGA">China: Xi'an residents in lockdown trade for food amid shortage</a> BBC: Faced with low supplies under lockdown, some have resorted to bartering phones and gadgets for food. 
  <p class="updated_time"> 11:30 PM CT, Jan. 03 </p> 
  <a href="https://www.wsj.com/articles/russias-military-buildup-near-ukraine-is-an-open-secret-11641292202">Russia's Military Buildup Near Ukraine Is an Open Secret</a> WSJ: Satellite images, social media posts and flight-tracking data allow private citizens to track details governments once classified. 
  <p class="updated_time"> 10:00 PM CT, Jan. 03 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808739?at_medium=RSS&at_campaign=KARANGA">Pushpa: Why a song calling out men is under fire for sleaze</a> BBC: A new hit song which claims to subvert the male gaze is accused of, in fact, objectifying women. 
  <p class="updated_time"> 08:45 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/americas/ariel-henry-assassination-attempt.html">Haiti Prime Minister Survives Assassination Attempt, His Office Says</a> NYT: Prime Minister Ariel Henry was the target of an unsuccessful attempt on his life over the weekend by gunmen in the northern city of Gonaïves, his office said Monday night. 
- <p class="updated_time"> 08:26 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/business-59863859?at_medium=RSS&at_campaign=KARANGA">Elon Musk: Tesla criticised after opening Xinjiang showroom</a> BBC: The world's most valuable car maker opened the new showroom in the city of Urumqi on New Year's Eve. 
  <p class="updated_time"> 08:19 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/americas/brazil-bolsonaro-hospitalized.html">Brazil's President, Jair Bolsonaro, Is Hospitalized</a> NYT: Mr. Bolsonaro, who was stabbed while on the campaign trail in 2018, experienced stomach discomfort during his vacation and was flown back to São Paulo. 
  <p class="updated_time"> 06:30 PM CT, Jan. 03 </p> 
