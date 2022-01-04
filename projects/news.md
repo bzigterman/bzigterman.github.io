@@ -182,12 +182,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/cdc-doubles-down-quarantine-guidelines-526501">CDC recommits to isolation and quarantine guidelines without tests</a> Politico: The recent guidance, updated Dec. 29, said individuals who test positive for Covid-19 and whose symptoms are resolving need only isolate for five days as long as they continue to wear masks for an additional five days. 
+ <p class="updated_time"> 04:44 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/january-6-committee-sean-hannity/index.html">January 6 committee plans to ask Hannity from Fox News to talk about his interactions with Trump</a> CNN: The House committee investigating the January 6 Capitol Hill insurrection intends to ask Fox News anchor Sean Hannity to talk to the committee about his interactions with the White House and then-President Donald Trump regarding the 2020 election and the attack on the US Capitol, three sources tell CNN. 
  <p class="updated_time"> 04:21 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/trump-lawsuits-metro-capitol-police/index.html">Trump hit with two new lawsuits from police officers attacked by rioters on Jan. 6</a> CNN: Former President Donald Trump was hit with two new federal lawsuits Tuesday from law enforcement officers who were at the US Capitol on January 6 and who allege that Trump directed the assault that left them injured and emotionally traumatized. 
  <p class="updated_time"> 04:19 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/technology/podcast-election-misinformation.html">Election Falsehoods Surged on Podcasts Before Capitol Riots, Researchers Find</a> NYT: A new study analyzed nearly 1,500 episodes, showing the extent to which podcasts pushed misinformation about voter fraud. 
- <p class="updated_time"> 04:17 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/january-6-committee-sean-hannity/index.html">January 6 committee plans to ask Hannity from Fox News to talk about his interactions with Trump</a> CNN: The House committee investigating the January 6 Capitol Hill insurrection intends to ask Fox News anchor Sean Hannity to talk to the committee about his interactions with the White House and then-President Donald Trump regarding the 2020 election and the attack on the US Capitol, three sources tell CNN. 
  <p class="updated_time"> 03:57 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/us-strikes-syria/index.html">US conducts strikes in Syria after indirect fire threatens troops   </a> CNN: The US military conducted strikes in Syria after indirect fire posed what a US-led coalition official called "an imminent threat" to troops near Green Village, a base in the east of the country near the Iraqi border. 
  <p class="updated_time"> 03:55 PM CT, Jan. 04 </p> 
