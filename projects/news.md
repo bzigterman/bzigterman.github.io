@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:30 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: State of emergency declared after fuel protests</a> BBC: President Kassym-Jomart Tokayev declares a two-week state of emergency including curbs on movement. 
  <p class="updated_time"> 05:23 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 05:13 PM CT, Jan. 04 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
  <p class="updated_time"> 09:33 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59871943?at_medium=RSS&at_campaign=KARANGA">Thailand: Tropical bay from 'The Beach' reopens</a> BBC: Maya Bay, a huge tourist draw, was closed in 2018 amid concerns over environmental damage. 
- <p class="updated_time"> 09:15 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59868721?at_medium=RSS&at_campaign=KARANGA">Two arrested in Egypt after teenage girl's suicide</a> BBC: Basant Khaled, 17, took her own life in Egypt after allegedly being blackmailed with faked images. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59871267?at_medium=RSS&at_campaign=KARANGA">US snow: Major snowfall blankets Washington DC</a> BBC: Snow causes fun and frustration in Washington DC. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
@@ -182,6 +182,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/sean-hannity-dissuade-trump-january-6-526508">Sean Hannity tried to dissuade Trump from Jan. 6 strategy, texts show</a> Politico: “I do NOT see January 6 happening the way he is being told,” the Fox News host said of Trump’s efforts in a Dec. 31, 2020 text. 
  <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/cdc-doubles-down-quarantine-guidelines-526501">CDC recommits to isolation and quarantine guidelines without tests</a> Politico: The recent guidance, updated Dec. 29, said individuals who test positive for Covid-19 and whose symptoms are resolving need only isolate for five days as long as they continue to wear masks for an additional five days. 
+ <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/omicron-variant-covid-19-what-matters/index.html">Analysis: America charts confusing path forward as Omicron rages on</a> CNN: The Omicron variant's rapid spread has pushed the US into another confusing pandemic moment as Americans try to strike a responsible balance between evolving public health guidance and their personal risk tolerance. 
+ <p class="updated_time"> 05:12 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/fact-check-capitol-insurrection-january-6-lies/index.html">Fact check: Five enduring lies about the Capitol insurrection</a> CNN: The Capitol insurrection was based on a lie about the 2020 election. And for a whole year now, the insurrection itself has been lied about. 
  <p class="updated_time"> 05:10 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/mike-pence-january-6-committee/index.html">January 6 committee chairman wants to speak directly with Mike Pence</a> CNN: Rep. Bennie Thompson, chairman of select committee investigating the January 6 insurrection, wants to hear directly from then-Vice President Mike Pence, who certified the 2020 presidential election despite an extensive pressure campaign led by former President Donald Trump and his allies to halt the process. 
  <p class="updated_time"> 04:46 PM CT, Jan. 04 </p> 
@@ -308,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/business/economy/inflation-democrats-corporations.html">Democrats Blast Corporate Profits as Inflation Surges</a> NYT: Politicians are placing more blame on greedy companies as prices stay high. But booming consumer demand is enabling firms to charge more. 
  <p class="updated_time"> 04:13 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/technology/facebook-marjorie-taylor-greene.html">Facebook Suspends Marjorie Taylor Greene’s Account for 24 hours</a> NYT: Twitter permanently banned her account on Sunday after what the company said was her fifth “strike.” 
- <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/eric-adams-teachers-union-nyc/index.html">'We're staying open': Adams bucks teacher's union request days into new administration</a> CNN: Eric Adams has started his tenure as New York City mayor by rejecting a request from the city's largest teachers' union to temporarily move public schools to remote learning, capping off a frenetic first 72 hours of his administration. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069983228/during-the-jan-6-riot-chaos-lawmakers-called-on-military-and-intelligence-traini">During the Jan. 6 riot chaos, lawmakers called on military and intelligence training</a> NPR: Representatives Abigail Spanberger, D-Va., and Jason Crow, D-Colo., reflect on the ways their military and intelligence training aided them during the Jan. 6 insurrection at the U.S. Capitol. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
