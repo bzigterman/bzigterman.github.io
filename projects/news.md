@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:11 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-forced-labor-beijing-olympics.html">What Is the I.O.C. Doing About Forced Labor Concerns in China? It Won’t Say. </a> NYT: Olympic officials are reluctant to probe whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
+ <p class="updated_time"> 04:11 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59734254?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes: Theranos founder convicted of fraud</a> BBC: The Silicon Valley ex-CEO faces up to 80 years in prison for her failed blood testing technology. 
+ <p class="updated_time"> 03:49 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59835674?at_medium=RSS&at_campaign=KARANGA">Bulli Bai: Indian man arrested for fake auction of Muslim women</a> BBC: The Indian app shared photos of several prominent Muslim women in a fake auction, sparking outrage. 
  <p class="updated_time"> 03:19 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/03/nyregion/teacher-injects-student-covid-vaccine.html">Teacher Arrested After Injecting Minor With What Appeared to Be a Covid-19 Vaccine</a> NYT: She has since been removed from the classroom and is scheduled to appear in criminal court on Jan. 21. 
  <p class="updated_time"> 02:52 AM CT, Jan. 04 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/business/britain-electricity-norway-cables.html">A Widening Web of Undersea Cables Connects Britain to Green Energy</a> NYT: Linking one nation’s power grid with another’s is considered essential as more electricity is generated from solar and wind. 
  <p class="updated_time"> 01:45 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59864266?at_medium=RSS&at_campaign=KARANGA">China: Xi'an residents in lockdown trade for food amid shortage</a> BBC: Faced with low supplies under lockdown, some have resorted to bartering phones and gadgets for food. 
- <p class="updated_time"> 11:29 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59734254?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes: Theranos founder convicted of fraud</a> BBC: A jury found the Silicon Valley ex-CEO guilty on four of 11 counts after seven days of deliberations. 
  <p class="updated_time"> 10:00 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59856063?at_medium=RSS&at_campaign=KARANGA">Top US phone firms agree delay of 5G rollout</a> BBC: The two-week delay requested by transportation and aviation authorities was initially rejected. 
  <p class="updated_time"> 09:56 PM CT, Jan. 03 </p> 
@@ -57,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/03/1069983235/richard-leakey-whose-discoveries-helped-prove-mankind-began-in-africa-is-dead-at">Richard Leakey, whose discoveries helped prove mankind began in Africa, is dead at 77</a> NPR: Famed Kenyan conservationist and fossil hunter Richad Leakey has died at age 77. His discoveries helped prove Africa was the cradle of civilization. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069983221/2-years-after-the-u-s-killed-irans-qasem-soleimani-tensions-remain">2 years after the U.S. killed Iran's Qasem Soleimani, tensions remain</a> NPR: NPR's Mary Louise Kelly talks with Karim Sadjadpour, senior fellow at the Carnegie Endowment for International Peace, about the impact of the U.S.'s assassination of Iranian Gen. Qasem Soleimani. 
- <p class="updated_time"> 03:06 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59861556?at_medium=RSS&at_campaign=KARANGA">South Africa parliament fire flares up again</a> BBC: Firefighters are trying to douse the blaze which reignited hours after it was said to be under control. 
  <p class="updated_time"> 02:56 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/europe/hungary-european-union.html">How the European Union Allowed Hungary to Become an Illiberal Model</a> NYT: After years of complacency and wishful thinking, Brussels is finally trying to rein in the country’s pugnacious leader, Prime Minister Viktor Orban. 
  <p class="updated_time"> 02:22 PM CT, Jan. 03 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/style/new-years-resolutions-quotes-tips.html">Setting New Year's Resolutions? Start With These Words of Wisdom</a> NYT: Let their stories be your inspiration as you set resolutions for 2022. 
  <p class="updated_time"> 03:10 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
- <p class="updated_time"> 09:59 PM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
  <p class="updated_time"> 03:18 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/biden-putin-russia-ukraine-lavrov.html">Sergey V. Lavrov Accused NATO of Stoking Ukraine Conflict </a> NYT: Sergey V. Lavrov accused the United States and its allies of stoking a conflict in the country’s east in comments that contrasted with a more positive tone coming from Moscow. 
  <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
@@ -182,6 +182,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/magazine/jan-6-capitol-riot-police-officers.html">The Capitol Police and the Scars of January. 6</a> NYT: For many officers, their bodies, minds and lives will never be the same after the attack. 
  <p class="updated_time"> 12:52 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070102820/teachers-are-on-the-front-lines-in-jan-6-culture-war">Teachers are on the front lines in Jan. 6 culture war</a> NPR: Teachers now are left to decide how — or whether — to instruct their students about the events that sit at the heart of the country's division. 
  <p class="updated_time"> 11:03 PM CT, Jan. 03 </p> 
@@ -376,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/31/complaint-doj-foreign-agent-prosecutions-526278">Complaint could roil DOJ foreign-agent prosecutions</a> Politico: Businesswoman Nickie Lum Davis says her guilty plea last year to a charge of unregistered lobbying was coerced. 
  <p class="updated_time"> 09:24 PM CT, Dec. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/30/us/politics/uss-montgomery-captain-fired.html">Navy Fires Warship’s Top Two Officers, Citing ‘Loss of Confidence’</a> NYT: The commander and second in charge of the U.S.S. Montgomery were relieved of command in a rare punishment, reportedly over their handling of a sexual harassment case. 
- <p class="updated_time"> 09:11 PM CT, Dec. 30 </p> 
- <a href="https://www.nytimes.com/2021/12/30/us/politics/biden-putin-ukraine-call.html">Putin Warns Biden of ‘Complete Rupture’ of U.S.-Russia Relationship Over Ukraine</a> NYT: President Vladimir V. Putin of Russia spoke with President Biden for 50 minutes about the escalating crisis with Ukraine, but his intentions remained unclear. 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
  <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
