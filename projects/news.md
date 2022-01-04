@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:32 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/africa/cape-town-parliament-fire-suspect-charged.html">Suspect Charged With Arson in Fire at South Africa’s Parliament</a> NYT: The 49-year-old man was also accused of housebreaking, theft and contravening state security laws. His lawyer said the suspect was being made a scapegoat for government failures. 
+ <p class="updated_time"> 05:31 AM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/sections/money/2022/01/04/1068916102/how-subsidies-helped-montreal-become-the-hollywood-of-video-games">How subsidies helped Montreal become "the Hollywood of video games"</a> NPR: For decades, Montreal has used generous tax subsidies to boost its video game industry. The policy has succeeded, but the city may need to keep the subsidies in place to keep companies from leaving. 
+ <p class="updated_time"> 05:26 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59865959?at_medium=RSS&at_campaign=KARANGA">Djokovic gets Covid jab waiver for Australian Open</a> BBC: Novak Djokovic says he will defend his Australian Open title after receiving a medical exemption from having a Covid-19 vaccination. 
  <p class="updated_time"> 05:13 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to probe whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
- <p class="updated_time"> 05:05 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59865959?at_medium=RSS&at_campaign=KARANGA">Djokovic gets Covid jab waiver for Australian Open</a> BBC: Novak Djokovic says he will defend his Australian Open title after receiving a medical exemption from having a Covid-19 vaccination. 
+ <p class="updated_time"> 05:09 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59867369?at_medium=RSS&at_campaign=KARANGA">Nirvana's Nevermind cover art lawsuit dismissed</a> BBC: Spencer Elden, who was pictured as a baby on the album cover, had alleged child pornography. 
  <p class="updated_time"> 04:47 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070119371/activists-urge-tesla-to-close-its-new-xinjiang-showroom">Activists urge Tesla to close its new Xinjiang showroom</a> NPR: Tesla on Friday announced the opening of its showroom in Urumqi, the capital of Xinjiang, where officials are accused of abuses against mostly Muslim ethnic minorities. 
  <p class="updated_time"> 04:45 AM CT, Jan. 04 </p> 
@@ -27,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59865342?at_medium=RSS&at_campaign=KARANGA">Bee farming: Police stung as beekeepers protest in Chile</a> BBC: Four beekeepers are detained following a protest calling for government support for their industry. 
  <p class="updated_time"> 02:34 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/molenbeek-attack-brussels-paris.html">How This Changing Brussels Neighborhood is Trying to Leave The Stigma of Terrorism Behind</a> NYT: Molenbeek was where a terrorist cell planned attacks that killed 162 in Paris and Brussels. Six years later, residents are trying to reinvent the area as a trial rekindles an awful association. 
+ <p class="updated_time"> 02:04 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew's lawyers to ask US court to dismiss civil sexual assault case</a> BBC: A newly-released settlement from 2009 shows his accuser agreed not to sue any "potential defendant". 
  <p class="updated_time"> 02:03 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59864810?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Activist gets 15-month jail term for Tiananmen vigil</a> BBC: Chow Hang Tung is jailed for 15 months for encouraging people to commemorate the Tiananmen protests. 
  <p class="updated_time"> 02:00 AM CT, Jan. 04 </p> 
@@ -55,16 +63,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/world/europe/spain-church-restoration-mystery.html">A Spanish Mystery: Is a ‘Masked Restorer’ to Blame for a Church’s Botched Repair?</a> NYT: Yet another imprudent fix in a land plagued by vigilante handymen led to angry calls to find the culprit — and to a soul-searching question: Does Spain just have too much history in need of upkeep? 
  <p class="updated_time"> 06:19 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/africa/sudan-prime-minister-resigns.html">Sudan Braces for ‘the Worst’ after Prime Minister Resigns</a> NYT: With the departure of the civilian prime minister Abdalla Hamdok on Sunday, the military and security forces are now fully in control of Sudan again. 
- <p class="updated_time"> 06:10 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59861831?at_medium=RSS&at_campaign=KARANGA">Prince Andrew accuser’s deal with Epstein released</a> BBC: It shows Virginia Giuffre agreed not to sue anyone who could be described as a "potential defendant". 
  <p class="updated_time"> 06:05 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/prince-andrew-jeffrey-epstein.html">Woman Suing Prince Andrew for Abuse Settled With Jeffrey Epstein for $500,000</a> NYT: The prince’s lawyers are expected to argue that Virginia Roberts Giuffre’s suit should be dismissed because of the earlier settlement’s terms. 
  <p class="updated_time"> 06:02 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59814182?at_medium=RSS&at_campaign=KARANGA">Africa's lost 'Motown' years rediscovered</a> BBC: African music from the 1980s is being digitised thanks to a young Parisian producer. 
  <p class="updated_time"> 06:02 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59763426?at_medium=RSS&at_campaign=KARANGA">Watching North Korea from a supersonic fighter jet</a> BBC: BBC correspondent Laura Bicker reports from a supersonic fighter jet on South Korea’s drive to build up its own war machine. 
- <p class="updated_time"> 04:50 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59863053?at_medium=RSS&at_campaign=KARANGA">Canadian families win compensation over jet downed by Iran</a> BBC: Relatives of six people who died when a plane was downed in 2020 will be compensated in Canada. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069983235/richard-leakey-whose-discoveries-helped-prove-mankind-began-in-africa-is-dead-at">Richard Leakey, whose discoveries helped prove mankind began in Africa, is dead at 77</a> NPR: Famed Kenyan conservationist and fossil hunter Richad Leakey has died at age 77. His discoveries helped prove Africa was the cradle of civilization. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
@@ -145,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/02/1069739336/omicron-is-subsiding-in-south-africa">Omicron is subsiding in South Africa</a> NPR: NPR's Eyder Peralta speaks with Dr. Glenda Gray, president of the South African Medical Research Council, about how omicron cases are going down in South Africa, and the lessons for the U.S. 
  <p class="updated_time"> 06:42 AM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/02/1066099271/child-grooms-are-often-overlooked-in-the-fight-to-stop-child-marriage">Child grooms are often overlooked in the fight to stop child marriage</a> NPR: The U.N. issued its first report on the plight of child grooms. And the pandemic has only made things worse. Here's a report from Nepal, where 1 in 10 boys marry young. 
- <p class="updated_time"> 06:24 AM CT, Jan. 02 </p> 
- <a href="https://www.npr.org/2022/01/02/1069738025/a-major-fire-ravaged-south-africas-parliament-building-in-cape-town">A man is detained after a major fire broke out in South Africa's Parliament building</a> NPR: Around 70 firefighters were still battling the fire hours after it started in the early morning. 
  <p class="updated_time"> 04:48 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/asia/korea-dmz-border.html">South Korea Says Unknown Person Crossed DMZ Into North</a> NYT: The breach at the Demilitarized Zone went unnoticed for hours, the South Korean military said. There was no immediate response from North Korea. 
  <p class="updated_time"> 06:55 PM CT, Jan. 01 </p> 
@@ -169,10 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/style/new-years-resolutions-quotes-tips.html">Setting New Year's Resolutions? Start With These Words of Wisdom</a> NYT: Let their stories be your inspiration as you set resolutions for 2022. 
  <p class="updated_time"> 03:10 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
- <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/31/sports/football/kirk-cousins-covid.html">Kirk Cousins Tests Positive for Covid-19</a> NYT: Cousins was placed on the team’s Covid-19 reserve list for at least five days, threatening Minnesota’s playoff chances. 
- <p class="updated_time"> 12:57 PM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/31/world/americas/quebec-new-years-eve-curfew.html">Quebec Government Faces Backlash Over New Year’s Eve Curfew</a> NYT: Residents who leave their homes past 10 p.m. could face fines of up to $4,750. 
 
 
 </details>
@@ -180,8 +178,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:32 AM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/jan-6-committee-oath-keepers-phone-records-526477">Jan. 6 committee seeking phone records of 2 Oath Keepers facing conspiracy charges</a> Politico: Kelly and Connie Meggs say they were notified of the subpoena by Verizon last month. 
  <p class="updated_time"> 06:18 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/04/the-election-reform-idea-gaining-currency-on-the-right-495582"> The election reform idea gaining currency on the right</a> Politico Playbook: And Rep. Bobby Rush (D-Ill.) says he won't seek reelection. 
+ <p class="updated_time"> 05:31 AM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/sections/money/2022/01/04/1068916102/how-subsidies-helped-montreal-become-the-hollywood-of-video-games">How subsidies helped Montreal become "the Hollywood of video games"</a> NPR: For decades, Montreal has used generous tax subsidies to boost its video game industry. The policy has succeeded, but the city may need to keep the subsidies in place to keep companies from leaving. 
  <p class="updated_time"> 05:00 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/jan-6-insurrection-sentencing-tracker-526091">Hundreds of crimes, little punishment: Inside the sentences since the Capitol attack</a> Politico: More than 150 people have pleaded guilty for crimes committed on Jan. 6, 2021. POLITICO is analyzing and tracking every sentence handed down. 
  <p class="updated_time"> 04:47 AM CT, Jan. 04 </p> 
@@ -340,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/02/politics/miguel-cardona-warns-school-reopening-covid-surge/index.html">US education secretary warns of 'bumps in the road' as schools reopen amid Covid surge</a> CNN: There will be "bumps in the road" as schools attempt to reopen in the new year amid a record surge in Covid-19 cases, US Education Secretary Miguel Cardona said Sunday. 
  <p class="updated_time"> 09:33 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-closures-526353">Education secretary urges schools to remain open</a> Politico: But Miguel Cardona acknowledged some short-term closures might be needed. 
- <p class="updated_time"> 07:04 AM CT, Jan. 02 </p> 
- <a href="https://www.npr.org/2022/01/02/1069739392/disinformation-fueled-2021-and-2022-will-likely-see-the-same">Disinformation fueled 2021, and 2022 will likely see the same</a> NPR: Disinformation — about the Jan. 6 attack, COVID-19, vaccines, etc. — shaped the nation's politics in 2021 and likely will continue to do so throughout the coming year. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
