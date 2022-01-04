@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:51 PM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59864810?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Activist gets 15 month term for Tiananmen vigil</a> BBC: Chow Hang Tung was found guilty of inciting others last year to commemorate the crackdown. 
  <p class="updated_time"> 11:29 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59734254?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes: Theranos founder convicted of fraud</a> BBC: A jury found the Silicon Valley ex-CEO guilty on four of 11 counts after seven days of deliberations. 
  <p class="updated_time"> 10:25 PM CT, Jan. 03 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/africa/south-africa-parliament-fire-suspect.html">South Africa Parliament: Suspect Charged in Fire to Appear in Court</a> NYT: A 49-year-old man is facing charges of arson and theft in the blaze, which started Sunday and heavily damaged legislative buildings in Cape Town. 
  <p class="updated_time"> 01:59 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/europe/april-ashley-dead.html">April Ashley, London Socialite and Transgender Pioneer, Dies at 86</a> NYT: She modeled for Vogue, partied with John Lennon and Mick Jagger, and married into minor nobility, all while fighting for legal recognition of her gender. 
- <p class="updated_time"> 01:55 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59860096?at_medium=RSS&at_campaign=KARANGA">David Bowie: Singer's estate sells rights to his entire body of work to WCM</a> BBC: Warner Chappell Music say they are "immensely proud" to be "chosen as caretakers". 
  <p class="updated_time"> 01:53 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/europe/berkeley-balcony-collapse-death.html">Victim of Berkeley Balcony Collapse Dies in Ireland</a> NYT: Aoife Beary, who was left with life-changing injuries after the 2015 accident, died on New Year’s Day, her family said. 
  <p class="updated_time"> 01:52 PM CT, Jan. 03 </p> 
