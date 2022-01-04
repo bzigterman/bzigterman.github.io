@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:30 AM CT, Jan. 04 </p> 
+ <p class="updated_time"> 11:45 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Decision soon on dismissing case - judge</a> BBC: A US court hears arguments about a deal the prince's accuser Virginia Giuffre agreed with Jeffrey Epstein. 
  <p class="updated_time"> 11:18 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Seizes a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
@@ -41,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/sports/tennis/djokovic-vaccine.html">Djokovic Granted Covid-19 Vaccine Exemption to Play in Australian Open</a> NYT: The top-ranked player in men’s tennis revealed his plans in a post on his Instagram account. 
  <p class="updated_time"> 05:53 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59864266?at_medium=RSS&at_campaign=KARANGA">China: Xi'an residents in lockdown trade goods for food amid shortage</a> BBC: Supplies are low in lockdown, and some have resorted to bartering phones and gadgets for food. 
+ <p class="updated_time"> 05:49 AM CT, Jan. 04 </p> 
+ <a href="https://www.wsj.com/articles/lockdown-of-chinese-city-leave-13-million-stranded-11641314909">Lockdown of Chinese City Leaves 13 Million Stranded</a> WSJ: Residents of Xi’an are voicing desperation under restrictions that recall the closing of Wuhan in 2020. 
  <p class="updated_time"> 05:42 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59867530?at_medium=RSS&at_campaign=KARANGA">Donald Trump's children refuse to testify in fraud inquiry</a> BBC: Donald Jr and Ivanka are being asked to give evidence to a civil investigation into the family business. 
  <p class="updated_time"> 05:36 AM CT, Jan. 04 </p> 
@@ -141,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/03/1069839447/seoul-north-korea-defector-likely-made-rare-border-crossing-back">Seoul: North Korea defector likely made rare border crossing back</a> NPR: A person who crossed the border from South Korea into North Korea on New Year's Day was likely a defector who had made the trip in the other direction in late 2020, the military said Monday. 
  <p class="updated_time"> 01:07 AM CT, Jan. 03 </p> 
  <a href="https://www.wsj.com/articles/turkeys-inflation-rate-nears-20-year-high-as-lira-crisis-continues-11641211659">Turkey's Inflation Rate Nears 20-Year High</a> WSJ: The country’s annual inflation rose to 36.08% in December, raising fresh concerns that it could overwhelm a government rescue plan to stabilize the battered local currency. 
- <p class="updated_time"> 12:15 AM CT, Jan. 03 </p> 
- <a href="https://www.wsj.com/articles/sudans-prime-minister-resigns-as-political-crisis-worsens-11641208528">Sudan's Prime Minister Resigns as Political Crisis Worsens</a> WSJ: Abdalla Hamdok resignation marks the latest disruption to the strategically-located nation, as it attempts to transition to democracy following the end of Omar al Bashir’s three-decade reign. 
  <p class="updated_time"> 11:05 PM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/03/1069824056/another-hong-kong-news-outlet-to-close-amid-crackdown-on-dissent">Another Hong Kong news site shuts as pro-Beijing lawmakers sworn in</a> NPR: A Hong Kong online news site said Sunday that it will cease operations in light of deteriorating press freedoms, days after police raided a separate pro-democracy news outlet, arresting seven. 
  <p class="updated_time"> 10:04 PM CT, Jan. 02 </p> 
@@ -188,10 +188,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:49 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/business/tesla-dealership-xinjiang-china.html">Tesla Draws Criticism After Opening Dealership in Xinjiang </a> NYT: Senator Marco Rubio criticized the electric carmaker for opening the outlet in a region where China has been accused of targeting Muslims. 
+ <p class="updated_time"> 11:48 AM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1070032923/jamie-raskin-jan-6-capitol-unthinkable">After his son's suicide and the Jan. 6 attack, Rep. Jamie Raskin is not giving up</a> NPR: Raskin's son died just days before the Capitol insurrection. Now Raskin serves on the House select committee charged with investigating the Jan. 6 attack. His new memoir is Unthinkable. 
  <p class="updated_time"> 11:34 AM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden set to meet with Covid-19 team and deliver remarks</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
- <p class="updated_time"> 11:24 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/business/tesla-dealership-xinjiang-china.html">Tesla Draws Criticism After Opening Dealership in Xinjiang </a> NYT: Senator Marco Rubio criticized the electric carmaker for opening the outlet in a region where China has been accused of targeting Muslims. 
  <p class="updated_time"> 11:07 AM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/melania-trump-new-auction/index.html">Melania Trump to auction white hat and other items for $250,000 minimum bid</a> CNN: Melania Trump announced Tuesday morning that she is holding an auction of the white hat she wore during the visit of the French first family, the Macrons, to the White House in 2018. 
  <p class="updated_time"> 10:59 AM CT, Jan. 04 </p> 
@@ -332,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/us/politics/supreme-court-death-penalty-intellectual-disability.html">Language Mistake in Georgia Death Penalty Law Creates a Daunting Hurdle</a> NYT: The Supreme Court will decide whether to hear a challenge to the law, which requires that defendants in capital cases who are intellectually disabled prove it “beyond a reasonable doubt” — a phrase that was inserted in error. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1068396411/a-year-after-capitol-polices-darkest-day-its-chief-says-the-force-is-making-gain">A year after the darkest day for Capitol Police, its new chief focuses on rebuilding</a> NPR: Capitol Police Chief Tom Manger has been on the job less than six months. He hopes to lead a new chapter at the embattled agency. 
- <p class="updated_time"> 11:05 PM CT, Jan. 02 </p> 
- <a href="https://www.npr.org/2022/01/03/1069824056/another-hong-kong-news-outlet-to-close-amid-crackdown-on-dissent">Another Hong Kong news site shuts as pro-Beijing lawmakers sworn in</a> NPR: A Hong Kong online news site said Sunday that it will cease operations in light of deteriorating press freedoms, days after police raided a separate pro-democracy news outlet, arresting seven. 
  <p class="updated_time"> 09:13 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/harry-reid-to-lie-in-state-in-capitol-rotunda-526381">Harry Reid to lie in state in Capitol Rotunda</a> Politico: The former Senate majority leader died last Tuesday. 
  <p class="updated_time"> 08:52 PM CT, Jan. 02 </p> 
