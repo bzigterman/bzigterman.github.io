@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:52 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges 40 Billion Dollars in Indigenous Child Welfare Battle</a> NYT: The government said it would pay a landmark $31.5 billion to repair the system, potentially ending a lawsuit brought 15 years ago. 
- <p class="updated_time"> 03:51 PM CT, Jan. 04 </p> 
+ <p class="updated_time"> 04:17 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/africa/southafrica-parliament-fire-suspect.html">Mystery Deepens as Suspect Is Charged in South Africa Parliament Fire</a> NYT: The man was also accused of possessing explosives, stealing laptops and breaking security laws. Former neighbors were shocked. His lawyer said the government was rushing to find a scapegoat. 
+ <p class="updated_time"> 04:15 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges $31.5 Billion in Indigenous Child Welfare Battle</a> NYT: The government said it would pay a landmark $31.5 billion to repair the system, potentially ending a lawsuit brought 15 years ago. 
+ <p class="updated_time"> 04:12 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Charges a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
+ <p class="updated_time"> 04:12 PM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1070363988/haiti-assassination-charges">The U.S. charges a former Colombian soldier in Haitian president's assassination</a> NPR: The U.S. government announced that it charged Mario Antonio Palacios, a 43-year-old former Colombian soldier who is one of the main suspects in the July killing of Haitian president Jovenel Moïse. 
  <p class="updated_time"> 03:45 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59871945?at_medium=RSS&at_campaign=KARANGA">Paraguayan soldier killed by deer at presidential palace</a> BBC: The soldier was killed after approaching the deer inside the presidential gardens in the capital. 
  <p class="updated_time"> 03:39 PM CT, Jan. 04 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/europe/prince-andrew-sexual-abuse-royal-family.html">What Prince Andrew's  Abuse Case Could Mean for the Royal Family</a> NYT: As Queen Elizabeth II prepares to mark 70 years on the throne this year, a sexual abuse case in a Manhattan court involving her son could mean more turmoil for the royal family. 
  <p class="updated_time"> 02:59 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Decision soon on dismissing case - judge</a> BBC: A US court hears arguments about a deal the prince's accuser Virginia Giuffre agreed with Jeffrey Epstein. 
- <p class="updated_time"> 02:42 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/africa/cape-town-parliament-fire-suspect-charged.html">Mystery Deepens as Suspect Is Charged With Setting South Africa’s Parliament on Fire</a> NYT: The 49-year-old was also accused of possessing explosives, stealing laptops and breaking security laws. Former neighbors were shocked. His lawyer said the government was rushing to find a scapegoat. 
  <p class="updated_time"> 02:39 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 02:37 PM CT, Jan. 04 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/business/china-evergrande-shares-hong-kong.html">China Evergrande Suspends Trading Shares in Hong Kong</a> NYT: The world’s most indebted property developer provided no details on the suspension, but it suggested an announcement “containing inside information” would come soon. 
  <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/article/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
- <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069837718/multiple-factors-including-taliban-takeover-contribute-to-hunger-in-afghanistan">As 2022 starts, most Afghans don't have enough food to eat</a> NPR: Millions of people in Afghanistan are facing hunger and starvation amid a prolonged drought and economic crash. A World Food Program spokesperson says a new urban class of hungry people has emerged. 
  <p class="updated_time"> 04:02 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/us-defense-secretary-austin-covid.html">U.S. Defense Secretary Tests Positive for Coronavirus</a> NYT: Lloyd J. Austin III stressed that his fully vaccinated status — including a booster received in early October — was to thank for his mild symptoms. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
@@ -180,6 +180,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:19 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/technology/podcast-election-misinformation.html">Election Falsehoods Surged on Podcasts Before Capitol Riots, Researchers Find</a> NYT: A new study analyzed nearly 1,500 episodes, showing the extent to which podcasts pushed misinformation about voter fraud. 
+ <p class="updated_time"> 04:17 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/january-6-committee-sean-hannity/index.html">January 6 committee plans to ask Hannity from Fox News to talk about his interactions with Trump</a> CNN: The House committee investigating the January 6 Capitol Hill insurrection intends to ask Fox News anchor Sean Hannity to talk to the committee about his interactions with the White House and then-President Donald Trump regarding the 2020 election and the attack on the US Capitol, three sources tell CNN. 
+ <p class="updated_time"> 03:57 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/us-strikes-syria/index.html">US conducts strikes in Syria after indirect fire threatens troops   </a> CNN: The US military conducted strikes in Syria after indirect fire posed what a US-led coalition official called "an imminent threat" to troops near Green Village, a base in the east of the country near the Iraqi border. 
  <p class="updated_time"> 03:55 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/paxlovid-covid-pill.html">U.S. Doubles Paxlovid Covid Pill Order</a> NYT: The order for 10 million additional treatment courses will modestly increase very limited supplies in the next few weeks, with much larger deliveries later in the year. 
  <p class="updated_time"> 03:48 PM CT, Jan. 04 </p> 
@@ -192,10 +198,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070337975/democrats-revisit-voting-rights-legislation-around-jan-6-anniversary">Democrats revisit voting rights legislation around Jan. 6 anniversary</a> NPR: Democrats are making a fresh push on voting rights legislation around the anniversary of the Jan. 6 insurrection, while also trying to revive President Biden's Build Back Better agenda. 
  <p class="updated_time"> 03:39 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/tim-kaine-stranded-interstate-95-winter-storm/index.html">Virginia senator recounts being stuck on I-95 for more than 20 hours after winter storm</a> CNN: Sen. Tim Kaine on Tuesday recounted his hours-long journey on a Washington-area highway after a winter storm crippled the region and left hundreds, including the Virginia Democrat, stranded for hours on roads. 
- <p class="updated_time"> 03:38 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/january-6-committee-sean-hannity/index.html">January 6 committee plans to ask Hannity from Fox News to talk about his interactions with Trump</a> CNN: The House committee investigating the January 6 Capitol Hill insurrection intends to ask Fox News anchor Sean Hannity to talk to the committee about his interactions with the White House and then-President Donald Trump regarding the 2020 election and the attack on the US Capitol, three sources tell CNN. 
- <p class="updated_time"> 03:37 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/technology/podcast-election-misinformation.html">Election Falsehoods Surged on Podcasts Before Capitol Riots, Researchers Find</a> NYT: A new study analyzed nearly 1,500 episodes, showing the extent to which podcasts pushed misinformation about voter fraud. 
  <p class="updated_time"> 03:36 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/police-officer-lawsuits-capitol-riot-trump-526491">Police officer lawsuits pile up against Trump over Jan. 6</a> Politico: Three more officers who responded to the Jan. 6 attack filed a lawsuit against the former president Tuesday, seeking damages for physical and emotional injuries. 
  <p class="updated_time"> 03:24 PM CT, Jan. 04 </p> 
@@ -238,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/04/politics/election-fraud-trump-no-evidence/index.html">The Point: Election fraud isn't really a thing, part infinity</a> CNN: If there was any consistent thread throughout the presidency of Donald Trump, it was his unswerving belief that widespread election fraud was happening and needed to be wiped out. 
  <p class="updated_time"> 10:56 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/capitol-riot-panel.html">In the Capitol’s Shadow, the Jan. 6 Panel Quietly Ramps Up Its Inquiry</a> NYT: From a nondescript office building, a few dozen investigators and members of Congress are rushing to dissect what led to the worst attack on the Capitol in centuries. 
- <p class="updated_time"> 10:52 AM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/what-is-a-subpoena/index.html">Here's what a subpoena is -- and what happens if you ignore one</a> CNN: Subpoenas have been at the center of some of the highest profile inquiries in Washington and beyond -- including the House select committee investigating the January 6 riot and the New York attorney general's office's efforts to compel testimony from members of the Trump family. 
  <p class="updated_time"> 10:49 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/a-record-45-million-americans-quit-their-jobs-in-november-526481">A record 4.5 million Americans quit their jobs in November</a> Politico: The figure is evidence that the U.S. job market is bouncing back strongly from last year’s coronavirus recession. 
  <p class="updated_time"> 10:49 AM CT, Jan. 04 </p> 
