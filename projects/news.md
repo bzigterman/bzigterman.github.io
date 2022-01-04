@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:41 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/middleeast/palestinian-hunger-strike-israel.html">Palestinian Prisoner’s Hunger Strike Sets Israel on Edge</a> NYT: A Palestinian accused of plotting to kill Israelis went on a hunger strike to protest his imprisonment without trial. Israel has agreed to release him. 
+ <p class="updated_time"> 02:54 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/middleeast/palestinian-hunger-strike-israel.html">Palestinian Prisoner’s Hunger Strike Leads to Release</a> NYT: A Palestinian accused of plotting to kill Israelis went on a hunger strike to protest his imprisonment without trial. Fearing unrest, Israel agreed to release him. 
+ <p class="updated_time"> 02:46 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/europe/prince-andrew-sexual-abuse-royal-family.html">What Prince Andrew's  Abuse Case Could Mean for the Royal Family</a> NYT: As Queen Elizabeth II prepares to mark 70 years on the throne this year, a sexual abuse case in a Manhattan court involving her son could mean more turmoil for the royal family. 
+ <p class="updated_time"> 02:42 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/africa/cape-town-parliament-fire-suspect-charged.html">Mystery Deepens as Suspect Is Charged With Setting South Africa’s Parliament on Fire</a> NYT: The 49-year-old was also accused of possessing explosives, stealing laptops and breaking security laws. Former neighbors were shocked. His lawyer said the government was rushing to find a scapegoat. 
  <p class="updated_time"> 02:39 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 02:37 PM CT, Jan. 04 </p> 
@@ -41,18 +45,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59866553?at_medium=RSS&at_campaign=KARANGA">South Africa parliament fire suspect had explosives - prosecutor</a> BBC: A man who allegedly set fire to the Cape Town building was caught with explosives, prosecutors say. 
  <p class="updated_time"> 11:07 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59872232?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Sudan forces fire tear gas at protesters</a> BBC: Security forces use tear gas to disperse crowds as demonstrators block roads with burning tyres. 
- <p class="updated_time"> 10:41 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/africa/cape-town-parliament-fire-suspect-charged.html">Suspect Charged With Arson in Fire at South Africa’s Parliament</a> NYT: The 49-year-old was also accused of possessing explosives, stealing laptops and breaking security laws. Former neighbors were shocked. His lawyer said the government was rushing to find a scapegoat. 
  <p class="updated_time"> 10:33 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070171056/novak-djokovic-gets-a-vaccination-exemption-to-play-in-the-australian-open">Novak Djokovic gets a vaccination exemption to play in the Australian Open</a> NPR: The tournament's defending champion posted a photo of himself smiling at an airport. But in Australia, some of the responses to his Twitter post were not happy ones. 
  <p class="updated_time"> 10:04 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
+ <p class="updated_time"> 09:40 AM CT, Jan. 04 </p> 
+ <a href="https://www.wsj.com/articles/europe-struggles-to-meet-chinas-trade-challenge-11641308138">Europe Struggles to Meet China's Trade Challenge</a> WSJ: In recent weeks, China has effectively blocked Lithuanian firms from its market and started pressing European and U.S. firms with Lithuanian suppliers to cut those ties or risk being frozen out. 
  <p class="updated_time"> 09:33 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59871943?at_medium=RSS&at_campaign=KARANGA">Thailand: Tropical bay from 'The Beach' reopens</a> BBC: Maya Bay, a huge tourist draw, was closed in 2018 amid concerns over environmental damage. 
  <p class="updated_time"> 09:29 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59871325?at_medium=RSS&at_campaign=KARANGA">Yuzhou: Second Chinese city forced into Covid lockdown</a> BBC: Yuzhou, with its population of 1.1 million, is shut down after just three cases are found. 
- <p class="updated_time"> 09:27 AM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/europe-struggles-to-meet-chinas-trade-challenge-11641308138">Europe Struggles to Meet China's Trade Challenge</a> WSJ: In recent weeks, China has effectively blocked Lithuanian firms from its market and started pressing European and U.S. firms with Lithuanian suppliers to cut those ties or risk being frozen out. 
  <p class="updated_time"> 09:15 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59868721?at_medium=RSS&at_campaign=KARANGA">Two arrested in Egypt after teenage girl's suicide</a> BBC: Basant Khaled, 17, took her own life in Egypt after allegedly being blackmailed with faked images. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/stories-59566983?at_medium=RSS&at_campaign=KARANGA">In the footsteps of the women who escaped a Nazi death march</a> BBC: When Gwen Strauss' great-aunt revealed she had led nine women in an escape from a Nazi death march in 1945, Gwen decided to retrace their steps. 
  <p class="updated_time"> 06:05 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59703681?at_medium=RSS&at_campaign=KARANGA">Letter from Africa: Africa plays on in 2022 without its great referee</a> BBC: Joseph Warungu looks at what is in store for the African continent this coming year. 
- <p class="updated_time"> 01:11 PM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/01/world/africa/desmond-tutu-funeral-south-africa.html">Desmond Tutu Funeral: South Africa Bids Farewell</a> NYT: The archbishop and Nobel laureate left plans for an unostentatious ceremony, which were stripped back further under Covid restrictions. 
  <p class="updated_time"> 11:16 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/europe/pontifical-oriental-institute-digital-texts.html">A Vatican Library Shortens the Distance Between Its Works and Its Scholars</a> NYT: Rare books in Rome are going online thanks to a German copier, a Long Island scanning firm and a New York software company. 
 
@@ -182,6 +182,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:36 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/police-officer-lawsuits-capitol-riot-trump-526491">Police officer lawsuits pile up against Trump over Jan. 6</a> Politico: Three more officers who responded to the Jan. 6 attack filed a lawsuit against the former president Tuesday, seeking damages for physical and emotional injuries. 
  <p class="updated_time"> 02:36 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/dnc-staff-unionize-overwhelming-margin-526490">DNC staff votes by ‘overwhelming margin’ to unionize</a> Politico: The Democratic National Committee staff will join SEIU Local 500. 
  <p class="updated_time"> 02:28 PM CT, Jan. 04 </p> 
