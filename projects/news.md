@@ -7,22 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:04 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
+ <p class="updated_time"> 09:57 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew's lawyers ask US court to dismiss civil sexual assault case</a> BBC: A judge is hearing arguments about a settlement the prince's accuser agreed with Jeffrey Epstein. 
  <p class="updated_time"> 09:33 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59871943?at_medium=RSS&at_campaign=KARANGA">Thailand: Tropical bay from 'The Beach' reopens</a> BBC: Maya Bay, a huge tourist draw, was closed in 2018 amid concerns over environmental damage. 
  <p class="updated_time"> 09:33 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59866553?at_medium=RSS&at_campaign=KARANGA">South Africa parliament fire: Suspect 'had explosives'</a> BBC: A man appears in court in connection with the blaze that devastated the building. 
  <p class="updated_time"> 09:29 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59871325?at_medium=RSS&at_campaign=KARANGA">Yuzhou: Second Chinese city forced into Covid lockdown</a> BBC: Yuzhou, with its population of 1.1 million, is shut down after just three cases are found. 
- <p class="updated_time"> 09:20 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew's lawyers ask US court to dismiss civil sexual assault case</a> BBC: A newly-released settlement from 2009 shows his accuser agreed not to sue any "potential defendant". 
  <p class="updated_time"> 09:15 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59868721?at_medium=RSS&at_campaign=KARANGA">Two arrested in Egypt after teenage girl's suicide</a> BBC: Basant Khaled, 17, took her own life in Egypt after allegedly being blackmailed with faked images. 
  <p class="updated_time"> 09:01 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/africa/cape-town-parliament-fire-suspect-charged.html">Suspect Charged With Arson in Fire at South Africa’s Parliament</a> NYT: The 49-year-old was also accused of possessing explosives, stealing laptops and other items and breaking security laws. His lawyer said the man had been wrongly accused in a rush to find a scapegoat. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59871267?at_medium=RSS&at_campaign=KARANGA">US snow: Major snowfall blankets Washington DC</a> BBC: Snow causes fun and frustration in Washington DC. 
- <p class="updated_time"> 08:37 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
  <p class="updated_time"> 06:37 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/china-evergrande-protests.html">With Property Sales Plunging, China Evergrande Faces More Protests</a> NYT: The developer has tried for months to signal that its $300 billion debt problem was under control. But the challenges keep mounting. 
  <p class="updated_time"> 06:32 AM CT, Jan. 04 </p> 
@@ -188,18 +188,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:49 AM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/a-record-45-million-americans-quit-their-jobs-in-november-526481">A record 4.5 million Americans quit their jobs in November</a> Politico: The figure is evidence that the U.S. job market is bouncing back strongly from last year’s coronavirus recession. 
  <p class="updated_time"> 10:46 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/ruben-gallego-merrick-garland-capitol-attack-526480">Gallego: Garland 'extremely weak' on Jan. 6 cases</a> Politico: The Arizona Democrat also directed his ire at GOP lawmakers who he accused of trying to shield Jan. 6 rioters. 
+ <p class="updated_time"> 09:57 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/us/politics/jan-6-capitol-riot-anniversary.html">Jan. 6 Panel Faces Difficult Questions as Anniversary of Capitol Riot Approaches</a> NYT: Decisions about subpoenas and a Supreme Court ruling loom as lawmakers, staff members and Capitol employees plan to commemorate the day. 
+ <p class="updated_time"> 09:57 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/us/politics/capitol-riot-panel.html">In the Capitol’s Shadow, the Jan. 6 Panel Quietly Ramps Up Its Inquiry</a> NYT: From a nondescript office building, a few dozen investigators and members of Congress are rushing to dissect what led to the worst attack on the Capitol in centuries. 
+ <p class="updated_time"> 09:55 AM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/melania-trump-new-auction/index.html">Melania Trump to auction white hat and other items for $250,000 minimum bid</a> CNN: Melania Trump announced Tuesday morning that she is holding an auction of the white hat she wore during the visit of the French first family, the Macrons, to the White House in 2018. 
  <p class="updated_time"> 09:51 AM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/hackers-florida-health-care/index.html">Hackers breached Florida health care system, potentially exposing data on 1.3 million people</a> CNN: Hackers breached the computer networks of a southeast Florida health care system in October and may have accessed sensitive personal and financial information on over 1.3 million people, the health care system announced this week. 
- <p class="updated_time"> 09:41 AM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/melania-trump-new-auction/index.html">Melania Trump to auction white hat and other items for $250,000 minimum bid</a> CNN: Melania Trump announced Tuesday morning that she is holding an auction of the white hat she wore during the visit of the French first family, the Macrons, to the White House in 2018. 
  <p class="updated_time"> 08:24 AM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/devin-nunes-resigns-from-congress/index.html">Devin Nunes officially resigns from Congress</a> CNN: Devin Nunes, a Republican who has represented California since 2003, has officially resigned from Congress, ending a nearly 20-year stint in the House of Representatives. 
  <p class="updated_time"> 08:17 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/capitol-riot-january-6.html">The Jan. 6 Committee’s Consideration of a Criminal Referral, Explained</a> NYT: The House panel does not have the authority to pursue criminal charges, but it can provide the Justice Department with evidence of any wrongdoing it unearths in its investigation. 
- <p class="updated_time"> 08:11 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/us/politics/capitol-riot-panel.html">In the Capitol’s Shadow, the Jan. 6 Panel Quietly Ramps Up Its Inquiry</a> NYT: From a nondescript office building, a few dozen investigators and members of Congress are rushing to dissect what led to the worst attack on the Capitol in centuries. 
  <p class="updated_time"> 08:10 AM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/cdc-isolation-guidance-upcoming/index.html">Update to CDC's Covid-19 isolation guidance is imminent, source says</a> CNN: The US Centers for Disease Control and Prevention is expected to update its guidance on the recommended isolation period imminently, according to a source familiar with the plan. 
  <p class="updated_time"> 07:51 AM CT, Jan. 04 </p> 
@@ -324,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/03/1068396411/a-year-after-capitol-polices-darkest-day-its-chief-says-the-force-is-making-gain">A year after the darkest day for Capitol Police, its new chief focuses on rebuilding</a> NPR: Capitol Police Chief Tom Manger has been on the job less than six months. He hopes to lead a new chapter at the embattled agency. 
  <p class="updated_time"> 11:05 PM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/03/1069824056/another-hong-kong-news-outlet-to-close-amid-crackdown-on-dissent">Another Hong Kong news site shuts as pro-Beijing lawmakers sworn in</a> NPR: A Hong Kong online news site said Sunday that it will cease operations in light of deteriorating press freedoms, days after police raided a separate pro-democracy news outlet, arresting seven. 
- <p class="updated_time"> 09:19 PM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/us/politics/jan-6-capitol-riot-anniversary.html">Jan. 6 Panel Faces Difficult Questions as Anniversary of Capitol Riot Approaches</a> NYT: Decisions about subpoenas and a Supreme Court ruling loom as lawmakers, staff members and Capitol employees plan to commemorate the day. 
  <p class="updated_time"> 09:13 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/harry-reid-to-lie-in-state-in-capitol-rotunda-526381">Harry Reid to lie in state in Capitol Rotunda</a> Politico: The former Senate majority leader died last Tuesday. 
  <p class="updated_time"> 08:52 PM CT, Jan. 02 </p> 
@@ -378,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/01/congress-future-presidential-ballots-trump-challenge-526168">Efforts to Trump-proof presidential certification crash into congressional realities</a> Politico: As lawmakers weigh how to safeguard the certification of elections from a future Jan. 6 attack, they’re facing one huge constitutional roadblock. 
  <p class="updated_time"> 10:00 PM CT, Dec. 31 </p> 
  <a href="https://www.cnn.com/2021/12/31/politics/biden-new-years-eve/index.html">Biden rings in new year, says there's 'no quit in America'</a> CNN: In a New Year's Eve message Friday, President Joe Biden said he's "more optimistic about America's future than I've ever been." 
- <p class="updated_time"> 07:40 PM CT, Dec. 31 </p> 
- <a href="https://www.politico.com/news/2021/12/31/kerik-documents-jan-6-committee-526297">Bernard Kerik provides batch of documents to Jan. 6 select committee</a> Politico: The former New York City Police commissioner also provided a “privilege log” describing materials he declined to provide to the committee. 
  <p class="updated_time"> 05:13 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/us/politics/john-roberts-supreme-court.html">Chief Justice Roberts Reflects on Conflicts, Harassment and Judicial Independence</a> NYT: In his year-end report, the chief justice said that the court administrators, not Congress, should address financial conflicts and workplace misconduct in the judicial system. 
  <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
