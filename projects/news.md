@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:19 PM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59734254?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes: Theranos founder convicted of fraud</a> BBC: A jury found the Silicon Valley ex-CEO guilty on four of 11 counts after seven days of deliberations. 
  <p class="updated_time"> 06:30 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59863739?at_medium=RSS&at_campaign=KARANGA">The rise and fall of Elizabeth Holmes</a> BBC: The founder of the once promising start-up Theranos has been found guilty of fraud. What went wrong? 
  <p class="updated_time"> 06:28 PM CT, Jan. 03 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/world/maryland-covid-larry-hogan.html">Governor: Maryland Prepares for 'Terrible Point' in Covid Crisis</a> NYT: Gov. Larry Hogan said the state was trying to staff hospitals through a variety of measures. 
  <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383184?at_medium=RSS&at_campaign=KARANGA">Green Connect: The farm helping refugees build a life in Australia</a> BBC: It has employed 5,000 people in the past decade and "dramatically" changed fortunes, refugees say. 
- <p class="updated_time"> 05:08 PM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59855440?at_medium=RSS&at_campaign=KARANGA">Emily in Paris: Ukraine complains over Kyiv character stereotype</a> BBC: Ukraine's culture minister has described the portrayal of a character from Kyiv as "insulting". 
  <p class="updated_time"> 03:41 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Is 'Gutted' by Large Fire</a> NYT: Officials warned that the damage to the buildings would be extensive. A man was arrested on Sunday morning inside the parliamentary complex, Parliament’s spokesman said. 
  <p class="updated_time"> 03:03 PM CT, Jan. 02 </p> 
@@ -194,8 +194,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:41 PM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/news/2022/01/03/rep-bobby-rush-wont-seek-reelection-526455">Bobby Rush to relinquish 30-year hold on House seat</a> Politico: The veteran Illinois congressman and former Black Panther leader said, "I'm not retiring... I'm just entering into a new level of my life." 
+ <p class="updated_time"> 06:47 PM CT, Jan. 03 </p> 
+ <a href="https://www.cnn.com/2022/01/03/politics/navy-covid-vaccine-policy-religious-objection/index.html">Judge blocks Navy vaccine policy for legal challengers citing religious objections</a> CNN: A federal judge in Texas on Monday ruled against the Biden administration's vaccine requirement for members of the military in a decision that took aim at how the Navy's policies handled those who sought religious exemptions from receiving the Covid-19 vaccine. 
  <p class="updated_time"> 06:42 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/ivanka-donald-trump-jr-subpoena/index.html">NY AG subpoenas Ivanka Trump and Donald Trump Jr. in civil investigation</a> CNN: The New York attorney general's office has subpoenaed two of former President Donald Trump's children for testimony as part of its civil investigation into whether the Trump Organization manipulated the values of its properties. 
+ <a href="https://www.cnn.com/2022/01/03/politics/ivanka-donald-trump-jr-subpoena/index.html">Trumps move to quash subpoenas for their testimony in civil investigation</a> CNN: The New York attorney general's office has subpoenaed two of former President Donald Trump's children for testimony as part of its civil investigation into whether the Trump Organization manipulated the values of its properties. 
  <p class="updated_time"> 06:05 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/new-hampshire-secretary-of-state-resigns.html">New Hampshire Secretary of State, Longest Serving in U.S., Is Retiring</a> NYT: The official, Bill Gardner, a Democrat, has served as secretary of state in New Hampshire for more than four decades. 
  <p class="updated_time"> 06:00 PM CT, Jan. 03 </p> 
@@ -273,7 +277,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:00 AM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/2022-issues-to-watch-what-matters/index.html">Analysis: 2022 brings a daunting set of hurdles for America. Here are the top three</a> CNN: The year ahead brings a daunting set of hurdles for the country with everything from the coronavirus pandemic to pervasive misinformation  challenging our institutions. 
  <p class="updated_time"> 05:02 AM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/biden-zelensky-call/index.html">Biden tells Ukrainian president US 'will respond decisively if Russia further invades'</a> CNN: President Joe Biden told Ukrainian President Volodymyr Zelensky on Sunday that the US and its allies "will respond decisively if Russia further invades Ukraine," according to a readout of a call between the two leaders provided by the White House. 
+ <a href="https://www.cnn.com/2022/01/02/politics/biden-zelensky-call/index.html">Biden tells Ukrainian President US 'will respond decisively if Russia further invades'</a> CNN: President Joe Biden told Ukrainian President Volodymyr Zelensky on Sunday that the US and its allies "will respond decisively if Russia further invades Ukraine," according to a readout of a call between the two leaders provided by the White House. 
  <p class="updated_time"> 04:31 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/larry-hogan-tour-republicans-trump-526370">Larry Hogan goes on tour to boost Republicans on Trump’s enemies list</a> Politico: The Maryland governor is looking to help GOP impeachment backers and others who have drawn Trump-supported challengers. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
@@ -302,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/02/politics/marjorie-taylor-greene-twitter-suspension/index.html">One of Marjorie Taylor Greene's verified Twitter accounts permanently suspended from Twitter</a> CNN: Twitter has permanently suspended Georgia GOP Rep. Marjorie Taylor Greene's Twitter account @mtgreenee, the company confirmed to CNN Sunday morning. 
  <p class="updated_time"> 08:52 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/lloyd-austin-test-positive-covid/index.html">Defense Secretary Austin says he has tested positive for Covid-19</a> CNN: Defense Secretary Lloyd Austin has tested positive for Covid-19 and is exhibiting "mild" symptoms, according to a statement from him released by the Defense Department on Sunday. 
- <p class="updated_time"> 08:38 PM CT, Jan. 02 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html">Cheney: January 6 committee has 'firsthand' testimony that Ivanka asked Trump to intervene during insurrection</a> CNN: The Democratic chairman of the House select committee investigating the Capitol insurrection said Sunday that the panel has "significant testimony" that the White House "had been told to do something" during the deadly attack last year. 
  <p class="updated_time"> 08:15 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/harry-reid-lie-in-state/index.html">Former Democratic leader Harry Reid to lie in state at US Capitol on January 12</a> CNN: Former Senate Majority Leader Harry Reid will lie in state in the US Capitol Rotunda on January 12, according to a joint statement from House Speaker Nancy Pelosi and Senate Majority Leader Chuck Schumer, an honor given to few statesmen. 
  <p class="updated_time"> 06:34 PM CT, Jan. 02 </p> 
