@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:01 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/africa/cape-town-parliament-fire-suspect-charged.html">Suspect Charged With Arson in Fire at South Africa’s Parliament</a> NYT: The 49-year-old was also accused of possessing explosives, stealing laptops and other items and breaking security laws. His lawyer said the man had been wrongly accused in a rush to find a scapegoat. 
+ <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59871267?at_medium=RSS&at_campaign=KARANGA">US snow: Major snowfall blankets Washington DC</a> BBC: Snow causes fun and frustration in Washington DC. 
  <p class="updated_time"> 08:37 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
  <p class="updated_time"> 08:22 AM CT, Jan. 04 </p> 
@@ -27,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59864266?at_medium=RSS&at_campaign=KARANGA">China: Xi'an residents in lockdown trade goods for food amid shortage</a> BBC: Supplies are low in lockdown, and some have resorted to bartering phones and gadgets for food. 
  <p class="updated_time"> 05:42 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59867530?at_medium=RSS&at_campaign=KARANGA">Donald Trump's children refuse to testify in fraud inquiry</a> BBC: Donald Jr and Ivanka are being asked to give evidence to a civil investigation into the family business. 
- <p class="updated_time"> 05:32 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/africa/cape-town-parliament-fire-suspect-charged.html">Suspect Charged With Arson in Fire at South Africa’s Parliament</a> NYT: The 49-year-old man was also accused of housebreaking, theft and contravening state security laws. His lawyer said the suspect was being made a scapegoat for government failures. 
  <p class="updated_time"> 05:31 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/04/1068916102/how-subsidies-helped-montreal-become-the-hollywood-of-video-games">How subsidies helped Montreal become "the Hollywood of video games"</a> NPR: For decades, Montreal has used generous tax subsidies to boost its video game industry. The policy has succeeded, but the city may need to keep the subsidies in place to keep companies from leaving. 
  <p class="updated_time"> 05:19 AM CT, Jan. 04 </p> 
@@ -56,7 +58,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:00 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/britain-electricity-norway-cables.html">A Widening Web of Undersea Cables Connects Britain to Green Energy</a> NYT: Linking one nation’s power grid with another’s is considered essential as more electricity is generated from solar and wind. 
  <p class="updated_time"> 01:11 AM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/covid-19-infections-accelerate-across-asia-11641283016">U.S. Covid-19 Infections Top One Million After Holiday Backlog</a> WSJ: Most states reported logjams of cases after pausing during the New Year holiday and recorded case numbers didn’t include data from six states, which either don’t issue daily reports or hadn’t resumed after the break. 
+ <a href="https://www.wsj.com/articles/covid-19-infections-accelerate-across-asia-11641283016">U.S. Covid Cases Top One Million After Holiday Backlog</a> WSJ: Most states reported logjams of cases after pausing during the New Year holiday and recorded case numbers didn’t include data from six states, which either don’t issue daily reports or hadn’t resumed after the break. 
  <p class="updated_time"> 11:30 PM CT, Jan. 03 </p> 
  <a href="https://www.wsj.com/articles/russias-military-buildup-near-ukraine-is-an-open-secret-11641292202">Russia's Military Buildup Near Ukraine Is an Open Secret</a> WSJ: Satellite images, social media posts and flight-tracking data allow private citizens to track details governments once classified. 
  <p class="updated_time"> 10:26 PM CT, Jan. 03 </p> 
@@ -143,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/03/1069824056/another-hong-kong-news-outlet-to-close-amid-crackdown-on-dissent">Another Hong Kong news site shuts as pro-Beijing lawmakers sworn in</a> NPR: A Hong Kong online news site said Sunday that it will cease operations in light of deteriorating press freedoms, days after police raided a separate pro-democracy news outlet, arresting seven. 
  <p class="updated_time"> 10:04 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/maryland-covid-larry-hogan.html">Governor: Maryland Prepares for 'Terrible Point' in Covid Crisis</a> NYT: Gov. Larry Hogan said the state was trying to staff hospitals through a variety of measures. 
- <p class="updated_time"> 06:00 PM CT, Jan. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59383184?at_medium=RSS&at_campaign=KARANGA">Green Connect: The farm helping refugees build a life in Australia</a> BBC: It has employed 5,000 people in the past decade and "dramatically" changed fortunes, refugees say. 
  <p class="updated_time"> 03:41 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/south-africa-fire-parliament.html">South Africa Parliament Is 'Gutted' by Large Fire</a> NYT: Officials warned that the damage to the buildings would be extensive. A man was arrested on Sunday morning inside the parliamentary complex, Parliament’s spokesman said. 
  <p class="updated_time"> 03:03 PM CT, Jan. 02 </p> 
