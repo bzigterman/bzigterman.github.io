@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:44 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
+ <p class="updated_time"> 12:43 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59869509?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Behind the bubble in Beijing</a> BBC: Have a look at how Beijing is preparing for the Games - with a sealed off area to keep Covid out. 
+ <p class="updated_time"> 12:39 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/europe/ireland-alcohol-minimum-unit-price.html">Ireland Puts Minimum Price on Alcohol to Curb Binge Drinking</a> NYT: The new rule, part of broader legislation aimed at stemming alcohol-related illnesses, sets a minimum price of one euro per standard drink and came into effect on Tuesday. 
  <p class="updated_time"> 12:35 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Seizes a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
  <p class="updated_time"> 12:19 PM CT, Jan. 04 </p> 
@@ -37,8 +43,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59868721?at_medium=RSS&at_campaign=KARANGA">Two arrested in Egypt after teenage girl's suicide</a> BBC: Basant Khaled, 17, took her own life in Egypt after allegedly being blackmailed with faked images. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59871267?at_medium=RSS&at_campaign=KARANGA">US snow: Major snowfall blankets Washington DC</a> BBC: Snow causes fun and frustration in Washington DC. 
- <p class="updated_time"> 07:15 AM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/u-s-ambassador-to-russia-says-de-escalation-is-key-objective-at-ukraine-talks-11641314171">U.S. Ambassador to Russia Says De-Escalation Is Key Objective at Ukraine Talks</a> WSJ: Washington heads into discussions with Moscow next week determined to defend its allies and partners in deterring Russia from any further incursion into Ukraine, but is also ready to engage in dialogue and diplomacy, John Sullivan said. 
+ <p class="updated_time"> 07:01 AM CT, Jan. 04 </p> 
+ <a href="https://www.wsj.com/articles/u-s-prevails-over-canada-in-dairy-dispute-11641318427">U.S. Prevails Over Canada in Dairy Dispute</a> WSJ: Canada has until Feb. 3 to change policies aimed at shielding its dairy industry from American competition, or the U.S. can proceed with tariffs, after a ruling published Tuesday. 
  <p class="updated_time"> 06:53 AM CT, Jan. 04 </p> 
  <a href="https://www.wsj.com/articles/lockdown-of-chinese-city-leave-13-million-stranded-11641314909">Lockdown of Chinese City Leaves 13 Million Stranded</a> WSJ: Residents of Xi’an are voicing desperation under restrictions that recall the closing of Wuhan in 2020. 
  <p class="updated_time"> 06:37 AM CT, Jan. 04 </p> 
@@ -55,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/money/2022/01/04/1068916102/how-subsidies-helped-montreal-become-the-hollywood-of-video-games">How subsidies helped Montreal become "the Hollywood of video games"</a> NPR: For decades, Montreal has used generous tax subsidies to boost its video game industry. The policy has succeeded, but the city may need to keep the subsidies in place to keep companies from leaving. 
  <p class="updated_time"> 05:19 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59867772?at_medium=RSS&at_campaign=KARANGA">Silicon Valley's trial of the century</a> BBC: A look at the Theranos trial and the evidence that led to Elizabeth Holmes being found guilty of fraud. 
- <p class="updated_time"> 05:13 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to probe whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 04:47 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070119371/activists-urge-tesla-to-close-its-new-xinjiang-showroom">Activists urge Tesla to close its new Xinjiang showroom</a> NPR: Tesla on Friday announced the opening of its showroom in Urumqi, the capital of Xinjiang, where officials are accused of abuses against mostly Muslim ethnic minorities. 
  <p class="updated_time"> 04:45 AM CT, Jan. 04 </p> 
@@ -92,13 +96,11 @@ permalink: /projects/news/
  <p class="updated_time"> 06:02 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59763426?at_medium=RSS&at_campaign=KARANGA">Watching North Korea from a supersonic fighter jet</a> BBC: BBC correspondent Laura Bicker reports from a supersonic fighter jet on South Korea’s drive to build up its own war machine. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069983235/richard-leakey-whose-discoveries-helped-prove-mankind-began-in-africa-is-dead-at">Richard Leakey, whose discoveries helped prove mankind began in Africa, is dead at 77</a> NPR: Famed Kenyan conservationist and fossil hunter Richad Leakey has died at age 77. His discoveries helped prove Africa was the cradle of civilization. 
+ <a href="https://www.npr.org/2022/01/03/1069983235/richard-leakey-whose-discoveries-helped-prove-mankind-began-in-africa-is-dead-at">Richard Leakey, whose discoveries helped prove mankind began in Africa, is dead at 77</a> NPR: Famed Kenyan conservationist and fossil hunter Richard Leakey has died at age 77. His discoveries helped prove Africa was the cradle of civilization. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069983221/2-years-after-the-u-s-killed-irans-qasem-soleimani-tensions-remain">2 years after the U.S. killed Iran's Qasem Soleimani, tensions remain</a> NPR: NPR's Mary Louise Kelly talks with Karim Sadjadpour, senior fellow at the Carnegie Endowment for International Peace, about the impact of the U.S.'s assassination of Iranian Gen. Qasem Soleimani. 
  <p class="updated_time"> 02:56 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/europe/hungary-european-union.html">How the European Union Allowed Hungary to Become an Illiberal Model</a> NYT: After years of complacency and wishful thinking, Brussels is finally trying to rein in the country’s pugnacious leader, Prime Minister Viktor Orban. 
- <p class="updated_time"> 02:22 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59863152?at_medium=RSS&at_campaign=KARANGA">South Africa's parliament building on fire again</a> BBC: One day after a fire at the parliament building in Cape Town, crews are tackling another blaze. 
  <p class="updated_time"> 02:00 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/africa/south-africa-parliament-fire-suspect.html">South Africa Parliament: Suspect Charged in Fire to Appear in Court</a> NYT: A 49-year-old man is facing charges of arson and theft in the blaze, which started Sunday and heavily damaged legislative buildings in Cape Town. 
  <p class="updated_time"> 01:59 PM CT, Jan. 03 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/world/europe/turkey-kurdish-art-exhibit.html">In Turkey, an Exhibit Meant to Highlight Kurdish Suffering Provoked a Furor</a> NYT: A recent art show in a major Kurdish city in Turkey aimed to uplift a region crushed by years of conflict. It ended up serving as a reminder of how toxic the subject of Kurds remains in Turkey. 
  <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/style/new-years-resolutions-quotes-tips.html">Setting New Year's Resolutions? Start With These Words of Wisdom</a> NYT: Let their stories be your inspiration as you set resolutions for 2022. 
- <p class="updated_time"> 03:10 AM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
 
 
 </details>
@@ -392,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/31/politics/biden-new-years-eve/index.html">Biden rings in new year, says there's 'no quit in America'</a> CNN: In a New Year's Eve message Friday, President Joe Biden said he's "more optimistic about America's future than I've ever been." 
  <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/31/meet-the-gops-new-national-security-power-broker-495557"> Meet the GOP’s new national security power broker</a> Politico Playbook: And neither Biden nor Putin backs down on a new call. 
- <p class="updated_time"> 07:01 AM CT, Dec. 31 </p> 
- <a href="https://www.politico.com/news/2021/12/31/complaint-doj-foreign-agent-prosecutions-526278">Complaint could roil DOJ foreign-agent prosecutions</a> Politico: Businesswoman Nickie Lum Davis says her guilty plea last year to a charge of unregistered lobbying was coerced. 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
  <p class="updated_time"> 08:17 AM CT, Dec. 30 </p> 
