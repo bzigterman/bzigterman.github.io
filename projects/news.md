@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:45 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59871945?at_medium=RSS&at_campaign=KARANGA">Paraguayan soldier killed by deer at presidential palace</a> BBC: The soldier was killed after approaching the deer inside the presidential gardens in the capital. 
+ <p class="updated_time"> 03:39 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/middleeast/palestinian-hunger-strike-israel.html">Palestinian Prisoner’s Hunger Strike Leads to Deal for Release</a> NYT: A Palestinian accused of plotting to kill Israelis went on a hunger strike to protest his imprisonment without trial. Fearing unrest, Israel agreed to release him. 
+ <p class="updated_time"> 03:38 PM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1070338017/this-new-low-cost-covid-19-vaccine-could-be-a-game-changer-for-low-income-countr">This new, low-cost COVID-19 vaccine could be a game changer for low-income countries</a> NPR: A low cost vaccine called Corbevax may help solve the problem of getting safe and effective COVID vaccines to poor and middle-income countries. 
  <p class="updated_time"> 03:24 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070338003/twitters-gone-viral-album-of-endangered-bird-songs-charts-in-australia">Twitters gone viral: album of endangered bird songs charts in Australia</a> NPR: Songs of Disappearance is an collection of bird calls from 53 threatened Australian species. And for a brief spell, it was a best-selling album. 
  <p class="updated_time"> 03:22 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/prince-andrew-sexual-abuse-royal-family.html">What Prince Andrew's  Abuse Case Could Mean for the Royal Family</a> NYT: As Queen Elizabeth II prepares to mark 70 years on the throne this year, a sexual abuse case in a Manhattan court involving her son could mean more turmoil for the royal family. 
- <p class="updated_time"> 03:21 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/middleeast/palestinian-hunger-strike-israel.html">Palestinian Prisoner’s Hunger Strike Leads to Deal for Release</a> NYT: A Palestinian accused of plotting to kill Israelis went on a hunger strike to protest his imprisonment without trial. Fearing unrest, Israel agreed to release him. 
  <p class="updated_time"> 02:59 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Decision soon on dismissing case - judge</a> BBC: A US court hears arguments about a deal the prince's accuser Virginia Giuffre agreed with Jeffrey Epstein. 
  <p class="updated_time"> 02:42 PM CT, Jan. 04 </p> 
@@ -21,6 +25,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 02:37 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070297325/france-car-ads-climate">Car ads in France will soon have to encourage more environmentally friendly travel</a> NPR: The automakers' ads will suggest people consider carpooling or cycling instead of driving. The new rules, beginning in March, come as the country is trying to cut down on its carbon emissions. 
+ <p class="updated_time"> 02:31 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59833123?at_medium=RSS&at_campaign=KARANGA">Canada reaches $31bn deal in indigenous child welfare case</a> BBC: The deal will end a lengthy legal battle over compensation between indigenous communities and Canada. 
  <p class="updated_time"> 02:19 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Charges a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
  <p class="updated_time"> 02:05 PM CT, Jan. 04 </p> 
@@ -71,14 +77,10 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/lockdown-of-chinese-city-leave-13-million-stranded-11641314909">Lockdown of Chinese City Leaves 13 Million Stranded</a> WSJ: Residents of Xi’an are voicing desperation under restrictions that recall the closing of Wuhan in 2020. 
  <p class="updated_time"> 06:37 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/china-evergrande-protests.html">With Property Sales Plunging, China Evergrande Faces More Protests</a> NYT: The developer has tried for months to signal that its $300 billion debt problem was under control. But the challenges keep mounting. 
- <p class="updated_time"> 06:32 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59867046?at_medium=RSS&at_campaign=KARANGA">France's Bogdanoff TV twins die of Covid six days apart</a> BBC: Grichka and Igor Bogdanoff had hosted a TV science and science-fiction show in the 1980s. 
  <p class="updated_time"> 06:24 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/molenbeek-attack-brussels-paris.html">How This Changing Brussels Neighborhood is Trying to Leave The Stigma of Terrorism Behind</a> NYT: Molenbeek was where a terrorist cell planned attacks that killed 162 in Paris and Brussels. Six years later, residents are trying to reinvent the area as a trial rekindles an awful association. 
  <p class="updated_time"> 06:22 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/sports/tennis/djokovic-vaccine.html">Djokovic Granted Covid-19 Vaccine Exemption to Play in Australian Open</a> NYT: The top-ranked player in men’s tennis revealed his plans in a post on his Instagram account. 
- <p class="updated_time"> 05:53 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59864266?at_medium=RSS&at_campaign=KARANGA">China: Xi'an residents in lockdown trade goods for food amid shortage</a> BBC: Supplies are low in lockdown, and some have resorted to bartering phones and gadgets for food. 
  <p class="updated_time"> 05:31 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/04/1068916102/how-subsidies-helped-montreal-become-the-hollywood-of-video-games">How subsidies helped Montreal become "the Hollywood of video games"</a> NPR: For decades, Montreal has used generous tax subsidies to boost its video game industry. The policy has succeeded, but the city may need to keep the subsidies in place to keep companies from leaving. 
  <p class="updated_time"> 05:19 AM CT, Jan. 04 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
  <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069837718/multiple-factors-including-taliban-takeover-contribute-to-hunger-in-afghanistan">As 2022 starts, most Afghans don't have enough food to eat</a> NPR: Millions of people in Afghanistan are facing hunger and starvation amid a prolonged drought and economic crash. A World Food Program spokesperson says a new urban class of hungry people has emerged. 
- <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069837711/amid-sudans-political-deadlock-the-prime-minister-announces-his-resignation">Amid Sudan's political deadlock, the prime minister announces his resignation </a> NPR: NPR's A Martinez talks to journalist Sanosi Adam about Prime Minister Abdalla Hamdok resigning a little over a month after he was ousted in a coup by the country's military and then was reinstated. 
  <p class="updated_time"> 04:02 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/us-defense-secretary-austin-covid.html">U.S. Defense Secretary Tests Positive for Coronavirus</a> NYT: Lloyd J. Austin III stressed that his fully vaccinated status — including a booster received in early October — was to thank for his mild symptoms. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
@@ -173,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/stories-59566983?at_medium=RSS&at_campaign=KARANGA">In the footsteps of the women who escaped a Nazi death march</a> BBC: When Gwen Strauss' great-aunt revealed she had led nine women in an escape from a Nazi death march in 1945, Gwen decided to retrace their steps. 
  <p class="updated_time"> 06:05 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59703681?at_medium=RSS&at_campaign=KARANGA">Letter from Africa: Africa plays on in 2022 without its great referee</a> BBC: Joseph Warungu looks at what is in store for the African continent this coming year. 
- <p class="updated_time"> 11:16 AM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/01/world/europe/pontifical-oriental-institute-digital-texts.html">A Vatican Library Shortens the Distance Between Its Works and Its Scholars</a> NYT: Rare books in Rome are going online thanks to a German copier, a Long Island scanning firm and a New York software company. 
 
 
 </details>
@@ -184,6 +182,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:48 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/us-arrest-charges-suspect-haitian-president-slaying-526492">U.S. arrests, charges suspect in Haitian president slaying</a> Politico: The U.S. government announced Tuesday that it arrested one of the main suspects in the killing of Haitian president Jovenel Moïse. 
+ <p class="updated_time"> 03:46 PM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1070338038/illinois-rep-bobby-rush-a-democrat-is-retiring-after-30-years-in-the-u-s-house">Illinois Rep. Bobby Rush, a Democrat, is retiring after 30 years in the U.S. House</a> NPR: Longtime Illinois Democratic Rep. Bobby Rush announced on Tuesday that he is leaving Congress. The former Black Panther has represented the South Side of Chicago in Congress since 1993. 
+ <p class="updated_time"> 03:46 PM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1070338031/what-u-s-capitol-security-looks-like-a-year-after-the-jan-6-insurrection">What U.S. Capitol security looks like a year after the Jan. 6 insurrection</a> NPR: A year after the Jan. 6 riot, a new team of Capitol security leaders are in place, and congressional probes are investigating what went wrong that day. The partisan divide in Congress has intensified. 
+ <p class="updated_time"> 03:46 PM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1070337975/democrats-revisit-voting-rights-legislation-around-jan-6-anniversary">Democrats revisit voting rights legislation around Jan. 6 anniversary</a> NPR: Democrats are making a fresh push on voting rights legislation around the anniversary of the Jan. 6 insurrection, while also trying to revive President Biden's Build Back Better agenda. 
+ <p class="updated_time"> 03:39 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/tim-kaine-stranded-interstate-95-winter-storm/index.html">Virginia senator recounts being stuck on I-95 for more than 20 hours after winter storm</a> CNN: Sen. Tim Kaine on Tuesday recounted his hours-long journey on a Washington-area highway after a winter storm crippled the region and left hundreds, including the Virginia Democrat, stranded for hours on roads. 
  <p class="updated_time"> 03:37 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/technology/podcast-election-misinformation.html">Election Falsehoods Surged on Podcasts Before Capitol Riots, Researchers Find</a> NYT: A new study analyzed nearly 1,500 episodes, showing the extent to which podcasts pushed misinformation about voter fraud. 
  <p class="updated_time"> 03:36 PM CT, Jan. 04 </p> 
@@ -192,8 +198,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/business/paxlovid-covid-pill.html">U.S. Doubles Paxlovid Covid Pill Order</a> NYT: The order for 10 million additional treatment courses will modestly increase very limited supplies in the next few weeks, with much larger deliveries later in the year. 
  <p class="updated_time"> 03:24 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070337968/why-is-the-big-lie-proving-so-hard-to-dispel">Why is the 'Big Lie' proving so hard to dispel?</a> NPR: One year after the insurrection at the U.S. Capitol, a new NPR/Ipsos poll shows many Americans still buy into the "Big Lie": the baseless claim that the 2020 election was stolen. 
- <p class="updated_time"> 03:07 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/tim-kaine-stranded-interstate-95-winter-storm/index.html">Virginia senator recounts being stuck on I-95 for more than 20 hours after winter storm</a> CNN: Sen. Tim Kaine on Tuesday recounted his hours-long journey on a Washington-area highway after a winter storm crippled the region and left hundreds, including the Virginia Democrat, stranded for hours on roads. 
  <p class="updated_time"> 03:03 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/supreme-court-justices-covid-booster-shot/index.html">All nine Supreme Court justices have received a Covid-19 booster shot</a> CNN: All nine Supreme Court justices have received a Covid-19 booster shot, the court said Tuesday. 
  <p class="updated_time"> 02:54 PM CT, Jan. 04 </p> 
@@ -316,10 +320,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/marjorie-taylor-greene-facebook-suspension-526398">MTG hit with Facebook suspension after Twitter ban</a> Politico: “Facebook has joined Twitter in censoring me,” Greene (R-Ga.) wrote on Gettr, a social media platform favored by some right-wing conservatives. 
  <p class="updated_time"> 12:51 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/trump-endorses-viktor-orban-hungary.html">Trump Endorses Viktor Orban, Hungary’s Far-Right Prime Minister</a> NYT: Democracy in Hungary has been backsliding under Mr. Orban, whose efforts to consolidate power have caused consternation in the European Union. 
- <p class="updated_time"> 12:18 PM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069946405/new-yorks-attorney-general-has-subpoenaed-ivanka-trump-and-donald-trump-jr">New York's attorney general has subpoenaed Ivanka Trump and Donald Trump Jr. </a> NPR: The subpoenas stem from an ongoing civil investigation into the Trump family's business practices. The former president has also been subpoenaed, and is now suing the attorney general. 
- <p class="updated_time"> 12:03 PM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069888391/schumer-tees-up-vote-on-rules-change-if-voting-rights-legislation-is-blocked">Schumer tees up vote on rules change if voting rights legislation is blocked </a> NPR: It's the latest push by Senate Democrats to make good on their promise to pass voting rights legislation. 
  <p class="updated_time"> 11:23 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/capitol-police-union-private-security-proposal-526395">Capitol Police union douses private security proposal</a> Politico: “We need to hire more officers — period. The last thing we need are private security contractors who are not trained to our standards,” the chair of the union said in a statement sent to POLITICO. 
  <p class="updated_time"> 10:48 AM CT, Jan. 03 </p> 
@@ -344,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/trumpworld-jan-6-526291">They resigned in protest over Jan. 6 — then never went after Trump again</a> Politico: The administration officials who defected from the administration over the riots have almost all receded from public view even as Trump’s stayed put. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/could-january-6th-happen-again-526167">Could Jan. 6 happen again?</a> Politico: The Capitol Police has made progress under a new chief. But many on the Hill don't have an easy answer. 
- <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069837652/morning-news-brief">News brief: COVID-19 surge, NPR/Ipsos democracy poll, Capitol police gains</a> NPR: The omicron variant hasn't slowed in the U.S. A poll shows Americans are deeply pessimistic about the future of democracy. The Capitol Police chief is to testify before a Senate panel this week. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/supreme-court-death-penalty-intellectual-disability.html">Language Mistake in Georgia Death Penalty Law Creates a Daunting Hurdle</a> NYT: The Supreme Court will decide whether to hear a challenge to the law, which requires that defendants in capital cases who are intellectually disabled prove it “beyond a reasonable doubt” — a phrase that was inserted in error. 
  <p class="updated_time"> 09:13 PM CT, Jan. 02 </p> 
