@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:37 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
  <p class="updated_time"> 08:22 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/03/nyregion/teacher-injects-student-covid-vaccine.html">Teacher Arrested After Injecting Minor With What Appeared to Be a Covid-19 Vaccine</a> NYT: She has since been removed from the classroom and is scheduled to appear in criminal court on Jan. 21. 
  <p class="updated_time"> 06:37 AM CT, Jan. 04 </p> 
@@ -14,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:32 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59867046?at_medium=RSS&at_campaign=KARANGA">France's Bogdanoff TV twins die of Covid six days apart</a> BBC: Grichka and Igor Bogdanoff had hosted a TV science and science-fiction show in the 1980s. 
  <p class="updated_time"> 06:27 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59867536?at_medium=RSS&at_campaign=KARANGA">Covid: US reports record 1m cases with peak still to come</a> BBC: Omicron drives a record-breaking daily tally of new US cases, though deaths remain stable. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59867536?at_medium=RSS&at_campaign=KARANGA">US reports 1m daily Covid cases with peak to come</a> BBC: Omicron drives a record-breaking daily tally of new US cases, though deaths remain stable. 
  <p class="updated_time"> 06:24 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/molenbeek-attack-brussels-paris.html">How This Changing Brussels Neighborhood is Trying to Leave The Stigma of Terrorism Behind</a> NYT: Molenbeek was where a terrorist cell planned attacks that killed 162 in Paris and Brussels. Six years later, residents are trying to reinvent the area as a trial rekindles an awful association. 
  <p class="updated_time"> 06:22 AM CT, Jan. 04 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/style/new-years-resolutions-quotes-tips.html">Setting New Year's Resolutions? Start With These Words of Wisdom</a> NYT: Let their stories be your inspiration as you set resolutions for 2022. 
  <p class="updated_time"> 03:10 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
- <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/31/sports/football/kirk-cousins-covid.html">Kirk Cousins Tests Positive for Covid-19</a> NYT: Cousins was placed on the team’s Covid-19 reserve list for at least five days, threatening Minnesota’s playoff chances. 
 
 
 </details>
