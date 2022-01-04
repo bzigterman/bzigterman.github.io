@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:08 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/europe/tony-blair-knighthood-petition-rescind.html">Petition to Rescind Tony Blair’s Knighthood Gets Hundreds of Thousands of Signatures</a> NYT: Nearly 15 years after he left office, the prime minister’s support for the Iraq war has not been forgiven by many in Britain. 
+ <p class="updated_time"> 01:01 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/europe/ireland-alcohol-minimum-unit-price.html">Ireland Puts Minimum Price on Alcohol to Curb Binge Drinking</a> NYT: The new rule, part of broader legislation aimed at stemming alcohol-related illnesses, sets a minimum price of one euro per standard drink and came into effect on Tuesday. 
  <p class="updated_time"> 12:44 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 12:43 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59869509?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Behind the bubble in Beijing</a> BBC: Have a look at how Beijing is preparing for the Games - with a sealed off area to keep Covid out. 
- <p class="updated_time"> 12:39 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/europe/ireland-alcohol-minimum-unit-price.html">Ireland Puts Minimum Price on Alcohol to Curb Binge Drinking</a> NYT: The new rule, part of broader legislation aimed at stemming alcohol-related illnesses, sets a minimum price of one euro per standard drink and came into effect on Tuesday. 
  <p class="updated_time"> 12:35 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Seizes a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
  <p class="updated_time"> 12:19 PM CT, Jan. 04 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/business/britain-electricity-norway-cables.html">A Widening Web of Undersea Cables Connects Britain to Green Energy</a> NYT: Linking one nation’s power grid with another’s is considered essential as more electricity is generated from solar and wind. 
  <p class="updated_time"> 11:30 PM CT, Jan. 03 </p> 
  <a href="https://www.wsj.com/articles/russias-military-buildup-near-ukraine-is-an-open-secret-11641292202">Russia's Military Buildup Near Ukraine Is an Open Secret</a> WSJ: Satellite images, social media posts and flight-tracking data allow private citizens to track details governments once classified. 
- <p class="updated_time"> 10:26 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/movies/three-minutes-a-lengthening-documentary.html">‘Three Minutes: A Lengthening’ Looks at Jewish Life Before Nazi Invasion</a> NYT: A documentary based on a home movie shot by an American in 1938 provides a look at the vibrancy of a Jewish community in Europe just before the Holocaust. 
  <p class="updated_time"> 08:58 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808739?at_medium=RSS&at_campaign=KARANGA">Pushpa: Why a song calling out men is under fire for sleaze</a> BBC: A new hit song which claims to subvert the male gaze is accused of, in fact, objectifying women. 
  <p class="updated_time"> 08:45 PM CT, Jan. 03 </p> 
@@ -167,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/stories-59566983?at_medium=RSS&at_campaign=KARANGA">In the footsteps of the women who escaped a Nazi death march</a> BBC: When Gwen Strauss' great-aunt revealed she had led nine women in an escape from a Nazi death march in 1945, Gwen decided to retrace their steps. 
  <p class="updated_time"> 06:05 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59703681?at_medium=RSS&at_campaign=KARANGA">Letter from Africa: Africa plays on in 2022 without its great referee</a> BBC: Joseph Warungu looks at what is in store for the African continent this coming year. 
- <p class="updated_time"> 02:25 PM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/01/world/asia/south-korea-men-anti-feminists.html">The New Political Cry in South Korea: ‘Out With Man Haters’</a> NYT: After slow gains in women’s rights, the country is facing a type of political correctness enforced by young men angry at feminists, saying they undermine opportunity. 
  <p class="updated_time"> 01:11 PM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/africa/desmond-tutu-funeral-south-africa.html">Desmond Tutu Funeral: South Africa Bids Farewell</a> NYT: The archbishop and Nobel laureate left plans for an unostentatious ceremony, which were stripped back further under Covid restrictions. 
  <p class="updated_time"> 11:16 AM CT, Jan. 01 </p> 
@@ -188,6 +186,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">'I don't think that's a good idea': GOP shudders at Trump Jan. 6 speech</a> Politico: Republican Sen. Pat Toomey said the event isn’t a “terribly good idea,” but added, “What am I going to do about it?” 
+ <p class="updated_time"> 01:08 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden set to meet with Covid-19 team and deliver remarks</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
+ <p class="updated_time"> 01:07 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/hackers-florida-health-care/index.html">Hackers breached Florida health care system, potentially exposing data on 1.3 million people</a> CNN: Hackers breached the computer networks of a southeast Florida health care system in October and may have accessed sensitive personal and financial information on over 1.3 million people, the health care system announced this week. 
+ <p class="updated_time"> 01:02 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/manchin-filibuster-change-voting-legislation/index.html">Manchin delivers blow to Democrats as he signals opposition to changing Senate rules to advance voting bill</a> CNN: Sen. Joe Manchin of West Virginia, the pivotal Senate swing vote, made clear on Tuesday that he remains deeply skeptical of overhauling the chamber's rules on a simple majority basis to advance voting legislation, a clear sign that a frantic push by Democrats to win his support to change the filibuster and pass one of the party's core priorities is likely doomed. 
+ <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1070254014/longtime-chicago-congressman-bobby-rush-is-the-latest-democrat-to-leave-washingt">Longtime Chicago Congressman Bobby Rush is the latest Democrat to leave Washington</a> NPR: The 75-year-old former Black Panther leader won't seek a 16th term in Congress, but vowed he'll remain an activist. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/manchin-biden-spending-bill-negotiation-526486">Manchin on Biden's spending bill: 'No negotiation going on'</a> Politico: The West Virginia senator thinks Democrats would be better off focusing on climate provisions in their wide-ranging megabill. 
  <p class="updated_time"> 12:47 PM CT, Jan. 04 </p> 
@@ -206,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/business/tesla-dealership-xinjiang-china.html">Tesla Draws Criticism After Opening Dealership in Xinjiang </a> NYT: Senator Marco Rubio criticized the electric carmaker for opening the outlet in a region where China has been accused of targeting Muslims. 
  <p class="updated_time"> 11:48 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070032923/jamie-raskin-jan-6-capitol-unthinkable">After his son's suicide and the Jan. 6 attack, Rep. Jamie Raskin is not giving up</a> NPR: Raskin's son died just days before the Capitol insurrection. Now Raskin serves on the House select committee charged with investigating the Jan. 6 attack. His new memoir is Unthinkable. 
- <p class="updated_time"> 11:34 AM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden set to meet with Covid-19 team and deliver remarks</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
  <p class="updated_time"> 11:07 AM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/melania-trump-new-auction/index.html">Melania Trump to auction white hat and other items for $250,000 minimum bid</a> CNN: Melania Trump announced Tuesday morning that she is holding an auction of the white hat she wore during the visit of the French first family, the Macrons, to the White House in 2018. 
  <p class="updated_time"> 10:59 AM CT, Jan. 04 </p> 
@@ -226,14 +232,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/04/politics/bobby-rush-retiring-democrat-illinois/index.html">Only person to defeat Obama retires from Congress</a> CNN: Rep. Bobby Rush of Illinois told the Chicago Sun-Times in an interview published Monday that he won't run for a 16th term in the US House of Representatives, the 24th House Democrat to announce plans of leaving the chamber at the end the term. 
  <p class="updated_time"> 09:57 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/02/us/politics/jan-6-capitol-riot-anniversary.html">Jan. 6 Panel Faces Difficult Questions as Anniversary of Capitol Riot Approaches</a> NYT: Decisions about subpoenas and a Supreme Court ruling loom as lawmakers, staff members and Capitol employees plan to commemorate the day. 
- <p class="updated_time"> 09:51 AM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/hackers-florida-health-care/index.html">Hackers breached Florida health care system, potentially exposing data on 1.3 million people</a> CNN: Hackers breached the computer networks of a southeast Florida health care system in October and may have accessed sensitive personal and financial information on over 1.3 million people, the health care system announced this week. 
  <p class="updated_time"> 08:17 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/capitol-riot-january-6.html">The Jan. 6 Committee’s Consideration of a Criminal Referral, Explained</a> NYT: The House panel does not have the authority to pursue criminal charges, but it can provide the Justice Department with evidence of any wrongdoing it unearths in its investigation. 
  <p class="updated_time"> 07:51 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/04/toxic-positivity-rates-on-capitol-hill-495587">Toxic positivity (rates) on Capitol Hill</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:32 AM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/jan-6-committee-oath-keepers-phone-records-526477">Jan. 6 committee seeking phone records of 2 Oath Keepers facing conspiracy charges</a> Politico: Kelly and Connie Meggs say they were notified of the subpoena by Verizon last month. 
  <p class="updated_time"> 06:21 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/midterm-elections-coronavirus.html">A Frazzled America Staggers Into 2022</a> NYT: The Omicron variant’s spread poses an unwelcome political conundrum just as election season begins. Democrats and the G.O.P. see reasons to hope, but the virus will get the deciding vote. 
  <p class="updated_time"> 06:18 AM CT, Jan. 04 </p> 
@@ -291,8 +293,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:11 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/jan-6-capitol-riot-political-violence-what-matters/index.html">New polling shows rising acceptance of political violence 1 year after January 6 riot</a> CNN: A year after the January 6 Capitol Hill insurrection, Americans are increasingly likely to say political violence can be justified. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/eric-adams-teachers-union-nyc/index.html">'We're staying open': Adams bucks teacher's union request days into new administration</a> CNN: Eric Adams has started his tenure as New York City mayor by rejecting a request from the city's largest teachers' union to temporarily move public schools to remote learning, capping off a frenetic first 72 hours of his administration. 
- <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069983228/during-the-jan-6-riot-chaos-lawmakers-called-on-military-and-intelligence-traini">During the Jan. 6 riot chaos, lawmakers called on military and intelligence training</a> NPR: Representatives Abigail Spanberger, D-Va., and Jason Crow, D-Colo., reflect on the ways their military and intelligence training aided them during the Jan. 6 insurrection at the U.S. Capitol. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069983200/millions-sympathize-with-the-rioters-who-attacked-the-capitol-on-jan-6-survey-fi">Millions sympathize with the rioters who attacked the Capitol on Jan. 6, survey finds</a> NPR: As the U.S. nears the anniversary of a pro-Trump mob's attack at the Capitol, a survey finds widespread community support for violent insurrection that it calls a new political movement in the U.S. 
@@ -338,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/03/1069837652/morning-news-brief">News brief: COVID-19 surge, NPR/Ipsos democracy poll, Capitol police gains</a> NPR: The omicron variant hasn't slowed in the U.S. A poll shows Americans are deeply pessimistic about the future of democracy. The Capitol Police chief is to testify before a Senate panel this week. 
  <p class="updated_time"> 04:01 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069157693/2022-politics-biden-democrats-election-capitol-riot-abortion-supreme-court">6 questions for politics in 2022</a> NPR: From control of Congress and the strength of the Biden presidency to potential Jan. 6 committee revelations and the future of abortion rights, there's a lot at stake in 2022. 
- <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069764164/american-democracy-poll-jan-6">6 in 10 Americans say U.S. democracy is in crisis as the 'Big Lie' takes root</a> NPR: A year after the Jan. 6 attack on the U.S. Capitol, a new NPR/Ipsos poll finds that Americans are pessimistic about the future of democracy, as false claims about the 2020 election persist. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/supreme-court-death-penalty-intellectual-disability.html">Language Mistake in Georgia Death Penalty Law Creates a Daunting Hurdle</a> NYT: The Supreme Court will decide whether to hear a challenge to the law, which requires that defendants in capital cases who are intellectually disabled prove it “beyond a reasonable doubt” — a phrase that was inserted in error. 
  <p class="updated_time"> 09:13 PM CT, Jan. 02 </p> 
