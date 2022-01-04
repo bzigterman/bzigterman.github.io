@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:10 PM CT, Jan. 04 </p> 
+ <p class="updated_time"> 03:24 PM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1070338003/twitters-gone-viral-album-of-endangered-bird-songs-charts-in-australia">Twitters gone viral: album of endangered bird songs charts in Australia</a> NPR: Songs of Disappearance is an collection of bird calls from 53 threatened Australian species. And for a brief spell, it was a best-selling album. 
+ <p class="updated_time"> 03:22 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/europe/prince-andrew-sexual-abuse-royal-family.html">What Prince Andrew's  Abuse Case Could Mean for the Royal Family</a> NYT: As Queen Elizabeth II prepares to mark 70 years on the throne this year, a sexual abuse case in a Manhattan court involving her son could mean more turmoil for the royal family. 
+ <p class="updated_time"> 03:21 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/middleeast/palestinian-hunger-strike-israel.html">Palestinian Prisoner’s Hunger Strike Leads to Deal for Release</a> NYT: A Palestinian accused of plotting to kill Israelis went on a hunger strike to protest his imprisonment without trial. Fearing unrest, Israel agreed to release him. 
  <p class="updated_time"> 02:59 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Decision soon on dismissing case - judge</a> BBC: A US court hears arguments about a deal the prince's accuser Virginia Giuffre agreed with Jeffrey Epstein. 
- <p class="updated_time"> 02:46 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/europe/prince-andrew-sexual-abuse-royal-family.html">What Prince Andrew's  Abuse Case Could Mean for the Royal Family</a> NYT: As Queen Elizabeth II prepares to mark 70 years on the throne this year, a sexual abuse case in a Manhattan court involving her son could mean more turmoil for the royal family. 
  <p class="updated_time"> 02:42 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/africa/cape-town-parliament-fire-suspect-charged.html">Mystery Deepens as Suspect Is Charged With Setting South Africa’s Parliament on Fire</a> NYT: The 49-year-old was also accused of possessing explosives, stealing laptops and breaking security laws. Former neighbors were shocked. His lawyer said the government was rushing to find a scapegoat. 
  <p class="updated_time"> 02:39 PM CT, Jan. 04 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/world/us-defense-secretary-austin-covid.html">U.S. Defense Secretary Tests Positive for Coronavirus</a> NYT: Lloyd J. Austin III stressed that his fully vaccinated status — including a booster received in early October — was to thank for his mild symptoms. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/travel/nepal-maha-shivaratri.html">Celebrating the ‘Great Night of Shiva’ in Kathmandu</a> NYT: Every year, thousands of celebrants gather at a temple complex in Nepal’s capital in honor of Shiva, one of Hinduism’s most revered gods. 
- <p class="updated_time"> 03:33 AM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069839447/seoul-north-korea-defector-likely-made-rare-border-crossing-back">Seoul: North Korea defector likely made rare border crossing back</a> NPR: A person who crossed the border from South Korea into North Korea on New Year's Day was likely a defector who had made the trip in the other direction in late 2020, the military said Monday. 
  <p class="updated_time"> 10:04 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/maryland-covid-larry-hogan.html">Governor: Maryland Prepares for 'Terrible Point' in Covid Crisis</a> NYT: Gov. Larry Hogan said the state was trying to staff hospitals through a variety of measures. 
  <p class="updated_time"> 03:41 PM CT, Jan. 02 </p> 
