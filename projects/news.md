@@ -184,6 +184,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:00 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/jan-6-insurrection-sentencing-tracker-526091">Hundreds of crimes, little punishment: Inside the sentences since the Capitol attack</a> Politico: More than 150 people have pleaded guilty for crimes committed on Jan. 6, 2021. POLITICO is analyzing and tracking every sentence handed down. 
+ <p class="updated_time"> 04:47 AM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1070119371/activists-urge-tesla-to-close-its-new-xinjiang-showroom">Activists urge Tesla to close its new Xinjiang showroom</a> NPR: Tesla on Friday announced the opening of its showroom in Urumqi, the capital of Xinjiang, where officials are accused of abuses against mostly Muslim ethnic minorities. 
  <p class="updated_time"> 04:31 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/biden-schools-omicron-526474">Biden wants schools to remain open. The Omicron surge could foil his plans</a> Politico: For now, political leaders across the ideological spectrum are pressuring schools to keep their doors open. 
  <p class="updated_time"> 04:30 AM CT, Jan. 04 </p> 
@@ -342,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/02/1069739392/disinformation-fueled-2021-and-2022-will-likely-see-the-same">Disinformation fueled 2021, and 2022 will likely see the same</a> NPR: Disinformation — about the Jan. 6 attack, COVID-19, vaccines, etc. — shaped the nation's politics in 2021 and likely will continue to do so throughout the coming year. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
- <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
- <a href="https://www.npr.org/2022/01/02/1069739385/house-committee-member-describes-what-has-been-uncovered-a-year-after-jan-6">House committee member describes what has been uncovered a year after Jan. 6</a> NPR: Eyder Peralta speaks with Rep. Zoe Lofgren, D-Calif., a member of the House committee investigating the Jan. 6 attack on the Capitol as the 1-year anniversary approaches. 
  <p class="updated_time"> 07:00 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/trump-capitol-riot-aftermath-526277">At time of Capitol prayer service Jan. 6, Trump will deliver remarks doubling down on the ‘Big Lie’</a> Politico: The riot at the Capitol briefly looked like it had broken Trump's hold on the GOP. Instead, he has reaffirmed his dominion over the party. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
