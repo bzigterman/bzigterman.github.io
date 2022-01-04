@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:24 AM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/devin-nunes-resigns-from-congress/index.html">Devin Nunes officially resigns from Congress</a> CNN: Devin Nunes, a Republican who has represented California since 2003, has officially resigned from Congress, ending a nearly 20-year stint in the House of Representatives. 
  <p class="updated_time"> 08:17 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/capitol-riot-january-6.html">The Jan. 6 Committee’s Consideration of a Criminal Referral, Explained</a> NYT: The House panel does not have the authority to pursue criminal charges, but it can provide the Justice Department with evidence of any wrongdoing it unearths in its investigation. 
  <p class="updated_time"> 08:11 AM CT, Jan. 04 </p> 
@@ -258,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/technology/facebook-marjorie-taylor-greene.html">Facebook Suspends Marjorie Taylor Greene’s Account for 24 hours</a> NYT: Twitter permanently banned her account on Sunday after what the company said was her fifth “strike.” 
  <p class="updated_time"> 04:11 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/jan-6-capitol-riot-political-violence-what-matters/index.html">New polling shows rising acceptance of political violence 1 year after January 6 riot</a> CNN: A year after the January 6 Capitol Hill insurrection, Americans are increasingly likely to say political violence can be justified. 
- <p class="updated_time"> 04:07 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/new-hampshire-secretary-of-state-retires/index.html">New Hampshire Secretary of State Bill Gardner announces retirement after 45 years as the state's top election official</a> CNN: New Hampshire Secretary of State Bill Gardner announced Monday that he will be retiring, ending his 45-year run as the state's top election official and the most vocal proponent of New Hampshire's status as the first in the nation primary state. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/eric-adams-teachers-union-nyc/index.html">'We're staying open': Adams bucks teacher's union request days into new administration</a> CNN: Eric Adams has started his tenure as New York City mayor by rejecting a request from the city's largest teachers' union to temporarily move public schools to remote learning, capping off a frenetic first 72 hours of his administration. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
@@ -332,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 06:14 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/biden-january-6-speech/index.html">Biden and Harris to deliver remarks on January 6 anniversary</a> CNN: President Joe Biden and Vice President Kamala Harris will deliver remarks on Thursday to mark the one-year anniversary of the January 6 attack on the US Capitol, the White House said Sunday. 
- <p class="updated_time"> 03:03 PM CT, Jan. 02 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/joe-manchin-voting-rights-filibuster/index.html">Why Democrats haven't given up on Joe Manchin and voting rights</a> CNN: In 1947, the year Joe Manchin was born, the US Senate killed voting-rights legislation -- again. The "gravedigger," liberal Democrats complained, was filibuster rules empowering its opponents. 
  <p class="updated_time"> 01:41 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/january-6-poll-violence-against-government/index.html">34% of Americans say violence against government is sometimes justified, new poll finds</a> CNN: Thirty-four percent of Americans think violent action against the government is sometimes justified, according to a new poll from The Washington Post and the University of Maryland released days ahead of the one-year anniversary of the insurrection at the US Capitol. 
  <p class="updated_time"> 01:29 PM CT, Jan. 02 </p> 
@@ -362,6 +360,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/us/politics/stacey-abrams-georgia-democrats.html">Left and Center-Left Both Claim Stacey Abrams. Who’s Right?</a> NYT: Ms. Abrams, the Georgia Democrat running for governor, has admirers in both wings of her party — and Republicans eager to defeat her. Her carefully calibrated strategy faces a test in 2022. 
  <p class="updated_time"> 11:30 PM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/democrats-january-6-2022-campaigns/index.html">'It's not a silver bullet': Democrats weigh how to talk about January 6 on the 2022 campaign trail</a> CNN: The January 6 insurrection may be a year behind Rep. Jason Crow, but the Colorado Democrat -- and many of his colleagues -- insist it would be a grievous error for his party to downplay the attack. 
+ <p class="updated_time"> 06:54 PM CT, Jan. 01 </p> 
+ <a href="https://www.cnn.com/2022/01/01/politics/nyc-mayor-eric-adams-swear-in/index.html">Adams gives first speech as NYC mayor: 'We will not be controlled by crisis'</a> CNN: Eric Adams, New York City's new mayor, was sworn in to office just minutes after the crystal ball dropped at midnight in Times Square on January 1. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
@@ -370,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/01/politics/new-laws-in-2022/index.html">From minimum wage hikes to a ban on gas-powered leaf blowers, these new laws take effect in 2022</a> CNN: The year 2021 marked by an innumerable number of rules tied to the coronavirus pandemic. 
  <p class="updated_time"> 08:35 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/31/nyregion/meisha-porter-nyc-schools-covid.html">Meisha Porter Had 3 Goals as N.Y.C. Schools Chief: ‘Open. Open. Open.’</a> NYT: The departing New York City schools chancellor pulled off a big task in a short period of time: reopening the nation’s largest school district during a pandemic. 
- <p class="updated_time"> 07:01 AM CT, Jan. 01 </p> 
- <a href="https://www.cnn.com/2022/01/01/politics/joe-biden-2022-pandemic-russia-ukraine-congress-democrats/index.html">Biden's 2022 challenges revolve around Covid, Russia and dealing with Congress</a> CNN: President Joe Biden will return to the White House from an abbreviated winter break facing a set of hurdles that will test his political, diplomatic and management skills at a trying moment for his presidency. 
  <p class="updated_time"> 07:00 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/news/2022/01/01/progressives-2024-primary-challenge-526299">The left is already looking to 2024. Some want to see a Biden primary challenge.</a> Politico: “Will there be a progressive challenger? Yes,” said one prominent Democrat. 
  <p class="updated_time"> 07:00 AM CT, Jan. 01 </p> 
@@ -402,6 +400,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
+ <p class="updated_time"> 05:14 PM CT, Dec. 28 </p> 
+ <a href="https://www.cnn.com/2021/12/28/politics/andrew-cuomo-westchester-county-no-charges/index.html">Ex-New York Gov. Cuomo will not be criminally charged by Westchester County district attorney over alleged inappropriate conduct</a> CNN: Westchester District Attorney Miriam Rocah announced on Tuesday her office will not criminally charge former New York Gov. Andrew Cuomo after a "thorough" investigation into allegations of inappropriate conduct made by two women against him. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/28/bunny-mellons-millions-at-play-in-dc-divorce-495554"> Bunny Mellon’s millions at play in D.C. divorce</a> Politico Playbook: And the CDC Monday shortened the isolation period for people who test positive for Covid-19 and are asymptomatic 
 
