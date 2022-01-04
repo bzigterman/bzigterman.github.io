@@ -18,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:56 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59864059?at_medium=RSS&at_campaign=KARANGA">Apple becomes first firm to hit $3tn market value</a> BBC: The firm's value more than doubled during the pandemic as people bought more gadgets during lockdowns. 
  <p class="updated_time"> 08:58 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59808739?at_medium=RSS&at_campaign=KARANGA">Oo Antava: Why a song calling out men is under fire for sleaze</a> BBC: A new hit song which claims to subvert the male gaze is accused of, in fact, objectifying women. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59808739?at_medium=RSS&at_campaign=KARANGA">Pushpa: Why a song calling out men is under fire for sleaze</a> BBC: A new hit song which claims to subvert the male gaze is accused of, in fact, objectifying women. 
  <p class="updated_time"> 08:45 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/americas/haiti-prime-minister-assassination-attempt.html">Haiti Prime Minister Survives Assassination Attempt, His Office Says</a> NYT: Prime Minister Ariel Henry was the target of an unsuccessful attempt on his life over the weekend by gunmen in the northern city of Gonaïves, his office said Monday night. 
  <p class="updated_time"> 08:26 PM CT, Jan. 03 </p> 
