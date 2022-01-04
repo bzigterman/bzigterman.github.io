@@ -178,12 +178,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:03 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/us/politics/first-amendment-praetorian-trump-jan-6.html">Another Far-Right Group Is Scrutinized About Its Efforts to Aid Trump</a> NYT: The organization, called 1st Amendment Praetorian, is not as well known as the Oath Keepers or the Proud Boys, but it worked closely with pro-Trump forces in the months after the 2020 election. 
  <p class="updated_time"> 10:16 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/aviation-wireless-industries-pause-5g-526476">Aviation and wireless industries agree to pause 5G rollout — for 2 weeks</a> Politico: Once the agreement is finalized, AT&T and Verizon will resume 5G services on Jan. 19. 
  <p class="updated_time"> 09:41 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/bobby-rush-retire.html">Representative Bobby Rush, Longtime Illinois Democrat, Will Retire</a> NYT: The decision by the pastor and civil rights activist added to a wave of Democrats deciding not to run for re-election in a difficult midterm cycle. 
  <p class="updated_time"> 08:41 PM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/rep-bobby-rush-wont-seek-reelection-526455">Bobby Rush to relinquish 30-year hold on House seat</a> Politico: The veteran Illinois congressman and former Black Panther leader said, "I'm not retiring... I'm just entering into a new level of my life." 
+ <a href="https://www.politico.com/news/2022/01/03/rep-bobby-rush-wont-seek-reelection-526455">Bobby Rush to relinquish 30-year hold on House seat</a> Politico: The veteran Illinois congressman and former Black Panther leader said, “I’m not retiring … I’m just entering into a new level of my life.” 
  <p class="updated_time"> 08:15 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1070037412/covid-congress-house-senate-omicron">Congress' doctor urges lawmakers to work remotely and upgrade masks as omicron rages</a> NPR: The move follows an unprecedented spike in positivity rates in the Capitol, and mirrors record-high infection rates throughout Washington D.C., driven by the highly contagious omicron variant. 
  <p class="updated_time"> 08:01 PM CT, Jan. 03 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/03/1069983228/during-the-jan-6-riot-chaos-lawmakers-called-on-military-and-intelligence-traini">During the Jan. 6 riot chaos, lawmakers called on military and intelligence training</a> NPR: Representatives Abigail Spanberger, D-Va., and Jason Crow, D-Colo., reflect on the ways their military and intelligence training aided them during the Jan. 6 insurrection at the U.S. Capitol. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069983200/millions-sympathize-with-the-rioters-who-attacked-the-capitol-on-jan-6-survey-fi">Millions sympathize with the rioters who attacked the Capitol on Jan. 6, survey finds</a> NPR: As the U.S. nears the anniversary of a pro-Trump mob's attack at the Capitol, a survey finds widespread community support for violent insurrection that it calls a new political movement in the U.S. 
- <p class="updated_time"> 03:32 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/first-amendment-praetorian-trump-jan-6.html">Another Far-Right Group Is Scrutinized in Effort to Aid Trump</a> NYT: The organization, called 1st Amendment Praetorian, is not as well known as the Oath Keepers or the Proud Boys, but it worked closely with pro-Trump forces in the months after the 2020 election. 
  <p class="updated_time"> 02:36 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/ny-ag-subpoenas-trump-jr-ivanka-526404">New York attorney general issued subpoenas to Ivanka, Don. Jr.</a> Politico: Attorney General Letitia James has also sought testimony from the former president and Eric Trump. 
  <p class="updated_time"> 02:27 PM CT, Jan. 03 </p> 
