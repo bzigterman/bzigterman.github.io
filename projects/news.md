@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:22 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/nyregion/teacher-injects-student-covid-vaccine.html">Teacher Arrested After Injecting Minor With What Appeared to Be a Covid-19 Vaccine</a> NYT: She has since been removed from the classroom and is scheduled to appear in criminal court on Jan. 21. 
  <p class="updated_time"> 06:37 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/china-evergrande-protests.html">With Property Sales Plunging, China Evergrande Faces More Protests</a> NYT: The developer has tried for months to signal that its $300 billion debt problem was under control. But the challenges keep mounting. 
  <p class="updated_time"> 06:32 AM CT, Jan. 04 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59734254?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes: Theranos founder convicted of fraud</a> BBC: The Silicon Valley ex-CEO faces up to 80 years in prison for her failed blood testing technology. 
  <p class="updated_time"> 03:49 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59835674?at_medium=RSS&at_campaign=KARANGA">Bulli Bai: Indian man arrested for fake auction of Muslim women</a> BBC: The Indian app shared photos of several prominent Muslim women in a fake auction, sparking outrage. 
- <p class="updated_time"> 03:19 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/03/nyregion/teacher-injects-student-covid-vaccine.html">Teacher Arrested After Injecting Minor With What Appeared to Be a Covid-19 Vaccine</a> NYT: She has since been removed from the classroom and is scheduled to appear in criminal court on Jan. 21. 
  <p class="updated_time"> 02:52 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070110830/western-wall-prayer-sites-future-is-in-doubt-under-israels-fragile-government">Western Wall prayer site's future is in doubt under Israel's fragile government</a> NPR: Israel's refusal to recognize liberal Reform and Conservative streams of Judaism has long been a point of tension with American Jews. 
  <p class="updated_time"> 02:52 AM CT, Jan. 04 </p> 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:17 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/us/politics/capitol-riot-january-6.html">The Jan. 6 Committee’s Consideration of a Criminal Referral, Explained</a> NYT: The House panel does not have the authority to pursue criminal charges, but it can provide the Justice Department with evidence of any wrongdoing it unearths in its investigation. 
  <p class="updated_time"> 08:11 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/capitol-riot-panel.html">In the Capitol’s Shadow, the Jan. 6 Panel Quietly Ramps Up Its Inquiry</a> NYT: From a nondescript office building, a few dozen investigators and members of Congress are rushing to dissect what led to the worst attack on the Capitol in centuries. 
  <p class="updated_time"> 08:10 AM CT, Jan. 04 </p> 
@@ -238,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/03/politics/ivanka-donald-trump-jr-subpoena/index.html">Trumps move to quash subpoenas for their testimony in civil investigation</a> CNN: The New York attorney general's office has subpoenaed two of former President Donald Trump's children for testimony as part of its civil investigation into whether the Trump Organization manipulated the values of its properties. 
  <p class="updated_time"> 06:05 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/bill-gardner-retires.html">New Hampshire's Secretary of State, Bill Gardner, Is Retiring</a> NYT: The official, Bill Gardner, a Democrat, has served as secretary of state in New Hampshire for more than four decades. 
- <p class="updated_time"> 05:53 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/capitol-riot-january-6.html">The Jan. 6 Committee’s Consideration of a Criminal Referral, Explained</a> NYT: The House panel does not have the authority to pursue criminal charges, but it can provide the Justice Department with evidence of any wrongdoing it unearths in its investigation. 
  <p class="updated_time"> 05:43 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/gop-house-2022-midterms/index.html">Analysis: Republicans are in great shape to win the House majority</a> CNN: Republicans are in a very strong position to win back the House in November, according to new ratings released recently by the Cook Political Report, a nonpartisan political handicapping service based in Washington. 
  <p class="updated_time"> 05:43 PM CT, Jan. 03 </p> 
