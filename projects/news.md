@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:52 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges 40 Billion Dollars in Indigenous Child Welfare Battle</a> NYT: The government said it would pay a landmark $31.5 billion to repair the system, potentially ending a lawsuit brought 15 years ago. 
+ <p class="updated_time"> 03:51 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Charges a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
  <p class="updated_time"> 03:45 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59871945?at_medium=RSS&at_campaign=KARANGA">Paraguayan soldier killed by deer at presidential palace</a> BBC: The soldier was killed after approaching the deer inside the presidential gardens in the capital. 
  <p class="updated_time"> 03:39 PM CT, Jan. 04 </p> 
@@ -27,12 +31,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070297325/france-car-ads-climate">Car ads in France will soon have to encourage more environmentally friendly travel</a> NPR: The automakers' ads will suggest people consider carpooling or cycling instead of driving. The new rules, beginning in March, come as the country is trying to cut down on its carbon emissions. 
  <p class="updated_time"> 02:31 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59833123?at_medium=RSS&at_campaign=KARANGA">Canada reaches $31bn deal in indigenous child welfare case</a> BBC: The deal will end a lengthy legal battle over compensation between indigenous communities and Canada. 
- <p class="updated_time"> 02:19 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Charges a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
  <p class="updated_time"> 02:05 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59867536?at_medium=RSS&at_campaign=KARANGA">US reports 1m daily Covid cases with peak to come</a> BBC: Omicron drives a record-breaking daily tally of new US cases, though deaths remain stable. 
- <p class="updated_time"> 02:05 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges 40 Billion Dollars in Indigenous Child Welfare Battle</a> NYT: The government said it would pay a landmark 40 billion Canadian dollars to repair the system, potentially ending a lawsuit brought 15 years ago. 
  <p class="updated_time"> 01:23 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/ireland-alcohol-minimum-unit-price.html">Ireland Puts Minimum Price on Alcohol to Curb Binge Drinking</a> NYT: The new rule, part of broader legislation aimed at stemming alcohol-related illnesses, sets a minimum price of one euro per standard drink and came into effect on Tuesday. 
  <p class="updated_time"> 01:21 PM CT, Jan. 04 </p> 
@@ -53,10 +53,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59866553?at_medium=RSS&at_campaign=KARANGA">South Africa parliament fire suspect had explosives - prosecutor</a> BBC: A man who allegedly set fire to the Cape Town building was caught with explosives, prosecutors say. 
  <p class="updated_time"> 11:07 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59872232?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Sudan forces fire tear gas at protesters</a> BBC: Security forces use tear gas to disperse crowds as demonstrators block roads with burning tyres. 
+ <p class="updated_time"> 10:48 AM CT, Jan. 04 </p> 
+ <a href="https://www.wsj.com/articles/canada-reaches-15-billion-settlement-with-indigenous-peoples-11641326167">Canada Reaches $15 Billion Settlement With Indigenous Peoples</a> WSJ: The compensation is to be paid to indigenous children placed in a child-welfare system that a quasi-judicial body ruled violated human rights 
  <p class="updated_time"> 10:33 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070171056/novak-djokovic-gets-a-vaccination-exemption-to-play-in-the-australian-open">Novak Djokovic gets a vaccination exemption to play in the Australian Open</a> NPR: The tournament's defending champion posted a photo of himself smiling at an airport. But in Australia, some of the responses to his Twitter post were not happy ones. 
- <p class="updated_time"> 10:30 AM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/canada-reaches-15-billion-settlement-with-indigenous-peoples-11641326167">Canada Reaches $15 Billion Settlement With Indigenous Peoples</a> WSJ: The compensation is to be paid to indigenous children placed in a child-welfare system that a quasi-judicial body ruled violated human rights 
  <p class="updated_time"> 10:05 AM CT, Jan. 04 </p> 
  <a href="https://www.wsj.com/articles/venezuelas-u-s-backed-opposition-frays-as-nicolas-maduro-tightens-grip-11641330358">Venezuela's U.S.-Backed Opposition Frays as Maduro Tightens Grip</a> WSJ: Juan Guaidó’s coalition is hit by infighting amid disputes over how much power he should wield and alleged mismanagement of companies under opposition control. 
  <p class="updated_time"> 10:04 AM CT, Jan. 04 </p> 
@@ -180,6 +180,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:55 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/business/paxlovid-covid-pill.html">U.S. Doubles Paxlovid Covid Pill Order</a> NYT: The order for 10 million additional treatment courses will modestly increase very limited supplies in the next few weeks, with much larger deliveries later in the year. 
  <p class="updated_time"> 03:48 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/us-arrest-charges-suspect-haitian-president-slaying-526492">U.S. arrests, charges suspect in Haitian president slaying</a> Politico: The U.S. government announced Tuesday that it arrested one of the main suspects in the killing of Haitian president Jovenel Moïse. 
  <p class="updated_time"> 03:46 PM CT, Jan. 04 </p> 
@@ -190,12 +192,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070337975/democrats-revisit-voting-rights-legislation-around-jan-6-anniversary">Democrats revisit voting rights legislation around Jan. 6 anniversary</a> NPR: Democrats are making a fresh push on voting rights legislation around the anniversary of the Jan. 6 insurrection, while also trying to revive President Biden's Build Back Better agenda. 
  <p class="updated_time"> 03:39 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/tim-kaine-stranded-interstate-95-winter-storm/index.html">Virginia senator recounts being stuck on I-95 for more than 20 hours after winter storm</a> CNN: Sen. Tim Kaine on Tuesday recounted his hours-long journey on a Washington-area highway after a winter storm crippled the region and left hundreds, including the Virginia Democrat, stranded for hours on roads. 
+ <p class="updated_time"> 03:38 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/january-6-committee-sean-hannity/index.html">January 6 committee plans to ask Hannity from Fox News to talk about his interactions with Trump</a> CNN: The House committee investigating the January 6 Capitol Hill insurrection intends to ask Fox News anchor Sean Hannity to talk to the committee about his interactions with the White House and then-President Donald Trump regarding the 2020 election and the attack on the US Capitol, three sources tell CNN. 
  <p class="updated_time"> 03:37 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/technology/podcast-election-misinformation.html">Election Falsehoods Surged on Podcasts Before Capitol Riots, Researchers Find</a> NYT: A new study analyzed nearly 1,500 episodes, showing the extent to which podcasts pushed misinformation about voter fraud. 
  <p class="updated_time"> 03:36 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/police-officer-lawsuits-capitol-riot-trump-526491">Police officer lawsuits pile up against Trump over Jan. 6</a> Politico: Three more officers who responded to the Jan. 6 attack filed a lawsuit against the former president Tuesday, seeking damages for physical and emotional injuries. 
- <p class="updated_time"> 03:26 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/business/paxlovid-covid-pill.html">U.S. Doubles Paxlovid Covid Pill Order</a> NYT: The order for 10 million additional treatment courses will modestly increase very limited supplies in the next few weeks, with much larger deliveries later in the year. 
  <p class="updated_time"> 03:24 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070337968/why-is-the-big-lie-proving-so-hard-to-dispel">Why is the 'Big Lie' proving so hard to dispel?</a> NPR: One year after the insurrection at the U.S. Capitol, a new NPR/Ipsos poll shows many Americans still buy into the "Big Lie": the baseless claim that the 2020 election was stolen. 
  <p class="updated_time"> 03:03 PM CT, Jan. 04 </p> 
@@ -274,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/pentagon-extremism-ranks-jan-6-526441">‘Close the loopholes’: The Pentagon’s next front in its hunt for extremists</a> Politico: The military put stricter rules in place after Jan. 6. But will those efforts stick? 
  <p class="updated_time"> 04:30 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/amazon-google-thwart-antitrust-bills-526460">Amazon and Google deploy their armies to thwart antitrust bills</a> Politico: Small businesses that rely on the tech giants are signing petitions and joining Zoom calls with lawmakers to warn against legislation aimed at promoting competition. 
- <p class="updated_time"> 04:29 AM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/omicron-us-cases-winter-biden/index.html">Omicron might be less dangerous, but it's twisting the nation in knots</a> CNN: Every American is being drawn into a reckoning over how much risk is acceptable to get the nation back on its feet as the new Omicron variant of Covid-19 rages out of control. 
  <p class="updated_time"> 04:00 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/magazine/jan-6-capitol-police-officers.html">The Capitol Police and the Scars of the January 6th Riot</a> NYT: For many officers, their bodies, minds and lives will never be the same after the attack. 
  <p class="updated_time"> 12:52 AM CT, Jan. 04 </p> 
@@ -306,8 +306,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/business/economy/inflation-democrats-corporations.html">Democrats Blast Corporate Profits as Inflation Surges</a> NYT: Politicians are placing more blame on greedy companies as prices stay high. But booming consumer demand is enabling firms to charge more. 
  <p class="updated_time"> 04:13 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/technology/facebook-marjorie-taylor-greene.html">Facebook Suspends Marjorie Taylor Greene’s Account for 24 hours</a> NYT: Twitter permanently banned her account on Sunday after what the company said was her fifth “strike.” 
- <p class="updated_time"> 04:11 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/jan-6-capitol-riot-political-violence-what-matters/index.html">New polling shows rising acceptance of political violence 1 year after January 6 riot</a> CNN: A year after the January 6 Capitol Hill insurrection, Americans are increasingly likely to say political violence can be justified. 
+ <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
+ <a href="https://www.cnn.com/2022/01/03/politics/eric-adams-teachers-union-nyc/index.html">'We're staying open': Adams bucks teacher's union request days into new administration</a> CNN: Eric Adams has started his tenure as New York City mayor by rejecting a request from the city's largest teachers' union to temporarily move public schools to remote learning, capping off a frenetic first 72 hours of his administration. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069983228/during-the-jan-6-riot-chaos-lawmakers-called-on-military-and-intelligence-traini">During the Jan. 6 riot chaos, lawmakers called on military and intelligence training</a> NPR: Representatives Abigail Spanberger, D-Va., and Jason Crow, D-Colo., reflect on the ways their military and intelligence training aided them during the Jan. 6 insurrection at the U.S. Capitol. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
@@ -356,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 06:14 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/biden-january-6-speech/index.html">Biden and Harris to deliver remarks on January 6 anniversary</a> CNN: President Joe Biden and Vice President Kamala Harris will deliver remarks on Thursday to mark the one-year anniversary of the January 6 attack on the US Capitol, the White House said Sunday. 
- <p class="updated_time"> 01:41 PM CT, Jan. 02 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/january-6-poll-violence-against-government/index.html">34% of Americans say violence against government is sometimes justified, new poll finds</a> CNN: Thirty-four percent of Americans think violent action against the government is sometimes justified, according to a new poll from The Washington Post and the University of Maryland released days ahead of the one-year anniversary of the insurrection at the US Capitol. 
  <p class="updated_time"> 01:29 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
  <p class="updated_time"> 12:55 PM CT, Jan. 02 </p> 
@@ -378,8 +376,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
  <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/us/politics/stacey-abrams-georgia-democrats.html">Left and Center-Left Both Claim Stacey Abrams. Who’s Right?</a> NYT: Ms. Abrams, the Georgia Democrat running for governor, has admirers in both wings of her party — and Republicans eager to defeat her. Her carefully calibrated strategy faces a test in 2022. 
- <p class="updated_time"> 11:30 PM CT, Jan. 01 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/democrats-january-6-2022-campaigns/index.html">'It's not a silver bullet': Democrats weigh how to talk about January 6 on the 2022 campaign trail</a> CNN: The January 6 insurrection may be a year behind Rep. Jason Crow, but the Colorado Democrat -- and many of his colleagues -- insist it would be a grievous error for his party to downplay the attack. 
+ <p class="updated_time"> 06:54 PM CT, Jan. 01 </p> 
+ <a href="https://www.cnn.com/2022/01/01/politics/nyc-mayor-eric-adams-swear-in/index.html">Adams gives first speech as NYC mayor: 'We will not be controlled by crisis'</a> CNN: Eric Adams, New York City's new mayor, was sworn in to office just minutes after the crystal ball dropped at midnight in Times Square on January 1. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
  <p class="updated_time"> 09:43 AM CT, Jan. 01 </p> 
