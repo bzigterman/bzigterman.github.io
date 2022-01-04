@@ -182,14 +182,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:00 AM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/jan-6-insurrection-sentencing-tracker-526091">Hundreds of crimes, little punishment: Inside the sentences since the Capitol attack</a> Politico: More than 150 people have pleaded guilty for crimes committed on Jan. 6, 2021. POLITICO is analyzing and tracking every sentence handed down. 
+ <p class="updated_time"> 04:31 AM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/biden-schools-omicron-526474">Biden wants schools to remain open. The Omicron surge could foil his plans</a> Politico: For now, political leaders across the ideological spectrum are pressuring schools to keep their doors open. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/doj-domestic-terrorism-sentences-jan-6-526407">Why DOJ is avoiding domestic terrorism sentences for Jan. 6 defendants</a> Politico: Some judges have debated whether the charges qualify as “crimes of terrorism,” but prosecutors have repeatedly pulled back by citing unspecified “facts and circumstances.” 
+ <p class="updated_time"> 04:30 AM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/pentagon-extremism-ranks-jan-6-526441">‘Close the loopholes’: The Pentagon’s next front in its hunt for extremists</a> Politico: The military put stricter rules in place after Jan. 6. But will those efforts stick? 
+ <p class="updated_time"> 04:30 AM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/amazon-google-thwart-antitrust-bills-526460">Amazon and Google deploy their armies to thwart antitrust bills</a> Politico: Small businesses that rely on the tech giants are signing petitions and joining Zoom calls with lawmakers to warn against legislation aimed at promoting competition. 
  <p class="updated_time"> 04:00 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/magazine/jan-6-capitol-riot-police-officers.html">The Capitol Police and the Scars of January. 6</a> NYT: For many officers, their bodies, minds and lives will never be the same after the attack. 
  <p class="updated_time"> 12:52 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070102820/teachers-are-on-the-front-lines-in-jan-6-culture-war">Teachers are on the front lines in Jan. 6 culture war</a> NPR: Teachers now are left to decide how — or whether — to instruct their students about the events that sit at the heart of the country's division. 
  <p class="updated_time"> 11:03 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/first-amendment-praetorian-trump-jan-6.html">Another Far-Right Group Is Scrutinized About Its Efforts to Aid Trump</a> NYT: The organization, called 1st Amendment Praetorian, is not as well known as the Oath Keepers or the Proud Boys, but it worked closely with pro-Trump forces in the months after the 2020 election. 
- <p class="updated_time"> 10:16 PM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/aviation-wireless-industries-pause-5g-526476">Aviation and wireless industries agree to pause 5G rollout — for 2 weeks</a> Politico: Once the agreement is finalized, AT&T and Verizon will resume 5G services on Jan. 19. 
  <p class="updated_time"> 09:41 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/bobby-rush-retire.html">Representative Bobby Rush, Longtime Illinois Democrat, Will Retire</a> NYT: The decision by the pastor and civil rights activist added to a wave of Democrats deciding not to run for re-election in a difficult midterm cycle. 
  <p class="updated_time"> 08:41 PM CT, Jan. 03 </p> 
@@ -258,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/03/politics/schumer-filibuster-rules-manchin-sinema/index.html">Schumer announces vote to change filibuster rules but faces resistance from Manchin and Sinema</a> CNN: Senate Majority Leader Chuck Schumer announced Monday that the chamber will take a vote on whether to change the Senate's legislative filibuster rules by Martin Luther King Jr. Day on January 17. 
  <p class="updated_time"> 10:48 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/schumer-threatens-vote-on-senate-rules-change-in-january-526394">Schumer tries to jump-start Dems with rules change threat</a> Politico: The majority leader said they would debate changes to the Senate's rules unless Republicans allow a vote on elections reform. 
- <p class="updated_time"> 10:15 AM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/fda-authorizes-covid-boosters-for-younger-teens-526392">FDA authorizes Covid boosters for teens 12-15</a> Politico: The agency will also allow some immunocompromised children as young as age 5 to get an additional dose. 
  <p class="updated_time"> 09:42 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/trump-endorses-viktor-orban-hungary-526383">Trump endorses Hungary’s Orbán for reelection</a> Politico: It’s not the first time the former president has backed a populist foreign leader with authoritarian tendencies. 
  <p class="updated_time"> 08:32 AM CT, Jan. 03 </p> 
@@ -276,12 +282,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/03/politics/2022-issues-to-watch-what-matters/index.html">Analysis: 2022 brings a daunting set of hurdles for America. Here are the top three</a> CNN: The year ahead brings a daunting set of hurdles for the country with everything from the coronavirus pandemic to pervasive misinformation  challenging our institutions. 
  <p class="updated_time"> 05:02 AM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/biden-zelensky-call/index.html">Biden tells Ukrainian President US 'will respond decisively if Russia further invades'</a> CNN: President Joe Biden told Ukrainian President Volodymyr Zelensky on Sunday that the US and its allies "will respond decisively if Russia further invades Ukraine," according to a readout of a call between the two leaders provided by the White House. 
- <p class="updated_time"> 04:31 AM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/larry-hogan-tour-republicans-trump-526370">Larry Hogan goes on tour to boost Republicans on Trump’s enemies list</a> Politico: The Maryland governor is looking to help GOP impeachment backers and others who have drawn Trump-supported challengers. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/january-6-capitol-riot-house-democrats-525975">‘It’s only gotten worse’: The long shadow of the night that broke the House</a> Politico: For most Democrats, the biggest affront wasn’t even the violence by Donald Trump’s supporters. It was the votes more than 140 of their GOP colleagues took afterward. 
- <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/trumpworld-jan-6-526291">They resigned in protest over Jan. 6 — then never went after Trump again</a> Politico: The administration officials who defected from the administration over the riots have almost all receded from public view even as Trump’s stayed put. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/could-january-6th-happen-again-526167">Could Jan. 6 happen again?</a> Politico: The Capitol Police has made progress under a new chief. But many on the Hill don't have an easy answer. 
  <p class="updated_time"> 04:09 AM CT, Jan. 03 </p> 
@@ -392,6 +394,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
  <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
+ <p class="updated_time"> 06:53 PM CT, Dec. 28 </p> 
+ <a href="https://www.politico.com/news/2021/12/28/michigan-redistricting-congressional-map-526227">Michigan’s new congressional map: 3 battlegrounds, 1 Dem-vs.-Dem primary</a> Politico: Virginia also completed congressional redistricting on Tuesday. 
  <p class="updated_time"> 09:41 AM CT, Dec. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/28/bunny-mellons-millions-at-play-in-dc-divorce-495554"> Bunny Mellon’s millions at play in D.C. divorce</a> Politico Playbook: And the CDC Monday shortened the isolation period for people who test positive for Covid-19 and are asymptomatic 
 
