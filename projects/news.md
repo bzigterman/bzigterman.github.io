@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:03 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59864810?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Activist gets 15-month jail term for Tiananmen vigil</a> BBC: Chow Hang Tung is jailed for 15 months for encouraging people to commemorate the Tiananmen protests. 
+ <p class="updated_time"> 02:00 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/europe/molenbeek-brussels-terrorist-attack-paris.html">Changing Brussels Neighborhood Tries to Leave Stigma of Terrorism Behind</a> NYT: Molenbeek was where a terrorist cell planned attacks that killed 162 in Paris and Brussels. Six years later, residents are trying to reinvent the area as a trial rekindles an awful association. 
+ <p class="updated_time"> 02:00 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/business/britain-electricity-norway-cables.html">A Widening Web of Undersea Cables Connects Britain to Green Energy</a> NYT: Linking one nation’s power grid with another’s is considered essential as more electricity is generated from solar and wind. 
  <p class="updated_time"> 01:45 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59864266?at_medium=RSS&at_campaign=KARANGA">China: Xi'an residents in lockdown trade for food amid shortage</a> BBC: Faced with low supplies under lockdown, some have resorted to bartering phones and gadgets for food. 
- <p class="updated_time"> 11:51 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59864810?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Activist gets 15 month jail term for Tiananmen vigil</a> BBC: Chow Hang Tung was found guilty of inciting others last year to commemorate the crackdown. 
  <p class="updated_time"> 11:29 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59734254?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes: Theranos founder convicted of fraud</a> BBC: A jury found the Silicon Valley ex-CEO guilty on four of 11 counts after seven days of deliberations. 
  <p class="updated_time"> 10:00 PM CT, Jan. 03 </p> 
@@ -159,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/world/asia/north-korea-kim-jong-un.html">Kim Jong-un’s New Year Resolution: More Food for North Korea</a> NYT: At a party meeting, Mr. Kim made little mention of the United States or South Korea. Instead, he promised to “completely solve the food problem.” 
  <p class="updated_time"> 09:59 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/omicron-hospitalization-uk-report.html">U.K. Report Finds People With Omicron Are Less Likely to Need Hospitalization</a> NYT: The findings represent some of the largest sets of real-world data to be released since the highly contagious variant was first discovered. 
- <p class="updated_time"> 06:34 PM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/31/world/canada/montreal-bar-mitzvah-photographer.html">Once a Janitor, Now the Bar Mitzvah Photography King of Montreal</a> NYT: With a touch of chutzpah and “a little help from God,” Braulio Rocha, a Roman Catholic Portuguese immigrant, traded in his mop for a camera. 
  <p class="updated_time"> 03:18 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/biden-putin-russia-ukraine-lavrov.html">Sergey V. Lavrov Accused NATO of Stoking Ukraine Conflict </a> NYT: Sergey V. Lavrov accused the United States and its allies of stoking a conflict in the country’s east in comments that contrasted with a more positive tone coming from Moscow. 
  <p class="updated_time"> 02:10 PM CT, Dec. 31 </p> 
@@ -169,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/31/world/americas/quebec-new-years-eve-curfew.html">Quebec Government Faces Backlash Over New Year’s Eve Curfew</a> NYT: Residents who leave their homes past 10 p.m. could face fines of up to $4,750. 
  <p class="updated_time"> 12:31 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/world/europe/germany-new-year-speech-olaf-scholz-covid.html">In New Year's Speech, Olaf Scholz, Germany's New Leader, Focuses on Covid</a> NYT: Olaf Scholz, who replaced Angela Merkel as chancellor about three weeks ago, gave the traditional New Year’s Eve address for the first time and called for unity and vaccinations. 
- <p class="updated_time"> 10:45 AM CT, Dec. 31 </p> 
- <a href="https://www.nytimes.com/2021/12/31/world/africa/uganda-congo-rebels-adf.html">Why Did Uganda Send Troops Into Congo?</a> NYT: The Ugandan government says it is targeting rebels it accuses of terrorist attacks in Kampala. Many Congolese fear the incursion is cover for yet another plundering of their country. 
 
 
 </details>
