@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:19 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Charges a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
  <p class="updated_time"> 02:05 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59867536?at_medium=RSS&at_campaign=KARANGA">US reports 1m daily Covid cases with peak to come</a> BBC: Omicron drives a record-breaking daily tally of new US cases, though deaths remain stable. 
- <p class="updated_time"> 02:05 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Charges a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
  <p class="updated_time"> 02:05 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges 40 Billion Dollars in Indigenous Child Welfare Battle</a> NYT: The government said it would pay a landmark 40 billion Canadian dollars to repair the system, potentially ending a lawsuit brought 15 years ago. 
  <p class="updated_time"> 01:23 PM CT, Jan. 04 </p> 
@@ -47,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59871943?at_medium=RSS&at_campaign=KARANGA">Thailand: Tropical bay from 'The Beach' reopens</a> BBC: Maya Bay, a huge tourist draw, was closed in 2018 amid concerns over environmental damage. 
  <p class="updated_time"> 09:29 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59871325?at_medium=RSS&at_campaign=KARANGA">Yuzhou: Second Chinese city forced into Covid lockdown</a> BBC: Yuzhou, with its population of 1.1 million, is shut down after just three cases are found. 
+ <p class="updated_time"> 09:27 AM CT, Jan. 04 </p> 
+ <a href="https://www.wsj.com/articles/europe-struggles-to-meet-chinas-trade-challenge-11641308138">Europe Struggles to Meet China's Trade Challenge</a> WSJ: In recent weeks, China has effectively blocked Lithuanian firms from its market and started pressing European and U.S. firms with Lithuanian suppliers to cut those ties or risk being frozen out. 
  <p class="updated_time"> 09:15 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59868721?at_medium=RSS&at_campaign=KARANGA">Two arrested in Egypt after teenage girl's suicide</a> BBC: Basant Khaled, 17, took her own life in Egypt after allegedly being blackmailed with faked images. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/asia/philippines-manila-covid-lockdown.html">Philippines Expands Lockdown for Unvaccinated Around Manila</a> NYT: The new rules bar unvaccinated residents from leaving their homes except for a list of essential reasons. 
  <p class="updated_time"> 04:11 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59734254?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes: Theranos founder convicted of fraud</a> BBC: The Silicon Valley ex-CEO faces a lengthy term in prison for defrauding investors. 
- <p class="updated_time"> 03:55 AM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/europe-struggles-to-meet-chinas-trade-challenge-11641308138">Europe Struggles to Meet China's Trade Challenge</a> WSJ: In recent weeks, China has effectively blocked Lithuanian firms from its market and started pressing European and U.S. firms with Lithuanian suppliers to cut those ties or risk being frozen out. 
  <p class="updated_time"> 02:52 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070110830/western-wall-prayer-sites-future-is-in-doubt-under-israels-fragile-government">Western Wall prayer site's future is in doubt under Israel's fragile government</a> NPR: Israel's refusal to recognize liberal Reform and Conservative streams of Judaism has long been a point of tension with American Jews. 
  <p class="updated_time"> 02:00 AM CT, Jan. 04 </p> 
@@ -175,10 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/world/europe/pontifical-oriental-institute-digital-texts.html">A Vatican Library Shortens the Distance Between Its Works and Its Scholars</a> NYT: Rare books in Rome are going online thanks to a German copier, a Long Island scanning firm and a New York software company. 
  <p class="updated_time"> 06:54 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/asia/hindu-shrine-stampede-kashmir.html">At Least 12 Die in Stampede at a Hindu Shrine in Kashmir</a> NYT: Thousands of devotees were visiting the Mata Vaishno Devi shrine to mark the beginning of the year. 
- <p class="updated_time"> 05:00 AM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/01/world/canada/memorable-canada-stories-2021.html">Memorable Canada Stories in 2021</a> NYT: From the discovery of Indigenous graves in British Columbia to a faux Florida retirement community in Quebec, two Times Canada correspondents recall some of the standout stories of the year. 
- <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/01/world/europe/turkey-kurdish-art-exhibit.html">In Turkey, an Exhibit Meant to Highlight Kurdish Suffering Provoked a Furor</a> NYT: A recent art show in a major Kurdish city in Turkey aimed to uplift a region crushed by years of conflict. It ended up serving as a reminder of how toxic the subject of Kurds remains in Turkey. 
 
 
 </details>
@@ -188,10 +184,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:36 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/dnc-staff-unionize-overwhelming-margin-526490">DNC staff votes by ‘overwhelming margin’ to unionize</a> Politico: The Democratic National Committee staff will join SEIU Local 500. 
+ <p class="updated_time"> 02:28 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden announces US will double its order of Pfizer's antiviral pill to treat Covid-19</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
+ <p class="updated_time"> 02:19 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/business/paxlovid-covid-pill.html">U.S. Doubles Paxlovid Covid Pill Order</a> NYT: The order for 10 million additional treatment courses will modestly increase very limited supplies in the next few weeks, with much larger deliveries later in the year. 
+ <p class="updated_time"> 02:12 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/andrew-cuomo-albany-da/index.html">Albany DA declines to prosecute former Gov. Andrew Cuomo on forcible touching charge </a> CNN: The Albany district attorney will not prosecute former New York Gov. Andrew Cuomo on a misdemeanor sex crime charge of forcible touching after reviewing the evidence in the case despite finding the complainant "cooperative" and "credible." 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">GOP shudders at Trump Jan. 6 speech</a> Politico: Republican Sen. Pat Toomey said the event isn’t a “terribly good idea,” but added, “What am I going to do about it?” 
- <p class="updated_time"> 01:46 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden announces US will double its order of Pfizer's antiviral pill to treat Covid-19</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
  <p class="updated_time"> 01:07 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/hackers-florida-health-care/index.html">Hackers breached Florida health care system, potentially exposing data on 1.3 million people</a> CNN: Hackers breached the computer networks of a southeast Florida health care system in October and may have accessed sensitive personal and financial information on over 1.3 million people, the health care system announced this week. 
  <p class="updated_time"> 01:02 PM CT, Jan. 04 </p> 
@@ -210,8 +210,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/04/politics/mitch-landrieu-letter-to-governors-infrastructure/index.html">Biden's infrastructure czar urges governors to appoint their own infrastructure implementation coordinators</a> CNN: President Joe Biden's infrastructure czar Mitch Landrieu sent letters to all the nation's governors on Tuesday urging them to appoint their own infrastructure implementation coordinators to smooth the rollout of the $1.2 trillion law. 
  <p class="updated_time"> 11:57 AM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/cdc-isolation-guidance-upcoming/index.html">Update to CDC's Covid-19 isolation guidance is imminent, source says</a> CNN: The US Centers for Disease Control and Prevention is expected to update its guidance on the recommended isolation period imminently, according to a source familiar with the plan. 
- <p class="updated_time"> 11:52 AM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/andrew-cuomo-albany-da/index.html">Albany DA declines to prosecute former Gov. Andrew Cuomo on forcible touching charge </a> CNN: The Albany district attorney will not prosecute former New York Gov. Andrew Cuomo on a misdemeanor sex crime charge of forcible touching after reviewing the evidence in the case despite finding the complainant "cooperative" and "credible." 
  <p class="updated_time"> 11:49 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/tesla-dealership-xinjiang-china.html">Tesla Draws Criticism After Opening Dealership in Xinjiang </a> NYT: Senator Marco Rubio criticized the electric carmaker for opening the outlet in a region where China has been accused of targeting Muslims. 
  <p class="updated_time"> 11:48 AM CT, Jan. 04 </p> 
@@ -308,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/03/1069970063/new-hampshires-longtime-guardian-of-its-early-presidential-primary-is-stepping-d">New Hampshire's longtime guardian of its early presidential primary is stepping down</a> NPR: Secretary of State William Gardner, who earned a national reputation as gatekeeper of New Hampshire's first-in-the-nation presidential primary, has held the office since 1976. 
  <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/marjorie-taylor-greene-facebook-suspension-526398">MTG hit with Facebook suspension after Twitter ban</a> Politico: “Facebook has joined Twitter in censoring me,” Greene (R-Ga.) wrote on Gettr, a social media platform favored by some right-wing conservatives. 
- <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/31/us/pentagon-airstrikes-syria-iraq.html">Documents Reveal Flaws in Pentagon Dismissals of Civilian Casualty Claims in Iraq and Syria</a> NYT: A Times investigation found inconsistent approaches to assessing claims of civilians killed by coalition forces — including failures to conduct simple internet searches. 
  <p class="updated_time"> 12:51 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/trump-endorses-viktor-orban-hungary.html">Trump Endorses Viktor Orban, Hungary’s Far-Right Prime Minister</a> NYT: Democracy in Hungary has been backsliding under Mr. Orban, whose efforts to consolidate power have caused consternation in the European Union. 
  <p class="updated_time"> 12:18 PM CT, Jan. 03 </p> 
