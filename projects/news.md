@@ -10,7 +10,9 @@ permalink: /projects/news/
  <p class="updated_time"> 11:29 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59734254?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes: Theranos founder convicted of fraud</a> BBC: A jury found the Silicon Valley ex-CEO guilty on four of 11 counts after seven days of deliberations. 
  <p class="updated_time"> 10:25 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59864266?at_medium=RSS&at_campaign=KARANGA">China: Xi'an residents in lockdown barter for food amid shortage</a> BBC: Faced with low supplies under lockdown, some have resorted to trading phones and gadgets for food. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59864266?at_medium=RSS&at_campaign=KARANGA">China: Xi'an residents in lockdown trade for food amid shortage</a> BBC: Faced with low supplies under lockdown, some have resorted to bartering phones and gadgets for food. 
+ <p class="updated_time"> 10:00 PM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59856063?at_medium=RSS&at_campaign=KARANGA">Top US phone firms agree delay of 5G rollout</a> BBC: The two-week delay requested by transportation and aviation authorities was initially rejected. 
  <p class="updated_time"> 09:56 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59864059?at_medium=RSS&at_campaign=KARANGA">Apple becomes first firm to hit $3tn market value</a> BBC: The firm's value more than doubled during the pandemic as people bought more gadgets during lockdowns. 
  <p class="updated_time"> 08:58 PM CT, Jan. 03 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/world/africa/abdalla-hamdok-resigns-sudan.html">Sudan’s Prime Minister, Abdalla Hamdok, Resigns</a> NYT: Mr. Hamdok was restored to power a month ago after being deposed in a coup, but he was never able to gain control of the fractious country. 
  <p class="updated_time"> 10:21 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069888035/famed-fossil-hunter-and-conservationist-richard-leakey-dies-at-77">Famed fossil hunter and conservationist Richard Leakey dies at 77</a> NPR: Leakey made important contributions to our understanding of human origins through his fossil finds. He later gained fame for taking on poachers who threatened to wipe out Kenya's elephants and rhinos. 
- <p class="updated_time"> 10:13 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59860058?at_medium=RSS&at_campaign=KARANGA">Covid-19: French MPs get death threats over support for vaccine pass</a> BBC: They report the threats as they consider tougher restrictions on unvaccinated people in France. 
  <p class="updated_time"> 09:39 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/01/03/1059018377/photos-poland-belarus-border-migrants-volunteers">This photographer captured how activists helped migrants at the Poland-Belarus border</a> NPR: Polish-based photographer Kasia Strek documented what it was like for migrants and people in Poland as the crisis evolved at the border in November. 
  <p class="updated_time"> 09:13 AM CT, Jan. 03 </p> 
