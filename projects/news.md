@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:45 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/americas/haiti-prime-minister-assassination-attempt.html">Haiti Prime Minister Survives Assassination Attempt, His Office Says</a> NYT: Prime Minister Ariel Henry was the target of an unsuccessful attempt on his life over the weekend by gunmen in the northern city of Gonaïves, his office said Monday night. 
+ <p class="updated_time"> 08:26 PM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59863859?at_medium=RSS&at_campaign=KARANGA">Elon Musk: Tesla criticised after opening Xinjiang showroom</a> BBC: The world's most valuable car maker opened the new showroom in the city of Urumqi on New Year's Eve. 
  <p class="updated_time"> 08:19 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/americas/brazil-bolsonaro-hospitalized.html">Brazil's President, Jair Bolsonaro, Is Hospitalized</a> NYT: Mr. Bolsonaro, who was stabbed while on the campaign trail in 2018, experienced stomach discomfort during his vacation and was flown back to São Paulo. 
  <p class="updated_time"> 07:19 PM CT, Jan. 03 </p> 
@@ -71,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59833131?at_medium=RSS&at_campaign=KARANGA">Richard Leakey - fossil expert, conservationist and politician</a> BBC: The achievements of Richard Leakey, who has died aged 77, were as remarkable as they were diverse. 
  <p class="updated_time"> 09:05 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/asia/india-auction-muslim-women.html">Online ‘Auction’ Is Latest Attack on Muslim Women in India</a> NYT: The fake site, the second in months, is a sign of the organized nature of virtual bullying, with threats of sexualized violence aimed at silencing the outspoken. 
- <p class="updated_time"> 08:42 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/business-59857420?at_medium=RSS&at_campaign=KARANGA">Turkey's inflation hits 36% amid financial turmoil</a> BBC: The cost of living hits a 19-year high as the country refuses to raise its interest rates. 
  <p class="updated_time"> 07:43 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/middleeast/tunisia-economy-kais-saied.html">Pressure Mounts on Tunisia’s President to Salvage the Economy</a> NYT: When President Kais Saied seized power in July, he vowed to rescue the failing economy. Tunisians are still waiting for him to fulfill that pledge. 
  <p class="updated_time"> 07:31 AM CT, Jan. 03 </p> 
@@ -190,6 +192,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/rep-bobby-rush-wont-seek-reelection-526455">Bobby Rush to relinquish 30-year hold on House seat</a> Politico: The veteran Illinois congressman and former Black Panther leader said, "I'm not retiring... I'm just entering into a new level of my life." 
  <p class="updated_time"> 08:15 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1070037412/covid-congress-house-senate-omicron">Congress' doctor urges lawmakers to work remotely and upgrade masks as omicron rages</a> NPR: The move follows an unprecedented spike in positivity rates in the Capitol, and mirrors record-high infection rates throughout Washington D.C., driven by the highly contagious omicron variant. 
+ <p class="updated_time"> 08:01 PM CT, Jan. 03 </p> 
+ <a href="https://www.cnn.com/2022/01/03/politics/biden-omicron-covid-remarks/index.html">Biden will make 'brief remarks' Tuesday on rapid spread of the Omicron variant</a> CNN: President Joe Biden on Tuesday will make brief remarks addressing the rapid spread of the Omicron variant of the coronavirus in the US and the steps his administration is taking to address it, according to the White House. 
  <p class="updated_time"> 06:47 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/navy-covid-vaccine-policy-religious-objection/index.html">Judge blocks Navy vaccine policy for legal challengers citing religious objections</a> CNN: A federal judge in Texas on Monday ruled against the Biden administration's vaccine requirement for members of the military in a decision that took aim at how the Navy's policies handled those who sought religious exemptions from receiving the Covid-19 vaccine. 
  <p class="updated_time"> 06:42 PM CT, Jan. 03 </p> 
