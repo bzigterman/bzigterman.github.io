@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:05 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59867536?at_medium=RSS&at_campaign=KARANGA">US reports 1m daily Covid cases with peak to come</a> BBC: Omicron drives a record-breaking daily tally of new US cases, though deaths remain stable. 
+ <p class="updated_time"> 02:05 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Charges a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
+ <p class="updated_time"> 02:05 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges 40 Billion Dollars in Indigenous Child Welfare Battle</a> NYT: The government said it would pay a landmark 40 billion Canadian dollars to repair the system, potentially ending a lawsuit brought 15 years ago. 
  <p class="updated_time"> 01:23 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/ireland-alcohol-minimum-unit-price.html">Ireland Puts Minimum Price on Alcohol to Curb Binge Drinking</a> NYT: The new rule, part of broader legislation aimed at stemming alcohol-related illnesses, sets a minimum price of one euro per standard drink and came into effect on Tuesday. 
  <p class="updated_time"> 01:21 PM CT, Jan. 04 </p> 
@@ -19,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 12:43 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59869509?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Behind the bubble in Beijing</a> BBC: Have a look at how Beijing is preparing for the Games - with a sealed off area to keep Covid out. 
- <p class="updated_time"> 12:35 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Seizes a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
  <p class="updated_time"> 12:19 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59833122?at_medium=RSS&at_campaign=KARANGA">Prosecutor drops Andrew Cuomo groping charge</a> BBC: Accuser is 'credible', district attorney says, but there is not enough evidence to move forward. 
  <p class="updated_time"> 12:07 PM CT, Jan. 04 </p> 
@@ -37,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/africa/cape-town-parliament-fire-suspect-charged.html">Suspect Charged With Arson in Fire at South Africa’s Parliament</a> NYT: The 49-year-old was also accused of possessing explosives, stealing laptops and breaking security laws. Former neighbors were shocked. His lawyer said the government was rushing to find a scapegoat. 
  <p class="updated_time"> 10:33 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070171056/novak-djokovic-gets-a-vaccination-exemption-to-play-in-the-australian-open">Novak Djokovic gets a vaccination exemption to play in the Australian Open</a> NPR: The tournament's defending champion posted a photo of himself smiling at an airport. But in Australia, some of the responses to his Twitter post were not happy ones. 
- <p class="updated_time"> 10:27 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59867536?at_medium=RSS&at_campaign=KARANGA">US reports 1m daily Covid cases with peak to come</a> BBC: Omicron drives a record-breaking daily tally of new US cases, though deaths remain stable. 
  <p class="updated_time"> 10:04 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
  <p class="updated_time"> 09:33 AM CT, Jan. 04 </p> 
@@ -49,6 +51,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59868721?at_medium=RSS&at_campaign=KARANGA">Two arrested in Egypt after teenage girl's suicide</a> BBC: Basant Khaled, 17, took her own life in Egypt after allegedly being blackmailed with faked images. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59871267?at_medium=RSS&at_campaign=KARANGA">US snow: Major snowfall blankets Washington DC</a> BBC: Snow causes fun and frustration in Washington DC. 
+ <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
+ <a href="https://www.wsj.com/articles/olympic-committee-becomes-latest-target-in-standoff-over-treatment-of-uyghurs-11641324698">Olympic Committee Becomes Latest Target of Critics of Treatment of Uyghurs</a> WSJ: An activist group says the IOC has refused to engage with it on human-rights issues in China’s Xinjiang region, including the use of forced labor to make apparel. 
+ <p class="updated_time"> 07:47 AM CT, Jan. 04 </p> 
+ <a href="https://www.wsj.com/articles/fourth-pfizer-dose-spurs-sharp-jump-in-antibodies-early-results-from-israel-show-11641322072">Fourth Pfizer Dose Spurs Sharp Jump in Antibodies, Early Results From Israel Show</a> WSJ: People who got the fourth shot had a fivefold increase in antibodies one week later, according to data from Israel’s Sheba Medical Center, which provided the dose to 154 medical workers of various ages. 
  <p class="updated_time"> 07:01 AM CT, Jan. 04 </p> 
  <a href="https://www.wsj.com/articles/u-s-prevails-over-canada-in-dairy-dispute-11641318427">U.S. Prevails Over Canada in Dairy Dispute</a> WSJ: Canada has until Feb. 3 to change policies aimed at shielding its dairy industry from American competition, or the U.S. can proceed with tariffs, after a ruling published Tuesday. 
  <p class="updated_time"> 06:53 AM CT, Jan. 04 </p> 
@@ -129,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/asia/india-auction-muslim-women.html">Online ‘Auction’ Is Latest Attack on Muslim Women in India</a> NYT: The fake site, the second in months, is a sign of the organized nature of virtual bullying, with threats of sexualized violence aimed at silencing the outspoken. 
  <p class="updated_time"> 07:43 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/middleeast/tunisia-economy-kais-saied.html">Pressure Mounts on Tunisia’s President to Salvage the Economy</a> NYT: When President Kais Saied seized power in July, he vowed to rescue the failing economy. Tunisians are still waiting for him to fulfill that pledge. 
- <p class="updated_time"> 07:27 AM CT, Jan. 03 </p> 
- <a href="https://www.wsj.com/articles/attacks-on-u-s-allies-raise-tensions-on-anniversary-of-killing-of-irans-soleimani-11641231599">Attacks on U.S. Allies Raise Tensions on Anniversary of Killing of Iran's Soleimani</a> WSJ: Explosive-laden drones targeted Baghdad’s airport and Yemen’s Houthi rebels seized an Emirati-flagged ship on the second anniversary of Maj. Gen. Qassem Soleimani’s death. 
  <p class="updated_time"> 06:54 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/business/china-evergrande-shares-hong-kong.html">China Evergrande Suspends Trading Shares in Hong Kong</a> NYT: The world’s most indebted property developer provided no details on the suspension, but it suggested an announcement “containing inside information” would come soon. 
  <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
@@ -145,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/travel/nepal-maha-shivaratri.html">Celebrating the ‘Great Night of Shiva’ in Kathmandu</a> NYT: Every year, thousands of celebrants gather at a temple complex in Nepal’s capital in honor of Shiva, one of Hinduism’s most revered gods. 
  <p class="updated_time"> 03:33 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069839447/seoul-north-korea-defector-likely-made-rare-border-crossing-back">Seoul: North Korea defector likely made rare border crossing back</a> NPR: A person who crossed the border from South Korea into North Korea on New Year's Day was likely a defector who had made the trip in the other direction in late 2020, the military said Monday. 
- <p class="updated_time"> 01:07 AM CT, Jan. 03 </p> 
- <a href="https://www.wsj.com/articles/turkeys-inflation-rate-nears-20-year-high-as-lira-crisis-continues-11641211659">Turkey's Inflation Rate Nears 20-Year High</a> WSJ: The country’s annual inflation rose to 36.08% in December, raising fresh concerns that it could overwhelm a government rescue plan to stabilize the battered local currency. 
  <p class="updated_time"> 11:05 PM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/03/1069824056/another-hong-kong-news-outlet-to-close-amid-crackdown-on-dissent">Another Hong Kong news site shuts as pro-Beijing lawmakers sworn in</a> NPR: A Hong Kong online news site said Sunday that it will cease operations in light of deteriorating press freedoms, days after police raided a separate pro-democracy news outlet, arresting seven. 
  <p class="updated_time"> 10:04 PM CT, Jan. 02 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/01/world/canada/memorable-canada-stories-2021.html">Memorable Canada Stories in 2021</a> NYT: From the discovery of Indigenous graves in British Columbia to a faux Florida retirement community in Quebec, two Times Canada correspondents recall some of the standout stories of the year. 
  <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
  <a href="https://www.nytimes.com/2022/01/01/world/europe/turkey-kurdish-art-exhibit.html">In Turkey, an Exhibit Meant to Highlight Kurdish Suffering Provoked a Furor</a> NYT: A recent art show in a major Kurdish city in Turkey aimed to uplift a region crushed by years of conflict. It ended up serving as a reminder of how toxic the subject of Kurds remains in Turkey. 
- <p class="updated_time"> 04:00 AM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/01/style/new-years-resolutions-quotes-tips.html">Setting New Year's Resolutions? Start With These Words of Wisdom</a> NYT: Let their stories be your inspiration as you set resolutions for 2022. 
 
 
 </details>
