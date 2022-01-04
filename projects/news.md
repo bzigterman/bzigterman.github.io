@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:45 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59864266?at_medium=RSS&at_campaign=KARANGA">China: Xi'an residents in lockdown trade for food amid shortage</a> BBC: Faced with low supplies under lockdown, some have resorted to bartering phones and gadgets for food. 
  <p class="updated_time"> 11:51 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59864810?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Activist gets 15 month jail term for Tiananmen vigil</a> BBC: Chow Hang Tung was found guilty of inciting others last year to commemorate the crackdown. 
  <p class="updated_time"> 11:29 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59734254?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes: Theranos founder convicted of fraud</a> BBC: A jury found the Silicon Valley ex-CEO guilty on four of 11 counts after seven days of deliberations. 
- <p class="updated_time"> 10:25 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59864266?at_medium=RSS&at_campaign=KARANGA">China: Xi'an residents in lockdown trade for food amid shortage</a> BBC: Faced with low supplies under lockdown, some have resorted to bartering phones and gadgets for food. 
  <p class="updated_time"> 10:00 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59856063?at_medium=RSS&at_campaign=KARANGA">Top US phone firms agree delay of 5G rollout</a> BBC: The two-week delay requested by transportation and aviation authorities was initially rejected. 
  <p class="updated_time"> 09:56 PM CT, Jan. 03 </p> 
