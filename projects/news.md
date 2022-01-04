@@ -50,7 +50,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:45 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/philippines-manila-covid-lockdown.html">Philippines Expands Lockdown for Unvaccinated Around Manila</a> NYT: The new rules bar unvaccinated residents from leaving their homes except for a list of essential reasons. 
  <p class="updated_time"> 04:11 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59734254?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes: Theranos founder convicted of fraud</a> BBC: The Silicon Valley ex-CEO faces up to 80 years in prison for her failed blood testing technology. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59734254?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes: Theranos founder convicted of fraud</a> BBC: The Silicon Valley ex-CEO faces a lengthy term in prison for defrauding investors. 
  <p class="updated_time"> 03:49 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59835674?at_medium=RSS&at_campaign=KARANGA">Bulli Bai: Indian man arrested for fake auction of Muslim women</a> BBC: The Indian app shared photos of several prominent Muslim women in a fake auction, sparking outrage. 
  <p class="updated_time"> 02:52 AM CT, Jan. 04 </p> 
@@ -188,6 +188,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:46 AM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/ruben-gallego-merrick-garland-capitol-attack-526480">Gallego: Garland 'extremely weak' on Jan. 6 cases</a> Politico: The Arizona Democrat also directed his ire at GOP lawmakers who he accused of trying to shield Jan. 6 rioters. 
+ <p class="updated_time"> 09:51 AM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/hackers-florida-health-care/index.html">Hackers breached Florida health care system, potentially exposing data on 1.3 million people</a> CNN: Hackers breached the computer networks of a southeast Florida health care system in October and may have accessed sensitive personal and financial information on over 1.3 million people, the health care system announced this week. 
+ <p class="updated_time"> 09:41 AM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/melania-trump-new-auction/index.html">Melania Trump to auction white hat and other items for $250,000 minimum bid</a> CNN: Melania Trump announced Tuesday morning that she is holding an auction of the white hat she wore during the visit of the French first family, the Macrons, to the White House in 2018. 
  <p class="updated_time"> 08:24 AM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/devin-nunes-resigns-from-congress/index.html">Devin Nunes officially resigns from Congress</a> CNN: Devin Nunes, a Republican who has represented California since 2003, has officially resigned from Congress, ending a nearly 20-year stint in the House of Representatives. 
  <p class="updated_time"> 08:17 AM CT, Jan. 04 </p> 
@@ -284,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/03/1069888391/schumer-tees-up-vote-on-rules-change-if-voting-rights-legislation-is-blocked">Schumer tees up vote on rules change if voting rights legislation is blocked </a> NPR: It's the latest push by Senate Democrats to make good on their promise to pass voting rights legislation. 
  <p class="updated_time"> 11:23 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/capitol-police-union-private-security-proposal-526395">Capitol Police union douses private security proposal</a> Politico: “We need to hire more officers — period. The last thing we need are private security contractors who are not trained to our standards,” the chair of the union said in a statement sent to POLITICO. 
- <p class="updated_time"> 10:55 AM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/schumer-filibuster-rules-manchin-sinema/index.html">Schumer announces vote to change filibuster rules but faces resistance from Manchin and Sinema</a> CNN: Senate Majority Leader Chuck Schumer announced Monday that the chamber will take a vote on whether to change the Senate's legislative filibuster rules by Martin Luther King Jr. Day on January 17. 
  <p class="updated_time"> 10:48 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/schumer-threatens-vote-on-senate-rules-change-in-january-526394">Schumer tries to jump-start Dems with rules change threat</a> Politico: The majority leader said they would debate changes to the Senate's rules unless Republicans allow a vote on elections reform. 
  <p class="updated_time"> 10:15 AM CT, Jan. 03 </p> 
@@ -340,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/hogan-health-care-covid-maryland-526361">‘You can’t really manufacture doctors and nurses that don’t exist’</a> Politico: Maryland Gov. Larry Hogan said his state is trying everything it can to ensure it has enough health care workers. 
  <p class="updated_time"> 12:14 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-testing-526360">More Covid testing programs on the way for schools, Education secretary says</a> Politico: “We’re working closely now to make sure that they’re being set up,” Miguel Cardona said. 
- <p class="updated_time"> 11:51 AM CT, Jan. 02 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/fauci-cdc-to-clarify-guidelines/index.html">Further clarification 'coming very soon' to CDC Covid-19 isolation guidelines</a> CNN: Dr. Anthony Fauci said he anticipates "further clarification" on the US Centers for Disease Control and Prevention's updated guidelines to end the Covid-19 isolation period after just five days for people who are not exhibiting symptoms. 
  <p class="updated_time"> 11:41 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/bennie-thompson-jan-6-526357">Members of Congress interacted with Jan. 6 rioters, Rep. Thompson says</a> Politico: But it’s not clear how extensive or significant those interactions were. 
  <p class="updated_time"> 11:15 AM CT, Jan. 02 </p> 
@@ -388,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
  <p class="updated_time"> 08:17 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Biden administration results in more of the same Trump immigration policies</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
- <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/biden-administration-shifting-covid-guidance/index.html">Analysis: Biden administration signals pandemic strategy shift in the face of Omicron </a> CNN: America is plunging into a fast-worsening and frightening winter bout with Covid-19 that will leave few citizens and communities untouched. But as the highly transmissible Omicron variant roars across the country, the Biden administration is revealing the most tangible signs of a shifting pandemic strategy several weeks in the making. It is preparing a nation exhausted by two years of battling the invisible enemy to live more feasibly alongside it. 
  <p class="updated_time"> 11:07 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/29/harry-reids-legacy-495555"> Harry Reid’s legacy</a> Politico Playbook: And Michigan and Virginia get their new congressional maps. 
  <p class="updated_time"> 10:26 AM CT, Dec. 29 </p> 
