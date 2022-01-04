@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:52 AM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1070110830/western-wall-prayer-sites-future-is-in-doubt-under-israels-fragile-government">Western Wall prayer site's future is in doubt under Israel's fragile government</a> NPR: Israel's refusal to recognize liberal Reform and Conservative streams of Judaism has long been a point of tension with American Jews. 
  <p class="updated_time"> 02:34 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/molenbeek-brussels-terrorist-attack-paris.html">Changing Brussels Neighborhood Tries to Leave Stigma of Terrorism Behind</a> NYT: Molenbeek was where a terrorist cell planned attacks that killed 162 in Paris and Brussels. Six years later, residents are trying to reinvent the area as a trial rekindles an awful association. 
  <p class="updated_time"> 02:03 AM CT, Jan. 04 </p> 
@@ -141,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/stories-59566983?at_medium=RSS&at_campaign=KARANGA">In the footsteps of the women who escaped a Nazi death march</a> BBC: When Gwen Strauss' great-aunt revealed she had led nine women in an escape from a Nazi death march in 1945, Gwen decided to retrace their steps. 
  <p class="updated_time"> 06:07 PM CT, Jan. 01 </p> 
  <a href="https://www.npr.org/2022/01/01/1069676008/a-plain-pine-coffin-and-eco-friendly-cremation-are-the-last-acts-of-desmond-tutu">A plain pine coffin and eco-friendly cremation are the last acts of Desmond Tutu</a> NPR: Archbishop Emeritus Desmond Tutu, who died last Sunday, chose to be aquamated, a more environmentally friendly alternative to cremation. It is 90% more energy efficient than a traditional cremation. 
- <p class="updated_time"> 06:06 PM CT, Jan. 01 </p> 
- <a href="https://www.npr.org/2022/01/01/1069677828/uk-new-years-honours-list-daniel-craig">COVID-19 experts, athletes and Daniel Craig make the U.K.'s 'Honours List'</a> NPR: The annual tradition pays tribute to people for achievements made over the previous year. The government said it was the most ethnically diverse Honours List yet. 
  <p class="updated_time"> 06:05 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59703681?at_medium=RSS&at_campaign=KARANGA">Letter from Africa: Africa plays on in 2022 without its great referee</a> BBC: Joseph Warungu looks at what is in store for the African continent this coming year. 
  <p class="updated_time"> 02:25 PM CT, Jan. 01 </p> 
