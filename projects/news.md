@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:30 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Decision soon on dismissing case - judge</a> BBC: A US court hears arguments about a deal the prince's accuser Virginia Giuffre agreed with Jeffrey Epstein. 
  <p class="updated_time"> 11:18 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Seizes a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
- <p class="updated_time"> 11:14 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Decision soon on dismissing case - judge</a> BBC: A US court hears arguments about a deal the prince's accuser Virginia Giuffre agreed with Jeffrey Epstein. 
  <p class="updated_time"> 11:09 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59866553?at_medium=RSS&at_campaign=KARANGA">South Africa parliament fire suspect had explosives - prosecutor</a> BBC: A man who allegedly set fire to the Cape Town building was caught with explosives, prosecutors say. 
  <p class="updated_time"> 10:41 AM CT, Jan. 04 </p> 
@@ -188,8 +188,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:34 AM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden set to meet with Covid-19 team and deliver remarks</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
  <p class="updated_time"> 11:24 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/business/tesla-dealership-xinjiang-china.html">Tesla opens a dealership in Xinjiang, drawing accusations it’s helping China ‘cover up genocide.’</a> NYT: Senator Marco Rubio criticized the electric carmaker for opening the outlet in a region where China has been accused of targeting Muslims. 
+ <a href="https://www.nytimes.com/2022/01/04/business/tesla-dealership-xinjiang-china.html">Tesla Draws Criticism After Opening Dealership in Xinjiang </a> NYT: Senator Marco Rubio criticized the electric carmaker for opening the outlet in a region where China has been accused of targeting Muslims. 
  <p class="updated_time"> 11:07 AM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/melania-trump-new-auction/index.html">Melania Trump to auction white hat and other items for $250,000 minimum bid</a> CNN: Melania Trump announced Tuesday morning that she is holding an auction of the white hat she wore during the visit of the French first family, the Macrons, to the White House in 2018. 
  <p class="updated_time"> 10:59 AM CT, Jan. 04 </p> 
@@ -252,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/rep-bobby-rush-wont-seek-reelection-526455">Bobby Rush to relinquish 30-year hold on House seat</a> Politico: The veteran Illinois congressman and former Black Panther leader said, “I’m not retiring … I’m just entering into a new level of my life.” 
  <p class="updated_time"> 08:15 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1070037412/covid-congress-house-senate-omicron">Congress' doctor urges lawmakers to work remotely and upgrade masks as omicron rages</a> NPR: The move follows an unprecedented spike in positivity rates in the Capitol and mirrors record-high infection rates throughout Washington D.C., driven by the highly contagious omicron variant. 
- <p class="updated_time"> 08:01 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/biden-omicron-covid-remarks/index.html">Biden will make 'brief remarks' on rapid spread of the Omicron variant</a> CNN: President Joe Biden on Tuesday will make brief remarks addressing the rapid spread of the Omicron variant of the coronavirus in the US and the steps his administration is taking to address it, according to the White House. 
  <p class="updated_time"> 06:47 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/navy-covid-vaccine-policy-religious-objection/index.html">Judge blocks Navy vaccine policy for legal challengers citing religious objections</a> CNN: A federal judge in Texas on Monday ruled against the Biden administration's vaccine requirement for members of the military in a decision that took aim at how the Navy's policies handled those who sought religious exemptions from receiving the Covid-19 vaccine. 
  <p class="updated_time"> 06:42 PM CT, Jan. 03 </p> 
