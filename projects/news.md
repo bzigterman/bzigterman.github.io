@@ -26,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:07 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59871779?at_medium=RSS&at_campaign=KARANGA">Europe's tattoo artists fear for future after EU ink ban</a> BBC: Thousands of chemicals are banned by EU for safety reasons, but tattooists say it will hit business. 
  <p class="updated_time"> 12:07 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/health/cdc-pfizer-booster.html">Get a Pfizer Booster After 5 Months, Not 6, the C.D.C. Says</a> NYT: Following the F.D.A.’s lead, the agency also recommended third shots after four weeks for some immunocompromised children 5 to 11. 
+ <a href="https://www.nytimes.com/2022/01/04/health/pfizer-booster-shot-cdc.html">CDC Recommends a Pfizer Booster Shot After 5 Months, Not 6</a> NYT: Following the F.D.A.’s lead, the agency also recommended third shots after four weeks for some immunocompromised children 5 to 11. 
  <p class="updated_time"> 11:56 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Decision soon on dismissing case - judge</a> BBC: A US court hears arguments about a deal the prince's accuser Virginia Giuffre agreed with Jeffrey Epstein. 
  <p class="updated_time"> 11:09 AM CT, Jan. 04 </p> 
@@ -227,7 +227,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:49 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/a-record-45-million-americans-quit-their-jobs-in-november-526481">A record 4.5 million Americans quit their jobs in November</a> Politico: The figure is evidence that the U.S. job market is bouncing back strongly from last year’s coronavirus recession. 
  <p class="updated_time"> 10:49 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-political-operation.html">As Midterms and 2024 Loom, Trump Political Operation Revs Up</a> NYT: The former president is set to headline an event at Mar-a-Lago next month for endorsed candidates and major donors to benefit a supportive super PAC. 
+ <a href="https://www.nytimes.com/2022/01/04/us/politics/donald-trump-midterm-elections.html">As Midterms and 2024 Loom, Trump Political Operation Revs Up</a> NYT: The former president is set to headline an event at Mar-a-Lago next month for endorsed candidates and major donors to benefit a supportive super PAC. 
  <p class="updated_time"> 10:46 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/ruben-gallego-merrick-garland-capitol-attack-526480">Gallego: Garland 'extremely weak' on Jan. 6 cases</a> Politico: The Arizona Democrat also directed his ire at GOP lawmakers who he accused of trying to shield Jan. 6 rioters. 
  <p class="updated_time"> 10:08 AM CT, Jan. 04 </p> 
