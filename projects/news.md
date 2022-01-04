@@ -199,7 +199,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:42 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/ivanka-donald-trump-jr-subpoena/index.html">Trumps move to quash subpoenas for their testimony in civil investigation</a> CNN: The New York attorney general's office has subpoenaed two of former President Donald Trump's children for testimony as part of its civil investigation into whether the Trump Organization manipulated the values of its properties. 
  <p class="updated_time"> 06:05 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/new-hampshire-secretary-of-state-resigns.html">New Hampshire Secretary of State, Longest Serving in U.S., Is Retiring</a> NYT: The official, Bill Gardner, a Democrat, has served as secretary of state in New Hampshire for more than four decades. 
+ <a href="https://www.nytimes.com/2022/01/03/us/politics/bill-gardner-retires.html">New Hampshire's Secretary of State, Bill Gardner, Is Retiring</a> NYT: The official, Bill Gardner, a Democrat, has served as secretary of state in New Hampshire for more than four decades. 
  <p class="updated_time"> 06:00 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/midterm-elections-coronavirus.html">A Frazzled America Staggers Into 2022</a> NYT: The Omicron variant’s spread poses an unwelcome political conundrum just as election season begins. Democrats and the G.O.P. see reasons to hope, but the virus will get the deciding vote. 
  <p class="updated_time"> 05:53 PM CT, Jan. 03 </p> 
