@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:25 PM CT, Jan. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59864266?at_medium=RSS&at_campaign=KARANGA">China: Xi'an residents in lockdown barter for food amid shortage</a> BBC: Faced with low supplies under lockdown, some have resorted to trading phones and gadgets for food. 
  <p class="updated_time"> 09:56 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59864059?at_medium=RSS&at_campaign=KARANGA">Apple becomes first firm to hit $3tn market value</a> BBC: The firm's value more than doubled during the pandemic as people bought more gadgets during lockdowns. 
  <p class="updated_time"> 08:58 PM CT, Jan. 03 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/asia/india-auction-muslim-women.html">Online ‘Auction’ Is Latest Attack on Muslim Women in India</a> NYT: The fake site, the second in months, is a sign of the organized nature of virtual bullying, with threats of sexualized violence aimed at silencing the outspoken. 
  <p class="updated_time"> 07:43 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/middleeast/tunisia-economy-kais-saied.html">Pressure Mounts on Tunisia’s President to Salvage the Economy</a> NYT: When President Kais Saied seized power in July, he vowed to rescue the failing economy. Tunisians are still waiting for him to fulfill that pledge. 
- <p class="updated_time"> 07:31 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59748062?at_medium=RSS&at_campaign=KARANGA">Israeli photographer captures unique bird spoon image</a> BBC: Wildlife photographer Albert Keshet said it was one of the most amazing pictures he had ever taken. 
  <p class="updated_time"> 07:27 AM CT, Jan. 03 </p> 
  <a href="https://www.wsj.com/articles/attacks-on-u-s-allies-raise-tensions-on-anniversary-of-killing-of-irans-soleimani-11641231599">Attacks on U.S. Allies Raise Tensions on Anniversary of Killing of Iran's Soleimani</a> WSJ: Explosive-laden drones targeted Baghdad’s airport and Yemen’s Houthi rebels seized an Emirati-flagged ship on the second anniversary of Maj. Gen. Qassem Soleimani’s death. 
  <p class="updated_time"> 07:09 AM CT, Jan. 03 </p> 
@@ -226,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/03/1069983200/millions-sympathize-with-the-rioters-who-attacked-the-capitol-on-jan-6-survey-fi">Millions sympathize with the rioters who attacked the Capitol on Jan. 6, survey finds</a> NPR: As the U.S. nears the anniversary of a pro-Trump mob's attack at the Capitol, a survey finds widespread community support for violent insurrection that it calls a new political movement in the U.S. 
  <p class="updated_time"> 03:32 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/first-amendment-praetorian-trump-jan-6.html">Another Far-Right Group Is Scrutinized in Effort to Aid Trump</a> NYT: The organization, called 1st Amendment Praetorian, is not as well known as the Oath Keepers or the Proud Boys, but it worked closely with pro-Trump forces in the months after the 2020 election. 
- <p class="updated_time"> 02:54 PM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/longtime-new-hampshire-secretary-of-state-retiring-526412">Longtime New Hampshire secretary of state retiring</a> Politico: Bill Gardner, who's held the post since 1976, is a staunch defender of New Hampshire's first-in-the-nation presidential primary. 
  <p class="updated_time"> 02:36 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/ny-ag-subpoenas-trump-jr-ivanka-526404">New York attorney general issued subpoenas to Ivanka, Don. Jr.</a> Politico: Attorney General Letitia James has also sought testimony from the former president and Eric Trump. 
  <p class="updated_time"> 02:27 PM CT, Jan. 03 </p> 
