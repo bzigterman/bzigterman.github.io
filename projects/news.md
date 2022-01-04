@@ -16,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:24 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/molenbeek-attack-brussels-paris.html">How This Changing Brussels Neighborhood is Trying to Leave The Stigma of Terrorism Behind</a> NYT: Molenbeek was where a terrorist cell planned attacks that killed 162 in Paris and Brussels. Six years later, residents are trying to reinvent the area as a trial rekindles an awful association. 
  <p class="updated_time"> 06:22 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/djokovic-australian-open-vaccine-exemption.html">Djokovic Granted Medical Exemption to Play in Australian Open</a> NYT: The top-ranked player in men’s tennis revealed his plans in a post on his Instagram account. 
+ <a href="https://www.nytimes.com/2022/01/04/sports/tennis/djokovic-vaccine.html">Djokovic Granted Covid-19 Vaccine Exemption to Play in Australian Open</a> NYT: The top-ranked player in men’s tennis revealed his plans in a post on his Instagram account. 
  <p class="updated_time"> 05:54 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59865959?at_medium=RSS&at_campaign=KARANGA">Djokovic gets Covid jab waiver for Australian Open</a> BBC: Novak Djokovic will defend his Australian Open title after receiving a medical exemption from having a Covid-19 vaccination. 
  <p class="updated_time"> 05:53 AM CT, Jan. 04 </p> 
@@ -27,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/africa/cape-town-parliament-fire-suspect-charged.html">Suspect Charged With Arson in Fire at South Africa’s Parliament</a> NYT: The 49-year-old man was also accused of housebreaking, theft and contravening state security laws. His lawyer said the suspect was being made a scapegoat for government failures. 
  <p class="updated_time"> 05:31 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/04/1068916102/how-subsidies-helped-montreal-become-the-hollywood-of-video-games">How subsidies helped Montreal become "the Hollywood of video games"</a> NPR: For decades, Montreal has used generous tax subsidies to boost its video game industry. The policy has succeeded, but the city may need to keep the subsidies in place to keep companies from leaving. 
+ <p class="updated_time"> 05:19 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59867772?at_medium=RSS&at_campaign=KARANGA">Silicon Valley's trial of the century</a> BBC: A look at the Theranos trial and the evidence that led to Elizabeth Holmes being found guilty of fraud. 
  <p class="updated_time"> 05:13 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to probe whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 05:09 AM CT, Jan. 04 </p> 
@@ -188,6 +190,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:51 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/04/toxic-positivity-rates-on-capitol-hill-495587">Toxic positivity (rates) on Capitol Hill</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:46 AM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/cdc-isolation-guidance-upcoming/index.html">Update to CDC's Covid-19 isolation guidance is imminent, source says</a> CNN: The US Centers for Disease Control and Prevention is expected to update its guidance on the recommended isolation period imminently, according to a source familiar with the plan. 
  <p class="updated_time"> 06:32 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/jan-6-committee-oath-keepers-phone-records-526477">Jan. 6 committee seeking phone records of 2 Oath Keepers facing conspiracy charges</a> Politico: Kelly and Connie Meggs say they were notified of the subpoena by Verizon last month. 
  <p class="updated_time"> 06:21 AM CT, Jan. 04 </p> 
@@ -376,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/31/kerik-documents-jan-6-committee-526297">Bernard Kerik provides batch of documents to Jan. 6 select committee</a> Politico: The former New York City Police commissioner also provided a “privilege log” describing materials he declined to provide to the committee. 
  <p class="updated_time"> 05:13 PM CT, Dec. 31 </p> 
  <a href="https://www.nytimes.com/2021/12/31/us/politics/john-roberts-supreme-court.html">Chief Justice Roberts Reflects on Conflicts, Harassment and Judicial Independence</a> NYT: In his year-end report, the chief justice said that the court administrators, not Congress, should address financial conflicts and workplace misconduct in the judicial system. 
- <p class="updated_time"> 05:00 PM CT, Dec. 31 </p> 
- <a href="https://www.cnn.com/2021/12/31/politics/john-roberts-year-end-report-supreme-court-federal-courts/index.html">Roberts pushes for judiciary's continued independence in year-end report</a> CNN: Chief Justice John Roberts stressed the importance of the judiciary's institutional independence Friday in an annual report that comes as the Supreme Court is considering some of the most important issues of the day, and critics are seeking to dilute the court's conservative majority. 
  <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/31/meet-the-gops-new-national-security-power-broker-495557"> Meet the GOP’s new national security power broker</a> Politico Playbook: And neither Biden nor Putin backs down on a new call. 
  <p class="updated_time"> 07:01 AM CT, Dec. 31 </p> 
