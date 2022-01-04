@@ -178,6 +178,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:45 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/biden-white-house-omicron-plan-526516">White House embraces a manage-not-contain Omicron game plan</a> Politico: The president is under immense pressure to keep some semblance of social normalcy amid a pandemic that is absolutely roaring. 
  <p class="updated_time"> 05:54 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/sean-hannity-dissuade-trump-january-6-526508">Sean Hannity tried to dissuade Trump from Jan. 6 strategy, texts show</a> Politico: “I do NOT see January 6 happening the way he is being told,” the Fox News host said of Trump’s efforts in a Dec. 31, 2020 text. 
  <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
@@ -223,7 +225,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:12 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/andrew-cuomo-albany-da/index.html">Albany DA declines to prosecute former Gov. Andrew Cuomo on forcible touching charge </a> CNN: The Albany district attorney will not prosecute former New York Gov. Andrew Cuomo on a misdemeanor sex crime charge of forcible touching after reviewing the evidence in the case despite finding the complainant "cooperative" and "credible." 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">GOP shudders at Trump Jan. 6 speech</a> Politico: Republican Sen. Pat Toomey said the event isn’t a “terribly good idea,” but added, “What am I going to do about it?” 
+ <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
  <p class="updated_time"> 01:07 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/hackers-florida-health-care/index.html">Hackers breached Florida health care system, potentially exposing data on 1.3 million people</a> CNN: Hackers breached the computer networks of a southeast Florida health care system in October and may have accessed sensitive personal and financial information on over 1.3 million people, the health care system announced this week. 
  <p class="updated_time"> 01:02 PM CT, Jan. 04 </p> 
