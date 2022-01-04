@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:32 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59867046?at_medium=RSS&at_campaign=KARANGA">France's Bogdanoff TV twins die of Covid six days apart</a> BBC: Grichka and Igor Bogdanoff had hosted a TV science and science-fiction show in the 1980s. 
+ <p class="updated_time"> 06:24 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/europe/molenbeek-attack-brussels-paris.html">How This Changing Brussels Neighborhood is Trying to Leave The Stigma of Terrorism Behind</a> NYT: Molenbeek was where a terrorist cell planned attacks that killed 162 in Paris and Brussels. Six years later, residents are trying to reinvent the area as a trial rekindles an awful association. 
+ <p class="updated_time"> 05:56 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/business/china-evergrande-protests.html">With Property Sales Plunging, China Evergrande Faces More Protests</a> NYT: The developer has tried for months to signal that its $300 billion debt problem was under control. But the challenges keep mounting. 
  <p class="updated_time"> 05:54 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59865959?at_medium=RSS&at_campaign=KARANGA">Djokovic gets Covid jab waiver for Australian Open</a> BBC: Novak Djokovic will defend his Australian Open title after receiving a medical exemption from having a Covid-19 vaccination. 
  <p class="updated_time"> 05:53 AM CT, Jan. 04 </p> 
@@ -35,22 +41,18 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070110830/western-wall-prayer-sites-future-is-in-doubt-under-israels-fragile-government">Western Wall prayer site's future is in doubt under Israel's fragile government</a> NPR: Israel's refusal to recognize liberal Reform and Conservative streams of Judaism has long been a point of tension with American Jews. 
  <p class="updated_time"> 02:52 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59865342?at_medium=RSS&at_campaign=KARANGA">Bee farming: Police stung as beekeepers protest in Chile</a> BBC: Four beekeepers are detained following a protest calling for government support for their industry. 
- <p class="updated_time"> 02:34 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/europe/molenbeek-attack-brussels-paris.html">How This Changing Brussels Neighborhood is Trying to Leave The Stigma of Terrorism Behind</a> NYT: Molenbeek was where a terrorist cell planned attacks that killed 162 in Paris and Brussels. Six years later, residents are trying to reinvent the area as a trial rekindles an awful association. 
  <p class="updated_time"> 02:04 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew's lawyers to ask US court to dismiss civil sexual assault case</a> BBC: A newly-released settlement from 2009 shows his accuser agreed not to sue any "potential defendant". 
  <p class="updated_time"> 02:03 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59864810?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Activist gets 15-month jail term for Tiananmen vigil</a> BBC: Chow Hang Tung is jailed for 15 months for encouraging people to commemorate the Tiananmen protests. 
  <p class="updated_time"> 02:00 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/britain-electricity-norway-cables.html">A Widening Web of Undersea Cables Connects Britain to Green Energy</a> NYT: Linking one nation’s power grid with another’s is considered essential as more electricity is generated from solar and wind. 
+ <p class="updated_time"> 01:11 AM CT, Jan. 04 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-infections-accelerate-across-asia-11641283016">Daily U.S. Covid-19 Cases Top One Million</a> WSJ: Most states reported backlogs of cases after pausing during the New Year holiday and reported case numbers didn’t include data from six states, which either don’t issue daily reports or hadn’t resumed after the break. 
  <p class="updated_time"> 11:30 PM CT, Jan. 03 </p> 
  <a href="https://www.wsj.com/articles/russias-military-buildup-near-ukraine-is-an-open-secret-11641292202">Russia's Military Buildup Near Ukraine Is an Open Secret</a> WSJ: Satellite images, social media posts and flight-tracking data allow private citizens to track details governments once classified. 
  <p class="updated_time"> 10:00 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59856063?at_medium=RSS&at_campaign=KARANGA">Top US phone firms agree delay of 5G rollout</a> BBC: The two-week delay requested by transportation and aviation authorities was initially rejected. 
- <p class="updated_time"> 09:56 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/business-59864059?at_medium=RSS&at_campaign=KARANGA">Apple becomes first firm to hit $3tn market value</a> BBC: The firm's value more than doubled during the pandemic as people bought more gadgets during lockdowns. 
- <p class="updated_time"> 09:27 PM CT, Jan. 03 </p> 
- <a href="https://www.wsj.com/articles/covid-19-infections-accelerate-across-asia-11641283016">Covid-19 Infections Accelerate Across Asia</a> WSJ: Australia passed 500,000 cases, while the Philippines and India reported faster spread. 
  <p class="updated_time"> 08:58 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808739?at_medium=RSS&at_campaign=KARANGA">Pushpa: Why a song calling out men is under fire for sleaze</a> BBC: A new hit song which claims to subvert the male gaze is accused of, in fact, objectifying women. 
  <p class="updated_time"> 08:45 PM CT, Jan. 03 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/middleeast/tunisia-economy-kais-saied.html">Pressure Mounts on Tunisia’s President to Salvage the Economy</a> NYT: When President Kais Saied seized power in July, he vowed to rescue the failing economy. Tunisians are still waiting for him to fulfill that pledge. 
  <p class="updated_time"> 07:27 AM CT, Jan. 03 </p> 
  <a href="https://www.wsj.com/articles/attacks-on-u-s-allies-raise-tensions-on-anniversary-of-killing-of-irans-soleimani-11641231599">Attacks on U.S. Allies Raise Tensions on Anniversary of Killing of Iran's Soleimani</a> WSJ: Explosive-laden drones targeted Baghdad’s airport and Yemen’s Houthi rebels seized an Emirati-flagged ship on the second anniversary of Maj. Gen. Qassem Soleimani’s death. 
- <p class="updated_time"> 07:09 AM CT, Jan. 03 </p> 
- <a href="https://www.wsj.com/articles/turkeys-erdogan-says-he-will-visit-saudi-arabia-in-february-11641233361">Erdogan Says He Will Visit Saudi Arabia in February</a> WSJ: A once-unimaginable meeting between the Turkish leader and the Saudi crown prince would signal detente in a rift that has divided the Middle East for years. 
  <p class="updated_time"> 06:54 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/business/china-evergrande-shares-hong-kong.html">China Evergrande Suspends Trading Shares in Hong Kong</a> NYT: The world’s most indebted property developer provided no details on the suspension, but it suggested an announcement “containing inside information” would come soon. 
  <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
@@ -121,12 +121,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/travel/nepal-maha-shivaratri.html">Celebrating the ‘Great Night of Shiva’ in Kathmandu</a> NYT: Every year, thousands of celebrants gather at a temple complex in Nepal’s capital in honor of Shiva, one of Hinduism’s most revered gods. 
  <p class="updated_time"> 03:33 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069839447/seoul-north-korea-defector-likely-made-rare-border-crossing-back">Seoul: North Korea defector likely made rare border crossing back</a> NPR: A person who crossed the border from South Korea into North Korea on New Year's Day was likely a defector who had made the trip in the other direction in late 2020, the military said Monday. 
- <p class="updated_time"> 01:26 AM CT, Jan. 03 </p> 
- <a href="https://www.wsj.com/articles/man-who-crossed-dmz-into-north-korea-is-a-previous-defector-11641212793">Man Who Crossed DMZ Into North Korea Is a Previous Defector</a> WSJ: The defector, who said he had been a gymnast and who evaded South Korea’s border controls to enter North Korea late last week, had used virtually the same route a year ago to defect from the North. 
  <p class="updated_time"> 01:07 AM CT, Jan. 03 </p> 
  <a href="https://www.wsj.com/articles/turkeys-inflation-rate-nears-20-year-high-as-lira-crisis-continues-11641211659">Turkey's Inflation Rate Nears 20-Year High</a> WSJ: The country’s annual inflation rose to 36.08% in December, raising fresh concerns that it could overwhelm a government rescue plan to stabilize the battered local currency. 
  <p class="updated_time"> 12:15 AM CT, Jan. 03 </p> 
  <a href="https://www.wsj.com/articles/sudans-prime-minister-resigns-as-political-crisis-worsens-11641208528">Sudan's Prime Minister Resigns as Political Crisis Worsens</a> WSJ: Abdalla Hamdok resignation marks the latest disruption to the strategically-located nation, as it attempts to transition to democracy following the end of Omar al Bashir’s three-decade reign. 
+ <p class="updated_time"> 11:30 PM CT, Jan. 02 </p> 
+ <a href="https://www.wsj.com/articles/china-is-haunted-by-its-one-child-policy-as-it-tries-to-encourage-couples-to-conceive-11641205807">China Is Haunted by One-Child Policy as It Encourages Couples to Conceive</a> WSJ: A legacy of China’s one-child policy is a dwindling number of women of childbearing age as well as a generation of only children who are less eager to marry and start a family. 
  <p class="updated_time"> 11:05 PM CT, Jan. 02 </p> 
  <a href="https://www.npr.org/2022/01/03/1069824056/another-hong-kong-news-outlet-to-close-amid-crackdown-on-dissent">Another Hong Kong news site shuts as pro-Beijing lawmakers sworn in</a> NPR: A Hong Kong online news site said Sunday that it will cease operations in light of deteriorating press freedoms, days after police raided a separate pro-democracy news outlet, arresting seven. 
  <p class="updated_time"> 10:04 PM CT, Jan. 02 </p> 
@@ -180,8 +180,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:32 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/jan-6-committee-oath-keepers-phone-records-526477">Jan. 6 committee seeking phone records of 2 Oath Keepers facing conspiracy charges</a> Politico: Kelly and Connie Meggs say they were notified of the subpoena by Verizon last month. 
+ <p class="updated_time"> 06:21 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/us/politics/midterm-elections-coronavirus.html">A Frazzled America Staggers Into 2022</a> NYT: The Omicron variant’s spread poses an unwelcome political conundrum just as election season begins. Democrats and the G.O.P. see reasons to hope, but the virus will get the deciding vote. 
  <p class="updated_time"> 06:18 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/04/the-election-reform-idea-gaining-currency-on-the-right-495582"> The election reform idea gaining currency on the right</a> Politico Playbook: And Rep. Bobby Rush (D-Ill.) says he won't seek reelection. 
+ <p class="updated_time"> 06:07 AM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1069793647/rep-jamie-raskin-searches-for-answers-in-unthinkable-journey-of-trauma-and-grief">Rep. Jamie Raskin searches for answers in 'Unthinkable' journey of trauma and grief</a> NPR: In a new memoir, the Democratic congressman recounts a year of loss and grief after the death of son Tommy — and a motivation to right the wrongs that occurred on Jan. 6. 
  <p class="updated_time"> 05:31 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/04/1068916102/how-subsidies-helped-montreal-become-the-hollywood-of-video-games">How subsidies helped Montreal become "the Hollywood of video games"</a> NPR: For decades, Montreal has used generous tax subsidies to boost its video game industry. The policy has succeeded, but the city may need to keep the subsidies in place to keep companies from leaving. 
  <p class="updated_time"> 05:00 AM CT, Jan. 04 </p> 
@@ -218,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/03/politics/ivanka-donald-trump-jr-subpoena/index.html">Trumps move to quash subpoenas for their testimony in civil investigation</a> CNN: The New York attorney general's office has subpoenaed two of former President Donald Trump's children for testimony as part of its civil investigation into whether the Trump Organization manipulated the values of its properties. 
  <p class="updated_time"> 06:05 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/bill-gardner-retires.html">New Hampshire's Secretary of State, Bill Gardner, Is Retiring</a> NYT: The official, Bill Gardner, a Democrat, has served as secretary of state in New Hampshire for more than four decades. 
- <p class="updated_time"> 06:00 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/midterm-elections-coronavirus.html">A Frazzled America Staggers Into 2022</a> NYT: The Omicron variant’s spread poses an unwelcome political conundrum just as election season begins. Democrats and the G.O.P. see reasons to hope, but the virus will get the deciding vote. 
  <p class="updated_time"> 05:53 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/capitol-riot-january-6.html">The Jan. 6 Committee’s Consideration of a Criminal Referral, Explained</a> NYT: The House panel does not have the authority to pursue criminal charges, but it can provide the Justice Department with evidence of any wrongdoing it unearths in its investigation. 
  <p class="updated_time"> 05:43 PM CT, Jan. 03 </p> 
@@ -336,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/cheney-trump-threat-democracy-526356">Liz Cheney on Trump: He’s a threat to American democracy</a> Politico: “He crossed lines no American president has ever crossed before,” she said. 
  <p class="updated_time"> 10:12 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/capitol-police-chief-short-staffed-526354">Capitol Police chief says force remains short-staffed</a> Politico: “We’re now really about 400 officers short of where we need to be,” J. Thomas Manger said. 
- <p class="updated_time"> 10:05 AM CT, Jan. 02 </p> 
- <a href="https://www.npr.org/2022/01/02/1069753102/twitter-bans-marjorie-taylor-greenes-personal-account-over-covid-misinformation">Facebook suspends Marjorie Taylor Greene's account over COVID misinformation</a> NPR: The 24-hour Facebook suspension came a day after Twitter permanently suspended the Republican's personal account on that platform. 
  <p class="updated_time"> 09:46 AM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/miguel-cardona-warns-school-reopening-covid-surge/index.html">US education secretary warns of 'bumps in the road' as schools reopen amid Covid surge</a> CNN: There will be "bumps in the road" as schools attempt to reopen in the new year amid a record surge in Covid-19 cases, US Education Secretary Miguel Cardona said Sunday. 
  <p class="updated_time"> 09:33 AM CT, Jan. 02 </p> 
