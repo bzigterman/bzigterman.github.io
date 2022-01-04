@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:13 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">What Is the IOC Doing About Forced Labor Concerns in China? It Won’t Say. </a> NYT: Olympic officials are reluctant to probe whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
+ <p class="updated_time"> 05:05 AM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59865959?at_medium=RSS&at_campaign=KARANGA">Djokovic gets Covid jab waiver for Australian Open</a> BBC: Novak Djokovic says he will defend his Australian Open title after receiving a medical exemption from having a Covid-19 vaccination. 
  <p class="updated_time"> 04:47 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070119371/activists-urge-tesla-to-close-its-new-xinjiang-showroom">Activists urge Tesla to close its new Xinjiang showroom</a> NPR: Tesla on Friday announced the opening of its showroom in Urumqi, the capital of Xinjiang, where officials are accused of abuses against mostly Muslim ethnic minorities. 
- <p class="updated_time"> 04:11 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-forced-labor-beijing-olympics.html">What Is the I.O.C. Doing About Forced Labor Concerns in China? It Won’t Say. </a> NYT: Olympic officials are reluctant to probe whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
+ <p class="updated_time"> 04:45 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/asia/philippines-manila-covid-lockdown.html">Philippines Expands Lockdown for Unvaccinated Around Manila</a> NYT: The new rules bar unvaccinated residents from leaving their homes except for a list of essential reasons. 
  <p class="updated_time"> 04:11 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59734254?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes: Theranos founder convicted of fraud</a> BBC: The Silicon Valley ex-CEO faces up to 80 years in prison for her failed blood testing technology. 
  <p class="updated_time"> 03:49 AM CT, Jan. 04 </p> 
@@ -59,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59814182?at_medium=RSS&at_campaign=KARANGA">Africa's lost 'Motown' years rediscovered</a> BBC: African music from the 1980s is being digitised thanks to a young Parisian producer. 
  <p class="updated_time"> 06:02 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59763426?at_medium=RSS&at_campaign=KARANGA">Watching North Korea from a supersonic fighter jet</a> BBC: BBC correspondent Laura Bicker reports from a supersonic fighter jet on South Korea’s drive to build up its own war machine. 
- <p class="updated_time"> 05:36 PM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59833267?at_medium=RSS&at_campaign=KARANGA">Brazil's Bolsonaro in hospital with intestinal blockage</a> BBC: President Jair Bolsonaro, who was stabbed in 2018, says doctors are evaluating potential surgery. 
  <p class="updated_time"> 04:50 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59863053?at_medium=RSS&at_campaign=KARANGA">Canadian families win compensation over jet downed by Iran</a> BBC: Relatives of six people who died when a plane was downed in 2020 will be compensated in Canada. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
@@ -184,6 +186,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:18 AM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/04/the-election-reform-idea-gaining-currency-on-the-right-495582">The election reform idea gaining currency on the right</a> Politico Playbook: And Rep. Bobby Rush (D-Ill.) says he won't seek reelection. 
  <p class="updated_time"> 05:00 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/jan-6-insurrection-sentencing-tracker-526091">Hundreds of crimes, little punishment: Inside the sentences since the Capitol attack</a> Politico: More than 150 people have pleaded guilty for crimes committed on Jan. 6, 2021. POLITICO is analyzing and tracking every sentence handed down. 
  <p class="updated_time"> 04:47 AM CT, Jan. 04 </p> 
@@ -196,6 +200,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/pentagon-extremism-ranks-jan-6-526441">‘Close the loopholes’: The Pentagon’s next front in its hunt for extremists</a> Politico: The military put stricter rules in place after Jan. 6. But will those efforts stick? 
  <p class="updated_time"> 04:30 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/amazon-google-thwart-antitrust-bills-526460">Amazon and Google deploy their armies to thwart antitrust bills</a> Politico: Small businesses that rely on the tech giants are signing petitions and joining Zoom calls with lawmakers to warn against legislation aimed at promoting competition. 
+ <p class="updated_time"> 04:29 AM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/omicron-us-cases-winter-biden/index.html">Omicron might be less dangerous, but it's twisting the nation in knots</a> CNN: Every American is being drawn into a reckoning over how much risk is acceptable to get the nation back on its feet as the new Omicron variant of Covid-19 rages out of control. 
  <p class="updated_time"> 04:00 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/magazine/jan-6-capitol-police-officers.html">The Capitol Police and the Scars of the January 6th Riot</a> NYT: For many officers, their bodies, minds and lives will never be the same after the attack. 
  <p class="updated_time"> 12:52 AM CT, Jan. 04 </p> 
@@ -209,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:15 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1070037412/covid-congress-house-senate-omicron">Congress' doctor urges lawmakers to work remotely and upgrade masks as omicron rages</a> NPR: The move follows an unprecedented spike in positivity rates in the Capitol, and mirrors record-high infection rates throughout Washington D.C., driven by the highly contagious omicron variant. 
  <p class="updated_time"> 08:01 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/biden-omicron-covid-remarks/index.html">Biden will make 'brief remarks' Tuesday on rapid spread of the Omicron variant</a> CNN: President Joe Biden on Tuesday will make brief remarks addressing the rapid spread of the Omicron variant of the coronavirus in the US and the steps his administration is taking to address it, according to the White House. 
+ <a href="https://www.cnn.com/2022/01/03/politics/biden-omicron-covid-remarks/index.html">Biden will make 'brief remarks' on rapid spread of the Omicron variant</a> CNN: President Joe Biden on Tuesday will make brief remarks addressing the rapid spread of the Omicron variant of the coronavirus in the US and the steps his administration is taking to address it, according to the White House. 
  <p class="updated_time"> 06:47 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/navy-covid-vaccine-policy-religious-objection/index.html">Judge blocks Navy vaccine policy for legal challengers citing religious objections</a> CNN: A federal judge in Texas on Monday ruled against the Biden administration's vaccine requirement for members of the military in a decision that took aim at how the Navy's policies handled those who sought religious exemptions from receiving the Covid-19 vaccine. 
  <p class="updated_time"> 06:42 PM CT, Jan. 03 </p> 
@@ -231,7 +237,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:25 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/senate-democrats-biden-agenda.html">Democrats Set Timetable to Change Rules for Stalled Voting Rights Bills</a> NYT: The top Senate Democrat said he would act by Jan. 17 to try to force through the measures if Republicans refused to drop their opposition. 
  <p class="updated_time"> 05:11 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/vladislav-klyushin-kremlin-ties-federal-court/index.html">Russian businessman's Kremlin ties could prove intelligence 'gold mine' for US, former official says</a> CNN: A Russian businessman who appeared in US court Monday on securities fraud charges could be a valuable asset in US efforts to gather more information on Russian interference in the 2016 election as well as other intelligence operations, former US officials tell CNN. 
+ <a href="https://www.cnn.com/2022/01/03/politics/vladislav-klyushin-kremlin-ties-federal-court/index.html">Russian businessman's Kremlin ties could prove intel 'gold mine' for US, former official says</a> CNN: A Russian businessman who appeared in US court Monday on securities fraud charges could be a valuable asset in US efforts to gather more information on Russian interference in the 2016 election as well as other intelligence operations, former US officials tell CNN. 
  <p class="updated_time"> 04:55 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/business/economy/inflation-democrats-corporations.html">Democrats Blast Corporate Profits as Inflation Surges</a> NYT: Politicians are placing more blame on greedy companies as prices stay high. But booming consumer demand is enabling firms to charge more. 
  <p class="updated_time"> 04:13 PM CT, Jan. 03 </p> 
@@ -260,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/us/politics/trump-endorses-viktor-orban-hungary.html">Trump Endorses Viktor Orban, Hungary’s Far-Right Prime Minister</a> NYT: Democracy in Hungary has been backsliding under Mr. Orban, whose efforts to consolidate power have caused consternation in the European Union. 
  <p class="updated_time"> 12:18 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069946405/new-yorks-attorney-general-has-subpoenaed-ivanka-trump-and-donald-trump-jr">New York's attorney general has subpoenaed Ivanka Trump and Donald Trump Jr. </a> NPR: The subpoenas stem from an ongoing civil investigation into the Trump family's business practices. The former president has also been subpoenaed, and is now suing the attorney general. 
- <p class="updated_time"> 12:15 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/donald-trump-january-6-committee/index.html">Analysis: January 6 committee gets inside Trump's West Wing wall of obstruction </a> CNN: The House select committee probing the January 6 insurrection is signaling that it has penetrated Donald Trump's wall of obstruction about what was going on inside the White House and his own family while he refused to stop the mob attack on the US Capitol a year ago this week. 
  <p class="updated_time"> 12:03 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069888391/schumer-tees-up-vote-on-rules-change-if-voting-rights-legislation-is-blocked">Schumer tees up vote on rules change if voting rights legislation is blocked </a> NPR: It's the latest push by Senate Democrats to make good on their promise to pass voting rights legislation. 
  <p class="updated_time"> 11:23 AM CT, Jan. 03 </p> 
@@ -270,6 +274,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/03/politics/schumer-filibuster-rules-manchin-sinema/index.html">Schumer announces vote to change filibuster rules but faces resistance from Manchin and Sinema</a> CNN: Senate Majority Leader Chuck Schumer announced Monday that the chamber will take a vote on whether to change the Senate's legislative filibuster rules by Martin Luther King Jr. Day on January 17. 
  <p class="updated_time"> 10:48 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/schumer-threatens-vote-on-senate-rules-change-in-january-526394">Schumer tries to jump-start Dems with rules change threat</a> Politico: The majority leader said they would debate changes to the Senate's rules unless Republicans allow a vote on elections reform. 
+ <p class="updated_time"> 10:15 AM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/news/2022/01/03/fda-authorizes-covid-boosters-for-younger-teens-526392">FDA authorizes Covid boosters for teens 12-15</a> Politico: The agency will also allow some immunocompromised children as young as age 5 to get an additional dose. 
  <p class="updated_time"> 09:42 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/trump-endorses-viktor-orban-hungary-526383">Trump endorses Hungary’s Orbán for reelection</a> Politico: It’s not the first time the former president has backed a populist foreign leader with authoritarian tendencies. 
  <p class="updated_time"> 08:32 AM CT, Jan. 03 </p> 
@@ -282,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/03/politics/january-6-committee-firsthand-knowledge-trump-actions/index.html">January 6 panel has 'firsthand' knowledge of Trump's behavior during riot from multiple sources </a> CNN: The House select committee investigating the January 6 Capitol Hill insurrection has information from multiple sources with firsthand knowledge that describe what then-President Donald Trump was doing during the riot, according to a person familiar with the investigation. 
  <p class="updated_time"> 06:05 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/03/dems-to-use-jan-6-anniversary-to-supercharge-voting-rights-push-495565"> Dems to use Jan. 6 anniversary to supercharge voting rights push</a> Politico Playbook: And Biden says the U.S. would 'respond decisively' if Russia invades Ukraine. 
- <p class="updated_time"> 06:00 AM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/2022-issues-to-watch-what-matters/index.html">Analysis: 2022 brings a daunting set of hurdles for America. Here are the top three</a> CNN: The year ahead brings a daunting set of hurdles for the country with everything from the coronavirus pandemic to pervasive misinformation  challenging our institutions. 
  <p class="updated_time"> 05:02 AM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/biden-zelensky-call/index.html">Biden tells Ukrainian President US 'will respond decisively if Russia further invades'</a> CNN: President Joe Biden told Ukrainian President Volodymyr Zelensky on Sunday that the US and its allies "will respond decisively if Russia further invades Ukraine," according to a readout of a call between the two leaders provided by the White House. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
@@ -308,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/us/politics/jan-6-capitol-riot-anniversary.html">Jan. 6 Panel Faces Difficult Questions as Anniversary of Capitol Riot Approaches</a> NYT: Decisions about subpoenas and a Supreme Court ruling loom as lawmakers, staff members and Capitol employees plan to commemorate the day. 
  <p class="updated_time"> 09:13 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/harry-reid-to-lie-in-state-in-capitol-rotunda-526381">Harry Reid to lie in state in Capitol Rotunda</a> Politico: The former Senate majority leader died last Tuesday. 
- <p class="updated_time"> 09:12 PM CT, Jan. 02 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/marjorie-taylor-greene-twitter-suspension/index.html">One of Marjorie Taylor Greene's verified Twitter accounts permanently suspended from Twitter</a> CNN: Twitter has permanently suspended Georgia GOP Rep. Marjorie Taylor Greene's Twitter account @mtgreenee, the company confirmed to CNN Sunday morning. 
  <p class="updated_time"> 08:52 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/lloyd-austin-test-positive-covid/index.html">Defense Secretary Austin says he has tested positive for Covid-19</a> CNN: Defense Secretary Lloyd Austin has tested positive for Covid-19 and is exhibiting "mild" symptoms, according to a statement from him released by the Defense Department on Sunday. 
  <p class="updated_time"> 08:15 PM CT, Jan. 02 </p> 
@@ -352,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/us/politics/stacey-abrams-georgia-democrats.html">Left and Center-Left Both Claim Stacey Abrams. Who’s Right?</a> NYT: Ms. Abrams, the Georgia Democrat running for governor, has admirers in both wings of her party — and Republicans eager to defeat her. Her carefully calibrated strategy faces a test in 2022. 
  <p class="updated_time"> 11:30 PM CT, Jan. 01 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/democrats-january-6-2022-campaigns/index.html">'It's not a silver bullet': Democrats weigh how to talk about January 6 on the 2022 campaign trail</a> CNN: The January 6 insurrection may be a year behind Rep. Jason Crow, but the Colorado Democrat -- and many of his colleagues -- insist it would be a grievous error for his party to downplay the attack. 
- <p class="updated_time"> 11:59 AM CT, Jan. 01 </p> 
- <a href="https://www.cnn.com/2022/01/01/politics/bernard-kerik-documents-january-6-committee/index.html">Ex-New York City police commissioner Bernard Kerik provides documents to January 6 committee</a> CNN: Bernard Kerik, the former New York City police commissioner, has agreed to a voluntary interview with the House select committee investigating January 6 and provided some documents, according to a letter from his attorney obtained by CNN. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
@@ -384,6 +384,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/30/us/politics/uss-montgomery-captain-fired.html">Navy Fires Warship’s Top Two Officers, Citing ‘Loss of Confidence’</a> NYT: The commander and second in charge of the U.S.S. Montgomery were relieved of command in a rare punishment, reportedly over their handling of a sexual harassment case. 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
+ <p class="updated_time"> 08:17 AM CT, Dec. 30 </p> 
+ <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Biden administration results in more of the same Trump immigration policies</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
  <p class="updated_time"> 05:12 AM CT, Dec. 30 </p> 
  <a href="https://www.cnn.com/2021/12/30/politics/biden-administration-shifting-covid-guidance/index.html">Analysis: Biden administration signals pandemic strategy shift in the face of Omicron </a> CNN: America is plunging into a fast-worsening and frightening winter bout with Covid-19 that will leave few citizens and communities untouched. But as the highly transmissible Omicron variant roars across the country, the Biden administration is revealing the most tangible signs of a shifting pandemic strategy several weeks in the making. It is preparing a nation exhausted by two years of battling the invisible enemy to live more feasibly alongside it. 
  <p class="updated_time"> 11:07 AM CT, Dec. 29 </p> 
