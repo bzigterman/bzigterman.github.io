@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:05 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea launches 'unidentified projectile' into sea</a> BBC: South Korean and Japanese officials spot Pyongyang's first launch in 2022, but details are unclear. 
  <p class="updated_time"> 10:12 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Launches Ballistic Missile, the South Says</a> NYT: The North last conducted a test in October, when it fired a newly developed submarine-launched ballistic missile. 
  <p class="updated_time"> 09:54 PM CT, Jan. 04 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/europe/kazakhstan-emergency-protests-fuel.html">Kazakhstan Declares State of Emergency as Protests Over Fuel Prices Spread</a> NYT: Thousands took to the street as gas prices doubled. The government responded with curfews and tear gas. The president later announced the resignation of the government. 
  <p class="updated_time"> 09:40 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: State of emergency declared after fuel protests</a> BBC: President Kassym-Jomart Tokayev declares a two-week state of emergency and accepts government resignation. 
- <p class="updated_time"> 09:23 PM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea launches 'unidentified projectile' into sea</a> BBC: South Korean and Japanese officials spot Pyongyang's first launch in 2022, but details are unclear. 
  <p class="updated_time"> 08:39 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges $31.5 Billion in Indigenous Child Welfare Battle</a> NYT: The government agreed to a landmark settlement to repair the system and compensate those families harmed by it. It potentially ends many years of litigation. 
  <p class="updated_time"> 08:10 PM CT, Jan. 04 </p> 
@@ -185,7 +185,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 10:24 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/sebastian-gorka-jan-6-committee-526534">Jan. 6 committee seeking phone records from Gorka</a> Politico: The radio host is suing to block the panel from getting his records. 
+ <a href="https://www.politico.com/news/2022/01/04/sebastian-gorka-jan-6-committee-526534">Jan. 6 committee seeking phone records from Sebastian Gorka</a> Politico: The radio host is suing to block the panel from getting his records. 
  <p class="updated_time"> 10:16 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
  <p class="updated_time"> 10:14 PM CT, Jan. 04 </p> 
@@ -215,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:40 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/biden-pfizer-pill-order.html">Biden Administration Doubles Order of Pfizer's Covid Pill</a> NYT: President Biden announced that his administration would double its order of Pfizer’s scarce Covid-19 antiviral drug, which has been shown to reduce hospitalizations. 
  <p class="updated_time"> 06:10 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-gop-jan-6.html">How Trump Kept His Grip After Jan. 6</a> NYT: Only weeks after instigating the Capitol riot, Donald Trump was back in command of the Republican Party. 
+ <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-gop-jan-6.html">How Trump Kept Control of the G.O.P. After Jan. 6</a> NYT: Only weeks after instigating the Capitol riot, Donald Trump was back in command of the Republican Party. 
  <p class="updated_time"> 06:03 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/abbott-texas-national-guard-vaccine-lawsuit/index.html">Texas Gov. Abbott sues Biden over requirement that National Guard be vaccinated</a> CNN: Texas Republican Gov. Greg Abbott sued President Joe Biden and other members of the administration on Tuesday over the requirement that members of the National Guard be vaccinated against Covid-19. 
  <p class="updated_time"> 05:54 PM CT, Jan. 04 </p> 
