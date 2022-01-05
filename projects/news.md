@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:10 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59876583?at_medium=RSS&at_campaign=KARANGA">US science teacher arrested for vaccinating 17-year-old student</a> BBC: Police say the teacher is not trained to give vaccines and gave the jab to the boy at her home. 
+ <p class="updated_time"> 08:07 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea launches 'unidentified projectile' into sea</a> BBC: South Korean and Japanese officials spot Pyongyang's first launch in 2022, but details are unclear. 
+ <p class="updated_time"> 08:04 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59876203?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australian Open vaccine exemption ignites backlash</a> BBC: It is "appalling" that Novak Djokovic can enter the country for the Australian Open, locals say. 
+ <p class="updated_time"> 07:58 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59873833?at_medium=RSS&at_campaign=KARANGA">Covid: President Macron warns he will 'hassle' France's unvaccinated</a> BBC: The president vows to make life difficult for the unjabbed, but opponents condemn his strong language. 
  <p class="updated_time"> 07:51 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Launches Ballistic Missile, the South Says</a> NYT: The North last conducted a test in October, when it fired a newly developed submarine-launched ballistic missile. 
- <p class="updated_time"> 07:33 PM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59873833?at_medium=RSS&at_campaign=KARANGA">Covid: President Macron warns he will 'hassle' France's unvaccinated</a> BBC: The president vows to make life difficult for the unjabbed, but opponents condemn his strong language. 
- <p class="updated_time"> 07:27 PM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea launches 'unidentified projectile' into sea</a> BBC: South Korean and Japanese officials spot Pyongyang's first launch in 2022, but details are unclear. 
  <p class="updated_time"> 07:25 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070413311/cdc-test-covid-isolation-five-days">The CDC resists pushback and says a test to get out of COVID isolation is not needed</a> NPR: Those who contracted COVID-19 can end their isolation after five days while continuing to wear a well-fitting mask for an additional five days, according to the agency. 
  <p class="updated_time"> 07:09 PM CT, Jan. 04 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59735955?at_medium=RSS&at_campaign=KARANGA">Iconic Bangkok station Hua Lamphong reaches the end of the line</a> BBC: Hua Lamphong has seen the start and end of journeys for generations of Thai travellers and tourists alike. 
  <p class="updated_time"> 05:58 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges $31.5 Billion in Indigenous Child Welfare Battle</a> NYT: The government agreed to a landmark settlement to repair the system and compensate those families harmed by it. It potentially ends many years of litigation. 
- <p class="updated_time"> 05:52 PM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59867536?at_medium=RSS&at_campaign=KARANGA">US reports 1m daily Covid cases with peak to come</a> BBC: Omicron drives a record-breaking daily tally of new US cases, though deaths remain stable. 
  <p class="updated_time"> 05:30 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: State of emergency declared after fuel protests</a> BBC: President Kassym-Jomart Tokayev declares a two-week state of emergency including curbs on movement. 
  <p class="updated_time"> 04:56 PM CT, Jan. 04 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/europe/tony-blair-knighthood-petition-rescind.html">Petition to Rescind Tony Blair’s Knighthood Gets Hundreds of Thousands of Signatures</a> NYT: Nearly 15 years after he left office, the prime minister’s support for the Iraq war has not been forgiven by many in Britain. 
  <p class="updated_time"> 12:43 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59869509?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Behind the bubble in Beijing</a> BBC: Have a look at how Beijing is preparing for the Games - with a sealed off area to keep Covid out. 
- <p class="updated_time"> 12:19 PM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59833122?at_medium=RSS&at_campaign=KARANGA">Prosecutor drops Andrew Cuomo groping charge</a> BBC: Accuser is 'credible', district attorney says, but there is not enough evidence to move forward. 
  <p class="updated_time"> 12:07 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59871779?at_medium=RSS&at_campaign=KARANGA">Europe's tattoo artists fear for future after EU ink ban</a> BBC: Thousands of chemicals are banned by EU for safety reasons, but tattooists say it will hit business. 
  <p class="updated_time"> 11:25 AM CT, Jan. 04 </p> 
@@ -199,7 +199,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:45 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/biden-white-house-omicron-plan-526516">White House embraces a manage-not-contain Omicron game plan</a> Politico: The president is under immense pressure to keep some semblance of social normalcy amid a pandemic that is absolutely roaring. 
  <p class="updated_time"> 06:10 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-gop-jan-6.html">How Trump Kept Control of the G.O.P. After Jan. 6</a> NYT: Only weeks after instigating the Capitol riot, Donald Trump was back in command of the Republican Party. 
+ <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-gop-jan-6.html">How Trump Kept His Grip After Jan. 6</a> NYT: Only weeks after instigating the Capitol riot, Donald Trump was back in command of the Republican Party. 
  <p class="updated_time"> 06:03 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/abbott-texas-national-guard-vaccine-lawsuit/index.html">Texas Gov. Abbott sues Biden over requirement that National Guard be vaccinated</a> CNN: Texas Republican Gov. Greg Abbott sued President Joe Biden and other members of the administration on Tuesday over the requirement that members of the National Guard be vaccinated against Covid-19. 
  <p class="updated_time"> 05:54 PM CT, Jan. 04 </p> 
@@ -410,8 +410,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/agenda/2021/12/29/teachers-districts-hybrid-education-526214">‘I Feel Half as Successful’: Teachers Push to Ban Hybrid Instruction, But Districts Want to Keep It</a> Politico: Teachers want to ban teaching students in person and online at the same time. Some education leaders say it should be what the future looks like. 
  <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
- <p class="updated_time"> 08:22 PM CT, Dec. 28 </p> 
- <a href="https://www.politico.com/news/2021/12/28/harry-reid-nevada-senate-leader-obit-033261">Harry Reid, former Senate leader, dead at 82</a> Politico: The hard-nosed Nevada Democrat employed his blunt manner in leading Senate Democrats. 
 
 
 </details>
