@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:17 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakhstan Shuts Internet as Government Offices Burn in Protests</a> NYT: Anger sparked by a gas price increase in the resource-rich Central Asian nation has swelled despite concessions from the ruling party and a strict state of emergency. 
  <p class="updated_time"> 08:00 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59884038?at_medium=RSS&at_campaign=KARANGA">Australia could refuse Novak Djokovic entry over vaccine row - PM</a> BBC: The tennis player must prove that he cannot be jabbed for medical reasons, Australia's Prime Minister says. 
  <p class="updated_time"> 06:57 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/hong-kong-flights.html">Hong Kong Suspends Flights From Eight Countries, Fearing a Fifth Wave</a> NYT: The new measures will deepen the city’s isolation and mark a return to the tough restrictions from the early days of the pandemic as officials race to control Omicron. 
  <p class="updated_time"> 06:57 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/macron-france-life-miserable-unvaccinated.html">Macron Under Fire for Vowing to Make Unvaccinated Miserable</a> NYT: The president’s comments caused an uproar in Parliament as the government is trying to pass a bill to tighten the eligibility of France’s health pass, less than four months before the presidential election. 
- <p class="updated_time"> 06:46 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakhstan Shuts Internet as Government Offices Burn in Protests</a> NYT: Anger sparked by a gas price increase in the resource-rich Central Asian nation has swelled despite concessions from the ruling party and a strict state of emergency. 
  <p class="updated_time"> 06:16 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59879760?at_medium=RSS&at_campaign=KARANGA">Kosovo bans cryptocurrency mining after blackouts</a> BBC: The Balkan country is enforcing blackouts amid an electricity shortage caused by high global prices. 
  <p class="updated_time"> 06:08 AM CT, Jan. 05 </p> 
@@ -52,7 +52,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:10 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59876583?at_medium=RSS&at_campaign=KARANGA">US science teacher arrested for vaccinating 17-year-old student</a> BBC: Police say the teacher is not trained to give vaccines and gave the jab to the boy at her home. 
  <p class="updated_time"> 07:25 PM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070413311/cdc-test-covid-isolation-five-days">The CDC resists pushback and says a test to get out of COVID isolation is not needed</a> NPR: Those who contracted COVID-19 can end their isolation after five days while continuing to wear a well-fitting mask for an additional five days, according to the agency. 
+ <a href="https://www.npr.org/2022/01/04/1070413311/cdc-test-covid-isolation-five-days">The CDC says a test to get out of COVID isolation is not needed, resisting pushback</a> NPR: Those who contracted COVID-19 can end their isolation after five days while continuing to wear a well-fitting mask for an additional five days, according to the agency. 
  <p class="updated_time"> 07:02 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 06:17 PM CT, Jan. 04 </p> 
