@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:12 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/arts/yivo-institute-archives-yiddish-life-online.html">YIVO Institute Makes Archives of Yiddish Life Available Online</a> NYT: After a lengthy effort, artifacts from collections in Lithuania and New York that document Yiddish culture in Eastern Europe before World War II will be accessible to scholars and others. 
+ <p class="updated_time"> 02:10 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/europe/britain-extends-pardons-same-sex-partners.html">Britain Extends Pardons Policy for Consensual Same-Sex Partners</a> NYT: The government’s action expands earlier legislative efforts, but for some gay people it is too little, too late. “It impacted me my whole life,” one man said of his conviction. 
+ <p class="updated_time"> 02:10 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/europe/italy-female-statue-padua-prato-della-valle.html">Italy Proposal to Add Female Statue to Square of Men Stirs Debate</a> NYT: In Padua, Italy, a proposal to include a female philosopher in a monument whose 78 sculptures are all men has spurred debate. 
+ <p class="updated_time"> 02:06 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
  <p class="updated_time"> 01:59 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
  <p class="updated_time"> 01:51 PM CT, Jan. 05 </p> 
@@ -17,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59884038?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star's Australia entry delayed over visa row</a> BBC: The tennis player had been controversially exempted from vaccination rules for the Australian Open. 
  <p class="updated_time"> 01:39 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakh Protesters Burn Government Offices as Unrest Sweeps Country</a> NYT: An uprising sparked by a gas price increase in the resource-rich Central Asian nation has taken on a political dimension despite concessions from the ruling party. 
- <p class="updated_time"> 01:21 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/arts/yivo-institute-archives-yiddish-life-online.html">YIVO Institute Makes Archives of Yiddish Life Available Online</a> NYT: After a lengthy effort, artifacts from collections in Lithuania and New York that document Yiddish culture in Eastern Europe before World War II will be accessible to scholars and others. 
  <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
  <p class="updated_time"> 01:10 PM CT, Jan. 05 </p> 
@@ -33,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/05/1070046189/a-texas-team-comes-up-with-a-covid-vaccine-that-could-be-a-global-game-changer">A Texas team comes up with a COVID vaccine that could be a global game changer</a> NPR: Peter Hotez and Maria Elena Bottazzi used an oldie-but- goodie technology to devise a vaccine that's easy to make — and relatively cheap. India has already ordered 300 million doses. 
  <p class="updated_time"> 11:43 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/macron-france-life-miserable-unvaccinated.html">Macron Under Fire for Vowing to Make Unvaccinated Miserable</a> NYT: The French government is moving to bar unvaccinated people from eligibility for France’s health pass, with a presidential election looming. 
- <p class="updated_time"> 11:32 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/europe/italy-female-statue-padua-prato-della-valle.html">Italy Proposal to Add Female Statue to Square of Men Stirs Debate</a> NYT: In Padua, Italy, a proposal to include a female philosopher in a monument whose 78 sculptures are all men has spurred debate. 
  <p class="updated_time"> 11:28 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59885770?at_medium=RSS&at_campaign=KARANGA">Philadelphia fire: Seven children among 13 dead in apartment blaze</a> BBC: Two others are injured after a blaze rips through a three-storey public housing block. 
  <p class="updated_time"> 11:13 AM CT, Jan. 05 </p> 
@@ -165,16 +169,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/europe/april-ashley-dead.html">April Ashley, London Socialite and Transgender Pioneer, Dies at 86</a> NYT: She modeled for Vogue, partied with John Lennon and Mick Jagger, and married into minor nobility, all while fighting for legal recognition of her gender. 
  <p class="updated_time"> 01:53 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/europe/berkeley-balcony-collapse-death.html">Victim of Berkeley Balcony Collapse Dies in Ireland</a> NYT: Aoife Beary, who was left with life-changing injuries after the 2015 accident, died on New Year’s Day, her family said. 
- <p class="updated_time"> 01:52 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/africa/richard-leakey-dead.html">Richard Leakey, Kenyan Fossil Hunter and Conservationist, Dies at 77</a> NYT: His discoveries of ancient human skulls and skeletons, including the famed “Turkana Boy,” helped cement Africa’s standing as the cradle of humanity. 
  <p class="updated_time"> 09:13 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59833131?at_medium=RSS&at_campaign=KARANGA">Richard Leakey - fossil expert, conservationist and politician</a> BBC: The achievements of Richard Leakey, who has died aged 77, were as remarkable as they were diverse. 
  <p class="updated_time"> 09:05 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/asia/india-auction-muslim-women.html">Online ‘Auction’ Is Latest Attack on Muslim Women in India</a> NYT: The fake site, the second in months, is a sign of the organized nature of virtual bullying, with threats of sexualized violence aimed at silencing the outspoken. 
  <p class="updated_time"> 07:43 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/middleeast/tunisia-economy-kais-saied.html">Pressure Mounts on Tunisia’s President to Salvage the Economy</a> NYT: When President Kais Saied seized power in July, he vowed to rescue the failing economy. Tunisians are still waiting for him to fulfill that pledge. 
- <p class="updated_time"> 06:54 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/business/china-evergrande-shares-hong-kong.html">China Evergrande Suspends Trading Shares in Hong Kong</a> NYT: The world’s most indebted property developer provided no details on the suspension, but it suggested an announcement “containing inside information” would come soon. 
  <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/article/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
@@ -192,14 +192,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/ghislaine-maxwell-trial-juror-526548">Prosecutors alert Maxwell judge of juror's sex abuse claims</a> Politico: Prosecutors urged the judge who presided over the trial of Ghislaine Maxwell to conduct an inquiry into the juror's reported claims. 
  <p class="updated_time"> 02:25 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/white-house-teachers-union-covid-526547">Psaki: Schools can open safely 'including in Chicago'</a> Politico: “Long story short we want schools to be open, the president wants them to be open and we’re going to continue to use every resource and work to ensure that’s the case,” Psaki said. 
+ <p class="updated_time"> 02:20 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/cdc-fully-vaccinated-boosters.html">C.D.C. Sticks With ‘Fully Vaccinated’ Definition But Asks People to Stay ‘Up to Date’</a> NYT: The agency did not change the definition of what qualifies as full vaccination — a subject of intense interest to many. 
+ <p class="updated_time"> 02:15 PM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/doj-investigation-jan-6-insurrection/index.html">Biggest investigation in FBI history still has Garland in the hot seat </a> CNN: A year after the January 6 insurrection, the Justice Department continues to press forward on the biggest investigation in FBI history, with 700 people already arrested and hundreds more offenders still at large and several more years of prosecutions ahead. 
+ <p class="updated_time"> 02:13 PM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/merrick-garland-january-6-anniversary-speech/index.html">Garland to vow to hold January 6 perpetrators 'at any level, accountable under law'</a> CNN: Attorney General Merrick Garland will say in a speech Wednesday that the Justice Department "remains committed to holding all January 6th perpetrators, at any level, accountable under law -- whether they were present that day or were otherwise criminally responsible for the assault on our democracy," according to an excerpt from the Justice Department. 
+ <p class="updated_time"> 02:13 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/business/economy/federal-reserve-minutes-interest-rates.html">Fed Officials Discussed Raising Rates Sooner and Faster, Minutes Show</a> NYT: Minutes from the Federal Reserve’s December meeting show that officials are contemplating when and how quickly to lift interest rates. 
  <p class="updated_time"> 01:47 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/jan-6-protesters-run-for-office-526545">They stormed the Capitol. Now they’re running for office.</a> Politico: At least 57 individuals who played a role in the day’s events — including some who were arrested on charges related to the Capitol attack — are running for office in 2022. 
  <p class="updated_time"> 01:45 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/trump-cancels-press-conference-january-6/index.html">Trump cancels press conference on January 6 anniversary at urging of advisers</a> CNN: Former President Donald Trump abruptly canceled a news conference late Tuesday that he was scheduled to host at Mar-a-Lago on the anniversary of the January 6 insurrection, but which his allies had warned would cause unnecessary problems for Republicans and himself. 
- <p class="updated_time"> 01:37 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/business/economy/federal-reserve-minutes-interest-rates.html">Fed Officials Discussed Raising Rates Sooner and Faster, Minutes Show</a> NYT: Minutes from the Federal Reserve’s December meeting show that officials are contemplating when and how quickly to lift interest rates. 
- <p class="updated_time"> 01:37 PM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/merrick-garland-january-6-anniversary-speech/index.html">Garland to vow to hold January 6 perpetrators 'at any level, accountable under law'</a> CNN: Attorney General Merrick Garland will say in a speech Wednesday that the Justice Department "remains committed to holding all January 6th perpetrators, at any level, accountable under law -- whether they were present that day or were otherwise criminally responsible for the assault on our democracy," according to an excerpt from the Justice Department. 
  <p class="updated_time"> 01:22 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/jan-6-capitol-riot-lancaster-republicans/index.html">How January 6 changed what it means to be a Republican in one Pennsylvania county</a> CNN: The day after the January 6 attack on the US Capitol, three local Republican officials in Pennsylvania's Lancaster County announced they were leaving the GOP.  Among them was Ethan Demme, a lifelong conservative who had previously served as the youngest Republican Party chairman in this deeply red corner of southeast Pennsylvania.  
  <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
@@ -216,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/05/politics/green-village-attack-us-coalition-forces-iranian-militias/index.html">US-led coalition fires back after attack by suspected Iranian-backed militias in Syria</a> CNN: US-led coalition forces fired back after they were attacked Wednesday morning by suspected Iranian-backed militias who fired eight rounds of indirect fire at their base in eastern Syria near the Iraqi border, though there were no coalition casualties, according to a statement from the coalition. 
  <p class="updated_time"> 11:20 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/mcconnell-electoral-count-act-reform-526542">McConnell cracks door to Electoral Count Act reform</a> Politico: “It obviously has some flaws. And it is worth, I think, discussing,” the Senate minority leader said Wednesday. 
- <p class="updated_time"> 11:16 AM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/doj-investigation-jan-6-insurrection/index.html">Biggest investigation in FBI history still has Garland in the hot seat </a> CNN: A year after the January 6 insurrection, the Justice Department continues to press forward on the biggest investigation in FBI history, with 700 people already arrested and hundreds more offenders still at large and several more years of prosecutions ahead. 
  <p class="updated_time"> 11:13 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/republican-impeachment-votes-trump-jan-6.html">A Long, Hard Year for Republicans Who Voted to Impeach After Jan. 6</a> NYT: Ten House Republicans voted to charge President Donald J. Trump with inciting the Capitol attack. All of them are still struggling with the consequences. 
  <p class="updated_time"> 11:11 AM CT, Jan. 05 </p> 
@@ -352,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/rep-bobby-rush-wont-seek-reelection-526455">Bobby Rush to relinquish 30-year hold on House seat</a> Politico: The veteran Illinois congressman and former Black Panther leader said, “I’m not retiring … I’m just entering into a new level of my life.” 
  <p class="updated_time"> 06:05 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/bill-gardner-retires.html">New Hampshire's Secretary of State, Bill Gardner, Is Retiring</a> NYT: The official, Bill Gardner, a Democrat, has served as secretary of state in New Hampshire for more than four decades. 
- <p class="updated_time"> 05:25 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/senate-democrats-biden-agenda.html">Democrats Set Timetable to Change Rules for Stalled Voting Rights Bills</a> NYT: The top Senate Democrat said he would act by Jan. 17 to try to force through the measures if Republicans refused to drop their opposition. 
  <p class="updated_time"> 02:27 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/biden-meat-processing-industry/index.html">White House to invest $1 billion to boost competition in meat-processing industry and lower consumer prices</a> CNN: The White House on Monday announced it would allocate $1 billion in funding from the American Rescue Plan to independent meat and poultry producers as part of an effort to boost competition in the meat-processing industry and lower prices for consumers. 
  <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
