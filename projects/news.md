@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:10 AM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070478298/israel-sets-covid-19-record-as-rule-changes-create-whiplash">Israel sets COVID-19 record as rule changes create whiplash</a> NPR: The omicron variant is outpacing the government's ability to make and execute clear pandemic public policy. 
+ <p class="updated_time"> 04:08 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59876203?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australian Open vaccine exemption ignites backlash</a> BBC: It is a "disgrace" that Novak Djokovic can enter the country for the Australian Open, locals say. 
  <p class="updated_time"> 03:33 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070472805/xian-reacts-to-covid-lockdowns-with-outrage-and-humor">Xi'an reacts to COVID lockdowns with outrage and humor</a> NPR: Lockdowns are so strict and so prolonged in Chinese city that residents have taken to social media to complain and joke about a lack of basic supplies. 
- <p class="updated_time"> 03:23 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59876203?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australian Open vaccine exemption ignites backlash</a> BBC: It is "appalling" that Novak Djokovic can enter the country for the Australian Open, locals say. 
  <p class="updated_time"> 02:58 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea launches ballistic missile into sea</a> BBC: It comes after leader Kim Jong-un vowed to bolster the country's defence capabilities last month. 
  <p class="updated_time"> 02:46 AM CT, Jan. 05 </p> 
@@ -143,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/africa/richard-leakey-dead.html">Richard Leakey, Kenyan Fossil Hunter and Conservationist, Dies at 77</a> NYT: His discoveries of ancient human skulls and skeletons, including the famed “Turkana Boy,” helped cement Africa’s standing as the cradle of humanity. 
  <p class="updated_time"> 12:40 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/03/1069942305/sheep-goats-encourage-vaccination-germany">700 sheep and goats were arranged in the shape of a syringe to encourage vaccinations</a> NPR: A shepherd in Germany arranged her animals into a 330-foot syringe to encourage people to get vaccinated. 
- <p class="updated_time"> 11:34 AM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069933029/fire-reignites-at-south-africas-parliament-in-cape-town">Fire reignites at South Africa's Parliament in Cape Town</a> NPR: The fire started on Sunday and had been contained, but flared up again on Monday after firefighters had been sent home. A man was arrested in connection with the fire. 
  <p class="updated_time"> 10:59 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/abdalla-hamdok-resigns-sudan.html">Sudan’s Prime Minister, Abdalla Hamdok, Resigns</a> NYT: Mr. Hamdok was restored to power a month ago after being deposed in a coup, but he was never able to gain control of the fractious country. 
  <p class="updated_time"> 09:13 AM CT, Jan. 03 </p> 
@@ -184,6 +184,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:07 AM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070471317/the-supreme-court-to-hold-a-hearing-on-bidens-vaccine-and-testing-mandate">The Supreme Court to hold a hearing on Biden's vaccine and testing mandate</a> NPR: NPR's Rachel Martin talks to Karen Harned of the National Federation of Independent Business, about its opposition to OSHA's vaccine and testing requirements for private employers. 
+ <p class="updated_time"> 04:07 AM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070471284/sen-amy-klobuchar-remains-haunted-by-what-happened-on-jan-6">Sen. Amy Klobuchar remains haunted by what happened on Jan.6</a> NPR: NPR's Rachel Martin talks with Democratic Sen. Amy Klobuchar about the Jan. 6 attack on the U.S. Capitol, and the latest on the investigation and action by Congress. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070418884/a-year-after-the-capitol-riot-work-remains-to-safeguard-it-from-another-attack">A year after the Capitol riot, work remains to safeguard it from another attack</a> NPR: The Jan. 6 siege led to a transformation of security for the citadel of democracy and members of Congress. But many say plenty of work remains to ensure another attack never happens again. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1069977469/a-timeline-of-how-the-jan-6-attack-unfolded-including-who-said-what-and-when">A timeline of how the Jan. 6 attack unfolded — including who said what and when</a> NPR: This week marks the one year anniversary of the insurrection at the U.S. Capitol. Here's a timeline of how the day unfolded. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/upshot/biden-child-tax-credit.html">Why Biden’s Expanded Child Tax Credit Isn’t More Popular</a> NYT: The expansion has expired, and a bill to renew it has stalled. Public opinion is favorable but not overwhelmingly so, for several reasons. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/capitol-police-january-6.html">Capitol Police Chief to Commit to Steps for Improvement</a> NYT: Chief J. Thomas Manger, head of an agency still reeling from Jan. 6, plans to tell lawmakers he is already addressing most of the 103 recommendations from an internal watchdog. 
  <p class="updated_time"> 02:00 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/jan-6-capitol-riot-investigation.html">Prosecutors Move Quickly on Jan. 6 Cases, but Big Questions Remain</a> NYT: In the year since the assault on the Capitol by a pro-Trump mob, more than 700 people have been arrested, with little public indication from the Justice Department of how high the investigation might reach. 
  <p class="updated_time"> 11:37 PM CT, Jan. 04 </p> 
@@ -314,16 +326,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/amazon-google-thwart-antitrust-bills-526460">Amazon and Google deploy their armies to thwart antitrust bills</a> Politico: Small businesses that rely on the tech giants are signing petitions and joining Zoom calls with lawmakers to warn against legislation aimed at promoting competition. 
  <p class="updated_time"> 04:00 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/magazine/jan-6-capitol-police-officers.html">The Capitol Police and the Scars of the January 6th Riot</a> NYT: For many officers, their bodies, minds and lives will never be the same after the attack. 
- <p class="updated_time"> 12:52 AM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070102820/teachers-are-on-the-front-lines-in-jan-6-culture-war">Teachers are on the front lines in Jan. 6 culture war</a> NPR: Teachers now are left to decide how — or whether — to instruct their students about the events that sit at the heart of the country's division. 
  <p class="updated_time"> 11:03 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/first-amendment-praetorian-trump-jan-6.html">Another Far-Right Group Is Scrutinized About Its Efforts to Aid Trump</a> NYT: The organization, called 1st Amendment Praetorian, is not as well known as the Oath Keepers or the Proud Boys, but it worked closely with pro-Trump forces in the months after the 2020 election. 
  <p class="updated_time"> 09:41 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/bobby-rush-retire.html">Representative Bobby Rush, Longtime Illinois Democrat, Will Retire</a> NYT: The decision by the pastor and civil rights activist added to a wave of Democrats deciding not to run for re-election in a difficult midterm cycle. 
  <p class="updated_time"> 08:41 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/rep-bobby-rush-wont-seek-reelection-526455">Bobby Rush to relinquish 30-year hold on House seat</a> Politico: The veteran Illinois congressman and former Black Panther leader said, “I’m not retiring … I’m just entering into a new level of my life.” 
- <p class="updated_time"> 08:15 PM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1070037412/covid-congress-house-senate-omicron">Congress' doctor urges lawmakers to work remotely and upgrade masks as omicron rages</a> NPR: The move follows an unprecedented spike in positivity rates in the Capitol and mirrors record-high infection rates throughout Washington D.C., driven by the highly contagious omicron variant. 
  <p class="updated_time"> 06:42 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/ivanka-donald-trump-jr-subpoena/index.html">Trumps move to quash subpoenas for their testimony in civil investigation</a> CNN: The New York attorney general's office has subpoenaed two of former President Donald Trump's children for testimony as part of its civil investigation into whether the Trump Organization manipulated the values of its properties. 
  <p class="updated_time"> 06:05 PM CT, Jan. 03 </p> 
@@ -336,16 +344,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/business/economy/inflation-democrats-corporations.html">Democrats Blast Corporate Profits as Inflation Surges</a> NYT: Politicians are placing more blame on greedy companies as prices stay high. But booming consumer demand is enabling firms to charge more. 
  <p class="updated_time"> 04:13 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/technology/facebook-marjorie-taylor-greene.html">Facebook Suspends Marjorie Taylor Greene’s Account for 24 hours</a> NYT: Twitter permanently banned her account on Sunday after what the company said was her fifth “strike.” 
- <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069983228/during-the-jan-6-riot-chaos-lawmakers-called-on-military-and-intelligence-traini">During the Jan. 6 riot chaos, lawmakers called on military and intelligence training</a> NPR: Representatives Abigail Spanberger, D-Va., and Jason Crow, D-Colo., reflect on the ways their military and intelligence training aided them during the Jan. 6 insurrection at the U.S. Capitol. 
- <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069983200/millions-sympathize-with-the-rioters-who-attacked-the-capitol-on-jan-6-survey-fi">Millions sympathize with the rioters who attacked the Capitol on Jan. 6, survey finds</a> NPR: As the U.S. nears the anniversary of a pro-Trump mob's attack at the Capitol, a survey finds widespread community support for violent insurrection that it calls a new political movement in the U.S. 
  <p class="updated_time"> 02:27 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/biden-meat-processing-industry/index.html">White House to invest $1 billion to boost competition in meat-processing industry and lower consumer prices</a> CNN: The White House on Monday announced it would allocate $1 billion in funding from the American Rescue Plan to independent meat and poultry producers as part of an effort to boost competition in the meat-processing industry and lower prices for consumers. 
  <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/marjorie-taylor-greene-facebook-suspension-526398">MTG hit with Facebook suspension after Twitter ban</a> Politico: “Facebook has joined Twitter in censoring me,” Greene (R-Ga.) wrote on Gettr, a social media platform favored by some right-wing conservatives. 
- <p class="updated_time"> 12:51 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/trump-endorses-viktor-orban-hungary.html">Trump Endorses Viktor Orban, Hungary’s Far-Right Prime Minister</a> NYT: Democracy in Hungary has been backsliding under Mr. Orban, whose efforts to consolidate power have caused consternation in the European Union. 
  <p class="updated_time"> 11:23 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/capitol-police-union-private-security-proposal-526395">Capitol Police union douses private security proposal</a> Politico: “We need to hire more officers — period. The last thing we need are private security contractors who are not trained to our standards,” the chair of the union said in a statement sent to POLITICO. 
  <p class="updated_time"> 10:48 AM CT, Jan. 03 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/january-6-capitol-riot-house-democrats-525975">‘It’s only gotten worse’: The long shadow of the night that broke the House</a> Politico: For most Democrats, the biggest affront wasn’t even the violence by Donald Trump’s supporters. It was the votes more than 140 of their GOP colleagues took afterward. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/could-january-6th-happen-again-526167">Could Jan. 6 happen again?</a> Politico: The Capitol Police has made progress under a new chief. But many on the Hill don't have an easy answer. 
- <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/supreme-court-death-penalty-intellectual-disability.html">Language Mistake in Georgia Death Penalty Law Creates a Daunting Hurdle</a> NYT: The Supreme Court will decide whether to hear a challenge to the law, which requires that defendants in capital cases who are intellectually disabled prove it “beyond a reasonable doubt” — a phrase that was inserted in error. 
  <p class="updated_time"> 09:13 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/harry-reid-to-lie-in-state-in-capitol-rotunda-526381">Harry Reid to lie in state in Capitol Rotunda</a> Politico: The former Senate majority leader died last Tuesday. 
  <p class="updated_time"> 08:52 PM CT, Jan. 02 </p> 
