@@ -7,12 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:51 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Launches Ballistic Missile, the South Says</a> NYT: The North last conducted a test in October, when it fired a newly developed submarine-launched ballistic missile. 
+ <p class="updated_time"> 07:33 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59873833?at_medium=RSS&at_campaign=KARANGA">Covid: President Macron warns he will 'hassle' France's unvaccinated</a> BBC: The president vows to make life difficult for the unjabbed, but opponents condemn his strong language. 
+ <p class="updated_time"> 07:27 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea launches 'unidentified projectile' into sea</a> BBC: South Korean and Japanese officials spot Pyongyang's first launch in 2022, but details are unclear. 
+ <p class="updated_time"> 07:25 PM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1070413311/cdc-test-covid-isolation-five-days">The CDC resists pushback and says a test to get out of COVID isolation is not needed</a> NPR: Those who contracted COVID-19 can end their isolation after five days while continuing to wear a well-fitting mask for an additional five days, according to the agency. 
+ <p class="updated_time"> 07:09 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/europe/kazakhstan-emergency-protests-fuel.html">Kazakhstan Declares State of Emergency as Protests Over Fuel Prices Spread</a> NYT: In a rare show of dissent in the authoritarian country, thousands took to the street as gas prices doubled. The government responded with curfews and tear gas. 
+ <p class="updated_time"> 07:02 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 06:17 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59876423?at_medium=RSS&at_campaign=KARANGA">Snowbound in Virginia traffic for over 10 hours</a> BBC: One passenger's harrowing journey after heavy snowfall paralysed miles of highway in Virginia. 
  <p class="updated_time"> 06:09 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59835675?at_medium=RSS&at_campaign=KARANGA">Omicron: Curfew in Delhi as India Covid cases surge</a> BBC: A weekend curfew is imposed and doctors' leave cancelled as the chief minister tests positive. 
- <p class="updated_time"> 06:06 PM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59873833?at_medium=RSS&at_campaign=KARANGA">Covid: President Macron warns he will 'hassle' France's unvaccinated</a> BBC: The French president vows to make life difficult for the unjabbed, but MPs delay a bill on Covid passes. 
  <p class="updated_time"> 06:01 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59731622?at_medium=RSS&at_campaign=KARANGA">Gandikota: The stunning Indian gorge that resembles the Grand Canyon</a> BBC: The Gandikota gorge in southern India is believed to be nearly 100,000 years old. 
  <p class="updated_time"> 06:01 PM CT, Jan. 04 </p> 
@@ -23,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59867536?at_medium=RSS&at_campaign=KARANGA">US reports 1m daily Covid cases with peak to come</a> BBC: Omicron drives a record-breaking daily tally of new US cases, though deaths remain stable. 
  <p class="updated_time"> 05:30 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: State of emergency declared after fuel protests</a> BBC: President Kassym-Jomart Tokayev declares a two-week state of emergency including curbs on movement. 
- <p class="updated_time"> 05:23 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 04:56 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59873830?at_medium=RSS&at_campaign=KARANGA">Jovenel Moïse murder: US charges Colombian man over assassination</a> BBC: US authorities accuse an ex-military officer of involvement in the death of President Jovenel Moïse. 
  <p class="updated_time"> 04:17 PM CT, Jan. 04 </p> 
@@ -49,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070297325/france-car-ads-climate">Car ads in France will soon have to encourage more environmentally friendly travel</a> NPR: The automakers' ads will suggest people consider carpooling or cycling instead of driving. The new rules, beginning in March, come as the country is trying to cut down on its carbon emissions. 
  <p class="updated_time"> 02:31 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59833123?at_medium=RSS&at_campaign=KARANGA">Canada reaches $31bn deal in indigenous child welfare case</a> BBC: The deal will end a lengthy legal battle over compensation between indigenous communities and Canada. 
+ <p class="updated_time"> 02:23 PM CT, Jan. 04 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-fires-projectile-off-its-east-coast-11641344771">North Korea Fires Missile Off Its East Coast</a> WSJ: The launch comes days after North Korean leader Kim Jong Un vowed to pursue high-tech weapons to counter what he called military instability on the Korean Peninsula. 
  <p class="updated_time"> 01:23 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/ireland-alcohol-minimum-unit-price.html">Ireland Puts Minimum Price on Alcohol to Curb Binge Drinking</a> NYT: The new rule, part of broader legislation aimed at stemming alcohol-related illnesses, sets a minimum price of one euro per standard drink and came into effect on Tuesday. 
  <p class="updated_time"> 01:21 PM CT, Jan. 04 </p> 
@@ -65,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59871779?at_medium=RSS&at_campaign=KARANGA">Europe's tattoo artists fear for future after EU ink ban</a> BBC: Thousands of chemicals are banned by EU for safety reasons, but tattooists say it will hit business. 
  <p class="updated_time"> 11:25 AM CT, Jan. 04 </p> 
  <a href="https://www.wsj.com/articles/u-s-prevails-over-canada-in-dairy-dispute-11641318427">U.S. Prevails Over Canada in Dairy Dispute Under New Trade Deal</a> WSJ: Canada has until Feb. 3 to comply with the U.S.-Mexico-Canada Agreement or the U.S. could begin the process of initiating tariffs or other countermeasures. 
- <p class="updated_time"> 11:09 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59866553?at_medium=RSS&at_campaign=KARANGA">South Africa parliament fire suspect had explosives - prosecutor</a> BBC: A man who allegedly set fire to the Cape Town building was caught with explosives, prosecutors say. 
  <p class="updated_time"> 10:48 AM CT, Jan. 04 </p> 
  <a href="https://www.wsj.com/articles/canada-reaches-15-billion-settlement-with-indigenous-peoples-11641326167">Canada Reaches $15 Billion Settlement With Indigenous Peoples</a> WSJ: The compensation is to be paid to indigenous children placed in a child-welfare system that a quasi-judicial body ruled violated human rights 
  <p class="updated_time"> 10:33 AM CT, Jan. 04 </p> 
@@ -135,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/02/world/africa/abdalla-hamdok-resigns-sudan.html">Sudan’s Prime Minister, Abdalla Hamdok, Resigns</a> NYT: Mr. Hamdok was restored to power a month ago after being deposed in a coup, but he was never able to gain control of the fractious country. 
  <p class="updated_time"> 10:21 AM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069888035/famed-fossil-hunter-and-conservationist-richard-leakey-dies-at-77">Famed fossil hunter and conservationist Richard Leakey dies at 77</a> NPR: Leakey made important contributions to our understanding of human origins through his fossil finds. He later gained fame for taking on poachers who threatened to wipe out Kenya's elephants and rhinos. 
- <p class="updated_time"> 09:39 AM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/01/03/1059018377/photos-poland-belarus-border-migrants-volunteers">This photographer captured how activists helped migrants at the Poland-Belarus border</a> NPR: Polish-based photographer Kasia Strek documented what it was like for migrants and people in Poland as the crisis evolved at the border in November. 
  <p class="updated_time"> 09:13 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59833131?at_medium=RSS&at_campaign=KARANGA">Richard Leakey - fossil expert, conservationist and politician</a> BBC: The achievements of Richard Leakey, who has died aged 77, were as remarkable as they were diverse. 
  <p class="updated_time"> 09:05 AM CT, Jan. 03 </p> 
@@ -169,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/stories-59566983?at_medium=RSS&at_campaign=KARANGA">In the footsteps of the women who escaped a Nazi death march</a> BBC: When Gwen Strauss' great-aunt revealed she had led nine women in an escape from a Nazi death march in 1945, Gwen decided to retrace their steps. 
  <p class="updated_time"> 06:05 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59703681?at_medium=RSS&at_campaign=KARANGA">Letter from Africa: Africa plays on in 2022 without its great referee</a> BBC: Joseph Warungu looks at what is in store for the African continent this coming year. 
- <p class="updated_time"> 11:16 AM CT, Jan. 01 </p> 
- <a href="https://www.nytimes.com/2022/01/01/world/europe/pontifical-oriental-institute-digital-texts.html">A Vatican Library Shortens the Distance Between Its Works and Its Scholars</a> NYT: Rare books in Rome are going online thanks to a German copier, a Long Island scanning firm and a New York software company. 
 
 
 </details>
@@ -178,26 +182,34 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:02 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/capitol-security-reforms-jan-6-anniversary-526519">Capitol security officials present list of reforms ahead of Jan. 6 anniversary</a> Politico: The changes touch on every aspect of the Capitol Police’s work. 
  <p class="updated_time"> 07:31 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/north-south-korea-missiles-526526">North Korea fires suspected missile into sea</a> Politico: It was the first such launch in about two months in the always tense region. 
+ <p class="updated_time"> 07:28 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/january-6-committee-sean-hannity/index.html">January 6 committee releases texts between Hannity and Trump White House</a> CNN: The House committee investigating the January 6 Capitol Hill insurrection intends to ask Fox News anchor Sean Hannity to talk to the committee about his interactions with the White House and then-President Donald Trump regarding the 2020 election and the attack on the US Capitol, three sources tell CNN. 
+ <p class="updated_time"> 07:13 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-jan-6-capitol-attack-anniversary.html">Donald Trump Cancels Jan. 6 Event, After Allies Consider It a Distraction</a> NYT: A Mar-a-Lago news conference on the anniversary of the assault on the Capitol struck Republicans, including some advisers to the former president, as a bad idea. 
  <p class="updated_time"> 07:11 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/biden-nevada-harry-reid-funeral-526520">Biden will travel to Nevada for Harry Reid’s funeral</a> Politico: The service is scheduled for Saturday morning at the Smith Center in downtown Las Vegas. 
+ <p class="updated_time"> 06:49 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/mike-pence-january-6-committee/index.html">January 6 committee chairman wants to speak directly with Mike Pence</a> CNN: Rep. Bennie Thompson, chairman of select committee investigating the January 6 insurrection, wants to hear directly from then-Vice President Mike Pence, who certified the 2020 presidential election despite an extensive pressure campaign led by former President Donald Trump and his allies to halt the process. 
+ <p class="updated_time"> 06:48 PM CT, Jan. 04 </p> 
+ <a href="https://www.npr.org/2022/01/04/1070408567/house-jan-6-committee-seeks-to-question-fox-news-sean-hannity-about-capitol-riot">House Jan. 6 committee seeks to question Fox News' Sean Hannity about the Capitol riot</a> NPR: In its request to speak with Hannity, the panel disclosed newly revealed texts he allegedly sent, including one on Jan. 5 that said: "[I'm] very worried about the next 48 hours." 
  <p class="updated_time"> 06:45 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/biden-white-house-omicron-plan-526516">White House embraces a manage-not-contain Omicron game plan</a> Politico: The president is under immense pressure to keep some semblance of social normalcy amid a pandemic that is absolutely roaring. 
  <p class="updated_time"> 06:10 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-gop-jan-6.html">How Trump Kept Control of the G.O.P. After Jan. 6</a> NYT: Only weeks after instigating the Capitol riot, Donald Trump was back in command of the Republican Party. 
- <p class="updated_time"> 05:55 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/january-6-committee-sean-hannity/index.html">January 6 committee releases texts between Hannity and Trump White House</a> CNN: The House committee investigating the January 6 Capitol Hill insurrection intends to ask Fox News anchor Sean Hannity to talk to the committee about his interactions with the White House and then-President Donald Trump regarding the 2020 election and the attack on the US Capitol, three sources tell CNN. 
+ <p class="updated_time"> 06:03 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/abbott-texas-national-guard-vaccine-lawsuit/index.html">Texas Gov. Abbott sues Biden over requirement that National Guard be vaccinated</a> CNN: Texas Republican Gov. Greg Abbott sued President Joe Biden and other members of the administration on Tuesday over the requirement that members of the National Guard be vaccinated against Covid-19. 
  <p class="updated_time"> 05:54 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/sean-hannity-dissuade-trump-january-6-526508">Sean Hannity tried to dissuade Trump from Jan. 6 strategy, texts show</a> Politico: “I do NOT see January 6 happening the way he is being told,” the Fox News host said of Trump’s efforts in a Dec. 31, 2020 text. 
  <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/cdc-doubles-down-quarantine-guidelines-526501">CDC recommits to isolation and quarantine guidelines without tests</a> Politico: The recent guidance, updated Dec. 29, said individuals who test positive for Covid-19 and whose symptoms are resolving need only isolate for five days as long as they continue to wear masks for an additional five days. 
  <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/omicron-variant-covid-19-what-matters/index.html">Analysis: America charts confusing path forward as Omicron rages on</a> CNN: The Omicron variant's rapid spread has pushed the US into another confusing pandemic moment as Americans try to strike a responsible balance between evolving public health guidance and their personal risk tolerance. 
+ <a href="https://www.cnn.com/2022/01/04/politics/omicron-variant-covid-19-what-matters/index.html">Analysis: Omicron pushes Americans into a confusing spot</a> CNN: The Omicron variant's rapid spread has pushed the US into another confusing pandemic moment as Americans try to strike a responsible balance between evolving public health guidance and their personal risk tolerance. 
  <p class="updated_time"> 05:12 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/fact-check-capitol-insurrection-january-6-lies/index.html">Fact check: Five enduring lies about the Capitol insurrection</a> CNN: The Capitol insurrection was based on a lie about the 2020 election. And for a whole year now, the insurrection itself has been lied about. 
- <p class="updated_time"> 05:10 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/mike-pence-january-6-committee/index.html">January 6 committee chairman wants to speak directly with Mike Pence</a> CNN: Rep. Bennie Thompson, chairman of select committee investigating the January 6 insurrection, wants to hear directly from then-Vice President Mike Pence, who certified the 2020 presidential election despite an extensive pressure campaign led by former President Donald Trump and his allies to halt the process. 
  <p class="updated_time"> 04:21 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/trump-lawsuits-metro-capitol-police/index.html">Trump hit with two new lawsuits from police officers attacked by rioters on Jan. 6</a> CNN: Former President Donald Trump was hit with two new federal lawsuits Tuesday from law enforcement officers who were at the US Capitol on January 6 and who allege that Trump directed the assault that left them injured and emotionally traumatized. 
  <p class="updated_time"> 04:19 PM CT, Jan. 04 </p> 
@@ -317,15 +329,11 @@ permalink: /projects/news/
  <p class="updated_time"> 04:13 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/technology/facebook-marjorie-taylor-greene.html">Facebook Suspends Marjorie Taylor Greene’s Account for 24 hours</a> NYT: Twitter permanently banned her account on Sunday after what the company said was her fifth “strike.” 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/eric-adams-teachers-union-nyc/index.html">'We're staying open': Adams bucks teacher's union request days into new administration</a> CNN: Eric Adams has started his tenure as New York City mayor by rejecting a request from the city's largest teachers' union to temporarily move public schools to remote learning, capping off a frenetic first 72 hours of his administration. 
- <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069983228/during-the-jan-6-riot-chaos-lawmakers-called-on-military-and-intelligence-traini">During the Jan. 6 riot chaos, lawmakers called on military and intelligence training</a> NPR: Representatives Abigail Spanberger, D-Va., and Jason Crow, D-Colo., reflect on the ways their military and intelligence training aided them during the Jan. 6 insurrection at the U.S. Capitol. 
  <p class="updated_time"> 03:35 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/2022/01/03/1069983200/millions-sympathize-with-the-rioters-who-attacked-the-capitol-on-jan-6-survey-fi">Millions sympathize with the rioters who attacked the Capitol on Jan. 6, survey finds</a> NPR: As the U.S. nears the anniversary of a pro-Trump mob's attack at the Capitol, a survey finds widespread community support for violent insurrection that it calls a new political movement in the U.S. 
  <p class="updated_time"> 02:27 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/biden-meat-processing-industry/index.html">White House to invest $1 billion to boost competition in meat-processing industry and lower consumer prices</a> CNN: The White House on Monday announced it would allocate $1 billion in funding from the American Rescue Plan to independent meat and poultry producers as part of an effort to boost competition in the meat-processing industry and lower prices for consumers. 
- <p class="updated_time"> 02:21 PM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069970063/new-hampshires-longtime-guardian-of-its-early-presidential-primary-is-stepping-d">New Hampshire's longtime guardian of its early presidential primary is stepping down</a> NPR: Secretary of State William Gardner, who earned a national reputation as gatekeeper of New Hampshire's first-in-the-nation presidential primary, has held the office since 1976. 
  <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/marjorie-taylor-greene-facebook-suspension-526398">MTG hit with Facebook suspension after Twitter ban</a> Politico: “Facebook has joined Twitter in censoring me,” Greene (R-Ga.) wrote on Gettr, a social media platform favored by some right-wing conservatives. 
  <p class="updated_time"> 12:51 PM CT, Jan. 03 </p> 
@@ -378,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/02/politics/miguel-cardona-warns-school-reopening-covid-surge/index.html">US education secretary warns of 'bumps in the road' as schools reopen amid Covid surge</a> CNN: There will be "bumps in the road" as schools attempt to reopen in the new year amid a record surge in Covid-19 cases, US Education Secretary Miguel Cardona said Sunday. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
- <p class="updated_time"> 04:00 AM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/us/politics/stacey-abrams-georgia-democrats.html">Left and Center-Left Both Claim Stacey Abrams. Who’s Right?</a> NYT: Ms. Abrams, the Georgia Democrat running for governor, has admirers in both wings of her party — and Republicans eager to defeat her. Her carefully calibrated strategy faces a test in 2022. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
  <p class="updated_time"> 09:43 AM CT, Jan. 01 </p> 
