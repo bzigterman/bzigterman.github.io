@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:06 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakh Protesters Burn Government Offices as Unrest Sweeps Country</a> NYT: An uprising sparked by a gas price increase in the resource-rich Central Asian nation has taken on a political dimension despite concessions from the ruling party. 
  <p class="updated_time"> 02:58 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/americas/rio-carnival-covid.html">Rio Carnival's Street Parties Are Canceled, Mayor Says</a> NYT: As the Omicron variant sweeps the globe, the parties in Rio de Janeiro, which ordinarily draw millions of revelers, have been called off for a second year. 
  <p class="updated_time"> 02:52 PM CT, Jan. 05 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/europe/germany-legalize-recreational-marijuana.html">German Start-Ups Lay the Groundwork for a Marijuana Bonanza</a> NYT: Two of the three parties in Germany’s new governing coalition support legalization, a potentially radical shift in the conservative country. 
  <p class="updated_time"> 01:49 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Staff flee as protesters enter airport</a> BBC: Demonstrations sparked by rising fuel prices escalate, despite a state of emergency in some areas. 
- <p class="updated_time"> 01:39 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakh Protesters Burn Government Offices as Unrest Sweeps Country</a> NYT: An uprising sparked by a gas price increase in the resource-rich Central Asian nation has taken on a political dimension despite concessions from the ruling party. 
  <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
  <p class="updated_time"> 01:10 PM CT, Jan. 05 </p> 
@@ -41,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/asia/india-omicron-coronavirus.html">India’s Rising Omicron Wave Brings a Grim Sense of Déjà Vu</a> NYT: Just months after Delta fueled hospital failures and funeral pyres, India’s leaders again offer a mixed message: Their political rallies are packed even as they order curfews and work closures. 
  <p class="updated_time"> 11:47 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/05/1070046189/a-texas-team-comes-up-with-a-covid-vaccine-that-could-be-a-global-game-changer">A Texas team comes up with a COVID vaccine that could be a global game changer</a> NPR: Peter Hotez and Maria Elena Bottazzi used an oldie-but- goodie technology to devise a vaccine that's easy to make — and relatively cheap. India has already ordered 300 million doses. 
- <p class="updated_time"> 11:43 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/macron-france-life-miserable-unvaccinated.html">Macron Under Fire for Vowing to Make Unvaccinated Miserable</a> NYT: The French government is moving to bar unvaccinated people from eligibility for France’s health pass, with a presidential election looming. 
  <p class="updated_time"> 11:28 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59885770?at_medium=RSS&at_campaign=KARANGA">Philadelphia fire: Seven children among 13 dead in apartment blaze</a> BBC: Two others are injured after a blaze rips through a three-storey public housing block. 
  <p class="updated_time"> 11:13 AM CT, Jan. 05 </p> 
@@ -55,22 +53,22 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070573184/france-emmanuel-macron-covid-unvaccinated-remarks">France's Macron takes heat after saying he wants to 'piss off' the unvaccinated</a> NPR: The French president made the remarks to a newspaper on Tuesday, causing opposition lawmakers to call a halt to debate on a new nationwide mandate. 
  <p class="updated_time"> 10:14 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070539543/australia-djokovic-vaccine-exemption">Australian P.M. says Djokovic will be turned back if his vaccine exemption is bogus</a> NPR: "If he's not vaccinated, he must provide acceptable proof that he cannot be vaccinated for medical reasons," Prime Minister Scott Morrison said of the top-ranked tennis player. 
+ <p class="updated_time"> 10:06 AM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/tony-blairs-knighthood-sparks-protest-petition-over-iraq-war-11641405027">Tony Blair's Knighthood Sparks Protest Petition Over Iraq War</a> WSJ: An effort to strip the former British prime minister of the honor has garnered more than 700,000 signatures. 
+ <p class="updated_time"> 10:03 AM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/kazakhstans-government-resigns-amid-unrest-over-fuel-prices-11641386544">Kazakhstan's Government Resigns Amid Unrest Over Fuel Prices</a> WSJ: The country’s president imposed a state of emergency as he faces a crisis that threatens to destabilize the oil-rich former Soviet republic. 
  <p class="updated_time"> 10:00 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/technology/china-tech-internet-crackdown-layoffs.html">As Beijing Takes Control, Chinese Tech Companies Lose Jobs and Hope</a> NYT: The crackdown is killing the entrepreneurial drive that made China a tech power and destroying jobs that used to attract the country’s brightest. 
  <p class="updated_time"> 09:58 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59884801?at_medium=RSS&at_campaign=KARANGA">Pope Francis says choosing pets over kids is selfish</a> BBC: Pope Francis has said that those who choose to have pets over children show "a form of selfishness". 
  <p class="updated_time"> 09:48 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/05/1070546748/hong-kong-flight-ban">Hong Kong bans flights from U.S. and 7 other countries as omicron surges</a> NPR: Hong Kong authorities announced a two-week ban on flights from eight countries and held 2,500 passengers on a cruise ship for coronavirus testing as the city attempted to stem an omicron outbreak. 
- <p class="updated_time"> 09:30 AM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/kazakhstans-government-resigns-amid-unrest-over-fuel-prices-11641386544">Kazakhstan's Government Resigns Amid Unrest Over Fuel Prices</a> WSJ: The country’s president imposed a state of emergency as he faces a crisis that threatens to destabilize the oil-rich former Soviet republic. 
  <p class="updated_time"> 08:55 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/covid-variant-france.html">W.H.O. Downplays Threat From New Virus Variant in France</a> NYT: The so-called I.H.U. variant contains numerous mutations of the coronavirus, but experts say it has shown little sign of spreading so far. 
  <p class="updated_time"> 08:24 AM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/records-could-shed-light-on-canada-residential-schools-for-indigenous-children-11641401061">Records Could Shed Light on Canada Schools for Indigenous Children</a> WSJ: The government came under increased pressure to turn over the documents after the discovery last year of more than 1,000 unmarked graves near former residential schools in western Canada. 
  <p class="updated_time"> 06:57 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/hong-kong-flights.html">Hong Kong Suspends Flights From Eight Countries, Fearing a Fifth Wave</a> NYT: The new measures will deepen the city’s isolation and mark a return to the tough restrictions from the early days of the pandemic, as officials race to contain the Omicron variant. 
- <p class="updated_time"> 06:50 AM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/tony-blairs-knighthood-sparks-protest-petition-over-iraq-war-11641405027">Tony Blair's Knighthood Sparks Protest Petition Over Iraq War</a> WSJ: An effort to strip the former British prime minister of the honor has garnered more than 700,000 signatures. 
  <p class="updated_time"> 06:16 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59879760?at_medium=RSS&at_campaign=KARANGA">Kosovo bans cryptocurrency mining after blackouts</a> BBC: The Balkan country is enforcing blackouts amid an electricity shortage caused by high global prices. 
  <p class="updated_time"> 06:04 AM CT, Jan. 05 </p> 
@@ -188,6 +186,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:13 PM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070362852/trump-big-lie-election-jan-6-families">They believe in Trump's 'Big Lie.' Here's why it's been so hard to dispel</a> NPR: The resilience of the "Big Lie" is prompting consternation and creative efforts to reach those who remain adamant — despite all evidence to the contrary — that the 2020 Presidential vote was rigged. 
+ <p class="updated_time"> 03:12 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/capitol-police-january-6.html">Capitol Police Chief Commits to Security Improvements</a> NYT: Chief J. Thomas Manger, the head of an agency still reeling from the Jan. 6 attack, told lawmakers he was already addressing most of the 103 recommendations from an internal watchdog. 
+ <p class="updated_time"> 03:10 PM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/capitol-riot-perretta-vukich/index.html">'This wasn't Bill and Ted's Excellent Adventure': Judge sentences pair of Capitol rioters to 30 days behind bars</a> CNN: Two friends who entered the US Capitol together on January 6, one of whom boasted about breaking in and smoking a joint, were sentenced to 30 days in jail each for unlawfully parading in the building. 
+ <p class="updated_time"> 03:08 PM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/merrick-garland-january-6-anniversary-speech/index.html">Merrick Garland on Capitol attack: 'The actions we have taken thus far will not be our last'</a> CNN: Attorney General Merrick Garland will say in a speech Wednesday that the Justice Department "remains committed to holding all January 6th perpetrators, at any level, accountable under law -- whether they were present that day or were otherwise criminally responsible for the assault on our democracy," according to an excerpt from the Justice Department. 
+ <p class="updated_time"> 03:07 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/merrick-garland-jan-6-investigation.html">Merrick Garland Vows to Pursue Jan. 6 Inquiry ‘at Any Level’</a> NYT: The remarks came as Merrick B. Garland faces pressure from Democrats to more aggressively investigate any role that Donald J. Trump and his allies may have played in encouraging the violence. 
+ <p class="updated_time"> 03:03 PM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/blinken-russia-two-paths/index.html">Blinken says Russia faces 'two paths' ahead of key meetings with US next week</a> CNN: US Secretary of State Antony Blinken stressed Wednesday that Russia must de-escalate tensions on the border with Ukraine in order for upcoming diplomatic meetings to succeed, saying "it's very hard to make actual progress in any of these areas in an atmosphere of escalation and threat, with a gun pointed at Ukraine's head." 
  <p class="updated_time"> 02:52 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/green-village-attack-us-coalition-forces-iranian-militias/index.html">Iraqi and Syrian bases holding US troops attacked, but no American forces were killed </a> CNN: US-led coalition forces fired back after they were attacked Wednesday morning by suspected Iranian-backed militias who fired eight rounds of indirect fire at their base in eastern Syria near the Iraqi border, though there were no coalition casualties, according to a statement from the coalition. 
  <p class="updated_time"> 02:42 PM CT, Jan. 05 </p> 
@@ -197,11 +207,9 @@ permalink: /projects/news/
  <p class="updated_time"> 02:27 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/ghislaine-maxwell-trial-juror-526548">Prosecutors alert Maxwell judge of juror's sex abuse claims</a> Politico: Prosecutors urged the judge who presided over the trial of Ghislaine Maxwell to conduct an inquiry into the juror's reported claims. 
  <p class="updated_time"> 02:25 PM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/white-house-teachers-union-covid-526547">Psaki: Schools can open safely 'including in Chicago'</a> Politico: “Long story short we want schools to be open, the president wants them to be open and we’re going to continue to use every resource and work to ensure that’s the case,” Psaki said. 
+ <a href="https://www.politico.com/news/2022/01/05/white-house-teachers-union-covid-526547">Psaki: Schools can open safely 'including in Chicago'</a> Politico: “Long story short we want schools to be open, the president wants them to be open, and we’re going to continue to use every resource and work to ensure that’s the case,” Psaki said. 
  <p class="updated_time"> 02:23 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/separate-climate-bill-build-back-better/index.html">Separate climate bill not being seriously considered in Senate, despite Manchin's support of the measures</a> CNN: Senate climate hawks got a new shot of optimism this week as West Virginia Sen. Joe Manchin gave perhaps his most full-throated endorsement yet of the climate change and clean energy portions of the Build Back Better package, Biden's economic and social safety net bill. 
- <p class="updated_time"> 02:13 PM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/merrick-garland-january-6-anniversary-speech/index.html">Merrick Garland on Capitol attack: 'The actions we have taken thus far will not be our last'</a> CNN: Attorney General Merrick Garland will say in a speech Wednesday that the Justice Department "remains committed to holding all January 6th perpetrators, at any level, accountable under law -- whether they were present that day or were otherwise criminally responsible for the assault on our democracy," according to an excerpt from the Justice Department. 
  <p class="updated_time"> 02:13 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/business/economy/federal-reserve-minutes-interest-rates.html">Fed Officials Discussed Raising Rates Sooner and Faster, Minutes Show</a> NYT: Minutes from the Federal Reserve’s December meeting show that officials are contemplating when and how quickly to lift interest rates. 
  <p class="updated_time"> 02:11 PM CT, Jan. 05 </p> 
@@ -230,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/05/politics/stephanie-grisham-committee-meeting/index.html">Stephanie Grisham to meet with January 6 panel</a> CNN: Former White House press secretary Stephanie Grisham will meet Wednesday evening on Capitol Hill with the select committee investigating the January 6 insurrection, according to multiple sources familiar with the meeting. 
  <p class="updated_time"> 11:05 AM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/manchin-child-tax-credit-income-limit/index.html">Manchin says too many higher-income families qualify for the child tax credit. But the 2017 GOP tax law made that happen</a> CNN: West Virginia Sen. Joe Manchin has lots of issues with the Democrats' expanded child tax credit, which is a main reason why his party's plan to extend it for another year is on ice. 
- <p class="updated_time"> 10:54 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/capitol-police-january-6.html">Capitol Police Chief Commits to Security Improvements</a> NYT: Chief J. Thomas Manger, the head of an agency still reeling from the Jan. 6 attack, told lawmakers he was already addressing most of the 103 recommendations from an internal watchdog. 
  <p class="updated_time"> 10:25 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/fads-crypto-lobbying-politics-526538">NFTs move to influence Congress, even if lawmakers have no clue what they are</a> Politico: For the first time, a company has registered to lobby the federal government on NFTs. 
  <p class="updated_time"> 09:47 AM CT, Jan. 05 </p> 
@@ -308,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden announces US will double its order of Pfizer's antiviral pill to treat Covid-19</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
- <p class="updated_time"> 01:02 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/manchin-filibuster-change-voting-legislation/index.html">Manchin delivers blow to Democrats as he signals opposition to changing Senate rules to advance voting bill</a> CNN: Sen. Joe Manchin of West Virginia, the pivotal Senate swing vote, made clear on Tuesday that he remains deeply skeptical of overhauling the chamber's rules on a simple majority basis to advance voting legislation, a clear sign that a frantic push by Democrats to win his support to change the filibuster and pass one of the party's core priorities is likely doomed. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070254014/longtime-chicago-congressman-bobby-rush-is-the-latest-democrat-to-leave-washingt">Longtime Chicago Congressman Bobby Rush is the latest Democrat to leave Washington</a> NPR: The 75-year-old former Black Panther leader won't seek a 16th term in Congress, but vowed he'll remain an activist. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
@@ -318,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/omicron-ontario-canada-covid-restrictions-526484">As Covid policies divide America, Ontario doubles down (again)</a> Politico: The latest Covid shutdowns test the trust of the jabbed and boosted in Canada’s most populous province. 
  <p class="updated_time"> 12:20 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1069232219/heres-where-election-deniers-and-doubters-are-running-to-control-voting">Here's where election-denying candidates are running to control voting</a> NPR: An NPR analysis found at least 15 Republican candidates for secretary of state offices in 2022 who doubt Joe Biden's 2020 victory. 
- <p class="updated_time"> 12:00 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/mitch-landrieu-letter-to-governors-infrastructure/index.html">Biden's infrastructure czar urges governors to appoint their own infrastructure implementation coordinators</a> CNN: President Joe Biden's infrastructure czar Mitch Landrieu sent letters to all the nation's governors on Tuesday urging them to appoint their own infrastructure implementation coordinators to smooth the rollout of the $1.2 trillion law. 
  <p class="updated_time"> 11:49 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/tesla-dealership-xinjiang-china.html">Tesla Draws Criticism After Opening Dealership in Xinjiang </a> NYT: Senator Marco Rubio criticized the electric carmaker for opening the outlet in a region where China has been accused of targeting Muslims. 
  <p class="updated_time"> 11:48 AM CT, Jan. 04 </p> 
@@ -334,14 +336,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/04/toxic-positivity-rates-on-capitol-hill-495587">Toxic positivity (rates) on Capitol Hill</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/jan-6-committee-oath-keepers-phone-records-526477">Jan. 6 committee seeking phone records of 2 Oath Keepers facing conspiracy charges</a> Politico: Kelly and Connie Meggs say they were notified of the subpoena by Verizon last month. 
- <p class="updated_time"> 06:21 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/midterm-elections-coronavirus.html">How Omicron Could Affect the 2022 Midterm Elections</a> NYT: The Omicron variant’s spread poses an unwelcome political conundrum just as election season begins. Democrats and the G.O.P. see reasons to hope, but the virus will get the deciding vote. 
  <p class="updated_time"> 06:18 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/04/the-election-reform-idea-gaining-currency-on-the-right-495582"> The election reform idea gaining currency on the right</a> Politico Playbook: And Rep. Bobby Rush (D-Ill.) says he won't seek reelection. 
  <p class="updated_time"> 06:07 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1069793647/rep-jamie-raskin-searches-for-answers-in-unthinkable-journey-of-trauma-and-grief">Rep. Jamie Raskin searches for answers in 'Unthinkable' journey of trauma and grief</a> NPR: In a new memoir, the Democratic congressman recounts a year of loss and grief after the death of son Tommy — and a motivation to right the wrongs that occurred on Jan. 6. 
- <p class="updated_time"> 05:31 AM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/sections/money/2022/01/04/1068916102/how-subsidies-helped-montreal-become-the-hollywood-of-video-games">How subsidies helped Montreal become "the Hollywood of video games"</a> NPR: For decades, Montreal has used generous tax subsidies to boost its video game industry. The policy has succeeded, but the city may need to keep the subsidies in place to keep companies from leaving. 
  <p class="updated_time"> 05:00 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/jan-6-insurrection-sentencing-tracker-526091">Hundreds of crimes, little punishment: Inside the sentences since the Capitol attack</a> Politico: More than 150 people have pleaded guilty for crimes committed on Jan. 6, 2021. POLITICO is analyzing and tracking every sentence handed down. 
  <p class="updated_time"> 04:30 AM CT, Jan. 04 </p> 
