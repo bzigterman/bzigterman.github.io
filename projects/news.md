@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:05 AM CT, Jan. 05 </p> 
+ <p class="updated_time"> 09:20 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/germany-legalize-recreational-marijuana-pot-cannabis.html">German Start-Ups Lay the Groundwork for a Marijuana Bonanza</a> NYT: Two of the three parties in Germany’s new governing coalition support legalization, a potentially radical shift in the conservative country. 
  <p class="updated_time"> 09:00 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakhstan Shuts Internet as Government Offices Burn in Protests</a> NYT: Anger sparked by a gas price increase in the resource-rich Central Asian nation has swelled despite concessions from the ruling party and a strict state of emergency. 
@@ -97,6 +97,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59871779?at_medium=RSS&at_campaign=KARANGA">Europe's tattoo artists fear for future after EU ink ban</a> BBC: Thousands of chemicals are banned by EU for safety reasons, but tattooists say it will hit business. 
  <p class="updated_time"> 11:25 AM CT, Jan. 04 </p> 
  <a href="https://www.wsj.com/articles/u-s-prevails-over-canada-in-dairy-dispute-11641318427">U.S. Prevails Over Canada in Dairy Dispute Under New Trade Deal</a> WSJ: Canada has until Feb. 3 to comply with the U.S.-Mexico-Canada Agreement or the U.S. could begin the process of initiating tariffs or other countermeasures. 
+ <p class="updated_time"> 11:09 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/business/opec-oil-output.html">OPEC and Allies Agree to Raise Oil Output Amid Lagging Production</a> NYT: The group called OPEC Plus decided to increase oil output by 400,000 barrels a day, but its members have lately been falling short of production quotas. 
  <p class="updated_time"> 10:48 AM CT, Jan. 04 </p> 
  <a href="https://www.wsj.com/articles/canada-reaches-15-billion-settlement-with-indigenous-peoples-11641326167">Canada Reaches $15 Billion Settlement With Indigenous Peoples</a> WSJ: The compensation is to be paid to indigenous children placed in a child-welfare system that a quasi-judicial body ruled violated human rights 
  <p class="updated_time"> 10:33 AM CT, Jan. 04 </p> 
@@ -153,6 +155,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/africa/richard-leakey-dead.html">Richard Leakey, Kenyan Fossil Hunter and Conservationist, Dies at 77</a> NYT: His discoveries of ancient human skulls and skeletons, including the famed “Turkana Boy,” helped cement Africa’s standing as the cradle of humanity. 
  <p class="updated_time"> 12:40 PM CT, Jan. 03 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/03/1069942305/sheep-goats-encourage-vaccination-germany">700 sheep and goats were arranged in the shape of a syringe to encourage vaccinations</a> NPR: A shepherd in Germany arranged her animals into a 330-foot syringe to encourage people to get vaccinated. 
+ <p class="updated_time"> 10:59 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/02/world/africa/abdalla-hamdok-resigns-sudan.html">Sudan’s Prime Minister, Abdalla Hamdok, Resigns</a> NYT: Mr. Hamdok was restored to power a month ago after being deposed in a coup, but he was never able to gain control of the fractious country. 
  <p class="updated_time"> 09:13 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59833131?at_medium=RSS&at_campaign=KARANGA">Richard Leakey - fossil expert, conservationist and politician</a> BBC: The achievements of Richard Leakey, who has died aged 77, were as remarkable as they were diverse. 
  <p class="updated_time"> 09:05 AM CT, Jan. 03 </p> 
@@ -228,14 +232,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/sebastian-gorka-jan-6-committee-526534">Jan. 6 committee seeking phone records from Sebastian Gorka</a> Politico: The radio host is suing to block the panel from getting his records. 
  <p class="updated_time"> 10:16 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
- <p class="updated_time"> 10:14 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/brenda-lawrence-democratic-house-retirements/index.html">Rep. Brenda Lawrence adds to growing number of House Democrats retiring at end of this term</a> CNN: Democratic Rep. Brenda Lawrence of Michigan announced on Tuesday that she will not seek reelection to the House this year after four terms representing Michigan's 14th District, becoming the 25th House Democrat to announce they're leaving at the end of this term. "Today, after reflecting on my journey -- and oh, my goodness, what a journey -- and having conversations with my family, I am announcing that I will not be seeking reelection to Congress," Lawrence said in a video posted to Twitter. "I'm incredibly grateful for the people of Michigan's 14th Congressional District who have placed their trust and vote in me -- in me, just a little Black girl from the east side of Detroit, you made me your congresswoman." 
  <p class="updated_time"> 08:02 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/capitol-security-reforms-jan-6-anniversary-526519">Capitol security officials present list of reforms ahead of Jan. 6 anniversary</a> Politico: The changes touch on every aspect of the Capitol Police’s work. 
  <p class="updated_time"> 07:42 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/security-january-6-anniversary-capitol/index.html">Law enforcement ramps up security efforts ahead of 1-year anniversary of Capitol attack</a> CNN: Law enforcement and federal authorities in the Washington area are stepping up security efforts in anticipation of the one-year anniversary of the January 6 attack on the US Capitol. 
  <p class="updated_time"> 07:31 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/north-south-korea-missiles-526526">North Korea fires suspected missile into sea</a> Politico: It was the first such launch in about two months in the always tense region. 
+ <p class="updated_time"> 07:30 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2021/12/29/politics/january-6-committee-investigation-trump-what-matters/index.html">The January 6 committee formed 6 months ago. Here's what it's uncovered.</a> CNN: It's been a dramatic six months since the establishment of the House select committee investigating the January 6 Capitol Hill riot. 
  <p class="updated_time"> 07:28 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/january-6-committee-sean-hannity/index.html">January 6 committee releases texts between Hannity and Trump White House</a> CNN: The House committee investigating the January 6 Capitol Hill insurrection intends to ask Fox News anchor Sean Hannity to talk to the committee about his interactions with the White House and then-President Donald Trump regarding the 2020 election and the attack on the US Capitol, three sources tell CNN. 
  <p class="updated_time"> 07:13 PM CT, Jan. 04 </p> 
@@ -248,18 +252,14 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/04/politics/mike-pence-january-6-committee/index.html">January 6 committee chairman wants to speak directly with Mike Pence</a> CNN: Rep. Bennie Thompson, chairman of select committee investigating the January 6 insurrection, wants to hear directly from then-Vice President Mike Pence, who certified the 2020 presidential election despite an extensive pressure campaign led by former President Donald Trump and his allies to halt the process. 
  <p class="updated_time"> 06:48 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070408567/house-jan-6-committee-seeks-to-question-fox-news-sean-hannity-about-capitol-riot">House Jan. 6 committee seeks to question Fox News' Sean Hannity about the Capitol riot</a> NPR: In its request to speak with Hannity, the panel disclosed newly revealed texts he allegedly sent, including one on Jan. 5 that said: "[I'm] very worried about the next 48 hours." 
- <p class="updated_time"> 06:42 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/states/florida/story/2022/01/04/gop-governors-play-down-omicron-hysteria-while-also-asking-for-help-1403885">GOP governors play down Omicron 'hysteria' while also asking for help</a> Politico: “Given the clinical profile so far of Omicron, it’s not justifiable to let fear overwhelm you,” Florida’s governor says. 
+ <p class="updated_time"> 06:45 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/biden-white-house-omicron-plan-526516">White House embraces a manage-not-contain Omicron game plan</a> Politico: The president is under immense pressure to keep some semblance of social normalcy amid a pandemic that is absolutely roaring. 
  <p class="updated_time"> 06:40 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/biden-pfizer-pill-order.html">Biden Administration Doubles Order of Pfizer's Covid Pill</a> NYT: President Biden announced that his administration would double its order of Pfizer’s scarce Covid-19 antiviral drug, which has been shown to reduce hospitalizations. 
- <p class="updated_time"> 06:03 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/abbott-texas-national-guard-vaccine-lawsuit/index.html">Texas Gov. Abbott sues Biden over requirement that National Guard be vaccinated</a> CNN: Texas Republican Gov. Greg Abbott sued President Joe Biden and other members of the administration on Tuesday over the requirement that members of the National Guard be vaccinated against Covid-19. 
  <p class="updated_time"> 05:54 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/sean-hannity-dissuade-trump-january-6-526508">Sean Hannity tried to dissuade Trump from Jan. 6 strategy, texts show</a> Politico: “I do NOT see January 6 happening the way he is being told,” the Fox News host said of Trump’s efforts in a  December 2020 text. 
  <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/cdc-doubles-down-quarantine-guidelines-526501">CDC recommits to isolation and quarantine guidelines without tests</a> Politico: The recent guidance, updated Dec. 29, said individuals who test positive for Covid-19 and whose symptoms are resolving need only isolate for five days as long as they continue to wear masks for an additional five days. 
- <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/omicron-variant-covid-19-what-matters/index.html">America charts confusing path forward as Omicron rages on</a> CNN: The Omicron variant's rapid spread has pushed the US into another confusing pandemic moment as Americans try to strike a responsible balance between evolving public health guidance and their personal risk tolerance. 
  <p class="updated_time"> 04:21 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/trump-lawsuits-metro-capitol-police/index.html">Trump hit with two new lawsuits from police officers attacked by rioters on Jan. 6</a> CNN: Former President Donald Trump was hit with two new federal lawsuits Tuesday from law enforcement officers who were at the US Capitol on January 6 and who allege that Trump directed the assault that left them injured and emotionally traumatized. 
  <p class="updated_time"> 04:19 PM CT, Jan. 04 </p> 
@@ -406,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/31/complaint-doj-foreign-agent-prosecutions-526278">Complaint could roil DOJ foreign-agent prosecutions</a> Politico: Businesswoman Nickie Lum Davis says her guilty plea last year to a charge of unregistered lobbying was coerced. 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
- <p class="updated_time"> 08:17 AM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Biden administration results in more of the same Trump immigration policies</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
  <p class="updated_time"> 11:07 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/29/harry-reids-legacy-495555"> Harry Reid’s legacy</a> Politico Playbook: And Michigan and Virginia get their new congressional maps. 
  <p class="updated_time"> 10:26 AM CT, Dec. 29 </p> 
