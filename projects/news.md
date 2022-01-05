@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:00 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59884038?at_medium=RSS&at_campaign=KARANGA">Australia could refuse Novak Djokovic entry over vaccine row - PM</a> BBC: The tennis player must prove that he cannot be jabbed for medical reasons, Australia's Prime Minister says. 
  <p class="updated_time"> 06:57 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/hong-kong-flights.html">Hong Kong Suspends Flights From Eight Countries, Fearing a Fifth Wave</a> NYT: The new measures will deepen the city’s isolation and mark a return to the tough restrictions from the early days of the pandemic as officials race to control Omicron. 
  <p class="updated_time"> 06:57 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/macron-france-life-miserable-unvaccinated.html">Macron Under Fire for Vowing to Make Unvaccinated Miserable</a> NYT: The president’s comments caused an uproar in Parliament as the government is trying to pass a bill to tighten the eligibility of France’s health pass, less than four months before the presidential election. 
- <p class="updated_time"> 06:48 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59876203?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australian Open vaccine exemption ignites backlash</a> BBC: It is a "disgrace" that Novak Djokovic can enter the country for the Australian Open, locals say. 
  <p class="updated_time"> 06:46 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakhstan Shuts Internet as Government Offices Burn in Protests</a> NYT: Anger sparked by a gas price increase in the resource-rich Central Asian nation has swelled despite concessions from the ruling party and a strict state of emergency. 
  <p class="updated_time"> 06:16 AM CT, Jan. 05 </p> 
@@ -178,16 +178,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:06 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/capitol-police-january-6.html">Capitol Police Chief to Commit to Steps for Improvement</a> NYT: Chief J. Thomas Manger, head of an agency still reeling from Jan. 6, plans to tell lawmakers he is already addressing most of the 103 recommendations from an internal watchdog. 
+ <p class="updated_time"> 08:04 AM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/omicron-covid-relief-package/index.html">Lawmakers discuss additional Covid relief amid Omicron, but talks stall</a> CNN: A bipartisan group of Senate lawmakers discussed the possibility of another economic stimulus package last year amid the Omicron wave of coronavirus, but talks failed to move forward. 
+ <p class="updated_time"> 08:01 AM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/doj-investigation-jan-6-insurrection/index.html">Biggest investigation in FBI history still has Garland in the hot seat </a> CNN: A year after the January 6 insurrection, the Justice Department continues to press forward on the biggest investigation in FBI history, with 700 people already arrested and hundreds more offenders still at large and several more years of prosecutions ahead. 
  <p class="updated_time"> 07:55 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-gop-jan-6.html">How Trump Kept His Grip After Jan. 6</a> NYT: Only weeks after instigating the Capitol riot, Donald Trump was back in command of the Republican Party. 
  <p class="updated_time"> 07:35 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/05/security-still-top-of-mind-a-year-after-capitol-attack-495603">Security still top of mind a year after Capitol attack</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:15 AM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/gop-reaction-january-6-anniversary/index.html">Republicans seek to avoid Trump talk as party grapples with January 6 anniversary</a> CNN: Republicans on Capitol Hill are under pressure to reflect on the deadly events of January 6 but are also trying to avoid talking about former President Donald Trump's culpability -- underscoring how the attack remains an unwelcome distraction for a party eager to gain voters' trust in this fall's pivotal elections. 
- <p class="updated_time"> 06:30 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/capitol-police-january-6.html">Capitol Police Chief to Commit to Steps for Improvement</a> NYT: Chief J. Thomas Manger, head of an agency still reeling from Jan. 6, plans to tell lawmakers he is already addressing most of the 103 recommendations from an internal watchdog. 
- <p class="updated_time"> 06:18 AM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/doj-investigation-jan-6-insurrection/index.html">Biggest investigation in FBI history still has Garland in the hot seat </a> CNN: A year after the January 6 insurrection, the Justice Department continues to press forward on the biggest investigation in FBI history, with 700 people already arrested and hundreds more offenders still at large and several more years of prosecutions ahead. 
  <p class="updated_time"> 06:17 AM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/jan-6-capitol-riot-lancaster-republicans/index.html">How January 6 changed what it means to be a Republican in one Pennsylvania county</a> CNN: The day after the January 6 attack on the US Capitol, three local Republican officials in Pennsylvania's Lancaster County announced they were leaving the GOP.  Among them was Ethan Demme, a lifelong conservative who had previously served as the youngest Republican Party chairman in this deeply red corner of southeast Pennsylvania.  
  <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
@@ -260,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/04/politics/trump-lawsuits-metro-capitol-police/index.html">Trump hit with two new lawsuits from police officers attacked by rioters on Jan. 6</a> CNN: Former President Donald Trump was hit with two new federal lawsuits Tuesday from law enforcement officers who were at the US Capitol on January 6 and who allege that Trump directed the assault that left them injured and emotionally traumatized. 
  <p class="updated_time"> 04:19 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/technology/apple-google-spotify-podcast-election-misinformation.html">Election Falsehoods Surged on Podcasts Before Capitol Riots, Researchers Find</a> NYT: A new study analyzed nearly 1,500 episodes, showing the extent to which podcasts pushed misinformation about voter fraud. 
- <p class="updated_time"> 03:57 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/us-strikes-syria/index.html">US conducts strikes in Syria after indirect fire threatens troops   </a> CNN: The US military conducted strikes in Syria after indirect fire posed what a US-led coalition official called "an imminent threat" to troops near Green Village, a base in the east of the country near the Iraqi border. 
  <p class="updated_time"> 03:48 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/us-arrest-charges-suspect-haitian-president-slaying-526492">U.S. arrests, charges suspect in Haitian president slaying</a> Politico: The U.S. government announced Tuesday that it arrested one of the main suspects in the killing of Haitian president Jovenel Moïse. 
  <p class="updated_time"> 03:46 PM CT, Jan. 04 </p> 
@@ -282,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/04/politics/cdc-isolation-guidance-upcoming/index.html">Update to CDC's Covid-19 isolation guidance is imminent, source says</a> CNN: The US Centers for Disease Control and Prevention is expected to update its guidance on the recommended isolation period imminently, according to a source familiar with the plan. 
  <p class="updated_time"> 02:28 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden announces US will double its order of Pfizer's antiviral pill to treat Covid-19</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
- <p class="updated_time"> 02:12 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/andrew-cuomo-albany-da/index.html">Albany DA declines to prosecute former Gov. Andrew Cuomo on forcible touching charge </a> CNN: The Albany district attorney will not prosecute former New York Gov. Andrew Cuomo on a misdemeanor sex crime charge of forcible touching after reviewing the evidence in the case despite finding the complainant "cooperative" and "credible." 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
  <p class="updated_time"> 01:02 PM CT, Jan. 04 </p> 
