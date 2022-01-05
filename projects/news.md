@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:00 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakh Protesters Burn Government Offices as Unrest Sweeps Country</a> NYT: An uprising sparked by a gas price increase in the resource-rich Central Asian nation has taken on a political dimension despite concessions from the ruling party. 
+ <p class="updated_time"> 12:56 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
+ <p class="updated_time"> 12:50 PM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070622365/kazakhstan-is-in-turmoil-after-massive-protests-force-the-government-to-resign">Kazakhstan is in turmoil after massive protests force the government to resign</a> NPR: A sudden hike in fuel prices drew intense public condemnation over the weekend. Protesters have seized the airport in the largest city, Almaty, and stormed public buildings. 
  <p class="updated_time"> 12:17 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070514847/the-global-supply-chain-arriving-today-christopher-mims">The global supply chain is amazingly efficient. So why did it break down?</a> NPR: "Americans went on a shopping spree as soon as lockdown started, and we haven't really stopped," journalist Christopher Mims says. His book, Arriving Today, goes inside the global supply chain. 
  <p class="updated_time"> 11:51 AM CT, Jan. 05 </p> 
@@ -41,16 +47,16 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/05/1070546748/hong-kong-flight-ban">Hong Kong bans flights from U.S. and 7 other countries as omicron surges</a> NPR: Hong Kong authorities announced a two-week ban on flights from eight countries and held 2,500 passengers on a cruise ship for coronavirus testing as the city attempted to stem an omicron outbreak. 
  <p class="updated_time"> 09:20 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/germany-legalize-recreational-marijuana.html">German Start-Ups Lay the Groundwork for a Marijuana Bonanza</a> NYT: Two of the three parties in Germany’s new governing coalition support legalization, a potentially radical shift in the conservative country. 
- <p class="updated_time"> 09:00 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakhstan Shuts Internet as Government Offices Burn in Protests</a> NYT: Anger sparked by a gas price increase in the resource-rich Central Asian nation has swelled despite concessions from the ruling party and a strict state of emergency. 
  <p class="updated_time"> 08:55 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/covid-variant-france.html">W.H.O. Downplays Threat From New Virus Variant in France</a> NYT: The so-called I.H.U. variant contains numerous mutations of the coronavirus, but experts say it has shown little sign of spreading so far. 
+ <p class="updated_time"> 07:47 AM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/kazakhstans-government-resigns-amid-unrest-over-fuel-prices-11641386544">Kazakhstan's Government Resigns Amid Unrest Over Fuel Prices</a> WSJ: The country’s president imposed a state of emergency as he faces a crisis that threatens to destabilize the oil-rich former Soviet republic. 
  <p class="updated_time"> 06:57 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/hong-kong-flights.html">Hong Kong Suspends Flights From Eight Countries, Fearing a Fifth Wave</a> NYT: The new measures will deepen the city’s isolation and mark a return to the tough restrictions from the early days of the pandemic as officials race to control Omicron. 
+ <p class="updated_time"> 06:50 AM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/tony-blairs-knighthood-sparks-protest-petition-over-iraq-war-11641405027">Tony Blair's Knighthood Sparks Protest Petition Over Iraq War</a> WSJ: An effort to strip the former British prime minister of the honor has garnered more than 700,000 signatures. 
  <p class="updated_time"> 06:16 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59879760?at_medium=RSS&at_campaign=KARANGA">Kosovo bans cryptocurrency mining after blackouts</a> BBC: The Balkan country is enforcing blackouts amid an electricity shortage caused by high global prices. 
- <p class="updated_time"> 06:00 AM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/kazakhstans-government-resigns-amid-unrest-over-fuel-prices-11641386544">Kazakhstan's Government Resigns Amid Unrest Over Fuel Prices</a> WSJ: The country’s president imposed a state of emergency as he faces a crisis that threatens to destabilize the oil-rich former Soviet republic. 
  <p class="updated_time"> 05:57 AM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/prince-andrews-legal-woes-present-another-headache-for-u-k-royal-family-11641401849">Prince Andrew's Legal Woes Present Another Headache for U.K. Royal Family</a> WSJ: Allegations that the queen’s second son abused a 17-year-old girl loom large over the House of Windsor. 
  <p class="updated_time"> 05:55 AM CT, Jan. 05 </p> 
@@ -63,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea fires suspected ballistic missile into the sea</a> BBC: It follows a number of tests last year and a vow from Kim Jong-un to bolster the North's defences. 
  <p class="updated_time"> 04:51 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
- <p class="updated_time"> 04:20 AM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/europes-trade-czar-walks-line-between-u-s-and-china-11641385213">Europe's Trade Czar Walks Line Between U.S. and China</a> WSJ: Valdis Dombrovskis, the European Union’s executive vice president, has won plaudits for his role in trans-Atlantic relations. The EU’s top economic chief is also trying to lift the economy from Covid-19 crisis. 
  <p class="updated_time"> 04:10 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070478298/israel-sets-covid-19-record-as-rule-changes-create-whiplash">Israel sets COVID-19 record as rule changes create whiplash</a> NPR: The omicron variant is outpacing the government's ability to make and execute clear pandemic public policy. 
  <p class="updated_time"> 03:33 AM CT, Jan. 05 </p> 
@@ -131,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/europe/molenbeek-attack-brussels-paris.html">How This Changing Brussels Neighborhood is Trying to Leave The Stigma of Terrorism Behind</a> NYT: Molenbeek was where a terrorist cell planned attacks that killed 162 in Paris and Brussels. Six years later, residents are trying to reinvent the area as a trial rekindles an awful association. 
  <p class="updated_time"> 06:22 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/sports/tennis/djokovic-vaccine.html">Djokovic Granted Covid-19 Vaccine Exemption to Play in Australian Open</a> NYT: The top-ranked player in men’s tennis revealed his plans in a post on his Instagram account. 
- <p class="updated_time"> 05:31 AM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/sections/money/2022/01/04/1068916102/how-subsidies-helped-montreal-become-the-hollywood-of-video-games">How subsidies helped Montreal become "the Hollywood of video games"</a> NPR: For decades, Montreal has used generous tax subsidies to boost its video game industry. The policy has succeeded, but the city may need to keep the subsidies in place to keep companies from leaving. 
  <p class="updated_time"> 05:19 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59867772?at_medium=RSS&at_campaign=KARANGA">Silicon Valley's trial of the century</a> BBC: A look at the Theranos trial and the evidence that led to Elizabeth Holmes being found guilty of fraud. 
  <p class="updated_time"> 04:45 AM CT, Jan. 04 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/asia/india-auction-muslim-women.html">Online ‘Auction’ Is Latest Attack on Muslim Women in India</a> NYT: The fake site, the second in months, is a sign of the organized nature of virtual bullying, with threats of sexualized violence aimed at silencing the outspoken. 
  <p class="updated_time"> 07:43 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/middleeast/tunisia-economy-kais-saied.html">Pressure Mounts on Tunisia’s President to Salvage the Economy</a> NYT: When President Kais Saied seized power in July, he vowed to rescue the failing economy. Tunisians are still waiting for him to fulfill that pledge. 
- <p class="updated_time"> 06:54 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/business/china-evergrande-shares-hong-kong.html">China Evergrande Suspends Trading Shares in Hong Kong</a> NYT: The world’s most indebted property developer provided no details on the suspension, but it suggested an announcement “containing inside information” would come soon. 
  <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/article/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
@@ -178,8 +178,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:47 PM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/jan-6-protesters-run-for-office-526545">Jan. 6 protesters find a new cause: Running for office</a> Politico: At least 57 individuals who played a role in the day’s events — including some who were arrested on charges related to the Capitol attack — are running for office in 2022. 
  <p class="updated_time"> 01:09 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/louisiana-governor-pardons-plessy-526546">Governor pardons Plessy, of ‘separate but equal’ ruling</a> Politico: Louisiana’s governor posthumously pardoned Homer Plessy, the Black man whose arrest sparked the SCOTUS ruling that cemented “separate but equal” into law. 
+ <p class="updated_time"> 12:56 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
  <p class="updated_time"> 12:02 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/trump-cancels-press-conference-january-6/index.html">Trump cancels press conference on January 6 anniversary at urging of advisers</a> CNN: Former President Donald Trump abruptly canceled a news conference late Tuesday that he was scheduled to host at Mar-a-Lago on the anniversary of the January 6 insurrection, but which his allies had warned would cause unnecessary problems for Republicans and himself. 
  <p class="updated_time"> 11:52 AM CT, Jan. 05 </p> 
@@ -338,12 +342,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/rep-bobby-rush-wont-seek-reelection-526455">Bobby Rush to relinquish 30-year hold on House seat</a> Politico: The veteran Illinois congressman and former Black Panther leader said, “I’m not retiring … I’m just entering into a new level of my life.” 
  <p class="updated_time"> 06:05 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/bill-gardner-retires.html">New Hampshire's Secretary of State, Bill Gardner, Is Retiring</a> NYT: The official, Bill Gardner, a Democrat, has served as secretary of state in New Hampshire for more than four decades. 
- <p class="updated_time"> 05:38 PM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/elizabeth-holmes-jury-fraud-526443">Former Theranos CEO Elizabeth Holmes guilty of fraud and conspiracy</a> Politico: The jury found her not guilty of four other felony charges. 
  <p class="updated_time"> 05:25 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/senate-democrats-biden-agenda.html">Democrats Set Timetable to Change Rules for Stalled Voting Rights Bills</a> NYT: The top Senate Democrat said he would act by Jan. 17 to try to force through the measures if Republicans refused to drop their opposition. 
- <p class="updated_time"> 04:55 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/business/economy/inflation-democrats-corporations.html">Democrats Blast Corporate Profits as Inflation Surges</a> NYT: Politicians are placing more blame on greedy companies as prices stay high. But booming consumer demand is enabling firms to charge more. 
  <p class="updated_time"> 02:27 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/biden-meat-processing-industry/index.html">White House to invest $1 billion to boost competition in meat-processing industry and lower consumer prices</a> CNN: The White House on Monday announced it would allocate $1 billion in funding from the American Rescue Plan to independent meat and poultry producers as part of an effort to boost competition in the meat-processing industry and lower prices for consumers. 
  <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
