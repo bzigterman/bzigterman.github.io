@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:54 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea fires suspected ballistic missile into the sea</a> BBC: It follows a number of tests last year and a vow from Kim Jong-un to bolster the North's defences. 
+ <p class="updated_time"> 04:51 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
  <p class="updated_time"> 04:42 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Almaty mayor's office stormed in protest</a> BBC: Protests over fuel prices are raging for a second day despite a state of emergency in some areas. 
  <p class="updated_time"> 04:28 AM CT, Jan. 05 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070478298/israel-sets-covid-19-record-as-rule-changes-create-whiplash">Israel sets COVID-19 record as rule changes create whiplash</a> NPR: The omicron variant is outpacing the government's ability to make and execute clear pandemic public policy. 
  <p class="updated_time"> 03:33 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070472805/xian-reacts-to-covid-lockdowns-with-outrage-and-humor">Xi'an reacts to COVID lockdowns with outrage and humor</a> NPR: Lockdowns are so strict and so prolonged in Chinese city that residents have taken to social media to complain and joke about a lack of basic supplies. 
- <p class="updated_time"> 02:58 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea launches ballistic missile into sea</a> BBC: It comes after leader Kim Jong-un vowed to bolster the country's defence capabilities last month. 
  <p class="updated_time"> 02:46 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/britain-omicron-boris-johnson.html">Britain can ‘ride out’ the Omicron wave without a strict lockdown, Boris Johnson says.</a> NYT: “We can find a way to live with this virus,” the prime minister said. 
  <p class="updated_time"> 02:39 AM CT, Jan. 05 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070171056/novak-djokovic-gets-a-vaccination-exemption-to-play-in-the-australian-open">Novak Djokovic gets a vaccination exemption to play in the Australian Open</a> NPR: The tournament's defending champion posted a photo of himself smiling at an airport. But in Australia, some of the responses to his Twitter post were not happy ones. 
  <p class="updated_time"> 10:05 AM CT, Jan. 04 </p> 
  <a href="https://www.wsj.com/articles/venezuelas-u-s-backed-opposition-frays-as-nicolas-maduro-tightens-grip-11641330358">Venezuela's U.S.-Backed Opposition Frays as Maduro Tightens Grip</a> WSJ: Juan Guaidó’s coalition is hit by infighting amid disputes over how much power he should wield and alleged mismanagement of companies under opposition control. 
- <p class="updated_time"> 10:04 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59871267?at_medium=RSS&at_campaign=KARANGA">US snow: Major snowfall blankets Washington DC</a> BBC: Snow causes fun and frustration in Washington DC. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
@@ -181,9 +181,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/jan-6-anniversary-capitol-police-officers-response-526024">What the Jan. 6 responders found: Brotherhood in trauma and a search for accountability</a> Politico: "It's been a hell of a year" for officers Aquilino Gonell, Harry Dunn and Daniel Hodges. They're not done healing yet. 
  <p class="updated_time"> 04:07 AM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070471317/the-supreme-court-to-hold-a-hearing-on-bidens-vaccine-and-testing-mandate">The Supreme Court to hold a hearing on Biden's vaccine and testing mandate</a> NPR: NPR's Rachel Martin talks to Karen Harned of the National Federation of Independent Business, about its opposition to OSHA's vaccine and testing requirements for private employers. 
- <p class="updated_time"> 04:07 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070471284/sen-amy-klobuchar-remains-haunted-by-what-happened-on-jan-6">Sen. Amy Klobuchar remains haunted by what happened on Jan.6</a> NPR: NPR's Rachel Martin talks with Democratic Sen. Amy Klobuchar about the Jan. 6 attack on the U.S. Capitol, and the latest on the investigation and action by Congress. 
+ <p class="updated_time"> 04:07 AM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070471317/the-supreme-court-to-hold-a-hearing-on-bidens-vaccine-and-testing-mandate">The Supreme Court to hold a hearing on Biden's vaccine and testing mandate</a> NPR: NPR's Rachel Martin talks to Karen Harned of the National Federation of Independent Business, about its opposition to OSHA's vaccine and testing requirements for private employers. 
  <p class="updated_time"> 04:00 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070418884/a-year-after-the-capitol-riot-work-remains-to-safeguard-it-from-another-attack">A year after the Capitol riot, work remains to safeguard it from another attack</a> NPR: The Jan. 6 siege led to a transformation of security for the citadel of democracy and members of Congress. But many say plenty of work remains to ensure another attack never happens again. 
  <p class="updated_time"> 04:00 AM CT, Jan. 05 </p> 
