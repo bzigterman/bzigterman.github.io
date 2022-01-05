@@ -7,20 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:39 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakh Protesters Burn Government Offices as Unrest Sweeps Country</a> NYT: An uprising sparked by a gas price increase in the resource-rich Central Asian nation has taken on a political dimension despite concessions from the ruling party. 
+ <p class="updated_time"> 01:31 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
+ <p class="updated_time"> 01:28 PM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Staff flee as protesters enter airport</a> BBC: Demonstrations sparked by rising fuel prices escalate, despite a state of emergency in some areas. 
+ <p class="updated_time"> 01:21 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/arts/yivo-institute-archives-yiddish-life-online.html">YIVO Institute Makes Archives of Yiddish Life Available Online</a> NYT: After a lengthy effort, artifacts from collections in Lithuania and New York that document Yiddish culture in Eastern Europe before World War II will be accessible to scholars and others. 
  <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
  <p class="updated_time"> 01:10 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59873833?at_medium=RSS&at_campaign=KARANGA">Covid: French uproar as Macron vows to 'piss off' unvaccinated</a> BBC: The president vows to make life difficult for the unjabbed, but opponents condemn his language. 
- <p class="updated_time"> 01:00 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakh Protesters Burn Government Offices as Unrest Sweeps Country</a> NYT: An uprising sparked by a gas price increase in the resource-rich Central Asian nation has taken on a political dimension despite concessions from the ruling party. 
  <p class="updated_time"> 12:50 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070622365/kazakhstan-is-in-turmoil-after-massive-protests-force-the-government-to-resign">Kazakhstan is in turmoil after massive protests force the government to resign</a> NPR: A sudden hike in fuel prices drew intense public condemnation over the weekend. Protesters have seized the airport in the largest city, Almaty, and stormed public buildings. 
  <p class="updated_time"> 12:17 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070514847/the-global-supply-chain-arriving-today-christopher-mims">The global supply chain is amazingly efficient. So why did it break down?</a> NPR: "Americans went on a shopping spree as soon as lockdown started, and we haven't really stopped," journalist Christopher Mims says. His book, Arriving Today, goes inside the global supply chain. 
  <p class="updated_time"> 11:51 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/india-omicron-coronavirus.html">India’s Rising Omicron Wave Brings a Grim Sense of Déjà Vu</a> NYT: Just months after Delta fueled hospital failures and funeral pyres, India’s leaders again offer a mixed message: Their political rallies are packed even as they order curfews and work closures. 
- <p class="updated_time"> 11:48 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Staff flee as protesters enter airport</a> BBC: Mass demonstrations sparked by rising fuel prices escalate despite a state of emergency in some areas. 
  <p class="updated_time"> 11:47 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/05/1070046189/a-texas-team-comes-up-with-a-covid-vaccine-that-could-be-a-global-game-changer">A Texas team comes up with a COVID vaccine that could be a global game changer</a> NPR: Peter Hotez and Maria Elena Bottazzi used an oldie-but- goodie technology to devise a vaccine that's easy to make — and relatively cheap. India has already ordered 300 million doses. 
  <p class="updated_time"> 11:43 AM CT, Jan. 05 </p> 
@@ -33,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59873835?at_medium=RSS&at_campaign=KARANGA">Niger police seize record 200kg of cocaine from mayor's car</a> BBC: The mayor and his driver are arrested for allegedly trying to transport the record haul to Libya. 
  <p class="updated_time"> 11:13 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/americas/rio-carnival-covid.html">Rio Carnival's Street Parties Are Canceled, Mayor Says</a> NYT: As the Omicron variant sweeps the globe, the parties in Rio de Janeiro, which ordinarily draw millions of revelers, have been called off for a second year. 
+ <p class="updated_time"> 11:10 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/arts/sabine-weiss-dead.html">Sabine Weiss, Last of the ‘Humanist’ Street Photographers, Dies at 97</a> NYT: Like Robert Doisneau and Brassaï, she shot life in postwar Paris as it really was. But she also won fame for her reporting and fashion work. 
  <p class="updated_time"> 10:55 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59884038?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star's Australia entry delayed over visa row</a> BBC: The tennis player had been controversially exempted from vaccination rules for the Australian Open. 
  <p class="updated_time"> 10:41 AM CT, Jan. 05 </p> 
@@ -41,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070573184/france-emmanuel-macron-covid-unvaccinated-remarks">France's Macron takes heat after saying he wants to 'piss off' the unvaccinated</a> NPR: The French president made the remarks to a newspaper on Tuesday, causing opposition lawmakers to call a halt to debate on a new nationwide mandate. 
  <p class="updated_time"> 10:14 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070539543/australia-djokovic-vaccine-exemption">Australian P.M. says Djokovic will be turned back if his vaccine exemption is bogus</a> NPR: "If he's not vaccinated, he must provide acceptable proof that he cannot be vaccinated for medical reasons," Prime Minister Scott Morrison said of the top-ranked tennis player. 
+ <p class="updated_time"> 10:00 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/technology/china-tech-internet-crackdown-layoffs.html">As Beijing Takes Control, Chinese Tech Companies Lose Jobs and Hope</a> NYT: The crackdown is killing the entrepreneurial drive that made China a tech power and destroying jobs that used to attract the country’s brightest. 
  <p class="updated_time"> 09:58 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59884801?at_medium=RSS&at_campaign=KARANGA">Pope Francis says choosing pets over kids is selfish</a> BBC: Pope Francis has said that those who choose to have pets over children show "a form of selfishness". 
  <p class="updated_time"> 09:48 AM CT, Jan. 05 </p> 
@@ -165,6 +173,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/asia/india-auction-muslim-women.html">Online ‘Auction’ Is Latest Attack on Muslim Women in India</a> NYT: The fake site, the second in months, is a sign of the organized nature of virtual bullying, with threats of sexualized violence aimed at silencing the outspoken. 
  <p class="updated_time"> 07:43 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/middleeast/tunisia-economy-kais-saied.html">Pressure Mounts on Tunisia’s President to Salvage the Economy</a> NYT: When President Kais Saied seized power in July, he vowed to rescue the failing economy. Tunisians are still waiting for him to fulfill that pledge. 
+ <p class="updated_time"> 06:54 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/business/china-evergrande-shares-hong-kong.html">China Evergrande Suspends Trading Shares in Hong Kong</a> NYT: The world’s most indebted property developer provided no details on the suspension, but it suggested an announcement “containing inside information” would come soon. 
  <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/article/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
@@ -184,6 +194,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/white-house-teachers-union-covid-526547">Psaki: Schools can open safely 'including in Chicago'</a> Politico: “Long story short we want schools to be open, the president wants them to be open and we’re going to continue to use every resource and work to ensure that’s the case,” Psaki said. 
  <p class="updated_time"> 01:47 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/jan-6-protesters-run-for-office-526545">They stormed the Capitol. Now they’re running for office.</a> Politico: At least 57 individuals who played a role in the day’s events — including some who were arrested on charges related to the Capitol attack — are running for office in 2022. 
+ <p class="updated_time"> 01:37 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/business/economy/federal-reserve-minutes-interest-rates.html">Fed Officials Discussed Raising Rates Sooner and Faster, Minutes Show</a> NYT: Minutes from the Federal Reserve’s December meeting show that officials are contemplating when and how quickly to lift interest rates. 
  <p class="updated_time"> 01:22 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/jan-6-capitol-riot-lancaster-republicans/index.html">How January 6 changed what it means to be a Republican in one Pennsylvania county</a> CNN: The day after the January 6 attack on the US Capitol, three local Republican officials in Pennsylvania's Lancaster County announced they were leaving the GOP.  Among them was Ethan Demme, a lifelong conservative who had previously served as the youngest Republican Party chairman in this deeply red corner of southeast Pennsylvania.  
  <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
@@ -334,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/doj-domestic-terrorism-sentences-jan-6-526407">Why DOJ is avoiding domestic terrorism sentences for Jan. 6 defendants</a> Politico: Some judges have debated whether the charges qualify as “crimes of terrorism,” but prosecutors have repeatedly pulled back by citing unspecified “facts and circumstances.” 
  <p class="updated_time"> 04:00 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/magazine/jan-6-capitol-police-officers.html">The Capitol Police and the Scars of the January 6th Riot</a> NYT: For many officers, their bodies, minds and lives will never be the same after the attack. 
- <p class="updated_time"> 11:03 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/first-amendment-praetorian-trump-jan-6.html">Another Far-Right Group Is Scrutinized About Its Efforts to Aid Trump</a> NYT: The organization, called 1st Amendment Praetorian, is not as well known as the Oath Keepers or the Proud Boys, but it worked closely with pro-Trump forces in the months after the 2020 election. 
  <p class="updated_time"> 09:41 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/bobby-rush-retire.html">Representative Bobby Rush, Longtime Illinois Democrat, Will Retire</a> NYT: The decision by the pastor and civil rights activist added to a wave of Democrats deciding not to run for re-election in a difficult midterm cycle. 
  <p class="updated_time"> 08:41 PM CT, Jan. 03 </p> 
