@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:59 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
+ <p class="updated_time"> 01:51 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/europe/germany-legalize-recreational-marijuana.html">German Start-Ups Lay the Groundwork for a Marijuana Bonanza</a> NYT: Two of the three parties in Germany’s new governing coalition support legalization, a potentially radical shift in the conservative country. 
+ <p class="updated_time"> 01:49 PM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Staff flee as protesters enter airport</a> BBC: Demonstrations sparked by rising fuel prices escalate, despite a state of emergency in some areas. 
  <p class="updated_time"> 01:42 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59884038?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star's Australia entry delayed over visa row</a> BBC: The tennis player had been controversially exempted from vaccination rules for the Australian Open. 
  <p class="updated_time"> 01:39 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakh Protesters Burn Government Offices as Unrest Sweeps Country</a> NYT: An uprising sparked by a gas price increase in the resource-rich Central Asian nation has taken on a political dimension despite concessions from the ruling party. 
- <p class="updated_time"> 01:31 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
- <p class="updated_time"> 01:28 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Staff flee as protesters enter airport</a> BBC: Demonstrations sparked by rising fuel prices escalate, despite a state of emergency in some areas. 
  <p class="updated_time"> 01:21 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/arts/yivo-institute-archives-yiddish-life-online.html">YIVO Institute Makes Archives of Yiddish Life Available Online</a> NYT: After a lengthy effort, artifacts from collections in Lithuania and New York that document Yiddish culture in Eastern Europe before World War II will be accessible to scholars and others. 
  <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59884801?at_medium=RSS&at_campaign=KARANGA">Pope Francis says choosing pets over kids is selfish</a> BBC: Pope Francis has said that those who choose to have pets over children show "a form of selfishness". 
  <p class="updated_time"> 09:48 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/05/1070546748/hong-kong-flight-ban">Hong Kong bans flights from U.S. and 7 other countries as omicron surges</a> NPR: Hong Kong authorities announced a two-week ban on flights from eight countries and held 2,500 passengers on a cruise ship for coronavirus testing as the city attempted to stem an omicron outbreak. 
- <p class="updated_time"> 09:20 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/europe/germany-legalize-recreational-marijuana.html">German Start-Ups Lay the Groundwork for a Marijuana Bonanza</a> NYT: Two of the three parties in Germany’s new governing coalition support legalization, a potentially radical shift in the conservative country. 
  <p class="updated_time"> 08:55 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/covid-variant-france.html">W.H.O. Downplays Threat From New Virus Variant in France</a> NYT: The so-called I.H.U. variant contains numerous mutations of the coronavirus, but experts say it has shown little sign of spreading so far. 
  <p class="updated_time"> 08:24 AM CT, Jan. 05 </p> 
@@ -62,7 +62,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:47 AM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/kazakhstans-government-resigns-amid-unrest-over-fuel-prices-11641386544">Kazakhstan's Government Resigns Amid Unrest Over Fuel Prices</a> WSJ: The country’s president imposed a state of emergency as he faces a crisis that threatens to destabilize the oil-rich former Soviet republic. 
  <p class="updated_time"> 06:57 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/asia/hong-kong-flights.html">Hong Kong Suspends Flights From Eight Countries, Fearing a Fifth Wave</a> NYT: The new measures will deepen the city’s isolation and mark a return to the tough restrictions from the early days of the pandemic as officials race to control Omicron. 
+ <a href="https://www.nytimes.com/2022/01/05/world/asia/hong-kong-flights.html">Hong Kong Suspends Flights From Eight Countries, Fearing a Fifth Wave</a> NYT: The new measures will deepen the city’s isolation and mark a return to the tough restrictions from the early days of the pandemic, as officials race to contain the Omicron variant. 
  <p class="updated_time"> 06:50 AM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/tony-blairs-knighthood-sparks-protest-petition-over-iraq-war-11641405027">Tony Blair's Knighthood Sparks Protest Petition Over Iraq War</a> WSJ: An effort to strip the former British prime minister of the honor has garnered more than 700,000 signatures. 
  <p class="updated_time"> 06:16 AM CT, Jan. 05 </p> 
