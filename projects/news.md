@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:17 PM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070514847/the-global-supply-chain-arriving-today-christopher-mims">The global supply chain is amazingly efficient. So why did it break down?</a> NPR: "Americans went on a shopping spree as soon as lockdown started, and we haven't really stopped," journalist Christopher Mims says. His book, Arriving Today, goes inside the global supply chain. 
  <p class="updated_time"> 11:51 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/india-omicron-coronavirus.html">India’s Rising Omicron Wave Brings a Grim Sense of Déjà Vu</a> NYT: Just months after Delta fueled hospital failures and funeral pyres, India’s leaders again offer a mixed message: Their political rallies are packed even as they order curfews and work closures. 
  <p class="updated_time"> 11:47 AM CT, Jan. 05 </p> 
@@ -15,6 +17,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/macron-france-life-miserable-unvaccinated.html">Macron Under Fire for Vowing to Make Unvaccinated Miserable</a> NYT: The French government is moving to bar unvaccinated people from eligibility for France’s health pass, with a presidential election looming. 
  <p class="updated_time"> 11:32 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/italy-female-statue-padua-prato-della-valle.html">Italy Proposal to Add Female Statue to Square of Men Stirs Debate</a> NYT: In Padua, Italy, a proposal to include a female philosopher in a monument whose 78 sculptures are all men has spurred debate. 
+ <p class="updated_time"> 11:28 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59885770?at_medium=RSS&at_campaign=KARANGA">Philadelphia fire: Seven children among 13 dead in apartment blaze</a> BBC: Two others are injured after a blaze rips through a three-storey public housing block. 
  <p class="updated_time"> 11:13 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59873835?at_medium=RSS&at_campaign=KARANGA">Niger police seize record 200kg of cocaine from mayor's car</a> BBC: The mayor and his driver are arrested for allegedly trying to transport the record haul to Libya. 
  <p class="updated_time"> 11:13 AM CT, Jan. 05 </p> 
@@ -47,16 +51,18 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59879760?at_medium=RSS&at_campaign=KARANGA">Kosovo bans cryptocurrency mining after blackouts</a> BBC: The Balkan country is enforcing blackouts amid an electricity shortage caused by high global prices. 
  <p class="updated_time"> 06:00 AM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/kazakhstans-government-resigns-amid-unrest-over-fuel-prices-11641386544">Kazakhstan's Government Resigns Amid Unrest Over Fuel Prices</a> WSJ: The country’s president imposed a state of emergency as he faces a crisis that threatens to destabilize the oil-rich former Soviet republic. 
+ <p class="updated_time"> 05:57 AM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/prince-andrews-legal-woes-present-another-headache-for-u-k-royal-family-11641401849">Prince Andrew's Legal Woes Present Another Headache for U.K. Royal Family</a> WSJ: Allegations that the queen’s second son abused a 17-year-old girl loom large over the House of Windsor. 
  <p class="updated_time"> 05:55 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59879071?at_medium=RSS&at_campaign=KARANGA">Gal Gadot says Imagine video was in poor taste</a> BBC: The actress and fellow Hollywood stars recorded a cover of Imagine at the beginning of the pandemic. 
+ <p class="updated_time"> 05:44 AM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/records-could-shed-light-on-canada-residential-schools-for-indigenous-children-11641401061">Records Could Shed Light on Canada Schools for Indigenous Children</a> WSJ: The government came under increased pressure to turn over the documents after the discovery last year of more than 1,000 unmarked graves near former residential schools in western Canada. 
  <p class="updated_time"> 05:15 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59878984?at_medium=RSS&at_campaign=KARANGA">Djokovic exemption reaction: 'He might get boos on court'</a> BBC: Australians give their views on Novak Djokovic being able to play in the Australian Open. 
  <p class="updated_time"> 04:54 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea fires suspected ballistic missile into the sea</a> BBC: It follows a number of tests last year and a vow from Kim Jong-un to bolster the North's defences. 
  <p class="updated_time"> 04:51 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
- <p class="updated_time"> 04:28 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59878349?at_medium=RSS&at_campaign=KARANGA">US actress Joan Copeland dies aged 99</a> BBC: The Broadway and TV star, who was also the sister of playwright Arthur Miller, died in her sleep. 
  <p class="updated_time"> 04:20 AM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/europes-trade-czar-walks-line-between-u-s-and-china-11641385213">Europe's Trade Czar Walks Line Between U.S. and China</a> WSJ: Valdis Dombrovskis, the European Union’s executive vice president, has won plaudits for his role in trans-Atlantic relations. The EU’s top economic chief is also trying to lift the economy from Covid-19 crisis. 
  <p class="updated_time"> 04:10 AM CT, Jan. 05 </p> 
@@ -65,22 +71,16 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070472805/xian-reacts-to-covid-lockdowns-with-outrage-and-humor">Residents of Xi'an, China, react to COVID lockdowns with outrage and humor</a> NPR: Lockdowns are so strict and so prolonged in the Chinese city that residents have taken to social media to complain and joke about a lack of basic supplies. 
  <p class="updated_time"> 02:46 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/britain-omicron-boris-johnson.html">Britain can ‘ride out’ the Omicron wave without a strict lockdown, Boris Johnson says.</a> NYT: “We can find a way to live with this virus,” the prime minister said. 
- <p class="updated_time"> 02:26 AM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/frances-macron-rails-against-unvaccinated-people-11641389206">France's Macron Rails Against Unvaccinated People</a> WSJ: President Macron’s comments set off a wave of criticism from opposition politicians ahead of a presidential election that polls suggest will be tight. 
  <p class="updated_time"> 02:20 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59877917?at_medium=RSS&at_campaign=KARANGA">Taiwan buys 20,000 bottles of Lithuania rum destined for China</a> BBC: Taiwan later urged locals to buy rum, posting recipes for rum-infused cocktails. 
  <p class="updated_time"> 02:03 AM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/chinas-unpredictable-heavy-handed-governance-threatens-growth-11641387781">China's Unpredictable, Heavy-Handed Governance Threatens Growth</a> WSJ: The country lacks the right policy tools to meet Xi Jinping’s vastly expanded goals as centralized power roils decision making. 
- <p class="updated_time"> 01:19 AM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/chinas-capital-meets-own-clean-air-standards-for-first-time-as-olympics-approach-11641385193">China's Capital Meets Own Clean-Air Standards for First Time as Olympics Approach</a> WSJ: Beijing residents experienced nearly four months more of clear skies in 2021 compared with 2013, a city official said. The average concentration of fine particulate pollution fell by 13% compared with a year earlier and 63% compared with 2013 levels. 
  <p class="updated_time"> 01:01 AM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-bans-flights-shutters-nightlife-after-omicron-bursts-pandemic-free-bubble-11641384074">Hong Kong Bans Flights, Shuts Nightlife Over Omicron Cases</a> WSJ: City is ‘hoping the short-term pain will pay off’ after the first community Omicron infections punctured one of the world’s strictest and most effective sets of border controls. 
+ <a href="https://www.wsj.com/articles/hong-kong-bans-flights-shutters-nightlife-after-omicron-bursts-pandemic-free-bubble-11641384074">Hong Kong Bans Flights, Shuts Nightlife Over Omicron Cases</a> WSJ: City is “hoping the short-term pain will pay off” after the first community Omicron infections punctured one of the world’s strictest and most effective sets of border controls. 
  <p class="updated_time"> 10:12 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Launches Ballistic Missile, the South Says</a> NYT: The North last conducted a test in October, when it fired a newly developed submarine-launched ballistic missile. 
  <p class="updated_time"> 09:52 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/kazakhstan-emergency-protests-fuel.html">Kazakhstan Declares State of Emergency as Protests Over Fuel Prices Spread</a> NYT: Thousands took to the street as gas prices doubled. The government responded with curfews and tear gas. The president later announced the resignation of the government. 
- <p class="updated_time"> 09:13 PM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/as-china-tensions-smoulder-japan-and-australia-move-to-sign-defense-treaty-11641370418">Australia, Japan to Sign Defense Treaty Amid China Tensions</a> WSJ: The Australia-Japan pact will allow troops to freely enter each other’s countries for exercises without having to negotiate terms each time. 
  <p class="updated_time"> 08:39 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges $31.5 Billion in Indigenous Child Welfare Battle</a> NYT: The government agreed to a landmark settlement to repair the system and compensate those families harmed by it. It potentially ends many years of litigation. 
  <p class="updated_time"> 07:25 PM CT, Jan. 04 </p> 
@@ -135,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/money/2022/01/04/1068916102/how-subsidies-helped-montreal-become-the-hollywood-of-video-games">How subsidies helped Montreal become "the Hollywood of video games"</a> NPR: For decades, Montreal has used generous tax subsidies to boost its video game industry. The policy has succeeded, but the city may need to keep the subsidies in place to keep companies from leaving. 
  <p class="updated_time"> 05:19 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59867772?at_medium=RSS&at_campaign=KARANGA">Silicon Valley's trial of the century</a> BBC: A look at the Theranos trial and the evidence that led to Elizabeth Holmes being found guilty of fraud. 
- <p class="updated_time"> 04:47 AM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070119371/activists-urge-tesla-to-close-its-new-xinjiang-showroom">Activists urge Tesla to close its new Xinjiang showroom</a> NPR: Tesla on Friday announced the opening of its showroom in Urumqi, the capital of Xinjiang, where officials are accused of abuses against mostly Muslim ethnic minorities. 
  <p class="updated_time"> 04:45 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/philippines-manila-covid-lockdown.html">Philippines Expands Lockdown for Unvaccinated Around Manila</a> NYT: The new rules bar unvaccinated residents from leaving their homes except for a list of essential reasons. 
  <p class="updated_time"> 02:00 AM CT, Jan. 04 </p> 
@@ -180,6 +178,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:09 PM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/louisiana-governor-pardons-plessy-526546">Governor pardons Plessy, of ‘separate but equal’ ruling</a> Politico: Louisiana’s governor posthumously pardoned Homer Plessy, the Black man whose arrest sparked the SCOTUS ruling that cemented “separate but equal” into law. 
  <p class="updated_time"> 12:02 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/trump-cancels-press-conference-january-6/index.html">Trump cancels press conference on January 6 anniversary at urging of advisers</a> CNN: Former President Donald Trump abruptly canceled a news conference late Tuesday that he was scheduled to host at Mar-a-Lago on the anniversary of the January 6 insurrection, but which his allies had warned would cause unnecessary problems for Republicans and himself. 
  <p class="updated_time"> 11:52 AM CT, Jan. 05 </p> 
