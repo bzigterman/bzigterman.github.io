@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:15 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Conducts Ballistic Missile Test</a> NYT: The test involved a hypersonic missile, the North said, the latest in a series of tests it has conducted this fall. 
  <p class="updated_time"> 04:10 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/sports/tennis/djokovic-vaccine.html">Djokovic Granted Covid-19 Vaccine Exemption to Play in Australian Open</a> NYT: The top-ranked player in men’s tennis revealed his plans in a post on his Instagram account. 
- <p class="updated_time"> 04:09 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Launches Ballistic Missile, the South Says</a> NYT: The North last conducted a test in October, when it fired a newly developed submarine-launched ballistic missile. 
  <p class="updated_time"> 04:08 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Government calls for Russian help</a> BBC: Peacekeeping troops from Russian-led military alliance will be sent as nationwide protests escalate. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Government calls for Russian help</a> BBC: A Russian-led military alliance will send a peacekeeping force as nationwide protests escalate. 
  <p class="updated_time"> 04:06 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070700705/u-s-and-germany-touch-base-before-meeting-with-russia-about-ukraine-tensions">U.S. and Germany touch base before meeting with Russia about Ukraine tensions</a> NPR: With Russian troops massed on the Ukrainian border, Secretary of State Antony Blinken and his German counterpart huddle before next week's meetings with Russian officials aimed at defusing the crisis. 
  <p class="updated_time"> 03:59 PM CT, Jan. 05 </p> 
@@ -59,14 +59,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59885770?at_medium=RSS&at_campaign=KARANGA">Philadelphia fire: Seven children among 13 dead in apartment blaze</a> BBC: Two others are injured after a blaze rips through a three-storey public housing block. 
  <p class="updated_time"> 11:13 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59873835?at_medium=RSS&at_campaign=KARANGA">Niger police seize record 200kg of cocaine from mayor's car</a> BBC: The mayor and his driver are arrested for allegedly trying to transport the record haul to Libya. 
- <p class="updated_time"> 11:10 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/04/arts/sabine-weiss-dead.html">Sabine Weiss, Last of the ‘Humanist’ Street Photographers, Dies at 97</a> NYT: Like Robert Doisneau and Brassaï, she shot life in postwar Paris as it really was. But she also won fame for her reporting and fashion work. 
  <p class="updated_time"> 10:41 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59880624?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission report: Scandal, bullying and fear</a> BBC: A report reveals how a business family allegedly secured control of South Africa under ex-President Zuma. 
  <p class="updated_time"> 10:39 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070573184/france-emmanuel-macron-covid-unvaccinated-remarks">France's Macron takes heat after saying he wants to 'piss off' the unvaccinated</a> NPR: The French president made the remarks to a newspaper on Tuesday, causing opposition lawmakers to call a halt to debate on a new nationwide mandate. 
  <p class="updated_time"> 10:14 AM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070539543/australia-djokovic-vaccine-exemption">Australian P.M. says Djokovic will be turned back if his vaccine exemption is bogus</a> NPR: "If he's not vaccinated, he must provide acceptable proof that he cannot be vaccinated for medical reasons," Prime Minister Scott Morrison said of the top-ranked tennis player. 
+ <a href="https://www.npr.org/2022/01/05/1070539543/australia-djokovic-vaccine-exemption">Australia cancels Novak Djokovic's visa after his earlier COVID vaccine exemption</a> NPR: The Australian Border Force said the top-ranked tennis player "failed to provide appropriate evidence to meet the entry requirements to Australia, and his visa has been subsequently cancelled." 
  <p class="updated_time"> 10:06 AM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/tony-blairs-knighthood-sparks-protest-petition-over-iraq-war-11641405027">Tony Blair's Knighthood Sparks Protest Petition Over Iraq War</a> WSJ: An effort to strip the former British prime minister of the honor has garnered more than 700,000 signatures. 
  <p class="updated_time"> 10:03 AM CT, Jan. 05 </p> 
@@ -188,8 +186,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:27 PM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/defense-spending-stuck-budget-boost-526557">Pentagon spending stuck in neutral even as lawmakers back budget boost</a> Politico: House Democrats plan to shine a light on the dire budget situation next week when top Pentagon officials testify on the impact of temporary funding on the military. 
+ <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
  <p class="updated_time"> 04:38 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/garland-rebuts-criticism-of-jan-6-probe-526551">Garland rebuts criticism of Jan. 6 probe</a> Politico: The attorney general argued that prosecutors are methodically building cases against the most serious offenders in the attack on the Capitol. 
+ <p class="updated_time"> 04:24 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/business/economy/federal-reserve-minutes-interest-rates.html">Fed Officials Discussed Raising Rates Sooner and Faster, Minutes Show</a> NYT: Minutes from the Federal Reserve’s December meeting show that officials are contemplating when and how quickly to lift interest rates. 
+ <p class="updated_time"> 04:19 PM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/schools-remote-learning-democrats-analysis/index.html">Analysis: The coronavirus debate over school closures has hurt Democrats</a> CNN: The battle over whether schools should be closed to in-person learning because of the coronavirus has ramped up with the Omicron surge. Schools in a number of districts in the country have either gone fully to remote learning or have delayed returning after the holidays. It has also pitted teachers' unions against some Democrats, who have often been allies. 
+ <p class="updated_time"> 04:14 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/biden-harris-voting-rights-speech-atlanta.html">Biden Will Deliver a Speech on Voting Rights in Atlanta on Tuesday</a> NYT: He will be joined by Kamala Harris, the vice president, who is leading the administration’s push for access to the vote. 
  <p class="updated_time"> 04:06 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070700705/u-s-and-germany-touch-base-before-meeting-with-russia-about-ukraine-tensions">U.S. and Germany touch base before meeting with Russia about Ukraine tensions</a> NPR: With Russian troops massed on the Ukrainian border, Secretary of State Antony Blinken and his German counterpart huddle before next week's meetings with Russian officials aimed at defusing the crisis. 
  <p class="updated_time"> 03:57 PM CT, Jan. 05 </p> 
@@ -202,8 +210,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070700670/rep-jaime-raskin-on-growing-through-trauma-in-year-since-jan-6-and-his-sons-deat">Rep. Jaime Raskin on growing through trauma in year since Jan. 6 and his son's death</a> NPR: NPR's Mary Louise Kelly speaks with Rep. Jaime Raskin, D-Md., about leading an impeachment effort against President Trump. Raskin was inside the Capitol building on Jan. 6. 
  <p class="updated_time"> 03:35 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070199411/5-takeaways-from-the-capitol-riot-criminal-cases-one-year-later">5 takeaways from the Capitol riot criminal cases, one year later</a> NPR: NPR has been tracking every criminal case related to the insurrection at the U.S. Capitol on Jan. 6, 2021. One year after the riot, here are some of the key patterns that have emerged from the cases. 
- <p class="updated_time"> 03:33 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/biden-voting-rights-speech.html">Biden Will Deliver a Speech on Voting Rights in Atlanta on Tuesday</a> NYT: He will be joined by Kamala Harris, the vice president, who is leading the administration’s push for access to the vote. 
  <p class="updated_time"> 03:17 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
  <p class="updated_time"> 03:13 PM CT, Jan. 05 </p> 
@@ -226,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/white-house-teachers-union-covid-526547">Psaki: Schools can open safely 'including in Chicago'</a> Politico: “Long story short we want schools to be open, the president wants them to be open, and we’re going to continue to use every resource and work to ensure that’s the case,” Psaki said. 
  <p class="updated_time"> 02:23 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/separate-climate-bill-build-back-better/index.html">Separate climate bill not being seriously considered in Senate, despite Manchin's support of the measures</a> CNN: Senate climate hawks got a new shot of optimism this week as West Virginia Sen. Joe Manchin gave perhaps his most full-throated endorsement yet of the climate change and clean energy portions of the Build Back Better package, Biden's economic and social safety net bill. 
- <p class="updated_time"> 02:13 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/business/economy/federal-reserve-minutes-interest-rates.html">Fed Officials Discussed Raising Rates Sooner and Faster, Minutes Show</a> NYT: Minutes from the Federal Reserve’s December meeting show that officials are contemplating when and how quickly to lift interest rates. 
  <p class="updated_time"> 02:11 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070675936/ag-merrick-garland-jan-6-riot-accountable-anniversary">Merrick Garland vows to keep following leads to hold Jan. 6 rioters accountable </a> NPR: In a speech delivered Wednesday, the attorney general said the Justice Department "will follow the facts wherever they lead. ...The actions we have taken thus far will not be our last." 
  <p class="updated_time"> 01:47 PM CT, Jan. 05 </p> 
@@ -298,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/29/politics/january-6-committee-investigation-trump-what-matters/index.html">The January 6 committee formed 6 months ago. Here's what it's uncovered.</a> CNN: It's been a dramatic six months since the establishment of the House select committee investigating the January 6 Capitol Hill riot. 
  <p class="updated_time"> 07:13 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-jan-6-capitol-attack-anniversary.html">Donald Trump Cancels Jan. 6 Event, After Allies Consider It a Distraction</a> NYT: A Mar-a-Lago news conference on the anniversary of the assault on the Capitol struck Republicans, including some advisers to the former president, as a bad idea. 
- <p class="updated_time"> 07:11 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/biden-nevada-harry-reid-funeral-526520">Biden will travel to Nevada for Harry Reid’s funeral</a> Politico: The service is scheduled for Saturday morning at the Smith Center in downtown Las Vegas. 
  <p class="updated_time"> 06:59 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/sean-hannity-jan-6-committee.html">Sean Hannity Is Asked to Cooperate in Jan. 6 Inquiry as Panel Details Texts</a> NYT: The committee told Mr. Hannity it had obtained “dozens of text messages” he exchanged with senior Trump White House officials around the time of the riot. 
  <p class="updated_time"> 06:48 PM CT, Jan. 04 </p> 
@@ -308,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/biden-white-house-omicron-plan-526516">White House embraces a manage-not-contain Omicron game plan</a> Politico: The president is under immense pressure to keep some semblance of social normalcy amid a pandemic that is absolutely roaring. 
  <p class="updated_time"> 06:40 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/biden-pfizer-pill-order.html">Biden Administration Doubles Order of Pfizer's Covid Pill</a> NYT: President Biden announced that his administration would double its order of Pfizer’s scarce Covid-19 antiviral drug, which has been shown to reduce hospitalizations. 
- <p class="updated_time"> 05:54 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/sean-hannity-dissuade-trump-january-6-526508">Sean Hannity tried to dissuade Trump from Jan. 6 strategy, texts show</a> Politico: “I do NOT see January 6 happening the way he is being told,” the Fox News host said of Trump’s efforts in a  December 2020 text. 
  <p class="updated_time"> 04:19 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/technology/apple-google-spotify-podcast-election-misinformation.html">Election Falsehoods Surged on Podcasts Before Capitol Riots, Researchers Find</a> NYT: A new study analyzed nearly 1,500 episodes, showing the extent to which podcasts pushed misinformation about voter fraud. 
  <p class="updated_time"> 03:46 PM CT, Jan. 04 </p> 
@@ -328,6 +328,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/manchin-biden-spending-bill-negotiation-526486">Manchin on Biden's spending bill: 'No negotiation going on'</a> Politico: The West Virginia senator thinks Democrats would be better off focusing on climate provisions in their wide-ranging megabill. 
  <p class="updated_time"> 12:47 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/omicron-ontario-canada-covid-restrictions-526484">As Covid policies divide America, Ontario doubles down (again)</a> Politico: The latest Covid shutdowns test the trust of the jabbed and boosted in Canada’s most populous province. 
+ <p class="updated_time"> 12:00 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/mitch-landrieu-letter-to-governors-infrastructure/index.html">Biden's infrastructure czar urges governors to appoint their own infrastructure implementation coordinators</a> CNN: President Joe Biden's infrastructure czar Mitch Landrieu sent letters to all the nation's governors on Tuesday urging them to appoint their own infrastructure implementation coordinators to smooth the rollout of the $1.2 trillion law. 
  <p class="updated_time"> 11:49 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/tesla-dealership-xinjiang-china.html">Tesla Draws Criticism After Opening Dealership in Xinjiang </a> NYT: Senator Marco Rubio criticized the electric carmaker for opening the outlet in a region where China has been accused of targeting Muslims. 
  <p class="updated_time"> 10:56 AM CT, Jan. 04 </p> 
@@ -376,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/could-january-6th-happen-again-526167">Could Jan. 6 happen again?</a> Politico: The Capitol Police has made progress under a new chief. But many on the Hill don't have an easy answer. 
  <p class="updated_time"> 09:13 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/harry-reid-to-lie-in-state-in-capitol-rotunda-526381">Harry Reid to lie in state in Capitol Rotunda</a> Politico: The former Senate majority leader died last Tuesday. 
- <p class="updated_time"> 08:52 PM CT, Jan. 02 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/lloyd-austin-test-positive-covid/index.html">Defense Secretary Austin says he has tested positive for Covid-19</a> CNN: Defense Secretary Lloyd Austin has tested positive for Covid-19 and is exhibiting "mild" symptoms, according to a statement from him released by the Defense Department on Sunday. 
  <p class="updated_time"> 06:14 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/biden-january-6-speech/index.html">Biden and Harris to deliver remarks on January 6 anniversary</a> CNN: President Joe Biden and Vice President Kamala Harris will deliver remarks on Thursday to mark the one-year anniversary of the January 6 attack on the US Capitol, the White House said Sunday. 
  <p class="updated_time"> 01:29 PM CT, Jan. 02 </p> 
@@ -408,8 +408,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/31/politics/biden-new-years-eve/index.html">Biden rings in new year, says there's 'no quit in America'</a> CNN: In a New Year's Eve message Friday, President Joe Biden said he's "more optimistic about America's future than I've ever been." 
  <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/31/meet-the-gops-new-national-security-power-broker-495557"> Meet the GOP’s new national security power broker</a> Politico Playbook: And neither Biden nor Putin backs down on a new call. 
- <p class="updated_time"> 07:01 AM CT, Dec. 31 </p> 
- <a href="https://www.politico.com/news/2021/12/31/complaint-doj-foreign-agent-prosecutions-526278">Complaint could roil DOJ foreign-agent prosecutions</a> Politico: Businesswoman Nickie Lum Davis says her guilty plea last year to a charge of unregistered lobbying was coerced. 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
 
