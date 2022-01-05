@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:46 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/europe/britain-omicron-boris-johnson.html">Britain can ‘ride out’ the Omicron wave without a strict lockdown, Boris Johnson says.</a> NYT: “We can find a way to live with this virus,” the prime minister said. 
  <p class="updated_time"> 02:39 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59873833?at_medium=RSS&at_campaign=KARANGA">Covid: President Macron warns he will 'hassle' France's unvaccinated</a> BBC: The president vows to make life difficult for the unjabbed, but opponents condemn his strong language. 
  <p class="updated_time"> 01:43 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59876203?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australian Open vaccine exemption ignites backlash</a> BBC: It is "appalling" that Novak Djokovic can enter the country for the Australian Open, locals say. 
- <p class="updated_time"> 01:15 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/europe/britain-omicron-boris-johnson.html">Britain can ‘ride out’ the Omicron wave without a strict lockdown, Boris Johnson says.</a> NYT: “We can find a way to live with this virus,” the prime minister said 
  <p class="updated_time"> 11:05 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea launches 'unidentified projectile' into sea</a> BBC: South Korean and Japanese officials spot Pyongyang's first launch in 2022, but details are unclear. 
  <p class="updated_time"> 10:12 PM CT, Jan. 04 </p> 
