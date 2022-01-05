@@ -11,8 +11,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59868726?at_medium=RSS&at_campaign=KARANGA">Dakar Rally: France opens terrorism probe into Saudi Arabia blast</a> BBC: The explosion in Saudi Arabia last week badly wounded French rally driver Philippe Boutron. 
  <p class="updated_time"> 05:15 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59878984?at_medium=RSS&at_campaign=KARANGA">Djokovic at Australian Open: 'He might get booed when he gets on court'</a> BBC: Australians give their views on Novak Djokovic being able to play in the Australian Open. 
- <p class="updated_time"> 05:15 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/sports/tennis/novak-djokovic-vaccine-exemption-skepticism.html">Skepticism and anger greet Novak Djokovic’s vaccine exemption.</a> NYT: Some Australians reacted with fury at the announcement from the world’s No. 1 male tennis player, the sport’s most prominent vaccination skeptic. 
  <p class="updated_time"> 05:05 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Almaty mayor's office stormed in protest</a> BBC: Protests over fuel prices are raging for a second day despite a state of emergency in some areas. 
  <p class="updated_time"> 04:54 AM CT, Jan. 05 </p> 
