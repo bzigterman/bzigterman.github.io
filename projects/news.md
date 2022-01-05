@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:39 PM CT, Jan. 05 </p> 
+ <p class="updated_time"> 02:58 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/americas/rio-carnival-covid.html">Rio Carnival's Street Parties Are Canceled, Mayor Says</a> NYT: As the Omicron variant sweeps the globe, the parties in Rio de Janeiro, which ordinarily draw millions of revelers, have been called off for a second year. 
+ <p class="updated_time"> 02:52 PM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59884038?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star's Australia entry delayed over visa row</a> BBC: The tennis player had been controversially exempted from vaccination rules for the Australian Open. 
+ <p class="updated_time"> 02:52 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html">Using Harsh Language, Macron Issues a Challenge to the Unvaccinated</a> NYT: The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds. 
  <p class="updated_time"> 02:12 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/arts/yivo-institute-archives-yiddish-life-online.html">YIVO Institute Makes Archives of Yiddish Life Available Online</a> NYT: After a lengthy effort, artifacts from collections in Lithuania and New York that document Yiddish culture in Eastern Europe before World War II will be accessible to scholars and others. 
  <p class="updated_time"> 02:10 PM CT, Jan. 05 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/europe/germany-legalize-recreational-marijuana.html">German Start-Ups Lay the Groundwork for a Marijuana Bonanza</a> NYT: Two of the three parties in Germany’s new governing coalition support legalization, a potentially radical shift in the conservative country. 
  <p class="updated_time"> 01:49 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Staff flee as protesters enter airport</a> BBC: Demonstrations sparked by rising fuel prices escalate, despite a state of emergency in some areas. 
- <p class="updated_time"> 01:42 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59884038?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star's Australia entry delayed over visa row</a> BBC: The tennis player had been controversially exempted from vaccination rules for the Australian Open. 
  <p class="updated_time"> 01:39 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakh Protesters Burn Government Offices as Unrest Sweeps Country</a> NYT: An uprising sparked by a gas price increase in the resource-rich Central Asian nation has taken on a political dimension despite concessions from the ruling party. 
  <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/middleeast/tunisia-economy-kais-saied.html">Pressure Mounts on Tunisia’s President to Salvage the Economy</a> NYT: When President Kais Saied seized power in July, he vowed to rescue the failing economy. Tunisians are still waiting for him to fulfill that pledge. 
  <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/article/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
- <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/travel/nepal-maha-shivaratri.html">Celebrating the ‘Great Night of Shiva’ in Kathmandu</a> NYT: Every year, thousands of celebrants gather at a temple complex in Nepal’s capital in honor of Shiva, one of Hinduism’s most revered gods. 
  <p class="updated_time"> 06:55 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59566983?at_medium=RSS&at_campaign=KARANGA">In the footsteps of the women who escaped a Nazi death march</a> BBC: When Gwen Strauss' great-aunt revealed she had led nine women in an escape from a Nazi death march in 1945, Gwen decided to retrace their steps. 
 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:52 PM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/green-village-attack-us-coalition-forces-iranian-militias/index.html">Iraqi and Syrian bases holding US troops attacked, but no American forces were killed </a> CNN: US-led coalition forces fired back after they were attacked Wednesday morning by suspected Iranian-backed militias who fired eight rounds of indirect fire at their base in eastern Syria near the Iraqi border, though there were no coalition casualties, according to a statement from the coalition. 
  <p class="updated_time"> 02:42 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/white-house-rapid-tests.html">Reimbursement for At-Home Virus Tests Starts Next Week. White House Says</a> NYT: With demand for coronavirus tests exploding, new federal sites will open soon, the White House said, but there were no details yet on when Americans would get the free tests President Biden promised. 
  <p class="updated_time"> 02:31 PM CT, Jan. 05 </p> 
@@ -196,10 +198,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/ghislaine-maxwell-trial-juror-526548">Prosecutors alert Maxwell judge of juror's sex abuse claims</a> Politico: Prosecutors urged the judge who presided over the trial of Ghislaine Maxwell to conduct an inquiry into the juror's reported claims. 
  <p class="updated_time"> 02:25 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/white-house-teachers-union-covid-526547">Psaki: Schools can open safely 'including in Chicago'</a> Politico: “Long story short we want schools to be open, the president wants them to be open and we’re going to continue to use every resource and work to ensure that’s the case,” Psaki said. 
- <p class="updated_time"> 02:15 PM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/doj-investigation-jan-6-insurrection/index.html">Biggest investigation in FBI history still has Garland in the hot seat </a> CNN: A year after the January 6 insurrection, the Justice Department continues to press forward on the biggest investigation in FBI history, with 700 people already arrested and hundreds more offenders still at large and several more years of prosecutions ahead. 
+ <p class="updated_time"> 02:23 PM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/separate-climate-bill-build-back-better/index.html">Separate climate bill not being seriously considered in Senate, despite Manchin's support of the measures</a> CNN: Senate climate hawks got a new shot of optimism this week as West Virginia Sen. Joe Manchin gave perhaps his most full-throated endorsement yet of the climate change and clean energy portions of the Build Back Better package, Biden's economic and social safety net bill. 
  <p class="updated_time"> 02:13 PM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/merrick-garland-january-6-anniversary-speech/index.html">Garland to vow to hold January 6 perpetrators 'at any level, accountable under law'</a> CNN: Attorney General Merrick Garland will say in a speech Wednesday that the Justice Department "remains committed to holding all January 6th perpetrators, at any level, accountable under law -- whether they were present that day or were otherwise criminally responsible for the assault on our democracy," according to an excerpt from the Justice Department. 
+ <a href="https://www.cnn.com/2022/01/05/politics/merrick-garland-january-6-anniversary-speech/index.html">Merrick Garland on Capitol attack: 'The actions we have taken thus far will not be our last'</a> CNN: Attorney General Merrick Garland will say in a speech Wednesday that the Justice Department "remains committed to holding all January 6th perpetrators, at any level, accountable under law -- whether they were present that day or were otherwise criminally responsible for the assault on our democracy," according to an excerpt from the Justice Department. 
  <p class="updated_time"> 02:13 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/business/economy/federal-reserve-minutes-interest-rates.html">Fed Officials Discussed Raising Rates Sooner and Faster, Minutes Show</a> NYT: Minutes from the Federal Reserve’s December meeting show that officials are contemplating when and how quickly to lift interest rates. 
  <p class="updated_time"> 02:11 PM CT, Jan. 05 </p> 
@@ -220,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/05/politics/capitol-police-understaffed-tom-manger/index.html">Capitol Police lay out changes since January 6 but acknowledge they are understaffed</a> CNN: The US Capitol Police board is detailing a list of changes -- from trainings to new recruitment efforts, hoping to convince members of Congress the department has significantly improved since the January 6 attack exposed problems, while acknowledging the agency is significantly understaffed. 
  <p class="updated_time"> 11:45 AM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/covid-19-testing-sites/index.html">Biden administration launching additional testing sites in six states</a> CNN: The Biden administration is opening additional federally run free Covid-19 testing sites in six states across the country -- Maine, Maryland, Nevada, Delaware, Texas and Washington -- as the Omicron variant of the coronavirus continues to surge in the US. 
- <p class="updated_time"> 11:28 AM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/green-village-attack-us-coalition-forces-iranian-militias/index.html">US-led coalition fires back after attack by suspected Iranian-backed militias in Syria</a> CNN: US-led coalition forces fired back after they were attacked Wednesday morning by suspected Iranian-backed militias who fired eight rounds of indirect fire at their base in eastern Syria near the Iraqi border, though there were no coalition casualties, according to a statement from the coalition. 
  <p class="updated_time"> 11:20 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/mcconnell-electoral-count-act-reform-526542">McConnell cracks door to Electoral Count Act reform</a> Politico: “It obviously has some flaws. And it is worth, I think, discussing,” the Senate minority leader said Wednesday. 
  <p class="updated_time"> 11:13 AM CT, Jan. 05 </p> 
@@ -244,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-gop-jan-6.html">How Trump Kept His Grip After Jan. 6</a> NYT: Only weeks after instigating the Capitol riot, Donald Trump was back in command of the Republican Party. 
  <p class="updated_time"> 07:35 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/05/security-still-top-of-mind-a-year-after-capitol-attack-495603">Security still top of mind a year after Capitol attack</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:15 AM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/gop-reaction-january-6-anniversary/index.html">Republicans seek to avoid Trump talk as party grapples with January 6 anniversary</a> CNN: Republicans on Capitol Hill are under pressure to reflect on the deadly events of January 6 but are also trying to avoid talking about former President Donald Trump's culpability -- underscoring how the attack remains an unwelcome distraction for a party eager to gain voters' trust in this fall's pivotal elections. 
  <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/05/republicans-dodge-and-deflect-ahead-of-jan-6-495599"> Republicans dodge and deflect ahead of Jan. 6</a> Politico Playbook: And prices for at-home Covid-19 tests rise. 
  <p class="updated_time"> 05:39 AM CT, Jan. 05 </p> 
@@ -302,12 +300,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070338031/what-u-s-capitol-security-looks-like-a-year-after-the-jan-6-insurrection">What U.S. Capitol security looks like a year after the Jan. 6 insurrection</a> NPR: A year after the Jan. 6 riot, a new team of Capitol security leaders are in place, and congressional probes are investigating what went wrong that day. The partisan divide in Congress has intensified. 
  <p class="updated_time"> 03:46 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070337975/democrats-revisit-voting-rights-legislation-around-jan-6-anniversary">Democrats revisit voting rights legislation around Jan. 6 anniversary</a> NPR: Democrats are making a fresh push on voting rights legislation around the anniversary of the Jan. 6 insurrection, while also trying to revive President Biden's Build Back Better agenda. 
- <p class="updated_time"> 03:39 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/tim-kaine-stranded-interstate-95-winter-storm/index.html">Virginia senator recounts being stuck on I-95 for more than 20 hours after winter storm</a> CNN: Sen. Tim Kaine on Tuesday recounted his hours-long journey on a Washington-area highway after a winter storm crippled the region and left hundreds, including the Virginia Democrat, stranded for hours on roads. 
  <p class="updated_time"> 03:36 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/police-officer-lawsuits-capitol-riot-trump-526491">Police officer lawsuits pile up against Trump over Jan. 6</a> Politico: Three more officers who responded to the Jan. 6 attack filed a lawsuit against the former president Tuesday, seeking damages for physical and emotional injuries. 
  <p class="updated_time"> 03:24 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070337968/why-is-the-big-lie-proving-so-hard-to-dispel">Why is the 'Big Lie' proving so hard to dispel?</a> NPR: One year after the insurrection at the U.S. Capitol, a new NPR/Ipsos poll shows many Americans still buy into the "Big Lie": the baseless claim that the 2020 election was stolen. 
+ <p class="updated_time"> 02:28 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden announces US will double its order of Pfizer's antiviral pill to treat Covid-19</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
  <p class="updated_time"> 01:02 PM CT, Jan. 04 </p> 
@@ -320,6 +318,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/omicron-ontario-canada-covid-restrictions-526484">As Covid policies divide America, Ontario doubles down (again)</a> Politico: The latest Covid shutdowns test the trust of the jabbed and boosted in Canada’s most populous province. 
  <p class="updated_time"> 12:20 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1069232219/heres-where-election-deniers-and-doubters-are-running-to-control-voting">Here's where election-denying candidates are running to control voting</a> NPR: An NPR analysis found at least 15 Republican candidates for secretary of state offices in 2022 who doubt Joe Biden's 2020 victory. 
+ <p class="updated_time"> 12:00 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/mitch-landrieu-letter-to-governors-infrastructure/index.html">Biden's infrastructure czar urges governors to appoint their own infrastructure implementation coordinators</a> CNN: President Joe Biden's infrastructure czar Mitch Landrieu sent letters to all the nation's governors on Tuesday urging them to appoint their own infrastructure implementation coordinators to smooth the rollout of the $1.2 trillion law. 
  <p class="updated_time"> 11:49 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/tesla-dealership-xinjiang-china.html">Tesla Draws Criticism After Opening Dealership in Xinjiang </a> NYT: Senator Marco Rubio criticized the electric carmaker for opening the outlet in a region where China has been accused of targeting Muslims. 
  <p class="updated_time"> 11:48 AM CT, Jan. 04 </p> 
