@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:42 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Almaty mayor's office stormed in protest</a> BBC: Protests over fuel prices are raging for a second day despite a state of emergency in some areas. 
  <p class="updated_time"> 04:28 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59878349?at_medium=RSS&at_campaign=KARANGA">US actress Joan Copeland dies aged 99</a> BBC: The Broadway and TV star, who was also the sister of playwright Arthur Miller, died in her sleep. 
  <p class="updated_time"> 04:24 AM CT, Jan. 05 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Launches Ballistic Missile, the South Says</a> NYT: The North last conducted a test in October, when it fired a newly developed submarine-launched ballistic missile. 
  <p class="updated_time"> 09:52 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/kazakhstan-emergency-protests-fuel.html">Kazakhstan Declares State of Emergency as Protests Over Fuel Prices Spread</a> NYT: Thousands took to the street as gas prices doubled. The government responded with curfews and tear gas. The president later announced the resignation of the government. 
- <p class="updated_time"> 09:40 PM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: State of emergency declared after fuel protests</a> BBC: President Kassym-Jomart Tokayev declares a two-week state of emergency and accepts government resignation. 
  <p class="updated_time"> 08:39 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges $31.5 Billion in Indigenous Child Welfare Battle</a> NYT: The government agreed to a landmark settlement to repair the system and compensate those families harmed by it. It potentially ends many years of litigation. 
  <p class="updated_time"> 08:10 PM CT, Jan. 04 </p> 
@@ -230,6 +230,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-gop-jan-6.html">How Trump Kept His Grip After Jan. 6</a> NYT: Only weeks after instigating the Capitol riot, Donald Trump was back in command of the Republican Party. 
  <p class="updated_time"> 06:03 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/abbott-texas-national-guard-vaccine-lawsuit/index.html">Texas Gov. Abbott sues Biden over requirement that National Guard be vaccinated</a> CNN: Texas Republican Gov. Greg Abbott sued President Joe Biden and other members of the administration on Tuesday over the requirement that members of the National Guard be vaccinated against Covid-19. 
+ <p class="updated_time"> 05:54 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/sean-hannity-dissuade-trump-january-6-526508">Sean Hannity tried to dissuade Trump from Jan. 6 strategy, texts show</a> Politico: “I do NOT see January 6 happening the way he is being told,” the Fox News host said of Trump’s efforts in a  December 2020 text. 
  <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/cdc-doubles-down-quarantine-guidelines-526501">CDC recommits to isolation and quarantine guidelines without tests</a> Politico: The recent guidance, updated Dec. 29, said individuals who test positive for Covid-19 and whose symptoms are resolving need only isolate for five days as long as they continue to wear masks for an additional five days. 
  <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
@@ -272,6 +274,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070254014/longtime-chicago-congressman-bobby-rush-is-the-latest-democrat-to-leave-washingt">Longtime Chicago Congressman Bobby Rush is the latest Democrat to leave Washington</a> NPR: The 75-year-old former Black Panther leader won't seek a 16th term in Congress, but vowed he'll remain an activist. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/manchin-biden-spending-bill-negotiation-526486">Manchin on Biden's spending bill: 'No negotiation going on'</a> Politico: The West Virginia senator thinks Democrats would be better off focusing on climate provisions in their wide-ranging megabill. 
+ <p class="updated_time"> 12:47 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/omicron-ontario-canada-covid-restrictions-526484">As Covid policies divide America, Ontario doubles down (again)</a> Politico: The latest Covid shutdowns test the trust of the jabbed and boosted in Canada’s most populous province. 
  <p class="updated_time"> 12:20 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1069232219/heres-where-election-deniers-and-doubters-are-running-to-control-voting">Here's where election-denying candidates are running to control voting</a> NPR: An NPR analysis found at least 15 Republican candidates for secretary of state offices in 2022 who doubt Joe Biden's 2020 victory. 
  <p class="updated_time"> 12:00 PM CT, Jan. 04 </p> 
@@ -312,10 +316,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070119371/activists-urge-tesla-to-close-its-new-xinjiang-showroom">Activists urge Tesla to close its new Xinjiang showroom</a> NPR: Tesla on Friday announced the opening of its showroom in Urumqi, the capital of Xinjiang, where officials are accused of abuses against mostly Muslim ethnic minorities. 
  <p class="updated_time"> 04:30 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/doj-domestic-terrorism-sentences-jan-6-526407">Why DOJ is avoiding domestic terrorism sentences for Jan. 6 defendants</a> Politico: Some judges have debated whether the charges qualify as “crimes of terrorism,” but prosecutors have repeatedly pulled back by citing unspecified “facts and circumstances.” 
- <p class="updated_time"> 04:30 AM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/pentagon-extremism-ranks-jan-6-526441">‘Close the loopholes’: The Pentagon’s next front in its hunt for extremists</a> Politico: The military put stricter rules in place after Jan. 6. But will those efforts stick? 
- <p class="updated_time"> 04:30 AM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/amazon-google-thwart-antitrust-bills-526460">Amazon and Google deploy their armies to thwart antitrust bills</a> Politico: Small businesses that rely on the tech giants are signing petitions and joining Zoom calls with lawmakers to warn against legislation aimed at promoting competition. 
  <p class="updated_time"> 04:00 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/magazine/jan-6-capitol-police-officers.html">The Capitol Police and the Scars of the January 6th Riot</a> NYT: For many officers, their bodies, minds and lives will never be the same after the attack. 
  <p class="updated_time"> 11:03 PM CT, Jan. 03 </p> 
@@ -372,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
  <p class="updated_time"> 12:55 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/hogan-health-care-covid-maryland-526361">‘You can’t really manufacture doctors and nurses that don’t exist’</a> Politico: Maryland Gov. Larry Hogan said his state is trying everything it can to ensure it has enough health care workers. 
- <p class="updated_time"> 12:14 PM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-testing-526360">More Covid testing programs on the way for schools, Education secretary says</a> Politico: “We’re working closely now to make sure that they’re being set up,” Miguel Cardona said. 
  <p class="updated_time"> 11:41 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/bennie-thompson-jan-6-526357">Members of Congress interacted with Jan. 6 rioters, Rep. Thompson says</a> Politico: But it’s not clear how extensive or significant those interactions were. 
  <p class="updated_time"> 11:15 AM CT, Jan. 02 </p> 
