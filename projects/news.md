@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:57 PM CT, Jan. 04 </p> 
+ <p class="updated_time"> 10:12 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Launches Ballistic Missile, the South Says</a> NYT: The North last conducted a test in October, when it fired a newly developed submarine-launched ballistic missile. 
  <p class="updated_time"> 09:54 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59876203?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australian Open vaccine exemption ignites backlash</a> BBC: It is "appalling" that Novak Djokovic can enter the country for the Australian Open, locals say. 
@@ -188,6 +188,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/sebastian-gorka-jan-6-committee-526534">Jan. 6 committee seeking phone records from Gorka</a> Politico: The radio host is suing to block the panel from getting his records. 
  <p class="updated_time"> 10:16 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
+ <p class="updated_time"> 10:14 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/brenda-lawrence-democratic-house-retirements/index.html">Rep. Brenda Lawrence adds to growing number of House Democrats retiring at end of this term</a> CNN: Democratic Rep. Brenda Lawrence of Michigan announced on Tuesday that she will not seek reelection to the House this year after four terms representing Michigan's 14th District, becoming the 25th House Democrat to announce they're leaving at the end of this term. "Today, after reflecting on my journey -- and oh, my goodness, what a journey -- and having conversations with my family, I am announcing that I will not be seeking reelection to Congress," Lawrence said in a video posted to Twitter. "I'm incredibly grateful for the people of Michigan's 14th Congressional District who have placed their trust and vote in me -- in me, just a little Black girl from the east side of Detroit, you made me your congresswoman." 
  <p class="updated_time"> 08:35 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/fact-check-capitol-insurrection-january-6-lies/index.html">Fact check: Five enduring lies about the Capitol insurrection</a> CNN: The Capitol insurrection was based on a lie about the 2020 election. And for a whole year now, the insurrection itself has been lied about. 
  <p class="updated_time"> 08:02 PM CT, Jan. 04 </p> 
@@ -208,6 +210,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070408567/house-jan-6-committee-seeks-to-question-fox-news-sean-hannity-about-capitol-riot">House Jan. 6 committee seeks to question Fox News' Sean Hannity about the Capitol riot</a> NPR: In its request to speak with Hannity, the panel disclosed newly revealed texts he allegedly sent, including one on Jan. 5 that said: "[I'm] very worried about the next 48 hours." 
  <p class="updated_time"> 06:45 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/biden-white-house-omicron-plan-526516">White House embraces a manage-not-contain Omicron game plan</a> Politico: The president is under immense pressure to keep some semblance of social normalcy amid a pandemic that is absolutely roaring. 
+ <p class="updated_time"> 06:40 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/us/politics/biden-pfizer-pill-order.html">Biden Administration Doubles Order of Pfizer's Covid Pill</a> NYT: President Biden announced that his administration would double its order of Pfizer’s scarce Covid-19 antiviral drug, which has been shown to reduce hospitalizations. 
  <p class="updated_time"> 06:10 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-gop-jan-6.html">How Trump Kept His Grip After Jan. 6</a> NYT: Only weeks after instigating the Capitol riot, Donald Trump was back in command of the Republican Party. 
  <p class="updated_time"> 06:03 PM CT, Jan. 04 </p> 
@@ -234,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070337975/democrats-revisit-voting-rights-legislation-around-jan-6-anniversary">Democrats revisit voting rights legislation around Jan. 6 anniversary</a> NPR: Democrats are making a fresh push on voting rights legislation around the anniversary of the Jan. 6 insurrection, while also trying to revive President Biden's Build Back Better agenda. 
  <p class="updated_time"> 03:39 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/tim-kaine-stranded-interstate-95-winter-storm/index.html">Virginia senator recounts being stuck on I-95 for more than 20 hours after winter storm</a> CNN: Sen. Tim Kaine on Tuesday recounted his hours-long journey on a Washington-area highway after a winter storm crippled the region and left hundreds, including the Virginia Democrat, stranded for hours on roads. 
- <p class="updated_time"> 03:36 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/police-officer-lawsuits-capitol-riot-trump-526491">Police officer lawsuits pile up against Trump over Jan. 6</a> Politico: Three more officers who responded to the Jan. 6 attack filed a lawsuit against the former president Tuesday, seeking damages for physical and emotional injuries. 
  <p class="updated_time"> 03:24 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070337968/why-is-the-big-lie-proving-so-hard-to-dispel">Why is the 'Big Lie' proving so hard to dispel?</a> NPR: One year after the insurrection at the U.S. Capitol, a new NPR/Ipsos poll shows many Americans still buy into the "Big Lie": the baseless claim that the 2020 election was stolen. 
  <p class="updated_time"> 03:03 PM CT, Jan. 04 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/fda-authorizes-covid-boosters-for-younger-teens-526392">FDA authorizes Covid boosters for teens 12-15</a> Politico: The agency will also allow some immunocompromised children as young as age 5 to get an additional dose. 
  <p class="updated_time"> 08:32 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/white-house-closures-snow-526382">White House cancels press briefing, citing snow-related federal closures</a> Politico: The National Weather Service on Monday morning issued a winter storm warning for the District of Columbia and adjacent counties in Maryland and Virginia. 
- <p class="updated_time"> 08:06 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/02/business/economy/child-tax-credit.html">Child Tax Credit’s Extra Help Ends, Just as Covid Surges Anew</a> NYT: A pandemic benefit that many progressives hoped to make permanent has lapsed in a congressional standoff. Researchers say it spared many from poverty. 
  <p class="updated_time"> 07:46 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/03/new-year-same-to-do-list-for-congress-495569">New Year, same to-do list for Congress</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:15 AM CT, Jan. 03 </p> 
@@ -378,6 +378,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
  <p class="updated_time"> 12:55 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/hogan-health-care-covid-maryland-526361">‘You can’t really manufacture doctors and nurses that don’t exist’</a> Politico: Maryland Gov. Larry Hogan said his state is trying everything it can to ensure it has enough health care workers. 
+ <p class="updated_time"> 12:14 PM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-testing-526360">More Covid testing programs on the way for schools, Education secretary says</a> Politico: “We’re working closely now to make sure that they’re being set up,” Miguel Cardona said. 
  <p class="updated_time"> 11:41 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/bennie-thompson-jan-6-526357">Members of Congress interacted with Jan. 6 rioters, Rep. Thompson says</a> Politico: But it’s not clear how extensive or significant those interactions were. 
  <p class="updated_time"> 11:15 AM CT, Jan. 02 </p> 
@@ -404,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/31/meet-the-gops-new-national-security-power-broker-495557"> Meet the GOP’s new national security power broker</a> Politico Playbook: And neither Biden nor Putin backs down on a new call. 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
- <p class="updated_time"> 08:17 AM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Biden administration results in more of the same Trump immigration policies</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
  <p class="updated_time"> 11:07 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/29/harry-reids-legacy-495555"> Harry Reid’s legacy</a> Politico Playbook: And Michigan and Virginia get their new congressional maps. 
  <p class="updated_time"> 10:26 AM CT, Dec. 29 </p> 
