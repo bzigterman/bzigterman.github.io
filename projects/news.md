@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:51 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/asia/india-omicron-coronavirus.html">India’s Rising Omicron Wave Brings a Grim Sense of Déjà Vu</a> NYT: Just months after Delta fueled hospital failures and funeral pyres, India’s leaders again offer a mixed message: Their political rallies are packed even as they order curfews and work closures. 
+ <p class="updated_time"> 11:47 AM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/01/05/1070046189/a-texas-team-comes-up-with-a-covid-vaccine-that-could-be-a-global-game-changer">A Texas team comes up with a COVID vaccine that could be a global game changer</a> NPR: Peter Hotez and Maria Elena Bottazzi used an oldie-but- goodie technology to devise a vaccine that's easy to make — and relatively cheap. India has already ordered 300 million doses. 
+ <p class="updated_time"> 11:43 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/macron-france-life-miserable-unvaccinated.html">Macron Under Fire for Vowing to Make Unvaccinated Miserable</a> NYT: The French government is moving to bar unvaccinated people from eligibility for France’s health pass, with a presidential election looming. 
  <p class="updated_time"> 11:32 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/italy-female-statue-padua-prato-della-valle.html">Italy Proposal to Add Female Statue to Square of Men Stirs Debate</a> NYT: In Padua, Italy, a proposal to include a female philosopher in a monument whose 78 sculptures are all men has spurred debate. 
- <p class="updated_time"> 11:19 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/asia/india-omicron-coronavirus.html">India’s Rising Omicron Wave Brings a Grim Sense of Déjà Vu</a> NYT: Just months after Delta fueled hospital failures and funeral pyres, India’s leaders again offer a mixed message: Their political rallies are packed even as they order curfews and work closures. 
  <p class="updated_time"> 11:13 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59873835?at_medium=RSS&at_campaign=KARANGA">Niger police seize record 200kg of cocaine from mayor's car</a> BBC: The mayor and his driver are arrested for allegedly trying to transport the record haul to Libya. 
  <p class="updated_time"> 11:13 AM CT, Jan. 05 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59873833?at_medium=RSS&at_campaign=KARANGA">Covid: French uproar as Macron vows to 'piss off' unvaccinated</a> BBC: The president vows to make life difficult for the unjabbed, but opponents condemn his language. 
  <p class="updated_time"> 10:14 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070539543/australia-djokovic-vaccine-exemption">Australian P.M. says Djokovic will be turned back if his vaccine exemption is bogus</a> NPR: "If he's not vaccinated, he must provide acceptable proof that he cannot be vaccinated for medical reasons," Prime Minister Scott Morrison said of the top-ranked tennis player. 
- <p class="updated_time"> 10:07 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/macron-france-life-miserable-unvaccinated.html">Macron Under Fire for Vowing to Make Unvaccinated Miserable</a> NYT: The French government is moving to bar unvaccinated people from eligibility for France’s health pass, with a presidential election looming. 
  <p class="updated_time"> 09:58 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59884801?at_medium=RSS&at_campaign=KARANGA">Pope Francis says choosing pets over kids is selfish</a> BBC: Pope Francis has said that those who choose to have pets over children show "a form of selfishness". 
  <p class="updated_time"> 09:48 AM CT, Jan. 05 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59869509?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Behind the bubble in Beijing</a> BBC: Have a look at how Beijing is preparing for the Games - with a sealed off area to keep Covid out. 
  <p class="updated_time"> 12:07 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59871779?at_medium=RSS&at_campaign=KARANGA">Europe's tattoo artists fear for future after EU ink ban</a> BBC: Thousands of chemicals are banned by EU for safety reasons, but tattooists say it will hit business. 
- <p class="updated_time"> 11:09 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/business/opec-oil-output.html">OPEC and Allies Agree to Raise Oil Output Amid Lagging Production</a> NYT: The group called OPEC Plus decided to increase oil output by 400,000 barrels a day, but its members have lately been falling short of production quotas. 
  <p class="updated_time"> 10:33 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070171056/novak-djokovic-gets-a-vaccination-exemption-to-play-in-the-australian-open">Novak Djokovic gets a vaccination exemption to play in the Australian Open</a> NPR: The tournament's defending champion posted a photo of himself smiling at an airport. But in Australia, some of the responses to his Twitter post were not happy ones. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
@@ -139,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070119371/activists-urge-tesla-to-close-its-new-xinjiang-showroom">Activists urge Tesla to close its new Xinjiang showroom</a> NPR: Tesla on Friday announced the opening of its showroom in Urumqi, the capital of Xinjiang, where officials are accused of abuses against mostly Muslim ethnic minorities. 
  <p class="updated_time"> 04:45 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/philippines-manila-covid-lockdown.html">Philippines Expands Lockdown for Unvaccinated Around Manila</a> NYT: The new rules bar unvaccinated residents from leaving their homes except for a list of essential reasons. 
- <p class="updated_time"> 02:52 AM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070110830/western-wall-prayer-sites-future-is-in-doubt-under-israels-fragile-government">Western Wall prayer site's future is in doubt under Israel's fragile government</a> NPR: Israel's refusal to recognize liberal Reform and Conservative streams of Judaism has long been a point of tension with American Jews. 
  <p class="updated_time"> 02:00 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/britain-electricity-norway-cables.html">A Widening Web of Undersea Cables Connects Britain to Green Energy</a> NYT: Linking one nation’s power grid with another’s is considered essential as more electricity is generated from solar and wind. 
  <p class="updated_time"> 08:58 PM CT, Jan. 03 </p> 
@@ -171,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/business/china-evergrande-shares-hong-kong.html">China Evergrande Suspends Trading Shares in Hong Kong</a> NYT: The world’s most indebted property developer provided no details on the suspension, but it suggested an announcement “containing inside information” would come soon. 
  <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/article/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
- <p class="updated_time"> 04:02 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/02/world/us-defense-secretary-austin-covid.html">U.S. Defense Secretary Tests Positive for Coronavirus</a> NYT: Lloyd J. Austin III stressed that his fully vaccinated status — including a booster received in early October — was to thank for his mild symptoms. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/travel/nepal-maha-shivaratri.html">Celebrating the ‘Great Night of Shiva’ in Kathmandu</a> NYT: Every year, thousands of celebrants gather at a temple complex in Nepal’s capital in honor of Shiva, one of Hinduism’s most revered gods. 
  <p class="updated_time"> 06:55 PM CT, Jan. 01 </p> 
@@ -184,6 +180,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:02 PM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/trump-cancels-press-conference-january-6/index.html">Trump cancels press conference on January 6 anniversary at urging of advisers</a> CNN: Former President Donald Trump abruptly canceled a news conference late Tuesday that he was scheduled to host at Mar-a-Lago on the anniversary of the January 6 insurrection, but which his allies had warned would cause unnecessary problems for Republicans and himself. 
+ <p class="updated_time"> 11:52 AM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/capitol-police-understaffed-tom-manger/index.html">Capitol Police lay out changes since January 6 but acknowledge they are understaffed</a> CNN: The US Capitol Police board is detailing a list of changes -- from trainings to new recruitment efforts, hoping to convince members of Congress the department has significantly improved since the January 6 attack exposed problems, while acknowledging the agency is significantly understaffed. 
+ <p class="updated_time"> 11:45 AM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/covid-19-testing-sites/index.html">Biden administration launching additional testing sites in six states</a> CNN: The Biden administration is opening additional federally run free Covid-19 testing sites in six states across the country -- Maine, Maryland, Nevada, Delaware, Texas and Washington -- as the Omicron variant of the coronavirus continues to surge in the US. 
  <p class="updated_time"> 11:28 AM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/green-village-attack-us-coalition-forces-iranian-militias/index.html">US-led coalition fires back after attack by suspected Iranian-backed militias in Syria</a> CNN: US-led coalition forces fired back after they were attacked Wednesday morning by suspected Iranian-backed militias who fired eight rounds of indirect fire at their base in eastern Syria near the Iraqi border, though there were no coalition casualties, according to a statement from the coalition. 
  <p class="updated_time"> 11:20 AM CT, Jan. 05 </p> 
@@ -193,17 +195,13 @@ permalink: /projects/news/
  <p class="updated_time"> 11:13 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/republican-impeachment-votes-trump-jan-6.html">A Long, Hard Year for Republicans Who Voted to Impeach After Jan. 6</a> NYT: Ten House Republicans voted to charge President Donald J. Trump with inciting the Capitol attack. All of them are still struggling with the consequences. 
  <p class="updated_time"> 11:11 AM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/stephanie-grisham-committee-meeting/index.html">Ex-White House press secretary Stephanie Grisham to meet with January 6 committee</a> CNN: Former White House press secretary Stephanie Grisham will meet Wednesday evening on Capitol Hill with the select committee investigating the January 6 insurrection, according to multiple sources familiar with the meeting. 
+ <a href="https://www.cnn.com/2022/01/05/politics/stephanie-grisham-committee-meeting/index.html">Stephanie Grisham to meet with January 6 panel</a> CNN: Former White House press secretary Stephanie Grisham will meet Wednesday evening on Capitol Hill with the select committee investigating the January 6 insurrection, according to multiple sources familiar with the meeting. 
  <p class="updated_time"> 11:05 AM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/manchin-child-tax-credit-income-limit/index.html">Manchin thinks the child tax credit is too generous -- but Republicans are responsible for that</a> CNN: West Virginia Sen. Joe Manchin has lots of issues with the Democrats' expanded child tax credit, which is a main reason why his party's plan to extend it for another year is on ice. 
+ <a href="https://www.cnn.com/2022/01/05/politics/manchin-child-tax-credit-income-limit/index.html">Manchin says too many higher-income families qualify for the child tax credit. But the 2017 GOP tax law made that happen</a> CNN: West Virginia Sen. Joe Manchin has lots of issues with the Democrats' expanded child tax credit, which is a main reason why his party's plan to extend it for another year is on ice. 
  <p class="updated_time"> 10:54 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/capitol-police-january-6.html">Capitol Police Chief Commits to Security Improvements</a> NYT: Chief J. Thomas Manger, the head of an agency still reeling from the Jan. 6 attack, told lawmakers he was already addressing most of the 103 recommendations from an internal watchdog. 
- <p class="updated_time"> 10:40 AM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/covid-19-testing-sites/index.html">Biden administration launching additional testing sites in six states</a> CNN: The Biden administration is opening additional federally run free Covid-19 testing sites in six states across the country -- Maine, Maryland, Nevada, Delaware, Texas and Washington -- as the Omicron variant of the coronavirus continues to surge in the US. 
  <p class="updated_time"> 10:25 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/fads-crypto-lobbying-politics-526538">NFTs move to influence Congress, even if lawmakers have no clue what they are</a> Politico: For the first time, a company has registered to lobby the federal government on NFTs. 
- <p class="updated_time"> 10:14 AM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/trump-cancels-press-conference-january-6/index.html">Trump cancels press conference on January 6 anniversary at urging of advisers</a> CNN: Former President Donald Trump abruptly canceled a news conference late Tuesday that he was scheduled to host at Mar-a-Lago on the anniversary of the January 6 insurrection, but which his allies had warned would cause unnecessary problems for Republicans and himself. 
  <p class="updated_time"> 09:47 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/chicago-schools-shutdown-teachers-covid-protest-526535">Chicago Public Schools shut down amid teachers union protest of Covid protocols</a> Politico: The union wants the school district to put in place a more robust testing policy. 
  <p class="updated_time"> 09:37 AM CT, Jan. 05 </p> 
@@ -288,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/police-officer-lawsuits-capitol-riot-trump-526491">Police officer lawsuits pile up against Trump over Jan. 6</a> Politico: Three more officers who responded to the Jan. 6 attack filed a lawsuit against the former president Tuesday, seeking damages for physical and emotional injuries. 
  <p class="updated_time"> 03:24 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070337968/why-is-the-big-lie-proving-so-hard-to-dispel">Why is the 'Big Lie' proving so hard to dispel?</a> NPR: One year after the insurrection at the U.S. Capitol, a new NPR/Ipsos poll shows many Americans still buy into the "Big Lie": the baseless claim that the 2020 election was stolen. 
- <p class="updated_time"> 02:28 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden announces US will double its order of Pfizer's antiviral pill to treat Covid-19</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
  <p class="updated_time"> 01:02 PM CT, Jan. 04 </p> 
