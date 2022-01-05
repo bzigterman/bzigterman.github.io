@@ -24,7 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:30 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59868726?at_medium=RSS&at_campaign=KARANGA">Dakar Rally: France opens terrorism probe into Saudi Arabia blast</a> BBC: The explosion in Saudi Arabia last week badly wounded French rally driver Philippe Boutron. 
  <p class="updated_time"> 05:15 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59878984?at_medium=RSS&at_campaign=KARANGA">Djokovic at Australian Open: 'He might get booed when he gets on court'</a> BBC: Australians give their views on Novak Djokovic being able to play in the Australian Open. 
+ <a href="https://www.bbc.co.uk/news/world-australia-59878984?at_medium=RSS&at_campaign=KARANGA">Djokovic exemption reaction: 'He might get boos on court'</a> BBC: Australians give their views on Novak Djokovic being able to play in the Australian Open. 
  <p class="updated_time"> 04:54 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea fires suspected ballistic missile into the sea</a> BBC: It follows a number of tests last year and a vow from Kim Jong-un to bolster the North's defences. 
  <p class="updated_time"> 04:51 AM CT, Jan. 05 </p> 
@@ -39,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/europe/britain-omicron-boris-johnson.html">Britain can ‘ride out’ the Omicron wave without a strict lockdown, Boris Johnson says.</a> NYT: “We can find a way to live with this virus,” the prime minister said. 
  <p class="updated_time"> 02:20 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59877917?at_medium=RSS&at_campaign=KARANGA">Taiwan buys 20,000 bottles of Lithuania rum destined for China</a> BBC: Taiwan later urged locals to buy rum, posting recipes for rum-infused cocktails. 
+ <p class="updated_time"> 02:15 AM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-fires-projectile-off-its-east-coast-11641344771">North Korea Fires Missile Off Its East Coast</a> WSJ: The launch came days after North Korean leader Kim Jong Un vowed to pursue high-tech weapons to counter what he called military instability on the Korean Peninsula. 
  <p class="updated_time"> 10:12 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Launches Ballistic Missile, the South Says</a> NYT: The North last conducted a test in October, when it fired a newly developed submarine-launched ballistic missile. 
  <p class="updated_time"> 09:52 PM CT, Jan. 04 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59731622?at_medium=RSS&at_campaign=KARANGA">Gandikota: The stunning Indian gorge that resembles the Grand Canyon</a> BBC: The Gandikota gorge in southern India is believed to be nearly 100,000 years old. 
  <p class="updated_time"> 06:01 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59735955?at_medium=RSS&at_campaign=KARANGA">Iconic Bangkok station Hua Lamphong reaches the end of the line</a> BBC: Hua Lamphong has seen the start and end of journeys for generations of Thai travellers and tourists alike. 
- <p class="updated_time"> 05:37 PM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/north-korea-fires-projectile-off-its-east-coast-11641344771">North Korea Fires Missile Off Its East Coast</a> WSJ: The launch comes days after North Korean leader Kim Jong Un vowed to pursue high-tech weapons to counter what he called military instability on the Korean Peninsula. 
  <p class="updated_time"> 04:17 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/africa/southafrica-parliament-fire-suspect.html">Mystery Deepens as Suspect Is Charged in South Africa Parliament Fire</a> NYT: The man was also accused of possessing explosives, stealing laptops and breaking security laws. Former neighbors were shocked. His lawyer said the government was rushing to find a scapegoat. 
  <p class="updated_time"> 04:12 PM CT, Jan. 04 </p> 
@@ -180,6 +180,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:35 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/05/security-still-top-of-mind-a-year-after-capitol-attack-495603">Security still top of mind a year after Capitol attack</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:15 AM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/gop-reaction-january-6-anniversary/index.html">Republicans seek to avoid Trump talk as party grapples with January 6 anniversary</a> CNN: Republicans on Capitol Hill are under pressure to reflect on the deadly events of January 6 but are also trying to avoid talking about former President Donald Trump's culpability -- underscoring how the attack remains an unwelcome distraction for a party eager to gain voters' trust in this fall's pivotal elections. 
  <p class="updated_time"> 06:30 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/capitol-police-january-6.html">Capitol Police Chief to Commit to Steps for Improvement</a> NYT: Chief J. Thomas Manger, head of an agency still reeling from Jan. 6, plans to tell lawmakers he is already addressing most of the 103 recommendations from an internal watchdog. 
  <p class="updated_time"> 06:18 AM CT, Jan. 05 </p> 
@@ -270,14 +272,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070337975/democrats-revisit-voting-rights-legislation-around-jan-6-anniversary">Democrats revisit voting rights legislation around Jan. 6 anniversary</a> NPR: Democrats are making a fresh push on voting rights legislation around the anniversary of the Jan. 6 insurrection, while also trying to revive President Biden's Build Back Better agenda. 
  <p class="updated_time"> 03:39 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/tim-kaine-stranded-interstate-95-winter-storm/index.html">Virginia senator recounts being stuck on I-95 for more than 20 hours after winter storm</a> CNN: Sen. Tim Kaine on Tuesday recounted his hours-long journey on a Washington-area highway after a winter storm crippled the region and left hundreds, including the Virginia Democrat, stranded for hours on roads. 
+ <p class="updated_time"> 03:36 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/police-officer-lawsuits-capitol-riot-trump-526491">Police officer lawsuits pile up against Trump over Jan. 6</a> Politico: Three more officers who responded to the Jan. 6 attack filed a lawsuit against the former president Tuesday, seeking damages for physical and emotional injuries. 
  <p class="updated_time"> 03:24 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070337968/why-is-the-big-lie-proving-so-hard-to-dispel">Why is the 'Big Lie' proving so hard to dispel?</a> NPR: One year after the insurrection at the U.S. Capitol, a new NPR/Ipsos poll shows many Americans still buy into the "Big Lie": the baseless claim that the 2020 election was stolen. 
  <p class="updated_time"> 03:03 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/supreme-court-justices-covid-booster-shot/index.html">All nine Supreme Court justices have received a Covid-19 booster shot</a> CNN: All nine Supreme Court justices have received a Covid-19 booster shot, the court said Tuesday. 
  <p class="updated_time"> 02:54 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/cdc-isolation-guidance-upcoming/index.html">Update to CDC's Covid-19 isolation guidance is imminent, source says</a> CNN: The US Centers for Disease Control and Prevention is expected to update its guidance on the recommended isolation period imminently, according to a source familiar with the plan. 
- <p class="updated_time"> 02:36 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/dnc-staff-unionize-overwhelming-margin-526490">DNC staff votes by ‘overwhelming margin’ to unionize</a> Politico: The Democratic National Committee staff will join SEIU Local 500. 
  <p class="updated_time"> 02:28 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden announces US will double its order of Pfizer's antiviral pill to treat Covid-19</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
  <p class="updated_time"> 02:12 PM CT, Jan. 04 </p> 
@@ -308,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/us/politics/donald-trump-midterm-elections.html">As Midterms and 2024 Loom, Trump Political Operation Revs Up</a> NYT: The former president is set to headline an event at Mar-a-Lago next month for endorsed candidates and major donors to benefit a supportive super PAC. 
  <p class="updated_time"> 10:46 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/ruben-gallego-merrick-garland-capitol-attack-526480">Gallego: Garland 'extremely weak' on Jan. 6 cases</a> Politico: The Arizona Democrat also directed his ire at GOP lawmakers who he accused of trying to shield Jan. 6 rioters. 
- <p class="updated_time"> 10:08 AM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/bobby-rush-retiring-democrat-illinois/index.html">Only person to defeat Obama retires from Congress</a> CNN: Rep. Bobby Rush of Illinois told the Chicago Sun-Times in an interview published Monday that he won't run for a 16th term in the US House of Representatives, the 24th House Democrat to announce plans of leaving the chamber at the end the term. 
  <p class="updated_time"> 08:17 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/capitol-riot-january-6.html">Can the Jan. 6 Committee’s Inquiry End in Criminal Charges?</a> NYT: The House panel does not have the authority to pursue criminal charges, but it can provide the Justice Department with evidence of any wrongdoing it unearths in its investigation. 
  <p class="updated_time"> 07:51 AM CT, Jan. 04 </p> 
