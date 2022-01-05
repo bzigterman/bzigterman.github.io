@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:40 PM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Staff flee as protesters enter airport</a> BBC: Kazakhstan's president has imposed a state of emergency as nationwide protests escalate. 
+ <p class="updated_time"> 03:35 PM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070700656/reigning-australian-open-mens-champion-denied-entry-into-australia-to-defend-tit">Reigning Australian Open men's champion denied entry into Australia to defend title</a> NPR: The reigning Australian Open men's champion Novak Djokovic — who is famously skeptical about the COVID vaccine and received a medical exemption from being vaccinated — was not admitted to the country. 
+ <p class="updated_time"> 03:35 PM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1069791114/afghanistan-girls-soccer-refugees-portugal">An Afghan girls soccer team rebelled to play the game they love. Now they're refugees</a> NPR: The teenagers on the Afghan girls national soccer team lean on each other as they adjust to a new life in Portugal, where they fled after the Taliban takeover of Afghanistan. 
+ <p class="updated_time"> 03:30 PM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59889522?at_medium=RSS&at_campaign=KARANGA">Australia cancels visa of tennis No.1 Djokovic</a> BBC: The player landed in Melbourne to play in the Australian Open amid a row over his vaccination status. 
  <p class="updated_time"> 03:06 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakh Protesters Burn Government Offices as Unrest Sweeps Country</a> NYT: An uprising sparked by a gas price increase in the resource-rich Central Asian nation has taken on a political dimension despite concessions from the ruling party. 
  <p class="updated_time"> 02:58 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/americas/rio-carnival-covid.html">Rio Carnival's Street Parties Are Canceled, Mayor Says</a> NYT: As the Omicron variant sweeps the globe, the parties in Rio de Janeiro, which ordinarily draw millions of revelers, have been called off for a second year. 
- <p class="updated_time"> 02:52 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59884038?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Tennis star's Australia entry delayed over visa row</a> BBC: The tennis player had been controversially exempted from vaccination rules for the Australian Open. 
  <p class="updated_time"> 02:52 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html">Using Harsh Language, Macron Issues a Challenge to the Unvaccinated</a> NYT: The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds. 
  <p class="updated_time"> 02:12 PM CT, Jan. 05 </p> 
@@ -27,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
  <p class="updated_time"> 01:51 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/germany-legalize-recreational-marijuana.html">German Start-Ups Lay the Groundwork for a Marijuana Bonanza</a> NYT: Two of the three parties in Germany’s new governing coalition support legalization, a potentially radical shift in the conservative country. 
- <p class="updated_time"> 01:49 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Staff flee as protesters enter airport</a> BBC: Demonstrations sparked by rising fuel prices escalate, despite a state of emergency in some areas. 
  <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
  <p class="updated_time"> 01:10 PM CT, Jan. 05 </p> 
@@ -129,16 +133,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070297325/france-car-ads-climate">Car ads in France will soon have to encourage more environmentally friendly travel</a> NPR: The automakers' ads will suggest people consider carpooling or cycling instead of driving. The new rules, beginning in March, come as the country is trying to cut down on its carbon emissions. 
  <p class="updated_time"> 01:23 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/ireland-alcohol-minimum-unit-price.html">Ireland Puts Minimum Price on Alcohol to Curb Binge Drinking</a> NYT: The new rule, part of broader legislation aimed at stemming alcohol-related illnesses, sets a minimum price of one euro per standard drink and came into effect on Tuesday. 
- <p class="updated_time"> 01:14 PM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070204859/preet-chandi-first-woman-of-color-solo-antarctica-expedition">Preet Chandi is the first woman of color to complete a solo expedition in Antarctica</a> NPR: Chandi skied 700 miles to the South Pole in just 40 days. The British Sikh army officer aims to inspire others to push boundaries and is also raising funds to start an adventure grant for women. 
  <p class="updated_time"> 01:08 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/tony-blair-knighthood-petition-rescind.html">Petition to Rescind Tony Blair’s Knighthood Gets Hundreds of Thousands of Signatures</a> NYT: Nearly 15 years after he left office, the prime minister’s support for the Iraq war has not been forgiven by many in Britain. 
  <p class="updated_time"> 12:43 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59869509?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Behind the bubble in Beijing</a> BBC: Have a look at how Beijing is preparing for the Games - with a sealed off area to keep Covid out. 
  <p class="updated_time"> 12:07 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59871779?at_medium=RSS&at_campaign=KARANGA">Europe's tattoo artists fear for future after EU ink ban</a> BBC: Thousands of chemicals are banned by EU for safety reasons, but tattooists say it will hit business. 
- <p class="updated_time"> 10:33 AM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070171056/novak-djokovic-gets-a-vaccination-exemption-to-play-in-the-australian-open">Novak Djokovic gets a vaccination exemption to play in the Australian Open</a> NPR: The tournament's defending champion posted a photo of himself smiling at an airport. But in Australia, some of the responses to his Twitter post were not happy ones. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59871267?at_medium=RSS&at_campaign=KARANGA">US snow: Major snowfall blankets Washington DC</a> BBC: Snow causes fun and frustration in Washington DC. 
  <p class="updated_time"> 06:37 AM CT, Jan. 04 </p> 
@@ -186,6 +186,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:41 PM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070700670/rep-jaime-raskin-on-growing-through-trauma-in-year-since-jan-6-and-his-sons-deat">Rep. Jaime Raskin on growing through trauma in year since Jan. 6 and his son's death</a> NPR: NPR's Mary Louise Kelly speaks with Rep. Jaime Raskin, D-Md., about leading an impeachment effort against President Trump. Raskin was inside the Capitol building on Jan. 6. 
+ <p class="updated_time"> 03:35 PM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070199411/5-takeaways-from-the-capitol-riot-criminal-cases-one-year-later">5 takeaways from the Capitol riot criminal cases, one year later</a> NPR: NPR has been tracking every criminal case related to the insurrection at the U.S. Capitol on Jan. 6, 2021. One year after the riot, here are some of the key patterns that have emerged from the cases. 
+ <p class="updated_time"> 03:33 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/biden-voting-rights-speech.html">Biden Will Deliver a Speech on Voting Rights in Atlanta on Tuesday</a> NYT: He will be joined by Kamala Harris, the vice president, who is leading the administration’s push for access to the vote. 
+ <p class="updated_time"> 03:17 PM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
  <p class="updated_time"> 03:13 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070362852/trump-big-lie-election-jan-6-families">They believe in Trump's 'Big Lie.' Here's why it's been so hard to dispel</a> NPR: The resilience of the "Big Lie" is prompting consternation and creative efforts to reach those who remain adamant — despite all evidence to the contrary — that the 2020 Presidential vote was rigged. 
  <p class="updated_time"> 03:12 PM CT, Jan. 05 </p> 
@@ -254,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/05/republicans-dodge-and-deflect-ahead-of-jan-6-495599"> Republicans dodge and deflect ahead of Jan. 6</a> Politico Playbook: And prices for at-home Covid-19 tests rise. 
  <p class="updated_time"> 05:39 AM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/sebastian-gorka-sues-january-6-committee/index.html">Trump ally Gorka sues January 6 panel to block subpoena for his cell phone records</a> CNN: Sebastian Gorka, a radio host and ally of former President Donald Trump, has filed suit against the January 6 committee and Verizon in an attempt to block a subpoena for his cell phone records. 
- <p class="updated_time"> 04:59 AM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/january-6-committee-mike-pence-sean-hannity-donald-trump/index.html">Analysis: Call for Pence cooperation shows ambition of January 6 panel ahead of anniversary</a> CNN: The House select committee investigating the Capitol insurrection is cranking up the pace ahead of Thursday's anniversary of the mob attack, training its sights on ex-Vice President Mike Pence and Donald Trump's top Fox News booster Sean Hannity. 
  <p class="updated_time"> 04:31 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/gop-red-wave-critical-race-theory-526523">GOP sees ‘huge red wave’ potential by targeting critical race theory</a> Politico: Republicans in state legislatures across the country are gearing up to push through dozens of anti-critical race theory bills this year. 
  <p class="updated_time"> 04:30 AM CT, Jan. 05 </p> 
@@ -324,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1069232219/heres-where-election-deniers-and-doubters-are-running-to-control-voting">Here's where election-denying candidates are running to control voting</a> NPR: An NPR analysis found at least 15 Republican candidates for secretary of state offices in 2022 who doubt Joe Biden's 2020 victory. 
  <p class="updated_time"> 11:49 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/tesla-dealership-xinjiang-china.html">Tesla Draws Criticism After Opening Dealership in Xinjiang </a> NYT: Senator Marco Rubio criticized the electric carmaker for opening the outlet in a region where China has been accused of targeting Muslims. 
- <p class="updated_time"> 11:48 AM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070032923/jamie-raskin-jan-6-capitol-unthinkable">After his son's suicide and the Jan. 6 attack, Rep. Jamie Raskin is not giving up</a> NPR: Raskin's son died just days before the Capitol insurrection. Now Raskin serves on the House select committee charged with investigating the Jan. 6 attack. His new memoir is Unthinkable. 
  <p class="updated_time"> 10:56 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/capitol-riot-panel.html">In the Capitol’s Shadow, the Jan. 6 Panel Quietly Ramps Up Its Inquiry</a> NYT: From a nondescript office building, a few dozen investigators and members of Congress are rushing to dissect what led to the worst attack on the Capitol in centuries. 
  <p class="updated_time"> 10:49 AM CT, Jan. 04 </p> 
@@ -338,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/jan-6-committee-oath-keepers-phone-records-526477">Jan. 6 committee seeking phone records of 2 Oath Keepers facing conspiracy charges</a> Politico: Kelly and Connie Meggs say they were notified of the subpoena by Verizon last month. 
  <p class="updated_time"> 06:18 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/04/the-election-reform-idea-gaining-currency-on-the-right-495582"> The election reform idea gaining currency on the right</a> Politico Playbook: And Rep. Bobby Rush (D-Ill.) says he won't seek reelection. 
- <p class="updated_time"> 06:07 AM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1069793647/rep-jamie-raskin-searches-for-answers-in-unthinkable-journey-of-trauma-and-grief">Rep. Jamie Raskin searches for answers in 'Unthinkable' journey of trauma and grief</a> NPR: In a new memoir, the Democratic congressman recounts a year of loss and grief after the death of son Tommy — and a motivation to right the wrongs that occurred on Jan. 6. 
  <p class="updated_time"> 05:00 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/jan-6-insurrection-sentencing-tracker-526091">Hundreds of crimes, little punishment: Inside the sentences since the Capitol attack</a> Politico: More than 150 people have pleaded guilty for crimes committed on Jan. 6, 2021. POLITICO is analyzing and tracking every sentence handed down. 
  <p class="updated_time"> 04:30 AM CT, Jan. 04 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/us/politics/bobby-rush-retire.html">Representative Bobby Rush, Longtime Illinois Democrat, Will Retire</a> NYT: The decision by the pastor and civil rights activist added to a wave of Democrats deciding not to run for re-election in a difficult midterm cycle. 
  <p class="updated_time"> 08:41 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/rep-bobby-rush-wont-seek-reelection-526455">Bobby Rush to relinquish 30-year hold on House seat</a> Politico: The veteran Illinois congressman and former Black Panther leader said, “I’m not retiring … I’m just entering into a new level of my life.” 
- <p class="updated_time"> 06:05 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/bill-gardner-retires.html">New Hampshire's Secretary of State, Bill Gardner, Is Retiring</a> NYT: The official, Bill Gardner, a Democrat, has served as secretary of state in New Hampshire for more than four decades. 
  <p class="updated_time"> 02:27 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/biden-meat-processing-industry/index.html">White House to invest $1 billion to boost competition in meat-processing industry and lower consumer prices</a> CNN: The White House on Monday announced it would allocate $1 billion in funding from the American Rescue Plan to independent meat and poultry producers as part of an effort to boost competition in the meat-processing industry and lower prices for consumers. 
  <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
