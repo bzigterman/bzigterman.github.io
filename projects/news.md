@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:49 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Protests Over Gas Prices Rage On in Kazakhstan</a> NYT: Anger in the resource-rich Central Asian nation has swelled despite concessions from the ruling party and a strict state of emergency. 
+ <p class="updated_time"> 05:49 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59876203?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australian Open vaccine exemption ignites backlash</a> BBC: It is a "disgrace" that Novak Djokovic can enter the country for the Australian Open, locals say. 
  <p class="updated_time"> 05:30 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59868726?at_medium=RSS&at_campaign=KARANGA">Dakar Rally: France opens terrorism probe into Saudi Arabia blast</a> BBC: The explosion in Saudi Arabia last week badly wounded French rally driver Philippe Boutron. 
  <p class="updated_time"> 05:15 AM CT, Jan. 05 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
  <p class="updated_time"> 04:28 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59878349?at_medium=RSS&at_campaign=KARANGA">US actress Joan Copeland dies aged 99</a> BBC: The Broadway and TV star, who was also the sister of playwright Arthur Miller, died in her sleep. 
- <p class="updated_time"> 04:24 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59876203?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australian Open vaccine exemption ignites backlash</a> BBC: It is a "disgrace" that Novak Djokovic can enter the country for the Australian Open, locals say. 
  <p class="updated_time"> 04:11 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/macron-france-life-miserable-unvaccinated.html">Macron Under Fire After Saying France Should Make Life Miserable for Unvaccinated</a> NYT: The president’s comments caused an uproar in Parliament as the government is trying to pass a bill to tighten the eligibility of France’s health pass, less than four months before the presidential election. 
  <p class="updated_time"> 04:10 AM CT, Jan. 05 </p> 
@@ -176,6 +178,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/05/republicans-dodge-and-deflect-ahead-of-jan-6-495599"> Republicans dodge and deflect ahead of Jan. 6</a> Politico Playbook: And prices for at-home Covid-19 tests rise. 
+ <p class="updated_time"> 05:39 AM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/sebastian-gorka-sues-january-6-committee/index.html">Trump ally Gorka sues January 6 panel to block subpoena for his cell phone records</a> CNN: Sebastian Gorka, a radio host and ally of former President Donald Trump, has filed suit against the January 6 committee and Verizon in an attempt to block a subpoena for his cell phone records. 
  <p class="updated_time"> 04:59 AM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/january-6-committee-mike-pence-sean-hannity-donald-trump/index.html">Call for Pence cooperation shows ambition of January 6 panel ahead of anniversary</a> CNN: The House select committee investigating the Capitol insurrection is cranking up the pace ahead of Thursday's anniversary of the mob attack, training its sights on ex-Vice President Mike Pence and Donald Trump's top Fox News booster Sean Hannity. 
  <p class="updated_time"> 04:31 AM CT, Jan. 05 </p> 
@@ -187,7 +191,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:07 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070471284/sen-amy-klobuchar-remains-haunted-by-what-happened-on-jan-6">Sen. Amy Klobuchar remains haunted by what happened on Jan.6</a> NPR: NPR's Rachel Martin talks with Democratic Sen. Amy Klobuchar about the Jan. 6 attack on the U.S. Capitol, and the latest on the investigation and action by Congress. 
  <p class="updated_time"> 04:06 AM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/democrats-trump-messaging-2022/index.html">Top Democratic operatives plan to do what the party says they shouldn't: Talk about Trump in 2022</a> CNN: Some top Democratic operatives are terrified that their down-ballot candidates are responding too timidly to the threat of former President Donald Trump using this year's midterm elections to launch a return to the White House, and they've formed a new group to raise the alarm. 
+ <a href="https://www.cnn.com/2022/01/05/politics/democrats-trump-messaging-2022/index.html">Top Dem operatives plan to do what party says they shouldn't: Talk about Trump in 2022</a> CNN: Some top Democratic operatives are terrified that their down-ballot candidates are responding too timidly to the threat of former President Donald Trump using this year's midterm elections to launch a return to the White House, and they've formed a new group to raise the alarm. 
  <p class="updated_time"> 04:05 AM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/supreme-court-vaccine-two-pandemics/index.html">Two differing views of the Covid pandemic on display at Supreme Court </a> CNN: The two visions of pandemic America have arrived at the US Supreme Court. 
  <p class="updated_time"> 04:00 AM CT, Jan. 05 </p> 
