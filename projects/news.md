@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:33 AM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070472805/xian-reacts-to-covid-lockdowns-with-outrage-and-humor">Xi'an reacts to COVID lockdowns with outrage and humor</a> NPR: Lockdowns are so strict and so prolonged in Chinese city that residents have taken to social media to complain and joke about a lack of basic supplies. 
  <p class="updated_time"> 03:23 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59876203?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australian Open vaccine exemption ignites backlash</a> BBC: It is "appalling" that Novak Djokovic can enter the country for the Australian Open, locals say. 
  <p class="updated_time"> 02:58 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea launches ballistic missile into sea</a> BBC: It comes after leader Kim Jong-Un vowed to bolster the country's defence capabilities last month. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea launches ballistic missile into sea</a> BBC: It comes after leader Kim Jong-un vowed to bolster the country's defence capabilities last month. 
  <p class="updated_time"> 02:46 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/britain-omicron-boris-johnson.html">Britain can ‘ride out’ the Omicron wave without a strict lockdown, Boris Johnson says.</a> NYT: “We can find a way to live with this virus,” the prime minister said. 
  <p class="updated_time"> 02:39 AM CT, Jan. 05 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/03/1069933029/fire-reignites-at-south-africas-parliament-in-cape-town">Fire reignites at South Africa's Parliament in Cape Town</a> NPR: The fire started on Sunday and had been contained, but flared up again on Monday after firefighters had been sent home. A man was arrested in connection with the fire. 
  <p class="updated_time"> 10:59 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/abdalla-hamdok-resigns-sudan.html">Sudan’s Prime Minister, Abdalla Hamdok, Resigns</a> NYT: Mr. Hamdok was restored to power a month ago after being deposed in a coup, but he was never able to gain control of the fractious country. 
- <p class="updated_time"> 10:21 AM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/2022/01/03/1069888035/famed-fossil-hunter-and-conservationist-richard-leakey-dies-at-77">Famed fossil hunter and conservationist Richard Leakey dies at 77</a> NPR: Leakey made important contributions to our understanding of human origins through his fossil finds. He later gained fame for taking on poachers who threatened to wipe out Kenya's elephants and rhinos. 
  <p class="updated_time"> 09:13 AM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59833131?at_medium=RSS&at_campaign=KARANGA">Richard Leakey - fossil expert, conservationist and politician</a> BBC: The achievements of Richard Leakey, who has died aged 77, were as remarkable as they were diverse. 
  <p class="updated_time"> 09:05 AM CT, Jan. 03 </p> 
