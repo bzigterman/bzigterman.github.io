@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:40 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: State of emergency declared after fuel protests</a> BBC: President Kassym-Jomart Tokayev declares a two-week state of emergency and accepts government resignation. 
  <p class="updated_time"> 09:23 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea launches 'unidentified projectile' into sea</a> BBC: South Korean and Japanese officials spot Pyongyang's first launch in 2022, but details are unclear. 
  <p class="updated_time"> 09:17 PM CT, Jan. 04 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59731622?at_medium=RSS&at_campaign=KARANGA">Gandikota: The stunning Indian gorge that resembles the Grand Canyon</a> BBC: The Gandikota gorge in southern India is believed to be nearly 100,000 years old. 
  <p class="updated_time"> 06:01 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59735955?at_medium=RSS&at_campaign=KARANGA">Iconic Bangkok station Hua Lamphong reaches the end of the line</a> BBC: Hua Lamphong has seen the start and end of journeys for generations of Thai travellers and tourists alike. 
- <p class="updated_time"> 05:30 PM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: State of emergency declared after fuel protests</a> BBC: President Kassym-Jomart Tokayev declares a two-week state of emergency including curbs on movement. 
  <p class="updated_time"> 04:56 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59873830?at_medium=RSS&at_campaign=KARANGA">Jovenel Moïse murder: US charges Colombian man over assassination</a> BBC: US authorities accuse an ex-military officer of involvement in the death of President Jovenel Moïse. 
  <p class="updated_time"> 04:17 PM CT, Jan. 04 </p> 
@@ -324,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/us/politics/bill-gardner-retires.html">New Hampshire's Secretary of State, Bill Gardner, Is Retiring</a> NYT: The official, Bill Gardner, a Democrat, has served as secretary of state in New Hampshire for more than four decades. 
  <p class="updated_time"> 05:43 PM CT, Jan. 03 </p> 
  <a href="https://www.cnn.com/2022/01/03/politics/texas-abortion-providers-supreme-court/index.html">Abortion providers go back to Supreme Court in long-shot bid to challenge Texas abortion law</a> CNN: Abortion providers on Monday asked the Supreme Court to require a conservative federal appeals court to return their challenge to Texas' six-week abortion ban to a district court judge who previously ruled in their favor. 
- <p class="updated_time"> 05:31 PM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/new-hampshire-primary-bill-gardner-526438">First-in-the-nation primary loses its top champion — but the calendar probably isn’t changing</a> Politico: New Hampshire Secretary of State Bill Gardner is retiring after years spent defending the state's place in the presidential calendar. 
  <p class="updated_time"> 05:25 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/senate-democrats-biden-agenda.html">Democrats Set Timetable to Change Rules for Stalled Voting Rights Bills</a> NYT: The top Senate Democrat said he would act by Jan. 17 to try to force through the measures if Republicans refused to drop their opposition. 
  <p class="updated_time"> 04:55 PM CT, Jan. 03 </p> 
@@ -363,8 +361,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/january-6-capitol-riot-house-democrats-525975">‘It’s only gotten worse’: The long shadow of the night that broke the House</a> Politico: For most Democrats, the biggest affront wasn’t even the violence by Donald Trump’s supporters. It was the votes more than 140 of their GOP colleagues took afterward. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/trumpworld-jan-6-526291">They resigned in protest over Jan. 6 — then never went after Trump again</a> Politico: The administration officials who defected from the administration over the riots have almost all receded from public view even as Trump’s stayed put. 
- <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/could-january-6th-happen-again-526167">Could Jan. 6 happen again?</a> Politico: The Capitol Police has made progress under a new chief. But many on the Hill don't have an easy answer. 
  <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/supreme-court-death-penalty-intellectual-disability.html">Language Mistake in Georgia Death Penalty Law Creates a Daunting Hurdle</a> NYT: The Supreme Court will decide whether to hear a challenge to the law, which requires that defendants in capital cases who are intellectually disabled prove it “beyond a reasonable doubt” — a phrase that was inserted in error. 
@@ -380,6 +376,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/02/politics/biden-january-6-speech/index.html">Biden and Harris to deliver remarks on January 6 anniversary</a> CNN: President Joe Biden and Vice President Kamala Harris will deliver remarks on Thursday to mark the one-year anniversary of the January 6 attack on the US Capitol, the White House said Sunday. 
  <p class="updated_time"> 01:29 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
+ <p class="updated_time"> 12:55 PM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/hogan-health-care-covid-maryland-526361">‘You can’t really manufacture doctors and nurses that don’t exist’</a> Politico: Maryland Gov. Larry Hogan said his state is trying everything it can to ensure it has enough health care workers. 
  <p class="updated_time"> 11:41 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/bennie-thompson-jan-6-526357">Members of Congress interacted with Jan. 6 rioters, Rep. Thompson says</a> Politico: But it’s not clear how extensive or significant those interactions were. 
  <p class="updated_time"> 11:15 AM CT, Jan. 02 </p> 
