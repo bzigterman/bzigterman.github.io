@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:28 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59878349?at_medium=RSS&at_campaign=KARANGA">US actress Joan Copeland dies aged 99</a> BBC: The Broadway and TV star, who was also the sister of playwright Arthur Miller, died in her sleep. 
+ <p class="updated_time"> 04:24 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59876203?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australian Open vaccine exemption ignites backlash</a> BBC: It is a "disgrace" that Novak Djokovic can enter the country for the Australian Open, locals say. 
+ <p class="updated_time"> 04:11 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/macron-france-life-miserable-unvaccinated.html">Macron Under Fire After Saying France Should Make Life Miserable for Unvaccinated</a> NYT: The president’s comments caused an uproar in Parliament as the government is trying to pass a bill to tighten the eligibility of France’s health pass, less than four months before the presidential election. 
  <p class="updated_time"> 04:10 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070478298/israel-sets-covid-19-record-as-rule-changes-create-whiplash">Israel sets COVID-19 record as rule changes create whiplash</a> NPR: The omicron variant is outpacing the government's ability to make and execute clear pandemic public policy. 
- <p class="updated_time"> 04:08 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59876203?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australian Open vaccine exemption ignites backlash</a> BBC: It is a "disgrace" that Novak Djokovic can enter the country for the Australian Open, locals say. 
  <p class="updated_time"> 03:33 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070472805/xian-reacts-to-covid-lockdowns-with-outrage-and-humor">Xi'an reacts to COVID lockdowns with outrage and humor</a> NPR: Lockdowns are so strict and so prolonged in Chinese city that residents have taken to social media to complain and joke about a lack of basic supplies. 
  <p class="updated_time"> 02:58 AM CT, Jan. 05 </p> 
@@ -37,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 06:17 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59876423?at_medium=RSS&at_campaign=KARANGA">Snowbound in Virginia traffic for over 10 hours</a> BBC: One passenger's harrowing journey after heavy snowfall paralysed miles of highway in Virginia. 
- <p class="updated_time"> 06:09 PM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59835675?at_medium=RSS&at_campaign=KARANGA">Omicron: Curfew in Delhi as India Covid cases surge</a> BBC: A weekend curfew is imposed and doctors' leave cancelled as the chief minister tests positive. 
  <p class="updated_time"> 06:01 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59731622?at_medium=RSS&at_campaign=KARANGA">Gandikota: The stunning Indian gorge that resembles the Grand Canyon</a> BBC: The Gandikota gorge in southern India is believed to be nearly 100,000 years old. 
  <p class="updated_time"> 06:01 PM CT, Jan. 04 </p> 
@@ -123,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/americas/ariel-henry-assassination-attempt.html">Haiti Prime Minister Survives Assassination Attempt, His Office Says</a> NYT: Prime Minister Ariel Henry was the target of an unsuccessful attempt on his life over the weekend by gunmen in the northern city of Gonaïves, his office said Monday night. 
  <p class="updated_time"> 08:19 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/americas/brazil-bolsonaro-hospitalized.html">Brazil's President, Jair Bolsonaro, Is Hospitalized</a> NYT: Mr. Bolsonaro, who was stabbed while on the campaign trail in 2018, experienced stomach discomfort during his vacation and was flown back to São Paulo. 
- <p class="updated_time"> 06:28 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/02/world/europe/spain-church-restoration-mystery.html">A Spanish Mystery: Is a ‘Masked Restorer’ to Blame for a Church’s Botched Repair?</a> NYT: Yet another imprudent fix in a land plagued by vigilante handymen led to angry calls to find the culprit — and to a soul-searching question: Does Spain just have too much history in need of upkeep? 
  <p class="updated_time"> 06:19 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/africa/sudan-prime-minister-resigns.html">Sudan Braces for ‘the Worst’ after Prime Minister Resigns</a> NYT: With the departure of the civilian prime minister Abdalla Hamdok on Sunday, the military and security forces are now fully in control of Sudan again. 
  <p class="updated_time"> 06:05 PM CT, Jan. 03 </p> 
@@ -163,16 +163,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/travel/nepal-maha-shivaratri.html">Celebrating the ‘Great Night of Shiva’ in Kathmandu</a> NYT: Every year, thousands of celebrants gather at a temple complex in Nepal’s capital in honor of Shiva, one of Hinduism’s most revered gods. 
  <p class="updated_time"> 10:04 PM CT, Jan. 02 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/maryland-covid-larry-hogan.html">Governor: Maryland Prepares for 'Terrible Point' in Covid Crisis</a> NYT: Gov. Larry Hogan said the state was trying to staff hospitals through a variety of measures. 
- <p class="updated_time"> 03:03 PM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/world/asia/china-womens-rights.html">China Moves to Overhaul Protections for Women’s Rights, Sort Of</a> NYT: The proposed revisions to a women’s rights law would be the first major changes in nearly 20 years. But many women are skeptical that real progress will follow. 
- <p class="updated_time"> 02:56 PM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/world/europe/bosnia-war-putin.html">In the Tinderbox of Bosnia, a Serb Nationalist Lights a Match</a> NYT: Bosnia’s fragile multiethnic government is facing its greatest crisis since the Balkan wars. The Serb nationalist leader, Milorad Dodik, is threatening to tear the country apart. 
- <p class="updated_time"> 11:24 AM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/world/europe/venice-calatrava-bridge.html">Venice to Replace Glass on Santiago Calatrava's Slippery Bridge</a> NYT: The city will replace the glass on Santiago Calatrava’s footbridge across the Grand Canal with stone after too many pedestrians fell. 
  <p class="updated_time"> 08:42 AM CT, Jan. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59853010?at_medium=RSS&at_campaign=KARANGA">Memorial: Russia’s civil rights group uncovering an uncomfortable past</a> BBC: Memorial, one of the oldest civil rights groups in Russia, was uncovering uncomfortable truths for the authorities. 
- <p class="updated_time"> 04:48 AM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/world/asia/korea-dmz-border.html">South Korea Says Unknown Person Crossed DMZ Into North</a> NYT: The breach at the Demilitarized Zone went unnoticed for hours, the South Korean military said. There was no immediate response from North Korea. 
  <p class="updated_time"> 06:55 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59566983?at_medium=RSS&at_campaign=KARANGA">In the footsteps of the women who escaped a Nazi death march</a> BBC: When Gwen Strauss' great-aunt revealed she had led nine women in an escape from a Nazi death march in 1945, Gwen decided to retrace their steps. 
  <p class="updated_time"> 06:05 PM CT, Jan. 01 </p> 
@@ -184,6 +176,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/gop-red-wave-critical-race-theory-526523">GOP sees ‘huge red wave’ potential by targeting critical race theory</a> Politico: Republicans in state legislatures across the country are gearing up to push through dozens of anti-critical race theory bills this year. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/jan-6-anniversary-capitol-police-officers-response-526024">What the Jan. 6 responders found: Brotherhood in trauma and a search for accountability</a> Politico: "It's been a hell of a year" for officers Aquilino Gonell, Harry Dunn and Daniel Hodges. They're not done healing yet. 
  <p class="updated_time"> 04:07 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070471317/the-supreme-court-to-hold-a-hearing-on-bidens-vaccine-and-testing-mandate">The Supreme Court to hold a hearing on Biden's vaccine and testing mandate</a> NPR: NPR's Rachel Martin talks to Karen Harned of the National Federation of Independent Business, about its opposition to OSHA's vaccine and testing requirements for private employers. 
  <p class="updated_time"> 04:07 AM CT, Jan. 05 </p> 
@@ -226,14 +222,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070408567/house-jan-6-committee-seeks-to-question-fox-news-sean-hannity-about-capitol-riot">House Jan. 6 committee seeks to question Fox News' Sean Hannity about the Capitol riot</a> NPR: In its request to speak with Hannity, the panel disclosed newly revealed texts he allegedly sent, including one on Jan. 5 that said: "[I'm] very worried about the next 48 hours." 
  <p class="updated_time"> 06:45 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/biden-white-house-omicron-plan-526516">White House embraces a manage-not-contain Omicron game plan</a> Politico: The president is under immense pressure to keep some semblance of social normalcy amid a pandemic that is absolutely roaring. 
+ <p class="updated_time"> 06:42 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/states/florida/story/2022/01/04/gop-governors-play-down-omicron-hysteria-while-also-asking-for-help-1403885">GOP governors play down Omicron 'hysteria' while also asking for help</a> Politico: “Given the clinical profile so far of Omicron, it’s not justifiable to let fear overwhelm you,” Florida’s governor says. 
  <p class="updated_time"> 06:40 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/biden-pfizer-pill-order.html">Biden Administration to Increase Supply of ‘Game Changer’ Pfizer Pill</a> NYT: President Biden announced that his administration would double its order of Pfizer’s scarce Covid-19 antiviral drug, which has been shown to reduce hospitalizations. 
  <p class="updated_time"> 06:10 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-gop-jan-6.html">How Trump Kept His Grip After Jan. 6</a> NYT: Only weeks after instigating the Capitol riot, Donald Trump was back in command of the Republican Party. 
  <p class="updated_time"> 06:03 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/abbott-texas-national-guard-vaccine-lawsuit/index.html">Texas Gov. Abbott sues Biden over requirement that National Guard be vaccinated</a> CNN: Texas Republican Gov. Greg Abbott sued President Joe Biden and other members of the administration on Tuesday over the requirement that members of the National Guard be vaccinated against Covid-19. 
- <p class="updated_time"> 05:54 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/sean-hannity-dissuade-trump-january-6-526508">Sean Hannity tried to dissuade Trump from Jan. 6 strategy, texts show</a> Politico: “I do NOT see January 6 happening the way he is being told,” the Fox News host said of Trump’s efforts in a  December 2020 text. 
  <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/cdc-doubles-down-quarantine-guidelines-526501">CDC recommits to isolation and quarantine guidelines without tests</a> Politico: The recent guidance, updated Dec. 29, said individuals who test positive for Covid-19 and whose symptoms are resolving need only isolate for five days as long as they continue to wear masks for an additional five days. 
  <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
@@ -276,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070254014/longtime-chicago-congressman-bobby-rush-is-the-latest-democrat-to-leave-washingt">Longtime Chicago Congressman Bobby Rush is the latest Democrat to leave Washington</a> NPR: The 75-year-old former Black Panther leader won't seek a 16th term in Congress, but vowed he'll remain an activist. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/manchin-biden-spending-bill-negotiation-526486">Manchin on Biden's spending bill: 'No negotiation going on'</a> Politico: The West Virginia senator thinks Democrats would be better off focusing on climate provisions in their wide-ranging megabill. 
- <p class="updated_time"> 12:47 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/omicron-ontario-canada-covid-restrictions-526484">As Covid policies divide America, Ontario doubles down (again)</a> Politico: The latest Covid shutdowns test the trust of the jabbed and boosted in Canada’s most populous province. 
  <p class="updated_time"> 12:20 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1069232219/heres-where-election-deniers-and-doubters-are-running-to-control-voting">Here's where election-denying candidates are running to control voting</a> NPR: An NPR analysis found at least 15 Republican candidates for secretary of state offices in 2022 who doubt Joe Biden's 2020 victory. 
  <p class="updated_time"> 12:00 PM CT, Jan. 04 </p> 
@@ -316,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/jan-6-insurrection-sentencing-tracker-526091">Hundreds of crimes, little punishment: Inside the sentences since the Capitol attack</a> Politico: More than 150 people have pleaded guilty for crimes committed on Jan. 6, 2021. POLITICO is analyzing and tracking every sentence handed down. 
  <p class="updated_time"> 04:47 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070119371/activists-urge-tesla-to-close-its-new-xinjiang-showroom">Activists urge Tesla to close its new Xinjiang showroom</a> NPR: Tesla on Friday announced the opening of its showroom in Urumqi, the capital of Xinjiang, where officials are accused of abuses against mostly Muslim ethnic minorities. 
- <p class="updated_time"> 04:31 AM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/biden-schools-omicron-526474">Governors demand schools stay open but districts may lack enough teachers</a> Politico: For now, political leaders across the ideological spectrum are pressuring schools to keep their doors open. 
  <p class="updated_time"> 04:30 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/doj-domestic-terrorism-sentences-jan-6-526407">Why DOJ is avoiding domestic terrorism sentences for Jan. 6 defendants</a> Politico: Some judges have debated whether the charges qualify as “crimes of terrorism,” but prosecutors have repeatedly pulled back by citing unspecified “facts and circumstances.” 
  <p class="updated_time"> 04:30 AM CT, Jan. 04 </p> 
@@ -414,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/29/harry-reid-shaped-chuck-schumer-526233">‘He’s a press guy, I’m not’: How Harry Reid shaped Chuck Schumer</a> Politico: Schumer called Reid “my leader, my mentor, one of my dearest friends,” after the former Senate majority leader’s death Tuesday. 
  <p class="updated_time"> 06:06 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/agenda/2021/12/29/teachers-districts-hybrid-education-526214">‘I Feel Half as Successful’: Teachers Push to Ban Hybrid Instruction, But Districts Want to Keep It</a> Politico: Teachers want to ban teaching students in person and online at the same time. Some education leaders say it should be what the future looks like. 
- <p class="updated_time"> 04:30 AM CT, Dec. 29 </p> 
- <a href="https://www.politico.com/news/2021/12/29/biden-lawrence-odonnell-biden-526232">Lawrence O’Donnell was on TV life support. Now, he’s MSNBC’s most critical anchor.</a> Politico: Among cable hosts, he has the best line into the White House, and it's paying off. 
 
 
 </details>
