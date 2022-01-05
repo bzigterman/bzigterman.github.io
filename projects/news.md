@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:21 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/asia/hong-kong-flights.html">Hong Kong suspends flights from eight countries, including the U.S., fearing a fifth wave.</a> NYT: The new measures will deepen the city’s isolation and mark a return to the tough restrictions from the early days of the pandemic as officials race to control Omicron. 
+ <p class="updated_time"> 06:08 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Almaty mayor's office stormed in protest</a> BBC: Protests over fuel prices are raging for a second day despite a state of emergency in some areas. 
+ <p class="updated_time"> 06:05 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59873833?at_medium=RSS&at_campaign=KARANGA">Covid: French uproar as Macron vows to 'piss off' unvaccinated</a> BBC: The president vows to make life difficult for the unjabbed, but opponents condemn his language. 
+ <p class="updated_time"> 05:55 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59879071?at_medium=RSS&at_campaign=KARANGA">Gal Gadot says Imagine video was in poor taste</a> BBC: The actress and fellow Hollywood stars recorded a cover of Imagine at the beginning of the pandemic. 
  <p class="updated_time"> 05:49 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Protests Over Gas Prices Rage On in Kazakhstan</a> NYT: Anger in the resource-rich Central Asian nation has swelled despite concessions from the ruling party and a strict state of emergency. 
  <p class="updated_time"> 05:49 AM CT, Jan. 05 </p> 
@@ -15,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59868726?at_medium=RSS&at_campaign=KARANGA">Dakar Rally: France opens terrorism probe into Saudi Arabia blast</a> BBC: The explosion in Saudi Arabia last week badly wounded French rally driver Philippe Boutron. 
  <p class="updated_time"> 05:15 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59878984?at_medium=RSS&at_campaign=KARANGA">Djokovic at Australian Open: 'He might get booed when he gets on court'</a> BBC: Australians give their views on Novak Djokovic being able to play in the Australian Open. 
- <p class="updated_time"> 05:05 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Almaty mayor's office stormed in protest</a> BBC: Protests over fuel prices are raging for a second day despite a state of emergency in some areas. 
  <p class="updated_time"> 04:54 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea fires suspected ballistic missile into the sea</a> BBC: It follows a number of tests last year and a vow from Kim Jong-un to bolster the North's defences. 
  <p class="updated_time"> 04:51 AM CT, Jan. 05 </p> 
@@ -31,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070472805/xian-reacts-to-covid-lockdowns-with-outrage-and-humor">Xi'an reacts to COVID lockdowns with outrage and humor</a> NPR: Lockdowns are so strict and so prolonged in the Chinese city that residents have taken to social media to complain and joke about a lack of basic supplies. 
  <p class="updated_time"> 02:46 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/britain-omicron-boris-johnson.html">Britain can ‘ride out’ the Omicron wave without a strict lockdown, Boris Johnson says.</a> NYT: “We can find a way to live with this virus,” the prime minister said. 
- <p class="updated_time"> 02:39 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59873833?at_medium=RSS&at_campaign=KARANGA">Covid: President Macron warns he will 'hassle' France's unvaccinated</a> BBC: The president vows to make life difficult for the unjabbed, but opponents condemn his strong language. 
  <p class="updated_time"> 02:20 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59877917?at_medium=RSS&at_campaign=KARANGA">Taiwan buys 20,000 bottles of Lithuania rum destined for China</a> BBC: Taiwan later urged locals to buy rum, posting recipes for rum-infused cocktails. 
  <p class="updated_time"> 10:12 PM CT, Jan. 04 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Charges a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
  <p class="updated_time"> 04:12 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070363988/haiti-assassination-charges">The U.S. charges a former Colombian soldier in Haitian president's assassination</a> NPR: The U.S. government announced that it charged Mario Antonio Palacios, a 43-year-old former Colombian soldier who is one of the main suspects in the July killing of Haitian president Jovenel Moïse. 
- <p class="updated_time"> 03:45 PM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59871945?at_medium=RSS&at_campaign=KARANGA">Paraguayan soldier killed by deer at presidential palace</a> BBC: The soldier was killed after approaching the deer inside the presidential gardens in the capital. 
  <p class="updated_time"> 03:39 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/middleeast/palestinian-hunger-strike-israel.html">Palestinian Prisoner’s Hunger Strike Leads to Deal for Release</a> NYT: A Palestinian accused of plotting to kill Israelis went on a hunger strike to protest his imprisonment without trial. Fearing unrest, Israel agreed to release him. 
  <p class="updated_time"> 03:38 PM CT, Jan. 04 </p> 
@@ -176,6 +178,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:35 AM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/01/05/security-still-top-of-mind-a-year-after-capitol-attack-495603">Security still top of mind a year after Capitol attack</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:30 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/capitol-police-january-6.html">Capitol Police Chief to Commit to Steps for Improvement</a> NYT: Chief J. Thomas Manger, head of an agency still reeling from Jan. 6, plans to tell lawmakers he is already addressing most of the 103 recommendations from an internal watchdog. 
+ <p class="updated_time"> 06:18 AM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/doj-investigation-jan-6-insurrection/index.html">Biggest investigation in FBI history still has Garland in the hot seat </a> CNN: A year after the January 6 insurrection, the Justice Department continues to press forward on the biggest investigation in FBI history, with 700 people already arrested and hundreds more offenders still at large and several more years of prosecutions ahead. 
+ <p class="updated_time"> 06:17 AM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/jan-6-capitol-riot-lancaster-republicans/index.html">How January 6 changed what it means to be a Republican in one Pennsylvania county</a> CNN: The day after the January 6 attack on the US Capitol, three local Republican officials in Pennsylvania's Lancaster County announced they were leaving the GOP.  Among them was Ethan Demme, a lifelong conservative who had previously served as the youngest Republican Party chairman in this deeply red corner of southeast Pennsylvania.  
  <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/05/republicans-dodge-and-deflect-ahead-of-jan-6-495599"> Republicans dodge and deflect ahead of Jan. 6</a> Politico Playbook: And prices for at-home Covid-19 tests rise. 
  <p class="updated_time"> 05:39 AM CT, Jan. 05 </p> 
@@ -200,8 +210,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1069977469/a-timeline-of-how-the-jan-6-attack-unfolded-including-who-said-what-and-when">A timeline of how the Jan. 6 attack unfolded — including who said what and when</a> NPR: This week marks the one year anniversary of the insurrection at the U.S. Capitol. Here's a timeline of how the day unfolded. 
  <p class="updated_time"> 04:00 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/upshot/biden-child-tax-credit.html">Why Biden’s Expanded Child Tax Credit Isn’t More Popular</a> NYT: The expansion has expired, and a bill to renew it has stalled. Public opinion is favorable but not overwhelmingly so, for several reasons. 
- <p class="updated_time"> 04:00 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/capitol-police-january-6.html">Capitol Police Chief to Commit to Steps for Improvement</a> NYT: Chief J. Thomas Manger, head of an agency still reeling from Jan. 6, plans to tell lawmakers he is already addressing most of the 103 recommendations from an internal watchdog. 
  <p class="updated_time"> 02:00 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/jan-6-capitol-riot-investigation.html">Prosecutors Move Quickly on Jan. 6 Cases, but Big Questions Remain</a> NYT: In the year since the assault on the Capitol by a pro-Trump mob, more than 700 people have been arrested, with little public indication from the Justice Department of how high the investigation might reach. 
  <p class="updated_time"> 11:37 PM CT, Jan. 04 </p> 
@@ -235,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:42 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/states/florida/story/2022/01/04/gop-governors-play-down-omicron-hysteria-while-also-asking-for-help-1403885">GOP governors play down Omicron 'hysteria' while also asking for help</a> Politico: “Given the clinical profile so far of Omicron, it’s not justifiable to let fear overwhelm you,” Florida’s governor says. 
  <p class="updated_time"> 06:40 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/us/politics/biden-pfizer-pill-order.html">Biden Administration to Increase Supply of ‘Game Changer’ Pfizer Pill</a> NYT: President Biden announced that his administration would double its order of Pfizer’s scarce Covid-19 antiviral drug, which has been shown to reduce hospitalizations. 
+ <a href="https://www.nytimes.com/2022/01/04/us/politics/biden-pfizer-pill-order.html">Biden Administration Doubles Order of Pfizer's Covid Pill</a> NYT: President Biden announced that his administration would double its order of Pfizer’s scarce Covid-19 antiviral drug, which has been shown to reduce hospitalizations. 
  <p class="updated_time"> 06:10 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-gop-jan-6.html">How Trump Kept His Grip After Jan. 6</a> NYT: Only weeks after instigating the Capitol riot, Donald Trump was back in command of the Republican Party. 
  <p class="updated_time"> 06:03 PM CT, Jan. 04 </p> 
@@ -276,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/04/politics/andrew-cuomo-albany-da/index.html">Albany DA declines to prosecute former Gov. Andrew Cuomo on forcible touching charge </a> CNN: The Albany district attorney will not prosecute former New York Gov. Andrew Cuomo on a misdemeanor sex crime charge of forcible touching after reviewing the evidence in the case despite finding the complainant "cooperative" and "credible." 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
- <p class="updated_time"> 01:07 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/hackers-florida-health-care/index.html">Hackers breached Florida health care system, potentially exposing data on 1.3 million people</a> CNN: Hackers breached the computer networks of a southeast Florida health care system in October and may have accessed sensitive personal and financial information on over 1.3 million people, the health care system announced this week. 
  <p class="updated_time"> 01:02 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/manchin-filibuster-change-voting-legislation/index.html">Manchin delivers blow to Democrats as he signals opposition to changing Senate rules to advance voting bill</a> CNN: Sen. Joe Manchin of West Virginia, the pivotal Senate swing vote, made clear on Tuesday that he remains deeply skeptical of overhauling the chamber's rules on a simple majority basis to advance voting legislation, a clear sign that a frantic push by Democrats to win his support to change the filibuster and pass one of the party's core priorities is likely doomed. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
@@ -304,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/ruben-gallego-merrick-garland-capitol-attack-526480">Gallego: Garland 'extremely weak' on Jan. 6 cases</a> Politico: The Arizona Democrat also directed his ire at GOP lawmakers who he accused of trying to shield Jan. 6 rioters. 
  <p class="updated_time"> 10:08 AM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/bobby-rush-retiring-democrat-illinois/index.html">Only person to defeat Obama retires from Congress</a> CNN: Rep. Bobby Rush of Illinois told the Chicago Sun-Times in an interview published Monday that he won't run for a 16th term in the US House of Representatives, the 24th House Democrat to announce plans of leaving the chamber at the end the term. 
- <p class="updated_time"> 09:57 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/02/us/politics/jan-6-capitol-riot-anniversary.html">Jan. 6 Panel Faces Difficult Questions as Anniversary of Capitol Riot Approaches</a> NYT: Decisions about subpoenas and a Supreme Court ruling loom as lawmakers, staff members and Capitol employees plan to commemorate the day. 
  <p class="updated_time"> 08:17 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/capitol-riot-january-6.html">Can the Jan. 6 Committee’s Inquiry End in Criminal Charges?</a> NYT: The House panel does not have the authority to pursue criminal charges, but it can provide the Justice Department with evidence of any wrongdoing it unearths in its investigation. 
  <p class="updated_time"> 07:51 AM CT, Jan. 04 </p> 
@@ -374,6 +378,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
  <p class="updated_time"> 12:55 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/hogan-health-care-covid-maryland-526361">‘You can’t really manufacture doctors and nurses that don’t exist’</a> Politico: Maryland Gov. Larry Hogan said his state is trying everything it can to ensure it has enough health care workers. 
+ <p class="updated_time"> 12:14 PM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-testing-526360">More Covid testing programs on the way for schools, Education secretary says</a> Politico: “We’re working closely now to make sure that they’re being set up,” Miguel Cardona said. 
  <p class="updated_time"> 11:41 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/bennie-thompson-jan-6-526357">Members of Congress interacted with Jan. 6 rioters, Rep. Thompson says</a> Politico: But it’s not clear how extensive or significant those interactions were. 
  <p class="updated_time"> 11:15 AM CT, Jan. 02 </p> 
@@ -384,6 +390,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/capitol-police-chief-short-staffed-526354">Capitol Police chief says force remains short-staffed</a> Politico: “We’re now really about 400 officers short of where we need to be,” J. Thomas Manger said. 
  <p class="updated_time"> 09:46 AM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/miguel-cardona-warns-school-reopening-covid-surge/index.html">US education secretary warns of 'bumps in the road' as schools reopen amid Covid surge</a> CNN: There will be "bumps in the road" as schools attempt to reopen in the new year amid a record surge in Covid-19 cases, US Education Secretary Miguel Cardona said Sunday. 
+ <p class="updated_time"> 09:33 AM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/cardona-schools-covid-closures-526353">Education secretary urges schools to remain open</a> Politico: But Miguel Cardona acknowledged some short-term closures might be needed. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
@@ -396,16 +404,14 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/31/politics/biden-new-years-eve/index.html">Biden rings in new year, says there's 'no quit in America'</a> CNN: In a New Year's Eve message Friday, President Joe Biden said he's "more optimistic about America's future than I've ever been." 
  <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/31/meet-the-gops-new-national-security-power-broker-495557"> Meet the GOP’s new national security power broker</a> Politico Playbook: And neither Biden nor Putin backs down on a new call. 
+ <p class="updated_time"> 07:01 AM CT, Dec. 31 </p> 
+ <a href="https://www.politico.com/news/2021/12/31/complaint-doj-foreign-agent-prosecutions-526278">Complaint could roil DOJ foreign-agent prosecutions</a> Politico: Businesswoman Nickie Lum Davis says her guilty plea last year to a charge of unregistered lobbying was coerced. 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
- <p class="updated_time"> 08:17 AM CT, Dec. 30 </p> 
- <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Biden administration results in more of the same Trump immigration policies</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
  <p class="updated_time"> 11:07 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/29/harry-reids-legacy-495555"> Harry Reid’s legacy</a> Politico Playbook: And Michigan and Virginia get their new congressional maps. 
  <p class="updated_time"> 10:26 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/news/2021/12/29/harry-reid-shaped-chuck-schumer-526233">‘He’s a press guy, I’m not’: How Harry Reid shaped Chuck Schumer</a> Politico: Schumer called Reid “my leader, my mentor, one of my dearest friends,” after the former Senate majority leader’s death Tuesday. 
- <p class="updated_time"> 06:06 AM CT, Dec. 29 </p> 
- <a href="https://www.politico.com/news/agenda/2021/12/29/teachers-districts-hybrid-education-526214">‘I Feel Half as Successful’: Teachers Push to Ban Hybrid Instruction, But Districts Want to Keep It</a> Politico: Teachers want to ban teaching students in person and online at the same time. Some education leaders say it should be what the future looks like. 
 
 
 </details>
