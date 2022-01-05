@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:05 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Almaty mayor's office stormed in protest</a> BBC: Protests over fuel prices are raging for a second day despite a state of emergency in some areas. 
  <p class="updated_time"> 04:54 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea fires suspected ballistic missile into the sea</a> BBC: It follows a number of tests last year and a vow from Kim Jong-un to bolster the North's defences. 
  <p class="updated_time"> 04:51 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
- <p class="updated_time"> 04:42 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Almaty mayor's office stormed in protest</a> BBC: Protests over fuel prices are raging for a second day despite a state of emergency in some areas. 
  <p class="updated_time"> 04:28 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59878349?at_medium=RSS&at_campaign=KARANGA">US actress Joan Copeland dies aged 99</a> BBC: The Broadway and TV star, who was also the sister of playwright Arthur Miller, died in her sleep. 
  <p class="updated_time"> 04:24 AM CT, Jan. 05 </p> 
@@ -176,14 +176,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/05/republicans-dodge-and-deflect-ahead-of-jan-6-495599">Republicans dodge and deflect ahead of Jan. 6</a> Politico Playbook: And prices for at-home Covid-19 tests rise. 
+ <p class="updated_time"> 04:59 AM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/january-6-committee-mike-pence-sean-hannity-donald-trump/index.html">Call for Pence cooperation shows ambition of January 6 panel ahead of anniversary</a> CNN: The House select committee investigating the Capitol insurrection is cranking up the pace ahead of Thursday's anniversary of the mob attack, training its sights on ex-Vice President Mike Pence and Donald Trump's top Fox News booster Sean Hannity. 
  <p class="updated_time"> 04:31 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/gop-red-wave-critical-race-theory-526523">GOP sees ‘huge red wave’ potential by targeting critical race theory</a> Politico: Republicans in state legislatures across the country are gearing up to push through dozens of anti-critical race theory bills this year. 
  <p class="updated_time"> 04:30 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/jan-6-anniversary-capitol-police-officers-response-526024">What the Jan. 6 responders found: Brotherhood in trauma and a search for accountability</a> Politico: "It's been a hell of a year" for officers Aquilino Gonell, Harry Dunn and Daniel Hodges. They're not done healing yet. 
  <p class="updated_time"> 04:07 AM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070471284/sen-amy-klobuchar-remains-haunted-by-what-happened-on-jan-6">Sen. Amy Klobuchar remains haunted by what happened on Jan.6</a> NPR: NPR's Rachel Martin talks with Democratic Sen. Amy Klobuchar about the Jan. 6 attack on the U.S. Capitol, and the latest on the investigation and action by Congress. 
- <p class="updated_time"> 04:07 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070471317/the-supreme-court-to-hold-a-hearing-on-bidens-vaccine-and-testing-mandate">The Supreme Court to hold a hearing on Biden's vaccine and testing mandate</a> NPR: NPR's Rachel Martin talks to Karen Harned of the National Federation of Independent Business, about its opposition to OSHA's vaccine and testing requirements for private employers. 
+ <p class="updated_time"> 04:07 AM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070471284/sen-amy-klobuchar-remains-haunted-by-what-happened-on-jan-6">Sen. Amy Klobuchar remains haunted by what happened on Jan.6</a> NPR: NPR's Rachel Martin talks with Democratic Sen. Amy Klobuchar about the Jan. 6 attack on the U.S. Capitol, and the latest on the investigation and action by Congress. 
+ <p class="updated_time"> 04:06 AM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/democrats-trump-messaging-2022/index.html">Top Democratic operatives plan to do what the party says they shouldn't: Talk about Trump in 2022</a> CNN: Some top Democratic operatives are terrified that their down-ballot candidates are responding too timidly to the threat of former President Donald Trump using this year's midterm elections to launch a return to the White House, and they've formed a new group to raise the alarm. 
+ <p class="updated_time"> 04:05 AM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/supreme-court-vaccine-two-pandemics/index.html">Two differing views of the Covid pandemic on display at Supreme Court </a> CNN: The two visions of pandemic America have arrived at the US Supreme Court. 
  <p class="updated_time"> 04:00 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070418884/a-year-after-the-capitol-riot-work-remains-to-safeguard-it-from-another-attack">A year after the Capitol riot, work remains to safeguard it from another attack</a> NPR: The Jan. 6 siege led to a transformation of security for the citadel of democracy and members of Congress. But many say plenty of work remains to ensure another attack never happens again. 
  <p class="updated_time"> 04:00 AM CT, Jan. 05 </p> 
@@ -234,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/sean-hannity-dissuade-trump-january-6-526508">Sean Hannity tried to dissuade Trump from Jan. 6 strategy, texts show</a> Politico: “I do NOT see January 6 happening the way he is being told,” the Fox News host said of Trump’s efforts in a  December 2020 text. 
  <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/cdc-doubles-down-quarantine-guidelines-526501">CDC recommits to isolation and quarantine guidelines without tests</a> Politico: The recent guidance, updated Dec. 29, said individuals who test positive for Covid-19 and whose symptoms are resolving need only isolate for five days as long as they continue to wear masks for an additional five days. 
- <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/omicron-variant-covid-19-what-matters/index.html">Analysis: Omicron pushes Americans into a confusing spot</a> CNN: The Omicron variant's rapid spread has pushed the US into another confusing pandemic moment as Americans try to strike a responsible balance between evolving public health guidance and their personal risk tolerance. 
  <p class="updated_time"> 04:21 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/trump-lawsuits-metro-capitol-police/index.html">Trump hit with two new lawsuits from police officers attacked by rioters on Jan. 6</a> CNN: Former President Donald Trump was hit with two new federal lawsuits Tuesday from law enforcement officers who were at the US Capitol on January 6 and who allege that Trump directed the assault that left them injured and emotionally traumatized. 
  <p class="updated_time"> 04:19 PM CT, Jan. 04 </p> 
@@ -324,12 +330,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/us/politics/bobby-rush-retire.html">Representative Bobby Rush, Longtime Illinois Democrat, Will Retire</a> NYT: The decision by the pastor and civil rights activist added to a wave of Democrats deciding not to run for re-election in a difficult midterm cycle. 
  <p class="updated_time"> 08:41 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/rep-bobby-rush-wont-seek-reelection-526455">Bobby Rush to relinquish 30-year hold on House seat</a> Politico: The veteran Illinois congressman and former Black Panther leader said, “I’m not retiring … I’m just entering into a new level of my life.” 
- <p class="updated_time"> 06:42 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/ivanka-donald-trump-jr-subpoena/index.html">Trumps move to quash subpoenas for their testimony in civil investigation</a> CNN: The New York attorney general's office has subpoenaed two of former President Donald Trump's children for testimony as part of its civil investigation into whether the Trump Organization manipulated the values of its properties. 
  <p class="updated_time"> 06:05 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/bill-gardner-retires.html">New Hampshire's Secretary of State, Bill Gardner, Is Retiring</a> NYT: The official, Bill Gardner, a Democrat, has served as secretary of state in New Hampshire for more than four decades. 
- <p class="updated_time"> 05:43 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/texas-abortion-providers-supreme-court/index.html">Abortion providers go back to Supreme Court in long-shot bid to challenge Texas abortion law</a> CNN: Abortion providers on Monday asked the Supreme Court to require a conservative federal appeals court to return their challenge to Texas' six-week abortion ban to a district court judge who previously ruled in their favor. 
  <p class="updated_time"> 05:25 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/us/politics/senate-democrats-biden-agenda.html">Democrats Set Timetable to Change Rules for Stalled Voting Rights Bills</a> NYT: The top Senate Democrat said he would act by Jan. 17 to try to force through the measures if Republicans refused to drop their opposition. 
  <p class="updated_time"> 04:55 PM CT, Jan. 03 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/white-house-closures-snow-526382">White House cancels press briefing, citing snow-related federal closures</a> Politico: The National Weather Service on Monday morning issued a winter storm warning for the District of Columbia and adjacent counties in Maryland and Virginia. 
  <p class="updated_time"> 07:46 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/03/new-year-same-to-do-list-for-congress-495569">New Year, same to-do list for Congress</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:15 AM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/january-6-committee-firsthand-knowledge-trump-actions/index.html">January 6 panel has 'firsthand' knowledge of Trump's behavior during riot from multiple sources </a> CNN: The House select committee investigating the January 6 Capitol Hill insurrection has information from multiple sources with firsthand knowledge that describe what then-President Donald Trump was doing during the riot, according to a person familiar with the investigation. 
  <p class="updated_time"> 06:05 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/03/dems-to-use-jan-6-anniversary-to-supercharge-voting-rights-push-495565"> Dems to use Jan. 6 anniversary to supercharge voting rights push</a> Politico Playbook: And Biden says the U.S. would 'respond decisively' if Russia invades Ukraine. 
  <p class="updated_time"> 05:02 AM CT, Jan. 03 </p> 
@@ -364,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/harry-reid-to-lie-in-state-in-capitol-rotunda-526381">Harry Reid to lie in state in Capitol Rotunda</a> Politico: The former Senate majority leader died last Tuesday. 
  <p class="updated_time"> 08:52 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/lloyd-austin-test-positive-covid/index.html">Defense Secretary Austin says he has tested positive for Covid-19</a> CNN: Defense Secretary Lloyd Austin has tested positive for Covid-19 and is exhibiting "mild" symptoms, according to a statement from him released by the Defense Department on Sunday. 
- <p class="updated_time"> 08:15 PM CT, Jan. 02 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/harry-reid-lie-in-state/index.html">Former Democratic leader Harry Reid to lie in state at US Capitol on January 12</a> CNN: Former Senate Majority Leader Harry Reid will lie in state in the US Capitol Rotunda on January 12, according to a joint statement from House Speaker Nancy Pelosi and Senate Majority Leader Chuck Schumer, an honor given to few statesmen. 
  <p class="updated_time"> 06:14 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/biden-january-6-speech/index.html">Biden and Harris to deliver remarks on January 6 anniversary</a> CNN: President Joe Biden and Vice President Kamala Harris will deliver remarks on Thursday to mark the one-year anniversary of the January 6 attack on the US Capitol, the White House said Sunday. 
  <p class="updated_time"> 01:29 PM CT, Jan. 02 </p> 
@@ -398,6 +396,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/31/meet-the-gops-new-national-security-power-broker-495557"> Meet the GOP’s new national security power broker</a> Politico Playbook: And neither Biden nor Putin backs down on a new call. 
  <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
+ <p class="updated_time"> 08:17 AM CT, Dec. 30 </p> 
+ <a href="https://www.cnn.com/2021/12/30/politics/biden-harris-immigration/index.html">Biden administration results in more of the same Trump immigration policies</a> CNN: President Joe Biden kicked off his administration with lofty goals to revamp America's immigration system, but with the end of the year approaching, lawsuits and infighting have stalled policy changes, officials have fielded criticism from allies and critics over management of the US southern border, and efforts to pass immigration revisions seem farther away. 
  <p class="updated_time"> 11:07 AM CT, Dec. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/29/harry-reids-legacy-495555"> Harry Reid’s legacy</a> Politico Playbook: And Michigan and Virginia get their new congressional maps. 
  <p class="updated_time"> 10:26 AM CT, Dec. 29 </p> 
