@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:07 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html">Using Harsh Language, Macron Issues a Challenge to the Unvaccinated</a> NYT: The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds. 
+ <p class="updated_time"> 05:03 PM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59884806?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Lawyers call for retrial over juror comments</a> BBC: A juror at the trial said he shared his own experience of sexual abuse to sway other jurors. 
  <p class="updated_time"> 04:49 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
  <p class="updated_time"> 04:46 PM CT, Jan. 05 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Government calls for Russian help</a> BBC: A Russian-led military alliance will send a peacekeeping force as nationwide protests escalate. 
  <p class="updated_time"> 04:37 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/americas/rio-carnival-covid.html">Rio Carnival's Street Parties Are Canceled, Mayor Says</a> NYT: As the Omicron variant sweeps the globe, the parties in Rio de Janeiro, which ordinarily draw millions of revelers, have been called off for a second year. 
- <p class="updated_time"> 04:30 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59884806?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Lawyers call for retrial over juror comments</a> BBC: A juror at the trial said he shared his own experience of sexual abuse to sway other jurors. 
  <p class="updated_time"> 04:15 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Conducts Ballistic Missile Test</a> NYT: The test involved a hypersonic missile, the North said, the latest in a series of tests it has conducted this fall. 
  <p class="updated_time"> 04:10 PM CT, Jan. 05 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1069791114/afghanistan-girls-soccer-refugees-portugal">An Afghan girls soccer team rebelled to play the game they love. Now they're refugees</a> NPR: The teenagers on the Afghan girls national soccer team lean on each other as they adjust to a new life in Portugal, where they fled after the Taliban takeover of Afghanistan. 
  <p class="updated_time"> 02:54 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59889228?at_medium=RSS&at_campaign=KARANGA">Grammy Awards 2022: Omicron postpones music's biggest night</a> BBC: A new date for the music industry celebration in Los Angeles will be announced soon, organisers say. 
- <p class="updated_time"> 02:52 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html">Using Harsh Language, Macron Issues a Challenge to the Unvaccinated</a> NYT: The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds. 
  <p class="updated_time"> 02:12 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/arts/yivo-institute-archives-yiddish-life-online.html">YIVO Institute Makes Archives of Yiddish Life Available Online</a> NYT: After a lengthy effort, artifacts from collections in Lithuania and New York that document Yiddish culture in Eastern Europe before World War II will be accessible to scholars and others. 
  <p class="updated_time"> 02:10 PM CT, Jan. 05 </p> 
@@ -186,18 +186,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:58 PM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/cdc-advisers-teen-pfizer-covid-booster-526572">CDC advisers: All teens 'should' get Pfizer Covid booster</a> Politico: The advisory panel signed off on the recommendation following presentations by doctors suggesting boosters are likely to increase antibodies in young teens. 
  <p class="updated_time"> 05:27 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/defense-spending-stuck-budget-boost-526557">Pentagon spending stuck in neutral even as lawmakers back budget boost</a> Politico: House Democrats plan to shine a light on the dire budget situation next week when top Pentagon officials testify on the impact of temporary funding on the military. 
+ <p class="updated_time"> 05:12 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/trump-gop-jan-6.html">Why Trump’s Hold on the G.O.P. Is Unrivaled After the Capitol Riot</a> NYT: His continued grip on the party shows, once again, that the former president can outlast almost any outrage cycle, no matter how intensely it burns. 
+ <p class="updated_time"> 05:10 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/cdc-fully-vaccinated-boosters.html">C.D.C. Sticks With ‘Fully Vaccinated’ Definition But Asks People to Stay ‘Up to Date’</a> NYT: The agency did not change the definition of what qualifies as full vaccination — a subject of intense interest to many. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
  <p class="updated_time"> 04:51 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/capitol-police-january-6.html">Capitol Police Chief Commits to Security Improvements After Jan. 6</a> NYT: Chief J. Thomas Manger, the head of an agency still reeling from the Jan. 6 attack, told lawmakers he was already addressing most of the 103 recommendations from an internal watchdog. 
  <p class="updated_time"> 04:48 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/technology/jan-6-anniversary-social-media.html">Right-Wing Calls to Celebrate Jan. 6 Anniversary Draw a Muted Response</a> NYT: Online chatter about holding rallies has grown, but sizable real-world gatherings on Thursday are unlikely to materialize. 
- <p class="updated_time"> 04:47 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/trump-gop-jan-6.html">Why Trump’s Hold on the G.O.P. Is Unrivaled After the Capitol Riot</a> NYT: His rehabilitation shows, once again, that the former president can outlast almost any outrage cycle, no matter how intensely it burns. 
- <p class="updated_time"> 04:45 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/cdc-fully-vaccinated-boosters.html">C.D.C. Sticks With ‘Fully Vaccinated’ Definition But Asks People to Stay ‘Up to Date’</a> NYT: The agency did not change the definition of what qualifies as full vaccination — a subject of intense interest to many. 
  <p class="updated_time"> 04:38 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/garland-rebuts-criticism-of-jan-6-probe-526551">Garland rebuts criticism of Jan. 6 probe</a> Politico: The attorney general argued that prosecutors are methodically building cases against the most serious offenders in the attack on the Capitol. 
  <p class="updated_time"> 04:31 PM CT, Jan. 05 </p> 
@@ -217,7 +219,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:50 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/merrick-garland-january-6-anniversary-speech/index.html">Merrick Garland on Capitol attack: 'The actions we have taken thus far will not be our last'</a> CNN: Attorney General Merrick Garland will say in a speech Wednesday that the Justice Department "remains committed to holding all January 6th perpetrators, at any level, accountable under law -- whether they were present that day or were otherwise criminally responsible for the assault on our democracy," according to an excerpt from the Justice Department. 
  <p class="updated_time"> 03:41 PM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070700670/rep-jaime-raskin-on-growing-through-trauma-in-year-since-jan-6-and-his-sons-deat">Rep. Jaime Raskin on growing through trauma in year since Jan. 6 and his son's death</a> NPR: NPR's Mary Louise Kelly speaks with Rep. Jaime Raskin, D-Md., about leading an impeachment effort against President Trump. Raskin was inside the Capitol building on Jan. 6. 
+ <a href="https://www.npr.org/2022/01/05/1070700670/rep-jamie-raskin-on-growing-through-trauma-in-year-since-jan-6-and-his-sons-deat">Rep. Jamie Raskin on growing through trauma in year since Jan. 6 and his son's death</a> NPR: NPR's Mary Louise Kelly speaks with Rep. Jamie Raskin, D-Md., about leading an impeachment effort against President Trump. Raskin was inside the Capitol building on Jan. 6. 
  <p class="updated_time"> 03:35 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070199411/5-takeaways-from-the-capitol-riot-criminal-cases-one-year-later">5 takeaways from the Capitol riot criminal cases, one year later</a> NPR: NPR has been tracking every criminal case related to the insurrection at the U.S. Capitol on Jan. 6, 2021. One year after the riot, here are some of the key patterns that have emerged from the cases. 
  <p class="updated_time"> 03:13 PM CT, Jan. 05 </p> 
@@ -247,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
  <p class="updated_time"> 01:09 PM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/louisiana-governor-pardons-plessy-526546">Governor pardons Plessy, of ‘separate but equal’ ruling</a> Politico: Louisiana’s governor posthumously pardoned Homer Plessy, the Black man whose arrest sparked the SCOTUS ruling that cemented “separate but equal” into law. 
+ <a href="https://www.politico.com/news/2022/01/05/louisiana-governor-pardons-plessy-526546">Louisiana gov pardons Plessy, of ‘separate but equal’ ruling</a> Politico: John Bel Edwards posthumously pardoned Homer Plessy, the Black man whose arrest sparked the SCOTUS ruling that cemented “separate but equal” into law. 
  <p class="updated_time"> 12:25 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/tom-barrack/index.html">Former Trump adviser Tom Barrack to go on trial for foreign lobbying charges in September</a> CNN: A federal judge set the foreign lobbying trial for Tom Barrack, a former adviser to then-President Donald Trump, for September. 
  <p class="updated_time"> 11:52 AM CT, Jan. 05 </p> 
@@ -298,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/upshot/biden-child-tax-credit.html">Why Biden’s Expanded Child Tax Credit Isn’t More Popular</a> NYT: The expansion has expired, and a bill to renew it has stalled. Public opinion is favorable but not overwhelmingly so, for several reasons. 
  <p class="updated_time"> 11:37 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/fact-check-capitol-insurrection-january-6-lies/index.html">Fact check: Five enduring lies about the Capitol insurrection</a> CNN: The Capitol insurrection was based on a lie about the 2020 election. And for a whole year now, the insurrection itself has been lied about. 
- <p class="updated_time"> 10:24 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/sebastian-gorka-jan-6-committee-526534">Jan. 6 committee seeking phone records from Sebastian Gorka</a> Politico: The radio host is suing to block the panel from getting his records. 
  <p class="updated_time"> 10:16 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
  <p class="updated_time"> 07:30 PM CT, Jan. 04 </p> 
