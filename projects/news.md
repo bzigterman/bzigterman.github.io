@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:15 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
+ <p class="updated_time"> 05:11 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/europe/italy-female-statue-padua-prato-della-valle.html">Italy Proposal to Add Female Statue to Square of Men Stirs Debate</a> NYT: In Padua, Italy, a proposal to include a female philosopher in a monument whose 78 sculptures are all men has spurred debate. 
  <p class="updated_time"> 05:07 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html">Using Harsh Language, Macron Issues a Challenge to the Unvaccinated</a> NYT: The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds. 
  <p class="updated_time"> 05:03 PM CT, Jan. 05 </p> 
@@ -19,16 +23,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59889522?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels top tennis player's visa</a> BBC: Australia's leader says "no one is above the rules" when it comes to the country's border policies. 
  <p class="updated_time"> 04:39 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Government calls for Russian help</a> BBC: A Russian-led military alliance will send a peacekeeping force as nationwide protests escalate. 
- <p class="updated_time"> 04:37 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/americas/rio-carnival-covid.html">Rio Carnival's Street Parties Are Canceled, Mayor Says</a> NYT: As the Omicron variant sweeps the globe, the parties in Rio de Janeiro, which ordinarily draw millions of revelers, have been called off for a second year. 
  <p class="updated_time"> 04:15 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Conducts Ballistic Missile Test</a> NYT: The test involved a hypersonic missile, the North said, the latest in a series of tests it has conducted this fall. 
  <p class="updated_time"> 04:10 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/sports/tennis/djokovic-vaccine.html">Djokovic Granted Covid-19 Vaccine Exemption to Play in Australian Open</a> NYT: The top-ranked player in men’s tennis revealed his plans in a post on his Instagram account. 
  <p class="updated_time"> 04:06 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070700705/u-s-and-germany-touch-base-before-meeting-with-russia-about-ukraine-tensions">U.S. and Germany touch base before meeting with Russia about Ukraine tensions</a> NPR: With Russian troops massed on the Ukrainian border, Secretary of State Antony Blinken and his German counterpart huddle before next week's meetings with Russian officials aimed at defusing the crisis. 
- <p class="updated_time"> 03:59 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
  <p class="updated_time"> 03:57 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59873833?at_medium=RSS&at_campaign=KARANGA">Covid: French uproar as Macron vows to 'piss off' unvaccinated</a> BBC: The president vows to make life difficult for the unjabbed, but opponents condemn his language. 
  <p class="updated_time"> 03:56 PM CT, Jan. 05 </p> 
@@ -43,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/arts/yivo-institute-archives-yiddish-life-online.html">YIVO Institute Makes Archives of Yiddish Life Available Online</a> NYT: After a lengthy effort, artifacts from collections in Lithuania and New York that document Yiddish culture in Eastern Europe before World War II will be accessible to scholars and others. 
  <p class="updated_time"> 02:10 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/britain-extends-pardons-same-sex-partners.html">Britain Extends Pardons Policy for Consensual Same-Sex Partners</a> NYT: The government’s action expands earlier legislative efforts, but for some gay people it is too little, too late. “It impacted me my whole life,” one man said of his conviction. 
- <p class="updated_time"> 02:10 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/europe/italy-female-statue-padua-prato-della-valle.html">Italy Proposal to Add Female Statue to Square of Men Stirs Debate</a> NYT: In Padua, Italy, a proposal to include a female philosopher in a monument whose 78 sculptures are all men has spurred debate. 
  <p class="updated_time"> 01:51 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/germany-legalize-recreational-marijuana.html">German Start-Ups Lay the Groundwork for a Marijuana Bonanza</a> NYT: Two of the three parties in Germany’s new governing coalition support legalization, a potentially radical shift in the conservative country. 
  <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
@@ -177,6 +175,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/middleeast/tunisia-economy-kais-saied.html">Pressure Mounts on Tunisia’s President to Salvage the Economy</a> NYT: When President Kais Saied seized power in July, he vowed to rescue the failing economy. Tunisians are still waiting for him to fulfill that pledge. 
  <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/article/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/travel/nepal-maha-shivaratri.html">Celebrating the ‘Great Night of Shiva’ in Kathmandu</a> NYT: Every year, thousands of celebrants gather at a temple complex in Nepal’s capital in honor of Shiva, one of Hinduism’s most revered gods. 
  <p class="updated_time"> 06:55 PM CT, Jan. 01 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59566983?at_medium=RSS&at_campaign=KARANGA">In the footsteps of the women who escaped a Nazi death march</a> BBC: When Gwen Strauss' great-aunt revealed she had led nine women in an escape from a Nazi death march in 1945, Gwen decided to retrace their steps. 
 
@@ -192,8 +192,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/defense-spending-stuck-budget-boost-526557">Pentagon spending stuck in neutral even as lawmakers back budget boost</a> Politico: House Democrats plan to shine a light on the dire budget situation next week when top Pentagon officials testify on the impact of temporary funding on the military. 
  <p class="updated_time"> 05:12 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/trump-gop-jan-6.html">Why Trump’s Hold on the G.O.P. Is Unrivaled After the Capitol Riot</a> NYT: His continued grip on the party shows, once again, that the former president can outlast almost any outrage cycle, no matter how intensely it burns. 
- <p class="updated_time"> 05:10 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/cdc-fully-vaccinated-boosters.html">C.D.C. Sticks With ‘Fully Vaccinated’ Definition But Asks People to Stay ‘Up to Date’</a> NYT: The agency did not change the definition of what qualifies as full vaccination — a subject of intense interest to many. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
  <p class="updated_time"> 04:51 PM CT, Jan. 05 </p> 
@@ -336,6 +334,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/04/politics/mitch-landrieu-letter-to-governors-infrastructure/index.html">Biden's infrastructure czar urges governors to appoint their own infrastructure implementation coordinators</a> CNN: President Joe Biden's infrastructure czar Mitch Landrieu sent letters to all the nation's governors on Tuesday urging them to appoint their own infrastructure implementation coordinators to smooth the rollout of the $1.2 trillion law. 
  <p class="updated_time"> 11:49 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/tesla-dealership-xinjiang-china.html">Tesla Draws Criticism After Opening Dealership in Xinjiang </a> NYT: Senator Marco Rubio criticized the electric carmaker for opening the outlet in a region where China has been accused of targeting Muslims. 
+ <p class="updated_time"> 10:56 AM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/us/politics/capitol-riot-panel.html">In the Capitol’s Shadow, the Jan. 6 Panel Quietly Ramps Up Its Inquiry</a> NYT: From a nondescript office building, a few dozen investigators and members of Congress are rushing to dissect what led to the worst attack on the Capitol in centuries. 
  <p class="updated_time"> 10:49 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/donald-trump-midterm-elections.html">As Midterms and 2024 Loom, Trump Political Operation Revs Up</a> NYT: The former president is set to headline an event at Mar-a-Lago next month for endorsed candidates and major donors to benefit a supportive super PAC. 
  <p class="updated_time"> 10:46 AM CT, Jan. 04 </p> 
