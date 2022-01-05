@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59868726?at_medium=RSS&at_campaign=KARANGA">Dakar Rally: France opens terrorism probe into Saudi Arabia blast</a> BBC: The explosion in Saudi Arabia last week badly wounded French rally driver Philippe Boutron. 
  <p class="updated_time"> 05:15 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59878984?at_medium=RSS&at_campaign=KARANGA">Djokovic at Australian Open: 'He might get booed when he gets on court'</a> BBC: Australians give their views on Novak Djokovic being able to play in the Australian Open. 
  <p class="updated_time"> 05:15 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/sports/tennis/skepticism-and-anger-greet-novak-djokovics-vaccine-exemption.html">Skepticism and anger greet Novak Djokovic’s vaccine exemption.</a> NYT: Some Australians reacted with fury at the announcement from the world’s No. 1 male tennis player, the sport’s most prominent vaccination skeptic. 
+ <a href="https://www.nytimes.com/2022/01/05/sports/tennis/novak-djokovic-vaccine-exemption-skepticism.html">Skepticism and anger greet Novak Djokovic’s vaccine exemption.</a> NYT: Some Australians reacted with fury at the announcement from the world’s No. 1 male tennis player, the sport’s most prominent vaccination skeptic. 
  <p class="updated_time"> 05:05 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Almaty mayor's office stormed in protest</a> BBC: Protests over fuel prices are raging for a second day despite a state of emergency in some areas. 
  <p class="updated_time"> 04:54 AM CT, Jan. 05 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59735955?at_medium=RSS&at_campaign=KARANGA">Iconic Bangkok station Hua Lamphong reaches the end of the line</a> BBC: Hua Lamphong has seen the start and end of journeys for generations of Thai travellers and tourists alike. 
  <p class="updated_time"> 05:37 PM CT, Jan. 04 </p> 
  <a href="https://www.wsj.com/articles/north-korea-fires-projectile-off-its-east-coast-11641344771">North Korea Fires Missile Off Its East Coast</a> WSJ: The launch comes days after North Korean leader Kim Jong Un vowed to pursue high-tech weapons to counter what he called military instability on the Korean Peninsula. 
- <p class="updated_time"> 04:56 PM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59873830?at_medium=RSS&at_campaign=KARANGA">Jovenel Moïse murder: US charges Colombian man over assassination</a> BBC: US authorities accuse an ex-military officer of involvement in the death of President Jovenel Moïse. 
  <p class="updated_time"> 04:17 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/africa/southafrica-parliament-fire-suspect.html">Mystery Deepens as Suspect Is Charged in South Africa Parliament Fire</a> NYT: The man was also accused of possessing explosives, stealing laptops and breaking security laws. Former neighbors were shocked. His lawyer said the government was rushing to find a scapegoat. 
  <p class="updated_time"> 04:12 PM CT, Jan. 04 </p> 
