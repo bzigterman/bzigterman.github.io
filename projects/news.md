@@ -7,18 +7,30 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:48 PM CT, Jan. 05 </p> 
+ <p class="updated_time"> 04:10 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/sports/tennis/djokovic-vaccine.html">Djokovic Granted Covid-19 Vaccine Exemption to Play in Australian Open</a> NYT: The top-ranked player in men’s tennis revealed his plans in a post on his Instagram account. 
+ <p class="updated_time"> 04:09 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Launches Ballistic Missile, the South Says</a> NYT: The North last conducted a test in October, when it fired a newly developed submarine-launched ballistic missile. 
+ <p class="updated_time"> 04:08 PM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Government calls for Russian help</a> BBC: Peacekeeping troops from Russian-led military alliance will be sent as nationwide protests escalate. 
+ <p class="updated_time"> 04:06 PM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070700705/u-s-and-germany-touch-base-before-meeting-with-russia-about-ukraine-tensions">U.S. and Germany touch base before meeting with Russia about Ukraine tensions</a> NPR: With Russian troops massed on the Ukrainian border, Secretary of State Antony Blinken and his German counterpart huddle before next week's meetings with Russian officials aimed at defusing the crisis. 
+ <p class="updated_time"> 03:59 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
+ <p class="updated_time"> 03:58 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/americas/rio-carnival-covid.html">Rio Carnival's Street Parties Are Canceled, Mayor Says</a> NYT: As the Omicron variant sweeps the globe, the parties in Rio de Janeiro, which ordinarily draw millions of revelers, have been called off for a second year. 
+ <p class="updated_time"> 03:57 PM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59873833?at_medium=RSS&at_campaign=KARANGA">Covid: French uproar as Macron vows to 'piss off' unvaccinated</a> BBC: The president vows to make life difficult for the unjabbed, but opponents condemn his language. 
+ <p class="updated_time"> 03:57 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59889522?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels top tennis player's visa</a> BBC: The player was due to play in the Australian Open after being exempted from vaccination rules. 
- <p class="updated_time"> 03:40 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Staff flee as protesters enter airport</a> BBC: Kazakhstan's president has imposed a state of emergency as nationwide protests escalate. 
- <p class="updated_time"> 03:35 PM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070700656/reigning-australian-open-mens-champion-denied-entry-into-australia-to-defend-tit">Reigning Australian Open men's champion denied entry into Australia to defend title</a> NPR: The reigning Australian Open men's champion Novak Djokovic — who is famously skeptical about the COVID vaccine and received a medical exemption from being vaccinated — was not admitted to the country. 
+ <p class="updated_time"> 03:56 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/americas/rio-cancels-carnival-parties-parade.html">Rio Cancels Carnival Street Parties but Keeps Parade</a> NYT: As the Omicron variant sweeps the globe, the parties in Rio de Janeiro, which ordinarily draw millions of revelers, have been called off for a second year. 
  <p class="updated_time"> 03:35 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1069791114/afghanistan-girls-soccer-refugees-portugal">An Afghan girls soccer team rebelled to play the game they love. Now they're refugees</a> NPR: The teenagers on the Afghan girls national soccer team lean on each other as they adjust to a new life in Portugal, where they fled after the Taliban takeover of Afghanistan. 
+ <p class="updated_time"> 03:35 PM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070700656/reigning-australian-open-mens-champion-denied-entry-into-australia-to-defend-tit">Reigning Australian Open men's champion denied entry into Australia to defend title</a> NPR: The reigning Australian Open men's champion Novak Djokovic — who is famously skeptical about the COVID vaccine and received a medical exemption from being vaccinated — was not admitted to the country. 
  <p class="updated_time"> 03:06 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakh Protesters Burn Government Offices as Unrest Sweeps Country</a> NYT: An uprising sparked by a gas price increase in the resource-rich Central Asian nation has taken on a political dimension despite concessions from the ruling party. 
- <p class="updated_time"> 02:58 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/americas/rio-carnival-covid.html">Rio Carnival's Street Parties Are Canceled, Mayor Says</a> NYT: As the Omicron variant sweeps the globe, the parties in Rio de Janeiro, which ordinarily draw millions of revelers, have been called off for a second year. 
  <p class="updated_time"> 02:54 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59889228?at_medium=RSS&at_campaign=KARANGA">Grammy Awards 2022: Omicron postpones music's biggest night</a> BBC: A new date for the music industry celebration in Los Angeles will be announced soon, organisers say. 
  <p class="updated_time"> 02:52 PM CT, Jan. 05 </p> 
@@ -31,14 +43,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/europe/italy-female-statue-padua-prato-della-valle.html">Italy Proposal to Add Female Statue to Square of Men Stirs Debate</a> NYT: In Padua, Italy, a proposal to include a female philosopher in a monument whose 78 sculptures are all men has spurred debate. 
  <p class="updated_time"> 02:06 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
- <p class="updated_time"> 01:59 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
  <p class="updated_time"> 01:51 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/germany-legalize-recreational-marijuana.html">German Start-Ups Lay the Groundwork for a Marijuana Bonanza</a> NYT: Two of the three parties in Germany’s new governing coalition support legalization, a potentially radical shift in the conservative country. 
  <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
- <p class="updated_time"> 01:10 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59873833?at_medium=RSS&at_campaign=KARANGA">Covid: French uproar as Macron vows to 'piss off' unvaccinated</a> BBC: The president vows to make life difficult for the unjabbed, but opponents condemn his language. 
  <p class="updated_time"> 12:50 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070622365/kazakhstan-is-in-turmoil-after-massive-protests-force-the-government-to-resign">Kazakhstan is in turmoil after massive protests force the government to resign</a> NPR: A sudden hike in fuel prices drew intense public condemnation over the weekend. Protesters have seized the airport in the largest city, Almaty, and stormed public buildings. 
  <p class="updated_time"> 12:17 PM CT, Jan. 05 </p> 
@@ -101,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/chinas-unpredictable-heavy-handed-governance-threatens-growth-11641387781">China's Unpredictable, Heavy-Handed Governance Threatens Growth</a> WSJ: The country lacks the right policy tools to meet Xi Jinping’s vastly expanded goals as centralized power roils decision making. 
  <p class="updated_time"> 01:01 AM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-bans-flights-shutters-nightlife-after-omicron-bursts-pandemic-free-bubble-11641384074">Hong Kong Bans Flights, Shuts Nightlife Over Omicron Cases</a> WSJ: City is “hoping the short-term pain will pay off” after the first community Omicron infections punctured one of the world’s strictest and most effective sets of border controls. 
- <p class="updated_time"> 10:12 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Launches Ballistic Missile, the South Says</a> NYT: The North last conducted a test in October, when it fired a newly developed submarine-launched ballistic missile. 
  <p class="updated_time"> 09:52 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/kazakhstan-emergency-protests-fuel.html">Kazakhstan Declares State of Emergency as Protests Over Fuel Prices Spread</a> NYT: Thousands took to the street as gas prices doubled. The government responded with curfews and tear gas. The president later announced the resignation of the government. 
  <p class="updated_time"> 08:39 PM CT, Jan. 04 </p> 
@@ -129,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070338003/twitters-gone-viral-album-of-endangered-bird-songs-charts-in-australia">Twitters gone viral: album of endangered bird songs charts in Australia</a> NPR: Songs of Disappearance is an collection of bird calls from 53 threatened Australian species. And for a brief spell, it was a best-selling album. 
  <p class="updated_time"> 03:22 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/prince-andrew-sexual-abuse-royal-family.html">What Prince Andrew's  Abuse Case Could Mean for the Royal Family</a> NYT: As Queen Elizabeth II prepares to mark 70 years on the throne this year, a sexual abuse case in a Manhattan court involving her son could mean more turmoil for the royal family. 
- <p class="updated_time"> 02:37 PM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070297325/france-car-ads-climate">Car ads in France will soon have to encourage more environmentally friendly travel</a> NPR: The automakers' ads will suggest people consider carpooling or cycling instead of driving. The new rules, beginning in March, come as the country is trying to cut down on its carbon emissions. 
  <p class="updated_time"> 01:23 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/ireland-alcohol-minimum-unit-price.html">Ireland Puts Minimum Price on Alcohol to Curb Binge Drinking</a> NYT: The new rule, part of broader legislation aimed at stemming alcohol-related illnesses, sets a minimum price of one euro per standard drink and came into effect on Tuesday. 
  <p class="updated_time"> 01:08 PM CT, Jan. 04 </p> 
@@ -145,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/business/china-evergrande-protests.html">With Property Sales Plunging, China Evergrande Faces More Protests</a> NYT: The developer has tried for months to signal that its $300 billion debt problem was under control. But the challenges keep mounting. 
  <p class="updated_time"> 06:24 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/molenbeek-attack-brussels-paris.html">How This Changing Brussels Neighborhood is Trying to Leave The Stigma of Terrorism Behind</a> NYT: Molenbeek was where a terrorist cell planned attacks that killed 162 in Paris and Brussels. Six years later, residents are trying to reinvent the area as a trial rekindles an awful association. 
- <p class="updated_time"> 06:22 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/sports/tennis/djokovic-vaccine.html">Djokovic Granted Covid-19 Vaccine Exemption to Play in Australian Open</a> NYT: The top-ranked player in men’s tennis revealed his plans in a post on his Instagram account. 
  <p class="updated_time"> 05:19 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59867772?at_medium=RSS&at_campaign=KARANGA">Silicon Valley's trial of the century</a> BBC: A look at the Theranos trial and the evidence that led to Elizabeth Holmes being found guilty of fraud. 
  <p class="updated_time"> 04:45 AM CT, Jan. 04 </p> 
@@ -188,6 +190,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:38 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/garland-rebuts-criticism-of-jan-6-probe-526551">Garland rebuts criticism of Jan. 6 probe</a> Politico: The attorney general argued that prosecutors are methodically building cases against the most serious offenders in the attack on the Capitol. 
+ <p class="updated_time"> 04:06 PM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070700705/u-s-and-germany-touch-base-before-meeting-with-russia-about-ukraine-tensions">U.S. and Germany touch base before meeting with Russia about Ukraine tensions</a> NPR: With Russian troops massed on the Ukrainian border, Secretary of State Antony Blinken and his German counterpart huddle before next week's meetings with Russian officials aimed at defusing the crisis. 
+ <p class="updated_time"> 03:57 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/merrick-garland-jan-6-investigation.html">Merrick Garland Vows to Pursue Jan. 6 Inquiry ‘at Any Level’</a> NYT: The remarks came as Merrick B. Garland faces pressure from Democrats to more aggressively investigate any role that Donald J. Trump and his allies may have played in encouraging the violence. 
+ <p class="updated_time"> 03:53 PM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/2022/01/05/1070700691/people-who-believe-trumps-election-lies-are-running-for-offices-that-control-vot">People who believe Trump's election lies are running for offices that control voting</a> NPR: More than a dozen Trump-aligned Republicans, who doubt President Biden won in 2020, are running to control the election process in their states. It could have sweeping consequences. 
  <p class="updated_time"> 03:50 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/merrick-garland-january-6-anniversary-speech/index.html">Merrick Garland on Capitol attack: 'The actions we have taken thus far will not be our last'</a> CNN: Attorney General Merrick Garland will say in a speech Wednesday that the Justice Department "remains committed to holding all January 6th perpetrators, at any level, accountable under law -- whether they were present that day or were otherwise criminally responsible for the assault on our democracy," according to an excerpt from the Justice Department. 
  <p class="updated_time"> 03:41 PM CT, Jan. 05 </p> 
@@ -204,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/us/politics/capitol-police-january-6.html">Capitol Police Chief Commits to Security Improvements</a> NYT: Chief J. Thomas Manger, the head of an agency still reeling from the Jan. 6 attack, told lawmakers he was already addressing most of the 103 recommendations from an internal watchdog. 
  <p class="updated_time"> 03:10 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/capitol-riot-perretta-vukich/index.html">'This wasn't Bill and Ted's Excellent Adventure': Judge sentences pair of Capitol rioters to 30 days behind bars</a> CNN: Two friends who entered the US Capitol together on January 6, one of whom boasted about breaking in and smoking a joint, were sentenced to 30 days in jail each for unlawfully parading in the building. 
- <p class="updated_time"> 03:07 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/merrick-garland-jan-6-investigation.html">Merrick Garland Vows to Pursue Jan. 6 Inquiry ‘at Any Level’</a> NYT: The remarks came as Merrick B. Garland faces pressure from Democrats to more aggressively investigate any role that Donald J. Trump and his allies may have played in encouraging the violence. 
  <p class="updated_time"> 03:03 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/blinken-russia-two-paths/index.html">Blinken says Russia faces 'two paths' ahead of key meetings with US next week</a> CNN: US Secretary of State Antony Blinken stressed Wednesday that Russia must de-escalate tensions on the border with Ukraine in order for upcoming diplomatic meetings to succeed, saying "it's very hard to make actual progress in any of these areas in an atmosphere of escalation and threat, with a gun pointed at Ukraine's head." 
  <p class="updated_time"> 02:52 PM CT, Jan. 05 </p> 
@@ -288,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/sebastian-gorka-jan-6-committee-526534">Jan. 6 committee seeking phone records from Sebastian Gorka</a> Politico: The radio host is suing to block the panel from getting his records. 
  <p class="updated_time"> 10:16 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
- <p class="updated_time"> 07:31 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/north-south-korea-missiles-526526">North Korea fires suspected missile into sea</a> Politico: It was the first such launch in about two months in the always tense region. 
  <p class="updated_time"> 07:30 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/january-6-committee-investigation-trump-what-matters/index.html">The January 6 committee formed 6 months ago. Here's what it's uncovered.</a> CNN: It's been a dramatic six months since the establishment of the House select committee investigating the January 6 Capitol Hill riot. 
  <p class="updated_time"> 07:13 PM CT, Jan. 04 </p> 
@@ -321,13 +325,9 @@ permalink: /projects/news/
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070254014/longtime-chicago-congressman-bobby-rush-is-the-latest-democrat-to-leave-washingt">Longtime Chicago Congressman Bobby Rush is the latest Democrat to leave Washington</a> NPR: The 75-year-old former Black Panther leader won't seek a 16th term in Congress, but vowed he'll remain an activist. 
- <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/manchin-biden-spending-bill-negotiation-526486">Manchin on Biden's spending bill: 'No negotiation going on'</a> Politico: The West Virginia senator thinks Democrats would be better off focusing on climate provisions in their wide-ranging megabill. 
  <p class="updated_time"> 12:47 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/omicron-ontario-canada-covid-restrictions-526484">As Covid policies divide America, Ontario doubles down (again)</a> Politico: The latest Covid shutdowns test the trust of the jabbed and boosted in Canada’s most populous province. 
- <p class="updated_time"> 12:20 PM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1069232219/heres-where-election-deniers-and-doubters-are-running-to-control-voting">Here's where election-denying candidates are running to control voting</a> NPR: An NPR analysis found at least 15 Republican candidates for secretary of state offices in 2022 who doubt Joe Biden's 2020 victory. 
  <p class="updated_time"> 11:49 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/tesla-dealership-xinjiang-china.html">Tesla Draws Criticism After Opening Dealership in Xinjiang </a> NYT: Senator Marco Rubio criticized the electric carmaker for opening the outlet in a region where China has been accused of targeting Muslims. 
  <p class="updated_time"> 10:56 AM CT, Jan. 04 </p> 
