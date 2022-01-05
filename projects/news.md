@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:38 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59884038?at_medium=RSS&at_campaign=KARANGA">Australia could refuse Novak Djokovic entry over vaccine row - PM</a> BBC: The tennis player must prove that he cannot be jabbed for medical reasons, Australia's prime minister says. 
+ <p class="updated_time"> 08:36 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/covid-variant-france.html">WHO Downplays Threat From New Covid Variant in France</a> NYT: The so-called I.H.U. variant contains numerous mutations of the coronavirus, but experts say it has shown little sign of spreading so far. 
  <p class="updated_time"> 08:17 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakhstan Shuts Internet as Government Offices Burn in Protests</a> NYT: Anger sparked by a gas price increase in the resource-rich Central Asian nation has swelled despite concessions from the ruling party and a strict state of emergency. 
- <p class="updated_time"> 08:00 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59884038?at_medium=RSS&at_campaign=KARANGA">Australia could refuse Novak Djokovic entry over vaccine row - PM</a> BBC: The tennis player must prove that he cannot be jabbed for medical reasons, Australia's Prime Minister says. 
  <p class="updated_time"> 06:57 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/hong-kong-flights.html">Hong Kong Suspends Flights From Eight Countries, Fearing a Fifth Wave</a> NYT: The new measures will deepen the city’s isolation and mark a return to the tough restrictions from the early days of the pandemic as officials race to control Omicron. 
  <p class="updated_time"> 06:57 AM CT, Jan. 05 </p> 
