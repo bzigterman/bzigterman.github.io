@@ -15,6 +15,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59876203?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australian Open vaccine exemption ignites backlash</a> BBC: It is a "disgrace" that Novak Djokovic can enter the country for the Australian Open, locals say. 
  <p class="updated_time"> 06:46 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakhstan Shuts Internet as Government Offices Burn in Protests</a> NYT: Anger sparked by a gas price increase in the resource-rich Central Asian nation has swelled despite concessions from the ruling party and a strict state of emergency. 
+ <p class="updated_time"> 06:16 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59879760?at_medium=RSS&at_campaign=KARANGA">Kosovo bans cryptocurrency mining after blackouts</a> BBC: The Balkan country is enforcing blackouts amid an electricity shortage caused by high global prices. 
  <p class="updated_time"> 06:08 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Almaty mayor's office stormed in protest</a> BBC: Protests over fuel prices are raging for a second day despite a state of emergency in some areas. 
  <p class="updated_time"> 06:05 AM CT, Jan. 05 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070338003/twitters-gone-viral-album-of-endangered-bird-songs-charts-in-australia">Twitters gone viral: album of endangered bird songs charts in Australia</a> NPR: Songs of Disappearance is an collection of bird calls from 53 threatened Australian species. And for a brief spell, it was a best-selling album. 
  <p class="updated_time"> 03:22 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/prince-andrew-sexual-abuse-royal-family.html">What Prince Andrew's  Abuse Case Could Mean for the Royal Family</a> NYT: As Queen Elizabeth II prepares to mark 70 years on the throne this year, a sexual abuse case in a Manhattan court involving her son could mean more turmoil for the royal family. 
- <p class="updated_time"> 02:59 PM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59865102?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Decision soon on dismissing case - judge</a> BBC: A US court hears arguments about a deal the prince's accuser Virginia Giuffre agreed with Jeffrey Epstein. 
  <p class="updated_time"> 02:37 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070297325/france-car-ads-climate">Car ads in France will soon have to encourage more environmentally friendly travel</a> NPR: The automakers' ads will suggest people consider carpooling or cycling instead of driving. The new rules, beginning in March, come as the country is trying to cut down on its carbon emissions. 
  <p class="updated_time"> 01:23 PM CT, Jan. 04 </p> 
@@ -178,6 +178,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:55 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-gop-jan-6.html">How Trump Kept His Grip After Jan. 6</a> NYT: Only weeks after instigating the Capitol riot, Donald Trump was back in command of the Republican Party. 
  <p class="updated_time"> 07:35 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/05/security-still-top-of-mind-a-year-after-capitol-attack-495603">Security still top of mind a year after Capitol attack</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:15 AM CT, Jan. 05 </p> 
@@ -246,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/states/florida/story/2022/01/04/gop-governors-play-down-omicron-hysteria-while-also-asking-for-help-1403885">GOP governors play down Omicron 'hysteria' while also asking for help</a> Politico: “Given the clinical profile so far of Omicron, it’s not justifiable to let fear overwhelm you,” Florida’s governor says. 
  <p class="updated_time"> 06:40 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/biden-pfizer-pill-order.html">Biden Administration Doubles Order of Pfizer's Covid Pill</a> NYT: President Biden announced that his administration would double its order of Pfizer’s scarce Covid-19 antiviral drug, which has been shown to reduce hospitalizations. 
- <p class="updated_time"> 06:10 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-gop-jan-6.html">How Trump Kept His Grip After Jan. 6</a> NYT: Only weeks after instigating the Capitol riot, Donald Trump was back in command of the Republican Party. 
  <p class="updated_time"> 06:03 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/abbott-texas-national-guard-vaccine-lawsuit/index.html">Texas Gov. Abbott sues Biden over requirement that National Guard be vaccinated</a> CNN: Texas Republican Gov. Greg Abbott sued President Joe Biden and other members of the administration on Tuesday over the requirement that members of the National Guard be vaccinated against Covid-19. 
  <p class="updated_time"> 05:54 PM CT, Jan. 04 </p> 
