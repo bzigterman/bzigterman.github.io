@@ -35,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59731622?at_medium=RSS&at_campaign=KARANGA">Gandikota: The stunning Indian gorge that resembles the Grand Canyon</a> BBC: The Gandikota gorge in southern India is believed to be nearly 100,000 years old. 
  <p class="updated_time"> 06:01 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59735955?at_medium=RSS&at_campaign=KARANGA">Iconic Bangkok station Hua Lamphong reaches the end of the line</a> BBC: Hua Lamphong has seen the start and end of journeys for generations of Thai travellers and tourists alike. 
+ <p class="updated_time"> 05:37 PM CT, Jan. 04 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-fires-projectile-off-its-east-coast-11641344771">North Korea Fires Missile Off Its East Coast</a> WSJ: The launch comes days after North Korean leader Kim Jong Un vowed to pursue high-tech weapons to counter what he called military instability on the Korean Peninsula. 
  <p class="updated_time"> 04:56 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59873830?at_medium=RSS&at_campaign=KARANGA">Jovenel Moïse murder: US charges Colombian man over assassination</a> BBC: US authorities accuse an ex-military officer of involvement in the death of President Jovenel Moïse. 
  <p class="updated_time"> 04:17 PM CT, Jan. 04 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070297325/france-car-ads-climate">Car ads in France will soon have to encourage more environmentally friendly travel</a> NPR: The automakers' ads will suggest people consider carpooling or cycling instead of driving. The new rules, beginning in March, come as the country is trying to cut down on its carbon emissions. 
  <p class="updated_time"> 02:31 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59833123?at_medium=RSS&at_campaign=KARANGA">Canada reaches $31bn deal in indigenous child welfare case</a> BBC: The deal will end a lengthy legal battle over compensation between indigenous communities and Canada. 
- <p class="updated_time"> 02:23 PM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/north-korea-fires-projectile-off-its-east-coast-11641344771">North Korea Fires Missile Off Its East Coast</a> WSJ: The launch comes days after North Korean leader Kim Jong Un vowed to pursue high-tech weapons to counter what he called military instability on the Korean Peninsula. 
  <p class="updated_time"> 01:23 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/ireland-alcohol-minimum-unit-price.html">Ireland Puts Minimum Price on Alcohol to Curb Binge Drinking</a> NYT: The new rule, part of broader legislation aimed at stemming alcohol-related illnesses, sets a minimum price of one euro per standard drink and came into effect on Tuesday. 
  <p class="updated_time"> 01:21 PM CT, Jan. 04 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-jan-6-capitol-attack-anniversary.html">Trump Cancels Jan. 6 Event, After Allies See It as a Distraction</a> NYT: A Mar-a-Lago news conference on the anniversary of the assault on the Capitol struck Republicans, including some advisers to the former president, as a bad idea. 
  <p class="updated_time"> 07:11 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/biden-nevada-harry-reid-funeral-526520">Biden will travel to Nevada for Harry Reid’s funeral</a> Politico: The service is scheduled for Saturday morning at the Smith Center in downtown Las Vegas. 
+ <p class="updated_time"> 06:59 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/business/sean-hannity-jan-6-committee.html">Sean Hannity Is Asked to Cooperate in Jan. 6 Inquiry as Panel Details Texts</a> NYT: The committee told Mr. Hannity it had obtained “dozens of text messages” he exchanged with senior Trump White House officials around the time of the riot. 
  <p class="updated_time"> 06:49 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/mike-pence-january-6-committee/index.html">January 6 committee chairman wants to speak directly with Mike Pence</a> CNN: Rep. Bennie Thompson, chairman of select committee investigating the January 6 insurrection, wants to hear directly from then-Vice President Mike Pence, who certified the 2020 presidential election despite an extensive pressure campaign led by former President Donald Trump and his allies to halt the process. 
  <p class="updated_time"> 06:48 PM CT, Jan. 04 </p> 
@@ -370,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/02/politics/lloyd-austin-test-positive-covid/index.html">Defense Secretary Austin says he has tested positive for Covid-19</a> CNN: Defense Secretary Lloyd Austin has tested positive for Covid-19 and is exhibiting "mild" symptoms, according to a statement from him released by the Defense Department on Sunday. 
  <p class="updated_time"> 08:15 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/harry-reid-lie-in-state/index.html">Former Democratic leader Harry Reid to lie in state at US Capitol on January 12</a> CNN: Former Senate Majority Leader Harry Reid will lie in state in the US Capitol Rotunda on January 12, according to a joint statement from House Speaker Nancy Pelosi and Senate Majority Leader Chuck Schumer, an honor given to few statesmen. 
- <p class="updated_time"> 06:34 PM CT, Jan. 02 </p> 
- <a href="https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html">Twitter Permanently Suspends Marjorie Taylor Greene’s Account</a> NYT: The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation. 
  <p class="updated_time"> 06:14 PM CT, Jan. 02 </p> 
  <a href="https://www.cnn.com/2022/01/02/politics/biden-january-6-speech/index.html">Biden and Harris to deliver remarks on January 6 anniversary</a> CNN: President Joe Biden and Vice President Kamala Harris will deliver remarks on Thursday to mark the one-year anniversary of the January 6 attack on the US Capitol, the White House said Sunday. 
  <p class="updated_time"> 01:29 PM CT, Jan. 02 </p> 
