@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
+ <p class="updated_time"> 01:10 PM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59873833?at_medium=RSS&at_campaign=KARANGA">Covid: French uproar as Macron vows to 'piss off' unvaccinated</a> BBC: The president vows to make life difficult for the unjabbed, but opponents condemn his language. 
  <p class="updated_time"> 01:00 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakh Protesters Burn Government Offices as Unrest Sweeps Country</a> NYT: An uprising sparked by a gas price increase in the resource-rich Central Asian nation has taken on a political dimension despite concessions from the ruling party. 
- <p class="updated_time"> 12:56 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
  <p class="updated_time"> 12:50 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070622365/kazakhstan-is-in-turmoil-after-massive-protests-force-the-government-to-resign">Kazakhstan is in turmoil after massive protests force the government to resign</a> NPR: A sudden hike in fuel prices drew intense public condemnation over the weekend. Protesters have seized the airport in the largest city, Almaty, and stormed public buildings. 
  <p class="updated_time"> 12:17 PM CT, Jan. 05 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59880624?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission report: Scandal, bullying and fear</a> BBC: A report reveals how a business family allegedly secured control of South Africa under ex-President Zuma. 
  <p class="updated_time"> 10:39 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070573184/france-emmanuel-macron-covid-unvaccinated-remarks">France's Macron takes heat after saying he wants to 'piss off' the unvaccinated</a> NPR: The French president made the remarks to a newspaper on Tuesday, causing opposition lawmakers to call a halt to debate on a new nationwide mandate. 
- <p class="updated_time"> 10:38 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59873833?at_medium=RSS&at_campaign=KARANGA">Covid: French uproar as Macron vows to 'piss off' unvaccinated</a> BBC: The president vows to make life difficult for the unjabbed, but opponents condemn his language. 
  <p class="updated_time"> 10:14 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070539543/australia-djokovic-vaccine-exemption">Australian P.M. says Djokovic will be turned back if his vaccine exemption is bogus</a> NPR: "If he's not vaccinated, he must provide acceptable proof that he cannot be vaccinated for medical reasons," Prime Minister Scott Morrison said of the top-ranked tennis player. 
  <p class="updated_time"> 09:58 AM CT, Jan. 05 </p> 
@@ -179,11 +179,11 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 01:47 PM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/jan-6-protesters-run-for-office-526545">Jan. 6 protesters find a new cause: Running for office</a> Politico: At least 57 individuals who played a role in the day’s events — including some who were arrested on charges related to the Capitol attack — are running for office in 2022. 
+ <a href="https://www.politico.com/news/2022/01/05/jan-6-protesters-run-for-office-526545">They stormed the Capitol. Now they’re running for office.</a> Politico: At least 57 individuals who played a role in the day’s events — including some who were arrested on charges related to the Capitol attack — are running for office in 2022. 
+ <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
  <p class="updated_time"> 01:09 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/louisiana-governor-pardons-plessy-526546">Governor pardons Plessy, of ‘separate but equal’ ruling</a> Politico: Louisiana’s governor posthumously pardoned Homer Plessy, the Black man whose arrest sparked the SCOTUS ruling that cemented “separate but equal” into law. 
- <p class="updated_time"> 12:56 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
  <p class="updated_time"> 12:02 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/trump-cancels-press-conference-january-6/index.html">Trump cancels press conference on January 6 anniversary at urging of advisers</a> CNN: Former President Donald Trump abruptly canceled a news conference late Tuesday that he was scheduled to host at Mar-a-Lago on the anniversary of the January 6 insurrection, but which his allies had warned would cause unnecessary problems for Republicans and himself. 
  <p class="updated_time"> 11:52 AM CT, Jan. 05 </p> 
