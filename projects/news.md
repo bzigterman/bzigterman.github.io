@@ -49,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/europe/germany-legalize-recreational-marijuana.html">German Start-Ups Lay the Groundwork for a Marijuana Bonanza</a> NYT: Two of the three parties in Germany’s new governing coalition support legalization, a potentially radical shift in the conservative country. 
  <p class="updated_time"> 08:55 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/covid-variant-france.html">W.H.O. Downplays Threat From New Virus Variant in France</a> NYT: The so-called I.H.U. variant contains numerous mutations of the coronavirus, but experts say it has shown little sign of spreading so far. 
+ <p class="updated_time"> 08:24 AM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/records-could-shed-light-on-canada-residential-schools-for-indigenous-children-11641401061">Records Could Shed Light on Canada Schools for Indigenous Children</a> WSJ: The government came under increased pressure to turn over the documents after the discovery last year of more than 1,000 unmarked graves near former residential schools in western Canada. 
  <p class="updated_time"> 07:47 AM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/kazakhstans-government-resigns-amid-unrest-over-fuel-prices-11641386544">Kazakhstan's Government Resigns Amid Unrest Over Fuel Prices</a> WSJ: The country’s president imposed a state of emergency as he faces a crisis that threatens to destabilize the oil-rich former Soviet republic. 
  <p class="updated_time"> 06:57 AM CT, Jan. 05 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/prince-andrews-legal-woes-present-another-headache-for-u-k-royal-family-11641401849">Prince Andrew's Legal Woes Present Another Headache for U.K. Royal Family</a> WSJ: Allegations that the queen’s second son abused a 17-year-old girl loom large over the House of Windsor. 
  <p class="updated_time"> 05:55 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59879071?at_medium=RSS&at_campaign=KARANGA">Gal Gadot says Imagine video was in poor taste</a> BBC: The actress and fellow Hollywood stars recorded a cover of Imagine at the beginning of the pandemic. 
- <p class="updated_time"> 05:44 AM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/records-could-shed-light-on-canada-residential-schools-for-indigenous-children-11641401061">Records Could Shed Light on Canada Schools for Indigenous Children</a> WSJ: The government came under increased pressure to turn over the documents after the discovery last year of more than 1,000 unmarked graves near former residential schools in western Canada. 
  <p class="updated_time"> 05:15 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59878984?at_medium=RSS&at_campaign=KARANGA">Djokovic exemption reaction: 'He might get boos on court'</a> BBC: Australians give their views on Novak Djokovic being able to play in the Australian Open. 
  <p class="updated_time"> 04:54 AM CT, Jan. 05 </p> 
@@ -178,8 +178,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:27 PM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/ghislaine-maxwell-trial-juror-526548">Prosecutors alert Maxwell judge of juror's sex abuse claims</a> Politico: Prosecutors urged the judge who presided over the trial of Ghislaine Maxwell to conduct an inquiry into the juror's reported claims. 
+ <p class="updated_time"> 02:25 PM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/white-house-teachers-union-covid-526547">Psaki: Schools can open safely 'including in Chicago'</a> Politico: “Long story short we want schools to be open, the president wants them to be open and we’re going to continue to use every resource and work to ensure that’s the case,” Psaki said. 
  <p class="updated_time"> 01:47 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/jan-6-protesters-run-for-office-526545">They stormed the Capitol. Now they’re running for office.</a> Politico: At least 57 individuals who played a role in the day’s events — including some who were arrested on charges related to the Capitol attack — are running for office in 2022. 
+ <p class="updated_time"> 01:22 PM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/jan-6-capitol-riot-lancaster-republicans/index.html">How January 6 changed what it means to be a Republican in one Pennsylvania county</a> CNN: The day after the January 6 attack on the US Capitol, three local Republican officials in Pennsylvania's Lancaster County announced they were leaving the GOP.  Among them was Ethan Demme, a lifelong conservative who had previously served as the youngest Republican Party chairman in this deeply red corner of southeast Pennsylvania.  
  <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
  <p class="updated_time"> 01:09 PM CT, Jan. 05 </p> 
@@ -218,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/05/security-still-top-of-mind-a-year-after-capitol-attack-495603">Security still top of mind a year after Capitol attack</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:15 AM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/gop-reaction-january-6-anniversary/index.html">Republicans seek to avoid Trump talk as party grapples with January 6 anniversary</a> CNN: Republicans on Capitol Hill are under pressure to reflect on the deadly events of January 6 but are also trying to avoid talking about former President Donald Trump's culpability -- underscoring how the attack remains an unwelcome distraction for a party eager to gain voters' trust in this fall's pivotal elections. 
- <p class="updated_time"> 06:17 AM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/jan-6-capitol-riot-lancaster-republicans/index.html">How January 6 changed what it means to be a Republican in one Pennsylvania county</a> CNN: The day after the January 6 attack on the US Capitol, three local Republican officials in Pennsylvania's Lancaster County announced they were leaving the GOP.  Among them was Ethan Demme, a lifelong conservative who had previously served as the youngest Republican Party chairman in this deeply red corner of southeast Pennsylvania.  
  <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/05/republicans-dodge-and-deflect-ahead-of-jan-6-495599"> Republicans dodge and deflect ahead of Jan. 6</a> Politico Playbook: And prices for at-home Covid-19 tests rise. 
  <p class="updated_time"> 05:39 AM CT, Jan. 05 </p> 
@@ -270,14 +274,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/us/politics/biden-pfizer-pill-order.html">Biden Administration Doubles Order of Pfizer's Covid Pill</a> NYT: President Biden announced that his administration would double its order of Pfizer’s scarce Covid-19 antiviral drug, which has been shown to reduce hospitalizations. 
  <p class="updated_time"> 05:54 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/sean-hannity-dissuade-trump-january-6-526508">Sean Hannity tried to dissuade Trump from Jan. 6 strategy, texts show</a> Politico: “I do NOT see January 6 happening the way he is being told,” the Fox News host said of Trump’s efforts in a  December 2020 text. 
- <p class="updated_time"> 05:27 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/cdc-doubles-down-quarantine-guidelines-526501">CDC recommits to isolation and quarantine guidelines without tests</a> Politico: The recent guidance, updated Dec. 29, said individuals who test positive for Covid-19 and whose symptoms are resolving need only isolate for five days as long as they continue to wear masks for an additional five days. 
  <p class="updated_time"> 05:26 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/videos/politics/2022/01/04/how-redistricting-reform-would-affect-congress-mh-orig.cnn">She covered Captiol Hill for years. She says this could fix polarization in Congress</a> CNN: When CNN Chief Political Correspondent reporter Dana Bash started covering Congress it wasn't as polarized as it is today. She points to one main reason why. 
  <p class="updated_time"> 04:19 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/technology/apple-google-spotify-podcast-election-misinformation.html">Election Falsehoods Surged on Podcasts Before Capitol Riots, Researchers Find</a> NYT: A new study analyzed nearly 1,500 episodes, showing the extent to which podcasts pushed misinformation about voter fraud. 
- <p class="updated_time"> 03:48 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/us-arrest-charges-suspect-haitian-president-slaying-526492">U.S. arrests, charges suspect in Haitian president slaying</a> Politico: The U.S. government announced Tuesday that it arrested one of the main suspects in the killing of Haitian president Jovenel Moïse. 
  <p class="updated_time"> 03:46 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070338038/illinois-rep-bobby-rush-a-democrat-is-retiring-after-30-years-in-the-u-s-house">Illinois Rep. Bobby Rush, a Democrat, is retiring after 30 years in the U.S. House</a> NPR: Longtime Illinois Democratic Rep. Bobby Rush announced on Tuesday that he is leaving Congress. The former Black Panther has represented the South Side of Chicago in Congress since 1993. 
  <p class="updated_time"> 03:46 PM CT, Jan. 04 </p> 
