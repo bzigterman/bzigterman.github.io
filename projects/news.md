@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:23 PM CT, Jan. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea launches 'unidentified projectile' into sea</a> BBC: South Korean and Japanese officials spot Pyongyang's first launch in 2022, but details are unclear. 
  <p class="updated_time"> 09:17 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Launches Ballistic Missile, the South Says</a> NYT: The North last conducted a test in October, when it fired a newly developed submarine-launched ballistic missile. 
  <p class="updated_time"> 08:39 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges $31.5 Billion in Indigenous Child Welfare Battle</a> NYT: The government agreed to a landmark settlement to repair the system and compensate those families harmed by it. It potentially ends many years of litigation. 
  <p class="updated_time"> 08:10 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59876583?at_medium=RSS&at_campaign=KARANGA">US science teacher arrested for vaccinating 17-year-old student</a> BBC: Police say the teacher is not trained to give vaccines and gave the jab to the boy at her home. 
- <p class="updated_time"> 08:07 PM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59876095?at_medium=RSS&at_campaign=KARANGA">North Korea launches 'unidentified projectile' into sea</a> BBC: South Korean and Japanese officials spot Pyongyang's first launch in 2022, but details are unclear. 
  <p class="updated_time"> 08:04 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59876203?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australian Open vaccine exemption ignites backlash</a> BBC: It is "appalling" that Novak Djokovic can enter the country for the Australian Open, locals say. 
  <p class="updated_time"> 07:58 PM CT, Jan. 04 </p> 
@@ -184,6 +184,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:24 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/sebastian-gorka-jan-6-committee-526534">Jan. 6 committee seeking phone records from Gorka</a> Politico: The radio host is suing to block the panel from getting his records. 
  <p class="updated_time"> 10:16 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
  <p class="updated_time"> 08:35 PM CT, Jan. 04 </p> 
@@ -271,8 +273,6 @@ permalink: /projects/news/
  <p class="updated_time"> 10:56 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/capitol-riot-panel.html">In the Capitol’s Shadow, the Jan. 6 Panel Quietly Ramps Up Its Inquiry</a> NYT: From a nondescript office building, a few dozen investigators and members of Congress are rushing to dissect what led to the worst attack on the Capitol in centuries. 
  <p class="updated_time"> 10:49 AM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/a-record-45-million-americans-quit-their-jobs-in-november-526481">A record 4.5 million Americans quit their jobs in November</a> Politico: The figure is evidence that the U.S. job market is bouncing back strongly from last year’s coronavirus recession. 
- <p class="updated_time"> 10:49 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/donald-trump-midterm-elections.html">As Midterms and 2024 Loom, Trump Political Operation Revs Up</a> NYT: The former president is set to headline an event at Mar-a-Lago next month for endorsed candidates and major donors to benefit a supportive super PAC. 
  <p class="updated_time"> 10:46 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/ruben-gallego-merrick-garland-capitol-attack-526480">Gallego: Garland 'extremely weak' on Jan. 6 cases</a> Politico: The Arizona Democrat also directed his ire at GOP lawmakers who he accused of trying to shield Jan. 6 rioters. 
@@ -287,7 +287,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:32 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/jan-6-committee-oath-keepers-phone-records-526477">Jan. 6 committee seeking phone records of 2 Oath Keepers facing conspiracy charges</a> Politico: Kelly and Connie Meggs say they were notified of the subpoena by Verizon last month. 
  <p class="updated_time"> 06:21 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/03/us/politics/midterm-elections-coronavirus.html">A Frazzled America Staggers Into 2022</a> NYT: The Omicron variant’s spread poses an unwelcome political conundrum just as election season begins. Democrats and the G.O.P. see reasons to hope, but the virus will get the deciding vote. 
+ <a href="https://www.nytimes.com/2022/01/03/us/politics/midterm-elections-coronavirus.html">How Omicron Could Affect the 2022 Midterm Elections</a> NYT: The Omicron variant’s spread poses an unwelcome political conundrum just as election season begins. Democrats and the G.O.P. see reasons to hope, but the virus will get the deciding vote. 
  <p class="updated_time"> 06:18 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/04/the-election-reform-idea-gaining-currency-on-the-right-495582"> The election reform idea gaining currency on the right</a> Politico Playbook: And Rep. Bobby Rush (D-Ill.) says he won't seek reelection. 
  <p class="updated_time"> 06:07 AM CT, Jan. 04 </p> 
@@ -346,6 +346,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/capitol-police-union-private-security-proposal-526395">Capitol Police union douses private security proposal</a> Politico: “We need to hire more officers — period. The last thing we need are private security contractors who are not trained to our standards,” the chair of the union said in a statement sent to POLITICO. 
  <p class="updated_time"> 10:48 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/schumer-threatens-vote-on-senate-rules-change-in-january-526394">Schumer tries to jump-start Dems with rules change threat</a> Politico: The majority leader said they would debate changes to the Senate's rules unless Republicans allow a vote on elections reform. 
+ <p class="updated_time"> 10:15 AM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/news/2022/01/03/fda-authorizes-covid-boosters-for-younger-teens-526392">FDA authorizes Covid boosters for teens 12-15</a> Politico: The agency will also allow some immunocompromised children as young as age 5 to get an additional dose. 
  <p class="updated_time"> 08:32 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/white-house-closures-snow-526382">White House cancels press briefing, citing snow-related federal closures</a> Politico: The National Weather Service on Monday morning issued a winter storm warning for the District of Columbia and adjacent counties in Maryland and Virginia. 
  <p class="updated_time"> 08:06 AM CT, Jan. 03 </p> 
