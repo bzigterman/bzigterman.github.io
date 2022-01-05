@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:50 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59884038?at_medium=RSS&at_campaign=KARANGA">Australia could refuse Novak Djokovic entry over vaccine row - PM</a> BBC: The tennis player must prove that he cannot be jabbed for medical reasons, Australia's prime minister says. 
+ <p class="updated_time"> 09:48 AM CT, Jan. 05 </p> 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/05/1070546748/hong-kong-flight-ban">Hong Kong bans flights from U.S. and 7 other countries as omicron surges</a> NPR: Hong Kong authorities announced a two-week ban on flights from eight countries and held 2,500 passengers on a cruise ship for coronavirus testing as the city attempted to stem an omicron outbreak. 
  <p class="updated_time"> 09:35 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Internet cut amid fuel protests</a> BBC: Mass demonstrations sparked by rising fuel prices continue despite a state of emergency in some areas. 
  <p class="updated_time"> 09:20 AM CT, Jan. 05 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakhstan Shuts Internet as Government Offices Burn in Protests</a> NYT: Anger sparked by a gas price increase in the resource-rich Central Asian nation has swelled despite concessions from the ruling party and a strict state of emergency. 
  <p class="updated_time"> 08:55 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/covid-variant-france.html">W.H.O. Downplays Threat From New Virus Variant in France</a> NYT: The so-called I.H.U. variant contains numerous mutations of the coronavirus, but experts say it has shown little sign of spreading so far. 
- <p class="updated_time"> 08:38 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59884038?at_medium=RSS&at_campaign=KARANGA">Australia could refuse Novak Djokovic entry over vaccine row - PM</a> BBC: The tennis player must prove that he cannot be jabbed for medical reasons, Australia's prime minister says. 
  <p class="updated_time"> 06:57 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/hong-kong-flights.html">Hong Kong Suspends Flights From Eight Countries, Fearing a Fifth Wave</a> NYT: The new measures will deepen the city’s isolation and mark a return to the tough restrictions from the early days of the pandemic as officials race to control Omicron. 
  <p class="updated_time"> 06:57 AM CT, Jan. 05 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/europe/berkeley-balcony-collapse-death.html">Victim of Berkeley Balcony Collapse Dies in Ireland</a> NYT: Aoife Beary, who was left with life-changing injuries after the 2015 accident, died on New Year’s Day, her family said. 
  <p class="updated_time"> 01:52 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/africa/richard-leakey-dead.html">Richard Leakey, Kenyan Fossil Hunter and Conservationist, Dies at 77</a> NYT: His discoveries of ancient human skulls and skeletons, including the famed “Turkana Boy,” helped cement Africa’s standing as the cradle of humanity. 
- <p class="updated_time"> 12:40 PM CT, Jan. 03 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/03/1069942305/sheep-goats-encourage-vaccination-germany">700 sheep and goats were arranged in the shape of a syringe to encourage vaccinations</a> NPR: A shepherd in Germany arranged her animals into a 330-foot syringe to encourage people to get vaccinated. 
  <p class="updated_time"> 10:59 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/02/world/africa/abdalla-hamdok-resigns-sudan.html">Sudan’s Prime Minister, Abdalla Hamdok, Resigns</a> NYT: Mr. Hamdok was restored to power a month ago after being deposed in a coup, but he was never able to gain control of the fractious country. 
  <p class="updated_time"> 09:13 AM CT, Jan. 03 </p> 
@@ -182,6 +182,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:25 AM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/fads-crypto-lobbying-politics-526538">One of the newest fads in crypto turns to the oldest industry in politics for help</a> Politico: For the first time, a company has registered to lobby the federal government on NFTs. 
  <p class="updated_time"> 09:47 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/chicago-schools-shutdown-teachers-covid-protest-526535">Chicago Public Schools shut down amid teachers union protest of Covid protocols</a> Politico: The union wants the school district to put in place a more robust testing policy. 
  <p class="updated_time"> 09:37 AM CT, Jan. 05 </p> 
@@ -230,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/sebastian-gorka-jan-6-committee-526534">Jan. 6 committee seeking phone records from Sebastian Gorka</a> Politico: The radio host is suing to block the panel from getting his records. 
  <p class="updated_time"> 10:16 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
- <p class="updated_time"> 08:02 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/capitol-security-reforms-jan-6-anniversary-526519">Capitol security officials present list of reforms ahead of Jan. 6 anniversary</a> Politico: The changes touch on every aspect of the Capitol Police’s work. 
  <p class="updated_time"> 07:42 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/security-january-6-anniversary-capitol/index.html">Law enforcement ramps up security efforts ahead of 1-year anniversary of Capitol attack</a> CNN: Law enforcement and federal authorities in the Washington area are stepping up security efforts in anticipation of the one-year anniversary of the January 6 attack on the US Capitol. 
  <p class="updated_time"> 07:31 PM CT, Jan. 04 </p> 
