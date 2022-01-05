@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:35 AM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Internet cut amid fuel protests</a> BBC: Mass demonstrations sparked by rising fuel prices continue despite a state of emergency in some areas. 
  <p class="updated_time"> 09:20 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/europe/germany-legalize-recreational-marijuana-pot-cannabis.html">German Start-Ups Lay the Groundwork for a Marijuana Bonanza</a> NYT: Two of the three parties in Germany’s new governing coalition support legalization, a potentially radical shift in the conservative country. 
+ <a href="https://www.nytimes.com/2022/01/05/world/europe/germany-legalize-recreational-marijuana.html">German Start-Ups Lay the Groundwork for a Marijuana Bonanza</a> NYT: Two of the three parties in Germany’s new governing coalition support legalization, a potentially radical shift in the conservative country. 
  <p class="updated_time"> 09:00 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Kazakhstan Shuts Internet as Government Offices Burn in Protests</a> NYT: Anger sparked by a gas price increase in the resource-rich Central Asian nation has swelled despite concessions from the ruling party and a strict state of emergency. 
  <p class="updated_time"> 08:55 AM CT, Jan. 05 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/macron-france-life-miserable-unvaccinated.html">Macron Under Fire for Vowing to Make Unvaccinated Miserable</a> NYT: The president’s comments caused an uproar in Parliament as the government is trying to pass a bill to tighten the eligibility of France’s health pass, less than four months before the presidential election. 
  <p class="updated_time"> 06:16 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59879760?at_medium=RSS&at_campaign=KARANGA">Kosovo bans cryptocurrency mining after blackouts</a> BBC: The Balkan country is enforcing blackouts amid an electricity shortage caused by high global prices. 
- <p class="updated_time"> 06:08 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59876093?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Almaty mayor's office stormed in protest</a> BBC: Protests over fuel prices are raging for a second day despite a state of emergency in some areas. 
  <p class="updated_time"> 06:05 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59873833?at_medium=RSS&at_campaign=KARANGA">Covid: French uproar as Macron vows to 'piss off' unvaccinated</a> BBC: The president vows to make life difficult for the unjabbed, but opponents condemn his language. 
  <p class="updated_time"> 05:55 AM CT, Jan. 05 </p> 
@@ -37,20 +37,32 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
  <p class="updated_time"> 04:28 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59878349?at_medium=RSS&at_campaign=KARANGA">US actress Joan Copeland dies aged 99</a> BBC: The Broadway and TV star, who was also the sister of playwright Arthur Miller, died in her sleep. 
+ <p class="updated_time"> 04:20 AM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/europes-trade-czar-walks-line-between-u-s-and-china-11641385213">Europe's Trade Czar Walks Line Between U.S. and China</a> WSJ: Valdis Dombrovskis, the European Union’s executive vice president, has won plaudits for his role in trans-Atlantic relations. President Biden was so pleased by the progress made at a summit over subsidies for plane makers that he joked he wanted to take Mr. Dombrovskis back to Washington to help get things done. 
  <p class="updated_time"> 04:10 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070478298/israel-sets-covid-19-record-as-rule-changes-create-whiplash">Israel sets COVID-19 record as rule changes create whiplash</a> NPR: The omicron variant is outpacing the government's ability to make and execute clear pandemic public policy. 
  <p class="updated_time"> 03:33 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070472805/xian-reacts-to-covid-lockdowns-with-outrage-and-humor">Residents of Xi'an, China, react to COVID lockdowns with outrage and humor</a> NPR: Lockdowns are so strict and so prolonged in the Chinese city that residents have taken to social media to complain and joke about a lack of basic supplies. 
  <p class="updated_time"> 02:46 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/britain-omicron-boris-johnson.html">Britain can ‘ride out’ the Omicron wave without a strict lockdown, Boris Johnson says.</a> NYT: “We can find a way to live with this virus,” the prime minister said. 
+ <p class="updated_time"> 02:27 AM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/kazakhstans-government-resigns-amid-unrest-over-fuel-prices-11641386544">Kazakhstan's Government Resigns Amid Unrest Over Fuel Prices</a> WSJ: The country’s president imposed a state of emergency as he faces a crisis that threatens to destabilize the oil-rich former Soviet republic. 
+ <p class="updated_time"> 02:26 AM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/frances-macron-rails-against-unvaccinated-people-11641389206">France's Macron Rails Against Unvaccinated People</a> WSJ: President Macron’s comments set off a wave of criticism from opposition politicians ahead of a presidential election that polls suggest will be tight. 
  <p class="updated_time"> 02:20 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59877917?at_medium=RSS&at_campaign=KARANGA">Taiwan buys 20,000 bottles of Lithuania rum destined for China</a> BBC: Taiwan later urged locals to buy rum, posting recipes for rum-infused cocktails. 
- <p class="updated_time"> 02:15 AM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/north-korea-fires-projectile-off-its-east-coast-11641344771">North Korea Fires Missile Off Its East Coast</a> WSJ: The launch came days after North Korean leader Kim Jong Un vowed to pursue high-tech weapons to counter what he called military instability on the Korean Peninsula. 
+ <p class="updated_time"> 02:03 AM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/chinas-unpredictable-heavy-handed-governance-threatens-growth-11641387781">China's Unpredictable, Heavy-Handed Governance Threatens Growth</a> WSJ: The country lacks the right policy tools to meet Xi Jinping’s vastly expanded goals as centralized power roils decision making. 
+ <p class="updated_time"> 01:19 AM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/chinas-capital-meets-own-clean-air-standards-for-first-time-as-olympics-approach-11641385193">China's Capital Meets Own Clean-Air Standards for First Time as Olympics Approach</a> WSJ: Beijing residents experienced nearly four months more of clear skies in 2021 compared with 2013, a city official said. The average concentration of fine particulate pollution fell by 13% compared with a year earlier and 63% compared with 2013 levels. 
+ <p class="updated_time"> 01:01 AM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-bans-flights-shutters-nightlife-after-omicron-bursts-pandemic-free-bubble-11641384074">Hong Kong Bans Flights, Shuts Nightlife Over Omicron Cases</a> WSJ: City is ‘hoping the short-term pain will pay off’ after the first community Omicron infections punctured one of the world’s strictest and most effective sets of border controls. 
  <p class="updated_time"> 10:12 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Launches Ballistic Missile, the South Says</a> NYT: The North last conducted a test in October, when it fired a newly developed submarine-launched ballistic missile. 
  <p class="updated_time"> 09:52 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/kazakhstan-emergency-protests-fuel.html">Kazakhstan Declares State of Emergency as Protests Over Fuel Prices Spread</a> NYT: Thousands took to the street as gas prices doubled. The government responded with curfews and tear gas. The president later announced the resignation of the government. 
+ <p class="updated_time"> 09:13 PM CT, Jan. 04 </p> 
+ <a href="https://www.wsj.com/articles/as-china-tensions-smoulder-japan-and-australia-move-to-sign-defense-treaty-11641370418">Australia, Japan to Sign Defense Treaty Amid China Tensions</a> WSJ: The Australia-Japan pact will allow troops to freely enter each other’s countries for exercises without having to negotiate terms each time. 
  <p class="updated_time"> 08:39 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges $31.5 Billion in Indigenous Child Welfare Battle</a> NYT: The government agreed to a landmark settlement to repair the system and compensate those families harmed by it. It potentially ends many years of litigation. 
  <p class="updated_time"> 08:10 PM CT, Jan. 04 </p> 
@@ -74,8 +86,6 @@ permalink: /projects/news/
  <p class="updated_time"> 03:39 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/middleeast/palestinian-hunger-strike-israel.html">Palestinian Prisoner’s Hunger Strike Leads to Deal for Release</a> NYT: A Palestinian accused of plotting to kill Israelis went on a hunger strike to protest his imprisonment without trial. Fearing unrest, Israel agreed to release him. 
  <p class="updated_time"> 03:38 PM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/u-s-has-arrested-its-first-suspect-in-slaying-of-haitian-president-11641350335">U.S. Has Arrested Its First Suspect in Slaying of Haitian President</a> WSJ: A former Colombian soldier who Haitian authorities said was involved in the July assassination of Haitian President Jovenel Moïse has become the first suspect in the case to be arrested by U.S. authorities. 
- <p class="updated_time"> 03:38 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070338017/this-new-low-cost-covid-19-vaccine-could-be-a-game-changer-for-low-income-countr">This new, low-cost COVID-19 vaccine could be a game changer for low-income countries</a> NPR: A low cost vaccine called Corbevax may help solve the problem of getting safe and effective COVID vaccines to poor and middle-income countries. 
  <p class="updated_time"> 03:24 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070338003/twitters-gone-viral-album-of-endangered-bird-songs-charts-in-australia">Twitters gone viral: album of endangered bird songs charts in Australia</a> NPR: Songs of Disappearance is an collection of bird calls from 53 threatened Australian species. And for a brief spell, it was a best-selling album. 
@@ -95,22 +105,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59869509?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Behind the bubble in Beijing</a> BBC: Have a look at how Beijing is preparing for the Games - with a sealed off area to keep Covid out. 
  <p class="updated_time"> 12:07 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59871779?at_medium=RSS&at_campaign=KARANGA">Europe's tattoo artists fear for future after EU ink ban</a> BBC: Thousands of chemicals are banned by EU for safety reasons, but tattooists say it will hit business. 
- <p class="updated_time"> 11:25 AM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/u-s-prevails-over-canada-in-dairy-dispute-11641318427">U.S. Prevails Over Canada in Dairy Dispute Under New Trade Deal</a> WSJ: Canada has until Feb. 3 to comply with the U.S.-Mexico-Canada Agreement or the U.S. could begin the process of initiating tariffs or other countermeasures. 
  <p class="updated_time"> 11:09 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/opec-oil-output.html">OPEC and Allies Agree to Raise Oil Output Amid Lagging Production</a> NYT: The group called OPEC Plus decided to increase oil output by 400,000 barrels a day, but its members have lately been falling short of production quotas. 
- <p class="updated_time"> 10:48 AM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/canada-reaches-15-billion-settlement-with-indigenous-peoples-11641326167">Canada Reaches $15 Billion Settlement With Indigenous Peoples</a> WSJ: The compensation is to be paid to indigenous children placed in a child-welfare system that a quasi-judicial body ruled violated human rights 
  <p class="updated_time"> 10:33 AM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070171056/novak-djokovic-gets-a-vaccination-exemption-to-play-in-the-australian-open">Novak Djokovic gets a vaccination exemption to play in the Australian Open</a> NPR: The tournament's defending champion posted a photo of himself smiling at an airport. But in Australia, some of the responses to his Twitter post were not happy ones. 
- <p class="updated_time"> 10:05 AM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/venezuelas-u-s-backed-opposition-frays-as-nicolas-maduro-tightens-grip-11641330358">Venezuela's U.S.-Backed Opposition Frays as Maduro Tightens Grip</a> WSJ: Juan Guaidó’s coalition is hit by infighting amid disputes over how much power he should wield and alleged mismanagement of companies under opposition control. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59871267?at_medium=RSS&at_campaign=KARANGA">US snow: Major snowfall blankets Washington DC</a> BBC: Snow causes fun and frustration in Washington DC. 
- <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/olympic-committee-becomes-latest-target-in-standoff-over-treatment-of-uyghurs-11641324698">Olympic Committee Becomes Latest Target of Critics of Treatment of Uyghurs</a> WSJ: An activist group says the IOC has refused to engage with it on human-rights issues in China’s Xinjiang region, including the use of forced labor to make apparel. 
- <p class="updated_time"> 06:53 AM CT, Jan. 04 </p> 
- <a href="https://www.wsj.com/articles/lockdown-of-chinese-city-leave-13-million-stranded-11641314909">Lockdown of Chinese City Leaves 13 Million Stranded</a> WSJ: Residents of Xi’an are voicing desperation under restrictions that recall the closing of Wuhan in 2020. 
  <p class="updated_time"> 06:37 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/china-evergrande-protests.html">With Property Sales Plunging, China Evergrande Faces More Protests</a> NYT: The developer has tried for months to signal that its $300 billion debt problem was under control. But the challenges keep mounting. 
  <p class="updated_time"> 06:24 AM CT, Jan. 04 </p> 
@@ -129,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070110830/western-wall-prayer-sites-future-is-in-doubt-under-israels-fragile-government">Western Wall prayer site's future is in doubt under Israel's fragile government</a> NPR: Israel's refusal to recognize liberal Reform and Conservative streams of Judaism has long been a point of tension with American Jews. 
  <p class="updated_time"> 02:00 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/britain-electricity-norway-cables.html">A Widening Web of Undersea Cables Connects Britain to Green Energy</a> NYT: Linking one nation’s power grid with another’s is considered essential as more electricity is generated from solar and wind. 
- <p class="updated_time"> 11:30 PM CT, Jan. 03 </p> 
- <a href="https://www.wsj.com/articles/russias-military-buildup-near-ukraine-is-an-open-secret-11641292202">Russia's Military Buildup Near Ukraine Is an Open Secret</a> WSJ: Satellite images, social media posts and flight-tracking data allow private citizens to track details governments once classified. 
  <p class="updated_time"> 08:58 PM CT, Jan. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808739?at_medium=RSS&at_campaign=KARANGA">Pushpa: Why a song calling out men is under fire for sleaze</a> BBC: A new hit song which claims to subvert the male gaze is accused of, in fact, objectifying women. 
  <p class="updated_time"> 08:45 PM CT, Jan. 03 </p> 
@@ -186,6 +184,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:47 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/chicago-schools-shutdown-teachers-covid-protest-526535">Chicago Public Schools shut down amid teachers union protest of Covid protocols</a> Politico: The union wants the school district to put in place a more robust testing policy. 
+ <p class="updated_time"> 09:37 AM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/jan-6-capitol-riot-investigation.html">Prosecutors Move Quickly on Jan. 6 Cases, but One Big Question Remains</a> NYT: In the year since the assault on the Capitol by a pro-Trump mob, more than 700 people have been arrested, with little public indication from the Justice Department of how high the investigation might reach. 
  <p class="updated_time"> 08:06 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/capitol-police-january-6.html">Capitol Police Chief to Commit to Steps for Improvement</a> NYT: Chief J. Thomas Manger, head of an agency still reeling from Jan. 6, plans to tell lawmakers he is already addressing most of the 103 recommendations from an internal watchdog. 
  <p class="updated_time"> 08:04 AM CT, Jan. 05 </p> 
@@ -224,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1069977469/a-timeline-of-how-the-jan-6-attack-unfolded-including-who-said-what-and-when">A timeline of how the Jan. 6 attack unfolded — including who said what and when</a> NPR: This week marks the one year anniversary of the insurrection at the U.S. Capitol. Here's a timeline of how the day unfolded. 
  <p class="updated_time"> 04:00 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/upshot/biden-child-tax-credit.html">Why Biden’s Expanded Child Tax Credit Isn’t More Popular</a> NYT: The expansion has expired, and a bill to renew it has stalled. Public opinion is favorable but not overwhelmingly so, for several reasons. 
- <p class="updated_time"> 02:00 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/jan-6-capitol-riot-investigation.html">Prosecutors Move Quickly on Jan. 6 Cases, but Big Questions Remain</a> NYT: In the year since the assault on the Capitol by a pro-Trump mob, more than 700 people have been arrested, with little public indication from the Justice Department of how high the investigation might reach. 
  <p class="updated_time"> 11:37 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/fact-check-capitol-insurrection-january-6-lies/index.html">Fact check: Five enduring lies about the Capitol insurrection</a> CNN: The Capitol insurrection was based on a lie about the 2020 election. And for a whole year now, the insurrection itself has been lied about. 
  <p class="updated_time"> 10:24 PM CT, Jan. 04 </p> 
