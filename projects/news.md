@@ -188,6 +188,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:58 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/cdc-advisers-teen-pfizer-covid-booster-526572">CDC advisers: All teens 'should' get Pfizer Covid booster</a> Politico: The advisory panel signed off on the recommendation following presentations by doctors suggesting boosters are likely to increase antibodies in young teens. 
+ <p class="updated_time"> 05:39 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/jan-6-capitol-deaths.html">These Are the People Who Died in Connection With the Capitol Riot</a> NYT: Though there is disagreement over the death toll, a bipartisan Senate report found that at least seven people lost their lives in connection with the attack. 
  <p class="updated_time"> 05:27 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/defense-spending-stuck-budget-boost-526557">Pentagon spending stuck in neutral even as lawmakers back budget boost</a> Politico: House Democrats plan to shine a light on the dire budget situation next week when top Pentagon officials testify on the impact of temporary funding on the military. 
  <p class="updated_time"> 05:12 PM CT, Jan. 05 </p> 
@@ -334,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/04/politics/mitch-landrieu-letter-to-governors-infrastructure/index.html">Biden's infrastructure czar urges governors to appoint their own infrastructure implementation coordinators</a> CNN: President Joe Biden's infrastructure czar Mitch Landrieu sent letters to all the nation's governors on Tuesday urging them to appoint their own infrastructure implementation coordinators to smooth the rollout of the $1.2 trillion law. 
  <p class="updated_time"> 11:49 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/tesla-dealership-xinjiang-china.html">Tesla Draws Criticism After Opening Dealership in Xinjiang </a> NYT: Senator Marco Rubio criticized the electric carmaker for opening the outlet in a region where China has been accused of targeting Muslims. 
- <p class="updated_time"> 10:56 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/us/politics/capitol-riot-panel.html">In the Capitol’s Shadow, the Jan. 6 Panel Quietly Ramps Up Its Inquiry</a> NYT: From a nondescript office building, a few dozen investigators and members of Congress are rushing to dissect what led to the worst attack on the Capitol in centuries. 
  <p class="updated_time"> 10:49 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/us/politics/donald-trump-midterm-elections.html">As Midterms and 2024 Loom, Trump Political Operation Revs Up</a> NYT: The former president is set to headline an event at Mar-a-Lago next month for endorsed candidates and major donors to benefit a supportive super PAC. 
  <p class="updated_time"> 10:46 AM CT, Jan. 04 </p> 
