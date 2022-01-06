@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:54 PM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59876989?at_medium=RSS&at_campaign=KARANGA">North Korea successfully tested hypersonic missile, says report</a> BBC: State media KNCA said the missile from yesterday's launch had "precisely hit" its target. 
  <p class="updated_time"> 10:37 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/covid-variant-france.html">W.H.O. Downplays Threat From New Virus Variant in France</a> NYT: The so-called I.H.U. variant contains numerous mutations of the coronavirus, but experts say it has shown little sign of spreading so far. 
  <p class="updated_time"> 09:47 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59889760?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Biden to blame Trump for 'carnage' one year on</a> BBC: On the attack's anniversary, Mr Biden will say his predecessor holds "singular responsibility". 
- <p class="updated_time"> 09:40 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59876989?at_medium=RSS&at_campaign=KARANGA">North Korea successfully tested hypersonic missile, says report</a> BBC: State media KNCA said the missile from yesterday's launch had "precisely hit" its target. 
  <p class="updated_time"> 09:14 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/sports/tennis/novak-djokovic-australia-visa.html">Novak Djokovic Is Refused Entry Into Australia Over Vaccine Exemption</a> NYT: The No. 1 men’s tennis player was told to leave the country following a 10-hour standoff with government officials at a Melbourne airport, ending his chance to defend his Australian Open title. 
  <p class="updated_time"> 08:57 PM CT, Jan. 05 </p> 
@@ -175,16 +175,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/europe/april-ashley-dead.html">April Ashley, London Socialite and Transgender Pioneer, Dies at 86</a> NYT: She modeled for Vogue, partied with John Lennon and Mick Jagger, and married into minor nobility, all while fighting for legal recognition of her gender. 
  <p class="updated_time"> 01:53 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/europe/berkeley-balcony-collapse-death.html">Victim of Berkeley Balcony Collapse Dies in Ireland</a> NYT: Aoife Beary, who was left with life-changing injuries after the 2015 accident, died on New Year’s Day, her family said. 
- <p class="updated_time"> 09:13 AM CT, Jan. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59833131?at_medium=RSS&at_campaign=KARANGA">Richard Leakey - fossil expert, conservationist and politician</a> BBC: The achievements of Richard Leakey, who has died aged 77, were as remarkable as they were diverse. 
  <p class="updated_time"> 09:05 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/asia/india-auction-muslim-women.html">Online ‘Auction’ Is Latest Attack on Muslim Women in India</a> NYT: The fake site, the second in months, is a sign of the organized nature of virtual bullying, with threats of sexualized violence aimed at silencing the outspoken. 
  <p class="updated_time"> 07:43 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/middleeast/tunisia-economy-kais-saied.html">Pressure Mounts on Tunisia’s President to Salvage the Economy</a> NYT: When President Kais Saied seized power in July, he vowed to rescue the failing economy. Tunisians are still waiting for him to fulfill that pledge. 
  <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/article/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
- <p class="updated_time"> 06:55 PM CT, Jan. 01 </p> 
- <a href="https://www.bbc.co.uk/news/stories-59566983?at_medium=RSS&at_campaign=KARANGA">In the footsteps of the women who escaped a Nazi death march</a> BBC: When Gwen Strauss' great-aunt revealed she had led nine women in an escape from a Nazi death march in 1945, Gwen decided to retrace their steps. 
 
 
 </details>
@@ -313,7 +309,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/05/republicans-dodge-and-deflect-ahead-of-jan-6-495599"> Republicans dodge and deflect ahead of Jan. 6</a> Politico Playbook: And prices for at-home Covid-19 tests rise. 
  <p class="updated_time"> 05:39 AM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/sebastian-gorka-sues-january-6-committee/index.html">Trump ally Gorka sues January 6 panel to block subpoena for his cell phone records</a> CNN: Sebastian Gorka, a radio host and ally of former President Donald Trump, has filed suit against the January 6 committee and Verizon in an attempt to block a subpoena for his cell phone records. 
+ <a href="https://www.cnn.com/2022/01/05/politics/sebastian-gorka-sues-january-6-committee/index.html">Jan. 6 panel's subpoenas for phone records prompt 4 new lawsuits, including from Mike Lindell and Sebastian Gorka</a> CNN: Sebastian Gorka, a radio host and ally of former President Donald Trump, has filed suit against the January 6 committee and Verizon in an attempt to block a subpoena for his cell phone records. 
  <p class="updated_time"> 04:30 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/jan-6-anniversary-capitol-police-officers-response-526024">What the Jan. 6 responders found: Brotherhood in trauma and a search for accountability</a> Politico: "It's been a hell of a year" for officers Aquilino Gonell, Harry Dunn and Daniel Hodges. They're not done healing yet. 
  <p class="updated_time"> 04:07 AM CT, Jan. 05 </p> 
