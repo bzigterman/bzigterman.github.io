@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:57 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 07:51 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
  <p class="updated_time"> 07:50 PM CT, Jan. 05 </p> 
@@ -123,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges $31.5 Billion in Indigenous Child Welfare Battle</a> NYT: The government agreed to a landmark settlement to repair the system and compensate those families harmed by it. It potentially ends many years of litigation. 
  <p class="updated_time"> 07:25 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070413311/cdc-test-covid-isolation-five-days">The CDC says a test to get out of COVID isolation is not needed, resisting pushback</a> NPR: Those who contracted COVID-19 can end their isolation after five days while continuing to wear a well-fitting mask for an additional five days, according to the agency. 
- <p class="updated_time"> 07:02 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 06:01 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59731622?at_medium=RSS&at_campaign=KARANGA">Gandikota: The stunning Indian gorge that resembles the Grand Canyon</a> BBC: The Gandikota gorge in southern India is believed to be nearly 100,000 years old. 
  <p class="updated_time"> 06:01 PM CT, Jan. 04 </p> 
@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:54 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/michael-carvajal-resigns-prisons.html">Michael Carvajal Is Resigning After Rocky Tenure</a> NYT: Michael Carvajal took over the Bureau of Prisons in February 2020, just as the coronavirus began to sweep through the nation’s prisons. 
  <p class="updated_time"> 08:34 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/cdc-rochelle-walensky-covid-isolation-testing.html">For C.D.C.’s Walensky, a Steep Learning Curve on Messaging</a> NYT: Dr. Rochelle Walensky, the director of the Centers for Disease Control and Prevention, has stumbled in explaining her policy decisions. 
  <p class="updated_time"> 08:31 PM CT, Jan. 05 </p> 
@@ -200,8 +202,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/05/politics/stephanie-grisham-committee-meeting/index.html">Stephanie Grisham to meet with January 6 panel</a> CNN: Former White House press secretary Stephanie Grisham will meet Wednesday evening on Capitol Hill with the select committee investigating the January 6 insurrection, according to multiple sources familiar with the meeting. 
  <p class="updated_time"> 07:44 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/michael-carvajal-bureau-of-prisons-director-retirement/index.html">Bureau of Prisons leader retiring under political pressure from lawmakers seeking his ouster</a> CNN: Federal Bureau of Prisons Director Michael Carvajal is retiring, following months of pressure from some lawmakers seeking his ouster over management issues at the agency. 
- <p class="updated_time"> 07:32 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/michael-carvajal-resigns-prisons.html">Michael Carvajal Is Resigning After Rocky Tenure</a> NYT: Michael Carvajal took over the Bureau of Prisons in February 2020, just as the coronavirus began to sweep through the nation’s prisons. 
  <p class="updated_time"> 07:28 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/jan-6-capitol-deaths.html">These Are the People Who Died in Connection With the Capitol Riot</a> NYT: A bipartisan Senate report found that at least seven people had lost their lives in connection with the Jan. 6 attack. 
  <p class="updated_time"> 07:26 PM CT, Jan. 05 </p> 
