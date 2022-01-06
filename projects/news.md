@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:49 AM CT, Jan. 06 </p> 
+ <p class="updated_time"> 09:51 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests/kazakhstan-protests">After dozens are reported dead in Kazakhstan, troops from a Russian alliance begin to deploy.</a> NYT: A revolt sparked by anger over a surge in fuel prices is convulsing the Central Asian nation on Russia’s doorstep. As protests turned deadly, troops from a Russian-led military alliance began arriving in the country. 
  <p class="updated_time"> 09:41 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59882444?at_medium=RSS&at_campaign=KARANGA">Ashers 'gay cake' case: European court rules case inadmissible</a> BBC: A bakery firm was taken to court for refusing to make a cake with a "Support Gay Marriage" slogan. 
@@ -77,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59876989?at_medium=RSS&at_campaign=KARANGA">North Korea successfully tested hypersonic missile, says report</a> BBC: State media KNCA said the missile from yesterday's launch had "precisely hit" its target. 
  <p class="updated_time"> 10:37 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/covid-variant-france.html">W.H.O. Downplays Threat From New Virus Variant in France</a> NYT: The so-called I.H.U. variant contains numerous mutations of the coronavirus, but experts say it has shown little sign of spreading so far. 
- <p class="updated_time"> 09:50 PM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/north-korea-says-it-tested-hypersonic-missile-11641459003">North Korea Says It Tested Hypersonic Missile</a> WSJ: The technology is some of the latest being developed by the U.S., China and Russia. Pyongyang’s appears to be in the early stages, weapons experts say. 
  <p class="updated_time"> 08:57 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 07:29 PM CT, Jan. 05 </p> 
@@ -115,6 +113,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070700656/reigning-australian-open-mens-champion-denied-entry-into-australia-to-defend-tit">Reigning Australian Open men's champion denied entry into Australia to defend title</a> NPR: The reigning Australian Open men's champion Novak Djokovic — who is famously skeptical about the COVID vaccine and received a medical exemption from being vaccinated — was not admitted to the country. 
  <p class="updated_time"> 03:35 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1069791114/afghanistan-girls-soccer-refugees-portugal">An Afghan girls soccer team rebelled to play the game they love. Now they're refugees</a> NPR: The teenagers on the Afghan girls national soccer team lean on each other as they adjust to a new life in Portugal, where they fled after the Taliban takeover of Afghanistan. 
+ <p class="updated_time"> 02:49 PM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/anger-at-xian-lockdown-spreads-in-china-11641433781">Anger at Xi'an Lockdown Spreads in China</a> WSJ: The account of a woman who lost her unborn baby in the eighth month of pregnancy after being denied swift medical attention prompted a nationwide social-media outcry. 
  <p class="updated_time"> 02:10 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/britain-same-sex-pardon.html">Britain Extends Pardons Policy for Consensual Same-Sex Partners</a> NYT: The government’s action expands earlier legislative efforts, but for some gay people it is too little, too late. “It impacted me my whole life,” one man said of his conviction. 
  <p class="updated_time"> 01:51 PM CT, Jan. 05 </p> 
@@ -209,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:23 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-anniversary-events.html">Jan. 6 Capitol Attack Anniversary Events Timeline</a> NYT: Speeches by President Biden and Vice President Kamala Harris are part of the events to mark the anniversary of the attack on the Capitol. 
  <p class="updated_time"> 07:00 AM CT, Jan. 06 </p> 
- <a href="https://www.politico.com/news/2022/01/06/andy-kim-reflects-jan-6-526568">‘What is it going to it take?’: Rep. Andy Kim reflects on division a year after Jan. 6</a> Politico: One year later, it’s still hard for the congressman to make sense of what happened at the Capitol. 
+ <a href="https://www.politico.com/news/2022/01/06/andy-kim-reflects-jan-6-526568">How one Congressman’s act of service will be forever memorialized</a> Politico: One year later, it’s still hard for the congressman to make sense of what happened at the Capitol. 
  <p class="updated_time"> 06:18 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/06/your-guide-to-jan-6-anniversary-coverage-495620"> Your guide to Jan. 6 anniversary coverage</a> Politico Playbook: And the Biden administration tries to straighten out its recent pandemic fumbles. 
  <p class="updated_time"> 06:15 AM CT, Jan. 06 </p> 
@@ -402,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/31/politics/biden-new-years-eve/index.html">Biden rings in new year, says there's 'no quit in America'</a> CNN: In a New Year's Eve message Friday, President Joe Biden said he's "more optimistic about America's future than I've ever been." 
  <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/31/meet-the-gops-new-national-security-power-broker-495557"> Meet the GOP’s new national security power broker</a> Politico Playbook: And neither Biden nor Putin backs down on a new call. 
- <p class="updated_time"> 09:56 AM CT, Dec. 30 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/30/biden-and-putin-speak-again-at-moment-of-crisis-495556"> Biden and Putin speak again at ‘moment of crisis’</a> Politico Playbook: And coronavirus cases in the U.S. reached a record high 
 
 
 </details>
