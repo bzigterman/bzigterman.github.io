@@ -7,28 +7,32 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:55 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/01/06/world/omicron-covid-vaccine-tests">Covid Live Updates: Advisers to Biden’s Transition Team Call for Altered U.S. Strategy</a> NYT: Only about 35 percent of Americans have received a booster, despite the United States moving rapidly to expand who can receive additional shots. 
+ <p class="updated_time"> 11:34 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests">Live Updates: Russia Sends Troops to Kazakhstan as Dozens of Protesters Are Killed</a> NYT: A revolt sparked by anger over a surge in fuel prices is convulsing the Central Asian nation. As protests turned deadly, troops from a Russian-led alliance began arriving in the country. 
+ <p class="updated_time"> 11:22 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59898559?at_medium=RSS&at_campaign=KARANGA">US Capitol attack: Rioters 'held dagger to the throat of America' - Biden</a> BBC: On the anniversary of the Capitol attack, the US president says "the pain and scars" run deep. 
+ <p class="updated_time"> 11:22 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59882444?at_medium=RSS&at_campaign=KARANGA">Ashers 'gay cake' case: European court rules case inadmissible</a> BBC: A bakery firm was taken to court for refusing to make a cake with a "Support Gay Marriage" slogan. 
+ <p class="updated_time"> 11:18 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/arts/design/met-museum-african-origin-exhibit.html">In ‘African Origin’ Show at Met, New Points of Light Across Cultures</a> NYT: Holdings from Ancient Egypt and sub-Saharan Africa come together in a masterpiece show. Now the Met should make clear how the wondrous works got here. 
+ <p class="updated_time"> 11:09 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html">Using Harsh Language, Macron Issues a Challenge to the Unvaccinated</a> NYT: The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds. 
+ <p class="updated_time"> 10:59 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59900129?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Serbs seethe over tennis hero's entry ban</a> BBC: Compatriots rally behind their icon as he fights deportation from Australia over vaccine rules. 
+ <p class="updated_time"> 10:52 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Machine gun fire heard as street battles rage</a> BBC: The sound of machine guns and explosions can be heard as clashes continue in the city of Almaty. 
  <p class="updated_time"> 10:35 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/europe/boris-johnson-ethics-britain-uk.html">Ethics Adviser Rebukes Boris Johnson Over Downing Street Decorations</a> NYT: The adviser said it was “plainly unsatisfactory” that he was not told that Mr. Johnson had petitioned a prominent donor to arrange financing for the makeover of his apartment. 
- <p class="updated_time"> 10:28 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-59897918?at_medium=RSS&at_campaign=KARANGA">What has Novak Djokovic actually said about vaccines?</a> BBC: The tennis ace had his visa cancelled in a row over jab exemption. But what's he said about vaccines? 
  <p class="updated_time"> 10:00 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/travel/coronavirus-cruise-ships-omicron.html">Cruise Ships Are Still Sailing as Cases Rise and Criticism Mounts</a> NYT: One day after the C.D.C. advised against all travel on cruise ships, thousands of cruisers partied like it was 2019. But worries about onboard policies — and frustration over quarantines — is rising. 
  <p class="updated_time"> 09:54 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/explainers-59894266?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Why have there been riots and deaths?</a> BBC: Security forces have killed dozens of suspected rioters and Russian troops have been called in. 
- <p class="updated_time"> 09:51 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests/kazakhstan-protests">After dozens are reported dead in Kazakhstan, troops from a Russian alliance begin to deploy.</a> NYT: A revolt sparked by anger over a surge in fuel prices is convulsing the Central Asian nation on Russia’s doorstep. As protests turned deadly, troops from a Russian-led military alliance began arriving in the country. 
- <p class="updated_time"> 09:41 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59882444?at_medium=RSS&at_campaign=KARANGA">Ashers 'gay cake' case: European court rules case inadmissible</a> BBC: A bakery firm was taken to court for refusing to make a cake with a "Support Gay Marriage" slogan. 
  <p class="updated_time"> 09:13 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
  <p class="updated_time"> 09:06 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59892937?at_medium=RSS&at_campaign=KARANGA">Capitol riots: Trump tried to prevent peaceful transition, says Biden</a> BBC: US President Joe Biden says the country must make sure the US Capitol attacks never happen again. 
  <p class="updated_time"> 08:20 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59893216?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Tigray hospital running out of food for starving children</a> BBC: The hospital treating Surafeal in Ethiopia's Tigray region is also running out of food. 
- <p class="updated_time"> 08:15 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59896471?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Government restores fuel price cap after bloodshed</a> BBC: The government reinstates vehicle fuel price caps for six months after dozens die in mass protests. 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/why-novak-djokovic-was-blocked.html">Why Novak Djokovic Was Blocked From Entering Australia</a> NYT: The men’s No. 1 tennis player had received an exemption to the country’s vaccine requirements. Then the federal government stepped in. 
  <p class="updated_time"> 07:31 AM CT, Jan. 06 </p> 
@@ -37,14 +41,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59894082?at_medium=RSS&at_campaign=KARANGA">Guatemala soldiers face rape trial after 40 years</a> BBC: Five former soldiers are accused of raping 36 indigenous Mayan women during the country's civil war. 
  <p class="updated_time"> 06:50 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/europe/pope-pets-kids.html">Pope Scolds Couples Who Choose Pets Over Kids</a> NYT: Expressing concern about global birthrates, Francis said such couples were acting in a selfish way that diminished humanity. 
+ <p class="updated_time"> 06:50 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/climate/lithium-chile.html">Mining of Lithium, Key to the Climate Fight, Faces New Scrutiny in Chile</a> NYT: Politicians have called for a pause in new mining contracts for lithium, which is in high demand for electric car batteries but is at the heart of a debate in Chile over mines, water rights and inequality. 
  <p class="updated_time"> 06:41 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/novak-djokovic-covid.html">Novak Djokovic Collides With Australia’s Covid Fight</a> NYT: Barring the tennis star from entering the country offers a chance to change the subject as an election looms and coronavirus cases are at record highs. 
  <p class="updated_time"> 05:34 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59893206?at_medium=RSS&at_campaign=KARANGA">Jon Stewart denies accusing JK Rowling of anti-Semitism</a> BBC: The US chat-show host denies accusing the Harry Potter author of anti-Semitism in comments on a podcast. 
  <p class="updated_time"> 05:29 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59894989?at_medium=RSS&at_campaign=KARANGA">Covid-19: More than 100 test positive on an Italy-India flight</a> BBC: They were among 179 passengers on the flight from Milan which landed in Amritsar on Wednesday. 
- <p class="updated_time"> 05:24 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59888755?at_medium=RSS&at_campaign=KARANGA">Kew scientists name new tree after Leonardo DiCaprio</a> BBC: The tree grows only in an African rainforest the actor and conservationist helped save from logging. 
  <p class="updated_time"> 04:57 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/china-xian-lockdown-covid.html">Xi'an Is China's Biggest Covid Challenge Since Wuhan</a> NYT: Xi’an, a city of 13 million people, has been on lockdown since Dec. 22, the longest in the country since the early days of the outbreak in Wuhan. 
  <p class="updated_time"> 04:05 AM CT, Jan. 06 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59888675?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... Novak Djokovic and Australia</a> BBC: As Australia cancels the tennis star's visa on his arrival in Melbourne, Ros Atkins looks at how we got here. 
  <p class="updated_time"> 05:11 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/italy-female-statue-padua-prato-della-valle.html">Italy Proposal to Add Female Statue to Square of Men Stirs Debate</a> NYT: In Padua, Italy, a proposal to include a female philosopher in a monument whose 78 sculptures are all men has spurred debate. 
- <p class="updated_time"> 05:07 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html">Using Harsh Language, Macron Issues a Challenge to the Unvaccinated</a> NYT: The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds. 
  <p class="updated_time"> 04:10 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/sports/tennis/djokovic-vaccine.html">Djokovic Granted Covid-19 Vaccine Exemption to Play in Australian Open</a> NYT: The top-ranked player in men’s tennis revealed his plans in a post on his Instagram account. 
  <p class="updated_time"> 04:06 PM CT, Jan. 05 </p> 
@@ -169,6 +171,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/business/britain-electricity-norway-cables.html">A Widening Web of Undersea Cables Connects Britain to Green Energy</a> NYT: Linking one nation’s power grid with another’s is considered essential as more electricity is generated from solar and wind. 
  <p class="updated_time"> 08:45 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/americas/ariel-henry-assassination-attempt.html">Haiti Prime Minister Survives Assassination Attempt, His Office Says</a> NYT: Prime Minister Ariel Henry was the target of an unsuccessful attempt on his life over the weekend by gunmen in the northern city of Gonaïves, his office said Monday night. 
+ <p class="updated_time"> 06:19 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/africa/sudan-prime-minister-resigns.html">Sudan Braces for ‘the Worst’ after Prime Minister Resigns</a> NYT: With the departure of the civilian prime minister Abdalla Hamdok on Sunday, the military and security forces are now fully in control of Sudan again. 
+ <p class="updated_time"> 06:05 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/prince-andrew-jeffrey-epstein.html">Woman Suing Prince Andrew for Abuse Settled With Jeffrey Epstein for $500,000</a> NYT: The prince’s lawyers are expected to argue that Virginia Roberts Giuffre’s suit should be dismissed because of the earlier settlement’s terms. 
+ <p class="updated_time"> 01:59 PM CT, Jan. 03 </p> 
+ <a href="https://www.nytimes.com/2022/01/03/world/europe/april-ashley-dead.html">April Ashley, London Socialite and Transgender Pioneer, Dies at 86</a> NYT: She modeled for Vogue, partied with John Lennon and Mick Jagger, and married into minor nobility, all while fighting for legal recognition of her gender. 
 
 
 </details>
@@ -176,10 +184,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:04 PM CT, Jan. 06 </p> 
+ <a href="https://www.politico.com/news/2022/01/06/former-administration-officials-block-trump-526623">Ex-Trumpers set to plot how to try and take down Trump</a> Politico: Those involved include Stephanie Grisham, Miles Taylor, Olivia Troye and Anthony Scaramucci. 
+ <p class="updated_time"> 11:26 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/taylor-greene-gaetz-bannon-jan-6.html">On Bannon's Show, Gaetz and Taylor Greene Redirect Jan. 6 Blame</a> NYT: The idea that people other than Mr. Trump’s own supporters were responsible for the violence that day has become a popular conspiracy theory among the far right. 
+ <p class="updated_time"> 11:23 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/americans-political-violence-capitol-riot.html">A Year After Jan. 6, Millions of Americans Support Violence</a> NYT: Probably a lot fewer than you’ve been led to believe, but more than enough to make you nervous. 
+ <p class="updated_time"> 11:21 AM CT, Jan. 06 </p> 
+ <a href="https://www.politico.com/news/2022/01/06/federal-reserve-ethics-clarida-526618">Fed ethics scandal reignited over new disclosures by top official</a> Politico: The news puts fresh scrutiny on Chair Jerome Powell, who will face the Senate Banking Committee for his confirmation hearing next week. 
+ <p class="updated_time"> 11:16 AM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/jamal-simmons-kamala-harris/index.html">Kamala Harris to name Jamal Simmons as communications director</a> CNN: Jamal Simmons, a Democratic communications aide and media contributor, has been tapped to be Vice President Kamala Harris' new communications director, a White House official confirms. 
  <p class="updated_time"> 11:14 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/dozens-of-protesters-12-police-dead-in-kazakhstan-protests-526614">Dozens of protesters, 12 police dead in Kazakhstan protests</a> Politico: Security forces killed dozens of protesters and 12 police died during extraordinarily violent demonstrations in Kazakhstan that saw government buildings stormed and set ablaze. 
  <p class="updated_time"> 11:00 AM CT, Jan. 06 </p> 
- <a href="https://www.politico.com/news/2022/01/06/social-media-donald-trump-jan-6-526562">Social media booted Trump. His lies about the election are still spreading.</a> Politico: The conspiracy theories and election fraud claims that stoked anger before the Jan. 6 assault are still readily available online, even after Facebook, Google and Twitter removed hundreds of thousands of accounts, pages and channels that spread misinformation. 
+ <a href="https://www.politico.com/news/2022/01/06/social-media-donald-trump-jan-6-526562">The online world still can’t quit the ‘Big Lie’</a> Politico: The conspiracy theories and election fraud claims that stoked anger before the Jan. 6 assault are still readily available online, even after Facebook, Google and Twitter removed hundreds of thousands of accounts, pages and channels that spread misinformation. 
  <p class="updated_time"> 10:59 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/biden-russia-sanctions-european-allies-526606">Biden talks tough on Putin, but European allies are less ready for a fight</a> Politico: U.S. officials are warning Russia of harsh penalties if they invade Ukraine. But the Biden administration first must face a Europe divided on how far to go. 
  <p class="updated_time"> 10:49 AM CT, Jan. 06 </p> 
@@ -198,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/05/politics/biden-presidency-jan-6/index.html">The January 6 riot and Donald Trump loom over Joe Biden's presidency a year later</a> CNN: Two weeks before becoming president, Joe Biden watched the January 6 attack on television from his home in Delaware, horrified as the unspeakable images of the insurrection unfolded and aghast at the sitting President's unwillingness to condemn it. 
  <p class="updated_time"> 09:01 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/technology/jan-6-anniversary-social-media.html">Right-Wing Calls to Celebrate Jan. 6 Anniversary Draw a Muted Response</a> NYT: Online chatter about holding rallies has grown, but sizable real-world gatherings on Thursday are unlikely to materialize. 
- <p class="updated_time"> 08:52 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/americans-political-violence-capitol-riot.html">A Year After Jan. 6, Millions of Americans Support Violence</a> NYT: Probably a lot fewer than you’ve been led to believe, but more than enough to make you nervous. 
  <p class="updated_time"> 08:39 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/january-6-insurrection-legacy/index.html">January 6 may be only a preview of a deeper democratic rupture</a> CNN: If January 6, 2021, was just one infamous day in history, its stain on the American story would still reverberate through generations. 
  <p class="updated_time"> 08:25 AM CT, Jan. 06 </p> 
@@ -292,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/05/politics/violent-rhetoric-january-6-anniversary/index.html">Uptick in violent rhetoric ahead of January 6 Capitol attack anniversary, but no specific plot</a> CNN: In the days ahead of the anniversary of the January 6 US Capitol attack, federal officials have seen an increase in unspecified calls for violence, the targeting of politicians and calls for rebellion on domestic violent extremist forums, according to a federal law enforcement official. However, there is still nothing to suggest a coordinated plan or specific threat, the official and other law enforcement sources said. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
- <p class="updated_time"> 04:51 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/capitol-police-january-6.html">Capitol Police Chief Commits to Security Improvements After Jan. 6</a> NYT: Chief J. Thomas Manger, the head of an agency still reeling from the Jan. 6 attack, told lawmakers he was already addressing most of the 103 recommendations from an internal watchdog. 
  <p class="updated_time"> 04:31 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
  <p class="updated_time"> 04:24 PM CT, Jan. 05 </p> 
@@ -308,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070199411/5-takeaways-from-the-capitol-riot-criminal-cases-one-year-later">5 takeaways from the Capitol riot criminal cases, one year later</a> NPR: NPR has been tracking every criminal case related to the insurrection at the U.S. Capitol on Jan. 6, 2021. One year after the riot, here are some of the key patterns that have emerged from the cases. 
  <p class="updated_time"> 03:13 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070362852/trump-big-lie-election-jan-6-families">They believe in Trump's 'Big Lie.' Here's why it's been so hard to dispel</a> NPR: The resilience of the "Big Lie" is prompting consternation and creative efforts to reach those who remain adamant — despite all evidence to the contrary — that the 2020 presidential vote was rigged. 
- <p class="updated_time"> 02:27 PM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/ghislaine-maxwell-trial-juror-526548">Prosecutors alert Maxwell judge of juror's sex abuse claims</a> Politico: Prosecutors urged the judge who presided over the trial of Ghislaine Maxwell to conduct an inquiry into the juror's reported claims. 
  <p class="updated_time"> 02:11 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070675936/ag-merrick-garland-jan-6-riot-accountable-anniversary">Merrick Garland vows to keep following leads to hold Jan. 6 rioters accountable </a> NPR: In a speech delivered Wednesday, the attorney general said the Justice Department "will follow the facts wherever they lead. ...The actions we have taken thus far will not be our last." 
  <p class="updated_time"> 01:22 PM CT, Jan. 05 </p> 
