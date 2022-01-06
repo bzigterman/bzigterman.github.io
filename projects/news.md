@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:05 PM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/01/06/1069872384/for-many-afghans-winter-is-forcing-a-cruel-choice-of-whether-to-eat-or-stay-warm">For many Afghans, winter is forcing a cruel choice of whether to eat or stay warm</a> NPR: "It shouldn't be a lottery of life about who gets to eat, who doesn't get to eat. Do I keep my child warm or do I give my child food?" a World Food Programme Afghanistan spokesperson tells NPR. 
+ <p class="updated_time"> 02:57 PM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59898559?at_medium=RSS&at_campaign=KARANGA">US Capitol attack: Rioters held dagger to the throat of America - Biden</a> BBC: On the anniversary of the Capitol attack, the US president says "the pain and scars" run deep. 
  <p class="updated_time"> 02:43 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/arts/design/met-museum-african-origin-exhibit.html">In ‘African Origin’ Show at Met, New Points of Light Across Cultures</a> NYT: Holdings from Ancient Egypt and sub-Saharan Africa come together in a masterpiece show. Now the Met should make clear how the wondrous works got here. 
  <p class="updated_time"> 02:42 PM CT, Jan. 06 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59898346?at_medium=RSS&at_campaign=KARANGA">Italy Covid: Bullet forces immunologist to get protection</a> BBC: Prof Antonella Viola is given police protection after threats are made against her and her family. 
  <p class="updated_time"> 12:44 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59885656?at_medium=RSS&at_campaign=KARANGA">Drone helps save cardiac arrest patient in Sweden</a> BBC: A defibrillator delivered by drone helped to keep a 71 year-old man alive. 
- <p class="updated_time"> 12:27 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59898559?at_medium=RSS&at_campaign=KARANGA">US Capitol attack: Rioters held dagger to the throat of America - Biden</a> BBC: On the anniversary of the Capitol attack, the US president says "the pain and scars" run deep. 
  <p class="updated_time"> 12:23 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/europe/boris-johnson-ethics-britain-uk.html">Ethics Adviser Rebukes Boris Johnson Over Downing Street Decorations</a> NYT: The adviser said it was “plainly unsatisfactory” that he was not told that Mr. Johnson had petitioned a prominent donor to arrange financing for the makeover of his apartment. 
  <p class="updated_time"> 12:01 PM CT, Jan. 06 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/europe/kazakhstan-emergency-protests-fuel.html">Kazakhstan Declares State of Emergency as Protests Over Fuel Prices Spread</a> NYT: Thousands took to the street as gas prices doubled. The government responded with curfews and tear gas. The president later announced the resignation of the government. 
  <p class="updated_time"> 08:39 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges $31.5 Billion in Indigenous Child Welfare Battle</a> NYT: The government agreed to a landmark settlement to repair the system and compensate those families harmed by it. It potentially ends many years of litigation. 
- <p class="updated_time"> 07:25 PM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070413311/cdc-test-covid-isolation-five-days">The CDC says a test to get out of COVID isolation is not needed, resisting pushback</a> NPR: Those who contracted COVID-19 can end their isolation after five days while continuing to wear a well-fitting mask for an additional five days, according to the agency. 
  <p class="updated_time"> 06:01 PM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59735955?at_medium=RSS&at_campaign=KARANGA">Iconic Bangkok station Hua Lamphong reaches the end of the line</a> BBC: Hua Lamphong has seen the start and end of journeys for generations of Thai travellers and tourists alike. 
  <p class="updated_time"> 04:17 PM CT, Jan. 04 </p> 
@@ -186,14 +186,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:56 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/biden-lays-out-the-stakes-for-democracy-can-he-sustain-the-case-526688">Biden lays out the stakes for democracy. Can he sustain the case?</a> Politico: The president’s speech on Thursday was hailed by fellow Democrats. Now, they want him to keep at it. 
+ <p class="updated_time"> 03:06 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/times-reporters-american-democracy.html">Times Reporters Discuss Threats to American Democracy</a> NYT: Our political journalists talked about the Republican push to restrict voting and seize control over elections, and how Democrats are responding. 
+ <p class="updated_time"> 03:05 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-lies.html">The Next Big Lies: Jan. 6 Was No Big Deal, or a Left-Wing Plot</a> NYT: How revisionist histories of Jan. 6 picked up where the “stop the steal” campaign left off, warping beliefs about what transpired at the Capitol. 
  <p class="updated_time"> 02:54 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/congress-corporate-donations-2020-election-overturn.html">Companies Donated Millions to Those Who Voted to Overturn Biden's Win</a> NYT: One year after the Capitol riot, many businesses resumed corporate donations to lawmakers who voted against certifying the 2020 election. 
  <p class="updated_time"> 02:41 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/trapped-capitol-jan-6.html">Remembering Jan. 6, When He Was Trapped Alone in the Capitol</a> NYT: Wayne K. Williams, a top aide to the No. 5 House Democrat, was the only member of his staff in the Capitol on Jan. 6, 2021. He was barricaded in his office alone as mayhem reigned. 
  <p class="updated_time"> 02:41 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070763913/kicked-off-facebook-and-twitter-far-right-groups-lose-online-clout">Kicked off Facebook and Twitter, far-right groups lose online clout</a> NPR: In the year since the January 6th Capitol attack, far-right influencers and extremists are taking new approaches to organizing online. 
- <p class="updated_time"> 02:30 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/times-reporters-american-democracy.html">Times Reporters Discuss Threats to American Democracy</a> NYT: Our political journalists talked about the Republican push to restrict voting and seize control over elections, and how Democrats are responding. 
  <p class="updated_time"> 02:27 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/cheneys-jan-6.html">Cheneys Welcomed Warmly by Democrats at Jan. 6 Event</a> NYT: “The future of the country is at stake, and there are moments when we all have to come together in order to defend the Constitution,” Representative Liz Cheney, Republican of Wyoming, said. 
  <p class="updated_time"> 02:25 PM CT, Jan. 06 </p> 
@@ -204,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/06/politics/trump-tweet-january-6/index.html">Trump did not want to tweet 'stay peaceful' during January 6 riot, key former aide says</a> CNN: A former Trump White House official said then-President Donald Trump initially refused to tweet the words "stay peaceful" as the attack on the US Capitol on January 6, 2021, was escalating. 
  <p class="updated_time"> 01:51 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden condemns Trump as a threat to democracy in speech marking one year since January 6 attack</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
- <p class="updated_time"> 01:15 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-lies.html">The Next Big Lies: Jan. 6 Was No Big Deal, or a Left-Wing Plot</a> NYT: How revisionist histories of Jan. 6 picked up where the “stop the steal” campaign left off, warping beliefs about what transpired at the Capitol. 
  <p class="updated_time"> 12:47 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/elaine-luria-reelection-announcement/index.html">1/6 panel member launches reelection bid amid backdrop of insurrection anniversary</a> CNN: Rep. Elaine Luria, a Democrat from Virginia and a member of the House committee investigating the Capitol Riot, announced on the anniversary of the attack that she will run for reelection in her Virginia Beach swing district. 
  <p class="updated_time"> 12:40 PM CT, Jan. 06 </p> 
@@ -314,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/05/politics/jimmy-carter-democracy-jan-6-oped/index.html">Carter warns America 'teeters on the brink of a widening abyss' in stark op-ed ahead of January 6</a> CNN: Former President Jimmy Carter warned Wednesday that democracy is being threatened throughout the country, cautioning that "our great nation now teeters on the brink of a widening abyss." 
  <p class="updated_time"> 08:34 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/cdc-rochelle-walensky-covid-isolation-testing.html">For C.D.C.’s Walensky, a Steep Learning Curve on Messaging</a> NYT: Dr. Rochelle Walensky, the director of the Centers for Disease Control and Prevention, has stumbled in explaining her policy decisions. 
- <p class="updated_time"> 08:31 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/merrick-garland-jan-6-investigation.html">Merrick Garland Vows to Pursue Jan. 6 Inquiry ‘at Any Level’</a> NYT: The remarks came as Merrick B. Garland faces pressure from Democrats to more aggressively investigate any role that Donald J. Trump and his allies may have played in encouraging the violence. 
  <p class="updated_time"> 07:44 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/michael-carvajal-bureau-of-prisons-director-retirement/index.html">Bureau of Prisons leader retiring under political pressure from lawmakers seeking his ouster</a> CNN: Federal Bureau of Prisons Director Michael Carvajal is retiring, following months of pressure from some lawmakers seeking his ouster over management issues at the agency. 
  <p class="updated_time"> 07:28 PM CT, Jan. 05 </p> 
@@ -412,6 +410,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/cheney-trump-threat-democracy-526356">Liz Cheney on Trump: He’s a threat to American democracy</a> Politico: “He crossed lines no American president has ever crossed before,” she said. 
  <p class="updated_time"> 10:12 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/capitol-police-chief-short-staffed-526354">Capitol Police chief says force remains short-staffed</a> Politico: “We’re now really about 400 officers short of where we need to be,” J. Thomas Manger said. 
+ <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
  <p class="updated_time"> 07:00 AM CT, Jan. 01 </p> 
