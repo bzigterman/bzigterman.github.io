@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:14 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/sports/tennis/novak-djokovic-australia-visa.html">Novak Djokovic Is Refused Entry Into Australia Over Vaccine Exemption</a> NYT: The No. 1 men’s tennis player was told to leave the country following a 10-hour standoff with government officials at a Melbourne airport, ending his chance to defend his Australian Open title. 
+ <p class="updated_time"> 09:01 PM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59889760?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Biden to blame Trump in anniversary speech</a> BBC: On the attack's anniversary, Mr Biden will say his predecessor holds "singular responsibility". 
  <p class="updated_time"> 08:57 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 07:51 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
- <p class="updated_time"> 07:50 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/sports/tennis/novak-djokovic-australia-visa.html">Novak Djokovic Is Refused Entry Into Australia Over Vaccine Exemption</a> NYT: The No. 1 men’s tennis player was told to leave the country following a 10-hour standoff with government officials at a Melbourne airport, ending his chance to defend his Australian Open title. 
  <p class="updated_time"> 07:33 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59889522?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels top tennis player's visa</a> BBC: The Serbian tennis star has reportedly been taken to a detention hotel awaiting deportation. 
  <p class="updated_time"> 07:29 PM CT, Jan. 05 </p> 
@@ -115,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070472805/xian-reacts-to-covid-lockdowns-with-outrage-and-humor">Residents of Xi'an, China, react to COVID lockdowns with outrage and humor</a> NPR: Lockdowns are so strict and so prolonged in the Chinese city that residents have taken to social media to complain and joke about a lack of basic supplies. 
  <p class="updated_time"> 02:46 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/britain-omicron-boris-johnson.html">Britain can ‘ride out’ the Omicron wave without a strict lockdown, Boris Johnson says.</a> NYT: “We can find a way to live with this virus,” the prime minister said. 
- <p class="updated_time"> 02:20 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59877917?at_medium=RSS&at_campaign=KARANGA">Taiwan buys 20,000 bottles of Lithuania rum destined for China</a> BBC: Taiwan later urged locals to buy rum, posting recipes for rum-infused cocktails. 
  <p class="updated_time"> 01:01 AM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-bans-flights-shutters-nightlife-after-omicron-bursts-pandemic-free-bubble-11641384074">Hong Kong Bans Flights, Shuts Nightlife Over Omicron Cases</a> WSJ: City is “hoping the short-term pain will pay off” after the first community Omicron infections punctured one of the world’s strictest and most effective sets of border controls. 
  <p class="updated_time"> 09:52 PM CT, Jan. 04 </p> 
@@ -194,12 +194,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:54 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/michael-carvajal-resigns-prisons.html">Michael Carvajal Is Resigning After Rocky Tenure</a> NYT: Michael Carvajal took over the Bureau of Prisons in February 2020, just as the coronavirus began to sweep through the nation’s prisons. 
+ <p class="updated_time"> 08:45 PM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/jimmy-carter-democracy-jan-6-oped/index.html">Carter warns America 'teeters on the brink of a widening abyss' in stark op-ed ahead of January 6</a> CNN: Former President Jimmy Carter warned Wednesday that democracy is being threatened throughout the country, cautioning that "our great nation now teeters on the brink of a widening abyss." 
  <p class="updated_time"> 08:34 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/cdc-rochelle-walensky-covid-isolation-testing.html">For C.D.C.’s Walensky, a Steep Learning Curve on Messaging</a> NYT: Dr. Rochelle Walensky, the director of the Centers for Disease Control and Prevention, has stumbled in explaining her policy decisions. 
  <p class="updated_time"> 08:31 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/merrick-garland-jan-6-investigation.html">Attorney General Vows to Pursue Jan. 6 Inquiry ‘at Any Level’</a> NYT: The remarks came as Merrick B. Garland faces pressure from Democrats to more aggressively investigate any role that Donald J. Trump and his allies may have played in encouraging the violence. 
  <p class="updated_time"> 07:50 PM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/stephanie-grisham-committee-meeting/index.html">Stephanie Grisham to meet with January 6 panel</a> CNN: Former White House press secretary Stephanie Grisham will meet Wednesday evening on Capitol Hill with the select committee investigating the January 6 insurrection, according to multiple sources familiar with the meeting. 
+ <a href="https://www.cnn.com/2022/01/05/politics/stephanie-grisham-committee-meeting/index.html">Stephanie Grisham met with January 6 panel</a> CNN: Former White House press secretary Stephanie Grisham will meet Wednesday evening on Capitol Hill with the select committee investigating the January 6 insurrection, according to multiple sources familiar with the meeting. 
  <p class="updated_time"> 07:44 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/michael-carvajal-bureau-of-prisons-director-retirement/index.html">Bureau of Prisons leader retiring under political pressure from lawmakers seeking his ouster</a> CNN: Federal Bureau of Prisons Director Michael Carvajal is retiring, following months of pressure from some lawmakers seeking his ouster over management issues at the agency. 
  <p class="updated_time"> 07:28 PM CT, Jan. 05 </p> 
@@ -406,8 +408,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/cheney-trump-threat-democracy-526356">Liz Cheney on Trump: He’s a threat to American democracy</a> Politico: “He crossed lines no American president has ever crossed before,” she said. 
  <p class="updated_time"> 10:12 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/capitol-police-chief-short-staffed-526354">Capitol Police chief says force remains short-staffed</a> Politico: “We’re now really about 400 officers short of where we need to be,” J. Thomas Manger said. 
- <p class="updated_time"> 09:46 AM CT, Jan. 02 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/miguel-cardona-warns-school-reopening-covid-surge/index.html">US education secretary warns of 'bumps in the road' as schools reopen amid Covid surge</a> CNN: There will be "bumps in the road" as schools attempt to reopen in the new year amid a record surge in Covid-19 cases, US Education Secretary Miguel Cardona said Sunday. 
  <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
