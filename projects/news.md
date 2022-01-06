@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:13 PM CT, Jan. 06 </p> 
+ <p class="updated_time"> 02:41 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests">Live Updates: Russia Sends Troops to Kazakhstan to Help Quell Uprising</a> NYT: Dozens of people have been reported killed, and many more injured, in clashes with security forces in the Central Asian nation. The government blames militant groups. 
  <p class="updated_time"> 02:12 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/pakistan-woman-supreme-court.html">Pakistan Paves Way for Ayesha Malik to Be First Woman Supreme Court Justice</a> NYT: Justice Ayesha A. Malik’s nomination, intensely opposed by some lawyers that have threatened to strike, was hailed by others as an important victory in improving representation for women. 
@@ -41,12 +41,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Machine gun fire heard as street battles rage</a> BBC: The sound of machine guns and explosions can be heard as clashes continue in the city of Almaty. 
  <p class="updated_time"> 09:54 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/explainers-59894266?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Why have there been riots and deaths?</a> BBC: Security forces have killed dozens of suspected rioters and Russian troops have been called in. 
+ <p class="updated_time"> 09:33 AM CT, Jan. 06 </p> 
+ <a href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504">Kazakhstan Protests: Russia Sends Troops as Dozens Killed in Unrest</a> WSJ: Russia sent paratroopers to help Kazakhstan’s leader stamp out protests fueled by frustration with authoritarian rule in the former Soviet republic. 
  <p class="updated_time"> 09:13 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
  <p class="updated_time"> 09:06 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59892937?at_medium=RSS&at_campaign=KARANGA">Capitol riots: Trump tried to prevent peaceful transition, says Biden</a> BBC: US President Joe Biden says the country must make sure the US Capitol attacks never happen again. 
- <p class="updated_time"> 08:52 AM CT, Jan. 06 </p> 
- <a href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504">Kazakhstan Protests: Russia Sends Troops as Dozens Killed in Unrest</a> WSJ: Russia sent paratroopers to help Kazakhstan’s leader stamp out protests fueled by frustration with authoritarian rule in the former Soviet republic. 
  <p class="updated_time"> 08:34 AM CT, Jan. 06 </p> 
  <a href="https://www.wsj.com/articles/italy-mandates-vaccines-for-older-people-u-s-surge-continues-11641473067">Italy Mandates Vaccines for Older People; U.S. Surge Continues</a> WSJ: Italy has adopted some of the toughest vaccine requirements in the West in a bid to curb Covid-19 and the fast-spreading Omicron, as figures from New York suggest the new variant produces fewer cases of severe disease. 
  <p class="updated_time"> 08:20 AM CT, Jan. 06 </p> 
@@ -184,6 +184,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:41 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/trapped-capitol-jan-6.html">Remembering Jan. 6, When He Was Trapped Alone in the Capitol</a> NYT: Wayne K. Williams, a top aide to the No. 5 House Democrat, was the only member of his staff in the Capitol on Jan. 6, 2021. He was barricaded in his office alone as mayhem reigned. 
+ <p class="updated_time"> 02:41 PM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1070763913/kicked-off-facebook-and-twitter-far-right-groups-lose-online-clout">Kicked off Facebook and Twitter, far-right groups lose online clout</a> NPR: In the year since the January 6th Capitol attack, far-right influencers and extremists are taking new approaches to organizing online. 
  <p class="updated_time"> 02:32 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/congress-corporate-donations-2020-election-overturn.html">Companies Donated Millions to Those Who Voted to Overturn Biden's Win</a> NYT: One year after the Capitol riot, many businesses resumed corporate donations to lawmakers who voted against certifying the 2020 election. 
  <p class="updated_time"> 02:30 PM CT, Jan. 06 </p> 
@@ -346,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070199411/5-takeaways-from-the-capitol-riot-criminal-cases-one-year-later">5 takeaways from the Capitol riot criminal cases, one year later</a> NPR: NPR has been tracking every criminal case related to the insurrection at the U.S. Capitol on Jan. 6, 2021. One year after the riot, here are some of the key patterns that have emerged from the cases. 
  <p class="updated_time"> 03:13 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070362852/trump-big-lie-election-jan-6-families">They believe in Trump's 'Big Lie.' Here's why it's been so hard to dispel</a> NPR: The resilience of the "Big Lie" is prompting consternation and creative efforts to reach those who remain adamant — despite all evidence to the contrary — that the 2020 presidential vote was rigged. 
- <p class="updated_time"> 02:11 PM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070675936/ag-merrick-garland-jan-6-riot-accountable-anniversary">Merrick Garland vows to keep following leads to hold Jan. 6 rioters accountable </a> NPR: In a speech delivered Wednesday, the attorney general said the Justice Department "will follow the facts wherever they lead. ...The actions we have taken thus far will not be our last." 
  <p class="updated_time"> 01:22 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/jan-6-capitol-riot-lancaster-republicans/index.html">How January 6 changed what it means to be a Republican in one Pennsylvania county</a> CNN: The day after the January 6 attack on the US Capitol, three local Republican officials in Pennsylvania's Lancaster County announced they were leaving the GOP.  Among them was Ethan Demme, a lifelong conservative who had previously served as the youngest Republican Party chairman in this deeply red corner of southeast Pennsylvania.  
  <p class="updated_time"> 11:45 AM CT, Jan. 05 </p> 
