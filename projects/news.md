@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:42 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/01/06/world/omicron-covid-vaccine-tests">Covid Live Updates: Americans Resist Boosters Even as U.S. Expands Eligibility</a> NYT: Only about 35 percent of Americans have received a booster, despite the United States moving rapidly to expand who can receive additional shots. 
+ <p class="updated_time"> 08:15 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59896471?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Government restores fuel price cap after bloodshed</a> BBC: The government reinstates vehicle fuel price caps for six months after dozens die in mass protests. 
  <p class="updated_time"> 08:04 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Dozens killed in crackdown</a> BBC: Police say rioters were killed in an operation to restore order in the main city, Almaty. 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
@@ -48,11 +50,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:18 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-defector-dmz.html">North Korea Defector Crosses DMZ Border Twice</a> NYT: Officials say a North Korean who crossed the DMZ in 2020 crossed it again to go back. His life in the South seems to have been one of poverty and isolation. 
  <p class="updated_time"> 01:51 AM CT, Jan. 06 </p> 
- <a href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504">Kazakhstan Protests: Dozens Killed as Authorities Crack Down on Unrest
-		
-			 
-		
-	Cracks Down on Protests</a> WSJ: Civilians and law-enforcement officers were killed when authorities moved against protesters in the Central Asian nation after several days of unrest and a Russian-led military alliance arrived to support local forces. 
+ <a href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504">Kazakhstan Protests: Dozens Killed as Authorities Crack Down on Unrest</a> WSJ: Civilians and law-enforcement officers were killed when authorities moved against protesters in the Central Asian nation after several days of unrest and a Russian-led military alliance arrived to support local forces. 
  <p class="updated_time"> 01:44 AM CT, Jan. 06 </p> 
  <a href="https://www.wsj.com/articles/italy-mandates-vaccines-for-older-people-u-s-surge-continues-11641473067">Italy Mandates Vaccines for Older People; U.S. Surge Continues</a> WSJ: Italy has adopted some of the toughest vaccine requirements in the West in a bid to curb Covid-19 and the fast-spreading Omicron, as figures from New York suggest the new variant produces fewer cases of severe disease. 
  <p class="updated_time"> 01:28 AM CT, Jan. 06 </p> 
@@ -105,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/europe/italy-female-statue-padua-prato-della-valle.html">Italy Proposal to Add Female Statue to Square of Men Stirs Debate</a> NYT: In Padua, Italy, a proposal to include a female philosopher in a monument whose 78 sculptures are all men has spurred debate. 
  <p class="updated_time"> 05:07 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html">Using Harsh Language, Macron Issues a Challenge to the Unvaccinated</a> NYT: The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds. 
- <p class="updated_time"> 05:03 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59884806?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Lawyers call for retrial over juror comments</a> BBC: A juror at the trial said he shared his own experience of sexual abuse to sway other jurors. 
  <p class="updated_time"> 04:10 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/sports/tennis/djokovic-vaccine.html">Djokovic Granted Covid-19 Vaccine Exemption to Play in Australian Open</a> NYT: The top-ranked player in men’s tennis revealed his plans in a post on his Instagram account. 
  <p class="updated_time"> 04:06 PM CT, Jan. 05 </p> 
@@ -182,14 +178,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:39 AM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/january-6-insurrection-legacy/index.html">Analysis: January 6 may be only a preview of a deeper democratic rupture</a> CNN: If January 6, 2021, was just one infamous day in history, its stain on the American story would still reverberate through generations. 
  <p class="updated_time"> 08:28 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden calls out Trump in speech marking one-year since January 6 attack: 'He can't accept he lost'</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
  <p class="updated_time"> 08:25 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/stephanie-grisham-trump-officials-meeting-cnntv/index.html">Stephanie Grisham says group of ex-Trump officials to meet next week to discuss how to 'stop' him</a> CNN: Former White House press secretary Stephanie Grisham said Thursday that more than a dozen of her former Trump administration colleagues plan to meet next week to try and stop former President Donald Trump as he continues to "manipulate people and divide our country." 
  <p class="updated_time"> 08:10 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/trump-gop-jan-6.html">A Year After Capitol Riot, Trump’s Hold on G.O.P. Is Unrivaled</a> NYT: His continued grip on the party shows, once again, that the former president can outlast almost any outrage cycle, no matter how intensely it burns. 
- <p class="updated_time"> 07:57 AM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/january-6-insurrection-legacy/index.html">January 6 may be only a preview of a deeper democratic rupture</a> CNN: If January 6, 2021, was just one infamous day in history, its stain on the American story would still reverberate through generations. 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/06/a-year-later-the-hill-is-no-longer-the-safest-place-495624">A year later, the Hill ‘is no longer the safest place'</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:46 AM CT, Jan. 06 </p> 
