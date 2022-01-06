@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:42 AM CT, Jan. 06 </p> 
+ <p class="updated_time"> 09:05 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/01/06/world/omicron-covid-vaccine-tests">Covid Live Updates: Americans Resist Boosters Even as U.S. Expands Eligibility</a> NYT: Only about 35 percent of Americans have received a booster, despite the United States moving rapidly to expand who can receive additional shots. 
+ <p class="updated_time"> 08:20 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59893216?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Tigray hospital running out of food for starving children</a> BBC: The hospital treating Surafeal in Ethiopia's Tigray region is also running out of food. 
  <p class="updated_time"> 08:15 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59896471?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Government restores fuel price cap after bloodshed</a> BBC: The government reinstates vehicle fuel price caps for six months after dozens die in mass protests. 
  <p class="updated_time"> 08:04 AM CT, Jan. 06 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59876989?at_medium=RSS&at_campaign=KARANGA">North Korea successfully tested hypersonic missile, says report</a> BBC: State media KNCA said the missile from yesterday's launch had "precisely hit" its target. 
  <p class="updated_time"> 10:37 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/covid-variant-france.html">W.H.O. Downplays Threat From New Virus Variant in France</a> NYT: The so-called I.H.U. variant contains numerous mutations of the coronavirus, but experts say it has shown little sign of spreading so far. 
- <p class="updated_time"> 10:30 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/business-59890338?at_medium=RSS&at_campaign=KARANGA">Taiwan setting up $200m Lithuania fund amid China row</a> BBC: China downgraded its diplomatic relations with Lithuania after Taiwan opened a de facto embassy there. 
  <p class="updated_time"> 09:50 PM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/north-korea-says-it-tested-hypersonic-missile-11641459003">North Korea Says It Tested Hypersonic Missile</a> WSJ: The technology is some of the latest being developed by the U.S., China and Russia. Pyongyang’s appears to be in the early stages, weapons experts say. 
  <p class="updated_time"> 08:57 PM CT, Jan. 05 </p> 
@@ -178,10 +178,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:03 AM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden calls out Trump in speech marking one-year since January 6 attack: 'He can't accept he lost'</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
+ <p class="updated_time"> 09:01 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/technology/jan-6-anniversary-social-media.html">Right-Wing Calls to Celebrate Jan. 6 Anniversary Draw a Muted Response</a> NYT: Online chatter about holding rallies has grown, but sizable real-world gatherings on Thursday are unlikely to materialize. 
+ <p class="updated_time"> 08:53 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-memorial.html">One Year Later, Congress Weighs How to Memorialize Jan. 6 at the Capitol</a> NYT: In a building that is both a legislative body and a living museum, lawmakers are grappling with how to commemorate an attack whose victims cannot agree on the basic facts of the day. 
+ <p class="updated_time"> 08:52 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/americans-political-violence-capitol-riot.html">A Year After Jan. 6, Millions of Americans Support Violence</a> NYT: Probably a lot fewer than you’ve been led to believe, but more than enough to make you nervous. 
  <p class="updated_time"> 08:39 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/january-6-insurrection-legacy/index.html">Analysis: January 6 may be only a preview of a deeper democratic rupture</a> CNN: If January 6, 2021, was just one infamous day in history, its stain on the American story would still reverberate through generations. 
- <p class="updated_time"> 08:28 AM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden calls out Trump in speech marking one-year since January 6 attack: 'He can't accept he lost'</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
  <p class="updated_time"> 08:25 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/stephanie-grisham-trump-officials-meeting-cnntv/index.html">Stephanie Grisham says group of ex-Trump officials to meet next week to discuss how to 'stop' him</a> CNN: Former White House press secretary Stephanie Grisham said Thursday that more than a dozen of her former Trump administration colleagues plan to meet next week to try and stop former President Donald Trump as he continues to "manipulate people and divide our country." 
  <p class="updated_time"> 08:10 AM CT, Jan. 06 </p> 
@@ -198,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/06/andy-kim-reflects-jan-6-526568">‘What is it going to it take?’: Rep. Andy Kim reflects on division a year after Jan. 6</a> Politico: One year later, it’s still hard for the congressman to make sense of what happened at the Capitol. 
  <p class="updated_time"> 06:18 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/06/your-guide-to-jan-6-anniversary-coverage-495620"> Your guide to Jan. 6 anniversary coverage</a> Politico Playbook: And the Biden administration tries to straighten out its recent pandemic fumbles. 
- <p class="updated_time"> 06:16 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-memorial.html">One Year Later, Congress Weighs How to Memorialize Jan. 6 at the Capitol</a> NYT: In a building that is both a legislative body and a living museum, lawmakers are grappling with how to commemorate an attack whose victims cannot agree on the basic facts of the day. 
  <p class="updated_time"> 06:15 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/jamie-raskin-january-6-axe-files/index.html">Rep. Jamie Raskin recounts 'lifeline' he received after son's death and January 6 attack</a> CNN: Rep. Jamie Raskin said that becoming the lead House impeachment manager in former President Donald Trump's second impeachment trial last year served as a "lifeline" in the aftermath of his son's death and the January 6 insurrection at the US Capitol. 
  <p class="updated_time"> 06:08 AM CT, Jan. 06 </p> 
@@ -209,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:47 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/lawmakers-react-capitol-riot-anniversary/index.html">'A harsher, colder place': How January 6 changed Congress and some members forever</a> CNN: On January 6, 2021, Rep. Dan Kildee, a Democrat from Michigan, was prepared for a long day. 
  <p class="updated_time"> 05:33 AM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1069979415/biden-harris-jan-6-insurrection-speech">Watch: President Biden blames Trump for the Capitol riot in a Jan. 6 speech</a> NPR: Biden is marking the anniversary with a speech at the Capitol in which he strongly condemned the violence and said Trump "has created and spread a web of lies about the 2020 election." 
+ <a href="https://www.npr.org/2022/01/06/1069979415/biden-harris-jan-6-insurrection-speech">President Biden blasts Trump for 'spreading a web of lies' in a Jan. 6 speech</a> NPR: Biden never uttered Trump's name but referred repeatedly to him with forceful and at times personal denunciations of his actions. "He's not just a former president. He's a defeated former president." 
  <p class="updated_time"> 05:14 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/maricopa-county-rebut-2020-election-review/index.html">'We're done. This is the end of the 2020 election': Maricopa County officials rebut error-plagued review</a> CNN: Maricopa County officials on Wednesday undercut nearly every claim that cast doubt on the validity of ballots in an error-plagued report that Arizona Senate Republicans had commissioned of the 2020 election. 
  <p class="updated_time"> 05:03 AM CT, Jan. 06 </p> 
@@ -272,16 +276,14 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/05/politics/january-6-committee-2022-strategy/index.html">Here's the January 6 panel's strategy for 2022</a> CNN: As the first anniversary of the attack on the US Capitol approaches, the House committee investigating January 6 faces its biggest challenge yet: proving allegations that there was a coordinated effort behind the insurrection and convincing the American people that former President Donald Trump was complicit. 
  <p class="updated_time"> 06:02 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/democrats-biden-agenda-loss/index.html">Democrats at a loss over path to enact Biden agenda: It feels 'like Groundhog Day'</a> CNN: Democratic senators are beginning 2022 where they left 2021: With no clear path to pass their agenda and ample frustration in the ranks. 
- <p class="updated_time"> 06:00 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/americans-political-violence-capitol-riot.html">A Year After Jan. 6, Millions of Americans Support Violence</a> NYT: Probably a lot fewer than you’ve been led to believe, but more than enough to make you nervous. 
+ <p class="updated_time"> 05:58 PM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/cdc-advisers-teen-pfizer-covid-booster-526572">CDC recommends all teens get Pfizer Covid booster</a> Politico: The advisory panel signed off on the recommendation following presentations by doctors suggesting boosters are likely to increase antibodies in young teens. 
  <p class="updated_time"> 05:14 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/violent-rhetoric-january-6-anniversary/index.html">Uptick in violent rhetoric ahead of January 6 Capitol attack anniversary, but no specific plot</a> CNN: In the days ahead of the anniversary of the January 6 US Capitol attack, federal officials have seen an increase in unspecified calls for violence, the targeting of politicians and calls for rebellion on domestic violent extremist forums, according to a federal law enforcement official. However, there is still nothing to suggest a coordinated plan or specific threat, the official and other law enforcement sources said. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
  <p class="updated_time"> 04:51 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/capitol-police-january-6.html">Capitol Police Chief Commits to Security Improvements After Jan. 6</a> NYT: Chief J. Thomas Manger, the head of an agency still reeling from the Jan. 6 attack, told lawmakers he was already addressing most of the 103 recommendations from an internal watchdog. 
- <p class="updated_time"> 04:48 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/technology/jan-6-anniversary-social-media.html">Right-Wing Calls to Celebrate Jan. 6 Anniversary Draw a Muted Response</a> NYT: Online chatter about holding rallies has grown, but sizable real-world gatherings on Thursday are unlikely to materialize. 
  <p class="updated_time"> 04:31 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
  <p class="updated_time"> 04:24 PM CT, Jan. 05 </p> 
@@ -320,8 +322,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/mcconnell-electoral-count-act-reform-526542">McConnell cracks door to Electoral Count Act reform</a> Politico: “It obviously has some flaws. And it is worth, I think, discussing,” the Senate minority leader said Wednesday. 
  <p class="updated_time"> 11:13 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/republican-impeachment-votes-trump-jan-6.html">10 Republicans Voted to Impeach Trump. What's Become of Them?</a> NYT: Ten House Republicans voted to charge President Donald J. Trump with inciting the Capitol attack. All of them are still struggling with the consequences. 
- <p class="updated_time"> 10:25 AM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/fads-crypto-lobbying-politics-526538">NFTs move to influence Congress, even if lawmakers have no clue what they are</a> Politico: For the first time, a company has registered to lobby the federal government on non-fungible tokens. 
+ <p class="updated_time"> 09:47 AM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/chicago-schools-shutdown-teachers-covid-protest-526535">Chicago Public Schools shut down amid teachers union protest of Covid protocols</a> Politico: The union wants the school district to put in place a more robust testing policy. 
  <p class="updated_time"> 07:35 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/05/security-still-top-of-mind-a-year-after-capitol-attack-495603">Security still top of mind a year after Capitol attack</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
