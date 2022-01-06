@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:37 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/covid-variant-france.html">W.H.O. Downplays Threat From New Virus Variant in France</a> NYT: The so-called I.H.U. variant contains numerous mutations of the coronavirus, but experts say it has shown little sign of spreading so far. 
  <p class="updated_time"> 09:47 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59889760?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Biden to blame Trump in anniversary speech</a> BBC: On the attack's anniversary, Mr Biden will say his predecessor holds "singular responsibility". 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59889760?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Biden to blame Trump for 'carnage' one year on</a> BBC: On the attack's anniversary, Mr Biden will say his predecessor holds "singular responsibility". 
  <p class="updated_time"> 09:40 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876989?at_medium=RSS&at_campaign=KARANGA">North Korea successfully tested hypersonic missile, says report</a> BBC: State media KNCA said the missile from yesterday's launch had "precisely hit" its target. 
  <p class="updated_time"> 09:14 PM CT, Jan. 05 </p> 
@@ -99,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59884801?at_medium=RSS&at_campaign=KARANGA">Pope Francis says choosing pets over kids is selfish</a> BBC: Pope Francis has said that those who choose to have pets over children show "a form of selfishness". 
  <p class="updated_time"> 09:48 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/05/1070546748/hong-kong-flight-ban">Hong Kong bans flights from U.S. and 7 other countries as omicron surges</a> NPR: Hong Kong authorities announced a two-week ban on flights from eight countries and held 2,500 passengers on a cruise ship for coronavirus testing as the city attempted to stem an omicron outbreak. 
- <p class="updated_time"> 08:55 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/covid-variant-france.html">W.H.O. Downplays Threat From New Virus Variant in France</a> NYT: The so-called I.H.U. variant contains numerous mutations of the coronavirus, but experts say it has shown little sign of spreading so far. 
  <p class="updated_time"> 08:24 AM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/records-could-shed-light-on-canada-residential-schools-for-indigenous-children-11641401061">Records Could Shed Light on Canada Schools for Indigenous Children</a> WSJ: The government came under increased pressure to turn over the documents after the discovery last year of more than 1,000 unmarked graves near former residential schools in western Canada. 
  <p class="updated_time"> 06:16 AM CT, Jan. 05 </p> 
@@ -228,6 +228,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/us/politics/biden-harris-voting-rights-speech-atlanta.html">With Legislation Stalled, Biden Will Speak in Atlanta on Voting Rights</a> NYT: He will be joined by Vice President Kamala Harris, who is leading the administration’s push for voting access. 
  <p class="updated_time"> 06:05 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/peter-velz-vincent-evans-kamala-harris/index.html">Two Harris staffers announce they're leaving vice president's office</a> CNN: Two staffers announced Wednesday that they are leaving Vice President Kamala Harris' office. 
+ <p class="updated_time"> 06:02 PM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/january-6-committee-2022-strategy/index.html">The January 6 investigation faces a pivotal year ahead</a> CNN: As the first anniversary of the attack on the US Capitol approaches, the House committee investigating January 6 faces its biggest challenge yet: proving allegations that there was a coordinated effort behind the insurrection and convincing the American people that former President Donald Trump was complicit. 
  <p class="updated_time"> 06:00 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/americans-political-violence-capitol-riot.html">A Year After Jan. 6, Millions of Americans Support Violence</a> NYT: Probably a lot fewer than you’ve been led to believe, but more than enough to make you nervous. 
  <p class="updated_time"> 05:58 PM CT, Jan. 05 </p> 
@@ -372,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/doj-domestic-terrorism-sentences-jan-6-526407">Why DOJ is avoiding domestic terrorism sentences for Jan. 6 defendants</a> Politico: Some judges have debated whether the charges qualify as “crimes of terrorism,” but prosecutors have repeatedly pulled back by citing unspecified “facts and circumstances.” 
  <p class="updated_time"> 08:41 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/rep-bobby-rush-wont-seek-reelection-526455">Bobby Rush to relinquish 30-year hold on House seat</a> Politico: The veteran Illinois congressman and former Black Panther leader said, “I’m not retiring … I’m just entering into a new level of my life.” 
- <p class="updated_time"> 02:27 PM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/03/politics/biden-meat-processing-industry/index.html">White House to invest $1 billion to boost competition in meat-processing industry and lower consumer prices</a> CNN: The White House on Monday announced it would allocate $1 billion in funding from the American Rescue Plan to independent meat and poultry producers as part of an effort to boost competition in the meat-processing industry and lower prices for consumers. 
  <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/marjorie-taylor-greene-facebook-suspension-526398">MTG hit with Facebook suspension after Twitter ban</a> Politico: “Facebook has joined Twitter in censoring me,” Greene (R-Ga.) wrote on Gettr, a social media platform favored by some right-wing conservatives. 
  <p class="updated_time"> 11:23 AM CT, Jan. 03 </p> 
