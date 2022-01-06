@@ -7,20 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:50 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Dozens killed in crackdown</a> BBC: Police say dozens of rioters were killed in an operation to restore order in the main city, Almaty. 
+ <p class="updated_time"> 01:50 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59889522?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels top tennis player's visa</a> BBC: But a decision on whether to deport the Serbian tennis star will only happen on Monday. 
  <p class="updated_time"> 01:28 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Russia-Allied Forces to Intervene as Unrest Sweeps Kazakhstan</a> NYT: The Kazakh president requested the peacekeeping troops as an uprising, sparked by a gas price increase in the resource-rich Central Asian nation, headed toward a fifth day. 
  <p class="updated_time"> 01:10 AM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070833478/north-korea-claims-second-successful-test-of-hypersonic-missile">North Korea claims second successful test of hypersonic missile</a> NPR: North Korea claimed Thursday to have conducted the second successful test flight of a hypersonic missile. Wednesday's launch was the North's first known weapons test in about two months. 
  <p class="updated_time"> 01:00 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Says It Tested a Hypersonic Missile</a> NYT: It was the latest in a series of tests the North has conducted this fall. 
- <p class="updated_time"> 12:57 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59889522?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels top tennis player's visa</a> BBC: The Serbian tennis star has launched an appeal after being detained in a hotel awaiting deportation. 
  <p class="updated_time"> 12:06 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59856628?at_medium=RSS&at_campaign=KARANGA">India PM Narendra Modi trapped on Punjab flyover in security breach</a> BBC: The Indian PM cut short a visit to Punjab after protesting farmers blocked his convoy's route. 
  <p class="updated_time"> 11:44 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/sports/tennis/novak-djokovic-australia-visa.html">Novak Djokovic Is Refused Entry Into Australia Over Vaccine Exemption</a> NYT: The No. 1 men’s tennis player was told to leave the country following a 10-hour standoff with government officials at a Melbourne airport. He remained as he awaited the fate of a legal appeal. 
- <p class="updated_time"> 11:32 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Government calls for Russian help</a> BBC: A Russian-led military alliance will send a peacekeeping force as nationwide protests escalate. 
  <p class="updated_time"> 11:10 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59890533?at_medium=RSS&at_campaign=KARANGA">Xi'an: The messy cost of China's Covid lockdown playbook</a> BBC: With stories of starvation and deaths, has anything been learnt from two years of strict measures? 
  <p class="updated_time"> 11:07 PM CT, Jan. 05 </p> 
