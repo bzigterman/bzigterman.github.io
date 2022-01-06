@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:31 AM CT, Jan. 06 </p> 
+ <p class="updated_time"> 08:42 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/01/06/world/omicron-covid-vaccine-tests">Covid Live Updates: Americans Resist Boosters Even as U.S. Expands Eligibility</a> NYT: Only about 35 percent of Americans have received a booster, despite the United States moving rapidly to expand who can receive additional shots. 
  <p class="updated_time"> 08:04 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Dozens killed in crackdown</a> BBC: Police say rioters were killed in an operation to restore order in the main city, Almaty. 
@@ -183,7 +183,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 08:28 AM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden's January 6 speech to focus on Trump's 'singular responsibility' in the insurrection</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
+ <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden calls out Trump in speech marking one-year since January 6 attack: 'He can't accept he lost'</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
  <p class="updated_time"> 08:25 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/stephanie-grisham-trump-officials-meeting-cnntv/index.html">Stephanie Grisham says group of ex-Trump officials to meet next week to discuss how to 'stop' him</a> CNN: Former White House press secretary Stephanie Grisham said Thursday that more than a dozen of her former Trump administration colleagues plan to meet next week to try and stop former President Donald Trump as he continues to "manipulate people and divide our country." 
  <p class="updated_time"> 08:10 AM CT, Jan. 06 </p> 
@@ -213,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:47 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/lawmakers-react-capitol-riot-anniversary/index.html">'A harsher, colder place': How January 6 changed Congress and some members forever</a> CNN: On January 6, 2021, Rep. Dan Kildee, a Democrat from Michigan, was prepared for a long day. 
  <p class="updated_time"> 05:33 AM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1069979415/biden-harris-jan-6-insurrection-speech">Watch: President Biden blames Trump for the Capitol riot in a Jan. 6 speech</a> NPR: In a speech at the Capitol marking the riot's one-year anniversary, Biden lays out "the singular responsibility President Trump has for the chaos and carnage," said press secretary Jen Psaki. 
+ <a href="https://www.npr.org/2022/01/06/1069979415/biden-harris-jan-6-insurrection-speech">Watch: President Biden blames Trump for the Capitol riot in a Jan. 6 speech</a> NPR: Biden is marking the anniversary with a speech at the Capitol in which he strongly condemned the violence and said Trump "has created and spread a web of lies about the 2020 election." 
  <p class="updated_time"> 05:14 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/maricopa-county-rebut-2020-election-review/index.html">'We're done. This is the end of the 2020 election': Maricopa County officials rebut error-plagued review</a> CNN: Maricopa County officials on Wednesday undercut nearly every claim that cast doubt on the validity of ballots in an error-plagued report that Arizona Senate Republicans had commissioned of the 2020 election. 
  <p class="updated_time"> 05:03 AM CT, Jan. 06 </p> 
