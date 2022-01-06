@@ -10,7 +10,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:34 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests">Live Updates: Russia Sends Troops to Kazakhstan as Dozens of Protesters Are Killed</a> NYT: A revolt sparked by anger over a surge in fuel prices is convulsing the Central Asian nation. As protests turned deadly, troops from a Russian-led alliance began arriving in the country. 
  <p class="updated_time"> 11:22 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59898559?at_medium=RSS&at_campaign=KARANGA">US Capitol attack: Rioters 'held dagger to the throat of America' - Biden</a> BBC: On the anniversary of the Capitol attack, the US president says "the pain and scars" run deep. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59898559?at_medium=RSS&at_campaign=KARANGA">US Capitol attack: Rioters held dagger to the throat of America - Biden</a> BBC: On the anniversary of the Capitol attack, the US president says "the pain and scars" run deep. 
  <p class="updated_time"> 11:22 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59882444?at_medium=RSS&at_campaign=KARANGA">Ashers 'gay cake' case: European court rules case inadmissible</a> BBC: A bakery firm was taken to court for refusing to make a cake with a "Support Gay Marriage" slogan. 
  <p class="updated_time"> 11:18 AM CT, Jan. 06 </p> 
@@ -184,16 +184,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:39 PM CT, Jan. 06 </p> 
+ <a href="https://www.politico.com/news/2022/01/06/harris-hires-a-new-comms-director-jamal-simmons-526626">Harris hires a new comms director, Jamal Simmons</a> Politico: The longtime Democratic operative is a big name. He comes to a staff that's been losing talent. 
  <p class="updated_time"> 12:04 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/former-administration-officials-block-trump-526623">Ex-Trumpers set to plot how to try and take down Trump</a> Politico: Those involved include Stephanie Grisham, Miles Taylor, Olivia Troye and Anthony Scaramucci. 
- <p class="updated_time"> 11:26 AM CT, Jan. 06 </p> 
+ <p class="updated_time"> 11:42 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/taylor-greene-gaetz-bannon-jan-6.html">On Bannon's Show, Gaetz and Taylor Greene Redirect Jan. 6 Blame</a> NYT: The idea that people other than Mr. Trump’s own supporters were responsible for the violence that day has become a popular conspiracy theory among the far right. 
+ <p class="updated_time"> 11:40 AM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/jamal-simmons-kamala-harris/index.html">Kamala Harris to name Jamal Simmons as communications director</a> CNN: Jamal Simmons, a Democratic communications aide and media contributor, has been tapped to be Vice President Kamala Harris' new communications director, a White House official confirms. 
  <p class="updated_time"> 11:23 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/americans-political-violence-capitol-riot.html">A Year After Jan. 6, Millions of Americans Support Violence</a> NYT: Probably a lot fewer than you’ve been led to believe, but more than enough to make you nervous. 
  <p class="updated_time"> 11:21 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/federal-reserve-ethics-clarida-526618">Fed ethics scandal reignited over new disclosures by top official</a> Politico: The news puts fresh scrutiny on Chair Jerome Powell, who will face the Senate Banking Committee for his confirmation hearing next week. 
- <p class="updated_time"> 11:16 AM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/jamal-simmons-kamala-harris/index.html">Kamala Harris to name Jamal Simmons as communications director</a> CNN: Jamal Simmons, a Democratic communications aide and media contributor, has been tapped to be Vice President Kamala Harris' new communications director, a White House official confirms. 
  <p class="updated_time"> 11:14 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/dozens-of-protesters-12-police-dead-in-kazakhstan-protests-526614">Dozens of protesters, 12 police dead in Kazakhstan protests</a> Politico: Security forces killed dozens of protesters and 12 police died during extraordinarily violent demonstrations in Kazakhstan that saw government buildings stormed and set ablaze. 
  <p class="updated_time"> 11:00 AM CT, Jan. 06 </p> 
@@ -302,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/05/politics/january-6-committee-2022-strategy/index.html">Here's the January 6 panel's strategy for 2022</a> CNN: As the first anniversary of the attack on the US Capitol approaches, the House committee investigating January 6 faces its biggest challenge yet: proving allegations that there was a coordinated effort behind the insurrection and convincing the American people that former President Donald Trump was complicit. 
  <p class="updated_time"> 06:02 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/democrats-biden-agenda-loss/index.html">Democrats at a loss over path to enact Biden agenda: It feels 'like Groundhog Day'</a> CNN: Democratic senators are beginning 2022 where they left 2021: With no clear path to pass their agenda and ample frustration in the ranks. 
- <p class="updated_time"> 05:58 PM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/cdc-advisers-teen-pfizer-covid-booster-526572">CDC recommends all teens get Pfizer Covid booster</a> Politico: The advisory panel signed off on the recommendation following presentations by doctors suggesting boosters are likely to increase antibodies in young teens. 
  <p class="updated_time"> 05:14 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/violent-rhetoric-january-6-anniversary/index.html">Uptick in violent rhetoric ahead of January 6 Capitol attack anniversary, but no specific plot</a> CNN: In the days ahead of the anniversary of the January 6 US Capitol attack, federal officials have seen an increase in unspecified calls for violence, the targeting of politicians and calls for rebellion on domestic violent extremist forums, according to a federal law enforcement official. However, there is still nothing to suggest a coordinated plan or specific threat, the official and other law enforcement sources said. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
