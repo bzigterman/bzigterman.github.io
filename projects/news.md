@@ -192,6 +192,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:31 PM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/chicago-mayor-lightfood-teachers-union-laughingstock-526600">Chicago mayor: Teachers union made us a ‘laughingstock’</a> Politico: As the Omicron variant triggers a new wave of Covid-19 cases, educators in the nation's third-largest school district voted late Tuesday to not report to work. 
+ <p class="updated_time"> 09:38 PM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/blinken-russia-two-paths/index.html">Blinken says Russia faces 'two paths' ahead of key meetings with US next week</a> CNN: US Secretary of State Antony Blinken stressed Wednesday that Russia must de-escalate tensions on the border with Ukraine in order for upcoming diplomatic meetings to succeed, saying "it's very hard to make actual progress in any of these areas in an atmosphere of escalation and threat, with a gun pointed at Ukraine's head." 
  <p class="updated_time"> 08:54 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/michael-carvajal-resigns-prisons.html">Michael Carvajal Is Resigning After Rocky Tenure</a> NYT: Michael Carvajal took over the Bureau of Prisons in February 2020, just as the coronavirus began to sweep through the nation’s prisons. 
  <p class="updated_time"> 08:45 PM CT, Jan. 05 </p> 
@@ -262,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070362852/trump-big-lie-election-jan-6-families">They believe in Trump's 'Big Lie.' Here's why it's been so hard to dispel</a> NPR: The resilience of the "Big Lie" is prompting consternation and creative efforts to reach those who remain adamant — despite all evidence to the contrary — that the 2020 Presidential vote was rigged. 
  <p class="updated_time"> 03:10 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/capitol-riot-perretta-vukich/index.html">'This wasn't Bill and Ted's Excellent Adventure': Judge sentences pair of Capitol rioters to 30 days behind bars</a> CNN: Two friends who entered the US Capitol together on January 6, one of whom boasted about breaking in and smoking a joint, were sentenced to 30 days in jail each for unlawfully parading in the building. 
- <p class="updated_time"> 03:03 PM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/blinken-russia-two-paths/index.html">Blinken says Russia faces 'two paths' ahead of key meetings with US next week</a> CNN: US Secretary of State Antony Blinken stressed Wednesday that Russia must de-escalate tensions on the border with Ukraine in order for upcoming diplomatic meetings to succeed, saying "it's very hard to make actual progress in any of these areas in an atmosphere of escalation and threat, with a gun pointed at Ukraine's head." 
  <p class="updated_time"> 02:52 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/green-village-attack-us-coalition-forces-iranian-militias/index.html">Iraqi and Syrian bases holding US troops attacked, but no American forces were killed </a> CNN: US-led coalition forces fired back after they were attacked Wednesday morning by suspected Iranian-backed militias who fired eight rounds of indirect fire at their base in eastern Syria near the Iraqi border, though there were no coalition casualties, according to a statement from the coalition. 
  <p class="updated_time"> 02:27 PM CT, Jan. 05 </p> 
@@ -298,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/05/politics/manchin-child-tax-credit-income-limit/index.html">Manchin says too many higher-income families qualify for the child tax credit. But the 2017 GOP tax law made that happen</a> CNN: West Virginia Sen. Joe Manchin has lots of issues with the Democrats' expanded child tax credit, which is a main reason why his party's plan to extend it for another year is on ice. 
  <p class="updated_time"> 10:25 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/fads-crypto-lobbying-politics-526538">NFTs move to influence Congress, even if lawmakers have no clue what they are</a> Politico: For the first time, a company has registered to lobby the federal government on non-fungible tokens. 
- <p class="updated_time"> 09:47 AM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/chicago-schools-shutdown-teachers-covid-protest-526535">Chicago Public Schools shut down amid teachers union protest of Covid protocols</a> Politico: The union wants the school district to put in place a more robust testing policy. 
  <p class="updated_time"> 09:37 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/jan-6-capitol-riot-investigation.html">Prosecutors Move Quickly on Jan. 6 Cases, but One Big Question Remains</a> NYT: In the year since the assault on the Capitol by a pro-Trump mob, more than 700 people have been arrested, with little public indication from the Justice Department of how high the investigation might reach. 
  <p class="updated_time"> 08:04 AM CT, Jan. 05 </p> 
@@ -330,6 +330,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/upshot/biden-child-tax-credit.html">Why Biden’s Expanded Child Tax Credit Isn’t More Popular</a> NYT: The expansion has expired, and a bill to renew it has stalled. Public opinion is favorable but not overwhelmingly so, for several reasons. 
  <p class="updated_time"> 11:37 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/fact-check-capitol-insurrection-january-6-lies/index.html">Fact check: Five enduring lies about the Capitol insurrection</a> CNN: The Capitol insurrection was based on a lie about the 2020 election. And for a whole year now, the insurrection itself has been lied about. 
+ <p class="updated_time"> 10:24 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/sebastian-gorka-jan-6-committee-526534">Jan. 6 committee seeking phone records from Sebastian Gorka</a> Politico: The radio host is suing to block the panel from getting his records. 
  <p class="updated_time"> 10:16 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
  <p class="updated_time"> 07:30 PM CT, Jan. 04 </p> 
@@ -350,6 +352,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070338031/what-u-s-capitol-security-looks-like-a-year-after-the-jan-6-insurrection">What U.S. Capitol security looks like a year after the Jan. 6 insurrection</a> NPR: A year after the Jan. 6 riot, a new team of Capitol security leaders are in place, and congressional probes are investigating what went wrong that day. The partisan divide in Congress has intensified. 
  <p class="updated_time"> 03:46 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070337975/democrats-revisit-voting-rights-legislation-around-jan-6-anniversary">Democrats revisit voting rights legislation around Jan. 6 anniversary</a> NPR: Democrats are making a fresh push on voting rights legislation around the anniversary of the Jan. 6 insurrection, while also trying to revive President Biden's Build Back Better agenda. 
+ <p class="updated_time"> 03:36 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/police-officer-lawsuits-capitol-riot-trump-526491">Police officer lawsuits pile up against Trump over Jan. 6</a> Politico: Three more officers who responded to the Jan. 6 attack filed a lawsuit against the former president Tuesday, seeking damages for physical and emotional injuries. 
  <p class="updated_time"> 03:24 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070337968/why-is-the-big-lie-proving-so-hard-to-dispel">Why is the 'Big Lie' proving so hard to dispel?</a> NPR: One year after the insurrection at the U.S. Capitol, a new NPR/Ipsos poll shows many Americans still buy into the "Big Lie": the baseless claim that the 2020 election was stolen. 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
@@ -362,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/ruben-gallego-merrick-garland-capitol-attack-526480">Gallego: Garland 'extremely weak' on Jan. 6 cases</a> Politico: The Arizona Democrat also directed his ire at GOP lawmakers who he accused of trying to shield Jan. 6 rioters. 
  <p class="updated_time"> 07:51 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/04/toxic-positivity-rates-on-capitol-hill-495587">Toxic positivity (rates) on Capitol Hill</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:32 AM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/jan-6-committee-oath-keepers-phone-records-526477">Jan. 6 committee seeking phone records of 2 Oath Keepers facing conspiracy charges</a> Politico: Kelly and Connie Meggs say they were notified of the subpoena by Verizon last month. 
  <p class="updated_time"> 06:18 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/04/the-election-reform-idea-gaining-currency-on-the-right-495582"> The election reform idea gaining currency on the right</a> Politico Playbook: And Rep. Bobby Rush (D-Ill.) says he won't seek reelection. 
  <p class="updated_time"> 05:00 AM CT, Jan. 04 </p> 
