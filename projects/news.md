@@ -7,14 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:10 PM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59890533?at_medium=RSS&at_campaign=KARANGA">Xi'an: The messy cost of China's Covid lockdown playbook</a> BBC: With stories of starvation and deaths, has anything been learnt from two years of strict measures? 
+ <p class="updated_time"> 11:07 PM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59890816?at_medium=RSS&at_campaign=KARANGA">Covid-19: India records first death linked to Omicron variant</a> BBC: The 74-year-old man had diabetes and other comorbidities but, reports say, he was fully vaccinated. 
+ <p class="updated_time"> 11:04 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/sports/tennis/novak-djokovic-australia-visa.html">Novak Djokovic Is Refused Entry Into Australia Over Vaccine Exemption</a> NYT: The No. 1 men’s tennis player was told to leave the country following a 10-hour standoff with government officials at a Melbourne airport, ending his chance to defend his Australian Open title. 
+ <p class="updated_time"> 11:04 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/asia/india-omicron-coronavirus.html">India’s Rising Omicron Wave Brings a Grim Sense of Déjà Vu</a> NYT: Just months after Delta fueled hospital failures and funeral pyres, India’s leaders again offer a mixed message: Their political rallies are packed even as they order curfews and work closures. 
  <p class="updated_time"> 10:54 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876989?at_medium=RSS&at_campaign=KARANGA">North Korea successfully tested hypersonic missile, says report</a> BBC: State media KNCA said the missile from yesterday's launch had "precisely hit" its target. 
  <p class="updated_time"> 10:37 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/covid-variant-france.html">W.H.O. Downplays Threat From New Virus Variant in France</a> NYT: The so-called I.H.U. variant contains numerous mutations of the coronavirus, but experts say it has shown little sign of spreading so far. 
+ <p class="updated_time"> 10:30 PM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59890338?at_medium=RSS&at_campaign=KARANGA">Taiwan setting up $200m Lithuania fund amid China row</a> BBC: China downgraded its diplomatic relations with Lithuania after Taiwan opened a de facto embassy there. 
  <p class="updated_time"> 09:47 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59889760?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Biden to blame Trump for 'carnage' one year on</a> BBC: On the attack's anniversary, Mr Biden will say his predecessor holds "singular responsibility". 
- <p class="updated_time"> 09:14 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/sports/tennis/novak-djokovic-australia-visa.html">Novak Djokovic Is Refused Entry Into Australia Over Vaccine Exemption</a> NYT: The No. 1 men’s tennis player was told to leave the country following a 10-hour standoff with government officials at a Melbourne airport, ending his chance to defend his Australian Open title. 
  <p class="updated_time"> 08:57 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 07:51 PM CT, Jan. 05 </p> 
@@ -77,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070622365/kazakhstan-is-in-turmoil-after-massive-protests-force-the-government-to-resign">Kazakhstan is in turmoil after massive protests force the government to resign</a> NPR: A sudden hike in fuel prices drew intense public condemnation over the weekend. Protesters have seized the airport in the largest city, Almaty, and stormed public buildings. 
  <p class="updated_time"> 12:17 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070514847/the-global-supply-chain-arriving-today-christopher-mims">The global supply chain is amazingly efficient. So why did it break down?</a> NPR: "Americans went on a shopping spree as soon as lockdown started, and we haven't really stopped," journalist Christopher Mims says. His book, Arriving Today, goes inside the global supply chain. 
- <p class="updated_time"> 11:51 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/asia/india-omicron-coronavirus.html">India’s Rising Omicron Wave Brings a Grim Sense of Déjà Vu</a> NYT: Just months after Delta fueled hospital failures and funeral pyres, India’s leaders again offer a mixed message: Their political rallies are packed even as they order curfews and work closures. 
  <p class="updated_time"> 11:47 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/05/1070046189/a-texas-team-comes-up-with-a-covid-vaccine-that-could-be-a-global-game-changer">A Texas team comes up with a COVID vaccine that could be a global game changer</a> NPR: Peter Hotez and Maria Elena Bottazzi used an oldie-but- goodie technology to devise a vaccine that's easy to make — and relatively cheap. India has already ordered 300 million doses. 
  <p class="updated_time"> 11:13 AM CT, Jan. 05 </p> 
@@ -103,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/05/1070546748/hong-kong-flight-ban">Hong Kong bans flights from U.S. and 7 other countries as omicron surges</a> NPR: Hong Kong authorities announced a two-week ban on flights from eight countries and held 2,500 passengers on a cruise ship for coronavirus testing as the city attempted to stem an omicron outbreak. 
  <p class="updated_time"> 08:24 AM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/records-could-shed-light-on-canada-residential-schools-for-indigenous-children-11641401061">Records Could Shed Light on Canada Schools for Indigenous Children</a> WSJ: The government came under increased pressure to turn over the documents after the discovery last year of more than 1,000 unmarked graves near former residential schools in western Canada. 
- <p class="updated_time"> 06:16 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59879760?at_medium=RSS&at_campaign=KARANGA">Kosovo bans cryptocurrency mining after blackouts</a> BBC: The Balkan country is enforcing blackouts amid an electricity shortage caused by high global prices. 
  <p class="updated_time"> 05:57 AM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/prince-andrews-legal-woes-present-another-headache-for-u-k-royal-family-11641401849">Prince Andrew's Legal Woes Present Another Headache for U.K. Royal Family</a> WSJ: Allegations that the queen’s second son abused a 17-year-old girl loom large over the House of Windsor. 
  <p class="updated_time"> 05:15 AM CT, Jan. 05 </p> 
@@ -145,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/europe/ireland-alcohol-minimum-unit-price.html">Ireland Puts Minimum Price on Alcohol to Curb Binge Drinking</a> NYT: The new rule, part of broader legislation aimed at stemming alcohol-related illnesses, sets a minimum price of one euro per standard drink and came into effect on Tuesday. 
  <p class="updated_time"> 01:08 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/tony-blair-knighthood-petition-rescind.html">Petition to Rescind Tony Blair’s Knighthood Gets Hundreds of Thousands of Signatures</a> NYT: Nearly 15 years after he left office, the prime minister’s support for the Iraq war has not been forgiven by many in Britain. 
- <p class="updated_time"> 12:07 PM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59871779?at_medium=RSS&at_campaign=KARANGA">Europe's tattoo artists fear for future after EU ink ban</a> BBC: Thousands of chemicals are banned by EU for safety reasons, but tattooists say it will hit business. 
  <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59871267?at_medium=RSS&at_campaign=KARANGA">US snow: Major snowfall blankets Washington DC</a> BBC: Snow causes fun and frustration in Washington DC. 
  <p class="updated_time"> 06:37 AM CT, Jan. 04 </p> 
