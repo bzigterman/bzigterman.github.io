@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:45 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/06/world/omicron-covid-vaccine-tests">Covid Live Updates: Americans Resist Boosters Even as U.S. Expands Eligibility</a> NYT: Only about 35 percent of Americans have received a booster, despite the United States moving rapidly to expand who can receive additional shots. 
  <p class="updated_time"> 07:31 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59896771?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic will be deported if he hasn't told truth, deputy PM says</a> BBC: Rich people are not above the law, Australia's deputy PM says, as the player launches legal appeal. 
- <p class="updated_time"> 07:30 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/01/06/world/omicron-covid-vaccine-tests">Covid Live Updates: Americans Resist Boosters Even as U.S. Expands Eligibility</a> NYT: Only about 35 percent of Americans have received a booster, despite the United States moving rapidly to expand who can receive additional shots. 
  <p class="updated_time"> 07:29 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests/kazakhstan-protests">After dozens are reported dead in Kazakhstan, troops from a Russian alliance begin to deploy.</a> NYT: A revolt sparked by anger over a surge in fuel prices is convulsing the Central Asian nation on Russia’s doorstep. As protests turned deadly, troops from a Russian-led military alliance began arriving in the country. 
  <p class="updated_time"> 06:57 AM CT, Jan. 06 </p> 
@@ -184,14 +184,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/06/a-year-later-the-hill-is-no-longer-the-safest-place-495624">A year later, the Hill ‘is no longer the safest place'</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:46 AM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/cheney-pence-january-6/index.html">Cheney said the January 6 committee 'looks forward to' cooperation from Pence and his team</a> CNN: Rep. Liz Cheney, the vice chairwoman of the House select committee investigating the January 6 insurrection, said Thursday she is looking forward to Vice President Mike Pence's cooperation and his team "continuing" their cooperation in the panel's investigation. 
  <p class="updated_time"> 07:32 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/facebook-lawsuit-slain-officer/index.html">Sister of slain federal officer sues Facebook, accusing social media company of promoting violent content and connecting alleged killers online   </a> CNN: Facebook is the target of a new lawsuit from the sister of a slain federal officer who claims the tech giant's algorithms and drive for revenue played an active role encouraging her brother's alleged killers. 
  <p class="updated_time"> 07:23 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-anniversary-events.html">Jan. 6 Capitol Attack Anniversary Events Timeline</a> NYT: Speeches by President Biden and Vice President Kamala Harris are part of the events to mark the anniversary of the attack on the Capitol. 
  <p class="updated_time"> 07:00 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/andy-kim-reflects-jan-6-526568">‘What is it going to it take?’: Rep. Andy Kim reflects on division a year after Jan. 6</a> Politico: One year later, it’s still hard for the congressman to make sense of what happened at the Capitol. 
- <p class="updated_time"> 06:57 AM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/cheney-pence-january-6/index.html">Cheney said the January 6 committee 'looks forward to' cooperation from Pence and his team</a> CNN: Rep. Liz Cheney, the vice chairwoman of the House select committee investigating the January 6 insurrection, said Thursday she is looking forward to Vice President Mike Pence's cooperation and his team "continuing" their cooperation in the panel's investigation. 
  <p class="updated_time"> 06:49 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/january-6-insurrection-legacy/index.html">January 6 may be only a preview of a deeper democratic rupture</a> CNN: If January 6, 2021, was just one infamous day in history, its stain on the American story would still reverberate through generations. 
  <p class="updated_time"> 06:18 AM CT, Jan. 06 </p> 
