@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:36 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/world/asia/china-xian-lockdown-covid.html">Xi'an Is China's Biggest Covid Challenge Since Wuhan</a> NYT: Xi’an, a city of 13 million people, has been on lockdown since Dec. 22, the longest in the country since the early days of the outbreak in Wuhan. 
+ <p class="updated_time"> 05:33 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-putin-russia.html">In Kazakhstan, Putin Again Seizes on Unrest to Try to Expand Influence</a> NYT: But a series of revolts against a pro-Russian strongmen could also plant the seeds of rebellion at home, analysts say. 
+ <p class="updated_time"> 05:20 PM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59901094?at_medium=RSS&at_campaign=KARANGA">Djokovic stay highlights refugee concerns at Melbourne detention hotel</a> BBC: People held at the detention hotel - some for years - complain of mouldy food and poor conditions. 
  <p class="updated_time"> 05:20 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59898559?at_medium=RSS&at_campaign=KARANGA">US Capitol attack: Rioters held dagger to the throat of America - Biden</a> BBC: On the anniversary of the Capitol attack, the US president says "the pain and scars" run deep. 
  <p class="updated_time"> 05:13 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-59902320?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Djokovic in immigration detention</a> BBC: The BBC's Ros Atkins looks at the twists and turns of the row over the tennis star's cancelled visa. 
- <p class="updated_time"> 04:37 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-putin-russia.html">In Kazakhstan, Putin Again Seizes on Unrest to Try to Expand Influence</a> NYT: But a series of revolts against a pro-Russian strongmen could also plant the seeds of rebellion at home, analysts say. 
  <p class="updated_time"> 04:35 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-defector-dmz.html">North Korea Defector Crosses DMZ Border Twice</a> NYT: Officials say a North Korean who crossed the DMZ in 2020 crossed it again to go back. His life in the South seems to have been one of poverty and isolation. 
  <p class="updated_time"> 04:31 PM CT, Jan. 06 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59882444?at_medium=RSS&at_campaign=KARANGA">Ashers 'gay cake' case: European court rules case inadmissible</a> BBC: A bakery firm was taken to court for refusing to make a cake with a "Support Gay Marriage" slogan. 
  <p class="updated_time"> 11:09 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html">Using Harsh Language, Macron Issues a Challenge to the Unvaccinated</a> NYT: The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds. 
- <p class="updated_time"> 10:59 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59900129?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Serbs seethe over tennis hero's entry ban</a> BBC: Compatriots rally behind their icon as he fights deportation from Australia over vaccine rules. 
  <p class="updated_time"> 09:54 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/explainers-59894266?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Why have there been riots and deaths?</a> BBC: Security forces have killed dozens of suspected rioters and Russian troops have been called in. 
  <p class="updated_time"> 09:13 AM CT, Jan. 06 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/climate/lithium-chile.html">Mining of Lithium, Key to the Climate Fight, Faces New Scrutiny in Chile</a> NYT: Politicians have called for a pause in new mining contracts for lithium, which is in high demand for electric car batteries but is at the heart of a debate in Chile over mines, water rights and inequality. 
  <p class="updated_time"> 06:41 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/novak-djokovic-covid.html">Novak Djokovic Collides With Australia’s Covid Fight</a> NYT: Barring the tennis star from entering the country offers a chance to change the subject as an election looms and coronavirus cases are at record highs. 
- <p class="updated_time"> 04:57 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/asia/china-xian-lockdown-covid.html">Xi'an Is China's Biggest Covid Challenge Since Wuhan</a> NYT: Xi’an, a city of 13 million people, has been on lockdown since Dec. 22, the longest in the country since the early days of the outbreak in Wuhan. 
  <p class="updated_time"> 04:05 AM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070856065/china-lashes-out-at-us-for-supporting-lithuania-in-feud-with-beijing-over-taiwan">China lashes out at U.S. for supporting Lithuania in feud with Beijing over Taiwan</a> NPR: China lashed out at the United States over its support for the Baltic nation of Lithuania in its feud with Beijing over relations with Taiwan. 
  <p class="updated_time"> 02:48 AM CT, Jan. 06 </p> 
@@ -184,14 +184,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:34 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-events-takeaways.html">4 Takeaways From the Jan. 6 Capitol Attack Commemoration</a> NYT: President Biden took a confrontational approach to his predecessor, who isn’t going away, and other takeaways from the commemoration events. 
+ <p class="updated_time"> 05:19 PM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/kamala-harris-january-2021/index.html">Kamala Harris was evacuated from DNC headquarters minutes after pipe bomb discovered during Capitol riot</a> CNN: Vice President Kamala Harris was evacuated from the Democratic National Committee headquarters in Washington on January 6, 2021, minutes after a pipe bomb was discovered nearby. 
  <p class="updated_time"> 05:14 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-lies.html">The Next Big Lies: Jan. 6 Was No Big Deal, or a Left-Wing Plot</a> NYT: How revisionist histories of Jan. 6 picked up where the “stop the steal” campaign left off, warping beliefs about what transpired at the Capitol. 
  <p class="updated_time"> 04:55 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/harris-was-inside-dnc-on-jan-6-when-pipe-bomb-was-discovered-outside-526695">Harris was inside DNC on Jan. 6 when pipe bomb was discovered outside</a> Politico: The then-vice president-elect’s presence inside the building while a bomb was right outside raises sobering questions about her security that day. 
  <p class="updated_time"> 04:54 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden condemns Trump as a threat to democracy in speech marking one year since January 6 attack</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
+ <p class="updated_time"> 04:51 PM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/capitol-police-intelligence-reports/index.html">Capitol Police intel division assessments are a haunting reminder of the pre-January 6 mindset</a> CNN: In the three weeks leading up to the January 6, 2021, insurrection, the US Capitol Police intelligence division produced four Special Event Assessments showing mounting evidence of a potentially volatile situation, as part of its overall effort to help the agency determine its security posture that day. 
  <p class="updated_time"> 04:49 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-jan-6-capitol-attack.html">Biden Holds Trump Responsible in Jan. 6 Speech</a> NYT: In a speech at the Capitol marking the anniversary of the Jan. 6 attack, President Biden offered his most sustained condemnation of his predecessor’s “web of lies about the 2020 election.” 
+ <p class="updated_time"> 04:35 PM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/nicholas-kristof-residency-requirement-oregon-governor-race/index.html">Nicholas Kristof does not meet residency requirements to run for governor, Oregon Elections Division says</a> CNN: Former New York Times journalist Nicholas Kristof does not meet the residency requirements to run for governor in Oregon, the state Elections Division said Thursday. 
  <p class="updated_time"> 04:24 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1071064009/trump-is-the-most-powerful-figure-in-the-republican-party-despite-lies-and-jan-6">Trump is the most powerful figure in the Republican party, despite lies and Jan. 6</a> NPR: Many Republican allies of former President Trump were outraged in 2021 when the Capitol was attacked. But as Trump's popularity endures, the party's elected leaders now largely overlook Jan. 6. 
  <p class="updated_time"> 04:24 PM CT, Jan. 06 </p> 
@@ -334,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/us/politics/cdc-rochelle-walensky-covid-isolation-testing.html">For C.D.C.’s Walensky, a Steep Learning Curve on Messaging</a> NYT: Dr. Rochelle Walensky, the director of the Centers for Disease Control and Prevention, has stumbled in explaining her policy decisions. 
  <p class="updated_time"> 07:44 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/michael-carvajal-bureau-of-prisons-director-retirement/index.html">Bureau of Prisons leader retiring under political pressure from lawmakers seeking his ouster</a> CNN: Federal Bureau of Prisons Director Michael Carvajal is retiring, following months of pressure from some lawmakers seeking his ouster over management issues at the agency. 
- <p class="updated_time"> 07:28 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/jan-6-capitol-deaths.html">These Are the People Who Died in Connection With the Capitol Riot</a> NYT: A bipartisan Senate report found that at least seven people had lost their lives in connection with the Jan. 6 attack. 
  <p class="updated_time"> 07:26 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/jan-6-mypillow-ceo-mike-lindell-subpoena-526582">Jan. 6 committee subpoenas MyPillow CEO Mike Lindell's phone records</a> Politico: He filed a lawsuit to block the panel’s request. 
  <p class="updated_time"> 07:16 PM CT, Jan. 05 </p> 
@@ -346,12 +352,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/us/politics/jan-6-attack-capitol-lawmakers.html">Jan. 6 Assault Still Casts Pall Over Capitol and Its Occupants</a> NYT: The attempt by a violent mob to interfere with a basic democratic task has left a stain on the institution and a strain on relationships. 
  <p class="updated_time"> 06:05 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/peter-velz-vincent-evans-kamala-harris/index.html">Two Harris staffers announce they're leaving vice president's office</a> CNN: Two staffers announced Wednesday that they are leaving Vice President Kamala Harris' office. 
- <p class="updated_time"> 06:02 PM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/democrats-biden-agenda-loss/index.html">Democrats at a loss over path to enact Biden agenda: It feels 'like Groundhog Day'</a> CNN: Democratic senators are beginning 2022 where they left 2021: With no clear path to pass their agenda and ample frustration in the ranks. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
- <p class="updated_time"> 04:31 PM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
  <p class="updated_time"> 01:22 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/jan-6-capitol-riot-lancaster-republicans/index.html">How January 6 changed what it means to be a Republican in one Pennsylvania county</a> CNN: The day after the January 6 attack on the US Capitol, three local Republican officials in Pennsylvania's Lancaster County announced they were leaving the GOP.  Among them was Ethan Demme, a lifelong conservative who had previously served as the youngest Republican Party chairman in this deeply red corner of southeast Pennsylvania.  
  <p class="updated_time"> 11:45 AM CT, Jan. 05 </p> 
@@ -394,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/03/new-year-same-to-do-list-for-congress-495569">New Year, same to-do list for Congress</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:05 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/03/dems-to-use-jan-6-anniversary-to-supercharge-voting-rights-push-495565"> Dems to use Jan. 6 anniversary to supercharge voting rights push</a> Politico Playbook: And Biden says the U.S. would 'respond decisively' if Russia invades Ukraine. 
- <p class="updated_time"> 05:02 AM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/biden-zelensky-call/index.html">Biden tells Ukrainian President US 'will respond decisively if Russia further invades'</a> CNN: President Joe Biden told Ukrainian President Volodymyr Zelensky on Sunday that the US and its allies "will respond decisively if Russia further invades Ukraine," according to a readout of a call between the two leaders provided by the White House. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/january-6-capitol-riot-house-democrats-525975">‘It’s only gotten worse’: The long shadow of the night that broke the House</a> Politico: For most Democrats, the biggest affront wasn’t even the violence by Donald Trump’s supporters. It was the votes more than 140 of their GOP colleagues took afterward. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
