@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:44 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/sports/tennis/novak-djokovic-australia-visa.html">Novak Djokovic Is Refused Entry Into Australia Over Vaccine Exemption</a> NYT: The No. 1 men’s tennis player was told to leave the country following a 10-hour standoff with government officials at a Melbourne airport. He remained as he awaited the fate of a legal appeal. 
  <p class="updated_time"> 11:32 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Government calls for Russian help</a> BBC: A Russian-led military alliance will send a peacekeeping force as nationwide protests escalate. 
  <p class="updated_time"> 11:10 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59890533?at_medium=RSS&at_campaign=KARANGA">Xi'an: The messy cost of China's Covid lockdown playbook</a> BBC: With stories of starvation and deaths, has anything been learnt from two years of strict measures? 
  <p class="updated_time"> 11:07 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59890816?at_medium=RSS&at_campaign=KARANGA">Omicron: India records first death linked to the variant</a> BBC: The 74-year-old man had diabetes and other comorbidities but, reports say, he was fully vaccinated. 
- <p class="updated_time"> 11:04 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/sports/tennis/novak-djokovic-australia-visa.html">Novak Djokovic Is Refused Entry Into Australia Over Vaccine Exemption</a> NYT: The No. 1 men’s tennis player was told to leave the country following a 10-hour standoff with government officials at a Melbourne airport, ending his chance to defend his Australian Open title. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59890816?at_medium=RSS&at_campaign=KARANGA">Covid-19: India records first death linked to Omicron variant</a> BBC: The 74-year-old man had diabetes and other comorbidities but, reports say, he was fully vaccinated. 
  <p class="updated_time"> 11:04 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/india-omicron-coronavirus.html">India’s Rising Omicron Wave Brings a Grim Sense of Déjà Vu</a> NYT: Just months after Delta fueled hospital failures and funeral pyres, India’s leaders again offer a mixed message: Their political rallies are packed even as they order curfews and work closures. 
  <p class="updated_time"> 10:54 PM CT, Jan. 05 </p> 
