@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:41 PM CT, Jan. 06 </p> 
+ <p class="updated_time"> 02:43 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/arts/design/met-museum-african-origin-exhibit.html">In ‘African Origin’ Show at Met, New Points of Light Across Cultures</a> NYT: Holdings from Ancient Egypt and sub-Saharan Africa come together in a masterpiece show. Now the Met should make clear how the wondrous works got here. 
+ <p class="updated_time"> 02:42 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests">Live Updates: Russia Sends Troops to Kazakhstan to Help Quell Uprising</a> NYT: Dozens of people have been reported killed, and many more injured, in clashes with security forces in the Central Asian nation. The government blames militant groups. 
  <p class="updated_time"> 02:12 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/pakistan-woman-supreme-court.html">Pakistan Paves Way for Ayesha Malik to Be First Woman Supreme Court Justice</a> NYT: Justice Ayesha A. Malik’s nomination, intensely opposed by some lawyers that have threatened to strike, was hailed by others as an important victory in improving representation for women. 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/canada/canada-conversion-therapy-law.html">Canadian Law Banning ‘Conversion Therapy’ Set to Go Into Effect</a> NYT: When it takes effect on Friday, the law will put Canada in the company of more than a dozen countries that have banned the widely discredited practice. 
  <p class="updated_time"> 01:01 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59898346?at_medium=RSS&at_campaign=KARANGA">Italy Covid: Bullet forces immunologist to get protection</a> BBC: Prof Antonella Viola is given police protection after threats are made against her and her family. 
- <p class="updated_time"> 12:56 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/arts/design/met-museum-african-origin-exhibit.html">In ‘African Origin’ Show at Met, New Points of Light Across Cultures</a> NYT: Holdings from Ancient Egypt and sub-Saharan Africa come together in a masterpiece show. Now the Met should make clear how the wondrous works got here. 
  <p class="updated_time"> 12:44 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59885656?at_medium=RSS&at_campaign=KARANGA">Drone helps save cardiac arrest patient in Sweden</a> BBC: A defibrillator delivered by drone helped to keep a 71 year-old man alive. 
  <p class="updated_time"> 12:27 PM CT, Jan. 06 </p> 
@@ -184,12 +184,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:56 PM CT, Jan. 06 </p> 
+ <a href="https://www.politico.com/news/2022/01/06/biden-lays-out-the-stakes-for-democracy-can-he-sustain-the-case-526688">Biden lays out the stakes for democracy. Can he sustain the case?</a> Politico: The president’s speech on Thursday was hailed by fellow Democrats. Now, they want him to keep at it. 
+ <p class="updated_time"> 02:54 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/congress-corporate-donations-2020-election-overturn.html">Companies Donated Millions to Those Who Voted to Overturn Biden's Win</a> NYT: One year after the Capitol riot, many businesses resumed corporate donations to lawmakers who voted against certifying the 2020 election. 
  <p class="updated_time"> 02:41 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/trapped-capitol-jan-6.html">Remembering Jan. 6, When He Was Trapped Alone in the Capitol</a> NYT: Wayne K. Williams, a top aide to the No. 5 House Democrat, was the only member of his staff in the Capitol on Jan. 6, 2021. He was barricaded in his office alone as mayhem reigned. 
  <p class="updated_time"> 02:41 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070763913/kicked-off-facebook-and-twitter-far-right-groups-lose-online-clout">Kicked off Facebook and Twitter, far-right groups lose online clout</a> NPR: In the year since the January 6th Capitol attack, far-right influencers and extremists are taking new approaches to organizing online. 
- <p class="updated_time"> 02:32 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/congress-corporate-donations-2020-election-overturn.html">Companies Donated Millions to Those Who Voted to Overturn Biden's Win</a> NYT: One year after the Capitol riot, many businesses resumed corporate donations to lawmakers who voted against certifying the 2020 election. 
  <p class="updated_time"> 02:30 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/times-reporters-american-democracy.html">Times Reporters Discuss Threats to American Democracy</a> NYT: Our political journalists talked about the Republican push to restrict voting and seize control over elections, and how Democrats are responding. 
  <p class="updated_time"> 02:27 PM CT, Jan. 06 </p> 
