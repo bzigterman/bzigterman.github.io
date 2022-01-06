@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:06 AM CT, Jan. 06 </p> 
+ <p class="updated_time"> 07:31 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59896771?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic will be deported if he hasn't told truth, deputy PM says</a> BBC: Rich people are not above the law, Australia's deputy PM says, as the player launches legal appeal. 
+ <p class="updated_time"> 07:30 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/06/world/omicron-covid-vaccine-tests">Covid Live Updates: Americans Resist Boosters Even as U.S. Expands Eligibility</a> NYT: Only about 35 percent of Americans have received a booster, despite the United States moving rapidly to expand who can receive additional shots. 
+ <p class="updated_time"> 07:29 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests/kazakhstan-protests">After dozens are reported dead in Kazakhstan, troops from a Russian alliance begin to deploy.</a> NYT: A revolt sparked by anger over a surge in fuel prices is convulsing the Central Asian nation on Russia’s doorstep. As protests turned deadly, troops from a Russian-led military alliance began arriving in the country. 
+ <p class="updated_time"> 06:57 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59894082?at_medium=RSS&at_campaign=KARANGA">Guatemala soldiers face rape trial after 40 years</a> BBC: Five former soldiers are accused of raping 36 indigenous Mayan women during the country's civil war. 
  <p class="updated_time"> 06:50 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/europe/pope-pets-kids.html">Pope Scolds Couples Who Choose Pets Over Kids</a> NYT: Expressing concern about global birthrates, Francis said such couples were acting in a selfish way that diminished humanity. 
  <p class="updated_time"> 06:41 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/novak-djokovic-covid.html">Novak Djokovic Collides With Australia’s Covid Fight</a> NYT: Barring the tennis star from entering the country offers a chance to change the subject as an election looms and coronavirus cases are at record highs. 
  <p class="updated_time"> 06:35 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59882444?at_medium=RSS&at_campaign=KARANGA">Ashers 'gay cake' case: European court rules case inadmissible</a> BBC: A bakery firm was taken to court for refusing to make a cake with a "Support Gay Marriage" slogan. 
- <p class="updated_time"> 06:08 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59889522?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels top tennis player's visa</a> BBC: The tennis player is in a government detention hotel and a decision on deportation will come on Monday. 
- <p class="updated_time"> 05:52 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/01/06/world/omicron-covid-vaccine-tests">Covid Live Updates: Americans Resist Boosters Even as U.S. Expands Eligibility</a> NYT: Only about 35 percent of Americans have received a booster, despite the United States moving rapidly to expand who can receive additional shots. 
  <p class="updated_time"> 05:39 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Dozens killed in crackdown</a> BBC: Police say rioters were killed in an operation to restore order in the main city, Almaty. 
  <p class="updated_time"> 05:29 AM CT, Jan. 06 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59890338?at_medium=RSS&at_campaign=KARANGA">Taiwan setting up $200m Lithuania fund amid China row</a> BBC: China downgraded its diplomatic relations with Lithuania after Taiwan opened a de facto embassy there. 
  <p class="updated_time"> 09:50 PM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/north-korea-says-it-tested-hypersonic-missile-11641459003">North Korea Says It Tested Hypersonic Missile</a> WSJ: The technology is some of the latest being developed by the U.S., China and Russia. Pyongyang’s appears to be in the early stages, weapons experts say. 
- <p class="updated_time"> 09:47 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59889760?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Biden to blame Trump for 'carnage' one year on</a> BBC: On the attack's anniversary, Mr Biden will say his predecessor holds "singular responsibility". 
  <p class="updated_time"> 08:57 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
  <p class="updated_time"> 07:29 PM CT, Jan. 05 </p> 
@@ -117,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070700656/reigning-australian-open-mens-champion-denied-entry-into-australia-to-defend-tit">Reigning Australian Open men's champion denied entry into Australia to defend title</a> NPR: The reigning Australian Open men's champion Novak Djokovic — who is famously skeptical about the COVID vaccine and received a medical exemption from being vaccinated — was not admitted to the country. 
  <p class="updated_time"> 03:35 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1069791114/afghanistan-girls-soccer-refugees-portugal">An Afghan girls soccer team rebelled to play the game they love. Now they're refugees</a> NPR: The teenagers on the Afghan girls national soccer team lean on each other as they adjust to a new life in Portugal, where they fled after the Taliban takeover of Afghanistan. 
- <p class="updated_time"> 02:54 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59889228?at_medium=RSS&at_campaign=KARANGA">Grammy Awards 2022: Omicron postpones music's biggest night</a> BBC: A new date for the music industry celebration in Los Angeles will be announced soon, organisers say. 
  <p class="updated_time"> 02:10 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/britain-same-sex-pardon.html">Britain Extends Pardons Policy for Consensual Same-Sex Partners</a> NYT: The government’s action expands earlier legislative efforts, but for some gay people it is too little, too late. “It impacted me my whole life,” one man said of his conviction. 
  <p class="updated_time"> 01:51 PM CT, Jan. 05 </p> 
@@ -186,6 +184,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/06/a-year-later-the-hill-is-no-longer-the-safest-place-495624">A year later, the Hill ‘is no longer the safest place'</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:32 AM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/facebook-lawsuit-slain-officer/index.html">Sister of slain federal officer sues Facebook, accusing social media company of promoting violent content and connecting alleged killers online   </a> CNN: Facebook is the target of a new lawsuit from the sister of a slain federal officer who claims the tech giant's algorithms and drive for revenue played an active role encouraging her brother's alleged killers. 
+ <p class="updated_time"> 07:23 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-anniversary-events.html">Jan. 6 Capitol Attack Anniversary Events Timeline</a> NYT: Speeches by President Biden and Vice President Kamala Harris are part of the events to mark the anniversary of the attack on the Capitol. 
  <p class="updated_time"> 07:00 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/andy-kim-reflects-jan-6-526568">‘What is it going to it take?’: Rep. Andy Kim reflects on division a year after Jan. 6</a> Politico: One year later, it’s still hard for the congressman to make sense of what happened at the Capitol. 
  <p class="updated_time"> 06:57 AM CT, Jan. 06 </p> 
@@ -302,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/ghislaine-maxwell-trial-juror-526548">Prosecutors alert Maxwell judge of juror's sex abuse claims</a> Politico: Prosecutors urged the judge who presided over the trial of Ghislaine Maxwell to conduct an inquiry into the juror's reported claims. 
  <p class="updated_time"> 02:25 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/white-house-teachers-union-covid-526547">Psaki: Schools can open safely 'including in Chicago'</a> Politico: “Long story short we want schools to be open, the president wants them to be open, and we’re going to continue to use every resource and work to ensure that’s the case,” Psaki said. 
- <p class="updated_time"> 02:23 PM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/separate-climate-bill-build-back-better/index.html">Separate climate bill not being seriously considered in Senate, despite Manchin's support of the measures</a> CNN: Senate climate hawks got a new shot of optimism this week as West Virginia Sen. Joe Manchin gave perhaps his most full-throated endorsement yet of the climate change and clean energy portions of the Build Back Better package, Biden's economic and social safety net bill. 
  <p class="updated_time"> 02:11 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070675936/ag-merrick-garland-jan-6-riot-accountable-anniversary">Merrick Garland vows to keep following leads to hold Jan. 6 rioters accountable </a> NPR: In a speech delivered Wednesday, the attorney general said the Justice Department "will follow the facts wherever they lead. ...The actions we have taken thus far will not be our last." 
  <p class="updated_time"> 01:47 PM CT, Jan. 05 </p> 
@@ -324,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/us/politics/republican-impeachment-votes-trump-jan-6.html">10 Republicans Voted to Impeach Trump. What's Become of Them?</a> NYT: Ten House Republicans voted to charge President Donald J. Trump with inciting the Capitol attack. All of them are still struggling with the consequences. 
  <p class="updated_time"> 10:25 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/fads-crypto-lobbying-politics-526538">NFTs move to influence Congress, even if lawmakers have no clue what they are</a> Politico: For the first time, a company has registered to lobby the federal government on non-fungible tokens. 
- <p class="updated_time"> 09:37 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/jan-6-capitol-riot-investigation.html">Prosecutors Move Quickly on Jan. 6 Cases, but One Big Question Remains</a> NYT: In the year since the assault on the Capitol by a pro-Trump mob, more than 700 people have been arrested, with little public indication from the Justice Department of how high the investigation might reach. 
  <p class="updated_time"> 07:35 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/05/security-still-top-of-mind-a-year-after-capitol-attack-495603">Security still top of mind a year after Capitol attack</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
