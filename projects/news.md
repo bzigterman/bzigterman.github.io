@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:59 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
  <p class="updated_time"> 02:48 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
  <p class="updated_time"> 02:47 AM CT, Jan. 06 </p> 
@@ -41,12 +43,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/covid-variant-france.html">W.H.O. Downplays Threat From New Virus Variant in France</a> NYT: The so-called I.H.U. variant contains numerous mutations of the coronavirus, but experts say it has shown little sign of spreading so far. 
  <p class="updated_time"> 10:30 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-59890338?at_medium=RSS&at_campaign=KARANGA">Taiwan setting up $200m Lithuania fund amid China row</a> BBC: China downgraded its diplomatic relations with Lithuania after Taiwan opened a de facto embassy there. 
+ <p class="updated_time"> 09:50 PM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-says-it-tested-hypersonic-missile-11641459003">North Korea Says It Tested Hypersonic Missile</a> WSJ: The technology is some of the latest being developed by the U.S., China and Russia. Pyongyang’s appears to be in the early stages, weapons experts say. 
  <p class="updated_time"> 09:47 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59889760?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Biden to blame Trump for 'carnage' one year on</a> BBC: On the attack's anniversary, Mr Biden will say his predecessor holds "singular responsibility". 
  <p class="updated_time"> 08:57 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html">Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped</a> NYT: Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges. 
- <p class="updated_time"> 07:51 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
  <p class="updated_time"> 07:29 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/hong-kong-flights.html">Hong Kong Suspends Flights From Eight Countries</a> NYT: The new measures will deepen the city’s isolation and mark a return to the tough restrictions from the early days of the pandemic, as officials race to contain the Omicron variant. 
  <p class="updated_time"> 07:17 PM CT, Jan. 05 </p> 
@@ -117,10 +119,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/technology/china-tech-internet-crackdown-layoffs.html">As Beijing Takes Control, Chinese Tech Companies Lose Jobs and Hope</a> NYT: The crackdown is killing the entrepreneurial drive that made China a tech power and destroying jobs that used to attract the country’s brightest. 
  <p class="updated_time"> 09:48 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/05/1070546748/hong-kong-flight-ban">Hong Kong bans flights from U.S. and 7 other countries as omicron surges</a> NPR: Hong Kong authorities announced a two-week ban on flights from eight countries and held 2,500 passengers on a cruise ship for coronavirus testing as the city attempted to stem an omicron outbreak. 
- <p class="updated_time"> 08:24 AM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/records-could-shed-light-on-canada-residential-schools-for-indigenous-children-11641401061">Records Could Shed Light on Canada Schools for Indigenous Children</a> WSJ: The government came under increased pressure to turn over the documents after the discovery last year of more than 1,000 unmarked graves near former residential schools in western Canada. 
- <p class="updated_time"> 05:57 AM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/prince-andrews-legal-woes-present-another-headache-for-u-k-royal-family-11641401849">Prince Andrew's Legal Woes Present Another Headache for U.K. Royal Family</a> WSJ: Allegations that the queen’s second son abused a 17-year-old girl loom large over the House of Windsor. 
  <p class="updated_time"> 05:15 AM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59878984?at_medium=RSS&at_campaign=KARANGA">Djokovic exemption reaction: 'He might get boos on court'</a> BBC: Australians give their views on Novak Djokovic being able to play in the Australian Open. 
  <p class="updated_time"> 04:51 AM CT, Jan. 05 </p> 
