@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:19 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests">Live Updates: Russia Sends Troops to Kazakhstan to Help Quell Uprising</a> NYT: Dozens of people have been reported killed, and many more injured, in clashes with security forces in the Central Asian nation. The government blames militant groups. 
+ <p class="updated_time"> 01:07 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/world/canada/canada-conversion-therapy-law.html">Canadian Law Banning ‘Conversion Therapy’ Set to Go Into Effect</a> NYT: When it takes effect on Friday, the law will put Canada in the company of more than a dozen countries that have banned the widely discredited practice. 
  <p class="updated_time"> 12:58 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59897962?at_medium=RSS&at_campaign=KARANGA">Peter Bogdanovich: The Last Picture Show director dies aged 82</a> BBC: The New York filmmaker was Oscar-nominated for his coming-of-age drama starring Cybill Shepherd. 
  <p class="updated_time"> 12:56 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/arts/design/met-museum-african-origin-exhibit.html">In ‘African Origin’ Show at Met, New Points of Light Across Cultures</a> NYT: Holdings from Ancient Egypt and sub-Saharan Africa come together in a masterpiece show. Now the Met should make clear how the wondrous works got here. 
- <p class="updated_time"> 12:46 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests">Live Updates: Russia Sends Troops to Kazakhstan to Help Quell Uprising</a> NYT: Dozens of people have been reported killed, and many more injured, in clashes with security forces in the Central Asian nation. The government blames militant groups. 
- <p class="updated_time"> 12:35 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/canada/canada-conversion-therapy-law.html">Canadian Law Banning ‘Conversion Therapy’ Set to Go Into Effect</a> NYT: When it takes effect on Friday, the law will put Canada in the company of more than a dozen countries that have banned the widely discredited practice. 
  <p class="updated_time"> 12:27 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59898559?at_medium=RSS&at_campaign=KARANGA">US Capitol attack: Rioters held dagger to the throat of America - Biden</a> BBC: On the anniversary of the Capitol attack, the US president says "the pain and scars" run deep. 
  <p class="updated_time"> 12:23 PM CT, Jan. 06 </p> 
@@ -37,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59892937?at_medium=RSS&at_campaign=KARANGA">Capitol riots: Trump tried to prevent peaceful transition, says Biden</a> BBC: US President Joe Biden says the country must make sure the US Capitol attacks never happen again. 
  <p class="updated_time"> 08:20 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59893216?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Tigray hospital running out of food for starving children</a> BBC: The hospital treating Surafeal in Ethiopia's Tigray region is also running out of food. 
+ <p class="updated_time"> 08:04 AM CT, Jan. 06 </p> 
+ <a href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504">Kazakhstan Protests: Russia Sends Troops as Dozens Killed in Unrest</a> WSJ: Russia sent paratroopers to help Kazakhstan’s leader stamp out protests fueled by frustration with authoritarian rule in the former Soviet republic. 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/why-novak-djokovic-was-blocked.html">Why Novak Djokovic Was Blocked From Entering Australia</a> NYT: The men’s No. 1 tennis player had received an exemption to the country’s vaccine requirements. Then the federal government stepped in. 
  <p class="updated_time"> 07:31 AM CT, Jan. 06 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1070840030/police-say-dozens-have-been-killed-in-kazakhstan-unrest">Russia-led alliance troops have arrived in Kazakhstan after mass protests</a> NPR: Russia-led alliance troops arrived in Kazakhstan on Thursday after increasingly chaotic and violent protests rocked the nation for days and resulted in dozens of people killed and hundreds injured. 
  <p class="updated_time"> 02:18 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-defector-dmz.html">North Korea Defector Crosses DMZ Border Twice</a> NYT: Officials say a North Korean who crossed the DMZ in 2020 crossed it again to go back. His life in the South seems to have been one of poverty and isolation. 
- <p class="updated_time"> 01:51 AM CT, Jan. 06 </p> 
- <a href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504">Kazakhstan Protests: Dozens Killed as Authorities Crack Down on Unrest</a> WSJ: Civilians and law-enforcement officers were killed when authorities moved against protesters in the Central Asian nation after several days of unrest and a Russian-led military alliance arrived to support local forces. 
  <p class="updated_time"> 01:44 AM CT, Jan. 06 </p> 
  <a href="https://www.wsj.com/articles/italy-mandates-vaccines-for-older-people-u-s-surge-continues-11641473067">Italy Mandates Vaccines for Older People; U.S. Surge Continues</a> WSJ: Italy has adopted some of the toughest vaccine requirements in the West in a bid to curb Covid-19 and the fast-spreading Omicron, as figures from New York suggest the new variant produces fewer cases of severe disease. 
  <p class="updated_time"> 01:28 AM CT, Jan. 06 </p> 
@@ -184,6 +184,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:15 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-lies.html">The Next Big Lies: Jan. 6 Was No Big Deal, or a Left-Wing Plot</a> NYT: How revisionist histories of Jan. 6 picked up where the “stop the steal” campaign left off, warping beliefs about what transpired at the Capitol. 
  <p class="updated_time"> 12:47 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/elaine-luria-reelection-announcement/index.html">1/6 panel member launches reelection bid amid backdrop of insurrection anniversary</a> CNN: Rep. Elaine Luria, a Democrat from Virginia and a member of the House committee investigating the Capitol Riot, announced on the anniversary of the attack that she will run for reelection in her Virginia Beach swing district. 
  <p class="updated_time"> 12:40 PM CT, Jan. 06 </p> 
@@ -192,8 +194,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/06/harris-hires-a-new-comms-director-jamal-simmons-526626">Harris hires a new comms director, Jamal Simmons</a> Politico: The longtime Democratic operative is a big name. He comes to a staff that's been losing talent. 
  <p class="updated_time"> 12:34 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-memorial.html">One Year Later, Congress Weighs How to Memorialize Jan. 6 at the Capitol</a> NYT: In a building that is both a legislative body and a living museum, lawmakers are grappling with how to commemorate an attack whose victims cannot agree on the basic facts of the day. 
- <p class="updated_time"> 12:18 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-lies.html">The Next Big Lies: Jan. 6 Was No Big Deal, or a Left-Wing Plot</a> NYT: How revisionist histories of Jan. 6 picked up where the “stop the steal” campaign left off, warping beliefs about what transpired at the Capitol. 
  <p class="updated_time"> 12:15 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/blinken-urges-peaceful-resolution-amid-chaos-in-kazakhstan-526615">Blinken urges ‘peaceful’ resolution to Kazakhstan chaos</a> Politico: A Russian-led military alliance is now intervening after days of violent protests. 
  <p class="updated_time"> 12:09 PM CT, Jan. 06 </p> 
