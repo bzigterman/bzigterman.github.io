@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:39 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59882444?at_medium=RSS&at_campaign=KARANGA">Ashers 'gay cake' case: European court rules case inadmissible</a> BBC: A bakery firm was taken to court for refusing to make a cake with a "Support Gay Marriage" slogan. 
  <p class="updated_time"> 03:17 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59889522?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels top tennis player's visa</a> BBC: The tennis player is in a government detention hotel and a decision on deportation will come on Monday. 
  <p class="updated_time"> 03:08 AM CT, Jan. 06 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59856628?at_medium=RSS&at_campaign=KARANGA">India PM Narendra Modi trapped on Punjab flyover in security breach</a> BBC: The Indian PM cut short a visit to Punjab after protesting farmers blocked his convoy's route. 
  <p class="updated_time"> 11:10 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59890533?at_medium=RSS&at_campaign=KARANGA">Xi'an: The messy cost of China's Covid lockdown playbook</a> BBC: With stories of starvation and deaths, has anything been learnt from two years of strict measures? 
- <p class="updated_time"> 11:07 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59890816?at_medium=RSS&at_campaign=KARANGA">Covid-19: India records first death linked to Omicron variant</a> BBC: The 74-year-old man had diabetes and other comorbidities but, reports say, he was fully vaccinated. 
  <p class="updated_time"> 11:04 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/india-omicron-coronavirus.html">India’s Rising Omicron Wave Brings a Grim Sense of Déjà Vu</a> NYT: Just months after Delta fueled hospital failures and funeral pyres, India’s leaders again offer a mixed message: Their political rallies are packed even as they order curfews and work closures. 
  <p class="updated_time"> 10:54 PM CT, Jan. 05 </p> 
@@ -53,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/asia/hong-kong-flights.html">Hong Kong Suspends Flights From Eight Countries</a> NYT: The new measures will deepen the city’s isolation and mark a return to the tough restrictions from the early days of the pandemic, as officials race to contain the Omicron variant. 
  <p class="updated_time"> 07:17 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/59585507?at_medium=RSS&at_campaign=KARANGA">China: Is it burdening poor countries with unsustainable debt?</a> BBC: China has become a big lender to poorer countries, and there's been criticism of its approach. 
+ <p class="updated_time"> 07:06 PM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59888870?at_medium=RSS&at_campaign=KARANGA">'A nation in decline' - how the world saw Capitol riot</a> BBC: BBC reporters from China, Canada and Germany assess how the rest of the world saw America's dark day. 
  <p class="updated_time"> 07:01 PM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/kazakhstans-government-resigns-amid-unrest-over-fuel-prices-11641386544">Russia-Led Force to Help Quell Kazakhstan Unrest</a> WSJ: Mass protests over an increase in fuel prices have prompted an alliance of former Soviet states to send troops to Kazakhstan after the government resigned and the president imposed a state of emergency. 
  <p class="updated_time"> 06:56 PM CT, Jan. 05 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/europe/ireland-alcohol-minimum-unit-price.html">Ireland Puts Minimum Price on Alcohol to Curb Binge Drinking</a> NYT: The new rule, part of broader legislation aimed at stemming alcohol-related illnesses, sets a minimum price of one euro per standard drink and came into effect on Tuesday. 
  <p class="updated_time"> 01:08 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/tony-blair-knighthood-petition-rescind.html">Petition to Rescind Tony Blair’s Knighthood Gets Hundreds of Thousands of Signatures</a> NYT: Nearly 15 years after he left office, the prime minister’s support for the Iraq war has not been forgiven by many in Britain. 
- <p class="updated_time"> 08:49 AM CT, Jan. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59871267?at_medium=RSS&at_campaign=KARANGA">US snow: Major snowfall blankets Washington DC</a> BBC: Snow causes fun and frustration in Washington DC. 
  <p class="updated_time"> 06:37 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/china-evergrande-protests.html">With Property Sales Plunging, China Evergrande Faces More Protests</a> NYT: The developer has tried for months to signal that its $300 billion debt problem was under control. But the challenges keep mounting. 
  <p class="updated_time"> 06:24 AM CT, Jan. 04 </p> 
@@ -182,6 +182,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Jan. 06 </p> 
+ <a href="https://www.politico.com/news/2022/01/06/congress-members-capitol-riot-reflection-525949">Jan. 6, in their own words: Members of Congress look back and forward</a> Politico: Democrats and Republicans alike spoke frankly with POLITICO about how they've dealt with the attack and how it's affected both them personally and the institution of Congress. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 06 </p> 
+ <a href="https://www.politico.com/news/2022/01/06/jan-6-anniversary-congressional-staffers-new-normal-525989">One year later, congressional staffers reckon with their new normal</a> Politico: The trauma of the violence on Jan. 6, 2021, still reverberates for many of the aides who make Capitol Hill tick. 
  <p class="updated_time"> 02:00 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-riot-aftermath.html">A Year Later, Jan. 6 Becomes Just Another Wedge in a Divided Nation</a> NYT: The nearly universal outrage after the assault on the Capitol has reverted to separate blue and red realities, and former President Donald J. Trump has remained the dominant force in his party. 
  <p class="updated_time"> 10:31 PM CT, Jan. 05 </p> 
