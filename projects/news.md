@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:37 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests">Live Updates: Russia Sends Troops to Kazakhstan to Help Quell Uprising</a> NYT: Dozens of people have been reported killed, and many more injured, in clashes with security forces in the Central Asian nation. The government blames militant groups. 
+ <p class="updated_time"> 03:34 PM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1071064023/how-western-australia-has-managed-to-avoid-large-covid-19-outbreaks">How Western Australia has managed to avoid large Covid-19 outbreaks</a> NPR: NPR's Ailsa Chang speaks with reporter Jacob Kagi of the Australian Broadcasting Corporation about how Western Australia has managed their COVID-19 numbers throughout the pandemic. 
+ <p class="updated_time"> 03:31 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/world/europe/boris-johnson-ethics-britain-uk.html">Ethics Adviser Rebukes Boris Johnson Over Downing Street Decorations</a> NYT: The adviser said it was “plainly unsatisfactory” that he was not told that Mr. Johnson had petitioned a prominent donor to arrange financing for the makeover of his apartment. 
+ <p class="updated_time"> 03:30 PM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Russian troops land as Kazakh crackdown continues</a> BBC: The troops arrive after days of mounting unrest, with both police and protesters reportedly killed. 
  <p class="updated_time"> 03:14 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59903152?at_medium=RSS&at_campaign=KARANGA">President's residence gutted as Kazakhstan clashes continue</a> BBC: Security forces in Kazakhstan say they have killed dozens of anti-government rioters in the main city, Almaty. 
  <p class="updated_time"> 03:11 PM CT, Jan. 06 </p> 
@@ -15,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/06/1069872384/for-many-afghans-winter-is-forcing-a-cruel-choice-of-whether-to-eat-or-stay-warm">For many Afghans, winter is forcing a cruel choice of whether to eat or stay warm</a> NPR: "It shouldn't be a lottery of life about who gets to eat, who doesn't get to eat. Do I keep my child warm or do I give my child food?" a World Food Programme Afghanistan spokesperson tells NPR. 
  <p class="updated_time"> 02:43 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/arts/design/met-museum-african-origin-exhibit.html">In ‘African Origin’ Show at Met, New Points of Light Across Cultures</a> NYT: Holdings from Ancient Egypt and sub-Saharan Africa come together in a masterpiece show. Now the Met should make clear how the wondrous works got here. 
- <p class="updated_time"> 02:42 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests">Live Updates: Russia Sends Troops to Kazakhstan to Help Quell Uprising</a> NYT: Dozens of people have been reported killed, and many more injured, in clashes with security forces in the Central Asian nation. The government blames militant groups. 
  <p class="updated_time"> 02:12 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/pakistan-woman-supreme-court.html">Pakistan Paves Way for Ayesha Malik to Be First Woman Supreme Court Justice</a> NYT: Justice Ayesha A. Malik’s nomination, intensely opposed by some lawyers that have threatened to strike, was hailed by others as an important victory in improving representation for women. 
  <p class="updated_time"> 02:11 PM CT, Jan. 06 </p> 
@@ -31,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59898346?at_medium=RSS&at_campaign=KARANGA">Italy Covid: Bullet forces immunologist to get protection</a> BBC: Prof Antonella Viola is given police protection after threats are made against her and her family. 
  <p class="updated_time"> 12:44 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59885656?at_medium=RSS&at_campaign=KARANGA">Drone helps save cardiac arrest patient in Sweden</a> BBC: A defibrillator delivered by drone helped to keep a 71 year-old man alive. 
- <p class="updated_time"> 12:23 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/europe/boris-johnson-ethics-britain-uk.html">Ethics Adviser Rebukes Boris Johnson Over Downing Street Decorations</a> NYT: The adviser said it was “plainly unsatisfactory” that he was not told that Mr. Johnson had petitioned a prominent donor to arrange financing for the makeover of his apartment. 
  <p class="updated_time"> 12:01 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/travel/coronavirus-cruise-ships-omicron.html">Cruise Ships Are Still Sailing as Cases Rise and Criticism Mounts</a> NYT: One day after the C.D.C. advised against all travel on cruise ships, thousands of cruisers partied like it was 2019. But worries about onboard policies — and frustration over quarantines — are rising. 
  <p class="updated_time"> 11:22 AM CT, Jan. 06 </p> 
@@ -41,12 +45,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html">Using Harsh Language, Macron Issues a Challenge to the Unvaccinated</a> NYT: The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds. 
  <p class="updated_time"> 10:59 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59900129?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Serbs seethe over tennis hero's entry ban</a> BBC: Compatriots rally behind their icon as he fights deportation from Australia over vaccine rules. 
- <p class="updated_time"> 10:52 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Machine gun fire heard as street battles rage</a> BBC: The sound of machine guns and explosions can be heard as clashes continue in the city of Almaty. 
+ <p class="updated_time"> 10:30 AM CT, Jan. 06 </p> 
+ <a href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504">Kazakhstan Protests Have Russia Sending Troops as Dozens Killed in Unrest</a> WSJ: Russia sent paratroopers to help Kazakhstan’s leader stamp out protests fueled by frustration with authoritarian rule in the former Soviet republic. 
  <p class="updated_time"> 09:54 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/explainers-59894266?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Why have there been riots and deaths?</a> BBC: Security forces have killed dozens of suspected rioters and Russian troops have been called in. 
- <p class="updated_time"> 09:33 AM CT, Jan. 06 </p> 
- <a href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504">Kazakhstan Protests: Russia Sends Troops as Dozens Killed in Unrest</a> WSJ: Russia sent paratroopers to help Kazakhstan’s leader stamp out protests fueled by frustration with authoritarian rule in the former Soviet republic. 
  <p class="updated_time"> 09:13 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
  <p class="updated_time"> 09:06 AM CT, Jan. 06 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
  <p class="updated_time"> 04:10 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070478298/israel-sets-covid-19-record-as-rule-changes-create-whiplash">Israel sets COVID-19 record as rule changes create whiplash</a> NPR: The omicron variant is outpacing the government's ability to make and execute clear pandemic public policy. 
- <p class="updated_time"> 03:33 AM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070472805/xian-reacts-to-covid-lockdowns-with-outrage-and-humor">Residents of Xi'an, China, react to COVID lockdowns with outrage and humor</a> NPR: Lockdowns are so strict and so prolonged in the Chinese city that residents have taken to social media to complain and joke about a lack of basic supplies. 
  <p class="updated_time"> 02:46 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/britain-omicron-boris-johnson.html">Britain can ‘ride out’ the Omicron wave without a strict lockdown, Boris Johnson says.</a> NYT: “We can find a way to live with this virus,” the prime minister said. 
  <p class="updated_time"> 09:52 PM CT, Jan. 04 </p> 
@@ -186,14 +186,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:56 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/biden-lays-out-the-stakes-for-democracy-can-he-sustain-the-case-526688">Biden lays out the stakes for democracy. Can he sustain the case?</a> Politico: The president’s speech on Thursday was hailed by fellow Democrats. Now, they want him to keep at it. 
+ <p class="updated_time"> 03:34 PM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1071060682/how-the-narrative-of-the-jan-6-insurrection-has-changed-in-the-last-year">How the narrative of the Jan. 6 insurrection has changed in the last year</a> NPR: It's been a year since the deadly attack on the Capitol. And as arrests continue and jail sentences begin for those who committed violent acts there, the narrative surrounding the event has shifted. 
+ <p class="updated_time"> 03:34 PM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1071060677/sen-warnock-says-voting-rights-legislation-is-a-moral-issue">Sen. Warnock says voting rights legislation is a moral issue</a> NPR: NPR's Ailsa Chang talks with Sen. Raphael Warnock, D-Geor., who says that if Congress doesn't pass voting legislation, it will have "failed in the trust the people have given us." 
  <p class="updated_time"> 03:06 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/times-reporters-american-democracy.html">Times Reporters Discuss Threats to American Democracy</a> NYT: Our political journalists talked about the Republican push to restrict voting and seize control over elections, and how Democrats are responding. 
  <p class="updated_time"> 03:05 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-lies.html">The Next Big Lies: Jan. 6 Was No Big Deal, or a Left-Wing Plot</a> NYT: How revisionist histories of Jan. 6 picked up where the “stop the steal” campaign left off, warping beliefs about what transpired at the Capitol. 
  <p class="updated_time"> 02:54 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/congress-corporate-donations-2020-election-overturn.html">Companies Donated Millions to Those Who Voted to Overturn Biden's Win</a> NYT: One year after the Capitol riot, many businesses resumed corporate donations to lawmakers who voted against certifying the 2020 election. 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/congress-corporate-donations-2020-election-overturn.html">Corporations Donated Millions to Lawmakers Who Voted to Overturn Election Results</a> NYT: One year after the Capitol riot, many businesses resumed corporate donations to lawmakers who voted against certifying the 2020 election. 
  <p class="updated_time"> 02:41 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/trapped-capitol-jan-6.html">Remembering Jan. 6, When He Was Trapped Alone in the Capitol</a> NYT: Wayne K. Williams, a top aide to the No. 5 House Democrat, was the only member of his staff in the Capitol on Jan. 6, 2021. He was barricaded in his office alone as mayhem reigned. 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/trapped-capitol-jan-6.html">‘I Felt Angry’: Trapped Alone in the Capitol, He Watched the Riot Unfold</a> NYT: Wayne K. Williams, a top aide to the No. 5 House Democrat, was the only member of his staff in the Capitol on Jan. 6, 2021. He was barricaded in his office alone as mayhem reigned. 
  <p class="updated_time"> 02:41 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070763913/kicked-off-facebook-and-twitter-far-right-groups-lose-online-clout">Kicked off Facebook and Twitter, far-right groups lose online clout</a> NPR: In the year since the January 6th Capitol attack, far-right influencers and extremists are taking new approaches to organizing online. 
  <p class="updated_time"> 02:27 PM CT, Jan. 06 </p> 
@@ -261,7 +265,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:25 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/stephanie-grisham-trump-officials-meeting-cnntv/index.html">Stephanie Grisham says group of ex-Trump officials to meet next week to discuss how to 'stop' him</a> CNN: Former White House press secretary Stephanie Grisham said Thursday that more than a dozen of her former Trump administration colleagues plan to meet next week to try and stop former President Donald Trump as he continues to "manipulate people and divide our country." 
  <p class="updated_time"> 08:10 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/trump-gop-jan-6.html">A Year After Capitol Riot, Trump’s Hold on G.O.P. Is Unrivaled</a> NYT: His continued grip on the party shows, once again, that the former president can outlast almost any outrage cycle, no matter how intensely it burns. 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/trump-gop-jan-6.html">Why Trump’s Hold on the G.O.P. Is Unrivaled After the Capitol Riot</a> NYT: His continued grip on the party shows, once again, that the former president can outlast almost any outrage cycle, no matter how intensely it burns. 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/06/a-year-later-the-hill-is-no-longer-the-safest-place-495624">A year later, the Hill ‘is no longer the safest place'</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:46 AM CT, Jan. 06 </p> 
@@ -326,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/prisons-director-resigning-526575">U.S. prisons director resigning after crises-filled tenure</a> Politico: Michael Carvajal was a Trump administration holdover. 
  <p class="updated_time"> 06:28 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/jan-6-attack-capitol-lawmakers.html">Jan. 6 Assault Still Casts Pall Over Capitol and Its Occupants</a> NYT: The attempt by a violent mob to interfere with a basic democratic task has left a stain on the institution and a strain on relationships. 
- <p class="updated_time"> 06:09 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/biden-harris-voting-rights-speech-atlanta.html">With Legislation Stalled, Biden Will Speak in Atlanta on Voting Rights</a> NYT: He will be joined by Vice President Kamala Harris, who is leading the administration’s push for voting access. 
  <p class="updated_time"> 06:05 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/peter-velz-vincent-evans-kamala-harris/index.html">Two Harris staffers announce they're leaving vice president's office</a> CNN: Two staffers announced Wednesday that they are leaving Vice President Kamala Harris' office. 
  <p class="updated_time"> 06:02 PM CT, Jan. 05 </p> 
@@ -346,10 +348,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070700691/people-who-believe-trumps-election-lies-are-running-for-offices-that-control-vot">People who believe Trump's election lies are running for offices that control voting</a> NPR: More than a dozen Trump-aligned Republicans, who doubt President Biden won in 2020, are running to control the election process in their states. It could have sweeping consequences. 
  <p class="updated_time"> 03:41 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070700670/rep-jamie-raskin-on-growing-through-trauma-in-year-since-jan-6-and-his-sons-deat">Rep. Jamie Raskin on growing through trauma in year since Jan. 6 and his son's death</a> NPR: NPR's Mary Louise Kelly speaks with Rep. Jamie Raskin, D-Md., about leading an impeachment effort against President Trump. Raskin was inside the Capitol building on Jan. 6. 
- <p class="updated_time"> 03:35 PM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070199411/5-takeaways-from-the-capitol-riot-criminal-cases-one-year-later">5 takeaways from the Capitol riot criminal cases, one year later</a> NPR: NPR has been tracking every criminal case related to the insurrection at the U.S. Capitol on Jan. 6, 2021. One year after the riot, here are some of the key patterns that have emerged from the cases. 
- <p class="updated_time"> 03:13 PM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070362852/trump-big-lie-election-jan-6-families">They believe in Trump's 'Big Lie.' Here's why it's been so hard to dispel</a> NPR: The resilience of the "Big Lie" is prompting consternation and creative efforts to reach those who remain adamant — despite all evidence to the contrary — that the 2020 presidential vote was rigged. 
  <p class="updated_time"> 01:22 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/jan-6-capitol-riot-lancaster-republicans/index.html">How January 6 changed what it means to be a Republican in one Pennsylvania county</a> CNN: The day after the January 6 attack on the US Capitol, three local Republican officials in Pennsylvania's Lancaster County announced they were leaving the GOP.  Among them was Ethan Demme, a lifelong conservative who had previously served as the youngest Republican Party chairman in this deeply red corner of southeast Pennsylvania.  
  <p class="updated_time"> 11:45 AM CT, Jan. 05 </p> 
