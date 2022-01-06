@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:34 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/05/sports/tennis/novak-djokovic-australia-visa.html">Novak Djokovic Is Refused Entry Into Australia Over Vaccine Exemption</a> NYT: The No. 1 men’s tennis player was told to leave the country following a 10-hour standoff with government officials at a Melbourne airport. He remained as he awaited the fate of a legal appeal. 
+ <p class="updated_time"> 02:48 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
+ <p class="updated_time"> 02:47 AM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1070840030/police-say-dozens-have-been-killed-in-kazakhstan-unrest">Police say dozens have been killed in Kazakhstan unrest</a> NPR: Police spokeswoman Saltanat Azirbek says there were attempts to storm buildings in Almaty overnight and that "dozens of attackers were liquidated." 
+ <p class="updated_time"> 02:45 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-protests.html">Dozens Reported Dead in Kazakhstan, as Russian Alliance Sends Troops</a> NYT: A revolt inspired by anger over a surge in fuel prices has since spread across the country. A Russia-led military alliance has sent troops to help quell the violence in what it described as a temporary peacekeeping effort. 
  <p class="updated_time"> 02:30 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/why-novak-djokovic-was-blocked.html">Why Novak Djokovic Was Blocked From Entering Australia</a> NYT: The men’s No. 1 tennis player had received an exemption to the country’s vaccine requirements. Then the federal government stepped in. 
  <p class="updated_time"> 02:18 AM CT, Jan. 06 </p> 
@@ -63,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59865832?at_medium=RSS&at_campaign=KARANGA">Caviar sales soar as more people get a taste for posh fish eggs</a> BBC: Global producers of caviar say that demand has soared since the first lockdown. 
  <p class="updated_time"> 05:55 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59888675?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... Novak Djokovic and Australia</a> BBC: As Australia cancels the tennis star's visa on his arrival in Melbourne, Ros Atkins looks at how we got here. 
- <p class="updated_time"> 05:15 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
  <p class="updated_time"> 05:11 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/italy-female-statue-padua-prato-della-valle.html">Italy Proposal to Add Female Statue to Square of Men Stirs Debate</a> NYT: In Padua, Italy, a proposal to include a female philosopher in a monument whose 78 sculptures are all men has spurred debate. 
  <p class="updated_time"> 05:07 PM CT, Jan. 05 </p> 
@@ -86,7 +88,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:54 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59889228?at_medium=RSS&at_campaign=KARANGA">Grammy Awards 2022: Omicron postpones music's biggest night</a> BBC: A new date for the music industry celebration in Los Angeles will be announced soon, organisers say. 
  <p class="updated_time"> 02:49 PM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/anger-at-xian-lockdown-spreads-in-china-11641433781">Anger at Xi'an Lockdown Spreads in China</a> WSJ: The account of a woman who lost her unborn baby in the eight month of pregnancy after being denied swift medical attention prompted a nationwide social-media outcry. 
+ <a href="https://www.wsj.com/articles/anger-at-xian-lockdown-spreads-in-china-11641433781">Anger at Xi'an Lockdown Spreads in China</a> WSJ: The account of a woman who lost her unborn baby in the eighth month of pregnancy after being denied swift medical attention prompted a nationwide social-media outcry. 
  <p class="updated_time"> 02:10 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/britain-same-sex-pardon.html">Britain Extends Pardons Policy for Consensual Same-Sex Partners</a> NYT: The government’s action expands earlier legislative efforts, but for some gay people it is too little, too late. “It impacted me my whole life,” one man said of his conviction. 
  <p class="updated_time"> 01:51 PM CT, Jan. 05 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/04/1070363988/haiti-assassination-charges">The U.S. charges a former Colombian soldier in Haitian president's assassination</a> NPR: The U.S. government announced that it charged Mario Antonio Palacios, a 43-year-old former Colombian soldier who is one of the main suspects in the July killing of Haitian president Jovenel Moïse. 
  <p class="updated_time"> 03:39 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/middleeast/palestinian-hunger-strike-israel.html">Palestinian Prisoner’s Hunger Strike Leads to Deal for Release</a> NYT: A Palestinian accused of plotting to kill Israelis went on a hunger strike to protest his imprisonment without trial. Fearing unrest, Israel agreed to release him. 
- <p class="updated_time"> 03:38 PM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070338017/this-new-low-cost-covid-19-vaccine-could-be-a-game-changer-for-low-income-countr">This new, low-cost COVID-19 vaccine could be a game changer for low-income countries</a> NPR: A low cost vaccine called Corbevax may help solve the problem of getting safe and effective COVID vaccines to poor and middle-income countries. 
  <p class="updated_time"> 03:22 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/prince-andrew-sexual-abuse-royal-family.html">What Prince Andrew's  Abuse Case Could Mean for the Royal Family</a> NYT: As Queen Elizabeth II prepares to mark 70 years on the throne this year, a sexual abuse case in a Manhattan court involving her son could mean more turmoil for the royal family. 
  <p class="updated_time"> 01:23 PM CT, Jan. 04 </p> 
@@ -173,18 +173,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/03/world/africa/sudan-prime-minister-resigns.html">Sudan Braces for ‘the Worst’ after Prime Minister Resigns</a> NYT: With the departure of the civilian prime minister Abdalla Hamdok on Sunday, the military and security forces are now fully in control of Sudan again. 
  <p class="updated_time"> 06:05 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/prince-andrew-jeffrey-epstein.html">Woman Suing Prince Andrew for Abuse Settled With Jeffrey Epstein for $500,000</a> NYT: The prince’s lawyers are expected to argue that Virginia Roberts Giuffre’s suit should be dismissed because of the earlier settlement’s terms. 
- <p class="updated_time"> 02:00 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/africa/south-africa-parliament-fire-suspect.html">South Africa Parliament: Suspect Charged in Fire to Appear in Court</a> NYT: A 49-year-old man is facing charges of arson and theft in the blaze, which started Sunday and heavily damaged legislative buildings in Cape Town. 
  <p class="updated_time"> 01:59 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/europe/april-ashley-dead.html">April Ashley, London Socialite and Transgender Pioneer, Dies at 86</a> NYT: She modeled for Vogue, partied with John Lennon and Mick Jagger, and married into minor nobility, all while fighting for legal recognition of her gender. 
  <p class="updated_time"> 01:53 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/europe/berkeley-balcony-collapse-death.html">Victim of Berkeley Balcony Collapse Dies in Ireland</a> NYT: Aoife Beary, who was left with life-changing injuries after the 2015 accident, died on New Year’s Day, her family said. 
- <p class="updated_time"> 09:05 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/asia/india-auction-muslim-women.html">Online ‘Auction’ Is Latest Attack on Muslim Women in India</a> NYT: The fake site, the second in months, is a sign of the organized nature of virtual bullying, with threats of sexualized violence aimed at silencing the outspoken. 
- <p class="updated_time"> 07:43 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/middleeast/tunisia-economy-kais-saied.html">Pressure Mounts on Tunisia’s President to Salvage the Economy</a> NYT: When President Kais Saied seized power in July, he vowed to rescue the failing economy. Tunisians are still waiting for him to fulfill that pledge. 
- <p class="updated_time"> 05:57 AM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/article/hong-kong-media-muzzled.html">How Beijing Has Muted Hong Kong’s Independent Media</a> NYT: Citizen News, a small but aggressive online publication, is the latest outlet to fold amid relentless pressure from the authorities. 
 
 
 </details>
