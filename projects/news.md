@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:50 PM CT, Jan. 06 </p> 
+ <p class="updated_time"> 05:20 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59898559?at_medium=RSS&at_campaign=KARANGA">US Capitol attack: Rioters held dagger to the throat of America - Biden</a> BBC: On the anniversary of the Capitol attack, the US president says "the pain and scars" run deep. 
+ <p class="updated_time"> 05:13 PM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59902320?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Djokovic in immigration detention</a> BBC: The BBC's Ros Atkins looks at the twists and turns of the row over the tennis star's cancelled visa. 
  <p class="updated_time"> 04:37 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-putin-russia.html">In Kazakhstan, Putin Again Seizes on Unrest to Try to Expand Influence</a> NYT: But a series of revolts against a pro-Russian strongmen could also plant the seeds of rebellion at home, analysts say. 
  <p class="updated_time"> 04:35 PM CT, Jan. 06 </p> 
@@ -18,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:04 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1071060685/iranian-oscars-entry-a-hero-explores-the-complexity-of-a-good-deed">Iranian Oscars entry 'A Hero' explores the complexity of a good deed</a> NPR: The Iranian film A Hero is about a man who becomes a celebrity after doing a good deed. In filmmaker Asghar Farhadi's hands, what seems to be a black and white morality tale becomes more gray. 
  <p class="updated_time"> 03:54 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/health/covid-vaccines-boosters.html">Will ‘Forever Boosting’ Beat the Coronavirus?</a> NYT: Everyone should get a booster shot. In the long run, though, doses every few months aren’t a viable public health strategy, scientists say. 
+ <a href="https://www.nytimes.com/2022/01/06/health/covid-vaccines-boosters.html">Scientists Endorse Covid Boosters, But to a Point</a> NYT: Everyone should get a booster shot. In the long run, though, doses every few months aren’t a viable public health strategy, scientists say. 
  <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1071064002/in-spain-the-wise-men-are-kings">In Spain, the Wise Men are Kings</a> NPR: For Christians, Wednesday night marked the Epiphany: the 12th day of Christmas, when the Wise Men or Three Kings bring presents to Jesus in Bethlehem. In Spain, it's a holiday not to be missed. 
  <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
@@ -123,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Charges a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
  <p class="updated_time"> 06:08 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59878710?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: EU looks for role in Russian row with West</a> BBC: Tensions flare over eastern Ukraine and European leaders fear being frozen out of US-Russia talks. 
- <p class="updated_time"> 05:55 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59888675?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... Novak Djokovic and Australia</a> BBC: As Australia cancels the tennis star's visa on his arrival in Melbourne, Ros Atkins looks at how we got here. 
  <p class="updated_time"> 05:11 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/italy-female-statue-padua-prato-della-valle.html">Italy Proposal to Add Female Statue to Square of Men Stirs Debate</a> NYT: In Padua, Italy, a proposal to include a female philosopher in a monument whose 78 sculptures are all men has spurred debate. 
  <p class="updated_time"> 04:10 PM CT, Jan. 05 </p> 
@@ -184,6 +184,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:14 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-lies.html">The Next Big Lies: Jan. 6 Was No Big Deal, or a Left-Wing Plot</a> NYT: How revisionist histories of Jan. 6 picked up where the “stop the steal” campaign left off, warping beliefs about what transpired at the Capitol. 
  <p class="updated_time"> 04:55 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/harris-was-inside-dnc-on-jan-6-when-pipe-bomb-was-discovered-outside-526695">Harris was inside DNC on Jan. 6 when pipe bomb was discovered outside</a> Politico: The then-vice president-elect’s presence inside the building while a bomb was right outside raises sobering questions about her security that day. 
  <p class="updated_time"> 04:54 PM CT, Jan. 06 </p> 
@@ -214,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1071060677/sen-warnock-says-voting-rights-legislation-is-a-moral-issue">Sen. Warnock says voting rights legislation is a moral issue</a> NPR: NPR's Ailsa Chang talks with Sen. Raphael Warnock, D-Geor., who says that if Congress doesn't pass voting legislation, it will have "failed in the trust the people have given us." 
  <p class="updated_time"> 03:06 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/times-reporters-american-democracy.html">Times Reporters Discuss Threats to American Democracy</a> NYT: Our political journalists talked about the Republican push to restrict voting and seize control over elections, and how Democrats are responding. 
- <p class="updated_time"> 03:05 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-lies.html">The Next Big Lies: Jan. 6 Was No Big Deal, or a Left-Wing Plot</a> NYT: How revisionist histories of Jan. 6 picked up where the “stop the steal” campaign left off, warping beliefs about what transpired at the Capitol. 
  <p class="updated_time"> 02:54 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/congress-corporate-donations-2020-election-overturn.html">Corporations Donated Millions to Lawmakers Who Voted to Overturn Election Results</a> NYT: One year after the Capitol riot, many businesses resumed corporate donations to lawmakers who voted against certifying the 2020 election. 
  <p class="updated_time"> 02:41 PM CT, Jan. 06 </p> 
