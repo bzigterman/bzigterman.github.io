@@ -37,7 +37,7 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
  <p class="updated_time"> 09:06 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59892937?at_medium=RSS&at_campaign=KARANGA">Capitol riots: Trump tried to prevent peaceful transition, says Biden</a> BBC: US President Joe Biden says the country must make sure the US Capitol attacks never happen again. 
- <p class="updated_time"> 08:43 AM CT, Jan. 06 </p> 
+ <p class="updated_time"> 08:52 AM CT, Jan. 06 </p> 
  <a href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504">Kazakhstan Protests: Russia Sends Troops as Dozens Killed in Unrest</a> WSJ: Russia sent paratroopers to help Kazakhstan’s leader stamp out protests fueled by frustration with authoritarian rule in the former Soviet republic. 
  <p class="updated_time"> 08:34 AM CT, Jan. 06 </p> 
  <a href="https://www.wsj.com/articles/italy-mandates-vaccines-for-older-people-u-s-surge-continues-11641473067">Italy Mandates Vaccines for Older People; U.S. Surge Continues</a> WSJ: Italy has adopted some of the toughest vaccine requirements in the West in a bid to curb Covid-19 and the fast-spreading Omicron, as figures from New York suggest the new variant produces fewer cases of severe disease. 
@@ -186,6 +186,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:25 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/nick-kristof-booted-off-oregon-ballot-526669">Nick Kristof booted off Oregon ballot</a> Politico: The former New York Times columnist does not meet the three-year residency requirement, the secretary of state said Thursday. 
+ <p class="updated_time"> 01:51 PM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden condemns Trump as a threat to democracy in speech marking one year since January 6 attack</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
  <p class="updated_time"> 01:15 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-lies.html">The Next Big Lies: Jan. 6 Was No Big Deal, or a Left-Wing Plot</a> NYT: How revisionist histories of Jan. 6 picked up where the “stop the steal” campaign left off, warping beliefs about what transpired at the Capitol. 
  <p class="updated_time"> 12:47 PM CT, Jan. 06 </p> 
@@ -198,8 +200,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-memorial.html">One Year Later, Congress Weighs How to Memorialize Jan. 6 at the Capitol</a> NYT: In a building that is both a legislative body and a living museum, lawmakers are grappling with how to commemorate an attack whose victims cannot agree on the basic facts of the day. 
  <p class="updated_time"> 12:15 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/blinken-urges-peaceful-resolution-amid-chaos-in-kazakhstan-526615">Blinken urges ‘peaceful’ resolution to Kazakhstan chaos</a> Politico: A Russian-led military alliance is now intervening after days of violent protests. 
- <p class="updated_time"> 12:09 PM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden condemns Trump as a threat to democracy in speech marking one year since January 6 attack</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
  <p class="updated_time"> 12:05 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/business/economy/richard-clarida-fed-stock-fund.html">A Fed Official’s 2020 Trade Drew Outcry. It Went Further Than First Disclosed.</a> NYT: Corrected disclosures show that Vice Chair Richard H. Clarida sold a stock fund, then swiftly repurchased it before a big Fed announcement. 
  <p class="updated_time"> 12:04 PM CT, Jan. 06 </p> 
