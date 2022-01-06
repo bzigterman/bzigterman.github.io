@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:35 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests">Live Updates: Russia Sends Troops to Kazakhstan to Help Quell Uprising</a> NYT: Dozens of people have been reported killed, and many more injured, in clashes with security forces in the Central Asian nation. The government blames militant groups. 
- <p class="updated_time"> 01:33 PM CT, Jan. 06 </p> 
+ <p class="updated_time"> 01:44 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/europe/pope-pets-kids.html">Pope Scolds Couples Who Choose Pets Over Kids</a> NYT: Expressing concern about global birthrates, Francis said such couples were acting in a selfish way that diminished humanity. 
+ <p class="updated_time"> 01:42 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests">Live Updates: Russia Sends Troops to Kazakhstan to Help Quell Uprising</a> NYT: Dozens of people have been reported killed, and many more injured, in clashes with security forces in the Central Asian nation. The government blames militant groups. 
  <p class="updated_time"> 01:07 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/canada/canada-conversion-therapy-law.html">Canadian Law Banning ‘Conversion Therapy’ Set to Go Into Effect</a> NYT: When it takes effect on Friday, the law will put Canada in the company of more than a dozen countries that have banned the widely discredited practice. 
  <p class="updated_time"> 12:58 PM CT, Jan. 06 </p> 
@@ -37,10 +37,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
  <p class="updated_time"> 09:06 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59892937?at_medium=RSS&at_campaign=KARANGA">Capitol riots: Trump tried to prevent peaceful transition, says Biden</a> BBC: US President Joe Biden says the country must make sure the US Capitol attacks never happen again. 
+ <p class="updated_time"> 08:43 AM CT, Jan. 06 </p> 
+ <a href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504">Kazakhstan Protests: Russia Sends Troops as Dozens Killed in Unrest</a> WSJ: Russia sent paratroopers to help Kazakhstan’s leader stamp out protests fueled by frustration with authoritarian rule in the former Soviet republic. 
+ <p class="updated_time"> 08:34 AM CT, Jan. 06 </p> 
+ <a href="https://www.wsj.com/articles/italy-mandates-vaccines-for-older-people-u-s-surge-continues-11641473067">Italy Mandates Vaccines for Older People; U.S. Surge Continues</a> WSJ: Italy has adopted some of the toughest vaccine requirements in the West in a bid to curb Covid-19 and the fast-spreading Omicron, as figures from New York suggest the new variant produces fewer cases of severe disease. 
  <p class="updated_time"> 08:20 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59893216?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Tigray hospital running out of food for starving children</a> BBC: The hospital treating Surafeal in Ethiopia's Tigray region is also running out of food. 
- <p class="updated_time"> 08:04 AM CT, Jan. 06 </p> 
- <a href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504">Kazakhstan Protests: Russia Sends Troops as Dozens Killed in Unrest</a> WSJ: Russia sent paratroopers to help Kazakhstan’s leader stamp out protests fueled by frustration with authoritarian rule in the former Soviet republic. 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/why-novak-djokovic-was-blocked.html">Why Novak Djokovic Was Blocked From Entering Australia</a> NYT: The men’s No. 1 tennis player had received an exemption to the country’s vaccine requirements. Then the federal government stepped in. 
  <p class="updated_time"> 07:31 AM CT, Jan. 06 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1070840030/police-say-dozens-have-been-killed-in-kazakhstan-unrest">Russia-led alliance troops have arrived in Kazakhstan after mass protests</a> NPR: Russia-led alliance troops arrived in Kazakhstan on Thursday after increasingly chaotic and violent protests rocked the nation for days and resulted in dozens of people killed and hundreds injured. 
  <p class="updated_time"> 02:18 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-defector-dmz.html">North Korea Defector Crosses DMZ Border Twice</a> NYT: Officials say a North Korean who crossed the DMZ in 2020 crossed it again to go back. His life in the South seems to have been one of poverty and isolation. 
- <p class="updated_time"> 01:44 AM CT, Jan. 06 </p> 
- <a href="https://www.wsj.com/articles/italy-mandates-vaccines-for-older-people-u-s-surge-continues-11641473067">Italy Mandates Vaccines for Older People; U.S. Surge Continues</a> WSJ: Italy has adopted some of the toughest vaccine requirements in the West in a bid to curb Covid-19 and the fast-spreading Omicron, as figures from New York suggest the new variant produces fewer cases of severe disease. 
  <p class="updated_time"> 01:28 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Russia-Allied Forces to Intervene as Unrest Sweeps Kazakhstan</a> NYT: The Kazakh president requested the peacekeeping troops as an uprising, sparked by a gas price increase in the resource-rich Central Asian nation, headed toward a fifth day. 
  <p class="updated_time"> 01:10 AM CT, Jan. 06 </p> 
