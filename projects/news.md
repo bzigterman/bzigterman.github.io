@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:34 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests">Live Updates: Russia Sends Troops to Kazakhstan as Dozens of Protesters Are Killed</a> NYT: A revolt sparked by anger over a surge in fuel prices is convulsing the Central Asian nation. As protests turned deadly, troops from a Russian-led alliance began arriving in the country. 
- <p class="updated_time"> 11:22 AM CT, Jan. 06 </p> 
+ <p class="updated_time"> 12:27 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59898559?at_medium=RSS&at_campaign=KARANGA">US Capitol attack: Rioters held dagger to the throat of America - Biden</a> BBC: On the anniversary of the Capitol attack, the US president says "the pain and scars" run deep. 
+ <p class="updated_time"> 12:27 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests">Live Updates: Russia Sends Troops to Kazakhstan as Dozens of Protesters Are Killed</a> NYT: A revolt sparked by anger over a surge in fuel prices is convulsing the Central Asian nation. As protests turned deadly, troops from a Russian-led alliance began arriving in the country. 
+ <p class="updated_time"> 12:23 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/world/europe/boris-johnson-ethics-britain-uk.html">Ethics Adviser Rebukes Boris Johnson Over Downing Street Decorations</a> NYT: The adviser said it was “plainly unsatisfactory” that he was not told that Mr. Johnson had petitioned a prominent donor to arrange financing for the makeover of his apartment. 
+ <p class="updated_time"> 12:19 PM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59897962?at_medium=RSS&at_campaign=KARANGA">Peter Bogdanovich: The Last Picture Show director dies aged 82</a> BBC: The New York filmmaker was Oscar-nominated for his coming-of-age drama starring Cybill Shepherd. 
+ <p class="updated_time"> 12:01 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/travel/coronavirus-cruise-ships-omicron.html">Cruise Ships Are Still Sailing as Cases Rise and Criticism Mounts</a> NYT: One day after the C.D.C. advised against all travel on cruise ships, thousands of cruisers partied like it was 2019. But worries about onboard policies — and frustration over quarantines — are rising. 
  <p class="updated_time"> 11:22 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59882444?at_medium=RSS&at_campaign=KARANGA">Ashers 'gay cake' case: European court rules case inadmissible</a> BBC: A bakery firm was taken to court for refusing to make a cake with a "Support Gay Marriage" slogan. 
  <p class="updated_time"> 11:18 AM CT, Jan. 06 </p> 
@@ -21,10 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59900129?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Serbs seethe over tennis hero's entry ban</a> BBC: Compatriots rally behind their icon as he fights deportation from Australia over vaccine rules. 
  <p class="updated_time"> 10:52 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Machine gun fire heard as street battles rage</a> BBC: The sound of machine guns and explosions can be heard as clashes continue in the city of Almaty. 
- <p class="updated_time"> 10:35 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/europe/boris-johnson-ethics-britain-uk.html">Ethics Adviser Rebukes Boris Johnson Over Downing Street Decorations</a> NYT: The adviser said it was “plainly unsatisfactory” that he was not told that Mr. Johnson had petitioned a prominent donor to arrange financing for the makeover of his apartment. 
- <p class="updated_time"> 10:00 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/travel/coronavirus-cruise-ships-omicron.html">Cruise Ships Are Still Sailing as Cases Rise and Criticism Mounts</a> NYT: One day after the C.D.C. advised against all travel on cruise ships, thousands of cruisers partied like it was 2019. But worries about onboard policies — and frustration over quarantines — is rising. 
  <p class="updated_time"> 09:54 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/explainers-59894266?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Why have there been riots and deaths?</a> BBC: Security forces have killed dozens of suspected rioters and Russian troops have been called in. 
  <p class="updated_time"> 09:13 AM CT, Jan. 06 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/climate/lithium-chile.html">Mining of Lithium, Key to the Climate Fight, Faces New Scrutiny in Chile</a> NYT: Politicians have called for a pause in new mining contracts for lithium, which is in high demand for electric car batteries but is at the heart of a debate in Chile over mines, water rights and inequality. 
  <p class="updated_time"> 06:41 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/novak-djokovic-covid.html">Novak Djokovic Collides With Australia’s Covid Fight</a> NYT: Barring the tennis star from entering the country offers a chance to change the subject as an election looms and coronavirus cases are at record highs. 
- <p class="updated_time"> 05:34 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59893206?at_medium=RSS&at_campaign=KARANGA">Jon Stewart denies accusing JK Rowling of anti-Semitism</a> BBC: The US chat-show host denies accusing the Harry Potter author of anti-Semitism in comments on a podcast. 
  <p class="updated_time"> 05:29 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59894989?at_medium=RSS&at_campaign=KARANGA">Covid-19: More than 100 test positive on an Italy-India flight</a> BBC: They were among 179 passengers on the flight from Milan which landed in Amritsar on Wednesday. 
  <p class="updated_time"> 04:57 AM CT, Jan. 06 </p> 
@@ -186,8 +186,26 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:39 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/harris-hires-a-new-comms-director-jamal-simmons-526626">Harris hires a new comms director, Jamal Simmons</a> Politico: The longtime Democratic operative is a big name. He comes to a staff that's been losing talent. 
+ <p class="updated_time"> 12:18 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-lies.html">The Next Big Lies: Jan. 6 Was No Big Deal, or a Left-Wing Plot</a> NYT: How revisionist histories of Jan. 6 picked up where the “stop the steal” campaign left off, warping beliefs about what transpired at the Capitol. 
+ <p class="updated_time"> 12:15 PM CT, Jan. 06 </p> 
+ <a href="https://www.politico.com/news/2022/01/06/blinken-urges-peaceful-resolution-amid-chaos-in-kazakhstan-526615">Blinken urges ‘peaceful’ resolution to Kazakhstan chaos</a> Politico: A Russian-led military alliance is now intervening after days of violent protests. 
+ <p class="updated_time"> 12:12 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-memorial.html">One Year Later, Congress Weighs How to Memorialize Jan. 6 at the Capitol</a> NYT: In a building that is both a legislative body and a living museum, lawmakers are grappling with how to commemorate an attack whose victims cannot agree on the basic facts of the day. 
+ <p class="updated_time"> 12:09 PM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden condemns Trump as a threat to democracy in speech marking one year since January 6 attack</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
+ <p class="updated_time"> 12:05 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/business/economy/richard-clarida-fed-stock-fund.html">A Fed Official’s 2020 Trade Drew Outcry. It Went Further Than First Disclosed.</a> NYT: Corrected disclosures show that Vice Chair Richard H. Clarida sold a stock fund, then swiftly repurchased it before a big Fed announcement. 
  <p class="updated_time"> 12:04 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/former-administration-officials-block-trump-526623">Ex-Trumpers set to plot how to try and take down Trump</a> Politico: Those involved include Stephanie Grisham, Miles Taylor, Olivia Troye and Anthony Scaramucci. 
+ <p class="updated_time"> 12:03 PM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/joe-biden-january-6-speech-anniversary/index.html">The Point: The single most important -- and powerful -- line from Joe Biden's 1/6 speech</a> CNN: "You can't love your country only when you win." 
+ <p class="updated_time"> 11:59 AM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1070970440/ted-cruz-jan-6-violent-terrorist-attack-tucker-carlson">Republicans criticize Ted Cruz for calling Jan. 6 a violent terrorist attack</a> NPR: "Of all the things that Jan. 6 was, it was definitely not a violent terrorist attack," Fox News commentator Tucker Carlson said in reply to Sen. Ted Cruz of Texas. 
+ <p class="updated_time"> 11:48 AM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1070931178/jan-6-anniversary-biden-speech-transcript">Read President Biden's Jan. 6 speech in full</a> NPR: Biden blasted former President Donald Trump in an address from the U.S. Capitol on the anniversary of the insurrection. 
+ <p class="updated_time"> 11:47 AM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/transcript-joe-biden-january-6-anniversary-speech/index.html">President Joe Biden's remarks on January 6 anniversary</a> CNN: President Joe Biden spoke from the US Capitol on the one-year anniversary of the January 6 insurrection and condemned former President Donald Trump as a threat to democracy. 
  <p class="updated_time"> 11:42 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/taylor-greene-gaetz-bannon-jan-6.html">On Bannon's Show, Gaetz and Taylor Greene Redirect Jan. 6 Blame</a> NYT: The idea that people other than Mr. Trump’s own supporters were responsible for the violence that day has become a popular conspiracy theory among the far right. 
  <p class="updated_time"> 11:40 AM CT, Jan. 06 </p> 
@@ -208,10 +226,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-journalists.html">Times Reporters Discuss Their Experiences Outside the Capitol</a> NYT: A New York Times team was out on Jan. 6, 2021, to cover what was expected to be a modest “Stop the Steal” rally on the Ellipse. 
  <p class="updated_time"> 10:27 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/biden-trump-capitol-riot-526605">Biden decries Trump’s ‘singular responsibility’ for the Capitol riot</a> Politico: One year since the violence of Jan. 6, 2021, the sitting president sharpened his rhetoric toward his predecessor — without using Trump’s name. 
- <p class="updated_time"> 10:07 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-memorial.html">One Year Later, Congress Weighs How to Memorialize Jan. 6 at the Capitol</a> NYT: In a building that is both a legislative body and a living museum, lawmakers are grappling with how to commemorate an attack whose victims cannot agree on the basic facts of the day. 
- <p class="updated_time"> 09:43 AM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden condemns Trump as a threat to democracy in speech marking one year since January 6 attack</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
+ <p class="updated_time"> 10:13 AM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/transcript-kamala-harris-january-6-anniversary-speech/index.html">Vice President Kamala Harris' remarks on January 6 anniversary</a> CNN: Vice President Kamala Harris spoke from the US Capitol on the one-year anniversary of the January 6 insurrection, where she said that on that day, "we all saw what our nation would look like if the forces who seek to dismantle our democracy are successful. The lawlessness, the violence, the chaos." 
  <p class="updated_time"> 09:27 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/january-6-capitol-riot/index.html">One reporter's 21 hour nightmare inside the US Capitol on January 6, 2021</a> CNN: January 6, 2021 started like lots of days on Capitol Hill for CNN reporter Daniella Diaz. She was braced for a very long day as Congress was set to formalize Joe Biden's Electoral College victory. What transpired over the next 21 hours -- rioters storming the US Capitol in an attempted coup -- was history in the making. On the anniversary of that fateful day, I reached out to Daniella to talk about her recollections -- and what memories have stayed with her. Our conversation -- conducted via email and lightly edited for flow -- is below. 
  <p class="updated_time"> 09:16 AM CT, Jan. 06 </p> 
@@ -266,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1070598403/a-year-after-the-jan-6-attack-congress-is-plagued-by-a-toxic-atmosphere">A year after the Jan. 6 attack, Congress is plagued by a toxic atmosphere</a> NPR: Distrust between the parties is high a year after the violent insurrection. And it has affected how the institution operates. 
  <p class="updated_time"> 04:00 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/nyregion/hochul-policy-agenda-ny.html">Kathy Hochul's Speech Is a Road Map to the Campaign That Lies Ahead</a> NYT: Gov. Kathy Hochul sought to exude decisiveness in crisis, previewing her efforts to run as the steady-hand candidate as she seeks her first full term. 
- <p class="updated_time"> 04:00 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/business/economy/richard-clarida-fed-stock-fund.html">A Fed Official’s 2020 Trade Drew Outcry. It Went Further Than First Disclosed.</a> NYT: Corrected disclosures show that Vice Chair Richard H. Clarida sold a stock fund, then swiftly repurchased it before a big Fed announcement. 
  <p class="updated_time"> 04:00 AM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070736018/jan-6-anniversary-investigation-cases-defendants-justice">Where the Jan. 6 insurrection investigation stands, one year later</a> NPR: Officials say the probe is one of the largest and most resource-intensive investigations in American history. More than 700 people have been charged already. 
  <p class="updated_time"> 02:00 AM CT, Jan. 06 </p> 
@@ -332,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/05/politics/covid-19-testing-sites/index.html">Biden administration launching additional testing sites in six states</a> CNN: The Biden administration is opening additional federally run free Covid-19 testing sites in six states across the country -- Maine, Maryland, Nevada, Delaware, Texas and Washington -- as the Omicron variant of the coronavirus continues to surge in the US. 
  <p class="updated_time"> 11:20 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/mcconnell-electoral-count-act-reform-526542">McConnell cracks door to Electoral Count Act reform</a> Politico: “It obviously has some flaws. And it is worth, I think, discussing,” the Senate minority leader said Wednesday. 
- <p class="updated_time"> 11:13 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/republican-impeachment-votes-trump-jan-6.html">10 Republicans Voted to Impeach Trump. What's Become of Them?</a> NYT: Ten House Republicans voted to charge President Donald J. Trump with inciting the Capitol attack. All of them are still struggling with the consequences. 
  <p class="updated_time"> 07:35 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/05/security-still-top-of-mind-a-year-after-capitol-attack-495603">Security still top of mind a year after Capitol attack</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
@@ -342,18 +354,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/jan-6-anniversary-capitol-police-officers-response-526024">What the Jan. 6 responders found: Brotherhood in trauma and a search for accountability</a> Politico: "It's been a hell of a year" for officers Aquilino Gonell, Harry Dunn and Daniel Hodges. They're not done healing yet. 
  <p class="updated_time"> 04:07 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070471317/the-supreme-court-to-hold-a-hearing-on-bidens-vaccine-and-testing-mandate">The Supreme Court to hold a hearing on Biden's vaccine and testing mandate</a> NPR: NPR's Rachel Martin talks to Karen Harned of the National Federation of Independent Business, about its opposition to OSHA's vaccine and testing requirements for private employers. 
- <p class="updated_time"> 04:07 AM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070471284/sen-amy-klobuchar-remains-haunted-by-what-happened-on-jan-6">Sen. Amy Klobuchar remains haunted by what happened on Jan.6</a> NPR: NPR's Rachel Martin talks with Democratic Sen. Amy Klobuchar about the Jan. 6 attack on the U.S. Capitol, and the latest on the investigation and action by Congress. 
- <p class="updated_time"> 04:00 AM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070418884/a-year-after-the-capitol-riot-work-remains-to-safeguard-it-from-another-attack">A year after the Capitol riot, work remains to prevent another attack</a> NPR: The Jan. 6 siege led to a transformation of security for the citadel of democracy and members of Congress. But many say plenty of work remains to ensure another attack never happens again. 
- <p class="updated_time"> 11:37 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/fact-check-capitol-insurrection-january-6-lies/index.html">Fact check: Five enduring lies about the Capitol insurrection</a> CNN: The Capitol insurrection was based on a lie about the 2020 election. And for a whole year now, the insurrection itself has been lied about. 
  <p class="updated_time"> 10:16 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
  <p class="updated_time"> 06:45 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/biden-white-house-omicron-plan-526516">White House embraces a manage-not-contain Omicron game plan</a> Politico: The president is under immense pressure to keep some semblance of social normalcy amid a pandemic that is absolutely roaring. 
- <p class="updated_time"> 02:28 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden announces US will double its order of Pfizer's antiviral pill to treat Covid-19</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
