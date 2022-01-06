@@ -44,7 +44,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:17 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/59585507?at_medium=RSS&at_campaign=KARANGA">China: Is it burdening poor countries with unsustainable debt?</a> BBC: China has become a big lender to poorer countries, and there's been criticism of its approach. 
  <p class="updated_time"> 07:01 PM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/kazakhstans-government-resigns-amid-unrest-over-fuel-prices-11641386544">Russia-Led Peacekeeping Force to Help Quell Kazakhstan Unrest</a> WSJ: Mass protests over an increase in fuel prices have prompted an alliance of former Soviet states to send troops to Kazakhstan after the government resigned and the president imposed a state of emergency. 
+ <a href="https://www.wsj.com/articles/kazakhstans-government-resigns-amid-unrest-over-fuel-prices-11641386544">Russia-Led Force to Help Quell Kazakhstan Unrest</a> WSJ: Mass protests over an increase in fuel prices have prompted an alliance of former Soviet states to send troops to Kazakhstan after the government resigned and the president imposed a state of emergency. 
  <p class="updated_time"> 06:56 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/health/covid-rapid-test-omicron-detection.html">Emerging Data Raise Questions About Antigen Tests and Nasal Swabs</a> NYT: A new study adds to evidence that common rapid tests may fail to detect some Omicron cases in the first days of infection. 
  <p class="updated_time"> 06:54 PM CT, Jan. 05 </p> 
@@ -190,6 +190,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-riot-aftermath.html">A Year Later, Jan. 6 Becomes Just Another Wedge in a Divided Nation</a> NYT: The nearly universal outrage after the assault on the Capitol has reverted to separate blue and red realities, and former President Donald J. Trump has remained the dominant force in his party. 
  <p class="updated_time"> 10:31 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/chicago-mayor-lightfood-teachers-union-laughingstock-526600">Chicago mayor: Teachers union made us a ‘laughingstock’</a> Politico: As the Omicron variant triggers a new wave of Covid-19 cases, educators in the nation's third-largest school district voted late Tuesday to not report to work. 
  <p class="updated_time"> 09:38 PM CT, Jan. 05 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/us/politics/jan-6-capitol-riot-investigation.html">Prosecutors Move Quickly on Jan. 6 Cases, but One Big Question Remains</a> NYT: In the year since the assault on the Capitol by a pro-Trump mob, more than 700 people have been arrested, with little public indication from the Justice Department of how high the investigation might reach. 
  <p class="updated_time"> 08:04 AM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/omicron-covid-relief-package/index.html">Lawmakers discuss additional Covid relief amid Omicron, but talks stall</a> CNN: A bipartisan group of Senate lawmakers discussed the possibility of another economic stimulus package last year amid the Omicron wave of coronavirus, but talks failed to move forward. 
- <p class="updated_time"> 07:55 AM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-gop-jan-6.html">How Trump Kept Control of the G.O.P. After Jan. 6</a> NYT: Only weeks after instigating the Capitol riot, Donald Trump was back in command of the Republican Party. 
  <p class="updated_time"> 07:35 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/05/security-still-top-of-mind-a-year-after-capitol-attack-495603">Security still top of mind a year after Capitol attack</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
