@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59882444?at_medium=RSS&at_campaign=KARANGA">Ashers 'gay cake' case: European court rules case inadmissible</a> BBC: A bakery firm was taken to court for refusing to make a cake with a "Support Gay Marriage" slogan. 
  <p class="updated_time"> 04:09 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-protests.html">Dozens Reported Dead in Kazakhstan, as Russian Alliance Sends Troops</a> NYT: A revolt inspired by anger over a surge in fuel prices has since spread across the country. A Russia-led military alliance has sent troops to help quell the violence in what it described as a temporary peacekeeping effort. 
  <p class="updated_time"> 04:05 AM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070856065/china-lashes-out-at-us-for-supporting-lithuania-in-feud-with-beijing-over-taiwan">China lashes out at US for supporting Lithuania in feud with Beijing over Taiwan</a> NPR: China lashed out at the United States over its support for the Baltic nation of Lithuania in its feud with Beijing over relations with Taiwan. 
  <p class="updated_time"> 04:00 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/travel/coronavirus-cruise-ships-omicron.html">Cruise Ships Are Still Sailing as Cases Rise and Criticism Mounts</a> NYT: One day after the C.D.C. advised against all travel on cruise ships, thousands of cruisers partied like it was 2019. But worries about onboard policies — and frustration over quarantines — is rising. 
- <p class="updated_time"> 03:50 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59882444?at_medium=RSS&at_campaign=KARANGA">Ashers 'gay cake' case: European court rules case inadmissible</a> BBC: A bakery firm was taken to court for refusing to make a cake with a "Support Gay Marriage" slogan. 
  <p class="updated_time"> 03:17 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59889522?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels top tennis player's visa</a> BBC: The tennis player is in a government detention hotel and a decision on deportation will come on Monday. 
  <p class="updated_time"> 03:08 AM CT, Jan. 06 </p> 
