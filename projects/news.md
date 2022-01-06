@@ -56,6 +56,8 @@ permalink: /projects/news/
  <p class="updated_time"> 07:06 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59888870?at_medium=RSS&at_campaign=KARANGA">'A nation in decline' - how the world saw Capitol riot</a> BBC: BBC reporters from China, Canada and Germany assess how the rest of the world saw America's dark day. 
  <p class="updated_time"> 07:01 PM CT, Jan. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59888868?at_medium=RSS&at_campaign=KARANGA">‘Is this America?’ On duty during the Capitol riot</a> BBC: Capitol Police officer Harry Dunn recalls the moment he thought he may get shot by rioters. 
+ <p class="updated_time"> 07:01 PM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/kazakhstans-government-resigns-amid-unrest-over-fuel-prices-11641386544">Russia-Led Force to Help Quell Kazakhstan Unrest</a> WSJ: Mass protests over an increase in fuel prices have prompted an alliance of former Soviet states to send troops to Kazakhstan after the government resigned and the president imposed a state of emergency. 
  <p class="updated_time"> 06:56 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/health/covid-rapid-test-omicron-detection.html">Emerging Data Raise Questions About Antigen Tests and Nasal Swabs</a> NYT: A new study adds to evidence that common rapid tests may fail to detect some Omicron cases in the first days of infection. 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/technology/china-tech-internet-crackdown-layoffs.html">As Beijing Takes Control, Chinese Tech Companies Lose Jobs and Hope</a> NYT: The crackdown is killing the entrepreneurial drive that made China a tech power and destroying jobs that used to attract the country’s brightest. 
  <p class="updated_time"> 09:48 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/05/1070546748/hong-kong-flight-ban">Hong Kong bans flights from U.S. and 7 other countries as omicron surges</a> NPR: Hong Kong authorities announced a two-week ban on flights from eight countries and held 2,500 passengers on a cruise ship for coronavirus testing as the city attempted to stem an omicron outbreak. 
- <p class="updated_time"> 05:15 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59878984?at_medium=RSS&at_campaign=KARANGA">Djokovic exemption reaction: 'He might get boos on court'</a> BBC: Australians give their views on Novak Djokovic being able to play in the Australian Open. 
  <p class="updated_time"> 04:51 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
  <p class="updated_time"> 04:10 AM CT, Jan. 05 </p> 
