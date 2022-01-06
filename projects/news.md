@@ -80,7 +80,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:00 AM CT, Jan. 06 </p> 
  <a href="https://www.wsj.com/articles/russias-demands-on-ukraine-must-be-addressed-urgently-russian-official-says-11641470402">Russia's Demands on Ukraine Must Be Addressed Urgently, Russian Official Says</a> WSJ: Ahead of talks with the U.S., Deputy Russian Foreign Minister Sergei Ryabkov warned the Biden administration against using economic pressure. 
  <p class="updated_time"> 12:00 AM CT, Jan. 06 </p> 
- <a href="https://www.wsj.com/articles/japan-criticizes-u-s-response-after-omicron-spreads-near-american-bases-11641466830">Japan Criticizes U.S. Response After Omicron Spreads Near American Bases</a> WSJ: A surge in Covid-19 infections around U.S. military bases in Japan is generating tension between Tokyo and Washington after a loophole in entry rules for American soldiers accelerated the spread of the Omicron variant. 
+ <a href="https://www.wsj.com/articles/japan-criticizes-u-s-response-after-omicron-spreads-near-american-bases-11641466830">Japan Criticizes U.S. Response After Omicron Spreads Near Bases</a> WSJ: A surge in Covid-19 infections around U.S. military bases in Japan is generating tension between Tokyo and Washington after a loophole in entry rules for American soldiers accelerated the spread of the Omicron variant. 
  <p class="updated_time"> 11:10 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59890533?at_medium=RSS&at_campaign=KARANGA">Xi'an: The messy cost of China's Covid lockdown playbook</a> BBC: With stories of starvation and deaths, has anything been learnt from two years of strict measures? 
  <p class="updated_time"> 11:04 PM CT, Jan. 05 </p> 
@@ -184,6 +184,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:32 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/congress-corporate-donations-2020-election-overturn.html">Companies Donated Millions to Those Who Voted to Overturn Biden's Win</a> NYT: One year after the Capitol riot, many businesses resumed corporate donations to lawmakers who voted against certifying the 2020 election. 
+ <p class="updated_time"> 02:30 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/times-reporters-american-democracy.html">Times Reporters Discuss Threats to American Democracy</a> NYT: Our political journalists talked about the Republican push to restrict voting and seize control over elections, and how Democrats are responding. 
+ <p class="updated_time"> 02:27 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/cheneys-jan-6.html">Cheneys Welcomed Warmly by Democrats at Jan. 6 Event</a> NYT: “The future of the country is at stake, and there are moments when we all have to come together in order to defend the Constitution,” Representative Liz Cheney, Republican of Wyoming, said. 
  <p class="updated_time"> 02:25 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/nick-kristof-booted-off-oregon-ballot-526669">Nick Kristof booted off Oregon ballot</a> Politico: The former New York Times columnist does not meet the three-year residency requirement, the secretary of state said Thursday. 
  <p class="updated_time"> 02:09 PM CT, Jan. 06 </p> 
@@ -316,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/prisons-director-resigning-526575">U.S. prisons director resigning after crises-filled tenure</a> Politico: Michael Carvajal was a Trump administration holdover. 
  <p class="updated_time"> 06:28 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/jan-6-attack-capitol-lawmakers.html">Jan. 6 Assault Still Casts Pall Over Capitol and Its Occupants</a> NYT: The attempt by a violent mob to interfere with a basic democratic task has left a stain on the institution and a strain on relationships. 
- <p class="updated_time"> 06:13 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/white-house-rapid-tests-reimbursement.html">Reimbursement for At-Home Virus Tests Starts Next Week. White House Says</a> NYT: With demand for coronavirus tests exploding, new federal sites will open soon, the White House said, but there were no details yet on when Americans would get the free tests President Biden promised. 
  <p class="updated_time"> 06:09 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/us/politics/biden-harris-voting-rights-speech-atlanta.html">With Legislation Stalled, Biden Will Speak in Atlanta on Voting Rights</a> NYT: He will be joined by Vice President Kamala Harris, who is leading the administration’s push for voting access. 
  <p class="updated_time"> 06:05 PM CT, Jan. 05 </p> 
@@ -332,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
  <p class="updated_time"> 04:31 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
- <p class="updated_time"> 04:24 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/business/economy/federal-reserve-minutes-interest-rates.html">Fed Officials Discussed Raising Rates Sooner and Faster, Minutes Show</a> NYT: Minutes from the Federal Reserve’s December meeting show that officials are contemplating when and how quickly to lift interest rates. 
  <p class="updated_time"> 04:06 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070700705/u-s-and-germany-touch-base-before-meeting-with-russia-about-ukraine-tensions">U.S. and Germany touch base before meeting with Russia about Ukraine tensions</a> NPR: With Russian troops massed on the Ukrainian border, Secretary of State Antony Blinken and his German counterpart huddle before next week's meetings with Russian officials aimed at defusing the crisis. 
  <p class="updated_time"> 03:53 PM CT, Jan. 05 </p> 
@@ -406,8 +408,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/cheney-trump-threat-democracy-526356">Liz Cheney on Trump: He’s a threat to American democracy</a> Politico: “He crossed lines no American president has ever crossed before,” she said. 
  <p class="updated_time"> 10:12 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/capitol-police-chief-short-staffed-526354">Capitol Police chief says force remains short-staffed</a> Politico: “We’re now really about 400 officers short of where we need to be,” J. Thomas Manger said. 
- <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
  <p class="updated_time"> 07:00 AM CT, Jan. 01 </p> 
