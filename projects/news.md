@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:44 PM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59889522?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels top tennis player's visa</a> BBC: The Serbian tennis star has reportedly been taken to a detention hotel awaiting deportation. 
+ <p class="updated_time"> 12:25 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59889522?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels top tennis player's visa</a> BBC: The Serbian tennis star has launched an appeal after being detained in a hotel awaiting deportation. 
+ <p class="updated_time"> 12:06 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59856628?at_medium=RSS&at_campaign=KARANGA">India PM Narendra Modi trapped on Punjab flyover in security breach</a> BBC: The Indian PM cut short a visit to Punjab after protesting farmers blocked his convoy's route. 
  <p class="updated_time"> 11:44 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/sports/tennis/novak-djokovic-australia-visa.html">Novak Djokovic Is Refused Entry Into Australia Over Vaccine Exemption</a> NYT: The No. 1 men’s tennis player was told to leave the country following a 10-hour standoff with government officials at a Melbourne airport. He remained as he awaited the fate of a legal appeal. 
  <p class="updated_time"> 11:32 PM CT, Jan. 05 </p> 
@@ -35,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/asia/hong-kong-flights.html">Hong Kong Suspends Flights From Eight Countries</a> NYT: The new measures will deepen the city’s isolation and mark a return to the tough restrictions from the early days of the pandemic, as officials race to contain the Omicron variant. 
  <p class="updated_time"> 07:17 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/59585507?at_medium=RSS&at_campaign=KARANGA">China: Is it burdening poor countries with unsustainable debt?</a> BBC: China has become a big lender to poorer countries, and there's been criticism of its approach. 
+ <p class="updated_time"> 07:01 PM CT, Jan. 05 </p> 
+ <a href="https://www.wsj.com/articles/kazakhstans-government-resigns-amid-unrest-over-fuel-prices-11641386544">Russia-Led Peacekeeping Force to Help Quell Kazakhstan Unrest</a> WSJ: Mass protests over an increase in fuel prices have prompted an alliance of former Soviet states to send troops to Kazakhstan after the government resigned and the president imposed a state of emergency. 
  <p class="updated_time"> 06:56 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/health/covid-rapid-test-omicron-detection.html">Emerging Data Raise Questions About Antigen Tests and Nasal Swabs</a> NYT: A new study adds to evidence that common rapid tests may fail to detect some Omicron cases in the first days of infection. 
  <p class="updated_time"> 06:54 PM CT, Jan. 05 </p> 
@@ -99,12 +103,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070539543/australia-djokovic-vaccine-exemption">Australia cancels Novak Djokovic's visa after his earlier COVID vaccine exemption</a> NPR: The Australian Border Force said the top-ranked tennis player "failed to provide appropriate evidence to meet the entry requirements to Australia, and his visa has been subsequently cancelled." 
  <p class="updated_time"> 10:06 AM CT, Jan. 05 </p> 
  <a href="https://www.wsj.com/articles/tony-blairs-knighthood-sparks-protest-petition-over-iraq-war-11641405027">Tony Blair's Knighthood Sparks Protest Petition Over Iraq War</a> WSJ: An effort to strip the former British prime minister of the honor has garnered more than 700,000 signatures. 
- <p class="updated_time"> 10:03 AM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/kazakhstans-government-resigns-amid-unrest-over-fuel-prices-11641386544">Kazakhstan's Government Resigns Amid Unrest Over Fuel Prices</a> WSJ: The country’s president imposed a state of emergency as he faces a crisis that threatens to destabilize the oil-rich former Soviet republic. 
  <p class="updated_time"> 10:00 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/technology/china-tech-internet-crackdown-layoffs.html">As Beijing Takes Control, Chinese Tech Companies Lose Jobs and Hope</a> NYT: The crackdown is killing the entrepreneurial drive that made China a tech power and destroying jobs that used to attract the country’s brightest. 
- <p class="updated_time"> 09:58 AM CT, Jan. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59884801?at_medium=RSS&at_campaign=KARANGA">Pope Francis says choosing pets over kids is selfish</a> BBC: Pope Francis has said that those who choose to have pets over children show "a form of selfishness". 
  <p class="updated_time"> 09:48 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/05/1070546748/hong-kong-flight-ban">Hong Kong bans flights from U.S. and 7 other countries as omicron surges</a> NPR: Hong Kong authorities announced a two-week ban on flights from eight countries and held 2,500 passengers on a cruise ship for coronavirus testing as the city attempted to stem an omicron outbreak. 
  <p class="updated_time"> 08:24 AM CT, Jan. 05 </p> 
