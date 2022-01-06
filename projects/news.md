@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1071064002/in-spain-the-wise-men-are-kings">In Spain, the Wise Men are Kings</a> NPR: For Christians, Thursday marks the Epiphany: the 12th day of Christmas, when the Wise Men or Three Kings bring presents to Jesus in Bethlehem. In Spain, it's a holiday not to be missed. 
+ <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1071060684/dozens-are-reported-dead-in-kazakhstan-where-an-anti-government-revolt-is-underw">Dozens are reported dead in Kazakhstan, where an anti-government revolt is underway</a> NPR: NPR's Mary Louise Kelly talks with Melinda Haring, Deputy Director for Atlantic Council's Eurasia Center, on the situation in Kazakhstan and its implications for the rest of the world. 
+ <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1071060678/covid-is-spiking-in-india-further-straining-the-countrys-health-system">COVID is spiking in India, further straining the country's health system</a> NPR: India's COVID-19 caseload is quickly rising, as omicron threatens the country's already precarious health system. 
  <p class="updated_time"> 03:37 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests">Live Updates: Russia Sends Troops to Kazakhstan to Help Quell Uprising</a> NYT: Dozens of people have been reported killed, and many more injured, in clashes with security forces in the Central Asian nation. The government blames militant groups. 
  <p class="updated_time"> 03:34 PM CT, Jan. 06 </p> 
@@ -14,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:31 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/europe/boris-johnson-ethics-britain-uk.html">Ethics Adviser Rebukes Boris Johnson Over Downing Street Decorations</a> NYT: The adviser said it was “plainly unsatisfactory” that he was not told that Mr. Johnson had petitioned a prominent donor to arrange financing for the makeover of his apartment. 
  <p class="updated_time"> 03:30 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Russian troops land as Kazakh crackdown continues</a> BBC: The troops arrive after days of mounting unrest, with both police and protesters reportedly killed. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Russian troops fly in as Kazakh crackdown continues</a> BBC: The troops arrive after days of mounting unrest, with both police and protesters reportedly killed. 
  <p class="updated_time"> 03:14 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59903152?at_medium=RSS&at_campaign=KARANGA">President's residence gutted as Kazakhstan clashes continue</a> BBC: Security forces in Kazakhstan say they have killed dozens of anti-government rioters in the main city, Almaty. 
  <p class="updated_time"> 03:11 PM CT, Jan. 06 </p> 
@@ -141,14 +147,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/05/1070046189/a-texas-team-comes-up-with-a-covid-vaccine-that-could-be-a-global-game-changer">A Texas team comes up with a COVID vaccine that could be a global game changer</a> NPR: Peter Hotez and Maria Elena Bottazzi used an oldie-but- goodie technology to devise a vaccine that's easy to make — and relatively cheap. India has already ordered 300 million doses. 
  <p class="updated_time"> 10:39 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070573184/france-emmanuel-macron-covid-unvaccinated-remarks">France's Macron takes heat after saying he wants to 'piss off' the unvaccinated</a> NPR: The French president made the remarks to a newspaper on Tuesday, causing opposition lawmakers to call a halt to debate on a new nationwide mandate. 
- <p class="updated_time"> 10:14 AM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070539543/australia-djokovic-vaccine-exemption">Australia cancels Novak Djokovic's visa after his earlier COVID vaccine exemption</a> NPR: The Australian Border Force said the top-ranked tennis player "failed to provide appropriate evidence to meet the entry requirements to Australia, and his visa has been subsequently cancelled." 
- <p class="updated_time"> 09:48 AM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/05/1070546748/hong-kong-flight-ban">Hong Kong bans flights from U.S. and 7 other countries as omicron surges</a> NPR: Hong Kong authorities announced a two-week ban on flights from eight countries and held 2,500 passengers on a cruise ship for coronavirus testing as the city attempted to stem an omicron outbreak. 
  <p class="updated_time"> 04:51 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
- <p class="updated_time"> 04:10 AM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070478298/israel-sets-covid-19-record-as-rule-changes-create-whiplash">Israel sets COVID-19 record as rule changes create whiplash</a> NPR: The omicron variant is outpacing the government's ability to make and execute clear pandemic public policy. 
  <p class="updated_time"> 02:46 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/britain-omicron-boris-johnson.html">Britain can ‘ride out’ the Omicron wave without a strict lockdown, Boris Johnson says.</a> NYT: “We can find a way to live with this virus,” the prime minister said. 
  <p class="updated_time"> 09:52 PM CT, Jan. 04 </p> 
@@ -175,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/business/britain-electricity-norway-cables.html">A Widening Web of Undersea Cables Connects Britain to Green Energy</a> NYT: Linking one nation’s power grid with another’s is considered essential as more electricity is generated from solar and wind. 
  <p class="updated_time"> 08:45 PM CT, Jan. 03 </p> 
  <a href="https://www.nytimes.com/2022/01/03/world/americas/ariel-henry-assassination-attempt.html">Haiti Prime Minister Survives Assassination Attempt, His Office Says</a> NYT: Prime Minister Ariel Henry was the target of an unsuccessful attempt on his life over the weekend by gunmen in the northern city of Gonaïves, his office said Monday night. 
- <p class="updated_time"> 06:05 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/prince-andrew-jeffrey-epstein.html">Woman Suing Prince Andrew for Abuse Settled With Jeffrey Epstein for $500,000</a> NYT: The prince’s lawyers are expected to argue that Virginia Roberts Giuffre’s suit should be dismissed because of the earlier settlement’s terms. 
 
 
 </details>
@@ -186,6 +184,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:56 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/biden-lays-out-the-stakes-for-democracy-can-he-sustain-the-case-526688">Biden lays out the stakes for democracy. Can he sustain the case?</a> Politico: The president’s speech on Thursday was hailed by fellow Democrats. Now, they want him to keep at it. 
+ <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1071060684/dozens-are-reported-dead-in-kazakhstan-where-an-anti-government-revolt-is-underw">Dozens are reported dead in Kazakhstan, where an anti-government revolt is underway</a> NPR: NPR's Mary Louise Kelly talks with Melinda Haring, Deputy Director for Atlantic Council's Eurasia Center, on the situation in Kazakhstan and its implications for the rest of the world. 
+ <p class="updated_time"> 03:43 PM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden condemns Trump as a threat to democracy in speech marking one year since January 6 attack</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
+ <p class="updated_time"> 03:37 PM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/dhs-online-threats-extremist-platforms-48-hours/index.html">DHS warns online threats have increased on extremist platforms over past 48 hours with some against lawmakers</a> CNN: There has been an increase in online extremist content in the past 48 hours, including threats to lawmakers and the President, according to a Department of Homeland Security intelligence memo obtained by CNN. 
  <p class="updated_time"> 03:34 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1071060682/how-the-narrative-of-the-jan-6-insurrection-has-changed-in-the-last-year">How the narrative of the Jan. 6 insurrection has changed in the last year</a> NPR: It's been a year since the deadly attack on the Capitol. And as arrests continue and jail sentences begin for those who committed violent acts there, the narrative surrounding the event has shifted. 
  <p class="updated_time"> 03:34 PM CT, Jan. 06 </p> 
@@ -208,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/us/politics/i-texted-my-editor-guns-drawn-times-reporters-discuss-their-experiences-inside-the-capitol-on-jan-6.html">Times Reporters Discuss Their Experiences Inside the Capitol on Jan. 6</a> NYT: Focused on the counting of electoral votes, those inside the building didn’t fully grasp how bad things had gotten outside until it was too late. 
  <p class="updated_time"> 02:01 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/trump-tweet-january-6/index.html">Trump did not want to tweet 'stay peaceful' during January 6 riot, key former aide says</a> CNN: A former Trump White House official said then-President Donald Trump initially refused to tweet the words "stay peaceful" as the attack on the US Capitol on January 6, 2021, was escalating. 
- <p class="updated_time"> 01:51 PM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden condemns Trump as a threat to democracy in speech marking one year since January 6 attack</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
  <p class="updated_time"> 12:47 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/elaine-luria-reelection-announcement/index.html">1/6 panel member launches reelection bid amid backdrop of insurrection anniversary</a> CNN: Rep. Elaine Luria, a Democrat from Virginia and a member of the House committee investigating the Capitol Riot, announced on the anniversary of the attack that she will run for reelection in her Virginia Beach swing district. 
  <p class="updated_time"> 12:40 PM CT, Jan. 06 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/business/economy/richard-clarida-fed-stock-fund.html">A Fed Official’s 2020 Trade Drew Outcry. It Went Further Than First Disclosed.</a> NYT: Corrected disclosures show that Vice Chair Richard H. Clarida sold a stock fund, then swiftly repurchased it before a big Fed announcement. 
  <p class="updated_time"> 12:04 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/former-administration-officials-block-trump-526623">Ex-Trumpers set to plot how to try and take down Trump</a> Politico: Those involved include Stephanie Grisham, Miles Taylor, Olivia Troye and Anthony Scaramucci. 
- <p class="updated_time"> 12:03 PM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/joe-biden-january-6-speech-anniversary/index.html">The Point: The single most important -- and powerful -- line from Joe Biden's 1/6 speech</a> CNN: "You can't love your country only when you win." 
  <p class="updated_time"> 11:59 AM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070970440/ted-cruz-jan-6-violent-terrorist-attack-tucker-carlson">Republicans criticize Ted Cruz for calling Jan. 6 a violent terrorist attack</a> NPR: "Of all the things that Jan. 6 was, it was definitely not a violent terrorist attack," Fox News commentator Tucker Carlson said in reply to Sen. Ted Cruz of Texas. 
  <p class="updated_time"> 11:48 AM CT, Jan. 06 </p> 
@@ -346,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070700705/u-s-and-germany-touch-base-before-meeting-with-russia-about-ukraine-tensions">U.S. and Germany touch base before meeting with Russia about Ukraine tensions</a> NPR: With Russian troops massed on the Ukrainian border, Secretary of State Antony Blinken and his German counterpart huddle before next week's meetings with Russian officials aimed at defusing the crisis. 
  <p class="updated_time"> 03:53 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070700691/people-who-believe-trumps-election-lies-are-running-for-offices-that-control-vot">People who believe Trump's election lies are running for offices that control voting</a> NPR: More than a dozen Trump-aligned Republicans, who doubt President Biden won in 2020, are running to control the election process in their states. It could have sweeping consequences. 
- <p class="updated_time"> 03:41 PM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070700670/rep-jamie-raskin-on-growing-through-trauma-in-year-since-jan-6-and-his-sons-deat">Rep. Jamie Raskin on growing through trauma in year since Jan. 6 and his son's death</a> NPR: NPR's Mary Louise Kelly speaks with Rep. Jamie Raskin, D-Md., about leading an impeachment effort against President Trump. Raskin was inside the Capitol building on Jan. 6. 
  <p class="updated_time"> 01:22 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/jan-6-capitol-riot-lancaster-republicans/index.html">How January 6 changed what it means to be a Republican in one Pennsylvania county</a> CNN: The day after the January 6 attack on the US Capitol, three local Republican officials in Pennsylvania's Lancaster County announced they were leaving the GOP.  Among them was Ethan Demme, a lifelong conservative who had previously served as the youngest Republican Party chairman in this deeply red corner of southeast Pennsylvania.  
  <p class="updated_time"> 11:45 AM CT, Jan. 05 </p> 
