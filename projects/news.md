@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:08 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests">Live Updates: Russia Sends Troops to Kazakhstan to Help Quell Uprising</a> NYT: Dozens of people have been reported killed, and many more injured, in clashes with security forces in the Central Asian nation. The government blames militant groups. 
+ <p class="updated_time"> 04:04 PM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1071060685/iranian-oscars-entry-a-hero-explores-the-complexity-of-a-good-deed">Iranian Oscars entry 'A Hero' explores the complexity of a good deed</a> NPR: The Iranian film A Hero is about a man who becomes a celebrity after doing a good deed. In filmmaker Asghar Farhadi's hands, what seems to be a black and white morality tale becomes more gray. 
+ <p class="updated_time"> 04:02 PM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59898569?at_medium=RSS&at_campaign=KARANGA">Russian submarine hit Royal Navy warship in North Atlantic</a> BBC: The incident was captured by a television crew filming a documentary on board HMS Northumberland. 
  <p class="updated_time"> 03:57 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59898559?at_medium=RSS&at_campaign=KARANGA">US Capitol attack: Rioters held dagger to the throat of America - Biden</a> BBC: On the anniversary of the Capitol attack, the US president says "the pain and scars" run deep. 
  <p class="updated_time"> 03:54 PM CT, Jan. 06 </p> 
@@ -17,14 +23,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1071060684/dozens-are-reported-dead-in-kazakhstan-where-an-anti-government-revolt-is-underw">Dozens are reported dead in Kazakhstan, where an anti-government revolt is underway</a> NPR: NPR's Mary Louise Kelly talks with Melinda Haring, Deputy Director for Atlantic Council's Eurasia Center, on the situation in Kazakhstan and its implications for the rest of the world. 
  <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1071060678/covid-is-spiking-in-india-further-straining-the-countrys-health-system">COVID is spiking in India, further straining the country's health system</a> NPR: India's COVID-19 caseload is quickly rising, as omicron threatens the country's already precarious health system. 
- <p class="updated_time"> 03:37 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/01/06/world/kazakhstan-protests">Live Updates: Russia Sends Troops to Kazakhstan to Help Quell Uprising</a> NYT: Dozens of people have been reported killed, and many more injured, in clashes with security forces in the Central Asian nation. The government blames militant groups. 
  <p class="updated_time"> 03:34 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1071064023/how-western-australia-has-managed-to-avoid-large-covid-19-outbreaks">How Western Australia has managed to avoid large Covid-19 outbreaks</a> NPR: NPR's Ailsa Chang speaks with reporter Jacob Kagi of the Australian Broadcasting Corporation about how Western Australia has managed their COVID-19 numbers throughout the pandemic. 
  <p class="updated_time"> 03:31 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/europe/boris-johnson-ethics-britain-uk.html">Ethics Adviser Rebukes Boris Johnson Over Downing Street Decorations</a> NYT: The adviser said it was “plainly unsatisfactory” that he was not told that Mr. Johnson had petitioned a prominent donor to arrange financing for the makeover of his apartment. 
  <p class="updated_time"> 03:30 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Russian troops fly in as Kazakh crackdown continues</a> BBC: The troops arrive after days of mounting unrest, with both police and protesters reportedly killed. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Russian troops fly in as crackdown continues</a> BBC: The troops arrive after days of mounting unrest, with both police and protesters reportedly killed. 
  <p class="updated_time"> 03:14 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59903152?at_medium=RSS&at_campaign=KARANGA">President's residence gutted as Kazakhstan clashes continue</a> BBC: Security forces in Kazakhstan say they have killed dozens of anti-government rioters in the main city, Almaty. 
  <p class="updated_time"> 03:05 PM CT, Jan. 06 </p> 
@@ -147,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070514847/the-global-supply-chain-arriving-today-christopher-mims">The global supply chain is amazingly efficient. So why did it break down?</a> NPR: "Americans went on a shopping spree as soon as lockdown started, and we haven't really stopped," journalist Christopher Mims says. His book, Arriving Today, goes inside the global supply chain. 
  <p class="updated_time"> 11:47 AM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/05/1070046189/a-texas-team-comes-up-with-a-covid-vaccine-that-could-be-a-global-game-changer">A Texas team comes up with a COVID vaccine that could be a global game changer</a> NPR: Peter Hotez and Maria Elena Bottazzi used an oldie-but- goodie technology to devise a vaccine that's easy to make — and relatively cheap. India has already ordered 300 million doses. 
- <p class="updated_time"> 10:39 AM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070573184/france-emmanuel-macron-covid-unvaccinated-remarks">France's Macron takes heat after saying he wants to 'piss off' the unvaccinated</a> NPR: The French president made the remarks to a newspaper on Tuesday, causing opposition lawmakers to call a halt to debate on a new nationwide mandate. 
  <p class="updated_time"> 04:51 AM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html">Leftists Are Ascendant in Latin America as Key Elections Loom</a> NYT: Growing inequality and sputtering economies have helped fuel a wave of leftist victories that may soon extend to Brazil and Colombia. 
  <p class="updated_time"> 02:46 AM CT, Jan. 05 </p> 
@@ -182,10 +184,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:55 PM CT, Jan. 06 </p> 
+ <a href="https://www.politico.com/news/2022/01/06/harris-was-inside-dnc-on-jan-6-when-pipe-bomb-was-discovered-outside-526695">Harris was inside DNC on Jan. 6 when pipe bomb was discovered outside</a> Politico: The then-vice president-elect’s presence inside the building while a bomb was right outside raises sobering questions about her security that day. 
+ <p class="updated_time"> 04:24 PM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1071064009/trump-is-the-most-powerful-figure-in-the-republican-party-despite-lies-and-jan-6">Trump is the most powerful figure in the Republican party, despite lies and Jan. 6</a> NPR: Many Republican allies of former President Trump were outraged in 2021 when the Capitol was attacked. But as Trump's popularity endures, the party's elected leaders now largely overlook Jan. 6. 
+ <p class="updated_time"> 04:24 PM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1071063988/on-capitol-hill-president-biden-and-other-leaders-mark-anniversary-of-jan-6-atta">On Capitol Hill, President Biden and other leaders mark anniversary of Jan. 6 attack</a> NPR: President Biden and Democratic leaders converged at the Capitol on Thursday with speeches, ceremonies and prayer to mark the anniversary of the Jan. 6 insurrection. 
+ <p class="updated_time"> 04:09 PM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/michael-erik-kurilla-middle-east-operations-nomination/index.html">Biden nominates a new general to oversee military operations in Middle East</a> CNN: President Joe Biden is nominating Army Lt. Gen. Michael Erik Kurilla to be the next commander of US Central Command, which oversees military operations in the Middle East, according to multiple defense officials and nomination paperwork sent to Congress. 
+ <p class="updated_time"> 04:07 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-jan-6-capitol-attack.html">Biden Holds Trump Responsible in Jan. 6 Speech</a> NYT: In a speech at the Capitol marking the anniversary of the Jan. 6 attack, President Biden offered his most sustained condemnation of his predecessor’s “web of lies about the 2020 election.” 
+ <p class="updated_time"> 04:00 PM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/republicans-promote-election-lies-january-6/index.html">A year after the insurrection, Republicans around the country still promote Trump's election lies</a> CNN: In Colorado -- a state President Joe Biden won handily in 2020 -- a Republican candidate for US Senate pointed his firearm at a fake Dominion voting machine and blasted it to smithereens in a campaign ad riddled with falsehoods. 
+ <p class="updated_time"> 04:00 PM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/january-6-democracy-danger-what-matters/index.html">Analysis: Americans aren't hearing the 'democracy in danger' alarm</a> CNN: Who exactly is listening to all the warnings about the state of American democracy? 
  <p class="updated_time"> 03:56 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/biden-lays-out-the-stakes-for-democracy-can-he-sustain-the-case-526688">Biden lays out the stakes for democracy. Can he sustain the case?</a> Politico: The president’s speech on Thursday was hailed by fellow Democrats. Now, they want him to keep at it. 
- <p class="updated_time"> 03:53 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-jan-6-capitol-attack.html">Biden Holds Trump Responsible in Jan. 6 Speech</a> NYT: In a speech at the Capitol marking the anniversary of the Jan. 6 attack, President Biden offered his most sustained condemnation of his predecessor’s “web of lies about the 2020 election.” 
  <p class="updated_time"> 03:52 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/johnny-isakson-senate-memorial.html">Republicans and Democrats Come Together to Remember Senator Isakson on Jan. 6</a> NYT: On a day that amplified political divisions, lawmakers from both parties gathered in an Atlanta church to honor one of the Senate’s great champions of bipartisanship. 
  <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
@@ -337,19 +351,11 @@ permalink: /projects/news/
  <p class="updated_time"> 06:05 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/peter-velz-vincent-evans-kamala-harris/index.html">Two Harris staffers announce they're leaving vice president's office</a> CNN: Two staffers announced Wednesday that they are leaving Vice President Kamala Harris' office. 
  <p class="updated_time"> 06:02 PM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/january-6-committee-2022-strategy/index.html">The January 6 investigation faces a pivotal year ahead</a> CNN: As the first anniversary of the attack on the US Capitol approaches, the House committee investigating January 6 faces its biggest challenge yet: proving allegations that there was a coordinated effort behind the insurrection and convincing the American people that former President Donald Trump was complicit. 
- <p class="updated_time"> 06:02 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/democrats-biden-agenda-loss/index.html">Democrats at a loss over path to enact Biden agenda: It feels 'like Groundhog Day'</a> CNN: Democratic senators are beginning 2022 where they left 2021: With no clear path to pass their agenda and ample frustration in the ranks. 
- <p class="updated_time"> 05:14 PM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/violent-rhetoric-january-6-anniversary/index.html">Uptick in violent rhetoric ahead of January 6 Capitol attack anniversary, but no specific plot</a> CNN: In the days ahead of the anniversary of the January 6 US Capitol attack, federal officials have seen an increase in unspecified calls for violence, the targeting of politicians and calls for rebellion on domestic violent extremist forums, according to a federal law enforcement official. However, there is still nothing to suggest a coordinated plan or specific threat, the official and other law enforcement sources said. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
  <p class="updated_time"> 04:31 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
- <p class="updated_time"> 04:06 PM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070700705/u-s-and-germany-touch-base-before-meeting-with-russia-about-ukraine-tensions">U.S. and Germany touch base before meeting with Russia about Ukraine tensions</a> NPR: With Russian troops massed on the Ukrainian border, Secretary of State Antony Blinken and his German counterpart huddle before next week's meetings with Russian officials aimed at defusing the crisis. 
- <p class="updated_time"> 03:53 PM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070700691/people-who-believe-trumps-election-lies-are-running-for-offices-that-control-vot">People who believe Trump's election lies are running for offices that control voting</a> NPR: More than a dozen Trump-aligned Republicans, who doubt President Biden won in 2020, are running to control the election process in their states. It could have sweeping consequences. 
  <p class="updated_time"> 01:22 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/jan-6-capitol-riot-lancaster-republicans/index.html">How January 6 changed what it means to be a Republican in one Pennsylvania county</a> CNN: The day after the January 6 attack on the US Capitol, three local Republican officials in Pennsylvania's Lancaster County announced they were leaving the GOP.  Among them was Ethan Demme, a lifelong conservative who had previously served as the youngest Republican Party chairman in this deeply red corner of southeast Pennsylvania.  
  <p class="updated_time"> 11:45 AM CT, Jan. 05 </p> 
