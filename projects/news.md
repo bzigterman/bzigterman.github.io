@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:09 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-protests.html">Dozens Reported Dead in Kazakhstan, as Russian Alliance Sends Troops</a> NYT: A revolt inspired by anger over a surge in fuel prices has since spread across the country. A Russia-led military alliance has sent troops to help quell the violence in what it described as a temporary peacekeeping effort. 
+ <p class="updated_time"> 04:05 AM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1070856065/china-lashes-out-at-us-for-supporting-lithuania-in-feud-with-beijing-over-taiwan">China lashes out at US for supporting Lithuania in feud with Beijing over Taiwan</a> NPR: China lashed out at the United States over its support for the Baltic nation of Lithuania in its feud with Beijing over relations with Taiwan. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/travel/coronavirus-cruise-ships-omicron.html">Cruise Ships Are Still Sailing as Cases Rise and Criticism Mounts</a> NYT: One day after the C.D.C. advised against all travel on cruise ships, thousands of cruisers partied like it was 2019. But worries about onboard policies — and frustration over quarantines — is rising. 
  <p class="updated_time"> 03:50 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59882444?at_medium=RSS&at_campaign=KARANGA">Ashers 'gay cake' case: European court rules case inadmissible</a> BBC: A bakery firm was taken to court for refusing to make a cake with a "Support Gay Marriage" slogan. 
  <p class="updated_time"> 03:17 AM CT, Jan. 06 </p> 
@@ -20,9 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:47 AM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070840030/police-say-dozens-have-been-killed-in-kazakhstan-unrest">Police say dozens have been killed in Kazakhstan unrest</a> NPR: Police spokeswoman Saltanat Azirbek says there were attempts to storm buildings in Almaty overnight and that "dozens of attackers were liquidated." 
  <p class="updated_time"> 02:47 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59891036?at_medium=RSS&at_campaign=KARANGA">Bulli Bai app: Man held over making app to 'auction' Muslim women</a> BBC: Police suspect the 20-year-old to be the creator of the derogatory app that targets Muslim women. 
- <p class="updated_time"> 02:45 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-protests.html">Dozens Reported Dead in Kazakhstan, as Russian Alliance Sends Troops</a> NYT: A revolt inspired by anger over a surge in fuel prices has since spread across the country. A Russia-led military alliance has sent troops to help quell the violence in what it described as a temporary peacekeeping effort. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59891036?at_medium=RSS&at_campaign=KARANGA">Bulli Bai app: Fourth man held over auction of Muslim women</a> BBC: Police suspect the 20-year-old to be the creator of the app that targets Muslim women. 
  <p class="updated_time"> 02:30 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/why-novak-djokovic-was-blocked.html">Why Novak Djokovic Was Blocked From Entering Australia</a> NYT: The men’s No. 1 tennis player had received an exemption to the country’s vaccine requirements. Then the federal government stepped in. 
  <p class="updated_time"> 02:18 AM CT, Jan. 06 </p> 
@@ -42,7 +46,11 @@ permalink: /projects/news/
  <p class="updated_time"> 10:54 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59876989?at_medium=RSS&at_campaign=KARANGA">North Korea successfully tested hypersonic missile, says report</a> BBC: State media KNCA said the missile from yesterday's launch had "precisely hit" its target. 
  <p class="updated_time"> 10:48 PM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504">Dozens Killed in Kazakhstan as Authorities Crack Down on Unrest</a> WSJ: Civilians and law-enforcement officers were killed after authorities moved to quell protests that have racked the Central Asian nation for several days and an alliance of troops from former Soviet states arrived to help quash the unrest. 
+ <a href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504">Dozens Killed as Kazakhstan
+		
+			 
+		
+	Cracks Down on Protests</a> WSJ: Civilians and law-enforcement officers were killed after authorities moved against protesters in the Central Asian nation after several days of unrest, and an alliance of troops from former Soviet states arrived to support local forces. 
  <p class="updated_time"> 10:37 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/covid-variant-france.html">W.H.O. Downplays Threat From New Virus Variant in France</a> NYT: The so-called I.H.U. variant contains numerous mutations of the coronavirus, but experts say it has shown little sign of spreading so far. 
  <p class="updated_time"> 10:30 PM CT, Jan. 05 </p> 
@@ -143,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59735955?at_medium=RSS&at_campaign=KARANGA">Iconic Bangkok station Hua Lamphong reaches the end of the line</a> BBC: Hua Lamphong has seen the start and end of journeys for generations of Thai travellers and tourists alike. 
  <p class="updated_time"> 04:17 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/africa/southafrica-parliament-fire-suspect.html">Mystery Deepens as Suspect Is Charged in South Africa Parliament Fire</a> NYT: The man was also accused of possessing explosives, stealing laptops and breaking security laws. Former neighbors were shocked. His lawyer said the government was rushing to find a scapegoat. 
- <p class="updated_time"> 04:12 PM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070363988/haiti-assassination-charges">The U.S. charges a former Colombian soldier in Haitian president's assassination</a> NPR: The U.S. government announced that it charged Mario Antonio Palacios, a 43-year-old former Colombian soldier who is one of the main suspects in the July killing of Haitian president Jovenel Moïse. 
  <p class="updated_time"> 03:39 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/middleeast/palestinian-hunger-strike-israel.html">Palestinian Prisoner’s Hunger Strike Leads to Deal for Release</a> NYT: A Palestinian accused of plotting to kill Israelis went on a hunger strike to protest his imprisonment without trial. Fearing unrest, Israel agreed to release him. 
  <p class="updated_time"> 03:22 PM CT, Jan. 04 </p> 
@@ -186,6 +192,20 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/06/congress-members-capitol-riot-reflection-525949">Jan. 6, in their own words: Members of Congress look back and forward</a> Politico: Democrats and Republicans alike spoke frankly with POLITICO about how they've dealt with the attack and how it's affected both them personally and the institution of Congress. 
  <p class="updated_time"> 04:30 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/jan-6-anniversary-congressional-staffers-new-normal-525989">One year later, congressional staffers reckon with their new normal</a> Politico: The trauma of the violence on Jan. 6, 2021, still reverberates for many of the aides who make Capitol Hill tick. 
+ <p class="updated_time"> 04:15 AM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1070849350/sen-hawley-faces-no-real-political-ramifications-back-home-for-embracing-jan-6">Sen. Hawley faces no real political ramifications back home for embracing Jan. 6</a> NPR: Sen. Josh Hawley greeted demonstrators on Jan. 6, 2021 and refused to certify election results. In Missouri, Hawley has faced little, if anything, in terms of a political downside for his actions. 
+ <p class="updated_time"> 04:05 AM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1070856065/china-lashes-out-at-us-for-supporting-lithuania-in-feud-with-beijing-over-taiwan">China lashes out at US for supporting Lithuania in feud with Beijing over Taiwan</a> NPR: China lashed out at the United States over its support for the Baltic nation of Lithuania in its feud with Beijing over relations with Taiwan. 
+ <p class="updated_time"> 04:01 AM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1070598403/a-year-after-the-jan-6-attack-congress-is-plagued-by-a-toxic-atmosphere">A year after the Jan. 6 attack, Congress is plagued by a toxic atmosphere</a> NPR: Distrust between the parties is high a year after the violent insurrection. And it has impacted how the institution operates. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 06 </p> 
+ <a href="https://www.npr.org/2022/01/06/1070736018/jan-6-anniversary-investigation-cases-defendants-justice">Where the investigation into the Jan. 6 insurrection stands, one year later</a> NPR: Officials say the probe is one of the largest and most resource-intensive investigations in American history. More than 700 people have been charged already. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/nyregion/hochul-policy-agenda-ny.html">Kathy Hochul's Speech Is a Road Map to the Campaign That Lies Ahead</a> NYT: Gov. Kathy Hochul sought to exude decisiveness in crisis, previewing her efforts to run as the steady-hand candidate as she seeks her first full term. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/business/economy/richard-clarida-fed-stock-fund.html">A Fed Official’s 2020 Trade Drew Outcry. It Went Further Than First Disclosed.</a> NYT: Corrected disclosures show that Vice Chair Richard H. Clarida sold a stock fund, then swiftly repurchased it before a big Fed announcement. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-memorial.html">One Year Later, Congress Weighs How to Memorialize Jan. 6 at the Capitol</a> NYT: In a building that is both a legislative body and a living museum, lawmakers are grappling with how to commemorate an attack whose victims cannot agree on the basic facts of the day. 
  <p class="updated_time"> 02:00 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-riot-aftermath.html">A Year Later, Jan. 6 Becomes Just Another Wedge in a Divided Nation</a> NYT: The nearly universal outrage after the assault on the Capitol has reverted to separate blue and red realities, and former President Donald J. Trump has remained the dominant force in his party. 
  <p class="updated_time"> 10:31 PM CT, Jan. 05 </p> 
@@ -330,26 +350,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
  <p class="updated_time"> 07:30 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2021/12/29/politics/january-6-committee-investigation-trump-what-matters/index.html">The January 6 committee formed 6 months ago. Here's what it's uncovered.</a> CNN: It's been a dramatic six months since the establishment of the House select committee investigating the January 6 Capitol Hill riot. 
- <p class="updated_time"> 07:13 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/us/politics/trump-jan-6-capitol-attack-anniversary.html">Donald Trump Cancels Jan. 6 Event, After Allies Consider It a Distraction</a> NYT: A Mar-a-Lago news conference on the anniversary of the assault on the Capitol struck Republicans, including some advisers to the former president, as a bad idea. 
- <p class="updated_time"> 06:59 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/business/sean-hannity-jan-6-committee.html">Sean Hannity Is Asked to Cooperate in Jan. 6 Inquiry as Panel Details Texts</a> NYT: The committee told Mr. Hannity it had obtained “dozens of text messages” he exchanged with senior Trump White House officials around the time of the riot. 
  <p class="updated_time"> 06:48 PM CT, Jan. 04 </p> 
  <a href="https://www.npr.org/2022/01/04/1070408567/house-jan-6-committee-seeks-to-question-fox-news-sean-hannity-about-capitol-riot">House Jan. 6 committee seeks to question Fox News' Sean Hannity about the Capitol riot</a> NPR: In its request to speak with Hannity, the panel disclosed newly revealed texts he allegedly sent, including one on Jan. 5 that said: "[I'm] very worried about the next 48 hours." 
  <p class="updated_time"> 06:45 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/biden-white-house-omicron-plan-526516">White House embraces a manage-not-contain Omicron game plan</a> Politico: The president is under immense pressure to keep some semblance of social normalcy amid a pandemic that is absolutely roaring. 
- <p class="updated_time"> 06:40 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/us/politics/biden-pfizer-pill-order.html">Biden Administration Doubles Order of Pfizer's Covid Pill</a> NYT: President Biden announced that his administration would double its order of Pfizer’s scarce Covid-19 antiviral drug, which has been shown to reduce hospitalizations. 
- <p class="updated_time"> 03:46 PM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070338038/illinois-rep-bobby-rush-a-democrat-is-retiring-after-30-years-in-the-u-s-house">Illinois Rep. Bobby Rush, a Democrat, is retiring after 30 years in the U.S. House</a> NPR: Longtime Illinois Democratic Rep. Bobby Rush announced on Tuesday that he is leaving Congress. The former Black Panther has represented the South Side of Chicago in Congress since 1993. 
- <p class="updated_time"> 03:46 PM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070338031/what-u-s-capitol-security-looks-like-a-year-after-the-jan-6-insurrection">What U.S. Capitol security looks like a year after the Jan. 6 insurrection</a> NPR: A year after the Jan. 6 riot, a new team of Capitol security leaders are in place, and congressional probes are investigating what went wrong that day. The partisan divide in Congress has intensified. 
- <p class="updated_time"> 03:46 PM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070337975/democrats-revisit-voting-rights-legislation-around-jan-6-anniversary">Democrats revisit voting rights legislation around Jan. 6 anniversary</a> NPR: Democrats are making a fresh push on voting rights legislation around the anniversary of the Jan. 6 insurrection, while also trying to revive President Biden's Build Back Better agenda. 
  <p class="updated_time"> 03:36 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/police-officer-lawsuits-capitol-riot-trump-526491">Police officer lawsuits pile up against Trump over Jan. 6</a> Politico: Three more officers who responded to the Jan. 6 attack filed a lawsuit against the former president Tuesday, seeking damages for physical and emotional injuries. 
- <p class="updated_time"> 03:24 PM CT, Jan. 04 </p> 
- <a href="https://www.npr.org/2022/01/04/1070337968/why-is-the-big-lie-proving-so-hard-to-dispel">Why is the 'Big Lie' proving so hard to dispel?</a> NPR: One year after the insurrection at the U.S. Capitol, a new NPR/Ipsos poll shows many Americans still buy into the "Big Lie": the baseless claim that the 2020 election was stolen. 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
