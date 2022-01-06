@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:17 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59889522?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels top tennis player's visa</a> BBC: The tennis player is in a government detention hotel and a decision on deportation will come on Monday. 
+ <p class="updated_time"> 03:08 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Dozens killed in crackdown</a> BBC: Police say dozens of rioters were killed in an operation to restore order in the main city, Almaty. 
  <p class="updated_time"> 02:59 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
  <p class="updated_time"> 02:48 AM CT, Jan. 06 </p> 
@@ -19,10 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/australia/why-novak-djokovic-was-blocked.html">Why Novak Djokovic Was Blocked From Entering Australia</a> NYT: The men’s No. 1 tennis player had received an exemption to the country’s vaccine requirements. Then the federal government stepped in. 
  <p class="updated_time"> 02:18 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-defector-dmz.html">To Reach South Korea, He Risked His Life. To Leave It, He Did It Again.</a> NYT: Officials say a North Korean who crossed the DMZ in 2020 crossed it again to go back. His life in the South seems to have been one of poverty and isolation. 
- <p class="updated_time"> 02:09 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59889522?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels top tennis player's visa</a> BBC: The tennis player is in a government detention hotel and a decision on deportation will come on Monday. 
- <p class="updated_time"> 01:50 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59880166?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Dozens killed in crackdown</a> BBC: Police say dozens of rioters were killed in an operation to restore order in the main city, Almaty. 
  <p class="updated_time"> 01:28 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Russia-Allied Forces to Intervene as Unrest Sweeps Kazakhstan</a> NYT: The Kazakh president requested the peacekeeping troops as an uprising, sparked by a gas price increase in the resource-rich Central Asian nation, headed toward a fifth day. 
  <p class="updated_time"> 01:10 AM CT, Jan. 06 </p> 
