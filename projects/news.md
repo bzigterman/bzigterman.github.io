@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:57 PM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59898559?at_medium=RSS&at_campaign=KARANGA">US Capitol attack: Rioters held dagger to the throat of America - Biden</a> BBC: On the anniversary of the Capitol attack, the US president says "the pain and scars" run deep. 
+ <p class="updated_time"> 03:54 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/health/covid-vaccines-boosters.html">Will ‘Forever Boosting’ Beat the Coronavirus?</a> NYT: Everyone should get a booster shot. In the long run, though, doses every few months aren’t a viable public health strategy, scientists say. 
  <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1071064002/in-spain-the-wise-men-are-kings">In Spain, the Wise Men are Kings</a> NPR: For Christians, Thursday marks the Epiphany: the 12th day of Christmas, when the Wise Men or Three Kings bring presents to Jesus in Bethlehem. In Spain, it's a holiday not to be missed. 
  <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Russian troops fly in as Kazakh crackdown continues</a> BBC: The troops arrive after days of mounting unrest, with both police and protesters reportedly killed. 
  <p class="updated_time"> 03:14 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59903152?at_medium=RSS&at_campaign=KARANGA">President's residence gutted as Kazakhstan clashes continue</a> BBC: Security forces in Kazakhstan say they have killed dozens of anti-government rioters in the main city, Almaty. 
- <p class="updated_time"> 03:11 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59898559?at_medium=RSS&at_campaign=KARANGA">US Capitol attack: Rioters held dagger to the throat of America - Biden</a> BBC: On the anniversary of the Capitol attack, the US president says "the pain and scars" run deep. 
  <p class="updated_time"> 03:05 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/06/1069872384/for-many-afghans-winter-is-forcing-a-cruel-choice-of-whether-to-eat-or-stay-warm">For many Afghans, winter is forcing a cruel choice of whether to eat or stay warm</a> NPR: "It shouldn't be a lottery of life about who gets to eat, who doesn't get to eat. Do I keep my child warm or do I give my child food?" a World Food Programme Afghanistan spokesperson tells NPR. 
  <p class="updated_time"> 02:43 PM CT, Jan. 06 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/asia/philippines-manila-covid-lockdown.html">Philippines Expands Lockdown for Unvaccinated Around Manila</a> NYT: The new rules bar unvaccinated residents from leaving their homes except for a list of essential reasons. 
  <p class="updated_time"> 02:00 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/britain-electricity-norway-cables.html">A Widening Web of Undersea Cables Connects Britain to Green Energy</a> NYT: Linking one nation’s power grid with another’s is considered essential as more electricity is generated from solar and wind. 
- <p class="updated_time"> 08:45 PM CT, Jan. 03 </p> 
- <a href="https://www.nytimes.com/2022/01/03/world/americas/ariel-henry-assassination-attempt.html">Haiti Prime Minister Survives Assassination Attempt, His Office Says</a> NYT: Prime Minister Ariel Henry was the target of an unsuccessful attempt on his life over the weekend by gunmen in the northern city of Gonaïves, his office said Monday night. 
 
 
 </details>
@@ -184,6 +184,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:56 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/biden-lays-out-the-stakes-for-democracy-can-he-sustain-the-case-526688">Biden lays out the stakes for democracy. Can he sustain the case?</a> Politico: The president’s speech on Thursday was hailed by fellow Democrats. Now, they want him to keep at it. 
+ <p class="updated_time"> 03:53 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-jan-6-capitol-attack.html">Biden Holds Trump Responsible in Jan. 6 Speech</a> NYT: In a speech at the Capitol marking the anniversary of the Jan. 6 attack, President Biden offered his most sustained condemnation of his predecessor’s “web of lies about the 2020 election.” 
+ <p class="updated_time"> 03:52 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/johnny-isakson-senate-memorial.html">Republicans and Democrats Come Together to Remember Senator Isakson on Jan. 6</a> NYT: On a day that amplified political divisions, lawmakers from both parties gathered in an Atlanta church to honor one of the Senate’s great champions of bipartisanship. 
  <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1071060684/dozens-are-reported-dead-in-kazakhstan-where-an-anti-government-revolt-is-underw">Dozens are reported dead in Kazakhstan, where an anti-government revolt is underway</a> NPR: NPR's Mary Louise Kelly talks with Melinda Haring, Deputy Director for Atlantic Council's Eurasia Center, on the situation in Kazakhstan and its implications for the rest of the world. 
  <p class="updated_time"> 03:43 PM CT, Jan. 06 </p> 
