@@ -285,7 +285,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
  <p class="updated_time"> 01:09 PM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/louisiana-governor-pardons-plessy-526546">Louisiana gov pardons Plessy, of ‘separate but equal’ ruling</a> Politico: John Bel Edwards posthumously pardoned Homer Plessy, the Black man whose arrest sparked the SCOTUS ruling that cemented “separate but equal” into law. 
+ <a href="https://www.politico.com/news/2022/01/05/louisiana-governor-pardons-plessy-526546">Louisiana governor pardons Plessy, of ‘separate but equal’ ruling</a> Politico: John Bel Edwards posthumously pardoned Homer Plessy, the Black man whose arrest sparked the SCOTUS ruling that cemented “separate but equal” into law. 
  <p class="updated_time"> 12:25 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/tom-barrack/index.html">Former Trump adviser Tom Barrack to go on trial for foreign lobbying charges in September</a> CNN: A federal judge set the foreign lobbying trial for Tom Barrack, a former adviser to then-President Donald Trump, for September. 
  <p class="updated_time"> 11:52 AM CT, Jan. 05 </p> 
@@ -330,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/upshot/biden-child-tax-credit.html">Why Biden’s Expanded Child Tax Credit Isn’t More Popular</a> NYT: The expansion has expired, and a bill to renew it has stalled. Public opinion is favorable but not overwhelmingly so, for several reasons. 
  <p class="updated_time"> 11:37 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/fact-check-capitol-insurrection-january-6-lies/index.html">Fact check: Five enduring lies about the Capitol insurrection</a> CNN: The Capitol insurrection was based on a lie about the 2020 election. And for a whole year now, the insurrection itself has been lied about. 
- <p class="updated_time"> 10:24 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/sebastian-gorka-jan-6-committee-526534">Jan. 6 committee seeking phone records from Sebastian Gorka</a> Politico: The radio host is suing to block the panel from getting his records. 
  <p class="updated_time"> 10:16 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
  <p class="updated_time"> 07:30 PM CT, Jan. 04 </p> 
