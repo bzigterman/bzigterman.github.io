@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:24 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 01:27 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
  <p class="updated_time"> 01:13 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/rochelle-walensky-cdc-covid-guidance.html">C.D.C Director Defends Covid-19 Isolation Guidance</a> NYT: Dr. Rochelle P. Walensky held the agency’s first independent news briefing since the Trump White House ended them nearly two years ago. 
