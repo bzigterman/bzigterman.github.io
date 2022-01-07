@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:27 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-putin-russia.html">In Kazakhstan, Putin Again Seizes on Unrest to Try to Expand Influence</a> NYT: But a series of revolts against a pro-Russian strongman could also plant the seeds of rebellion at home, analysts say. 
+ <p class="updated_time"> 10:01 PM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59903785?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic saga: Australia investigates visas of other tennis players</a> BBC: As Novak Djokovic faces possible deportation, the Australian Open draw is cast into more uncertainty. 
  <p class="updated_time"> 09:15 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59898559?at_medium=RSS&at_campaign=KARANGA">US Capitol attack: Rioters held dagger to the throat of America - Biden</a> BBC: On the anniversary of the Capitol attack, the US president says "the pain and scars" run deep. 
  <p class="updated_time"> 09:13 PM CT, Jan. 06 </p> 
@@ -25,12 +29,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59867318?at_medium=RSS&at_campaign=KARANGA">Munich: Edge of War gives Neville Chamberlain a makeover</a> BBC: The Jeremy Irons and George MacKay film re-examines the events leading up to World War Two. 
  <p class="updated_time"> 06:10 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59879762?at_medium=RSS&at_campaign=KARANGA">Lithuania wobbles after daring to defy China</a> BBC: It stood up to China over Taiwan, but this week Lithuania's president said it made a mistake. 
- <p class="updated_time"> 06:08 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-putin-russia.html">In Kazakhstan, Putin Again Seizes on Unrest to Try to Expand Influence</a> NYT: But a series of revolts against a pro-Russian strongmen could also plant the seeds of rebellion at home, analysts say. 
  <p class="updated_time"> 06:07 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59649006?at_medium=RSS&at_campaign=KARANGA">Myanmar coup: The doctors and nurses defying the military</a> BBC: Many healthcare workers have refused to work in state hospitals and are now operating underground. 
  <p class="updated_time"> 06:04 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59902318?at_medium=RSS&at_campaign=KARANGA">Kashmir's pashminas: bringing women back to lead a beautiful craft</a> BBC: The emergence of weaving machinery, and decreasing wages, have forced many Kashmiri women out of the industry. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59902318?at_medium=RSS&at_campaign=KARANGA">Kashmir's pashminas: bringing women back to lead a beautiful craft</a> BBC: Weaving machinery and decreasing wages have forced many Kashmiri women out of the industry. 
  <p class="updated_time"> 05:36 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/china-xian-lockdown-covid.html">Xi'an Is China's Biggest Covid Challenge Since Wuhan</a> NYT: Xi’an, a city of 13 million people, has been on lockdown since Dec. 22, the longest in the country since the early days of the outbreak in Wuhan. 
  <p class="updated_time"> 05:20 PM CT, Jan. 06 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/travel/coronavirus-cruise-ships-omicron.html">Cruise Ships Are Still Sailing as Cases Rise and Criticism Mounts</a> NYT: One day after the C.D.C. advised against all travel on cruise ships, thousands of cruisers partied like it was 2019. But worries about onboard policies — and frustration over quarantines — are rising. 
  <p class="updated_time"> 11:50 AM CT, Jan. 06 </p> 
  <a href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504">Kazakhstan Protests Have Russia Sending Troops as Dozens Killed in Unrest</a> WSJ: Russia sent paratroopers to help Kazakhstan’s leader stamp out protests fueled by frustration with authoritarian rule in the former Soviet republic. 
- <p class="updated_time"> 11:22 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59882444?at_medium=RSS&at_campaign=KARANGA">Ashers 'gay cake' case: European court rules case inadmissible</a> BBC: A bakery firm was taken to court for refusing to make a cake with a "Support Gay Marriage" slogan. 
  <p class="updated_time"> 11:09 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html">Using Harsh Language, Macron Issues a Challenge to the Unvaccinated</a> NYT: The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds. 
  <p class="updated_time"> 09:54 AM CT, Jan. 06 </p> 
@@ -182,6 +182,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:59 PM CT, Jan. 06 </p> 
+ <a href="https://www.politico.com/news/2022/01/06/ted-cruz-jan-6-terrorist-tucker-carlson-526725">Ted Cruz walks back Jan. 6 'terrorist' remark in heated exchange with Tucker Carlson</a> Politico: The senator brushed off his previous phrasing as “sloppy” and “frankly dumb.” 
  <p class="updated_time"> 08:50 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/trump-capitol-police-lawsuit-january-6/index.html">Capitol Police officer who suffered concussion on January 6 is latest to sue Trump seeking accountability</a> CNN: US Capitol Police Officer Briana Kirkland is suing former President Donald Trump for the physical and emotional pain she endured, including a traumatic brain injury, because of the Capitol insurrection, according to a new filing in DC District Court. 
  <p class="updated_time"> 08:31 PM CT, Jan. 06 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/06/congress-members-capitol-riot-reflection-525949">Jan. 6, in their own words: Members of Congress look back and forward</a> Politico: Democrats and Republicans alike spoke frankly with POLITICO about how they've dealt with the attack and how it's affected both them personally and the institution of Congress. 
  <p class="updated_time"> 04:30 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/jan-6-anniversary-congressional-staffers-new-normal-525989">One year later, congressional staffers reckon with their new normal</a> Politico: The trauma of the violence on Jan. 6, 2021, still reverberates for many of the aides who make Capitol Hill tick. 
- <p class="updated_time"> 04:30 AM CT, Jan. 06 </p> 
- <a href="https://www.politico.com/news/2022/01/06/january-6-gop-events-526569">GOP commemorates denialism day</a> Politico: Republican activists are planning rallies, vigils and other events in more than a dozen states for Jan. 6 participants they depict as “patriots” or “political prisoners.” 
  <p class="updated_time"> 04:15 AM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070849350/sen-hawley-faces-no-real-political-ramifications-back-home-for-jan-6-actions">Sen. Hawley faces no real political ramifications back home for Jan. 6 actions</a> NPR: Sen. Josh Hawley greeted demonstrators on Jan. 6, 2021 and refused to certify election results. In Missouri, Hawley has faced little, if anything, in terms of a political downside for his actions. 
  <p class="updated_time"> 04:15 AM CT, Jan. 06 </p> 
