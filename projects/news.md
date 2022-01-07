@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:49 PM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59901094?at_medium=RSS&at_campaign=KARANGA">Djokovic stay highlights refugee concerns at Melbourne detention hotel</a> BBC: People held at the detention hotel - some for years - complain of mouldy food and poor conditions. 
  <p class="updated_time"> 11:40 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59903785?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic saga: Australia investigates visas of other tennis players</a> BBC: As Novak Djokovic faces possible deportation, the Australian Open draw is cast into more uncertainty. 
  <p class="updated_time"> 11:23 PM CT, Jan. 06 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59902318?at_medium=RSS&at_campaign=KARANGA">Kashmir's pashminas: bringing women back to lead a beautiful craft</a> BBC: Weaving machinery and decreasing wages have forced many Kashmiri women out of the industry. 
  <p class="updated_time"> 05:36 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/china-xian-lockdown-covid.html">Xi'an Is China's Biggest Covid Challenge Since Wuhan</a> NYT: Xi’an, a city of 13 million people, has been on lockdown since Dec. 22, the longest in the country since the early days of the outbreak in Wuhan. 
- <p class="updated_time"> 05:20 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59901094?at_medium=RSS&at_campaign=KARANGA">Djokovic stay highlights refugee concerns at Melbourne detention hotel</a> BBC: People held at the detention hotel - some for years - complain of mouldy food and poor conditions. 
  <p class="updated_time"> 05:13 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-59902320?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Djokovic in immigration detention</a> BBC: The BBC's Ros Atkins looks at the twists and turns of the row over the tennis star's cancelled visa. 
  <p class="updated_time"> 04:35 PM CT, Jan. 06 </p> 
