@@ -1156,21 +1156,21 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">166.0K</td>
-<td class="gt_row gt_right">575.0K</td>
-<td class="gt_row gt_right">+246&percnt;</td></tr>
+<td class="gt_row gt_right">184.0K</td>
+<td class="gt_row gt_right">603.0K</td>
+<td class="gt_row gt_right">+228&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">65.0K</td>
+<td class="gt_row gt_right gt_striped">65.7K</td>
 <td class="gt_row gt_right gt_striped">120.0K</td>
-<td class="gt_row gt_right gt_striped">+85&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">+83&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
+<td class="gt_row gt_right">1.6K</td>
 <td class="gt_row gt_right">1.3K</td>
-<td class="gt_row gt_right">1.2K</td>
-<td class="gt_row gt_right">&minus;9&percnt;</td></tr>
+<td class="gt_row gt_right">&minus;22&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">1.5M</td>
+<td class="gt_row gt_right gt_striped">1.4M</td>
 <td class="gt_row gt_right gt_striped">465.0K</td>
-<td class="gt_row gt_right gt_striped">&minus;69&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;68&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">204.0M</td>
 <td class="gt_row gt_right">205.0M</td>
@@ -1182,7 +1182,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Wednesday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
     </tr>
   </tfoot>
   
@@ -1550,29 +1550,29 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">710.0K</td>
+<td class="gt_row gt_right">745.0K</td>
 <td class="gt_row gt_right">1.9M</td>
-<td class="gt_row gt_right">+166&percnt;</td></tr>
+<td class="gt_row gt_right">+162&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
-<td class="gt_row gt_right gt_striped">6.7K</td>
-<td class="gt_row gt_right gt_striped">6.0K</td>
-<td class="gt_row gt_right gt_striped">&minus;11&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">7.0K</td>
+<td class="gt_row gt_right gt_striped">5.9K</td>
+<td class="gt_row gt_right gt_striped">&minus;16&percnt;</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
-<td class="gt_row gt_right">37.2M</td>
+<td class="gt_row gt_right">39.1M</td>
 <td class="gt_row gt_right">30.4M</td>
-<td class="gt_row gt_right">&minus;18&percnt;</td></tr>
+<td class="gt_row gt_right">&minus;22&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">3.8B</td>
 <td class="gt_row gt_right gt_striped">3.9B</td>
 <td class="gt_row gt_right gt_striped">+3&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Pct. Fully Vaccinated</td>
-<td class="gt_row gt_right">48.0</td>
+<td class="gt_row gt_right">48.1</td>
 <td class="gt_row gt_right">49.7</td>
-<td class="gt_row gt_right">+4&percnt;</td></tr>
+<td class="gt_row gt_right">+3&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Wednesday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
     </tr>
   </tfoot>
   
@@ -1581,12 +1581,12 @@ html {
 
 ## Case Acceleration
 
-As of Wednesday, the 14-day percent change in average new cases was:
+As of Thursday, the 14-day percent change in average new cases was:
   
 - 211% in Champaign County
 - 116% in Illinois
-- 246% in the United States
-- 166% worldwide
+- 227% in the United States
+- 161% worldwide
 
 ![Case Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png)
 
@@ -1594,11 +1594,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Wednesday, the 14-day percent change in average new deaths was:
+As of Thursday, the 14-day percent change in average new deaths was:
   
 - 19% in Illinois
-- -9% in the United States
-- -11% worldwide
+- -23% in the United States
+- -16% worldwide
 
 ![Death Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png)
 
