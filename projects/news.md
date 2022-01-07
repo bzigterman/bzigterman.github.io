@@ -7,16 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:46 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 03:59 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/africa/jawar-mohammed-release-ethiopia.html">Jawar Mohammed to Be Released From Prison by Ethiopian President</a> NYT: Prime Minister Abiy Ahmed declared the amnesty on Orthodox Christmas and offered to start a dialogue with some opponents after 14 months of war. 
- <p class="updated_time"> 03:44 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 03:58 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
+ <p class="updated_time"> 03:58 PM CT, Jan. 07 </p> 
+ <a href="https://www.npr.org/2022/01/07/1071409661/in-remote-honduras-institutions-are-permeated-by-organized-drug-crime">In remote Honduras, institutions are permeated by organized drug crime</a> NPR: NPR's Audie Cornish speaks with veteran journalist Carlos Dada, founder of El Faro newspaper, about his latest reporting from Honduras. 
+ <p class="updated_time"> 03:57 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/sports/olympics/alysa-liu-coronavirus.html">Alysa LiuAly Will Miss National Championships After Positive Coronavirus Test</a> NYT: The teenager had hoped a strong showing would secure her a spot on the U.S. team for the Beijing Winter Olympics next month. 
+ <p class="updated_time"> 03:53 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59912361?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Jogger's murderers sentenced to life in prison</a> BBC: Three men who killed the black jogger given life sentences by judge who condemns "callous" murder. 
  <p class="updated_time"> 03:41 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071409646/a-hero-tells-the-story-of-how-complicated-a-good-deed-and-a-small-lie-can-be">'A Hero' tells the story of how complicated a good deed (and a small lie) can be</a> NPR: NPR's Mary Louise Kelly speaks with Iranian director Asghar Farhadi about his new film, A Hero. The story examines the complexity of what appears to many to be a good deed. 
- <p class="updated_time"> 03:39 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
  <p class="updated_time"> 03:38 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59912794?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: BBC witnesses apocalyptic scenes in main city</a> BBC: The BBC witnesses the aftermath of protests and deadly violence in Kazakhstan's biggest city Almaty. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59912794?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: BBC witnesses apocalyptic scenes in main city</a> BBC: A BBC reporter sees the aftermath of protests and deadly violence in Kazakhstan's biggest city Almaty. 
  <p class="updated_time"> 02:58 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/nato-russia-ukraine.html">NATO Vows United Response to Russian Aggression Against Ukraine</a> NYT: Foreign ministers from the alliance, meeting Friday, hope that Moscow will choose diplomacy and de-escalation instead, amid skepticism that Russia is sincere in wanting substantive talks. 
  <p class="updated_time"> 02:48 PM CT, Jan. 07 </p> 
@@ -161,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/australia/why-novak-djokovic-was-blocked.html">Why Novak Djokovic Was Blocked From Entering Australia</a> NYT: The men’s No. 1 tennis player had received an exemption to the country’s vaccine requirements. Then the federal government stepped in. 
  <p class="updated_time"> 06:41 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/novak-djokovic-covid.html">Novak Djokovic Collides With Australia’s Covid Fight</a> NYT: Barring the tennis star from entering the country offers a chance to change the subject as an election looms and coronavirus cases are at record highs. 
- <p class="updated_time"> 04:05 AM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1070856065/china-lashes-out-at-us-for-supporting-lithuania-in-feud-with-beijing-over-taiwan">China lashes out at U.S. for supporting Lithuania in feud with Beijing over Taiwan</a> NPR: China lashed out at the United States over its support for the Baltic nation of Lithuania in its feud with Beijing over relations with Taiwan. 
  <p class="updated_time"> 02:48 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
  <p class="updated_time"> 01:28 AM CT, Jan. 06 </p> 
@@ -198,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:56 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/lani-guinier-dead.html">Lani Guinier, Legal Scholar at the Center of Controversy, Dies at 71</a> NYT: President Bill Clinton pulled her nomination as assistant attorney general in 1993 after she came under criticism for her views on voting rights. 
  <p class="updated_time"> 03:18 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/arbery-killers-get-life-in-prison-no-parole-for-father-son-526754">Arbery killers get life in prison; no parole for father, son</a> Politico: In November, a jury convicted all three defendants of murder, aggravated assault, false imprisonment and attempted false imprisonment. 
  <p class="updated_time"> 03:17 PM CT, Jan. 07 </p> 
@@ -298,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/january-6-insurrection-joe-biden-donald-trump-2024-election/index.html">Analysis: Biden rediscovers his fighting spirit as he takes on Trump</a> CNN: In marking the anniversary of the Capitol insurrection, President Joe Biden rediscovered the sense of mission and political clarity that had disappeared when his presidency slumped during a cascade of crises in the second half of 2021. 
  <p class="updated_time"> 10:59 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/ted-cruz-jan-6-terrorist-tucker-carlson-526725">Ted Cruz walks back Jan. 6 'terrorist' remark in heated exchange with Tucker Carlson</a> Politico: The senator brushed off his previous phrasing as “sloppy” and “frankly dumb.” 
- <p class="updated_time"> 08:31 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-lies.html">The Next Big Lies: Jan. 6 Was No Big Deal, or a Left-Wing Plot</a> NYT: How revisionist histories of Jan. 6 picked up where the “stop the steal” campaign left off, warping beliefs about what transpired at the Capitol. 
  <p class="updated_time"> 08:02 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/inside-biden-january-6-speech/index.html">Inside Biden's fiery speech and his decision to confront Trump's danger head-on</a> CNN: It was only a little more than a month ago when President Joe Biden, asked about another head-shaking revelation regarding his predecessor, seemed to balk at a mere mention of the man. 
  <p class="updated_time"> 07:47 PM CT, Jan. 06 </p> 
@@ -390,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
  <p class="updated_time"> 11:20 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/mcconnell-electoral-count-act-reform-526542">McConnell cracks door to Electoral Count Act reform</a> Politico: “It obviously has some flaws. And it is worth, I think, discussing,” the Senate minority leader said Wednesday. 
- <p class="updated_time"> 09:47 AM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/chicago-schools-shutdown-teachers-covid-protest-526535">Chicago Public Schools shut down amid teachers union protest of Covid protocols</a> Politico: The union wants the school district to put in place a more robust testing policy. 
  <p class="updated_time"> 07:35 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/05/security-still-top-of-mind-a-year-after-capitol-attack-495603">Security still top of mind a year after Capitol attack</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
