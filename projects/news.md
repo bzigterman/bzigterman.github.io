@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:37 AM CT, Jan. 07 </p> 
+ <p class="updated_time"> 08:49 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Global Coronavirus Cases Top 300 Million</a> NYT: The number of known cases, likely an undercount, is now less of an indicator than it used to be in determining pandemic strategy. Governments are marshaling resources toward vaccinating people. 
- <p class="updated_time"> 08:19 AM CT, Jan. 07 </p> 
+ <p class="updated_time"> 08:43 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-putin-russia.html">In Kazakhstan, Putin Again Seizes on Unrest to Try to Expand Influence</a> NYT: But a series of revolts against a pro-Russian strongman could also plant the seeds of rebellion at home, analysts say. 
+ <p class="updated_time"> 08:40 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59912704?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic thanks fans as he awaits deportation decision</a> BBC: The men's tennis star is awaiting a decision on his deportation from Australia over a vaccination row. 
+ <p class="updated_time"> 08:39 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/arts/music/einar-sweden-rap.html">After Killing of Einar, Sweden Struggles With 'Gangster Rap'</a> NYT: Hip-hop, the country’s most popular music, has quickly become a lightning rod for Sweden’s long-roiling problems with gun violence and gang warfare. 
  <p class="updated_time"> 08:04 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">Kazakhstan Protests Lead President to  Crack Down: ‘Fire Without Warning’</a> NYT: President Kassym-Jomart Tokayev said on Friday that “bandits” were responsible for the unrest and must be “destroyed.” He thanked Russia for sending troops to help establish order. 
  <p class="updated_time"> 07:47 AM CT, Jan. 07 </p> 
@@ -33,14 +37,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071188267/chinese-anti-virus-lockdowns-add-to-concerns-over-economy">Chinese anti-virus lockdowns add to concerns over economy</a> NPR: China's lockdowns of big cities to fight coronavirus outbreaks are prompting concern about more disruptions to global industries after two makers of processor chips said their factories were affected. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/americas/luiza-trajano-brazil-magalu-racism.html">Billionaire’s Star Rises as She Takes Bold Stance on Racism in Brazil</a> NYT: Luiza Trajano turned a small family store into a retail giant. Now, a company policy limiting its executive training program to Black applicants is drawing praise, outrage and much soul-searching. 
- <p class="updated_time"> 03:35 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-putin-russia.html">In Kazakhstan, Putin Again Seizes on Unrest to Try to Expand Influence</a> NYT: But a series of revolts against a pro-Russian strongman could also plant the seeds of rebellion at home, analysts say. 
  <p class="updated_time"> 03:28 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/revenge-recalls-spark-debate-in-taiwan-how-much-democracy-is-too-much-11641558601">'Revenge Recalls' Spark Debate in Taiwan: How Much Democracy Is Too Much?</a> WSJ: Popular referendums and recall elections have some wondering whether Taiwan is too democratic for its own good. Some see benefits for China in elections that “never end.” 
  <p class="updated_time"> 03:27 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642">Kazakh Leader Gives Security Forces Order to Shoot Without Warning</a> WSJ: President Kassym-Jomart Tokayev said his government had largely restored order as the country’s security forces scoured for protesters after days of unrest triggered by a fuel-price increase. 
- <p class="updated_time"> 03:18 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/arts/music/einar-sweden-rap.html">After Killing of Einar, Sweden Struggles With 'Gangster Rap'</a> NYT: Hip-hop, the country’s most popular music, has quickly become a lightning rod for Sweden’s long-roiling problems with gun violence and gang warfare. 
  <p class="updated_time"> 02:53 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/omicron-fuels-u-k-s-biggest-covid-19-surge-but-few-need-ventilators-11641560402">Omicron Fuels U.K.'s Biggest Covid-19 Surge, but Few Need Ventilators</a> WSJ: Despite the surge, the number of people critically ill in hospitals hasn’t increased significantly, a promising sign for countries including the U.S. that are seeing their own rapid run-ups in infections. 
  <p class="updated_time"> 02:39 AM CT, Jan. 07 </p> 
@@ -184,6 +184,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:33 AM CT, Jan. 07 </p> 
+ <a href="https://www.politico.com/news/2022/01/07/unemployment-rate-falls-december-526727">U.S. jobless rate sinks to 3.9 percent as many more people find jobs</a> Politico: U.S. employers added a modest 199,000 jobs last month while the unemployment rate fell sharply, at a time when businesses are struggling to fill jobs with many Americans remaining reluctant to return to the workforce. 
+ <p class="updated_time"> 09:30 AM CT, Jan. 07 </p> 
+ <a href="https://www.politico.com/news/2022/01/07/scotus-vaccine-mandate-omicron-covid-526711">Supreme Court weighs Biden’s vaccine mandates as Omicron spreads</a> Politico: The pair of requirements, which would affect tens of millions of workers, have been in legal limbo since agencies published them last year. 
+ <p class="updated_time"> 08:42 AM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/rochelle-walensky-cdc-communications-covid-19/index.html">CDC director turns to media consultant as Covid-19 messaging frustrations mount</a> CNN: Dr. Rochelle Walensky assumed her new role as the director of the US Centers for Disease Control and Prevention last January with a vow to restore trust in the agency. But last fall, several months into the job and after a series of messaging missteps, Walensky sought out media training. 
  <p class="updated_time"> 08:37 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-trump-jan-6.html">Ignoring Trump Didn’t Work. Biden Goes After ‘a Defeated Former President.’</a> NYT: In a speech marking the anniversary of the Capitol riot, the president confronted Trumpism, even as he refused to utter his predecessor’s name. 
  <p class="updated_time"> 08:32 AM CT, Jan. 07 </p> 
@@ -194,8 +200,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/business/economy/jobs-interest-rates-federal-reserve.html">As Unemployment Falls, Interest Rate Increases Creep Nearer</a> NYT: A fresh jobs report showed that the unemployment rate is still dropping. That likely keeps the Fed on track to raise interest rates as inflation rises. 
  <p class="updated_time"> 08:15 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/bidens-colorado-wildfire/index.html">Bidens to tour damage from massive Colorado wildfire</a> CNN: President Joe Biden and first lady Jill Biden are scheduled to travel to Colorado on Friday to meet with families who were affected by a recent massive wildfire that destroyed hundreds of homes and thousands of acres. 
- <p class="updated_time"> 08:05 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/rochelle-walensky-cdc-communications-covid-19/index.html">CDC director turns to media consultant as Covid-19 messaging frustrations mount</a> CNN: Dr. Rochelle Walensky assumed her new role as the director of the US Centers for Disease Control and Prevention last January with a vow to restore trust in the agency. But last fall, several months into the job and after a series of messaging missteps, Walensky sought out media training. 
  <p class="updated_time"> 08:00 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/mark-kelly-9-million-fourth-quarter-arizona/index.html">Sen. Mark Kelly raises nearly $9 million in final three months of 2021</a> CNN: Sen. Mark Kelly raised nearly $9 million in the final three months of 2021, a figure that surpasses what he raised in the previous three months and positions the Arizona Democrat to be one of the best funded candidates in the 2022 midterms. 
  <p class="updated_time"> 07:54 AM CT, Jan. 07 </p> 
@@ -376,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
  <p class="updated_time"> 06:45 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/biden-white-house-omicron-plan-526516">White House embraces a manage-not-contain Omicron game plan</a> Politico: The president is under immense pressure to keep some semblance of social normalcy amid a pandemic that is absolutely roaring. 
- <p class="updated_time"> 03:36 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/police-officer-lawsuits-capitol-riot-trump-526491">Police officer lawsuits pile up against Trump over Jan. 6</a> Politico: Three more officers who responded to the Jan. 6 attack filed a lawsuit against the former president Tuesday, seeking damages for physical and emotional injuries. 
  <p class="updated_time"> 02:28 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden announces US will double its order of Pfizer's antiviral pill to treat Covid-19</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
