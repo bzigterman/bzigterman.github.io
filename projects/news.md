@@ -7,16 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:46 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/africa/jawar-mohammed-release-ethiopia.html">Jawar Mohammed to Be Released From Prison by Ethiopian President</a> NYT: Prime Minister Abiy Ahmed declared the amnesty on Orthodox Christmas and offered to start a dialogue with some opponents after 14 months of war. 
+ <p class="updated_time"> 03:44 PM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59912361?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Jogger's murderers sentenced to life in prison</a> BBC: Three men who killed the black jogger given life sentences by judge who condemns "callous" murder. 
+ <p class="updated_time"> 03:41 PM CT, Jan. 07 </p> 
+ <a href="https://www.npr.org/2022/01/07/1071409646/a-hero-tells-the-story-of-how-complicated-a-good-deed-and-a-small-lie-can-be">'A Hero' tells the story of how complicated a good deed (and a small lie) can be</a> NPR: NPR's Mary Louise Kelly speaks with Iranian director Asghar Farhadi about his new film, A Hero. The story examines the complexity of what appears to many to be a good deed. 
  <p class="updated_time"> 03:39 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
+ <p class="updated_time"> 03:38 PM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59912794?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: BBC witnesses apocalyptic scenes in main city</a> BBC: The BBC witnesses the aftermath of protests and deadly violence in Kazakhstan's biggest city Almaty. 
  <p class="updated_time"> 02:58 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/nato-russia-ukraine.html">NATO Vows United Response to Russian Aggression Against Ukraine</a> NYT: Foreign ministers from the alliance, meeting Friday, hope that Moscow will choose diplomacy and de-escalation instead, amid skepticism that Russia is sincere in wanting substantive talks. 
  <p class="updated_time"> 02:48 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
  <p class="updated_time"> 02:41 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071278075/nelson-mandela-robben-island-prison-cell-key-auction">The key to Nelson Mandela's Robben Island prison cell is returning to South Africa </a> NPR: New York auction house Guernsey's has postponed the sale of some of the South African leader's belongings, including the key to his cell and the shirt he wore when he was released from Robben Island. 
- <p class="updated_time"> 02:39 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59912361?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Jogger's murderers sentenced to life in prison</a> BBC: Three men who killed the black jogger given life sentences by judge who condemns "callous" murder. 
  <p class="updated_time"> 02:31 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/rochelle-walensky-cdc-covid-guidance.html">C.D.C Director Defends Covid-19 Isolation Guidance</a> NYT: Dr. Rochelle P. Walensky held the agency’s first independent news briefing since the Trump White House ended them nearly two years ago. 
  <p class="updated_time"> 02:18 PM CT, Jan. 07 </p> 
@@ -159,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1070856065/china-lashes-out-at-us-for-supporting-lithuania-in-feud-with-beijing-over-taiwan">China lashes out at U.S. for supporting Lithuania in feud with Beijing over Taiwan</a> NPR: China lashed out at the United States over its support for the Baltic nation of Lithuania in its feud with Beijing over relations with Taiwan. 
  <p class="updated_time"> 02:48 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
- <p class="updated_time"> 02:47 AM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1070840030/police-say-dozens-have-been-killed-in-kazakhstan-unrest">Russia-led alliance troops have arrived in Kazakhstan after mass protests</a> NPR: Russia-led alliance troops arrived in Kazakhstan on Thursday after increasingly chaotic and violent protests rocked the nation for days and resulted in dozens of people killed and hundreds injured. 
  <p class="updated_time"> 01:28 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Russia-Allied Forces to Intervene as Unrest Sweeps Kazakhstan</a> NYT: The Kazakh president requested the peacekeeping troops as an uprising, sparked by a gas price increase in the resource-rich Central Asian nation, headed toward a fifth day. 
  <p class="updated_time"> 01:00 AM CT, Jan. 06 </p> 
