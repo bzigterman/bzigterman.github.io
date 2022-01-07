@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:40 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Global Coronavirus Cases Top 300 Million</a> NYT: The number of known cases, likely an undercount, is now less of an indicator than it used to be in determining pandemic strategy. Governments are marshaling resources toward vaccinating people. 
+ <p class="updated_time"> 09:36 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59907931?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Hollywood star dies aged 94</a> BBC: The Oscar-winning Hollywood star was also a respected humanitarian. 
+ <p class="updated_time"> 09:35 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-27198480?at_medium=RSS&at_campaign=KARANGA">Obituary; Iconic black actor Sidney Poitier</a> BBC: Sidney Poitier, the actor and director who helped break down Hollywood's racial barriers, dies aged 94. 
  <p class="updated_time"> 09:31 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/italian-fugitive-caught-google-maps.html">Fugitive Italian Killer Finally Meets His Match: Google Maps</a> NYT: Investigators had tracked the man to a town in Spain, and an image found online confirmed that the police were on the right track. 
- <p class="updated_time"> 09:25 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Global Coronavirus Cases Top 300 Million</a> NYT: The number of known cases, likely an undercount, is now less of an indicator than it used to be in determining pandemic strategy. Governments are marshaling resources toward vaccinating people. 
  <p class="updated_time"> 09:05 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
  <p class="updated_time"> 08:54 AM CT, Jan. 07 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59907235?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Troops ordered to fire without warning</a> BBC: The president orders the crackdown on protests, saying "20,000 bandits" had attacked the main city. 
  <p class="updated_time"> 05:22 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
- <p class="updated_time"> 04:59 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-59907964?at_medium=RSS&at_campaign=KARANGA">In pictures: Orthodox Christians celebrate Christmas</a> BBC: Orthodox Christians celebrate Christmas from Moscow to Cairo. 
  <p class="updated_time"> 04:56 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59907864?at_medium=RSS&at_campaign=KARANGA">Bitcoin prices fall to lowest in months after US Fed remarks</a> BBC: Bitcoin prices tumble amid rumblings from the US banking body and unrest in Kazakhstan. 
  <p class="updated_time"> 04:35 AM CT, Jan. 07 </p> 
@@ -46,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:53 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/omicron-fuels-u-k-s-biggest-covid-19-surge-but-few-need-ventilators-11641560402">Omicron Fuels U.K.'s Biggest Covid-19 Surge, but Few Need Ventilators</a> WSJ: Despite the surge, the number of people critically ill in hospitals hasn’t increased significantly, a promising sign for countries including the U.S. that are seeing their own rapid run-ups in infections. 
  <p class="updated_time"> 02:39 AM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071181693/the-leader-of-kazakhstan-says-constitutional-order-mainly-restored-amid-unrest">The leader of Kazakhstan says constitutional order 'mainly restored' amid unrest</a> NPR: The president of Kazakhstan on Friday declared that constitutional order was "mainly restored" but "terrorists are still using weapons and are damaging people's property" and would be dealt with. 
+ <a href="https://www.npr.org/2022/01/07/1071181693/the-leader-of-kazakhstan-says-constitutional-order-mainly-restored-amid-unrest">To quell unrest, Kazakhstan's president authorizes forces to shoot to kill </a> NPR: President Kassym-Jomart Tokayev opened the door for a dramatic escalation in a crackdown on anti-government protests that have turned violent. 
  <p class="updated_time"> 02:28 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/canada/canada-conversion-therapy-law.html">Canadian Law Banning ‘Conversion Therapy’ Set to Go Into Effect</a> NYT: The law, which takes effect on Friday, puts Canada in the company of more than a dozen countries that have banned the widely discredited practice. 
  <p class="updated_time"> 02:11 AM CT, Jan. 07 </p> 
