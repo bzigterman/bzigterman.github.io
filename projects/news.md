@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:39 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Supreme Court Hears Arguments Against Biden’s Vaccine Mandates</a> NYT: Known coronavirus cases have topped 300 million globally, but the number is less of an pandemic indicator than it used to be. Governments are marshaling resources toward vaccinating people. 
+ <p class="updated_time"> 11:06 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. Known coronavirus cases have topped 300 million globally, but the number is less of an pandemic indicator than it used to be. 
+ <p class="updated_time"> 11:06 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/asia/behind-kazakhstan-unrest-the-strongmans-dilemma.html">Behind Kazakhstan Unrest, the Strongman’s Dilemma</a> NYT: Since the Cold War’s end, most dictatorial governments have collapsed after their ruler’s departure. 
+ <p class="updated_time"> 10:54 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/science/road-salt-water-supply.html">Road Salt Works. But It’s Also Bad for the Environment.</a> NYT: The chemical is effective at keeping roads free of snow and ice, but it also has damaging consequences, according to a growing body of research. 
+ <p class="updated_time"> 10:36 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59907931?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Hollywood trailblazer dies aged 94</a> BBC: The Hollywood star was the first black man to win a best actor Oscar, and also a humanitarian. 
  <p class="updated_time"> 10:34 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/india-12-booster-shots.html">12 Covid Vaccine Shots Aren't Enough for 85-Year-Old in India</a> NYT: The retired postman  said he gamed the offline vaccination drive to keep boosting regularly — long before booster shots were a thing anywhere. 
- <p class="updated_time"> 10:20 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59907931?at_medium=RSS&at_campaign=KARANGA">Sir Sidney Poitier: Hollywood trailblazer dies aged 94</a> BBC: The Hollywood star was the first black man to win a best actor Oscar, and also a respected humanitarian. 
  <p class="updated_time"> 10:04 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27198480?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: The actor who broke down Hollywood's racial barriers</a> BBC: Sidney Poitier, the actor and director who helped break down Hollywood's racial barriers, dies aged 94. 
+ <p class="updated_time"> 09:35 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59913250?at_medium=RSS&at_campaign=KARANGA">South Africa parliament sprinklers failed during fire, report says</a> BBC: The alarm did not work and fire doors were left open when Sunday's blaze started, the fire service says. 
  <p class="updated_time"> 09:31 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/italian-mafia-fugitive-google-maps.html">Italian Mafia Fugitive Caught In Spain Thanks to Google Maps</a> NYT: Investigators had tracked the man to a town in Spain, and an image found online confirmed that the police were on the right track. 
  <p class="updated_time"> 09:05 AM CT, Jan. 07 </p> 
@@ -33,10 +39,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59901366?at_medium=RSS&at_campaign=KARANGA">Instagram blocked hashtag in memory of Iran plane crash victims</a> BBC: The social media giant says it did so by mistake, as families tried to memorialise the 176 victims. 
  <p class="updated_time"> 06:15 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59907235?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Troops ordered to fire without warning</a> BBC: The president orders the crackdown on protests, saying "20,000 bandits" had attacked the main city. 
+ <p class="updated_time"> 06:03 AM CT, Jan. 07 </p> 
+ <a href="https://www.wsj.com/articles/revenge-recalls-spark-debate-in-taiwan-how-much-democracy-is-too-much-11641558601">'Revenge Recalls' Spark Debate in Taiwan: How Much Democracy Is Too Much?</a> WSJ: Popular referendums and recall elections have some wondering whether Taiwan is too democratic for its own good. Some see benefits for China in elections that “never end.” 
+ <p class="updated_time"> 06:01 AM CT, Jan. 07 </p> 
+ <a href="https://www.wsj.com/articles/sidney-poitier-who-blazed-a-path-for-black-actors-in-hollywood-has-died-at-94-11641570080">Sidney Poitier, Who Blazed a Path for Black Actors in Hollywood, Has Died</a> WSJ: Sidney Poitier, a Black movie star in the racially charged 1950s and 1960s who became the first Black actor to command top billing and win an Oscar for a leading role, has died. 
  <p class="updated_time"> 05:22 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
- <p class="updated_time"> 05:18 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/sidney-poitier-who-blazed-a-path-for-black-actors-in-hollywood-has-died-at-94-11641570080">Sidney Poitier, Who Blazed a Path for Black Actors in Hollywood, Has Died</a> WSJ: Sidney Poitier, a Black movie star in the racially charged 1950s and 1960s who became the first Black actor to command top billing and win an Oscar for a leading role, has died. 
  <p class="updated_time"> 05:08 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/nigeria-kidnapping-negotiators-ransom-11641569884">A Kidnapping Negotiator Gets His Biggest Test: Saving His Own Wife</a> WSJ: Abdullahi Tumburkai volunteers his time to help family, friends and neighbors bargain with kidnappers in what has become a crisis of abductions in Nigeria. One negotiation was especially harrowing. 
  <p class="updated_time"> 05:04 AM CT, Jan. 07 </p> 
@@ -49,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071188267/chinese-anti-virus-lockdowns-add-to-concerns-over-economy">Chinese anti-virus lockdowns add to concerns over economy</a> NPR: China's lockdowns of big cities to fight coronavirus outbreaks are prompting concern about more disruptions to global industries after two makers of processor chips said their factories were affected. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/americas/luiza-trajano-brazil-magalu-racism.html">Billionaire’s Star Rises as She Takes Bold Stance on Racism in Brazil</a> NYT: Luiza Trajano turned a small family store into a retail giant. Now, a company policy limiting its executive training program to Black applicants is drawing praise, outrage and much soul-searching. 
- <p class="updated_time"> 03:28 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/revenge-recalls-spark-debate-in-taiwan-how-much-democracy-is-too-much-11641558601">'Revenge Recalls' Spark Debate in Taiwan: How Much Democracy Is Too Much?</a> WSJ: Popular referendums and recall elections have some wondering whether Taiwan is too democratic for its own good. Some see benefits for China in elections that “never end.” 
  <p class="updated_time"> 03:27 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642">Kazakh Leader Gives Security Forces Order to Shoot Without Warning</a> WSJ: President Kassym-Jomart Tokayev said his government had largely restored order as the country’s security forces scoured for protesters after days of unrest triggered by a fuel-price increase. 
  <p class="updated_time"> 02:53 AM CT, Jan. 07 </p> 
@@ -73,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/hong-kong-officials-quarantined-after-covid-19-case-at-tapas-birthday-party-11641554231">Hong Kong Officials Quarantined After Covid-19 Case at Tapas Birthday Party</a> WSJ: Senior civil servants attended the celebration for a China lawmaker as the city fights its first Omicron outbreak, prompting a rebuke from Hong Kong’s chief executive. 
  <p class="updated_time"> 11:49 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59901094?at_medium=RSS&at_campaign=KARANGA">Djokovic stay highlights refugee concerns at Melbourne detention hotel</a> BBC: People held at the detention hotel have complained of mouldy food and poor conditions. 
- <p class="updated_time"> 11:23 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59904527?at_medium=RSS&at_campaign=KARANGA">Omicron: 13 passengers on Italy-India flight escape quarantine</a> BBC: They were among 125 passengers who tested positive for Covid after arriving on a flight from Milan. 
  <p class="updated_time"> 11:04 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/travel/coronavirus-cruise-ships-omicron.html">Cruise Ships Are Still Sailing as Cases Rise and Criticism Mounts</a> NYT: One day after the C.D.C. advised against all travel on cruise ships, thousands of cruisers partied like it was 2019. But worries about onboard policies — and frustration over quarantines — are rising. 
  <p class="updated_time"> 09:12 PM CT, Jan. 06 </p> 
@@ -183,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/middleeast/palestinian-hunger-strike-israel.html">Palestinian Prisoner’s Hunger Strike Leads to Deal for Release</a> NYT: A Palestinian accused of plotting to kill Israelis went on a hunger strike to protest his imprisonment without trial. Fearing unrest, Israel agreed to release him. 
  <p class="updated_time"> 03:22 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/prince-andrew-sexual-abuse-royal-family.html">What Prince Andrew's  Abuse Case Could Mean for the Royal Family</a> NYT: As Queen Elizabeth II prepares to mark 70 years on the throne this year, a sexual abuse case in a Manhattan court involving her son could mean more turmoil for the royal family. 
- <p class="updated_time"> 01:23 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/europe/ireland-alcohol-minimum-unit-price.html">Ireland Puts Minimum Price on Alcohol to Curb Binge Drinking</a> NYT: The new rule, part of broader legislation aimed at stemming alcohol-related illnesses, sets a minimum price of one euro per standard drink and came into effect on Tuesday. 
  <p class="updated_time"> 01:08 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/tony-blair-knighthood-petition-rescind.html">Petition to Rescind Tony Blair’s Knighthood Gets Hundreds of Thousands of Signatures</a> NYT: Nearly 15 years after he left office, the prime minister’s support for the Iraq war has not been forgiven by many in Britain. 
 
@@ -196,6 +198,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:28 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/oscar-winner-and-groundbreaking-star-sidney-poitier-dies-526735">Oscar winner and groundbreaking star Sidney Poitier dies</a> Politico: Sidney Poitier, the groundbreaking actor who transformed how Black people were portrayed on screen, has died. He was 94. 
+ <p class="updated_time"> 10:53 AM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/biden-december-jobs-report/index.html">Biden touts low unemployment rate after US adds fewer jobs in December than expected</a> CNN: President Joe Biden on Friday touted the unemployment rate dropping to 3.9% in December and credited his economic agenda with getting America "back on its feet," despite Friday's job report showing the US economy added fewer jobs than expected last month. 
+ <p class="updated_time"> 10:48 AM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/us-moroccan-navy-migrant-rescue/index.html">US and Moroccan Navy rescue 103 migrants off African coast</a> CNN: The US and Moroccan navies rescued 103 migrants from two rafts taking on water some 40 miles west of the Moroccan coast late Tuesday night, the US Navy said Friday. 
+ <p class="updated_time"> 10:47 AM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/rochelle-walensky-cdc-communications-covid-19/index.html">CDC director turns to media consultant as Covid-19 messaging frustrations mount</a> CNN: Dr. Rochelle Walensky assumed her new role as the director of the US Centers for Disease Control and Prevention last January with a vow to restore trust in the agency. But last fall, several months into the job and after a series of messaging missteps, Walensky sought out media training. 
+ <p class="updated_time"> 10:41 AM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/us-jobs-report-economy-what-matters/index.html">Analysis: Jobs reports: What makes them 'disappointing'</a> CNN: New government data that tracks job growth is out, and it is disappointing -- just 199,000 jobs were added to the US economy in December, according to a survey published by the Labor Department. 
+ <p class="updated_time"> 10:40 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/business/economy/jobs-interest-rates-federal-reserve.html">As Unemployment Falls, Interest Rate Increases Creep Nearer</a> NYT: The jobless rate is falling sharply and pay is jumping. That may increase the urgency as the Federal Reserve withdraws economic support. 
  <p class="updated_time"> 10:34 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/ted-cruz-jan-6-terrorist-attack-capitol/index.html">Ted Cruz told the truth about the 1/6 attack. Then he started backtracking.</a> CNN: On Wednesday, Sen. Ted Cruz told the truth about what happened at the US Capitol on January 6, 2021, calling it "a violent terrorist attack on the Capitol, where we saw the men and women of law enforcement demonstrate incredible courage." 
  <p class="updated_time"> 10:23 AM CT, Jan. 07 </p> 
@@ -206,14 +218,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/unemployment-rate-falls-december-526727">U.S. jobless rate sinks to 3.9 percent as many more people find jobs</a> Politico: U.S. employers added a modest 199,000 jobs last month while the unemployment rate fell sharply, at a time when businesses are struggling to fill jobs with many Americans remaining reluctant to return to the workforce. 
  <p class="updated_time"> 09:30 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/scotus-vaccine-mandate-omicron-covid-526711">Supreme Court weighs Biden’s vaccine mandates as Omicron spreads</a> Politico: The pair of requirements, which would affect tens of millions of workers, have been in legal limbo since agencies published them last year. 
- <p class="updated_time"> 08:42 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/rochelle-walensky-cdc-communications-covid-19/index.html">CDC director turns to media consultant as Covid-19 messaging frustrations mount</a> CNN: Dr. Rochelle Walensky assumed her new role as the director of the US Centers for Disease Control and Prevention last January with a vow to restore trust in the agency. But last fall, several months into the job and after a series of messaging missteps, Walensky sought out media training. 
  <p class="updated_time"> 08:37 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-trump-jan-6.html">Ignoring Trump Didn’t Work. Biden Goes After ‘a Defeated Former President.’</a> NYT: In a speech marking the anniversary of the Capitol riot, the president confronted Trumpism, even as he refused to utter his predecessor’s name. 
  <p class="updated_time"> 08:29 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/sotomayor-oral-arguments/index.html">Sotomayor to appear remotely for Supreme Court hearing on vaccine rules, but is not ill, court says</a> CNN: Justice Sonia Sotomayor will not take the bench Friday to hear challenges to the Biden administration's vaccine and testing requirements, but she is not ill, the court said. 
- <p class="updated_time"> 08:19 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/business/economy/jobs-interest-rates-federal-reserve.html">As Unemployment Falls, Interest Rate Increases Creep Nearer</a> NYT: A fresh jobs report showed that the unemployment rate is still dropping. That likely keeps the Fed on track to raise interest rates as inflation rises. 
  <p class="updated_time"> 08:15 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/bidens-colorado-wildfire/index.html">Bidens to tour damage from massive Colorado wildfire</a> CNN: President Joe Biden and first lady Jill Biden are scheduled to travel to Colorado on Friday to meet with families who were affected by a recent massive wildfire that destroyed hundreds of homes and thousands of acres. 
  <p class="updated_time"> 08:00 AM CT, Jan. 07 </p> 
@@ -243,7 +251,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071154648/jan-6-anniversary-analysis-republicans-trump">The immovable Republican Party and 'ink-blot politics'</a> NPR: Several of the key facts of the Jan. 6 insurrection are indisputable. And yet millions on the right do dispute them. Here's a look at how that happened. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071128277/vaccine-mandate-regulations-are-under-the-supreme-courts-microscope">Vaccine mandate regulations are under the Supreme Court's microscope</a> NPR: The two cases are in a preliminary posture, but how the court rules will very likely signal how these issues are ultimately resolved. 
+ <a href="https://www.npr.org/2022/01/07/1071128277/vaccine-mandate-regulations-are-under-the-supreme-courts-microscope">The Supreme Court is hearing arguments challenging vaccine mandates</a> NPR: The two cases are in a preliminary posture, but how the court rules will very likely signal how these issues are ultimately resolved. 
  <p class="updated_time"> 12:03 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/january-6-insurrection-joe-biden-donald-trump-2024-election/index.html">Biden rediscovers his fighting spirit as he takes on Trump</a> CNN: In marking the anniversary of the Capitol insurrection, President Joe Biden rediscovered the sense of mission and political clarity that had disappeared when his presidency slumped during a cascade of crises in the second half of 2021. 
  <p class="updated_time"> 10:59 PM CT, Jan. 06 </p> 
@@ -280,16 +288,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/06/politics/kamala-harris-january-2021/index.html">Kamala Harris was evacuated from DNC headquarters minutes after pipe bomb discovered during Capitol riot</a> CNN: Vice President Kamala Harris was evacuated from the Democratic National Committee headquarters in Washington on January 6, 2021, minutes after a pipe bomb was discovered nearby. 
  <p class="updated_time"> 04:55 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/harris-was-inside-dnc-on-jan-6-when-pipe-bomb-was-discovered-outside-526695">Harris was inside DNC on Jan. 6 when pipe bomb was discovered outside</a> Politico: The then-vice president-elect’s presence inside the building while a bomb was right outside raises sobering questions about her security that day. 
- <p class="updated_time"> 04:51 PM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/capitol-police-intelligence-reports/index.html">Capitol Police intel division assessments are a haunting reminder of the pre-January 6 mindset</a> CNN: In the three weeks leading up to the January 6, 2021, insurrection, the US Capitol Police intelligence division produced four Special Event Assessments showing mounting evidence of a potentially volatile situation, as part of its overall effort to help the agency determine its security posture that day. 
  <p class="updated_time"> 04:24 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1071064009/trump-is-the-most-powerful-figure-in-the-republican-party-despite-lies-and-jan-6">Trump is the most powerful figure in the Republican party, despite lies and Jan. 6</a> NPR: Many Republican allies of former President Trump were outraged in 2021 when the Capitol was attacked. But as Trump's popularity endures, the party's elected leaders now largely overlook Jan. 6. 
  <p class="updated_time"> 04:24 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1071063988/on-capitol-hill-president-biden-and-other-leaders-mark-anniversary-of-jan-6-atta">On Capitol Hill, President Biden and other leaders mark anniversary of Jan. 6 attack</a> NPR: President Biden and Democratic leaders converged at the Capitol on Thursday with speeches, ceremonies and prayer to mark the anniversary of the Jan. 6 insurrection. 
  <p class="updated_time"> 04:09 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/michael-erik-kurilla-middle-east-operations-nomination/index.html">Biden nominates a new general to oversee military operations in Middle East</a> CNN: President Joe Biden is nominating Army Lt. Gen. Michael Erik Kurilla to be the next commander of US Central Command, which oversees military operations in the Middle East, according to multiple defense officials and nomination paperwork sent to Congress. 
- <p class="updated_time"> 04:00 PM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/january-6-democracy-danger-what-matters/index.html">Analysis: Americans aren't hearing the 'democracy in danger' alarm</a> CNN: Who exactly is listening to all the warnings about the state of American democracy? 
  <p class="updated_time"> 03:56 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/biden-lays-out-the-stakes-for-democracy-can-he-sustain-the-case-526688">Biden lays out the stakes for democracy. Can he sustain the case?</a> Politico: The president’s speech on Thursday was hailed by fellow Democrats. Now, they want him to keep at it. 
  <p class="updated_time"> 03:52 PM CT, Jan. 06 </p> 
@@ -366,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1070849350/sen-hawley-faces-no-real-political-ramifications-back-home-for-jan-6-actions">Sen. Hawley faces no real political ramifications back home for Jan. 6 actions</a> NPR: Sen. Josh Hawley greeted demonstrators on Jan. 6, 2021 and refused to certify election results. In Missouri, Hawley has faced little, if anything, in terms of a political downside for his actions. 
  <p class="updated_time"> 08:45 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/jimmy-carter-democracy-jan-6-oped/index.html">Carter warns America 'teeters on the brink of a widening abyss' in stark op-ed ahead of January 6</a> CNN: Former President Jimmy Carter warned Wednesday that democracy is being threatened throughout the country, cautioning that "our great nation now teeters on the brink of a widening abyss." 
- <p class="updated_time"> 07:44 PM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/michael-carvajal-bureau-of-prisons-director-retirement/index.html">Bureau of Prisons leader retiring under political pressure from lawmakers seeking his ouster</a> CNN: Federal Bureau of Prisons Director Michael Carvajal is retiring, following months of pressure from some lawmakers seeking his ouster over management issues at the agency. 
  <p class="updated_time"> 06:05 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/peter-velz-vincent-evans-kamala-harris/index.html">Two Harris staffers announce they're leaving vice president's office</a> CNN: Two staffers announced Wednesday that they are leaving Vice President Kamala Harris' office. 
  <p class="updated_time"> 06:02 PM CT, Jan. 05 </p> 
