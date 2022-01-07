@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:01 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 12:27 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court is hearing arguments against President Biden’s vaccine mandates. 
- <p class="updated_time"> 11:59 AM CT, Jan. 07 </p> 
+ <p class="updated_time"> 12:21 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/europe/nato-russia-ukraine.html">NATO Vows United Response to Russian Aggression Against Ukraine</a> NYT: Foreign ministers from the alliance, meeting Friday, hope that Moscow will choose diplomacy and de-escalation instead, amid skepticism that Russia is sincere in wanting substantive talks. 
+ <p class="updated_time"> 12:10 PM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59916564?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Remembering the Oscar winner and Hollywood trailblazer</a> BBC: We look back on the career of Sidney Poitier, the first black man to win a best actor Oscar. 
+ <p class="updated_time"> 12:09 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59907931?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Hollywood trailblazer dies aged 94</a> BBC: The US-Bahamian star was the first black man to win a best actor Oscar, and also a humanitarian. 
+ <p class="updated_time"> 12:06 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/climate/road-salt-water-supply.html">Road Salt Works. But It’s Also Bad for the Environment.</a> NYT: The chemical is effective at keeping roads free of snow and ice, but it also has damaging consequences, according to a growing body of research. 
  <p class="updated_time"> 11:57 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/01/07/1071101792/photos-scenes-kazakhstan-protests-crackdown">Photos: Dramatic scenes from Kazakhstan's massive protests and crackdown</a> NPR: Here are some of the images of the unrest this week in the former Soviet republic of Kazakhstan, where the authoritarian government is fighting to quash large public protests. 
  <p class="updated_time"> 11:56 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59910842?at_medium=RSS&at_campaign=KARANGA">Omicron: Huge number of Covid cases on second Italy-India flight</a> BBC: Majority of passengers on two flights from Italy to Amritsar in India test positive for Covid-19. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59910842?at_medium=RSS&at_campaign=KARANGA">Omicron: Huge number of Covid cases on second Italy-India flight say Indian officials</a> BBC: Majority of passengers on two flights from Italy to Amritsar in India test positive for Covid-19. 
  <p class="updated_time"> 11:43 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59912361?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Killed jogger's murderers face life in prison</a> BBC: Three white men will be sentenced on Friday after they were convicted of killing the black jogger. 
  <p class="updated_time"> 11:36 AM CT, Jan. 07 </p> 
@@ -23,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests-strongmen.html">Behind Kazakhstan Unrest, the ‘Strongman’s Dilemma’</a> NYT: Since the Cold War’s end, most dictatorial governments have collapsed after their ruler’s departure. 
  <p class="updated_time"> 11:08 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/australia/moriori-new-zealand.html">Revival for New Zealand's Moriori Nearly Pushed to Cultural Death</a> NYT: The Moriori, whose history of peaceful isolation was shattered by violent subjugation, are fighting to establish themselves as a thriving people alongside the Maori. 
- <p class="updated_time"> 10:54 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/climate/road-salt-water-supply.html">Road Salt Works. But It’s Also Bad for the Environment.</a> NYT: The chemical is effective at keeping roads free of snow and ice, but it also has damaging consequences, according to a growing body of research. 
  <p class="updated_time"> 10:36 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59906706?at_medium=RSS&at_campaign=KARANGA">Truck spends three days dangling over China cliff</a> BBC: The driver is said to have tried to reverse on a narrow mountain road. 
  <p class="updated_time"> 10:34 AM CT, Jan. 07 </p> 
@@ -97,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59879762?at_medium=RSS&at_campaign=KARANGA">Lithuania: The European state that dared to defy China then wobbled</a> BBC: It stood up to China over Taiwan, but this week Lithuania's president said it made a mistake. 
  <p class="updated_time"> 06:07 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59649006?at_medium=RSS&at_campaign=KARANGA">Myanmar coup: The doctors and nurses defying the military</a> BBC: Many healthcare workers have refused to work in state hospitals and are now operating underground. 
- <p class="updated_time"> 06:04 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59902318?at_medium=RSS&at_campaign=KARANGA">Kashmir's pashminas: bringing women back to lead a beautiful craft</a> BBC: Weaving machinery and decreasing wages have forced many Kashmiri women out of the industry. 
  <p class="updated_time"> 05:36 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/china-xian-lockdown-covid.html">Xi'an Is China's Biggest Covid Challenge Since Wuhan</a> NYT: Xi’an, a city of 13 million people, has been on lockdown since Dec. 22, the longest in the country since the early days of the outbreak in Wuhan. 
  <p class="updated_time"> 04:35 PM CT, Jan. 06 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/health/covid-rapid-test-omicron-detection.html">Emerging Data Raise Questions About Antigen Tests and Nasal Swabs</a> NYT: A new study adds to evidence that common rapid tests may fail to detect some Omicron cases in the first days of infection. 
  <p class="updated_time"> 06:43 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/sports/tennis/novak-djokovic-vaccine-exemption-skepticism.html">Skepticism and anger greet Novak Djokovic’s vaccine exemption.</a> NYT: Some Australians reacted with fury at the announcement from the world’s No. 1 male tennis player, the sport’s most prominent vaccination skeptic. 
- <p class="updated_time"> 06:39 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Charges a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
  <p class="updated_time"> 05:11 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/italy-female-statue-padua-prato-della-valle.html">Italy Proposal to Add Female Statue to Square of Men Stirs Debate</a> NYT: In Padua, Italy, a proposal to include a female philosopher in a monument whose 78 sculptures are all men has spurred debate. 
  <p class="updated_time"> 04:06 PM CT, Jan. 05 </p> 
@@ -196,10 +196,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:57 AM CT, Jan. 07 </p> 
+ <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
+ <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
+ <p class="updated_time"> 12:29 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/state-of-the-union-biden-pelosi/index.html">Pelosi invites Biden to give State of the Union speech on March 1</a> CNN: House Speaker Nancy Pelosi on Friday asked President Joe Biden to deliver the annual State of the Union address to Congress on March 1. 
- <p class="updated_time"> 11:53 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Supreme Court Divided in Major Challenge to Biden’s Virus Plan</a> NYT: The justices seemed to split along familiar ideological lines on whether the administration exceeded its authority in requiring vaccines or testing at large employers. 
+ <p class="updated_time"> 12:20 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Conservative Majority on Supreme Court Appears Skeptical of Biden’s Virus Plan</a> NYT: The justices seemed to split along familiar ideological lines on whether the administration exceeded its authority in requiring vaccines or testing at large employers. 
+ <p class="updated_time"> 12:10 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/cyber-ninjas-shutting-down-arizona/index.html">Cyber Ninjas, company that oversaw the partisan Arizona election review, is shuttering</a> CNN: The Cyber Ninjas firm that oversaw the problem-plagued review of the 2020 results in Arizona's Maricopa County is shuttering. 
  <p class="updated_time"> 11:44 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/biden-december-jobs-report/index.html">Biden touts low unemployment rate after US adds fewer jobs in December than expected</a> CNN: President Joe Biden on Friday touted the unemployment rate dropping to 3.9% in December and credited his economic agenda with getting America "back on its feet," despite Friday's job report showing the US economy added fewer jobs than expected last month. 
  <p class="updated_time"> 11:28 AM CT, Jan. 07 </p> 
@@ -207,7 +211,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:19 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/ron-johnson-reelection-plans/index.html">GOP banking on Ron Johnson run in crucial Senate race </a> CNN: Republicans are growing bullish that Wisconsin Sen. Ron Johnson will launch his reelection campaign in 2022, setting the stage for a bruising race that could determine control of the Senate and whether former President Donald Trump will continue to have one of his staunchest allies in the chamber. 
  <p class="updated_time"> 11:05 AM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071256532/postal-service-exempt-vaccine-mandate">Postal Service wants its employees to be exempt from the vaccine mandate</a> NPR: With more than 500,000 employees, the post office says complying with the rule would be difficult and could interfere with timely mail deliveries. 
+ <a href="https://www.npr.org/2022/01/07/1071256532/postal-service-exempt-vaccine-mandate">The Postal Service is seeking a temporary delay from the vaccine mandate</a> NPR: With more than 500,000 employees, the post office says complying with the rule would be difficult and could interfere with timely mail deliveries. 
  <p class="updated_time"> 11:00 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/russia-us-ukraine-sanctions/index.html">Biden officials weighing Russia sanctions despite warnings</a> CNN: The Biden administration is still weighing exactly how it would penalize Russia if the country invades Ukraine, as US diplomats are just days away from high-stakes meetings with Kremlin officials. 
  <p class="updated_time"> 10:48 AM CT, Jan. 07 </p> 
@@ -264,14 +268,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/january-6-insurrection-joe-biden-donald-trump-2024-election/index.html">Analysis: Biden rediscovers his fighting spirit as he takes on Trump</a> CNN: In marking the anniversary of the Capitol insurrection, President Joe Biden rediscovered the sense of mission and political clarity that had disappeared when his presidency slumped during a cascade of crises in the second half of 2021. 
  <p class="updated_time"> 10:59 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/ted-cruz-jan-6-terrorist-tucker-carlson-526725">Ted Cruz walks back Jan. 6 'terrorist' remark in heated exchange with Tucker Carlson</a> Politico: The senator brushed off his previous phrasing as “sloppy” and “frankly dumb.” 
- <p class="updated_time"> 08:50 PM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/trump-capitol-police-lawsuit-january-6/index.html">Capitol Police officer who suffered concussion on January 6 is latest to sue Trump seeking accountability</a> CNN: US Capitol Police Officer Briana Kirkland is suing former President Donald Trump for the physical and emotional pain she endured, including a traumatic brain injury, because of the Capitol insurrection, according to a new filing in DC District Court. 
  <p class="updated_time"> 08:31 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-lies.html">The Next Big Lies: Jan. 6 Was No Big Deal, or a Left-Wing Plot</a> NYT: How revisionist histories of Jan. 6 picked up where the “stop the steal” campaign left off, warping beliefs about what transpired at the Capitol. 
  <p class="updated_time"> 08:02 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/inside-biden-january-6-speech/index.html">Inside Biden's fiery speech and his decision to confront Trump's danger head-on</a> CNN: It was only a little more than a month ago when President Joe Biden, asked about another head-shaking revelation regarding his predecessor, seemed to balk at a mere mention of the man. 
- <p class="updated_time"> 08:01 PM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/republicans-promote-election-lies-january-6/index.html">A year after the insurrection, Republicans around the country still promote Trump's election lies</a> CNN: In Colorado -- a state President Joe Biden won handily in 2020 -- a Republican candidate for US Senate pointed his firearm at a fake Dominion voting machine and blasted it to smithereens in a campaign ad riddled with falsehoods. 
  <p class="updated_time"> 07:47 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-events-takeaways.html">4 Takeaways From the Jan. 6 Capitol Attack Commemoration</a> NYT: President Biden took a confrontational approach to his predecessor, who isn’t going away, and other takeaways from the commemoration events. 
  <p class="updated_time"> 07:40 PM CT, Jan. 06 </p> 
@@ -363,7 +363,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/gop-election-reviews-battleground-state-526589">GOP election reviews face battleground state legal tests</a> Politico: Republican efforts to investigate the 2020 vote in key states are still underway more than a year after the election. 
  <p class="updated_time"> 04:30 AM CT, Jan. 06 </p> 
- <a href="https://www.politico.com/news/2022/01/06/congress-members-capitol-riot-reflection-525949">Jan. 6, in their own words: Members of Congress look back and forward</a> Politico: Democrats and Republicans alike spoke frankly with POLITICO about how they've dealt with the attack and how it's affected both them personally and the institution of Congress. 
+ <a href="https://www.politico.com/news/2022/01/06/congress-members-capitol-riot-reflection-525949">‘I was scared. And then I got really angry’: Members of Congress look back at Jan 6</a> Politico: Democrats and Republicans alike spoke frankly with POLITICO about how they've dealt with the attack and how it's affected both them personally and the institution of Congress. 
  <p class="updated_time"> 04:30 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/jan-6-anniversary-congressional-staffers-new-normal-525989">One year later, congressional staffers reckon with their new normal</a> Politico: The trauma of the violence on Jan. 6, 2021, still reverberates for many of the aides who make Capitol Hill tick. 
  <p class="updated_time"> 08:45 PM CT, Jan. 05 </p> 
@@ -376,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/cdc-advisers-teen-pfizer-covid-booster-526572">CDC recommends all teens get Pfizer Covid booster</a> Politico: The advisory panel signed off on the recommendation following presentations by doctors suggesting boosters are likely to increase antibodies in young teens. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
- <p class="updated_time"> 04:38 PM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/garland-rebuts-criticism-of-jan-6-probe-526551">Garland rebuts criticism of Jan. 6 probe</a> Politico: The attorney general argued that prosecutors are methodically building cases against the most serious offenders in the attack on the Capitol. 
  <p class="updated_time"> 04:31 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
  <p class="updated_time"> 11:20 AM CT, Jan. 05 </p> 
@@ -400,6 +398,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/manchin-biden-spending-bill-negotiation-526486">Manchin on Biden's spending bill: 'No negotiation going on'</a> Politico: The West Virginia senator thinks Democrats would be better off focusing on climate provisions in their wide-ranging megabill. 
  <p class="updated_time"> 12:47 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/omicron-ontario-canada-covid-restrictions-526484">As Covid policies divide America, Ontario doubles down (again)</a> Politico: The latest Covid shutdowns test the trust of the jabbed and boosted in Canada’s most populous province. 
+ <p class="updated_time"> 12:00 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/mitch-landrieu-letter-to-governors-infrastructure/index.html">Biden's infrastructure czar urges governors to appoint their own infrastructure implementation coordinators</a> CNN: President Joe Biden's infrastructure czar Mitch Landrieu sent letters to all the nation's governors on Tuesday urging them to appoint their own infrastructure implementation coordinators to smooth the rollout of the $1.2 trillion law. 
  <p class="updated_time"> 10:46 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/ruben-gallego-merrick-garland-capitol-attack-526480">Gallego: Garland 'extremely weak' on Jan. 6 cases</a> Politico: The Arizona Democrat also directed his ire at GOP lawmakers who he accused of trying to shield Jan. 6 rioters. 
  <p class="updated_time"> 07:51 AM CT, Jan. 04 </p> 
@@ -434,8 +434,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/02/4-startling-polls-you-should-read-about-jan-6-495559"> 4 startling polls you should read about Jan. 6</a> Politico Playbook: And millions are getting ready to head back to work and school Monday despite the Omicron surge 
  <p class="updated_time"> 11:06 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cheney-trump-threat-democracy-526356">Liz Cheney on Trump: He’s a threat to American democracy</a> Politico: “He crossed lines no American president has ever crossed before,” she said. 
- <p class="updated_time"> 10:12 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/capitol-police-chief-short-staffed-526354">Capitol Police chief says force remains short-staffed</a> Politico: “We’re now really about 400 officers short of where we need to be,” J. Thomas Manger said. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
 
