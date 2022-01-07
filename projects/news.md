@@ -215,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:56 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/supreme-court-biden-vaccine-testing-mandate-covid-19/index.html">Supreme Court appears poised to block Biden's vaccine and testing rules for businesses</a> CNN: The Supreme Court on Friday will take up challenges to President Joe Biden's most aggressive attempts so far to combat the spread of Covid-19 -- vaccine or testing requirements for large businesses and many health care workers -- as the number of infections soar and 40 million adults in the US are still declining to get vaccinated. 
  <p class="updated_time"> 04:44 PM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071368803/jan-6-panel-chair-says-committee-will-ask-mike-pence-to-voluntarily-appear">Jan. 6 panel chair says committee will ask Mike Pence to voluntarily appear</a> NPR: The chair of the House select committee investigating the Jan. 6 attack says they'll ask former Vice President Mike Pence to testify by month's end. They may also request testimony from Ivanka Trump. 
+ <a href="https://www.npr.org/2022/01/07/1071368803/jan-6-panel-chair-says-committee-will-ask-mike-pence-to-voluntarily-appear">The chair of the Jan. 6 panel says the committee will ask Mike Pence to appear</a> NPR: The chair of the House select committee investigating the Jan. 6 attack says they'll ask former Vice President Mike Pence to testify by month's end. They may also request testimony from Ivanka Trump. 
  <p class="updated_time"> 04:42 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/lani-guinier-dead.html">Lani Guinier, Legal Scholar at the Center of Controversy, Dies at 71</a> NYT: President Bill Clinton pulled her nomination as assistant attorney general in 1993 after she came under criticism for her views on voting rights. 
  <p class="updated_time"> 04:20 PM CT, Jan. 07 </p> 
@@ -356,8 +356,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1070924133/how-dan-bongino-is-building-a-right-wing-media-infrastructure-in-time-for-2024">How Dan Bongino is building a right-wing media infrastructure in time for 2024</a> NPR: New Yorker writer Evan Osnos says no one in media has profited more from the Trump era than Bongino, who hosts the country's fourth most listened to radio show and has 8.5 million weekly listeners. 
  <p class="updated_time"> 12:39 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/harris-hires-a-new-comms-director-jamal-simmons-526626">Harris hires a new comms director, Jamal Simmons</a> Politico: The longtime Democratic operative is a big name. He comes to a staff that's been losing talent. 
+ <p class="updated_time"> 12:04 PM CT, Jan. 06 </p> 
+ <a href="https://www.politico.com/news/2022/01/06/former-administration-officials-block-trump-526623">Ex-Trumpers set to plot how to try and take down Trump</a> Politico: Those involved include Stephanie Grisham, Miles Taylor, Olivia Troye and Anthony Scaramucci. 
  <p class="updated_time"> 11:59 AM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070970440/ted-cruz-jan-6-violent-terrorist-attack-tucker-carlson">Republicans criticize Ted Cruz for calling Jan. 6 a violent terrorist attack</a> NPR: "Of all the things that Jan. 6 was, it was definitely not a violent terrorist attack," Fox News commentator Tucker Carlson said in reply to Sen. Ted Cruz of Texas. 
+ <p class="updated_time"> 11:00 AM CT, Jan. 06 </p> 
+ <a href="https://www.politico.com/news/2022/01/06/social-media-donald-trump-jan-6-526562">The online world still can’t quit the ‘Big Lie’</a> Politico: The conspiracy theories and election fraud claims that stoked anger before the Jan. 6 assault are still readily available online, even after Facebook, Google and Twitter removed hundreds of thousands of accounts, pages and channels that spread misinformation. 
  <p class="updated_time"> 10:59 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/biden-russia-sanctions-european-allies-526606">Biden talks tough on Putin, but European allies are less ready for a fight</a> Politico: U.S. officials are warning Russia of harsh penalties if they invade Ukraine. But the Biden administration first must face a Europe divided on how far to go. 
  <p class="updated_time"> 10:27 AM CT, Jan. 06 </p> 
@@ -368,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/06/andy-kim-reflects-jan-6-526568">How one Congressman’s act of service will be forever memorialized</a> Politico: One year later, it’s still hard for the congressman to make sense of what happened at the Capitol. 
  <p class="updated_time"> 06:18 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/06/your-guide-to-jan-6-anniversary-coverage-495620"> Your guide to Jan. 6 anniversary coverage</a> Politico Playbook: And the Biden administration tries to straighten out its recent pandemic fumbles. 
- <p class="updated_time"> 04:30 AM CT, Jan. 06 </p> 
- <a href="https://www.politico.com/news/2022/01/06/gop-election-reviews-battleground-state-526589">GOP election reviews face battleground state legal tests</a> Politico: Republican efforts to investigate the 2020 vote in key states are still underway more than a year after the election. 
  <p class="updated_time"> 04:30 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/congress-members-capitol-riot-reflection-525949">‘I was scared. And then I got really angry’: Members of Congress look back at Jan 6</a> Politico: Democrats and Republicans alike spoke frankly with POLITICO about how they've dealt with the attack and how it's affected both them personally and the institution of Congress. 
  <p class="updated_time"> 04:30 AM CT, Jan. 06 </p> 
