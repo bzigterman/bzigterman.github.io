@@ -7,20 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:34 AM CT, Jan. 07 </p> 
+ <p class="updated_time"> 07:47 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59906702?at_medium=RSS&at_campaign=KARANGA">Gunfire heard as BBC visits scene of Kazakh clashes</a> BBC: The BBC's Abdujalil Abdurasulov reports from Almaty in the aftermath of violent protests. 
+ <p class="updated_time"> 07:45 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59903785?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic visa: Australia says tennis star not being held captive</a> BBC: The Serb tennis star faces deportation amid a high-profile Covid-related visa controversy. 
+ <p class="updated_time"> 07:39 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Global Coronavirus Cases Top 300 Million</a> NYT: The number of known cases, likely an undercount, is now less of an indicator than it used to be in determining pandemic strategy. Governments are marshaling resources toward vaccinating people. 
+ <p class="updated_time"> 07:28 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59901366?at_medium=RSS&at_campaign=KARANGA">Instagram blocked hashtag in memory of Iran plane crash victims</a> BBC: The social media giant says it did so by mistake, as families tried to memorialise the 176 victims. 
  <p class="updated_time"> 07:08 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">Kazakhstan Protests Lead President to  Crack Down: ‘Fire Without Warning’</a> NYT: President Kassym-Jomart Tokayev said on Friday that “bandits” were responsible for the unrest and must be “destroyed.” He thanked Russia for sending troops to help establish order. 
  <p class="updated_time"> 06:15 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59907235?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Troops ordered to fire without warning</a> BBC: The president orders the crackdown on protests, saying "20,000 bandits" had attacked the main city. 
- <p class="updated_time"> 05:28 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59903785?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic visa: Australia says tennis star not being held captive</a> BBC: The Serb tennis star faces deportation amid a high-profile Covid-related visa controversy. 
  <p class="updated_time"> 05:22 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
  <p class="updated_time"> 05:10 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
- <p class="updated_time"> 05:09 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59906702?at_medium=RSS&at_campaign=KARANGA">Gunfire heard as BBC visits scene of Kazakh clashes</a> BBC: The BBC's Abdujalil Abdurasulov reports from Almaty in the aftermath of violent protests. 
  <p class="updated_time"> 04:59 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59907964?at_medium=RSS&at_campaign=KARANGA">In pictures: Orthodox Christians celebrate Christmas</a> BBC: Orthodox Christians celebrate Christmas from Moscow to Cairo. 
  <p class="updated_time"> 04:56 AM CT, Jan. 07 </p> 
@@ -39,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071181693/the-leader-of-kazakhstan-says-constitutional-order-mainly-restored-amid-unrest">The leader of Kazakhstan says constitutional order 'mainly restored' amid unrest</a> NPR: The president of Kazakhstan on Friday declared that constitutional order was "mainly restored" but "terrorists are still using weapons and are damaging people's property" and would be dealt with. 
  <p class="updated_time"> 02:28 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/canada/canada-conversion-therapy-law.html">Canadian Law Banning ‘Conversion Therapy’ Set to Go Into Effect</a> NYT: The law, which takes effect on Friday, puts Canada in the company of more than a dozen countries that have banned the widely discredited practice. 
+ <p class="updated_time"> 02:15 AM CT, Jan. 07 </p> 
+ <a href="https://www.wsj.com/articles/countries-ditch-restrictions-bet-on-higher-vaccination-rates-to-confront-omicron-11641561349">Countries Ditch Restrictions, Bet on Vaccination to Confront Omicron</a> WSJ: Israel reopened its borders, the U.K. relaxed travel restrictions and the Biden administration signaled that Americans should accept Covid-19 as a part of daily life. 
  <p class="updated_time"> 02:13 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642">Kazakh Leader Gives Security Forces Order to Shoot Without Warning</a> WSJ: President Kassym-Jomart Tokayev said his government had largely restored order as the country’s security forces scoured for protesters after days of unrest triggered by a fuel-price increase. 
  <p class="updated_time"> 02:11 AM CT, Jan. 07 </p> 
@@ -109,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/asia/pakistan-woman-supreme-court.html">Pakistan Paves Way for Ayesha Malik to Be First Woman Supreme Court Justice</a> NYT: Justice Ayesha A. Malik’s nomination, intensely opposed by some lawyers that have threatened to strike, was hailed by others as an important victory in improving representation for women. 
  <p class="updated_time"> 01:44 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/europe/pope-pets-kids.html">Pope Scolds Couples Who Choose Pets Over Kids</a> NYT: Expressing concern about global birthrates, Francis said such couples were acting in a selfish way that diminished humanity. 
- <p class="updated_time"> 01:30 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-59901547?at_medium=RSS&at_campaign=KARANGA">Omicron should not be called mild, warns WHO</a> BBC: The WHO cautions that just like previous variants, Omicron is hospitalising and killing people. 
  <p class="updated_time"> 11:17 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59881229?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Why world number one is such a polarising player</a> BBC: Novak Djokovic's vaccine exemption situation before the Australian Open is the latest controversy for one of tennis' greatest but most polarising players. 
  <p class="updated_time"> 11:09 AM CT, Jan. 06 </p> 
@@ -184,6 +186,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:54 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/business/economy/jobs-interest-rates-federal-reserve.html">As Unemployment Falls, Interest Rate Increases Creep Nearer</a> NYT: A fresh jobs report showed that the unemployment rate is still dropping. That likely keeps the Fed on track to raise interest rates as inflation rises. 
+ <p class="updated_time"> 07:54 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/jamie-raskin-unthinkable-jan-6.html">Jamie Raskin’s Year of Tragedy and Trump</a> NYT: We spoke to the Maryland congressman about losing his son just before Jan. 6 last year and his new book on American democracy. 
+ <p class="updated_time"> 07:45 AM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/supreme-court-biden-vaccine-testing-mandate-covid-19/index.html">Supreme Court hears challenges to Biden vaccine and testing mandates</a> CNN: The Supreme Court on Friday will take up challenges to President Joe Biden's most aggressive attempts so far to combat the spread of Covid-19 -- vaccine or testing requirements for large businesses and many health care workers -- as the number of infections soar and 40 million adults in the US are still declining to get vaccinated. 
+ <p class="updated_time"> 07:39 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Supreme Court to Hear Major Challenges to Biden’s Vaccine Mandates</a> NYT: Challengers say the administration exceeded its authority in requiring vaccines or testing at large employers and mandating vaccines for many health care workers. 
  <p class="updated_time"> 07:38 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/07/choose-your-own-covid-policy-for-house-return-495639">Choose your own covid policy for House return</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:27 AM CT, Jan. 07 </p> 
@@ -204,18 +214,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071181206/after-30-years-in-the-u-s-house-illinois-rep-bobby-rush-is-leaving">After 30 years in the U.S. House, Illinois Rep. Bobby Rush is leaving</a> NPR: NPR's A Martinez talks with longtime Illinois Democratic Rep. Bobby Rush about his decision to leave Congress, and his expectations for the Democratic party and democracy. 
  <p class="updated_time"> 04:14 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071181164/morning-news-brief">News brief: COVID tests, vaccine mandate hearing, Jan. 6 events</a> NPR: Rapid COVID-19 tests are in short supply and prices are increasing. The Supreme Court will review two of Biden's vaccine rules for workers. Not many Republicans attended Jan. 6 events on Capitol Hill. 
- <p class="updated_time"> 04:12 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/supreme-court-biden-vaccine-testing-mandate-covid-19/index.html">Supreme Court hears challenges to Biden vaccine and testing mandates</a> CNN: The Supreme Court on Friday will take up challenges to President Joe Biden's most aggressive attempts so far to combat the spread of Covid-19 -- vaccine or testing requirements for large businesses and many health care workers -- as the number of infections soar and 40 million adults in the US are still declining to get vaccinated. 
- <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Supreme Court to Hear Major Challenges to Biden’s Vaccine Mandates</a> NYT: Challengers say the administration exceeded its authority in requiring vaccines or testing at large employers and mandating vaccines for many health care workers. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071154648/jan-6-anniversary-analysis-republicans-trump">The immovable Republican Party and 'ink-blot politics'</a> NPR: Several of the key facts of the Jan. 6 insurrection are indisputable. And yet millions on the right do dispute them. Here's a look at how that happened. 
  <p class="updated_time"> 12:03 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/january-6-insurrection-joe-biden-donald-trump-2024-election/index.html">Biden rediscovers his fighting spirit as he takes on Trump</a> CNN: In marking the anniversary of the Capitol insurrection, President Joe Biden rediscovered the sense of mission and political clarity that had disappeared when his presidency slumped during a cascade of crises in the second half of 2021. 
  <p class="updated_time"> 10:59 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/ted-cruz-jan-6-terrorist-tucker-carlson-526725">Ted Cruz walks back Jan. 6 'terrorist' remark in heated exchange with Tucker Carlson</a> Politico: The senator brushed off his previous phrasing as “sloppy” and “frankly dumb.” 
- <p class="updated_time"> 10:35 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-jan-6-capitol-attack.html">Biden Holds Trump Responsible in Jan. 6 Speech</a> NYT: President Biden used the anniversary of the Capitol siege to deliver his most sustained and scathing repudiation of Donald J. Trump since taking office. 
  <p class="updated_time"> 10:25 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/january-6-investigation-criminal-activity-trump/index.html">January 6 investigators don't rule out concluding Trump's actions constituted a crime</a> CNN: Reps. Bennie Thompson and Liz Cheney, chair and vice chair of the House select committee investigating the January 6 insurrection, are not ruling out the possibility of concluding that the actions of former President Donald Trump and some of his associates constituted a crime. 
  <p class="updated_time"> 08:50 PM CT, Jan. 06 </p> 
@@ -246,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/us/politics/republicans-jan-6-observances.html">Republicans Avoid Jan. 6 Observances at the Capitol</a> NYT: Elected Republicans stayed away from the Capitol during a day of solemn remembrance on the anniversary of the attack carried out by supporters of former President Donald J. Trump. 
  <p class="updated_time"> 06:04 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/former-biden-advisers-pandemic-strategy.html">Former Biden Advisers Urge a Pandemic Strategy for the ‘New Normal’</a> NYT: In a striking critique, six prominent health experts who advised President Biden’s transition team called for an entirely new domestic coronavirus strategy. 
- <p class="updated_time"> 06:00 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/jamie-raskin-unthinkable-jan-6.html">Jamie Raskin’s Year of Tragedy and Trump</a> NYT: We spoke to the Maryland congressman about losing his son just before Jan. 6 last year and his new book on American democracy. 
  <p class="updated_time"> 05:19 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/kamala-harris-january-2021/index.html">Kamala Harris was evacuated from DNC headquarters minutes after pipe bomb discovered during Capitol riot</a> CNN: Vice President Kamala Harris was evacuated from the Democratic National Committee headquarters in Washington on January 6, 2021, minutes after a pipe bomb was discovered nearby. 
  <p class="updated_time"> 04:55 PM CT, Jan. 06 </p> 
