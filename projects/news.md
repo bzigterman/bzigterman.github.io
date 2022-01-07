@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:23 PM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59904527?at_medium=RSS&at_campaign=KARANGA">Omicron: 13 passengers on Italy-India flight escape quarantine</a> BBC: They were among 125 passengers who tested positive for Covid after arriving on a flight from Milan. 
  <p class="updated_time"> 11:13 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Russian troops fly in as crackdown continues</a> BBC: Authorities say both police and protesters have died in unrest sparked by a fuel price rise. 
  <p class="updated_time"> 11:04 PM CT, Jan. 06 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59893216?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Tigray hospital running out of food for starving children</a> BBC: The hospital treating Surafeal in Ethiopia's Tigray region is also running out of food. 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/why-novak-djokovic-was-blocked.html">Why Novak Djokovic Was Blocked From Entering Australia</a> NYT: The men’s No. 1 tennis player had received an exemption to the country’s vaccine requirements. Then the federal government stepped in. 
- <p class="updated_time"> 06:57 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59894082?at_medium=RSS&at_campaign=KARANGA">Guatemala soldiers face rape trial after 40 years</a> BBC: Five former soldiers are accused of raping 36 indigenous Mayan women during the country's civil war. 
  <p class="updated_time"> 06:41 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/novak-djokovic-covid.html">Novak Djokovic Collides With Australia’s Covid Fight</a> NYT: Barring the tennis star from entering the country offers a chance to change the subject as an election looms and coronavirus cases are at record highs. 
  <p class="updated_time"> 04:05 AM CT, Jan. 06 </p> 
