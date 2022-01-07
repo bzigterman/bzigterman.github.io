@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:12 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 04:39 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
+ <p class="updated_time"> 04:34 PM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59907931?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Hollywood trailblazer dies aged 94</a> BBC: The US-Bahamian star was the first black man to win a best actor Oscar, and also a humanitarian. 
+ <p class="updated_time"> 04:25 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/rochelle-walensky-cdc-covid-guidance.html">C.D.C Director Defends Covid-19 Isolation Guidance</a> NYT: Dr. Rochelle P. Walensky held the agency’s first independent news briefing since the Trump White House ended them nearly two years ago. 
  <p class="updated_time"> 04:05 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071409717/many-in-iraq-regard-women-riding-bikes-as-promiscuous-some-women-see-it-as-activ">Many in Iraq regard women riding bikes as promiscuous. Some women see it as activism</a> NPR: For some women in Iraq, learning to ride bikes is a way of finding freedom from confining social restrictions. 
  <p class="updated_time"> 03:59 PM CT, Jan. 07 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
  <p class="updated_time"> 02:41 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071278075/nelson-mandela-robben-island-prison-cell-key-auction">The key to Nelson Mandela's Robben Island prison cell is returning to South Africa </a> NPR: New York auction house Guernsey's has postponed the sale of some of the South African leader's belongings, including the key to his cell and the shirt he wore when he was released from Robben Island. 
- <p class="updated_time"> 02:31 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/rochelle-walensky-cdc-covid-guidance.html">C.D.C Director Defends Covid-19 Isolation Guidance</a> NYT: Dr. Rochelle P. Walensky held the agency’s first independent news briefing since the Trump White House ended them nearly two years ago. 
  <p class="updated_time"> 02:18 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/07/1068840414/global-wishes-for-2022-a-gift-box-for-everyone-greater-girl-power-vertical-garde">Global wishes for 2022: a gift box for everyone, greater girl power, vertical gardens</a> NPR: We asked global thinkers like Malala, doctors dealing with the pandemic, educators and more — if you were in charge of the world, what would you like to see happen this year. 
  <p class="updated_time"> 02:10 PM CT, Jan. 07 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1068622387/sidney-poitier-actor-remembrance">Sidney Poitier was far more than just a symbol of racial progress</a> NPR: For much of his career, the actor represented many different things to many people, but a constant was his sheer artistry. 
  <p class="updated_time"> 12:10 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59916564?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Remembering the Oscar winner and Hollywood trailblazer</a> BBC: We look back on the career of Sidney Poitier, the first black man to win a best actor Oscar. 
- <p class="updated_time"> 12:09 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59907931?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Hollywood trailblazer dies aged 94</a> BBC: The US-Bahamian star was the first black man to win a best actor Oscar, and also a humanitarian. 
  <p class="updated_time"> 12:06 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/climate/road-salt-water-supply.html">Road Salt Works. But It’s Also Bad for the Environment.</a> NYT: The chemical is effective at keeping roads free of snow and ice, but it also has damaging consequences, according to a growing body of research. 
  <p class="updated_time"> 11:57 AM CT, Jan. 07 </p> 
@@ -100,7 +100,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:00 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/taiwan-stages-military-drills-to-deter-chinese-aggression-11641574834">Taiwan Stages Military Drills to Deter Chinese Aggression</a> WSJ: Aerial, naval and urban-warfare exercises aim to make China’s People’s Liberation Army “think twice,” a senior Taiwanese officer says. 
  <p class="updated_time"> 05:27 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/kazakhstans-elite-got-richer-on-natural-resources-then-came-the-unrest-11641572839">Kazakhstan's Elite Got Richer on Natural Resources. Then Came the Unrest.</a> WSJ: In a country with huge reserves of oil, precious metals and uranium, income inequality and the outsize wealth of a small group of oligarchs fed popular anger. 
+ <a href="https://www.wsj.com/articles/kazakhstans-elite-got-richer-on-natural-resources-then-came-the-unrest-11641572839">Kazakhstan's Elite Got Richer on Natural Resources. Then Came the Unrest.</a> WSJ: In a country with huge reserves of oil, precious metals and uranium, the outsize wealth of a small group of oligarchs and outrage over corruption fed popular anger. 
  <p class="updated_time"> 05:22 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
  <p class="updated_time"> 05:08 AM CT, Jan. 07 </p> 
@@ -200,12 +200,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:28 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/federal-rental-assistance-evictions.html">Federal Rental Assistance Is Running Out, With Tenants Still in Need</a> NYT: An announcement from the Treasury Department on Friday revealed that there was less money available for renters than some states had hoped. 
  <p class="updated_time"> 04:20 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/bidens-colorado-wildfire/index.html">Bidens to tour damage from massive Colorado wildfire</a> CNN: President Joe Biden and first lady Jill Biden are scheduled to travel to Colorado on Friday to meet with families who were affected by a recent massive wildfire that destroyed hundreds of homes and thousands of acres. 
  <p class="updated_time"> 04:09 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/lani-guinier-dead.html">Lani Guinier, Legal Scholar at the Center of Controversy, Dies at 71</a> NYT: President Bill Clinton pulled her nomination as assistant attorney general in 1993 after she came under criticism for her views on voting rights. 
- <p class="updated_time"> 04:07 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/federal-rental-assistance-evictions.html">Federal Rental Assistance Is Running Out, With Tenants Still in Need</a> NYT: An announcement from the Treasury Department on Friday revealed that there was less money available for renters than some states had hoped. 
  <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
  <p class="updated_time"> 03:18 PM CT, Jan. 07 </p> 
