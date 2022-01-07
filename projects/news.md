@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:55 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 02:12 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
+ <p class="updated_time"> 02:11 PM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59912361?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Jogger's murderers sentenced to life in prison</a> BBC: Three men who killed the black jogger given life sentences by judge who condemns "chilling" murder. 
+ <p class="updated_time"> 02:10 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
+ <p class="updated_time"> 02:07 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/covid-flight-italy-india.html">Covid Tests Probed After 100s on 2 Italy-India Flights Test Positive </a> NYT: Some 300 passengers on two flights who tested positive for the coronavirus upon landing in the northern city of Amritsar are being retested. 
+ <p class="updated_time"> 01:58 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/rochelle-walensky-cdc-covid-guidance.html">C.D.C Director Defends Covid-19 Isolation Guidance</a> NYT: Dr. Rochelle P. Walensky held the agency’s first independent news briefing since the Trump White House ended them nearly two years ago. 
  <p class="updated_time"> 01:53 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/nato-russia-ukraine.html">NATO Vows United Response to Russian Aggression Against Ukraine</a> NYT: Foreign ministers from the alliance, meeting Friday, hope that Moscow will choose diplomacy and de-escalation instead, amid skepticism that Russia is sincere in wanting substantive talks. 
  <p class="updated_time"> 01:42 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59913513?at_medium=RSS&at_campaign=KARANGA">Denmark frees suspected pirates in dinghy in Gulf of Guinea</a> BBC: The suspects had been detained at sea in the Gulf of Guinea in November. A fourth remains in custody. 
- <p class="updated_time"> 01:42 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/rochelle-walensky-cdc-covid-guidance.html">C.D.C Director Defends Covid-19 Isolation Guidance</a> NYT: Dr. Rochelle P. Walensky held the agency’s first independent news briefing since the Trump White House ended them nearly two years ago. 
  <p class="updated_time"> 01:03 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59913006?at_medium=RSS&at_campaign=KARANGA">Berlin cannibal jailed for murdering engineer</a> BBC: A German court finds a man guilty of murdering a man he met on an online dating site. 
  <p class="updated_time"> 12:45 PM CT, Jan. 07 </p> 
@@ -35,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/pictureshow/2022/01/07/1071101792/photos-scenes-kazakhstan-protests-crackdown">Photos: Dramatic scenes from Kazakhstan's massive protests and crackdown</a> NPR: Here are some of the images of the unrest this week in the former Soviet republic of Kazakhstan, where the authoritarian government is fighting to quash large public protests. 
  <p class="updated_time"> 11:56 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59910842?at_medium=RSS&at_campaign=KARANGA">Omicron: Huge number of Covid cases on second Italy-India flight say Indian officials</a> BBC: Majority of passengers on two flights from Italy to Amritsar in India test positive for Covid-19. 
- <p class="updated_time"> 11:43 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59912361?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Killed jogger's murderers face life in prison</a> BBC: Three white men will be sentenced on Friday after they were convicted of killing the black jogger. 
  <p class="updated_time"> 11:36 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/sport/africa/59859233?at_medium=RSS&at_campaign=KARANGA">Christine Mboma crowned BBC African Sports Personality of the Year</a> BBC: Christine Mboma, who became the first Namibian woman to win an Olympic medal, is the BBC African Sports Personality of the Year for 2021. 
  <p class="updated_time"> 11:20 AM CT, Jan. 07 </p> 
@@ -181,12 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
  <p class="updated_time"> 09:52 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/kazakhstan-emergency-protests-fuel.html">Kazakhstan Declares State of Emergency as Protests Over Fuel Prices Spread</a> NYT: Thousands took to the street as gas prices doubled. The government responded with curfews and tear gas. The president later announced the resignation of the government. 
- <p class="updated_time"> 08:39 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges $31.5 Billion in Indigenous Child Welfare Battle</a> NYT: The government agreed to a landmark settlement to repair the system and compensate those families harmed by it. It potentially ends many years of litigation. 
- <p class="updated_time"> 03:39 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/middleeast/palestinian-hunger-strike-israel.html">Palestinian Prisoner’s Hunger Strike Leads to Deal for Release</a> NYT: A Palestinian accused of plotting to kill Israelis went on a hunger strike to protest his imprisonment without trial. Fearing unrest, Israel agreed to release him. 
- <p class="updated_time"> 03:22 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/europe/prince-andrew-sexual-abuse-royal-family.html">What Prince Andrew's  Abuse Case Could Mean for the Royal Family</a> NYT: As Queen Elizabeth II prepares to mark 70 years on the throne this year, a sexual abuse case in a Manhattan court involving her son could mean more turmoil for the royal family. 
 
 
 </details>
@@ -198,6 +196,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 02:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/treasury-sends-rental-aid-526748">Treasury to send $1B in rental aid funds to high-demand states, cities</a> Politico: California, New Jersey, New York and the District of Columbia will each receive tens of millions of dollars pulled from governments with low disbursement rates. 
+ <p class="updated_time"> 01:58 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/covid-19-rapid-test-contract-signed/index.html">Biden administration signs first contract for free rapid Covid-19 test distribution </a> CNN: The Biden administration has signed its first contract with a Covid-19 test manufacturer as part of President Joe Biden's efforts to distribute half a billion free rapid tests throughout the country, a White House official confirms to CNN. 
  <p class="updated_time"> 01:46 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/supreme-court-biden-vaccine-testing-mandate-covid-19/index.html">Supreme Court appears poised to block Biden's vaccine and testing rules for businesses</a> CNN: The Supreme Court on Friday will take up challenges to President Joe Biden's most aggressive attempts so far to combat the spread of Covid-19 -- vaccine or testing requirements for large businesses and many health care workers -- as the number of infections soar and 40 million adults in the US are still declining to get vaccinated. 
  <p class="updated_time"> 01:43 PM CT, Jan. 07 </p> 
@@ -247,7 +247,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:33 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/unemployment-rate-falls-december-526727">U.S. jobless rate sinks to 3.9 percent as many more people find jobs</a> Politico: U.S. employers added a modest 199,000 jobs last month while the unemployment rate fell sharply, at a time when businesses are struggling to fill jobs with many Americans remaining reluctant to return to the workforce. 
  <p class="updated_time"> 09:30 AM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/news/2022/01/07/scotus-vaccine-mandate-omicron-covid-526711">Supreme Court weighs Biden’s vaccine mandates as Omicron spreads</a> Politico: The pair of requirements, which would affect tens of millions of workers, have been in legal limbo since agencies published them last year. 
+ <a href="https://www.politico.com/news/2022/01/07/scotus-vaccine-mandate-omicron-covid-526711">Biden's federal vaccine mandate for workplace in trouble at Supreme Court</a> Politico: The pair of requirements, which would affect tens of millions of workers, have been in legal limbo since agencies published them last year. 
  <p class="updated_time"> 08:37 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-trump-jan-6.html">Ignoring Trump Didn’t Work. Biden Goes After ‘a Defeated Former President.’</a> NYT: In a speech marking the anniversary of the Capitol riot, the president confronted Trumpism, even as he refused to utter his predecessor’s name. 
  <p class="updated_time"> 08:15 AM CT, Jan. 07 </p> 
@@ -304,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/us/politics/republicans-jan-6-observances.html">Republicans Avoid Jan. 6 Observances at the Capitol</a> NYT: Elected Republicans stayed away from the Capitol during a day of solemn remembrance on the anniversary of the attack carried out by supporters of former President Donald J. Trump. 
  <p class="updated_time"> 06:04 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/former-biden-advisers-pandemic-strategy.html">Former Biden Advisers Urge a Pandemic Strategy for the ‘New Normal’</a> NYT: In a striking critique, six prominent health experts who advised President Biden’s transition team called for an entirely new domestic coronavirus strategy. 
- <p class="updated_time"> 05:19 PM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/kamala-harris-january-2021/index.html">Kamala Harris was evacuated from DNC headquarters minutes after pipe bomb discovered during Capitol riot</a> CNN: Vice President Kamala Harris was evacuated from the Democratic National Committee headquarters in Washington on January 6, 2021, minutes after a pipe bomb was discovered nearby. 
  <p class="updated_time"> 04:55 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/harris-was-inside-dnc-on-jan-6-when-pipe-bomb-was-discovered-outside-526695">Harris was inside DNC on Jan. 6 when pipe bomb was discovered outside</a> Politico: The then-vice president-elect’s presence inside the building while a bomb was right outside raises sobering questions about her security that day. 
  <p class="updated_time"> 04:24 PM CT, Jan. 06 </p> 
@@ -394,6 +392,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
  <p class="updated_time"> 06:45 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/biden-white-house-omicron-plan-526516">White House embraces a manage-not-contain Omicron game plan</a> Politico: The president is under immense pressure to keep some semblance of social normalcy amid a pandemic that is absolutely roaring. 
+ <p class="updated_time"> 02:28 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden announces US will double its order of Pfizer's antiviral pill to treat Covid-19</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
@@ -416,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/03/new-year-same-to-do-list-for-congress-495569">New Year, same to-do list for Congress</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:05 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/03/dems-to-use-jan-6-anniversary-to-supercharge-voting-rights-push-495565"> Dems to use Jan. 6 anniversary to supercharge voting rights push</a> Politico Playbook: And Biden says the U.S. would 'respond decisively' if Russia invades Ukraine. 
- <p class="updated_time"> 05:02 AM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/biden-zelensky-call/index.html">Biden tells Ukrainian President US 'will respond decisively if Russia further invades'</a> CNN: President Joe Biden told Ukrainian President Volodymyr Zelensky on Sunday that the US and its allies "will respond decisively if Russia further invades Ukraine," according to a readout of a call between the two leaders provided by the White House. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/january-6-capitol-riot-house-democrats-525975">‘It’s only gotten worse’: The long shadow of the night that broke the House</a> Politico: For most Democrats, the biggest affront wasn’t even the violence by Donald Trump’s supporters. It was the votes more than 140 of their GOP colleagues took afterward. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
