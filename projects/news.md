@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:05 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
+ <p class="updated_time"> 08:54 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">Kazakhstan Protests Lead President to  Crack Down: ‘Fire Without Warning’</a> NYT: President Kassym-Jomart Tokayev said on Friday that “bandits” were responsible for the unrest and must be “destroyed.” He thanked Russia for sending troops to help establish order. 
  <p class="updated_time"> 08:49 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Global Coronavirus Cases Top 300 Million</a> NYT: The number of known cases, likely an undercount, is now less of an indicator than it used to be in determining pandemic strategy. Governments are marshaling resources toward vaccinating people. 
  <p class="updated_time"> 08:43 AM CT, Jan. 07 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59912704?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic thanks fans as he awaits deportation decision</a> BBC: The men's tennis star is awaiting a decision on his deportation from Australia over a vaccination row. 
  <p class="updated_time"> 08:39 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/arts/music/einar-sweden-rap.html">After Killing of Einar, Sweden Struggles With 'Gangster Rap'</a> NYT: Hip-hop, the country’s most popular music, has quickly become a lightning rod for Sweden’s long-roiling problems with gun violence and gang warfare. 
- <p class="updated_time"> 08:04 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">Kazakhstan Protests Lead President to  Crack Down: ‘Fire Without Warning’</a> NYT: President Kassym-Jomart Tokayev said on Friday that “bandits” were responsible for the unrest and must be “destroyed.” He thanked Russia for sending troops to help establish order. 
  <p class="updated_time"> 07:47 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59906702?at_medium=RSS&at_campaign=KARANGA">Gunfire heard as BBC visits scene of Kazakh clashes</a> BBC: The BBC's Abdujalil Abdurasulov reports from Almaty in the aftermath of violent protests. 
  <p class="updated_time"> 07:28 AM CT, Jan. 07 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59907235?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Troops ordered to fire without warning</a> BBC: The president orders the crackdown on protests, saying "20,000 bandits" had attacked the main city. 
  <p class="updated_time"> 05:22 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
- <p class="updated_time"> 05:10 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
  <p class="updated_time"> 04:59 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59907964?at_medium=RSS&at_campaign=KARANGA">In pictures: Orthodox Christians celebrate Christmas</a> BBC: Orthodox Christians celebrate Christmas from Moscow to Cairo. 
  <p class="updated_time"> 04:56 AM CT, Jan. 07 </p> 
@@ -188,6 +188,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/unemployment-rate-falls-december-526727">U.S. jobless rate sinks to 3.9 percent as many more people find jobs</a> Politico: U.S. employers added a modest 199,000 jobs last month while the unemployment rate fell sharply, at a time when businesses are struggling to fill jobs with many Americans remaining reluctant to return to the workforce. 
  <p class="updated_time"> 09:30 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/scotus-vaccine-mandate-omicron-covid-526711">Supreme Court weighs Biden’s vaccine mandates as Omicron spreads</a> Politico: The pair of requirements, which would affect tens of millions of workers, have been in legal limbo since agencies published them last year. 
+ <p class="updated_time"> 09:01 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Supreme Court Hears Major Challenges to Biden’s Vaccine Mandates</a> NYT: Challengers say the administration exceeded its authority in requiring vaccines or testing at large employers and mandating vaccines for many health care workers. 
  <p class="updated_time"> 08:42 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/rochelle-walensky-cdc-communications-covid-19/index.html">CDC director turns to media consultant as Covid-19 messaging frustrations mount</a> CNN: Dr. Rochelle Walensky assumed her new role as the director of the US Centers for Disease Control and Prevention last January with a vow to restore trust in the agency. But last fall, several months into the job and after a series of messaging missteps, Walensky sought out media training. 
  <p class="updated_time"> 08:37 AM CT, Jan. 07 </p> 
@@ -204,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/mark-kelly-9-million-fourth-quarter-arizona/index.html">Sen. Mark Kelly raises nearly $9 million in final three months of 2021</a> CNN: Sen. Mark Kelly raised nearly $9 million in the final three months of 2021, a figure that surpasses what he raised in the previous three months and positions the Arizona Democrat to be one of the best funded candidates in the 2022 midterms. 
  <p class="updated_time"> 07:54 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jamie-raskin-unthinkable-jan-6.html">Jamie Raskin’s Year of Tragedy and Trump</a> NYT: We spoke to the Maryland congressman about losing his son just before Jan. 6 last year and his new book on American democracy. 
- <p class="updated_time"> 07:39 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Supreme Court to Hear Major Challenges to Biden’s Vaccine Mandates</a> NYT: Challengers say the administration exceeded its authority in requiring vaccines or testing at large employers and mandating vaccines for many health care workers. 
  <p class="updated_time"> 07:38 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/07/choose-your-own-covid-policy-for-house-return-495639">Choose your own covid policy for House return</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:27 AM CT, Jan. 07 </p> 
@@ -228,6 +228,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071181164/morning-news-brief">News brief: COVID tests, vaccine mandate hearing, Jan. 6 events</a> NPR: Rapid COVID-19 tests are in short supply and prices are increasing. The Supreme Court will review two of Biden's vaccine rules for workers. Not many Republicans attended Jan. 6 events on Capitol Hill. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071154648/jan-6-anniversary-analysis-republicans-trump">The immovable Republican Party and 'ink-blot politics'</a> NPR: Several of the key facts of the Jan. 6 insurrection are indisputable. And yet millions on the right do dispute them. Here's a look at how that happened. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
+ <a href="https://www.npr.org/2022/01/07/1071128277/vaccine-mandate-regulations-are-under-the-supreme-courts-microscope">Vaccine mandate regulations are under the Supreme Court's microscope</a> NPR: The two cases are in a preliminary posture, but how the court rules will very likely signal how these issues are ultimately resolved. 
  <p class="updated_time"> 12:03 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/january-6-insurrection-joe-biden-donald-trump-2024-election/index.html">Biden rediscovers his fighting spirit as he takes on Trump</a> CNN: In marking the anniversary of the Capitol insurrection, President Joe Biden rediscovered the sense of mission and political clarity that had disappeared when his presidency slumped during a cascade of crises in the second half of 2021. 
  <p class="updated_time"> 10:59 PM CT, Jan. 06 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/06/jan-6-anniversary-congressional-staffers-new-normal-525989">One year later, congressional staffers reckon with their new normal</a> Politico: The trauma of the violence on Jan. 6, 2021, still reverberates for many of the aides who make Capitol Hill tick. 
  <p class="updated_time"> 04:15 AM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070849350/sen-hawley-faces-no-real-political-ramifications-back-home-for-jan-6-actions">Sen. Hawley faces no real political ramifications back home for Jan. 6 actions</a> NPR: Sen. Josh Hawley greeted demonstrators on Jan. 6, 2021 and refused to certify election results. In Missouri, Hawley has faced little, if anything, in terms of a political downside for his actions. 
- <p class="updated_time"> 04:15 AM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1070849301/morning-news-brief">News brief: Jan. 6 a year later, American extremists, CDC's communication issues</a> NPR: Members of Congress mark the attack on the U.S. Capitol a year ago. Experts monitoring extremist worry the U.S. is in a more dangerous place than a year ago. Examining the CDC's messaging problems. 
  <p class="updated_time"> 08:45 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/jimmy-carter-democracy-jan-6-oped/index.html">Carter warns America 'teeters on the brink of a widening abyss' in stark op-ed ahead of January 6</a> CNN: Former President Jimmy Carter warned Wednesday that democracy is being threatened throughout the country, cautioning that "our great nation now teeters on the brink of a widening abyss." 
  <p class="updated_time"> 07:44 PM CT, Jan. 05 </p> 
