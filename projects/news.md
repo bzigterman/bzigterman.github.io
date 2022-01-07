@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:27 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 03:39 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
  <p class="updated_time"> 02:58 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/nato-russia-ukraine.html">NATO Vows United Response to Russian Aggression Against Ukraine</a> NYT: Foreign ministers from the alliance, meeting Friday, hope that Moscow will choose diplomacy and de-escalation instead, amid skepticism that Russia is sincere in wanting substantive talks. 
@@ -85,10 +85,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59901366?at_medium=RSS&at_campaign=KARANGA">Instagram blocked hashtag in memory of Iran plane crash victims</a> BBC: The social media giant says it did so by mistake, as families tried to memorialise the 176 victims. 
  <p class="updated_time"> 06:15 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59907235?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Troops ordered to fire without warning</a> BBC: The president orders the crackdown on protests, saying "20,000 bandits" had attacked the main city. 
- <p class="updated_time"> 06:03 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/revenge-recalls-spark-debate-in-taiwan-how-much-democracy-is-too-much-11641558601">'Revenge Recalls' Spark Debate in Taiwan: How Much Democracy Is Too Much?</a> WSJ: Popular referendums and recall elections have some wondering whether Taiwan is too democratic for its own good. Some see benefits for China in elections that “never end.” 
  <p class="updated_time"> 06:00 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/taiwan-stages-military-drills-to-deter-chinese-aggression-11641574834">Taiwan Stages Military Drills to Deter Chinese Aggression</a> WSJ: Aerial, naval and urban-warfare exercises aim to make China’s People’s Liberation Army “think twice,” a senior Taiwanese officer says. 
+ <p class="updated_time"> 05:27 AM CT, Jan. 07 </p> 
+ <a href="https://www.wsj.com/articles/kazakhstans-elite-got-richer-on-natural-resources-then-came-the-unrest-11641572839">Kazakhstan's Elite Got Richer on Natural Resources. Then Came the Unrest.</a> WSJ: In a country with huge reserves of oil, precious metals and uranium, income inequality and the outsize wealth of a small group of oligarchs fed popular anger. 
  <p class="updated_time"> 05:22 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
  <p class="updated_time"> 05:08 AM CT, Jan. 07 </p> 
@@ -396,6 +396,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
  <p class="updated_time"> 06:45 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/biden-white-house-omicron-plan-526516">White House embraces a manage-not-contain Omicron game plan</a> Politico: The president is under immense pressure to keep some semblance of social normalcy amid a pandemic that is absolutely roaring. 
+ <p class="updated_time"> 02:28 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden announces US will double its order of Pfizer's antiviral pill to treat Covid-19</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
