@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:06 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. Known coronavirus cases have topped 300 million globally, but the number is less of an pandemic indicator than it used to be. 
- <p class="updated_time"> 11:06 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/asia/behind-kazakhstan-unrest-the-strongmans-dilemma.html">Behind Kazakhstan Unrest, the Strongman’s Dilemma</a> NYT: Since the Cold War’s end, most dictatorial governments have collapsed after their ruler’s departure. 
- <p class="updated_time"> 10:54 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/science/road-salt-water-supply.html">Road Salt Works. But It’s Also Bad for the Environment.</a> NYT: The chemical is effective at keeping roads free of snow and ice, but it also has damaging consequences, according to a growing body of research. 
- <p class="updated_time"> 10:36 AM CT, Jan. 07 </p> 
+ <p class="updated_time"> 11:34 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court is hearing arguments against President Biden’s vaccine mandates. 
+ <p class="updated_time"> 11:20 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/asia/behind-kazakhstan-unrest-the-strongmans-dilemma.html">Behind Kazakhstan Unrest, the ‘Strongman’s Dilemma’</a> NYT: Since the Cold War’s end, most dictatorial governments have collapsed after their ruler’s departure. 
+ <p class="updated_time"> 11:17 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59907931?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Hollywood trailblazer dies aged 94</a> BBC: The Hollywood star was the first black man to win a best actor Oscar, and also a humanitarian. 
+ <p class="updated_time"> 11:08 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/australia/moriori-new-zealand.html">Revival for New Zealand's Moriori Nearly Pushed to Cultural Death</a> NYT: The Moriori, whose history of peaceful isolation was shattered by violent subjugation, are fighting to establish themselves as a thriving people alongside the Maori. 
+ <p class="updated_time"> 10:54 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/climate/road-salt-water-supply.html">Road Salt Works. But It’s Also Bad for the Environment.</a> NYT: The chemical is effective at keeping roads free of snow and ice, but it also has damaging consequences, according to a growing body of research. 
+ <p class="updated_time"> 10:36 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59906706?at_medium=RSS&at_campaign=KARANGA">Truck spends three days dangling over China cliff</a> BBC: The driver is said to have tried to reverse on a narrow mountain road. 
  <p class="updated_time"> 10:34 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/india-12-booster-shots.html">12 Covid Vaccine Shots Aren't Enough for 85-Year-Old in India</a> NYT: The retired postman  said he gamed the offline vaccination drive to keep boosting regularly — long before booster shots were a thing anywhere. 
  <p class="updated_time"> 10:04 AM CT, Jan. 07 </p> 
@@ -117,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1071064023/how-western-australia-has-managed-to-avoid-large-covid-19-outbreaks">How Western Australia has managed to avoid large Covid-19 outbreaks</a> NPR: NPR's Ailsa Chang speaks with reporter Jacob Kagi of the Australian Broadcasting Corporation about how Western Australia has managed their COVID-19 numbers throughout the pandemic. 
  <p class="updated_time"> 03:31 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/europe/boris-johnson-ethics-britain-uk.html">Ethics Adviser Rebukes Boris Johnson Over Downing Street Decorations</a> NYT: The adviser said it was “plainly unsatisfactory” that he was not told that Mr. Johnson had petitioned a prominent donor to arrange financing for the makeover of his apartment. 
- <p class="updated_time"> 03:14 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59903152?at_medium=RSS&at_campaign=KARANGA">President's residence gutted as Kazakhstan clashes continue</a> BBC: Security forces in Kazakhstan say they have killed dozens of anti-government rioters in the main city, Almaty. 
  <p class="updated_time"> 03:05 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/06/1069872384/for-many-afghans-winter-is-forcing-a-cruel-choice-of-whether-to-eat-or-stay-warm">For many Afghans, winter is forcing a cruel choice of whether to eat or stay warm</a> NPR: "It shouldn't be a lottery of life about who gets to eat, who doesn't get to eat. Do I keep my child warm or do I give my child food?" a World Food Programme Afghanistan spokesperson tells NPR. 
  <p class="updated_time"> 02:43 PM CT, Jan. 06 </p> 
@@ -161,6 +163,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/health/covid-rapid-test-omicron-detection.html">Emerging Data Raise Questions About Antigen Tests and Nasal Swabs</a> NYT: A new study adds to evidence that common rapid tests may fail to detect some Omicron cases in the first days of infection. 
  <p class="updated_time"> 06:43 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/sports/tennis/novak-djokovic-vaccine-exemption-skepticism.html">Skepticism and anger greet Novak Djokovic’s vaccine exemption.</a> NYT: Some Australians reacted with fury at the announcement from the world’s No. 1 male tennis player, the sport’s most prominent vaccination skeptic. 
+ <p class="updated_time"> 06:39 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/americas/suspect-detained-haiti-assassination.html">U.S. Charges a Suspect in Assassination of Haiti’s President</a> NYT: A former Colombian commando is the first to face U.S. prosecution in the killing of Jovenel Moïse, after agents flew him to Miami from Panama. 
  <p class="updated_time"> 05:11 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/italy-female-statue-padua-prato-della-valle.html">Italy Proposal to Add Female Statue to Square of Men Stirs Debate</a> NYT: In Padua, Italy, a proposal to include a female philosopher in a monument whose 78 sculptures are all men has spurred debate. 
  <p class="updated_time"> 04:06 PM CT, Jan. 05 </p> 
@@ -187,6 +191,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/middleeast/palestinian-hunger-strike-israel.html">Palestinian Prisoner’s Hunger Strike Leads to Deal for Release</a> NYT: A Palestinian accused of plotting to kill Israelis went on a hunger strike to protest his imprisonment without trial. Fearing unrest, Israel agreed to release him. 
  <p class="updated_time"> 03:22 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/prince-andrew-sexual-abuse-royal-family.html">What Prince Andrew's  Abuse Case Could Mean for the Royal Family</a> NYT: As Queen Elizabeth II prepares to mark 70 years on the throne this year, a sexual abuse case in a Manhattan court involving her son could mean more turmoil for the royal family. 
+ <p class="updated_time"> 01:23 PM CT, Jan. 04 </p> 
+ <a href="https://www.nytimes.com/2022/01/04/world/europe/ireland-alcohol-minimum-unit-price.html">Ireland Puts Minimum Price on Alcohol to Curb Binge Drinking</a> NYT: The new rule, part of broader legislation aimed at stemming alcohol-related illnesses, sets a minimum price of one euro per standard drink and came into effect on Tuesday. 
  <p class="updated_time"> 01:08 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/tony-blair-knighthood-petition-rescind.html">Petition to Rescind Tony Blair’s Knighthood Gets Hundreds of Thousands of Signatures</a> NYT: Nearly 15 years after he left office, the prime minister’s support for the Iraq war has not been forgiven by many in Britain. 
 
@@ -196,22 +202,28 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:29 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Supreme Court Divided in Major Challenge to Biden’s Virus Plan</a> NYT: The justices seemed to split along familiar ideological lines on whether the administration exceeded its authority in requiring vaccines or testing at large employers. 
  <p class="updated_time"> 11:28 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/oscar-winner-and-groundbreaking-star-sidney-poitier-dies-526735">Oscar winner and groundbreaking star Sidney Poitier dies</a> Politico: Sidney Poitier, the groundbreaking actor who transformed how Black people were portrayed on screen, has died. He was 94. 
+ <p class="updated_time"> 11:19 AM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/ron-johnson-reelection-plans/index.html">GOP banking on Ron Johnson run in crucial Senate race </a> CNN: Republicans are growing bullish that Wisconsin Sen. Ron Johnson will launch his reelection campaign in 2022, setting the stage for a bruising race that could determine control of the Senate and whether former President Donald Trump will continue to have one of his staunchest allies in the chamber. 
+ <p class="updated_time"> 11:05 AM CT, Jan. 07 </p> 
+ <a href="https://www.npr.org/2022/01/07/1071256532/postal-service-exempt-vaccine-mandate">Postal Service wants its employees to be exempt from the vaccine mandate</a> NPR: With more than 500,000 employees, the post office says complying with the rule would be difficult and could interfere with timely mail deliveries. 
+ <p class="updated_time"> 11:00 AM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/russia-us-ukraine-sanctions/index.html">Biden officials weighing Russia sanctions despite warnings</a> CNN: The Biden administration is still weighing exactly how it would penalize Russia if the country invades Ukraine, as US diplomats are just days away from high-stakes meetings with Kremlin officials. 
  <p class="updated_time"> 10:53 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/biden-december-jobs-report/index.html">Biden touts low unemployment rate after US adds fewer jobs in December than expected</a> CNN: President Joe Biden on Friday touted the unemployment rate dropping to 3.9% in December and credited his economic agenda with getting America "back on its feet," despite Friday's job report showing the US economy added fewer jobs than expected last month. 
  <p class="updated_time"> 10:48 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/us-moroccan-navy-migrant-rescue/index.html">US and Moroccan Navy rescue 103 migrants off African coast</a> CNN: The US and Moroccan navies rescued 103 migrants from two rafts taking on water some 40 miles west of the Moroccan coast late Tuesday night, the US Navy said Friday. 
  <p class="updated_time"> 10:47 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/rochelle-walensky-cdc-communications-covid-19/index.html">CDC director turns to media consultant as Covid-19 messaging frustrations mount</a> CNN: Dr. Rochelle Walensky assumed her new role as the director of the US Centers for Disease Control and Prevention last January with a vow to restore trust in the agency. But last fall, several months into the job and after a series of messaging missteps, Walensky sought out media training. 
+ <a href="https://www.cnn.com/2022/01/07/politics/rochelle-walensky-cdc-communications-covid-19/index.html">After a series of messaging missteps, CDC's Walensky seeks out media training</a> CNN: Dr. Rochelle Walensky assumed her new role as the director of the US Centers for Disease Control and Prevention last January with a vow to restore trust in the agency. But last fall, several months into the job and after a series of messaging missteps, Walensky sought out media training. 
  <p class="updated_time"> 10:41 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/us-jobs-report-economy-what-matters/index.html">Analysis: Jobs reports: What makes them 'disappointing'</a> CNN: New government data that tracks job growth is out, and it is disappointing -- just 199,000 jobs were added to the US economy in December, according to a survey published by the Labor Department. 
  <p class="updated_time"> 10:40 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/business/economy/jobs-interest-rates-federal-reserve.html">As Unemployment Falls, Interest Rate Increases Creep Nearer</a> NYT: The jobless rate is falling sharply and pay is jumping. That may increase the urgency as the Federal Reserve withdraws economic support. 
  <p class="updated_time"> 10:34 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/ted-cruz-jan-6-terrorist-attack-capitol/index.html">Ted Cruz told the truth about the 1/6 attack. Then he started backtracking.</a> CNN: On Wednesday, Sen. Ted Cruz told the truth about what happened at the US Capitol on January 6, 2021, calling it "a violent terrorist attack on the Capitol, where we saw the men and women of law enforcement demonstrate incredible courage." 
- <p class="updated_time"> 10:23 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Supreme Court Hears Major Challenges to Biden’s Vaccine Mandates</a> NYT: Challengers say the administration exceeded its authority in requiring vaccines or testing at large employers and mandating vaccines for many health care workers. 
  <p class="updated_time"> 09:47 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/supreme-court-biden-vaccine-testing-mandate-covid-19/index.html">Supreme Court hears challenges to Biden vaccine and testing mandates</a> CNN: The Supreme Court on Friday will take up challenges to President Joe Biden's most aggressive attempts so far to combat the spread of Covid-19 -- vaccine or testing requirements for large businesses and many health care workers -- as the number of infections soar and 40 million adults in the US are still declining to get vaccinated. 
  <p class="updated_time"> 09:33 AM CT, Jan. 07 </p> 
@@ -253,11 +265,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071128277/vaccine-mandate-regulations-are-under-the-supreme-courts-microscope">The Supreme Court is hearing arguments challenging vaccine mandates</a> NPR: The two cases are in a preliminary posture, but how the court rules will very likely signal how these issues are ultimately resolved. 
  <p class="updated_time"> 12:03 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/january-6-insurrection-joe-biden-donald-trump-2024-election/index.html">Biden rediscovers his fighting spirit as he takes on Trump</a> CNN: In marking the anniversary of the Capitol insurrection, President Joe Biden rediscovered the sense of mission and political clarity that had disappeared when his presidency slumped during a cascade of crises in the second half of 2021. 
+ <a href="https://www.cnn.com/2022/01/07/politics/january-6-insurrection-joe-biden-donald-trump-2024-election/index.html">Analysis: Biden rediscovers his fighting spirit as he takes on Trump</a> CNN: In marking the anniversary of the Capitol insurrection, President Joe Biden rediscovered the sense of mission and political clarity that had disappeared when his presidency slumped during a cascade of crises in the second half of 2021. 
  <p class="updated_time"> 10:59 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/ted-cruz-jan-6-terrorist-tucker-carlson-526725">Ted Cruz walks back Jan. 6 'terrorist' remark in heated exchange with Tucker Carlson</a> Politico: The senator brushed off his previous phrasing as “sloppy” and “frankly dumb.” 
- <p class="updated_time"> 10:25 PM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/january-6-investigation-criminal-activity-trump/index.html">January 6 investigators don't rule out concluding Trump's actions constituted a crime</a> CNN: Reps. Bennie Thompson and Liz Cheney, chair and vice chair of the House select committee investigating the January 6 insurrection, are not ruling out the possibility of concluding that the actions of former President Donald Trump and some of his associates constituted a crime. 
  <p class="updated_time"> 08:50 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/trump-capitol-police-lawsuit-january-6/index.html">Capitol Police officer who suffered concussion on January 6 is latest to sue Trump seeking accountability</a> CNN: US Capitol Police Officer Briana Kirkland is suing former President Donald Trump for the physical and emotional pain she endured, including a traumatic brain injury, because of the Capitol insurrection, according to a new filing in DC District Court. 
  <p class="updated_time"> 08:31 PM CT, Jan. 06 </p> 
@@ -318,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/06/nick-kristof-booted-off-oregon-ballot-526669">Nick Kristof booted off Oregon ballot, vows appeal</a> Politico: The former New York Times columnist does not meet the three-year residency requirement, the secretary of state said Thursday, calling it "not even a close call." 
  <p class="updated_time"> 02:09 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/i-texted-my-editor-guns-drawn-times-reporters-discuss-their-experiences-inside-the-capitol-on-jan-6.html">Times Reporters Discuss Their Experiences Inside the Capitol on Jan. 6</a> NYT: Focused on the counting of electoral votes, those inside the building didn’t fully grasp how bad things had gotten outside until it was too late. 
- <p class="updated_time"> 02:01 PM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/trump-tweet-january-6/index.html">Trump did not want to tweet 'stay peaceful' during January 6 riot, key former aide says</a> CNN: A former Trump White House official said then-President Donald Trump initially refused to tweet the words "stay peaceful" as the attack on the US Capitol on January 6, 2021, was escalating. 
  <p class="updated_time"> 12:40 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070924133/how-dan-bongino-is-building-a-right-wing-media-infrastructure-in-time-for-2024">How Dan Bongino is building a right-wing media infrastructure in time for 2024</a> NPR: New Yorker writer Evan Osnos says no one in media has profited more from the Trump era than Bongino, who hosts the country's fourth most listened to radio show and has 8.5 million weekly listeners. 
  <p class="updated_time"> 12:39 PM CT, Jan. 06 </p> 
@@ -332,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1070970440/ted-cruz-jan-6-violent-terrorist-attack-tucker-carlson">Republicans criticize Ted Cruz for calling Jan. 6 a violent terrorist attack</a> NPR: "Of all the things that Jan. 6 was, it was definitely not a violent terrorist attack," Fox News commentator Tucker Carlson said in reply to Sen. Ted Cruz of Texas. 
  <p class="updated_time"> 11:48 AM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070931178/jan-6-anniversary-biden-speech-transcript">Read President Biden's Jan. 6 speech in full</a> NPR: Biden blasted former President Donald Trump in an address from the U.S. Capitol on the anniversary of the insurrection. 
- <p class="updated_time"> 11:47 AM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/transcript-joe-biden-january-6-anniversary-speech/index.html">President Joe Biden's remarks on January 6 anniversary</a> CNN: President Joe Biden spoke from the US Capitol on the one-year anniversary of the January 6 insurrection and condemned former President Donald Trump as a threat to democracy. 
  <p class="updated_time"> 11:42 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/taylor-greene-gaetz-bannon-jan-6.html">Gaetz and Taylor Greene Redirect Jan. 6 Blame on Bannon's Show</a> NYT: The idea that people other than Mr. Trump’s own supporters were responsible for the violence that day has become a popular conspiracy theory among the far right. 
  <p class="updated_time"> 11:40 AM CT, Jan. 06 </p> 
@@ -356,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/06/andy-kim-reflects-jan-6-526568">How one Congressman’s act of service will be forever memorialized</a> Politico: One year later, it’s still hard for the congressman to make sense of what happened at the Capitol. 
  <p class="updated_time"> 06:18 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/06/your-guide-to-jan-6-anniversary-coverage-495620"> Your guide to Jan. 6 anniversary coverage</a> Politico Playbook: And the Biden administration tries to straighten out its recent pandemic fumbles. 
- <p class="updated_time"> 05:47 AM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/lawmakers-react-capitol-riot-anniversary/index.html">'A harsher, colder place': How January 6 changed Congress and some members forever</a> CNN: On January 6, 2021, Rep. Dan Kildee, a Democrat from Michigan, was prepared for a long day. 
  <p class="updated_time"> 05:33 AM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1069979415/biden-harris-jan-6-insurrection-speech">President Biden blasts Trump for 'spreading a web of lies' in a Jan. 6 speech</a> NPR: Biden didn't utter Trump's name but referred repeatedly to him with forceful, and at times personal, denunciations of his actions. "He's not just a former president. He's a defeated former president." 
  <p class="updated_time"> 04:30 AM CT, Jan. 06 </p> 
@@ -366,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/06/congress-members-capitol-riot-reflection-525949">Jan. 6, in their own words: Members of Congress look back and forward</a> Politico: Democrats and Republicans alike spoke frankly with POLITICO about how they've dealt with the attack and how it's affected both them personally and the institution of Congress. 
  <p class="updated_time"> 04:30 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/jan-6-anniversary-congressional-staffers-new-normal-525989">One year later, congressional staffers reckon with their new normal</a> Politico: The trauma of the violence on Jan. 6, 2021, still reverberates for many of the aides who make Capitol Hill tick. 
- <p class="updated_time"> 04:15 AM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1070849350/sen-hawley-faces-no-real-political-ramifications-back-home-for-jan-6-actions">Sen. Hawley faces no real political ramifications back home for Jan. 6 actions</a> NPR: Sen. Josh Hawley greeted demonstrators on Jan. 6, 2021 and refused to certify election results. In Missouri, Hawley has faced little, if anything, in terms of a political downside for his actions. 
  <p class="updated_time"> 08:45 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/jimmy-carter-democracy-jan-6-oped/index.html">Carter warns America 'teeters on the brink of a widening abyss' in stark op-ed ahead of January 6</a> CNN: Former President Jimmy Carter warned Wednesday that democracy is being threatened throughout the country, cautioning that "our great nation now teeters on the brink of a widening abyss." 
  <p class="updated_time"> 06:05 PM CT, Jan. 05 </p> 
@@ -394,12 +396,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
  <p class="updated_time"> 06:45 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/biden-white-house-omicron-plan-526516">White House embraces a manage-not-contain Omicron game plan</a> Politico: The president is under immense pressure to keep some semblance of social normalcy amid a pandemic that is absolutely roaring. 
+ <p class="updated_time"> 02:28 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden announces US will double its order of Pfizer's antiviral pill to treat Covid-19</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/manchin-biden-spending-bill-negotiation-526486">Manchin on Biden's spending bill: 'No negotiation going on'</a> Politico: The West Virginia senator thinks Democrats would be better off focusing on climate provisions in their wide-ranging megabill. 
  <p class="updated_time"> 12:47 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/omicron-ontario-canada-covid-restrictions-526484">As Covid policies divide America, Ontario doubles down (again)</a> Politico: The latest Covid shutdowns test the trust of the jabbed and boosted in Canada’s most populous province. 
+ <p class="updated_time"> 12:00 PM CT, Jan. 04 </p> 
+ <a href="https://www.cnn.com/2022/01/04/politics/mitch-landrieu-letter-to-governors-infrastructure/index.html">Biden's infrastructure czar urges governors to appoint their own infrastructure implementation coordinators</a> CNN: President Joe Biden's infrastructure czar Mitch Landrieu sent letters to all the nation's governors on Tuesday urging them to appoint their own infrastructure implementation coordinators to smooth the rollout of the $1.2 trillion law. 
  <p class="updated_time"> 10:46 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/ruben-gallego-merrick-garland-capitol-attack-526480">Gallego: Garland 'extremely weak' on Jan. 6 cases</a> Politico: The Arizona Democrat also directed his ire at GOP lawmakers who he accused of trying to shield Jan. 6 rioters. 
  <p class="updated_time"> 07:51 AM CT, Jan. 04 </p> 
