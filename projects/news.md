@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:08 AM CT, Jan. 07 </p> 
+ <p class="updated_time"> 08:24 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Global Coronavirus Cases Top 300 Million</a> NYT: The number of known cases, likely an undercount, is now less of an indicator than it used to be in determining pandemic strategy. Governments are marshaling resources toward vaccinating people. 
+ <p class="updated_time"> 08:19 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59912704?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic thanks fans as he awaits deportation decision</a> BBC: The men's tennis star is awaiting a decision on his deportation from Australia over a vaccination row. 
  <p class="updated_time"> 08:04 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">Kazakhstan Protests Lead President to  Crack Down: ‘Fire Without Warning’</a> NYT: President Kassym-Jomart Tokayev said on Friday that “bandits” were responsible for the unrest and must be “destroyed.” He thanked Russia for sending troops to help establish order. 
  <p class="updated_time"> 07:47 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59906702?at_medium=RSS&at_campaign=KARANGA">Gunfire heard as BBC visits scene of Kazakh clashes</a> BBC: The BBC's Abdujalil Abdurasulov reports from Almaty in the aftermath of violent protests. 
- <p class="updated_time"> 07:39 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Global Coronavirus Cases Top 300 Million</a> NYT: The number of known cases, likely an undercount, is now less of an indicator than it used to be in determining pandemic strategy. Governments are marshaling resources toward vaccinating people. 
  <p class="updated_time"> 07:28 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59901366?at_medium=RSS&at_campaign=KARANGA">Instagram blocked hashtag in memory of Iran plane crash victims</a> BBC: The social media giant says it did so by mistake, as families tried to memorialise the 176 victims. 
  <p class="updated_time"> 06:15 AM CT, Jan. 07 </p> 
@@ -43,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071181693/the-leader-of-kazakhstan-says-constitutional-order-mainly-restored-amid-unrest">The leader of Kazakhstan says constitutional order 'mainly restored' amid unrest</a> NPR: The president of Kazakhstan on Friday declared that constitutional order was "mainly restored" but "terrorists are still using weapons and are damaging people's property" and would be dealt with. 
  <p class="updated_time"> 02:28 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/canada/canada-conversion-therapy-law.html">Canadian Law Banning ‘Conversion Therapy’ Set to Go Into Effect</a> NYT: The law, which takes effect on Friday, puts Canada in the company of more than a dozen countries that have banned the widely discredited practice. 
- <p class="updated_time"> 02:15 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/countries-ditch-restrictions-bet-on-higher-vaccination-rates-to-confront-omicron-11641561349">Countries Ditch Restrictions, Bet on Vaccination to Confront Omicron</a> WSJ: Israel reopened its borders, the U.K. relaxed travel restrictions and the Biden administration signaled that Americans should accept Covid-19 as a part of daily life. 
  <p class="updated_time"> 02:13 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642">Kazakh Leader Gives Security Forces Order to Shoot Without Warning</a> WSJ: President Kassym-Jomart Tokayev said his government had largely restored order as the country’s security forces scoured for protesters after days of unrest triggered by a fuel-price increase. 
  <p class="updated_time"> 02:11 AM CT, Jan. 07 </p> 
@@ -186,6 +184,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:19 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/business/economy/jobs-interest-rates-federal-reserve.html">As Unemployment Falls, Interest Rate Increases Creep Nearer</a> NYT: A fresh jobs report showed that the unemployment rate is still dropping. That likely keeps the Fed on track to raise interest rates as inflation rises. 
  <p class="updated_time"> 08:15 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/bidens-colorado-wildfire/index.html">Bidens to tour damage from massive Colorado wildfire</a> CNN: President Joe Biden and first lady Jill Biden are scheduled to travel to Colorado on Friday to meet with families who were affected by a recent massive wildfire that destroyed hundreds of homes and thousands of acres. 
  <p class="updated_time"> 08:12 AM CT, Jan. 07 </p> 
@@ -194,8 +194,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/rochelle-walensky-cdc-communications-covid-19/index.html">CDC director turns to media consultant as Covid-19 messaging frustrations mount</a> CNN: Dr. Rochelle Walensky assumed her new role as the director of the US Centers for Disease Control and Prevention last January with a vow to restore trust in the agency. But last fall, several months into the job and after a series of messaging missteps, Walensky sought out media training. 
  <p class="updated_time"> 08:00 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/mark-kelly-9-million-fourth-quarter-arizona/index.html">Sen. Mark Kelly raises nearly $9 million in final three months of 2021</a> CNN: Sen. Mark Kelly raised nearly $9 million in the final three months of 2021, a figure that surpasses what he raised in the previous three months and positions the Arizona Democrat to be one of the best funded candidates in the 2022 midterms. 
- <p class="updated_time"> 07:54 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/business/economy/jobs-interest-rates-federal-reserve.html">As Unemployment Falls, Interest Rate Increases Creep Nearer</a> NYT: A fresh jobs report showed that the unemployment rate is still dropping. That likely keeps the Fed on track to raise interest rates as inflation rises. 
  <p class="updated_time"> 07:54 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jamie-raskin-unthinkable-jan-6.html">Jamie Raskin’s Year of Tragedy and Trump</a> NYT: We spoke to the Maryland congressman about losing his son just before Jan. 6 last year and his new book on American democracy. 
  <p class="updated_time"> 07:39 AM CT, Jan. 07 </p> 
