@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:12 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 02:31 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
- <p class="updated_time"> 02:11 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 02:31 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/rochelle-walensky-cdc-covid-guidance.html">C.D.C Director Defends Covid-19 Isolation Guidance</a> NYT: Dr. Rochelle P. Walensky held the agency’s first independent news briefing since the Trump White House ended them nearly two years ago. 
+ <p class="updated_time"> 02:22 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59912361?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Jogger's murderers sentenced to life in prison</a> BBC: Three men who killed the black jogger given life sentences by judge who condemns "chilling" murder. 
+ <p class="updated_time"> 02:18 PM CT, Jan. 07 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/01/07/1068840414/global-wishes-for-2022-a-gift-box-for-everyone-greater-girl-power-vertical-garde">Global wishes for 2022: a gift box for everyone, greater girl power, vertical gardens</a> NPR: We asked global thinkers like Malala, doctors dealing with the pandemic, educators and more — if you were in charge of the world, what would you like to see happen this year. 
  <p class="updated_time"> 02:10 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 02:07 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/covid-flight-italy-india.html">Covid Tests Probed After 100s on 2 Italy-India Flights Test Positive </a> NYT: Some 300 passengers on two flights who tested positive for the coronavirus upon landing in the northern city of Amritsar are being retested. 
- <p class="updated_time"> 01:58 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/rochelle-walensky-cdc-covid-guidance.html">C.D.C Director Defends Covid-19 Isolation Guidance</a> NYT: Dr. Rochelle P. Walensky held the agency’s first independent news briefing since the Trump White House ended them nearly two years ago. 
  <p class="updated_time"> 01:53 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/nato-russia-ukraine.html">NATO Vows United Response to Russian Aggression Against Ukraine</a> NYT: Foreign ministers from the alliance, meeting Friday, hope that Moscow will choose diplomacy and de-escalation instead, amid skepticism that Russia is sincere in wanting substantive talks. 
  <p class="updated_time"> 01:42 PM CT, Jan. 07 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/sports/tennis/novak-djokovic-vaccine-exemption-skepticism.html">Skepticism and anger greet Novak Djokovic’s vaccine exemption.</a> NYT: Some Australians reacted with fury at the announcement from the world’s No. 1 male tennis player, the sport’s most prominent vaccination skeptic. 
  <p class="updated_time"> 05:11 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/italy-female-statue-padua-prato-della-valle.html">Italy Proposal to Add Female Statue to Square of Men Stirs Debate</a> NYT: In Padua, Italy, a proposal to include a female philosopher in a monument whose 78 sculptures are all men has spurred debate. 
- <p class="updated_time"> 04:06 PM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070700705/u-s-and-germany-touch-base-before-meeting-with-russia-about-ukraine-tensions">U.S. and Germany touch base before meeting with Russia about Ukraine tensions</a> NPR: With Russian troops massed on the Ukrainian border, Secretary of State Antony Blinken and his German counterpart huddle before next week's meetings with Russian officials aimed at defusing the crisis. 
  <p class="updated_time"> 03:56 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/americas/rio-carnival-parties-parade-brazil.html">Rio Cancels Carnival Street Parties but Keeps Parade</a> NYT: As the Omicron variant sweeps the globe, the parties in Rio de Janeiro, which ordinarily draw millions of revelers, have been called off for a second year. 
  <p class="updated_time"> 02:10 PM CT, Jan. 05 </p> 
@@ -192,12 +192,24 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:18 PM CT, Jan. 07 </p> 
+ <a href="https://www.politico.com/news/2022/01/07/arbery-killers-get-life-in-prison-no-parole-for-father-son-526754">Arbery killers get life in prison; no parole for father, son</a> Politico: In November, a jury convicted all three defendants of murder, aggravated assault, false imprisonment and attempted false imprisonment. 
  <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
+ <p class="updated_time"> 02:32 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-state-of-the-union.html">Biden to Deliver State of the Union Address on March 1</a> NYT: The date is later than usual and was set as the White House confronts an evolving pandemic and a stalled legislative agenda. 
+ <p class="updated_time"> 02:26 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/cyber-ninjas-shutting-down-arizona/index.html">Cyber Ninjas, company that oversaw the partisan Arizona election review, is shuttering</a> CNN: The Cyber Ninjas firm that oversaw the problem-plagued review of the 2020 results in Arizona's Maricopa County is shuttering. 
+ <p class="updated_time"> 02:21 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/covid-19-rapid-test-contract-signed/index.html">Biden administration signs first contract for free rapid Covid-19 test distribution </a> CNN: The Biden administration has signed its first contract with a Covid-19 test manufacturer as part of President Joe Biden's efforts to distribute half a billion free rapid tests throughout the country, a White House official confirms to CNN. 
+ <p class="updated_time"> 02:21 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/state-of-the-union-biden-pelosi/index.html">Biden accepts Pelosi's invitation to give State of the Union speech on March 1</a> CNN: House Speaker Nancy Pelosi on Friday asked President Joe Biden to deliver the annual State of the Union address to Congress on March 1. 
+ <p class="updated_time"> 02:16 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/ransomware-schools-website/index.html">Ransomware attack affected websites of 5,000 schools</a> CNN: A ransomware attack on software provider Finalsite has affected the websites of about 5,000 schools, most of them in the US, a Finalsite spokesperson told CNN Friday. 
+ <p class="updated_time"> 02:13 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/blinken-russia-talks/index.html">Blinken says talks with Russia on Ukraine crisis need to be a 'two-way street' to be successful</a> CNN: Secretary of State Antony Blinken said Friday that progress can be made during next week's diplomatic talks between US, European and Russian officials, but that it had to be a "two-way street" with Russia deescalating its aggression toward Ukraine. 
  <p class="updated_time"> 02:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/treasury-sends-rental-aid-526748">Treasury to send $1B in rental aid funds to high-demand states, cities</a> Politico: California, New Jersey, New York and the District of Columbia will each receive tens of millions of dollars pulled from governments with low disbursement rates. 
- <p class="updated_time"> 01:58 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/covid-19-rapid-test-contract-signed/index.html">Biden administration signs first contract for free rapid Covid-19 test distribution </a> CNN: The Biden administration has signed its first contract with a Covid-19 test manufacturer as part of President Joe Biden's efforts to distribute half a billion free rapid tests throughout the country, a White House official confirms to CNN. 
  <p class="updated_time"> 01:46 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/supreme-court-biden-vaccine-testing-mandate-covid-19/index.html">Supreme Court appears poised to block Biden's vaccine and testing rules for businesses</a> CNN: The Supreme Court on Friday will take up challenges to President Joe Biden's most aggressive attempts so far to combat the spread of Covid-19 -- vaccine or testing requirements for large businesses and many health care workers -- as the number of infections soar and 40 million adults in the US are still declining to get vaccinated. 
  <p class="updated_time"> 01:43 PM CT, Jan. 07 </p> 
@@ -218,16 +230,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
  <p class="updated_time"> 12:52 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071304780/supreme-court-arguments-biden-vaccine-testing-regulation">Supreme Court conservatives appear skeptical of vaccine-or-test mandate for businesses</a> NPR: Business groups, 27 states and some individuals have questioned the authority of the Occupational Safety and Health Agency to impose a nationwide rule. 
- <p class="updated_time"> 12:51 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/state-of-the-union-biden-pelosi/index.html">Pelosi invites Biden to give State of the Union speech on March 1</a> CNN: House Speaker Nancy Pelosi on Friday asked President Joe Biden to deliver the annual State of the Union address to Congress on March 1. 
  <p class="updated_time"> 12:43 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/spyware-warning-cybersecurity.html">Biden Administration Warns Against Spyware Targeting Dissidents</a> NYT: The U.S. intelligence community offered steps that would mitigate — but not stop — spyware developed by firms like the NSO Group. 
  <p class="updated_time"> 12:37 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/voting-rights-electoral-count-john-lewis-act/index.html">Senate Democrats vow they'll pass voting rights legislation with or without Republicans. Here's what their proposals would do</a> CNN: Senate Majority Leader Chuck Schumer has set the stage for a showdown this month over voting rights -- pledging to muscle through sweeping new federal legislation aimed at counteracting moves by Republicans in state capitols to restrict access to the ballot. 
  <p class="updated_time"> 12:36 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/biden-december-jobs-report/index.html">Biden touts low unemployment rate after US adds fewer jobs in December than expected</a> CNN: President Joe Biden on Friday touted the unemployment rate dropping to 3.9% in December and credited his economic agenda with getting America "back on its feet," despite Friday's job report showing the US economy added fewer jobs than expected last month. 
- <p class="updated_time"> 12:10 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/cyber-ninjas-shutting-down-arizona/index.html">Cyber Ninjas, company that oversaw the partisan Arizona election review, is shuttering</a> CNN: The Cyber Ninjas firm that oversaw the problem-plagued review of the 2020 results in Arizona's Maricopa County is shuttering. 
  <p class="updated_time"> 11:28 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/oscar-winner-and-groundbreaking-star-sidney-poitier-dies-526735">Oscar winner and groundbreaking star Sidney Poitier dies</a> Politico: Sidney Poitier, the groundbreaking actor who transformed how Black people were portrayed on screen, has died. He was 94. 
  <p class="updated_time"> 11:19 AM CT, Jan. 07 </p> 
@@ -236,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071256532/postal-service-exempt-vaccine-mandate">The Postal Service is seeking a temporary delay from the vaccine mandate</a> NPR: With more than 500,000 employees, the post office says complying with the rule would be difficult and could interfere with timely mail deliveries. 
  <p class="updated_time"> 11:00 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/russia-us-ukraine-sanctions/index.html">Biden officials weighing Russia sanctions despite warnings</a> CNN: The Biden administration is still weighing exactly how it would penalize Russia if the country invades Ukraine, as US diplomats are just days away from high-stakes meetings with Kremlin officials. 
- <p class="updated_time"> 10:48 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/us-moroccan-navy-migrant-rescue/index.html">US and Moroccan Navy rescue 103 migrants off African coast</a> CNN: The US and Moroccan navies rescued 103 migrants from two rafts taking on water some 40 miles west of the Moroccan coast late Tuesday night, the US Navy said Friday. 
  <p class="updated_time"> 10:47 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/rochelle-walensky-cdc-communications-covid-19/index.html">After a series of messaging missteps, CDC's Walensky seeks out media training</a> CNN: Dr. Rochelle Walensky assumed her new role as the director of the US Centers for Disease Control and Prevention last January with a vow to restore trust in the agency. But last fall, several months into the job and after a series of messaging missteps, Walensky sought out media training. 
  <p class="updated_time"> 10:41 AM CT, Jan. 07 </p> 
@@ -258,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jamie-raskin-unthinkable-jan-6.html">Jamie Raskin’s Year of Tragedy and Trump</a> NYT: We spoke to the Maryland congressman about losing his son just before Jan. 6 last year and his new book on American democracy. 
  <p class="updated_time"> 07:38 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/07/choose-your-own-covid-policy-for-house-return-495639">Choose your own covid policy for House return</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:27 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/abortion-texas-fifth-circuit-hearing/index.html">Appeals court holds hearing to debate next steps in Texas six-week abortion ban case</a> CNN: The 5th US Circuit Court of Appeals is holding a hearing Friday on what should come next in abortion clinics' federal lawsuit challenging Texas' six-week abortion ban -- a lawsuit that the Supreme Court kept narrowly alive in a decision handed down last month. 
  <p class="updated_time"> 06:13 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/07/biden-finds-a-new-manchin-whisperer-495636"> Biden finds a new Manchin whisperer</a> Politico Playbook: And Biden allies hope the president's Jan. 6 speech is a turning point for the administration. 
  <p class="updated_time"> 04:31 AM CT, Jan. 07 </p> 
@@ -340,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1070924133/how-dan-bongino-is-building-a-right-wing-media-infrastructure-in-time-for-2024">How Dan Bongino is building a right-wing media infrastructure in time for 2024</a> NPR: New Yorker writer Evan Osnos says no one in media has profited more from the Trump era than Bongino, who hosts the country's fourth most listened to radio show and has 8.5 million weekly listeners. 
  <p class="updated_time"> 12:39 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/harris-hires-a-new-comms-director-jamal-simmons-526626">Harris hires a new comms director, Jamal Simmons</a> Politico: The longtime Democratic operative is a big name. He comes to a staff that's been losing talent. 
- <p class="updated_time"> 12:15 PM CT, Jan. 06 </p> 
- <a href="https://www.politico.com/news/2022/01/06/blinken-urges-peaceful-resolution-amid-chaos-in-kazakhstan-526615">U.S. Embassy ramps up security as officials urge calm in Kazakhstan</a> Politico: The Biden administration also raised questions about a Russian-led military alliance’s role in the country rocked by protests. 
  <p class="updated_time"> 12:04 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/former-administration-officials-block-trump-526623">Ex-Trumpers set to plot how to try and take down Trump</a> Politico: Those involved include Stephanie Grisham, Miles Taylor, Olivia Troye and Anthony Scaramucci. 
  <p class="updated_time"> 11:59 AM CT, Jan. 06 </p> 
@@ -356,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/06/social-media-donald-trump-jan-6-526562">The online world still can’t quit the ‘Big Lie’</a> Politico: The conspiracy theories and election fraud claims that stoked anger before the Jan. 6 assault are still readily available online, even after Facebook, Google and Twitter removed hundreds of thousands of accounts, pages and channels that spread misinformation. 
  <p class="updated_time"> 10:59 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/biden-russia-sanctions-european-allies-526606">Biden talks tough on Putin, but European allies are less ready for a fight</a> Politico: U.S. officials are warning Russia of harsh penalties if they invade Ukraine. But the Biden administration first must face a Europe divided on how far to go. 
- <p class="updated_time"> 10:36 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-journalists.html">Times Reporters Discuss Their Experiences Outside the Capitol</a> NYT: A New York Times team was out on Jan. 6, 2021, to cover what was expected to be a modest “Stop the Steal” rally on the Ellipse. 
  <p class="updated_time"> 10:27 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/biden-trump-capitol-riot-526605">Biden decries Trump’s ‘singular responsibility’ for the Capitol riot</a> Politico: One year since the violence of Jan. 6, 2021, the sitting president sharpened his rhetoric toward his predecessor — without using Trump’s name. 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
