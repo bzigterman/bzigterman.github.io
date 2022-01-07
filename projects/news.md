@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:27 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court is hearing arguments against President Biden’s vaccine mandates. 
- <p class="updated_time"> 12:21 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 12:45 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
+ <p class="updated_time"> 12:43 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/spyware-warning-cybersecurity.html">Biden Administration Warns Against Spyware Targeting Dissidents</a> NYT: The U.S. intelligence community offered steps that would mitigate — but not stop — spyware developed by firms like the NSO Group. 
+ <p class="updated_time"> 12:38 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/nato-russia-ukraine.html">NATO Vows United Response to Russian Aggression Against Ukraine</a> NYT: Foreign ministers from the alliance, meeting Friday, hope that Moscow will choose diplomacy and de-escalation instead, amid skepticism that Russia is sincere in wanting substantive talks. 
+ <p class="updated_time"> 12:23 PM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59910742?at_medium=RSS&at_campaign=KARANGA">Two Haitian journalists killed in gang attack</a> BBC: The men were shot and burned alive on the outskirts of the capital, according to one of their employers. 
+ <p class="updated_time"> 12:15 PM CT, Jan. 07 </p> 
+ <a href="https://www.npr.org/2022/01/07/1068622387/sidney-poitier-actor-remembrance">Sidney Poitier was far more than just a symbol of racial progress</a> NPR: For much of his career, the actor represented many different things to many people, but a constant was his sheer artistry. 
  <p class="updated_time"> 12:10 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59916564?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Remembering the Oscar winner and Hollywood trailblazer</a> BBC: We look back on the career of Sidney Poitier, the first black man to win a best actor Oscar. 
  <p class="updated_time"> 12:09 PM CT, Jan. 07 </p> 
@@ -51,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/arts/music/einar-sweden-rap.html">After Killing of Einar, Sweden Struggles With 'Gangster Rap'</a> NYT: Hip-hop, the country’s most popular music, has quickly become a lightning rod for Sweden’s long-roiling problems with gun violence and gang warfare. 
  <p class="updated_time"> 07:47 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59906702?at_medium=RSS&at_campaign=KARANGA">Gunfire heard as BBC visits scene of Kazakh clashes</a> BBC: The BBC's Abdujalil Abdurasulov reports from Almaty in the aftermath of violent protests. 
+ <p class="updated_time"> 07:42 AM CT, Jan. 07 </p> 
+ <a href="https://www.wsj.com/articles/global-covid-19-cases-cross-300-million-mark-11641558223">Global Covid-19 Cases Cross 300 Million Mark</a> WSJ: The milestone comes as the U.S. Supreme Court prepared to hold a special session to consider the Biden administration’s vaccine rules for private employers and healthcare workers. 
  <p class="updated_time"> 07:34 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59908217?at_medium=RSS&at_campaign=KARANGA">Simon & Schuster employee denies he stole bestseller manuscripts</a> BBC: The FBI alleges Simon & Schuster employee Filippo Bernardini tried to defraud hundreds of people. 
  <p class="updated_time"> 07:28 AM CT, Jan. 07 </p> 
@@ -79,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/canada/canada-conversion-therapy-law.html">Canadian Law Banning ‘Conversion Therapy’ Set to Go Into Effect</a> NYT: The law, which takes effect on Friday, puts Canada in the company of more than a dozen countries that have banned the widely discredited practice. 
  <p class="updated_time"> 02:11 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59904350?at_medium=RSS&at_campaign=KARANGA">Hong Kong quarantines all 100 guests of scandal-hit birthday party</a> BBC: Hong Kong's immigration chief and home affairs secretary are among those who have been quarantined. 
- <p class="updated_time"> 01:29 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/global-covid-19-cases-cross-300-million-mark-11641558223">Global Covid-19 Cases Cross 300 Million Mark</a> WSJ: The milestone comes as the U.S. Supreme Court prepared to hold a special session to consider the Biden administration’s vaccine rules for private employers and healthcare workers. 
  <p class="updated_time"> 01:13 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071176670/japan-approves-new-restrictions-for-areas-hard-hit-by-covid">Japan approves new restrictions for areas hard hit by COVID</a> NPR: Japan has undergone periods of similar restrictions over the past two years. This time, the spread of the omicron variant appears to be first hitting prefectures that house the U.S. military. 
  <p class="updated_time"> 12:22 AM CT, Jan. 07 </p> 
@@ -99,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59867318?at_medium=RSS&at_campaign=KARANGA">Munich: Edge of War gives Neville Chamberlain a makeover</a> BBC: The Jeremy Irons and George MacKay film re-examines the events leading up to World War Two. 
  <p class="updated_time"> 06:10 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59879762?at_medium=RSS&at_campaign=KARANGA">Lithuania: The European state that dared to defy China then wobbled</a> BBC: It stood up to China over Taiwan, but this week Lithuania's president said it made a mistake. 
- <p class="updated_time"> 06:07 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59649006?at_medium=RSS&at_campaign=KARANGA">Myanmar coup: The doctors and nurses defying the military</a> BBC: Many healthcare workers have refused to work in state hospitals and are now operating underground. 
  <p class="updated_time"> 05:36 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/china-xian-lockdown-covid.html">Xi'an Is China's Biggest Covid Challenge Since Wuhan</a> NYT: Xi’an, a city of 13 million people, has been on lockdown since Dec. 22, the longest in the country since the early days of the outbreak in Wuhan. 
  <p class="updated_time"> 04:35 PM CT, Jan. 06 </p> 
@@ -167,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070700705/u-s-and-germany-touch-base-before-meeting-with-russia-about-ukraine-tensions">U.S. and Germany touch base before meeting with Russia about Ukraine tensions</a> NPR: With Russian troops massed on the Ukrainian border, Secretary of State Antony Blinken and his German counterpart huddle before next week's meetings with Russian officials aimed at defusing the crisis. 
  <p class="updated_time"> 03:56 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/americas/rio-carnival-parties-parade-brazil.html">Rio Cancels Carnival Street Parties but Keeps Parade</a> NYT: As the Omicron variant sweeps the globe, the parties in Rio de Janeiro, which ordinarily draw millions of revelers, have been called off for a second year. 
- <p class="updated_time"> 03:35 PM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1070700656/reigning-australian-open-mens-champion-denied-entry-into-australia-to-defend-tit">Reigning Australian Open men's champion denied entry into Australia to defend title</a> NPR: The reigning Australian Open men's champion Novak Djokovic — who is famously skeptical about the COVID vaccine and received a medical exemption from being vaccinated — was not admitted to the country. 
  <p class="updated_time"> 02:10 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/britain-same-sex-pardon.html">Britain Extends Pardons Policy for Consensual Same-Sex Partners</a> NYT: The government’s action expands earlier legislative efforts, but for some gay people it is too little, too late. “It impacted me my whole life,” one man said of his conviction. 
  <p class="updated_time"> 01:51 PM CT, Jan. 05 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/middleeast/palestinian-hunger-strike-israel.html">Palestinian Prisoner’s Hunger Strike Leads to Deal for Release</a> NYT: A Palestinian accused of plotting to kill Israelis went on a hunger strike to protest his imprisonment without trial. Fearing unrest, Israel agreed to release him. 
  <p class="updated_time"> 03:22 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/prince-andrew-sexual-abuse-royal-family.html">What Prince Andrew's  Abuse Case Could Mean for the Royal Family</a> NYT: As Queen Elizabeth II prepares to mark 70 years on the throne this year, a sexual abuse case in a Manhattan court involving her son could mean more turmoil for the royal family. 
- <p class="updated_time"> 01:23 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/europe/ireland-alcohol-minimum-unit-price.html">Ireland Puts Minimum Price on Alcohol to Curb Binge Drinking</a> NYT: The new rule, part of broader legislation aimed at stemming alcohol-related illnesses, sets a minimum price of one euro per standard drink and came into effect on Tuesday. 
  <p class="updated_time"> 01:08 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/europe/tony-blair-knighthood-petition-rescind.html">Petition to Rescind Tony Blair’s Knighthood Gets Hundreds of Thousands of Signatures</a> NYT: Nearly 15 years after he left office, the prime minister’s support for the Iraq war has not been forgiven by many in Britain. 
 
@@ -198,14 +198,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
+ <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
+ <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
+ <p class="updated_time"> 12:45 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Conservative Majority on Supreme Court Appears Skeptical of Biden’s Virus Plan</a> NYT: The justices seemed to split along familiar ideological lines on whether the administration exceeded its authority in requiring vaccines or testing at large employers. 
+ <p class="updated_time"> 12:43 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/spyware-warning-cybersecurity.html">Biden Administration Warns Against Spyware Targeting Dissidents</a> NYT: The U.S. intelligence community offered steps that would mitigate — but not stop — spyware developed by firms like the NSO Group. 
+ <p class="updated_time"> 12:36 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/biden-december-jobs-report/index.html">Biden touts low unemployment rate after US adds fewer jobs in December than expected</a> CNN: President Joe Biden on Friday touted the unemployment rate dropping to 3.9% in December and credited his economic agenda with getting America "back on its feet," despite Friday's job report showing the US economy added fewer jobs than expected last month. 
  <p class="updated_time"> 12:29 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/state-of-the-union-biden-pelosi/index.html">Pelosi invites Biden to give State of the Union speech on March 1</a> CNN: House Speaker Nancy Pelosi on Friday asked President Joe Biden to deliver the annual State of the Union address to Congress on March 1. 
- <p class="updated_time"> 12:20 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Conservative Majority on Supreme Court Appears Skeptical of Biden’s Virus Plan</a> NYT: The justices seemed to split along familiar ideological lines on whether the administration exceeded its authority in requiring vaccines or testing at large employers. 
  <p class="updated_time"> 12:10 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/cyber-ninjas-shutting-down-arizona/index.html">Cyber Ninjas, company that oversaw the partisan Arizona election review, is shuttering</a> CNN: The Cyber Ninjas firm that oversaw the problem-plagued review of the 2020 results in Arizona's Maricopa County is shuttering. 
- <p class="updated_time"> 11:44 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/biden-december-jobs-report/index.html">Biden touts low unemployment rate after US adds fewer jobs in December than expected</a> CNN: President Joe Biden on Friday touted the unemployment rate dropping to 3.9% in December and credited his economic agenda with getting America "back on its feet," despite Friday's job report showing the US economy added fewer jobs than expected last month. 
  <p class="updated_time"> 11:28 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/oscar-winner-and-groundbreaking-star-sidney-poitier-dies-526735">Oscar winner and groundbreaking star Sidney Poitier dies</a> Politico: Sidney Poitier, the groundbreaking actor who transformed how Black people were portrayed on screen, has died. He was 94. 
  <p class="updated_time"> 11:19 AM CT, Jan. 07 </p> 
@@ -352,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/06/biden-trump-capitol-riot-526605">Biden decries Trump’s ‘singular responsibility’ for the Capitol riot</a> Politico: One year since the violence of Jan. 6, 2021, the sitting president sharpened his rhetoric toward his predecessor — without using Trump’s name. 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/06/a-year-later-the-hill-is-no-longer-the-safest-place-495624">A year later, the Hill ‘is no longer the safest place'</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:23 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-anniversary-events.html">Jan. 6 Capitol Attack Anniversary Events Timeline</a> NYT: Speeches by President Biden and Vice President Kamala Harris are part of the events to mark the anniversary of the attack on the Capitol. 
  <p class="updated_time"> 07:00 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/andy-kim-reflects-jan-6-526568">How one Congressman’s act of service will be forever memorialized</a> Politico: One year later, it’s still hard for the congressman to make sense of what happened at the Capitol. 
  <p class="updated_time"> 06:18 AM CT, Jan. 06 </p> 
@@ -396,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/manchin-biden-spending-bill-negotiation-526486">Manchin on Biden's spending bill: 'No negotiation going on'</a> Politico: The West Virginia senator thinks Democrats would be better off focusing on climate provisions in their wide-ranging megabill. 
- <p class="updated_time"> 12:47 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/omicron-ontario-canada-covid-restrictions-526484">As Covid policies divide America, Ontario doubles down (again)</a> Politico: The latest Covid shutdowns test the trust of the jabbed and boosted in Canada’s most populous province. 
  <p class="updated_time"> 12:00 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/mitch-landrieu-letter-to-governors-infrastructure/index.html">Biden's infrastructure czar urges governors to appoint their own infrastructure implementation coordinators</a> CNN: President Joe Biden's infrastructure czar Mitch Landrieu sent letters to all the nation's governors on Tuesday urging them to appoint their own infrastructure implementation coordinators to smooth the rollout of the $1.2 trillion law. 
  <p class="updated_time"> 10:46 AM CT, Jan. 04 </p> 
