@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:40 AM CT, Jan. 07 </p> 
+ <p class="updated_time"> 09:54 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59907931?at_medium=RSS&at_campaign=KARANGA">Sir Sidney Poitier: Hollywood trailblazer dies aged 94</a> BBC: The Hollywood star was the first black man to win a best actor Oscar, and also a respected humanitarian. 
+ <p class="updated_time"> 09:53 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Global Coronavirus Cases Top 300 Million</a> NYT: The number of known cases, likely an undercount, is now less of an indicator than it used to be in determining pandemic strategy. Governments are marshaling resources toward vaccinating people. 
- <p class="updated_time"> 09:36 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59907931?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Hollywood star dies aged 94</a> BBC: The Oscar-winning Hollywood star was also a respected humanitarian. 
  <p class="updated_time"> 09:35 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-27198480?at_medium=RSS&at_campaign=KARANGA">Obituary; Iconic black actor Sidney Poitier</a> BBC: Sidney Poitier, the actor and director who helped break down Hollywood's racial barriers, dies aged 94. 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-27198480?at_medium=RSS&at_campaign=KARANGA">Obituary: Iconic black actor Sidney Poitier</a> BBC: Sidney Poitier, the actor and director who helped break down Hollywood's racial barriers, dies aged 94. 
  <p class="updated_time"> 09:31 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/italian-fugitive-caught-google-maps.html">Fugitive Italian Killer Finally Meets His Match: Google Maps</a> NYT: Investigators had tracked the man to a town in Spain, and an image found online confirmed that the police were on the right track. 
  <p class="updated_time"> 09:05 AM CT, Jan. 07 </p> 
@@ -33,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59907235?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Troops ordered to fire without warning</a> BBC: The president orders the crackdown on protests, saying "20,000 bandits" had attacked the main city. 
  <p class="updated_time"> 05:22 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
+ <p class="updated_time"> 04:58 AM CT, Jan. 07 </p> 
+ <a href="https://www.wsj.com/articles/sidney-poitier-who-blazed-a-path-for-black-actors-in-hollywood-has-died-at-94-11641570080">Sidney Poitier, Who Blazed a Path for Black Actors in Hollywood, Has Died</a> WSJ: Sidney Poitier, a Black movie star in the racially charged 1950s and 1960s who became the first Black actor to command top billing and win an Oscar for a leading role, has died. 
  <p class="updated_time"> 04:56 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59907864?at_medium=RSS&at_campaign=KARANGA">Bitcoin prices fall to lowest in months after US Fed remarks</a> BBC: Bitcoin prices tumble amid rumblings from the US banking body and unrest in Kazakhstan. 
  <p class="updated_time"> 04:35 AM CT, Jan. 07 </p> 
@@ -51,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071181693/the-leader-of-kazakhstan-says-constitutional-order-mainly-restored-amid-unrest">To quell unrest, Kazakhstan's president authorizes forces to shoot to kill </a> NPR: President Kassym-Jomart Tokayev opened the door for a dramatic escalation in a crackdown on anti-government protests that have turned violent. 
  <p class="updated_time"> 02:28 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/canada/canada-conversion-therapy-law.html">Canadian Law Banning ‘Conversion Therapy’ Set to Go Into Effect</a> NYT: The law, which takes effect on Friday, puts Canada in the company of more than a dozen countries that have banned the widely discredited practice. 
+ <p class="updated_time"> 02:15 AM CT, Jan. 07 </p> 
+ <a href="https://www.wsj.com/articles/countries-ditch-restrictions-bet-on-higher-vaccination-rates-to-confront-omicron-11641561349">Countries Ditch Restrictions, Bet on Vaccination to Confront Omicron</a> WSJ: Israel reopened its borders, the U.K. relaxed travel restrictions and the Biden administration signaled that Americans should accept Covid-19 as a part of daily life. 
  <p class="updated_time"> 02:11 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59904350?at_medium=RSS&at_campaign=KARANGA">Hong Kong quarantines all 100 guests of scandal-hit birthday party</a> BBC: Hong Kong's immigration chief and home affairs secretary are among those who have been quarantined. 
  <p class="updated_time"> 01:44 AM CT, Jan. 07 </p> 
@@ -188,6 +192,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:47 AM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/supreme-court-biden-vaccine-testing-mandate-covid-19/index.html">Supreme Court hears challenges to Biden vaccine and testing mandates</a> CNN: The Supreme Court on Friday will take up challenges to President Joe Biden's most aggressive attempts so far to combat the spread of Covid-19 -- vaccine or testing requirements for large businesses and many health care workers -- as the number of infections soar and 40 million adults in the US are still declining to get vaccinated. 
  <p class="updated_time"> 09:33 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/unemployment-rate-falls-december-526727">U.S. jobless rate sinks to 3.9 percent as many more people find jobs</a> Politico: U.S. employers added a modest 199,000 jobs last month while the unemployment rate fell sharply, at a time when businesses are struggling to fill jobs with many Americans remaining reluctant to return to the workforce. 
  <p class="updated_time"> 09:30 AM CT, Jan. 07 </p> 
@@ -198,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/rochelle-walensky-cdc-communications-covid-19/index.html">CDC director turns to media consultant as Covid-19 messaging frustrations mount</a> CNN: Dr. Rochelle Walensky assumed her new role as the director of the US Centers for Disease Control and Prevention last January with a vow to restore trust in the agency. But last fall, several months into the job and after a series of messaging missteps, Walensky sought out media training. 
  <p class="updated_time"> 08:37 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-trump-jan-6.html">Ignoring Trump Didn’t Work. Biden Goes After ‘a Defeated Former President.’</a> NYT: In a speech marking the anniversary of the Capitol riot, the president confronted Trumpism, even as he refused to utter his predecessor’s name. 
- <p class="updated_time"> 08:32 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/supreme-court-biden-vaccine-testing-mandate-covid-19/index.html">Supreme Court hears challenges to Biden vaccine and testing mandates</a> CNN: The Supreme Court on Friday will take up challenges to President Joe Biden's most aggressive attempts so far to combat the spread of Covid-19 -- vaccine or testing requirements for large businesses and many health care workers -- as the number of infections soar and 40 million adults in the US are still declining to get vaccinated. 
  <p class="updated_time"> 08:29 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/sotomayor-oral-arguments/index.html">Sotomayor to appear remotely for Supreme Court hearing on vaccine rules, but is not ill, court says</a> CNN: Justice Sonia Sotomayor will not take the bench Friday to hear challenges to the Biden administration's vaccine and testing requirements, but she is not ill, the court said. 
  <p class="updated_time"> 08:19 AM CT, Jan. 07 </p> 
@@ -434,8 +438,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
- <p class="updated_time"> 09:54 AM CT, Dec. 31 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/31/meet-the-gops-new-national-security-power-broker-495557"> Meet the GOP’s new national security power broker</a> Politico Playbook: And neither Biden nor Putin backs down on a new call. 
 
 
 </details>
