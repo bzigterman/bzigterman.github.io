@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:45 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 12:57 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
+ <p class="updated_time"> 12:52 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/europe/nato-russia-ukraine.html">NATO Vows United Response to Russian Aggression Against Ukraine</a> NYT: Foreign ministers from the alliance, meeting Friday, hope that Moscow will choose diplomacy and de-escalation instead, amid skepticism that Russia is sincere in wanting substantive talks. 
+ <p class="updated_time"> 12:45 PM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59916946?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier was a ground-breaking black man - Bonnie Greer</a> BBC: Playwright Bonnie Greer pays tribute to the acting legend Sidney Poitier, who has died at the age of 94. 
  <p class="updated_time"> 12:43 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/spyware-warning-cybersecurity.html">Biden Administration Warns Against Spyware Targeting Dissidents</a> NYT: The U.S. intelligence community offered steps that would mitigate — but not stop — spyware developed by firms like the NSO Group. 
- <p class="updated_time"> 12:38 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/europe/nato-russia-ukraine.html">NATO Vows United Response to Russian Aggression Against Ukraine</a> NYT: Foreign ministers from the alliance, meeting Friday, hope that Moscow will choose diplomacy and de-escalation instead, amid skepticism that Russia is sincere in wanting substantive talks. 
  <p class="updated_time"> 12:23 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59910742?at_medium=RSS&at_campaign=KARANGA">Two Haitian journalists killed in gang attack</a> BBC: The men were shot and burned alive on the outskirts of the capital, according to one of their employers. 
  <p class="updated_time"> 12:15 PM CT, Jan. 07 </p> 
@@ -68,7 +70,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:03 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/revenge-recalls-spark-debate-in-taiwan-how-much-democracy-is-too-much-11641558601">'Revenge Recalls' Spark Debate in Taiwan: How Much Democracy Is Too Much?</a> WSJ: Popular referendums and recall elections have some wondering whether Taiwan is too democratic for its own good. Some see benefits for China in elections that “never end.” 
  <p class="updated_time"> 06:00 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/taiwan-stages-military-drills-to-deter-chinese-aggression-11641574834">Taiwan Stages Military Drills to Deter Chinese Aggression</a> WSJ: Aerial, naval and urban-warfare exercises aim to make China’s People’s Liberation Army ‘think twice,’ a senior Taiwanese officer says. 
+ <a href="https://www.wsj.com/articles/taiwan-stages-military-drills-to-deter-chinese-aggression-11641574834">Taiwan Stages Military Drills to Deter Chinese Aggression</a> WSJ: Aerial, naval and urban-warfare exercises aim to make China’s People’s Liberation Army “think twice,” a senior Taiwanese officer says. 
  <p class="updated_time"> 05:22 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
  <p class="updated_time"> 05:08 AM CT, Jan. 07 </p> 
@@ -90,7 +92,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:13 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071176670/japan-approves-new-restrictions-for-areas-hard-hit-by-covid">Japan approves new restrictions for areas hard hit by COVID</a> NPR: Japan has undergone periods of similar restrictions over the past two years. This time, the spread of the omicron variant appears to be first hitting prefectures that house the U.S. military. 
  <p class="updated_time"> 12:22 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/eurozone-inflation-hits-new-record-further-pressuring-ecb-11641554526">Eurozone Inflation Hits New Record, Further Pressuring ECB</a> WSJ: The data presents a challenge for the European Central Bank as it strives to persuade households and businesses that inflation will return to its target toward the end of this year without a rise in borrowing costs. 
+ <a href="https://www.wsj.com/articles/eurozone-inflation-hits-new-record-further-pressuring-ecb-11641554526">Eurozone Inflation Hits a Record, Further Pressuring ECB</a> WSJ: The data presents a challenge for the European Central Bank as it strives to persuade households and businesses that inflation will return to its target toward the end of this year without a rise in borrowing costs. 
  <p class="updated_time"> 11:49 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59901094?at_medium=RSS&at_campaign=KARANGA">Djokovic stay highlights refugee concerns at Melbourne detention hotel</a> BBC: People held at the detention hotel have complained of mouldy food and poor conditions. 
  <p class="updated_time"> 11:04 PM CT, Jan. 06 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/tennis/59881229?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Why world number one is such a polarising player</a> BBC: Novak Djokovic's vaccine exemption situation before the Australian Open is the latest controversy for one of tennis' greatest but most polarising players. 
  <p class="updated_time"> 11:09 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html">Using Harsh Language, Macron Issues a Challenge to the Unvaccinated</a> NYT: The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds. 
- <p class="updated_time"> 09:06 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59892937?at_medium=RSS&at_campaign=KARANGA">Capitol riots: Trump tried to prevent peaceful transition, says Biden</a> BBC: US President Joe Biden says the country must make sure the US Capitol attacks never happen again. 
  <p class="updated_time"> 08:20 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59893216?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Tigray hospital running out of food for starving children</a> BBC: The hospital treating Surafeal in Ethiopia's Tigray region is also running out of food. 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
@@ -200,14 +200,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
+ <p class="updated_time"> 12:52 PM CT, Jan. 07 </p> 
+ <a href="https://www.npr.org/2022/01/07/1071304780/supreme-court-arguments-biden-vaccine-testing-regulation">Supreme Court conservatives appear skeptical of vaccine-or-test mandate for businesses</a> NPR: Business groups, 27 states and some individuals have questioned the authority of the Occupational Safety and Health Agency to impose a nationwide rule. 
+ <p class="updated_time"> 12:51 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/state-of-the-union-biden-pelosi/index.html">Pelosi invites Biden to give State of the Union speech on March 1</a> CNN: House Speaker Nancy Pelosi on Friday asked President Joe Biden to deliver the annual State of the Union address to Congress on March 1. 
  <p class="updated_time"> 12:45 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Conservative Majority on Supreme Court Appears Skeptical of Biden’s Virus Plan</a> NYT: The justices seemed to split along familiar ideological lines on whether the administration exceeded its authority in requiring vaccines or testing at large employers. 
  <p class="updated_time"> 12:43 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/spyware-warning-cybersecurity.html">Biden Administration Warns Against Spyware Targeting Dissidents</a> NYT: The U.S. intelligence community offered steps that would mitigate — but not stop — spyware developed by firms like the NSO Group. 
  <p class="updated_time"> 12:36 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/biden-december-jobs-report/index.html">Biden touts low unemployment rate after US adds fewer jobs in December than expected</a> CNN: President Joe Biden on Friday touted the unemployment rate dropping to 3.9% in December and credited his economic agenda with getting America "back on its feet," despite Friday's job report showing the US economy added fewer jobs than expected last month. 
- <p class="updated_time"> 12:29 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/state-of-the-union-biden-pelosi/index.html">Pelosi invites Biden to give State of the Union speech on March 1</a> CNN: House Speaker Nancy Pelosi on Friday asked President Joe Biden to deliver the annual State of the Union address to Congress on March 1. 
  <p class="updated_time"> 12:10 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/cyber-ninjas-shutting-down-arizona/index.html">Cyber Ninjas, company that oversaw the partisan Arizona election review, is shuttering</a> CNN: The Cyber Ninjas firm that oversaw the problem-plagued review of the 2020 results in Arizona's Maricopa County is shuttering. 
  <p class="updated_time"> 11:28 AM CT, Jan. 07 </p> 
@@ -360,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/06/andy-kim-reflects-jan-6-526568">How one Congressman’s act of service will be forever memorialized</a> Politico: One year later, it’s still hard for the congressman to make sense of what happened at the Capitol. 
  <p class="updated_time"> 06:18 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/06/your-guide-to-jan-6-anniversary-coverage-495620"> Your guide to Jan. 6 anniversary coverage</a> Politico Playbook: And the Biden administration tries to straighten out its recent pandemic fumbles. 
- <p class="updated_time"> 05:33 AM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1069979415/biden-harris-jan-6-insurrection-speech">President Biden blasts Trump for 'spreading a web of lies' in a Jan. 6 speech</a> NPR: Biden didn't utter Trump's name but referred repeatedly to him with forceful, and at times personal, denunciations of his actions. "He's not just a former president. He's a defeated former president." 
  <p class="updated_time"> 04:30 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/gop-election-reviews-battleground-state-526589">GOP election reviews face battleground state legal tests</a> Politico: Republican efforts to investigate the 2020 vote in key states are still underway more than a year after the election. 
  <p class="updated_time"> 04:30 AM CT, Jan. 06 </p> 
