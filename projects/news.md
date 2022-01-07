@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:10 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59907235?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Troops told to fire without warning</a> BBC: The president orders the crackdown on protests, saying "20,000 bandits" had attacked the main city. 
+ <p class="updated_time"> 02:59 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">Kazakhstan Says Order Is ‘Mainly Restored’ After Protests</a> NYT: Russian troops are on the ground to help the government quell widespread unrest in the country, which had been viewed as a bastion of stability in a volatile region. 
  <p class="updated_time"> 02:51 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-putin-russia.html">In Kazakhstan, Putin Again Seizes on Unrest to Try to Expand Influence</a> NYT: But a series of revolts against a pro-Russian strongman could also plant the seeds of rebellion at home, analysts say. 
- <p class="updated_time"> 02:50 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">Kazakhstan Says Order Is ‘Mainly Restored’ After Protests</a> NYT: Russian troops are on the ground to help the government quell widespread unrest in the country, which had been viewed as a bastion of stability in a volatile region. 
- <p class="updated_time"> 02:48 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59907235?at_medium=RSS&at_campaign=KARANGA">Troops told to fire without warning in Kazakhstan</a> BBC: Kazakhstan's president orders troops to fire without warning, as violent anti-government protests continue. 
  <p class="updated_time"> 02:39 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071181693/the-leader-of-kazakhstan-says-constitutional-order-mainly-restored-amid-unrest">The leader of Kazakhstan says constitutional order 'mainly restored' amid unrest</a> NPR: The president of Kazakhstan on Friday declared that constitutional order was "mainly restored" but "terrorists are still using weapons and are damaging people's property" and would be dealt with. 
  <p class="updated_time"> 02:28 AM CT, Jan. 07 </p> 
