@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:24 AM CT, Jan. 07 </p> 
+ <p class="updated_time"> 08:37 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Global Coronavirus Cases Top 300 Million</a> NYT: The number of known cases, likely an undercount, is now less of an indicator than it used to be in determining pandemic strategy. Governments are marshaling resources toward vaccinating people. 
  <p class="updated_time"> 08:19 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59912704?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic thanks fans as he awaits deportation decision</a> BBC: The men's tennis star is awaiting a decision on his deportation from Australia over a vaccination row. 
@@ -35,6 +35,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/americas/luiza-trajano-brazil-magalu-racism.html">Billionaire’s Star Rises as She Takes Bold Stance on Racism in Brazil</a> NYT: Luiza Trajano turned a small family store into a retail giant. Now, a company policy limiting its executive training program to Black applicants is drawing praise, outrage and much soul-searching. 
  <p class="updated_time"> 03:35 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-putin-russia.html">In Kazakhstan, Putin Again Seizes on Unrest to Try to Expand Influence</a> NYT: But a series of revolts against a pro-Russian strongman could also plant the seeds of rebellion at home, analysts say. 
+ <p class="updated_time"> 03:28 AM CT, Jan. 07 </p> 
+ <a href="https://www.wsj.com/articles/revenge-recalls-spark-debate-in-taiwan-how-much-democracy-is-too-much-11641558601">'Revenge Recalls' Spark Debate in Taiwan: How Much Democracy Is Too Much?</a> WSJ: Popular referendums and recall elections have some wondering whether Taiwan is too democratic for its own good. Some see benefits for China in elections that “never end.” 
+ <p class="updated_time"> 03:27 AM CT, Jan. 07 </p> 
+ <a href="https://www.wsj.com/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642">Kazakh Leader Gives Security Forces Order to Shoot Without Warning</a> WSJ: President Kassym-Jomart Tokayev said his government had largely restored order as the country’s security forces scoured for protesters after days of unrest triggered by a fuel-price increase. 
  <p class="updated_time"> 03:18 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/arts/music/einar-sweden-rap.html">After Killing of Einar, Sweden Struggles With 'Gangster Rap'</a> NYT: Hip-hop, the country’s most popular music, has quickly become a lightning rod for Sweden’s long-roiling problems with gun violence and gang warfare. 
  <p class="updated_time"> 02:53 AM CT, Jan. 07 </p> 
@@ -43,14 +47,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071181693/the-leader-of-kazakhstan-says-constitutional-order-mainly-restored-amid-unrest">The leader of Kazakhstan says constitutional order 'mainly restored' amid unrest</a> NPR: The president of Kazakhstan on Friday declared that constitutional order was "mainly restored" but "terrorists are still using weapons and are damaging people's property" and would be dealt with. 
  <p class="updated_time"> 02:28 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/canada/canada-conversion-therapy-law.html">Canadian Law Banning ‘Conversion Therapy’ Set to Go Into Effect</a> NYT: The law, which takes effect on Friday, puts Canada in the company of more than a dozen countries that have banned the widely discredited practice. 
- <p class="updated_time"> 02:13 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642">Kazakh Leader Gives Security Forces Order to Shoot Without Warning</a> WSJ: President Kassym-Jomart Tokayev said his government had largely restored order as the country’s security forces scoured for protesters after days of unrest triggered by a fuel-price increase. 
  <p class="updated_time"> 02:11 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59904350?at_medium=RSS&at_campaign=KARANGA">Hong Kong quarantines all 100 guests of scandal-hit birthday party</a> BBC: Hong Kong's immigration chief and home affairs secretary are among those who have been quarantined. 
  <p class="updated_time"> 01:44 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59905339?at_medium=RSS&at_campaign=KARANGA">Covid-19: Indian man has taken at least eight Covid jabs</a> BBC: The 65-year-old villager was vaccinated eight times last year, officials say. But he claims he took 11 jabs. 
- <p class="updated_time"> 01:30 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/revenge-recalls-spark-debate-in-taiwan-how-much-democracy-is-too-much-11641558601">'Revenge Recalls' Spark Debate in Taiwan: How Much Democracy Is Too Much?</a> WSJ: Popular referendums and recall elections have some wondering whether Taiwan is too democratic for its own good. Some see benefits for China in elections that “never end.” 
  <p class="updated_time"> 01:29 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/global-covid-19-cases-cross-300-million-mark-11641558223">Global Covid-19 Cases Cross 300 Million Mark</a> WSJ: The milestone comes as the U.S. Supreme Court prepared to hold a special session to consider the Biden administration’s vaccine rules for private employers and healthcare workers. 
  <p class="updated_time"> 01:13 AM CT, Jan. 07 </p> 
@@ -184,12 +184,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:37 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-trump-jan-6.html">Ignoring Trump Didn’t Work. Biden Goes After ‘a Defeated Former President.’</a> NYT: In a speech marking the anniversary of the Capitol riot, the president confronted Trumpism, even as he refused to utter his predecessor’s name. 
+ <p class="updated_time"> 08:32 AM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/supreme-court-biden-vaccine-testing-mandate-covid-19/index.html">Supreme Court hears challenges to Biden vaccine and testing mandates</a> CNN: The Supreme Court on Friday will take up challenges to President Joe Biden's most aggressive attempts so far to combat the spread of Covid-19 -- vaccine or testing requirements for large businesses and many health care workers -- as the number of infections soar and 40 million adults in the US are still declining to get vaccinated. 
+ <p class="updated_time"> 08:29 AM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/sotomayor-oral-arguments/index.html">Sotomayor to appear remotely for Supreme Court hearing on vaccine rules, but is not ill, court says</a> CNN: Justice Sonia Sotomayor will not take the bench Friday to hear challenges to the Biden administration's vaccine and testing requirements, but she is not ill, the court said. 
  <p class="updated_time"> 08:19 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/business/economy/jobs-interest-rates-federal-reserve.html">As Unemployment Falls, Interest Rate Increases Creep Nearer</a> NYT: A fresh jobs report showed that the unemployment rate is still dropping. That likely keeps the Fed on track to raise interest rates as inflation rises. 
  <p class="updated_time"> 08:15 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/bidens-colorado-wildfire/index.html">Bidens to tour damage from massive Colorado wildfire</a> CNN: President Joe Biden and first lady Jill Biden are scheduled to travel to Colorado on Friday to meet with families who were affected by a recent massive wildfire that destroyed hundreds of homes and thousands of acres. 
- <p class="updated_time"> 08:12 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/supreme-court-biden-vaccine-testing-mandate-covid-19/index.html">Supreme Court hears challenges to Biden vaccine and testing mandates</a> CNN: The Supreme Court on Friday will take up challenges to President Joe Biden's most aggressive attempts so far to combat the spread of Covid-19 -- vaccine or testing requirements for large businesses and many health care workers -- as the number of infections soar and 40 million adults in the US are still declining to get vaccinated. 
  <p class="updated_time"> 08:05 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/rochelle-walensky-cdc-communications-covid-19/index.html">CDC director turns to media consultant as Covid-19 messaging frustrations mount</a> CNN: Dr. Rochelle Walensky assumed her new role as the director of the US Centers for Disease Control and Prevention last January with a vow to restore trust in the agency. But last fall, several months into the job and after a series of messaging missteps, Walensky sought out media training. 
  <p class="updated_time"> 08:00 AM CT, Jan. 07 </p> 
@@ -230,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/06/politics/trump-capitol-police-lawsuit-january-6/index.html">Capitol Police officer who suffered concussion on January 6 is latest to sue Trump seeking accountability</a> CNN: US Capitol Police Officer Briana Kirkland is suing former President Donald Trump for the physical and emotional pain she endured, including a traumatic brain injury, because of the Capitol insurrection, according to a new filing in DC District Court. 
  <p class="updated_time"> 08:31 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-lies.html">The Next Big Lies: Jan. 6 Was No Big Deal, or a Left-Wing Plot</a> NYT: How revisionist histories of Jan. 6 picked up where the “stop the steal” campaign left off, warping beliefs about what transpired at the Capitol. 
- <p class="updated_time"> 08:25 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-trump-jan-6.html">Ignoring Trump Didn’t Work. Biden Goes After ‘a Defeated Former President.’</a> NYT: In a speech marking the anniversary of the Capitol riot, the president confronted Trumpism, even as he refused to utter his predecessor’s name. 
  <p class="updated_time"> 08:02 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/inside-biden-january-6-speech/index.html">Inside Biden's fiery speech and his decision to confront Trump's danger head-on</a> CNN: It was only a little more than a month ago when President Joe Biden, asked about another head-shaking revelation regarding his predecessor, seemed to balk at a mere mention of the man. 
  <p class="updated_time"> 08:01 PM CT, Jan. 06 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-journalists.html">Times Reporters Discuss Their Experiences Outside the Capitol</a> NYT: A New York Times team was out on Jan. 6, 2021, to cover what was expected to be a modest “Stop the Steal” rally on the Ellipse. 
  <p class="updated_time"> 10:27 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/biden-trump-capitol-riot-526605">Biden decries Trump’s ‘singular responsibility’ for the Capitol riot</a> Politico: One year since the violence of Jan. 6, 2021, the sitting president sharpened his rhetoric toward his predecessor — without using Trump’s name. 
- <p class="updated_time"> 08:25 AM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/stephanie-grisham-trump-officials-meeting-cnntv/index.html">Stephanie Grisham says group of ex-Trump officials to meet next week to discuss how to 'stop' him</a> CNN: Former White House press secretary Stephanie Grisham said Thursday that more than a dozen of her former Trump administration colleagues plan to meet next week to try and stop former President Donald Trump as he continues to "manipulate people and divide our country." 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/06/a-year-later-the-hill-is-no-longer-the-safest-place-495624">A year later, the Hill ‘is no longer the safest place'</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:23 AM CT, Jan. 06 </p> 
