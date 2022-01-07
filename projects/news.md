@@ -7,9 +7,11 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:27 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 01:42 PM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59913513?at_medium=RSS&at_campaign=KARANGA">Denmark frees suspected pirates in dinghy in Gulf of Guinea</a> BBC: The suspects had been detained at sea in the Gulf of Guinea in November. A fourth remains in custody. 
+ <p class="updated_time"> 01:42 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
- <p class="updated_time"> 01:13 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 01:42 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/rochelle-walensky-cdc-covid-guidance.html">C.D.C Director Defends Covid-19 Isolation Guidance</a> NYT: Dr. Rochelle P. Walensky held the agency’s first independent news briefing since the Trump White House ended them nearly two years ago. 
  <p class="updated_time"> 01:03 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59913006?at_medium=RSS&at_campaign=KARANGA">Berlin cannibal jailed for murdering engineer</a> BBC: A German court finds a man guilty of murdering a man he met on an online dating site. 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
  <p class="updated_time"> 05:08 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/nigeria-kidnapping-negotiators-ransom-11641569884">A Kidnapping Negotiator Gets His Biggest Test: Saving His Own Wife</a> WSJ: Abdullahi Tumburkai volunteers his time to help family, friends and neighbors bargain with kidnappers in what has become a crisis of abductions in Nigeria. One negotiation was especially harrowing. 
- <p class="updated_time"> 04:56 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59907864?at_medium=RSS&at_campaign=KARANGA">Bitcoin prices fall to lowest in months after US Fed remarks</a> BBC: Bitcoin prices tumble amid rumblings from the US banking body and unrest in Kazakhstan. 
  <p class="updated_time"> 04:09 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071188267/chinese-anti-virus-lockdowns-add-to-concerns-over-economy">Chinese anti-virus lockdowns add to concerns over economy</a> NPR: China's lockdowns of big cities to fight coronavirus outbreaks are prompting concern about more disruptions to global industries after two makers of processor chips said their factories were affected. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
+ <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 02:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/treasury-sends-rental-aid-526748">Treasury to send $1B in rental aid funds to high-demand states, cities</a> Politico: California, New Jersey, New York and the District of Columbia will each receive tens of millions of dollars pulled from governments with low disbursement rates. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
@@ -382,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
  <p class="updated_time"> 11:20 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/mcconnell-electoral-count-act-reform-526542">McConnell cracks door to Electoral Count Act reform</a> Politico: “It obviously has some flaws. And it is worth, I think, discussing,” the Senate minority leader said Wednesday. 
- <p class="updated_time"> 09:47 AM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/chicago-schools-shutdown-teachers-covid-protest-526535">Chicago Public Schools shut down amid teachers union protest of Covid protocols</a> Politico: The union wants the school district to put in place a more robust testing policy. 
  <p class="updated_time"> 07:35 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/05/security-still-top-of-mind-a-year-after-capitol-attack-495603">Security still top of mind a year after Capitol attack</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
