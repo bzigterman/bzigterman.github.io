@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:39 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 04:48 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
+ <p class="updated_time"> 04:43 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">In Kazakhstan’s Street Battles, Signs of Elites Fighting Each Other</a> NYT: The reasons for the bloody crisis in Central Asia remain murky, but experts say popular discontent could mask an old-fashioned power struggle within the ruling faction. 
  <p class="updated_time"> 04:34 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59907931?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Hollywood trailblazer dies aged 94</a> BBC: The US-Bahamian star was the first black man to win a best actor Oscar, and also a humanitarian. 
  <p class="updated_time"> 04:25 PM CT, Jan. 07 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/europe/italian-mafia-fugitive-google-maps.html">Italian Mafia Fugitive Caught In Spain Thanks to Google Maps</a> NYT: Investigators had tracked the man to a town in Spain, and an image found online confirmed that the police were on the right track. 
  <p class="updated_time"> 09:05 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
- <p class="updated_time"> 08:54 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">Kazakhstan Protests Lead President to  Crack Down: ‘Fire Without Warning’</a> NYT: President Kassym-Jomart Tokayev said on Friday that “bandits” were responsible for the unrest and must be “destroyed.” He thanked Russia for sending troops to help establish order. 
  <p class="updated_time"> 08:43 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-putin-russia.html">In Kazakhstan, Putin Again Seizes on Unrest to Try to Expand Influence</a> NYT: But a series of revolts against a pro-Russian strongman could also plant the seeds of rebellion at home, analysts say. 
  <p class="updated_time"> 08:40 AM CT, Jan. 07 </p> 
@@ -200,12 +200,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:44 PM CT, Jan. 07 </p> 
+ <a href="https://www.npr.org/2022/01/07/1071368803/jan-6-panel-chair-says-committee-will-ask-mike-pence-to-voluntarily-appear">Jan. 6 panel chair says committee will ask Mike Pence to voluntarily appear</a> NPR: The chair of the House select committee investigating the Jan. 6 attack says they'll ask former Vice President Mike Pence to testify by month's end. They may also request testimony from Ivanka Trump. 
+ <p class="updated_time"> 04:42 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/lani-guinier-dead.html">Lani Guinier, Legal Scholar at the Center of Controversy, Dies at 71</a> NYT: President Bill Clinton pulled her nomination as assistant attorney general in 1993 after she came under criticism for her views on voting rights. 
  <p class="updated_time"> 04:28 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/federal-rental-assistance-evictions.html">Federal Rental Assistance Is Running Out, With Tenants Still in Need</a> NYT: An announcement from the Treasury Department on Friday revealed that there was less money available for renters than some states had hoped. 
  <p class="updated_time"> 04:20 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/bidens-colorado-wildfire/index.html">Bidens to tour damage from massive Colorado wildfire</a> CNN: President Joe Biden and first lady Jill Biden are scheduled to travel to Colorado on Friday to meet with families who were affected by a recent massive wildfire that destroyed hundreds of homes and thousands of acres. 
- <p class="updated_time"> 04:09 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/lani-guinier-dead.html">Lani Guinier, Legal Scholar at the Center of Controversy, Dies at 71</a> NYT: President Bill Clinton pulled her nomination as assistant attorney general in 1993 after she came under criticism for her views on voting rights. 
  <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
  <p class="updated_time"> 03:18 PM CT, Jan. 07 </p> 
@@ -358,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/06/former-administration-officials-block-trump-526623">Ex-Trumpers set to plot how to try and take down Trump</a> Politico: Those involved include Stephanie Grisham, Miles Taylor, Olivia Troye and Anthony Scaramucci. 
  <p class="updated_time"> 11:59 AM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070970440/ted-cruz-jan-6-violent-terrorist-attack-tucker-carlson">Republicans criticize Ted Cruz for calling Jan. 6 a violent terrorist attack</a> NPR: "Of all the things that Jan. 6 was, it was definitely not a violent terrorist attack," Fox News commentator Tucker Carlson said in reply to Sen. Ted Cruz of Texas. 
- <p class="updated_time"> 11:48 AM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1070931178/jan-6-anniversary-biden-speech-transcript">Read President Biden's Jan. 6 speech in full</a> NPR: Biden blasted former President Donald Trump in an address from the U.S. Capitol on the anniversary of the insurrection. 
  <p class="updated_time"> 11:40 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/jamal-simmons-kamala-harris/index.html">Kamala Harris to name Jamal Simmons as communications director</a> CNN: Jamal Simmons, a Democratic communications aide and media contributor, has been tapped to be Vice President Kamala Harris' new communications director, a White House official confirms. 
  <p class="updated_time"> 11:00 AM CT, Jan. 06 </p> 
