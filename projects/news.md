@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:40 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59903785?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic visa: Australia says tennis star not being held captive</a> BBC: The Serb tennis star faces deportation amid a high-profile Covid-related visa controversy. 
  <p class="updated_time"> 04:22 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">Kazakhstan’s President Says Security Forces Can ‘Fire Without Warning’ to Quell Unrest</a> NYT: President Kassym-Jomart Tokayev said on Friday that “bandits” were responsible for the unrest and must be “destroyed.” He thanked Russia for sending troops to help establish order. 
  <p class="updated_time"> 04:11 AM CT, Jan. 07 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59905339?at_medium=RSS&at_campaign=KARANGA">Covid-19: Indian man has taken at least eight Covid jabs</a> BBC: The 65-year-old villager was vaccinated eight times last year, officials say. But he claims he took 11 jabs. 
  <p class="updated_time"> 01:13 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071176670/japan-approves-new-restrictions-for-areas-hard-hit-by-covid">Japan approves new restrictions for areas hard hit by COVID</a> NPR: Japan has undergone periods of similar restrictions over the past two years. This time, the spread of the omicron variant appears to be first hitting prefectures that house the U.S. military. 
- <p class="updated_time"> 12:47 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59903785?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic saga: Australia investigates visas of other tennis players</a> BBC: As Novak Djokovic faces possible deportation, the Australian Open draw is cast into more uncertainty. 
  <p class="updated_time"> 11:49 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59901094?at_medium=RSS&at_campaign=KARANGA">Djokovic stay highlights refugee concerns at Melbourne detention hotel</a> BBC: People held at the detention hotel have complained of mouldy food and poor conditions. 
  <p class="updated_time"> 11:23 PM CT, Jan. 06 </p> 
@@ -184,12 +184,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:31 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/clinton-oprah-democrats-manchin-filibuster-526691">Bill Clinton, Oprah and his fellow centrists: Dems go all-out to sway Manchin</a> Politico: Sen. Tim Kaine (D-Va.) likened lobbying his colleague to change the filibuster to his 27-hour drive earlier this week after a snowstorm devastated I-95. 
+ <p class="updated_time"> 04:31 AM CT, Jan. 07 </p> 
+ <a href="https://www.politico.com/news/2022/01/07/gop-2024-convention-search-526707">GOP picks final four in 2024 convention search</a> Politico: Milwaukee, the site of Democrats' cancelled 2020 convention, made the GOP's short list for 2024. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 07 </p> 
+ <a href="https://www.politico.com/news/2022/01/07/covid-testing-staff-shortage-526701">They need to process your Covid tests. Now they’re out sick from Omicron.</a> Politico: While the supply chain for once-scarce equipment remains intact, the sheer demand for testing is stretching sample collection sites and laboratory staff. 
  <p class="updated_time"> 04:30 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/house-intel-mike-turner-trump-526697">House Intel’s next top Republican prepares a sharp turn from the Trump years</a> Politico: Now that ex-Rep. Devin Nunes is gone, lawmakers in both parties are hoping bitter fights can cease as Rep. Mike Turner replaces him. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071154648/jan-6-anniversary-analysis-republicans-trump">The immovable Republican Party and 'ink-blot politics'</a> NPR: Several of the key facts of the Jan. 6 insurrection are indisputable. And yet millions on the right do dispute them. Here's a look at how that happened. 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Supreme Court to Hear Challenges to Biden Vaccine Mandates</a> NYT: Challengers say the administration exceeded its authority in requiring vaccines or testing at large employers and mandating vaccines for many health care workers. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Supreme Court to Hear Challenges to Biden Covid Initiatives</a> NYT: Challengers say the administration exceeded its authority in requiring vaccines or testing at large employers and mandating vaccines for many health care workers. 
+ <a href="https://www.npr.org/2022/01/07/1071154648/jan-6-anniversary-analysis-republicans-trump">The immovable Republican Party and 'ink-blot politics'</a> NPR: Several of the key facts of the Jan. 6 insurrection are indisputable. And yet millions on the right do dispute them. Here's a look at how that happened. 
  <p class="updated_time"> 10:59 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/ted-cruz-jan-6-terrorist-tucker-carlson-526725">Ted Cruz walks back Jan. 6 'terrorist' remark in heated exchange with Tucker Carlson</a> Politico: The senator brushed off his previous phrasing as “sloppy” and “frankly dumb.” 
  <p class="updated_time"> 10:35 PM CT, Jan. 06 </p> 
@@ -336,54 +340,52 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1070856065/china-lashes-out-at-us-for-supporting-lithuania-in-feud-with-beijing-over-taiwan">China lashes out at U.S. for supporting Lithuania in feud with Beijing over Taiwan</a> NPR: China lashed out at the United States over its support for the Baltic nation of Lithuania in its feud with Beijing over relations with Taiwan. 
  <p class="updated_time"> 04:01 AM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070598403/a-year-after-the-jan-6-attack-congress-is-plagued-by-a-toxic-atmosphere">A year after the Jan. 6 attack, Congress is plagued by a toxic atmosphere</a> NPR: Distrust between the parties is high a year after the violent insurrection. And it has affected how the institution operates. 
- <p class="updated_time"> 10:31 PM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/chicago-mayor-lightfood-teachers-union-laughingstock-526600">Chicago mayor: Teachers union made us a ‘laughingstock’</a> Politico: As the Omicron variant triggers a new wave of Covid-19 cases, educators in the nation's third-largest school district voted late Tuesday to not report to work. 
  <p class="updated_time"> 08:45 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/jimmy-carter-democracy-jan-6-oped/index.html">Carter warns America 'teeters on the brink of a widening abyss' in stark op-ed ahead of January 6</a> CNN: Former President Jimmy Carter warned Wednesday that democracy is being threatened throughout the country, cautioning that "our great nation now teeters on the brink of a widening abyss." 
  <p class="updated_time"> 07:44 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/michael-carvajal-bureau-of-prisons-director-retirement/index.html">Bureau of Prisons leader retiring under political pressure from lawmakers seeking his ouster</a> CNN: Federal Bureau of Prisons Director Michael Carvajal is retiring, following months of pressure from some lawmakers seeking his ouster over management issues at the agency. 
- <p class="updated_time"> 07:26 PM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/jan-6-mypillow-ceo-mike-lindell-subpoena-526582">Jan. 6 committee subpoenas MyPillow CEO Mike Lindell's phone records</a> Politico: He filed a lawsuit to block the panel’s request. 
- <p class="updated_time"> 07:16 PM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/nord-stream-pipeline-russia-biden-526579">Dems shift gears on Russian pipeline, backing Biden against Cruz’s gambit</a> Politico: Democrats have consistently supported sanctions on the Nord Stream 2 pipeline, but they won't go against the president as he engages in fraught talks with Russia. 
  <p class="updated_time"> 06:05 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/peter-velz-vincent-evans-kamala-harris/index.html">Two Harris staffers announce they're leaving vice president's office</a> CNN: Two staffers announced Wednesday that they are leaving Vice President Kamala Harris' office. 
  <p class="updated_time"> 06:02 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/democrats-biden-agenda-loss/index.html">Democrats at a loss over path to enact Biden agenda: It feels 'like Groundhog Day'</a> CNN: Democratic senators are beginning 2022 where they left 2021: With no clear path to pass their agenda and ample frustration in the ranks. 
+ <p class="updated_time"> 05:58 PM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/cdc-advisers-teen-pfizer-covid-booster-526572">CDC recommends all teens get Pfizer Covid booster</a> Politico: The advisory panel signed off on the recommendation following presentations by doctors suggesting boosters are likely to increase antibodies in young teens. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
+ <p class="updated_time"> 04:38 PM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/garland-rebuts-criticism-of-jan-6-probe-526551">Garland rebuts criticism of Jan. 6 probe</a> Politico: The attorney general argued that prosecutors are methodically building cases against the most serious offenders in the attack on the Capitol. 
  <p class="updated_time"> 04:31 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
  <p class="updated_time"> 01:22 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/jan-6-capitol-riot-lancaster-republicans/index.html">How January 6 changed what it means to be a Republican in one Pennsylvania county</a> CNN: The day after the January 6 attack on the US Capitol, three local Republican officials in Pennsylvania's Lancaster County announced they were leaving the GOP.  Among them was Ethan Demme, a lifelong conservative who had previously served as the youngest Republican Party chairman in this deeply red corner of southeast Pennsylvania.  
  <p class="updated_time"> 11:20 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/mcconnell-electoral-count-act-reform-526542">McConnell cracks door to Electoral Count Act reform</a> Politico: “It obviously has some flaws. And it is worth, I think, discussing,” the Senate minority leader said Wednesday. 
+ <p class="updated_time"> 09:47 AM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/chicago-schools-shutdown-teachers-covid-protest-526535">Chicago Public Schools shut down amid teachers union protest of Covid protocols</a> Politico: The union wants the school district to put in place a more robust testing policy. 
  <p class="updated_time"> 07:35 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/05/security-still-top-of-mind-a-year-after-capitol-attack-495603">Security still top of mind a year after Capitol attack</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/05/republicans-dodge-and-deflect-ahead-of-jan-6-495599"> Republicans dodge and deflect ahead of Jan. 6</a> Politico Playbook: And prices for at-home Covid-19 tests rise. 
- <p class="updated_time"> 04:30 AM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/jan-6-anniversary-capitol-police-officers-response-526024">What the Jan. 6 responders found: Brotherhood in trauma and a search for accountability</a> Politico: "It's been a hell of a year" for officers Aquilino Gonell, Harry Dunn and Daniel Hodges. They're not done healing yet. 
  <p class="updated_time"> 10:16 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
  <p class="updated_time"> 06:45 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/biden-white-house-omicron-plan-526516">White House embraces a manage-not-contain Omicron game plan</a> Politico: The president is under immense pressure to keep some semblance of social normalcy amid a pandemic that is absolutely roaring. 
+ <p class="updated_time"> 03:36 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/police-officer-lawsuits-capitol-riot-trump-526491">Police officer lawsuits pile up against Trump over Jan. 6</a> Politico: Three more officers who responded to the Jan. 6 attack filed a lawsuit against the former president Tuesday, seeking damages for physical and emotional injuries. 
  <p class="updated_time"> 02:28 PM CT, Jan. 04 </p> 
  <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden announces US will double its order of Pfizer's antiviral pill to treat Covid-19</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/manchin-biden-spending-bill-negotiation-526486">Manchin on Biden's spending bill: 'No negotiation going on'</a> Politico: The West Virginia senator thinks Democrats would be better off focusing on climate provisions in their wide-ranging megabill. 
+ <p class="updated_time"> 12:47 PM CT, Jan. 04 </p> 
+ <a href="https://www.politico.com/news/2022/01/04/omicron-ontario-canada-covid-restrictions-526484">As Covid policies divide America, Ontario doubles down (again)</a> Politico: The latest Covid shutdowns test the trust of the jabbed and boosted in Canada’s most populous province. 
  <p class="updated_time"> 10:46 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/ruben-gallego-merrick-garland-capitol-attack-526480">Gallego: Garland 'extremely weak' on Jan. 6 cases</a> Politico: The Arizona Democrat also directed his ire at GOP lawmakers who he accused of trying to shield Jan. 6 rioters. 
  <p class="updated_time"> 07:51 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/04/toxic-positivity-rates-on-capitol-hill-495587">Toxic positivity (rates) on Capitol Hill</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/04/the-election-reform-idea-gaining-currency-on-the-right-495582"> The election reform idea gaining currency on the right</a> Politico Playbook: And Rep. Bobby Rush (D-Ill.) says he won't seek reelection. 
- <p class="updated_time"> 05:00 AM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/jan-6-insurrection-sentencing-tracker-526091">Hundreds of crimes, little punishment: Inside the sentences since the Capitol attack</a> Politico: More than 150 people have pleaded guilty for crimes committed on Jan. 6, 2021. POLITICO is analyzing and tracking every sentence handed down. 
- <p class="updated_time"> 04:30 AM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/doj-domestic-terrorism-sentences-jan-6-526407">Why DOJ is avoiding domestic terrorism sentences for Jan. 6 defendants</a> Politico: Some judges have debated whether the charges qualify as “crimes of terrorism,” but prosecutors have repeatedly pulled back by citing unspecified “facts and circumstances.” 
  <p class="updated_time"> 08:41 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/rep-bobby-rush-wont-seek-reelection-526455">Bobby Rush to relinquish 30-year hold on House seat</a> Politico: The veteran Illinois congressman and former Black Panther leader said, “I’m not retiring … I’m just entering into a new level of my life.” 
  <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
@@ -392,6 +394,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/capitol-police-union-private-security-proposal-526395">Capitol Police union douses private security proposal</a> Politico: “We need to hire more officers — period. The last thing we need are private security contractors who are not trained to our standards,” the chair of the union said in a statement sent to POLITICO. 
  <p class="updated_time"> 10:48 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/schumer-threatens-vote-on-senate-rules-change-in-january-526394">Schumer tries to jump-start Dems with rules change threat</a> Politico: The majority leader said they would debate changes to the Senate's rules unless Republicans allow a vote on elections reform. 
+ <p class="updated_time"> 10:15 AM CT, Jan. 03 </p> 
+ <a href="https://www.politico.com/news/2022/01/03/fda-authorizes-covid-boosters-for-younger-teens-526392">FDA authorizes Covid boosters for teens 12-15</a> Politico: The agency will also allow some immunocompromised children as young as age 5 to get an additional dose. 
  <p class="updated_time"> 07:46 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/03/new-year-same-to-do-list-for-congress-495569">New Year, same to-do list for Congress</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:05 AM CT, Jan. 03 </p> 
