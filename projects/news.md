@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:48 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Global Coronavirus Cases Top 300 Million</a> NYT: The number of known cases, likely an undercount, is now less of an indicator than it used to be in determining pandemic strategy. Governments are marshaling resources toward vaccinating people. 
+ <p class="updated_time"> 05:44 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59907235?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Troops ordered to fire without warning</a> BBC: The president orders the crackdown on protests, saying "20,000 bandits" had attacked the main city. 
  <p class="updated_time"> 05:33 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">Kazakhstan Protests Lead President to  Crack Down: ‘Fire Without Warning’</a> NYT: President Kassym-Jomart Tokayev said on Friday that “bandits” were responsible for the unrest and must be “destroyed.” He thanked Russia for sending troops to help establish order. 
  <p class="updated_time"> 05:28 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59903785?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic visa: Australia says tennis star not being held captive</a> BBC: The Serb tennis star faces deportation amid a high-profile Covid-related visa controversy. 
- <p class="updated_time"> 05:22 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Global Coronavirus Cases Top 300 Million</a> NYT: The number of known cases, likely an undercount, is now less of an indicator than it used to be in determining pandemic strategy. Governments are marshaling resources toward vaccinating people. 
  <p class="updated_time"> 05:22 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
  <p class="updated_time"> 05:10 AM CT, Jan. 07 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59907864?at_medium=RSS&at_campaign=KARANGA">Bitcoin prices fall to lowest in months after US Fed remarks</a> BBC: Bitcoin prices tumble amid rumblings from the US banking body and unrest in Kazakhstan. 
  <p class="updated_time"> 04:35 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59907411?at_medium=RSS&at_campaign=KARANGA">Nelson Mandela's Robben Island cell key returning to South Africa - minister</a> BBC: The key, kept by a former guard, was going to be auctioned in the US until South Africa objected. 
- <p class="updated_time"> 04:11 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59907235?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Troops ordered to fire without warning</a> BBC: The president orders the crackdown on protests, saying "20,000 bandits" had attacked the main city. 
  <p class="updated_time"> 04:09 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071188267/chinese-anti-virus-lockdowns-add-to-concerns-over-economy">Chinese anti-virus lockdowns add to concerns over economy</a> NPR: China's lockdowns of big cities to fight coronavirus outbreaks are prompting concern about more disruptions to global industries after two makers of processor chips said their factories were affected. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
