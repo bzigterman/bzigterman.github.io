@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:51 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-putin-russia.html">In Kazakhstan, Putin Again Seizes on Unrest to Try to Expand Influence</a> NYT: But a series of revolts against a pro-Russian strongman could also plant the seeds of rebellion at home, analysts say. 
+ <p class="updated_time"> 02:50 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">Kazakhstan Says Order Is ‘Mainly Restored’ After Protests</a> NYT: Russian troops are on the ground to help the government quell widespread unrest in the country, which had been viewed as a bastion of stability in a volatile region. 
+ <p class="updated_time"> 02:48 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59907235?at_medium=RSS&at_campaign=KARANGA">Troops told to fire without warning in Kazakhstan</a> BBC: Kazakhstan's president orders troops to fire without warning, as violent anti-government protests continue. 
  <p class="updated_time"> 02:39 AM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071181693/the-leader-of-kazakhstan-says-constitutional-order-mainly-restored-amid-unrest">The leader of Kazakhstan says constitutional order "mainly restored" amid unrest</a> NPR: The president of Kazakhstan on Friday declared that constitutional order was "mainly restored" but "terrorists are still using weapons and are damaging people's property" and would be dealt with. 
+ <a href="https://www.npr.org/2022/01/07/1071181693/the-leader-of-kazakhstan-says-constitutional-order-mainly-restored-amid-unrest">The leader of Kazakhstan says constitutional order 'mainly restored' amid unrest</a> NPR: The president of Kazakhstan on Friday declared that constitutional order was "mainly restored" but "terrorists are still using weapons and are damaging people's property" and would be dealt with. 
  <p class="updated_time"> 02:28 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/canada/canada-conversion-therapy-law.html">Canadian Law Banning ‘Conversion Therapy’ Set to Go Into Effect</a> NYT: The law, which takes effect on Friday, puts Canada in the company of more than a dozen countries that have banned the widely discredited practice. 
  <p class="updated_time"> 02:11 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59904350?at_medium=RSS&at_campaign=KARANGA">Hong Kong quarantines all 100 guests of scandal-hit birthday party</a> BBC: Hong Kong's immigration chief and home affairs secretary are among those who have been quarantined. 
- <p class="updated_time"> 02:05 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Fresh gunfire as president says order largely restored</a> BBC: Tensions remain high in the country's main city as the president says order has been largely restored. 
  <p class="updated_time"> 01:13 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071176670/japan-approves-new-restrictions-for-areas-hard-hit-by-covid">Japan approves new restrictions for areas hard hit by COVID</a> NPR: Japan has undergone periods of similar restrictions over the past two years. This time, the spread of the omicron variant appears to be first hitting prefectures that house the U.S. military. 
  <p class="updated_time"> 12:47 AM CT, Jan. 07 </p> 
@@ -27,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59904658?at_medium=RSS&at_campaign=KARANGA">Global chip shortage: Samsung expects its profits to jump by 52%</a> BBC: The South Korean electronics giant benefited from strong demand for server memory chips. 
  <p class="updated_time"> 11:04 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/travel/coronavirus-cruise-ships-omicron.html">Cruise Ships Are Still Sailing as Cases Rise and Criticism Mounts</a> NYT: One day after the C.D.C. advised against all travel on cruise ships, thousands of cruisers partied like it was 2019. But worries about onboard policies — and frustration over quarantines — are rising. 
- <p class="updated_time"> 10:27 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-putin-russia.html">In Kazakhstan, Putin Again Seizes on Unrest to Try to Expand Influence</a> NYT: But a series of revolts against a pro-Russian strongman could also plant the seeds of rebellion at home, analysts say. 
  <p class="updated_time"> 09:12 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59903913?at_medium=RSS&at_campaign=KARANGA">How the US marked the Capitol riot anniversary</a> BBC: American lawmakers gathered at the Capitol one year after a mob stormed the building. 
  <p class="updated_time"> 08:53 PM CT, Jan. 06 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/europe/kazakhstan-emergency-protests-fuel.html">Kazakhstan Declares State of Emergency as Protests Over Fuel Prices Spread</a> NYT: Thousands took to the street as gas prices doubled. The government responded with curfews and tear gas. The president later announced the resignation of the government. 
  <p class="updated_time"> 08:39 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/canada/canada-indigenous-children-settlement.html">Canada Pledges $31.5 Billion in Indigenous Child Welfare Battle</a> NYT: The government agreed to a landmark settlement to repair the system and compensate those families harmed by it. It potentially ends many years of litigation. 
- <p class="updated_time"> 04:17 PM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/africa/southafrica-parliament-fire-suspect.html">Mystery Deepens as Suspect Is Charged in South Africa Parliament Fire</a> NYT: The man was also accused of possessing explosives, stealing laptops and breaking security laws. Former neighbors were shocked. His lawyer said the government was rushing to find a scapegoat. 
  <p class="updated_time"> 03:39 PM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/middleeast/palestinian-hunger-strike-israel.html">Palestinian Prisoner’s Hunger Strike Leads to Deal for Release</a> NYT: A Palestinian accused of plotting to kill Israelis went on a hunger strike to protest his imprisonment without trial. Fearing unrest, Israel agreed to release him. 
  <p class="updated_time"> 03:22 PM CT, Jan. 04 </p> 
