@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:21 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 05:32 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
  <p class="updated_time"> 05:12 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-defector-dmz.html">North Korea Defector Crosses DMZ Border Twice</a> NYT: Officials say a North Korean who crossed the DMZ in 2020 crossed it again to go back. His life in the South seems to have been one of poverty and isolation. 
@@ -55,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59916946?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier was a ground-breaking black man - Bonnie Greer</a> BBC: Playwright Bonnie Greer pays tribute to the acting legend Sidney Poitier, who has died at the age of 94. 
  <p class="updated_time"> 12:43 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/spyware-warning-cybersecurity.html">Biden Administration Warns Against Spyware Targeting Dissidents</a> NYT: The U.S. intelligence community offered steps that would mitigate — but not stop — spyware developed by firms like the NSO Group. 
+ <p class="updated_time"> 12:30 PM CT, Jan. 07 </p> 
+ <a href="https://www.wsj.com/articles/global-covid-19-cases-cross-300-million-mark-11641558223">Global Covid-19 Cases Cross 300 Million Mark</a> WSJ: The milestone comes as the U.S. Supreme Court prepared to hold a special session to consider the Biden administration’s vaccine rules for private employers and healthcare workers. 
  <p class="updated_time"> 12:23 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59910742?at_medium=RSS&at_campaign=KARANGA">Two Haitian journalists killed in gang attack</a> BBC: The men were shot and burned alive on the outskirts of the capital, according to one of their employers. 
  <p class="updated_time"> 12:15 PM CT, Jan. 07 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27198480?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: The actor who broke down Hollywood's racial barriers</a> BBC: Sidney Poitier, the actor and director who helped break down Hollywood's racial barriers, dies aged 94. 
  <p class="updated_time"> 09:57 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642">Kazakh Leader Gives Security Forces Order to Shoot Without Warning</a> WSJ: President Kassym-Jomart Tokayev signaled a broader crackdown against opponents as his security forces moved to restore control after days of unrest. 
- <p class="updated_time"> 09:57 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/global-covid-19-cases-cross-300-million-mark-11641558223">Global Covid-19 Cases Cross 300 Million Mark</a> WSJ: The milestone comes as the U.S. Supreme Court prepared to hold a special session to consider the Biden administration’s vaccine rules for private employers and healthcare workers. 
  <p class="updated_time"> 09:35 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59913250?at_medium=RSS&at_campaign=KARANGA">South Africa parliament sprinklers failed during fire, report says</a> BBC: The alarm did not work and fire doors were left open when Sunday's blaze started, the fire service says. 
  <p class="updated_time"> 09:31 AM CT, Jan. 07 </p> 
@@ -200,6 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:37 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/jan-6-terrorism-explainer.html">Was the Jan. 6 Attack on the Capitol an Act of ‘Terrorism’?</a> NYT: A sharp rebuke of Senator Ted Cruz by the Fox News host Tucker Carlson has heightened a legal and semantic debate over a charged term. 
+ <p class="updated_time"> 05:37 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/covid-19-rapid-test-contract-signed/index.html">Biden administration signs first contract for free rapid Covid-19 test distribution </a> CNN: The Biden administration has signed its first contract with a Covid-19 test manufacturer as part of President Joe Biden's efforts to distribute half a billion free rapid tests throughout the country, a White House official confirms to CNN. 
  <p class="updated_time"> 05:19 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/virginia-spencer-january-6-rioter-mom-brought-son-sentenced-to-jail/index.html">Mom who brought 14-year-old son to US Capitol riot sentenced to jail</a> CNN: A federal judge sentenced a US Capitol rioter who brought her teenage son along on January 6, 2021, to three months behind bars for illegally parading in the building. 
  <p class="updated_time"> 05:08 PM CT, Jan. 07 </p> 
@@ -223,15 +227,13 @@ permalink: /projects/news/
  <p class="updated_time"> 03:17 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-state-of-the-union.html">Biden to Deliver State of the Union Address on March 1</a> NYT: The date is later than usual and was set as the White House confronts an evolving pandemic and a stalled legislative agenda. 
  <p class="updated_time"> 03:01 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-military-kurilla.html">Biden Nominates Michael E. Kurilla to Lead Central Command</a> NYT: Lt. Gen. Michael E. Kurilla would take over as the United States tries to conduct operations in Afghanistan from afar. 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-military-kurilla.html">Biden Nominates Combat Leader to Head Central Command</a> NYT: Lt. Gen. Michael E. Kurilla would take over as the United States tries to conduct operations in Afghanistan from afar. 
  <p class="updated_time"> 02:43 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/fact-check-ted-cruz-capitol-terrorist-attack/index.html">'Sloppy' wording this week? Cruz actually called the Capitol assault a terrorist attack at least 17 previous times</a> CNN: Republican Sen. Ted Cruz of Texas said at a Senate committee meeting on Wednesday that the next day was the "anniversary of a violent terrorist attack on the Capitol." 
  <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 02:26 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/cyber-ninjas-shutting-down-arizona/index.html">Cyber Ninjas, company that oversaw the partisan Arizona election review, is shuttering</a> CNN: The Cyber Ninjas firm that oversaw the problem-plagued review of the 2020 results in Arizona's Maricopa County is shuttering. 
- <p class="updated_time"> 02:21 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/covid-19-rapid-test-contract-signed/index.html">Biden administration signs first contract for free rapid Covid-19 test distribution </a> CNN: The Biden administration has signed its first contract with a Covid-19 test manufacturer as part of President Joe Biden's efforts to distribute half a billion free rapid tests throughout the country, a White House official confirms to CNN. 
  <p class="updated_time"> 02:21 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/state-of-the-union-biden-pelosi/index.html">Biden accepts Pelosi's invitation to give State of the Union speech on March 1</a> CNN: House Speaker Nancy Pelosi on Friday asked President Joe Biden to deliver the annual State of the Union address to Congress on March 1. 
  <p class="updated_time"> 02:16 PM CT, Jan. 07 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/us/politics/trapped-capitol-jan-6.html">Remembering Jan. 6, When He Was Trapped Alone in the Capitol</a> NYT: Wayne K. Williams, a top aide to the No. 5 House Democrat, was the only member of his staff in the Capitol on Jan. 6, 2021. He was barricaded in his office alone as mayhem reigned. 
  <p class="updated_time"> 02:41 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070763913/kicked-off-facebook-and-twitter-far-right-groups-lose-online-clout">Kicked off Facebook and Twitter, far-right groups lose online clout</a> NPR: In the year since the January 6th Capitol attack, far-right influencers and extremists are taking new approaches to organizing online. 
- <p class="updated_time"> 02:27 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/cheneys-jan-6.html">Cheneys Welcomed Warmly by Democrats at Jan. 6 Event</a> NYT: “The future of the country is at stake, and there are moments when we all have to come together in order to defend the Constitution,” Representative Liz Cheney, Republican of Wyoming, said. 
  <p class="updated_time"> 12:40 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070924133/how-dan-bongino-is-building-a-right-wing-media-infrastructure-in-time-for-2024">How Dan Bongino is building a right-wing media infrastructure in time for 2024</a> NPR: New Yorker writer Evan Osnos says no one in media has profited more from the Trump era than Bongino, who hosts the country's fourth most listened to radio show and has 8.5 million weekly listeners. 
  <p class="updated_time"> 12:39 PM CT, Jan. 06 </p> 
