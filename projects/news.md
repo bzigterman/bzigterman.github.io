@@ -47,6 +47,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071176670/japan-approves-new-restrictions-for-areas-hard-hit-by-covid">Japan approves new restrictions for areas hard hit by COVID</a> NPR: Japan has undergone periods of similar restrictions over the past two years. This time, the spread of the omicron variant appears to be first hitting prefectures that house the U.S. military. 
  <p class="updated_time"> 12:24 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642">Kazakh Leader Gives Security Forces Order to Shoot Without Warning</a> WSJ: President Kassym-Jomart Tokayev said his government had largely restored order as the country’s security forces scoured for protesters after days of unrest triggered by a fuel-price increase. 
+ <p class="updated_time"> 12:22 AM CT, Jan. 07 </p> 
+ <a href="https://www.wsj.com/articles/eurozone-inflation-hits-new-record-further-pressuring-ecb-11641554526">Eurozone Inflation Hits New Record, Further Pressuring ECB</a> WSJ: The data presents a challenge for the European Central Bank as it strives to persuade households and businesses that inflation will return to its target toward the end of this year without a rise in borrowing costs. 
+ <p class="updated_time"> 12:17 AM CT, Jan. 07 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-officials-quarantined-after-covid-19-case-at-tapas-birthday-party-11641554231">Hong Kong Officials Quarantined After Covid-19 Case at Tapas Birthday Party</a> WSJ: Senior civil servants attended the celebration for a China lawmaker as the city fights its first Omicron outbreak, prompting a rebuke from Hong Kong’s chief executive. 
  <p class="updated_time"> 11:49 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59901094?at_medium=RSS&at_campaign=KARANGA">Djokovic stay highlights refugee concerns at Melbourne detention hotel</a> BBC: People held at the detention hotel have complained of mouldy food and poor conditions. 
  <p class="updated_time"> 11:23 PM CT, Jan. 06 </p> 
@@ -129,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1070833478/north-korea-claims-second-successful-test-of-hypersonic-missile">North Korea claims second successful test of hypersonic missile</a> NPR: North Korea claimed Thursday to have conducted the second successful test flight of a hypersonic missile. Wednesday's launch was the North's first known weapons test in about two months. 
  <p class="updated_time"> 01:00 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Says It Tested a Hypersonic Missile</a> NYT: It was the latest in a series of tests the North has conducted this fall. 
- <p class="updated_time"> 01:00 AM CT, Jan. 06 </p> 
- <a href="https://www.wsj.com/articles/russias-demands-on-ukraine-must-be-addressed-urgently-russian-official-says-11641470402">Russia's Demands on Ukraine Must Be Addressed Urgently, Russian Official Says</a> WSJ: Ahead of talks with the U.S., Deputy Russian Foreign Minister Sergei Ryabkov warned the Biden administration against using economic pressure. 
  <p class="updated_time"> 11:04 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/india-omicron-coronavirus.html">India’s Rising Omicron Wave Brings a Grim Sense of Déjà Vu</a> NYT: Just months after Delta fueled hospital failures and funeral pyres, India’s leaders again offer a mixed message: Their political rallies are packed even as they order curfews and work closures. 
  <p class="updated_time"> 10:37 PM CT, Jan. 05 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/05/1070700656/reigning-australian-open-mens-champion-denied-entry-into-australia-to-defend-tit">Reigning Australian Open men's champion denied entry into Australia to defend title</a> NPR: The reigning Australian Open men's champion Novak Djokovic — who is famously skeptical about the COVID vaccine and received a medical exemption from being vaccinated — was not admitted to the country. 
  <p class="updated_time"> 03:35 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1069791114/afghanistan-girls-soccer-refugees-portugal">An Afghan girls soccer team rebelled to play the game they love. Now they're refugees</a> NPR: The teenagers on the Afghan girls national soccer team lean on each other as they adjust to a new life in Portugal, where they fled after the Taliban takeover of Afghanistan. 
- <p class="updated_time"> 02:49 PM CT, Jan. 05 </p> 
- <a href="https://www.wsj.com/articles/anger-at-xian-lockdown-spreads-in-china-11641433781">Anger at Xi'an Lockdown Spreads in China</a> WSJ: The account of a woman who lost her unborn baby in the eighth month of pregnancy after being denied swift medical attention prompted a nationwide social-media outcry. 
  <p class="updated_time"> 02:10 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/britain-same-sex-pardon.html">Britain Extends Pardons Policy for Consensual Same-Sex Partners</a> NYT: The government’s action expands earlier legislative efforts, but for some gay people it is too little, too late. “It impacted me my whole life,” one man said of his conviction. 
  <p class="updated_time"> 01:51 PM CT, Jan. 05 </p> 
