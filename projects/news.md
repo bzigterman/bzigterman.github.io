@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:31 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 02:42 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
+ <p class="updated_time"> 02:41 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, Novelist Who Saw Heroism in Ordinary Filipinos, Dies at 97</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
+ <p class="updated_time"> 02:41 PM CT, Jan. 07 </p> 
+ <a href="https://www.npr.org/2022/01/07/1071278075/nelson-mandela-robben-island-prison-cell-key-auction">The key to Nelson Mandela's Robben Island prison cell is returning to South Africa </a> NPR: New York auction house Guernsey's has postponed the sale of some of the South African leader's belongings, including the key to his cell and the shirt he wore when he was released from Robben Island. 
+ <p class="updated_time"> 02:39 PM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59912361?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Jogger's murderers sentenced to life in prison</a> BBC: Three men who killed the black jogger given life sentences by judge who condemns "chilling" murder. 
  <p class="updated_time"> 02:31 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/rochelle-walensky-cdc-covid-guidance.html">C.D.C Director Defends Covid-19 Isolation Guidance</a> NYT: Dr. Rochelle P. Walensky held the agency’s first independent news briefing since the Trump White House ended them nearly two years ago. 
- <p class="updated_time"> 02:22 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59912361?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Jogger's murderers sentenced to life in prison</a> BBC: Three men who killed the black jogger given life sentences by judge who condemns "chilling" murder. 
  <p class="updated_time"> 02:18 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/07/1068840414/global-wishes-for-2022-a-gift-box-for-everyone-greater-girl-power-vertical-garde">Global wishes for 2022: a gift box for everyone, greater girl power, vertical gardens</a> NPR: We asked global thinkers like Malala, doctors dealing with the pandemic, educators and more — if you were in charge of the world, what would you like to see happen this year. 
  <p class="updated_time"> 02:10 PM CT, Jan. 07 </p> 
@@ -159,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1070840030/police-say-dozens-have-been-killed-in-kazakhstan-unrest">Russia-led alliance troops have arrived in Kazakhstan after mass protests</a> NPR: Russia-led alliance troops arrived in Kazakhstan on Thursday after increasingly chaotic and violent protests rocked the nation for days and resulted in dozens of people killed and hundreds injured. 
  <p class="updated_time"> 01:28 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Russia-Allied Forces to Intervene as Unrest Sweeps Kazakhstan</a> NYT: The Kazakh president requested the peacekeeping troops as an uprising, sparked by a gas price increase in the resource-rich Central Asian nation, headed toward a fifth day. 
- <p class="updated_time"> 01:10 AM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1070833478/north-korea-claims-second-successful-test-of-hypersonic-missile">North Korea claims second successful test of hypersonic missile</a> NPR: North Korea claimed Thursday to have conducted the second successful test flight of a hypersonic missile. Wednesday's launch was the North's first known weapons test in about two months. 
  <p class="updated_time"> 01:00 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Says It Tested a Hypersonic Missile</a> NYT: It was the latest in a series of tests the North has conducted this fall. 
  <p class="updated_time"> 11:04 PM CT, Jan. 05 </p> 
@@ -194,8 +196,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:18 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/arbery-killers-get-life-in-prison-no-parole-for-father-son-526754">Arbery killers get life in prison; no parole for father, son</a> Politico: In November, a jury convicted all three defendants of murder, aggravated assault, false imprisonment and attempted false imprisonment. 
+ <p class="updated_time"> 02:41 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/sotomayor-oral-arguments/index.html">Two attorneys challenging vaccine mandates appear at SCOTUS virtually due to Covid protocols</a> CNN: Two attorneys from states challenging the Biden administration's vaccine and testing mandates participated in oral arguments at the Supreme Court remotely Friday due to the court's Covid-19 protocols. 
+ <p class="updated_time"> 02:34 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/ron-johnson-reelection-plans/index.html">GOP banking on Ron Johnson run in crucial Senate race </a> CNN: Republicans are growing bullish that Wisconsin Sen. Ron Johnson will launch his reelection campaign in 2022, setting the stage for a bruising race that could determine control of the Senate and whether former President Donald Trump will continue to have one of his staunchest allies in the chamber. 
  <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
+ <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/supreme-court-biden-vaccine-testing-mandate-covid-19/index.html">Supreme Court appears poised to block Biden's vaccine and testing rules for businesses</a> CNN: The Supreme Court on Friday will take up challenges to President Joe Biden's most aggressive attempts so far to combat the spread of Covid-19 -- vaccine or testing requirements for large businesses and many health care workers -- as the number of infections soar and 40 million adults in the US are still declining to get vaccinated. 
  <p class="updated_time"> 02:32 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-state-of-the-union.html">Biden to Deliver State of the Union Address on March 1</a> NYT: The date is later than usual and was set as the White House confronts an evolving pandemic and a stalled legislative agenda. 
  <p class="updated_time"> 02:26 PM CT, Jan. 07 </p> 
@@ -210,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/blinken-russia-talks/index.html">Blinken says talks with Russia on Ukraine crisis need to be a 'two-way street' to be successful</a> CNN: Secretary of State Antony Blinken said Friday that progress can be made during next week's diplomatic talks between US, European and Russian officials, but that it had to be a "two-way street" with Russia deescalating its aggression toward Ukraine. 
  <p class="updated_time"> 02:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/treasury-sends-rental-aid-526748">Treasury to send $1B in rental aid funds to high-demand states, cities</a> Politico: California, New Jersey, New York and the District of Columbia will each receive tens of millions of dollars pulled from governments with low disbursement rates. 
- <p class="updated_time"> 01:46 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/supreme-court-biden-vaccine-testing-mandate-covid-19/index.html">Supreme Court appears poised to block Biden's vaccine and testing rules for businesses</a> CNN: The Supreme Court on Friday will take up challenges to President Joe Biden's most aggressive attempts so far to combat the spread of Covid-19 -- vaccine or testing requirements for large businesses and many health care workers -- as the number of infections soar and 40 million adults in the US are still declining to get vaccinated. 
  <p class="updated_time"> 01:43 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/andrew-cuomo-charge-dismissed/index.html">New York judge dismisses sole criminal charge faced by former governor Andrew Cuomo after sexual misconduct allegation</a> CNN: An Albany City Court judge on Friday dismissed a forcible touching complaint against former New York Gov. Andrew Cuomo, who briefly appeared virtually in court in his first public appearance since stepping down as governor. 
  <p class="updated_time"> 01:28 PM CT, Jan. 07 </p> 
@@ -229,7 +235,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
  <p class="updated_time"> 12:52 PM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071304780/supreme-court-arguments-biden-vaccine-testing-regulation">Supreme Court conservatives appear skeptical of vaccine-or-test mandate for businesses</a> NPR: Business groups, 27 states and some individuals have questioned the authority of the Occupational Safety and Health Agency to impose a nationwide rule. 
+ <a href="https://www.npr.org/2022/01/07/1071304780/supreme-court-arguments-biden-vaccine-testing-regulation">Supreme Court conservatives seem skeptical of vaccine-or-test mandate for businesses</a> NPR: Business groups, 27 states and some individuals have questioned the authority of the Occupational Safety and Health Administration to impose a nationwide rule. 
  <p class="updated_time"> 12:43 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/spyware-warning-cybersecurity.html">Biden Administration Warns Against Spyware Targeting Dissidents</a> NYT: The U.S. intelligence community offered steps that would mitigate — but not stop — spyware developed by firms like the NSO Group. 
  <p class="updated_time"> 12:37 PM CT, Jan. 07 </p> 
@@ -238,16 +244,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/biden-december-jobs-report/index.html">Biden touts low unemployment rate after US adds fewer jobs in December than expected</a> CNN: President Joe Biden on Friday touted the unemployment rate dropping to 3.9% in December and credited his economic agenda with getting America "back on its feet," despite Friday's job report showing the US economy added fewer jobs than expected last month. 
  <p class="updated_time"> 11:28 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/oscar-winner-and-groundbreaking-star-sidney-poitier-dies-526735">Oscar winner and groundbreaking star Sidney Poitier dies</a> Politico: Sidney Poitier, the groundbreaking actor who transformed how Black people were portrayed on screen, has died. He was 94. 
- <p class="updated_time"> 11:19 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/ron-johnson-reelection-plans/index.html">GOP banking on Ron Johnson run in crucial Senate race </a> CNN: Republicans are growing bullish that Wisconsin Sen. Ron Johnson will launch his reelection campaign in 2022, setting the stage for a bruising race that could determine control of the Senate and whether former President Donald Trump will continue to have one of his staunchest allies in the chamber. 
  <p class="updated_time"> 11:05 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071256532/postal-service-exempt-vaccine-mandate">The Postal Service is seeking a temporary delay from the vaccine mandate</a> NPR: With more than 500,000 employees, the post office says complying with the rule would be difficult and could interfere with timely mail deliveries. 
  <p class="updated_time"> 11:00 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/russia-us-ukraine-sanctions/index.html">Biden officials weighing Russia sanctions despite warnings</a> CNN: The Biden administration is still weighing exactly how it would penalize Russia if the country invades Ukraine, as US diplomats are just days away from high-stakes meetings with Kremlin officials. 
  <p class="updated_time"> 10:47 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/rochelle-walensky-cdc-communications-covid-19/index.html">After a series of messaging missteps, CDC's Walensky seeks out media training</a> CNN: Dr. Rochelle Walensky assumed her new role as the director of the US Centers for Disease Control and Prevention last January with a vow to restore trust in the agency. But last fall, several months into the job and after a series of messaging missteps, Walensky sought out media training. 
- <p class="updated_time"> 10:41 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/us-jobs-report-economy-what-matters/index.html">Analysis: Jobs reports: What makes them 'disappointing'</a> CNN: New government data that tracks job growth is out, and it is disappointing -- just 199,000 jobs were added to the US economy in December, according to a survey published by the Labor Department. 
  <p class="updated_time"> 10:34 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/ted-cruz-jan-6-terrorist-attack-capitol/index.html">Ted Cruz told the truth about the 1/6 attack. Then he started backtracking.</a> CNN: On Wednesday, Sen. Ted Cruz told the truth about what happened at the US Capitol on January 6, 2021, calling it "a violent terrorist attack on the Capitol, where we saw the men and women of law enforcement demonstrate incredible courage." 
  <p class="updated_time"> 09:33 AM CT, Jan. 07 </p> 
