@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:58 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/europe/nato-russia-ukraine.html">NATO Vows United Response to Russian Aggression Against Ukraine</a> NYT: Foreign ministers from the alliance, meeting Friday, hope that Moscow will choose diplomacy and de-escalation instead, amid skepticism that Russia is sincere in wanting substantive talks. 
+ <p class="updated_time"> 02:55 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
  <p class="updated_time"> 02:48 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
- <p class="updated_time"> 02:42 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
  <p class="updated_time"> 02:41 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071278075/nelson-mandela-robben-island-prison-cell-key-auction">The key to Nelson Mandela's Robben Island prison cell is returning to South Africa </a> NPR: New York auction house Guernsey's has postponed the sale of some of the South African leader's belongings, including the key to his cell and the shirt he wore when he was released from Robben Island. 
  <p class="updated_time"> 02:39 PM CT, Jan. 07 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 02:07 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/covid-flight-italy-india.html">Covid Tests Probed After 100s on 2 Italy-India Flights Test Positive </a> NYT: Some 300 passengers on two flights who tested positive for the coronavirus upon landing in the northern city of Amritsar are being retested. 
- <p class="updated_time"> 01:53 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/europe/nato-russia-ukraine.html">NATO Vows United Response to Russian Aggression Against Ukraine</a> NYT: Foreign ministers from the alliance, meeting Friday, hope that Moscow will choose diplomacy and de-escalation instead, amid skepticism that Russia is sincere in wanting substantive talks. 
  <p class="updated_time"> 01:42 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59913513?at_medium=RSS&at_campaign=KARANGA">Denmark frees suspected pirates in dinghy in Gulf of Guinea</a> BBC: The suspects had been detained at sea in the Gulf of Guinea in November. A fourth remains in custody. 
  <p class="updated_time"> 01:03 PM CT, Jan. 07 </p> 
@@ -59,6 +59,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/india-12-booster-shots.html">12 Covid Vaccine Shots Aren't Enough for 85-Year-Old in India</a> NYT: The retired postman  said he gamed the offline vaccination drive to keep boosting regularly — long before booster shots were a thing anywhere. 
  <p class="updated_time"> 10:04 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27198480?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: The actor who broke down Hollywood's racial barriers</a> BBC: Sidney Poitier, the actor and director who helped break down Hollywood's racial barriers, dies aged 94. 
+ <p class="updated_time"> 09:57 AM CT, Jan. 07 </p> 
+ <a href="https://www.wsj.com/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642">Kazakh Leader Gives Security Forces Order to Shoot Without Warning</a> WSJ: President Kassym-Jomart Tokayev signaled a broader crackdown against opponents as his security forces moved to restore control after days of unrest. 
+ <p class="updated_time"> 09:57 AM CT, Jan. 07 </p> 
+ <a href="https://www.wsj.com/articles/global-covid-19-cases-cross-300-million-mark-11641558223">Global Covid-19 Cases Cross 300 Million Mark</a> WSJ: The milestone comes as the U.S. Supreme Court prepared to hold a special session to consider the Biden administration’s vaccine rules for private employers and healthcare workers. 
  <p class="updated_time"> 09:35 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59913250?at_medium=RSS&at_campaign=KARANGA">South Africa parliament sprinklers failed during fire, report says</a> BBC: The alarm did not work and fire doors were left open when Sunday's blaze started, the fire service says. 
  <p class="updated_time"> 09:31 AM CT, Jan. 07 </p> 
@@ -73,12 +77,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59912704?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic thanks fans as he awaits deportation decision</a> BBC: The men's tennis star is awaiting a decision on his deportation from Australia over a vaccination row. 
  <p class="updated_time"> 08:39 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/arts/music/einar-sweden-rap.html">After Killing of Einar, Sweden Struggles With 'Gangster Rap'</a> NYT: Hip-hop, the country’s most popular music, has quickly become a lightning rod for Sweden’s long-roiling problems with gun violence and gang warfare. 
- <p class="updated_time"> 08:18 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642">Kazakh Leader Gives Security Forces Order to Shoot Without Warning</a> WSJ: President Kassym-Jomart Tokayev signaled a broader crackdown against opponents as his security forces moved to restore control after days of unrest. 
  <p class="updated_time"> 07:47 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59906702?at_medium=RSS&at_campaign=KARANGA">Gunfire heard as BBC visits scene of Kazakh clashes</a> BBC: The BBC's Abdujalil Abdurasulov reports from Almaty in the aftermath of violent protests. 
- <p class="updated_time"> 07:42 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/global-covid-19-cases-cross-300-million-mark-11641558223">Global Covid-19 Cases Cross 300 Million Mark</a> WSJ: The milestone comes as the U.S. Supreme Court prepared to hold a special session to consider the Biden administration’s vaccine rules for private employers and healthcare workers. 
  <p class="updated_time"> 07:34 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59908217?at_medium=RSS&at_campaign=KARANGA">Simon & Schuster employee denies he stole bestseller manuscripts</a> BBC: The FBI alleges Simon & Schuster employee Filippo Bernardini tried to defraud hundreds of people. 
  <p class="updated_time"> 07:28 AM CT, Jan. 07 </p> 
@@ -196,10 +196,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:18 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/arbery-killers-get-life-in-prison-no-parole-for-father-son-526754">Arbery killers get life in prison; no parole for father, son</a> Politico: In November, a jury convicted all three defendants of murder, aggravated assault, false imprisonment and attempted false imprisonment. 
+ <p class="updated_time"> 03:01 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-military-kurilla.html">Biden Nominates Michael E. Kurilla to Lead Central Command</a> NYT: Lt. Gen. Michael E. Kurilla would take over as the United States tries to conduct operations in Afghanistan from afar. 
  <p class="updated_time"> 02:45 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-state-of-the-union.html">Biden to Deliver State of the Union Address on March 1</a> NYT: The date is later than usual and was set as the White House confronts an evolving pandemic and a stalled legislative agenda. 
  <p class="updated_time"> 02:43 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/fact-check-ted-cruz-capitol-terrorist-attack/index.html">'Sloppy' wording this week? Ted Cruz actually called the Capitol assault a terrorist attack at least 17 previous times</a> CNN: Republican Sen. Ted Cruz of Texas said at a Senate committee meeting on Wednesday that the next day was the "anniversary of a violent terrorist attack on the Capitol." 
+ <a href="https://www.cnn.com/2022/01/07/politics/fact-check-ted-cruz-capitol-terrorist-attack/index.html">'Sloppy' wording this week? Cruz actually called the Capitol assault a terrorist attack at least 17 previous times</a> CNN: Republican Sen. Ted Cruz of Texas said at a Senate committee meeting on Wednesday that the next day was the "anniversary of a violent terrorist attack on the Capitol." 
  <p class="updated_time"> 02:41 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/sotomayor-oral-arguments/index.html">Two attorneys challenging vaccine mandates appear at SCOTUS virtually due to Covid protocols</a> CNN: Two attorneys from states challenging the Biden administration's vaccine and testing mandates participated in oral arguments at the Supreme Court remotely Friday due to the court's Covid-19 protocols. 
  <p class="updated_time"> 02:34 PM CT, Jan. 07 </p> 
@@ -340,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1070763913/kicked-off-facebook-and-twitter-far-right-groups-lose-online-clout">Kicked off Facebook and Twitter, far-right groups lose online clout</a> NPR: In the year since the January 6th Capitol attack, far-right influencers and extremists are taking new approaches to organizing online. 
  <p class="updated_time"> 02:27 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/cheneys-jan-6.html">Cheneys Welcomed Warmly by Democrats at Jan. 6 Event</a> NYT: “The future of the country is at stake, and there are moments when we all have to come together in order to defend the Constitution,” Representative Liz Cheney, Republican of Wyoming, said. 
- <p class="updated_time"> 02:25 PM CT, Jan. 06 </p> 
- <a href="https://www.politico.com/news/2022/01/06/nick-kristof-booted-off-oregon-ballot-526669">Nick Kristof booted off Oregon ballot, vows appeal</a> Politico: The former New York Times columnist does not meet the three-year residency requirement, the secretary of state said Thursday, calling it "not even a close call." 
  <p class="updated_time"> 02:09 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/i-texted-my-editor-guns-drawn-times-reporters-discuss-their-experiences-inside-the-capitol-on-jan-6.html">Times Reporters Discuss Their Experiences Inside the Capitol on Jan. 6</a> NYT: Focused on the counting of electoral votes, those inside the building didn’t fully grasp how bad things had gotten outside until it was too late. 
  <p class="updated_time"> 12:40 PM CT, Jan. 06 </p> 
@@ -354,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1070970440/ted-cruz-jan-6-violent-terrorist-attack-tucker-carlson">Republicans criticize Ted Cruz for calling Jan. 6 a violent terrorist attack</a> NPR: "Of all the things that Jan. 6 was, it was definitely not a violent terrorist attack," Fox News commentator Tucker Carlson said in reply to Sen. Ted Cruz of Texas. 
  <p class="updated_time"> 11:48 AM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070931178/jan-6-anniversary-biden-speech-transcript">Read President Biden's Jan. 6 speech in full</a> NPR: Biden blasted former President Donald Trump in an address from the U.S. Capitol on the anniversary of the insurrection. 
- <p class="updated_time"> 11:42 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/taylor-greene-gaetz-bannon-jan-6.html">Gaetz and Taylor Greene Redirect Jan. 6 Blame on Bannon's Show</a> NYT: The idea that people other than Mr. Trump’s own supporters were responsible for the violence that day has become a popular conspiracy theory among the far right. 
  <p class="updated_time"> 11:40 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/jamal-simmons-kamala-harris/index.html">Kamala Harris to name Jamal Simmons as communications director</a> CNN: Jamal Simmons, a Democratic communications aide and media contributor, has been tapped to be Vice President Kamala Harris' new communications director, a White House official confirms. 
  <p class="updated_time"> 11:00 AM CT, Jan. 06 </p> 
