@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:52 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Russian troops fly in as crackdown continues</a> BBC: Authorities say both police and protesters have died in unrest sparked by a fuel price rise. 
+ <p class="updated_time"> 12:47 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59903785?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic saga: Australia investigates visas of other tennis players</a> BBC: As Novak Djokovic faces possible deportation, the Australian Open draw is cast into more uncertainty. 
  <p class="updated_time"> 11:49 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59901094?at_medium=RSS&at_campaign=KARANGA">Djokovic stay highlights refugee concerns at Melbourne detention hotel</a> BBC: People held at the detention hotel - some for years - complain of mouldy food and poor conditions. 
- <p class="updated_time"> 11:40 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59903785?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic saga: Australia investigates visas of other tennis players</a> BBC: As Novak Djokovic faces possible deportation, the Australian Open draw is cast into more uncertainty. 
  <p class="updated_time"> 11:23 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59904527?at_medium=RSS&at_campaign=KARANGA">Omicron: 13 passengers on Italy-India flight escape quarantine</a> BBC: They were among 125 passengers who tested positive for Covid after arriving on a flight from Milan. 
- <p class="updated_time"> 11:13 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Russian troops fly in as crackdown continues</a> BBC: Authorities say both police and protesters have died in unrest sparked by a fuel price rise. 
  <p class="updated_time"> 11:04 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/travel/coronavirus-cruise-ships-omicron.html">Cruise Ships Are Still Sailing as Cases Rise and Criticism Mounts</a> NYT: One day after the C.D.C. advised against all travel on cruise ships, thousands of cruisers partied like it was 2019. But worries about onboard policies — and frustration over quarantines — are rising. 
  <p class="updated_time"> 10:27 PM CT, Jan. 06 </p> 
@@ -85,6 +85,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59885656?at_medium=RSS&at_campaign=KARANGA">Drone helps save cardiac arrest patient in Sweden</a> BBC: A defibrillator delivered by drone helped to keep a 71 year-old man alive. 
  <p class="updated_time"> 11:50 AM CT, Jan. 06 </p> 
  <a href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504">Kazakhstan Protests Have Russia Sending Troops as Dozens Killed in Unrest</a> WSJ: Russia sent paratroopers to help Kazakhstan’s leader stamp out protests fueled by frustration with authoritarian rule in the former Soviet republic. 
+ <p class="updated_time"> 11:17 AM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59881229?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Why world number one is such a polarising player</a> BBC: Novak Djokovic's vaccine exemption situation before the Australian Open is the latest controversy for one of tennis' greatest but most polarising players. 
  <p class="updated_time"> 11:09 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html">Using Harsh Language, Macron Issues a Challenge to the Unvaccinated</a> NYT: The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds. 
  <p class="updated_time"> 09:54 AM CT, Jan. 06 </p> 
