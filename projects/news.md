@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:19 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/world/australia/how-is-the-south-coast-healing-after-the-fires-and-with-covid.html">How Is the South Coast Healing, After the Fires and With Covid?</a> NYT: A little bit of empathetic momentum can go a long way toward helping people and places heal. 
  <p class="updated_time"> 07:19 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59904117?at_medium=RSS&at_campaign=KARANGA">Two arrested after 10 bodies found in car in Mexico</a> BBC: The discovery was made outside a governor's office in the central state of Zacatecas. 
  <p class="updated_time"> 06:35 PM CT, Jan. 06 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/europe/molenbeek-attack-brussels-paris.html">How This Changing Brussels Neighborhood is Trying to Leave The Stigma of Terrorism Behind</a> NYT: Molenbeek was where a terrorist cell planned attacks that killed 162 in Paris and Brussels. Six years later, residents are trying to reinvent the area as a trial rekindles an awful association. 
  <p class="updated_time"> 04:45 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/philippines-manila-covid-lockdown.html">Philippines Expands Lockdown for Unvaccinated Around Manila</a> NYT: The new rules bar unvaccinated residents from leaving their homes except for a list of essential reasons. 
- <p class="updated_time"> 02:00 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/business/britain-electricity-norway-cables.html">A Widening Web of Undersea Cables Connects Britain to Green Energy</a> NYT: Linking one nation’s power grid with another’s is considered essential as more electricity is generated from solar and wind. 
 
 
 </details>
@@ -188,24 +188,32 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:02 PM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/inside-biden-january-6-speech/index.html">Inside Biden's fiery speech and his decision to confront Trump's danger head-on</a> CNN: It was only a little more than a month ago when President Joe Biden, asked about another head-shaking revelation regarding his predecessor, seemed to balk at a mere mention of the man. 
+ <p class="updated_time"> 08:01 PM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/republicans-promote-election-lies-january-6/index.html">A year after the insurrection, Republicans around the country still promote Trump's election lies</a> CNN: In Colorado -- a state President Joe Biden won handily in 2020 -- a Republican candidate for US Senate pointed his firearm at a fake Dominion voting machine and blasted it to smithereens in a campaign ad riddled with falsehoods. 
+ <p class="updated_time"> 07:47 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-events-takeaways.html">4 Takeaways From the Jan. 6 Capitol Attack Commemoration</a> NYT: President Biden took a confrontational approach to his predecessor, who isn’t going away, and other takeaways from the commemoration events. 
+ <p class="updated_time"> 07:40 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/january-6-anniversary-photos.html">At the Capitol, a Day of Somber Remembrance</a> NYT: The anniversary of Jan. 6 was part national commemoration, part group therapy session and part slick production as Democrats marked the deadliest attack on the Capitol in two centuries. 
+ <p class="updated_time"> 07:34 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-speech-january-6-transcript.html">Biden’s Speech on the Jan. 6 Riot, Annotated</a> NYT: The president commemorated the anniversary of the attack on the Capitol with an emotional address forcefully denouncing his predecessor. 
  <p class="updated_time"> 07:01 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-trump-jan-6.html">On Jan. 6 Anniversary, Biden Goes After Trump and Trumpism</a> NYT: In a speech marking the anniversary of the Capitol riot, the president confronted Trumpism, even as he refused to utter his predecessor’s name. 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-trump-jan-6.html">Ignoring Trump Didn’t Work. Biden Goes After ‘a Defeated Former President.’</a> NYT: In a speech marking the anniversary of the Capitol riot, the president confronted Trumpism, even as he refused to utter his predecessor’s name. 
  <p class="updated_time"> 06:59 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/cecilia-martinez-environmental-justice/index.html">Top White House environmental justice official to depart post</a> CNN: The Biden administration's top environmental justice official will step down on Friday, an administration official told CNN. 
  <p class="updated_time"> 06:55 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-jan-6-capitol-attack.html">Biden Holds Trump Responsible in Jan. 6 Speech</a> NYT: President Biden used the anniversary of the Capitol siege to deliver his most sustained and scathing repudiation of Donald J. Trump since taking office. 
  <p class="updated_time"> 06:52 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-lies.html">The Next Big Lies: Jan. 6 Was No Big Deal, or a Left-Wing Plot</a> NYT: How revisionist histories of Jan. 6 picked up where the “stop the steal” campaign left off, warping beliefs about what transpired at the Capitol. 
+ <p class="updated_time"> 06:46 PM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden condemns Trump as a threat to democracy in speech marking one year since January 6 attack</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
  <p class="updated_time"> 06:45 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/cuomo-charges-future-resignation.html">Will Cuomo Try to Make a Comeback?</a> NYT: Recent decisions by prosecutors to not pursue criminal charges against ex-Gov. Andrew Cuomo may fuel his interest in re-entering public life. 
  <p class="updated_time"> 06:40 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/dhs-online-threats-extremist-platforms-48-hours/index.html">DHS warns online threats have increased on extremist platforms over past 48 hours with some against lawmakers</a> CNN: There has been an increase in online extremist content in the past 48 hours, including threats to lawmakers and the President, according to a Department of Homeland Security intelligence memo obtained by CNN. 
- <p class="updated_time"> 06:35 PM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/inside-biden-january-6-speech/index.html">Inside Biden's fiery speech and his decision to confront Trump's danger head-on</a> CNN: It was only a little more than a month ago when President Joe Biden, asked about another head-shaking revelation regarding his predecessor, seemed to balk at a mere mention of the man. 
  <p class="updated_time"> 06:20 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/capitol-rioter-jamaican-vacation-denied/index.html">Judge slams US Capitol rioter's request to take Jamaican vacation</a> CNN: A federal judge colorfully rejected a US Capitol riot defendant's request for a 10-day getaway in Jamaica on Thursday, the one-year anniversary of the attack on the Capitol. 
- <p class="updated_time"> 06:20 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-events-takeaways.html">4 Takeaways From the Jan. 6 Capitol Attack Commemoration</a> NYT: President Biden took a confrontational approach to his predecessor, who isn’t going away, and other takeaways from the commemoration events. 
  <p class="updated_time"> 06:05 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/republicans-jan-6-observances.html">Republicans Avoid Jan. 6 Observances at the Capitol</a> NYT: Elected Republicans stayed away from the Capitol during a day of solemn remembrance on the anniversary of the attack carried out by supporters of former President Donald J. Trump. 
  <p class="updated_time"> 06:04 PM CT, Jan. 06 </p> 
@@ -226,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1071063988/on-capitol-hill-president-biden-and-other-leaders-mark-anniversary-of-jan-6-atta">On Capitol Hill, President Biden and other leaders mark anniversary of Jan. 6 attack</a> NPR: President Biden and Democratic leaders converged at the Capitol on Thursday with speeches, ceremonies and prayer to mark the anniversary of the Jan. 6 insurrection. 
  <p class="updated_time"> 04:09 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/michael-erik-kurilla-middle-east-operations-nomination/index.html">Biden nominates a new general to oversee military operations in Middle East</a> CNN: President Joe Biden is nominating Army Lt. Gen. Michael Erik Kurilla to be the next commander of US Central Command, which oversees military operations in the Middle East, according to multiple defense officials and nomination paperwork sent to Congress. 
- <p class="updated_time"> 04:00 PM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/republicans-promote-election-lies-january-6/index.html">A year after the insurrection, Republicans around the country still promote Trump's election lies</a> CNN: In Colorado -- a state President Joe Biden won handily in 2020 -- a Republican candidate for US Senate pointed his firearm at a fake Dominion voting machine and blasted it to smithereens in a campaign ad riddled with falsehoods. 
  <p class="updated_time"> 04:00 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/january-6-democracy-danger-what-matters/index.html">Analysis: Americans aren't hearing the 'democracy in danger' alarm</a> CNN: Who exactly is listening to all the warnings about the state of American democracy? 
  <p class="updated_time"> 03:56 PM CT, Jan. 06 </p> 
@@ -296,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/06/politics/transcript-kamala-harris-january-6-anniversary-speech/index.html">Vice President Kamala Harris' remarks on January 6 anniversary</a> CNN: Vice President Kamala Harris spoke from the US Capitol on the one-year anniversary of the January 6 insurrection, where she said that on that day, "we all saw what our nation would look like if the forces who seek to dismantle our democracy are successful. The lawlessness, the violence, the chaos." 
  <p class="updated_time"> 09:27 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/january-6-capitol-riot/index.html">One reporter's 21 hour nightmare inside the US Capitol on January 6, 2021</a> CNN: January 6, 2021 started like lots of days on Capitol Hill for CNN reporter Daniella Diaz. She was braced for a very long day as Congress was set to formalize Joe Biden's Electoral College victory. What transpired over the next 21 hours -- rioters storming the US Capitol in an attempted coup -- was history in the making. On the anniversary of that fateful day, I reached out to Daniella to talk about her recollections -- and what memories have stayed with her. Our conversation -- conducted via email and lightly edited for flow -- is below. 
- <p class="updated_time"> 09:16 AM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/biden-presidency-jan-6/index.html">The January 6 riot and Donald Trump loom over Joe Biden's presidency a year later</a> CNN: Two weeks before becoming president, Joe Biden watched the January 6 attack on television from his home in Delaware, horrified as the unspeakable images of the insurrection unfolded and aghast at the sitting President's unwillingness to condemn it. 
  <p class="updated_time"> 08:39 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/january-6-insurrection-legacy/index.html">Analysis: January 6 may be only a preview of a deeper democratic rupture</a> CNN: If January 6, 2021, was just one infamous day in history, its stain on the American story would still reverberate through generations. 
  <p class="updated_time"> 08:25 AM CT, Jan. 06 </p> 
@@ -344,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-riot-aftermath.html">A Year Later, Jan. 6 Becomes Just Another Wedge in a Divided Nation</a> NYT: The nearly universal outrage after the assault on the Capitol has reverted to separate blue and red realities, and former President Donald J. Trump has remained the dominant force in his party. 
  <p class="updated_time"> 10:31 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/chicago-mayor-lightfood-teachers-union-laughingstock-526600">Chicago mayor: Teachers union made us a ‘laughingstock’</a> Politico: As the Omicron variant triggers a new wave of Covid-19 cases, educators in the nation's third-largest school district voted late Tuesday to not report to work. 
- <p class="updated_time"> 08:54 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/us/politics/michael-carvajal-resigns-prisons.html">Michael Carvajal Is Resigning After Rocky Tenure</a> NYT: Michael Carvajal took over the Bureau of Prisons in February 2020, just as the coronavirus began to sweep through the nation’s prisons. 
  <p class="updated_time"> 08:45 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/jimmy-carter-democracy-jan-6-oped/index.html">Carter warns America 'teeters on the brink of a widening abyss' in stark op-ed ahead of January 6</a> CNN: Former President Jimmy Carter warned Wednesday that democracy is being threatened throughout the country, cautioning that "our great nation now teeters on the brink of a widening abyss." 
  <p class="updated_time"> 07:44 PM CT, Jan. 05 </p> 
@@ -354,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/jan-6-mypillow-ceo-mike-lindell-subpoena-526582">Jan. 6 committee subpoenas MyPillow CEO Mike Lindell's phone records</a> Politico: He filed a lawsuit to block the panel’s request. 
  <p class="updated_time"> 07:16 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/nord-stream-pipeline-russia-biden-526579">Dems shift gears on Russian pipeline, backing Biden against Cruz’s gambit</a> Politico: Democrats have consistently supported sanctions on the Nord Stream 2 pipeline, but they won't go against the president as he engages in fraught talks with Russia. 
- <p class="updated_time"> 06:54 PM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/prisons-director-resigning-526575">U.S. prisons director resigning after crises-filled tenure</a> Politico: Michael Carvajal was a Trump administration holdover. 
  <p class="updated_time"> 06:05 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/peter-velz-vincent-evans-kamala-harris/index.html">Two Harris staffers announce they're leaving vice president's office</a> CNN: Two staffers announced Wednesday that they are leaving Vice President Kamala Harris' office. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
@@ -420,6 +420,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/cheney-trump-threat-democracy-526356">Liz Cheney on Trump: He’s a threat to American democracy</a> Politico: “He crossed lines no American president has ever crossed before,” she said. 
  <p class="updated_time"> 10:12 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/capitol-police-chief-short-staffed-526354">Capitol Police chief says force remains short-staffed</a> Politico: “We’re now really about 400 officers short of where we need to be,” J. Thomas Manger said. 
+ <p class="updated_time"> 07:01 AM CT, Jan. 02 </p> 
+ <a href="https://www.politico.com/news/2022/01/02/georgia-solar-factory-biden-industrial-policy-526287">A Georgia solar factory shows the promise — and peril — of Biden's new industrial policy</a> Politico: Democrats want to use hundreds of billions in new tax incentives to spur new factories for clean energy technologies, but their proposals come with huge political and economic risks. 
  <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
  <p class="updated_time"> 07:00 AM CT, Jan. 01 </p> 
