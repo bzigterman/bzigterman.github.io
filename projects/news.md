@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:13 PM CT, Jan. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Russian troops fly in as crackdown continues</a> BBC: Authorities say both police and protesters have died in unrest sparked by a fuel price rise. 
+ <p class="updated_time"> 11:04 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/travel/coronavirus-cruise-ships-omicron.html">Cruise Ships Are Still Sailing as Cases Rise and Criticism Mounts</a> NYT: One day after the C.D.C. advised against all travel on cruise ships, thousands of cruisers partied like it was 2019. But worries about onboard policies — and frustration over quarantines — are rising. 
  <p class="updated_time"> 10:27 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-putin-russia.html">In Kazakhstan, Putin Again Seizes on Unrest to Try to Expand Influence</a> NYT: But a series of revolts against a pro-Russian strongman could also plant the seeds of rebellion at home, analysts say. 
  <p class="updated_time"> 10:01 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59903785?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic saga: Australia investigates visas of other tennis players</a> BBC: As Novak Djokovic faces possible deportation, the Australian Open draw is cast into more uncertainty. 
  <p class="updated_time"> 09:15 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59898559?at_medium=RSS&at_campaign=KARANGA">US Capitol attack: Rioters held dagger to the throat of America - Biden</a> BBC: On the anniversary of the Capitol attack, the US president says "the pain and scars" run deep. 
- <p class="updated_time"> 09:13 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Russian troops fly in as crackdown continues</a> BBC: The troops arrive after days of mounting unrest, with both police and protesters reportedly killed. 
  <p class="updated_time"> 09:12 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59903913?at_medium=RSS&at_campaign=KARANGA">How the US marked the Capitol riot anniversary</a> BBC: American lawmakers gathered at the Capitol one year after a mob stormed the building. 
  <p class="updated_time"> 08:53 PM CT, Jan. 06 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59898346?at_medium=RSS&at_campaign=KARANGA">Italy Covid: Bullet forces immunologist to get protection</a> BBC: Prof Antonella Viola is given police protection after threats are made against her and her family. 
  <p class="updated_time"> 12:44 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59885656?at_medium=RSS&at_campaign=KARANGA">Drone helps save cardiac arrest patient in Sweden</a> BBC: A defibrillator delivered by drone helped to keep a 71 year-old man alive. 
- <p class="updated_time"> 12:01 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/travel/coronavirus-cruise-ships-omicron.html">Cruise Ships Are Still Sailing as Cases Rise and Criticism Mounts</a> NYT: One day after the C.D.C. advised against all travel on cruise ships, thousands of cruisers partied like it was 2019. But worries about onboard policies — and frustration over quarantines — are rising. 
  <p class="updated_time"> 11:50 AM CT, Jan. 06 </p> 
  <a href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504">Kazakhstan Protests Have Russia Sending Troops as Dozens Killed in Unrest</a> WSJ: Russia sent paratroopers to help Kazakhstan’s leader stamp out protests fueled by frustration with authoritarian rule in the former Soviet republic. 
  <p class="updated_time"> 11:09 AM CT, Jan. 06 </p> 
