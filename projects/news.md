@@ -34,7 +34,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:16 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59867318?at_medium=RSS&at_campaign=KARANGA">Munich: Edge of War gives Neville Chamberlain a makeover</a> BBC: The Jeremy Irons and George MacKay film re-examines the events leading up to World War Two. 
  <p class="updated_time"> 06:10 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59879762?at_medium=RSS&at_campaign=KARANGA">The tiny state that dared to defy China then wobbled</a> BBC: It stood up to China over Taiwan, but this week Lithuania's president said it made a mistake. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59879762?at_medium=RSS&at_campaign=KARANGA">Lithuania: The European state that dared to defy China then wobbled</a> BBC: It stood up to China over Taiwan, but this week Lithuania's president said it made a mistake. 
  <p class="updated_time"> 06:07 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59649006?at_medium=RSS&at_campaign=KARANGA">Myanmar coup: The doctors and nurses defying the military</a> BBC: Many healthcare workers have refused to work in state hospitals and are now operating underground. 
  <p class="updated_time"> 06:04 PM CT, Jan. 06 </p> 
@@ -342,6 +342,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/chicago-mayor-lightfood-teachers-union-laughingstock-526600">Chicago mayor: Teachers union made us a ‘laughingstock’</a> Politico: As the Omicron variant triggers a new wave of Covid-19 cases, educators in the nation's third-largest school district voted late Tuesday to not report to work. 
  <p class="updated_time"> 08:45 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/jimmy-carter-democracy-jan-6-oped/index.html">Carter warns America 'teeters on the brink of a widening abyss' in stark op-ed ahead of January 6</a> CNN: Former President Jimmy Carter warned Wednesday that democracy is being threatened throughout the country, cautioning that "our great nation now teeters on the brink of a widening abyss." 
+ <p class="updated_time"> 08:34 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/us/politics/cdc-rochelle-walensky-covid-isolation-testing.html">For C.D.C.’s Walensky, a Steep Learning Curve on Messaging</a> NYT: Dr. Rochelle Walensky, the director of the Centers for Disease Control and Prevention, has stumbled in explaining her policy decisions. 
  <p class="updated_time"> 07:44 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/michael-carvajal-bureau-of-prisons-director-retirement/index.html">Bureau of Prisons leader retiring under political pressure from lawmakers seeking his ouster</a> CNN: Federal Bureau of Prisons Director Michael Carvajal is retiring, following months of pressure from some lawmakers seeking his ouster over management issues at the agency. 
  <p class="updated_time"> 07:26 PM CT, Jan. 05 </p> 
