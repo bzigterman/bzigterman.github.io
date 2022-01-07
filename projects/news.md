@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:32 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-beijing-olympics.html">North Korea Says It Will Skip Beijing Olympics Because of the Pandemic</a> NYT: The country also blamed “hostile forces” for its decision not to send a delegation to China, its closest ally. 
  <p class="updated_time"> 08:19 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/australia/how-is-the-south-coast-healing-after-the-fires-and-with-covid.html">How Is the South Coast Healing, After the Fires and With Covid?</a> NYT: A little bit of empathetic momentum can go a long way toward helping people and places heal. 
+ <a href="https://www.nytimes.com/2022/01/06/world/australia/south-coast-fires-covid.html">How Is the South Coast Healing, After the Fires and With Covid?</a> NYT: A little bit of empathetic momentum can go a long way toward helping people and places heal. 
  <p class="updated_time"> 07:19 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59904117?at_medium=RSS&at_campaign=KARANGA">Two arrested after 10 bodies found in car in Mexico</a> BBC: The discovery was made outside a governor's office in the central state of Zacatecas. 
  <p class="updated_time"> 06:35 PM CT, Jan. 06 </p> 
@@ -51,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1071064023/how-western-australia-has-managed-to-avoid-large-covid-19-outbreaks">How Western Australia has managed to avoid large Covid-19 outbreaks</a> NPR: NPR's Ailsa Chang speaks with reporter Jacob Kagi of the Australian Broadcasting Corporation about how Western Australia has managed their COVID-19 numbers throughout the pandemic. 
  <p class="updated_time"> 03:31 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/europe/boris-johnson-ethics-britain-uk.html">Ethics Adviser Rebukes Boris Johnson Over Downing Street Decorations</a> NYT: The adviser said it was “plainly unsatisfactory” that he was not told that Mr. Johnson had petitioned a prominent donor to arrange financing for the makeover of his apartment. 
+ <p class="updated_time"> 03:26 PM CT, Jan. 06 </p> 
+ <a href="https://www.wsj.com/articles/japan-criticizes-u-s-response-after-omicron-spreads-near-american-bases-11641466830">Japan Criticizes U.S. Response After Omicron Spreads Near Bases</a> WSJ: A surge in Covid-19 infections around U.S. military bases in Japan is generating tension between Tokyo and Washington after a loophole in entry rules for American soldiers accelerated the spread of the Omicron variant. 
  <p class="updated_time"> 03:14 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59903152?at_medium=RSS&at_campaign=KARANGA">President's residence gutted as Kazakhstan clashes continue</a> BBC: Security forces in Kazakhstan say they have killed dozens of anti-government rioters in the main city, Almaty. 
  <p class="updated_time"> 03:05 PM CT, Jan. 06 </p> 
@@ -111,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Says It Tested a Hypersonic Missile</a> NYT: It was the latest in a series of tests the North has conducted this fall. 
  <p class="updated_time"> 01:00 AM CT, Jan. 06 </p> 
  <a href="https://www.wsj.com/articles/russias-demands-on-ukraine-must-be-addressed-urgently-russian-official-says-11641470402">Russia's Demands on Ukraine Must Be Addressed Urgently, Russian Official Says</a> WSJ: Ahead of talks with the U.S., Deputy Russian Foreign Minister Sergei Ryabkov warned the Biden administration against using economic pressure. 
- <p class="updated_time"> 12:00 AM CT, Jan. 06 </p> 
- <a href="https://www.wsj.com/articles/japan-criticizes-u-s-response-after-omicron-spreads-near-american-bases-11641466830">Japan Criticizes U.S. Response After Omicron Spreads Near Bases</a> WSJ: A surge in Covid-19 infections around U.S. military bases in Japan is generating tension between Tokyo and Washington after a loophole in entry rules for American soldiers accelerated the spread of the Omicron variant. 
  <p class="updated_time"> 11:10 PM CT, Jan. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59890533?at_medium=RSS&at_campaign=KARANGA">Xi'an: The messy cost of China's Covid lockdown playbook</a> BBC: With stories of starvation and deaths, has anything been learnt from two years of strict measures? 
  <p class="updated_time"> 11:04 PM CT, Jan. 05 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/04/world/europe/tony-blair-knighthood-petition-rescind.html">Petition to Rescind Tony Blair’s Knighthood Gets Hundreds of Thousands of Signatures</a> NYT: Nearly 15 years after he left office, the prime minister’s support for the Iraq war has not been forgiven by many in Britain. 
  <p class="updated_time"> 06:37 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/business/china-evergrande-protests.html">With Property Sales Plunging, China Evergrande Faces More Protests</a> NYT: The developer has tried for months to signal that its $300 billion debt problem was under control. But the challenges keep mounting. 
- <p class="updated_time"> 06:24 AM CT, Jan. 04 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/europe/molenbeek-attack-brussels-paris.html">How This Changing Brussels Neighborhood is Trying to Leave The Stigma of Terrorism Behind</a> NYT: Molenbeek was where a terrorist cell planned attacks that killed 162 in Paris and Brussels. Six years later, residents are trying to reinvent the area as a trial rekindles an awful association. 
  <p class="updated_time"> 04:45 AM CT, Jan. 04 </p> 
  <a href="https://www.nytimes.com/2022/01/04/world/asia/philippines-manila-covid-lockdown.html">Philippines Expands Lockdown for Unvaccinated Around Manila</a> NYT: The new rules bar unvaccinated residents from leaving their homes except for a list of essential reasons. 
 
@@ -188,6 +188,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:50 PM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/trump-capitol-police-lawsuit-january-6/index.html">Capitol Police officer who suffered concussion on January 6 is latest to sue Trump seeking accountability</a> CNN: US Capitol Police Officer Briana Kirkland is suing former President Donald Trump for the physical and emotional pain she endured, including a traumatic brain injury, because of the Capitol insurrection, according to a new filing in DC District Court. 
+ <p class="updated_time"> 08:31 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-lies.html">The Next Big Lies: Jan. 6 Was No Big Deal, or a Left-Wing Plot</a> NYT: How revisionist histories of Jan. 6 picked up where the “stop the steal” campaign left off, warping beliefs about what transpired at the Capitol. 
+ <p class="updated_time"> 08:25 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-trump-jan-6.html">Ignoring Trump Didn’t Work. Biden Goes After ‘a Defeated Former President.’</a> NYT: In a speech marking the anniversary of the Capitol riot, the president confronted Trumpism, even as he refused to utter his predecessor’s name. 
  <p class="updated_time"> 08:02 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/inside-biden-january-6-speech/index.html">Inside Biden's fiery speech and his decision to confront Trump's danger head-on</a> CNN: It was only a little more than a month ago when President Joe Biden, asked about another head-shaking revelation regarding his predecessor, seemed to balk at a mere mention of the man. 
  <p class="updated_time"> 08:01 PM CT, Jan. 06 </p> 
@@ -198,14 +204,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/us/politics/january-6-anniversary-photos.html">At the Capitol, a Day of Somber Remembrance</a> NYT: The anniversary of Jan. 6 was part national commemoration, part group therapy session and part slick production as Democrats marked the deadliest attack on the Capitol in two centuries. 
  <p class="updated_time"> 07:34 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-speech-january-6-transcript.html">Biden’s Speech on the Jan. 6 Riot, Annotated</a> NYT: The president commemorated the anniversary of the attack on the Capitol with an emotional address forcefully denouncing his predecessor. 
- <p class="updated_time"> 07:01 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-trump-jan-6.html">Ignoring Trump Didn’t Work. Biden Goes After ‘a Defeated Former President.’</a> NYT: In a speech marking the anniversary of the Capitol riot, the president confronted Trumpism, even as he refused to utter his predecessor’s name. 
  <p class="updated_time"> 06:59 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/cecilia-martinez-environmental-justice/index.html">Top White House environmental justice official to depart post</a> CNN: The Biden administration's top environmental justice official will step down on Friday, an administration official told CNN. 
  <p class="updated_time"> 06:55 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-jan-6-capitol-attack.html">Biden Holds Trump Responsible in Jan. 6 Speech</a> NYT: President Biden used the anniversary of the Capitol siege to deliver his most sustained and scathing repudiation of Donald J. Trump since taking office. 
- <p class="updated_time"> 06:52 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-lies.html">The Next Big Lies: Jan. 6 Was No Big Deal, or a Left-Wing Plot</a> NYT: How revisionist histories of Jan. 6 picked up where the “stop the steal” campaign left off, warping beliefs about what transpired at the Capitol. 
  <p class="updated_time"> 06:46 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden condemns Trump as a threat to democracy in speech marking one year since January 6 attack</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
  <p class="updated_time"> 06:45 PM CT, Jan. 06 </p> 
@@ -402,8 +404,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/03/new-year-same-to-do-list-for-congress-495569">New Year, same to-do list for Congress</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:05 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/03/dems-to-use-jan-6-anniversary-to-supercharge-voting-rights-push-495565"> Dems to use Jan. 6 anniversary to supercharge voting rights push</a> Politico Playbook: And Biden says the U.S. would 'respond decisively' if Russia invades Ukraine. 
- <p class="updated_time"> 05:02 AM CT, Jan. 03 </p> 
- <a href="https://www.cnn.com/2022/01/02/politics/biden-zelensky-call/index.html">Biden tells Ukrainian President US 'will respond decisively if Russia further invades'</a> CNN: President Joe Biden told Ukrainian President Volodymyr Zelensky on Sunday that the US and its allies "will respond decisively if Russia further invades Ukraine," according to a readout of a call between the two leaders provided by the White House. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/january-6-capitol-riot-house-democrats-525975">‘It’s only gotten worse’: The long shadow of the night that broke the House</a> Politico: For most Democrats, the biggest affront wasn’t even the violence by Donald Trump’s supporters. It was the votes more than 140 of their GOP colleagues took afterward. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
