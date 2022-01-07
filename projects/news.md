@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:59 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-59907964?at_medium=RSS&at_campaign=KARANGA">In pictures: Orthodox Christians celebrate Christmas</a> BBC: Orthodox Christians celebrate Christmas from Moscow to Cairo. 
  <p class="updated_time"> 04:40 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59903785?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic visa: Australia says tennis star not being held captive</a> BBC: The Serb tennis star faces deportation amid a high-profile Covid-related visa controversy. 
+ <p class="updated_time"> 04:35 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59907411?at_medium=RSS&at_campaign=KARANGA">Nelson Mandela's Robben Island cell key returning to South Africa - minister</a> BBC: The key, kept by a former guard, was going to be auctioned in the US until South Africa objected. 
  <p class="updated_time"> 04:22 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">Kazakhstan’s President Says Security Forces Can ‘Fire Without Warning’ to Quell Unrest</a> NYT: President Kassym-Jomart Tokayev said on Friday that “bandits” were responsible for the unrest and must be “destroyed.” He thanked Russia for sending troops to help establish order. 
+ <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">Kazakhstan Protests Lead President to  Crack Down: ‘Fire Without Warning’</a> NYT: President Kassym-Jomart Tokayev said on Friday that “bandits” were responsible for the unrest and must be “destroyed.” He thanked Russia for sending troops to help establish order. 
  <p class="updated_time"> 04:11 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59907235?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Troops ordered to fire without warning</a> BBC: The president orders the crackdown on protests, saying "20,000 bandits" had attacked the main city. 
  <p class="updated_time"> 04:09 AM CT, Jan. 07 </p> 
@@ -65,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59902320?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Djokovic in immigration detention</a> BBC: The BBC's Ros Atkins looks at the twists and turns of the row over the tennis star's cancelled visa. 
  <p class="updated_time"> 04:35 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-defector-dmz.html">North Korea Defector Crosses DMZ Border Twice</a> NYT: Officials say a North Korean who crossed the DMZ in 2020 crossed it again to go back. His life in the South seems to have been one of poverty and isolation. 
- <p class="updated_time"> 04:31 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59898569?at_medium=RSS&at_campaign=KARANGA">Russian submarine hit Royal Navy warship sonar in North Atlantic</a> BBC: The incident was captured by a television crew filming a documentary on board HMS Northumberland. 
  <p class="updated_time"> 04:04 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1071060685/iranian-oscars-entry-a-hero-explores-the-complexity-of-a-good-deed">Iranian Oscars entry 'A Hero' explores the complexity of a good deed</a> NPR: The Iranian film A Hero is about a man who becomes a celebrity after doing a good deed. In filmmaker Asghar Farhadi's hands, what seems to be a black and white morality tale becomes more gray. 
  <p class="updated_time"> 03:54 PM CT, Jan. 06 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/europe/pope-pets-kids.html">Pope Scolds Couples Who Choose Pets Over Kids</a> NYT: Expressing concern about global birthrates, Francis said such couples were acting in a selfish way that diminished humanity. 
  <p class="updated_time"> 01:30 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-59901547?at_medium=RSS&at_campaign=KARANGA">Omicron should not be called mild, warns WHO</a> BBC: The WHO cautions that just like previous variants, Omicron is hospitalising and killing people. 
- <p class="updated_time"> 01:01 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59898346?at_medium=RSS&at_campaign=KARANGA">Italy Covid: Bullet forces immunologist to get protection</a> BBC: Prof Antonella Viola is given police protection after threats are made against her and her family. 
  <p class="updated_time"> 11:17 AM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59881229?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Why world number one is such a polarising player</a> BBC: Novak Djokovic's vaccine exemption situation before the Australian Open is the latest controversy for one of tennis' greatest but most polarising players. 
  <p class="updated_time"> 11:09 AM CT, Jan. 06 </p> 
@@ -190,6 +190,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/covid-testing-staff-shortage-526701">They need to process your Covid tests. Now they’re out sick from Omicron.</a> Politico: While the supply chain for once-scarce equipment remains intact, the sheer demand for testing is stretching sample collection sites and laboratory staff. 
  <p class="updated_time"> 04:30 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/house-intel-mike-turner-trump-526697">House Intel’s next top Republican prepares a sharp turn from the Trump years</a> Politico: Now that ex-Rep. Devin Nunes is gone, lawmakers in both parties are hoping bitter fights can cease as Rep. Mike Turner replaces him. 
+ <p class="updated_time"> 04:14 AM CT, Jan. 07 </p> 
+ <a href="https://www.npr.org/2022/01/07/1071181206/after-30-years-in-the-u-s-house-illinois-rep-bobby-rush-is-leaving">After 30 years in the U.S. House, Illinois Rep. Bobby Rush is leaving</a> NPR: NPR's A Martinez talks with longtime Illinois Democratic Rep. Bobby Rush about his decision to leave Congress, and his expectations for the Democratic party and democracy. 
+ <p class="updated_time"> 04:14 AM CT, Jan. 07 </p> 
+ <a href="https://www.npr.org/2022/01/07/1071181164/morning-news-brief">News brief: COVID tests, vaccine mandate hearing, Jan. 6 events</a> NPR: Rapid COVID-19 tests are in short supply and prices are increasing. The Supreme Court will review two of Biden's vaccine rules for workers. Not many Republicans attended Jan. 6 events on Capitol Hill. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Supreme Court to Hear Challenges to Biden Vaccine Mandates</a> NYT: Challengers say the administration exceeded its authority in requiring vaccines or testing at large employers and mandating vaccines for many health care workers. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
@@ -336,10 +340,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1070849350/sen-hawley-faces-no-real-political-ramifications-back-home-for-jan-6-actions">Sen. Hawley faces no real political ramifications back home for Jan. 6 actions</a> NPR: Sen. Josh Hawley greeted demonstrators on Jan. 6, 2021 and refused to certify election results. In Missouri, Hawley has faced little, if anything, in terms of a political downside for his actions. 
  <p class="updated_time"> 04:15 AM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070849301/morning-news-brief">News brief: Jan. 6 a year later, American extremists, CDC's communication issues</a> NPR: Members of Congress mark the attack on the U.S. Capitol a year ago. Experts monitoring extremist worry the U.S. is in a more dangerous place than a year ago. Examining the CDC's messaging problems. 
- <p class="updated_time"> 04:05 AM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1070856065/china-lashes-out-at-us-for-supporting-lithuania-in-feud-with-beijing-over-taiwan">China lashes out at U.S. for supporting Lithuania in feud with Beijing over Taiwan</a> NPR: China lashed out at the United States over its support for the Baltic nation of Lithuania in its feud with Beijing over relations with Taiwan. 
- <p class="updated_time"> 04:01 AM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1070598403/a-year-after-the-jan-6-attack-congress-is-plagued-by-a-toxic-atmosphere">A year after the Jan. 6 attack, Congress is plagued by a toxic atmosphere</a> NPR: Distrust between the parties is high a year after the violent insurrection. And it has affected how the institution operates. 
  <p class="updated_time"> 08:45 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/jimmy-carter-democracy-jan-6-oped/index.html">Carter warns America 'teeters on the brink of a widening abyss' in stark op-ed ahead of January 6</a> CNN: Former President Jimmy Carter warned Wednesday that democracy is being threatened throughout the country, cautioning that "our great nation now teeters on the brink of a widening abyss." 
  <p class="updated_time"> 07:44 PM CT, Jan. 05 </p> 
