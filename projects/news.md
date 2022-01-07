@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:34 AM CT, Jan. 07 </p> 
+ <p class="updated_time"> 11:49 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court is hearing arguments against President Biden’s vaccine mandates. 
+ <p class="updated_time"> 11:44 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59907931?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Hollywood trailblazer dies aged 94</a> BBC: The US-Bahamian star was the first black man to win a best actor Oscar, and also a humanitarian. 
+ <p class="updated_time"> 11:36 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/sport/africa/59859233?at_medium=RSS&at_campaign=KARANGA">Christine Mboma crowned BBC African Sports Personality of the Year</a> BBC: Christine Mboma, who became the first Namibian woman to win an Olympic medal, is the BBC African Sports Personality of the Year for 2021. 
  <p class="updated_time"> 11:20 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/asia/behind-kazakhstan-unrest-the-strongmans-dilemma.html">Behind Kazakhstan Unrest, the ‘Strongman’s Dilemma’</a> NYT: Since the Cold War’s end, most dictatorial governments have collapsed after their ruler’s departure. 
- <p class="updated_time"> 11:17 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59907931?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Hollywood trailblazer dies aged 94</a> BBC: The Hollywood star was the first black man to win a best actor Oscar, and also a humanitarian. 
+ <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests-strongmen.html">Behind Kazakhstan Unrest, the ‘Strongman’s Dilemma’</a> NYT: Since the Cold War’s end, most dictatorial governments have collapsed after their ruler’s departure. 
  <p class="updated_time"> 11:08 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/australia/moriori-new-zealand.html">Revival for New Zealand's Moriori Nearly Pushed to Cultural Death</a> NYT: The Moriori, whose history of peaceful isolation was shattered by violent subjugation, are fighting to establish themselves as a thriving people alongside the Maori. 
  <p class="updated_time"> 10:54 AM CT, Jan. 07 </p> 
@@ -39,20 +41,20 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/arts/music/einar-sweden-rap.html">After Killing of Einar, Sweden Struggles With 'Gangster Rap'</a> NYT: Hip-hop, the country’s most popular music, has quickly become a lightning rod for Sweden’s long-roiling problems with gun violence and gang warfare. 
  <p class="updated_time"> 07:47 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59906702?at_medium=RSS&at_campaign=KARANGA">Gunfire heard as BBC visits scene of Kazakh clashes</a> BBC: The BBC's Abdujalil Abdurasulov reports from Almaty in the aftermath of violent protests. 
+ <p class="updated_time"> 07:34 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59908217?at_medium=RSS&at_campaign=KARANGA">Simon & Schuster employee denies he stole bestseller manuscripts</a> BBC: The FBI alleges Simon & Schuster employee Filippo Bernardini tried to defraud hundreds of people. 
  <p class="updated_time"> 07:28 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59901366?at_medium=RSS&at_campaign=KARANGA">Instagram blocked hashtag in memory of Iran plane crash victims</a> BBC: The social media giant says it did so by mistake, as families tried to memorialise the 176 victims. 
  <p class="updated_time"> 06:15 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59907235?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Troops ordered to fire without warning</a> BBC: The president orders the crackdown on protests, saying "20,000 bandits" had attacked the main city. 
  <p class="updated_time"> 06:03 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/revenge-recalls-spark-debate-in-taiwan-how-much-democracy-is-too-much-11641558601">'Revenge Recalls' Spark Debate in Taiwan: How Much Democracy Is Too Much?</a> WSJ: Popular referendums and recall elections have some wondering whether Taiwan is too democratic for its own good. Some see benefits for China in elections that “never end.” 
- <p class="updated_time"> 06:01 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/sidney-poitier-who-blazed-a-path-for-black-actors-in-hollywood-has-died-at-94-11641570080">Sidney Poitier, Who Blazed a Path for Black Actors in Hollywood, Has Died</a> WSJ: Sidney Poitier, a Black movie star in the racially charged 1950s and 1960s who became the first Black actor to command top billing and win an Oscar for a leading role, has died. 
+ <p class="updated_time"> 06:00 AM CT, Jan. 07 </p> 
+ <a href="https://www.wsj.com/articles/taiwan-stages-military-drills-to-deter-chinese-aggression-11641574834">Taiwan Stages Military Drills to Deter Chinese Aggression</a> WSJ: Aerial, naval and urban-warfare exercises aim to make China’s People’s Liberation Army ‘think twice,’ a senior Taiwanese officer says. 
  <p class="updated_time"> 05:22 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
  <p class="updated_time"> 05:08 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/nigeria-kidnapping-negotiators-ransom-11641569884">A Kidnapping Negotiator Gets His Biggest Test: Saving His Own Wife</a> WSJ: Abdullahi Tumburkai volunteers his time to help family, friends and neighbors bargain with kidnappers in what has become a crisis of abductions in Nigeria. One negotiation was especially harrowing. 
- <p class="updated_time"> 05:04 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/countries-ditch-restrictions-bet-on-higher-vaccination-rates-to-confront-omicron-11641561349">In Omicron Fight, Highly Vaccinated Israel, U.K. Ditch Some Restrictions</a> WSJ: Israel reopened its borders, the U.K. relaxed travel restrictions and the Biden administration signaled that Americans should accept Covid-19 as a part of daily life. 
  <p class="updated_time"> 04:56 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59907864?at_medium=RSS&at_campaign=KARANGA">Bitcoin prices fall to lowest in months after US Fed remarks</a> BBC: Bitcoin prices tumble amid rumblings from the US banking body and unrest in Kazakhstan. 
  <p class="updated_time"> 04:35 AM CT, Jan. 07 </p> 
@@ -63,24 +65,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/americas/luiza-trajano-brazil-magalu-racism.html">Billionaire’s Star Rises as She Takes Bold Stance on Racism in Brazil</a> NYT: Luiza Trajano turned a small family store into a retail giant. Now, a company policy limiting its executive training program to Black applicants is drawing praise, outrage and much soul-searching. 
  <p class="updated_time"> 03:27 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642">Kazakh Leader Gives Security Forces Order to Shoot Without Warning</a> WSJ: President Kassym-Jomart Tokayev said his government had largely restored order as the country’s security forces scoured for protesters after days of unrest triggered by a fuel-price increase. 
- <p class="updated_time"> 02:53 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/omicron-fuels-u-k-s-biggest-covid-19-surge-but-few-need-ventilators-11641560402">Omicron Fuels U.K.'s Biggest Covid-19 Surge, but Few Need Ventilators</a> WSJ: Despite the surge, the number of people critically ill in hospitals hasn’t increased significantly, a promising sign for countries including the U.S. that are seeing their own rapid run-ups in infections. 
  <p class="updated_time"> 02:39 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071181693/the-leader-of-kazakhstan-says-constitutional-order-mainly-restored-amid-unrest">To quell unrest, Kazakhstan's president authorizes forces to shoot to kill </a> NPR: President Kassym-Jomart Tokayev opened the door for a dramatic escalation in a crackdown on anti-government protests that have turned violent. 
  <p class="updated_time"> 02:28 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/canada/canada-conversion-therapy-law.html">Canadian Law Banning ‘Conversion Therapy’ Set to Go Into Effect</a> NYT: The law, which takes effect on Friday, puts Canada in the company of more than a dozen countries that have banned the widely discredited practice. 
  <p class="updated_time"> 02:11 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59904350?at_medium=RSS&at_campaign=KARANGA">Hong Kong quarantines all 100 guests of scandal-hit birthday party</a> BBC: Hong Kong's immigration chief and home affairs secretary are among those who have been quarantined. 
- <p class="updated_time"> 01:44 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59905339?at_medium=RSS&at_campaign=KARANGA">Covid-19: Indian man has taken at least eight Covid jabs</a> BBC: The 65-year-old villager was vaccinated eight times last year, officials say. But he claims he took 11 jabs. 
  <p class="updated_time"> 01:29 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/global-covid-19-cases-cross-300-million-mark-11641558223">Global Covid-19 Cases Cross 300 Million Mark</a> WSJ: The milestone comes as the U.S. Supreme Court prepared to hold a special session to consider the Biden administration’s vaccine rules for private employers and healthcare workers. 
  <p class="updated_time"> 01:13 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071176670/japan-approves-new-restrictions-for-areas-hard-hit-by-covid">Japan approves new restrictions for areas hard hit by COVID</a> NPR: Japan has undergone periods of similar restrictions over the past two years. This time, the spread of the omicron variant appears to be first hitting prefectures that house the U.S. military. 
  <p class="updated_time"> 12:22 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/eurozone-inflation-hits-new-record-further-pressuring-ecb-11641554526">Eurozone Inflation Hits New Record, Further Pressuring ECB</a> WSJ: The data presents a challenge for the European Central Bank as it strives to persuade households and businesses that inflation will return to its target toward the end of this year without a rise in borrowing costs. 
- <p class="updated_time"> 12:17 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-officials-quarantined-after-covid-19-case-at-tapas-birthday-party-11641554231">Hong Kong Officials Quarantined After Covid-19 Case at Tapas Birthday Party</a> WSJ: Senior civil servants attended the celebration for a China lawmaker as the city fights its first Omicron outbreak, prompting a rebuke from Hong Kong’s chief executive. 
  <p class="updated_time"> 11:49 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59901094?at_medium=RSS&at_campaign=KARANGA">Djokovic stay highlights refugee concerns at Melbourne detention hotel</a> BBC: People held at the detention hotel have complained of mouldy food and poor conditions. 
  <p class="updated_time"> 11:04 PM CT, Jan. 06 </p> 
@@ -103,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59902318?at_medium=RSS&at_campaign=KARANGA">Kashmir's pashminas: bringing women back to lead a beautiful craft</a> BBC: Weaving machinery and decreasing wages have forced many Kashmiri women out of the industry. 
  <p class="updated_time"> 05:36 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/china-xian-lockdown-covid.html">Xi'an Is China's Biggest Covid Challenge Since Wuhan</a> NYT: Xi’an, a city of 13 million people, has been on lockdown since Dec. 22, the longest in the country since the early days of the outbreak in Wuhan. 
- <p class="updated_time"> 05:13 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-59902320?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Djokovic in immigration detention</a> BBC: The BBC's Ros Atkins looks at the twists and turns of the row over the tennis star's cancelled visa. 
  <p class="updated_time"> 04:35 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-defector-dmz.html">North Korea Defector Crosses DMZ Border Twice</a> NYT: Officials say a North Korean who crossed the DMZ in 2020 crossed it again to go back. His life in the South seems to have been one of poverty and isolation. 
  <p class="updated_time"> 04:04 PM CT, Jan. 06 </p> 
@@ -202,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:44 AM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/biden-december-jobs-report/index.html">Biden touts low unemployment rate after US adds fewer jobs in December than expected</a> CNN: President Joe Biden on Friday touted the unemployment rate dropping to 3.9% in December and credited his economic agenda with getting America "back on its feet," despite Friday's job report showing the US economy added fewer jobs than expected last month. 
  <p class="updated_time"> 11:29 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Supreme Court Divided in Major Challenge to Biden’s Virus Plan</a> NYT: The justices seemed to split along familiar ideological lines on whether the administration exceeded its authority in requiring vaccines or testing at large employers. 
  <p class="updated_time"> 11:28 AM CT, Jan. 07 </p> 
@@ -212,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071256532/postal-service-exempt-vaccine-mandate">Postal Service wants its employees to be exempt from the vaccine mandate</a> NPR: With more than 500,000 employees, the post office says complying with the rule would be difficult and could interfere with timely mail deliveries. 
  <p class="updated_time"> 11:00 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/russia-us-ukraine-sanctions/index.html">Biden officials weighing Russia sanctions despite warnings</a> CNN: The Biden administration is still weighing exactly how it would penalize Russia if the country invades Ukraine, as US diplomats are just days away from high-stakes meetings with Kremlin officials. 
- <p class="updated_time"> 10:53 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/biden-december-jobs-report/index.html">Biden touts low unemployment rate after US adds fewer jobs in December than expected</a> CNN: President Joe Biden on Friday touted the unemployment rate dropping to 3.9% in December and credited his economic agenda with getting America "back on its feet," despite Friday's job report showing the US economy added fewer jobs than expected last month. 
  <p class="updated_time"> 10:48 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/us-moroccan-navy-migrant-rescue/index.html">US and Moroccan Navy rescue 103 migrants off African coast</a> CNN: The US and Moroccan navies rescued 103 migrants from two rafts taking on water some 40 miles west of the Moroccan coast late Tuesday night, the US Navy said Friday. 
  <p class="updated_time"> 10:47 AM CT, Jan. 07 </p> 
