@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:18 AM CT, Jan. 07 </p> 
+ <p class="updated_time"> 02:11 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59904350?at_medium=RSS&at_campaign=KARANGA">Hong Kong quarantines all 100 guests of scandal-hit birthday party</a> BBC: Hong Kong's immigration chief and home affairs secretary are among those who have been quarantined. 
+ <p class="updated_time"> 02:05 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Fresh gunfire as president says order largely restored</a> BBC: Tensions remain high in the country's main city as the president says order has been largely restored. 
  <p class="updated_time"> 01:13 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071176670/japan-approves-new-restrictions-for-areas-hard-hit-by-covid">Japan approves new restrictions for areas hard hit by COVID</a> NPR: Japan has undergone periods of similar restrictions over the past two years. This time, the spread of the omicron variant appears to be first hitting prefectures that house the U.S. military. 
- <p class="updated_time"> 12:52 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59900037?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Russian troops fly in as crackdown continues</a> BBC: Authorities say both police and protesters have died in unrest sparked by a fuel price rise. 
  <p class="updated_time"> 12:47 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59903785?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic saga: Australia investigates visas of other tennis players</a> BBC: As Novak Djokovic faces possible deportation, the Australian Open draw is cast into more uncertainty. 
  <p class="updated_time"> 11:49 PM CT, Jan. 06 </p> 
@@ -334,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/nyregion/hochul-policy-agenda-ny.html">Kathy Hochul's Speech Is a Road Map to the Campaign That Lies Ahead</a> NYT: Gov. Kathy Hochul sought to exude decisiveness in crisis, previewing her efforts to run as the steady-hand candidate as she seeks her first full term. 
  <p class="updated_time"> 04:00 AM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070736018/jan-6-anniversary-investigation-cases-defendants-justice">Where the Jan. 6 insurrection investigation stands, one year later</a> NPR: Officials say the probe is one of the largest and most resource-intensive investigations in American history. More than 700 people have been charged already. 
- <p class="updated_time"> 02:00 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-riot-aftermath.html">A Year Later, Jan. 6 Becomes Just Another Wedge in a Divided Nation</a> NYT: The nearly universal outrage after the assault on the Capitol has reverted to separate blue and red realities, and former President Donald J. Trump has remained the dominant force in his party. 
  <p class="updated_time"> 10:31 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/chicago-mayor-lightfood-teachers-union-laughingstock-526600">Chicago mayor: Teachers union made us a ‘laughingstock’</a> Politico: As the Omicron variant triggers a new wave of Covid-19 cases, educators in the nation's third-largest school district voted late Tuesday to not report to work. 
  <p class="updated_time"> 08:45 PM CT, Jan. 05 </p> 
