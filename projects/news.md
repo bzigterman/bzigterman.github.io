@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:12 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
+ <p class="updated_time"> 04:05 PM CT, Jan. 07 </p> 
+ <a href="https://www.npr.org/2022/01/07/1071409717/many-in-iraq-regard-women-riding-bikes-as-promiscuous-some-women-see-it-as-activ">Many in Iraq regard women riding bikes as promiscuous. Some women see it as activism</a> NPR: For some women in Iraq, learning to ride bikes is a way of finding freedom from confining social restrictions. 
  <p class="updated_time"> 03:59 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/africa/jawar-mohammed-release-ethiopia.html">Jawar Mohammed to Be Released From Prison by Ethiopian President</a> NYT: Prime Minister Abiy Ahmed declared the amnesty on Orthodox Christmas and offered to start a dialogue with some opponents after 14 months of war. 
  <p class="updated_time"> 03:58 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court heard arguments against President Biden’s vaccine mandates. 
- <p class="updated_time"> 03:58 PM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071409661/in-remote-honduras-institutions-are-permeated-by-organized-drug-crime">In remote Honduras, institutions are permeated by organized drug crime</a> NPR: NPR's Audie Cornish speaks with veteran journalist Carlos Dada, founder of El Faro newspaper, about his latest reporting from Honduras. 
+ <a href="https://www.npr.org/2022/01/07/1071409661/in-remote-honduras-institutions-are-permeated-by-organized-drug-crime">Institutions in remote Honduras are permeated by organized drug crime</a> NPR: NPR's Audie Cornish speaks with veteran journalist Carlos Dada, founder of El Faro newspaper, about his latest reporting from Honduras. 
  <p class="updated_time"> 03:57 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/sports/olympics/alysa-liu-coronavirus.html">Alysa LiuAly Will Miss National Championships After Positive Coronavirus Test</a> NYT: The teenager had hoped a strong showing would secure her a spot on the U.S. team for the Beijing Winter Olympics next month. 
  <p class="updated_time"> 03:53 PM CT, Jan. 07 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1071064023/how-western-australia-has-managed-to-avoid-large-covid-19-outbreaks">How Western Australia has managed to avoid large Covid-19 outbreaks</a> NPR: NPR's Ailsa Chang speaks with reporter Jacob Kagi of the Australian Broadcasting Corporation about how Western Australia has managed their COVID-19 numbers throughout the pandemic. 
  <p class="updated_time"> 03:31 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/europe/boris-johnson-ethics-britain-uk.html">Ethics Adviser Rebukes Boris Johnson Over Downing Street Decorations</a> NYT: The adviser said it was “plainly unsatisfactory” that he was not told that Mr. Johnson had petitioned a prominent donor to arrange financing for the makeover of his apartment. 
- <p class="updated_time"> 03:05 PM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/01/06/1069872384/for-many-afghans-winter-is-forcing-a-cruel-choice-of-whether-to-eat-or-stay-warm">For many Afghans, winter is forcing a cruel choice of whether to eat or stay warm</a> NPR: "It shouldn't be a lottery of life about who gets to eat, who doesn't get to eat. Do I keep my child warm or do I give my child food?" a World Food Programme Afghanistan spokesperson tells NPR. 
  <p class="updated_time"> 02:43 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/arts/design/met-museum-african-origin-exhibit.html">In ‘African Origin’ Show at Met, New Points of Light Across Cultures</a> NYT: Holdings from Ancient Egypt and sub-Saharan Africa come together in a masterpiece show. Now the Met should make clear how the wondrous works got here. 
  <p class="updated_time"> 02:12 PM CT, Jan. 06 </p> 
@@ -200,8 +200,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:56 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 04:20 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/bidens-colorado-wildfire/index.html">Bidens to tour damage from massive Colorado wildfire</a> CNN: President Joe Biden and first lady Jill Biden are scheduled to travel to Colorado on Friday to meet with families who were affected by a recent massive wildfire that destroyed hundreds of homes and thousands of acres. 
+ <p class="updated_time"> 04:09 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/lani-guinier-dead.html">Lani Guinier, Legal Scholar at the Center of Controversy, Dies at 71</a> NYT: President Bill Clinton pulled her nomination as assistant attorney general in 1993 after she came under criticism for her views on voting rights. 
+ <p class="updated_time"> 04:07 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/federal-rental-assistance-evictions.html">Federal Rental Assistance Is Running Out, With Tenants Still in Need</a> NYT: An announcement from the Treasury Department on Friday revealed that there was less money available for renters than some states had hoped. 
+ <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
  <p class="updated_time"> 03:18 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/arbery-killers-get-life-in-prison-no-parole-for-father-son-526754">Arbery killers get life in prison; no parole for father, son</a> Politico: In November, a jury convicted all three defendants of murder, aggravated assault, false imprisonment and attempted false imprisonment. 
  <p class="updated_time"> 03:17 PM CT, Jan. 07 </p> 
@@ -243,8 +249,6 @@ permalink: /projects/news/
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Conservative Majority on Supreme Court Appears Skeptical of Biden’s Virus Plan</a> NYT: The court seemed more likely to sustain a separate requirement that health care workers at facilities that receive federal money be vaccinated. 
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
- <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
  <p class="updated_time"> 12:52 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071304780/supreme-court-arguments-biden-vaccine-testing-regulation">Supreme Court conservatives seem skeptical of vaccine-or-test mandate for businesses</a> NPR: Business groups, 27 states and some individuals have questioned the authority of the Occupational Safety and Health Administration to impose a nationwide rule. 
@@ -270,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/scotus-vaccine-mandate-omicron-covid-526711">Biden’s federal vaccine mandate for workplace in trouble at Supreme Court</a> Politico: The pair of requirements, which would affect tens of millions of workers, have been in legal limbo since agencies published them last year. 
  <p class="updated_time"> 08:37 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-trump-jan-6.html">Ignoring Trump Didn’t Work. Biden Goes After ‘a Defeated Former President.’</a> NYT: In a speech marking the anniversary of the Capitol riot, the president confronted Trumpism, even as he refused to utter his predecessor’s name. 
- <p class="updated_time"> 08:15 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/bidens-colorado-wildfire/index.html">Bidens to tour damage from massive Colorado wildfire</a> CNN: President Joe Biden and first lady Jill Biden are scheduled to travel to Colorado on Friday to meet with families who were affected by a recent massive wildfire that destroyed hundreds of homes and thousands of acres. 
  <p class="updated_time"> 08:00 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/mark-kelly-9-million-fourth-quarter-arizona/index.html">Sen. Mark Kelly raises nearly $9 million in final three months of 2021</a> CNN: Sen. Mark Kelly raised nearly $9 million in the final three months of 2021, a figure that surpasses what he raised in the previous three months and positions the Arizona Democrat to be one of the best funded candidates in the 2022 midterms. 
  <p class="updated_time"> 07:54 AM CT, Jan. 07 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1070763913/kicked-off-facebook-and-twitter-far-right-groups-lose-online-clout">Kicked off Facebook and Twitter, far-right groups lose online clout</a> NPR: In the year since the January 6th Capitol attack, far-right influencers and extremists are taking new approaches to organizing online. 
  <p class="updated_time"> 02:27 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/cheneys-jan-6.html">Cheneys Welcomed Warmly by Democrats at Jan. 6 Event</a> NYT: “The future of the country is at stake, and there are moments when we all have to come together in order to defend the Constitution,” Representative Liz Cheney, Republican of Wyoming, said. 
- <p class="updated_time"> 02:09 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/i-texted-my-editor-guns-drawn-times-reporters-discuss-their-experiences-inside-the-capitol-on-jan-6.html">Times Reporters Discuss Their Experiences Inside the Capitol on Jan. 6</a> NYT: Focused on the counting of electoral votes, those inside the building didn’t fully grasp how bad things had gotten outside until it was too late. 
  <p class="updated_time"> 12:40 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070924133/how-dan-bongino-is-building-a-right-wing-media-infrastructure-in-time-for-2024">How Dan Bongino is building a right-wing media infrastructure in time for 2024</a> NPR: New Yorker writer Evan Osnos says no one in media has profited more from the Trump era than Bongino, who hosts the country's fourth most listened to radio show and has 8.5 million weekly listeners. 
  <p class="updated_time"> 12:39 PM CT, Jan. 06 </p> 
