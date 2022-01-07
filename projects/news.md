@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:49 AM CT, Jan. 07 </p> 
+ <p class="updated_time"> 12:01 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: Some cases were found in children admitted for reasons aside from Covid. The Supreme Court is hearing arguments against President Biden’s vaccine mandates. 
- <p class="updated_time"> 11:44 AM CT, Jan. 07 </p> 
+ <p class="updated_time"> 11:59 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59907931?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Hollywood trailblazer dies aged 94</a> BBC: The US-Bahamian star was the first black man to win a best actor Oscar, and also a humanitarian. 
+ <p class="updated_time"> 11:57 AM CT, Jan. 07 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2022/01/07/1071101792/photos-scenes-kazakhstan-protests-crackdown">Photos: Dramatic scenes from Kazakhstan's massive protests and crackdown</a> NPR: Here are some of the images of the unrest this week in the former Soviet republic of Kazakhstan, where the authoritarian government is fighting to quash large public protests. 
+ <p class="updated_time"> 11:56 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59910842?at_medium=RSS&at_campaign=KARANGA">Omicron: Huge number of Covid cases on second Italy-India flight</a> BBC: Majority of passengers on two flights from Italy to Amritsar in India test positive for Covid-19. 
+ <p class="updated_time"> 11:43 AM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59912361?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Killed jogger's murderers face life in prison</a> BBC: Three white men will be sentenced on Friday after they were convicted of killing the black jogger. 
  <p class="updated_time"> 11:36 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/sport/africa/59859233?at_medium=RSS&at_campaign=KARANGA">Christine Mboma crowned BBC African Sports Personality of the Year</a> BBC: Christine Mboma, who became the first Namibian woman to win an Olympic medal, is the BBC African Sports Personality of the Year for 2021. 
  <p class="updated_time"> 11:20 AM CT, Jan. 07 </p> 
@@ -57,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/nigeria-kidnapping-negotiators-ransom-11641569884">A Kidnapping Negotiator Gets His Biggest Test: Saving His Own Wife</a> WSJ: Abdullahi Tumburkai volunteers his time to help family, friends and neighbors bargain with kidnappers in what has become a crisis of abductions in Nigeria. One negotiation was especially harrowing. 
  <p class="updated_time"> 04:56 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59907864?at_medium=RSS&at_campaign=KARANGA">Bitcoin prices fall to lowest in months after US Fed remarks</a> BBC: Bitcoin prices tumble amid rumblings from the US banking body and unrest in Kazakhstan. 
- <p class="updated_time"> 04:35 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59907411?at_medium=RSS&at_campaign=KARANGA">Nelson Mandela's Robben Island cell key returning to South Africa - minister</a> BBC: The key, kept by a former guard, was going to be auctioned in the US until South Africa objected. 
  <p class="updated_time"> 04:09 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071188267/chinese-anti-virus-lockdowns-add-to-concerns-over-economy">Chinese anti-virus lockdowns add to concerns over economy</a> NPR: China's lockdowns of big cities to fight coronavirus outbreaks are prompting concern about more disruptions to global industries after two makers of processor chips said their factories were affected. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
@@ -87,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-beijing-olympics.html">North Korea Says It Will Skip Beijing Olympics Because of the Pandemic</a> NYT: The country also blamed “hostile forces” for its decision not to send a delegation to China, its closest ally. 
  <p class="updated_time"> 08:19 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/south-coast-fires-covid.html">How Is the South Coast Healing, After the Fires and With Covid?</a> NYT: A little bit of empathetic momentum can go a long way toward helping people and places heal. 
- <p class="updated_time"> 07:19 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59904117?at_medium=RSS&at_campaign=KARANGA">Two arrested after 10 bodies found in car in Mexico</a> BBC: The discovery was made outside a governor's office in the central state of Zacatecas. 
  <p class="updated_time"> 06:16 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59867318?at_medium=RSS&at_campaign=KARANGA">Munich: Edge of War gives Neville Chamberlain a makeover</a> BBC: The Jeremy Irons and George MacKay film re-examines the events leading up to World War Two. 
  <p class="updated_time"> 06:10 PM CT, Jan. 06 </p> 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/americas/rio-carnival-parties-parade-brazil.html">Rio Cancels Carnival Street Parties but Keeps Parade</a> NYT: As the Omicron variant sweeps the globe, the parties in Rio de Janeiro, which ordinarily draw millions of revelers, have been called off for a second year. 
  <p class="updated_time"> 03:35 PM CT, Jan. 05 </p> 
  <a href="https://www.npr.org/2022/01/05/1070700656/reigning-australian-open-mens-champion-denied-entry-into-australia-to-defend-tit">Reigning Australian Open men's champion denied entry into Australia to defend title</a> NPR: The reigning Australian Open men's champion Novak Djokovic — who is famously skeptical about the COVID vaccine and received a medical exemption from being vaccinated — was not admitted to the country. 
- <p class="updated_time"> 03:35 PM CT, Jan. 05 </p> 
- <a href="https://www.npr.org/2022/01/05/1069791114/afghanistan-girls-soccer-refugees-portugal">An Afghan girls soccer team rebelled to play the game they love. Now they're refugees</a> NPR: The teenagers on the Afghan girls national soccer team lean on each other as they adjust to a new life in Portugal, where they fled after the Taliban takeover of Afghanistan. 
  <p class="updated_time"> 02:10 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/britain-same-sex-pardon.html">Britain Extends Pardons Policy for Consensual Same-Sex Partners</a> NYT: The government’s action expands earlier legislative efforts, but for some gay people it is too little, too late. “It impacted me my whole life,” one man said of his conviction. 
  <p class="updated_time"> 01:51 PM CT, Jan. 05 </p> 
@@ -196,10 +196,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:57 AM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/state-of-the-union-biden-pelosi/index.html">Pelosi invites Biden to give State of the Union speech on March 1</a> CNN: House Speaker Nancy Pelosi on Friday asked President Joe Biden to deliver the annual State of the Union address to Congress on March 1. 
+ <p class="updated_time"> 11:53 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Supreme Court Divided in Major Challenge to Biden’s Virus Plan</a> NYT: The justices seemed to split along familiar ideological lines on whether the administration exceeded its authority in requiring vaccines or testing at large employers. 
  <p class="updated_time"> 11:44 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/biden-december-jobs-report/index.html">Biden touts low unemployment rate after US adds fewer jobs in December than expected</a> CNN: President Joe Biden on Friday touted the unemployment rate dropping to 3.9% in December and credited his economic agenda with getting America "back on its feet," despite Friday's job report showing the US economy added fewer jobs than expected last month. 
- <p class="updated_time"> 11:29 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Supreme Court Divided in Major Challenge to Biden’s Virus Plan</a> NYT: The justices seemed to split along familiar ideological lines on whether the administration exceeded its authority in requiring vaccines or testing at large employers. 
  <p class="updated_time"> 11:28 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/oscar-winner-and-groundbreaking-star-sidney-poitier-dies-526735">Oscar winner and groundbreaking star Sidney Poitier dies</a> Politico: Sidney Poitier, the groundbreaking actor who transformed how Black people were portrayed on screen, has died. He was 94. 
  <p class="updated_time"> 11:19 AM CT, Jan. 07 </p> 
@@ -398,8 +400,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/manchin-biden-spending-bill-negotiation-526486">Manchin on Biden's spending bill: 'No negotiation going on'</a> Politico: The West Virginia senator thinks Democrats would be better off focusing on climate provisions in their wide-ranging megabill. 
  <p class="updated_time"> 12:47 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/omicron-ontario-canada-covid-restrictions-526484">As Covid policies divide America, Ontario doubles down (again)</a> Politico: The latest Covid shutdowns test the trust of the jabbed and boosted in Canada’s most populous province. 
- <p class="updated_time"> 12:00 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/mitch-landrieu-letter-to-governors-infrastructure/index.html">Biden's infrastructure czar urges governors to appoint their own infrastructure implementation coordinators</a> CNN: President Joe Biden's infrastructure czar Mitch Landrieu sent letters to all the nation's governors on Tuesday urging them to appoint their own infrastructure implementation coordinators to smooth the rollout of the $1.2 trillion law. 
  <p class="updated_time"> 10:46 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/ruben-gallego-merrick-garland-capitol-attack-526480">Gallego: Garland 'extremely weak' on Jan. 6 cases</a> Politico: The Arizona Democrat also directed his ire at GOP lawmakers who he accused of trying to shield Jan. 6 rioters. 
  <p class="updated_time"> 07:51 AM CT, Jan. 04 </p> 
