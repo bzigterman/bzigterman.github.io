@@ -184,6 +184,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:59 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/ted-cruz-jan-6-terrorist-tucker-carlson-526725">Ted Cruz walks back Jan. 6 'terrorist' remark in heated exchange with Tucker Carlson</a> Politico: The senator brushed off his previous phrasing as “sloppy” and “frankly dumb.” 
+ <p class="updated_time"> 10:51 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/business/economy/richard-clarida-fed-stock-fund.html">A Fed Official’s 2020 Trade Drew Outcry. It Went Further Than First Disclosed.</a> NYT: Corrected disclosures show that Vice Chair Richard H. Clarida sold a stock fund, then swiftly repurchased it before a big Fed announcement. 
+ <p class="updated_time"> 10:50 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-memorial.html">One Year Later, Congress Weighs How to Memorialize Jan. 6 at the Capitol</a> NYT: In a building that is both a legislative body and a living museum, lawmakers are grappling with how to commemorate an attack whose victims cannot agree on the basic facts of the day. 
+ <p class="updated_time"> 10:35 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-jan-6-capitol-attack.html">Biden Holds Trump Responsible in Jan. 6 Speech</a> NYT: President Biden used the anniversary of the Capitol siege to deliver his most sustained and scathing repudiation of Donald J. Trump since taking office. 
+ <p class="updated_time"> 10:25 PM CT, Jan. 06 </p> 
+ <a href="https://www.cnn.com/2022/01/06/politics/january-6-investigation-criminal-activity-trump/index.html">January 6 investigators don't rule out concluding Trump's actions constituted a crime</a> CNN: Reps. Bennie Thompson and Liz Cheney, chair and vice chair of the House select committee investigating the January 6 insurrection, are not ruling out the possibility of concluding that the actions of former President Donald Trump and some of his associates constituted a crime. 
  <p class="updated_time"> 08:50 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/trump-capitol-police-lawsuit-january-6/index.html">Capitol Police officer who suffered concussion on January 6 is latest to sue Trump seeking accountability</a> CNN: US Capitol Police Officer Briana Kirkland is suing former President Donald Trump for the physical and emotional pain she endured, including a traumatic brain injury, because of the Capitol insurrection, according to a new filing in DC District Court. 
  <p class="updated_time"> 08:31 PM CT, Jan. 06 </p> 
@@ -202,8 +210,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-speech-january-6-transcript.html">Biden’s Speech on the Jan. 6 Riot, Annotated</a> NYT: The president commemorated the anniversary of the attack on the Capitol with an emotional address forcefully denouncing his predecessor. 
  <p class="updated_time"> 06:59 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/cecilia-martinez-environmental-justice/index.html">Top White House environmental justice official to depart post</a> CNN: The Biden administration's top environmental justice official will step down on Friday, an administration official told CNN. 
- <p class="updated_time"> 06:55 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-jan-6-capitol-attack.html">Biden Holds Trump Responsible in Jan. 6 Speech</a> NYT: President Biden used the anniversary of the Capitol siege to deliver his most sustained and scathing repudiation of Donald J. Trump since taking office. 
  <p class="updated_time"> 06:46 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden condemns Trump as a threat to democracy in speech marking one year since January 6 attack</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
  <p class="updated_time"> 06:45 PM CT, Jan. 06 </p> 
@@ -212,7 +218,7 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/06/politics/dhs-online-threats-extremist-platforms-48-hours/index.html">DHS warns online threats have increased on extremist platforms over past 48 hours with some against lawmakers</a> CNN: There has been an increase in online extremist content in the past 48 hours, including threats to lawmakers and the President, according to a Department of Homeland Security intelligence memo obtained by CNN. 
  <p class="updated_time"> 06:20 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/capitol-rioter-jamaican-vacation-denied/index.html">Judge slams US Capitol rioter's request to take Jamaican vacation</a> CNN: A federal judge colorfully rejected a US Capitol riot defendant's request for a 10-day getaway in Jamaica on Thursday, the one-year anniversary of the attack on the Capitol. 
- <p class="updated_time"> 06:05 PM CT, Jan. 06 </p> 
+ <p class="updated_time"> 06:06 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/republicans-jan-6-observances.html">Republicans Avoid Jan. 6 Observances at the Capitol</a> NYT: Elected Republicans stayed away from the Capitol during a day of solemn remembrance on the anniversary of the attack carried out by supporters of former President Donald J. Trump. 
  <p class="updated_time"> 06:04 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/former-biden-advisers-pandemic-strategy.html">Former Biden Advisers Urge a Pandemic Strategy for the ‘New Normal’</a> NYT: In a striking critique, six prominent health experts who advised President Biden’s transition team called for an entirely new domestic coronavirus strategy. 
@@ -266,12 +272,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1070924133/how-dan-bongino-is-building-a-right-wing-media-infrastructure-in-time-for-2024">How Dan Bongino is building a right-wing media infrastructure in time for 2024</a> NPR: New Yorker writer Evan Osnos says no one in media has profited more from the Trump era than Bongino, who hosts the country's fourth most listened to radio show and has 8.5 million weekly listeners. 
  <p class="updated_time"> 12:39 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/harris-hires-a-new-comms-director-jamal-simmons-526626">Harris hires a new comms director, Jamal Simmons</a> Politico: The longtime Democratic operative is a big name. He comes to a staff that's been losing talent. 
- <p class="updated_time"> 12:34 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/jan-6-capitol-memorial.html">One Year Later, Congress Weighs How to Memorialize Jan. 6 at the Capitol</a> NYT: In a building that is both a legislative body and a living museum, lawmakers are grappling with how to commemorate an attack whose victims cannot agree on the basic facts of the day. 
  <p class="updated_time"> 12:15 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/blinken-urges-peaceful-resolution-amid-chaos-in-kazakhstan-526615">U.S. Embassy ramps up security as officials urge calm in Kazakhstan</a> Politico: The Biden administration also raised questions about a Russian-led military alliance’s role in the country rocked by protests. 
- <p class="updated_time"> 12:05 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/business/economy/richard-clarida-fed-stock-fund.html">A Fed Official’s 2020 Trade Drew Outcry. It Went Further Than First Disclosed.</a> NYT: Corrected disclosures show that Vice Chair Richard H. Clarida sold a stock fund, then swiftly repurchased it before a big Fed announcement. 
  <p class="updated_time"> 12:04 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/former-administration-officials-block-trump-526623">Ex-Trumpers set to plot how to try and take down Trump</a> Politico: Those involved include Stephanie Grisham, Miles Taylor, Olivia Troye and Anthony Scaramucci. 
  <p class="updated_time"> 11:59 AM CT, Jan. 06 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/06/politics/stephanie-grisham-trump-officials-meeting-cnntv/index.html">Stephanie Grisham says group of ex-Trump officials to meet next week to discuss how to 'stop' him</a> CNN: Former White House press secretary Stephanie Grisham said Thursday that more than a dozen of her former Trump administration colleagues plan to meet next week to try and stop former President Donald Trump as he continues to "manipulate people and divide our country." 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/06/a-year-later-the-hill-is-no-longer-the-safest-place-495624">A year later, the Hill ‘is no longer the safest place'</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:46 AM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/cheney-pence-january-6/index.html">Cheney said the January 6 committee 'looks forward to' cooperation from Pence and his team</a> CNN: Rep. Liz Cheney, the vice chairwoman of the House select committee investigating the January 6 insurrection, said Thursday she is looking forward to Vice President Mike Pence's cooperation and his team "continuing" their cooperation in the panel's investigation. 
  <p class="updated_time"> 07:32 AM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/facebook-lawsuit-slain-officer/index.html">Sister of slain federal officer sues Facebook, accusing social media company of promoting violent content and connecting alleged killers online   </a> CNN: Facebook is the target of a new lawsuit from the sister of a slain federal officer who claims the tech giant's algorithms and drive for revenue played an active role encouraging her brother's alleged killers. 
  <p class="updated_time"> 07:23 AM CT, Jan. 06 </p> 
