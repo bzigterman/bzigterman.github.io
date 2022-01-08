@@ -40,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:00 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/canada/blackberry-phone-service-ends.html">BlackBerry Phone Service Officially Ends</a> NYT: BlackBerry was once Canada’s most valuable company and a global force in tech. The final step in its downfall as a phone maker arrived this week. 
  <p class="updated_time"> 04:26 AM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/2022/01/08/1071534483/djokovics-lawyers-say-he-had-covid-last-month-according-to-report">Djokovic's lawyers say he had COVID last month, according to report</a> NPR: If he fails to have his visa cancellation overturned and gets deported, Djokovic risks missing more than one Australian Open and could be barred for up to three years. 
+ <a href="https://www.npr.org/2022/01/08/1071534483/djokovics-lawyers-say-he-had-covid-last-month-according-to-report">Djokovic's lawyers say he had COVID last month, grounds for vaccination exemption</a> NPR: If he fails to have his visa cancellation overturned and gets deported, Novak Djokovic risks missing more than one Australian Open and could be barred for up to three years. 
  <p class="updated_time"> 04:01 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071198056/theres-chaos-in-kazakhstan-heres-what-you-need-to-know">There's chaos in Kazakhstan. Here's what you need to know</a> NPR: A New Year's Day doubling of gas prices sent shock waves through the country, sparking deadly unrest that has engulfed the Central Asian nation. But the origins of discontent run much deeper. 
  <p class="updated_time"> 04:00 AM CT, Jan. 08 </p> 
