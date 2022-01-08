@@ -66,7 +66,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:31 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59920213?at_medium=RSS&at_campaign=KARANGA">India restores foreign funding permit for Mother Teresa charity</a> BBC: The charity's license was revoked at Christmas, in the wake of accusations it was trying to convert Indians. 
  <p class="updated_time"> 02:10 AM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/world/europe/coronavirus-omicron-biden-boris-johnson.html">How Biden and Boris Johnson Reached the Same Place on Virus Policy</a> NYT: Two different leaders with differing approaches landed on a policy of coexisting with the virus. Analysts say they had little choice. 
+ <a href="https://www.nytimes.com/2022/01/08/world/europe/biden-boris-johnson-coronavirus-omicron.html">How Biden and Boris Johnson Reached the Same Place on Virus Policy</a> NYT: Two different leaders with differing approaches landed on a policy of coexisting with the virus. Analysts say they had little choice. 
  <p class="updated_time"> 02:00 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1070512969/us-missile-defense-thaad-south-korea-north-korea-china">A South Korean village is protesting U.S. plans for THAAD missile defense upgrades</a> NPR: The potential upgrade at a U.S. air defense base, within range of missiles in North Korea and China, has residents concerned as Seoul walks a delicate balancing act between the rival powers. 
  <p class="updated_time"> 01:54 AM CT, Jan. 08 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:41 PM CT, Jan. 08 </p> 
+ <a href="https://www.politico.com/news/2022/01/08/senate-minority-whip-john-thune-to-run-for-reelection-526794">Senate Minority Whip John Thune to run for reelection</a> Politico: The 61-year-old South Dakotan is widely viewed as a potential successor to Senate Minority Leader Mitch McConnell 
  <p class="updated_time"> 10:57 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/us/politics/us-sanctions-russia-ukraine.html">U.S. Details Possible Sanctions on Russia Over a Ukraine Invasion</a> NYT: The Biden administration and its allies are developing new possible sanctions ahead of a series of meetings to defuse the crisis with Moscow. 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
@@ -450,8 +452,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/bennie-thompson-jan-6-526357">Members of Congress interacted with Jan. 6 rioters, Rep. Thompson says</a> Politico: But it’s not clear how extensive or significant those interactions were. 
  <p class="updated_time"> 11:15 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/02/4-startling-polls-you-should-read-about-jan-6-495559"> 4 startling polls you should read about Jan. 6</a> Politico Playbook: And millions are getting ready to head back to work and school Monday despite the Omicron surge 
- <p class="updated_time"> 11:06 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/cheney-trump-threat-democracy-526356">Liz Cheney on Trump: He’s a threat to American democracy</a> Politico: “He crossed lines no American president has ever crossed before,” she said. 
 
 
 </details>
