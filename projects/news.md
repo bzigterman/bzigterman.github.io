@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:44 PM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/us/politics/john-thune-senate-re-election.html">John Thune, No. 2 Senate Republican, Will Seek Re-election</a> NYT: The three-term South Dakotan had considered retiring because of family concerns and the continuing grip of former President Donald J. Trump on the Republican Party. 
  <p class="updated_time"> 01:09 PM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/john-thune-reelection-south-dakota/index.html">Sen. John Thune announces he will run for re-election</a> CNN: South Dakota Sen. John Thune, the No. 2 Republican in the Senate, announced Saturday he is running for re-election in 2022. 
  <p class="updated_time"> 12:41 PM CT, Jan. 08 </p> 
@@ -212,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1066855802/john-thune-senate-reelection">John Thune, No. 2 Senate GOP leader, announces he will seek reelection</a> NPR: The South Dakota Republican, a likely successor to Republican leader Mitch McConnell, says he will run for reelection in 2022, putting an end to the speculation about his political future. 
  <p class="updated_time"> 12:08 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/business/teslas-computer-chips-supply-chain.html">Why Tesla Soared as Other Automakers Struggled to Make Cars</a> NYT: The yawning disparity between the performance of the electric car company and established automakers last year reflects the technological change roiling the industry. 
- <p class="updated_time"> 12:02 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/john-thune-senate-re-election.html">John Thune, No. 2 Senate Republican, Will Seek Re-election</a> NYT: The three-term South Dakotan had considered retiring because of family concerns and the continuing grip of former President Donald J. Trump on the Republican Party. 
  <p class="updated_time"> 12:00 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/us/politics/biden-nominees-senate-confirmation.html">Hundreds of Biden Nominees Stuck in Senate Limbo Amid G.O.P. Blockade</a> NYT: A year into his term, only 41 percent of the president’s nominees for Senate-confirmed posts have been approved, a new analysis finds, the worst rate in decades. 
  <p class="updated_time"> 11:48 AM CT, Jan. 08 </p> 
