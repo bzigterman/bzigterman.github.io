@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:46 AM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59920215?at_medium=RSS&at_campaign=KARANGA">Pakistan: Many dead as heavy snow traps drivers in their vehicles</a> BBC: Some 1,000 vehicles were trapped during a blizzard in the town of Murree, the interior minister says. 
+ <p class="updated_time"> 04:43 AM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59920379?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Having Covid gave tennis star vaccine exemption - lawyers</a> BBC: Novak Djokovic's lawyers say a positive test on 16 December allows the tennis star entry to Australia. 
  <p class="updated_time"> 04:26 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071534483/djokovics-lawyers-say-he-had-covid-last-month-according-to-report">Djokovic's lawyers say he had COVID last month, according to report</a> NPR: If he fails to have his visa cancellation overturned and gets deported, Djokovic risks missing more than one Australian Open and could be barred for up to three years. 
  <p class="updated_time"> 04:01 AM CT, Jan. 08 </p> 
@@ -15,10 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/asia/india-weddings-south.html">The New Weddings in India’s South: ‘Expect Some Magic’</a> NYT: Couples are creating ever more elaborate ceremonies, drawing inspiration from social media trends that blur the nation’s religious and cultural lines. 
  <p class="updated_time"> 04:00 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/business/teslas-computer-chips-supply-chain.html">Why Tesla Soared as Other Automakers Struggled to Make Cars</a> NYT: The yawning disparity between the performance of the electric car company and established automakers last year reflects the technological change roiling the industry. 
- <p class="updated_time"> 03:46 AM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59920379?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Having Covid gave tennis star vaccine exemption - lawyers</a> BBC: Novak Djokovic's lawyers say a positive test on 16 December allows the tennis star entry to Australia. 
- <p class="updated_time"> 02:53 AM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59920215?at_medium=RSS&at_campaign=KARANGA">Pakistan: Many dead as heavy snow traps drivers in their vehicles</a> BBC: Some 1,000 vehicles were trapped during a blizzard in the town of Murree, the interior minister says. 
  <p class="updated_time"> 02:31 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59920213?at_medium=RSS&at_campaign=KARANGA">India restores foreign funding permit for Mother Teresa charity</a> BBC: The charity's license was revoked at Christmas, in the wake of accusations it was trying to convert Indians. 
  <p class="updated_time"> 02:10 AM CT, Jan. 08 </p> 
