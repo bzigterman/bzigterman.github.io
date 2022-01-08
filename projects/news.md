@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:26 AM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59921355?at_medium=RSS&at_campaign=KARANGA">Ethiopia’s Tigray conflict: Dozens killed in airstrike at camp, say aid staff</a> BBC: Aid workers in northern Ethiopia say 56 people are killed in a strike on a camp for the displaced. 
  <p class="updated_time"> 07:21 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071542908/venezuelans-are-cooking-over-wood-fires-because-of-a-shortage-of-propane">Venezuelans are cooking over wood fires because of a shortage of propane</a> NPR: In a great irony, Venezuelans are cooking their meals over wood fires because of a shortage of propane. This is in a nation with among the largest oil and natural gas reserves in the world. 
  <p class="updated_time"> 07:09 AM CT, Jan. 08 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/novak-djokovics-case-for-entering-australia-was-a-case-of-covid-19-last-month-11641640507">Novak Djokovic's Case for Entering Australia Was a Case of Covid-19 Last Month</a> WSJ: Tennis star Novak Djokovic’s application for a medical exemption from Australia’s vaccination rules hinged on his infection with, and recovery from, Covid-19 in December. 
  <p class="updated_time"> 12:02 AM CT, Jan. 08 </p> 
  <a href="https://www.wsj.com/articles/mystery-surrounds-absence-of-kazakhstans-longtime-leader-as-protesters-challenge-state-he-built-11641639722">Mystery Surrounds Absence of Kazakhstan's Longtime Leader</a> WSJ: Since unrest started this week, the 81-year-old former president hasn’t been seen in public and his successor has moved to undermine his authority. 
- <p class="updated_time"> 12:01 AM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59918004?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Blinken questions Russian troop deployment</a> BBC: Secretary of State Antony Blinken says reasons for sending about 2,500 Russian-led troops are unclear. 
  <p class="updated_time"> 09:50 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/india-12-booster-shots.html">12 Covid Vaccine Shots Aren't Enough for 85-Year-Old in India</a> NYT: The retired postman said he gamed the offline vaccination drive to keep boosting regularly — long before booster shots were a thing anywhere. 
  <p class="updated_time"> 09:45 PM CT, Jan. 07 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:32 AM CT, Jan. 08 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/russia-us-ukraine-sanctions/index.html">Biden officials weighing Russia sanctions despite warnings</a> CNN: The Biden administration is still weighing exactly how it would penalize Russia if the country invades Ukraine, as US diplomats are just days away from high-stakes meetings with Kremlin officials. 
  <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071542880/president-bidens-on-the-road-to-atlanta-to-push-for-new-voting-rights-legislatio">President Biden's on the road to Atlanta to push for new voting rights legislation</a> NPR: President Biden is making a push for new voting rights legislation. But he faces an uphill battle with the public and Congress. 
  <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
@@ -294,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/oscar-winner-and-groundbreaking-star-sidney-poitier-dies-526735">Oscar winner and groundbreaking star Sidney Poitier dies</a> Politico: Sidney Poitier, the groundbreaking actor who transformed how Black people were portrayed on screen, has died. He was 94. 
  <p class="updated_time"> 11:05 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071256532/postal-service-exempt-vaccine-mandate">The Postal Service is seeking a temporary delay from the vaccine mandate</a> NPR: With more than 500,000 employees, the post office says complying with the rule would be difficult and could interfere with timely mail deliveries. 
- <p class="updated_time"> 11:00 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/russia-us-ukraine-sanctions/index.html">Biden officials weighing Russia sanctions despite warnings</a> CNN: The Biden administration is still weighing exactly how it would penalize Russia if the country invades Ukraine, as US diplomats are just days away from high-stakes meetings with Kremlin officials. 
  <p class="updated_time"> 10:47 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/rochelle-walensky-cdc-communications-covid-19/index.html">After a series of messaging missteps, CDC's Walensky seeks out media training</a> CNN: Dr. Rochelle Walensky assumed her new role as the director of the US Centers for Disease Control and Prevention last January with a vow to restore trust in the agency. But last fall, several months into the job and after a series of messaging missteps, Walensky sought out media training. 
  <p class="updated_time"> 10:34 AM CT, Jan. 07 </p> 
