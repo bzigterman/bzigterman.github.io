@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:25 PM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59922835?at_medium=RSS&at_campaign=KARANGA">Marilyn Bergman: Oscar-winning lyricist dies at 93</a> BBC: Together with her husband, Bergman wrote songs for legends like Barbara Streisand and Fred Astaire. 
  <p class="updated_time"> 01:09 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/pakistan-snow-kills-21-murree-hill-station.html">Heavy Snow Kills 21 at Murree Hill Station in Pakistan</a> NYT: Stranded in their cars on snow-covered roads, some in the mountainside town of Murree froze to death and others died from carbon monoxide poisoning. 
  <p class="updated_time"> 12:52 PM CT, Jan. 08 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59917300?at_medium=RSS&at_campaign=KARANGA">Canada party plane influencer 'idiots' fly home to face music</a> BBC: The group of fun-loving travellers have been branded "barbarians" by Prime Minister Justin Trudeau. 
  <p class="updated_time"> 04:54 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/africa/jawar-mohammed-release-ethiopia.html">Jawar Mohammed to Be Released From Prison by Ethiopian President</a> NYT: Prime Minister Abiy Ahmed declared the amnesty on Orthodox Christmas and offered to start a dialogue with some opponents after 14 months of war. 
- <p class="updated_time"> 04:34 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59907931?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Hollywood trailblazer dies aged 94</a> BBC: The US-Bahamian star was the first black man to win a best actor Oscar, and also a humanitarian. 
  <p class="updated_time"> 04:25 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/rochelle-walensky-cdc-covid-guidance.html">C.D.C Director Defends Covid-19 Isolation Guidance</a> NYT: Dr. Rochelle P. Walensky held the agency’s first independent news briefing since the Trump White House ended them nearly two years ago. 
  <p class="updated_time"> 04:05 PM CT, Jan. 07 </p> 
