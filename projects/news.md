@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:09 AM CT, Jan. 08 </p> 
+ <a href="https://www.npr.org/2022/01/08/1071565479/turkmenistan-gates-of-hell-fire">Turkmenistan's leader wants 'Gates of Hell' fire put out</a> NPR: The president of Turkmenistan is calling for an end to one of the country's most notable but infernal sights — a natural gas crater that has burned for decades. 
  <p class="updated_time"> 10:28 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59920215?at_medium=RSS&at_campaign=KARANGA">Pakistan: Many dead as heavy snow traps drivers in their vehicles</a> BBC: Some 1,000 vehicles were trapped during a blizzard in the town of Murree, the interior minister says. 
  <p class="updated_time"> 09:57 AM CT, Jan. 08 </p> 
@@ -14,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:49 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/europe/kazakhstan-russia.html">Amid Crisis, Kazakhstan’s Leader Chose His Path: Embrace Russia</a> NYT: With his government under siege, Kassym-Jomart Tokayev, Kazakhstan’s president, turned to Russia’s Vladimir V. Putin for support. The choice could realign Central Asia’s politics. 
  <p class="updated_time"> 09:30 AM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/world/asia/kazakhstan-protests.html">Kazakhstan Arrests Karim Masimov, Ex-Intelligence Chief, on Suspicion of Treason</a> NYT: The president had dismissed the intelligence chief, Karim Masimov, this week amid violence that may be tied, at least in part, to political infighting. 
+ <a href="https://www.nytimes.com/2022/01/08/world/asia/kazakhstan-protests-karim-masimov-arrest.html">Kazakhstan Arrests Karim Masimov, Ex-Intelligence Chief, on Suspicion of Treason</a> NYT: The president had dismissed the intelligence chief, Karim Masimov, this week amid violence that may be tied, at least in part, to political infighting. 
  <p class="updated_time"> 09:27 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59922258?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Ex-intelligence chief arrested for treason</a> BBC: Karim Massimov's arrest comes in the wake of violent, nationwide anti-government protests. 
  <p class="updated_time"> 09:24 AM CT, Jan. 08 </p> 
@@ -24,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:34 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59920221?at_medium=RSS&at_campaign=KARANGA">Turkmenistan plans to close its 'Gateway to Hell'</a> BBC: The site, a fire burning for decades in a huge desert gas crater, is a popular tourist attraction. 
  <p class="updated_time"> 08:23 AM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/world/australia/djokovic-australia-visa.html">Djokovic Tested Positive for Coronavirus in December, His Lawyers Say</a> NYT: Lawyers for the tennis star, who is appealing Australia’s decision to deny him entry, said the positive test came weeks before he flew to the country. 
+ <a href="https://www.nytimes.com/2022/01/08/world/australia/novak-djokovic-australia-visa.html">Djokovic Tested Positive for Coronavirus in December, His Lawyers Say</a> NYT: Lawyers for the tennis star, who is appealing Australia’s decision to deny him entry, said the positive test came weeks before he flew to the country. 
  <p class="updated_time"> 07:42 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071547294/pakistan-cars-cold-snow-deaths">In Pakistan, 22 die in subfreezing temperatures as their cars are stuck in heavy snow</a> NPR: Most of the victims died of hypothermia, officials said, as overnight temperatures fell to 17.6 Fahrenheit amid heavy snowfall at Pakistan's mountain resort town of Murree. 
  <p class="updated_time"> 07:26 AM CT, Jan. 08 </p> 
@@ -37,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071542887/russia-sent-troops-near-ukraine-and-to-kazakhstan-the-u-s-is-watching-and-waitin">Russia sent troops near Ukraine and to Kazakhstan. The U.S. is watching and waiting</a> NPR: The situation in Kazakhstan has implications for the stability of the region and for U.S. energy companies active in the Central Asian country. 
  <p class="updated_time"> 06:27 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/australia-djokovic-refugees-hotel.html">Djokovic Stay at Park Hotel Highlights Australia Asylum Seeker Plight</a> NYT: The tennis star is quarantining in a Melbourne hotel where asylum seekers have been held for over a year, under a program that has been widely criticized. 
+ <p class="updated_time"> 06:21 AM CT, Jan. 08 </p> 
+ <a href="https://www.wsj.com/articles/iran-navy-port-emerges-as-key-to-alleged-weapons-smuggling-to-yemen-u-n-report-says-11641651941">Iran Navy Port Emerges as Key to Alleged Weapons Smuggling to Yemen, U.N. Report Says</a> WSJ: Smuggled weapons have long fueled Yemen’s civil war. Now, a U.N. report says some of those arms originate from a once-obscure Iranian port town where wooden ships set off laden with guns and rocket launchers. 
  <p class="updated_time"> 06:00 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/08/1062816001/top-global-tiktoks-of-2021-defiant-afghan-singer-kenyan-comic-walnut-cracking-el">Top global TikToks of 2021: Defiant Afghan singer, Kenya comic, walnut-cracking elbow</a> NPR: What did the world watch on TikTok last year? We round up some favorite videos — including a mukbang ASMR Thai star (don't worry, we explain it) and a potato chip-crunching Kenyan comedian. 
  <p class="updated_time"> 05:19 AM CT, Jan. 08 </p> 
@@ -57,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/asia/india-weddings-south-kerala.html">The New Weddings in India’s South: ‘Expect Some Magic’</a> NYT: Couples are creating ever more elaborate ceremonies, drawing inspiration from social media trends that blur the nation’s religious and cultural lines. 
  <p class="updated_time"> 04:00 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/business/teslas-computer-chips-supply-chain.html">Why Tesla Soared as Other Automakers Struggled to Make Cars</a> NYT: The yawning disparity between the performance of the electric car company and established automakers last year reflects the technological change roiling the industry. 
- <p class="updated_time"> 03:41 AM CT, Jan. 08 </p> 
- <a href="https://www.wsj.com/articles/iran-navy-port-emerges-as-key-to-alleged-weapons-smuggling-to-yemen-u-n-report-says-11641651941">Iran Navy Port Emerges as Key to Alleged Weapons Smuggling to Yemen, U.N. Report Says</a> WSJ: Smuggled weapons have long fueled Yemen’s civil war. Now, a U.N. report says some of those arms originate from a once-obscure Iranian port town where wooden ships set off laden with guns and rocket launchers. 
  <p class="updated_time"> 02:50 AM CT, Jan. 08 </p> 
  <a href="https://www.wsj.com/articles/omicron-fuels-fresh-surge-threatening-indias-hospitals-anew-11641649808">Omicron Fuels Fresh Surge, Threatening India's Hospitals Anew</a> WSJ: With less than half of India’s population fully vaccinated and infections rising rapidly, public-health experts warn that the healthcare system is again vulnerable—months after being overwhelmed by a surge of cases. 
  <p class="updated_time"> 02:31 AM CT, Jan. 08 </p> 
@@ -115,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/europe/nato-russia-ukraine.html">NATO Vows United Response to Russian Aggression Against Ukraine</a> NYT: Foreign ministers from the alliance, meeting Friday, hope that Moscow will choose diplomacy and de-escalation instead, amid skepticism that Russia is sincere in wanting substantive talks. 
  <p class="updated_time"> 02:41 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071278075/nelson-mandela-robben-island-prison-cell-key-auction">The key to Nelson Mandela's Robben Island prison cell is returning to South Africa </a> NPR: New York auction house Guernsey's has postponed the sale of some of the South African leader's belongings, including the key to his cell and the shirt he wore when he was released from Robben Island. 
- <p class="updated_time"> 02:18 PM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/01/07/1068840414/global-wishes-for-2022-a-gift-box-for-everyone-greater-girl-power-vertical-garde">Global wishes for 2022: a gift box for everyone, greater girl power, vertical gardens</a> NPR: We asked global thinkers like Malala, doctors dealing with the pandemic, educators and more — if you were in charge of the world, what would you like to see happen this year. 
  <p class="updated_time"> 02:10 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 02:07 PM CT, Jan. 07 </p> 
