@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:50 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 09:58 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: The Supreme Court heard arguments over President Biden’s vaccine mandates, and Citigroup will dismiss unvaccinated employees by the end of the month. 
  <p class="updated_time"> 09:50 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/india-12-booster-shots.html">12 Covid Vaccine Shots Aren't Enough for 85-Year-Old in India</a> NYT: The retired postman said he gamed the offline vaccination drive to keep boosting regularly — long before booster shots were a thing anywhere. 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:54 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/andrew-cuomo-charge-dismissed/index.html">New York judge dismisses sole criminal charge faced by former governor Andrew Cuomo after sexual misconduct allegation</a> CNN: An Albany City Court judge on Friday dismissed a forcible touching complaint against former New York Gov. Andrew Cuomo, who briefly appeared virtually in court in his first public appearance since stepping down as governor. 
  <p class="updated_time"> 09:47 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-state-of-the-union.html">Biden to Deliver State of the Union Address on March 1</a> NYT: The date is later than usual and was set as the White House confronts an evolving pandemic and a stalled legislative agenda. 
  <p class="updated_time"> 09:04 PM CT, Jan. 07 </p> 
@@ -256,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/ransomware-schools-website/index.html">Ransomware attack affected websites of 5,000 schools</a> CNN: A ransomware attack on software provider Finalsite has affected the websites of about 5,000 schools, most of them in the US, a Finalsite spokesperson told CNN Friday. 
  <p class="updated_time"> 02:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/treasury-sends-rental-aid-526748">Treasury to send $1B in rental aid funds to high-demand states, cities</a> Politico: California, New Jersey, New York and the District of Columbia will each receive tens of millions of dollars pulled from governments with low disbursement rates. 
- <p class="updated_time"> 01:43 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/andrew-cuomo-charge-dismissed/index.html">New York judge dismisses sole criminal charge faced by former governor Andrew Cuomo after sexual misconduct allegation</a> CNN: An Albany City Court judge on Friday dismissed a forcible touching complaint against former New York Gov. Andrew Cuomo, who briefly appeared virtually in court in his first public appearance since stepping down as governor. 
  <p class="updated_time"> 01:28 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/republican-convention-2024-four-cities/index.html">Republicans are down to four finalist cities for 2024 convention</a> CNN: Republicans have selected the four potential host cities for their 2024 convention, according to a spokesperson for the Republican National Committee. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
