@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:08 PM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59925408?at_medium=RSS&at_campaign=KARANGA">Covid: Thousands protest in France against proposed new vaccine pass</a> BBC: The protests are against a draft law which would in effect ban the unvaccinated from public areas. 
  <p class="updated_time"> 05:06 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/china-rights-defense-activists.html">Chinese Activists Face Subversion Charges for Weekend Gathering</a> NYT: A weekend get-together in 2019 offered Beijing a chance to deliver a blow to the “rights defense” movement. Now, two key participants face the prospect of years in prison. 
  <p class="updated_time"> 04:16 PM CT, Jan. 08 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59898362?at_medium=RSS&at_campaign=KARANGA">How KFC in Kenya got fried over its chip shortage</a> BBC: Kenyans called for a KFC boycott after it was discovered that its fries were imported from Egypt. 
  <p class="updated_time"> 05:12 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-defector-dmz.html">North Korea Defector Crosses DMZ Border Twice</a> NYT: Officials say a North Korean who crossed the DMZ in 2020 crossed it again to go back. His life in the South seems to have been one of poverty and isolation. 
- <p class="updated_time"> 05:08 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59917300?at_medium=RSS&at_campaign=KARANGA">Canada party plane influencer 'idiots' fly home to face music</a> BBC: The group of fun-loving travellers have been branded "barbarians" by Prime Minister Justin Trudeau. 
  <p class="updated_time"> 04:54 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/africa/jawar-mohammed-release-ethiopia.html">Jawar Mohammed to Be Released From Prison by Ethiopian President</a> NYT: Prime Minister Abiy Ahmed declared the amnesty on Orthodox Christmas and offered to start a dialogue with some opponents after 14 months of war. 
  <p class="updated_time"> 04:25 PM CT, Jan. 07 </p> 
@@ -204,10 +204,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:50 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/harry-reid-funeral-democratic-leaders-tribute-526795">'Deeply good man from Searchlight': Democratic leaders pay tribute to Harry Reid in Nevada</a> Politico: Party luminaries gather at Las Vegas memorial service to honor the former Senate majority leader. 
+ <p class="updated_time"> 05:19 PM CT, Jan. 08 </p> 
+ <a href="https://www.cnn.com/2022/01/08/politics/harry-reid-memorial/index.html">Biden eulogizes Reid as 'one of the greatest Senate Majority Leaders in history'</a> CNN: Former Senate Majority Leader Harry Reid will be remembered by a host of top Democratic politicians at his memorial service in Las Vegas on Saturday, with President Joe Biden speaking at the service and former President Barack Obama eulogizing the late senator. 
  <p class="updated_time"> 05:12 PM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071594389/biden-obama-harry-reid-at-memorial-funeral">Biden, Obama among those to eulogize Senate titan Harry Reid at memorial service</a> NPR: "In a town obsessed with appearances, Harry had a real vanity deficit. He didn't like phonies. He didn't like grandstanding. He was proud of the fact that he didn't own a tuxedo," said Obama. 
- <p class="updated_time"> 04:52 PM CT, Jan. 08 </p> 
- <a href="https://www.cnn.com/2022/01/08/politics/harry-reid-memorial/index.html">Obama hails Reid as a Senate majority leader who 'got things done'</a> CNN: Former Senate Majority Leader Harry Reid will be remembered by a host of top Democratic politicians at his memorial service in Las Vegas on Saturday, with President Joe Biden speaking at the service and former President Barack Obama eulogizing the late senator. 
+ <p class="updated_time"> 05:03 PM CT, Jan. 08 </p> 
+ <a href="https://www.cnn.com/2022/01/08/politics/south-dakota-medication-abortions/index.html">South Dakota places further restrictions on medication abortions</a> CNN: Women in South Dakota who are seeking a medication abortion will face additional restrictions later this month after state lawmakers approved a new rule from the state's health department. 
  <p class="updated_time"> 04:17 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/us/politics/us-sanctions-russia-ukraine.html">U.S. Details Costs of a Russian Invasion of Ukraine</a> NYT: The Biden administration and its allies are developing new possible sanctions ahead of a series of meetings to defuse the crisis with Moscow. 
  <p class="updated_time"> 04:14 PM CT, Jan. 08 </p> 
@@ -216,6 +218,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071589603/congress-and-the-media-after-jan-6">Congress and the media after Jan. 6</a> NPR: NPR's Michel Martin speaks with Kadia Goba, political reporter for BuzzFeed News, and Paul Kane, senior congressional correspondent and columnist for The Washington Post, about covering Congress. 
  <p class="updated_time"> 03:55 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/us/mine-collapse-pennsylvania-fayette-county.html">Worker Killed in Pennsylvania Mine Collapse, State Officials Say</a> NYT: The fatal injury occurred when the mine’s roof fell onto equipment the miner was using, officials said. No one else was caught in the collapse. 
+ <p class="updated_time"> 03:48 PM CT, Jan. 08 </p> 
+ <a href="https://www.cnn.com/2022/01/08/politics/biden-russia-ukraine-potential-economic-sanctions/index.html">US sanctions on Russia would impose 'severe and overwhelming' economic costs, officials say</a> CNN: The US is prepared to impose a range of harsh economic penalties on Russia should it move to invade Ukraine, starting with high-impact targets that would impose "severe and overwhelming costs on Russia's economy," Biden administration officials tell CNN. 
  <p class="updated_time"> 03:07 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/us-discuss-missiles-military-exercises-ukraine-526800">U.S. to discuss missiles in Ukraine and military exercises with Russians, officials say</a> Politico: The U.S. will arrive in Europe ready to dial down tensions, but how seriously Russia wants to deal is anyone's guess. 
  <p class="updated_time"> 02:06 PM CT, Jan. 08 </p> 
@@ -238,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/08/civil-rights-leaders-see-a-turning-point-for-biden-495650"> Civil rights leaders see a turning point for Biden</a> Politico Playbook: And the Jan. 6 committee considers asking Mike Pence for an interview. 
  <p class="updated_time"> 09:00 AM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/supreme-court-covid-vaccine-mandate/index.html">Supreme Court ruling on mandates may depend on how the justices value vaccines</a> CNN: As the Supreme Court debated federal authority to impose a vaccine requirement on workers, the nine justices could not help but reveal their varying sentiments about the depth of America's Covid-19 pandemic and the value of vaccines. 
- <p class="updated_time"> 07:32 AM CT, Jan. 08 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/russia-us-ukraine-sanctions/index.html">Biden officials weighing Russia sanctions despite warnings</a> CNN: The Biden administration is still weighing exactly how it would penalize Russia if the country invades Ukraine, as US diplomats are just days away from high-stakes meetings with Kremlin officials. 
  <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071542880/president-bidens-on-the-road-to-atlanta-to-push-for-new-voting-rights-legislatio">President Biden's on the road to Atlanta to push for new voting rights legislation</a> NPR: President Biden is making a push for new voting rights legislation. But he faces an uphill battle with the public and Congress. 
  <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
@@ -306,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/republican-convention-2024-four-cities/index.html">Republicans are down to four finalist cities for 2024 convention</a> CNN: Republicans have selected the four potential host cities for their 2024 convention, according to a spokesperson for the Republican National Committee. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
- <p class="updated_time"> 01:10 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/usda-school-lunch-inflation-supply-chain/index.html">USDA pumps $750 million into school meals to counter inflation, supply chain woes</a> CNN: Schools are not only wrestling with how to educate children amid the surge in coronavirus cases. They are also contending with feeding kids as inflation and supply chain problems disrupt their ability to serve meals. 
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
  <p class="updated_time"> 12:52 PM CT, Jan. 07 </p> 
