@@ -206,6 +206,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:00 AM CT, Jan. 08 </p> 
+ <a href="https://www.cnn.com/2022/01/08/politics/harry-reid-memorial/index.html">Harry Reid to be remembered by Biden, Obama and other Democratic leaders</a> CNN: Former Senate Majority Leader Harry Reid will be remembered by a host of top Democratic politicians at his memorial service in Las Vegas on Saturday, with President Joe Biden speaking at the service and former President Barack Obama eulogizing the late senator. 
+ <p class="updated_time"> 07:58 AM CT, Jan. 08 </p> 
+ <a href="https://www.cnn.com/2022/01/08/politics/how-to-save-us-democracy-what-matters/index.html">What the average citizen can do about the demise of US democracy</a> CNN: After a week of urgent warnings about the state of American democracy, there were several requests in the What Matters inbox for something more useful than a warning. 
  <p class="updated_time"> 07:32 AM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/russia-us-ukraine-sanctions/index.html">Biden officials weighing Russia sanctions despite warnings</a> CNN: The Biden administration is still weighing exactly how it would penalize Russia if the country invades Ukraine, as US diplomats are just days away from high-stakes meetings with Kremlin officials. 
  <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
@@ -296,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/oscar-winner-and-groundbreaking-star-sidney-poitier-dies-526735">Oscar winner and groundbreaking star Sidney Poitier dies</a> Politico: Sidney Poitier, the groundbreaking actor who transformed how Black people were portrayed on screen, has died. He was 94. 
  <p class="updated_time"> 11:05 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071256532/postal-service-exempt-vaccine-mandate">The Postal Service is seeking a temporary delay from the vaccine mandate</a> NPR: With more than 500,000 employees, the post office says complying with the rule would be difficult and could interfere with timely mail deliveries. 
- <p class="updated_time"> 10:47 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/rochelle-walensky-cdc-communications-covid-19/index.html">After a series of messaging missteps, CDC's Walensky seeks out media training</a> CNN: Dr. Rochelle Walensky assumed her new role as the director of the US Centers for Disease Control and Prevention last January with a vow to restore trust in the agency. But last fall, several months into the job and after a series of messaging missteps, Walensky sought out media training. 
  <p class="updated_time"> 10:34 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/ted-cruz-jan-6-terrorist-attack-capitol/index.html">Ted Cruz told the truth about the 1/6 attack. Then he started backtracking.</a> CNN: On Wednesday, Sen. Ted Cruz told the truth about what happened at the US Capitol on January 6, 2021, calling it "a violent terrorist attack on the Capitol, where we saw the men and women of law enforcement demonstrate incredible courage." 
  <p class="updated_time"> 09:33 AM CT, Jan. 07 </p> 
@@ -390,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/06/jan-6-anniversary-congressional-staffers-new-normal-525989">One year later, congressional staffers reckon with their new normal</a> Politico: The trauma of the violence on Jan. 6, 2021, still reverberates for many of the aides who make Capitol Hill tick. 
  <p class="updated_time"> 06:05 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/peter-velz-vincent-evans-kamala-harris/index.html">Two Harris staffers announce they're leaving vice president's office</a> CNN: Two staffers announced Wednesday that they are leaving Vice President Kamala Harris' office. 
- <p class="updated_time"> 06:02 PM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/democrats-biden-agenda-loss/index.html">Democrats at a loss over path to enact Biden agenda: It feels 'like Groundhog Day'</a> CNN: Democratic senators are beginning 2022 where they left 2021: With no clear path to pass their agenda and ample frustration in the ranks. 
  <p class="updated_time"> 05:58 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/cdc-advisers-teen-pfizer-covid-booster-526572">CDC recommends all teens get Pfizer Covid booster</a> Politico: The advisory panel signed off on the recommendation following presentations by doctors suggesting boosters are likely to increase antibodies in young teens. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
