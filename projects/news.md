@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:49 AM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59920215?at_medium=RSS&at_campaign=KARANGA">Pakistan: Many dead as heavy snow traps drivers in their vehicles</a> BBC: Some 1,000 vehicles were trapped during a blizzard in the town of Murree, the interior minister says. 
  <p class="updated_time"> 05:18 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
  <p class="updated_time"> 05:05 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071537135/how-bosnias-dodik-went-from-a-moderate-reformist-to-genocide-denying-secessionis">How Bosnia's Dodik went from a moderate reformist to genocide-denying secessionist</a> NPR: Bosnian Serb leader responds to new U.S. sanctions saying the days when the U.S. and other Western democracies "modeled Bosnia to their taste" are long gone. 
- <p class="updated_time"> 05:03 AM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59920215?at_medium=RSS&at_campaign=KARANGA">Pakistan: Many dead as heavy snow traps drivers in their vehicles</a> BBC: Some 1,000 vehicles were trapped during a blizzard in the town of Murree, the interior minister says. 
  <p class="updated_time"> 05:00 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/australia/djokovic-australia-visa.html">Djokovic Tested Positive for Coronavirus in December, His Lawyers Say</a> NYT: Lawyers for the tennis star, who is appealing Australia’s decision to deny him entry, said the positive test came weeks before he flew to the country. 
  <p class="updated_time"> 05:00 AM CT, Jan. 08 </p> 
