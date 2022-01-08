@@ -13,6 +13,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59922835?at_medium=RSS&at_campaign=KARANGA">Marilyn Bergman: Oscar-winning lyricist dies at 93</a> BBC: Together with her husband, Bergman wrote songs for legends like Barbara Streisand and Fred Astaire. 
  <p class="updated_time"> 01:09 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/pakistan-snow-kills-21-murree-hill-station.html">Heavy Snow Kills 21 at Murree Hill Station in Pakistan</a> NYT: Stranded in their cars on snow-covered roads, some in the mountainside town of Murree froze to death and others died from carbon monoxide poisoning. 
+ <p class="updated_time"> 01:02 PM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59923898?at_medium=RSS&at_campaign=KARANGA">Basmah bint Saud: Saudi princess released from jail after almost three years</a> BBC: Princess Basma bint Saud and her daughter were held without charge for almost three years. 
  <p class="updated_time"> 12:42 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/europe/kazakhstan-russia.html">Amid Crisis, Kazakhstan’s Leader Chose His Path: Embrace Russia</a> NYT: With his government under siege, Kassym-Jomart Tokayev, Kazakhstan’s president, turned to Russia’s Vladimir V. Putin for support. The choice could realign Central Asia’s politics. 
  <p class="updated_time"> 12:09 PM CT, Jan. 08 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071409717/many-in-iraq-regard-women-riding-bikes-as-promiscuous-some-women-see-it-as-activ">Many in Iraq regard women riding bikes as promiscuous. Some women see it as activism</a> NPR: For some women in Iraq, learning to ride bikes is a way of finding freedom from confining social restrictions. 
  <p class="updated_time"> 03:58 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071409661/in-remote-honduras-institutions-are-permeated-by-organized-drug-crime">Institutions in remote Honduras are permeated by organized drug crime</a> NPR: NPR's Audie Cornish speaks with veteran journalist Carlos Dada, founder of El Faro newspaper, about his latest reporting from Honduras. 
- <p class="updated_time"> 03:53 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59912361?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Jogger's murderers sentenced to life in prison</a> BBC: The sentencing judge condemns the three men for the "callous" murder of the black jogger. 
  <p class="updated_time"> 03:41 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071409646/a-hero-tells-the-story-of-how-complicated-a-good-deed-and-a-small-lie-can-be">'A Hero' tells the story of how complicated a good deed (and a small lie) can be</a> NPR: NPR's Mary Louise Kelly speaks with Iranian director Asghar Farhadi about his new film, A Hero. The story examines the complexity of what appears to many to be a good deed. 
  <p class="updated_time"> 03:38 PM CT, Jan. 07 </p> 
