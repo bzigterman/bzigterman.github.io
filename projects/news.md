@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:53 AM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59920215?at_medium=RSS&at_campaign=KARANGA">Pakistan: Many dead as heavy snow traps drivers in their vehicles</a> BBC: Some 1,000 vehicles were trapped during a blizzard in the town of Murree, the interior minister says. 
  <p class="updated_time"> 02:31 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59920213?at_medium=RSS&at_campaign=KARANGA">India restores foreign funding permit for Mother Teresa charity</a> BBC: The charity's license was revoked at Christmas, in the wake of accusations it was trying to convert Indians. 
  <p class="updated_time"> 02:16 AM CT, Jan. 08 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-putin-russia.html">In Kazakhstan, Putin Again Seizes on Unrest to Try to Expand Influence</a> NYT: But a series of revolts against a pro-Russian strongman could also plant the seeds of rebellion at home, analysts say. 
  <p class="updated_time"> 08:39 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/arts/music/einar-sweden-rap.html">After Killing of Einar, Sweden Struggles With 'Gangster Rap'</a> NYT: Hip-hop, the country’s most popular music, has quickly become a lightning rod for Sweden’s long-roiling problems with gun violence and gang warfare. 
- <p class="updated_time"> 07:34 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59908217?at_medium=RSS&at_campaign=KARANGA">Simon & Schuster employee denies he stole bestseller manuscripts</a> BBC: The FBI alleges Simon & Schuster employee Filippo Bernardini tried to defraud hundreds of people. 
  <p class="updated_time"> 06:00 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/taiwan-stages-military-drills-to-deter-chinese-aggression-11641574834">Taiwan Stages Military Drills to Deter Chinese Aggression</a> WSJ: Aerial, naval and urban-warfare exercises aim to make China’s People’s Liberation Army “think twice,” a senior Taiwanese officer says. 
  <p class="updated_time"> 05:27 AM CT, Jan. 07 </p> 
