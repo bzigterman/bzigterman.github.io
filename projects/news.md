@@ -204,14 +204,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:50 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/harry-reid-funeral-democratic-leaders-tribute-526795">'Deeply good man from Searchlight': Democratic leaders pay tribute to Harry Reid in Nevada</a> Politico: Party luminaries gather at Las Vegas memorial service to honor the former Senate majority leader. 
+ <p class="updated_time"> 05:43 PM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/us/politics/us-sanctions-russia-ukraine.html">U.S. Details Costs of a Russian Invasion of Ukraine</a> NYT: The Biden administration and its allies are developing new possible sanctions ahead of a series of meetings to defuse the crisis with Moscow. 
  <p class="updated_time"> 05:19 PM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/harry-reid-memorial/index.html">Biden eulogizes Reid as 'one of the greatest Senate Majority Leaders in history'</a> CNN: Former Senate Majority Leader Harry Reid will be remembered by a host of top Democratic politicians at his memorial service in Las Vegas on Saturday, with President Joe Biden speaking at the service and former President Barack Obama eulogizing the late senator. 
  <p class="updated_time"> 05:12 PM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071594389/biden-obama-harry-reid-at-memorial-funeral">Biden, Obama among those to eulogize Senate titan Harry Reid at memorial service</a> NPR: "In a town obsessed with appearances, Harry had a real vanity deficit. He didn't like phonies. He didn't like grandstanding. He was proud of the fact that he didn't own a tuxedo," said Obama. 
  <p class="updated_time"> 05:03 PM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/south-dakota-medication-abortions/index.html">South Dakota places further restrictions on medication abortions</a> CNN: Women in South Dakota who are seeking a medication abortion will face additional restrictions later this month after state lawmakers approved a new rule from the state's health department. 
- <p class="updated_time"> 04:17 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/us-sanctions-russia-ukraine.html">U.S. Details Costs of a Russian Invasion of Ukraine</a> NYT: The Biden administration and its allies are developing new possible sanctions ahead of a series of meetings to defuse the crisis with Moscow. 
  <p class="updated_time"> 04:14 PM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071589631/the-legacy-of-lani-guinier">The legacy of Lani Guinier</a> NPR: NPR's Michel Martin speaks with Spencer Overton, law professor at George Washington University Law School, about the legacy of Lani Guinier, a legal scholar in the field of voting rights. 
  <p class="updated_time"> 04:14 PM CT, Jan. 08 </p> 
