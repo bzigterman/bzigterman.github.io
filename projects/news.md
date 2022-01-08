@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:35 PM CT, Jan. 08 </p> 
+ <p class="updated_time"> 01:57 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 01:25 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59922835?at_medium=RSS&at_campaign=KARANGA">Marilyn Bergman: Oscar-winning lyricist dies at 93</a> BBC: Together with her husband, Bergman wrote songs for legends like Barbara Streisand and Fred Astaire. 
@@ -204,7 +204,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:44 PM CT, Jan. 08 </p> 
+ <p class="updated_time"> 02:06 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/us/politics/john-thune-senate-re-election.html">John Thune, No. 2 Senate Republican, Will Seek Re-election</a> NYT: The three-term South Dakotan had considered retiring because of family concerns and the continuing grip of former President Donald J. Trump on the Republican Party. 
  <p class="updated_time"> 01:09 PM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/john-thune-reelection-south-dakota/index.html">Sen. John Thune announces he will run for re-election</a> CNN: South Dakota Sen. John Thune, the No. 2 Republican in the Senate, announced Saturday he is running for re-election in 2022. 
