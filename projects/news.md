@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:08 AM CT, Jan. 08 </p> 
+ <a href="https://www.npr.org/2022/01/08/1071554990/kazakhstan-anti-terror-arrest">Kazakhstan's former anti-terror chief is arrested over protests</a> NPR: Karim Masimov has been arrested on charges of attempting to overthrow the government following violent protests that the president has blamed on foreign-backed terrorists. 
+ <p class="updated_time"> 09:03 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/world/asia/murree-hill-station-snow-kills-21.html">Heavy Snow Kills 21 at Murree Hill Station in Pakistan</a> NYT: Stranded in their cars on snow covered roads, some in the mountainside town of Murree froze to death and others died from carbon monoxide poisoning. 
+ <p class="updated_time"> 09:01 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/world/asia/kazakhstan-protests.html">Kazakhstan Arrests Karim Masimov, Ex-Intelligence Chief, on Suspicion of Treason</a> NYT: The president had dismissed the intelligence chief, Karim Masimov, this week amid violence that may be tied, at least in part, to political infighting. 
  <p class="updated_time"> 08:34 AM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59920221?at_medium=RSS&at_campaign=KARANGA">Turkmenistan plans to close its 'Gateway to Hell'</a> BBC: The site, a fire burning for decades in a huge desert crater, is a popular tourist attraction. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59920221?at_medium=RSS&at_campaign=KARANGA">Turkmenistan plans to close its 'Gateway to Hell'</a> BBC: The site, a fire burning for decades in a huge desert gas crater, is a popular tourist attraction. 
  <p class="updated_time"> 08:23 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/australia/djokovic-australia-visa.html">Djokovic Tested Positive for Coronavirus in December, His Lawyers Say</a> NYT: Lawyers for the tennis star, who is appealing Australia’s decision to deny him entry, said the positive test came weeks before he flew to the country. 
  <p class="updated_time"> 08:04 AM CT, Jan. 08 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071542908/venezuelans-are-cooking-over-wood-fires-because-of-a-shortage-of-propane">Venezuelans are cooking over wood fires because of a shortage of propane</a> NPR: In a great irony, Venezuelans are cooking their meals over wood fires because of a shortage of propane. This is in a nation with among the largest oil and natural gas reserves in the world. 
  <p class="updated_time"> 07:09 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">In Kazakhstan’s Street Battles, Signs of Elites Fighting Each Other</a> NYT: The reasons for the bloody crisis in Central Asia remain murky, but experts say popular discontent could mask an old-fashioned power struggle within the ruling faction. 
- <p class="updated_time"> 07:08 AM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/world/asia/kazakhstan-protests.html">Kazakhstan Arrests Karim Masimov, Ex-Intelligence Chief, on Suspicion of Treason</a> NYT: The president had dismissed the intelligence chief, Karim Masimov, this week amid violence that may be tied, at least in part, to political infighting. 
  <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071542887/russia-sent-troops-near-ukraine-and-to-kazakhstan-the-u-s-is-watching-and-waitin">Russia sent troops near Ukraine and to Kazakhstan. The U.S. is watching and waiting</a> NPR: The situation in Kazakhstan has implications for the stability of the region and for U.S. energy companies active in the Central Asian country. 
  <p class="updated_time"> 06:58 AM CT, Jan. 08 </p> 
@@ -121,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/us/politics/spyware-warning-cybersecurity.html">Biden Administration Warns Against Spyware Targeting Dissidents</a> NYT: The U.S. intelligence community offered steps that would mitigate — but not stop — spyware developed by firms like the NSO Group. 
  <p class="updated_time"> 12:30 PM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/global-covid-19-cases-cross-300-million-mark-11641558223">Global Covid-19 Cases Cross 300 Million Mark</a> WSJ: The milestone comes as the U.S. Supreme Court prepared to hold a special session to consider the Biden administration’s vaccine rules for private employers and healthcare workers. 
- <p class="updated_time"> 12:15 PM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1068622387/sidney-poitier-actor-remembrance">Sidney Poitier was far more than just a symbol of racial progress</a> NPR: For much of his career, the actor represented many different things to many people, but a constant was his sheer artistry. 
  <p class="updated_time"> 12:10 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59916564?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Remembering the Oscar winner and Hollywood trailblazer</a> BBC: We look back on the career of Sidney Poitier, the first black man to win a best actor Oscar. 
  <p class="updated_time"> 12:06 PM CT, Jan. 07 </p> 
@@ -206,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/08/civil-rights-leaders-see-a-turning-point-for-biden-495650">Civil rights leaders see a turning point for Biden</a> Politico Playbook: And the Jan. 6 committee considers asking Mike Pence for an interview. 
  <p class="updated_time"> 08:00 AM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/harry-reid-memorial/index.html">Harry Reid to be remembered by Biden, Obama and other Democratic leaders</a> CNN: Former Senate Majority Leader Harry Reid will be remembered by a host of top Democratic politicians at his memorial service in Las Vegas on Saturday, with President Joe Biden speaking at the service and former President Barack Obama eulogizing the late senator. 
  <p class="updated_time"> 07:58 AM CT, Jan. 08 </p> 
