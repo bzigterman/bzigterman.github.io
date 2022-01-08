@@ -243,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:17 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-state-of-the-union.html">Biden to Deliver State of the Union Address on March 1</a> NYT: The date is later than usual and was set as the White House confronts an evolving pandemic and a stalled legislative agenda. 
  <p class="updated_time"> 03:01 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-military-kurilla.html">Biden Nominates Combat Leader to Head Central Command</a> NYT: Lt. Gen. Michael E. Kurilla would take over as the United States tries to conduct operations in Afghanistan from afar. 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-military-kurilla.html">Biden Nominates Michael E. Kurilla to Lead Central Command</a> NYT: Lt. Gen. Michael E. Kurilla would take over as the United States tries to conduct operations in Afghanistan from afar. 
  <p class="updated_time"> 02:43 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/fact-check-ted-cruz-capitol-terrorist-attack/index.html">'Sloppy' wording this week? Cruz actually called the Capitol assault a terrorist attack at least 17 previous times</a> CNN: Republican Sen. Ted Cruz of Texas said at a Senate committee meeting on Wednesday that the next day was the "anniversary of a violent terrorist attack on the Capitol." 
  <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
