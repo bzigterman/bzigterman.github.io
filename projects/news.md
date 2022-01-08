@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:51 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 07:55 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: The Supreme Court heard arguments over President Biden’s vaccine mandates, and Citigroup will dismiss unvaccinated employees by the end of the month. 
- <p class="updated_time"> 06:51 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/canada/montreal-cancun-party-flight.html">Airlines Strand Passengers Who Partied on Flight Without Masks</a> NYT: A group of Canadian social media influencers and others flouted Covid-19 rules on a flight to Cancún, Mexico, resulting in airlines leaving many of them without a way home. 
- <p class="updated_time"> 06:49 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 07:26 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/sports/olympics/alysa-liu-coronavirus.html">Alysa Liu Will Miss National Championships After Positive Coronavirus Test</a> NYT: The teenager had hoped a strong showing would secure her a spot on the U.S. team for the Beijing Winter Olympics next month. 
+ <p class="updated_time"> 07:23 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/americas/guantanamo-bay-covid-outbreak.html">Covid Cases Reach Pandemic High at Guantánamo Bay</a> NYT: The American base has reinstated a mandate for wearing masks indoors in response to an increase in infections. 
+ <p class="updated_time"> 07:21 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/canada/montreal-cancun-party-flight.html">Airlines Strand Passengers Who Partied on Flight Without Masks</a> NYT: A group of Canadian social media influencers and others flouted Covid-19 rules on a flight to Cancún, Mexico, resulting in airlines leaving many of them without a way home. 
+ <p class="updated_time"> 07:20 PM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59918004?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Blinken questions Russian troop deployment</a> BBC: Secretary of State Antony Blinken says reasons for sending about 2,500 Russian-led troops are unclear. 
+ <p class="updated_time"> 06:54 PM CT, Jan. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59833120?at_medium=RSS&at_campaign=KARANGA">Families seek justice for Iran plane crash victims</a> BBC: Two years on, the families of downed flight PS752 victims are left without answers. 
  <p class="updated_time"> 06:04 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59903464?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the US Capitol riot anniversary</a> BBC: Simmering tensions remain one year on from unprecedented scenes in Washington DC. 
  <p class="updated_time"> 06:04 PM CT, Jan. 07 </p> 
@@ -101,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/arts/music/einar-sweden-rap.html">After Killing of Einar, Sweden Struggles With 'Gangster Rap'</a> NYT: Hip-hop, the country’s most popular music, has quickly become a lightning rod for Sweden’s long-roiling problems with gun violence and gang warfare. 
  <p class="updated_time"> 07:34 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59908217?at_medium=RSS&at_campaign=KARANGA">Simon & Schuster employee denies he stole bestseller manuscripts</a> BBC: The FBI alleges Simon & Schuster employee Filippo Bernardini tried to defraud hundreds of people. 
- <p class="updated_time"> 06:15 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59907235?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Troops ordered to fire without warning</a> BBC: The president orders the crackdown on protests, saying "20,000 bandits" had attacked the main city. 
  <p class="updated_time"> 06:00 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/taiwan-stages-military-drills-to-deter-chinese-aggression-11641574834">Taiwan Stages Military Drills to Deter Chinese Aggression</a> WSJ: Aerial, naval and urban-warfare exercises aim to make China’s People’s Liberation Army “think twice,” a senior Taiwanese officer says. 
  <p class="updated_time"> 05:27 AM CT, Jan. 07 </p> 
@@ -157,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/asia/pakistan-woman-supreme-court.html">Pakistan Paves Way for Ayesha Malik to Be First Woman Supreme Court Justice</a> NYT: Justice Ayesha A. Malik’s nomination, intensely opposed by some lawyers that have threatened to strike, was hailed by others as an important victory in improving representation for women. 
  <p class="updated_time"> 01:44 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/europe/pope-pets-kids.html">Pope Scolds Couples Who Choose Pets Over Kids</a> NYT: Expressing concern about global birthrates, Francis said such couples were acting in a selfish way that diminished humanity. 
- <p class="updated_time"> 11:17 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59881229?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Why world number one is such a polarising player</a> BBC: Novak Djokovic's vaccine exemption situation before the Australian Open is the latest controversy for one of tennis' greatest but most polarising players. 
  <p class="updated_time"> 11:09 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html">Using Harsh Language, Macron Issues a Challenge to the Unvaccinated</a> NYT: The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds. 
  <p class="updated_time"> 08:20 AM CT, Jan. 06 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
  <p class="updated_time"> 01:28 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Russia-Allied Forces to Intervene as Unrest Sweeps Kazakhstan</a> NYT: The Kazakh president requested the peacekeeping troops as an uprising, sparked by a gas price increase in the resource-rich Central Asian nation, headed toward a fifth day. 
- <p class="updated_time"> 01:00 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/04/world/asia/north-korea-ballistic-missile.html">North Korea Says It Tested a Hypersonic Missile</a> NYT: It was the latest in a series of tests the North has conducted this fall. 
  <p class="updated_time"> 11:04 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/india-omicron-coronavirus.html">India’s Rising Omicron Wave Brings a Grim Sense of Déjà Vu</a> NYT: Just months after Delta fueled hospital failures and funeral pyres, India’s leaders again offer a mixed message: Their political rallies are packed even as they order curfews and work closures. 
  <p class="updated_time"> 10:37 PM CT, Jan. 05 </p> 
@@ -200,14 +200,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:42 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Supreme Court’s Conservative Majority Appears Skeptical of Biden’s Virus Plan</a> NYT: The court seemed more likely to sustain a separate requirement that health care workers at facilities that receive federal money be vaccinated. 
  <p class="updated_time"> 07:26 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/jan-6-investigators-pence-interview-526790">Jan. 6 investigators eyeing Pence interview this month</a> Politico: Pence was the target of an intense pressure campaign to single-handedly overturn the election results on Jan. 6, 2021. 
- <p class="updated_time"> 06:54 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 07:08 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/bidens-colorado-wildfire/index.html">Biden promises federal government will stick by communities devastated by Colorado wildfire</a> CNN: President Joe Biden and first lady Jill Biden are scheduled to travel to Colorado on Friday to meet with families who were affected by a recent massive wildfire that destroyed hundreds of homes and thousands of acres. 
  <p class="updated_time"> 06:46 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/january-6-committee-mike-pence-appear/index.html">January 6 committee considering asking Mike Pence to voluntarily appear before panel</a> CNN: The House select committee investigating the January 6 attack on the US Capitol is considering formally asking former Vice President Mike Pence to voluntarily appear before the panel, with the possibility that request could come by the end of the month. 
- <p class="updated_time"> 06:29 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Supreme Court’s Conservative Majority Appears Skeptical of Biden’s Virus Plan</a> NYT: The court seemed more likely to sustain a separate requirement that health care workers at facilities that receive federal money be vaccinated. 
  <p class="updated_time"> 06:20 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/lani-guinier-dead.html">Lani Guinier, Legal Scholar at the Center of Controversy, Dies at 71</a> NYT: President Bill Clinton pulled her nomination as assistant attorney general in 1993 after she came under criticism for her views on voting rights. 
  <p class="updated_time"> 06:13 PM CT, Jan. 07 </p> 
