@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:54 PM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/americas/guantanamo-bay-covid-outbreak.html">Covid Cases Reach Pandemic High at Guantánamo Bay</a> NYT: The American base has reinstated a mandate for wearing masks indoors in response to an increase in infections. 
+ <p class="updated_time"> 03:39 PM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59923900?at_medium=RSS&at_campaign=KARANGA">At least five dead after Brazil cliff collapses on boats</a> BBC: Another 20 are missing after the cliff fell onto boats in a lake in the south-east of the country. 
  <p class="updated_time"> 01:57 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 01:25 PM CT, Jan. 08 </p> 
@@ -71,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/asia/india-weddings-south-kerala.html">The New Weddings in India’s South: ‘Expect Some Magic’</a> NYT: Couples are creating ever more elaborate ceremonies, drawing inspiration from social media trends that blur the nation’s religious and cultural lines. 
  <p class="updated_time"> 02:50 AM CT, Jan. 08 </p> 
  <a href="https://www.wsj.com/articles/omicron-fuels-fresh-surge-threatening-indias-hospitals-anew-11641649808">Omicron Fuels Fresh Surge, Threatening India's Hospitals Anew</a> WSJ: With less than half of India’s population fully vaccinated and infections rising rapidly, public-health experts warn that the healthcare system is again vulnerable—months after being overwhelmed by a surge of cases. 
- <p class="updated_time"> 02:31 AM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59920213?at_medium=RSS&at_campaign=KARANGA">India restores foreign funding permit for Mother Teresa charity</a> BBC: The charity's license was revoked at Christmas, in the wake of accusations it was trying to convert Indians. 
  <p class="updated_time"> 02:10 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/europe/biden-boris-johnson-coronavirus-omicron.html">How Biden and Boris Johnson Reached the Same Place on Virus Policy</a> NYT: Two different leaders with differing approaches landed on a policy of coexisting with the virus. Analysts say they had little choice. 
  <p class="updated_time"> 02:00 AM CT, Jan. 08 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59919105?at_medium=RSS&at_campaign=KARANGA">Texas teacher 'locked Covid-positive son in car boot'</a> BBC: A witness reportedly called police after hearing someone in the trunk of the Texas woman's vehicle. 
  <p class="updated_time"> 07:26 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/sports/olympics/alysa-liu-coronavirus.html">Alysa Liu Will Miss National Championships After Positive Coronavirus Test</a> NYT: The teenager had hoped a strong showing would secure her a spot on the U.S. team for the Beijing Winter Olympics next month. 
- <p class="updated_time"> 07:23 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/americas/guantanamo-bay-covid-outbreak.html">Covid Cases Reach Pandemic High at Guantánamo Bay</a> NYT: The American base has reinstated a mandate for wearing masks indoors in response to an increase in infections. 
  <p class="updated_time"> 07:21 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/canada/montreal-cancun-party-flight.html">Airlines Strand Passengers Who Partied on Flight Without Masks</a> NYT: A group of Canadian social media influencers and others flouted Covid-19 rules on a flight to Cancún, Mexico, resulting in airlines leaving many of them without a way home. 
  <p class="updated_time"> 06:54 PM CT, Jan. 07 </p> 
