@@ -54,7 +54,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:01 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071198056/theres-chaos-in-kazakhstan-heres-what-you-need-to-know">There's chaos in Kazakhstan. Here's what you need to know</a> NPR: A New Year's Day doubling of gas prices sent shock waves through the country, sparking deadly unrest that has engulfed the Central Asian nation. But the origins of discontent run much deeper. 
  <p class="updated_time"> 04:00 AM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/world/asia/india-weddings-south.html">The New Weddings in India’s South: ‘Expect Some Magic’</a> NYT: Couples are creating ever more elaborate ceremonies, drawing inspiration from social media trends that blur the nation’s religious and cultural lines. 
+ <a href="https://www.nytimes.com/2022/01/08/world/asia/india-weddings-south-kerala.html">The New Weddings in India’s South: ‘Expect Some Magic’</a> NYT: Couples are creating ever more elaborate ceremonies, drawing inspiration from social media trends that blur the nation’s religious and cultural lines. 
  <p class="updated_time"> 04:00 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/business/teslas-computer-chips-supply-chain.html">Why Tesla Soared as Other Automakers Struggled to Make Cars</a> NYT: The yawning disparity between the performance of the electric car company and established automakers last year reflects the technological change roiling the industry. 
  <p class="updated_time"> 03:41 AM CT, Jan. 08 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:57 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/us/politics/us-sanctions-russia-ukraine.html">U.S. Details Possible Sanctions on Russia Over a Ukraine Invasion</a> NYT: The Biden administration and its allies are developing new possible sanctions ahead of a series of meetings to defuse the crisis with Moscow. 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/08/civil-rights-leaders-see-a-turning-point-for-biden-495650"> Civil rights leaders see a turning point for Biden</a> Politico Playbook: And the Jan. 6 committee considers asking Mike Pence for an interview. 
  <p class="updated_time"> 09:00 AM CT, Jan. 08 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/06/politics/michael-erik-kurilla-middle-east-operations-nomination/index.html">Biden nominates a new general to oversee military operations in Middle East</a> CNN: President Joe Biden is nominating Army Lt. Gen. Michael Erik Kurilla to be the next commander of US Central Command, which oversees military operations in the Middle East, according to multiple defense officials and nomination paperwork sent to Congress. 
  <p class="updated_time"> 03:56 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/biden-lays-out-the-stakes-for-democracy-can-he-sustain-the-case-526688">Biden lays out the stakes for democracy. Can he sustain the case?</a> Politico: The president’s speech on Thursday was hailed by fellow Democrats. Now, they want him to keep at it. 
- <p class="updated_time"> 03:52 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/johnny-isakson-senate-memorial.html">Republicans and Democrats Come Together to Remember Senator Isakson on Jan. 6</a> NYT: On a day that amplified political divisions, lawmakers from both parties gathered in an Atlanta church to honor one of the Senate’s great champions of bipartisanship. 
  <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1071060684/dozens-are-reported-dead-in-kazakhstan-where-an-anti-government-revolt-is-underw">Dozens are reported dead in Kazakhstan, where an anti-government revolt is underway</a> NPR: NPR's Mary Louise Kelly talks with Melinda Haring, Deputy Director for Atlantic Council's Eurasia Center, on the situation in Kazakhstan and its implications for the rest of the world. 
  <p class="updated_time"> 03:34 PM CT, Jan. 06 </p> 
