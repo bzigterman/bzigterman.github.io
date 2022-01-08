@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:42 AM CT, Jan. 08 </p> 
+ <a href="https://www.npr.org/2022/01/08/1071547294/pakistan-cars-cold-snow-deaths">In Pakistan, 22 die in subfreezing temperatures as their cars are stuck in heavy snow</a> NPR: Most of the victims died of hypothermia, officials said, as overnight temperatures fell to 17.6 Fahrenheit amid heavy snowfall at Pakistan's mountain resort town of Murree. 
  <p class="updated_time"> 07:26 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59921355?at_medium=RSS&at_campaign=KARANGA">Ethiopia’s Tigray conflict: Dozens killed in airstrike at camp, say aid staff</a> BBC: Aid workers in northern Ethiopia say 56 people are killed in a strike on a camp for the displaced. 
  <p class="updated_time"> 07:21 AM CT, Jan. 08 </p> 
@@ -51,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1070512969/us-missile-defense-thaad-south-korea-north-korea-china">A South Korean village is protesting U.S. plans for THAAD missile defense upgrades</a> NPR: The potential upgrade at a U.S. air defense base, within range of missiles in North Korea and China, has residents concerned as Seoul walks a delicate balancing act between the rival powers. 
  <p class="updated_time"> 01:54 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071526763/tallest-galapagos-volcano-erupts-spewing-lava-and-ash">Tallest Galapagos volcano erupts, spewing lava and ash</a> NPR: Ecuador's Emergency Operations Committee said the eruption on Isabela Island didn't represent a risk to humans or to native local species. 
+ <p class="updated_time"> 01:32 AM CT, Jan. 08 </p> 
+ <a href="https://www.wsj.com/articles/kazakhstans-former-security-chief-is-detained-on-treason-charges-11641637897">Kazakhstan's Former Security Chief Is Detained on Treason Charges</a> WSJ: More than 4,400 people, including foreign citizens, are being held in connection with protests venting frustration with the economy and closely controlled political system. 
  <p class="updated_time"> 01:00 AM CT, Jan. 08 </p> 
  <a href="https://www.wsj.com/articles/for-dying-towns-the-pandemic-offers-challengesand-hope-11641643202">For Dying Towns, the Pandemic Offers Challenges---and Hope</a> WSJ: For years, the mayors of many towns in Europe have struggled to prevent their communities from dying out as people have migrated to cities, schools have dwindled and businesses have died out. 
  <p class="updated_time"> 12:15 AM CT, Jan. 08 </p> 
@@ -123,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59916564?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: Remembering the Oscar winner and Hollywood trailblazer</a> BBC: We look back on the career of Sidney Poitier, the first black man to win a best actor Oscar. 
  <p class="updated_time"> 12:06 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/climate/road-salt-water-supply.html">Road Salt Works. But It’s Also Bad for the Environment.</a> NYT: The chemical is effective at keeping roads free of snow and ice, but it also has damaging consequences, according to a growing body of research. 
- <p class="updated_time"> 11:57 AM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/01/07/1071101792/photos-scenes-kazakhstan-protests-crackdown">Photos: Dramatic scenes from Kazakhstan's massive protests and crackdown</a> NPR: Here are some of the images of the unrest this week in the former Soviet republic of Kazakhstan, where the authoritarian government is fighting to quash large public protests. 
  <p class="updated_time"> 11:20 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests-strongmen.html">Behind Kazakhstan Unrest, the ‘Strongman’s Dilemma’</a> NYT: Since the Cold War’s end, most dictatorial governments have collapsed after their ruler’s departure. 
  <p class="updated_time"> 11:08 AM CT, Jan. 07 </p> 
@@ -141,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-putin-russia.html">In Kazakhstan, Putin Again Seizes on Unrest to Try to Expand Influence</a> NYT: But a series of revolts against a pro-Russian strongman could also plant the seeds of rebellion at home, analysts say. 
  <p class="updated_time"> 08:39 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/arts/music/einar-sweden-rap.html">After Killing of Einar, Sweden Struggles With 'Gangster Rap'</a> NYT: Hip-hop, the country’s most popular music, has quickly become a lightning rod for Sweden’s long-roiling problems with gun violence and gang warfare. 
- <p class="updated_time"> 06:03 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/revenge-recalls-spark-debate-in-taiwan-how-much-democracy-is-too-much-11641558601">'Revenge Recalls' Spark Debate in Taiwan: How Much Democracy Is Too Much?</a> WSJ: Popular referendums and recall elections have some wondering whether Taiwan is too democratic for its own good. Some see benefits for China in elections that “never end.” 
  <p class="updated_time"> 05:22 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
  <p class="updated_time"> 05:08 AM CT, Jan. 07 </p> 
