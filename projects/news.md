@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:57 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/world/asia/pakistan-snow-kills-21-murree-hill-station.html">Heavy Snow Kills 21 at Murree Hill Station in Pakistan</a> NYT: Stranded in their cars on snow-covered roads, some in the mountainside town of Murree froze to death and others died from carbon monoxide poisoning. 
+ <p class="updated_time"> 09:49 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/world/europe/kazakhstan-russia.html">Amid Crisis, Kazakhstan’s Leader Chose His Path: Embrace Russia</a> NYT: With his government under siege, Kassym-Jomart Tokayev, Kazakhstan’s president, turned to Russia’s Vladimir V. Putin for support. The choice could realign Central Asia’s politics. 
  <p class="updated_time"> 09:30 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/kazakhstan-protests.html">Kazakhstan Arrests Karim Masimov, Ex-Intelligence Chief, on Suspicion of Treason</a> NYT: The president had dismissed the intelligence chief, Karim Masimov, this week amid violence that may be tied, at least in part, to political infighting. 
  <p class="updated_time"> 09:27 AM CT, Jan. 08 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59920379?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Having Covid gave tennis star vaccine exemption - lawyers</a> BBC: Novak Djokovic's lawyers say a positive test on 16 December allows the tennis star entry to Australia. 
  <p class="updated_time"> 09:08 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071554990/kazakhstan-anti-terror-arrest">Kazakhstan's former anti-terror chief is arrested over protests</a> NPR: Karim Masimov has been arrested on charges of attempting to overthrow the government following violent protests that the president has blamed on foreign-backed terrorists. 
- <p class="updated_time"> 09:03 AM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/world/asia/pakistan-snow-kills-21-murree-hill-station.html">Heavy Snow Kills 21 at Murree Hill Station in Pakistan</a> NYT: Stranded in their cars on snow covered roads, some in the mountainside town of Murree froze to death and others died from carbon monoxide poisoning. 
  <p class="updated_time"> 08:34 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59920221?at_medium=RSS&at_campaign=KARANGA">Turkmenistan plans to close its 'Gateway to Hell'</a> BBC: The site, a fire burning for decades in a huge desert gas crater, is a popular tourist attraction. 
  <p class="updated_time"> 08:23 AM CT, Jan. 08 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/americas/rio-carnival-parties-parade-brazil.html">Rio Cancels Carnival Street Parties but Keeps Parade</a> NYT: As the Omicron variant sweeps the globe, the parties in Rio de Janeiro, which ordinarily draw millions of revelers, have been called off for a second year. 
  <p class="updated_time"> 02:10 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/britain-same-sex-pardon.html">Britain Extends Pardons Policy for Consensual Same-Sex Partners</a> NYT: The government’s action expands earlier legislative efforts, but for some gay people it is too little, too late. “It impacted me my whole life,” one man said of his conviction. 
- <p class="updated_time"> 01:51 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/europe/germany-legalize-recreational-marijuana.html">German Start-Ups Lay the Groundwork for a Marijuana Bonanza</a> NYT: Two of the three parties in Germany’s new governing coalition support legalization, a potentially radical shift in the conservative country. 
  <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
 
