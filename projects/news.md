@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:57 AM CT, Jan. 08 </p> 
+ <p class="updated_time"> 02:16 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59920379?at_medium=RSS&at_campaign=KARANGA">Djokovic: Covid infection gave him vaccine exemption, lawyers say</a> BBC: Novak Djokovic had a recent positive test giving him a vaccine exemption to enter Australia, his lawyers say. 
+ <p class="updated_time"> 02:10 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/world/europe/coronavirus-omicron-biden-boris-johnson.html">How Biden and Boris Johnson Reached the Same Place on Virus Policy</a> NYT: Two different leaders with differing approaches landed on a policy of coexisting with the virus. Analysts say they had little choice. 
+ <p class="updated_time"> 02:00 AM CT, Jan. 08 </p> 
+ <a href="https://www.npr.org/2022/01/08/1070512969/us-missile-defense-thaad-south-korea-north-korea-china">A South Korean village is protesting U.S. plans for THAAD missile defense upgrades</a> NPR: The potential upgrade at a U.S. air defense base, within range of missiles in North Korea and China, has residents concerned as Seoul walks a delicate balancing act between the rival powers. 
  <p class="updated_time"> 01:54 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071526763/tallest-galapagos-volcano-erupts-spewing-lava-and-ash">Tallest Galapagos volcano erupts, spewing lava and ash</a> NPR: Ecuador's Emergency Operations Committee said the eruption on Isabela Island didn't represent a risk to humans or to native local species. 
  <p class="updated_time"> 12:30 AM CT, Jan. 08 </p> 
@@ -151,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1071064002/in-spain-the-wise-men-are-kings">In Spain, the Wise Men are Kings</a> NPR: For Christians, Wednesday night marked the Epiphany: the 12th day of Christmas, when the Wise Men or Three Kings bring presents to Jesus in Bethlehem. In Spain, it's a holiday not to be missed. 
  <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1071060684/dozens-are-reported-dead-in-kazakhstan-where-an-anti-government-revolt-is-underw">Dozens are reported dead in Kazakhstan, where an anti-government revolt is underway</a> NPR: NPR's Mary Louise Kelly talks with Melinda Haring, Deputy Director for Atlantic Council's Eurasia Center, on the situation in Kazakhstan and its implications for the rest of the world. 
- <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1071060678/covid-is-spiking-in-india-further-straining-the-countrys-health-system">COVID is spiking in India, further straining the country's health system</a> NPR: India's COVID-19 caseload is quickly rising, as omicron threatens the country's already precarious health system. 
  <p class="updated_time"> 03:31 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/europe/boris-johnson-ethics-britain-uk.html">Ethics Adviser Rebukes Boris Johnson Over Downing Street Decorations</a> NYT: The adviser said it was “plainly unsatisfactory” that he was not told that Mr. Johnson had petitioned a prominent donor to arrange financing for the makeover of his apartment. 
  <p class="updated_time"> 02:43 PM CT, Jan. 06 </p> 
