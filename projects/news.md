@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:55 PM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/us/mine-collapse-pennsylvania-fayette-county.html">Worker Killed in Pennsylvania Mine Collapse, State Officials Say</a> NYT: The fatal injury occurred when the mine’s roof fell onto equipment the miner was using, officials said. No one else was caught in the collapse. 
  <p class="updated_time"> 03:07 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/us-discuss-missiles-military-exercises-ukraine-526800">U.S. to discuss missiles in Ukraine and military exercises with Russians, officials say</a> Politico: The U.S. will arrive in Europe ready to dial down tensions, but how seriously Russia wants to deal is anyone's guess. 
  <p class="updated_time"> 02:06 PM CT, Jan. 08 </p> 
@@ -318,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/unemployment-rate-falls-december-526727">U.S. jobless rate sinks to 3.9 percent as many more people find jobs</a> Politico: U.S. employers added a modest 199,000 jobs last month while the unemployment rate fell sharply, at a time when businesses are struggling to fill jobs with many Americans remaining reluctant to return to the workforce. 
  <p class="updated_time"> 09:30 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/scotus-vaccine-mandate-omicron-covid-526711">Biden’s federal vaccine mandate for workplace in trouble at Supreme Court</a> Politico: The pair of requirements, which would affect tens of millions of workers, have been in legal limbo since agencies published them last year. 
- <p class="updated_time"> 08:37 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-trump-jan-6.html">On Jan. 6 Anniversary, Biden Goes After Trump and Trumpism</a> NYT: In a speech marking the anniversary of the Capitol riot, the president confronted Trumpism, even as he refused to utter his predecessor’s name. 
  <p class="updated_time"> 08:00 AM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/mark-kelly-9-million-fourth-quarter-arizona/index.html">Sen. Mark Kelly raises nearly $9 million in final three months of 2021</a> CNN: Sen. Mark Kelly raised nearly $9 million in the final three months of 2021, a figure that surpasses what he raised in the previous three months and positions the Arizona Democrat to be one of the best funded candidates in the 2022 midterms. 
  <p class="updated_time"> 07:38 AM CT, Jan. 07 </p> 
