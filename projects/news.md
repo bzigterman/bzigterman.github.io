@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:54 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: The Supreme Court heard arguments over President Biden’s vaccine mandates, and Citigroup will dismiss unvaccinated employees by the end of the month. 
- <p class="updated_time"> 11:16 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 12:01 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59918004?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Blinken questions Russian troop deployment</a> BBC: Secretary of State Antony Blinken says reasons for sending about 2,500 Russian-led troops are unclear. 
+ <p class="updated_time"> 12:01 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: The Supreme Court heard arguments over President Biden’s vaccine mandates, and Citigroup will dismiss unvaccinated employees by the end of the month. 
  <p class="updated_time"> 10:21 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
  <p class="updated_time"> 09:50 PM CT, Jan. 07 </p> 
