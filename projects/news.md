@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:09 PM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/world/asia/pakistan-snow-kills-21-murree-hill-station.html">Heavy Snow Kills 21 at Murree Hill Station in Pakistan</a> NYT: Stranded in their cars on snow-covered roads, some in the mountainside town of Murree froze to death and others died from carbon monoxide poisoning. 
  <p class="updated_time"> 12:52 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 12:42 PM CT, Jan. 08 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071565479/turkmenistan-gates-of-hell-fire">Turkmenistan's leader wants 'Gates of Hell' fire put out</a> NPR: The president of Turkmenistan is calling for an end to one of the country's most notable but infernal sights — a natural gas crater that has burned for decades. 
  <p class="updated_time"> 10:28 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59920215?at_medium=RSS&at_campaign=KARANGA">Pakistan: Many dead as heavy snow traps drivers in their vehicles</a> BBC: Some 1,000 vehicles were trapped during a blizzard in the town of Murree, the interior minister says. 
- <p class="updated_time"> 09:57 AM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/world/asia/pakistan-snow-kills-21-murree-hill-station.html">Heavy Snow Kills 21 at Murree Hill Station in Pakistan</a> NYT: Stranded in their cars on snow-covered roads, some in the mountainside town of Murree froze to death and others died from carbon monoxide poisoning. 
  <p class="updated_time"> 09:30 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/kazakhstan-protests-karim-masimov-arrest.html">Kazakhstan Arrests Karim Masimov, Ex-Intelligence Chief, on Suspicion of Treason</a> NYT: The president had dismissed the intelligence chief, Karim Masimov, this week amid violence that may be tied, at least in part, to political infighting. 
  <p class="updated_time"> 09:27 AM CT, Jan. 08 </p> 
@@ -191,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
  <p class="updated_time"> 06:56 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/health/covid-rapid-test-omicron-detection.html">Emerging Data Raise Questions About Antigen Tests and Nasal Swabs</a> NYT: A new study adds to evidence that common rapid tests may fail to detect some Omicron cases in the first days of infection. 
- <p class="updated_time"> 05:11 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/europe/italy-female-statue-padua-prato-della-valle.html">Italy Proposal to Add Female Statue to Square of Men Stirs Debate</a> NYT: In Padua, Italy, a proposal to include a female philosopher in a monument whose 78 sculptures are all men has spurred debate. 
  <p class="updated_time"> 03:56 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/americas/rio-carnival-parties-parade-brazil.html">Rio Cancels Carnival Street Parties but Keeps Parade</a> NYT: As the Omicron variant sweeps the globe, the parties in Rio de Janeiro, which ordinarily draw millions of revelers, have been called off for a second year. 
  <p class="updated_time"> 02:10 PM CT, Jan. 05 </p> 
