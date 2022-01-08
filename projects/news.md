@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:31 AM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59920213?at_medium=RSS&at_campaign=KARANGA">India restores foreign funding permit for Mother Teresa charity</a> BBC: The charity's license was revoked at Christmas, in the wake of accusations it was trying to convert Indians. 
  <p class="updated_time"> 02:16 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59920379?at_medium=RSS&at_campaign=KARANGA">Djokovic: Covid infection gave him vaccine exemption, lawyers say</a> BBC: Novak Djokovic had a recent positive test giving him a vaccine exemption to enter Australia, his lawyers say. 
  <p class="updated_time"> 02:10 AM CT, Jan. 08 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/climate/road-salt-water-supply.html">Road Salt Works. But It’s Also Bad for the Environment.</a> NYT: The chemical is effective at keeping roads free of snow and ice, but it also has damaging consequences, according to a growing body of research. 
  <p class="updated_time"> 11:57 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/01/07/1071101792/photos-scenes-kazakhstan-protests-crackdown">Photos: Dramatic scenes from Kazakhstan's massive protests and crackdown</a> NPR: Here are some of the images of the unrest this week in the former Soviet republic of Kazakhstan, where the authoritarian government is fighting to quash large public protests. 
- <p class="updated_time"> 11:56 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59910842?at_medium=RSS&at_campaign=KARANGA">Omicron: Huge number of Covid cases on second Italy-India flight say Indian officials</a> BBC: Majority of passengers on two flights from Italy to Amritsar in India test positive for Covid-19. 
  <p class="updated_time"> 11:20 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests-strongmen.html">Behind Kazakhstan Unrest, the ‘Strongman’s Dilemma’</a> NYT: Since the Cold War’s end, most dictatorial governments have collapsed after their ruler’s departure. 
  <p class="updated_time"> 11:08 AM CT, Jan. 07 </p> 
