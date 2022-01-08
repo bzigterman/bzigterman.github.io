@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:55 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 08:13 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: The Supreme Court heard arguments over President Biden’s vaccine mandates, and Citigroup will dismiss unvaccinated employees by the end of the month. 
  <p class="updated_time"> 07:26 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/sports/olympics/alysa-liu-coronavirus.html">Alysa Liu Will Miss National Championships After Positive Coronavirus Test</a> NYT: The teenager had hoped a strong showing would secure her a spot on the U.S. team for the Beijing Winter Olympics next month. 
@@ -42,7 +42,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:58 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071409661/in-remote-honduras-institutions-are-permeated-by-organized-drug-crime">Institutions in remote Honduras are permeated by organized drug crime</a> NPR: NPR's Audie Cornish speaks with veteran journalist Carlos Dada, founder of El Faro newspaper, about his latest reporting from Honduras. 
  <p class="updated_time"> 03:53 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59912361?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Jogger's murderers sentenced to life in prison</a> BBC: Three men who killed the black jogger given life sentences by judge who condemns "callous" murder. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59912361?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Jogger's murderers sentenced to life in prison</a> BBC: The sentencing judge condemns the three men for the "callous" murder of the black jogger. 
  <p class="updated_time"> 03:41 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071409646/a-hero-tells-the-story-of-how-complicated-a-good-deed-and-a-small-lie-can-be">'A Hero' tells the story of how complicated a good deed (and a small lie) can be</a> NPR: NPR's Mary Louise Kelly speaks with Iranian director Asghar Farhadi about his new film, A Hero. The story examines the complexity of what appears to many to be a good deed. 
  <p class="updated_time"> 03:38 PM CT, Jan. 07 </p> 
@@ -200,10 +200,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:42 PM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-colorado-fires.html">Biden Consoles Residents in Fire-Ravaged Colorado</a> NYT: The president said the devastation caused by natural disasters rooted in climate change was “a blinking ‘code red’ for our nation.” 
+ <p class="updated_time"> 08:36 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/lani-guinier-dies/index.html">Lani Guinier, voting rights champion and former assistant attorney general nominee, dies at 71</a> CNN: Lani Guinier, a legal scholar and champion for voting rights who was once nominated to be assistant attorney general by then-President Bill Clinton, died on Friday, her cousin, Sherrie Russell-Brown, confirmed to CNN. She was 71. 
  <p class="updated_time"> 07:42 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Supreme Court’s Conservative Majority Appears Skeptical of Biden’s Virus Plan</a> NYT: The court seemed more likely to sustain a separate requirement that health care workers at facilities that receive federal money be vaccinated. 
  <p class="updated_time"> 07:26 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/jan-6-investigators-pence-interview-526790">Jan. 6 investigators eyeing Pence interview this month</a> Politico: Pence was the target of an intense pressure campaign to single-handedly overturn the election results on Jan. 6, 2021. 
+ <p class="updated_time"> 07:25 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/mark-meadows-donald-trump-supreme-court-2020-election/index.html">Meadows urges Supreme Court to take up Trump's case that aims to keep presidential records secret</a> CNN: Former White House chief of staff Mark Meadows is urging the Supreme Court to take up former President Donald Trump's case aiming to keep secret records from his presidency about efforts to overturn the 2020 election and the January 6 insurrection -- as he, like Trump, tries to evade a House select committee's investigation into the attack on the US Capitol. 
  <p class="updated_time"> 07:08 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/bidens-colorado-wildfire/index.html">Biden promises federal government will stick by communities devastated by Colorado wildfire</a> CNN: President Joe Biden and first lady Jill Biden are scheduled to travel to Colorado on Friday to meet with families who were affected by a recent massive wildfire that destroyed hundreds of homes and thousands of acres. 
  <p class="updated_time"> 06:46 PM CT, Jan. 07 </p> 
@@ -348,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1071060682/how-the-narrative-of-the-jan-6-insurrection-has-changed-in-the-last-year">How the narrative of the Jan. 6 insurrection has changed in the last year</a> NPR: It's been a year since the deadly attack on the Capitol. And as arrests continue and jail sentences begin for those who committed violent acts there, the narrative surrounding the event has shifted. 
  <p class="updated_time"> 03:34 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1071060677/sen-warnock-says-voting-rights-legislation-is-a-moral-issue">Sen. Warnock says voting rights legislation is a moral issue</a> NPR: NPR's Ailsa Chang talks with Sen. Raphael Warnock, D-Geor., who says that if Congress doesn't pass voting legislation, it will have "failed in the trust the people have given us." 
- <p class="updated_time"> 02:54 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/congress-corporate-donations-2020-election-overturn.html">Companies Donated Millions to Those Who Voted to Overturn Biden's Win</a> NYT: One year after the Capitol riot, many businesses resumed corporate donations to lawmakers who voted against certifying the 2020 election. 
  <p class="updated_time"> 02:41 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/trapped-capitol-jan-6.html">Remembering Jan. 6, When He Was Trapped Alone in the Capitol</a> NYT: Wayne K. Williams, a top aide to the No. 5 House Democrat, was the only member of his staff in the Capitol on Jan. 6, 2021. He was barricaded in his office alone as mayhem reigned. 
  <p class="updated_time"> 02:41 PM CT, Jan. 06 </p> 
@@ -398,16 +402,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/05/republicans-dodge-and-deflect-ahead-of-jan-6-495599"> Republicans dodge and deflect ahead of Jan. 6</a> Politico Playbook: And prices for at-home Covid-19 tests rise. 
  <p class="updated_time"> 10:16 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
- <p class="updated_time"> 02:28 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/biden-covid-meeting-remarks-guidelines/index.html">Biden announces US will double its order of Pfizer's antiviral pill to treat Covid-19</a> CNN: President Joe Biden will receive a briefing from his Covid-19 response team and deliver remarks on the Omicron variant Tuesday afternoon, as the US reached more than 100,000 hospitalizations due to to the illness for the first time in four months. 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/manchin-biden-spending-bill-negotiation-526486">Manchin on Biden's spending bill: 'No negotiation going on'</a> Politico: The West Virginia senator thinks Democrats would be better off focusing on climate provisions in their wide-ranging megabill. 
  <p class="updated_time"> 12:47 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/omicron-ontario-canada-covid-restrictions-526484">As Covid policies divide America, Ontario doubles down (again)</a> Politico: The latest Covid shutdowns test the trust of the jabbed and boosted in Canada’s most populous province. 
- <p class="updated_time"> 12:00 PM CT, Jan. 04 </p> 
- <a href="https://www.cnn.com/2022/01/04/politics/mitch-landrieu-letter-to-governors-infrastructure/index.html">Biden's infrastructure czar urges governors to appoint their own infrastructure implementation coordinators</a> CNN: President Joe Biden's infrastructure czar Mitch Landrieu sent letters to all the nation's governors on Tuesday urging them to appoint their own infrastructure implementation coordinators to smooth the rollout of the $1.2 trillion law. 
  <p class="updated_time"> 10:46 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/ruben-gallego-merrick-garland-capitol-attack-526480">Gallego: Garland 'extremely weak' on Jan. 6 cases</a> Politico: The Arizona Democrat also directed his ire at GOP lawmakers who he accused of trying to shield Jan. 6 rioters. 
  <p class="updated_time"> 07:51 AM CT, Jan. 04 </p> 
