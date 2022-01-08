@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:07 PM CT, Jan. 08 </p> 
+ <a href="https://www.politico.com/news/2022/01/08/us-discuss-missiles-military-exercises-ukraine-526800">U.S. to discuss missiles in Ukraine and military exercises with Russians, officials say</a> Politico: The U.S. will arrive in Europe ready to dial down tensions, but how seriously Russia wants to deal is anyone's guess. 
  <p class="updated_time"> 02:06 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/us/politics/john-thune-senate-re-election.html">John Thune, No. 2 Senate Republican, Will Seek Re-election</a> NYT: The three-term South Dakotan had considered retiring because of family concerns and the continuing grip of former President Donald J. Trump on the Republican Party. 
  <p class="updated_time"> 01:09 PM CT, Jan. 08 </p> 
@@ -408,8 +410,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/05/republicans-dodge-and-deflect-ahead-of-jan-6-495599"> Republicans dodge and deflect ahead of Jan. 6</a> Politico Playbook: And prices for at-home Covid-19 tests rise. 
  <p class="updated_time"> 10:16 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
- <p class="updated_time"> 03:36 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/police-officer-lawsuits-capitol-riot-trump-526491">Police officer lawsuits pile up against Trump over Jan. 6</a> Politico: Three more officers who responded to the Jan. 6 attack filed a lawsuit against the former president Tuesday, seeking damages for physical and emotional injuries. 
  <p class="updated_time"> 01:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
