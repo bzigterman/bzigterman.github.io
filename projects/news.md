@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:13 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 08:52 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Live Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: The Supreme Court heard arguments over President Biden’s vaccine mandates, and Citigroup will dismiss unvaccinated employees by the end of the month. 
  <p class="updated_time"> 07:26 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/sports/olympics/alysa-liu-coronavirus.html">Alysa Liu Will Miss National Championships After Positive Coronavirus Test</a> NYT: The teenager had hoped a strong showing would secure her a spot on the U.S. team for the Beijing Winter Olympics next month. 
@@ -200,8 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:42 PM CT, Jan. 07 </p> 
+ <p class="updated_time"> 09:04 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-colorado-fires.html">Biden Consoles Residents in Fire-Ravaged Colorado</a> NYT: The president said the devastation caused by natural disasters rooted in climate change was “a blinking ‘code red’ for our nation.” 
+ <p class="updated_time"> 09:00 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/january-6-committee-mike-pence-appear/index.html">January 6 committee considering asking Mike Pence to voluntarily appear before panel</a> CNN: The House select committee investigating the January 6 attack on the US Capitol is considering formally asking former Vice President Mike Pence to voluntarily appear before the panel, with the possibility that request could come by the end of the month. 
  <p class="updated_time"> 08:36 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/lani-guinier-dies/index.html">Lani Guinier, voting rights champion and former assistant attorney general nominee, dies at 71</a> CNN: Lani Guinier, a legal scholar and champion for voting rights who was once nominated to be assistant attorney general by then-President Bill Clinton, died on Friday, her cousin, Sherrie Russell-Brown, confirmed to CNN. She was 71. 
  <p class="updated_time"> 07:42 PM CT, Jan. 07 </p> 
@@ -212,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/mark-meadows-donald-trump-supreme-court-2020-election/index.html">Meadows urges Supreme Court to take up Trump's case that aims to keep presidential records secret</a> CNN: Former White House chief of staff Mark Meadows is urging the Supreme Court to take up former President Donald Trump's case aiming to keep secret records from his presidency about efforts to overturn the 2020 election and the January 6 insurrection -- as he, like Trump, tries to evade a House select committee's investigation into the attack on the US Capitol. 
  <p class="updated_time"> 07:08 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/bidens-colorado-wildfire/index.html">Biden promises federal government will stick by communities devastated by Colorado wildfire</a> CNN: President Joe Biden and first lady Jill Biden are scheduled to travel to Colorado on Friday to meet with families who were affected by a recent massive wildfire that destroyed hundreds of homes and thousands of acres. 
- <p class="updated_time"> 06:46 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/january-6-committee-mike-pence-appear/index.html">January 6 committee considering asking Mike Pence to voluntarily appear before panel</a> CNN: The House select committee investigating the January 6 attack on the US Capitol is considering formally asking former Vice President Mike Pence to voluntarily appear before the panel, with the possibility that request could come by the end of the month. 
  <p class="updated_time"> 06:20 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/lani-guinier-dead.html">Lani Guinier, Legal Scholar at the Center of Controversy, Dies at 71</a> NYT: President Bill Clinton pulled her nomination as assistant attorney general in 1993 after she came under criticism for her views on voting rights. 
  <p class="updated_time"> 06:13 PM CT, Jan. 07 </p> 
