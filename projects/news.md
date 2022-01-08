@@ -18,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:08 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/business/teslas-computer-chips-supply-chain.html">Why Tesla Soared as Other Automakers Struggled to Make Cars</a> NYT: The yawning disparity between the performance of the electric car company and established automakers last year reflects the technological change roiling the industry. 
  <p class="updated_time"> 11:15 AM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59924477?at_medium=RSS&at_campaign=KARANGA">Heavy snow leaves many dead in northern Pakistan</a> BBC: Would-be tourists travelled to see the unusual amount of snow but around 1,000 cars became stranded in a blizzard. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59924477?at_medium=RSS&at_campaign=KARANGA">Heavy snow leaves many dead in northern Pakistan</a> BBC: Would-be tourists travelled to Murree to see snow but around 1,000 cars became stranded in a blizzard. 
  <p class="updated_time"> 11:09 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071565479/turkmenistan-gates-of-hell-fire">Turkmenistan's leader wants 'Gates of Hell' fire put out</a> NPR: The president of Turkmenistan is calling for an end to one of the country's most notable but infernal sights — a natural gas crater that has burned for decades. 
  <p class="updated_time"> 10:28 AM CT, Jan. 08 </p> 
@@ -204,10 +204,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:09 PM CT, Jan. 08 </p> 
+ <a href="https://www.cnn.com/2022/01/08/politics/john-thune-reelection-south-dakota/index.html">Sen. John Thune announces he will run for re-election</a> CNN: South Dakota Sen. John Thune, the No. 2 Republican in the Senate, announced Saturday he is running for re-election in 2022. 
  <p class="updated_time"> 12:41 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/senate-minority-whip-john-thune-to-run-for-reelection-526794">Senate Minority Whip John Thune to run for reelection</a> Politico: The 61-year-old South Dakotan is widely viewed as a potential successor to Senate Minority Leader Mitch McConnell 
- <p class="updated_time"> 12:10 PM CT, Jan. 08 </p> 
- <a href="https://www.cnn.com/2022/01/08/politics/john-thune-reelection-south-dakota/index.html">Sen. John Thune announces he will run for re-election</a> CNN: South Dakota Sen. John Thune, the No. 2 Republican in the Senate, announced Saturday he is running for re-election in 2022. 
  <p class="updated_time"> 12:09 PM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1066855802/john-thune-senate-reelection">John Thune, No. 2 Senate GOP leader, announces he will seek reelection</a> NPR: The South Dakota Republican, a likely successor to Republican leader Mitch McConnell, says he will run for reelection in 2022, putting an end to the speculation about his political future. 
  <p class="updated_time"> 12:08 PM CT, Jan. 08 </p> 
