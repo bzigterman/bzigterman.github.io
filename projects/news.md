@@ -7,8 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:46 AM CT, Jan. 08 </p> 
+ <p class="updated_time"> 05:12 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
+ <p class="updated_time"> 05:05 AM CT, Jan. 08 </p> 
+ <a href="https://www.npr.org/2022/01/08/1071537135/how-bosnias-dodik-went-from-a-moderate-reformist-to-genocide-denying-secessionis">How Bosnia's Dodik went from a moderate reformist to genocide-denying secessionist</a> NPR: Bosnian Serb leader responds to new U.S. sanctions saying the days when the U.S. and other Western democracies "modeled Bosnia to their taste" are long gone. 
+ <p class="updated_time"> 05:03 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59920215?at_medium=RSS&at_campaign=KARANGA">Pakistan: Many dead as heavy snow traps drivers in their vehicles</a> BBC: Some 1,000 vehicles were trapped during a blizzard in the town of Murree, the interior minister says. 
+ <p class="updated_time"> 05:00 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/world/australia/djokovic-australia-visa.html">Djokovic Tested Positive for Coronavirus in December, His Lawyers Say</a> NYT: Lawyers for the tennis star, who is appealing Australia’s decision to deny him entry, said the positive test came weeks before he flew to the country. 
+ <p class="updated_time"> 05:00 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/world/canada/blackberry-phone-service-ends.html">BlackBerry Phone Service Officially Ends</a> NYT: BlackBerry was once Canada’s most valuable company and a global force in tech. The final step in its downfall as a phone maker arrived this week. 
  <p class="updated_time"> 04:43 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59920379?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Having Covid gave tennis star vaccine exemption - lawyers</a> BBC: Novak Djokovic's lawyers say a positive test on 16 December allows the tennis star entry to Australia. 
  <p class="updated_time"> 04:26 AM CT, Jan. 08 </p> 
@@ -29,10 +37,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071526763/tallest-galapagos-volcano-erupts-spewing-lava-and-ash">Tallest Galapagos volcano erupts, spewing lava and ash</a> NPR: Ecuador's Emergency Operations Committee said the eruption on Isabela Island didn't represent a risk to humans or to native local species. 
  <p class="updated_time"> 12:30 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: The Supreme Court heard arguments over President Biden’s vaccine mandates, and Citigroup will dismiss unvaccinated employees by the end of the month. 
+ <p class="updated_time"> 12:02 AM CT, Jan. 08 </p> 
+ <a href="https://www.wsj.com/articles/mystery-surrounds-absence-of-kazakhstans-longtime-leader-as-protesters-challenge-state-he-built-11641639722">Mystery Surrounds Absence of Kazakhstan's Longtime Leader</a> WSJ: Since unrest started this week, the 81-year-old former president hasn’t been seen in public and his successor has moved to undermine his authority. 
  <p class="updated_time"> 12:01 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59918004?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Blinken questions Russian troop deployment</a> BBC: Secretary of State Antony Blinken says reasons for sending about 2,500 Russian-led troops are unclear. 
- <p class="updated_time"> 10:21 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
  <p class="updated_time"> 09:50 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/india-12-booster-shots.html">12 Covid Vaccine Shots Aren't Enough for 85-Year-Old in India</a> NYT: The retired postman said he gamed the offline vaccination drive to keep boosting regularly — long before booster shots were a thing anywhere. 
  <p class="updated_time"> 09:45 PM CT, Jan. 07 </p> 
@@ -111,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59906706?at_medium=RSS&at_campaign=KARANGA">Truck spends three days dangling over China cliff</a> BBC: The driver is said to have tried to reverse on a narrow mountain road. 
  <p class="updated_time"> 10:04 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27198480?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: The actor who broke down Hollywood's racial barriers</a> BBC: Sidney Poitier, the actor and director who helped break down Hollywood's racial barriers, dies aged 94. 
- <p class="updated_time"> 09:57 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642">Kazakh Leader Gives Security Forces Order to Shoot Without Warning</a> WSJ: President Kassym-Jomart Tokayev signaled a broader crackdown against opponents as his security forces moved to restore control after days of unrest. 
  <p class="updated_time"> 09:31 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/italian-mafia-fugitive-google-maps.html">Italian Mafia Fugitive Caught In Spain Thanks to Google Maps</a> NYT: Investigators had tracked the man to a town in Spain, and an image found online confirmed that the police were on the right track. 
  <p class="updated_time"> 09:05 AM CT, Jan. 07 </p> 
@@ -121,10 +127,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/asia/kazakhstan-putin-russia.html">In Kazakhstan, Putin Again Seizes on Unrest to Try to Expand Influence</a> NYT: But a series of revolts against a pro-Russian strongman could also plant the seeds of rebellion at home, analysts say. 
  <p class="updated_time"> 08:39 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/arts/music/einar-sweden-rap.html">After Killing of Einar, Sweden Struggles With 'Gangster Rap'</a> NYT: Hip-hop, the country’s most popular music, has quickly become a lightning rod for Sweden’s long-roiling problems with gun violence and gang warfare. 
+ <p class="updated_time"> 06:03 AM CT, Jan. 07 </p> 
+ <a href="https://www.wsj.com/articles/revenge-recalls-spark-debate-in-taiwan-how-much-democracy-is-too-much-11641558601">'Revenge Recalls' Spark Debate in Taiwan: How Much Democracy Is Too Much?</a> WSJ: Popular referendums and recall elections have some wondering whether Taiwan is too democratic for its own good. Some see benefits for China in elections that “never end.” 
  <p class="updated_time"> 06:00 AM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/taiwan-stages-military-drills-to-deter-chinese-aggression-11641574834">Taiwan Stages Military Drills to Deter Chinese Aggression</a> WSJ: Aerial, naval and urban-warfare exercises aim to make China’s People’s Liberation Army “think twice,” a senior Taiwanese officer says. 
- <p class="updated_time"> 05:27 AM CT, Jan. 07 </p> 
- <a href="https://www.wsj.com/articles/kazakhstans-elite-got-richer-on-natural-resources-then-came-the-unrest-11641572839">Kazakhstan's Elite Got Richer on Natural Resources. Then Came the Unrest.</a> WSJ: In a country with huge reserves of oil, precious metals and uranium, the outsize wealth of a small group of oligarchs and outrage over corruption fed popular anger. 
  <p class="updated_time"> 05:22 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
  <p class="updated_time"> 05:08 AM CT, Jan. 07 </p> 
@@ -155,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59879762?at_medium=RSS&at_campaign=KARANGA">Lithuania: The European state that dared to defy China then wobbled</a> BBC: It stood up to China over Taiwan, but this week Lithuania's president said it made a mistake. 
  <p class="updated_time"> 05:36 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/china-xian-lockdown-covid.html">Xi'an Is China's Biggest Covid Challenge Since Wuhan</a> NYT: Xi’an, a city of 13 million people, has been on lockdown since Dec. 22, the longest in the country since the early days of the outbreak in Wuhan. 
- <p class="updated_time"> 04:04 PM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1071060685/iranian-oscars-entry-a-hero-explores-the-complexity-of-a-good-deed">Iranian Oscars entry 'A Hero' explores the complexity of a good deed</a> NPR: The Iranian film A Hero is about a man who becomes a celebrity after doing a good deed. In filmmaker Asghar Farhadi's hands, what seems to be a black and white morality tale becomes more gray. 
  <p class="updated_time"> 03:54 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/health/covid-vaccines-boosters.html">Scientists Endorse Covid Boosters, But to a Point</a> NYT: Everyone should get a booster shot. In the long run, though, doses every few months aren’t a viable public health strategy, scientists say. 
  <p class="updated_time"> 03:31 PM CT, Jan. 06 </p> 
@@ -177,14 +181,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/australia/novak-djokovic-covid.html">Novak Djokovic Collides With Australia’s Covid Fight</a> NYT: Barring the tennis star from entering the country offers a chance to change the subject as an election looms and coronavirus cases are at record highs. 
  <p class="updated_time"> 02:48 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
- <p class="updated_time"> 01:28 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html">Russia-Allied Forces to Intervene as Unrest Sweeps Kazakhstan</a> NYT: The Kazakh president requested the peacekeeping troops as an uprising, sparked by a gas price increase in the resource-rich Central Asian nation, headed toward a fifth day. 
  <p class="updated_time"> 11:04 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/india-omicron-coronavirus.html">India’s Rising Omicron Wave Brings a Grim Sense of Déjà Vu</a> NYT: Just months after Delta fueled hospital failures and funeral pyres, India’s leaders again offer a mixed message: Their political rallies are packed even as they order curfews and work closures. 
  <p class="updated_time"> 10:37 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/covid-variant-france.html">W.H.O. Downplays Threat From New Virus Variant in France</a> NYT: The so-called I.H.U. variant contains numerous mutations of the coronavirus, but experts say it has shown little sign of spreading so far. 
- <p class="updated_time"> 07:29 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/asia/hong-kong-flights.html">Hong Kong Suspends Flights From Eight Countries</a> NYT: The new measures will deepen the city’s isolation and mark a return to the tough restrictions from the early days of the pandemic, as officials race to contain the Omicron variant. 
  <p class="updated_time"> 06:56 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/health/covid-rapid-test-omicron-detection.html">Emerging Data Raise Questions About Antigen Tests and Nasal Swabs</a> NYT: A new study adds to evidence that common rapid tests may fail to detect some Omicron cases in the first days of infection. 
  <p class="updated_time"> 05:11 PM CT, Jan. 05 </p> 
