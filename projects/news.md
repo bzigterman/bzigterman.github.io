@@ -41,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071526763/tallest-galapagos-volcano-erupts-spewing-lava-and-ash">Tallest Galapagos volcano erupts, spewing lava and ash</a> NPR: Ecuador's Emergency Operations Committee said the eruption on Isabela Island didn't represent a risk to humans or to native local species. 
  <p class="updated_time"> 01:00 AM CT, Jan. 08 </p> 
  <a href="https://www.wsj.com/articles/for-dying-towns-the-pandemic-offers-challengesand-hope-11641643202">For Dying Towns, the Pandemic Offers Challenges---and Hope</a> WSJ: For years, the mayors of many towns in Europe have struggled to prevent their communities from dying out as people have migrated to cities, schools have dwindled and businesses have died out. 
- <p class="updated_time"> 12:30 AM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/01/07/world/omicron-covid-vaccine-tests">Covid Updates: Number of Hospitalized Young Children Who’ve Tested Positive Is Jumping, C.D.C. Says</a> NYT: The Supreme Court heard arguments over President Biden’s vaccine mandates, and Citigroup will dismiss unvaccinated employees by the end of the month. 
  <p class="updated_time"> 12:15 AM CT, Jan. 08 </p> 
  <a href="https://www.wsj.com/articles/novak-djokovics-case-for-entering-australia-was-a-case-of-covid-19-last-month-11641640507">Novak Djokovic's Case for Entering Australia Was a Case of Covid-19 Last Month</a> WSJ: Tennis star Novak Djokovic’s application for a medical exemption from Australia’s vaccination rules hinged on his infection with, and recovery from, Covid-19 in December. 
  <p class="updated_time"> 12:02 AM CT, Jan. 08 </p> 
@@ -185,6 +183,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/england-air-travel.html">England Eases Covid Testing Rules for Air Travelers</a> NYT: With the coronavirus variant so prevalent, Britain’s leader said, there is little point in demanding that visitors screen themselves for it. 
  <p class="updated_time"> 11:04 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/india-omicron-coronavirus.html">India’s Rising Omicron Wave Brings a Grim Sense of Déjà Vu</a> NYT: Just months after Delta fueled hospital failures and funeral pyres, India’s leaders again offer a mixed message: Their political rallies are packed even as they order curfews and work closures. 
+ <p class="updated_time"> 10:37 PM CT, Jan. 05 </p> 
+ <a href="https://www.nytimes.com/2022/01/05/world/covid-variant-france.html">W.H.O. Downplays Threat From New Virus Variant in France</a> NYT: The so-called I.H.U. variant contains numerous mutations of the coronavirus, but experts say it has shown little sign of spreading so far. 
  <p class="updated_time"> 06:56 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/health/covid-rapid-test-omicron-detection.html">Emerging Data Raise Questions About Antigen Tests and Nasal Swabs</a> NYT: A new study adds to evidence that common rapid tests may fail to detect some Omicron cases in the first days of infection. 
  <p class="updated_time"> 05:11 PM CT, Jan. 05 </p> 
@@ -205,7 +205,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 07:01 AM CT, Jan. 08 </p> 
- <a href="https://www.politico.com/news/2022/01/08/campaign-fundraising-nft-526787">The hot new campaign swag: NFTs</a> Politico: Consultants are launching NFT platforms to help clients cash in on the boom and engage with voters after the technology exploded in popularity last year. 
+ <a href="https://www.politico.com/news/2022/01/08/campaign-fundraising-nft-526787">Forget T-shirts and tote bags. NFTs are the hot new campaign swag.</a> Politico: Consultants are launching NFT platforms to help clients cash in on the boom and engage with voters after the technology exploded in popularity last year. 
  <p class="updated_time"> 06:00 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071239044/congress-may-change-this-arcane-law-to-avoid-another-jan-6">Congress may change this arcane law to avoid another Jan. 6</a> NPR: Lawmakers passed the Electoral Count Act in 1887 after a contested election, and experts say they did a "terrible job." There may now be bipartisan support for a refresh. 
  <p class="updated_time"> 04:00 AM CT, Jan. 08 </p> 
@@ -296,6 +296,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/ted-cruz-jan-6-terrorist-attack-capitol/index.html">Ted Cruz told the truth about the 1/6 attack. Then he started backtracking.</a> CNN: On Wednesday, Sen. Ted Cruz told the truth about what happened at the US Capitol on January 6, 2021, calling it "a violent terrorist attack on the Capitol, where we saw the men and women of law enforcement demonstrate incredible courage." 
  <p class="updated_time"> 09:33 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/unemployment-rate-falls-december-526727">U.S. jobless rate sinks to 3.9 percent as many more people find jobs</a> Politico: U.S. employers added a modest 199,000 jobs last month while the unemployment rate fell sharply, at a time when businesses are struggling to fill jobs with many Americans remaining reluctant to return to the workforce. 
+ <p class="updated_time"> 09:30 AM CT, Jan. 07 </p> 
+ <a href="https://www.politico.com/news/2022/01/07/scotus-vaccine-mandate-omicron-covid-526711">Biden’s federal vaccine mandate for workplace in trouble at Supreme Court</a> Politico: The pair of requirements, which would affect tens of millions of workers, have been in legal limbo since agencies published them last year. 
  <p class="updated_time"> 08:37 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/biden-trump-jan-6.html">On Jan. 6 Anniversary, Biden Goes After Trump and Trumpism</a> NYT: In a speech marking the anniversary of the Capitol riot, the president confronted Trumpism, even as he refused to utter his predecessor’s name. 
  <p class="updated_time"> 08:00 AM CT, Jan. 07 </p> 
