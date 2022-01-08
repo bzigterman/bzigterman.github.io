@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:50 PM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59920379?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Having Covid gave tennis star vaccine exemption - lawyers</a> BBC: Novak Djokovic's lawyers say a positive test on 16 December allows the tennis star entry to Australia. 
  <p class="updated_time"> 05:08 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59925408?at_medium=RSS&at_campaign=KARANGA">Covid: Thousands protest in France against proposed new vaccine pass</a> BBC: The protests are against a draft law which would in effect ban the unvaccinated from public areas. 
  <p class="updated_time"> 05:06 PM CT, Jan. 08 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/asia/kazakhstan-protests-karim-masimov-arrest.html">Kazakhstan Arrests Karim Masimov, Ex-Intelligence Chief, on Suspicion of Treason</a> NYT: The president had dismissed the intelligence chief, Karim Masimov, this week amid violence that may be tied, at least in part, to political infighting. 
  <p class="updated_time"> 09:27 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59922258?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Ex-intelligence chief arrested for treason</a> BBC: Karim Massimov's arrest comes in the wake of violent, nationwide anti-government protests. 
- <p class="updated_time"> 09:24 AM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59920379?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Having Covid gave tennis star vaccine exemption - lawyers</a> BBC: Novak Djokovic's lawyers say a positive test on 16 December allows the tennis star entry to Australia. 
  <p class="updated_time"> 09:08 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071554990/kazakhstan-anti-terror-arrest">Kazakhstan's former anti-terror chief is arrested over protests</a> NPR: Karim Masimov has been arrested on charges of attempting to overthrow the government following violent protests that the president has blamed on foreign-backed terrorists. 
  <p class="updated_time"> 08:34 AM CT, Jan. 08 </p> 
