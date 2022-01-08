@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:16 PM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/world/chicago-shools-teachers-union-lightfoot.html">Chicago's Mayor Rejects Union's Terms for Returning to School</a> NYT: The standoff between educators and the city’s government shows no signs of abating. 
  <p class="updated_time"> 03:54 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/americas/guantanamo-bay-covid-outbreak.html">Covid Cases Reach Pandemic High at Guantánamo Bay</a> NYT: The American base has reinstated a mandate for wearing masks indoors in response to an increase in infections. 
  <p class="updated_time"> 03:39 PM CT, Jan. 08 </p> 
@@ -20,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:02 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59923898?at_medium=RSS&at_campaign=KARANGA">Basmah bint Saud: Saudi princess released from jail after almost three years</a> BBC: Princess Basma bint Saud and her daughter were held without charge for almost three years. 
  <p class="updated_time"> 12:42 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/world/europe/kazakhstan-russia.html">Amid Crisis, Kazakhstan’s Leader Chose His Path: Embrace Russia</a> NYT: With his government under siege, Kassym-Jomart Tokayev, Kazakhstan’s president, turned to Russia’s Vladimir V. Putin for support. The choice could realign Central Asia’s politics. 
+ <a href="https://www.nytimes.com/2022/01/08/world/europe/kazakhstan-russia.html">Amid Crisis, Kazakhstan's Leader Embraces Russia</a> NYT: With his government under siege, Kassym-Jomart Tokayev, Kazakhstan’s president, turned to Russia’s Vladimir V. Putin for support. The choice could realign Central Asia’s politics. 
  <p class="updated_time"> 12:09 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/australia-djokovic-refugees-hotel.html">Djokovic Stay at Park Hotel Highlights Australia Asylum Seeker Plight</a> NYT: The tennis star is quarantining in a Melbourne hotel where asylum seekers have been held for over a year, under a program that has been widely criticized. 
  <p class="updated_time"> 12:08 PM CT, Jan. 08 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/americas/rio-carnival-parties-parade-brazil.html">Rio Cancels Carnival Street Parties but Keeps Parade</a> NYT: As the Omicron variant sweeps the globe, the parties in Rio de Janeiro, which ordinarily draw millions of revelers, have been called off for a second year. 
  <p class="updated_time"> 02:10 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/britain-same-sex-pardon.html">Britain Extends Pardons Policy for Consensual Same-Sex Partners</a> NYT: The government’s action expands earlier legislative efforts, but for some gay people it is too little, too late. “It impacted me my whole life,” one man said of his conviction. 
- <p class="updated_time"> 01:19 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/history-revisionism-nationalism.html">In a Race to Shape the Future, History Is Under New Pressure</a> NYT: A wave of misleading revisionism has become epidemic in both autocracies and democracies. It has been notably effective — and contagious. 
 
 
 </details>
@@ -204,6 +204,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:22 PM CT, Jan. 08 </p> 
+ <a href="https://www.cnn.com/2022/01/08/politics/harry-reid-memorial/index.html">Obama hails Reid as a Senate majority leader who 'got things done'</a> CNN: Former Senate Majority Leader Harry Reid will be remembered by a host of top Democratic politicians at his memorial service in Las Vegas on Saturday, with President Joe Biden speaking at the service and former President Barack Obama eulogizing the late senator. 
+ <p class="updated_time"> 04:17 PM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/us/politics/us-sanctions-russia-ukraine.html">U.S. Details Costs of a Russian Invasion of Ukraine</a> NYT: The Biden administration and its allies are developing new possible sanctions ahead of a series of meetings to defuse the crisis with Moscow. 
+ <p class="updated_time"> 04:14 PM CT, Jan. 08 </p> 
+ <a href="https://www.npr.org/2022/01/08/1071589631/the-legacy-of-lani-guinier">The legacy of Lani Guinier</a> NPR: NPR's Michel Martin speaks with Spencer Overton, law professor at George Washington University Law School, about the legacy of Lani Guinier, a legal scholar in the field of voting rights. 
+ <p class="updated_time"> 04:14 PM CT, Jan. 08 </p> 
+ <a href="https://www.npr.org/2022/01/08/1071589603/congress-and-the-media-after-jan-6">Congress and the media after Jan. 6</a> NPR: NPR's Michel Martin speaks with Kadia Goba, political reporter for BuzzFeed News, and Paul Kane, senior congressional correspondent and columnist for The Washington Post, about covering Congress. 
  <p class="updated_time"> 03:55 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/us/mine-collapse-pennsylvania-fayette-county.html">Worker Killed in Pennsylvania Mine Collapse, State Officials Say</a> NYT: The fatal injury occurred when the mine’s roof fell onto equipment the miner was using, officials said. No one else was caught in the collapse. 
  <p class="updated_time"> 03:07 PM CT, Jan. 08 </p> 
@@ -222,16 +230,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/us/politics/biden-nominees-senate-confirmation.html">Hundreds of Biden Nominees Stuck in Senate Limbo Amid G.O.P. Blockade</a> NYT: A year into his term, only 41 percent of the president’s nominees for Senate-confirmed posts have been approved, a new analysis finds, the worst rate in decades. 
  <p class="updated_time"> 11:48 AM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/how-to-save-us-democracy-what-matters/index.html">What the average citizen can do about the demise of US democracy</a> CNN: After a week of urgent warnings about the state of American democracy, there were several requests in the What Matters inbox for something more useful than a warning. 
- <p class="updated_time"> 10:57 AM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/us-sanctions-russia-ukraine.html">U.S. Details Costs of a Russian Invasion of Ukraine</a> NYT: The Biden administration and its allies are developing new possible sanctions ahead of a series of meetings to defuse the crisis with Moscow. 
  <p class="updated_time"> 10:22 AM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/fact-check-jd-vance-capitol-charges/index.html">Fact check: J.D. Vance falsely claims dozens of jailed Capitol protesters haven't been charged with a crime</a> CNN: J.D. Vance, a Republican candidate for a US Senate seat in Ohio, is a law school graduate. But Vance made a significant false claim on Thursday about legal proceedings against people who allegedly participated in the Capitol insurrection last year. 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/08/civil-rights-leaders-see-a-turning-point-for-biden-495650"> Civil rights leaders see a turning point for Biden</a> Politico Playbook: And the Jan. 6 committee considers asking Mike Pence for an interview. 
  <p class="updated_time"> 09:00 AM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/supreme-court-covid-vaccine-mandate/index.html">Supreme Court ruling on mandates may depend on how the justices value vaccines</a> CNN: As the Supreme Court debated federal authority to impose a vaccine requirement on workers, the nine justices could not help but reveal their varying sentiments about the depth of America's Covid-19 pandemic and the value of vaccines. 
- <p class="updated_time"> 08:00 AM CT, Jan. 08 </p> 
- <a href="https://www.cnn.com/2022/01/08/politics/harry-reid-memorial/index.html">Harry Reid to be remembered by Biden, Obama and other Democratic leaders</a> CNN: Former Senate Majority Leader Harry Reid will be remembered by a host of top Democratic politicians at his memorial service in Las Vegas on Saturday, with President Joe Biden speaking at the service and former President Barack Obama eulogizing the late senator. 
  <p class="updated_time"> 07:32 AM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/russia-us-ukraine-sanctions/index.html">Biden officials weighing Russia sanctions despite warnings</a> CNN: The Biden administration is still weighing exactly how it would penalize Russia if the country invades Ukraine, as US diplomats are just days away from high-stakes meetings with Kremlin officials. 
  <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
@@ -368,10 +372,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/06/politics/michael-erik-kurilla-middle-east-operations-nomination/index.html">Biden nominates a new general to oversee military operations in Middle East</a> CNN: President Joe Biden is nominating Army Lt. Gen. Michael Erik Kurilla to be the next commander of US Central Command, which oversees military operations in the Middle East, according to multiple defense officials and nomination paperwork sent to Congress. 
  <p class="updated_time"> 03:56 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/biden-lays-out-the-stakes-for-democracy-can-he-sustain-the-case-526688">Biden lays out the stakes for democracy. Can he sustain the case?</a> Politico: The president’s speech on Thursday was hailed by fellow Democrats. Now, they want him to keep at it. 
- <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1071060684/dozens-are-reported-dead-in-kazakhstan-where-an-anti-government-revolt-is-underw">Dozens are reported dead in Kazakhstan, where an anti-government revolt is underway</a> NPR: NPR's Mary Louise Kelly talks with Melinda Haring, Deputy Director for Atlantic Council's Eurasia Center, on the situation in Kazakhstan and its implications for the rest of the world. 
- <p class="updated_time"> 03:34 PM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1071060682/how-the-narrative-of-the-jan-6-insurrection-has-changed-in-the-last-year">How the narrative of the Jan. 6 insurrection has changed in the last year</a> NPR: It's been a year since the deadly attack on the Capitol. And as arrests continue and jail sentences begin for those who committed violent acts there, the narrative surrounding the event has shifted. 
  <p class="updated_time"> 12:04 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/former-administration-officials-block-trump-526623">Ex-Trumpers set to plot how to try and take down Trump</a> Politico: Those involved include Stephanie Grisham, Miles Taylor, Olivia Troye and Anthony Scaramucci. 
  <p class="updated_time"> 11:00 AM CT, Jan. 06 </p> 
