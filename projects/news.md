@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:26 AM CT, Jan. 08 </p> 
+ <a href="https://www.npr.org/2022/01/08/1071534483/djokovics-lawyers-say-he-had-covid-last-month-according-to-report">Djokovic's lawyers say he had COVID last month, according to report</a> NPR: If he fails to have his visa cancellation overturned and gets deported, Djokovic risks missing more than one Australian Open and could be barred for up to three years. 
+ <p class="updated_time"> 04:01 AM CT, Jan. 08 </p> 
+ <a href="https://www.npr.org/2022/01/08/1071198056/theres-chaos-in-kazakhstan-heres-what-you-need-to-know">There's chaos in Kazakhstan. Here's what you need to know</a> NPR: A New Year's Day doubling of gas prices sent shock waves through the country, sparking deadly unrest that has engulfed the Central Asian nation. But the origins of discontent run much deeper. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/world/asia/india-weddings-south.html">The New Weddings in India’s South: ‘Expect Some Magic’</a> NYT: Couples are creating ever more elaborate ceremonies, drawing inspiration from social media trends that blur the nation’s religious and cultural lines. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/business/teslas-computer-chips-supply-chain.html">Why Tesla Soared as Other Automakers Struggled to Make Cars</a> NYT: The yawning disparity between the performance of the electric car company and established automakers last year reflects the technological change roiling the industry. 
  <p class="updated_time"> 03:46 AM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59920379?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Having Covid gave tennis star vaccine exemption - lawyers</a> BBC: Novak Djokovic's lawyers say a positive test on 16 December allows the tennis star entry to Australia. 
  <p class="updated_time"> 02:53 AM CT, Jan. 08 </p> 
@@ -151,10 +159,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1071060685/iranian-oscars-entry-a-hero-explores-the-complexity-of-a-good-deed">Iranian Oscars entry 'A Hero' explores the complexity of a good deed</a> NPR: The Iranian film A Hero is about a man who becomes a celebrity after doing a good deed. In filmmaker Asghar Farhadi's hands, what seems to be a black and white morality tale becomes more gray. 
  <p class="updated_time"> 03:54 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/health/covid-vaccines-boosters.html">Scientists Endorse Covid Boosters, But to a Point</a> NYT: Everyone should get a booster shot. In the long run, though, doses every few months aren’t a viable public health strategy, scientists say. 
- <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1071064002/in-spain-the-wise-men-are-kings">In Spain, the Wise Men are Kings</a> NPR: For Christians, Wednesday night marked the Epiphany: the 12th day of Christmas, when the Wise Men or Three Kings bring presents to Jesus in Bethlehem. In Spain, it's a holiday not to be missed. 
- <p class="updated_time"> 03:46 PM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1071060684/dozens-are-reported-dead-in-kazakhstan-where-an-anti-government-revolt-is-underw">Dozens are reported dead in Kazakhstan, where an anti-government revolt is underway</a> NPR: NPR's Mary Louise Kelly talks with Melinda Haring, Deputy Director for Atlantic Council's Eurasia Center, on the situation in Kazakhstan and its implications for the rest of the world. 
  <p class="updated_time"> 03:31 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/europe/boris-johnson-ethics-britain-uk.html">Ethics Adviser Rebukes Boris Johnson Over Downing Street Decorations</a> NYT: The adviser said it was “plainly unsatisfactory” that he was not told that Mr. Johnson had petitioned a prominent donor to arrange financing for the makeover of his apartment. 
  <p class="updated_time"> 02:43 PM CT, Jan. 06 </p> 
@@ -183,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/05/world/asia/hong-kong-flights.html">Hong Kong Suspends Flights From Eight Countries</a> NYT: The new measures will deepen the city’s isolation and mark a return to the tough restrictions from the early days of the pandemic, as officials race to contain the Omicron variant. 
  <p class="updated_time"> 06:56 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/health/covid-rapid-test-omicron-detection.html">Emerging Data Raise Questions About Antigen Tests and Nasal Swabs</a> NYT: A new study adds to evidence that common rapid tests may fail to detect some Omicron cases in the first days of infection. 
- <p class="updated_time"> 06:43 PM CT, Jan. 05 </p> 
- <a href="https://www.nytimes.com/2022/01/05/sports/tennis/novak-djokovic-vaccine-exemption-skepticism.html">Skepticism and anger greet Novak Djokovic’s vaccine exemption.</a> NYT: Some Australians reacted with fury at the announcement from the world’s No. 1 male tennis player, the sport’s most prominent vaccination skeptic. 
  <p class="updated_time"> 05:11 PM CT, Jan. 05 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/italy-female-statue-padua-prato-della-valle.html">Italy Proposal to Add Female Statue to Square of Men Stirs Debate</a> NYT: In Padua, Italy, a proposal to include a female philosopher in a monument whose 78 sculptures are all men has spurred debate. 
  <p class="updated_time"> 03:56 PM CT, Jan. 05 </p> 
@@ -202,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/business/teslas-computer-chips-supply-chain.html">Why Tesla Soared as Other Automakers Struggled to Make Cars</a> NYT: The yawning disparity between the performance of the electric car company and established automakers last year reflects the technological change roiling the industry. 
  <p class="updated_time"> 09:54 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/andrew-cuomo-charge-dismissed/index.html">New York judge dismisses sole criminal charge faced by former governor Andrew Cuomo after sexual misconduct allegation</a> CNN: An Albany City Court judge on Friday dismissed a forcible touching complaint against former New York Gov. Andrew Cuomo, who briefly appeared virtually in court in his first public appearance since stepping down as governor. 
  <p class="updated_time"> 09:47 PM CT, Jan. 07 </p> 
@@ -356,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/06/1071060682/how-the-narrative-of-the-jan-6-insurrection-has-changed-in-the-last-year">How the narrative of the Jan. 6 insurrection has changed in the last year</a> NPR: It's been a year since the deadly attack on the Capitol. And as arrests continue and jail sentences begin for those who committed violent acts there, the narrative surrounding the event has shifted. 
  <p class="updated_time"> 03:34 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1071060677/sen-warnock-says-voting-rights-legislation-is-a-moral-issue">Sen. Warnock says voting rights legislation is a moral issue</a> NPR: NPR's Ailsa Chang talks with Sen. Raphael Warnock, D-Geor., who says that if Congress doesn't pass voting legislation, it will have "failed in the trust the people have given us." 
- <p class="updated_time"> 02:41 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/trapped-capitol-jan-6.html">Remembering Jan. 6, When He Was Trapped Alone in the Capitol</a> NYT: Wayne K. Williams, a top aide to the No. 5 House Democrat, was the only member of his staff in the Capitol on Jan. 6, 2021. He was barricaded in his office alone as mayhem reigned. 
  <p class="updated_time"> 02:41 PM CT, Jan. 06 </p> 
  <a href="https://www.npr.org/2022/01/06/1070763913/kicked-off-facebook-and-twitter-far-right-groups-lose-online-clout">Kicked off Facebook and Twitter, far-right groups lose online clout</a> NPR: In the year since the January 6th Capitol attack, far-right influencers and extremists are taking new approaches to organizing online. 
  <p class="updated_time"> 12:40 PM CT, Jan. 06 </p> 
