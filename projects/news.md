@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:34 AM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59920221?at_medium=RSS&at_campaign=KARANGA">Turkmenistan plans to close its 'Gateway to Hell'</a> BBC: The site, a fire burning for decades in a huge desert crater, is a popular tourist attraction. 
  <p class="updated_time"> 08:23 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/australia/djokovic-australia-visa.html">Djokovic Tested Positive for Coronavirus in December, His Lawyers Say</a> NYT: Lawyers for the tennis star, who is appealing Australia’s decision to deny him entry, said the positive test came weeks before he flew to the country. 
  <p class="updated_time"> 08:04 AM CT, Jan. 08 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/us/politics/spyware-warning-cybersecurity.html">Biden Administration Warns Against Spyware Targeting Dissidents</a> NYT: The U.S. intelligence community offered steps that would mitigate — but not stop — spyware developed by firms like the NSO Group. 
  <p class="updated_time"> 12:30 PM CT, Jan. 07 </p> 
  <a href="https://www.wsj.com/articles/global-covid-19-cases-cross-300-million-mark-11641558223">Global Covid-19 Cases Cross 300 Million Mark</a> WSJ: The milestone comes as the U.S. Supreme Court prepared to hold a special session to consider the Biden administration’s vaccine rules for private employers and healthcare workers. 
- <p class="updated_time"> 12:23 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59910742?at_medium=RSS&at_campaign=KARANGA">Two Haitian journalists killed in gang attack</a> BBC: The men were shot and burned alive on the outskirts of the capital, according to one of their employers. 
  <p class="updated_time"> 12:15 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1068622387/sidney-poitier-actor-remembrance">Sidney Poitier was far more than just a symbol of racial progress</a> NPR: For much of his career, the actor represented many different things to many people, but a constant was his sheer artistry. 
  <p class="updated_time"> 12:10 PM CT, Jan. 07 </p> 
