@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:23 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/world/australia/djokovic-australia-visa.html">Djokovic Tested Positive for Coronavirus in December, His Lawyers Say</a> NYT: Lawyers for the tennis star, who is appealing Australia’s decision to deny him entry, said the positive test came weeks before he flew to the country. 
+ <p class="updated_time"> 08:04 AM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59920379?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Having Covid gave tennis star vaccine exemption - lawyers</a> BBC: Novak Djokovic's lawyers say a positive test on 16 December allows the tennis star entry to Australia. 
  <p class="updated_time"> 07:42 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071547294/pakistan-cars-cold-snow-deaths">In Pakistan, 22 die in subfreezing temperatures as their cars are stuck in heavy snow</a> NPR: Most of the victims died of hypothermia, officials said, as overnight temperatures fell to 17.6 Fahrenheit amid heavy snowfall at Pakistan's mountain resort town of Murree. 
  <p class="updated_time"> 07:26 AM CT, Jan. 08 </p> 
@@ -32,11 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:05 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071537135/how-bosnias-dodik-went-from-a-moderate-reformist-to-genocide-denying-secessionis">How Bosnia's Dodik went from a moderate reformist to genocide-denying secessionist</a> NPR: Bosnian Serb leader responds to new U.S. sanctions saying the days when the U.S. and other Western democracies "modeled Bosnia to their taste" are long gone. 
  <p class="updated_time"> 05:00 AM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/world/australia/djokovic-australia-visa.html">Djokovic Tested Positive for Coronavirus in December, His Lawyers Say</a> NYT: Lawyers for the tennis star, who is appealing Australia’s decision to deny him entry, said the positive test came weeks before he flew to the country. 
- <p class="updated_time"> 05:00 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/canada/blackberry-phone-service-ends.html">BlackBerry Phone Service Officially Ends</a> NYT: BlackBerry was once Canada’s most valuable company and a global force in tech. The final step in its downfall as a phone maker arrived this week. 
- <p class="updated_time"> 04:43 AM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59920379?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Having Covid gave tennis star vaccine exemption - lawyers</a> BBC: Novak Djokovic's lawyers say a positive test on 16 December allows the tennis star entry to Australia. 
  <p class="updated_time"> 04:26 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071534483/djokovics-lawyers-say-he-had-covid-last-month-according-to-report">Djokovic's lawyers say he had COVID last month, according to report</a> NPR: If he fails to have his visa cancellation overturned and gets deported, Djokovic risks missing more than one Australian Open and could be barred for up to three years. 
  <p class="updated_time"> 04:01 AM CT, Jan. 08 </p> 
