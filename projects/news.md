@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:28 AM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59920215?at_medium=RSS&at_campaign=KARANGA">Pakistan: Many dead as heavy snow traps drivers in their vehicles</a> BBC: Some 1,000 vehicles were trapped during a blizzard in the town of Murree, the interior minister says. 
  <p class="updated_time"> 09:57 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/pakistan-snow-kills-21-murree-hill-station.html">Heavy Snow Kills 21 at Murree Hill Station in Pakistan</a> NYT: Stranded in their cars on snow-covered roads, some in the mountainside town of Murree froze to death and others died from carbon monoxide poisoning. 
  <p class="updated_time"> 09:49 AM CT, Jan. 08 </p> 
@@ -37,8 +39,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/asia/australia-djokovic-refugees-hotel.html">Djokovic Stay at Park Hotel Highlights Australia Asylum Seeker Plight</a> NYT: The tennis star is quarantining in a Melbourne hotel where asylum seekers have been held for over a year, under a program that has been widely criticized. 
  <p class="updated_time"> 06:00 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/08/1062816001/top-global-tiktoks-of-2021-defiant-afghan-singer-kenyan-comic-walnut-cracking-el">Top global TikToks of 2021: Defiant Afghan singer, Kenya comic, walnut-cracking elbow</a> NPR: What did the world watch on TikTok last year? We round up some favorite videos — including a mukbang ASMR Thai star (don't worry, we explain it) and a potato chip-crunching Kenyan comedian. 
- <p class="updated_time"> 05:49 AM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59920215?at_medium=RSS&at_campaign=KARANGA">Pakistan: Many dead as heavy snow traps drivers in their vehicles</a> BBC: Some 1,000 vehicles were trapped during a blizzard in the town of Murree, the interior minister says. 
+ <p class="updated_time"> 05:19 AM CT, Jan. 08 </p> 
+ <a href="https://www.wsj.com/articles/ethiopia-releases-opposition-figures-as-it-seeks-end-to-war-11641658776">Ethiopia Releases Opposition Figures as It Seeks End to War</a> WSJ: Prime Minister Abiy Ahmed pledged to open dialogue with political opponents after 14 months of war that has threatened to tear apart Africa’s second-most populous nation. 
  <p class="updated_time"> 05:18 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
  <p class="updated_time"> 05:05 AM CT, Jan. 08 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071526763/tallest-galapagos-volcano-erupts-spewing-lava-and-ash">Tallest Galapagos volcano erupts, spewing lava and ash</a> NPR: Ecuador's Emergency Operations Committee said the eruption on Isabela Island didn't represent a risk to humans or to native local species. 
  <p class="updated_time"> 01:00 AM CT, Jan. 08 </p> 
  <a href="https://www.wsj.com/articles/for-dying-towns-the-pandemic-offers-challengesand-hope-11641643202">For Dying Towns, the Pandemic Offers Challenges---and Hope</a> WSJ: For years, the mayors of many towns in Europe have struggled to prevent their communities from dying out as people have migrated to cities, schools have dwindled and businesses have died out. 
- <p class="updated_time"> 12:15 AM CT, Jan. 08 </p> 
- <a href="https://www.wsj.com/articles/novak-djokovics-case-for-entering-australia-was-a-case-of-covid-19-last-month-11641640507">Novak Djokovic's Case for Entering Australia Was a Case of Covid-19 Last Month</a> WSJ: Tennis star Novak Djokovic’s application for a medical exemption from Australia’s vaccination rules hinged on his infection with, and recovery from, Covid-19 in December. 
  <p class="updated_time"> 12:02 AM CT, Jan. 08 </p> 
  <a href="https://www.wsj.com/articles/mystery-surrounds-absence-of-kazakhstans-longtime-leader-as-protesters-challenge-state-he-built-11641639722">Mystery Surrounds Absence of Kazakhstan's Longtime Leader</a> WSJ: Since unrest started this week, the 81-year-old former president hasn’t been seen in public and his successor has moved to undermine his authority. 
  <p class="updated_time"> 09:50 PM CT, Jan. 07 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/08/civil-rights-leaders-see-a-turning-point-for-biden-495650"> Civil rights leaders see a turning point for Biden</a> Politico Playbook: And the Jan. 6 committee considers asking Mike Pence for an interview. 
+ <p class="updated_time"> 09:00 AM CT, Jan. 08 </p> 
+ <a href="https://www.cnn.com/2022/01/08/politics/supreme-court-covid-vaccine-mandate/index.html">Supreme Court ruling on mandates may depend on how the justices value vaccines</a> CNN: As the Supreme Court debated federal authority to impose a vaccine requirement on workers, the nine justices could not help but reveal their varying sentiments about the depth of America's Covid-19 pandemic and the value of vaccines. 
  <p class="updated_time"> 08:00 AM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/harry-reid-memorial/index.html">Harry Reid to be remembered by Biden, Obama and other Democratic leaders</a> CNN: Former Senate Majority Leader Harry Reid will be remembered by a host of top Democratic politicians at his memorial service in Las Vegas on Saturday, with President Joe Biden speaking at the service and former President Barack Obama eulogizing the late senator. 
  <p class="updated_time"> 07:58 AM CT, Jan. 08 </p> 
@@ -288,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/republican-convention-2024-four-cities/index.html">Republicans are down to four finalist cities for 2024 convention</a> CNN: Republicans have selected the four potential host cities for their 2024 convention, according to a spokesperson for the Republican National Committee. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
- <p class="updated_time"> 01:10 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/usda-school-lunch-inflation-supply-chain/index.html">USDA pumps $750 million into school meals to counter inflation, supply chain woes</a> CNN: Schools are not only wrestling with how to educate children amid the surge in coronavirus cases. They are also contending with feeding kids as inflation and supply chain problems disrupt their ability to serve meals. 
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
  <p class="updated_time"> 12:52 PM CT, Jan. 07 </p> 
@@ -452,8 +452,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/02/4-startling-polls-you-should-read-about-jan-6-495559"> 4 startling polls you should read about Jan. 6</a> Politico Playbook: And millions are getting ready to head back to work and school Monday despite the Omicron surge 
  <p class="updated_time"> 11:06 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/cheney-trump-threat-democracy-526356">Liz Cheney on Trump: He’s a threat to American democracy</a> Politico: “He crossed lines no American president has ever crossed before,” she said. 
- <p class="updated_time"> 10:17 AM CT, Jan. 01 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558"> Welcome to 2022</a> Politico Playbook: And President Joe Biden gives Russia a stern warning. 
 
 
 </details>
