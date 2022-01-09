@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:10 PM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/ukraine-russia-negotiations.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
  <p class="updated_time"> 12:46 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia Warns That U.S. Doesn’t Understand Its Goals on Ukraine</a> NYT: As the two countries prepared to meet amid rising tensions over Ukraine, a senior Russian official and the U.S. Secretary of State set a pessimistic tone. 
  <p class="updated_time"> 12:33 PM CT, Jan. 09 </p> 
@@ -23,10 +25,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
  <p class="updated_time"> 09:12 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59927267?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: At least 164 killed in crackdown on protests, reports say</a> BBC: Days of violent anti-government protests also saw nearly 6,000 people arrested, officials say. 
- <p class="updated_time"> 08:54 AM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/europe/ukraine-russia-negotiations.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
  <p class="updated_time"> 08:40 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59929586?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia says tennis star given no visa assurances</a> BBC: The tennis star hopes to play in the Australian Open but instead could be deported. 
+ <p class="updated_time"> 08:00 AM CT, Jan. 09 </p> 
+ <a href="https://www.wsj.com/articles/taliban-detain-prominent-critic-intensifying-crackdown-on-dissent-in-afghanistan-11641744527">Taliban Detain Prominent Critic, Intensifying Crackdown on Dissent</a> WSJ: The Taliban have arrested Faizullah Jalal, a Kabul university professor who gained national fame for berating a senior official on television, in a sign of the intensifying crackdown on critics of Afghanistan’s new regime. 
  <p class="updated_time"> 07:37 AM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071663590/russian-troops-have-crossed-the-border-into-kazakhstan-following-violent-protest">Russian troops have crossed the border into Kazakhstan following violent protests</a> NPR: Russian troops are helping put down anti-government protests in neighboring Kazakhstan. The crisis threatens to be a distraction for Russia as it squares off with the U.S. over Ukraine. 
  <p class="updated_time"> 07:29 AM CT, Jan. 09 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59925413?at_medium=RSS&at_campaign=KARANGA">Nigeria motorbike gang attack: Death toll rises to 200</a> BBC: The attacks in the northern Zamfara state are believed to be in response to military air strikes. 
  <p class="updated_time"> 05:55 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Officials’ Party Galls Hong Kong, Chafing Under Covid (and Political) Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
- <p class="updated_time"> 05:35 AM CT, Jan. 09 </p> 
- <a href="https://www.wsj.com/articles/taliban-detain-prominent-critic-intensifying-crackdown-on-dissent-in-afghanistan-11641744527">Taliban Detain Prominent Critic, Intensifying Crackdown on Dissent</a> WSJ: The Taliban have arrested Faizullah Jalal, a Kabul university professor who gained national fame for berating a senior official on television, in a sign of the intensifying crackdown on critics of Afghanistan’s new regime. 
  <p class="updated_time"> 05:34 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59928697?at_medium=RSS&at_campaign=KARANGA">Kazakhstan: 'Growing suggestion violence linked to power struggle'</a> BBC: There are growing suggestions violence in Kazakhstan is linked to a power struggle within the ruling elite, the BBC's Steve Rosenberg reports from the capital. 
  <p class="updated_time"> 05:26 AM CT, Jan. 09 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:14 PM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/us/politics/ron-johnson-senate-wisconsin.html">Ron Johnson, G.O.P. Senator From Wisconsin, Will Seek Re-election</a> NYT: The renewed bid for office by Mr. Johnson, who has spread many false claims about the 2020 election and Covid, ensures that both parties will be highly invested in Wisconsin’s 2022 Senate race. 
  <p class="updated_time"> 12:54 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/georgia-secretary-of-state-voting-526808">Georgia secretary of state speaks of election integrity</a> Politico: Brad Raffensperger addressed the topic of voting rights before President Joe Biden’s visit to his state this week. 
  <p class="updated_time"> 11:50 AM CT, Jan. 09 </p> 
@@ -218,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/09/ron-johnson-reelection-senate-wisconsin-526804">Ron Johnson to seek reelection to Senate</a> Politico: The Wisconsin Republican announced his decision in a Wall Street Journal column. 
  <p class="updated_time"> 09:17 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/kazakhstan-164-killed-protests-526803">Kazakhstan says 164 killed in week of protests</a> Politico: President Kassym-Jomart Tokayev’s office said that order has stabilized in the country. 
- <p class="updated_time"> 09:10 AM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/us/politics/ron-johnson-senate-wisconsin.html">Ron Johnson, G.O.P. Senator From Wisconsin, Will Seek Re-election</a> NYT: The renewed bid for office by Mr. Johnson, who has spread many false claims about the 2020 election and Covid, ensures that both parties will be highly invested in Wisconsin’s 2022 Senate race. 
  <p class="updated_time"> 09:08 AM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/michelle-obama-2022-elections-fight-for-vote/index.html">Michelle Obama wades into 2022 midterm elections with urgent message on voting</a> CNN: Former first lady Michelle Obama has a message for Americans ahead of the 2022 midterm elections: "We've got to vote like the future of our democracy depends on it." 
  <p class="updated_time"> 09:07 AM CT, Jan. 09 </p> 
