@@ -7,9 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:42 AM CT, Jan. 09 </p> 
+ <p class="updated_time"> 11:01 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/london-schools-covid-omicron.html">London Schools Are Determined to Stay Open. Staff Illnesses Make It Hard.</a> NYT: Schools across England are grappling with what it looks like to live with the pandemic as it enters its third year. Sound familiar? 
- <p class="updated_time"> 10:22 AM CT, Jan. 09 </p> 
+ <p class="updated_time"> 10:55 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/kazakhstan-protests.html">Nearly 6,000 Detained Amid Unrest in Kazakhstan</a> NYT: Protests that began last weekend over a hike in fuel prices spread across the country, leaving at least 2,000 injured, government officials said. Dozens of deaths also appeared likely. 
  <p class="updated_time"> 10:21 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59927266?at_medium=RSS&at_campaign=KARANGA">Pakistan snow: Hundreds rescued from vehicles in deadly blizzard</a> BBC: Samina was one of thousands trapped in freezing conditions trying to reach the town of Murree. 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:50 AM CT, Jan. 09 </p> 
+ <a href="https://www.politico.com/news/2022/01/09/lightfoot-chicago-teachers-deal-abandoned-526807">Lightfoot says teachers union 'abandoned their posts,' remains 'hopeful' deal can be reached</a> Politico: Chicago’s mayor said she wants to make sure that children get back to school. 
  <p class="updated_time"> 11:17 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/mike-rounds-trump-election-republicans-526806">GOP senator says Trump’s election allegations are unfounded</a> Politico: “The election was fair, as fair as we have seen,” Mike Rounds said. 
  <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/state-of-the-union-biden-pelosi/index.html">Biden accepts Pelosi's invitation to give State of the Union speech on March 1</a> CNN: House Speaker Nancy Pelosi on Friday asked President Joe Biden to deliver the annual State of the Union address to Congress on March 1. 
  <p class="updated_time"> 02:16 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/ransomware-schools-website/index.html">Ransomware attack affected websites of 5,000 schools</a> CNN: A ransomware attack on software provider Finalsite has affected the websites of about 5,000 schools, most of them in the US, a Finalsite spokesperson told CNN Friday. 
- <p class="updated_time"> 02:06 PM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/news/2022/01/07/treasury-sends-rental-aid-526748">Treasury to send $1B in rental aid funds to high-demand states, cities</a> Politico: California, New Jersey, New York and the District of Columbia will each receive tens of millions of dollars pulled from governments with low disbursement rates. 
  <p class="updated_time"> 01:28 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/republican-convention-2024-four-cities/index.html">Republicans are down to four finalist cities for 2024 convention</a> CNN: Republicans have selected the four potential host cities for their 2024 convention, according to a spokesperson for the Republican National Committee. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
