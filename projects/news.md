@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:14 PM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/world/figure-skating-olympic-team.html">As U.S. Figure Skaters Test Positive, New Worries for Winter Olympics</a> NYT: Problems at national championships could turn up in Beijing next month, too. 
+ <p class="updated_time"> 08:08 PM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59925410?at_medium=RSS&at_campaign=KARANGA">Rust: Alec Baldwin rejects allegations of non-compliance with shooting probe</a> BBC: The actor has not presented his phone to investigators despite a search warrant being issued. 
  <p class="updated_time"> 07:34 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59923900?at_medium=RSS&at_campaign=KARANGA">At least seven dead after Brazil cliff collapses on boats</a> BBC: Another three are missing after the cliff fell onto boats in a lake in the south-east of the country. 
  <p class="updated_time"> 06:17 PM CT, Jan. 08 </p> 
@@ -103,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/mystery-surrounds-absence-of-kazakhstans-longtime-leader-as-protesters-challenge-state-he-built-11641639722">Mystery Surrounds Absence of Kazakhstan's Longtime Leader</a> WSJ: Since unrest started this week, the 81-year-old former president hasn’t been seen in public and his successor has moved to undermine his authority. 
  <p class="updated_time"> 09:50 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/india-12-booster-shots.html">12 Covid Vaccine Shots Aren't Enough for 85-Year-Old in India</a> NYT: The retired postman said he gamed the offline vaccination drive to keep boosting regularly — long before booster shots were a thing anywhere. 
- <p class="updated_time"> 09:45 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59919105?at_medium=RSS&at_campaign=KARANGA">Texas teacher 'locked Covid-positive son in car boot'</a> BBC: A witness reportedly called police after hearing someone in the trunk of the Texas woman's vehicle. 
  <p class="updated_time"> 07:26 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/sports/olympics/alysa-liu-coronavirus.html">Alysa Liu Will Miss National Championships After Positive Coronavirus Test</a> NYT: The teenager had hoped a strong showing would secure her a spot on the U.S. team for the Beijing Winter Olympics next month. 
  <p class="updated_time"> 07:21 PM CT, Jan. 07 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/asia/pakistan-woman-supreme-court.html">Pakistan Paves Way for Ayesha Malik to Be First Woman Supreme Court Justice</a> NYT: Justice Ayesha A. Malik’s nomination, intensely opposed by some lawyers that have threatened to strike, was hailed by others as an important victory in improving representation for women. 
  <p class="updated_time"> 01:44 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/europe/pope-pets-kids.html">Pope Scolds Couples Who Choose Pets Over Kids</a> NYT: Expressing concern about global birthrates, Francis said such couples were acting in a selfish way that diminished humanity. 
- <p class="updated_time"> 11:09 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html">Using Harsh Language, Macron Issues a Challenge to the Unvaccinated</a> NYT: The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds. 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/why-novak-djokovic-was-blocked.html">Why Novak Djokovic Was Blocked From Entering Australia</a> NYT: The men’s No. 1 tennis player had received an exemption to the country’s vaccine requirements. Then the federal government stepped in. 
  <p class="updated_time"> 06:41 AM CT, Jan. 06 </p> 
