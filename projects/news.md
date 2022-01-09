@@ -73,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/asia/china-rights-defense-activists.html">Chinese Activists Face Subversion Charges for Weekend Gathering</a> NYT: A weekend get-together in 2019 offered Beijing a chance to deliver a blow to the “rights defense” movement. Now, two key participants face the prospect of years in prison. 
  <p class="updated_time"> 09:48 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/australia/moriori-new-zealand.html">Revival for New Zealand's Moriori Nearly Pushed to Cultural Death</a> NYT: The Moriori, whose history of peaceful isolation was shattered by violent subjugation, are fighting to establish themselves as a thriving people alongside the Maori. 
- <p class="updated_time"> 08:08 PM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59925410?at_medium=RSS&at_campaign=KARANGA">Rust: Alec Baldwin rejects allegations of non-compliance with shooting probe</a> BBC: The actor has not presented his phone to investigators despite a search warrant being issued. 
  <p class="updated_time"> 06:17 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59925880?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Serbs give their reaction to Australia vaccine exemption row</a> BBC: Serbs in Belgrade have been giving their reactions to Novak Djokovic's vaccine exemption row. 
  <p class="updated_time"> 06:13 PM CT, Jan. 08 </p> 
@@ -89,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 01:09 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/pakistan-snow-kills-21-murree-hill-station.html">Heavy Snow Kills 21 at Murree Hill Station in Pakistan</a> NYT: Stranded in their cars on snow-covered roads, some in the mountainside town of Murree froze to death and others died from carbon monoxide poisoning. 
- <p class="updated_time"> 01:02 PM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59923898?at_medium=RSS&at_campaign=KARANGA">Basmah bint Saud: Saudi princess released from jail after almost three years</a> BBC: Princess Basma bint Saud and her daughter were held without charge for almost three years. 
  <p class="updated_time"> 12:42 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/europe/kazakhstan-russia.html">Amid Crisis, Kazakhstan's Leader Embraces Russia</a> NYT: With his government under siege, Kassym-Jomart Tokayev, Kazakhstan’s president, turned to Russia’s Vladimir V. Putin for support. The choice could realign Central Asia’s politics. 
  <p class="updated_time"> 12:09 PM CT, Jan. 08 </p> 
