@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:01 AM CT, Jan. 09 </p> 
+ <p class="updated_time"> 10:42 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/london-schools-covid-omicron.html">London Schools Are Determined to Stay Open. Staff Illnesses Make It Hard.</a> NYT: Schools across England are grappling with what it looks like to live with the pandemic as it enters its third year. Sound familiar? 
+ <p class="updated_time"> 10:22 AM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/kazakhstan-protests.html">Nearly 6,000 Detained Amid Unrest in Kazakhstan</a> NYT: Protests that began last weekend over a hike in fuel prices spread across the country, leaving at least 2,000 injured, government officials said. Dozens of deaths also appeared likely. 
+ <p class="updated_time"> 10:21 AM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59927266?at_medium=RSS&at_campaign=KARANGA">Pakistan snow: Hundreds rescued from vehicles in deadly blizzard</a> BBC: Samina was one of thousands trapped in freezing conditions trying to reach the town of Murree. 
  <p class="updated_time"> 09:57 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
  <p class="updated_time"> 09:12 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59927267?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: At least 164 killed in crackdown on protests, reports say</a> BBC: Days of violent anti-government protests also saw nearly 6,000 people arrested, officials say. 
  <p class="updated_time"> 08:54 AM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/europe/left-out-of-high-level-talks-ukraine-tries-other-diplomatic-channels.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/ukraine-russia-negotiations.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
  <p class="updated_time"> 08:46 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia Warns That U.S. Doesn’t Understand Its Goals on Ukraine</a> NYT: As the two countries prepare to meet amid rising tensions over Ukraine, a senior Russian official set a pessimistic tone. 
  <p class="updated_time"> 08:40 AM CT, Jan. 09 </p> 
@@ -26,31 +30,29 @@ permalink: /projects/news/
  <p class="updated_time"> 07:26 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59928851?at_medium=RSS&at_campaign=KARANGA">Covid pandemic: Chinese city tests 14m people after cluster</a> BBC: As China pursues a zero-Covid policy, Tianjin aims to test all its residents within 48 hours. 
  <p class="updated_time"> 07:05 AM CT, Jan. 09 </p> 
- <a href="https://www.npr.org/2022/01/09/1071663548/lahore-pakistan-locks-down-for-the-pandemic-and-to-improve-air-pollution">Lahore, Pakistan, locks down for the pandemic — and to improve air pollution</a> NPR: Pakistan's second largest city, Lahore, tops the world's most polluted city list, along with India's New Delhi. Poor air quality has prompted the government to order a partial shutdown of schools. 
+ <a href="https://www.npr.org/2022/01/09/1071663548/lahore-pakistan-locks-down-for-air-quality">Lahore, Pakistan, is locking down to improve air quality</a> NPR: Pakistan's second largest city, Lahore, tops the world's most polluted city list, along with India's New Delhi. Poor air quality has prompted the government to order a partial shutdown of schools. 
  <p class="updated_time"> 06:48 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59925413?at_medium=RSS&at_campaign=KARANGA">Nigeria motorbike gang attack: Death toll rises to 200</a> BBC: The attacks in the northern Zamfara state are believed to be in response to military air strikes. 
  <p class="updated_time"> 06:32 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released From Jail After 3 Years</a> NYT: The Saudi government has not said why it detained or released Princess Basmah bint Saud, a daughter of a former king who has been a vociferous critic of the country’s authorities. 
  <p class="updated_time"> 05:55 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Officials’ Party Galls Hong Kong, Chafing Under Covid (and Political) Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
+ <p class="updated_time"> 05:35 AM CT, Jan. 09 </p> 
+ <a href="https://www.wsj.com/articles/taliban-detain-prominent-critic-intensifying-crackdown-on-dissent-in-afghanistan-11641744527">Taliban Detain Prominent Critic, Intensifying Crackdown on Dissent</a> WSJ: The Taliban have arrested Faizullah Jalal, a Kabul university professor who gained national fame for berating a senior official on television, in a sign of the intensifying crackdown on critics of Afghanistan’s new regime. 
  <p class="updated_time"> 05:34 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59928697?at_medium=RSS&at_campaign=KARANGA">Kazakhstan: 'Growing suggestion violence linked to power struggle'</a> BBC: There are growing suggestions violence in Kazakhstan is linked to a power struggle within the ruling elite, the BBC's Steve Rosenberg reports from the capital. 
+ <p class="updated_time"> 05:26 AM CT, Jan. 09 </p> 
+ <a href="https://www.wsj.com/articles/beijing-watches-civil-unrest-in-kazakhstan-with-wary-eye-11641745593">Beijing Watches Civil Unrest in Kazakhstan With Wary Eye</a> WSJ: China has much to lose should violence in its neighboring country dissolve into civil war, but for now, it is largely sitting on the sidelines as Moscow handles the task of suppressing dissent. 
  <p class="updated_time"> 04:19 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59926854?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Baby lost in Kabul evacuation is reunited with family</a> BBC: The infant was lost after being handed to an American soldier at Kabul airport in August. 
- <p class="updated_time"> 04:04 AM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59927266?at_medium=RSS&at_campaign=KARANGA">Pakistan snow: Hundreds rescued from vehicles in deadly blizzard</a> BBC: Tourists trapped by a blizzard for hours in freezing conditions are sheltering in the town of Murree. 
  <p class="updated_time"> 04:00 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/europes-workers-see-living-costs-rise-but-pay-isnt-keeping-pace-11641740401">Europe's Workers See Living Costs Rise, but Pay Isn't Keeping Pace</a> WSJ: Europe’s unemployment rate has fallen below its pre-pandemic level, but a surge in wages this year doesn’t seem likely even though higher inflation has weakened workers’ spending power, according to economists and officials. 
  <p class="updated_time"> 03:21 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/russias-putin-seizes-on-crises-to-assert-control-over-former-soviet-republics-11641738063">Russia's Putin Seizes on Crises to Assert Control Over Former Soviet Republics</a> WSJ: The country’s flood of troops into Kazakhstan follows nearly 15 years of interventionism in Georgia, Belarus, Ukraine and elsewhere aimed at pulling these countries closer to Russia. 
  <p class="updated_time"> 03:18 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/europes-omicron-battle-plan-hassle-the-unvaccinated-11641737453">Europe's Omicron Battle Plan: Hassle the Unvaccinated</a> WSJ: France, Germany, Italy and other European Union countries are pressuring unvaccinated adults to get inoculated by excluding them from more everyday activities. Public-health experts say it would be more effective to make vaccination mandatory. 
- <p class="updated_time"> 03:00 AM CT, Jan. 09 </p> 
- <a href="https://www.wsj.com/articles/u-s-eyes-financial-targeted-tech-sanctions-as-talks-begin-with-russia-11641736802">U.S. Eyes Financial, Targeted Tech Sanctions as Russia Talks Begin</a> WSJ: Officials are likely to steer clear of the biggest energy and banking sanctions if Ukraine is invaded. 
  <p class="updated_time"> 02:49 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/omicron-comes-to-china-prompting-mass-testing-and-quarantines-11641736166">Omicron Comes to China, Prompting Mass Testing and Quarantines</a> WSJ: At least two confirmed cases of the new variant of Covid-19 were reported in the port city of Tianjin, weeks ahead of the Winter Olympics in neighboring Beijing. 
- <p class="updated_time"> 02:00 AM CT, Jan. 09 </p> 
- <a href="https://www.wsj.com/articles/russia-readies-scores-of-transport-planes-as-troops-pour-into-kazakhstan-11641733219">Russia Readies Planes to Pour More Troops Into Kazakhstan</a> WSJ: Moscow said it had prepared more than 75 aircraft to allow for continuous deployment of forces to help Kazakh authorities reassert control following days of sometimes violent protests. 
  <p class="updated_time"> 10:45 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/chicago-shools-teachers-union-lightfoot.html">Chicago's Mayor Rejects Union's Terms for Returning to School</a> NYT: The standoff between educators and the city’s government shows no signs of abating. 
  <p class="updated_time"> 10:37 PM CT, Jan. 08 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/australia/south-coast-fires-covid.html">How Is the South Coast Healing, After the Fires and With Covid?</a> NYT: A little bit of empathetic momentum can go a long way toward helping people and places heal. 
  <p class="updated_time"> 06:10 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59879762?at_medium=RSS&at_campaign=KARANGA">Lithuania: The European state that dared to defy China then wobbled</a> BBC: It stood up to China over Taiwan, but this week Lithuania's president said it made a mistake. 
- <p class="updated_time"> 05:36 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/asia/china-xian-lockdown-covid.html">Xi'an Is China's Biggest Covid Challenge Since Wuhan</a> NYT: Xi’an, a city of 13 million people, has been on lockdown since Dec. 22, the longest in the country since the early days of the outbreak in Wuhan. 
  <p class="updated_time"> 03:54 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/health/covid-vaccines-boosters.html">Scientists Endorse Covid Boosters, But to a Point</a> NYT: Everyone should get a booster shot. In the long run, though, doses every few months aren’t a viable public health strategy, scientists say. 
  <p class="updated_time"> 03:31 PM CT, Jan. 06 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:17 AM CT, Jan. 09 </p> 
+ <a href="https://www.politico.com/news/2022/01/09/mike-rounds-trump-election-republicans-526806">GOP senator says Trump’s election allegations are unfounded</a> Politico: “The election was fair, as fair as we have seen,” Mike Rounds said. 
  <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
  <p class="updated_time"> 10:43 AM CT, Jan. 09 </p> 
@@ -229,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:01 AM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/national-guard-hospitals-omicron-covid-massachusetts/index.html">National Guard steps in to alleviate pressure on hospital overwhelmed by Omicron wave</a> CNN: An incoming tide of patients is slowly drowning UMass Memorial Medical Center, and the US military's National Guard is working to plug the gaps. In wave after daily wave, the emergency crews pull up to the ambulance bay, dropping off patients for which there is no room. 
  <p class="updated_time"> 07:00 AM CT, Jan. 09 </p> 
- <a href="https://www.politico.com/news/2022/01/09/joe-biden-takes-on-georgia-voting-526801">Biden takes on Georgia: ‘We are going right to the belly of the beast’</a> Politico: Fresh off his Jan. 6 anniversary speech, the president and his top aides are trying to keep up the momentum for some legislative remedy. 
+ <a href="https://www.politico.com/news/2022/01/09/joe-biden-takes-on-georgia-voting-526801">‘We are going right to the belly of the beast’: Biden takes on Georgia</a> Politico: Fresh off his Jan. 6 anniversary speech, the president and his top aides are trying to keep up the momentum for some legislative remedy. 
  <p class="updated_time"> 06:51 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/japan-soldiers-covid-pandemic-526802">U.S., Japan agree to keep troops on base to curb Covid spread</a> Politico: Fumio Kishida said American soldiers will stay on base “except when absolutely necessary.” 
  <p class="updated_time"> 12:48 AM CT, Jan. 09 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071368803/jan-6-panel-chair-says-committee-will-ask-mike-pence-to-voluntarily-appear">The chair of the Jan. 6 panel says the committee will ask Mike Pence to appear</a> NPR: The chair of the House select committee investigating the Jan. 6 attack says by month's end they'll ask former Vice President Mike Pence to testify. They may also request testimony from Ivanka Trump. 
  <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
- <p class="updated_time"> 03:18 PM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/news/2022/01/07/arbery-killers-get-life-in-prison-no-parole-for-father-son-526754">Arbery killers get life in prison; no parole for father, son</a> Politico: In November, a jury convicted all three defendants of murder, aggravated assault, false imprisonment and attempted false imprisonment. 
  <p class="updated_time"> 03:01 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-military-kurilla.html">Biden Nominates Michael E. Kurilla to Lead Central Command</a> NYT: Lt. Gen. Michael E. Kurilla would take over as the United States tries to conduct operations in Afghanistan from afar. 
  <p class="updated_time"> 02:21 PM CT, Jan. 07 </p> 
@@ -444,8 +444,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/harry-reid-to-lie-in-state-in-capitol-rotunda-526381">Harry Reid to lie in state in Capitol Rotunda</a> Politico: The former Senate majority leader died last Tuesday. 
  <p class="updated_time"> 01:29 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
- <p class="updated_time"> 11:41 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/bennie-thompson-jan-6-526357">Members of Congress interacted with Jan. 6 rioters, Rep. Thompson says</a> Politico: But it’s not clear how extensive or significant those interactions were. 
  <p class="updated_time"> 11:15 AM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/02/4-startling-polls-you-should-read-about-jan-6-495559"> 4 startling polls you should read about Jan. 6</a> Politico Playbook: And millions are getting ready to head back to work and school Monday despite the Omicron surge 
 
