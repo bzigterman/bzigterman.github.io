@@ -35,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59927266?at_medium=RSS&at_campaign=KARANGA">Pakistan snow: Hundreds rescued from vehicles in deadly blizzard</a> BBC: Tourists trapped by a blizzard for hours in freezing conditions are sheltering in the town of Murree. 
  <p class="updated_time"> 04:00 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/left-out-of-high-level-talks-ukraine-tries-other-diplomatic-channels.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
+ <p class="updated_time"> 03:21 AM CT, Jan. 09 </p> 
+ <a href="https://www.wsj.com/articles/russias-putin-seizes-on-crises-to-assert-control-over-former-soviet-republics-11641738063">Russia's Putin Seizes on Crises to Assert Control Over Former Soviet Republics</a> WSJ: The country’s flood of troops into Kazakhstan follows nearly 15 years of interventionism in Georgia, Belarus, Ukraine and elsewhere aimed at pulling these countries even closer to Russia. 
  <p class="updated_time"> 03:18 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/europes-omicron-battle-plan-hassle-the-unvaccinated-11641737453">Europe's Omicron Battle Plan: Hassle the Unvaccinated</a> WSJ: France, Germany, Italy and other European Union countries are pressuring unvaccinated adults to get inoculated by excluding them from more everyday activities. Public-health experts say it would be more effective to make vaccination mandatory. 
  <p class="updated_time"> 03:00 AM CT, Jan. 09 </p> 
@@ -42,11 +44,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:49 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/omicron-comes-to-china-prompting-mass-testing-and-quarantines-11641736166">Omicron Comes to China, Prompting Mass Testing and Quarantines</a> WSJ: At least two confirmed cases of the new variant of Covid-19 were reported in the port city of Tianjin, weeks ahead of the Winter Olympics in neighboring Beijing. 
  <p class="updated_time"> 02:00 AM CT, Jan. 09 </p> 
- <a href="https://www.wsj.com/articles/russia-readies-scores-of-transport-planes-as-troops-pour-into-kazakhstan-11641733219">Russia Readies Planes to Pour More Troops Into Kazakhstan</a> WSJ: Moscow said it had prepared more than 75 aircraft to allow for continuous deployment of forces into the country to help Kazakh authorities reassert control following days of sometimes violent protests. 
- <p class="updated_time"> 12:51 AM CT, Jan. 09 </p> 
- <a href="https://www.wsj.com/articles/iran-navy-port-emerges-as-key-to-alleged-weapons-smuggling-to-yemen-u-n-report-says-11641651941">Iran Port Key to Alleged Weapons Smuggling to Yemen, U.N. Report Says</a> WSJ: Smuggled weapons have long fueled Yemen’s civil war. Some of those arms originate from a port town where wooden ships set off laden with guns and rocket launchers, new evidence has found. 
- <p class="updated_time"> 11:33 PM CT, Jan. 08 </p> 
- <a href="https://www.wsj.com/articles/two-chinese-startups-tried-to-catch-up-to-makers-of-advanced-computer-chipsand-failed-11641724382">Chinese Startups Failed to Catch Up to Advanced Chip Makers</a> WSJ: Companies that were launched to build semiconductors in China, including startups HSMC and QXIC, have failed despite hundreds of millions of dollars in investment and government support. Officials are sorting through the wreckage to see what went wrong. 
+ <a href="https://www.wsj.com/articles/russia-readies-scores-of-transport-planes-as-troops-pour-into-kazakhstan-11641733219">Russia Readies Planes to Pour More Troops Into Kazakhstan</a> WSJ: Moscow said it had prepared more than 75 aircraft to allow for continuous deployment of forces to help Kazakh authorities reassert control following days of sometimes violent protests. 
  <p class="updated_time"> 10:45 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/chicago-shools-teachers-union-lightfoot.html">Chicago's Mayor Rejects Union's Terms for Returning to School</a> NYT: The standoff between educators and the city’s government shows no signs of abating. 
  <p class="updated_time"> 10:37 PM CT, Jan. 08 </p> 
@@ -208,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:17 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/kazakhstan-164-killed-protests-526803">Kazakhstan says 164 killed in week of protests</a> Politico: President Kassym-Jomart Tokayev’s office said that order has stabilized in the country. 
+ <p class="updated_time"> 08:32 AM CT, Jan. 09 </p> 
+ <a href="https://www.npr.org/2022/01/09/1071391935/wisconsin-republican-sen-ron-johnson-is-running-for-reelection">Wisconsin Republican Sen. Ron Johnson is running for reelection</a> NPR: The controversial Republican said he will seek a third term, in what is expected to be a hotly contested race that could determine which party controls the Senate. 
  <p class="updated_time"> 08:30 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/us/politics/border-patrol-chases.html">A Rise in Deadly Border Patrol Chases Renews Concerns About Accountability</a> NYT: The increasing number of deaths adds urgency to questions about when and how agents should engage in high-speed chases as they pursue smugglers and migrants. 
  <p class="updated_time"> 07:26 AM CT, Jan. 09 </p> 
@@ -336,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/biden-december-jobs-report/index.html">Biden touts low unemployment rate after US adds fewer jobs in December than expected</a> CNN: President Joe Biden on Friday touted the unemployment rate dropping to 3.9% in December and credited his economic agenda with getting America "back on its feet," despite Friday's job report showing the US economy added fewer jobs than expected last month. 
  <p class="updated_time"> 11:05 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071256532/postal-service-exempt-vaccine-mandate">The Postal Service is seeking a temporary delay from the vaccine mandate</a> NPR: With more than 500,000 employees, the post office says complying with the rule would be difficult and could interfere with timely mail deliveries. 
- <p class="updated_time"> 09:33 AM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/news/2022/01/07/unemployment-rate-falls-december-526727">U.S. jobless rate sinks to 3.9 percent as many more people find jobs</a> Politico: U.S. employers added a modest 199,000 jobs last month while the unemployment rate fell sharply, at a time when businesses are struggling to fill jobs with many Americans remaining reluctant to return to the workforce. 
  <p class="updated_time"> 09:30 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/scotus-vaccine-mandate-omicron-covid-526711">Biden’s federal vaccine mandate for workplace in trouble at Supreme Court</a> Politico: The pair of requirements, which would affect tens of millions of workers, have been in legal limbo since agencies published them last year. 
  <p class="updated_time"> 08:00 AM CT, Jan. 07 </p> 
@@ -356,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071181206/after-30-years-in-the-u-s-house-illinois-rep-bobby-rush-is-leaving">After 30 years in the U.S. House, Illinois Rep. Bobby Rush is leaving</a> NPR: NPR's A Martinez talks with longtime Illinois Democratic Rep. Bobby Rush about his decision to leave Congress, and his expectations for the Democratic party and democracy. 
  <p class="updated_time"> 04:14 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071181164/morning-news-brief">News brief: COVID tests, vaccine mandate hearing, Jan. 6 events</a> NPR: Rapid COVID-19 tests are in short supply and prices are increasing. The Supreme Court will review two of Biden's vaccine rules for workers. Not many Republicans attended Jan. 6 events on Capitol Hill. 
- <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071154648/jan-6-anniversary-analysis-republicans-trump">The immovable Republican Party and 'ink-blot politics'</a> NPR: Several of the key facts of the Jan. 6 insurrection are indisputable. And yet millions on the right do dispute them. Here's a look at how that happened. 
  <p class="updated_time"> 08:02 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/inside-biden-january-6-speech/index.html">Inside Biden's fiery speech and his decision to confront Trump's danger head-on</a> CNN: It was only a little more than a month ago when President Joe Biden, asked about another head-shaking revelation regarding his predecessor, seemed to balk at a mere mention of the man. 
  <p class="updated_time"> 07:40 PM CT, Jan. 06 </p> 
@@ -398,6 +394,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/cdc-advisers-teen-pfizer-covid-booster-526572">CDC recommends all teens get Pfizer Covid booster</a> Politico: The advisory panel signed off on the recommendation following presentations by doctors suggesting boosters are likely to increase antibodies in young teens. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
+ <p class="updated_time"> 04:38 PM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/garland-rebuts-criticism-of-jan-6-probe-526551">Garland rebuts criticism of Jan. 6 probe</a> Politico: The attorney general argued that prosecutors are methodically building cases against the most serious offenders in the attack on the Capitol. 
  <p class="updated_time"> 04:31 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
  <p class="updated_time"> 11:20 AM CT, Jan. 05 </p> 
