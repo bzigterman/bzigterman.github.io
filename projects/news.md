@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:49 PM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59931896?at_medium=RSS&at_campaign=KARANGA">New York fire: At least 19 killed in apartment block blaze</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
+ <p class="updated_time"> 05:49 PM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia Warns That U.S. Doesn’t Understand Its Goals on Ukraine</a> NYT: Before the two countries met amid rising tensions over Ukraine, a senior Russian official and the U.S. Secretary of State set a pessimistic tone. 
+ <p class="updated_time"> 05:44 PM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 05:39 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59929586?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia says tennis star given no visa assurances</a> BBC: The tennis star is challenging deportation in an Australian court after his visa was cancelled. 
- <p class="updated_time"> 05:07 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59931896?at_medium=RSS&at_campaign=KARANGA">New York fire: At least 19 killed in apartment block blaze</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
  <p class="updated_time"> 05:06 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/ukraine-russia-negotiations.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
  <p class="updated_time"> 04:59 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59932113?at_medium=RSS&at_campaign=KARANGA">Bronx fire: 'A horrific, painful moment ' says New York City Mayor Eric Adams</a> BBC: At least 19 people, including nine children, have died after a fire in the Bronx. 
  <p class="updated_time"> 04:09 PM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071706554/canadas-covid-testing-crisis">Canada's COVID testing crisis</a> NPR: Canada has reported COVID-19 case numbers in recent days many times higher than it has seen at any other point during the pandemic. Demand has overwhelmed testing capacity in much of the country. 
- <p class="updated_time"> 04:01 PM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia Warns That U.S. Doesn’t Understand Its Goals on Ukraine</a> NYT: Before the two countries met amid rising tensions over Ukraine, a senior Russian official and the U.S. Secretary of State set a pessimistic tone. 
  <p class="updated_time"> 03:08 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/africa/59930242?at_medium=RSS&at_campaign=KARANGA">Afcon 2021: Cameroon beat Burkina Faso 2-1 before Cape Verde see off Ethiopia</a> BBC: Hosts Cameroon come from behind to beat Burkina Faso in an absorbing opening game at the Africa Cup of Nations before Cape Verde beat Ethiopia. 
  <p class="updated_time"> 02:48 PM CT, Jan. 09 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59923332?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Is his vaccine saga an unforced error for Australia?</a> BBC: The story of the star tennis player being held in Australia sparks ire at every twist and turn. 
  <p class="updated_time"> 03:54 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/americas/guantanamo-bay-covid-outbreak.html">Covid Cases Reach Pandemic High at Guantánamo Bay</a> NYT: The American base has reinstated a mandate for wearing masks indoors in response to an increase in infections. 
- <p class="updated_time"> 01:57 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 01:09 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/pakistan-snow-kills-21-murree-hill-station.html">Heavy Snow Kills 21 at Murree Hill Station in Pakistan</a> NYT: Stranded in their cars on snow-covered roads, some in the mountainside town of Murree froze to death and others died from carbon monoxide poisoning. 
  <p class="updated_time"> 12:42 PM CT, Jan. 08 </p> 
