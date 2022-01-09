@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:54 PM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia Warns That U.S. Doesn’t Understand Its Goals on Ukraine</a> NYT: As the two countries prepared to meet amid rising tensions over Ukraine, a senior Russian official and the U.S. Secretary of State set a pessimistic tone. 
+ <p class="updated_time"> 02:48 PM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
  <p class="updated_time"> 02:40 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59931896?at_medium=RSS&at_campaign=KARANGA">New York apartment block fire kills 19</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
  <p class="updated_time"> 02:14 PM CT, Jan. 09 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59927267?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: At least 164 killed in crackdown on protests, reports say</a> BBC: Days of violent anti-government protests also saw nearly 6,000 people arrested, officials say. 
  <p class="updated_time"> 01:10 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/ukraine-russia-negotiations.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
- <p class="updated_time"> 12:46 PM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia Warns That U.S. Doesn’t Understand Its Goals on Ukraine</a> NYT: As the two countries prepared to meet amid rising tensions over Ukraine, a senior Russian official and the U.S. Secretary of State set a pessimistic tone. 
  <p class="updated_time"> 12:33 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/africa/59930242?at_medium=RSS&at_campaign=KARANGA">Afcon 2021: Cameroon beat Burkina Faso 2-1 in opening game</a> BBC: Hosts Cameroon come from behind to beat Burkina Faso in an absorbing opening game at the Africa Cup of Nations. 
  <p class="updated_time"> 11:49 AM CT, Jan. 09 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/world/europe/kazakhstan-protests.html">Nearly 6,000 Detained Amid Unrest in Kazakhstan</a> NYT: Protests that began last weekend over a hike in fuel prices spread across the country, leaving at least 2,000 injured, government officials said. Dozens of deaths also appeared likely. 
  <p class="updated_time"> 10:21 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59927266?at_medium=RSS&at_campaign=KARANGA">Pakistan snow: Hundreds rescued from vehicles in deadly blizzard</a> BBC: Samina was one of thousands trapped in freezing conditions trying to reach the town of Murree. 
- <p class="updated_time"> 09:57 AM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
  <p class="updated_time"> 08:40 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59929586?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia says tennis star given no visa assurances</a> BBC: The tennis star hopes to play in the Australian Open but instead could be deported. 
  <p class="updated_time"> 08:36 AM CT, Jan. 09 </p> 
