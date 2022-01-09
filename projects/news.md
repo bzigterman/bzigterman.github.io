@@ -233,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:08 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/business/teslas-computer-chips-supply-chain.html">Why Tesla Soared as Other Automakers Struggled to Make Cars</a> NYT: The yawning disparity between the performance of the electric car company and established automakers last year reflects the technological change roiling the industry. 
  <p class="updated_time"> 12:00 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/biden-nominees-senate-confirmation.html">Hundreds of Biden Nominees Are Unconfirmed Amid G.O.P. Blockade</a> NYT: A year into his term, only 41 percent of the president’s nominees for Senate-confirmed posts have been approved, a new analysis finds, the worst rate in decades. 
+ <a href="https://www.nytimes.com/2022/01/08/us/politics/biden-nominees-senate-confirmation.html">Hundreds of Biden Nominees Stuck in Senate Limbo Amid G.O.P. Blockade</a> NYT: A year into his term, only 41 percent of the president’s nominees for Senate-confirmed posts have been approved, a new analysis finds, the worst rate in decades. 
  <p class="updated_time"> 11:48 AM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/how-to-save-us-democracy-what-matters/index.html">What the average citizen can do about the demise of US democracy</a> CNN: After a week of urgent warnings about the state of American democracy, there were several requests in the What Matters inbox for something more useful than a warning. 
  <p class="updated_time"> 10:22 AM CT, Jan. 08 </p> 
