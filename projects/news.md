@@ -27,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
  <p class="updated_time"> 08:40 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59929586?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia says tennis star given no visa assurances</a> BBC: The tennis star hopes to play in the Australian Open but instead could be deported. 
+ <p class="updated_time"> 08:36 AM CT, Jan. 09 </p> 
+ <a href="https://www.wsj.com/articles/russias-putin-seizes-on-crises-to-assert-control-over-former-soviet-republics-11641738063">Russia's Putin Seizes on Crises to Assert Control Over Former Soviet Republics</a> WSJ: The country’s flood of troops into Kazakhstan follows nearly 15 years of interventionism in Georgia, Belarus, Ukraine and elsewhere aimed at pulling these countries closer to Russia. 
  <p class="updated_time"> 08:00 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/taliban-detain-prominent-critic-intensifying-crackdown-on-dissent-in-afghanistan-11641744527">Taliban Detain Prominent Critic, Intensifying Crackdown on Dissent</a> WSJ: The Taliban have arrested Faizullah Jalal, a Kabul university professor who gained national fame for berating a senior official on television, in a sign of the intensifying crackdown on critics of Afghanistan’s new regime. 
  <p class="updated_time"> 07:37 AM CT, Jan. 09 </p> 
@@ -49,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59926854?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Baby lost in Kabul evacuation is reunited with family</a> BBC: The infant was lost after being handed to an American soldier at Kabul airport in August. 
  <p class="updated_time"> 04:00 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/europes-workers-see-living-costs-rise-but-pay-isnt-keeping-pace-11641740401">Europe's Workers See Living Costs Rise, but Pay Isn't Keeping Pace</a> WSJ: Europe’s unemployment rate has fallen below its pre-pandemic level, but a surge in wages this year doesn’t seem likely even though higher inflation has weakened workers’ spending power, according to economists and officials. 
- <p class="updated_time"> 03:21 AM CT, Jan. 09 </p> 
- <a href="https://www.wsj.com/articles/russias-putin-seizes-on-crises-to-assert-control-over-former-soviet-republics-11641738063">Russia's Putin Seizes on Crises to Assert Control Over Former Soviet Republics</a> WSJ: The country’s flood of troops into Kazakhstan follows nearly 15 years of interventionism in Georgia, Belarus, Ukraine and elsewhere aimed at pulling these countries closer to Russia. 
  <p class="updated_time"> 03:18 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/europes-omicron-battle-plan-hassle-the-unvaccinated-11641737453">Europe's Omicron Battle Plan: Hassle the Unvaccinated</a> WSJ: France, Germany, Italy and other European Union countries are pressuring unvaccinated adults to get inoculated by excluding them from more everyday activities. Public-health experts say it would be more effective to make vaccination mandatory. 
  <p class="updated_time"> 02:49 AM CT, Jan. 09 </p> 
@@ -444,8 +444,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/could-january-6th-happen-again-526167">Could Jan. 6 happen again?</a> Politico: The Capitol Police has made progress under a new chief. But many on the Hill don't have an easy answer. 
  <p class="updated_time"> 09:13 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/harry-reid-to-lie-in-state-in-capitol-rotunda-526381">Harry Reid to lie in state in Capitol Rotunda</a> Politico: The former Senate majority leader died last Tuesday. 
- <p class="updated_time"> 01:29 PM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
 
 
 </details>
