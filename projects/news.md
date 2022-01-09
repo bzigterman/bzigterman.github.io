@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:37 AM CT, Jan. 09 </p> 
+ <a href="https://www.npr.org/2022/01/09/1071663590/russian-troops-have-crossed-the-border-into-kazakhstan-following-violent-protest">Russian troops have crossed the border into Kazakhstan following violent protests</a> NPR: Russian troops are helping put down anti-government protests in neighboring Kazakhstan. The crisis threatens to be a distraction for Russia as it squares off with the U.S. over Ukraine. 
  <p class="updated_time"> 07:33 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59927267?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: At least 154 killed in crackdown on protests, reports say</a> BBC: Days of violent anti-government protests also saw nearly 6,000 people arrested, officials say. 
  <p class="updated_time"> 07:29 AM CT, Jan. 09 </p> 
@@ -33,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59927266?at_medium=RSS&at_campaign=KARANGA">Pakistan snow: Hundreds rescued from vehicles in deadly blizzard</a> BBC: Tourists trapped by a blizzard for hours in freezing conditions are sheltering in the town of Murree. 
  <p class="updated_time"> 04:00 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/left-out-of-high-level-talks-ukraine-tries-other-diplomatic-channels.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
+ <p class="updated_time"> 02:00 AM CT, Jan. 09 </p> 
+ <a href="https://www.wsj.com/articles/russia-readies-scores-of-transport-planes-as-troops-pour-into-kazakhstan-11641733219">Russia Readies Scores of Transport Planes as Troops Pour Into Kazakhstan</a> WSJ: Moscow said it had prepared more than 75 aircraft to allow for continuous deployment of forces into the country to help Kazakh authorities reassert control following days of sometimes violent protests. 
  <p class="updated_time"> 12:51 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/iran-navy-port-emerges-as-key-to-alleged-weapons-smuggling-to-yemen-u-n-report-says-11641651941">Iran Navy Port Emerges as Key to Alleged Weapons Smuggling to Yemen, U.N. Report Says</a> WSJ: Smuggled weapons have long fueled Yemen’s civil war. Some of those arms originate from a port town where wooden ships set off laden with guns and rocket launchers, new evidence has found. 
  <p class="updated_time"> 11:33 PM CT, Jan. 08 </p> 
@@ -77,6 +81,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59924477?at_medium=RSS&at_campaign=KARANGA">Heavy snow leaves many dead in northern Pakistan</a> BBC: Would-be tourists travelled to Murree to see snow but around 1,000 cars became stranded in a blizzard. 
  <p class="updated_time"> 11:09 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071565479/turkmenistan-gates-of-hell-fire">Turkmenistan's leader wants 'Gates of Hell' fire put out</a> NPR: The president of Turkmenistan is calling for an end to one of the country's most notable but infernal sights — a natural gas crater that has burned for decades. 
+ <p class="updated_time"> 11:07 AM CT, Jan. 08 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-discuss-scaling-back-military-exercises-missile-deployments-in-europe-in-mondays-russia-talks-11641678080">U.S. to Discuss Scaling Back Military Exercises, Missile Deployments in Russia Talks</a> WSJ: U.S. officials say concessions would need to be reciprocal. The proposals, made in cooperation with Europe, fall short of Moscow’s public demands. 
  <p class="updated_time"> 09:30 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/kazakhstan-protests-karim-masimov-arrest.html">Kazakhstan Arrests Karim Masimov, Ex-Intelligence Chief, on Suspicion of Treason</a> NYT: The president had dismissed the intelligence chief, Karim Masimov, this week amid violence that may be tied, at least in part, to political infighting. 
  <p class="updated_time"> 09:08 AM CT, Jan. 08 </p> 
@@ -93,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071542887/russia-sent-troops-near-ukraine-and-to-kazakhstan-the-u-s-is-watching-and-waitin">Russia sent troops near Ukraine and to Kazakhstan. The U.S. is watching and waiting</a> NPR: The situation in Kazakhstan has implications for the stability of the region and for U.S. energy companies active in the Central Asian country. 
  <p class="updated_time"> 06:00 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/08/1062816001/top-global-tiktoks-of-2021-defiant-afghan-singer-kenyan-comic-walnut-cracking-el">Top global TikToks of 2021: Defiant Afghan singer, Kenya comic, walnut-cracking elbow</a> NPR: What did the world watch on TikTok last year? We round up some favorite videos — including a mukbang ASMR Thai star (don't worry, we explain it) and a potato chip-crunching Kenyan comedian. 
- <p class="updated_time"> 05:19 AM CT, Jan. 08 </p> 
- <a href="https://www.wsj.com/articles/ethiopia-releases-opposition-figures-as-it-seeks-end-to-war-11641658776">Ethiopia Releases Opposition Figures as It Seeks End to War</a> WSJ: Prime Minister Abiy Ahmed pledged to open dialogue with political opponents after 14 months of war that has threatened to tear apart Africa’s second-most populous nation. 
  <p class="updated_time"> 05:18 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
  <p class="updated_time"> 05:05 AM CT, Jan. 08 </p> 
@@ -113,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1070512969/us-missile-defense-thaad-south-korea-north-korea-china">A South Korean village is protesting U.S. plans for THAAD missile defense upgrades</a> NPR: The potential upgrade at a U.S. air defense base, within range of missiles in North Korea and China, has residents concerned as Seoul walks a delicate balancing act between the rival powers. 
  <p class="updated_time"> 01:54 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071526763/tallest-galapagos-volcano-erupts-spewing-lava-and-ash">Tallest Galapagos volcano erupts, spewing lava and ash</a> NPR: Ecuador's Emergency Operations Committee said the eruption on Isabela Island didn't represent a risk to humans or to native local species. 
- <p class="updated_time"> 01:00 AM CT, Jan. 08 </p> 
- <a href="https://www.wsj.com/articles/for-dying-towns-the-pandemic-offers-challengesand-hope-11641643202">For Dying Towns, the Pandemic Offers Challenges---and Hope</a> WSJ: For years, the mayors of many towns in Europe have struggled to prevent their communities from dying out as people have migrated to cities, schools have dwindled and businesses have died out. 
  <p class="updated_time"> 12:29 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/travel/royal-caribbean-cruises-cancellations-covid.html">Royal Caribbean Cancels Three Upcoming Cruises</a> NYT: The company said it had called off planned trips on three ships and pushed back another’s return to cruising to March. 
  <p class="updated_time"> 12:02 AM CT, Jan. 08 </p> 
@@ -139,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/rochelle-walensky-cdc-covid-guidance.html">C.D.C Director Defends Covid-19 Isolation Guidance</a> NYT: Dr. Rochelle P. Walensky held the agency’s first independent news briefing since the Trump White House ended them nearly two years ago. 
  <p class="updated_time"> 04:05 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071409717/many-in-iraq-regard-women-riding-bikes-as-promiscuous-some-women-see-it-as-activ">Many in Iraq regard women riding bikes as promiscuous. Some women see it as activism</a> NPR: For some women in Iraq, learning to ride bikes is a way of finding freedom from confining social restrictions. 
- <p class="updated_time"> 03:58 PM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071409661/in-remote-honduras-institutions-are-permeated-by-organized-drug-crime">Institutions in remote Honduras are permeated by organized drug crime</a> NPR: NPR's Audie Cornish speaks with veteran journalist Carlos Dada, founder of El Faro newspaper, about his latest reporting from Honduras. 
  <p class="updated_time"> 03:38 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59912794?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: BBC witnesses apocalyptic scenes in main city</a> BBC: A BBC reporter sees the aftermath of protests and deadly violence in Kazakhstan's biggest city Almaty. 
  <p class="updated_time"> 02:58 PM CT, Jan. 07 </p> 
