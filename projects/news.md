@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:07 PM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59931896?at_medium=RSS&at_campaign=KARANGA">New York fire: At least 19 killed in apartment block blaze</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
+ <p class="updated_time"> 05:06 PM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/ukraine-russia-negotiations.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
+ <p class="updated_time"> 04:59 PM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59932113?at_medium=RSS&at_campaign=KARANGA">Bronx fire: 'A horrific, painful moment ' says New York City Mayor Eric Adams</a> BBC: At least 19 people, including nine children, have died after a fire in the Bronx. 
  <p class="updated_time"> 04:09 PM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071706554/canadas-covid-testing-crisis">Canada's COVID testing crisis</a> NPR: Canada has reported COVID-19 case numbers in recent days many times higher than it has seen at any other point during the pandemic. Demand has overwhelmed testing capacity in much of the country. 
  <p class="updated_time"> 04:01 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia Warns That U.S. Doesn’t Understand Its Goals on Ukraine</a> NYT: Before the two countries met amid rising tensions over Ukraine, a senior Russian official and the U.S. Secretary of State set a pessimistic tone. 
- <p class="updated_time"> 03:45 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59931896?at_medium=RSS&at_campaign=KARANGA">New York fire: At least 19 killed in apartment block blaze</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
- <p class="updated_time"> 03:35 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59932113?at_medium=RSS&at_campaign=KARANGA">Bronx fire: 'A horrific, painful moment ' says New York City Mayor Eric Adams</a> BBC: At least 19 people, including nine children, have died after a fire in the Bronx. 
  <p class="updated_time"> 03:08 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/africa/59930242?at_medium=RSS&at_campaign=KARANGA">Afcon 2021: Cameroon beat Burkina Faso 2-1 before Cape Verde see off Ethiopia</a> BBC: Hosts Cameroon come from behind to beat Burkina Faso in an absorbing opening game at the Africa Cup of Nations before Cape Verde beat Ethiopia. 
- <p class="updated_time"> 02:59 PM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/europe/ukraine-russia-negotiations.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
  <p class="updated_time"> 02:48 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
  <p class="updated_time"> 02:14 PM CT, Jan. 09 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:22 PM CT, Jan. 09 </p> 
+ <a href="https://www.politico.com/news/2022/01/09/new-york-city-apartment-fire-526811">19 dead, including 9 children, in New York City apartment fire</a> Politico: “It’s a tragedy beyond measure,” Mayor Eric Adams said. 
  <p class="updated_time"> 04:48 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/child-covid-testing-winter-olympics-526810">China’s Tianjin testing all residents after Omicron found</a> Politico: China has stepped up its strict zero tolerance strategy in the run-up to the Winter Olympics, which open Feb. 4. 
  <p class="updated_time"> 03:54 PM CT, Jan. 09 </p> 
@@ -251,7 +253,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:50 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/harry-reid-funeral-democratic-leaders-tribute-526795">'Deeply good man from Searchlight': Democratic leaders pay tribute to Harry Reid in Nevada</a> Politico: Party luminaries gather at Las Vegas memorial service to honor the former Senate majority leader. 
  <p class="updated_time"> 05:43 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/us-sanctions-russia-ukraine.html">U.S. Details Costs of a Russian Invasion of Ukraine</a> NYT: The Biden administration and its allies are developing new possible sanctions ahead of a series of meetings to defuse the crisis with Moscow. 
+ <a href="https://www.nytimes.com/2022/01/08/us/politics/us-sanctions-russia-ukraine.html">U.S. Details Possible Sanctions on Russia Over a Ukraine Invasion</a> NYT: The Biden administration and its allies are developing new possible sanctions ahead of a series of meetings to defuse the crisis with Moscow. 
  <p class="updated_time"> 05:19 PM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/harry-reid-memorial/index.html">Biden eulogizes Reid as 'one of the greatest Senate Majority Leaders in history'</a> CNN: Former Senate Majority Leader Harry Reid will be remembered by a host of top Democratic politicians at his memorial service in Las Vegas on Saturday, with President Joe Biden speaking at the service and former President Barack Obama eulogizing the late senator. 
  <p class="updated_time"> 05:12 PM CT, Jan. 08 </p> 
