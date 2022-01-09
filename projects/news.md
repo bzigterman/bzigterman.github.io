@@ -38,7 +38,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:04 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59927266?at_medium=RSS&at_campaign=KARANGA">Pakistan snow: Hundreds rescued from vehicles in deadly blizzard</a> BBC: Tourists trapped by a blizzard for hours in freezing conditions are sheltering in the town of Murree. 
  <p class="updated_time"> 03:21 AM CT, Jan. 09 </p> 
- <a href="https://www.wsj.com/articles/russias-putin-seizes-on-crises-to-assert-control-over-former-soviet-republics-11641738063">Russia's Putin Seizes on Crises to Assert Control Over Former Soviet Republics</a> WSJ: The country’s flood of troops into Kazakhstan follows nearly 15 years of interventionism in Georgia, Belarus, Ukraine and elsewhere aimed at pulling these countries even closer to Russia. 
+ <a href="https://www.wsj.com/articles/russias-putin-seizes-on-crises-to-assert-control-over-former-soviet-republics-11641738063">Russia's Putin Seizes on Crises to Assert Control Over Former Soviet Republics</a> WSJ: The country’s flood of troops into Kazakhstan follows nearly 15 years of interventionism in Georgia, Belarus, Ukraine and elsewhere aimed at pulling these countries closer to Russia. 
  <p class="updated_time"> 03:18 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/europes-omicron-battle-plan-hassle-the-unvaccinated-11641737453">Europe's Omicron Battle Plan: Hassle the Unvaccinated</a> WSJ: France, Germany, Italy and other European Union countries are pressuring unvaccinated adults to get inoculated by excluding them from more everyday activities. Public-health experts say it would be more effective to make vaccination mandatory. 
  <p class="updated_time"> 03:00 AM CT, Jan. 09 </p> 
