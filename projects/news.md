@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:37 PM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59925413?at_medium=RSS&at_campaign=KARANGA">Nigeria attacks: Hundreds reported killed as bandits target villages</a> BBC: The attacks in the northern Zamfara state are believed to be in response to military air strikes. 
  <p class="updated_time"> 10:45 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/chicago-shools-teachers-union-lightfoot.html">Chicago's Mayor Rejects Union's Terms for Returning to School</a> NYT: The standoff between educators and the city’s government shows no signs of abating. 
  <p class="updated_time"> 10:37 PM CT, Jan. 08 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/australia/novak-djokovic-australia-visa.html">Djokovic Tested Positive for Coronavirus in December, His Lawyers Say</a> NYT: Lawyers for the tennis star, who is appealing Australia’s decision to deny him entry, said the positive test came weeks before he flew to the country. 
  <p class="updated_time"> 07:42 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071547294/pakistan-cars-cold-snow-deaths">In Pakistan, 22 die in subfreezing temperatures as their cars are stuck in heavy snow</a> NPR: Most of the victims died of hypothermia, officials said, as overnight temperatures fell to 17.6 Fahrenheit amid heavy snowfall at Pakistan's mountain resort town of Murree. 
- <p class="updated_time"> 07:26 AM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59921355?at_medium=RSS&at_campaign=KARANGA">Ethiopia’s Tigray conflict: Dozens killed in airstrike at camp, say aid staff</a> BBC: Aid workers in northern Ethiopia say 56 people are killed in a strike on a camp for the displaced. 
  <p class="updated_time"> 07:21 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071542908/venezuelans-are-cooking-over-wood-fires-because-of-a-shortage-of-propane">Venezuelans are cooking over wood fires because of a shortage of propane</a> NPR: In a great irony, Venezuelans are cooking their meals over wood fires because of a shortage of propane. This is in a nation with among the largest oil and natural gas reserves in the world. 
  <p class="updated_time"> 07:09 AM CT, Jan. 08 </p> 
