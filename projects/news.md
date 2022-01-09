@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:48 AM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/us/federal-rental-assistance-evictions.html">Federal Rental Assistance Is Running Out, With Tenants Still in Need</a> NYT: An announcement from the Treasury Department on Friday revealed that there was less money available for renters than some states had hoped. 
  <p class="updated_time"> 11:31 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/us/politics/harry-reid-memorial-service.html">‘Goodbye, Harry’: Reid’s Memorial Draws Warm Testimonials From Biden and Obama</a> NYT: Some of the country’s most prominent Democrats recounted tales showcasing the former Senate majority leader’s tenacity and modesty. 
  <p class="updated_time"> 05:50 PM CT, Jan. 08 </p> 
@@ -270,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/business/economy/jobs-interest-rates-federal-reserve.html">As Unemployment Falls, Interest Rate Increases Creep Nearer</a> NYT: The jobless rate is falling sharply and pay is jumping. That may increase the urgency as the Federal Reserve withdraws economic support. 
  <p class="updated_time"> 06:12 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/politics-inflation-redistricting.html">5 Big Questions for the Political Year Ahead</a> NYT: Inflation and the pandemic are hurting President Biden’s popularity, but the midterms are still months away. 
- <p class="updated_time"> 05:59 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/federal-rental-assistance-evictions.html">Federal Rental Assistance Is Running Out, With Tenants Still in Need</a> NYT: An announcement from the Treasury Department on Friday revealed that there was less money available for renters than some states had hoped. 
  <p class="updated_time"> 05:37 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/jan-6-terrorism-explainer.html">Was the Jan. 6 Attack on the Capitol an Act of ‘Terrorism’?</a> NYT: A sharp rebuke of Senator Ted Cruz by the Fox News host Tucker Carlson has heightened a legal and semantic debate over a charged term. 
  <p class="updated_time"> 05:37 PM CT, Jan. 07 </p> 
