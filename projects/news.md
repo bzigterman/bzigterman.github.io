@@ -35,6 +35,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59927266?at_medium=RSS&at_campaign=KARANGA">Pakistan snow: Hundreds rescued from vehicles in deadly blizzard</a> BBC: Tourists trapped by a blizzard for hours in freezing conditions are sheltering in the town of Murree. 
  <p class="updated_time"> 04:00 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/left-out-of-high-level-talks-ukraine-tries-other-diplomatic-channels.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
+ <p class="updated_time"> 03:18 AM CT, Jan. 09 </p> 
+ <a href="https://www.wsj.com/articles/europes-omicron-battle-plan-hassle-the-unvaccinated-11641737453">Europe's Omicron Battle Plan: Hassle the Unvaccinated</a> WSJ: France, Germany, Italy and other European Union countries are pressuring unvaccinated adults to get inoculated by excluding them from more everyday activities. Public-health experts say it would be more effective to make vaccination mandatory. 
+ <p class="updated_time"> 03:00 AM CT, Jan. 09 </p> 
+ <a href="https://www.wsj.com/articles/u-s-eyes-financial-targeted-tech-sanctions-as-talks-begin-with-russia-11641736802">U.S. Eyes Financial, Targeted Tech Sanctions as Russia Talks Begin</a> WSJ: Officials are likely to steer clear of the biggest energy and banking sanctions if Ukraine is invaded. 
+ <p class="updated_time"> 02:49 AM CT, Jan. 09 </p> 
+ <a href="https://www.wsj.com/articles/omicron-comes-to-china-prompting-mass-testing-and-quarantines-11641736166">Omicron Comes to China, Prompting Mass Testing and Quarantines</a> WSJ: At least two confirmed cases of the new variant of Covid-19 were reported in the port city of Tianjin, weeks ahead of the Winter Olympics in neighboring Beijing. 
  <p class="updated_time"> 02:00 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/russia-readies-scores-of-transport-planes-as-troops-pour-into-kazakhstan-11641733219">Russia Readies Planes to Pour More Troops Into Kazakhstan</a> WSJ: Moscow said it had prepared more than 75 aircraft to allow for continuous deployment of forces into the country to help Kazakh authorities reassert control following days of sometimes violent protests. 
  <p class="updated_time"> 12:51 AM CT, Jan. 09 </p> 
@@ -81,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59924477?at_medium=RSS&at_campaign=KARANGA">Heavy snow leaves many dead in northern Pakistan</a> BBC: Would-be tourists travelled to Murree to see snow but around 1,000 cars became stranded in a blizzard. 
  <p class="updated_time"> 11:09 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071565479/turkmenistan-gates-of-hell-fire">Turkmenistan's leader wants 'Gates of Hell' fire put out</a> NPR: The president of Turkmenistan is calling for an end to one of the country's most notable but infernal sights — a natural gas crater that has burned for decades. 
- <p class="updated_time"> 11:07 AM CT, Jan. 08 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-discuss-scaling-back-military-exercises-missile-deployments-in-europe-in-mondays-russia-talks-11641678080">U.S. to Discuss Scaling Back Military Exercises, Missile Deployments in Russia Talks</a> WSJ: U.S. officials say concessions would need to be reciprocal. The proposals, made in cooperation with Europe, fall short of Moscow’s public demands. 
  <p class="updated_time"> 09:30 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/kazakhstan-protests-karim-masimov-arrest.html">Kazakhstan Arrests Karim Masimov, Ex-Intelligence Chief, on Suspicion of Treason</a> NYT: The president had dismissed the intelligence chief, Karim Masimov, this week amid violence that may be tied, at least in part, to political infighting. 
  <p class="updated_time"> 09:08 AM CT, Jan. 08 </p> 
@@ -119,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071526763/tallest-galapagos-volcano-erupts-spewing-lava-and-ash">Tallest Galapagos volcano erupts, spewing lava and ash</a> NPR: Ecuador's Emergency Operations Committee said the eruption on Isabela Island didn't represent a risk to humans or to native local species. 
  <p class="updated_time"> 12:29 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/travel/royal-caribbean-cruises-cancellations-covid.html">Royal Caribbean Cancels Three Upcoming Cruises</a> NYT: The company said it had called off planned trips on three ships and pushed back another’s return to cruising to March. 
- <p class="updated_time"> 12:02 AM CT, Jan. 08 </p> 
- <a href="https://www.wsj.com/articles/mystery-surrounds-absence-of-kazakhstans-longtime-leader-as-protesters-challenge-state-he-built-11641639722">Mystery Surrounds Absence of Kazakhstan's Longtime Leader</a> WSJ: Since unrest started this month, the 81-year-old former president hasn’t been seen in public and his successor has moved to undermine his authority. 
  <p class="updated_time"> 09:50 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/india-12-booster-shots.html">12 Covid Vaccine Shots Aren't Enough for 85-Year-Old in India</a> NYT: The retired postman said he gamed the offline vaccination drive to keep boosting regularly — long before booster shots were a thing anywhere. 
  <p class="updated_time"> 07:26 PM CT, Jan. 07 </p> 
@@ -204,6 +206,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:17 AM CT, Jan. 09 </p> 
+ <a href="https://www.politico.com/news/2022/01/09/kazakhstan-164-killed-protests-526803">Kazakhstan says 164 killed in week of protests</a> Politico: President Kassym-Jomart Tokayev’s office said that order has stabilized in the country. 
+ <p class="updated_time"> 08:30 AM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/us/politics/border-patrol-chases.html">A Rise in Deadly Border Patrol Chases Renews Concerns About Accountability</a> NYT: The increasing number of deaths adds urgency to questions about when and how agents should engage in high-speed chases as they pursue smugglers and migrants. 
  <p class="updated_time"> 07:26 AM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071663576/politics-chat-voting-rights-bills-stalled-midterm-considerations-sen-reid-dies">Politics chat: Voting rights bills stalled; midterm considerations; Sen. Reid dies</a> NPR: We look ahead to the fight over the two voting rights bills in Congress right now as well as how the 2022 political races are shaping up for the midterm elections. 
  <p class="updated_time"> 07:05 AM CT, Jan. 09 </p> 
@@ -218,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/09/politics/michelle-obama-2022-elections-fight-for-vote/index.html">Michelle Obama wades into 2022 midterm elections with urgent message on voting</a> CNN: Former first lady Michelle Obama has a message for Americans ahead of the 2022 midterm elections: "We've got to vote like the future of our democracy depends on it." 
  <p class="updated_time"> 05:02 AM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/biden-student-loan-for-profit-college/index.html">Why Biden's student loan relief efforts haven't yet reversed a DeVos decision on for-profit colleges</a> CNN: The Biden administration has pledged to make college more affordable. But it has chosen not to reinstate an Obama-era rule meant to prevent students from taking on too much debt to attend predatory for-profit colleges. 
- <p class="updated_time"> 04:00 AM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/us/politics/border-patrol-chases.html">A Rise in Deadly Border Patrol Chases Renews Concerns About Accountability</a> NYT: The increasing number of deaths adds urgency to questions about when and how agents should engage in high-speed chases as they pursue smugglers and migrants. 
  <p class="updated_time"> 12:48 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/federal-rental-assistance-evictions.html">Federal Rental Assistance Is Running Out, With Tenants Still in Need</a> NYT: An announcement from the Treasury Department on Friday revealed that there was less money available for renters than some states had hoped. 
  <p class="updated_time"> 11:31 PM CT, Jan. 08 </p> 
@@ -394,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/cdc-advisers-teen-pfizer-covid-booster-526572">CDC recommends all teens get Pfizer Covid booster</a> Politico: The advisory panel signed off on the recommendation following presentations by doctors suggesting boosters are likely to increase antibodies in young teens. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
- <p class="updated_time"> 04:38 PM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/garland-rebuts-criticism-of-jan-6-probe-526551">Garland rebuts criticism of Jan. 6 probe</a> Politico: The attorney general argued that prosecutors are methodically building cases against the most serious offenders in the attack on the Capitol. 
  <p class="updated_time"> 04:31 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
  <p class="updated_time"> 11:20 AM CT, Jan. 05 </p> 
