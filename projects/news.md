@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/london-schools-covid-omicron.html">London Schools Are Determined to Stay Open. Staff Illnesses Make It Hard.</a> NYT: Schools across England are grappling with what it looks like to live with the pandemic as it enters its third year. Sound familiar? 
+ <p class="updated_time"> 04:00 AM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/left-out-of-high-level-talks-ukraine-tries-other-diplomatic-channels.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
  <p class="updated_time"> 02:35 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/59925558?at_medium=RSS&at_campaign=KARANGA">The Ashes: England cling on for draw on tense final day in Sydney</a> BBC: England cling on for a tense draw on the final day of the fourth Test in Sydney to end Australia's hopes of an Ashes clean sweep. 
  <p class="updated_time"> 02:29 AM CT, Jan. 09 </p> 
@@ -198,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/us/politics/border-patrol-chases.html">A Rise in Deadly Border Patrol Chases Renews Accountability Concerns About</a> NYT: The increasing number of deaths adds urgency to questions about when and how agents should engage in high-speed chases as they pursue smugglers and migrants. 
  <p class="updated_time"> 12:48 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/federal-rental-assistance-evictions.html">Federal Rental Assistance Is Running Out, With Tenants Still in Need</a> NYT: An announcement from the Treasury Department on Friday revealed that there was less money available for renters than some states had hoped. 
  <p class="updated_time"> 11:31 PM CT, Jan. 08 </p> 
@@ -358,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden condemns Trump as a threat to democracy in speech marking one year since January 6 attack</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
  <p class="updated_time"> 06:45 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/us/politics/cuomo-charges-future-resignation.html">Will Cuomo Try to Make a Comeback?</a> NYT: Recent decisions by prosecutors to not pursue criminal charges against ex-Gov. Andrew Cuomo may fuel his interest in re-entering public life. 
- <p class="updated_time"> 06:06 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/republicans-jan-6-observances.html">Republicans Avoid Jan. 6 Observances at the Capitol</a> NYT: Elected Republicans stayed away from the Capitol during a day of solemn remembrance on the anniversary of the attack carried out by supporters of former President Donald J. Trump. 
  <p class="updated_time"> 04:55 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/harris-was-inside-dnc-on-jan-6-when-pipe-bomb-was-discovered-outside-526695">Harris was inside DNC on Jan. 6 when pipe bomb was discovered outside</a> Politico: The then-vice president-elect’s presence inside the building while a bomb was right outside raises sobering questions about her security that day. 
  <p class="updated_time"> 04:24 PM CT, Jan. 06 </p> 
