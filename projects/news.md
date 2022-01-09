@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:35 AM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/sport/cricket/59925558?at_medium=RSS&at_campaign=KARANGA">The Ashes: England cling on for draw on tense final day in Sydney</a> BBC: England cling on for a tense draw on the final day of the fourth Test in Sydney to end Australia's hopes of an Ashes clean sweep. 
+ <p class="updated_time"> 02:29 AM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59926777?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia loses bid to delay tennis star's visa appeal</a> BBC: A judge overseeing the tennis star's deportation case rejects a request to postpone hearing for two days. 
  <p class="updated_time"> 11:37 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59925413?at_medium=RSS&at_campaign=KARANGA">Nigeria attacks: Hundreds reported killed as bandits target villages</a> BBC: The attacks in the northern Zamfara state are believed to be in response to military air strikes. 
  <p class="updated_time"> 10:45 PM CT, Jan. 08 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071604907/a-wall-of-rock-fell-on-boaters-in-a-brazilian-lake-killing-6">A wall of rock fell on boaters in a Brazilian lake, killing 6</a> NPR: A towering slab of rock broke from a cliff and toppled onto pleasure boaters drifting near a waterfall in a Brazilian lake Saturday. 
  <p class="updated_time"> 06:00 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59923332?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Is his vaccine saga an unforced error for Australia?</a> BBC: The story of the star tennis player being held in Australia sparks ire at every twist and turn. 
- <p class="updated_time"> 05:50 PM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59920379?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Having Covid gave tennis star vaccine exemption - lawyers</a> BBC: Novak Djokovic's lawyers say a positive test on 16 December allows the tennis star entry to Australia. 
  <p class="updated_time"> 05:08 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59925408?at_medium=RSS&at_campaign=KARANGA">Covid: Thousands protest in France against proposed new vaccine pass</a> BBC: The protests are against a draft law which would in effect ban the unvaccinated from public areas. 
  <p class="updated_time"> 03:54 PM CT, Jan. 08 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59922258?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Ex-intelligence chief arrested for treason</a> BBC: Karim Massimov's arrest comes in the wake of violent, nationwide anti-government protests. 
  <p class="updated_time"> 09:08 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071554990/kazakhstan-anti-terror-arrest">Kazakhstan's former anti-terror chief is arrested over protests</a> NPR: Karim Masimov has been arrested on charges of attempting to overthrow the government following violent protests that the president has blamed on foreign-backed terrorists. 
- <p class="updated_time"> 08:34 AM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59920221?at_medium=RSS&at_campaign=KARANGA">Turkmenistan plans to close its 'Gateway to Hell'</a> BBC: The site, a fire burning for decades in a huge desert gas crater, is a popular tourist attraction. 
  <p class="updated_time"> 08:23 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/australia/novak-djokovic-australia-visa.html">Djokovic Tested Positive for Coronavirus in December, His Lawyers Say</a> NYT: Lawyers for the tennis star, who is appealing Australia’s decision to deny him entry, said the positive test came weeks before he flew to the country. 
  <p class="updated_time"> 07:42 AM CT, Jan. 08 </p> 
