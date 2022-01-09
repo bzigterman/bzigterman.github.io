@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:19 AM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59926854?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Baby lost in Kabul evacuation is reunited with family</a> BBC: The infant was lost after being handed to an American soldier at Kabul airport in August. 
+ <p class="updated_time"> 04:04 AM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59927266?at_medium=RSS&at_campaign=KARANGA">Pakistan snow: Hundreds rescued from vehicles in deadly blizzard</a> BBC: Tourists trapped by a blizzard for hours in freezing conditions are sheltering in the town of Murree. 
  <p class="updated_time"> 04:00 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/london-schools-covid-omicron.html">London Schools Are Determined to Stay Open. Staff Illnesses Make It Hard.</a> NYT: Schools across England are grappling with what it looks like to live with the pandemic as it enters its third year. Sound familiar? 
  <p class="updated_time"> 04:00 AM CT, Jan. 09 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/figure-skating-olympic-team.html">As U.S. Figure Skaters Test Positive, New Worries for Winter Olympics</a> NYT: Problems at the national championships could turn up in Beijing next month, too. 
  <p class="updated_time"> 10:31 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/china-rights-defense-activists.html">Chinese Activists Face Subversion Charges for Weekend Gathering</a> NYT: A weekend get-together in 2019 offered Beijing a chance to deliver a blow to the “rights defense” movement. Now, two key participants face the prospect of years in prison. 
- <p class="updated_time"> 09:50 PM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59920215?at_medium=RSS&at_campaign=KARANGA">Pakistan snow: Deadly weather traps hundreds of drivers</a> BBC: At least 21 people have died during a blizzard in the town of Murree, the interior minister says. 
  <p class="updated_time"> 09:48 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/australia/moriori-new-zealand.html">Revival for New Zealand's Moriori Nearly Pushed to Cultural Death</a> NYT: The Moriori, whose history of peaceful isolation was shattered by violent subjugation, are fighting to establish themselves as a thriving people alongside the Maori. 
  <p class="updated_time"> 08:08 PM CT, Jan. 08 </p> 
