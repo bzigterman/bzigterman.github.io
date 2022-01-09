@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:33 AM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59927267?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: At least 154 killed in crackdown on protests, reports say</a> BBC: Days of violent anti-government protests also saw nearly 6,000 people arrested, officials say. 
+ <p class="updated_time"> 07:29 AM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59923900?at_medium=RSS&at_campaign=KARANGA">At least seven dead after Brazil cliff collapses on boats</a> BBC: Another three are missing after the cliff fell onto boats in a lake in the south-east of the country. 
+ <p class="updated_time"> 07:26 AM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59928851?at_medium=RSS&at_campaign=KARANGA">Covid pandemic: Chinese city tests 14m people after cluster</a> BBC: As China pursues a zero-Covid policy, Tianjin aims to test all its residents within 48 hours. 
  <p class="updated_time"> 07:05 AM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071663548/lahore-pakistan-locks-down-for-the-pandemic-and-to-improve-air-pollution">Lahore, Pakistan, locks down for the pandemic — and to improve air pollution</a> NPR: Pakistan's second largest city, Lahore, tops the world's most polluted city list, along with India's New Delhi. Poor air quality has prompted the government to order a partial shutdown of schools. 
  <p class="updated_time"> 06:55 AM CT, Jan. 09 </p> 
@@ -15,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59925413?at_medium=RSS&at_campaign=KARANGA">Nigeria motorbike gang attack: Death toll rises to 200</a> BBC: The attacks in the northern Zamfara state are believed to be in response to military air strikes. 
  <p class="updated_time"> 06:32 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released From Jail After 3 Years</a> NYT: The Saudi government has not said why it detained or released Princess Basmah bint Saud, a daughter of a former king who has been a vociferous critic of the country’s authorities. 
- <p class="updated_time"> 06:02 AM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59923900?at_medium=RSS&at_campaign=KARANGA">At least seven dead after Brazil cliff collapses on boats</a> BBC: Another three are missing after the cliff fell onto boats in a lake in the south-east of the country. 
  <p class="updated_time"> 05:55 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Officials’ Party Galls Hong Kong, Chafing Under Covid (and Political) Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
  <p class="updated_time"> 05:34 AM CT, Jan. 09 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59927266?at_medium=RSS&at_campaign=KARANGA">Pakistan snow: Hundreds rescued from vehicles in deadly blizzard</a> BBC: Tourists trapped by a blizzard for hours in freezing conditions are sheltering in the town of Murree. 
  <p class="updated_time"> 04:00 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/left-out-of-high-level-talks-ukraine-tries-other-diplomatic-channels.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
- <p class="updated_time"> 02:35 AM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/sport/cricket/59925558?at_medium=RSS&at_campaign=KARANGA">The Ashes: England cling on for draw on tense final day in Sydney</a> BBC: England cling on for a tense draw on the final day of the fourth Test in Sydney to end Australia's hopes of an Ashes clean sweep. 
  <p class="updated_time"> 12:51 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/iran-navy-port-emerges-as-key-to-alleged-weapons-smuggling-to-yemen-u-n-report-says-11641651941">Iran Navy Port Emerges as Key to Alleged Weapons Smuggling to Yemen, U.N. Report Says</a> WSJ: Smuggled weapons have long fueled Yemen’s civil war. Some of those arms originate from a port town where wooden ships set off laden with guns and rocket launchers, new evidence has found. 
  <p class="updated_time"> 11:33 PM CT, Jan. 08 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59923332?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Is his vaccine saga an unforced error for Australia?</a> BBC: The story of the star tennis player being held in Australia sparks ire at every twist and turn. 
  <p class="updated_time"> 05:59 PM CT, Jan. 08 </p> 
  <a href="https://www.wsj.com/articles/suspect-in-assassination-of-haitian-president-is-detained-11641703317">Suspect in Assassination of Haitian President Is Detained</a> WSJ: Haitian police alleged that the former DEA informant had been in charge of distributing the weapons used by the assailants in the July attack on the presidential compound. 
- <p class="updated_time"> 05:08 PM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59925408?at_medium=RSS&at_campaign=KARANGA">Covid: Thousands protest in France against proposed new vaccine pass</a> BBC: The protests are against a draft law which would in effect ban the unvaccinated from public areas. 
  <p class="updated_time"> 03:54 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/americas/guantanamo-bay-covid-outbreak.html">Covid Cases Reach Pandemic High at Guantánamo Bay</a> NYT: The American base has reinstated a mandate for wearing masks indoors in response to an increase in infections. 
  <p class="updated_time"> 01:57 PM CT, Jan. 08 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:26 AM CT, Jan. 09 </p> 
+ <a href="https://www.npr.org/2022/01/09/1071663576/politics-chat-voting-rights-bills-stalled-midterm-considerations-sen-reid-dies">Politics chat: Voting rights bills stalled; midterm considerations; Sen. Reid dies</a> NPR: We look ahead to the fight over the two voting rights bills in Congress right now as well as how the 2022 political races are shaping up for the midterm elections. 
  <p class="updated_time"> 07:05 AM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071663527/the-story-of-january-6-goes-beyond-a-single-day">The story of January 6 goes beyond a single day</a> NPR: It's been a year since a mob supporting former President Donald Trump attacked the U.S. Capitol. We look at what we've learned about domestic extremism over the past year. 
  <p class="updated_time"> 07:00 AM CT, Jan. 09 </p> 
@@ -352,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071181164/morning-news-brief">News brief: COVID tests, vaccine mandate hearing, Jan. 6 events</a> NPR: Rapid COVID-19 tests are in short supply and prices are increasing. The Supreme Court will review two of Biden's vaccine rules for workers. Not many Republicans attended Jan. 6 events on Capitol Hill. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071154648/jan-6-anniversary-analysis-republicans-trump">The immovable Republican Party and 'ink-blot politics'</a> NPR: Several of the key facts of the Jan. 6 insurrection are indisputable. And yet millions on the right do dispute them. Here's a look at how that happened. 
- <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071128277/vaccine-mandate-regulations-are-under-the-supreme-courts-microscope">The Supreme Court is hearing arguments challenging vaccine mandates</a> NPR: The two cases are in a preliminary posture, but how the court rules will very likely signal how these issues are ultimately resolved. 
  <p class="updated_time"> 08:02 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/inside-biden-january-6-speech/index.html">Inside Biden's fiery speech and his decision to confront Trump's danger head-on</a> CNN: It was only a little more than a month ago when President Joe Biden, asked about another head-shaking revelation regarding his predecessor, seemed to balk at a mere mention of the man. 
  <p class="updated_time"> 07:40 PM CT, Jan. 06 </p> 
