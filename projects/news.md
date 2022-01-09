@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:22 AM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released, but Other Royals Are Still Locked Up</a> NYT: The Saudi government has not said why it detained or freed Princess Basmah bint Saud, a daughter of a former king who has criticized the country’s policies. 
  <p class="updated_time"> 11:01 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/london-schools-covid-omicron.html">London Schools Are Determined to Stay Open. Staff Illnesses Make It Hard.</a> NYT: Schools across England are grappling with what it looks like to live with the pandemic as it enters its third year. Sound familiar? 
  <p class="updated_time"> 10:55 AM CT, Jan. 09 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/09/1071663548/lahore-pakistan-locks-down-for-air-quality">Lahore, Pakistan, is locking down to improve air quality</a> NPR: Pakistan's second largest city, Lahore, tops the world's most polluted city list, along with India's New Delhi. Poor air quality has prompted the government to order a partial shutdown of schools. 
  <p class="updated_time"> 06:48 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59925413?at_medium=RSS&at_campaign=KARANGA">Nigeria motorbike gang attack: Death toll rises to 200</a> BBC: The attacks in the northern Zamfara state are believed to be in response to military air strikes. 
- <p class="updated_time"> 06:32 AM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released From Jail After 3 Years</a> NYT: The Saudi government has not said why it detained or released Princess Basmah bint Saud, a daughter of a former king who has been a vociferous critic of the country’s authorities. 
  <p class="updated_time"> 05:55 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Officials’ Party Galls Hong Kong, Chafing Under Covid (and Political) Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
  <p class="updated_time"> 05:35 AM CT, Jan. 09 </p> 
@@ -444,8 +444,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/02/harry-reid-to-lie-in-state-in-capitol-rotunda-526381">Harry Reid to lie in state in Capitol Rotunda</a> Politico: The former Senate majority leader died last Tuesday. 
  <p class="updated_time"> 01:29 PM CT, Jan. 02 </p> 
  <a href="https://www.politico.com/news/2022/01/02/twitter-bans-greene-covid-526362">Twitter bans personal Greene account for Covid misinformation</a> Politico: “Twitter is an enemy to America and can’t handle the truth,” Marjorie Taylor Greene said. 
- <p class="updated_time"> 11:15 AM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/02/4-startling-polls-you-should-read-about-jan-6-495559"> 4 startling polls you should read about Jan. 6</a> Politico Playbook: And millions are getting ready to head back to work and school Monday despite the Omicron surge 
 
 
 </details>
