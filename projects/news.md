@@ -202,7 +202,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:43 PM CT, Jan. 08 </p> 
+ <p class="updated_time"> 09:24 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/us/politics/harry-reid-memorial-service.html">‘Goodbye, Harry’: Reid’s Memorial Draws Warm Testimonials From Biden and Obama</a> NYT: Some of the country’s most prominent Democrats recounted tales showcasing the former Senate majority leader’s tenacity and modesty. 
  <p class="updated_time"> 05:50 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/harry-reid-funeral-democratic-leaders-tribute-526795">'Deeply good man from Searchlight': Democratic leaders pay tribute to Harry Reid in Nevada</a> Politico: Party luminaries gather at Las Vegas memorial service to honor the former Senate majority leader. 
