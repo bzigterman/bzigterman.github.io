@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:45 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59931896?at_medium=RSS&at_campaign=KARANGA">New York fire: At least 19 killed in apartment block blaze</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
+ <p class="updated_time"> 03:35 PM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59932113?at_medium=RSS&at_campaign=KARANGA">Bronx fire: 'A horrific, painful moment ' says New York City Mayor Eric Adams</a> BBC: At least 19 people, including nine children, have died after a fire in the Bronx. 
  <p class="updated_time"> 03:08 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/africa/59930242?at_medium=RSS&at_campaign=KARANGA">Afcon 2021: Cameroon beat Burkina Faso 2-1 before Cape Verde see off Ethiopia</a> BBC: Hosts Cameroon come from behind to beat Burkina Faso in an absorbing opening game at the Africa Cup of Nations before Cape Verde beat Ethiopia. 
  <p class="updated_time"> 02:59 PM CT, Jan. 09 </p> 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/climate/road-salt-water-supply.html">Road Salt Works. But It’s Also Bad for the Environment.</a> NYT: The chemical is effective at keeping roads free of snow and ice, but it also has damaging consequences, according to a growing body of research. 
  <p class="updated_time"> 11:20 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests-strongmen.html">Behind Kazakhstan Unrest, the ‘Strongman’s Dilemma’</a> NYT: Since the Cold War’s end, most dictatorial governments have collapsed after their ruler’s departure. 
- <p class="updated_time"> 10:36 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59906706?at_medium=RSS&at_campaign=KARANGA">Truck spends three days dangling over China cliff</a> BBC: The driver is said to have tried to reverse on a narrow mountain road. 
  <p class="updated_time"> 10:04 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27198480?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: The actor who broke down Hollywood's racial barriers</a> BBC: Sidney Poitier, the actor and director who helped break down Hollywood's racial barriers, dies aged 94. 
  <p class="updated_time"> 09:31 AM CT, Jan. 07 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:48 PM CT, Jan. 09 </p> 
+ <a href="https://www.politico.com/news/2022/01/09/child-covid-testing-winter-olympics-526810">China’s Tianjin testing all residents after Omicron found</a> Politico: China has stepped up its strict zero tolerance strategy in the run-up to the Winter Olympics, which open Feb. 4. 
  <p class="updated_time"> 03:54 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/michelle-obama-voting-midterms-526809">Michelle Obama and coalition vow to register more than a million new voters</a> Politico: The push for voting reform is intensifying ahead of the 2022 midterms, in which Democrats will fight to maintain their narrow control of the Senate. 
  <p class="updated_time"> 02:35 PM CT, Jan. 09 </p> 
@@ -404,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/cdc-advisers-teen-pfizer-covid-booster-526572">CDC recommends all teens get Pfizer Covid booster</a> Politico: The advisory panel signed off on the recommendation following presentations by doctors suggesting boosters are likely to increase antibodies in young teens. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
- <p class="updated_time"> 04:38 PM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/garland-rebuts-criticism-of-jan-6-probe-526551">Garland rebuts criticism of Jan. 6 probe</a> Politico: The attorney general argued that prosecutors are methodically building cases against the most serious offenders in the attack on the Capitol. 
  <p class="updated_time"> 04:31 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
  <p class="updated_time"> 11:20 AM CT, Jan. 05 </p> 
