@@ -37,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59926854?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Baby lost in Kabul evacuation is reunited with family</a> BBC: The infant was lost after being handed to an American soldier at Kabul airport in August. 
  <p class="updated_time"> 04:04 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59927266?at_medium=RSS&at_campaign=KARANGA">Pakistan snow: Hundreds rescued from vehicles in deadly blizzard</a> BBC: Tourists trapped by a blizzard for hours in freezing conditions are sheltering in the town of Murree. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 09 </p> 
+ <a href="https://www.wsj.com/articles/europes-workers-see-living-costs-rise-but-pay-isnt-keeping-pace-11641740401">Europe's Workers See Living Costs Rise, but Pay Isn't Keeping Pace</a> WSJ: Europe’s unemployment rate has fallen below its pre-pandemic level, but a surge in wages this year doesn’t seem likely even though higher inflation has weakened workers’ spending power, according to economists and officials. 
  <p class="updated_time"> 03:21 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/russias-putin-seizes-on-crises-to-assert-control-over-former-soviet-republics-11641738063">Russia's Putin Seizes on Crises to Assert Control Over Former Soviet Republics</a> WSJ: The country’s flood of troops into Kazakhstan follows nearly 15 years of interventionism in Georgia, Belarus, Ukraine and elsewhere aimed at pulling these countries closer to Russia. 
  <p class="updated_time"> 03:18 AM CT, Jan. 09 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071604907/a-wall-of-rock-fell-on-boaters-in-a-brazilian-lake-killing-6">A wall of rock fell on boaters in a Brazilian lake, killing 6</a> NPR: A towering slab of rock broke from a cliff and toppled onto pleasure boaters drifting near a waterfall in a Brazilian lake Saturday. 
  <p class="updated_time"> 06:00 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59923332?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Is his vaccine saga an unforced error for Australia?</a> BBC: The story of the star tennis player being held in Australia sparks ire at every twist and turn. 
- <p class="updated_time"> 05:59 PM CT, Jan. 08 </p> 
- <a href="https://www.wsj.com/articles/suspect-in-assassination-of-haitian-president-is-detained-11641703317">Suspect in Assassination of Haitian President Is Detained</a> WSJ: Haitian police alleged that the former DEA informant had been in charge of distributing the weapons used by the assailants in the July attack on the presidential compound. 
  <p class="updated_time"> 03:54 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/americas/guantanamo-bay-covid-outbreak.html">Covid Cases Reach Pandemic High at Guantánamo Bay</a> NYT: The American base has reinstated a mandate for wearing masks indoors in response to an increase in infections. 
  <p class="updated_time"> 01:57 PM CT, Jan. 08 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:43 AM CT, Jan. 09 </p> 
+ <a href="https://www.politico.com/news/2022/01/09/blinken-russia-ukraine-putin-526805">Blinken sets limits on U.S. talks with Russia</a> Politico: He also said it’s hard to see making progress “with a gun to Ukraine’s head.” 
  <p class="updated_time"> 10:01 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/ron-johnson-reelection-senate-wisconsin-526804">Ron Johnson to seek reelection to Senate</a> Politico: The Wisconsin Republican announced his decision in a Wall Street Journal column. 
  <p class="updated_time"> 09:17 AM CT, Jan. 09 </p> 
