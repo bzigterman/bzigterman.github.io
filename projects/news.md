@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:17 PM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59925880?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Serbians give their reaction to Australia vaccine exemption row</a> BBC: Serbians in Belgrade have been giving their reactions to Novak Djokovic's vaccine exemption row. 
+ <p class="updated_time"> 06:13 PM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59908442?at_medium=RSS&at_campaign=KARANGA">Afcon Cameroon 2022: Playing football in the shadow of a rebellion</a> BBC: Africa's top football tournament is about to start in Cameroon, despite a bitter four-year conflict. 
+ <p class="updated_time"> 06:13 PM CT, Jan. 08 </p> 
+ <a href="https://www.npr.org/2022/01/08/1071604907/a-wall-of-rock-fell-on-boaters-in-a-brazilian-lake-killing-6">A wall of rock fell on boaters in a Brazilian lake, killing 6</a> NPR: A towering slab of rock broke from a cliff and toppled onto pleasure boaters drifting near a waterfall in a Brazilian lake Saturday. 
+ <p class="updated_time"> 06:00 PM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59923332?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Is his vaccine saga an unforced error for Australia?</a> BBC: The story of the star tennis player being held in Australia sparks ire at every twist and turn. 
  <p class="updated_time"> 05:50 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59920379?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Having Covid gave tennis star vaccine exemption - lawyers</a> BBC: Novak Djokovic's lawyers say a positive test on 16 December allows the tennis star entry to Australia. 
  <p class="updated_time"> 05:08 PM CT, Jan. 08 </p> 
@@ -125,12 +133,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59912794?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: BBC witnesses apocalyptic scenes in main city</a> BBC: A BBC reporter sees the aftermath of protests and deadly violence in Kazakhstan's biggest city Almaty. 
  <p class="updated_time"> 02:58 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/nato-russia-ukraine.html">NATO Vows United Response to Russian Aggression Against Ukraine</a> NYT: Foreign ministers from the alliance, meeting Friday, hope that Moscow will choose diplomacy and de-escalation instead, amid skepticism that Russia is sincere in wanting substantive talks. 
- <p class="updated_time"> 02:41 PM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071278075/nelson-mandela-robben-island-prison-cell-key-auction">The key to Nelson Mandela's Robben Island prison cell is returning to South Africa </a> NPR: New York auction house Guernsey's has postponed the sale of some of the South African leader's belongings, including the key to his cell and the shirt he wore when he was released from Robben Island. 
  <p class="updated_time"> 02:07 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/covid-flight-italy-india.html">Covid Tests Probed After 100s on 2 Italy-India Flights Test Positive </a> NYT: Some 300 passengers on two flights who tested positive for the coronavirus upon landing in the northern city of Amritsar are being retested. 
- <p class="updated_time"> 01:42 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59913513?at_medium=RSS&at_campaign=KARANGA">Denmark frees suspected pirates in dinghy in Gulf of Guinea</a> BBC: The suspects had been detained at sea in the Gulf of Guinea in November. A fourth remains in custody. 
  <p class="updated_time"> 12:45 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59916946?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier was a ground-breaking black man - Bonnie Greer</a> BBC: Playwright Bonnie Greer pays tribute to the acting legend Sidney Poitier, who has died at the age of 94. 
  <p class="updated_time"> 12:43 PM CT, Jan. 07 </p> 
@@ -163,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59901094?at_medium=RSS&at_campaign=KARANGA">Djokovic stay highlights refugee concerns at Melbourne detention hotel</a> BBC: People held at the detention hotel have complained of mouldy food and poor conditions. 
  <p class="updated_time"> 11:04 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/travel/coronavirus-cruise-ships-omicron.html">Cruise Ships Are Still Sailing as Cases Rise and Criticism Mounts</a> NYT: One day after the C.D.C. advised against all travel on cruise ships, thousands of cruisers partied like it was 2019. But worries about onboard policies — and frustration over quarantines — are rising. 
- <p class="updated_time"> 09:12 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59903913?at_medium=RSS&at_campaign=KARANGA">How the US marked the Capitol riot anniversary</a> BBC: American lawmakers gathered at the Capitol one year after a mob stormed the building. 
  <p class="updated_time"> 08:32 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-beijing-olympics.html">North Korea Says It Will Skip Beijing Olympics Because of the Pandemic</a> NYT: The country also blamed “hostile forces” for its decision not to send a delegation to China, its closest ally. 
  <p class="updated_time"> 08:19 PM CT, Jan. 06 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/europe/pope-pets-kids.html">Pope Scolds Couples Who Choose Pets Over Kids</a> NYT: Expressing concern about global birthrates, Francis said such couples were acting in a selfish way that diminished humanity. 
  <p class="updated_time"> 11:09 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html">Using Harsh Language, Macron Issues a Challenge to the Unvaccinated</a> NYT: The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds. 
- <p class="updated_time"> 08:20 AM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59893216?at_medium=RSS&at_campaign=KARANGA">Ethiopia civil war: Tigray hospital running out of food for starving children</a> BBC: The hospital treating Surafeal in Ethiopia's Tigray region is also running out of food. 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/why-novak-djokovic-was-blocked.html">Why Novak Djokovic Was Blocked From Entering Australia</a> NYT: The men’s No. 1 tennis player had received an exemption to the country’s vaccine requirements. Then the federal government stepped in. 
  <p class="updated_time"> 06:41 AM CT, Jan. 06 </p> 
