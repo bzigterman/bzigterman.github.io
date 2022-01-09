@@ -24,7 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:34 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59923900?at_medium=RSS&at_campaign=KARANGA">At least seven dead after Brazil cliff collapses on boats</a> BBC: Another three are missing after the cliff fell onto boats in a lake in the south-east of the country. 
  <p class="updated_time"> 06:17 PM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59925880?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Serbians give their reaction to Australia vaccine exemption row</a> BBC: Serbians in Belgrade have been giving their reactions to Novak Djokovic's vaccine exemption row. 
+ <a href="https://www.bbc.co.uk/news/world-australia-59925880?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Serbs give their reaction to Australia vaccine exemption row</a> BBC: Serbs in Belgrade have been giving their reactions to Novak Djokovic's vaccine exemption row. 
  <p class="updated_time"> 06:13 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59908442?at_medium=RSS&at_campaign=KARANGA">Afcon Cameroon 2022: Playing football in the shadow of a rebellion</a> BBC: Africa's top football tournament is about to start in Cameroon, despite a bitter four-year conflict. 
  <p class="updated_time"> 06:13 PM CT, Jan. 08 </p> 
@@ -201,7 +201,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:48 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/federal-rental-assistance-evictions.html">Federal Rental Assistance Is Running Out, With Tenants Still in Need</a> NYT: An announcement from the Treasury Department on Friday revealed that there was less money available for renters than some states had hoped. 
  <p class="updated_time"> 11:31 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/harry-reid-memorial-service.html"> Harry Reid’s Memorial Draws Tributes From Biden and Obama</a> NYT: Some of the country’s most prominent Democrats recounted tales showcasing the former Senate majority leader’s tenacity and modesty. 
+ <a href="https://www.nytimes.com/2022/01/08/us/politics/harry-reid-memorial-service.html">‘Goodbye, Harry’: Reid’s Memorial Draws Warm Testimonials From Biden and Obama</a> NYT: Some of the country’s most prominent Democrats recounted tales showcasing the former Senate majority leader’s tenacity and modesty. 
  <p class="updated_time"> 05:50 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/harry-reid-funeral-democratic-leaders-tribute-526795">'Deeply good man from Searchlight': Democratic leaders pay tribute to Harry Reid in Nevada</a> Politico: Party luminaries gather at Las Vegas memorial service to honor the former Senate majority leader. 
  <p class="updated_time"> 05:43 PM CT, Jan. 08 </p> 
@@ -233,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:08 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/business/teslas-computer-chips-supply-chain.html">Why Tesla Soared as Other Automakers Struggled to Make Cars</a> NYT: The yawning disparity between the performance of the electric car company and established automakers last year reflects the technological change roiling the industry. 
  <p class="updated_time"> 12:00 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/biden-nominees-senate-confirmation.html">Hundreds of Biden Nominees Stuck in Senate Limbo Amid G.O.P. Blockade</a> NYT: A year into his term, only 41 percent of the president’s nominees for Senate-confirmed posts have been approved, a new analysis finds, the worst rate in decades. 
+ <a href="https://www.nytimes.com/2022/01/08/us/politics/biden-nominees-senate-confirmation.html">Hundreds of Biden Nominees Are Unconfirmed Amid G.O.P. Blockade</a> NYT: A year into his term, only 41 percent of the president’s nominees for Senate-confirmed posts have been approved, a new analysis finds, the worst rate in decades. 
  <p class="updated_time"> 11:48 AM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/how-to-save-us-democracy-what-matters/index.html">What the average citizen can do about the demise of US democracy</a> CNN: After a week of urgent warnings about the state of American democracy, there were several requests in the What Matters inbox for something more useful than a warning. 
  <p class="updated_time"> 10:22 AM CT, Jan. 08 </p> 
