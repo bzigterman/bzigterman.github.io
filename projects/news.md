@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:05 AM CT, Jan. 09 </p> 
+ <a href="https://www.npr.org/2022/01/09/1071663548/lahore-pakistan-locks-down-for-the-pandemic-and-to-improve-air-pollution">Lahore, Pakistan, locks down for the pandemic — and to improve air pollution</a> NPR: Pakistan's second largest city, Lahore, tops the world's most polluted city list, along with India's New Delhi. Poor air quality has prompted the government to order a partial shutdown of schools. 
+ <p class="updated_time"> 06:55 AM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59926777?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia loses bid to delay tennis star's visa appeal</a> BBC: A judge overseeing the tennis star's deportation case rejects a request to postpone hearing for two days. 
  <p class="updated_time"> 06:48 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59925413?at_medium=RSS&at_campaign=KARANGA">Nigeria motorbike gang attack: Death toll rises to 200</a> BBC: The attacks in the northern Zamfara state are believed to be in response to military air strikes. 
  <p class="updated_time"> 06:32 AM CT, Jan. 09 </p> 
@@ -27,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/world/europe/left-out-of-high-level-talks-ukraine-tries-other-diplomatic-channels.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
  <p class="updated_time"> 02:35 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/59925558?at_medium=RSS&at_campaign=KARANGA">The Ashes: England cling on for draw on tense final day in Sydney</a> BBC: England cling on for a tense draw on the final day of the fourth Test in Sydney to end Australia's hopes of an Ashes clean sweep. 
- <p class="updated_time"> 02:29 AM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59926777?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia loses bid to delay tennis star's visa appeal</a> BBC: A judge overseeing the tennis star's deportation case rejects a request to postpone hearing for two days. 
  <p class="updated_time"> 12:51 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/iran-navy-port-emerges-as-key-to-alleged-weapons-smuggling-to-yemen-u-n-report-says-11641651941">Iran Navy Port Emerges as Key to Alleged Weapons Smuggling to Yemen, U.N. Report Says</a> WSJ: Smuggled weapons have long fueled Yemen’s civil war. Some of those arms originate from a port town where wooden ships set off laden with guns and rocket launchers, new evidence has found. 
  <p class="updated_time"> 11:33 PM CT, Jan. 08 </p> 
@@ -139,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071409717/many-in-iraq-regard-women-riding-bikes-as-promiscuous-some-women-see-it-as-activ">Many in Iraq regard women riding bikes as promiscuous. Some women see it as activism</a> NPR: For some women in Iraq, learning to ride bikes is a way of finding freedom from confining social restrictions. 
  <p class="updated_time"> 03:58 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071409661/in-remote-honduras-institutions-are-permeated-by-organized-drug-crime">Institutions in remote Honduras are permeated by organized drug crime</a> NPR: NPR's Audie Cornish speaks with veteran journalist Carlos Dada, founder of El Faro newspaper, about his latest reporting from Honduras. 
- <p class="updated_time"> 03:41 PM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071409646/a-hero-tells-the-story-of-how-complicated-a-good-deed-and-a-small-lie-can-be">'A Hero' tells the story of how complicated a good deed (and a small lie) can be</a> NPR: NPR's Mary Louise Kelly speaks with Iranian director Asghar Farhadi about his new film, A Hero. The story examines the complexity of what appears to many to be a good deed. 
  <p class="updated_time"> 03:38 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59912794?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: BBC witnesses apocalyptic scenes in main city</a> BBC: A BBC reporter sees the aftermath of protests and deadly violence in Kazakhstan's biggest city Almaty. 
  <p class="updated_time"> 02:58 PM CT, Jan. 07 </p> 
@@ -204,10 +204,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:05 AM CT, Jan. 09 </p> 
+ <a href="https://www.npr.org/2022/01/09/1071663527/the-story-of-january-6-goes-beyond-a-single-day">The story of January 6 goes beyond a single day</a> NPR: It's been a year since a mob supporting former President Donald Trump attacked the U.S. Capitol. We look at what we've learned about domestic extremism over the past year. 
  <p class="updated_time"> 07:00 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/joe-biden-takes-on-georgia-voting-526801">‘We are going right to the belly of the beast:’ Biden takes on Georgia</a> Politico: Fresh off his Jan. 6 anniversary speech, the president and his top aides are trying to keep up the momentum for some legislative remedy. 
  <p class="updated_time"> 06:51 AM CT, Jan. 09 </p> 
- <a href="https://www.politico.com/news/2022/01/09/japan-soldiers-covid-pandemic-526802">Japan PM: Deal reached on U.S. military curbs to halt Covid</a> Politico: Fumio Kishida said American soldiers will stay on base “except when absolutely necessary.” 
+ <a href="https://www.politico.com/news/2022/01/09/japan-soldiers-covid-pandemic-526802">U.S., Japan agree to keep troops on base to curb Covid spread</a> Politico: Fumio Kishida said American soldiers will stay on base “except when absolutely necessary.” 
  <p class="updated_time"> 04:00 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/us/politics/border-patrol-chases.html">A Rise in Deadly Border Patrol Chases Renews Concerns About Accountability</a> NYT: The increasing number of deaths adds urgency to questions about when and how agents should engage in high-speed chases as they pursue smugglers and migrants. 
  <p class="updated_time"> 12:48 AM CT, Jan. 09 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/us/politics/cuomo-charges-future-resignation.html">Will Cuomo Try to Make a Comeback?</a> NYT: Recent decisions by prosecutors to not pursue criminal charges against ex-Gov. Andrew Cuomo may fuel his interest in re-entering public life. 
  <p class="updated_time"> 04:55 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/harris-was-inside-dnc-on-jan-6-when-pipe-bomb-was-discovered-outside-526695">Harris was inside DNC on Jan. 6 when pipe bomb was discovered outside</a> Politico: The then-vice president-elect’s presence inside the building while a bomb was right outside raises sobering questions about her security that day. 
- <p class="updated_time"> 04:24 PM CT, Jan. 06 </p> 
- <a href="https://www.npr.org/2022/01/06/1071064009/trump-is-the-most-powerful-figure-in-the-republican-party-despite-lies-and-jan-6">Trump is the most powerful figure in the Republican party, despite lies and Jan. 6</a> NPR: Many Republican allies of former President Trump were outraged in 2021 when the Capitol was attacked. But as Trump's popularity endures, the party's elected leaders now largely overlook Jan. 6. 
  <p class="updated_time"> 04:09 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/michael-erik-kurilla-middle-east-operations-nomination/index.html">Biden nominates a new general to oversee military operations in Middle East</a> CNN: President Joe Biden is nominating Army Lt. Gen. Michael Erik Kurilla to be the next commander of US Central Command, which oversees military operations in the Middle East, according to multiple defense officials and nomination paperwork sent to Congress. 
  <p class="updated_time"> 03:56 PM CT, Jan. 06 </p> 
