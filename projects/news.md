@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:50 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59920215?at_medium=RSS&at_campaign=KARANGA">Pakistan: Many dead as heavy snow traps drivers in their vehicles</a> BBC: Some 1,000 vehicles were trapped during a blizzard in the town of Murree, the interior minister says. 
+ <p class="updated_time"> 09:48 PM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/australia/moriori-new-zealand.html">Revival for New Zealand's Moriori Nearly Pushed to Cultural Death</a> NYT: The Moriori, whose history of peaceful isolation was shattered by violent subjugation, are fighting to establish themselves as a thriving people alongside the Maori. 
  <p class="updated_time"> 08:41 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/figure-skating-olympic-team.html">As U.S. Figure Skaters Test Positive, New Worries for Winter Olympics</a> NYT: Problems at the national championships could turn up in Beijing next month, too. 
  <p class="updated_time"> 08:08 PM CT, Jan. 08 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/climate/road-salt-water-supply.html">Road Salt Works. But It’s Also Bad for the Environment.</a> NYT: The chemical is effective at keeping roads free of snow and ice, but it also has damaging consequences, according to a growing body of research. 
  <p class="updated_time"> 11:20 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests-strongmen.html">Behind Kazakhstan Unrest, the ‘Strongman’s Dilemma’</a> NYT: Since the Cold War’s end, most dictatorial governments have collapsed after their ruler’s departure. 
- <p class="updated_time"> 11:08 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/australia/moriori-new-zealand.html">Revival for New Zealand's Moriori Nearly Pushed to Cultural Death</a> NYT: The Moriori, whose history of peaceful isolation was shattered by violent subjugation, are fighting to establish themselves as a thriving people alongside the Maori. 
  <p class="updated_time"> 10:36 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59906706?at_medium=RSS&at_campaign=KARANGA">Truck spends three days dangling over China cliff</a> BBC: The driver is said to have tried to reverse on a narrow mountain road. 
  <p class="updated_time"> 10:04 AM CT, Jan. 07 </p> 
