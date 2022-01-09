@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:26 PM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59931896?at_medium=RSS&at_campaign=KARANGA">New York fire: At least 19 killed in apartment block blaze</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
  <p class="updated_time"> 03:08 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/africa/59930242?at_medium=RSS&at_campaign=KARANGA">Afcon 2021: Cameroon beat Burkina Faso 2-1 before Cape Verde see of Ethiopia</a> BBC: Hosts Cameroon come from behind to beat Burkina Faso in an absorbing opening game at the Africa Cup of Nations before Cape Verde beat Ethiopia. 
  <p class="updated_time"> 02:59 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/ukraine-russia-negotiations.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
- <p class="updated_time"> 02:57 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59931896?at_medium=RSS&at_campaign=KARANGA">New York fire: At least 19 killed in apartment block blaze</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
  <p class="updated_time"> 02:54 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia Warns That U.S. Doesn’t Understand Its Goals on Ukraine</a> NYT: As the two countries prepared to meet amid rising tensions over Ukraine, a senior Russian official and the U.S. Secretary of State set a pessimistic tone. 
  <p class="updated_time"> 02:48 PM CT, Jan. 09 </p> 
@@ -213,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:33 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/us/politics/border-patrol-chases.html">A Rise in Deadly Border Patrol Chases Renews Concerns About Accountability</a> NYT: The increasing number of deaths adds urgency to questions about when and how agents should engage in high-speed chases as they pursue smugglers and migrants. 
  <p class="updated_time"> 02:07 PM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/us/politics/russia-ukraine-james-baker.html">James A. Baker III’s Words on NATO Loom in Ukraine Standoff</a> NYT: The current confrontation turns partly on what, if any, commitments Secretary of State James A. Baker III made about NATO’s expansion in the waning days of the Cold War. 
+ <a href="https://www.nytimes.com/2022/01/09/us/politics/russia-ukraine-james-baker.html">In Ukraine Conflict, Putin Relies on a Promise That Ultimately Wasn’t</a> NYT: The current confrontation turns partly on what, if any, commitments Secretary of State James A. Baker III made about NATO’s expansion in the waning days of the Cold War. 
  <p class="updated_time"> 01:14 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/us/politics/ron-johnson-senate-wisconsin.html">Ron Johnson, G.O.P. Senator From Wisconsin, Will Seek Re-election</a> NYT: The renewed bid for office by Mr. Johnson, who has spread many false claims about the 2020 election and Covid, ensures that both parties will be highly invested in Wisconsin’s 2022 Senate race. 
  <p class="updated_time"> 12:54 PM CT, Jan. 09 </p> 
@@ -249,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:48 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/federal-rental-assistance-evictions.html">Federal Rental Assistance Is Running Out, With Tenants Still in Need</a> NYT: An announcement from the Treasury Department on Friday revealed that there was less money available for renters than some states had hoped. 
  <p class="updated_time"> 11:31 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/harry-reid-memorial-service.html">‘Goodbye, Harry’: Reid’s Memorial Draws Warm Testimonials From Biden and Obama</a> NYT: Some of the country’s most prominent Democrats recounted tales showcasing the former Senate majority leader’s tenacity and modesty. 
+ <a href="https://www.nytimes.com/2022/01/08/us/politics/harry-reid-memorial-service.html"> Harry Reid’s Memorial Draws Tributes From Biden and Obama</a> NYT: Some of the country’s most prominent Democrats recounted tales showcasing the former Senate majority leader’s tenacity and modesty. 
  <p class="updated_time"> 05:50 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/harry-reid-funeral-democratic-leaders-tribute-526795">'Deeply good man from Searchlight': Democratic leaders pay tribute to Harry Reid in Nevada</a> Politico: Party luminaries gather at Las Vegas memorial service to honor the former Senate majority leader. 
  <p class="updated_time"> 05:43 PM CT, Jan. 08 </p> 
@@ -404,6 +404,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/cdc-advisers-teen-pfizer-covid-booster-526572">CDC recommends all teens get Pfizer Covid booster</a> Politico: The advisory panel signed off on the recommendation following presentations by doctors suggesting boosters are likely to increase antibodies in young teens. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
+ <p class="updated_time"> 04:38 PM CT, Jan. 05 </p> 
+ <a href="https://www.politico.com/news/2022/01/05/garland-rebuts-criticism-of-jan-6-probe-526551">Garland rebuts criticism of Jan. 6 probe</a> Politico: The attorney general argued that prosecutors are methodically building cases against the most serious offenders in the attack on the Capitol. 
  <p class="updated_time"> 04:31 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
  <p class="updated_time"> 11:20 AM CT, Jan. 05 </p> 
