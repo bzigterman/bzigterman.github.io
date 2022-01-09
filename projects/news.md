@@ -112,7 +112,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:29 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/travel/royal-caribbean-cruises-cancellations-covid.html">Royal Caribbean Cancels Three Upcoming Cruises</a> NYT: The company said it had called off planned trips on three ships and pushed back another’s return to cruising to March. 
  <p class="updated_time"> 12:02 AM CT, Jan. 08 </p> 
- <a href="https://www.wsj.com/articles/mystery-surrounds-absence-of-kazakhstans-longtime-leader-as-protesters-challenge-state-he-built-11641639722">Mystery Surrounds Absence of Kazakhstan's Longtime Leader</a> WSJ: Since unrest started this week, the 81-year-old former president hasn’t been seen in public and his successor has moved to undermine his authority. 
+ <a href="https://www.wsj.com/articles/mystery-surrounds-absence-of-kazakhstans-longtime-leader-as-protesters-challenge-state-he-built-11641639722">Mystery Surrounds Absence of Kazakhstan's Longtime Leader</a> WSJ: Since unrest started this month, the 81-year-old former president hasn’t been seen in public and his successor has moved to undermine his authority. 
  <p class="updated_time"> 09:50 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/india-12-booster-shots.html">12 Covid Vaccine Shots Aren't Enough for 85-Year-Old in India</a> NYT: The retired postman said he gamed the offline vaccination drive to keep boosting regularly — long before booster shots were a thing anywhere. 
  <p class="updated_time"> 07:26 PM CT, Jan. 07 </p> 
