@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:54 AM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/left-out-of-high-level-talks-ukraine-tries-other-diplomatic-channels.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
  <p class="updated_time"> 08:46 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia Warns That U.S. Doesn’t Understand Its Goals on Ukraine</a> NYT: As the two countries prepare to meet amid rising tensions over Ukraine, a senior Russian official set a pessimistic tone. 
  <p class="updated_time"> 08:40 AM CT, Jan. 09 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59926854?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Baby lost in Kabul evacuation is reunited with family</a> BBC: The infant was lost after being handed to an American soldier at Kabul airport in August. 
  <p class="updated_time"> 04:04 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59927266?at_medium=RSS&at_campaign=KARANGA">Pakistan snow: Hundreds rescued from vehicles in deadly blizzard</a> BBC: Tourists trapped by a blizzard for hours in freezing conditions are sheltering in the town of Murree. 
- <p class="updated_time"> 04:00 AM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/europe/left-out-of-high-level-talks-ukraine-tries-other-diplomatic-channels.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
  <p class="updated_time"> 03:21 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/russias-putin-seizes-on-crises-to-assert-control-over-former-soviet-republics-11641738063">Russia's Putin Seizes on Crises to Assert Control Over Former Soviet Republics</a> WSJ: The country’s flood of troops into Kazakhstan follows nearly 15 years of interventionism in Georgia, Belarus, Ukraine and elsewhere aimed at pulling these countries even closer to Russia. 
  <p class="updated_time"> 03:18 AM CT, Jan. 09 </p> 
