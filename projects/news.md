@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:50 PM CT, Jan. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59920215?at_medium=RSS&at_campaign=KARANGA">Pakistan: Many dead as heavy snow traps drivers in their vehicles</a> BBC: Some 1,000 vehicles were trapped during a blizzard in the town of Murree, the interior minister says. 
  <p class="updated_time"> 08:41 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/figure-skating-olympic-team.html">As U.S. Figure Skaters Test Positive, New Worries for Winter Olympics</a> NYT: Problems at the national championships could turn up in Beijing next month, too. 
  <p class="updated_time"> 08:08 PM CT, Jan. 08 </p> 
@@ -49,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59924477?at_medium=RSS&at_campaign=KARANGA">Heavy snow leaves many dead in northern Pakistan</a> BBC: Would-be tourists travelled to Murree to see snow but around 1,000 cars became stranded in a blizzard. 
  <p class="updated_time"> 11:09 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071565479/turkmenistan-gates-of-hell-fire">Turkmenistan's leader wants 'Gates of Hell' fire put out</a> NPR: The president of Turkmenistan is calling for an end to one of the country's most notable but infernal sights — a natural gas crater that has burned for decades. 
- <p class="updated_time"> 10:28 AM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59920215?at_medium=RSS&at_campaign=KARANGA">Pakistan: Many dead as heavy snow traps drivers in their vehicles</a> BBC: Some 1,000 vehicles were trapped during a blizzard in the town of Murree, the interior minister says. 
  <p class="updated_time"> 09:30 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/kazakhstan-protests-karim-masimov-arrest.html">Kazakhstan Arrests Karim Masimov, Ex-Intelligence Chief, on Suspicion of Treason</a> NYT: The president had dismissed the intelligence chief, Karim Masimov, this week amid violence that may be tied, at least in part, to political infighting. 
  <p class="updated_time"> 09:27 AM CT, Jan. 08 </p> 
