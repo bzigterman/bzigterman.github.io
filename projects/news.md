@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:01 AM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/london-schools-covid-omicron.html">London Schools Are Determined to Stay Open. Staff Illnesses Make It Hard.</a> NYT: Schools across England are grappling with what it looks like to live with the pandemic as it enters its third year. Sound familiar? 
+ <p class="updated_time"> 09:57 AM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
  <p class="updated_time"> 09:12 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59927267?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: At least 164 killed in crackdown on protests, reports say</a> BBC: Days of violent anti-government protests also saw nearly 6,000 people arrested, officials say. 
  <p class="updated_time"> 08:54 AM CT, Jan. 09 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Officials’ Party Galls Hong Kong, Chafing Under Covid (and Political) Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
  <p class="updated_time"> 05:34 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59928697?at_medium=RSS&at_campaign=KARANGA">Kazakhstan: 'Growing suggestion violence linked to power struggle'</a> BBC: There are growing suggestions violence in Kazakhstan is linked to a power struggle within the ruling elite, the BBC's Steve Rosenberg reports from the capital. 
- <p class="updated_time"> 05:26 AM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/europe/london-schools-covid-omicron.html">London Schools Are Determined to Stay Open. Staff Illnesses Make It Hard.</a> NYT: Schools across England are grappling with what it looks like to live with the pandemic as it enters its third year. Sound familiar? 
  <p class="updated_time"> 04:19 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59926854?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Baby lost in Kabul evacuation is reunited with family</a> BBC: The infant was lost after being handed to an American soldier at Kabul airport in August. 
  <p class="updated_time"> 04:04 AM CT, Jan. 09 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/canada/canada-conversion-therapy-law.html">Canadian Law Banning ‘Conversion Therapy’ Set to Go Into Effect</a> NYT: The law, which takes effect on Friday, puts Canada in the company of more than a dozen countries that have banned the widely discredited practice. 
  <p class="updated_time"> 11:49 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59901094?at_medium=RSS&at_campaign=KARANGA">Djokovic stay highlights refugee concerns at Melbourne detention hotel</a> BBC: People held at the detention hotel have complained of mouldy food and poor conditions. 
- <p class="updated_time"> 11:04 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/travel/coronavirus-cruise-ships-omicron.html">Cruise Ships Are Still Sailing as Cases Rise and Criticism Mounts</a> NYT: One day after the C.D.C. advised against all travel on cruise ships, thousands of cruisers partied like it was 2019. But worries about onboard policies — and frustration over quarantines — are rising. 
  <p class="updated_time"> 08:32 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-beijing-olympics.html">North Korea Says It Will Skip Beijing Olympics Because of the Pandemic</a> NYT: The country also blamed “hostile forces” for its decision not to send a delegation to China, its closest ally. 
  <p class="updated_time"> 08:19 PM CT, Jan. 06 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
  <p class="updated_time"> 10:43 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/blinken-russia-ukraine-putin-526805">Blinken sets limits on U.S. talks with Russia</a> Politico: He also said it’s hard to see making progress “with a gun to Ukraine’s head.” 
  <p class="updated_time"> 10:01 AM CT, Jan. 09 </p> 
