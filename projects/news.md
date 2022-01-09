@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:14 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/world/figure-skating-olympic-team.html">As U.S. Figure Skaters Test Positive, New Worries for Winter Olympics</a> NYT: Problems at national championships could turn up in Beijing next month, too. 
+ <p class="updated_time"> 08:41 PM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/world/figure-skating-olympic-team.html">As U.S. Figure Skaters Test Positive, New Worries for Winter Olympics</a> NYT: Problems at the national championships could turn up in Beijing next month, too. 
  <p class="updated_time"> 08:08 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59925410?at_medium=RSS&at_campaign=KARANGA">Rust: Alec Baldwin rejects allegations of non-compliance with shooting probe</a> BBC: The actor has not presented his phone to investigators despite a search warrant being issued. 
  <p class="updated_time"> 07:34 PM CT, Jan. 08 </p> 
@@ -203,7 +203,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 07:43 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/harry-reid-memorial-service.html"> Harry Reid’s Memorial Draws Tributes From Biden and Obama</a> NYT: Some of the country’s most prominent Democrats recounted tales showcasing the former Senate majority leader’s tenacity and modesty. 
+ <a href="https://www.nytimes.com/2022/01/08/us/politics/harry-reid-memorial-service.html">‘Goodbye, Harry’: Reid’s Memorial Draws Warm Testimonials From Biden and Obama</a> NYT: Some of the country’s most prominent Democrats recounted tales showcasing the former Senate majority leader’s tenacity and modesty. 
  <p class="updated_time"> 05:50 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/harry-reid-funeral-democratic-leaders-tribute-526795">'Deeply good man from Searchlight': Democratic leaders pay tribute to Harry Reid in Nevada</a> Politico: Party luminaries gather at Las Vegas memorial service to honor the former Senate majority leader. 
  <p class="updated_time"> 05:43 PM CT, Jan. 08 </p> 
@@ -225,7 +225,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:07 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/us-discuss-missiles-military-exercises-ukraine-526800">U.S. to discuss missiles in Ukraine and military exercises with Russians, officials say</a> Politico: The U.S. will arrive in Europe ready to dial down tensions, but how seriously Russia wants to deal is anyone's guess. 
  <p class="updated_time"> 02:06 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/john-thune-senate-re-election.html">Thune, No. 2 Senate Republican, Will Seek Re-election</a> NYT: The three-term South Dakotan had considered retiring because of family concerns and the continuing grip of former President Donald J. Trump on the Republican Party. 
+ <a href="https://www.nytimes.com/2022/01/08/us/politics/john-thune-senate-re-election.html">John Thune, No. 2 Senate Republican, Will Seek Re-election</a> NYT: The three-term South Dakotan had considered retiring because of family concerns and the continuing grip of former President Donald J. Trump on the Republican Party. 
  <p class="updated_time"> 01:09 PM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/john-thune-reelection-south-dakota/index.html">Sen. John Thune announces he will run for re-election</a> CNN: South Dakota Sen. John Thune, the No. 2 Republican in the Senate, announced Saturday he is running for re-election in 2022. 
  <p class="updated_time"> 12:41 PM CT, Jan. 08 </p> 
