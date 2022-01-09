@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:48 AM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59925413?at_medium=RSS&at_campaign=KARANGA">Nigeria motorbike gang attack: Death toll rises to 200</a> BBC: The attacks in the northern Zamfara state are believed to be in response to military air strikes. 
+ <p class="updated_time"> 06:32 AM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released From Jail After 3 Years</a> NYT: The Saudi government has not said why it detained or released Princess Basmah bint Saud, a daughter of a former king who has been a vociferous critic of the country’s authorities. 
  <p class="updated_time"> 06:02 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59923900?at_medium=RSS&at_campaign=KARANGA">At least seven dead after Brazil cliff collapses on boats</a> BBC: Another three are missing after the cliff fell onto boats in a lake in the south-east of the country. 
  <p class="updated_time"> 05:55 AM CT, Jan. 09 </p> 
@@ -27,8 +31,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59926777?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia loses bid to delay tennis star's visa appeal</a> BBC: A judge overseeing the tennis star's deportation case rejects a request to postpone hearing for two days. 
  <p class="updated_time"> 12:51 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/iran-navy-port-emerges-as-key-to-alleged-weapons-smuggling-to-yemen-u-n-report-says-11641651941">Iran Navy Port Emerges as Key to Alleged Weapons Smuggling to Yemen, U.N. Report Says</a> WSJ: Smuggled weapons have long fueled Yemen’s civil war. Some of those arms originate from a port town where wooden ships set off laden with guns and rocket launchers, new evidence has found. 
- <p class="updated_time"> 11:37 PM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59925413?at_medium=RSS&at_campaign=KARANGA">Nigeria attacks: Hundreds reported killed as bandits target villages</a> BBC: The attacks in the northern Zamfara state are believed to be in response to military air strikes. 
+ <p class="updated_time"> 11:33 PM CT, Jan. 08 </p> 
+ <a href="https://www.wsj.com/articles/two-chinese-startups-tried-to-catch-up-to-makers-of-advanced-computer-chipsand-failed-11641724382">Two Chinese Startups Tried to Catch Up to Advanced Chip Makers---and Failed</a> WSJ: Companies that were launched to build semiconductors in China, including startups HSMC and QXIC, have failed despite hundreds of millions of dollars in investment and government support. Officials are sorting through the wreckage to see what went wrong. 
  <p class="updated_time"> 10:45 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/chicago-shools-teachers-union-lightfoot.html">Chicago's Mayor Rejects Union's Terms for Returning to School</a> NYT: The standoff between educators and the city’s government shows no signs of abating. 
  <p class="updated_time"> 10:37 PM CT, Jan. 08 </p> 
@@ -47,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071604907/a-wall-of-rock-fell-on-boaters-in-a-brazilian-lake-killing-6">A wall of rock fell on boaters in a Brazilian lake, killing 6</a> NPR: A towering slab of rock broke from a cliff and toppled onto pleasure boaters drifting near a waterfall in a Brazilian lake Saturday. 
  <p class="updated_time"> 06:00 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59923332?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Is his vaccine saga an unforced error for Australia?</a> BBC: The story of the star tennis player being held in Australia sparks ire at every twist and turn. 
+ <p class="updated_time"> 05:59 PM CT, Jan. 08 </p> 
+ <a href="https://www.wsj.com/articles/suspect-in-assassination-of-haitian-president-is-detained-11641703317">Suspect in Assassination of Haitian President Is Detained</a> WSJ: Haitian police alleged that the former DEA informant had been in charge of distributing the weapons used by the assailants in the July attack on the presidential compound. 
  <p class="updated_time"> 05:08 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59925408?at_medium=RSS&at_campaign=KARANGA">Covid: Thousands protest in France against proposed new vaccine pass</a> BBC: The protests are against a draft law which would in effect ban the unvaccinated from public areas. 
  <p class="updated_time"> 03:54 PM CT, Jan. 08 </p> 
@@ -95,14 +101,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/canada/blackberry-phone-service-ends.html">BlackBerry Phone Service Officially Ends</a> NYT: BlackBerry was once Canada’s most valuable company and a global force in tech. The final step in its downfall as a phone maker arrived this week. 
  <p class="updated_time"> 04:26 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071534483/djokovics-lawyers-say-he-had-covid-last-month-according-to-report">Djokovic's lawyers say he had COVID last month, grounds for vaccination exemption</a> NPR: If he fails to have his visa cancellation overturned and gets deported, Novak Djokovic risks missing more than one Australian Open and could be barred for up to three years. 
- <p class="updated_time"> 04:02 AM CT, Jan. 08 </p> 
- <a href="https://www.wsj.com/articles/mother-teresas-charity-in-india-regains-access-to-foreign-funding-after-ban-11641654126">Mother Teresa's Charity in India Regains Access to Foreign Funding After Ban</a> WSJ: The reversal came amid Christian leaders’ complaints of an increasingly hostile environment for their religion in the Hindu-majority country. 
  <p class="updated_time"> 04:01 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071198056/theres-chaos-in-kazakhstan-heres-what-you-need-to-know">There's chaos in Kazakhstan. Here's what you need to know</a> NPR: A New Year's Day doubling of gas prices sent shock waves through the country, sparking deadly unrest that has engulfed the Central Asian nation. But the origins of discontent run much deeper. 
  <p class="updated_time"> 04:00 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/india-weddings-south-kerala.html">The New Weddings in India’s South: ‘Expect Some Magic’</a> NYT: Couples are creating ever more elaborate ceremonies, drawing inspiration from social media trends that blur the nation’s religious and cultural lines. 
- <p class="updated_time"> 02:50 AM CT, Jan. 08 </p> 
- <a href="https://www.wsj.com/articles/omicron-fuels-fresh-surge-threatening-indias-hospitals-anew-11641649808">Omicron Fuels Fresh Surge, Threatening India's Hospitals Anew</a> WSJ: With less than half of India’s population fully vaccinated and infections rising rapidly, public-health experts warn that the healthcare system is again vulnerable—months after being overwhelmed by a surge of cases. 
  <p class="updated_time"> 02:10 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/europe/biden-boris-johnson-coronavirus-omicron.html">How Biden and Boris Johnson Reached the Same Place on Virus Policy</a> NYT: Two different leaders with differing approaches landed on a policy of coexisting with the virus. Analysts say they had little choice. 
  <p class="updated_time"> 02:00 AM CT, Jan. 08 </p> 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/in-pictures-59906677?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 1 - 7 January 2022</a> BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:00 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59898362?at_medium=RSS&at_campaign=KARANGA">How KFC in Kenya got fried over its chip shortage</a> BBC: Kenyans called for a KFC boycott after it was discovered that its fries were imported from Egypt. 
- <p class="updated_time"> 05:12 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-defector-dmz.html">North Korea Defector Crosses DMZ Border Twice</a> NYT: Officials say a North Korean who crossed the DMZ in 2020 crossed it again to go back. His life in the South seems to have been one of poverty and isolation. 
  <p class="updated_time"> 04:54 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/africa/jawar-mohammed-release-ethiopia.html">Jawar Mohammed to Be Released From Prison by Ethiopian President</a> NYT: Prime Minister Abiy Ahmed declared the amnesty on Orthodox Christmas and offered to start a dialogue with some opponents after 14 months of war. 
  <p class="updated_time"> 04:25 PM CT, Jan. 07 </p> 
