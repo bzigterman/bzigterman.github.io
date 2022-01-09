@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:08 PM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/sport/africa/59930242?at_medium=RSS&at_campaign=KARANGA">Afcon 2021: Cameroon beat Burkina Faso 2-1 before Cape Verde see of Ethiopia</a> BBC: Hosts Cameroon come from behind to beat Burkina Faso in an absorbing opening game at the Africa Cup of Nations before Cape Verde beat Ethiopia. 
+ <p class="updated_time"> 02:59 PM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/ukraine-russia-negotiations.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
+ <p class="updated_time"> 02:57 PM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59931896?at_medium=RSS&at_campaign=KARANGA">New York fire: At least 19 killed in apartment block blaze</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
  <p class="updated_time"> 02:54 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia Warns That U.S. Doesn’t Understand Its Goals on Ukraine</a> NYT: As the two countries prepared to meet amid rising tensions over Ukraine, a senior Russian official and the U.S. Secretary of State set a pessimistic tone. 
  <p class="updated_time"> 02:48 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
- <p class="updated_time"> 02:40 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59931896?at_medium=RSS&at_campaign=KARANGA">New York apartment block fire kills 19</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
  <p class="updated_time"> 02:14 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/americas/brazil-cliff-collapses.html">Cliff Collapses on Boaters in Brazil, Killing 10</a> NYT: The tragedy in Minas Gerais state gripped the nation because it was captured on videos that showed an immense slab of rock smashing into pleasure boats. 
  <p class="updated_time"> 02:00 PM CT, Jan. 09 </p> 
@@ -21,10 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59923900?at_medium=RSS&at_campaign=KARANGA">Ten die after Brazilian cliff collapses onto leisure boats</a> BBC: Another 32 were injured when the cliff fell onto boats in a lake in the south-east of the country. 
  <p class="updated_time"> 01:26 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59927267?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: At least 164 killed in crackdown on protests, reports say</a> BBC: Days of violent anti-government protests also saw nearly 6,000 people arrested, officials say. 
- <p class="updated_time"> 01:10 PM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/europe/ukraine-russia-negotiations.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
- <p class="updated_time"> 12:33 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/sport/africa/59930242?at_medium=RSS&at_campaign=KARANGA">Afcon 2021: Cameroon beat Burkina Faso 2-1 in opening game</a> BBC: Hosts Cameroon come from behind to beat Burkina Faso in an absorbing opening game at the Africa Cup of Nations. 
  <p class="updated_time"> 11:49 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released, but Other Royals Are Still Locked Up</a> NYT: The Saudi government has not said why it detained or freed Princess Basmah bint Saud, a daughter of a former king who has criticized the country’s policies. 
  <p class="updated_time"> 11:01 AM CT, Jan. 09 </p> 
@@ -76,7 +76,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:13 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59908442?at_medium=RSS&at_campaign=KARANGA">Afcon Cameroon 2022: Playing football in the shadow of a rebellion</a> BBC: Africa's top football tournament is about to start in Cameroon, despite a bitter four-year conflict. 
  <p class="updated_time"> 06:13 PM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/2022/01/08/1071604907/a-wall-of-rock-fell-on-boaters-in-a-brazilian-lake-killing-6">A wall of rock fell on boaters in a Brazilian lake, killing 6</a> NPR: A towering slab of rock broke from a cliff and toppled onto pleasure boaters drifting near a waterfall in a Brazilian lake Saturday. 
+ <a href="https://www.npr.org/2022/01/08/1071604907/a-wall-of-rock-fell-on-boaters-in-a-brazilian-lake-killing-6">Death toll rises to 10 after a wall of rock fell on boaters in a Brazilian lake</a> NPR: A towering slab of rock broke from a cliff and toppled onto pleasure boaters drifting near a waterfall in a Brazilian lake Saturday. Dozens were injured. 
  <p class="updated_time"> 06:00 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59923332?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Is his vaccine saga an unforced error for Australia?</a> BBC: The story of the star tennis player being held in Australia sparks ire at every twist and turn. 
  <p class="updated_time"> 03:54 PM CT, Jan. 08 </p> 
@@ -199,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/arts/design/met-museum-african-origin-exhibit.html">In ‘African Origin’ Show at Met, New Points of Light Across Cultures</a> NYT: Holdings from Ancient Egypt and sub-Saharan Africa come together in a masterpiece show. Now the Met should make clear how the wondrous works got here. 
  <p class="updated_time"> 02:12 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/pakistan-woman-supreme-court.html">Pakistan Paves Way for Ayesha Malik to Be First Woman Supreme Court Justice</a> NYT: Justice Ayesha A. Malik’s nomination, intensely opposed by some lawyers that have threatened to strike, was hailed by others as an important victory in improving representation for women. 
- <p class="updated_time"> 01:44 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/europe/pope-pets-kids.html">Pope Scolds Couples Who Choose Pets Over Kids</a> NYT: Expressing concern about global birthrates, Francis said such couples were acting in a selfish way that diminished humanity. 
 
 
 </details>
@@ -208,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:54 PM CT, Jan. 09 </p> 
+ <a href="https://www.politico.com/news/2022/01/09/michelle-obama-voting-midterms-526809">Michelle Obama and coalition vow to register more than a million new voters</a> Politico: The push for voting reform is intensifying ahead of the 2022 midterms, in which Democrats will fight to maintain their narrow control of the Senate. 
  <p class="updated_time"> 02:35 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/us/politics/biden-republicans-agenda.html">Biden Comes Out Swinging Against Republicans as His Agenda Stalls</a> NYT: The president pledged to use all of the powers of his office to thwart Republicans still under the thumb of Donald J. Trump. 
  <p class="updated_time"> 02:33 PM CT, Jan. 09 </p> 
@@ -404,14 +404,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/cdc-advisers-teen-pfizer-covid-booster-526572">CDC recommends all teens get Pfizer Covid booster</a> Politico: The advisory panel signed off on the recommendation following presentations by doctors suggesting boosters are likely to increase antibodies in young teens. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
- <p class="updated_time"> 04:38 PM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/garland-rebuts-criticism-of-jan-6-probe-526551">Garland rebuts criticism of Jan. 6 probe</a> Politico: The attorney general argued that prosecutors are methodically building cases against the most serious offenders in the attack on the Capitol. 
  <p class="updated_time"> 04:31 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
  <p class="updated_time"> 11:20 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/mcconnell-electoral-count-act-reform-526542">McConnell cracks door to Electoral Count Act reform</a> Politico: “It obviously has some flaws. And it is worth, I think, discussing,” the Senate minority leader said Wednesday. 
- <p class="updated_time"> 09:47 AM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/chicago-schools-shutdown-teachers-covid-protest-526535">Chicago Public Schools shut down amid teachers union protest of Covid protocols</a> Politico: The union wants the school district to put in place a more robust testing policy. 
  <p class="updated_time"> 07:35 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/05/security-still-top-of-mind-a-year-after-capitol-attack-495603">Security still top of mind a year after Capitol attack</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
