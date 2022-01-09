@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:46 AM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia Warns That U.S. Doesn’t Understand Its Goals on Ukraine</a> NYT: As the two countries prepare to meet amid rising tensions over Ukraine, a senior Russian official set a pessimistic tone. 
+ <p class="updated_time"> 08:40 AM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59929586?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia says tennis star given no visa assurances</a> BBC: The tennis star hopes to play in the Australian Open but instead could be deported. 
  <p class="updated_time"> 07:37 AM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071663590/russian-troops-have-crossed-the-border-into-kazakhstan-following-violent-protest">Russian troops have crossed the border into Kazakhstan following violent protests</a> NPR: Russian troops are helping put down anti-government protests in neighboring Kazakhstan. The crisis threatens to be a distraction for Russia as it squares off with the U.S. over Ukraine. 
  <p class="updated_time"> 07:33 AM CT, Jan. 09 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59928851?at_medium=RSS&at_campaign=KARANGA">Covid pandemic: Chinese city tests 14m people after cluster</a> BBC: As China pursues a zero-Covid policy, Tianjin aims to test all its residents within 48 hours. 
  <p class="updated_time"> 07:05 AM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071663548/lahore-pakistan-locks-down-for-the-pandemic-and-to-improve-air-pollution">Lahore, Pakistan, locks down for the pandemic — and to improve air pollution</a> NPR: Pakistan's second largest city, Lahore, tops the world's most polluted city list, along with India's New Delhi. Poor air quality has prompted the government to order a partial shutdown of schools. 
- <p class="updated_time"> 06:55 AM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59926777?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia loses bid to delay tennis star's visa appeal</a> BBC: A judge overseeing the tennis star's deportation case rejects a request to postpone hearing for two days. 
  <p class="updated_time"> 06:48 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59925413?at_medium=RSS&at_campaign=KARANGA">Nigeria motorbike gang attack: Death toll rises to 200</a> BBC: The attacks in the northern Zamfara state are believed to be in response to military air strikes. 
  <p class="updated_time"> 06:32 AM CT, Jan. 09 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/06/world/asia/pakistan-woman-supreme-court.html">Pakistan Paves Way for Ayesha Malik to Be First Woman Supreme Court Justice</a> NYT: Justice Ayesha A. Malik’s nomination, intensely opposed by some lawyers that have threatened to strike, was hailed by others as an important victory in improving representation for women. 
  <p class="updated_time"> 01:44 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/europe/pope-pets-kids.html">Pope Scolds Couples Who Choose Pets Over Kids</a> NYT: Expressing concern about global birthrates, Francis said such couples were acting in a selfish way that diminished humanity. 
- <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/australia/why-novak-djokovic-was-blocked.html">Why Novak Djokovic Was Blocked From Entering Australia</a> NYT: The men’s No. 1 tennis player had received an exemption to the country’s vaccine requirements. Then the federal government stepped in. 
  <p class="updated_time"> 06:41 AM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/novak-djokovic-covid.html">Novak Djokovic Collides With Australia’s Covid Fight</a> NYT: Barring the tennis star from entering the country offers a chance to change the subject as an election looms and coronavirus cases are at record highs. 
 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:17 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/kazakhstan-164-killed-protests-526803">Kazakhstan says 164 killed in week of protests</a> Politico: President Kassym-Jomart Tokayev’s office said that order has stabilized in the country. 
+ <p class="updated_time"> 08:43 AM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/us/politics/ron-johnson-senate-wisconsin.html">Ron Johnson, G.O.P. Senator From Wisconsin, Will Seek Re-election</a> NYT: The renewed bid for office by Mr. Johnson, who has spread many false claims about the 2020 election and Covid, ensures that both parties will be highly invested in Wisconsin’s 2022 Senate race. 
  <p class="updated_time"> 08:32 AM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071391935/wisconsin-republican-sen-ron-johnson-is-running-for-reelection">Wisconsin Republican Sen. Ron Johnson is running for reelection</a> NPR: The controversial Republican said he will seek a third term, in what is expected to be a hotly contested race that could determine which party controls the Senate. 
  <p class="updated_time"> 08:30 AM CT, Jan. 09 </p> 
@@ -364,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/06/politics/cecilia-martinez-environmental-justice/index.html">Top White House environmental justice official to depart post</a> CNN: The Biden administration's top environmental justice official will step down on Friday, an administration official told CNN. 
  <p class="updated_time"> 06:46 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html">Biden condemns Trump as a threat to democracy in speech marking one year since January 6 attack</a> CNN: President Joe Biden will mark the first anniversary of the January 6, 2021, insurrection by delivering remarks on Thursday morning focused on the "singular responsibility" former President Donald Trump had in the assault on the Capitol, the White House says. 
- <p class="updated_time"> 06:45 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/us/politics/cuomo-charges-future-resignation.html">Will Cuomo Try to Make a Comeback?</a> NYT: Recent decisions by prosecutors to not pursue criminal charges against ex-Gov. Andrew Cuomo may fuel his interest in re-entering public life. 
  <p class="updated_time"> 04:55 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/harris-was-inside-dnc-on-jan-6-when-pipe-bomb-was-discovered-outside-526695">Harris was inside DNC on Jan. 6 when pipe bomb was discovered outside</a> Politico: The then-vice president-elect’s presence inside the building while a bomb was right outside raises sobering questions about her security that day. 
  <p class="updated_time"> 04:09 PM CT, Jan. 06 </p> 
