@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:10 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/europe/cladding-grenfell-uk.html">Britain Puts Onus on Developers to Pay to Fix Fire Safety Issues</a> NYT: After a deadly high-rise blaze in 2017, countless instances of unsafe building practices came to light. The latest plan to fix them expands who will be covered. 
+ <p class="updated_time"> 01:50 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59945850?at_medium=RSS&at_campaign=KARANGA">Millionaire murderer Robert Durst dies in prison</a> BBC: The real estate heir turned fugitive unwittingly confessed to three killings on a TV crime show. 
  <p class="updated_time"> 01:45 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
  <p class="updated_time"> 01:44 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
  <p class="updated_time"> 01:40 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in Geneva talks</a> BBC: Russian officials tells their US counterparts that they have no plans to invade Ukraine. 
- <p class="updated_time"> 01:32 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59945850?at_medium=RSS&at_campaign=KARANGA">Millionaire murderer Robert Durst dies in prison</a> BBC: The real estate heir was placed on a ventilator shortly after receiving a life sentence in October. 
- <p class="updated_time"> 01:31 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/europe/cladding-grenfell-uk.html">Britain Puts Onus on Developers to Pay to Fix Fire Safety Issues</a> NYT: After a deadly high-rise blaze in 2017, countless instances of unsafe building practices came to light. The latest plan to fix them expands who will be covered. 
  <p class="updated_time"> 01:28 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
  <p class="updated_time"> 01:22 PM CT, Jan. 10 </p> 
@@ -32,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:49 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59935998?at_medium=RSS&at_campaign=KARANGA">Covid pass protesters attack French MP Stéphane Claireaux with seaweed</a> BBC: Stéphane Claireaux likens the attack near his home in a French part of North America to a "stoning". 
  <p class="updated_time"> 11:45 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/europe/famed-white-cliffs-of-sicily-are-defaced-in-an-act-of-vandalism.html">Famed White Cliffs of Sicily Are Defaced in an Act of Vandalism</a> NYT: Vandals stained a cliff formation known as the Staircase of the Turks with red splotches over the weekend. Residents of a nearby town banded together for a successful cleanup. 
+ <a href="https://www.nytimes.com/2022/01/10/world/europe/white-cliffs-sicily-vandalism.html">Famed White Cliffs of Sicily Are Defaced in an Act of Vandalism</a> NYT: Vandals stained a cliff formation known as the Staircase of the Turks with red splotches over the weekend. Residents of a nearby town banded together for a successful cleanup. 
  <p class="updated_time"> 10:05 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
  <p class="updated_time"> 09:53 AM CT, Jan. 10 </p> 
@@ -51,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/tennis/59938953?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic 'focused' on Australian Open</a> BBC: The men's world number one says he wants to compete in next week's tournament after a court overturned his visa cancellation. 
  <p class="updated_time"> 08:30 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
+ <p class="updated_time"> 08:23 AM CT, Jan. 10 </p> 
+ <a href="https://www.wsj.com/articles/kazakhstan-crisis-shows-that-russia-still-trumps-chinas-power-in-central-asia-11641842588">Kazakhstan Shows That Russia Still Trumps China's Power in Central Asia</a> WSJ: Beijing’s huge investments in the region increasingly rely on Russian protection. 
  <p class="updated_time"> 08:19 AM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia See Little Progress in Early Talks on Ukraine Crisis</a> WSJ: Negotiators for Washington and Moscow failed to narrow their differences in security talks in Geneva on Monday against the backdrop of Russia’s military buildup near Ukraine, U.S. and Russian diplomats said. 
  <p class="updated_time"> 08:17 AM CT, Jan. 10 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Hong Kong Party Angers a City Under Covid Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
  <p class="updated_time"> 09:39 PM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/china-names-xinjiang-counterterror-veteran-to-lead-troops-in-hong-kong-11641803969">China Names Former Xinjiang Commander to Lead Troops in Hong Kong</a> WSJ: China has named Peng Jingtang as the new chief of its army garrison in Hong Kong, continuing a string of hard-line appointments in the territory. 
- <p class="updated_time"> 08:21 PM CT, Jan. 09 </p> 
- <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-four-years-in-prison-in-second-verdict-11641796580">Myanmar's Aung San Suu Kyi Sentenced to Four Years in Prison in Second Verdict</a> WSJ: The country’s former civilian leader, whose government was overthrown in a military coup last year, is already serving a two-year sentence. 
  <p class="updated_time"> 06:39 PM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071703878/us-russia-ukraine-talks-geneva">Neither side is optimistic ahead of U.S.-Russia talks over Ukraine</a> NPR: The U.S. and its European allies want Russia to reduce troop buildup along the Ukraine border. Russia wants U.S. troops out of Eastern Europe. Both sides say those demands are non-starters. 
  <p class="updated_time"> 06:03 PM CT, Jan. 09 </p> 
@@ -202,10 +202,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:00 PM CT, Jan. 10 </p> 
+ <a href="https://www.politico.com/news/2022/01/10/trump-immunity-jan-6-526839">Trump claims sweeping immunity for Jan. 6 actions as he fends off lawsuits from lawmakers, police</a> Politico: Lawyers are claiming presidential duties are ‘all encompassing’ so Trump can’t be sued for what he said Jan. 6 
  <p class="updated_time"> 02:14 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/new-quarter-treasury-maya-angelou-526836">Treasury begins distribution of quarter featuring poet, activist Maya Angelou</a> Politico: The poet and activist is the first Black woman to appear on a U.S. quarter. 
  <p class="updated_time"> 02:13 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/russia-downplays-ukraine-invasion-526830">Russia downplays Ukraine invasion, but U.S. makes no concessions</a> Politico: There's no tilt toward war after the first day of talks between U.S. and Russian diplomats in Geneva. But there's no peace either. 
+ <p class="updated_time"> 02:11 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/worldview-weekend-foundation-tax-status-irs-invs/index.html">Foundation behind network pushing election and coronavirus conspiracies had its tax-exempt status revoked. It still solicits donations </a> CNN: An online media network that promotes election and coronavirus-related conspiracy theories is soliciting donations and telling donors their contributions will be tax-deductible -- even though its foundation's tax-exempt status has been revoked by the IRS. 
  <p class="updated_time"> 01:35 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/business/media/symone-sanders-msnbc.html">Symone Sanders, a Strategist for Biden and Harris, Is Joining MSNBC</a> NYT: Ms. Sanders, 32, will host a weekend show on the cable network, one of the first big programming moves by MSNBC’s president, Rashida Jones. 
  <p class="updated_time"> 01:32 PM CT, Jan. 10 </p> 
@@ -222,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/10/politics/sotomayor-barrett-federal-sentencing-commission/index.html">Justices Sotomayor and Barrett question the state of federal sentencing commission</a> CNN: Liberal Supreme Court Justice Sonia Sotomayor, joined by her conservative colleague Justice Amy Coney Barrett, raised concerns on Monday about disparities in the federal system over sentencing guidelines. 
  <p class="updated_time"> 12:22 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/wisconsin-gop-election-review-526827">Wisconsin judge lets GOP-led election review continue</a> Politico: State Attorney General Josh Kaul's bid to undercut the probe was denied by a judge in Dane County. 
- <p class="updated_time"> 11:55 AM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/worldview-weekend-foundation-tax-status-irs-invs/index.html">Foundation behind network pushing election and coronavirus conspiracies had its tax-exempt status revoked. It still solicits donations </a> CNN: An online media network that promotes election and coronavirus-related conspiracy theories is soliciting donations and telling donors their contributions will be tax-deductible -- even though its foundation's tax-exempt status has been revoked by the IRS. 
  <p class="updated_time"> 11:07 AM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/republicans-push-for-hand-counting-paper-ballots/index.html">GOP push for handing-counting paper ballots is latest effort to cast doubt on elections </a> CNN: After more than a year of baselessly questioning the results of the 2020 election, some Republicans are casting doubt on how ballots are counted, part of a broader movement inspired by former President Donald Trump's lies about election fraud that is undermining confidence in America's vote. 
  <p class="updated_time"> 10:32 AM CT, Jan. 10 </p> 
@@ -354,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
  <p class="updated_time"> 01:10 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/usda-school-lunch-inflation-supply-chain/index.html">USDA pumps $750 million into school meals to counter inflation, supply chain woes</a> CNN: Schools are not only wrestling with how to educate children amid the surge in coronavirus cases. They are also contending with feeding kids as inflation and supply chain problems disrupt their ability to serve meals. 
- <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
  <p class="updated_time"> 12:52 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071304780/supreme-court-arguments-biden-vaccine-testing-regulation">Supreme Court's conservatives cast cloud over vaccine-or-test mandate for businesses</a> NPR: Justices seemed more open to the vaccine mandate for almost all workers at hospitals, nursing homes, and other medical providers receiving federal Medicare and Medicaid funds. 
  <p class="updated_time"> 12:37 PM CT, Jan. 07 </p> 
