@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:16 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/asia/myanmar-aung-san-suu-kyi-verdict.html">Aung San Suu Kyi Gets 4 Years on Walkie-Talkie and Covid Charges</a> NYT: Myanmar’s ousted civilian leader was convicted on three more counts, which her defenders said were politically motivated. 
+ <p class="updated_time"> 01:15 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59932430?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Judge orders immediate release of tennis star</a> BBC: Anthony Kelly quashes the decision to cancel the player's Australian visa on Covid vaccination grounds. 
  <p class="updated_time"> 01:14 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: The court ordered the government to release him from detention and restore a visa. 
  <p class="updated_time"> 01:11 AM CT, Jan. 10 </p> 
- <a href="https://www.npr.org/2022/01/10/1071761247/djokovics-visa-reinstated-but-australian-open-status-unclear">Djokovic's visa reinstated but Australian Open status unclear</a> NPR: Australia's immigration minister could still "exercise a personal power of cancelation," which would mean mean Djokovic could face deportation again and miss the tournament, which starts on Jan. 17 
+ <a href="https://www.npr.org/2022/01/10/1071761247/djokovics-visa-reinstated-but-australian-open-status-unclear">Djokovic's visa is reinstated but his Australian Open status remains unclear</a> NPR: Australia's immigration minister could still "exercise a personal power of cancelation," which would mean mean Djokovic could face deportation again and miss the tournament, which starts on Jan. 17 
  <p class="updated_time"> 01:09 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59933706?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Ousted Myanmar leader jailed for another four years</a> BBC: The former Myanmar leader faces a series of charges which have been widely condemned as unjust. 
- <p class="updated_time"> 12:52 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59932430?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Judge orders immediate release of tennis star</a> BBC: Anthony Kelly quashes the decision to cancel the player's Australian visa on Covid vaccination grounds. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59933706?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Ousted Myanmar leader jailed for another four years</a> BBC: Myanmar's former leader faces a series of charges since being ousted in an army coup last February. 
  <p class="updated_time"> 12:45 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59900500?at_medium=RSS&at_campaign=KARANGA">Golden Globes: West Side Story and The Power of the Dog win at subdued event</a> BBC: Steven Spielberg's remake of the classic film was among the big winners at Sunday's event in LA. 
- <p class="updated_time"> 12:16 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/asia/myanmar-aung-san-suu-kyi-verdict.html">Aung San Suu Kyi Gets 4 Years on Walkie-Talkie and Covid Charges</a> NYT: Myanmar’s ousted civilian leader was convicted on three more counts, which her defenders said were politically motivated. 
  <p class="updated_time"> 12:00 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59928856?at_medium=RSS&at_campaign=KARANGA">'They looted everything': Counting the cost of Kazakh protests</a> BBC: Violent protests have left Kazakhstan stunned and angry, the BBC's Abdujalil Abdurasulov finds. 
  <p class="updated_time"> 11:15 PM CT, Jan. 09 </p> 
