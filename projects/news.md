@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:01 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: U.S. and Russia End Day of Talks to Avert War in Ukraine</a> NYT: With the threat of a Russian invasion of Ukraine, the talks on Monday marked the start of a week of high-stakes diplomacy. Diplomats for the two countries met for more than seven hours. 
  <p class="updated_time"> 09:43 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59931896?at_medium=RSS&at_campaign=KARANGA">New York fire: At least 19 killed in apartment block blaze</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
- <p class="updated_time"> 09:35 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: U.S. and Russia Meet Amid Fears of War in Ukraine</a> NYT: With the threat of a Russian invasion of Ukraine stirring concern across Europe, the talks in Geneva on Monday marked the start of a week of high-stakes diplomacy. 
  <p class="updated_time"> 09:29 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/china-covid-omicron-beijing-olympics.html">China’s Covid Outbreak Complicates Safety Plan for Beijing Olympics</a> NYT: Officials are racing to extinguish a spate of coronavirus infections around the country. 
  <p class="updated_time"> 09:03 AM CT, Jan. 10 </p> 
@@ -18,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:59 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59936449?at_medium=RSS&at_campaign=KARANGA">Former Israeli PMs Netanyahu and Olmert face off in court in libel case</a> BBC: Benjamin Netanyahu and his family are suing Ehud Olmert for claiming that they were mentally ill. 
  <p class="updated_time"> 08:54 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/asia/india-masks-omicron.html">In India, Mask Wearing Is Down, Even as Case Numbers Rise</a> NYT: Health officials are finding it harder to impose regulations despite signs that Omicron is beginning to take hold. 
+ <a href="https://www.nytimes.com/2022/01/10/world/asia/india-masks-omicron.html">In India, Mask Wearing Is Down Despite Rising Coronavirus Cases</a> NYT: Health officials are finding it harder to impose regulations despite signs that Omicron is beginning to take hold. 
  <p class="updated_time"> 08:54 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-59936822?at_medium=RSS&at_campaign=KARANGA">Djokovic's brother: We fight for truth and justice</a> BBC: Djordje Djokovic, speaks about supporting the tennis star during his detention in Australia. 
  <p class="updated_time"> 08:32 AM CT, Jan. 10 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:04 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/symone-sanders-msnbc-526824">Symone Sanders lands at MSNBC</a> Politico: The former VP spokesperson is heading to the left-leaning cable news network, where she will host a weekend show and a show on its streaming platform. 
+ <p class="updated_time"> 09:48 AM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/covid-congress-reaction/index.html">Congress steps up health protocols amid fresh fears over coronavirus in the Capitol</a> CNN: Congress is stepping up its health protocols amid renewed fears over the coronavirus, with the Capitol Hill community bracing for a spike in cases in the coming weeks as both chambers return to Washington during the nationwide surge in infections. 
  <p class="updated_time"> 09:33 AM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US and Russia hold crunch talks over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 09:01 AM CT, Jan. 10 </p> 
@@ -214,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia and U.S. Meet to Begin Negotiations Over Ukraine</a> NYT: Before the two countries met amid rising tensions over Ukraine, a senior Russian official and the U.S. secretary of state set a pessimistic tone. 
  <p class="updated_time"> 06:13 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/10/biden-faces-his-moment-on-the-filibuster-495658"> Biden faces his moment on the filibuster</a> Politico Playbook: And the Senate GOP plans a filibuster messaging push. 
- <p class="updated_time"> 05:30 AM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/covid-congress-reaction/index.html">Congress steps up health protocols amid fresh fears over coronavirus in the Capitol</a> CNN: Congress is stepping up its health protocols amid renewed fears over the coronavirus, with the Capitol Hill community bracing for a spike in cases in the coming weeks as both chambers return to Washington during the nationwide surge in infections. 
  <p class="updated_time"> 05:19 AM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
  <p class="updated_time"> 05:00 AM CT, Jan. 10 </p> 
