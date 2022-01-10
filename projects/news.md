@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:12 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59946362?at_medium=RSS&at_campaign=KARANGA">Near-miss for pilot saved from downed plane hit by train</a> BBC: Dramatic video shows the rescue, moments before collision, after a plane landed on train tracks. 
+ <p class="updated_time"> 04:05 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 03:51 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
  <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/europe/rum-isle-scotland-hebrides.html">As Its Population Soars to 40, Rum Isle Glimpses a Future in the Mist</a> NYT: With four new families recently arriving, the remote and rainy island in the Hebrides is experiencing its version of a population surge, although residents new and old concede living here isn’t easy. 
  <p class="updated_time"> 12:58 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59943374?at_medium=RSS&at_campaign=KARANGA">New York fire: Officials pledge support after 17 die in 'unspeakable tragedy'</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
- <p class="updated_time"> 12:01 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 11:56 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: Australian officials hinted they may make a new attempt to cancel Djokovic’s visa, even as the tennis champion, freed from detention, returned to the court. 
  <p class="updated_time"> 11:55 AM CT, Jan. 10 </p> 
@@ -43,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59935998?at_medium=RSS&at_campaign=KARANGA">Covid pass protesters attack French MP Stéphane Claireaux with seaweed</a> BBC: Stéphane Claireaux likens the attack near his home in a French part of North America to a "stoning". 
  <p class="updated_time"> 11:45 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/white-cliffs-sicily-vandalism.html">Famed White Cliffs of Sicily Are Defaced in an Act of Vandalism</a> NYT: Vandals stained a cliff formation known as the Staircase of the Turks with red splotches over the weekend. Residents of a nearby town banded together for a successful cleanup. 
+ <p class="updated_time"> 11:07 AM CT, Jan. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia Talks Yield Little Overall Progress Amid Ukraine Crisis</a> WSJ: Negotiators for Washington and Moscow held their first security talks since Russia’s deployment of tens of thousands of troops to the Ukrainian border sparked fears of an invasion, but said they failed to narrow their differences. 
  <p class="updated_time"> 10:05 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
  <p class="updated_time"> 09:53 AM CT, Jan. 10 </p> 
@@ -63,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
  <p class="updated_time"> 08:23 AM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/kazakhstan-crisis-shows-that-russia-still-trumps-chinas-power-in-central-asia-11641842588">Kazakhstan Shows That Russia Still Trumps China's Power in Central Asia</a> WSJ: Beijing’s huge investments in the region increasingly rely on Russian protection. 
- <p class="updated_time"> 08:19 AM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia See Little Progress in Early Talks on Ukraine Crisis</a> WSJ: Negotiators for Washington and Moscow failed to narrow their differences in security talks in Geneva against the backdrop of Russia’s military buildup near Ukraine, U.S. and Russian diplomats said. 
  <p class="updated_time"> 08:17 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59937510?at_medium=RSS&at_campaign=KARANGA">Spain: Badger thought to have found Roman treasure</a> BBC: Archaeologists discovered Roman coins outside the den of an animal next to a cave in northern Spain. 
  <p class="updated_time"> 08:04 AM CT, Jan. 10 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/the-biden-administration-gave-a-preview-of-how-it-would-punish-russia-if-it-invaded-ukraine.html">The Biden administration gave a preview of how it would punish Russia if it invaded Ukraine.</a> NYT: Such moves are rarely telegraphed in advance, but advisers say they are hoping to influence the decisions of Russia’s leader, Vladimir V. Putin. 
  <p class="updated_time"> 07:58 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
- <p class="updated_time"> 07:19 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59933706?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Ousted Myanmar leader jailed for another four years</a> BBC: Myanmar's former leader faces a series of charges since being ousted in an army coup last February. 
  <p class="updated_time"> 06:39 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia and U.S. Meet to Begin Negotiations Over Ukraine</a> NYT: Before the two countries met amid rising tensions over Ukraine, a senior Russian official and the U.S. secretary of state set a pessimistic tone. 
  <p class="updated_time"> 06:28 AM CT, Jan. 10 </p> 
@@ -200,8 +200,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
+ <a href="https://www.politico.com/news/2022/01/10/biden-administration-at-home-covid-tests-reimbursement-526853">Biden administration lays out rules for reimbursing at-home Covid tests</a> Politico: Under the plan, private insurers can set up programs at preferred pharmacies or retailers where the upfront cost of home tests is covered for beneficiaries. 
+ <p class="updated_time"> 04:14 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/business/media/jesse-watters-fox-news.html">Jesse Watters of Fox News Is Promoted to an Evening Slot</a> NYT: Mr. Watters, a sardonic conservative with a pro-Trump bent, will take over the 7 p.m. hour. 
  <p class="updated_time"> 04:12 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/federal-reserve-vice-chair-resigns-ethics-scandal-526849">Fed’s No. 2 official resigns amid trading scandal</a> Politico: Federal Reserve Vice Chair Richard Clarida quietly admitted last month that he had failed to fully disclose financial trades in February 2020. 
+ <p class="updated_time"> 04:09 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/business/economy/jerome-powell-testimony-inflation.html">Jerome Powell will tell senators that Fed policymakers see high inflation’s toll.</a> NYT: Central bankers will act to keep rapid price gains from becoming permanent, Mr. Powell, the chair of the Federal Reserve, will say during a renomination hearing. 
  <p class="updated_time"> 03:34 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/steve-sweeney-new-jersey-senate-526776">His election loss stunned Democrats. Now he might run for governor.</a> Politico: New Jersey Democrat Steve Sweeney is pushing big bills in final days, opening up a think tank and telling power players he’s going to run for governor in 2025. 
  <p class="updated_time"> 03:33 PM CT, Jan. 10 </p> 
@@ -276,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/09/new-york-city-apartment-fire-526811">19 dead, including 9 children, in New York City apartment fire</a> Politico: “It’s a tragedy beyond measure,” Mayor Eric Adams said. 
  <p class="updated_time"> 04:58 PM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/joe-manchin-biden-build-back-better/index.html">Analysis: Is there a version of Biden's economic plan Manchin can support?</a> CNN: In 2009, Senate Democrats spent months courting Republican Charles Grassley in search of bipartisan support for the Affordable Care Act. By that September, President Barack Obama had lost patience. 
- <p class="updated_time"> 04:48 PM CT, Jan. 09 </p> 
- <a href="https://www.politico.com/news/2022/01/09/child-covid-testing-winter-olympics-526810">China’s Tianjin testing all residents after Omicron found</a> Politico: China has stepped up its strict zero tolerance strategy in the run-up to the Winter Olympics, which open Feb. 4. 
  <p class="updated_time"> 03:54 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/michelle-obama-voting-midterms-526809">Michelle Obama and coalition vow to register more than a million new voters</a> Politico: The push for voting reform is intensifying ahead of the 2022 midterms, in which Democrats will fight to maintain their narrow control of the Senate. 
  <p class="updated_time"> 02:35 PM CT, Jan. 09 </p> 
@@ -346,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071542831/week-in-politics-russia-sends-troops-to-kazakhstan-jobs-up-jan-6-anniversary">Week in politics: Russia sends troops to Kazakhstan; jobs up; Jan. 6 anniversary</a> NPR: The unrest in Kazakhstan presents a fresh dilemma for President Biden. Also, what last month's low job creation numbers mean, and how Democrats are using the Jan. 6 riot to their advantage. 
  <p class="updated_time"> 06:00 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071239044/congress-may-change-this-arcane-law-to-avoid-another-jan-6">Congress may change this arcane law to avoid another Jan. 6</a> NPR: Lawmakers passed the Electoral Count Act in 1887 after a contested election, and experts say they did a "terrible job." There may now be bipartisan support for a refresh. 
- <p class="updated_time"> 09:04 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-colorado-fires.html">Biden Consoles Residents in Fire-Ravaged Colorado</a> NYT: The president said the devastation caused by natural disasters rooted in climate change was “a blinking ‘code red’ for our nation.” 
  <p class="updated_time"> 07:26 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/jan-6-investigators-pence-interview-526790">Jan. 6 investigators eyeing Pence interview this month</a> Politico: Pence was the target of an intense pressure campaign to single-handedly overturn the election results on Jan. 6, 2021. 
  <p class="updated_time"> 06:12 PM CT, Jan. 07 </p> 
@@ -358,6 +360,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071368803/jan-6-panel-chair-says-committee-will-ask-mike-pence-to-voluntarily-appear">The chair of the Jan. 6 panel says the committee will ask Mike Pence to appear</a> NPR: The chair of the House select committee investigating the Jan. 6 attack says by month's end they'll ask former Vice President Mike Pence to testify. They may also request testimony from Ivanka Trump. 
  <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
+ <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
+ <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
  <p class="updated_time"> 01:10 PM CT, Jan. 07 </p> 
