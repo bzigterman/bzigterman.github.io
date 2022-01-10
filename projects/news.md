@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:16 PM CT, Jan. 10 </p> 
+ <p class="updated_time"> 12:48 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
+ <p class="updated_time"> 12:46 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in Geneva talks</a> BBC: Russian officials tells their US counterparts that they have no plans to invade Ukraine. 
  <p class="updated_time"> 12:01 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 11:56 AM CT, Jan. 10 </p> 
@@ -38,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:54 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-59936822?at_medium=RSS&at_campaign=KARANGA">Djokovic's brother: We fight for truth and justice</a> BBC: Djordje Djokovic, speaks about supporting the tennis star during his detention in Australia. 
  <p class="updated_time"> 08:31 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59938953?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic 'focused' on Australian Open</a> BBC: The men's world number 1 says he wants to compete in next week's tournament after a court overturned his visa cancellation. 
+ <a href="https://www.bbc.co.uk/sport/tennis/59938953?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic 'focused' on Australian Open</a> BBC: The men's world number one says he wants to compete in next week's tournament after a court overturned his visa cancellation. 
  <p class="updated_time"> 08:30 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
  <p class="updated_time"> 08:17 AM CT, Jan. 10 </p> 
@@ -49,10 +51,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/the-biden-administration-gave-a-preview-of-how-it-would-punish-russia-if-it-invaded-ukraine.html">The Biden administration gave a preview of how it would punish Russia if it invaded Ukraine.</a> NYT: Such moves are rarely telegraphed in advance, but advisers say they are hoping to influence the decisions of Russia’s leader, Vladimir V. Putin. 
  <p class="updated_time"> 07:58 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
+ <p class="updated_time"> 07:49 AM CT, Jan. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia See Little Progress in Early Talks on Ukraine Crisis</a> WSJ: Negotiators for Washington and Moscow failed to narrow their differences in security talks in Geneva on Monday against the backdrop of Russia’s military buildup near Ukraine, U.S. and Russian diplomats said. 
  <p class="updated_time"> 07:19 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59933706?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Ousted Myanmar leader jailed for another four years</a> BBC: Myanmar's former leader faces a series of charges since being ousted in an army coup last February. 
- <p class="updated_time"> 07:03 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59910844?at_medium=RSS&at_campaign=KARANGA">Swedish PM under fire for illegal immigrant cleaner</a> BBC: Prime Minister Magdalena Andersson says she was assured all company employees were working legally. 
  <p class="updated_time"> 06:53 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59935605?at_medium=RSS&at_campaign=KARANGA">Uganda schools reopen after almost two years of Covid closure</a> BBC: Authorities warn that at least 30% of pupils may not return after the long absence because of Covid. 
  <p class="updated_time"> 06:39 AM CT, Jan. 10 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/10/1070854970/in-wahala-intimacy-at-times-morphs-into-enmity">In 'Wahala,' intimacy at times morphs into enmity</a> NPR: Nikki May's novel captures issues of modern city living: women's evolving roles in home and work, interracial relationships, multicultural identity, and competition that runs under many friendship. 
  <p class="updated_time"> 06:26 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071785531/on-covid-vaccinations-pope-says-health-care-is-a-moral-obligation">On COVID vaccinations, Pope says health care is a 'moral obligation'</a> NPR: Francis says individuals have a responsibility to care for themselves "and this translates into respect for the health of those around us." 
- <p class="updated_time"> 06:21 AM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia Have 'Long Way to Go' After Talks Open on Ukraine Crisis, Diplomat Says</a> WSJ: Negotiators for Washington and Moscow failed to narrow their differences in security talks in Geneva on Monday against the backdrop of Russia’s military buildup near Ukraine, a senior U.S. diplomat said. 
  <p class="updated_time"> 06:00 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59915690?at_medium=RSS&at_campaign=KARANGA">Past seven years hottest on record - EU satellite data</a> BBC: Analysis shows 2021 was the fifth-warmest with record-breaking temperatures in some regions. 
  <p class="updated_time"> 06:00 AM CT, Jan. 10 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:55 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/treasury-tax-filing-season-526833">Treasury warns taxpayers to brace for a turbulent tax filing season</a> Politico: The IRS is still dealing with backups in processing returns from the past two filing seasons. 
+ <p class="updated_time"> 12:43 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/business/income-tax-day-deadline.html">The I.R.S. is warning of a messy tax season.</a> NYT: The agency, which has been hobbled by paperwork backlogs and short staffing, said tax filers should expect a lower level of service this year. 
  <p class="updated_time"> 12:22 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/wisconsin-gop-election-review-526827">Wisconsin judge lets GOP-led election review continue</a> Politico: State Attorney General Josh Kaul's bid to undercut the probe was denied by a judge in Dane County. 
  <p class="updated_time"> 11:55 AM CT, Jan. 10 </p> 
@@ -342,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071368803/jan-6-panel-chair-says-committee-will-ask-mike-pence-to-voluntarily-appear">The chair of the Jan. 6 panel says the committee will ask Mike Pence to appear</a> NPR: The chair of the House select committee investigating the Jan. 6 attack says by month's end they'll ask former Vice President Mike Pence to testify. They may also request testimony from Ivanka Trump. 
  <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
- <p class="updated_time"> 03:01 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-military-kurilla.html">Biden Nominates Michael E. Kurilla to Lead Central Command</a> NYT: Lt. Gen. Michael E. Kurilla would take over as the United States tries to conduct operations in Afghanistan from afar. 
  <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
