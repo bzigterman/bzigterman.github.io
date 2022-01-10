@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:15 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
+ <p class="updated_time"> 11:11 PM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59927267?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Internet returns to Almaty following a five day outage</a> BBC: Days of violent anti-government protests saw nearly 8,000 people detained, officials say. 
  <p class="updated_time"> 11:01 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/russia-ukraine-nato-europe.html">Can the West Stop Russia From Invading Ukraine? Here’s What You Need to Know.</a> NYT: The United States, its NATO allies and Russia meet this week in a whirlwind of diplomacy aimed at averting the largest military action in Europe since World War II. 
  <p class="updated_time"> 10:52 PM CT, Jan. 09 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/taliban-detain-prominent-critic-intensifying-crackdown-on-dissent-in-afghanistan-11641744527">Taliban Detain Prominent Critic, Intensifying Crackdown on Dissent</a> WSJ: The Taliban have arrested Faizullah Jalal, a Kabul university professor who gained national fame for berating a senior official on television, in a sign of the intensifying crackdown on critics of Afghanistan’s new regime. 
  <p class="updated_time"> 07:37 AM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071663590/russian-troops-have-crossed-the-border-into-kazakhstan-following-violent-protest">Russian troops have crossed the border into Kazakhstan following violent protests</a> NPR: Russian troops are helping put down anti-government protests in neighboring Kazakhstan. The crisis threatens to be a distraction for Russia as it squares off with the U.S. over Ukraine. 
- <p class="updated_time"> 07:26 AM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59928851?at_medium=RSS&at_campaign=KARANGA">Covid pandemic: Chinese city tests 14m people after cluster</a> BBC: As China pursues a zero-Covid policy, Tianjin aims to test all its residents within 48 hours. 
  <p class="updated_time"> 07:05 AM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071663548/lahore-pakistan-locks-down-for-air-quality">Lahore, Pakistan, is locking down to improve air quality</a> NPR: Pakistan's second largest city, Lahore, tops the world's most polluted city list, along with India's New Delhi. Poor air quality has prompted the government to order a partial shutdown of schools. 
  <p class="updated_time"> 06:51 AM CT, Jan. 09 </p> 
