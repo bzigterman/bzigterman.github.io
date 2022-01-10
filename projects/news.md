@@ -7,20 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:45 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
+ <p class="updated_time"> 01:44 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
+ <p class="updated_time"> 01:40 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in Geneva talks</a> BBC: Russian officials tells their US counterparts that they have no plans to invade Ukraine. 
+ <p class="updated_time"> 01:32 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59945850?at_medium=RSS&at_campaign=KARANGA">Millionaire murderer Robert Durst dies in prison</a> BBC: The real estate heir was placed on a ventilator shortly after receiving a life sentence in October. 
+ <p class="updated_time"> 01:31 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/europe/cladding-grenfell-uk.html">Britain Puts Onus on Developers to Pay to Fix Fire Safety Issues</a> NYT: After a deadly high-rise blaze in 2017, countless instances of unsafe building practices came to light. The latest plan to fix them expands who will be covered. 
  <p class="updated_time"> 01:28 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
  <p class="updated_time"> 01:22 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/rum-isle-scotland-hebrides.html">As Its Population Soars to 40, Rum Isle Glimpses a Future in the Mist</a> NYT: With four new families recently arriving, the remote and rainy island in the Hebrides is experiencing its version of a population surge, although residents new and old concede living here isn’t easy. 
- <p class="updated_time"> 01:15 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
- <p class="updated_time"> 01:08 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59945850?at_medium=RSS&at_campaign=KARANGA">Millionaire murderer Robert Durst dies in prison</a> BBC: The real estate heir was placed on ventilator shortly after receiving a life sentence in October. 
  <p class="updated_time"> 12:58 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59943374?at_medium=RSS&at_campaign=KARANGA">New York fire: Officials pledge support after 17 die in 'unspeakable tragedy'</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
- <p class="updated_time"> 12:57 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
- <p class="updated_time"> 12:46 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in Geneva talks</a> BBC: Russian officials tells their US counterparts that they have no plans to invade Ukraine. 
  <p class="updated_time"> 12:01 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 11:56 AM CT, Jan. 10 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/us/politics/spyware-warning-cybersecurity.html">Biden Administration Warns Against Spyware Targeting Dissidents</a> NYT: The U.S. intelligence community offered steps that would mitigate — but not stop — spyware developed by firms like the NSO Group. 
  <p class="updated_time"> 11:20 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests-strongmen.html">Behind Kazakhstan Unrest, the ‘Strongman’s Dilemma’</a> NYT: Since the Cold War’s end, most dictatorial governments have collapsed after their ruler’s departure. 
- <p class="updated_time"> 11:03 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/obituaries/theresa-hak-kyung-cha-overlooked.html">Overlooked No More: Theresa Hak Kyung Cha, Artist and Author Who Explored Identity</a> NYT: She was murdered after the publication of her first novel, “Dictee,” a challenging exploration of Korean history and immigrant life that inspires Asian American writers today. 
  <p class="updated_time"> 10:04 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27198480?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: The actor who broke down Hollywood's racial barriers</a> BBC: Sidney Poitier, the actor and director who helped break down Hollywood's racial barriers, dies aged 94. 
 
@@ -206,18 +206,20 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/new-quarter-treasury-maya-angelou-526836">Treasury begins distribution of quarter featuring poet, activist Maya Angelou</a> Politico: The poet and activist is the first Black woman to appear on a U.S. quarter. 
  <p class="updated_time"> 02:13 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/russia-downplays-ukraine-invasion-526830">Russia downplays Ukraine invasion, but U.S. makes no concessions</a> Politico: There's no tilt toward war after the first day of talks between U.S. and Russian diplomats in Geneva. But there's no peace either. 
+ <p class="updated_time"> 01:35 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/business/media/symone-sanders-msnbc.html">Symone Sanders, a Strategist for Biden and Harris, Is Joining MSNBC</a> NYT: Ms. Sanders, 32, will host a weekend show on the cable network, one of the first big programming moves by MSNBC’s president, Rashida Jones. 
+ <p class="updated_time"> 01:32 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/clay-aiken-congress.html">Former ‘American Idol’ Star Clay Aiken Announces Run for Congress</a> NYT: Mr. Aiken said he was running as a “loud and proud Democrat” for an open House seat in his native North Carolina this year. 
+ <p class="updated_time"> 01:28 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/business/income-tax-day-deadline.html">The I.R.S. is warning of a messy tax season.</a> NYT: The agency, which has been hobbled by paperwork backlogs and short staffing, said tax filers should expect a lower level of service this year. 
  <p class="updated_time"> 01:17 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
- <p class="updated_time"> 12:59 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/clay-aiken-congress.html">Clay Aiken Announces Run for Congress</a> NYT: Mr. Aiken, the former “American Idol” contestant, said he was running as a “loud and proud Democrat” for an open House seat in his native North Carolina this year. 
  <p class="updated_time"> 12:58 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US says no breakthrough in 'frank and forthright' talks with Russia over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 12:55 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/treasury-tax-filing-season-526833">Treasury warns taxpayers to brace for a turbulent tax filing season</a> Politico: The IRS is still dealing with backups in processing returns from the past two filing seasons. 
  <p class="updated_time"> 12:52 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/sotomayor-barrett-federal-sentencing-commission/index.html">Justices Sotomayor and Barrett question the state of federal sentencing commission</a> CNN: Liberal Supreme Court Justice Sonia Sotomayor, joined by her conservative colleague Justice Amy Coney Barrett, raised concerns on Monday about disparities in the federal system over sentencing guidelines. 
- <p class="updated_time"> 12:43 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/business/income-tax-day-deadline.html">The I.R.S. is warning of a messy tax season.</a> NYT: The agency, which has been hobbled by paperwork backlogs and short staffing, said tax filers should expect a lower level of service this year. 
  <p class="updated_time"> 12:22 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/wisconsin-gop-election-review-526827">Wisconsin judge lets GOP-led election review continue</a> Politico: State Attorney General Josh Kaul's bid to undercut the probe was denied by a judge in Dane County. 
  <p class="updated_time"> 11:55 AM CT, Jan. 10 </p> 
@@ -230,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/symone-sanders-msnbc-526824">Symone Sanders lands at MSNBC</a> Politico: The former VP spokesperson is heading to the left-leaning cable news network, where she will host a weekend show and a show on its streaming platform. 
  <p class="updated_time"> 09:48 AM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/covid-congress-reaction/index.html">Congress steps up health protocols amid fresh fears over coronavirus in the Capitol</a> CNN: Congress is stepping up its health protocols amid renewed fears over the coronavirus, with the Capitol Hill community bracing for a spike in cases in the coming weeks as both chambers return to Washington during the nationwide surge in infections. 
- <p class="updated_time"> 09:01 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/business/media/symone-sanders-msnbc.html">Symone Sanders, a Strategist for Biden and Harris, Is Joining MSNBC</a> NYT: Ms. Sanders, 32, will host a weekend show on the cable network, one of the first big programming moves by MSNBC’s president, Rashida Jones. 
  <p class="updated_time"> 08:44 AM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/recall-elections-increase-governor-school-board/index.html">The Point: Recall elections hit a historic high in 2021</a> CNN: We are a fickle people. And we are only growing more fickle. 
  <p class="updated_time"> 07:29 AM CT, Jan. 10 </p> 
@@ -432,8 +432,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/04/the-election-reform-idea-gaining-currency-on-the-right-495582"> The election reform idea gaining currency on the right</a> Politico Playbook: And Rep. Bobby Rush (D-Ill.) says he won't seek reelection. 
  <p class="updated_time"> 08:41 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/rep-bobby-rush-wont-seek-reelection-526455">Bobby Rush to relinquish 30-year hold on House seat</a> Politico: The veteran Illinois congressman and former Black Panther leader said, “I’m not retiring … I’m just entering into a new level of my life.” 
- <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/marjorie-taylor-greene-facebook-suspension-526398">MTG hit with Facebook suspension after Twitter ban</a> Politico: “Facebook has joined Twitter in censoring me,” Greene (R-Ga.) wrote on Gettr, a social media platform favored by some right-wing conservatives. 
 
 
 </details>
