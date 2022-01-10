@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:56 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: U.S. and Russia Meet Amid Fears of War in Ukraine</a> NYT: With the threat of a Russian invasion of Ukraine stirring concern across Europe, the talks in Geneva on Monday marked the start of a week of high-stakes diplomacy. 
+ <p class="updated_time"> 06:53 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59935605?at_medium=RSS&at_campaign=KARANGA">Uganda schools reopen after almost two years of Covid closure</a> BBC: Authorities warn that at least 30% of pre-pandemic pupils may never return after such a long absence. 
+ <p class="updated_time"> 06:39 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia and U.S. Meet to Begin Negotiations Over Ukraine</a> NYT: Before the two countries met amid rising tensions over Ukraine, a senior Russian official and the U.S. secretary of state set a pessimistic tone. 
  <p class="updated_time"> 06:28 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1070854970/in-wahala-intimacy-at-times-morphs-into-enmity">In 'Wahala,' intimacy at times morphs into enmity</a> NPR: Nikki May's novel captures issues of modern city living: women's evolving roles in home and work, interracial relationships, multicultural identity, and competition that runs under many friendship. 
  <p class="updated_time"> 06:26 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071785531/on-covid-vaccinations-pope-says-health-care-is-a-moral-obligation">On COVID vaccinations, Pope says health care is a 'moral obligation'</a> NPR: Francis says individuals have a responsibility to care for themselves "and this translates into respect for the health of those around us." 
- <p class="updated_time"> 06:26 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: U.S. and Russia Meet Amid Fears of War in Ukraine</a> NYT: With the threat of a Russian invasion of Ukraine stirring concern across Europe, the talks in Geneva on Monday marked the start of a week of high-stakes diplomacy. 
- <p class="updated_time"> 06:18 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59935605?at_medium=RSS&at_campaign=KARANGA">Uganda schools reopen after almost two years of Covid closure</a> BBC: Authorities warn that at least 30% of pre-pandemic pupils may never return after such a long absence. 
  <p class="updated_time"> 06:17 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: The court ordered the government to release him from detention and restore a visa. But Australian officials suggested they may make a new attempt to cancel it. 
  <p class="updated_time"> 06:07 AM CT, Jan. 10 </p> 
@@ -67,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Hong Kong Party Angers a City Under Covid Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
  <p class="updated_time"> 09:39 PM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/china-names-xinjiang-counterterror-veteran-to-lead-troops-in-hong-kong-11641803969">China Names Former Xinjiang Commander to Lead Troops in Hong Kong</a> WSJ: China has named Peng Jingtang as the new chief of its army garrison in Hong Kong, continuing a string of hard-line appointments in the territory. 
- <p class="updated_time"> 09:30 PM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia and U.S. Meet to Begin Negotiations Over Ukraine</a> NYT: Before the two countries met amid rising tensions over Ukraine, a senior Russian official and the U.S. Secretary of State set a pessimistic tone. 
  <p class="updated_time"> 08:21 PM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-four-years-in-prison-in-second-verdict-11641796580">Myanmar's Aung San Suu Kyi Sentenced to Four Years in Prison in Second Verdict</a> WSJ: The country’s former civilian leader, whose government was overthrown in a military coup last year, is already serving a two-year sentence. 
  <p class="updated_time"> 06:39 PM CT, Jan. 09 </p> 
@@ -200,6 +200,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:29 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/10/dems-eye-voting-rights-fight-filibuster-changes-495660">Dems eye voting rights fight, filibuster changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:45 AM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/republicans-push-for-hand-counting-paper-ballots/index.html">GOP push for handing-counting paper ballots is latest effort to cast doubt on elections </a> CNN: After more than a year of baselessly questioning the results of the 2020 election, some Republicans are casting doubt on how ballots are counted, part of a broader movement inspired by former President Donald Trump's lies about election fraud that is undermining confidence in America's vote. 
+ <p class="updated_time"> 06:39 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia and U.S. Meet to Begin Negotiations Over Ukraine</a> NYT: Before the two countries met amid rising tensions over Ukraine, a senior Russian official and the U.S. secretary of state set a pessimistic tone. 
  <p class="updated_time"> 06:13 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/10/biden-faces-his-moment-on-the-filibuster-495658"> Biden faces his moment on the filibuster</a> Politico Playbook: And the Senate GOP plans a filibuster messaging push. 
  <p class="updated_time"> 05:30 AM CT, Jan. 10 </p> 
@@ -218,6 +222,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/us/politics/manchin-coal-miners.html">Manchin’s Choice on Build Back Better: Mine Workers or Mine Owners</a> NYT: Senator Joe Manchin III is caught between the mine workers’ union, which supports President Biden’s social policy and climate bill, and mine owners in his state who oppose it. 
  <p class="updated_time"> 11:18 PM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/joe-biden-voting-rights-democracy-russia-diplomacy/index.html">Biden confronts challenges to democracy at home and abroad this week</a> CNN: President Joe Biden's fresh vow to save democracy faces an immediate test at home and abroad this week, with a long-shot voting rights push and the most critical US diplomacy with Russia since the Cold War. 
+ <p class="updated_time"> 10:51 PM CT, Jan. 09 </p> 
+ <a href="https://www.cnn.com/2022/01/09/politics/jim-jordan-house-january-6-commitee/index.html">Rep. Jim Jordan indicates he won't meet with January 6 committee</a> CNN: Republican Rep. Jim Jordan of Ohio indicated he doesn't plan to cooperate with a request to meet to meet with the House select committee investigating January 6, according to a defiant letter he sent to committee Chair Bennie Thompson on Sunday. 
  <p class="updated_time"> 09:05 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/jim-jordan-jan-6-committees-interview-request-526816">Rep. Jim Jordan says he won’t cooperate with Jan. 6 committee’s interview request</a> Politico: HIs decision follows a similar rejection by Rep. Scott Perry, the only other lawmaker whose testimony the panel has requested so far. 
  <p class="updated_time"> 08:10 PM CT, Jan. 09 </p> 
@@ -225,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:22 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/new-york-city-apartment-fire-526811">19 dead, including 9 children, in New York City apartment fire</a> Politico: “It’s a tragedy beyond measure,” Mayor Eric Adams said. 
  <p class="updated_time"> 04:58 PM CT, Jan. 09 </p> 
- <a href="https://www.cnn.com/2022/01/09/politics/joe-manchin-biden-build-back-better/index.html">Is there a version of Biden's economic plan that Joe Manchin can support?</a> CNN: In 2009, Senate Democrats spent months courting Republican Charles Grassley in search of bipartisan support for the Affordable Care Act. By that September, President Barack Obama had lost patience. 
+ <a href="https://www.cnn.com/2022/01/09/politics/joe-manchin-biden-build-back-better/index.html">Analysis: Is there a version of Biden's economic plan Manchin can support?</a> CNN: In 2009, Senate Democrats spent months courting Republican Charles Grassley in search of bipartisan support for the Affordable Care Act. By that September, President Barack Obama had lost patience. 
  <p class="updated_time"> 04:48 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/child-covid-testing-winter-olympics-526810">China’s Tianjin testing all residents after Omicron found</a> Politico: China has stepped up its strict zero tolerance strategy in the run-up to the Winter Olympics, which open Feb. 4. 
  <p class="updated_time"> 03:54 PM CT, Jan. 09 </p> 
@@ -254,6 +260,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/09/politics/asa-hutchinson-biden-vaccine-mandate-supreme-court-cnntv/index.html">Arkansas governor says large businesses in state should not comply with Biden administration's 'oppressive vaccine mandate'</a> CNN: Arkansas Gov. Asa Hutchinson urged large businesses in the state not to comply with the Biden administration's Covid-19 vaccine mandate, saying employers should not follow the "oppressive" rule hours before the order is set to partially go into effect. 
  <p class="updated_time"> 10:01 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/ron-johnson-reelection-senate-wisconsin-526804">Ron Johnson to seek reelection to Senate</a> Politico: The Wisconsin Republican announced his decision in a Wall Street Journal column. 
+ <p class="updated_time"> 09:33 AM CT, Jan. 09 </p> 
+ <a href="https://www.cnn.com/2022/01/09/politics/ron-johnson-wisconsin-senate-reelection/index.html">Wisconsin Sen. Ron Johnson says he will run for re-election</a> CNN: Sen. Ron Johnson announced in an email on Sunday that he is running for reelection in Wisconsin, setting the stage for a tough campaign in a race that could determine control of the Senate. 
  <p class="updated_time"> 09:17 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/kazakhstan-164-killed-protests-526803">Kazakhstan says 164 killed in week of protests</a> Politico: President Kassym-Jomart Tokayev’s office said that order has stabilized in the country. 
  <p class="updated_time"> 09:08 AM CT, Jan. 09 </p> 
@@ -288,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071589603/congress-and-the-media-after-jan-6">Congress and the media after Jan. 6</a> NPR: NPR's Michel Martin speaks with Kadia Goba, political reporter for BuzzFeed News, and Paul Kane, senior congressional correspondent and columnist for The Washington Post, about covering Congress. 
  <p class="updated_time"> 03:55 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/us/mine-collapse-pennsylvania-fayette-county.html">Worker Killed in Pennsylvania Mine Collapse, State Officials Say</a> NYT: The fatal injury occurred when the mine’s roof fell onto equipment the miner was using, officials said. No one else was caught in the collapse. 
- <p class="updated_time"> 03:48 PM CT, Jan. 08 </p> 
- <a href="https://www.cnn.com/2022/01/08/politics/biden-russia-ukraine-potential-economic-sanctions/index.html">US sanctions on Russia would impose 'severe and overwhelming' economic costs, officials say</a> CNN: The US is prepared to impose a range of harsh economic penalties on Russia should it move to invade Ukraine, starting with high-impact targets that would impose "severe and overwhelming costs on Russia's economy," Biden administration officials tell CNN. 
  <p class="updated_time"> 02:06 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/us/politics/john-thune-senate-re-election.html">John Thune, No. 2 Senate Republican, Will Seek Re-election</a> NYT: The three-term South Dakotan had considered retiring because of family concerns and the continuing grip of former President Donald J. Trump on the Republican Party. 
  <p class="updated_time"> 01:09 PM CT, Jan. 08 </p> 
@@ -308,16 +314,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/08/politics/fact-check-jd-vance-capitol-charges/index.html">Fact check: J.D. Vance falsely claims dozens of jailed Capitol protesters haven't been charged with a crime</a> CNN: J.D. Vance, a Republican candidate for a US Senate seat in Ohio, is a law school graduate. But Vance made a significant false claim on Thursday about legal proceedings against people who allegedly participated in the Capitol insurrection last year. 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/08/civil-rights-leaders-see-a-turning-point-for-biden-495650"> Civil rights leaders see a turning point for Biden</a> Politico Playbook: And the Jan. 6 committee considers asking Mike Pence for an interview. 
- <p class="updated_time"> 09:00 AM CT, Jan. 08 </p> 
- <a href="https://www.cnn.com/2022/01/08/politics/supreme-court-covid-vaccine-mandate/index.html">Supreme Court ruling on mandates may depend on how the justices value vaccines</a> CNN: As the Supreme Court debated federal authority to impose a vaccine requirement on workers, the nine justices could not help but reveal their varying sentiments about the depth of America's Covid-19 pandemic and the value of vaccines. 
  <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071542880/president-bidens-on-the-road-to-atlanta-to-push-for-new-voting-rights-legislatio">President Biden's on the road to Atlanta to push for new voting rights legislation</a> NPR: President Biden is making a push for new voting rights legislation. But he faces an uphill battle with the public and Congress. 
  <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071542831/week-in-politics-russia-sends-troops-to-kazakhstan-jobs-up-jan-6-anniversary">Week in politics: Russia sends troops to Kazakhstan; jobs up; Jan. 6 anniversary</a> NPR: The unrest in Kazakhstan presents a fresh dilemma for President Biden. Also, what last month's low job creation numbers mean, and how Democrats are using the Jan. 6 riot to their advantage. 
  <p class="updated_time"> 06:00 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071239044/congress-may-change-this-arcane-law-to-avoid-another-jan-6">Congress may change this arcane law to avoid another Jan. 6</a> NPR: Lawmakers passed the Electoral Count Act in 1887 after a contested election, and experts say they did a "terrible job." There may now be bipartisan support for a refresh. 
- <p class="updated_time"> 09:54 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/andrew-cuomo-charge-dismissed/index.html">New York judge dismisses sole criminal charge faced by former governor Andrew Cuomo after sexual misconduct allegation</a> CNN: An Albany City Court judge on Friday dismissed a forcible touching complaint against former New York Gov. Andrew Cuomo, who briefly appeared virtually in court in his first public appearance since stepping down as governor. 
  <p class="updated_time"> 09:47 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-state-of-the-union.html">Biden to Deliver State of the Union Address on March 1</a> NYT: The date is later than usual and was set as the White House confronts an evolving pandemic and a stalled legislative agenda. 
  <p class="updated_time"> 09:04 PM CT, Jan. 07 </p> 
@@ -336,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/us/politics/jan-6-terrorism-explainer.html">Was the Jan. 6 Attack on the Capitol an Act of ‘Terrorism’?</a> NYT: A sharp rebuke of Senator Ted Cruz by the Fox News host Tucker Carlson has heightened a legal and semantic debate over a charged term. 
  <p class="updated_time"> 05:19 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/virginia-spencer-january-6-rioter-mom-brought-son-sentenced-to-jail/index.html">Mom who brought 14-year-old son to US Capitol riot sentenced to jail</a> CNN: A federal judge sentenced a US Capitol rioter who brought her teenage son along on January 6, 2021, to three months behind bars for illegally parading in the building. 
- <p class="updated_time"> 05:08 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/blinken-russia-talks/index.html">Blinken says talks with Russia on Ukraine crisis need to be a 'two-way street' to be successful</a> CNN: Secretary of State Antony Blinken said Friday that progress can be made during next week's diplomatic talks between US, European and Russian officials, but that it had to be a "two-way street" with Russia deescalating its aggression toward Ukraine. 
  <p class="updated_time"> 05:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/fbi-usb-hackers-warning/index.html">FBI warns cybercriminals have tried to hack US firms by mailing malicious USB drives</a> CNN: A prolific Eastern European cybercriminal group has tried to hack US companies in the transportation, defense and insurance sectors by mailing those organizations malicious USB drives, the FBI warned US businesses this week in an advisory obtained by CNN. 
  <p class="updated_time"> 04:44 PM CT, Jan. 07 </p> 
@@ -352,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
  <p class="updated_time"> 12:52 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071304780/supreme-court-arguments-biden-vaccine-testing-regulation">Supreme Court's conservatives cast cloud over vaccine-or-test mandate for businesses</a> NPR: Justices seemed more open to the vaccine mandate for almost all workers at hospitals, nursing homes, and other medical providers receiving federal Medicare and Medicaid funds. 
- <p class="updated_time"> 12:43 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/spyware-warning-cybersecurity.html">Biden Administration Warns Against Spyware Targeting Dissidents</a> NYT: The U.S. intelligence community offered steps that would mitigate — but not stop — spyware developed by firms like the NSO Group. 
  <p class="updated_time"> 12:37 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/voting-rights-electoral-count-john-lewis-act/index.html">Senate Democrats vow they'll pass voting rights legislation with or without Republicans. Here's what their proposals would do</a> CNN: Senate Majority Leader Chuck Schumer has set the stage for a showdown this month over voting rights -- pledging to muscle through sweeping new federal legislation aimed at counteracting moves by Republicans in state capitols to restrict access to the ballot. 
  <p class="updated_time"> 12:36 PM CT, Jan. 07 </p> 
@@ -408,6 +406,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/cdc-advisers-teen-pfizer-covid-booster-526572">CDC recommends all teens get Pfizer Covid booster</a> Politico: The advisory panel signed off on the recommendation following presentations by doctors suggesting boosters are likely to increase antibodies in young teens. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
+ <p class="updated_time"> 04:31 PM CT, Jan. 05 </p> 
+ <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
  <p class="updated_time"> 11:20 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/mcconnell-electoral-count-act-reform-526542">McConnell cracks door to Electoral Count Act reform</a> Politico: “It obviously has some flaws. And it is worth, I think, discussing,” the Senate minority leader said Wednesday. 
  <p class="updated_time"> 07:35 AM CT, Jan. 05 </p> 
