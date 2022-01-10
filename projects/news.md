@@ -344,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
  <p class="updated_time"> 03:01 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-military-kurilla.html">Biden Nominates Michael E. Kurilla to Lead Central Command</a> NYT: Lt. Gen. Michael E. Kurilla would take over as the United States tries to conduct operations in Afghanistan from afar. 
- <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
