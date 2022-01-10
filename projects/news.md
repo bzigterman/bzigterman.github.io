@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:31 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: U.S. and Russia Meet Amid Fears of War in Ukraine</a> NYT: With the threat of a Russian invasion of Ukraine stirring concern across Europe, the talks in Geneva on Monday marked the start of a week of high-stakes diplomacy. 
+ <p class="updated_time"> 08:30 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
+ <p class="updated_time"> 08:17 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59937510?at_medium=RSS&at_campaign=KARANGA">Spain: Badger thought to have found Roman treasure</a> BBC: Archaeologists discovered Roman coins outside the den of an animal next to a cave in northern Spain. 
  <p class="updated_time"> 08:04 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-59940258?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic's mother: We're here to celebrate our son's victory</a> BBC: Dijana Djokovic speaks at a press conference after her son Novak had his Australian visa reinstated. 
- <p class="updated_time"> 07:58 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: U.S. and Russia Meet Amid Fears of War in Ukraine</a> NYT: With the threat of a Russian invasion of Ukraine stirring concern across Europe, the talks in Geneva on Monday marked the start of a week of high-stakes diplomacy. 
  <p class="updated_time"> 07:58 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
  <p class="updated_time"> 07:53 AM CT, Jan. 10 </p> 
@@ -145,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071542887/russia-sent-troops-near-ukraine-and-to-kazakhstan-the-u-s-is-watching-and-waitin">Russia sent troops near Ukraine and to Kazakhstan. The U.S. is watching and waiting</a> NPR: The situation in Kazakhstan has implications for the stability of the region and for U.S. energy companies active in the Central Asian country. 
  <p class="updated_time"> 06:00 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/08/1062816001/top-global-tiktoks-of-2021-defiant-afghan-singer-kenyan-comic-walnut-cracking-el">Top global TikToks of 2021: Defiant Afghan singer, Kenya comic, walnut-cracking elbow</a> NPR: What did the world watch on TikTok last year? We round up some favorite videos — including a mukbang ASMR Thai star (don't worry, we explain it) and a potato chip-crunching Kenyan comedian. 
- <p class="updated_time"> 05:18 AM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
  <p class="updated_time"> 05:00 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/canada/blackberry-phone-service-ends.html">BlackBerry Phone Service Officially Ends</a> NYT: BlackBerry was once Canada’s most valuable company and a global force in tech. The final step in its downfall as a phone maker arrived this week. 
  <p class="updated_time"> 04:00 AM CT, Jan. 08 </p> 
