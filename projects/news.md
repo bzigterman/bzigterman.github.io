@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:00 AM CT, Jan. 10 </p> 
+ <p class="updated_time"> 05:17 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
  <p class="updated_time"> 04:42 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
@@ -198,14 +198,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:13 AM CT, Jan. 10 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/10/biden-faces-his-moment-on-the-filibuster-495658"> Biden faces his moment on the filibuster</a> Politico Playbook: And the Senate GOP plans a filibuster messaging push. 
+ <p class="updated_time"> 05:19 AM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
+ <p class="updated_time"> 05:00 AM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/us-fossil-fuel-emissions-coal-increased-2021-climate/index.html">Emissions from coal increased in 2021 for the first time in seven years, in bad news for Biden's climate goal</a> CNN: In a troublesome sign for President Joe Biden's climate goals, US greenhouse emissions rebounded from a pandemic slump faster in 2021 than the overall economy, according to a preliminary analysis by the nonpartisan Rhodium Group. 
  <p class="updated_time"> 04:30 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/jan-6-committee-ramps-up-state-level-investigation-526752">Jan. 6 panel ramps up investigation into Trump's state-level pressure</a> Politico: POLITICO has identified the information the committee has received from key swing states, as lawmakers prepare to take their findings public. 
  <p class="updated_time"> 04:30 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/fed-chief-powell-economy-challenge-526783">Powell was called on to save the economy. His next challenge will be even tougher.</a> Politico: Heightened frustration among Americans about soaring prices is fueling congressional pressure on the Fed chief over how the Fed will respond. 
+ <p class="updated_time"> 04:11 AM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US and Russia hold crunch talks over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 04:00 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/manchin-coal-miners.html">Manchin’s Choice on Build Back Better: Mine Workers or Mine Owners</a> NYT: Senator Joe Manchin III is caught between the mine workers’ union, which supports President Biden’s social policy and climate bill, and mine owners in his state who oppose it. 
- <p class="updated_time"> 10:51 PM CT, Jan. 09 </p> 
- <a href="https://www.cnn.com/2022/01/09/politics/jim-jordan-house-january-6-commitee/index.html">Rep. Jim Jordan indicates he won't meet with January 6 committee</a> CNN: Republican Rep. Jim Jordan of Ohio indicated he doesn't plan to cooperate with a request to meet to meet with the House select committee investigating January 6, according to a defiant letter he sent to committee Chair Bennie Thompson on Sunday. 
+ <p class="updated_time"> 11:18 PM CT, Jan. 09 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/joe-biden-voting-rights-democracy-russia-diplomacy/index.html">Biden confronts challenges to democracy at home and abroad this week</a> CNN: President Joe Biden's fresh vow to save democracy faces an immediate test at home and abroad this week, with a long-shot voting rights push and the most critical US diplomacy with Russia since the Cold War. 
  <p class="updated_time"> 09:05 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/jim-jordan-jan-6-committees-interview-request-526816">Rep. Jim Jordan says he won’t cooperate with Jan. 6 committee’s interview request</a> Politico: HIs decision follows a similar rejection by Rep. Scott Perry, the only other lawmaker whose testimony the panel has requested so far. 
  <p class="updated_time"> 06:22 PM CT, Jan. 09 </p> 
@@ -240,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/09/politics/asa-hutchinson-biden-vaccine-mandate-supreme-court-cnntv/index.html">Arkansas governor says large businesses in state should not comply with Biden administration's 'oppressive vaccine mandate'</a> CNN: Arkansas Gov. Asa Hutchinson urged large businesses in the state not to comply with the Biden administration's Covid-19 vaccine mandate, saying employers should not follow the "oppressive" rule hours before the order is set to partially go into effect. 
  <p class="updated_time"> 10:01 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/ron-johnson-reelection-senate-wisconsin-526804">Ron Johnson to seek reelection to Senate</a> Politico: The Wisconsin Republican announced his decision in a Wall Street Journal column. 
- <p class="updated_time"> 09:33 AM CT, Jan. 09 </p> 
- <a href="https://www.cnn.com/2022/01/09/politics/ron-johnson-wisconsin-senate-reelection/index.html">Wisconsin Sen. Ron Johnson says he will run for re-election</a> CNN: Sen. Ron Johnson announced in an email on Sunday that he is running for reelection in Wisconsin, setting the stage for a tough campaign in a race that could determine control of the Senate. 
  <p class="updated_time"> 09:17 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/kazakhstan-164-killed-protests-526803">Kazakhstan says 164 killed in week of protests</a> Politico: President Kassym-Jomart Tokayev’s office said that order has stabilized in the country. 
  <p class="updated_time"> 09:08 AM CT, Jan. 09 </p> 
@@ -254,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/09/1071663576/politics-chat-voting-rights-bills-stalled-midterm-considerations-sen-reid-dies">Politics chat: Voting rights bills stalled; midterm considerations; Sen. Reid dies</a> NPR: We look ahead to the fight over the two voting rights bills in Congress right now as well as how the 2022 political races are shaping up for the midterm elections. 
  <p class="updated_time"> 07:05 AM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071663527/the-story-of-january-6-goes-beyond-a-single-day">The story of January 6 goes beyond a single day</a> NPR: It's been a year since a mob supporting former President Donald Trump attacked the U.S. Capitol. We look at what we've learned about domestic extremism over the past year. 
- <p class="updated_time"> 07:01 AM CT, Jan. 09 </p> 
- <a href="https://www.cnn.com/2022/01/09/politics/national-guard-hospitals-omicron-covid-massachusetts/index.html">National Guard steps in to alleviate pressure on hospital overwhelmed by Omicron wave</a> CNN: An incoming tide of patients is slowly drowning UMass Memorial Medical Center, and the US military's National Guard is working to plug the gaps. In wave after daily wave, the emergency crews pull up to the ambulance bay, dropping off patients for which there is no room. 
  <p class="updated_time"> 07:00 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/joe-biden-takes-on-georgia-voting-526801">‘We are going right to the belly of the beast’: Biden takes on Georgia</a> Politico: Fresh off his Jan. 6 anniversary speech, the president and his top aides are trying to keep up the momentum for some legislative remedy. 
  <p class="updated_time"> 06:51 AM CT, Jan. 09 </p> 
@@ -272,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/08/politics/harry-reid-memorial/index.html">Biden eulogizes Reid as 'one of the greatest Senate Majority Leaders in history'</a> CNN: Former Senate Majority Leader Harry Reid will be remembered by a host of top Democratic politicians at his memorial service in Las Vegas on Saturday, with President Joe Biden speaking at the service and former President Barack Obama eulogizing the late senator. 
  <p class="updated_time"> 05:12 PM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071594389/biden-obama-harry-reid-at-memorial-funeral">Biden, Obama among those to eulogize Senate titan Harry Reid at memorial service</a> NPR: "In a town obsessed with appearances, Harry had a real vanity deficit. He didn't like phonies. He didn't like grandstanding. He was proud of the fact that he didn't own a tuxedo," said Obama. 
- <p class="updated_time"> 05:03 PM CT, Jan. 08 </p> 
- <a href="https://www.cnn.com/2022/01/08/politics/south-dakota-medication-abortions/index.html">South Dakota places further restrictions on medication abortions</a> CNN: Women in South Dakota who are seeking a medication abortion will face additional restrictions later this month after state lawmakers approved a new rule from the state's health department. 
  <p class="updated_time"> 04:14 PM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071589631/the-legacy-of-lani-guinier">The legacy of Lani Guinier</a> NPR: NPR's Michel Martin speaks with Spencer Overton, law professor at George Washington University Law School, about the legacy of Lani Guinier, a legal scholar in the field of voting rights. 
  <p class="updated_time"> 04:14 PM CT, Jan. 08 </p> 
