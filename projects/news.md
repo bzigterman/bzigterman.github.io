@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:48 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/kazakhstan-protests-detained-injured.html">Nearly 6,000 Detained Amid Unrest in Kazakhstan</a> NYT: Protests that began last weekend over a hike in fuel prices spread across the country, leaving at least 2,000 injured, government officials said. Dozens of deaths also appeared likely. 
  <p class="updated_time"> 01:16 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/asia/myanmar-aung-san-suu-kyi-verdict.html">Aung San Suu Kyi Gets 4 Years on Walkie-Talkie and Covid Charges</a> NYT: Myanmar’s ousted civilian leader was convicted on three more counts, which her defenders said were politically motivated. 
  <p class="updated_time"> 01:15 AM CT, Jan. 10 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released, but Other Royals Are Still Locked Up</a> NYT: The Saudi government has not said why it detained or freed Princess Basmah bint Saud, a daughter of a former king who has criticized the country’s policies. 
  <p class="updated_time"> 11:01 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/london-schools-covid-omicron.html">London Schools Are Determined to Stay Open. Staff Illnesses Make It Hard.</a> NYT: Schools across England are grappling with what it looks like to live with the pandemic as it enters its third year. Sound familiar? 
- <p class="updated_time"> 10:55 AM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/europe/kazakhstan-protests-detained-injured.html">Nearly 6,000 Detained Amid Unrest in Kazakhstan</a> NYT: Protests that began last weekend over a hike in fuel prices spread across the country, leaving at least 2,000 injured, government officials said. Dozens of deaths also appeared likely. 
  <p class="updated_time"> 10:21 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59927266?at_medium=RSS&at_campaign=KARANGA">Pakistan snow: Hundreds rescued from vehicles in deadly blizzard</a> BBC: Samina was one of thousands trapped in freezing conditions trying to reach the town of Murree. 
  <p class="updated_time"> 08:36 AM CT, Jan. 09 </p> 
