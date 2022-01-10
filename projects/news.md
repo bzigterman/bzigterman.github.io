@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:26 PM CT, Jan. 10 </p> 
+ <p class="updated_time"> 04:46 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
  <p class="updated_time"> 04:24 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in talks with US</a> BBC: In high-stakes talks, Russian officials tell their US counterparts they have no plans to invade Ukraine. 
@@ -45,10 +45,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59935998?at_medium=RSS&at_campaign=KARANGA">Covid pass protesters attack French MP Stéphane Claireaux with seaweed</a> BBC: Stéphane Claireaux likens the attack near his home in a French part of North America to a "stoning". 
  <p class="updated_time"> 11:45 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/white-cliffs-sicily-vandalism.html">Famed White Cliffs of Sicily Are Defaced in an Act of Vandalism</a> NYT: Vandals stained a cliff formation known as the Staircase of the Turks with red splotches over the weekend. Residents of a nearby town banded together for a successful cleanup. 
+ <p class="updated_time"> 11:43 AM CT, Jan. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia Talks Yield Little Overall Progress Amid Ukraine Crisis</a> WSJ: Negotiators for Washington and Moscow held their first security talks since Russia’s deployment of tens of thousands of troops to the Ukrainian border sparked fears of an invasion, but said they failed to narrow their differences. 
  <p class="updated_time"> 11:21 AM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/queen-elizabeths-platinum-jubilee-britain-plans-pomp-pudding-and-parties-11641819047">Queen Elizabeth's Platinum Jubilee: Britain Plans Pomp, 'Pudding' and Parties</a> WSJ: Buckingham Palace is pulling out the stops to celebrate the British monarch’s 70 years on the throne, with a bumper program of events and a four-day public holiday. 
- <p class="updated_time"> 11:07 AM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia Talks Yield Little Overall Progress Amid Ukraine Crisis</a> WSJ: Negotiators for Washington and Moscow held their first security talks since Russia’s deployment of tens of thousands of troops to the Ukrainian border sparked fears of an invasion, but said they failed to narrow their differences. 
  <p class="updated_time"> 10:05 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
  <p class="updated_time"> 09:53 AM CT, Jan. 10 </p> 
@@ -202,6 +202,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-at-home-covid-tests-reimbursement-526853">Biden administration lays out rules for reimbursing at-home Covid tests</a> Politico: Under the plan, private insurers can set up programs at preferred pharmacies or retailers where the upfront cost of home tests is covered for beneficiaries. 
+ <p class="updated_time"> 04:50 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
+ <p class="updated_time"> 04:49 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/business/income-tax-day-deadline.html">The I.R.S. Warns of Messy Tax Filing Season</a> NYT: The agency, which has been hobbled by paperwork backlogs and short staffing, said tax filers should expect a lower level of service this year. 
  <p class="updated_time"> 04:24 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/joe-biden-voting-rights/index.html">Biden facing pressure to deliver on voting rights ahead of Atlanta speech</a> CNN: Pressure is intensifying on President Joe Biden to articulate a plan to enact meaningful voter protections as a counter to strict new voting laws going into place around the nation after warning for the past year of nascent dangers to democracy. 
  <p class="updated_time"> 04:23 PM CT, Jan. 10 </p> 
@@ -230,10 +234,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/us/clay-aiken-congress.html">Clay Aiken, Former ‘American Idol’ Star, Announces Run for Congress</a> NYT: Mr. Aiken said he was running as a “loud and proud Democrat” for an open House seat in his native North Carolina this year. 
  <p class="updated_time"> 02:56 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-photos-prisoners.html">20 Years Later, the Story Behind the Guantánamo Photo That Won’t Go Away</a> NYT: On Jan. 11, 2002, a sailor photographed 20 men in orange uniforms and on their knees, capturing one of the most damning post-9/11 images of U.S. detention policy. 
- <p class="updated_time"> 02:47 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
- <p class="updated_time"> 02:34 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/business/income-tax-day-deadline.html">The I.R.S. Warns of Messy Tax Filing Season</a> NYT: The agency, which has been hobbled by paperwork backlogs and short staffing, said tax filers should expect a lower level of service this year. 
  <p class="updated_time"> 02:25 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US says no breakthrough in 'frank and forthright' talks with Russia over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 02:14 PM CT, Jan. 10 </p> 
