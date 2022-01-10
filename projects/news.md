@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:54 AM CT, Jan. 10 </p> 
+ <p class="updated_time"> 08:04 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59940258?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic's mother: We're here to celebrate our son's victory</a> BBC: Dijana Djokovic speaks at a press conference after her son Novak had his Australian visa reinstated. 
+ <p class="updated_time"> 07:58 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: U.S. and Russia Meet Amid Fears of War in Ukraine</a> NYT: With the threat of a Russian invasion of Ukraine stirring concern across Europe, the talks in Geneva on Monday marked the start of a week of high-stakes diplomacy. 
+ <p class="updated_time"> 07:58 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
  <p class="updated_time"> 07:53 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: Australian officials hinted they may make a new attempt to cancel Djokovic’s visa, even as the tennis champion, freed from detention, returned to the court. 
  <p class="updated_time"> 07:46 AM CT, Jan. 10 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/10/1070854970/in-wahala-intimacy-at-times-morphs-into-enmity">In 'Wahala,' intimacy at times morphs into enmity</a> NPR: Nikki May's novel captures issues of modern city living: women's evolving roles in home and work, interracial relationships, multicultural identity, and competition that runs under many friendship. 
  <p class="updated_time"> 06:26 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071785531/on-covid-vaccinations-pope-says-health-care-is-a-moral-obligation">On COVID vaccinations, Pope says health care is a 'moral obligation'</a> NPR: Francis says individuals have a responsibility to care for themselves "and this translates into respect for the health of those around us." 
- <p class="updated_time"> 06:07 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
  <p class="updated_time"> 06:00 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59915690?at_medium=RSS&at_campaign=KARANGA">Past seven years hottest on record - EU satellite data</a> BBC: Analysis shows 2021 was the fifth-warmest with record-breaking temperatures in some regions. 
  <p class="updated_time"> 06:00 AM CT, Jan. 10 </p> 
@@ -51,14 +53,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/world/europe/ukraine-russia-negotiations.html">As Russia and U.S. Debate Ukraine, Ukraine Would Like a Say</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
  <p class="updated_time"> 02:51 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-europe-ukraine-nato.html">U.S. and Russia Will Discuss European Security, but Without Europeans</a> NYT: The coming talks in Geneva are bilateral, reviving old fears that the two Cold War powers will forge a deal on their own. 
- <p class="updated_time"> 02:05 AM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/putin-defends-sending-russian-troops-to-kazakhstan-11641819905">Putin Defends Sending Russian Troops to Kazakhstan</a> WSJ: Russian President Vladimir Putin told a meeting of leaders of a Moscow-led security bloc that order was returning to Kazakhstan after troops from the Collective Security Treaty Organization poured into the country to secure airports and key government buildings. 
  <p class="updated_time"> 02:00 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/rum-isle-scotland-hebrides.html">As Its Population Soars to 40, Rum Isle Glimpses a Future in the Mist</a> NYT: With four new families recently arriving, the remote and rainy island in the Hebrides is experiencing its version of a population surge, although residents new and old concede living here isn’t easy. 
  <p class="updated_time"> 01:50 AM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/queen-elizabeths-platinum-jubilee-britain-plans-pomp-pudding-and-parties-11641819047">Queen Elizabeth's Platinum Jubilee: Britain Plans Pomp, 'Pudding' and Parties</a> WSJ: Buckingham Palace is pulling out the stops to celebrate the British monarch’s 70 years on the throne, with a bumper program of events and a four-day public holiday. 
  <p class="updated_time"> 01:48 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/kazakhstan-protests-detained-injured.html">Nearly 6,000 Detained Amid Unrest in Kazakhstan</a> NYT: Protests that began last weekend over a hike in fuel prices spread across the country, leaving at least 2,000 injured, government officials said. Dozens of deaths also appeared likely. 
+ <p class="updated_time"> 01:19 AM CT, Jan. 10 </p> 
+ <a href="https://www.wsj.com/articles/novak-djokovic-to-be-released-from-detention-in-australia-after-legal-victory-11641798160">Djokovic Released From Detention After Legal Victory</a> WSJ: Decision to overturn Australian authorities’ cancellation of his visa opens the door for the No. 1 men’s tennis player to compete in the Australian Open. 
  <p class="updated_time"> 01:11 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071761247/djokovics-visa-reinstated-but-australian-open-status-unclear">Djokovic's visa is reinstated but his Australian Open status remains unclear</a> NPR: Australia's immigration minister could still "exercise a personal power of cancelation," which would mean mean Djokovic could face deportation again and miss the tournament, which starts on Jan. 17 
  <p class="updated_time"> 12:55 AM CT, Jan. 10 </p> 
@@ -127,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/asia/australia-djokovic-refugees-hotel.html">Djokovic Stay at Park Hotel Highlights Australia Asylum Seeker Plight</a> NYT: The tennis star is quarantining in a Melbourne hotel where asylum seekers have been held for over a year, under a program that has been widely criticized. 
  <p class="updated_time"> 12:08 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/business/teslas-computer-chips-supply-chain.html">Why Tesla Soared as Other Automakers Struggled to Make Cars</a> NYT: The yawning disparity between the performance of the electric car company and established automakers last year reflects the technological change roiling the industry. 
- <p class="updated_time"> 11:15 AM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59924477?at_medium=RSS&at_campaign=KARANGA">Heavy snow leaves many dead in northern Pakistan</a> BBC: Would-be tourists travelled to Murree to see snow but around 1,000 cars became stranded in a blizzard. 
  <p class="updated_time"> 11:09 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071565479/turkmenistan-gates-of-hell-fire">Turkmenistan's leader wants 'Gates of Hell' fire put out</a> NPR: The president of Turkmenistan is calling for an end to one of the country's most notable but infernal sights — a natural gas crater that has burned for decades. 
  <p class="updated_time"> 09:30 AM CT, Jan. 08 </p> 
@@ -242,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/us/politics/ron-johnson-senate-wisconsin.html">Ron Johnson, G.O.P. Senator From Wisconsin, Will Seek Re-election</a> NYT: The renewed bid for office by Mr. Johnson, who has spread many false claims about the 2020 election and Covid, ensures that both parties will be highly invested in Wisconsin’s 2022 Senate race. 
  <p class="updated_time"> 12:54 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/georgia-secretary-of-state-voting-526808">Georgia secretary of state speaks of election integrity</a> Politico: Brad Raffensperger addressed the topic of voting rights before President Joe Biden’s visit to his state this week. 
- <p class="updated_time"> 11:50 AM CT, Jan. 09 </p> 
- <a href="https://www.politico.com/news/2022/01/09/lightfoot-chicago-teachers-deal-abandoned-526807">Lightfoot says teachers union 'abandoned their posts,' remains 'hopeful' deal can be reached</a> Politico: Chicago’s mayor said she wants to make sure that children get back to school. 
  <p class="updated_time"> 11:17 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/mike-rounds-trump-election-republicans-526806">GOP senator says Trump’s election allegations are unfounded</a> Politico: “The election was fair, as fair as we have seen,” Mike Rounds said. 
  <p class="updated_time"> 11:07 AM CT, Jan. 09 </p> 
@@ -342,6 +340,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
  <p class="updated_time"> 03:01 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-military-kurilla.html">Biden Nominates Michael E. Kurilla to Lead Central Command</a> NYT: Lt. Gen. Michael E. Kurilla would take over as the United States tries to conduct operations in Afghanistan from afar. 
+ <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
+ <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
