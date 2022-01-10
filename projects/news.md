@@ -262,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/us/mine-collapse-pennsylvania-fayette-county.html">Worker Killed in Pennsylvania Mine Collapse, State Officials Say</a> NYT: The fatal injury occurred when the mine’s roof fell onto equipment the miner was using, officials said. No one else was caught in the collapse. 
  <p class="updated_time"> 03:48 PM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/biden-russia-ukraine-potential-economic-sanctions/index.html">US sanctions on Russia would impose 'severe and overwhelming' economic costs, officials say</a> CNN: The US is prepared to impose a range of harsh economic penalties on Russia should it move to invade Ukraine, starting with high-impact targets that would impose "severe and overwhelming costs on Russia's economy," Biden administration officials tell CNN. 
- <p class="updated_time"> 03:07 PM CT, Jan. 08 </p> 
- <a href="https://www.politico.com/news/2022/01/08/us-discuss-missiles-military-exercises-ukraine-526800">U.S. to discuss missiles in Ukraine and military exercises with Russians, officials say</a> Politico: The U.S. will arrive in Europe ready to dial down tensions, but how seriously Russia wants to deal is anyone's guess. 
  <p class="updated_time"> 02:06 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/us/politics/john-thune-senate-re-election.html">John Thune, No. 2 Senate Republican, Will Seek Re-election</a> NYT: The three-term South Dakotan had considered retiring because of family concerns and the continuing grip of former President Donald J. Trump on the Republican Party. 
  <p class="updated_time"> 01:09 PM CT, Jan. 08 </p> 
