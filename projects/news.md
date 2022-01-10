@@ -187,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/americas/luiza-trajano-brazil-magalu-racism.html">Billionaire’s Star Rises as She Takes Bold Stance on Racism in Brazil</a> NYT: Luiza Trajano turned a small family store into a retail giant. Now, a company policy limiting its executive training program to Black applicants is drawing praise, outrage and much soul-searching. 
  <p class="updated_time"> 11:49 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59901094?at_medium=RSS&at_campaign=KARANGA">Djokovic stay highlights refugee concerns at Melbourne detention hotel</a> BBC: People held at the detention hotel have complained of mouldy food and poor conditions. 
- <p class="updated_time"> 08:32 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-beijing-olympics.html">North Korea Says It Will Skip Beijing Olympics Because of the Pandemic</a> NYT: The country also blamed “hostile forces” for its decision not to send a delegation to China, its closest ally. 
 
 
 </details>
