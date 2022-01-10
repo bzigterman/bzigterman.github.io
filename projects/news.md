@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:16 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
  <p class="updated_time"> 12:01 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 11:56 AM CT, Jan. 10 </p> 
@@ -14,11 +16,9 @@ permalink: /projects/news/
  <p class="updated_time"> 11:55 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/putin-russia-kazakhstan.html">Russian Troops Will Stay to Finish Job in Kazakhstan, Putin Says</a> NYT: Blaming “internal and external forces” for the unrest in the resource-rich Central Asian country, President Vladimir V. Putin of Russia set no deadline for the withdrawal of the forces his country sent there. 
  <p class="updated_time"> 11:49 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59935998?at_medium=RSS&at_campaign=KARANGA">Covid pass protesters attack French MP Stéphane Claireaux with seaweed</a> BBC: Stéphane Claireaux compared the attack outside his home in St Pierre and Miquelon to a "stoning". 
+ <a href="https://www.bbc.co.uk/news/world-europe-59935998?at_medium=RSS&at_campaign=KARANGA">Covid pass protesters attack French MP Stéphane Claireaux with seaweed</a> BBC: Stéphane Claireaux likens the attack near his home in a French part of North America to a "stoning". 
  <p class="updated_time"> 11:45 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/famed-white-cliffs-of-sicily-are-defaced-in-an-act-of-vandalism.html">Famed White Cliffs of Sicily Are Defaced in an Act of Vandalism</a> NYT: Vandals stained a cliff formation known as the Staircase of the Turks with red splotches over the weekend. Residents of a nearby town banded together for a successful cleanup. 
- <p class="updated_time"> 11:39 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
  <p class="updated_time"> 11:24 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
  <p class="updated_time"> 10:05 AM CT, Jan. 10 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/treasury-tax-filing-season-526833">Treasury warns taxpayers to brace for a turbulent tax filing season</a> Politico: The IRS is still dealing with backups in processing returns from the past two filing seasons. 
  <p class="updated_time"> 12:22 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/wisconsin-gop-election-review-526827">Wisconsin judge lets GOP-led election review continue</a> Politico: State Attorney General Josh Kaul's bid to undercut the probe was denied by a judge in Dane County. 
+ <p class="updated_time"> 11:55 AM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/worldview-weekend-foundation-tax-status-irs-invs/index.html">Foundation behind network pushing election and coronavirus conspiracies had its tax-exempt status revoked. It still solicits donations </a> CNN: An online media network that promotes election and coronavirus-related conspiracy theories is soliciting donations and telling donors their contributions will be tax-deductible -- even though its foundation's tax-exempt status has been revoked by the IRS. 
  <p class="updated_time"> 11:40 AM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US says no breakthrough in 'frank and forthright' talks with Russia over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 11:07 AM CT, Jan. 10 </p> 
@@ -268,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/09/politics/antony-blinken-russia-ukraine-cnntv/index.html">Blinken does not expect to see breakthroughs in talks with Russia this week</a> CNN: Secretary of State Antony Blinken says he doesn't expect to see any breakthroughs in the meetings with Russia this week, reiterating that while the US is prepared to listen to Moscow's concerns, it will be hard to achieve any progress unless Russia de-escalates tensions on the border with Ukraine. 
  <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
- <p class="updated_time"> 10:13 AM CT, Jan. 09 </p> 
- <a href="https://www.cnn.com/2022/01/09/politics/asa-hutchinson-biden-vaccine-mandate-supreme-court-cnntv/index.html">Arkansas governor says large businesses in state should not comply with Biden administration's 'oppressive vaccine mandate'</a> CNN: Arkansas Gov. Asa Hutchinson urged large businesses in the state not to comply with the Biden administration's Covid-19 vaccine mandate, saying employers should not follow the "oppressive" rule hours before the order is set to partially go into effect. 
  <p class="updated_time"> 09:33 AM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/ron-johnson-wisconsin-senate-reelection/index.html">Wisconsin Sen. Ron Johnson says he will run for re-election</a> CNN: Sen. Ron Johnson announced in an email on Sunday that he is running for reelection in Wisconsin, setting the stage for a tough campaign in a race that could determine control of the Senate. 
  <p class="updated_time"> 09:08 AM CT, Jan. 09 </p> 
