@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:47 AM CT, Jan. 10 </p> 
+ <p class="updated_time"> 05:52 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: U.S. and Russia Meet Amid Fears of War in Ukraine</a> NYT: With the threat of a Russian invasion of Ukraine stirring concern across Europe, the talks in Geneva on Monday marked the start of a week of high-stakes diplomacy. 
  <p class="updated_time"> 05:17 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
@@ -17,6 +17,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59900738?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest was coup attempt, says president</a> BBC: President Tokayev says a hunt for "terrorists" is continuing and Kazakhstan will soon provide proof. 
  <p class="updated_time"> 04:21 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59937221?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic supporters surround car in Melbourne</a> BBC: Crowds chanting "free Novak" surround a black car leaving the offices of the player's lawyer. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/health-59911257?at_medium=RSS&at_campaign=KARANGA">Covid-19: Common cold may give some protection, study suggests</a> BBC: Researchers say immune cells made to defend the body against some colds could help stave off Covid. 
+ <p class="updated_time"> 03:23 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59935647?at_medium=RSS&at_campaign=KARANGA">Man arrested for bomb threat at Doja Cat concert</a> BBC: The man phoned in a bomb threat in an attempt to jump the queue at a free show in Indianaopolis. 
  <p class="updated_time"> 03:13 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: The court ordered the government to release him from detention and restore a visa. But Australian officials suggested they may make a new attempt to cancel it. 
  <p class="updated_time"> 03:13 AM CT, Jan. 10 </p> 
@@ -69,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59932113?at_medium=RSS&at_campaign=KARANGA">Bronx fire: 'A horrific, painful moment ' says New York City Mayor Eric Adams</a> BBC: At least 19 people, including nine children, have died after a fire in the Bronx. 
  <p class="updated_time"> 04:09 PM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071706554/canadas-covid-testing-crisis">Canada's COVID testing crisis</a> NPR: Canada has reported COVID-19 case numbers in recent days many times higher than it has seen at any other point during the pandemic. Demand has overwhelmed testing capacity in much of the country. 
- <p class="updated_time"> 03:08 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/sport/africa/59930242?at_medium=RSS&at_campaign=KARANGA">Afcon 2021: Cameroon beat Burkina Faso 2-1 before Cape Verde see off Ethiopia</a> BBC: Hosts Cameroon come from behind to beat Burkina Faso in an absorbing opening game at the Africa Cup of Nations before Cape Verde beat Ethiopia. 
  <p class="updated_time"> 02:14 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/americas/brazil-cliff-collapses.html">Cliff Collapses on Boaters in Brazil, Killing 10</a> NYT: The tragedy in Minas Gerais state gripped the nation because it was captured on videos that showed an immense slab of rock smashing into pleasure boats. 
  <p class="updated_time"> 02:07 PM CT, Jan. 09 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/europe/nato-russia-ukraine.html">NATO Vows United Response to Russian Aggression Against Ukraine</a> NYT: Foreign ministers from the alliance, meeting Friday, hope that Moscow will choose diplomacy and de-escalation instead, amid skepticism that Russia is sincere in wanting substantive talks. 
  <p class="updated_time"> 02:07 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/covid-flight-italy-india.html">Covid Tests Probed After 100s on 2 Italy-India Flights Test Positive </a> NYT: Some 300 passengers on two flights who tested positive for the coronavirus upon landing in the northern city of Amritsar are being retested. 
- <p class="updated_time"> 12:45 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59916946?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier was a ground-breaking black man - Bonnie Greer</a> BBC: Playwright Bonnie Greer pays tribute to the acting legend Sidney Poitier, who has died at the age of 94. 
  <p class="updated_time"> 12:43 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/spyware-warning-cybersecurity.html">Biden Administration Warns Against Spyware Targeting Dissidents</a> NYT: The U.S. intelligence community offered steps that would mitigate — but not stop — spyware developed by firms like the NSO Group. 
  <p class="updated_time"> 12:06 PM CT, Jan. 07 </p> 
