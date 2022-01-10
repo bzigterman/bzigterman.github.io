@@ -4,7 +4,7 @@ Eastern,BKN,25,13,.658
 Eastern,MIA,25,15,.625
 Eastern,MIL,26,16,.619
 Eastern,PHI,22,16,.579
-Eastern,CLE,22,17,.564
+Eastern,CLE,22,18,.550
 Eastern,TOR,20,17,.541
 Eastern,CHA,21,19,.525
 Eastern,WAS,20,20,.500
@@ -14,8 +14,8 @@ Eastern,ATL,17,22,.436
 Eastern,IND,15,25,.375
 Eastern,DET,8,30,.211
 Eastern,ORL,7,34,.171
+Western,GSW,30,9,.769
 Western,PHX,30,9,.769
-Western,GSW,29,9,.763
 Western,UTA,28,12,.700
 Western,MEM,27,14,.659
 Western,DAL,22,18,.550
