@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Shutdown. What Was the Cost?</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
  <p class="updated_time"> 03:13 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: The court ordered the government to release him from detention and restore a visa. But Australian officials suggested they may make a new attempt to cancel it. 
  <p class="updated_time"> 03:13 AM CT, Jan. 10 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/europe/italian-mafia-fugitive-google-maps.html">Italian Mafia Fugitive Caught In Spain Thanks to Google Maps</a> NYT: Investigators had tracked the man to a town in Spain, and an image found online confirmed that the police were on the right track. 
  <p class="updated_time"> 05:22 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
- <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/americas/luiza-trajano-brazil-magalu-racism.html">Billionaire’s Star Rises as She Takes Bold Stance on Racism in Brazil</a> NYT: Luiza Trajano turned a small family store into a retail giant. Now, a company policy limiting its executive training program to Black applicants is drawing praise, outrage and much soul-searching. 
 
 
 </details>
@@ -192,6 +192,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/jan-6-committee-ramps-up-state-level-investigation-526752">Jan. 6 panel ramps up investigation into Trump's state-level pressure</a> Politico: POLITICO has identified the information the committee has received from key swing states, as lawmakers prepare to take their findings public. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/manchin-coal-miners.html">Manchin’s Choice on Build Back Better: Mine Workers or Mine Owners</a> NYT: Senator Joe Manchin III is caught between the mine workers’ union, which supports President Biden’s social policy and climate bill, and mine owners in his state who oppose it. 
  <p class="updated_time"> 10:51 PM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/jim-jordan-house-january-6-commitee/index.html">Rep. Jim Jordan indicates he won't meet with January 6 committee</a> CNN: Republican Rep. Jim Jordan of Ohio indicated he doesn't plan to cooperate with a request to meet to meet with the House select committee investigating January 6, according to a defiant letter he sent to committee Chair Bennie Thompson on Sunday. 
  <p class="updated_time"> 09:05 PM CT, Jan. 09 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-colorado-fires.html">Biden Consoles Residents in Fire-Ravaged Colorado</a> NYT: The president said the devastation caused by natural disasters rooted in climate change was “a blinking ‘code red’ for our nation.” 
  <p class="updated_time"> 08:36 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/lani-guinier-dies/index.html">Lani Guinier, voting rights champion and former assistant attorney general nominee, dies at 71</a> CNN: Lani Guinier, a legal scholar and champion for voting rights who was once nominated to be assistant attorney general by then-President Bill Clinton, died on Friday, her cousin, Sherrie Russell-Brown, confirmed to CNN. She was 71. 
- <p class="updated_time"> 07:42 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-vaccine-mandate-supreme-court.html">Conservative Majority on Supreme Court Appears Skeptical of Biden's Vaccine Plan</a> NYT: The court seemed more likely to sustain a separate requirement that health care workers at facilities that receive federal money be vaccinated. 
  <p class="updated_time"> 07:26 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/jan-6-investigators-pence-interview-526790">Jan. 6 investigators eyeing Pence interview this month</a> Politico: Pence was the target of an intense pressure campaign to single-handedly overturn the election results on Jan. 6, 2021. 
  <p class="updated_time"> 07:08 PM CT, Jan. 07 </p> 
