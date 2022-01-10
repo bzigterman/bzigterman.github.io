@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:25 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
  <p class="updated_time"> 02:10 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/cladding-grenfell-uk.html">Britain Puts Onus on Developers to Pay to Fix Fire Safety Issues</a> NYT: After a deadly high-rise blaze in 2017, countless instances of unsafe building practices came to light. The latest plan to fix them expands who will be covered. 
  <p class="updated_time"> 01:50 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59945850?at_medium=RSS&at_campaign=KARANGA">Millionaire murderer Robert Durst dies in prison</a> BBC: The real estate heir turned fugitive unwittingly confessed to three killings on a TV crime show. 
  <p class="updated_time"> 01:45 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
- <p class="updated_time"> 01:44 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
  <p class="updated_time"> 01:40 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in Geneva talks</a> BBC: Russian officials tells their US counterparts that they have no plans to invade Ukraine. 
  <p class="updated_time"> 01:28 PM CT, Jan. 10 </p> 
@@ -106,7 +106,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:37 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Hong Kong Party Angers a City Under Covid Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
  <p class="updated_time"> 09:39 PM CT, Jan. 09 </p> 
- <a href="https://www.wsj.com/articles/china-names-xinjiang-counterterror-veteran-to-lead-troops-in-hong-kong-11641803969">China Names Former Xinjiang Commander to Lead Troops in Hong Kong</a> WSJ: China has named Peng Jingtang as the new chief of its army garrison in Hong Kong, continuing a string of hard-line appointments in the territory. 
+ <a href="https://www.wsj.com/articles/china-names-xinjiang-counterterror-veteran-to-lead-troops-in-hong-kong-11641803969">China Names Hard-Liner to Lead Troops in Hong Kong</a> WSJ: China has named Peng Jingtang as the new chief of its army garrison in Hong Kong, continuing a string of hard-line appointments in the territory. 
  <p class="updated_time"> 06:39 PM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071703878/us-russia-ukraine-talks-geneva">Neither side is optimistic ahead of U.S.-Russia talks over Ukraine</a> NPR: The U.S. and its European allies want Russia to reduce troop buildup along the Ukraine border. Russia wants U.S. troops out of Eastern Europe. Both sides say those demands are non-starters. 
  <p class="updated_time"> 06:03 PM CT, Jan. 09 </p> 
@@ -204,6 +204,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:00 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/trump-immunity-jan-6-526839">Trump claims sweeping immunity for Jan. 6 actions as he fends off lawsuits from lawmakers, police</a> Politico: Lawyers are claiming presidential duties are ‘all encompassing’ so Trump can’t be sued for what he said Jan. 6 
+ <p class="updated_time"> 02:34 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/business/income-tax-day-deadline.html">The I.R.S. Warns of Messy Tax Filing Season</a> NYT: The agency, which has been hobbled by paperwork backlogs and short staffing, said tax filers should expect a lower level of service this year. 
+ <p class="updated_time"> 02:25 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US says no breakthrough in 'frank and forthright' talks with Russia over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 02:14 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/new-quarter-treasury-maya-angelou-526836">Treasury begins distribution of quarter featuring poet, activist Maya Angelou</a> Politico: The poet and activist is the first Black woman to appear on a U.S. quarter. 
  <p class="updated_time"> 02:13 PM CT, Jan. 10 </p> 
@@ -214,12 +218,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/business/media/symone-sanders-msnbc.html">Symone Sanders, a Strategist for Biden and Harris, Is Joining MSNBC</a> NYT: Ms. Sanders, 32, will host a weekend show on the cable network, one of the first big programming moves by MSNBC’s president, Rashida Jones. 
  <p class="updated_time"> 01:32 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/clay-aiken-congress.html">Former ‘American Idol’ Star Clay Aiken Announces Run for Congress</a> NYT: Mr. Aiken said he was running as a “loud and proud Democrat” for an open House seat in his native North Carolina this year. 
- <p class="updated_time"> 01:28 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/business/income-tax-day-deadline.html">The I.R.S. is warning of a messy tax season.</a> NYT: The agency, which has been hobbled by paperwork backlogs and short staffing, said tax filers should expect a lower level of service this year. 
  <p class="updated_time"> 01:17 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
- <p class="updated_time"> 12:58 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US says no breakthrough in 'frank and forthright' talks with Russia over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 12:55 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/treasury-tax-filing-season-526833">Treasury warns taxpayers to brace for a turbulent tax filing season</a> Politico: The IRS is still dealing with backups in processing returns from the past two filing seasons. 
  <p class="updated_time"> 12:52 PM CT, Jan. 10 </p> 
