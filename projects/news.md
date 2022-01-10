@@ -35,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59932429?at_medium=RSS&at_campaign=KARANGA">Bob Saget: US actor and comedian found dead aged 65</a> BBC: The Full House star was found dead in his hotel room in Orlando, where he was on tour, police say. 
  <p class="updated_time"> 10:37 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Hong Kong Party Angers a City Under Covid Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
+ <p class="updated_time"> 09:39 PM CT, Jan. 09 </p> 
+ <a href="https://www.wsj.com/articles/china-names-xinjiang-counterterror-veteran-to-lead-troops-in-hong-kong-11641803969">China Names Xinjiang Counterterror Veteran to Lead Troops In Hong Kong</a> WSJ: China has named Peng Jingtang as the new chief of its army garrison in Hong Kong, continuing a string of hard-line appointments in the territory. 
  <p class="updated_time"> 09:30 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia and U.S. Meet to Begin Negotiations Over Ukraine</a> NYT: Before the two countries met amid rising tensions over Ukraine, a senior Russian official and the U.S. Secretary of State set a pessimistic tone. 
  <p class="updated_time"> 08:59 PM CT, Jan. 09 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/russia-readies-scores-of-transport-planes-as-troops-pour-into-kazakhstan-11641733219">Russia Readies Planes to Pour More Troops Into Kazakhstan</a> WSJ: Moscow said it had prepared more than 75 aircraft to allow for continuous deployment of forces to help Kazakh authorities reassert control following days of sometimes violent protests. 
  <p class="updated_time"> 05:34 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59928697?at_medium=RSS&at_campaign=KARANGA">Kazakhstan: 'Growing suggestion violence linked to power struggle'</a> BBC: There are growing suggestions violence in Kazakhstan is linked to a power struggle within the ruling elite, the BBC's Steve Rosenberg reports from the capital. 
- <p class="updated_time"> 05:26 AM CT, Jan. 09 </p> 
- <a href="https://www.wsj.com/articles/beijing-watches-civil-unrest-in-kazakhstan-with-wary-eye-11641745593">Beijing Watches Civil Unrest in Kazakhstan With Wary Eye</a> WSJ: China has much to lose should violence in its neighboring country dissolve into civil war, but for now, it is largely sitting on the sidelines as Moscow handles the task of suppressing dissent. 
  <p class="updated_time"> 10:45 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/chicago-shools-teachers-union-lightfoot.html">Chicago's Mayor Rejects Union's Terms for Returning to School</a> NYT: The standoff between educators and the city’s government shows no signs of abating. 
  <p class="updated_time"> 10:37 PM CT, Jan. 08 </p> 
@@ -98,7 +98,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:17 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59925880?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Serbs give their reaction to Australia vaccine exemption row</a> BBC: Serbs in Belgrade have been giving their reactions to Novak Djokovic's vaccine exemption row. 
  <p class="updated_time"> 06:13 PM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59908442?at_medium=RSS&at_campaign=KARANGA">Afcon Cameroon 2022: Playing football in the shadow of a rebellion</a> BBC: Africa's top football tournament is about to start in Cameroon, despite a bitter four-year conflict. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59908442?at_medium=RSS&at_campaign=KARANGA">Afcon Cameroon: Playing football in the shadow of a rebellion</a> BBC: Africa's top football tournament is about to start in Cameroon, despite a bitter four-year conflict. 
  <p class="updated_time"> 06:13 PM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071604907/a-wall-of-rock-fell-on-boaters-in-a-brazilian-lake-killing-6">Death toll rises to 10 after a wall of rock fell on boaters in a Brazilian lake</a> NPR: A towering slab of rock broke from a cliff and toppled onto pleasure boaters drifting near a waterfall in a Brazilian lake Saturday. Dozens were injured. 
  <p class="updated_time"> 03:54 PM CT, Jan. 08 </p> 
