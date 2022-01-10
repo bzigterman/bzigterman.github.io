@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:36 AM CT, Jan. 10 </p> 
+ <p class="updated_time"> 12:56 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Australia Court Hears Novak Djokovic's Appeal</a> NYT: The  court ordered the government to release him from detention and restore a visa. 
+ <p class="updated_time"> 12:45 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59900500?at_medium=RSS&at_campaign=KARANGA">Golden Globes: West Side Story and The Power of the Dog win at subdued event</a> BBC: Steven Spielberg's remake of the classic film was among the big winners at Sunday's event in LA. 
  <p class="updated_time"> 12:16 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/asia/myanmar-aung-san-suu-kyi-verdict.html">Aung San Suu Kyi Gets 4 Years on Walkie-Talkie and Covid Charges</a> NYT: Myanmar’s ousted civilian leader was convicted on three more counts, which her defenders said were politically motivated. 
  <p class="updated_time"> 12:00 AM CT, Jan. 10 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59928697?at_medium=RSS&at_campaign=KARANGA">Kazakhstan: 'Growing suggestion violence linked to power struggle'</a> BBC: There are growing suggestions violence in Kazakhstan is linked to a power struggle within the ruling elite, the BBC's Steve Rosenberg reports from the capital. 
  <p class="updated_time"> 05:26 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/beijing-watches-civil-unrest-in-kazakhstan-with-wary-eye-11641745593">Beijing Watches Civil Unrest in Kazakhstan With Wary Eye</a> WSJ: China has much to lose should violence in its neighboring country dissolve into civil war, but for now, it is largely sitting on the sidelines as Moscow handles the task of suppressing dissent. 
- <p class="updated_time"> 04:19 AM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59926854?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Baby lost in Kabul evacuation is reunited with family</a> BBC: The infant was lost after being handed to an American soldier at Kabul airport in August. 
  <p class="updated_time"> 04:00 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/europes-workers-see-living-costs-rise-but-pay-isnt-keeping-pace-11641740401">Europe's Workers See Living Costs Rise, but Pay Isn't Keeping Pace</a> WSJ: Europe’s unemployment rate has fallen below its pre-pandemic level, but a surge in wages this year doesn’t seem likely even though higher inflation has weakened workers’ spending power, according to economists and officials. 
  <p class="updated_time"> 03:18 AM CT, Jan. 09 </p> 
@@ -95,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59908442?at_medium=RSS&at_campaign=KARANGA">Afcon Cameroon 2022: Playing football in the shadow of a rebellion</a> BBC: Africa's top football tournament is about to start in Cameroon, despite a bitter four-year conflict. 
  <p class="updated_time"> 06:13 PM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071604907/a-wall-of-rock-fell-on-boaters-in-a-brazilian-lake-killing-6">Death toll rises to 10 after a wall of rock fell on boaters in a Brazilian lake</a> NPR: A towering slab of rock broke from a cliff and toppled onto pleasure boaters drifting near a waterfall in a Brazilian lake Saturday. Dozens were injured. 
- <p class="updated_time"> 06:00 PM CT, Jan. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59923332?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Is his vaccine saga an unforced error for Australia?</a> BBC: The story of the star tennis player being held in Australia sparks ire at every twist and turn. 
  <p class="updated_time"> 03:54 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/americas/guantanamo-bay-covid-outbreak.html">Covid Cases Reach Pandemic High at Guantánamo Bay</a> NYT: The American base has reinstated a mandate for wearing masks indoors in response to an increase in infections. 
  <p class="updated_time"> 01:09 PM CT, Jan. 08 </p> 
@@ -155,16 +153,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59833120?at_medium=RSS&at_campaign=KARANGA">Families seek justice for Iran plane crash victims</a> BBC: Two years on, the families of downed flight PS752 victims are left without answers. 
  <p class="updated_time"> 06:04 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59903464?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the US Capitol riot anniversary</a> BBC: Simmering tensions remain one year on from unprecedented scenes in Washington DC. 
- <p class="updated_time"> 06:04 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-59906677?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 1 - 7 January 2022</a> BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:00 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59898362?at_medium=RSS&at_campaign=KARANGA">How KFC in Kenya got fried over its chip shortage</a> BBC: Kenyans called for a KFC boycott after it was discovered that its fries were imported from Egypt. 
  <p class="updated_time"> 04:54 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/africa/jawar-mohammed-release-ethiopia.html">Jawar Mohammed to Be Released From Prison by Ethiopian President</a> NYT: Prime Minister Abiy Ahmed declared the amnesty on Orthodox Christmas and offered to start a dialogue with some opponents after 14 months of war. 
  <p class="updated_time"> 04:25 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/rochelle-walensky-cdc-covid-guidance.html">C.D.C Director Defends Covid-19 Isolation Guidance</a> NYT: Dr. Rochelle P. Walensky held the agency’s first independent news briefing since the Trump White House ended them nearly two years ago. 
- <p class="updated_time"> 03:38 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59912794?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: BBC witnesses apocalyptic scenes in main city</a> BBC: A BBC reporter sees the aftermath of protests and deadly violence in Kazakhstan's biggest city Almaty. 
  <p class="updated_time"> 02:58 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/nato-russia-ukraine.html">NATO Vows United Response to Russian Aggression Against Ukraine</a> NYT: Foreign ministers from the alliance, meeting Friday, hope that Moscow will choose diplomacy and de-escalation instead, amid skepticism that Russia is sincere in wanting substantive talks. 
  <p class="updated_time"> 02:07 PM CT, Jan. 07 </p> 
