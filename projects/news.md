@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:19 PM CT, Jan. 10 </p> 
+ <p class="updated_time"> 01:28 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
+ <p class="updated_time"> 01:22 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/rum-isle-scotland-hebrides.html">As Its Population Soars to 40, Rum Isle Glimpses a Future in the Mist</a> NYT: With four new families recently arriving, the remote and rainy island in the Hebrides is experiencing its version of a population surge, although residents new and old concede living here isn’t easy. 
  <p class="updated_time"> 01:15 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59935998?at_medium=RSS&at_campaign=KARANGA">Covid pass protesters attack French MP Stéphane Claireaux with seaweed</a> BBC: Stéphane Claireaux likens the attack near his home in a French part of North America to a "stoning". 
  <p class="updated_time"> 11:45 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/famed-white-cliffs-of-sicily-are-defaced-in-an-act-of-vandalism.html">Famed White Cliffs of Sicily Are Defaced in an Act of Vandalism</a> NYT: Vandals stained a cliff formation known as the Staircase of the Turks with red splotches over the weekend. Residents of a nearby town banded together for a successful cleanup. 
- <p class="updated_time"> 11:24 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
  <p class="updated_time"> 10:05 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
  <p class="updated_time"> 09:53 AM CT, Jan. 10 </p> 
@@ -49,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/tennis/59938953?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic 'focused' on Australian Open</a> BBC: The men's world number one says he wants to compete in next week's tournament after a court overturned his visa cancellation. 
  <p class="updated_time"> 08:30 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
+ <p class="updated_time"> 08:19 AM CT, Jan. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia See Little Progress in Early Talks on Ukraine Crisis</a> WSJ: Negotiators for Washington and Moscow failed to narrow their differences in security talks in Geneva on Monday against the backdrop of Russia’s military buildup near Ukraine, U.S. and Russian diplomats said. 
  <p class="updated_time"> 08:17 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59937510?at_medium=RSS&at_campaign=KARANGA">Spain: Badger thought to have found Roman treasure</a> BBC: Archaeologists discovered Roman coins outside the den of an animal next to a cave in northern Spain. 
  <p class="updated_time"> 08:04 AM CT, Jan. 10 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/the-biden-administration-gave-a-preview-of-how-it-would-punish-russia-if-it-invaded-ukraine.html">The Biden administration gave a preview of how it would punish Russia if it invaded Ukraine.</a> NYT: Such moves are rarely telegraphed in advance, but advisers say they are hoping to influence the decisions of Russia’s leader, Vladimir V. Putin. 
  <p class="updated_time"> 07:58 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
- <p class="updated_time"> 07:49 AM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia See Little Progress in Early Talks on Ukraine Crisis</a> WSJ: Negotiators for Washington and Moscow failed to narrow their differences in security talks in Geneva on Monday against the backdrop of Russia’s military buildup near Ukraine, U.S. and Russian diplomats said. 
  <p class="updated_time"> 07:19 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59933706?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Ousted Myanmar leader jailed for another four years</a> BBC: Myanmar's former leader faces a series of charges since being ousted in an army coup last February. 
  <p class="updated_time"> 06:39 AM CT, Jan. 10 </p> 
@@ -202,6 +202,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:14 PM CT, Jan. 10 </p> 
+ <a href="https://www.politico.com/news/2022/01/10/new-quarter-treasury-maya-angelou-526836">Treasury begins distribution of quarter featuring poet, activist Maya Angelou</a> Politico: The poet and activist is the first Black woman to appear on a U.S. quarter. 
+ <p class="updated_time"> 02:13 PM CT, Jan. 10 </p> 
+ <a href="https://www.politico.com/news/2022/01/10/russia-downplays-ukraine-invasion-526830">Russia downplays Ukraine invasion, but U.S. makes no concessions</a> Politico: There's no tilt toward war after the first day of talks between U.S. and Russian diplomats in Geneva. But there's no peace either. 
  <p class="updated_time"> 01:17 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
  <p class="updated_time"> 12:59 PM CT, Jan. 10 </p> 
@@ -346,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071368803/jan-6-panel-chair-says-committee-will-ask-mike-pence-to-voluntarily-appear">The chair of the Jan. 6 panel says the committee will ask Mike Pence to appear</a> NPR: The chair of the House select committee investigating the Jan. 6 attack says by month's end they'll ask former Vice President Mike Pence to testify. They may also request testimony from Ivanka Trump. 
  <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
- <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
  <p class="updated_time"> 01:10 PM CT, Jan. 07 </p> 
