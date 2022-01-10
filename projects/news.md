@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:45 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
  <p class="updated_time"> 05:32 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 05:20 PM CT, Jan. 10 </p> 
@@ -22,7 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:46 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
  <p class="updated_time"> 04:24 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in talks with US</a> BBC: In high-stakes talks, Russian officials tell their US counterparts they have no plans to invade Ukraine. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in talks with US</a> BBC: Russian officials tell their US counterparts that they have no plans to invade neighbouring Ukraine. 
  <p class="updated_time"> 04:12 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59946362?at_medium=RSS&at_campaign=KARANGA">Near-miss for pilot saved from downed plane hit by train</a> BBC: Dramatic video shows the rescue, moments before collision, after a plane landed on train tracks. 
  <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia Talks Yield Little Overall Progress Amid Ukraine Crisis</a> WSJ: Negotiators for Washington and Moscow held their first security talks since Russia’s deployment of tens of thousands of troops to the Ukrainian border sparked fears of an invasion, but said they failed to narrow their differences. 
  <p class="updated_time"> 11:21 AM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/queen-elizabeths-platinum-jubilee-britain-plans-pomp-pudding-and-parties-11641819047">Queen Elizabeth's Platinum Jubilee: Britain Plans Pomp, 'Pudding' and Parties</a> WSJ: Buckingham Palace is pulling out the stops to celebrate the British monarch’s 70 years on the throne, with a bumper program of events and a four-day public holiday. 
- <p class="updated_time"> 10:05 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
  <p class="updated_time"> 09:53 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59939536?at_medium=RSS&at_campaign=KARANGA">Tesla adds chill and assertive self-driving modes</a> BBC: An update to Tesla cars adds a mode to follow other cars more closely and to slow rather than stop. 
  <p class="updated_time"> 09:29 AM CT, Jan. 10 </p> 
@@ -198,14 +198,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:52 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/kevin-mccarthy-committees-republican-house-majority/index.html">McCarthy vows to remove Democrats from committees if Republicans win House</a> CNN: House Minority Leader Kevin McCarthy has vowed to remove three Democratic lawmakers from key committee assignments if Republicans win back the chamber in the upcoming midterm elections. 
+ <p class="updated_time"> 05:48 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/business/economy/richard-clarida-fed-resign.html">Richard Clarida Is Resigning From the Fed Early After New Questions on Trades</a> NYT: Richard Clarida, the vice chair of the Federal Reserve, will leave on Friday, two weeks ahead of schedule. Updated disclosures showed rapid moves out of and back into stocks as the central bank prepared to reassure markets. 
+ <p class="updated_time"> 05:48 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/clay-aiken-congress-north-carolina/index.html">Ex-'American Idol' star Clay Aiken announces bid for Congress</a> CNN: Clay Aiken, widely known for his stint on "American Idol," announced Monday that he's launching another bid for Congress in North Carolina. 
  <p class="updated_time"> 05:27 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/pence-jan-6-testimony.html">Mike Pence Seen as Key Witness in Jan. 6 Investigation</a> NYT: Getting the former vice president to answer questions under oath could be crucial as the House panel focuses on Donald Trump’s responsibility for the Capitol riot. 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/mike-pence-jan-6-testimony.html">Mike Pence Seen as Key Witness in Jan. 6 Investigation</a> NYT: Getting the former vice president to answer questions under oath could be crucial as the House panel focuses on Donald Trump’s responsibility for the Capitol riot. 
  <p class="updated_time"> 05:24 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/10/1071899471/insurance-at-home-covid-tests-white-house">How to get insurance to pay for at-home COVID tests, according to the White House</a> NPR: The Biden administration says Americans should be able to order COVID tests online later this month. Those who are eligible can get eight free over-the-counter at-home tests a month. 
+ <p class="updated_time"> 05:21 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/nord-stream-pipeline-democrats-reaction-cruz/index.html">Democrats scramble to sink Cruz's plan to impose sanctions over Nord Stream pipeline </a> CNN: Top Senate Democrats and the Biden administration are maneuvering behind the scenes to defeat a measure from GOP Sen. Ted Cruz of Texas that would impose sanctions on businesses associated with a major pipeline from Russia to Germany, aiming to shore up Democratic unity amid high-level US talks with Russia. 
  <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-at-home-covid-tests-reimbursement-526853">Biden administration lays out rules for reimbursing at-home Covid tests</a> Politico: Under the plan, private insurers can set up programs at preferred pharmacies or retailers where the upfront cost of home tests is covered for beneficiaries. 
  <p class="updated_time"> 05:02 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/joe-biden-voting-rights/index.html">Biden facing pressure to deliver on voting rights ahead of Atlanta speech</a> CNN: Pressure is intensifying on President Joe Biden to articulate a plan to enact meaningful voter protections as a counter to strict new voting laws going into place around the nation after warning for the past year of nascent dangers to democracy. 
+ <a href="https://www.cnn.com/2022/01/10/politics/joe-biden-voting-rights/index.html">Pressure grows on Biden to deliver meaningful voter protections</a> CNN: Pressure is intensifying on President Joe Biden to articulate a plan to enact meaningful voter protections as a counter to strict new voting laws going into place around the nation after warning for the past year of nascent dangers to democracy. 
  <p class="updated_time"> 04:50 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
  <p class="updated_time"> 04:49 PM CT, Jan. 10 </p> 
@@ -222,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/10/politics/maya-angelou-quarter-issued/index.html">Maya Angelou becomes first Black woman to appear on US quarter as Treasury begins distribution</a> CNN: A new US quarter featuring the late Maya Angelou went into circulation Monday, the US Mint announced, making the legendary poet and activist the first Black woman ever to appear on the coin. 
  <p class="updated_time"> 03:34 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/steve-sweeney-new-jersey-senate-526776">His election loss stunned Democrats. Now he might run for governor.</a> Politico: New Jersey Democrat Steve Sweeney is pushing big bills in final days, opening up a think tank and telling power players he’s going to run for governor in 2025. 
- <p class="updated_time"> 03:33 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/business/economy/richard-clarida-fed-resign.html">Richard Clarida Is Resigning From the Fed Early After New Questions on Trades</a> NYT: Richard Clarida, the vice chair of the Federal Reserve, will leave on Jan. 14, two weeks ahead of schedule. He did not give a reason. 
  <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071896965/voting-rights-groups-speak-out-ahead-of-biden-and-harris-trip-to-georgia">Voting rights groups speak out ahead of Biden and Harris' trip to Georgia</a> NPR: Nsé Ufot, CEO of the New Georgia Project, speaks with NPR's Ailsa Chang about her view of Democrats' voting rights efforts ahead of the president and vice president's visit to Georgia this week. 
  <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
@@ -302,10 +308,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/09/politics/antony-blinken-russia-ukraine-cnntv/index.html">Blinken does not expect to see breakthroughs in talks with Russia this week</a> CNN: Secretary of State Antony Blinken says he doesn't expect to see any breakthroughs in the meetings with Russia this week, reiterating that while the US is prepared to listen to Moscow's concerns, it will be hard to achieve any progress unless Russia de-escalates tensions on the border with Ukraine. 
  <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
- <p class="updated_time"> 10:13 AM CT, Jan. 09 </p> 
- <a href="https://www.cnn.com/2022/01/09/politics/asa-hutchinson-biden-vaccine-mandate-supreme-court-cnntv/index.html">Arkansas governor says large businesses in state should not comply with Biden administration's 'oppressive vaccine mandate'</a> CNN: Arkansas Gov. Asa Hutchinson urged large businesses in the state not to comply with the Biden administration's Covid-19 vaccine mandate, saying employers should not follow the "oppressive" rule hours before the order is set to partially go into effect. 
- <p class="updated_time"> 09:33 AM CT, Jan. 09 </p> 
- <a href="https://www.cnn.com/2022/01/09/politics/ron-johnson-wisconsin-senate-reelection/index.html">Wisconsin Sen. Ron Johnson says he will run for re-election</a> CNN: Sen. Ron Johnson announced in an email on Sunday that he is running for reelection in Wisconsin, setting the stage for a tough campaign in a race that could determine control of the Senate. 
  <p class="updated_time"> 09:08 AM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/michelle-obama-2022-elections-fight-for-vote/index.html">Michelle Obama wades into 2022 midterm elections with urgent message on voting</a> CNN: Former first lady Michelle Obama has a message for Americans ahead of the 2022 midterm elections: "We've got to vote like the future of our democracy depends on it." 
  <p class="updated_time"> 09:07 AM CT, Jan. 09 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
- <p class="updated_time"> 01:10 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/usda-school-lunch-inflation-supply-chain/index.html">USDA pumps $750 million into school meals to counter inflation, supply chain woes</a> CNN: Schools are not only wrestling with how to educate children amid the surge in coronavirus cases. They are also contending with feeding kids as inflation and supply chain problems disrupt their ability to serve meals. 
  <p class="updated_time"> 12:37 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/voting-rights-electoral-count-john-lewis-act/index.html">Senate Democrats vow they'll pass voting rights legislation with or without Republicans. Here's what their proposals would do</a> CNN: Senate Majority Leader Chuck Schumer has set the stage for a showdown this month over voting rights -- pledging to muscle through sweeping new federal legislation aimed at counteracting moves by Republicans in state capitols to restrict access to the ballot. 
  <p class="updated_time"> 12:36 PM CT, Jan. 07 </p> 
