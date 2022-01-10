@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:48 PM CT, Jan. 10 </p> 
+ <p class="updated_time"> 12:58 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59943374?at_medium=RSS&at_campaign=KARANGA">New York fire: Officials pledge support after 17 die in 'unspeakable tragedy'</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
+ <p class="updated_time"> 12:57 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
  <p class="updated_time"> 12:46 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in Geneva talks</a> BBC: Russian officials tells their US counterparts that they have no plans to invade Ukraine. 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
  <p class="updated_time"> 09:53 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59939536?at_medium=RSS&at_campaign=KARANGA">Tesla adds chill and assertive self-driving modes</a> BBC: An update to Tesla cars adds a mode to follow other cars more closely and to slow rather than stop. 
- <p class="updated_time"> 09:43 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59931896?at_medium=RSS&at_campaign=KARANGA">New York fire: At least 19 killed in apartment block blaze</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
  <p class="updated_time"> 09:29 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/china-covid-omicron-beijing-olympics.html">China’s Covid Outbreak Complicates Safety Plan for Beijing Olympics</a> NYT: Officials are racing to extinguish a spate of coronavirus infections around the country. 
  <p class="updated_time"> 09:03 AM CT, Jan. 10 </p> 
@@ -200,6 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:59 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/clay-aiken-congress.html">Clay Aiken Announces Run for Congress</a> NYT: Mr. Aiken, the former “American Idol” contestant, said he was running as a “loud and proud Democrat” for an open House seat in his native North Carolina this year. 
+ <p class="updated_time"> 12:58 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US says no breakthrough in 'frank and forthright' talks with Russia over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 12:55 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/treasury-tax-filing-season-526833">Treasury warns taxpayers to brace for a turbulent tax filing season</a> Politico: The IRS is still dealing with backups in processing returns from the past two filing seasons. 
  <p class="updated_time"> 12:43 PM CT, Jan. 10 </p> 
@@ -208,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/wisconsin-gop-election-review-526827">Wisconsin judge lets GOP-led election review continue</a> Politico: State Attorney General Josh Kaul's bid to undercut the probe was denied by a judge in Dane County. 
  <p class="updated_time"> 11:55 AM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/worldview-weekend-foundation-tax-status-irs-invs/index.html">Foundation behind network pushing election and coronavirus conspiracies had its tax-exempt status revoked. It still solicits donations </a> CNN: An online media network that promotes election and coronavirus-related conspiracy theories is soliciting donations and telling donors their contributions will be tax-deductible -- even though its foundation's tax-exempt status has been revoked by the IRS. 
- <p class="updated_time"> 11:40 AM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US says no breakthrough in 'frank and forthright' talks with Russia over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 11:07 AM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/republicans-push-for-hand-counting-paper-ballots/index.html">GOP push for handing-counting paper ballots is latest effort to cast doubt on elections </a> CNN: After more than a year of baselessly questioning the results of the 2020 election, some Republicans are casting doubt on how ballots are counted, part of a broader movement inspired by former President Donald Trump's lies about election fraud that is undermining confidence in America's vote. 
  <p class="updated_time"> 10:32 AM CT, Jan. 10 </p> 
@@ -332,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/jan-6-investigators-pence-interview-526790">Jan. 6 investigators eyeing Pence interview this month</a> Politico: Pence was the target of an intense pressure campaign to single-handedly overturn the election results on Jan. 6, 2021. 
  <p class="updated_time"> 07:08 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/bidens-colorado-wildfire/index.html">Biden promises federal government will stick by communities devastated by Colorado wildfire</a> CNN: President Joe Biden and first lady Jill Biden are scheduled to travel to Colorado on Friday to meet with families who were affected by a recent massive wildfire that destroyed hundreds of homes and thousands of acres. 
- <p class="updated_time"> 06:20 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/lani-guinier-dead.html">Lani Guinier, Legal Scholar at the Center of Controversy, Dies at 71</a> NYT: President Bill Clinton pulled her nomination as assistant attorney general in 1993 after she came under criticism for her views on voting rights. 
  <p class="updated_time"> 06:12 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/politics-inflation-redistricting.html">5 Big Questions for the Political Year Ahead</a> NYT: Inflation and the pandemic are hurting President Biden’s popularity, but the midterms are still months away. 
  <p class="updated_time"> 05:37 PM CT, Jan. 07 </p> 
