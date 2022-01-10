@@ -7,22 +7,30 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:52 AM CT, Jan. 10 </p> 
+ <p class="updated_time"> 06:28 AM CT, Jan. 10 </p> 
+ <a href="https://www.npr.org/2022/01/10/1070854970/in-wahala-intimacy-at-times-morphs-into-enmity">In 'Wahala,' intimacy at times morphs into enmity</a> NPR: Nikki May's novel captures issues of modern city living: women's evolving roles in home and work, interracial relationships, multicultural identity, and competition that runs under many friendship. 
+ <p class="updated_time"> 06:26 AM CT, Jan. 10 </p> 
+ <a href="https://www.npr.org/2022/01/10/1071785531/on-covid-vaccinations-pope-says-health-care-is-a-moral-obligation">On COVID vaccinations, Pope says health care is a 'moral obligation'</a> NPR: Francis says individuals have a responsibility to care for themselves "and this translates into respect for the health of those around us." 
+ <p class="updated_time"> 06:26 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: U.S. and Russia Meet Amid Fears of War in Ukraine</a> NYT: With the threat of a Russian invasion of Ukraine stirring concern across Europe, the talks in Geneva on Monday marked the start of a week of high-stakes diplomacy. 
- <p class="updated_time"> 05:17 AM CT, Jan. 10 </p> 
+ <p class="updated_time"> 06:18 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59935605?at_medium=RSS&at_campaign=KARANGA">Uganda schools reopen after almost two years of Covid closure</a> BBC: Authorities warn that at least 30% of pre-pandemic pupils may never return after such a long absence. 
+ <p class="updated_time"> 06:17 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: The court ordered the government to release him from detention and restore a visa. But Australian officials suggested they may make a new attempt to cancel it. 
+ <p class="updated_time"> 06:07 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
+ <p class="updated_time"> 06:00 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59915690?at_medium=RSS&at_campaign=KARANGA">Past seven years hottest on record - EU satellite data</a> BBC: Analysis shows 2021 was the fifth-warmest with record-breaking temperatures in some regions. 
+ <p class="updated_time"> 06:00 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59900738?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest was coup attempt, says president</a> BBC: President Tokayev says a hunt for "terrorists" is continuing and Kazakhstan will soon provide proof. 
  <p class="updated_time"> 04:42 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
- <p class="updated_time"> 04:29 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59900738?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest was coup attempt, says president</a> BBC: President Tokayev says a hunt for "terrorists" is continuing and Kazakhstan will soon provide proof. 
  <p class="updated_time"> 04:21 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59937221?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic supporters surround car in Melbourne</a> BBC: Crowds chanting "free Novak" surround a black car leaving the offices of the player's lawyer. 
  <p class="updated_time"> 04:00 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/health-59911257?at_medium=RSS&at_campaign=KARANGA">Covid-19: Common cold may give some protection, study suggests</a> BBC: Researchers say immune cells made to defend the body against some colds could help stave off Covid. 
  <p class="updated_time"> 03:23 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59935647?at_medium=RSS&at_campaign=KARANGA">Man arrested for bomb threat at Doja Cat concert</a> BBC: The man phoned in a bomb threat in an attempt to jump the queue at a free show in Indianaopolis. 
- <p class="updated_time"> 03:13 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: The court ordered the government to release him from detention and restore a visa. But Australian officials suggested they may make a new attempt to cancel it. 
  <p class="updated_time"> 03:13 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071769164/myanmars-suu-kyi-sentenced-to-4-more-years-in-prison">Myanmar's Suu Kyi sentenced to 4 more years in prison</a> NPR: Suu Kyi was convicted last month on two other charges and given a four-year prison sentence, which was then halved by the head of the military-installed government. 
  <p class="updated_time"> 03:11 AM CT, Jan. 10 </p> 
@@ -37,14 +45,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59933706?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Ousted Myanmar leader jailed for another four years</a> BBC: Myanmar's former leader faces a series of charges since being ousted in an army coup last February. 
  <p class="updated_time"> 01:48 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/kazakhstan-protests-detained-injured.html">Nearly 6,000 Detained Amid Unrest in Kazakhstan</a> NYT: Protests that began last weekend over a hike in fuel prices spread across the country, leaving at least 2,000 injured, government officials said. Dozens of deaths also appeared likely. 
+ <p class="updated_time"> 01:19 AM CT, Jan. 10 </p> 
+ <a href="https://www.wsj.com/articles/novak-djokovic-to-be-released-from-detention-in-australia-after-legal-victory-11641798160">Djokovic Released From Detention After Legal Victory</a> WSJ: Decision to overturn the Australian government’s cancellation of his visa opens the door for the No. 1 men’s tennis player to compete at the Australian Open. 
  <p class="updated_time"> 01:11 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071761247/djokovics-visa-reinstated-but-australian-open-status-unclear">Djokovic's visa is reinstated but his Australian Open status remains unclear</a> NPR: Australia's immigration minister could still "exercise a personal power of cancelation," which would mean mean Djokovic could face deportation again and miss the tournament, which starts on Jan. 17 
  <p class="updated_time"> 12:45 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59900500?at_medium=RSS&at_campaign=KARANGA">Golden Globes: West Side Story and The Power of the Dog win at troubled event</a> BBC: Steven Spielberg's remake of the classic film was among the big winners at Sunday's event in LA. 
+ <p class="updated_time"> 12:36 AM CT, Jan. 10 </p> 
+ <a href="https://www.wsj.com/articles/pope-francis-denounces-cancel-culture-and-antivaccine-ideology-11641814583">Pope Francis Denounces 'Cancel Culture' and Antivaccine 'Ideology'</a> WSJ: In his annual speech to ambassadors, the pontiff also lamented the effects of pandemic-related school closures on children. 
  <p class="updated_time"> 12:00 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59928856?at_medium=RSS&at_campaign=KARANGA">'They looted everything': Counting the cost of Kazakh protests</a> BBC: Violent protests have left Kazakhstan stunned and angry, the BBC's Abdujalil Abdurasulov finds. 
- <p class="updated_time"> 11:58 PM CT, Jan. 09 </p> 
- <a href="https://www.wsj.com/articles/novak-djokovic-to-be-released-from-detention-in-australia-after-legal-victory-11641798160">Djokovic Released From Detention After Legal Victory</a> WSJ: Decision to overturn the Australian government’s cancellation of his visa opens the door for the No.1 men’s tennis player to compete at the Australian Open. 
  <p class="updated_time"> 11:15 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
  <p class="updated_time"> 11:11 PM CT, Jan. 09 </p> 
@@ -77,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/world/americas/brazil-cliff-collapses.html">Cliff Collapses on Boaters in Brazil, Killing 10</a> NYT: The tragedy in Minas Gerais state gripped the nation because it was captured on videos that showed an immense slab of rock smashing into pleasure boats. 
  <p class="updated_time"> 02:07 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/us/politics/russia-ukraine-james-baker.html">James A. Baker III’s Words on NATO Loom in Ukraine Standoff</a> NYT: The current confrontation turns partly on what, if any, commitments Secretary of State James A. Baker III made about NATO’s expansion in the waning days of the Cold War. 
- <p class="updated_time"> 02:00 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59929594?at_medium=RSS&at_campaign=KARANGA">Scala dei Turchi: Sicily's famed cliffs streaked red by vandals</a> BBC: Sicily's Scala dei Turchi are visited by thousands of tourists every year. 
  <p class="updated_time"> 01:57 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59923900?at_medium=RSS&at_campaign=KARANGA">Ten die after Brazilian cliff collapses onto leisure boats</a> BBC: Another 32 were injured when the cliff fell onto boats in a lake in the south-east of the country. 
  <p class="updated_time"> 11:49 AM CT, Jan. 09 </p> 
@@ -87,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-eyes-financial-targeted-tech-sanctions-as-talks-begin-with-russia-11641736802">U.S. Offers Russia Dialogue, Eyes Sanctions if Ukraine Is Invaded</a> WSJ: A week of talks opened Sunday night with dinner in Geneva. Antony Blinken sees “two paths before us.” 
  <p class="updated_time"> 11:01 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/london-schools-covid-omicron.html">London Schools Are Determined to Stay Open. Staff Illnesses Make It Hard.</a> NYT: Schools across England are grappling with what it looks like to live with the pandemic as it enters its third year. Sound familiar? 
- <p class="updated_time"> 10:21 AM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59927266?at_medium=RSS&at_campaign=KARANGA">Pakistan snow: Hundreds rescued from vehicles in deadly blizzard</a> BBC: Samina was one of thousands trapped in freezing conditions trying to reach the town of Murree. 
  <p class="updated_time"> 08:36 AM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/russias-putin-seizes-on-crises-to-assert-control-over-former-soviet-republics-11641738063">Russia's Putin Seizes on Crises to Assert Control Over Former Soviet Republics</a> WSJ: The country’s flood of troops into Kazakhstan follows nearly 15 years of interventionism in Georgia, Belarus, Ukraine and elsewhere aimed at pulling these countries closer to Russia. 
  <p class="updated_time"> 08:00 AM CT, Jan. 09 </p> 
@@ -143,12 +149,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/08/1062816001/top-global-tiktoks-of-2021-defiant-afghan-singer-kenyan-comic-walnut-cracking-el">Top global TikToks of 2021: Defiant Afghan singer, Kenya comic, walnut-cracking elbow</a> NPR: What did the world watch on TikTok last year? We round up some favorite videos — including a mukbang ASMR Thai star (don't worry, we explain it) and a potato chip-crunching Kenyan comedian. 
  <p class="updated_time"> 05:18 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
- <p class="updated_time"> 05:05 AM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/2022/01/08/1071537135/how-bosnias-dodik-went-from-a-moderate-reformist-to-genocide-denying-secessionis">How Bosnia's Dodik went from a moderate reformist to genocide-denying secessionist</a> NPR: Bosnian Serb leader responds to new U.S. sanctions saying the days when the U.S. and other Western democracies "modeled Bosnia to their taste" are long gone. 
  <p class="updated_time"> 05:00 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/canada/blackberry-phone-service-ends.html">BlackBerry Phone Service Officially Ends</a> NYT: BlackBerry was once Canada’s most valuable company and a global force in tech. The final step in its downfall as a phone maker arrived this week. 
- <p class="updated_time"> 04:26 AM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/2022/01/08/1071534483/djokovics-lawyers-say-he-had-covid-last-month-according-to-report">Djokovic's lawyers say he had COVID last month, grounds for vaccination exemption</a> NPR: If he fails to have his visa cancellation overturned and gets deported, Novak Djokovic risks missing more than one Australian Open and could be barred for up to three years. 
  <p class="updated_time"> 04:00 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/india-weddings-south-kerala.html">The New Weddings in India’s South: ‘Expect Some Magic’</a> NYT: Couples are creating ever more elaborate ceremonies, drawing inspiration from social media trends that blur the nation’s religious and cultural lines. 
  <p class="updated_time"> 02:10 AM CT, Jan. 08 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27198480?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: The actor who broke down Hollywood's racial barriers</a> BBC: Sidney Poitier, the actor and director who helped break down Hollywood's racial barriers, dies aged 94. 
  <p class="updated_time"> 09:31 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/italian-mafia-fugitive-google-maps.html">Italian Mafia Fugitive Caught In Spain Thanks to Google Maps</a> NYT: Investigators had tracked the man to a town in Spain, and an image found online confirmed that the police were on the right track. 
- <p class="updated_time"> 08:39 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/arts/music/einar-sweden-rap.html">After Killing of Einar, Sweden Struggles With 'Gangster Rap'</a> NYT: Hip-hop, the country’s most popular music, has quickly become a lightning rod for Sweden’s long-roiling problems with gun violence and gang warfare. 
  <p class="updated_time"> 05:22 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:29 AM CT, Jan. 10 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/01/10/dems-eye-voting-rights-fight-filibuster-changes-495660">Dems eye voting rights fight, filibuster changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/10/biden-faces-his-moment-on-the-filibuster-495658"> Biden faces his moment on the filibuster</a> Politico Playbook: And the Senate GOP plans a filibuster messaging push. 
  <p class="updated_time"> 05:30 AM CT, Jan. 10 </p> 
@@ -205,7 +207,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:19 AM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
  <p class="updated_time"> 05:00 AM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/us-fossil-fuel-emissions-coal-increased-2021-climate/index.html">Emissions from coal increased in 2021 for the first time in seven years, in bad news for Biden's climate goal</a> CNN: In a troublesome sign for President Joe Biden's climate goals, US greenhouse emissions rebounded from a pandemic slump faster in 2021 than the overall economy, according to a preliminary analysis by the nonpartisan Rhodium Group. 
+ <a href="https://www.cnn.com/2022/01/10/politics/us-fossil-fuel-emissions-coal-increased-2021-climate/index.html">Planet-warming emissions rebounded faster in the US than expected in 2021, analysts say</a> CNN: In a troublesome sign for President Joe Biden's climate goals, US greenhouse emissions rebounded from a pandemic slump faster in 2021 than the overall economy, according to a preliminary analysis by the nonpartisan Rhodium Group. 
  <p class="updated_time"> 04:30 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/jan-6-committee-ramps-up-state-level-investigation-526752">Jan. 6 panel ramps up investigation into Trump's state-level pressure</a> Politico: POLITICO has identified the information the committee has received from key swing states, as lawmakers prepare to take their findings public. 
  <p class="updated_time"> 04:30 AM CT, Jan. 10 </p> 
@@ -218,6 +220,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/10/politics/joe-biden-voting-rights-democracy-russia-diplomacy/index.html">Biden confronts challenges to democracy at home and abroad this week</a> CNN: President Joe Biden's fresh vow to save democracy faces an immediate test at home and abroad this week, with a long-shot voting rights push and the most critical US diplomacy with Russia since the Cold War. 
  <p class="updated_time"> 09:05 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/jim-jordan-jan-6-committees-interview-request-526816">Rep. Jim Jordan says he won’t cooperate with Jan. 6 committee’s interview request</a> Politico: HIs decision follows a similar rejection by Rep. Scott Perry, the only other lawmaker whose testimony the panel has requested so far. 
+ <p class="updated_time"> 08:10 PM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/us/politics/jim-jordan-jan-6-panel.html">Jim Jordan Refuses to Cooperate With Jan. 6 Panel</a> NYT: The Republican congressman from Ohio, a close ally of former President Donald Trump’s, denounced the House investigation of the Capitol riot as one of the Democrats’ “partisan witch hunts.” 
  <p class="updated_time"> 06:22 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/new-york-city-apartment-fire-526811">19 dead, including 9 children, in New York City apartment fire</a> Politico: “It’s a tragedy beyond measure,” Mayor Eric Adams said. 
  <p class="updated_time"> 04:58 PM CT, Jan. 09 </p> 
@@ -326,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/bidens-colorado-wildfire/index.html">Biden promises federal government will stick by communities devastated by Colorado wildfire</a> CNN: President Joe Biden and first lady Jill Biden are scheduled to travel to Colorado on Friday to meet with families who were affected by a recent massive wildfire that destroyed hundreds of homes and thousands of acres. 
  <p class="updated_time"> 06:20 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/lani-guinier-dead.html">Lani Guinier, Legal Scholar at the Center of Controversy, Dies at 71</a> NYT: President Bill Clinton pulled her nomination as assistant attorney general in 1993 after she came under criticism for her views on voting rights. 
- <p class="updated_time"> 06:13 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/business/economy/jobs-interest-rates-federal-reserve.html">As Unemployment Falls, Interest Rate Increases Creep Nearer</a> NYT: The jobless rate is falling sharply and pay is jumping. That may increase the urgency as the Federal Reserve withdraws economic support. 
  <p class="updated_time"> 06:12 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/politics-inflation-redistricting.html">5 Big Questions for the Political Year Ahead</a> NYT: Inflation and the pandemic are hurting President Biden’s popularity, but the midterms are still months away. 
  <p class="updated_time"> 05:37 PM CT, Jan. 07 </p> 
@@ -434,8 +436,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/schumer-threatens-vote-on-senate-rules-change-in-january-526394">Schumer tries to jump-start Dems with rules change threat</a> Politico: The majority leader said they would debate changes to the Senate's rules unless Republicans allow a vote on elections reform. 
  <p class="updated_time"> 07:46 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/03/new-year-same-to-do-list-for-congress-495569">New Year, same to-do list for Congress</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:05 AM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/03/dems-to-use-jan-6-anniversary-to-supercharge-voting-rights-push-495565"> Dems to use Jan. 6 anniversary to supercharge voting rights push</a> Politico Playbook: And Biden says the U.S. would 'respond decisively' if Russia invades Ukraine. 
 
 
 </details>
