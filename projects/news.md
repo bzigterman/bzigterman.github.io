@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:56 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Australia Court Hears Novak Djokovic's Appeal</a> NYT: The  court ordered the government to release him from detention and restore a visa. 
+ <p class="updated_time"> 01:14 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: The court ordered the government to release him from detention and restore a visa. 
+ <p class="updated_time"> 01:11 AM CT, Jan. 10 </p> 
+ <a href="https://www.npr.org/2022/01/10/1071761247/djokovics-visa-reinstated-but-australian-open-status-unclear">Djokovic's visa reinstated but Australian Open status unclear</a> NPR: Australia's immigration minister could still "exercise a personal power of cancelation," which would mean mean Djokovic could face deportation again and miss the tournament, which starts on Jan. 17 
+ <p class="updated_time"> 01:09 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59933706?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Ousted Myanmar leader jailed for another four years</a> BBC: The former Myanmar leader faces a series of charges which have been widely condemned as unjust. 
+ <p class="updated_time"> 12:52 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59932430?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Judge orders immediate release of tennis star</a> BBC: Anthony Kelly quashes the decision to cancel the player's Australian visa on Covid vaccination grounds. 
  <p class="updated_time"> 12:45 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59900500?at_medium=RSS&at_campaign=KARANGA">Golden Globes: West Side Story and The Power of the Dog win at subdued event</a> BBC: Steven Spielberg's remake of the classic film was among the big winners at Sunday's event in LA. 
  <p class="updated_time"> 12:16 AM CT, Jan. 10 </p> 
@@ -23,12 +29,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/russia-ukraine-nato-europe.html">Can the West Stop Russia From Invading Ukraine? Here’s What You Need to Know.</a> NYT: The United States, its NATO allies and Russia meet this week in a whirlwind of diplomacy aimed at averting the largest military action in Europe since World War II. 
  <p class="updated_time"> 10:52 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59932429?at_medium=RSS&at_campaign=KARANGA">Bob Saget: US actor and comedian found dead aged 65</a> BBC: The Full House star was found dead in his hotel room in Orlando, where he was on tour, police say. 
- <p class="updated_time"> 10:48 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59933028?at_medium=RSS&at_campaign=KARANGA">India begins booster shots as Covid-19 cases surge</a> BBC: Frontline workers and vulnerable adults will get booster jabs as the country battles a spike in cases. 
  <p class="updated_time"> 10:37 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Hong Kong Party Angers a City Under Covid Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
- <p class="updated_time"> 10:17 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59932430?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Judge raises concerns over tennis star's treatment by border officers</a> BBC: Anthony Kelly is presiding over the tennis star's challenge to the cancellation of his Australian visa. 
  <p class="updated_time"> 09:30 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia and U.S. Meet to Begin Negotiations Over Ukraine</a> NYT: Before the two countries met amid rising tensions over Ukraine, a senior Russian official and the U.S. Secretary of State set a pessimistic tone. 
  <p class="updated_time"> 06:39 PM CT, Jan. 09 </p> 
@@ -139,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/asia/india-weddings-south-kerala.html">The New Weddings in India’s South: ‘Expect Some Magic’</a> NYT: Couples are creating ever more elaborate ceremonies, drawing inspiration from social media trends that blur the nation’s religious and cultural lines. 
  <p class="updated_time"> 02:10 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/europe/biden-boris-johnson-coronavirus-omicron.html">How Biden and Boris Johnson Reached the Same Place on Virus Policy</a> NYT: Two different leaders with differing approaches landed on a policy of coexisting with the virus. Analysts say they had little choice. 
- <p class="updated_time"> 02:00 AM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/2022/01/08/1070512969/us-missile-defense-thaad-south-korea-north-korea-china">A South Korean village is protesting U.S. plans for THAAD missile defense upgrades</a> NPR: The potential upgrade at a U.S. air defense base, within range of missiles in North Korea and China, has residents concerned as Seoul walks a delicate balancing act between the rival powers. 
  <p class="updated_time"> 12:29 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/travel/royal-caribbean-cruises-cancellations-covid.html">Royal Caribbean Cancels Three Upcoming Cruises</a> NYT: The company said it had called off planned trips on three ships and pushed back another’s return to cruising to March. 
  <p class="updated_time"> 09:50 PM CT, Jan. 07 </p> 
