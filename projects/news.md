@@ -181,20 +181,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/americas/luiza-trajano-brazil-magalu-racism.html">Billionaire’s Star Rises as She Takes Bold Stance on Racism in Brazil</a> NYT: Luiza Trajano turned a small family store into a retail giant. Now, a company policy limiting its executive training program to Black applicants is drawing praise, outrage and much soul-searching. 
- <p class="updated_time"> 02:28 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/canada/canada-conversion-therapy-law.html">Canadian Law Banning ‘Conversion Therapy’ Set to Go Into Effect</a> NYT: The law, which takes effect on Friday, puts Canada in the company of more than a dozen countries that have banned the widely discredited practice. 
  <p class="updated_time"> 11:49 PM CT, Jan. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59901094?at_medium=RSS&at_campaign=KARANGA">Djokovic stay highlights refugee concerns at Melbourne detention hotel</a> BBC: People held at the detention hotel have complained of mouldy food and poor conditions. 
  <p class="updated_time"> 08:32 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-beijing-olympics.html">North Korea Says It Will Skip Beijing Olympics Because of the Pandemic</a> NYT: The country also blamed “hostile forces” for its decision not to send a delegation to China, its closest ally. 
  <p class="updated_time"> 08:19 PM CT, Jan. 06 </p> 
  <a href="https://www.nytimes.com/2022/01/06/world/australia/south-coast-fires-covid.html">How Is the South Coast Healing, After the Fires and With Covid?</a> NYT: A little bit of empathetic momentum can go a long way toward helping people and places heal. 
- <p class="updated_time"> 03:54 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/health/covid-vaccines-boosters.html">Scientists Endorse Covid Boosters, But to a Point</a> NYT: Everyone should get a booster shot. In the long run, though, doses every few months aren’t a viable public health strategy, scientists say. 
- <p class="updated_time"> 02:43 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/arts/design/met-museum-african-origin-exhibit.html">In ‘African Origin’ Show at Met, New Points of Light Across Cultures</a> NYT: Holdings from Ancient Egypt and sub-Saharan Africa come together in a masterpiece show. Now the Met should make clear how the wondrous works got here. 
- <p class="updated_time"> 02:12 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/asia/pakistan-woman-supreme-court.html">Pakistan Paves Way for Ayesha Malik to Be First Woman Supreme Court Justice</a> NYT: Justice Ayesha A. Malik’s nomination, intensely opposed by some lawyers that have threatened to strike, was hailed by others as an important victory in improving representation for women. 
 
 
 </details>
@@ -213,7 +205,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:35 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/us/politics/biden-republicans-agenda.html">Biden Comes Out Swinging Against Republicans as His Agenda Stalls</a> NYT: The president pledged to use all of the powers of his office to thwart Republicans still under the thumb of Donald J. Trump. 
  <p class="updated_time"> 02:33 PM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/us/politics/border-patrol-chases.html">A Rise in Deadly Border Patrol Chases Renews Concerns About Accountability</a> NYT: The increasing number of deaths adds urgency to questions about when and how agents should engage in high-speed chases as they pursue smugglers and migrants. 
+ <a href="https://www.nytimes.com/2022/01/09/us/politics/border-patrol-migrant-deaths.html">A Rise in Deadly Border Patrol Chases Renews Concerns About Accountability</a> NYT: The increasing number of deaths adds urgency to questions about when and how agents should engage in high-speed chases as they pursue smugglers and migrants. 
  <p class="updated_time"> 02:07 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/us/politics/russia-ukraine-james-baker.html">In Ukraine Conflict, Putin Relies on a Promise That Ultimately Wasn’t</a> NYT: The current confrontation turns partly on what, if any, commitments Secretary of State James A. Baker III made about NATO’s expansion in the waning days of the Cold War. 
  <p class="updated_time"> 01:14 PM CT, Jan. 09 </p> 
@@ -444,8 +436,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/january-6-capitol-riot-house-democrats-525975">‘It’s only gotten worse’: The long shadow of the night that broke the House</a> Politico: For most Democrats, the biggest affront wasn’t even the violence by Donald Trump’s supporters. It was the votes more than 140 of their GOP colleagues took afterward. 
  <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/could-january-6th-happen-again-526167">Could Jan. 6 happen again?</a> Politico: The Capitol Police has made progress under a new chief. But many on the Hill don't have an easy answer. 
- <p class="updated_time"> 09:13 PM CT, Jan. 02 </p> 
- <a href="https://www.politico.com/news/2022/01/02/harry-reid-to-lie-in-state-in-capitol-rotunda-526381">Harry Reid to lie in state in Capitol Rotunda</a> Politico: The former Senate majority leader died last Tuesday. 
 
 
 </details>
