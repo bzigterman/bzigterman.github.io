@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:00 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
  <p class="updated_time"> 04:42 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
  <p class="updated_time"> 04:29 AM CT, Jan. 10 </p> 
@@ -35,12 +37,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59900500?at_medium=RSS&at_campaign=KARANGA">Golden Globes: West Side Story and The Power of the Dog win at troubled event</a> BBC: Steven Spielberg's remake of the classic film was among the big winners at Sunday's event in LA. 
  <p class="updated_time"> 12:00 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59928856?at_medium=RSS&at_campaign=KARANGA">'They looted everything': Counting the cost of Kazakh protests</a> BBC: Violent protests have left Kazakhstan stunned and angry, the BBC's Abdujalil Abdurasulov finds. 
+ <p class="updated_time"> 11:58 PM CT, Jan. 09 </p> 
+ <a href="https://www.wsj.com/articles/novak-djokovic-to-be-released-from-detention-in-australia-after-legal-victory-11641798160">Djokovic Released From Detention After Legal Victory</a> WSJ: Decision to overturn the Australian government’s cancellation of his visa opens the door for the No.1 men’s tennis player to compete at the Australian Open. 
  <p class="updated_time"> 11:15 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
  <p class="updated_time"> 11:11 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59927267?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Internet returns to Almaty following a five day outage</a> BBC: Days of violent anti-government protests saw nearly 8,000 people detained, officials say. 
- <p class="updated_time"> 11:11 PM CT, Jan. 09 </p> 
- <a href="https://www.wsj.com/articles/novak-djokovic-to-be-released-from-detention-in-australia-after-legal-victory-11641798160">Djokovic Released From Detention After Legal Victory</a> WSJ: Decision to overturn the Australian government’s cancellation of his visa opens the door for the No.1 men’s tennis player to compete at the Australian Open. 
  <p class="updated_time"> 11:01 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/russia-ukraine-nato-europe.html">Can the West Stop Russia From Invading Ukraine? Here’s What You Need to Know.</a> NYT: The United States, its NATO allies and Russia meet this week in a whirlwind of diplomacy aimed at averting the largest military action in Europe since World War II. 
  <p class="updated_time"> 10:52 PM CT, Jan. 09 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/americas/luiza-trajano-brazil-magalu-racism.html">Billionaire’s Star Rises as She Takes Bold Stance on Racism in Brazil</a> NYT: Luiza Trajano turned a small family store into a retail giant. Now, a company policy limiting its executive training program to Black applicants is drawing praise, outrage and much soul-searching. 
- <p class="updated_time"> 08:32 PM CT, Jan. 06 </p> 
- <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-beijing-olympics.html">North Korea Says It Will Skip Beijing Olympics Because of the Pandemic</a> NYT: The country also blamed “hostile forces” for its decision not to send a delegation to China, its closest ally. 
 
 
 </details>
