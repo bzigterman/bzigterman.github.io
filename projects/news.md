@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:34 AM CT, Jan. 10 </p> 
+ <p class="updated_time"> 07:43 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: U.S. and Russia Meet Amid Fears of War in Ukraine</a> NYT: With the threat of a Russian invasion of Ukraine stirring concern across Europe, the talks in Geneva on Monday marked the start of a week of high-stakes diplomacy. 
+ <p class="updated_time"> 07:39 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: The court ordered the government to release him from detention and restore a visa. But Australian officials may make a new attempt to cancel it. 
  <p class="updated_time"> 07:19 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59933706?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Ousted Myanmar leader jailed for another four years</a> BBC: Myanmar's former leader faces a series of charges since being ousted in an army coup last February. 
@@ -16,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:03 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59910844?at_medium=RSS&at_campaign=KARANGA">Swedish PM under fire for illegal immigrant cleaner</a> BBC: Prime Minister Magdalena Andersson says she was assured all company employees were working legally. 
  <p class="updated_time"> 06:56 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: U.S. and Russia Meet Amid Fears of War in Ukraine</a> NYT: With the threat of a Russian invasion of Ukraine stirring concern across Europe, the talks in Geneva on Monday marked the start of a week of high-stakes diplomacy. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59936449?at_medium=RSS&at_campaign=KARANGA">Former Israeli PMs Netanyahu and Olmert face off in court in libel case</a> BBC: Benjamin Netanyahu and his family are suing Ehud Olmert for claiming that they were mentally ill. 
  <p class="updated_time"> 06:53 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59935605?at_medium=RSS&at_campaign=KARANGA">Uganda schools reopen after almost two years of Covid closure</a> BBC: Authorities warn that at least 30% of pre-pandemic pupils may never return after such a long absence. 
  <p class="updated_time"> 06:39 AM CT, Jan. 10 </p> 
@@ -63,12 +65,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59928856?at_medium=RSS&at_campaign=KARANGA">'They looted everything': Counting the cost of Kazakh protests</a> BBC: Violent protests have left Kazakhstan stunned and angry, the BBC's Abdujalil Abdurasulov finds. 
  <p class="updated_time"> 11:15 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
- <p class="updated_time"> 11:11 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59927267?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Internet returns to Almaty following a five day outage</a> BBC: Days of violent anti-government protests saw nearly 8,000 people detained, officials say. 
  <p class="updated_time"> 11:01 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/russia-ukraine-nato-europe.html">Can Russia Be Stopped From Invading Ukraine? Here's What We Know</a> NYT: The United States, its NATO allies and Russia meet this week in a whirlwind of diplomacy aimed at averting the largest military action in Europe since World War II. 
- <p class="updated_time"> 10:52 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59932429?at_medium=RSS&at_campaign=KARANGA">Bob Saget: US actor and comedian found dead aged 65</a> BBC: The Full House star was found dead in his hotel room in Orlando, where he was on tour, police say. 
  <p class="updated_time"> 10:37 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Hong Kong Party Angers a City Under Covid Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
  <p class="updated_time"> 09:39 PM CT, Jan. 09 </p> 
@@ -434,8 +432,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/capitol-police-union-private-security-proposal-526395">Capitol Police union douses private security proposal</a> Politico: “We need to hire more officers — period. The last thing we need are private security contractors who are not trained to our standards,” the chair of the union said in a statement sent to POLITICO. 
  <p class="updated_time"> 10:48 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/schumer-threatens-vote-on-senate-rules-change-in-january-526394">Schumer tries to jump-start Dems with rules change threat</a> Politico: The majority leader said they would debate changes to the Senate's rules unless Republicans allow a vote on elections reform. 
- <p class="updated_time"> 07:46 AM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/01/03/new-year-same-to-do-list-for-congress-495569">New Year, same to-do list for Congress</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
