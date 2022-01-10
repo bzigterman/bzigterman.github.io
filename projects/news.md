@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:32 PM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59932429?at_medium=RSS&at_campaign=KARANGA">Bob Saget: US actor and comedian found dead aged 65</a> BBC: The Full House star was found dead in his hotel room in Orlando, where he was on tour, police say. 
+ <p class="updated_time"> 06:54 PM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59927267?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: At least 164 killed in crackdown on protests, reports say</a> BBC: Days of violent anti-government protests also saw nearly 6,000 people arrested, officials say. 
  <p class="updated_time"> 06:39 PM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071703878/us-russia-ukraine-talks-geneva">Neither side is optimistic ahead of U.S.-Russia talks over Ukraine</a> NPR: The U.S. and its European allies want Russia to reduce troop buildup along the Ukraine border. Russia wants U.S. troops out of Eastern Europe. Both sides say those demands are non-starters. 
  <p class="updated_time"> 06:03 PM CT, Jan. 09 </p> 
@@ -35,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59929594?at_medium=RSS&at_campaign=KARANGA">Scala dei Turchi: Sicily's famed cliffs streaked red by vandals</a> BBC: Sicily's Scala dei Turchi are visited by thousands of tourists every year. 
  <p class="updated_time"> 01:57 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59923900?at_medium=RSS&at_campaign=KARANGA">Ten die after Brazilian cliff collapses onto leisure boats</a> BBC: Another 32 were injured when the cliff fell onto boats in a lake in the south-east of the country. 
- <p class="updated_time"> 01:26 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59927267?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: At least 164 killed in crackdown on protests, reports say</a> BBC: Days of violent anti-government protests also saw nearly 6,000 people arrested, officials say. 
  <p class="updated_time"> 11:49 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released, but Other Royals Are Still Locked Up</a> NYT: The Saudi government has not said why it detained or freed Princess Basmah bint Saud, a daughter of a former king who has criticized the country’s policies. 
  <p class="updated_time"> 11:01 AM CT, Jan. 09 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59928851?at_medium=RSS&at_campaign=KARANGA">Covid pandemic: Chinese city tests 14m people after cluster</a> BBC: As China pursues a zero-Covid policy, Tianjin aims to test all its residents within 48 hours. 
  <p class="updated_time"> 07:05 AM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071663548/lahore-pakistan-locks-down-for-air-quality">Lahore, Pakistan, is locking down to improve air quality</a> NPR: Pakistan's second largest city, Lahore, tops the world's most polluted city list, along with India's New Delhi. Poor air quality has prompted the government to order a partial shutdown of schools. 
- <p class="updated_time"> 06:48 AM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59925413?at_medium=RSS&at_campaign=KARANGA">Nigeria motorbike gang attack: Death toll rises to 200</a> BBC: The attacks in the northern Zamfara state are believed to be in response to military air strikes. 
  <p class="updated_time"> 05:55 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Officials’ Party Galls Hong Kong, Chafing Under Covid (and Political) Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
  <p class="updated_time"> 05:34 AM CT, Jan. 09 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:05 PM CT, Jan. 09 </p> 
+ <a href="https://www.politico.com/news/2022/01/09/jim-jordan-jan-6-committees-interview-request-526816">Rep. Jim Jordan says he won’t cooperate with Jan. 6 committee’s interview request</a> Politico: HIs decision follows a similar rejection by Rep. Scott Perry, the only other lawmaker whose testimony the panel has requested so far. 
  <p class="updated_time"> 06:22 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/new-york-city-apartment-fire-526811">19 dead, including 9 children, in New York City apartment fire</a> Politico: “It’s a tragedy beyond measure,” Mayor Eric Adams said. 
  <p class="updated_time"> 04:48 PM CT, Jan. 09 </p> 
@@ -386,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/06/biden-lays-out-the-stakes-for-democracy-can-he-sustain-the-case-526688">Biden lays out the stakes for democracy. Can he sustain the case?</a> Politico: The president’s speech on Thursday was hailed by fellow Democrats. Now, they want him to keep at it. 
  <p class="updated_time"> 12:04 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/former-administration-officials-block-trump-526623">Ex-Trumpers set to plot how to try and take down Trump</a> Politico: Those involved include Stephanie Grisham, Miles Taylor, Olivia Troye and Anthony Scaramucci. 
- <p class="updated_time"> 10:59 AM CT, Jan. 06 </p> 
- <a href="https://www.politico.com/news/2022/01/06/biden-russia-sanctions-european-allies-526606">Biden talks tough on Putin, but European allies are less ready for a fight</a> Politico: U.S. officials are warning Russia of harsh penalties if they invade Ukraine. But the Biden administration first must face a Europe divided on how far to go. 
  <p class="updated_time"> 10:27 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/biden-trump-capitol-riot-526605">Biden decries Trump’s ‘singular responsibility’ for the Capitol riot</a> Politico: One year since the violence of Jan. 6, 2021, the sitting president sharpened his rhetoric toward his predecessor — without using Trump’s name. 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
