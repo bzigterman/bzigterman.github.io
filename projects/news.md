@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/europe/as-its-population-soars-to-40-rum-isle-glimpses-a-future-in-the-mist.html">As Its Population Soars to 40, Rum Isle Glimpses a Future in the Mist</a> NYT: With four new families recently arriving, the remote and rainy island in the Hebrides is experiencing its version of a population surge, although residents new and old concede living here isn’t easy. 
+ <p class="updated_time"> 01:56 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59933706?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Ousted Myanmar leader jailed for another four years</a> BBC: Myanmar's former leader faces a series of charges since being ousted in an army coup last February. 
+ <p class="updated_time"> 01:54 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59932430?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Judge orders immediate release of tennis star</a> BBC: Anthony Kelly quashes the decision to cancel the player's Australian visa on Covid vaccination grounds. 
  <p class="updated_time"> 01:48 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/kazakhstan-protests-detained-injured.html">Nearly 6,000 Detained Amid Unrest in Kazakhstan</a> NYT: Protests that began last weekend over a hike in fuel prices spread across the country, leaving at least 2,000 injured, government officials said. Dozens of deaths also appeared likely. 
  <p class="updated_time"> 01:16 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/asia/myanmar-aung-san-suu-kyi-verdict.html">Aung San Suu Kyi Gets 4 Years on Walkie-Talkie and Covid Charges</a> NYT: Myanmar’s ousted civilian leader was convicted on three more counts, which her defenders said were politically motivated. 
- <p class="updated_time"> 01:15 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59932430?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Judge orders immediate release of tennis star</a> BBC: Anthony Kelly quashes the decision to cancel the player's Australian visa on Covid vaccination grounds. 
  <p class="updated_time"> 01:14 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: The court ordered the government to release him from detention and restore a visa. 
  <p class="updated_time"> 01:11 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071761247/djokovics-visa-reinstated-but-australian-open-status-unclear">Djokovic's visa is reinstated but his Australian Open status remains unclear</a> NPR: Australia's immigration minister could still "exercise a personal power of cancelation," which would mean mean Djokovic could face deportation again and miss the tournament, which starts on Jan. 17 
- <p class="updated_time"> 01:09 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59933706?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Ousted Myanmar leader jailed for another four years</a> BBC: Myanmar's former leader faces a series of charges since being ousted in an army coup last February. 
  <p class="updated_time"> 12:45 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59900500?at_medium=RSS&at_campaign=KARANGA">Golden Globes: West Side Story and The Power of the Dog win at subdued event</a> BBC: Steven Spielberg's remake of the classic film was among the big winners at Sunday's event in LA. 
  <p class="updated_time"> 12:00 AM CT, Jan. 10 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071547294/pakistan-cars-cold-snow-deaths">In Pakistan, 22 die in subfreezing temperatures as their cars are stuck in heavy snow</a> NPR: Most of the victims died of hypothermia, officials said, as overnight temperatures fell to 17.6 Fahrenheit amid heavy snowfall at Pakistan's mountain resort town of Murree. 
  <p class="updated_time"> 07:21 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071542908/venezuelans-are-cooking-over-wood-fires-because-of-a-shortage-of-propane">Venezuelans are cooking over wood fires because of a shortage of propane</a> NPR: In a great irony, Venezuelans are cooking their meals over wood fires because of a shortage of propane. This is in a nation with among the largest oil and natural gas reserves in the world. 
- <p class="updated_time"> 07:09 AM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">In Kazakhstan’s Street Battles, Signs of Elites Fighting Each Other</a> NYT: The reasons for the bloody crisis in Central Asia remain murky, but experts say popular discontent could mask an old-fashioned power struggle within the ruling faction. 
  <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071542887/russia-sent-troops-near-ukraine-and-to-kazakhstan-the-u-s-is-watching-and-waitin">Russia sent troops near Ukraine and to Kazakhstan. The U.S. is watching and waiting</a> NPR: The situation in Kazakhstan has implications for the stability of the region and for U.S. energy companies active in the Central Asian country. 
  <p class="updated_time"> 06:00 AM CT, Jan. 08 </p> 
