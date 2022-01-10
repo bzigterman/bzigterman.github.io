@@ -40,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:11 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59927267?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Internet returns to Almaty following a five day outage</a> BBC: Days of violent anti-government protests saw nearly 8,000 people detained, officials say. 
  <p class="updated_time"> 11:11 PM CT, Jan. 09 </p> 
- <a href="https://www.wsj.com/articles/novak-djokovic-to-be-released-from-detention-in-australia-after-legal-victory-11641798160">Novak Djokovic Released From Detention in Australia After Legal Victory</a> WSJ: Decision to overturn the Australian government’s cancellation of his visa opens the door for the No.1 men’s tennis player to compete at the Australian Open. 
+ <a href="https://www.wsj.com/articles/novak-djokovic-to-be-released-from-detention-in-australia-after-legal-victory-11641798160">Djokovic Released From Detention After Legal Victory</a> WSJ: Decision to overturn the Australian government’s cancellation of his visa opens the door for the No.1 men’s tennis player to compete at the Australian Open. 
  <p class="updated_time"> 11:01 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/russia-ukraine-nato-europe.html">Can the West Stop Russia From Invading Ukraine? Here’s What You Need to Know.</a> NYT: The United States, its NATO allies and Russia meet this week in a whirlwind of diplomacy aimed at averting the largest military action in Europe since World War II. 
  <p class="updated_time"> 10:52 PM CT, Jan. 09 </p> 
