@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:21 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59937221?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic supporters surround car in Melbourne</a> BBC: Crowds chanting "free Novak" surround a black car leaving the offices of the player's lawyer. 
  <p class="updated_time"> 04:00 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Shutdown. What Was the Cost?</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
  <p class="updated_time"> 03:13 AM CT, Jan. 10 </p> 
@@ -37,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
  <p class="updated_time"> 11:11 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59927267?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: Internet returns to Almaty following a five day outage</a> BBC: Days of violent anti-government protests saw nearly 8,000 people detained, officials say. 
+ <p class="updated_time"> 11:11 PM CT, Jan. 09 </p> 
+ <a href="https://www.wsj.com/articles/novak-djokovic-to-be-released-from-detention-in-australia-after-legal-victory-11641798160">Novak Djokovic Released From Detention in Australia After Legal Victory</a> WSJ: Decision to overturn the Australian government’s cancellation of his visa opens the door for the No.1 men’s tennis player to compete at the Australian Open. 
  <p class="updated_time"> 11:01 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/russia-ukraine-nato-europe.html">Can the West Stop Russia From Invading Ukraine? Here’s What You Need to Know.</a> NYT: The United States, its NATO allies and Russia meet this week in a whirlwind of diplomacy aimed at averting the largest military action in Europe since World War II. 
  <p class="updated_time"> 10:52 PM CT, Jan. 09 </p> 
@@ -44,11 +48,9 @@ permalink: /projects/news/
  <p class="updated_time"> 10:37 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Hong Kong Party Angers a City Under Covid Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
  <p class="updated_time"> 09:39 PM CT, Jan. 09 </p> 
- <a href="https://www.wsj.com/articles/china-names-xinjiang-counterterror-veteran-to-lead-troops-in-hong-kong-11641803969">China Names Xinjiang Counterterror Veteran to Lead Troops In Hong Kong</a> WSJ: China has named Peng Jingtang as the new chief of its army garrison in Hong Kong, continuing a string of hard-line appointments in the territory. 
+ <a href="https://www.wsj.com/articles/china-names-xinjiang-counterterror-veteran-to-lead-troops-in-hong-kong-11641803969">China Names Former Xinjiang Commander to Lead Troops in Hong Kong</a> WSJ: China has named Peng Jingtang as the new chief of its army garrison in Hong Kong, continuing a string of hard-line appointments in the territory. 
  <p class="updated_time"> 09:30 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia and U.S. Meet to Begin Negotiations Over Ukraine</a> NYT: Before the two countries met amid rising tensions over Ukraine, a senior Russian official and the U.S. Secretary of State set a pessimistic tone. 
- <p class="updated_time"> 08:59 PM CT, Jan. 09 </p> 
- <a href="https://www.wsj.com/articles/novak-djokovic-to-be-released-from-detention-in-australia-after-legal-victory-11641798160">Novak Djokovic to Be Released From Detention in Australia After Legal Victory</a> WSJ: Decision to overturn the Australian government’s cancellation of his visa opens the door for the No.1 men’s tennis player to compete at the Australian Open. 
  <p class="updated_time"> 08:21 PM CT, Jan. 09 </p> 
  <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-four-years-in-prison-in-second-verdict-11641796580">Myanmar's Aung San Suu Kyi Sentenced to Four Years in Prison in Second Verdict</a> WSJ: The country’s former civilian leader, whose government was overthrown in a military coup last year, is already serving a two-year sentence. 
  <p class="updated_time"> 06:39 PM CT, Jan. 09 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/canada/montreal-cancun-party-flight.html">Airlines Strand Passengers Who Partied on Flight Without Masks</a> NYT: A group of Canadian social media influencers and others flouted Covid-19 rules on a flight to Cancún, Mexico, resulting in airlines leaving many of them without a way home. 
  <p class="updated_time"> 06:54 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59833120?at_medium=RSS&at_campaign=KARANGA">Families seek justice for Iran plane crash victims</a> BBC: Two years on, the families of downed flight PS752 victims are left without answers. 
- <p class="updated_time"> 06:04 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59903464?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the US Capitol riot anniversary</a> BBC: Simmering tensions remain one year on from unprecedented scenes in Washington DC. 
  <p class="updated_time"> 06:00 PM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59898362?at_medium=RSS&at_campaign=KARANGA">How KFC in Kenya got fried over its chip shortage</a> BBC: Kenyans called for a KFC boycott after it was discovered that its fries were imported from Egypt. 
  <p class="updated_time"> 04:54 PM CT, Jan. 07 </p> 
@@ -428,10 +428,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/03/new-year-same-to-do-list-for-congress-495569">New Year, same to-do list for Congress</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:05 AM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/03/dems-to-use-jan-6-anniversary-to-supercharge-voting-rights-push-495565"> Dems to use Jan. 6 anniversary to supercharge voting rights push</a> Politico Playbook: And Biden says the U.S. would 'respond decisively' if Russia invades Ukraine. 
- <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/january-6-capitol-riot-house-democrats-525975">‘It’s only gotten worse’: The long shadow of the night that broke the House</a> Politico: For most Democrats, the biggest affront wasn’t even the violence by Donald Trump’s supporters. It was the votes more than 140 of their GOP colleagues took afterward. 
- <p class="updated_time"> 04:30 AM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/could-january-6th-happen-again-526167">Could Jan. 6 happen again?</a> Politico: The Capitol Police has made progress under a new chief. But many on the Hill don't have an easy answer. 
 
 
 </details>
