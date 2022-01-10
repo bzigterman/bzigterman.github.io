@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:36 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Australia Court Hears Novak Djokovic's Appeal</a> NYT: The  court ordered the government to release him from detention and restore a visa. 
+ <p class="updated_time"> 12:16 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/asia/myanmar-aung-san-suu-kyi-verdict.html">Aung San Suu Kyi Gets 4 Years on Walkie-Talkie and Covid Charges</a> NYT: Myanmar’s ousted civilian leader was convicted on three more counts, which her defenders said were politically motivated. 
  <p class="updated_time"> 12:00 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59928856?at_medium=RSS&at_campaign=KARANGA">'They looted everything': Counting the cost of Kazakh protests</a> BBC: Violent protests have left Kazakhstan stunned and angry, the BBC's Abdujalil Abdurasulov finds. 
  <p class="updated_time"> 11:15 PM CT, Jan. 09 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59933028?at_medium=RSS&at_campaign=KARANGA">India begins booster shots as Covid-19 cases surge</a> BBC: Frontline workers and vulnerable adults will get booster jabs as the country battles a spike in cases. 
  <p class="updated_time"> 10:37 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Hong Kong Party Angers a City Under Covid Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
- <p class="updated_time"> 10:21 PM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Australia Court Hears Novak Djokovic's Appeal</a> NYT: His lawyer argued that the tennis star had met all government requirements before flying to the country to compete in the Australian Open. 
  <p class="updated_time"> 10:17 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59932430?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Judge raises concerns over tennis star's treatment by border officers</a> BBC: Anthony Kelly is presiding over the tennis star's challenge to the cancellation of his Australian visa. 
  <p class="updated_time"> 09:30 PM CT, Jan. 09 </p> 
@@ -257,7 +259,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:50 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/harry-reid-funeral-democratic-leaders-tribute-526795">'Deeply good man from Searchlight': Democratic leaders pay tribute to Harry Reid in Nevada</a> Politico: Party luminaries gather at Las Vegas memorial service to honor the former Senate majority leader. 
  <p class="updated_time"> 05:43 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/us-sanctions-russia-ukraine.html">U.S. Details Possible Sanctions on Russia Over a Ukraine Invasion</a> NYT: The Biden administration and its allies are developing new possible sanctions ahead of a series of meetings to defuse the crisis with Moscow. 
+ <a href="https://www.nytimes.com/2022/01/08/us/politics/us-sanctions-russia-ukraine.html">U.S. Details Costs of a Russian Invasion of Ukraine</a> NYT: The Biden administration and its allies are developing new possible sanctions ahead of a series of meetings to defuse the crisis with Moscow. 
  <p class="updated_time"> 05:19 PM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/harry-reid-memorial/index.html">Biden eulogizes Reid as 'one of the greatest Senate Majority Leaders in history'</a> CNN: Former Senate Majority Leader Harry Reid will be remembered by a host of top Democratic politicians at his memorial service in Las Vegas on Saturday, with President Joe Biden speaking at the service and former President Barack Obama eulogizing the late senator. 
  <p class="updated_time"> 05:12 PM CT, Jan. 08 </p> 
