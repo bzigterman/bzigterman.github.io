@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:39 PM CT, Jan. 10 </p> 
+ <p class="updated_time"> 02:49 PM CT, Jan. 10 </p> 
+ <a href="https://www.npr.org/2022/01/10/1071880010/russia-us-ukraine-nato-join">Russia digs in on Ukraine never joining NATO, on a day of talks with the U.S. </a> NPR: "For us, it's absolutely mandatory to make sure that Ukraine never, never, ever becomes a member of NATO," Russian Deputy Foreign Minister Sergei Ryabkov said. 
+ <p class="updated_time"> 02:48 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
+ <p class="updated_time"> 02:44 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests-strongmen.html">Behind Kazakhstan Unrest, the ‘Strongman’s Dilemma’</a> NYT: Since the Cold War’s end, most dictatorial governments have collapsed after their ruler’s departure. 
  <p class="updated_time"> 02:38 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
  <p class="updated_time"> 02:10 PM CT, Jan. 10 </p> 
@@ -163,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071542908/venezuelans-are-cooking-over-wood-fires-because-of-a-shortage-of-propane">Venezuelans are cooking over wood fires because of a shortage of propane</a> NPR: In a great irony, Venezuelans are cooking their meals over wood fires because of a shortage of propane. This is in a nation with among the largest oil and natural gas reserves in the world. 
  <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071542887/russia-sent-troops-near-ukraine-and-to-kazakhstan-the-u-s-is-watching-and-waitin">Russia sent troops near Ukraine and to Kazakhstan. The U.S. is watching and waiting</a> NPR: The situation in Kazakhstan has implications for the stability of the region and for U.S. energy companies active in the Central Asian country. 
- <p class="updated_time"> 06:00 AM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/01/08/1062816001/top-global-tiktoks-of-2021-defiant-afghan-singer-kenyan-comic-walnut-cracking-el">Top global TikToks of 2021: Defiant Afghan singer, Kenya comic, walnut-cracking elbow</a> NPR: What did the world watch on TikTok last year? We round up some favorite videos — including a mukbang ASMR Thai star (don't worry, we explain it) and a potato chip-crunching Kenyan comedian. 
  <p class="updated_time"> 05:00 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/canada/blackberry-phone-service-ends.html">BlackBerry Phone Service Officially Ends</a> NYT: BlackBerry was once Canada’s most valuable company and a global force in tech. The final step in its downfall as a phone maker arrived this week. 
  <p class="updated_time"> 04:00 AM CT, Jan. 08 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/covid-flight-italy-india.html">Covid Tests Probed After 100s on 2 Italy-India Flights Test Positive </a> NYT: Some 300 passengers on two flights who tested positive for the coronavirus upon landing in the northern city of Amritsar are being retested. 
  <p class="updated_time"> 12:43 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/spyware-warning-cybersecurity.html">Biden Administration Warns Against Spyware Targeting Dissidents</a> NYT: The U.S. intelligence community offered steps that would mitigate — but not stop — spyware developed by firms like the NSO Group. 
- <p class="updated_time"> 11:20 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests-strongmen.html">Behind Kazakhstan Unrest, the ‘Strongman’s Dilemma’</a> NYT: Since the Cold War’s end, most dictatorial governments have collapsed after their ruler’s departure. 
  <p class="updated_time"> 10:04 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27198480?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: The actor who broke down Hollywood's racial barriers</a> BBC: Sidney Poitier, the actor and director who helped break down Hollywood's racial barriers, dies aged 94. 
 
@@ -206,6 +206,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/doctors-covid-staff-shortage-526842">The doctor who sees you now may have Covid</a> Politico: While most health workers are vaccinated, many are still falling sick, exacerbating a staff shortage as more Americans seek hospital care. 
  <p class="updated_time"> 03:00 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/trump-immunity-jan-6-526839">Judge mulls whether Trump’s silence on Jan. 6 could amount to ‘agreement’ with rioters</a> Politico: During a hearing on civil lawsuits stemming from the Capitol attack, Donald Trump’s lawyers claimed sweeping immunity for the former president. 
+ <p class="updated_time"> 02:47 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
  <p class="updated_time"> 02:34 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/business/income-tax-day-deadline.html">The I.R.S. Warns of Messy Tax Filing Season</a> NYT: The agency, which has been hobbled by paperwork backlogs and short staffing, said tax filers should expect a lower level of service this year. 
  <p class="updated_time"> 02:25 PM CT, Jan. 10 </p> 
@@ -220,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/business/media/symone-sanders-msnbc.html">Symone Sanders, a Strategist for Biden and Harris, Is Joining MSNBC</a> NYT: Ms. Sanders, 32, will host a weekend show on the cable network, one of the first big programming moves by MSNBC’s president, Rashida Jones. 
  <p class="updated_time"> 01:32 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/clay-aiken-congress.html">Former ‘American Idol’ Star Clay Aiken Announces Run for Congress</a> NYT: Mr. Aiken said he was running as a “loud and proud Democrat” for an open House seat in his native North Carolina this year. 
- <p class="updated_time"> 01:17 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
  <p class="updated_time"> 12:55 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/treasury-tax-filing-season-526833">Treasury warns taxpayers to brace for a turbulent tax filing season</a> Politico: The IRS is still dealing with backups in processing returns from the past two filing seasons. 
  <p class="updated_time"> 12:52 PM CT, Jan. 10 </p> 
