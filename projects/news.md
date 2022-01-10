@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:27 AM CT, Jan. 10 </p> 
+ <p class="updated_time"> 09:43 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59931896?at_medium=RSS&at_campaign=KARANGA">New York fire: At least 19 killed in apartment block blaze</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
+ <p class="updated_time"> 09:35 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: U.S. and Russia Meet Amid Fears of War in Ukraine</a> NYT: With the threat of a Russian invasion of Ukraine stirring concern across Europe, the talks in Geneva on Monday marked the start of a week of high-stakes diplomacy. 
+ <p class="updated_time"> 09:29 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/china-covid-omicron-beijing-olympics.html">China’s Covid Outbreak Complicates Safety Plan for Beijing Olympics</a> NYT: Officials are racing to extinguish a spate of coronavirus infections around the country. 
  <p class="updated_time"> 09:03 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-59936823?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic family end press conference after Covid event question</a> BBC: The tennis star's family ends a press conference, refusing to be drawn on his positive Covid test. 
  <p class="updated_time"> 08:59 AM CT, Jan. 10 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
  <p class="updated_time"> 07:53 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: Australian officials hinted they may make a new attempt to cancel Djokovic’s visa, even as the tennis champion, freed from detention, returned to the court. 
- <p class="updated_time"> 07:46 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59931896?at_medium=RSS&at_campaign=KARANGA">New York fire: At least 19 killed in apartment block blaze</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
  <p class="updated_time"> 07:19 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59933706?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Ousted Myanmar leader jailed for another four years</a> BBC: Myanmar's former leader faces a series of charges since being ousted in an army coup last February. 
  <p class="updated_time"> 07:18 AM CT, Jan. 10 </p> 
@@ -74,7 +76,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:19 AM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/novak-djokovic-to-be-released-from-detention-in-australia-after-legal-victory-11641798160">Djokovic Released From Detention After Legal Victory</a> WSJ: Decision to overturn Australian authorities’ cancellation of his visa opens the door for the No. 1 men’s tennis player to compete in the Australian Open. 
  <p class="updated_time"> 01:11 AM CT, Jan. 10 </p> 
- <a href="https://www.npr.org/2022/01/10/1071761247/djokovics-visa-reinstated-but-australian-open-status-unclear">Djokovic's visa is reinstated but his Australian Open status remains unclear</a> NPR: Australia's immigration minister could still "exercise a personal power of cancelation," which would mean mean Djokovic could face deportation again and miss the tournament, which starts on Jan. 17 
+ <a href="https://www.npr.org/2022/01/10/1071761247/djokovics-visa-reinstated-but-australian-open-status-unclear">Djokovic's visa is reinstated, but his Australian Open status remains unclear</a> NPR: The tennis star, who sought a COVID-19 vaccine exemption to play in the tournament, could face deportation again. The battle has sparked protests in the widely vaccinated country. 
  <p class="updated_time"> 12:55 AM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia Begin Talks to Avert One of the Biggest Crises Since the Cold War</a> WSJ: The Kremlin has accused NATO of trying to encroach into Russia’s backyard and has demanded it halt its outreach to eastern countries, including Ukraine, while the Biden administration has signaled it is unwilling to cede to Moscow’s demands and has threatened retaliation. 
  <p class="updated_time"> 12:45 AM CT, Jan. 10 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/obituaries/theresa-hak-kyung-cha-overlooked.html">Overlooked No More: Theresa Hak Kyung Cha, Artist and Author Who Explored Identity</a> NYT: She was murdered after the publication of her first novel, “Dictee,” a challenging exploration of Korean history and immigrant life that inspires Asian American writers today. 
  <p class="updated_time"> 10:04 AM CT, Jan. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27198480?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: The actor who broke down Hollywood's racial barriers</a> BBC: Sidney Poitier, the actor and director who helped break down Hollywood's racial barriers, dies aged 94. 
- <p class="updated_time"> 09:31 AM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/europe/italian-mafia-fugitive-google-maps.html">Italian Mafia Fugitive Caught In Spain Thanks to Google Maps</a> NYT: Investigators had tracked the man to a town in Spain, and an image found online confirmed that the police were on the right track. 
 
 
 </details>
@@ -200,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:04 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/symone-sanders-msnbc-526824">Symone Sanders lands at MSNBC</a> Politico: The former VP spokesperson is heading to the left-leaning cable news network, where she will host a weekend show and a show on its streaming platform. 
+ <p class="updated_time"> 09:33 AM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US and Russia hold crunch talks over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 09:01 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/business/media/symone-sanders-msnbc.html">Symone Sanders, a Strategist for Biden and Harris, Is Joining MSNBC</a> NYT: Ms. Sanders, 32, will host a weekend show on the cable network, one of the first big programming moves by MSNBC’s president, Rashida Jones. 
  <p class="updated_time"> 08:44 AM CT, Jan. 10 </p> 
@@ -222,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/jan-6-committee-ramps-up-state-level-investigation-526752">Jan. 6 panel ramps up investigation into Trump's state-level pressure</a> Politico: POLITICO has identified the information the committee has received from key swing states, as lawmakers prepare to take their findings public. 
  <p class="updated_time"> 04:30 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/fed-chief-powell-economy-challenge-526783">Fed’s Powell pumped trillions into the economy. Now, he may be the party killer.</a> Politico: Heightened frustration among Americans about soaring prices is fueling congressional pressure on the Fed chief over how the Fed will respond. 
- <p class="updated_time"> 04:11 AM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US and Russia hold crunch talks over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 04:00 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/manchin-coal-miners.html">Manchin’s Choice on Build Back Better: Mine Workers or Mine Owners</a> NYT: Senator Joe Manchin III is caught between the mine workers’ union, which supports President Biden’s social policy and climate bill, and mine owners in his state who oppose it. 
  <p class="updated_time"> 11:18 PM CT, Jan. 09 </p> 
