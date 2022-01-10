@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:42 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
+ <p class="updated_time"> 04:29 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59900738?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest was coup attempt, says president</a> BBC: President Tokayev says a hunt for "terrorists" is continuing and Kazakhstan will soon provide proof. 
  <p class="updated_time"> 04:21 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59937221?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic supporters surround car in Melbourne</a> BBC: Crowds chanting "free Novak" surround a black car leaving the offices of the player's lawyer. 
- <p class="updated_time"> 04:00 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Shutdown. What Was the Cost?</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
  <p class="updated_time"> 03:13 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: The court ordered the government to release him from detention and restore a visa. But Australian officials suggested they may make a new attempt to cancel it. 
  <p class="updated_time"> 03:13 AM CT, Jan. 10 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/asia/myanmar-aung-san-suu-kyi-verdict.html">In Myanmar, Aung San Suu Kyi Sentenced to 4 More Years</a> NYT: Myanmar’s ousted civilian leader was convicted on three more counts under Covid and telecommunications rules, which her defenders said were politically motivated. 
  <p class="updated_time"> 02:59 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/ukraine-russia-negotiations.html">As Russia and U.S. Debate Ukraine, Ukraine Would Like a Say</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
- <p class="updated_time"> 02:52 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59932430?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Judge orders immediate release of tennis star</a> BBC: Anthony Kelly quashes the decision to cancel the player's Australian visa on Covid vaccination grounds. 
  <p class="updated_time"> 02:51 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-europe-ukraine-nato.html">U.S. and Russia Will Discuss European Security, but Without Europeans</a> NYT: The coming talks in Geneva are bilateral, reviving old fears that the two Cold War powers will forge a deal on their own. 
  <p class="updated_time"> 02:00 AM CT, Jan. 10 </p> 
@@ -131,6 +131,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071547294/pakistan-cars-cold-snow-deaths">In Pakistan, 22 die in subfreezing temperatures as their cars are stuck in heavy snow</a> NPR: Most of the victims died of hypothermia, officials said, as overnight temperatures fell to 17.6 Fahrenheit amid heavy snowfall at Pakistan's mountain resort town of Murree. 
  <p class="updated_time"> 07:21 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071542908/venezuelans-are-cooking-over-wood-fires-because-of-a-shortage-of-propane">Venezuelans are cooking over wood fires because of a shortage of propane</a> NPR: In a great irony, Venezuelans are cooking their meals over wood fires because of a shortage of propane. This is in a nation with among the largest oil and natural gas reserves in the world. 
+ <p class="updated_time"> 07:09 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">In Kazakhstan’s Street Battles, Signs of Elites Fighting Each Other</a> NYT: The reasons for the bloody crisis in Central Asia remain murky, but experts say popular discontent could mask an old-fashioned power struggle within the ruling faction. 
  <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071542887/russia-sent-troops-near-ukraine-and-to-kazakhstan-the-u-s-is-watching-and-waitin">Russia sent troops near Ukraine and to Kazakhstan. The U.S. is watching and waiting</a> NPR: The situation in Kazakhstan has implications for the stability of the region and for U.S. energy companies active in the Central Asian country. 
  <p class="updated_time"> 06:00 AM CT, Jan. 08 </p> 
@@ -181,8 +183,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-27198480?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: The actor who broke down Hollywood's racial barriers</a> BBC: Sidney Poitier, the actor and director who helped break down Hollywood's racial barriers, dies aged 94. 
  <p class="updated_time"> 09:31 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/italian-mafia-fugitive-google-maps.html">Italian Mafia Fugitive Caught In Spain Thanks to Google Maps</a> NYT: Investigators had tracked the man to a town in Spain, and an image found online confirmed that the police were on the right track. 
+ <p class="updated_time"> 08:39 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/arts/music/einar-sweden-rap.html">After Killing of Einar, Sweden Struggles With 'Gangster Rap'</a> NYT: Hip-hop, the country’s most popular music, has quickly become a lightning rod for Sweden’s long-roiling problems with gun violence and gang warfare. 
  <p class="updated_time"> 05:22 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/americas/luiza-trajano-brazil-magalu-racism.html">Billionaire’s Star Rises as She Takes Bold Stance on Racism in Brazil</a> NYT: Luiza Trajano turned a small family store into a retail giant. Now, a company policy limiting its executive training program to Black applicants is drawing praise, outrage and much soul-searching. 
+ <p class="updated_time"> 08:32 PM CT, Jan. 06 </p> 
+ <a href="https://www.nytimes.com/2022/01/06/world/asia/north-korea-beijing-olympics.html">North Korea Says It Will Skip Beijing Olympics Because of the Pandemic</a> NYT: The country also blamed “hostile forces” for its decision not to send a delegation to China, its closest ally. 
 
 
 </details>
@@ -192,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/jan-6-committee-ramps-up-state-level-investigation-526752">Jan. 6 panel ramps up investigation into Trump's state-level pressure</a> Politico: POLITICO has identified the information the committee has received from key swing states, as lawmakers prepare to take their findings public. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 10 </p> 
+ <a href="https://www.politico.com/news/2022/01/10/fed-chief-powell-economy-challenge-526783">Powell was called on to save the economy. His next challenge will be even tougher.</a> Politico: Heightened frustration among Americans about soaring prices is fueling congressional pressure on the Fed chief over how the Fed will respond. 
  <p class="updated_time"> 04:00 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/manchin-coal-miners.html">Manchin’s Choice on Build Back Better: Mine Workers or Mine Owners</a> NYT: Senator Joe Manchin III is caught between the mine workers’ union, which supports President Biden’s social policy and climate bill, and mine owners in his state who oppose it. 
  <p class="updated_time"> 10:51 PM CT, Jan. 09 </p> 
@@ -330,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
  <p class="updated_time"> 03:01 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-military-kurilla.html">Biden Nominates Michael E. Kurilla to Lead Central Command</a> NYT: Lt. Gen. Michael E. Kurilla would take over as the United States tries to conduct operations in Afghanistan from afar. 
- <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
@@ -408,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487">Trump cancels Jan. 6 event amid GOP complaints</a> Politico: Republican senators said the press conference wasn't a "good idea" hours before the former president canceled it. 
  <p class="updated_time"> 12:59 PM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/manchin-biden-spending-bill-negotiation-526486">Manchin on Biden's spending bill: 'No negotiation going on'</a> Politico: The West Virginia senator thinks Democrats would be better off focusing on climate provisions in their wide-ranging megabill. 
- <p class="updated_time"> 12:47 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/omicron-ontario-canada-covid-restrictions-526484">As Covid policies divide America, Ontario doubles down (again)</a> Politico: The latest Covid shutdowns test the trust of the jabbed and boosted in Canada’s most populous province. 
  <p class="updated_time"> 10:46 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/news/2022/01/04/ruben-gallego-merrick-garland-capitol-attack-526480">Gallego: Garland 'extremely weak' on Jan. 6 cases</a> Politico: The Arizona Democrat also directed his ire at GOP lawmakers who he accused of trying to shield Jan. 6 rioters. 
  <p class="updated_time"> 07:51 AM CT, Jan. 04 </p> 
