@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:00 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59928856?at_medium=RSS&at_campaign=KARANGA">'They looted everything': Counting the cost of Kazakh protests</a> BBC: Violent protests have left Kazakhstan stunned and angry, the BBC's Abdujalil Abdurasulov finds. 
  <p class="updated_time"> 11:15 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
  <p class="updated_time"> 11:11 PM CT, Jan. 09 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/asia/hong-kong-birthday-party-quarantine.html">Hong Kong Quarantines Dozens of Officials After a Birthday Party</a> NYT: Those being sent to shipping-container-like dormitories include the city’s police chief and at least 20 lawmakers. 
  <p class="updated_time"> 04:00 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/americas/luiza-trajano-brazil-magalu-racism.html">Billionaire’s Star Rises as She Takes Bold Stance on Racism in Brazil</a> NYT: Luiza Trajano turned a small family store into a retail giant. Now, a company policy limiting its executive training program to Black applicants is drawing praise, outrage and much soul-searching. 
- <p class="updated_time"> 11:49 PM CT, Jan. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59901094?at_medium=RSS&at_campaign=KARANGA">Djokovic stay highlights refugee concerns at Melbourne detention hotel</a> BBC: People held at the detention hotel have complained of mouldy food and poor conditions. 
 
 
 </details>
