@@ -7,20 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:32 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
+ <p class="updated_time"> 05:20 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59944634?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… Novak Djokovic’s Australia visa victory</a> BBC: The world number one made it onto a tennis court in Melbourne, but he could still be deported. 
  <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
  <p class="updated_time"> 05:06 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
  <p class="updated_time"> 05:00 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
+ <p class="updated_time"> 04:55 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59944889?at_medium=RSS&at_campaign=KARANGA">Man gets genetically-modified pig heart in world-first transplant</a> BBC: David Bennett, 57, is doing well three days after surgery, doctors in Baltimore, Maryland, say. 
  <p class="updated_time"> 04:46 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
  <p class="updated_time"> 04:24 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in talks with US</a> BBC: In high-stakes talks, Russian officials tell their US counterparts they have no plans to invade Ukraine. 
  <p class="updated_time"> 04:12 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59946362?at_medium=RSS&at_campaign=KARANGA">Near-miss for pilot saved from downed plane hit by train</a> BBC: Dramatic video shows the rescue, moments before collision, after a plane landed on train tracks. 
- <p class="updated_time"> 04:05 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071897000/djokovics-fate-remains-unclear-as-australian-open-saga-continues">Djokovic's fate remains unclear as Australian Open saga continues</a> NPR: NPR's Ari Shapiro talks to Stephanie Ferrier of the Australian Broadcasting Corp. about Novak Djokovic, his reinstated visa and where things stand with the Australian Open. 
  <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
@@ -89,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59900738?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest was coup attempt, says president</a> BBC: President Tokayev says a hunt for "terrorists" is continuing and Kazakhstan will soon provide proof. 
  <p class="updated_time"> 04:21 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59937221?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic supporters surround car in Melbourne</a> BBC: Crowds chanting "free Novak" surround a black car leaving the offices of the player's lawyer. 
- <p class="updated_time"> 04:00 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/health-59911257?at_medium=RSS&at_campaign=KARANGA">Covid-19: Common cold may give some protection, study suggests</a> BBC: Researchers say immune cells made to defend the body against some colds could help stave off Covid. 
  <p class="updated_time"> 03:13 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071769164/myanmars-suu-kyi-sentenced-to-4-more-years-in-prison">Myanmar's Suu Kyi sentenced to 4 more years in prison</a> NPR: Suu Kyi was convicted last month on two other charges and given a four-year prison sentence, which was then halved by the head of the military-installed government. 
  <p class="updated_time"> 03:11 AM CT, Jan. 10 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/09/1071703878/us-russia-ukraine-talks-geneva">Neither side is optimistic ahead of U.S.-Russia talks over Ukraine</a> NPR: The U.S. and its European allies want Russia to reduce troop buildup along the Ukraine border. Russia wants U.S. troops out of Eastern Europe. Both sides say those demands are non-starters. 
  <p class="updated_time"> 06:03 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808770?at_medium=RSS&at_campaign=KARANGA">Air pollution: Delhi's smog problem is rooted in India's water crisis</a> BBC: Years of ill-conceived farming practices have contributed to India's worsening air pollution. 
- <p class="updated_time"> 04:59 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59932113?at_medium=RSS&at_campaign=KARANGA">Bronx fire: 'A horrific, painful moment ' says New York City Mayor Eric Adams</a> BBC: At least 17 people, including eight children, have died after a fire in the Bronx. 
  <p class="updated_time"> 04:09 PM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071706554/canadas-covid-testing-crisis">Canada's COVID testing crisis</a> NPR: Canada has reported COVID-19 case numbers in recent days many times higher than it has seen at any other point during the pandemic. Demand has overwhelmed testing capacity in much of the country. 
  <p class="updated_time"> 02:14 PM CT, Jan. 09 </p> 
@@ -200,10 +200,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:27 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/pence-jan-6-testimony.html">Mike Pence Seen as Key Witness in Jan. 6 Investigation</a> NYT: Getting the former vice president to answer questions under oath could be crucial as the House panel focuses on Donald Trump’s responsibility for the Capitol riot. 
+ <p class="updated_time"> 05:24 PM CT, Jan. 10 </p> 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/10/1071899471/insurance-at-home-covid-tests-white-house">How to get insurance to pay for at-home COVID tests, according to the White House</a> NPR: The Biden administration says Americans should be able to order COVID tests online later this month. Those who are eligible can get eight free over-the-counter at-home tests a month. 
  <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-at-home-covid-tests-reimbursement-526853">Biden administration lays out rules for reimbursing at-home Covid tests</a> Politico: Under the plan, private insurers can set up programs at preferred pharmacies or retailers where the upfront cost of home tests is covered for beneficiaries. 
- <p class="updated_time"> 05:03 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/pence-jan-6-testimony.html">Mike Pence Seen as Key Witness in Jan. 6 Investigation</a> NYT: Getting the former vice president to answer questions under oath could be crucial as the House panel focuses on Donald Trump’s responsibility for the Capitol riot. 
  <p class="updated_time"> 05:02 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/joe-biden-voting-rights/index.html">Biden facing pressure to deliver on voting rights ahead of Atlanta speech</a> CNN: Pressure is intensifying on President Joe Biden to articulate a plan to enact meaningful voter protections as a counter to strict new voting laws going into place around the nation after warning for the past year of nascent dangers to democracy. 
  <p class="updated_time"> 04:50 PM CT, Jan. 10 </p> 
@@ -364,16 +366,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071368803/jan-6-panel-chair-says-committee-will-ask-mike-pence-to-voluntarily-appear">The chair of the Jan. 6 panel says the committee will ask Mike Pence to appear</a> NPR: The chair of the House select committee investigating the Jan. 6 attack says by month's end they'll ask former Vice President Mike Pence to testify. They may also request testimony from Ivanka Trump. 
  <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
- <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
  <p class="updated_time"> 01:10 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/usda-school-lunch-inflation-supply-chain/index.html">USDA pumps $750 million into school meals to counter inflation, supply chain woes</a> CNN: Schools are not only wrestling with how to educate children amid the surge in coronavirus cases. They are also contending with feeding kids as inflation and supply chain problems disrupt their ability to serve meals. 
- <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
- <p class="updated_time"> 12:52 PM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071304780/supreme-court-arguments-biden-vaccine-testing-regulation">Supreme Court's conservatives cast cloud over vaccine-or-test mandate for businesses</a> NPR: Justices seemed more open to the vaccine mandate for almost all workers at hospitals, nursing homes, and other medical providers receiving federal Medicare and Medicaid funds. 
  <p class="updated_time"> 12:37 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/voting-rights-electoral-count-john-lewis-act/index.html">Senate Democrats vow they'll pass voting rights legislation with or without Republicans. Here's what their proposals would do</a> CNN: Senate Majority Leader Chuck Schumer has set the stage for a showdown this month over voting rights -- pledging to muscle through sweeping new federal legislation aimed at counteracting moves by Republicans in state capitols to restrict access to the ballot. 
  <p class="updated_time"> 12:36 PM CT, Jan. 07 </p> 
