@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:32 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
+ <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
+ <a href="https://www.npr.org/2022/01/10/1071897000/djokovics-fate-remains-unclear-as-australian-open-saga-continues">Djokovic's fate remains unclear as Australian Open saga continues</a> NPR: NPR's Ari Shapiro talks to Stephanie Ferrier of the Australian Broadcasting Corp. about Novak Djokovic, his reinstated visa and where things stand with the Australian Open. 
+ <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
+ <a href="https://www.npr.org/2022/01/10/1071896979/the-u-s-and-russia-tackle-growing-tensions-over-ukraine">The U.S. and Russia tackle growing tensions over Ukraine</a> NPR: The U.S and Russian deputy foreign ministers kick off a week of talks, hoping to ease tensions over Ukraine, which Russia is threatening with a troop build-up near their shared border. 
+ <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
+ <a href="https://www.npr.org/2022/01/10/1071896627/the-uae-attempts-to-overhaul-harsh-criminal-and-financial-laws">The UAE attempts to overhaul harsh criminal and financial laws</a> NPR: The United Arab Emirates has been criticized for human rights violations but is now overhauling its laws to ease up on some social and economic restrictions. 
+ <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
+ <a href="https://www.npr.org/2022/01/10/1071896624/vindman-discusses-u-s-options-on-russia-ukraine-tensions">Vindman discusses U.S. options on Russia-Ukraine tensions</a> NPR: NPR's Mary Louise Kelly talks to Alexander Vindman, former director for European affairs at the United States National Security Council, about how the U.S. might deter Russia from invading Ukraine. 
  <p class="updated_time"> 03:06 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59945850?at_medium=RSS&at_campaign=KARANGA">Millionaire murderer Robert Durst dies in prison</a> BBC: The real estate heir turned fugitive unwittingly confessed to three killings on a TV crime show. 
  <p class="updated_time"> 02:49 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071880010/russia-us-ukraine-nato-join">Russia digs in on Ukraine never joining NATO, on a day of talks with the U.S. </a> NPR: "For us, it's absolutely mandatory to make sure that Ukraine never, never, ever becomes a member of NATO," Russian Deputy Foreign Minister Sergei Ryabkov said. 
- <p class="updated_time"> 02:48 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
- <p class="updated_time"> 02:44 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests-strongmen.html">Behind Kazakhstan Unrest, the ‘Strongman’s Dilemma’</a> NYT: Since the Cold War’s end, most dictatorial governments have collapsed after their ruler’s departure. 
  <p class="updated_time"> 02:38 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
  <p class="updated_time"> 02:10 PM CT, Jan. 10 </p> 
@@ -58,7 +64,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:23 AM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/kazakhstan-crisis-shows-that-russia-still-trumps-chinas-power-in-central-asia-11641842588">Kazakhstan Shows That Russia Still Trumps China's Power in Central Asia</a> WSJ: Beijing’s huge investments in the region increasingly rely on Russian protection. 
  <p class="updated_time"> 08:19 AM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia See Little Progress in Early Talks on Ukraine Crisis</a> WSJ: Negotiators for Washington and Moscow failed to narrow their differences in security talks in Geneva on Monday against the backdrop of Russia’s military buildup near Ukraine, U.S. and Russian diplomats said. 
+ <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia See Little Progress in Early Talks on Ukraine Crisis</a> WSJ: Negotiators for Washington and Moscow failed to narrow their differences in security talks in Geneva against the backdrop of Russia’s military buildup near Ukraine, U.S. and Russian diplomats said. 
  <p class="updated_time"> 08:17 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59937510?at_medium=RSS&at_campaign=KARANGA">Spain: Badger thought to have found Roman treasure</a> BBC: Archaeologists discovered Roman coins outside the den of an animal next to a cave in northern Spain. 
  <p class="updated_time"> 08:04 AM CT, Jan. 10 </p> 
@@ -157,16 +163,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071565479/turkmenistan-gates-of-hell-fire">Turkmenistan's leader wants 'Gates of Hell' fire put out</a> NPR: The president of Turkmenistan is calling for an end to one of the country's most notable but infernal sights — a natural gas crater that has burned for decades. 
  <p class="updated_time"> 09:30 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/kazakhstan-protests-karim-masimov-arrest.html">Kazakhstan Arrests Karim Masimov, Ex-Intelligence Chief, on Suspicion of Treason</a> NYT: The president had dismissed the intelligence chief, Karim Masimov, this week amid violence that may be tied, at least in part, to political infighting. 
- <p class="updated_time"> 09:08 AM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/2022/01/08/1071554990/kazakhstan-anti-terror-arrest">Kazakhstan's former anti-terror chief is arrested over protests</a> NPR: Karim Masimov has been arrested on charges of attempting to overthrow the government following violent protests that the president has blamed on foreign-backed terrorists. 
  <p class="updated_time"> 08:23 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/australia/novak-djokovic-australia-visa.html">Djokovic Tested Positive for Coronavirus in December, His Lawyers Say</a> NYT: Lawyers for the tennis star, who is appealing Australia’s decision to deny him entry, said the positive test came weeks before he flew to the country. 
- <p class="updated_time"> 07:42 AM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/2022/01/08/1071547294/pakistan-cars-cold-snow-deaths">In Pakistan, 22 die in subfreezing temperatures as their cars are stuck in heavy snow</a> NPR: Most of the victims died of hypothermia, officials said, as overnight temperatures fell to 17.6 Fahrenheit amid heavy snowfall at Pakistan's mountain resort town of Murree. 
- <p class="updated_time"> 07:21 AM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/2022/01/08/1071542908/venezuelans-are-cooking-over-wood-fires-because-of-a-shortage-of-propane">Venezuelans are cooking over wood fires because of a shortage of propane</a> NPR: In a great irony, Venezuelans are cooking their meals over wood fires because of a shortage of propane. This is in a nation with among the largest oil and natural gas reserves in the world. 
- <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/2022/01/08/1071542887/russia-sent-troops-near-ukraine-and-to-kazakhstan-the-u-s-is-watching-and-waitin">Russia sent troops near Ukraine and to Kazakhstan. The U.S. is watching and waiting</a> NPR: The situation in Kazakhstan has implications for the stability of the region and for U.S. energy companies active in the Central Asian country. 
  <p class="updated_time"> 05:00 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/canada/blackberry-phone-service-ends.html">BlackBerry Phone Service Officially Ends</a> NYT: BlackBerry was once Canada’s most valuable company and a global force in tech. The final step in its downfall as a phone maker arrived this week. 
  <p class="updated_time"> 04:00 AM CT, Jan. 08 </p> 
@@ -206,10 +204,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/federal-reserve-vice-chair-resigns-ethics-scandal-526849">Fed’s No. 2 official resigns amid trading scandal</a> Politico: Federal Reserve Vice Chair Richard Clarida quietly admitted last month that he had failed to fully disclose financial trades in February 2020. 
  <p class="updated_time"> 03:34 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/steve-sweeney-new-jersey-senate-526776">His election loss stunned Democrats. Now he might run for governor.</a> Politico: New Jersey Democrat Steve Sweeney is pushing big bills in final days, opening up a think tank and telling power players he’s going to run for governor in 2025. 
+ <p class="updated_time"> 03:33 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/business/economy/richard-clarida-fed-resign.html">Richard Clarida, the Fed’s vice chair, is resigning early after trading scandal deepened.</a> NYT: Richard Clarida, the vice chair of the Federal Reserve, will leave on Jan. 14, two weeks ahead of schedule. He did not give a reason. 
+ <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
+ <a href="https://www.npr.org/2022/01/10/1071896965/voting-rights-groups-speak-out-ahead-of-biden-and-harris-trip-to-georgia">Voting rights groups speak out ahead of Biden and Harris' trip to Georgia</a> NPR: Nsé Ufot, CEO of the New Georgia Project, speaks with NPR's Ailsa Chang about her view of Democrats' voting rights efforts ahead of the president and vice president's visit to Georgia this week. 
+ <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
+ <a href="https://www.npr.org/2022/01/10/1071896958/white-house-adviser-discusses-u-s-coronavirus-testing-shortages">White House adviser discusses U.S. coronavirus testing shortages</a> NPR: New White House testing adviser Dr. Tom Inglesby talks to NPR's Ari Shapiro about COVID testing shortages in the U.S. and the Biden administration's efforts to increase access, including at-home kits. 
  <p class="updated_time"> 03:07 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/doctors-covid-staff-shortage-526842">Health care workers are panicked as desperate hospitals ask infected staff to return</a> Politico: While most health workers are vaccinated, many are still falling sick, exacerbating a staff shortage as more Americans seek hospital care. 
- <p class="updated_time"> 03:04 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/business/economy/richard-clarida-fed-resign.html">The Fed’s vice chair is resigning early after trading scandal deepened.</a> NYT: Richard Clarida, the vice chair of the Federal Reserve, will leave on Jan. 14, two weeks ahead of schedule. He did not give a reason. 
  <p class="updated_time"> 03:00 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/trump-immunity-jan-6-526839">Judge mulls whether Trump’s silence on Jan. 6 could amount to ‘agreement’ with rioters</a> Politico: During a hearing on civil lawsuits stemming from the Capitol attack, Donald Trump’s lawyers claimed sweeping immunity for the former president. 
  <p class="updated_time"> 02:57 PM CT, Jan. 10 </p> 
@@ -368,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/voting-rights-electoral-count-john-lewis-act/index.html">Senate Democrats vow they'll pass voting rights legislation with or without Republicans. Here's what their proposals would do</a> CNN: Senate Majority Leader Chuck Schumer has set the stage for a showdown this month over voting rights -- pledging to muscle through sweeping new federal legislation aimed at counteracting moves by Republicans in state capitols to restrict access to the ballot. 
  <p class="updated_time"> 12:36 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/biden-december-jobs-report/index.html">Biden touts low unemployment rate after US adds fewer jobs in December than expected</a> CNN: President Joe Biden on Friday touted the unemployment rate dropping to 3.9% in December and credited his economic agenda with getting America "back on its feet," despite Friday's job report showing the US economy added fewer jobs than expected last month. 
- <p class="updated_time"> 11:05 AM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071256532/postal-service-exempt-vaccine-mandate">The Postal Service is seeking a temporary delay from the vaccine mandate</a> NPR: With more than 500,000 employees, the post office says complying with the rule would be difficult and could interfere with timely mail deliveries. 
  <p class="updated_time"> 09:30 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/scotus-vaccine-mandate-omicron-covid-526711">Biden’s federal vaccine mandate for workplace in trouble at Supreme Court</a> Politico: The pair of requirements, which would affect tens of millions of workers, have been in legal limbo since agencies published them last year. 
  <p class="updated_time"> 07:38 AM CT, Jan. 07 </p> 
@@ -382,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/covid-testing-staff-shortage-526701">They need to process your Covid tests. Now they’re out sick from Omicron.</a> Politico: While the supply chain for once-scarce equipment remains intact, the sheer demand for testing is stretching sample collection sites and laboratory staff. 
  <p class="updated_time"> 04:30 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/house-intel-mike-turner-trump-526697">House Intel’s next top Republican prepares a sharp turn from the Trump years</a> Politico: Now that ex-Rep. Devin Nunes is gone, lawmakers in both parties are hoping bitter fights can cease as Rep. Mike Turner replaces him. 
- <p class="updated_time"> 04:14 AM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071181206/after-30-years-in-the-u-s-house-illinois-rep-bobby-rush-is-leaving">After 30 years in the U.S. House, Illinois Rep. Bobby Rush is leaving</a> NPR: NPR's A Martinez talks with longtime Illinois Democratic Rep. Bobby Rush about his decision to leave Congress, and his expectations for the Democratic party and democracy. 
  <p class="updated_time"> 08:02 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/inside-biden-january-6-speech/index.html">Inside Biden's fiery speech and his decision to confront Trump's danger head-on</a> CNN: It was only a little more than a month ago when President Joe Biden, asked about another head-shaking revelation regarding his predecessor, seemed to balk at a mere mention of the man. 
  <p class="updated_time"> 06:59 PM CT, Jan. 06 </p> 
