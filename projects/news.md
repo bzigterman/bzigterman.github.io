@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:25 PM CT, Jan. 10 </p> 
+ <p class="updated_time"> 02:39 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
+ <p class="updated_time"> 02:38 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
  <p class="updated_time"> 02:10 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/cladding-grenfell-uk.html">Britain Puts Onus on Developers to Pay to Fix Fire Safety Issues</a> NYT: After a deadly high-rise blaze in 2017, countless instances of unsafe building practices came to light. The latest plan to fix them expands who will be covered. 
  <p class="updated_time"> 01:50 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59945850?at_medium=RSS&at_campaign=KARANGA">Millionaire murderer Robert Durst dies in prison</a> BBC: The real estate heir turned fugitive unwittingly confessed to three killings on a TV crime show. 
- <p class="updated_time"> 01:45 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
  <p class="updated_time"> 01:40 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in Geneva talks</a> BBC: Russian officials tells their US counterparts that they have no plans to invade Ukraine. 
  <p class="updated_time"> 01:28 PM CT, Jan. 10 </p> 
@@ -202,8 +202,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:07 PM CT, Jan. 10 </p> 
+ <a href="https://www.politico.com/news/2022/01/10/doctors-covid-staff-shortage-526842">The doctor who sees you now may have Covid</a> Politico: While most health workers are vaccinated, many are still falling sick, exacerbating a staff shortage as more Americans seek hospital care. 
  <p class="updated_time"> 03:00 PM CT, Jan. 10 </p> 
- <a href="https://www.politico.com/news/2022/01/10/trump-immunity-jan-6-526839">Trump claims sweeping immunity for Jan. 6 actions as he fends off lawsuits from lawmakers, police</a> Politico: Lawyers are claiming presidential duties are ‘all encompassing’ so Trump can’t be sued for what he said Jan. 6 
+ <a href="https://www.politico.com/news/2022/01/10/trump-immunity-jan-6-526839">Judge mulls whether Trump’s silence on Jan. 6 could amount to ‘agreement’ with rioters</a> Politico: During a hearing on civil lawsuits stemming from the Capitol attack, Donald Trump’s lawyers claimed sweeping immunity for the former president. 
  <p class="updated_time"> 02:34 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/business/income-tax-day-deadline.html">The I.R.S. Warns of Messy Tax Filing Season</a> NYT: The agency, which has been hobbled by paperwork backlogs and short staffing, said tax filers should expect a lower level of service this year. 
  <p class="updated_time"> 02:25 PM CT, Jan. 10 </p> 
@@ -352,10 +354,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071368803/jan-6-panel-chair-says-committee-will-ask-mike-pence-to-voluntarily-appear">The chair of the Jan. 6 panel says the committee will ask Mike Pence to appear</a> NPR: The chair of the House select committee investigating the Jan. 6 attack says by month's end they'll ask former Vice President Mike Pence to testify. They may also request testimony from Ivanka Trump. 
  <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
+ <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
+ <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
  <p class="updated_time"> 01:10 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/usda-school-lunch-inflation-supply-chain/index.html">USDA pumps $750 million into school meals to counter inflation, supply chain woes</a> CNN: Schools are not only wrestling with how to educate children amid the surge in coronavirus cases. They are also contending with feeding kids as inflation and supply chain problems disrupt their ability to serve meals. 
+ <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
+ <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
  <p class="updated_time"> 12:52 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071304780/supreme-court-arguments-biden-vaccine-testing-regulation">Supreme Court's conservatives cast cloud over vaccine-or-test mandate for businesses</a> NPR: Justices seemed more open to the vaccine mandate for almost all workers at hospitals, nursing homes, and other medical providers receiving federal Medicare and Medicaid funds. 
  <p class="updated_time"> 12:37 PM CT, Jan. 07 </p> 
