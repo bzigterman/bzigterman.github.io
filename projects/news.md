@@ -20,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:10 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/cladding-grenfell-uk.html">Britain Puts Onus on Developers to Pay to Fix Fire Safety Issues</a> NYT: After a deadly high-rise blaze in 2017, countless instances of unsafe building practices came to light. The latest plan to fix them expands who will be covered. 
  <p class="updated_time"> 01:40 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in Geneva talks</a> BBC: Russian officials tells their US counterparts that they have no plans to invade Ukraine. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in talks with US</a> BBC: Russian officials tells their US counterparts that they have no plans to invade Ukraine. 
  <p class="updated_time"> 01:28 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
  <p class="updated_time"> 01:22 PM CT, Jan. 10 </p> 
@@ -202,10 +202,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:12 PM CT, Jan. 10 </p> 
+ <a href="https://www.politico.com/news/2022/01/10/federal-reserve-vice-chair-resigns-ethics-scandal-526849">Fed’s No. 2 official resigns amid trading scandal</a> Politico: Federal Reserve Vice Chair Richard Clarida quietly admitted last month that he had failed to fully disclose financial trades in February 2020. 
  <p class="updated_time"> 03:34 PM CT, Jan. 10 </p> 
- <a href="https://www.politico.com/news/2022/01/10/steve-sweeney-new-jersey-senate-526776">Don’t count him out: Battered New Jersey lawmaker plots his next move</a> Politico: Democrat Steve Sweeney is pushing big bills in finals day, opening up a think tank and telling power plays he’s going to run for governor in 2025. 
+ <a href="https://www.politico.com/news/2022/01/10/steve-sweeney-new-jersey-senate-526776">His election loss stunned Democrats. Now he might run for governor.</a> Politico: New Jersey Democrat Steve Sweeney is pushing big bills in final days, opening up a think tank and telling power players he’s going to run for governor in 2025. 
  <p class="updated_time"> 03:07 PM CT, Jan. 10 </p> 
- <a href="https://www.politico.com/news/2022/01/10/doctors-covid-staff-shortage-526842">The doctor who sees you now may have Covid</a> Politico: While most health workers are vaccinated, many are still falling sick, exacerbating a staff shortage as more Americans seek hospital care. 
+ <a href="https://www.politico.com/news/2022/01/10/doctors-covid-staff-shortage-526842">Health care workers are panicked as desperate hospitals ask infected staff to return</a> Politico: While most health workers are vaccinated, many are still falling sick, exacerbating a staff shortage as more Americans seek hospital care. 
  <p class="updated_time"> 03:04 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/business/economy/richard-clarida-fed-resign.html">The Fed’s vice chair is resigning early after trading scandal deepened.</a> NYT: Richard Clarida, the vice chair of the Federal Reserve, will leave on Jan. 14, two weeks ahead of schedule. He did not give a reason. 
  <p class="updated_time"> 03:00 PM CT, Jan. 10 </p> 
@@ -284,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/us/politics/russia-ukraine-james-baker.html">James A. Baker III’s Words on NATO Loom in Ukraine Standoff</a> NYT: The current confrontation turns partly on what, if any, commitments Secretary of State James A. Baker III made about NATO’s expansion in the waning days of the Cold War. 
  <p class="updated_time"> 01:14 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/us/politics/ron-johnson-senate-wisconsin.html">Ron Johnson, G.O.P. Senator From Wisconsin, Will Seek Re-election</a> NYT: The renewed bid for office by Mr. Johnson, who has spread many false claims about the 2020 election and Covid, ensures that both parties will be highly invested in Wisconsin’s 2022 Senate race. 
- <p class="updated_time"> 12:54 PM CT, Jan. 09 </p> 
- <a href="https://www.politico.com/news/2022/01/09/georgia-secretary-of-state-voting-526808">Georgia secretary of state speaks of election integrity</a> Politico: Brad Raffensperger addressed the topic of voting rights before President Joe Biden’s visit to his state this week. 
  <p class="updated_time"> 11:17 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/mike-rounds-trump-election-republicans-526806">GOP senator says Trump’s election allegations are unfounded</a> Politico: “The election was fair, as fair as we have seen,” Mike Rounds said. 
  <p class="updated_time"> 11:07 AM CT, Jan. 09 </p> 
