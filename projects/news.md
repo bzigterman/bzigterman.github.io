@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:49 PM CT, Jan. 09 </p> 
+ <p class="updated_time"> 10:21 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Australia Court Hears Novak Djokovic's Appeal</a> NYT: His lawyer argued that the tennis star had met all government requirements before flying to the country to compete in the Australian Open. 
+ <p class="updated_time"> 10:17 PM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59932430?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Judge raises concerns over tennis star's treatment by border officers</a> BBC: Anthony Kelly is presiding over the tennis star's challenge to the cancellation of his Australian visa. 
+ <p class="updated_time"> 10:02 PM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59932429?at_medium=RSS&at_campaign=KARANGA">Bob Saget: US actor and comedian found dead aged 65</a> BBC: The Full House star was found dead in his hotel room in Orlando, where he was on tour, police say. 
  <p class="updated_time"> 09:30 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia and U.S. Meet to Begin Negotiations Over Ukraine</a> NYT: Before the two countries met amid rising tensions over Ukraine, a senior Russian official and the U.S. Secretary of State set a pessimistic tone. 
- <p class="updated_time"> 08:34 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59932429?at_medium=RSS&at_campaign=KARANGA">Bob Saget: US actor and comedian found dead aged 65</a> BBC: The Full House star was found dead in his hotel room in Orlando, where he was on tour, police say. 
  <p class="updated_time"> 06:54 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59927267?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: At least 164 killed in crackdown on protests, reports say</a> BBC: Days of violent anti-government protests also saw nearly 6,000 people arrested, officials say. 
  <p class="updated_time"> 06:39 PM CT, Jan. 09 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59931896?at_medium=RSS&at_campaign=KARANGA">New York fire: At least 19 killed in apartment block blaze</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
  <p class="updated_time"> 05:44 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
- <p class="updated_time"> 05:39 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59929586?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia says tennis star given no visa assurances</a> BBC: The tennis star is challenging deportation in an Australian court after his visa was cancelled. 
  <p class="updated_time"> 05:06 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/ukraine-russia-negotiations.html">Left Out of High-Level Talks, Ukraine Tries Other Diplomatic Channels</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
  <p class="updated_time"> 04:59 PM CT, Jan. 09 </p> 
@@ -46,7 +46,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:01 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/london-schools-covid-omicron.html">London Schools Are Determined to Stay Open. Staff Illnesses Make It Hard.</a> NYT: Schools across England are grappling with what it looks like to live with the pandemic as it enters its third year. Sound familiar? 
  <p class="updated_time"> 10:55 AM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/europe/kazakhstan-protests.html">Nearly 6,000 Detained Amid Unrest in Kazakhstan</a> NYT: Protests that began last weekend over a hike in fuel prices spread across the country, leaving at least 2,000 injured, government officials said. Dozens of deaths also appeared likely. 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/kazakhstan-protests-detained-injured.html">Nearly 6,000 Detained Amid Unrest in Kazakhstan</a> NYT: Protests that began last weekend over a hike in fuel prices spread across the country, leaving at least 2,000 injured, government officials said. Dozens of deaths also appeared likely. 
  <p class="updated_time"> 10:21 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59927266?at_medium=RSS&at_campaign=KARANGA">Pakistan snow: Hundreds rescued from vehicles in deadly blizzard</a> BBC: Samina was one of thousands trapped in freezing conditions trying to reach the town of Murree. 
  <p class="updated_time"> 08:36 AM CT, Jan. 09 </p> 
@@ -194,10 +194,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:06 PM CT, Jan. 09 </p> 
+ <a href="https://www.cnn.com/2022/01/09/politics/jim-jordan-house-january-6-commitee/index.html">Rep. Jim Jordan indicates he won't meet with January 6 committee</a> CNN: Republican Rep. Jim Jordan of Ohio indicated he doesn't plan to cooperate with a request to meet to meet with the House select committee investigating January 6, according to a defiant letter he sent to committee Chair Bennie Thompson on Sunday. 
  <p class="updated_time"> 09:05 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/jim-jordan-jan-6-committees-interview-request-526816">Rep. Jim Jordan says he won’t cooperate with Jan. 6 committee’s interview request</a> Politico: HIs decision follows a similar rejection by Rep. Scott Perry, the only other lawmaker whose testimony the panel has requested so far. 
  <p class="updated_time"> 06:22 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/new-york-city-apartment-fire-526811">19 dead, including 9 children, in New York City apartment fire</a> Politico: “It’s a tragedy beyond measure,” Mayor Eric Adams said. 
+ <p class="updated_time"> 04:58 PM CT, Jan. 09 </p> 
+ <a href="https://www.cnn.com/2022/01/09/politics/joe-manchin-biden-build-back-better/index.html">Is there a version of Biden's economic plan that Joe Manchin can support?</a> CNN: In 2009, Senate Democrats spent months courting Republican Charles Grassley in search of bipartisan support for the Affordable Care Act. By that September, President Barack Obama had lost patience. 
  <p class="updated_time"> 04:48 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/child-covid-testing-winter-olympics-526810">China’s Tianjin testing all residents after Omicron found</a> Politico: China has stepped up its strict zero tolerance strategy in the run-up to the Winter Olympics, which open Feb. 4. 
  <p class="updated_time"> 03:54 PM CT, Jan. 09 </p> 
@@ -216,12 +220,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/09/lightfoot-chicago-teachers-deal-abandoned-526807">Lightfoot says teachers union 'abandoned their posts,' remains 'hopeful' deal can be reached</a> Politico: Chicago’s mayor said she wants to make sure that children get back to school. 
  <p class="updated_time"> 11:17 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/mike-rounds-trump-election-republicans-526806">GOP senator says Trump’s election allegations are unfounded</a> Politico: “The election was fair, as fair as we have seen,” Mike Rounds said. 
+ <p class="updated_time"> 11:07 AM CT, Jan. 09 </p> 
+ <a href="https://www.cnn.com/2022/01/09/politics/antony-blinken-russia-ukraine-cnntv/index.html">Blinken does not expect to see breakthroughs in talks with Russia this week</a> CNN: Secretary of State Antony Blinken says he doesn't expect to see any breakthroughs in the meetings with Russia this week, reiterating that while the US is prepared to listen to Moscow's concerns, it will be hard to achieve any progress unless Russia de-escalates tensions on the border with Ukraine. 
  <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
  <p class="updated_time"> 10:43 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/blinken-russia-ukraine-putin-526805">Blinken sets limits on U.S. talks with Russia</a> Politico: He also said it’s hard to see making progress “with a gun to Ukraine’s head.” 
+ <p class="updated_time"> 10:13 AM CT, Jan. 09 </p> 
+ <a href="https://www.cnn.com/2022/01/09/politics/asa-hutchinson-biden-vaccine-mandate-supreme-court-cnntv/index.html">Arkansas governor says large businesses in state should not comply with Biden administration's 'oppressive vaccine mandate'</a> CNN: Arkansas Gov. Asa Hutchinson urged large businesses in the state not to comply with the Biden administration's Covid-19 vaccine mandate, saying employers should not follow the "oppressive" rule hours before the order is set to partially go into effect. 
  <p class="updated_time"> 10:01 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/ron-johnson-reelection-senate-wisconsin-526804">Ron Johnson to seek reelection to Senate</a> Politico: The Wisconsin Republican announced his decision in a Wall Street Journal column. 
+ <p class="updated_time"> 09:33 AM CT, Jan. 09 </p> 
+ <a href="https://www.cnn.com/2022/01/09/politics/ron-johnson-wisconsin-senate-reelection/index.html">Wisconsin Sen. Ron Johnson says he will run for re-election</a> CNN: Sen. Ron Johnson announced in an email on Sunday that he is running for reelection in Wisconsin, setting the stage for a tough campaign in a race that could determine control of the Senate. 
  <p class="updated_time"> 09:17 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/kazakhstan-164-killed-protests-526803">Kazakhstan says 164 killed in week of protests</a> Politico: President Kassym-Jomart Tokayev’s office said that order has stabilized in the country. 
  <p class="updated_time"> 09:08 AM CT, Jan. 09 </p> 
@@ -243,11 +253,11 @@ permalink: /projects/news/
  <p class="updated_time"> 12:48 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/federal-rental-assistance-evictions.html">Federal Rental Assistance Is Running Out, With Tenants Still in Need</a> NYT: An announcement from the Treasury Department on Friday revealed that there was less money available for renters than some states had hoped. 
  <p class="updated_time"> 11:31 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/harry-reid-memorial-service.html"> Harry Reid’s Memorial Draws Tributes From Biden and Obama</a> NYT: Some of the country’s most prominent Democrats recounted tales showcasing the former Senate majority leader’s tenacity and modesty. 
+ <a href="https://www.nytimes.com/2022/01/08/us/politics/harry-reid-memorial-service.html">‘Goodbye, Harry’: Reid’s Memorial Draws Warm Testimonials From Biden and Obama</a> NYT: Some of the country’s most prominent Democrats recounted tales showcasing the former Senate majority leader’s tenacity and modesty. 
  <p class="updated_time"> 05:50 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/harry-reid-funeral-democratic-leaders-tribute-526795">'Deeply good man from Searchlight': Democratic leaders pay tribute to Harry Reid in Nevada</a> Politico: Party luminaries gather at Las Vegas memorial service to honor the former Senate majority leader. 
  <p class="updated_time"> 05:43 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/us-sanctions-russia-ukraine.html">U.S. Details Costs of a Russian Invasion of Ukraine</a> NYT: The Biden administration and its allies are developing new possible sanctions ahead of a series of meetings to defuse the crisis with Moscow. 
+ <a href="https://www.nytimes.com/2022/01/08/us/politics/us-sanctions-russia-ukraine.html">U.S. Details Possible Sanctions on Russia Over a Ukraine Invasion</a> NYT: The Biden administration and its allies are developing new possible sanctions ahead of a series of meetings to defuse the crisis with Moscow. 
  <p class="updated_time"> 05:19 PM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/harry-reid-memorial/index.html">Biden eulogizes Reid as 'one of the greatest Senate Majority Leaders in history'</a> CNN: Former Senate Majority Leader Harry Reid will be remembered by a host of top Democratic politicians at his memorial service in Las Vegas on Saturday, with President Joe Biden speaking at the service and former President Barack Obama eulogizing the late senator. 
  <p class="updated_time"> 05:12 PM CT, Jan. 08 </p> 
@@ -324,16 +334,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/us/politics/biden-military-kurilla.html">Biden Nominates Michael E. Kurilla to Lead Central Command</a> NYT: Lt. Gen. Michael E. Kurilla would take over as the United States tries to conduct operations in Afghanistan from afar. 
  <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
- <p class="updated_time"> 02:21 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/state-of-the-union-biden-pelosi/index.html">Biden accepts Pelosi's invitation to give State of the Union speech on March 1</a> CNN: House Speaker Nancy Pelosi on Friday asked President Joe Biden to deliver the annual State of the Union address to Congress on March 1. 
- <p class="updated_time"> 02:16 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/ransomware-schools-website/index.html">Ransomware attack affected websites of 5,000 schools</a> CNN: A ransomware attack on software provider Finalsite has affected the websites of about 5,000 schools, most of them in the US, a Finalsite spokesperson told CNN Friday. 
- <p class="updated_time"> 01:28 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/republican-convention-2024-four-cities/index.html">Republicans are down to four finalist cities for 2024 convention</a> CNN: Republicans have selected the four potential host cities for their 2024 convention, according to a spokesperson for the Republican National Committee. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
- <p class="updated_time"> 01:10 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/usda-school-lunch-inflation-supply-chain/index.html">USDA pumps $750 million into school meals to counter inflation, supply chain woes</a> CNN: Schools are not only wrestling with how to educate children amid the surge in coronavirus cases. They are also contending with feeding kids as inflation and supply chain problems disrupt their ability to serve meals. 
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
  <p class="updated_time"> 12:52 PM CT, Jan. 07 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/07/1071256532/postal-service-exempt-vaccine-mandate">The Postal Service is seeking a temporary delay from the vaccine mandate</a> NPR: With more than 500,000 employees, the post office says complying with the rule would be difficult and could interfere with timely mail deliveries. 
  <p class="updated_time"> 09:30 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/scotus-vaccine-mandate-omicron-covid-526711">Biden’s federal vaccine mandate for workplace in trouble at Supreme Court</a> Politico: The pair of requirements, which would affect tens of millions of workers, have been in legal limbo since agencies published them last year. 
- <p class="updated_time"> 08:00 AM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/mark-kelly-9-million-fourth-quarter-arizona/index.html">Sen. Mark Kelly raises nearly $9 million in final three months of 2021</a> CNN: Sen. Mark Kelly raised nearly $9 million in the final three months of 2021, a figure that surpasses what he raised in the previous three months and positions the Arizona Democrat to be one of the best funded candidates in the 2022 midterms. 
  <p class="updated_time"> 07:38 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/07/choose-your-own-covid-policy-for-house-return-495639">Choose your own covid policy for House return</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Jan. 07 </p> 
