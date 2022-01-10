@@ -143,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/figure-skating-olympic-team.html">As U.S. Figure Skaters Test Positive, New Worries for Winter Olympics</a> NYT: Problems at the national championships could turn up in Beijing next month, too. 
  <p class="updated_time"> 10:31 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/china-rights-defense-activists.html">Chinese Activists Face Subversion Charges for Weekend Gathering</a> NYT: A weekend get-together in 2019 offered Beijing a chance to deliver a blow to the “rights defense” movement. Now, two key participants face the prospect of years in prison. 
- <p class="updated_time"> 09:48 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/australia/moriori-new-zealand.html">Revival for New Zealand's Moriori Nearly Pushed to Cultural Death</a> NYT: The Moriori, whose history of peaceful isolation was shattered by violent subjugation, are fighting to establish themselves as a thriving people alongside the Maori. 
  <p class="updated_time"> 06:13 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59908442?at_medium=RSS&at_campaign=KARANGA">Afcon Cameroon: Playing football in the shadow of a rebellion</a> BBC: Africa's top football tournament is about to start in Cameroon, despite a bitter four-year conflict. 
  <p class="updated_time"> 06:13 PM CT, Jan. 08 </p> 
@@ -225,7 +223,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:34 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/steve-sweeney-new-jersey-senate-526776">His election loss stunned Democrats. Now he might run for governor.</a> Politico: New Jersey Democrat Steve Sweeney is pushing big bills in final days, opening up a think tank and telling power players he’s going to run for governor in 2025. 
  <p class="updated_time"> 03:33 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/business/economy/richard-clarida-fed-resign.html">Richard Clarida, The Fed’s Vice Chair, is Resigning Early After Trading Scandal Deepened</a> NYT: Richard Clarida, the vice chair of the Federal Reserve, will leave on Jan. 14, two weeks ahead of schedule. He did not give a reason. 
+ <a href="https://www.nytimes.com/2022/01/10/business/economy/richard-clarida-fed-resign.html">Richard Clarida Is Resigning From the Fed Early After New Questions on Trades</a> NYT: Richard Clarida, the vice chair of the Federal Reserve, will leave on Jan. 14, two weeks ahead of schedule. He did not give a reason. 
  <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071896965/voting-rights-groups-speak-out-ahead-of-biden-and-harris-trip-to-georgia">Voting rights groups speak out ahead of Biden and Harris' trip to Georgia</a> NPR: Nsé Ufot, CEO of the New Georgia Project, speaks with NPR's Ailsa Chang about her view of Democrats' voting rights efforts ahead of the president and vice president's visit to Georgia this week. 
  <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
