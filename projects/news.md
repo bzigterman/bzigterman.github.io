@@ -20,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:51 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-europe-ukraine-nato.html">U.S. and Russia Will Discuss European Security, but Without Europeans</a> NYT: The coming talks in Geneva are bilateral, reviving old fears that the two Cold War powers will forge a deal on their own. 
  <p class="updated_time"> 02:00 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/europe/as-its-population-soars-to-40-rum-isle-glimpses-a-future-in-the-mist.html">As Its Population Soars to 40, Rum Isle Glimpses a Future in the Mist</a> NYT: With four new families recently arriving, the remote and rainy island in the Hebrides is experiencing its version of a population surge, although residents new and old concede living here isn’t easy. 
+ <a href="https://www.nytimes.com/2022/01/10/world/europe/rum-isle-scotland-hebrides.html">As Its Population Soars to 40, Rum Isle Glimpses a Future in the Mist</a> NYT: With four new families recently arriving, the remote and rainy island in the Hebrides is experiencing its version of a population surge, although residents new and old concede living here isn’t easy. 
  <p class="updated_time"> 01:56 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59933706?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Ousted Myanmar leader jailed for another four years</a> BBC: Myanmar's former leader faces a series of charges since being ousted in an army coup last February. 
  <p class="updated_time"> 01:48 AM CT, Jan. 10 </p> 
