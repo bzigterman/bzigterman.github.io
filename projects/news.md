@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:06 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59945850?at_medium=RSS&at_campaign=KARANGA">Millionaire murderer Robert Durst dies in prison</a> BBC: The real estate heir turned fugitive unwittingly confessed to three killings on a TV crime show. 
  <p class="updated_time"> 02:49 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071880010/russia-us-ukraine-nato-join">Russia digs in on Ukraine never joining NATO, on a day of talks with the U.S. </a> NPR: "For us, it's absolutely mandatory to make sure that Ukraine never, never, ever becomes a member of NATO," Russian Deputy Foreign Minister Sergei Ryabkov said. 
  <p class="updated_time"> 02:48 PM CT, Jan. 10 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
  <p class="updated_time"> 02:10 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/cladding-grenfell-uk.html">Britain Puts Onus on Developers to Pay to Fix Fire Safety Issues</a> NYT: After a deadly high-rise blaze in 2017, countless instances of unsafe building practices came to light. The latest plan to fix them expands who will be covered. 
- <p class="updated_time"> 01:50 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59945850?at_medium=RSS&at_campaign=KARANGA">Millionaire murderer Robert Durst dies in prison</a> BBC: The real estate heir turned fugitive unwittingly confessed to three killings on a TV crime show. 
  <p class="updated_time"> 01:40 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in Geneva talks</a> BBC: Russian officials tells their US counterparts that they have no plans to invade Ukraine. 
  <p class="updated_time"> 01:28 PM CT, Jan. 10 </p> 
@@ -202,10 +202,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:34 PM CT, Jan. 10 </p> 
+ <a href="https://www.politico.com/news/2022/01/10/steve-sweeney-new-jersey-senate-526776">Don’t count him out: Battered New Jersey lawmaker plots his next move</a> Politico: Democrat Steve Sweeney is pushing big bills in finals day, opening up a think tank and telling power plays he’s going to run for governor in 2025. 
  <p class="updated_time"> 03:07 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/doctors-covid-staff-shortage-526842">The doctor who sees you now may have Covid</a> Politico: While most health workers are vaccinated, many are still falling sick, exacerbating a staff shortage as more Americans seek hospital care. 
+ <p class="updated_time"> 03:04 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/business/economy/richard-clarida-fed-resign.html">The Fed’s vice chair is resigning early after trading scandal deepened.</a> NYT: Richard Clarida, the vice chair of the Federal Reserve, will leave on Jan. 14, two weeks ahead of schedule. He did not give a reason. 
  <p class="updated_time"> 03:00 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/trump-immunity-jan-6-526839">Judge mulls whether Trump’s silence on Jan. 6 could amount to ‘agreement’ with rioters</a> Politico: During a hearing on civil lawsuits stemming from the Capitol attack, Donald Trump’s lawyers claimed sweeping immunity for the former president. 
+ <p class="updated_time"> 02:57 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/clay-aiken-congress.html">Clay Aiken, Former ‘American Idol’ Star, Announces Run for Congress</a> NYT: Mr. Aiken said he was running as a “loud and proud Democrat” for an open House seat in his native North Carolina this year. 
+ <p class="updated_time"> 02:56 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-photos-prisoners.html">20 Years Later, the Story Behind the Guantánamo Photo That Won’t Go Away</a> NYT: On Jan. 11, 2002, a sailor photographed 20 men in orange uniforms and on their knees, capturing one of the most damning post-9/11 images of U.S. detention policy. 
  <p class="updated_time"> 02:47 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
  <p class="updated_time"> 02:34 PM CT, Jan. 10 </p> 
@@ -220,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/10/politics/worldview-weekend-foundation-tax-status-irs-invs/index.html">Foundation behind network pushing election and coronavirus conspiracies had its tax-exempt status revoked. It still solicits donations </a> CNN: An online media network that promotes election and coronavirus-related conspiracy theories is soliciting donations and telling donors their contributions will be tax-deductible -- even though its foundation's tax-exempt status has been revoked by the IRS. 
  <p class="updated_time"> 01:35 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/business/media/symone-sanders-msnbc.html">Symone Sanders, a Strategist for Biden and Harris, Is Joining MSNBC</a> NYT: Ms. Sanders, 32, will host a weekend show on the cable network, one of the first big programming moves by MSNBC’s president, Rashida Jones. 
- <p class="updated_time"> 01:32 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/clay-aiken-congress.html">Former ‘American Idol’ Star Clay Aiken Announces Run for Congress</a> NYT: Mr. Aiken said he was running as a “loud and proud Democrat” for an open House seat in his native North Carolina this year. 
  <p class="updated_time"> 12:55 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/treasury-tax-filing-season-526833">Treasury warns taxpayers to brace for a turbulent tax filing season</a> Politico: The IRS is still dealing with backups in processing returns from the past two filing seasons. 
  <p class="updated_time"> 12:52 PM CT, Jan. 10 </p> 
@@ -300,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/09/1071663527/the-story-of-january-6-goes-beyond-a-single-day">The story of January 6 goes beyond a single day</a> NPR: It's been a year since a mob supporting former President Donald Trump attacked the U.S. Capitol. We look at what we've learned about domestic extremism over the past year. 
  <p class="updated_time"> 07:00 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/joe-biden-takes-on-georgia-voting-526801">‘We are going right to the belly of the beast’: Biden takes on Georgia</a> Politico: Fresh off his Jan. 6 anniversary speech, the president and his top aides are trying to keep up the momentum for some legislative remedy. 
- <p class="updated_time"> 12:48 AM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/federal-rental-assistance-evictions.html">Federal Rental Assistance Is Running Out, With Tenants Still in Need</a> NYT: An announcement from the Treasury Department on Friday revealed that there was less money available for renters than some states had hoped. 
  <p class="updated_time"> 11:31 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/us/politics/harry-reid-memorial-service.html"> Harry Reid’s Memorial Draws Tributes From Biden and Obama</a> NYT: Some of the country’s most prominent Democrats recounted tales showcasing the former Senate majority leader’s tenacity and modesty. 
  <p class="updated_time"> 05:50 PM CT, Jan. 08 </p> 
@@ -346,16 +350,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/jan-6-investigators-pence-interview-526790">Jan. 6 investigators eyeing Pence interview this month</a> Politico: Pence was the target of an intense pressure campaign to single-handedly overturn the election results on Jan. 6, 2021. 
  <p class="updated_time"> 06:12 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/politics-inflation-redistricting.html">5 Big Questions for the Political Year Ahead</a> NYT: Inflation and the pandemic are hurting President Biden’s popularity, but the midterms are still months away. 
- <p class="updated_time"> 05:37 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/jan-6-terrorism-explainer.html">Was the Jan. 6 Attack on the Capitol an Act of ‘Terrorism’?</a> NYT: A sharp rebuke of Senator Ted Cruz by the Fox News host Tucker Carlson has heightened a legal and semantic debate over a charged term. 
  <p class="updated_time"> 05:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/fbi-usb-hackers-warning/index.html">FBI warns cybercriminals have tried to hack US firms by mailing malicious USB drives</a> CNN: A prolific Eastern European cybercriminal group has tried to hack US companies in the transportation, defense and insurance sectors by mailing those organizations malicious USB drives, the FBI warned US businesses this week in an advisory obtained by CNN. 
  <p class="updated_time"> 04:44 PM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071368803/jan-6-panel-chair-says-committee-will-ask-mike-pence-to-voluntarily-appear">The chair of the Jan. 6 panel says the committee will ask Mike Pence to appear</a> NPR: The chair of the House select committee investigating the Jan. 6 attack says by month's end they'll ask former Vice President Mike Pence to testify. They may also request testimony from Ivanka Trump. 
  <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
- <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
  <p class="updated_time"> 01:10 PM CT, Jan. 07 </p> 
