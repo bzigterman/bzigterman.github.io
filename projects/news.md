@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
+ <p class="updated_time"> 05:06 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
+ <p class="updated_time"> 05:00 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
  <p class="updated_time"> 04:46 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
  <p class="updated_time"> 04:24 PM CT, Jan. 10 </p> 
@@ -27,12 +33,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59945850?at_medium=RSS&at_campaign=KARANGA">Millionaire murderer Robert Durst dies in prison</a> BBC: The real estate heir turned fugitive unwittingly confessed to three killings on a TV crime show. 
  <p class="updated_time"> 02:49 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071880010/russia-us-ukraine-nato-join">Russia digs in on Ukraine never joining NATO, on a day of talks with the U.S. </a> NPR: "For us, it's absolutely mandatory to make sure that Ukraine never, never, ever becomes a member of NATO," Russian Deputy Foreign Minister Sergei Ryabkov said. 
- <p class="updated_time"> 02:38 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
  <p class="updated_time"> 02:10 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/cladding-grenfell-uk.html">Britain Puts Onus on Developers to Pay to Fix Fire Safety Issues</a> NYT: After a deadly high-rise blaze in 2017, countless instances of unsafe building practices came to light. The latest plan to fix them expands who will be covered. 
- <p class="updated_time"> 01:28 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
  <p class="updated_time"> 01:22 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/rum-isle-scotland-hebrides.html">As Its Population Soars to 40, Rum Isle Glimpses a Future in the Mist</a> NYT: With four new families recently arriving, the remote and rainy island in the Hebrides is experiencing its version of a population surge, although residents new and old concede living here isn’t easy. 
  <p class="updated_time"> 12:58 PM CT, Jan. 10 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59940258?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic's mother: We're here to celebrate our son's victory</a> BBC: Dijana Djokovic speaks at a press conference after her son Novak had his Australian visa reinstated. 
  <p class="updated_time"> 07:58 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/the-biden-administration-gave-a-preview-of-how-it-would-punish-russia-if-it-invaded-ukraine.html">The Biden administration gave a preview of how it would punish Russia if it invaded Ukraine.</a> NYT: Such moves are rarely telegraphed in advance, but advisers say they are hoping to influence the decisions of Russia’s leader, Vladimir V. Putin. 
- <p class="updated_time"> 07:58 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
  <p class="updated_time"> 06:39 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia and U.S. Meet to Begin Negotiations Over Ukraine</a> NYT: Before the two countries met amid rising tensions over Ukraine, a senior Russian official and the U.S. secretary of state set a pessimistic tone. 
  <p class="updated_time"> 06:28 AM CT, Jan. 10 </p> 
@@ -202,12 +202,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-at-home-covid-tests-reimbursement-526853">Biden administration lays out rules for reimbursing at-home Covid tests</a> Politico: Under the plan, private insurers can set up programs at preferred pharmacies or retailers where the upfront cost of home tests is covered for beneficiaries. 
+ <p class="updated_time"> 05:03 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/pence-jan-6-testimony.html">Mike Pence Seen as Key Witness in Jan. 6 Investigation</a> NYT: Getting the former vice president to answer questions under oath could be crucial as the House panel focuses on Donald Trump’s responsibility for the Capitol riot. 
+ <p class="updated_time"> 05:02 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/joe-biden-voting-rights/index.html">Biden facing pressure to deliver on voting rights ahead of Atlanta speech</a> CNN: Pressure is intensifying on President Joe Biden to articulate a plan to enact meaningful voter protections as a counter to strict new voting laws going into place around the nation after warning for the past year of nascent dangers to democracy. 
  <p class="updated_time"> 04:50 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
  <p class="updated_time"> 04:49 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/business/income-tax-day-deadline.html">The I.R.S. Warns of Messy Tax Filing Season</a> NYT: The agency, which has been hobbled by paperwork backlogs and short staffing, said tax filers should expect a lower level of service this year. 
- <p class="updated_time"> 04:24 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/joe-biden-voting-rights/index.html">Biden facing pressure to deliver on voting rights ahead of Atlanta speech</a> CNN: Pressure is intensifying on President Joe Biden to articulate a plan to enact meaningful voter protections as a counter to strict new voting laws going into place around the nation after warning for the past year of nascent dangers to democracy. 
  <p class="updated_time"> 04:23 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/business/media/jesse-watters-fox-news.html">Jesse Watters of Fox News Is Promoted to an Evening Slot</a> NYT: Mr. Watters, a sardonic conservative with a pro-Trump bent, will take over the 7 p.m. hour. 
  <p class="updated_time"> 04:22 PM CT, Jan. 10 </p> 
@@ -338,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/08/senate-minority-whip-john-thune-to-run-for-reelection-526794">Senate Minority Whip John Thune to run for reelection</a> Politico: The 61-year-old South Dakotan is widely viewed as a potential successor to Senate Minority Leader Mitch McConnell 
  <p class="updated_time"> 12:09 PM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1066855802/john-thune-senate-reelection">John Thune, No. 2 Senate GOP leader, announces he will seek reelection</a> NPR: The South Dakota Republican, a likely successor to Republican leader Mitch McConnell, says he will run for reelection in 2022, putting an end to the speculation about his political future. 
- <p class="updated_time"> 12:08 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/business/teslas-computer-chips-supply-chain.html">Why Tesla Soared as Other Automakers Struggled to Make Cars</a> NYT: The yawning disparity between the performance of the electric car company and established automakers last year reflects the technological change roiling the industry. 
  <p class="updated_time"> 12:00 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/us/politics/biden-nominees-senate-confirmation.html">Hundreds of Biden Nominees Are Unconfirmed Amid G.O.P. Blockade</a> NYT: A year into his term, only 41 percent of the president’s nominees for Senate-confirmed posts have been approved, a new analysis finds, the worst rate in decades. 
  <p class="updated_time"> 11:48 AM CT, Jan. 08 </p> 
