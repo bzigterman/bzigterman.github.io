@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:03 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Tells U.S. It Has No Plans to Invade Ukraine</a> NYT: After a day of intense talks, Russian officials said they will continue discussions with the U.S. Wendy Sherman, the top American diplomat, said she pushed back on security demands that were “non-starters.” 
- <p class="updated_time"> 10:40 AM CT, Jan. 10 </p> 
+ <p class="updated_time"> 11:24 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
+ <p class="updated_time"> 11:20 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
  <p class="updated_time"> 10:05 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
  <p class="updated_time"> 09:53 AM CT, Jan. 10 </p> 
@@ -55,12 +55,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/10/1070854970/in-wahala-intimacy-at-times-morphs-into-enmity">In 'Wahala,' intimacy at times morphs into enmity</a> NPR: Nikki May's novel captures issues of modern city living: women's evolving roles in home and work, interracial relationships, multicultural identity, and competition that runs under many friendship. 
  <p class="updated_time"> 06:26 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071785531/on-covid-vaccinations-pope-says-health-care-is-a-moral-obligation">On COVID vaccinations, Pope says health care is a 'moral obligation'</a> NPR: Francis says individuals have a responsibility to care for themselves "and this translates into respect for the health of those around us." 
+ <p class="updated_time"> 06:21 AM CT, Jan. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia Have 'Long Way to Go' After Talks Open on Ukraine Crisis, Diplomat Says</a> WSJ: Negotiators for Washington and Moscow failed to narrow their differences in security talks in Geneva on Monday against the backdrop of Russia’s military buildup near Ukraine, a senior U.S. diplomat said. 
  <p class="updated_time"> 06:00 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59915690?at_medium=RSS&at_campaign=KARANGA">Past seven years hottest on record - EU satellite data</a> BBC: Analysis shows 2021 was the fifth-warmest with record-breaking temperatures in some regions. 
  <p class="updated_time"> 06:00 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59900738?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest was coup attempt, says president</a> BBC: President Tokayev says a hunt for "terrorists" is continuing and Kazakhstan will soon provide proof. 
- <p class="updated_time"> 05:00 AM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia Talks Look to Avert One of the Biggest Crises Since the Cold War</a> WSJ: The Kremlin has accused NATO of trying to encroach into Russia’s backyard and has demanded it halt its outreach to eastern countries, including Ukraine, while the Biden administration has signaled it is unwilling to cede to Moscow’s demands and has threatened retaliation. 
  <p class="updated_time"> 04:21 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59937221?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic supporters surround car in Melbourne</a> BBC: Crowds chanting "free Novak" surround a black car leaving the offices of the player's lawyer. 
  <p class="updated_time"> 04:00 AM CT, Jan. 10 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:07 AM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/republicans-push-for-hand-counting-paper-ballots/index.html">GOP push for handing-counting paper ballots is latest effort to cast doubt on elections </a> CNN: After more than a year of baselessly questioning the results of the 2020 election, some Republicans are casting doubt on how ballots are counted, part of a broader movement inspired by former President Donald Trump's lies about election fraud that is undermining confidence in America's vote. 
  <p class="updated_time"> 10:32 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071082955/imagine-another-american-civil-war-but-this-time-in-every-state">Imagine another American Civil War, but this time in every state</a> NPR: If America has another civil war, it is more likely to be a war within the states than between them. Citizens of any state of any size, red or blue, may not have to go far to find a fight. 
  <p class="updated_time"> 10:07 AM CT, Jan. 10 </p> 
@@ -214,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/10/politics/recall-elections-increase-governor-school-board/index.html">The Point: Recall elections hit a historic high in 2021</a> CNN: We are a fickle people. And we are only growing more fickle. 
  <p class="updated_time"> 07:29 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/10/dems-eye-voting-rights-fight-filibuster-changes-495660">Dems eye voting rights fight, filibuster changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:45 AM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/republicans-push-for-hand-counting-paper-ballots/index.html">GOP push for handing-counting paper ballots is latest effort to cast doubt on elections </a> CNN: After more than a year of baselessly questioning the results of the 2020 election, some Republicans are casting doubt on how ballots are counted, part of a broader movement inspired by former President Donald Trump's lies about election fraud that is undermining confidence in America's vote. 
  <p class="updated_time"> 06:39 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia and U.S. Meet to Begin Negotiations Over Ukraine</a> NYT: Before the two countries met amid rising tensions over Ukraine, a senior Russian official and the U.S. secretary of state set a pessimistic tone. 
  <p class="updated_time"> 06:13 AM CT, Jan. 10 </p> 
@@ -253,7 +253,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:33 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/us/politics/border-patrol-migrant-deaths.html">A Rise in Deadly Border Patrol Chases Renews Accountability Concerns </a> NYT: The increasing number of deaths adds urgency to questions about when and how agents should engage in high-speed chases as they pursue smugglers and migrants. 
  <p class="updated_time"> 02:07 PM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/us/politics/russia-ukraine-james-baker.html">In Ukraine Conflict, Putin Relies on a Promise That Ultimately Wasn’t</a> NYT: The current confrontation turns partly on what, if any, commitments Secretary of State James A. Baker III made about NATO’s expansion in the waning days of the Cold War. 
+ <a href="https://www.nytimes.com/2022/01/09/us/politics/russia-ukraine-james-baker.html">James A. Baker III’s Words on NATO Loom in Ukraine Standoff</a> NYT: The current confrontation turns partly on what, if any, commitments Secretary of State James A. Baker III made about NATO’s expansion in the waning days of the Cold War. 
  <p class="updated_time"> 01:14 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/us/politics/ron-johnson-senate-wisconsin.html">Ron Johnson, G.O.P. Senator From Wisconsin, Will Seek Re-election</a> NYT: The renewed bid for office by Mr. Johnson, who has spread many false claims about the 2020 election and Covid, ensures that both parties will be highly invested in Wisconsin’s 2022 Senate race. 
  <p class="updated_time"> 12:54 PM CT, Jan. 09 </p> 
@@ -430,8 +430,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/03/rep-bobby-rush-wont-seek-reelection-526455">Bobby Rush to relinquish 30-year hold on House seat</a> Politico: The veteran Illinois congressman and former Black Panther leader said, “I’m not retiring … I’m just entering into a new level of my life.” 
  <p class="updated_time"> 01:32 PM CT, Jan. 03 </p> 
  <a href="https://www.politico.com/news/2022/01/03/marjorie-taylor-greene-facebook-suspension-526398">MTG hit with Facebook suspension after Twitter ban</a> Politico: “Facebook has joined Twitter in censoring me,” Greene (R-Ga.) wrote on Gettr, a social media platform favored by some right-wing conservatives. 
- <p class="updated_time"> 11:23 AM CT, Jan. 03 </p> 
- <a href="https://www.politico.com/news/2022/01/03/capitol-police-union-private-security-proposal-526395">Capitol Police union douses private security proposal</a> Politico: “We need to hire more officers — period. The last thing we need are private security contractors who are not trained to our standards,” the chair of the union said in a statement sent to POLITICO. 
 
 
 </details>
