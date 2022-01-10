@@ -200,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:13 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/10/biden-faces-his-moment-on-the-filibuster-495658"> Biden faces his moment on the filibuster</a> Politico Playbook: And the Senate GOP plans a filibuster messaging push. 
+ <p class="updated_time"> 05:30 AM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/covid-congress-reaction/index.html">Congress steps up health protocols amid fresh fears over coronavirus in the Capitol</a> CNN: Congress is stepping up its health protocols amid renewed fears over the coronavirus, with the Capitol Hill community bracing for a spike in cases in the coming weeks as both chambers return to Washington during the nationwide surge in infections. 
  <p class="updated_time"> 05:19 AM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
  <p class="updated_time"> 05:00 AM CT, Jan. 10 </p> 
@@ -227,7 +229,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:35 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/us/politics/biden-republicans-agenda.html">Biden Comes Out Swinging Against Republicans as His Agenda Stalls</a> NYT: The president pledged to use all of the powers of his office to thwart Republicans still under the thumb of Donald J. Trump. 
  <p class="updated_time"> 02:33 PM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/us/politics/border-patrol-migrant-deaths.html">A Rise in Deadly Border Patrol Chases Renews Concerns About Accountability</a> NYT: The increasing number of deaths adds urgency to questions about when and how agents should engage in high-speed chases as they pursue smugglers and migrants. 
+ <a href="https://www.nytimes.com/2022/01/09/us/politics/border-patrol-migrant-deaths.html">A Rise in Deadly Border Patrol Chases Renews Accountability Concerns </a> NYT: The increasing number of deaths adds urgency to questions about when and how agents should engage in high-speed chases as they pursue smugglers and migrants. 
  <p class="updated_time"> 02:07 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/us/politics/russia-ukraine-james-baker.html">In Ukraine Conflict, Putin Relies on a Promise That Ultimately Wasn’t</a> NYT: The current confrontation turns partly on what, if any, commitments Secretary of State James A. Baker III made about NATO’s expansion in the waning days of the Cold War. 
  <p class="updated_time"> 01:14 PM CT, Jan. 09 </p> 
@@ -404,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/cdc-advisers-teen-pfizer-covid-booster-526572">CDC recommends all teens get Pfizer Covid booster</a> Politico: The advisory panel signed off on the recommendation following presentations by doctors suggesting boosters are likely to increase antibodies in young teens. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
- <p class="updated_time"> 04:31 PM CT, Jan. 05 </p> 
- <a href="https://www.cnn.com/2022/01/05/politics/biden-voting-rights-speech-atlanta/index.html">Biden to deliver voting rights speech next week in Atlanta</a> CNN: President Joe Biden is planning to deliver a speech on voting rights during a visit to Atlanta next week, officials say, traveling to the cradle of the civil rights movement to shine a brighter light on election reform in advance of the national holiday celebrating the life of Martin Luther King Jr. 
  <p class="updated_time"> 11:20 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/mcconnell-electoral-count-act-reform-526542">McConnell cracks door to Electoral Count Act reform</a> Politico: “It obviously has some flaws. And it is worth, I think, discussing,” the Senate minority leader said Wednesday. 
  <p class="updated_time"> 07:35 AM CT, Jan. 05 </p> 
