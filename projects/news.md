@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:52 PM CT, Jan. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59932429?at_medium=RSS&at_campaign=KARANGA">Bob Saget: US actor and comedian found dead aged 65</a> BBC: The Full House star was found dead in his hotel room in Orlando, where he was on tour, police say. 
+ <p class="updated_time"> 10:37 PM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Hong Kong Party Angers a City Under Covid Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
  <p class="updated_time"> 10:21 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Australia Court Hears Novak Djokovic's Appeal</a> NYT: His lawyer argued that the tennis star had met all government requirements before flying to the country to compete in the Australian Open. 
  <p class="updated_time"> 10:17 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59932430?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Judge raises concerns over tennis star's treatment by border officers</a> BBC: Anthony Kelly is presiding over the tennis star's challenge to the cancellation of his Australian visa. 
- <p class="updated_time"> 10:02 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59932429?at_medium=RSS&at_campaign=KARANGA">Bob Saget: US actor and comedian found dead aged 65</a> BBC: The Full House star was found dead in his hotel room in Orlando, where he was on tour, police say. 
  <p class="updated_time"> 09:30 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia and U.S. Meet to Begin Negotiations Over Ukraine</a> NYT: Before the two countries met amid rising tensions over Ukraine, a senior Russian official and the U.S. Secretary of State set a pessimistic tone. 
- <p class="updated_time"> 06:54 PM CT, Jan. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59927267?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest: At least 164 killed in crackdown on protests, reports say</a> BBC: Days of violent anti-government protests also saw nearly 6,000 people arrested, officials say. 
  <p class="updated_time"> 06:39 PM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071703878/us-russia-ukraine-talks-geneva">Neither side is optimistic ahead of U.S.-Russia talks over Ukraine</a> NPR: The U.S. and its European allies want Russia to reduce troop buildup along the Ukraine border. Russia wants U.S. troops out of Eastern Europe. Both sides say those demands are non-starters. 
  <p class="updated_time"> 06:03 PM CT, Jan. 09 </p> 
@@ -59,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59928851?at_medium=RSS&at_campaign=KARANGA">Covid pandemic: Chinese city tests 14m people after cluster</a> BBC: As China pursues a zero-Covid policy, Tianjin aims to test all its residents within 48 hours. 
  <p class="updated_time"> 07:05 AM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071663548/lahore-pakistan-locks-down-for-air-quality">Lahore, Pakistan, is locking down to improve air quality</a> NPR: Pakistan's second largest city, Lahore, tops the world's most polluted city list, along with India's New Delhi. Poor air quality has prompted the government to order a partial shutdown of schools. 
- <p class="updated_time"> 05:55 AM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Officials’ Party Galls Hong Kong, Chafing Under Covid (and Political) Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
  <p class="updated_time"> 05:34 AM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59928697?at_medium=RSS&at_campaign=KARANGA">Kazakhstan: 'Growing suggestion violence linked to power struggle'</a> BBC: There are growing suggestions violence in Kazakhstan is linked to a power struggle within the ruling elite, the BBC's Steve Rosenberg reports from the capital. 
  <p class="updated_time"> 05:26 AM CT, Jan. 09 </p> 
@@ -194,7 +192,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:06 PM CT, Jan. 09 </p> 
+ <p class="updated_time"> 10:51 PM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/jim-jordan-house-january-6-commitee/index.html">Rep. Jim Jordan indicates he won't meet with January 6 committee</a> CNN: Republican Rep. Jim Jordan of Ohio indicated he doesn't plan to cooperate with a request to meet to meet with the House select committee investigating January 6, according to a defiant letter he sent to committee Chair Bennie Thompson on Sunday. 
  <p class="updated_time"> 09:05 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/jim-jordan-jan-6-committees-interview-request-526816">Rep. Jim Jordan says he won’t cooperate with Jan. 6 committee’s interview request</a> Politico: HIs decision follows a similar rejection by Rep. Scott Perry, the only other lawmaker whose testimony the panel has requested so far. 
