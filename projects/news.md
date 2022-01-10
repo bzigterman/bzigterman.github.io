@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:45 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/europe/famed-white-cliffs-of-sicily-are-defaced-in-an-act-of-vandalism.html">Famed White Cliffs of Sicily Are Defaced in an Act of Vandalism</a> NYT: Vandals stained a cliff formation known as the Staircase of the Turks with red splotches over the weekend. Residents of a nearby town banded together for a successful cleanup. 
+ <p class="updated_time"> 11:39 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
  <p class="updated_time"> 11:24 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
- <p class="updated_time"> 11:20 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
  <p class="updated_time"> 10:05 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
  <p class="updated_time"> 09:53 AM CT, Jan. 10 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/covid-flight-italy-india.html">Covid Tests Probed After 100s on 2 Italy-India Flights Test Positive </a> NYT: Some 300 passengers on two flights who tested positive for the coronavirus upon landing in the northern city of Amritsar are being retested. 
  <p class="updated_time"> 12:43 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/us/politics/spyware-warning-cybersecurity.html">Biden Administration Warns Against Spyware Targeting Dissidents</a> NYT: The U.S. intelligence community offered steps that would mitigate — but not stop — spyware developed by firms like the NSO Group. 
- <p class="updated_time"> 12:06 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/climate/road-salt-water-supply.html">Road Salt Works. But It’s Also Bad for the Environment.</a> NYT: The chemical is effective at keeping roads free of snow and ice, but it also has damaging consequences, according to a growing body of research. 
  <p class="updated_time"> 11:20 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests-strongmen.html">Behind Kazakhstan Unrest, the ‘Strongman’s Dilemma’</a> NYT: Since the Cold War’s end, most dictatorial governments have collapsed after their ruler’s departure. 
  <p class="updated_time"> 11:03 AM CT, Jan. 07 </p> 
@@ -200,12 +200,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:22 PM CT, Jan. 10 </p> 
+ <a href="https://www.politico.com/news/2022/01/10/wisconsin-gop-election-review-526827">Wisconsin judge lets GOP-led election review continue</a> Politico: State Attorney General Josh Kaul's bid to undercut the probe was denied by a judge in Dane County. 
+ <p class="updated_time"> 11:40 AM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US says no breakthrough in 'frank and forthright' talks with Russia over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 11:07 AM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/republicans-push-for-hand-counting-paper-ballots/index.html">GOP push for handing-counting paper ballots is latest effort to cast doubt on elections </a> CNN: After more than a year of baselessly questioning the results of the 2020 election, some Republicans are casting doubt on how ballots are counted, part of a broader movement inspired by former President Donald Trump's lies about election fraud that is undermining confidence in America's vote. 
  <p class="updated_time"> 10:32 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071082955/imagine-another-american-civil-war-but-this-time-in-every-state">Imagine another American Civil War, but this time in every state</a> NPR: If America has another civil war, it is more likely to be a war within the states than between them. Citizens of any state of any size, red or blue, may not have to go far to find a fight. 
- <p class="updated_time"> 10:07 AM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US and Russia hold high stakes talks over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 10:04 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/symone-sanders-msnbc-526824">Symone Sanders lands at MSNBC</a> Politico: The former VP spokesperson is heading to the left-leaning cable news network, where she will host a weekend show and a show on its streaming platform. 
  <p class="updated_time"> 09:48 AM CT, Jan. 10 </p> 
@@ -264,12 +266,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/09/politics/antony-blinken-russia-ukraine-cnntv/index.html">Blinken does not expect to see breakthroughs in talks with Russia this week</a> CNN: Secretary of State Antony Blinken says he doesn't expect to see any breakthroughs in the meetings with Russia this week, reiterating that while the US is prepared to listen to Moscow's concerns, it will be hard to achieve any progress unless Russia de-escalates tensions on the border with Ukraine. 
  <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
- <p class="updated_time"> 10:43 AM CT, Jan. 09 </p> 
- <a href="https://www.politico.com/news/2022/01/09/blinken-russia-ukraine-putin-526805">Blinken sets limits on U.S. talks with Russia</a> Politico: He also said it’s hard to see making progress “with a gun to Ukraine’s head.” 
  <p class="updated_time"> 10:13 AM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/asa-hutchinson-biden-vaccine-mandate-supreme-court-cnntv/index.html">Arkansas governor says large businesses in state should not comply with Biden administration's 'oppressive vaccine mandate'</a> CNN: Arkansas Gov. Asa Hutchinson urged large businesses in the state not to comply with the Biden administration's Covid-19 vaccine mandate, saying employers should not follow the "oppressive" rule hours before the order is set to partially go into effect. 
- <p class="updated_time"> 10:01 AM CT, Jan. 09 </p> 
- <a href="https://www.politico.com/news/2022/01/09/ron-johnson-reelection-senate-wisconsin-526804">Ron Johnson to seek reelection to Senate</a> Politico: The Wisconsin Republican announced his decision in a Wall Street Journal column. 
  <p class="updated_time"> 09:33 AM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/ron-johnson-wisconsin-senate-reelection/index.html">Wisconsin Sen. Ron Johnson says he will run for re-election</a> CNN: Sen. Ron Johnson announced in an email on Sunday that he is running for reelection in Wisconsin, setting the stage for a tough campaign in a race that could determine control of the Senate. 
  <p class="updated_time"> 09:08 AM CT, Jan. 09 </p> 
