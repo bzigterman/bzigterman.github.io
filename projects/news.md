@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:47 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: U.S. and Russia Meet Amid Fears of War in Ukraine</a> NYT: With the threat of a Russian invasion of Ukraine stirring concern across Europe, the talks in Geneva on Monday marked the start of a week of high-stakes diplomacy. 
  <p class="updated_time"> 05:17 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
  <p class="updated_time"> 04:42 AM CT, Jan. 10 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071547294/pakistan-cars-cold-snow-deaths">In Pakistan, 22 die in subfreezing temperatures as their cars are stuck in heavy snow</a> NPR: Most of the victims died of hypothermia, officials said, as overnight temperatures fell to 17.6 Fahrenheit amid heavy snowfall at Pakistan's mountain resort town of Murree. 
  <p class="updated_time"> 07:21 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071542908/venezuelans-are-cooking-over-wood-fires-because-of-a-shortage-of-propane">Venezuelans are cooking over wood fires because of a shortage of propane</a> NPR: In a great irony, Venezuelans are cooking their meals over wood fires because of a shortage of propane. This is in a nation with among the largest oil and natural gas reserves in the world. 
- <p class="updated_time"> 07:09 AM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/asia/kazakhstan-protests.html">In Kazakhstan’s Street Battles, Signs of Elites Fighting Each Other</a> NYT: The reasons for the bloody crisis in Central Asia remain murky, but experts say popular discontent could mask an old-fashioned power struggle within the ruling faction. 
  <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071542887/russia-sent-troops-near-ukraine-and-to-kazakhstan-the-u-s-is-watching-and-waitin">Russia sent troops near Ukraine and to Kazakhstan. The U.S. is watching and waiting</a> NPR: The situation in Kazakhstan has implications for the stability of the region and for U.S. energy companies active in the Central Asian country. 
  <p class="updated_time"> 06:00 AM CT, Jan. 08 </p> 
