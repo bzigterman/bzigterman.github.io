@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:01 AM CT, Jan. 10 </p> 
+ <p class="updated_time"> 10:23 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: U.S. and Russia End Day of Talks to Avert War in Ukraine</a> NYT: With the threat of a Russian invasion of Ukraine, the talks on Monday marked the start of a week of high-stakes diplomacy. Diplomats for the two countries met for more than seven hours. 
+ <p class="updated_time"> 10:18 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
+ <p class="updated_time"> 10:05 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
+ <p class="updated_time"> 09:53 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59939536?at_medium=RSS&at_campaign=KARANGA">Tesla adds chill and assertive self-driving modes</a> BBC: An update to Tesla cars adds a mode to follow other cars more closely and to slow rather than stop. 
  <p class="updated_time"> 09:43 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59931896?at_medium=RSS&at_campaign=KARANGA">New York fire: At least 19 killed in apartment block blaze</a> BBC: There were nine children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
  <p class="updated_time"> 09:29 AM CT, Jan. 10 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/asia/india-masks-omicron.html">In India, Mask Wearing Is Down Despite Rising Coronavirus Cases</a> NYT: Health officials are finding it harder to impose regulations despite signs that Omicron is beginning to take hold. 
  <p class="updated_time"> 08:54 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-59936822?at_medium=RSS&at_campaign=KARANGA">Djokovic's brother: We fight for truth and justice</a> BBC: Djordje Djokovic, speaks about supporting the tennis star during his detention in Australia. 
- <p class="updated_time"> 08:32 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
  <p class="updated_time"> 08:30 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
  <p class="updated_time"> 08:17 AM CT, Jan. 10 </p> 
@@ -53,12 +57,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59915690?at_medium=RSS&at_campaign=KARANGA">Past seven years hottest on record - EU satellite data</a> BBC: Analysis shows 2021 was the fifth-warmest with record-breaking temperatures in some regions. 
  <p class="updated_time"> 06:00 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59900738?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest was coup attempt, says president</a> BBC: President Tokayev says a hunt for "terrorists" is continuing and Kazakhstan will soon provide proof. 
+ <p class="updated_time"> 05:00 AM CT, Jan. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia Talks Look to Avert One of the Biggest Crises Since the Cold War</a> WSJ: The Kremlin has accused NATO of trying to encroach into Russia’s backyard and has demanded it halt its outreach to eastern countries, including Ukraine, while the Biden administration has signaled it is unwilling to cede to Moscow’s demands and has threatened retaliation. 
  <p class="updated_time"> 04:21 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59937221?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic supporters surround car in Melbourne</a> BBC: Crowds chanting "free Novak" surround a black car leaving the offices of the player's lawyer. 
  <p class="updated_time"> 04:00 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/health-59911257?at_medium=RSS&at_campaign=KARANGA">Covid-19: Common cold may give some protection, study suggests</a> BBC: Researchers say immune cells made to defend the body against some colds could help stave off Covid. 
- <p class="updated_time"> 03:23 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59935647?at_medium=RSS&at_campaign=KARANGA">Man arrested for bomb threat at Doja Cat concert</a> BBC: The man phoned in a bomb threat in an attempt to jump the queue at a free show in Indianaopolis. 
  <p class="updated_time"> 03:13 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071769164/myanmars-suu-kyi-sentenced-to-4-more-years-in-prison">Myanmar's Suu Kyi sentenced to 4 more years in prison</a> NPR: Suu Kyi was convicted last month on two other charges and given a four-year prison sentence, which was then halved by the head of the military-installed government. 
  <p class="updated_time"> 03:11 AM CT, Jan. 10 </p> 
@@ -77,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/novak-djokovic-to-be-released-from-detention-in-australia-after-legal-victory-11641798160">Djokovic Released From Detention After Legal Victory</a> WSJ: Decision to overturn Australian authorities’ cancellation of his visa opens the door for the No. 1 men’s tennis player to compete in the Australian Open. 
  <p class="updated_time"> 01:11 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071761247/djokovics-visa-reinstated-but-australian-open-status-unclear">Djokovic's visa is reinstated, but his Australian Open status remains unclear</a> NPR: The tennis star, who sought a COVID-19 vaccine exemption to play in the tournament, could face deportation again. The battle has sparked protests in the widely vaccinated country. 
- <p class="updated_time"> 12:55 AM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia Begin Talks to Avert One of the Biggest Crises Since the Cold War</a> WSJ: The Kremlin has accused NATO of trying to encroach into Russia’s backyard and has demanded it halt its outreach to eastern countries, including Ukraine, while the Biden administration has signaled it is unwilling to cede to Moscow’s demands and has threatened retaliation. 
  <p class="updated_time"> 12:45 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59900500?at_medium=RSS&at_campaign=KARANGA">Golden Globes: West Side Story and The Power of the Dog win at troubled event</a> BBC: Steven Spielberg's remake of the classic film was among the big winners at Sunday's event in LA. 
  <p class="updated_time"> 12:36 AM CT, Jan. 10 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/europe/biden-boris-johnson-coronavirus-omicron.html">How Biden and Boris Johnson Reached the Same Place on Virus Policy</a> NYT: Two different leaders with differing approaches landed on a policy of coexisting with the virus. Analysts say they had little choice. 
  <p class="updated_time"> 12:29 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/travel/royal-caribbean-cruises-cancellations-covid.html">Royal Caribbean Cancels Three Upcoming Cruises</a> NYT: The company said it had called off planned trips on three ships and pushed back another’s return to cruising to March. 
- <p class="updated_time"> 09:50 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/india-12-booster-shots.html">12 Covid Vaccine Shots Aren't Enough for 85-Year-Old in India</a> NYT: The retired postman said he gamed the offline vaccination drive to keep boosting regularly — long before booster shots were a thing anywhere. 
  <p class="updated_time"> 07:26 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/sports/olympics/alysa-liu-coronavirus.html">Alysa Liu Will Miss National Championships After Positive Coronavirus Test</a> NYT: The teenager had hoped a strong showing would secure her a spot on the U.S. team for the Beijing Winter Olympics next month. 
  <p class="updated_time"> 07:21 PM CT, Jan. 07 </p> 
@@ -198,12 +198,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:32 AM CT, Jan. 10 </p> 
+ <a href="https://www.npr.org/2022/01/10/1071082955/imagine-another-american-civil-war-but-this-time-in-every-state">Imagine another American Civil War, but this time in every state</a> NPR: If America has another civil war, it is more likely to be a war within the states than between them. Citizens of any state of any size, red or blue, may not have to go far to find a fight. 
+ <p class="updated_time"> 10:07 AM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US and Russia hold high stakes talks over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 10:04 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/symone-sanders-msnbc-526824">Symone Sanders lands at MSNBC</a> Politico: The former VP spokesperson is heading to the left-leaning cable news network, where she will host a weekend show and a show on its streaming platform. 
  <p class="updated_time"> 09:48 AM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/covid-congress-reaction/index.html">Congress steps up health protocols amid fresh fears over coronavirus in the Capitol</a> CNN: Congress is stepping up its health protocols amid renewed fears over the coronavirus, with the Capitol Hill community bracing for a spike in cases in the coming weeks as both chambers return to Washington during the nationwide surge in infections. 
- <p class="updated_time"> 09:33 AM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US and Russia hold crunch talks over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 09:01 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/business/media/symone-sanders-msnbc.html">Symone Sanders, a Strategist for Biden and Harris, Is Joining MSNBC</a> NYT: Ms. Sanders, 32, will host a weekend show on the cable network, one of the first big programming moves by MSNBC’s president, Rashida Jones. 
  <p class="updated_time"> 08:44 AM CT, Jan. 10 </p> 
@@ -370,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/house-intel-mike-turner-trump-526697">House Intel’s next top Republican prepares a sharp turn from the Trump years</a> Politico: Now that ex-Rep. Devin Nunes is gone, lawmakers in both parties are hoping bitter fights can cease as Rep. Mike Turner replaces him. 
  <p class="updated_time"> 04:14 AM CT, Jan. 07 </p> 
  <a href="https://www.npr.org/2022/01/07/1071181206/after-30-years-in-the-u-s-house-illinois-rep-bobby-rush-is-leaving">After 30 years in the U.S. House, Illinois Rep. Bobby Rush is leaving</a> NPR: NPR's A Martinez talks with longtime Illinois Democratic Rep. Bobby Rush about his decision to leave Congress, and his expectations for the Democratic party and democracy. 
- <p class="updated_time"> 04:14 AM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071181164/morning-news-brief">News brief: COVID tests, vaccine mandate hearing, Jan. 6 events</a> NPR: Rapid COVID-19 tests are in short supply and prices are increasing. The Supreme Court will review two of Biden's vaccine rules for workers. Not many Republicans attended Jan. 6 events on Capitol Hill. 
  <p class="updated_time"> 08:02 PM CT, Jan. 06 </p> 
  <a href="https://www.cnn.com/2022/01/06/politics/inside-biden-january-6-speech/index.html">Inside Biden's fiery speech and his decision to confront Trump's danger head-on</a> CNN: It was only a little more than a month ago when President Joe Biden, asked about another head-shaking revelation regarding his predecessor, seemed to balk at a mere mention of the man. 
  <p class="updated_time"> 06:59 PM CT, Jan. 06 </p> 
