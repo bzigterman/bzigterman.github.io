@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:01 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
+ <p class="updated_time"> 11:56 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: Australian officials hinted they may make a new attempt to cancel Djokovic’s visa, even as the tennis champion, freed from detention, returned to the court. 
+ <p class="updated_time"> 11:55 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/europe/putin-russia-kazakhstan.html">Russian Troops Will Stay to Finish Job in Kazakhstan, Putin Says</a> NYT: Blaming “internal and external forces” for the unrest in the resource-rich Central Asian country, President Vladimir V. Putin of Russia set no deadline for the withdrawal of the forces his country sent there. 
+ <p class="updated_time"> 11:49 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59935998?at_medium=RSS&at_campaign=KARANGA">Covid pass protesters attack French MP Stéphane Claireaux with seaweed</a> BBC: Stéphane Claireaux compared the attack outside his home in St Pierre and Miquelon to a "stoning". 
  <p class="updated_time"> 11:45 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/famed-white-cliffs-of-sicily-are-defaced-in-an-act-of-vandalism.html">Famed White Cliffs of Sicily Are Defaced in an Act of Vandalism</a> NYT: Vandals stained a cliff formation known as the Staircase of the Turks with red splotches over the weekend. Residents of a nearby town banded together for a successful cleanup. 
  <p class="updated_time"> 11:39 AM CT, Jan. 10 </p> 
@@ -41,12 +49,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/the-biden-administration-gave-a-preview-of-how-it-would-punish-russia-if-it-invaded-ukraine.html">The Biden administration gave a preview of how it would punish Russia if it invaded Ukraine.</a> NYT: Such moves are rarely telegraphed in advance, but advisers say they are hoping to influence the decisions of Russia’s leader, Vladimir V. Putin. 
  <p class="updated_time"> 07:58 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
- <p class="updated_time"> 07:53 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: Australian officials hinted they may make a new attempt to cancel Djokovic’s visa, even as the tennis champion, freed from detention, returned to the court. 
  <p class="updated_time"> 07:19 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59933706?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Ousted Myanmar leader jailed for another four years</a> BBC: Myanmar's former leader faces a series of charges since being ousted in an army coup last February. 
- <p class="updated_time"> 07:18 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/europe/putin-russia-kazakhstan.html">Russian Troops Will Stay to Finish Job in Kazakhstan, Putin Says</a> NYT: Blaming “internal and external forces” for the unrest in the resource-rich Central Asian country, President Vladimir V. Putin of Russia set no deadline for the withdrawal of the forces his country sent there. 
  <p class="updated_time"> 07:03 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59910844?at_medium=RSS&at_campaign=KARANGA">Swedish PM under fire for illegal immigrant cleaner</a> BBC: Prime Minister Magdalena Andersson says she was assured all company employees were working legally. 
  <p class="updated_time"> 06:53 AM CT, Jan. 10 </p> 
@@ -85,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/novak-djokovic-to-be-released-from-detention-in-australia-after-legal-victory-11641798160">Djokovic Released From Detention After Legal Victory</a> WSJ: Decision to overturn Australian authorities’ cancellation of his visa opens the door for the No. 1 men’s tennis player to compete in the Australian Open. 
  <p class="updated_time"> 01:11 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071761247/djokovics-visa-reinstated-but-australian-open-status-unclear">Djokovic's visa is reinstated, but his Australian Open status remains unclear</a> NPR: The tennis star, who sought a COVID-19 vaccine exemption to play in the tournament, could face deportation again. The battle has sparked protests in the widely vaccinated country. 
- <p class="updated_time"> 12:45 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59900500?at_medium=RSS&at_campaign=KARANGA">Golden Globes: West Side Story and The Power of the Dog win at troubled event</a> BBC: Steven Spielberg's remake of the classic film was among the big winners at Sunday's event in LA. 
  <p class="updated_time"> 12:36 AM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/pope-francis-denounces-cancel-culture-and-antivaccine-ideology-11641814583">Pope Francis Denounces 'Cancel Culture' and Antivaccine 'Ideology'</a> WSJ: In his annual speech to ambassadors, the pontiff also lamented the effects of pandemic-related school closures on children. 
  <p class="updated_time"> 12:00 AM CT, Jan. 10 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/09/1071703878/us-russia-ukraine-talks-geneva">Neither side is optimistic ahead of U.S.-Russia talks over Ukraine</a> NPR: The U.S. and its European allies want Russia to reduce troop buildup along the Ukraine border. Russia wants U.S. troops out of Eastern Europe. Both sides say those demands are non-starters. 
  <p class="updated_time"> 06:03 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808770?at_medium=RSS&at_campaign=KARANGA">Air pollution: Delhi's smog problem is rooted in India's water crisis</a> BBC: Years of ill-conceived farming practices have contributed to India's worsening air pollution. 
- <p class="updated_time"> 05:44 PM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 04:59 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59932113?at_medium=RSS&at_campaign=KARANGA">Bronx fire: 'A horrific, painful moment ' says New York City Mayor Eric Adams</a> BBC: At least 19 people, including nine children, have died after a fire in the Bronx. 
  <p class="updated_time"> 04:09 PM CT, Jan. 09 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:55 PM CT, Jan. 10 </p> 
+ <a href="https://www.politico.com/news/2022/01/10/treasury-tax-filing-season-526833">Treasury warns taxpayers to brace for a turbulent tax filing season</a> Politico: The IRS is still dealing with backups in processing returns from the past two filing seasons. 
  <p class="updated_time"> 12:22 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/wisconsin-gop-election-review-526827">Wisconsin judge lets GOP-led election review continue</a> Politico: State Attorney General Josh Kaul's bid to undercut the probe was denied by a judge in Dane County. 
  <p class="updated_time"> 11:40 AM CT, Jan. 10 </p> 
