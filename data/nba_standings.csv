@@ -3,15 +3,15 @@ Eastern,CHI,26,11,.703
 Eastern,BKN,25,13,.658
 Eastern,MIA,25,15,.625
 Eastern,MIL,26,17,.605
-Eastern,PHI,22,16,.579
+Eastern,PHI,23,16,.590
 Eastern,CLE,22,18,.550
 Eastern,TOR,20,17,.541
 Eastern,CHA,22,19,.537
 Eastern,WAS,20,20,.500
 Eastern,NYK,20,21,.488
-Eastern,BOS,19,21,.475
+Eastern,BOS,20,21,.488
 Eastern,ATL,17,22,.436
-Eastern,IND,15,25,.375
+Eastern,IND,15,26,.366
 Eastern,DET,9,30,.231
 Eastern,ORL,7,34,.171
 Western,GSW,30,9,.769
@@ -28,4 +28,4 @@ Western,SAC,16,26,.381
 Western,SAS,15,25,.375
 Western,NOP,14,26,.350
 Western,OKC,13,26,.333
-Western,HOU,11,30,.268
+Western,HOU,11,31,.262
