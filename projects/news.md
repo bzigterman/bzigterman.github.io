@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:30 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/arts/dance/tamara-rojo-artistic-director-san-francisco-ballet.html">San Francisco Ballet Appoints Tamara Rojo to Artistic Director</a> NYT: Rojo, who has given the English National Ballet a new allure, succeeds Helgi Tomasson as just the fifth director to lead the San Francisco company. 
+ <p class="updated_time"> 01:26 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/world/europe/ukraine-russia.html">A Russian Pledge of No Invasion? Ukrainians Are Skeptical.</a> NYT: When Russians say no, they often mean yes, a former Ukrainian member of Parliament said, as suspicion ran deep about Moscow’s intentions. 
  <p class="updated_time"> 01:09 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59958662?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Up to tennis star to explain PCR grey area, says Serbia PM</a> BBC: Ana Brnabic says it would be a clear breach of rules if the tennis star went out knowing he had Covid. 
  <p class="updated_time"> 01:04 PM CT, Jan. 11 </p> 
@@ -43,14 +47,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: He was a well-known journalist in his native Italy before going into politics, and devoted his tenure to making the Parliament more prominent. 
  <p class="updated_time"> 10:45 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/sports/tennis/novak-djokovic-covid-positive-australia.html">Novak Djokovic Tested Positive: A Timeline of What Happened Next</a> NYT: If a tennis star knew he was positive for the coronavirus, why did he keep making public appearances without a mask? 
- <p class="updated_time"> 10:44 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/europe/ukraine-russia.html">A Russian Pledge of No Invasion? Ukrainians Are Skeptical.</a> NYT: When Russians say no, they often mean yes, a former Ukrainian member of Parliament said, as suspicion ran deep about Moscow’s intentions. 
  <p class="updated_time"> 10:38 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59951264?at_medium=RSS&at_campaign=KARANGA">Three ethical issues around pig heart transplants</a> BBC: A pig's heart has been used in a human transplant operation - what are the questions to consider? 
  <p class="updated_time"> 10:25 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/11/1071371953/welcome-to-the-era-of-omicron-rules-and-regs">Welcome to the era of omicron rules and regs</a> NPR: As the highly transmissible variant spreads rapidly around the world, some countries have reimposed harsh COVID measures like those seen in the early days of the pandemic. 
- <p class="updated_time"> 10:19 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/arts/dance/tamara-rojo-artistic-director-san-francisco-ballet.html">San Francisco Ballet Appoints Tamara Rojo to Artistic Director</a> NYT: Rojo, who has given the English National Ballet a new allure, succeeds Helgi Tomasson as just the fifth director to lead the San Francisco company. 
  <p class="updated_time"> 10:06 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/magawa-landmine-hero-rat-dead.html">Magawa, Hero Rat That Hunted Land Mines, Dies in Retirement</a> NYT: The African giant pouched rat sniffed out more than 100 mines and other pieces of unexploded ordnance in Cambodia over five years, winning hearts and an international award. 
  <p class="updated_time"> 10:06 AM CT, Jan. 11 </p> 
@@ -200,20 +200,24 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:45 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/biden-n95-mask-distribution-526889">Biden health team weighs new mask distribution plan</a> Politico: Officials in favor of distributing the masks to the public have pushed for a decision as soon as Thursday. 
+ <p class="updated_time"> 01:28 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, the president will express support for altering rules around the Senate filibuster, setting up a confrontation with Republicans. 
+ <p class="updated_time"> 01:27 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/business/powell-confirmation-hearing.html"> Jerome Powell Says Fed Is Prepared to Raise Rates to Tame Inflation</a> NYT: The Federal Reserve chair is testifying before lawmakers as he seeks Senate confirmation to a second term. 
+ <p class="updated_time"> 01:20 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/stacey-abrams-biden-voting-rights-speech/index.html">Stacey Abrams and Biden blame scheduling issue for voting rights speech absence</a> CNN: Both President Joe Biden and Georgia Democratic gubernatorial candidate Stacey Abrams are citing a scheduling issue to explain why the state's most prominent voting rights activist will not be attending the Democratic president's speech on the topic in Atlanta on Tuesday afternoon. 
  <p class="updated_time"> 01:15 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072110378/dr-fauci-says-gop-sen-pauls-false-accusations-have-sparked-death-threats">Dr. Fauci says GOP Sen. Paul's false accusations have sparked death threats</a> NPR: Fauci and Paul sparred at a Senate hearing on COVID-19, escalating exchanges the two have had throughout the pandemic. Fauci also said Paul is attempting to raise money off "a catastrophic epidemic." 
  <p class="updated_time"> 01:15 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/trump-jan-6-lawsuits.html">Civil Suits Against Trump Seek Damages for Jan. 6 Attack</a> NYT: Lawyers argued that the cases against the former president should be allowed to go forward because he inflamed a mob and failed to stop the violence it wrought. 
- <p class="updated_time"> 01:14 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/business/powell-confirmation-hearing.html"> Jerome Powell Says Fed Is Prepared to Raise Rates to Tame Inflation</a> NYT: The Federal Reserve chair is testifying before lawmakers as he seeks Senate confirmation to a second term. 
- <p class="updated_time"> 01:09 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, the president will express support for altering rules around the Senate filibuster, setting up a confrontation with Republicans. 
  <p class="updated_time"> 12:35 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden to amp up the pressure on the Senate to change filibuster rules for voting rights during Atlanta speech</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 12:16 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/david-mccormick-senate-campaign-trump-526870">McCormick MAGA-proofs his Senate campaign after dissing Trump</a> Politico: The new Pennsylvania candidate is certain to face GOP primary attacks. 
  <p class="updated_time"> 12:15 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/capitol-police-officers-extremist-views/index.html">Capitol Police and House sergeant-at-arms working to identify officers with extremist views</a> CNN: US Capitol Police Chief Tom Manger and House Sergeant at Arms William Walker are working to identify officers with extremist views who could impact security at the Capitol, they told lawmakers on Tuesday. 
+ <p class="updated_time"> 12:10 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072123333/justice-department-domestic-terrorism-unit">The Justice Department will create a domestic terrorism unit to counter rising threats</a> NPR: The announcement was made Tuesday by Matthew Olsen, the head of the department's National Security Division, and comes as the nation faces a constellation of extremist threats on the home front. 
  <p class="updated_time"> 12:02 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/nuclear-option-senate-filibuster/index.html">Why Democrats are thinking of going nuclear</a> CNN: As Democrats push to pass voting rights legislation through Congress, there's been talk of using a process known as the "nuclear option." 
  <p class="updated_time"> 11:58 AM CT, Jan. 11 </p> 
@@ -360,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/08/politics/harry-reid-memorial/index.html">Biden eulogizes Reid as 'one of the greatest Senate Majority Leaders in history'</a> CNN: Former Senate Majority Leader Harry Reid will be remembered by a host of top Democratic politicians at his memorial service in Las Vegas on Saturday, with President Joe Biden speaking at the service and former President Barack Obama eulogizing the late senator. 
  <p class="updated_time"> 05:12 PM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071594389/biden-obama-harry-reid-at-memorial-funeral">Biden, Obama among those to eulogize Senate titan Harry Reid at memorial service</a> NPR: "In a town obsessed with appearances, Harry had a real vanity deficit. He didn't like phonies. He didn't like grandstanding. He was proud of the fact that he didn't own a tuxedo," said Obama. 
- <p class="updated_time"> 04:14 PM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/2022/01/08/1071589631/the-legacy-of-lani-guinier">The legacy of Lani Guinier</a> NPR: NPR's Michel Martin speaks with Spencer Overton, law professor at George Washington University Law School, about the legacy of Lani Guinier, a legal scholar in the field of voting rights. 
  <p class="updated_time"> 12:41 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/senate-minority-whip-john-thune-to-run-for-reelection-526794">Senate Minority Whip John Thune to run for reelection</a> Politico: The 61-year-old South Dakotan is widely viewed as a potential successor to Senate Minority Leader Mitch McConnell 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
@@ -372,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
- <p class="updated_time"> 01:10 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/usda-school-lunch-inflation-supply-chain/index.html">USDA pumps $750 million into school meals to counter inflation, supply chain woes</a> CNN: Schools are not only wrestling with how to educate children amid the surge in coronavirus cases. They are also contending with feeding kids as inflation and supply chain problems disrupt their ability to serve meals. 
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
  <p class="updated_time"> 12:37 PM CT, Jan. 07 </p> 
