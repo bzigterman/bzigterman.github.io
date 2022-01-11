@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:53 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released, but Other Royals Are Still Locked Up</a> NYT: The Saudi government has not said why it detained or freed Princess Basmah bint Saud, a daughter of a former king who has criticized the country’s policies. 
  <p class="updated_time"> 04:42 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072029936/cyber-risks-add-to-climate-threat-world-economic-forum-warns">Cyber risks add to climate threat, World Economic Forum warns</a> NPR: Survey of 1,000 experts and leaders finds cybersecurity and space add to the existing challenges of climate change and the coronavirus pandemic. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/tennis/59944701?at_medium=RSS&at_campaign=KARANGA">Djokovic saga damaging, says tennis governing body</a> BBC: The controversy over Novak Djokovic's visa to enter Australia has been "damaging on all fronts", says the ATP. 
  <p class="updated_time"> 04:01 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
- <p class="updated_time"> 03:44 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released, but Other Royals Are Still Locked Up</a> NYT: The Saudi government has not said why it detained or freed Princess Basmah bint Saud, a daughter of a former king who has criticized the country’s policies. 
  <p class="updated_time"> 03:43 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072021539/eu-parliament-president-david-sassoli-dies-at-age-65">EU Parliament President David Sassoli dies at age 65</a> NPR: The Italian journalist had been hospitalized since Dec. 26 due to abnormal functioning of his immune system. 
  <p class="updated_time"> 02:44 AM CT, Jan. 11 </p> 
@@ -47,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: No cause of death was immediately available. He had been hospitalized in Italy because his immune system was not functioning normally. 
  <p class="updated_time"> 12:00 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/jeffrey-moyo-zimbabwe-nyt.html">Freelance Reporter for the New York Times Is On Trial in Zimbabwe</a> NYT: The reporter, Jeffrey Moyo, has been accused of helping two Times journalists enter Zimbabwe from South Africa using bogus credentials, a charge that even the government admits is on ‘shaky grounds.’ 
+ <p class="updated_time"> 11:55 PM CT, Jan. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-rebuilt-nato-to-face-down-russia-putin-scrambled-those-plans-11641898501">U.S. Rebuilt NATO to Face Down Russia. Putin Scrambled Those Plans.</a> WSJ: Ahead of a meeting between the North Atlantic Treaty Organization and Russia in Brussels on Wednesday, the 30-country alliance is grappling with how to counter Moscow’s increasing assertiveness. 
  <p class="updated_time"> 11:19 PM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-unidentified-projectile-off-its-east-coast-south-korea-says-11641859154">North Korea Launches Ballistic Missile, South Korea Says</a> WSJ: The weapons test off the country’s east coast is Pyongyang’s second of this year, following a ballistic missile launch last week. 
  <p class="updated_time"> 11:01 PM CT, Jan. 10 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/10/1071880010/russia-us-ukraine-nato-join">Russia digs in on Ukraine never joining NATO, on a day of talks with the U.S. </a> NPR: "For us, it's absolutely mandatory to make sure that Ukraine never, never, ever becomes a member of NATO," Russian Deputy Foreign Minister Sergei Ryabkov said. 
  <p class="updated_time"> 01:22 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/rum-isle-scotland-hebrides.html">As Its Population Soars to 40, Rum Isle Glimpses a Future in the Mist</a> NYT: With four new families recently arriving, the remote and rainy island in the Hebrides is experiencing its version of a population surge, although residents new and old concede living here isn’t easy. 
- <p class="updated_time"> 12:56 PM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia Talks Yield Little Overall Progress Amid Ukraine Crisis</a> WSJ: Negotiators for Washington and Moscow held their first security talks since Russia’s deployment of tens of thousands of troops to the Ukrainian border sparked fears of an invasion, but said they failed to narrow their differences. 
  <p class="updated_time"> 11:56 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: Australian officials hinted they may make a new attempt to cancel Djokovic’s visa, even as the tennis champion, freed from detention, returned to the court. 
  <p class="updated_time"> 11:45 AM CT, Jan. 10 </p> 
