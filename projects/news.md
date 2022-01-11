@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59944889?at_medium=RSS&at_campaign=KARANGA">Man gets genetically-modified pig heart in world-first transplant</a> BBC: David Bennett, 57, is doing well three days after the experimental surgery, doctors say. 
+ <p class="updated_time"> 04:21 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59946927?at_medium=RSS&at_campaign=KARANGA">What's at stake in the struggle over US voting laws</a> BBC: Democrats are readying a high-stakes battle over elections, an issue both parties want to reform. 
  <p class="updated_time"> 04:18 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/putin-russia-kazakhstan.html">Russian Troops Will Stay to Finish Job in Kazakhstan, Putin Says</a> NYT: Blaming “internal and external forces” for the unrest in the resource-rich Central Asian country, President Vladimir V. Putin of Russia set no deadline for the withdrawal of the forces his country sent there. 
+ <p class="updated_time"> 04:16 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59935126?at_medium=RSS&at_campaign=KARANGA">China: Doctor charged for treating fever patient</a> BBC: The medic in Henan could face a prison term because there wasn't a fever clinic at their hospital. 
  <p class="updated_time"> 04:14 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59944701?at_medium=RSS&at_campaign=KARANGA">Djokovic saga damaging, says tennis governing body</a> BBC: The controversy over Novak Djokovic's visa to enter Australia has been "damaging on all fronts", says the ATP. 
  <p class="updated_time"> 04:01 AM CT, Jan. 11 </p> 
@@ -38,13 +44,11 @@ permalink: /projects/news/
  <p class="updated_time"> 12:16 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: No cause of death was immediately available. He had been hospitalized in Italy because his immune system was not functioning normally. 
  <p class="updated_time"> 12:00 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/jeffrey-moyo-zimbabwe-nyt.html">Freelance Reporter for The New York Times Is Put on Trial in Zimbabwe</a> NYT: The reporter, Jeffrey Moyo, has been accused of helping two Times journalists enter Zimbabwe from South Africa using bogus credentials, a charge that even the government admits is on ‘shaky grounds.’ 
+ <a href="https://www.nytimes.com/2022/01/11/world/jeffrey-moyo-zimbabwe-nyt.html">Freelance Reporter for the New York Times Is On Trial in Zimbabwe</a> NYT: The reporter, Jeffrey Moyo, has been accused of helping two Times journalists enter Zimbabwe from South Africa using bogus credentials, a charge that even the government admits is on ‘shaky grounds.’ 
  <p class="updated_time"> 11:19 PM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-unidentified-projectile-off-its-east-coast-south-korea-says-11641859154">North Korea Launches Ballistic Missile, South Korea Says</a> WSJ: The weapons test off the country’s east coast is Pyongyang’s second of this year, following a ballistic missile launch last week. 
  <p class="updated_time"> 11:01 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/asia/afghanistan-united-nations-appeal.html">U.N. Seeks Huge Aid Increase to Prevent ‘Catastrophe’ in Afghanistan</a> NYT: The $5 billion appeal comes as a severe drought and the toll of decades of war have plunged three-quarters of the country’s population into acute poverty, according to the United Nations. 
- <p class="updated_time"> 10:00 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/business-59947088?at_medium=RSS&at_campaign=KARANGA">Evergrande: Real estate giant moves from Shenzhen head office to cut costs</a> BBC: The crisis-hit property developer is still struggling to pay more than $300bn in liabilities. 
  <p class="updated_time"> 08:57 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59935125?at_medium=RSS&at_campaign=KARANGA">North Korea fires suspected ballistic missile</a> BBC: It comes as six nations, including the US, call for the North to stop its "destabilising actions." 
  <p class="updated_time"> 08:55 PM CT, Jan. 10 </p> 
@@ -79,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
  <p class="updated_time"> 05:00 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
- <p class="updated_time"> 04:55 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59944889?at_medium=RSS&at_campaign=KARANGA">Man gets genetically-modified pig heart in world-first transplant</a> BBC: David Bennett, 57, is doing well three days after the experimental surgery, doctors say. 
  <p class="updated_time"> 04:24 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in talks with US</a> BBC: Russian officials downplay the threat to neighbouring Ukraine during high-stakes talks in Geneva. 
  <p class="updated_time"> 04:12 PM CT, Jan. 10 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia Talks Yield Little Overall Progress Amid Ukraine Crisis</a> WSJ: Negotiators for Washington and Moscow held their first security talks since Russia’s deployment of tens of thousands of troops to the Ukrainian border sparked fears of an invasion, but said they failed to narrow their differences. 
  <p class="updated_time"> 11:56 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: Australian officials hinted they may make a new attempt to cancel Djokovic’s visa, even as the tennis champion, freed from detention, returned to the court. 
- <p class="updated_time"> 11:49 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59935998?at_medium=RSS&at_campaign=KARANGA">Covid pass protesters attack French MP Stéphane Claireaux with seaweed</a> BBC: Stéphane Claireaux likens the attack near his home in a French part of North America to a "stoning". 
  <p class="updated_time"> 11:45 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/white-cliffs-sicily-vandalism.html">Famed White Cliffs of Sicily Are Defaced in an Act of Vandalism</a> NYT: Vandals stained a cliff formation known as the Staircase of the Turks with red splotches over the weekend. Residents of a nearby town banded together for a successful cleanup. 
  <p class="updated_time"> 11:22 AM CT, Jan. 10 </p> 
@@ -196,8 +196,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/biden-speech-voting-rights-republicans-526871">Biden to turn the heat up on Republicans over voting rights</a> Politico: The trip to Georgia is meant to assure activists that he’s ready for the fight. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden Will Endorse Changing Senate Rules to Pass Voting Rights Legislation</a> NYT: In Georgia, the president will express support for altering rules around the Senate filibuster, setting up a confrontation with Republicans. 
  <p class="updated_time"> 04:00 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1071940115/biden-harris-atlanta-georgia-voting-visit">Biden will 'forcefully advocate' for protecting voting rights in Atlanta speech</a> NPR: The president has been under increasing pressure to more aggressively combat threats to voting rights. And advocates say speeches are not a substitute for legislative action. 
  <p class="updated_time"> 03:26 AM CT, Jan. 11 </p> 
@@ -288,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/10/politics/sotomayor-barrett-federal-sentencing-commission/index.html">Justices Sotomayor and Barrett question the state of federal sentencing commission</a> CNN: Liberal Supreme Court Justice Sonia Sotomayor, joined by her conservative colleague Justice Amy Coney Barrett, raised concerns on Monday about disparities in the federal system over sentencing guidelines. 
  <p class="updated_time"> 12:22 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/wisconsin-gop-election-review-526827">Wisconsin judge lets GOP-led election review continue</a> Politico: State Attorney General Josh Kaul's bid to undercut the probe was denied by a judge in Dane County. 
- <p class="updated_time"> 10:04 AM CT, Jan. 10 </p> 
- <a href="https://www.politico.com/news/2022/01/10/symone-sanders-msnbc-526824">Symone Sanders lands at MSNBC</a> Politico: The former VP spokesperson is heading to the left-leaning cable news network, where she will host a weekend show and a show on its streaming platform. 
  <p class="updated_time"> 09:48 AM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/covid-congress-reaction/index.html">Congress steps up health protocols amid fresh fears over coronavirus in the Capitol</a> CNN: Congress is stepping up its health protocols amid renewed fears over the coronavirus, with the Capitol Hill community bracing for a spike in cases in the coming weeks as both chambers return to Washington during the nationwide surge in infections. 
  <p class="updated_time"> 08:44 AM CT, Jan. 10 </p> 
@@ -316,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/us/politics/biden-republicans-agenda.html">Biden Comes Out Swinging Against Republicans as His Agenda Stalls</a> NYT: The president pledged to use all of the powers of his office to thwart Republicans still under the thumb of Donald J. Trump. 
  <p class="updated_time"> 02:07 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/us/politics/russia-ukraine-james-baker.html">James A. Baker III’s Words on NATO Loom in Ukraine Standoff</a> NYT: The current confrontation turns partly on what, if any, commitments Secretary of State James A. Baker III made about NATO’s expansion in the waning days of the Cold War. 
- <p class="updated_time"> 01:14 PM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/us/politics/ron-johnson-senate-wisconsin.html">Ron Johnson, G.O.P. Senator From Wisconsin, Will Seek Re-election</a> NYT: The renewed bid for office by Mr. Johnson, who has spread many false claims about the 2020 election and Covid, ensures that both parties will be highly invested in Wisconsin’s 2022 Senate race. 
  <p class="updated_time"> 11:17 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/mike-rounds-trump-election-republicans-526806">GOP senator says Trump’s election allegations are unfounded</a> Politico: “The election was fair, as fair as we have seen,” Mike Rounds said. 
  <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
@@ -430,8 +430,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/04/toxic-positivity-rates-on-capitol-hill-495587">Toxic positivity (rates) on Capitol Hill</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Jan. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/04/the-election-reform-idea-gaining-currency-on-the-right-495582"> The election reform idea gaining currency on the right</a> Politico Playbook: And Rep. Bobby Rush (D-Ill.) says he won't seek reelection. 
- <p class="updated_time"> 04:31 AM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/biden-schools-omicron-526474">Governors demand schools stay open but districts may lack enough teachers</a> Politico: For now, political leaders across the ideological spectrum are pressuring schools to keep their doors open. 
 
 
 </details>
