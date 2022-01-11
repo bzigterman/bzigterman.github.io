@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:39 PM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59956068?at_medium=RSS&at_campaign=KARANGA">Biden calls for 'turning point' on election laws</a> BBC: The president warns of a "grave" threat to democracy, but Republicans say no such threat exists. 
  <p class="updated_time"> 05:18 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59960689?at_medium=RSS&at_campaign=KARANGA">Covid: Quebec to impose health tax on unvaccinated Canadians</a> BBC: The unvaccinated represent 15% of the population, but over half of all hospital admissions. 
  <p class="updated_time"> 05:03 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072245389/quebec-unvaccinated-covid-penalty">In Quebec, people who refuse to be vaccinated for COVID will face a financial penalty</a> NPR: The Canadian province's premier said not getting vaccinated leads to consequences for the health care system and not all Quebecers should pay for that. 
  <p class="updated_time"> 04:54 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59958664?at_medium=RSS&at_campaign=KARANGA">North Korea claims new hypersonic missile launch under watch of Kim Jong-un</a> BBC: Leader Kim Jong-un oversaw the country's second such launch in less than a week, state media reports. 
- <p class="updated_time"> 04:50 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59956068?at_medium=RSS&at_campaign=KARANGA">Biden calls for 'turning point' on election laws</a> BBC: The president warns of a "grave" threat to democracy, but Republicans say no such threat exists. 
  <p class="updated_time"> 04:47 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/science/shirley-mcgreal-dead.html">Shirley McGreal, Champion of Primates Under Threat, Dies at 87</a> NYT: She exposed smuggling rings and research laboratories and built a sanctuary for gibbons in South Carolina. 
  <p class="updated_time"> 04:28 PM CT, Jan. 11 </p> 
@@ -200,14 +200,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:30 PM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/medicare-alzheimers-drug-trial-526943">Medicare won’t cover controversial Alzheimer’s drug — unless patients are in a clinical trial</a> Politico: FDA approved the drug on an accelerated pathway, which requires a fourth clinical trial to demonstrate that the drug actually slows cognitive decline. 
  <p class="updated_time"> 06:21 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/north-carolina-gop-map-redistricting-526931">North Carolina court declines to toss out GOP-drawn House map</a> Politico: Democratic plaintiffs challenged the state's maps as illegal partisan gerrymanders and are planning to appeal to the state Supreme Court. 
  <p class="updated_time"> 06:15 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/democrats-covid-strategy-526924">'Rules need to be clear': Dems call for Covid strategy reset as cases spike</a> Politico: Congressional Democrats fret that the White House's strategy on Covid in recent weeks has been confusing and ineffective against the Omicron variant. 
- <p class="updated_time"> 05:31 PM CT, Jan. 11 </p> 
+ <p class="updated_time"> 05:32 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/mike-rounds-republican-defense/index.html">Top Republicans stand up for Rounds after Trump's attack: He 'told the truth'</a> CNN: Senior Republicans are closing ranks behind Sen. Mike Rounds after he endured a scathing attack from former President Donald Trump for acknowledging the reality that President Joe Biden won the 2020 election. 
  <p class="updated_time"> 05:23 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden calls on Senate to change filibuster rules for voting rights as he turns up the heat on Congress to pass major bills</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
+ <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden calls on Senate to change filibuster rules to pass voting rights bills in forceful speech: 'I'm tired of being quiet'</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 05:10 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/justice-dept-domestic-terrorism.html">Justice Dept. Forms Domestic Terrorism Unit</a> NYT: The move is in keeping with Attorney General Merrick B. Garland’s vow to make combating domestic terrorism a priority. 
  <p class="updated_time"> 05:07 PM CT, Jan. 11 </p> 
@@ -241,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:01 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183445/democrats-are-outraged-over-how-florida-gov-desantis-has-handled-covid-testing">Democrats are outraged over how Florida Gov. DeSantis' has handled COVID testing</a> NPR: Democrats are scolding Florida Gov. Ron DeSantis for low test availability after his administration let nearly a million rapid COVID tests to expire. He now says there's too much unnecessary testing. 
  <p class="updated_time"> 04:00 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/covid-19-testing-joe-biden-administration/index.html">Biden vowed to fix testing. But he didn't plan for Omicron. </a> CNN: As President Joe Biden was spending his holidays with family at the White House and in Delaware, he was frustrated to see images on television of Americans waiting in long lines for Covid-19 tests. 
+ <a href="https://www.cnn.com/2022/01/11/politics/covid-19-testing-joe-biden-administration/index.html">'Everybody saw it coming,' expert says of Covid testing capacity, but Biden administration 'dropped the ball'</a> CNN: As President Joe Biden was spending his holidays with family at the White House and in Delaware, he was frustrated to see images on television of Americans waiting in long lines for Covid-19 tests. 
  <p class="updated_time"> 03:57 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/rand-paul-fauci-covid.html">Fauci Says Senator Rand Paul Is Fueling Threats Against Him</a> NYT: Senator Rand Paul accused Dr. Anthony Fauci of trying to undermine scientists who disagreed with him. Dr. Fauci denied the allegation and accused Republicans of feeding attacks against him. 
  <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
@@ -263,7 +265,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:00 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/style/melania-trump-white-hat-auction.html">Melania Trump Auctions Her Hat</a> NYT: A year after leaving the White House, the former first lady tests the water for her brand. 
  <p class="updated_time"> 01:59 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1071829164/biden-speech-voting-rights-filibuster-senate">Biden will focus in on voting rights and election integrity in Atlanta speech</a> NPR: The president is expected to speak to the importance of election integrity as a means to preserving democracy and also back changing the filibuster to make it easier to pass voting rights bills. 
+ <a href="https://www.npr.org/2022/01/11/1071829164/biden-speech-voting-rights-filibuster-senate">Biden calls for changes to the Senate's filibuster to pass voting rights bills</a> NPR: The president spoke to the importance of election integrity as a means to preserving democracy and also backed changing the filibuster to make it easier to pass voting rights bills. 
  <p class="updated_time"> 01:45 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/biden-n95-mask-distribution-526889">Biden health team weighs new mask distribution plan</a> Politico: Officials in favor of distributing the masks to the public have pushed for a decision as soon as Thursday. 
  <p class="updated_time"> 01:15 PM CT, Jan. 11 </p> 
@@ -346,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/business/media/jesse-watters-fox-news.html">Jesse Watters of Fox News Is Promoted to an Evening Slot</a> NYT: Mr. Watters, a sardonic conservative with a pro-Trump bent, will take over the 7 p.m. hour. 
  <p class="updated_time"> 04:22 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/business/economy/jerome-powell-testimony-inflation.html">Jerome Powell Will Acknowledge Inflation’s Toll in Senate Testimony</a> NYT: Central bankers will act to keep rapid price gains from becoming permanent, Mr. Powell, the chair of the Federal Reserve, will say during a renomination hearing. 
- <p class="updated_time"> 04:12 PM CT, Jan. 10 </p> 
- <a href="https://www.politico.com/news/2022/01/10/federal-reserve-vice-chair-resigns-ethics-scandal-526849">Fed’s No. 2 official resigns amid trading scandal</a> Politico: Federal Reserve Vice Chair Richard Clarida quietly admitted last month that he had failed to fully disclose financial trades in February 2020. 
  <p class="updated_time"> 03:00 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/trump-immunity-jan-6-526839">Judge mulls whether Trump’s silence on Jan. 6 could amount to ‘agreement’ with rioters</a> Politico: During a hearing on civil lawsuits stemming from the Capitol attack, Donald Trump’s lawyers claimed sweeping immunity for the former president. 
  <p class="updated_time"> 02:57 PM CT, Jan. 10 </p> 
