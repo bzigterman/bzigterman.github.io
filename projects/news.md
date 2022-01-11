@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:15 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59935125?at_medium=RSS&at_campaign=KARANGA">North Korea fires suspected ballistic missile</a> BBC: It comes as six nations, including the US, call for the North to stop its "destabilising actions." 
- <p class="updated_time"> 07:17 PM CT, Jan. 10 </p> 
+ <p class="updated_time"> 09:00 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/asia/north-korea-ballistic-missile-south-korea.html">North Korea Launches 2nd Ballistic Missile in a Week, South Korea Says</a> NYT: The launch came as the U.N. Security Council met to discuss the country’s growing weapons threat. 
+ <p class="updated_time"> 08:57 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59935125?at_medium=RSS&at_campaign=KARANGA">North Korea fires suspected ballistic missile</a> BBC: It comes as six nations, including the US, call for the North to stop its "destabilising actions." 
+ <p class="updated_time"> 08:55 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/asia/myanmar-aung-san-suu-kyi-verdict.html">In Myanmar, Aung San Suu Kyi Sentenced to 4 More Years</a> NYT: Myanmar’s ousted civilian leader was convicted on three more counts under Covid and telecommunications rules, which her defenders said were politically motivated. 
+ <p class="updated_time"> 08:29 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59946929?at_medium=RSS&at_campaign=KARANGA">Maya Angelou: Poet is first black woman on US quarter</a> BBC: The civil rights activist and writer is the first in a series of US women honoured on the US quarter. 
  <p class="updated_time"> 07:13 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/10/1071975804/mexico-president-andres-lopez-obrador-covid-positive">The president of Mexico says he has COVID for a 2nd time</a> NPR: President Andrés Manuel López Obrador wrote that he tested positive, after he had sounded hoarse at a morning news briefing. He contracted COVID-19 and recovered from it the first time in early 2021. 
  <p class="updated_time"> 06:38 PM CT, Jan. 10 </p> 
@@ -57,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/10/1071896627/the-uae-attempts-to-overhaul-harsh-criminal-and-financial-laws">The UAE attempts to overhaul harsh criminal and financial laws</a> NPR: The United Arab Emirates has been criticized for human rights violations but is now overhauling its laws to ease up on some social and economic restrictions. 
  <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071896624/vindman-discusses-u-s-options-on-russia-ukraine-tensions">Vindman discusses U.S. options on Russia-Ukraine tensions</a> NPR: NPR's Mary Louise Kelly talks to Alexander Vindman, former director for European affairs at the United States National Security Council, about how the U.S. might deter Russia from invading Ukraine. 
+ <p class="updated_time"> 03:22 PM CT, Jan. 10 </p> 
+ <a href="https://www.wsj.com/articles/mexican-president-andres-manuel-lopez-obrador-contracts-covid-19-for-second-time-11641867720">Mexican President Contracts Covid-19 a Second Time</a> WSJ: Andrés Manuel López Obrador, who has had three doses of the AstraZeneca vaccine, said he had only minor symptoms and would isolate and continue his work remotely. 
  <p class="updated_time"> 03:09 PM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-unidentified-projectile-off-its-east-coast-south-korea-says-11641859154">North Korea Launches Unidentified Projectile, South Korea Says</a> WSJ: The weapons test off the country’s east coast is Pyongyang’s second of this year, following a ballistic missile launch last week. 
  <p class="updated_time"> 03:06 PM CT, Jan. 10 </p> 
@@ -95,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
  <p class="updated_time"> 08:23 AM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/kazakhstan-crisis-shows-that-russia-still-trumps-chinas-power-in-central-asia-11641842588">Kazakhstan Shows That Russia Still Trumps China's Power in Central Asia</a> WSJ: Beijing’s huge investments in the region increasingly rely on Russian protection. 
- <p class="updated_time"> 08:17 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59937510?at_medium=RSS&at_campaign=KARANGA">Spain: Badger thought to have found Roman treasure</a> BBC: Archaeologists discovered Roman coins outside the den of an animal next to a cave in northern Spain. 
  <p class="updated_time"> 07:58 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/the-biden-administration-gave-a-preview-of-how-it-would-punish-russia-if-it-invaded-ukraine.html">The Biden administration gave a preview of how it would punish Russia if it invaded Ukraine.</a> NYT: Such moves are rarely telegraphed in advance, but advisers say they are hoping to influence the decisions of Russia’s leader, Vladimir V. Putin. 
  <p class="updated_time"> 06:39 AM CT, Jan. 10 </p> 
@@ -109,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59937221?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic supporters surround car in Melbourne</a> BBC: Crowds chanting "free Novak" surround a black car leaving the offices of the player's lawyer. 
  <p class="updated_time"> 03:13 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071769164/myanmars-suu-kyi-sentenced-to-4-more-years-in-prison">Myanmar's Suu Kyi sentenced to 4 more years in prison</a> NPR: Suu Kyi was convicted last month on two other charges and given a four-year prison sentence, which was then halved by the head of the military-installed government. 
- <p class="updated_time"> 03:11 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/asia/myanmar-aung-san-suu-kyi-verdict.html">In Myanmar, Aung San Suu Kyi Sentenced to 4 More Years</a> NYT: Myanmar’s ousted civilian leader was convicted on three more counts under Covid and telecommunications rules, which her defenders said were politically motivated. 
  <p class="updated_time"> 02:59 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/ukraine-russia-negotiations.html">As Russia and U.S. Debate Ukraine, Ukraine Would Like a Say</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
  <p class="updated_time"> 02:51 AM CT, Jan. 10 </p> 
@@ -196,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:45 PM CT, Jan. 10 </p> 
+ <a href="https://www.politico.com/news/2022/01/10/chicago-schools-teachers-deal-stalemate-526868">Chicago schools, teachers near deal to end classroom stalemate</a> Politico: The potential agreement would have educators return to schools beginning Tuesday, while students would return Wednesday. 
  <p class="updated_time"> 08:39 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/kevin-mccarthy-committees-republican-house-majority/index.html">McCarthy vows to remove Democrats from committees if Republicans win House</a> CNN: House Minority Leader Kevin McCarthy has vowed to remove three Democratic lawmakers from key committee assignments if Republicans win back the chamber in the upcoming midterm elections. 
  <p class="updated_time"> 08:37 PM CT, Jan. 10 </p> 
@@ -362,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
  <p class="updated_time"> 01:10 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/usda-school-lunch-inflation-supply-chain/index.html">USDA pumps $750 million into school meals to counter inflation, supply chain woes</a> CNN: Schools are not only wrestling with how to educate children amid the surge in coronavirus cases. They are also contending with feeding kids as inflation and supply chain problems disrupt their ability to serve meals. 
- <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
  <p class="updated_time"> 12:37 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/voting-rights-electoral-count-john-lewis-act/index.html">Senate Democrats vow they'll pass voting rights legislation with or without Republicans. Here's what their proposals would do</a> CNN: Senate Majority Leader Chuck Schumer has set the stage for a showdown this month over voting rights -- pledging to muscle through sweeping new federal legislation aimed at counteracting moves by Republicans in state capitols to restrict access to the ballot. 
  <p class="updated_time"> 12:36 PM CT, Jan. 07 </p> 
