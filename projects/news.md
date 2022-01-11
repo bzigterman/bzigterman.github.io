@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:21 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/world/asia/north-korea-ballistic-missile-south-korea.html">North Korea Launches 2nd Ballistic Missile in a Week, South Korea Says</a> NYT: The launch came as the U.N. Security Council met to discuss the country’s growing weapons threat. The U.S. said the latest test “highlights the destabilizing impact” of the North’s weapons program. 
  <p class="updated_time"> 12:51 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-59920978?at_medium=RSS&at_campaign=KARANGA">#NoSpendJanuary: Can it really be done?</a> BBC: Every year, the hashtag #nospendjanuary is seen on social media - but how literally do people take it? 
  <p class="updated_time"> 12:16 AM CT, Jan. 11 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/world/jeffrey-moyo-zimbabwe-nyt.html">Freelance Reporter for The New York Times Is Put on Trial in Zimbabwe</a> NYT: The reporter, Jeffrey Moyo, has been accused of helping two Times journalists enter Zimbabwe from South Africa using bogus credentials, a charge that even the government admits is on ‘shaky grounds.’ 
  <p class="updated_time"> 11:01 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/asia/afghanistan-united-nations-appeal.html">U.N. Seeks Huge Aid Increase to Prevent ‘Catastrophe’ in Afghanistan</a> NYT: The $5 billion appeal comes as a severe drought and the toll of decades of war have plunged three-quarters of the country’s population into acute poverty, according to the United Nations. 
- <p class="updated_time"> 10:50 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/asia/north-korea-ballistic-missile-south-korea.html">North Korea Launches 2nd Ballistic Missile in a Week, South Korea Says</a> NYT: The launch came as the U.N. Security Council met to discuss the country’s growing weapons threat. 
  <p class="updated_time"> 10:36 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59947211?at_medium=RSS&at_campaign=KARANGA">David Sassoli: European Parliament president dies aged 65</a> BBC: The Italian was admitted to hospital last month due to a serious complication with his immune system. 
  <p class="updated_time"> 10:00 PM CT, Jan. 10 </p> 
