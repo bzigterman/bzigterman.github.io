@@ -7,8 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:06 PM CT, Jan. 11 </p> 
+ <p class="updated_time"> 04:33 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/science/shirley-mcgreal-dead.html">Shirley McGreal, Champion of Primates Under Threat, Dies at 87</a> NYT: She exposed smuggling rings and research laboratories and built a sanctuary for gibbons in South Carolina. 
+ <p class="updated_time"> 04:28 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072183501/could-the-u-s-really-cripple-the-russian-economy-like-biden-warns">Could the U.S. really cripple the Russian economy like Biden warns?</a> NPR: President Biden has threatened Russia with massive sanctions if it follows through on threats to take more Ukrainian territory. 
+ <p class="updated_time"> 04:24 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: He was a well-known journalist in his native Italy before going into politics, and devoted his tenure to making the Parliament more prominent. 
+ <p class="updated_time"> 04:19 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/russia-putin-mystery-ukraine.html">Putin’s Next Move on Ukraine Is a Mystery. Just the Way He Likes It.</a> NYT: The contradictory, sometimes menacing messages from the Kremlin have stumped Western officials and Russia experts, showing the Russian leader’s desire to keep his rivals on edge. 
+ <p class="updated_time"> 04:18 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072183480/arif-khan-is-blazing-a-trail-for-indian-skiers-by-qualifying-for-the-beijing-oly">Arif Khan is blazing a trail for Indian skiers by qualifying for the Beijing Olympics</a> NPR: India isn't famous for snow sports. Kashmiri ski racer Arif Khan hopes to change that. The first and so far only Indian to qualify for the Beijing Olympics, he crowdfunded trips to Europe to qualify. 
  <p class="updated_time"> 03:40 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/kazakhstan-russia-troops.html">Kazakhstan Says Russian Troops Can Start Leaving This Week</a> NYT: Kazakhstan’s president says violence has been quelled, so there is no longer need for the foreign troops he asked to help. Russia has not given a timeline for withdrawing. 
  <p class="updated_time"> 03:09 PM CT, Jan. 11 </p> 
@@ -19,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59948920?at_medium=RSS&at_campaign=KARANGA">Covid: Half of Europe to be infected with Omicron within weeks - WHO</a> BBC: Dr Hans Kluge says a "west-to-east tidal wave" of the coronavirus variant is sweeping across the region. 
  <p class="updated_time"> 02:24 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59960689?at_medium=RSS&at_campaign=KARANGA">Covid: Quebec to impose health tax on unvaccinated Canadians</a> BBC: The unvaccinated represent 15% of the population, but over half of all hospital admissions. 
- <p class="updated_time"> 02:16 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: He was a well-known journalist in his native Italy before going into politics, and devoted his tenure to making the Parliament more prominent. 
  <p class="updated_time"> 02:13 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072153873/magawa-hero-rat-dies-bomb-sniffing">Magawa, a heroic bomb-sniffing rat who is credited with saving lives, has died </a> NPR: "His contribution allows communities in Cambodia to live, work, and play; without fear of losing life or limb," the nonprofit APOPO said after the death of Magawa, an African giant pouched rat. 
  <p class="updated_time"> 02:06 PM CT, Jan. 11 </p> 
@@ -81,6 +87,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/world/europe/spain-student-housing-dorms.html">Dorms Pop Up in Spain as More Students Seek Housing Away From Home</a> NYT: The country’s student population has become increasingly mobile, fueling investments in accommodations, largely funded by foreign capital. 
  <p class="updated_time"> 07:49 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59952323?at_medium=RSS&at_campaign=KARANGA">Italian raids after New Year sexual assaults in Milan</a> BBC: Nine young women have come forward to say they were attacked while celebrating in central Milan. 
+ <p class="updated_time"> 07:04 AM CT, Jan. 11 </p> 
+ <a href="https://www.wsj.com/articles/downing-street-lockdown-parties-leave-headache-for-boris-johnson-11641924249">Downing Street Lockdown Parties Leave Headache for Boris Johnson</a> WSJ: Allegations of social-distancing violations at the prime minister’s residence are hitting U.K. Conservatives as economic woes also take a toll on the party’s poll numbers. 
  <p class="updated_time"> 06:26 AM CT, Jan. 11 </p> 
  <a href="https://www.wsj.com/articles/south-african-authorities-charge-man-in-parliament-fire-11641922017">South African Authorities Charge Man in Parliament Fire</a> WSJ: The 49-year-old man was charged with arson and terrorism in the fire that devastated the building last week. 
  <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
@@ -97,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/europe/putin-russia-kazakhstan.html">Russian Troops Will Stay to Finish Job in Kazakhstan, Putin Says</a> NYT: Blaming “internal and external forces” for the unrest in the resource-rich Central Asian country, President Vladimir V. Putin of Russia set no deadline for the withdrawal of the forces his country sent there. 
  <p class="updated_time"> 03:43 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072021539/eu-parliament-president-david-sassoli-dies-at-age-65">EU Parliament President David Sassoli dies at age 65</a> NPR: The Italian journalist had been hospitalized since Dec. 26 due to abnormal functioning of his immune system. 
- <p class="updated_time"> 03:38 AM CT, Jan. 11 </p> 
- <a href="https://www.wsj.com/articles/as-omicron-spreads-some-nations-offer-a-second-covid-19-booster-11641911892">As Omicron Spreads, Some Nations Offer a Second Covid-19 Booster</a> WSJ: Israeli study shows a fourth shot of Pfizer’s vaccine generates antibodies, but some scientists say two doses provide enough protection from serious illness. 
  <p class="updated_time"> 03:07 AM CT, Jan. 11 </p> 
  <a href="https://www.wsj.com/articles/kazakhstan-says-russia-to-withdraw-troops-in-wake-of-unrest-11641903337">Kazakhstan Says Russia to Withdraw Troops in Wake of Unrest</a> WSJ: Russia-led forces that entered Kazakhstan to support the government following an eruption of protests would start withdrawing within two days, the Kazakh president said as he named a loyalist as prime minister. 
  <p class="updated_time"> 02:44 AM CT, Jan. 11 </p> 
@@ -143,10 +149,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59946362?at_medium=RSS&at_campaign=KARANGA">Near-miss for pilot saved from downed plane hit by train</a> BBC: Dramatic video shows the rescue, moments before collision, after a plane landed on train tracks. 
  <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071897000/djokovics-fate-remains-unclear-as-australian-open-saga-continues">Djokovic's fate remains unclear as Australian Open saga continues</a> NPR: NPR's Ari Shapiro talks to Stephanie Ferrier of the Australian Broadcasting Corp. about Novak Djokovic, his reinstated visa and where things stand with the Australian Open. 
- <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
- <a href="https://www.npr.org/2022/01/10/1071896979/the-u-s-and-russia-tackle-growing-tensions-over-ukraine">The U.S. and Russia tackle growing tensions over Ukraine</a> NPR: The U.S and Russian deputy foreign ministers kick off a week of talks, hoping to ease tensions over Ukraine, which Russia is threatening with a troop build-up near their shared border. 
- <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
- <a href="https://www.npr.org/2022/01/10/1071896627/the-uae-attempts-to-overhaul-harsh-criminal-and-financial-laws">The UAE attempts to overhaul harsh criminal and financial laws</a> NPR: The United Arab Emirates has been criticized for human rights violations but is now overhauling its laws to ease up on some social and economic restrictions. 
  <p class="updated_time"> 11:56 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: Australian officials hinted they may make a new attempt to cancel Djokovic’s visa, even as the tennis champion, freed from detention, returned to the court. 
  <p class="updated_time"> 11:45 AM CT, Jan. 10 </p> 
@@ -198,8 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:02 PM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/biden-harris-voting-rights-speech-526903">‘I’m tired of being quiet’: Biden and Harris make forceful push for voting rights</a> Politico: The president called on the GOP to join Democrats in supporting the voting and elections reform bills. 
  <p class="updated_time"> 04:56 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/powell-congress-inflation-jobs-526911">Powell's warning to Congress: Inflation a ‘severe threat’ to jobs</a> Politico: The potential clash over the Fed's plans to tighten monetary policy could be a harbinger of conflicts to come with Democrats and even some Republicans. 
+ <a href="https://www.politico.com/news/2022/01/11/powell-congress-inflation-jobs-526911">Powell’s warning to Congress: Inflation a ‘severe threat’ to jobs</a> Politico: The potential clash over the Fed’s plans to tighten monetary policy could be a harbinger of conflicts to come with Democrats and even some Republicans. 
  <p class="updated_time"> 04:54 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/jan-6-panel-subpoenas-trump-jr-aides-trump-speechwriter-526916">Jan. 6 panel subpoenas Trump Jr. aides, Trump speechwriter</a> Politico: The subpoenas for Andrew Surabian, Arthur Schwartz and Ross Worthington indicate investigators are inching ever closer to the Trump family. 
  <p class="updated_time"> 04:34 PM CT, Jan. 11 </p> 
@@ -208,22 +212,32 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/anthony-fauci-gop-senators-financial-disclosure-526891">'What a moron': Fauci argues with GOP senator over financial disclosures</a> Politico: In response to Roger Marshall’s questioning, the NIAID director and top White House medical adviser said his disclosures had been “public knowledge” for over 30 years. 
  <p class="updated_time"> 04:29 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/jan-6-mike-pence-gop-lawmakers-526906">Jan. 6 investigators near decisions on how to pursue Mike Pence and GOP lawmakers</a> Politico: Chair Bennie Thompson said Tuesday both matters are high on the committee’s to-do list. 
+ <p class="updated_time"> 04:28 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072183501/could-the-u-s-really-cripple-the-russian-economy-like-biden-warns">Could the U.S. really cripple the Russian economy like Biden warns?</a> NPR: President Biden has threatened Russia with massive sanctions if it follows through on threats to take more Ukrainian territory. 
+ <p class="updated_time"> 04:26 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/january-6-subpoenas/index.html">January 6 panel subpoenas former White House official who helped draft Trump speech</a> CNN: The House select committee investigating the January 6 riot issued a new round of subpoenas Tuesday demanding records and testimony from three individuals, including a former White House official who helped draft the speech delivered by former President Donald Trump prior to the attack where he called on his supporters to march to the US Capitol. 
+ <p class="updated_time"> 04:23 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072183487/what-president-bidens-speech-about-voting-rights-legislation-means-for-georgia">What President Biden's speech about voting rights legislation means for Georgia</a> NPR: The president and vice president travel to Georgia to make the case for voting rights legislation. The state has been ground zero for debate over voting and elections reforms. 
+ <p class="updated_time"> 04:15 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/harry-reid.html">Harry Reid: From Capitol Cop to Powerhouse Senate Leader</a> NYT: Mr. Reid, who will lie in state on Wednesday in the Rotunda, charted a unique path to power and knew how to exercise it. 
+ <p class="updated_time"> 04:06 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/mike-rounds-republican-defense/index.html">Top Republicans stand up for Rounds after Trump's attack: He 'told the truth'</a> CNN: Senior Republicans are closing ranks behind Sen. Mike Rounds after he endured a scathing attack from former President Donald Trump for acknowledging the reality that President Joe Biden won the 2020 election. 
  <p class="updated_time"> 04:01 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183452/fed-chair-jerome-powell-takes-questions-from-senate-committee-in-confirmation-he">Fed chair Jerome Powell takes questions from Senate committee in confirmation hearing</a> NPR: Federal Reserve chairman Jerome Powell appeared before the Senate Banking Committee, which is considering his nomination for a second term. The central bank is under pressure to confront inflation. 
  <p class="updated_time"> 04:01 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183445/democrats-are-outraged-over-how-florida-gov-desantis-has-handled-covid-testing">Democrats are outraged over how Florida Gov. DeSantis' has handled COVID testing</a> NPR: Democrats are scolding Florida Gov. Ron DeSantis for low test availability after his administration let nearly a million rapid COVID tests to expire. He now says there's too much unnecessary testing. 
+ <p class="updated_time"> 04:00 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/covid-19-testing-joe-biden-administration/index.html">Biden vowed to fix testing. But he didn't plan for Omicron. </a> CNN: As President Joe Biden was spending his holidays with family at the White House and in Delaware, he was frustrated to see images on television of Americans waiting in long lines for Covid-19 tests. 
  <p class="updated_time"> 03:59 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, the president advocated ‘getting rid of the filibuster,’ setting up a confrontation with Republicans. 
  <p class="updated_time"> 03:57 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/rand-paul-fauci-covid.html">Fauci Says Senator Rand Paul Is Fueling Threats Against Him</a> NYT: Senator Rand Paul accused Dr. Anthony Fauci of trying to undermine scientists who disagreed with him. Dr. Fauci denied the allegation and accused Republicans of feeding attacks against him. 
- <p class="updated_time"> 03:54 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/harry-reid.html">Harry Reid: From Capitol Cop to Powerhouse Senate Leader</a> NYT: Mr. Reid, who will lie in state on Wednesday in the Rotunda, charted a unique path to power and knew how to exercise it. 
  <p class="updated_time"> 03:42 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden calls on Senate to change filibuster rules for voting rights as he turns up the heat on Congress to pass major bills</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072183425/the-biden-administration-says-it-has-a-plan-to-clean-up-toxic-coal-ash">The Biden administration says it has a plan to clean up toxic coal ash</a> NPR: Even as coal plants shut down, they leave behind massive piles of toxic coal ash. About half that coal ash is unregulated, and environmental groups want the Biden administration to change that. 
- <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183418/senate-democrats-cant-agree-on-bidens-push-to-pass-voting-rights-legislation">Senate Democrats can't agree on Biden's push to pass voting rights legislation</a> NPR: President Biden called for changes to Senate rules in an effort to pass voting rights legislation. Among the challenges to his effort is a lack of unity among Senate Democrats to making those changes. 
+ <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072183425/the-biden-administration-says-it-has-a-plan-to-clean-up-toxic-coal-ash">The Biden administration says it has a plan to clean up toxic coal ash</a> NPR: Even as coal plants shut down, they leave behind massive piles of toxic coal ash. About half that coal ash is unregulated, and environmental groups want the Biden administration to change that. 
  <p class="updated_time"> 03:28 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/senators-feds-jan-6-riot-probe-526899">Senators grill feds over Jan. 6 riot probe</a> Politico: Democrats challenged prosecutors for not seeking terrorism-related sentences, while Republicans often steered away from the insurrection altogether. 
  <p class="updated_time"> 03:21 PM CT, Jan. 11 </p> 
@@ -242,12 +256,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1071829164/biden-speech-voting-rights-filibuster-senate">Biden will focus in on voting rights and election integrity in Atlanta speech</a> NPR: The president is expected to speak to the importance of election integrity as a means to preserving democracy and also back changing the filibuster to make it easier to pass voting rights bills. 
  <p class="updated_time"> 01:45 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/biden-n95-mask-distribution-526889">Biden health team weighs new mask distribution plan</a> Politico: Officials in favor of distributing the masks to the public have pushed for a decision as soon as Thursday. 
- <p class="updated_time"> 01:20 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/stacey-abrams-biden-voting-rights-speech/index.html">Stacey Abrams and Biden blame scheduling issue for voting rights speech absence</a> CNN: Both President Joe Biden and Georgia Democratic gubernatorial candidate Stacey Abrams are citing a scheduling issue to explain why the state's most prominent voting rights activist will not be attending the Democratic president's speech on the topic in Atlanta on Tuesday afternoon. 
- <p class="updated_time"> 01:15 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072110378/dr-fauci-says-gop-sen-pauls-false-accusations-have-sparked-death-threats">Dr. Fauci says GOP Sen. Paul's false accusations have sparked death threats</a> NPR: Fauci and Paul sparred at a Senate hearing on COVID-19, escalating exchanges the two have had throughout the pandemic. Fauci also said Paul is attempting to raise money off "a catastrophic epidemic." 
  <p class="updated_time"> 01:15 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/trump-jan-6-lawsuits.html">Civil Suits Against Trump Seek Damages for Jan. 6 Attack</a> NYT: Lawyers argued that the cases against the former president should be allowed to go forward because he inflamed a mob and failed to stop the violence it wrought. 
+ <p class="updated_time"> 01:15 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072110378/dr-fauci-says-gop-sen-pauls-false-accusations-have-sparked-death-threats">Dr. Fauci says GOP Sen. Paul's false accusations have sparked death threats</a> NPR: Fauci and Paul sparred at a Senate hearing on COVID-19, escalating exchanges the two have had throughout the pandemic. Fauci also said Paul is attempting to raise money off "a catastrophic epidemic." 
  <p class="updated_time"> 12:16 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/david-mccormick-senate-campaign-trump-526870">McCormick MAGA-proofs his Senate campaign after dissing Trump</a> Politico: The new Pennsylvania candidate is certain to face GOP primary attacks. 
  <p class="updated_time"> 12:15 PM CT, Jan. 11 </p> 
@@ -270,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/justice-department-forms-new-domestic-terrorism-unit/index.html">DOJ forms new domestic terrorism unit</a> CNN: The Justice Department is establishing a new domestic terrorism unit to combat the threat that has more than doubled in the past two years, the head of the agency's National Security Division said Tuesday. 
  <p class="updated_time"> 10:02 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/biden-epa-coal-ash-ponds-enforcement-climate/index.html">EPA begins enforcement on clean up of toxic coal-ash ponds</a> CNN: The US Environmental Protection Agency announced Tuesday it will begin enforcing regulations that require coal-fired power plants to clean up their coal-ash waste -- the toxic byproduct of burning coal to generate electricity. 
- <p class="updated_time"> 08:57 AM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/fact-check-sotomayor-mandate-covid-dinner-gorsuch/index.html">Fact check: Sotomayor makes false claim about Covid-19's impact on children</a> CNN: Supreme Court Justice Sonia Sotomayor made a significant false claim on Friday about Covid-19's impact on children. 
  <p class="updated_time"> 08:35 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/georgia-voting-rights-advocates-biden-visit/index.html">Georgia voting rights groups boycott Biden speech: 'We don't need even more photo ops. We need action'</a> CNN: A coalition of voting rights groups in Georgia announced Monday that they will not attend events surrounding President Joe Biden's expected visit to Atlanta. 
  <p class="updated_time"> 07:45 AM CT, Jan. 11 </p> 
@@ -284,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1072019265/in-atlanta-speech-biden-will-advocate-for-protecting-voting-rights">In Atlanta speech, Biden will advocate for protecting voting rights </a> NPR: President Biden and Vice President Harris head to Atlanta — a city at the epicenter of past and present battles over voting rights — to make the case to advance stalled legislation in Congress. 
  <p class="updated_time"> 06:12 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
- <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/biden-speech-voting-rights-republicans-526871">Biden has found his bone to pick with the GOP: voting rights</a> Politico: The trip to Georgia is meant to assure activists that he’s ready for the fight. 
  <p class="updated_time"> 05:01 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/florida-special-election/index.html">Voters head to polls in Florida special election to fill late Alcee Hastings' seat</a> CNN: Two hundred and eighty days after Rep. Alcee Hastings died from pancreatic cancer, voters in the late lawmaker's deeply Democratic South Florida congressional district will finally pick a replacement. 
  <p class="updated_time"> 04:42 AM CT, Jan. 11 </p> 
@@ -302,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1071082955/imagine-another-american-civil-war-but-this-time-in-every-state">Imagine another American Civil War, but this time in every state</a> NPR: If America has another civil war, it is more likely to be a war within the states than between them. Citizens of any state of any size, red or blue, may not have to go far to find a fight. 
  <p class="updated_time"> 11:09 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/one-party-control-white-house-congress/index.html">If Democrats can't pass their agenda now, they may not get another chance for years. Here's why</a> CNN: The last four times a president went into midterm elections holding unified control of the White House, Senate and House of Representatives, as Joe Biden and Democrats do now, voters have revoked it. 
- <p class="updated_time"> 11:07 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/novak-djokovic-covid-politics/index.html">Analysis: How a tennis legend, SCOTUS and the Winter Olympics are reshaping pandemic politics</a> CNN: Living with the virus, as the world is finding out, is easier said than done. 
  <p class="updated_time"> 10:29 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-photos-prisoners.html">20 Years Later, the Story Behind the Guantánamo Photo That Won’t Go Away</a> NYT: On Jan. 11, 2002, a sailor photographed 20 men in orange uniforms and on their knees, capturing one of the most damning post-9/11 images of U.S. detention policy. 
  <p class="updated_time"> 09:45 PM CT, Jan. 10 </p> 
@@ -328,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/business/economy/richard-clarida-fed-resign.html">Richard Clarida Is Resigning From the Fed Early After New Questions on Trades</a> NYT: Richard Clarida, the vice chair of the Federal Reserve, will leave on Friday, two weeks ahead of schedule. Updated disclosures showed rapid moves out of and back into stocks as the central bank prepared to reassure markets. 
  <p class="updated_time"> 05:27 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/mike-pence-jan-6-testimony.html">Pence and Jan. 6 Committee Engage in High-Stakes Dance Over Testimony</a> NYT: Getting the former vice president to answer questions under oath could be crucial as the House panel focuses on Donald Trump’s responsibility for the Capitol riot. 
- <p class="updated_time"> 05:24 PM CT, Jan. 10 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/10/1071899471/insurance-at-home-covid-tests-white-house">How to get insurance to pay for at-home COVID tests, according to the White House</a> NPR: The Biden administration says Americans should be able to order COVID-19 tests online later this month. Those who are eligible can get eight free over-the-counter at-home tests a month. 
  <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-at-home-covid-tests-reimbursement-526853">Biden administration lays out rules for reimbursing at-home Covid tests</a> Politico: Under the plan, private insurers can set up programs at preferred pharmacies or retailers where the upfront cost of home tests is covered for beneficiaries. 
  <p class="updated_time"> 04:49 PM CT, Jan. 10 </p> 
@@ -340,18 +344,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/business/economy/jerome-powell-testimony-inflation.html">Jerome Powell Will Acknowledge Inflation’s Toll in Senate Testimony</a> NYT: Central bankers will act to keep rapid price gains from becoming permanent, Mr. Powell, the chair of the Federal Reserve, will say during a renomination hearing. 
  <p class="updated_time"> 04:12 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/federal-reserve-vice-chair-resigns-ethics-scandal-526849">Fed’s No. 2 official resigns amid trading scandal</a> Politico: Federal Reserve Vice Chair Richard Clarida quietly admitted last month that he had failed to fully disclose financial trades in February 2020. 
- <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
- <a href="https://www.npr.org/2022/01/10/1071896965/voting-rights-groups-speak-out-ahead-of-biden-and-harris-trip-to-georgia">Voting rights groups speak out ahead of Biden and Harris' trip to Georgia</a> NPR: Nsé Ufot, CEO of the New Georgia Project, speaks with NPR's Ailsa Chang about her view of Democrats' voting rights efforts ahead of the president and vice president's visit to Georgia this week. 
  <p class="updated_time"> 03:00 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/trump-immunity-jan-6-526839">Judge mulls whether Trump’s silence on Jan. 6 could amount to ‘agreement’ with rioters</a> Politico: During a hearing on civil lawsuits stemming from the Capitol attack, Donald Trump’s lawyers claimed sweeping immunity for the former president. 
  <p class="updated_time"> 02:57 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/clay-aiken-congress.html">Clay Aiken, Former ‘American Idol’ Star, Announces Run for Congress</a> NYT: Mr. Aiken said he was running as a “loud and proud Democrat” for an open House seat in his native North Carolina this year. 
- <p class="updated_time"> 02:14 PM CT, Jan. 10 </p> 
- <a href="https://www.politico.com/news/2022/01/10/new-quarter-treasury-maya-angelou-526836">Treasury begins distribution of quarter featuring poet, activist Maya Angelou</a> Politico: The poet and activist is the first Black woman to appear on a U.S. quarter. 
  <p class="updated_time"> 01:35 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/business/media/symone-sanders-msnbc.html">Symone Sanders, a Strategist for Biden and Harris, Is Joining MSNBC</a> NYT: Ms. Sanders, 32, will host a weekend show on the cable network, one of the first big programming moves by MSNBC’s president, Rashida Jones. 
- <p class="updated_time"> 12:55 PM CT, Jan. 10 </p> 
- <a href="https://www.politico.com/news/2022/01/10/treasury-tax-filing-season-526833">Treasury warns taxpayers to brace for a turbulent tax-filing season</a> Politico: The IRS is still dealing with backups in processing returns from the past two filing seasons. 
  <p class="updated_time"> 07:29 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/10/dems-eye-voting-rights-fight-filibuster-changes-495660">Dems eye voting rights fight, filibuster changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Jan. 10 </p> 
@@ -378,14 +376,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/08/senate-minority-whip-john-thune-to-run-for-reelection-526794">Senate Minority Whip John Thune to run for reelection</a> Politico: The 61-year-old South Dakotan is widely viewed as a potential successor to Senate Minority Leader Mitch McConnell 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/08/civil-rights-leaders-see-a-turning-point-for-biden-495650"> Civil rights leaders see a turning point for Biden</a> Politico Playbook: And the Jan. 6 committee considers asking Mike Pence for an interview. 
+ <p class="updated_time"> 05:01 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/fbi-usb-hackers-warning/index.html">FBI warns cybercriminals have tried to hack US firms by mailing malicious USB drives</a> CNN: A prolific Eastern European cybercriminal group has tried to hack US companies in the transportation, defense and insurance sectors by mailing those organizations malicious USB drives, the FBI warned US businesses this week in an advisory obtained by CNN. 
  <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
+ <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
+ <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
+ <p class="updated_time"> 01:10 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/usda-school-lunch-inflation-supply-chain/index.html">USDA pumps $750 million into school meals to counter inflation, supply chain woes</a> CNN: Schools are not only wrestling with how to educate children amid the surge in coronavirus cases. They are also contending with feeding kids as inflation and supply chain problems disrupt their ability to serve meals. 
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
- <p class="updated_time"> 12:36 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/biden-december-jobs-report/index.html">Biden touts low unemployment rate after US adds fewer jobs in December than expected</a> CNN: President Joe Biden on Friday touted the unemployment rate dropping to 3.9% in December and credited his economic agenda with getting America "back on its feet," despite Friday's job report showing the US economy added fewer jobs than expected last month. 
  <p class="updated_time"> 09:30 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/scotus-vaccine-mandate-omicron-covid-526711">Biden’s federal vaccine mandate for workplace in trouble at Supreme Court</a> Politico: The pair of requirements, which would affect tens of millions of workers, have been in legal limbo since agencies published them last year. 
  <p class="updated_time"> 07:38 AM CT, Jan. 07 </p> 
@@ -430,8 +432,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/05/security-still-top-of-mind-a-year-after-capitol-attack-495603">Security still top of mind a year after Capitol attack</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/05/republicans-dodge-and-deflect-ahead-of-jan-6-495599"> Republicans dodge and deflect ahead of Jan. 6</a> Politico Playbook: And prices for at-home Covid-19 tests rise. 
- <p class="updated_time"> 10:16 PM CT, Jan. 04 </p> 
- <a href="https://www.politico.com/news/2022/01/04/brenda-lawrence-25th-house-democrat-to-retire-526533">Rep. Brenda Lawrence becomes 25th House Democrat to retire</a> Politico: The four-term Michigan lawmaker had climbed the ranks, but a new congressional map ditched two majority-minority districts and virtually eliminated her current seat. 
 
 
 </details>
