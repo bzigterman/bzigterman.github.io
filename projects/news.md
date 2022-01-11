@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:07 AM CT, Jan. 11 </p> 
+ <p class="updated_time"> 07:37 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: No cause of death was immediately available. He had been hospitalized in Italy because his immune system was not functioning normally. 
+ <p class="updated_time"> 07:33 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/01/11/world/omicron-covid-testing-vaccines">Covid Live Updates: Over Half of Europe Could Be Infected in Next 2 Months, W.H.O. Says</a> NYT: An official for the agency cited “a new west-to-east tidal wave sweeping across the region.” In the U.S., Chicago’s mayor announced a deal with teachers over coronavirus safeguards that would reopen classrooms. 
- <p class="updated_time"> 05:59 AM CT, Jan. 11 </p> 
+ <p class="updated_time"> 07:30 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/jeffrey-moyo-zimbabwe-nyt.html">Freelance Reporter for the New York Times Is On Trial in Zimbabwe</a> NYT: The reporter, Jeffrey Moyo, has been accused of helping two Times journalists enter Zimbabwe from South Africa using bogus credentials, a charge that even the government admits is on ‘shaky ground.’ 
+ <p class="updated_time"> 07:06 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59951366?at_medium=RSS&at_campaign=KARANGA">Second child dies after Spanish bouncy castle accident</a> BBC: The four-year-old girl was injured when a bouncy castle was thrown into the air by wind last week. 
  <p class="updated_time"> 05:47 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59944173?at_medium=RSS&at_campaign=KARANGA">Covid: Chile starts fourth vaccine dose amid rise in cases</a> BBC: The country is the first in Latin America to offer a fourth dose, as Omicron fuels a surge in cases. 
  <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
@@ -57,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/kazakhstan-says-russia-to-withdraw-troops-in-wake-of-unrest-11641903337">Kazakhstan Says Russia to Withdraw Troops in Wake of Unrest</a> WSJ: Russia-led forces that entered Kazakhstan to support the government following an eruption of protests would start withdrawing within two days, the Kazakh president said as he named a loyalist as prime minister. 
  <p class="updated_time"> 12:51 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-59920978?at_medium=RSS&at_campaign=KARANGA">#NoSpendJanuary: Can it really be done?</a> BBC: Every year, the hashtag #nospendjanuary is seen on social media - but how literally do people take it? 
- <p class="updated_time"> 12:16 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: No cause of death was immediately available. He had been hospitalized in Italy because his immune system was not functioning normally. 
  <p class="updated_time"> 11:55 PM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-rebuilt-nato-to-face-down-russia-putin-scrambled-those-plans-11641898501">U.S. Rebuilt NATO to Face Down Russia. Putin Scrambled Those Plans.</a> WSJ: Ahead of a meeting between the North Atlantic Treaty Organization and Russia in Brussels on Wednesday, the 30-country alliance is grappling with how to counter Moscow’s increasing assertiveness. 
  <p class="updated_time"> 11:01 PM CT, Jan. 10 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59946929?at_medium=RSS&at_campaign=KARANGA">Maya Angelou: Poet is first black woman on US quarter</a> BBC: The civil rights activist and writer is the first in a series of US women honoured on the US quarter. 
  <p class="updated_time"> 07:13 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/10/1071975804/mexico-president-andres-lopez-obrador-covid-positive">The president of Mexico says he has COVID for a 2nd time</a> NPR: President Andrés Manuel López Obrador wrote that he tested positive, after he had sounded hoarse at a morning news briefing. He contracted COVID-19 and recovered from it the first time in early 2021. 
- <p class="updated_time"> 06:38 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59943374?at_medium=RSS&at_campaign=KARANGA">New York fire: Officials pledge support after 17 die in 'unspeakable tragedy'</a> BBC: There were eight children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
  <p class="updated_time"> 06:28 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/russia-us-ukraine-talks.html">In Talks on Ukraine, U.S. and Russia Deadlock Over NATO Expansion</a> NYT: Both sides expressed some optimism after negotiations in Geneva, but did not break an impasse over Russia’s demand that Ukraine never become a member of NATO. 
  <p class="updated_time"> 06:17 PM CT, Jan. 10 </p> 
@@ -198,6 +198,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:45 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/11/democrats-look-for-a-roadmap-on-rules-changes-495677">Democrats look for a roadmap on rules changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:21 AM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/political-influence-on-science-federal-government/index.html">Biden administration tells federal agencies how to safeguard against political influence on science</a> CNN: The Biden administration is calling on government agencies to strengthen their policies against inappropriate political influence when it comes to the science that guides decision-making, according to a new report. 
+ <p class="updated_time"> 07:18 AM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/joe-biden-voting-rights/index.html">Pressure grows on Biden to deliver meaningful voter protections</a> CNN: Pressure is intensifying on President Joe Biden to articulate a plan to enact meaningful voter protections as a counter to strict new voting laws going into place around the nation after warning for the past year of nascent dangers to democracy. 
+ <p class="updated_time"> 07:17 AM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/us-humanitarian-assistance-afghanistan/index.html">US providing $308 million in humanitarian assistance to Afghanistan</a> CNN: The US is providing $308 million in humanitarian aid for the people of Afghanistan, the National Security Council announced Tuesday, as well as additional Covid-19 vaccine doses. 
  <p class="updated_time"> 07:14 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden to amp up the pressure on the Senate to change filibuster rules for voting rights during Atlanta speech</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 06:50 AM CT, Jan. 11 </p> 
@@ -276,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-at-home-covid-tests-reimbursement-526853">Biden administration lays out rules for reimbursing at-home Covid tests</a> Politico: Under the plan, private insurers can set up programs at preferred pharmacies or retailers where the upfront cost of home tests is covered for beneficiaries. 
  <p class="updated_time"> 05:06 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/january-6-four-defendants-plead-guilty/index.html">Four more US Capitol rioters plead guilty</a> CNN: Four people pleaded guilty to charges stemming from the January 6, 2021, US Capitol riot, adding to the ever-growing number of defendants who have accepted responsibility for their part in the attack. 
- <p class="updated_time"> 05:02 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/joe-biden-voting-rights/index.html">Pressure grows on Biden to deliver meaningful voter protections</a> CNN: Pressure is intensifying on President Joe Biden to articulate a plan to enact meaningful voter protections as a counter to strict new voting laws going into place around the nation after warning for the past year of nascent dangers to democracy. 
  <p class="updated_time"> 04:49 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/business/income-tax-day-deadline.html">The I.R.S. Warns of Messy Tax Filing Season</a> NYT: The agency, which has been hobbled by paperwork backlogs and short staffing, said tax filers should expect a lower level of service this year. 
  <p class="updated_time"> 04:23 PM CT, Jan. 10 </p> 
@@ -286,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/business/economy/jerome-powell-testimony-inflation.html">Jerome Powell Will Acknowledge Inflation’s Toll in Senate Testimony</a> NYT: Central bankers will act to keep rapid price gains from becoming permanent, Mr. Powell, the chair of the Federal Reserve, will say during a renomination hearing. 
  <p class="updated_time"> 04:12 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/federal-reserve-vice-chair-resigns-ethics-scandal-526849">Fed’s No. 2 official resigns amid trading scandal</a> Politico: Federal Reserve Vice Chair Richard Clarida quietly admitted last month that he had failed to fully disclose financial trades in February 2020. 
- <p class="updated_time"> 04:07 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/refugee-united-states/index.html">Refugee admissions to the US will restart this week after temporary freeze </a> CNN: Refugee admissions to the United States will restart this week, a State Department spokesperson told CNN, following a temporary freeze put in place late last year to focus on the resettlement of Afghan evacuees. 
  <p class="updated_time"> 03:34 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/steve-sweeney-new-jersey-senate-526776">His election loss stunned Democrats. Now he might run for governor.</a> Politico: New Jersey Democrat Steve Sweeney is pushing big bills in final days, opening up a think tank and telling power players he’s going to run for governor in 2025. 
  <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
@@ -310,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/treasury-tax-filing-season-526833">Treasury warns taxpayers to brace for a turbulent tax-filing season</a> Politico: The IRS is still dealing with backups in processing returns from the past two filing seasons. 
  <p class="updated_time"> 12:22 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/wisconsin-gop-election-review-526827">Wisconsin judge lets GOP-led election review continue</a> Politico: State Attorney General Josh Kaul's bid to undercut the probe was denied by a judge in Dane County. 
- <p class="updated_time"> 09:48 AM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/covid-congress-reaction/index.html">Congress steps up health protocols amid fresh fears over coronavirus in the Capitol</a> CNN: Congress is stepping up its health protocols amid renewed fears over the coronavirus, with the Capitol Hill community bracing for a spike in cases in the coming weeks as both chambers return to Washington during the nationwide surge in infections. 
  <p class="updated_time"> 07:29 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/10/dems-eye-voting-rights-fight-filibuster-changes-495660">Dems eye voting rights fight, filibuster changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Jan. 10 </p> 
