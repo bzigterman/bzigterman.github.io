@@ -12,7 +12,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:13 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072153873/magawa-hero-rat-dies-bomb-sniffing">Magawa, a heroic bomb-sniffing rat who is credited with saving lives, has died </a> NPR: "His contribution allows communities in Cambodia to live, work, and play; without fear of losing life or limb," the nonprofit APOPO said after the death of Magawa, an African giant pouched rat. 
  <p class="updated_time"> 01:42 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59960118?at_medium=RSS&at_campaign=KARANGA">Pig heart transplant an absolute miracle, says patient's son</a> BBC: David Bennett, 57, is the first person in the world to receive a heart transplant from a genetically-modified pig. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59960118?at_medium=RSS&at_campaign=KARANGA">I thought Dad's pig heart transplant was delirium</a> BBC: David Bennett, 57, is the first person in the world to receive a heart transplant from a genetically-modified pig. 
  <p class="updated_time"> 01:39 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/who-europe-covid-omicron-infection.html">Over Half of Europe Could Be Infected With Coronavirus Soon, W.H.O. Says</a> NYT: The agency cautioned against treating the virus like the seasonal flu, since much remains unknown, particularly regarding the severity in areas with lower vaccination rates. 
  <p class="updated_time"> 01:30 PM CT, Jan. 11 </p> 
@@ -198,10 +198,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:28 PM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/senators-feds-jan-6-riot-probe-526899">Senators grill feds over Jan. 6 riot probe</a> Politico: Democrats challenged prosecutors for not seeking terrorism-related sentences, while Republicans often steered away from the insurrection altogether. 
  <p class="updated_time"> 02:44 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/faa-west-coast-flights-north-korea-526894">FAA briefly halted West Coast flights amid North Korean missile scare</a> Politico: Exchanges between pilots and air traffic controllers that cropped up on social media late Monday suggested landings were off limits in portions of California and Oregon. 
- <p class="updated_time"> 02:03 PM CT, Jan. 11 </p> 
+ <p class="updated_time"> 02:28 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, the president will express support for altering rules around the Senate filibuster, setting up a confrontation with Republicans. 
+ <p class="updated_time"> 02:21 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/stephen-breyer/index.html">Breyer phoned in to Supreme Court oral arguments Tuesday due to a false positive Covid test</a> CNN: Justice Stephen Breyer participated in oral arguments remotely on Tuesday after a "false positive" Covid-19 test, the Supreme Court announced. 
  <p class="updated_time"> 02:00 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/style/melania-trump-white-hat-auction.html">Melania Trump Auctions Her Hat</a> NYT: A year after leaving the White House, the former first lady tests the water for her brand. 
  <p class="updated_time"> 01:59 PM CT, Jan. 11 </p> 
@@ -330,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/business/media/symone-sanders-msnbc.html">Symone Sanders, a Strategist for Biden and Harris, Is Joining MSNBC</a> NYT: Ms. Sanders, 32, will host a weekend show on the cable network, one of the first big programming moves by MSNBC’s president, Rashida Jones. 
  <p class="updated_time"> 12:55 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/treasury-tax-filing-season-526833">Treasury warns taxpayers to brace for a turbulent tax-filing season</a> Politico: The IRS is still dealing with backups in processing returns from the past two filing seasons. 
- <p class="updated_time"> 12:22 PM CT, Jan. 10 </p> 
- <a href="https://www.politico.com/news/2022/01/10/wisconsin-gop-election-review-526827">Wisconsin judge lets GOP-led election review continue</a> Politico: State Attorney General Josh Kaul's bid to undercut the probe was denied by a judge in Dane County. 
  <p class="updated_time"> 07:29 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/10/dems-eye-voting-rights-fight-filibuster-changes-495660">Dems eye voting rights fight, filibuster changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Jan. 10 </p> 
@@ -378,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
- <p class="updated_time"> 12:37 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/voting-rights-electoral-count-john-lewis-act/index.html">Senate Democrats vow they'll pass voting rights legislation with or without Republicans. Here's what their proposals would do</a> CNN: Senate Majority Leader Chuck Schumer has set the stage for a showdown this month over voting rights -- pledging to muscle through sweeping new federal legislation aimed at counteracting moves by Republicans in state capitols to restrict access to the ballot. 
  <p class="updated_time"> 12:36 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/biden-december-jobs-report/index.html">Biden touts low unemployment rate after US adds fewer jobs in December than expected</a> CNN: President Joe Biden on Friday touted the unemployment rate dropping to 3.9% in December and credited his economic agenda with getting America "back on its feet," despite Friday's job report showing the US economy added fewer jobs than expected last month. 
  <p class="updated_time"> 09:30 AM CT, Jan. 07 </p> 
