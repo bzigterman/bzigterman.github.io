@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072183404/children-face-malnutrition-under-the-venezuelan-governments-mismanagement">Children face malnutrition under the Venezuelan government's mismanagement</a> NPR: Venezuela is facing a long-term catastrophe of its own making: widespread child malnutrition. Years of economic mismanagement have brought massive poverty and food shortages. 
  <p class="updated_time"> 03:09 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/canada/wheatley-ontario-gas-explosion.html">Source of Mysterious Gas Leak Explosion in Canadian Town Stumps Officials</a> NYT: An explosion last summer in an Ontario community built on 19th-century gas wells has left locals searching for answers and some certainty that their town will ever recover. 
  <p class="updated_time"> 03:09 PM CT, Jan. 11 </p> 
@@ -143,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/10/1071897000/djokovics-fate-remains-unclear-as-australian-open-saga-continues">Djokovic's fate remains unclear as Australian Open saga continues</a> NPR: NPR's Ari Shapiro talks to Stephanie Ferrier of the Australian Broadcasting Corp. about Novak Djokovic, his reinstated visa and where things stand with the Australian Open. 
  <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071896979/the-u-s-and-russia-tackle-growing-tensions-over-ukraine">The U.S. and Russia tackle growing tensions over Ukraine</a> NPR: The U.S and Russian deputy foreign ministers kick off a week of talks, hoping to ease tensions over Ukraine, which Russia is threatening with a troop build-up near their shared border. 
- <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
- <a href="https://www.npr.org/2022/01/10/1071896627/the-uae-attempts-to-overhaul-harsh-criminal-and-financial-laws">The UAE attempts to overhaul harsh criminal and financial laws</a> NPR: The United Arab Emirates has been criticized for human rights violations but is now overhauling its laws to ease up on some social and economic restrictions. 
  <p class="updated_time"> 11:56 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: Australian officials hinted they may make a new attempt to cancel Djokovic’s visa, even as the tennis champion, freed from detention, returned to the court. 
  <p class="updated_time"> 11:45 AM CT, Jan. 10 </p> 
@@ -196,10 +196,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:29 PM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/jan-6-mike-pence-gop-lawmakers-526906">Jan. 6 investigators near decisions on how to pursue Mike Pence and GOP lawmakers</a> Politico: Chair Bennie Thompson said Tuesday both matters are high on the committee’s to-do list. 
  <p class="updated_time"> 03:28 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/senators-feds-jan-6-riot-probe-526899">Senators grill feds over Jan. 6 riot probe</a> Politico: Democrats challenged prosecutors for not seeking terrorism-related sentences, while Republicans often steered away from the insurrection altogether. 
- <p class="updated_time"> 03:04 PM CT, Jan. 11 </p> 
+ <p class="updated_time"> 03:25 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/harry-reid.html">Harry Reid: From Capitol Cop to Powerhouse Senate Majority Leader</a> NYT: Mr. Reid, who will lie in state on Wednesday in the Rotunda, charted a unique path to power and knew how to exercise it. 
+ <p class="updated_time"> 03:21 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/supreme-court-immigrants-bail-hearings.html">Supreme Court Weighs Jailed Immigrants’ Rights to Bail Hearings</a> NYT: Lawyers for the federal government said immigrants detained for months while they fight deportation are not entitled to seek release from immigration judges. 
+ <p class="updated_time"> 03:08 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/mary-trump-lawsuit/index.html">Lawyers for Trump and niece Mary Trump spar over lawsuit alleging she was defrauded in family settlement</a> CNN: Lawyers for former President Donald Trump and his niece Mary Trump sparred in court Tuesday over whether her lawsuit alleging she was defrauded of millions of dollars in a 2001 family settlement could move forward. 
  <p class="updated_time"> 03:03 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, the president will express support for altering rules around the Senate filibuster, setting up a confrontation with Republicans. 
  <p class="updated_time"> 03:02 PM CT, Jan. 11 </p> 
@@ -208,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/faa-west-coast-flights-north-korea-526894">FAA briefly halted West Coast flights amid North Korean missile scare</a> Politico: Exchanges between pilots and air traffic controllers that cropped up on social media late Monday suggested landings were off limits in portions of California and Oregon. 
  <p class="updated_time"> 02:37 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/ron-desantis-state-of-the-state/index.html">DeSantis draws contrast with federal government and Democratic-led states in State of the State address </a> CNN: Painting himself and his state as the antidote to closed schools, government mandates and Big Tech overreach, Florida Gov. Ron DeSantis on Tuesday delivered an election-year State of the State speech that emphasized the deepening divide between Republican and Democratic leadership during the pandemic. 
- <p class="updated_time"> 02:21 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/stephen-breyer/index.html">Breyer phoned in to Supreme Court oral arguments Tuesday due to a false positive Covid test</a> CNN: Justice Stephen Breyer participated in oral arguments remotely on Tuesday after a "false positive" Covid-19 test, the Supreme Court announced. 
  <p class="updated_time"> 02:00 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/style/melania-trump-white-hat-auction.html">Melania Trump Auctions Her Hat</a> NYT: A year after leaving the White House, the former first lady tests the water for her brand. 
  <p class="updated_time"> 01:59 PM CT, Jan. 11 </p> 
@@ -254,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/11/democrats-look-for-a-roadmap-on-rules-changes-495677">Democrats look for a roadmap on rules changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:17 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/us-humanitarian-assistance-afghanistan/index.html">US providing $308 million in humanitarian assistance to Afghanistan</a> CNN: The US is providing $308 million in humanitarian aid for the people of Afghanistan, the National Security Council announced Tuesday, as well as additional Covid-19 vaccine doses. 
- <p class="updated_time"> 06:33 AM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
  <p class="updated_time"> 06:21 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072019272/biden-needs-to-stay-the-course-on-voting-rights-rep-clyburn-says">Biden needs to stay the course on voting rights, Rep. Clyburn says</a> NPR: NPR's A Martinez talks to House Majority Whip Jim Clyburn of South Carolina, who is advocating for the John R. Lewis Voting Rights Advancement Act, about what he wants to hear in the president speech. 
  <p class="updated_time"> 06:20 AM CT, Jan. 11 </p> 
@@ -346,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/us/politics/manchin-coal-miners.html">Manchin’s Choice on Build Back Better: Mine Workers or Mine Owners</a> NYT: Senator Joe Manchin III is caught between the mine workers’ union, which supports President Biden’s social policy and climate bill, and mine owners in his state who oppose it. 
  <p class="updated_time"> 09:05 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/jim-jordan-jan-6-committees-interview-request-526816">Rep. Jim Jordan says he won’t cooperate with Jan. 6 committee’s interview request</a> Politico: HIs decision follows a similar rejection by Rep. Scott Perry, the only other lawmaker whose testimony the panel has requested so far. 
- <p class="updated_time"> 08:10 PM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/us/politics/jim-jordan-jan-6-panel.html">Jim Jordan Refuses to Cooperate With Jan. 6 Panel</a> NYT: The Republican congressman from Ohio, a close ally of former President Donald Trump’s, denounced the House investigation of the Capitol riot as one of the Democrats’ “partisan witch hunts.” 
  <p class="updated_time"> 11:17 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/mike-rounds-trump-election-republicans-526806">GOP senator says Trump’s election allegations are unfounded</a> Politico: “The election was fair, as fair as we have seen,” Mike Rounds said. 
  <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
@@ -356,6 +356,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/09/ron-johnson-reelection-senate-wisconsin-526804">Ron Johnson to seek reelection to Senate</a> Politico: The Wisconsin Republican announced his decision in a Wall Street Journal column. 
  <p class="updated_time"> 09:08 AM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/michelle-obama-2022-elections-fight-for-vote/index.html">Michelle Obama wades into 2022 midterm elections with urgent message on voting</a> CNN: Former first lady Michelle Obama has a message for Americans ahead of the 2022 midterm elections: "We've got to vote like the future of our democracy depends on it." 
+ <p class="updated_time"> 09:07 AM CT, Jan. 09 </p> 
+ <a href="https://www.cnn.com/2022/01/09/politics/biden-student-loan-for-profit-college/index.html">Why Biden's student loan relief efforts haven't yet reversed a DeVos decision on for-profit colleges</a> CNN: The Biden administration has pledged to make college more affordable. But it has chosen not to reinstate an Obama-era rule meant to prevent students from taking on too much debt to attend predatory for-profit colleges. 
  <p class="updated_time"> 08:32 AM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071391935/wisconsin-republican-sen-ron-johnson-is-running-for-reelection">Wisconsin Republican Sen. Ron Johnson is running for reelection</a> NPR: The controversial Republican said he will seek a third term, in what is expected to be a hotly contested race that could determine which party controls the Senate. 
  <p class="updated_time"> 07:26 AM CT, Jan. 09 </p> 
