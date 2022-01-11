@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:45 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/11/world/omicron-covid-testing-vaccines">Covid Live Updates: Over Half of Europe Could Be Infected in Next 2 Months, W.H.O. Says</a> NYT: An official for the agency cited “a new west-to-east tidal wave sweeping across the region.” In the U.S., Chicago’s mayor announced a deal with teachers over coronavirus safeguards that would reopen classrooms. 
  <p class="updated_time"> 08:35 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/kazakhstan-russia-troops.html">Kazakhstan Says Russian Troops Will Start Leaving This Week</a> NYT: The military response to recent unrest appears to be a win for President Vladimir V. Putin of Russia and his Kazakh counterpart, Kassym-Jomart Tokayev, who solidified his grip at a time when it was most shaky. 
- <p class="updated_time"> 08:30 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/01/11/world/omicron-covid-testing-vaccines">Covid Live Updates: Over Half of Europe Could Be Infected in Next 2 Months, W.H.O. Says</a> NYT: An official for the agency cited “a new west-to-east tidal wave sweeping across the region.” In the U.S., Chicago’s mayor announced a deal with teachers over coronavirus safeguards that would reopen classrooms. 
  <p class="updated_time"> 08:26 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59948920?at_medium=RSS&at_campaign=KARANGA">'Half of Europe' to be infected with Omicron within weeks - WHO</a> BBC: Dr Hans Kluge says a "west-to-east tidal wave" of the coronavirus variant is sweeping across the region. 
  <p class="updated_time"> 08:07 AM CT, Jan. 11 </p> 
@@ -31,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59953330?at_medium=RSS&at_campaign=KARANGA">Pokémon Go: Police fired for chasing Snorlax instead of robbers</a> BBC: A pair of LAPD officers lost their jobs after ignoring a robbery to play Pokémon Go instead. 
  <p class="updated_time"> 07:06 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59951366?at_medium=RSS&at_campaign=KARANGA">Second child dies after Spanish bouncy castle accident</a> BBC: The four-year-old girl was injured when a bouncy castle was thrown into the air by wind last week. 
+ <p class="updated_time"> 06:24 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59951890?at_medium=RSS&at_campaign=KARANGA">Ugandan author of The Greedy Barbarian charged over Museveni tweets</a> BBC: A Ugandan novelist is accused of using Twitter to "disturb the peace" of Yoweri Museveni and his son. 
  <p class="updated_time"> 05:47 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59944173?at_medium=RSS&at_campaign=KARANGA">Covid: Chile starts fourth vaccine dose amid rise in cases</a> BBC: The country is the first in Latin America to offer a fourth dose, as Omicron fuels a surge in cases. 
  <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
@@ -81,12 +83,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-rebuilt-nato-to-face-down-russia-putin-scrambled-those-plans-11641898501">U.S. Rebuilt NATO to Face Down Russia. Putin Scrambled Those Plans.</a> WSJ: Ahead of a meeting between the North Atlantic Treaty Organization and Russia in Brussels on Wednesday, the 30-country alliance is grappling with how to counter Moscow’s increasing assertiveness. 
  <p class="updated_time"> 11:01 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/asia/afghanistan-united-nations-appeal.html">U.N. Seeks Huge Aid Increase to Prevent ‘Catastrophe’ in Afghanistan</a> NYT: The $5 billion appeal comes as a severe drought and the toll of decades of war have plunged three-quarters of the country’s population into acute poverty, according to the United Nations. 
- <p class="updated_time"> 08:57 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59935125?at_medium=RSS&at_campaign=KARANGA">North Korea fires suspected ballistic missile</a> BBC: It comes as six nations, including the US, call for the North to stop its "destabilising actions." 
  <p class="updated_time"> 08:55 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/asia/myanmar-aung-san-suu-kyi-verdict.html">In Myanmar, Aung San Suu Kyi Sentenced to 4 More Years</a> NYT: Myanmar’s ousted civilian leader was convicted on three more counts under Covid and telecommunications rules, which her defenders said were politically motivated. 
- <p class="updated_time"> 08:29 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59946929?at_medium=RSS&at_campaign=KARANGA">Maya Angelou: Poet is first black woman on US quarter</a> BBC: The civil rights activist and writer is the first in a series of US women honoured on the US quarter. 
  <p class="updated_time"> 07:13 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/10/1071975804/mexico-president-andres-lopez-obrador-covid-positive">The president of Mexico says he has COVID for a 2nd time</a> NPR: President Andrés Manuel López Obrador wrote that he tested positive, after he had sounded hoarse at a morning news briefing. He contracted COVID-19 and recovered from it the first time in early 2021. 
  <p class="updated_time"> 06:28 PM CT, Jan. 10 </p> 
