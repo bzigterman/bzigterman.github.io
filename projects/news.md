@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:36 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/11/world/omicron-covid-testing-vaccines">Covid Live Updates: Over Half of Europe Could Be Infected in Next 2 Months, W.H.O. Says</a> NYT: An official for the agency cited “a new west-to-east tidal wave sweeping across the region.” In the U.S., Chicago’s mayor announced a deal with teachers over coronavirus safeguards that would reopen classrooms. 
  <p class="updated_time"> 05:59 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/jeffrey-moyo-zimbabwe-nyt.html">Freelance Reporter for the New York Times Is On Trial in Zimbabwe</a> NYT: The reporter, Jeffrey Moyo, has been accused of helping two Times journalists enter Zimbabwe from South Africa using bogus credentials, a charge that even the government admits is on ‘shaky ground.’ 
  <p class="updated_time"> 05:47 AM CT, Jan. 11 </p> 
@@ -49,6 +51,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59947211?at_medium=RSS&at_campaign=KARANGA">David Sassoli: European Parliament president dies aged 65</a> BBC: The Italian was admitted to hospital last month due to a serious complication with his immune system. 
  <p class="updated_time"> 01:21 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/asia/north-korea-ballistic-missile-south-korea.html">North Korea Launches 2nd Ballistic Missile in a Week, South Korea Says</a> NYT: The launch came as the U.N. Security Council met to discuss the country’s growing weapons threat. The U.S. said the latest test “highlights the destabilizing impact” of the North’s weapons program. 
+ <p class="updated_time"> 01:15 AM CT, Jan. 11 </p> 
+ <a href="https://www.wsj.com/articles/taiwan-air-force-loses-contact-with-pilot-after-f-16-crashes-on-training-mission-11641903311">Taiwan Air Force Loses Contact With Pilot After F-16 Crashes on Training Mission</a> WSJ: The Taiwan Air Force said it lost contact with a single-seat F-16 jet off the island’s coast roughly half an hour after it took off. 
+ <p class="updated_time"> 01:15 AM CT, Jan. 11 </p> 
+ <a href="https://www.wsj.com/articles/kazakhstan-says-russia-to-withdraw-troops-in-wake-of-unrest-11641903337">Kazakhstan Says Russia to Withdraw Troops in Wake of Unrest</a> WSJ: Russia-led forces that entered Kazakhstan to support the government following an eruption of protests would start withdrawing within two days, the Kazakh president said as he named a loyalist as prime minister. 
  <p class="updated_time"> 12:51 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-59920978?at_medium=RSS&at_campaign=KARANGA">#NoSpendJanuary: Can it really be done?</a> BBC: Every year, the hashtag #nospendjanuary is seen on social media - but how literally do people take it? 
  <p class="updated_time"> 12:16 AM CT, Jan. 11 </p> 
@@ -76,7 +82,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:14 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59862548?at_medium=RSS&at_campaign=KARANGA">How old Ugandan negatives are bringing families back to life</a> BBC: The restored archive of a rural Ugandan photographer is helping people reconnect with their past. 
  <p class="updated_time"> 06:08 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59942993?at_medium=RSS&at_campaign=KARANGA">Burning plastic to keep warm in Afghanistan</a> BBC: The UN has called for urgent aid as one million Afghan children are at risk from severe malnourishment. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59942993?at_medium=RSS&at_campaign=KARANGA">Kabul's markets full of food, but no-one has money</a> BBC: The UN has called for urgent aid as one million Afghan children are at risk from severe malnourishment. 
  <p class="updated_time"> 06:02 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
  <p class="updated_time"> 05:55 PM CT, Jan. 10 </p> 
@@ -121,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59936823?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic family end press conference after Covid event question</a> BBC: The tennis star's family ends a press conference, refusing to be drawn on his positive Covid test. 
  <p class="updated_time"> 08:54 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/asia/india-masks-omicron.html">In India, Mask Wearing Is Down Despite Rising Coronavirus Cases</a> NYT: Health officials are finding it harder to impose regulations despite signs that Omicron is beginning to take hold. 
- <p class="updated_time"> 08:23 AM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/kazakhstan-crisis-shows-that-russia-still-trumps-chinas-power-in-central-asia-11641842588">Kazakhstan Shows That Russia Still Trumps China's Power in Central Asia</a> WSJ: Beijing’s huge investments in the region increasingly rely on Russian protection. 
  <p class="updated_time"> 07:58 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/the-biden-administration-gave-a-preview-of-how-it-would-punish-russia-if-it-invaded-ukraine.html">The Biden administration gave a preview of how it would punish Russia if it invaded Ukraine.</a> NYT: Such moves are rarely telegraphed in advance, but advisers say they are hoping to influence the decisions of Russia’s leader, Vladimir V. Putin. 
  <p class="updated_time"> 06:39 AM CT, Jan. 10 </p> 
@@ -141,6 +145,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-europe-ukraine-nato.html">U.S. and Russia Will Discuss European Security, but Without Europeans</a> NYT: The coming talks in Geneva are bilateral, reviving old fears that the two Cold War powers will forge a deal on their own. 
  <p class="updated_time"> 01:48 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/kazakhstan-protests-detained-injured.html">Nearly 6,000 Detained Amid Unrest in Kazakhstan</a> NYT: Protests that began last weekend over a hike in fuel prices spread across the country, leaving at least 2,000 injured, government officials said. Dozens of deaths also appeared likely. 
+ <p class="updated_time"> 12:45 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/arts/design/athens-greece-contemporary-art.html">Building a Hub for New Art in Athens ‘Under the Shadow of the Acropolis’</a> NYT: Many associate culture in Athens with ruins and ancient artifacts. But the Greek government and several big philanthropic foundations want to put the city on the international contemporary art map. 
  <p class="updated_time"> 12:00 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59928856?at_medium=RSS&at_campaign=KARANGA">'They looted everything': Counting the cost of Kazakh protests</a> BBC: Violent protests have left Kazakhstan stunned and angry, the BBC's Abdujalil Abdurasulov finds. 
  <p class="updated_time"> 11:15 PM CT, Jan. 09 </p> 
@@ -163,6 +169,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/asia/china-rights-defense-activists.html">Chinese Activists Face Subversion Charges for Weekend Gathering</a> NYT: A weekend get-together in 2019 offered Beijing a chance to deliver a blow to the “rights defense” movement. Now, two key participants face the prospect of years in prison. 
  <p class="updated_time"> 06:13 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59908442?at_medium=RSS&at_campaign=KARANGA">Afcon Cameroon: Playing football in the shadow of a rebellion</a> BBC: Africa's top football tournament is about to start in Cameroon, despite a bitter four-year conflict. 
+ <p class="updated_time"> 03:54 PM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/07/world/americas/guantanamo-bay-covid-outbreak.html">Covid Cases Reach Pandemic High at Guantánamo Bay</a> NYT: The American base has reinstated a mandate for wearing masks indoors in response to an increase in infections. 
  <p class="updated_time"> 01:09 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/pakistan-snow-kills-21-murree-hill-station.html">Heavy Snow Kills 21 at Murree Hill Station in Pakistan</a> NYT: Stranded in their cars on snow-covered roads, some in the mountainside town of Murree froze to death and others died from carbon monoxide poisoning. 
  <p class="updated_time"> 12:42 PM CT, Jan. 08 </p> 
@@ -179,6 +187,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/canada/blackberry-phone-service-ends.html">BlackBerry Phone Service Officially Ends</a> NYT: BlackBerry was once Canada’s most valuable company and a global force in tech. The final step in its downfall as a phone maker arrived this week. 
  <p class="updated_time"> 04:00 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/india-weddings-south-kerala.html">The New Weddings in India’s South: ‘Expect Some Magic’</a> NYT: Couples are creating ever more elaborate ceremonies, drawing inspiration from social media trends that blur the nation’s religious and cultural lines. 
+ <p class="updated_time"> 02:10 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/world/europe/biden-boris-johnson-coronavirus-omicron.html">How Biden and Boris Johnson Reached the Same Place on Virus Policy</a> NYT: Two different leaders with differing approaches landed on a policy of coexisting with the virus. Analysts say they had little choice. 
+ <p class="updated_time"> 12:29 AM CT, Jan. 08 </p> 
+ <a href="https://www.nytimes.com/2022/01/08/travel/royal-caribbean-cruises-cancellations-covid.html">Royal Caribbean Cancels Three Upcoming Cruises</a> NYT: The company said it had called off planned trips on three ships and pushed back another’s return to cruising to March. 
 
 
 </details>
@@ -186,8 +198,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:15 AM CT, Jan. 11 </p> 
+ <p class="updated_time"> 07:45 AM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/01/11/democrats-look-for-a-roadmap-on-rules-changes-495677">Democrats look for a roadmap on rules changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:50 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/biden-stacey-abrams-voting-rights.html">Voting Rights Groups Skipping Biden’s Speech in Georgia Over Inaction</a> NYT: Stacey Abrams, the Democratic candidate for governor, also will not be there, but she cited a scheduling conflict. 
+ <p class="updated_time"> 06:49 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden Will Endorse Changing Senate Rules to Pass Voting Rights Legislation</a> NYT: In Georgia, the president will express support for altering rules around the Senate filibuster, setting up a confrontation with Republicans. 
+ <p class="updated_time"> 06:33 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
+ <p class="updated_time"> 06:21 AM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072019272/biden-needs-to-stay-the-course-on-voting-rights-rep-clyburn-says">Biden needs to stay the course on voting rights, Rep. Clyburn says</a> NPR: NPR's A Martinez talks to House Majority Whip Jim Clyburn of South Carolina, who is advocating for the John R. Lewis Voting Rights Advancement Act, about what he wants to hear in the president speech. 
+ <p class="updated_time"> 06:20 AM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072019265/in-atlanta-speech-biden-will-advocate-for-protecting-voting-rights">In Atlanta speech, Biden will advocate for protecting voting rights </a> NPR: President Biden and Vice President Harris head to Atlanta — a city at the epicenter of past and present battles over voting rights — to make the case to advance stalled legislation in Congress. 
  <p class="updated_time"> 06:12 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
  <p class="updated_time"> 05:51 AM CT, Jan. 11 </p> 
@@ -202,8 +224,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden to amp up the pressure on the Senate to change filibuster rules for voting rights during Atlanta speech</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
- <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden Will Endorse Changing Senate Rules to Pass Voting Rights Legislation</a> NYT: In Georgia, the president will express support for altering rules around the Senate filibuster, setting up a confrontation with Republicans. 
+ <p class="updated_time"> 04:10 AM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072019258/morning-news-brief">News brief: voting rights speech, schools juggle COVID, Novak Djokovic</a> NPR: In Atlanta, Biden will advocate for protecting voting rights. Some schools resume online classes because of COVID-19. The latest on the saga in Australia involving tennis star Novak Djokovic. 
  <p class="updated_time"> 04:00 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1071940115/biden-harris-atlanta-georgia-voting-visit">Biden will 'forcefully advocate' for protecting voting rights in Atlanta speech</a> NPR: The president has been under increasing pressure to more aggressively combat threats to voting rights. And advocates say speeches are not a substitute for legislative action. 
  <p class="updated_time"> 02:11 AM CT, Jan. 11 </p> 
@@ -214,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/one-party-control-white-house-congress/index.html">If Democrats can't pass their agenda now, they may not get another chance for years. Here's why</a> CNN: The last four times a president went into midterm elections holding unified control of the White House, Senate and House of Representatives, as Joe Biden and Democrats do now, voters have revoked it. 
  <p class="updated_time"> 11:07 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/novak-djokovic-covid-politics/index.html">Analysis: How a tennis legend, SCOTUS and the Winter Olympics are reshaping pandemic politics</a> CNN: Living with the virus, as the world is finding out, is easier said than done. 
- <p class="updated_time"> 10:41 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/biden-stacey-abrams-voting-rights.html">Voting Rights Groups Skipping Biden’s Speech in Georgia Over Inaction</a> NYT: Stacey Abrams, the Democratic candidate for governor, also will not be there, but she cited a scheduling conflict. 
  <p class="updated_time"> 10:29 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-photos-prisoners.html">20 Years Later, the Story Behind the Guantánamo Photo That Won’t Go Away</a> NYT: On Jan. 11, 2002, a sailor photographed 20 men in orange uniforms and on their knees, capturing one of the most damning post-9/11 images of U.S. detention policy. 
  <p class="updated_time"> 10:09 PM CT, Jan. 10 </p> 
@@ -340,14 +360,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071589603/congress-and-the-media-after-jan-6">Congress and the media after Jan. 6</a> NPR: NPR's Michel Martin speaks with Kadia Goba, political reporter for BuzzFeed News, and Paul Kane, senior congressional correspondent and columnist for The Washington Post, about covering Congress. 
  <p class="updated_time"> 12:41 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/senate-minority-whip-john-thune-to-run-for-reelection-526794">Senate Minority Whip John Thune to run for reelection</a> Politico: The 61-year-old South Dakotan is widely viewed as a potential successor to Senate Minority Leader Mitch McConnell 
- <p class="updated_time"> 12:09 PM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/2022/01/08/1066855802/john-thune-senate-reelection">John Thune, No. 2 Senate GOP leader, announces he will seek reelection</a> NPR: The South Dakota Republican, a likely successor to Republican leader Mitch McConnell, says he will run for reelection in 2022, putting an end to the speculation about his political future. 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/08/civil-rights-leaders-see-a-turning-point-for-biden-495650"> Civil rights leaders see a turning point for Biden</a> Politico Playbook: And the Jan. 6 committee considers asking Mike Pence for an interview. 
- <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/2022/01/08/1071542880/president-bidens-on-the-road-to-atlanta-to-push-for-new-voting-rights-legislatio">President Biden's on the road to Atlanta to push for new voting rights legislation</a> NPR: President Biden is making a push for new voting rights legislation. But he faces an uphill battle with the public and Congress. 
- <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/2022/01/08/1071542831/week-in-politics-russia-sends-troops-to-kazakhstan-jobs-up-jan-6-anniversary">Week in politics: Russia sends troops to Kazakhstan; jobs up; Jan. 6 anniversary</a> NPR: The unrest in Kazakhstan presents a fresh dilemma for President Biden. Also, what last month's low job creation numbers mean, and how Democrats are using the Jan. 6 riot to their advantage. 
  <p class="updated_time"> 05:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/fbi-usb-hackers-warning/index.html">FBI warns cybercriminals have tried to hack US firms by mailing malicious USB drives</a> CNN: A prolific Eastern European cybercriminal group has tried to hack US companies in the transportation, defense and insurance sectors by mailing those organizations malicious USB drives, the FBI warned US businesses this week in an advisory obtained by CNN. 
  <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
