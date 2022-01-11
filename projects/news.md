@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:36 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59947211?at_medium=RSS&at_campaign=KARANGA">David Sassoli: European Parliament president dies aged 65</a> BBC: It comes after the centre-left politician was admitted to hospital due to a serious complication with his immune system. 
- <p class="updated_time"> 10:27 PM CT, Jan. 10 </p> 
+ <p class="updated_time"> 10:50 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/world/asia/north-korea-ballistic-missile-south-korea.html">North Korea Launches 2nd Ballistic Missile in a Week, South Korea Says</a> NYT: The launch came as the U.N. Security Council met to discuss the country’s growing weapons threat. 
+ <p class="updated_time"> 10:48 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">David Sassoli, President of the European Parliament, Dies at 65</a> NYT: No cause of death was immediately available. He had been hospitalized in Italy because his immune system was not functioning normally. 
+ <p class="updated_time"> 10:36 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59947211?at_medium=RSS&at_campaign=KARANGA">David Sassoli: European Parliament president dies aged 65</a> BBC: The Italian was admitted to hospital last month due to a serious complication with his immune system. 
  <p class="updated_time"> 10:00 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-59947088?at_medium=RSS&at_campaign=KARANGA">Evergrande: Real estate giant moves from Shenzhen head office to cut costs</a> BBC: The crisis-hit property developer is still struggling to pay more than $300bn in liabilities. 
  <p class="updated_time"> 09:46 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59944701?at_medium=RSS&at_campaign=KARANGA">Djokovic saga damaging, says tennis governing body</a> BBC: The controversy over Novak Djokovic's visa to enter Australia has been "damaging on all fronts", says the ATP. 
- <p class="updated_time"> 09:00 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/asia/north-korea-ballistic-missile-south-korea.html">North Korea Launches 2nd Ballistic Missile in a Week, South Korea Says</a> NYT: The launch came as the U.N. Security Council met to discuss the country’s growing weapons threat. 
  <p class="updated_time"> 08:57 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59935125?at_medium=RSS&at_campaign=KARANGA">North Korea fires suspected ballistic missile</a> BBC: It comes as six nations, including the US, call for the North to stop its "destabilising actions." 
  <p class="updated_time"> 08:55 PM CT, Jan. 10 </p> 
