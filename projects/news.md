@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:36 AM CT, Jan. 11 </p> 
+ <p class="updated_time"> 07:07 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/01/11/world/omicron-covid-testing-vaccines">Covid Live Updates: Over Half of Europe Could Be Infected in Next 2 Months, W.H.O. Says</a> NYT: An official for the agency cited “a new west-to-east tidal wave sweeping across the region.” In the U.S., Chicago’s mayor announced a deal with teachers over coronavirus safeguards that would reopen classrooms. 
  <p class="updated_time"> 05:59 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/jeffrey-moyo-zimbabwe-nyt.html">Freelance Reporter for the New York Times Is On Trial in Zimbabwe</a> NYT: The reporter, Jeffrey Moyo, has been accused of helping two Times journalists enter Zimbabwe from South Africa using bogus credentials, a charge that even the government admits is on ‘shaky ground.’ 
@@ -61,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: No cause of death was immediately available. He had been hospitalized in Italy because his immune system was not functioning normally. 
  <p class="updated_time"> 11:55 PM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-rebuilt-nato-to-face-down-russia-putin-scrambled-those-plans-11641898501">U.S. Rebuilt NATO to Face Down Russia. Putin Scrambled Those Plans.</a> WSJ: Ahead of a meeting between the North Atlantic Treaty Organization and Russia in Brussels on Wednesday, the 30-country alliance is grappling with how to counter Moscow’s increasing assertiveness. 
- <p class="updated_time"> 11:19 PM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/north-korea-launches-unidentified-projectile-off-its-east-coast-south-korea-says-11641859154">North Korea Launches Ballistic Missile, South Korea Says</a> WSJ: The weapons test off the country’s east coast is Pyongyang’s second of this year, following a ballistic missile launch last week. 
  <p class="updated_time"> 11:01 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/asia/afghanistan-united-nations-appeal.html">U.N. Seeks Huge Aid Increase to Prevent ‘Catastrophe’ in Afghanistan</a> NYT: The $5 billion appeal comes as a severe drought and the toll of decades of war have plunged three-quarters of the country’s population into acute poverty, according to the United Nations. 
  <p class="updated_time"> 08:57 PM CT, Jan. 10 </p> 
@@ -200,6 +198,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:45 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/11/democrats-look-for-a-roadmap-on-rules-changes-495677">Democrats look for a roadmap on rules changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:14 AM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden to amp up the pressure on the Senate to change filibuster rules for voting rights during Atlanta speech</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 06:50 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/biden-stacey-abrams-voting-rights.html">Voting Rights Groups Skipping Biden’s Speech in Georgia Over Inaction</a> NYT: Stacey Abrams, the Democratic candidate for governor, also will not be there, but she cited a scheduling conflict. 
  <p class="updated_time"> 06:49 AM CT, Jan. 11 </p> 
@@ -213,21 +213,19 @@ permalink: /projects/news/
  <p class="updated_time"> 06:12 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
  <p class="updated_time"> 05:51 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/business/powell-confirmation-hearing.html">The Fed chair could face a grilling at his confirmation hearing. Here’s what to watch.</a> NYT: Jerome H. Powell, the Federal Reserve chair, will testify before lawmakers as he seeks Senate confirmation to a second term. 
+ <a href="https://www.nytimes.com/2022/01/11/business/powell-confirmation-hearing.html">Fed Chair Jerome Powell's Confirmation Hearing: What to Watch</a> NYT: Jerome H. Powell, the Federal Reserve chair, will testify before lawmakers as he seeks Senate confirmation to a second term. 
  <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/biden-speech-voting-rights-republicans-526871">Biden to turn the heat up on Republicans over voting rights</a> Politico: The trip to Georgia is meant to assure activists that he’s ready for the fight. 
  <p class="updated_time"> 05:01 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/florida-special-election/index.html">Voters head to polls in Florida special election to fill late Alcee Hastings' seat</a> CNN: Two hundred and eighty days after Rep. Alcee Hastings died from pancreatic cancer, voters in the late lawmaker's deeply Democratic South Florida congressional district will finally pick a replacement. 
  <p class="updated_time"> 04:42 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072029936/cyber-risks-add-to-climate-threat-world-economic-forum-warns">Cyber risks add to climate threat, World Economic Forum warns</a> NPR: Survey of 1,000 experts and leaders finds cybersecurity and space add to the existing challenges of climate change and the coronavirus pandemic. 
- <p class="updated_time"> 04:35 AM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden to amp up the pressure on the Senate to change filibuster rules for voting rights during Atlanta speech</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
  <p class="updated_time"> 04:10 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072019258/morning-news-brief">News brief: voting rights speech, schools juggle COVID, Novak Djokovic</a> NPR: In Atlanta, Biden will advocate for protecting voting rights. Some schools resume online classes because of COVID-19. The latest on the saga in Australia involving tennis star Novak Djokovic. 
  <p class="updated_time"> 04:00 AM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1071940115/biden-harris-atlanta-georgia-voting-visit">Biden will 'forcefully advocate' for protecting voting rights in Atlanta speech</a> NPR: The president has been under increasing pressure to more aggressively combat threats to voting rights. And advocates say speeches are not a substitute for legislative action. 
+ <a href="https://www.npr.org/2022/01/11/1071940115/biden-harris-atlanta-georgia-voting-visit">Biden is expected to back changing the filibuster to pass voting rights bills</a> NPR: The president has been under increasing pressure to more aggressively combat threats to voting rights. And advocates say speeches are not a substitute for legislative action. 
  <p class="updated_time"> 02:11 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-transfer-somali-detainee.html">Guantánamo Panel Approves Transfer of First High-Value Detainee</a> NYT: Guled Duran, a Somali, has been held in classified facilities since the C.I.A. took custody of him in 2004. He has never been charged with a crime. 
  <p class="updated_time"> 11:39 PM CT, Jan. 10 </p> 
