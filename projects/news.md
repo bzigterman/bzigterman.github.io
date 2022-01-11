@@ -15,6 +15,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1071880009/uae-laws-business-sex-marriage-alcohol-cbd">Why United Arab Emirates is relaxing laws on sex, marriage, liquor, vapes and more</a> NPR: The UAE is overhauling laws on an array of business, cultural and social norms. On paper, it makes the emirate one of the region's most progressive countries, but critics say the reality is complex. 
  <p class="updated_time"> 11:48 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/africa/ethiopia-biden-abiy-ahmed-tigray.html">On Day Biden Calls Ethiopia’s Leader to Urge Peace, a Drone Strike Kills 17</a> NYT: The attack came days after over 50 people were killed in a strike on a refugee camp, highlighting the growing role of armed drones in a destructive war. 
+ <p class="updated_time"> 11:45 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59956826?at_medium=RSS&at_campaign=KARANGA">Saudi court orders first naming of man guilty of sexual harassment</a> BBC: The kingdom amended an anti-harassment law last year to allow for the public shaming of offenders. 
  <p class="updated_time"> 11:32 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59957779?at_medium=RSS&at_campaign=KARANGA">Up to Novak to explain PCR grey area - Serbia PM</a> BBC: Ana Brnabić says it would be a clear rule breach if Novak Djokovic was out after a positive Covid test. 
  <p class="updated_time"> 11:24 AM CT, Jan. 11 </p> 
@@ -31,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/world/africa/jeffrey-moyo-zimbabwe-nyt.html">Freelance Reporter for the New York Times Is On Trial in Zimbabwe</a> NYT: The reporter, Jeffrey Moyo, has been accused of helping two Times journalists enter Zimbabwe from South Africa using bogus credentials, a charge that even the government admits is on ‘shaky ground.’ 
  <p class="updated_time"> 10:46 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: He was a well-known journalist in his native Italy before going into politics, and devoted his tenure to making the Parliament more prominent. 
+ <p class="updated_time"> 10:45 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/sports/tennis/novak-djokovic-covid-positive-australia.html">Novak Djokovic in Australia: A Timeline of Events</a> NYT: If a tennis star knew he was positive for the coronavirus, why did he keep making public appearances without a mask? 
  <p class="updated_time"> 10:44 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/ukraine-russia.html">A Russian Pledge of No Invasion? Ukrainians Are Skeptical.</a> NYT: When Russians say no, they often mean yes, a former Ukrainian member of Parliament said, as suspicion ran deep about Moscow’s intentions. 
  <p class="updated_time"> 10:38 AM CT, Jan. 11 </p> 
@@ -70,7 +74,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/11/1071282973/as-carbon-removal-gains-traction-economists-imagine-a-new-market-to-save-the-pla">As carbon removal gains traction, economists imagine a new market to save the planet</a> NPR: Carbon removal went mainstream in 2021. But the technology is still light years away from making a real difference combating climate change. A group of economists wants to help change that. 
  <p class="updated_time"> 05:25 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59946900?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Questions raised over tennis star's travel declaration</a> BBC: Australian officials are investigating whether inaccurate information was given, local media says. 
+ <a href="https://www.bbc.co.uk/news/world-australia-59946900?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Questions raised over tennis star's travel declaration</a> BBC: Australian officials are investigating whether inaccurate information was given, local media say. 
  <p class="updated_time"> 05:20 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59951255?at_medium=RSS&at_campaign=KARANGA">Magawa, the landmine-sniffing hero rat, dies aged eight</a> BBC: Magawa was awarded a gold medal for heroism for clearing landmines in Cambodia. 
  <p class="updated_time"> 04:53 AM CT, Jan. 11 </p> 
@@ -151,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59939507?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: How tennis player won visa row court case</a> BBC: Australia's legal defence collapsed on the evidence of the tennis player's treatment at the airport. 
  <p class="updated_time"> 09:29 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/china-covid-omicron-beijing-olympics.html">China’s Covid Outbreak Complicates Safety Plan for Beijing Olympics</a> NYT: Officials are racing to extinguish a spate of coronavirus infections around the country. 
- <p class="updated_time"> 09:03 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-59936823?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic family end press conference after Covid event question</a> BBC: The tennis star's family ends a press conference, refusing to be drawn on his positive Covid test. 
  <p class="updated_time"> 08:54 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/asia/india-masks-omicron.html">In India, Mask Wearing Is Down Despite Rising Coronavirus Cases</a> NYT: Health officials are finding it harder to impose regulations despite signs that Omicron is beginning to take hold. 
  <p class="updated_time"> 07:58 AM CT, Jan. 10 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/asia/china-rights-defense-activists.html">Chinese Activists Face Subversion Charges for Weekend Gathering</a> NYT: A weekend get-together in 2019 offered Beijing a chance to deliver a blow to the “rights defense” movement. Now, two key participants face the prospect of years in prison. 
  <p class="updated_time"> 06:13 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59908442?at_medium=RSS&at_campaign=KARANGA">Afcon Cameroon: Playing football in the shadow of a rebellion</a> BBC: Africa's top football tournament is about to start in Cameroon, despite a bitter four-year conflict. 
- <p class="updated_time"> 01:09 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/world/asia/pakistan-snow-kills-21-murree-hill-station.html">Heavy Snow Kills 21 at Murree Hill Station in Pakistan</a> NYT: Stranded in their cars on snow-covered roads, some in the mountainside town of Murree froze to death and others died from carbon monoxide poisoning. 
  <p class="updated_time"> 12:42 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/europe/kazakhstan-russia.html">Amid Crisis, Kazakhstan's Leader Embraces Russia</a> NYT: With his government under siege, Kassym-Jomart Tokayev, Kazakhstan’s president, turned to Russia’s Vladimir V. Putin for support. The choice could realign Central Asia’s politics. 
  <p class="updated_time"> 09:05 AM CT, Jan. 07 </p> 
@@ -202,6 +202,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:16 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/david-mccormick-senate-campaign-trump-526870">McCormick MAGA-proofs his Senate campaign after dissing Trump</a> Politico: The new Pennsylvania candidate is certain to face GOP primary attacks. 
+ <p class="updated_time"> 12:02 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/nuclear-option-senate-filibuster/index.html">Why Democrats are thinking of going nuclear</a> CNN: As Democrats push to pass voting rights legislation through Congress, there's been talk of using a process known as the "nuclear option." 
+ <p class="updated_time"> 11:58 AM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/political-influence-on-science-federal-government/index.html">Biden administration tells federal agencies how to safeguard against political influence on science</a> CNN: The Biden administration is calling on government agencies to strengthen their policies against inappropriate political influence when it comes to the science that guides decision-making, according to a new report. 
  <p class="updated_time"> 11:50 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/business/powell-confirmation-hearing.html"> Jerome Powell Says Fed Is Prepared to Raise Rates to Tame Inflation</a> NYT: The Federal Reserve chair is testifying before lawmakers as he seeks Senate confirmation to a second term. 
  <p class="updated_time"> 11:10 AM CT, Jan. 11 </p> 
@@ -226,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/10/politics/georgia-voting-rights-advocates-biden-visit/index.html">Georgia voting rights groups boycott Biden speech: 'We don't need even more photo ops. We need action'</a> CNN: A coalition of voting rights groups in Georgia announced Monday that they will not attend events surrounding President Joe Biden's expected visit to Atlanta. 
  <p class="updated_time"> 07:45 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/11/democrats-look-for-a-roadmap-on-rules-changes-495677">Democrats look for a roadmap on rules changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:21 AM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/political-influence-on-science-federal-government/index.html">Biden administration tells federal agencies how to safeguard against political influence on science</a> CNN: The Biden administration is calling on government agencies to strengthen their policies against inappropriate political influence when it comes to the science that guides decision-making, according to a new report. 
  <p class="updated_time"> 07:17 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/us-humanitarian-assistance-afghanistan/index.html">US providing $308 million in humanitarian assistance to Afghanistan</a> CNN: The US is providing $308 million in humanitarian aid for the people of Afghanistan, the National Security Council announced Tuesday, as well as additional Covid-19 vaccine doses. 
  <p class="updated_time"> 06:33 AM CT, Jan. 11 </p> 
@@ -286,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/business/economy/richard-clarida-fed-resign.html">Richard Clarida Is Resigning From the Fed Early After New Questions on Trades</a> NYT: Richard Clarida, the vice chair of the Federal Reserve, will leave on Friday, two weeks ahead of schedule. Updated disclosures showed rapid moves out of and back into stocks as the central bank prepared to reassure markets. 
  <p class="updated_time"> 05:27 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/mike-pence-jan-6-testimony.html">Pence and Jan. 6 Committee Engage in High-Stakes Dance Over Testimony</a> NYT: Getting the former vice president to answer questions under oath could be crucial as the House panel focuses on Donald Trump’s responsibility for the Capitol riot. 
- <p class="updated_time"> 05:24 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/nuclear-option-senate-filibuster/index.html">Why Democrats are thinking of going nuclear</a> CNN: As Democrats push to pass voting rights legislation through Congress, there's been talk of using a process known as the "nuclear option." 
  <p class="updated_time"> 05:24 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/10/1071899471/insurance-at-home-covid-tests-white-house">How to get insurance to pay for at-home COVID tests, according to the White House</a> NPR: The Biden administration says Americans should be able to order COVID-19 tests online later this month. Those who are eligible can get eight free over-the-counter at-home tests a month. 
  <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
