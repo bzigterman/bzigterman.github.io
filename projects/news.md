@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
  <p class="updated_time"> 03:26 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/rachael-rollins-us-attorney-massachusetts-threats/index.html">Barrier-breaking Black prosecutor faces deadly racist threats</a> CNN: The first Black woman to lead the US Attorney's Office for Massachusetts was sworn in Monday as she faces an uptick in threats against her following a contentious confirmation process. 
  <p class="updated_time"> 02:11 AM CT, Jan. 11 </p> 
