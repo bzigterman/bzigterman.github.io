@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:32 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/russia-ukraine-nato-europe.html">Can Russia Be Stopped From Invading Ukraine? Here's What We Know</a> NYT: The United States, its NATO allies and Russia meet this week in a whirlwind of diplomacy aimed at averting the largest military action in Europe since World War II. Here’s a guide to what’s at stake. 
+ <p class="updated_time"> 02:11 AM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072016749/djokovic-gets-some-court-time-in-australia-as-leaders-discuss-his-visa">Djokovic gets some court time in Australia as leaders discuss his visa</a> NPR: The prime ministers of Australia and Serbia talked by phone about the tennis star's visa as he is seeded No. 1 in Australian Open. 
+ <p class="updated_time"> 02:08 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59949236?at_medium=RSS&at_campaign=KARANGA">First pig heart to human transplant is a game-changer, say surgeons</a> BBC: In a world first, a pig heart has been successfully transplanted into a human by surgeons in the US. 
  <p class="updated_time"> 02:00 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/health/southern-africa-hiv-aids-epidemic-progress.html">In Southern Africa, Success Against H.I.V. Offers Hope for Beating Back Another Virus</a> NYT: A former Africa correspondent, who covered the height of the AIDS epidemic there 15 years ago, finds lessons in the remarkable progress against that virus for our current fight. 
  <p class="updated_time"> 01:41 AM CT, Jan. 11 </p> 
@@ -53,6 +59,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59914729?at_medium=RSS&at_campaign=KARANGA">Antarctica: Invasive species 'hitchhiking' on ships</a> BBC: Ships travelling to Antarctica could bring invasive species to the ocean’s last pristine ecosystem. 
  <p class="updated_time"> 05:20 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59944634?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… Novak Djokovic’s Australia visa victory</a> BBC: The world number one made it onto a tennis court in Melbourne, but he could still be deported. 
+ <p class="updated_time"> 05:07 PM CT, Jan. 10 </p> 
+ <a href="https://www.wsj.com/articles/japan-extends-entry-ban-for-foreigners-citing-omicron-11641874059">Japan Extends Entry Ban for Foreigners, Citing Omicron</a> WSJ: Japan said it would extend its near-total ban on foreigners entering the country until at least the end of February. 
  <p class="updated_time"> 05:06 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
  <p class="updated_time"> 05:00 PM CT, Jan. 10 </p> 
@@ -101,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59936823?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic family end press conference after Covid event question</a> BBC: The tennis star's family ends a press conference, refusing to be drawn on his positive Covid test. 
  <p class="updated_time"> 08:54 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/asia/india-masks-omicron.html">In India, Mask Wearing Is Down Despite Rising Coronavirus Cases</a> NYT: Health officials are finding it harder to impose regulations despite signs that Omicron is beginning to take hold. 
- <p class="updated_time"> 08:54 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-59936822?at_medium=RSS&at_campaign=KARANGA">Djokovic's brother: We fight for truth and justice</a> BBC: Djordje Djokovic, speaks about supporting the tennis star during his detention in Australia. 
  <p class="updated_time"> 08:23 AM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/kazakhstan-crisis-shows-that-russia-still-trumps-chinas-power-in-central-asia-11641842588">Kazakhstan Shows That Russia Still Trumps China's Power in Central Asia</a> WSJ: Beijing’s huge investments in the region increasingly rely on Russian protection. 
  <p class="updated_time"> 07:58 AM CT, Jan. 10 </p> 
@@ -123,22 +129,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-europe-ukraine-nato.html">U.S. and Russia Will Discuss European Security, but Without Europeans</a> NYT: The coming talks in Geneva are bilateral, reviving old fears that the two Cold War powers will forge a deal on their own. 
  <p class="updated_time"> 01:48 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/kazakhstan-protests-detained-injured.html">Nearly 6,000 Detained Amid Unrest in Kazakhstan</a> NYT: Protests that began last weekend over a hike in fuel prices spread across the country, leaving at least 2,000 injured, government officials said. Dozens of deaths also appeared likely. 
- <p class="updated_time"> 01:19 AM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/novak-djokovic-to-be-released-from-detention-in-australia-after-legal-victory-11641798160">Djokovic Released From Detention After Legal Victory</a> WSJ: Decision to overturn Australian authorities’ cancellation of his visa opens the door for the No. 1 men’s tennis player to compete in the Australian Open. 
  <p class="updated_time"> 01:11 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071761247/djokovics-visa-reinstated-but-australian-open-status-unclear">Djokovic's visa is reinstated, but his Australian Open status remains unclear</a> NPR: The tennis star, who sought a COVID-19 vaccine exemption to play in the tournament, could face deportation again. The battle has sparked protests in the widely vaccinated country. 
- <p class="updated_time"> 12:36 AM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/pope-francis-denounces-cancel-culture-and-antivaccine-ideology-11641814583">Pope Francis Denounces 'Cancel Culture' and Antivaccine 'Ideology'</a> WSJ: In his annual speech to ambassadors, the pontiff also lamented the effects of pandemic-related school closures on children. 
  <p class="updated_time"> 12:00 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59928856?at_medium=RSS&at_campaign=KARANGA">'They looted everything': Counting the cost of Kazakh protests</a> BBC: Violent protests have left Kazakhstan stunned and angry, the BBC's Abdujalil Abdurasulov finds. 
  <p class="updated_time"> 11:15 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
- <p class="updated_time"> 11:01 PM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/russia-ukraine-nato-europe.html">Can Russia Be Stopped From Invading Ukraine? Here's What We Know</a> NYT: The United States, its NATO allies and Russia meet this week in a whirlwind of diplomacy aimed at averting the largest military action in Europe since World War II. 
  <p class="updated_time"> 10:37 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Hong Kong Party Angers a City Under Covid Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
- <p class="updated_time"> 09:39 PM CT, Jan. 09 </p> 
- <a href="https://www.wsj.com/articles/china-names-xinjiang-counterterror-veteran-to-lead-troops-in-hong-kong-11641803969">China Names Hard-Liner to Lead Troops in Hong Kong</a> WSJ: China has named Peng Jingtang as the new chief of its army garrison in Hong Kong, continuing a string of hard-line appointments in the territory. 
  <p class="updated_time"> 06:39 PM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071703878/us-russia-ukraine-talks-geneva">Neither side is optimistic ahead of U.S.-Russia talks over Ukraine</a> NPR: The U.S. and its European allies want Russia to reduce troop buildup along the Ukraine border. Russia wants U.S. troops out of Eastern Europe. Both sides say those demands are non-starters. 
  <p class="updated_time"> 06:03 PM CT, Jan. 09 </p> 
@@ -155,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/world/europe/london-schools-covid-omicron.html">London Schools Are Determined to Stay Open. Staff Illnesses Make It Hard.</a> NYT: Schools across England are grappling with what it looks like to live with the pandemic as it enters its third year. Sound familiar? 
  <p class="updated_time"> 07:37 AM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071663590/russian-troops-have-crossed-the-border-into-kazakhstan-following-violent-protest">Russian troops have crossed the border into Kazakhstan following violent protests</a> NPR: Russian troops are helping put down anti-government protests in neighboring Kazakhstan. The crisis threatens to be a distraction for Russia as it squares off with the U.S. over Ukraine. 
- <p class="updated_time"> 07:05 AM CT, Jan. 09 </p> 
- <a href="https://www.npr.org/2022/01/09/1071663548/lahore-pakistan-locks-down-for-air-quality">Lahore, Pakistan, is locking down to improve air quality</a> NPR: Pakistan's second largest city, Lahore, tops the world's most polluted city list, along with India's New Delhi. Poor air quality has prompted the government to order a partial shutdown of schools. 
  <p class="updated_time"> 10:45 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/chicago-shools-teachers-union-lightfoot.html">Chicago's Mayor Rejects Union's Terms for Returning to School</a> NYT: The standoff between educators and the city’s government shows no signs of abating. 
  <p class="updated_time"> 10:37 PM CT, Jan. 08 </p> 
@@ -198,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:11 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-transfer-somali-detainee.html">Guantánamo Panel Approves Transfer of First High-Value Detainee</a> NYT: Guled Duran, a Somali, has been held in classified facilities since the C.I.A. took custody of him in 2004. He has never been charged with a crime. 
  <p class="updated_time"> 11:39 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/11/1071082955/imagine-another-american-civil-war-but-this-time-in-every-state">Imagine another American Civil War, but this time in every state</a> NPR: If America has another civil war, it is more likely to be a war within the states than between them. Citizens of any state of any size, red or blue, may not have to go far to find a fight. 
  <p class="updated_time"> 10:41 PM CT, Jan. 10 </p> 
@@ -226,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-hill-democrats-russia-sanctions-526864">Biden administration hits the Hill to lobby Dems against GOP-backed Russia sanctions</a> Politico: But some centrists left the room noncommittal on Sen. Ted Cruz's push to block a gas pipeline that would benefit Moscow. 
  <p class="updated_time"> 06:58 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/maya-angelou-quarter-issued/index.html">Maya Angelou becomes first Black woman to appear on US quarter as Treasury begins distribution</a> CNN: A new US quarter featuring the late Maya Angelou went into circulation Monday, the US Mint announced, making the legendary poet and activist the first Black woman ever to appear on the coin. 
- <p class="updated_time"> 06:50 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-transfer-somali-detainee.html">Guantánamo Panel Approves Transfer of First High-Value Detainee</a> NYT: Guled Duran, a Somali, has been held in classified facilities since the C.I.A. took custody of him in 2004. He has never been charged with a crime. 
  <p class="updated_time"> 06:43 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
  <p class="updated_time"> 06:16 PM CT, Jan. 10 </p> 
