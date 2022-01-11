@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:45 AM CT, Jan. 11 </p> 
+ <p class="updated_time"> 09:08 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/01/11/world/omicron-covid-testing-vaccines">Covid Live Updates: Over Half of Europe Could Be Infected in Next 2 Months, W.H.O. Says</a> NYT: An official for the agency cited “a new west-to-east tidal wave sweeping across the region.” In the U.S., Chicago’s mayor announced a deal with teachers over coronavirus safeguards that would reopen classrooms. 
+ <p class="updated_time"> 08:59 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/health/southern-africa-hiv-aids.html">In South Africa, Success Against H.I.V. Offers Hope </a> NYT: A former Africa correspondent, who covered the height of the AIDS epidemic there 15 years ago, finds lessons in the remarkable progress against that virus for our current fight. 
  <p class="updated_time"> 08:35 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/kazakhstan-russia-troops.html">Kazakhstan Says Russian Troops Will Start Leaving This Week</a> NYT: The military response to recent unrest appears to be a win for President Vladimir V. Putin of Russia and his Kazakh counterpart, Kassym-Jomart Tokayev, who solidified his grip at a time when it was most shaky. 
  <p class="updated_time"> 08:26 AM CT, Jan. 11 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1072016749/djokovic-gets-some-court-time-in-australia-as-leaders-discuss-his-visa">Djokovic gets some court time in Australia as leaders discuss his visa</a> NPR: The prime ministers of Australia and Serbia talked by phone about the tennis star's visa as he is seeded No. 1 in Australian Open. 
  <p class="updated_time"> 02:08 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59949236?at_medium=RSS&at_campaign=KARANGA">First pig heart to human transplant is a game-changer, say surgeons</a> BBC: In a world first, a pig heart has been successfully transplanted into a human by surgeons in the US. 
- <p class="updated_time"> 02:00 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/health/southern-africa-hiv-aids.html">In Southern Africa, Success Against H.I.V. Offers Hope for Beating Back Another Virus</a> NYT: A former Africa correspondent, who covered the height of the AIDS epidemic there 15 years ago, finds lessons in the remarkable progress against that virus for our current fight. 
  <p class="updated_time"> 01:41 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59947211?at_medium=RSS&at_campaign=KARANGA">Speaker of EU parliament dies in hospital</a> BBC: The Italian was admitted to hospital last month due to a serious complication with his immune system. 
  <p class="updated_time"> 01:21 AM CT, Jan. 11 </p> 
@@ -198,6 +198,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:06 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/business/powell-confirmation-hearing.html">Fed Chair Jerome Powell's Confirmation Hearing: What to Watch</a> NYT: Jerome H. Powell, the Federal Reserve chair, appears before lawmakers as he seeks Senate confirmation to a second term. 
+ <p class="updated_time"> 08:57 AM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/fact-check-sotomayor-mandate-covid-dinner-gorsuch/index.html">Fact check: Sotomayor makes false claim about Covid-19's impact on children</a> CNN: Supreme Court Justice Sonia Sotomayor made a significant false claim on Friday about Covid-19's impact on children. 
+ <p class="updated_time"> 08:56 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden Will Endorse Changing Senate Rules to Pass Voting Rights Legislation</a> NYT: In Georgia, the president will express support for altering rules around the Senate filibuster, setting up a confrontation with Republicans. 
  <p class="updated_time"> 08:35 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/georgia-voting-rights-advocates-biden-visit/index.html">GA voting rights groups boycott Biden speech: 'We don't need even more photo ops. We need action'</a> CNN: A coalition of voting rights groups in Georgia announced Monday that they will not attend events surrounding President Joe Biden's expected visit to Atlanta. 
  <p class="updated_time"> 07:45 AM CT, Jan. 11 </p> 
@@ -212,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden to amp up the pressure on the Senate to change filibuster rules for voting rights during Atlanta speech</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 06:50 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/biden-stacey-abrams-voting-rights.html">Voting Rights Groups Skipping Biden’s Speech in Georgia Over Inaction</a> NYT: Stacey Abrams, the Democratic candidate for governor, also will not be there, but she cited a scheduling conflict. 
- <p class="updated_time"> 06:49 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden Will Endorse Changing Senate Rules to Pass Voting Rights Legislation</a> NYT: In Georgia, the president will express support for altering rules around the Senate filibuster, setting up a confrontation with Republicans. 
  <p class="updated_time"> 06:33 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
  <p class="updated_time"> 06:21 AM CT, Jan. 11 </p> 
@@ -222,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1072019265/in-atlanta-speech-biden-will-advocate-for-protecting-voting-rights">In Atlanta speech, Biden will advocate for protecting voting rights </a> NPR: President Biden and Vice President Harris head to Atlanta — a city at the epicenter of past and present battles over voting rights — to make the case to advance stalled legislation in Congress. 
  <p class="updated_time"> 06:12 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
- <p class="updated_time"> 05:51 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/business/powell-confirmation-hearing.html">Fed Chair Jerome Powell's Confirmation Hearing: What to Watch</a> NYT: Jerome H. Powell, the Federal Reserve chair, will testify before lawmakers as he seeks Senate confirmation to a second term. 
  <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/biden-speech-voting-rights-republicans-526871">Biden has found his bone to pick with the GOP: voting rights</a> Politico: The trip to Georgia is meant to assure activists that he’s ready for the fight. 
  <p class="updated_time"> 05:01 AM CT, Jan. 11 </p> 
@@ -358,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/08/senate-minority-whip-john-thune-to-run-for-reelection-526794">Senate Minority Whip John Thune to run for reelection</a> Politico: The 61-year-old South Dakotan is widely viewed as a potential successor to Senate Minority Leader Mitch McConnell 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/08/civil-rights-leaders-see-a-turning-point-for-biden-495650"> Civil rights leaders see a turning point for Biden</a> Politico Playbook: And the Jan. 6 committee considers asking Mike Pence for an interview. 
- <p class="updated_time"> 05:01 PM CT, Jan. 07 </p> 
- <a href="https://www.cnn.com/2022/01/07/politics/fbi-usb-hackers-warning/index.html">FBI warns cybercriminals have tried to hack US firms by mailing malicious USB drives</a> CNN: A prolific Eastern European cybercriminal group has tried to hack US companies in the transportation, defense and insurance sectors by mailing those organizations malicious USB drives, the FBI warned US businesses this week in an advisory obtained by CNN. 
  <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
  <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
