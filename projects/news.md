@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:24 PM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59960689?at_medium=RSS&at_campaign=KARANGA">Covid: Quebec to impose health tax on unvaccinated Canadians</a> BBC: The unvaccinated represent 15% of the population, but over half of all hospital admissions. 
  <p class="updated_time"> 02:16 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: He was a well-known journalist in his native Italy before going into politics, and devoted his tenure to making the Parliament more prominent. 
  <p class="updated_time"> 02:13 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072153873/magawa-hero-rat-dies-bomb-sniffing">Magawa, a heroic bomb-sniffing rat who is credited with saving lives, has died </a> NPR: "His contribution allows communities in Cambodia to live, work, and play; without fear of losing life or limb," the nonprofit APOPO said after the death of Magawa, an African giant pouched rat. 
+ <p class="updated_time"> 02:06 PM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59960477?at_medium=RSS&at_campaign=KARANGA">Sacked belly-dancing teacher sparks Egypt debate over women's rights</a> BBC: Aya Yousef was sacked and divorced after she was filmed moving to music at a work social event. 
  <p class="updated_time"> 01:42 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59960118?at_medium=RSS&at_campaign=KARANGA">I thought Dad's pig heart transplant was delirium</a> BBC: David Bennett, 57, is the first person in the world to receive a heart transplant from a genetically-modified pig. 
  <p class="updated_time"> 01:39 PM CT, Jan. 11 </p> 
@@ -75,10 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/world/europe/spain-student-housing-dorms.html">Dorms Pop Up in Spain as More Students Seek Housing Away From Home</a> NYT: The country’s student population has become increasingly mobile, fueling investments in accommodations, largely funded by foreign capital. 
  <p class="updated_time"> 07:49 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59952323?at_medium=RSS&at_campaign=KARANGA">Italian raids after New Year sexual assaults in Milan</a> BBC: Nine young women have come forward to say they were attacked while celebrating in central Milan. 
- <p class="updated_time"> 07:24 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59953330?at_medium=RSS&at_campaign=KARANGA">Pokémon Go: Police fired for chasing Snorlax instead of robbers</a> BBC: A pair of LAPD officers lost their jobs after ignoring a robbery to play Pokémon Go instead. 
- <p class="updated_time"> 07:06 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59951366?at_medium=RSS&at_campaign=KARANGA">Second child dies after Spanish bouncy castle accident</a> BBC: The four-year-old girl was injured when a bouncy castle was thrown into the air by wind last week. 
  <p class="updated_time"> 06:26 AM CT, Jan. 11 </p> 
  <a href="https://www.wsj.com/articles/south-african-authorities-charge-man-in-parliament-fire-11641922017">South African Authorities Charge Man in Parliament Fire</a> WSJ: The 49-year-old man was charged with arson and terrorism in the fire that devastated the building last week. 
  <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
@@ -202,7 +202,9 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/senators-feds-jan-6-riot-probe-526899">Senators grill feds over Jan. 6 riot probe</a> Politico: Democrats challenged prosecutors for not seeking terrorism-related sentences, while Republicans often steered away from the insurrection altogether. 
  <p class="updated_time"> 02:44 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/faa-west-coast-flights-north-korea-526894">FAA briefly halted West Coast flights amid North Korean missile scare</a> Politico: Exchanges between pilots and air traffic controllers that cropped up on social media late Monday suggested landings were off limits in portions of California and Oregon. 
- <p class="updated_time"> 02:28 PM CT, Jan. 11 </p> 
+ <p class="updated_time"> 02:37 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/ron-desantis-state-of-the-state/index.html">DeSantis draws contrast with federal government and Democratic-led states in State of the State address </a> CNN: Painting himself and his state as the antidote to closed schools, government mandates and Big Tech overreach, Florida Gov. Ron DeSantis on Tuesday delivered an election-year State of the State speech that emphasized the deepening divide between Republican and Democratic leadership during the pandemic. 
+ <p class="updated_time"> 02:36 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, the president will express support for altering rules around the Senate filibuster, setting up a confrontation with Republicans. 
  <p class="updated_time"> 02:21 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/stephen-breyer/index.html">Breyer phoned in to Supreme Court oral arguments Tuesday due to a false positive Covid test</a> CNN: Justice Stephen Breyer participated in oral arguments remotely on Tuesday after a "false positive" Covid-19 test, the Supreme Court announced. 
@@ -356,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/09/ron-johnson-reelection-senate-wisconsin-526804">Ron Johnson to seek reelection to Senate</a> Politico: The Wisconsin Republican announced his decision in a Wall Street Journal column. 
  <p class="updated_time"> 09:08 AM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/michelle-obama-2022-elections-fight-for-vote/index.html">Michelle Obama wades into 2022 midterm elections with urgent message on voting</a> CNN: Former first lady Michelle Obama has a message for Americans ahead of the 2022 midterm elections: "We've got to vote like the future of our democracy depends on it." 
- <p class="updated_time"> 09:07 AM CT, Jan. 09 </p> 
- <a href="https://www.cnn.com/2022/01/09/politics/biden-student-loan-for-profit-college/index.html">Why Biden's student loan relief efforts haven't yet reversed a DeVos decision on for-profit colleges</a> CNN: The Biden administration has pledged to make college more affordable. But it has chosen not to reinstate an Obama-era rule meant to prevent students from taking on too much debt to attend predatory for-profit colleges. 
  <p class="updated_time"> 08:32 AM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071391935/wisconsin-republican-sen-ron-johnson-is-running-for-reelection">Wisconsin Republican Sen. Ron Johnson is running for reelection</a> NPR: The controversial Republican said he will seek a third term, in what is expected to be a hotly contested race that could determine which party controls the Senate. 
  <p class="updated_time"> 07:26 AM CT, Jan. 09 </p> 
