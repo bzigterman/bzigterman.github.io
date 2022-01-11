@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:06 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/world/europe/russia-putin-mystery-ukraine.html">Putin’s Next Move on Ukraine Is a Mystery. Just the Way He Likes It.</a> NYT: The contradictory, sometimes menacing messages from the Kremlin have stumped Western officials and Russia experts, showing the Russian leader’s desire to keep his rivals on edge. 
  <p class="updated_time"> 03:40 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/kazakhstan-russia-troops.html">Kazakhstan Says Russian Troops Can Start Leaving This Week</a> NYT: Kazakhstan’s president says violence has been quelled, so there is no longer need for the foreign troops he asked to help. Russia has not given a timeline for withdrawing. 
  <p class="updated_time"> 03:09 PM CT, Jan. 11 </p> 
@@ -196,12 +198,26 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:56 PM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/powell-congress-inflation-jobs-526911">Powell's warning to Congress: Inflation a ‘severe threat’ to jobs</a> Politico: The potential clash over the Fed's plans to tighten monetary policy could be a harbinger of conflicts to come with Democrats and even some Republicans. 
+ <p class="updated_time"> 04:54 PM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/jan-6-panel-subpoenas-trump-jr-aides-trump-speechwriter-526916">Jan. 6 panel subpoenas Trump Jr. aides, Trump speechwriter</a> Politico: The subpoenas for Andrew Surabian, Arthur Schwartz and Ross Worthington indicate investigators are inching ever closer to the Trump family. 
  <p class="updated_time"> 04:34 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/chicago-mayor-lori-lightfoot-contracts-covid-526907">Chicago mayor tests positive for Covid a day after announcing school reopening deal</a> Politico: The news came about 17 hours after Lightfoot announced she and the Chicago Teachers Union ended a tense standoff over the safety of children and staff returning to school amid the Omicron surge. 
  <p class="updated_time"> 04:33 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/anthony-fauci-gop-senators-financial-disclosure-526891">'What a moron': Fauci argues with GOP senator over financial disclosures</a> Politico: In response to Roger Marshall’s questioning, the NIAID director and top White House medical adviser said his disclosures had been “public knowledge” for over 30 years. 
  <p class="updated_time"> 04:29 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/jan-6-mike-pence-gop-lawmakers-526906">Jan. 6 investigators near decisions on how to pursue Mike Pence and GOP lawmakers</a> Politico: Chair Bennie Thompson said Tuesday both matters are high on the committee’s to-do list. 
+ <p class="updated_time"> 04:01 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072183452/fed-chair-jerome-powell-takes-questions-from-senate-committee-in-confirmation-he">Fed chair Jerome Powell takes questions from Senate committee in confirmation hearing</a> NPR: Federal Reserve chairman Jerome Powell appeared before the Senate Banking Committee, which is considering his nomination for a second term. The central bank is under pressure to confront inflation. 
+ <p class="updated_time"> 04:01 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072183445/democrats-are-outraged-over-how-florida-gov-desantis-has-handled-covid-testing">Democrats are outraged over how Florida Gov. DeSantis' has handled COVID testing</a> NPR: Democrats are scolding Florida Gov. Ron DeSantis for low test availability after his administration let nearly a million rapid COVID tests to expire. He now says there's too much unnecessary testing. 
+ <p class="updated_time"> 03:59 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, the president advocated ‘getting rid of the filibuster,’ setting up a confrontation with Republicans. 
+ <p class="updated_time"> 03:57 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/rand-paul-fauci-covid.html">Fauci Says Senator Rand Paul Is Fueling Threats Against Him</a> NYT: Senator Rand Paul accused Dr. Anthony Fauci of trying to undermine scientists who disagreed with him. Dr. Fauci denied the allegation and accused Republicans of feeding attacks against him. 
+ <p class="updated_time"> 03:54 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/harry-reid.html">Harry Reid: From Capitol Cop to Powerhouse Senate Leader</a> NYT: Mr. Reid, who will lie in state on Wednesday in the Rotunda, charted a unique path to power and knew how to exercise it. 
  <p class="updated_time"> 03:42 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden calls on Senate to change filibuster rules for voting rights as he turns up the heat on Congress to pass major bills</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
@@ -210,14 +226,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1072183418/senate-democrats-cant-agree-on-bidens-push-to-pass-voting-rights-legislation">Senate Democrats can't agree on Biden's push to pass voting rights legislation</a> NPR: President Biden called for changes to Senate rules in an effort to pass voting rights legislation. Among the challenges to his effort is a lack of unity among Senate Democrats to making those changes. 
  <p class="updated_time"> 03:28 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/senators-feds-jan-6-riot-probe-526899">Senators grill feds over Jan. 6 riot probe</a> Politico: Democrats challenged prosecutors for not seeking terrorism-related sentences, while Republicans often steered away from the insurrection altogether. 
- <p class="updated_time"> 03:25 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/harry-reid.html">Harry Reid: From Capitol Cop to Powerhouse Senate Leader</a> NYT: Mr. Reid, who will lie in state on Wednesday in the Rotunda, charted a unique path to power and knew how to exercise it. 
  <p class="updated_time"> 03:21 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/supreme-court-immigrants-bail-hearings.html">Supreme Court Weighs Jailed Immigrants’ Rights to Bail Hearings</a> NYT: Lawyers for the federal government said immigrants detained for months while they fight deportation are not entitled to seek release from immigration judges. 
  <p class="updated_time"> 03:08 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/mary-trump-lawsuit/index.html">Lawyers for Trump and niece Mary Trump spar over lawsuit alleging she was defrauded in family settlement</a> CNN: Lawyers for former President Donald Trump and his niece Mary Trump sparred in court Tuesday over whether her lawsuit alleging she was defrauded of millions of dollars in a 2001 family settlement could move forward. 
- <p class="updated_time"> 03:03 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, the president will express support for altering rules around the Senate filibuster, setting up a confrontation with Republicans. 
  <p class="updated_time"> 03:02 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/business/powell-confirmation-hearing.html"> Jerome Powell Says Fed Is Prepared to Raise Rates to Tame Inflation</a> NYT: The Federal Reserve chair testified before lawmakers while seeking Senate confirmation to a second term. 
  <p class="updated_time"> 02:44 PM CT, Jan. 11 </p> 
@@ -330,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/federal-reserve-vice-chair-resigns-ethics-scandal-526849">Fed’s No. 2 official resigns amid trading scandal</a> Politico: Federal Reserve Vice Chair Richard Clarida quietly admitted last month that he had failed to fully disclose financial trades in February 2020. 
  <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071896965/voting-rights-groups-speak-out-ahead-of-biden-and-harris-trip-to-georgia">Voting rights groups speak out ahead of Biden and Harris' trip to Georgia</a> NPR: Nsé Ufot, CEO of the New Georgia Project, speaks with NPR's Ailsa Chang about her view of Democrats' voting rights efforts ahead of the president and vice president's visit to Georgia this week. 
- <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
- <a href="https://www.npr.org/2022/01/10/1071896958/white-house-adviser-discusses-u-s-coronavirus-testing-shortages">White House adviser discusses U.S. coronavirus testing shortages</a> NPR: New White House testing adviser Dr. Tom Inglesby talks to NPR's Ari Shapiro about COVID testing shortages in the U.S. and the Biden administration's efforts to increase access, including at-home kits. 
  <p class="updated_time"> 03:00 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/trump-immunity-jan-6-526839">Judge mulls whether Trump’s silence on Jan. 6 could amount to ‘agreement’ with rioters</a> Politico: During a hearing on civil lawsuits stemming from the Capitol attack, Donald Trump’s lawyers claimed sweeping immunity for the former president. 
  <p class="updated_time"> 02:57 PM CT, Jan. 10 </p> 
@@ -348,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/10/biden-faces-his-moment-on-the-filibuster-495658"> Biden faces his moment on the filibuster</a> Politico Playbook: And the Senate GOP plans a filibuster messaging push. 
  <p class="updated_time"> 04:30 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/jan-6-committee-ramps-up-state-level-investigation-526752">Jan. 6 panel ramps up investigation into Trump's state-level pressure</a> Politico: POLITICO has identified the information the committee has received from key swing states, as lawmakers prepare to take their findings public. 
- <p class="updated_time"> 04:00 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/manchin-coal-miners.html">Manchin’s Choice on Build Back Better: Mine Workers or Mine Owners</a> NYT: Senator Joe Manchin III is caught between the mine workers’ union, which supports President Biden’s social policy and climate bill, and mine owners in his state who oppose it. 
  <p class="updated_time"> 09:05 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/jim-jordan-jan-6-committees-interview-request-526816">Rep. Jim Jordan says he won’t cooperate with Jan. 6 committee’s interview request</a> Politico: HIs decision follows a similar rejection by Rep. Scott Perry, the only other lawmaker whose testimony the panel has requested so far. 
  <p class="updated_time"> 11:17 AM CT, Jan. 09 </p> 
@@ -362,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/09/politics/michelle-obama-2022-elections-fight-for-vote/index.html">Michelle Obama wades into 2022 midterm elections with urgent message on voting</a> CNN: Former first lady Michelle Obama has a message for Americans ahead of the 2022 midterm elections: "We've got to vote like the future of our democracy depends on it." 
  <p class="updated_time"> 09:07 AM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/biden-student-loan-for-profit-college/index.html">Why Biden's student loan relief efforts haven't yet reversed a DeVos decision on for-profit colleges</a> CNN: The Biden administration has pledged to make college more affordable. But it has chosen not to reinstate an Obama-era rule meant to prevent students from taking on too much debt to attend predatory for-profit colleges. 
- <p class="updated_time"> 08:32 AM CT, Jan. 09 </p> 
- <a href="https://www.npr.org/2022/01/09/1071391935/wisconsin-republican-sen-ron-johnson-is-running-for-reelection">Wisconsin Republican Sen. Ron Johnson is running for reelection</a> NPR: The controversial Republican said he will seek a third term, in what is expected to be a hotly contested race that could determine which party controls the Senate. 
  <p class="updated_time"> 07:00 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/joe-biden-takes-on-georgia-voting-526801">‘We are going right to the belly of the beast’: Biden takes on Georgia</a> Politico: Fresh off his Jan. 6 anniversary speech, the president and his top aides are trying to keep up the momentum for some legislative remedy. 
  <p class="updated_time"> 05:19 PM CT, Jan. 08 </p> 
@@ -374,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/08/civil-rights-leaders-see-a-turning-point-for-biden-495650"> Civil rights leaders see a turning point for Biden</a> Politico Playbook: And the Jan. 6 committee considers asking Mike Pence for an interview. 
  <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
- <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
