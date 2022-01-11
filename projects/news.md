@@ -7,24 +7,42 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:38 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59943374?at_medium=RSS&at_campaign=KARANGA">New York fire: Officials pledge support after 17 die in 'unspeakable tragedy'</a> BBC: There were eight children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
+ <p class="updated_time"> 06:28 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/europe/russia-us-ukraine-talks.html">In Talks on Ukraine, U.S. and Russia Deadlock Over NATO Expansion</a> NYT: Both sides expressed some optimism after negotiations in Geneva, but did not break an impasse over Russia’s demand that Ukraine never become a member of NATO. 
+ <p class="updated_time"> 06:26 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/asia/north-korea-ballistic-missile-south-korea.html">North Korea Launches 2nd Ballistic Missile in a Week, South Korea Says</a> NYT: The launch came as the U.N. Security Council met to discuss the country’s growing weapons threat. 
+ <p class="updated_time"> 06:21 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59920978?at_medium=RSS&at_campaign=KARANGA">#NoSpendJanuary: Can it really be done?</a> BBC: Every year, the hashtag #nospendjanuary is seen on social media - but how literally do people take it? 
+ <p class="updated_time"> 06:17 PM CT, Jan. 10 </p> 
+ <a href="https://www.npr.org/2022/01/10/1071915924/speed-skater-erin-jackson-lost-a-chance-at-gold-until-her-teammate-stepped-in">Speed skater Erin Jackson lost a chance at gold — until her teammate stepped in</a> NPR: Speed skater Brittany Bowe relinquished her spot on the U.S. Olympic team for the 500 meter speed skating event to give her teammate, Jackson, a shot at gold. 
+ <p class="updated_time"> 06:14 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59862548?at_medium=RSS&at_campaign=KARANGA">How old Ugandan negatives are bringing families back to life</a> BBC: The restored archive of a rural Ugandan photographer is helping people reconnect with their past. 
+ <p class="updated_time"> 06:08 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59942993?at_medium=RSS&at_campaign=KARANGA">Afghanistan's cold and bitter hunger</a> BBC: The UN has called for urgent aid as a million Afghan children are are at risk from severe malnourishment. 
+ <p class="updated_time"> 06:02 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
+ <p class="updated_time"> 05:55 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/russia-ukraine-helicopters.html">Russia Positioning Helicopters, in Possible Sign of Ukraine Plans</a> NYT: The step, which could be an indication that planning for an attack continues, comes as the number of Russian troops at the border has remained steady in recent weeks, despite U.S. expectations of a surge. 
  <p class="updated_time"> 05:45 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
+ <p class="updated_time"> 05:41 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59944701?at_medium=RSS&at_campaign=KARANGA">Djokovic saga damaging, says tennis governing body</a> BBC: The controversy over Novak Djokovic's visa to enter Australia has been "damaging on all fronts", says the ATP. 
+ <p class="updated_time"> 05:37 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59914729?at_medium=RSS&at_campaign=KARANGA">Antarctica: Invasive species 'hitchhiking' on ships</a> BBC: Ships travelling to Antarctica could bring invasive species to the ocean’s last pristine ecosystem. 
  <p class="updated_time"> 05:32 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/europe/grichka-and-igor-bogdanoff-dead.html">Grichka and Igor Bogdanoff, Twins in an Uneasy Spotlight, Die at 72</a> NYT: In France they were science-loving TV celebrities (molded by plastic surgery) whose own research was suspect, maybe a hoax. They died within days of each other. 
  <p class="updated_time"> 05:20 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59944634?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… Novak Djokovic’s Australia visa victory</a> BBC: The world number one made it onto a tennis court in Melbourne, but he could still be deported. 
- <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
  <p class="updated_time"> 05:06 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
  <p class="updated_time"> 05:00 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
  <p class="updated_time"> 04:55 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59944889?at_medium=RSS&at_campaign=KARANGA">Man gets genetically-modified pig heart in world-first transplant</a> BBC: David Bennett, 57, is doing well three days after surgery, doctors in Baltimore, Maryland, say. 
- <p class="updated_time"> 04:46 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks">Live Updates: Russia Plays Down Threat to Ukraine After Meetings with U.S.</a> NYT: After nearly eight hours of intense talks, the U.S. pushed back on demands it said were “non-starters,” while Russia said there was no reason to fear an escalation of tensions with Ukraine. 
  <p class="updated_time"> 04:24 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in talks with US</a> BBC: Russian officials tell their US counterparts that they have no plans to invade neighbouring Ukraine. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59945170?at_medium=RSS&at_campaign=KARANGA">Russia downplays threat to Ukraine in talks with US</a> BBC: Russian officials downplay the threat to Ukraine during high-stakes talks with the US in Geneva. 
  <p class="updated_time"> 04:12 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59946362?at_medium=RSS&at_campaign=KARANGA">Near-miss for pilot saved from downed plane hit by train</a> BBC: Dramatic video shows the rescue, moments before collision, after a plane landed on train tracks. 
  <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
@@ -43,8 +61,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/europe/cladding-grenfell-uk.html">Britain Puts Onus on Developers to Pay to Fix Fire Safety Issues</a> NYT: After a deadly high-rise blaze in 2017, countless instances of unsafe building practices came to light. The latest plan to fix them expands who will be covered. 
  <p class="updated_time"> 01:22 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/rum-isle-scotland-hebrides.html">As Its Population Soars to 40, Rum Isle Glimpses a Future in the Mist</a> NYT: With four new families recently arriving, the remote and rainy island in the Hebrides is experiencing its version of a population surge, although residents new and old concede living here isn’t easy. 
- <p class="updated_time"> 12:58 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59943374?at_medium=RSS&at_campaign=KARANGA">New York fire: Officials pledge support after 17 die in 'unspeakable tragedy'</a> BBC: There were eight children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
+ <p class="updated_time"> 12:59 PM CT, Jan. 10 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-launches-unidentified-projectile-off-its-east-coast-south-korea-says-11641859154">North Korea Launches Unidentified Projectile, South Korea Says</a> WSJ: The weapons test off the country’s east coast is Pyongyang’s second of this year, following a ballistic missile launch last week. 
+ <p class="updated_time"> 12:56 PM CT, Jan. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia Talks Yield Little Overall Progress Amid Ukraine Crisis</a> WSJ: Negotiators for Washington and Moscow held their first security talks since Russia’s deployment of tens of thousands of troops to the Ukrainian border sparked fears of an invasion, but said they failed to narrow their differences. 
  <p class="updated_time"> 11:56 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: Australian officials hinted they may make a new attempt to cancel Djokovic’s visa, even as the tennis champion, freed from detention, returned to the court. 
  <p class="updated_time"> 11:55 AM CT, Jan. 10 </p> 
@@ -53,10 +73,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59935998?at_medium=RSS&at_campaign=KARANGA">Covid pass protesters attack French MP Stéphane Claireaux with seaweed</a> BBC: Stéphane Claireaux likens the attack near his home in a French part of North America to a "stoning". 
  <p class="updated_time"> 11:45 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/white-cliffs-sicily-vandalism.html">Famed White Cliffs of Sicily Are Defaced in an Act of Vandalism</a> NYT: Vandals stained a cliff formation known as the Staircase of the Turks with red splotches over the weekend. Residents of a nearby town banded together for a successful cleanup. 
- <p class="updated_time"> 11:43 AM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia Talks Yield Little Overall Progress Amid Ukraine Crisis</a> WSJ: Negotiators for Washington and Moscow held their first security talks since Russia’s deployment of tens of thousands of troops to the Ukrainian border sparked fears of an invasion, but said they failed to narrow their differences. 
- <p class="updated_time"> 11:21 AM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/queen-elizabeths-platinum-jubilee-britain-plans-pomp-pudding-and-parties-11641819047">Queen Elizabeth's Platinum Jubilee: Britain Plans Pomp, 'Pudding' and Parties</a> WSJ: Buckingham Palace is pulling out the stops to celebrate the British monarch’s 70 years on the throne, with a bumper program of events and a four-day public holiday. 
+ <p class="updated_time"> 11:22 AM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59939507?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: How tennis player won visa row court case</a> BBC: Australia's legal defence collapsed on the evidence of the tennis player's treatment at the airport. 
  <p class="updated_time"> 09:53 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59939536?at_medium=RSS&at_campaign=KARANGA">Tesla adds chill and assertive self-driving modes</a> BBC: An update to Tesla cars adds a mode to follow other cars more closely and to slow rather than stop. 
  <p class="updated_time"> 09:29 AM CT, Jan. 10 </p> 
@@ -69,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/asia/india-masks-omicron.html">In India, Mask Wearing Is Down Despite Rising Coronavirus Cases</a> NYT: Health officials are finding it harder to impose regulations despite signs that Omicron is beginning to take hold. 
  <p class="updated_time"> 08:54 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-59936822?at_medium=RSS&at_campaign=KARANGA">Djokovic's brother: We fight for truth and justice</a> BBC: Djordje Djokovic, speaks about supporting the tennis star during his detention in Australia. 
- <p class="updated_time"> 08:31 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59938953?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic 'focused' on Australian Open</a> BBC: The men's world number one says he wants to compete in next week's tournament after a court overturned his visa cancellation. 
  <p class="updated_time"> 08:30 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/asia/f-sionil-jose-dead.html">F. Sionil Jose, 97, Novelist Who Saw Heroism in Ordinary Filipinos, Dies</a> NYT: Mr. Jose’s writing, rich in themes drawn from his rural upbringing, amounted to a continuing morality play about poverty and class divisions in the Philippines. 
  <p class="updated_time"> 08:23 AM CT, Jan. 10 </p> 
@@ -87,10 +103,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/10/1070854970/in-wahala-intimacy-at-times-morphs-into-enmity">In 'Wahala,' intimacy at times morphs into enmity</a> NPR: Nikki May's novel captures issues of modern city living: women's evolving roles in home and work, interracial relationships, multicultural identity, and competition that runs under many friendship. 
  <p class="updated_time"> 06:26 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071785531/on-covid-vaccinations-pope-says-health-care-is-a-moral-obligation">On COVID vaccinations, Pope says health care is a 'moral obligation'</a> NPR: Francis says individuals have a responsibility to care for themselves "and this translates into respect for the health of those around us." 
- <p class="updated_time"> 06:00 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59915690?at_medium=RSS&at_campaign=KARANGA">Past seven years hottest on record - EU satellite data</a> BBC: Analysis shows 2021 was the fifth-warmest with record-breaking temperatures in some regions. 
- <p class="updated_time"> 06:00 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59900738?at_medium=RSS&at_campaign=KARANGA">Kazakhstan unrest was coup attempt, says president</a> BBC: President Tokayev says a hunt for "terrorists" is continuing and Kazakhstan will soon provide proof. 
  <p class="updated_time"> 04:21 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59937221?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic supporters surround car in Melbourne</a> BBC: Crowds chanting "free Novak" surround a black car leaving the offices of the player's lawyer. 
  <p class="updated_time"> 03:13 AM CT, Jan. 10 </p> 
@@ -157,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/asia/australia-djokovic-refugees-hotel.html">Djokovic Stay at Park Hotel Highlights Australia Asylum Seeker Plight</a> NYT: The tennis star is quarantining in a Melbourne hotel where asylum seekers have been held for over a year, under a program that has been widely criticized. 
  <p class="updated_time"> 12:08 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/business/teslas-computer-chips-supply-chain.html">Why Tesla Soared as Other Automakers Struggled to Make Cars</a> NYT: The yawning disparity between the performance of the electric car company and established automakers last year reflects the technological change roiling the industry. 
- <p class="updated_time"> 11:09 AM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/2022/01/08/1071565479/turkmenistan-gates-of-hell-fire">Turkmenistan's leader wants 'Gates of Hell' fire put out</a> NPR: The president of Turkmenistan is calling for an end to one of the country's most notable but infernal sights — a natural gas crater that has burned for decades. 
  <p class="updated_time"> 09:30 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/kazakhstan-protests-karim-masimov-arrest.html">Kazakhstan Arrests Karim Masimov, Ex-Intelligence Chief, on Suspicion of Treason</a> NYT: The president had dismissed the intelligence chief, Karim Masimov, this week amid violence that may be tied, at least in part, to political infighting. 
  <p class="updated_time"> 08:23 AM CT, Jan. 08 </p> 
@@ -175,22 +185,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/sports/olympics/alysa-liu-coronavirus.html">Alysa Liu Will Miss National Championships After Positive Coronavirus Test</a> NYT: The teenager had hoped a strong showing would secure her a spot on the U.S. team for the Beijing Winter Olympics next month. 
  <p class="updated_time"> 07:21 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/canada/montreal-cancun-party-flight.html">Airlines Strand Passengers Who Partied on Flight Without Masks</a> NYT: A group of Canadian social media influencers and others flouted Covid-19 rules on a flight to Cancún, Mexico, resulting in airlines leaving many of them without a way home. 
- <p class="updated_time"> 06:54 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59833120?at_medium=RSS&at_campaign=KARANGA">Families seek justice for Iran plane crash victims</a> BBC: Two years on, the families of downed flight PS752 victims are left without answers. 
- <p class="updated_time"> 06:00 PM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59898362?at_medium=RSS&at_campaign=KARANGA">How KFC in Kenya got fried over its chip shortage</a> BBC: Kenyans called for a KFC boycott after it was discovered that its fries were imported from Egypt. 
  <p class="updated_time"> 04:54 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/africa/jawar-mohammed-release-ethiopia.html">Jawar Mohammed to Be Released From Prison by Ethiopian President</a> NYT: Prime Minister Abiy Ahmed declared the amnesty on Orthodox Christmas and offered to start a dialogue with some opponents after 14 months of war. 
- <p class="updated_time"> 04:25 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/rochelle-walensky-cdc-covid-guidance.html">C.D.C Director Defends Covid-19 Isolation Guidance</a> NYT: Dr. Rochelle P. Walensky held the agency’s first independent news briefing since the Trump White House ended them nearly two years ago. 
- <p class="updated_time"> 02:58 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/europe/nato-russia-ukraine.html">NATO Vows United Response to Russian Aggression Against Ukraine</a> NYT: Foreign ministers from the alliance, meeting Friday, hope that Moscow will choose diplomacy and de-escalation instead, amid skepticism that Russia is sincere in wanting substantive talks. 
  <p class="updated_time"> 02:07 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/covid-flight-italy-india.html">Covid Tests Probed After 100s on 2 Italy-India Flights Test Positive </a> NYT: Some 300 passengers on two flights who tested positive for the coronavirus upon landing in the northern city of Amritsar are being retested. 
- <p class="updated_time"> 12:43 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/us/politics/spyware-warning-cybersecurity.html">Biden Administration Warns Against Spyware Targeting Dissidents</a> NYT: The U.S. intelligence community offered steps that would mitigate — but not stop — spyware developed by firms like the NSO Group. 
- <p class="updated_time"> 10:04 AM CT, Jan. 07 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-27198480?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier: The actor who broke down Hollywood's racial barriers</a> BBC: Sidney Poitier, the actor and director who helped break down Hollywood's racial barriers, dies aged 94. 
 
 
 </details>
@@ -198,24 +196,44 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:10 PM CT, Jan. 10 </p> 
+ <a href="https://www.politico.com/news/2022/01/10/democrats-filibuster-vote-526863">Dems' filibuster conundrum: It's not just Manchin and Sinema</a> Politico: Mark Kelly is undecided. Jon Tester likes a talking filibuster but is “not crazy” about making an exception for elections reform. And Jeanne Shaheen is promoting more modest changes. 
+ <p class="updated_time"> 07:09 PM CT, Jan. 10 </p> 
+ <a href="https://www.politico.com/news/2022/01/10/biden-administration-hill-democrats-russia-sanctions-526864">Biden administration hits the Hill to lobby Dems against GOP-backed Russia sanctions</a> Politico: But some centrists left the room noncommittal on Sen. Ted Cruz's push to block a gas pipeline that would benefit Moscow. 
+ <p class="updated_time"> 06:58 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/maya-angelou-quarter-issued/index.html">Maya Angelou becomes first Black woman to appear on US quarter as Treasury begins distribution</a> CNN: A new US quarter featuring the late Maya Angelou went into circulation Monday, the US Mint announced, making the legendary poet and activist the first Black woman ever to appear on the coin. 
+ <p class="updated_time"> 06:50 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-transfer-somali-detainee.html">Guantánamo Panel Approves Transfer of First High-Value Detainee</a> NYT: Guled Duran, a Somali, has been held in classified facilities since the C.I.A. took custody of him in 2004. He has never been charged with a crime. 
+ <p class="updated_time"> 06:46 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/biden-stacey-abrams-voting-rights.html">Voting Rights Groups Skipping Biden's Speech Over Inaction</a> NYT: Several voting rights groups won’t be at the Georgia event, protesting what they called months of inaction. Ms. Abrams, the Democratic candidate for governor, cited a scheduling conflict. 
+ <p class="updated_time"> 06:43 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
+ <p class="updated_time"> 06:27 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/insurance-covid-tests.html">Insurers Will Have to Cover 8 At-Home Virus Tests Per Month</a> NYT: The Biden administration announced the new guidelines as it continued to work to get coronavirus tests to people regardless of their insurance status. 
+ <p class="updated_time"> 06:16 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/democratic-voters-demographics.html">Democrats Go Hunting For Missing Voters</a> NYT: Some strategists say the party needs a “radical departure” from its longstanding reliance on demographic changes to give Democrats a stable hold on political power. 
+ <p class="updated_time"> 06:16 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/clay-aiken-congress-north-carolina/index.html">Ex-'American Idol' star Clay Aiken announces bid for Congress</a> CNN: Clay Aiken, widely known for his stint on "American Idol," announced Monday that he's launching another bid for Congress in North Carolina. 
+ <p class="updated_time"> 06:08 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/rachael-rollins-us-attorney-massachusetts-threats/index.html">Barrier-breaking Black prosecutor faces deadly racist threats</a> CNN: The first Black woman to lead the US Attorney's Office for Massachusetts was sworn in Monday as she faces an uptick in threats against her following a contentious confirmation process. 
+ <p class="updated_time"> 05:55 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/russia-ukraine-helicopters.html">Russia Positioning Helicopters, in Possible Sign of Ukraine Plans</a> NYT: The step, which could be an indication that planning for an attack continues, comes as the number of Russian troops at the border has remained steady in recent weeks, despite U.S. expectations of a surge. 
  <p class="updated_time"> 05:52 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/kevin-mccarthy-committees-republican-house-majority/index.html">McCarthy vows to remove Democrats from committees if Republicans win House</a> CNN: House Minority Leader Kevin McCarthy has vowed to remove three Democratic lawmakers from key committee assignments if Republicans win back the chamber in the upcoming midterm elections. 
  <p class="updated_time"> 05:48 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/business/economy/richard-clarida-fed-resign.html">Richard Clarida Is Resigning From the Fed Early After New Questions on Trades</a> NYT: Richard Clarida, the vice chair of the Federal Reserve, will leave on Friday, two weeks ahead of schedule. Updated disclosures showed rapid moves out of and back into stocks as the central bank prepared to reassure markets. 
- <p class="updated_time"> 05:48 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/clay-aiken-congress-north-carolina/index.html">Ex-'American Idol' star Clay Aiken announces bid for Congress</a> CNN: Clay Aiken, widely known for his stint on "American Idol," announced Monday that he's launching another bid for Congress in North Carolina. 
  <p class="updated_time"> 05:27 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/mike-pence-jan-6-testimony.html">Mike Pence Seen as Key Witness in Jan. 6 Investigation</a> NYT: Getting the former vice president to answer questions under oath could be crucial as the House panel focuses on Donald Trump’s responsibility for the Capitol riot. 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/mike-pence-jan-6-testimony.html">Pence and Jan. 6 Committee Engage in High-Stakes Dance Over Testimony</a> NYT: Getting the former vice president to answer questions under oath could be crucial as the House panel focuses on Donald Trump’s responsibility for the Capitol riot. 
  <p class="updated_time"> 05:24 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/10/1071899471/insurance-at-home-covid-tests-white-house">How to get insurance to pay for at-home COVID tests, according to the White House</a> NPR: The Biden administration says Americans should be able to order COVID tests online later this month. Those who are eligible can get eight free over-the-counter at-home tests a month. 
  <p class="updated_time"> 05:21 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/nord-stream-pipeline-democrats-reaction-cruz/index.html">Democrats scramble to sink Cruz's plan to impose sanctions over Nord Stream pipeline </a> CNN: Top Senate Democrats and the Biden administration are maneuvering behind the scenes to defeat a measure from GOP Sen. Ted Cruz of Texas that would impose sanctions on businesses associated with a major pipeline from Russia to Germany, aiming to shore up Democratic unity amid high-level US talks with Russia. 
  <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-at-home-covid-tests-reimbursement-526853">Biden administration lays out rules for reimbursing at-home Covid tests</a> Politico: Under the plan, private insurers can set up programs at preferred pharmacies or retailers where the upfront cost of home tests is covered for beneficiaries. 
+ <p class="updated_time"> 05:06 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/january-6-four-defendants-plead-guilty/index.html">Four more US Capitol rioters plead guilty</a> CNN: Four people pleaded guilty to charges stemming from the January 6, 2021, US Capitol riot, adding to the ever-growing number of defendants who have accepted responsibility for their part in the attack. 
  <p class="updated_time"> 05:02 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/joe-biden-voting-rights/index.html">Pressure grows on Biden to deliver meaningful voter protections</a> CNN: Pressure is intensifying on President Joe Biden to articulate a plan to enact meaningful voter protections as a counter to strict new voting laws going into place around the nation after warning for the past year of nascent dangers to democracy. 
- <p class="updated_time"> 04:50 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/trump-civil-liability-insurrection-court-hearing/index.html">Trump's potential liability for Capitol riot faces major test in court</a> CNN: A federal judge in Washington, DC, is set to consider, for the first time, whether former President Donald Trump is immune from liability related to his supporters attacking the US Capitol on January 6, 2021. 
  <p class="updated_time"> 04:49 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/business/income-tax-day-deadline.html">The I.R.S. Warns of Messy Tax Filing Season</a> NYT: The agency, which has been hobbled by paperwork backlogs and short staffing, said tax filers should expect a lower level of service this year. 
  <p class="updated_time"> 04:23 PM CT, Jan. 10 </p> 
@@ -226,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/federal-reserve-vice-chair-resigns-ethics-scandal-526849">Fed’s No. 2 official resigns amid trading scandal</a> Politico: Federal Reserve Vice Chair Richard Clarida quietly admitted last month that he had failed to fully disclose financial trades in February 2020. 
  <p class="updated_time"> 04:07 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/refugee-united-states/index.html">Refugee admissions to the US will restart this week after temporary freeze </a> CNN: Refugee admissions to the United States will restart this week, a State Department spokesperson told CNN, following a temporary freeze put in place late last year to focus on the resettlement of Afghan evacuees. 
- <p class="updated_time"> 03:56 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/maya-angelou-quarter-issued/index.html">Maya Angelou becomes first Black woman to appear on US quarter as Treasury begins distribution</a> CNN: A new US quarter featuring the late Maya Angelou went into circulation Monday, the US Mint announced, making the legendary poet and activist the first Black woman ever to appear on the coin. 
  <p class="updated_time"> 03:34 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/steve-sweeney-new-jersey-senate-526776">His election loss stunned Democrats. Now he might run for governor.</a> Politico: New Jersey Democrat Steve Sweeney is pushing big bills in final days, opening up a think tank and telling power players he’s going to run for governor in 2025. 
  <p class="updated_time"> 03:29 PM CT, Jan. 10 </p> 
@@ -276,12 +292,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/10/politics/us-fossil-fuel-emissions-coal-increased-2021-climate/index.html">Planet-warming emissions rebounded faster in the US than expected in 2021, analysts say</a> CNN: In a troublesome sign for President Joe Biden's climate goals, US greenhouse emissions rebounded from a pandemic slump faster in 2021 than the overall economy, according to a preliminary analysis by the nonpartisan Rhodium Group. 
  <p class="updated_time"> 04:30 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/jan-6-committee-ramps-up-state-level-investigation-526752">Jan. 6 panel ramps up investigation into Trump's state-level pressure</a> Politico: POLITICO has identified the information the committee has received from key swing states, as lawmakers prepare to take their findings public. 
- <p class="updated_time"> 04:30 AM CT, Jan. 10 </p> 
- <a href="https://www.politico.com/news/2022/01/10/fed-chief-powell-economy-challenge-526783">Fed’s Powell pumped trillions into the economy. Now, he may be the party killer.</a> Politico: Heightened frustration among Americans about soaring prices is fueling congressional pressure on the Fed chief over how the Fed will respond. 
  <p class="updated_time"> 04:00 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/manchin-coal-miners.html">Manchin’s Choice on Build Back Better: Mine Workers or Mine Owners</a> NYT: Senator Joe Manchin III is caught between the mine workers’ union, which supports President Biden’s social policy and climate bill, and mine owners in his state who oppose it. 
- <p class="updated_time"> 11:18 PM CT, Jan. 09 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/joe-biden-voting-rights-democracy-russia-diplomacy/index.html">Biden confronts challenges to democracy at home and abroad this week</a> CNN: President Joe Biden's fresh vow to save democracy faces an immediate test at home and abroad this week, with a long-shot voting rights push and the most critical US diplomacy with Russia since the Cold War. 
  <p class="updated_time"> 10:51 PM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/jim-jordan-house-january-6-commitee/index.html">Rep. Jim Jordan indicates he won't meet with January 6 committee</a> CNN: Republican Rep. Jim Jordan of Ohio indicated he doesn't plan to cooperate with a request to meet to meet with the House select committee investigating January 6, according to a defiant letter he sent to committee Chair Bennie Thompson on Sunday. 
  <p class="updated_time"> 09:05 PM CT, Jan. 09 </p> 
@@ -290,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/us/politics/jim-jordan-jan-6-panel.html">Jim Jordan Refuses to Cooperate With Jan. 6 Panel</a> NYT: The Republican congressman from Ohio, a close ally of former President Donald Trump’s, denounced the House investigation of the Capitol riot as one of the Democrats’ “partisan witch hunts.” 
  <p class="updated_time"> 06:22 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/new-york-city-apartment-fire-526811">19 dead, including 9 children, in New York City apartment fire</a> Politico: “It’s a tragedy beyond measure,” Mayor Eric Adams said. 
- <p class="updated_time"> 04:58 PM CT, Jan. 09 </p> 
- <a href="https://www.cnn.com/2022/01/09/politics/joe-manchin-biden-build-back-better/index.html">Analysis: Is there a version of Biden's economic plan Manchin can support?</a> CNN: In 2009, Senate Democrats spent months courting Republican Charles Grassley in search of bipartisan support for the Affordable Care Act. By that September, President Barack Obama had lost patience. 
  <p class="updated_time"> 03:54 PM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/michelle-obama-voting-midterms-526809">Michelle Obama and coalition vow to register more than a million new voters</a> Politico: The push for voting reform is intensifying ahead of the 2022 midterms, in which Democrats will fight to maintain their narrow control of the Senate. 
  <p class="updated_time"> 02:35 PM CT, Jan. 09 </p> 
@@ -304,10 +314,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/us/politics/ron-johnson-senate-wisconsin.html">Ron Johnson, G.O.P. Senator From Wisconsin, Will Seek Re-election</a> NYT: The renewed bid for office by Mr. Johnson, who has spread many false claims about the 2020 election and Covid, ensures that both parties will be highly invested in Wisconsin’s 2022 Senate race. 
  <p class="updated_time"> 11:17 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/mike-rounds-trump-election-republicans-526806">GOP senator says Trump’s election allegations are unfounded</a> Politico: “The election was fair, as fair as we have seen,” Mike Rounds said. 
- <p class="updated_time"> 11:07 AM CT, Jan. 09 </p> 
- <a href="https://www.cnn.com/2022/01/09/politics/antony-blinken-russia-ukraine-cnntv/index.html">Blinken does not expect to see breakthroughs in talks with Russia this week</a> CNN: Secretary of State Antony Blinken says he doesn't expect to see any breakthroughs in the meetings with Russia this week, reiterating that while the US is prepared to listen to Moscow's concerns, it will be hard to achieve any progress unless Russia de-escalates tensions on the border with Ukraine. 
  <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
+ <p class="updated_time"> 10:13 AM CT, Jan. 09 </p> 
+ <a href="https://www.cnn.com/2022/01/09/politics/asa-hutchinson-biden-vaccine-mandate-supreme-court-cnntv/index.html">Arkansas governor says large businesses in state should not comply with Biden administration's 'oppressive vaccine mandate'</a> CNN: Arkansas Gov. Asa Hutchinson urged large businesses in the state not to comply with the Biden administration's Covid-19 vaccine mandate, saying employers should not follow the "oppressive" rule hours before the order is set to partially go into effect. 
  <p class="updated_time"> 09:08 AM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/michelle-obama-2022-elections-fight-for-vote/index.html">Michelle Obama wades into 2022 midterm elections with urgent message on voting</a> CNN: Former first lady Michelle Obama has a message for Americans ahead of the 2022 midterm elections: "We've got to vote like the future of our democracy depends on it." 
  <p class="updated_time"> 09:07 AM CT, Jan. 09 </p> 
@@ -320,12 +330,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/09/1071663527/the-story-of-january-6-goes-beyond-a-single-day">The story of January 6 goes beyond a single day</a> NPR: It's been a year since a mob supporting former President Donald Trump attacked the U.S. Capitol. We look at what we've learned about domestic extremism over the past year. 
  <p class="updated_time"> 07:00 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/joe-biden-takes-on-georgia-voting-526801">‘We are going right to the belly of the beast’: Biden takes on Georgia</a> Politico: Fresh off his Jan. 6 anniversary speech, the president and his top aides are trying to keep up the momentum for some legislative remedy. 
- <p class="updated_time"> 11:31 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/harry-reid-memorial-service.html"> Harry Reid’s Memorial Draws Tributes From Biden and Obama</a> NYT: Some of the country’s most prominent Democrats recounted tales showcasing the former Senate majority leader’s tenacity and modesty. 
  <p class="updated_time"> 05:50 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/harry-reid-funeral-democratic-leaders-tribute-526795">'Deeply good man from Searchlight': Democratic leaders pay tribute to Harry Reid in Nevada</a> Politico: Party luminaries gather at Las Vegas memorial service to honor the former Senate majority leader. 
- <p class="updated_time"> 05:43 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/us-sanctions-russia-ukraine.html">U.S. Details Possible Sanctions on Russia Over a Ukraine Invasion</a> NYT: The Biden administration and its allies are developing new possible sanctions ahead of a series of meetings to defuse the crisis with Moscow. 
  <p class="updated_time"> 05:19 PM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/harry-reid-memorial/index.html">Biden eulogizes Reid as 'one of the greatest Senate Majority Leaders in history'</a> CNN: Former Senate Majority Leader Harry Reid will be remembered by a host of top Democratic politicians at his memorial service in Las Vegas on Saturday, with President Joe Biden speaking at the service and former President Barack Obama eulogizing the late senator. 
  <p class="updated_time"> 05:12 PM CT, Jan. 08 </p> 
@@ -334,18 +340,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071589631/the-legacy-of-lani-guinier">The legacy of Lani Guinier</a> NPR: NPR's Michel Martin speaks with Spencer Overton, law professor at George Washington University Law School, about the legacy of Lani Guinier, a legal scholar in the field of voting rights. 
  <p class="updated_time"> 04:14 PM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071589603/congress-and-the-media-after-jan-6">Congress and the media after Jan. 6</a> NPR: NPR's Michel Martin speaks with Kadia Goba, political reporter for BuzzFeed News, and Paul Kane, senior congressional correspondent and columnist for The Washington Post, about covering Congress. 
- <p class="updated_time"> 03:55 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/mine-collapse-pennsylvania-fayette-county.html">Worker Killed in Pennsylvania Mine Collapse, State Officials Say</a> NYT: The fatal injury occurred when the mine’s roof fell onto equipment the miner was using, officials said. No one else was caught in the collapse. 
- <p class="updated_time"> 02:06 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/john-thune-senate-re-election.html">John Thune, No. 2 Senate Republican, Will Seek Re-election</a> NYT: The three-term South Dakotan had considered retiring because of family concerns and the continuing grip of former President Donald J. Trump on the Republican Party. 
  <p class="updated_time"> 12:41 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/senate-minority-whip-john-thune-to-run-for-reelection-526794">Senate Minority Whip John Thune to run for reelection</a> Politico: The 61-year-old South Dakotan is widely viewed as a potential successor to Senate Minority Leader Mitch McConnell 
  <p class="updated_time"> 12:09 PM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1066855802/john-thune-senate-reelection">John Thune, No. 2 Senate GOP leader, announces he will seek reelection</a> NPR: The South Dakota Republican, a likely successor to Republican leader Mitch McConnell, says he will run for reelection in 2022, putting an end to the speculation about his political future. 
- <p class="updated_time"> 12:00 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/us/politics/biden-nominees-senate-confirmation.html">Hundreds of Biden Nominees Are Unconfirmed Amid G.O.P. Blockade</a> NYT: A year into his term, only 41 percent of the president’s nominees for Senate-confirmed posts have been approved, a new analysis finds, the worst rate in decades. 
- <p class="updated_time"> 11:48 AM CT, Jan. 08 </p> 
- <a href="https://www.cnn.com/2022/01/08/politics/how-to-save-us-democracy-what-matters/index.html">What the average citizen can do about the demise of US democracy</a> CNN: After a week of urgent warnings about the state of American democracy, there were several requests in the What Matters inbox for something more useful than a warning. 
  <p class="updated_time"> 10:22 AM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/fact-check-jd-vance-capitol-charges/index.html">Fact check: J.D. Vance falsely claims dozens of jailed Capitol protesters haven't been charged with a crime</a> CNN: J.D. Vance, a Republican candidate for a US Senate seat in Ohio, is a law school graduate. But Vance made a significant false claim on Thursday about legal proceedings against people who allegedly participated in the Capitol insurrection last year. 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
@@ -368,6 +366,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
+ <p class="updated_time"> 01:10 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/usda-school-lunch-inflation-supply-chain/index.html">USDA pumps $750 million into school meals to counter inflation, supply chain woes</a> CNN: Schools are not only wrestling with how to educate children amid the surge in coronavirus cases. They are also contending with feeding kids as inflation and supply chain problems disrupt their ability to serve meals. 
  <p class="updated_time"> 12:37 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/voting-rights-electoral-count-john-lewis-act/index.html">Senate Democrats vow they'll pass voting rights legislation with or without Republicans. Here's what their proposals would do</a> CNN: Senate Majority Leader Chuck Schumer has set the stage for a showdown this month over voting rights -- pledging to muscle through sweeping new federal legislation aimed at counteracting moves by Republicans in state capitols to restrict access to the ballot. 
  <p class="updated_time"> 12:36 PM CT, Jan. 07 </p> 
