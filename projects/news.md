@@ -38,7 +38,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:14 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59862548?at_medium=RSS&at_campaign=KARANGA">How old Ugandan negatives are bringing families back to life</a> BBC: The restored archive of a rural Ugandan photographer is helping people reconnect with their past. 
  <p class="updated_time"> 06:08 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59942993?at_medium=RSS&at_campaign=KARANGA">Afghanistan's cold and bitter hunger</a> BBC: The UN has called for urgent aid as a million Afghan children are are at risk from severe malnourishment. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59942993?at_medium=RSS&at_campaign=KARANGA">Afghanistan's cold and bitter hunger</a> BBC: The UN has called for urgent aid as one million Afghan children are at risk from severe malnourishment. 
  <p class="updated_time"> 06:02 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
  <p class="updated_time"> 05:55 PM CT, Jan. 10 </p> 
@@ -284,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/10/politics/sotomayor-barrett-federal-sentencing-commission/index.html">Justices Sotomayor and Barrett question the state of federal sentencing commission</a> CNN: Liberal Supreme Court Justice Sonia Sotomayor, joined by her conservative colleague Justice Amy Coney Barrett, raised concerns on Monday about disparities in the federal system over sentencing guidelines. 
  <p class="updated_time"> 12:22 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/wisconsin-gop-election-review-526827">Wisconsin judge lets GOP-led election review continue</a> Politico: State Attorney General Josh Kaul's bid to undercut the probe was denied by a judge in Dane County. 
- <p class="updated_time"> 10:32 AM CT, Jan. 10 </p> 
- <a href="https://www.npr.org/2022/01/10/1071082955/imagine-another-american-civil-war-but-this-time-in-every-state">Imagine another American Civil War, but this time in every state</a> NPR: If America has another civil war, it is more likely to be a war within the states than between them. Citizens of any state of any size, red or blue, may not have to go far to find a fight. 
  <p class="updated_time"> 10:04 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/symone-sanders-msnbc-526824">Symone Sanders lands at MSNBC</a> Politico: The former VP spokesperson is heading to the left-leaning cable news network, where she will host a weekend show and a show on its streaming platform. 
  <p class="updated_time"> 09:48 AM CT, Jan. 10 </p> 
@@ -366,6 +364,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/usda-school-lunch-inflation-supply-chain/index.html">USDA pumps $750 million into school meals to counter inflation, supply chain woes</a> CNN: Schools are not only wrestling with how to educate children amid the surge in coronavirus cases. They are also contending with feeding kids as inflation and supply chain problems disrupt their ability to serve meals. 
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
+ <p class="updated_time"> 12:52 PM CT, Jan. 07 </p> 
+ <a href="https://www.npr.org/2022/01/07/1071304780/supreme-court-arguments-biden-vaccine-testing-regulation">Supreme Court's conservatives cast cloud over vaccine-or-test mandate for businesses</a> NPR: Justices seemed more open to the vaccine mandate for almost all workers at hospitals, nursing homes, and other medical providers receiving federal Medicare and Medicaid funds. 
  <p class="updated_time"> 12:37 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/voting-rights-electoral-count-john-lewis-act/index.html">Senate Democrats vow they'll pass voting rights legislation with or without Republicans. Here's what their proposals would do</a> CNN: Senate Majority Leader Chuck Schumer has set the stage for a showdown this month over voting rights -- pledging to muscle through sweeping new federal legislation aimed at counteracting moves by Republicans in state capitols to restrict access to the ballot. 
  <p class="updated_time"> 12:36 PM CT, Jan. 07 </p> 
