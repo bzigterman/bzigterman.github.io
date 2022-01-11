@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:39 PM CT, Jan. 10 </p> 
+ <a href="https://www.npr.org/2022/01/11/1071082955/imagine-another-american-civil-war-but-this-time-in-every-state">Imagine another American Civil War, but this time in every state</a> NPR: If America has another civil war, it is more likely to be a war within the states than between them. Citizens of any state of any size, red or blue, may not have to go far to find a fight. 
  <p class="updated_time"> 10:41 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/biden-stacey-abrams-voting-rights.html">Voting Rights Groups Skipping Biden's Speech Over Inaction</a> NYT: Stacey Abrams, the Democratic candidate for governor, also will not be there, but she cited a scheduling conflict. 
  <p class="updated_time"> 10:29 PM CT, Jan. 10 </p> 
@@ -364,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/usda-school-lunch-inflation-supply-chain/index.html">USDA pumps $750 million into school meals to counter inflation, supply chain woes</a> CNN: Schools are not only wrestling with how to educate children amid the surge in coronavirus cases. They are also contending with feeding kids as inflation and supply chain problems disrupt their ability to serve meals. 
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
- <p class="updated_time"> 12:52 PM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071304780/supreme-court-arguments-biden-vaccine-testing-regulation">Supreme Court's conservatives cast cloud over vaccine-or-test mandate for businesses</a> NPR: Justices seemed more open to the vaccine mandate for almost all workers at hospitals, nursing homes, and other medical providers receiving federal Medicare and Medicaid funds. 
  <p class="updated_time"> 12:37 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/voting-rights-electoral-count-john-lewis-act/index.html">Senate Democrats vow they'll pass voting rights legislation with or without Republicans. Here's what their proposals would do</a> CNN: Senate Majority Leader Chuck Schumer has set the stage for a showdown this month over voting rights -- pledging to muscle through sweeping new federal legislation aimed at counteracting moves by Republicans in state capitols to restrict access to the ballot. 
  <p class="updated_time"> 12:36 PM CT, Jan. 07 </p> 
