@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:44 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released, but Other Royals Are Still Locked Up</a> NYT: The Saudi government has not said why it detained or freed Princess Basmah bint Saud, a daughter of a former king who has criticized the country’s policies. 
+ <p class="updated_time"> 03:43 AM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072021539/eu-parliament-president-david-sassoli-dies-at-age-65">EU Parliament President David Sassoli dies at age 65</a> NPR: The Italian journalist had been hospitalized since Dec. 26 due to abnormal functioning of his immune system. 
  <p class="updated_time"> 02:44 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/cladding-grenfell-uk.html">Nearly 5 Years After Grenfell Fire, U.K. Tells Developers to Pay for Upgrades</a> NYT: After a deadly high-rise blaze in 2017, countless instances of unsafe building practices came to light. The latest plan to address them expands who will be covered. 
  <p class="updated_time"> 02:40 AM CT, Jan. 11 </p> 
@@ -143,14 +147,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/09/1071703878/us-russia-ukraine-talks-geneva">Neither side is optimistic ahead of U.S.-Russia talks over Ukraine</a> NPR: The U.S. and its European allies want Russia to reduce troop buildup along the Ukraine border. Russia wants U.S. troops out of Eastern Europe. Both sides say those demands are non-starters. 
  <p class="updated_time"> 06:03 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808770?at_medium=RSS&at_campaign=KARANGA">Air pollution: Delhi's smog problem is rooted in India's water crisis</a> BBC: Years of ill-conceived farming practices have contributed to India's worsening air pollution. 
- <p class="updated_time"> 04:09 PM CT, Jan. 09 </p> 
- <a href="https://www.npr.org/2022/01/09/1071706554/canadas-covid-testing-crisis">Canada's COVID testing crisis</a> NPR: Canada has reported COVID-19 case numbers in recent days many times higher than it has seen at any other point during the pandemic. Demand has overwhelmed testing capacity in much of the country. 
  <p class="updated_time"> 02:14 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/americas/brazil-cliff-collapses.html">Cliff Collapses on Boaters in Brazil, Killing 10</a> NYT: The tragedy in Minas Gerais state gripped the nation because it was captured on videos that showed an immense slab of rock smashing into pleasure boats. 
  <p class="updated_time"> 02:07 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/us/politics/russia-ukraine-james-baker.html">James A. Baker III’s Words on NATO Loom in Ukraine Standoff</a> NYT: The current confrontation turns partly on what, if any, commitments Secretary of State James A. Baker III made about NATO’s expansion in the waning days of the Cold War. 
- <p class="updated_time"> 11:49 AM CT, Jan. 09 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released, but Other Royals Are Still Locked Up</a> NYT: The Saudi government has not said why it detained or freed Princess Basmah bint Saud, a daughter of a former king who has criticized the country’s policies. 
  <p class="updated_time"> 11:01 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/london-schools-covid-omicron.html">London Schools Are Determined to Stay Open. Staff Illnesses Make It Hard.</a> NYT: Schools across England are grappling with what it looks like to live with the pandemic as it enters its third year. Sound familiar? 
  <p class="updated_time"> 10:45 PM CT, Jan. 08 </p> 
