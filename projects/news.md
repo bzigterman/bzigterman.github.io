@@ -10,7 +10,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/11/1071282973/as-carbon-removal-gains-traction-economists-imagine-a-new-market-to-save-the-pla">As carbon removal gains traction, economists imagine a new market to save the planet</a> NPR: Carbon removal went mainstream in 2021. But the technology is still light years away from making a real difference combating climate change. A group of economists wants to help change that. 
  <p class="updated_time"> 05:25 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59946900?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Questions raised over tennis star's travel declaration</a> BBC: Australian officials are investigating whether he gave false information on a form, local media says. 
+ <a href="https://www.bbc.co.uk/news/world-australia-59946900?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Questions raised over tennis star's travel declaration</a> BBC: Australian officials are investigating whether inaccurate information was given, local media says. 
  <p class="updated_time"> 05:20 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59951255?at_medium=RSS&at_campaign=KARANGA">Magawa, the landmine-sniffing hero rat, dies aged eight</a> BBC: Magawa was awarded a gold medal for heroism for clearing landmines in Cambodia. 
  <p class="updated_time"> 04:53 AM CT, Jan. 11 </p> 
@@ -179,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/canada/blackberry-phone-service-ends.html">BlackBerry Phone Service Officially Ends</a> NYT: BlackBerry was once Canada’s most valuable company and a global force in tech. The final step in its downfall as a phone maker arrived this week. 
  <p class="updated_time"> 04:00 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/india-weddings-south-kerala.html">The New Weddings in India’s South: ‘Expect Some Magic’</a> NYT: Couples are creating ever more elaborate ceremonies, drawing inspiration from social media trends that blur the nation’s religious and cultural lines. 
- <p class="updated_time"> 02:10 AM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/world/europe/biden-boris-johnson-coronavirus-omicron.html">How Biden and Boris Johnson Reached the Same Place on Virus Policy</a> NYT: Two different leaders with differing approaches landed on a policy of coexisting with the virus. Analysts say they had little choice. 
 
 
 </details>
