@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:33 PM CT, Jan. 11 </p> 
+ <p class="updated_time"> 04:47 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/science/shirley-mcgreal-dead.html">Shirley McGreal, Champion of Primates Under Threat, Dies at 87</a> NYT: She exposed smuggling rings and research laboratories and built a sanctuary for gibbons in South Carolina. 
  <p class="updated_time"> 04:28 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183501/could-the-u-s-really-cripple-the-russian-economy-like-biden-warns">Could the U.S. really cripple the Russian economy like Biden warns?</a> NPR: President Biden has threatened Russia with massive sanctions if it follows through on threats to take more Ukrainian territory. 
@@ -206,6 +206,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/powell-congress-inflation-jobs-526911">Powell’s warning to Congress: Inflation a ‘severe threat’ to jobs</a> Politico: The potential clash over the Fed’s plans to tighten monetary policy could be a harbinger of conflicts to come with Democrats and even some Republicans. 
  <p class="updated_time"> 04:54 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/jan-6-panel-subpoenas-trump-jr-aides-trump-speechwriter-526916">Jan. 6 panel subpoenas Trump Jr. aides, Trump speechwriter</a> Politico: The subpoenas for Andrew Surabian, Arthur Schwartz and Ross Worthington indicate investigators are inching ever closer to the Trump family. 
+ <p class="updated_time"> 04:53 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, the president advocated ‘getting rid of the filibuster,’ setting up a confrontation with Republicans. 
+ <p class="updated_time"> 04:49 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden calls on Senate to change filibuster rules for voting rights as he turns up the heat on Congress to pass major bills</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 04:39 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/harry-reid.html">Harry Reid: From Capitol Cop to Powerhouse Senate Leader</a> NYT: Mr. Reid, who will lie in state on Wednesday in the Rotunda, charted a unique path to power and knew how to exercise it. 
  <p class="updated_time"> 04:36 PM CT, Jan. 11 </p> 
@@ -230,12 +234,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1072183445/democrats-are-outraged-over-how-florida-gov-desantis-has-handled-covid-testing">Democrats are outraged over how Florida Gov. DeSantis' has handled COVID testing</a> NPR: Democrats are scolding Florida Gov. Ron DeSantis for low test availability after his administration let nearly a million rapid COVID tests to expire. He now says there's too much unnecessary testing. 
  <p class="updated_time"> 04:00 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/covid-19-testing-joe-biden-administration/index.html">Biden vowed to fix testing. But he didn't plan for Omicron. </a> CNN: As President Joe Biden was spending his holidays with family at the White House and in Delaware, he was frustrated to see images on television of Americans waiting in long lines for Covid-19 tests. 
- <p class="updated_time"> 03:59 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, the president advocated ‘getting rid of the filibuster,’ setting up a confrontation with Republicans. 
  <p class="updated_time"> 03:57 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/rand-paul-fauci-covid.html">Fauci Says Senator Rand Paul Is Fueling Threats Against Him</a> NYT: Senator Rand Paul accused Dr. Anthony Fauci of trying to undermine scientists who disagreed with him. Dr. Fauci denied the allegation and accused Republicans of feeding attacks against him. 
- <p class="updated_time"> 03:42 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden calls on Senate to change filibuster rules for voting rights as he turns up the heat on Congress to pass major bills</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183425/the-biden-administration-says-it-has-a-plan-to-clean-up-toxic-coal-ash">The Biden administration says it has a plan to clean up toxic coal ash</a> NPR: Even as coal plants shut down, they leave behind massive piles of toxic coal ash. About half that coal ash is unregulated, and environmental groups want the Biden administration to change that. 
  <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
