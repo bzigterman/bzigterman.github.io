@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:09 PM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59958662?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Up to tennis star to explain PCR grey area, says Serbia PM</a> BBC: Ana Brnabic says it would be a clear breach of rules if the tennis star went out knowing he had Covid. 
  <p class="updated_time"> 01:04 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072134048/british-prime-minister-boris-johnson-party-lockdown-covid">Boris Johnson is in hot water for hosting a BYOB party during the U.K.'s 2020 lockdown</a> NPR: On the date of the prime minister's party, the country's COVID restrictions meant that people were required to remain in their homes and away from others unless they had a "reasonable excuse." 
  <p class="updated_time"> 01:01 PM CT, Jan. 11 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/world/africa/ethiopia-biden-abiy-ahmed-tigray.html">On Day Biden Calls Ethiopia’s Leader to Urge Peace, a Drone Strike Kills 17</a> NYT: The attack came days after over 50 people were killed in a strike on a refugee camp, highlighting the growing role of armed drones in a destructive war. 
  <p class="updated_time"> 11:45 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59956826?at_medium=RSS&at_campaign=KARANGA">Saudi court orders first naming of man guilty of sexual harassment</a> BBC: The kingdom amended an anti-harassment law last year to allow for the public shaming of offenders. 
- <p class="updated_time"> 11:32 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-59957779?at_medium=RSS&at_campaign=KARANGA">Serbian PM comments on Djokovic PCR test</a> BBC: Ana Brnabić says it would be a clear rule breach if Novak Djokovic was out after a positive Covid test. 
  <p class="updated_time"> 11:24 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59947211?at_medium=RSS&at_campaign=KARANGA">Speaker of EU parliament dies in hospital</a> BBC: The Italian was admitted to hospital last month due to a serious complication with his immune system. 
  <p class="updated_time"> 11:23 AM CT, Jan. 11 </p> 
@@ -73,10 +73,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59952323?at_medium=RSS&at_campaign=KARANGA">Italian raids after New Year sexual assaults in Milan</a> BBC: Nine young women have come forward to say they were attacked while celebrating in central Milan. 
  <p class="updated_time"> 07:24 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59953330?at_medium=RSS&at_campaign=KARANGA">Pokémon Go: Police fired for chasing Snorlax instead of robbers</a> BBC: A pair of LAPD officers lost their jobs after ignoring a robbery to play Pokémon Go instead. 
+ <p class="updated_time"> 07:06 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59951366?at_medium=RSS&at_campaign=KARANGA">Second child dies after Spanish bouncy castle accident</a> BBC: The four-year-old girl was injured when a bouncy castle was thrown into the air by wind last week. 
  <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/11/1071282973/as-carbon-removal-gains-traction-economists-imagine-a-new-market-to-save-the-pla">As carbon removal gains traction, economists imagine a new market to save the planet</a> NPR: Carbon removal went mainstream in 2021. But the technology is still light years away from making a real difference combating climate change. A group of economists wants to help change that. 
- <p class="updated_time"> 05:25 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59946900?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Questions raised over tennis star's travel declaration</a> BBC: Australian officials are investigating whether inaccurate information was given, local media say. 
  <p class="updated_time"> 04:53 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released, but Other Royals Are Still Locked Up</a> NYT: The Saudi government has not said why it detained or freed Princess Basmah bint Saud, a daughter of a former king who has criticized the country’s policies. 
  <p class="updated_time"> 04:42 AM CT, Jan. 11 </p> 
@@ -200,6 +200,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:45 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/biden-n95-mask-distribution-526889">Biden health team weighs new mask distribution plan</a> Politico: Officials in favor of distributing the masks to the public have pushed for a decision as soon as Thursday. 
+ <p class="updated_time"> 01:15 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072110378/dr-fauci-says-gop-sen-pauls-false-accusations-have-sparked-death-threats">Dr. Fauci says GOP Sen. Paul's false accusations have sparked death threats</a> NPR: Fauci and Paul sparred at a Senate hearing on COVID-19, escalating exchanges the two have had throughout the pandemic. Fauci also said Paul is attempting to raise money off "a catastrophic epidemic." 
+ <p class="updated_time"> 01:15 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/trump-jan-6-lawsuits.html">Civil Suits Against Trump Seek Damages for Jan. 6 Attack</a> NYT: Lawyers argued that the cases against the former president should be allowed to go forward because he inflamed a mob and failed to stop the violence it wrought. 
+ <p class="updated_time"> 01:14 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/business/powell-confirmation-hearing.html"> Jerome Powell Says Fed Is Prepared to Raise Rates to Tame Inflation</a> NYT: The Federal Reserve chair is testifying before lawmakers as he seeks Senate confirmation to a second term. 
  <p class="updated_time"> 01:09 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, the president will express support for altering rules around the Senate filibuster, setting up a confrontation with Republicans. 
  <p class="updated_time"> 12:35 PM CT, Jan. 11 </p> 
@@ -212,10 +218,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/10/politics/nuclear-option-senate-filibuster/index.html">Why Democrats are thinking of going nuclear</a> CNN: As Democrats push to pass voting rights legislation through Congress, there's been talk of using a process known as the "nuclear option." 
  <p class="updated_time"> 11:58 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/political-influence-on-science-federal-government/index.html">Biden administration tells federal agencies how to safeguard against political influence on science</a> CNN: The Biden administration is calling on government agencies to strengthen their policies against inappropriate political influence when it comes to the science that guides decision-making, according to a new report. 
- <p class="updated_time"> 11:50 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/business/powell-confirmation-hearing.html"> Jerome Powell Says Fed Is Prepared to Raise Rates to Tame Inflation</a> NYT: The Federal Reserve chair is testifying before lawmakers as he seeks Senate confirmation to a second term. 
  <p class="updated_time"> 11:10 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/voting-rights-biden-atlanta-schedule.html">What Time Biden Speaks Today and Georgia Trip Details</a> NYT: The president is traveling to Atlanta with Vice President Kamala Harris as part of an effort to sell lawmakers and the public on major voting rights legislation. 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/voting-rights-biden-atlanta-schedule.html">What Time is Biden's Speech Today?</a> NYT: The president is traveling to Atlanta with Vice President Kamala Harris as part of an effort to sell lawmakers and the public on major voting rights legislation. 
  <p class="updated_time"> 11:05 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/house-democrats-joe-manchin-reaction/index.html">House Democrats grapple with how to unstick a Manchin-blocked agenda</a> CNN: House Democrats are in limbo. 
  <p class="updated_time"> 10:50 AM CT, Jan. 11 </p> 
@@ -272,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/us/politics/insurance-covid-tests.html">Insurers Will Have to Cover 8 At-Home Virus Tests Per Month</a> NYT: The Biden administration announced the new guidelines as it continued to work to get coronavirus tests to people regardless of their insurance status. 
  <p class="updated_time"> 07:54 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/home-covid-tests-health-insurance/index.html">Home Covid-19 tests must be paid for by health insurers starting Saturday</a> CNN: Health insurers must cover the cost of home Covid-19 tests starting January 15, the US Department of Health and Human Services announced Monday. 
- <p class="updated_time"> 07:20 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/trump-jan-6-lawsuits.html">Civil Suits Against Trump Seek Damages for Jan. 6 Attack</a> NYT: Lawyers argued that the cases against the former president should be allowed to go forward because he inflamed a mob and failed to stop the violence it wrought. 
  <p class="updated_time"> 07:10 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/democrats-filibuster-vote-526863">Dems' filibuster conundrum: It's not just Manchin and Sinema</a> Politico: Mark Kelly is undecided. Jon Tester likes a talking filibuster but is “not crazy” about making an exception for elections reform. And Jeanne Shaheen is promoting more modest changes. 
  <p class="updated_time"> 07:09 PM CT, Jan. 10 </p> 
@@ -360,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071594389/biden-obama-harry-reid-at-memorial-funeral">Biden, Obama among those to eulogize Senate titan Harry Reid at memorial service</a> NPR: "In a town obsessed with appearances, Harry had a real vanity deficit. He didn't like phonies. He didn't like grandstanding. He was proud of the fact that he didn't own a tuxedo," said Obama. 
  <p class="updated_time"> 04:14 PM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071589631/the-legacy-of-lani-guinier">The legacy of Lani Guinier</a> NPR: NPR's Michel Martin speaks with Spencer Overton, law professor at George Washington University Law School, about the legacy of Lani Guinier, a legal scholar in the field of voting rights. 
- <p class="updated_time"> 04:14 PM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/2022/01/08/1071589603/congress-and-the-media-after-jan-6">Congress and the media after Jan. 6</a> NPR: NPR's Michel Martin speaks with Kadia Goba, political reporter for BuzzFeed News, and Paul Kane, senior congressional correspondent and columnist for The Washington Post, about covering Congress. 
  <p class="updated_time"> 12:41 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/senate-minority-whip-john-thune-to-run-for-reelection-526794">Senate Minority Whip John Thune to run for reelection</a> Politico: The 61-year-old South Dakotan is widely viewed as a potential successor to Senate Minority Leader Mitch McConnell 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
