@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:51 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59920978?at_medium=RSS&at_campaign=KARANGA">#NoSpendJanuary: Can it really be done?</a> BBC: Every year, the hashtag #nospendjanuary is seen on social media - but how literally do people take it? 
  <p class="updated_time"> 12:16 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: No cause of death was immediately available. He had been hospitalized in Italy because his immune system was not functioning normally. 
  <p class="updated_time"> 12:00 AM CT, Jan. 11 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59943374?at_medium=RSS&at_campaign=KARANGA">New York fire: Officials pledge support after 17 die in 'unspeakable tragedy'</a> BBC: There were eight children among the fatalities in the fire, which took hold on Sunday in the Bronx. 
  <p class="updated_time"> 06:28 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/russia-us-ukraine-talks.html">In Talks on Ukraine, U.S. and Russia Deadlock Over NATO Expansion</a> NYT: Both sides expressed some optimism after negotiations in Geneva, but did not break an impasse over Russia’s demand that Ukraine never become a member of NATO. 
- <p class="updated_time"> 06:21 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/business-59920978?at_medium=RSS&at_campaign=KARANGA">#NoSpendJanuary: Can it really be done?</a> BBC: Every year, the hashtag #nospendjanuary is seen on social media - but how literally do people take it? 
  <p class="updated_time"> 06:17 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071915924/speed-skater-erin-jackson-lost-a-chance-at-gold-until-her-teammate-stepped-in">Speed skater Erin Jackson lost a chance at gold — until her teammate stepped in</a> NPR: Speed skater Brittany Bowe relinquished her spot on the U.S. Olympic team for the 500 meter speed skating event to give her teammate, Jackson, a shot at gold. 
  <p class="updated_time"> 06:14 PM CT, Jan. 10 </p> 
