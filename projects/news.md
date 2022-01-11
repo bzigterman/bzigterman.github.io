@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:12 PM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59959947?at_medium=RSS&at_campaign=KARANGA">Children were 'fighting for their lives' in Bronx fire</a> BBC: New Yorkers are still digesting the tragedy of the city's deadliest blaze in three decades. 
  <p class="updated_time"> 11:52 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/who-europe-covid-omicron-infection.html">Over Half of Europe Could Be Infected With Coronavirus Soon, W.H.O. Says</a> NYT: The agency cautioned against treating the virus like the seasonal flu, since much remains unknown, particularly regarding the severity in areas with lower vaccination rates. 
  <p class="updated_time"> 11:49 AM CT, Jan. 11 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/world/europe/magawa-landmine-hero-rat-dead.html">Magawa, Hero Rat That Hunted Land Mines, Dies in Retirement</a> NYT: The African giant pouched rat sniffed out more than 100 mines and other pieces of unexploded ordnance in Cambodia over five years, winning hearts and an international award. 
  <p class="updated_time"> 10:06 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59948920?at_medium=RSS&at_campaign=KARANGA">Covid: Half of Europe to be infected with Omicron within weeks - WHO</a> BBC: Dr Hans Kluge says a "west-to-east tidal wave" of the coronavirus variant is sweeping across the region. 
- <p class="updated_time"> 10:00 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59915697?at_medium=RSS&at_campaign=KARANGA">Arctic thaw threatens human habitation</a> BBC: New research shows the huge threat posed by permafrost thaw to millions living in the Arctic. 
  <p class="updated_time"> 09:54 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/rum-isle-scotland-hebrides.html">As Its Population Soars to 40, Rum Isle Glimpses a Future in the Mist</a> NYT: With four new families recently arriving, the remote and rainy island in the Hebrides is experiencing its version of a population surge, although residents new and old concede living here isn’t easy. 
  <p class="updated_time"> 09:53 AM CT, Jan. 11 </p> 
@@ -69,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59952323?at_medium=RSS&at_campaign=KARANGA">Italian raids after New Year sexual assaults in Milan</a> BBC: Nine young women have come forward to say they were attacked while celebrating in central Milan. 
  <p class="updated_time"> 07:24 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59953330?at_medium=RSS&at_campaign=KARANGA">Pokémon Go: Police fired for chasing Snorlax instead of robbers</a> BBC: A pair of LAPD officers lost their jobs after ignoring a robbery to play Pokémon Go instead. 
- <p class="updated_time"> 06:24 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59951890?at_medium=RSS&at_campaign=KARANGA">Ugandan author of The Greedy Barbarian charged over Museveni tweets</a> BBC: A Ugandan novelist is accused of using Twitter to "disturb the peace" of Yoweri Museveni and his son. 
  <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/11/1071282973/as-carbon-removal-gains-traction-economists-imagine-a-new-market-to-save-the-pla">As carbon removal gains traction, economists imagine a new market to save the planet</a> NPR: Carbon removal went mainstream in 2021. But the technology is still light years away from making a real difference combating climate change. A group of economists wants to help change that. 
  <p class="updated_time"> 05:25 AM CT, Jan. 11 </p> 
@@ -202,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:16 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/david-mccormick-senate-campaign-trump-526870">McCormick MAGA-proofs his Senate campaign after dissing Trump</a> Politico: The new Pennsylvania candidate is certain to face GOP primary attacks. 
+ <p class="updated_time"> 12:15 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/capitol-police-officers-extremist-views/index.html">Capitol Police and House sergeant-at-arms working to identify officers with extremist views</a> CNN: US Capitol Police Chief Tom Manger and House Sergeant at Arms William Walker are working to identify officers with extremist views who could impact security at the Capitol, they told lawmakers on Tuesday. 
  <p class="updated_time"> 12:02 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/nuclear-option-senate-filibuster/index.html">Why Democrats are thinking of going nuclear</a> CNN: As Democrats push to pass voting rights legislation through Congress, there's been talk of using a process known as the "nuclear option." 
  <p class="updated_time"> 11:58 AM CT, Jan. 11 </p> 
@@ -264,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-photos-prisoners.html">20 Years Later, the Story Behind the Guantánamo Photo That Won’t Go Away</a> NYT: On Jan. 11, 2002, a sailor photographed 20 men in orange uniforms and on their knees, capturing one of the most damning post-9/11 images of U.S. detention policy. 
  <p class="updated_time"> 09:45 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/chicago-schools-teachers-deal-stalemate-526868">Chicago schools, teachers reach tentative deal to end classroom shutdown</a> Politico: The potential agreement would have educators return to schools beginning Tuesday, while students would return Wednesday. 
- <p class="updated_time"> 08:53 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/jim-jordan-january-6-committee/index.html">Rep. Jim Jordan declines to say if he's closed the door on cooperating with January 6 committee </a> CNN: Republican Rep. Jim Jordan on Monday declined to say definitively if he has closed the door on cooperating with the House select committee investigating the January 6, 2021, insurrection. 
  <p class="updated_time"> 08:39 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/kevin-mccarthy-committees-republican-house-majority/index.html">McCarthy vows to remove Democrats from committees if Republicans win House</a> CNN: House Minority Leader Kevin McCarthy has vowed to remove three Democratic lawmakers from key committee assignments if Republicans win back the chamber in the upcoming midterm elections. 
  <p class="updated_time"> 08:37 PM CT, Jan. 10 </p> 
@@ -292,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/10/1071899471/insurance-at-home-covid-tests-white-house">How to get insurance to pay for at-home COVID tests, according to the White House</a> NPR: The Biden administration says Americans should be able to order COVID-19 tests online later this month. Those who are eligible can get eight free over-the-counter at-home tests a month. 
  <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-at-home-covid-tests-reimbursement-526853">Biden administration lays out rules for reimbursing at-home Covid tests</a> Politico: Under the plan, private insurers can set up programs at preferred pharmacies or retailers where the upfront cost of home tests is covered for beneficiaries. 
- <p class="updated_time"> 05:06 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/january-6-four-defendants-plead-guilty/index.html">Four more US Capitol rioters plead guilty</a> CNN: Four people pleaded guilty to charges stemming from the January 6, 2021, US Capitol riot, adding to the ever-growing number of defendants who have accepted responsibility for their part in the attack. 
  <p class="updated_time"> 04:49 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/business/income-tax-day-deadline.html">The I.R.S. Warns of Messy Tax Filing Season</a> NYT: The agency, which has been hobbled by paperwork backlogs and short staffing, said tax filers should expect a lower level of service this year. 
  <p class="updated_time"> 04:23 PM CT, Jan. 10 </p> 
@@ -374,6 +370,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
+ <p class="updated_time"> 01:10 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/usda-school-lunch-inflation-supply-chain/index.html">USDA pumps $750 million into school meals to counter inflation, supply chain woes</a> CNN: Schools are not only wrestling with how to educate children amid the surge in coronavirus cases. They are also contending with feeding kids as inflation and supply chain problems disrupt their ability to serve meals. 
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/appeals-court-challenge-texas-abortion-ban-526740">Appeals court weighs revived challenge to Texas’ abortion ban</a> Politico: The court indicated it's likely to let the Texas Supreme Court rule on the ban's constitutionality, which could prolong its enforcement for months. 
  <p class="updated_time"> 12:37 PM CT, Jan. 07 </p> 
