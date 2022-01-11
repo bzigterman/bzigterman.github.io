@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:18 PM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59960689?at_medium=RSS&at_campaign=KARANGA">Covid: Quebec to impose health tax on unvaccinated Canadians</a> BBC: The unvaccinated represent 15% of the population, but over half of all hospital admissions. 
  <p class="updated_time"> 05:03 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072245389/quebec-unvaccinated-covid-penalty">In Quebec, people who refuse to be vaccinated for COVID will face a financial penalty</a> NPR: The Canadian province's premier said not getting vaccinated leads to consequences for the health care system and not all Quebecers should pay for that. 
  <p class="updated_time"> 04:54 PM CT, Jan. 11 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/world/europe/who-europe-covid-omicron-infection.html">Over Half of Europe Could Be Infected With Coronavirus Soon, W.H.O. Says</a> NYT: The agency cautioned against treating the virus like the seasonal flu, since much remains unknown, particularly regarding the severity in areas with lower vaccination rates. 
  <p class="updated_time"> 02:57 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59948920?at_medium=RSS&at_campaign=KARANGA">Covid: Half of Europe to be infected with Omicron within weeks - WHO</a> BBC: Dr Hans Kluge says a "west-to-east tidal wave" of the coronavirus variant is sweeping across the region. 
- <p class="updated_time"> 02:24 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59960689?at_medium=RSS&at_campaign=KARANGA">Covid: Quebec to impose health tax on unvaccinated Canadians</a> BBC: The unvaccinated represent 15% of the population, but over half of all hospital admissions. 
  <p class="updated_time"> 02:13 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072153873/magawa-hero-rat-dies-bomb-sniffing">Magawa, a heroic bomb-sniffing rat who is credited with saving lives, has died </a> NPR: "His contribution allows communities in Cambodia to live, work, and play; without fear of losing life or limb," the nonprofit APOPO said after the death of Magawa, an African giant pouched rat. 
  <p class="updated_time"> 02:06 PM CT, Jan. 11 </p> 
@@ -200,6 +200,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:21 PM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/north-carolina-gop-map-redistricting-526931">North Carolina court declines to toss out GOP-drawn House map</a> Politico: Democratic plaintiffs challenged the state's maps as illegal partisan gerrymanders and are planning to appeal to the state Supreme Court. 
+ <p class="updated_time"> 06:15 PM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/democrats-covid-strategy-526924">'Rules need to be clear': Dems call for Covid strategy reset as cases spike</a> Politico: Congressional Democrats fret that the White House's strategy on Covid in recent weeks has been confusing and ineffective against the Omicron variant. 
+ <p class="updated_time"> 05:31 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/mike-rounds-republican-defense/index.html">Top Republicans stand up for Rounds after Trump's attack: He 'told the truth'</a> CNN: Senior Republicans are closing ranks behind Sen. Mike Rounds after he endured a scathing attack from former President Donald Trump for acknowledging the reality that President Joe Biden won the 2020 election. 
+ <p class="updated_time"> 05:23 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden calls on Senate to change filibuster rules for voting rights as he turns up the heat on Congress to pass major bills</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 05:10 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/justice-dept-domestic-terrorism.html">Justice Dept. Forms Domestic Terrorism Unit</a> NYT: The move is in keeping with Attorney General Merrick B. Garland’s vow to make combating domestic terrorism a priority. 
  <p class="updated_time"> 05:07 PM CT, Jan. 11 </p> 
@@ -216,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/jan-6-panel-subpoenas-trump-jr-aides-trump-speechwriter-526916">Jan. 6 panel subpoenas Trump Jr. advisers, Trump speechwriter</a> Politico: The subpoenas for Andrew Surabian, Arthur Schwartz and Ross Worthington indicate investigators are inching ever closer to the Trump family. 
  <p class="updated_time"> 04:53 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, the president advocated ‘getting rid of the filibuster,’ setting up a confrontation with Republicans. 
- <p class="updated_time"> 04:49 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden calls on Senate to change filibuster rules for voting rights as he turns up the heat on Congress to pass major bills</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 04:34 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/chicago-mayor-lori-lightfoot-contracts-covid-526907">Chicago mayor tests positive for Covid a day after announcing school reopening deal</a> Politico: The news came about 17 hours after Lightfoot announced she and the Chicago Teachers Union ended a tense standoff over the safety of children and staff returning to school amid the Omicron surge. 
  <p class="updated_time"> 04:33 PM CT, Jan. 11 </p> 
@@ -230,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/alzheimers-drug-aduhelm-medicare-decision/index.html">Medicare proposes to cover controversial Alzheimer's drug with restrictions</a> CNN: Medicare has proposed covering the controversial and costly Alzheimer's drug Aduhelm only for those enrolled in qualifying clinical trials, the Centers for Medicare and Medicaid Services announced Tuesday. 
  <p class="updated_time"> 04:23 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183487/what-president-bidens-speech-about-voting-rights-legislation-means-for-georgia">What President Biden's speech about voting rights legislation means for Georgia</a> NPR: The president and vice president travel to Georgia to make the case for voting rights legislation. The state has been ground zero for debate over voting and elections reforms. 
- <p class="updated_time"> 04:06 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/mike-rounds-republican-defense/index.html">Top Republicans stand up for Rounds after Trump's attack: He 'told the truth'</a> CNN: Senior Republicans are closing ranks behind Sen. Mike Rounds after he endured a scathing attack from former President Donald Trump for acknowledging the reality that President Joe Biden won the 2020 election. 
  <p class="updated_time"> 04:01 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183452/fed-chair-jerome-powell-takes-questions-from-senate-committee-in-confirmation-he">Fed chair Jerome Powell takes questions from Senate committee in confirmation hearing</a> NPR: Federal Reserve chairman Jerome Powell appeared before the Senate Banking Committee, which is considering his nomination for a second term. The central bank is under pressure to confront inflation. 
  <p class="updated_time"> 04:01 PM CT, Jan. 11 </p> 
@@ -378,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/07/politics/fbi-usb-hackers-warning/index.html">FBI warns cybercriminals have tried to hack US firms by mailing malicious USB drives</a> CNN: A prolific Eastern European cybercriminal group has tried to hack US companies in the transportation, defense and insurance sectors by mailing those organizations malicious USB drives, the FBI warned US businesses this week in an advisory obtained by CNN. 
  <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
- <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/news/2022/01/07/meadows-supreme-court-trump-january-6th-526753">Meadows urges Supreme Court to quickly decide Trump’s Jan. 6 lawsuit</a> Politico: Meadows filed his friend-of-the-court brief in the ongoing lawsuit filed by Trump against the select committee in October. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
  <p class="updated_time"> 01:10 PM CT, Jan. 07 </p> 
