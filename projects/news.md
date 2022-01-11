@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:14 PM CT, Jan. 10 </p> 
+ <p class="updated_time"> 11:51 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: No cause of death was immediately available. He had been hospitalized in Italy because his immune system was not functioning normally. 
  <p class="updated_time"> 11:01 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/asia/afghanistan-united-nations-appeal.html">U.N. Seeks Huge Aid Increase to Prevent ‘Catastrophe’ in Afghanistan</a> NYT: The $5 billion appeal comes as a severe drought and the toll of decades of war have plunged three-quarters of the country’s population into acute poverty, according to the United Nations. 
