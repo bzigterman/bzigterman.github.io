@@ -7,12 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:45 AM CT, Jan. 11 </p> 
+ <p class="updated_time"> 08:20 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/01/11/world/omicron-covid-testing-vaccines">Covid Live Updates: Over Half of Europe Could Be Infected in Next 2 Months, W.H.O. Says</a> NYT: An official for the agency cited “a new west-to-east tidal wave sweeping across the region.” In the U.S., Chicago’s mayor announced a deal with teachers over coronavirus safeguards that would reopen classrooms. 
+ <p class="updated_time"> 08:07 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
+ <p class="updated_time"> 08:01 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59942994?at_medium=RSS&at_campaign=KARANGA">Fighting the darknet drug dealers who keep coming back</a> BBC: BBC research finds hundreds of dealers who have survived multiple police shutdowns of darknet marketplaces. 
+ <p class="updated_time"> 08:00 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/world/africa/south-africa-parliament-fire-suspect.html">Suspect in South Africa’s Parliament Fire Is Sent for Psychiatric Check</a> NYT: If the man is found fit to stand trial, he will faces charges that now include terrorism. His lawyers said he would protest with a hunger strike. 
+ <p class="updated_time"> 08:00 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/world/europe/spain-student-housing-dorms.html">Dorms Pop Up in Spain as More Students Seek Housing Away From Home</a> NYT: The country’s student population has become increasingly mobile, fueling investments in accommodations, largely funded by foreign capital. 
+ <p class="updated_time"> 07:49 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59952323?at_medium=RSS&at_campaign=KARANGA">Italian raids after New Year sexual assaults in Milan</a> BBC: Nine young women have come forward to say they were attacked while celebrating in central Milan. 
  <p class="updated_time"> 07:37 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: No cause of death was immediately available. He had been hospitalized in Italy because his immune system was not functioning normally. 
  <p class="updated_time"> 07:30 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/jeffrey-moyo-zimbabwe-nyt.html">Freelance Reporter for the New York Times Is On Trial in Zimbabwe</a> NYT: The reporter, Jeffrey Moyo, has been accused of helping two Times journalists enter Zimbabwe from South Africa using bogus credentials, a charge that even the government admits is on ‘shaky ground.’ 
+ <p class="updated_time"> 07:24 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59953330?at_medium=RSS&at_campaign=KARANGA">Pokémon Go: Police fired for chasing Snorlax instead of robbers</a> BBC: A pair of LAPD officers lost their jobs after ignoring a robbery to play Pokémon Go instead. 
  <p class="updated_time"> 07:06 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59951366?at_medium=RSS&at_campaign=KARANGA">Second child dies after Spanish bouncy castle accident</a> BBC: The four-year-old girl was injured when a bouncy castle was thrown into the air by wind last week. 
  <p class="updated_time"> 05:47 AM CT, Jan. 11 </p> 
@@ -34,11 +46,13 @@ permalink: /projects/news/
  <p class="updated_time"> 04:18 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/putin-russia-kazakhstan.html">Russian Troops Will Stay to Finish Job in Kazakhstan, Putin Says</a> NYT: Blaming “internal and external forces” for the unrest in the resource-rich Central Asian country, President Vladimir V. Putin of Russia set no deadline for the withdrawal of the forces his country sent there. 
  <p class="updated_time"> 04:16 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59935126?at_medium=RSS&at_campaign=KARANGA">China: Doctor charged for treating fever patient</a> BBC: The medic in Henan could face a prison term because there wasn't a fever clinic at their hospital. 
- <p class="updated_time"> 04:01 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59935126?at_medium=RSS&at_campaign=KARANGA">Chinese doctor charged for treating fever patient</a> BBC: The medic in Henan could face a prison term because there wasn't a fever clinic at their hospital. 
  <p class="updated_time"> 03:43 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072021539/eu-parliament-president-david-sassoli-dies-at-age-65">EU Parliament President David Sassoli dies at age 65</a> NPR: The Italian journalist had been hospitalized since Dec. 26 due to abnormal functioning of his immune system. 
+ <p class="updated_time"> 03:07 AM CT, Jan. 11 </p> 
+ <a href="https://www.wsj.com/articles/kazakhstan-says-russia-to-withdraw-troops-in-wake-of-unrest-11641903337">Kazakhstan Says Russia to Withdraw Troops in Wake of Unrest</a> WSJ: Russia-led forces that entered Kazakhstan to support the government following an eruption of protests would start withdrawing within two days, the Kazakh president said as he named a loyalist as prime minister. 
+ <p class="updated_time"> 03:03 AM CT, Jan. 11 </p> 
+ <a href="https://www.wsj.com/articles/japan-extends-entry-ban-for-foreigners-citing-omicron-11641874059">Japan's Foreigner Ban Over Omicron Raises Memories of Isolation History</a> WSJ: Japan said it would extend its near-total ban on foreigners entering the country until at least the end of February, with Japanese cheering the tough policy, which resonates centuries back into the nation’s history. 
  <p class="updated_time"> 02:44 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/cladding-grenfell-uk.html">Nearly 5 Years After Grenfell Fire, U.K. Tells Developers to Pay for Upgrades</a> NYT: After a deadly high-rise blaze in 2017, countless instances of unsafe building practices came to light. The latest plan to address them expands who will be covered. 
  <p class="updated_time"> 02:40 AM CT, Jan. 11 </p> 
@@ -52,13 +66,11 @@ permalink: /projects/news/
  <p class="updated_time"> 02:00 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/health/southern-africa-hiv-aids.html">In Southern Africa, Success Against H.I.V. Offers Hope for Beating Back Another Virus</a> NYT: A former Africa correspondent, who covered the height of the AIDS epidemic there 15 years ago, finds lessons in the remarkable progress against that virus for our current fight. 
  <p class="updated_time"> 01:41 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59947211?at_medium=RSS&at_campaign=KARANGA">David Sassoli: European Parliament president dies aged 65</a> BBC: The Italian was admitted to hospital last month due to a serious complication with his immune system. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59947211?at_medium=RSS&at_campaign=KARANGA">Speaker of EU parliament dies in hospital</a> BBC: The Italian was admitted to hospital last month due to a serious complication with his immune system. 
  <p class="updated_time"> 01:21 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/asia/north-korea-ballistic-missile-south-korea.html">North Korea Launches 2nd Ballistic Missile in a Week, South Korea Says</a> NYT: The launch came as the U.N. Security Council met to discuss the country’s growing weapons threat. The U.S. said the latest test “highlights the destabilizing impact” of the North’s weapons program. 
  <p class="updated_time"> 01:15 AM CT, Jan. 11 </p> 
  <a href="https://www.wsj.com/articles/taiwan-air-force-loses-contact-with-pilot-after-f-16-crashes-on-training-mission-11641903311">Taiwan Air Force Loses Contact With Pilot After F-16 Crashes on Training Mission</a> WSJ: The Taiwan Air Force said it lost contact with a single-seat F-16 jet off the island’s coast roughly half an hour after it took off. 
- <p class="updated_time"> 01:15 AM CT, Jan. 11 </p> 
- <a href="https://www.wsj.com/articles/kazakhstan-says-russia-to-withdraw-troops-in-wake-of-unrest-11641903337">Kazakhstan Says Russia to Withdraw Troops in Wake of Unrest</a> WSJ: Russia-led forces that entered Kazakhstan to support the government following an eruption of protests would start withdrawing within two days, the Kazakh president said as he named a loyalist as prime minister. 
  <p class="updated_time"> 12:51 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-59920978?at_medium=RSS&at_campaign=KARANGA">#NoSpendJanuary: Can it really be done?</a> BBC: Every year, the hashtag #nospendjanuary is seen on social media - but how literally do people take it? 
  <p class="updated_time"> 11:55 PM CT, Jan. 10 </p> 
@@ -87,12 +99,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/us/politics/russia-ukraine-helicopters.html">Russia Positioning Helicopters, in Possible Sign of Ukraine Plans</a> NYT: The step, which could be an indication that planning for an attack continues, comes as the number of Russian troops at the border has remained steady in recent weeks, despite U.S. expectations of a surge. 
  <p class="updated_time"> 05:45 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/africa/uganda-schools-reopen.html">Uganda Reopens Schools After World’s Longest Covid Shutdown</a> NYT: Many countries have closed classrooms on and off, but Uganda had kept more than 10 million students at home since March 2020. Critics say it took a heavy toll. 
- <p class="updated_time"> 05:37 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59914729?at_medium=RSS&at_campaign=KARANGA">Antarctica: Invasive species 'hitchhiking' on ships</a> BBC: Ships travelling to Antarctica could bring invasive species to the ocean’s last pristine ecosystem. 
  <p class="updated_time"> 05:20 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59944634?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... questions that remain for Djokovic</a> BBC: The world number one made it onto a tennis court in Melbourne, but he could still be deported. 
- <p class="updated_time"> 05:07 PM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/japan-extends-entry-ban-for-foreigners-citing-omicron-11641874059">Japan Extends Entry Ban for Foreigners, Citing Omicron</a> WSJ: Japan said it would extend its near-total ban on foreigners entering the country until at least the end of February. 
  <p class="updated_time"> 05:06 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
  <p class="updated_time"> 05:00 PM CT, Jan. 10 </p> 
@@ -133,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/10/1070854970/in-wahala-intimacy-at-times-morphs-into-enmity">In 'Wahala,' intimacy at times morphs into enmity</a> NPR: Nikki May's novel captures issues of modern city living: women's evolving roles in home and work, interracial relationships, multicultural identity, and competition that runs under many friendship. 
  <p class="updated_time"> 06:26 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071785531/on-covid-vaccinations-pope-says-health-care-is-a-moral-obligation">On COVID vaccinations, Pope says health care is a 'moral obligation'</a> NPR: Francis says individuals have a responsibility to care for themselves "and this translates into respect for the health of those around us." 
- <p class="updated_time"> 04:21 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59937221?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic supporters surround car in Melbourne</a> BBC: Crowds chanting "free Novak" surround a black car leaving the offices of the player's lawyer. 
  <p class="updated_time"> 03:13 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071769164/myanmars-suu-kyi-sentenced-to-4-more-years-in-prison">Myanmar's Suu Kyi sentenced to 4 more years in prison</a> NPR: Suu Kyi was convicted last month on two other charges and given a four-year prison sentence, which was then halved by the head of the military-installed government. 
  <p class="updated_time"> 02:59 AM CT, Jan. 10 </p> 
@@ -167,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/asia/china-rights-defense-activists.html">Chinese Activists Face Subversion Charges for Weekend Gathering</a> NYT: A weekend get-together in 2019 offered Beijing a chance to deliver a blow to the “rights defense” movement. Now, two key participants face the prospect of years in prison. 
  <p class="updated_time"> 06:13 PM CT, Jan. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59908442?at_medium=RSS&at_campaign=KARANGA">Afcon Cameroon: Playing football in the shadow of a rebellion</a> BBC: Africa's top football tournament is about to start in Cameroon, despite a bitter four-year conflict. 
- <p class="updated_time"> 03:54 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/americas/guantanamo-bay-covid-outbreak.html">Covid Cases Reach Pandemic High at Guantánamo Bay</a> NYT: The American base has reinstated a mandate for wearing masks indoors in response to an increase in infections. 
  <p class="updated_time"> 01:09 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/pakistan-snow-kills-21-murree-hill-station.html">Heavy Snow Kills 21 at Murree Hill Station in Pakistan</a> NYT: Stranded in their cars on snow-covered roads, some in the mountainside town of Murree froze to death and others died from carbon monoxide poisoning. 
  <p class="updated_time"> 12:42 PM CT, Jan. 08 </p> 
@@ -187,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/asia/india-weddings-south-kerala.html">The New Weddings in India’s South: ‘Expect Some Magic’</a> NYT: Couples are creating ever more elaborate ceremonies, drawing inspiration from social media trends that blur the nation’s religious and cultural lines. 
  <p class="updated_time"> 02:10 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/europe/biden-boris-johnson-coronavirus-omicron.html">How Biden and Boris Johnson Reached the Same Place on Virus Policy</a> NYT: Two different leaders with differing approaches landed on a policy of coexisting with the virus. Analysts say they had little choice. 
- <p class="updated_time"> 12:29 AM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/travel/royal-caribbean-cruises-cancellations-covid.html">Royal Caribbean Cancels Three Upcoming Cruises</a> NYT: The company said it had called off planned trips on three ships and pushed back another’s return to cruising to March. 
 
 
 </details>
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/us/clay-aiken-congress.html">Clay Aiken, Former ‘American Idol’ Star, Announces Run for Congress</a> NYT: Mr. Aiken said he was running as a “loud and proud Democrat” for an open House seat in his native North Carolina this year. 
  <p class="updated_time"> 02:14 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/new-quarter-treasury-maya-angelou-526836">Treasury begins distribution of quarter featuring poet, activist Maya Angelou</a> Politico: The poet and activist is the first Black woman to appear on a U.S. quarter. 
- <p class="updated_time"> 02:13 PM CT, Jan. 10 </p> 
- <a href="https://www.politico.com/news/2022/01/10/russia-downplays-ukraine-invasion-526830">Russia downplays Ukraine invasion, but U.S. makes no concessions</a> Politico: There's no tilt toward war after the first day of talks between U.S. and Russian diplomats in Geneva. But there's no peace either. 
  <p class="updated_time"> 01:35 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/business/media/symone-sanders-msnbc.html">Symone Sanders, a Strategist for Biden and Harris, Is Joining MSNBC</a> NYT: Ms. Sanders, 32, will host a weekend show on the cable network, one of the first big programming moves by MSNBC’s president, Rashida Jones. 
  <p class="updated_time"> 12:55 PM CT, Jan. 10 </p> 
