@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:40 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/world/europe/kazakhstan-russia-troops.html">Kazakhstan Says Russian Troops Can Start Leaving This Week</a> NYT: Kazakhstan’s president says violence has been quelled, so there is no longer need for the foreign troops he asked to help. Russia has not given a timeline for withdrawing. 
  <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183404/children-face-malnutrition-under-the-venezuelan-governments-mismanagement">Children face malnutrition under the Venezuelan government's mismanagement</a> NPR: Venezuela is facing a long-term catastrophe of its own making: widespread child malnutrition. Years of economic mismanagement have brought massive poverty and food shortages. 
  <p class="updated_time"> 03:09 PM CT, Jan. 11 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59958662?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Up to tennis star to explain PCR grey area, says Serbia PM</a> BBC: Ana Brnabic says it would be a clear breach of rules if the tennis star went out knowing he had Covid. 
  <p class="updated_time"> 01:04 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072134048/british-prime-minister-boris-johnson-party-lockdown-covid">Boris Johnson is in hot water for hosting a BYOB party during the U.K.'s 2020 lockdown</a> NPR: On the date of the prime minister's party, the country's COVID restrictions meant that people were required to remain in their homes and away from others unless they had a "reasonable excuse." 
- <p class="updated_time"> 01:01 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/europe/kazakhstan-russia-troops.html">Kazakhstan Says Russian Troops Can Start Leaving This Week</a> NYT: Kazakhstan’s president says violence has been quelled, so there is no longer need for the foreign troops he asked to help. Russia has not given a timeline for withdrawing. 
  <p class="updated_time"> 12:41 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59960117?at_medium=RSS&at_campaign=KARANGA">How Magawa the rat was trained to detect mines</a> BBC: A rat which helped locate more than a 100 landmines in Cambodia has died at the age of eight. 
  <p class="updated_time"> 12:12 PM CT, Jan. 11 </p> 
@@ -196,12 +196,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:34 PM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/chicago-mayor-lori-lightfoot-contracts-covid-526907">Chicago mayor tests positive for Covid a day after announcing school reopening deal</a> Politico: The news came about 17 hours after Lightfoot announced she and the Chicago Teachers Union ended a tense standoff over the safety of children and staff returning to school amid the Omicron surge. 
+ <p class="updated_time"> 04:33 PM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/anthony-fauci-gop-senators-financial-disclosure-526891">'What a moron': Fauci argues with GOP senator over financial disclosures</a> Politico: In response to Roger Marshall’s questioning, the NIAID director and top White House medical adviser said his disclosures had been “public knowledge” for over 30 years. 
  <p class="updated_time"> 04:29 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/jan-6-mike-pence-gop-lawmakers-526906">Jan. 6 investigators near decisions on how to pursue Mike Pence and GOP lawmakers</a> Politico: Chair Bennie Thompson said Tuesday both matters are high on the committee’s to-do list. 
+ <p class="updated_time"> 03:42 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden to amp up the pressure on the Senate to change filibuster rules for voting rights during Atlanta speech</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
+ <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072183425/the-biden-administration-says-it-has-a-plan-to-clean-up-toxic-coal-ash">The Biden administration says it has a plan to clean up toxic coal ash</a> NPR: Even as coal plants shut down, they leave behind massive piles of toxic coal ash. About half that coal ash is unregulated, and environmental groups want the Biden administration to change that. 
+ <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072183418/senate-democrats-cant-agree-on-bidens-push-to-pass-voting-rights-legislation">Senate Democrats can't agree on Biden's push to pass voting rights legislation</a> NPR: President Biden called for changes to Senate rules in an effort to pass voting rights legislation. Among the challenges to his effort is a lack of unity among Senate Democrats to making those changes. 
  <p class="updated_time"> 03:28 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/senators-feds-jan-6-riot-probe-526899">Senators grill feds over Jan. 6 riot probe</a> Politico: Democrats challenged prosecutors for not seeking terrorism-related sentences, while Republicans often steered away from the insurrection altogether. 
  <p class="updated_time"> 03:25 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/harry-reid.html">Harry Reid: From Capitol Cop to Powerhouse Senate Majority Leader</a> NYT: Mr. Reid, who will lie in state on Wednesday in the Rotunda, charted a unique path to power and knew how to exercise it. 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/harry-reid.html">Harry Reid: From Capitol Cop to Powerhouse Senate Leader</a> NYT: Mr. Reid, who will lie in state on Wednesday in the Rotunda, charted a unique path to power and knew how to exercise it. 
  <p class="updated_time"> 03:21 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/supreme-court-immigrants-bail-hearings.html">Supreme Court Weighs Jailed Immigrants’ Rights to Bail Hearings</a> NYT: Lawyers for the federal government said immigrants detained for months while they fight deportation are not entitled to seek release from immigration judges. 
  <p class="updated_time"> 03:08 PM CT, Jan. 11 </p> 
@@ -226,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1072110378/dr-fauci-says-gop-sen-pauls-false-accusations-have-sparked-death-threats">Dr. Fauci says GOP Sen. Paul's false accusations have sparked death threats</a> NPR: Fauci and Paul sparred at a Senate hearing on COVID-19, escalating exchanges the two have had throughout the pandemic. Fauci also said Paul is attempting to raise money off "a catastrophic epidemic." 
  <p class="updated_time"> 01:15 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/trump-jan-6-lawsuits.html">Civil Suits Against Trump Seek Damages for Jan. 6 Attack</a> NYT: Lawyers argued that the cases against the former president should be allowed to go forward because he inflamed a mob and failed to stop the violence it wrought. 
- <p class="updated_time"> 12:35 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden to amp up the pressure on the Senate to change filibuster rules for voting rights during Atlanta speech</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 12:16 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/david-mccormick-senate-campaign-trump-526870">McCormick MAGA-proofs his Senate campaign after dissing Trump</a> Politico: The new Pennsylvania candidate is certain to face GOP primary attacks. 
  <p class="updated_time"> 12:15 PM CT, Jan. 11 </p> 
@@ -360,10 +368,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/09/politics/biden-student-loan-for-profit-college/index.html">Why Biden's student loan relief efforts haven't yet reversed a DeVos decision on for-profit colleges</a> CNN: The Biden administration has pledged to make college more affordable. But it has chosen not to reinstate an Obama-era rule meant to prevent students from taking on too much debt to attend predatory for-profit colleges. 
  <p class="updated_time"> 08:32 AM CT, Jan. 09 </p> 
  <a href="https://www.npr.org/2022/01/09/1071391935/wisconsin-republican-sen-ron-johnson-is-running-for-reelection">Wisconsin Republican Sen. Ron Johnson is running for reelection</a> NPR: The controversial Republican said he will seek a third term, in what is expected to be a hotly contested race that could determine which party controls the Senate. 
- <p class="updated_time"> 07:26 AM CT, Jan. 09 </p> 
- <a href="https://www.npr.org/2022/01/09/1071663576/politics-chat-voting-rights-bills-stalled-midterm-considerations-sen-reid-dies">Politics chat: Voting rights bills stalled; midterm considerations; Sen. Reid dies</a> NPR: We look ahead to the fight over the two voting rights bills in Congress right now as well as how the 2022 political races are shaping up for the midterm elections. 
- <p class="updated_time"> 07:05 AM CT, Jan. 09 </p> 
- <a href="https://www.npr.org/2022/01/09/1071663527/the-story-of-january-6-goes-beyond-a-single-day">The story of January 6 goes beyond a single day</a> NPR: It's been a year since a mob supporting former President Donald Trump attacked the U.S. Capitol. We look at what we've learned about domestic extremism over the past year. 
  <p class="updated_time"> 07:00 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/joe-biden-takes-on-georgia-voting-526801">‘We are going right to the belly of the beast’: Biden takes on Georgia</a> Politico: Fresh off his Jan. 6 anniversary speech, the president and his top aides are trying to keep up the momentum for some legislative remedy. 
  <p class="updated_time"> 05:19 PM CT, Jan. 08 </p> 
