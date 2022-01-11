@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:13 PM CT, Jan. 10 </p> 
+ <p class="updated_time"> 10:36 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59947211?at_medium=RSS&at_campaign=KARANGA">David Sassoli: European Parliament president dies aged 65</a> BBC: It comes after the centre-left politician was admitted to hospital due to a serious complication with his immune system. 
+ <p class="updated_time"> 10:27 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">David Sassoli, President of the European Parliament, Dies at 65</a> NYT: No cause of death was immediately available. He had been hospitalized in Italy because his immune system was not functioning normally. 
+ <p class="updated_time"> 10:00 PM CT, Jan. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59947088?at_medium=RSS&at_campaign=KARANGA">Evergrande: Real estate giant moves from Shenzhen head office to cut costs</a> BBC: The crisis-hit property developer is still struggling to pay more than $300bn in liabilities. 
  <p class="updated_time"> 09:46 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59944701?at_medium=RSS&at_campaign=KARANGA">Djokovic saga damaging, says tennis governing body</a> BBC: The controversy over Novak Djokovic's visa to enter Australia has been "damaging on all fronts", says the ATP. 
  <p class="updated_time"> 09:00 PM CT, Jan. 10 </p> 
@@ -87,14 +91,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/europe/white-cliffs-sicily-vandalism.html">Famed White Cliffs of Sicily Are Defaced in an Act of Vandalism</a> NYT: Vandals stained a cliff formation known as the Staircase of the Turks with red splotches over the weekend. Residents of a nearby town banded together for a successful cleanup. 
  <p class="updated_time"> 11:22 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59939507?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: How tennis player won visa row court case</a> BBC: Australia's legal defence collapsed on the evidence of the tennis player's treatment at the airport. 
- <p class="updated_time"> 09:53 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59939536?at_medium=RSS&at_campaign=KARANGA">Tesla adds chill and assertive self-driving modes</a> BBC: An update to Tesla cars adds a mode to follow other cars more closely and to slow rather than stop. 
  <p class="updated_time"> 09:29 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/china-covid-omicron-beijing-olympics.html">China’s Covid Outbreak Complicates Safety Plan for Beijing Olympics</a> NYT: Officials are racing to extinguish a spate of coronavirus infections around the country. 
  <p class="updated_time"> 09:03 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-59936823?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic family end press conference after Covid event question</a> BBC: The tennis star's family ends a press conference, refusing to be drawn on his positive Covid test. 
- <p class="updated_time"> 08:59 AM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59936449?at_medium=RSS&at_campaign=KARANGA">Former Israeli PMs Netanyahu and Olmert face off in court in libel case</a> BBC: Benjamin Netanyahu and his family are suing Ehud Olmert for claiming that they were mentally ill. 
  <p class="updated_time"> 08:54 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/asia/india-masks-omicron.html">In India, Mask Wearing Is Down Despite Rising Coronavirus Cases</a> NYT: Health officials are finding it harder to impose regulations despite signs that Omicron is beginning to take hold. 
  <p class="updated_time"> 08:54 AM CT, Jan. 10 </p> 
@@ -200,6 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:41 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/biden-stacey-abrams-voting-rights.html">Voting Rights Groups Skipping Biden's Speech Over Inaction</a> NYT: Stacey Abrams, the Democratic candidate for governor, also will not be there, but she cited a scheduling conflict. 
+ <p class="updated_time"> 10:29 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-photos-prisoners.html">20 Years Later, the Story Behind the Guantánamo Photo That Won’t Go Away</a> NYT: On Jan. 11, 2002, a sailor photographed 20 men in orange uniforms and on their knees, capturing one of the most damning post-9/11 images of U.S. detention policy. 
  <p class="updated_time"> 10:09 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US says no breakthrough in 'frank and forthright' talks with Russia over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 09:45 PM CT, Jan. 10 </p> 
@@ -216,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/10/politics/home-covid-tests-health-insurance/index.html">Home Covid-19 tests must be paid for by health insurers starting Saturday</a> CNN: Health insurers must cover the cost of home Covid-19 tests starting January 15, the US Department of Health and Human Services announced Monday. 
  <p class="updated_time"> 07:20 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/trump-jan-6-lawsuits.html">Civil Suits Against Trump Seek Damages for Jan. 6 Attack</a> NYT: Lawyers argued that the cases against the former president should be allowed to go forward because he inflamed a mob and failed to stop the violence it wrought. 
- <p class="updated_time"> 07:16 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/biden-stacey-abrams-voting-rights.html">Voting Rights Groups Skipping Biden's Speech Over Inaction</a> NYT: Stacey Abrams, the Democratic candidate for governor, also will not be there, but she cited a scheduling conflict. 
  <p class="updated_time"> 07:10 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/democrats-filibuster-vote-526863">Dems' filibuster conundrum: It's not just Manchin and Sinema</a> Politico: Mark Kelly is undecided. Jon Tester likes a talking filibuster but is “not crazy” about making an exception for elections reform. And Jeanne Shaheen is promoting more modest changes. 
  <p class="updated_time"> 07:09 PM CT, Jan. 10 </p> 
@@ -270,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/trump-immunity-jan-6-526839">Judge mulls whether Trump’s silence on Jan. 6 could amount to ‘agreement’ with rioters</a> Politico: During a hearing on civil lawsuits stemming from the Capitol attack, Donald Trump’s lawyers claimed sweeping immunity for the former president. 
  <p class="updated_time"> 02:57 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/clay-aiken-congress.html">Clay Aiken, Former ‘American Idol’ Star, Announces Run for Congress</a> NYT: Mr. Aiken said he was running as a “loud and proud Democrat” for an open House seat in his native North Carolina this year. 
- <p class="updated_time"> 02:56 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-photos-prisoners.html">20 Years Later, the Story Behind the Guantánamo Photo That Won’t Go Away</a> NYT: On Jan. 11, 2002, a sailor photographed 20 men in orange uniforms and on their knees, capturing one of the most damning post-9/11 images of U.S. detention policy. 
  <p class="updated_time"> 02:14 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/new-quarter-treasury-maya-angelou-526836">Treasury begins distribution of quarter featuring poet, activist Maya Angelou</a> Politico: The poet and activist is the first Black woman to appear on a U.S. quarter. 
  <p class="updated_time"> 02:13 PM CT, Jan. 10 </p> 
