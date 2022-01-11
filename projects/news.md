@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:42 AM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072029936/cyber-risks-add-to-climate-threat-world-economic-forum-warns">Cyber risks add to climate threat, World Economic Forum warns</a> NPR: Survey of 1,000 experts and leaders finds cybersecurity and space add to the existing challenges of climate change and the coronavirus pandemic. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59944889?at_medium=RSS&at_campaign=KARANGA">Man gets genetically-modified pig heart in world-first transplant</a> BBC: David Bennett, 57, is doing well three days after the experimental surgery, doctors say. 
  <p class="updated_time"> 04:21 AM CT, Jan. 11 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
  <p class="updated_time"> 10:37 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Hong Kong Party Angers a City Under Covid Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
- <p class="updated_time"> 06:39 PM CT, Jan. 09 </p> 
- <a href="https://www.npr.org/2022/01/09/1071703878/us-russia-ukraine-talks-geneva">Neither side is optimistic ahead of U.S.-Russia talks over Ukraine</a> NPR: The U.S. and its European allies want Russia to reduce troop buildup along the Ukraine border. Russia wants U.S. troops out of Eastern Europe. Both sides say those demands are non-starters. 
  <p class="updated_time"> 06:03 PM CT, Jan. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59808770?at_medium=RSS&at_campaign=KARANGA">Air pollution: Delhi's smog problem is rooted in India's water crisis</a> BBC: Years of ill-conceived farming practices have contributed to India's worsening air pollution. 
  <p class="updated_time"> 02:14 PM CT, Jan. 09 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/biden-speech-voting-rights-republicans-526871">Biden to turn the heat up on Republicans over voting rights</a> Politico: The trip to Georgia is meant to assure activists that he’s ready for the fight. 
+ <p class="updated_time"> 04:42 AM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072029936/cyber-risks-add-to-climate-threat-world-economic-forum-warns">Cyber risks add to climate threat, World Economic Forum warns</a> NPR: Survey of 1,000 experts and leaders finds cybersecurity and space add to the existing challenges of climate change and the coronavirus pandemic. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
@@ -322,6 +324,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/09/mike-rounds-trump-election-republicans-526806">GOP senator says Trump’s election allegations are unfounded</a> Politico: “The election was fair, as fair as we have seen,” Mike Rounds said. 
  <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
+ <p class="updated_time"> 10:01 AM CT, Jan. 09 </p> 
+ <a href="https://www.politico.com/news/2022/01/09/ron-johnson-reelection-senate-wisconsin-526804">Ron Johnson to seek reelection to Senate</a> Politico: The Wisconsin Republican announced his decision in a Wall Street Journal column. 
  <p class="updated_time"> 09:08 AM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/michelle-obama-2022-elections-fight-for-vote/index.html">Michelle Obama wades into 2022 midterm elections with urgent message on voting</a> CNN: Former first lady Michelle Obama has a message for Americans ahead of the 2022 midterm elections: "We've got to vote like the future of our democracy depends on it." 
  <p class="updated_time"> 09:07 AM CT, Jan. 09 </p> 
@@ -354,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071542880/president-bidens-on-the-road-to-atlanta-to-push-for-new-voting-rights-legislatio">President Biden's on the road to Atlanta to push for new voting rights legislation</a> NPR: President Biden is making a push for new voting rights legislation. But he faces an uphill battle with the public and Congress. 
  <p class="updated_time"> 07:03 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071542831/week-in-politics-russia-sends-troops-to-kazakhstan-jobs-up-jan-6-anniversary">Week in politics: Russia sends troops to Kazakhstan; jobs up; Jan. 6 anniversary</a> NPR: The unrest in Kazakhstan presents a fresh dilemma for President Biden. Also, what last month's low job creation numbers mean, and how Democrats are using the Jan. 6 riot to their advantage. 
- <p class="updated_time"> 06:00 AM CT, Jan. 08 </p> 
- <a href="https://www.npr.org/2022/01/08/1071239044/congress-may-change-this-arcane-law-to-avoid-another-jan-6">Congress may change this arcane law to avoid another Jan. 6</a> NPR: Lawmakers passed the Electoral Count Act in 1887 after a contested election, and experts say they did a "terrible job." There may now be bipartisan support for a refresh. 
  <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
  <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
@@ -408,8 +410,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/chicago-mayor-lightfood-teachers-union-laughingstock-526600">Chicago mayor: Teachers union made us a ‘laughingstock’</a> Politico: As the Omicron variant triggers a new wave of Covid-19 cases, educators in the nation's third-largest school district voted late Tuesday to not report to work. 
  <p class="updated_time"> 06:05 PM CT, Jan. 05 </p> 
  <a href="https://www.cnn.com/2022/01/05/politics/peter-velz-vincent-evans-kamala-harris/index.html">Two Harris staffers announce they're leaving vice president's office</a> CNN: Two staffers announced Wednesday that they are leaving Vice President Kamala Harris' office. 
- <p class="updated_time"> 05:58 PM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/news/2022/01/05/cdc-advisers-teen-pfizer-covid-booster-526572">CDC recommends all teens get Pfizer Covid booster</a> Politico: The advisory panel signed off on the recommendation following presentations by doctors suggesting boosters are likely to increase antibodies in young teens. 
  <p class="updated_time"> 05:01 PM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/news/2022/01/05/shocked-and-stunned-and-horrified-how-joe-biden-processed-jan-6-526554">‘Shocked and stunned and horrified’: How Joe Biden processed Jan. 6</a> Politico: A lot is known about how Congress and Trump spent that day. Little about the then president-elect. 
  <p class="updated_time"> 11:20 AM CT, Jan. 05 </p> 
