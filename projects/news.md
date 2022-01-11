@@ -16,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:19 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/russia-putin-mystery-ukraine.html">Putin’s Next Move on Ukraine Is a Mystery. Just the Way He Likes It.</a> NYT: The contradictory, sometimes menacing messages from the Kremlin have stumped Western officials and Russia experts, showing the Russian leader’s desire to keep his rivals on edge. 
  <p class="updated_time"> 04:18 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072183480/arif-khan-is-blazing-a-trail-for-indian-skiers-by-qualifying-for-the-beijing-oly">Arif Khan is blazing a trail for Indian skiers by qualifying for the Beijing Olympics</a> NPR: India isn't famous for snow sports. Kashmiri ski racer Arif Khan hopes to change that. The first and so far only Indian to qualify for the Beijing Olympics, he crowdfunded trips to Europe to qualify. 
+ <a href="https://www.npr.org/2022/01/11/1072183480/arif-khan-is-blazing-a-trail-for-indian-skiers-by-qualifying-for-the-beijing-oly">Arif Khan aims to put Indian winter sports on the map at the Beijing Olympics</a> NPR: India isn't famous for snow sports. Kashmiri ski racer Arif Khan hopes to change that. The first and so far only Indian to qualify for the Beijing Olympics, he crowdfunded trips to Europe to qualify. 
  <p class="updated_time"> 03:40 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/kazakhstan-russia-troops.html">Kazakhstan Says Russian Troops Can Start Leaving This Week</a> NYT: Kazakhstan’s president says violence has been quelled, so there is no longer need for the foreign troops he asked to help. Russia has not given a timeline for withdrawing. 
  <p class="updated_time"> 03:09 PM CT, Jan. 11 </p> 
@@ -206,6 +206,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/powell-congress-inflation-jobs-526911">Powell’s warning to Congress: Inflation a ‘severe threat’ to jobs</a> Politico: The potential clash over the Fed’s plans to tighten monetary policy could be a harbinger of conflicts to come with Democrats and even some Republicans. 
  <p class="updated_time"> 04:54 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/jan-6-panel-subpoenas-trump-jr-aides-trump-speechwriter-526916">Jan. 6 panel subpoenas Trump Jr. aides, Trump speechwriter</a> Politico: The subpoenas for Andrew Surabian, Arthur Schwartz and Ross Worthington indicate investigators are inching ever closer to the Trump family. 
+ <p class="updated_time"> 04:39 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/harry-reid.html">Harry Reid: From Capitol Cop to Powerhouse Senate Leader</a> NYT: Mr. Reid, who will lie in state on Wednesday in the Rotunda, charted a unique path to power and knew how to exercise it. 
+ <p class="updated_time"> 04:36 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/january-6-subpoenas/index.html">January 6 panel subpoenas former White House official who helped draft Trump speech</a> CNN: The House select committee investigating the January 6 riot issued a new round of subpoenas Tuesday demanding records and testimony from three individuals, including a former White House official who helped draft the speech delivered by former President Donald Trump prior to the attack where he called on his supporters to march to the US Capitol. 
  <p class="updated_time"> 04:34 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/chicago-mayor-lori-lightfoot-contracts-covid-526907">Chicago mayor tests positive for Covid a day after announcing school reopening deal</a> Politico: The news came about 17 hours after Lightfoot announced she and the Chicago Teachers Union ended a tense standoff over the safety of children and staff returning to school amid the Omicron surge. 
  <p class="updated_time"> 04:33 PM CT, Jan. 11 </p> 
@@ -215,11 +219,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:28 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183501/could-the-u-s-really-cripple-the-russian-economy-like-biden-warns">Could the U.S. really cripple the Russian economy like Biden warns?</a> NPR: President Biden has threatened Russia with massive sanctions if it follows through on threats to take more Ukrainian territory. 
  <p class="updated_time"> 04:26 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/january-6-subpoenas/index.html">January 6 panel subpoenas former White House official who helped draft Trump speech</a> CNN: The House select committee investigating the January 6 riot issued a new round of subpoenas Tuesday demanding records and testimony from three individuals, including a former White House official who helped draft the speech delivered by former President Donald Trump prior to the attack where he called on his supporters to march to the US Capitol. 
+ <a href="https://www.cnn.com/2022/01/11/politics/alzheimers-drug-aduhelm-medicare-decision/index.html">Medicare proposes to cover controversial Alzheimer's drug with restrictions</a> CNN: Medicare has proposed covering the controversial and costly Alzheimer's drug Aduhelm only for those enrolled in qualifying clinical trials, the Centers for Medicare and Medicaid Services announced Tuesday. 
  <p class="updated_time"> 04:23 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183487/what-president-bidens-speech-about-voting-rights-legislation-means-for-georgia">What President Biden's speech about voting rights legislation means for Georgia</a> NPR: The president and vice president travel to Georgia to make the case for voting rights legislation. The state has been ground zero for debate over voting and elections reforms. 
- <p class="updated_time"> 04:15 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/harry-reid.html">Harry Reid: From Capitol Cop to Powerhouse Senate Leader</a> NYT: Mr. Reid, who will lie in state on Wednesday in the Rotunda, charted a unique path to power and knew how to exercise it. 
  <p class="updated_time"> 04:06 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/mike-rounds-republican-defense/index.html">Top Republicans stand up for Rounds after Trump's attack: He 'told the truth'</a> CNN: Senior Republicans are closing ranks behind Sen. Mike Rounds after he endured a scathing attack from former President Donald Trump for acknowledging the reality that President Joe Biden won the 2020 election. 
  <p class="updated_time"> 04:01 PM CT, Jan. 11 </p> 
@@ -235,9 +237,9 @@ permalink: /projects/news/
  <p class="updated_time"> 03:42 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden calls on Senate to change filibuster rules for voting rights as he turns up the heat on Congress to pass major bills</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072183418/senate-democrats-cant-agree-on-bidens-push-to-pass-voting-rights-legislation">Senate Democrats can't agree on Biden's push to pass voting rights legislation</a> NPR: President Biden called for changes to Senate rules in an effort to pass voting rights legislation. Among the challenges to his effort is a lack of unity among Senate Democrats to making those changes. 
- <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183425/the-biden-administration-says-it-has-a-plan-to-clean-up-toxic-coal-ash">The Biden administration says it has a plan to clean up toxic coal ash</a> NPR: Even as coal plants shut down, they leave behind massive piles of toxic coal ash. About half that coal ash is unregulated, and environmental groups want the Biden administration to change that. 
+ <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072183418/senate-democrats-cant-agree-on-bidens-push-to-pass-voting-rights-legislation">Senate Democrats can't agree on Biden's push to pass voting rights legislation</a> NPR: President Biden called for changes to Senate rules in an effort to pass voting rights legislation. Among the challenges to his effort is a lack of unity among Senate Democrats to making those changes. 
  <p class="updated_time"> 03:28 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/senators-feds-jan-6-riot-probe-526899">Senators grill feds over Jan. 6 riot probe</a> Politico: Democrats challenged prosecutors for not seeking terrorism-related sentences, while Republicans often steered away from the insurrection altogether. 
  <p class="updated_time"> 03:21 PM CT, Jan. 11 </p> 
@@ -286,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/10/politics/georgia-voting-rights-advocates-biden-visit/index.html">Georgia voting rights groups boycott Biden speech: 'We don't need even more photo ops. We need action'</a> CNN: A coalition of voting rights groups in Georgia announced Monday that they will not attend events surrounding President Joe Biden's expected visit to Atlanta. 
  <p class="updated_time"> 07:45 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/11/democrats-look-for-a-roadmap-on-rules-changes-495677">Democrats look for a roadmap on rules changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:17 AM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/us-humanitarian-assistance-afghanistan/index.html">US providing $308 million in humanitarian assistance to Afghanistan</a> CNN: The US is providing $308 million in humanitarian aid for the people of Afghanistan, the National Security Council announced Tuesday, as well as additional Covid-19 vaccine doses. 
  <p class="updated_time"> 06:21 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072019272/biden-needs-to-stay-the-course-on-voting-rights-rep-clyburn-says">Biden needs to stay the course on voting rights, Rep. Clyburn says</a> NPR: NPR's A Martinez talks to House Majority Whip Jim Clyburn of South Carolina, who is advocating for the John R. Lewis Voting Rights Advancement Act, about what he wants to hear in the president speech. 
  <p class="updated_time"> 06:20 AM CT, Jan. 11 </p> 
@@ -312,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/one-party-control-white-house-congress/index.html">If Democrats can't pass their agenda now, they may not get another chance for years. Here's why</a> CNN: The last four times a president went into midterm elections holding unified control of the White House, Senate and House of Representatives, as Joe Biden and Democrats do now, voters have revoked it. 
  <p class="updated_time"> 10:29 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-photos-prisoners.html">20 Years Later, the Story Behind the Guantánamo Photo That Won’t Go Away</a> NYT: On Jan. 11, 2002, a sailor photographed 20 men in orange uniforms and on their knees, capturing one of the most damning post-9/11 images of U.S. detention policy. 
- <p class="updated_time"> 09:45 PM CT, Jan. 10 </p> 
- <a href="https://www.politico.com/news/2022/01/10/chicago-schools-teachers-deal-stalemate-526868">Chicago schools, teachers reach tentative deal to end classroom shutdown</a> Politico: The potential agreement would have educators return to schools beginning Tuesday, while students would return Wednesday. 
  <p class="updated_time"> 08:39 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/kevin-mccarthy-committees-republican-house-majority/index.html">McCarthy vows to remove Democrats from committees if Republicans win House</a> CNN: House Minority Leader Kevin McCarthy has vowed to remove three Democratic lawmakers from key committee assignments if Republicans win back the chamber in the upcoming midterm elections. 
  <p class="updated_time"> 08:37 PM CT, Jan. 10 </p> 
