@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/sections/money/2022/01/11/1071282973/as-carbon-removal-gains-traction-economists-imagine-a-new-market-to-save-the-pla">As carbon removal gains traction, economists imagine a new market to save the planet</a> NPR: Carbon removal went mainstream in 2021. But the technology is still light years away from making a real difference combating climate change. A group of economists wants to help change that. 
+ <p class="updated_time"> 05:25 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59946900?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Questions raised over tennis star's travel declaration</a> BBC: Australian officials are investigating whether he gave false information on a form, local media says. 
+ <p class="updated_time"> 05:20 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59951255?at_medium=RSS&at_campaign=KARANGA">Magawa, the landmine-sniffing hero rat, dies aged eight</a> BBC: Magawa was awarded a gold medal for heroism for clearing landmines in Cambodia. 
  <p class="updated_time"> 04:53 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released, but Other Royals Are Still Locked Up</a> NYT: The Saudi government has not said why it detained or freed Princess Basmah bint Saud, a daughter of a former king who has criticized the country’s policies. 
  <p class="updated_time"> 04:42 AM CT, Jan. 11 </p> 
@@ -19,10 +25,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/europe/putin-russia-kazakhstan.html">Russian Troops Will Stay to Finish Job in Kazakhstan, Putin Says</a> NYT: Blaming “internal and external forces” for the unrest in the resource-rich Central Asian country, President Vladimir V. Putin of Russia set no deadline for the withdrawal of the forces his country sent there. 
  <p class="updated_time"> 04:16 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59935126?at_medium=RSS&at_campaign=KARANGA">China: Doctor charged for treating fever patient</a> BBC: The medic in Henan could face a prison term because there wasn't a fever clinic at their hospital. 
- <p class="updated_time"> 04:14 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59944701?at_medium=RSS&at_campaign=KARANGA">Djokovic saga damaging, says tennis governing body</a> BBC: The controversy over Novak Djokovic's visa to enter Australia has been "damaging on all fronts", says the ATP. 
  <p class="updated_time"> 04:01 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
+ <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
  <p class="updated_time"> 03:43 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072021539/eu-parliament-president-david-sassoli-dies-at-age-65">EU Parliament President David Sassoli dies at age 65</a> NPR: The Italian journalist had been hospitalized since Dec. 26 due to abnormal functioning of his immune system. 
  <p class="updated_time"> 02:44 AM CT, Jan. 11 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/10/1071896624/vindman-discusses-u-s-options-on-russia-ukraine-tensions">Vindman discusses U.S. options on Russia-Ukraine tensions</a> NPR: NPR's Mary Louise Kelly talks to Alexander Vindman, former director for European affairs at the United States National Security Council, about how the U.S. might deter Russia from invading Ukraine. 
  <p class="updated_time"> 03:22 PM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/mexican-president-andres-manuel-lopez-obrador-contracts-covid-19-for-second-time-11641867720">Mexican President Contracts Covid-19 a Second Time</a> WSJ: Andrés Manuel López Obrador, who has had three doses of the AstraZeneca vaccine, said he had only minor symptoms and would isolate and continue his work remotely. 
- <p class="updated_time"> 03:06 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59945850?at_medium=RSS&at_campaign=KARANGA">Millionaire murderer Robert Durst dies in prison</a> BBC: The real estate heir turned fugitive unwittingly confessed to three killings on a TV crime show. 
  <p class="updated_time"> 02:49 PM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071880010/russia-us-ukraine-nato-join">Russia digs in on Ukraine never joining NATO, on a day of talks with the U.S. </a> NPR: "For us, it's absolutely mandatory to make sure that Ukraine never, never, ever becomes a member of NATO," Russian Deputy Foreign Minister Sergei Ryabkov said. 
  <p class="updated_time"> 01:22 PM CT, Jan. 10 </p> 
@@ -139,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-europe-ukraine-nato.html">U.S. and Russia Will Discuss European Security, but Without Europeans</a> NYT: The coming talks in Geneva are bilateral, reviving old fears that the two Cold War powers will forge a deal on their own. 
  <p class="updated_time"> 01:48 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/kazakhstan-protests-detained-injured.html">Nearly 6,000 Detained Amid Unrest in Kazakhstan</a> NYT: Protests that began last weekend over a hike in fuel prices spread across the country, leaving at least 2,000 injured, government officials said. Dozens of deaths also appeared likely. 
- <p class="updated_time"> 01:11 AM CT, Jan. 10 </p> 
- <a href="https://www.npr.org/2022/01/10/1071761247/djokovics-visa-reinstated-but-australian-open-status-unclear">Djokovic's visa is reinstated, but his Australian Open status remains unclear</a> NPR: The tennis star, who sought a COVID-19 vaccine exemption to play in the tournament, could face deportation again. The battle has sparked protests in the widely vaccinated country. 
  <p class="updated_time"> 12:00 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59928856?at_medium=RSS&at_campaign=KARANGA">'They looted everything': Counting the cost of Kazakh protests</a> BBC: Violent protests have left Kazakhstan stunned and angry, the BBC's Abdujalil Abdurasulov finds. 
  <p class="updated_time"> 11:15 PM CT, Jan. 09 </p> 
