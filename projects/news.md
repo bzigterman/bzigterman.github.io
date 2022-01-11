@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:18 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/europe/putin-russia-kazakhstan.html">Russian Troops Will Stay to Finish Job in Kazakhstan, Putin Says</a> NYT: Blaming “internal and external forces” for the unrest in the resource-rich Central Asian country, President Vladimir V. Putin of Russia set no deadline for the withdrawal of the forces his country sent there. 
+ <p class="updated_time"> 04:14 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59944701?at_medium=RSS&at_campaign=KARANGA">Djokovic saga damaging, says tennis governing body</a> BBC: The controversy over Novak Djokovic's visa to enter Australia has been "damaging on all fronts", says the ATP. 
+ <p class="updated_time"> 04:01 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
  <p class="updated_time"> 03:44 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released, but Other Royals Are Still Locked Up</a> NYT: The Saudi government has not said why it detained or freed Princess Basmah bint Saud, a daughter of a former king who has criticized the country’s policies. 
  <p class="updated_time"> 03:43 AM CT, Jan. 11 </p> 
@@ -14,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:44 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/cladding-grenfell-uk.html">Nearly 5 Years After Grenfell Fire, U.K. Tells Developers to Pay for Upgrades</a> NYT: After a deadly high-rise blaze in 2017, countless instances of unsafe building practices came to light. The latest plan to address them expands who will be covered. 
  <p class="updated_time"> 02:40 AM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072018967/north-korea-launches-another-suspected-missile-amid-stalled-talks-with-the-u-s">North Korea launches another suspected missile amid stalled talks with the U.S.</a> NPR: Some experts say North Korea may have tested its purported hypersonic missile again in response to the South Korean military playing down a previous test. 
+ <a href="https://www.npr.org/2022/01/11/1072018967/north-korea-launches-another-suspected-missile-amid-stalled-talks-with-the-u-s">North Korea launches another suspected missile amid stalled talks with the U.S.</a> NPR: The launch corresponded with an unexplained order by the FAA to ground some flights on the U.S. West Coast. 
  <p class="updated_time"> 02:32 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/russia-ukraine-nato-europe.html">Can Russia Be Stopped From Invading Ukraine? Here's What We Know</a> NYT: The United States, its NATO allies and Russia meet this week in a whirlwind of diplomacy aimed at averting the largest military action in Europe since World War II. Here’s a guide to what’s at stake. 
  <p class="updated_time"> 02:11 AM CT, Jan. 11 </p> 
@@ -33,12 +39,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: No cause of death was immediately available. He had been hospitalized in Italy because his immune system was not functioning normally. 
  <p class="updated_time"> 12:00 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/jeffrey-moyo-zimbabwe-nyt.html">Freelance Reporter for The New York Times Is Put on Trial in Zimbabwe</a> NYT: The reporter, Jeffrey Moyo, has been accused of helping two Times journalists enter Zimbabwe from South Africa using bogus credentials, a charge that even the government admits is on ‘shaky grounds.’ 
+ <p class="updated_time"> 11:19 PM CT, Jan. 10 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-launches-unidentified-projectile-off-its-east-coast-south-korea-says-11641859154">North Korea Launches Ballistic Missile, South Korea Says</a> WSJ: The weapons test off the country’s east coast is Pyongyang’s second of this year, following a ballistic missile launch last week. 
  <p class="updated_time"> 11:01 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/asia/afghanistan-united-nations-appeal.html">U.N. Seeks Huge Aid Increase to Prevent ‘Catastrophe’ in Afghanistan</a> NYT: The $5 billion appeal comes as a severe drought and the toll of decades of war have plunged three-quarters of the country’s population into acute poverty, according to the United Nations. 
  <p class="updated_time"> 10:00 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-59947088?at_medium=RSS&at_campaign=KARANGA">Evergrande: Real estate giant moves from Shenzhen head office to cut costs</a> BBC: The crisis-hit property developer is still struggling to pay more than $300bn in liabilities. 
- <p class="updated_time"> 09:46 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59944701?at_medium=RSS&at_campaign=KARANGA">Djokovic saga damaging, says tennis governing body</a> BBC: The controversy over Novak Djokovic's visa to enter Australia has been "damaging on all fronts", says the ATP. 
  <p class="updated_time"> 08:57 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59935125?at_medium=RSS&at_campaign=KARANGA">North Korea fires suspected ballistic missile</a> BBC: It comes as six nations, including the US, call for the North to stop its "destabilising actions." 
  <p class="updated_time"> 08:55 PM CT, Jan. 10 </p> 
@@ -56,7 +62,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:14 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59862548?at_medium=RSS&at_campaign=KARANGA">How old Ugandan negatives are bringing families back to life</a> BBC: The restored archive of a rural Ugandan photographer is helping people reconnect with their past. 
  <p class="updated_time"> 06:08 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59942993?at_medium=RSS&at_campaign=KARANGA">Afghanistan's cold and bitter hunger</a> BBC: The UN has called for urgent aid as one million Afghan children are at risk from severe malnourishment. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59942993?at_medium=RSS&at_campaign=KARANGA">Burning plastic to keep warm in Afghanistan</a> BBC: The UN has called for urgent aid as one million Afghan children are at risk from severe malnourishment. 
  <p class="updated_time"> 06:02 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
  <p class="updated_time"> 05:55 PM CT, Jan. 10 </p> 
@@ -89,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/10/1071896624/vindman-discusses-u-s-options-on-russia-ukraine-tensions">Vindman discusses U.S. options on Russia-Ukraine tensions</a> NPR: NPR's Mary Louise Kelly talks to Alexander Vindman, former director for European affairs at the United States National Security Council, about how the U.S. might deter Russia from invading Ukraine. 
  <p class="updated_time"> 03:22 PM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/mexican-president-andres-manuel-lopez-obrador-contracts-covid-19-for-second-time-11641867720">Mexican President Contracts Covid-19 a Second Time</a> WSJ: Andrés Manuel López Obrador, who has had three doses of the AstraZeneca vaccine, said he had only minor symptoms and would isolate and continue his work remotely. 
- <p class="updated_time"> 03:09 PM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/north-korea-launches-unidentified-projectile-off-its-east-coast-south-korea-says-11641859154">North Korea Launches Unidentified Projectile, South Korea Says</a> WSJ: The weapons test off the country’s east coast is Pyongyang’s second of this year, following a ballistic missile launch last week. 
  <p class="updated_time"> 03:06 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59945850?at_medium=RSS&at_campaign=KARANGA">Millionaire murderer Robert Durst dies in prison</a> BBC: The real estate heir turned fugitive unwittingly confessed to three killings on a TV crime show. 
  <p class="updated_time"> 02:49 PM CT, Jan. 10 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-russia-talks-begin-to-avert-one-of-the-biggest-geopolitical-crises-since-the-cold-war-11641815752">U.S., Russia Talks Yield Little Overall Progress Amid Ukraine Crisis</a> WSJ: Negotiators for Washington and Moscow held their first security talks since Russia’s deployment of tens of thousands of troops to the Ukrainian border sparked fears of an invasion, but said they failed to narrow their differences. 
  <p class="updated_time"> 11:56 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: Australian officials hinted they may make a new attempt to cancel Djokovic’s visa, even as the tennis champion, freed from detention, returned to the court. 
- <p class="updated_time"> 11:55 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/europe/putin-russia-kazakhstan.html">Russian Troops Will Stay to Finish Job in Kazakhstan, Putin Says</a> NYT: Blaming “internal and external forces” for the unrest in the resource-rich Central Asian country, President Vladimir V. Putin of Russia set no deadline for the withdrawal of the forces his country sent there. 
  <p class="updated_time"> 11:49 AM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59935998?at_medium=RSS&at_campaign=KARANGA">Covid pass protesters attack French MP Stéphane Claireaux with seaweed</a> BBC: Stéphane Claireaux likens the attack near his home in a French part of North America to a "stoning". 
  <p class="updated_time"> 11:45 AM CT, Jan. 10 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/07/sports/olympics/alysa-liu-coronavirus.html">Alysa Liu Will Miss National Championships After Positive Coronavirus Test</a> NYT: The teenager had hoped a strong showing would secure her a spot on the U.S. team for the Beijing Winter Olympics next month. 
  <p class="updated_time"> 07:21 PM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/07/world/canada/montreal-cancun-party-flight.html">Airlines Strand Passengers Who Partied on Flight Without Masks</a> NYT: A group of Canadian social media influencers and others flouted Covid-19 rules on a flight to Cancún, Mexico, resulting in airlines leaving many of them without a way home. 
- <p class="updated_time"> 04:54 PM CT, Jan. 07 </p> 
- <a href="https://www.nytimes.com/2022/01/07/world/africa/jawar-mohammed-release-ethiopia.html">Jawar Mohammed to Be Released From Prison by Ethiopian President</a> NYT: Prime Minister Abiy Ahmed declared the amnesty on Orthodox Christmas and offered to start a dialogue with some opponents after 14 months of war. 
 
 
 </details>
@@ -198,6 +198,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1071940115/biden-harris-atlanta-georgia-voting-visit">Biden will 'forcefully advocate' for protecting voting rights in Atlanta speech</a> NPR: The president has been under increasing pressure to more aggressively combat threats to voting rights. And advocates say speeches are not a substitute for legislative action. 
  <p class="updated_time"> 03:26 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/rachael-rollins-us-attorney-massachusetts-threats/index.html">Barrier-breaking Black prosecutor faces deadly racist threats</a> CNN: The first Black woman to lead the US Attorney's Office for Massachusetts was sworn in Monday as she faces an uptick in threats against her following a contentious confirmation process. 
  <p class="updated_time"> 02:11 AM CT, Jan. 11 </p> 
@@ -354,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/08/1071542831/week-in-politics-russia-sends-troops-to-kazakhstan-jobs-up-jan-6-anniversary">Week in politics: Russia sends troops to Kazakhstan; jobs up; Jan. 6 anniversary</a> NPR: The unrest in Kazakhstan presents a fresh dilemma for President Biden. Also, what last month's low job creation numbers mean, and how Democrats are using the Jan. 6 riot to their advantage. 
  <p class="updated_time"> 06:00 AM CT, Jan. 08 </p> 
  <a href="https://www.npr.org/2022/01/08/1071239044/congress-may-change-this-arcane-law-to-avoid-another-jan-6">Congress may change this arcane law to avoid another Jan. 6</a> NPR: Lawmakers passed the Electoral Count Act in 1887 after a contested election, and experts say they did a "terrible job." There may now be bipartisan support for a refresh. 
- <p class="updated_time"> 04:44 PM CT, Jan. 07 </p> 
- <a href="https://www.npr.org/2022/01/07/1071368803/jan-6-panel-chair-says-committee-will-ask-mike-pence-to-voluntarily-appear">The chair of the Jan. 6 panel says the committee will ask Mike Pence to appear</a> NPR: The chair of the House select committee investigating the Jan. 6 attack says by month's end they'll ask former Vice President Mike Pence to testify. They may also request testimony from Ivanka Trump. 
  <p class="updated_time"> 04:01 PM CT, Jan. 07 </p> 
  <a href="https://www.cnn.com/2022/01/07/politics/jamal-simmons-apologizes/index.html">Harris' new communications director apologizes for tweets on 'undocumented folks'</a> CNN: Vice President Kamala Harris' newly announced communications director Jamal Simmons is apologizing for decade-old tweets on "undocumented folks" that resurfaced after news of his appointment. 
  <p class="updated_time"> 02:33 PM CT, Jan. 07 </p> 
