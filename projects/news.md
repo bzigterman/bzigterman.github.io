@@ -62,7 +62,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:37 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59914729?at_medium=RSS&at_campaign=KARANGA">Antarctica: Invasive species 'hitchhiking' on ships</a> BBC: Ships travelling to Antarctica could bring invasive species to the ocean’s last pristine ecosystem. 
  <p class="updated_time"> 05:20 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59944634?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… Novak Djokovic’s Australia visa victory</a> BBC: The world number one made it onto a tennis court in Melbourne, but he could still be deported. 
+ <a href="https://www.bbc.co.uk/news/world-australia-59944634?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... questions that remain for Djokovic</a> BBC: The world number one made it onto a tennis court in Melbourne, but he could still be deported. 
  <p class="updated_time"> 05:07 PM CT, Jan. 10 </p> 
  <a href="https://www.wsj.com/articles/japan-extends-entry-ban-for-foreigners-citing-omicron-11641874059">Japan Extends Entry Ban for Foreigners, Citing Omicron</a> WSJ: Japan said it would extend its near-total ban on foreigners entering the country until at least the end of February. 
  <p class="updated_time"> 05:06 PM CT, Jan. 10 </p> 
