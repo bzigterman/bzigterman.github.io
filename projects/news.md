@@ -7,14 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:56 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/arts/dance/tamara-rojo-artistic-director-san-francisco-ballet.html">San Francisco Ballet Appoints Tamara Rojo to Artistic Director</a> NYT: Rojo, who has given the English National Ballet a new allure, succeeds Helgi Tomasson as just the fourth director to lead the San Francisco company. 
+ <p class="updated_time"> 10:33 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/11/world/omicron-covid-testing-vaccines">Covid Live Updates: Over Half of Europe Could Be Infected in Next 2 Months, W.H.O. Says</a> NYT: An official for the agency cited “a new west-to-east tidal wave sweeping across the region.” In the U.S., Chicago’s mayor announced a deal with teachers over coronavirus safeguards that would reopen classrooms. 
+ <p class="updated_time"> 10:25 AM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/01/11/1071371953/welcome-to-the-era-of-omicron-rules-and-regs">Welcome to the era of omicron rules and regs</a> NPR: As the highly transmissible variant spreads rapidly around the world, some countries have reimposed harsh COVID measures like those seen in the early days of the pandemic. 
+ <p class="updated_time"> 10:22 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/world/europe/ukraine-russia.html">A Russian Pledge of No Invasion? Ukrainians Are Skeptical.</a> NYT: When Russians say no, they often mean yes, a former Ukrainian member of Parliament said, as suspicion ran deep about Moscow’s intentions. 
+ <p class="updated_time"> 10:19 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/arts/dance/tamara-rojo-artistic-director-san-francisco-ballet.html">San Francisco Ballet Appoints Tamara Rojo to Artistic Director</a> NYT: Rojo, who has given the English National Ballet a new allure, succeeds Helgi Tomasson as just the fifth director to lead the San Francisco company. 
+ <p class="updated_time"> 10:14 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59947211?at_medium=RSS&at_campaign=KARANGA">Speaker of EU parliament dies in hospital</a> BBC: The Italian was admitted to hospital last month due to a serious complication with his immune system. 
+ <p class="updated_time"> 10:06 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/world/europe/magawa-landmine-hero-rat-dead.html">Magawa, Hero Rat That Hunted Land Mines, Dies in Retirement</a> NYT: The African giant pouched rat sniffed out more than 100 mines and other pieces of unexploded ordnance in Cambodia over five years, winning hearts and an international award. 
+ <p class="updated_time"> 10:06 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59948920?at_medium=RSS&at_campaign=KARANGA">Covid: Half of Europe to be infected with Omicron within weeks - WHO</a> BBC: Dr Hans Kluge says a "west-to-east tidal wave" of the coronavirus variant is sweeping across the region. 
+ <p class="updated_time"> 10:00 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59915697?at_medium=RSS&at_campaign=KARANGA">Arctic thaw threatens human habitation</a> BBC: New research shows the huge threat posed by permafrost thaw to millions living in the Arctic. 
  <p class="updated_time"> 09:54 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/rum-isle-scotland-hebrides.html">As Its Population Soars to 40, Rum Isle Glimpses a Future in the Mist</a> NYT: With four new families recently arriving, the remote and rainy island in the Hebrides is experiencing its version of a population surge, although residents new and old concede living here isn’t easy. 
  <p class="updated_time"> 09:53 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/kazakhstan-russia-troops.html">Kazakhstan Says Russian Troops Will Start Leaving This Week</a> NYT: The military response to recent unrest appears to be a win for President Vladimir V. Putin of Russia and his Kazakh counterpart, Kassym-Jomart Tokayev, who solidified his grip at a time when it was most shaky. 
- <p class="updated_time"> 09:52 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/01/11/world/omicron-covid-testing-vaccines">Covid Live Updates: Over Half of Europe Could Be Infected in Next 2 Months, W.H.O. Says</a> NYT: An official for the agency cited “a new west-to-east tidal wave sweeping across the region.” In the U.S., Chicago’s mayor announced a deal with teachers over coronavirus safeguards that would reopen classrooms. 
  <p class="updated_time"> 09:50 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59946927?at_medium=RSS&at_campaign=KARANGA">Voting rights: Is this now Joe Biden's biggest headache?</a> BBC: For many Democrats it's the number one issue but familiar roadblocks remain on road to reform. 
  <p class="updated_time"> 09:48 AM CT, Jan. 11 </p> 
@@ -29,8 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/russia-ukraine-nato-europe.html">Can Russia Be Stopped From Invading Ukraine? Here's What We Know</a> NYT: The United States, its NATO allies and Russia meet this week in a whirlwind of diplomacy aimed at averting the largest military action in Europe since World War II. Here’s a guide to what’s at stake. 
  <p class="updated_time"> 08:59 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/health/southern-africa-hiv-aids.html">In South Africa, Success Against H.I.V. Offers Hope </a> NYT: A former Africa correspondent, who covered the height of the AIDS epidemic there 15 years ago, finds lessons in the remarkable progress against that virus for our current fight. 
- <p class="updated_time"> 08:26 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59948920?at_medium=RSS&at_campaign=KARANGA">Covid: Half of Europe to be infected with Omicron within weeks - WHO</a> BBC: Dr Hans Kluge says a "west-to-east tidal wave" of the coronavirus variant is sweeping across the region. 
+ <p class="updated_time"> 08:31 AM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59946302?at_medium=RSS&at_campaign=KARANGA">World Bank warns global economy faces grim outlook</a> BBC: The bank predicts a "pronounced slowdown", with global economic growth falling to 4.1% this year 
  <p class="updated_time"> 08:01 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59942994?at_medium=RSS&at_campaign=KARANGA">Fighting the darknet drug dealers who keep coming back</a> BBC: BBC research finds hundreds of dealers who have survived multiple police shutdowns of darknet marketplaces. 
  <p class="updated_time"> 08:00 AM CT, Jan. 11 </p> 
@@ -41,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59952323?at_medium=RSS&at_campaign=KARANGA">Italian raids after New Year sexual assaults in Milan</a> BBC: Nine young women have come forward to say they were attacked while celebrating in central Milan. 
  <p class="updated_time"> 07:24 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59953330?at_medium=RSS&at_campaign=KARANGA">Pokémon Go: Police fired for chasing Snorlax instead of robbers</a> BBC: A pair of LAPD officers lost their jobs after ignoring a robbery to play Pokémon Go instead. 
- <p class="updated_time"> 07:06 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59951366?at_medium=RSS&at_campaign=KARANGA">Second child dies after Spanish bouncy castle accident</a> BBC: The four-year-old girl was injured when a bouncy castle was thrown into the air by wind last week. 
  <p class="updated_time"> 06:24 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59951890?at_medium=RSS&at_campaign=KARANGA">Ugandan author of The Greedy Barbarian charged over Museveni tweets</a> BBC: A Ugandan novelist is accused of using Twitter to "disturb the peace" of Yoweri Museveni and his son. 
  <p class="updated_time"> 05:47 AM CT, Jan. 11 </p> 
@@ -58,19 +68,17 @@ permalink: /projects/news/
  <p class="updated_time"> 04:42 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072029936/cyber-risks-add-to-climate-threat-world-economic-forum-warns">Cyber risks add to climate threat, World Economic Forum warns</a> NPR: Survey of 1,000 experts and leaders finds cybersecurity and space add to the existing challenges of climate change and the coronavirus pandemic. 
  <p class="updated_time"> 04:34 AM CT, Jan. 11 </p> 
- <a href="https://www.wsj.com/articles/hongs-kong-strict-quarantine-system-pushed-to-limits-by-omicron-cluster-11641915259">Hong's Kong Strict Quarantine System Pushed to Limits by Omicron Cluster</a> WSJ: With 42 community infections detected in the past two weeks, government quarantine centers are running out of space and some experts are questioning if the policy of zero-Covid-19 infections is sustainable. 
+ <a href="https://www.wsj.com/articles/hongs-kong-strict-quarantine-system-pushed-to-limits-by-omicron-cluster-11641915259">Hong Kong's Strict Quarantine System Pushed to Limits by Omicron Cluster</a> WSJ: With 42 community infections detected in the past two weeks, government quarantine centers are running out of space and some experts are questioning if the policy of zero-Covid-19 infections is sustainable. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59944889?at_medium=RSS&at_campaign=KARANGA">Man gets genetically-modified pig heart in world-first transplant</a> BBC: David Bennett, 57, is doing well three days after the experimental surgery, doctors say. 
  <p class="updated_time"> 04:19 AM CT, Jan. 11 </p> 
  <a href="https://www.wsj.com/articles/why-the-catholic-church-is-losing-latin-america-11641914388">Why the Catholic Church Is Losing Latin America</a> WSJ: Conservative Pentecostals make huge inroads in Latin America during the reign of the region’s first pope. The religion is projected to become a minority in Brazil, which has more Catholics than any other country, as soon as this year. 
  <p class="updated_time"> 04:18 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/putin-russia-kazakhstan.html">Russian Troops Will Stay to Finish Job in Kazakhstan, Putin Says</a> NYT: Blaming “internal and external forces” for the unrest in the resource-rich Central Asian country, President Vladimir V. Putin of Russia set no deadline for the withdrawal of the forces his country sent there. 
- <p class="updated_time"> 04:16 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59935126?at_medium=RSS&at_campaign=KARANGA">Chinese doctor charged for treating fever patient</a> BBC: The medic in Henan could face a prison term because there wasn't a fever clinic at their hospital. 
  <p class="updated_time"> 03:43 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072021539/eu-parliament-president-david-sassoli-dies-at-age-65">EU Parliament President David Sassoli dies at age 65</a> NPR: The Italian journalist had been hospitalized since Dec. 26 due to abnormal functioning of his immune system. 
  <p class="updated_time"> 03:38 AM CT, Jan. 11 </p> 
- <a href="https://www.wsj.com/articles/as-omicron-spreads-some-nations-offer-a-second-covid-19-booster-11641911892">As Omicron Spreads, Some Nations Offer a Second Covid Booster</a> WSJ: Israeli study shows a fourth shot of Pfizer’s vaccine generates antibodies, but some scientists say two doses provide enough protection from serious illness. 
+ <a href="https://www.wsj.com/articles/as-omicron-spreads-some-nations-offer-a-second-covid-19-booster-11641911892">As Omicron Spreads, Some Nations Offer a Second Covid-19 Booster</a> WSJ: Israeli study shows a fourth shot of Pfizer’s vaccine generates antibodies, but some scientists say two doses provide enough protection from serious illness. 
  <p class="updated_time"> 03:07 AM CT, Jan. 11 </p> 
  <a href="https://www.wsj.com/articles/kazakhstan-says-russia-to-withdraw-troops-in-wake-of-unrest-11641903337">Kazakhstan Says Russia to Withdraw Troops in Wake of Unrest</a> WSJ: Russia-led forces that entered Kazakhstan to support the government following an eruption of protests would start withdrawing within two days, the Kazakh president said as he named a loyalist as prime minister. 
  <p class="updated_time"> 02:44 AM CT, Jan. 11 </p> 
@@ -81,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1072016749/djokovic-gets-some-court-time-in-australia-as-leaders-discuss-his-visa">Djokovic gets some court time in Australia as leaders discuss his visa</a> NPR: The prime ministers of Australia and Serbia talked by phone about the tennis star's visa as he is seeded No. 1 in Australian Open. 
  <p class="updated_time"> 02:08 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59949236?at_medium=RSS&at_campaign=KARANGA">First pig heart to human transplant is a game-changer, say surgeons</a> BBC: In a world first, a pig heart has been successfully transplanted into a human by surgeons in the US. 
- <p class="updated_time"> 01:41 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59947211?at_medium=RSS&at_campaign=KARANGA">Speaker of EU parliament dies in hospital</a> BBC: The Italian was admitted to hospital last month due to a serious complication with his immune system. 
  <p class="updated_time"> 01:21 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/asia/north-korea-ballistic-missile-south-korea.html">North Korea Launches 2nd Ballistic Missile in a Week, South Korea Says</a> NYT: The launch came as the U.N. Security Council met to discuss the country’s growing weapons threat. The U.S. said the latest test “highlights the destabilizing impact” of the North’s weapons program. 
  <p class="updated_time"> 01:15 AM CT, Jan. 11 </p> 
@@ -149,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/10/1070854970/in-wahala-intimacy-at-times-morphs-into-enmity">In 'Wahala,' intimacy at times morphs into enmity</a> NPR: Nikki May's novel captures issues of modern city living: women's evolving roles in home and work, interracial relationships, multicultural identity, and competition that runs under many friendship. 
  <p class="updated_time"> 06:26 AM CT, Jan. 10 </p> 
  <a href="https://www.npr.org/2022/01/10/1071785531/on-covid-vaccinations-pope-says-health-care-is-a-moral-obligation">On COVID vaccinations, Pope says health care is a 'moral obligation'</a> NPR: Francis says individuals have a responsibility to care for themselves "and this translates into respect for the health of those around us." 
- <p class="updated_time"> 03:13 AM CT, Jan. 10 </p> 
- <a href="https://www.npr.org/2022/01/10/1071769164/myanmars-suu-kyi-sentenced-to-4-more-years-in-prison">Myanmar's Suu Kyi sentenced to 4 more years in prison</a> NPR: Suu Kyi was convicted last month on two other charges and given a four-year prison sentence, which was then halved by the head of the military-installed government. 
  <p class="updated_time"> 02:59 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/ukraine-russia-negotiations.html">As Russia and U.S. Debate Ukraine, Ukraine Would Like a Say</a> NYT: While the United States and NATO speak with Russia this week, the Ukrainian government has been sidelined and is instead quietly pursuing separate negotiations with Moscow. 
  <p class="updated_time"> 02:51 AM CT, Jan. 10 </p> 
@@ -183,12 +187,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/08/world/asia/pakistan-snow-kills-21-murree-hill-station.html">Heavy Snow Kills 21 at Murree Hill Station in Pakistan</a> NYT: Stranded in their cars on snow-covered roads, some in the mountainside town of Murree froze to death and others died from carbon monoxide poisoning. 
  <p class="updated_time"> 12:42 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/europe/kazakhstan-russia.html">Amid Crisis, Kazakhstan's Leader Embraces Russia</a> NYT: With his government under siege, Kassym-Jomart Tokayev, Kazakhstan’s president, turned to Russia’s Vladimir V. Putin for support. The choice could realign Central Asia’s politics. 
- <p class="updated_time"> 12:09 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/world/asia/australia-djokovic-refugees-hotel.html">Djokovic Stay at Park Hotel Highlights Australia Asylum Seeker Plight</a> NYT: The tennis star is quarantining in a Melbourne hotel where asylum seekers have been held for over a year, under a program that has been widely criticized. 
  <p class="updated_time"> 09:30 AM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/asia/kazakhstan-protests-karim-masimov-arrest.html">Kazakhstan Arrests Karim Masimov, Ex-Intelligence Chief, on Suspicion of Treason</a> NYT: The president had dismissed the intelligence chief, Karim Masimov, this week amid violence that may be tied, at least in part, to political infighting. 
- <p class="updated_time"> 08:23 AM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/world/australia/novak-djokovic-australia-visa.html">Djokovic Tested Positive for Coronavirus in December, His Lawyers Say</a> NYT: Lawyers for the tennis star, who is appealing Australia’s decision to deny him entry, said the positive test came weeks before he flew to the country. 
  <p class="updated_time"> 09:05 AM CT, Jan. 07 </p> 
  <a href="https://www.nytimes.com/2022/01/05/world/asia/kazakhstan-protests.html">How the Kazakhstan Protests Started and Why They Matter</a> NYT: As protests in the oil-rich Central Asian country gain momentum, the events threaten to reverberate across the region. 
 
@@ -199,15 +199,19 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 10:25 AM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/king-family-biden-voting-rights-speech-526873">King family: 'Difficult decision' to attend Biden's voting rights speech</a> Politico: “It’s been a long year of a lot of things not being done, and we stand and we share that frustration,” Arndrea Waters King said. 
- <p class="updated_time"> 09:54 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/business/powell-confirmation-hearing.html">Watch Live: Fed Chair Jerome Powell's Confirmation Hearing</a> NYT: The Federal Reserve chair is testifying before lawmakers as he seeks Senate confirmation to a second term. 
+ <p class="updated_time"> 10:25 AM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/king-family-biden-voting-rights-speech-526873">King family: ‘Difficult decision’ to attend Biden’s voting rights speech</a> Politico: “It’s been a long year of a lot of things not being done, and we stand and we share that frustration,” Arndrea Waters King said. 
+ <p class="updated_time"> 10:24 AM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden to amp up the pressure on the Senate to change filibuster rules for voting rights during Atlanta speech</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
+ <p class="updated_time"> 10:24 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden Will Endorse Changing Senate Rules to Pass Voting Rights Legislation</a> NYT: In Georgia, the president will express support for altering rules around the Senate filibuster, setting up a confrontation with Republicans. 
+ <p class="updated_time"> 10:15 AM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/justice-department-forms-new-domestic-terrorism-unit/index.html">DOJ forms new domestic terrorism unit</a> CNN: The Justice Department is establishing a new domestic terrorism unit to combat the threat that has more than doubled in the past two years, the head of the agency's National Security Division said Tuesday. 
+ <p class="updated_time"> 10:02 AM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/biden-epa-coal-ash-ponds-enforcement-climate/index.html">EPA begins enforcement on clean up of toxic coal-ash ponds</a> CNN: The US Environmental Protection Agency announced Tuesday it will begin enforcing regulations that require coal-fired power plants to clean up their coal-ash waste -- the toxic byproduct of burning coal to generate electricity. 
  <p class="updated_time"> 09:49 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/ambassador-nato-julianne-smith-russia-ukraine-talks-cnntv/index.html">US ambassador to NATO says NATO and Russia 'committed to dialogue' ahead of talks Wednesday</a> CNN: The US ambassador to NATO Julianne Smith said Tuesday that the US, European allies and Russia are all "committed to dialogue" ahead of Wednesday's high-stakes meeting to discuss Russia's military buildup along the Ukrainian border. 
- <p class="updated_time"> 09:45 AM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden to amp up the pressure on the Senate to change filibuster rules for voting rights during Atlanta speech</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
- <p class="updated_time"> 09:20 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden Will Endorse Changing Senate Rules to Pass Voting Rights Legislation</a> NYT: In Georgia, the president will express support for altering rules around the Senate filibuster, setting up a confrontation with Republicans. 
  <p class="updated_time"> 08:57 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/fact-check-sotomayor-mandate-covid-dinner-gorsuch/index.html">Fact check: Sotomayor makes false claim about Covid-19's impact on children</a> CNN: Supreme Court Justice Sonia Sotomayor made a significant false claim on Friday about Covid-19's impact on children. 
  <p class="updated_time"> 08:35 AM CT, Jan. 11 </p> 
@@ -252,12 +256,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/novak-djokovic-covid-politics/index.html">Analysis: How a tennis legend, SCOTUS and the Winter Olympics are reshaping pandemic politics</a> CNN: Living with the virus, as the world is finding out, is easier said than done. 
  <p class="updated_time"> 10:29 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-photos-prisoners.html">20 Years Later, the Story Behind the Guantánamo Photo That Won’t Go Away</a> NYT: On Jan. 11, 2002, a sailor photographed 20 men in orange uniforms and on their knees, capturing one of the most damning post-9/11 images of U.S. detention policy. 
- <p class="updated_time"> 10:09 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/us-russia-ukraine-meetings-geneva-intl/index.html">US says no breakthrough in 'frank and forthright' talks with Russia over Ukraine border crisis</a> CNN: American and Russian officials were holding high-stakes talks Monday about the build-up of troops near Ukraine's border, as fears mount over a possible Russian invasion. 
  <p class="updated_time"> 09:45 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/chicago-schools-teachers-deal-stalemate-526868">Chicago schools, teachers reach tentative deal to end classroom shutdown</a> Politico: The potential agreement would have educators return to schools beginning Tuesday, while students would return Wednesday. 
- <p class="updated_time"> 09:45 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/nord-stream-pipeline-democrats-reaction-cruz/index.html">Democrats scramble to sink Cruz's plan to impose sanctions over Nord Stream pipeline </a> CNN: Top Senate Democrats and the Biden administration are maneuvering behind the scenes to defeat a measure from GOP Sen. Ted Cruz of Texas that would impose sanctions on businesses associated with a major pipeline from Russia to Germany, aiming to shore up Democratic unity amid high-level US talks with Russia. 
  <p class="updated_time"> 08:53 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/jim-jordan-january-6-committee/index.html">Rep. Jim Jordan declines to say if he's closed the door on cooperating with January 6 committee </a> CNN: Republican Rep. Jim Jordan on Monday declined to say definitively if he has closed the door on cooperating with the House select committee investigating the January 6, 2021, insurrection. 
  <p class="updated_time"> 08:39 PM CT, Jan. 10 </p> 
