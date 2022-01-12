@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:12 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/world/europe/who-europe-covid-omicron-infection.html">Over Half of Europe Could Be Infected With Coronavirus Soon, W.H.O. Says</a> NYT: The agency cautioned against treating the virus like the seasonal flu, since much remains unknown, particularly regarding the severity in areas with lower vaccination rates. 
+ <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59955682?at_medium=RSS&at_campaign=KARANGA">The 52-year-search for a missing girl</a> BBC: On 12 January 1970, a British toddler disappeared from Fairy Meadow beach in NSW, Australia. 
  <p class="updated_time"> 05:39 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59956068?at_medium=RSS&at_campaign=KARANGA">Biden calls for 'turning point' on election laws</a> BBC: The president warns of a "grave" threat to democracy, but Republicans say no such threat exists. 
  <p class="updated_time"> 05:18 PM CT, Jan. 11 </p> 
@@ -22,15 +26,13 @@ permalink: /projects/news/
  <p class="updated_time"> 04:24 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: He was a well-known journalist in his native Italy before going into politics, and devoted his tenure to making the Parliament more prominent. 
  <p class="updated_time"> 04:19 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/europe/russia-putin-mystery-ukraine.html">Putin’s Next Move on Ukraine Is a Mystery. Just the Way He Likes It.</a> NYT: The contradictory, sometimes menacing messages from the Kremlin have stumped Western officials and Russia experts, showing the Russian leader’s desire to keep his rivals on edge. 
+ <a href="https://www.nytimes.com/2022/01/11/world/europe/putin-ukraine-russia.html">Putin’s Next Move on Ukraine Is a Mystery. Just the Way He Likes It.</a> NYT: The contradictory, sometimes menacing messages from the Kremlin have stumped Western officials and Russia experts, showing the Russian leader’s desire to keep his rivals on edge. 
  <p class="updated_time"> 04:18 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183480/arif-khan-is-blazing-a-trail-for-indian-skiers-by-qualifying-for-the-beijing-oly">Arif Khan aims to put Indian winter sports on the map at the Beijing Olympics</a> NPR: India isn't famous for snow sports. Kashmiri ski racer Arif Khan hopes to change that. The first and so far only Indian to qualify for the Beijing Olympics, he crowdfunded trips to Europe to qualify. 
  <p class="updated_time"> 03:40 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/kazakhstan-russia-troops.html">Kazakhstan Says Russian Troops Can Start Leaving This Week</a> NYT: Kazakhstan’s president says violence has been quelled, so there is no longer need for the foreign troops he asked to help. Russia has not given a timeline for withdrawing. 
  <p class="updated_time"> 03:09 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/canada/wheatley-ontario-gas-explosion.html">Source of Mysterious Gas Leak Explosion in Canadian Town Stumps Officials</a> NYT: An explosion last summer in an Ontario community built on 19th-century gas wells has left locals searching for answers and some certainty that their town will ever recover. 
- <p class="updated_time"> 03:09 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/europe/who-europe-covid-omicron-infection.html">Over Half of Europe Could Be Infected With Coronavirus Soon, W.H.O. Says</a> NYT: The agency cautioned against treating the virus like the seasonal flu, since much remains unknown, particularly regarding the severity in areas with lower vaccination rates. 
  <p class="updated_time"> 02:57 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59948920?at_medium=RSS&at_campaign=KARANGA">Covid: Half of Europe to be infected with Omicron within weeks - WHO</a> BBC: Dr Hans Kluge says a "west-to-east tidal wave" of the coronavirus variant is sweeping across the region. 
  <p class="updated_time"> 02:13 PM CT, Jan. 11 </p> 
@@ -86,7 +88,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:59 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/health/southern-africa-hiv-aids.html">In South Africa, Success Against H.I.V. Offers Hope </a> NYT: A former Africa correspondent, who covered the height of the AIDS epidemic there 15 years ago, finds lessons in the remarkable progress against that virus for our current fight. 
  <p class="updated_time"> 08:31 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/business-59946302?at_medium=RSS&at_campaign=KARANGA">World Bank warns global economy faces grim outlook</a> BBC: The bank predicts a "pronounced slowdown", with global economic growth falling to 4.1% this year 
+ <a href="https://www.bbc.co.uk/news/business-59946302?at_medium=RSS&at_campaign=KARANGA">World Bank warns global economy faces grim outlook</a> BBC: The bank predicts a "pronounced slowdown", with global economic growth falling to 4.1% this year. 
  <p class="updated_time"> 08:01 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59942994?at_medium=RSS&at_campaign=KARANGA">Fighting the darknet drug dealers who keep coming back</a> BBC: BBC research finds hundreds of dealers who have survived multiple police shutdowns of darknet marketplaces. 
  <p class="updated_time"> 08:00 AM CT, Jan. 11 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
  <p class="updated_time"> 05:00 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
- <p class="updated_time"> 04:12 PM CT, Jan. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59946362?at_medium=RSS&at_campaign=KARANGA">Near-miss for pilot saved from downed plane hit by train</a> BBC: Dramatic video shows the rescue, moments before collision, after a plane landed on train tracks. 
  <p class="updated_time"> 11:56 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: Australian officials hinted they may make a new attempt to cancel Djokovic’s visa, even as the tennis champion, freed from detention, returned to the court. 
  <p class="updated_time"> 11:45 AM CT, Jan. 10 </p> 
@@ -200,18 +200,36 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:08 PM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/covid-health-officials-congress-omicron-526950">Decoding what Biden health officials told Congress about Omicron</a> Politico: In contrast to previous oversight hearings on the Biden administration's Covid-19 response, Democrats raised sharp questions and complaints on the state of the resurging pandemic. 
+ <p class="updated_time"> 06:51 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/guantanamo-releases-approved.html">Biden Administration Approves 5 More Guantánamo Releases</a> NYT: Nearly half of the last 39 detainees have now been approved for transfer, and the challenge for U.S. officials is to find countries to receive them. 
+ <p class="updated_time"> 06:50 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-voting-rights-state-laws.html">Biden Calls for Legislative Action on Voting Rights</a> NYT: President Biden says he won’t keep “quiet” any longer about protecting ballot access. But voting rights groups say he should’ve raised his voice months ago. 
+ <p class="updated_time"> 06:46 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/health/fauci-senate-hearing-omicron-response.html">U.S. Officials Defend Omicron Response at Senate Hearing</a> NYT: Lawmakers accused top Biden administration health officials of neglecting virus testing and mangling key messaging around the pandemic. 
+ <p class="updated_time"> 06:45 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/11/us/biden-harris-voting-rights/biden-filibuster-voting-rights">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, President Biden, who had long been leery of whittling away at the filibuster, said such Senate traditions had been abused by Republicans. 
+ <p class="updated_time"> 06:44 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden calls on Senate to change filibuster rules to pass voting rights bills in forceful speech: 'I'm tired of being quiet'</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
+ <p class="updated_time"> 06:41 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-senate-history.html">Analysis: Biden Defense of Filibuster Withers Under Partisan Rancor</a> NYT: The president left no doubt that he has reached a breaking point, lashing out at senators who are blocking voting rights legislation. 
+ <p class="updated_time"> 06:32 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/north-carolina-redistricting.html">North Carolina Court Upholds Republican Gerrymander of Maps</a> NYT: The ruling set up a final battle over the maps in the state Supreme Court, where Democrats hold a slim edge. 
  <p class="updated_time"> 06:30 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/medicare-alzheimers-drug-trial-526943">Medicare won’t cover controversial Alzheimer’s drug — unless patients are in a clinical trial</a> Politico: FDA approved the drug on an accelerated pathway, which requires a fourth clinical trial to demonstrate that the drug actually slows cognitive decline. 
+ <p class="updated_time"> 06:26 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/business/powell-confirmation-hearing.html"> Jerome Powell Says Fed Is Prepared to Raise Rates to Tame Inflation</a> NYT: The Federal Reserve chair testified before lawmakers while seeking Senate confirmation to a second term. 
  <p class="updated_time"> 06:21 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/north-carolina-gop-map-redistricting-526931">North Carolina court declines to toss out GOP-drawn House map</a> Politico: Democratic plaintiffs challenged the state's maps as illegal partisan gerrymanders and are planning to appeal to the state Supreme Court. 
  <p class="updated_time"> 06:15 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/democrats-covid-strategy-526924">'Rules need to be clear': Dems call for Covid strategy reset as cases spike</a> Politico: Congressional Democrats fret that the White House's strategy on Covid in recent weeks has been confusing and ineffective against the Omicron variant. 
+ <p class="updated_time"> 06:10 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/democrats-ron-johnson-2022.html">Why Democrats Aren't Attacking Ron Johnson for His Outlandish Comments</a> NYT: Ron Johnson has a history of making outlandish comments. But Democrats aren’t focusing on those for now. 
  <p class="updated_time"> 05:53 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/january-6-subpoenas/index.html">January 6 panel subpoenas former White House official who helped draft Trump speech</a> CNN: The House select committee investigating the January 6 riot issued a new round of subpoenas Tuesday demanding records and testimony from three individuals, including a former White House official who helped draft the speech delivered by former President Donald Trump prior to the attack where he called on his supporters to march to the US Capitol. 
  <p class="updated_time"> 05:32 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/mike-rounds-republican-defense/index.html">Top Republicans stand up for Rounds after Trump's attack: He 'told the truth'</a> CNN: Senior Republicans are closing ranks behind Sen. Mike Rounds after he endured a scathing attack from former President Donald Trump for acknowledging the reality that President Joe Biden won the 2020 election. 
- <p class="updated_time"> 05:23 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden calls on Senate to change filibuster rules to pass voting rights bills in forceful speech: 'I'm tired of being quiet'</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 05:10 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/justice-dept-domestic-terrorism.html">Justice Dept. Forms Domestic Terrorism Unit</a> NYT: The move is in keeping with Attorney General Merrick B. Garland’s vow to make combating domestic terrorism a priority. 
  <p class="updated_time"> 05:07 PM CT, Jan. 11 </p> 
@@ -224,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/powell-congress-inflation-jobs-526911">Powell’s warning to Congress: Inflation a ‘severe threat’ to jobs</a> Politico: The potential clash over the Fed’s plans to tighten monetary policy could be a harbinger of conflicts to come with Democrats and even some Republicans. 
  <p class="updated_time"> 04:54 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/jan-6-panel-subpoenas-trump-jr-aides-trump-speechwriter-526916">Jan. 6 panel subpoenas Trump Jr. advisers, Trump speechwriter</a> Politico: The subpoenas for Andrew Surabian, Arthur Schwartz and Ross Worthington indicate investigators are inching ever closer to the Trump family. 
- <p class="updated_time"> 04:53 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, the president advocated ‘getting rid of the filibuster,’ setting up a confrontation with Republicans. 
  <p class="updated_time"> 04:34 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/chicago-mayor-lori-lightfoot-contracts-covid-526907">Chicago mayor tests positive for Covid a day after announcing school reopening deal</a> Politico: The news came about 17 hours after Lightfoot announced she and the Chicago Teachers Union ended a tense standoff over the safety of children and staff returning to school amid the Omicron surge. 
  <p class="updated_time"> 04:33 PM CT, Jan. 11 </p> 
@@ -256,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/us/politics/supreme-court-immigrants-bail-hearings.html">Supreme Court Weighs Jailed Immigrants’ Rights to Bail Hearings</a> NYT: Lawyers for the federal government said immigrants detained for months while they fight deportation are not entitled to seek release from immigration judges. 
  <p class="updated_time"> 03:08 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/mary-trump-lawsuit/index.html">Lawyers for Trump and niece Mary Trump spar over lawsuit alleging she was defrauded in family settlement</a> CNN: Lawyers for former President Donald Trump and his niece Mary Trump sparred in court Tuesday over whether her lawsuit alleging she was defrauded of millions of dollars in a 2001 family settlement could move forward. 
- <p class="updated_time"> 03:02 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/business/powell-confirmation-hearing.html"> Jerome Powell Says Fed Is Prepared to Raise Rates to Tame Inflation</a> NYT: The Federal Reserve chair testified before lawmakers while seeking Senate confirmation to a second term. 
  <p class="updated_time"> 02:44 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/faa-west-coast-flights-north-korea-526894">FAA briefly halted West Coast flights amid North Korean missile scare</a> Politico: Exchanges between pilots and air traffic controllers that cropped up on social media late Monday suggested landings were off limits in portions of California and Oregon. 
  <p class="updated_time"> 02:37 PM CT, Jan. 11 </p> 
@@ -318,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-transfer-somali-detainee.html">Guantánamo Panel Approves Transfer of First High-Value Detainee</a> NYT: Guled Duran, a Somali, has been held in classified facilities since the C.I.A. took custody of him in 2004. He has never been charged with a crime. 
  <p class="updated_time"> 11:09 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/one-party-control-white-house-congress/index.html">If Democrats can't pass their agenda now, they may not get another chance for years. Here's why</a> CNN: The last four times a president went into midterm elections holding unified control of the White House, Senate and House of Representatives, as Joe Biden and Democrats do now, voters have revoked it. 
- <p class="updated_time"> 10:29 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-photos-prisoners.html">20 Years Later, the Story Behind the Guantánamo Photo That Won’t Go Away</a> NYT: On Jan. 11, 2002, a sailor photographed 20 men in orange uniforms and on their knees, capturing one of the most damning post-9/11 images of U.S. detention policy. 
  <p class="updated_time"> 08:39 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/kevin-mccarthy-committees-republican-house-majority/index.html">McCarthy vows to remove Democrats from committees if Republicans win House</a> CNN: House Minority Leader Kevin McCarthy has vowed to remove three Democratic lawmakers from key committee assignments if Republicans win back the chamber in the upcoming midterm elections. 
  <p class="updated_time"> 08:37 PM CT, Jan. 10 </p> 
@@ -336,22 +348,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/us/politics/democratic-voters-demographics.html">Democrats Go Hunting For Missing Voters</a> NYT: Some strategists say the party needs a “radical departure” from its longstanding reliance on demographic changes to give Democrats a stable hold on political power. 
  <p class="updated_time"> 05:55 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/russia-ukraine-helicopters.html">Russia Positioning Helicopters, in Possible Sign of Ukraine Plans</a> NYT: The step, which could be an indication that planning for an attack continues, comes as the number of Russian troops at the border has remained steady in recent weeks, despite U.S. expectations of a surge. 
- <p class="updated_time"> 05:48 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/business/economy/richard-clarida-fed-resign.html">Richard Clarida Is Resigning From the Fed Early After New Questions on Trades</a> NYT: Richard Clarida, the vice chair of the Federal Reserve, will leave on Friday, two weeks ahead of schedule. Updated disclosures showed rapid moves out of and back into stocks as the central bank prepared to reassure markets. 
  <p class="updated_time"> 05:27 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/mike-pence-jan-6-testimony.html">Pence and Jan. 6 Committee Engage in High-Stakes Dance Over Testimony</a> NYT: Getting the former vice president to answer questions under oath could be crucial as the House panel focuses on Donald Trump’s responsibility for the Capitol riot. 
  <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-at-home-covid-tests-reimbursement-526853">Biden administration lays out rules for reimbursing at-home Covid tests</a> Politico: Under the plan, private insurers can set up programs at preferred pharmacies or retailers where the upfront cost of home tests is covered for beneficiaries. 
- <p class="updated_time"> 04:49 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/business/income-tax-day-deadline.html">The I.R.S. Warns of Messy Tax Filing Season</a> NYT: The agency, which has been hobbled by paperwork backlogs and short staffing, said tax filers should expect a lower level of service this year. 
- <p class="updated_time"> 04:23 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/business/media/jesse-watters-fox-news.html">Jesse Watters of Fox News Is Promoted to an Evening Slot</a> NYT: Mr. Watters, a sardonic conservative with a pro-Trump bent, will take over the 7 p.m. hour. 
- <p class="updated_time"> 04:22 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/business/economy/jerome-powell-testimony-inflation.html">Jerome Powell Will Acknowledge Inflation’s Toll in Senate Testimony</a> NYT: Central bankers will act to keep rapid price gains from becoming permanent, Mr. Powell, the chair of the Federal Reserve, will say during a renomination hearing. 
  <p class="updated_time"> 03:00 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/trump-immunity-jan-6-526839">Judge mulls whether Trump’s silence on Jan. 6 could amount to ‘agreement’ with rioters</a> Politico: During a hearing on civil lawsuits stemming from the Capitol attack, Donald Trump’s lawyers claimed sweeping immunity for the former president. 
- <p class="updated_time"> 02:57 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/clay-aiken-congress.html">Clay Aiken, Former ‘American Idol’ Star, Announces Run for Congress</a> NYT: Mr. Aiken said he was running as a “loud and proud Democrat” for an open House seat in his native North Carolina this year. 
  <p class="updated_time"> 07:29 AM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/10/dems-eye-voting-rights-fight-filibuster-changes-495660">Dems eye voting rights fight, filibuster changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Jan. 10 </p> 
