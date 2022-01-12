@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:48 AM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072463871/harry-reid-capitol-lies-in-state">Harry Reid lies in state at the U.S. Capitol</a> NPR: Reid was recalled as a "legendary leader" as colleagues and friends gathered to pay tribute to a hardscrabble Democrat who rose from poverty in Nevada to the most powerful position in the Senate. 
  <p class="updated_time"> 11:30 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/senate-democrats-voting-rights-push/index.html">Senate Democrats on brink of defeat on voting legislation despite frantic push </a> CNN: Senate Democrats are frantically searching for a way to pass voting legislation amid pressure from President Joe Biden, but the path ahead looks increasingly grim with influential moderates Joe Manchin and Kyrsten Sinema unlikely to support a rules change necessary to get the bills over the finish line despite a frantic lobbying campaign from their own party. 
  <p class="updated_time"> 11:27 AM CT, Jan. 12 </p> 
@@ -340,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/covid-19-testing-joe-biden-administration/index.html">'Everybody saw it coming,' expert says of Covid testing capacity, but Biden administration 'dropped the ball'</a> CNN: As President Joe Biden was spending his holidays with family at the White House and in Delaware, he was frustrated to see images on television of Americans waiting in long lines for Covid-19 tests. 
  <p class="updated_time"> 03:57 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/rand-paul-fauci-covid.html">Fauci Says Senator Rand Paul Is Fueling Threats Against Him</a> NYT: Senator Rand Paul accused Dr. Anthony Fauci of trying to undermine scientists who disagreed with him. Dr. Fauci denied the allegation and accused Republicans of feeding attacks against him. 
- <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072183425/the-biden-administration-says-it-has-a-plan-to-clean-up-toxic-coal-ash">The Biden administration says it has a plan to clean up toxic coal ash</a> NPR: Even as coal plants shut down, they leave behind massive piles of toxic coal ash. About half that coal ash is unregulated, and environmental groups want the Biden administration to change that. 
  <p class="updated_time"> 03:28 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/senators-feds-jan-6-riot-probe-526899">Senators grill feds over Jan. 6 riot probe</a> Politico: Democrats challenged prosecutors for not seeking terrorism-related sentences, while Republicans often steered away from the insurrection altogether. 
  <p class="updated_time"> 03:21 PM CT, Jan. 11 </p> 
