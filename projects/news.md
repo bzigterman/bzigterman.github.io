@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:48 AM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/business/china-zero-covid-policy-xian.html">The Army of Millions Who Enforce China’s Zero-Covid Policy</a> NYT: As the troubled lockdown in Xi’an has shown, many Chinese people remain willing to work diligently toward the government’s goal of eliminating the virus, no matter the consequences. 
  <p class="updated_time"> 04:15 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/antigen-tests.html">Racing to Stop Omicron, Countries Rely on At-Home Antigen Tests</a> NYT: Countries aim keep up with the variant’s rapid pace of transmission, marking a shift from viewing P.C.R. testing as the primary method of diagnosis. 
  <p class="updated_time"> 03:59 AM CT, Jan. 12 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/us/politics/russia-ukraine-james-baker.html">James A. Baker III’s Words on NATO Loom in Ukraine Standoff</a> NYT: The current confrontation turns partly on what, if any, commitments Secretary of State James A. Baker III made about NATO’s expansion in the waning days of the Cold War. 
  <p class="updated_time"> 11:01 AM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/london-schools-covid-omicron.html">London Schools Are Determined to Stay Open. Staff Illnesses Make It Hard.</a> NYT: Schools across England are grappling with what it looks like to live with the pandemic as it enters its third year. Sound familiar? 
- <p class="updated_time"> 10:45 PM CT, Jan. 08 </p> 
- <a href="https://www.nytimes.com/2022/01/08/world/chicago-shools-teachers-union-lightfoot.html">Chicago's Mayor Rejects Union's Terms for Returning to School</a> NYT: The standoff between educators and the city’s government shows no signs of abating. 
  <p class="updated_time"> 10:37 PM CT, Jan. 08 </p> 
  <a href="https://www.nytimes.com/2022/01/08/world/figure-skating-olympic-team.html">As U.S. Figure Skaters Test Positive, New Worries for Winter Olympics</a> NYT: Problems at the national championships could turn up in Beijing next month, too. 
  <p class="updated_time"> 10:31 PM CT, Jan. 08 </p> 
@@ -213,7 +213,11 @@ permalink: /projects/news/
  <p class="updated_time"> 04:21 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/economy/cpi-inflation-december-2021.html">CPI Report Is Expected to Show Inflation Popped Again</a> NYT: Economists expect a 7 percent gain in the Consumer Price Index, which would be the fastest pace since mid-1982. 
  <p class="updated_time"> 04:17 AM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072372538/nevada-sen-cortez-maston-on-why-ditching-the-filibuster-is-the-wrong-choice">Nevada Sen. Cortez Maston on why ditching the filibuster is the wrong choice</a> NPR: NPR's Rachel Martin talks to Democratic Sen. Catherine Cortez Masto of Nevada about the future of the filibuster, and the legacy of former Majority Leader Harry Reid, who died last month. 
+ <p class="updated_time"> 04:17 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072372531/biden-calls-for-changes-to-senate-filibuster-to-pass-voting-rights-bills">Biden calls for changes to Senate filibuster to pass voting rights bills</a> NPR: In a speech in Georgia, President Biden called for passage of voting rights reforms, including if necessary, getting rid of congressional rules that require 60 senators to support most legislation. 
+ <p class="updated_time"> 04:17 AM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072372447/morning-news-brief">News brief: omicron overwhelms ERs, NATO-Russia talks, Trump interview </a> NPR: The U.S. hits another COVID record. NATO officials meet with a Russian delegation to try to prevent another invasion of Ukraine. Pressed on election lies, ex-President Trump cuts NPR interview short. 
  <p class="updated_time"> 04:01 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072204478/donald-trump-npr-interview-presidential-election-lies-vaccines">Pressed on his election lies, former President Trump cuts NPR interview short</a> NPR: The former president blasted Republicans who have crossed him and kept up repeated election lies in an NPR interview. 
  <p class="updated_time"> 04:00 AM CT, Jan. 12 </p> 
@@ -314,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/us/politics/rand-paul-fauci-covid.html">Fauci Says Senator Rand Paul Is Fueling Threats Against Him</a> NYT: Senator Rand Paul accused Dr. Anthony Fauci of trying to undermine scientists who disagreed with him. Dr. Fauci denied the allegation and accused Republicans of feeding attacks against him. 
  <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183425/the-biden-administration-says-it-has-a-plan-to-clean-up-toxic-coal-ash">The Biden administration says it has a plan to clean up toxic coal ash</a> NPR: Even as coal plants shut down, they leave behind massive piles of toxic coal ash. About half that coal ash is unregulated, and environmental groups want the Biden administration to change that. 
- <p class="updated_time"> 03:31 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072183418/senate-democrats-cant-agree-on-bidens-push-to-pass-voting-rights-legislation">Senate Democrats can't agree on Biden's push to pass voting rights legislation</a> NPR: President Biden called for changes to Senate rules in an effort to pass voting rights legislation. Among the challenges to his effort is a lack of unity among Senate Democrats to making those changes. 
  <p class="updated_time"> 03:28 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/senators-feds-jan-6-riot-probe-526899">Senators grill feds over Jan. 6 riot probe</a> Politico: Democrats challenged prosecutors for not seeking terrorism-related sentences, while Republicans often steered away from the insurrection altogether. 
  <p class="updated_time"> 03:21 PM CT, Jan. 11 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/ron-desantis-state-of-the-state/index.html">DeSantis draws contrast with federal government and Democratic-led states in State of the State address </a> CNN: Painting himself and his state as the antidote to closed schools, government mandates and Big Tech overreach, Florida Gov. Ron DeSantis on Tuesday delivered an election-year State of the State speech that emphasized the deepening divide between Republican and Democratic leadership during the pandemic. 
  <p class="updated_time"> 02:00 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/style/melania-trump-white-hat-auction.html">Melania Trump Auctions Her Hat</a> NYT: A year after leaving the White House, the former first lady tests the water for her brand. 
- <p class="updated_time"> 01:59 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1071829164/biden-speech-voting-rights-filibuster-senate">Biden calls for changes to the Senate's filibuster to pass voting rights bills</a> NPR: The president's remarks were among his most forceful denunciations of voter suppression legislation introduced in a number of GOP-controlled regions as well as for changing the Senate filibuster. 
  <p class="updated_time"> 01:45 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/biden-n95-mask-distribution-526889">Biden health team weighs new mask distribution plan</a> Politico: Officials in favor of distributing the masks to the public have pushed for a decision as soon as Thursday. 
  <p class="updated_time"> 01:15 PM CT, Jan. 11 </p> 
