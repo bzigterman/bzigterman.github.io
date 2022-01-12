@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:31 AM CT, Jan. 12 </p> 
+ <p class="updated_time"> 05:40 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/01/12/world/russia-ukraine-nato-us">Live Updates: NATO Opens Talks With Russia Amid Ukraine Standoff</a> NYT: The diplomatic push to avert another Russian invasion of Ukraine moved to NATO headquarters in Brussels. A meeting between U.S. and Russian officials on Monday was inconclusive. 
  <p class="updated_time"> 05:22 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59965150?at_medium=RSS&at_campaign=KARANGA">'He was like a lighthouse' - Sidney Poitier's daughter posts moving tribute</a> BBC: "I know people know he was good, but I don't think they know the depth of his goodness." 
