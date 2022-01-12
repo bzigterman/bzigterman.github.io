@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:37 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: The tennis star says he made an "error of judgement" when he met a journalist last month. 
- <p class="updated_time"> 09:48 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/asia/novak-djokovic-covid-statement.html">Djokovic Says He Did Interview and Photo Shoot Even After Testing Positive</a> NYT: The tennis star released a statement that he said would clarify “misinformation” as the Australian authorities weigh whether to deport him. 
+ <p class="updated_time"> 10:56 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/world/asia/novak-djokovic-covid-statement.html">Djokovic Admits False Statement on Australia Travel Document</a> NYT: The tennis star also said he had participated in an interview and a photo shoot even after testing positive for the coronavirus, in an apparent violation of rules in his native Serbia. 
+ <p class="updated_time"> 10:55 PM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: In a lengthy statement, the tennis star also admits making a mistake on his Australian entry form. 
  <p class="updated_time"> 09:07 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59956068?at_medium=RSS&at_campaign=KARANGA">Biden pushes overhaul of US election laws in fiery speech</a> BBC: "I'm tired of being quiet," the president says, as he calls on Congress to back his sweeping reforms. 
  <p class="updated_time"> 08:46 PM CT, Jan. 11 </p> 
