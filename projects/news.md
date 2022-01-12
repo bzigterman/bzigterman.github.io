@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:37 AM CT, Jan. 12 </p> 
+ <p class="updated_time"> 08:48 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/01/12/world/russia-ukraine-nato-us">Live Updates: NATO Urges Russia to Ease Crisis Over Ukraine</a> NYT: A four-hour meeting at the alliance’s headquarters in Brussels was part of a diplomatic push aimed at Russia, which has positioned close to 100,000 troops near Ukraine’s borders. A meeting between U.S. and Russian officials on Monday was inconclusive. 
- <p class="updated_time"> 08:34 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59871514?at_medium=RSS&at_campaign=KARANGA">Prince Andrew fails to get US civil case dismissed</a> BBC: Virginia Giuffre's sexual assault civil case against the Duke of York can continue, judge rules. 
+ <p class="updated_time"> 08:44 AM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59871514?at_medium=RSS&at_campaign=KARANGA">Prince Andrew to face civil sex assault case after US ruling</a> BBC: Virginia Giuffre's sexual assault civil case against the Duke of York can continue, judge rules. 
+ <p class="updated_time"> 08:40 AM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59965791?at_medium=RSS&at_campaign=KARANGA">Love theory in Italian man's Ivory Coast kidnap</a> BBC: Prosecutors say a businessman may have been duped into going to Ivory Coast by an online scammer. 
  <p class="updated_time"> 08:31 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-uk-parties.html">Boris Johnson, Under Fire, Apologizes for Pandemic Party</a> NYT: The British prime minister, on the defensive after a series of ethical lapses, said, “There were things we simply did not get right” about a gathering at Downing Street during a lockdown in 2020. 
  <p class="updated_time"> 08:12 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: The tennis star addresses "ongoing misinformation" as Australia decides on his deportation. 
  <p class="updated_time"> 07:47 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/china-zero-covid-policy-xian.html">The Army of Millions Who Enforce China’s Zero-Covid Policy</a> NYT: As the troubled lockdown in Xi’an has shown, many Chinese people remain willing to work diligently toward the government’s goal of eliminating the virus, no matter the consequences. 
- <p class="updated_time"> 07:42 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59965791?at_medium=RSS&at_campaign=KARANGA">Love theory in kidnap of Italian lured to Africa</a> BBC: Prosecutors say a businessman may have been duped into going to Ivory Coast by an online scammer. 
  <p class="updated_time"> 07:06 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59956831?at_medium=RSS&at_campaign=KARANGA">Aras Amiri: British Council says jailed employee freed by Iran</a> BBC: Aras Amiri, an Iranian citizen, has returned to the UK after being acquitted of spying on appeal. 
  <p class="updated_time"> 07:04 AM CT, Jan. 12 </p> 
@@ -50,7 +50,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:31 AM CT, Jan. 12 </p> 
  <a href="https://www.wsj.com/articles/migrants-rush-to-europe-as-covid-19-restrictions-ease-11641994307">Migrants Rush to Europe as Covid-19 Restrictions Ease</a> WSJ: Illegal border crossings into the European Union in 2021 were the highest since 2017, indicating the bloc hasn’t resolved an issue that has dogged it in recent years. 
  <p class="updated_time"> 01:43 AM CT, Jan. 12 </p> 
- <a href="https://www.wsj.com/articles/kazakhstan-investigates-how-peaceful-demonstrations-turned-violent-11641991426">Kazakhstan Investigates How Peaceful Demonstrations Turned Violent</a> WSJ: The country’s protests over fuel-price rises were largely peaceful for three days before descending into violence. The government and the original protesters more or less agree on one point: Demonstrations were hijacked by violent criminals seeking to destabilize the nation and effect a coup. 
+ <a href="https://www.wsj.com/articles/kazakhstan-investigates-how-peaceful-demonstrations-turned-violent-11641991426">Kazakhstan Blames Violent Protests on Criminals; 'It Was Hell'</a> WSJ: The country’s protests over fuel-price rises were largely peaceful for three days before descending into violence. The government and the original protesters more or less agree on one point: Demonstrations were hijacked by violent criminals seeking to destabilize the nation and effect a coup. 
  <p class="updated_time"> 01:31 AM CT, Jan. 12 </p> 
  <a href="https://www.wsj.com/articles/novak-djokovic-says-his-agent-made-mistake-on-australia-travel-declaration-11641958725">Djokovic Thrust to Center of Vaccine Mandates Debate</a> WSJ: The world’s No. 1-ranked men’s tennis star, Novak Djokovic has become a lightning rod in the debate over Covid-19 vaccine mandates. 
  <p class="updated_time"> 12:43 AM CT, Jan. 12 </p> 
@@ -206,12 +206,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:25 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/consumer-prices-526964">U.S. consumer prices soared 7 percent in past year, most since 1982</a> Politico: The jump is the latest evidence that rising costs for food, rent and other necessities are heightening the financial pressures on America’s households. 
+ <p class="updated_time"> 08:47 AM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/business/economy/cpi-inflation-december-2021.html">Consumer Prices Jumped at Fastest Pace Since 1982</a> NYT: The Consumer Price Index increased at the fastest pace in 40 years, a new report showed. 
+ <p class="updated_time"> 08:47 AM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/astrazeneca-covid-19-treatment-purchase/index.html">Biden administration to announce additional purchase of 500,000 AstraZeneca Covid-19 treatment courses</a> CNN: The Biden administration is expected on Wednesday to announce the purchase of additional courses of a Covid-19 treatment manufactured by drugmaker AstraZeneca. 
  <p class="updated_time"> 08:39 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden calls on Senate to change filibuster rules to pass voting rights bills: 'I'm tired of being quiet'</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 08:39 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/georgia-political-center-stage-2022/index.html">Georgia has become the center of the political landscape</a> CNN: Georgia has become the center of the political landscape -- and it's likely to stay there for the remainder of 2022. 
- <p class="updated_time"> 07:59 AM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/business/economy/cpi-inflation-december-2021.html">Consumer Prices Jumped at Fastest Pace Since 1982</a> NYT: The Consumer Price Index increased at the fastest pace in 40 years, a new report showed. 
  <p class="updated_time"> 07:43 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/12/whats-the-plan-man-dems-still-talking-elections-and-filibuster-495696">What’s the plan, Chuck?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:39 AM CT, Jan. 12 </p> 
@@ -261,7 +263,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:29 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/biden-senate-voting-rights-filibuster-what-matters/index.html">Analysis: How Biden heaped shame on the Senate in thundering speech</a> CNN: Pressure has failed. Negotiation has failed. Allowing Sen. Joe Manchin to craft his own voting rights bill has failed. 
  <p class="updated_time"> 11:26 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/12/1072359797/djokovic-clarifies-timeline-before-arriving-in-australia-as-visa-saga-continues">Djokovic clarifies his timeline before arriving in Australia as visa saga continues</a> NPR: Djokovic moved to clarify the timeline while he was infectious last month and about errors on the travel document he used to enter Australia to defend his Australian Open title. 
+ <a href="https://www.npr.org/2022/01/12/1072359797/djokovic-clarifies-timeline-before-arriving-in-australia-as-visa-saga-continues">Djokovic admits a mistake on his Australia travel form and outlines COVID test timing</a> NPR: Djokovic moved to clarify the timeline about the period when he was infectious last month and about errors on the travel document he used to enter Australia to defend his Australian Open title. 
  <p class="updated_time"> 11:02 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/biden-voting-rights-legislative-legacy/index.html">Tuesday's speech marked an evolution in Biden as president</a> CNN: It took a year for Joe Biden to make an irrevocable bet that puts the credibility of his presidency on the line. If his bid now to change Senate rules to pass voting rights legislation fails, he'll lose more than just the bills he sees as vital to saving democracy. His drained political capital could spell the end of the entire domestic, legislative phase of his administration. 
  <p class="updated_time"> 10:50 PM CT, Jan. 11 </p> 
@@ -422,8 +424,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/clinton-oprah-democrats-manchin-filibuster-526691">Bill Clinton, Oprah and his fellow centrists: Dems go all-out to sway Manchin</a> Politico: Sen. Tim Kaine (D-Va.) likened lobbying his colleague to change the filibuster to his 27-hour drive earlier this week after a snowstorm devastated I-95. 
  <p class="updated_time"> 04:30 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/house-intel-mike-turner-trump-526697">House Intel’s next top Republican prepares a sharp turn from the Trump years</a> Politico: Now that ex-Rep. Devin Nunes is gone, lawmakers in both parties are hoping bitter fights can cease as Rep. Mike Turner replaces him. 
- <p class="updated_time"> 08:02 PM CT, Jan. 06 </p> 
- <a href="https://www.cnn.com/2022/01/06/politics/inside-biden-january-6-speech/index.html">Inside Biden's fiery speech and his decision to confront Trump's danger head-on</a> CNN: It was only a little more than a month ago when President Joe Biden, asked about another head-shaking revelation regarding his predecessor, seemed to balk at a mere mention of the man. 
  <p class="updated_time"> 03:56 PM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/news/2022/01/06/biden-lays-out-the-stakes-for-democracy-can-he-sustain-the-case-526688">Biden lays out the stakes for democracy. Can he sustain the case?</a> Politico: The president’s speech on Thursday was hailed by fellow Democrats. Now, they want him to keep at it. 
  <p class="updated_time"> 10:27 AM CT, Jan. 06 </p> 
