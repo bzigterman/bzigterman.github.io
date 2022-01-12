@@ -205,9 +205,15 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
+ <a href="https://www.politico.com/news/2022/01/12/kansas-city-mayor-recall-fighting-covid-republicans-526900">5 recall attempts later, Kansas City mayor is fighting Covid and Republicans</a> Politico: Quinton Lucas on political polarization, clashes over pandemic-era restrictions and what it’s like being a Black mayor after George Floyd. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/mcconnell-successor-three-johns-race-526920">What's in a name? Trio of Johns vies to succeed McConnell</a> Politico: The shadow race is on. Thune and Cornyn are best-positioned to become the next Senate GOP leader — but Barrasso is in the mix too. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
+ <a href="https://www.politico.com/news/2022/01/12/trump-governor-candidates-526954">Trump lost these states. Republican candidates for governor are emulating him anyway.</a> Politico: The former president's influence in key battleground states could be on the rise in 2022. 
  <p class="updated_time"> 04:21 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/economy/cpi-inflation-december-2021.html">CPI Report Is Expected to Show Inflation Popped Again</a> NYT: Economists expect a 7 percent gain in the Consumer Price Index, which would be the fastest pace since mid-1982. 
+ <p class="updated_time"> 04:17 AM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072372531/biden-calls-for-changes-to-senate-filibuster-to-pass-voting-rights-bills">Biden calls for changes to Senate filibuster to pass voting rights bills</a> NPR: In a speech in Georgia, President Biden called for passage of voting rights reforms, including if necessary, getting rid of congressional rules that require 60 senators to support most legislation. 
  <p class="updated_time"> 04:01 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072204478/donald-trump-npr-interview-presidential-election-lies-vaccines">Pressed on his election lies, former President Trump cuts NPR interview short</a> NPR: The former president blasted Republicans who have crossed him and kept up repeated election lies in an NPR interview. 
  <p class="updated_time"> 04:00 AM CT, Jan. 12 </p> 
@@ -246,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/florida-special-election-sheila-cherfilus-mccormick/index.html">Sheila Cherfilus-McCormick will win Florida special election to replace the late Alcee Hastings, CNN projects </a> CNN: Sheila Cherfilus-McCormick, a progressive Democrat who campaigned on sending Americans a monthly $1,000 check, will win a special election on Tuesday to replace the late US Rep. Alcee Hastings in his South Florida district, CNN projects. 
  <p class="updated_time"> 07:12 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/ray-epps-january-6-committee.html">Jan. 6 Panel Seeks to Debunk Unfounded Theory About F.B.I. Role in Riot</a> NYT: The House select committee investigating the attack on the Capitol interviewed Ray Epps, a protester at the center of a right-wing conspiracy theory. 
- <p class="updated_time"> 07:08 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/covid-health-officials-congress-omicron-526950">Decoding what Biden health officials told Congress about Omicron</a> Politico: In contrast to previous oversight hearings on the administration’s Covid-19 response, Dems raised sharp questions and complaints on the state of the resurging pandemic. 
  <p class="updated_time"> 07:01 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/alzheimers-drug-aduhelm-medicare-decision/index.html">Medicare proposes to cover controversial Alzheimer's drug with restrictions</a> CNN: Medicare has proposed covering the controversial and costly Alzheimer's drug Aduhelm only for those enrolled in qualifying clinical trials, the Centers for Medicare and Medicaid Services announced Tuesday. 
  <p class="updated_time"> 06:51 PM CT, Jan. 11 </p> 
@@ -264,8 +268,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/business/powell-confirmation-hearing.html"> Jerome Powell Says Fed Is Prepared to Raise Rates to Tame Inflation</a> NYT: The Federal Reserve chair testified before lawmakers while seeking Senate confirmation to a second term. 
  <p class="updated_time"> 06:21 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/north-carolina-gop-map-redistricting-526931">North Carolina court declines to toss out GOP-drawn House map</a> Politico: Democratic plaintiffs challenged the state's maps as illegal partisan gerrymanders and are planning to appeal to the state Supreme Court. 
- <p class="updated_time"> 06:15 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/democrats-covid-strategy-526924">'Rules need to be clear': Dems call for Covid strategy reset as cases spike</a> Politico: Congressional Democrats fret that the White House's strategy on Covid in recent weeks has been confusing and ineffective against the Omicron variant. 
  <p class="updated_time"> 06:10 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/democrats-ron-johnson-2022.html">Why Democrats Aren't Attacking Ron Johnson for His Outlandish Comments</a> NYT: Ron Johnson has a history of making outlandish comments. But Democrats aren’t focusing on those for now. 
  <p class="updated_time"> 06:03 PM CT, Jan. 11 </p> 
@@ -282,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/us/politics/justice-dept-domestic-terrorism.html">Justice Dept. Forms Domestic Terrorism Unit</a> NYT: The move is in keeping with Attorney General Merrick B. Garland’s vow to make combating domestic terrorism a priority. 
  <p class="updated_time"> 05:07 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072235184/former-harry-reid-staffer-on-bidens-support-of-getting-rid-of-the-filibuster">Former Harry Reid staffer on Biden's support of getting rid of the filibuster</a> NPR: NPR's Ailsa Chang speaks with Adam Jentleson, who served as the deputy chief of staff to Sen. Harry Reid, about the impact President Biden's support of changing Senate rules has on the filibuster. 
- <p class="updated_time"> 05:02 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/biden-harris-voting-rights-speech-526903">‘I’m tired of being quiet’: Biden and Harris make forceful push for voting rights</a> Politico: The president called on the GOP to join Democrats in supporting the voting and elections reform bills. 
  <p class="updated_time"> 04:58 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/harry-reid.html">Harry Reid: From Capitol Cop to Powerhouse Senate Leader</a> NYT: Mr. Reid, who will lie in state on Wednesday in the Rotunda, charted a unique path to power and knew how to exercise it. 
  <p class="updated_time"> 04:56 PM CT, Jan. 11 </p> 
@@ -330,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/biden-n95-mask-distribution-526889">Biden health team weighs new mask distribution plan</a> Politico: Officials in favor of distributing the masks to the public have pushed for a decision as soon as Thursday. 
  <p class="updated_time"> 01:15 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/trump-jan-6-lawsuits.html">Civil Suits Against Trump Seek Damages for Jan. 6 Attack</a> NYT: Lawyers argued that the cases against the former president should be allowed to go forward because he inflamed a mob and failed to stop the violence it wrought. 
- <p class="updated_time"> 01:15 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072110378/dr-fauci-says-gop-sen-pauls-false-accusations-have-sparked-death-threats">Dr. Fauci says GOP Sen. Paul's false accusations have sparked death threats</a> NPR: Fauci and Paul sparred at a Senate hearing on COVID-19, escalating exchanges the two have had throughout the pandemic. Fauci also said Paul is attempting to raise money off "a catastrophic epidemic." 
  <p class="updated_time"> 12:16 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/david-mccormick-senate-campaign-trump-526870">McCormick MAGA-proofs his Senate campaign after dissing Trump</a> Politico: The new Pennsylvania candidate is certain to face GOP primary attacks. 
  <p class="updated_time"> 12:15 PM CT, Jan. 11 </p> 
