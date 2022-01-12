@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:48 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/world/asia/novak-djokovic-covid-statement.html">Djokovic Says He Did Interview and Photo Shoot Even After Testing Positive</a> NYT: The tennis star released a statement that he said would clarify “misinformation” as the Australian authorities weigh whether to deport him. 
+ <p class="updated_time"> 09:34 PM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Mistake on Australia travel form was human error</a> BBC: The tennis star says his agent made a mistake while filling in a form before he travelled to Australia. 
  <p class="updated_time"> 09:21 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/sports/tennis/novak-djokovic-covid-positive-australia.html">Novak Djokovic Tested Positive: A Timeline of What Happened Next</a> NYT: After confusion emerged, he claimed not to have known of his positive result until after some appearances and said he regretted keeping a scheduled interview once he did know. 
  <p class="updated_time"> 09:07 PM CT, Jan. 11 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/arts/dance/tamara-rojo-artistic-director-san-francisco-ballet.html">San Francisco Ballet Appoints Tamara Rojo to Artistic Director</a> NYT: Rojo, who has given the English National Ballet a new allure, succeeds Helgi Tomasson as just the fifth director to lead the San Francisco company. 
  <p class="updated_time"> 01:26 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/ukraine-russia.html">A Russian Pledge of No Invasion? Ukrainians Are Skeptical.</a> NYT: When Russians say no, they often mean yes, a former Ukrainian member of Parliament said, as suspicion ran deep about Moscow’s intentions. 
- <p class="updated_time"> 01:09 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59958662?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Up to tennis star to explain PCR grey area, says Serbia PM</a> BBC: Ana Brnabic says it would be a clear breach of rules if the tennis star went out knowing he had Covid. 
  <p class="updated_time"> 01:04 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072134048/british-prime-minister-boris-johnson-party-lockdown-covid">Boris Johnson is in hot water for hosting a BYOB party during the U.K.'s 2020 lockdown</a> NPR: On the date of the prime minister's party, the country's COVID restrictions meant that people were required to remain in their homes and away from others unless they had a "reasonable excuse." 
  <p class="updated_time"> 12:12 PM CT, Jan. 11 </p> 
@@ -198,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:47 PM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/records-former-labor-leader-subpoenaed-526961">Records of former labor leader and close Biden ally subpoenaed</a> Politico: A grand jury is probing Harold Schaitberger's financial activities as the leader of the International Association of Fire Fighters. 
  <p class="updated_time"> 10:12 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/china-covid-lockdowns-olympics-526960">China locks down third city, raising affected to 20 million</a> Politico: The approach of the Winter Olympics and the emergence of Omicron have brought back citywide lockdowns. 
  <p class="updated_time"> 09:39 PM CT, Jan. 11 </p> 
