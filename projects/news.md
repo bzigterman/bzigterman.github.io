@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:34 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/business/china-zero-covid-policy-xian.html">The Army of Millions Who Enforce China’s Zero-Covid Policy</a> NYT: As the troubled lockdown in Xi’an has shown, many Chinese people remain willing to work diligently toward the government’s goal of eliminating the virus, no matter the consequences. 
+ <p class="updated_time"> 05:23 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-famous-apologies.html">Boris Johnson's Apology Is Part of a Long Tradition</a> NYT: Prime Minister Boris Johnson’s self-abasing apology, for attending a party during a pandemic lockdown, joins a long list of mea culpas by the prominent and powerful. 
  <p class="updated_time"> 05:05 PM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59975272?at_medium=RSS&at_campaign=KARANGA">Ronnie Spector: Be My Baby singer of The Ronettes dies at 78</a> BBC: The rock and roll super star was the lead singer of the 1960 pioneering all-girl group the Ronettes. 
- <p class="updated_time"> 05:05 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-famous-apologies.html">Boris Johnson's Apology Is Part of a Long Tradition</a> NYT: Prime Minister Boris Johnson’s self-abasing apology, for attending a party during a pandemic lockdown, joins a long list of mea culpas by the prominent and powerful. 
  <p class="updated_time"> 04:56 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/who-omicron-coronavirus.html">W.H.O. Official Urges Countries Not to Relax Covid Guidelines</a> NYT: Over the past week, a staggering average of 2.6 million new cases a day has been reported, according to according to the Center for Systems Science and Engineering at Johns Hopkins University. 
  <p class="updated_time"> 04:50 PM CT, Jan. 12 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072483665/boris-johnson-apologizes-party">Boris Johnson apologizes for a BYOB party held as the U.K. was in COVID lockdown</a> NPR: Labour Party leader Keir Starmer called Prime Minister Boris Johnson's apology worthless, adding that his defense is that "he didn't realize he was at a party." 
  <p class="updated_time"> 01:43 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/nyregion/prince-andrew-epstein-lawsuit-virginia-giuffre.html">Epstein Accuser’s Lawsuit Against Prince Andrew Can Proceed, Judge Rules</a> NYT: Virginia Giuffre has sued Andrew, the second son of Queen Elizabeth II, accusing him of raping her when she was a teenager. 
- <p class="updated_time"> 01:21 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/business/china-zero-covid-policy-xian.html">The Army of Millions Who Enforce China’s Zero-Covid Policy</a> NYT: As the troubled lockdown in Xi’an has shown, many Chinese people remain willing to work diligently toward the government’s goal of eliminating the virus, no matter the consequences. 
  <p class="updated_time"> 01:21 PM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59963285?at_medium=RSS&at_campaign=KARANGA">Escaped Dutch youth offender shot dead in Belgium</a> BBC: The young man reportedly took two people hostage, drove over the border and opened fire on police. 
  <p class="updated_time"> 01:19 PM CT, Jan. 12 </p> 
@@ -204,12 +204,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/white-house-environmental-justice-exits-526996">White House departures send tremors through environmental community</a> Politico: The abrupt exits of Cecilia Martinez and David Kieve from the White House's Council on Environmental Quality sparked alarm among environmental justice experts. 
  <p class="updated_time"> 05:50 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/white-house-iran-pullout-nuclear-deal-526990">White House slams Trump’s Iran pullout as prospects to save nuclear deal dim</a> Politico: Some analysts predict the U.S. will adopt a more coercive approach toward Tehran by early February. 
+ <p class="updated_time"> 05:28 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/elections/david-mccormick-pennsylvania-senate.html">David McCormick Joins Republican Senate Primary in Pennsylvania</a> NYT: A former Treasury official, Mr. McCormick has drawn comparisons to Glenn Youngkin, the financier recently elected governor of Virginia. 
  <p class="updated_time"> 05:06 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/kayleigh-mcenany-january-6-committee/index.html">Former White House press secretary Kayleigh McEnany met with January 6 committee, sources say</a> CNN: Former White House press secretary Kayleigh McEnany on Wednesday appeared before the House select committee investigating the January 6 insurrection, two sources familiar with the matter tell CNN. 
  <p class="updated_time"> 05:04 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/kevin-mccarthy-january-6/index.html">January 6 committee wants to ask McCarthy about Trump's state of mind during and after riot</a> CNN: The House select committee investigating the January 6 riot is asking Minority Leader Kevin McCarthy, a California Republican, to voluntarily provide information to the panel, a major development in the sweeping investigation, according to a new letter released Wednesday. 
- <p class="updated_time"> 05:02 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/elections/david-mccormick-pennsylvania-senate.html">David McCormick Joins Republican Senate Primary in Pennsylvania</a> NYT: A former Treasury official, Mr. McCormick has drawn comparisons to Glenn Youngkin, the financier recently elected governor of Virginia. 
  <p class="updated_time"> 04:39 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/mitch-mcconnell-biden-speech-reaction/index.html">Mitch McConnell calls Biden's speech 'incoherent' and 'beneath his office'</a> CNN: Senate Minority Leader Mitch McConnell blasted President Joe Biden's speech pushing for the Senate to change its filibuster rules to pass voting and elections legislation, saying Biden compared "a bipartisan majority of senators to literal traitors." 
  <p class="updated_time"> 04:32 PM CT, Jan. 12 </p> 
