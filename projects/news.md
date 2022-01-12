@@ -9,10 +9,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:34 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/china-zero-covid-policy-xian.html">The Army of Millions Who Enforce China’s Zero-Covid Policy</a> NYT: As the troubled lockdown in Xi’an has shown, many Chinese people remain willing to work diligently toward the government’s goal of eliminating the virus, no matter the consequences. 
+ <p class="updated_time"> 05:34 PM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59975272?at_medium=RSS&at_campaign=KARANGA">Ronnie Spector: Be My Baby singer of The Ronettes dies at 78</a> BBC: The rock and roll super star was the lead singer of the 1960 pioneering all-girl group the Ronettes. 
  <p class="updated_time"> 05:23 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-famous-apologies.html">Boris Johnson's Apology Is Part of a Long Tradition</a> NYT: Prime Minister Boris Johnson’s self-abasing apology, for attending a party during a pandemic lockdown, joins a long list of mea culpas by the prominent and powerful. 
- <p class="updated_time"> 05:05 PM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59975272?at_medium=RSS&at_campaign=KARANGA">Ronnie Spector: Be My Baby singer of The Ronettes dies at 78</a> BBC: The rock and roll super star was the lead singer of the 1960 pioneering all-girl group the Ronettes. 
  <p class="updated_time"> 04:56 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/who-omicron-coronavirus.html">W.H.O. Official Urges Countries Not to Relax Covid Guidelines</a> NYT: Over the past week, a staggering average of 2.6 million new cases a day has been reported, according to according to the Center for Systems Science and Engineering at Johns Hopkins University. 
  <p class="updated_time"> 04:50 PM CT, Jan. 12 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/white-house-environmental-justice-exits-526996">White House departures send tremors through environmental community</a> Politico: The abrupt exits of Cecilia Martinez and David Kieve from the White House's Council on Environmental Quality sparked alarm among environmental justice experts. 
  <p class="updated_time"> 05:50 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/white-house-iran-pullout-nuclear-deal-526990">White House slams Trump’s Iran pullout as prospects to save nuclear deal dim</a> Politico: Some analysts predict the U.S. will adopt a more coercive approach toward Tehran by early February. 
+ <p class="updated_time"> 05:45 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/north-korea-sanctions-missile-test/index.html">US sanctions 5 North Koreans and 1 entity tied to regime's missile programs</a> CNN: The US on Wednesday announced sanctions on five North Koreans and one entity supporting the regime's ballistic missile programs, imposing the punishments after a new missile test by the country. 
  <p class="updated_time"> 05:28 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/elections/david-mccormick-pennsylvania-senate.html">David McCormick Joins Republican Senate Primary in Pennsylvania</a> NYT: A former Treasury official, Mr. McCormick has drawn comparisons to Glenn Youngkin, the financier recently elected governor of Virginia. 
  <p class="updated_time"> 05:06 PM CT, Jan. 12 </p> 
@@ -218,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/12/politics/trey-hollingsworth-republican-house-retirements/index.html">GOP Rep. Trey Hollingsworth announces he won't seek reelection to Indiana seat </a> CNN: GOP Rep. Trey Hollingsworth of Indiana announced on Wednesday he will not seek a fourth term in November, becoming the 12th House Republican to say he won't run for reelection. 
  <p class="updated_time"> 04:25 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/economy/cpi-inflation-december-2021.html">CPI December 2021: Inflation Jumped at Fastest Pace Since 1982</a> NYT: The Consumer Price Index increased at the fastest pace in 40 years, a new report showed. 
- <p class="updated_time"> 04:23 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/north-korea-sanctions-missile-test/index.html">US sanctions 5 North Koreans and 1 entity tied to regime's missile programs</a> CNN: The US on Wednesday announced sanctions on five North Koreans and one entity supporting the regime's ballistic missile programs, imposing the punishments after a new missile test by the country. 
  <p class="updated_time"> 04:23 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/january-6-committee-weighs-options/index.html">January 6 committee weighs options to get members of Congress to comply with its investigation</a> CNN: Members of the House select committee investigating the January 6 Capitol Hill insurrection are weighing what options they have to compel their fellow members of Congress to cooperate with their probe. 
  <p class="updated_time"> 04:23 PM CT, Jan. 12 </p> 
