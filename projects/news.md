@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:50 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-russia-talks-ukraine-brussels.html">NATO and Russia Talk Frankly, but Past One Another for Now</a> NYT: Four hours of frank and serious discussion between Russia and the 30-member alliance leave unanswered whether Vladimir V. Putin will choose diplomacy or war. 
  <p class="updated_time"> 04:49 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/who-omicron-coronavirus.html">W.H.O. Official Urges Countries Not to Relax Covid Guidelines</a> NYT: Over the past week, a staggering average of 2.6 million new cases a day has been reported, according to according to the Center for Systems Science and Engineering at Johns Hopkins University. 
  <p class="updated_time"> 04:41 PM CT, Jan. 12 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59971232?at_medium=RSS&at_campaign=KARANGA">Palestinian-American man, 80, found dead after Israeli raid in West Bank</a> BBC: Omar Asad reportedly died following his arrest by Israeli soldiers in the occupied West Bank. 
  <p class="updated_time"> 03:07 PM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59974375?at_medium=RSS&at_campaign=KARANGA">Republican McConnell slams Biden voting rights speech as 'unpresidential'</a> BBC: President Joe Biden had criticised opponents to his election reforms in a fiery speech on Tuesday. 
- <p class="updated_time"> 02:48 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-russia-talks-ukraine-brussels.html">NATO and Russia Talk Frankly, but Past One Another for Now</a> NYT: Four hours of frank and serious discussion between Russia and the 30-member alliance leave unanswered whether Vladimir V. Putin will choose diplomacy or war. 
  <p class="updated_time"> 02:40 PM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59974220?at_medium=RSS&at_campaign=KARANGA">Virginia Giuffre: What we know about Prince Andrew's accuser</a> BBC: What we know about the woman who has accused the British royal of sexual assault. 
  <p class="updated_time"> 02:31 PM CT, Jan. 12 </p> 
