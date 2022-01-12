@@ -200,20 +200,20 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:12 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/china-covid-lockdowns-olympics-526960">China locks down third city, raising affected to 20 million</a> Politico: The approach of the Winter Olympics and the emergence of Omicron have brought back citywide lockdowns. 
+ <p class="updated_time"> 09:39 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-senate-history.html">Biden’s Longtime Defense of Senate Rules Withers Under Partisan Rancor</a> NYT: The president left no doubt that he has reached a breaking point, lashing out at senators who are blocking voting rights legislation. 
+ <p class="updated_time"> 09:24 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/health/fauci-senate-hearing-omicron-response.html">U.S. Officials Defend Omicron Response at Senate Hearing</a> NYT: Lawmakers accused top Biden administration health officials of neglecting virus testing and mangling key messaging around the pandemic. 
  <p class="updated_time"> 09:12 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, President Biden, who had long been leery of whittling away at the filibuster, said such Senate traditions had been abused by Republicans. 
  <p class="updated_time"> 08:38 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/guantanamo-detainees-cleared-for-release/index.html">2 Guantanamo detainees cleared for release as prison marks 20 years</a> CNN: Two detainees who have been at the US detention facility in Guantanamo Bay, Cuba, for more than a decade have been cleared for release, according to public documents. The decisions come as the prison marked 20 years this week since it was opened under the George W. Bush administration, a few months after the September 11 terrorist attacks. 
- <p class="updated_time"> 08:21 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-senate-history.html">Biden’s Longtime Defense of Senate Rules Withers Under Partisan Rancor</a> NYT: The president left no doubt that he has reached a breaking point, lashing out at senators who are blocking voting rights legislation. 
  <p class="updated_time"> 08:09 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/fauci-rand-paul-roger-marshall-hearing/index.html">Fauci spars with GOP lawmakers during tense Omicron hearing </a> CNN: Dr. Anthony Fauci hit back at two Republican senators in a pair of tense exchanges Tuesday, accusing one of attacking him for political gain and calling another "a moron" following questions about his finances during a Senate hearing. 
  <p class="updated_time"> 08:04 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/ambassador-nato-julianne-smith-russia-ukraine-talks-cnntv/index.html">US ambassador to NATO says NATO and Russia 'committed to dialogue' ahead of talks Wednesday</a> CNN: The US ambassador to NATO Julianne Smith said Tuesday that the US, European allies and Russia are all "committed to dialogue" ahead of Wednesday's high-stakes meeting to discuss Russia's military buildup along the Ukrainian border. 
  <p class="updated_time"> 07:25 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/biden-senate-voting-rights-filibuster-what-matters/index.html">Analysis: How Biden heaped shame on the Senate in thundering speech</a> CNN: Pressure has failed. Negotiation has failed. Allowing Sen. Joe Manchin to craft his own voting rights bill has failed. 
- <p class="updated_time"> 07:13 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/health/fauci-senate-hearing-omicron-response.html">U.S. Officials Defend Omicron Response at Senate Hearing</a> NYT: Lawmakers accused top Biden administration health officials of neglecting virus testing and mangling key messaging around the pandemic. 
  <p class="updated_time"> 07:13 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/florida-special-election-sheila-cherfilus-mccormick/index.html">Sheila Cherfilus-McCormick will win Florida special election to replace the late Alcee Hastings, CNN projects </a> CNN: Sheila Cherfilus-McCormick, a progressive Democrat who campaigned on sending Americans a monthly $1,000 check, will win a special election on Tuesday to replace the late US Rep. Alcee Hastings in his South Florida district, CNN projects. 
  <p class="updated_time"> 07:12 PM CT, Jan. 11 </p> 
