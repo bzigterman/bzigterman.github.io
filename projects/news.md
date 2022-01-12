@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:05 PM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59975272?at_medium=RSS&at_campaign=KARANGA">Ronnie Spector: Be My Baby singer of The Ronettes dies at 78</a> BBC: The rock and roll super star was the lead singer of the 1960 pioneering all-girl group the Ronettes. 
+ <p class="updated_time"> 05:05 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-famous-apologies.html">Boris Johnson's Apology Is Part of a Long Tradition</a> NYT: Prime Minister Boris Johnson’s self-abasing apology, for attending a party during a pandemic lockdown, joins a long list of mea culpas by the prominent and powerful. 
+ <p class="updated_time"> 04:56 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/world/who-omicron-coronavirus.html">W.H.O. Official Urges Countries Not to Relax Covid Guidelines</a> NYT: Over the past week, a staggering average of 2.6 million new cases a day has been reported, according to according to the Center for Systems Science and Engineering at Johns Hopkins University. 
  <p class="updated_time"> 04:50 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-russia-talks-ukraine-brussels.html">NATO and Russia Talk Frankly, but Past One Another for Now</a> NYT: Four hours of frank and serious discussion between Russia and the 30-member alliance leave unanswered whether Vladimir V. Putin will choose diplomacy or war. 
- <p class="updated_time"> 04:49 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/who-omicron-coronavirus.html">W.H.O. Official Urges Countries Not to Relax Covid Guidelines</a> NYT: Over the past week, a staggering average of 2.6 million new cases a day has been reported, according to according to the Center for Systems Science and Engineering at Johns Hopkins University. 
  <p class="updated_time"> 04:41 PM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59974939?at_medium=RSS&at_campaign=KARANGA">Hoda Muthana: Alabama IS bride loses appeal for return to US</a> BBC: US-born Hoda Muthana is a citizen and should be allowed to return with her son, the lawsuit argued. 
  <p class="updated_time"> 04:30 PM CT, Jan. 12 </p> 
@@ -46,7 +50,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:48 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/aras-amiri-released-iran.html">Aras Amiri Has Returned to the U.K. After Being Jailed in Iran</a> NYT: Aras Amiri, a arts worker employed by the British Council, was arrested in March 2018 on espionage charges. She was acquitted in August and flew back to Britain earlier this week. 
  <p class="updated_time"> 12:34 PM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59971955?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US says Russia faces stark choice</a> BBC: Russia is told it must decide between de-escalation and diplomacy, or confrontation and consequences. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59971955?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US says Russia faces stark choice</a> BBC: Russia is told to decide between de-escalation and diplomacy, or confrontation and consequences. 
  <p class="updated_time"> 12:14 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-uk-parties.html">Boris Johnson, Under Fire, Apologizes for Pandemic Party</a> NYT: The British prime minister, on the defensive after a series of ethical lapses, said, “There were things we simply did not get right” about a gathering at Downing Street during a lockdown in 2020. 
  <p class="updated_time"> 11:55 AM CT, Jan. 12 </p> 
@@ -65,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59969509?at_medium=RSS&at_campaign=KARANGA">Covid-19: Chinese woman stuck in lockdown with blind date</a> BBC: A swift lockdown in China’s Zhengzhou means a woman is stuck at her date’s house. 
  <p class="updated_time"> 08:14 AM CT, Jan. 12 </p> 
  <a href="https://www.wsj.com/articles/russia-nato-meet-over-ukraine-impasse-11641987171">Russia, NATO Fail to Resolve Differences in Ukraine Talks</a> WSJ: NATO Secretary-General Jens Stoltenberg said significant differences remained, but expressed hope that Russia, which has gathered tens of thousands of troops on its border with Ukraine, would agree to further talks. 
- <p class="updated_time"> 08:12 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: As Australia decides on his deportation, Djokovic claims his agent simply "ticked the wrong box". 
  <p class="updated_time"> 07:43 AM CT, Jan. 12 </p> 
  <a href="https://www.wsj.com/articles/boris-johnson-apologizes-for-attending-party-at-downing-street-during-lockdown-11641994454">Boris Johnson Apologizes for Party During Lockdown</a> WSJ: The British prime minister sought to tamp down growing public outcry and respond to pressure from his own lawmakers over the event. 
  <p class="updated_time"> 07:15 AM CT, Jan. 12 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/ethiopian-government-repels-rebels-pledges-peace-talks-11642005374">Ethiopian Government Repels Rebels, Pledges Peace Talks</a> WSJ: In a sharp reversal of fortunes, troops under Prime Minister Abiy Ahmed have forced Tigray People’s Liberation Front fighters back into their mountainous homeland in the country’s north. 
  <p class="updated_time"> 05:24 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59963434?at_medium=RSS&at_campaign=KARANGA">Alps murders: French police arrest suspect over killing of British family</a> BBC: Three members of a British family and a French cyclist were shot dead in the French Alps. 
- <p class="updated_time"> 05:22 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59965150?at_medium=RSS&at_campaign=KARANGA">'He was like a lighthouse' - Sidney Poitier's daughter posts moving tribute</a> BBC: "I know people know he was good, but I don't think they know the depth of his goodness." 
  <p class="updated_time"> 04:15 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/antigen-tests.html">Racing to Stop Omicron, Countries Rely on At-Home Antigen Tests</a> NYT: Countries aim keep up with the variant’s rapid pace of transmission, marking a shift from viewing P.C.R. testing as the primary method of diagnosis. 
  <p class="updated_time"> 03:59 AM CT, Jan. 12 </p> 
@@ -200,8 +200,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:50 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/elections/pennsylvania-senate-david-mccormick.html">David McCormick Joins Republican Senate Primary in Pennsylvania</a> NYT: A former Treasury official, Mr. McCormick has drawn comparisons to Glenn Youngkin, the financier recently elected governor of Virginia. 
+ <p class="updated_time"> 05:53 PM CT, Jan. 12 </p> 
+ <a href="https://www.politico.com/news/2022/01/12/white-house-environmental-justice-exits-526996">White House departures send tremors through environmental community</a> Politico: The abrupt exits of Cecilia Martinez and David Kieve from the White House's Council on Environmental Quality sparked alarm among environmental justice experts. 
+ <p class="updated_time"> 05:50 PM CT, Jan. 12 </p> 
+ <a href="https://www.politico.com/news/2022/01/12/white-house-iran-pullout-nuclear-deal-526990">White House slams Trump’s Iran pullout as prospects to save nuclear deal dim</a> Politico: Some analysts predict the U.S. will adopt a more coercive approach toward Tehran by early February. 
+ <p class="updated_time"> 05:06 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/kayleigh-mcenany-january-6-committee/index.html">Former White House press secretary Kayleigh McEnany met with January 6 committee, sources say</a> CNN: Former White House press secretary Kayleigh McEnany on Wednesday appeared before the House select committee investigating the January 6 insurrection, two sources familiar with the matter tell CNN. 
+ <p class="updated_time"> 05:04 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/kevin-mccarthy-january-6/index.html">January 6 committee wants to ask McCarthy about Trump's state of mind during and after riot</a> CNN: The House select committee investigating the January 6 riot is asking Minority Leader Kevin McCarthy, a California Republican, to voluntarily provide information to the panel, a major development in the sweeping investigation, according to a new letter released Wednesday. 
+ <p class="updated_time"> 05:02 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/elections/david-mccormick-pennsylvania-senate.html">David McCormick Joins Republican Senate Primary in Pennsylvania</a> NYT: A former Treasury official, Mr. McCormick has drawn comparisons to Glenn Youngkin, the financier recently elected governor of Virginia. 
  <p class="updated_time"> 04:39 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/mitch-mcconnell-biden-speech-reaction/index.html">Mitch McConnell calls Biden's speech 'incoherent' and 'beneath his office'</a> CNN: Senate Minority Leader Mitch McConnell blasted President Joe Biden's speech pushing for the Senate to change its filibuster rules to pass voting and elections legislation, saying Biden compared "a bipartisan majority of senators to literal traitors." 
  <p class="updated_time"> 04:32 PM CT, Jan. 12 </p> 
@@ -216,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/12/politics/january-6-committee-weighs-options/index.html">January 6 committee weighs options to get members of Congress to comply with its investigation</a> CNN: Members of the House select committee investigating the January 6 Capitol Hill insurrection are weighing what options they have to compel their fellow members of Congress to cooperate with their probe. 
  <p class="updated_time"> 04:23 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072552874/jan-6-panel-asks-gop-leader-kevin-mccarthy-to-voluntarily-share-information">Jan. 6 panel asks GOP leader Kevin McCarthy to voluntarily share information</a> NPR: The House select committee investigating the Jan. 6 attack is asking House GOP leader Kevin McCarthy to voluntarily provide information on conversations he had with former President Trump that day. 
- <p class="updated_time"> 04:10 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/kayleigh-mcenany-january-6-committee/index.html">Former White House press secretary Kayleigh McEnany met with January 6 committee, sources say</a> CNN: Former White House press secretary Kayleigh McEnany on Wednesday appeared before the House select committee investigating the January 6 insurrection, two sources familiar with the matter tell CNN. 
  <p class="updated_time"> 04:04 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072549736/democrats-plan-a-procedural-maneuver-to-open-senate-debate-on-voting-rights-bill">Democrats plan a procedural maneuver to open Senate debate on voting rights bills</a> NPR: In a memo obtained by NPR, Senate Democrats say they've found a way to start debate on voting rights legislation. However, they still don't have a way forward for an actual floor vote. 
  <p class="updated_time"> 04:01 PM CT, Jan. 12 </p> 
@@ -230,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/us/politics/democrats-voting-rights-bill.html">Democrats Plan to Fast-Track Voting Rights Bill, Speeding a Showdown</a> NYT: The move will allow for debate on the legislation to begin this week, hastening a confrontation with Republicans and the moment when Democrats could try to change Senate rules. 
  <p class="updated_time"> 03:51 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/jan-6-select-panel-to-seek-mccarthys-testimony-526983">Jan. 6 select panel to seek McCarthy's testimony</a> Politico: It follows months of speculation about when the panel would seek the California Republican's cooperation with their probe. 
- <p class="updated_time"> 03:40 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/kevin-mccarthy-january-6/index.html">January 6 committee wants to ask McCarthy about Trump's state of mind during and after riot</a> CNN: The House select committee investigating the January 6 riot is asking Minority Leader Kevin McCarthy, a California Republican, to voluntarily provide information to the panel, a major development in the sweeping investigation, according to a new letter released Wednesday. 
  <p class="updated_time"> 03:28 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072544752/jan-6-panel-investigating-insurrection-requests-kevin-mccarthys-voluntary-testim">The Jan. 6 panel requests voluntary testimony from the top House Republican</a> NPR: Among its questions, the committee is probing any conversations Kevin McCarthy had with former President Donald Trump on the day of the Capitol attack. 
  <p class="updated_time"> 03:10 PM CT, Jan. 12 </p> 
@@ -261,7 +265,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:48 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072463871/harry-reid-capitol-lies-in-state">Harry Reid lies in state at the U.S. Capitol</a> NPR: Reid was recalled as a "legendary leader" as colleagues and friends gathered to pay tribute to a hardscrabble Democrat who rose from poverty in Nevada to the most powerful position in the Senate. 
  <p class="updated_time"> 11:26 AM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/news/2022/01/12/biden-to-address-senate-dems-on-cusp-of-election-reform-showdown-526971">Schumer reveals endgame for clash over filibuster and voting reform</a> Politico: The majority leader will trigger the battle over changing Senate rules when he moves to end debate on Democrats' elections reform bills. 
+ <a href="https://www.politico.com/news/2022/01/12/biden-to-address-senate-dems-on-cusp-of-election-reform-showdown-526971">Schumer reveals endgame for clash over filibuster and voting reform</a> Politico: The majority leader will trigger the battle over changing Senate rules when he moves to end debate on Democrats' election reform bills. 
  <p class="updated_time"> 11:08 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/biden-administration-covid-masks-kn95-n95/index.html">Biden administration 'actively exploring' boosting supply of higher-quality N95, KN95 masks</a> CNN: The US Centers for Disease Control and Prevention has not changed its guidance on mask usage, but the Biden administration is "strongly considering" making higher quality masks, like N95 and KN95 masks, more available to Americans. 
  <p class="updated_time"> 11:07 AM CT, Jan. 12 </p> 
@@ -336,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/us/politics/north-carolina-redistricting.html">North Carolina Court Upholds Republican Gerrymander of Maps</a> NYT: The ruling set up a final battle over the maps in the state Supreme Court, where Democrats hold a slim edge. 
  <p class="updated_time"> 06:30 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/medicare-alzheimers-drug-trial-526943">Medicare won’t cover controversial Alzheimer’s drug — unless patients are in a clinical trial</a> Politico: FDA approved the drug on an accelerated pathway, which requires a fourth clinical trial to demonstrate that the drug actually slows cognitive decline. 
- <p class="updated_time"> 06:21 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/north-carolina-gop-map-redistricting-526931">North Carolina court declines to toss out GOP-drawn House map</a> Politico: Democratic plaintiffs challenged the state's maps as illegal partisan gerrymanders and are planning to appeal to the state Supreme Court. 
  <p class="updated_time"> 06:15 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/democrats-covid-strategy-526924">'Rules need to be clear': Dems call for Covid strategy reset as cases spike</a> Politico: Congressional Democrats fret that the White House's strategy on Covid in recent weeks has been confusing and ineffective against the Omicron variant. 
  <p class="updated_time"> 06:10 PM CT, Jan. 11 </p> 
