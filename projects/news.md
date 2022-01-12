@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:51 AM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: In a lengthy statement, the tennis star also says his agent made a mistake on his Australian entry form. 
+ <p class="updated_time"> 12:43 AM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59956068?at_medium=RSS&at_campaign=KARANGA">Biden pushes overhaul of US election laws in fiery speech</a> BBC: In a fiery speech in Georgia, the president calls on Congress to back his sweeping reforms. 
  <p class="updated_time"> 12:34 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/white-cliffs-sicily-vandalism.html">Famed White Cliffs of Sicily Are Defaced in an Act of Vandalism</a> NYT: Vandals stained a cliff formation known as the Staircase of the Turks with red splotches over the weekend. Residents of a nearby town banded together for a successful cleanup. 
  <p class="updated_time"> 11:57 PM CT, Jan. 11 </p> 
@@ -15,12 +19,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/world/europe/spain-student-housing-dorms.html">Dorms Pop Up in Spain as More Students Seek Housing Away From Home</a> NYT: The country’s student population has become increasingly mobile, fueling investments in accommodations, largely funded by foreign capital. 
  <p class="updated_time"> 11:36 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/asia/novak-djokovic-covid-statement.html">Djokovic Admits False Statement on Australia Travel Document</a> NYT: The tennis star also said he had participated in an interview and a photo shoot even after testing positive for the coronavirus, in an apparent violation of rules in his native Serbia. 
- <p class="updated_time"> 11:30 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: In a lengthy statement, the tennis star also says his agent made a mistake on his Australian entry form. 
  <p class="updated_time"> 11:06 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59958664?at_medium=RSS&at_campaign=KARANGA">North Korea says Kim Jong-un oversaw third hypersonic missile test</a> BBC: This is reportedly the first time since March 2020 that Mr Kim has been known to attend a missile launch. 
- <p class="updated_time"> 09:07 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59956068?at_medium=RSS&at_campaign=KARANGA">Biden pushes overhaul of US election laws in fiery speech</a> BBC: In a fiery speech in Georgia, the president calls on Congress to back his sweeping reforms. 
  <p class="updated_time"> 08:46 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
  <p class="updated_time"> 07:55 PM CT, Jan. 11 </p> 
