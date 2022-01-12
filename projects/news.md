@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:30 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: In a lengthy statement, the tennis star also admits making a mistake on his Australian entry form. 
- <p class="updated_time"> 11:07 PM CT, Jan. 11 </p> 
+ <p class="updated_time"> 11:43 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/world/europe/spain-student-housing-dorms.html">Dorms Pop Up in Spain as More Students Seek Housing Away From Home</a> NYT: The country’s student population has become increasingly mobile, fueling investments in accommodations, largely funded by foreign capital. 
+ <p class="updated_time"> 11:36 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/asia/novak-djokovic-covid-statement.html">Djokovic Admits False Statement on Australia Travel Document</a> NYT: The tennis star also said he had participated in an interview and a photo shoot even after testing positive for the coronavirus, in an apparent violation of rules in his native Serbia. 
+ <p class="updated_time"> 11:30 PM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: In a lengthy statement, the tennis star also says his agent made a mistake on his Australian entry form. 
  <p class="updated_time"> 11:06 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59958664?at_medium=RSS&at_campaign=KARANGA">North Korea says Kim Jong-un oversaw third hypersonic missile test</a> BBC: This is reportedly the first time since March 2020 that Mr Kim has been known to attend a missile launch. 
  <p class="updated_time"> 09:07 PM CT, Jan. 11 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59946302?at_medium=RSS&at_campaign=KARANGA">World Bank warns global economy faces grim outlook</a> BBC: The bank predicts a "pronounced slowdown", with global economic growth falling to 4.1% this year. 
  <p class="updated_time"> 08:01 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59942994?at_medium=RSS&at_campaign=KARANGA">Fighting the darknet drug dealers who keep coming back</a> BBC: BBC research finds hundreds of dealers who have survived multiple police shutdowns of darknet marketplaces. 
- <p class="updated_time"> 08:00 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/europe/spain-student-housing-dorms.html">Dorms Pop Up in Spain as More Students Seek Housing Away From Home</a> NYT: The country’s student population has become increasingly mobile, fueling investments in accommodations, largely funded by foreign capital. 
  <p class="updated_time"> 07:04 AM CT, Jan. 11 </p> 
  <a href="https://www.wsj.com/articles/downing-street-lockdown-parties-leave-headache-for-boris-johnson-11641924249">Downing Street Lockdown Parties Leave Headache for Boris Johnson</a> WSJ: Allegations of social-distancing violations at the prime minister’s residence are hitting U.K. Conservatives as economic woes also take a toll on the party’s poll numbers. 
  <p class="updated_time"> 06:26 AM CT, Jan. 11 </p> 
