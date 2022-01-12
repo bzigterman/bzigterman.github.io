@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:10 PM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072548453/boris-johnsons-attendance-at-a-garden-party-prompts-calls-for-his-resignation">Boris Johnson's attendance at a garden party prompts calls for his resignation</a> NPR: British Prime Minister Boris Johnson apologized for a lockdown garden party that has many calling from him to resign. 
+ <p class="updated_time"> 04:03 PM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072413634/russia-nato-ukraine">4 things Russia wants right now</a> NPR: Russia forced the West into a flurry of diplomacy this week with its massive troop buildup on its border with Ukraine. Here's a short guide to what the Kremlin wants. 
  <p class="updated_time"> 03:57 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
  <p class="updated_time"> 03:55 PM CT, Jan. 12 </p> 
@@ -147,12 +151,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/russia-ukraine-nato-europe.html">Can Russia Be Stopped From Invading Ukraine? Here's What We Know</a> NYT: The United States, its NATO allies and Russia meet this week in a whirlwind of diplomacy aimed at averting the largest military action in Europe since World War II. Here’s a guide to what’s at stake. 
  <p class="updated_time"> 11:02 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/africa/south-africa-parliament-fire-suspect.html">Suspect in South Africa’s Parliament Fire Is Sent for Psychiatric Check</a> NYT: If the man is found fit to stand trial, he will face charges that now include terrorism. His lawyers said he would protest with a hunger strike. 
- <p class="updated_time"> 10:55 AM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072095219/goldfish-driving-car-israel-study">Israeli scientists have trained goldfish to drive, in a scene out of a Dr. Seuss book</a> NPR: An experiment involving a robotic tank on wheels and six trained goldfish may offer insights into animals' ability to navigate unfamiliar environments. 
  <p class="updated_time"> 10:54 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/africa/jeffrey-moyo-zimbabwe-nyt.html">Freelance Reporter for the New York Times Is On Trial in Zimbabwe</a> NYT: The reporter, Jeffrey Moyo, has been accused of helping two Times journalists enter Zimbabwe from South Africa using bogus credentials, a charge that even the government admits is on ‘shaky ground.’ 
- <p class="updated_time"> 10:25 AM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/01/11/1071371953/welcome-to-the-era-of-omicron-rules-and-regs">Welcome to the era of omicron rules and regs</a> NPR: As the highly transmissible variant spreads rapidly around the world, some countries have reimposed harsh COVID measures like those seen in the early days of the pandemic. 
  <p class="updated_time"> 10:06 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/magawa-landmine-hero-rat-dead.html">Magawa, Hero Rat That Hunted Land Mines, Dies in Retirement</a> NYT: The African giant pouched rat sniffed out more than 100 mines and other pieces of unexploded ordnance in Cambodia over five years, winning hearts and an international award. 
  <p class="updated_time"> 09:54 AM CT, Jan. 11 </p> 
@@ -200,34 +200,34 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:10 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/kayleigh-mcenany-january-6-committee/index.html">Former White House press secretary Kayleigh McEnany met with January 6 committee, sources say</a> CNN: Former White House press secretary Kayleigh McEnany on Wednesday appeared before the House select committee investigating the January 6 insurrection, two sources familiar with the matter tell CNN. 
+ <p class="updated_time"> 04:04 PM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072549736/democrats-plan-a-procedural-maneuver-to-open-senate-debate-on-voting-rights-bill">Democrats plan a procedural maneuver to open Senate debate on voting rights bills</a> NPR: In a memo obtained by NPR, Senate Democrats say have found a way to start debate on voting rights legislation. However, they still don't have a way forward for an actual floor vote. 
+ <p class="updated_time"> 04:01 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html">Jan. 6 Committee Seeks Interview With Kevin McCarthy</a> NYT: The panel said it was interested in conversations the top House Republican had with then-President Donald J. Trump on the day of the riot and afterward. 
+ <p class="updated_time"> 03:56 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard, Nominee for Fed Vice Chair, Calls Inflation ‘Too High’</a> NYT: Ms. Brainard, a Federal Reserve governor whom President Biden nominated for vice chair, will say the central bank is focused on getting price gains back down. 
  <p class="updated_time"> 03:55 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072548439/internal-gop-conflicts-about-2020-election-surface-as-party-fights-new-voting-la">Internal GOP conflicts about 2020 election surface as party fights new voting laws</a> NPR: Republicans are accusing Democrats of a power grab as they try to pass federal voting legislation. The GOP is also still struggling with former President Trump's ongoing lies about the 2020 election. 
  <p class="updated_time"> 03:53 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/democrats-voting-rights-bill.html">Democrats Plan to Fast-Track Voting Rights Bill, Speeding a Showdown</a> NYT: The move will allow for debate on the legislation to begin this week, hastening a confrontation with Republicans and the moment when Democrats could try to change Senate rules. 
- <p class="updated_time"> 03:52 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard, Nominee for Fed Vice Chair, Calls Inflation ‘Too High’</a> NYT: Ms. Brainard, a Federal Reserve governor whom President Biden nominated for vice chair, will say the central bank is focused on getting price gains back down. 
  <p class="updated_time"> 03:51 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/jan-6-select-panel-to-seek-mccarthys-testimony-526983">Jan. 6 select panel to seek McCarthy's testimony</a> Politico: It follows months of speculation about when the panel would seek the California Republican's cooperation with their probe. 
- <p class="updated_time"> 03:47 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html">Jan. 6 Committee Seeks Interview With Kevin McCarthy</a> NYT: The panel said it was interested in conversations the top House Republican had with Donald J. Trump on the day of the riot and in its aftermath. 
  <p class="updated_time"> 03:40 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/kevin-mccarthy-january-6/index.html">January 6 committee asks McCarthy to voluntarily provide information to probe</a> CNN: The House select committee investigating the January 6 riot is asking Minority Leader Kevin McCarthy, a California Republican, to voluntarily provide information to the panel, a major development in the sweeping investigation, according to a new letter released Wednesday. 
+ <a href="https://www.cnn.com/2022/01/12/politics/kevin-mccarthy-january-6/index.html">January 6 committee wants to ask McCarthy about Trump's state of mind during and after riot</a> CNN: The House select committee investigating the January 6 riot is asking Minority Leader Kevin McCarthy, a California Republican, to voluntarily provide information to the panel, a major development in the sweeping investigation, according to a new letter released Wednesday. 
  <p class="updated_time"> 03:37 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/mitch-mcconnell-biden-speech-reaction/index.html">Mitch McConnell calls Biden's speech 'incoherent' and 'beneath his office'</a> CNN: Senate Minority Leader Mitch McConnell blasted President Joe Biden's speech pushing for the Senate to change its filibuster rules to pass voting and elections legislation, saying Biden compared "a bipartisan majority of senators to literal traitors." 
  <p class="updated_time"> 03:28 PM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072544752/jan-6-panel-investigating-insurrection-requests-kevin-mccarthys-voluntary-testim">The Jan. 6 panel requests the top House Republican's voluntary testimony</a> NPR: Among its questions, the committee is probing any conversations Kevin McCarthy had with former President Donald Trump on the day of the Capitol attack. 
+ <a href="https://www.npr.org/2022/01/12/1072544752/jan-6-panel-investigating-insurrection-requests-kevin-mccarthys-voluntary-testim">The Jan. 6 panel requests voluntary testimony from the top House Republican</a> NPR: Among its questions, the committee is probing any conversations Kevin McCarthy had with former President Donald Trump on the day of the Capitol attack. 
  <p class="updated_time"> 03:10 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/inflation-biden-economy-agenda-526980">Price spikes threaten to ground Biden's big-spending plans</a> Politico: The government reported on Wednesday that the consumer price index, the most widely watched gauge of inflation, hit a four-decade high of 7 percent in December compared to the previous year. 
- <p class="updated_time"> 03:05 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/filibuster-polls-analysis/index.html">Many Americans don't know what to make of the filibuster, polls find</a> CNN: Americans, according to polls taken last year, aren't likely to hold strongly formed opinions on the Senate's filibuster rules. Those who do have a preference are divided, with views generally following party lines, although there's plenty of room for opinions to solidify. 
  <p class="updated_time"> 02:53 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html">An Alabama Town’s Sewage Woes Test Biden’s Infrastructure Ambitions</a> NYT: The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most? 
  <p class="updated_time"> 02:46 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/irs-backlog-tax-returns-2021.html">I.R.S. to Start Tax Season With Major Backlog </a> NYT: At least 10 million returns from last year remain unprocessed because of short-staffing at the tax collector, according to the national taxpayer advocate. 
  <p class="updated_time"> 02:30 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/biden-trump-nuclear-weapons-526976">Biden team weighs killing Trump’s new nuclear weapons</a> Politico: Officials are considering canceling weapons that were backed by the last administration. 
- <p class="updated_time"> 02:25 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/matt-gaetz-grand-jury/index.html">Gaetz's ex-girlfriend arrives at federal courthouse, expected to testify before grand jury</a> CNN: An ex-girlfriend of Rep. Matt Gaetz, who is seen as a key witness in the ongoing investigation into alleged sex trafficking by the Florida Republican, entered an Orlando federal courthouse with her lawyer on Wednesday where a grand jury has been meeting, according to a CNN reporter on the scene. 
  <p class="updated_time"> 01:59 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/economy/cpi-inflation-december-2021.html">CPI December 2021: Inflation Jumped at Fastest Pace Since 1982</a> NYT: The Consumer Price Index increased at the fastest pace in 40 years, a new report showed. 
  <p class="updated_time"> 01:50 PM CT, Jan. 12 </p> 
@@ -266,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/12/whats-the-plan-man-dems-still-talking-elections-and-filibuster-495696">What’s the plan, Chuck?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:39 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/trump-mcconnell-2022/index.html">As candidates refuse to disavow McConnell, Trump comes to terms with his grip on GOP</a> CNN: Donald Trump is facing weak support among Republicans for his calls to depose Senate Minority Leader Mitch McConnell, and aides and allies say it's forcing the former President to confront new limitations on his influence over the party. 
- <p class="updated_time"> 07:09 AM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/texas-sheriff-investigation-money-undocumented-immigrants/index.html">Texas sheriff under investigation for allegedly seizing money from undocumented immigrants</a> CNN: A Texas sheriff is under investigation for allegedly seizing money from undocumented immigrants during traffic stops. 
  <p class="updated_time"> 07:02 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/january-6-committee-weighs-options/index.html">January 6 committee weighs options to get members of Congress to comply with its investigation</a> CNN: Members of the House select committee investigating the January 6 Capitol Hill insurrection are weighing what options they have to compel their fellow members of Congress to cooperate with their probe. 
  <p class="updated_time"> 06:57 AM CT, Jan. 12 </p> 
@@ -350,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/anthony-fauci-gop-senators-financial-disclosure-526891">'What a moron': Fauci argues with GOP senator over financial disclosures</a> Politico: In response to Roger Marshall’s questioning, the NIAID director and top White House medical adviser said his disclosures had been “public knowledge” for over 30 years. 
  <p class="updated_time"> 04:29 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/jan-6-mike-pence-gop-lawmakers-526906">Jan. 6 investigators near decisions on how to pursue Mike Pence and GOP lawmakers</a> Politico: Chair Bennie Thompson said Tuesday both matters are high on the committee’s to-do list. 
- <p class="updated_time"> 04:28 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072183501/could-the-u-s-really-cripple-the-russian-economy-like-biden-warns">Could the U.S. really cripple the Russian economy like Biden warns?</a> NPR: President Biden has threatened Russia with massive sanctions if it follows through on threats to take more Ukrainian territory. 
  <p class="updated_time"> 04:00 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/covid-19-testing-joe-biden-administration/index.html">'Everybody saw it coming,' expert says of Covid testing capacity, but Biden administration 'dropped the ball'</a> CNN: As President Joe Biden was spending his holidays with family at the White House and in Delaware, he was frustrated to see images on television of Americans waiting in long lines for Covid-19 tests. 
  <p class="updated_time"> 03:57 PM CT, Jan. 11 </p> 
@@ -360,8 +356,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/senators-feds-jan-6-riot-probe-526899">Senators grill feds over Jan. 6 riot probe</a> Politico: Democrats challenged prosecutors for not seeking terrorism-related sentences, while Republicans often steered away from the insurrection altogether. 
  <p class="updated_time"> 03:21 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/supreme-court-immigrants-bail-hearings.html">Supreme Court Weighs Jailed Immigrants’ Rights to Bail Hearings</a> NYT: Lawyers for the federal government said immigrants detained for months while they fight deportation are not entitled to seek release from immigration judges. 
- <p class="updated_time"> 03:08 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/mary-trump-lawsuit/index.html">Lawyers for Trump and niece Mary Trump spar over lawsuit alleging she was defrauded in family settlement</a> CNN: Lawyers for former President Donald Trump and his niece Mary Trump sparred in court Tuesday over whether her lawsuit alleging she was defrauded of millions of dollars in a 2001 family settlement could move forward. 
+ <p class="updated_time"> 02:37 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/ron-desantis-state-of-the-state/index.html">DeSantis draws contrast with federal government and Democratic-led states in State of the State address </a> CNN: Painting himself and his state as the antidote to closed schools, government mandates and Big Tech overreach, Florida Gov. Ron DeSantis on Tuesday delivered an election-year State of the State speech that emphasized the deepening divide between Republican and Democratic leadership during the pandemic. 
  <p class="updated_time"> 01:45 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/biden-n95-mask-distribution-526889">Biden health team weighs new mask distribution plan</a> Politico: Officials in favor of distributing the masks to the public have pushed for a decision as soon as Thursday. 
  <p class="updated_time"> 12:16 PM CT, Jan. 11 </p> 
@@ -370,14 +366,14 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/political-influence-on-science-federal-government/index.html">Biden administration tells federal agencies how to safeguard against political influence on science</a> CNN: The Biden administration is calling on government agencies to strengthen their policies against inappropriate political influence when it comes to the science that guides decision-making, according to a new report. 
  <p class="updated_time"> 10:25 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/king-family-biden-voting-rights-speech-526873">King family: ‘Difficult decision’ to attend Biden’s voting rights speech</a> Politico: “It’s been a long year of a lot of things not being done, and we stand and we share that frustration,” Arndrea Waters King said. 
- <p class="updated_time"> 10:15 AM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/justice-department-forms-new-domestic-terrorism-unit/index.html">DOJ forms new domestic terrorism unit</a> CNN: The Justice Department is establishing a new domestic terrorism unit to combat the threat that has more than doubled in the past two years, the head of the agency's National Security Division said Tuesday. 
  <p class="updated_time"> 07:45 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/11/democrats-look-for-a-roadmap-on-rules-changes-495677">Democrats look for a roadmap on rules changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
+ <p class="updated_time"> 07:54 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/home-covid-tests-health-insurance/index.html">Home Covid-19 tests must be paid for by health insurers starting Saturday</a> CNN: Health insurers must cover the cost of home Covid-19 tests starting January 15, the US Department of Health and Human Services announced Monday. 
  <p class="updated_time"> 07:10 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/democrats-filibuster-vote-526863">Dems' filibuster conundrum: It's not just Manchin and Sinema</a> Politico: Mark Kelly is undecided. Jon Tester likes a talking filibuster but is “not crazy” about making an exception for elections reform. And Jeanne Shaheen is promoting more modest changes. 
  <p class="updated_time"> 07:09 PM CT, Jan. 10 </p> 
@@ -398,12 +394,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/09/mike-rounds-trump-election-republicans-526806">GOP senator says Trump’s election allegations are unfounded</a> Politico: “The election was fair, as fair as we have seen,” Mike Rounds said. 
  <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
+ <p class="updated_time"> 09:07 AM CT, Jan. 09 </p> 
+ <a href="https://www.cnn.com/2022/01/09/politics/biden-student-loan-for-profit-college/index.html">Why Biden's student loan relief efforts haven't yet reversed a DeVos decision on for-profit colleges</a> CNN: The Biden administration has pledged to make college more affordable. But it has chosen not to reinstate an Obama-era rule meant to prevent students from taking on too much debt to attend predatory for-profit colleges. 
  <p class="updated_time"> 07:00 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/joe-biden-takes-on-georgia-voting-526801">‘We are going right to the belly of the beast’: Biden takes on Georgia</a> Politico: Fresh off his Jan. 6 anniversary speech, the president and his top aides are trying to keep up the momentum for some legislative remedy. 
  <p class="updated_time"> 12:41 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/senate-minority-whip-john-thune-to-run-for-reelection-526794">Senate Minority Whip John Thune to run for reelection</a> Politico: The 61-year-old South Dakotan is widely viewed as a potential successor to Senate Minority Leader Mitch McConnell 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/08/civil-rights-leaders-see-a-turning-point-for-biden-495650"> Civil rights leaders see a turning point for Biden</a> Politico Playbook: And the Jan. 6 committee considers asking Mike Pence for an interview. 
+ <p class="updated_time"> 05:01 PM CT, Jan. 07 </p> 
+ <a href="https://www.cnn.com/2022/01/07/politics/fbi-usb-hackers-warning/index.html">FBI warns cybercriminals have tried to hack US firms by mailing malicious USB drives</a> CNN: A prolific Eastern European cybercriminal group has tried to hack US companies in the transportation, defense and insurance sectors by mailing those organizations malicious USB drives, the FBI warned US businesses this week in an advisory obtained by CNN. 
  <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
  <p class="updated_time"> 01:06 PM CT, Jan. 07 </p> 
