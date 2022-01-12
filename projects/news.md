@@ -192,10 +192,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:44 AM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/business/economy/cpi-inflation-december-2021.html">Consumer Prices Jumped at Fastest Pace Since 1982</a> NYT: The Consumer Price Index increased at the fastest pace in 40 years, a new report showed. 
  <p class="updated_time"> 07:43 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/12/whats-the-plan-man-dems-still-talking-elections-and-filibuster-495696">What’s the plan, Chuck?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:41 AM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/business/economy/cpi-inflation-december-2021.html">Consumer Prices Jumped at Fastest Pace Since 1982</a> NYT: The Consumer Price Index increased at the fastest pace in 40 years, a new report showed. 
+ <p class="updated_time"> 07:39 AM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/trump-mcconnell-2022/index.html">As candidates refuse to disavow McConnell, Trump comes to terms with his grip on GOP</a> CNN: Donald Trump is facing weak support among Republicans for his calls to depose Senate Minority Leader Mitch McConnell, and aides and allies say it's forcing the former President to confront new limitations on his influence over the party. 
  <p class="updated_time"> 07:29 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/voting-rights-civil-rights-leaders-biden/index.html">Civil rights leaders urge Biden to put 'full weight' behind voting rights</a> CNN: Civil rights leaders were pleased with President Joe Biden's call on Tuesday to change Senate filibuster rules to pass voting rights legislation, but insist they will not be satisfied until a bill is passed. 
  <p class="updated_time"> 07:19 AM CT, Jan. 12 </p> 
@@ -206,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/12/politics/january-6-committee-weighs-options/index.html">January 6 committee weighs options to get members of Congress to comply with its investigation</a> CNN: Members of the House select committee investigating the January 6 Capitol Hill insurrection are weighing what options they have to compel their fellow members of Congress to cooperate with their probe. 
  <p class="updated_time"> 06:57 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/jordan-jan-6-letter-fact-check/index.html">Fact-checking Jim Jordan's letter to the January 6 committee</a> CNN: In a letter sent Sunday responding to a request to meet with the House select committee investigating January 6, Republican Rep. Jim Jordan of Ohio accused the investigation of spreading misinformation "to paint a false and misleading narrative." 
- <p class="updated_time"> 06:20 AM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/trump-mcconnell-2022/index.html">As candidates refuse to disavow McConnell, Trump comes to terms with his grip on GOP</a> CNN: Donald Trump is facing weak support among Republicans for his calls to depose Senate Minority Leader Mitch McConnell, and aides and allies say it's forcing the former President to confront new limitations on his influence over the party. 
  <p class="updated_time"> 06:17 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/ron-johnson-republicans-senate-2022-analysis/index.html">Analysis: Why Republicans aren't likely to lose any Senate seats in 2022</a> CNN: Wisconsin's Republican Sen. Ron Johnson announced he was running for reelection on Sunday. That should be viewed as good news by Republicans, who need a net gain of just one seat in this year's midterm elections to wrestle Senate control from the Democrats. 
  <p class="updated_time"> 06:13 AM CT, Jan. 12 </p> 
