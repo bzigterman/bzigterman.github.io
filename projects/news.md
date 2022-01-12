@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:02 AM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59951126?at_medium=RSS&at_campaign=KARANGA">Baby found by teenagers in -20C in Siberia doing well</a> BBC: The girl was found by teens whose family now want to adopt her if relatives cannot be found. 
+ <p class="updated_time"> 10:45 AM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59871514?at_medium=RSS&at_campaign=KARANGA">Prince Andrew to face civil sex assault case after US ruling</a> BBC: Virginia Giuffre's claims against the Duke of York can continue to be heard, a New York judge rules. 
  <p class="updated_time"> 10:27 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/01/12/world/russia-ukraine-nato-us">Live Updates: NATO Urges Russia to Ease Crisis Over Ukraine</a> NYT: A four-hour meeting at the alliance’s headquarters in Brussels was part of a diplomatic push aimed at Russia, which has positioned close to 100,000 troops near Ukraine’s borders. A meeting between U.S. and Russian officials on Monday was inconclusive. 
  <p class="updated_time"> 10:19 AM CT, Jan. 12 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/africa/somalia-car-bomb.html">Car Bomb in Mogadishu, Somalia's Capital, Kills 8</a> NYT: The explosion, one of a string of recent attacks, comes as the country grapples with a political standoff and a growing humanitarian crisis. 
  <p class="updated_time"> 09:34 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/china-zero-covid-policy-xian.html">The Army of Millions Who Enforce China’s Zero-Covid Policy</a> NYT: As the troubled lockdown in Xi’an has shown, many Chinese people remain willing to work diligently toward the government’s goal of eliminating the virus, no matter the consequences. 
- <p class="updated_time"> 09:29 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59871514?at_medium=RSS&at_campaign=KARANGA">Prince Andrew to face civil sex assault case after US ruling</a> BBC: Virginia Giuffre's claims against the Duke of York can continue to be heard, a New York judge rules. 
  <p class="updated_time"> 09:01 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59944174?at_medium=RSS&at_campaign=KARANGA">Brazil rains: Minas Gerais hit by deadly landslides and floods</a> BBC: Landslides and flooding caused by torrential rains have killed at least 15 people in Minas Gerais. 
  <p class="updated_time"> 08:40 AM CT, Jan. 12 </p> 
@@ -28,15 +30,15 @@ permalink: /projects/news/
  <p class="updated_time"> 08:24 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59969509?at_medium=RSS&at_campaign=KARANGA">Covid-19: Chinese woman stuck in lockdown with blind date</a> BBC: A swift lockdown in China’s Zhengzhou means a woman is stuck at her date’s house. 
  <p class="updated_time"> 08:12 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: As Australia decides on his deportation, Djokovic claims his agent simply "ticked the wrong box" 
+ <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: As Australia decides on his deportation, Djokovic claims his agent simply "ticked the wrong box". 
  <p class="updated_time"> 07:06 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59956831?at_medium=RSS&at_campaign=KARANGA">Aras Amiri: British Council says jailed employee freed by Iran</a> BBC: Aras Amiri, an Iranian citizen, has returned to the UK after being acquitted of spying on appeal. 
  <p class="updated_time"> 07:04 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59964598?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Newsreaders caught in expletive-laden rant</a> BBC: A leaked video shows Australian journalists giving candid opinions on the tennis star's visa saga. 
  <p class="updated_time"> 06:16 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59963281?at_medium=RSS&at_campaign=KARANGA">Greek sailing coach in rape trial over MeToo revelations</a> BBC: When an Olympic champion spoke out about abuse, a young woman alleged she was raped by her coach. 
- <p class="updated_time"> 06:03 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59951126?at_medium=RSS&at_campaign=KARANGA">Baby found by teenagers in -4F in Siberia doing well</a> BBC: The girl was found by teens whose family now want to adopt her if relatives cannot be found. 
+ <p class="updated_time"> 05:30 AM CT, Jan. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-nato-meet-over-ukraine-impasse-11641987171">Russia, NATO Fail to Resolve Differences in Ukraine Talks</a> WSJ: NATO Secretary-General Jens Stoltenberg said “significant differences” remained, but expressed hope that Russia, which has gathered tens of thousands of troops on its border with Ukraine, would agree to further talks. 
  <p class="updated_time"> 05:24 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59963434?at_medium=RSS&at_campaign=KARANGA">Alps murders: French police arrest suspect over killing of British family</a> BBC: Three members of a British family and a French cyclist were shot dead in the French Alps. 
  <p class="updated_time"> 05:22 AM CT, Jan. 12 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59956068?at_medium=RSS&at_campaign=KARANGA">Biden pushes overhaul of US election laws in fiery speech</a> BBC: In a fiery speech in Georgia, the president calls on Congress to back his sweeping reforms. 
  <p class="updated_time"> 12:34 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/white-cliffs-sicily-vandalism.html">Famed White Cliffs of Sicily Are Defaced in an Act of Vandalism</a> NYT: Vandals stained a cliff formation known as the Staircase of the Turks with red splotches over the weekend. Residents of a nearby town banded together for a successful cleanup. 
- <p class="updated_time"> 12:32 AM CT, Jan. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-nato-meet-over-ukraine-impasse-11641987171">Russia, NATO Meet Over Ukraine Impasse</a> WSJ: The meeting comes two days after officials from the U.S. and Russia, which has gathered tens of thousands of troops on the border with Ukraine, failed to achieve a breakthrough. 
  <p class="updated_time"> 11:57 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/12/1072362137/twin-panda-cubs-delight-devoted-fans-at-tokyo-zoo-in-covid-shortened-debut">Twin panda cubs delight devoted fans at Tokyo zoo in a COVID shortened debut</a> NPR: Twin panda cubs made their first public appearance before delighted fans in Tokyo but only briefly for now — just for three days — due to a spike in COVID-19 cases driven by the omicron variant. 
  <p class="updated_time"> 11:43 PM CT, Jan. 11 </p> 
@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:26 AM CT, Jan. 12 </p> 
+ <a href="https://www.politico.com/news/2022/01/12/biden-to-address-senate-dems-on-cusp-of-election-reform-showdown-526971">Biden to address Senate Dems on cusp of election reform showdown</a> Politico: President Joe Biden will attend a special caucus meeting Thursday with Senate Democrats, as the party makes a concerted effort to pass elections reform and voting legislation. 
+ <p class="updated_time"> 10:35 AM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/donald-trump-npr-interview.html">Trump Ends NPR Interview After Challenges to False Fraud Claim</a> NYT: Former President Donald J. Trump abruptly ended the interview after a lengthy back-and-forth over his claims of widespread election fraud. 
  <p class="updated_time"> 10:31 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/economy/cpi-inflation-december-2021.html">Consumer Prices Jumped at Fastest Pace Since 1982</a> NYT: The Consumer Price Index increased at the fastest pace in 40 years, a new report showed. 
  <p class="updated_time"> 10:29 AM CT, Jan. 12 </p> 
