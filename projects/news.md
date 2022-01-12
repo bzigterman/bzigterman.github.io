@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:01 AM CT, Jan. 12 </p> 
+ <p class="updated_time"> 06:39 AM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-uk-parties.html">Boris Johnson, Under Fire, Apologizes for Pandemic Party</a> NYT: The British prime minister, on the defensive after a series of ethical lapses, said, “I know there are things we simply did not get right” about a gathering at 10 Downing Street during a lockdown in 2020. 
+ <p class="updated_time"> 06:38 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/01/12/world/russia-ukraine-nato-us">Live Updates: NATO Opens Talks With Russia Amid Ukraine Standoff</a> NYT: The diplomatic push to avert another Russian invasion of Ukraine moved to NATO headquarters in Brussels. A meeting between U.S. and Russian officials on Monday was inconclusive. 
  <p class="updated_time"> 05:24 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59963434?at_medium=RSS&at_campaign=KARANGA">Alps murders: French police arrest suspect over killing of British family</a> BBC: Three members of a British family and a French cyclist were shot dead in the French Alps. 
@@ -29,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/asia/novak-djokovic-covid-statement.html">Djokovic Admits False Statement on Australia Travel Document</a> NYT: The tennis star also said he had participated in an interview and a photo shoot even after testing positive for the coronavirus, in an apparent violation of rules in his native Serbia. 
  <p class="updated_time"> 02:46 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072371689/nato-and-russia-in-high-level-talks-as-ukraine-tensions-simmer">NATO and Russia are in high-level talks as Ukraine tensions simmer</a> NPR: The meeting comes during a week of high-stakes diplomacy and a U.S.-led effort to prevent what Washington believes could be a Russian invasion of Ukraine. Moscow denies it is planning an attack. 
+ <p class="updated_time"> 01:31 AM CT, Jan. 12 </p> 
+ <a href="https://www.wsj.com/articles/novak-djokovic-says-his-agent-made-mistake-on-australia-travel-declaration-11641958725">Djokovic Thrust to Center of Vaccine Mandates Debate</a> WSJ: The world’s No. 1-ranked men’s tennis star, Novak Djokovic has become a lightning rod in the debate over Covid-19 vaccine mandates. 
  <p class="updated_time"> 12:43 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59956068?at_medium=RSS&at_campaign=KARANGA">Biden pushes overhaul of US election laws in fiery speech</a> BBC: In a fiery speech in Georgia, the president calls on Congress to back his sweeping reforms. 
  <p class="updated_time"> 12:34 AM CT, Jan. 12 </p> 
@@ -63,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1072245389/quebec-unvaccinated-covid-penalty">In Quebec, people who refuse to be vaccinated for COVID will face a financial penalty</a> NPR: The Canadian province's premier said not getting vaccinated leads to consequences for the health care system and not all Quebecers should pay for that. 
  <p class="updated_time"> 04:47 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/science/shirley-mcgreal-dead.html">Shirley McGreal, Champion of Primates Under Threat, Dies at 87</a> NYT: She exposed smuggling rings and research laboratories and built a sanctuary for gibbons in South Carolina. 
- <p class="updated_time"> 04:38 PM CT, Jan. 11 </p> 
- <a href="https://www.wsj.com/articles/novak-djokovic-says-his-agent-made-mistake-on-australia-travel-declaration-11641958725">Djokovic Says Agent Made Mistake on Travel Document</a> WSJ: Novak Djokovic said his agent made an error on a travel document ahead of his trip to Australia, while also acknowledging he attended an event after receiving a positive Covid-19 test result last month. 
  <p class="updated_time"> 04:28 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183501/could-the-u-s-really-cripple-the-russian-economy-like-biden-warns">Could the U.S. really cripple the Russian economy like Biden warns?</a> NPR: President Biden has threatened Russia with massive sanctions if it follows through on threats to take more Ukrainian territory. 
  <p class="updated_time"> 04:24 PM CT, Jan. 11 </p> 
@@ -127,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/south-african-authorities-charge-man-in-parliament-fire-11641922017">South African Authorities Charge Man in Parliament Fire</a> WSJ: The 49-year-old man was charged with arson and terrorism in the fire that devastated the building last week. 
  <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/11/1071282973/as-carbon-removal-gains-traction-economists-imagine-a-new-market-to-save-the-pla">As carbon removal gains traction, economists imagine a new market to save the planet</a> NPR: Carbon removal went mainstream in 2021. But the technology is still light years away from making a real difference combating climate change. A group of economists wants to help change that. 
- <p class="updated_time"> 04:53 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released, but Other Royals Are Still Locked Up</a> NYT: The Saudi government has not said why it detained or freed Princess Basmah bint Saud, a daughter of a former king who has criticized the country’s policies. 
  <p class="updated_time"> 04:42 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072029936/cyber-risks-add-to-climate-threat-world-economic-forum-warns">Cyber risks add to climate threat, World Economic Forum warns</a> NPR: Survey of 1,000 experts and leaders finds cybersecurity and space add to the existing challenges of climate change and the coronavirus pandemic. 
  <p class="updated_time"> 04:34 AM CT, Jan. 11 </p> 
@@ -194,6 +194,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:43 AM CT, Jan. 12 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/01/12/whats-the-plan-man-dems-still-talking-elections-and-filibuster-495696">What’s the plan, Chuck?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:25 AM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/texas-sheriff-investigation-money-undocumented-immigrants/index.html">Texas sheriff under investigation for allegedly seizing money from undocumented immigrants</a> CNN: A Texas sheriff is under investigation for allegedly seizing money from undocumented immigrants during traffic stops. 
+ <p class="updated_time"> 06:20 AM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/trump-mcconnell-2022/index.html">As candidates refuse to disavow McConnell, Trump comes to terms with his grip on GOP</a> CNN: Donald Trump is facing weak support among Republicans for his calls to depose Senate Minority Leader Mitch McConnell, and aides and allies say it's forcing the former President to confront new limitations on his influence over the party. 
+ <p class="updated_time"> 06:17 AM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/ron-johnson-republicans-senate-2022-analysis/index.html">Analysis: Why Republicans aren't likely to lose any Senate seats in 2022</a> CNN: Wisconsin's Republican Sen. Ron Johnson announced he was running for reelection on Sunday. That should be viewed as good news by Republicans, who need a net gain of just one seat in this year's midterm elections to wrestle Senate control from the Democrats. 
  <p class="updated_time"> 06:13 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/12/our-exclusive-new-poll-on-voting-rights-495693"> Our exclusive new poll on voting rights</a> Politico Playbook: And the latest state of play on ECA reform. 
  <p class="updated_time"> 05:47 AM CT, Jan. 12 </p> 
@@ -201,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:11 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/harry-reid-lying-in-state/index.html">Body of ex-Senate Democratic leader Harry Reid to lie in state in Capitol Rotunda</a> CNN: The body of former Senate Democratic leader Harry Reid will lie in state in the Rotunda of the US Capitol on Wednesday, a rare honor granted by Congress to about three dozen other Americans, including former presidents, Supreme Court justices, lawmakers and national security officials. 
  <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/news/2022/01/12/kansas-city-mayor-recall-fighting-covid-republicans-526900">5 recall attempts later, Kansas City mayor is fighting Covid and Republicans</a> Politico: Quinton Lucas on political polarization, clashes over pandemic-era restrictions and what it’s like being a Black mayor after George Floyd. 
+ <a href="https://www.politico.com/news/2022/01/12/kansas-city-mayor-recall-fighting-covid-republicans-526900">Radical to the right, ‘boot-licker’ to the left. Kansas City mayor on America’s polarization.</a> Politico: Quinton Lucas on political polarization, clashes over pandemic-era restrictions and what it’s like being a Black mayor after George Floyd. 
  <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/mcconnell-successor-three-johns-race-526920">What's in a name? Trio of Johns vies to succeed McConnell</a> Politico: The shadow race is on. Thune and Cornyn are best-positioned to become the next Senate GOP leader — but Barrasso is in the mix too. 
  <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
@@ -248,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-senate-history.html">Biden’s Longtime Defense of Senate Rules Withers Under Partisan Rancor</a> NYT: The president left no doubt that he has reached a breaking point, lashing out at senators who are blocking voting rights legislation. 
  <p class="updated_time"> 09:24 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/health/fauci-senate-hearing-omicron-response.html">U.S. Officials Defend Omicron Response at Senate Hearing</a> NYT: Lawmakers accused top Biden administration health officials of neglecting virus testing and mangling key messaging around the pandemic. 
- <p class="updated_time"> 08:38 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/guantanamo-detainees-cleared-for-release/index.html">2 Guantanamo detainees cleared for release as prison marks 20 years</a> CNN: Two detainees who have been at the US detention facility in Guantanamo Bay, Cuba, for more than a decade have been cleared for release, according to public documents. The decisions come as the prison marked 20 years this week since it was opened under the George W. Bush administration, a few months after the September 11 terrorist attacks. 
  <p class="updated_time"> 08:09 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/fauci-rand-paul-roger-marshall-hearing/index.html">Fauci spars with GOP lawmakers during tense Omicron hearing </a> CNN: Dr. Anthony Fauci hit back at two Republican senators in a pair of tense exchanges Tuesday, accusing one of attacking him for political gain and calling another "a moron" following questions about his finances during a Senate hearing. 
  <p class="updated_time"> 07:13 PM CT, Jan. 11 </p> 
@@ -258,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/us/politics/ray-epps-january-6-committee.html">Jan. 6 Panel Seeks to Debunk Unfounded Theory About F.B.I. Role in Riot</a> NYT: The House select committee investigating the attack on the Capitol interviewed Ray Epps, a protester at the center of a right-wing conspiracy theory. 
  <p class="updated_time"> 07:08 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/covid-health-officials-congress-omicron-526950">Decoding what Biden health officials told Congress about Omicron</a> Politico: In contrast to previous oversight hearings on the administration’s Covid-19 response, Dems raised sharp questions and complaints on the state of the resurging pandemic. 
- <p class="updated_time"> 07:01 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/alzheimers-drug-aduhelm-medicare-decision/index.html">Medicare proposes to cover controversial Alzheimer's drug with restrictions</a> CNN: Medicare has proposed covering the controversial and costly Alzheimer's drug Aduhelm only for those enrolled in qualifying clinical trials, the Centers for Medicare and Medicaid Services announced Tuesday. 
  <p class="updated_time"> 06:51 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/guantanamo-releases-approved.html">Biden Administration Approves 5 More Guantánamo Releases</a> NYT: Nearly half of the last 39 detainees have now been approved for transfer, and the challenge for U.S. officials is to find countries to receive them. 
  <p class="updated_time"> 06:50 PM CT, Jan. 11 </p> 
@@ -336,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/david-mccormick-senate-campaign-trump-526870">McCormick MAGA-proofs his Senate campaign after dissing Trump</a> Politico: The new Pennsylvania candidate is certain to face GOP primary attacks. 
  <p class="updated_time"> 12:15 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/capitol-police-officers-extremist-views/index.html">Capitol Police and House sergeant-at-arms working to identify officers with extremist views</a> CNN: US Capitol Police Chief Tom Manger and House Sergeant at Arms William Walker are working to identify officers with extremist views who could impact security at the Capitol, they told lawmakers on Tuesday. 
- <p class="updated_time"> 12:02 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/nuclear-option-senate-filibuster/index.html">Why Democrats are thinking of going nuclear</a> CNN: As Democrats push to pass voting rights legislation through Congress, there's been talk of using a process known as the "nuclear option." 
  <p class="updated_time"> 11:58 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/political-influence-on-science-federal-government/index.html">Biden administration tells federal agencies how to safeguard against political influence on science</a> CNN: The Biden administration is calling on government agencies to strengthen their policies against inappropriate political influence when it comes to the science that guides decision-making, according to a new report. 
  <p class="updated_time"> 11:10 AM CT, Jan. 11 </p> 
