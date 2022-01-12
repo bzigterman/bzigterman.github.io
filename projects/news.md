@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:39 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-russia-talks-brussels-ukraine.html">NATO and Russia Talk Frankly, but Past One Another for Now</a> NYT: Four hours of frank and serious discussion between Russia and the 30-member alliance leave unanswered whether Vladimir V. Putin will choose diplomacy or war. 
+ <p class="updated_time"> 02:31 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/world/spanish-doctors-ppe-settlement.html">Spanish Doctors Left Without P.P.E. Early in Pandemic Win Settlement</a> NYT: The ruling was the first in a raft of suits brought by doctors and nurses in Spain who say they worked without masks, gowns or surgical gloves. 
  <p class="updated_time"> 02:23 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/01/12/world/russia-ukraine-nato-us">Live Updates: Deep Divides Remain After Latest Russia-NATO Talks on Ukraine</a> NYT: A four-hour meeting at the alliance’s headquarters in Brussels was part of a diplomatic push aimed at Russia, which has positioned close to 100,000 troops near Ukraine’s borders. A meeting between U.S. and Russian officials on Monday was inconclusive. 
  <p class="updated_time"> 02:20 PM CT, Jan. 12 </p> 
@@ -135,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1071880009/uae-laws-business-sex-marriage-alcohol-cbd">Why United Arab Emirates is relaxing laws on sex, marriage, liquor, vapes and more</a> NPR: The UAE is overhauling laws on an array of business, cultural and social norms. On paper, it makes the emirate one of the region's most progressive countries, but critics say the reality is complex. 
  <p class="updated_time"> 11:48 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/africa/ethiopia-biden-abiy-ahmed-tigray.html">On Day Biden Calls Ethiopia’s Leader to Urge Peace, a Drone Strike Kills 17</a> NYT: The attack came days after over 50 people were killed in a strike on a refugee camp, highlighting the growing role of armed drones in a destructive war. 
- <p class="updated_time"> 11:23 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/russia-ukraine-nato-europe.html">Can Russia Be Stopped From Invading Ukraine? Here's What We Know</a> NYT: The United States, its NATO allies and Russia meet this week in a whirlwind of diplomacy aimed at averting the largest military action in Europe since World War II. Here’s a guide to what’s at stake. 
  <p class="updated_time"> 11:02 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/africa/south-africa-parliament-fire-suspect.html">Suspect in South Africa’s Parliament Fire Is Sent for Psychiatric Check</a> NYT: If the man is found fit to stand trial, he will face charges that now include terrorism. His lawyers said he would protest with a hunger strike. 
  <p class="updated_time"> 10:55 AM CT, Jan. 11 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
  <p class="updated_time"> 05:00 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-cold-war-ukraine.html">U.S.-Russia Talks Have Echoes of the Cold War</a> NYT: The Cold War echoes of the negotiations unfolding this week in a series of meetings between Russia and the West are a reminder that there is nothing permanent about Europe’s security arrangements. 
- <p class="updated_time"> 11:56 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: Australian officials hinted they may make a new attempt to cancel Djokovic’s visa, even as the tennis champion, freed from detention, returned to the court. 
  <p class="updated_time"> 09:29 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/china-covid-omicron-beijing-olympics.html">China’s Covid Outbreak Complicates Safety Plan for Beijing Olympics</a> NYT: Officials are racing to extinguish a spate of coronavirus infections around the country. 
  <p class="updated_time"> 08:54 AM CT, Jan. 10 </p> 
@@ -203,7 +203,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:30 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/biden-trump-nuclear-weapons-526976">Biden team weighs killing Trump’s new nuclear weapons</a> Politico: Officials are considering canceling weapons that were backed by the last administration. 
  <p class="updated_time"> 02:30 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html">As Infrastructure Money Flows, Wastewater Improvements Are Key</a> NYT: The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most? 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html">An Alabama Town’s Sewage Woes Test Biden’s Infrastructure Ambitions</a> NYT: The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most? 
  <p class="updated_time"> 02:25 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/matt-gaetz-grand-jury/index.html">Gaetz's ex-girlfriend enters Florida courthouse where grand jury investigating the congressman meets</a> CNN: An ex-girlfriend of Rep. Matt Gaetz, who is seen as a key witness in the ongoing investigation into alleged sex trafficking by the Florida Republican, entered an Orlando federal courthouse with her lawyer on Wednesday where a grand jury has been meeting, according to a CNN reporter on the scene. 
  <p class="updated_time"> 02:14 PM CT, Jan. 12 </p> 
@@ -372,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
- <p class="updated_time"> 08:37 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/insurance-covid-tests.html">Insurers Will Have to Cover 8 At-Home Virus Tests Per Month</a> NYT: The Biden administration announced the new guidelines as it continued to work to get coronavirus tests to people regardless of their insurance status. 
  <p class="updated_time"> 07:54 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/home-covid-tests-health-insurance/index.html">Home Covid-19 tests must be paid for by health insurers starting Saturday</a> CNN: Health insurers must cover the cost of home Covid-19 tests starting January 15, the US Department of Health and Human Services announced Monday. 
  <p class="updated_time"> 07:10 PM CT, Jan. 10 </p> 
