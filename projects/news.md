@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:40 AM CT, Jan. 12 </p> 
+ <p class="updated_time"> 06:01 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/01/12/world/russia-ukraine-nato-us">Live Updates: NATO Opens Talks With Russia Amid Ukraine Standoff</a> NYT: The diplomatic push to avert another Russian invasion of Ukraine moved to NATO headquarters in Brussels. A meeting between U.S. and Russian officials on Monday was inconclusive. 
  <p class="updated_time"> 05:24 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59963434?at_medium=RSS&at_campaign=KARANGA">Alps murders: French police arrest suspect over killing of British family</a> BBC: Three members of a British family and a French cyclist were shot dead in the French Alps. 
  <p class="updated_time"> 05:22 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59965150?at_medium=RSS&at_campaign=KARANGA">'He was like a lighthouse' - Sidney Poitier's daughter posts moving tribute</a> BBC: "I know people know he was good, but I don't think they know the depth of his goodness." 
+ <p class="updated_time"> 05:08 AM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59944174?at_medium=RSS&at_campaign=KARANGA">Brazil rains: Minas Gerais hit by deadly landslides and floods</a> BBC: Landslides and flooding caused by torrential rains have killed at least 10 people in Minas Gerais. 
  <p class="updated_time"> 04:48 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/china-zero-covid-policy-xian.html">The Army of Millions Who Enforce China’s Zero-Covid Policy</a> NYT: As the troubled lockdown in Xi’an has shown, many Chinese people remain willing to work diligently toward the government’s goal of eliminating the virus, no matter the consequences. 
  <p class="updated_time"> 04:15 AM CT, Jan. 12 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1071880009/uae-laws-business-sex-marriage-alcohol-cbd">Why United Arab Emirates is relaxing laws on sex, marriage, liquor, vapes and more</a> NPR: The UAE is overhauling laws on an array of business, cultural and social norms. On paper, it makes the emirate one of the region's most progressive countries, but critics say the reality is complex. 
  <p class="updated_time"> 11:48 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/africa/ethiopia-biden-abiy-ahmed-tigray.html">On Day Biden Calls Ethiopia’s Leader to Urge Peace, a Drone Strike Kills 17</a> NYT: The attack came days after over 50 people were killed in a strike on a refugee camp, highlighting the growing role of armed drones in a destructive war. 
- <p class="updated_time"> 11:24 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59947211?at_medium=RSS&at_campaign=KARANGA">Speaker of EU parliament dies in hospital</a> BBC: The Italian was admitted to hospital last month due to a serious complication with his immune system. 
  <p class="updated_time"> 11:23 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/russia-ukraine-nato-europe.html">Can Russia Be Stopped From Invading Ukraine? Here's What We Know</a> NYT: The United States, its NATO allies and Russia meet this week in a whirlwind of diplomacy aimed at averting the largest military action in Europe since World War II. Here’s a guide to what’s at stake. 
  <p class="updated_time"> 11:02 AM CT, Jan. 11 </p> 
@@ -233,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:26 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/12/1072359797/djokovic-clarifies-timeline-before-arriving-in-australia-as-visa-saga-continues">Djokovic clarifies his timeline before arriving in Australia as visa saga continues</a> NPR: Djokovic moved to clarify the timeline while he was infectious last month and about errors on the travel document he used to enter Australia to defend his Australian Open title. 
  <p class="updated_time"> 11:02 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/biden-voting-rights-legislative-legacy/index.html">Biden puts it all on the line in voting rights battle</a> CNN: It took a year for Joe Biden to make an irrevocable bet that puts the credibility of his presidency on the line. If his bid now to change Senate rules to pass voting rights legislation fails, he'll lose more than just the bills he sees as vital to saving democracy. His drained political capital could spell the end of the entire domestic, legislative phase of his administration. 
+ <a href="https://www.cnn.com/2022/01/12/politics/biden-voting-rights-legislative-legacy/index.html">Tuesday's speech marked an evolution in Biden as president</a> CNN: It took a year for Joe Biden to make an irrevocable bet that puts the credibility of his presidency on the line. If his bid now to change Senate rules to pass voting rights legislation fails, he'll lose more than just the bills he sees as vital to saving democracy. His drained political capital could spell the end of the entire domestic, legislative phase of his administration. 
  <p class="updated_time"> 10:52 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/voting-rights-civil-rights-leaders-biden/index.html">Civil rights leaders urge Biden to put 'full weight' behind voting rights</a> CNN: Civil rights leaders were pleased with President Joe Biden's call on Tuesday to change Senate filibuster rules to pass voting rights legislation, but insist they will not be satisfied until a bill is passed. 
  <p class="updated_time"> 10:50 PM CT, Jan. 11 </p> 
@@ -430,8 +430,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/05/mcconnell-electoral-count-act-reform-526542">McConnell cracks door to Electoral Count Act reform</a> Politico: “It obviously has some flaws. And it is worth, I think, discussing,” the Senate minority leader said Wednesday. 
  <p class="updated_time"> 07:35 AM CT, Jan. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/05/security-still-top-of-mind-a-year-after-capitol-attack-495603">Security still top of mind a year after Capitol attack</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:15 AM CT, Jan. 05 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/01/05/republicans-dodge-and-deflect-ahead-of-jan-6-495599"> Republicans dodge and deflect ahead of Jan. 6</a> Politico Playbook: And prices for at-home Covid-19 tests rise. 
 
 
 </details>
