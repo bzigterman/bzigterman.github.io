@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:39 AM CT, Jan. 12 </p> 
+ <p class="updated_time"> 07:12 AM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/12/world/russia-ukraine-nato-us">Live Updates: NATO Concludes Talks With Russia Amid Ukraine Standoff</a> NYT: A four-hour meeting at NATO headquarters in Brussels was part of a diplomatic push to avert another Russian invasion of Ukraine. A meeting between U.S. and Russian officials on Monday was inconclusive. 
+ <p class="updated_time"> 06:59 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-uk-parties.html">Boris Johnson, Under Fire, Apologizes for Pandemic Party</a> NYT: The British prime minister, on the defensive after a series of ethical lapses, said, “I know there are things we simply did not get right” about a gathering at 10 Downing Street during a lockdown in 2020. 
- <p class="updated_time"> 06:38 AM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/01/12/world/russia-ukraine-nato-us">Live Updates: NATO Opens Talks With Russia Amid Ukraine Standoff</a> NYT: The diplomatic push to avert another Russian invasion of Ukraine moved to NATO headquarters in Brussels. A meeting between U.S. and Russian officials on Monday was inconclusive. 
  <p class="updated_time"> 05:24 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59963434?at_medium=RSS&at_campaign=KARANGA">Alps murders: French police arrest suspect over killing of British family</a> BBC: Three members of a British family and a French cyclist were shot dead in the French Alps. 
  <p class="updated_time"> 05:22 AM CT, Jan. 12 </p> 
@@ -196,8 +196,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:43 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/12/whats-the-plan-man-dems-still-talking-elections-and-filibuster-495696">What’s the plan, Chuck?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:25 AM CT, Jan. 12 </p> 
+ <p class="updated_time"> 07:09 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/texas-sheriff-investigation-money-undocumented-immigrants/index.html">Texas sheriff under investigation for allegedly seizing money from undocumented immigrants</a> CNN: A Texas sheriff is under investigation for allegedly seizing money from undocumented immigrants during traffic stops. 
+ <p class="updated_time"> 07:02 AM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/january-6-committee-weighs-options/index.html">January 6 committee weighs options to get members of Congress to comply with its investigation</a> CNN: Members of the House select committee investigating the January 6 Capitol Hill insurrection are weighing what options they have to compel their fellow members of Congress to cooperate with their probe. 
+ <p class="updated_time"> 06:57 AM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/jordan-jan-6-letter-fact-check/index.html">Fact-checking Jim Jordan's letter to the January 6 committee</a> CNN: In a letter sent Sunday responding to a request to meet with the House select committee investigating January 6, Republican Rep. Jim Jordan of Ohio accused the investigation of spreading misinformation "to paint a false and misleading narrative." 
  <p class="updated_time"> 06:20 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/trump-mcconnell-2022/index.html">As candidates refuse to disavow McConnell, Trump comes to terms with his grip on GOP</a> CNN: Donald Trump is facing weak support among Republicans for his calls to depose Senate Minority Leader Mitch McConnell, and aides and allies say it's forcing the former President to confront new limitations on his influence over the party. 
  <p class="updated_time"> 06:17 AM CT, Jan. 12 </p> 
@@ -214,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/mcconnell-successor-three-johns-race-526920">What's in a name? Trio of Johns vies to succeed McConnell</a> Politico: The shadow race is on. Thune and Cornyn are best-positioned to become the next Senate GOP leader — but Barrasso is in the mix too. 
  <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/trump-governor-candidates-526954">Trump lost these states. Republican candidates for governor are emulating him anyway.</a> Politico: The former president's influence in key battleground states could be on the rise in 2022. 
- <p class="updated_time"> 04:24 AM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/january-6-committee-weighs-options/index.html">January 6 committee weighs options to get members of Congress to comply with their investigation</a> CNN: Members of the House select committee investigating the January 6 Capitol Hill insurrection are weighing what options they have to compel their fellow members of Congress to cooperate with their probe. 
  <p class="updated_time"> 04:23 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/school-testing-covid-19-biden-administration/index.html">Biden administration will provide K-12 schools with additional 10 million Covid-19 tests per month</a> CNN: The Biden administration on Wednesday announced new initiatives to provide an additional 10 million Covid-19 tests per month to schools and students in an effort to keep classrooms open. 
  <p class="updated_time"> 04:21 AM CT, Jan. 12 </p> 
@@ -392,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/09/politics/biden-student-loan-for-profit-college/index.html">Why Biden's student loan relief efforts haven't yet reversed a DeVos decision on for-profit colleges</a> CNN: The Biden administration has pledged to make college more affordable. But it has chosen not to reinstate an Obama-era rule meant to prevent students from taking on too much debt to attend predatory for-profit colleges. 
  <p class="updated_time"> 07:00 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/news/2022/01/09/joe-biden-takes-on-georgia-voting-526801">‘We are going right to the belly of the beast’: Biden takes on Georgia</a> Politico: Fresh off his Jan. 6 anniversary speech, the president and his top aides are trying to keep up the momentum for some legislative remedy. 
- <p class="updated_time"> 05:19 PM CT, Jan. 08 </p> 
- <a href="https://www.cnn.com/2022/01/08/politics/harry-reid-memorial/index.html">Biden eulogizes Reid as 'one of the greatest Senate Majority Leaders in history'</a> CNN: Former Senate Majority Leader Harry Reid will be remembered by a host of top Democratic politicians at his memorial service in Las Vegas on Saturday, with President Joe Biden speaking at the service and former President Barack Obama eulogizing the late senator. 
  <p class="updated_time"> 12:41 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/senate-minority-whip-john-thune-to-run-for-reelection-526794">Senate Minority Whip John Thune to run for reelection</a> Politico: The 61-year-old South Dakotan is widely viewed as a potential successor to Senate Minority Leader Mitch McConnell 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
