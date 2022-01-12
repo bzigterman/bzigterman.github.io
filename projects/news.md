@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:57 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/sports/tennis/novak-djokovic-covid-positive-australia.html">Novak Djokovic Tested Positive: A Timeline of What Happened Next</a> NYT: If a tennis star knew he was positive for the coronavirus, why did he keep making public appearances without a mask? 
+ <p class="updated_time"> 08:46 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
+ <p class="updated_time"> 07:55 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/11/1072294207/many-of-those-who-died-in-the-bronx-apartment-fire-were-from-west-africa">Many of those who died in the Bronx apartment fire were from West Africa</a> NPR: The dead included 11 people from Gambia. A spokesperson for the medical examiner's office said officials are working to confirm the identities of the victims — nine adults and eight children. 
  <p class="updated_time"> 06:48 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59948946?at_medium=RSS&at_campaign=KARANGA">A year on, could Trump social media ban backfire?</a> BBC: The ex-president was expelled from Twitter a year ago. What impact has it had - and will he be back? 
+ <a href="https://www.bbc.co.uk/news/technology-59948946?at_medium=RSS&at_campaign=KARANGA">A year on, has Trump benefited from a Twitter ban?</a> BBC: The ex-president was expelled from Twitter a year ago. What impact has it had - and will he be back? 
  <p class="updated_time"> 06:28 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59866693?at_medium=RSS&at_campaign=KARANGA">Seychelles: The island nation hunting for a missing $50m</a> BBC: Six of Seychelles' most prominent citizens face charges amid a government crackdown on corruption. 
  <p class="updated_time"> 06:24 PM CT, Jan. 11 </p> 
@@ -77,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1072095219/goldfish-driving-car-israel-study">Israeli scientists have trained goldfish to drive, in a scene out of a Dr. Seuss book</a> NPR: An experiment involving a robotic tank on wheels and six trained goldfish may offer insights into animals' ability to navigate unfamiliar environments. 
  <p class="updated_time"> 10:54 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/africa/jeffrey-moyo-zimbabwe-nyt.html">Freelance Reporter for the New York Times Is On Trial in Zimbabwe</a> NYT: The reporter, Jeffrey Moyo, has been accused of helping two Times journalists enter Zimbabwe from South Africa using bogus credentials, a charge that even the government admits is on ‘shaky ground.’ 
- <p class="updated_time"> 10:45 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/sports/tennis/novak-djokovic-covid-positive-australia.html">Novak Djokovic Tested Positive: A Timeline of What Happened Next</a> NYT: If a tennis star knew he was positive for the coronavirus, why did he keep making public appearances without a mask? 
  <p class="updated_time"> 10:38 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59951264?at_medium=RSS&at_campaign=KARANGA">Three ethical issues around pig heart transplants</a> BBC: A pig's heart has been used in a human transplant operation - what are the questions to consider? 
  <p class="updated_time"> 10:25 AM CT, Jan. 11 </p> 
@@ -89,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/europe/rum-isle-scotland-hebrides.html">As Its Population Soars to 40, Rum Isle Glimpses a Future in the Mist</a> NYT: With four new families recently arriving, the remote and rainy island in the Hebrides is experiencing its version of a population surge, although residents new and old concede living here isn’t easy. 
  <p class="updated_time"> 09:50 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59946927?at_medium=RSS&at_campaign=KARANGA">Voting rights: Is this now Joe Biden's biggest headache?</a> BBC: For many Democrats it's the number one issue but familiar roadblocks remain on road to reform. 
- <p class="updated_time"> 09:42 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
  <p class="updated_time"> 08:59 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/health/southern-africa-hiv-aids.html">In South Africa, Success Against H.I.V. Offers Hope </a> NYT: A former Africa correspondent, who covered the height of the AIDS epidemic there 15 years ago, finds lessons in the remarkable progress against that virus for our current fight. 
  <p class="updated_time"> 08:31 AM CT, Jan. 11 </p> 
@@ -141,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/10/1071975804/mexico-president-andres-lopez-obrador-covid-positive">The president of Mexico says he has COVID for a 2nd time</a> NPR: President Andrés Manuel López Obrador wrote that he tested positive, after he had sounded hoarse at a morning news briefing. He contracted COVID-19 and recovered from it the first time in early 2021. 
  <p class="updated_time"> 06:28 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/russia-us-ukraine-talks.html">In Talks on Ukraine, U.S. and Russia Deadlock Over NATO Expansion</a> NYT: Both sides expressed some optimism after negotiations in Geneva, but did not break an impasse over Russia’s demand that Ukraine never become a member of NATO. 
- <p class="updated_time"> 06:17 PM CT, Jan. 10 </p> 
- <a href="https://www.npr.org/2022/01/10/1071915924/speed-skater-erin-jackson-lost-a-chance-at-gold-until-her-teammate-stepped-in">Speed skater Erin Jackson lost a chance at gold — until her teammate stepped in</a> NPR: Speed skater Brittany Bowe relinquished her spot on the U.S. Olympic team for the 500 meter speed skating event to give her teammate, Jackson, a shot at gold. 
  <p class="updated_time"> 06:08 PM CT, Jan. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59942993?at_medium=RSS&at_campaign=KARANGA">Kabul's markets full of food, but no-one has money</a> BBC: The UN has called for urgent aid as one million Afghan children are at risk from severe malnourishment. 
  <p class="updated_time"> 06:02 PM CT, Jan. 10 </p> 
@@ -198,12 +198,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:30 PM CT, Jan. 11 </p> 
+ <p class="updated_time"> 08:38 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/guantanamo-detainees-cleared-for-release/index.html">2 Guantanamo detainees cleared for release as prison marks 20 years</a> CNN: Two detainees who have been at the US detention facility in Guantanamo Bay, Cuba, for more than a decade have been cleared for release, according to public documents. The decisions come as the prison marked 20 years this week since it was opened under the George W. Bush administration, a few months after the September 11 terrorist attacks. 
+ <p class="updated_time"> 08:30 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, President Biden, who had long been leery of whittling away at the filibuster, said such Senate traditions had been abused by Republicans. 
+ <p class="updated_time"> 08:21 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-senate-history.html">Biden’s Longtime Defense of Senate Rules Withers Under Partisan Rancor</a> NYT: The president left no doubt that he has reached a breaking point, lashing out at senators who are blocking voting rights legislation. 
+ <p class="updated_time"> 08:09 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/fauci-rand-paul-roger-marshall-hearing/index.html">Fauci spars with GOP lawmakers during tense Omicron hearing </a> CNN: Dr. Anthony Fauci hit back at two Republican senators in a pair of tense exchanges Tuesday, accusing one of attacking him for political gain and calling another "a moron" following questions about his finances during a Senate hearing. 
+ <p class="updated_time"> 08:04 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/ambassador-nato-julianne-smith-russia-ukraine-talks-cnntv/index.html">US ambassador to NATO says NATO and Russia 'committed to dialogue' ahead of talks Wednesday</a> CNN: The US ambassador to NATO Julianne Smith said Tuesday that the US, European allies and Russia are all "committed to dialogue" ahead of Wednesday's high-stakes meeting to discuss Russia's military buildup along the Ukrainian border. 
  <p class="updated_time"> 07:25 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/biden-senate-voting-rights-filibuster-what-matters/index.html">Analysis: How Biden heaped shame on the Senate in thundering speech</a> CNN: Pressure has failed. Negotiation has failed. Allowing Sen. Joe Manchin to craft his own voting rights bill has failed. 
- <p class="updated_time"> 07:22 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/guantanamo-detainees-cleared-for-release/index.html">2 Guantanamo detainees cleared for release as prison marks 20 years</a> CNN: Two detainees who have been at the US detention facility in Guantanamo Bay, Cuba, for more than a decade have been cleared for release, according to public documents. The decisions come as the prison marked 20 years this week since it was opened under the George W. Bush administration, a few months after the September 11 terrorist attacks. 
  <p class="updated_time"> 07:13 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/health/fauci-senate-hearing-omicron-response.html">U.S. Officials Defend Omicron Response at Senate Hearing</a> NYT: Lawmakers accused top Biden administration health officials of neglecting virus testing and mangling key messaging around the pandemic. 
  <p class="updated_time"> 07:13 PM CT, Jan. 11 </p> 
@@ -211,13 +217,9 @@ permalink: /projects/news/
  <p class="updated_time"> 07:12 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/ray-epps-january-6-committee.html">Jan. 6 Panel Seeks to Debunk Unfounded Theory About F.B.I. Role in Riot</a> NYT: The House select committee investigating the attack on the Capitol interviewed Ray Epps, a protester at the center of a right-wing conspiracy theory. 
  <p class="updated_time"> 07:08 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/covid-health-officials-congress-omicron-526950">Decoding what Biden health officials told Congress about Omicron</a> Politico: In contrast to previous oversight hearings on the Biden administration's Covid-19 response, Democrats raised sharp questions and complaints on the state of the resurging pandemic. 
+ <a href="https://www.politico.com/news/2022/01/11/covid-health-officials-congress-omicron-526950">Decoding what Biden health officials told Congress about Omicron</a> Politico: In contrast to previous oversight hearings on the administration’s Covid-19 response, Dems raised sharp questions and complaints on the state of the resurging pandemic. 
  <p class="updated_time"> 07:01 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/alzheimers-drug-aduhelm-medicare-decision/index.html">Medicare proposes to cover controversial Alzheimer's drug with restrictions</a> CNN: Medicare has proposed covering the controversial and costly Alzheimer's drug Aduhelm only for those enrolled in qualifying clinical trials, the Centers for Medicare and Medicaid Services announced Tuesday. 
- <p class="updated_time"> 06:54 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-senate-history.html">Biden’s Longtime Defense of Senate Rules Withers Under Partisan Rancor</a> NYT: The president left no doubt that he has reached a breaking point, lashing out at senators who are blocking voting rights legislation. 
- <p class="updated_time"> 06:51 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, President Biden, who had long been leery of whittling away at the filibuster, said such Senate traditions had been abused by Republicans. 
  <p class="updated_time"> 06:51 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/guantanamo-releases-approved.html">Biden Administration Approves 5 More Guantánamo Releases</a> NYT: Nearly half of the last 39 detainees have now been approved for transfer, and the challenge for U.S. officials is to find countries to receive them. 
  <p class="updated_time"> 06:50 PM CT, Jan. 11 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/us/politics/voting-rights-biden-atlanta-schedule.html">What Time is Biden's Speech Today?</a> NYT: The president is traveling to Atlanta with Vice President Kamala Harris as part of an effort to sell lawmakers and the public on major voting rights legislation. 
  <p class="updated_time"> 11:05 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/house-democrats-joe-manchin-reaction/index.html">House Democrats grapple with how to unstick a Manchin-blocked agenda</a> CNN: House Democrats are in limbo. 
- <p class="updated_time"> 10:50 AM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/ambassador-nato-julianne-smith-russia-ukraine-talks-cnntv/index.html">US ambassador to NATO says NATO and Russia 'committed to dialogue' ahead of talks Wednesday</a> CNN: The US ambassador to NATO Julianne Smith said Tuesday that the US, European allies and Russia are all "committed to dialogue" ahead of Wednesday's high-stakes meeting to discuss Russia's military buildup along the Ukrainian border. 
  <p class="updated_time"> 10:25 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/king-family-biden-voting-rights-speech-526873">King family: ‘Difficult decision’ to attend Biden’s voting rights speech</a> Politico: “It’s been a long year of a lot of things not being done, and we stand and we share that frustration,” Arndrea Waters King said. 
  <p class="updated_time"> 10:15 AM CT, Jan. 11 </p> 
@@ -358,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/10/politics/maya-angelou-quarter-issued/index.html">Maya Angelou becomes first Black woman to appear on US quarter as Treasury begins distribution</a> CNN: A new US quarter featuring the late Maya Angelou went into circulation Monday, the US Mint announced, making the legendary poet and activist the first Black woman ever to appear on the coin. 
  <p class="updated_time"> 06:16 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/democratic-voters-demographics.html">Democrats Go Hunting For Missing Voters</a> NYT: Some strategists say the party needs a “radical departure” from its longstanding reliance on demographic changes to give Democrats a stable hold on political power. 
- <p class="updated_time"> 05:27 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/mike-pence-jan-6-testimony.html">Pence and Jan. 6 Committee Engage in High-Stakes Dance Over Testimony</a> NYT: Getting the former vice president to answer questions under oath could be crucial as the House panel focuses on Donald Trump’s responsibility for the Capitol riot. 
  <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-at-home-covid-tests-reimbursement-526853">Biden administration lays out rules for reimbursing at-home Covid tests</a> Politico: Under the plan, private insurers can set up programs at preferred pharmacies or retailers where the upfront cost of home tests is covered for beneficiaries. 
  <p class="updated_time"> 03:00 PM CT, Jan. 10 </p> 
