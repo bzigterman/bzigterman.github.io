@@ -7,12 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:37 PM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: The tennis star says he made an "error of judgement" when he met a journalist last month. 
  <p class="updated_time"> 09:48 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/asia/novak-djokovic-covid-statement.html">Djokovic Says He Did Interview and Photo Shoot Even After Testing Positive</a> NYT: The tennis star released a statement that he said would clarify “misinformation” as the Australian authorities weigh whether to deport him. 
- <p class="updated_time"> 09:34 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Mistake on Australia travel form was human error</a> BBC: The tennis star says his agent made a mistake while filling in a form before he travelled to Australia. 
- <p class="updated_time"> 09:21 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/sports/tennis/novak-djokovic-covid-positive-australia.html">Novak Djokovic Tested Positive: A Timeline of What Happened Next</a> NYT: After confusion emerged, he claimed not to have known of his positive result until after some appearances and said he regretted keeping a scheduled interview once he did know. 
  <p class="updated_time"> 09:07 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59956068?at_medium=RSS&at_campaign=KARANGA">Biden pushes overhaul of US election laws in fiery speech</a> BBC: "I'm tired of being quiet," the president says, as he calls on Congress to back his sweeping reforms. 
  <p class="updated_time"> 08:46 PM CT, Jan. 11 </p> 
@@ -41,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59958664?at_medium=RSS&at_campaign=KARANGA">North Korea claims new hypersonic missile launch under watch of Kim Jong-un</a> BBC: Leader Kim Jong-un oversaw the country's second such launch in less than a week, state media reports. 
  <p class="updated_time"> 04:47 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/science/shirley-mcgreal-dead.html">Shirley McGreal, Champion of Primates Under Threat, Dies at 87</a> NYT: She exposed smuggling rings and research laboratories and built a sanctuary for gibbons in South Carolina. 
+ <p class="updated_time"> 04:38 PM CT, Jan. 11 </p> 
+ <a href="https://www.wsj.com/articles/novak-djokovic-says-his-agent-made-mistake-on-australia-travel-declaration-11641958725">Djokovic Says Agent Made Mistake on Australia Travel Declaration</a> WSJ: Novak Djokovic said his agent made an error on a travel document ahead of his trip to Australia, while also acknowledging he attended an event after receiving a positive Covid-19 test result last month. 
  <p class="updated_time"> 04:28 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183501/could-the-u-s-really-cripple-the-russian-economy-like-biden-warns">Could the U.S. really cripple the Russian economy like Biden warns?</a> NPR: President Biden has threatened Russia with massive sanctions if it follows through on threats to take more Ukrainian territory. 
  <p class="updated_time"> 04:24 PM CT, Jan. 11 </p> 
@@ -201,11 +201,13 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 10:50 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/georgias-voting-rights-advocates-joe-biden-526962">Georgia’s voting rights advocates ask Biden: Where have you been?</a> Politico: The president made a forceful case to revamp the Senate rules and pass election laws. But his base has grown skeptical. 
+ <a href="https://www.politico.com/news/2022/01/11/georgias-voting-rights-advocates-joe-biden-526962">Biden confronts a skeptical base as he pushes voting rights in Georgia</a> Politico: The president made a forceful case to revamp the Senate rules and pass election laws. But his base has grown dubious. 
  <p class="updated_time"> 10:47 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/records-former-labor-leader-subpoenaed-526961">Records of former labor leader and close Biden ally subpoenaed</a> Politico: A grand jury is probing Harold Schaitberger's financial activities as the leader of the International Association of Fire Fighters. 
  <p class="updated_time"> 10:12 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/china-covid-lockdowns-olympics-526960">China locks down third city, raising affected to 20 million</a> Politico: The approach of the Winter Olympics and the emergence of Omicron have brought back citywide lockdowns. 
+ <p class="updated_time"> 10:09 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/biden-senate-voting-rights-filibuster-what-matters/index.html">Analysis: How Biden heaped shame on the Senate in thundering speech</a> CNN: Pressure has failed. Negotiation has failed. Allowing Sen. Joe Manchin to craft his own voting rights bill has failed. 
  <p class="updated_time"> 10:05 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, President Biden, who had long been leery of whittling away at the filibuster, said such Senate traditions had been abused by Republicans. 
  <p class="updated_time"> 09:39 PM CT, Jan. 11 </p> 
@@ -218,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/fauci-rand-paul-roger-marshall-hearing/index.html">Fauci spars with GOP lawmakers during tense Omicron hearing </a> CNN: Dr. Anthony Fauci hit back at two Republican senators in a pair of tense exchanges Tuesday, accusing one of attacking him for political gain and calling another "a moron" following questions about his finances during a Senate hearing. 
  <p class="updated_time"> 08:04 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/ambassador-nato-julianne-smith-russia-ukraine-talks-cnntv/index.html">US ambassador to NATO says NATO and Russia 'committed to dialogue' ahead of talks Wednesday</a> CNN: The US ambassador to NATO Julianne Smith said Tuesday that the US, European allies and Russia are all "committed to dialogue" ahead of Wednesday's high-stakes meeting to discuss Russia's military buildup along the Ukrainian border. 
- <p class="updated_time"> 07:25 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/biden-senate-voting-rights-filibuster-what-matters/index.html">Analysis: How Biden heaped shame on the Senate in thundering speech</a> CNN: Pressure has failed. Negotiation has failed. Allowing Sen. Joe Manchin to craft his own voting rights bill has failed. 
  <p class="updated_time"> 07:13 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/florida-special-election-sheila-cherfilus-mccormick/index.html">Sheila Cherfilus-McCormick will win Florida special election to replace the late Alcee Hastings, CNN projects </a> CNN: Sheila Cherfilus-McCormick, a progressive Democrat who campaigned on sending Americans a monthly $1,000 check, will win a special election on Tuesday to replace the late US Rep. Alcee Hastings in his South Florida district, CNN projects. 
  <p class="updated_time"> 07:12 PM CT, Jan. 11 </p> 
