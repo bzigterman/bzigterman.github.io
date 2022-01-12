@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:12 AM CT, Jan. 12 </p> 
+ <p class="updated_time"> 08:32 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/01/12/world/russia-ukraine-nato-us">Live Updates: NATO Urges Russia to Ease Crisis Over Ukraine</a> NYT: A four-hour meeting at the alliance’s headquarters in Brussels was part of a diplomatic push aimed at Russia, which has positioned close to 100,000 troops near Ukraine’s borders. A meeting between U.S. and Russian officials on Monday was inconclusive. 
+ <p class="updated_time"> 08:31 AM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-uk-parties.html">Boris Johnson, Under Fire, Apologizes for Pandemic Party</a> NYT: The British prime minister, on the defensive after a series of ethical lapses, said, “There were things we simply did not get right” about a gathering at Downing Street during a lockdown in 2020. 
+ <p class="updated_time"> 08:25 AM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59871514?at_medium=RSS&at_campaign=KARANGA">Prince Andrew fails to get US civil case dismissed</a> BBC: Virginia Giuffre's sexual assault civil case against the Duke of York can continue, judge rules. 
  <p class="updated_time"> 08:12 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: The tennis star addresses "ongoing misinformation" as Australia decides on his deportation. 
  <p class="updated_time"> 07:47 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/china-zero-covid-policy-xian.html">The Army of Millions Who Enforce China’s Zero-Covid Policy</a> NYT: As the troubled lockdown in Xi’an has shown, many Chinese people remain willing to work diligently toward the government’s goal of eliminating the virus, no matter the consequences. 
- <p class="updated_time"> 07:46 AM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-uk-parties.html">Boris Johnson, Under Fire, Apologizes for Pandemic Party</a> NYT: The British prime minister, on the defensive after a series of ethical lapses, said, “There were things we simply did not get right” about a gathering at Downing Street during a lockdown in 2020. 
  <p class="updated_time"> 07:42 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59965791?at_medium=RSS&at_campaign=KARANGA">Love theory in kidnap of Italian lured to Africa</a> BBC: Prosecutors say a businessman may have been duped into going to Ivory Coast by an online scammer. 
  <p class="updated_time"> 07:06 AM CT, Jan. 12 </p> 
@@ -37,20 +39,32 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072375698/chinas-tianjin-orders-more-testing-on-14-million-after-omicron-reaches-city">China's Tianjin orders more testing on 14 million after omicron reaches city</a> NPR: The city of Tianjin ordered a second round of COVID-19 testing on Wednesday in the city about an hour from Beijing, which is set to host the Winter Olympics from February 4th. 
  <p class="updated_time"> 03:58 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/asia/beijing-olympics-covid.html">Omicron Deepens Uncertainty Surrounding Beijing Olympics</a> NYT: With the opening of the Winter Games three weeks away, officials in China are on high alert amid coronavirus outbreaks around the country. 
+ <p class="updated_time"> 03:23 AM CT, Jan. 12 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-apologizes-for-attending-party-at-downing-street-during-lockdown-11641994454">Boris Johnson Apologizes for Party During Lockdown</a> WSJ: The British prime minister sought to tamp down growing public outcry and respond to pressure from his own lawmakers over the event. 
  <p class="updated_time"> 03:09 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/asia/novak-djokovic-covid-statement.html">Djokovic Admits False Statement on Australia Travel Document</a> NYT: The tennis star also said he had participated in an interview and a photo shoot even after testing positive for the coronavirus, in an apparent violation of rules in his native Serbia. 
+ <p class="updated_time"> 03:00 AM CT, Jan. 12 </p> 
+ <a href="https://www.wsj.com/articles/as-covid-19-cases-rise-in-india-hundreds-of-thousands-to-attend-hindu-festival-11641996053">As Omicron Cases Rise in India, Masses to Attend Hindu Festival</a> WSJ: Officials say visitors must be vaccinated or test negative for Covid-19, but health experts warn the event could amplify infections. 
  <p class="updated_time"> 02:46 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072371689/nato-and-russia-in-high-level-talks-as-ukraine-tensions-simmer">NATO and Russia are in high-level talks as Ukraine tensions simmer</a> NPR: The meeting comes during a week of high-stakes diplomacy and a U.S.-led effort to prevent what Washington believes could be a Russian invasion of Ukraine. Moscow denies it is planning an attack. 
+ <p class="updated_time"> 02:31 AM CT, Jan. 12 </p> 
+ <a href="https://www.wsj.com/articles/migrants-rush-to-europe-as-covid-19-restrictions-ease-11641994307">Migrants Rush to Europe as Covid-19 Restrictions Ease</a> WSJ: Illegal border crossings into the European Union in 2021 were the highest since 2017, indicating the bloc hasn’t resolved an issue that has dogged it in recent years. 
+ <p class="updated_time"> 01:43 AM CT, Jan. 12 </p> 
+ <a href="https://www.wsj.com/articles/kazakhstan-investigates-how-peaceful-demonstrations-turned-violent-11641991426">Kazakhstan Investigates How Peaceful Demonstrations Turned Violent</a> WSJ: The country’s protests over fuel-price rises were largely peaceful for three days before descending into violence. The government and the original protesters more or less agree on one point: Demonstrations were hijacked by violent criminals seeking to destabilize the nation and effect a coup. 
  <p class="updated_time"> 01:31 AM CT, Jan. 12 </p> 
  <a href="https://www.wsj.com/articles/novak-djokovic-says-his-agent-made-mistake-on-australia-travel-declaration-11641958725">Djokovic Thrust to Center of Vaccine Mandates Debate</a> WSJ: The world’s No. 1-ranked men’s tennis star, Novak Djokovic has become a lightning rod in the debate over Covid-19 vaccine mandates. 
  <p class="updated_time"> 12:43 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59956068?at_medium=RSS&at_campaign=KARANGA">Biden pushes overhaul of US election laws in fiery speech</a> BBC: In a fiery speech in Georgia, the president calls on Congress to back his sweeping reforms. 
  <p class="updated_time"> 12:34 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/white-cliffs-sicily-vandalism.html">Famed White Cliffs of Sicily Are Defaced in an Act of Vandalism</a> NYT: Vandals stained a cliff formation known as the Staircase of the Turks with red splotches over the weekend. Residents of a nearby town banded together for a successful cleanup. 
+ <p class="updated_time"> 12:32 AM CT, Jan. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-nato-meet-over-ukraine-impasse-11641987171">Russia, NATO Meet Over Ukraine Impasse</a> WSJ: The meeting in Geneva comes two days after officials from the U.S. and Russia, which has gathered tens of thousands of troops on the border with Ukraine, failed to achieve a breakthrough. 
  <p class="updated_time"> 11:57 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/12/1072362137/twin-panda-cubs-delight-devoted-fans-at-tokyo-zoo-in-covid-shortened-debut">Twin panda cubs delight devoted fans at Tokyo zoo in a COVID shortened debut</a> NPR: Twin panda cubs made their first public appearance before delighted fans in Tokyo but only briefly for now — just for three days — due to a spike in COVID-19 cases driven by the omicron variant. 
  <p class="updated_time"> 11:43 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/spain-student-housing-dorms.html">Dorms Pop Up in Spain as More Students Seek Housing Away From Home</a> NYT: The country’s student population has become increasingly mobile, fueling investments in accommodations, largely funded by foreign capital. 
+ <p class="updated_time"> 11:38 PM CT, Jan. 11 </p> 
+ <a href="https://www.wsj.com/articles/kim-jong-un-attends-first-missile-launch-in-nearly-two-years-11641983922">Kim Attends First Missile Launch in Nearly Two Years</a> WSJ: North Korean state media described Tuesday’s test as the final test of a new hypersonic missile that can do corkscrews and glide jumps. 
  <p class="updated_time"> 11:06 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59958664?at_medium=RSS&at_campaign=KARANGA">North Korea says Kim Jong-un oversaw third hypersonic missile test</a> BBC: This is reportedly the first time since March 2020 that Mr Kim has been known to attend a missile launch. 
  <p class="updated_time"> 08:46 PM CT, Jan. 11 </p> 
@@ -127,32 +141,22 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/health/southern-africa-hiv-aids.html">In South Africa, Success Against H.I.V. Offers Hope </a> NYT: A former Africa correspondent, who covered the height of the AIDS epidemic there 15 years ago, finds lessons in the remarkable progress against that virus for our current fight. 
  <p class="updated_time"> 08:01 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59942994?at_medium=RSS&at_campaign=KARANGA">Fighting the darknet drug dealers who keep coming back</a> BBC: BBC research finds hundreds of dealers who have survived multiple police shutdowns of darknet marketplaces. 
- <p class="updated_time"> 07:04 AM CT, Jan. 11 </p> 
- <a href="https://www.wsj.com/articles/downing-street-lockdown-parties-leave-headache-for-boris-johnson-11641924249">Downing Street Lockdown Parties Leave Headache for Boris Johnson</a> WSJ: Allegations of social-distancing violations at the prime minister’s residence are hitting U.K. Conservatives as economic woes also take a toll on the party’s poll numbers. 
- <p class="updated_time"> 06:26 AM CT, Jan. 11 </p> 
- <a href="https://www.wsj.com/articles/south-african-authorities-charge-man-in-parliament-fire-11641922017">South African Authorities Charge Man in Parliament Fire</a> WSJ: The 49-year-old man was charged with arson and terrorism in the fire that devastated the building last week. 
  <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/sections/money/2022/01/11/1071282973/as-carbon-removal-gains-traction-economists-imagine-a-new-market-to-save-the-pla">As carbon removal gains traction, economists imagine a new market to save the planet</a> NPR: Carbon removal went mainstream in 2021. But the technology is still light years away from making a real difference combating climate change. A group of economists wants to help change that. 
+ <p class="updated_time"> 04:53 AM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html">Saudi Princess Is Released, but Other Royals Are Still Locked Up</a> NYT: The Saudi government has not said why it detained or freed Princess Basmah bint Saud, a daughter of a former king who has criticized the country’s policies. 
  <p class="updated_time"> 04:42 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072029936/cyber-risks-add-to-climate-threat-world-economic-forum-warns">Cyber risks add to climate threat, World Economic Forum warns</a> NPR: Survey of 1,000 experts and leaders finds cybersecurity and space add to the existing challenges of climate change and the coronavirus pandemic. 
- <p class="updated_time"> 04:34 AM CT, Jan. 11 </p> 
- <a href="https://www.wsj.com/articles/hongs-kong-strict-quarantine-system-pushed-to-limits-by-omicron-cluster-11641915259">Hong Kong's Strict Quarantine System Pushed to Limits by Omicron Cluster</a> WSJ: With 42 community infections detected in the past two weeks, government quarantine centers are running out of space and some experts are questioning if the policy of zero-Covid-19 infections is sustainable. 
- <p class="updated_time"> 04:19 AM CT, Jan. 11 </p> 
- <a href="https://www.wsj.com/articles/why-the-catholic-church-is-losing-latin-america-11641914388">Why the Catholic Church Is Losing Latin America</a> WSJ: Conservative Pentecostals have made huge inroads in Latin America during the reign of the region’s first pope, with Catholicism projected to become a minority in Brazil as soon as this year. 
  <p class="updated_time"> 04:18 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/putin-russia-kazakhstan.html">Russian Troops Will Stay to Finish Job in Kazakhstan, Putin Says</a> NYT: Blaming “internal and external forces” for the unrest in the resource-rich Central Asian country, President Vladimir V. Putin of Russia set no deadline for the withdrawal of the forces his country sent there. 
  <p class="updated_time"> 03:43 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072021539/eu-parliament-president-david-sassoli-dies-at-age-65">EU Parliament President David Sassoli dies at age 65</a> NPR: The Italian journalist had been hospitalized since Dec. 26 due to abnormal functioning of his immune system. 
- <p class="updated_time"> 03:07 AM CT, Jan. 11 </p> 
- <a href="https://www.wsj.com/articles/kazakhstan-says-russia-to-withdraw-troops-in-wake-of-unrest-11641903337">Kazakhstan Says Russia to Withdraw Troops in Wake of Unrest</a> WSJ: Russia-led forces that entered Kazakhstan to support the government following an eruption of protests would start withdrawing within two days, the Kazakh president said as he named a loyalist as prime minister. 
  <p class="updated_time"> 02:44 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/cladding-grenfell-uk.html">Nearly 5 Years After Grenfell Fire, U.K. Tells Developers to Pay for Upgrades</a> NYT: After a deadly high-rise blaze in 2017, countless instances of unsafe building practices came to light. The latest plan to address them expands who will be covered. 
  <p class="updated_time"> 02:08 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59949236?at_medium=RSS&at_campaign=KARANGA">First pig heart to human transplant is a game-changer, say surgeons</a> BBC: In a world first, a pig heart has been successfully transplanted into a human by surgeons in the US. 
  <p class="updated_time"> 01:21 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/asia/north-korea-ballistic-missile-south-korea.html">North Korea Launches 2nd Ballistic Missile in a Week, South Korea Says</a> NYT: The launch came as the U.N. Security Council met to discuss the country’s growing weapons threat. The U.S. said the latest test “highlights the destabilizing impact” of the North’s weapons program. 
- <p class="updated_time"> 11:55 PM CT, Jan. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-rebuilt-nato-to-face-down-russia-putin-scrambled-those-plans-11641898501">U.S. Rebuilt NATO to Face Down Russia. Putin Scrambled Those Plans.</a> WSJ: Ahead of a meeting between the North Atlantic Treaty Organization and Russia in Brussels on Wednesday, the 30-country alliance is grappling with how to counter Moscow’s increasing assertiveness. 
  <p class="updated_time"> 11:01 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/asia/afghanistan-united-nations-appeal.html">U.N. Seeks Huge Aid Increase to Prevent ‘Catastrophe’ in Afghanistan</a> NYT: The $5 billion appeal comes as a severe drought and the toll of decades of war have plunged three-quarters of the country’s population into acute poverty, according to the United Nations. 
  <p class="updated_time"> 08:55 PM CT, Jan. 10 </p> 
@@ -175,16 +179,22 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/09/sports/tennis/novak-djokovic-australian-open-vaccine.html">Novak Djokovic Can Remain in Australia, Judge Rules</a> NYT: Australian officials hinted they may make a new attempt to cancel Djokovic’s visa, even as the tennis champion, freed from detention, returned to the court. 
  <p class="updated_time"> 09:29 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/china-covid-omicron-beijing-olympics.html">China’s Covid Outbreak Complicates Safety Plan for Beijing Olympics</a> NYT: Officials are racing to extinguish a spate of coronavirus infections around the country. 
+ <p class="updated_time"> 09:09 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/style/catherine-duchess-of-cambridge-birthday-portraits.html">Looking at the Duchess of Cambridge's 40th Birthday Portrait</a> NYT: In three new birthday portraits, Catherine, Duchess of Cambridge, gives the fairy tale relevance and a hit of Pinterest inspiration. 
  <p class="updated_time"> 08:54 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/asia/india-masks-omicron.html">In India, Mask Wearing Is Down Despite Rising Coronavirus Cases</a> NYT: Health officials are finding it harder to impose regulations despite signs that Omicron is beginning to take hold. 
  <p class="updated_time"> 07:58 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/the-biden-administration-gave-a-preview-of-how-it-would-punish-russia-if-it-invaded-ukraine.html">The Biden administration gave a preview of how it would punish Russia if it invaded Ukraine.</a> NYT: Such moves are rarely telegraphed in advance, but advisers say they are hoping to influence the decisions of Russia’s leader, Vladimir V. Putin. 
+ <p class="updated_time"> 06:39 AM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/europe/russia-ukraine-us-geneva.html">Russia and U.S. Meet to Begin Negotiations Over Ukraine</a> NYT: Before the two countries met amid rising tensions over Ukraine, a senior Russian official and the U.S. secretary of state set a pessimistic tone. 
  <p class="updated_time"> 02:51 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-europe-ukraine-nato.html">U.S. and Russia Will Discuss European Security, but Without Europeans</a> NYT: The coming talks in Geneva are bilateral, reviving old fears that the two Cold War powers will forge a deal on their own. 
  <p class="updated_time"> 01:48 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/europe/kazakhstan-protests-detained-injured.html">Nearly 6,000 Detained Amid Unrest in Kazakhstan</a> NYT: Protests that began last weekend over a hike in fuel prices spread across the country, leaving at least 2,000 injured, government officials said. Dozens of deaths also appeared likely. 
  <p class="updated_time"> 11:15 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/asia/china-covid-testing-omicron.html">Tianjin, a city of 14 million near Beijing, starts testing all residents after Omicron surfaces.</a> NYT: The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. 
+ <p class="updated_time"> 10:37 PM CT, Jan. 09 </p> 
+ <a href="https://www.nytimes.com/2022/01/09/world/asia/hong-kong-party-covid.html">Hong Kong Party Angers a City Under Covid Controls</a> NYT: Just as new restrictions were being imposed, top politicians were found to have attended a large gathering where at least one person had Covid. 
  <p class="updated_time"> 02:14 PM CT, Jan. 09 </p> 
  <a href="https://www.nytimes.com/2022/01/09/world/americas/brazil-cliff-collapses.html">Cliff Collapses on Boaters in Brazil, Killing 10</a> NYT: The tragedy in Minas Gerais state gripped the nation because it was captured on videos that showed an immense slab of rock smashing into pleasure boats. 
  <p class="updated_time"> 02:07 PM CT, Jan. 09 </p> 
@@ -196,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:25 AM CT, Jan. 12 </p> 
+ <a href="https://www.politico.com/news/2022/01/12/consumer-prices-526964">U.S. consumer prices soared 7 percent in past year, most since 1982</a> Politico: The jump is the latest evidence that rising costs for food, rent and other necessities are heightening the financial pressures on America’s households. 
  <p class="updated_time"> 07:59 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/economy/cpi-inflation-december-2021.html">Consumer Prices Jumped at Fastest Pace Since 1982</a> NYT: The Consumer Price Index increased at the fastest pace in 40 years, a new report showed. 
  <p class="updated_time"> 07:43 AM CT, Jan. 12 </p> 
@@ -261,7 +273,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:05 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, President Biden, who had long been leery of whittling away at the filibuster, said such Senate traditions had been abused by Republicans. 
  <p class="updated_time"> 09:39 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-senate-history.html">Biden’s Longtime Defense of Senate Rules Withers Under Partisan Rancor</a> NYT: The president left no doubt that he has reached a breaking point, lashing out at senators who are blocking voting rights legislation. 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-senate-history.html">Biden Defense of Filibuster Withers Under Partisan Rancor</a> NYT: The president left no doubt that he has reached a breaking point, lashing out at senators who are blocking voting rights legislation. 
  <p class="updated_time"> 09:24 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/health/fauci-senate-hearing-omicron-response.html">U.S. Officials Defend Omicron Response at Senate Hearing</a> NYT: Lawmakers accused top Biden administration health officials of neglecting virus testing and mangling key messaging around the pandemic. 
  <p class="updated_time"> 08:09 PM CT, Jan. 11 </p> 
@@ -332,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/us/politics/supreme-court-immigrants-bail-hearings.html">Supreme Court Weighs Jailed Immigrants’ Rights to Bail Hearings</a> NYT: Lawyers for the federal government said immigrants detained for months while they fight deportation are not entitled to seek release from immigration judges. 
  <p class="updated_time"> 03:08 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/mary-trump-lawsuit/index.html">Lawyers for Trump and niece Mary Trump spar over lawsuit alleging she was defrauded in family settlement</a> CNN: Lawyers for former President Donald Trump and his niece Mary Trump sparred in court Tuesday over whether her lawsuit alleging she was defrauded of millions of dollars in a 2001 family settlement could move forward. 
- <p class="updated_time"> 02:44 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/faa-west-coast-flights-north-korea-526894">FAA briefly halted West Coast flights amid North Korean missile scare</a> Politico: Exchanges between pilots and air traffic controllers that cropped up on social media late Monday suggested landings were off limits in portions of California and Oregon. 
  <p class="updated_time"> 02:37 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/ron-desantis-state-of-the-state/index.html">DeSantis draws contrast with federal government and Democratic-led states in State of the State address </a> CNN: Painting himself and his state as the antidote to closed schools, government mandates and Big Tech overreach, Florida Gov. Ron DeSantis on Tuesday delivered an election-year State of the State speech that emphasized the deepening divide between Republican and Democratic leadership during the pandemic. 
  <p class="updated_time"> 01:45 PM CT, Jan. 11 </p> 
