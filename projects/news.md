@@ -194,8 +194,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:08 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html">As Infrastructure Money Flows, Wastewater Improvements Are Key</a> NYT: The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most? 
+ <p class="updated_time"> 01:00 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/matt-gaetz-grand-jury/index.html">Gaetz's ex-girlfriend enters Florida courthouse where grand jury investigating the congressman meets</a> CNN: An ex-girlfriend of Rep. Matt Gaetz, who is seen as a key witness in the ongoing investigation into alleged sex trafficking by the Florida Republican, entered an Orlando federal courthouse with her lawyer on Wednesday where a grand jury has been meeting, according to a CNN reporter on the scene. 
  <p class="updated_time"> 12:55 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/economy/cpi-inflation-december-2021.html">CPI December 2021: Inflation Jumped at Fastest Pace Since 1982</a> NYT: The Consumer Price Index increased at the fastest pace in 40 years, a new report showed. 
+ <p class="updated_time"> 12:54 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/mitch-mcconnell-biden-speech-reaction/index.html">Mitch McConnell calls Biden's speech 'incoherent' and 'beneath his office'</a> CNN: Senate Minority Leader Mitch McConnell blasted President Joe Biden's speech pushing for the Senate to change its filibuster rules to pass voting and elections legislation, saying Biden compared "a bipartisan majority of senators to literal traitors." 
  <p class="updated_time"> 12:39 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/donald-trump-npr-interview.html">Trump Ends NPR Interview After Challenges to False Fraud Claim</a> NYT: Former President Donald J. Trump abruptly ended the interview after a lengthy back-and-forth over his claims of widespread election fraud. 
  <p class="updated_time"> 12:30 PM CT, Jan. 12 </p> 
@@ -210,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072463871/harry-reid-capitol-lies-in-state">Harry Reid lies in state at the U.S. Capitol</a> NPR: Reid was recalled as a "legendary leader" as colleagues and friends gathered to pay tribute to a hardscrabble Democrat who rose from poverty in Nevada to the most powerful position in the Senate. 
  <p class="updated_time"> 11:26 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/biden-to-address-senate-dems-on-cusp-of-election-reform-showdown-526971">Biden to pitch Senate Democrats on rules changes</a> Politico: President Joe Biden will attend a special caucus meeting Thursday with Senate Democrats, as the party makes a concerted effort to pass elections reform and voting legislation. 
- <p class="updated_time"> 11:20 AM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/matt-gaetz-grand-jury/index.html">Gaetz's ex-girlfriend enters Florida courthouse where grand jury investigating the congressman meets</a> CNN: An ex-girlfriend of Rep. Matt Gaetz, who is seen as a key witness in the ongoing investigation into alleged sex trafficking by the Florida Republican, entered an Orlando federal courthouse with her lawyer on Wednesday where a grand jury has been meeting, according to a CNN reporter on the scene. 
  <p class="updated_time"> 11:08 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/biden-administration-covid-masks-kn95-n95/index.html">Biden administration 'actively exploring' boosting supply of higher-quality N95, KN95 masks</a> CNN: The US Centers for Disease Control and Prevention has not changed its guidance on mask usage, but the Biden administration is "strongly considering" making higher quality masks, like N95 and KN95 masks, more available to Americans. 
  <p class="updated_time"> 11:07 AM CT, Jan. 12 </p> 
@@ -350,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/ron-desantis-state-of-the-state/index.html">DeSantis draws contrast with federal government and Democratic-led states in State of the State address </a> CNN: Painting himself and his state as the antidote to closed schools, government mandates and Big Tech overreach, Florida Gov. Ron DeSantis on Tuesday delivered an election-year State of the State speech that emphasized the deepening divide between Republican and Democratic leadership during the pandemic. 
  <p class="updated_time"> 01:45 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/biden-n95-mask-distribution-526889">Biden health team weighs new mask distribution plan</a> Politico: Officials in favor of distributing the masks to the public have pushed for a decision as soon as Thursday. 
- <p class="updated_time"> 01:15 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/trump-jan-6-lawsuits.html">Civil Suits Against Trump Seek Damages for Jan. 6 Attack</a> NYT: Lawyers argued that the cases against the former president should be allowed to go forward because he inflamed a mob and failed to stop the violence it wrought. 
  <p class="updated_time"> 11:58 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/political-influence-on-science-federal-government/index.html">Biden administration tells federal agencies how to safeguard against political influence on science</a> CNN: The Biden administration is calling on government agencies to strengthen their policies against inappropriate political influence when it comes to the science that guides decision-making, according to a new report. 
  <p class="updated_time"> 11:10 AM CT, Jan. 11 </p> 
@@ -370,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/one-party-control-white-house-congress/index.html">If Democrats can't pass their agenda now, they may not get another chance for years. Here's why</a> CNN: The last four times a president went into midterm elections holding unified control of the White House, Senate and House of Representatives, as Joe Biden and Democrats do now, voters have revoked it. 
  <p class="updated_time"> 08:37 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/insurance-covid-tests.html">Insurers Will Have to Cover 8 At-Home Virus Tests Per Month</a> NYT: The Biden administration announced the new guidelines as it continued to work to get coronavirus tests to people regardless of their insurance status. 
- <p class="updated_time"> 07:54 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/home-covid-tests-health-insurance/index.html">Home Covid-19 tests must be paid for by health insurers starting Saturday</a> CNN: Health insurers must cover the cost of home Covid-19 tests starting January 15, the US Department of Health and Human Services announced Monday. 
  <p class="updated_time"> 07:10 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/democrats-filibuster-vote-526863">Dems' filibuster conundrum: It's not just Manchin and Sinema</a> Politico: Mark Kelly is undecided. Jon Tester likes a talking filibuster but is “not crazy” about making an exception for elections reform. And Jeanne Shaheen is promoting more modest changes. 
  <p class="updated_time"> 07:09 PM CT, Jan. 10 </p> 
