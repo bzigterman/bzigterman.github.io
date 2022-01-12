@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
+ <a href="https://www.politico.com/news/2022/01/12/mcconnell-successor-three-johns-race-526920">What's in a name? Trio of Johns vies to succeed McConnell</a> Politico: The shadow race is on. Thune and Cornyn are best-positioned to become the next Senate GOP leader — but Barrasso is in the mix too. 
  <p class="updated_time"> 02:46 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072371689/nato-and-russia-in-high-level-talks-as-ukraine-tensions-simmer">NATO and Russia are in high-level talks as Ukraine tensions simmer</a> NPR: The meeting comes during a week of high-stakes diplomacy and a U.S.-led effort to prevent what Washington believes could be a Russian invasion of Ukraine. Moscow denies it is planning an attack. 
  <p class="updated_time"> 01:29 AM CT, Jan. 12 </p> 
