@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:48 AM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/01/12/world/russia-ukraine-nato-us">Live Updates: NATO Urges Russia to Ease Crisis Over Ukraine</a> NYT: A four-hour meeting at the alliance’s headquarters in Brussels was part of a diplomatic push aimed at Russia, which has positioned close to 100,000 troops near Ukraine’s borders. A meeting between U.S. and Russian officials on Monday was inconclusive. 
- <p class="updated_time"> 08:44 AM CT, Jan. 12 </p> 
+ <p class="updated_time"> 09:01 AM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59944174?at_medium=RSS&at_campaign=KARANGA">Brazil rains: Minas Gerais hit by deadly landslides and floods</a> BBC: Landslides and flooding caused by torrential rains have killed at least 15 people in Minas Gerais. 
+ <p class="updated_time"> 09:00 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59871514?at_medium=RSS&at_campaign=KARANGA">Prince Andrew to face civil sex assault case after US ruling</a> BBC: Virginia Giuffre's sexual assault civil case against the Duke of York can continue, judge rules. 
+ <p class="updated_time"> 09:00 AM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/12/world/russia-ukraine-nato-us">Live Updates: NATO Urges Russia to Ease Crisis Over Ukraine</a> NYT: A four-hour meeting at the alliance’s headquarters in Brussels was part of a diplomatic push aimed at Russia, which has positioned close to 100,000 troops near Ukraine’s borders. A meeting between U.S. and Russian officials on Monday was inconclusive. 
  <p class="updated_time"> 08:40 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59965791?at_medium=RSS&at_campaign=KARANGA">Love theory in Italian man's Ivory Coast kidnap</a> BBC: Prosecutors say a businessman may have been duped into going to Ivory Coast by an online scammer. 
  <p class="updated_time"> 08:31 AM CT, Jan. 12 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59963434?at_medium=RSS&at_campaign=KARANGA">Alps murders: French police arrest suspect over killing of British family</a> BBC: Three members of a British family and a French cyclist were shot dead in the French Alps. 
  <p class="updated_time"> 05:22 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59965150?at_medium=RSS&at_campaign=KARANGA">'He was like a lighthouse' - Sidney Poitier's daughter posts moving tribute</a> BBC: "I know people know he was good, but I don't think they know the depth of his goodness." 
- <p class="updated_time"> 05:08 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59944174?at_medium=RSS&at_campaign=KARANGA">Brazil rains: Minas Gerais hit by deadly landslides and floods</a> BBC: Landslides and flooding caused by torrential rains have killed at least 10 people in Minas Gerais. 
  <p class="updated_time"> 04:15 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/antigen-tests.html">Racing to Stop Omicron, Countries Rely on At-Home Antigen Tests</a> NYT: Countries aim keep up with the variant’s rapid pace of transmission, marking a shift from viewing P.C.R. testing as the primary method of diagnosis. 
  <p class="updated_time"> 03:59 AM CT, Jan. 12 </p> 
@@ -255,7 +255,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072322926/the-white-house-will-distribute-10-million-more-covid-tests-per-month-to-schools">The White House will distribute 10 million more COVID tests per month to schools</a> NPR: President Biden and others in his administration insist schools should stay open, even with the omicron wave making it harder than ever to manage. 
  <p class="updated_time"> 04:00 AM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072176709/transcript-full-npr-interview-former-president-donald-trump">Read NPR's full interview with former President Donald Trump</a> NPR: NPR's Steve Inskeep spoke with former President Donald Trump on Monday. Trump continued to repeat false claims that the 2020 election was rigged. 
+ <a href="https://www.npr.org/2022/01/12/1072176709/transcript-full-npr-interview-former-president-donald-trump">Read NPR's full interview with former President Donald Trump</a> NPR: NPR's Steve Inskeep spoke with former President Donald Trump on Tuesday. Trump continued to repeat false claims that the 2020 election was rigged. 
  <p class="updated_time"> 04:00 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072295047/inflation-is-still-surging-and-some-democrats-see-one-culprit-greedy-companies">Inflation is still surging and some Democrats see one culprit: Greedy companies</a> NPR: Consumer prices are soaring at their highest annual pace in almost 40 years. Some progressives such as Sen. Elizabeth Warren blame corporate profiteering, but most economists scoff. 
  <p class="updated_time"> 02:46 AM CT, Jan. 12 </p> 
