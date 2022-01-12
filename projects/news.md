@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:56 PM CT, Jan. 11 </p> 
+ <p class="updated_time"> 11:07 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/asia/novak-djokovic-covid-statement.html">Djokovic Admits False Statement on Australia Travel Document</a> NYT: The tennis star also said he had participated in an interview and a photo shoot even after testing positive for the coronavirus, in an apparent violation of rules in his native Serbia. 
- <p class="updated_time"> 10:55 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: In a lengthy statement, the tennis star also admits making a mistake on his Australian entry form. 
+ <p class="updated_time"> 11:06 PM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59958664?at_medium=RSS&at_campaign=KARANGA">North Korea says Kim Jong-un oversaw third hypersonic missile test</a> BBC: This is reportedly the first time since March 2020 that Mr Kim has been known to attend a missile launch. 
+ <p class="updated_time"> 11:05 PM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: In a lengthy statement, the tennis star also says his agent made a mistake on his Australian entry form. 
  <p class="updated_time"> 09:07 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59956068?at_medium=RSS&at_campaign=KARANGA">Biden pushes overhaul of US election laws in fiery speech</a> BBC: "I'm tired of being quiet," the president says, as he calls on Congress to back his sweeping reforms. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59956068?at_medium=RSS&at_campaign=KARANGA">Biden pushes overhaul of US election laws in fiery speech</a> BBC: In a fiery speech in Georgia, the president calls on Congress to back his sweeping reforms. 
  <p class="updated_time"> 08:46 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
  <p class="updated_time"> 07:55 PM CT, Jan. 11 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59960689?at_medium=RSS&at_campaign=KARANGA">Covid: Quebec to impose health tax on unvaccinated Canadians</a> BBC: The unvaccinated represent 15% of the population, but over half of all hospital admissions. 
  <p class="updated_time"> 05:03 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072245389/quebec-unvaccinated-covid-penalty">In Quebec, people who refuse to be vaccinated for COVID will face a financial penalty</a> NPR: The Canadian province's premier said not getting vaccinated leads to consequences for the health care system and not all Quebecers should pay for that. 
- <p class="updated_time"> 04:54 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59958664?at_medium=RSS&at_campaign=KARANGA">North Korea claims new hypersonic missile launch under watch of Kim Jong-un</a> BBC: Leader Kim Jong-un oversaw the country's second such launch in less than a week, state media reports. 
  <p class="updated_time"> 04:47 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/science/shirley-mcgreal-dead.html">Shirley McGreal, Champion of Primates Under Threat, Dies at 87</a> NYT: She exposed smuggling rings and research laboratories and built a sanctuary for gibbons in South Carolina. 
  <p class="updated_time"> 04:38 PM CT, Jan. 11 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:52 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/voting-rights-civil-rights-leaders-biden/index.html">Civil rights leaders urge Biden to put 'full weight' behind voting rights</a> CNN: Civil rights leaders were pleased with President Joe Biden's call on Tuesday to change Senate filibuster rules to pass voting rights legislation, but insist they will not be satisfied until a bill is passed. 
  <p class="updated_time"> 10:50 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/georgias-voting-rights-advocates-joe-biden-526962">Biden confronts a skeptical base as he pushes voting rights in Georgia</a> Politico: The president made a forceful case to revamp the Senate rules and pass election laws. But his base has grown dubious. 
  <p class="updated_time"> 10:47 PM CT, Jan. 11 </p> 
@@ -330,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/justice-department-forms-new-domestic-terrorism-unit/index.html">DOJ forms new domestic terrorism unit</a> CNN: The Justice Department is establishing a new domestic terrorism unit to combat the threat that has more than doubled in the past two years, the head of the agency's National Security Division said Tuesday. 
  <p class="updated_time"> 10:02 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/biden-epa-coal-ash-ponds-enforcement-climate/index.html">EPA begins enforcement on clean up of toxic coal-ash ponds</a> CNN: The US Environmental Protection Agency announced Tuesday it will begin enforcing regulations that require coal-fired power plants to clean up their coal-ash waste -- the toxic byproduct of burning coal to generate electricity. 
- <p class="updated_time"> 08:35 AM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/georgia-voting-rights-advocates-biden-visit/index.html">Georgia voting rights groups boycott Biden speech: 'We don't need even more photo ops. We need action'</a> CNN: A coalition of voting rights groups in Georgia announced Monday that they will not attend events surrounding President Joe Biden's expected visit to Atlanta. 
  <p class="updated_time"> 07:45 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/11/democrats-look-for-a-roadmap-on-rules-changes-495677">Democrats look for a roadmap on rules changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:21 AM CT, Jan. 11 </p> 
