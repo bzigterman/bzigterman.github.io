@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:57 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072362137/twin-panda-cubs-delight-devoted-fans-at-tokyo-zoo-in-covid-shortened-debut">Twin panda cubs delight devoted fans at Tokyo zoo in COVID shortened debut</a> NPR: Twin panda cubs made their first public appearance before delighted fans in Tokyo but only briefly for now — just for three days — due to a spike in COVID-19 cases driven by the omicron variant. 
  <p class="updated_time"> 11:43 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/spain-student-housing-dorms.html">Dorms Pop Up in Spain as More Students Seek Housing Away From Home</a> NYT: The country’s student population has become increasingly mobile, fueling investments in accommodations, largely funded by foreign capital. 
  <p class="updated_time"> 11:36 PM CT, Jan. 11 </p> 
@@ -141,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/world/asia/afghanistan-united-nations-appeal.html">U.N. Seeks Huge Aid Increase to Prevent ‘Catastrophe’ in Afghanistan</a> NYT: The $5 billion appeal comes as a severe drought and the toll of decades of war have plunged three-quarters of the country’s population into acute poverty, according to the United Nations. 
  <p class="updated_time"> 08:55 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/asia/myanmar-aung-san-suu-kyi-verdict.html">In Myanmar, Aung San Suu Kyi Sentenced to 4 More Years</a> NYT: Myanmar’s ousted civilian leader was convicted on three more counts under Covid and telecommunications rules, which her defenders said were politically motivated. 
- <p class="updated_time"> 07:13 PM CT, Jan. 10 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/01/10/1071975804/mexico-president-andres-lopez-obrador-covid-positive">The president of Mexico says he has COVID for a 2nd time</a> NPR: President Andrés Manuel López Obrador wrote that he tested positive, after he had sounded hoarse at a morning news briefing. He contracted COVID-19 and recovered from it the first time in early 2021. 
  <p class="updated_time"> 06:28 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/russia-us-ukraine-talks.html">In Talks on Ukraine, U.S. and Russia Deadlock Over NATO Expansion</a> NYT: Both sides expressed some optimism after negotiations in Geneva, but did not break an impasse over Russia’s demand that Ukraine never become a member of NATO. 
  <p class="updated_time"> 06:08 PM CT, Jan. 10 </p> 
