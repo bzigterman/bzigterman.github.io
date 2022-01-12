@@ -200,12 +200,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:51 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/jan-6-select-panel-to-seek-mccarthys-testimony-526983">Jan. 6 select panel to seek McCarthy's testimony</a> Politico: It follows months of speculation about when the panel would seek the California Republican's cooperation with their probe. 
+ <p class="updated_time"> 03:23 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/kevin-mccarthy-january-6/index.html">January 6 committee asks McCarthy to voluntarily provide information to probe</a> CNN: The House select committee investigating the January 6 riot is asking Minority Leader Kevin McCarthy, a California Republican, to voluntarily provide information to the panel, a major development in the sweeping investigation, according to a new letter released Wednesday. 
  <p class="updated_time"> 03:10 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/inflation-biden-economy-agenda-526980">Price spikes threaten to ground Biden's big-spending plans</a> Politico: The government reported on Wednesday that the consumer price index, the most widely watched gauge of inflation, hit a four-decade high of 7 percent in December compared to the previous year. 
- <p class="updated_time"> 03:08 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/kevin-mccarthy-january-6/index.html">January 6 committee asks McCarthy to voluntarily provide information to probe</a> CNN: The House select committee investigating the January 6 riot is asking Minority Leader Kevin McCarthy, a California Republican, to voluntarily provide information to the panel, a major development in the sweeping investigation, according to a new letter released Wednesday. 
  <p class="updated_time"> 03:05 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html">Jan. 6 Committee Asks Kevin McCarthy for Interview</a> NYT: The panel said it was interested in conversations the top House Republican had with Donald J. Trump on the day of the riot and in its aftermath. 
+ <p class="updated_time"> 03:05 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/filibuster-polls-analysis/index.html">Many Americans don't know what to make of the filibuster, polls find</a> CNN: Americans, according to polls taken last year, aren't likely to hold strongly formed opinions on the Senate's filibuster rules. Those who do have a preference are divided, with views generally following party lines, although there's plenty of room for opinions to solidify. 
  <p class="updated_time"> 02:53 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html">An Alabama Town’s Sewage Woes Test Biden’s Infrastructure Ambitions</a> NYT: The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most? 
  <p class="updated_time"> 02:46 PM CT, Jan. 12 </p> 
@@ -214,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/biden-trump-nuclear-weapons-526976">Biden team weighs killing Trump’s new nuclear weapons</a> Politico: Officials are considering canceling weapons that were backed by the last administration. 
  <p class="updated_time"> 02:25 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/matt-gaetz-grand-jury/index.html">Gaetz's ex-girlfriend arrives at federal courthouse, expected to testify before grand jury</a> CNN: An ex-girlfriend of Rep. Matt Gaetz, who is seen as a key witness in the ongoing investigation into alleged sex trafficking by the Florida Republican, entered an Orlando federal courthouse with her lawyer on Wednesday where a grand jury has been meeting, according to a CNN reporter on the scene. 
- <p class="updated_time"> 02:14 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/senate-democrats-voting-rights-push/index.html">Senate Democrats on brink of defeat on voting legislation despite frantic push </a> CNN: Senate Democrats are frantically searching for a way to pass voting legislation amid pressure from President Joe Biden, but the path ahead looks increasingly grim with influential moderates Joe Manchin and Kyrsten Sinema unlikely to support a rules change necessary to get the bills over the finish line despite a frantic lobbying campaign from their own party. 
  <p class="updated_time"> 01:59 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/economy/cpi-inflation-december-2021.html">CPI December 2021: Inflation Jumped at Fastest Pace Since 1982</a> NYT: The Consumer Price Index increased at the fastest pace in 40 years, a new report showed. 
  <p class="updated_time"> 01:50 PM CT, Jan. 12 </p> 
@@ -239,7 +239,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:48 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072463871/harry-reid-capitol-lies-in-state">Harry Reid lies in state at the U.S. Capitol</a> NPR: Reid was recalled as a "legendary leader" as colleagues and friends gathered to pay tribute to a hardscrabble Democrat who rose from poverty in Nevada to the most powerful position in the Senate. 
  <p class="updated_time"> 11:26 AM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/news/2022/01/12/biden-to-address-senate-dems-on-cusp-of-election-reform-showdown-526971">Biden to pitch Senate Democrats on rules changes</a> Politico: President Joe Biden will attend a special caucus meeting Thursday with Senate Democrats, as the party makes a concerted effort to pass elections reform and voting legislation. 
+ <a href="https://www.politico.com/news/2022/01/12/biden-to-address-senate-dems-on-cusp-of-election-reform-showdown-526971">Schumer reveals endgame for clash over filibuster and voting reform</a> Politico: The majority leader will trigger the battle over changing Senate rules when he moves to end debate on Democrats' elections reform bills. 
  <p class="updated_time"> 11:08 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/biden-administration-covid-masks-kn95-n95/index.html">Biden administration 'actively exploring' boosting supply of higher-quality N95, KN95 masks</a> CNN: The US Centers for Disease Control and Prevention has not changed its guidance on mask usage, but the Biden administration is "strongly considering" making higher quality masks, like N95 and KN95 masks, more available to Americans. 
  <p class="updated_time"> 11:07 AM CT, Jan. 12 </p> 
@@ -324,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/medicare-alzheimers-drug-trial-526943">Medicare won’t cover controversial Alzheimer’s drug — unless patients are in a clinical trial</a> Politico: FDA approved the drug on an accelerated pathway, which requires a fourth clinical trial to demonstrate that the drug actually slows cognitive decline. 
  <p class="updated_time"> 06:10 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/democrats-ron-johnson-2022.html">Why Democrats Aren't Attacking Ron Johnson for His Outlandish Comments</a> NYT: Ron Johnson has a history of making outlandish comments. But Democrats aren’t focusing on those for now. 
- <p class="updated_time"> 06:03 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/north-carolina-redistricting-gerrymander-decision/index.html">Court upholds NC GOP redistricting plan, but appeal to state Supreme Court is next</a> CNN: A state court in North Carolina refused on Tuesday to disturb the state legislative and US congressional redistricting plan drawn after the 2020 census, in a case that is expected to be decided by the North Carolina Supreme Court. 
  <p class="updated_time"> 05:39 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/democrats-are-looking-at-multiple-proposals-to-curb-the-filibuster.html">Democrats are looking at multiple proposals to curb the filibuster.</a> NYT: With a floor fight looming, Democrats have yet to settle on exactly how they would change the rules to sidestep Republican opposition to voting rights bills. 
  <p class="updated_time"> 05:32 PM CT, Jan. 11 </p> 
@@ -378,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
- <p class="updated_time"> 08:37 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/insurance-covid-tests.html">Insurers Will Have to Cover 8 At-Home Virus Tests Per Month</a> NYT: The Biden administration announced the new guidelines as it continued to work to get coronavirus tests to people regardless of their insurance status. 
  <p class="updated_time"> 07:10 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/democrats-filibuster-vote-526863">Dems' filibuster conundrum: It's not just Manchin and Sinema</a> Politico: Mark Kelly is undecided. Jon Tester likes a talking filibuster but is “not crazy” about making an exception for elections reform. And Jeanne Shaheen is promoting more modest changes. 
  <p class="updated_time"> 07:09 PM CT, Jan. 10 </p> 
