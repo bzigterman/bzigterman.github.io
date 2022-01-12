@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:49 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/world/who-omicron-coronavirus.html">W.H.O. Official Urges Countries Not to Relax Covid Guidelines</a> NYT: Over the past week, a staggering average of 2.6 million new cases a day has been reported, according to according to the Center for Systems Science and Engineering at Johns Hopkins University. 
+ <p class="updated_time"> 04:41 PM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59974939?at_medium=RSS&at_campaign=KARANGA">Hoda Muthana: Alabama IS bride loses appeal for return to US</a> BBC: US-born Hoda Muthana is a citizen and should be allowed to return with her son, the lawsuit argued. 
  <p class="updated_time"> 04:30 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/11/health/southern-africa-hiv-aids.html">In South Africa, Success Against H.I.V. Offers Hope </a> NYT: A former Africa correspondent, who covered the height of the AIDS epidemic there 15 years ago, finds lessons in the remarkable progress against that virus for our current fight. 
  <p class="updated_time"> 04:10 PM CT, Jan. 12 </p> 
@@ -57,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59951126?at_medium=RSS&at_campaign=KARANGA">Baby found by teenagers in -20C in Siberia doing well</a> BBC: The girl was found by teens whose family now want to adopt her if relatives cannot be found. 
  <p class="updated_time"> 10:19 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-definition.html">What Is NATO?</a> NYT: The North Atlantic Treaty Organization, a military alliance of Western powers, was created during the Cold War and remains central to Western diplomatic and military cooperation. 
- <p class="updated_time"> 09:01 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59944174?at_medium=RSS&at_campaign=KARANGA">Brazil rains: Minas Gerais hit by deadly landslides and floods</a> BBC: Landslides and flooding caused by torrential rains have killed at least 15 people in Minas Gerais. 
  <p class="updated_time"> 08:24 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59969509?at_medium=RSS&at_campaign=KARANGA">Covid-19: Chinese woman stuck in lockdown with blind date</a> BBC: A swift lockdown in China’s Zhengzhou means a woman is stuck at her date’s house. 
  <p class="updated_time"> 08:14 AM CT, Jan. 12 </p> 
@@ -198,7 +200,9 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:36 PM CT, Jan. 12 </p> 
+ <p class="updated_time"> 04:50 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/elections/pennsylvania-senate-david-mccormick.html">David McCormick Joins Republican Senate Primary in Pennsylvania</a> NYT: A former Treasury official, Mr. McCormick has drawn comparisons to Glenn Youngkin, the financier recently elected governor of Virginia. 
+ <p class="updated_time"> 04:39 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/mitch-mcconnell-biden-speech-reaction/index.html">Mitch McConnell calls Biden's speech 'incoherent' and 'beneath his office'</a> CNN: Senate Minority Leader Mitch McConnell blasted President Joe Biden's speech pushing for the Senate to change its filibuster rules to pass voting and elections legislation, saying Biden compared "a bipartisan majority of senators to literal traitors." 
  <p class="updated_time"> 04:32 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072548488/what-trump-told-npr-about-the-republican-party-before-he-hung-up">What Trump told NPR about the Republican party before he hung up</a> NPR: Former President Trump cut his NPR interview off abruptly when pressed about his election lies. Trump revealed a clear rift some Republican senators who have confirmed the truth that Biden won. 
@@ -306,6 +310,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072371689/nato-and-russia-in-high-level-talks-as-ukraine-tensions-simmer">No breakthrough in Ukraine meeting, but NATO and Russia might talk more</a> NPR: Russia's delegation remained open to the prospect of future discussions after having its main positions rebuffed by NATO and the U.S. 
  <p class="updated_time"> 11:02 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/biden-voting-rights-legislative-legacy/index.html">Tuesday's speech marked an evolution in Biden as president</a> CNN: It took a year for Joe Biden to make an irrevocable bet that puts the credibility of his presidency on the line. If his bid now to change Senate rules to pass voting rights legislation fails, he'll lose more than just the bills he sees as vital to saving democracy. His drained political capital could spell the end of the entire domestic, legislative phase of his administration. 
+ <p class="updated_time"> 10:50 PM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/georgias-voting-rights-advocates-joe-biden-526962">Biden confronts a skeptical base as he pushes voting rights in Georgia</a> Politico: The president made a forceful case to revamp the Senate rules and pass election laws. But his base has grown dubious. 
  <p class="updated_time"> 10:47 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/records-former-labor-leader-subpoenaed-526961">Records of former labor leader and close Biden ally subpoenaed</a> Politico: A grand jury is probing Harold Schaitberger's financial activities as the leader of the International Association of Fire Fighters. 
  <p class="updated_time"> 10:12 PM CT, Jan. 11 </p> 
@@ -332,10 +338,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/medicare-alzheimers-drug-trial-526943">Medicare won’t cover controversial Alzheimer’s drug — unless patients are in a clinical trial</a> Politico: FDA approved the drug on an accelerated pathway, which requires a fourth clinical trial to demonstrate that the drug actually slows cognitive decline. 
  <p class="updated_time"> 06:21 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/north-carolina-gop-map-redistricting-526931">North Carolina court declines to toss out GOP-drawn House map</a> Politico: Democratic plaintiffs challenged the state's maps as illegal partisan gerrymanders and are planning to appeal to the state Supreme Court. 
+ <p class="updated_time"> 06:15 PM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/democrats-covid-strategy-526924">'Rules need to be clear': Dems call for Covid strategy reset as cases spike</a> Politico: Congressional Democrats fret that the White House's strategy on Covid in recent weeks has been confusing and ineffective against the Omicron variant. 
  <p class="updated_time"> 06:10 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/democrats-ron-johnson-2022.html">Why Democrats Aren't Attacking Ron Johnson for His Outlandish Comments</a> NYT: Ron Johnson has a history of making outlandish comments. But Democrats aren’t focusing on those for now. 
- <p class="updated_time"> 05:39 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/democrats-are-looking-at-multiple-proposals-to-curb-the-filibuster.html">Democrats are looking at multiple proposals to curb the filibuster.</a> NYT: With a floor fight looming, Democrats have yet to settle on exactly how they would change the rules to sidestep Republican opposition to voting rights bills. 
  <p class="updated_time"> 05:32 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/mike-rounds-republican-defense/index.html">Top Republicans stand up for Rounds after Trump's attack: He 'told the truth'</a> CNN: Senior Republicans are closing ranks behind Sen. Mike Rounds after he endured a scathing attack from former President Donald Trump for acknowledging the reality that President Joe Biden won the 2020 election. 
  <p class="updated_time"> 05:10 PM CT, Jan. 11 </p> 
@@ -396,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
  <p class="updated_time"> 09:07 AM CT, Jan. 09 </p> 
  <a href="https://www.cnn.com/2022/01/09/politics/biden-student-loan-for-profit-college/index.html">Why Biden's student loan relief efforts haven't yet reversed a DeVos decision on for-profit colleges</a> CNN: The Biden administration has pledged to make college more affordable. But it has chosen not to reinstate an Obama-era rule meant to prevent students from taking on too much debt to attend predatory for-profit colleges. 
- <p class="updated_time"> 07:00 AM CT, Jan. 09 </p> 
- <a href="https://www.politico.com/news/2022/01/09/joe-biden-takes-on-georgia-voting-526801">‘We are going right to the belly of the beast’: Biden takes on Georgia</a> Politico: Fresh off his Jan. 6 anniversary speech, the president and his top aides are trying to keep up the momentum for some legislative remedy. 
  <p class="updated_time"> 12:41 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/senate-minority-whip-john-thune-to-run-for-reelection-526794">Senate Minority Whip John Thune to run for reelection</a> Politico: The 61-year-old South Dakotan is widely viewed as a potential successor to Senate Minority Leader Mitch McConnell 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
