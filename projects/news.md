@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:46 AM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072371689/nato-and-russia-in-high-level-talks-as-ukraine-tensions-simmer">NATO and Russia in high-level talks as Ukraine tensions simmer</a> NPR: The meeting comes during a week of high-stakes diplomacy and a U.S.-led effort to prevent what Washington believes could be a Russian invasion of Ukraine. Moscow denies it is planning an attack. 
  <p class="updated_time"> 02:04 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: The tennis star addresses "ongoing misinformation" as Australia decides on his deportation. 
  <p class="updated_time"> 12:43 AM CT, Jan. 12 </p> 
@@ -46,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:47 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/science/shirley-mcgreal-dead.html">Shirley McGreal, Champion of Primates Under Threat, Dies at 87</a> NYT: She exposed smuggling rings and research laboratories and built a sanctuary for gibbons in South Carolina. 
  <p class="updated_time"> 04:38 PM CT, Jan. 11 </p> 
- <a href="https://www.wsj.com/articles/novak-djokovic-says-his-agent-made-mistake-on-australia-travel-declaration-11641958725">Djokovic Says Agent Made Mistake on Australia Travel Declaration</a> WSJ: Novak Djokovic said his agent made an error on a travel document ahead of his trip to Australia, while also acknowledging he attended an event after receiving a positive Covid-19 test result last month. 
+ <a href="https://www.wsj.com/articles/novak-djokovic-says-his-agent-made-mistake-on-australia-travel-declaration-11641958725">Djokovic Says Agent Made Mistake on Travel Document</a> WSJ: Novak Djokovic said his agent made an error on a travel document ahead of his trip to Australia, while also acknowledging he attended an event after receiving a positive Covid-19 test result last month. 
  <p class="updated_time"> 04:28 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183501/could-the-u-s-really-cripple-the-russian-economy-like-biden-warns">Could the U.S. really cripple the Russian economy like Biden warns?</a> NPR: President Biden has threatened Russia with massive sanctions if it follows through on threats to take more Ukrainian territory. 
  <p class="updated_time"> 04:24 PM CT, Jan. 11 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/europe/cladding-grenfell-uk.html">Nearly 5 Years After Grenfell Fire, U.K. Tells Developers to Pay for Upgrades</a> NYT: After a deadly high-rise blaze in 2017, countless instances of unsafe building practices came to light. The latest plan to address them expands who will be covered. 
  <p class="updated_time"> 02:40 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072018967/north-korea-launches-another-suspected-missile-amid-stalled-talks-with-the-u-s">North Korea launches another suspected missile amid stalled talks with the U.S.</a> NPR: The launch corresponded with an unexplained order by the FAA to ground some flights on the U.S. West Coast. 
- <p class="updated_time"> 02:11 AM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072016749/djokovic-gets-some-court-time-in-australia-as-leaders-discuss-his-visa">Djokovic gets some court time in Australia as leaders discuss his visa</a> NPR: The prime ministers of Australia and Serbia talked by phone about the tennis star's visa as he is seeded No. 1 in Australian Open. 
  <p class="updated_time"> 02:08 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59949236?at_medium=RSS&at_campaign=KARANGA">First pig heart to human transplant is a game-changer, say surgeons</a> BBC: In a world first, a pig heart has been successfully transplanted into a human by surgeons in the US. 
  <p class="updated_time"> 01:21 AM CT, Jan. 11 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:46 AM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072371689/nato-and-russia-in-high-level-talks-as-ukraine-tensions-simmer">NATO and Russia in high-level talks as Ukraine tensions simmer</a> NPR: The meeting comes during a week of high-stakes diplomacy and a U.S.-led effort to prevent what Washington believes could be a Russian invasion of Ukraine. Moscow denies it is planning an attack. 
  <p class="updated_time"> 01:29 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/biden-senate-voting-rights-filibuster-what-matters/index.html">Analysis: How Biden heaped shame on the Senate in thundering speech</a> CNN: Pressure has failed. Negotiation has failed. Allowing Sen. Joe Manchin to craft his own voting rights bill has failed. 
  <p class="updated_time"> 11:26 PM CT, Jan. 11 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1072029936/cyber-risks-add-to-climate-threat-world-economic-forum-warns">Cyber risks add to climate threat, World Economic Forum warns</a> NPR: Survey of 1,000 experts and leaders finds cybersecurity and space add to the existing challenges of climate change and the coronavirus pandemic. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
- <p class="updated_time"> 04:10 AM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072019258/morning-news-brief">News brief: voting rights speech, schools juggle COVID, Novak Djokovic</a> NPR: In Atlanta, Biden will advocate for protecting voting rights. Some schools resume online classes because of COVID-19. The latest on the saga in Australia involving tennis star Novak Djokovic. 
  <p class="updated_time"> 02:11 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-transfer-somali-detainee.html">Guantánamo Panel Approves Transfer of First High-Value Detainee</a> NYT: Guled Duran, a Somali, has been held in classified facilities since the C.I.A. took custody of him in 2004. He has never been charged with a crime. 
  <p class="updated_time"> 11:09 PM CT, Jan. 10 </p> 
