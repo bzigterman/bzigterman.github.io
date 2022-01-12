@@ -22,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:55 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072294207/many-of-those-who-died-in-the-bronx-apartment-fire-were-from-west-africa">Many of those who died in the Bronx apartment fire were from West Africa</a> NPR: The dead included 11 people from Gambia. A spokesperson for the medical examiner's office said officials are working to confirm the identities of the victims — nine adults and eight children. 
  <p class="updated_time"> 07:08 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59946364?at_medium=RSS&at_campaign=KARANGA">Can the 'Silver Fox' outwit Vladimir Putin?</a> BBC: Wendy Sherman, a former social worker-turned-top US diplomat, is helping lead the Russia talks. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59946364?at_medium=RSS&at_campaign=KARANGA">Can the 'Silver Fox' outwit Vladimir Putin?</a> BBC: Wendy Sherman, a former social worker-turned-top US diplomat, is helping lead US-Russia talks. 
  <p class="updated_time"> 06:48 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59948946?at_medium=RSS&at_campaign=KARANGA">A year on, has Trump benefited from a Twitter ban?</a> BBC: The ex-president was expelled from Twitter a year ago. What impact has it had - and will he be back? 
  <p class="updated_time"> 06:28 PM CT, Jan. 11 </p> 
