@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:08 PM CT, Jan. 12 </p> 
+ <p class="updated_time"> 02:23 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/01/12/world/russia-ukraine-nato-us">Live Updates: Deep Divides Remain After Latest Russia-NATO Talks on Ukraine</a> NYT: A four-hour meeting at the alliance’s headquarters in Brussels was part of a diplomatic push aimed at Russia, which has positioned close to 100,000 troops near Ukraine’s borders. A meeting between U.S. and Russian officials on Monday was inconclusive. 
+ <p class="updated_time"> 02:20 PM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59956831?at_medium=RSS&at_campaign=KARANGA">Aras Amiri: British Council says jailed employee freed by Iran</a> BBC: Aras Amiri, an Iranian citizen, returns to the UK after being acquitted of spying on appeal. 
  <p class="updated_time"> 01:49 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072483665/boris-johnson-apologizes-party">Boris Johnson apologizes for a BYOB party held as the U.K. was in COVID lockdown</a> NPR: Labour Party leader Keir Starmer called Prime Minister Boris Johnson's apology worthless, adding that his defense is that "he didn't realize he was at a party." 
  <p class="updated_time"> 01:43 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/nyregion/prince-andrew-epstein-lawsuit-virginia-giuffre.html">Epstein Accuser’s Lawsuit Against Prince Andrew Can Proceed, Judge Rules</a> NYT: Virginia Giuffre has sued Andrew, the second son of Queen Elizabeth II, accusing him of raping her when she was a teenager. 
  <p class="updated_time"> 01:21 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/china-zero-covid-policy-xian.html">The Army of Millions Who Enforce China’s Zero-Covid Policy</a> NYT: As the troubled lockdown in Xi’an has shown, many Chinese people remain willing to work diligently toward the government’s goal of eliminating the virus, no matter the consequences. 
+ <p class="updated_time"> 01:21 PM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59963285?at_medium=RSS&at_campaign=KARANGA">Escaped Dutch youth offender shot dead in Belgium</a> BBC: The young man reportedly took two people hostage, drove over the border and opened fire on police. 
  <p class="updated_time"> 01:19 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/russia-sanctions-ukraine-nord-stream-pipeline.html">Senate Democrats Try to Advance Russia Sanctions Over Ukraine </a> NYT: The Democrats’ bill would impose new sanctions on Russian officials if Moscow invaded Ukraine. 
  <p class="updated_time"> 12:48 PM CT, Jan. 12 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59971955?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US says Russia faces stark choice</a> BBC: Russia is told it must decide between de-escalation and diplomacy, or confrontation and consequences. 
  <p class="updated_time"> 12:14 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-uk-parties.html">Boris Johnson, Under Fire, Apologizes for Pandemic Party</a> NYT: The British prime minister, on the defensive after a series of ethical lapses, said, “There were things we simply did not get right” about a gathering at Downing Street during a lockdown in 2020. 
- <p class="updated_time"> 11:58 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59956831?at_medium=RSS&at_campaign=KARANGA">Aras Amiri: British Council says jailed employee freed by Iran</a> BBC: Aras Amiri, an Iranian citizen, returns to the UK after being acquitted of spying on appeal. 
  <p class="updated_time"> 11:55 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59871514?at_medium=RSS&at_campaign=KARANGA">Prince Andrew to face civil sex assault case after US ruling</a> BBC: Virginia Giuffre's claims against the Duke of York can continue to be heard, a US court says. 
  <p class="updated_time"> 11:50 AM CT, Jan. 12 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/omicron-puts-chinas-zero-covid-strategy-to-its-toughest-test-11642003293">Omicron Puts China's 'Zero-Covid' Strategy to Its Toughest Test</a> WSJ: The country’s continuing effort to remain in a bubble points to more frequent and longer-lasting restrictions with the arrival of the highly contagious variant. 
  <p class="updated_time"> 07:04 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59964598?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Newsreaders caught in expletive-laden rant</a> BBC: A leaked video shows Australian journalists giving candid opinions on the tennis star's visa saga. 
- <p class="updated_time"> 06:16 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59963281?at_medium=RSS&at_campaign=KARANGA">Greek sailing coach in rape trial over MeToo revelations</a> BBC: When an Olympic champion spoke out about abuse, a young woman alleged she was raped by her coach. 
  <p class="updated_time"> 05:36 AM CT, Jan. 12 </p> 
  <a href="https://www.wsj.com/articles/ethiopian-government-repels-rebels-pledges-peace-talks-11642005374">Ethiopian Government Repels Rebels, Pledges Peace Talks</a> WSJ: In a sharp reversal of fortunes, troops under Prime Minister Abiy Ahmed have forced Tigray People’s Liberation Front fighters back into their mountainous homeland in the country’s north. 
  <p class="updated_time"> 05:24 AM CT, Jan. 12 </p> 
@@ -196,24 +196,26 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:10 PM CT, Jan. 12 </p> 
+ <a href="https://www.politico.com/news/2022/01/12/inflation-biden-economy-agenda-526980">Price spikes threaten to ground Biden's big-spending plans</a> Politico: The government reported on Wednesday that the consumer price index, the most widely watched gauge of inflation, hit a four-decade high of 7 percent in December compared to the previous year. 
+ <p class="updated_time"> 02:31 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/business/irs-backlog-tax-returns-2021.html">I.R.S. to Start Tax Season With Major Backlog </a> NYT: At least 10 million returns from last year remain unprocessed because of short-staffing at the tax collector, according to the national taxpayer advocate. 
  <p class="updated_time"> 02:30 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/biden-trump-nuclear-weapons-526976">Biden team weighs killing Trump’s new nuclear weapons</a> Politico: Officials are considering canceling weapons that were backed by the last administration. 
- <p class="updated_time"> 02:10 PM CT, Jan. 12 </p> 
+ <p class="updated_time"> 02:30 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html">As Infrastructure Money Flows, Wastewater Improvements Are Key</a> NYT: The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most? 
+ <p class="updated_time"> 02:25 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/matt-gaetz-grand-jury/index.html">Gaetz's ex-girlfriend enters Florida courthouse where grand jury investigating the congressman meets</a> CNN: An ex-girlfriend of Rep. Matt Gaetz, who is seen as a key witness in the ongoing investigation into alleged sex trafficking by the Florida Republican, entered an Orlando federal courthouse with her lawyer on Wednesday where a grand jury has been meeting, according to a CNN reporter on the scene. 
+ <p class="updated_time"> 02:14 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/senate-democrats-voting-rights-push/index.html">Senate Democrats on brink of defeat on voting legislation despite frantic push </a> CNN: Senate Democrats are frantically searching for a way to pass voting legislation amid pressure from President Joe Biden, but the path ahead looks increasingly grim with influential moderates Joe Manchin and Kyrsten Sinema unlikely to support a rules change necessary to get the bills over the finish line despite a frantic lobbying campaign from their own party. 
  <p class="updated_time"> 01:59 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/economy/cpi-inflation-december-2021.html">CPI December 2021: Inflation Jumped at Fastest Pace Since 1982</a> NYT: The Consumer Price Index increased at the fastest pace in 40 years, a new report showed. 
- <p class="updated_time"> 01:54 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/matt-gaetz-grand-jury/index.html">Gaetz's ex-girlfriend enters Florida courthouse where grand jury investigating the congressman meets</a> CNN: An ex-girlfriend of Rep. Matt Gaetz, who is seen as a key witness in the ongoing investigation into alleged sex trafficking by the Florida Republican, entered an Orlando federal courthouse with her lawyer on Wednesday where a grand jury has been meeting, according to a CNN reporter on the scene. 
  <p class="updated_time"> 01:50 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/irs-tax-filing-season-jan-24-returns/index.html">IRS is in 'crisis,' facing massive backlog as new tax season starts</a> CNN: The Internal Revenue Service had more than 11 million unprocessed tax returns left over from the "most challenging year" taxpayers ever experienced and will begin the upcoming filing season already behind, according to a report from the National Taxpayer Advocate released Wednesday. 
  <p class="updated_time"> 01:49 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072483665/boris-johnson-apologizes-party">Boris Johnson apologizes for a BYOB party held as the U.K. was in COVID lockdown</a> NPR: Labour Party leader Keir Starmer called Prime Minister Boris Johnson's apology worthless, adding that his defense is that "he didn't realize he was at a party." 
- <p class="updated_time"> 01:35 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/senate-democrats-voting-rights-push/index.html">Senate Democrats on brink of defeat on voting legislation despite frantic push </a> CNN: Senate Democrats are frantically searching for a way to pass voting legislation amid pressure from President Joe Biden, but the path ahead looks increasingly grim with influential moderates Joe Manchin and Kyrsten Sinema unlikely to support a rules change necessary to get the bills over the finish line despite a frantic lobbying campaign from their own party. 
  <p class="updated_time"> 01:30 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/fact-check-walensky-cdc-comorbidities-good-morning-america/index.html">Fact check: Right-wing figures falsely describe CDC director's comments about Covid-19 deaths</a> CNN: Prominent right-wing figures have been falsely describing a comment the director of the US Centers for Disease Control and Prevention made last week about Covid-19 deaths -- taking Dr. Rochelle Walensky out of context to wrongly claim she had delivered a dramatic new admission about the 840,000-plus Americans who have died of the virus. 
- <p class="updated_time"> 01:23 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/business/irs-backlog-tax-returns-2021.html">I.R.S. to Start Tax Season With Major Backlog </a> NYT: At least 10 million returns from last year remain unprocessed because of short-staffing at the tax collector, according to the national taxpayer advocate. 
  <p class="updated_time"> 01:22 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/harry-reid-lying-in-state/index.html">Body of ex-Senate Democratic leader Harry Reid lying in state in Capitol Rotunda</a> CNN: The body of former Senate Democratic leader Harry Reid will lie in state in the Rotunda of the US Capitol on Wednesday, a rare honor granted by Congress to about three dozen other Americans, including former presidents, Supreme Court justices, lawmakers and national security officials. 
  <p class="updated_time"> 01:17 PM CT, Jan. 12 </p> 
@@ -288,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072359797/djokovic-clarifies-timeline-before-arriving-in-australia-as-visa-saga-continues">Djokovic admits a mistake on his Australia travel form and outlines COVID test timing</a> NPR: Djokovic moved to clarify the timeline about the period when he was infectious last month and about errors on the travel document he used to enter Australia to defend his Australian Open tennis title. 
  <p class="updated_time"> 11:02 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/biden-voting-rights-legislative-legacy/index.html">Tuesday's speech marked an evolution in Biden as president</a> CNN: It took a year for Joe Biden to make an irrevocable bet that puts the credibility of his presidency on the line. If his bid now to change Senate rules to pass voting rights legislation fails, he'll lose more than just the bills he sees as vital to saving democracy. His drained political capital could spell the end of the entire domestic, legislative phase of his administration. 
- <p class="updated_time"> 10:50 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/georgias-voting-rights-advocates-joe-biden-526962">Biden confronts a skeptical base as he pushes voting rights in Georgia</a> Politico: The president made a forceful case to revamp the Senate rules and pass election laws. But his base has grown dubious. 
  <p class="updated_time"> 10:47 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/records-former-labor-leader-subpoenaed-526961">Records of former labor leader and close Biden ally subpoenaed</a> Politico: A grand jury is probing Harold Schaitberger's financial activities as the leader of the International Association of Fire Fighters. 
  <p class="updated_time"> 10:12 PM CT, Jan. 11 </p> 
@@ -356,6 +356,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/mary-trump-lawsuit/index.html">Lawyers for Trump and niece Mary Trump spar over lawsuit alleging she was defrauded in family settlement</a> CNN: Lawyers for former President Donald Trump and his niece Mary Trump sparred in court Tuesday over whether her lawsuit alleging she was defrauded of millions of dollars in a 2001 family settlement could move forward. 
  <p class="updated_time"> 01:45 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/biden-n95-mask-distribution-526889">Biden health team weighs new mask distribution plan</a> Politico: Officials in favor of distributing the masks to the public have pushed for a decision as soon as Thursday. 
+ <p class="updated_time"> 12:16 PM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/david-mccormick-senate-campaign-trump-526870">McCormick MAGA-proofs his Senate campaign after dissing Trump</a> Politico: The new Pennsylvania candidate is certain to face GOP primary attacks. 
  <p class="updated_time"> 11:58 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/political-influence-on-science-federal-government/index.html">Biden administration tells federal agencies how to safeguard against political influence on science</a> CNN: The Biden administration is calling on government agencies to strengthen their policies against inappropriate political influence when it comes to the science that guides decision-making, according to a new report. 
  <p class="updated_time"> 11:10 AM CT, Jan. 11 </p> 
@@ -380,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-hill-democrats-russia-sanctions-526864">Biden administration hits the Hill to lobby Dems against GOP-backed Russia sanctions</a> Politico: But some centrists left the room noncommittal on Sen. Ted Cruz's push to block a gas pipeline that would benefit Moscow. 
  <p class="updated_time"> 06:58 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/maya-angelou-quarter-issued/index.html">Maya Angelou becomes first Black woman to appear on US quarter as Treasury begins distribution</a> CNN: A new US quarter featuring the late Maya Angelou went into circulation Monday, the US Mint announced, making the legendary poet and activist the first Black woman ever to appear on the coin. 
- <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
- <a href="https://www.politico.com/news/2022/01/10/biden-administration-at-home-covid-tests-reimbursement-526853">Biden administration lays out rules for reimbursing at-home Covid tests</a> Politico: Under the plan, private insurers can set up programs at preferred pharmacies or retailers where the upfront cost of home tests is covered for beneficiaries. 
  <p class="updated_time"> 03:00 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/trump-immunity-jan-6-526839">Judge mulls whether Trump’s silence on Jan. 6 could amount to ‘agreement’ with rioters</a> Politico: During a hearing on civil lawsuits stemming from the Capitol attack, Donald Trump’s lawyers claimed sweeping immunity for the former president. 
  <p class="updated_time"> 07:29 AM CT, Jan. 10 </p> 
