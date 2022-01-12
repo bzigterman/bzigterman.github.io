@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:57 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/sports/tennis/novak-djokovic-covid-positive-australia.html">Novak Djokovic Tested Positive: A Timeline of What Happened Next</a> NYT: If a tennis star knew he was positive for the coronavirus, why did he keep making public appearances without a mask? 
+ <p class="updated_time"> 09:21 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/sports/tennis/novak-djokovic-covid-positive-australia.html">Novak Djokovic Tested Positive: A Timeline of What Happened Next</a> NYT: After confusion emerged, he claimed not to have known of his positive result until after some appearances and said he regretted keeping a scheduled interview once he did know. 
+ <p class="updated_time"> 09:07 PM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59956068?at_medium=RSS&at_campaign=KARANGA">Biden pushes overhaul of US election laws in fiery speech</a> BBC: "I'm tired of being quiet," the president says, as he calls on Congress to back his sweeping reforms. 
  <p class="updated_time"> 08:46 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
  <p class="updated_time"> 07:55 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072294207/many-of-those-who-died-in-the-bronx-apartment-fire-were-from-west-africa">Many of those who died in the Bronx apartment fire were from West Africa</a> NPR: The dead included 11 people from Gambia. A spokesperson for the medical examiner's office said officials are working to confirm the identities of the victims — nine adults and eight children. 
+ <p class="updated_time"> 07:08 PM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59946364?at_medium=RSS&at_campaign=KARANGA">Can the 'Silver Fox' outwit Vladimir Putin?</a> BBC: Wendy Sherman, a former social worker-turned-top US diplomat, is helping lead the Russia talks. 
  <p class="updated_time"> 06:48 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59948946?at_medium=RSS&at_campaign=KARANGA">A year on, has Trump benefited from a Twitter ban?</a> BBC: The ex-president was expelled from Twitter a year ago. What impact has it had - and will he be back? 
  <p class="updated_time"> 06:28 PM CT, Jan. 11 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/world/europe/who-europe-covid-omicron-infection.html">Over Half of Europe Could Be Infected With Coronavirus Soon, W.H.O. Says</a> NYT: The agency cautioned against treating the virus like the seasonal flu, since much remains unknown, particularly regarding the severity in areas with lower vaccination rates. 
  <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59955682?at_medium=RSS&at_campaign=KARANGA">The 52-year-search for a missing girl</a> BBC: On 12 January 1970, a British toddler disappeared from Fairy Meadow beach in NSW, Australia. 
- <p class="updated_time"> 05:39 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59956068?at_medium=RSS&at_campaign=KARANGA">Biden calls for 'turning point' on election laws</a> BBC: The president warns of a "grave" threat to democracy, but Republicans say no such threat exists. 
  <p class="updated_time"> 05:18 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59960689?at_medium=RSS&at_campaign=KARANGA">Covid: Quebec to impose health tax on unvaccinated Canadians</a> BBC: The unvaccinated represent 15% of the population, but over half of all hospital admissions. 
  <p class="updated_time"> 05:03 PM CT, Jan. 11 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59942994?at_medium=RSS&at_campaign=KARANGA">Fighting the darknet drug dealers who keep coming back</a> BBC: BBC research finds hundreds of dealers who have survived multiple police shutdowns of darknet marketplaces. 
  <p class="updated_time"> 08:00 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/spain-student-housing-dorms.html">Dorms Pop Up in Spain as More Students Seek Housing Away From Home</a> NYT: The country’s student population has become increasingly mobile, fueling investments in accommodations, largely funded by foreign capital. 
- <p class="updated_time"> 07:49 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59952323?at_medium=RSS&at_campaign=KARANGA">Italian raids after New Year sexual assaults in Milan</a> BBC: Nine young women have come forward to say they were attacked while celebrating in central Milan. 
  <p class="updated_time"> 07:04 AM CT, Jan. 11 </p> 
  <a href="https://www.wsj.com/articles/downing-street-lockdown-parties-leave-headache-for-boris-johnson-11641924249">Downing Street Lockdown Parties Leave Headache for Boris Johnson</a> WSJ: Allegations of social-distancing violations at the prime minister’s residence are hitting U.K. Conservatives as economic woes also take a toll on the party’s poll numbers. 
  <p class="updated_time"> 06:26 AM CT, Jan. 11 </p> 
@@ -198,10 +198,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:12 PM CT, Jan. 11 </p> 
+ <a href="https://www.politico.com/news/2022/01/11/china-covid-lockdowns-olympics-526960">China locks down third city, raising affected to 20 million</a> Politico: The approach of the Winter Olympics and the emergence of Omicron have brought back citywide lockdowns. 
+ <p class="updated_time"> 09:12 PM CT, Jan. 11 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, President Biden, who had long been leery of whittling away at the filibuster, said such Senate traditions had been abused by Republicans. 
  <p class="updated_time"> 08:38 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/guantanamo-detainees-cleared-for-release/index.html">2 Guantanamo detainees cleared for release as prison marks 20 years</a> CNN: Two detainees who have been at the US detention facility in Guantanamo Bay, Cuba, for more than a decade have been cleared for release, according to public documents. The decisions come as the prison marked 20 years this week since it was opened under the George W. Bush administration, a few months after the September 11 terrorist attacks. 
- <p class="updated_time"> 08:30 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-voting-rights.html">Biden to Endorse Changing Filibuster to Pass Voting Rights Laws</a> NYT: In Georgia, President Biden, who had long been leery of whittling away at the filibuster, said such Senate traditions had been abused by Republicans. 
  <p class="updated_time"> 08:21 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-senate-history.html">Biden’s Longtime Defense of Senate Rules Withers Under Partisan Rancor</a> NYT: The president left no doubt that he has reached a breaking point, lashing out at senators who are blocking voting rights legislation. 
  <p class="updated_time"> 08:09 PM CT, Jan. 11 </p> 
