@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:48 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-russia-talks-ukraine-brussels.html">NATO and Russia Talk Frankly, but Past One Another for Now</a> NYT: Four hours of frank and serious discussion between Russia and the 30-member alliance leave unanswered whether Vladimir V. Putin will choose diplomacy or war. 
+ <p class="updated_time"> 02:40 PM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59974220?at_medium=RSS&at_campaign=KARANGA">Virginia Giuffre: What we know about Prince Andrew's accuser</a> BBC: What we know about the woman who has accused the British royal of sexual assault. 
  <p class="updated_time"> 02:31 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/spanish-doctors-ppe-settlement.html">Spanish Doctors Left Without P.P.E. Early in Pandemic Win Settlement</a> NYT: The ruling was the first in a raft of suits brought by doctors and nurses in Spain who say they worked without masks, gowns or surgical gloves. 
  <p class="updated_time"> 02:20 PM CT, Jan. 12 </p> 
@@ -88,7 +90,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:46 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
  <p class="updated_time"> 07:55 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072294207/many-of-those-who-died-in-the-bronx-apartment-fire-were-from-west-africa">Many of those who died in the Bronx apartment fire were from West Africa</a> NPR: The dead included 11 people from Gambia. A spokesperson for the medical examiner's office said officials are working to confirm the identities of the victims — nine adults and eight children. 
+ <a href="https://www.npr.org/2022/01/11/1072294207/many-of-those-who-died-in-the-bronx-apartment-fire-were-from-west-africa">Many of those who died in the Bronx apartment fire were from West Africa</a> NPR: The 17 victims of Sunday's blaze ranged from 2 to 50 years old. The dead included 11 people from Gambia. Many families are now struggling to prepare for their loved ones' funerals. 
  <p class="updated_time"> 07:08 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59946364?at_medium=RSS&at_campaign=KARANGA">Can the 'Silver Fox' outwit Vladimir Putin?</a> BBC: Wendy Sherman, a former social worker-turned-top US diplomat, is helping lead US-Russia talks. 
  <p class="updated_time"> 06:48 PM CT, Jan. 11 </p> 
@@ -200,6 +202,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/jan-6-select-panel-to-seek-mccarthys-testimony-526983">Jan. 6 select panel to seek McCarthy's testimony</a> Politico: It follows months of speculation about when the panel would seek the California Republican's cooperation with their probe. 
  <p class="updated_time"> 03:10 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/inflation-biden-economy-agenda-526980">Price spikes threaten to ground Biden's big-spending plans</a> Politico: The government reported on Wednesday that the consumer price index, the most widely watched gauge of inflation, hit a four-decade high of 7 percent in December compared to the previous year. 
+ <p class="updated_time"> 03:08 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/kevin-mccarthy-january-6/index.html">January 6 committee asks McCarthy to voluntarily provide information to probe</a> CNN: The House select committee investigating the January 6 riot is asking Minority Leader Kevin McCarthy, a California Republican, to voluntarily provide information to the panel, a major development in the sweeping investigation, according to a new letter released Wednesday. 
+ <p class="updated_time"> 03:05 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html">Jan. 6 Committee Asks Kevin McCarthy for Interview</a> NYT: The panel said it was interested in conversations the top House Republican had with Donald J. Trump on the day of the riot and in its aftermath. 
  <p class="updated_time"> 02:53 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html">An Alabama Town’s Sewage Woes Test Biden’s Infrastructure Ambitions</a> NYT: The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most? 
  <p class="updated_time"> 02:46 PM CT, Jan. 12 </p> 
@@ -207,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:30 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/biden-trump-nuclear-weapons-526976">Biden team weighs killing Trump’s new nuclear weapons</a> Politico: Officials are considering canceling weapons that were backed by the last administration. 
  <p class="updated_time"> 02:25 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/matt-gaetz-grand-jury/index.html">Gaetz's ex-girlfriend enters Florida courthouse where grand jury investigating the congressman meets</a> CNN: An ex-girlfriend of Rep. Matt Gaetz, who is seen as a key witness in the ongoing investigation into alleged sex trafficking by the Florida Republican, entered an Orlando federal courthouse with her lawyer on Wednesday where a grand jury has been meeting, according to a CNN reporter on the scene. 
+ <a href="https://www.cnn.com/2022/01/12/politics/matt-gaetz-grand-jury/index.html">Gaetz's ex-girlfriend arrives at federal courthouse, expected to testify before grand jury</a> CNN: An ex-girlfriend of Rep. Matt Gaetz, who is seen as a key witness in the ongoing investigation into alleged sex trafficking by the Florida Republican, entered an Orlando federal courthouse with her lawyer on Wednesday where a grand jury has been meeting, according to a CNN reporter on the scene. 
  <p class="updated_time"> 02:14 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/senate-democrats-voting-rights-push/index.html">Senate Democrats on brink of defeat on voting legislation despite frantic push </a> CNN: Senate Democrats are frantically searching for a way to pass voting legislation amid pressure from President Joe Biden, but the path ahead looks increasingly grim with influential moderates Joe Manchin and Kyrsten Sinema unlikely to support a rules change necessary to get the bills over the finish line despite a frantic lobbying campaign from their own party. 
  <p class="updated_time"> 01:59 PM CT, Jan. 12 </p> 
@@ -316,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/us/politics/north-carolina-redistricting.html">North Carolina Court Upholds Republican Gerrymander of Maps</a> NYT: The ruling set up a final battle over the maps in the state Supreme Court, where Democrats hold a slim edge. 
  <p class="updated_time"> 06:30 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/medicare-alzheimers-drug-trial-526943">Medicare won’t cover controversial Alzheimer’s drug — unless patients are in a clinical trial</a> Politico: FDA approved the drug on an accelerated pathway, which requires a fourth clinical trial to demonstrate that the drug actually slows cognitive decline. 
- <p class="updated_time"> 06:26 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/business/powell-confirmation-hearing.html"> Jerome Powell Says Fed Is Prepared to Raise Rates to Tame Inflation</a> NYT: The Federal Reserve chair testified before lawmakers while seeking Senate confirmation to a second term. 
  <p class="updated_time"> 06:10 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/democrats-ron-johnson-2022.html">Why Democrats Aren't Attacking Ron Johnson for His Outlandish Comments</a> NYT: Ron Johnson has a history of making outlandish comments. But Democrats aren’t focusing on those for now. 
  <p class="updated_time"> 06:03 PM CT, Jan. 11 </p> 
@@ -374,8 +378,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
- <p class="updated_time"> 07:54 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/home-covid-tests-health-insurance/index.html">Home Covid-19 tests must be paid for by health insurers starting Saturday</a> CNN: Health insurers must cover the cost of home Covid-19 tests starting January 15, the US Department of Health and Human Services announced Monday. 
+ <p class="updated_time"> 08:37 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/insurance-covid-tests.html">Insurers Will Have to Cover 8 At-Home Virus Tests Per Month</a> NYT: The Biden administration announced the new guidelines as it continued to work to get coronavirus tests to people regardless of their insurance status. 
  <p class="updated_time"> 07:10 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/democrats-filibuster-vote-526863">Dems' filibuster conundrum: It's not just Manchin and Sinema</a> Politico: Mark Kelly is undecided. Jon Tester likes a talking filibuster but is “not crazy” about making an exception for elections reform. And Jeanne Shaheen is promoting more modest changes. 
  <p class="updated_time"> 07:09 PM CT, Jan. 10 </p> 
