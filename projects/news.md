@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:30 PM CT, Jan. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: In a lengthy statement, the tennis star also admits making a mistake on his Australian entry form. 
  <p class="updated_time"> 11:07 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/asia/novak-djokovic-covid-statement.html">Djokovic Admits False Statement on Australia Travel Document</a> NYT: The tennis star also said he had participated in an interview and a photo shoot even after testing positive for the coronavirus, in an apparent violation of rules in his native Serbia. 
  <p class="updated_time"> 11:06 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59958664?at_medium=RSS&at_campaign=KARANGA">North Korea says Kim Jong-un oversaw third hypersonic missile test</a> BBC: This is reportedly the first time since March 2020 that Mr Kim has been known to attend a missile launch. 
- <p class="updated_time"> 11:05 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: In a lengthy statement, the tennis star also says his agent made a mistake on his Australian entry form. 
  <p class="updated_time"> 09:07 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59956068?at_medium=RSS&at_campaign=KARANGA">Biden pushes overhaul of US election laws in fiery speech</a> BBC: In a fiery speech in Georgia, the president calls on Congress to back his sweeping reforms. 
  <p class="updated_time"> 08:46 PM CT, Jan. 11 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:26 PM CT, Jan. 11 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072359797/djokovic-clarifies-timeline-before-arriving-in-australia-as-visa-saga-continues">Djokovic clarifies timeline before arriving in Australia as visa saga continues</a> NPR: Djokovic moved to clarify the timeline while he was infectious last month and about errors on the travel document he used to enter Australia to defend his Australian Open title. 
  <p class="updated_time"> 10:52 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/voting-rights-civil-rights-leaders-biden/index.html">Civil rights leaders urge Biden to put 'full weight' behind voting rights</a> CNN: Civil rights leaders were pleased with President Joe Biden's call on Tuesday to change Senate filibuster rules to pass voting rights legislation, but insist they will not be satisfied until a bill is passed. 
  <p class="updated_time"> 10:50 PM CT, Jan. 11 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
  <p class="updated_time"> 04:10 AM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072019258/morning-news-brief">News brief: voting rights speech, schools juggle COVID, Novak Djokovic</a> NPR: In Atlanta, Biden will advocate for protecting voting rights. Some schools resume online classes because of COVID-19. The latest on the saga in Australia involving tennis star Novak Djokovic. 
- <p class="updated_time"> 04:00 AM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1071940115/biden-harris-atlanta-georgia-voting-visit">Biden is expected to back changing the filibuster to pass voting rights bills</a> NPR: The president has been under increasing pressure to more aggressively combat threats to voting rights. And advocates say speeches are not a substitute for legislative action. 
  <p class="updated_time"> 02:11 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/guantanamo-transfer-somali-detainee.html">Guantánamo Panel Approves Transfer of First High-Value Detainee</a> NYT: Guled Duran, a Somali, has been held in classified facilities since the C.I.A. took custody of him in 2004. He has never been charged with a crime. 
  <p class="updated_time"> 11:09 PM CT, Jan. 10 </p> 
