@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:07 PM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59974375?at_medium=RSS&at_campaign=KARANGA">Republican McConnell slams Biden voting rights speech as 'unpresidential'</a> BBC: President Joe Biden had criticised opponents to his election reforms in a fiery speech on Tuesday. 
  <p class="updated_time"> 02:48 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-russia-talks-ukraine-brussels.html">NATO and Russia Talk Frankly, but Past One Another for Now</a> NYT: Four hours of frank and serious discussion between Russia and the 30-member alliance leave unanswered whether Vladimir V. Putin will choose diplomacy or war. 
  <p class="updated_time"> 02:40 PM CT, Jan. 12 </p> 
@@ -200,12 +202,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:51 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/jan-6-select-panel-to-seek-mccarthys-testimony-526983">Jan. 6 select panel to seek McCarthy's testimony</a> Politico: It follows months of speculation about when the panel would seek the California Republican's cooperation with their probe. 
- <p class="updated_time"> 03:23 PM CT, Jan. 12 </p> 
+ <p class="updated_time"> 03:40 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/kevin-mccarthy-january-6/index.html">January 6 committee asks McCarthy to voluntarily provide information to probe</a> CNN: The House select committee investigating the January 6 riot is asking Minority Leader Kevin McCarthy, a California Republican, to voluntarily provide information to the panel, a major development in the sweeping investigation, according to a new letter released Wednesday. 
+ <p class="updated_time"> 03:37 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html">Jan. 6 Committee Asks Kevin McCarthy for Interview</a> NYT: The panel said it was interested in conversations the top House Republican had with Donald J. Trump on the day of the riot and in its aftermath. 
+ <p class="updated_time"> 03:37 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/mitch-mcconnell-biden-speech-reaction/index.html">Mitch McConnell calls Biden's speech 'incoherent' and 'beneath his office'</a> CNN: Senate Minority Leader Mitch McConnell blasted President Joe Biden's speech pushing for the Senate to change its filibuster rules to pass voting and elections legislation, saying Biden compared "a bipartisan majority of senators to literal traitors." 
+ <p class="updated_time"> 03:33 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/democrats-voting-rights-bill.html">Democrats Plan to Fast-Track Voting Rights Bill, Speeding a Showdown</a> NYT: The move will allow for debate on the legislation to begin this week, hastening a confrontation with Republicans and the moment when Democrats could try to change Senate rules. 
+ <p class="updated_time"> 03:28 PM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072544752/jan-6-panel-investigating-insurrection-requests-kevin-mccarthys-voluntary-testim">The Jan. 6 panel requests the top House Republican's voluntary testimony</a> NPR: Among its questions, the committee is probing any conversations Kevin McCarthy had with former President Donald Trump on the day of the Capitol attack. 
  <p class="updated_time"> 03:10 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/inflation-biden-economy-agenda-526980">Price spikes threaten to ground Biden's big-spending plans</a> Politico: The government reported on Wednesday that the consumer price index, the most widely watched gauge of inflation, hit a four-decade high of 7 percent in December compared to the previous year. 
- <p class="updated_time"> 03:05 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html">Jan. 6 Committee Asks Kevin McCarthy for Interview</a> NYT: The panel said it was interested in conversations the top House Republican had with Donald J. Trump on the day of the riot and in its aftermath. 
  <p class="updated_time"> 03:05 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/filibuster-polls-analysis/index.html">Many Americans don't know what to make of the filibuster, polls find</a> CNN: Americans, according to polls taken last year, aren't likely to hold strongly formed opinions on the Senate's filibuster rules. Those who do have a preference are divided, with views generally following party lines, although there's plenty of room for opinions to solidify. 
  <p class="updated_time"> 02:53 PM CT, Jan. 12 </p> 
@@ -228,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/12/politics/harry-reid-lying-in-state/index.html">Body of ex-Senate Democratic leader Harry Reid lying in state in Capitol Rotunda</a> CNN: The body of former Senate Democratic leader Harry Reid will lie in state in the Rotunda of the US Capitol on Wednesday, a rare honor granted by Congress to about three dozen other Americans, including former presidents, Supreme Court justices, lawmakers and national security officials. 
  <p class="updated_time"> 01:17 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/biden-voting-rights-speech-election-subversion.html">How the Voting Rights Bills Miss the Target on Election Subversion</a> NYT: The proposed legislation and the push to reform the Electoral Count Act leave open a variety of pathways to subvert a presidential election. 
- <p class="updated_time"> 01:13 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/mitch-mcconnell-biden-speech-reaction/index.html">Mitch McConnell calls Biden's speech 'incoherent' and 'beneath his office'</a> CNN: Senate Minority Leader Mitch McConnell blasted President Joe Biden's speech pushing for the Senate to change its filibuster rules to pass voting and elections legislation, saying Biden compared "a bipartisan majority of senators to literal traitors." 
  <p class="updated_time"> 12:39 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/donald-trump-npr-interview.html">Trump Ends NPR Interview After Challenges to False Fraud Claim</a> NYT: Former President Donald J. Trump abruptly ended the interview after a lengthy back-and-forth over his claims of widespread election fraud. 
  <p class="updated_time"> 12:30 PM CT, Jan. 12 </p> 
@@ -346,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1072183501/could-the-u-s-really-cripple-the-russian-economy-like-biden-warns">Could the U.S. really cripple the Russian economy like Biden warns?</a> NPR: President Biden has threatened Russia with massive sanctions if it follows through on threats to take more Ukrainian territory. 
  <p class="updated_time"> 04:23 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183487/what-president-bidens-speech-about-voting-rights-legislation-means-for-georgia">What President Biden's speech about voting rights legislation means for Georgia</a> NPR: The president and vice president travel to Georgia to make the case for voting rights legislation. The state has been ground zero for debate over voting and elections reforms. 
- <p class="updated_time"> 04:01 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072183452/fed-chair-jerome-powell-takes-questions-from-senate-committee-in-confirmation-he">Fed chair Jerome Powell takes questions from Senate committee in confirmation hearing</a> NPR: Federal Reserve chairman Jerome Powell appeared before the Senate Banking Committee, which is considering his nomination for a second term. The central bank is under pressure to confront inflation. 
  <p class="updated_time"> 04:00 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/covid-19-testing-joe-biden-administration/index.html">'Everybody saw it coming,' expert says of Covid testing capacity, but Biden administration 'dropped the ball'</a> CNN: As President Joe Biden was spending his holidays with family at the White House and in Delaware, he was frustrated to see images on television of Americans waiting in long lines for Covid-19 tests. 
  <p class="updated_time"> 03:57 PM CT, Jan. 11 </p> 
@@ -364,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/david-mccormick-senate-campaign-trump-526870">McCormick MAGA-proofs his Senate campaign after dissing Trump</a> Politico: The new Pennsylvania candidate is certain to face GOP primary attacks. 
  <p class="updated_time"> 11:58 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/political-influence-on-science-federal-government/index.html">Biden administration tells federal agencies how to safeguard against political influence on science</a> CNN: The Biden administration is calling on government agencies to strengthen their policies against inappropriate political influence when it comes to the science that guides decision-making, according to a new report. 
- <p class="updated_time"> 11:10 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/voting-rights-biden-atlanta-schedule.html">What Time is Biden's Speech Today?</a> NYT: The president is traveling to Atlanta with Vice President Kamala Harris as part of an effort to sell lawmakers and the public on major voting rights legislation. 
  <p class="updated_time"> 10:25 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/king-family-biden-voting-rights-speech-526873">King family: ‘Difficult decision’ to attend Biden’s voting rights speech</a> Politico: “It’s been a long year of a lot of things not being done, and we stand and we share that frustration,” Arndrea Waters King said. 
  <p class="updated_time"> 10:15 AM CT, Jan. 11 </p> 
@@ -376,6 +378,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
+ <p class="updated_time"> 08:37 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/us/politics/insurance-covid-tests.html">Insurers Will Have to Cover 8 At-Home Virus Tests Per Month</a> NYT: The Biden administration announced the new guidelines as it continued to work to get coronavirus tests to people regardless of their insurance status. 
  <p class="updated_time"> 07:10 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/democrats-filibuster-vote-526863">Dems' filibuster conundrum: It's not just Manchin and Sinema</a> Politico: Mark Kelly is undecided. Jon Tester likes a talking filibuster but is “not crazy” about making an exception for elections reform. And Jeanne Shaheen is promoting more modest changes. 
  <p class="updated_time"> 07:09 PM CT, Jan. 10 </p> 
