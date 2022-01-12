@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:15 AM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/world/antigen-tests.html">Racing to Stop Omicron, Countries Rely on At-Home Antigen Tests</a> NYT: Countries aim keep up with the variant’s rapid pace of transmission, marking a shift from viewing P.C.R. testing as the primary method of diagnosis. 
+ <p class="updated_time"> 03:59 AM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072375698/chinas-tianjin-orders-more-testing-on-14-million-after-omicron-reaches-city">China's Tianjin orders more testing on 14 million after omicron reaches city</a> NPR: The city of Tianjin ordered a second round of COVID-19 testing on Wednesday in the city about an hour from Beijing, which is set to host the Winter Olympics from February 4th. 
+ <p class="updated_time"> 03:58 AM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: The tennis star addresses "ongoing misinformation" as Australia decides on his deportation. 
  <p class="updated_time"> 03:58 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/asia/beijing-olympics-covid.html">Omicron Deepens Uncertainty Surrounding Beijing Olympics</a> NYT: With the opening of the Winter Games three weeks away, officials in China are on high alert amid coronavirus outbreaks around the country. 
  <p class="updated_time"> 03:09 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/asia/novak-djokovic-covid-statement.html">Djokovic Admits False Statement on Australia Travel Document</a> NYT: The tennis star also said he had participated in an interview and a photo shoot even after testing positive for the coronavirus, in an apparent violation of rules in his native Serbia. 
- <p class="updated_time"> 02:53 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: The tennis star addresses "ongoing misinformation" as Australia decides on his deportation. 
  <p class="updated_time"> 02:46 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072371689/nato-and-russia-in-high-level-talks-as-ukraine-tensions-simmer">NATO and Russia are in high-level talks as Ukraine tensions simmer</a> NPR: The meeting comes during a week of high-stakes diplomacy and a U.S.-led effort to prevent what Washington believes could be a Russian invasion of Ukraine. Moscow denies it is planning an attack. 
  <p class="updated_time"> 12:43 AM CT, Jan. 12 </p> 
@@ -135,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/kazakhstan-says-russia-to-withdraw-troops-in-wake-of-unrest-11641903337">Kazakhstan Says Russia to Withdraw Troops in Wake of Unrest</a> WSJ: Russia-led forces that entered Kazakhstan to support the government following an eruption of protests would start withdrawing within two days, the Kazakh president said as he named a loyalist as prime minister. 
  <p class="updated_time"> 02:44 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/cladding-grenfell-uk.html">Nearly 5 Years After Grenfell Fire, U.K. Tells Developers to Pay for Upgrades</a> NYT: After a deadly high-rise blaze in 2017, countless instances of unsafe building practices came to light. The latest plan to address them expands who will be covered. 
- <p class="updated_time"> 02:40 AM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072018967/north-korea-launches-another-suspected-missile-amid-stalled-talks-with-the-u-s">North Korea launches another suspected missile amid stalled talks with the U.S.</a> NPR: The launch corresponded with an unexplained order by the FAA to ground some flights on the U.S. West Coast. 
  <p class="updated_time"> 02:08 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59949236?at_medium=RSS&at_campaign=KARANGA">First pig heart to human transplant is a game-changer, say surgeons</a> BBC: In a world first, a pig heart has been successfully transplanted into a human by surgeons in the US. 
  <p class="updated_time"> 01:21 AM CT, Jan. 11 </p> 
@@ -204,6 +206,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/mcconnell-successor-three-johns-race-526920">What's in a name? Trio of Johns vies to succeed McConnell</a> Politico: The shadow race is on. Thune and Cornyn are best-positioned to become the next Senate GOP leader — but Barrasso is in the mix too. 
+ <p class="updated_time"> 04:21 AM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/business/economy/cpi-inflation-december-2021.html">CPI Report Is Expected to Show Inflation Popped Again</a> NYT: Economists expect a 7 percent gain in the Consumer Price Index, which would be the fastest pace since mid-1982. 
+ <p class="updated_time"> 04:01 AM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072204478/donald-trump-npr-interview-presidential-election-lies-vaccines">Pressed on his election lies, former President Trump cuts NPR interview short</a> NPR: The former president blasted Republicans who have crossed him and kept up repeated election lies in an NPR interview. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072322926/the-white-house-will-distribute-10-million-more-covid-tests-per-month-to-schools">The White House will distribute 10 million more COVID tests per month to schools</a> NPR: President Biden and others in his administration insist schools should stay open, even with the omicron wave making it harder than ever to manage. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072295047/inflation-is-still-surging-and-some-democrats-see-one-culprit-greedy-companies">Inflation is still surging and some Democrats see one culprit: Greedy companies</a> NPR: Consumer prices are soaring at their highest annual pace in almost 40 years. Some progressives such as Sen. Elizabeth Warren blame corporate profiteering, but most economists scoff. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072176709/transcript-full-npr-interview-former-president-donald-trump">Read NPR's full interview with former President Donald Trump</a> NPR: NPR's Steve Inskeep spoke with former President Donald Trump on Monday. Trump continued to repeat false claims that the 2020 election was rigged. 
  <p class="updated_time"> 02:46 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072371689/nato-and-russia-in-high-level-talks-as-ukraine-tensions-simmer">NATO and Russia are in high-level talks as Ukraine tensions simmer</a> NPR: The meeting comes during a week of high-stakes diplomacy and a U.S.-led effort to prevent what Washington believes could be a Russian invasion of Ukraine. Moscow denies it is planning an attack. 
  <p class="updated_time"> 01:29 AM CT, Jan. 12 </p> 
@@ -324,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/david-mccormick-senate-campaign-trump-526870">McCormick MAGA-proofs his Senate campaign after dissing Trump</a> Politico: The new Pennsylvania candidate is certain to face GOP primary attacks. 
  <p class="updated_time"> 12:15 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/capitol-police-officers-extremist-views/index.html">Capitol Police and House sergeant-at-arms working to identify officers with extremist views</a> CNN: US Capitol Police Chief Tom Manger and House Sergeant at Arms William Walker are working to identify officers with extremist views who could impact security at the Capitol, they told lawmakers on Tuesday. 
- <p class="updated_time"> 12:10 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072123333/justice-department-domestic-terrorism-unit">The Justice Department will create a domestic terrorism unit to counter rising threats</a> NPR: The announcement was made Tuesday by Matthew Olsen, the head of the department's National Security Division, and comes as the nation faces a constellation of extremist threats on the home front. 
  <p class="updated_time"> 12:02 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/nuclear-option-senate-filibuster/index.html">Why Democrats are thinking of going nuclear</a> CNN: As Democrats push to pass voting rights legislation through Congress, there's been talk of using a process known as the "nuclear option." 
  <p class="updated_time"> 11:58 AM CT, Jan. 11 </p> 
@@ -342,16 +352,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/biden-epa-coal-ash-ponds-enforcement-climate/index.html">EPA begins enforcement on clean up of toxic coal-ash ponds</a> CNN: The US Environmental Protection Agency announced Tuesday it will begin enforcing regulations that require coal-fired power plants to clean up their coal-ash waste -- the toxic byproduct of burning coal to generate electricity. 
  <p class="updated_time"> 07:45 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/11/democrats-look-for-a-roadmap-on-rules-changes-495677">Democrats look for a roadmap on rules changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:21 AM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072019272/biden-needs-to-stay-the-course-on-voting-rights-rep-clyburn-says">Biden needs to stay the course on voting rights, Rep. Clyburn says</a> NPR: NPR's A Martinez talks to House Majority Whip Jim Clyburn of South Carolina, who is advocating for the John R. Lewis Voting Rights Advancement Act, about what he wants to hear in the president speech. 
- <p class="updated_time"> 06:20 AM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072019265/in-atlanta-speech-biden-will-advocate-for-protecting-voting-rights">In Atlanta speech, Biden will advocate for protecting voting rights </a> NPR: President Biden and Vice President Harris head to Atlanta — a city at the epicenter of past and present battles over voting rights — to make the case to advance stalled legislation in Congress. 
  <p class="updated_time"> 06:12 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
  <p class="updated_time"> 05:01 AM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/florida-special-election/index.html">Voters head to polls in Florida special election to fill late Alcee Hastings' seat</a> CNN: Two hundred and eighty days after Rep. Alcee Hastings died from pancreatic cancer, voters in the late lawmaker's deeply Democratic South Florida congressional district will finally pick a replacement. 
- <p class="updated_time"> 04:42 AM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072029936/cyber-risks-add-to-climate-threat-world-economic-forum-warns">Cyber risks add to climate threat, World Economic Forum warns</a> NPR: Survey of 1,000 experts and leaders finds cybersecurity and space add to the existing challenges of climate change and the coronavirus pandemic. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
  <p class="updated_time"> 02:11 AM CT, Jan. 11 </p> 
@@ -368,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-hill-democrats-russia-sanctions-526864">Biden administration hits the Hill to lobby Dems against GOP-backed Russia sanctions</a> Politico: But some centrists left the room noncommittal on Sen. Ted Cruz's push to block a gas pipeline that would benefit Moscow. 
  <p class="updated_time"> 06:58 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/maya-angelou-quarter-issued/index.html">Maya Angelou becomes first Black woman to appear on US quarter as Treasury begins distribution</a> CNN: A new US quarter featuring the late Maya Angelou went into circulation Monday, the US Mint announced, making the legendary poet and activist the first Black woman ever to appear on the coin. 
- <p class="updated_time"> 06:16 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/democratic-voters-demographics.html">Democrats Go Hunting For Missing Voters</a> NYT: Some strategists say the party needs a “radical departure” from its longstanding reliance on demographic changes to give Democrats a stable hold on political power. 
  <p class="updated_time"> 05:27 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/mike-pence-jan-6-testimony.html">Pence and Jan. 6 Committee Engage in High-Stakes Dance Over Testimony</a> NYT: Getting the former vice president to answer questions under oath could be crucial as the House panel focuses on Donald Trump’s responsibility for the Capitol riot. 
  <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
