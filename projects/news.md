@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:40 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/01/12/world/russia-ukraine-nato-us">Live Updates: NATO Opens Talks With Russia Amid Ukraine Standoff</a> NYT: The diplomatic push to avert another Russian invasion of Ukraine moved to NATO headquarters in Brussels. A meeting between U.S. and Russian officials on Monday was inconclusive. 
+ <p class="updated_time"> 05:24 AM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59963434?at_medium=RSS&at_campaign=KARANGA">Alps murders: French police arrest suspect over killing of British family</a> BBC: Three members of a British family and a French cyclist were shot dead in the French Alps. 
  <p class="updated_time"> 05:22 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59965150?at_medium=RSS&at_campaign=KARANGA">'He was like a lighthouse' - Sidney Poitier's daughter posts moving tribute</a> BBC: "I know people know he was good, but I don't think they know the depth of his goodness." 
  <p class="updated_time"> 04:48 AM CT, Jan. 12 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/11/1071880009/uae-laws-business-sex-marriage-alcohol-cbd">Why United Arab Emirates is relaxing laws on sex, marriage, liquor, vapes and more</a> NPR: The UAE is overhauling laws on an array of business, cultural and social norms. On paper, it makes the emirate one of the region's most progressive countries, but critics say the reality is complex. 
  <p class="updated_time"> 11:48 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/africa/ethiopia-biden-abiy-ahmed-tigray.html">On Day Biden Calls Ethiopia’s Leader to Urge Peace, a Drone Strike Kills 17</a> NYT: The attack came days after over 50 people were killed in a strike on a refugee camp, highlighting the growing role of armed drones in a destructive war. 
- <p class="updated_time"> 11:45 AM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59956826?at_medium=RSS&at_campaign=KARANGA">Saudi court orders first naming of man guilty of sexual harassment</a> BBC: The kingdom amended an anti-harassment law last year to allow for the public shaming of offenders. 
  <p class="updated_time"> 11:24 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59947211?at_medium=RSS&at_campaign=KARANGA">Speaker of EU parliament dies in hospital</a> BBC: The Italian was admitted to hospital last month due to a serious complication with his immune system. 
  <p class="updated_time"> 11:23 AM CT, Jan. 11 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:13 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/12/our-exclusive-new-poll-on-voting-rights-495693"> Our exclusive new poll on voting rights</a> Politico Playbook: And the latest state of play on ECA reform. 
+ <p class="updated_time"> 05:47 AM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/style/melania-trump-white-hat-auction.html">Melania Trump Auctions Her Hat</a> NYT: A year after leaving the White House, the former first lady tests the water for her brand. 
  <p class="updated_time"> 05:11 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/harry-reid-lying-in-state/index.html">Body of ex-Senate Democratic leader Harry Reid to lie in state in Capitol Rotunda</a> CNN: The body of former Senate Democratic leader Harry Reid will lie in state in the Rotunda of the US Capitol on Wednesday, a rare honor granted by Congress to about three dozen other Americans, including former presidents, Supreme Court justices, lawmakers and national security officials. 
  <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/faa-west-coast-flights-north-korea-526894">FAA briefly halted West Coast flights amid North Korean missile scare</a> Politico: Exchanges between pilots and air traffic controllers that cropped up on social media late Monday suggested landings were off limits in portions of California and Oregon. 
  <p class="updated_time"> 02:37 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/ron-desantis-state-of-the-state/index.html">DeSantis draws contrast with federal government and Democratic-led states in State of the State address </a> CNN: Painting himself and his state as the antidote to closed schools, government mandates and Big Tech overreach, Florida Gov. Ron DeSantis on Tuesday delivered an election-year State of the State speech that emphasized the deepening divide between Republican and Democratic leadership during the pandemic. 
- <p class="updated_time"> 02:00 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/style/melania-trump-white-hat-auction.html">Melania Trump Auctions Her Hat</a> NYT: A year after leaving the White House, the former first lady tests the water for her brand. 
  <p class="updated_time"> 01:45 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/biden-n95-mask-distribution-526889">Biden health team weighs new mask distribution plan</a> Politico: Officials in favor of distributing the masks to the public have pushed for a decision as soon as Thursday. 
  <p class="updated_time"> 01:15 PM CT, Jan. 11 </p> 
