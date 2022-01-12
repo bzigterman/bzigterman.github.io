@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:53 AM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: The tennis star addresses "ongoing misinformation" as Australia decides on his deportation. 
  <p class="updated_time"> 02:46 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072371689/nato-and-russia-in-high-level-talks-as-ukraine-tensions-simmer">NATO and Russia in high-level talks as Ukraine tensions simmer</a> NPR: The meeting comes during a week of high-stakes diplomacy and a U.S.-led effort to prevent what Washington believes could be a Russian invasion of Ukraine. Moscow denies it is planning an attack. 
- <p class="updated_time"> 02:04 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59935127?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic admits breaking isolation while Covid positive</a> BBC: The tennis star addresses "ongoing misinformation" as Australia decides on his deportation. 
  <p class="updated_time"> 12:43 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59956068?at_medium=RSS&at_campaign=KARANGA">Biden pushes overhaul of US election laws in fiery speech</a> BBC: In a fiery speech in Georgia, the president calls on Congress to back his sweeping reforms. 
  <p class="updated_time"> 12:34 AM CT, Jan. 12 </p> 
