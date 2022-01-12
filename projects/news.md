@@ -122,7 +122,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:34 AM CT, Jan. 11 </p> 
  <a href="https://www.wsj.com/articles/hongs-kong-strict-quarantine-system-pushed-to-limits-by-omicron-cluster-11641915259">Hong Kong's Strict Quarantine System Pushed to Limits by Omicron Cluster</a> WSJ: With 42 community infections detected in the past two weeks, government quarantine centers are running out of space and some experts are questioning if the policy of zero-Covid-19 infections is sustainable. 
  <p class="updated_time"> 04:19 AM CT, Jan. 11 </p> 
- <a href="https://www.wsj.com/articles/why-the-catholic-church-is-losing-latin-america-11641914388">Why the Catholic Church Is Losing Latin America</a> WSJ: Conservative Pentecostals make huge inroads in Latin America during the reign of the region’s first pope. The religion is projected to become a minority in Brazil, which has more Catholics than any other country, as soon as this year. 
+ <a href="https://www.wsj.com/articles/why-the-catholic-church-is-losing-latin-america-11641914388">Why the Catholic Church Is Losing Latin America</a> WSJ: Conservative Pentecostals have made huge inroads in Latin America during the reign of the region’s first pope, with Catholicism projected to become a minority in Brazil as soon as this year. 
  <p class="updated_time"> 04:18 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/putin-russia-kazakhstan.html">Russian Troops Will Stay to Finish Job in Kazakhstan, Putin Says</a> NYT: Blaming “internal and external forces” for the unrest in the resource-rich Central Asian country, President Vladimir V. Putin of Russia set no deadline for the withdrawal of the forces his country sent there. 
  <p class="updated_time"> 03:43 AM CT, Jan. 11 </p> 
