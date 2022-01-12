@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:57 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
+ <p class="updated_time"> 03:55 PM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072548467/talks-between-russia-and-nato-don-t-seem-to-have-defused-tensions-on-ukrainian-b">Talks between Russia and NATO don't seem to have defused tensions on Ukrainian border</a> NPR: A Russian delegation was in Brussels Wednesday to meet with NATO officials, who are trying to head off an invasion of Ukraine by Russian troops massed on the border. 
+ <p class="updated_time"> 03:53 PM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59971232?at_medium=RSS&at_campaign=KARANGA">Palestinian-American man, 80, found dead after Israeli raid in West Bank</a> BBC: Omar Asad reportedly died following his arrest by Israeli soldiers in the occupied West Bank. 
  <p class="updated_time"> 03:07 PM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59974375?at_medium=RSS&at_campaign=KARANGA">Republican McConnell slams Biden voting rights speech as 'unpresidential'</a> BBC: President Joe Biden had criticised opponents to his election reforms in a fiery speech on Tuesday. 
  <p class="updated_time"> 02:48 PM CT, Jan. 12 </p> 
@@ -41,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/africa/somalia-car-bomb.html">Car Bomb in Mogadishu, Somalia's Capital, Kills 8</a> NYT: The explosion, one of a string of recent attacks, comes as the country grapples with a political standoff and a growing humanitarian crisis. 
  <p class="updated_time"> 11:21 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/gruyere-cheese-us-court-ruling.html">Is Gruyère Still Gruyère if It Doesn’t Come From Gruyères?</a> NYT: A federal judge says yes, siding with U.S. cheese producers who say gruyère can be produced anywhere, not just in Switzerland and France. 
- <p class="updated_time"> 11:21 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59971232?at_medium=RSS&at_campaign=KARANGA">Palestinian man, 80, found dead after Israeli raid in West Bank</a> BBC: Omar Asad reportedly died following his arrest by Israeli soldiers in the occupied West Bank. 
  <p class="updated_time"> 11:02 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59951126?at_medium=RSS&at_campaign=KARANGA">Baby found by teenagers in -20C in Siberia doing well</a> BBC: The girl was found by teens whose family now want to adopt her if relatives cannot be found. 
  <p class="updated_time"> 10:19 AM CT, Jan. 12 </p> 
@@ -89,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/world/europe/spain-student-housing-dorms.html">Dorms Pop Up in Spain as More Students Seek Housing Away From Home</a> NYT: The country’s student population has become increasingly mobile, fueling investments in accommodations, largely funded by foreign capital. 
  <p class="updated_time"> 11:26 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/12/1072359797/djokovic-clarifies-timeline-before-arriving-in-australia-as-visa-saga-continues">Djokovic admits a mistake on his Australia travel form and outlines COVID test timing</a> NPR: Djokovic moved to clarify the timeline about the period when he was infectious last month and about errors on the travel document he used to enter Australia to defend his Australian Open tennis title. 
- <p class="updated_time"> 08:46 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
  <p class="updated_time"> 07:55 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072294207/many-of-those-who-died-in-the-bronx-apartment-fire-were-from-west-africa">Many of those who died in the Bronx apartment fire were from West Africa</a> NPR: The 17 victims of Sunday's blaze ranged from 2 to 50 years old. The dead included 11 people from Gambia. Many families are now struggling to prepare for their loved ones' funerals. 
  <p class="updated_time"> 07:08 PM CT, Jan. 11 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/health/southern-africa-hiv-aids.html">In South Africa, Success Against H.I.V. Offers Hope </a> NYT: A former Africa correspondent, who covered the height of the AIDS epidemic there 15 years ago, finds lessons in the remarkable progress against that virus for our current fight. 
  <p class="updated_time"> 08:01 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59942994?at_medium=RSS&at_campaign=KARANGA">Fighting the darknet drug dealers who keep coming back</a> BBC: BBC research finds hundreds of dealers who have survived multiple police shutdowns of darknet marketplaces. 
- <p class="updated_time"> 05:30 AM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/sections/money/2022/01/11/1071282973/as-carbon-removal-gains-traction-economists-imagine-a-new-market-to-save-the-pla">As carbon removal gains traction, economists imagine a new market to save the planet</a> NPR: Carbon removal went mainstream in 2021. But the technology is still light years away from making a real difference combating climate change. A group of economists wants to help change that. 
  <p class="updated_time"> 04:18 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/europe/putin-russia-kazakhstan.html">Russian Troops Will Stay to Finish Job in Kazakhstan, Putin Says</a> NYT: Blaming “internal and external forces” for the unrest in the resource-rich Central Asian country, President Vladimir V. Putin of Russia set no deadline for the withdrawal of the forces his country sent there. 
  <p class="updated_time"> 02:44 AM CT, Jan. 11 </p> 
@@ -200,18 +200,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:55 PM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072548439/internal-gop-conflicts-about-2020-election-surface-as-party-fights-new-voting-la">Internal GOP conflicts about 2020 election surface as party fights new voting laws</a> NPR: Republicans are accusing Democrats of a power grab as they try to pass federal voting legislation. The GOP is also still struggling with former President Trump's ongoing lies about the 2020 election. 
+ <p class="updated_time"> 03:53 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/democrats-voting-rights-bill.html">Democrats Plan to Fast-Track Voting Rights Bill, Speeding a Showdown</a> NYT: The move will allow for debate on the legislation to begin this week, hastening a confrontation with Republicans and the moment when Democrats could try to change Senate rules. 
+ <p class="updated_time"> 03:52 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard, Nominee for Fed Vice Chair, Calls Inflation ‘Too High’</a> NYT: Ms. Brainard, a Federal Reserve governor whom President Biden nominated for vice chair, will say the central bank is focused on getting price gains back down. 
  <p class="updated_time"> 03:51 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/jan-6-select-panel-to-seek-mccarthys-testimony-526983">Jan. 6 select panel to seek McCarthy's testimony</a> Politico: It follows months of speculation about when the panel would seek the California Republican's cooperation with their probe. 
- <p class="updated_time"> 03:40 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard, Nominee for Fed Vice Chair, Calls Inflation ‘Too High’</a> NYT: Ms. Brainard, a Federal Reserve governor who President Biden nominated for vice chair, will say the central bank is focused on getting price gains back down. 
+ <p class="updated_time"> 03:47 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html">Jan. 6 Committee Seeks Interview With Kevin McCarthy</a> NYT: The panel said it was interested in conversations the top House Republican had with Donald J. Trump on the day of the riot and in its aftermath. 
  <p class="updated_time"> 03:40 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/kevin-mccarthy-january-6/index.html">January 6 committee asks McCarthy to voluntarily provide information to probe</a> CNN: The House select committee investigating the January 6 riot is asking Minority Leader Kevin McCarthy, a California Republican, to voluntarily provide information to the panel, a major development in the sweeping investigation, according to a new letter released Wednesday. 
  <p class="updated_time"> 03:37 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html">Jan. 6 Committee Asks Kevin McCarthy for Interview</a> NYT: The panel said it was interested in conversations the top House Republican had with Donald J. Trump on the day of the riot and in its aftermath. 
- <p class="updated_time"> 03:37 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/mitch-mcconnell-biden-speech-reaction/index.html">Mitch McConnell calls Biden's speech 'incoherent' and 'beneath his office'</a> CNN: Senate Minority Leader Mitch McConnell blasted President Joe Biden's speech pushing for the Senate to change its filibuster rules to pass voting and elections legislation, saying Biden compared "a bipartisan majority of senators to literal traitors." 
- <p class="updated_time"> 03:33 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/democrats-voting-rights-bill.html">Democrats Plan to Fast-Track Voting Rights Bill, Speeding a Showdown</a> NYT: The move will allow for debate on the legislation to begin this week, hastening a confrontation with Republicans and the moment when Democrats could try to change Senate rules. 
  <p class="updated_time"> 03:28 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072544752/jan-6-panel-investigating-insurrection-requests-kevin-mccarthys-voluntary-testim">The Jan. 6 panel requests the top House Republican's voluntary testimony</a> NPR: Among its questions, the committee is probing any conversations Kevin McCarthy had with former President Donald Trump on the day of the Capitol attack. 
  <p class="updated_time"> 03:10 PM CT, Jan. 12 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/jan-6-mike-pence-gop-lawmakers-526906">Jan. 6 investigators near decisions on how to pursue Mike Pence and GOP lawmakers</a> Politico: Chair Bennie Thompson said Tuesday both matters are high on the committee’s to-do list. 
  <p class="updated_time"> 04:28 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072183501/could-the-u-s-really-cripple-the-russian-economy-like-biden-warns">Could the U.S. really cripple the Russian economy like Biden warns?</a> NPR: President Biden has threatened Russia with massive sanctions if it follows through on threats to take more Ukrainian territory. 
- <p class="updated_time"> 04:23 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072183487/what-president-bidens-speech-about-voting-rights-legislation-means-for-georgia">What President Biden's speech about voting rights legislation means for Georgia</a> NPR: The president and vice president travel to Georgia to make the case for voting rights legislation. The state has been ground zero for debate over voting and elections reforms. 
  <p class="updated_time"> 04:00 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/covid-19-testing-joe-biden-administration/index.html">'Everybody saw it coming,' expert says of Covid testing capacity, but Biden administration 'dropped the ball'</a> CNN: As President Joe Biden was spending his holidays with family at the White House and in Delaware, he was frustrated to see images on television of Americans waiting in long lines for Covid-19 tests. 
  <p class="updated_time"> 03:57 PM CT, Jan. 11 </p> 
