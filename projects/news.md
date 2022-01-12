@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:21 AM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/12/world/russia-ukraine-nato-us">Live Updates: NATO Urges Russia to Ease Crisis Over Ukraine</a> NYT: A four-hour meeting at the alliance’s headquarters in Brussels was part of a diplomatic push aimed at Russia, which has positioned close to 100,000 troops near Ukraine’s borders. A meeting between U.S. and Russian officials on Monday was inconclusive. 
  <p class="updated_time"> 09:01 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59944174?at_medium=RSS&at_campaign=KARANGA">Brazil rains: Minas Gerais hit by deadly landslides and floods</a> BBC: Landslides and flooding caused by torrential rains have killed at least 15 people in Minas Gerais. 
  <p class="updated_time"> 09:00 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59871514?at_medium=RSS&at_campaign=KARANGA">Prince Andrew to face civil sex assault case after US ruling</a> BBC: Virginia Giuffre's sexual assault civil case against the Duke of York can continue, judge rules. 
- <p class="updated_time"> 09:00 AM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/01/12/world/russia-ukraine-nato-us">Live Updates: NATO Urges Russia to Ease Crisis Over Ukraine</a> NYT: A four-hour meeting at the alliance’s headquarters in Brussels was part of a diplomatic push aimed at Russia, which has positioned close to 100,000 troops near Ukraine’s borders. A meeting between U.S. and Russian officials on Monday was inconclusive. 
  <p class="updated_time"> 08:40 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59965791?at_medium=RSS&at_campaign=KARANGA">Love theory in Italian man's Ivory Coast kidnap</a> BBC: Prosecutors say a businessman may have been duped into going to Ivory Coast by an online scammer. 
  <p class="updated_time"> 08:31 AM CT, Jan. 12 </p> 
@@ -384,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-hill-democrats-russia-sanctions-526864">Biden administration hits the Hill to lobby Dems against GOP-backed Russia sanctions</a> Politico: But some centrists left the room noncommittal on Sen. Ted Cruz's push to block a gas pipeline that would benefit Moscow. 
  <p class="updated_time"> 06:58 PM CT, Jan. 10 </p> 
  <a href="https://www.cnn.com/2022/01/10/politics/maya-angelou-quarter-issued/index.html">Maya Angelou becomes first Black woman to appear on US quarter as Treasury begins distribution</a> CNN: A new US quarter featuring the late Maya Angelou went into circulation Monday, the US Mint announced, making the legendary poet and activist the first Black woman ever to appear on the coin. 
- <p class="updated_time"> 05:27 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/politics/mike-pence-jan-6-testimony.html">Pence and Jan. 6 Committee Engage in High-Stakes Dance Over Testimony</a> NYT: Getting the former vice president to answer questions under oath could be crucial as the House panel focuses on Donald Trump’s responsibility for the Capitol riot. 
  <p class="updated_time"> 05:12 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-at-home-covid-tests-reimbursement-526853">Biden administration lays out rules for reimbursing at-home Covid tests</a> Politico: Under the plan, private insurers can set up programs at preferred pharmacies or retailers where the upfront cost of home tests is covered for beneficiaries. 
  <p class="updated_time"> 03:00 PM CT, Jan. 10 </p> 
