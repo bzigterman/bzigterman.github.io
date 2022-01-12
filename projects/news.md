@@ -38,7 +38,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:12 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/who-europe-covid-omicron-infection.html">Over Half of Europe Could Be Infected With Coronavirus Soon, W.H.O. Says</a> NYT: The agency cautioned against treating the virus like the seasonal flu, since much remains unknown, particularly regarding the severity in areas with lower vaccination rates. 
  <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-59955682?at_medium=RSS&at_campaign=KARANGA">The 52-year-search for a missing girl</a> BBC: On 12 January 1970, a British toddler disappeared from Fairy Meadow beach in NSW, Australia. 
+ <a href="https://www.bbc.co.uk/news/world-59955682?at_medium=RSS&at_campaign=KARANGA">The 52-year search for a missing girl</a> BBC: On 12 January 1970, a British toddler disappeared from Fairy Meadow beach in NSW, Australia. 
  <p class="updated_time"> 05:18 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59960689?at_medium=RSS&at_campaign=KARANGA">Covid: Quebec to impose health tax on unvaccinated Canadians</a> BBC: The unvaccinated represent 15% of the population, but over half of all hospital admissions. 
  <p class="updated_time"> 05:03 PM CT, Jan. 11 </p> 
