@@ -15,6 +15,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/europe/russia-sanctions-ukraine-nord-stream-pipeline.html">Senate Democrats Try to Advance Russia Sanctions Over Ukraine </a> NYT: The Democrats’ bill would impose new sanctions on Russian officials if Moscow invaded Ukraine. 
  <p class="updated_time"> 12:48 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/aras-amiri-released-iran.html">Aras Amiri Has Returned to the U.K. After Being Jailed in Iran</a> NYT: Aras Amiri, a arts worker employed by the British Council, was arrested in March 2018 on espionage charges. She was acquitted in August and flew back to Britain earlier this week. 
+ <p class="updated_time"> 12:34 PM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59971955?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US says Russia faces stark choice</a> BBC: Russia is told it must decide between de-escalation and diplomacy, or confrontation and consequences. 
  <p class="updated_time"> 12:14 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-uk-parties.html">Boris Johnson, Under Fire, Apologizes for Pandemic Party</a> NYT: The British prime minister, on the defensive after a series of ethical lapses, said, “There were things we simply did not get right” about a gathering at Downing Street during a lockdown in 2020. 
  <p class="updated_time"> 11:58 AM CT, Jan. 12 </p> 
@@ -194,8 +196,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:30 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/fact-check-walensky-cdc-comorbidities-good-morning-america/index.html">Fact check: Right-wing figures falsely describe CDC director's comments about Covid-19 deaths</a> CNN: Prominent right-wing figures have been falsely describing a comment the director of the US Centers for Disease Control and Prevention made last week about Covid-19 deaths -- taking Dr. Rochelle Walensky out of context to wrongly claim she had delivered a dramatic new admission about the 840,000-plus Americans who have died of the virus. 
  <p class="updated_time"> 01:23 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/irs-backlog-tax-returns-2021.html">I.R.S. to Start Tax Season With Major Backlog </a> NYT: At least 10 million returns from last year remain unprocessed because of short-staffing at the tax collector, according to the national taxpayer advocate. 
+ <p class="updated_time"> 01:22 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/harry-reid-lying-in-state/index.html">Body of ex-Senate Democratic leader Harry Reid lying in state in Capitol Rotunda</a> CNN: The body of former Senate Democratic leader Harry Reid will lie in state in the Rotunda of the US Capitol on Wednesday, a rare honor granted by Congress to about three dozen other Americans, including former presidents, Supreme Court justices, lawmakers and national security officials. 
  <p class="updated_time"> 01:17 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/biden-voting-rights-speech-election-subversion.html">How the Voting Rights Bills Miss the Target on Election Subversion</a> NYT: The proposed legislation and the push to reform the Electoral Count Act leave open a variety of pathways to subvert a presidential election. 
  <p class="updated_time"> 01:13 PM CT, Jan. 12 </p> 
@@ -248,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/how-to-mess-with-an-oligarch-526963">How to mess with an oligarch</a> Politico: Corruption — it’s one of the few political problems that unites people across the political spectrum, and across the globe. 
  <p class="updated_time"> 05:47 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/11/style/melania-trump-white-hat-auction.html">Melania Trump Auctions Her Hat</a> NYT: A year after leaving the White House, the former first lady tests the water for her brand. 
- <p class="updated_time"> 05:11 AM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/harry-reid-lying-in-state/index.html">Body of ex-Senate Democratic leader Harry Reid to lie in state in Capitol Rotunda</a> CNN: The body of former Senate Democratic leader Harry Reid will lie in state in the Rotunda of the US Capitol on Wednesday, a rare honor granted by Congress to about three dozen other Americans, including former presidents, Supreme Court justices, lawmakers and national security officials. 
  <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/kansas-city-mayor-recall-fighting-covid-republicans-526900">Radical to the right, ‘boot-licker’ to the left. Kansas City mayor on America’s polarization.</a> Politico: Quinton Lucas on political division, clashes over pandemic-era restrictions and what it’s like being a Black mayor after George Floyd. 
  <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
@@ -350,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/us/politics/supreme-court-immigrants-bail-hearings.html">Supreme Court Weighs Jailed Immigrants’ Rights to Bail Hearings</a> NYT: Lawyers for the federal government said immigrants detained for months while they fight deportation are not entitled to seek release from immigration judges. 
  <p class="updated_time"> 03:08 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/mary-trump-lawsuit/index.html">Lawyers for Trump and niece Mary Trump spar over lawsuit alleging she was defrauded in family settlement</a> CNN: Lawyers for former President Donald Trump and his niece Mary Trump sparred in court Tuesday over whether her lawsuit alleging she was defrauded of millions of dollars in a 2001 family settlement could move forward. 
- <p class="updated_time"> 02:37 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/ron-desantis-state-of-the-state/index.html">DeSantis draws contrast with federal government and Democratic-led states in State of the State address </a> CNN: Painting himself and his state as the antidote to closed schools, government mandates and Big Tech overreach, Florida Gov. Ron DeSantis on Tuesday delivered an election-year State of the State speech that emphasized the deepening divide between Republican and Democratic leadership during the pandemic. 
  <p class="updated_time"> 01:45 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/biden-n95-mask-distribution-526889">Biden health team weighs new mask distribution plan</a> Politico: Officials in favor of distributing the masks to the public have pushed for a decision as soon as Thursday. 
  <p class="updated_time"> 11:58 AM CT, Jan. 11 </p> 
@@ -368,10 +370,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
- <p class="updated_time"> 11:09 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/one-party-control-white-house-congress/index.html">If Democrats can't pass their agenda now, they may not get another chance for years. Here's why</a> CNN: The last four times a president went into midterm elections holding unified control of the White House, Senate and House of Representatives, as Joe Biden and Democrats do now, voters have revoked it. 
  <p class="updated_time"> 08:37 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/insurance-covid-tests.html">Insurers Will Have to Cover 8 At-Home Virus Tests Per Month</a> NYT: The Biden administration announced the new guidelines as it continued to work to get coronavirus tests to people regardless of their insurance status. 
+ <p class="updated_time"> 07:54 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/home-covid-tests-health-insurance/index.html">Home Covid-19 tests must be paid for by health insurers starting Saturday</a> CNN: Health insurers must cover the cost of home Covid-19 tests starting January 15, the US Department of Health and Human Services announced Monday. 
  <p class="updated_time"> 07:10 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/democrats-filibuster-vote-526863">Dems' filibuster conundrum: It's not just Manchin and Sinema</a> Politico: Mark Kelly is undecided. Jon Tester likes a talking filibuster but is “not crazy” about making an exception for elections reform. And Jeanne Shaheen is promoting more modest changes. 
  <p class="updated_time"> 07:09 PM CT, Jan. 10 </p> 
