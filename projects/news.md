@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 04:58 AM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072687850/uk-ministers-are-closing-ranks-around-boris-johnson-amid-calls-for-his-resignati">UK ministers are closing ranks around Boris Johnson amid calls for his resignation</a> NPR: Johnson apologized on Wednesday for attending a "bring your own booze" party in the garden of the prime minister's Downing Street office and residence in May 2020. 
+ <a href="https://www.npr.org/2022/01/13/1072687850/uk-ministers-are-closing-ranks-around-boris-johnson-amid-calls-for-his-resignati">U.K. ministers are closing ranks around Boris Johnson amid calls for his resignation</a> NPR: Johnson apologized on Wednesday for attending a "bring your own booze" party in the garden of the prime minister's Downing Street office and residence in May 2020. 
  <p class="updated_time"> 04:57 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-55760672?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic in Australian Open draw despite visa uncertainty</a> BBC: The defending champion is in the draw even though authorities are still deciding whether to deport him. 
  <p class="updated_time"> 04:46 AM CT, Jan. 13 </p> 
@@ -186,8 +186,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:15 AM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/13/biden-and-manchin-come-face-to-face-495712"> Biden and Manchin come face to face</a> Politico Playbook: And Lindsey Graham warns Mitch McConnell on Donald Trump. 
+ <p class="updated_time"> 05:04 AM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/biden-voting-rights-senate-democrats/index.html">Biden will head to Capitol Hill to make the case on voting rights despite major obstacles</a> CNN: President Joe Biden will travel to Capitol Hill on Thursday as he continues to push for passage of voting legislation in Congress, despite the uphill battle Democrats face amid Republican opposition and resistance within their own ranks to changing Senate rules. 
  <p class="updated_time"> 04:58 AM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072687850/uk-ministers-are-closing-ranks-around-boris-johnson-amid-calls-for-his-resignati">UK ministers are closing ranks around Boris Johnson amid calls for his resignation</a> NPR: Johnson apologized on Wednesday for attending a "bring your own booze" party in the garden of the prime minister's Downing Street office and residence in May 2020. 
+ <a href="https://www.npr.org/2022/01/13/1072687850/uk-ministers-are-closing-ranks-around-boris-johnson-amid-calls-for-his-resignati">U.K. ministers are closing ranks around Boris Johnson amid calls for his resignation</a> NPR: Johnson apologized on Wednesday for attending a "bring your own booze" party in the garden of the prime minister's Downing Street office and residence in May 2020. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/biden-agenda-democrats-senate-filibuster-527003">Old-school senator no more: Biden goes all-in against the filibuster</a> Politico: The president faces long odds as he wades into the battle. Still, Democrats say it's better to try and fail than not try at all. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
@@ -198,8 +202,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/trump-senate-midterm-gop-control-526991">Trump looks to reshape the Senate in anticipation of his second act as president</a> Politico: The former president still is angry that key agenda items got stymied in the chamber. He doesn’t want that to happen again. 
  <p class="updated_time"> 04:11 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072153233/virginias-first-black-woman-lieutenant-governor-says-we-need-to-move-on-from-sla">Virginia's first Black woman lieutenant governor says we need to move on from slavery</a> NPR: Winsome Sears, a Republican, will be sworn into office Saturday in Virginia alongside Gov.-elect Glenn Youngkin. Sears ran, in part, on the idea that the country's racial reckoning has gone too far. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/senate-judicial-nominations-blue-slips-democrats/index.html">Democrats embrace hardball judicial nomination tactics GOP adopted under Trump </a> CNN: Former President Donald Trump and Republicans broke with previous Senate tradition to confirm 17 federal appeals court nominees over the objection of Democratic senators representing the states tied to their seats on the bench. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/biden-omicron-medical-team-deployments/index.html">Biden to announce new federal medical team deployments to help hospitals grappling with Covid-19 surge</a> CNN: President Joe Biden is expected to deliver remarks on Thursday announcing a new wave of federally deployed medical teams to six states to help hospitals combat Covid-19, a White House official told CNN. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/software-security-log4j-big-tech-white-house/index.html">Biden administration will meet with big tech firms Thursday over national security concerns in software</a> CNN: Biden administration officials will meet with key software developers and major tech firms like Apple and Google on Thursday to discuss ways of making open-source computer code more secure after a critical vulnerability emerged last month that US officials said could have affected hundreds of millions of devices worldwide. 
  <p class="updated_time"> 12:55 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072671395/abortion-rights-jumps-to-a-top-priority-for-democrats-in-new-poll">Abortion rights jump to a top priority for Democrats in a new poll</a> NPR: The number of Democrats citing abortion rights as a top priority for the federal government to address jumped from less than 1% in 2021 to 13% in a new poll. 
+ <p class="updated_time"> 11:01 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/joe-biden-democrats-inflation-midterm-elections/index.html">Inflation concerns could spell trouble for Democrats</a> CNN: Outside a Costco, Laura Godinez lifts meat, toothpaste, coffee, bottled water and bulk supplies of DayQuil from her cart -- just the staples in a pandemic-era weekly shopping trip that is now often missing extras that might bust the family budget, like cookies and snacks. 
  <p class="updated_time"> 10:57 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/cheney-mccarthy-january-6/index.html">Cheney says McCarthy 'clearly trying to cover up what happened' on January 6</a> CNN: Rep. Liz Cheney, the vice chairwoman of the House select committee investigating the January 6 insurrection, on Wednesday did not rule out the possibility of subpoenaing Kevin McCarthy for information the panel is seeking, suggesting the House's top Republican is attempting to "cover up" what occurred that day. 
  <p class="updated_time"> 10:56 PM CT, Jan. 12 </p> 
@@ -220,10 +232,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/12/politics/north-korea-sanctions-missile-test/index.html">US sanctions 5 North Koreans and 1 entity tied to regime's missile programs</a> CNN: The US on Wednesday announced sanctions on five North Koreans and one entity supporting the regime's ballistic missile programs, imposing the punishments after a new missile test by the country. 
  <p class="updated_time"> 08:07 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/democrats-voting-rights-bill.html">Democrats Plan to Fast-Track Voting Rights Bill, Speeding a Showdown</a> NYT: The move will allow for debate on the legislation to begin this week, hastening a confrontation with Republicans and the moment when Democrats could try to change Senate rules. 
- <p class="updated_time"> 08:01 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/mitch-mcconnell-biden-relationship/index.html">Analysis: Mitch McConnell just broke up with Joe Biden</a> CNN: One of the enduring storylines of Barack Obama's presidency was the working relationship — and dare I say friendship — between Vice President Joe Biden and Senate Republican leader Mitch McConnell. 
- <p class="updated_time"> 07:49 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/warren-davidson-tweet-nazi-germany/index.html">GOP lawmaker compares DC vaccine protocols to Nazi Germany</a> CNN: Republican Rep. Warren Davidson of Ohio is drawing condemnation from his House colleagues for his comparison of Washington, DC's vaccine and Covid-19 protocols to Nazi Germany. 
  <p class="updated_time"> 07:13 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">Who the January 6 committee has subpoenaed or asked to appear</a> CNN: The committee investigating the deadly Capitol Hill riot on January 6, 2021, has issued scores of subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
  <p class="updated_time"> 07:01 PM CT, Jan. 12 </p> 
@@ -236,14 +244,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/12/politics/dick-durbin-voting-rights-biden-segregationists/index.html">Top Democrat concedes Biden may have gone 'a little too far' in Georgia speech</a> CNN: Senate Majority Whip Dick Durbin on Wednesday said President Joe Biden may have gone "a little too far in his rhetoric" when he compared lawmakers who do not support changing Senate filibuster rules to pass stalled voting and elections legislation to segregationists. 
  <p class="updated_time"> 06:10 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/elections/david-mccormick-pennsylvania-senate.html">David McCormick Joins Republican Senate Primary in Pennsylvania</a> NYT: A former Treasury official, Mr. McCormick has drawn comparisons to Glenn Youngkin, the financier recently elected governor of Virginia. 
- <p class="updated_time"> 05:59 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/covid-omicron-peak-what-matters/index.html">Analysis: Covid-19: A few words make a very big difference</a> CNN: In this time of tweets and Toks, 11 seconds is an eternity, and the act of stringing many words together feels like bloviating. It's boring. 
  <p class="updated_time"> 05:56 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/andre-mathis-blackburn/index.html">GOP senators take aim at judicial nominee's 'rap sheet' of decade-old traffic citations</a> CNN: At a Senate Judiciary Committee hearing Wednesday, Republicans brought up three traffic tickets -- all a decade or more old -- that a federal appeals court nominee was issued and apparently failed to pay, leading to his license being suspended for several months. 
  <p class="updated_time"> 05:53 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/white-house-environmental-justice-exits-526996">White House departures send tremors through environmental community</a> Politico: The abrupt exits of Cecilia Martinez and David Kieve from the White House's Council on Environmental Quality sparked alarm among environmental justice experts. 
  <p class="updated_time"> 05:06 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/kayleigh-mcenany-january-6-committee/index.html">Former White House press secretary Kayleigh McEnany met with January 6 committee, sources say</a> CNN: Former White House press secretary Kayleigh McEnany on Wednesday appeared before the House select committee investigating the January 6 insurrection, two sources familiar with the matter tell CNN. 
+ <a href="https://www.cnn.com/2022/01/12/politics/kayleigh-mcenany-january-6-committee/index.html">Former White House press secretary Kayleigh McEnany met with January 6 panel, sources say</a> CNN: Former White House press secretary Kayleigh McEnany on Wednesday appeared before the House select committee investigating the January 6 insurrection, two sources familiar with the matter tell CNN. 
  <p class="updated_time"> 04:39 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/mitch-mcconnell-biden-speech-reaction/index.html">Mitch McConnell calls Biden's speech 'incoherent' and 'beneath his office'</a> CNN: Senate Minority Leader Mitch McConnell blasted President Joe Biden's speech pushing for the Senate to change its filibuster rules to pass voting and elections legislation, saying Biden compared "a bipartisan majority of senators to literal traitors." 
  <p class="updated_time"> 04:32 PM CT, Jan. 12 </p> 
@@ -252,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/12/politics/trey-hollingsworth-republican-house-retirements/index.html">GOP Rep. Trey Hollingsworth announces he won't seek reelection to Indiana seat </a> CNN: GOP Rep. Trey Hollingsworth of Indiana announced on Wednesday he will not seek a fourth term in November, becoming the 12th House Republican to say he won't run for reelection. 
  <p class="updated_time"> 04:25 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/economy/cpi-inflation-december-2021.html">CPI December 2021: Inflation Jumped at Fastest Pace Since 1982</a> NYT: The Consumer Price Index increased at the fastest pace in 40 years, a new report showed. 
- <p class="updated_time"> 04:23 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/january-6-committee-weighs-options/index.html">Jan. 6 committee weighs options to get members of Congress to comply with probe</a> CNN: Members of the House select committee investigating the January 6 Capitol Hill insurrection are weighing what options they have to compel their fellow members of Congress to cooperate with their probe. 
  <p class="updated_time"> 04:23 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072552874/jan-6-panel-asks-gop-leader-kevin-mccarthy-to-voluntarily-share-information">Jan. 6 panel asks GOP leader Kevin McCarthy to voluntarily share information</a> NPR: The House select committee investigating the Jan. 6 attack is asking House GOP leader Kevin McCarthy to voluntarily provide information on conversations he had with former President Trump that day. 
  <p class="updated_time"> 04:04 PM CT, Jan. 12 </p> 
@@ -276,10 +280,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/12/politics/irs-tax-filing-season-jan-24-returns/index.html">IRS is in 'crisis,' facing massive backlog as new tax season starts</a> CNN: The Internal Revenue Service had more than 11 million unprocessed tax returns left over from the "most challenging year" taxpayers ever experienced and will begin the upcoming filing season already behind, according to a report from the National Taxpayer Advocate released Wednesday. 
  <p class="updated_time"> 01:49 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072483665/boris-johnson-apologizes-party">Boris Johnson apologizes for a BYOB party held as the U.K. was in COVID lockdown</a> NPR: Labour Party leader Keir Starmer called Prime Minister Boris Johnson's apology worthless, adding that his defense is that "he didn't realize he was at a party." 
- <p class="updated_time"> 01:30 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/fact-check-walensky-cdc-comorbidities-good-morning-america/index.html">Fact check: Right-wing figures falsely describe CDC director's comments about Covid-19 deaths</a> CNN: Prominent right-wing figures have been falsely describing a comment the director of the US Centers for Disease Control and Prevention made last week about Covid-19 deaths -- taking Dr. Rochelle Walensky out of context to wrongly claim she had delivered a dramatic new admission about the 840,000-plus Americans who have died of the virus. 
- <p class="updated_time"> 01:22 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/harry-reid-lying-in-state/index.html">Body of ex-Senate Democratic leader Harry Reid lying in state in Capitol Rotunda</a> CNN: The body of former Senate Democratic leader Harry Reid will lie in state in the Rotunda of the US Capitol on Wednesday, a rare honor granted by Congress to about three dozen other Americans, including former presidents, Supreme Court justices, lawmakers and national security officials. 
  <p class="updated_time"> 01:17 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/biden-voting-rights-speech-election-subversion.html">How the Voting Rights Bills Miss the Target on Election Subversion</a> NYT: The proposed legislation and the push to reform the Electoral Count Act leave open a variety of pathways to subvert a presidential election. 
  <p class="updated_time"> 12:30 PM CT, Jan. 12 </p> 
@@ -294,14 +294,18 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/12/politics/biden-administration-covid-masks-kn95-n95/index.html">Biden administration 'actively exploring' boosting supply of higher-quality N95, KN95 masks</a> CNN: The US Centers for Disease Control and Prevention has not changed its guidance on mask usage, but the Biden administration is "strongly considering" making higher quality masks, like N95 and KN95 masks, more available to Americans. 
  <p class="updated_time"> 11:07 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/astrazeneca-covid-19-treatment-purchase/index.html">Biden administration to announce additional purchase of 500,000 AstraZeneca Covid-19 treatment courses</a> CNN: The Biden administration is expected on Wednesday to announce the purchase of additional courses of a Covid-19 treatment manufactured by drugmaker AstraZeneca. 
+ <p class="updated_time"> 09:31 AM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/clean-energy-offshore-wind-biden-administration/index.html">White House unveils efforts to bolster offshore wind and modernize the grid </a> CNN: The White House unveiled several new initiatives across the government on Wednesday to bolster offshore wind production, streamline a review of public lands for clean energy and implement power grid improvements as part of the recently passed bipartisan infrastructure law. 
  <p class="updated_time"> 09:25 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/consumer-prices-526964">U.S. consumer prices soared 7 percent in past year, most since 1982</a> Politico: The jump is the latest evidence that rising costs for food, rent and other necessities are heightening the financial pressures on America’s households. 
+ <p class="updated_time"> 08:39 AM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden calls on Senate to change filibuster rules to pass voting rights bills: 'I'm tired of being quiet'</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
+ <p class="updated_time"> 08:39 AM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/georgia-political-center-stage-2022/index.html">Georgia has become the center of the political landscape</a> CNN: Georgia has become the center of the political landscape -- and it's likely to stay there for the remainder of 2022. 
  <p class="updated_time"> 07:43 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/12/whats-the-plan-man-dems-still-talking-elections-and-filibuster-495696">What’s the plan, Chuck?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:39 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/trump-mcconnell-2022/index.html">As candidates refuse to disavow McConnell, Trump comes to terms with his grip on GOP</a> CNN: Donald Trump is facing weak support among Republicans for his calls to depose Senate Minority Leader Mitch McConnell, and aides and allies say it's forcing the former President to confront new limitations on his influence over the party. 
- <p class="updated_time"> 06:57 AM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/jordan-jan-6-letter-fact-check/index.html">Fact-checking Jim Jordan's letter to the January 6 committee</a> CNN: In a letter sent Sunday responding to a request to meet with the House select committee investigating January 6, Republican Rep. Jim Jordan of Ohio accused the investigation of spreading misinformation "to paint a false and misleading narrative." 
  <p class="updated_time"> 06:13 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/12/our-exclusive-new-poll-on-voting-rights-495693"> Our exclusive new poll on voting rights</a> Politico Playbook: And the latest state of play on ECA reform. 
  <p class="updated_time"> 06:00 AM CT, Jan. 12 </p> 
@@ -324,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072204478/donald-trump-npr-interview-presidential-election-lies-vaccines">Pressed on his election lies, former President Trump cuts NPR interview short</a> NPR: The former president blasted Republicans who have crossed him and kept up repeated election lies in an NPR interview. 
  <p class="updated_time"> 04:00 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072322926/the-white-house-will-distribute-10-million-more-covid-tests-per-month-to-schools">The White House will distribute 10 million more COVID tests per month to schools</a> NPR: President Biden and others in his administration insist schools should stay open, even with the omicron wave making it harder than ever to manage. 
- <p class="updated_time"> 11:02 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/biden-voting-rights-legislative-legacy/index.html">Tuesday's speech marked an evolution in Biden as president</a> CNN: It took a year for Joe Biden to make an irrevocable bet that puts the credibility of his presidency on the line. If his bid now to change Senate rules to pass voting rights legislation fails, he'll lose more than just the bills he sees as vital to saving democracy. His drained political capital could spell the end of the entire domestic, legislative phase of his administration. 
  <p class="updated_time"> 10:50 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/georgias-voting-rights-advocates-joe-biden-526962">Biden confronts a skeptical base as he pushes voting rights in Georgia</a> Politico: The president made a forceful case to revamp the Senate rules and pass election laws. But his base has grown dubious. 
  <p class="updated_time"> 10:47 PM CT, Jan. 11 </p> 
@@ -336,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/health/fauci-senate-hearing-omicron-response.html">U.S. Officials Defend Omicron Response at Senate Hearing</a> NYT: Lawmakers accused top Biden administration health officials of neglecting virus testing and mangling key messaging around the pandemic. 
  <p class="updated_time"> 08:09 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/fauci-rand-paul-roger-marshall-hearing/index.html">Fauci spars with GOP lawmakers during tense Omicron hearing </a> CNN: Dr. Anthony Fauci hit back at two Republican senators in a pair of tense exchanges Tuesday, accusing one of attacking him for political gain and calling another "a moron" following questions about his finances during a Senate hearing. 
- <p class="updated_time"> 07:13 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/florida-special-election-sheila-cherfilus-mccormick/index.html">Sheila Cherfilus-McCormick will win Florida special election to replace the late Alcee Hastings, CNN projects </a> CNN: Sheila Cherfilus-McCormick, a progressive Democrat who campaigned on sending Americans a monthly $1,000 check, will win a special election on Tuesday to replace the late US Rep. Alcee Hastings in his South Florida district, CNN projects. 
  <p class="updated_time"> 07:12 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/ray-epps-january-6-committee.html">Jan. 6 Panel Seeks to Debunk Unfounded Theory About F.B.I. Role in Riot</a> NYT: The House select committee investigating the attack on the Capitol interviewed Ray Epps, a protester at the center of a right-wing conspiracy theory. 
  <p class="updated_time"> 07:08 PM CT, Jan. 11 </p> 
@@ -364,6 +364,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/anthony-fauci-gop-senators-financial-disclosure-526891">'What a moron': Fauci argues with GOP senator over financial disclosures</a> Politico: In response to Roger Marshall’s questioning, the NIAID director and top White House medical adviser said his disclosures had been “public knowledge” for over 30 years. 
  <p class="updated_time"> 04:29 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/jan-6-mike-pence-gop-lawmakers-526906">Jan. 6 investigators near decisions on how to pursue Mike Pence and GOP lawmakers</a> Politico: Chair Bennie Thompson said Tuesday both matters are high on the committee’s to-do list. 
+ <p class="updated_time"> 04:00 PM CT, Jan. 11 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/covid-19-testing-joe-biden-administration/index.html">'Everybody saw it coming,' expert says of Covid testing capacity, but Biden administration 'dropped the ball'</a> CNN: As President Joe Biden was spending his holidays with family at the White House and in Delaware, he was frustrated to see images on television of Americans waiting in long lines for Covid-19 tests. 
  <p class="updated_time"> 03:28 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/senators-feds-jan-6-riot-probe-526899">Senators grill feds over Jan. 6 riot probe</a> Politico: Democrats challenged prosecutors for not seeking terrorism-related sentences, while Republicans often steered away from the insurrection altogether. 
  <p class="updated_time"> 01:45 PM CT, Jan. 11 </p> 
@@ -380,12 +382,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
+ <p class="updated_time"> 07:54 PM CT, Jan. 10 </p> 
+ <a href="https://www.cnn.com/2022/01/10/politics/home-covid-tests-health-insurance/index.html">Home Covid-19 tests must be paid for by health insurers starting Saturday</a> CNN: Health insurers must cover the cost of home Covid-19 tests starting January 15, the US Department of Health and Human Services announced Monday. 
  <p class="updated_time"> 07:10 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/democrats-filibuster-vote-526863">Dems' filibuster conundrum: It's not just Manchin and Sinema</a> Politico: Mark Kelly is undecided. Jon Tester likes a talking filibuster but is “not crazy” about making an exception for elections reform. And Jeanne Shaheen is promoting more modest changes. 
  <p class="updated_time"> 07:09 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/biden-administration-hill-democrats-russia-sanctions-526864">Biden administration hits the Hill to lobby Dems against GOP-backed Russia sanctions</a> Politico: But some centrists left the room noncommittal on Sen. Ted Cruz's push to block a gas pipeline that would benefit Moscow. 
- <p class="updated_time"> 06:58 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/maya-angelou-quarter-issued/index.html">Maya Angelou becomes first Black woman to appear on US quarter as Treasury begins distribution</a> CNN: A new US quarter featuring the late Maya Angelou went into circulation Monday, the US Mint announced, making the legendary poet and activist the first Black woman ever to appear on the coin. 
  <p class="updated_time"> 03:00 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/trump-immunity-jan-6-526839">Judge mulls whether Trump’s silence on Jan. 6 could amount to ‘agreement’ with rioters</a> Politico: During a hearing on civil lawsuits stemming from the Capitol attack, Donald Trump’s lawyers claimed sweeping immunity for the former president. 
  <p class="updated_time"> 07:29 AM CT, Jan. 10 </p> 
