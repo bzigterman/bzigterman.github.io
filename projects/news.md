@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:49 AM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-55760672?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic set to play in Australian Open despite visa uncertainty</a> BBC: The world's number one men's player gets his match draw for the Open despite a looming deportation threat. 
  <p class="updated_time"> 12:47 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59975272?at_medium=RSS&at_campaign=KARANGA">Ronnie Spector: Be My Baby singer of The Ronettes dies at 78</a> BBC: The pop super star was the lead singer of the 1960 pioneering all-girl group the Ronettes. 
  <p class="updated_time"> 11:55 PM CT, Jan. 12 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/boris-johnson-apologizes-for-attending-party-at-downing-street-during-lockdown-11641994454">Boris Johnson Apologizes for Party During Lockdown</a> WSJ: The British prime minister sought to tamp down growing public outcry and respond to pressure from his own lawmakers over the event. 
  <p class="updated_time"> 07:15 AM CT, Jan. 12 </p> 
  <a href="https://www.wsj.com/articles/omicron-puts-chinas-zero-covid-strategy-to-its-toughest-test-11642003293">Omicron Puts China's 'Zero-Covid' Strategy to Its Toughest Test</a> WSJ: The country’s continuing effort to remain in a bubble points to more frequent and longer-lasting restrictions with the arrival of the highly contagious variant. 
- <p class="updated_time"> 07:04 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59964598?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Newsreaders caught in expletive-laden rant</a> BBC: A leaked video shows Australian journalists giving candid opinions on the tennis star's visa saga. 
  <p class="updated_time"> 05:36 AM CT, Jan. 12 </p> 
  <a href="https://www.wsj.com/articles/ethiopian-government-repels-rebels-pledges-peace-talks-11642005374">Ethiopian Government Repels Rebels, Pledges Peace Talks</a> WSJ: In a sharp reversal of fortunes, troops under Prime Minister Abiy Ahmed have forced Tigray People’s Liberation Front fighters back into their mountainous homeland in the country’s north. 
  <p class="updated_time"> 04:15 AM CT, Jan. 12 </p> 
@@ -187,7 +187,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 12:55 AM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072671395/abortion-rights-jumps-to-top-priority-for-democrats-in-new-poll">Abortion rights jumps to top priority for Democrats in new poll</a> NPR: The number of Democrats citing abortion rights as a top priority for the federal government to address jumped from less than 1% in 2021 to 13% in a new poll. 
+ <a href="https://www.npr.org/2022/01/13/1072671395/abortion-rights-jumps-to-a-top-priority-for-democrats-in-new-poll">Abortion rights jumps to a top priority for Democrats in a new poll</a> NPR: The number of Democrats citing abortion rights as a top priority for the federal government to address jumped from less than 1% in 2021 to 13% in a new poll. 
  <p class="updated_time"> 10:57 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/cheney-mccarthy-january-6/index.html">Cheney says McCarthy 'clearly trying to cover up what happened' on January 6</a> CNN: Rep. Liz Cheney, the vice chairwoman of the House select committee investigating the January 6 insurrection, on Wednesday did not rule out the possibility of subpoenaing Kevin McCarthy for information the panel is seeking, suggesting the House's top Republican is attempting to "cover up" what occurred that day. 
  <p class="updated_time"> 10:56 PM CT, Jan. 12 </p> 
