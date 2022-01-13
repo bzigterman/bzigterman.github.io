@@ -7,6 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:27 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-prince-andrew-royals.html">Prince Andrew and Boris Johnson: The U.K. Deals With Two Crises at Once</a> NYT: Historically, one of the institutions has stabilized the other in rocky moments. With troubling accusations against Prince Andrew and Boris Johnson, that’s not an option now. 
+ <p class="updated_time"> 04:22 PM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072867978/elderly-palestinian-american-man-found-dead-after-being-detained-by-israeli-troo">Elderly Palestinian American man found dead after being detained by Israeli troops</a> NPR: An elderly Palestinian American died shortly after being detained by Israeli forces, prompting an investigation of his treatment. 
+ <p class="updated_time"> 04:10 PM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072867964/2021-was-a-hot-year-in-a-concerningly-hot-decade-report-finds">2021 was a hot year in a concerningly hot decade, report finds</a> NPR: A new climate report finds that 2021 was the sixth hottest year on record. The past decade has also been the hottest since record-keeping began. 
+ <p class="updated_time"> 04:10 PM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072867927/journalists-probing-salvadoran-government-were-spied-on-using-military-grade-tec">Journalists probing Salvadoran government were spied on using military-grade tech</a> NPR: NPR's Ari Shapiro speaks with Julia Gavarrete, a journalist at the digital newspaper El Faro, about a recent study confirming that 22 journalists from El Faro were spied on using the spyware Pegasus. 
+ <p class="updated_time"> 04:09 PM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072884342/dutch-king-carriage-slavery">Dutch king won't use a royal carriage that's been criticized for a colonial image</a> NPR: The king ruled out using, for now at least, the "Golden Carriage," which bears a painting that critics say glorifies the Netherlands' colonial past, including its role in the global slave trade. 
+ <p class="updated_time"> 04:09 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/middleeast/baghdad-embassy-rockets-iran.html">Rockets Possibly Fired by Pro-Iran Assailants Target U.S. Embassy in Iraq</a> NYT: Four rockets were fired at the fortified compound that houses the U.S. Embassy in Baghdad, and suspicion fell on pro-Iran militias. 
  <p class="updated_time"> 04:07 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59989476?at_medium=RSS&at_campaign=KARANGA">US Supreme Court blocks Biden's workplace vaccine mandate</a> BBC: The ruling marks a major blow to a central pillar of the White House's strategy for tackling Covid-19. 
  <p class="updated_time"> 03:55 PM CT, Jan. 13 </p> 
@@ -25,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072860337/nobel-peace-prize-ethiopian-prime-minister">Nobel body criticizes Ethiopian prime minister, a Peace Prize winner, over Tigray war</a> NPR: "As prime minister and winner of the Nobel Peace Prize, Abiy Ahmed has a special responsibility to end the conflict and contribute to peace," the Oslo-based committee said in a statement. 
  <p class="updated_time"> 03:27 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072867400/prince-andrew-to-face-sex-abuse-charges-as-a-private-citizen">Prince Andrew to face sex abuse charges as a private citizen</a> NPR: Britain's Prince Andrew will face sex abuse allegations as a private citizen, Buckingham Palace announced. He has also given up all public duties as well as his military titles and Royal charities. 
- <p class="updated_time"> 03:22 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-prince-andrew-royals.html">Prince Andrew and Boris Johnson: The U.K. Deals With Two Crises at Once</a> NYT: Historically, one of the institutions has stabilized the other in rocky moments. With troubling accusations against Prince Andrew and Boris Johnson, that’s not an option now. 
  <p class="updated_time"> 02:55 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/nato-ukraine.html">NATO Won’t Let Ukraine Join Soon. Here’s Why.</a> NYT: Ukraine, with Russian troops on its borders, is pressing for membership. But President Biden and European leaders are not ready for that step. 
  <p class="updated_time"> 02:42 PM CT, Jan. 13 </p> 
@@ -57,6 +67,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072779687/prince-andrew-royal-privileges-queen">Prince Andrew is stripped of his royal patronages and military titles</a> NPR: The move comes with Queen Elizabeth II's "approval and agreement," Buckingham Palace said. The announcement comes one day after Prince Andrew lost his bid to quash a sex-abuse lawsuit. 
  <p class="updated_time"> 11:48 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072775645/quebec-covid-19-unvaccinated-tax">Quebec's 'unvaxxed tax' has people rushing to get vaccinated</a> NPR: Quebec has reported the most COVID-19 deaths of any Canadian province. Only around 10% of its population is unvaccinated, but they make up 50% of all intensive care cases. 
+ <p class="updated_time"> 11:17 AM CT, Jan. 13 </p> 
+ <a href="https://www.wsj.com/articles/in-u-s-russia-talks-over-ukraine-kyiv-gets-a-voice-11642061460">Russia Suggests Military Deployment to Venezuela, Cuba if Tensions With U.S. Remain High</a> WSJ: Russia’s deputy foreign minister said talks with the U.S. over the security situation in Ukraine had stalled and suggested that Moscow could dispatch a military deployment to Venezuela and Cuba. 
  <p class="updated_time"> 11:05 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59986297?at_medium=RSS&at_campaign=KARANGA">'Havana syndrome': US baffled after new cases in Europe</a> BBC: Secretary of State Antony Blinken says investigations continue after more diplomats fall ill. 
  <p class="updated_time"> 10:49 AM CT, Jan. 13 </p> 
@@ -65,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59984857?at_medium=RSS&at_campaign=KARANGA">Covid: Viral photo highlights challenges of vaccinating Amazon</a> BBC: A photo of a man carrying his father has highlighted the challenges of vaccinating indigenous villages. 
  <p class="updated_time"> 09:37 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59960949?at_medium=RSS&at_campaign=KARANGA">The puzzle of America's record Covid hospital rate</a> BBC: Europe has fewer Covid patients in hospital now. Why are the US and Canada bucking the Omicron trend? 
- <p class="updated_time"> 09:25 AM CT, Jan. 13 </p> 
- <a href="https://www.wsj.com/articles/in-u-s-russia-talks-over-ukraine-kyiv-gets-a-voice-11642061460">Russia Suggests Military Deployment to Venezuela, Cuba if Tensions With U.S. Remain High</a> WSJ: Russia’s deputy foreign minister said talks with the U.S. over the security situation in Ukraine had stalled and suggested that Moscow could dispatch a military deployment to Venezuela and Cuba. 
  <p class="updated_time"> 09:12 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/omicron-peak-appears-to-have-passed-in-u-k-offering-hope-the-wave-is-receding-11642078349">Omicron Appears to Have Peaked in U.K., Offering Hope the Wave Is Receding</a> WSJ: A WSJ analysis of data suggests the wave has peaked, a promising sign that the highly transmissible variant’s impact may be brief, if intense, and fueling optimism that the pandemic may be waning. 
  <p class="updated_time"> 08:29 AM CT, Jan. 13 </p> 
@@ -112,13 +122,9 @@ permalink: /projects/news/
  <p class="updated_time"> 01:21 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-russia-talks-ukraine-brussels.html">NATO and Russia Talk Frankly, but Past One Another for Now</a> NYT: Four hours of frank and serious discussion between Russia and the 30-member alliance leave unanswered whether Vladimir V. Putin will choose diplomacy or war. 
  <p class="updated_time"> 09:47 PM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072657702/u-s-hits-north-korean-officials-with-sanctions-after-missile-test">U.S. hits North Korean officials with sanctions after missile test</a> NPR: The U.S. is also proposing U.N. sanctions in response to North Korea's six ballistic missile launches since September, each of which it says "were in violation of UN Security Council resolutions." 
- <p class="updated_time"> 09:47 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/us-iran-nuclear-deal.html">The U.S. and Iran Move Closer to a Nuclear Deal</a> NYT: As negotiations reach a critical stage, neither side wants to betray weakness by seeming too eager to reach a deal. 
  <p class="updated_time"> 08:59 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/palestinian-american-dies-israel.html">Palestinian American Dies of Heart Attack After Brief Detention by Israeli Troops</a> NYT: The elderly man, who was identified as Omar Asad, had been held during a raid by the Israeli Army on a Palestinian village in the occupied West Bank. 
- <p class="updated_time"> 08:53 PM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072628577/army-increases-bonus-new-recruits">The Army is increasing its largest signing bonus to $50,000 for some new recruits</a> NPR: Until now, the Army has offered a maximum bonus of $40,000. The head of Recruiting Command said the pandemic has made attracting new talent much more of a challenge. 
  <p class="updated_time"> 08:03 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/americas/el-salvador-journalists-spyware.html">Journalists in El Salvador Targeted With Spyware Intended for Criminals</a> NYT: The announcement came months after the U.S. government blacklisted the Israeli firm that produces Pegasus, the technology used to target the journalists. 
  <p class="updated_time"> 06:46 PM CT, Jan. 12 </p> 
@@ -133,10 +139,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/who-omicron-coronavirus.html">W.H.O. Official Urges Countries Not to Relax Covid Guidelines</a> NYT: Over the past week, a staggering average of 2.6 million new cases a day has been reported, according to according to the Center for Systems Science and Engineering at Johns Hopkins University. 
  <p class="updated_time"> 04:30 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/11/health/southern-africa-hiv-aids.html">In South Africa, Success Against H.I.V. Offers Hope </a> NYT: A former Africa correspondent, who covered the height of the AIDS epidemic there 15 years ago, finds lessons in the remarkable progress against that virus for our current fight. 
- <p class="updated_time"> 04:10 PM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072548453/boris-johnsons-attendance-at-a-garden-party-prompts-calls-for-his-resignation">Boris Johnson's attendance at a garden party prompts calls for his resignation</a> NPR: British Prime Minister Boris Johnson apologized for a lockdown garden party that has many calling from him to resign. 
- <p class="updated_time"> 04:03 PM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072413634/russia-nato-ukraine">4 things Russia wants right now</a> NPR: Russia forced the West into a flurry of diplomacy this week with its massive troop buildup on its border with Ukraine. Here's a short guide to what the Kremlin wants. 
  <p class="updated_time"> 03:57 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
  <p class="updated_time"> 02:31 PM CT, Jan. 12 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/world/europe/who-europe-covid-omicron-infection.html">Over Half of Europe Could Be Infected With Coronavirus Soon, W.H.O. Says</a> NYT: The agency cautioned against treating the virus like the seasonal flu, since much remains unknown, particularly regarding the severity in areas with lower vaccination rates. 
  <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59955682?at_medium=RSS&at_campaign=KARANGA">The 52-year search for a missing girl</a> BBC: On 12 January 1970, a British toddler disappeared from Fairy Meadow beach in NSW, Australia. 
- <p class="updated_time"> 04:24 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: He was a well-known journalist in his native Italy before going into politics, and devoted his tenure to making the Parliament more prominent. 
  <p class="updated_time"> 04:19 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/putin-ukraine-russia.html">Putin’s Next Move on Ukraine Is a Mystery. Just the Way He Likes It.</a> NYT: The contradictory, sometimes menacing messages from the Kremlin have stumped Western officials and Russia experts, showing the Russian leader’s desire to keep his rivals on edge. 
  <p class="updated_time"> 03:40 PM CT, Jan. 11 </p> 
@@ -204,12 +204,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:02 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
+ <p class="updated_time"> 04:27 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/business/osha-vaccine-mandate-businesses.html">Businesses are whipsawed again as the Supreme Court blocks OSHA’s vaccine mandate.</a> NYT: Companies must now decide whether to proceed with planned mandates without cover from the federal government. 
  <p class="updated_time"> 04:23 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/jan-6-subpoena-tech-527079">Jan. 6 investigators subpoena Twitter, YouTube, Facebook's parent and other tech giants</a> Politico: The select panel is seeking more information related to the spread of misinformation, coordinated efforts to overturn the 2020 election and domestic violent extremism. 
+ <p class="updated_time"> 04:22 PM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072867985/president-biden-announces-more-tests-masks-and-emergency-hospital-staff">President Biden announces more tests, masks and emergency hospital staff</a> NPR: President Biden announced new measures to respond to the COVID surge. He is sending troops to hospitals in some states and said that more tests and masks are being ordered for distribution nationwide. 
+ <p class="updated_time"> 04:15 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/covid-tests-biden.html">Biden Announces 500 Million More Tests Will be Purchased for Americans</a> NYT: President Biden also announced the allocation of 1,000 medical personnel to six states would carry out a pledge the president made last month on quashing Omicron. 
+ <p class="updated_time"> 04:12 PM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/kyrsten-sinema-filibuster-voting-rights/index.html">Sinema not backing down on filibuster in fatal blow to Democrats' voting rights fight</a> CNN: Democratic Sen. Kyrsten Sinema of Arizona reiterated from the Senate floor Thursday that she is not backing off her position to uphold the filibuster, less than an hour before President Joe Biden arrived on Capitol Hill to pitch Democrats on eradicating it. 
  <p class="updated_time"> 04:06 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-stewart-rhodes.html">Oath Keepers Leader Charged With Seditious Conspiracy in Jan. 6 Investigation</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald J. Trump. 
- <p class="updated_time"> 04:04 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/covid-tests-biden.html">Biden Announces 500 Million More Tests Will be Purchased for Americans</a> NYT: President Biden also announced the allocation of 1,000 medical personnel to six states would carry out a pledge the president made last month on quashing Omicron. 
  <p class="updated_time"> 03:57 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html">Oath Keepers leader and 10 others charged with 'seditious conspiracy' related to US Capitol attack</a> CNN: The Justice Department has charged 11 defendants with seditious conspiracy related to the Capitol attack on January 6, 2021, including the leader of the Oath Keepers, Stewart Rhodes. 
  <p class="updated_time"> 03:56 PM CT, Jan. 13 </p> 
@@ -232,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
  <p class="updated_time"> 02:35 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/rockets-green-zone-baghdad/index.html">Several rockets hit Baghdad's fortified Green Zone, including US embassy, and wound two civilians</a> CNN: A woman and a child were wounded when several rockets hit Baghdad's fortified Green Zone, including the US embassy, on Thursday, the embassy and Iraqi military said in statements. 
- <p class="updated_time"> 02:16 PM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/kyrsten-sinema-filibuster-voting-rights/index.html">Sinema not backing down on filibuster in fatal blow to Democrats' voting rights fight</a> CNN: Democratic Sen. Kyrsten Sinema of Arizona reiterated from the Senate floor Thursday that she is not backing off her position to uphold the filibuster, less than an hour before President Joe Biden arrived on Capitol Hill to pitch Democrats on eradicating it. 
  <p class="updated_time"> 02:08 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/health/fda-robert-califf.html">Senate Panel OKs Califf Nomination for F.D.A. Chief</a> NYT: A split committee vote revealed concerns about the opioid epidemic and abortion policies, foreshadowing a likely close vote on confirmation by the full Senate. 
  <p class="updated_time"> 02:08 PM CT, Jan. 13 </p> 
@@ -249,7 +253,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:46 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/business/economy/inflation-price-controls.html">Spike in Inflation Reignites Debate on Price Controls</a> NYT: A discussion over whether price controls would work to stem inflation is sweeping progressives. So far, it has little political acceptance. 
  <p class="updated_time"> 01:45 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072165393/supreme-court-blocks-bidens-vaccine-or-test-mandate-for-large-private-companies">Supreme Court blocks Biden's vaccine-or-test mandate for large private companies</a> NPR: But the court upheld a separate mandate for almost all employees at hospitals, nursing homes, and other health care providers that receive federal funds. 
+ <a href="https://www.npr.org/2022/01/13/1072165393/supreme-court-blocks-bidens-vaccine-or-test-mandate-for-large-private-companies">Supreme Court blocks Biden's vaccine-or-test mandate for large private companies</a> NPR: But the court upheld a separate mandate for almost all employees at hospitals, nursing homes and other health care providers that receive federal funds. 
  <p class="updated_time"> 01:43 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html">Supreme Court Blocks Biden’s Virus Mandate for Large Employers</a> NYT: But the justices allowed a vaccination requirement for health care workers at facilities that receive federal money. 
  <p class="updated_time"> 01:17 PM CT, Jan. 13 </p> 
@@ -344,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/white-house-environmental-justice-exits-526996">White House departures send tremors through environmental community</a> Politico: The abrupt exits of Cecilia Martinez and David Kieve from the White House's Council on Environmental Quality sparked alarm among environmental justice experts. 
  <p class="updated_time"> 04:32 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072548488/what-trump-told-npr-about-the-republican-party-before-he-hung-up">What Trump told NPR about the Republican party before he hung up</a> NPR: Former President Trump cut his NPR interview off abruptly when pressed about his election lies. Trump revealed a clear rift some Republican senators who have confirmed the truth that Biden won. 
- <p class="updated_time"> 04:23 PM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072552874/jan-6-panel-asks-gop-leader-kevin-mccarthy-to-voluntarily-share-information">Jan. 6 panel asks GOP leader Kevin McCarthy to voluntarily share information</a> NPR: The House select committee investigating the Jan. 6 attack is asking House GOP leader Kevin McCarthy to voluntarily provide information on conversations he had with former President Trump that day. 
  <p class="updated_time"> 03:51 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/jan-6-select-panel-to-seek-mccarthys-testimony-526983">McCarthy rejects Jan. 6 committee request for testimony about talks with Trump</a> Politico: The House minority leader, who helped scuttle an attempt to establish a bipartisan commission to investigate the insurrection, has spent months thrashing the select committee. 
  <p class="updated_time"> 03:10 PM CT, Jan. 12 </p> 
@@ -354,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/biden-trump-nuclear-weapons-526976">Biden team weighs killing Trump’s new nuclear weapons</a> Politico: Officials are considering canceling weapons that were backed by the last administration. 
  <p class="updated_time"> 01:50 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/irs-tax-filing-season-jan-24-returns/index.html">IRS is in 'crisis,' facing massive backlog as new tax season starts</a> CNN: The Internal Revenue Service had more than 11 million unprocessed tax returns left over from the "most challenging year" taxpayers ever experienced and will begin the upcoming filing season already behind, according to a report from the National Taxpayer Advocate released Wednesday. 
- <p class="updated_time"> 01:17 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/biden-voting-rights-speech-election-subversion.html">How the Voting Rights Bills Miss the Target on Election Subversion</a> NYT: The proposed legislation and the push to reform the Electoral Count Act leave open a variety of pathways to subvert a presidential election. 
  <p class="updated_time"> 12:30 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/joe-biden-inflation-december/index.html">Biden concedes he has 'more work to do' on fighting price hikes as inflation frustrations threaten his domestic agenda</a> CNN: President Joe Biden on Wednesday said that the latest report on inflation in the US shows there's more work to do on lowering the rate of inflation, but he argued that progress is being made. 
  <p class="updated_time"> 11:26 AM CT, Jan. 12 </p> 
