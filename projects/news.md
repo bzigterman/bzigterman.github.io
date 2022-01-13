@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:46 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/europe/prince-andrew-military-titles-abuse-case.html">Prince Andrew Is Stripped of Military Titles as Sexual Abuse Case Proceeds</a> NYT: Buckingham Palace said Andrew would not undertake any public duties and was defending his case as a private citizen. 
+ <p class="updated_time"> 03:33 PM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59967957?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 'Terrified' British Council teachers still in hiding</a> BBC: Afghan teachers employed by the British Council say they are still in hiding from the Taliban. 
+ <p class="updated_time"> 03:32 PM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072860337/nobel-peace-prize-ethiopian-prime-minister">Nobel body criticizes Ethiopian prime minister, a Peace Prize winner, over Tigray war</a> NPR: "As prime minister and winner of the Nobel Peace Prize, Abiy Ahmed has a special responsibility to end the conflict and contribute to peace," the Oslo-based committee said in a statement. 
  <p class="updated_time"> 03:28 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/01/13/world/syria-war-crimes-germany-verdict">Former Syrian Colonel Guilty in War Crimes Trial in Germany</a> NYT: In a landmark case, a court convicted Anwar Raslan of overseeing torture at a detention center nearly a decade ago and sentenced him to life in prison. It was one of the world’s first criminal trials on atrocities in Syria’s decade-long civil war. 
  <p class="updated_time"> 03:27 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072867400/prince-andrew-to-face-sex-abuse-charges-as-a-private-citizen">Prince Andrew to face sex abuse charges as a private citizen</a> NPR: Britain's Prince Andrew will face sex abuse allegations as a private citizen, Buckingham Palace announced. He has also given up all public duties as well as his military titles and Royal charities. 
- <p class="updated_time"> 03:24 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/europe/prince-andrew-military-titles-abuse-case.html">Prince Andrew Is Stripped of Military Titles as Sexual Abuse Case Proceeds</a> NYT: Buckingham Palace said Andrew would not undertake any public duties and was defending his case as a private citizen. 
  <p class="updated_time"> 03:22 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-prince-andrew-royals.html">U.K. Monarchy and Government Plunge Into Simultaneous Crises</a> NYT: Historically, one of the institutions has stabilized the other in rocky moments. With troubling accusations against Prince Andrew and Boris Johnson, that’s not an option now. 
  <p class="updated_time"> 03:07 PM CT, Jan. 13 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/europe/putin-ukraine-kazakhstan.html">For Putin, Propping Up Allies Is Turning Into a Perilous Bargain</a> NYT: The Russian leader is fighting fires on multiple fronts, illustrating the danger of his strategy of relying on force to aid his autocratic neighbors. 
  <p class="updated_time"> 01:21 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-russia-talks-ukraine-brussels.html">NATO and Russia Talk Frankly, but Past One Another for Now</a> NYT: Four hours of frank and serious discussion between Russia and the 30-member alliance leave unanswered whether Vladimir V. Putin will choose diplomacy or war. 
- <p class="updated_time"> 11:55 PM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59967957?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 'Terrified' British Council teachers still in hiding</a> BBC: Afghan teachers employed by the British Council say they are still in hiding from the Taliban. 
  <p class="updated_time"> 09:47 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072657702/u-s-hits-north-korean-officials-with-sanctions-after-missile-test">U.S. hits North Korean officials with sanctions after missile test</a> NPR: The U.S. is also proposing U.N. sanctions in response to North Korea's six ballistic missile launches since September, each of which it says "were in violation of UN Security Council resolutions." 
  <p class="updated_time"> 09:47 PM CT, Jan. 12 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/asia/beijing-olympics-covid.html">Omicron Deepens Uncertainty Surrounding Beijing Olympics</a> NYT: With the opening of the Winter Games three weeks away, officials in China are on high alert amid coronavirus outbreaks around the country. 
  <p class="updated_time"> 03:09 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/asia/novak-djokovic-covid-statement.html">Djokovic Admits False Statement on Australia Travel Document</a> NYT: The tennis star also said he had participated in an interview and a photo shoot even after testing positive for the coronavirus, in an apparent violation of rules in his native Serbia. 
- <p class="updated_time"> 02:46 AM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072371689/nato-and-russia-in-high-level-talks-as-ukraine-tensions-simmer">No breakthrough in Ukraine meeting, but NATO and Russia might talk more</a> NPR: Russia's delegation remained open to the prospect of future discussions after having its main positions rebuffed by NATO and the U.S. 
  <p class="updated_time"> 11:43 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/spain-student-housing-dorms.html">Dorms Pop Up in Spain as More Students Seek Housing Away From Home</a> NYT: The country’s student population has become increasingly mobile, fueling investments in accommodations, largely funded by foreign capital. 
  <p class="updated_time"> 06:12 PM CT, Jan. 11 </p> 
@@ -195,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59949236?at_medium=RSS&at_campaign=KARANGA">First pig heart to human transplant is a game-changer, say surgeons</a> BBC: In a world first, a pig heart has been successfully transplanted into a human by surgeons in the US. 
  <p class="updated_time"> 11:01 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/asia/afghanistan-united-nations-appeal.html">U.N. Seeks Huge Aid Increase to Prevent ‘Catastrophe’ in Afghanistan</a> NYT: The $5 billion appeal comes as a severe drought and the toll of decades of war have plunged three-quarters of the country’s population into acute poverty, according to the United Nations. 
- <p class="updated_time"> 06:28 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/europe/russia-us-ukraine-talks.html">In Talks on Ukraine, U.S. and Russia Deadlock Over NATO Expansion</a> NYT: Both sides expressed some optimism after negotiations in Geneva, but did not break an impasse over Russia’s demand that Ukraine never become a member of NATO. 
 
 
 </details>
@@ -204,14 +202,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:38 PM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/supreme-court-vaccine-mandate-covid-19/index.html">Supreme Court blocks nationwide vaccine and testing mandate for large businesses, allows health care vaccine mandate to take effect</a> CNN: The Supreme Court blocked President Joe Biden's vaccine or testing requirement aimed at large businesses, but it allowed a vaccine mandate for certain health care workers to go into effect nationwide. 
+ <p class="updated_time"> 03:34 PM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html">Oath Keepers leader and 10 others charged with 'seditious conspiracy' related to US Capitol attack</a> CNN: The Justice Department has charged 11 defendants with seditious conspiracy related to the Capitol attack on January 6, 2021, including the leader of the Oath Keepers, Stewart Rhodes. 
  <p class="updated_time"> 03:30 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard predicts that the Fed will engineer a soft economic landing.</a> NYT: Ms. Brainard, nominated to be the Federal Reserve’s vice chair, expects workers will come back as the economy chugs along, she told a Senate committee. 
- <p class="updated_time"> 03:21 PM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html">Oath Keepers leader and 10 others charged with 'seditious conspiracy' related to US Capitol attack</a> CNN: The Justice Department has charged 11 defendants with seditious conspiracy related to the Capitol attack on January 6, 2021, including the leader of the Oath Keepers, Stewart Rhodes. 
  <p class="updated_time"> 03:18 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/russia-talks-diplomacy-uncertain-thursday-osce/index.html">US warns 'drumbeats of war' are sounding as Ukraine crisis talks with Russia end with no breakthrough</a> CNN: The last of three meetings aimed at ratcheting down tensions with Moscow over its potential invasion of Ukraine ended without a clear breakthrough, leaving prospects for future diplomacy and de-escalation in doubt as Russian officials warned they could soon turn to military options. 
- <p class="updated_time"> 03:18 PM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/supreme-court-vaccine-mandate-covid-19/index.html">Supreme Court blocks nationwide vaccine and testing mandate for large businesses, allows health care vaccine mandate to take effect</a> CNN: The Supreme Court blocked President Joe Biden's vaccine or testing requirement aimed at large businesses, but it allowed a vaccine mandate for certain health care workers to go into effect nationwide. 
  <p class="updated_time"> 03:17 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/top-trump-enemy-might-join-gop-senate-primary-527070">Top Trump nemesis might join GOP Senate primary</a> Politico: There’s growing speculation in Arizona that Republican Gov. Doug Ducey will jump into the high-profile Senate race. 
  <p class="updated_time"> 03:12 PM CT, Jan. 13 </p> 
@@ -231,7 +229,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:08 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/health/fda-robert-califf.html">Senate Panel OKs Califf Nomination for F.D.A. Chief</a> NYT: A split committee vote revealed concerns about the opioid epidemic and abortion policies, foreshadowing a likely close vote on confirmation by the full Senate. 
  <p class="updated_time"> 02:08 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072819642/oath-keepers-leader-arrested-jan-6-insurrection-capitol">Oath Keepers leader arrested, charged with conspiracy for Jan. 6 insurrection</a> NPR: The federal government has charged Stewart Rhodes and 10 others with seditious conspiracy in the most serious case to emerge from its investigation into the Capitol riot. 
+ <a href="https://www.npr.org/2022/01/13/1072819642/oath-keepers-leader-arrested-jan-6-insurrection-capitol">Oath Keepers leader arrested, charged with seditious conspiracy for Jan. 6 riot</a> NPR: The federal government has charged Stewart Rhodes and 10 others with seditious conspiracy in the most serious case to emerge from its investigation into the Capitol riot. 
  <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
  <p class="updated_time"> 02:02 PM CT, Jan. 13 </p> 
