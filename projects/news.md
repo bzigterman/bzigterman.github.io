@@ -35,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/business/china-zero-covid-policy-xian.html">The Army of Millions Who Enforce China’s Zero-Covid Policy</a> NYT: As the troubled lockdown in Xi’an has shown, many Chinese people remain willing to work diligently toward the government’s goal of eliminating the virus, no matter the consequences. 
  <p class="updated_time"> 05:34 PM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59975272?at_medium=RSS&at_campaign=KARANGA">Ronnie Spector: Be My Baby singer of The Ronettes dies at 78</a> BBC: The rock and roll super star was the lead singer of the 1960 pioneering all-girl group the Ronettes. 
+ <p class="updated_time"> 05:02 PM CT, Jan. 12 </p> 
+ <a href="https://www.wsj.com/articles/pegasus-spyware-deployed-against-around-35-el-salvador-journalists-11642040676">Spyware Deployed Against El Salvador Journalists</a> WSJ: A spokeswoman for President Nayib Bukele denied involvement in illegal surveillance and said authorities are investigating the use of the Israeli-made Pegasus tool. 
  <p class="updated_time"> 04:56 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/who-omicron-coronavirus.html">W.H.O. Official Urges Countries Not to Relax Covid Guidelines</a> NYT: Over the past week, a staggering average of 2.6 million new cases a day has been reported, according to according to the Center for Systems Science and Engineering at Johns Hopkins University. 
  <p class="updated_time"> 04:50 PM CT, Jan. 12 </p> 
@@ -81,6 +83,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-definition.html">What Is NATO?</a> NYT: The North Atlantic Treaty Organization, a military alliance of Western powers, was created during the Cold War and remains central to Western diplomatic and military cooperation. 
  <p class="updated_time"> 08:25 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59900139?at_medium=RSS&at_campaign=KARANGA">A really simple guide to China-Taiwan relations</a> BBC: Tension between China and Taiwan has risen and what happens next matters to us all 
+ <p class="updated_time"> 08:24 AM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59969509?at_medium=RSS&at_campaign=KARANGA">Covid-19: Chinese woman stuck in lockdown with blind date</a> BBC: A swift lockdown in China’s Zhengzhou means a woman is stuck at her date’s house. 
  <p class="updated_time"> 08:14 AM CT, Jan. 12 </p> 
  <a href="https://www.wsj.com/articles/russia-nato-meet-over-ukraine-impasse-11641987171">Russia, NATO Fail to Resolve Differences in Ukraine Talks</a> WSJ: NATO Secretary-General Jens Stoltenberg said significant differences remained, but expressed hope that Russia, which has gathered tens of thousands of troops on its border with Ukraine, would agree to further talks. 
  <p class="updated_time"> 07:43 AM CT, Jan. 12 </p> 
@@ -192,6 +196,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:15 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/donald-trump-npr-interview.html">Trump Ends NPR Interview After Challenges to False Fraud Claim</a> NYT: Former President Donald J. Trump abruptly ended the interview after a lengthy back-and-forth over his claims of widespread election fraud. 
+ <p class="updated_time"> 10:12 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/lets-go-brandon-meme-gop.html">How the 'Let's Go, Brandon' Meme Became a Campaign Ad</a> NYT: How an inside joke among Republicans became one candidate’s tactic for reaching the G.O.P. masses. 
  <p class="updated_time"> 08:47 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/obama-filibuster-voting-rights-oped/index.html">Obama backs Biden's call to change Senate rules to pass voting rights in op-ed</a> CNN: Former President Barack Obama is calling on the Senate to "do the right thing" and pass voting rights legislation, backing President Joe Biden's push to change Senate filibuster rules to do so. 
  <p class="updated_time"> 08:41 PM CT, Jan. 12 </p> 
@@ -222,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/12/politics/dick-durbin-voting-rights-biden-segregationists/index.html">Top Democrat concedes Biden may have gone 'a little too far' in Georgia speech</a> CNN: Senate Majority Whip Dick Durbin on Wednesday said President Joe Biden may have gone "a little too far in his rhetoric" when he compared lawmakers who do not support changing Senate filibuster rules to pass stalled voting and elections legislation to segregationists. 
  <p class="updated_time"> 06:10 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/elections/david-mccormick-pennsylvania-senate.html">David McCormick Joins Republican Senate Primary in Pennsylvania</a> NYT: A former Treasury official, Mr. McCormick has drawn comparisons to Glenn Youngkin, the financier recently elected governor of Virginia. 
- <p class="updated_time"> 06:00 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/lets-go-brandon-meme-gop.html">How the 'Let's Go, Brandon' Meme Became a Campaign Ad</a> NYT: How an inside joke among Republicans became one candidate’s tactic for reaching the G.O.P. masses. 
  <p class="updated_time"> 05:59 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/covid-omicron-peak-what-matters/index.html">Analysis: Covid-19: A few words make a very big difference</a> CNN: In this time of tweets and Toks, 11 seconds is an eternity, and the act of stringing many words together feels like bloviating. It's boring. 
  <p class="updated_time"> 05:56 PM CT, Jan. 12 </p> 
@@ -272,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/12/politics/harry-reid-lying-in-state/index.html">Body of ex-Senate Democratic leader Harry Reid lying in state in Capitol Rotunda</a> CNN: The body of former Senate Democratic leader Harry Reid will lie in state in the Rotunda of the US Capitol on Wednesday, a rare honor granted by Congress to about three dozen other Americans, including former presidents, Supreme Court justices, lawmakers and national security officials. 
  <p class="updated_time"> 01:17 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/biden-voting-rights-speech-election-subversion.html">How the Voting Rights Bills Miss the Target on Election Subversion</a> NYT: The proposed legislation and the push to reform the Electoral Count Act leave open a variety of pathways to subvert a presidential election. 
- <p class="updated_time"> 12:39 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/donald-trump-npr-interview.html">Trump Ends NPR Interview After Challenges to False Fraud Claim</a> NYT: Former President Donald J. Trump abruptly ended the interview after a lengthy back-and-forth over his claims of widespread election fraud. 
  <p class="updated_time"> 12:30 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/joe-biden-inflation-december/index.html">Biden concedes he has 'more work to do' on fighting price hikes as inflation frustrations threaten his domestic agenda</a> CNN: President Joe Biden on Wednesday said that the latest report on inflation in the US shows there's more work to do on lowering the rate of inflation, but he argued that progress is being made. 
  <p class="updated_time"> 12:03 PM CT, Jan. 12 </p> 
