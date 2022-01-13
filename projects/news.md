@@ -202,6 +202,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:34 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/13/ball-rolling-on-voting-and-filibuster-overhauls-495715">Ball rolling on voting and filibuster overhauls</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:19 AM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/david-mccormick-us-senate-pennsylvania/index.html">David McCormick announces bid for US Senate in Pennsylvania</a> CNN: David McCormick, a Republican hedge fund executive, is running for the US Senate in Pennsylvania, he formally announced Thursday morning. 
  <p class="updated_time"> 06:57 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/capitol-riot-committee-defends-panel-structure-527018">Jan. 6 committee rebuts challenges to its legitimacy, citing Katrina and Benghazi probes</a> Politico: House Counsel Douglas Letter noted that there is precedent for a select committee operating without a contingent of members appointed by the minority party. 
  <p class="updated_time"> 06:48 AM CT, Jan. 13 </p> 
@@ -239,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/biden-omicron-medical-team-deployments/index.html">Biden to announce new federal medical team deployments to help hospitals with Covid-19 surge</a> CNN: President Joe Biden is expected to deliver remarks on Thursday announcing a new wave of federally deployed medical teams to six states to help hospitals combat Covid-19, a White House official told CNN. 
  <p class="updated_time"> 04:00 AM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/software-security-log4j-big-tech-white-house/index.html">Biden administration will meet with big tech firms Thursday over national security concerns in software</a> CNN: Biden administration officials will meet with key software developers and major tech firms like Apple and Google on Thursday to discuss ways of making open-source computer code more secure after a critical vulnerability emerged last month that US officials said could have affected hundreds of millions of devices worldwide. 
+ <a href="https://www.cnn.com/2022/01/13/politics/software-security-log4j-big-tech-white-house/index.html">Biden officials to meet with big tech firms over national security concerns in software</a> CNN: Biden administration officials will meet with key software developers and major tech firms like Apple and Google on Thursday to discuss ways of making open-source computer code more secure after a critical vulnerability emerged last month that US officials said could have affected hundreds of millions of devices worldwide. 
  <p class="updated_time"> 12:55 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072671395/abortion-rights-jumps-to-a-top-priority-for-democrats-in-new-poll">Abortion rights jump to a top priority for Democrats in a new poll</a> NPR: The number of Democrats citing abortion rights as a top priority for the federal government to address jumped from less than 1% in 2021 to 13% in a new poll. 
  <p class="updated_time"> 11:01 PM CT, Jan. 12 </p> 
@@ -414,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/09/mike-rounds-trump-election-republicans-526806">GOP senator says Trump’s election allegations are unfounded</a> Politico: “The election was fair, as fair as we have seen,” Mike Rounds said. 
  <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
- <p class="updated_time"> 09:07 AM CT, Jan. 09 </p> 
- <a href="https://www.cnn.com/2022/01/09/politics/biden-student-loan-for-profit-college/index.html">Why Biden's student loan relief efforts haven't yet reversed a DeVos decision on for-profit colleges</a> CNN: The Biden administration has pledged to make college more affordable. But it has chosen not to reinstate an Obama-era rule meant to prevent students from taking on too much debt to attend predatory for-profit colleges. 
  <p class="updated_time"> 12:41 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/senate-minority-whip-john-thune-to-run-for-reelection-526794">Senate Minority Whip John Thune to run for reelection</a> Politico: The 61-year-old South Dakotan is widely viewed as a potential successor to Senate Minority Leader Mitch McConnell 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
