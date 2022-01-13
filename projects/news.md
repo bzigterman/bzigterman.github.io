@@ -205,11 +205,11 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Head of far-right Oath Keepers, 10 others charged with seditious conspiracy in Capitol riot probe</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
+ <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
+ <p class="updated_time"> 01:33 PM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html">Oath Keepers leader and 10 others charged with 'seditious conspiracy' related to US Capitol attack</a> CNN: The Justice Department has charged 11 defendants with seditious conspiracy related to the Capitol attack on January 6, 2021, including the leader of the Oath Keepers, Stewart Rhodes. 
  <p class="updated_time"> 01:30 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/house-voting-rights-bill.html">Sinema Says She Will Not Support Changing Filibuster</a> NYT: Senator Kyrsten Sinema’s comments came after the House approved a set of voting rights measures on a party-line vote of 220 to 203. 
- <p class="updated_time"> 01:27 PM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html">Oath Keepers leader and 10 others charged with 'seditious conspiracy' related to US Capitol attack</a> CNN: The Justice Department has charged 11 defendants with seditious conspiracy related to the Capitol attack on January 6, 2021, including the leader of the Oath Keepers, Stewart Rhodes. 
  <p class="updated_time"> 01:27 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard predicts that the Fed will engineer a soft economic landing.</a> NYT: Ms. Brainard, a Federal Reserve governor who has been nominated to be the central bank’s vice chair, said she expects workers will come back as the economy chugs along. 
  <p class="updated_time"> 01:17 PM CT, Jan. 13 </p> 
@@ -222,6 +222,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/presidential-debates-rnc.html">R.N.C. Signals a Pullout From Presidential Debates</a> NYT: The Republican National Committee says it will require candidates to pledge to not participate in debates run by the Commission on Presidential Debates. What would replace them, if anything, was unclear. 
  <p class="updated_time"> 01:11 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-stewart-rhodes.html">Oath Keepers Leader Stewart Rhodes Arrested in Jan. 6 Investigation</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald Trump. 
+ <p class="updated_time"> 12:47 PM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/rnc-threatens-to-bar-candidates-from-presidential-debates-527037">RNC feud with presidential debate commission escalates with boycott threat</a> Politico: The committee sent a letter to the Commission on Presidential Debates saying it wants GOP presidential candidates to not work with the group. 
  <p class="updated_time"> 12:43 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/rnc-presidential-debates/index.html">RNC threatens to require its candidates pledge not to participate in general election debates sponsored by official commission</a> CNN: The Republican National Committee said Thursday in a letter to the Commission on Presidential Debates that it is prepared to "prohibit future Republican nominees from participating in CPD-sponsored debates" unless the commission makes a number of significant changes to its procedure. 
  <p class="updated_time"> 12:42 PM CT, Jan. 13 </p> 
