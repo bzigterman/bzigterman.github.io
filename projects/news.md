@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:46 AM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59958417?at_medium=RSS&at_campaign=KARANGA">Nigeria lifts Twitter ban after seven months</a> BBC: A suspension imposed last June is reversed after the networking site agrees to open a local office. 
  <p class="updated_time"> 04:22 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59975272?at_medium=RSS&at_campaign=KARANGA">Ronnie Spector: Be My Baby singer of The Ronettes dies at 78</a> BBC: The pop super star was the lead singer of the 1960 pioneering all-girl group the Ronettes. 
  <p class="updated_time"> 04:19 AM CT, Jan. 13 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59949924?at_medium=RSS&at_campaign=KARANGA">German court finds Syrian colonel guilty of crimes against humanity</a> BBC: The trial of Anwar Raslan was the world's first criminal case over state-led torture in Syria. 
  <p class="updated_time"> 03:37 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/germany-utilities-funding-prices.html">German Utilities Seek Extra Funding as Energy Prices Explode</a> NYT: Energy companies say they need extra financing to cover future commitments as natural gas prices remain near record levels. 
- <p class="updated_time"> 02:43 AM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59958417?at_medium=RSS&at_campaign=KARANGA">Nigeria lifts Twitter ban after seven months</a> BBC: A suspension imposed last June is reversed after the networking site agrees to open a local office. 
  <p class="updated_time"> 02:13 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072676232/china-is-doubling-down-on-its-zero-tolerance-covid-policy-ahead-of-the-olympics">China is doubling down on its 'zero-tolerance' COVID policy ahead of the Olympics</a> NPR: China is battling coronavirus outbreaks in six cities. More than 20 million people are in some form of lockdown. 
  <p class="updated_time"> 02:00 AM CT, Jan. 13 </p> 
@@ -270,6 +270,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/inflation-biden-economy-agenda-526980">Price spikes threaten to ground Biden's big-spending plans</a> Politico: The government reported Wednesday that the consumer price index, the most widely watched gauge of inflation, hit a four-decade high in December compared to the previous year. 
  <p class="updated_time"> 02:46 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/irs-backlog-tax-returns-2021.html">I.R.S. to Start Tax Season With Major Backlog </a> NYT: At least 10 million returns from last year remain unprocessed because of short-staffing at the tax collector, according to the national taxpayer advocate. 
+ <p class="updated_time"> 02:30 PM CT, Jan. 12 </p> 
+ <a href="https://www.politico.com/news/2022/01/12/biden-trump-nuclear-weapons-526976">Biden team weighs killing Trump’s new nuclear weapons</a> Politico: Officials are considering canceling weapons that were backed by the last administration. 
  <p class="updated_time"> 01:50 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/irs-tax-filing-season-jan-24-returns/index.html">IRS is in 'crisis,' facing massive backlog as new tax season starts</a> CNN: The Internal Revenue Service had more than 11 million unprocessed tax returns left over from the "most challenging year" taxpayers ever experienced and will begin the upcoming filing season already behind, according to a report from the National Taxpayer Advocate released Wednesday. 
  <p class="updated_time"> 01:49 PM CT, Jan. 12 </p> 
@@ -305,7 +307,11 @@ permalink: /projects/news/
  <p class="updated_time"> 06:00 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/how-to-mess-with-an-oligarch-526963">How to mess with an oligarch</a> Politico: Corruption — it’s one of the few political problems that unites people across the political spectrum, and across the globe. 
  <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
+ <a href="https://www.politico.com/news/2022/01/12/kansas-city-mayor-recall-fighting-covid-republicans-526900">Radical to the right, ‘boot-licker’ to the left. Kansas City mayor on America’s polarization.</a> Politico: Quinton Lucas on political division, clashes over pandemic-era restrictions and what it’s like being a Black mayor after George Floyd. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/mcconnell-successor-three-johns-race-526920">The shadow race to succeed McConnell is on — and all-John</a> Politico: Thune and Cornyn are best-positioned to become the next Senate GOP leader — but Barrasso is in the mix too. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
+ <a href="https://www.politico.com/news/2022/01/12/trump-governor-candidates-526954">Trump lost these states. Republican candidates for governor are emulating him anyway.</a> Politico: The former president's influence in key battleground states could be on the rise in 2022. 
  <p class="updated_time"> 04:23 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/school-testing-covid-19-biden-administration/index.html">Biden administration will provide K-12 schools with additional 10 million Covid-19 tests per month</a> CNN: The Biden administration on Wednesday announced new initiatives to provide an additional 10 million Covid-19 tests per month to schools and students in an effort to keep classrooms open. 
  <p class="updated_time"> 04:17 AM CT, Jan. 12 </p> 
@@ -346,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/us/politics/north-carolina-redistricting.html">North Carolina Court Upholds Republican Gerrymander of Maps</a> NYT: The ruling set up a final battle over the maps in the state Supreme Court, where Democrats hold a slim edge. 
  <p class="updated_time"> 06:30 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/medicare-alzheimers-drug-trial-526943">Medicare won’t cover controversial Alzheimer’s drug — unless patients are in a clinical trial</a> Politico: FDA approved the drug on an accelerated pathway, which requires a fourth clinical trial to demonstrate that the drug actually slows cognitive decline. 
- <p class="updated_time"> 06:21 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/north-carolina-gop-map-redistricting-526931">North Carolina court declines to toss out GOP-drawn House map</a> Politico: Democratic plaintiffs challenged the state's maps as illegal partisan gerrymanders and are planning to appeal to the state Supreme Court. 
  <p class="updated_time"> 06:15 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/democrats-covid-strategy-526924">'Rules need to be clear': Dems call for Covid strategy reset as cases spike</a> Politico: Congressional Democrats fret that the White House's strategy on Covid in recent weeks has been confusing and ineffective against the Omicron variant. 
  <p class="updated_time"> 06:10 PM CT, Jan. 11 </p> 
