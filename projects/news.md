@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:57 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/cheney-mccarthy-january-6/index.html">Cheney says McCarthy 'clearly trying to cover up what happened' on January 6</a> CNN: Rep. Liz Cheney, the vice chairwoman of the House select committee investigating the January 6 insurrection, on Wednesday did not rule out the possibility of subpoenaing Kevin McCarthy for information the panel is seeking, suggesting the House's top Republican is attempting to "cover up" what occurred that day. 
  <p class="updated_time"> 10:56 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/kevin-mccarthy-january-6/index.html">McCarthy says he will not cooperate with January 6 committee probe</a> CNN: The House select committee investigating the January 6 riot is asking Minority Leader Kevin McCarthy, a California Republican, to voluntarily provide information to the panel, a major development in the sweeping investigation, according to a new letter released Wednesday. 
  <p class="updated_time"> 10:15 PM CT, Jan. 12 </p> 
@@ -292,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/12/politics/astrazeneca-covid-19-treatment-purchase/index.html">Biden administration to announce additional purchase of 500,000 AstraZeneca Covid-19 treatment courses</a> CNN: The Biden administration is expected on Wednesday to announce the purchase of additional courses of a Covid-19 treatment manufactured by drugmaker AstraZeneca. 
  <p class="updated_time"> 09:25 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/consumer-prices-526964">U.S. consumer prices soared 7 percent in past year, most since 1982</a> Politico: The jump is the latest evidence that rising costs for food, rent and other necessities are heightening the financial pressures on America’s households. 
- <p class="updated_time"> 08:39 AM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden calls on Senate to change filibuster rules to pass voting rights bills: 'I'm tired of being quiet'</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
  <p class="updated_time"> 07:43 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/12/whats-the-plan-man-dems-still-talking-elections-and-filibuster-495696">What’s the plan, Chuck?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:39 AM CT, Jan. 12 </p> 
