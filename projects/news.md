@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:43 AM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59958417?at_medium=RSS&at_campaign=KARANGA">Nigeria lifts Twitter ban after seven months</a> BBC: A suspension imposed last June is reversed after the networking site agrees to open a local office. 
  <p class="updated_time"> 02:13 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072676232/china-is-doubling-down-on-its-zero-tolerance-covid-policy-ahead-of-the-olympics">China is doubling down on its 'zero-tolerance' COVID policy ahead of the Olympics</a> NPR: China is battling coronavirus outbreaks in six cities. More than 20 million people are in some form of lockdown. 
  <p class="updated_time"> 02:00 AM CT, Jan. 13 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072628577/army-increases-bonus-new-recruits">The Army is increasing its largest signing bonus to $50,000 for some new recruits</a> NPR: Until now, the Army has offered a maximum bonus of $40,000. The head of Recruiting Command said the pandemic has made attracting new talent much more of a challenge. 
  <p class="updated_time"> 08:03 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/americas/el-salvador-journalists-spyware.html">Journalists in El Salvador Targeted With Spyware Intended for Criminals</a> NYT: The announcement came months after the U.S. government blacklisted the Israeli firm that produces Pegasus, the technology used to target the journalists. 
- <p class="updated_time"> 07:50 PM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59958417?at_medium=RSS&at_campaign=KARANGA">Nigeria lifts Twitter ban after seven months</a> BBC: A suspension imposed last June is reversed after the networking site agrees to open a local office. 
  <p class="updated_time"> 06:46 PM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59703123?at_medium=RSS&at_campaign=KARANGA">Nigerian NFT artist Osinachi: The work created by using a word processor</a> BBC: Works by Nigerian Osinachi have made him one of Africa's leading digital and crypto-artists. 
  <p class="updated_time"> 06:11 PM CT, Jan. 12 </p> 
