@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:09 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/01/13/world/omicron-covid-testing-vaccines">Covid Live Updates: Biden to Announce Military Help for Hospitals in 6 States</a> NYT: Officials said the teams would assist Michigan, New Jersey, New Mexico, New York, Ohio and Rhode Island. The Australian Open will operate at significantly reduced spectator capacity. 
+ <p class="updated_time"> 09:32 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/13/world/omicron-covid-testing-vaccines">Covid Live Updates: Biden to Announce 500 Million More Tests and Military Help for Hospitals</a> NYT: Officials said the teams would assist Michigan, New Jersey, New Mexico, New York, Ohio and Rhode Island. The Australian Open will operate at significantly reduced spectator capacity. 
+ <p class="updated_time"> 09:16 AM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59978138?at_medium=RSS&at_campaign=KARANGA">Covid: Schools in France close as unions say 75% of teachers strike</a> BBC: Unions say 75% of teachers have walked out as they complain about Covid safety and testing rules. 
  <p class="updated_time"> 08:29 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59949924?at_medium=RSS&at_campaign=KARANGA">German court finds Syrian colonel guilty of crimes against humanity</a> BBC: The trial of Anwar Raslan was the world's first criminal case over state-led torture in Syria. 
  <p class="updated_time"> 08:18 AM CT, Jan. 13 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/europe/russia-ukraine-talks.html">Russia and West at Impasse as Ukraine Urges Reversal of Troop Buildup</a> NYT: In a third round of diplomacy on Eastern European security this week, Kremlin officials sounded an increasingly pessimistic note, though they did not close the door on future talks. 
  <p class="updated_time"> 07:07 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/aras-amiri-released-iran.html">Aras Amiri Has Returned to the U.K. After Being Jailed in Iran</a> NYT: Aras Amiri, a arts worker employed by the British Council, was arrested in March 2018 on espionage charges. She was acquitted in August and flew back to Britain earlier this week. 
- <p class="updated_time"> 06:59 AM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59978138?at_medium=RSS&at_campaign=KARANGA">Covid: Half of France's schools could close as teachers strike</a> BBC: About 75% of primary teachers are expected to strike as they complain about confusing testing rules. 
  <p class="updated_time"> 06:30 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-55760672?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic in Australian Open draw despite visa uncertainty</a> BBC: The defending champion is in the draw even though authorities are still deciding whether to deport him. 
  <p class="updated_time"> 06:21 AM CT, Jan. 13 </p> 
@@ -43,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072687850/uk-ministers-are-closing-ranks-around-boris-johnson-amid-calls-for-his-resignati">U.K. ministers are closing ranks around Boris Johnson amid calls for his resignation</a> NPR: Johnson apologized on Wednesday for attending a "bring your own booze" party in the garden of the prime minister's Downing Street office and residence in May 2020. 
  <p class="updated_time"> 04:35 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59970326?at_medium=RSS&at_campaign=KARANGA">Morocco sex for grades: Hassan I University lecturer jailed</a> BBC: The professor is sentenced to two years in prison after being convicted of indecent behaviour. 
+ <p class="updated_time"> 04:24 AM CT, Jan. 13 </p> 
+ <a href="https://www.wsj.com/articles/in-u-s-russia-talks-over-ukraine-kyiv-gets-a-voice-11642061460">Russia Suggests Military Deployment to Venezuela, Cuba if Tensions With U.S. Remain High</a> WSJ: Russia’s deputy foreign minister said talks with the U.S. over the security situation in Ukraine had stalled and suggested that Moscow could dispatch a military deployment to Venezuela and Cuba. 
  <p class="updated_time"> 04:22 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59975272?at_medium=RSS&at_campaign=KARANGA">Ronnie Spector: Be My Baby singer of The Ronettes dies at 78</a> BBC: The pop super star was the lead singer of the 1960 pioneering all-girl group the Ronettes. 
  <p class="updated_time"> 04:19 AM CT, Jan. 13 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072416672/germany-syria-torture-trial-crimes-against-humanity-verdict">In a landmark case, a German court convicts an ex-Syrian officer of torture</a> NPR: The world's first criminal trial on torture in Syria's prisons ended Thursday in Koblenz, Germany — the first time a high-ranking ex-Syrian official faced Syrians in open court in a war crimes case. 
  <p class="updated_time"> 04:09 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59979408?at_medium=RSS&at_campaign=KARANGA">Canada: Unvaccinated father loses right to see his child</a> BBC: The father is not allowed to see the 12-year-old until next month - unless he gets vaccinated. 
- <p class="updated_time"> 04:07 AM CT, Jan. 13 </p> 
- <a href="https://www.wsj.com/articles/in-u-s-russia-talks-over-ukraine-kyiv-gets-a-voice-11642061460">Russia Suggests Military Deployment to Venezuela, Cuba if Tensions With U.S. Remain High</a> WSJ: Russia’s deputy foreign ministry said talks with the U.S. over the security situation in Ukraine had stalled and suggested that Moscow could dispatch a military deployment to Venezuela and Cuba, as the Kremlin seeks to pressure Washington to respond to its demands to halt Western military activity that it says threatens Russia. 
  <p class="updated_time"> 04:06 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/taliban-members.html">The Taliban Have Staffing Issues. They Are Looking for Help in Pakistan.</a> NYT: Government jobs are given as patronage to ex-fighters and exiles living quietly in Pakistan. But not all possess the technical skills required for the job. 
  <p class="updated_time"> 03:11 AM CT, Jan. 13 </p> 
@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:24 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard, Nominee for Fed Vice Chair, Calls Inflation ‘Too High’</a> NYT: Lael Brainard, the Federal Reserve governor who President Biden nominated for vice chair, said the central bank is focused on getting price gains back down. 
+ <p class="updated_time"> 09:17 AM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/biden-omicron-medical-team-deployments/index.html">Biden to announce purchase of 500 million additional Covid-19 tests</a> CNN: President Joe Biden is expected to deliver remarks on Thursday announcing a new wave of federally deployed medical teams to six states to help hospitals combat Covid-19, a White House official told CNN. 
  <p class="updated_time"> 09:02 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/russia-talks-diplomacy-uncertain-thursday-osce/index.html">Russia issues stark warning as key meetings on Ukraine crisis end with no breakthrough</a> CNN: The last of three meetings aimed at ratcheting down tensions with Moscow over its potential invasion of Ukraine ended without a clear breakthrough, leaving prospects for future diplomacy and de-escalation in doubt as Russian officials warned they could soon turn to military options. 
  <p class="updated_time"> 09:00 AM CT, Jan. 13 </p> 
@@ -216,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/13/politics/melania-trump-hat-auction-controversy/index.html">Melania Trump's hat auction has even those who know her scratching their heads</a> CNN: Melania Trump's announcement last week that she was autographing and auctioning a hat for personal profit with two other items -- for an opening bid of $250,000 -- has left even those who know the former first lady well puzzling over her decision. 
  <p class="updated_time"> 08:07 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/republican-majority-investigation-plans-midterms/index.html">GOP plots onslaught of Biden probes in the run-up to 2024</a> CNN: Members of the far right are already agitating to launch impeachment proceedings against President Joe Biden if the GOP is in power in Congress next year. Some leading Republicans want to spotlight former President Donald Trump's false claims of voter fraud. And key House and Senate Republicans are vowing to probe the security failures surrounding last year's January 6 attack on the US Capitol -- and turn the attention to House Speaker Nancy Pelosi. 
- <p class="updated_time"> 07:58 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/12/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard, Nominee for Fed Vice Chair, Calls Inflation ‘Too High’</a> NYT: The Federal Reserve governor whom President Biden nominated for vice chair, will say the central bank is focused on getting price gains back down. 
  <p class="updated_time"> 07:34 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/13/ball-rolling-on-voting-and-filibuster-overhauls-495715">Ball rolling on voting and filibuster overhauls</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:57 AM CT, Jan. 13 </p> 
@@ -250,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072153233/virginias-first-black-woman-lieutenant-governor-says-we-need-to-move-on-from-sla">Virginia's first Black woman lieutenant governor says we need to move on from slavery</a> NPR: Winsome Sears, a Republican, will be sworn into office Saturday in Virginia alongside Gov.-elect Glenn Youngkin. Sears ran, in part, on the idea that the country's racial reckoning has gone too far. 
  <p class="updated_time"> 04:00 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/senate-judicial-nominations-blue-slips-democrats/index.html">Democrats embrace hardball judicial nomination tactics GOP adopted under Trump </a> CNN: Former President Donald Trump and Republicans broke with previous Senate tradition to confirm 17 federal appeals court nominees over the objection of Democratic senators representing the states tied to their seats on the bench. 
- <p class="updated_time"> 04:00 AM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/biden-omicron-medical-team-deployments/index.html">Biden to announce new federal medical team deployments to help hospitals with Covid-19 surge</a> CNN: President Joe Biden is expected to deliver remarks on Thursday announcing a new wave of federally deployed medical teams to six states to help hospitals combat Covid-19, a White House official told CNN. 
  <p class="updated_time"> 04:00 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/software-security-log4j-big-tech-white-house/index.html">Biden officials to meet with big tech firms over national security concerns in software</a> CNN: Biden administration officials will meet with key software developers and major tech firms like Apple and Google on Thursday to discuss ways of making open-source computer code more secure after a critical vulnerability emerged last month that US officials said could have affected hundreds of millions of devices worldwide. 
  <p class="updated_time"> 12:55 AM CT, Jan. 13 </p> 
