@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:13 AM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072676232/china-is-doubling-down-on-its-zero-tolerance-covid-policy-ahead-of-the-olympics">China is doubling down on its 'zero-tolerance' COVID policy ahead of the Olympics</a> NPR: China is battling coronavirus outbreaks in six cities. More than 20 million people are in some form of lockdown. 
  <p class="updated_time"> 02:00 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/putin-ukraine-kazakhstan.html">For Putin, Propping Up Allies Is Turning Into a Perilous Bargain</a> NYT: The Russian leader is fighting fires on multiple fronts, illustrating the danger of his strategy of relying on force to aid his autocratic neighbors. 
  <p class="updated_time"> 01:58 AM CT, Jan. 13 </p> 
@@ -141,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/world/europe/kazakhstan-russia-troops.html">Kazakhstan Says Russian Troops Can Start Leaving This Week</a> NYT: Kazakhstan’s president says violence has been quelled, so there is no longer need for the foreign troops he asked to help. Russia has not given a timeline for withdrawing. 
  <p class="updated_time"> 03:09 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/canada/wheatley-ontario-gas-explosion.html">Source of Mysterious Gas Leak Explosion in Canadian Town Stumps Officials</a> NYT: An explosion last summer in an Ontario community built on 19th-century gas wells has left locals searching for answers and some certainty that their town will ever recover. 
- <p class="updated_time"> 02:13 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072153873/magawa-hero-rat-dies-bomb-sniffing">Magawa, a heroic bomb-sniffing rat who is credited with saving lives, has died </a> NPR: "His contribution allows communities in Cambodia to live, work, and play; without fear of losing life or limb," the nonprofit APOPO said after the death of Magawa, an African giant pouched rat. 
  <p class="updated_time"> 01:42 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59960118?at_medium=RSS&at_campaign=KARANGA">I thought Dad's pig heart transplant was delirium</a> BBC: David Bennett, 57, is the first person in the world to receive a heart transplant from a genetically-modified pig. 
  <p class="updated_time"> 01:30 PM CT, Jan. 11 </p> 
