@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:50 PM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072867403/german-court-sentences-syrian-intelligence-officer-to-life-in-prison-for-war-cri">German court sentences Syrian intelligence officer to life in prison for war crimes</a> NPR: A German court sentenced a Syrian intelligence officer to life in prison, in a landmark war crimes trial. 
+ <p class="updated_time"> 03:50 PM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072867402/the-view-from-border-city-kharkiv-ukraine-as-russian-troops-appear-ready-to-inva">The view from border city Kharkiv, Ukraine, as Russian troops appear ready to invade</a> NPR: Kharkiv in eastern Ukraine has a large Russian population, but opinion has turned against Russia since the Kemlin stirred up a separatist war in the nearby Donbas and is threatening invasion. 
  <p class="updated_time"> 03:46 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/prince-andrew-military-titles-abuse-case.html">Prince Andrew Is Stripped of Military Titles as Sexual Abuse Case Proceeds</a> NYT: Buckingham Palace said Andrew would not undertake any public duties and was defending his case as a private citizen. 
+ <p class="updated_time"> 03:45 PM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59989476?at_medium=RSS&at_campaign=KARANGA">US Supreme Court blocks Biden's workplace vaccine mandate</a> BBC: The ruling marks a major blow to a central pillar of the White House's strategy for tackling Covid-19. 
  <p class="updated_time"> 03:33 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59967957?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 'Terrified' British Council teachers still in hiding</a> BBC: Afghan teachers employed by the British Council say they are still in hiding from the Taliban. 
  <p class="updated_time"> 03:32 PM CT, Jan. 13 </p> 
@@ -18,9 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:27 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072867400/prince-andrew-to-face-sex-abuse-charges-as-a-private-citizen">Prince Andrew to face sex abuse charges as a private citizen</a> NPR: Britain's Prince Andrew will face sex abuse allegations as a private citizen, Buckingham Palace announced. He has also given up all public duties as well as his military titles and Royal charities. 
  <p class="updated_time"> 03:22 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-prince-andrew-royals.html">U.K. Monarchy and Government Plunge Into Simultaneous Crises</a> NYT: Historically, one of the institutions has stabilized the other in rocky moments. With troubling accusations against Prince Andrew and Boris Johnson, that’s not an option now. 
- <p class="updated_time"> 03:07 PM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59989476?at_medium=RSS&at_campaign=KARANGA">US Supreme Court blocks Biden's workplace vaccine mandate</a> BBC: The ruling marks a major blow to a central pillar of the White House's strategy for tackling Covid-19. 
+ <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-prince-andrew-royals.html">Prince Andrew and Boris Johnson: The U.K. Deals With Two Crises at Once</a> NYT: Historically, one of the institutions has stabilized the other in rocky moments. With troubling accusations against Prince Andrew and Boris Johnson, that’s not an option now. 
  <p class="updated_time"> 02:55 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/nato-ukraine.html">NATO Won’t Let Ukraine Join Soon. Here’s Why.</a> NYT: Ukraine, with Russian troops on its borders, is pressing for membership. But President Biden and European leaders are not ready for that step. 
  <p class="updated_time"> 02:42 PM CT, Jan. 13 </p> 
@@ -137,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072548467/talks-between-russia-and-nato-don-t-seem-to-have-defused-tensions-on-ukrainian-b">Talks between Russia and NATO don't seem to have defused tensions on Ukrainian border</a> NPR: A Russian delegation was in Brussels Wednesday to meet with NATO officials, who are trying to head off an invasion of Ukraine by Russian troops massed on the border. 
  <p class="updated_time"> 02:31 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/spanish-doctors-ppe-settlement.html">Spanish Doctors Left Without P.P.E. Early in Pandemic Win Settlement</a> NYT: The ruling was the first in a raft of suits brought by doctors and nurses in Spain who say they worked without masks, gowns or surgical gloves. 
- <p class="updated_time"> 01:49 PM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072483665/boris-johnson-apologizes-party">Boris Johnson apologizes for a BYOB party held as the U.K. was in COVID lockdown</a> NPR: Labour Party leader Keir Starmer called Prime Minister Boris Johnson's apology worthless, adding that his defense is that "he didn't realize he was at a party." 
  <p class="updated_time"> 01:19 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/russia-sanctions-ukraine-nord-stream-pipeline.html">Senate Democrats Try to Advance Russia Sanctions Over Ukraine </a> NYT: The Democrats’ bill would impose new sanctions on Russian officials if Moscow invaded Ukraine. 
  <p class="updated_time"> 12:14 PM CT, Jan. 12 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-definition.html">What Is NATO?</a> NYT: The North Atlantic Treaty Organization, a military alliance of Western powers, was created during the Cold War and remains central to Western diplomatic and military cooperation. 
  <p class="updated_time"> 04:15 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/antigen-tests.html">Racing to Stop Omicron, Countries Rely on At-Home Antigen Tests</a> NYT: Countries aim keep up with the variant’s rapid pace of transmission, marking a shift from viewing P.C.R. testing as the primary method of diagnosis. 
- <p class="updated_time"> 03:59 AM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072375698/chinas-tianjin-orders-more-testing-on-14-million-after-omicron-reaches-city">China's Tianjin orders more testing on 14 million after omicron reaches city</a> NPR: The city of Tianjin ordered a second round of COVID-19 testing on Wednesday in the city about an hour from Beijing, which is set to host the Winter Olympics from February 4th. 
  <p class="updated_time"> 03:58 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/asia/beijing-olympics-covid.html">Omicron Deepens Uncertainty Surrounding Beijing Olympics</a> NYT: With the opening of the Winter Games three weeks away, officials in China are on high alert amid coronavirus outbreaks around the country. 
  <p class="updated_time"> 03:09 AM CT, Jan. 12 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:23 PM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/jan-6-subpoena-tech-527079">Jan. 6 investigators subpoena Twitter, YouTube, Facebook's parent and other tech giants</a> Politico: The select panel is seeking more information related to the spread of misinformation, coordinated efforts to overturn the 2020 election and domestic violent extremism. 
  <p class="updated_time"> 03:38 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/supreme-court-vaccine-mandate-covid-19/index.html">Supreme Court blocks nationwide vaccine and testing mandate for large businesses, allows health care vaccine mandate to take effect</a> CNN: The Supreme Court blocked President Joe Biden's vaccine or testing requirement aimed at large businesses, but it allowed a vaccine mandate for certain health care workers to go into effect nationwide. 
  <p class="updated_time"> 03:34 PM CT, Jan. 13 </p> 
@@ -230,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/health/fda-robert-califf.html">Senate Panel OKs Califf Nomination for F.D.A. Chief</a> NYT: A split committee vote revealed concerns about the opioid epidemic and abortion policies, foreshadowing a likely close vote on confirmation by the full Senate. 
  <p class="updated_time"> 02:08 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072819642/oath-keepers-leader-arrested-jan-6-insurrection-capitol">Oath Keepers leader arrested, charged with seditious conspiracy for Jan. 6 riot</a> NPR: The federal government has charged Stewart Rhodes and 10 others with seditious conspiracy in the most serious case to emerge from its investigation into the Capitol riot. 
- <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
  <p class="updated_time"> 02:02 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/sinema-voting-rights-bill.html">Sinema Says She Will Not Support Changing Filibuster</a> NYT: Senator Kyrsten Sinema’s comments came after the House approved a set of voting rights measures on a party-line vote of 220 to 203. 
  <p class="updated_time"> 01:55 PM CT, Jan. 13 </p> 
@@ -280,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072730868/biden-announces-plans-to-buy-500-million-more-covid-tests-and-to-offer-free-mask">Biden announces plans to buy 500 million more COVID tests and to offer free masks</a> NPR: The president expects a website to launch next week to order tests. The head of the postal workers union says that up to 7,000 temporary workers will be hired in the effort to get kits to Americans. 
  <p class="updated_time"> 09:24 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard, Nominee for Fed Vice Chair, Calls Inflation ‘Too High’</a> NYT: Lael Brainard, the Federal Reserve governor who President Biden nominated for vice chair, said the central bank is focused on getting price gains back down. 
- <p class="updated_time"> 09:00 AM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/david-scott-house-agriculture-worries-527015">Lawmakers raise health concerns as they quietly seek to replace a House chairman</a> Politico: Some Democratic lawmakers have been trying to gently push out Rep. David Scott as head of the House Agriculture Committee, citing questions about his effectiveness. 
  <p class="updated_time"> 08:31 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/joe-biden-democrats-inflation-midterm-elections/index.html">'Under Trump it was so much better': The reality Democrats may be missing is that people are hurting right now</a> CNN: Outside a Costco, Laura Godinez lifts meat, toothpaste, coffee, bottled water and bulk supplies of DayQuil from her cart -- just the staples in a pandemic-era weekly shopping trip that is now often missing extras that might bust the family budget, like cookies and snacks. 
  <p class="updated_time"> 08:21 AM CT, Jan. 13 </p> 
@@ -370,6 +368,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/12/whats-the-plan-man-dems-still-talking-elections-and-filibuster-495696">What’s the plan, Chuck?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/12/our-exclusive-new-poll-on-voting-rights-495693"> Our exclusive new poll on voting rights</a> Politico Playbook: And the latest state of play on ECA reform. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
+ <a href="https://www.politico.com/news/2022/01/12/kansas-city-mayor-recall-fighting-covid-republicans-526900">Radical to the right, ‘boot-licker’ to the left. Kansas City mayor on America’s polarization.</a> Politico: Quinton Lucas on political division, clashes over pandemic-era restrictions and what it’s like being a Black mayor after George Floyd. 
  <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/mcconnell-successor-three-johns-race-526920">The shadow race to succeed McConnell is on — and all-John</a> Politico: Thune and Cornyn are best-positioned to become the next Senate GOP leader — but Barrasso is in the mix too. 
  <p class="updated_time"> 04:23 AM CT, Jan. 12 </p> 
