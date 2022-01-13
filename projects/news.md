@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:47 PM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072657702/u-s-hits-north-korean-officials-with-sanctions-after-missile-test">U.S. hits North Korean officials with sanctions after missile test</a> NPR: The U.S. is also proposing U.N. sanctions in response to North Korea's six ballistic missile launches since September, each of which it says "were in violation of UN Security Council resolutions." 
+ <p class="updated_time"> 09:47 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/world/middleeast/us-iran-nuclear-deal.html">The U.S. and Iran Move Closer to a Nuclear Deal</a> NYT: As negotiations reach a critical stage, neither side wants to betray weakness by seeming too eager to reach a deal. 
  <p class="updated_time"> 09:23 PM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59974375?at_medium=RSS&at_campaign=KARANGA">Top Republican slams Biden voting speech as unpresidential</a> BBC: Mitch McConnell says Mr Biden's likening of Republicans to civil rights-era racists is "beneath his office". 
- <p class="updated_time"> 09:12 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/middleeast/us-iran-nuclear-deal.html">The U.S. and Iran Move Closer to a Nuclear Deal</a> NYT: As negotiations reach a critical stage, neither side wants to betray weakness by seeming too eager to reach a deal. 
  <p class="updated_time"> 08:59 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/palestinian-american-dies-israel.html">Palestinian American Dies of Heart Attack After Brief Detention by Israeli Troops</a> NYT: The elderly man, who was identified as Omar Asad, had been held during a raid by the Israeli Army on a Palestinian village in the occupied West Bank. 
  <p class="updated_time"> 08:53 PM CT, Jan. 12 </p> 
@@ -25,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59950666?at_medium=RSS&at_campaign=KARANGA">The people using YouTube to pay for their French chateau</a> BBC: How chateaux owners are using advertising revenues from social media posts to earn a living. 
  <p class="updated_time"> 06:09 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-famous-apologies.html">Boris Johnson's Apology Is Part of a Long Tradition</a> NYT: Prime Minister Boris Johnson’s self-abasing apology, for attending a party during a pandemic lockdown, joins a long list of mea culpas by the prominent and powerful. 
+ <p class="updated_time"> 06:07 PM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59949924?at_medium=RSS&at_campaign=KARANGA">Syrian torture: German verdict on crimes against humanity</a> BBC: The trial of Anwar Raslan is the world's first criminal case over state-led torture in Syria. 
  <p class="updated_time"> 05:49 PM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59974220?at_medium=RSS&at_campaign=KARANGA">Virginia Giuffre: What we know about Prince Andrew's accuser</a> BBC: What we know about the woman who has accused the British royal of sexual assault. 
  <p class="updated_time"> 05:34 PM CT, Jan. 12 </p> 
@@ -73,14 +77,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/africa/somalia-car-bomb.html">Car Bomb in Mogadishu, Somalia's Capital, Kills 8</a> NYT: The explosion, one of a string of recent attacks, comes as the country grapples with a political standoff and a growing humanitarian crisis. 
  <p class="updated_time"> 11:21 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/gruyere-cheese-us-court-ruling.html">Is Gruyère Still Gruyère if It Doesn’t Come From Gruyères?</a> NYT: A federal judge says yes, siding with U.S. cheese producers who say gruyère can be produced anywhere, not just in Switzerland and France. 
- <p class="updated_time"> 11:02 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59951126?at_medium=RSS&at_campaign=KARANGA">Baby found by teenagers in -20C in Siberia doing well</a> BBC: The girl was found by teens whose family now want to adopt her if relatives cannot be found. 
  <p class="updated_time"> 10:19 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-definition.html">What Is NATO?</a> NYT: The North Atlantic Treaty Organization, a military alliance of Western powers, was created during the Cold War and remains central to Western diplomatic and military cooperation. 
  <p class="updated_time"> 08:25 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59900139?at_medium=RSS&at_campaign=KARANGA">A really simple guide to China-Taiwan relations</a> BBC: Tension between China and Taiwan has risen and what happens next matters to us all 
- <p class="updated_time"> 08:24 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59969509?at_medium=RSS&at_campaign=KARANGA">Covid-19: Chinese woman stuck in lockdown with blind date</a> BBC: A swift lockdown in China’s Zhengzhou means a woman is stuck at her date’s house. 
  <p class="updated_time"> 08:14 AM CT, Jan. 12 </p> 
  <a href="https://www.wsj.com/articles/russia-nato-meet-over-ukraine-impasse-11641987171">Russia, NATO Fail to Resolve Differences in Ukraine Talks</a> WSJ: NATO Secretary-General Jens Stoltenberg said significant differences remained, but expressed hope that Russia, which has gathered tens of thousands of troops on its border with Ukraine, would agree to further talks. 
  <p class="updated_time"> 07:43 AM CT, Jan. 12 </p> 
@@ -91,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59964598?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Newsreaders caught in expletive-laden rant</a> BBC: A leaked video shows Australian journalists giving candid opinions on the tennis star's visa saga. 
  <p class="updated_time"> 05:36 AM CT, Jan. 12 </p> 
  <a href="https://www.wsj.com/articles/ethiopian-government-repels-rebels-pledges-peace-talks-11642005374">Ethiopian Government Repels Rebels, Pledges Peace Talks</a> WSJ: In a sharp reversal of fortunes, troops under Prime Minister Abiy Ahmed have forced Tigray People’s Liberation Front fighters back into their mountainous homeland in the country’s north. 
- <p class="updated_time"> 05:24 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59963434?at_medium=RSS&at_campaign=KARANGA">Alps murders: French police arrest suspect over killing of British family</a> BBC: Three members of a British family and a French cyclist were shot dead in the French Alps. 
  <p class="updated_time"> 04:15 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/antigen-tests.html">Racing to Stop Omicron, Countries Rely on At-Home Antigen Tests</a> NYT: Countries aim keep up with the variant’s rapid pace of transmission, marking a shift from viewing P.C.R. testing as the primary method of diagnosis. 
  <p class="updated_time"> 03:59 AM CT, Jan. 12 </p> 
@@ -145,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/arts/dance/tamara-rojo-artistic-director-san-francisco-ballet.html">San Francisco Ballet Appoints Tamara Rojo to Artistic Director</a> NYT: Rojo, who has given the English National Ballet a new allure, succeeds Helgi Tomasson as just the fifth director to lead the San Francisco company. 
  <p class="updated_time"> 01:26 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/ukraine-russia.html">A Russian Pledge of No Invasion? Ukrainians Are Skeptical.</a> NYT: When Russians say no, they often mean yes, a former Ukrainian member of Parliament said, as suspicion ran deep about Moscow’s intentions. 
- <p class="updated_time"> 01:04 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072134048/british-prime-minister-boris-johnson-party-lockdown-covid">Boris Johnson is in hot water for hosting a BYOB party during the U.K.'s 2020 lockdown</a> NPR: On the date of the prime minister's party, the country's COVID restrictions meant that people were required to remain in their homes and away from others unless they had a "reasonable excuse." 
  <p class="updated_time"> 12:12 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59959947?at_medium=RSS&at_campaign=KARANGA">Children were 'fighting for their lives' in Bronx fire</a> BBC: New Yorkers are still digesting the tragedy of the city's deadliest apartment blaze in three decades. 
  <p class="updated_time"> 11:49 AM CT, Jan. 11 </p> 
@@ -215,7 +211,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:49 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/warren-davidson-tweet-nazi-germany/index.html">GOP lawmaker compares DC vaccine protocols to Nazi Germany</a> CNN: Republican Rep. Warren Davidson of Ohio is drawing condemnation from his House colleagues for his comparison of Washington, DC's vaccine and Covid-19 protocols to Nazi Germany. 
  <p class="updated_time"> 07:13 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">Who the Jan. 6 committee has subpoenaed or asked to appear</a> CNN: The committee investigating the deadly Capitol Hill riot on January 6, 2021, has issued scores of subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
+ <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">Who the January 6 committee has subpoenaed or asked to appear</a> CNN: The committee investigating the deadly Capitol Hill riot on January 6, 2021, has issued scores of subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
  <p class="updated_time"> 07:01 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html">An Alabama Town’s Sewage Woes Test Biden’s Infrastructure Ambitions</a> NYT: The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most? 
  <p class="updated_time"> 06:38 PM CT, Jan. 12 </p> 
@@ -223,7 +219,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:36 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/congress-omicron.html">The Mood in the Capitol Was Already Dark. Then Came Omicron.</a> NYT: Congress, always a reflection of the country, is in a testy mood, as the latest coronavirus variant looms over the Capitol and schadenfreude is in full swing. 
  <p class="updated_time"> 06:20 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/dick-durbin-voting-rights-biden-segregationists/index.html">Top Democrat concedes Biden may have gone 'a little too far' in comparing some lawmakers to segregationists</a> CNN: Senate Majority Whip Dick Durbin on Wednesday said President Joe Biden may have gone "a little too far in his rhetoric" when he compared lawmakers who do not support changing Senate filibuster rules to pass stalled voting and elections legislation to segregationists. 
+ <a href="https://www.cnn.com/2022/01/12/politics/dick-durbin-voting-rights-biden-segregationists/index.html">Top Democrat concedes Biden may have gone 'a little too far' in Georgia speech</a> CNN: Senate Majority Whip Dick Durbin on Wednesday said President Joe Biden may have gone "a little too far in his rhetoric" when he compared lawmakers who do not support changing Senate filibuster rules to pass stalled voting and elections legislation to segregationists. 
  <p class="updated_time"> 06:10 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/elections/david-mccormick-pennsylvania-senate.html">David McCormick Joins Republican Senate Primary in Pennsylvania</a> NYT: A former Treasury official, Mr. McCormick has drawn comparisons to Glenn Youngkin, the financier recently elected governor of Virginia. 
  <p class="updated_time"> 06:00 PM CT, Jan. 12 </p> 
