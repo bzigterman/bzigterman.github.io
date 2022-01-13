@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:23 PM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59974375?at_medium=RSS&at_campaign=KARANGA">Top Republican slams Biden voting speech as unpresidential</a> BBC: Mitch McConnell says Mr Biden's likening of Republicans to civil rights-era racists is "beneath his office". 
+ <p class="updated_time"> 09:12 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/world/middleeast/us-iran-nuclear-deal.html">The U.S. and Iran Move Closer to a Nuclear Deal</a> NYT: As negotiations reach a critical stage, neither side wants to betray weakness by seeming too eager to reach a deal. 
  <p class="updated_time"> 08:59 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/palestinian-american-dies-israel.html">Palestinian American Dies of Heart Attack After Brief Detention by Israeli Troops</a> NYT: The elderly man, who was identified as Omar Asad, had been held during a raid by the Israeli Army on a Palestinian village in the occupied West Bank. 
  <p class="updated_time"> 08:53 PM CT, Jan. 12 </p> 
@@ -15,10 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/americas/el-salvador-journalists-spyware.html">Journalists in El Salvador Targeted With Spyware Intended for Criminals</a> NYT: The announcement came months after the U.S. government blacklisted the Israeli firm that produces Pegasus, the technology used to target the journalists. 
  <p class="updated_time"> 07:50 PM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59958417?at_medium=RSS&at_campaign=KARANGA">Nigeria lifts Twitter ban after seven months</a> BBC: A suspension imposed last June is reversed after the networking site agrees to open a local office. 
- <p class="updated_time"> 06:48 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/middleeast/us-iran-nuclear-deal.html">The U.S. and Iran Move Closer to a Nuclear Deal</a> NYT: As negotiations reach a critical stage, neither side wants to betray weakness by seeming too eager to reach a deal. 
- <p class="updated_time"> 06:46 PM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59974375?at_medium=RSS&at_campaign=KARANGA">Republican McConnell slams Biden voting rights speech as 'unpresidential'</a> BBC: President Joe Biden had criticised opponents to his election reforms in a fiery speech on Tuesday. 
  <p class="updated_time"> 06:46 PM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59703123?at_medium=RSS&at_campaign=KARANGA">Nigerian NFT artist Osinachi: The work created by using a word processor</a> BBC: Works by Nigerian Osinachi have made him one of Africa's leading digital and crypto-artists. 
  <p class="updated_time"> 06:11 PM CT, Jan. 12 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:47 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/obama-filibuster-voting-rights-oped/index.html">Obama backs Biden's call to change Senate rules to pass voting rights in op-ed</a> CNN: Former President Barack Obama is calling on the Senate to "do the right thing" and pass voting rights legislation, backing President Joe Biden's push to change Senate filibuster rules to do so. 
  <p class="updated_time"> 08:41 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/kevin-mccarthy-january-6/index.html">McCarthy says he will not cooperate with January 6 committee probe</a> CNN: The House select committee investigating the January 6 riot is asking Minority Leader Kevin McCarthy, a California Republican, to voluntarily provide information to the panel, a major development in the sweeping investigation, according to a new letter released Wednesday. 
  <p class="updated_time"> 08:37 PM CT, Jan. 12 </p> 
@@ -292,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/consumer-prices-526964">U.S. consumer prices soared 7 percent in past year, most since 1982</a> Politico: The jump is the latest evidence that rising costs for food, rent and other necessities are heightening the financial pressures on America’s households. 
  <p class="updated_time"> 08:39 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden calls on Senate to change filibuster rules to pass voting rights bills: 'I'm tired of being quiet'</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
- <p class="updated_time"> 08:39 AM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/georgia-political-center-stage-2022/index.html">Georgia has become the center of the political landscape</a> CNN: Georgia has become the center of the political landscape -- and it's likely to stay there for the remainder of 2022. 
  <p class="updated_time"> 07:43 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/12/whats-the-plan-man-dems-still-talking-elections-and-filibuster-495696">What’s the plan, Chuck?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:39 AM CT, Jan. 12 </p> 
