@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:08 PM CT, Jan. 13 </p> 
+ <p class="updated_time"> 03:28 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/13/world/syria-war-crimes-germany-verdict">Former Syrian Colonel Guilty in War Crimes Trial in Germany</a> NYT: In a landmark case, a court convicted Anwar Raslan of overseeing torture at a detention center nearly a decade ago and sentenced him to life in prison. It was one of the world’s first criminal trials on atrocities in Syria’s decade-long civil war. 
+ <p class="updated_time"> 03:27 PM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072867400/prince-andrew-to-face-sex-abuse-charges-as-a-private-citizen">Prince Andrew to face sex abuse charges as a private citizen</a> NPR: Britain's Prince Andrew will face sex abuse allegations as a private citizen, Buckingham Palace announced. He has also given up all public duties as well as his military titles and Royal charities. 
+ <p class="updated_time"> 03:24 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/prince-andrew-military-titles-abuse-case.html">Prince Andrew Is Stripped of Military Titles as Sexual Abuse Case Proceeds</a> NYT: Buckingham Palace said Andrew would not undertake any public duties and was defending his case as a private citizen. 
+ <p class="updated_time"> 03:22 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-prince-andrew-royals.html">U.K. Monarchy and Government Plunge Into Simultaneous Crises</a> NYT: Historically, one of the institutions has stabilized the other in rocky moments. With troubling accusations against Prince Andrew and Boris Johnson, that’s not an option now. 
  <p class="updated_time"> 03:07 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59989476?at_medium=RSS&at_campaign=KARANGA">US Supreme Court blocks Biden's workplace vaccine mandate</a> BBC: The ruling marks a major blow to a central pillar of the White House's strategy for tackling Covid-19. 
  <p class="updated_time"> 02:55 PM CT, Jan. 13 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59988413?at_medium=RSS&at_campaign=KARANGA">London 'hitman' on trial over plot to kill Pakistani activist in Netherlands</a> BBC: Muhammad Gohir Khan is accused of agreeing to kill a Pakistani military critic for £100,000. 
  <p class="updated_time"> 02:33 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-oust.html">How Conservatives Could Oust Prime Minister Boris Johnson</a> NYT: The future of Britain’s prime minister is in doubt after he admitted attending a party while the country was under Covid lockdown. Here’s a guide to how he could be forced out, or fight on. 
- <p class="updated_time"> 02:14 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/01/13/world/syria-war-crimes-germany-verdict">Former Syrian Colonel Guilty in War Crimes Trial in Germany</a> NYT: In a landmark case, a court convicted Anwar Raslan of overseeing torture at a detention center nearly a decade ago and sentenced him to life in prison. It was one of the world’s first criminal trials on atrocities in Syria’s decade-long civil war. 
  <p class="updated_time"> 02:13 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/serbia-djokovic.html">Why Novak Djokovic is a Hero in Serbia</a> NYT: Many feel a personal connection and pride with the tennis star, even if they do not agree with his decisions to stay unvaccinated. 
  <p class="updated_time"> 01:59 PM CT, Jan. 13 </p> 
@@ -131,12 +135,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072548467/talks-between-russia-and-nato-don-t-seem-to-have-defused-tensions-on-ukrainian-b">Talks between Russia and NATO don't seem to have defused tensions on Ukrainian border</a> NPR: A Russian delegation was in Brussels Wednesday to meet with NATO officials, who are trying to head off an invasion of Ukraine by Russian troops massed on the border. 
  <p class="updated_time"> 02:31 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/spanish-doctors-ppe-settlement.html">Spanish Doctors Left Without P.P.E. Early in Pandemic Win Settlement</a> NYT: The ruling was the first in a raft of suits brought by doctors and nurses in Spain who say they worked without masks, gowns or surgical gloves. 
- <p class="updated_time"> 02:06 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: More than a year after Prime Minister Abiy Ahmed began a military campaign in the Tigray region, Ethiopians are bitterly divided and their country is wracked by famine and suffering. 
  <p class="updated_time"> 01:49 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072483665/boris-johnson-apologizes-party">Boris Johnson apologizes for a BYOB party held as the U.K. was in COVID lockdown</a> NPR: Labour Party leader Keir Starmer called Prime Minister Boris Johnson's apology worthless, adding that his defense is that "he didn't realize he was at a party." 
- <p class="updated_time"> 01:43 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/nyregion/prince-andrew-epstein-lawsuit-virginia-giuffre.html">Epstein Accuser’s Lawsuit Against Prince Andrew Can Proceed, Judge Rules</a> NYT: Virginia Giuffre has sued Andrew, the second son of Queen Elizabeth II, accusing him of raping her when she was a teenager. 
  <p class="updated_time"> 01:19 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/russia-sanctions-ukraine-nord-stream-pipeline.html">Senate Democrats Try to Advance Russia Sanctions Over Ukraine </a> NYT: The Democrats’ bill would impose new sanctions on Russian officials if Moscow invaded Ukraine. 
  <p class="updated_time"> 12:14 PM CT, Jan. 12 </p> 
@@ -157,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/asia/novak-djokovic-covid-statement.html">Djokovic Admits False Statement on Australia Travel Document</a> NYT: The tennis star also said he had participated in an interview and a photo shoot even after testing positive for the coronavirus, in an apparent violation of rules in his native Serbia. 
  <p class="updated_time"> 02:46 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072371689/nato-and-russia-in-high-level-talks-as-ukraine-tensions-simmer">No breakthrough in Ukraine meeting, but NATO and Russia might talk more</a> NPR: Russia's delegation remained open to the prospect of future discussions after having its main positions rebuffed by NATO and the U.S. 
- <p class="updated_time"> 11:57 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/12/1072362137/twin-panda-cubs-delight-devoted-fans-at-tokyo-zoo-in-covid-shortened-debut">Twin panda cubs delight devoted fans at Tokyo zoo in a COVID shortened debut</a> NPR: Twin panda cubs made their first public appearance before delighted fans in Tokyo but only briefly for now — just for three days — due to a spike in COVID-19 cases driven by the omicron variant. 
  <p class="updated_time"> 11:43 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/spain-student-housing-dorms.html">Dorms Pop Up in Spain as More Students Seek Housing Away From Home</a> NYT: The country’s student population has become increasingly mobile, fueling investments in accommodations, largely funded by foreign capital. 
  <p class="updated_time"> 06:12 PM CT, Jan. 11 </p> 
@@ -197,6 +195,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59949236?at_medium=RSS&at_campaign=KARANGA">First pig heart to human transplant is a game-changer, say surgeons</a> BBC: In a world first, a pig heart has been successfully transplanted into a human by surgeons in the US. 
  <p class="updated_time"> 11:01 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/asia/afghanistan-united-nations-appeal.html">U.N. Seeks Huge Aid Increase to Prevent ‘Catastrophe’ in Afghanistan</a> NYT: The $5 billion appeal comes as a severe drought and the toll of decades of war have plunged three-quarters of the country’s population into acute poverty, according to the United Nations. 
+ <p class="updated_time"> 06:28 PM CT, Jan. 10 </p> 
+ <a href="https://www.nytimes.com/2022/01/10/world/europe/russia-us-ukraine-talks.html">In Talks on Ukraine, U.S. and Russia Deadlock Over NATO Expansion</a> NYT: Both sides expressed some optimism after negotiations in Geneva, but did not break an impasse over Russia’s demand that Ukraine never become a member of NATO. 
 
 
 </details>
@@ -204,14 +204,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:30 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard predicts that the Fed will engineer a soft economic landing.</a> NYT: Ms. Brainard, nominated to be the Federal Reserve’s vice chair, expects workers will come back as the economy chugs along, she told a Senate committee. 
+ <p class="updated_time"> 03:21 PM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html">Oath Keepers leader and 10 others charged with 'seditious conspiracy' related to US Capitol attack</a> CNN: The Justice Department has charged 11 defendants with seditious conspiracy related to the Capitol attack on January 6, 2021, including the leader of the Oath Keepers, Stewart Rhodes. 
+ <p class="updated_time"> 03:18 PM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/russia-talks-diplomacy-uncertain-thursday-osce/index.html">US warns 'drumbeats of war' are sounding as Ukraine crisis talks with Russia end with no breakthrough</a> CNN: The last of three meetings aimed at ratcheting down tensions with Moscow over its potential invasion of Ukraine ended without a clear breakthrough, leaving prospects for future diplomacy and de-escalation in doubt as Russian officials warned they could soon turn to military options. 
  <p class="updated_time"> 03:18 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/supreme-court-vaccine-mandate-covid-19/index.html">Supreme Court blocks nationwide vaccine and testing mandate for large businesses, allows health care vaccine mandate to take effect</a> CNN: The Supreme Court blocked President Joe Biden's vaccine or testing requirement aimed at large businesses, but it allowed a vaccine mandate for certain health care workers to go into effect nationwide. 
  <p class="updated_time"> 03:17 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/top-trump-enemy-might-join-gop-senate-primary-527070">Top Trump nemesis might join GOP Senate primary</a> Politico: There’s growing speculation in Arizona that Republican Gov. Doug Ducey will jump into the high-profile Senate race. 
  <p class="updated_time"> 03:12 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/social-media-subpoenas-january-6/index.html">January 6 panel targets social media companies with subpoenas after 'inadequate responses' to voluntary request </a> CNN: The House Select Committee investigating the January 6 riot has issued four subpoenas to giant social media conglomerates after the panel said the companies provided "inadequate responses" to its initial request for documents and information over the summer. 
- <p class="updated_time"> 03:12 PM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html">Oath Keepers leader and 10 others charged with 'seditious conspiracy' related to US Capitol attack</a> CNN: The Justice Department has charged 11 defendants with seditious conspiracy related to the Capitol attack on January 6, 2021, including the leader of the Oath Keepers, Stewart Rhodes. 
  <p class="updated_time"> 03:06 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/rnc-presidential-debates/index.html">RNC threatens to require its candidates pledge not to participate in general election debates sponsored by official commission</a> CNN: The Republican National Committee said Thursday in a letter to the Commission on Presidential Debates that it is prepared to "prohibit future Republican nominees from participating in CPD-sponsored debates" unless the commission makes a number of significant changes to its procedure. 
  <p class="updated_time"> 02:55 PM CT, Jan. 13 </p> 
@@ -228,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/health/fda-robert-califf.html">Senate Panel OKs Califf Nomination for F.D.A. Chief</a> NYT: A split committee vote revealed concerns about the opioid epidemic and abortion policies, foreshadowing a likely close vote on confirmation by the full Senate. 
  <p class="updated_time"> 02:08 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072819642/oath-keepers-leader-arrested-jan-6-insurrection-capitol">Oath Keepers leader arrested, charged with conspiracy for Jan. 6 insurrection</a> NPR: The federal government has charged Stewart Rhodes and 10 others with seditious conspiracy in the most serious case to emerge from its investigation into the Capitol riot. 
- <p class="updated_time"> 02:06 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard predicts that the Fed will engineer a soft economic landing.</a> NYT: Ms. Brainard, nominated to be the Federal Reserve’s vice chair, expects workers will come back as the economy chugs along, she told a Senate committee. 
  <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
  <p class="updated_time"> 02:02 PM CT, Jan. 13 </p> 
@@ -254,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-stewart-rhodes.html">Oath Keepers Leader Charged With Seditious Conspiracy in Jan. 6 Investigation</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald Trump. 
  <p class="updated_time"> 12:47 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/rnc-threatens-to-bar-candidates-from-presidential-debates-527037">RNC feud with presidential debate commission escalates with boycott threat</a> Politico: The committee sent a letter to the Commission on Presidential Debates saying it wants GOP presidential candidates to not work with the group. 
- <p class="updated_time"> 12:29 PM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/russia-talks-diplomacy-uncertain-thursday-osce/index.html">US warns 'drumbeats of war' are sounding as Ukraine crisis talks with Russia end with no breakthrough</a> CNN: The last of three meetings aimed at ratcheting down tensions with Moscow over its potential invasion of Ukraine ended without a clear breakthrough, leaving prospects for future diplomacy and de-escalation in doubt as Russian officials warned they could soon turn to military options. 
  <p class="updated_time"> 12:17 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072778094/sen-sinema-dashes-democrats-hope-to-change-the-filibuster">Biden says he doesn't know if voting rights legislation can pass</a> NPR: The president left a meeting with Senate Democrats pessimistic about a way forward on voting rights bills. 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
