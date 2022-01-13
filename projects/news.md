@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:44 PM CT, Jan. 13 </p> 
+ <p class="updated_time"> 02:55 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/nato-ukraine.html">NATO Won’t Let Ukraine Join Soon. Here’s Why.</a> NYT: Ukraine, with Russian troops on its borders, is pressing for membership. But President Biden and European leaders are not ready for that step. 
+ <p class="updated_time"> 02:54 PM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59989476?at_medium=RSS&at_campaign=KARANGA">US Supreme Court blocks Biden's workplace vaccine mandate</a> BBC: The ruling marks a major blow to a central pillar of the White House's strategy for tackling Covid-19. 
+ <p class="updated_time"> 02:42 PM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59988413?at_medium=RSS&at_campaign=KARANGA">London 'hitman' on trial over plot to kill Pakistani activist in Netherlands</a> BBC: Muhammad Gohir Khan is accused of agreeing to kill a Pakistani military critic for £100,000. 
  <p class="updated_time"> 02:33 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-oust.html">How Conservatives Could Oust Prime Minister Boris Johnson</a> NYT: The future of Britain’s prime minister is in doubt after he admitted attending a party while the country was under Covid lockdown. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 02:14 PM CT, Jan. 13 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59986297?at_medium=RSS&at_campaign=KARANGA">'Havana syndrome': US baffled after new cases in Europe</a> BBC: Secretary of State Antony Blinken says investigations continue after more diplomats fall ill. 
  <p class="updated_time"> 10:49 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/kazakhstan-russia-troops-withdrawal.html">Russian-Led Alliance Begins Withdrawing Troops From Kazakhstan</a> NYT: The force was deployed a week ago to stabilize the Central Asian country after political unrest that left dozens dead and thousands injured. 
- <p class="updated_time"> 10:15 AM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59958417?at_medium=RSS&at_campaign=KARANGA">Twitter agrees to Nigeria's demands to end seven-month ban</a> BBC: Following a seven-month ban, the micro-blogging site will register in Nigeria and pay tax locally. 
  <p class="updated_time"> 10:03 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59984857?at_medium=RSS&at_campaign=KARANGA">Covid: Viral photo highlights challenges of vaccinating Amazon</a> BBC: A photo of a man carrying his father has highlighted the challenges of vaccinating indigenous villages. 
  <p class="updated_time"> 09:37 AM CT, Jan. 13 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59970326?at_medium=RSS&at_campaign=KARANGA">Morocco sex for grades: Hassan I University lecturer jailed</a> BBC: The professor is sentenced to two years in prison after being convicted of indecent behaviour. 
  <p class="updated_time"> 04:19 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59977193?at_medium=RSS&at_campaign=KARANGA">Australia equals hottest day on record at 50.7C</a> BBC: Osnlow in Western Australia recorded 50.7C on Thursday, equalling a record set in 1962. 
- <p class="updated_time"> 04:13 AM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59978682?at_medium=RSS&at_campaign=KARANGA">Rust: Armourer on Alec Baldwin film sues prop supplier over ammunition supply</a> BBC: Hannah Gutierrez-Reed seeks unspecified damages from ammunition supplier Seth Kenney and his company. 
  <p class="updated_time"> 04:13 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072416672/germany-syria-torture-trial-crimes-against-humanity-verdict">In a landmark case, a German court convicts an ex-Syrian officer of torture</a> NPR: The world's first criminal trial on torture in Syria's prisons ended Thursday in Koblenz, Germany — the first time a high-ranking ex-Syrian official faced Syrians in open court in a war crimes case. 
  <p class="updated_time"> 04:09 AM CT, Jan. 13 </p> 
@@ -208,10 +208,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:17 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/top-trump-enemy-might-join-gop-senate-primary-527070">Top Trump nemesis might join GOP Senate primary</a> Politico: There’s growing speculation in Arizona that Republican Gov. Doug Ducey will jump into the high-profile Senate race. 
+ <p class="updated_time"> 02:55 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/nato-ukraine.html">NATO Won’t Let Ukraine Join Soon. Here’s Why.</a> NYT: Ukraine, with Russian troops on its borders, is pressing for membership. But President Biden and European leaders are not ready for that step. 
  <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: But the justices ruled that a separate federal policy insisting that many health care workers be vaccinated could move forward. 
- <p class="updated_time"> 02:44 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/nato-ukraine.html">NATO Won’t Let Ukraine Join Soon. Here’s Why.</a> NYT: Ukraine, with Russian troops on its borders, is pressing for membership. But President Biden and European leaders are not ready for that step. 
  <p class="updated_time"> 02:35 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/rockets-green-zone-baghdad/index.html">Several rockets hit Baghdad's fortified Green Zone, including US embassy, and wound two civilians</a> CNN: A woman and a child were wounded when several rockets hit Baghdad's fortified Green Zone, including the US embassy, on Thursday, the embassy and Iraqi military said in statements. 
  <p class="updated_time"> 02:16 PM CT, Jan. 13 </p> 
