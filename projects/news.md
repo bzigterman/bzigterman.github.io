@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:04 PM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59989476?at_medium=RSS&at_campaign=KARANGA">US Supreme Court blocks Biden's workplace vaccine mandate</a> BBC: The ruling marks a major blow to a central pillar of the White House's strategy for tackling Covid-19. 
  <p class="updated_time"> 04:27 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-prince-andrew-royals.html">Prince Andrew and Boris Johnson: The U.K. Deals With Two Crises at Once</a> NYT: Historically, one of the institutions has stabilized the other in rocky moments. With troubling accusations against Prince Andrew and Boris Johnson, that’s not an option now. 
  <p class="updated_time"> 04:22 PM CT, Jan. 13 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072884342/dutch-king-carriage-slavery">Dutch king won't use a royal carriage that's been criticized for a colonial image</a> NPR: The king ruled out using, for now at least, the "Golden Carriage," which bears a painting that critics say glorifies the Netherlands' colonial past, including its role in the global slave trade. 
  <p class="updated_time"> 04:09 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/middleeast/baghdad-embassy-rockets-iran.html">Rockets Possibly Fired by Pro-Iran Assailants Target U.S. Embassy in Iraq</a> NYT: Four rockets were fired at the fortified compound that houses the U.S. Embassy in Baghdad, and suspicion fell on pro-Iran militias. 
- <p class="updated_time"> 04:07 PM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59989476?at_medium=RSS&at_campaign=KARANGA">US Supreme Court blocks Biden's workplace vaccine mandate</a> BBC: The ruling marks a major blow to a central pillar of the White House's strategy for tackling Covid-19. 
  <p class="updated_time"> 03:55 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072867920/secretary-of-state-blinken-says-russia-will-face-consequences-if-they-invade-ukr">Secretary of State Blinken says Russia will face consequences if it invade Ukraine</a> NPR: NPR's Mary Louise Kelly talks with U.S. Secretary of State Antony Blinken about the United States' role in the ongoing conflict between Russia and Ukraine. 
  <p class="updated_time"> 03:53 PM CT, Jan. 13 </p> 
@@ -200,16 +200,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:56 PM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/moscow-washington-ukraine-527090">As talks flame out, Moscow and Washington brace for next moves on Ukraine</a> Politico: “The drumbeat of war is sounding loud, and the rhetoric has gotten rather shrill," one U.S. diplomat said. 
  <p class="updated_time"> 05:34 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/manchin-sinema-sink-filibuster-reform-527082">How Biden swung for filibuster reform — and missed with Manchin and Sinema</a> Politico: The president talked about the late majority leader Robert Byrd at some length during his Thursday meeting with the 50-member Senate Democratic caucus. 
  <p class="updated_time"> 05:02 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
+ <p class="updated_time"> 05:02 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-subpoenas.html">Jan. 6 Inquiry Weighs a Major Escalation: Subpoenaing Colleagues</a> NYT: A standoff between the committee investigating the attack and Representative Kevin McCarthy, the minority leader, as well as other Republicans, raises tricky legal and political issues. 
  <p class="updated_time"> 04:37 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072899728/california-governor-denies-rfk-assassin-sirhan-sirhan-parole">California governor denies RFK assassin Sirhan Sirhan parole</a> NPR: The parole panel's recommendation to release Sirhan, 77, in August was based in part on new California laws since he was last denied parole in 2016 — the 15th time he'd lost his bid for release. 
  <p class="updated_time"> 04:35 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-stewart-rhodes.html">Oath Keepers Leader Charged With Seditious Conspiracy in Jan. 6 Investigation</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald J. Trump. 
- <p class="updated_time"> 04:27 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/business/osha-vaccine-mandate-businesses.html">Businesses are whipsawed again as the Supreme Court blocks OSHA’s vaccine mandate.</a> NYT: Companies must now decide whether to proceed with planned mandates without cover from the federal government. 
  <p class="updated_time"> 04:23 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/jan-6-subpoena-tech-527079">Jan. 6 investigators subpoena Twitter, YouTube, Facebook's parent and other tech giants</a> Politico: The select panel is seeking more information related to the spread of misinformation, coordinated efforts to overturn the 2020 election and domestic violent extremism. 
  <p class="updated_time"> 04:22 PM CT, Jan. 13 </p> 
@@ -287,6 +289,8 @@ permalink: /projects/news/
  <p class="updated_time"> 04:58 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072687850/uk-ministers-are-closing-ranks-around-boris-johnson-amid-calls-for-his-resignati">U.K. ministers are closing ranks around Boris Johnson amid calls for his resignation</a> NPR: Johnson apologized on Wednesday for attending a "bring your own booze" party in the garden of the prime minister's Downing Street office and residence in May 2020. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/biden-agenda-democrats-senate-filibuster-527003">Biden was forged in the Senate. Now he's burning political capital to change it.</a> Politico: The president faces long odds as he wades into the filibuster battle. Still, Democrats say it's better to try and fail than not try at all. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/gop-russia-senate-sanctions-vote-527004">GOP grabs for the post-Trump upper hand on Moscow</a> Politico: Republicans are seeking a Russia reboot with a high-profile Senate sanctions vote on Thursday. But Democrats have their own harsh alternative. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/dems-child-tax-credit-manchin-527000">Down but not out: Dems plot course for Child Tax Credit as payments end</a> Politico: Though lawmakers have now shifted their attention to voting rights, they say they’ll return to the child credit. 
@@ -330,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/covid-health-officials-congress-omicron-526950">Decoding what Biden health officials told Congress about Omicron</a> Politico: In contrast to previous oversight hearings on the administration’s Covid-19 response, Dems raised sharp questions and complaints on the state of the resurging pandemic. 
  <p class="updated_time"> 06:15 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/democrats-covid-strategy-526924">'Rules need to be clear': Dems call for Covid strategy reset as cases spike</a> Politico: Congressional Democrats fret that the White House's strategy on Covid in recent weeks has been confusing and ineffective against the Omicron variant. 
- <p class="updated_time"> 05:02 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/biden-harris-voting-rights-speech-526903">‘I’m tired of being quiet’: Biden and Harris make forceful push for voting rights</a> Politico: The president called on the GOP to join Democrats in supporting the voting and elections reform bills. 
  <p class="updated_time"> 04:54 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/jan-6-panel-subpoenas-trump-jr-aides-trump-speechwriter-526916">Jan. 6 panel subpoenas Trump Jr. advisers, Trump speechwriter</a> Politico: The subpoenas for Andrew Surabian, Arthur Schwartz and Ross Worthington indicate investigators are inching ever closer to the Trump family. 
  <p class="updated_time"> 04:33 PM CT, Jan. 11 </p> 
