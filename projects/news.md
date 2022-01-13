@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:55 PM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59967957?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 'Terrified' British Council teachers still in hiding</a> BBC: Afghan teachers employed by the British Council say they are still in hiding from the Taliban. 
  <p class="updated_time"> 09:47 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072657702/u-s-hits-north-korean-officials-with-sanctions-after-missile-test">U.S. hits North Korean officials with sanctions after missile test</a> NPR: The U.S. is also proposing U.N. sanctions in response to North Korea's six ballistic missile launches since September, each of which it says "were in violation of UN Security Council resolutions." 
  <p class="updated_time"> 09:47 PM CT, Jan. 12 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-definition.html">What Is NATO?</a> NYT: The North Atlantic Treaty Organization, a military alliance of Western powers, was created during the Cold War and remains central to Western diplomatic and military cooperation. 
  <p class="updated_time"> 08:25 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59900139?at_medium=RSS&at_campaign=KARANGA">A really simple guide to China-Taiwan relations</a> BBC: Tension between China and Taiwan has risen and what happens next matters to us all 
- <p class="updated_time"> 08:24 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59969509?at_medium=RSS&at_campaign=KARANGA">Covid-19: Chinese woman stuck in lockdown with blind date</a> BBC: A swift lockdown in China’s Zhengzhou means a woman is stuck at her date’s house. 
  <p class="updated_time"> 08:14 AM CT, Jan. 12 </p> 
  <a href="https://www.wsj.com/articles/russia-nato-meet-over-ukraine-impasse-11641987171">Russia, NATO Fail to Resolve Differences in Ukraine Talks</a> WSJ: NATO Secretary-General Jens Stoltenberg said significant differences remained, but expressed hope that Russia, which has gathered tens of thousands of troops on its border with Ukraine, would agree to further talks. 
  <p class="updated_time"> 07:43 AM CT, Jan. 12 </p> 
@@ -221,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:13 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">Who the January 6 committee has subpoenaed or asked to appear</a> CNN: The committee investigating the deadly Capitol Hill riot on January 6, 2021, has issued scores of subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
  <p class="updated_time"> 07:01 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html">An Alabama Town’s Sewage Woes Test Biden’s Infrastructure Ambitions</a> NYT: The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most? 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html">As Infrastructure Money Flows, Wastewater Improvements Are Key</a> NYT: The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most? 
  <p class="updated_time"> 06:38 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/matt-gaetz-girlfriend-investigation.html">Gaetz’s Ex-Girlfriend Testifies Before Federal Grand Jury</a> NYT: The development suggests that the Justice Department may have secured a key witness in its child sex trafficking investigation of Representative Matt Gaetz. 
  <p class="updated_time"> 06:36 PM CT, Jan. 12 </p> 
@@ -333,7 +333,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:47 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/records-former-labor-leader-subpoenaed-526961">Records of former labor leader and close Biden ally subpoenaed</a> Politico: A grand jury is probing Harold Schaitberger's financial activities as the leader of the International Association of Fire Fighters. 
  <p class="updated_time"> 09:39 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-senate-history.html">Biden Defense of Filibuster Withers Under Partisan Rancor</a> NYT: The president left no doubt that he has reached a breaking point, lashing out at senators who are blocking voting rights legislation. 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-senate-history.html">Biden’s Longtime Defense of Senate Rules Withers Under Partisan Rancor</a> NYT: The president left no doubt that he has reached a breaking point, lashing out at senators who are blocking voting rights legislation. 
  <p class="updated_time"> 09:24 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/health/fauci-senate-hearing-omicron-response.html">U.S. Officials Defend Omicron Response at Senate Hearing</a> NYT: Lawmakers accused top Biden administration health officials of neglecting virus testing and mangling key messaging around the pandemic. 
  <p class="updated_time"> 08:09 PM CT, Jan. 11 </p> 
