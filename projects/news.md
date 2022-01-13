@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:27 PM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59988414?at_medium=RSS&at_campaign=KARANGA">Dutch King Willem-Alexander retires coach amid slavery row</a> BBC: Critics say the carriage depicts an image that celebrates the Netherlands' slave-owning past. 
+ <p class="updated_time"> 05:25 PM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072865429/russia-ukraine-conflict-secretary-of-state-antony-blinken">U.S. is 'fully prepared' if Russia invades Ukraine, Secretary of State says</a> NPR: Secretary of State Antony Blinken says the U.S. is planning "things we've not done in the past" if Russia invades Ukraine. Where do things stand now and what can the U.S. do at this point? 
  <p class="updated_time"> 05:04 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59989476?at_medium=RSS&at_campaign=KARANGA">US Supreme Court blocks Biden's workplace vaccine mandate</a> BBC: The ruling marks a major blow to a central pillar of the White House's strategy for tackling Covid-19. 
  <p class="updated_time"> 04:27 PM CT, Jan. 13 </p> 
@@ -83,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59949924?at_medium=RSS&at_campaign=KARANGA">German court finds Syrian colonel guilty of crimes against humanity</a> BBC: The trial of Anwar Raslan was the world's first criminal case over state-led torture in Syria. 
  <p class="updated_time"> 08:18 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59980405?at_medium=RSS&at_campaign=KARANGA">Kenya Power in the spotlight after nationwide blackout</a> BBC: Kenyans spent several hours with electricity this week, what are the underlying causes? 
- <p class="updated_time"> 08:06 AM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59979648?at_medium=RSS&at_campaign=KARANGA">Kylie Jenner becomes first woman with 300 million Instagram followers</a> BBC: Ariana Grande, previously the app's most popular woman, is now tied in second place with Selena Gomez. 
  <p class="updated_time"> 08:01 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/queen-elizabeth-strips-prince-andrew-of-his-titles-amid-sex-abuse-court-case-11642097901">Queen Strips Prince Andrew of Titles Amid Sex-Abuse Case</a> WSJ: The queen’s second son also agreed not to use the title “His Royal Highness” in any capacity, as Buckingham Palace cuts ties from the prince. 
  <p class="updated_time"> 07:07 AM CT, Jan. 13 </p> 
@@ -115,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/taliban-members.html">The Taliban Have Staffing Issues. They Are Looking for Help in Pakistan.</a> NYT: Government jobs are given as patronage to ex-fighters and exiles living quietly in Pakistan. But not all possess the technical skills required for the job. 
  <p class="updated_time"> 03:11 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/u-s-diplomats-in-geneva-paris-struck-with-suspected-havana-syndrome-11642075202">U.S. Diplomats in Geneva, Paris Struck With Suspected 'Havana Syndrome'</a> WSJ: The mysterious neurological ailment has afflicted as many as 200 U.S. officials in diplomatic posts world-wide. 
- <p class="updated_time"> 02:13 AM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072676232/china-is-doubling-down-on-its-zero-tolerance-covid-policy-ahead-of-the-olympics">China is doubling down on its 'zero-tolerance' COVID policy ahead of the Olympics</a> NPR: China is battling coronavirus outbreaks in six cities. More than 20 million people are in some form of lockdown. 
  <p class="updated_time"> 02:00 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/putin-ukraine-kazakhstan.html">For Putin, Propping Up Allies Is Turning Into a Perilous Bargain</a> NYT: The Russian leader is fighting fires on multiple fronts, illustrating the danger of his strategy of relying on force to aid his autocratic neighbors. 
  <p class="updated_time"> 01:21 AM CT, Jan. 13 </p> 
