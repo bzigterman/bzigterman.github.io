@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:21 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-russia-talks-ukraine-brussels.html">NATO and Russia Talk Frankly, but Past One Another for Now</a> NYT: Four hours of frank and serious discussion between Russia and the 30-member alliance leave unanswered whether Vladimir V. Putin will choose diplomacy or war. 
  <p class="updated_time"> 12:49 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-55760672?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic set to play in Australian Open despite visa uncertainty</a> BBC: The world's number one men's player gets his match draw for the Open despite a looming deportation threat. 
  <p class="updated_time"> 12:47 AM CT, Jan. 13 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/business/china-zero-covid-policy-xian.html">The Army of Millions Who Enforce China’s Zero-Covid Policy</a> NYT: As the troubled lockdown in Xi’an has shown, many Chinese people remain willing to work diligently toward the government’s goal of eliminating the virus, no matter the consequences. 
  <p class="updated_time"> 04:56 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/who-omicron-coronavirus.html">W.H.O. Official Urges Countries Not to Relax Covid Guidelines</a> NYT: Over the past week, a staggering average of 2.6 million new cases a day has been reported, according to according to the Center for Systems Science and Engineering at Johns Hopkins University. 
- <p class="updated_time"> 04:50 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-russia-talks-ukraine-brussels.html">NATO and Russia Talk Frankly, but Past One Another for Now</a> NYT: Four hours of frank and serious discussion between Russia and the 30-member alliance leave unanswered whether Vladimir V. Putin will choose diplomacy or war. 
  <p class="updated_time"> 04:41 PM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59974939?at_medium=RSS&at_campaign=KARANGA">Hoda Muthana: Alabama IS bride loses appeal for return to US</a> BBC: US-born Hoda Muthana is a citizen and should be allowed to return with her son, the lawsuit argued. 
  <p class="updated_time"> 04:30 PM CT, Jan. 12 </p> 
