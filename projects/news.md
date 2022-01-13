@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:46 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/01/13/world/omicron-covid-testing-vaccines">Covid Live Updates: Biden to Announce 500 Million More Tests and Military Help for Hospitals</a> NYT: Officials said the teams would assist Michigan, New Jersey, New Mexico, New York, Ohio and Rhode Island. The Australian Open will operate at significantly reduced spectator capacity. 
+ <p class="updated_time"> 09:55 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/13/world/omicron-covid-testing-vaccines">Covid Live Updates: Biden Announces 500 Million More Tests and Military Help for Hospitals</a> NYT: Teams will assist Michigan, New Jersey, New Mexico, New York, Ohio and Rhode Island. The Australian Open will operate at significantly reduced spectator capacity. 
  <p class="updated_time"> 09:46 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/covid-france-teachers-strike.html">Teachers in France Plan Strike Over Covid Rules for Classrooms</a> NYT: Teaching unions also planned demonstrations nationwide that are expected to pose a serious challenge for the government of President Emmanuel Macron. 
  <p class="updated_time"> 09:37 AM CT, Jan. 13 </p> 
@@ -200,10 +200,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:57 AM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/biden-omicron-medical-team-deployments/index.html">Biden to announce purchase of 500 million additional Covid-19 tests</a> CNN: President Joe Biden is expected to deliver remarks on Thursday announcing a new wave of federally deployed medical teams to six states to help hospitals combat Covid-19, a White House official told CNN. 
+ <p class="updated_time"> 09:52 AM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072730868/biden-announces-plans-to-buy-500-million-more-covid-tests-and-to-offer-free-mask">Biden announces plans to buy 500 million more COVID tests and to offer free masks</a> NPR: The new order doubles the number of tests already being procured for a total of 1 billion kits. Biden said a website will launch next week so Americans can order the free tests. 
  <p class="updated_time"> 09:24 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard, Nominee for Fed Vice Chair, Calls Inflation ‘Too High’</a> NYT: Lael Brainard, the Federal Reserve governor who President Biden nominated for vice chair, said the central bank is focused on getting price gains back down. 
- <p class="updated_time"> 09:17 AM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/biden-omicron-medical-team-deployments/index.html">Biden to announce purchase of 500 million additional Covid-19 tests</a> CNN: President Joe Biden is expected to deliver remarks on Thursday announcing a new wave of federally deployed medical teams to six states to help hospitals combat Covid-19, a White House official told CNN. 
  <p class="updated_time"> 09:02 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/russia-talks-diplomacy-uncertain-thursday-osce/index.html">Russia issues stark warning as key meetings on Ukraine crisis end with no breakthrough</a> CNN: The last of three meetings aimed at ratcheting down tensions with Moscow over its potential invasion of Ukraine ended without a clear breakthrough, leaving prospects for future diplomacy and de-escalation in doubt as Russian officials warned they could soon turn to military options. 
  <p class="updated_time"> 09:00 AM CT, Jan. 13 </p> 
@@ -211,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:56 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/david-mccormick-us-senate-pennsylvania/index.html">David McCormick announces bid for US Senate in Pennsylvania</a> CNN: David McCormick, a Republican hedge fund executive, is running for the US Senate in Pennsylvania, he formally announced Thursday morning. 
  <p class="updated_time"> 08:31 AM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/joe-biden-democrats-inflation-midterm-elections/index.html">Did Democrats make a strategic error?</a> CNN: Outside a Costco, Laura Godinez lifts meat, toothpaste, coffee, bottled water and bulk supplies of DayQuil from her cart -- just the staples in a pandemic-era weekly shopping trip that is now often missing extras that might bust the family budget, like cookies and snacks. 
+ <a href="https://www.cnn.com/2022/01/13/politics/joe-biden-democrats-inflation-midterm-elections/index.html">'Under Trump it was so much better': The reality Democrats may be missing is that people are hurting right now</a> CNN: Outside a Costco, Laura Godinez lifts meat, toothpaste, coffee, bottled water and bulk supplies of DayQuil from her cart -- just the staples in a pandemic-era weekly shopping trip that is now often missing extras that might bust the family budget, like cookies and snacks. 
  <p class="updated_time"> 08:22 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/us-army-50-thousand-dollars-recruitment-bonus/index.html">US Army offers up to $50K bonus to new recruits</a> CNN: The US Army is offering a bonus up to $50,000, the largest amount ever, to some new recruits who enlist for six years in an effort to increase its ranks amid the coronavirus pandemic. 
  <p class="updated_time"> 08:21 AM CT, Jan. 13 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/12/politics/school-testing-covid-19-biden-administration/index.html">Biden administration will provide K-12 schools with additional 10 million Covid-19 tests per month</a> CNN: The Biden administration on Wednesday announced new initiatives to provide an additional 10 million Covid-19 tests per month to schools and students in an effort to keep classrooms open. 
  <p class="updated_time"> 04:17 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072372538/nevada-sen-cortez-maston-on-why-ditching-the-filibuster-is-the-wrong-choice">Nevada Sen. Cortez Masto on why the filibuster rule should change</a> NPR: NPR's Rachel Martin talks to Democratic Sen. Catherine Cortez Masto of Nevada about the future of the filibuster and the legacy of former Majority Leader Harry Reid, who died last month. 
- <p class="updated_time"> 04:17 AM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072372531/biden-calls-for-changes-to-senate-filibuster-to-pass-voting-rights-bills">Biden calls for changes to Senate filibuster to pass voting rights bills</a> NPR: In a speech in Georgia, President Biden called for passage of voting rights reforms, including if necessary, getting rid of congressional rules that require 60 senators to support most legislation. 
  <p class="updated_time"> 10:50 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/georgias-voting-rights-advocates-joe-biden-526962">Biden confronts a skeptical base as he pushes voting rights in Georgia</a> Politico: The president made a forceful case to revamp the Senate rules and pass election laws. But his base has grown dubious. 
  <p class="updated_time"> 09:39 PM CT, Jan. 11 </p> 
