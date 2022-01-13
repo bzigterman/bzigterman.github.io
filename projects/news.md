@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:48 PM CT, Jan. 13 </p> 
+ <p class="updated_time"> 01:03 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/britain-mi5-china-agent-parliament.html">Britain’s Security Agency MI5 Warns Lawmakers of China’s Political Interference</a> NYT: An unusual alert by the agency named a Chinese lawyer who was “knowingly engaged in political interference activities” on behalf of Beijing in the U.K. Parliament. 
+ <p class="updated_time"> 12:54 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/13/world/syria-war-crimes-germany-verdict">Former Syrian Colonel Guilty in War Crimes Trial in Germany</a> NYT: In a landmark case, a court convicted Anwar Raslan of overseeing torture at a detention center nearly a decade ago and sentenced him to life in prison. It was one of the world’s first criminal trials on atrocities in Syria’s decade-long civil war. 
+ <p class="updated_time"> 12:52 PM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072735380/journalist-says-u-s-air-war-against-isis-killed-countless-civilians-in-syria">Journalist says U.S. air war against ISIS killed countless civilians in Syria </a> NPR: New York Times reporter Dave Philipps says a top-secret special ops unit disregarded official protocols to pick targets for airstrikes, resulting in the death of thousands of farmers and families. 
  <p class="updated_time"> 12:38 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/covid-france-teachers-strike.html">Teachers in France Plan Strike Over Covid Rules for Classrooms</a> NYT: Teaching unions also planned demonstrations nationwide that are expected to pose a serious challenge for the government of President Emmanuel Macron. 
  <p class="updated_time"> 12:30 PM CT, Jan. 13 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/europe/france-teachers-walkout-covid-coronavirus.html">Teachers in France Stage Walkout Over Covid Rules in Schools</a> NYT: Tens of thousands of teachers, other school personnel and parents took to the streets on Thursday to protest shifting, confusing rules that they say are now too lax. 
  <p class="updated_time"> 12:12 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59986422?at_medium=RSS&at_campaign=KARANGA">South Africa minister tells schoolgirls to 'open books and close legs'</a> BBC: Phophi Ramathuba is criticised for comments she made attempting to encourage abstinence. 
- <p class="updated_time"> 12:08 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/01/13/world/syria-war-crimes-germany-verdict">Live Updates: Former Syrian Colonel Guilty in War Crimes Trial in Germany</a> NYT: In a landmark case, a court convicted Anwar Raslan of overseeing torture at a detention center nearly a decade ago and sentenced him to life in prison. It was one of the world’s first criminal trials on atrocities in Syria’s decade-long civil war. 
  <p class="updated_time"> 12:06 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59977198?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic and the unanswered questions</a> BBC: Novak Djokovic is facing a number of questions over his activities after testing positive for Covid. 
  <p class="updated_time"> 12:00 PM CT, Jan. 13 </p> 
@@ -51,14 +53,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59980405?at_medium=RSS&at_campaign=KARANGA">Kenya Power in the spotlight after nationwide blackout</a> BBC: Kenyans spent several hours with electricity this week, what are the underlying causes? 
  <p class="updated_time"> 08:06 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59979648?at_medium=RSS&at_campaign=KARANGA">Kylie Jenner becomes first woman with 300 million Instagram followers</a> BBC: Ariana Grande, previously the app's most popular woman, is now tied in second place with Selena Gomez. 
- <p class="updated_time"> 07:18 AM CT, Jan. 13 </p> 
+ <p class="updated_time"> 08:01 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/queen-elizabeth-strips-prince-andrew-of-his-titles-amid-sex-abuse-court-case-11642097901">Queen Elizabeth Strips Prince Andrew of His Titles Amid Sex Abuse Court Case</a> WSJ: The queen’s second son also agreed not to use the title “His Royal Highness” in any capacity, as Buckingham Palace cuts ties from the prince. 
+ <p class="updated_time"> 07:54 AM CT, Jan. 13 </p> 
+ <a href="https://www.wsj.com/articles/in-u-s-russia-talks-over-ukraine-kyiv-gets-a-voice-11642061460">Russia Suggests Military Deployment to Venezuela, Cuba if Tensions With U.S. Remain High</a> WSJ: Russia’s deputy foreign minister said talks with the U.S. over the security situation in Ukraine had stalled and suggested that Moscow could dispatch a military deployment to Venezuela and Cuba. 
  <p class="updated_time"> 07:07 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/aras-amiri-released-iran.html">Aras Amiri Has Returned to the U.K. After Being Jailed in Iran</a> NYT: Aras Amiri, a arts worker employed by the British Council, was arrested in March 2018 on espionage charges. She was acquitted in August and flew back to Britain earlier this week. 
  <p class="updated_time"> 07:06 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/unvaccinated-father-cant-see-his-child-unless-he-gets-covid-19-shot-11642097164">Unvaccinated Father Can't See His Child Unless He Gets Covid-19 Shot</a> WSJ: A court in Quebec, Canada, placed a temporary ban on the parent’s visitation rights with his 12-year-old because he risks exposing the child and two stepsiblings to the coronavirus. 
- <p class="updated_time"> 06:52 AM CT, Jan. 13 </p> 
- <a href="https://www.wsj.com/articles/in-u-s-russia-talks-over-ukraine-kyiv-gets-a-voice-11642061460">Russia Suggests Military Deployment to Venezuela, Cuba if Tensions With U.S. Remain High</a> WSJ: Russia’s deputy foreign minister said talks with the U.S. over the security situation in Ukraine had stalled and suggested that Moscow could dispatch a military deployment to Venezuela and Cuba. 
  <p class="updated_time"> 06:21 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/africa/nigeria-lifts-twitter-ban.html">Nigeria Lifts Twitter Ban</a> NYT: The social media site had been blocked after it deleted a post from President Muhammadu Buhari about secessionist groups that was widely seen as threatening. 
  <p class="updated_time"> 06:12 AM CT, Jan. 13 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072362137/twin-panda-cubs-delight-devoted-fans-at-tokyo-zoo-in-covid-shortened-debut">Twin panda cubs delight devoted fans at Tokyo zoo in a COVID shortened debut</a> NPR: Twin panda cubs made their first public appearance before delighted fans in Tokyo but only briefly for now — just for three days — due to a spike in COVID-19 cases driven by the omicron variant. 
  <p class="updated_time"> 11:43 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/spain-student-housing-dorms.html">Dorms Pop Up in Spain as More Students Seek Housing Away From Home</a> NYT: The country’s student population has become increasingly mobile, fueling investments in accommodations, largely funded by foreign capital. 
- <p class="updated_time"> 11:26 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/12/1072359797/djokovic-clarifies-timeline-before-arriving-in-australia-as-visa-saga-continues">Djokovic admits a mistake on his Australia travel form and outlines COVID test timing</a> NPR: Djokovic moved to clarify the timeline about the period when he was infectious last month and about errors on the travel document he used to enter Australia to defend his Australian Open tennis title. 
  <p class="updated_time"> 06:12 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/who-europe-covid-omicron-infection.html">Over Half of Europe Could Be Infected With Coronavirus Soon, W.H.O. Says</a> NYT: The agency cautioned against treating the virus like the seasonal flu, since much remains unknown, particularly regarding the severity in areas with lower vaccination rates. 
  <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
@@ -206,16 +206,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:15 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/capitol-riot-online-messages-dhs-527027">Violent online messages before Capitol riot went unshared by DHS, emails show</a> Politico: The department's intelligence office saw "significant chatter" in the 48 hours before Jan. 6 and concluded it was just hyperbole, according to internal emails shared with POLITICO. 
+ <p class="updated_time"> 01:05 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-leader-arrested-in-jan-6-investigation.html">Oath Keepers Leader Stewart Rhodes  Arrested in Jan. 6 Investigation</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald Trump. 
+ <p class="updated_time"> 01:02 PM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html">Oath Keepers leader and 10 others charged with 'seditious conspiracy' related to US Capitol attack</a> CNN: The Justice Department has charged 11 defendants with seditious conspiracy related to the Capitol attack on January 6, 2021, including the leader of the Oath Keepers, Stewart Rhodes. 
  <p class="updated_time"> 12:47 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/rnc-threatens-to-bar-candidates-from-presidential-debates-527037">RNC feud with presidential debate commission escalates with boycott threat</a> Politico: The committee sent a letter to the Commission on Presidential Debates saying it wants GOP presidential candidates to not work with the group. 
  <p class="updated_time"> 12:43 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/rnc-presidential-debates/index.html">RNC threatens to require its candidates pledge not to participate in general election debates sponsored by official commission</a> CNN: The Republican National Committee said Thursday in a letter to the Commission on Presidential Debates that it is prepared to "prohibit future Republican nominees from participating in CPD-sponsored debates" unless the commission makes a number of significant changes to its procedure. 
  <p class="updated_time"> 12:42 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/kyrsten-sinema-filibuster-voting-rights/index.html">Kyrsten Sinema not backing down on the filibuster in fatal blow to Democrats' voting rights fight</a> CNN: Democratic Sen. Kyrsten Sinema of Arizona reiterated from the Senate floor Thursday that she is not backing off her position to uphold the filibuster, less than an hour before President Joe Biden arrived on Capitol Hill to pitch Democrats on eradicating it. 
- <p class="updated_time"> 12:42 PM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html">Oath Keepers leader and 10 others charged with 'seditious conspiracy' related to US Capitol attack</a> CNN: The Justice Department has charged 11 defendants with seditious conspiracy related to the Capitol attack on January 6, 2021, including the leader of the Oath Keepers, Stewart Rhodes. 
- <p class="updated_time"> 12:34 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-leader-arrested-in-jan-6-investigation.html">Oath Keepers Leader Stewart Rhodes  Arrested in Jan. 6 Investigation</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald Trump. 
  <p class="updated_time"> 12:33 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/biden-voting-rights-senate-democrats/index.html">House passes voting legislation ahead of Biden's Hill visit</a> CNN: President Joe Biden will travel to Capitol Hill on Thursday as he continues to push for passage of voting legislation in Congress, despite the uphill battle Democrats face amid Republican opposition and resistance within their own ranks to changing Senate rules. 
  <p class="updated_time"> 12:30 PM CT, Jan. 13 </p> 
