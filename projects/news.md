@@ -53,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/taliban-members.html">The Taliban Have Staffing Issues. They Are Looking for Help in Pakistan.</a> NYT: Government jobs are given as patronage to ex-fighters and exiles living quietly in Pakistan. But not all possess the technical skills required for the job. 
  <p class="updated_time"> 04:04 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59949924?at_medium=RSS&at_campaign=KARANGA">German court finds Syrian colonel guilty of crimes against humanity</a> BBC: The trial of Anwar Raslan was the world's first criminal case over state-led torture in Syria. 
+ <p class="updated_time"> 02:47 AM CT, Jan. 13 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-is-preparing-to-withdraw-troops-from-kazakhstan-11642081645">Russia Says It Is Preparing to Withdraw Troops From Kazakhstan</a> WSJ: Forces deployed in Kazakhstan to help authorities there tamp down antigovernment violence had completed their mission and were preparing to withdraw, the Russian Defense Ministry said. 
  <p class="updated_time"> 02:13 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072676232/china-is-doubling-down-on-its-zero-tolerance-covid-policy-ahead-of-the-olympics">China is doubling down on its 'zero-tolerance' COVID policy ahead of the Olympics</a> NPR: China is battling coronavirus outbreaks in six cities. More than 20 million people are in some form of lockdown. 
  <p class="updated_time"> 02:00 AM CT, Jan. 13 </p> 
@@ -65,14 +67,10 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/chinas-11th-hour-tax-reprieve-cheers-foreign-workersfor-now-11642076749">China's 11th-Hour Tax Reprieve Cheers Foreign Workers---For Now</a> WSJ: When China reversed plans to raise taxes on expats hours before they were scheduled to take effect, the Western business community welcomed the move, but the decision underscored challenges for foreign businesses. 
  <p class="updated_time"> 01:21 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-russia-talks-ukraine-brussels.html">NATO and Russia Talk Frankly, but Past One Another for Now</a> NYT: Four hours of frank and serious discussion between Russia and the 30-member alliance leave unanswered whether Vladimir V. Putin will choose diplomacy or war. 
- <p class="updated_time"> 01:03 AM CT, Jan. 13 </p> 
- <a href="https://www.wsj.com/articles/china-looks-to-secure-supplies-as-strains-with-u-s-and-its-allies-grow-11642075381">China Looks to Secure Supplies as Strains With U.S. and Its Allies Grow</a> WSJ: Beijing is stockpiling some essentials and planning on more domestic production as it accelerates efforts to make China less dependent on the world. 
  <p class="updated_time"> 01:00 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/u-s-diplomats-in-geneva-paris-struck-with-suspected-havana-syndrome-11642075202">U.S. Diplomats in Geneva, Paris Struck With Suspected 'Havana Syndrome'</a> WSJ: Mysterious neurological ailment has afflicted as many as 200 U.S. officials in diplomatic posts world-wide. 
  <p class="updated_time"> 12:45 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/syrian-officer-convicted-of-crimes-against-humanity-in-landmark-verdict-11642074301">Syrian Officer Convicted of Crimes Against Humanity in Landmark Verdict</a> WSJ: The officer is the highest-ranking official to be found guilty for the Syrian government’s actions during the country’s civil war, in a decision that could pave the way for similar prosecutions. 
- <p class="updated_time"> 12:37 AM CT, Jan. 13 </p> 
- <a href="https://www.wsj.com/articles/huge-u-s-investments-at-risk-in-kazakhstan-unrest-11642070688">Huge U.S. Investments at Risk in Kazakhstan Unrest</a> WSJ: Vast natural riches and relative political stability have made the country a ripe target for American investment. The current wave of protests has left many U.S. companies assessing their risks. 
  <p class="updated_time"> 12:34 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/in-u-s-russia-talks-over-ukraine-kyiv-gets-a-voice-11642061460">In U.S.-Russia Talks Over Ukraine, Kyiv Gets a Voice</a> WSJ: All the parties met at a meeting of the Organization for Security and Cooperation in Europe in Vienna on Thursday, where the organization proposed informal talks that would address ways to reduce military tensions between Russia and the West. 
  <p class="updated_time"> 11:55 PM CT, Jan. 12 </p> 
@@ -200,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:58 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard, Nominee for Fed Vice Chair, Calls Inflation ‘Too High’</a> NYT: The Federal Reserve governor whom President Biden nominated for vice chair, will say the central bank is focused on getting price gains back down. 
  <p class="updated_time"> 07:34 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/13/ball-rolling-on-voting-and-filibuster-overhauls-495715">Ball rolling on voting and filibuster overhauls</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:19 AM CT, Jan. 13 </p> 
@@ -225,7 +225,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:58 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072687850/uk-ministers-are-closing-ranks-around-boris-johnson-amid-calls-for-his-resignati">U.K. ministers are closing ranks around Boris Johnson amid calls for his resignation</a> NPR: Johnson apologized on Wednesday for attending a "bring your own booze" party in the garden of the prime minister's Downing Street office and residence in May 2020. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/biden-agenda-democrats-senate-filibuster-527003">Old-school senator no more: Biden goes all-in against the filibuster</a> Politico: The president faces long odds as he wades into the battle. Still, Democrats say it's better to try and fail than not try at all. 
+ <a href="https://www.politico.com/news/2022/01/13/biden-agenda-democrats-senate-filibuster-527003">Biden was forged in the Senate. Now he's burning political capital to change it.</a> Politico: The president faces long odds as he wades into the filibuster battle. Still, Democrats say it's better to try and fail than not try at all. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/gop-russia-senate-sanctions-vote-527004">GOP seeks a Russia reboot with Senate sanctions vote</a> Politico: After four years on the defensive over Donald Trump's approach to Moscow, Republicans want the upper hand. But Democrats have their own harsh alternative. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
@@ -290,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072552874/jan-6-panel-asks-gop-leader-kevin-mccarthy-to-voluntarily-share-information">Jan. 6 panel asks GOP leader Kevin McCarthy to voluntarily share information</a> NPR: The House select committee investigating the Jan. 6 attack is asking House GOP leader Kevin McCarthy to voluntarily provide information on conversations he had with former President Trump that day. 
  <p class="updated_time"> 04:04 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072549736/democrats-plan-a-procedural-maneuver-to-open-senate-debate-on-voting-rights-bill">Democrats plan a procedural maneuver to open Senate debate on voting rights bills</a> NPR: In a memo obtained by NPR, Senate Democrats say they've found a way to start debate on voting rights legislation. However, they still don't have a way forward for an actual floor vote. 
- <p class="updated_time"> 03:56 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard, Nominee for Fed Vice Chair, Calls Inflation ‘Too High’</a> NYT: Ms. Brainard, a Federal Reserve governor whom President Biden nominated for vice chair, will say the central bank is focused on getting price gains back down. 
  <p class="updated_time"> 03:55 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072548439/internal-gop-conflicts-about-2020-election-surface-as-party-fights-new-voting-la">Internal GOP conflicts about 2020 election surface as party fights new voting laws</a> NPR: Republicans are accusing Democrats of a power grab as they try to pass federal voting legislation. The GOP is also still struggling with former President Trump's ongoing lies about the 2020 election. 
  <p class="updated_time"> 03:51 PM CT, Jan. 12 </p> 
