@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:37 AM CT, Jan. 13 </p> 
+ <p class="updated_time"> 11:09 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/01/13/world/omicron-covid-testing-vaccines">Covid Live Updates: Biden Announces 500 Million More Tests and Military Help for Hospitals</a> NYT: Teams will assist Michigan, New Jersey, New Mexico, New York, Ohio and Rhode Island. The Australian Open will operate at significantly reduced spectator capacity. 
+ <p class="updated_time"> 11:00 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/havana-syndrome-evaluation-tool.html">U.S. Refines Tool to Evaluate Havana Syndrome Cases</a> NYT: The tool, essentially a standardized battery of questions and medical tests, can help determine the kind of care needed by people affected by the “anomalous health incidents.” 
+ <p class="updated_time"> 10:49 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/europe/kazakhstan-russia-troops-withdrawal.html">Russian-Led Alliance Begins Withdrawing Troops From Kazakhstan</a> NYT: The force was deployed a week ago to stabilize the Central Asian country after political unrest that left dozens dead and thousands injured. 
  <p class="updated_time"> 10:17 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/01/13/world/syria-war-crimes-germany-verdict">Live Updates: Former Syrian Colonel Guilty in War Crimes Trial in Germany</a> NYT: In a landmark case, a court convicted Anwar Raslan of overseeing torture at a detention center nearly a decade ago and sentenced him to life in prison. It was one of the world’s first criminal trials on atrocities in Syria’s decade-long civil war. 
  <p class="updated_time"> 10:15 AM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59958417?at_medium=RSS&at_campaign=KARANGA">Twitter agrees to register in Nigeria to end seven-month ban</a> BBC: Following a seven-month ban in Nigeria, the micro-blogging site says it will pay tax locally. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59958417?at_medium=RSS&at_campaign=KARANGA">Twitter agrees to Nigeria's demands to end seven-month ban</a> BBC: Following a seven-month ban, the micro-blogging site will register in Nigeria and pay tax locally. 
  <p class="updated_time"> 10:03 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59984857?at_medium=RSS&at_campaign=KARANGA">Covid: Viral photo highlights challenges of vaccinating Amazon</a> BBC: A photo of a man carrying his father has highlighted the challenges of vaccinating indigenous villages. 
  <p class="updated_time"> 09:46 AM CT, Jan. 13 </p> 
@@ -37,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-55760672?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic in Australian Open draw despite visa uncertainty</a> BBC: The defending champion is in the draw even though authorities are still deciding whether to deport him. 
  <p class="updated_time"> 06:21 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/africa/nigeria-lifts-twitter-ban.html">Nigeria Lifts Twitter Ban</a> NYT: The social media site had been blocked after it deleted a post from President Muhammadu Buhari about secessionist groups that was widely seen as threatening. 
- <p class="updated_time"> 06:12 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/europe/kazakhstan-russia-troops-withdrawal.html">Russian-Led Alliance Begins Withdrawing Troops From Kazakhstan</a> NYT: The force was deployed a week ago to stabilize the Central Asian country after political unrest that left dozens dead and thousands injured. 
  <p class="updated_time"> 06:02 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/germany-utilities-funding-prices.html">German Utilities Seek Extra Funding as Energy Prices Explode</a> NYT: Energy companies say they need extra financing to cover future commitments as natural gas prices remain near record levels. 
  <p class="updated_time"> 06:01 AM CT, Jan. 13 </p> 
@@ -196,28 +198,38 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:46 AM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/senate-panel-biden-fda-califf-527025">Senate panel advances Biden's FDA pick in 13-8 vote</a> Politico: Two senators on the panel who caucus with Democrats and six Republicans opposed the nomination. 
  <p class="updated_time"> 11:29 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/biden-administration-eyes-additional-batch-of-at-home-covid-tests-as-it-readies-public-rollout-527021">Biden administration will double at-home Covid test order as it readies public rollout</a> Politico: The website on which people can begin ordering the first run of these tests is "on track" to launch next week. 
- <p class="updated_time"> 10:32 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/covid-tests-biden.html">Biden Announces 500 Million More Covid Tests Will be Purchased for Americans</a> NYT: President Biden also announced the allocation of 1,000 medical personnel to six states would carry out a pledge the president made last month on quashing Omicron. 
+ <p class="updated_time"> 11:13 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/presidential-debates-rnc.html">RNC Signals a Pullout From Presidential Debates</a> NYT: The Republican National Committee says it will require candidates to pledge to not participate in debates run by the Commission on Presidential Debates. What would replace them, if anything, was unclear. 
+ <p class="updated_time"> 11:12 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/covid-tests-biden.html">Biden Announces 500 Million More Tests Will be Purchased for Americans</a> NYT: President Biden also announced the allocation of 1,000 medical personnel to six states would carry out a pledge the president made last month on quashing Omicron. 
+ <p class="updated_time"> 11:11 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/health/fda-robert-califf.html">Senate Panel OKs Califf Nomination for F.D.A. Chief</a> NYT: A key committee was split mainly on party lines over the nomination of Dr. Robert Califf, foreshadowing divisions in the full Senate for a vote on confirmation. 
+ <p class="updated_time"> 11:07 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/house-voting-rights-bill.html">House Passes Voting Rights Bill, Speeding a Senate Showdown</a> NYT: Democrats used an arcane maneuver to pass the legislation, denying Republicans in the Senate the ability to block it from being brought up, as they have done four times previously. 
+ <p class="updated_time"> 11:00 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/havana-syndrome-evaluation-tool.html">U.S. Refines Tool to Evaluate Havana Syndrome Cases</a> NYT: The tool, essentially a standardized battery of questions and medical tests, can help determine the kind of care needed by people affected by the “anomalous health incidents.” 
+ <p class="updated_time"> 10:53 AM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/republican-majority-investigation-plans-midterms/index.html">GOP plots onslaught of Biden probes in the run-up to 2024</a> CNN: Members of the far right are already agitating to launch impeachment proceedings against President Joe Biden if the GOP is in power in Congress next year. Some leading Republicans want to spotlight former President Donald Trump's false claims of voter fraud. And key House and Senate Republicans are vowing to probe the security failures surrounding last year's January 6 attack on the US Capitol -- and turn the attention to House Speaker Nancy Pelosi. 
+ <p class="updated_time"> 10:50 AM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/russia-talks-diplomacy-uncertain-thursday-osce/index.html">US warns 'drumbeats of war' are sounding as Ukraine crisis talks with Russia end with no breakthrough</a> CNN: The last of three meetings aimed at ratcheting down tensions with Moscow over its potential invasion of Ukraine ended without a clear breakthrough, leaving prospects for future diplomacy and de-escalation in doubt as Russian officials warned they could soon turn to military options. 
  <p class="updated_time"> 10:31 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/senate-judicial-nominations-blue-slips-democrats/index.html">Democrats embrace hardball judicial nomination tactics GOP adopted under Trump </a> CNN: Former President Donald Trump and Republicans broke with previous Senate tradition to confirm 17 federal appeals court nominees over the objection of Democratic senators representing the states tied to their seats on the bench. 
  <p class="updated_time"> 10:31 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/biden-omicron-medical-team-deployments/index.html">Biden says administration will make free, high-quality face masks available to all Americans</a> CNN: President Joe Biden is expected to deliver remarks on Thursday announcing a new wave of federally deployed medical teams to six states to help hospitals combat Covid-19, a White House official told CNN. 
- <p class="updated_time"> 10:31 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/republican-presidential-debate-dispute.html">R.N.C. Signals a Pullout From Presidential Debates</a> NYT: The Republican National Committee says it will require candidates to pledge to not participate in debates run by the Commission on Presidential Debates. What would replace them, if anything, was unclear. 
  <p class="updated_time"> 10:30 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/congressional-gold-medal-emmett-till-and-mamie-till-mobley/index.html">Senate passes bill to posthumously award Emmett Till and his mother with Congressional Gold Medal</a> CNN: The Senate on Tuesday passed a bipartisan bill to award the Congressional Gold Medal posthumously to Emmett Till, a teenager savagely killed in 1955 by White supremacists in Mississippi, and his mother, Mamie Till-Mobley, who decided to have an open-casket funeral because she "wanted the world to see what they did to my baby." 
  <p class="updated_time"> 10:30 AM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/biden-voting-rights-senate-democrats/index.html">House passes voting legislation ahead of Biden's visit to the Hill</a> CNN: President Joe Biden will travel to Capitol Hill on Thursday as he continues to push for passage of voting legislation in Congress, despite the uphill battle Democrats face amid Republican opposition and resistance within their own ranks to changing Senate rules. 
+ <a href="https://www.cnn.com/2022/01/13/politics/biden-voting-rights-senate-democrats/index.html">House passes voting legislation ahead of Biden's visit to Capitol Hill</a> CNN: President Joe Biden will travel to Capitol Hill on Thursday as he continues to push for passage of voting legislation in Congress, despite the uphill battle Democrats face amid Republican opposition and resistance within their own ranks to changing Senate rules. 
  <p class="updated_time"> 10:15 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/congress-omicron.html">The Mood in the Capitol Was Already Dark. Then Came Omicron.</a> NYT: Congress, always a reflection of the country, is in a testy mood, as the latest coronavirus variant looms over the Capitol and schadenfreude is in full swing. 
  <p class="updated_time"> 09:52 AM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072730868/biden-announces-plans-to-buy-500-million-more-covid-tests-and-to-offer-free-mask">Biden announces plans to buy 500 million more COVID tests and to offer free masks</a> NPR: The new order doubles the number of tests already being procured for a total of 1 billion kits. Biden said a website will launch next week so Americans can order the free tests. 
+ <a href="https://www.npr.org/2022/01/13/1072730868/biden-announces-plans-to-buy-500-million-more-covid-tests-and-to-offer-free-mask">Biden announces plans to buy 500 million more COVID tests and to offer free masks</a> NPR: The new order doubles the number of tests the White House plans to buy — for a total of 1 billion kits. Biden said a website will launch next week so Americans can order the free tests. 
  <p class="updated_time"> 09:24 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard, Nominee for Fed Vice Chair, Calls Inflation ‘Too High’</a> NYT: Lael Brainard, the Federal Reserve governor who President Biden nominated for vice chair, said the central bank is focused on getting price gains back down. 
- <p class="updated_time"> 09:02 AM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/russia-talks-diplomacy-uncertain-thursday-osce/index.html">Russia issues stark warning as key meetings on Ukraine crisis end with no breakthrough</a> CNN: The last of three meetings aimed at ratcheting down tensions with Moscow over its potential invasion of Ukraine ended without a clear breakthrough, leaving prospects for future diplomacy and de-escalation in doubt as Russian officials warned they could soon turn to military options. 
  <p class="updated_time"> 09:00 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/david-scott-house-agriculture-worries-527015">Lawmakers raise health concerns as they quietly seek to replace a House chairman</a> Politico: Some Democratic lawmakers have been trying to gently push out Rep. David Scott as head of the House Agriculture Committee, citing questions about his effectiveness. 
  <p class="updated_time"> 08:56 AM CT, Jan. 13 </p> 
@@ -230,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/us/politics/matt-gaetz-girlfriend-investigation.html">Gaetz’s Ex-Girlfriend Testifies Before Federal Grand Jury</a> NYT: The development suggests that the Justice Department may have secured a key witness in its child sex trafficking investigation of Representative Matt Gaetz. 
  <p class="updated_time"> 08:09 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/melania-trump-hat-auction-controversy/index.html">Melania Trump's hat auction has even those who know her scratching their heads</a> CNN: Melania Trump's announcement last week that she was autographing and auctioning a hat for personal profit with two other items -- for an opening bid of $250,000 -- has left even those who know the former first lady well puzzling over her decision. 
- <p class="updated_time"> 08:07 AM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/republican-majority-investigation-plans-midterms/index.html">GOP plots onslaught of Biden probes in the run-up to 2024</a> CNN: Members of the far right are already agitating to launch impeachment proceedings against President Joe Biden if the GOP is in power in Congress next year. Some leading Republicans want to spotlight former President Donald Trump's false claims of voter fraud. And key House and Senate Republicans are vowing to probe the security failures surrounding last year's January 6 attack on the US Capitol -- and turn the attention to House Speaker Nancy Pelosi. 
  <p class="updated_time"> 07:34 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/13/ball-rolling-on-voting-and-filibuster-overhauls-495715">Ball rolling on voting and filibuster overhauls</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:57 AM CT, Jan. 13 </p> 
@@ -272,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/us/politics/donald-trump-npr-interview.html">Trump Ends NPR Interview After Challenges to False Fraud Claim</a> NYT: Former President Donald J. Trump abruptly ended the interview after a lengthy back-and-forth over his claims of widespread election fraud. 
  <p class="updated_time"> 10:12 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/lets-go-brandon-meme-gop.html">How the 'Let's Go, Brandon' Meme Became a Campaign Ad</a> NYT: How an inside joke among Republicans became one candidate’s tactic for reaching the G.O.P. masses. 
- <p class="updated_time"> 08:47 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/obama-filibuster-voting-rights-oped/index.html">Obama backs Biden's call to change Senate rules to pass voting rights in op-ed</a> CNN: Former President Barack Obama is calling on the Senate to "do the right thing" and pass voting rights legislation, backing President Joe Biden's push to change Senate filibuster rules to do so. 
  <p class="updated_time"> 08:37 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html">Kevin McCarthy Refuses Interview Request From Jan. 6 Committee</a> NYT: The panel said it was interested in conversations the top House Republican had with President Donald J. Trump on the day of the riot and afterward. 
  <p class="updated_time"> 08:23 PM CT, Jan. 12 </p> 
@@ -350,18 +358,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072372538/nevada-sen-cortez-maston-on-why-ditching-the-filibuster-is-the-wrong-choice">Nevada Sen. Cortez Masto on why the filibuster rule should change</a> NPR: NPR's Rachel Martin talks to Democratic Sen. Catherine Cortez Masto of Nevada about the future of the filibuster and the legacy of former Majority Leader Harry Reid, who died last month. 
  <p class="updated_time"> 10:50 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/georgias-voting-rights-advocates-joe-biden-526962">Biden confronts a skeptical base as he pushes voting rights in Georgia</a> Politico: The president made a forceful case to revamp the Senate rules and pass election laws. But his base has grown dubious. 
- <p class="updated_time"> 09:39 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-senate-history.html">Biden Defense of Filibuster Withers Under Partisan Rancor</a> NYT: The president left no doubt that he has reached a breaking point, lashing out at senators who are blocking voting rights legislation. 
- <p class="updated_time"> 09:24 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/health/fauci-senate-hearing-omicron-response.html">U.S. Officials Defend Omicron Response at Senate Hearing</a> NYT: Lawmakers accused top Biden administration health officials of neglecting virus testing and mangling key messaging around the pandemic. 
  <p class="updated_time"> 07:12 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/ray-epps-january-6-committee.html">Jan. 6 Panel Seeks to Debunk Unfounded Theory About F.B.I. Role in Riot</a> NYT: The House select committee investigating the attack on the Capitol interviewed Ray Epps, a protester at the center of a right-wing conspiracy theory. 
  <p class="updated_time"> 07:08 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/covid-health-officials-congress-omicron-526950">Decoding what Biden health officials told Congress about Omicron</a> Politico: In contrast to previous oversight hearings on the administration’s Covid-19 response, Dems raised sharp questions and complaints on the state of the resurging pandemic. 
  <p class="updated_time"> 06:51 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/guantanamo-releases-approved.html">Biden Administration Approves 5 More Guantánamo Releases</a> NYT: Nearly half of the last 39 detainees have now been approved for transfer, and the challenge for U.S. officials is to find countries to receive them. 
- <p class="updated_time"> 06:50 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-voting-rights-state-laws.html">Biden Calls for Legislative Action on Voting Rights</a> NYT: President Biden says he won’t keep “quiet” any longer about protecting ballot access. But voting rights groups say he should’ve raised his voice months ago. 
  <p class="updated_time"> 06:21 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/north-carolina-gop-map-redistricting-526931">North Carolina court declines to toss out GOP-drawn House map</a> Politico: Democratic plaintiffs challenged the state's maps as illegal partisan gerrymanders and are planning to appeal to the state Supreme Court. 
  <p class="updated_time"> 06:15 PM CT, Jan. 11 </p> 
