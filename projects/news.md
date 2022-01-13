@@ -196,7 +196,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:28 PM CT, Jan. 12 </p> 
+ <p class="updated_time"> 10:56 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/kevin-mccarthy-january-6/index.html">McCarthy says he will not cooperate with January 6 committee probe</a> CNN: The House select committee investigating the January 6 riot is asking Minority Leader Kevin McCarthy, a California Republican, to voluntarily provide information to the panel, a major development in the sweeping investigation, according to a new letter released Wednesday. 
  <p class="updated_time"> 10:15 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/donald-trump-npr-interview.html">Trump Ends NPR Interview After Challenges to False Fraud Claim</a> NYT: Former President Donald J. Trump abruptly ended the interview after a lengthy back-and-forth over his claims of widespread election fraud. 
