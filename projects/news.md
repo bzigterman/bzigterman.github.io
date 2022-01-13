@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:22 AM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59975272?at_medium=RSS&at_campaign=KARANGA">Ronnie Spector: Be My Baby singer of The Ronettes dies at 78</a> BBC: The pop super star was the lead singer of the 1960 pioneering all-girl group the Ronettes. 
+ <p class="updated_time"> 04:13 AM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072416672/germany-syria-torture-trial-crimes-against-humanity-verdict">In a landmark case, a German court convicts an ex-Syrian officer of torture</a> NPR: The world's first criminal trial on torture in Syria's prisons ended Thursday in Koblenz, Germany — the first time a high-ranking ex-Syrian official faced Syrians in open court in a war crimes case. 
+ <p class="updated_time"> 04:09 AM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59979408?at_medium=RSS&at_campaign=KARANGA">Canada: Unvaccinated father loses right to see his child</a> BBC: The father is not allowed to see the 12-year-old until next month - unless he gets vaccinated. 
+ <p class="updated_time"> 04:06 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/taliban-pakistan-afghanistan-government.html">The Taliban Have Staffing Issues. They Are Looking for Help in Pakistan.</a> NYT: Government jobs are given as patronage to ex-fighters and exiles living quietly in Pakistan. But not all possess the technical skills required for the job. 
+ <p class="updated_time"> 04:04 AM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59949924?at_medium=RSS&at_campaign=KARANGA">German court finds Syrian colonel guilty of crimes against humanity</a> BBC: The trial of Anwar Raslan was the world's first criminal case over state-led torture in Syria. 
  <p class="updated_time"> 03:37 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/germany-utilities-funding-prices.html">German Utilities Seek Extra Funding as Energy Prices Explode</a> NYT: Energy companies say they need extra financing to cover future commitments as natural gas prices remain near record levels. 
- <p class="updated_time"> 03:31 AM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59949924?at_medium=RSS&at_campaign=KARANGA">German court finds Syrian colonel guilty of crimes against humanity</a> BBC: The German trial of Anwar Raslan is the world's first criminal case over state-led torture in Syria. 
- <p class="updated_time"> 03:04 AM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59975272?at_medium=RSS&at_campaign=KARANGA">Ronnie Spector: Be My Baby singer of The Ronettes dies at 78</a> BBC: The pop super star was the lead singer of the 1960 pioneering all-girl group the Ronettes. 
  <p class="updated_time"> 02:43 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59958417?at_medium=RSS&at_campaign=KARANGA">Nigeria lifts Twitter ban after seven months</a> BBC: A suspension imposed last June is reversed after the networking site agrees to open a local office. 
  <p class="updated_time"> 02:13 AM CT, Jan. 13 </p> 
@@ -81,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59971955?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US says Russia faces stark choice</a> BBC: Russia is told to decide between de-escalation and diplomacy, or confrontation and consequences. 
  <p class="updated_time"> 12:14 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-uk-parties.html">Boris Johnson, Under Fire, Apologizes for Pandemic Party</a> NYT: The British prime minister, on the defensive after a series of ethical lapses, said, “There were things we simply did not get right” about a gathering at Downing Street during a lockdown in 2020. 
- <p class="updated_time"> 11:55 AM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59871514?at_medium=RSS&at_campaign=KARANGA">Prince Andrew to face civil sex assault case after US ruling</a> BBC: Virginia Giuffre's claims against the Duke of York can continue to be heard, a US court says. 
  <p class="updated_time"> 11:50 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59966776?at_medium=RSS&at_campaign=KARANGA">South Africa's 'King Khoisan' arrested over cannabis plants at president's office</a> BBC: Protesters planted the cannabis in a vegetable garden near the South African president's workplace. 
  <p class="updated_time"> 11:42 AM CT, Jan. 12 </p> 
@@ -139,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/europe/david-sassoli-dead.html">European Parliament's President, David Sassoli, Dies at 65</a> NYT: He was a well-known journalist in his native Italy before going into politics, and devoted his tenure to making the Parliament more prominent. 
  <p class="updated_time"> 04:19 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/putin-ukraine-russia.html">Putin’s Next Move on Ukraine Is a Mystery. Just the Way He Likes It.</a> NYT: The contradictory, sometimes menacing messages from the Kremlin have stumped Western officials and Russia experts, showing the Russian leader’s desire to keep his rivals on edge. 
- <p class="updated_time"> 04:18 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072183480/arif-khan-is-blazing-a-trail-for-indian-skiers-by-qualifying-for-the-beijing-oly">Arif Khan aims to put Indian winter sports on the map at the Beijing Olympics</a> NPR: India isn't famous for snow sports. Kashmiri ski racer Arif Khan hopes to change that. The first and so far only Indian to qualify for the Beijing Olympics, he crowdfunded trips to Europe to qualify. 
  <p class="updated_time"> 03:40 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/kazakhstan-russia-troops.html">Kazakhstan Says Russian Troops Can Start Leaving This Week</a> NYT: Kazakhstan’s president says violence has been quelled, so there is no longer need for the foreign troops he asked to help. Russia has not given a timeline for withdrawing. 
  <p class="updated_time"> 03:09 PM CT, Jan. 11 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html">Haitian Prime Minister Had Close Links With Murder Suspect</a> NYT: New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime. 
  <p class="updated_time"> 05:55 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/politics/russia-ukraine-helicopters.html">Russia Positioning Helicopters, in Possible Sign of Ukraine Plans</a> NYT: The step, which could be an indication that planning for an attack continues, comes as the number of Russian troops at the border has remained steady in recent weeks, despite U.S. expectations of a surge. 
- <p class="updated_time"> 05:06 PM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
 
 
 </details>
@@ -192,6 +192,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/gop-russia-senate-sanctions-vote-527004">GOP seeks a Russia reboot with Senate sanctions vote</a> Politico: After four years on the defensive over Donald Trump's approach to Moscow, Republicans want the upper hand. But Democrats have their own harsh alternative. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/trump-senate-midterm-gop-control-526991">Trump looks to reshape the Senate in anticipation of his second act as president</a> Politico: The former president still is angry that key agenda items got stymied in the chamber. He doesn’t want that to happen again. 
+ <p class="updated_time"> 04:11 AM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072153233/virginias-first-black-woman-lieutenant-governor-says-we-need-to-move-on-from-sla">Virginia's first Black woman lieutenant governor says we need to move on from slavery</a> NPR: Winsome Sears, a Republican, will be sworn into office Saturday in Virginia alongside Gov.-elect Glenn Youngkin. Sears ran, in part, on the idea that the country's racial reckoning has gone too far. 
  <p class="updated_time"> 12:55 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072671395/abortion-rights-jumps-to-a-top-priority-for-democrats-in-new-poll">Abortion rights jump to a top priority for Democrats in a new poll</a> NPR: The number of Democrats citing abortion rights as a top priority for the federal government to address jumped from less than 1% in 2021 to 13% in a new poll. 
  <p class="updated_time"> 10:57 PM CT, Jan. 12 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072322926/the-white-house-will-distribute-10-million-more-covid-tests-per-month-to-schools">The White House will distribute 10 million more COVID tests per month to schools</a> NPR: President Biden and others in his administration insist schools should stay open, even with the omicron wave making it harder than ever to manage. 
  <p class="updated_time"> 04:00 AM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072176709/transcript-full-npr-interview-former-president-donald-trump">Read NPR's full interview with former President Donald Trump</a> NPR: NPR's Steve Inskeep spoke with former President Donald Trump on Tuesday. Trump continued to repeat false claims that the 2020 election was rigged. 
- <p class="updated_time"> 04:00 AM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072295047/inflation-is-still-surging-and-some-democrats-see-one-culprit-greedy-companies">Inflation is still surging and some Democrats see one culprit: Greedy companies</a> NPR: Consumer prices are soaring at their highest annual pace in almost 40 years. Some progressives such as Sen. Elizabeth Warren blame corporate profiteering, but most economists scoff. 
  <p class="updated_time"> 11:02 PM CT, Jan. 11 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/biden-voting-rights-legislative-legacy/index.html">Tuesday's speech marked an evolution in Biden as president</a> CNN: It took a year for Joe Biden to make an irrevocable bet that puts the credibility of his presidency on the line. If his bid now to change Senate rules to pass voting rights legislation fails, he'll lose more than just the bills he sees as vital to saving democracy. His drained political capital could spell the end of the entire domestic, legislative phase of his administration. 
  <p class="updated_time"> 10:50 PM CT, Jan. 11 </p> 
