@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:40 AM CT, Jan. 13 </p> 
+ <p class="updated_time"> 11:54 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/europe/prince-andrew-military-titles-abuse-case.html">Prince Andrew Gives Up Military Titles as Sexual Abuse Case Proceeds</a> NYT: Buckingham Palace said Andrew would not undertake any public duties and was defending his case as a private citizen. 
+ <p class="updated_time"> 11:52 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/01/13/world/syria-war-crimes-germany-verdict">Live Updates: Former Syrian Colonel Guilty in War Crimes Trial in Germany</a> NYT: In a landmark case, a court convicted Anwar Raslan of overseeing torture at a detention center nearly a decade ago and sentenced him to life in prison. It was one of the world’s first criminal trials on atrocities in Syria’s decade-long civil war. 
+ <p class="updated_time"> 11:47 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/europe/serbia-djokovic.html">How Serbia Views Novak Djokovic</a> NYT: Many feel a personal connection and pride with the tennis star, even if they do not agree with his decisions to stay unvaccinated. 
  <p class="updated_time"> 11:39 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/russia-ukraine-talks.html">Russia, at an Impasse With the West, Warns It Is Ready to Abandon Diplomacy</a> NYT: In a third round of talks on Eastern European security this week, both Kremlin and American officials sounded an increasingly pessimistic note. 
  <p class="updated_time"> 11:39 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/nato-ukraine-biden-russia.html">Why NATO Won’t Let Ukraine Join Anytime Soon</a> NYT: Ukraine, with Russian troops on its borders, is pressing for membership. But President Biden and European leaders are not ready for that step. 
- <p class="updated_time"> 11:38 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/europe/prince-andrew-military-titles-abuse-case.html">Prince Andrew Gives Up Military Titles as Sexual Abuse Case Proceeds</a> NYT: Buckingham Palace said Andrew would not undertake any public duties and was defending his case as a private citizen. 
+ <p class="updated_time"> 11:34 AM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072775645/quebec-covid-19-unvaccinated-tax">Quebec's 'unvaxxed tax' has people rushing to get vaccinated</a> NPR: Quebec has reported the most COVID-19 deaths of any Canadian province. Only around 10% of its population is unvaccinated, but they make up 50% of all intensive care cases. 
  <p class="updated_time"> 11:05 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59986297?at_medium=RSS&at_campaign=KARANGA">'Havana syndrome': US baffled after new cases in Europe</a> BBC: Secretary of State Antony Blinken says investigations continue after more diplomats fall ill. 
  <p class="updated_time"> 11:00 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/havana-syndrome-evaluation-tool.html">U.S. Refines Tool to Evaluate Havana Syndrome Cases</a> NYT: The tool, essentially a standardized battery of questions and medical tests, can help determine the kind of care needed by people affected by the “anomalous health incidents.” 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/havana-syndrome-evaluation-tool.html">US Refines Tool to Evaluate 'Havana Syndrome' Cases</a> NYT: The tool, essentially a standardized battery of questions and medical tests, can help determine the kind of care needed by people affected by the “anomalous health incidents.” 
  <p class="updated_time"> 10:49 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/kazakhstan-russia-troops-withdrawal.html">Russian-Led Alliance Begins Withdrawing Troops From Kazakhstan</a> NYT: The force was deployed a week ago to stabilize the Central Asian country after political unrest that left dozens dead and thousands injured. 
  <p class="updated_time"> 10:15 AM CT, Jan. 13 </p> 
@@ -49,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/europe/germany-utilities-funding-prices.html">German Utilities Seek Extra Funding as Energy Prices Explode</a> NYT: Energy companies say they need extra financing to cover future commitments as natural gas prices remain near record levels. 
  <p class="updated_time"> 06:01 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/australia/scott-johnson-australia-gay-killing-confession.html">Australian Man Convicted of Killing Gay American in 1980s</a> NYT: The death of Scott Johnson, a young mathematician who was found at the bottom of a cliff, was initially ruled a suicide. His brother had pressed investigators to re-examine the case. 
+ <p class="updated_time"> 05:55 AM CT, Jan. 13 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnsons-allies-try-to-calm-u-k-lockdown-party-furor-11642092929">Boris Johnson's Allies Try to Calm U.K. 'Lockdown Party' Furor</a> WSJ: Members of British Prime Minister Boris Johnson’s cabinet are urging disgruntled Conservative lawmakers to hold off trying to oust their leader and wait for an official probe into his attendance at a party during a Covid-19 lockdown. 
  <p class="updated_time"> 05:07 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59977916?at_medium=RSS&at_campaign=KARANGA">Israel says it broke up Iranian spy network that recruited women</a> BBC: Four Israeli Jewish women of Iranian descent were allegedly paid thousands of dollars by a handler. 
  <p class="updated_time"> 04:59 AM CT, Jan. 13 </p> 
@@ -67,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59979408?at_medium=RSS&at_campaign=KARANGA">Canada: Unvaccinated father loses right to see his child</a> BBC: The father is not allowed to see the 12-year-old until next month - unless he gets vaccinated. 
  <p class="updated_time"> 04:06 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/taliban-members.html">The Taliban Have Staffing Issues. They Are Looking for Help in Pakistan.</a> NYT: Government jobs are given as patronage to ex-fighters and exiles living quietly in Pakistan. But not all possess the technical skills required for the job. 
- <p class="updated_time"> 03:50 AM CT, Jan. 13 </p> 
- <a href="https://www.wsj.com/articles/chinese-economist-suggests-china-spend-more-to-boost-its-birthrateand-is-blocked-from-social-media-11642085406">Chinese Economist Is Blocked After Suggesting China Spend More to Boost Birthrate</a> WSJ: Ren Zeping’s Weibo account was locked after his article advocating China’s central bank print $314 billion to help raise the country’s fertility rate went viral. 
  <p class="updated_time"> 03:11 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/u-s-diplomats-in-geneva-paris-struck-with-suspected-havana-syndrome-11642075202">U.S. Diplomats in Geneva, Paris Struck With Suspected 'Havana Syndrome'</a> WSJ: Mysterious neurological ailment has afflicted as many as 200 U.S. officials in diplomatic posts world-wide. 
  <p class="updated_time"> 02:13 AM CT, Jan. 13 </p> 
@@ -151,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/world/europe/who-europe-covid-omicron-infection.html">Over Half of Europe Could Be Infected With Coronavirus Soon, W.H.O. Says</a> NYT: The agency cautioned against treating the virus like the seasonal flu, since much remains unknown, particularly regarding the severity in areas with lower vaccination rates. 
  <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59955682?at_medium=RSS&at_campaign=KARANGA">The 52-year search for a missing girl</a> BBC: On 12 January 1970, a British toddler disappeared from Fairy Meadow beach in NSW, Australia. 
- <p class="updated_time"> 05:03 PM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1072245389/quebec-unvaccinated-covid-penalty">In Quebec, people who refuse to be vaccinated for COVID will face a financial penalty</a> NPR: The Canadian province's premier said not getting vaccinated leads to consequences for the health care system and not all Quebecers should pay for that. 
  <p class="updated_time"> 04:47 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/science/shirley-mcgreal-dead.html">Shirley McGreal, Champion of Primates Under Threat, Dies at 87</a> NYT: She exposed smuggling rings and research laboratories and built a sanctuary for gibbons in South Carolina. 
  <p class="updated_time"> 04:24 PM CT, Jan. 11 </p> 
@@ -202,18 +204,24 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/republicans-warn-biden-nuclear-cuts-527030">Top GOP hawks warn Biden against nuclear cuts</a> Politico: Their public warning underscores how politically challenging it will be for Biden to make major reforms to U.S. nuclear strategy. 
+ <p class="updated_time"> 11:53 AM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/rnc-presidential-debates/index.html">RNC plans to change rules to require candidates pledge not to participate in general election debates sponsored by the Commission on Presidential Debates</a> CNN: The Republican National Committee said Thursday in a letter to the Commission on Presidential Debates that it is prepared to "prohibit future Republican nominees from participating in CPD-sponsored debates" unless the commission makes a number of significant changes to its procedure. 
  <p class="updated_time"> 11:46 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/senate-panel-biden-fda-califf-527025">Senate panel advances Biden's FDA pick in 13-8 vote</a> Politico: Two senators on the panel who caucus with Democrats and six Republicans opposed the nomination. 
- <p class="updated_time"> 11:35 AM CT, Jan. 13 </p> 
+ <p class="updated_time"> 11:42 AM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072765939/republicans-threaten-to-no-longer-participate-in-traditional-general-election-de">Republicans threaten to no longer participate in traditional general election debates</a> NPR: The Republican National Committee released a letter, saying it is set to require presidential nominees to pledge not participate in debates put on by the Commission on Presidential Debates. 
+ <p class="updated_time"> 11:41 AM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/biden-voting-rights-senate-democrats/index.html">House passes voting legislation ahead of Biden's Hill visit</a> CNN: President Joe Biden will travel to Capitol Hill on Thursday as he continues to push for passage of voting legislation in Congress, despite the uphill battle Democrats face amid Republican opposition and resistance within their own ranks to changing Senate rules. 
+ <p class="updated_time"> 11:39 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/nato-ukraine-biden-russia.html">Why NATO Won’t Let Ukraine Join Anytime Soon</a> NYT: Ukraine, with Russian troops on its borders, is pressing for membership. But President Biden and European leaders are not ready for that step. 
+ <p class="updated_time"> 11:33 AM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/warren-davidson-apologizes-nazi-tweet/index.html">GOP congressman apologizes for comparing DC vaccine protocols to Nazi Germany</a> CNN: Ohio Republican Rep. Warren Davidson apologized on Thursday for comparing Washington, DC's Covid-19 safety protocols to Nazi Germany. 
  <p class="updated_time"> 11:29 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/presidential-debates-rnc.html">R.N.C. Signals a Pullout From Presidential Debates</a> NYT: The Republican National Committee says it will require candidates to pledge to not participate in debates run by the Commission on Presidential Debates. What would replace them, if anything, was unclear. 
  <p class="updated_time"> 11:29 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/biden-administration-eyes-additional-batch-of-at-home-covid-tests-as-it-readies-public-rollout-527021">Biden administration will double at-home Covid test order as it readies public rollout</a> Politico: The website on which people can begin ordering the first run of these tests is "on track" to launch next week. 
  <p class="updated_time"> 11:29 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/bernard-kerik-january-6/index.html">January 6 committee meets with former NYC police commissioner Bernard Kerik</a> CNN: Bernard Kerik, the former New York City police commissioner, is meeting with the House select committee investigating the January 6 Capitol Hill insurrection. 
- <p class="updated_time"> 11:28 AM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/rnc-presidential-debates/index.html">RNC plans to change rules to require candidates pledge not to participate in general election debates sponsored by the Commission on Presidential Debates</a> CNN: The Republican National Committee said Thursday in a letter to the Commission on Presidential Debates that it is prepared to "prohibit future Republican nominees from participating in CPD-sponsored debates" unless the commission makes a number of significant changes to its procedure. 
  <p class="updated_time"> 11:28 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072706279/internal-gop-conflicts-about-2020-election-surface-as-party-fights-new-voting-bi">Internal GOP conflicts about 2020 election surface as party fights new voting bills</a> NPR: Democratic voting legislation has virtually no path to becoming law, but Senate Republicans are fighting it as the GOP still struggles over how to move forward from the 2020 election. 
  <p class="updated_time"> 11:12 AM CT, Jan. 13 </p> 
@@ -225,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:07 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/house-voting-rights-bill.html">House Passes Voting Rights Bill, Speeding a Senate Showdown</a> NYT: Democrats used an arcane maneuver to pass the legislation, denying Republicans in the Senate the ability to block it from being brought up, as they have done four times previously. 
  <p class="updated_time"> 11:00 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/havana-syndrome-evaluation-tool.html">U.S. Refines Tool to Evaluate Havana Syndrome Cases</a> NYT: The tool, essentially a standardized battery of questions and medical tests, can help determine the kind of care needed by people affected by the “anomalous health incidents.” 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/havana-syndrome-evaluation-tool.html">US Refines Tool to Evaluate 'Havana Syndrome' Cases</a> NYT: The tool, essentially a standardized battery of questions and medical tests, can help determine the kind of care needed by people affected by the “anomalous health incidents.” 
  <p class="updated_time"> 10:53 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/republican-majority-investigation-plans-midterms/index.html">GOP plots onslaught of Biden probes in the run-up to 2024</a> CNN: Members of the far right are already agitating to launch impeachment proceedings against President Joe Biden if the GOP is in power in Congress next year. Some leading Republicans want to spotlight former President Donald Trump's false claims of voter fraud. And key House and Senate Republicans are vowing to probe the security failures surrounding last year's January 6 attack on the US Capitol -- and turn the attention to House Speaker Nancy Pelosi. 
  <p class="updated_time"> 10:50 AM CT, Jan. 13 </p> 
@@ -236,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/13/politics/biden-omicron-medical-team-deployments/index.html">Biden says administration will make free, high-quality face masks available to all Americans</a> CNN: President Joe Biden is expected to deliver remarks on Thursday announcing a new wave of federally deployed medical teams to six states to help hospitals combat Covid-19, a White House official told CNN. 
  <p class="updated_time"> 10:30 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/congressional-gold-medal-emmett-till-and-mamie-till-mobley/index.html">Senate passes bill to posthumously award Emmett Till and his mother with Congressional Gold Medal</a> CNN: The Senate on Tuesday passed a bipartisan bill to award the Congressional Gold Medal posthumously to Emmett Till, a teenager savagely killed in 1955 by White supremacists in Mississippi, and his mother, Mamie Till-Mobley, who decided to have an open-casket funeral because she "wanted the world to see what they did to my baby." 
- <p class="updated_time"> 10:30 AM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/biden-voting-rights-senate-democrats/index.html">House passes voting legislation ahead of Biden's visit to Capitol Hill</a> CNN: President Joe Biden will travel to Capitol Hill on Thursday as he continues to push for passage of voting legislation in Congress, despite the uphill battle Democrats face amid Republican opposition and resistance within their own ranks to changing Senate rules. 
  <p class="updated_time"> 10:15 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/congress-omicron.html">The Mood in the Capitol Was Already Dark. Then Came Omicron.</a> NYT: Congress, always a reflection of the country, is in a testy mood, as the latest coronavirus variant looms over the Capitol and schadenfreude is in full swing. 
  <p class="updated_time"> 09:52 AM CT, Jan. 13 </p> 
@@ -247,7 +253,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:00 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/david-scott-house-agriculture-worries-527015">Lawmakers raise health concerns as they quietly seek to replace a House chairman</a> Politico: Some Democratic lawmakers have been trying to gently push out Rep. David Scott as head of the House Agriculture Committee, citing questions about his effectiveness. 
  <p class="updated_time"> 08:31 AM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/joe-biden-democrats-inflation-midterm-elections/index.html">'Under Trump it was so much better': The reality Dems may be missing is that people are hurting now</a> CNN: Outside a Costco, Laura Godinez lifts meat, toothpaste, coffee, bottled water and bulk supplies of DayQuil from her cart -- just the staples in a pandemic-era weekly shopping trip that is now often missing extras that might bust the family budget, like cookies and snacks. 
+ <a href="https://www.cnn.com/2022/01/13/politics/joe-biden-democrats-inflation-midterm-elections/index.html">'Under Trump it was so much better': The reality Democrats may be missing is that people are hurting right now</a> CNN: Outside a Costco, Laura Godinez lifts meat, toothpaste, coffee, bottled water and bulk supplies of DayQuil from her cart -- just the staples in a pandemic-era weekly shopping trip that is now often missing extras that might bust the family budget, like cookies and snacks. 
  <p class="updated_time"> 08:22 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/us-army-50-thousand-dollars-recruitment-bonus/index.html">US Army offers up to $50K bonus to new recruits</a> CNN: The US Army is offering a bonus up to $50,000, the largest amount ever, to some new recruits who enlist for six years in an effort to increase its ranks amid the coronavirus pandemic. 
  <p class="updated_time"> 08:21 AM CT, Jan. 13 </p> 
@@ -338,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/us/politics/biden-voting-rights-speech-election-subversion.html">How the Voting Rights Bills Miss the Target on Election Subversion</a> NYT: The proposed legislation and the push to reform the Electoral Count Act leave open a variety of pathways to subvert a presidential election. 
  <p class="updated_time"> 12:30 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/joe-biden-inflation-december/index.html">Biden concedes he has 'more work to do' on fighting price hikes as inflation frustrations threaten his domestic agenda</a> CNN: President Joe Biden on Wednesday said that the latest report on inflation in the US shows there's more work to do on lowering the rate of inflation, but he argued that progress is being made. 
- <p class="updated_time"> 11:48 AM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072463871/harry-reid-capitol-lies-in-state">Harry Reid lies in state at the U.S. Capitol</a> NPR: Reid was recalled as a "legendary leader" as colleagues and friends gathered to pay tribute to a hardscrabble Democrat who rose from poverty in Nevada to the most powerful position in the Senate. 
  <p class="updated_time"> 11:26 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/biden-to-address-senate-dems-on-cusp-of-election-reform-showdown-526971">Schumer reveals endgame for clash over filibuster and voting reform</a> Politico: The majority leader will trigger the battle over changing Senate rules when he moves to end debate on Democrats' election reform bills. 
  <p class="updated_time"> 11:08 AM CT, Jan. 12 </p> 
@@ -396,8 +400,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2022/01/11/biden-gets-a-rude-welcome-to-georgia-495674"> Biden gets a rude welcome to Georgia</a> Politico Playbook: And Mitch McConnell makes a filibuster threat. 
  <p class="updated_time"> 04:30 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/how-the-senate-could-change-its-rules-filibuster-526865">The fate of the filibuster: Your guide to the changes Dems really want</a> Politico: Eliminating the Senate's 60-vote threshold needed to pass most bills isn't on the table right now. What is up for debate is more complicated. 
- <p class="updated_time"> 07:54 PM CT, Jan. 10 </p> 
- <a href="https://www.cnn.com/2022/01/10/politics/home-covid-tests-health-insurance/index.html">Home Covid-19 tests must be paid for by health insurers starting Saturday</a> CNN: Health insurers must cover the cost of home Covid-19 tests starting January 15, the US Department of Health and Human Services announced Monday. 
  <p class="updated_time"> 07:10 PM CT, Jan. 10 </p> 
  <a href="https://www.politico.com/news/2022/01/10/democrats-filibuster-vote-526863">Dems' filibuster conundrum: It's not just Manchin and Sinema</a> Politico: Mark Kelly is undecided. Jon Tester likes a talking filibuster but is “not crazy” about making an exception for elections reform. And Jeanne Shaheen is promoting more modest changes. 
  <p class="updated_time"> 07:09 PM CT, Jan. 10 </p> 
@@ -430,8 +432,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/07/clinton-oprah-democrats-manchin-filibuster-526691">Bill Clinton, Oprah and his fellow centrists: Dems go all-out to sway Manchin</a> Politico: Sen. Tim Kaine (D-Va.) likened lobbying his colleague to change the filibuster to his 27-hour drive earlier this week after a snowstorm devastated I-95. 
  <p class="updated_time"> 04:30 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/news/2022/01/07/house-intel-mike-turner-trump-526697">House Intel’s next top Republican prepares a sharp turn from the Trump years</a> Politico: Now that ex-Rep. Devin Nunes is gone, lawmakers in both parties are hoping bitter fights can cease as Rep. Mike Turner replaces him. 
- <p class="updated_time"> 03:56 PM CT, Jan. 06 </p> 
- <a href="https://www.politico.com/news/2022/01/06/biden-lays-out-the-stakes-for-democracy-can-he-sustain-the-case-526688">Biden lays out the stakes for democracy. Can he sustain the case?</a> Politico: The president’s speech on Thursday was hailed by fellow Democrats. Now, they want him to keep at it. 
 
 
 </details>
