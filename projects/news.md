@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:59 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/world/middleeast/palestinian-american-dies-israel.html">Palestinian American Dies of Heart Attack After Brief Detention by Israeli Troops</a> NYT: The elderly man, who was identified as Omar Asad, had been held during a raid by the Israeli Army on a Palestinian village in the occupied West Bank. 
+ <p class="updated_time"> 08:53 PM CT, Jan. 12 </p> 
+ <a href="https://www.npr.org/2022/01/12/1072628577/army-increases-bonus-new-recruits">The Army is increasing its largest signing bonus to $50,000 for some new recruits</a> NPR: Until now, the Army has offered a maximum bonus of $40,000. The head of Recruiting Command said the pandemic has made attracting new talent much more of a challenge. 
  <p class="updated_time"> 08:03 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/americas/el-salvador-journalists-spyware.html">Journalists in El Salvador Targeted With Spyware Intended for Criminals</a> NYT: The announcement came months after the U.S. government blacklisted the Israeli firm that produces Pegasus, the technology used to target the journalists. 
  <p class="updated_time"> 07:50 PM CT, Jan. 12 </p> 
@@ -147,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59959947?at_medium=RSS&at_campaign=KARANGA">Children were 'fighting for their lives' in Bronx fire</a> BBC: New Yorkers are still digesting the tragedy of the city's deadliest apartment blaze in three decades. 
  <p class="updated_time"> 11:49 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/boris-johnson-uk-parties.html">Boris Johnson Again Accused of Breaking His Own Lockdown Rules</a> NYT: The prime minister and his government are accused — yet again — of violating their own lockdown rules, undermining their credibility and attempts to pivot to other issues. 
- <p class="updated_time"> 11:49 AM CT, Jan. 11 </p> 
- <a href="https://www.npr.org/2022/01/11/1071880009/uae-laws-business-sex-marriage-alcohol-cbd">Why United Arab Emirates is relaxing laws on sex, marriage, liquor, vapes and more</a> NPR: The UAE is overhauling laws on an array of business, cultural and social norms. On paper, it makes the emirate one of the region's most progressive countries, but critics say the reality is complex. 
  <p class="updated_time"> 11:48 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/africa/ethiopia-biden-abiy-ahmed-tigray.html">On Day Biden Calls Ethiopia’s Leader to Urge Peace, a Drone Strike Kills 17</a> NYT: The attack came days after over 50 people were killed in a strike on a refugee camp, highlighting the growing role of armed drones in a destructive war. 
  <p class="updated_time"> 11:02 AM CT, Jan. 11 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/world/asia/india-masks-omicron.html">In India, Mask Wearing Is Down Despite Rising Coronavirus Cases</a> NYT: Health officials are finding it harder to impose regulations despite signs that Omicron is beginning to take hold. 
  <p class="updated_time"> 07:58 AM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/world/the-biden-administration-gave-a-preview-of-how-it-would-punish-russia-if-it-invaded-ukraine.html">The Biden administration gave a preview of how it would punish Russia if it invaded Ukraine.</a> NYT: Such moves are rarely telegraphed in advance, but advisers say they are hoping to influence the decisions of Russia’s leader, Vladimir V. Putin. 
- <p class="updated_time"> 02:51 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/europe/us-russia-europe-ukraine-nato.html">U.S. and Russia Will Discuss European Security, but Without Europeans</a> NYT: The coming talks in Geneva are bilateral, reviving old fears that the two Cold War powers will forge a deal on their own. 
 
 
 </details>
@@ -255,7 +255,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:55 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072548439/internal-gop-conflicts-about-2020-election-surface-as-party-fights-new-voting-la">Internal GOP conflicts about 2020 election surface as party fights new voting laws</a> NPR: Republicans are accusing Democrats of a power grab as they try to pass federal voting legislation. The GOP is also still struggling with former President Trump's ongoing lies about the 2020 election. 
  <p class="updated_time"> 03:51 PM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/news/2022/01/12/jan-6-select-panel-to-seek-mccarthys-testimony-526983">Jan. 6 select panel to seek McCarthy's testimony</a> Politico: It follows months of speculation about when the panel would seek the California Republican's cooperation with their probe. 
+ <a href="https://www.politico.com/news/2022/01/12/jan-6-select-panel-to-seek-mccarthys-testimony-526983">McCarthy rejects Jan. 6 committee request for testimony about talks with Trump</a> Politico: The House minority leader, who helped scuttle an attempt to establish a bipartisan commission to investigate the insurrection, has spent months thrashing the select committee. 
  <p class="updated_time"> 03:28 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072544752/jan-6-panel-investigating-insurrection-requests-kevin-mccarthys-voluntary-testim">The top House Republican won't comply with Jan. 6 panel request to voluntarily testify</a> NPR: Among its questions, the committee is probing any conversations Kevin McCarthy had with former President Donald Trump on the day of the Capitol attack. 
  <p class="updated_time"> 03:10 PM CT, Jan. 12 </p> 
