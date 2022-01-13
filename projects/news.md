@@ -7,12 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:03 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/world/americas/el-salvador-journalists-spyware.html">Journalists in El Salvador Targeted With Spyware Intended for Criminals</a> NYT: The announcement came months after the U.S. government blacklisted the Israeli firm that produces Pegasus, the technology used to target the journalists. 
+ <p class="updated_time"> 07:50 PM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59958417?at_medium=RSS&at_campaign=KARANGA">Nigeria lifts Twitter ban after seven months</a> BBC: A suspension imposed last June is reversed after the networking site agrees to open a local office. 
+ <p class="updated_time"> 06:51 PM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59950823?at_medium=RSS&at_campaign=KARANGA">Playtime: Is it time we took 'play' more seriously?</a> BBC: New BBC documentary Why We Play uncovers some surprising benefits of play for the grown-ups. 
  <p class="updated_time"> 06:48 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/us-iran-nuclear-deal.html">The U.S. and Iran Move Closer to a Nuclear Deal</a> NYT: As negotiations reach a critical stage, neither side wants to betray weakness by seeming too eager to reach a deal. 
  <p class="updated_time"> 06:46 PM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59974375?at_medium=RSS&at_campaign=KARANGA">Republican McConnell slams Biden voting rights speech as 'unpresidential'</a> BBC: President Joe Biden had criticised opponents to his election reforms in a fiery speech on Tuesday. 
- <p class="updated_time"> 06:28 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/americas/el-salvador-journalists-spyware.html">Journalists in El Salvador Targeted With Spyware Intended for Criminals</a> NYT: The announcement came months after the U.S. government blacklisted the Israeli firm that produces Pegasus, the technology used to target the journalists. 
+ <p class="updated_time"> 06:46 PM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59703123?at_medium=RSS&at_campaign=KARANGA">Nigerian NFT artist Osinachi: The work created by using a word processor</a> BBC: Works by Nigerian Osinachi have made him one of Africa's leading digital and crypto-artists. 
+ <p class="updated_time"> 06:11 PM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59950666?at_medium=RSS&at_campaign=KARANGA">The people using YouTube to pay for their French chateau</a> BBC: How chateaux owners are using advertising revenues from social media posts to earn a living. 
  <p class="updated_time"> 06:09 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-famous-apologies.html">Boris Johnson's Apology Is Part of a Long Tradition</a> NYT: Prime Minister Boris Johnson’s self-abasing apology, for attending a party during a pandemic lockdown, joins a long list of mea culpas by the prominent and powerful. 
  <p class="updated_time"> 05:49 PM CT, Jan. 12 </p> 
@@ -37,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
  <p class="updated_time"> 03:55 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072548467/talks-between-russia-and-nato-don-t-seem-to-have-defused-tensions-on-ukrainian-b">Talks between Russia and NATO don't seem to have defused tensions on Ukrainian border</a> NPR: A Russian delegation was in Brussels Wednesday to meet with NATO officials, who are trying to head off an invasion of Ukraine by Russian troops massed on the border. 
- <p class="updated_time"> 03:53 PM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59971232?at_medium=RSS&at_campaign=KARANGA">Palestinian-American man, 80, found dead after Israeli raid in West Bank</a> BBC: Omar Asad reportedly died following his arrest by Israeli soldiers in the occupied West Bank. 
  <p class="updated_time"> 02:31 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/spanish-doctors-ppe-settlement.html">Spanish Doctors Left Without P.P.E. Early in Pandemic Win Settlement</a> NYT: The ruling was the first in a raft of suits brought by doctors and nurses in Spain who say they worked without masks, gowns or surgical gloves. 
  <p class="updated_time"> 02:20 PM CT, Jan. 12 </p> 
@@ -69,6 +75,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59951126?at_medium=RSS&at_campaign=KARANGA">Baby found by teenagers in -20C in Siberia doing well</a> BBC: The girl was found by teens whose family now want to adopt her if relatives cannot be found. 
  <p class="updated_time"> 10:19 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-definition.html">What Is NATO?</a> NYT: The North Atlantic Treaty Organization, a military alliance of Western powers, was created during the Cold War and remains central to Western diplomatic and military cooperation. 
+ <p class="updated_time"> 08:25 AM CT, Jan. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59900139?at_medium=RSS&at_campaign=KARANGA">A really simple guide to China-Taiwan relations</a> BBC: Tension between China and Taiwan has risen and what happens next matters to us all 
  <p class="updated_time"> 08:24 AM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59969509?at_medium=RSS&at_campaign=KARANGA">Covid-19: Chinese woman stuck in lockdown with blind date</a> BBC: A swift lockdown in China’s Zhengzhou means a woman is stuck at her date’s house. 
  <p class="updated_time"> 08:14 AM CT, Jan. 12 </p> 
@@ -107,16 +115,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072359797/djokovic-clarifies-timeline-before-arriving-in-australia-as-visa-saga-continues">Djokovic admits a mistake on his Australia travel form and outlines COVID test timing</a> NPR: Djokovic moved to clarify the timeline about the period when he was infectious last month and about errors on the travel document he used to enter Australia to defend his Australian Open tennis title. 
  <p class="updated_time"> 07:55 PM CT, Jan. 11 </p> 
  <a href="https://www.npr.org/2022/01/11/1072294207/many-of-those-who-died-in-the-bronx-apartment-fire-were-from-west-africa">Many of those who died in the Bronx apartment fire were from West Africa</a> NPR: The 17 victims of Sunday's blaze ranged from 2 to 50 years old. The dead included 11 people from Gambia. Many families are now struggling to prepare for their loved ones' funerals. 
- <p class="updated_time"> 07:08 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59946364?at_medium=RSS&at_campaign=KARANGA">Can the 'Silver Fox' outwit Vladimir Putin?</a> BBC: Wendy Sherman, a former social worker-turned-top US diplomat, is helping lead US-Russia talks. 
- <p class="updated_time"> 06:48 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59948946?at_medium=RSS&at_campaign=KARANGA">A year on, has Trump benefited from a Twitter ban?</a> BBC: The ex-president was expelled from Twitter a year ago. What impact has it had - and will he be back? 
- <p class="updated_time"> 06:28 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59866693?at_medium=RSS&at_campaign=KARANGA">Seychelles: The island nation hunting for a missing $50m</a> BBC: Six of Seychelles' most prominent citizens face charges amid a government crackdown on corruption. 
- <p class="updated_time"> 06:24 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59944086?at_medium=RSS&at_campaign=KARANGA">Ukrainians wait as Russia faces off with the West</a> BBC: What Ukrainians think about the conflict threatening their country, as Russia and the West meet. 
- <p class="updated_time"> 06:13 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/business-59952980?at_medium=RSS&at_campaign=KARANGA">How the soaring cost of living is hitting Sri Lankans hard</a> BBC: Rising food and fuel prices are making daily life tougher for many ordinary people in Sri Lanka. 
  <p class="updated_time"> 06:12 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/who-europe-covid-omicron-infection.html">Over Half of Europe Could Be Infected With Coronavirus Soon, W.H.O. Says</a> NYT: The agency cautioned against treating the virus like the seasonal flu, since much remains unknown, particularly regarding the severity in areas with lower vaccination rates. 
  <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
@@ -200,22 +198,28 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:47 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html">Jan. 6 Committee Seeks Interview With Kevin McCarthy</a> NYT: The panel said it was interested in conversations the top House Republican had with then-President Donald J. Trump on the day of the riot and afterward. 
+ <p class="updated_time"> 08:23 PM CT, Jan. 12 </p> 
+ <a href="https://www.politico.com/news/2022/01/12/barack-obama-change-filibuster-rules-voting-rights-527007">Obama backs Biden's call to change filibuster rules and pass voting rights legislation</a> Politico: In his first op-ed since leaving office, the former president wrote about the work that must go into protecting democracy. 
+ <p class="updated_time"> 08:07 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/democrats-voting-rights-bill.html">Democrats Plan to Fast-Track Voting Rights Bill, Speeding a Showdown</a> NYT: The move will allow for debate on the legislation to begin this week, hastening a confrontation with Republicans and the moment when Democrats could try to change Senate rules. 
+ <p class="updated_time"> 08:01 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/mitch-mcconnell-biden-relationship/index.html">Analysis: Mitch McConnell just broke up with Joe Biden</a> CNN: One of the enduring storylines of Barack Obama's presidency was the working relationship — and dare I say friendship — between Vice President Joe Biden and Senate Republican leader Mitch McConnell. 
+ <p class="updated_time"> 07:49 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/warren-davidson-tweet-nazi-germany/index.html">GOP lawmaker compares DC vaccine protocols to Nazi Germany</a> CNN: Republican Rep. Warren Davidson of Ohio is drawing condemnation from his House colleagues for his comparison of Washington, DC's vaccine and Covid-19 protocols to Nazi Germany. 
+ <p class="updated_time"> 07:28 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html">Jan. 6 Committee Seeks Interview With Kevin McCarthy</a> NYT: The panel said it was interested in conversations the top House Republican had with President Donald J. Trump on the day of the riot and afterward. 
+ <p class="updated_time"> 07:13 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">Who the Jan. 6 committee has subpoenaed or asked to appear</a> CNN: The committee investigating the deadly Capitol Hill riot on January 6, 2021, has issued scores of subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
+ <p class="updated_time"> 07:01 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html">An Alabama Town’s Sewage Woes Test Biden’s Infrastructure Ambitions</a> NYT: The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most? 
  <p class="updated_time"> 06:38 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/matt-gaetz-girlfriend-investigation.html">Gaetz’s Ex-Girlfriend Testifies Before Federal Grand Jury</a> NYT: The development suggests that the Justice Department may have secured a key witness in its child sex trafficking investigation of Representative Matt Gaetz. 
  <p class="updated_time"> 06:36 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/congress-omicron.html">The Mood in the Capitol Was Already Dark. Then Came Omicron.</a> NYT: Congress, always a reflection of the country, is in a testy mood, as the latest coronavirus variant looms over the Capitol and schadenfreude is in full swing. 
- <p class="updated_time"> 06:35 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/democrats-voting-rights-bill.html">Democrats Plan to Fast-Track Voting Rights Bill, Speeding a Showdown</a> NYT: The move will allow for debate on the legislation to begin this week, hastening a confrontation with Republicans and the moment when Democrats could try to change Senate rules. 
  <p class="updated_time"> 06:20 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/dick-durbin-voting-rights-biden-segregationists/index.html">Top Democrat concedes Biden may have gone 'a little too far' in comparing some lawmakers to segregationists</a> CNN: Senate Majority Whip Dick Durbin on Wednesday said President Joe Biden may have gone "a little too far in his rhetoric" when he compared lawmakers who do not support changing Senate filibuster rules to pass stalled voting and elections legislation to segregationists. 
- <p class="updated_time"> 06:13 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/warren-davidson-tweet-nazi-germany/index.html">GOP lawmaker compares DC vaccine protocols to Nazi Germany</a> CNN: Republican Rep. Warren Davidson of Ohio is drawing condemnation from his House colleagues for his comparison of Washington, DC's vaccine and Covid-19 protocols to Nazi Germany. 
  <p class="updated_time"> 06:10 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/elections/david-mccormick-pennsylvania-senate.html">David McCormick Joins Republican Senate Primary in Pennsylvania</a> NYT: A former Treasury official, Mr. McCormick has drawn comparisons to Glenn Youngkin, the financier recently elected governor of Virginia. 
- <p class="updated_time"> 06:01 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/mitch-mcconnell-biden-relationship/index.html">Analysis: Mitch McConnell just broke up with Joe Biden</a> CNN: One of the enduring storylines of Barack Obama's presidency was the working relationship — and dare I say friendship — between Vice President Joe Biden and Senate Republican leader Mitch McConnell. 
  <p class="updated_time"> 06:00 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/lets-go-brandon-meme-gop.html">How the 'Let's Go, Brandon' Meme Became a Campaign Ad</a> NYT: How an inside joke among Republicans became one candidate’s tactic for reaching the G.O.P. masses. 
  <p class="updated_time"> 05:59 PM CT, Jan. 12 </p> 
@@ -243,7 +247,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:25 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/economy/cpi-inflation-december-2021.html">CPI December 2021: Inflation Jumped at Fastest Pace Since 1982</a> NYT: The Consumer Price Index increased at the fastest pace in 40 years, a new report showed. 
  <p class="updated_time"> 04:23 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/january-6-committee-weighs-options/index.html">January 6 committee weighs options to get members of Congress to comply with its investigation</a> CNN: Members of the House select committee investigating the January 6 Capitol Hill insurrection are weighing what options they have to compel their fellow members of Congress to cooperate with their probe. 
+ <a href="https://www.cnn.com/2022/01/12/politics/january-6-committee-weighs-options/index.html">Jan. 6 committee weighs options to get members of Congress to comply with probe</a> CNN: Members of the House select committee investigating the January 6 Capitol Hill insurrection are weighing what options they have to compel their fellow members of Congress to cooperate with their probe. 
  <p class="updated_time"> 04:23 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072552874/jan-6-panel-asks-gop-leader-kevin-mccarthy-to-voluntarily-share-information">Jan. 6 panel asks GOP leader Kevin McCarthy to voluntarily share information</a> NPR: The House select committee investigating the Jan. 6 attack is asking House GOP leader Kevin McCarthy to voluntarily provide information on conversations he had with former President Trump that day. 
  <p class="updated_time"> 04:04 PM CT, Jan. 12 </p> 
@@ -257,9 +261,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:28 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072544752/jan-6-panel-investigating-insurrection-requests-kevin-mccarthys-voluntary-testim">The Jan. 6 panel requests voluntary testimony from the top House Republican</a> NPR: Among its questions, the committee is probing any conversations Kevin McCarthy had with former President Donald Trump on the day of the Capitol attack. 
  <p class="updated_time"> 03:10 PM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/news/2022/01/12/inflation-biden-economy-agenda-526980">Price spikes threaten to ground Biden's big-spending plans</a> Politico: The government reported Wednesday that the consumer price index, the most widely watched gauge of inflation, hit a four-decade high in December compared to the previous year. 
- <p class="updated_time"> 02:53 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html">An Alabama Town’s Sewage Woes Test Biden’s Infrastructure Ambitions</a> NYT: The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most? 
+ <a href="https://www.politico.com/news/2022/01/12/inflation-biden-economy-agenda-526980">Price spikes threaten to ground Biden's big-spending plans</a> Politico: The government reported  that the consumer price index, the most widely watched gauge of inflation, hit a four-decade high in December compared to the previous year. 
  <p class="updated_time"> 02:46 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/irs-backlog-tax-returns-2021.html">I.R.S. to Start Tax Season With Major Backlog </a> NYT: At least 10 million returns from last year remain unprocessed because of short-staffing at the tax collector, according to the national taxpayer advocate. 
  <p class="updated_time"> 02:30 PM CT, Jan. 12 </p> 
@@ -332,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/georgias-voting-rights-advocates-joe-biden-526962">Biden confronts a skeptical base as he pushes voting rights in Georgia</a> Politico: The president made a forceful case to revamp the Senate rules and pass election laws. But his base has grown dubious. 
  <p class="updated_time"> 10:47 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/records-former-labor-leader-subpoenaed-526961">Records of former labor leader and close Biden ally subpoenaed</a> Politico: A grand jury is probing Harold Schaitberger's financial activities as the leader of the International Association of Fire Fighters. 
- <p class="updated_time"> 10:12 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/china-covid-lockdowns-olympics-526960">China locks down third city, raising affected to 20 million</a> Politico: The approach of the Winter Olympics and the emergence of Omicron have brought back citywide lockdowns. 
  <p class="updated_time"> 09:39 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-senate-history.html">Biden Defense of Filibuster Withers Under Partisan Rancor</a> NYT: The president left no doubt that he has reached a breaking point, lashing out at senators who are blocking voting rights legislation. 
  <p class="updated_time"> 09:24 PM CT, Jan. 11 </p> 
@@ -358,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/democrats-covid-strategy-526924">'Rules need to be clear': Dems call for Covid strategy reset as cases spike</a> Politico: Congressional Democrats fret that the White House's strategy on Covid in recent weeks has been confusing and ineffective against the Omicron variant. 
  <p class="updated_time"> 06:10 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/democrats-ron-johnson-2022.html">Why Democrats Aren't Attacking Ron Johnson for His Outlandish Comments</a> NYT: Ron Johnson has a history of making outlandish comments. But Democrats aren’t focusing on those for now. 
- <p class="updated_time"> 05:32 PM CT, Jan. 11 </p> 
- <a href="https://www.cnn.com/2022/01/11/politics/mike-rounds-republican-defense/index.html">Top Republicans stand up for Rounds after Trump's attack: He 'told the truth'</a> CNN: Senior Republicans are closing ranks behind Sen. Mike Rounds after he endured a scathing attack from former President Donald Trump for acknowledging the reality that President Joe Biden won the 2020 election. 
  <p class="updated_time"> 05:10 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/us/politics/justice-dept-domestic-terrorism.html">Justice Dept. Forms Domestic Terrorism Unit</a> NYT: The move is in keeping with Attorney General Merrick B. Garland’s vow to make combating domestic terrorism a priority. 
  <p class="updated_time"> 05:02 PM CT, Jan. 11 </p> 
