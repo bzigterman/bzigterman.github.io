@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:57 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/europe/serbia-djokovic.html">Why Novak Djokovic is a Hero in Serbia</a> NYT: Many feel a personal connection and pride with the tennis star, even if they do not agree with his decisions to stay unvaccinated. 
  <p class="updated_time"> 01:17 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/havana-syndrome-evaluation-tool.html">US Refines Tool to Evaluate 'Havana Syndrome' Cases</a> NYT: The tool, essentially a standardized battery of questions and medical tests, can help determine the kind of care needed by people affected by the “anomalous health incidents.” 
  <p class="updated_time"> 01:03 PM CT, Jan. 13 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59986422?at_medium=RSS&at_campaign=KARANGA">South Africa minister tells schoolgirls to 'open books and close legs'</a> BBC: Phophi Ramathuba is criticised for comments she made attempting to encourage abstinence. 
  <p class="updated_time"> 12:06 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59977198?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic and the unanswered questions</a> BBC: Novak Djokovic is facing a number of questions over his activities after testing positive for Covid. 
- <p class="updated_time"> 12:00 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/europe/serbia-djokovic.html">How Serbia Views Novak Djokovic</a> NYT: Many feel a personal connection and pride with the tennis star, even if they do not agree with his decisions to stay unvaccinated. 
  <p class="updated_time"> 11:54 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/prince-andrew-military-titles-abuse-case.html">Prince Andrew Gives Up Military Titles as Sexual Abuse Case Proceeds</a> NYT: Buckingham Palace said Andrew would not undertake any public duties and was defending his case as a private citizen. 
  <p class="updated_time"> 11:53 AM CT, Jan. 13 </p> 
@@ -204,18 +204,26 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:49 PM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/scotus-blocks-bidens-workplace-vaccine-rule-527054">SCOTUS blocks Biden’s workplace vaccine rule</a> Politico: The judges blocked enforcement of the Biden administration’s Covid-19 vaccine-or-test mandate for workers at large businesses but allowed enforcement of a similar mandate for certain health care workers. 
  <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
+ <p class="updated_time"> 01:55 PM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/biden-voting-rights-senate-democrats/index.html">House passes voting legislation ahead of Biden's Hill visit</a> CNN: President Joe Biden will travel to Capitol Hill on Thursday as he continues to push for passage of voting legislation in Congress, despite the uphill battle Democrats face amid Republican opposition and resistance within their own ranks to changing Senate rules. 
+ <p class="updated_time"> 01:54 PM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/supreme-court-vaccine-mandate-covid-19/index.html">Supreme Court blocks nationwide vaccine and testing mandate for large businesses, allows health care vaccine mandate to take effect</a> CNN: The Supreme Court blocked President Joe Biden's vaccine or testing requirement aimed at large businesses, but it allowed a vaccine mandate for certain health care workers to go into effect nationwide. 
+ <p class="updated_time"> 01:50 PM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/navient-student-loan-settlement/index.html">More than 400,000 student loan borrowers will get debt relief from Navient</a> CNN: More than 400,000 student loan borrowers will get some debt relief from Navient, according to a $1.85 billion settlement agreement announced Thursday. 
  <p class="updated_time"> 01:46 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/business/economy/inflation-price-controls.html">Spike in Inflation Reignites Debate on Price Controls</a> NYT: A discussion over whether price controls would work to stem inflation is sweeping progressives. So far, it has little political acceptance. 
- <p class="updated_time"> 01:43 PM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/supreme-court-vaccine-mandate-covid-19/index.html">Supreme Court blocks nationwide vaccine and testing mandate for large businesses, allows health care vaccine mandate to take effect</a> CNN: The Supreme Court blocked President Joe Biden's vaccine or testing requirement aimed at large businesses, but it allowed a vaccine mandate for certain health care workers to go into effect nationwide. 
+ <p class="updated_time"> 01:45 PM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072165393/supreme-court-blocks-bidens-vaccine-or-test-mandate-for-large-private-companies">Supreme Court blocks Biden's vaccine-or-test mandate for large private companies</a> NPR: But the court upheld the mandate for some healthcare workers. 
  <p class="updated_time"> 01:43 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html">Supreme Court Blocks Biden’s Vaccine Mandate for Large Employers</a> NYT: But the justices allowed a vaccination requirement for health care workers at facilities that receive federal money. 
  <p class="updated_time"> 01:33 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html">Oath Keepers leader and 10 others charged with 'seditious conspiracy' related to US Capitol attack</a> CNN: The Justice Department has charged 11 defendants with seditious conspiracy related to the Capitol attack on January 6, 2021, including the leader of the Oath Keepers, Stewart Rhodes. 
  <p class="updated_time"> 01:30 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/house-voting-rights-bill.html">Sinema Says She Will Not Support Changing Filibuster</a> NYT: Senator Kyrsten Sinema’s comments came after the House approved a set of voting rights measures on a party-line vote of 220 to 203. 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/sinema-voting-rights-bill.html">Sinema Says She Will Not Support Changing Filibuster</a> NYT: Senator Kyrsten Sinema’s comments came after the House approved a set of voting rights measures on a party-line vote of 220 to 203. 
  <p class="updated_time"> 01:27 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard predicts that the Fed will engineer a soft economic landing.</a> NYT: Ms. Brainard, a Federal Reserve governor who has been nominated to be the central bank’s vice chair, said she expects workers will come back as the economy chugs along. 
  <p class="updated_time"> 01:17 PM CT, Jan. 13 </p> 
@@ -234,14 +242,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/13/politics/rnc-presidential-debates/index.html">RNC threatens to require its candidates pledge not to participate in general election debates sponsored by official commission</a> CNN: The Republican National Committee said Thursday in a letter to the Commission on Presidential Debates that it is prepared to "prohibit future Republican nominees from participating in CPD-sponsored debates" unless the commission makes a number of significant changes to its procedure. 
  <p class="updated_time"> 12:42 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/kyrsten-sinema-filibuster-voting-rights/index.html">Sinema not backing down on filibuster in fatal blow to Democrats' voting rights fight</a> CNN: Democratic Sen. Kyrsten Sinema of Arizona reiterated from the Senate floor Thursday that she is not backing off her position to uphold the filibuster, less than an hour before President Joe Biden arrived on Capitol Hill to pitch Democrats on eradicating it. 
- <p class="updated_time"> 12:33 PM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/biden-voting-rights-senate-democrats/index.html">House passes voting legislation ahead of Biden's Hill visit</a> CNN: President Joe Biden will travel to Capitol Hill on Thursday as he continues to push for passage of voting legislation in Congress, despite the uphill battle Democrats face amid Republican opposition and resistance within their own ranks to changing Senate rules. 
  <p class="updated_time"> 12:29 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/russia-talks-diplomacy-uncertain-thursday-osce/index.html">US warns 'drumbeats of war' are sounding as Ukraine crisis talks with Russia end with no breakthrough</a> CNN: The last of three meetings aimed at ratcheting down tensions with Moscow over its potential invasion of Ukraine ended without a clear breakthrough, leaving prospects for future diplomacy and de-escalation in doubt as Russian officials warned they could soon turn to military options. 
  <p class="updated_time"> 12:17 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072778094/sen-sinema-dashes-democrats-hope-to-change-the-filibuster">Sen. Sinema dashes Democrats' hope to change the filibuster</a> NPR: Ahead of a meeting with President Biden, Sen. Kyrsten Sinema dashed any hope of changing the filibuster to pass voting rights legislation. 
- <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/republicans-warn-biden-nuclear-cuts-527030">Top GOP hawks warn Biden against nuclear cuts</a> Politico: Their public warning underscores how politically challenging it will be for Biden to make major reforms to U.S. nuclear strategy. 
  <p class="updated_time"> 12:02 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/biden-omicron-medical-team-deployments/index.html">Biden says administration will make free, high-quality face masks available to all Americans</a> CNN: President Joe Biden is expected to deliver remarks on Thursday announcing a new wave of federally deployed medical teams to six states to help hospitals combat Covid-19, a White House official told CNN. 
  <p class="updated_time"> 11:46 AM CT, Jan. 13 </p> 
@@ -264,12 +268,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/health/fda-robert-califf.html">Senate Panel OKs Califf Nomination for F.D.A. Chief</a> NYT: A key committee was split mainly on party lines over the nomination of Dr. Robert Califf, foreshadowing divisions in the full Senate for a vote on confirmation. 
  <p class="updated_time"> 11:07 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/doe-clean-energy-corps-climate/index.html">Energy Department will recruit 1,000 additional staffers for new corps to tackle the climate crisis</a> CNN: The US Energy Department is launching a Clean Energy Corps to help implement the recent bipartisan infrastructure law and develop clean-energy solutions to the climate crisis, the agency announced Thursday. 
- <p class="updated_time"> 10:53 AM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/republican-majority-investigation-plans-midterms/index.html">GOP plots onslaught of Biden probes in the run-up to 2024</a> CNN: Members of the far right are already agitating to launch impeachment proceedings against President Joe Biden if the GOP is in power in Congress next year. Some leading Republicans want to spotlight former President Donald Trump's false claims of voter fraud. And key House and Senate Republicans are vowing to probe the security failures surrounding last year's January 6 attack on the US Capitol -- and turn the attention to House Speaker Nancy Pelosi. 
  <p class="updated_time"> 10:31 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/senate-judicial-nominations-blue-slips-democrats/index.html">Democrats embrace hardball judicial nomination tactics GOP adopted under Trump </a> CNN: Former President Donald Trump and Republicans broke with previous Senate tradition to confirm 17 federal appeals court nominees over the objection of Democratic senators representing the states tied to their seats on the bench. 
- <p class="updated_time"> 10:30 AM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/congressional-gold-medal-emmett-till-and-mamie-till-mobley/index.html">Senate passes bill to posthumously award Emmett Till and his mother with Congressional Gold Medal</a> CNN: The Senate on Tuesday passed a bipartisan bill to award the Congressional Gold Medal posthumously to Emmett Till, a teenager savagely killed in 1955 by White supremacists in Mississippi, and his mother, Mamie Till-Mobley, who decided to have an open-casket funeral because she "wanted the world to see what they did to my baby." 
  <p class="updated_time"> 10:15 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/congress-omicron.html">The Mood in the Capitol Was Already Dark. Then Came Omicron.</a> NYT: Congress, always a reflection of the country, is in a testy mood, as the latest coronavirus variant looms over the Capitol and schadenfreude is in full swing. 
  <p class="updated_time"> 09:52 AM CT, Jan. 13 </p> 
@@ -340,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072548439/internal-gop-conflicts-about-2020-election-surface-as-party-fights-new-voting-la">Internal GOP conflicts about 2020 election surface as party fights new voting laws</a> NPR: Republicans are accusing Democrats of a power grab as they try to pass federal voting legislation. The GOP is also still struggling with former President Trump's ongoing lies about the 2020 election. 
  <p class="updated_time"> 03:51 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/jan-6-select-panel-to-seek-mccarthys-testimony-526983">McCarthy rejects Jan. 6 committee request for testimony about talks with Trump</a> Politico: The House minority leader, who helped scuttle an attempt to establish a bipartisan commission to investigate the insurrection, has spent months thrashing the select committee. 
- <p class="updated_time"> 03:28 PM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072544752/jan-6-panel-investigating-insurrection-requests-kevin-mccarthys-voluntary-testim">The top House Republican won't comply with Jan. 6 panel request to voluntarily testify</a> NPR: Among its questions, the committee is probing any conversations Kevin McCarthy had with former President Donald Trump on the day of the Capitol attack. 
  <p class="updated_time"> 03:10 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/inflation-biden-economy-agenda-526980">Price spikes threaten to ground Biden's big-spending plans</a> Politico: The government reported Wednesday that the consumer price index, the most widely watched gauge of inflation, hit a four-decade high in December compared to the previous year. 
  <p class="updated_time"> 02:30 PM CT, Jan. 12 </p> 
@@ -394,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/11/senators-feds-jan-6-riot-probe-526899">Senators grill feds over Jan. 6 riot probe</a> Politico: Democrats challenged prosecutors for not seeking terrorism-related sentences, while Republicans often steered away from the insurrection altogether. 
  <p class="updated_time"> 01:45 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/biden-n95-mask-distribution-526889">Biden health team weighs new mask distribution plan</a> Politico: Officials in favor of distributing the masks to the public have pushed for a decision as soon as Thursday. 
- <p class="updated_time"> 12:16 PM CT, Jan. 11 </p> 
- <a href="https://www.politico.com/news/2022/01/11/david-mccormick-senate-campaign-trump-526870">McCormick MAGA-proofs his Senate campaign after dissing Trump</a> Politico: The new Pennsylvania candidate is certain to face GOP primary attacks. 
  <p class="updated_time"> 07:45 AM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/11/democrats-look-for-a-roadmap-on-rules-changes-495677">Democrats look for a roadmap on rules changes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Jan. 11 </p> 
@@ -422,6 +418,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/09/mike-rounds-trump-election-republicans-526806">GOP senator says Trump’s election allegations are unfounded</a> Politico: “The election was fair, as fair as we have seen,” Mike Rounds said. 
  <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
+ <p class="updated_time"> 09:07 AM CT, Jan. 09 </p> 
+ <a href="https://www.cnn.com/2022/01/09/politics/biden-student-loan-for-profit-college/index.html">Why Biden's student loan relief efforts haven't yet reversed a DeVos decision on for-profit colleges</a> CNN: The Biden administration has pledged to make college more affordable. But it has chosen not to reinstate an Obama-era rule meant to prevent students from taking on too much debt to attend predatory for-profit colleges. 
  <p class="updated_time"> 12:41 PM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/news/2022/01/08/senate-minority-whip-john-thune-to-run-for-reelection-526794">Senate Minority Whip John Thune to run for reelection</a> Politico: The 61-year-old South Dakotan is widely viewed as a potential successor to Senate Minority Leader Mitch McConnell 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
