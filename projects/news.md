@@ -202,6 +202,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:56 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/moscow-washington-ukraine-527090">As talks flame out, Moscow and Washington brace for next moves on Ukraine</a> Politico: “The drumbeat of war is sounding loud, and the rhetoric has gotten rather shrill," one U.S. diplomat said. 
+ <p class="updated_time"> 05:50 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/federal-prisoners-release.html">New Rule Makes Thousands of Federal Inmates Eligible for Release</a> NYT: The Justice Department issued guidelines that allow more prisoners participate in a program to earn shorter terms under the 2018 bipartisan criminal justice law. 
  <p class="updated_time"> 05:34 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/manchin-sinema-sink-filibuster-reform-527082">How Biden swung for filibuster reform — and missed with Manchin and Sinema</a> Politico: The president talked about the late majority leader Robert Byrd at some length during his Thursday meeting with the 50-member Senate Democratic caucus. 
  <p class="updated_time"> 05:02 PM CT, Jan. 13 </p> 
@@ -310,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/barack-obama-change-filibuster-rules-voting-rights-527007">Obama backs Biden's call to change filibuster rules and pass voting rights legislation</a> Politico: In his first op-ed since leaving office, the former president wrote about the work that must go into protecting democracy. 
  <p class="updated_time"> 08:07 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/democrats-voting-rights-bill.html">Democrats Plan to Fast-Track Voting Rights Bill, Speeding a Showdown</a> NYT: The move will allow for debate on the legislation to begin this week, hastening a confrontation with Republicans and the moment when Democrats could try to change Senate rules. 
- <p class="updated_time"> 07:01 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html">As Infrastructure Money Flows, Wastewater Improvements Are Key</a> NYT: The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most? 
  <p class="updated_time"> 06:10 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/elections/david-mccormick-pennsylvania-senate.html">David McCormick Joins Republican Senate Primary in Pennsylvania</a> NYT: A former Treasury official, Mr. McCormick has drawn comparisons to Glenn Youngkin, the financier recently elected governor of Virginia. 
  <p class="updated_time"> 05:53 PM CT, Jan. 12 </p> 
