@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:31 AM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59949924?at_medium=RSS&at_campaign=KARANGA">German court finds Syrian colonel guilty of crimes against humanity</a> BBC: The German trial of Anwar Raslan is the world's first criminal case over state-led torture in Syria. 
  <p class="updated_time"> 03:04 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59975272?at_medium=RSS&at_campaign=KARANGA">Ronnie Spector: Be My Baby singer of The Ronettes dies at 78</a> BBC: The pop super star was the lead singer of the 1960 pioneering all-girl group the Ronettes. 
  <p class="updated_time"> 02:43 AM CT, Jan. 13 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59950666?at_medium=RSS&at_campaign=KARANGA">The people using YouTube to pay for their French chateau</a> BBC: How chateaux owners are using advertising revenues from social media posts to earn a living. 
  <p class="updated_time"> 06:09 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-famous-apologies.html">Boris Johnson's Apology Is Part of a Long Tradition</a> NYT: Prime Minister Boris Johnson’s self-abasing apology, for attending a party during a pandemic lockdown, joins a long list of mea culpas by the prominent and powerful. 
- <p class="updated_time"> 06:07 PM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59949924?at_medium=RSS&at_campaign=KARANGA">Syrian torture: German verdict on crimes against humanity</a> BBC: The trial of Anwar Raslan is the world's first criminal case over state-led torture in Syria. 
  <p class="updated_time"> 05:49 PM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59974220?at_medium=RSS&at_campaign=KARANGA">Virginia Giuffre: What we know about Prince Andrew's accuser</a> BBC: What we know about the woman who has accused the British royal of sexual assault. 
  <p class="updated_time"> 05:35 PM CT, Jan. 12 </p> 
@@ -186,6 +186,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/gop-russia-senate-sanctions-vote-527004">GOP seeks a Russia reboot with Senate sanctions vote</a> Politico: After four years on the defensive over Donald Trump's approach to Moscow, Republicans want the upper hand. But Democrats have their own harsh alternative. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/trump-senate-midterm-gop-control-526991">Trump looks to reshape the Senate in anticipation of his second act as president</a> Politico: The former president still is angry that key agenda items got stymied in the chamber. He doesn’t want that to happen again. 
  <p class="updated_time"> 12:55 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072671395/abortion-rights-jumps-to-a-top-priority-for-democrats-in-new-poll">Abortion rights jump to a top priority for Democrats in a new poll</a> NPR: The number of Democrats citing abortion rights as a top priority for the federal government to address jumped from less than 1% in 2021 to 13% in a new poll. 
  <p class="updated_time"> 10:57 PM CT, Jan. 12 </p> 
@@ -215,7 +219,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:13 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">Who the January 6 committee has subpoenaed or asked to appear</a> CNN: The committee investigating the deadly Capitol Hill riot on January 6, 2021, has issued scores of subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
  <p class="updated_time"> 07:01 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html">As Infrastructure Money Flows, Wastewater Improvements Are Key</a> NYT: The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most? 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html">An Alabama Town’s Sewage Woes Test Biden’s Infrastructure Ambitions</a> NYT: The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most? 
  <p class="updated_time"> 06:38 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/matt-gaetz-girlfriend-investigation.html">Gaetz’s Ex-Girlfriend Testifies Before Federal Grand Jury</a> NYT: The development suggests that the Justice Department may have secured a key witness in its child sex trafficking investigation of Representative Matt Gaetz. 
  <p class="updated_time"> 06:36 PM CT, Jan. 12 </p> 
@@ -325,7 +329,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:47 PM CT, Jan. 11 </p> 
  <a href="https://www.politico.com/news/2022/01/11/records-former-labor-leader-subpoenaed-526961">Records of former labor leader and close Biden ally subpoenaed</a> Politico: A grand jury is probing Harold Schaitberger's financial activities as the leader of the International Association of Fire Fighters. 
  <p class="updated_time"> 09:39 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-senate-history.html">Biden’s Longtime Defense of Senate Rules Withers Under Partisan Rancor</a> NYT: The president left no doubt that he has reached a breaking point, lashing out at senators who are blocking voting rights legislation. 
+ <a href="https://www.nytimes.com/2022/01/11/us/politics/biden-filibuster-senate-history.html">Biden Defense of Filibuster Withers Under Partisan Rancor</a> NYT: The president left no doubt that he has reached a breaking point, lashing out at senators who are blocking voting rights legislation. 
  <p class="updated_time"> 09:24 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/health/fauci-senate-hearing-omicron-response.html">U.S. Officials Defend Omicron Response at Senate Hearing</a> NYT: Lawmakers accused top Biden administration health officials of neglecting virus testing and mangling key messaging around the pandemic. 
  <p class="updated_time"> 08:09 PM CT, Jan. 11 </p> 
@@ -418,12 +422,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/06/biden-trump-capitol-riot-526605">Biden decries Trump’s ‘singular responsibility’ for the Capitol riot</a> Politico: One year since the violence of Jan. 6, 2021, the sitting president sharpened his rhetoric toward his predecessor — without using Trump’s name. 
  <p class="updated_time"> 07:49 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/06/a-year-later-the-hill-is-no-longer-the-safest-place-495624">A year later, the Hill ‘is no longer the safest place'</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:00 AM CT, Jan. 06 </p> 
- <a href="https://www.politico.com/news/2022/01/06/andy-kim-reflects-jan-6-526568">How one Congressman’s act of service will be forever memorialized</a> Politico: One year later, it’s still hard for the congressman to make sense of what happened at the Capitol. 
  <p class="updated_time"> 06:18 AM CT, Jan. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/06/your-guide-to-jan-6-anniversary-coverage-495620"> Your guide to Jan. 6 anniversary coverage</a> Politico Playbook: And the Biden administration tries to straighten out its recent pandemic fumbles. 
- <p class="updated_time"> 04:30 AM CT, Jan. 06 </p> 
- <a href="https://www.politico.com/news/2022/01/06/congress-members-capitol-riot-reflection-525949">‘I was scared. And then I got really angry’: Members of Congress look back at Jan 6</a> Politico: Democrats and Republicans alike spoke frankly with POLITICO about how they've dealt with the attack and how it's affected both them personally and the institution of Congress. 
 
 
 </details>
