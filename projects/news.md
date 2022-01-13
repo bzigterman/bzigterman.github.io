@@ -7,20 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:07 PM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59989476?at_medium=RSS&at_campaign=KARANGA">US Supreme Court blocks Biden's workplace vaccine mandate</a> BBC: The ruling marks a major blow to a central pillar of the White House's strategy for tackling Covid-19. 
+ <p class="updated_time"> 03:55 PM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072867920/secretary-of-state-blinken-says-russia-will-face-consequences-if-they-invade-ukr">Secretary of State Blinken says Russia will face consequences if they invade Ukraine</a> NPR: NPR's Mary Louise Kelly talks with U.S. Secretary of State Antony Blinken about the United States' role in the ongoing conflict between Russia and Ukraine. 
+ <p class="updated_time"> 03:53 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/middleeast/verdict-syria-war-crimes.html">First Trial for Syrian State Atrocities Yields Guilty Verdict in Germany</a> NYT: A German court found a former Syrian intelligence officer guilty of crimes against humanity and sentenced him to life in prison — a first after a decade of war. 
  <p class="updated_time"> 03:50 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072867403/german-court-sentences-syrian-intelligence-officer-to-life-in-prison-for-war-cri">German court sentences Syrian intelligence officer to life in prison for war crimes</a> NPR: A German court sentenced a Syrian intelligence officer to life in prison, in a landmark war crimes trial. 
  <p class="updated_time"> 03:50 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072867402/the-view-from-border-city-kharkiv-ukraine-as-russian-troops-appear-ready-to-inva">The view from border city Kharkiv, Ukraine, as Russian troops appear ready to invade</a> NPR: Kharkiv in eastern Ukraine has a large Russian population, but opinion has turned against Russia since the Kemlin stirred up a separatist war in the nearby Donbas and is threatening invasion. 
  <p class="updated_time"> 03:46 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/prince-andrew-military-titles-abuse-case.html">Prince Andrew Is Stripped of Military Titles as Sexual Abuse Case Proceeds</a> NYT: Buckingham Palace said Andrew would not undertake any public duties and was defending his case as a private citizen. 
- <p class="updated_time"> 03:45 PM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59989476?at_medium=RSS&at_campaign=KARANGA">US Supreme Court blocks Biden's workplace vaccine mandate</a> BBC: The ruling marks a major blow to a central pillar of the White House's strategy for tackling Covid-19. 
  <p class="updated_time"> 03:33 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59967957?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 'Terrified' British Council teachers still in hiding</a> BBC: Afghan teachers employed by the British Council say they are still in hiding from the Taliban. 
  <p class="updated_time"> 03:32 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072860337/nobel-peace-prize-ethiopian-prime-minister">Nobel body criticizes Ethiopian prime minister, a Peace Prize winner, over Tigray war</a> NPR: "As prime minister and winner of the Nobel Peace Prize, Abiy Ahmed has a special responsibility to end the conflict and contribute to peace," the Oslo-based committee said in a statement. 
- <p class="updated_time"> 03:28 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/01/13/world/syria-war-crimes-germany-verdict">Former Syrian Colonel Guilty in War Crimes Trial in Germany</a> NYT: In a landmark case, a court convicted Anwar Raslan of overseeing torture at a detention center nearly a decade ago and sentenced him to life in prison. It was one of the world’s first criminal trials on atrocities in Syria’s decade-long civil war. 
  <p class="updated_time"> 03:27 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072867400/prince-andrew-to-face-sex-abuse-charges-as-a-private-citizen">Prince Andrew to face sex abuse charges as a private citizen</a> NPR: Britain's Prince Andrew will face sex abuse allegations as a private citizen, Buckingham Palace announced. He has also given up all public duties as well as his military titles and Royal charities. 
  <p class="updated_time"> 03:22 PM CT, Jan. 13 </p> 
@@ -29,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/nato-ukraine.html">NATO Won’t Let Ukraine Join Soon. Here’s Why.</a> NYT: Ukraine, with Russian troops on its borders, is pressing for membership. But President Biden and European leaders are not ready for that step. 
  <p class="updated_time"> 02:42 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59988413?at_medium=RSS&at_campaign=KARANGA">London 'hitman' on trial over plot to kill Pakistani activist in Netherlands</a> BBC: Muhammad Gohir Khan is accused of agreeing to kill a Pakistani military critic for £100,000. 
+ <p class="updated_time"> 02:37 PM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59989124?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Oath Keepers leader charged with seditious conspiracy</a> BBC: This is first time Capitol riot defendants have been accused of seeking to "overthrow" the government. 
  <p class="updated_time"> 02:33 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-oust.html">How Conservatives Could Oust Prime Minister Boris Johnson</a> NYT: The future of Britain’s prime minister is in doubt after he admitted attending a party while the country was under Covid lockdown. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 02:13 PM CT, Jan. 13 </p> 
@@ -63,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59960949?at_medium=RSS&at_campaign=KARANGA">The puzzle of America's record Covid hospital rate</a> BBC: Europe has fewer Covid patients in hospital now. Why are the US and Canada bucking the Omicron trend? 
  <p class="updated_time"> 09:25 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/in-u-s-russia-talks-over-ukraine-kyiv-gets-a-voice-11642061460">Russia Suggests Military Deployment to Venezuela, Cuba if Tensions With U.S. Remain High</a> WSJ: Russia’s deputy foreign minister said talks with the U.S. over the security situation in Ukraine had stalled and suggested that Moscow could dispatch a military deployment to Venezuela and Cuba. 
- <p class="updated_time"> 09:16 AM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59978138?at_medium=RSS&at_campaign=KARANGA">Covid: Schools in France close as unions say 75% of teachers strike</a> BBC: Unions say 75% of teachers have walked out as they complain about Covid safety and testing rules. 
  <p class="updated_time"> 09:12 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/omicron-peak-appears-to-have-passed-in-u-k-offering-hope-the-wave-is-receding-11642078349">Omicron Appears to Have Peaked in U.K., Offering Hope the Wave Is Receding</a> WSJ: A WSJ analysis of data suggests the wave has peaked, a promising sign that the highly transmissible variant’s impact may be brief, if intense, and fueling optimism that the pandemic may be waning. 
  <p class="updated_time"> 08:29 AM CT, Jan. 13 </p> 
@@ -137,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072413634/russia-nato-ukraine">4 things Russia wants right now</a> NPR: Russia forced the West into a flurry of diplomacy this week with its massive troop buildup on its border with Ukraine. Here's a short guide to what the Kremlin wants. 
  <p class="updated_time"> 03:57 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
- <p class="updated_time"> 03:55 PM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072548467/talks-between-russia-and-nato-don-t-seem-to-have-defused-tensions-on-ukrainian-b">Talks between Russia and NATO don't seem to have defused tensions on Ukrainian border</a> NPR: A Russian delegation was in Brussels Wednesday to meet with NATO officials, who are trying to head off an invasion of Ukraine by Russian troops massed on the border. 
  <p class="updated_time"> 02:31 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/spanish-doctors-ppe-settlement.html">Spanish Doctors Left Without P.P.E. Early in Pandemic Win Settlement</a> NYT: The ruling was the first in a raft of suits brought by doctors and nurses in Spain who say they worked without masks, gowns or surgical gloves. 
  <p class="updated_time"> 01:19 PM CT, Jan. 12 </p> 
@@ -202,20 +202,28 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:02 PM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/congress-launches-funding-talks-ahead-of-february-shutdown-cliff-527085">Congress launches funding talks ahead of February shutdown cliff</a> Politico: The Hill's top four spending leaders met amicably for the first time in months, a sign that they could move beyond the funding stalemates. 
  <p class="updated_time"> 04:23 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/jan-6-subpoena-tech-527079">Jan. 6 investigators subpoena Twitter, YouTube, Facebook's parent and other tech giants</a> Politico: The select panel is seeking more information related to the spread of misinformation, coordinated efforts to overturn the 2020 election and domestic violent extremism. 
+ <p class="updated_time"> 04:06 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-stewart-rhodes.html">Oath Keepers Leader Charged With Seditious Conspiracy in Jan. 6 Investigation</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald J. Trump. 
+ <p class="updated_time"> 04:04 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/covid-tests-biden.html">Biden Announces 500 Million More Tests Will be Purchased for Americans</a> NYT: President Biden also announced the allocation of 1,000 medical personnel to six states would carry out a pledge the president made last month on quashing Omicron. 
+ <p class="updated_time"> 03:57 PM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html">Oath Keepers leader and 10 others charged with 'seditious conspiracy' related to US Capitol attack</a> CNN: The Justice Department has charged 11 defendants with seditious conspiracy related to the Capitol attack on January 6, 2021, including the leader of the Oath Keepers, Stewart Rhodes. 
+ <p class="updated_time"> 03:56 PM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/social-media-subpoenas-january-6/index.html">January 6 panel targets social media companies with subpoenas after 'inadequate responses' to voluntary request </a> CNN: The House Select Committee investigating the January 6 riot has issued four subpoenas to giant social media conglomerates after the panel said the companies provided "inadequate responses" to its initial request for documents and information over the summer. 
+ <p class="updated_time"> 03:55 PM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072867920/secretary-of-state-blinken-says-russia-will-face-consequences-if-they-invade-ukr">Secretary of State Blinken says Russia will face consequences if they invade Ukraine</a> NPR: NPR's Mary Louise Kelly talks with U.S. Secretary of State Antony Blinken about the United States' role in the ongoing conflict between Russia and Ukraine. 
  <p class="updated_time"> 03:38 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/supreme-court-vaccine-mandate-covid-19/index.html">Supreme Court blocks nationwide vaccine and testing mandate for large businesses, allows health care vaccine mandate to take effect</a> CNN: The Supreme Court blocked President Joe Biden's vaccine or testing requirement aimed at large businesses, but it allowed a vaccine mandate for certain health care workers to go into effect nationwide. 
- <p class="updated_time"> 03:34 PM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html">Oath Keepers leader and 10 others charged with 'seditious conspiracy' related to US Capitol attack</a> CNN: The Justice Department has charged 11 defendants with seditious conspiracy related to the Capitol attack on January 6, 2021, including the leader of the Oath Keepers, Stewart Rhodes. 
  <p class="updated_time"> 03:30 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard predicts that the Fed will engineer a soft economic landing.</a> NYT: Ms. Brainard, nominated to be the Federal Reserve’s vice chair, expects workers will come back as the economy chugs along, she told a Senate committee. 
  <p class="updated_time"> 03:18 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/russia-talks-diplomacy-uncertain-thursday-osce/index.html">US warns 'drumbeats of war' are sounding as Ukraine crisis talks with Russia end with no breakthrough</a> CNN: The last of three meetings aimed at ratcheting down tensions with Moscow over its potential invasion of Ukraine ended without a clear breakthrough, leaving prospects for future diplomacy and de-escalation in doubt as Russian officials warned they could soon turn to military options. 
  <p class="updated_time"> 03:17 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/top-trump-enemy-might-join-gop-senate-primary-527070">Top Trump nemesis might join GOP Senate primary</a> Politico: There’s growing speculation in Arizona that Republican Gov. Doug Ducey will jump into the high-profile Senate race. 
- <p class="updated_time"> 03:12 PM CT, Jan. 13 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/social-media-subpoenas-january-6/index.html">January 6 panel targets social media companies with subpoenas after 'inadequate responses' to voluntary request </a> CNN: The House Select Committee investigating the January 6 riot has issued four subpoenas to giant social media conglomerates after the panel said the companies provided "inadequate responses" to its initial request for documents and information over the summer. 
  <p class="updated_time"> 03:06 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/rnc-presidential-debates/index.html">RNC threatens to require its candidates pledge not to participate in general election debates sponsored by official commission</a> CNN: The Republican National Committee said Thursday in a letter to the Commission on Presidential Debates that it is prepared to "prohibit future Republican nominees from participating in CPD-sponsored debates" unless the commission makes a number of significant changes to its procedure. 
  <p class="updated_time"> 02:55 PM CT, Jan. 13 </p> 
@@ -226,12 +234,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/13/politics/rockets-green-zone-baghdad/index.html">Several rockets hit Baghdad's fortified Green Zone, including US embassy, and wound two civilians</a> CNN: A woman and a child were wounded when several rockets hit Baghdad's fortified Green Zone, including the US embassy, on Thursday, the embassy and Iraqi military said in statements. 
  <p class="updated_time"> 02:16 PM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/kyrsten-sinema-filibuster-voting-rights/index.html">Sinema not backing down on filibuster in fatal blow to Democrats' voting rights fight</a> CNN: Democratic Sen. Kyrsten Sinema of Arizona reiterated from the Senate floor Thursday that she is not backing off her position to uphold the filibuster, less than an hour before President Joe Biden arrived on Capitol Hill to pitch Democrats on eradicating it. 
- <p class="updated_time"> 02:10 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/covid-tests-biden.html">Biden Announces 500 Million More Tests Will be Purchased for Americans</a> NYT: President Biden also announced the allocation of 1,000 medical personnel to six states would carry out a pledge the president made last month on quashing Omicron. 
  <p class="updated_time"> 02:08 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/health/fda-robert-califf.html">Senate Panel OKs Califf Nomination for F.D.A. Chief</a> NYT: A split committee vote revealed concerns about the opioid epidemic and abortion policies, foreshadowing a likely close vote on confirmation by the full Senate. 
  <p class="updated_time"> 02:08 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072819642/oath-keepers-leader-arrested-jan-6-insurrection-capitol">Oath Keepers leader arrested, charged with seditious conspiracy for Jan. 6 riot</a> NPR: The federal government has charged Stewart Rhodes and 10 others with seditious conspiracy in the most serious case to emerge from its investigation into the Capitol riot. 
+ <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
  <p class="updated_time"> 02:02 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/sinema-voting-rights-bill.html">Sinema Says She Will Not Support Changing Filibuster</a> NYT: Senator Kyrsten Sinema’s comments came after the House approved a set of voting rights measures on a party-line vote of 220 to 203. 
  <p class="updated_time"> 01:55 PM CT, Jan. 13 </p> 
@@ -250,12 +258,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/capitol-riot-online-messages-dhs-527027">Violent online messages before Capitol riot went unshared by DHS, emails show</a> Politico: The department's intelligence office saw "significant chatter" in the 48 hours before Jan. 6 and concluded it was just hyperbole, according to internal emails shared with POLITICO. 
  <p class="updated_time"> 01:13 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/presidential-debates-rnc.html">R.N.C. Signals a Pullout From Presidential Debates</a> NYT: The Republican National Committee says it will require candidates to pledge to not participate in debates run by the Commission on Presidential Debates. What would replace them, if anything, was unclear. 
- <p class="updated_time"> 01:11 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-stewart-rhodes.html">Oath Keepers Leader Charged With Seditious Conspiracy in Jan. 6 Investigation</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald Trump. 
  <p class="updated_time"> 12:47 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/rnc-threatens-to-bar-candidates-from-presidential-debates-527037">RNC feud with presidential debate commission escalates with boycott threat</a> Politico: The committee sent a letter to the Commission on Presidential Debates saying it wants GOP presidential candidates to not work with the group. 
  <p class="updated_time"> 12:17 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072778094/sen-sinema-dashes-democrats-hope-to-change-the-filibuster">Biden says he doesn't know if voting rights legislation can pass</a> NPR: The president left a meeting with Senate Democrats pessimistic about a way forward on voting rights bills. 
+ <a href="https://www.npr.org/2022/01/13/1072778094/sen-sinema-dashes-democrats-hope-to-change-the-filibuster">Biden says he doesn't know if voting rights legislation can pass</a> NPR: The president left a meeting with Senate Democrats pessimistic about a way forward on voting rights, as Sens. Kyrsten Sinema and Joe Manchin reiterated their opposition to changing Senate rules. 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/republicans-warn-biden-nuclear-cuts-527030">Top GOP hawks warn Biden against nuclear cuts</a> Politico: Their public warning underscores how politically challenging it will be for Biden to make major reforms to U.S. nuclear strategy. 
  <p class="updated_time"> 12:02 PM CT, Jan. 13 </p> 
@@ -280,6 +286,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072730868/biden-announces-plans-to-buy-500-million-more-covid-tests-and-to-offer-free-mask">Biden announces plans to buy 500 million more COVID tests and to offer free masks</a> NPR: The president expects a website to launch next week to order tests. The head of the postal workers union says that up to 7,000 temporary workers will be hired in the effort to get kits to Americans. 
  <p class="updated_time"> 09:24 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard, Nominee for Fed Vice Chair, Calls Inflation ‘Too High’</a> NYT: Lael Brainard, the Federal Reserve governor who President Biden nominated for vice chair, said the central bank is focused on getting price gains back down. 
+ <p class="updated_time"> 09:00 AM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/david-scott-house-agriculture-worries-527015">Lawmakers raise health concerns as they quietly seek to replace a House chairman</a> Politico: Some Democratic lawmakers have been trying to gently push out Rep. David Scott as head of the House Agriculture Committee, citing questions about his effectiveness. 
  <p class="updated_time"> 08:31 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/joe-biden-democrats-inflation-midterm-elections/index.html">'Under Trump it was so much better': The reality Democrats may be missing is that people are hurting right now</a> CNN: Outside a Costco, Laura Godinez lifts meat, toothpaste, coffee, bottled water and bulk supplies of DayQuil from her cart -- just the staples in a pandemic-era weekly shopping trip that is now often missing extras that might bust the family budget, like cookies and snacks. 
  <p class="updated_time"> 08:21 AM CT, Jan. 13 </p> 
@@ -338,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072548488/what-trump-told-npr-about-the-republican-party-before-he-hung-up">What Trump told NPR about the Republican party before he hung up</a> NPR: Former President Trump cut his NPR interview off abruptly when pressed about his election lies. Trump revealed a clear rift some Republican senators who have confirmed the truth that Biden won. 
  <p class="updated_time"> 04:23 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072552874/jan-6-panel-asks-gop-leader-kevin-mccarthy-to-voluntarily-share-information">Jan. 6 panel asks GOP leader Kevin McCarthy to voluntarily share information</a> NPR: The House select committee investigating the Jan. 6 attack is asking House GOP leader Kevin McCarthy to voluntarily provide information on conversations he had with former President Trump that day. 
- <p class="updated_time"> 04:04 PM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072549736/democrats-plan-a-procedural-maneuver-to-open-senate-debate-on-voting-rights-bill">Democrats plan a procedural maneuver to open Senate debate on voting rights bills</a> NPR: In a memo obtained by NPR, Senate Democrats say they've found a way to start debate on voting rights legislation. However, they still don't have a way forward for an actual floor vote. 
  <p class="updated_time"> 03:51 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/jan-6-select-panel-to-seek-mccarthys-testimony-526983">McCarthy rejects Jan. 6 committee request for testimony about talks with Trump</a> Politico: The House minority leader, who helped scuttle an attempt to establish a bipartisan commission to investigate the insurrection, has spent months thrashing the select committee. 
  <p class="updated_time"> 03:10 PM CT, Jan. 12 </p> 
@@ -368,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/12/whats-the-plan-man-dems-still-talking-elections-and-filibuster-495696">What’s the plan, Chuck?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/12/our-exclusive-new-poll-on-voting-rights-495693"> Our exclusive new poll on voting rights</a> Politico Playbook: And the latest state of play on ECA reform. 
- <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/news/2022/01/12/kansas-city-mayor-recall-fighting-covid-republicans-526900">Radical to the right, ‘boot-licker’ to the left. Kansas City mayor on America’s polarization.</a> Politico: Quinton Lucas on political division, clashes over pandemic-era restrictions and what it’s like being a Black mayor after George Floyd. 
  <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/mcconnell-successor-three-johns-race-526920">The shadow race to succeed McConnell is on — and all-John</a> Politico: Thune and Cornyn are best-positioned to become the next Senate GOP leader — but Barrasso is in the mix too. 
  <p class="updated_time"> 04:23 AM CT, Jan. 12 </p> 
@@ -426,8 +430,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/07/choose-your-own-covid-policy-for-house-return-495639">Choose your own covid policy for House return</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/07/biden-finds-a-new-manchin-whisperer-495636"> Biden finds a new Manchin whisperer</a> Politico Playbook: And Biden allies hope the president's Jan. 6 speech is a turning point for the administration. 
- <p class="updated_time"> 04:31 AM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/news/2022/01/07/clinton-oprah-democrats-manchin-filibuster-526691">Bill Clinton, Oprah and his fellow centrists: Dems go all-out to sway Manchin</a> Politico: Sen. Tim Kaine (D-Va.) likened lobbying his colleague to change the filibuster to his 27-hour drive earlier this week after a snowstorm devastated I-95. 
 
 
 </details>
