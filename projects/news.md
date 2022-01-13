@@ -9,12 +9,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:22 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59975272?at_medium=RSS&at_campaign=KARANGA">Ronnie Spector: Be My Baby singer of The Ronettes dies at 78</a> BBC: The pop super star was the lead singer of the 1960 pioneering all-girl group the Ronettes. 
+ <p class="updated_time"> 04:19 AM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59977193?at_medium=RSS&at_campaign=KARANGA">Australia equals hottest day on record at 50.7C</a> BBC: Osnlow in Western Australia recorded 50.7C on Thursday, equalling a record set in 1962. 
  <p class="updated_time"> 04:13 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072416672/germany-syria-torture-trial-crimes-against-humanity-verdict">In a landmark case, a German court convicts an ex-Syrian officer of torture</a> NPR: The world's first criminal trial on torture in Syria's prisons ended Thursday in Koblenz, Germany — the first time a high-ranking ex-Syrian official faced Syrians in open court in a war crimes case. 
  <p class="updated_time"> 04:09 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59979408?at_medium=RSS&at_campaign=KARANGA">Canada: Unvaccinated father loses right to see his child</a> BBC: The father is not allowed to see the 12-year-old until next month - unless he gets vaccinated. 
  <p class="updated_time"> 04:06 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/taliban-pakistan-afghanistan-government.html">The Taliban Have Staffing Issues. They Are Looking for Help in Pakistan.</a> NYT: Government jobs are given as patronage to ex-fighters and exiles living quietly in Pakistan. But not all possess the technical skills required for the job. 
+ <a href="https://www.nytimes.com/2022/01/13/world/taliban-members.html">The Taliban Have Staffing Issues. They Are Looking for Help in Pakistan.</a> NYT: Government jobs are given as patronage to ex-fighters and exiles living quietly in Pakistan. But not all possess the technical skills required for the job. 
  <p class="updated_time"> 04:04 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59949924?at_medium=RSS&at_campaign=KARANGA">German court finds Syrian colonel guilty of crimes against humanity</a> BBC: The trial of Anwar Raslan was the world's first criminal case over state-led torture in Syria. 
  <p class="updated_time"> 03:37 AM CT, Jan. 13 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072548467/talks-between-russia-and-nato-don-t-seem-to-have-defused-tensions-on-ukrainian-b">Talks between Russia and NATO don't seem to have defused tensions on Ukrainian border</a> NPR: A Russian delegation was in Brussels Wednesday to meet with NATO officials, who are trying to head off an invasion of Ukraine by Russian troops massed on the border. 
  <p class="updated_time"> 02:31 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/spanish-doctors-ppe-settlement.html">Spanish Doctors Left Without P.P.E. Early in Pandemic Win Settlement</a> NYT: The ruling was the first in a raft of suits brought by doctors and nurses in Spain who say they worked without masks, gowns or surgical gloves. 
- <p class="updated_time"> 02:20 PM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59956831?at_medium=RSS&at_campaign=KARANGA">Aras Amiri: British Council says jailed employee freed by Iran</a> BBC: Aras Amiri, an Iranian citizen, returns to the UK after being acquitted of spying on appeal. 
  <p class="updated_time"> 01:49 PM CT, Jan. 12 </p> 
  <a href="https://www.npr.org/2022/01/12/1072483665/boris-johnson-apologizes-party">Boris Johnson apologizes for a BYOB party held as the U.K. was in COVID lockdown</a> NPR: Labour Party leader Keir Starmer called Prime Minister Boris Johnson's apology worthless, adding that his defense is that "he didn't realize he was at a party." 
  <p class="updated_time"> 01:43 PM CT, Jan. 12 </p> 
@@ -189,7 +189,11 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/biden-agenda-democrats-senate-filibuster-527003">Old-school senator no more: Biden goes all-in against the filibuster</a> Politico: The president faces long odds as he wades into the battle. Still, Democrats say it's better to try and fail than not try at all. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/gop-russia-senate-sanctions-vote-527004">GOP seeks a Russia reboot with Senate sanctions vote</a> Politico: After four years on the defensive over Donald Trump's approach to Moscow, Republicans want the upper hand. But Democrats have their own harsh alternative. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/dems-child-tax-credit-manchin-527000">Down but not out: Dems plot course for Child Tax Credit as payments end</a> Politico: Though lawmakers have now shifted their attention to voting rights, they say they’ll return to the child credit. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/trump-senate-midterm-gop-control-526991">Trump looks to reshape the Senate in anticipation of his second act as president</a> Politico: The former president still is angry that key agenda items got stymied in the chamber. He doesn’t want that to happen again. 
  <p class="updated_time"> 04:11 AM CT, Jan. 13 </p> 
@@ -238,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/12/politics/andre-mathis-blackburn/index.html">GOP senators take aim at judicial nominee's 'rap sheet' of decade-old traffic citations</a> CNN: At a Senate Judiciary Committee hearing Wednesday, Republicans brought up three traffic tickets -- all a decade or more old -- that a federal appeals court nominee was issued and apparently failed to pay, leading to his license being suspended for several months. 
  <p class="updated_time"> 05:53 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/white-house-environmental-justice-exits-526996">White House departures send tremors through environmental community</a> Politico: The abrupt exits of Cecilia Martinez and David Kieve from the White House's Council on Environmental Quality sparked alarm among environmental justice experts. 
- <p class="updated_time"> 05:50 PM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/news/2022/01/12/white-house-iran-pullout-nuclear-deal-526990">White House slams Trump’s Iran pullout as prospects to save nuclear deal dim</a> Politico: Some analysts predict the U.S. will adopt a more coercive approach toward Tehran by early February. 
  <p class="updated_time"> 05:06 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/kayleigh-mcenany-january-6-committee/index.html">Former White House press secretary Kayleigh McEnany met with January 6 committee, sources say</a> CNN: Former White House press secretary Kayleigh McEnany on Wednesday appeared before the House select committee investigating the January 6 insurrection, two sources familiar with the matter tell CNN. 
  <p class="updated_time"> 04:39 PM CT, Jan. 12 </p> 
@@ -268,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/inflation-biden-economy-agenda-526980">Price spikes threaten to ground Biden's big-spending plans</a> Politico: The government reported Wednesday that the consumer price index, the most widely watched gauge of inflation, hit a four-decade high in December compared to the previous year. 
  <p class="updated_time"> 02:46 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/irs-backlog-tax-returns-2021.html">I.R.S. to Start Tax Season With Major Backlog </a> NYT: At least 10 million returns from last year remain unprocessed because of short-staffing at the tax collector, according to the national taxpayer advocate. 
- <p class="updated_time"> 02:30 PM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/news/2022/01/12/biden-trump-nuclear-weapons-526976">Biden team weighs killing Trump’s new nuclear weapons</a> Politico: Officials are considering canceling weapons that were backed by the last administration. 
  <p class="updated_time"> 01:50 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/irs-tax-filing-season-jan-24-returns/index.html">IRS is in 'crisis,' facing massive backlog as new tax season starts</a> CNN: The Internal Revenue Service had more than 11 million unprocessed tax returns left over from the "most challenging year" taxpayers ever experienced and will begin the upcoming filing season already behind, according to a report from the National Taxpayer Advocate released Wednesday. 
  <p class="updated_time"> 01:49 PM CT, Jan. 12 </p> 
@@ -305,11 +305,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:00 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/how-to-mess-with-an-oligarch-526963">How to mess with an oligarch</a> Politico: Corruption — it’s one of the few political problems that unites people across the political spectrum, and across the globe. 
  <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/news/2022/01/12/kansas-city-mayor-recall-fighting-covid-republicans-526900">Radical to the right, ‘boot-licker’ to the left. Kansas City mayor on America’s polarization.</a> Politico: Quinton Lucas on political division, clashes over pandemic-era restrictions and what it’s like being a Black mayor after George Floyd. 
- <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/mcconnell-successor-three-johns-race-526920">The shadow race to succeed McConnell is on — and all-John</a> Politico: Thune and Cornyn are best-positioned to become the next Senate GOP leader — but Barrasso is in the mix too. 
- <p class="updated_time"> 04:30 AM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/news/2022/01/12/trump-governor-candidates-526954">Trump lost these states. Republican candidates for governor are emulating him anyway.</a> Politico: The former president's influence in key battleground states could be on the rise in 2022. 
  <p class="updated_time"> 04:23 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/school-testing-covid-19-biden-administration/index.html">Biden administration will provide K-12 schools with additional 10 million Covid-19 tests per month</a> CNN: The Biden administration on Wednesday announced new initiatives to provide an additional 10 million Covid-19 tests per month to schools and students in an effort to keep classrooms open. 
  <p class="updated_time"> 04:17 AM CT, Jan. 12 </p> 
