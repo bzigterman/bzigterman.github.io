@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:29 AM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59949924?at_medium=RSS&at_campaign=KARANGA">German court finds Syrian colonel guilty of crimes against humanity</a> BBC: The trial of Anwar Raslan was the world's first criminal case over state-led torture in Syria. 
  <p class="updated_time"> 08:11 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/01/13/world/syria-war-crimes-germany-verdict">Live Updates: Former Syrian Colonel Guilty in War Crimes Trial in Germany</a> NYT: In a landmark case, a court convicted Anwar Raslan of overseeing torture at a detention center nearly a decade ago and sentenced him to life in prison. It was one of the world’s first criminal trials on atrocities in Syria’s decade-long civil war. 
  <p class="updated_time"> 08:11 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/01/13/world/omicron-covid-testing-vaccines">Covid Live Updates: Biden to Announce Military Help for Hospitals in 6 States</a> NYT: Officials said the teams would assist Michigan, New Jersey, New Mexico, New York, Ohio and Rhode Island. The Australian Open will operate at significantly reduced spectator capacity. 
- <p class="updated_time"> 08:08 AM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59949924?at_medium=RSS&at_campaign=KARANGA">German court finds Syrian colonel guilty of crimes against humanity</a> BBC: The trial of Anwar Raslan was the world's first criminal case over state-led torture in Syria. 
  <p class="updated_time"> 08:06 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59979648?at_medium=RSS&at_campaign=KARANGA">Kylie Jenner becomes first woman with 300 million Instagram followers</a> BBC: Ariana Grande, previously the app's most popular woman, is now tied in second place with Selena Gomez. 
  <p class="updated_time"> 08:02 AM CT, Jan. 13 </p> 
@@ -62,7 +62,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:00 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/putin-ukraine-kazakhstan.html">For Putin, Propping Up Allies Is Turning Into a Perilous Bargain</a> NYT: The Russian leader is fighting fires on multiple fronts, illustrating the danger of his strategy of relying on force to aid his autocratic neighbors. 
  <p class="updated_time"> 01:52 AM CT, Jan. 13 </p> 
- <a href="https://www.wsj.com/articles/omicron-peak-appears-to-have-passed-in-u-k-offering-hope-the-wave-is-receding-11642078349">Omicron Appears to Have Peaked in U.K., Offering Hope the Wave Is Receding</a> WSJ: A WSJ analysis of data suggests the wave has peaked in the U.K., a promising sign that the highly transmissible variant’s impact may be brief, if intense, and fueling optimism that the pandemic may be waning. 
+ <a href="https://www.wsj.com/articles/omicron-peak-appears-to-have-passed-in-u-k-offering-hope-the-wave-is-receding-11642078349">Omicron Appears to Have Peaked in U.K., Offering Hope the Wave Is Receding</a> WSJ: A WSJ analysis of data suggests the wave has peaked, a promising sign that the highly transmissible variant’s impact may be brief, if intense, and fueling optimism that the pandemic may be waning. 
  <p class="updated_time"> 01:50 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59963285?at_medium=RSS&at_campaign=KARANGA">Escaped Dutch youth offender shot dead in Belgium</a> BBC: The young man reportedly took two people hostage, drove over the border and opened fire on police. 
  <p class="updated_time"> 01:25 AM CT, Jan. 13 </p> 
@@ -199,7 +199,11 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 09:00 AM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/david-scott-house-agriculture-worries-527015">Farm bill angst triggers a quiet effort to replace a House committee chair</a> Politico: Some Democratic lawmakers have been trying to gently push out Rep. David Scott as head of the House Agriculture Committee, citing questions about his effectiveness as contentious talks gear up over the farm bill. 
+ <a href="https://www.politico.com/news/2022/01/13/david-scott-house-agriculture-worries-527015">Lawmakers raise health concerns as they quietly seek to replace a House chairman</a> Politico: Some Democratic lawmakers have been trying to gently push out Rep. David Scott as head of the House Agriculture Committee, citing questions about his effectiveness as contentious talks gear up over the farm bill. 
+ <p class="updated_time"> 08:31 AM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/joe-biden-democrats-inflation-midterm-elections/index.html">Did Democrats make a strategic error?</a> CNN: Outside a Costco, Laura Godinez lifts meat, toothpaste, coffee, bottled water and bulk supplies of DayQuil from her cart -- just the staples in a pandemic-era weekly shopping trip that is now often missing extras that might bust the family budget, like cookies and snacks. 
+ <p class="updated_time"> 08:22 AM CT, Jan. 13 </p> 
+ <a href="https://www.cnn.com/2022/01/13/politics/us-army-50-thousand-dollars-recruitment-bonus/index.html">US Army offers up to $50K bonus to new recruits</a> CNN: The US Army is offering a bonus up to $50,000, the largest amount ever, to some new recruits who enlist for six years in an effort to increase its ranks amid the coronavirus pandemic. 
  <p class="updated_time"> 08:21 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/matt-gaetz-girlfriend-investigation.html">Gaetz’s Ex-Girlfriend Testifies Before Federal Grand Jury</a> NYT: The development suggests that the Justice Department may have secured a key witness in its child sex trafficking investigation of Representative Matt Gaetz. 
  <p class="updated_time"> 08:20 AM CT, Jan. 13 </p> 
@@ -233,7 +237,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/biden-agenda-democrats-senate-filibuster-527003">Biden was forged in the Senate. Now he's burning political capital to change it.</a> Politico: The president faces long odds as he wades into the filibuster battle. Still, Democrats say it's better to try and fail than not try at all. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/gop-russia-senate-sanctions-vote-527004">GOP seeks a Russia reboot with Senate sanctions vote</a> Politico: After four years on the defensive over Donald Trump's approach to Moscow, Republicans want the upper hand. But Democrats have their own harsh alternative. 
+ <a href="https://www.politico.com/news/2022/01/13/gop-russia-senate-sanctions-vote-527004">GOP grabs for the post-Trump upper hand on Moscow</a> Politico: Republicans are seeking a Russia reboot with a high-profile Senate sanctions vote on Thursday. But Democrats have their own harsh alternative. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/dems-child-tax-credit-manchin-527000">Down but not out: Dems plot course for Child Tax Credit as payments end</a> Politico: Though lawmakers have now shifted their attention to voting rights, they say they’ll return to the child credit. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
@@ -250,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/13/politics/software-security-log4j-big-tech-white-house/index.html">Biden officials to meet with big tech firms over national security concerns in software</a> CNN: Biden administration officials will meet with key software developers and major tech firms like Apple and Google on Thursday to discuss ways of making open-source computer code more secure after a critical vulnerability emerged last month that US officials said could have affected hundreds of millions of devices worldwide. 
  <p class="updated_time"> 12:55 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072671395/abortion-rights-jumps-to-a-top-priority-for-democrats-in-new-poll">Abortion rights jump to a top priority for Democrats in a new poll</a> NPR: The number of Democrats citing abortion rights as a top priority for the federal government to address jumped from less than 1% in 2021 to 13% in a new poll. 
- <p class="updated_time"> 11:01 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/13/politics/joe-biden-democrats-inflation-midterm-elections/index.html">Did Democrats make a strategic error?</a> CNN: Outside a Costco, Laura Godinez lifts meat, toothpaste, coffee, bottled water and bulk supplies of DayQuil from her cart -- just the staples in a pandemic-era weekly shopping trip that is now often missing extras that might bust the family budget, like cookies and snacks. 
  <p class="updated_time"> 10:57 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/cheney-mccarthy-january-6/index.html">Cheney says McCarthy 'clearly trying to cover up what happened' on January 6</a> CNN: Rep. Liz Cheney, the vice chairwoman of the House select committee investigating the January 6 insurrection, on Wednesday did not rule out the possibility of subpoenaing Kevin McCarthy for information the panel is seeking, suggesting the House's top Republican is attempting to "cover up" what occurred that day. 
  <p class="updated_time"> 10:56 PM CT, Jan. 12 </p> 
@@ -332,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/11/politics/georgia-political-center-stage-2022/index.html">Georgia has become the center of the political landscape</a> CNN: Georgia has become the center of the political landscape -- and it's likely to stay there for the remainder of 2022. 
  <p class="updated_time"> 07:43 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/12/whats-the-plan-man-dems-still-talking-elections-and-filibuster-495696">What’s the plan, Chuck?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:39 AM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/trump-mcconnell-2022/index.html">As candidates refuse to disavow McConnell, Trump comes to terms with his grip on GOP</a> CNN: Donald Trump is facing weak support among Republicans for his calls to depose Senate Minority Leader Mitch McConnell, and aides and allies say it's forcing the former President to confront new limitations on his influence over the party. 
  <p class="updated_time"> 06:13 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/12/our-exclusive-new-poll-on-voting-rights-495693"> Our exclusive new poll on voting rights</a> Politico Playbook: And the latest state of play on ECA reform. 
  <p class="updated_time"> 06:00 AM CT, Jan. 12 </p> 
