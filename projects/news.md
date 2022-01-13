@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:32 AM CT, Jan. 13 </p> 
+ <p class="updated_time"> 09:46 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/01/13/world/omicron-covid-testing-vaccines">Covid Live Updates: Biden to Announce 500 Million More Tests and Military Help for Hospitals</a> NYT: Officials said the teams would assist Michigan, New Jersey, New Mexico, New York, Ohio and Rhode Island. The Australian Open will operate at significantly reduced spectator capacity. 
+ <p class="updated_time"> 09:46 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/europe/covid-france-teachers-strike.html">Teachers in France Plan Strike Over Covid Rules for Classrooms</a> NYT: Teaching unions also planned demonstrations nationwide that are expected to pose a serious challenge for the government of President Emmanuel Macron. 
+ <p class="updated_time"> 09:37 AM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59960949?at_medium=RSS&at_campaign=KARANGA">The puzzle of America's record Covid hospital rate</a> BBC: Europe has fewer Covid patients in hospital now. Why are the US and Canada bucking the Omicron trend? 
  <p class="updated_time"> 09:16 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59978138?at_medium=RSS&at_campaign=KARANGA">Covid: Schools in France close as unions say 75% of teachers strike</a> BBC: Unions say 75% of teachers have walked out as they complain about Covid safety and testing rules. 
  <p class="updated_time"> 08:29 AM CT, Jan. 13 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2022/01/13/world/syria-war-crimes-germany-verdict">Live Updates: Former Syrian Colonel Guilty in War Crimes Trial in Germany</a> NYT: In a landmark case, a court convicted Anwar Raslan of overseeing torture at a detention center nearly a decade ago and sentenced him to life in prison. It was one of the world’s first criminal trials on atrocities in Syria’s decade-long civil war. 
  <p class="updated_time"> 08:06 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59979648?at_medium=RSS&at_campaign=KARANGA">Kylie Jenner becomes first woman with 300 million Instagram followers</a> BBC: Ariana Grande, previously the app's most popular woman, is now tied in second place with Selena Gomez. 
- <p class="updated_time"> 08:02 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/europe/covid-france-teachers-strike.html">Teachers in France Plan Strike Over Covid Rules for Classrooms</a> NYT: Teaching unions also planned demonstrations nationwide that are expected to pose a serious challenge for the government of President Emmanuel Macron. 
  <p class="updated_time"> 07:46 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/russia-ukraine-talks.html">Russia and West at Impasse as Ukraine Urges Reversal of Troop Buildup</a> NYT: In a third round of diplomacy on Eastern European security this week, Kremlin officials sounded an increasingly pessimistic note, though they did not close the door on future talks. 
  <p class="updated_time"> 07:07 AM CT, Jan. 13 </p> 
