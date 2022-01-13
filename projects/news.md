@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/europe/putin-ukraine-kazakhstan.html">For Putin, Propping Up Allies Is Turning Into a Perilous Bargain</a> NYT: The Russian leader is fighting fires on multiple fronts, illustrating the danger of his strategy of relying on force to aid his autocratic neighbors. 
+ <p class="updated_time"> 01:58 AM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-55760672?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic in Australian Open draw despite visa uncertainty</a> BBC: The defending champion is in the draw even though authorities are still deciding whether to deport him. 
+ <p class="updated_time"> 01:50 AM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59963285?at_medium=RSS&at_campaign=KARANGA">Escaped Dutch youth offender shot dead in Belgium</a> BBC: The young man reportedly took two people hostage, drove over the border and opened fire on police. 
  <p class="updated_time"> 01:21 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-russia-talks-ukraine-brussels.html">NATO and Russia Talk Frankly, but Past One Another for Now</a> NYT: Four hours of frank and serious discussion between Russia and the 30-member alliance leave unanswered whether Vladimir V. Putin will choose diplomacy or war. 
- <p class="updated_time"> 12:49 AM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-55760672?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic set to play in Australian Open despite visa uncertainty</a> BBC: The world's number one men's player gets his match draw for the Open despite a looming deportation threat. 
  <p class="updated_time"> 12:47 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59975272?at_medium=RSS&at_campaign=KARANGA">Ronnie Spector: Be My Baby singer of The Ronettes dies at 78</a> BBC: The pop super star was the lead singer of the 1960 pioneering all-girl group the Ronettes. 
  <p class="updated_time"> 11:55 PM CT, Jan. 12 </p> 
@@ -65,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/12/1072483665/boris-johnson-apologizes-party">Boris Johnson apologizes for a BYOB party held as the U.K. was in COVID lockdown</a> NPR: Labour Party leader Keir Starmer called Prime Minister Boris Johnson's apology worthless, adding that his defense is that "he didn't realize he was at a party." 
  <p class="updated_time"> 01:43 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/nyregion/prince-andrew-epstein-lawsuit-virginia-giuffre.html">Epstein Accuser’s Lawsuit Against Prince Andrew Can Proceed, Judge Rules</a> NYT: Virginia Giuffre has sued Andrew, the second son of Queen Elizabeth II, accusing him of raping her when she was a teenager. 
- <p class="updated_time"> 01:21 PM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59963285?at_medium=RSS&at_campaign=KARANGA">Escaped Dutch youth offender shot dead in Belgium</a> BBC: The young man reportedly took two people hostage, drove over the border and opened fire on police. 
  <p class="updated_time"> 01:19 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/russia-sanctions-ukraine-nord-stream-pipeline.html">Senate Democrats Try to Advance Russia Sanctions Over Ukraine </a> NYT: The Democrats’ bill would impose new sanctions on Russian officials if Moscow invaded Ukraine. 
  <p class="updated_time"> 12:48 PM CT, Jan. 12 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/10/us/politics/russia-ukraine-helicopters.html">Russia Positioning Helicopters, in Possible Sign of Ukraine Plans</a> NYT: The step, which could be an indication that planning for an attack continues, comes as the number of Russian troops at the border has remained steady in recent weeks, despite U.S. expectations of a surge. 
  <p class="updated_time"> 05:06 PM CT, Jan. 10 </p> 
  <a href="https://www.nytimes.com/2022/01/10/us/train-hits-plane-la.html">Crashed Pilot Is Pulled to Safety Seconds Before Train Plows Through</a> NYT: Los Angeles police officers pulled the pilot of a small plane away from the tracks moments before a train smashed into it at high speed. 
- <p class="updated_time"> 08:54 AM CT, Jan. 10 </p> 
- <a href="https://www.nytimes.com/2022/01/10/world/asia/india-masks-omicron.html">In India, Mask Wearing Is Down Despite Rising Coronavirus Cases</a> NYT: Health officials are finding it harder to impose regulations despite signs that Omicron is beginning to take hold. 
 
 
 </details>
