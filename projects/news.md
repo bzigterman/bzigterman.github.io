@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:33 AM CT, Jan. 13 </p> 
+ <p class="updated_time"> 05:41 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/01/13/world/syria-war-crimes-germany-verdict">Live Updates: Former Syrian Colonel Guilty in War Crimes Trial in Germany</a> NYT: A court convicted Anwar Raslan of overseeing torture at a detention center nearly a decade ago. He was sentenced to life in prison, in one of the world’s first criminal trials on atrocities in Syria’s decade-long civil war. 
  <p class="updated_time"> 05:23 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59958417?at_medium=RSS&at_campaign=KARANGA">Nigeria lifts Twitter ban after seven months</a> BBC: A suspension imposed last June is reversed after the site reportedly agreed to open a local office. 
@@ -205,9 +205,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/trump-senate-midterm-gop-control-526991">Trump looks to reshape the Senate in anticipation of his second act as president</a> Politico: The former president still is angry that key agenda items got stymied in the chamber. He doesn’t want that to happen again. 
  <p class="updated_time"> 04:11 AM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072153233/virginias-first-black-woman-lieutenant-governor-says-we-need-to-move-on-from-sla">Virginia's first Black woman lieutenant governor says we need to move on from slavery</a> NPR: Winsome Sears, a Republican, will be sworn into office Saturday in Virginia alongside Gov.-elect Glenn Youngkin. Sears ran, in part, on the idea that the country's racial reckoning has gone too far. 
- <p class="updated_time"> 04:11 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072678583/morning-news-brief">News brief: voting rights, high-filtration masks, U.S.-Russia talks </a> NPR: Democrats look for a way forward on voting rights. Health officials say wearing an effective mask is more important than ever. Russia and NATO go into the third and final round of talks on Ukraine. 
+ <p class="updated_time"> 04:11 AM CT, Jan. 13 </p> 
+ <a href="https://www.npr.org/2022/01/13/1072153233/virginias-first-black-woman-lieutenant-governor-says-we-need-to-move-on-from-sla">Virginia's first Black woman lieutenant governor says we need to move on from slavery</a> NPR: Winsome Sears, a Republican, will be sworn into office Saturday in Virginia alongside Gov.-elect Glenn Youngkin. Sears ran, in part, on the idea that the country's racial reckoning has gone too far. 
  <p class="updated_time"> 04:00 AM CT, Jan. 13 </p> 
  <a href="https://www.cnn.com/2022/01/13/politics/senate-judicial-nominations-blue-slips-democrats/index.html">Democrats embrace hardball judicial nomination tactics GOP adopted under Trump </a> CNN: Former President Donald Trump and Republicans broke with previous Senate tradition to confirm 17 federal appeals court nominees over the objection of Democratic senators representing the states tied to their seats on the bench. 
  <p class="updated_time"> 04:00 AM CT, Jan. 13 </p> 
