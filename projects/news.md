@@ -11,8 +11,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/americas/el-salvador-journalists-spyware.html">Journalists in El Salvador Targeted With Spyware Intended for Criminals</a> NYT: The announcement came months after the U.S. government blacklisted the Israeli firm that produces Pegasus, the technology used to target the journalists. 
  <p class="updated_time"> 07:50 PM CT, Jan. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59958417?at_medium=RSS&at_campaign=KARANGA">Nigeria lifts Twitter ban after seven months</a> BBC: A suspension imposed last June is reversed after the networking site agrees to open a local office. 
- <p class="updated_time"> 06:51 PM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59950823?at_medium=RSS&at_campaign=KARANGA">Playtime: Is it time we took 'play' more seriously?</a> BBC: New BBC documentary Why We Play uncovers some surprising benefits of play for the grown-ups. 
  <p class="updated_time"> 06:48 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/us-iran-nuclear-deal.html">The U.S. and Iran Move Closer to a Nuclear Deal</a> NYT: As negotiations reach a critical stage, neither side wants to betray weakness by seeming too eager to reach a deal. 
  <p class="updated_time"> 06:46 PM CT, Jan. 12 </p> 
@@ -198,16 +196,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:41 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/kevin-mccarthy-january-6/index.html">McCarthy says he will not cooperate with January 6 committee probe</a> CNN: The House select committee investigating the January 6 riot is asking Minority Leader Kevin McCarthy, a California Republican, to voluntarily provide information to the panel, a major development in the sweeping investigation, according to a new letter released Wednesday. 
+ <p class="updated_time"> 08:37 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html">Kevin McCarthy Refuses Interview Request From Jan. 6 Committee</a> NYT: The panel said it was interested in conversations the top House Republican had with President Donald J. Trump on the day of the riot and afterward. 
  <p class="updated_time"> 08:23 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/barack-obama-change-filibuster-rules-voting-rights-527007">Obama backs Biden's call to change filibuster rules and pass voting rights legislation</a> Politico: In his first op-ed since leaving office, the former president wrote about the work that must go into protecting democracy. 
+ <p class="updated_time"> 08:12 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/trump-overturn-2020-election-fake-electoral-college/index.html">Trump allies' fake Electoral College certificates offer fresh insights about plot to overturn Biden's victory </a> CNN: In the weeks after the 2020 election, then-President Donald Trump's allies sent fake certificates to the National Archives declaring that Trump won seven states that he actually lost. The documents had no impact on the outcome of the election, but they are yet another example of how Team Trump tried to subvert the Electoral College -- a key line of inquiry for the January 6 committee. 
+ <p class="updated_time"> 08:12 PM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/12/politics/north-korea-sanctions-missile-test/index.html">US sanctions 5 North Koreans and 1 entity tied to regime's missile programs</a> CNN: The US on Wednesday announced sanctions on five North Koreans and one entity supporting the regime's ballistic missile programs, imposing the punishments after a new missile test by the country. 
  <p class="updated_time"> 08:07 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/democrats-voting-rights-bill.html">Democrats Plan to Fast-Track Voting Rights Bill, Speeding a Showdown</a> NYT: The move will allow for debate on the legislation to begin this week, hastening a confrontation with Republicans and the moment when Democrats could try to change Senate rules. 
  <p class="updated_time"> 08:01 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/mitch-mcconnell-biden-relationship/index.html">Analysis: Mitch McConnell just broke up with Joe Biden</a> CNN: One of the enduring storylines of Barack Obama's presidency was the working relationship — and dare I say friendship — between Vice President Joe Biden and Senate Republican leader Mitch McConnell. 
  <p class="updated_time"> 07:49 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/warren-davidson-tweet-nazi-germany/index.html">GOP lawmaker compares DC vaccine protocols to Nazi Germany</a> CNN: Republican Rep. Warren Davidson of Ohio is drawing condemnation from his House colleagues for his comparison of Washington, DC's vaccine and Covid-19 protocols to Nazi Germany. 
- <p class="updated_time"> 07:28 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html">Jan. 6 Committee Seeks Interview With Kevin McCarthy</a> NYT: The panel said it was interested in conversations the top House Republican had with President Donald J. Trump on the day of the riot and afterward. 
  <p class="updated_time"> 07:13 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">Who the Jan. 6 committee has subpoenaed or asked to appear</a> CNN: The committee investigating the deadly Capitol Hill riot on January 6, 2021, has issued scores of subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
  <p class="updated_time"> 07:01 PM CT, Jan. 12 </p> 
@@ -224,20 +228,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/us/politics/lets-go-brandon-meme-gop.html">How the 'Let's Go, Brandon' Meme Became a Campaign Ad</a> NYT: How an inside joke among Republicans became one candidate’s tactic for reaching the G.O.P. masses. 
  <p class="updated_time"> 05:59 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/covid-omicron-peak-what-matters/index.html">Analysis: Covid-19: A few words make a very big difference</a> CNN: In this time of tweets and Toks, 11 seconds is an eternity, and the act of stringing many words together feels like bloviating. It's boring. 
- <p class="updated_time"> 05:58 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/trump-overturn-2020-election-fake-electoral-college/index.html">Trump allies' fake Electoral College certificates offer fresh insights about plot to overturn Biden's victory </a> CNN: In the weeks after the 2020 election, then-President Donald Trump's allies sent fake certificates to the National Archives declaring that Trump won seven states that he actually lost. The documents had no impact on the outcome of the election, but they are yet another example of how Team Trump tried to subvert the Electoral College -- a key line of inquiry for the January 6 committee. 
  <p class="updated_time"> 05:56 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/andre-mathis-blackburn/index.html">GOP senators take aim at judicial nominee's 'rap sheet' of decade-old traffic citations</a> CNN: At a Senate Judiciary Committee hearing Wednesday, Republicans brought up three traffic tickets -- all a decade or more old -- that a federal appeals court nominee was issued and apparently failed to pay, leading to his license being suspended for several months. 
  <p class="updated_time"> 05:53 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/white-house-environmental-justice-exits-526996">White House departures send tremors through environmental community</a> Politico: The abrupt exits of Cecilia Martinez and David Kieve from the White House's Council on Environmental Quality sparked alarm among environmental justice experts. 
  <p class="updated_time"> 05:50 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/white-house-iran-pullout-nuclear-deal-526990">White House slams Trump’s Iran pullout as prospects to save nuclear deal dim</a> Politico: Some analysts predict the U.S. will adopt a more coercive approach toward Tehran by early February. 
- <p class="updated_time"> 05:45 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/north-korea-sanctions-missile-test/index.html">US sanctions 5 North Koreans and 1 entity tied to regime's missile programs</a> CNN: The US on Wednesday announced sanctions on five North Koreans and one entity supporting the regime's ballistic missile programs, imposing the punishments after a new missile test by the country. 
  <p class="updated_time"> 05:06 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/kayleigh-mcenany-january-6-committee/index.html">Former White House press secretary Kayleigh McEnany met with January 6 committee, sources say</a> CNN: Former White House press secretary Kayleigh McEnany on Wednesday appeared before the House select committee investigating the January 6 insurrection, two sources familiar with the matter tell CNN. 
- <p class="updated_time"> 05:04 PM CT, Jan. 12 </p> 
- <a href="https://www.cnn.com/2022/01/12/politics/kevin-mccarthy-january-6/index.html">January 6 committee wants to ask McCarthy about Trump's state of mind during and after riot</a> CNN: The House select committee investigating the January 6 riot is asking Minority Leader Kevin McCarthy, a California Republican, to voluntarily provide information to the panel, a major development in the sweeping investigation, according to a new letter released Wednesday. 
  <p class="updated_time"> 04:39 PM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/12/politics/mitch-mcconnell-biden-speech-reaction/index.html">Mitch McConnell calls Biden's speech 'incoherent' and 'beneath his office'</a> CNN: Senate Minority Leader Mitch McConnell blasted President Joe Biden's speech pushing for the Senate to change its filibuster rules to pass voting and elections legislation, saying Biden compared "a bipartisan majority of senators to literal traitors." 
  <p class="updated_time"> 04:32 PM CT, Jan. 12 </p> 
@@ -259,9 +257,9 @@ permalink: /projects/news/
  <p class="updated_time"> 03:51 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/jan-6-select-panel-to-seek-mccarthys-testimony-526983">Jan. 6 select panel to seek McCarthy's testimony</a> Politico: It follows months of speculation about when the panel would seek the California Republican's cooperation with their probe. 
  <p class="updated_time"> 03:28 PM CT, Jan. 12 </p> 
- <a href="https://www.npr.org/2022/01/12/1072544752/jan-6-panel-investigating-insurrection-requests-kevin-mccarthys-voluntary-testim">The Jan. 6 panel requests voluntary testimony from the top House Republican</a> NPR: Among its questions, the committee is probing any conversations Kevin McCarthy had with former President Donald Trump on the day of the Capitol attack. 
+ <a href="https://www.npr.org/2022/01/12/1072544752/jan-6-panel-investigating-insurrection-requests-kevin-mccarthys-voluntary-testim">The top House Republican won't comply with Jan. 6 panel request to voluntarily testify</a> NPR: Among its questions, the committee is probing any conversations Kevin McCarthy had with former President Donald Trump on the day of the Capitol attack. 
  <p class="updated_time"> 03:10 PM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/news/2022/01/12/inflation-biden-economy-agenda-526980">Price spikes threaten to ground Biden's big-spending plans</a> Politico: The government reported  that the consumer price index, the most widely watched gauge of inflation, hit a four-decade high in December compared to the previous year. 
+ <a href="https://www.politico.com/news/2022/01/12/inflation-biden-economy-agenda-526980">Price spikes threaten to ground Biden's big-spending plans</a> Politico: The government reported Wednesday that the consumer price index, the most widely watched gauge of inflation, hit a four-decade high in December compared to the previous year. 
  <p class="updated_time"> 02:46 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/irs-backlog-tax-returns-2021.html">I.R.S. to Start Tax Season With Major Backlog </a> NYT: At least 10 million returns from last year remain unprocessed because of short-staffing at the tax collector, according to the national taxpayer advocate. 
  <p class="updated_time"> 02:30 PM CT, Jan. 12 </p> 
@@ -294,6 +292,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/12/consumer-prices-526964">U.S. consumer prices soared 7 percent in past year, most since 1982</a> Politico: The jump is the latest evidence that rising costs for food, rent and other necessities are heightening the financial pressures on America’s households. 
  <p class="updated_time"> 08:39 AM CT, Jan. 12 </p> 
  <a href="https://www.cnn.com/2022/01/11/politics/biden-atlanta-voting-rights-speech/index.html">Biden calls on Senate to change filibuster rules to pass voting rights bills: 'I'm tired of being quiet'</a> CNN: President Joe Biden is traveling to Atlanta on Tuesday to deliver a major speech on voting rights, looking to turn up the heat on reluctant senators as Democrats face pressure to pass two pieces of pending legislation opposed by nearly all Republicans on Capitol Hill. 
+ <p class="updated_time"> 08:39 AM CT, Jan. 12 </p> 
+ <a href="https://www.cnn.com/2022/01/11/politics/georgia-political-center-stage-2022/index.html">Georgia has become the center of the political landscape</a> CNN: Georgia has become the center of the political landscape -- and it's likely to stay there for the remainder of 2022. 
  <p class="updated_time"> 07:43 AM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/12/whats-the-plan-man-dems-still-talking-elections-and-filibuster-495696">What’s the plan, Chuck?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:39 AM CT, Jan. 12 </p> 
