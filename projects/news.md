@@ -59,6 +59,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/europe/britain-mi5-china-agent-parliament.html">Britain’s Security Agency MI5 Warns Lawmakers of China’s Political Interference</a> NYT: An unusual alert by the agency named a Chinese lawyer who was “knowingly engaged in political interference activities” on behalf of Beijing in the U.K. Parliament. 
  <p class="updated_time"> 12:52 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072735380/journalist-says-u-s-air-war-against-isis-killed-countless-civilians-in-syria">Journalist says U.S. air war against ISIS killed countless civilians in Syria </a> NPR: New York Times reporter Dave Philipps says a top-secret special ops unit disregarded official protocols to pick targets for airstrikes, resulting in the death of thousands of farmers and families. 
+ <p class="updated_time"> 12:38 PM CT, Jan. 13 </p> 
+ <a href="https://www.wsj.com/articles/in-u-s-russia-talks-over-ukraine-kyiv-gets-a-voice-11642061460">Russia Suggests Military Deployment to Venezuela, Cuba if Tensions With U.S. Remain High</a> WSJ: Russia’s deputy foreign minister said talks with the U.S. over the security situation in Ukraine had stalled and suggested that Moscow could dispatch a military deployment to Venezuela and Cuba. 
  <p class="updated_time"> 12:21 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/russia-ukraine-talks.html">Russia, at an Impasse With the West, Warns It Is Ready to Abandon Diplomacy</a> NYT: In a third round of talks on Eastern European security this week, both Kremlin and American officials sounded an increasingly pessimistic note. 
  <p class="updated_time"> 12:13 PM CT, Jan. 13 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59977198?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic and the unanswered questions</a> BBC: Novak Djokovic is facing a number of questions over his activities after testing positive for Covid. 
  <p class="updated_time"> 11:53 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072779687/prince-andrew-royal-privileges-queen">Prince Andrew is stripped of his royal patronages and military titles</a> NPR: The move comes with Queen Elizabeth II's "approval and agreement," Buckingham Palace said. The announcement comes one day after Prince Andrew lost his bid to quash a sex-abuse lawsuit. 
- <p class="updated_time"> 11:51 AM CT, Jan. 13 </p> 
- <a href="https://www.wsj.com/articles/in-u-s-russia-talks-over-ukraine-kyiv-gets-a-voice-11642061460">Russia Suggests Military Deployment to Venezuela, Cuba if Tensions With U.S. Remain High</a> WSJ: Russia’s deputy foreign minister said talks with the U.S. over the security situation in Ukraine had stalled and suggested that Moscow could dispatch a military deployment to Venezuela and Cuba. 
  <p class="updated_time"> 11:48 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072775645/quebec-covid-19-unvaccinated-tax">Quebec's 'unvaxxed tax' has people rushing to get vaccinated</a> NPR: Quebec has reported the most COVID-19 deaths of any Canadian province. Only around 10% of its population is unvaccinated, but they make up 50% of all intensive care cases. 
  <p class="updated_time"> 11:05 AM CT, Jan. 13 </p> 
