@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:29 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59949924?at_medium=RSS&at_campaign=KARANGA">German court finds Syrian colonel guilty of crimes against humanity</a> BBC: The trial of Anwar Raslan was the world's first criminal case over state-led torture in Syria. 
+ <p class="updated_time"> 08:18 AM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59980405?at_medium=RSS&at_campaign=KARANGA">Kenya Power in the spotlight after nationwide blackout</a> BBC: Kenyans spent several hours with electricity this week, what are the underlying causes? 
  <p class="updated_time"> 08:11 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/01/13/world/syria-war-crimes-germany-verdict">Live Updates: Former Syrian Colonel Guilty in War Crimes Trial in Germany</a> NYT: In a landmark case, a court convicted Anwar Raslan of overseeing torture at a detention center nearly a decade ago and sentenced him to life in prison. It was one of the world’s first criminal trials on atrocities in Syria’s decade-long civil war. 
  <p class="updated_time"> 08:11 AM CT, Jan. 13 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/europe/putin-ukraine-kazakhstan.html">For Putin, Propping Up Allies Is Turning Into a Perilous Bargain</a> NYT: The Russian leader is fighting fires on multiple fronts, illustrating the danger of his strategy of relying on force to aid his autocratic neighbors. 
  <p class="updated_time"> 01:52 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/omicron-peak-appears-to-have-passed-in-u-k-offering-hope-the-wave-is-receding-11642078349">Omicron Appears to Have Peaked in U.K., Offering Hope the Wave Is Receding</a> WSJ: A WSJ analysis of data suggests the wave has peaked, a promising sign that the highly transmissible variant’s impact may be brief, if intense, and fueling optimism that the pandemic may be waning. 
- <p class="updated_time"> 01:50 AM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59963285?at_medium=RSS&at_campaign=KARANGA">Escaped Dutch youth offender shot dead in Belgium</a> BBC: The young man reportedly took two people hostage, drove over the border and opened fire on police. 
  <p class="updated_time"> 01:25 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/chinas-11th-hour-tax-reprieve-cheers-foreign-workersfor-now-11642076749">China's 11th-Hour Tax Reprieve Cheers Foreign Workers---For Now</a> WSJ: When China reversed plans to raise taxes on expats hours before they were scheduled to take effect, the Western business community welcomed the move, but the decision underscored challenges for foreign businesses. 
  <p class="updated_time"> 01:21 AM CT, Jan. 13 </p> 
