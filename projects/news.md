@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:48 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59992531?at_medium=RSS&at_campaign=KARANGA">Ukraine cyber-attack: Russia to blame for hack, says Kyiv</a> BBC: About 70 Ukrainian government websites were targeted, including the foreign and energy ministries. 
  <p class="updated_time"> 09:45 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html">Hackers Bring Down Government Sites in Ukraine</a> NYT: “Be afraid,” warned a message on the defaced Foreign Ministry website, a day after talks between the West and Moscow aimed at preventing a Russian invasion hit an impasse. 
  <p class="updated_time"> 09:40 AM CT, Jan. 14 </p> 
@@ -37,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/14/1073001754/ukraine-cyber-attack-government-websites-russia">Ukraine is hit by a massive cyberattack that targeted government websites</a> NPR: A message posted by hackers in Ukrainian, Russian and Polish warns Ukrainians that their personal data has been breached and to "be afraid and expect the worst." 
  <p class="updated_time"> 07:21 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/covid-italy-police-pink-masks.html">Pink Covid Masks? No Thanks, Say Some Italian Police Officers</a> NYT: A spokesman for one union said the objection was not from “a prejudice against the color,” but reflected concerns about decorum. 
+ <p class="updated_time"> 06:48 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59995862?at_medium=RSS&at_campaign=KARANGA">Bayern defender diagnosed with mild myocarditis</a> BBC: Bayern Munich defender Alphonso Davies stops training after the club detect signs of heart muscle inflammation. 
  <p class="updated_time"> 06:16 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/covid-philippines-schools.html">Philippines Puts Schools on ‘Health Break’ as Covid Cases Soar</a> NYT: Officials said the weeklong suspension of classes in Manila would let teachers and students recover from the virus, or care for others who had it. 
  <p class="updated_time"> 06:00 AM CT, Jan. 14 </p> 
@@ -47,12 +51,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59993346?at_medium=RSS&at_campaign=KARANGA">Britney Spears and sister Jamie Lynn's rift grows with social media feud</a> BBC: Britney Spears and her younger sister Jamie Lynn argue on social media over their past relationship. 
  <p class="updated_time"> 05:43 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59992918?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Thirty rescued as man dies off French coast</a> BBC: The man fell overboard from a migrant boat in what is thought to be the first fatality this year. 
- <p class="updated_time"> 05:01 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59991749?at_medium=RSS&at_campaign=KARANGA">Prince Andrew accuser welcomes decision to let legal case continue</a> BBC: The Duke of York faces a US civil action over claims he sexually assaulted Virginia Giuffre in 2001. 
  <p class="updated_time"> 04:33 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/serbia-djokovic.html">Why Novak Djokovic Is a Hero in Serbia</a> NYT: Many feel a personal connection and pride with the tennis star, even if they do not agree with his decisions to stay unvaccinated. 
- <p class="updated_time"> 04:24 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59992531?at_medium=RSS&at_campaign=KARANGA">Ukraine cyber-attack: Government and embassy websites targeted</a> BBC: Government and embassy websites are targeted but Ukraine says no personal data is leaked. 
  <p class="updated_time"> 04:18 AM CT, Jan. 14 </p> 
  <a href="https://www.wsj.com/articles/iran-seeks-closer-ties-with-china-as-nuclear-talks-drag-on-11642155508">Iran Seeks Closer Ties With China as Nuclear Talks Drag On</a> WSJ: Tehran is trying to strengthen ties with China, Russia and other nations that could help it get around American sanctions that are battering the Iranian economy. 
  <p class="updated_time"> 04:12 AM CT, Jan. 14 </p> 
@@ -195,7 +195,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 10:32 AM CT, Jan. 14 </p> 
- <a href="https://www.politico.com/news/2022/01/14/facebook-google-ad-market-lawsuit-527108">Zuckerberg and Google CEO approved deal to carve up ad market, states allege in court</a> Politico: The states originally filed the suit against Google in December 2020 and updated that with a heavily redacted version of their most recent complaint in November. 
+ <a href="https://www.politico.com/news/2022/01/14/facebook-google-ad-market-lawsuit-527108">Zuckerberg and Google CEO approved deal to carve up ad market, states allege in court</a> Politico: Facebook executive Sheryl Sandberg was a signer to the pact, which she described as “a big deal strategically,” an updated lawsuit against Google says. 
  <p class="updated_time"> 09:39 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency in Ukraine </a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion has revived the specter of a new Cold War. 
  <p class="updated_time"> 08:50 AM CT, Jan. 14 </p> 
@@ -221,6 +221,8 @@ permalink: /projects/news/
  <p class="updated_time"> 10:32 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/health/fda-robert-califf.html">Senate Panel OKs Califf Nomination for F.D.A. Chief</a> NYT: A split committee vote revealed concerns about the opioid epidemic and abortion policies, foreshadowing a likely close vote on confirmation by the full Senate. 
  <p class="updated_time"> 10:12 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/europe/russia-ukraine-talks.html">Russia, at an Impasse With the West, Warns It Is Ready to Abandon Diplomacy</a> NYT: In a third round of talks on Eastern European security this week, both Kremlin and American officials sounded an increasingly pessimistic note. 
+ <p class="updated_time"> 10:12 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072957107/biden-to-announce-three-more-federal-reserve-nominees">Biden announces three more Federal Reserve nominees</a> NPR: Former Treasury official Sarah Bloom Raskin and economists Lisa Cook and Philip Jefferson are the three nominees Biden announced for the Fed board on Friday. 
  <p class="updated_time"> 10:08 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/sinema-voting-rights-bill.html">Sinema Rejects Changing Filibuster, Dealing Biden a Setback</a> NYT: Senator Kyrsten Sinema’s comments came after the House approved a set of voting rights measures on a party-line vote of 220 to 203. 
@@ -231,19 +233,19 @@ permalink: /projects/news/
  <p class="updated_time"> 08:38 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/biden-fed-nomination-raskin-527099">Biden to nominate Raskin, 2 others to Fed board</a> Politico: Biden's selections would put a solid Democratic stamp on the central bank. 
  <p class="updated_time"> 07:57 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-tech-subpoenas.html">Jan. 6 Committee Subpoenas Four Big Tech Firms</a> NYT: The panel investigating the attack on the Capitol is demanding information from Alphabet, Meta, Reddit and Twitter. 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-tech-subpoenas.html">Jan. 6 Committee Subpoenas Twitter, Meta, Alphabet and Reddit</a> NYT: The panel investigating the attack on the Capitol is demanding information from Alphabet, Meta, Reddit and Twitter. 
  <p class="updated_time"> 07:55 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html">Supreme Court Blocks Biden’s Virus Mandate for Large Employers</a> NYT: But the justices allowed a vaccination requirement for health care workers at facilities that receive federal money. 
  <p class="updated_time"> 07:48 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/pa-redistricting-527087">Pennsylvania Dems fume over redistricting court case</a> Politico: Some in the party are privately blaming national Democrats' legal strategy, executed by party mega-lawyer Marc Elias, which could result in an unfavorable new congressional map. Elias and his team strongly dispute the criticism. 
  <p class="updated_time"> 07:05 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-stewart-rhodes.html">Oath Keepers Leader Stewart Rhodes Arrested in Jan. 6 Inquiry</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald J. Trump. 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-stewart-rhodes.html">Oath Keepers Leader Charged With Seditious Conspiracy in Jan. 6 Investigation</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald J. Trump. 
  <p class="updated_time"> 06:38 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072929277/a-wisconsin-judge-rules-absentee-ballot-drop-boxes-are-not-allowed-under-state-l">A Wisconsin judge rules absentee ballot drop boxes are not allowed under state law</a> NPR: The ruling could potentially remove an option for voting ahead of the state's crucial midterm elections. The decision is all but certain to be appealed. 
  <p class="updated_time"> 06:18 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/covid-tests-biden.html">Biden Announces 500 Million More Tests Will be Purchased for Americans</a> NYT: President Biden also announced the allocation of 1,000 medical personnel to six states would carry out a pledge the president made last month on quashing Omicron. 
  <p class="updated_time"> 06:17 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/presidential-debates-rnc.html">RNC Signals a Pullout From Presidential Debates</a> NYT: The Republican National Committee says it will require candidates to pledge to not participate in debates run by the Commission on Presidential Debates. What would replace them, if anything, was unclear. 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/presidential-debates-rnc.html">R.N.C. Signals a Pullout From Presidential Debates</a> NYT: The Republican National Committee says it will require candidates to pledge to not participate in debates run by the Commission on Presidential Debates. What would replace them, if anything, was unclear. 
  <p class="updated_time"> 05:57 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/federal-prisoners-release.html">New Rule Makes Thousands of Federal Inmates Eligible for Release</a> NYT: The Justice Department issued guidelines that allow more prisoners to participate in a program to earn shorter terms under the 2018 bipartisan criminal justice law. 
  <p class="updated_time"> 05:49 PM CT, Jan. 13 </p> 
@@ -292,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/biden-administration-eyes-additional-batch-of-at-home-covid-tests-as-it-readies-public-rollout-527021">Biden administration will double at-home Covid test order as it readies public rollout</a> Politico: The website on which people can begin ordering the first run of these tests is "on track" to launch next week. 
  <p class="updated_time"> 11:28 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072706279/internal-gop-conflicts-about-2020-election-surface-as-party-fights-new-voting-bi">Internal GOP conflicts about 2020 election surface as party fights new voting bills</a> NPR: Democratic voting legislation has virtually no path to becoming law, but Senate Republicans are fighting it as the GOP still struggles over how to move forward from the 2020 election. 
- <p class="updated_time"> 10:15 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/congress-omicron.html">The Mood in the Capitol Was Already Dark. Then Came Omicron.</a> NYT: Congress, always a reflection of the country, is in a testy mood, as the latest coronavirus variant looms over the Capitol and schadenfreude is in full swing. 
  <p class="updated_time"> 09:52 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072730868/biden-announces-plans-to-buy-500-million-more-covid-tests-and-to-offer-free-mask">Biden announces plans to buy 500 million more COVID tests and to offer free masks</a> NPR: The president expects a website to launch next week to order tests. The head of the postal workers union says that up to 7,000 temporary workers will be hired in the effort to get kits to Americans. 
  <p class="updated_time"> 09:00 AM CT, Jan. 13 </p> 
@@ -316,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/dems-child-tax-credit-manchin-527000">Down but not out: Dems plot course for Child Tax Credit as payments end</a> Politico: Though lawmakers have now shifted their attention to voting rights, they say they’ll return to the child credit. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/trump-senate-midterm-gop-control-526991">Trump is eyeing the White House and wants a more compliant Senate for when he gets there</a> Politico: The former president still is angry that key agenda items got stymied in the chamber. He doesn’t want that to happen again. 
- <p class="updated_time"> 08:37 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html">Kevin McCarthy Refuses Interview Request From Jan. 6 Committee</a> NYT: The panel said it was interested in conversations the top House Republican had with President Donald J. Trump on the day of the riot and afterward. 
  <p class="updated_time"> 05:53 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/white-house-environmental-justice-exits-526996">White House departures send tremors through environmental community</a> Politico: The abrupt exits of Cecilia Martinez and David Kieve from the White House's Council on Environmental Quality sparked alarm among environmental justice experts. 
  <p class="updated_time"> 03:51 PM CT, Jan. 12 </p> 
