@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:37 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59992531?at_medium=RSS&at_campaign=KARANGA">Ukraine cyber-attack: Government and embassy websites targeted</a> BBC: Government and embassy websites are targeted but Ukraine says no personal data is leaked. 
+ <p class="updated_time"> 03:36 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. It was unclear what would happen next, with the start of the Australian Open three days away. 
  <p class="updated_time"> 03:19 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/india-bishop-rape-nun.html">Indian Bishop Is Acquitted on Charges of Raping a Nun</a> NYT: The bishop, Franco Mulakkal, had been accused of repeatedly assaulting the nun in the southern state of Kerala over a two-year period. 
- <p class="updated_time"> 03:19 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. It was unclear what would happen next, with the start of the Australian Open three days away. 
  <p class="updated_time"> 02:58 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels tennis star's visa</a> BBC: The immigration minister says the unvaccinated tennis star may pose a public health risk. 
  <p class="updated_time"> 02:52 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over its recent missile tests. 
  <p class="updated_time"> 02:41 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59976177?at_medium=RSS&at_campaign=KARANGA">Franco Mulakkal: Kerala court clears bishop in nun's rape</a> BBC: Franco Mulakkal was arrested in 2018 and the Vatican had temporarily relieved him of his duties. 
- <p class="updated_time"> 02:15 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59992531?at_medium=RSS&at_campaign=KARANGA">Ukraine cyber-attack: Government and embassy websites targeted</a> BBC: Government and embassy websites are targeted but Ukraine says no personal data is leaked. 
  <p class="updated_time"> 01:48 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072977459/djokovic-faces-deportation-as-australia-revokes-visa-again">Djokovic faces deportation as Australia revokes visa again</a> NPR: Tennis star Novak Djokovic faces deportation again after the Australian government revoked his visa for a second time three days before the Australian Open is set to begin. 
  <p class="updated_time"> 01:47 AM CT, Jan. 14 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Jan. 14 </p> 
+ <a href="https://www.politico.com/news/2022/01/14/democrats-voting-rights-megabill-left-out-527095">What Democrats put in their voting rights megabill — and what got left out</a> Politico: The massive legislative package would make massive changes to how people vote as well as redistricting and campaign finance. 
  <p class="updated_time"> 02:52 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over its recent missile tests. 
  <p class="updated_time"> 11:15 PM CT, Jan. 13 </p> 
@@ -225,7 +227,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:57 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-tech-subpoenas.html">Jan. 6 Committee Subpoenas Twitter, Meta, Alphabet and Reddit</a> NYT: The panel investigating the attack on the Capitol is demanding information from Alphabet, Meta, Reddit and Twitter. 
  <p class="updated_time"> 07:55 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html">Supreme Court Blocks Biden’s Vaccine Mandate for Large Employers</a> NYT: But the justices allowed a vaccination requirement for health care workers at facilities that receive federal money. 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html">Supreme Court Blocks Biden’s Virus Mandate for Large Employers</a> NYT: But the justices allowed a vaccination requirement for health care workers at facilities that receive federal money. 
  <p class="updated_time"> 07:48 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/pa-redistricting-527087">Pennsylvania Dems fume over redistricting court case</a> Politico: Some in the party are privately blaming national Democrats' legal strategy, executed by party mega-lawyer Marc Elias, which could result in an unfavorable new congressional map. Elias and his team strongly dispute the criticism. 
  <p class="updated_time"> 07:05 PM CT, Jan. 13 </p> 
@@ -320,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/trump-senate-midterm-gop-control-526991">Trump is eyeing the White House and wants a more compliant Senate for when he gets there</a> Politico: The former president still is angry that key agenda items got stymied in the chamber. He doesn’t want that to happen again. 
  <p class="updated_time"> 04:11 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072678583/morning-news-brief">News brief: voting rights, high-filtration masks, U.S.-Russia talks </a> NPR: Democrats look for a way forward on voting rights. Health officials say wearing an effective mask is more important than ever. Russia and NATO go into the third and final round of talks on Ukraine. 
- <p class="updated_time"> 08:37 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html">Kevin McCarthy Refuses Interview Request From Jan. 6 Committee</a> NYT: The panel said it was interested in conversations the top House Republican had with President Donald J. Trump on the day of the riot and afterward. 
  <p class="updated_time"> 05:53 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/white-house-environmental-justice-exits-526996">White House departures send tremors through environmental community</a> Politico: The abrupt exits of Cecilia Martinez and David Kieve from the White House's Council on Environmental Quality sparked alarm among environmental justice experts. 
  <p class="updated_time"> 03:51 PM CT, Jan. 12 </p> 
@@ -378,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/09/mike-rounds-trump-election-republicans-526806">GOP senator says Trump’s election allegations are unfounded</a> Politico: “The election was fair, as fair as we have seen,” Mike Rounds said. 
  <p class="updated_time"> 11:05 AM CT, Jan. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/09/does-trump-need-twitter-495651"> Does Trump need Twitter?</a> Politico Playbook: And GOP Sens. John Thune and Ron Johnson say they'll run for reelection. 
- <p class="updated_time"> 12:41 PM CT, Jan. 08 </p> 
- <a href="https://www.politico.com/news/2022/01/08/senate-minority-whip-john-thune-to-run-for-reelection-526794">Senate Minority Whip John Thune to run for reelection</a> Politico: The 61-year-old South Dakotan is widely viewed as a potential successor to Senate Minority Leader Mitch McConnell 
  <p class="updated_time"> 11:48 AM CT, Jan. 08 </p> 
  <a href="https://www.cnn.com/2022/01/08/politics/how-to-save-us-democracy-what-matters/index.html">A citizen's guide to saving US democracy</a> CNN: After a week of urgent warnings about the state of American democracy, there were several requests in the What Matters inbox for something more useful than a warning. 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
