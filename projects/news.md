@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:47 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/boris-johnson-apology-lockdown-parties.html">Boris Johnson’s Office Apologizes to Queen for Parties</a> NYT: The prime minister’s office said it was “deeply regrettable” that two parties took place at Downing Street the night before Prince Philip’s funeral. Mr. Johnson was not accused of attending either of them. 
+ <p class="updated_time"> 11:46 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59977198?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic and the unanswered questions</a> BBC: Australian authorities have cancelled the Serbian's visa, but can he still avoid deportation? 
  <p class="updated_time"> 11:45 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 11:44 AM CT, Jan. 14 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/asia/covid-philippines-schools.html">Philippines Puts Schools on ‘Health Break’ as Covid Cases Soar</a> NYT: Officials said the weeklong suspension of classes in Manila would let teachers and students recover from the virus, or care for others who had it. 
  <p class="updated_time"> 10:10 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59992531?at_medium=RSS&at_campaign=KARANGA">Ukraine cyber-attack: Russia to blame for hack, says Kyiv</a> BBC: About 70 Ukrainian government websites were targeted, including the foreign and energy ministries. 
- <p class="updated_time"> 09:36 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59977198?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic and the unanswered questions</a> BBC: Australian authorities have cancelled the Serbian's visa, but can he still avoid deportation? 
  <p class="updated_time"> 09:18 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/netherlands-golden-coach.html">Dutch Royals to Retire Golden Coach With Echoes of Colonialism</a> NYT: The horse-drawn coach, a gift from the city of Amsterdam to Queen Wilhelmina in 1898, has long been the target of critics. 
  <p class="updated_time"> 09:09 AM CT, Jan. 14 </p> 
@@ -67,24 +67,24 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/europe/giglio-costa-concordia-italy.html">How the Wreck of the Costa Concordia Changed an Italian Island</a> NYT: Ten years ago the Costa Concordia ran aground off the Tuscan island of Giglio, killing 32 people and entwining the lives of others forever. 
  <p class="updated_time"> 08:10 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073001754/ukraine-cyber-attack-government-websites-russia">Ukraine is hit by a massive cyberattack that targeted government websites</a> NPR: A message posted by hackers in Ukrainian, Russian and Polish warns Ukrainians that their personal data has been breached and to "be afraid and expect the worst." 
+ <p class="updated_time"> 06:53 AM CT, Jan. 14 </p> 
+ <a href="https://www.wsj.com/articles/white-house-says-russia-is-planning-false-flag-operation-as-pretext-for-invading-ukraine-11642182308">White House Says Russia Is Planning 'False Flag' Operation as Pretext for Invading Ukraine</a> WSJ: Russia has pre-positioned a group of operatives to conduct a false-flag operation in Eastern Ukraine as a pretext for invading the country, the White House press secretary Jen Psaki said. 
  <p class="updated_time"> 06:48 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59995862?at_medium=RSS&at_campaign=KARANGA">Bayern defender diagnosed with mild myocarditis</a> BBC: Bayern Munich defender Alphonso Davies stops training after the club detect signs of heart muscle inflammation. 
  <p class="updated_time"> 06:00 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072812001/cat-vitamix-blender-box-standoff">3 cats have outmaneuvered their 2 humans to hold a blender hostage for weeks</a> NPR: Jessica and Nikii Gerson-Neeves don't want to end the standoff that has brought joy to so many people. But they also want to use their blender, which has been in a box in their kitchen since December. 
  <p class="updated_time"> 05:54 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values against an athlete who sought to play by his own rules. 
+ <p class="updated_time"> 05:53 AM CT, Jan. 14 </p> 
+ <a href="https://www.wsj.com/articles/shadow-of-prince-andrew-scandal-looms-over-buckingham-palace-11642178355">Shadow of Prince Andrew Scandal Looms Over Buckingham Palace</a> WSJ: The British monarchy sought to insulate itself from scandal of Prince Andrew’s ties with a convicted sex offender Jeffrey Epstein, but it may prove difficult to distance itself from Queen Elizabeth’s second son. 
  <p class="updated_time"> 05:45 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59993346?at_medium=RSS&at_campaign=KARANGA">Britney Spears and sister Jamie Lynn's rift grows with social media feud</a> BBC: Britney Spears and her younger sister Jamie Lynn argue on social media over their past relationship. 
  <p class="updated_time"> 05:43 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59992918?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Thirty rescued as man dies off French coast</a> BBC: The man fell overboard from a migrant boat in what is thought to be the first fatality this year. 
- <p class="updated_time"> 05:12 AM CT, Jan. 14 </p> 
- <a href="https://www.wsj.com/articles/iran-seeks-closer-ties-with-china-as-nuclear-talks-drag-on-11642155508">Iran Seeks Closer Ties With China as Nuclear Talks Drag On</a> WSJ: Tehran is trying to strengthen ties with China, Russia and other nations that could help it get around American sanctions that are battering the Iranian economy. 
  <p class="updated_time"> 04:33 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/serbia-djokovic.html">Why Novak Djokovic Is a Hero in Serbia</a> NYT: Many feel a personal connection and pride with the tennis star, even if they do not agree with his decisions to stay unvaccinated. 
  <p class="updated_time"> 04:12 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/india-bishop-rape-nun.html">Indian Bishop Is Acquitted on Charges of Raping a Nun</a> NYT: The bishop, Franco Mulakkal, had been accused of repeatedly assaulting the nun in the southern state of Kerala over a two-year period. 
- <p class="updated_time"> 04:07 AM CT, Jan. 14 </p> 
- <a href="https://www.wsj.com/articles/russia-moves-more-weaponry-toward-ukraine-keeps-the-west-guessing-11642161605">Russia Moves More Weaponry Toward Ukraine, Keeps the West Guessing</a> WSJ: As diplomats held talks over the Ukraine crisis this week, the Kremlin began shifting tanks, infantry fighting vehicles, rocket launchers and other military equipment westward from bases in the Russian Far East. 
  <p class="updated_time"> 04:00 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/nato-russia-ukraine-europe.html">Fear of Russia Brings New Purpose and Unity to NATO, Once Again</a> NYT: After years of drift, Trumpian ridicule and failure in Afghanistan, Russian demands for a new Iron Curtain in Europe have created unity in the alliance, at least for now. 
  <p class="updated_time"> 04:00 AM CT, Jan. 14 </p> 
