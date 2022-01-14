@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:44 AM CT, Jan. 14 </p> 
+ <p class="updated_time"> 08:52 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. Djokovic’s lawyers said they would appeal the decision, with the start of the Australian Open three days away. 
+ <p class="updated_time"> 08:50 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped impose more sanctions over the North’s recent missile tests. 
+ <p class="updated_time"> 08:48 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia to detain tennis star on Saturday after visa cancelled</a> BBC: Australia cancelled the tennis star's visa for a second time on Friday, but he is set to appeal. 
+ <p class="updated_time"> 08:42 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59998925?at_medium=RSS&at_campaign=KARANGA">REvil ransomware gang arrested in Russia</a> BBC: Russian authorities dismantle the notorious cyber-crime gang at the request of the United States. 
  <p class="updated_time"> 08:41 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
  <p class="updated_time"> 08:11 AM CT, Jan. 14 </p> 
@@ -17,10 +23,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/14/1073001754/ukraine-cyber-attack-government-websites-russia">Ukraine is hit by a massive cyber attack that targeted government websites</a> NPR: A message posted by hackers in Ukrainian, Russian and Polish warns Ukrainians that their personal data has been breached and that they "be afraid and expect the worst." 
  <p class="updated_time"> 07:21 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/covid-italy-police-pink-masks.html">Pink Covid Masks? No Thanks, Say Some Italian Police Officers</a> NYT: A spokesman for one union said the objection was not from “a prejudice against the color,” but reflected concerns about decorum. 
- <p class="updated_time"> 07:15 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over the North’s recent missile tests. 
- <p class="updated_time"> 06:47 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels tennis star's visa</a> BBC: The immigration minister says the unvaccinated tennis star may pose a public health risk. 
  <p class="updated_time"> 06:22 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html">Hackers Bring Down Government Sites in Ukraine</a> NYT: A cyberattack defaced the Foreign Ministry website with a message saying “Be afraid,” a day after the latest round of talks between Moscow and the West aimed at forestalling a Russian invasion. 
  <p class="updated_time"> 06:16 AM CT, Jan. 14 </p> 
@@ -198,10 +200,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:50 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped impose more sanctions over the North’s recent missile tests. 
+ <p class="updated_time"> 08:41 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
  <p class="updated_time"> 07:26 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/14/senate-scraps-recess-for-swing-at-filibuster-495731">Senate scraps recess for swing at filibuster</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:15 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over the North’s recent missile tests. 
  <p class="updated_time"> 06:33 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/14/bill-and-hillary-peek-their-heads-out-495727"> Bill and Hillary peek their heads out</a> Politico Playbook: And the Supreme Court strikes down Biden’s large employer vaccine mandate. 
  <p class="updated_time"> 05:00 AM CT, Jan. 14 </p> 
@@ -226,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/dems-torpedo-cruz-sanction-russian-pipeline-527076">Dems torpedo Cruz’s bid to sanction Russian pipeline</a> Politico: A nearly party-line vote scuttled the Texas senator's attempt to punish Putin, but a new bill is waiting in the wings. 
  <p class="updated_time"> 09:21 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/anti-trump-republicans.html">Anti-Trump Republicans Diverge on 2022 Midterms</a> NYT: Disaffected conservatives broke with their party to oust a sitting president. Some still hope to have a say in the G.O.P.’s future. 
- <p class="updated_time"> 09:08 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
  <p class="updated_time"> 08:38 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/biden-fed-nomination-raskin-527099">Biden to nominate Raskin, 2 others to Fed board</a> Politico: Biden's selections would put a solid Democratic stamp on the central bank. 
  <p class="updated_time"> 07:57 PM CT, Jan. 13 </p> 
