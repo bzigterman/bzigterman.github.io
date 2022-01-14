@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:31 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
  <p class="updated_time"> 01:13 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59992534?at_medium=RSS&at_campaign=KARANGA">Danish spy scandal: Ex-minister accused of state secrets leak</a> BBC: The case against Claus Hjort Frederiksen comes after an ex-intelligence chief faced similar charges. 
- <p class="updated_time"> 01:07 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
  <p class="updated_time"> 01:02 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/science/ancient-horses-kungas-hybrid.html">The Kunga Was a Status Symbol Long Before the Thoroughbred</a> NYT: A new study finds the first known instance of a human-engineered hybrid, bred from a donkey and a Syrian wild ass 4,500 years ago. 
  <p class="updated_time"> 12:51 PM CT, Jan. 14 </p> 
@@ -202,10 +202,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:56 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/biden-remake-federal-reserve-527122">Biden moves to remake the Fed</a> Politico: Biden on Friday tapped two Black economists — Lisa Cook and Philip Jefferson — for open seats on the  board. 
+ <p class="updated_time"> 01:31 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
  <p class="updated_time"> 01:13 PM CT, Jan. 14 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 01:07 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
  <p class="updated_time"> 12:55 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/ohio-supreme-court-congressional-maps-gerrymandering.html">Ohio Supreme Court Strikes Down Republican Gerrymander of Map</a> NYT: The congressional map would have given Republicans 12-to-3 advantage in elections for the House of Representatives. 
  <p class="updated_time"> 12:42 PM CT, Jan. 14 </p> 
@@ -237,6 +237,8 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/cartoons/2022/01/14/the-nations-cartoonists-on-the-week-in-politics-000278">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Jan. 14 </p> 
+ <a href="https://www.politico.com/news/2022/01/14/dems-2022-build-back-better-527096">With Biden’s signature legislation stalled, Democrats stare into political void</a> Politico: President Joe Biden’s sweeping climate and social spending bill is faltering in the Senate, and Democrats are trying to make lemonade out of infrastructure. 
+ <p class="updated_time"> 04:30 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/democrats-voting-rights-megabill-left-out-527095">What Democrats put in their voting rights megabill — and what got left out</a> Politico: The massive legislative package would make massive changes to how people vote as well as redistricting and campaign finance. 
  <p class="updated_time"> 04:15 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072980433/state-laws-that-add-restrictions-on-voting-are-a-serious-problem-waldman-says">State laws that add restrictions on voting are a serious problem, Waldman says</a> NPR: NPR's A Martinez talks to Michael Waldman, president of the nonprofit Brennan Center for Justice at New York University Law School, about the fight for voting rights. 
@@ -267,7 +269,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:38 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072929277/a-wisconsin-judge-rules-absentee-ballot-drop-boxes-are-not-allowed-under-state-l">A Wisconsin judge rules absentee ballot drop boxes are not allowed under state law</a> NPR: The ruling could potentially remove an option for voting ahead of the state's crucial midterm elections. The decision is all but certain to be appealed. 
  <p class="updated_time"> 06:17 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/presidential-debates-rnc.html">R.N.C. Signals a Pullout From Presidential Debates</a> NYT: The Republican National Committee says it will require candidates to pledge to not participate in debates run by the Commission on Presidential Debates. What would replace them, if anything, was unclear. 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/presidential-debates-rnc.html">RNC Signals a Pullout From Presidential Debates</a> NYT: The Republican National Committee says it will require candidates to pledge to not participate in debates run by the Commission on Presidential Debates. What would replace them, if anything, was unclear. 
  <p class="updated_time"> 05:49 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/business/osha-vaccine-mandate-businesses.html">Businesses are whipsawed again as the Supreme Court blocks OSHA’s vaccine mandate.</a> NYT: Companies must now decide whether to proceed with planned mandates without cover from the federal government. 
  <p class="updated_time"> 05:34 PM CT, Jan. 13 </p> 
@@ -298,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/havana-syndrome-evaluation-tool.html">US Refines Tool to Evaluate 'Havana Syndrome' Cases</a> NYT: The tool, essentially a standardized battery of questions and medical tests, can help determine the kind of care needed by people affected by the “anomalous health incidents.” 
  <p class="updated_time"> 01:15 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/capitol-riot-online-messages-dhs-527027">Violent online messages before Capitol riot went unshared by DHS, emails show</a> Politico: The department's intelligence office saw "significant chatter" in the 48 hours before Jan. 6 and concluded it was just hyperbole, according to internal emails shared with POLITICO. 
- <p class="updated_time"> 12:47 PM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/rnc-threatens-to-bar-candidates-from-presidential-debates-527037">RNC feud with presidential debate commission escalates with boycott threat</a> Politico: The committee sent a letter to the Commission on Presidential Debates saying it wants GOP presidential candidates to not work with the group. 
  <p class="updated_time"> 12:17 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072778094/sen-sinema-dashes-democrats-hope-to-change-the-filibuster">Biden says he doesn't know if voting rights legislation can pass</a> NPR: The president left a meeting with Senate Democrats pessimistic about a way forward on voting rights, as Sens. Kyrsten Sinema and Joe Manchin reiterated their opposition to changing Senate rules. 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
@@ -311,9 +311,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:28 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072706279/internal-gop-conflicts-about-2020-election-surface-as-party-fights-new-voting-bi">Internal GOP conflicts about 2020 election surface as party fights new voting bills</a> NPR: Democratic voting legislation has virtually no path to becoming law, but Senate Republicans are fighting it as the GOP still struggles over how to move forward from the 2020 election. 
  <p class="updated_time"> 09:52 AM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072730868/biden-announces-plans-to-buy-500-million-more-covid-tests-and-to-offer-free-mask">Biden announces plans to buy 500 million more COVID tests and to offer free masks</a> NPR: The president expects a website to launch next week to order tests. The head of the postal workers union says that up to 7,000 temporary workers will be hired in the effort to get kits to Americans. 
- <p class="updated_time"> 09:00 AM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/david-scott-house-agriculture-worries-527015">Lawmakers raise health concerns as they quietly seek to replace a House chairman</a> Politico: Some Democratic lawmakers have been trying to gently push out Rep. David Scott as head of the House Agriculture Committee, citing questions about his effectiveness. 
+ <a href="https://www.npr.org/2022/01/13/1072730868/biden-announces-plans-to-buy-500-million-more-covid-tests-and-to-offer-free-mask">You'll be able to order free at-home COVID test kits starting on Wednesday</a> NPR: The Biden administration announced Friday that Americans can begin ordering free at-home COVID-19 tests starting January 19th. Orders can be placed using a website, COVIDTests.gov. 
  <p class="updated_time"> 07:34 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/13/ball-rolling-on-voting-and-filibuster-overhauls-495715">Ball rolling on voting and filibuster overhauls</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Jan. 13 </p> 
