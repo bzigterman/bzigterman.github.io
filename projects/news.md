@@ -7,24 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:51 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/health/saliva-testing-coronavirus-omicron.html">For Coronavirus Testing, the Nose May Not Always Be Best</a> NYT: As Omicron spreads, some experts are calling for a switch to saliva-based tests, which may detect infections days earlier than nasal swabs do. 
+ <p class="updated_time"> 12:38 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
+ <p class="updated_time"> 12:35 PM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59998988?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine: US warns of 'false-flag' operation</a> BBC: Russia is plotting to stage acts of provocation to create a pretext to invade Ukraine, a US official says. 
  <p class="updated_time"> 12:19 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59988720?at_medium=RSS&at_campaign=KARANGA">US fugitive who faked death found alive in Glasgow</a> BBC: Nicholas Rossi, using the alias Arthur Knight, was arrested in hospital while being treated for Covid. 
  <p class="updated_time"> 12:02 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/obamacare-deadline-stimulus-subsidies.html">Obamacare Deadline Is Saturday, and Subsidies Boost Sign-ups</a> NYT: The subsidies, established by Congress last year, make insurance less expensive for nearly everyone who buys it this year. 
- <p class="updated_time"> 11:59 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59998988?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine: US warns of 'false-flag' operation</a> BBC: Russia is plotting to stage acts of provocation to create a pretext to invade Ukraine, a US official says. 
  <p class="updated_time"> 11:47 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/boris-johnson-apology-lockdown-parties.html">Boris Johnson’s Office Apologizes to Queen for Parties</a> NYT: The prime minister’s office said it was “deeply regrettable” that two parties took place at Downing Street the night before Prince Philip’s funeral. Mr. Johnson was not accused of attending either of them. 
  <p class="updated_time"> 11:46 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59977198?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic and the unanswered questions</a> BBC: Australian authorities have cancelled the Serbian's visa, but can he still avoid deportation? 
  <p class="updated_time"> 11:45 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
- <p class="updated_time"> 11:44 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/health/coronavirus-omicron-testing-nose.html">For Coronavirus Testing, the Nose May Not Always Be Best</a> NYT: As Omicron spreads, some experts are calling for a switch to saliva-based tests, which may detect infections days earlier than nasal swabs do. 
  <p class="updated_time"> 11:42 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/14/1072188527/for-the-36-countries-with-the-lowest-vaccination-rates-supply-isnt-the-only-issu">For the 36 countries with the lowest vaccination rates, supply isn't the only issue</a> NPR: Even as wealthy countries hit 80% vaccination rates, a number of countries have not even vaccinated 1 in 10 citizens. Our interactive map shows the vaccination landscape. 
- <p class="updated_time"> 11:40 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
  <p class="updated_time"> 11:40 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-oust.html">How Conservatives Could Oust Prime Minister Boris Johnson</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 11:40 AM CT, Jan. 14 </p> 
@@ -72,7 +72,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:10 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073001754/ukraine-cyber-attack-government-websites-russia">Ukraine is hit by a massive cyberattack that targeted government websites</a> NPR: A message posted by hackers in Ukrainian, Russian and Polish warns Ukrainians that their personal data has been breached and to "be afraid and expect the worst." 
  <p class="updated_time"> 06:53 AM CT, Jan. 14 </p> 
- <a href="https://www.wsj.com/articles/white-house-says-russia-is-planning-false-flag-operation-as-pretext-for-invading-ukraine-11642182308">White House Says Russia Is Planning 'False Flag' Operation as Pretext for Invading Ukraine</a> WSJ: Russia has pre-positioned a group of operatives to conduct a false-flag operation in Eastern Ukraine as a pretext for invading the country, White House press secretary Jen Psaki said. 
+ <a href="https://www.wsj.com/articles/white-house-says-russia-is-planning-false-flag-operation-as-pretext-for-invading-ukraine-11642182308">White House Says Russia Is Planning 'False Flag' Operation as Pretext for Invading Ukraine</a> WSJ: Russia has prepositioned a group of operatives to conduct a false-flag operation in eastern Ukraine as a pretext for invading the country, White House press secretary Jen Psaki said. 
  <p class="updated_time"> 06:48 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59995862?at_medium=RSS&at_campaign=KARANGA">Bayern defender diagnosed with mild myocarditis</a> BBC: Bayern Munich defender Alphonso Davies stops training after the club detect signs of heart muscle inflammation. 
  <p class="updated_time"> 06:00 AM CT, Jan. 14 </p> 
@@ -200,12 +200,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:48 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/ohio-supreme-court-congressional-maps-gerrymandering.html">Ohio Supreme Court Strikes Down Republican Gerrymander of Map</a> NYT: The congressional map would have given Republicans 12-to-3 advantage in elections for the House of Representatives. 
  <p class="updated_time"> 12:42 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/fedex-anti-missile-lasers-cargo-planes-527119">FedEx proposing anti-missile lasers for some planes</a> Politico: The technology was previously tested in some cargo jets in 2008. 
+ <p class="updated_time"> 12:38 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
+ <p class="updated_time"> 12:25 PM CT, Jan. 14 </p> 
+ <a href="https://www.politico.com/news/2022/01/14/ohio-congressional-map-struck-down-527116">Top Ohio court strikes down state's gerrymandered congressional map</a> Politico: The state Supreme Court ruled Republicans in Columbus had stacked the deck against Democrats, in violation of the state constitution. 
  <p class="updated_time"> 12:21 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073112515/republican-rep-john-katko-who-voted-for-trumps-impeachment-is-retiring">Republican Rep. John Katko, who voted for Trump's impeachment, is retiring</a> NPR: Katko is the third Republican who voted for former President Donald Trump's second impeachment to announce his retirement. 
- <p class="updated_time"> 11:40 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
  <p class="updated_time"> 11:06 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/us-intel-russia-false-flag-operation-527112">U.S. intel suggests Russia is planning a false-flag operation</a> Politico: The Kremlin has operatives already in Ukraine, laying the groundwork for an invasion, say Biden officials. 
  <p class="updated_time"> 11:01 AM CT, Jan. 14 </p> 
@@ -302,6 +306,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/republicans-warn-biden-nuclear-cuts-527030">Top GOP hawks warn Biden against nuclear cuts</a> Politico: Their public warning underscores how politically challenging it will be for Biden to make major reforms to U.S. nuclear strategy. 
  <p class="updated_time"> 11:42 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072765939/republicans-threaten-to-no-longer-participate-in-traditional-general-election-de">Republicans threaten to skip traditional general election debates</a> NPR: The Republican National Committee has released a letter outlining complaints and will ask presidential nominees not to participate in debates put on by the Commission on Presidential Debates. 
+ <p class="updated_time"> 11:29 AM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/biden-administration-eyes-additional-batch-of-at-home-covid-tests-as-it-readies-public-rollout-527021">Biden administration will double at-home Covid test order as it readies public rollout</a> Politico: The website on which people can begin ordering the first run of these tests is "on track" to launch next week. 
  <p class="updated_time"> 11:28 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072706279/internal-gop-conflicts-about-2020-election-surface-as-party-fights-new-voting-bi">Internal GOP conflicts about 2020 election surface as party fights new voting bills</a> NPR: Democratic voting legislation has virtually no path to becoming law, but Senate Republicans are fighting it as the GOP still struggles over how to move forward from the 2020 election. 
  <p class="updated_time"> 09:52 AM CT, Jan. 13 </p> 
@@ -316,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072678590/democrats-are-looking-for-their-way-forward-on-voting-rights">Democrats are looking for their way forward on voting rights</a> NPR: President Biden will make an in-person pitch to Senate Democrats to pass voting rights legislation — including changing Senate rules. Some Democrats, however, are opposed to ditching the filibuster. 
  <p class="updated_time"> 06:15 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/13/biden-and-manchin-come-face-to-face-495712"> Biden and Manchin come face to face</a> Politico Playbook: And Lindsey Graham warns Mitch McConnell on Donald Trump. 
- <p class="updated_time"> 05:31 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/college-enrollment-2021-omicron.html">College Enrollment Dropped Again in Fall 2021, Despite Vaccines</a> NYT: Total undergraduate enrollment has dropped by about 1.2 million students since the fall of 2019, researchers say. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/gop-russia-senate-sanctions-vote-527004">GOP grabs for the post-Trump upper hand on Moscow</a> Politico: Republicans are seeking a Russia reboot with a high-profile Senate sanctions vote on Thursday. But Democrats have their own harsh alternative. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
