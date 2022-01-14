@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:52 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 03:48 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values against an athlete who sought to play by his own rules. 
  <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073215461/congo-basin-peatlands-have-trapped-years-worth-of-carbon-how-can-they-be-protect">Congo Basin peatlands have trapped years' worth of carbon. How can they be protected?</a> NPR: NPR's Ari Shapiro speaks with journalist John Cannon about the dangers of destroying a hidden peatland in the Congo Basin that has locked in as much carbon dioxide as the world emits in three years. 
  <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073215454/in-ukraine-life-goes-on-despite-threat-of-russian-invasion">In Ukraine, life goes on despite threat of Russian invasion</a> NPR: NPR's Ailsa Chang speaks with Ukrainian journalist and author Nataliya Gumenyuk about the Ukrainian public's perspective on tensions with Russia and the possibility that Russian troops may invade. 
- <p class="updated_time"> 03:33 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 03:31 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073215440/top-scientists-say-africa-may-have-reached-a-less-threatening-phase-of-covid">Top scientists say Africa may have reached a less threatening phase of COVID</a> NPR: In the United States there's lots of discussion about when the coronavirus will finally become endemic the way colds are. But African scientists say that may have already happened on their continent. 
  <p class="updated_time"> 03:31 PM CT, Jan. 14 </p> 
@@ -204,10 +204,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
- <a href="https://www.npr.org/2022/01/14/1073215447/biden-promised-a-billion-covid-tests-contracts-to-buy-them-are-being-announced">Biden promised a billion COVID tests. Contracts to buy them are being announced</a> NPR: The Biden administration wants to buy and send a billion free at-home COVID tests to Americans. Here's what we know so far about the contracts in terms of price, timeline and more. 
+ <p class="updated_time"> 03:57 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/john-katko-retire-trump-impeachment.html">John Katko, Who Voted to Impeach Trump, Won’t Seek Re-election</a> NYT: Increasingly marginalized from conservatives at home and in Washington, Mr. Katko also faced a brutal general election campaign in his left-leaning New York district. 
  <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073149219/marilyn-mosby-baltimore-indicted">Baltimore prosecutor Marilyn Mosby denies federal charges over her finances</a> NPR: Mosby reached national prominence in 2015 as the top prosecutor pursuing criminal charges against police officers in the death of Freddie Gray. 
+ <p class="updated_time"> 03:47 PM CT, Jan. 14 </p> 
+ <a href="https://www.npr.org/2022/01/14/1073215447/biden-promised-a-billion-covid-tests-contracts-to-buy-them-are-being-announced">Biden promised a billion COVID tests. Contracts to buy them are being announced</a> NPR: The Biden administration wants to buy and send a billion free at-home COVID tests to Americans. Here's what we know so far about the contracts in terms of price, timeline and more. 
  <p class="updated_time"> 03:31 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073215412/christian-nationalism-is-stronger-than-ever-even-without-donald-trump-as-preside">Christian Nationalism is stronger than ever, even without Donald Trump as president</a> NPR: Christian Nationalism has grown in the last year. Now, some more mainline churches are speaking out against the movement, which they see as opposed to the teachings of Jesus. 
  <p class="updated_time"> 03:31 PM CT, Jan. 14 </p> 
@@ -262,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/14/1072980433/state-laws-that-add-restrictions-on-voting-are-a-serious-problem-waldman-says">State laws that add restrictions on voting are a serious problem, Waldman says</a> NPR: NPR's A Martinez talks to Michael Waldman, president of the nonprofit Brennan Center for Justice at New York University Law School, about the fight for voting rights. 
  <p class="updated_time"> 11:15 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/business/economy/inflation-price-controls.html">Spike in Inflation Reignites Debate on Price Controls</a> NYT: A discussion over whether price controls would work to stem inflation is sweeping progressives. So far, it has little political acceptance. 
- <p class="updated_time"> 10:12 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/europe/russia-ukraine-talks.html">Russia, at an Impasse With the West, Warns It Is Ready to Abandon Diplomacy</a> NYT: In a third round of talks on Eastern European security this week, both Kremlin and American officials sounded an increasingly pessimistic note. 
  <p class="updated_time"> 10:12 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072957107/biden-to-announce-three-more-federal-reserve-nominees">Biden announces three more Federal Reserve nominees</a> NPR: Former Treasury official Sarah Bloom Raskin and economists Lisa Cook and Philip Jefferson are the three nominees Biden announced for the Fed board on Friday. 
  <p class="updated_time"> 10:08 PM CT, Jan. 13 </p> 
