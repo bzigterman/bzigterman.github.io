@@ -200,6 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:15 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/ohio-supreme-court-congressional-maps-gerrymandering.html">Ohio Supreme Court Strikes Down Republican Gerrymander of Map</a> NYT: The congressional map would have given Republicans 12-to-3 advantage in elections for the House of Representatives. 
+ <p class="updated_time"> 02:06 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/health/fda-robert-califf.html">Senate Panel OKs Califf Nomination for F.D.A. Chief</a> NYT: A split committee vote revealed concerns about the opioid epidemic and abortion policies, foreshadowing a likely close vote on confirmation by the full Senate. 
  <p class="updated_time"> 01:56 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/biden-remake-federal-reserve-527122">Biden moves to remake the Fed</a> Politico: Biden on Friday tapped two Black economists — Lisa Cook and Philip Jefferson — for open seats on the  board. 
  <p class="updated_time"> 01:45 PM CT, Jan. 14 </p> 
@@ -208,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency if Russia Invades Ukraine</a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion have revived the specter of a new Cold War. 
  <p class="updated_time"> 01:13 PM CT, Jan. 14 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 12:55 PM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/ohio-supreme-court-congressional-maps-gerrymandering.html">Ohio Supreme Court Strikes Down Republican Gerrymander of Map</a> NYT: The congressional map would have given Republicans 12-to-3 advantage in elections for the House of Representatives. 
  <p class="updated_time"> 12:42 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/fedex-anti-missile-lasers-cargo-planes-527119">FedEx proposing anti-missile lasers for some planes</a> Politico: The technology was previously tested in some cargo jets in 2008. 
  <p class="updated_time"> 12:25 PM CT, Jan. 14 </p> 
@@ -244,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/14/1072980433/state-laws-that-add-restrictions-on-voting-are-a-serious-problem-waldman-says">State laws that add restrictions on voting are a serious problem, Waldman says</a> NPR: NPR's A Martinez talks to Michael Waldman, president of the nonprofit Brennan Center for Justice at New York University Law School, about the fight for voting rights. 
  <p class="updated_time"> 11:15 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/business/economy/inflation-price-controls.html">Spike in Inflation Reignites Debate on Price Controls</a> NYT: A discussion over whether price controls would work to stem inflation is sweeping progressives. So far, it has little political acceptance. 
- <p class="updated_time"> 10:32 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/health/fda-robert-califf.html">Senate Panel OKs Califf Nomination for F.D.A. Chief</a> NYT: A split committee vote revealed concerns about the opioid epidemic and abortion policies, foreshadowing a likely close vote on confirmation by the full Senate. 
  <p class="updated_time"> 10:12 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/russia-ukraine-talks.html">Russia, at an Impasse With the West, Warns It Is Ready to Abandon Diplomacy</a> NYT: In a third round of talks on Eastern European security this week, both Kremlin and American officials sounded an increasingly pessimistic note. 
  <p class="updated_time"> 10:12 PM CT, Jan. 13 </p> 
