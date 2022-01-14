@@ -7,14 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:47 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/europe/boris-johnson-apology-lockdown-parties.html">Boris Johnson’s Office Apologizes to Queen for Parties</a> NYT: The prime minister’s office said it was “deeply regrettable” that two parties took place at Downing Street the night before Prince Philip’s funeral. Mr. Johnson was not accused of attending either of them. 
+ <p class="updated_time"> 11:45 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
+ <p class="updated_time"> 11:44 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/health/coronavirus-omicron-testing-nose.html">For Coronavirus Testing, the Nose May Not Always Be Best</a> NYT: As Omicron spreads, some experts are calling for a switch to saliva-based tests, which may detect infections days earlier than nasal swabs do. 
+ <p class="updated_time"> 11:42 AM CT, Jan. 14 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/01/14/1072188527/for-the-36-countries-with-the-lowest-vaccination-rates-supply-isnt-the-only-issu">For the 36 countries with the lowest vaccination rates, supply isn't the only issue</a> NPR: Even as wealthy countries hit 80% vaccination rates, a number of countries have not even vaccinated 1 in 10 citizens. Our interactive map shows the vaccination landscape. 
+ <p class="updated_time"> 11:40 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
+ <p class="updated_time"> 11:40 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-oust.html">How Conservatives Could Oust Prime Minister Boris Johnson</a> NYT: Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on. 
+ <p class="updated_time"> 11:40 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/europe/covid-italy-police-pink-masks.html">Pink Covid Masks? No Thanks, Say Some Italian Police Officers</a> NYT: A spokesman for one union said the objection was not from “a prejudice against the color,” but reflected concerns about decorum. 
+ <p class="updated_time"> 11:32 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60002289?at_medium=RSS&at_campaign=KARANGA">Single page of Spider-Man comic sells for over $3.3m</a> BBC: An auction house in Dallas erupted into cheers when the record-smashing bid won out. 
  <p class="updated_time"> 11:23 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html">Hackers Bring Down Government Sites in Ukraine</a> NYT: “Be afraid,” warned a message on the defaced Foreign Ministry website, a day after talks between the West and Moscow aimed at preventing a Russian invasion hit an impasse. 
- <p class="updated_time"> 11:17 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
  <p class="updated_time"> 11:13 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-60001144?at_medium=RSS&at_campaign=KARANGA">Tesla starts accepting once-joke cryptocurrency Dogecoin</a> BBC: Elon Musk's plans send the value of the cryptocurrency soaring. 
- <p class="updated_time"> 11:09 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 11:09 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/01/14/1072181298/10-global-crises-to-pay-attention-to-in-2022-according-to-the-new-humanitarian">10 global crises to pay attention to in 2022, according to 'The New Humanitarian'</a> NPR: The New Humanitarian has compiled its list of the conflicts, disasters and threats to watch this year. Editor Josephine Schmidt discusses how they came up with the list. 
  <p class="updated_time"> 11:04 AM CT, Jan. 14 </p> 
@@ -35,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/asia/covid-philippines-schools.html">Philippines Puts Schools on ‘Health Break’ as Covid Cases Soar</a> NYT: Officials said the weeklong suspension of classes in Manila would let teachers and students recover from the virus, or care for others who had it. 
  <p class="updated_time"> 10:10 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59992531?at_medium=RSS&at_campaign=KARANGA">Ukraine cyber-attack: Russia to blame for hack, says Kyiv</a> BBC: About 70 Ukrainian government websites were targeted, including the foreign and energy ministries. 
- <p class="updated_time"> 10:04 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/europe/boris-johnson-apology-lockdown-parties.html">Boris Johnson’s Office Apologizes to Queen for Parties</a> NYT: The prime minister’s office said it was “deeply regrettable” that two parties took place at Downing Street the night before Prince Philip’s funeral. Mr. Johnson was not accused of attending either of them. 
  <p class="updated_time"> 09:36 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59977198?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic and the unanswered questions</a> BBC: Australian authorities have cancelled the Serbian's visa, but can he still avoid deportation? 
  <p class="updated_time"> 09:18 AM CT, Jan. 14 </p> 
@@ -57,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/europe/giglio-costa-concordia-italy.html">How the Wreck of the Costa Concordia Changed an Italian Island</a> NYT: Ten years ago the Costa Concordia ran aground off the Tuscan island of Giglio, killing 32 people and entwining the lives of others forever. 
  <p class="updated_time"> 08:10 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073001754/ukraine-cyber-attack-government-websites-russia">Ukraine is hit by a massive cyberattack that targeted government websites</a> NPR: A message posted by hackers in Ukrainian, Russian and Polish warns Ukrainians that their personal data has been breached and to "be afraid and expect the worst." 
- <p class="updated_time"> 07:21 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/europe/covid-italy-police-pink-masks.html">Pink Covid Masks? No Thanks, Say Some Italian Police Officers</a> NYT: A spokesman for one union said the objection was not from “a prejudice against the color,” but reflected concerns about decorum. 
  <p class="updated_time"> 06:48 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59995862?at_medium=RSS&at_campaign=KARANGA">Bayern defender diagnosed with mild myocarditis</a> BBC: Bayern Munich defender Alphonso Davies stops training after the club detect signs of heart muscle inflammation. 
  <p class="updated_time"> 06:00 AM CT, Jan. 14 </p> 
@@ -103,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/china-bans-flights-from-u-s-as-covid-19-measures-intensify-11642139958">China Bans Flights From U.S. as Covid-19 Measures Intensify</a> WSJ: Chinese aviation authorities ordered more flights from the U.S. canceled for the coming weeks, along with flights from countries including France, Indonesia and the United Arab Emirates, citing Covid-19 containment rules. 
  <p class="updated_time"> 11:30 PM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/how-covid-19-has-widened-the-gap-between-rich-and-poor-countries-11642156207">How Covid-19 Has Widened the Gap Between Rich and Poor Countries</a> WSJ: Progress in bridging the economic divide between developed and developing nations has been set back by the Covid-19 pandemic. 
- <p class="updated_time"> 11:16 PM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/business-59990477?at_medium=RSS&at_campaign=KARANGA">North Korea hackers stole $400m of cryptocurrency in 2021, report says</a> BBC: Blockchain research firm Chainalysis says the value extracted from the hacks grew by 40% year-on-year. 
  <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/france-teachers-walkout-covid-coronavirus.html">Teachers in France Stage Walkout Over Covid Rules in Schools</a> NYT: Tens of thousands of teachers, other school personnel and parents took to the streets on Thursday to protest shifting, confusing rules that they say are now too lax. 
  <p class="updated_time"> 10:12 PM CT, Jan. 13 </p> 
@@ -143,14 +149,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/middleeast/baghdad-embassy-rockets-iran.html">Rockets Possibly Fired by Pro-Iran Assailants Target U.S. Embassy in Iraq</a> NYT: Four rockets were fired at the fortified compound that houses the U.S. Embassy in Baghdad, and suspicion fell on pro-Iran militias. 
  <p class="updated_time"> 03:55 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072867920/secretary-of-state-blinken-says-russia-will-face-consequences-if-they-invade-ukr">Secretary of State Blinken says Russia will face consequences if it invade Ukraine</a> NPR: NPR's Mary Louise Kelly talks with U.S. Secretary of State Antony Blinken about the United States' role in the ongoing conflict between Russia and Ukraine. 
- <p class="updated_time"> 03:50 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072867403/german-court-sentences-syrian-intelligence-officer-to-life-in-prison-for-war-cri">German court sentences Syrian intelligence officer to life in prison for war crimes</a> NPR: A German court sentenced a Syrian intelligence officer to life in prison, in a landmark war crimes trial. 
  <p class="updated_time"> 03:46 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/prince-andrew-military-titles-abuse-case.html">Prince Andrew Is Stripped of Military Titles as Sexual Abuse Case Proceeds</a> NYT: Buckingham Palace said Andrew would not undertake any public duties and was defending his case as a private citizen. 
  <p class="updated_time"> 02:55 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/nato-ukraine.html">NATO Won’t Let Ukraine Join Soon. Here’s Why.</a> NYT: Ukraine, with Russian troops on its borders, is pressing for membership. But President Biden and European leaders are not ready for that step. 
- <p class="updated_time"> 02:33 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-oust.html">How Conservatives Could Oust Prime Minister Boris Johnson</a> NYT: The future of Britain’s prime minister is in doubt after he admitted attending a party while the country was under Covid lockdown. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 01:17 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/havana-syndrome-evaluation-tool.html">US Refines Tool to Evaluate 'Havana Syndrome' Cases</a> NYT: The tool, essentially a standardized battery of questions and medical tests, can help determine the kind of care needed by people affected by the “anomalous health incidents.” 
  <p class="updated_time"> 10:49 AM CT, Jan. 13 </p> 
@@ -185,10 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/africa/somalia-car-bomb.html">Car Bomb in Mogadishu, Somalia's Capital, Kills 8</a> NYT: The explosion, one of a string of recent attacks, comes as the country grapples with a political standoff and a growing humanitarian crisis. 
  <p class="updated_time"> 10:19 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/nato-definition.html">What Is NATO?</a> NYT: The North Atlantic Treaty Organization, a military alliance of Western powers, was created during the Cold War and remains central to Western diplomatic and military cooperation. 
- <p class="updated_time"> 04:15 AM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/antigen-tests.html">Racing to Stop Omicron, Countries Rely on At-Home Antigen Tests</a> NYT: Countries aim keep up with the variant’s rapid pace of transmission, marking a shift from viewing P.C.R. testing as the primary method of diagnosis. 
- <p class="updated_time"> 03:58 AM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/asia/beijing-olympics-covid.html">Omicron Deepens Uncertainty Surrounding Beijing Olympics</a> NYT: With the opening of the Winter Games three weeks away, officials in China are on high alert amid coronavirus outbreaks around the country. 
  <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59955682?at_medium=RSS&at_campaign=KARANGA">The 52-year search for a missing girl</a> BBC: On 12 January 1970, a British toddler disappeared from Fairy Meadow beach in NSW, Australia. 
  <p class="updated_time"> 01:42 PM CT, Jan. 11 </p> 
@@ -202,8 +200,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:17 AM CT, Jan. 14 </p> 
+ <p class="updated_time"> 12:42 PM CT, Jan. 14 </p> 
+ <a href="https://www.politico.com/news/2022/01/14/fedex-anti-missile-lasers-cargo-planes-527119">FedEx proposing anti-missile lasers for some planes</a> Politico: The technology was previously tested in some cargo jets in 2008. 
+ <p class="updated_time"> 11:40 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
+ <p class="updated_time"> 11:06 AM CT, Jan. 14 </p> 
+ <a href="https://www.politico.com/news/2022/01/14/us-intel-russia-false-flag-operation-527112">U.S. intel suggests Russia is planning a false-flag operation</a> Politico: The Kremlin has operatives already in Ukraine, laying the groundwork for an invasion, say Biden officials. 
  <p class="updated_time"> 11:01 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110">Sinema speech turbocharges primary challenge buzz</a> Politico: The effort to draft Democratic Rep. Ruben Gallego went into overdrive after the Arizona senator closed the door on weakening the filibuster. 
  <p class="updated_time"> 10:47 AM CT, Jan. 14 </p> 
@@ -296,12 +298,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072778094/sen-sinema-dashes-democrats-hope-to-change-the-filibuster">Biden says he doesn't know if voting rights legislation can pass</a> NPR: The president left a meeting with Senate Democrats pessimistic about a way forward on voting rights, as Sens. Kyrsten Sinema and Joe Manchin reiterated their opposition to changing Senate rules. 
  <p class="updated_time"> 12:07 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/republicans-warn-biden-nuclear-cuts-527030">Top GOP hawks warn Biden against nuclear cuts</a> Politico: Their public warning underscores how politically challenging it will be for Biden to make major reforms to U.S. nuclear strategy. 
- <p class="updated_time"> 11:46 AM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/senate-panel-biden-fda-califf-527025">Senate panel advances Biden's FDA pick in 13-8 vote</a> Politico: Two senators on the panel who caucus with Democrats and six Republicans opposed the nomination. 
  <p class="updated_time"> 11:42 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072765939/republicans-threaten-to-no-longer-participate-in-traditional-general-election-de">Republicans threaten to skip traditional general election debates</a> NPR: The Republican National Committee has released a letter outlining complaints and will ask presidential nominees not to participate in debates put on by the Commission on Presidential Debates. 
- <p class="updated_time"> 11:29 AM CT, Jan. 13 </p> 
- <a href="https://www.politico.com/news/2022/01/13/biden-administration-eyes-additional-batch-of-at-home-covid-tests-as-it-readies-public-rollout-527021">Biden administration will double at-home Covid test order as it readies public rollout</a> Politico: The website on which people can begin ordering the first run of these tests is "on track" to launch next week. 
  <p class="updated_time"> 11:28 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072706279/internal-gop-conflicts-about-2020-election-surface-as-party-fights-new-voting-bi">Internal GOP conflicts about 2020 election surface as party fights new voting bills</a> NPR: Democratic voting legislation has virtually no path to becoming law, but Senate Republicans are fighting it as the GOP still struggles over how to move forward from the 2020 election. 
  <p class="updated_time"> 09:52 AM CT, Jan. 13 </p> 
