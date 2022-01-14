@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:16 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic Has His Visa Revoked Again in Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. 
+ <p class="updated_time"> 01:12 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels tennis star's visa</a> BBC: The decision means the tennis star could miss out on defending his title at the Australian Open. 
  <p class="updated_time"> 12:52 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/how-djokovic-spurred-debate-on-the-fairness-of-border-policies.html">How Djokovic Spurred Debate on the Fairness of Border Policies</a> NYT: The past week has thrown Australia’s strict border control and detention system into the spotlight. 
  <p class="updated_time"> 12:44 AM CT, Jan. 14 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072779687/prince-andrew-royal-privileges-queen">Prince Andrew is stripped of his royal patronages and military titles</a> NPR: The move comes with Queen Elizabeth II's "approval and agreement," Buckingham Palace said. The announcement comes one day after Prince Andrew lost his bid to quash a sex-abuse lawsuit. 
  <p class="updated_time"> 11:48 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072775645/quebec-covid-19-unvaccinated-tax">Quebec's 'unvaxxed tax' has people rushing to get vaccinated</a> NPR: Quebec has reported the most COVID-19 deaths of any Canadian province. Only around 10% of its population is unvaccinated, but they make up 50% of all intensive care cases. 
- <p class="updated_time"> 11:05 AM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59986297?at_medium=RSS&at_campaign=KARANGA">'Havana syndrome': US baffled after new cases in Europe</a> BBC: Secretary of State Antony Blinken says investigations continue after more diplomats fall ill. 
  <p class="updated_time"> 10:49 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/kazakhstan-russia-troops-withdrawal.html">Russian-Led Alliance Begins Withdrawing Troops From Kazakhstan</a> NYT: The force was deployed a week ago to stabilize the Central Asian country after political unrest that left dozens dead and thousands injured. 
  <p class="updated_time"> 09:37 AM CT, Jan. 13 </p> 
