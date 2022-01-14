@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:30 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic Has His Visa Revoked Again in Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. 
+ <p class="updated_time"> 01:39 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. It was unclear what would happen next, with the start of the Australian Open three days away. 
+ <p class="updated_time"> 01:37 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/australia/how-djokovic-spurred-debate-on-the-fairness-of-border-policies.html">How Djokovic Spurred Debate on the Fairness of Border Policies</a> NYT: The past week has thrown Australia’s strict border control and detention system into the spotlight. 
  <p class="updated_time"> 01:12 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels tennis star's visa</a> BBC: The decision means the tennis star could miss out on defending his title at the Australian Open. 
- <p class="updated_time"> 12:52 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/australia/how-djokovic-spurred-debate-on-the-fairness-of-border-policies.html">How Djokovic Spurred Debate on the Fairness of Border Policies</a> NYT: The past week has thrown Australia’s strict border control and detention system into the spotlight. 
  <p class="updated_time"> 12:44 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072972360/south-korea-says-north-korea-fires-projectile-in-third-launch-this-month">South Korea says North Korea fires projectile in third launch this month</a> NPR: South Korea says North Korea fired at least one projectile in its third weapons launch this month, hours after the North warned of stronger action if the U.S. continues its "confrontational stance." 
  <p class="updated_time"> 12:32 AM CT, Jan. 14 </p> 
@@ -21,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59890943?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The twists and turns of his Australia mess</a> BBC: What was meant to be the start of a new year of tennis glory has turned into a global controversy. 
  <p class="updated_time"> 12:12 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires Projectile After Lashing Out Over Sanctions</a> NYT: The country’s launch came after it threatened “stronger and certain reaction” if the United States helped imposed more sanctions over its recent missile tests. 
- <p class="updated_time"> 11:41 PM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59976662?at_medium=RSS&at_campaign=KARANGA">Prayagraj Magh mela: Thousands attend Hindu festival amid Covid surge</a> BBC: Experts fear that the festival in Uttar Pradesh could turn into a hotspot in the coming days. 
  <p class="updated_time"> 11:16 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-59990477?at_medium=RSS&at_campaign=KARANGA">North Korea hackers stole $400m of cryptocurrency in 2021, report says</a> BBC: Blockchain research firm Chainalysis says the value extracted from the hacks grew by 40% year-on-year. 
  <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
@@ -39,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/australia/scott-johnson-australia-gay-killing-confession.html">Australian Man Is Convicted of Killing Gay American in 1980s</a> NYT: The death of Scott Johnson, a young mathematician who was found at the bottom of a cliff, was initially ruled a suicide. His brother had pressed investigators to re-examine the case. 
  <p class="updated_time"> 08:03 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59989124?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Oath Keepers leader charged with seditious conspiracy</a> BBC: This is first time Capitol riot defendants have been accused of seeking to "overthrow" the government. 
- <p class="updated_time"> 07:47 PM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-59990451?at_medium=RSS&at_campaign=KARANGA">China denies interfering in UK politics after MI5 alert</a> BBC: China says it has no need to "buy influence" after MI5 said an agent of the country infiltrated Parliament. 
  <p class="updated_time"> 07:14 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59990200?at_medium=RSS&at_campaign=KARANGA">Biden election law plans crushed by fellow Democrats</a> BBC: A senator warns the president's strategy would worsen the "disease of division infecting our country". 
  <p class="updated_time"> 06:48 PM CT, Jan. 13 </p> 
