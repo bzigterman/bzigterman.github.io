@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:33 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. Djokovic’s lawyers said they would appeal the decision, with the start of the Australian Open three days away. 
  <p class="updated_time"> 08:11 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/giglio-costa-concordia-italy.html">How the Wreck of the Costa Concordia Changed an Italian Island</a> NYT: Ten years ago the Costa Concordia ran aground off the Tuscan island of Giglio, killing 32 people and entwining the lives of others forever. 
  <p class="updated_time"> 08:10 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073001754/ukraine-cyber-attack-government-websites-russia">Ukraine is hit by a massive cyber attack that targeted government websites</a> NPR: A message posted by hackers in Ukrainian, Russian and Polish warns Ukrainians that their personal data has been breached and that they "be afraid and expect the worst." 
- <p class="updated_time"> 08:04 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. Djokovic’s lawyers said they would appeal the decision, with the start of the Australian Open three days away. 
  <p class="updated_time"> 07:21 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/covid-italy-police-pink-masks.html">Pink Covid Masks? No Thanks, Say Some Italian Police Officers</a> NYT: A spokesman for one union said the objection was not from “a prejudice against the color,” but reflected concerns about decorum. 
  <p class="updated_time"> 07:15 AM CT, Jan. 14 </p> 
