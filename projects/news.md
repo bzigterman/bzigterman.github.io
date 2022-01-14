@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:46 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. It was unclear what would happen next, with the start of the Australian Open three days away. 
+ <p class="updated_time"> 03:45 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59994276?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australians react to tennis star's second visa cancellation</a> BBC: People in Melbourne react as Australia revokes tennis star Novak Djokovic's visa for a second time. 
+ <p class="updated_time"> 03:39 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels tennis star's visa</a> BBC: The immigration minister says the unvaccinated tennis star may pose a public health risk. 
  <p class="updated_time"> 03:37 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59992531?at_medium=RSS&at_campaign=KARANGA">Ukraine cyber-attack: Government and embassy websites targeted</a> BBC: Government and embassy websites are targeted but Ukraine says no personal data is leaked. 
- <p class="updated_time"> 03:36 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. It was unclear what would happen next, with the start of the Australian Open three days away. 
  <p class="updated_time"> 03:19 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/india-bishop-rape-nun.html">Indian Bishop Is Acquitted on Charges of Raping a Nun</a> NYT: The bishop, Franco Mulakkal, had been accused of repeatedly assaulting the nun in the southern state of Kerala over a two-year period. 
- <p class="updated_time"> 02:58 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels tennis star's visa</a> BBC: The immigration minister says the unvaccinated tennis star may pose a public health risk. 
  <p class="updated_time"> 02:52 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over its recent missile tests. 
  <p class="updated_time"> 02:41 AM CT, Jan. 14 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/11/arts/dance/tamara-rojo-artistic-director-san-francisco-ballet.html">San Francisco Ballet Appoints Tamara Rojo to Artistic Director</a> NYT: Rojo, who has given the English National Ballet a new allure, succeeds Helgi Tomasson as just the fifth director to lead the San Francisco company. 
  <p class="updated_time"> 01:26 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/ukraine-russia.html">A Russian Pledge of No Invasion? Ukrainians Are Skeptical.</a> NYT: When Russians say no, they often mean yes, a former Ukrainian member of Parliament said, as suspicion ran deep about Moscow’s intentions. 
- <p class="updated_time"> 12:12 PM CT, Jan. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59959947?at_medium=RSS&at_campaign=KARANGA">Children were 'fighting for their lives' in Bronx fire</a> BBC: New Yorkers are still digesting the tragedy of the city's deadliest apartment blaze in three decades. 
  <p class="updated_time"> 11:49 AM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/boris-johnson-uk-parties.html">Boris Johnson Again Accused of Breaking His Own Lockdown Rules</a> NYT: The prime minister and his government are accused — yet again — of violating their own lockdown rules, undermining their credibility and attempts to pivot to other issues. 
  <p class="updated_time"> 11:48 AM CT, Jan. 11 </p> 
