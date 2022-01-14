@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:41 PM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60003308?at_medium=RSS&at_campaign=KARANGA">Lisbon council fined for sharing protester details with foreign embassies</a> BBC: City Hall shared data of protesters demonstrating in front of embassies, including Russia's. 
  <p class="updated_time"> 04:33 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
  <p class="updated_time"> 04:28 PM CT, Jan. 14 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/14/world/europe/nato-russia-ukraine-europe.html">Fear of Russia Brings New Purpose and Unity to NATO, Once Again</a> NYT: After years of drift, Trumpian ridicule and failure in Afghanistan, Russian demands for a new Iron Curtain in Europe have created unity in the alliance, at least for now. 
  <p class="updated_time"> 03:45 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59994276?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australians react to tennis star's second visa cancellation</a> BBC: People in Melbourne react as Australia revokes tennis star Novak Djokovic's visa for a second time. 
- <p class="updated_time"> 02:41 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59976177?at_medium=RSS&at_campaign=KARANGA">Franco Mulakkal: Kerala court clears bishop in nun's rape</a> BBC: Franco Mulakkal was arrested in 2018 and the Vatican had temporarily relieved him of his duties. 
  <p class="updated_time"> 02:21 AM CT, Jan. 14 </p> 
  <a href="https://www.wsj.com/articles/novak-djokovics-visa-is-canceled-by-australia-for-a-second-time-11642144345">Australia Cancels Djokovic's Visa Again</a> WSJ: Australia canceled Novak Djokovic’s visa for a second time, with immigration minister Alex Hawke saying it was in the public interest. 
  <p class="updated_time"> 01:48 AM CT, Jan. 14 </p> 
