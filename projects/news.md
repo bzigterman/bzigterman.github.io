@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:07 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/africa/zimbabwe-moyo-trial.html">Pause in Zimbabwe Trial of Freelance Reporter for The Times</a> NYT: The trial of Jeffrey Moyo, accused of having fabricated accreditation cards for two New York Times journalists, will resume next month. 
  <p class="updated_time"> 02:27 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-60001147?at_medium=RSS&at_campaign=KARANGA">Jailed 'Pharma Bro' Martin Shkreli ordered to repay $64m</a> BBC: Martin Shkreli has also been barred from the US pharmaceutical industry for life. 
  <p class="updated_time"> 01:47 PM CT, Jan. 14 </p> 
