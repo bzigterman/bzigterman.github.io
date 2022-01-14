@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:39 AM CT, Jan. 14 </p> 
+ <p class="updated_time"> 01:48 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels tennis star's visa</a> BBC: The immigration minister says the unvaccinated tennis star may pose a public health risk. 
+ <p class="updated_time"> 01:48 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. It was unclear what would happen next, with the start of the Australian Open three days away. 
+ <p class="updated_time"> 01:47 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-bring-down-government-sites-in-ukraine.html">cyberattack-hacking-ukraine</a> NYT: A cyberattack defaced the Foreign Ministry website with a message saying “Be afraid,” a day after the latest round of high-stakes talks intended to forestall a Russian invasion. 
  <p class="updated_time"> 01:37 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/how-djokovic-spurred-debate-on-the-fairness-of-border-policies.html">How Djokovic Spurred Debate on the Fairness of Border Policies</a> NYT: The past week has thrown Australia’s strict border control and detention system into the spotlight. 
- <p class="updated_time"> 01:12 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels tennis star's visa</a> BBC: The decision means the tennis star could miss out on defending his title at the Australian Open. 
  <p class="updated_time"> 12:44 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072972360/south-korea-says-north-korea-fires-projectile-in-third-launch-this-month">South Korea says North Korea fires projectile in third launch this month</a> NPR: South Korea says North Korea fired at least one projectile in its third weapons launch this month, hours after the North warned of stronger action if the U.S. continues its "confrontational stance." 
  <p class="updated_time"> 12:32 AM CT, Jan. 14 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/asia/beijing-olympics-covid.html">Omicron Deepens Uncertainty Surrounding Beijing Olympics</a> NYT: With the opening of the Winter Games three weeks away, officials in China are on high alert amid coronavirus outbreaks around the country. 
  <p class="updated_time"> 03:09 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/asia/novak-djokovic-covid-statement.html">Djokovic Admits False Statement on Australia Travel Document</a> NYT: The tennis star also said he had participated in an interview and a photo shoot even after testing positive for the coronavirus, in an apparent violation of rules in his native Serbia. 
- <p class="updated_time"> 11:43 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/europe/spain-student-housing-dorms.html">Dorms Pop Up in Spain as More Students Seek Housing Away From Home</a> NYT: The country’s student population has become increasingly mobile, fueling investments in accommodations, largely funded by foreign capital. 
  <p class="updated_time"> 06:12 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/who-europe-covid-omicron-infection.html">Over Half of Europe Could Be Infected With Coronavirus Soon, W.H.O. Says</a> NYT: The agency cautioned against treating the virus like the seasonal flu, since much remains unknown, particularly regarding the severity in areas with lower vaccination rates. 
  <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
