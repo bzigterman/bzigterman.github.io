@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/australia/novak-djokovic-australian-open.html">Novak Djokovic and Global Pandemic Morality</a> NYT: The move to deport Novak Djokovic is not just an exercise of Australian law. It represents an enforcement of collectivist values during an era of extended pestilence. 
+ <p class="updated_time"> 05:29 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels tennis star's visa</a> BBC: The immigration minister says the unvaccinated tennis star may pose a public health risk. 
+ <p class="updated_time"> 05:26 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html">Hackers Bring Down Government Sites in Ukraine</a> NYT: A cyberattack defaced the Foreign Ministry website with a message saying “Be afraid,” a day after the latest round of high-stakes talks intended to forestall a Russian invasion. 
  <p class="updated_time"> 05:06 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. Djokovic’s lawyers said they would appeal the decision, with the start of the Australian Open three days away. 
- <p class="updated_time"> 05:01 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels tennis star's visa</a> BBC: The immigration minister says the unvaccinated tennis star may pose a public health risk. 
  <p class="updated_time"> 04:37 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59992918?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Thirty rescued as man dies off French coast</a> BBC: The man fell overboard from a migrant boat in what is thought to be the first fatality this year. 
  <p class="updated_time"> 04:33 AM CT, Jan. 14 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59976177?at_medium=RSS&at_campaign=KARANGA">Franco Mulakkal: Kerala court clears bishop in nun's rape</a> BBC: Franco Mulakkal was arrested in 2018 and the Vatican had temporarily relieved him of his duties. 
  <p class="updated_time"> 01:48 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072977459/djokovic-faces-deportation-as-australia-revokes-visa-again">Djokovic faces deportation as Australia revokes visa again</a> NPR: Tennis star Novak Djokovic faces deportation again after the Australian government revoked his visa for a second time three days before the Australian Open is set to begin. 
- <p class="updated_time"> 01:47 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html">Hackers Bring Down Government Sites in Ukraine</a> NYT: A cyberattack defaced the Foreign Ministry website with a message saying “Be afraid,” a day after the latest round of high-stakes talks intended to forestall a Russian invasion. 
  <p class="updated_time"> 01:37 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/how-djokovic-spurred-debate-on-the-fairness-of-border-policies.html">How Djokovic Spurred Debate on the Fairness of Border Policies</a> NYT: The past week has thrown Australia’s strict border control and detention system into the spotlight. 
  <p class="updated_time"> 01:34 AM CT, Jan. 14 </p> 
@@ -179,16 +181,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/asia/beijing-olympics-covid.html">Omicron Deepens Uncertainty Surrounding Beijing Olympics</a> NYT: With the opening of the Winter Games three weeks away, officials in China are on high alert amid coronavirus outbreaks around the country. 
  <p class="updated_time"> 03:09 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/asia/novak-djokovic-covid-statement.html">Djokovic Admits False Statement on Australia Travel Document</a> NYT: The tennis star also said he had participated in an interview and a photo shoot even after testing positive for the coronavirus, in an apparent violation of rules in his native Serbia. 
- <p class="updated_time"> 06:12 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/europe/who-europe-covid-omicron-infection.html">Over Half of Europe Could Be Infected With Coronavirus Soon, W.H.O. Says</a> NYT: The agency cautioned against treating the virus like the seasonal flu, since much remains unknown, particularly regarding the severity in areas with lower vaccination rates. 
  <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59955682?at_medium=RSS&at_campaign=KARANGA">The 52-year search for a missing girl</a> BBC: On 12 January 1970, a British toddler disappeared from Fairy Meadow beach in NSW, Australia. 
  <p class="updated_time"> 04:19 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/putin-ukraine-russia.html">Putin’s Next Move on Ukraine Is a Mystery. Just the Way He Likes It.</a> NYT: The contradictory, sometimes menacing messages from the Kremlin have stumped Western officials and Russia experts, showing the Russian leader’s desire to keep his rivals on edge. 
  <p class="updated_time"> 01:42 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59960118?at_medium=RSS&at_campaign=KARANGA">I thought Dad's pig heart transplant was delirium</a> BBC: David Bennett, 57, is the first person in the world to receive a heart transplant from a genetically-modified pig. 
- <p class="updated_time"> 11:49 AM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/europe/boris-johnson-uk-parties.html">Boris Johnson Again Accused of Breaking His Own Lockdown Rules</a> NYT: The prime minister and his government are accused — yet again — of violating their own lockdown rules, undermining their credibility and attempts to pivot to other issues. 
  <p class="updated_time"> 02:08 AM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59949236?at_medium=RSS&at_campaign=KARANGA">First pig heart to human transplant is a game-changer, say surgeons</a> BBC: In a world first, a pig heart has been successfully transplanted into a human by surgeons in the US. 
 
@@ -198,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:33 AM CT, Jan. 14 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/01/14/bill-and-hillary-peek-their-heads-out-495727">Bill and Hillary peek their heads out</a> Politico Playbook: And the Supreme Court strikes down Biden’s large employer vaccine mandate. 
  <p class="updated_time"> 05:00 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/joe-manchin-steve-clemons-527103">What Joe Manchin told Steve Clemons at dinner</a> Politico: On this week’s show, Playbook author Ryan Lizza talks to Steve Clemons, Editor At Large of The Hill, D.C. operator and Joe Manchin’s confidant. 
  <p class="updated_time"> 04:30 AM CT, Jan. 14 </p> 
