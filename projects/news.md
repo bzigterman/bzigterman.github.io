@@ -200,7 +200,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:48 PM CT, Jan. 14 </p> 
+ <p class="updated_time"> 12:55 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/ohio-supreme-court-congressional-maps-gerrymandering.html">Ohio Supreme Court Strikes Down Republican Gerrymander of Map</a> NYT: The congressional map would have given Republicans 12-to-3 advantage in elections for the House of Representatives. 
  <p class="updated_time"> 12:42 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/fedex-anti-missile-lasers-cargo-planes-527119">FedEx proposing anti-missile lasers for some planes</a> Politico: The technology was previously tested in some cargo jets in 2008. 
