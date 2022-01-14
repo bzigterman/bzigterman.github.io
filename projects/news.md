@@ -41,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59991291?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The politics behind Australia's decision</a> BBC: The decision to cancel his visa for the second time is largely about saving face in an election year. 
  <p class="updated_time"> 12:44 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072972360/south-korea-says-north-korea-fires-projectile-in-third-launch-this-month">South Korea says North Korea fires projectile in third launch this month</a> NPR: South Korea says North Korea fired at least one projectile in its third weapons launch this month, hours after the North warned of stronger action if the U.S. continues its "confrontational stance." 
+ <p class="updated_time"> 12:31 AM CT, Jan. 14 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-fired-unidentified-projectile-off-its-east-coast-south-says-11642145343">North Korea Fires Two Missiles After Angry Rant About U.S. Sanctions</a> WSJ: North Korea conducted its third weapons test of the year shortly after Pyongyang issued a blistering response over new American sanctions on the Kim regime. 
  <p class="updated_time"> 12:27 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59890943?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The twists and turns of his Australia mess</a> BBC: What was meant to be the start of a new year of tennis glory has turned into a global controversy. 
  <p class="updated_time"> 11:16 PM CT, Jan. 13 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
  <p class="updated_time"> 08:39 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/australia/scott-johnson-australia-gay-killing-confession.html">Australian Man Is Convicted of Killing Gay American in 1980s</a> NYT: The death of Scott Johnson, a young mathematician who was found at the bottom of a cliff, was initially ruled a suicide. His brother had pressed investigators to re-examine the case. 
- <p class="updated_time"> 08:29 PM CT, Jan. 13 </p> 
- <a href="https://www.wsj.com/articles/north-korea-fired-unidentified-projectile-off-its-east-coast-south-says-11642145343">North Korea Fired Unidentified Projectile Off Its East Coast, South Says</a> WSJ: The type of weapon, where the launch occurred and the flight distance couldn’t immediately be learned. 
  <p class="updated_time"> 08:03 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59989124?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Oath Keepers leader charged with seditious conspiracy</a> BBC: This is first time Capitol riot defendants have been accused of seeking to "overthrow" the government. 
  <p class="updated_time"> 07:33 PM CT, Jan. 13 </p> 
