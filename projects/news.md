@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:41 PM CT, Jan. 14 </p> 
+ <p class="updated_time"> 01:47 PM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia to detain tennis star after visa cancelled</a> BBC: Australia cancelled the tennis star's visa for a second time on Friday, but he is set to appeal. 
+ <p class="updated_time"> 01:45 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
+ <p class="updated_time"> 01:45 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency in Ukraine </a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion have revived the specter of a new Cold War. 
  <p class="updated_time"> 01:13 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59992534?at_medium=RSS&at_campaign=KARANGA">Danish spy scandal: Ex-minister accused of state secrets leak</a> BBC: The case against Claus Hjort Frederiksen comes after an ex-intelligence chief faced similar charges. 
  <p class="updated_time"> 01:02 PM CT, Jan. 14 </p> 
@@ -49,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/14/1073069325/aung-san-suu-kyi-myanmar">Aung San Suu Kyi faces 5 new corruption charges in Myanmar</a> NPR: The ousted leader, who has been detained since last February's military takeover, is already being tried on five other corruption charges. Each is punishable by up to 15 years in prison and a fine. 
  <p class="updated_time"> 10:44 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/americas/cuba-mass-trials-crackdown.html">Mass Trials in Cuba Deepen Its Harshest Crackdown in Decades</a> NYT: Following nationwide demonstrations last year, more than 60 people were put on trial this week, some facing up to 30 years behind bars. 
- <p class="updated_time"> 10:43 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency in Ukraine </a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion have revived the specter of a new Cold War. 
  <p class="updated_time"> 10:33 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/gruyere-cheese-us-court-ruling.html">Is Gruyère Still Gruyère if It Doesn’t Come From Gruyères?</a> NYT: A federal judge says yes, siding with U.S. cheese producers who say gruyère can be produced anywhere, not just in Switzerland and France. 
  <p class="updated_time"> 10:31 AM CT, Jan. 14 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59987711?at_medium=RSS&at_campaign=KARANGA">YouTube rich list: MrBeast was the highest-paid star of 2021</a> BBC: Between them, the 10 highest-paid YouTubers raked in $300m last year. 
  <p class="updated_time"> 08:50 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped impose more sanctions over the North’s recent missile tests. 
- <p class="updated_time"> 08:48 AM CT, Jan. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia to detain tennis star on Saturday after visa cancelled</a> BBC: Australia cancelled the tennis star's visa for a second time on Friday, but he is set to appeal. 
  <p class="updated_time"> 08:42 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59998925?at_medium=RSS&at_campaign=KARANGA">REvil ransomware gang arrested in Russia</a> BBC: Russian authorities dismantle the notorious cyber-crime gang at the request of the United States. 
  <p class="updated_time"> 08:41 AM CT, Jan. 14 </p> 
@@ -213,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:42 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/fedex-anti-missile-lasers-cargo-planes-527119">FedEx proposing anti-missile lasers for some planes</a> Politico: The technology was previously tested in some cargo jets in 2008. 
  <p class="updated_time"> 12:25 PM CT, Jan. 14 </p> 
- <a href="https://www.politico.com/news/2022/01/14/ohio-congressional-map-struck-down-527116">Top Ohio court strikes down state's gerrymandered congressional map</a> Politico: The state Supreme Court ruled Republicans in Columbus had stacked the deck against Democrats, in violation of the state constitution. 
+ <a href="https://www.politico.com/news/2022/01/14/ohio-congressional-map-struck-down-527116">Top Ohio court strikes down state's gerrymandered congressional map</a> Politico: The state Supreme Court ruled Republicans in Columbus had stacked the deck against Democrats in redistricting, in violation of the state constitution. 
  <p class="updated_time"> 12:21 PM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073112515/republican-rep-john-katko-who-voted-for-trumps-impeachment-is-retiring">Republican Rep. John Katko, who voted for Trump's impeachment, is retiring</a> NPR: Katko is the third Republican who voted for former President Donald Trump's second impeachment to announce his retirement. 
  <p class="updated_time"> 11:06 AM CT, Jan. 14 </p> 
