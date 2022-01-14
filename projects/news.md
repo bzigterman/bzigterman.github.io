@@ -7,20 +7,30 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:25 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Threatens ‘Stronger’ Reaction as U.S. Seeks Sanctions Over Missile Tests</a> NYT: The country’s warning came as tensions have crept up over its six missile tests in recent months. 
+ <p class="updated_time"> 07:14 PM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59990200?at_medium=RSS&at_campaign=KARANGA">Biden plans dealt crushing blow by fellow Democrat</a> BBC: A senator warns the president's strategy would worsen the "disease of division infecting our country". 
+ <p class="updated_time"> 06:48 PM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59985589?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Risks remain as Russia and West talk</a> BBC: After a week of talks, there is no sign of Russia pulling back its forces from areas near Ukraine. 
+ <p class="updated_time"> 06:44 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-prince-andrew-royals.html">Prince Andrew and Boris Johnson: The U.K. Deals With Two Crises at Once</a> NYT: Historically, one of the institutions has stabilized the other in rocky moments. With troubling accusations against Prince Andrew and Boris Johnson, that’s not an option now. 
  <p class="updated_time"> 06:43 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/britain-mi5-china-agent-parliament.html">Britain’s Security Agency MI5 Warns Lawmakers of China’s Political Interference</a> NYT: An unusual alert by the agency named a Chinese lawyer who was “knowingly engaged in political interference activities” on behalf of Beijing in the U.K. Parliament. 
  <p class="updated_time"> 06:37 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/middleeast/verdict-syria-war-crimes.html">First Trial for Syrian State Atrocities Yields Guilty Verdict in Germany</a> NYT: A German court found a former Syrian intelligence officer guilty of crimes against humanity and sentenced him to life in prison — a first after a decade of war. 
+ <p class="updated_time"> 06:29 PM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59900733?at_medium=RSS&at_campaign=KARANGA">Discrimination and harassment haunt Sri Lanka's Muslims</a> BBC: Muslim activists say their community is facing a hostile environment after the 2019 Easter bombings. 
  <p class="updated_time"> 06:21 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/russia-ukraine-talks.html">Russia, at an Impasse With the West, Warns It Is Ready to Abandon Diplomacy</a> NYT: In a third round of talks on Eastern European security this week, both Kremlin and American officials sounded an increasingly pessimistic note. 
+ <p class="updated_time"> 06:17 PM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59897898?at_medium=RSS&at_campaign=KARANGA">'As a black woman in STEM I'm used for photo opportunities'</a> BBC: Chemist Cynthia Chapple talks about how to get more black girls from inner-cities into STEM careers. 
  <p class="updated_time"> 05:27 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59988414?at_medium=RSS&at_campaign=KARANGA">Dutch King Willem-Alexander retires coach amid slavery row</a> BBC: Critics say the carriage depicts an image that celebrates the Netherlands' slave-owning past. 
  <p class="updated_time"> 05:25 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072865429/russia-ukraine-conflict-secretary-of-state-antony-blinken">U.S. is 'fully prepared' if Russia invades Ukraine, Secretary of State says</a> NPR: Secretary of State Antony Blinken says the U.S. is planning "things we've not done in the past" if Russia invades Ukraine. Where do things stand now and what can the U.S. do at this point? 
+ <a href="https://www.npr.org/2022/01/13/1072865429/russia-ukraine-conflict-secretary-of-state-antony-blinken">U.S. is 'fully prepared' if Russia invades Ukraine, secretary of state says</a> NPR: Secretary of State Antony Blinken says the U.S. is planning "things we've not done in the past" if Russia invades Ukraine. Where do things stand now, and what can the U.S. do at this point? 
  <p class="updated_time"> 05:04 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59989476?at_medium=RSS&at_campaign=KARANGA">US Supreme Court blocks Biden's workplace vaccine mandate</a> BBC: The ruling marks a major blow to a central pillar of the White House's strategy for tackling Covid-19. 
- <p class="updated_time"> 04:27 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-prince-andrew-royals.html">Prince Andrew and Boris Johnson: The U.K. Deals With Two Crises at Once</a> NYT: Historically, one of the institutions has stabilized the other in rocky moments. With troubling accusations against Prince Andrew and Boris Johnson, that’s not an option now. 
  <p class="updated_time"> 04:22 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072867978/elderly-palestinian-american-man-found-dead-after-being-detained-by-israeli-troo">Elderly Palestinian American man found dead after being detained by Israeli troops</a> NPR: An elderly Palestinian American died shortly after being detained by Israeli forces, prompting an investigation of his treatment. 
  <p class="updated_time"> 04:10 PM CT, Jan. 13 </p> 
@@ -85,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/omicron-peak-appears-to-have-passed-in-u-k-offering-hope-the-wave-is-receding-11642078349">Omicron Appears to Have Peaked in U.K., Offering Hope the Wave Is Receding</a> WSJ: A WSJ analysis of data suggests the wave has peaked, a promising sign that the highly transmissible variant’s impact may be brief, if intense, and fueling optimism that the pandemic may be waning. 
  <p class="updated_time"> 08:29 AM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59949924?at_medium=RSS&at_campaign=KARANGA">German court finds Syrian colonel guilty of crimes against humanity</a> BBC: The trial of Anwar Raslan was the world's first criminal case over state-led torture in Syria. 
- <p class="updated_time"> 08:18 AM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59980405?at_medium=RSS&at_campaign=KARANGA">Kenya Power in the spotlight after nationwide blackout</a> BBC: Kenyans spent several hours with electricity this week, what are the underlying causes? 
  <p class="updated_time"> 08:01 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/queen-elizabeth-strips-prince-andrew-of-his-titles-amid-sex-abuse-court-case-11642097901">Queen Strips Prince Andrew of Titles Amid Sex-Abuse Case</a> WSJ: The queen’s second son also agreed not to use the title “His Royal Highness” in any capacity, as Buckingham Palace cuts ties from the prince. 
  <p class="updated_time"> 07:07 AM CT, Jan. 13 </p> 
@@ -99,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/europe/germany-utilities-funding-prices.html">German Utilities Seek Extra Funding as Energy Prices Explode</a> NYT: Energy companies say they need extra financing to cover future commitments as natural gas prices remain near record levels. 
  <p class="updated_time"> 06:01 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/australia/scott-johnson-australia-gay-killing-confession.html">Australian Man Convicted of Killing Gay American in 1980s</a> NYT: The death of Scott Johnson, a young mathematician who was found at the bottom of a cliff, was initially ruled a suicide. His brother had pressed investigators to re-examine the case. 
- <p class="updated_time"> 05:07 AM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59977916?at_medium=RSS&at_campaign=KARANGA">Israel says it broke up Iranian spy network that recruited women</a> BBC: Four Israeli Jewish women of Iranian descent were allegedly paid thousands of dollars by a handler. 
  <p class="updated_time"> 05:00 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/2021-was-earths-sixth-hottest-year-on-record-temperature-reports-say-11642089601">2021 Was Sixth-Hottest Year on Record, Studies Find</a> WSJ: The global average surface temperature last year reached its sixth-highest level since reliable temperature record-keeping began in 1880, according to reports released by two federal agencies. 
  <p class="updated_time"> 04:58 AM CT, Jan. 13 </p> 
@@ -127,14 +133,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/middleeast/palestinian-american-dies-israel.html">Palestinian American Dies of Heart Attack After Brief Detention by Israeli Troops</a> NYT: The elderly man, who was identified as Omar Asad, had been held during a raid by the Israeli Army on a Palestinian village in the occupied West Bank. 
  <p class="updated_time"> 08:03 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/americas/el-salvador-journalists-spyware.html">Journalists in El Salvador Targeted With Spyware Intended for Criminals</a> NYT: The announcement came months after the U.S. government blacklisted the Israeli firm that produces Pegasus, the technology used to target the journalists. 
- <p class="updated_time"> 06:46 PM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59703123?at_medium=RSS&at_campaign=KARANGA">Nigerian NFT artist Osinachi: The work created by using a word processor</a> BBC: Works by Nigerian Osinachi have made him one of Africa's leading digital and crypto-artists. 
- <p class="updated_time"> 06:11 PM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/business-59950666?at_medium=RSS&at_campaign=KARANGA">The people using YouTube to pay for their French chateau</a> BBC: How chateaux owners are using advertising revenues from social media posts to earn a living. 
  <p class="updated_time"> 06:09 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-famous-apologies.html">Boris Johnson's Apology Is Part of a Long Tradition</a> NYT: Prime Minister Boris Johnson’s self-abasing apology, for attending a party during a pandemic lockdown, joins a long list of mea culpas by the prominent and powerful. 
- <p class="updated_time"> 05:49 PM CT, Jan. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59974220?at_medium=RSS&at_campaign=KARANGA">Virginia Giuffre: What we know about Prince Andrew's accuser</a> BBC: What we know about the woman who has accused the British royal of sexual assault. 
  <p class="updated_time"> 04:56 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/who-omicron-coronavirus.html">W.H.O. Official Urges Countries Not to Relax Covid Guidelines</a> NYT: Over the past week, a staggering average of 2.6 million new cases a day has been reported, according to according to the Center for Systems Science and Engineering at Johns Hopkins University. 
  <p class="updated_time"> 04:30 PM CT, Jan. 12 </p> 
@@ -200,10 +200,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:38 PM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/biden-fed-nomination-raskin-527099">Biden to nominate Raskin, 2 others to Fed board</a> Politico: Biden's selections would put a solid Democratic stamp on the central bank. 
+ <p class="updated_time"> 07:48 PM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/pa-redistricting-527087">Pennsylvania Dems fume over redistricting court case</a> Politico: Some in the party are privately blaming national Democrats' legal strategy, executed by party mega-lawyer Marc Elias, which could result in an unfavorable new congressional map. Elias and his team strongly dispute the criticism. 
+ <p class="updated_time"> 07:28 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/jan-6-tech-subpoenas.html">Jan. 6 Committee Subpoenas Twitter, Meta, Alphabet and Reddit</a> NYT: The panel investigating the attack on the Capitol is demanding information from Alphabet, Meta, Reddit and Twitter. 
+ <p class="updated_time"> 07:25 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Threatens ‘Stronger’ Reaction as U.S. Seeks Sanctions Over Missile Tests</a> NYT: The country’s warning came as tensions have crept up over its six missile tests in recent months. 
+ <p class="updated_time"> 07:14 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/sinema-voting-rights-bill.html">Sinema Rejects Changing Filibuster, Dealing Biden a Setback</a> NYT: Senator Kyrsten Sinema’s comments came after the House approved a set of voting rights measures on a party-line vote of 220 to 203. 
+ <p class="updated_time"> 07:05 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-stewart-rhodes.html">Oath Keepers Leader Charged With Seditious Conspiracy in Jan. 6 Investigation</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald J. Trump. 
  <p class="updated_time"> 06:38 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072929277/a-wisconsin-judge-rules-absentee-ballot-drop-boxes-are-not-allowed-under-state-l">A Wisconsin judge rules absentee ballot drop boxes are not allowed under state law</a> NPR: The ruling could potentially remove an option for voting ahead of the state's crucial midterm elections. The decision is all but certain to be appealed. 
- <p class="updated_time"> 06:33 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-stewart-rhodes.html">Oath Keepers Leader Charged With Seditious Conspiracy in Jan. 6 Investigation</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald J. Trump. 
  <p class="updated_time"> 06:27 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/anti-trump-republicans.html">Anti-Trump Republicans Diverge on 2022 Midterms</a> NYT: Disaffected conservatives broke with their party to oust a sitting president. Some still hope to have a say in the G.O.P.’s future. 
  <p class="updated_time"> 06:18 PM CT, Jan. 13 </p> 
@@ -246,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072819642/stewart-rhodes-oath-keepers-indictment">Oath Keepers leader arrested, charged with seditious conspiracy for Jan. 6 riot</a> NPR: The federal government has charged Stewart Rhodes and 10 others with seditious conspiracy in the most serious case to emerge from its investigation into the Capitol riot. 
  <p class="updated_time"> 02:04 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/head-of-far-right-oath-keepers-10-others-charged-with-seditious-conspiracy-in-capitol-riot-probe-527042">Prosecutors charge Oath Keepers leader, 10 others with seditious conspiracy</a> Politico: The Justice Department has leveled its most serious charges yet stemming from Jan. 6, accusing the leader of the Oath Keepers militia and 10 others of seditious conspiracy. 
- <p class="updated_time"> 02:02 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/sinema-voting-rights-bill.html">Sinema Says She Will Not Support Changing Filibuster</a> NYT: Senator Kyrsten Sinema’s comments came after the House approved a set of voting rights measures on a party-line vote of 220 to 203. 
  <p class="updated_time"> 01:46 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/business/economy/inflation-price-controls.html">Spike in Inflation Reignites Debate on Price Controls</a> NYT: A discussion over whether price controls would work to stem inflation is sweeping progressives. So far, it has little political acceptance. 
  <p class="updated_time"> 01:45 PM CT, Jan. 13 </p> 
@@ -274,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/us/politics/congress-omicron.html">The Mood in the Capitol Was Already Dark. Then Came Omicron.</a> NYT: Congress, always a reflection of the country, is in a testy mood, as the latest coronavirus variant looms over the Capitol and schadenfreude is in full swing. 
  <p class="updated_time"> 09:52 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072730868/biden-announces-plans-to-buy-500-million-more-covid-tests-and-to-offer-free-mask">Biden announces plans to buy 500 million more COVID tests and to offer free masks</a> NPR: The president expects a website to launch next week to order tests. The head of the postal workers union says that up to 7,000 temporary workers will be hired in the effort to get kits to Americans. 
- <p class="updated_time"> 09:24 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/12/business/economy/lael-brainard-fed-confirmation-hearing.html">Lael Brainard, Nominee for Fed Vice Chair, Calls Inflation ‘Too High’</a> NYT: Lael Brainard, the Federal Reserve governor who President Biden nominated for vice chair, said the central bank is focused on getting price gains back down. 
  <p class="updated_time"> 09:00 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/david-scott-house-agriculture-worries-527015">Lawmakers raise health concerns as they quietly seek to replace a House chairman</a> Politico: Some Democratic lawmakers have been trying to gently push out Rep. David Scott as head of the House Agriculture Committee, citing questions about his effectiveness. 
  <p class="updated_time"> 08:21 AM CT, Jan. 13 </p> 
@@ -308,10 +314,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072153233/virginias-first-black-woman-lieutenant-governor-says-we-need-to-move-on-from-sla">Virginia's first Black woman lieutenant governor says we need to move on from slavery</a> NPR: Winsome Sears, a Republican, will be sworn into office Saturday in Virginia alongside Gov.-elect Glenn Youngkin. Sears ran, in part, on the idea that the country's racial reckoning has gone too far. 
  <p class="updated_time"> 10:12 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/politics/lets-go-brandon-meme-gop.html">How the 'Let's Go, Brandon' Meme Became a Campaign Ad</a> NYT: How an inside joke among Republicans became one candidate’s tactic for reaching the G.O.P. masses. 
- <p class="updated_time"> 08:23 PM CT, Jan. 12 </p> 
- <a href="https://www.politico.com/news/2022/01/12/barack-obama-change-filibuster-rules-voting-rights-527007">Obama backs Biden's call to change filibuster rules and pass voting rights legislation</a> Politico: In his first op-ed since leaving office, the former president wrote about the work that must go into protecting democracy. 
- <p class="updated_time"> 08:07 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/us/politics/democrats-voting-rights-bill.html">Democrats Plan to Fast-Track Voting Rights Bill, Speeding a Showdown</a> NYT: The move will allow for debate on the legislation to begin this week, hastening a confrontation with Republicans and the moment when Democrats could try to change Senate rules. 
  <p class="updated_time"> 06:10 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/us/elections/david-mccormick-pennsylvania-senate.html">David McCormick Joins Republican Senate Primary in Pennsylvania</a> NYT: A former Treasury official, Mr. McCormick has drawn comparisons to Glenn Youngkin, the financier recently elected governor of Virginia. 
  <p class="updated_time"> 05:53 PM CT, Jan. 12 </p> 
