@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:16 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Novak Djokovic Has His Visa Revoked Again in Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. 
+ <p class="updated_time"> 01:30 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic Has His Visa Revoked Again in Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. 
  <p class="updated_time"> 01:12 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels tennis star's visa</a> BBC: The decision means the tennis star could miss out on defending his title at the Australian Open. 
  <p class="updated_time"> 12:52 AM CT, Jan. 14 </p> 
@@ -17,6 +17,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/14/1072972360/south-korea-says-north-korea-fires-projectile-in-third-launch-this-month">South Korea says North Korea fires projectile in third launch this month</a> NPR: South Korea says North Korea fired at least one projectile in its third weapons launch this month, hours after the North warned of stronger action if the U.S. continues its "confrontational stance." 
  <p class="updated_time"> 12:32 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59976177?at_medium=RSS&at_campaign=KARANGA">Franco Mulakkal: Kerala court clears bishop in nun's rape</a> BBC: Franco Mulakkal was arrested in 2018 and the Vatican had temporarily relieved him of his duties. 
+ <p class="updated_time"> 12:27 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59890943?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The twists and turns of his Australia mess</a> BBC: What was meant to be the start of a new year of tennis glory has turned into a global controversy. 
  <p class="updated_time"> 12:12 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires Projectile After Lashing Out Over Sanctions</a> NYT: The country’s launch came after it threatened “stronger and certain reaction” if the United States helped imposed more sanctions over its recent missile tests. 
  <p class="updated_time"> 11:41 PM CT, Jan. 13 </p> 
