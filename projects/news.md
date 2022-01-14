@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:28 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. Djokovic’s lawyers said they would appeal the decision, with the start of the Australian Open three days away. 
+ <p class="updated_time"> 07:21 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/europe/covid-italy-police-pink-masks.html">Pink Covid Masks? No Thanks, Say Some Italian Police Officers</a> NYT: A spokesman for one union said the objection was not from “a prejudice against the color,” but reflected concerns about decorum. 
  <p class="updated_time"> 07:15 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over the North’s recent missile tests. 
- <p class="updated_time"> 07:13 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. Djokovic’s lawyers said they would appeal the decision, with the start of the Australian Open three days away. 
  <p class="updated_time"> 06:47 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels tennis star's visa</a> BBC: The immigration minister says the unvaccinated tennis star may pose a public health risk. 
  <p class="updated_time"> 06:22 AM CT, Jan. 14 </p> 
@@ -37,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59994276?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australians react to tennis star's second visa cancellation</a> BBC: People in Melbourne react as Australia revokes tennis star Novak Djokovic's visa for a second time. 
  <p class="updated_time"> 02:41 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59976177?at_medium=RSS&at_campaign=KARANGA">Franco Mulakkal: Kerala court clears bishop in nun's rape</a> BBC: Franco Mulakkal was arrested in 2018 and the Vatican had temporarily relieved him of his duties. 
+ <p class="updated_time"> 02:21 AM CT, Jan. 14 </p> 
+ <a href="https://www.wsj.com/articles/novak-djokovics-visa-is-canceled-by-australia-for-a-second-time-11642144345">Australia Cancels Djokovic's Visa Again</a> WSJ: Australia canceled Novak Djokovic’s visa for a second time, with immigration minister Alex Hawke saying it was in the public interest. 
  <p class="updated_time"> 01:48 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072977459/djokovic-faces-deportation-as-australia-revokes-visa-again">Djokovic faces deportation as Australia revokes visa again</a> NPR: Tennis star Novak Djokovic faces deportation again after the Australian government revoked his visa for a second time three days before the Australian Open is set to begin. 
  <p class="updated_time"> 01:37 AM CT, Jan. 14 </p> 
@@ -51,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59890943?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The twists and turns of his Australia mess</a> BBC: What was meant to be the start of a new year of tennis glory has turned into a global controversy. 
  <p class="updated_time"> 11:16 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-59990477?at_medium=RSS&at_campaign=KARANGA">North Korea hackers stole $400m of cryptocurrency in 2021, report says</a> BBC: Blockchain research firm Chainalysis says the value extracted from the hacks grew by 40% year-on-year. 
- <p class="updated_time"> 10:55 PM CT, Jan. 13 </p> 
- <a href="https://www.wsj.com/articles/novak-djokovics-visa-is-canceled-by-australia-for-a-second-time-11642144345">Australia Cancels Djokovic's Visa Again</a> WSJ: Australia canceled Novak Djokovic’s visa for a second time, with immigration minister Alex Hawke saying it was in the public interest. 
  <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/france-teachers-walkout-covid-coronavirus.html">Teachers in France Stage Walkout Over Covid Rules in Schools</a> NYT: Tens of thousands of teachers, other school personnel and parents took to the streets on Thursday to protest shifting, confusing rules that they say are now too lax. 
  <p class="updated_time"> 10:12 PM CT, Jan. 13 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/asia/novak-djokovic-covid-statement.html">Djokovic Admits False Statement on Australia Travel Document</a> NYT: The tennis star also said he had participated in an interview and a photo shoot even after testing positive for the coronavirus, in an apparent violation of rules in his native Serbia. 
  <p class="updated_time"> 06:09 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59955682?at_medium=RSS&at_campaign=KARANGA">The 52-year search for a missing girl</a> BBC: On 12 January 1970, a British toddler disappeared from Fairy Meadow beach in NSW, Australia. 
- <p class="updated_time"> 04:19 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/europe/putin-ukraine-russia.html">Putin’s Next Move on Ukraine Is a Mystery. Just the Way He Likes It.</a> NYT: The contradictory, sometimes menacing messages from the Kremlin have stumped Western officials and Russia experts, showing the Russian leader’s desire to keep his rivals on edge. 
  <p class="updated_time"> 01:42 PM CT, Jan. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59960118?at_medium=RSS&at_campaign=KARANGA">I thought Dad's pig heart transplant was delirium</a> BBC: David Bennett, 57, is the first person in the world to receive a heart transplant from a genetically-modified pig. 
  <p class="updated_time"> 02:08 AM CT, Jan. 11 </p> 
@@ -243,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:18 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/covid-tests-biden.html">Biden Announces 500 Million More Tests Will be Purchased for Americans</a> NYT: President Biden also announced the allocation of 1,000 medical personnel to six states would carry out a pledge the president made last month on quashing Omicron. 
  <p class="updated_time"> 06:17 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/presidential-debates-rnc.html">R.N.C. Signals a Pullout From Presidential Debates</a> NYT: The Republican National Committee says it will require candidates to pledge to not participate in debates run by the Commission on Presidential Debates. What would replace them, if anything, was unclear. 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/presidential-debates-rnc.html">RNC Signals a Pullout From Presidential Debates</a> NYT: The Republican National Committee says it will require candidates to pledge to not participate in debates run by the Commission on Presidential Debates. What would replace them, if anything, was unclear. 
  <p class="updated_time"> 05:57 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/federal-prisoners-release.html">New Rule Makes Thousands of Federal Inmates Eligible for Release</a> NYT: The Justice Department issued guidelines that allow more prisoners to participate in a program to earn shorter terms under the 2018 bipartisan criminal justice law. 
  <p class="updated_time"> 05:56 PM CT, Jan. 13 </p> 
@@ -324,6 +324,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/13/dems-child-tax-credit-manchin-527000">Down but not out: Dems plot course for Child Tax Credit as payments end</a> Politico: Though lawmakers have now shifted their attention to voting rights, they say they’ll return to the child credit. 
  <p class="updated_time"> 04:30 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/trump-senate-midterm-gop-control-526991">Trump is eyeing the White House and wants a more compliant Senate for when he gets there</a> Politico: The former president still is angry that key agenda items got stymied in the chamber. He doesn’t want that to happen again. 
+ <p class="updated_time"> 08:37 PM CT, Jan. 12 </p> 
+ <a href="https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html">Kevin McCarthy Refuses Interview Request From Jan. 6 Committee</a> NYT: The panel said it was interested in conversations the top House Republican had with President Donald J. Trump on the day of the riot and afterward. 
  <p class="updated_time"> 05:53 PM CT, Jan. 12 </p> 
  <a href="https://www.politico.com/news/2022/01/12/white-house-environmental-justice-exits-526996">White House departures send tremors through environmental community</a> Politico: The abrupt exits of Cecilia Martinez and David Kieve from the White House's Council on Environmental Quality sparked alarm among environmental justice experts. 
  <p class="updated_time"> 03:51 PM CT, Jan. 12 </p> 
@@ -382,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/08/politics/how-to-save-us-democracy-what-matters/index.html">A citizen's guide to saving US democracy</a> CNN: After a week of urgent warnings about the state of American democracy, there were several requests in the What Matters inbox for something more useful than a warning. 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/08/civil-rights-leaders-see-a-turning-point-for-biden-495650"> Civil rights leaders see a turning point for Biden</a> Politico Playbook: And the Jan. 6 committee considers asking Mike Pence for an interview. 
- <p class="updated_time"> 07:38 AM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/01/07/choose-your-own-covid-policy-for-house-return-495639">Choose your own covid policy for House return</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
