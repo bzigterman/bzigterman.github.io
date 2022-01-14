@@ -204,7 +204,9 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:44 PM CT, Jan. 14 </p> 
+ <p class="updated_time"> 06:12 PM CT, Jan. 14 </p> 
+ <a href="https://www.politico.com/news/2022/01/14/russia-colonial-pipeline-arrest-527166">Russia arrests hacker in Colonial Pipeline attack, U.S. says</a> Politico: The arrests followed months of negotiations between the Biden administration and Russian officials around the ransomware attack and other cybersecurity concerns. 
+ <p class="updated_time"> 05:05 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/ohio-supreme-court-congressional-maps-gerrymandering.html">Ohio Supreme Court Strikes Down Republican Gerrymander of Map</a> NYT: The congressional map would have given Republicans an advantage of 12 seats to three in elections for the House of Representatives. 
  <p class="updated_time"> 04:10 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/john-katko-retire-trump-impeachment.html">John Katko, Who Voted to Impeach Trump, Won’t Seek Re-election</a> NYT: Increasingly marginalized from conservatives at home and in Washington, Mr. Katko also faced a brutal general election campaign in his left-leaning New York district. 
@@ -252,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2022/01/14/senate-scraps-recess-for-swing-at-filibuster-495731">Senate scraps recess for swing at filibuster</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:33 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/14/bill-and-hillary-peek-their-heads-out-495727"> Bill and Hillary peek their heads out</a> Politico Playbook: And the Supreme Court strikes down Biden’s large employer vaccine mandate. 
- <p class="updated_time"> 05:00 AM CT, Jan. 14 </p> 
- <a href="https://www.politico.com/news/2022/01/14/joe-manchin-steve-clemons-527103">What Joe Manchin told Steve Clemons at dinner</a> Politico: On this week’s show, Playbook author Ryan Lizza talks to Steve Clemons, Editor At Large of The Hill, D.C. operator and Joe Manchin’s confidant. 
  <p class="updated_time"> 04:30 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/cartoons/2022/01/14/the-nations-cartoonists-on-the-week-in-politics-000278">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Jan. 14 </p> 
