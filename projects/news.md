@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:52 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/australia/how-djokovic-spurred-debate-on-the-fairness-of-border-policies.html">How Djokovic Spurred Debate on the Fairness of Border Policies</a> NYT: The past week has thrown Australia’s strict border control and detention system into the spotlight. 
+ <p class="updated_time"> 12:44 AM CT, Jan. 14 </p> 
+ <a href="https://www.npr.org/2022/01/14/1072972360/south-korea-says-north-korea-fires-projectile-in-third-launch-this-month">South Korea says North Korea fires projectile in third launch this month</a> NPR: South Korea says North Korea fired at least one projectile in its third weapons launch this month, hours after the North warned of stronger action if the U.S. continues its "confrontational stance." 
  <p class="updated_time"> 12:32 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59976177?at_medium=RSS&at_campaign=KARANGA">Franco Mulakkal: Kerala court clears bishop in nun's rape</a> BBC: Franco Mulakkal was arrested in 2018 and the Vatican had temporarily relieved him of his duties. 
  <p class="updated_time"> 12:12 AM CT, Jan. 14 </p> 
@@ -119,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/2021-was-earths-sixth-hottest-year-on-record-temperature-reports-say-11642089601">2021 Was Sixth-Hottest Year on Record, Studies Find</a> WSJ: The global average surface temperature last year reached its sixth-highest level since reliable temperature record-keeping began in 1880, according to reports released by two federal agencies. 
  <p class="updated_time"> 04:58 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072687850/uk-ministers-are-closing-ranks-around-boris-johnson-amid-calls-for-his-resignati">U.K. ministers are closing ranks around Boris Johnson amid calls for his resignation</a> NPR: Johnson apologized on Wednesday for attending a "bring your own booze" party in the garden of the prime minister's Downing Street office and residence in May 2020. 
- <p class="updated_time"> 04:13 AM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072416672/germany-syria-torture-trial-crimes-against-humanity-verdict">In a landmark case, a German court convicts an ex-Syrian officer of torture</a> NPR: The world's first criminal trial on torture in Syria's prisons ended Thursday in Koblenz, Germany — the first time a high-ranking ex-Syrian official faced Syrians in open court in a war crimes case. 
  <p class="updated_time"> 04:06 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/taliban-members.html">The Taliban Have Staffing Issues. They Are Looking for Help in Pakistan.</a> NYT: Government jobs are given as patronage to ex-fighters and exiles living quietly in Pakistan. But not all possess the technical skills required for the job. 
  <p class="updated_time"> 03:11 AM CT, Jan. 13 </p> 
@@ -139,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-famous-apologies.html">Boris Johnson's Apology Is Part of a Long Tradition</a> NYT: Prime Minister Boris Johnson’s self-abasing apology, for attending a party during a pandemic lockdown, joins a long list of mea culpas by the prominent and powerful. 
  <p class="updated_time"> 04:56 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/who-omicron-coronavirus.html">W.H.O. Official Urges Countries Not to Relax Covid Guidelines</a> NYT: Over the past week, a staggering average of 2.6 million new cases a day has been reported, according to according to the Center for Systems Science and Engineering at Johns Hopkins University. 
- <p class="updated_time"> 03:57 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
  <p class="updated_time"> 02:31 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/spanish-doctors-ppe-settlement.html">Spanish Doctors Left Without P.P.E. Early in Pandemic Win Settlement</a> NYT: The ruling was the first in a raft of suits brought by doctors and nurses in Spain who say they worked without masks, gowns or surgical gloves. 
  <p class="updated_time"> 01:19 PM CT, Jan. 12 </p> 
