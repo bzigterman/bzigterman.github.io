@@ -311,7 +311,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:28 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072706279/internal-gop-conflicts-about-2020-election-surface-as-party-fights-new-voting-bi">Internal GOP conflicts about 2020 election surface as party fights new voting bills</a> NPR: Democratic voting legislation has virtually no path to becoming law, but Senate Republicans are fighting it as the GOP still struggles over how to move forward from the 2020 election. 
  <p class="updated_time"> 09:52 AM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072730868/biden-announces-plans-to-buy-500-million-more-covid-tests-and-to-offer-free-mask">You'll be able to order free at-home COVID test kits starting on Wednesday</a> NPR: The Biden administration announced Friday that Americans can begin ordering free at-home COVID-19 tests starting January 19th. Orders can be placed using a website, COVIDTests.gov. 
+ <a href="https://www.npr.org/2022/01/13/1072730868/biden-announces-plans-to-buy-500-million-more-covid-tests-and-to-offer-free-mask">You'll be able to order free at-home COVID test kits starting on Wednesday</a> NPR: The Biden administration announced Friday that Americans can begin ordering free at-home COVID-19 tests starting Jan. 19. Orders can be placed using the website COVIDtests.gov. 
  <p class="updated_time"> 07:34 AM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/13/ball-rolling-on-voting-and-filibuster-overhauls-495715">Ball rolling on voting and filibuster overhauls</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Jan. 13 </p> 
