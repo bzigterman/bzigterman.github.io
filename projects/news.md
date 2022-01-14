@@ -7,7 +7,13 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:46 AM CT, Jan. 14 </p> 
+ <p class="updated_time"> 04:01 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over its recent missile tests. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/europe/nato-russia-ukraine-europe.html">Fear of Russia Brings New Purpose and Unity to NATO, Once Again</a> NYT: After years of drift, Trumpian ridicule and failure in Afghanistan, Russian demands for a new Iron Curtain in Europe have created unity in the alliance, at least for now. 
+ <p class="updated_time"> 04:00 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/europe/bosnia-jasmila-zbanic-quo-vadis-aida.html">Bosnian Film Director Is Vilified in Serbia and ‘Disobedient’ at Home</a> NYT: Jasmila Zbanic, named Europe’s best director for “Quo Vadis, Aida?”, insists on blaming individuals, not ethnic groups, for atrocities done as Yugoslavia imploded, a stance that can anger all sides. 
+ <p class="updated_time"> 03:59 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. It was unclear what would happen next, with the start of the Australian Open three days away. 
  <p class="updated_time"> 03:45 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59994276?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australians react to tennis star's second visa cancellation</a> BBC: People in Melbourne react as Australia revokes tennis star Novak Djokovic's visa for a second time. 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59992531?at_medium=RSS&at_campaign=KARANGA">Ukraine cyber-attack: Government and embassy websites targeted</a> BBC: Government and embassy websites are targeted but Ukraine says no personal data is leaked. 
  <p class="updated_time"> 03:19 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/india-bishop-rape-nun.html">Indian Bishop Is Acquitted on Charges of Raping a Nun</a> NYT: The bishop, Franco Mulakkal, had been accused of repeatedly assaulting the nun in the southern state of Kerala over a two-year period. 
- <p class="updated_time"> 02:52 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over its recent missile tests. 
  <p class="updated_time"> 02:41 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59976177?at_medium=RSS&at_campaign=KARANGA">Franco Mulakkal: Kerala court clears bishop in nun's rape</a> BBC: Franco Mulakkal was arrested in 2018 and the Vatican had temporarily relieved him of his duties. 
  <p class="updated_time"> 01:48 AM CT, Jan. 14 </p> 
@@ -35,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59890943?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The twists and turns of his Australia mess</a> BBC: What was meant to be the start of a new year of tennis glory has turned into a global controversy. 
  <p class="updated_time"> 11:16 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-59990477?at_medium=RSS&at_campaign=KARANGA">North Korea hackers stole $400m of cryptocurrency in 2021, report says</a> BBC: Blockchain research firm Chainalysis says the value extracted from the hacks grew by 40% year-on-year. 
+ <p class="updated_time"> 10:55 PM CT, Jan. 13 </p> 
+ <a href="https://www.wsj.com/articles/novak-djokovics-visa-is-canceled-by-australia-for-a-second-time-11642144345">Australia Cancels Novak Djokovic's Visa Again</a> WSJ: Australia canceled Novak Djokovic’s visa for a second time, with immigration minister Alex Hawke saying it was in the public interest. 
  <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/france-teachers-walkout-covid-coronavirus.html">Teachers in France Stage Walkout Over Covid Rules in Schools</a> NYT: Tens of thousands of teachers, other school personnel and parents took to the streets on Thursday to protest shifting, confusing rules that they say are now too lax. 
  <p class="updated_time"> 10:12 PM CT, Jan. 13 </p> 
@@ -47,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
  <p class="updated_time"> 08:39 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/australia/scott-johnson-australia-gay-killing-confession.html">Australian Man Is Convicted of Killing Gay American in 1980s</a> NYT: The death of Scott Johnson, a young mathematician who was found at the bottom of a cliff, was initially ruled a suicide. His brother had pressed investigators to re-examine the case. 
- <p class="updated_time"> 08:39 PM CT, Jan. 13 </p> 
- <a href="https://www.wsj.com/articles/novak-djokovics-visa-is-canceled-by-australia-for-a-second-time-11642144345">Djokovic's Visa Is Canceled by Australia for a Second Time</a> WSJ: Australia canceled Novak Djokovic’s visa for a second time, with immigration minister Alex Hawke saying it was in the public interest. 
  <p class="updated_time"> 08:29 PM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/north-korea-fired-unidentified-projectile-off-its-east-coast-south-says-11642145343">North Korea Fired Unidentified Projectile Off Its East Coast, South Says</a> WSJ: The type of weapon, where the launch occurred and the flight distance couldn’t immediately be learned. 
  <p class="updated_time"> 08:03 PM CT, Jan. 13 </p> 
@@ -177,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59955682?at_medium=RSS&at_campaign=KARANGA">The 52-year search for a missing girl</a> BBC: On 12 January 1970, a British toddler disappeared from Fairy Meadow beach in NSW, Australia. 
  <p class="updated_time"> 04:19 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/europe/putin-ukraine-russia.html">Putin’s Next Move on Ukraine Is a Mystery. Just the Way He Likes It.</a> NYT: The contradictory, sometimes menacing messages from the Kremlin have stumped Western officials and Russia experts, showing the Russian leader’s desire to keep his rivals on edge. 
- <p class="updated_time"> 03:40 PM CT, Jan. 11 </p> 
- <a href="https://www.nytimes.com/2022/01/11/world/europe/kazakhstan-russia-troops.html">Kazakhstan Says Russian Troops Can Start Leaving This Week</a> NYT: Kazakhstan’s president says violence has been quelled, so there is no longer need for the foreign troops he asked to help. Russia has not given a timeline for withdrawing. 
  <p class="updated_time"> 03:09 PM CT, Jan. 11 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/canada/wheatley-ontario-gas-explosion.html">Source of Mysterious Gas Leak Explosion in Canadian Town Stumps Officials</a> NYT: An explosion last summer in an Ontario community built on 19th-century gas wells has left locals searching for answers and some certainty that their town will ever recover. 
  <p class="updated_time"> 01:42 PM CT, Jan. 11 </p> 
@@ -206,7 +208,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/democrats-voting-rights-megabill-left-out-527095">What Democrats put in their voting rights megabill — and what got left out</a> Politico: The massive legislative package would make massive changes to how people vote as well as redistricting and campaign finance. 
- <p class="updated_time"> 02:52 AM CT, Jan. 14 </p> 
+ <p class="updated_time"> 04:01 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped imposed more sanctions over its recent missile tests. 
  <p class="updated_time"> 11:15 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/business/economy/inflation-price-controls.html">Spike in Inflation Reignites Debate on Price Controls</a> NYT: A discussion over whether price controls would work to stem inflation is sweeping progressives. So far, it has little political acceptance. 
