@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:40 PM CT, Jan. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59990477?at_medium=RSS&at_campaign=KARANGA">North Korea hackers stole $400m of cryptocurrency in 2021, report says</a> BBC: Blockchain research firm Chainalysis says the value extracted from the hacks grew by 40% year-on-year. 
  <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Threatens ‘Stronger’ Reaction as U.S. Seeks Sanctions Over Missile Tests</a> NYT: The country’s warning came as tensions have crept up over its six missile tests in recent months. 
  <p class="updated_time"> 10:14 PM CT, Jan. 13 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59970326?at_medium=RSS&at_campaign=KARANGA">Morocco sex for grades: Hassan I University lecturer jailed</a> BBC: The professor is sentenced to two years in prison after being convicted of indecent behaviour. 
  <p class="updated_time"> 04:13 AM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072416672/germany-syria-torture-trial-crimes-against-humanity-verdict">In a landmark case, a German court convicts an ex-Syrian officer of torture</a> NPR: The world's first criminal trial on torture in Syria's prisons ended Thursday in Koblenz, Germany — the first time a high-ranking ex-Syrian official faced Syrians in open court in a war crimes case. 
- <p class="updated_time"> 04:09 AM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59979408?at_medium=RSS&at_campaign=KARANGA">Canada: Unvaccinated father loses right to see his child</a> BBC: The father is not allowed to see the 12-year-old until next month - unless he gets vaccinated. 
  <p class="updated_time"> 04:06 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/taliban-members.html">The Taliban Have Staffing Issues. They Are Looking for Help in Pakistan.</a> NYT: Government jobs are given as patronage to ex-fighters and exiles living quietly in Pakistan. But not all possess the technical skills required for the job. 
  <p class="updated_time"> 03:11 AM CT, Jan. 13 </p> 
@@ -141,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-famous-apologies.html">Boris Johnson's Apology Is Part of a Long Tradition</a> NYT: Prime Minister Boris Johnson’s self-abasing apology, for attending a party during a pandemic lockdown, joins a long list of mea culpas by the prominent and powerful. 
  <p class="updated_time"> 04:56 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/who-omicron-coronavirus.html">W.H.O. Official Urges Countries Not to Relax Covid Guidelines</a> NYT: Over the past week, a staggering average of 2.6 million new cases a day has been reported, according to according to the Center for Systems Science and Engineering at Johns Hopkins University. 
- <p class="updated_time"> 04:30 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/11/health/southern-africa-hiv-aids.html">In South Africa, Success Against H.I.V. Offers Hope </a> NYT: A former Africa correspondent, who covered the height of the AIDS epidemic there 15 years ago, finds lessons in the remarkable progress against that virus for our current fight. 
  <p class="updated_time"> 03:57 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/11/world/australia/novak-djokovic-australia-border-scott-morrison.html">How the ‘Djokovic Affair’ Came Back to Bite Australia’s Prime Minister</a> NYT: Scott Morrison thought he had a political winner. Now, with an election looming, Australians debate their government’s fairness and competence. 
  <p class="updated_time"> 02:31 PM CT, Jan. 12 </p> 
