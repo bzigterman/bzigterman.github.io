@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:31 PM CT, Jan. 14 </p> 
+ <p class="updated_time"> 01:41 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
  <p class="updated_time"> 01:13 PM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59992534?at_medium=RSS&at_campaign=KARANGA">Danish spy scandal: Ex-minister accused of state secrets leak</a> BBC: The case against Claus Hjort Frederiksen comes after an ex-intelligence chief faced similar charges. 
@@ -69,14 +69,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59998925?at_medium=RSS&at_campaign=KARANGA">REvil ransomware gang arrested in Russia</a> BBC: Russian authorities dismantle the notorious cyber-crime gang at the request of the United States. 
  <p class="updated_time"> 08:41 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/senate-russia-gas-pipeline-ukraine.html">New Sanctions for Russian Gas Pipeline Fall Short in Senate</a> NYT: The measure pitted Ukraine’s president, who was pushing for the penalties, against the Biden administration, which successfully lobbied Democrats to oppose them. 
+ <p class="updated_time"> 08:39 AM CT, Jan. 14 </p> 
+ <a href="https://www.wsj.com/articles/white-house-says-russia-is-planning-false-flag-operation-as-pretext-for-invading-ukraine-11642182308">White House Says Russia Is Planning 'False Flag' Operation as Pretext for Invading Ukraine</a> WSJ: Russia has deployed operatives to undertake a ‘false flag’ operation in Eastern Ukraine that would fabricate a pretext for invading the country, the White House said, warning it saw signs an invasion could come in a matter of weeks. 
  <p class="updated_time"> 08:26 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59993352?at_medium=RSS&at_campaign=KARANGA">Bafta Film Awards: Can Rebel Wilson save the 2022 awards season?</a> BBC: The actress is due to host the Bafta Film Awards in February in an effort to boost viewing figures. 
  <p class="updated_time"> 08:11 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/giglio-costa-concordia-italy.html">How the Wreck of the Costa Concordia Changed an Italian Island</a> NYT: Ten years ago the Costa Concordia ran aground off the Tuscan island of Giglio, killing 32 people and entwining the lives of others forever. 
  <p class="updated_time"> 08:10 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1073001754/ukraine-cyber-attack-government-websites-russia">Ukraine is hit by a massive cyberattack that targeted government websites</a> NPR: A message posted by hackers in Ukrainian, Russian and Polish warns Ukrainians that their personal data has been breached and to "be afraid and expect the worst." 
- <p class="updated_time"> 06:53 AM CT, Jan. 14 </p> 
- <a href="https://www.wsj.com/articles/white-house-says-russia-is-planning-false-flag-operation-as-pretext-for-invading-ukraine-11642182308">White House Says Russia Is Planning 'False Flag' Operation as Pretext for Invading Ukraine</a> WSJ: Russia has prepositioned a group of operatives to conduct a false-flag operation in eastern Ukraine as a pretext for invading the country, White House press secretary Jen Psaki said. 
  <p class="updated_time"> 06:48 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59995862?at_medium=RSS&at_campaign=KARANGA">Bayern defender diagnosed with mild myocarditis</a> BBC: Bayern Munich defender Alphonso Davies stops training after the club detect signs of heart muscle inflammation. 
  <p class="updated_time"> 06:00 AM CT, Jan. 14 </p> 
@@ -202,8 +202,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:56 PM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/biden-remake-federal-reserve-527122">Biden moves to remake the Fed</a> Politico: Biden on Friday tapped two Black economists — Lisa Cook and Philip Jefferson — for open seats on the  board. 
- <p class="updated_time"> 01:31 PM CT, Jan. 14 </p> 
+ <p class="updated_time"> 01:45 PM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
+ <p class="updated_time"> 01:45 PM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency if Russia Invades Ukraine</a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion have revived the specter of a new Cold War. 
  <p class="updated_time"> 01:13 PM CT, Jan. 14 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:55 PM CT, Jan. 14 </p> 
@@ -220,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110">Sinema speech turbocharges primary challenge buzz</a> Politico: The effort to draft Democratic Rep. Ruben Gallego went into overdrive after the Arizona senator closed the door on weakening the filibuster. 
  <p class="updated_time"> 10:47 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/federal-prisoners-release.html">New Rule Makes Thousands of Federal Inmates Eligible for Release</a> NYT: The Justice Department issued guidelines that allow more prisoners to participate in a program to earn shorter terms under the 2018 bipartisan criminal justice law. 
- <p class="updated_time"> 10:43 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency if Russia Invades Ukraine</a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion have revived the specter of a new Cold War. 
  <p class="updated_time"> 10:32 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/facebook-google-ad-market-lawsuit-527108">Zuckerberg and Google CEO approved deal to carve up ad market, states allege in court</a> Politico: Facebook executive Sheryl Sandberg was a signer to the pact, which she described as “a big deal strategically,” an updated lawsuit against Google says. 
  <p class="updated_time"> 08:50 AM CT, Jan. 14 </p> 
