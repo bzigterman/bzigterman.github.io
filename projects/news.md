@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:39 PM CT, Jan. 13 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/world/australia/scott-johnson-australia-gay-killing-confession.html">Australian Man Is Convicted of Killing Gay American in 1980s</a> NYT: The death of Scott Johnson, a young mathematician who was found at the bottom of a cliff, was initially ruled a suicide. His brother had pressed investigators to re-examine the case. 
  <p class="updated_time"> 08:03 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59989124?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Oath Keepers leader charged with seditious conspiracy</a> BBC: This is first time Capitol riot defendants have been accused of seeking to "overthrow" the government. 
  <p class="updated_time"> 07:47 PM CT, Jan. 13 </p> 
@@ -14,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:25 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Threatens ‘Stronger’ Reaction as U.S. Seeks Sanctions Over Missile Tests</a> NYT: The country’s warning came as tensions have crept up over its six missile tests in recent months. 
  <p class="updated_time"> 07:14 PM CT, Jan. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59990200?at_medium=RSS&at_campaign=KARANGA">Biden plans dealt crushing blow by fellow Democrat</a> BBC: A senator warns the president's strategy would worsen the "disease of division infecting our country". 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59990200?at_medium=RSS&at_campaign=KARANGA">Biden plans dealt crushing blow by fellow Democrats</a> BBC: A senator warns the president's strategy would worsen the "disease of division infecting our country". 
  <p class="updated_time"> 06:48 PM CT, Jan. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59985589?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Risks remain as Russia and West talk</a> BBC: After a week of talks, there is no sign of Russia pulling back its forces from areas near Ukraine. 
  <p class="updated_time"> 06:44 PM CT, Jan. 13 </p> 
@@ -107,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/africa/nigeria-lifts-twitter-ban.html">Nigeria Lifts Twitter Ban</a> NYT: The social media site had been blocked after it deleted a post from President Muhammadu Buhari about secessionist groups that was widely seen as threatening. 
  <p class="updated_time"> 06:02 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/germany-utilities-funding-prices.html">German Utilities Seek Extra Funding as Energy Prices Explode</a> NYT: Energy companies say they need extra financing to cover future commitments as natural gas prices remain near record levels. 
- <p class="updated_time"> 06:01 AM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/world/australia/scott-johnson-australia-gay-killing-confession.html">Australian Man Convicted of Killing Gay American in 1980s</a> NYT: The death of Scott Johnson, a young mathematician who was found at the bottom of a cliff, was initially ruled a suicide. His brother had pressed investigators to re-examine the case. 
  <p class="updated_time"> 05:00 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/2021-was-earths-sixth-hottest-year-on-record-temperature-reports-say-11642089601">2021 Was Sixth-Hottest Year on Record, Studies Find</a> WSJ: The global average surface temperature last year reached its sixth-highest level since reliable temperature record-keeping began in 1880, according to reports released by two federal agencies. 
  <p class="updated_time"> 04:58 AM CT, Jan. 13 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:51 PM CT, Jan. 13 </p> 
+ <a href="https://www.politico.com/news/2022/01/13/dems-torpedo-cruz-sanction-russian-pipeline-527076">Dems torpedo Cruz’s bid to sanction Russian pipeline</a> Politico: A nearly party-line vote scuttled the Texas senator's attempt to punish Putin, but a new bill is waiting in the wings. 
  <p class="updated_time"> 08:38 PM CT, Jan. 13 </p> 
  <a href="https://www.politico.com/news/2022/01/13/biden-fed-nomination-raskin-527099">Biden to nominate Raskin, 2 others to Fed board</a> Politico: Biden's selections would put a solid Democratic stamp on the central bank. 
  <p class="updated_time"> 08:05 PM CT, Jan. 13 </p> 
@@ -380,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2022/01/08/politics/how-to-save-us-democracy-what-matters/index.html">A citizen's guide to saving US democracy</a> CNN: After a week of urgent warnings about the state of American democracy, there were several requests in the What Matters inbox for something more useful than a warning. 
  <p class="updated_time"> 10:13 AM CT, Jan. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/01/08/civil-rights-leaders-see-a-turning-point-for-biden-495650"> Civil rights leaders see a turning point for Biden</a> Politico Playbook: And the Jan. 6 committee considers asking Mike Pence for an interview. 
- <p class="updated_time"> 01:23 PM CT, Jan. 07 </p> 
- <a href="https://www.politico.com/news/2022/01/07/pelosi-biden-state-union-address-526742">Pelosi invites Biden for March 1 State of the Union address</a> Politico: The scheduling of Biden’s State of the Union comes at a fragile time for his administration’s agenda. 
  <p class="updated_time"> 07:38 AM CT, Jan. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/01/07/choose-your-own-covid-policy-for-house-return-495639">Choose your own covid policy for House return</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Jan. 07 </p> 
