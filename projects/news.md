@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:01 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. It was unclear what would happen next, with the start of the Australian Open three days away. 
+ <p class="updated_time"> 01:48 AM CT, Jan. 14 </p> 
+ <a href="https://www.npr.org/2022/01/14/1072977459/djokovic-faces-deportation-as-australia-revokes-visa-again">Djokovic faces deportation as Australia revokes visa again</a> NPR: Tennis star Novak Djokovic faces deportation again after the Australian government revoked his visa for a second time three days before the Australian Open is set to begin. 
  <p class="updated_time"> 01:48 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59991762?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Australia cancels tennis star's visa</a> BBC: The immigration minister says the unvaccinated tennis star may pose a public health risk. 
- <p class="updated_time"> 01:48 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. It was unclear what would happen next, with the start of the Australian Open three days away. 
  <p class="updated_time"> 01:47 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-bring-down-government-sites-in-ukraine.html">cyberattack-hacking-ukraine</a> NYT: A cyberattack defaced the Foreign Ministry website with a message saying “Be afraid,” a day after the latest round of high-stakes talks intended to forestall a Russian invasion. 
+ <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html">Hackers Bring Down Government Sites in Ukraine</a> NYT: A cyberattack defaced the Foreign Ministry website with a message saying “Be afraid,” a day after the latest round of high-stakes talks intended to forestall a Russian invasion. 
  <p class="updated_time"> 01:37 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/australia/how-djokovic-spurred-debate-on-the-fairness-of-border-policies.html">How Djokovic Spurred Debate on the Fairness of Border Policies</a> NYT: The past week has thrown Australia’s strict border control and detention system into the spotlight. 
+ <p class="updated_time"> 01:34 AM CT, Jan. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59991291?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: The politics behind Australia's decision</a> BBC: The decision to cancel his visa for the second time is largely about saving face in an election year. 
  <p class="updated_time"> 12:44 AM CT, Jan. 14 </p> 
  <a href="https://www.npr.org/2022/01/14/1072972360/south-korea-says-north-korea-fires-projectile-in-third-launch-this-month">South Korea says North Korea fires projectile in third launch this month</a> NPR: South Korea says North Korea fired at least one projectile in its third weapons launch this month, hours after the North warned of stronger action if the U.S. continues its "confrontational stance." 
  <p class="updated_time"> 12:32 AM CT, Jan. 14 </p> 
@@ -123,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/world/europe/germany-utilities-funding-prices.html">German Utilities Seek Extra Funding as Energy Prices Explode</a> NYT: Energy companies say they need extra financing to cover future commitments as natural gas prices remain near record levels. 
  <p class="updated_time"> 05:00 AM CT, Jan. 13 </p> 
  <a href="https://www.wsj.com/articles/2021-was-earths-sixth-hottest-year-on-record-temperature-reports-say-11642089601">2021 Was Sixth-Hottest Year on Record, Studies Find</a> WSJ: The global average surface temperature last year reached its sixth-highest level since reliable temperature record-keeping began in 1880, according to reports released by two federal agencies. 
- <p class="updated_time"> 04:58 AM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072687850/uk-ministers-are-closing-ranks-around-boris-johnson-amid-calls-for-his-resignati">U.K. ministers are closing ranks around Boris Johnson amid calls for his resignation</a> NPR: Johnson apologized on Wednesday for attending a "bring your own booze" party in the garden of the prime minister's Downing Street office and residence in May 2020. 
  <p class="updated_time"> 04:06 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/taliban-members.html">The Taliban Have Staffing Issues. They Are Looking for Help in Pakistan.</a> NYT: Government jobs are given as patronage to ex-fighters and exiles living quietly in Pakistan. But not all possess the technical skills required for the job. 
  <p class="updated_time"> 03:11 AM CT, Jan. 13 </p> 
