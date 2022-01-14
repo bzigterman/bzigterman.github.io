@@ -7,22 +7,32 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:33 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: The action came days after a judge overruled border officials and allowed the tennis star to stay. Djokovic’s lawyers said they would appeal the decision, with the start of the Australian Open three days away. 
+ <p class="updated_time"> 11:00 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/01/14/sports/novak-djokovic-australia">Live Updates: Novak Djokovic’s Visa Is Canceled Again by Australia</a> NYT: Djokovic’s lawyers said they would appeal the decision. The tennis star could be detained again on Saturday, with the Australian Open starting on Monday. 
+ <p class="updated_time"> 10:54 AM CT, Jan. 14 </p> 
+ <a href="https://www.npr.org/2022/01/14/1073033973/djokovic-australian-open-updates">Here's what other tennis stars are saying about Djokovic's vaccine saga</a> NPR: Even players who have previously said Djokovic should have simply followed the rules say they have sympathy for his plight. 
+ <p class="updated_time"> 10:54 AM CT, Jan. 14 </p> 
+ <a href="https://www.npr.org/2022/01/14/1073069325/aung-san-suu-kyi-myanmar">Aung San Suu Kyi faces 5 new corruption charges in Myanmar</a> NPR: The ousted leader, who has been detained since last February's military takeover, is already being tried on five other corruption charges. Each is punishable by up to 15 years in prison and a fine. 
+ <p class="updated_time"> 10:47 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
+ <p class="updated_time"> 10:45 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/europe/coronavirus-europe-uk.html">The Omicron Shift in Europe: Pandemic or Endemic?</a> NYT: A number of governments have changed their approaches to the coronavirus, to one that is more like how we treat the flu. Public health experts say it’s too soon to make that call. 
+ <p class="updated_time"> 10:44 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/world/americas/cuba-mass-trials-crackdown.html">Mass Trials in Cuba Deepen Its Harshest Crackdown in Decades</a> NYT: Following nationwide demonstrations last year, more than 60 people were put on trial this week, some facing up to 30 years behind bars. 
+ <p class="updated_time"> 10:43 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency in Ukraine </a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion have revived the specter of a new Cold War. 
  <p class="updated_time"> 10:33 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/12/business/gruyere-cheese-us-court-ruling.html">Is Gruyère Still Gruyère if It Doesn’t Come From Gruyères?</a> NYT: A federal judge says yes, siding with U.S. cheese producers who say gruyère can be produced anywhere, not just in Switzerland and France. 
+ <p class="updated_time"> 10:31 AM CT, Jan. 14 </p> 
+ <a href="https://www.npr.org/2022/01/14/1073055412/boris-johnson-party-prince-philip-funeral">Boris Johnson's office apologizes for a party held before Prince Philip's funeral</a> NPR: Farewell parties for the prime minister's departing communications chief and another staffer, complete with late-night drinking and dancing, took place the night before the royal funeral last April. 
  <p class="updated_time"> 10:28 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/covid-philippines-schools.html">Philippines Puts Schools on ‘Health Break’ as Covid Cases Soar</a> NYT: Officials said the weeklong suspension of classes in Manila would let teachers and students recover from the virus, or care for others who had it. 
- <p class="updated_time"> 10:11 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/world/europe/coronavirus-europe-uk.html">The Omicron Shift in Europe: Pandemic or Endemic?</a> NYT: A number of governments have changed their approaches to the coronavirus to one that is more like how we treat the flu. Public health experts say it’s too soon to make that call. 
  <p class="updated_time"> 10:10 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59992531?at_medium=RSS&at_campaign=KARANGA">Ukraine cyber-attack: Russia to blame for hack, says Kyiv</a> BBC: About 70 Ukrainian government websites were targeted, including the foreign and energy ministries. 
  <p class="updated_time"> 10:04 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/boris-johnson-apology-lockdown-parties.html">Boris Johnson’s Office Apologizes to Queen for Parties</a> NYT: The prime minister’s office said it was “deeply regrettable” that two parties took place at Downing Street the night before Prince Philip’s funeral. Mr. Johnson was not accused of attending either of them. 
  <p class="updated_time"> 09:45 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html">Hackers Bring Down Government Sites in Ukraine</a> NYT: “Be afraid,” warned a message on the defaced Foreign Ministry website, a day after talks between the West and Moscow aimed at preventing a Russian invasion hit an impasse. 
- <p class="updated_time"> 09:39 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency in Ukraine </a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion has revived the specter of a new Cold War. 
  <p class="updated_time"> 09:36 AM CT, Jan. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59977198?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic and the unanswered questions</a> BBC: Australian authorities have cancelled the Serbian's visa, but can he still avoid deportation? 
  <p class="updated_time"> 09:18 AM CT, Jan. 14 </p> 
@@ -137,18 +147,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2022/01/13/1072867402/the-view-from-border-city-kharkiv-ukraine-as-russian-troops-appear-ready-to-inva">The view from border city Kharkiv, Ukraine, as Russian troops appear ready to invade</a> NPR: Kharkiv in eastern Ukraine has a large Russian population, but opinion has turned against Russia since the Kemlin stirred up a separatist war in the nearby Donbas and is threatening invasion. 
  <p class="updated_time"> 03:46 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/prince-andrew-military-titles-abuse-case.html">Prince Andrew Is Stripped of Military Titles as Sexual Abuse Case Proceeds</a> NYT: Buckingham Palace said Andrew would not undertake any public duties and was defending his case as a private citizen. 
- <p class="updated_time"> 03:32 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072860337/nobel-peace-prize-ethiopian-prime-minister">Nobel body criticizes Ethiopian prime minister, a Peace Prize winner, over Tigray war</a> NPR: "As prime minister and winner of the Nobel Peace Prize, Abiy Ahmed has a special responsibility to end the conflict and contribute to peace," the Oslo-based committee said in a statement. 
- <p class="updated_time"> 03:27 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072867400/prince-andrew-to-face-sex-abuse-charges-as-a-private-citizen">Prince Andrew to face sex abuse charges as a private citizen</a> NPR: Britain's Prince Andrew will face sex abuse allegations as a private citizen, Buckingham Palace announced. He has also given up all public duties as well as his military titles and Royal charities. 
  <p class="updated_time"> 02:55 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/nato-ukraine.html">NATO Won’t Let Ukraine Join Soon. Here’s Why.</a> NYT: Ukraine, with Russian troops on its borders, is pressing for membership. But President Biden and European leaders are not ready for that step. 
  <p class="updated_time"> 02:33 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/boris-johnson-oust.html">How Conservatives Could Oust Prime Minister Boris Johnson</a> NYT: The future of Britain’s prime minister is in doubt after he admitted attending a party while the country was under Covid lockdown. Here’s a guide to how he could be forced out, or fight on. 
  <p class="updated_time"> 01:17 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/havana-syndrome-evaluation-tool.html">US Refines Tool to Evaluate 'Havana Syndrome' Cases</a> NYT: The tool, essentially a standardized battery of questions and medical tests, can help determine the kind of care needed by people affected by the “anomalous health incidents.” 
- <p class="updated_time"> 12:52 PM CT, Jan. 13 </p> 
- <a href="https://www.npr.org/2022/01/13/1072735380/journalist-says-u-s-air-war-against-isis-killed-countless-civilians-in-syria">Journalist says U.S. air war against ISIS killed countless civilians in Syria </a> NPR: New York Times reporter Dave Philipps says a top-secret special ops unit disregarded official protocols to pick targets for airstrikes, resulting in the death of thousands of farmers and families. 
  <p class="updated_time"> 10:49 AM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/world/europe/kazakhstan-russia-troops-withdrawal.html">Russian-Led Alliance Begins Withdrawing Troops From Kazakhstan</a> NYT: The force was deployed a week ago to stabilize the Central Asian country after political unrest that left dozens dead and thousands injured. 
  <p class="updated_time"> 07:07 AM CT, Jan. 13 </p> 
@@ -175,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/12/world/spanish-doctors-ppe-settlement.html">Spanish Doctors Left Without P.P.E. Early in Pandemic Win Settlement</a> NYT: The ruling was the first in a raft of suits brought by doctors and nurses in Spain who say they worked without masks, gowns or surgical gloves. 
  <p class="updated_time"> 01:19 PM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/europe/russia-sanctions-ukraine-nord-stream-pipeline.html">Senate Democrats Try to Advance Russia Sanctions Over Ukraine </a> NYT: The Democrats’ bill would impose new sanctions on Russian officials if Moscow invaded Ukraine. 
- <p class="updated_time"> 12:14 PM CT, Jan. 12 </p> 
- <a href="https://www.nytimes.com/2022/01/12/world/europe/boris-johnson-uk-parties.html">Boris Johnson, Under Fire, Apologizes for Pandemic Party</a> NYT: The British prime minister, on the defensive after a series of ethical lapses, said, “There were things we simply did not get right” about a gathering at Downing Street during a lockdown in 2020. 
  <p class="updated_time"> 11:42 AM CT, Jan. 12 </p> 
  <a href="https://www.nytimes.com/2022/01/12/world/africa/somalia-car-bomb.html">Car Bomb in Mogadishu, Somalia's Capital, Kills 8</a> NYT: The explosion, one of a string of recent attacks, comes as the country grapples with a political standoff and a growing humanitarian crisis. 
  <p class="updated_time"> 10:19 AM CT, Jan. 12 </p> 
@@ -198,10 +200,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2022/01/14/us-intel-russia-false-flag-operation-527112">U.S. intel suggests Russia is planning a false-flag operation</a> Politico: The Kremlin has operatives already in Ukraine, laying the groundwork for an invasion, say Biden officials. 
  <p class="updated_time"> 11:01 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110">Sinema speech turbocharges primary challenge buzz</a> Politico: The effort to draft Democratic Rep. Ruben Gallego went into overdrive after the Arizona senator closed the door on weakening the filibuster. 
+ <p class="updated_time"> 10:47 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-us-intelligence.html">U.S. Charges Russia Sent Saboteurs Into Ukraine to Create Pretext for Invasion</a> NYT: The intelligence said the operatives were “trained in urban warfare and in using explosives,” and could try to stage an incident. 
+ <p class="updated_time"> 10:47 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/13/us/politics/federal-prisoners-release.html">New Rule Makes Thousands of Federal Inmates Eligible for Release</a> NYT: The Justice Department issued guidelines that allow more prisoners to participate in a program to earn shorter terms under the 2018 bipartisan criminal justice law. 
+ <p class="updated_time"> 10:43 AM CT, Jan. 14 </p> 
+ <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency if Russia Invades Ukraine</a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion have revived the specter of a new Cold War. 
  <p class="updated_time"> 10:32 AM CT, Jan. 14 </p> 
  <a href="https://www.politico.com/news/2022/01/14/facebook-google-ad-market-lawsuit-527108">Zuckerberg and Google CEO approved deal to carve up ad market, states allege in court</a> Politico: Facebook executive Sheryl Sandberg was a signer to the pact, which she described as “a big deal strategically,” an updated lawsuit against Google says. 
- <p class="updated_time"> 09:39 AM CT, Jan. 14 </p> 
- <a href="https://www.nytimes.com/2022/01/14/us/politics/russia-ukraine-biden-military.html">U.S. Considers Backing an Insurgency if Russia Invades Ukraine</a> NYT: Conversations about how far the United States would go to subvert Russia in the event of an invasion have revived the specter of a new Cold War. 
  <p class="updated_time"> 08:50 AM CT, Jan. 14 </p> 
  <a href="https://www.nytimes.com/2022/01/14/world/asia/north-korea-missiles-us-sanctions.html">North Korea Fires 2 Ballistic Missiles After Lashing Out</a> NYT: The launches came after the country threatened “stronger and certain reaction” if the United States helped impose more sanctions over the North’s recent missile tests. 
  <p class="updated_time"> 08:41 AM CT, Jan. 14 </p> 
@@ -246,12 +252,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2022/01/13/us/politics/oath-keepers-stewart-rhodes.html">Oath Keepers Leader Stewart Rhodes Arrested in Jan. 6 Inquiry</a> NYT: The F.B.I. arrested Stewart Rhodes, the founder of the far-right militia, in a major step forward in the investigation into the attack on the Capitol by supporters of Donald J. Trump. 
  <p class="updated_time"> 06:38 PM CT, Jan. 13 </p> 
  <a href="https://www.npr.org/2022/01/13/1072929277/a-wisconsin-judge-rules-absentee-ballot-drop-boxes-are-not-allowed-under-state-l">A Wisconsin judge rules absentee ballot drop boxes are not allowed under state law</a> NPR: The ruling could potentially remove an option for voting ahead of the state's crucial midterm elections. The decision is all but certain to be appealed. 
- <p class="updated_time"> 06:18 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/covid-tests-biden.html">Biden Announces 500 Million More Tests Will be Purchased for Americans</a> NYT: President Biden also announced the allocation of 1,000 medical personnel to six states would carry out a pledge the president made last month on quashing Omicron. 
  <p class="updated_time"> 06:17 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/us/politics/presidential-debates-rnc.html">R.N.C. Signals a Pullout From Presidential Debates</a> NYT: The Republican National Committee says it will require candidates to pledge to not participate in debates run by the Commission on Presidential Debates. What would replace them, if anything, was unclear. 
- <p class="updated_time"> 05:57 PM CT, Jan. 13 </p> 
- <a href="https://www.nytimes.com/2022/01/13/us/politics/federal-prisoners-release.html">New Rule Makes Thousands of Federal Inmates Eligible for Release</a> NYT: The Justice Department issued guidelines that allow more prisoners to participate in a program to earn shorter terms under the 2018 bipartisan criminal justice law. 
  <p class="updated_time"> 05:49 PM CT, Jan. 13 </p> 
  <a href="https://www.nytimes.com/2022/01/13/business/osha-vaccine-mandate-businesses.html">Businesses are whipsawed again as the Supreme Court blocks OSHA’s vaccine mandate.</a> NYT: Companies must now decide whether to proceed with planned mandates without cover from the federal government. 
  <p class="updated_time"> 05:34 PM CT, Jan. 13 </p> 
